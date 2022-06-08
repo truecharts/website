@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: redkubes/docusaurus-deploy-action@master
         with:
-          source-folder: website
-          git-user: $SOME_USERNAME
+          source-folder: .
+          git-user: truecharts-bot
           git-password: ${{ secrets.GITHUB_TOKEN }}
           deployment-branch: gh-pages
