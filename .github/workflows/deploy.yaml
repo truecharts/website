@@ -8,22 +8,12 @@ on:
 
 jobs:
   deploy:
-    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
-      - uses: actions/setup-node@eeb10cff27034e7acf239c5d29f62154018672fd # tag=v3
+      - uses: actions/checkout@master
+      - uses: redkubes/docusaurus-deploy-action@master
         with:
-          node-version: 16.x
-          cache: npm
-      - name: Install dependencies
-        run: npm ci
-      - name: Build website
-        run: npm run build
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@068dc23d9710f1ba62e86896f84735d869951305 # tag=v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          user_name: truecharts-bot
-          user_email: bot@truecharts.org
+          source-folder: website
+          git-user: $SOME_USERNAME
+          git-password: ${{ secrets.GITHUB_TOKEN }}
+          deployment-branch: gh-pages
