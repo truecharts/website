@@ -52,7 +52,7 @@ const config = {
         title: "TrueCharts",
         logo: {
           alt: "TrueCharts logo",
-          src: "img/logo.svg"
+          src: "img/1024.png"
         },
         items: [
 
