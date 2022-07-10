@@ -10,7 +10,7 @@ const config = {
   tagline: "Awesome Helm Charts and SCALE Apps",
   url: "https://truecharts.org",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon/favicon.ico",
 
