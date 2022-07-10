@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
-  // GitHub pages deployment config.
+// GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "truecharts", // Usually your GitHub org/user name.
   projectName: "new-pub", // Usually your repo name.
@@ -60,7 +60,12 @@ const config = {
           src: "img/1024.png"
         },
         items: [
-
+          {
+            type: "doc",
+            docId: "about/intro",
+            position: "left",
+            label: "About"
+          },
           { to: "/blog", label: "Blog", position: "left" },
           {
             type: "doc",
