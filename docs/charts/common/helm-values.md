@@ -50,7 +50,7 @@ This chart is used by a lot of our Apps to provide sane defaults and logic.
 | alpineImage.repository | string | `"ghcr.io/truecharts/alpine"` | Specify the Alpine image |
 | alpineImage.tag | string | `"v3.15.2@sha256:29ed3480a0ee43f7af681fed5d4fc215516abf1c41eade6938b26d8c9c2c7583"` | Specify the Alpine image tag |
 | args | list | `[]` | Override the args for the default container |
-| autoscaling | object | <disabled> | Add a Horizontal Pod Autoscaler |
+| autoscaling | object | disabled | Add a Horizontal Pod Autoscaler |
 | codeserverImage | object | See below | codeserver specific configuration |
 | codeserverImage.pullPolicy | string | `"IfNotPresent"` | Specify the code-server image pull policy |
 | codeserverImage.repository | string | `"ghcr.io/truecharts/code-server"` | Specify the code-server image |
