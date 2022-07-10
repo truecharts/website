@@ -19,7 +19,7 @@ In this document we give you a short reference guide (ported from IX Official) w
 |     schema.max_length           | int           | false      |  max character length for string type variable.|
 |     schema.min                  | int           | false      |  min integer length. |
 |     schema.max                  | int           | false      |  max integer length. |
-|     schema.enum                 | []dictionary  | false      |  specify the options when the variable type is `string`, for example, <br><br>enum:<br> - value: "RollingUpdate" <br>&nbsp;&nbsp;description: "Create new pods and then kill old ones"<br> - value: "Recreate"<br>&nbsp;&nbsp;description: "Kill existing pods before creating new ones"|
+|     schema.enum                 | []dictionary  | false      |  specify the options when the variable type is `string`, for example, <br /><br />enum:<br /> - value: "RollingUpdate" <br />&nbsp;&nbsp;description: "Create new pods and then kill old ones"<br /> - value: "Recreate"<br />&nbsp;&nbsp;description: "Kill existing pods before creating new ones"|
 |     schema.valid_chars          | string        | false      |  regular expression for input chars validation. |
 |     schema.subquestions         | []subquestion | false      |  add an array of subquestions.|
 |     schema.show_if              | string        | false      | show current variable if condition specified is true, for example `show_if: [["workloadType", "=", "CronJob"]]` |
