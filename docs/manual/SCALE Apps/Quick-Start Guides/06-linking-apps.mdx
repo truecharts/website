@@ -32,6 +32,9 @@ If you need to reach a different service (which is not often the case!), you nee
 
 ##### Internal Domain Name generator
 
+function createMarkup() {
+    return {
+
 <link href="https://truecharts.org/_static/form.css" type="text/css" rel="stylesheet" />
 <FORM id="frameform"><BR>
 <div class="form">
@@ -81,7 +84,11 @@ function submit(event) {
      console.log(svcdns)
     return false;
 }
-</SCRIPT>
+</SCRIPT>};
+ }; 
+ 
+<div dangerouslySetInnerHTML={createMarkup()} /> 
+
 
 ##### Example
 
