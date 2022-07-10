@@ -32,62 +32,6 @@ If you need to reach a different service (which is not often the case!), you nee
 
 ##### Internal Domain Name generator
 
-function createMarkup() {
-    return {
-
-<link href="https://truecharts.org/_static/form.css" type="text/css" rel="stylesheet" />
-<FORM id="frameform"><BR>
-<div class="form">
-  <div class="subtitle">Generate Internal DNS Name</div>
-  <div class="input-container ic1">
-    <input required id="name" class="input" type="text" placeholder=" " />
-    <div class="cut cut-short-name"></div>
-    <label for="name" class="placeholder">Name (e.g. my-plex-app)</label>
-  </div>
-  <div class="input-container ic2">
-    <input required id="app" class="input" type="text" placeholder=" " />
-    <div class="cut cut-short-app"></div>
-    <label for="app" class="placeholder">App (e.g. plex)</label>
-  </div>
-  <div class="input-container ic2">
-    <input id="service" class="input" type="text" placeholder=" " />
-    <div class="cut"></div>
-    <label for="service" class="placeholder">Service (Optional)</>
-  </div>
-  <INPUT TYPE="submit" class="submit" NAME="button" Value="Generate">
-</div>
-</FORM>
-
-<SCRIPT LANGUAGE="JavaScript">
-const form = document.getElementById('frameform');
-const name = document.getElementById('name');
-const app = document.getElementById('app');
-const service = document.getElementById('service');
-
-form.onsubmit = submit;
-
-function submit(event) {
-
-
-    var svcname = ""
-    if (name.value.includes(app.value)) {
-      svcname = name.value ;
-    } else {
-      svcname = name.value + "-" + app.value ;
-    }
-    if (service.value) {
-      svcname = svcname + "-" + service.value ;
-    }
-    let svcdns = svcname + ".ix-" + name.value + ".svc.cluster.local" ;
-
-    alert ("Service DNS Name: " + svcdns);
-     console.log(svcdns)
-    return false;
-}
-</SCRIPT>};
- }; 
- 
-<div dangerouslySetInnerHTML={createMarkup()} /> 
 
 
 ##### Example
