@@ -2,7 +2,7 @@ module.exports = {
   dryRun: false,
   username: 'truecharts-bot',
   gitAuthor: 'truecharts-bot <bot@truecharts.org>',
-  onboarding: false,
+  onboarding: true,
   platform: 'github',
   repositories: [
     'truecharts/new-pub',
