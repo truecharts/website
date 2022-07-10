@@ -1,6 +1,6 @@
 ---
-slug: Helm as a foundation
-title: Helm as a foundation
+slug: "Helm as a foundation"
+title: "Helm as a foundation"
 authors: [ornias]
 ---
 After some carefull consideration about how we want to move the project forward, we've decided to put our Helm Charts first and other solutions second.
