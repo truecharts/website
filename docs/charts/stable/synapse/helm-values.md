@@ -62,7 +62,7 @@ You will, however, be able to use all values referenced in the common chart here
 | matrix.logging.sqlLogLevel | string | `"WARNING"` |  information such as access tokens. |
 | matrix.logging.synapseLogLevel | string | `"WARNING"` |  |
 | matrix.presence | bool | `true` |  This is *optional* if an Ingress is configured below. If hostname is unspecified, the Synapse hostname of the Ingress will be used hostname: "matrix.example.com" Set to false to disable presence (online/offline indicators) |
-| matrix.registration.allowGuests | bool | `false` |  has the shared secret, even if registration is otherwise disabled. sharedSecret: <PRIVATE STRING> Allow users to join rooms as a guest |
+| matrix.registration.allowGuests | bool | `false` |  has the shared secret, even if registration is otherwise disabled. sharedSecret: PRIVATE STRING Allow users to join rooms as a guest |
 | matrix.registration.autoJoinRooms | list | `[]` |  required3Pids:   - email   - msisdn Rooms to automatically join all new users to |
 | matrix.registration.enabled | bool | `false` |  |
 | matrix.retentionPeriod | string | `"7d"` |  |
