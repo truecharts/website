@@ -1,4 +1,4 @@
-# Changelog<br>
+# Changelog<br />
 
 
 <a name="zwavejs2mqtt-11.0.12"></a>

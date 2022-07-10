@@ -1,4 +1,4 @@
-# Changelog<br>
+# Changelog<br />
 
 
 <a name="hedgedoc-4.0.7"></a>

@@ -1,4 +1,4 @@
-# Changelog<br>
+# Changelog<br />
 
 
 <a name="librespeed-6.0.10"></a>

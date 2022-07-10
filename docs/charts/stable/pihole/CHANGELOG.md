@@ -1,4 +1,4 @@
-# Changelog<br>
+# Changelog<br />
 
 
 <a name="pihole-6.0.11"></a>

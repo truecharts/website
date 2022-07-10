@@ -1,4 +1,4 @@
-# Changelog<br>
+# Changelog<br />
 
 
 <a name="leantime-4.0.10"></a>

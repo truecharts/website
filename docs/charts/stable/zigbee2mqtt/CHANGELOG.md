@@ -1,4 +1,4 @@
-# Changelog<br>
+# Changelog<br />
 
 
 <a name="zigbee2mqtt-4.0.11"></a>
