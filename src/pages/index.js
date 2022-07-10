@@ -21,14 +21,14 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro"
+            to="/charts/intro"
           >
             TrueNAS SCALE - 5min ⏱️
           </Link>
           <Link
             style={{ marginLeft: 2 + "em" }}
             className="button button--secondary button--lg"
-            to="/docs/intro"
+            to="/charts/intro"
           >
             Helm Charts - 10min ⏱️
           </Link>
