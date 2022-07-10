@@ -59,15 +59,15 @@ const config = {
           { to: "/blog", label: "Blog", position: "left" },
           {
             type: "doc",
-            docId: "intro",
+            docId: "manual/intro",
             position: "left",
-            label: "Docs"
+            label: "Manual"
           },
           {
             type: "doc",
-            docId: "intro",
+            docId: "charts/intro",
             position: "left",
-            label: "Charts and Apps"
+            label: "Charts"
           },
           {
             href: "https://github.com/truecharts/apps",
