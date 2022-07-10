@@ -1,7 +1,7 @@
 ---
 slug: Introducing: TrueCharts Container Repository
 title: Introducing: TrueCharts Container Repository
-authors: [Ornias]
+authors: [ornias]
 ---
 The last year we’ve grown at an ever-increasing pace, doubling code and users every few months. Some issues could be fixed quickly and easily, while other issues were vastly more complex. One of those issues happened to be the convoluted mess of different container sources.
 

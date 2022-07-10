@@ -1,7 +1,7 @@
 ---
 slug: Helm as a foundation
 title: Helm as a foundation
-authors: [Ornias]
+authors: [ornias]
 ---
 After some carefull consideration about how we want to move the project forward, we've decided to put our Helm Charts first and other solutions second.
 Our reasoning to do this, is that we want to allow users to be more flexible in which kubernetes platform they use and experience all the awesome projects that are out there.

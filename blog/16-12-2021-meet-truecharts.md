@@ -1,7 +1,7 @@
 ---
 slug: Meet TrueCharts - the First App Store for TrueNAS SCALE
 title: Meet TrueCharts - the First App Store for TrueNAS SCALE
-authors: [Ornias]
+authors: [ornias]
 ---
 Enterprise storage does not need to be rigid and difficult. TrueNAS SCALE is scale-out storage and hyperconverged infrastructure that is also flexible. Key to that flexibility is the inclusion of Kubernetes for deploying containerized (e.g. docker) applications. Kubernetes allows single containers or pods of containers to be easily deployed on a unified infrastructure.  A growing assortment of these applications are now preconfigured for easy deployment using a TrueNAS-enhanced implementation of Helm Charts.
 
