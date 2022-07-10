@@ -1,4 +1,4 @@
-# License<br>
+# License<br />
 
 BSD 3-Clause License
 
