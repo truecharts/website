@@ -7,7 +7,11 @@ MD033: false
 MD036: false
 
 # https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md013
-# Do not warn for Line length
+# Do not warn for "Line length"
 MD013:
   # We can lower this and wrap lines. Markdown does not care.
   line_length: 999
+
+# https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md034
+# Do not work for "Bare URL used"
+MD034: false

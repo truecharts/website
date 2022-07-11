@@ -21,7 +21,6 @@ Our Docker-Compose app has the following features:
 
 - Can be combined with SCALE App, to enable users to slowly migrate from docker-compose to native SCALE Apps
 
-
 A few things to be aware of:
 
 - To issue commands to docker or docker compose, you need to be inside the Docker-Compose App shell (not the host Shell)
@@ -33,8 +32,6 @@ A few things to be aware of:
 Simply put:
 Our docker-compose solution works almost like using it on the host, but without compromising the Appliance OS that is TrueNAS SCALE.
 
-#### Video Guide
+## Video Guide
 
 ![type:video](https://www.youtube.com/embed/QXooywQSfJY)
-
-##### Additional Documentation

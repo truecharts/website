@@ -12,7 +12,6 @@ TrueCharts offers a diverse set of easily-deployed applications for TrueNAS user
 
 With streamlined Kubernetes support for its ”apps”, TrueNAS SCALE has made the big step of bringing Kubernetes to the masses while staying true to its Open Source philosophy by empowering the community to build their own apps and catalogs. This ability for users to pick their own favorite catalogs for apps has already proven to be popular. Meet TrueCharts, the first community apps catalog!
 
-
 TrueCharts was built by the founders of a group who developed installation scripts for TrueNAS CORE, called “Jailman”. TrueCharts offers more than what Jailman was capable of: a flexible, user-friendly installer with a freedom of choice that users need and deserve!
 
 Working as a completely independent project, the TrueCharts community has since invested an entire year carefully crafting tools that provide many of the awesome features that Kubernetes has to offer to the TrueNAS SCALE apps ecosystem. For example, all apps can be simply enabled with Traefik reverse proxy and Wireguard VPN capabilities. In addition to the official apps like Plex, Nextcloud, and Minio, TrueCharts adds a huge variety of apps including Vaultwarden, Handbrake, OpenLDAP, Photoprism, Pihole, Syncthing, and more.

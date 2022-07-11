@@ -1,27 +1,40 @@
 version: "0.2"
-# ignorePaths: []
-# dictionaryDefinitions: []
-# dictionaries: []
-# ignoreWords: []
-# import: []
 words:
   - aliasgroup
+  - allowtransparency
   - collabora
   - configmap
   - daemonset
   - duplicati
   - healthcheck
+  - hyperconverged
+  - IBAN
+  - jailman
+  - Kjeld
   - kubernetes
+  - Lebbing
   - loolwsd
   - meshroom
+  - minio
   - modelstore
   - nextcloud
   - notebookbar
+  - ornias
+  - photoprism
+  - pihole
+  - plex
+  - preconfigured
   - puid
+  - sabnzbd
+  - Schouten
   - serviceexpert
   - ssvnc
   - statefulset
   - subquestions
+  - syncthing
   - tccr
   - traefik
   - truecharts
+  - truetool
+  - vaultwarden
+  - xsystems
