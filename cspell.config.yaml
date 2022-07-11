@@ -2,59 +2,96 @@ version: "0.2"
 words:
   - aliasgroup
   - allowtransparency
-  - Bazarr
+  - appname
+  - backupname
+  - bazarr
   - bugfixer's
-  - Cheatsheet
+  - cheatsheet
   - collabora
   - configmap
   - daemonset
+  - dockerized
   - duplicati
+  - eptgmk
+  - gibibyte
+  - gluster
   - healthcheck
   - healthchecks
   - hostpath
   - hyperconverged
-  - IBAN
+  - hyperthread
+  - iban
   - ipaddr
   - ixcert
+  - jackett
+  - jacobalberty
   - jailman
-  - Kjeld
+  - killswitch
+  - kjeld
   - kube
+  - kubeconfig
+  - kubectl
   - kubernetes
-  - Lebbing
-  - Loadbalancer
+  - lebbing
+  - letsencrypt
+  - lidarr
+  - loadbalancer
   - loolwsd
   - meshroom
   - metallb
+  - milicpu
+  - minecraft
   - minio
   - modelstore
+  - mountpoint
   - nextcloud
+  - nobind
+  - nodeport
+  - nodeports
   - notebookbar
   - ornias
-  - PGID
+  - ovpn
+  - pgid
   - photoprism
   - pihole
   - plex
   - preconfigured
+  - proto
   - puid
-  - Radarr
+  - pvcname
+  - pvcpath
+  - quotum
+  - radarr
+  - ramdisk
+  - reneg
+  - resolv
   - sabnzbd
-  - Schouten
+  - schouten
   - selfsigned
   - serviceexpert
-  - Sonarr
+  - smallblock
+  - sonarr
+  - sonarrsabnzbd
   - ssvnc
   - statefulset
   - subchart
   - sublist
   - subquestion
   - subquestions
+  - svcname
   - syncthing
   - targetport
   - tccr
   - traefik
   - truecharts
+  - truenas
   - truetool
+  - unifi
+  - valheim
   - vaultwarden
   - ixsystems
+  - vdev
+  - vm's
   - websecure
   - xsystems
+  - zwavejs

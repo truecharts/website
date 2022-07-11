@@ -3,12 +3,13 @@
 Validation makes sure that your input is in the desired format, so the application can parse it without problems.
 Below you can find more info about which fields have the mentioned validation and what formats are accepted.
 
-### All Apps
+## All Apps
+
 ---
 
-#### Resources and Devices
+## Resources and Devices
 
-__`CPU`__
+**`CPU`**
 Accepted formats are:
 
 - Plain integer (eg. `1`) - This means 1 hyperthread
@@ -19,7 +20,7 @@ Regex used to match those: `^(?!^0(\.0|m|)$)([0-9]+)(\.[0-9]|m?)$`
 You can try live [here](https://regex101.com/r/WxComc/1)
 More detailed info can be found [here](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-cpu)
 
-__`Memory RAM`__
+**`Memory RAM`**
 Accepted formats are:
 
 - Suffixed with E, P, T, G, M, K (eg. `5G`) - This means 5Gigabyte of RAM
@@ -27,11 +28,11 @@ Accepted formats are:
 - Plain integer (eg. `134217728`) - This means 128Megabyte of RAM
 - As an exponent format (eg. `134e6`) This means ~128Megabyte of RAM
 
-Regex uesd to match those: `^(?!^0(e[0-9]|[EPTGMK]i?|)$)([0-9]+)(|[EPTGMK]i?|e[0-9]+)$`
+Regex used to match those: `^(?!^0(e[0-9]|[EPTGMK]i?|)$)([0-9]+)(|[EPTGMK]i?|e[0-9]+)$`
 You can try live [here](https://regex101.com/r/LyDc6u/1)
 More detailed info can be found [here](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-memory)
 
-#### Paths
+## Paths
 
 Accepted formats are:
 
@@ -42,10 +43,11 @@ Accepted characters are:
 - `a-z`, `A-Z`
 - `0-9`
 - `.`, `-`, `_`
-- ` ` (Whitespace, Not on begin or end)
+- `" "` (Whitespace, Not on begin or end)
 
 Regex used to match those: `^\/([a-zA-Z0-9._-]+(\s?[a-zA-Z0-9._-]+|\/?))+$`
 You can try live [here](https://regex101.com/r/WjSpXg/1)
+
 ---
 
 _If you find a field that you think it needs validation, please open an issue on github_
