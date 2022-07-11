@@ -1,9 +1,11 @@
 version: "0.2"
+# ignorePaths: []
+# dictionaryDefinitions: []
+# dictionaries: []
+# ignoreWords: []
+# import: []
 words:
   - aliasgroup
-  - allowtransparency
-  - Bazarr
-  - bugfixer's
   - collabora
   - configmap
   - daemonset
@@ -45,4 +47,4 @@ words:
   - truecharts
   - truetool
   - vaultwarden
-  - xsystems
+  - ixsystems
