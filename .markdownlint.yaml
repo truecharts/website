@@ -13,5 +13,9 @@ MD013:
   line_length: 999
 
 # https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md034
-# Do not work for "Bare URL used"
+# Do not warn for "Bare URL used"
 MD034: false
+
+# https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md026
+# Do not warn for "Trailing punctuation in heading"
+MD026: false

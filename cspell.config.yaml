@@ -2,6 +2,8 @@ version: "0.2"
 words:
   - aliasgroup
   - allowtransparency
+  - Bazarr
+  - bugfixer's
   - collabora
   - configmap
   - daemonset
@@ -11,10 +13,12 @@ words:
   - IBAN
   - jailman
   - Kjeld
+  - kube
   - kubernetes
   - Lebbing
   - loolwsd
   - meshroom
+  - metallb
   - minio
   - modelstore
   - nextcloud
@@ -25,11 +29,15 @@ words:
   - plex
   - preconfigured
   - puid
+  - Radarr
   - sabnzbd
   - Schouten
   - serviceexpert
+  - Sonarr
   - ssvnc
   - statefulset
+  - subchart
+  - sublist
   - subquestions
   - syncthing
   - tccr

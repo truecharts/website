@@ -25,5 +25,7 @@ WARNING: THIS CHART IS NOT MEANT TO BE INSTALLED DIRECTLY
 - See the [Wiki](https://truecharts.org)
 - Check our [Discord](https://discord.gg/tVsPTHWTtr)
 - Open a [issue](https://github.com/truecharts/apps/issues/new/choose)
+
 ---
+
 All Rights Reserved - The TrueCharts Project
