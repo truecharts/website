@@ -5,6 +5,7 @@ If you followed the instructions in `11 - Exposing Traefik on port 80/443` from 
 If you don't want to access the TrueNAS Web GUI using these custom ports, you can follow the instructions in guide `16 - Setting up External-Services` to access the TrueNAS Web GUI via Traefik on port 443.
 
 When setting up the `External Service`:
+
 - Set `External Service IP` to the ip address of your TrueNAS server
 - Set `Port Type` to `HTTPS`
 - Set `Service Port` to the same value as `Web Interface HTTPS Port` in the TrueNAS GUI Settings (`444` if you followed guide 11)

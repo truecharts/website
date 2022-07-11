@@ -1,48 +1,102 @@
 version: "0.2"
+# ignorePaths: []
+# dictionaryDefinitions: []
+# dictionaries: []
+# ignoreWords: []
+# import: []
 words:
   - aliasgroup
   - allowtransparency
-  - Bazarr
+  - appname
+  - backupname
+  - bazarr
   - bugfixer's
+  - cheatsheet
   - collabora
   - configmap
   - daemonset
+  - dockerized
   - duplicati
+  - eptgmk
+  - gibibyte
+  - gluster
   - healthcheck
+  - healthchecks
+  - hostpath
   - hyperconverged
-  - IBAN
+  - hyperthread
+  - iban
+  - ipaddr
+  - ixcert
+  - jackett
+  - jacobalberty
   - jailman
-  - Kjeld
+  - killswitch
+  - kjeld
   - kube
+  - kubeconfig
+  - kubectl
   - kubernetes
-  - Lebbing
+  - lebbing
+  - letsencrypt
+  - lidarr
+  - loadbalancer
   - loolwsd
   - meshroom
   - metallb
+  - milicpu
+  - minecraft
   - minio
   - modelstore
+  - mountpoint
   - nextcloud
+  - nobind
+  - nodeport
+  - nodeports
   - notebookbar
   - ornias
+  - ovpn
+  - pgid
   - photoprism
   - pihole
   - plex
   - preconfigured
+  - proto
   - puid
-  - Radarr
+  - pvcname
+  - pvcpath
+  - quotum
+  - radarr
+  - ramdisk
+  - reneg
+  - resolv
   - sabnzbd
-  - Schouten
+  - schouten
+  - selfsigned
   - serviceexpert
-  - Sonarr
+  - smallblock
+  - sonarr
+  - sonarrsabnzbd
   - ssvnc
   - statefulset
   - subchart
   - sublist
+  - subquestion
   - subquestions
+  - svcname
   - syncthing
+  - targetport
   - tccr
   - traefik
   - truecharts
+  - truenas
   - truetool
+  - unifi
+  - valheim
   - vaultwarden
+  - ixsystems
+  - vdev
+  - vm's
+  - websecure
   - xsystems
+  - zwavejs

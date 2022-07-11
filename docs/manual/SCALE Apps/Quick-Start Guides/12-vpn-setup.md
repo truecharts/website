@@ -1,16 +1,17 @@
 # 12 - VPN Addon Setup
 
-### Prerequisites
+## Prerequisites
+
 1. Ensure internet for the container is working PRIOR to adding the VPN connection
 2. Obtain either a Wireguard Configuration or a OpenVPN configuration file
     - Wireguard ends in a .conf
     - OpenVPN ends in a .ovpn
 3. Know both your kubernetes LAN and your personal LAN
 
+## Preparing Configuration Files
 
+### Wireguard
 
-### Preparing Configuration Files
-#### Wireguard
 1. Delete the entire line that contains "DNS"
 2. Remove ALL mentions of IPv6
     - Usually after the IPv4 addresses
@@ -18,7 +19,8 @@
 
 Here is an example Wireguard configuration.
 Note the Deleted IPv6 addresses, and Deleted DNS line.
-```
+
+```text
 [Interface]
 PrivateKey = cFuYkobFFgdfghdffdghdfghdfghdfgh
 Address = 10.64.48.226/32
@@ -27,25 +29,26 @@ Address = 10.64.48.226/32
 PublicKey = Casdfgsdfghsdfghsdfghsdfghs
 AllowedIPs = 0.0.0.0/0
 Endpoint = 198.54.128.58:51820
-
 ```
-##### Additional Information
+
+#### Additional Information
+
 Ignore any keys, public private, psk etc.
 We have not had any issue keeping all keys within a configuration.
 
+### OpenVPN
 
-
-#### OpenVPN
 1. Add the two following lines to your configuration
-    - ```pull-filter ignore "ifconfig-ipv6 "```
+    - `pull-filter ignore "ifconfig-ipv6"`
 
-    - ```pull-filter ignore "route-ipv6 "```
+    - `pull-filter ignore "route-ipv6"`
 
     These two lines will ensure IPv6 is ignored, which is vital for a stable VPN connection.
 
 Note The two added lines
 Here is an example OpenVPN configuration
-```
+
+```text
 client
 dev tun
 proto udp
@@ -83,8 +86,8 @@ YDQ8z9v+DMO6iwyIDRiU
 disable-occ
 ```
 
+## Edit Configuration
 
-### Edit Configuration
 The next step enable the addon in our edit configuration
 
 1. Scale GUI
@@ -106,13 +109,8 @@ The next step enable the addon in our edit configuration
         - EX: ```/mnt/speed/vpn/wireguard/jackett2.conf```
 
 By now your screen should look somewhat like this:
-<a href="/img/vpn/vpn1.png"><img src="/img/vpn/vpn1.png" width="100%"/></a>
+![vpn1](/img/vpn/vpn1.png)
 
-
-
-
-#### Video Guide
+## Video Guide
 
 ![type:video](https://www.youtube.com/embed/zSNApt-Ojng)
-
-##### Additional Documentation

@@ -2,15 +2,15 @@
 
 Every App needs to be exposed to something, either an UI, API or other containers.However with Kubernetes we don't directly connect to the containers running the App, because those might be on another node or there might be multiple "high available" containers for the App. Instead we use what is called `Services`. Services are simply put "Internal Load-Balancers", they also guaranteed to be reachable by (internal!) DNS name and (in some cases) prevent traffic from reaching your App when the healthcheck isn't finished yet (or is failing).
 
-### Two kinds of services
+## Two kinds of services
 
-##### Main Service
+### Main Service
 
 Every App is required to have a main service, the primary thing that users (or other Apps!) connect with. No mater if it's a webUI, an API, a database connection or something totally else, A service is always required.
 
 Please keep in mind that every App is different, some just have one service (which *ALWAYS* has to be called `main`) and others need more (which each has to have an unique name). Every App also uses different ports, so please alter accordingly.
 
-```
+```yaml
   - variable: service
     group: "Networking"
     label: "Configure Service(s)"
@@ -50,7 +50,7 @@ Please keep in mind that every App is different, some just have one service (whi
                   type: string
                   default: ""
                   required: true
-              - variable: exetrnalIPs
+              - variable: externalIPs
                 label: "External IP's"
                 description: "External IP's"
                 schema:

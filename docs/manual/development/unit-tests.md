@@ -4,14 +4,13 @@ We unit test our common library, while it isn't near complete coverage but it do
 
 ## Running the tests
 
-Running these tests can be done any way you like. In this document we limit ourselves to using Visual Studie Code, using our Development Container.
-
+Running these tests can be done any way you like. In this document we limit ourselves to using Visual Studio Code, using our Development Container.
 
 ### Using Visual Studio Code
 
 Our repo comes with a Visual Studio Code [development container](https://code.visualstudio.com/docs/remote/containers) definition and `launch.json` that allow you to quickly set up an environment in which you can run the tests.
 
-##### Prerequisites
+#### Prerequisites
 
 - Visual Studio Code is installed.
 - Docker is installed and running.
@@ -19,7 +18,7 @@ Our repo comes with a Visual Studio Code [development container](https://code.vi
 
 For more details, please refer to the [official documentation](https://code.visualstudio.com/docs/remote/containers#_system-requirements).
 
-##### Running tests
+#### Running tests
 
 Once Visual Studio Code is set up, and you open the `charts` workspace, you will see a popup asking if you wish to re-open the workspace in a development container:
 
@@ -31,14 +30,13 @@ To run or debug the unit tests, click the "Run" button on the left sidebar and s
 
 ![Visual Studio Code run configurations](https://raw.githubusercontent.com/k8s-at-home/charts/master/docs/images/vscode_run_unittests.png)
 
-* _UnitTest - active spec file only_: This configuration will try to run the currently opened test file.
+- _UnitTest - active spec file only_: This configuration will try to run the currently opened test file.
 
   **Note:** Make sure that you have opened a valid test file (`.rb` files in the `test/charts` folder), or this will not work.
 
-* _UnitTest - all spec files_: This configuration will run the all test files in the `test/charts` folder.
+- _UnitTest - all spec files_: This configuration will run the all test files in the `test/charts` folder.
 
 Next, press the green "Play" icon. This will start the tests show the outcome in a terminal window.
-
 
 ## Output
 

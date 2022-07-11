@@ -19,3 +19,11 @@ MD034: false
 # https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md026
 # Do not warn for "Trailing punctuation in heading"
 MD026: false
+
+# https://github.com/DavidAnson/markdownlint/blob/v0.25.1/doc/Rules.md#md014
+# Do not warn for "Dollar signs used before commands without showing output"
+MD014: false
+
+# Multiple headings with the same content
+# Do not warn for "Multiple headings with the same content"
+MD024: false

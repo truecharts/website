@@ -11,7 +11,7 @@ Please be aware this needs reinstalling after each TrueNAS SCALE update.
 
 ## Backup
 
-##### Creating Manual Backups
+### Creating Manual Backups
 
 Manual backups can easily be made using TrueTool.
 
@@ -30,7 +30,7 @@ To find out which backups are made previously, you can run the following command
 
 `truetool -l`
 
-##### Creating Frequent Backups
+### Creating Frequent Backups
 
 SCALE includes an integrated system to backup the kubernetes objects as well as make snapshots of the `PVC` and `ix_volume` storage.
 However, it does NOT create these outside of SCALE upgrades.
@@ -40,7 +40,7 @@ If you want to ensure TrueTool automatically gets updated and/or (re)installed a
 
 `pip install --no-cache-dir --upgrade truetool && truetool -b -s -u -a -p`
 
-##### Exporting Backups
+### Exporting Backups
 
 The above only creates only a backup of the kubernetes objects and a snapshot of the `PVC` and `ix_volume` storage.
 These backups are saved under the same ix_applications dataset.
@@ -52,14 +52,13 @@ One could create a normal recursive(!) replication of the `ix-volumes` dataset u
 
 To do so, setup the following replication task:
 
-<a href="/img/backup/rep1.png"><img src="/img/backup/rep1.png" width="100%"/></a>
-<a href="/img/backup/rep2.png"><img src="/img/backup/rep2.png" width="100%"/></a>
+1[rep1](/img/backup/rep1.png)
+1[rep2](/img/backup/rep2.png)
 
 It's also important to ensure you keep regular config backups of the SCALE system itself, preferably right after the Apps backup above).
 However this is not part of this guide and we will assume you've done so yourself.
 
-
-##### Checking Backups
+### Checking Backups
 
 To make which backups are present, one can use the following command in a shell:
 
@@ -74,8 +73,7 @@ There are two scenario's for a restore:
 
 2. Total System Restore
 
-
-##### Reverting a running system
+### Reverting a running system
 
 Reverting a running system is rather trivial. But there are a few caveats:
 
@@ -92,8 +90,7 @@ To revert an existing system, the process is as follows:
 
 Please keep in mind this can take a LONG time.
 
-
-##### Total System restore
+### Total System restore
 
 Sometimes you either need to wipe your Pool, Migrate to a new Pool or restore a system completely.
 With the above steps this is all very-much-possible.
@@ -106,10 +103,6 @@ With the above steps this is all very-much-possible.
 
 3. Continue with the steps listed on `Reverting a running system`
 
-
-#### Video Guide
+## Video Guide
 
 TBD
-
-
-##### Additional Documentation

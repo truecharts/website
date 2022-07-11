@@ -3,8 +3,7 @@
 To use Traefik as ingress, all you have to do is enable "ingress" in the App of your choice and fill out a little form.
 We currently require Traefik to be installed before you enable ingress on your App.
 
-
-##### Requirements
+## Requirements
 
 - Make sure your storage-pool is created and working
 - Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to quick-start guide `01 - First time Apps setup`
@@ -14,13 +13,11 @@ We currently require Traefik to be installed before you enable ingress on your A
 - Make sure you added your certificates in guide 07
 - Make sure you've setup traefik in guide 08
 
-
-#### Video Guide
+## Video Guide
 
 ![type:video](https://www.youtube.com/embed/0Rmav5gyAwI)
 
-
-### Notes
+## Notes
 
 There are a few highlights to take into account when adding a ingress to an App:
 

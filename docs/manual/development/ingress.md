@@ -2,41 +2,42 @@
 
 Ingress is what we call "Reverse Proxy" in the UI and in the user side of the documentation. Please be aware that those refer to the same system. An Ingress is, simply put, just Kubernetes way of connecting outsides to Apps running in containers.
 
-### Ingress Types
+## Ingress Types
 
 We currently support:
+
 - HTTP via Ingres
 - HTTP via Traefik IngressRoute (HTTP-IR)
 - TCP via Traefik IngressRouteTCP
 - UDP via Traefik IngressRouteUDP
 
-From questions.yaml and the UI, these can be changed with selecting another "Type". However: Under the hood IngressRoutes and Ingress are totally different beasts and have a seperate creation process. Errors for Plain HTTP  do NOT have to be present in HTTP-IR.
+From questions.yaml and the UI, these can be changed with selecting another "Type". However: Under the hood IngressRoutes and Ingress are totally different beasts and have a separate creation process. Errors for Plain HTTP  do NOT have to be present in HTTP-IR.
 
 It's also important to note that TCP (and even more so: UDP) have less options available. The example configurations below contain a mostly complete overview of what is currently available and reasonable.
 
-##### Ingress and Services
+### Ingress and Services
 
 It's important to know what Ingress does, before you start creating ingresses in questions.yaml. Ingresses send outside Traffic, to a kubernetes Service, which in turn forwards traffic to the actual containers.
 
 This means that every container needs to know how to reach their Service. If they do not, things go wrong.
 
-To ensure this, it's adviced to keep the names of your Ingresses the same as the names of your services. We made sure the ingress would automatically detect (and connect to) the main port of a Service with the same name.
+To ensure this, it's advised to keep the names of your Ingresses the same as the names of your services. We made sure the ingress would automatically detect (and connect to) the main port of a Service with the same name.
 
 However: In case you need to do this differently, need to connect to additionalServices and/or need to connect to a secondary port, you can manually set both the serviceName and servicePort in questions.yaml. We advice however, to only do so if absolutely necessary!
 
-##### The Main Ingress
+### The Main Ingress
 
-The main Ingress and Main service take an important role in our standardisation. Where the main Service is used for healthchecks and the "portal" button, the main Ingress is just used for the portal button.
+The main Ingress and Main service take an important role in our standardization. Where the main Service is used for healthchecks and the "portal" button, the main Ingress is just used for the portal button.
 
 However: As the maintainers expect new features to be connecting to the main service and main ingress, it will cause problems if you decide to bypass/ignore these.
 
 ### Standards/Examples
 
-We try to maintain as much of a standardised questions.yaml format as possible, to ensure (bulk) editing stays as easy as possible.
+We try to maintain as much of a standardized questions.yaml format as possible, to ensure (bulk) editing stays as easy as possible.
 
-##### HTTP Ingress
+#### HTTP Ingress
 
-```
+```yaml
   - variable: ingress
     label: "Ingress Configuration"
     group: "Ingress Configuration"
@@ -119,9 +120,9 @@ We try to maintain as much of a standardised questions.yaml format as possible, 
 
 ```
 
-##### TCP Ingress
+#### TCP Ingress
 
-```
+```yaml
         - variable: tcp
           label: "TCP Reverse Proxy Configuration"
           schema:
@@ -160,9 +161,9 @@ We try to maintain as much of a standardised questions.yaml format as possible, 
                             description: "Torrent-TCP: port 51413"
 ```
 
-##### UDP Ingress
+#### UDP Ingress
 
-```
+```yaml
         - variable: udp
           label: "UDP Reverse Proxy Configuration"
           schema:
@@ -205,9 +206,9 @@ We try to maintain as much of a standardised questions.yaml format as possible, 
 
 There are a few other options that are rarely (if ever) used.
 
-##### servicePort
+#### servicePort
 
-```
+```yaml
                      - variable: servicePort
                        label: "Service Port to proxy to"
                        schema:
@@ -217,10 +218,9 @@ There are a few other options that are rarely (if ever) used.
                          default: 80
 ```
 
+#### serviceKind
 
-##### serviceKind
-
-```
+```yaml
                     - variable: serviceKind
                       label: "Service Kind to proxy to"
                       schema:
@@ -230,12 +230,11 @@ There are a few other options that are rarely (if ever) used.
                         default: ""
 ```
 
-
 ### External Services
 
 The externalServices option, is actually mostly an Ingress "under the hood" which just creates a very small (minimal) service.
 
-```
+```yaml
   - variable: externalServices
     label: "(Advanced) Add External Services"
     group: "Advanced"
@@ -271,7 +270,7 @@ The externalServices option, is actually mostly an Ingress "under the hood" whic
                   type: string
                   default: ""
               - variable: serviceTarget
-                label: "IP Adress of the external service"
+                label: "IP Address of the external service"
                 schema:
                   hidden: false
                   editable: true

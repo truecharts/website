@@ -1,10 +1,10 @@
 # Storage
 
-This article serves as a development extention to the storage article available [here](https://wiki.truecharts.org/general/storage/)
+This article serves as a development extension to the storage article available [here](https://wiki.truecharts.org/general/storage/)
 
-##### Storage and Common-Chart
+## Storage and Common-Chart
 
-For all these storage solutions we require the commonchart to be added to the App.
+For all these storage solutions we require the common-chart to be added to the App.
 The Common-Chart handles both the connection/addition of storage to the container and spinning up special k8s jobs to fix the permissions if requested for the Custom storage.
 
 ### Integrated Persistent Storage
@@ -14,9 +14,7 @@ When adding an App, there are almost always certain folders that are required fo
 For these storages we can easily add fixes values in the UI, these settings can not be disabled or removed and would, by default and preferably, be limited to the "internal" storage class
 Preventing the user to disable them, ensures that users don't (by mistake) remove the storage.
 
-#####
-
-```
+```yaml
   - variable: persistence
     label: "Integrated Persistent Storage"
     description: "Websocket Service"
@@ -96,10 +94,4 @@ Preventing the user to disable them, ensures that users don't (by mistake) remov
 ### Unlimited Custom Storage Mounts
 
 We support presenting the user with a "Do it yourself" style list, in which the user can add unlimited paths on the host system to mount.
-It should always be included in any App, to give users the option to customise things however they like.
-
-##### Example
-
-```
-
-```
+It should always be included in any App, to give users the option to customize things however they like.
