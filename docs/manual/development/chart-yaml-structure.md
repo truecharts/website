@@ -1,12 +1,11 @@
 # Chart.yaml layout
 
-At TrueCharts we try to keep some files standardised, this enables us to make changes to these charts in bulk with less risk of mistakes. Chart.yaml is one of these files.
-In this documentation we will explain the standardised layout options. For an example layout, please see our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml)
+At TrueCharts we try to keep some files standardized, this enables us to make changes to these charts in bulk with less risk of mistakes. Chart.yaml is one of these files.
+In this documentation we will explain the standardized layout options. For an example layout, please see our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml)
 
+## Layout Explained
 
-### Layout Explained
-
-```
+```yaml
 apiVersion: The chart API version (required)
 kubeVersion: A SemVer range of compatible Kubernetes versions (optional)
 name: The name of the chart (required)
@@ -40,20 +39,19 @@ annotations:
   example: A list of annotations keyed by name (optional).
 ```
 
-
-##### Commenting
+### Commenting
 
 In the above description there are a lot of values that are not actually used. Some of those, like `deprecated`, we just set to false. While others, like `annotations` get commented out.
 
 Please refer to our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml) to see which unused values needs which treatment.
 
-##### Dependencies
+### Dependencies
 
-We expect each chart to use our Common-Chart in some capacity, inless it's absolutely impossible to do so. This also means we expect the Common-Chart to always be the first dependency in the list. This enables us to easily update all common-chart references in bulk.
+We expect each chart to use our Common-Chart in some capacity, unless it's absolutely impossible to do so. This also means we expect the Common-Chart to always be the first dependency in the list. This enables us to easily update all common-chart references in bulk.
 
 All other dependencies are expected to be listed in alphabetical order.
 
-##### Maintainers
+### Maintainers
 
 The only maintainer should always be TrueCharts, as the TrueCharts core team is expected to step in if the other maintainers fail to maintain their work.
 An example of how to list TrueCharts as a maintainer is available in our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml).

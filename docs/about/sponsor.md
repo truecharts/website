@@ -2,7 +2,7 @@
 
 ## Sponsorship
 
-As a project we try to maintain strict independence and financial ethics, this means we actively disclose if we recieve any funds for any kind of promotion or attention.
+As a project we try to maintain strict independence and financial ethics, this means we actively disclose if we receive any funds for any kind of promotion or attention.
 
 However: We are always open to promoting great projects and those projects are free to donate to us as a "thank you", regardless of donations/contributions.
 
@@ -16,23 +16,23 @@ As we have no formal legal entity, we can only accept donations on a personal ba
 
 One can use the following options to donate to the project maintainer, Ornias, directly:
 
-##### Github Sponsors
+#### Github Sponsors
 
 https://github.com/sponsors/Ornias1993
 
-##### Patreon
+#### Patreon
 
 https://patreon.com/ornias1993
 
-##### Ko-Fi
+#### Ko-Fi
 
 https://ko-fi.com/ornias
 
-##### Dutch IDEAL
+#### Dutch IDEAL
 
-https://https://bunq.me/ornias
+https://bunq.me/ornias
 
-##### SWIFT/IBAN Payments in EUR
+#### SWIFT/IBAN Payments in EUR
 
 Owner: Kjeld Schouten-Lebbing
 Country: Netherlands

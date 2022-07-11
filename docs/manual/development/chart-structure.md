@@ -4,7 +4,7 @@ This is a general synopsis about the structure of a SCALE App and/or Helm Chart,
 
 The following files are generally considered to be a "normal" Helm chart:
 
-```
+```text
 charts/<train>/<chart name>/
   charts/                  # Directory containing dependency charts
   Chart.yaml               # Required Helm chart information file
@@ -13,10 +13,9 @@ charts/<train>/<chart name>/
   values.yaml              # The default configuration values for this chart
 ```
 
-
 The following files are specific for TrueNAS SCALE:
 
-```
+```text
 charts/<train>/<chart name>/SCALE/
   app-readme.md            # TrueNAS SCALE Specific: Readme file for display in TrueNAS SCALE UI, automatically generated
   questions.yaml           # TrueNAS SCALE Specific: File containing questions for TrueNAS SCALE UI
@@ -29,17 +28,17 @@ charts/<train>/<chart name>/SCALE/
 To convert an upstream chart to take advantage of TrueNAS SCALE enhanced UX, first create an `item.yaml` file.
 This file among other catalog item information provides a list of categories that this chart fits into. This helps users navigate and filtering when browsing the catalog UI.
 
-```
-$ cat charts/<train>/<chart name>/SCALE/item.yaml
+`$ cat charts/<train>/<chart name>/SCALE/item.yaml`
+
+```yaml
 categories:
   - generic
 icon_url: "http://ix_url"
 ```
 
-
 Then add a `questions.yaml` file to prompt the user for something.
 
-```
+```yaml
 groups:
   - name: "Container Images"
     description: "Image to be used for container"
@@ -79,4 +78,4 @@ questions:
 ```
 
 The above will prompt the user with 2 text fields and a dropdown in the UI getting details for image configuration in a helm chart.
-_More information about questions.yaml is available [here](https://wiki.truecharts.org/development/questions-yaml/)_
+*More information about questions.yaml is available [here](https://wiki.truecharts.org/development/questions-yaml/)*
