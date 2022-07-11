@@ -52,8 +52,8 @@ One could create a normal recursive(!) replication of the `ix-volumes` dataset u
 
 To do so, setup the following replication task:
 
-<a href="/img/backup/rep1.png"><img src="/img/backup/rep1.png" width="100%"/></a>
-<a href="/img/backup/rep2.png"><img src="/img/backup/rep2.png" width="100%"/></a>
+1[rep1](/img/backup/rep1.png)
+1[rep2](/img/backup/rep2.png)
 
 It's also important to ensure you keep regular config backups of the SCALE system itself, preferably right after the Apps backup above).
 However this is not part of this guide and we will assume you've done so yourself.

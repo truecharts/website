@@ -40,13 +40,13 @@ After the process popup disappears, it might take a few minutes to actually depl
 1. enter cli to enter the SCALE command line interface
 2. enter app chart_release rollback
 It should give you this screen:
-<a href="/img/rollback/cli-rollback1.png"><img src="/img/rollback/cli-rollback1.png" width="100%"/></a>
+![cli-rollback1](/img/rollback/cli-rollback1.png)
 3. Enter the release name and item_version like this:
-<a href="/img/rollback/cli-rollback2.png"><img src="/img/rollback/cli-rollback2.png" width="100%"/></a>
+![cli-rollback2](/img/rollback/cli-rollback2.png)
 (be sure to remove the # before the release name)
 4. Click save then click quit
 It should show something like this, confirming the rollback:
-<a href="/img/rollback/cli-rollback3.png"><img src="/img/rollback/cli-rollback3.png" width="100%"/></a>
+![cli-rollback3](/img/rollback/cli-rollback3.png)
 
 ### Finding the last installed version
 
@@ -56,7 +56,7 @@ There is a short walk-through to get the versioning history for the App in quest
 1. run ```export KUBECONFIG=/etc/rancher/k3s/k3s.yaml```
 2. run  ```helm history jackett -n ix-jackett where "jackett"``` should be replaced with the name of the App that broke your UI
 You'll see this:
-<a href="/img/rollback/history.png"><img src="/img/rollback/history.png" width="100%"/></a>
+![history](/img/rollback/history.png)
 Take note of the "Chart" column, it lists the version numbers you can enter in the rollback interface, prefixed by the App Name.
 Of coarse only enter the version number in the GUI or CLI, not the name
 

@@ -46,7 +46,7 @@ k3s kubectl get pvc -A | sort -u | awk '{print "\t" $1 "\t" $2 "\t" $4}' | colum
 
 This can be confusing at first because many applications will have many different instances of PVC.
 
-<a href="/img/pvc_access/pvc_list.png"><img src="/img/pvc_access/pvc_list.png" width="100%"/></a>
+![pvc_list](/img/pvc_access/pvc_list.png)
 
 - You'll see in this photo, Nextcloud has many different PVC's.
   - However, if you break it down by looking at the middle column, it's not too confusing.
@@ -77,7 +77,7 @@ zfs list | grep pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
 ```
 
 Here is what the output should look like
-<a href="/img/pvc_access/nextcloud_volumes.png"><img src="/img/pvc_access/nextcloud_volumes.png" width="100%"/></a>
+![nextcloud_volumes](/img/pvc_access/nextcloud_volumes.png)
 
 6\. **Mount your PVC**
 
