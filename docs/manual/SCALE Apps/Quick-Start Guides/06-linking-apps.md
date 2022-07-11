@@ -47,7 +47,7 @@ To reach an app named "sab" (name does NOT contain catalog app name) within Sona
 - `sab-sabnzbd.ix-sab`
 
 
-<a href="https://truecharts.org/_static/img/linking/linking-example-sonarrsabnzbd.png"><img src="https://truecharts.org/_static/img/linking/linking-example-sonarrsabnzbd.png" width="100%"/></a>
+<a href="/img/linking/linking-example-sonarrsabnzbd.png"><img src="/img/linking/linking-example-sonarrsabnzbd.png" width="100%"/></a>
 
 #### Video Guide
 

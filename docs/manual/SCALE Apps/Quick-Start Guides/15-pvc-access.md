@@ -29,7 +29,7 @@ The video will start at the mounting feature so you can see what it looks like.
 
 Afterwards, if you wish to install it, follow the video guide starting at 15:52.
 
-[![Heavy_Script](https://truecharts.org/_static/img/pvc_access/video_thumbnail.jpg)](https://youtu.be/uZp4x_Susgo?t=616 "Heavy_Script")
+[![Heavy_Script](/img/pvc_access/video_thumbnail.jpg)](https://youtu.be/uZp4x_Susgo?t=616 "Heavy_Script")
 <br />
 <br />
 <br />
@@ -48,7 +48,7 @@ However, I know some users like to know exactly what commands they are running e
 <br />
 
 1\. **STOP the application you plan on mounting**
-        
+
 <br />
 
 2\. **Run the following command to view your PVC data**
@@ -56,14 +56,14 @@ However, I know some users like to know exactly what commands they are running e
 ```bash
 k3s kubectl get pvc -A | sort -u | awk '{print "\t" $1 "\t" $2 "\t" $4}' | column -t
 ```
-        
+
 <br />
 
 3\. **Find the application you would like to mount**
 
 This can be confusing at first because many applications will have many different instances of PVC.
 
-<a href="https://truecharts.org/_static/img/pvc_access/pvc_list.png"><img src="https://truecharts.org/_static/img/pvc_access/pvc_list.png" width="100%"/></a>
+<a href="/img/pvc_access/pvc_list.png"><img src="/img/pvc_access/pvc_list.png" width="100%"/></a>
 
 - You'll see in this photo, Nextcloud has many different PVC's.
     - However, if you break it down by looking at the middle column, it's not too confusing.
@@ -73,14 +73,14 @@ This can be confusing at first because many applications will have many differen
         - This is your PostgreSQL PVC
     3. `nextcloud-data`
         - This is your Data PVC
-        
+
 <br />
 
 4\. **After finding which PVC you would like to mount, copy the far right column (The Volume) that starts with pvc- into a notepad for use in the next command**
 
 - If I was wanting to mount `nextcloud-data`, I would use:
 - `pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe`
-        
+
 <br />
 
 5\. **Run the following command to find the full path to your applications PVC**
@@ -91,14 +91,14 @@ zfs list | grep PVC_VOLUME
 
 - Going off of the Nextcloud example, I would simply replace `PVC_VOLUME` with `pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe`
 
-Example: 
+Example:
 
 ```bash
 zfs list | grep pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
 ```
 
 Here is what the output should look like
-<a href="https://truecharts.org/_static/img/pvc_access/nextcloud_volumes.png"><img src="https://truecharts.org/_static/img/pvc_access/nextcloud_volumes.png" width="100%"/></a>
+<a href="/img/pvc_access/nextcloud_volumes.png"><img src="/img/pvc_access/nextcloud_volumes.png" width="100%"/></a>
 
 
 <br />
@@ -109,7 +109,7 @@ Here is what the output should look like
 zfs set mountpoint=/temporary/NAME FULL_PVC_PATH
 ```
 
-Example: 
+Example:
 
 ```bash
 zfs set mountpoint=/temporary/nextcloud-data speed/ix-applications/releases/nextcloud/volumes/pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
@@ -119,7 +119,7 @@ zfs set mountpoint=/temporary/nextcloud-data speed/ix-applications/releases/next
 - Now you should be able to do whatever you want within the app's PVC
 
 <br />
-<br />   
+<br />
 <br />
 
 #### **Remounting** <a name="paragraph3"></a>
@@ -133,10 +133,10 @@ Example:
 ```bash
 zfs set mountpoint=legacy speed/ix-applications/releases/nextcloud/volumes/pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
 ```
-        
+
 <br />
 
-Afterwards, I always like to ```rmdir``` on the directory that was created when mounting 
+Afterwards, I always like to ```rmdir``` on the directory that was created when mounting
 
 - In my case I would run:
 
@@ -162,7 +162,7 @@ rmdir /mnt/temporary/nextcloud-data
 ```bash
 k3s kubectl get pvc -n ix-APPNAME
 ```
-        
+
 <br />
 
 #### To get the PVCPATH:
@@ -170,7 +170,7 @@ k3s kubectl get pvc -n ix-APPNAME
 ```bash
 zfs list | grep legacy | grep APPNAME
 ```
-        
+
 <br />
 
 #### If you want to mount the PVC content:

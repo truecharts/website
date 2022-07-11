@@ -16,7 +16,7 @@
     - Usually after the IPv4 addresses
     - ```::/0``` is the IPv6 syntax.
 
-Here is an example Wireguard configuration. 
+Here is an example Wireguard configuration.
 Note the Deleted IPv6 addresses, and Deleted DNS line.
 ```
 [Interface]
@@ -30,7 +30,7 @@ Endpoint = 198.54.128.58:51820
 
 ```
 ##### Additional Information
-Ignore any keys, public private, psk etc. 
+Ignore any keys, public private, psk etc.
 We have not had any issue keeping all keys within a configuration.
 
 
@@ -87,7 +87,7 @@ disable-occ
 ### Edit Configuration
 The next step enable the addon in our edit configuration
 
-1. Scale GUI 
+1. Scale GUI
     1. Apps
     2. Installed Applications
 2. Find the app you want, Click the top 3 dots to the right of your application
@@ -106,7 +106,7 @@ The next step enable the addon in our edit configuration
         - EX: ```/mnt/speed/vpn/wireguard/jackett2.conf```
 
 By now your screen should look somewhat like this:
-<a href="https://truecharts.org/_static/img/vpn/vpn1.png"><img src="https://truecharts.org/_static/img/vpn/vpn1.png" width="100%"/></a>
+<a href="/img/vpn/vpn1.png"><img src="/img/vpn/vpn1.png" width="100%"/></a>
 
 
 
@@ -116,5 +116,3 @@ By now your screen should look somewhat like this:
 ![type:video](https://www.youtube.com/embed/zSNApt-Ojng)
 
 ##### Additional Documentation
-
-
