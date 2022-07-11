@@ -1,11 +1,7 @@
 version: "0.2"
-# ignorePaths: []
-# dictionaryDefinitions: []
-# dictionaries: []
-# ignoreWords: []
-# import: []
 words:
   - aliasgroup
+  - allowtransparency
   - collabora
   - configmap
   - daemonset
@@ -48,3 +44,4 @@ words:
   - truetool
   - vaultwarden
   - ixsystems
+  - xsystems
