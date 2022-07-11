@@ -4,18 +4,24 @@ words:
   - allowtransparency
   - Bazarr
   - bugfixer's
+  - Cheatsheet
   - collabora
   - configmap
   - daemonset
   - duplicati
   - healthcheck
+  - healthchecks
+  - hostpath
   - hyperconverged
   - IBAN
+  - ipaddr
+  - ixcert
   - jailman
   - Kjeld
   - kube
   - kubernetes
   - Lebbing
+  - Loadbalancer
   - loolwsd
   - meshroom
   - metallb
@@ -24,6 +30,7 @@ words:
   - nextcloud
   - notebookbar
   - ornias
+  - PGID
   - photoprism
   - pihole
   - plex
@@ -32,18 +39,22 @@ words:
   - Radarr
   - sabnzbd
   - Schouten
+  - selfsigned
   - serviceexpert
   - Sonarr
   - ssvnc
   - statefulset
   - subchart
   - sublist
+  - subquestion
   - subquestions
   - syncthing
+  - targetport
   - tccr
   - traefik
   - truecharts
   - truetool
   - vaultwarden
   - ixsystems
+  - websecure
   - xsystems

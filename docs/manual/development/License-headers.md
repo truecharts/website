@@ -3,8 +3,9 @@
 Within TrueCharts we sometimes use code thats has a different license from the rest of the project.
 When there is not already a license header present, we use these standard license headers.
 
-##### TPL
-```
+## TPL
+
+```go
 {{/*
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -24,8 +25,9 @@ This file is considered to be modified by the TrueCharts Project.
 */}}
 ```
 
-##### YAML
-```
+## YAML
+
+```yaml
 ##
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
