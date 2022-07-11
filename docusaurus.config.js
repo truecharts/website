@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon/favicon.ico",
 
-// GitHub pages deployment config.
+  // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "truecharts", // Usually your GitHub org/user name.
   projectName: "new-pub", // Usually your repo name.
@@ -23,11 +23,11 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh'],
+    defaultLocale: "en",
+    locales: ["en", "zh"],
     localeConfigs: {
       en: {
-        htmlLang: 'en-GB',
+        htmlLang: "en-GB",
       },
     },
   },
@@ -41,54 +41,66 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/truecharts/pub"
+          editUrl: "https://github.com/truecharts/website/tree/master/",
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css")
-        }
-      })
-    ]
+          customCss: require.resolve("./src/css/custom.css"),
+        },
+      }),
+    ],
   ],
-
+  // https://gabrielcsapo.github.io/docusaurus-plugin-image-zoom/docs/getting-started/
+  plugins: [require.resolve("docusaurus-plugin-image-zoom")],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      zoom: {
+        selector: ".markdown :not(em) > img",
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+          margin: 100,
+          background: {
+            light: "rgb(255, 255, 255)",
+            dark: "rgb(50, 50, 50)",
+          },
+        },
+      },
       navbar: {
         title: "TrueCharts",
         logo: {
           alt: "TrueCharts logo",
-          src: "img/1024.png"
+          src: "img/1024.png",
         },
         items: [
           {
             type: "doc",
             docId: "about/intro",
             position: "left",
-            label: "About"
+            label: "About",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
             type: "doc",
             docId: "manual/intro",
             position: "left",
-            label: "Manual"
+            label: "Manual",
           },
           {
             type: "doc",
             docId: "charts/intro",
             position: "left",
-            label: "Charts"
+            label: "Charts",
           },
           {
-          type: 'localeDropdown',
-          position: 'right',
+            type: "localeDropdown",
+            position: "right",
           },
           {
             href: "https://github.com/truecharts/apps",
             label: "GitHub",
-            position: "right"
-          }
-        ]
+            position: "right",
+          },
+        ],
       },
       footer: {
         style: "dark",
@@ -98,43 +110,43 @@ const config = {
             items: [
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus"
+                href: "https://twitter.com/useTrueCharts",
               },
               {
                 label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus"
+                href: "https://discord.gg/tVsPTHWTtr",
               },
-              {
-                label: "Facebook",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus"
-              },
+              // {
+              //   label: "Facebook",
+              //   href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              // },
               {
                 label: "Telegram",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus"
-              }
-            ]
+                href: "https://t.me/s/truecharts",
+              },
+            ],
           },
           {
             title: "More",
             items: [
               {
                 label: "Blog",
-                to: "/blog"
+                to: "/blog",
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus"
-              }
-            ]
-          }
+                href: "https://github.com/truecharts",
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TrueCharts`
+        copyright: `Copyright © ${new Date().getFullYear()} TrueCharts`,
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme
-      }
-    })
+        darkTheme: darkCodeTheme,
+      },
+    }),
 };
 
 module.exports = config;
