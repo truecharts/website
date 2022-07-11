@@ -4,8 +4,47 @@
 
 This guide makes use of our command-line tool, called `TrueTool`.
 
-This should be installed by using:
-`pip install truetool`
+### How to Install
+Skip these steps if you have already installed TrueTool
+### Choose a folder
+
+It's important to save the script in a folder that is persistent across TrueNAS System Updates.
+This saves you from reinstalling or experiencing an accidental lack-of-backups after an update.
+
+##### New dataset
+
+In this example we created a `scripts` dataset on the TrueNAS SCALE system, feel free to use another folder.
+
+##### Root folder
+
+The `/root` folder houses files for the root user.
+It's also persistent across updates and hence can be safely used for storing the script.
+
+### Open a Terminal
+
+**Change Directory to your scripts folder**
+
+```
+cd /mnt/pool/scripts
+```
+
+**Git Clone truetool**
+
+```
+git clone https://github.com/truecharts/truetool.git
+```
+
+**Change Directory to truetool folder**
+
+```
+cd truetool
+```
+
+From here, you can just run truetool with `bash truetool.sh -ARGUMENTS`
+
+## How to Update
+
+TrueTool updates itself automatically.
 
 Please be aware this needs reinstalling after each TrueNAS SCALE update.
 
