@@ -135,7 +135,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/truecharts/apps",
+                href: "https://github.com/truecharts",
               },
             ],
           },
