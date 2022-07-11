@@ -106,7 +106,7 @@ The next step enable the addon in our edit configuration
         - EX: ```/mnt/speed/vpn/wireguard/jackett2.conf```
 
 By now your screen should look somewhat like this:
-<a href="https://truecharts.org/img/vpn/vpn1.png"><img src="https://truecharts.org/img/vpn/vpn1.png" width="100%"/></a>
+<a href="/img/vpn/vpn1.png"><img src="/img/vpn/vpn1.png" width="100%"/></a>
 
 
 

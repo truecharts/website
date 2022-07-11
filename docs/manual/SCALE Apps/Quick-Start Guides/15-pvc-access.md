@@ -29,7 +29,7 @@ The video will start at the mounting feature so you can see what it looks like.
 
 Afterwards, if you wish to install it, follow the video guide starting at 15:52.
 
-[![Heavy_Script](https://truecharts.org/img/pvc_access/video_thumbnail.jpg)](https://youtu.be/uZp4x_Susgo?t=616 "Heavy_Script")
+[![Heavy_Script](/img/pvc_access/video_thumbnail.jpg)](https://youtu.be/uZp4x_Susgo?t=616 "Heavy_Script")
 <br />
 <br />
 <br />
@@ -63,7 +63,7 @@ k3s kubectl get pvc -A | sort -u | awk '{print "\t" $1 "\t" $2 "\t" $4}' | colum
 
 This can be confusing at first because many applications will have many different instances of PVC.
 
-<a href="https://truecharts.org/img/pvc_access/pvc_list.png"><img src="https://truecharts.org/img/pvc_access/pvc_list.png" width="100%"/></a>
+<a href="/img/pvc_access/pvc_list.png"><img src="/img/pvc_access/pvc_list.png" width="100%"/></a>
 
 - You'll see in this photo, Nextcloud has many different PVC's.
     - However, if you break it down by looking at the middle column, it's not too confusing.
@@ -98,7 +98,7 @@ zfs list | grep pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
 ```
 
 Here is what the output should look like
-<a href="https://truecharts.org/img/pvc_access/nextcloud_volumes.png"><img src="https://truecharts.org/img/pvc_access/nextcloud_volumes.png" width="100%"/></a>
+<a href="/img/pvc_access/nextcloud_volumes.png"><img src="/img/pvc_access/nextcloud_volumes.png" width="100%"/></a>
 
 
 <br />
