@@ -13,11 +13,11 @@ Skip these steps if you have already installed TrueTool
 It's important to save the script in a folder that is persistent across TrueNAS System Updates.
 This saves you from reinstalling or experiencing an accidental lack-of-backups after an update.
 
-##### New dataset
+#### New dataset
 
 In this example we created a `scripts` dataset on the TrueNAS SCALE system, feel free to use another folder.
 
-##### Root folder
+#### Root folder
 
 The `/root` folder houses files for the root user.
 It's also persistent across updates and hence can be safely used for storing the script.
