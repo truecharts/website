@@ -31,9 +31,8 @@ cd /mnt/pool/scripts
 
 **Git Clone truetool**
 
-```
+```bash
 git clone https://github.com/truecharts/truetool.git
-```
 
 **Change Directory to truetool folder**
 
