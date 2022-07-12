@@ -20,6 +20,10 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+        env: 
+          NODE_OPTIONS: "--max-old-space-size=7168"
         
       - name: Test build website
         run: yarn build
+        env: 
+          NODE_OPTIONS: "--max-old-space-size=7168"
