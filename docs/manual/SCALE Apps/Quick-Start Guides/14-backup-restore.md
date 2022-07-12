@@ -26,9 +26,8 @@ It's also persistent across updates and hence can be safely used for storing the
 
 **Change Directory to your scripts folder**
 
-```
+```bash
 cd /mnt/pool/scripts
-```
 
 **Git Clone truetool**
 
