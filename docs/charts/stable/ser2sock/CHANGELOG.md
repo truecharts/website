@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [ser2sock-6.0.13](https://github.com/truecharts/apps/compare/ser2sock-6.0.12...ser2sock-6.0.13) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="ser2sock-6.0.12"></a>
+### [ser2sock-6.0.12](https://github.com/truecharts/apps/compare/ser2sock-6.0.11...ser2sock-6.0.12) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="ser2sock-6.0.11"></a>
+### [ser2sock-6.0.11](https://github.com/truecharts/apps/compare/ser2sock-6.0.10...ser2sock-6.0.11) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="ser2sock-6.0.10"></a>

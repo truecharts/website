@@ -1,4 +1,39 @@
-# Changelog<br />
+# Changelog
+
+
+## [n8n-4.0.20](https://github.com/truecharts/apps/compare/n8n-4.0.19...n8n-4.0.20) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="n8n-4.0.19"></a>
+### [n8n-4.0.19](https://github.com/truecharts/apps/compare/n8n-4.0.18...n8n-4.0.19) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="n8n-4.0.18"></a>
+### [n8n-4.0.18](https://github.com/truecharts/apps/compare/n8n-4.0.17...n8n-4.0.18) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
+
+
+<a name="n8n-4.0.17"></a>
+### [n8n-4.0.17](https://github.com/truecharts/apps/compare/n8n-4.0.16...n8n-4.0.17) (2022-07-11)
+
+#### Chore
+
+* clean ui a bit and add more envs ([#3124](https://github.com/truecharts/apps/issues/3124))
+
 
 
 <a name="n8n-4.0.16"></a>

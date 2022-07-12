@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [outline-3.0.15](https://github.com/truecharts/apps/compare/outline-3.0.14...outline-3.0.15) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="outline-3.0.14"></a>
+### [outline-3.0.14](https://github.com/truecharts/apps/compare/outline-3.0.13...outline-3.0.14) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="outline-3.0.13"></a>
+### [outline-3.0.13](https://github.com/truecharts/apps/compare/outline-3.0.12...outline-3.0.13) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="outline-3.0.12"></a>

@@ -1,4 +1,39 @@
-# Changelog<br />
+# Changelog
+
+
+## [guacd-2.0.14](https://github.com/truecharts/apps/compare/guacd-2.0.13...guacd-2.0.14) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="guacd-2.0.13"></a>
+### [guacd-2.0.13](https://github.com/truecharts/apps/compare/guacd-2.0.12...guacd-2.0.13) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="guacd-2.0.12"></a>
+### [guacd-2.0.12](https://github.com/truecharts/apps/compare/guacd-2.0.11...guacd-2.0.12) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
+
+
+<a name="guacd-2.0.11"></a>
+### [guacd-2.0.11](https://github.com/truecharts/apps/compare/guacd-2.0.10...guacd-2.0.11) (2022-07-10)
+
+#### Fix
+
+* rootfs writable ([#3121](https://github.com/truecharts/apps/issues/3121))
+
 
 
 <a name="guacd-2.0.10"></a>

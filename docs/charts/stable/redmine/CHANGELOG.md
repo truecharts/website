@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [redmine-3.0.15](https://github.com/truecharts/apps/compare/redmine-3.0.14...redmine-3.0.15) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="redmine-3.0.14"></a>
+### [redmine-3.0.14](https://github.com/truecharts/apps/compare/redmine-3.0.13...redmine-3.0.14) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="redmine-3.0.13"></a>
+### [redmine-3.0.13](https://github.com/truecharts/apps/compare/redmine-3.0.12...redmine-3.0.13) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="redmine-3.0.12"></a>

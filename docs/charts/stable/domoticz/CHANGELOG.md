@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [domoticz-2.0.16](https://github.com/truecharts/apps/compare/domoticz-2.0.15...domoticz-2.0.16) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="domoticz-2.0.15"></a>
+### [domoticz-2.0.15](https://github.com/truecharts/apps/compare/domoticz-2.0.14...domoticz-2.0.15) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="domoticz-2.0.14"></a>
+### [domoticz-2.0.14](https://github.com/truecharts/apps/compare/domoticz-2.0.13...domoticz-2.0.14) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="domoticz-2.0.13"></a>

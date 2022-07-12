@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [zwavejs2mqtt-11.0.15](https://github.com/truecharts/apps/compare/zwavejs2mqtt-11.0.14...zwavejs2mqtt-11.0.15) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="zwavejs2mqtt-11.0.14"></a>
+### [zwavejs2mqtt-11.0.14](https://github.com/truecharts/apps/compare/zwavejs2mqtt-11.0.13...zwavejs2mqtt-11.0.14) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="zwavejs2mqtt-11.0.13"></a>
+### [zwavejs2mqtt-11.0.13](https://github.com/truecharts/apps/compare/zwavejs2mqtt-11.0.12...zwavejs2mqtt-11.0.13) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="zwavejs2mqtt-11.0.12"></a>

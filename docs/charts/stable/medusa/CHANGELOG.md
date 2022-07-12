@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [medusa-3.0.16](https://github.com/truecharts/apps/compare/medusa-3.0.15...medusa-3.0.16) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="medusa-3.0.15"></a>
+### [medusa-3.0.15](https://github.com/truecharts/apps/compare/medusa-3.0.14...medusa-3.0.15) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="medusa-3.0.14"></a>
+### [medusa-3.0.14](https://github.com/truecharts/apps/compare/medusa-3.0.13...medusa-3.0.14) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="medusa-3.0.13"></a>

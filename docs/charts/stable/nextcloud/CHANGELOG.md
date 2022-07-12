@@ -1,4 +1,50 @@
-# Changelog<br />
+# Changelog
+
+
+## [nextcloud-15.2.9](https://github.com/truecharts/apps/compare/nextcloud-15.2.8...nextcloud-15.2.9) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="nextcloud-15.2.8"></a>
+### [nextcloud-15.2.8](https://github.com/truecharts/apps/compare/nextcloud-15.2.7...nextcloud-15.2.8) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* update docker general non-major ([#3150](https://github.com/truecharts/apps/issues/3150))
+
+
+
+<a name="nextcloud-15.2.7"></a>
+### [nextcloud-15.2.7](https://github.com/truecharts/apps/compare/nextcloud-15.2.6...nextcloud-15.2.7) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* add markdownlint and cpell config files (and apply some linting) ([#3140](https://github.com/truecharts/apps/issues/3140))
+
+
+
+<a name="nextcloud-15.2.6"></a>
+### [nextcloud-15.2.6](https://github.com/truecharts/apps/compare/nextcloud-15.2.5...nextcloud-15.2.6) (2022-07-11)
+
+#### Chore
+
+* update docker general non-major ([#3128](https://github.com/truecharts/apps/issues/3128))
+
+
+
+<a name="nextcloud-15.2.5"></a>
+### [nextcloud-15.2.5](https://github.com/truecharts/apps/compare/nextcloud-15.2.4...nextcloud-15.2.5) (2022-07-10)
+
+#### Fix
+
+* increase nginx fpm forwarding timeouts ([#3122](https://github.com/truecharts/apps/issues/3122))
+
 
 
 <a name="nextcloud-15.2.4"></a>

@@ -1,4 +1,39 @@
-# Changelog<br />
+# Changelog
+
+
+## [ubooquity-3.0.13](https://github.com/truecharts/apps/compare/ubooquity-3.0.12...ubooquity-3.0.13) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="ubooquity-3.0.12"></a>
+### [ubooquity-3.0.12](https://github.com/truecharts/apps/compare/ubooquity-3.0.11...ubooquity-3.0.12) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="ubooquity-3.0.11"></a>
+### [ubooquity-3.0.11](https://github.com/truecharts/apps/compare/ubooquity-3.0.10...ubooquity-3.0.11) (2022-07-11)
+
+
+
+<a name="ubooquity-3.0.10"></a>
+### [ubooquity-3.0.10](https://github.com/truecharts/apps/compare/ubooquity-3.0.9...ubooquity-3.0.10) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
+#### Fix
+
+* make root fs writable ([#3142](https://github.com/truecharts/apps/issues/3142))
+
 
 
 <a name="ubooquity-3.0.9"></a>

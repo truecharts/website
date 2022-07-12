@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [minio-3.0.21](https://github.com/truecharts/apps/compare/minio-console-3.0.13...minio-3.0.21) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="minio-3.0.20"></a>
+### [minio-3.0.20](https://github.com/truecharts/apps/compare/minio-console-3.0.12...minio-3.0.20) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="minio-3.0.19"></a>
+### [minio-3.0.19](https://github.com/truecharts/apps/compare/minio-3.0.18...minio-3.0.19) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="minio-3.0.18"></a>

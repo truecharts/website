@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [leaf2mqtt-4.0.13](https://github.com/truecharts/apps/compare/leaf2mqtt-4.0.12...leaf2mqtt-4.0.13) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="leaf2mqtt-4.0.12"></a>
+### [leaf2mqtt-4.0.12](https://github.com/truecharts/apps/compare/leaf2mqtt-4.0.11...leaf2mqtt-4.0.12) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="leaf2mqtt-4.0.11"></a>
+### [leaf2mqtt-4.0.11](https://github.com/truecharts/apps/compare/leaf2mqtt-4.0.10...leaf2mqtt-4.0.11) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="leaf2mqtt-4.0.10"></a>

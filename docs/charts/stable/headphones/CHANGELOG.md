@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [headphones-4.0.12](https://github.com/truecharts/apps/compare/headphones-4.0.11...headphones-4.0.12) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="headphones-4.0.11"></a>
+### [headphones-4.0.11](https://github.com/truecharts/apps/compare/headphones-4.0.10...headphones-4.0.11) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="headphones-4.0.10"></a>
+### [headphones-4.0.10](https://github.com/truecharts/apps/compare/headphones-4.0.9...headphones-4.0.10) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="headphones-4.0.9"></a>

@@ -1,4 +1,31 @@
-# Changelog<br />
+# Changelog
+
+
+## [deepstack-4.0.12](https://github.com/truecharts/apps/compare/deepstack-4.0.11...deepstack-4.0.12) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="deepstack-4.0.11"></a>
+### [deepstack-4.0.11](https://github.com/truecharts/apps/compare/deepstack-4.0.10...deepstack-4.0.11) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="deepstack-4.0.10"></a>
+### [deepstack-4.0.10](https://github.com/truecharts/apps/compare/deepstack-4.0.9...deepstack-4.0.10) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* add markdownlint and cpell config files (and apply some linting) ([#3140](https://github.com/truecharts/apps/issues/3140))
+
 
 
 <a name="deepstack-4.0.9"></a>

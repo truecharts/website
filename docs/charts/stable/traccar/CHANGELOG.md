@@ -1,4 +1,31 @@
-# Changelog<br />
+# Changelog
+
+
+## [traccar-7.0.14](https://github.com/truecharts/apps/compare/traccar-7.0.13...traccar-7.0.14) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+
+<a name="traccar-7.0.12"></a>
+### [traccar-7.0.12](https://github.com/truecharts/apps/compare/traccar-7.0.11...traccar-7.0.12) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
+
+
+<a name="traccar-7.0.11"></a>
+### [traccar-7.0.11](https://github.com/truecharts/apps/compare/traccar-7.0.10...traccar-7.0.11) (2022-07-11)
+
+#### Chore
+
+* update docker general non-major ([#3128](https://github.com/truecharts/apps/issues/3128))
+
 
 
 <a name="traccar-7.0.10"></a>

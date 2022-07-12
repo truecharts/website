@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [mysql-workbench-2.0.12](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.11...mysql-workbench-2.0.12) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="mysql-workbench-2.0.11"></a>
+### [mysql-workbench-2.0.11](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.10...mysql-workbench-2.0.11) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="mysql-workbench-2.0.10"></a>
+### [mysql-workbench-2.0.10](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.9...mysql-workbench-2.0.10) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="mysql-workbench-2.0.9"></a>

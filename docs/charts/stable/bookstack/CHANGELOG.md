@@ -1,4 +1,30 @@
-# Changelog<br />
+# Changelog
+
+
+## [bookstack-3.0.15](https://github.com/truecharts/apps/compare/bookstack-3.0.14...bookstack-3.0.15) (2022-07-12)
+
+### Chore
+
+- bump to regenerate documentation
+
+
+
+<a name="bookstack-3.0.14"></a>
+### [bookstack-3.0.14](https://github.com/truecharts/apps/compare/bookstack-3.0.13...bookstack-3.0.14) (2022-07-12)
+
+#### Chore
+
+* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="bookstack-3.0.13"></a>
+### [bookstack-3.0.13](https://github.com/truecharts/apps/compare/bookstack-3.0.12...bookstack-3.0.13) (2022-07-11)
+
+#### Chore
+
+* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+
 
 
 <a name="bookstack-3.0.12"></a>
