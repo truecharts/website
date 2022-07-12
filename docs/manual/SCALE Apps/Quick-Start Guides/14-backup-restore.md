@@ -5,7 +5,9 @@
 This guide makes use of our command-line tool, called `TrueTool`.
 
 ### How to Install
+
 Skip these steps if you have already installed TrueTool
+
 ### Choose a folder
 
 It's important to save the script in a folder that is persistent across TrueNAS System Updates.
