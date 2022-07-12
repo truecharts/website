@@ -36,9 +36,8 @@ git clone https://github.com/truecharts/truetool.git
 
 **Change Directory to truetool folder**
 
-```
+```bash
 cd truetool
-```
 
 From here, you can just run truetool with `bash truetool.sh -ARGUMENTS`
 
