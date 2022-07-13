@@ -1,4 +1,4 @@
-# Introduction
+# Common
 
 Function library for TrueCharts
 

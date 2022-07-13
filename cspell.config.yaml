@@ -1,9 +1,4 @@
 version: "0.2"
-# ignorePaths: []
-# dictionaryDefinitions: []
-# dictionaries: []
-# ignoreWords: []
-# import: []
 words:
   - aliasgroup
   - allowtransparency
@@ -28,6 +23,7 @@ words:
   - iban
   - ipaddr
   - ixcert
+  - ixsystems
   - jackett
   - jacobalberty
   - jailman
@@ -54,6 +50,7 @@ words:
   - nodeport
   - nodeports
   - notebookbar
+  - NSFL
   - ornias
   - ovpn
   - pgid
@@ -74,6 +71,7 @@ words:
   - schouten
   - selfsigned
   - serviceexpert
+  - shitposting
   - smallblock
   - sonarr
   - sonarrsabnzbd
@@ -94,7 +92,6 @@ words:
   - unifi
   - valheim
   - vaultwarden
-  - ixsystems
   - vdev
   - vm's
   - websecure
