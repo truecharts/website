@@ -27,6 +27,7 @@ jobs:
           token: ${{ secrets.BOT_TOKEN }}
           
       - name: Helm Security Scan
+        shell: bash
         run: |
           helm_sec_scan() {
               local chart="$1"
@@ -47,6 +48,7 @@ jobs:
            done
            
       - name: Container Security Scan
+        shell: bash
         run: |
           container_sec_scan() {
               local chart="$1"
