@@ -1,0 +1,27 @@
+name: Generate Documentation
+
+concurrency:
+  group: gen-docs
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Generate-Docs
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/truecharts/devcontainer:v2.5.0@sha256:395ee7ed8b9cba6569ddeba77b7ceb86fdb79b91a19c639625d7bc54cb1ccc1d
+    steps:
+      - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
+        name: Checkout
+        with:
+          fetch-depth: 1
+
+      - name: Checkout
+        uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
+        with:
+          repository: truecharts/apps
+          path: charts
+          fetch-depth: 1
+          
+          
