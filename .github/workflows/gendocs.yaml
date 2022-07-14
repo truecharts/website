@@ -10,12 +10,13 @@ jobs:
     name: Generate-Docs
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/truecharts/devcontainer:v2.5.0@sha256:395ee7ed8b9cba6569ddeba77b7ceb86fdb79b91a19c639625d7bc54cb1ccc1d
+      image: ghcr.io/truecharts/devcontainer:v2.5.0@sha256:a2f259a3fb1e8e529d1a3dcdbd9d244384183a78cdeb41d2fcf13f948c98abba
     steps:
       - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
         name: Checkout
         with:
           fetch-depth: 1
+          token: ${{ secrets.BOT_TOKEN }}
 
       - name: Checkout
         uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
@@ -23,5 +24,62 @@ jobs:
           repository: truecharts/apps
           path: charts
           fetch-depth: 1
+          token: ${{ secrets.BOT_TOKEN }}
           
-          
+      - name: Helm Security Scan
+        run: |
+          helm_sec_scan() {
+              local chart="$1"
+              local chartname="$(basename ${chart})"
+              echo "Scanning helm security for ${chartname}"
+              mkdir -p ${chart}/render
+              rm -rf docs/charts/${chart}/security.md || echo "removing old security.md file failed..."
+              cat charts/templates/security.tpl >> docs/charts/${chart}/security.md
+              echo "" >> docs/charts/${chart}/security.md
+              helm template ${chart} --output-dir ${chart}/render > /dev/null
+              trivy config -f template --template "@./charts/templates/trivy-config.tpl" -o ${chart}/render/tmpsec${chartname}.md ${chart}/render
+              rm -rf ${chart}/render/tmpsec${chartname}.md || true
+              echo "" >> docs/charts/${chart}/security.md
+              }
+           export -f helm_sec_scan
+           for chart in charts/charts/**/* ; do
+             helm_sec_scan "$chart"
+           done
+           
+      - name: Container Security Scan
+        run: |
+          container_sec_scan() {
+              local chart="$1"
+              local chartname="$(basename ${chart})"
+              echo "Scanning container security for ${chartname}"
+              echo "## Containers" >> docs/charts/${chart}/security.md
+              echo "" >> docs/charts/${chart}/security.md
+              echo "### Detected Containers" >> docs/charts/${chart}/security.md
+              echo "" >> docs/charts/${chart}/security.md
+              find ./${chart}/render/ -name '*.yaml' -type f -exec cat {} \; | grep image: | sed "s/image: //g" | sed "s/\"//g" >> ${chart}/render/containers.tmp
+              cat ${chart}/render/containers.tmp >> docs/charts/${chart}/security.md
+              echo "" >> docs/charts/${chart}/security.md
+              echo "### Scan Results" >> docs/charts/${chart}/security.md
+              echo "" >> docs/charts/${chart}/security.md
+              for container in $(cat ${chart}/render/containers.tmp); do
+                echo "processing container: ${container}"
+                echo "" >> docs/charts/${chart}/security.md
+                trivy image -f template --template "@./charts/templates/trivy-container.tpl" -o ${chart}/render/tmpsec${chartname}.md "${container}"
+                cat ${chart}/render/tmpsec${chartname}.md >> docs/charts/${chart}/security.md
+                rm -rf ${chart}/render/tmpsec${chartname}.md || true
+                echo "" >> docs/charts/${chart}/security.md
+              done
+              }
+           export -f container_sec_scan
+           for chart in charts/charts/**/* ; do
+             container_sec_scan "$chart"
+           done
+           
+      - name: Create commit
+        uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
+        with:
+          file_pattern: docs/charts/**/
+          commit_message: "chore: Auto-update chart docs [skip ci]"
+          commit_user_name: truecharts-bot
+          commit_user_email: bot@truecharts.org
+          commit_author: truecharts-bot <bot@truecharts.org>
