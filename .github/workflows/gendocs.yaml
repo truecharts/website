@@ -60,7 +60,7 @@ jobs:
               rm -rf docs/charts/${train}/${chartname}/security.md || echo "removing old security.md file failed..."
               cat charts/templates/security.tpl >> docs/charts/${train}/${chartname}/security.md
               echo "" >> docs/charts/${train}/${chartname}/security.md
-              helm template ${chart} --output-dir ${chart}/render > /dev/null || (  echo "helm templating failed..." && return 0 )
+              helm template ${chart} --output-dir ${chart}/render > /dev/null || (  echo "helm templating failed..." && return 1 )
               }
            export -f scan_prep
            
@@ -103,9 +103,9 @@ jobs:
               local chart="$1"
               local chartname="$(basename ${chart})"
               helm_dep ${chart}
-              scan_prep ${chart}
-              helm_sec_scan ${chart}
-              container_sec_scan ${chart}
+              scan_prep ${chart} || (  echo "Security prep failed..." && return 0 )
+              helm_sec_scan ${chart} || (  echo "Helm Security Scan failed..." && return 0 )
+              container_sec_scan ${chart} || (  echo "Container Security Scan failed..." && return 0 )
               }
            export -f run_scans
            
