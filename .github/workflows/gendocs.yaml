@@ -51,10 +51,14 @@ jobs:
       - name: Helm Dependency Fetch
         shell: bash
         run: |
-           for chart in charts/charts/**/* ; do
-             helm dependency update "${chart}" --skip-refresh || (sleep 10 && helm dependency update "${chart}" --skip-refresh) || (sleep 10 && helm dependency update "${chart}" --skip-refresh)
-           done
-          
+          helm_dep() {
+              helm dependency update "${1}" --skip-refresh || (sleep 10 && helm dependency update "${1}" --skip-refresh) || (sleep 10 && helm dependency update "${1}" --skip-refresh)
+              }
+          export -f helm_dep
+          for chart in charts/charts/**/* ; do
+            helm_dep ${chart} &
+          done
+          wait
       - name: Helm Security Scan
         shell: bash
         run: |
@@ -74,8 +78,9 @@ jobs:
               }
            export -f helm_sec_scan
            for chart in charts/charts/**/* ; do
-             helm_sec_scan "$chart"
+             helm_sec_scan "$chart" &
            done
+           wait
            
       - name: Container Security Scan
         shell: bash
@@ -105,8 +110,9 @@ jobs:
               }
            export -f container_sec_scan
            for chart in charts/charts/**/* ; do
-             container_sec_scan "$chart"
+             container_sec_scan "$chart" &
            done
+           wait
            
       - name: Create commit
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
