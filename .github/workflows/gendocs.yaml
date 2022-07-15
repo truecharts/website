@@ -2,8 +2,11 @@ name: Generate Documentation
 
 concurrency:
   group: gen-docs
-on:
+on: # yamllint disable-line rule:truthy
   workflow_dispatch:
+  schedule:
+    - cron: "3 * * * *"
+  
 
 jobs:
   deploy:
