@@ -48,6 +48,13 @@ jobs:
           fetch-depth: 1
           token: ${{ secrets.BOT_TOKEN }}
           
+      - name: Helm Dependency Fetch
+        shell: bash
+        run: |
+           for chart in charts/charts/**/* ; do
+             helm dependency update "${chart}" --skip-refresh || (sleep 10 && helm dependency update "${chart}" --skip-refresh) || (sleep 10 && helm dependency update "${chart}" --skip-refresh)
+           done
+          
       - name: Helm Security Scan
         shell: bash
         run: |
