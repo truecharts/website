@@ -101,6 +101,13 @@ jobs:
               done
               }
            export -f container_sec_scan
+          finish_sec() {
+              local chart="$1"
+              local chartname="$(basename ${chart})"
+              local train="$(basename $(dirname "${chart}"))"
+              sed -i 's;<br>;<br />;g' docs/charts/${train}/${chartname}/security.md
+              }
+           export -f finish_sec
            
           run_scans() {
               local chart="$1"
@@ -109,6 +116,7 @@ jobs:
               scan_prep ${chart} || (  echo "Security prep failed..." && return 0 )
               helm_sec_scan ${chart} || (  echo "Helm Security Scan failed..." && return 0 )
               container_sec_scan ${chart} || (  echo "Container Security Scan failed..." && return 0 )
+              finish_sec ${chart} || (  echo "Container Security Scan failed..." && return 0 )
               }
            export -f run_scans
            
