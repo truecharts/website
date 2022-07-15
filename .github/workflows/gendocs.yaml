@@ -68,7 +68,7 @@ jobs:
               local chart="$1"
               local chartname="$(basename ${chart})"
               local train="$(basename $(dirname "${chart}"))"
-              trivy config -f template --template "@./charts/templates/trivy-config.tpl" -o ${chart}/render/tmpsec${chartname}.md ${chart}/render
+              trivy config --security-checks vuln -f template --template "@./charts/templates/trivy-config.tpl" -o ${chart}/render/tmpsec${chartname}.md ${chart}/render
               rm -rf ${chart}/render/tmpsec${chartname}.md || true
               echo "" >> docs/charts/${train}/${chartname}/security.md
               }
@@ -91,7 +91,7 @@ jobs:
               for container in $(cat ${chart}/render/containers.tmp); do
                 echo "processing container: ${container}"
                 echo "" >> docs/charts/${train}/${chartname}/security.md
-                trivy image -f template --template "@./charts/templates/trivy-container.tpl" -o ${chart}/render/tmpsec${chartname}.md "${container}"
+                trivy image --security-checks vuln -f template --template "@./charts/templates/trivy-container.tpl" -o ${chart}/render/tmpsec${chartname}.md "${container}"
                 cat ${chart}/render/tmpsec${chartname}.md >> docs/charts/${train}/${chartname}/security.md
                 rm -rf ${chart}/render/tmpsec${chartname}.md || true
                 echo "" >> docs/charts/${train}/${chartname}/security.md
