@@ -12,6 +12,28 @@ jobs:
     container:
       image: ghcr.io/truecharts/devcontainer:v2.5.0@sha256:a2f259a3fb1e8e529d1a3dcdbd9d244384183a78cdeb41d2fcf13f948c98abba
     steps:
+      - name: Install Kubernetes tools
+        uses: yokawasa/action-setup-kube-tools@f7f73d7965074b0f5491b7210ff51e3254d42058 # tag=v0.8.2
+        with:
+          setup-tools: |
+            helmv3
+          helm: "3.8.0"
+
+      - name: Install helm-docs
+        run: |
+          wget -O /tmp/helm-docs.deb  https://github.com/k8s-at-home/helm-docs/releases/download/v0.1.1/helm-docs_0.1.1_Linux_x86_64.deb
+          sudo dpkg -i /tmp/helm-docs.deb
+
+      - name: Prep Helm
+        run: |
+          helm repo add truecharts https://charts.truecharts.org
+          helm repo add truecharts-library https://library-charts.truecharts.org
+          helm repo add bitnami https://charts.bitnami.com/bitnami
+          helm repo add metallb https://metallb.github.io/metallb
+          helm repo add grafana https://grafana.github.io/helm-charts
+          helm repo add prometheus https://prometheus-community.github.io/helm-charts
+          helm repo update
+    
       - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
         name: Checkout
         with:
@@ -32,15 +54,16 @@ jobs:
           helm_sec_scan() {
               local chart="$1"
               local chartname="$(basename ${chart})"
+              local train="$(basename $(dirname "${chart}"))"
               echo "Scanning helm security for ${chartname}"
               mkdir -p ${chart}/render
-              rm -rf docs/charts/${chart}/security.md || echo "removing old security.md file failed..."
-              cat charts/templates/security.tpl >> docs/charts/${chart}/security.md
-              echo "" >> docs/charts/${chart}/security.md
+              rm -rf docs/charts/${train}/${chartname}/security.md || echo "removing old security.md file failed..."
+              cat charts/templates/security.tpl >> docs/charts/${train}/${chartname}/security.md
+              echo "" >> docs/charts/${train}/${chartname}/security.md
               helm template ${chart} --output-dir ${chart}/render > /dev/null
               trivy config -f template --template "@./charts/templates/trivy-config.tpl" -o ${chart}/render/tmpsec${chartname}.md ${chart}/render
               rm -rf ${chart}/render/tmpsec${chartname}.md || true
-              echo "" >> docs/charts/${chart}/security.md
+              echo "" >> docs/charts/${train}/${chartname}/security.md
               }
            export -f helm_sec_scan
            for chart in charts/charts/**/* ; do
@@ -53,23 +76,24 @@ jobs:
           container_sec_scan() {
               local chart="$1"
               local chartname="$(basename ${chart})"
+              local train="$(basename $(dirname "${chart}"))"
               echo "Scanning container security for ${chartname}"
-              echo "## Containers" >> docs/charts/${chart}/security.md
-              echo "" >> docs/charts/${chart}/security.md
-              echo "### Detected Containers" >> docs/charts/${chart}/security.md
-              echo "" >> docs/charts/${chart}/security.md
+              echo "## Containers" >> docs/charts/${train}/${chartname}/security.md
+              echo "" >> docs/charts/${train}/${chartname}/security.md
+              echo "### Detected Containers" >> docs/charts/${train}/${chartname}/security.md
+              echo "" >> docs/charts/${train}/${chartname}/security.md
               find ./${chart}/render/ -name '*.yaml' -type f -exec cat {} \; | grep image: | sed "s/image: //g" | sed "s/\"//g" >> ${chart}/render/containers.tmp
-              cat ${chart}/render/containers.tmp >> docs/charts/${chart}/security.md
-              echo "" >> docs/charts/${chart}/security.md
-              echo "### Scan Results" >> docs/charts/${chart}/security.md
-              echo "" >> docs/charts/${chart}/security.md
+              cat ${chart}/render/containers.tmp >> docs/charts/${train}/${chartname}/security.md
+              echo "" >> docs/charts/${train}/${chartname}/security.md
+              echo "### Scan Results" >> docs/charts/${train}/${chartname}/security.md
+              echo "" >> docs/charts/${train}/${chartname}/security.md
               for container in $(cat ${chart}/render/containers.tmp); do
                 echo "processing container: ${container}"
-                echo "" >> docs/charts/${chart}/security.md
+                echo "" >> docs/charts/${train}/${chartname}/security.md
                 trivy image -f template --template "@./charts/templates/trivy-container.tpl" -o ${chart}/render/tmpsec${chartname}.md "${container}"
-                cat ${chart}/render/tmpsec${chartname}.md >> docs/charts/${chart}/security.md
+                cat ${chart}/render/tmpsec${chartname}.md >> docs/charts/${train}/${chartname}/security.md
                 rm -rf ${chart}/render/tmpsec${chartname}.md || true
-                echo "" >> docs/charts/${chart}/security.md
+                echo "" >> docs/charts/${train}/${chartname}/security.md
               done
               }
            export -f container_sec_scan
