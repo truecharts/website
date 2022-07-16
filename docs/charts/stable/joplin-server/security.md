@@ -435,14 +435,6 @@
 | yargs-parser         |    CVE-2020-7608   |   MEDIUM  |  8.1.0 | 5.0.1, 13.1.2, 18.1.2, 15.0.1 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2020-7608">https://access.redhat.com/security/cve/CVE-2020-7608</a><br /><a href="https://errata.almalinux.org/8/ALSA-2021-0548.html">https://errata.almalinux.org/8/ALSA-2021-0548.html</a><br /><a href="https://github.com/advisories/GHSA-p9pc-299p-vxgp">https://github.com/advisories/GHSA-p9pc-299p-vxgp</a><br /><a href="https://github.com/yargs/yargs-parser/commit/63810ca1ae1a24b08293a4d971e70e058c7a41e2">https://github.com/yargs/yargs-parser/commit/63810ca1ae1a24b08293a4d971e70e058c7a41e2</a><br /><a href="https://linux.oracle.com/cve/CVE-2020-7608.html">https://linux.oracle.com/cve/CVE-2020-7608.html</a><br /><a href="https://linux.oracle.com/errata/ELSA-2021-0548.html">https://linux.oracle.com/errata/ELSA-2021-0548.html</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-7608">https://nvd.nist.gov/vuln/detail/CVE-2020-7608</a><br /><a href="https://snyk.io/vuln/SNYK-JS-YARGSPARSER-560381">https://snyk.io/vuln/SNYK-JS-YARGSPARSER-560381</a><br /><a href="https://www.npmjs.com/advisories/1500">https://www.npmjs.com/advisories/1500</a><br /></details>  |
 | yargs-parser         |    CVE-2020-7608   |   MEDIUM  |  9.0.2 | 5.0.1, 13.1.2, 18.1.2, 15.0.1 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2020-7608">https://access.redhat.com/security/cve/CVE-2020-7608</a><br /><a href="https://errata.almalinux.org/8/ALSA-2021-0548.html">https://errata.almalinux.org/8/ALSA-2021-0548.html</a><br /><a href="https://github.com/advisories/GHSA-p9pc-299p-vxgp">https://github.com/advisories/GHSA-p9pc-299p-vxgp</a><br /><a href="https://github.com/yargs/yargs-parser/commit/63810ca1ae1a24b08293a4d971e70e058c7a41e2">https://github.com/yargs/yargs-parser/commit/63810ca1ae1a24b08293a4d971e70e058c7a41e2</a><br /><a href="https://linux.oracle.com/cve/CVE-2020-7608.html">https://linux.oracle.com/cve/CVE-2020-7608.html</a><br /><a href="https://linux.oracle.com/errata/ELSA-2021-0548.html">https://linux.oracle.com/errata/ELSA-2021-0548.html</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-7608">https://nvd.nist.gov/vuln/detail/CVE-2020-7608</a><br /><a href="https://snyk.io/vuln/SNYK-JS-YARGSPARSER-560381">https://snyk.io/vuln/SNYK-JS-YARGSPARSER-560381</a><br /><a href="https://www.npmjs.com/advisories/1500">https://www.npmjs.com/advisories/1500</a><br /></details>  |
 
-****
-
-      
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
-
 
 #### Container: ghcr.io/truecharts/multi-init:v0.0.1@sha256:41185dcea1e6f6a035d8090da40aecc6a69cef66b91dc1332a90c9d22861d367 (ubuntu 20.04)
     

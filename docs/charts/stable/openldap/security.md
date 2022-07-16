@@ -862,11 +862,3 @@
 | golang.org/x/net         |    CVE-2021-31525   |   MEDIUM  |  v0.0.0-20201010224723-4f7140c49acb | 0.0.0-20210428140749-89ef3d95e781 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2021-31525">https://access.redhat.com/security/cve/CVE-2021-31525</a><br /><a href="https://github.com/golang/go/issues/45710">https://github.com/golang/go/issues/45710</a><br /><a href="https://go.dev/cl/313069">https://go.dev/cl/313069</a><br /><a href="https://go.dev/issue/45710">https://go.dev/issue/45710</a><br /><a href="https://go.googlesource.com/net/+/89ef3d95e781148a0951956029c92a211477f7f9">https://go.googlesource.com/net/+/89ef3d95e781148a0951956029c92a211477f7f9</a><br /><a href="https://groups.google.com/g/golang-announce/c/cu9SP4eSXMc">https://groups.google.com/g/golang-announce/c/cu9SP4eSXMc</a><br /><a href="https://linux.oracle.com/cve/CVE-2021-31525.html">https://linux.oracle.com/cve/CVE-2021-31525.html</a><br /><a href="https://linux.oracle.com/errata/ELSA-2021-3076.html">https://linux.oracle.com/errata/ELSA-2021-3076.html</a><br /><a href="https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ISRZZ6NY5R2TBYE72KZFOCO25TEUQTBF/">https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/ISRZZ6NY5R2TBYE72KZFOCO25TEUQTBF/</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-31525">https://nvd.nist.gov/vuln/detail/CVE-2021-31525</a><br /><a href="https://pkg.go.dev/vuln/GO-2022-0236">https://pkg.go.dev/vuln/GO-2022-0236</a><br /></details>  |
 | golang.org/x/text         |    CVE-2021-38561   |   HIGH  |  v0.3.3 | 0.3.7 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2021-38561">https://access.redhat.com/security/cve/CVE-2021-38561</a><br /><a href="https://go.dev/cl/340830">https://go.dev/cl/340830</a><br /><a href="https://go.googlesource.com/text/+/383b2e75a7a4198c42f8f87833eefb772868a56f">https://go.googlesource.com/text/+/383b2e75a7a4198c42f8f87833eefb772868a56f</a><br /><a href="https://pkg.go.dev/vuln/GO-2021-0113">https://pkg.go.dev/vuln/GO-2021-0113</a><br /></details>  |
 
-****
-
-      
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
-

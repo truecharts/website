@@ -320,11 +320,3 @@
 | undefsafe         |    CVE-2019-10795   |   MEDIUM  |  2.0.2 | 2.0.3 | <details><summary>Expand...</summary><a href="https://github.com/advisories/GHSA-332q-7ff2-57h2">https://github.com/advisories/GHSA-332q-7ff2-57h2</a><br /><a href="https://github.com/remy/undefsafe/commit/f272681b3a50e2c4cbb6a8533795e1453382c822">https://github.com/remy/undefsafe/commit/f272681b3a50e2c4cbb6a8533795e1453382c822</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2019-10795">https://nvd.nist.gov/vuln/detail/CVE-2019-10795</a><br /><a href="https://snyk.io/vuln/SNYK-JS-UNDEFSAFE-548940">https://snyk.io/vuln/SNYK-JS-UNDEFSAFE-548940</a><br /></details>  |
 | ws         |    CVE-2021-32640   |   MEDIUM  |  6.1.2 | 5.2.3, 6.2.2, 7.4.6 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2021-32640">https://access.redhat.com/security/cve/CVE-2021-32640</a><br /><a href="https://github.com/advisories/GHSA-6fc8-4gx4-v693">https://github.com/advisories/GHSA-6fc8-4gx4-v693</a><br /><a href="https://github.com/websockets/ws/commit/00c425ec77993773d823f018f64a5c44e17023ff">https://github.com/websockets/ws/commit/00c425ec77993773d823f018f64a5c44e17023ff</a><br /><a href="https://github.com/websockets/ws/issues/1895">https://github.com/websockets/ws/issues/1895</a><br /><a href="https://github.com/websockets/ws/security/advisories/GHSA-6fc8-4gx4-v693">https://github.com/websockets/ws/security/advisories/GHSA-6fc8-4gx4-v693</a><br /><a href="https://lists.apache.org/thread.html/rdfa7b6253c4d6271e31566ecd5f30b7ce1b8fb2c89d52b8c4e0f4e30@%3Ccommits.tinkerpop.apache.org%3E">https://lists.apache.org/thread.html/rdfa7b6253c4d6271e31566ecd5f30b7ce1b8fb2c89d52b8c4e0f4e30@%3Ccommits.tinkerpop.apache.org%3E</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-32640">https://nvd.nist.gov/vuln/detail/CVE-2021-32640</a><br /><a href="https://security.netapp.com/advisory/ntap-20210706-0005/">https://security.netapp.com/advisory/ntap-20210706-0005/</a><br /></details>  |
 
-****
-
-      
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
-

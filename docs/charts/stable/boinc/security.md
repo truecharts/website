@@ -473,11 +473,3 @@
 | deep-extend         |    NSWG-ECO-408   |   LOW  |  0.4.2 | &gt;=0.5.1 | <details><summary>Expand...</summary><a href="https://hackerone.com/reports/311333">https://hackerone.com/reports/311333</a><br /></details>  |
 | moment         |    CVE-2022-31129   |   HIGH  |  2.29.3 | 2.29.4 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2022-31129">https://access.redhat.com/security/cve/CVE-2022-31129</a><br /><a href="https://github.com/advisories/GHSA-wc69-rhjr-hc9g">https://github.com/advisories/GHSA-wc69-rhjr-hc9g</a><br /><a href="https://github.com/moment/moment/commit/9a3b5894f3d5d602948ac8a02e4ee528a49ca3a3">https://github.com/moment/moment/commit/9a3b5894f3d5d602948ac8a02e4ee528a49ca3a3</a><br /><a href="https://github.com/moment/moment/pull/6015#issuecomment-1152961973">https://github.com/moment/moment/pull/6015#issuecomment-1152961973</a><br /><a href="https://github.com/moment/moment/security/advisories/GHSA-wc69-rhjr-hc9g">https://github.com/moment/moment/security/advisories/GHSA-wc69-rhjr-hc9g</a><br /><a href="https://huntr.dev/bounties/f0952b67-f2ff-44a9-a9cd-99e0a87cb633/">https://huntr.dev/bounties/f0952b67-f2ff-44a9-a9cd-99e0a87cb633/</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-31129">https://nvd.nist.gov/vuln/detail/CVE-2022-31129</a><br /></details>  |
 
-****
-
-      
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
-

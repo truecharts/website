@@ -366,22 +366,6 @@
 | xmldom         |    CVE-2021-32796   |   MEDIUM  |  0.1.31 | 0.7.0 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2021-32796">https://access.redhat.com/security/cve/CVE-2021-32796</a><br /><a href="https://github.com/advisories/GHSA-5fg8-2547-mr8q">https://github.com/advisories/GHSA-5fg8-2547-mr8q</a><br /><a href="https://github.com/xmldom/xmldom/commit/7b4b743917a892d407356e055b296dcd6d107e8b">https://github.com/xmldom/xmldom/commit/7b4b743917a892d407356e055b296dcd6d107e8b</a><br /><a href="https://github.com/xmldom/xmldom/security/advisories/GHSA-5fg8-2547-mr8q">https://github.com/xmldom/xmldom/security/advisories/GHSA-5fg8-2547-mr8q</a><br /><a href="https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/">https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/</a><br /><a href="https://mattermost.com/blog/securing-xml-implementations-across-the-web/">https://mattermost.com/blog/securing-xml-implementations-across-the-web/</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-32796">https://nvd.nist.gov/vuln/detail/CVE-2021-32796</a><br /><a href="https://www.npmjs.com/package/@xmldom/xmldom">https://www.npmjs.com/package/@xmldom/xmldom</a><br /></details>  |
 | xmldom         |    CVE-2021-21366   |   LOW  |  0.1.31 | 0.5.0 | <details><summary>Expand...</summary><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21366">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-21366</a><br /><a href="https://github.com/advisories/GHSA-h6q6-9hqw-rwfv">https://github.com/advisories/GHSA-h6q6-9hqw-rwfv</a><br /><a href="https://github.com/xmldom/xmldom/commit/d4201b9dfbf760049f457f9f08a3888d48835135">https://github.com/xmldom/xmldom/commit/d4201b9dfbf760049f457f9f08a3888d48835135</a><br /><a href="https://github.com/xmldom/xmldom/releases/tag/0.5.0">https://github.com/xmldom/xmldom/releases/tag/0.5.0</a><br /><a href="https://github.com/xmldom/xmldom/security/advisories/GHSA-h6q6-9hqw-rwfv">https://github.com/xmldom/xmldom/security/advisories/GHSA-h6q6-9hqw-rwfv</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2021-21366">https://nvd.nist.gov/vuln/detail/CVE-2021-21366</a><br /><a href="https://www.npmjs.com/package/xmldom">https://www.npmjs.com/package/xmldom</a><br /></details>  |
 
-****
-
-      
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
-
-****
-
-      
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
-
 
 #### Container: ghcr.io/truecharts/multi-init:v0.0.1@sha256:41185dcea1e6f6a035d8090da40aecc6a69cef66b91dc1332a90c9d22861d367 (ubuntu 20.04)
     

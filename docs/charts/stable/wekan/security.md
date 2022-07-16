@@ -389,14 +389,6 @@
 | tunnel-agent         |    GHSA-xc7v-wxcw-j472   |   MEDIUM  |  0.4.3 | 0.6.0 | <details><summary>Expand...</summary><a href="https://gist.github.com/ChALkeR/fd6b2c445834244e7d440a043f9d2ff4">https://gist.github.com/ChALkeR/fd6b2c445834244e7d440a043f9d2ff4</a><br /><a href="https://github.com/advisories/GHSA-xc7v-wxcw-j472">https://github.com/advisories/GHSA-xc7v-wxcw-j472</a><br /><a href="https://github.com/request/tunnel-agent/commit/9ca95ec7219daface8a6fc2674000653de0922c0">https://github.com/request/tunnel-agent/commit/9ca95ec7219daface8a6fc2674000653de0922c0</a><br /><a href="https://www.npmjs.com/advisories/598">https://www.npmjs.com/advisories/598</a><br /></details>  |
 | tunnel-agent         |    NSWG-ECO-393   |   MEDIUM  |  0.4.3 | &gt;=0.6.0 | <details><summary>Expand...</summary><a href="https://gist.github.com/ChALkeR/fd6b2c445834244e7d440a043f9d2ff4">https://gist.github.com/ChALkeR/fd6b2c445834244e7d440a043f9d2ff4</a><br /><a href="https://github.com/request/tunnel-agent/commit/9ca95ec7219daface8a6fc2674000653de0922c0">https://github.com/request/tunnel-agent/commit/9ca95ec7219daface8a6fc2674000653de0922c0</a><br /></details>  |
 
-****
-
-      
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
-
 
 #### Container: ghcr.io/truecharts/multi-init:v0.0.1@sha256:41185dcea1e6f6a035d8090da40aecc6a69cef66b91dc1332a90c9d22861d367 (ubuntu 20.04)
     
