@@ -2,8 +2,11 @@ name: Generate Documentation
 
 concurrency:
   group: gen-docs
-on:
+on: # yamllint disable-line rule:truthy
   workflow_dispatch:
+  schedule:
+    - cron: "3 * * * *"
+  
 
 jobs:
   deploy:
@@ -98,6 +101,13 @@ jobs:
               done
               }
            export -f container_sec_scan
+          finish_sec() {
+              local chart="$1"
+              local chartname="$(basename ${chart})"
+              local train="$(basename $(dirname "${chart}"))"
+              sed -i 's;<br>;<br />;g' docs/charts/${train}/${chartname}/security.md
+              }
+           export -f finish_sec
            
           run_scans() {
               local chart="$1"
@@ -106,6 +116,7 @@ jobs:
               scan_prep ${chart} || (  echo "Security prep failed..." && return 0 )
               helm_sec_scan ${chart} || (  echo "Helm Security Scan failed..." && return 0 )
               container_sec_scan ${chart} || (  echo "Container Security Scan failed..." && return 0 )
+              finish_sec ${chart} || (  echo "Container Security Scan failed..." && return 0 )
               }
            export -f run_scans
            
@@ -117,7 +128,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
         with:
           file_pattern: docs/charts/**/
-          commit_message: "chore: Auto-update chart docs [skip ci]"
+          commit_message: "chore: Auto-update chart docs"
           commit_user_name: truecharts-bot
           commit_user_email: bot@truecharts.org
           commit_author: truecharts-bot <bot@truecharts.org>
