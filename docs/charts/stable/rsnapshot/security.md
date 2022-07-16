@@ -267,8 +267,8 @@
 **alpine**
 
       
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
+| Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |                   Links                   |
+|:----------------|:------------------:|:-----------:|:------------------:|:-------------:|-----------------------------------------|
+| ncurses-libs         |    CVE-2022-29458   |   HIGH  |  6.2_p20210612-r0 | 6.2_p20210612-r1 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2022-29458">https://access.redhat.com/security/cve/CVE-2022-29458</a><br /><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-29458">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-29458</a><br /><a href="https://invisible-island.net/ncurses/NEWS.html#t20220416">https://invisible-island.net/ncurses/NEWS.html#t20220416</a><br /><a href="https://lists.gnu.org/archive/html/bug-ncurses/2022-04/msg00014.html">https://lists.gnu.org/archive/html/bug-ncurses/2022-04/msg00014.html</a><br /><a href="https://lists.gnu.org/archive/html/bug-ncurses/2022-04/msg00016.html">https://lists.gnu.org/archive/html/bug-ncurses/2022-04/msg00016.html</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-29458">https://nvd.nist.gov/vuln/detail/CVE-2022-29458</a><br /><a href="https://ubuntu.com/security/notices/USN-5477-1">https://ubuntu.com/security/notices/USN-5477-1</a><br /></details>  |
+| ncurses-terminfo-base         |    CVE-2022-29458   |   HIGH  |  6.2_p20210612-r0 | 6.2_p20210612-r1 | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2022-29458">https://access.redhat.com/security/cve/CVE-2022-29458</a><br /><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-29458">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-29458</a><br /><a href="https://invisible-island.net/ncurses/NEWS.html#t20220416">https://invisible-island.net/ncurses/NEWS.html#t20220416</a><br /><a href="https://lists.gnu.org/archive/html/bug-ncurses/2022-04/msg00014.html">https://lists.gnu.org/archive/html/bug-ncurses/2022-04/msg00014.html</a><br /><a href="https://lists.gnu.org/archive/html/bug-ncurses/2022-04/msg00016.html">https://lists.gnu.org/archive/html/bug-ncurses/2022-04/msg00016.html</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-29458">https://nvd.nist.gov/vuln/detail/CVE-2022-29458</a><br /><a href="https://ubuntu.com/security/notices/USN-5477-1">https://ubuntu.com/security/notices/USN-5477-1</a><br /></details>  |
 
