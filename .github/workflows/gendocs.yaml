@@ -42,6 +42,8 @@ jobs:
           
       - name: Security Scan
         shell: bash
+        env:
+          DOCUSAURUS_SSR_CONCURRENCY: "5"
         run: |
           helm_dep() {
               helm dependency update "${1}" --skip-refresh || (sleep 10 && helm dependency update "${1}" --skip-refresh) || (sleep 10 && helm dependency update "${1}" --skip-refresh)
