@@ -135,9 +135,9 @@ jobs:
               local chart="$1"
               local chartname="$(basename ${chart})"
               local train="$(basename $(dirname "${chart}"))"
-              if ! [ -d "docs/charts/${train}/${chartname}" ]; then
+              if [ -d "website/docs/charts/${train}/${chartname}" ]; then
                 rm website/docs/charts/${train}/${chartname}/security.md
-                cp -rf ${chart}/security.md docs/charts/${train}/${chartname}/security.md
+                cp -rf ${chart}/security.md website/docs/charts/${train}/${chartname}/security.md
               else
                   echo "Cannot copy docs, Chart folder does not exist on website..."
               fi
