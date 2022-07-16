@@ -31,12 +31,6 @@ jobs:
           helm repo add grafana https://grafana.github.io/helm-charts
           helm repo add prometheus https://prometheus-community.github.io/helm-charts
           helm repo update
-    
-      - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
-        name: Checkout
-        with:
-          fetch-depth: 1
-          token: ${{ secrets.BOT_TOKEN }}
 
       - name: Checkout
         uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
@@ -60,9 +54,9 @@ jobs:
               local train="$(basename $(dirname "${chart}"))"
               echo "Preparing security scans for: ${chartname}"
               mkdir -p ${chart}/render
-              rm -rf docs/charts/${train}/${chartname}/security.md || echo "removing old security.md file failed..."
-              cat charts/templates/security.tpl >> docs/charts/${train}/${chartname}/security.md
-              echo "" >> docs/charts/${train}/${chartname}/security.md
+              rm -rf ${chart}/security.md || echo "removing old security.md file failed..."
+              cat charts/templates/security.tpl >> ${chart}/security.md
+              echo "" >> ${chart}/security.md
               helm template ${chart} --output-dir ${chart}/render > /dev/null || (  echo "helm templating failed..." && return 1 )
               }
            export -f scan_prep
@@ -73,7 +67,7 @@ jobs:
               local train="$(basename $(dirname "${chart}"))"
               trivy config --security-checks vuln -f template --template "@./charts/templates/trivy-config.tpl" -o ${chart}/render/tmpsec${chartname}.md ${chart}/render
               rm -rf ${chart}/render/tmpsec${chartname}.md || true
-              echo "" >> docs/charts/${train}/${chartname}/security.md
+              echo "" >> ${chart}/security.md
               }
            export -f helm_sec_scan
            
@@ -82,22 +76,22 @@ jobs:
               local chartname="$(basename ${chart})"
               local train="$(basename $(dirname "${chart}"))"
               echo "Scanning container security for ${chartname}"
-              echo "## Containers" >> docs/charts/${train}/${chartname}/security.md
-              echo "" >> docs/charts/${train}/${chartname}/security.md
-              echo "### Detected Containers" >> docs/charts/${train}/${chartname}/security.md
-              echo "" >> docs/charts/${train}/${chartname}/security.md
+              echo "## Containers" >> ${chart}/security.md
+              echo "" >> ${chart}/security.md
+              echo "### Detected Containers" >> ${chart}/security.md
+              echo "" >> ${chart}/security.md
               find ./${chart}/render/ -name '*.yaml' -type f -exec cat {} \; | grep image: | sed "s/image: //g" | sed "s/\"//g" >> ${chart}/render/containers.tmp
-              cat ${chart}/render/containers.tmp >> docs/charts/${train}/${chartname}/security.md
-              echo "" >> docs/charts/${train}/${chartname}/security.md
-              echo "### Scan Results" >> docs/charts/${train}/${chartname}/security.md
-              echo "" >> docs/charts/${train}/${chartname}/security.md
+              cat ${chart}/render/containers.tmp >> ${chart}/security.md
+              echo "" >> ${chart}/security.md
+              echo "### Scan Results" >> ${chart}/security.md
+              echo "" >> ${chart}/security.md
               for container in $(cat ${chart}/render/containers.tmp); do
                 echo "processing container: ${container}"
-                echo "" >> docs/charts/${train}/${chartname}/security.md
+                echo "" >> ${chart}/security.md
                 trivy image --security-checks vuln -f template --template "@./charts/templates/trivy-container.tpl" -o ${chart}/render/tmpsec${chartname}.md "${container}"
-                cat ${chart}/render/tmpsec${chartname}.md >> docs/charts/${train}/${chartname}/security.md
+                cat ${chart}/render/tmpsec${chartname}.md >> ${chart}/security.md
                 rm -rf ${chart}/render/tmpsec${chartname}.md || true
-                echo "" >> docs/charts/${train}/${chartname}/security.md
+                echo "" >> ${chart}/security.md
               done
               }
            export -f container_sec_scan
@@ -105,7 +99,7 @@ jobs:
               local chart="$1"
               local chartname="$(basename ${chart})"
               local train="$(basename $(dirname "${chart}"))"
-              sed -i 's;<br>;<br />;g' docs/charts/${train}/${chartname}/security.md
+              sed -i 's;<br>;<br />;g' ${chart}/security.md
               }
            export -f finish_sec
            
@@ -123,6 +117,33 @@ jobs:
            
           parthreads=$(($(nproc) * 2))
           parallel -j ${parthreads} run_scans '2>&1' ::: charts/charts/**/*
+           
+      - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
+        name: Checkout
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.BOT_TOKEN }}
+          path: website
+           
+      - name: Copy Chart Docs
+        shell: bash
+        run: |
+          copy_docs() {
+              local chart="$1"
+              local chartname="$(basename ${chart})"
+              local train="$(basename $(dirname "${chart}"))"
+              if ! [ -d "docs/charts/${train}/${chartname}" ]; then
+                rm website/docs/charts/${train}/${chartname}/security.md
+                cp -rf ${chart}/security.md docs/charts/${train}/${chartname}/security.md
+              else
+                  echo "Cannot copy docs, Chart folder does not exist on website..."
+              fi
+              }
+           export -f copy_docs
+           
+          parthreads=$(($(nproc) * 2))
+          parallel -j ${parthreads} copy_docs '2>&1' ::: charts/charts/**/*
+        
            
       - name: Create commit
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
