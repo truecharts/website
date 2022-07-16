@@ -28,8 +28,6 @@ We also heavily advise people starting with TrueCharts and the rest of this guid
 TrueCharts has multiple "trains": All trains contain Apps that should work fine. However they have a slightly different meaning:
 
 - `stable` contains most of our Apps. These are considered stable and working.
-- `core` contains important Apps that are used to supply features like "ingress" (Traefik) or advanced networking to our Apps.
-- `games` contains game servers (eg. Minecraft, Valheim etc)
 - `dependency` contains apps that are mostly used as dependencies. This train is not supported, besides from bug fixes.
 - `incubator` These Apps are still in development and/or are not considered to be of high-enough quality.
 
