@@ -156,3 +156,5 @@ jobs:
           commit_user_name: truecharts-bot
           commit_user_email: bot@truecharts.org
           commit_author: truecharts-bot <bot@truecharts.org>
+          repository: ./website
+
