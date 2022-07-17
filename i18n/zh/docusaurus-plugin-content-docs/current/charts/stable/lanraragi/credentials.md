@@ -1,3 +1,3 @@
-# Default Password
+# 默认密码
 
-__password__: `kamimamita`
+__密码__: `kamimamita`
