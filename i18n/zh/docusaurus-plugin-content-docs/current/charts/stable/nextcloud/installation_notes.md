@@ -1,10 +1,10 @@
-# Important Notes
+# 重要笔记
 
 Nextcloud is a VERY picky Application and is VERY hard to support. For this reason we ask you not to file support requests on our Discord or Github, unless your issue is clearly caused by TrueCharts.
 
 While we consider the App layer "Stable", we simply cannot guarantee stability due to the nature of the Nextcloud Application inside the App.
 
-## Installation Notes
+## 安装笔记
 
 Nextcloud generates it's `config.php` file on the first startup/installation. Therefore you have to set some values correctly on the first try. Otherwise you will have to either re-install the App or edit the `config.php` manually, with the latter being out of our support scope. The mentioned values are:
 
