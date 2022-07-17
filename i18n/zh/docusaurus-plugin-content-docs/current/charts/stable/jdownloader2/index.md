@@ -1,6 +1,6 @@
 # jdownloader2
 
-JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+JDownloader是一个免费的开放源码下载管理工具，拥有一个庞大的开发者群，这个群落使下载尽可能容易和快速。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
