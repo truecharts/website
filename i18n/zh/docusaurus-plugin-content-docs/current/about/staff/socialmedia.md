@@ -1,17 +1,17 @@
-# Social Media Guidelines
+# 社交媒体准则
 
-We have a lot of social media presence, both using official accounts and personal accounts. This document highlights the staff guidelines when responding to TrueCharts related subjects on social media.
+我们有大量的社会媒体存在，无论是利用官方报道还是个人报道。 本文件重点介绍了工作人员在社会媒体上对TrueCharts相关主题做出回应时的指导方针。
 
-## Personal Accounts
+## 个人账户
 
-We leave our staff free to decide for themselves how to handle themselves on social media. However, we actively advice to point users with support requests towards the official channels. It's also advised to keep negativity about TrueCharts as a whole, to a minimum. But this is not a strictly enforced requirement.
+我们让我们的工作人员能够自行决定如何利用社会媒体。 然而，我们积极建议向正式渠道提出支助请求的用户。 它还建议尽量减少对TrueCharts整体的否定。 但这并不是一项严格的强制性要求。
 
-## Official Accounts
+## 正式账户
 
-The requirements when using official TrueCharts accounts are more strict, as they directly show the attitude and intention of the project as a whole.
+使用官方TrueCharts帐户时的要求比较严格，因为它们直接显示了整个项目的态度和意图。
 
-- We aim to have an active online presence at influences of related interest, but will refrain to link directly towards out community (resources)
-- We do not respond outside of our own discord on community related issues.
-- While we do know better, we try ignore SCALE related topics that are not related to the things we build. So we should ignore other catalogs or other SCALE features when reasonable/possible.
-- When people have complaints about our official attitude, we should try to get in contact and hear them out. Their feedback should be taken fairly and seriously.
-- When people have issues with our project, we should limit ourselves to short answers. If that's not possible we should aim to actively nudge them to file support requests on our Discord
+- 我们的目标是在相关利益的影响下积极地在线开展活动，但我们将避免直接与社区建立联系(资源)
+- 我们在与社区有关的问题上不会有任何分歧。
+- 虽然我们更清楚，但是我们试图忽略与我们建设的东西无关的与SCALE有关的主题。 因此，我们应该在合理/可能时忽略其他目录或其他SCALE功能。
+- 当人们对我们的官方态度抱有不满时，我们应该努力进行接触并听到他们的声音。 应公正和认真地对待他们的反馈意见。
+- 当人们对我们的项目有问题时，我们应该仅限于作出简短的答复。 如果无法做到这一点，我们应该努力劝导他们在我们的 Discord 上提交支持请求
