@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [mysql-workbench-2.0.17](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.16...mysql-workbench-2.0.17) (2022-07-14)
+## [mysql-workbanch-2.0.17](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.16...mysql-workbench-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [mysql-workbench-2.0.16](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.14...mysql-workbench-2.0.16) (2022-07-14)
+## [mysql-workbanch-2.0.16](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.14...mysql-workbench-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [mysql-workbench-2.0.14](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.12...mysql-workbench-2.0.14) (2022-07-12)
+## [mysql-workbanch-2.0.14](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.12...mysql-workbench-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [mysql-workbench-2.0.12](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.11...mysql-workbench-2.0.12) (2022-07-12)
+## [mysql-workbook-2.0.12](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.11...mysql-workbench-2.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="mysql-workbench-2.0.11"></a>
 
-### [mysql-workbench-2.0.11](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.10...mysql-workbench-2.0.11) (2022-07-12)
+### [mysql-workbanch-2.0.11](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.10...mysql-workbench-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="mysql-workbench-2.0.10"></a>
 
-### [mysql-workbench-2.0.10](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.9...mysql-workbench-2.0.10) (2022-07-11)
+### [mysql-workbanch-2.0.10](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.9...mysql-workbench-2.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="mysql-workbench-2.0.9"></a>
 
-### [mysql-workbench-2.0.9](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.8...mysql-workbench-2.0.9) (2022-07-09)
+### [mysql-workbanch-2.0.9](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.8...mysql-workbench-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="mysql-workbench-2.0.8"></a>
 
-### [mysql-workbench-2.0.8](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.7...mysql-workbench-2.0.8) (2022-07-04)
+### [mysql-workbanch-2.0.8](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.7...mysql-workbench-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="mysql-workbench-2.0.7"></a>
 
-### [mysql-workbench-2.0.7](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.6...mysql-workbench-2.0.7) (2022-06-25)
+### [mysql-workbanch-2.0.7](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.6...mysql-workbench-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="mysql-workbench-2.0.6"></a>
 
-### [mysql-workbench-2.0.6](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.5...mysql-workbench-2.0.6) (2022-06-22)
+### [mysql-workbook-2.0.6](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.5...mysql-workbench-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="mysql-workbench-2.0.5"></a>
 
-### [mysql-workbench-2.0.5](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.4...mysql-workbench-2.0.5) (2022-06-21)
+### [mysql-workbanch-2.0.5](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.4...mysql-workbench-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="mysql-workbench-2.0.4"></a>
 
-### [mysql-workbench-2.0.4](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.3...mysql-workbench-2.0.4) (2022-06-14)
+### [mysql-workbanch-2.0.4](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.3...mysql-workbench-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="mysql-workbench-2.0.3"></a>
 
-### [mysql-workbench-2.0.3](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.2...mysql-workbench-2.0.3) (2022-06-11)
+### [mysql-workbanch-2.0.3](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.2...mysql-workbench-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="mysql-workbench-2.0.2"></a>
 
-### [mysql-workbench-2.0.2](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.1...mysql-workbench-2.0.2) (2022-06-07)
+### [mysql-workbanch-2.0.2](https://github.com/truecharts/apps/compare/mysql-workbench-2.0.1...mysql-workbench-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="mysql-workbench-2.0.1"></a>
 
-### [mysql-workbench-2.0.1](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.22...mysql-workbench-2.0.1) (2022-06-07)
+### [mysql-workbanch-2.0.1](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.22...mysql-workbench-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -155,7 +155,7 @@
 
 <a name="mysql-workbench-2.0.0"></a>
 
-### [mysql-workbench-2.0.0](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.22...mysql-workbench-2.0.0) (2022-06-07)
+### [mysql-workbanch-2.0.0](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.22...mysql-workbench-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="mysql-workbench-1.0.22"></a>
 
-### [mysql-workbench-1.0.22](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.21...mysql-workbench-1.0.22) (2022-05-31)
+### [mysql-workbook-1.0.22](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.21...mysql-workbench-1.0.22) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="mysql-workbench-1.0.21"></a>
 
-### [mysql-workbench-1.0.21](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.20...mysql-workbench-1.0.21) (2022-05-26)
+### [mysql-workbound-1.0.21](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.20...mysql-workbench-1.0.21) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="mysql-workbench-1.0.21"></a>
 
-### [mysql-workbench-1.0.21](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.20...mysql-workbench-1.0.21) (2022-05-26)
+### [mysql-workbound-1.0.21](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.20...mysql-workbench-1.0.21) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="mysql-workbench-1.0.20"></a>
 
-### [mysql-workbench-1.0.20](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.19...mysql-workbench-1.0.20) (2022-05-24)
+### [mysql-workboutic -1.0.20](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.19...mysql-workbench-1.0.20) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="mysql-workbench-1.0.19"></a>
 
-### [mysql-workbench-1.0.19](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.18...mysql-workbench-1.0.19) (2022-05-17)
+### [mysql-workbook-1.0.19](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.18...mysql-workbench-1.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="mysql-workbench-1.0.19"></a>
 
-### [mysql-workbench-1.0.19](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.18...mysql-workbench-1.0.19) (2022-05-17)
+### [mysql-workbook-1.0.19](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.18...mysql-workbench-1.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="mysql-workbench-1.0.18"></a>
 
-### [mysql-workbench-1.0.18](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.17...mysql-workbench-1.0.18) (2022-05-17)
+### [mysql-workbook-1.0.18](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.17...mysql-workbench-1.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="mysql-workbench-1.0.17"></a>
 
-### [mysql-workbench-1.0.17](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.16...mysql-workbench-1.0.17) (2022-05-10)
+### [mysql-workbook-1.0.17](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.16...mysql-workbench-1.0.17) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="mysql-workbench-1.0.16"></a>
 
-### [mysql-workbench-1.0.16](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.15...mysql-workbench-1.0.16) (2022-05-05)
+### [mysql-workbool -1.0.16](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.15...mysql-workbench-1.0.16) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="mysql-workbench-1.0.15"></a>
 
-### [mysql-workbench-1.0.15](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.14...mysql-workbench-1.0.15) (2022-04-28)
+### [mysql-workboutic -1.0.15](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.14...mysql-workbench-1.0.15) (2022-04-28)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="mysql-workbench-1.0.14"></a>
 
-### [mysql-workbench-1.0.14](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.13...mysql-workbench-1.0.14) (2022-04-26)
+### [mysql-workboutic -1.0.14](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.13...mysql-workbench-1.0.14) (2022-04-26)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="mysql-workbench-1.0.13"></a>
 
-### [mysql-workbench-1.0.13](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.12...mysql-workbench-1.0.13) (2022-04-20)
+### [mysql-workbook-1.0.13](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.12...mysql-workbench-1.0.13) (2022-04-20)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="mysql-workbench-1.0.12"></a>
 
-### [mysql-workbench-1.0.12](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.11...mysql-workbench-1.0.12) (2022-04-12)
+### [mysql-workbook-1.0.12](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.11...mysql-workbench-1.0.12) (2022-04-12)
 
 #### 聊天
 
@@ -302,17 +302,17 @@
 
 <a name="mysql-workbench-1.0.11"></a>
 
-### [mysql-workbench-1.0.11](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.10...mysql-workbench-1.0.11) (2022-04-08)
+### [mysql-workbook-1.0.11](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.10...mysql-workbench-1.0.11) (2022-04-08)
 
 #### 修复
 
-* Fix keyring support by adding IPC_Lock ([#2453](https://github.com/truecharts/apps/issues/2453))
+* 通过添加 IPC_Lock 来修复密钥环支持([#2453](https://github.com/truecharts/apps/issues/2453))
 
 
 
 <a name="mysql-workbench-1.0.10"></a>
 
-### [mysql-workbench-1.0.10](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.9...mysql-workbench-1.0.10) (2022-04-03)
+### [mysql-workbook-1.0.10](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.9...mysql-workbench-1.0.10) (2022-04-03)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="mysql-workbench-1.0.9"></a>
 
-### [mysql-workbench-1.0.9](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.8...mysql-workbench-1.0.9) (2022-03-31)
+### [mysql-workbook-1.0.9](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.8...mysql-workbench-1.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="mysql-workbench-1.0.8"></a>
 
-### [mysql-workbench-1.0.8](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.7...mysql-workbench-1.0.8) (2022-03-30)
+### [mysql-workbook-1.0.8](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.7...mysql-workbench-1.0.8) (2022-03-30)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="mysql-workbench-1.0.7"></a>
 
-### [mysql-workbench-1.0.7](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.6...mysql-workbench-1.0.7) (2022-03-26)
+### [mysql-workboutic -1.0.7](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.6...mysql-workbench-1.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -352,7 +352,7 @@
 
 <a name="mysql-workbench-1.0.4"></a>
 
-### [mysql-workbench-1.0.4](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.3...mysql-workbench-1.0.4) (2022-03-19)
+### [mysql-workboutic -1.0.4](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.3...mysql-workbench-1.0.4) (2022-03-19)
 
 #### 修复
 
@@ -362,7 +362,7 @@
 
 <a name="mysql-workbench-1.0.1"></a>
 
-### [mysql-workbench-1.0.1](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.0...mysql-workbench-1.0.1) (2022-03-07)
+### [mysql-workboutic -1.0.1](https://github.com/truecharts/apps/compare/mysql-workbench-1.0.0...mysql-workbench-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -373,7 +373,7 @@
 
 <a name="mysql-workbench-1.0.0"></a>
 
-### [mysql-workbench-1.0.0](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.24...mysql-workbench-1.0.0) (2022-03-03)
+### [mysql-workbook-1.0.0](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.24...mysql-workbench-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -390,7 +390,7 @@
 
 <a name="mysql-workbench-0.0.24"></a>
 
-### [mysql-workbench-0.0.24](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.23...mysql-workbench-0.0.24) (2022-03-02)
+### [mysql-workbanch-0.0.24](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.23...mysql-workbench-0.0.24) (2022-03-02)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="mysql-workbench-0.0.23"></a>
 
-### [mysql-workbench-0.0.23](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.22...mysql-workbench-0.0.23) (2022-02-21)
+### [mysql-workbool -0.0.23](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.22...mysql-workbench-0.0.23) (2022-02-21)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="mysql-workbench-0.0.22"></a>
 
-### [mysql-workbench-0.0.22](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.21...mysql-workbench-0.0.22) (2022-02-15)
+### [mysql-workbool -0.0.22](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.21...mysql-workbench-0.0.22) (2022-02-15)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="mysql-workbench-0.0.21"></a>
 
-### [mysql-workbench-0.0.21](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.20...mysql-workbench-0.0.21) (2022-02-08)
+### [mysql-workbool -0.0.21](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.20...mysql-workbench-0.0.21) (2022-02-08)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="mysql-workbench-0.0.20"></a>
 
-### [mysql-workbench-0.0.20](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.19...mysql-workbench-0.0.20) (2022-02-06)
+### [mysql-workbool -0.0.20](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.19...mysql-workbench-0.0.20) (2022-02-06)
 
 #### 聊天
 
@@ -441,7 +441,7 @@
 
 <a name="mysql-workbench-0.0.19"></a>
 
-### [mysql-workbench-0.0.19](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.18...mysql-workbench-0.0.19) (2022-02-05)
+### [mysql-workbool -0.0.19](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.18...mysql-workbench-0.0.19) (2022-02-05)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="mysql-workbench-0.0.18"></a>
 
-### [mysql-workbench-0.0.18](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.17...mysql-workbench-0.0.18) (2022-02-02)
+### [mysql-workfacil-0.0.18](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.17...mysql-workbench-0.0.18) (2022-02-02)
 
 #### 聊天
 
@@ -461,7 +461,7 @@
 
 <a name="mysql-workbench-0.0.17"></a>
 
-### [mysql-workbench-0.0.17](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.16...mysql-workbench-0.0.17) (2022-01-25)
+### [mysql-workbanch-0.0.17](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.16...mysql-workbench-0.0.17) (2022-01-25)
 
 #### 聊天
 
@@ -471,7 +471,7 @@
 
 <a name="mysql-workbench-0.0.16"></a>
 
-### [mysql-workbench-0.0.16](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.15...mysql-workbench-0.0.16) (2022-01-22)
+### [mysql-workbool -0.0.16](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.15...mysql-workbench-0.0.16) (2022-01-22)
 
 #### 聊天
 
@@ -481,7 +481,7 @@
 
 <a name="mysql-workbench-0.0.15"></a>
 
-### [mysql-workbench-0.0.15](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.14...mysql-workbench-0.0.15) (2022-01-21)
+### [mysql-workbool -0.0.15](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.14...mysql-workbench-0.0.15) (2022-01-21)
 
 #### 聊天
 
@@ -505,7 +505,7 @@
 
 <a name="mysql-workbench-0.0.13"></a>
 
-### [mysql-workbench-0.0.13](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.12...mysql-workbench-0.0.13) (2022-01-18)
+### [mysql-workbool -0.0.13](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.12...mysql-workbench-0.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -515,7 +515,7 @@
 
 <a name="mysql-workbench-0.0.12"></a>
 
-### [mysql-workbench-0.0.12](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.11...mysql-workbench-0.0.12) (2022-01-13)
+### [mysql-workfacil-0.0.12](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.11...mysql-workbench-0.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="mysql-workbench-0.0.11"></a>
 
-### [mysql-workbench-0.0.11](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.10...mysql-workbench-0.0.11) (2022-01-12)
+### [mysql-workbanch-0.0.11](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.10...mysql-workbench-0.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="mysql-workbench-0.0.10"></a>
 
-### [mysql-workbench-0.0.10](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.9...mysql-workbench-0.0.10) (2022-01-11)
+### [mysql-workbanch-0.0.10](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.9...mysql-workbench-0.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -549,7 +549,7 @@
 
 <a name="mysql-workbench-0.0.9"></a>
 
-### [mysql-workbench-0.0.9](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.8...mysql-workbench-0.0.9) (2022-01-04)
+### [mysql-workfacil-0.0.9](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.8...mysql-workbench-0.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -559,7 +559,7 @@
 
 <a name="mysql-workbench-0.0.8"></a>
 
-### [mysql-workbench-0.0.8](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.7...mysql-workbench-0.0.8) (2021-12-28)
+### [mysql-workbanch-0.0.8](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.7...mysql-workbench-0.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -569,7 +569,7 @@
 
 <a name="mysql-workbench-0.0.7"></a>
 
-### [mysql-workbench-0.0.7](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.6...mysql-workbench-0.0.7) (2021-12-21)
+### [mysql-workfacil-0.0.7](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.6...mysql-workbench-0.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -600,7 +600,7 @@
 
 <a name="mysql-workbench-0.0.4"></a>
 
-### [mysql-workbench-0.0.4](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.3...mysql-workbench-0.0.4) (2021-12-18)
+### [mysql-workbenom-0.0.4](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.3...mysql-workbench-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -611,7 +611,7 @@
 
 <a name="mysql-workbench-0.0.3"></a>
 
-### [mysql-workbench-0.0.3](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.2...mysql-workbench-0.0.3) (2021-12-14)
+### [mysql-workfacil-0.0.3](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.2...mysql-workbench-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -621,7 +621,7 @@
 
 <a name="mysql-workbench-0.0.2"></a>
 
-### [mysql-workbench-0.0.2](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.1...mysql-workbench-0.0.2) (2021-12-13)
+### [mysql-workbenom-0.0.2](https://github.com/truecharts/apps/compare/mysql-workbench-0.0.1...mysql-workbench-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -631,4 +631,4 @@
 
 <a name="mysql-workbench-0.0.1"></a>
 
-### mysql-workbench-0.0.1 (2021-12-12)
+### mysql-workbound-0.0.1 (2021-12)
