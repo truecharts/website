@@ -1,59 +1,59 @@
-# How-To
+# 如何到
 
-So you've followed some of our TrueNAS guides, setup your domain name, certificates and use Cloudflare for your DNS management, however you don't have a static IP, then this guide is for you. This quick guide will help you go through the steps to use Cloudflareddns to update your dynamic IP along with your entire deployment so that even if you change IP your domain will point to the right address.
+所以您已经关注了我们的一些TrueNAS指南，设置您的域名。 证书和使用 Cloudflare 来管理你的DNS 管理，不管你没有静态IP，本指南是给你的。 这个快速指南将帮助您通过步骤使用 Cloudflareddns 更新动态IP以及您的整个部署，以便即使您更改IP，您的域也会指向正确的地址。
 
-## Requirements
+## B. 所需经费
 
-Domain name (can be purchased through Cloudflare or etc)
+域名(可以通过 Cloudflare 等购买)
 
-Cloudflare DNS management
+Cloudflare DNS管理
 
-- Sign up for Cloudflare free
-- Point your nameservers to the ones Cloudflare assigns to you ![image](https://user-images.githubusercontent.com/89483932/179332161-e903e46e-ed8c-4b58-81fc-6fcadf1a9851.png)
+- 免费注册 Cloudflare版
+- 将你的名字命名器指派给你的 Cloudflare ![图片](https://user-images.githubusercontent.com/89483932/179332161-e903e46e-ed8c-4b58-81fc-6fcadf1a9851.png)
 
-Cloudflareddns chart
+云端图表
 
-## Prerequisites
+## 必备条件
 
-This guide assumes you've followed our main [Quick-Start Guide](https://truecharts.org/docs/manual/SCALE%20Apps/Quick-Start%20Guides/adding-letsencrypt) with your domain on TrueNAS and done the configuration for your DNS on Cloudflare (see https://www.youtube.com/watch?v=hJVghecs3rE on our YouTube channel)
+本指南假定您已经在TrueNAS上跟随了我们主要的 [快速启动指南](https://truecharts.org/docs/manual/SCALE%20Apps/Quick-Start%20Guides/adding-letsencrypt) 并完成了云端的 DNS 配置(见https://www)。 outube.com/watch?v=hJVghecs3rE 在我们的 YouTube 频道上
 
-The recommended way is to setup CNAMEs for your subdomains (charts) and keep your A record pointed to your base domain, such as below
+推荐的方式是为您的子域设置 CNAME (图表) 并保留您的记录指向您的基本域名，如下面的
 
-![image](https://user-images.githubusercontent.com/89483932/179334653-316e462f-7bf7-4cda-a9dc-dd8842e76021.png)
+![图片](https://user-images.githubusercontent.com/89483932/179334653-316e462f-7bf7-4cda-a9dc-dd8842e76021.png)
 
-Take note of the `Zone ID` and `Account ID`, that's what we'll use inside the Cloudflareddns chart.
+注意 `区域 ID` and `帐户 ID`, 这就是我们将在云端图中使用的东西。
 
-![Overview](https://user-images.githubusercontent.com/89483932/179336819-64a32521-c64b-4ae6-8d5d-225b7342b786.png)
+![概览](https://user-images.githubusercontent.com/89483932/179336819-64a32521-c64b-4ae6-8d5d-225b7342b786.png)
 
-## Cloudflareddns chart setup
+## 云层图表设置
 
-Step 1-2: Name chart and leave defaults for Step 2
+第 1 -2步：第二步的名称图表和保留默认值
 
-![Step 1](https://user-images.githubusercontent.com/89483932/179336761-2ce2da3a-cd75-43ba-befe-4c3775f04027.png)
+![步骤1](https://user-images.githubusercontent.com/89483932/179336761-2ce2da3a-cd75-43ba-befe-4c3775f04027.png)
 
-Step 3:
+步骤 3：
 
-![Step 3 Part 1](https://user-images.githubusercontent.com/89483932/179336779-e2aa5273-8527-40f1-bc3c-3768931ea289.png)
+![步骤3 第一部分](https://user-images.githubusercontent.com/89483932/179336779-e2aa5273-8527-40f1-bc3c-3768931ea289.png)
 
-Use ZoneID from Cloudflare Domain Overview page (see above) for the `CF_APITOKEN_ZONE` field
+在 `CF_APITOKEN_ZONE` 字段中使用 Cloudflare 域名中的 ZoneID (见上文)
 
-Use Account ID from Cloudflare Domain Overview page (see above) for the `CF_APITOKEN` field
+在 `CF_APITOKEN` 字段中使用 Cloudflare 域名中的帐户 ID (见上文)
 
-![Step 3 Part 2](https://user-images.githubusercontent.com/89483932/179336787-338b1939-546c-42fa-86a2-afe89da91e8d.png)
+![步骤3 第二部分](https://user-images.githubusercontent.com/89483932/179336787-338b1939-546c-42fa-86a2-afe89da91e8d.png)
 
-You can leave everything but the `CF_RECORDTYPES` to defaults if you're only changing your A record, (refer to the upstream documentation for more options here(https://hotio.dev/containers/cloudflareddns/))
+除了 `CF_RECORDTYPES` 之外，如果您只要更改您的记录，您可以保留所有的默认值。 (在这里查阅上游文档以了解更多选项(https://hotio)。 联合国工业发展组织
 
-Change `CF_RECORDTYPES` to A if you're only changing your main domain
+如果您只是更改您的主域名，请将 `CF_RECORDTYPES` 改为A
 
-Steps 4-8: Adjust as necessary but defaults are fine
+步骤4-8：根据需要调整，但默认是很好
 
-## Support
+## 支持
 
-- If you need more details or have a more custom setup the documentation on the upstream chart (https://hotio.dev/containers/cloudflareddns/) is very complete so check the descriptions of the options there.
-- You can also reach us using Discord for real-time feedback and support
-- Check our [Discord](https://discord.gg/tVsPTHWTtr)
-- If you found a bug in our chart, open a Github [issue](https://github.com/truecharts/apps/issues/new/choose)
+- 如果您需要更多详细信息或有更多自定义设置上游图表上的文档 (https://hotio)。 ev/containers/cloudflaredns/)非常完整，所以请检查该选项的描述。
+- 您也可以使用Discord来获得实时反馈和支持
+- 查看我们的 [Discord](https://discord.gg/tVsPTHWTtr)
+- 如果你在我们的图表中发现了一个错误，请打开一个 Github [问题](https://github.com/truecharts/apps/issues/new/choose)
 
 ---
 
-All Rights Reserved - The TrueCharts Project
+版权所有 - TrueCharts 项目
