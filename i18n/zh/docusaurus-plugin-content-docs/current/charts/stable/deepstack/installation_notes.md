@@ -1,5 +1,5 @@
-# Installation Notes
+# 安装笔记
 
-## Custom Models
+## 自定义模型
 
-If you have custom models and you wan to use them, you have to add customStorage to this app. The default path to map is `/modelstore/detection`. In case you like to change it, you also have to change `Custom Models Path` field to the path you mapped as customStorage.
+如果您有自定义模型，您必须将自定义存储添加到此应用中。 地图的默认路径是 `/modelstore/survey`。 如果你想要更改它，你还必须将 `个自定义模型路径` 字段改变到你映射为自定义存储的路径。
