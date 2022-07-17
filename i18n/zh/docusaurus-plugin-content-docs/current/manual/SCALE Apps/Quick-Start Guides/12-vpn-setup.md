@@ -1,6 +1,6 @@
 # 12 - VPN Addon Setup
 
-## Prerequisites
+## 必备条件
 
 1. Ensure internet for the container is working PRIOR to adding the VPN connection
 2. Obtain either a Wireguard Configuration or a OpenVPN configuration file
