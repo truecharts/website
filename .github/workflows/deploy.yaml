@@ -12,6 +12,9 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        language: ['en']
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -25,7 +28,7 @@ jobs:
           NODE_OPTIONS: "--max-old-space-size=7168"
         
       - name: Build website
-        run: yarn build
+        run: yarn build --locale ${{ matrix.language }}
         env: 
           NODE_OPTIONS: "--max-old-space-size=7168"
 
