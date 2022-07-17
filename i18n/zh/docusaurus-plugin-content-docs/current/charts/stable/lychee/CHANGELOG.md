@@ -475,7 +475,7 @@
 
 #### 聊天
 
-* update helm general non-major helm releases ([#1932](https://github.com/truecharts/apps/issues/1932))
+* 更新头盔的一般非主头盔版本([#1932](https://github.com/truecharts/apps/issues/1932))
 
 
 
@@ -485,7 +485,7 @@
 
 #### Feat
 
-* Add db/redis, fix storage path, add app_key secret, add gui config options ([#1928](https://github.com/truecharts/apps/issues/1928))
+* 添加 db/redis，修复存储路径，添加app_key 密钥，添加界面配置选项([#1928](https://github.com/truecharts/apps/issues/1928))
 
 
 
@@ -820,7 +820,7 @@
 
 #### 聊天
 
-* update non-major ([#1390](https://github.com/truecharts/apps/issues/1390))
+* 更新非主要([#1390](https://github.com/truecharts/apps/issues/1390))
 
 
 
@@ -953,7 +953,7 @@
 
 <a name="lychee-9.0.1"></a>
 
-### [lychee-9.0.1](https://github.com/truecharts/apps/compare/lychee-9.0.0...lychee-9.0.1) (2021-10-26)
+### [歌词9.0.1](https://github.com/truecharts/apps/compare/lychee-9.0.0...lychee-9.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -978,7 +978,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
