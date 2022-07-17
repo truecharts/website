@@ -1,12 +1,12 @@
 # nntp2nntp
 
-Nntp2nntp proxy allow you to use your NNTP Account from multiple systems, each with own user name and password.
+Nntp2nntp 代理允许您从多个系统使用您的NNTP帐户，每个系统都有自己的用户名和密码。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://hub.docker.com/r/linuxserver/nntp2nntp>
+* [https://hub.docker.com/r/linuxserver/nntp2ntp](https://hub.docker.com/r/linuxserver/nntp2nntp)
 
 ## B. 所需经费
 
