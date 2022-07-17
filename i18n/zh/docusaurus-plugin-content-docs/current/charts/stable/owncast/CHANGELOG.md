@@ -482,7 +482,7 @@
 
 <a name="owncast-4.0.33"></a>
 
-### [owncast-4.0.33](https://github.com/truecharts/apps/compare/owncast-4.0.32...owncast-4.0.33) (2022-01-21)
+### [owncast 4.0.33](https://github.com/truecharts/apps/compare/owncast-4.0.32...owncast-4.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -506,7 +506,7 @@
 
 <a name="owncast-4.0.31"></a>
 
-### [owncast-4.0.31](https://github.com/truecharts/apps/compare/owncast-4.0.30...owncast-4.0.31) (2022-01-13)
+### [owncast 4.0.31](https://github.com/truecharts/apps/compare/owncast-4.0.30...owncast-4.0.31) (2022-01-13)
 
 #### 聊天
 
@@ -593,7 +593,7 @@
 
 <a name="owncast-4.0.23"></a>
 
-### [owncast-4.0.23](https://github.com/truecharts/apps/compare/owncast-4.0.22...owncast-4.0.23) (2021-12-18)
+### [owncast-4.0.23](https://github.com/truecharts/apps/compare/owncast-4.0.22...owncast-4.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -667,7 +667,7 @@
 
 #### Feat
 
-* Add admin portal button ([#1450](https://github.com/truecharts/apps/issues/1450))
+* 添加管理门户按钮([#1450](https://github.com/truecharts/apps/issues/1450))
 
 #### 修复
 
@@ -706,13 +706,13 @@
 
 #### Feat
 
-* Add admin portal button ([#1450](https://github.com/truecharts/apps/issues/1450))
+* 添加管理门户按钮([#1450](https://github.com/truecharts/apps/issues/1450))
 
 
 
 <a name="owncast-4.0.13"></a>
 
-### [owncast-4.0.13](https://github.com/truecharts/apps/compare/owncast-4.0.12...owncast-4.0.13) (2021-11-30)
+### [owncast 4.0.13](https://github.com/truecharts/apps/compare/owncast-4.0.12...owncast-4.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -726,7 +726,7 @@
 
 <a name="owncast-4.0.12"></a>
 
-### [owncast-4.0.12](https://github.com/truecharts/apps/compare/owncast-4.0.11...owncast-4.0.12) (2021-11-23)
+### [owncast 4.0.12](https://github.com/truecharts/apps/compare/owncast-4.0.11...owncast-4.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -760,7 +760,7 @@
 
 <a name="owncast-4.0.9"></a>
 
-### [owncast-4.0.9](https://github.com/truecharts/apps/compare/owncast-4.0.8...owncast-4.0.9) (2021-11-15)
+### [owncast 4.0.9](https://github.com/truecharts/apps/compare/owncast-4.0.8...owncast-4.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -771,7 +771,7 @@
 
 <a name="owncast-4.0.8"></a>
 
-### [owncast-4.0.8](https://github.com/truecharts/apps/compare/owncast-4.0.7...owncast-4.0.8) (2021-11-14)
+### [owncast 4.0.8](https://github.com/truecharts/apps/compare/owncast-4.0.7...owncast-4.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -789,7 +789,7 @@
 
 <a name="owncast-4.0.7"></a>
 
-### [owncast-4.0.7](https://github.com/truecharts/apps/compare/owncast-4.0.6...owncast-4.0.7) (2021-11-09)
+### [owncast 4.0.7](https://github.com/truecharts/apps/compare/owncast-4.0.6...owncast-4.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -799,7 +799,7 @@
 
 <a name="owncast-4.0.6"></a>
 
-### [owncast-4.0.6](https://github.com/truecharts/apps/compare/owncast-4.0.5...owncast-4.0.6) (2021-11-07)
+### [owncast 4.0.6](https://github.com/truecharts/apps/compare/owncast-4.0.5...owncast-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -809,7 +809,7 @@
 
 <a name="owncast-4.0.5"></a>
 
-### [owncast-4.0.5](https://github.com/truecharts/apps/compare/owncast-4.0.4...owncast-4.0.5) (2021-11-07)
+### [owncast 4.0.5](https://github.com/truecharts/apps/compare/owncast-4.0.4...owncast-4.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -831,7 +831,7 @@
 
 <a name="owncast-4.0.4"></a>
 
-### [owncast-4.0.4](https://github.com/truecharts/apps/compare/owncast-4.0.3...owncast-4.0.4) (2021-11-02)
+### [owncast 4.0.4](https://github.com/truecharts/apps/compare/owncast-4.0.3...owncast-4.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -841,7 +841,7 @@
 
 <a name="owncast-4.0.3"></a>
 
-### [owncast-4.0.3](https://github.com/truecharts/apps/compare/owncast-4.0.2...owncast-4.0.3) (2021-11-01)
+### [owncast 4.0.3](https://github.com/truecharts/apps/compare/owncast-4.0.2...owncast-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -886,7 +886,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1061,7 +1061,7 @@
 
 <a name="owncast-2.0.2"></a>
 
-### [owncast-2.0.2](https://github.com/truecharts/apps/compare/owncast-2.0.1...owncast-2.0.2) (2021-09-21)
+### [owncast 2.0.2](https://github.com/truecharts/apps/compare/owncast-2.0.1...owncast-2.0.2) (2021-09-21)
 
 #### 聊天
 
