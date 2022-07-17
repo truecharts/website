@@ -122,7 +122,7 @@
 
 <a name="openspeedtest-1.0.1"></a>
 
-### [openspeedtest-1.0.1](https://github.com/truecharts/apps/compare/openspeedtest-1.0.0...openspeedtest-1.0.1) (2022-06-26)
+### [openspeedest-1.0.1](https://github.com/truecharts/apps/compare/openspeedtest-1.0.0...openspeedtest-1.0.1) (2022-06-26)
 
 #### 聊天
 
@@ -132,11 +132,11 @@
 
 <a name="openspeedtest-1.0.0"></a>
 
-### [openspeedtest-1.0.0](https://github.com/truecharts/apps/compare/openspeedtest-0.0.2...openspeedtest-1.0.0) (2022-06-26)
+### [openspeedest-1.0.0](https://github.com/truecharts/apps/compare/openspeedtest-0.0.2...openspeedtest-1.0.0) (2022-06-26)
 
 #### Feat
 
-* move to stable ([#2994](https://github.com/truecharts/apps/issues/2994))
+* 移动到稳定([#2994](https://github.com/truecharts/apps/issues/2994))
 
 
 
@@ -152,4 +152,4 @@
 
 #### Feat
 
-* Add OpenSpeedTest ([#2978](https://github.com/truecharts/apps/issues/2978))
+* 添加 OpenSpeedTest ([#2978](https://github.com/truecharts/apps/issues/2978))
