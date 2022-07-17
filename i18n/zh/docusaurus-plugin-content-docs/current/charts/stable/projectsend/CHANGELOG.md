@@ -9,7 +9,7 @@
 
 
 
-## [projectsend-3.0.18](https://github.com/truecharts/apps/compare/projectsend-3.0.16...projectsend-3.0.18) (2022-07-14)
+## [项目 3.0.18](https://github.com/truecharts/apps/compare/projectsend-3.0.16...projectsend-3.0.18) (2022-07-14)
 
 ### 修复
 
@@ -46,7 +46,7 @@
 
 <a name="projectsend-3.0.12"></a>
 
-### [projectsend-3.0.12](https://github.com/truecharts/apps/compare/projectsend-3.0.11...projectsend-3.0.12) (2022-07-11)
+### [项目 3.0.12](https://github.com/truecharts/apps/compare/projectsend-3.0.11...projectsend-3.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="projectsend-3.0.11"></a>
 
-### [projectsend-3.0.11](https://github.com/truecharts/apps/compare/projectsend-3.0.10...projectsend-3.0.11) (2022-07-09)
+### [项目 3.0.11](https://github.com/truecharts/apps/compare/projectsend-3.0.10...projectsend-3.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -66,11 +66,11 @@
 
 <a name="projectsend-3.0.10"></a>
 
-### [projectsend-3.0.10](https://github.com/truecharts/apps/compare/projectsend-3.0.9...projectsend-3.0.10) (2022-07-09)
+### [项目 3.0.10](https://github.com/truecharts/apps/compare/projectsend-3.0.9...projectsend-3.0.10) (2022-07-09)
 
 #### 聊天
 
-* some UI fixes ([#3103](https://github.com/truecharts/apps/issues/3103))
+* 一些界面修复([#3103](https://github.com/truecharts/apps/issues/3103))
 
 
 
@@ -96,7 +96,7 @@
 
 <a name="projectsend-3.0.7"></a>
 
-### [projectsend-3.0.7](https://github.com/truecharts/apps/compare/projectsend-3.0.6...projectsend-3.0.7) (2022-06-29)
+### [项目 3.0.7](https://github.com/truecharts/apps/compare/projectsend-3.0.6...projectsend-3.0.7) (2022-06-29)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="projectsend-3.0.6"></a>
 
-### [projectsend-3.0.6](https://github.com/truecharts/apps/compare/projectsend-3.0.5...projectsend-3.0.6) (2022-06-25)
+### [项目 3.0.6](https://github.com/truecharts/apps/compare/projectsend-3.0.5...projectsend-3.0.6) (2022-06-25)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="projectsend-3.0.5"></a>
 
-### [projectsend-3.0.5](https://github.com/truecharts/apps/compare/projectsend-3.0.4...projectsend-3.0.5) (2022-06-22)
+### [项目 3.0.5](https://github.com/truecharts/apps/compare/projectsend-3.0.4...projectsend-3.0.5) (2022-06-22)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="projectsend-3.0.4"></a>
 
-### [projectsend-3.0.4](https://github.com/truecharts/apps/compare/projectsend-3.0.3...projectsend-3.0.4) (2022-06-21)
+### [项目 3.0.4](https://github.com/truecharts/apps/compare/projectsend-3.0.3...projectsend-3.0.4) (2022-06-21)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="projectsend-3.0.3"></a>
 
-### [projectsend-3.0.3](https://github.com/truecharts/apps/compare/projectsend-3.0.2...projectsend-3.0.3) (2022-06-14)
+### [项目 3.0.3](https://github.com/truecharts/apps/compare/projectsend-3.0.2...projectsend-3.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="projectsend-3.0.2"></a>
 
-### [projectsend-3.0.2](https://github.com/truecharts/apps/compare/projectsend-3.0.1...projectsend-3.0.2) (2022-06-14)
+### [项目 3.0.2](https://github.com/truecharts/apps/compare/projectsend-3.0.1...projectsend-3.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -156,7 +156,7 @@
 
 <a name="projectsend-3.0.1"></a>
 
-### [projectsend-3.0.1](https://github.com/truecharts/apps/compare/projectsend-3.0.0...projectsend-3.0.1) (2022-06-11)
+### [项目 3.0.1](https://github.com/truecharts/apps/compare/projectsend-3.0.0...projectsend-3.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -180,7 +180,7 @@
 
 <a name="projectsend-2.0.1"></a>
 
-### [projectsend-2.0.1](https://github.com/truecharts/apps/compare/projectsend-1.0.23...projectsend-2.0.1) (2022-06-07)
+### [项目 2.0.1](https://github.com/truecharts/apps/compare/projectsend-1.0.23...projectsend-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="projectsend-2.0.0"></a>
 
-### [projectsend-2.0.0](https://github.com/truecharts/apps/compare/projectsend-1.0.23...projectsend-2.0.0) (2022-06-07)
+### [项目 2.0.0](https://github.com/truecharts/apps/compare/projectsend-1.0.23...projectsend-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -214,7 +214,7 @@
 
 <a name="projectsend-1.0.23"></a>
 
-### [projectsend-1.0.23](https://github.com/truecharts/apps/compare/projectsend-1.0.22...projectsend-1.0.23) (2022-05-31)
+### [项目 1.0.23](https://github.com/truecharts/apps/compare/projectsend-1.0.22...projectsend-1.0.23) (2022-05-31)
 
 #### 聊天
 
@@ -224,7 +224,7 @@
 
 <a name="projectsend-1.0.22"></a>
 
-### [projectsend-1.0.22](https://github.com/truecharts/apps/compare/projectsend-1.0.21...projectsend-1.0.22) (2022-05-26)
+### [项目 1.0.22](https://github.com/truecharts/apps/compare/projectsend-1.0.21...projectsend-1.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -235,7 +235,7 @@
 
 <a name="projectsend-1.0.22"></a>
 
-### [projectsend-1.0.22](https://github.com/truecharts/apps/compare/projectsend-1.0.21...projectsend-1.0.22) (2022-05-26)
+### [项目 1.0.22](https://github.com/truecharts/apps/compare/projectsend-1.0.21...projectsend-1.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -245,7 +245,7 @@
 
 <a name="projectsend-1.0.21"></a>
 
-### [projectsend-1.0.21](https://github.com/truecharts/apps/compare/projectsend-1.0.20...projectsend-1.0.21) (2022-05-24)
+### [项目 1.0.21](https://github.com/truecharts/apps/compare/projectsend-1.0.20...projectsend-1.0.21) (2022-05-24)
 
 #### 聊天
 
@@ -255,7 +255,7 @@
 
 <a name="projectsend-1.0.20"></a>
 
-### [projectsend-1.0.20](https://github.com/truecharts/apps/compare/projectsend-1.0.19...projectsend-1.0.20) (2022-05-17)
+### [项目 1.0.20](https://github.com/truecharts/apps/compare/projectsend-1.0.19...projectsend-1.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="projectsend-1.0.20"></a>
 
-### [projectsend-1.0.20](https://github.com/truecharts/apps/compare/projectsend-1.0.19...projectsend-1.0.20) (2022-05-17)
+### [项目 1.0.20](https://github.com/truecharts/apps/compare/projectsend-1.0.19...projectsend-1.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="projectsend-1.0.19"></a>
 
-### [projectsend-1.0.19](https://github.com/truecharts/apps/compare/projectsend-1.0.18...projectsend-1.0.19) (2022-05-17)
+### [项目 1.0.19](https://github.com/truecharts/apps/compare/projectsend-1.0.18...projectsend-1.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -286,7 +286,7 @@
 
 <a name="projectsend-1.0.18"></a>
 
-### [projectsend-1.0.18](https://github.com/truecharts/apps/compare/projectsend-1.0.17...projectsend-1.0.18) (2022-05-10)
+### [项目 1.0.18](https://github.com/truecharts/apps/compare/projectsend-1.0.17...projectsend-1.0.18) (2022-05-10)
 
 #### 聊天
 
@@ -296,7 +296,7 @@
 
 <a name="projectsend-1.0.17"></a>
 
-### [projectsend-1.0.17](https://github.com/truecharts/apps/compare/projectsend-1.0.16...projectsend-1.0.17) (2022-05-05)
+### [项目 1.0.17](https://github.com/truecharts/apps/compare/projectsend-1.0.16...projectsend-1.0.17) (2022-05-05)
 
 #### 聊天
 
@@ -316,7 +316,7 @@
 
 <a name="projectsend-1.0.15"></a>
 
-### [projectsend-1.0.15](https://github.com/truecharts/apps/compare/projectsend-1.0.14...projectsend-1.0.15) (2022-04-26)
+### [项目 1.0.15](https://github.com/truecharts/apps/compare/projectsend-1.0.14...projectsend-1.0.15) (2022-04-26)
 
 #### 聊天
 
@@ -326,7 +326,7 @@
 
 <a name="projectsend-1.0.14"></a>
 
-### [projectsend-1.0.14](https://github.com/truecharts/apps/compare/projectsend-1.0.13...projectsend-1.0.14) (2022-04-20)
+### [项目 1.0.14](https://github.com/truecharts/apps/compare/projectsend-1.0.13...projectsend-1.0.14) (2022-04-20)
 
 #### 聊天
 
@@ -347,7 +347,7 @@
 
 <a name="projectsend-1.0.12"></a>
 
-### [projectsend-1.0.12](https://github.com/truecharts/apps/compare/projectsend-1.0.11...projectsend-1.0.12) (2022-04-03)
+### [项目 1.0.12](https://github.com/truecharts/apps/compare/projectsend-1.0.11...projectsend-1.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -357,7 +357,7 @@
 
 <a name="projectsend-1.0.11"></a>
 
-### [projectsend-1.0.11](https://github.com/truecharts/apps/compare/projectsend-1.0.10...projectsend-1.0.11) (2022-03-31)
+### [项目 1.0.11](https://github.com/truecharts/apps/compare/projectsend-1.0.10...projectsend-1.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -367,7 +367,7 @@
 
 <a name="projectsend-1.0.10"></a>
 
-### [projectsend-1.0.10](https://github.com/truecharts/apps/compare/projectsend-1.0.9...projectsend-1.0.10) (2022-03-31)
+### [项目 1.0.10](https://github.com/truecharts/apps/compare/projectsend-1.0.9...projectsend-1.0.10) (2022-03-31)
 
 #### 聊天
 
@@ -377,7 +377,7 @@
 
 <a name="projectsend-1.0.9"></a>
 
-### [projectsend-1.0.9](https://github.com/truecharts/apps/compare/projectsend-1.0.8...projectsend-1.0.9) (2022-03-30)
+### [项目 1.0.9](https://github.com/truecharts/apps/compare/projectsend-1.0.8...projectsend-1.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -408,7 +408,7 @@
 
 <a name="projectsend-1.0.5"></a>
 
-### [projectsend-1.0.5](https://github.com/truecharts/apps/compare/projectsend-1.0.4...projectsend-1.0.5) (2022-03-23)
+### [项目 1.0.5](https://github.com/truecharts/apps/compare/projectsend-1.0.4...projectsend-1.0.5) (2022-03-23)
 
 #### 修复
 
@@ -429,7 +429,7 @@
 
 <a name="projectsend-1.0.0"></a>
 
-### [projectsend-1.0.0](https://github.com/truecharts/apps/compare/projectsend-0.0.23...projectsend-1.0.0) (2022-03-03)
+### [项目 1.0.0](https://github.com/truecharts/apps/compare/projectsend-0.0.23...projectsend-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -445,7 +445,7 @@
 
 <a name="projectsend-0.0.23"></a>
 
-### [projectsend-0.0.23](https://github.com/truecharts/apps/compare/projectsend-0.0.22...projectsend-0.0.23) (2022-03-02)
+### [项目 0.0.23](https://github.com/truecharts/apps/compare/projectsend-0.0.22...projectsend-0.0.23) (2022-03-02)
 
 #### 聊天
 
@@ -456,7 +456,7 @@
 
 <a name="projectsend-0.0.22"></a>
 
-### [projectsend-0.0.22](https://github.com/truecharts/apps/compare/projectsend-0.0.21...projectsend-0.0.22) (2022-02-21)
+### [项目 0.0.22](https://github.com/truecharts/apps/compare/projectsend-0.0.21...projectsend-0.0.22) (2022-02-21)
 
 #### 聊天
 
@@ -466,7 +466,7 @@
 
 <a name="projectsend-0.0.21"></a>
 
-### [projectsend-0.0.21](https://github.com/truecharts/apps/compare/projectsend-0.0.20...projectsend-0.0.21) (2022-02-15)
+### [项目 0.0.21](https://github.com/truecharts/apps/compare/projectsend-0.0.20...projectsend-0.0.21) (2022-02-15)
 
 #### 聊天
 
@@ -476,7 +476,7 @@
 
 <a name="projectsend-0.0.20"></a>
 
-### [projectsend-0.0.20](https://github.com/truecharts/apps/compare/projectsend-0.0.19...projectsend-0.0.20) (2022-02-08)
+### [项目 0.0.20](https://github.com/truecharts/apps/compare/projectsend-0.0.19...projectsend-0.0.20) (2022-02-08)
 
 #### 聊天
 
@@ -496,7 +496,7 @@
 
 <a name="projectsend-0.0.18"></a>
 
-### [projectsend-0.0.18](https://github.com/truecharts/apps/compare/projectsend-0.0.17...projectsend-0.0.18) (2022-02-05)
+### [项目 0.0.18](https://github.com/truecharts/apps/compare/projectsend-0.0.17...projectsend-0.0.18) (2022-02-05)
 
 #### 聊天
 
@@ -506,7 +506,7 @@
 
 <a name="projectsend-0.0.17"></a>
 
-### [projectsend-0.0.17](https://github.com/truecharts/apps/compare/projectsend-0.0.16...projectsend-0.0.17) (2022-02-02)
+### [项目 0.0.17](https://github.com/truecharts/apps/compare/projectsend-0.0.16...projectsend-0.0.17) (2022-02-02)
 
 #### 聊天
 
@@ -516,7 +516,7 @@
 
 <a name="projectsend-0.0.16"></a>
 
-### [projectsend-0.0.16](https://github.com/truecharts/apps/compare/projectsend-0.0.15...projectsend-0.0.16) (2022-01-25)
+### [项目 0.0.16](https://github.com/truecharts/apps/compare/projectsend-0.0.15...projectsend-0.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -526,7 +526,7 @@
 
 <a name="projectsend-0.0.15"></a>
 
-### [projectsend-0.0.15](https://github.com/truecharts/apps/compare/projectsend-0.0.14...projectsend-0.0.15) (2022-01-22)
+### [项目 0.0.15](https://github.com/truecharts/apps/compare/projectsend-0.0.14...projectsend-0.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="projectsend-0.0.12"></a>
 
-### [projectsend-0.0.12](https://github.com/truecharts/apps/compare/projectsend-0.0.11...projectsend-0.0.12) (2022-01-13)
+### [项目 0.0.12](https://github.com/truecharts/apps/compare/projectsend-0.0.11...projectsend-0.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -574,7 +574,7 @@
 
 <a name="projectsend-0.0.11"></a>
 
-### [projectsend-0.0.11](https://github.com/truecharts/apps/compare/projectsend-0.0.10...projectsend-0.0.11) (2022-01-12)
+### [项目 0.0.11](https://github.com/truecharts/apps/compare/projectsend-0.0.10...projectsend-0.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -584,7 +584,7 @@
 
 <a name="projectsend-0.0.10"></a>
 
-### [projectsend-0.0.10](https://github.com/truecharts/apps/compare/projectsend-0.0.9...projectsend-0.0.10) (2022-01-11)
+### [项目 0.0.10](https://github.com/truecharts/apps/compare/projectsend-0.0.9...projectsend-0.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -594,7 +594,7 @@
 
 <a name="projectsend-0.0.9"></a>
 
-### [projectsend-0.0.9](https://github.com/truecharts/apps/compare/projectsend-0.0.8...projectsend-0.0.9) (2022-01-04)
+### [项目 0.0.9](https://github.com/truecharts/apps/compare/projectsend-0.0.8...projectsend-0.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -614,7 +614,7 @@
 
 <a name="projectsend-0.0.7"></a>
 
-### [projectsend-0.0.7](https://github.com/truecharts/apps/compare/projectsend-0.0.6...projectsend-0.0.7) (2021-12-21)
+### [项目 0.0.7](https://github.com/truecharts/apps/compare/projectsend-0.0.6...projectsend-0.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -634,7 +634,7 @@
 
 <a name="projectsend-0.0.5"></a>
 
-### [projectsend-0.0.5](https://github.com/truecharts/apps/compare/projectsend-0.0.4...projectsend-0.0.5) (2021-12-19)
+### [项目 0.0.5](https://github.com/truecharts/apps/compare/projectsend-0.0.4...projectsend-0.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -645,7 +645,7 @@
 
 <a name="projectsend-0.0.4"></a>
 
-### [projectsend-0.0.4](https://github.com/truecharts/apps/compare/projectsend-0.0.3...projectsend-0.0.4) (2021-12-18)
+### [projectsend-0.0.4](https://github.com/truecharts/apps/compare/projectsend-0.0.3...projectsend-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -656,7 +656,7 @@
 
 <a name="projectsend-0.0.3"></a>
 
-### [projectsend-0.0.3](https://github.com/truecharts/apps/compare/projectsend-0.0.2...projectsend-0.0.3) (2021-12-14)
+### [项目 0.0.3](https://github.com/truecharts/apps/compare/projectsend-0.0.2...projectsend-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -666,7 +666,7 @@
 
 <a name="projectsend-0.0.2"></a>
 
-### [projectsend-0.0.2](https://github.com/truecharts/apps/compare/projectsend-0.0.1...projectsend-0.0.2) (2021-12-13)
+### [项目 0.0.2](https://github.com/truecharts/apps/compare/projectsend-0.0.1...projectsend-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -676,4 +676,4 @@
 
 <a name="projectsend-0.0.1"></a>
 
-### projectsend-0.0.1 (2021-12-12)
+### 项目终了0.0.1（2021-12）
