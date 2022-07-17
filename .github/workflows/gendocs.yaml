@@ -179,6 +179,7 @@ jobs:
               }
            export -f generate_index_files
           generate_index_files
+          ls -l /__w/website/website/website/docs/charts/
           
       - name: Create commit
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
