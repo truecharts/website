@@ -6,9 +6,9 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://gotify.net/>
-* <https://github.com/gotify/server>
-* <https://hub.docker.com/r/gotify/server>
+* [https://trainfy.net/](https://gotify.net/)
+* [https://github.com/intrufy/server](https://github.com/gotify/server)
+* [https://hub.docker.com/r/intracefy/server](https://hub.docker.com/r/gotify/server)
 
 ## B. 所需经费
 
