@@ -529,7 +529,7 @@
 
 #### Fox
 
-* update probe path ([#2293](https://github.com/truecharts/apps/issues/2293))
+* 更新探测路径 ([#2293](https://github.com/truecharts/apps/issues/2293))
 
 
 
@@ -591,7 +591,7 @@
 
 #### 修复
 
-* fix blank page issue (breaking change) ([#2131](https://github.com/truecharts/apps/issues/2131))
+* 修复空白页面问题 (更改) ([#2131](https://github.com/truecharts/apps/issues/2131))
 
 
 
@@ -694,11 +694,11 @@
 
 <a name="friendica-0.0.39"></a>
 
-### [friendica-0.0.39](https://github.com/truecharts/apps/compare/friendica-0.0.38...friendica-0.0.39) (2022-02-14)
+### [友好_0.0.39](https://github.com/truecharts/apps/compare/friendica-0.0.38...friendica-0.0.39) (2022-02-14)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/friendica to v2022.02 ([#1896](https://github.com/truecharts/apps/issues/1896))
+* 更新容器图像 tccr.io/truechars/friendica 到 v2022.02 ([#1896](https://github.com/truecharts/apps/issues/1896))
 
 
 
@@ -838,7 +838,7 @@
 
 <a name="friendica-0.0.26"></a>
 
-### [friendica-0.0.26](https://github.com/truecharts/apps/compare/friendica-0.0.25...friendica-0.0.26) (2022-01-12)
+### [友好性-0.0.26](https://github.com/truecharts/apps/compare/friendica-0.0.25...friendica-0.0.26) (2022-01-12)
 
 #### 聊天
 
@@ -939,7 +939,7 @@
 
 <a name="friendica-0.0.15"></a>
 
-### [friendica-0.0.15](https://github.com/truecharts/apps/compare/friendica-0.0.14...friendica-0.0.15) (2021-12-18)
+### [friendica-0.0.15](https://github.com/truecharts/apps/compare/friendica-0.0.14...friendica-0.0.15) (2021-12-18岁)
 
 #### 聊天
 
@@ -1000,7 +1000,7 @@
 
 <a name="friendica-0.0.9"></a>
 
-### friendica-0.0.9 (2021-12-05)
+### friica-0.0.9 (2021-12-05)
 
 #### 聊天
 
@@ -1095,7 +1095,7 @@
 
 <a name="friendica-0.0.1"></a>
 
-### friendica-0.0.1 (2021-11-30)
+### 友好型0.0.1(2021-11-30)
 
 #### Feat
 
