@@ -1,52 +1,52 @@
-# Changelog
+# 更新日志
 
 
 ## [n8n-4.0.27](https://github.com/truecharts/apps/compare/n8n-4.0.26...n8n-4.0.27) (2022-07-15)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3184](https://github.com/truecharts/apps/issues/3184))
+- 更新一般的非主基座([#3184](https://github.com/truecharts/apps/issues/3184))
 
 
 
 ## [n8n-4.0.26](https://github.com/truecharts/apps/compare/n8n-4.0.25...n8n-4.0.26) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [n8n-4.0.25](https://github.com/truecharts/apps/compare/n8n-4.0.23...n8n-4.0.25) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [n8n-4.0.23](https://github.com/truecharts/apps/compare/n8n-4.0.22...n8n-4.0.23) (2022-07-14)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3171](https://github.com/truecharts/apps/issues/3171))
+- 更新一般的非主码([#3171](https://github.com/truecharts/apps/issues/3171))
 
 
 
 ## [n8n-4.0.22](https://github.com/truecharts/apps/compare/n8n-4.0.20...n8n-4.0.22) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [n8n-4.0.20](https://github.com/truecharts/apps/compare/n8n-4.0.19...n8n-4.0.20) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -54,9 +54,9 @@
 
 ### [n8n-4.0.19](https://github.com/truecharts/apps/compare/n8n-4.0.18...n8n-4.0.19) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -64,9 +64,9 @@
 
 ### [n8n-4.0.18](https://github.com/truecharts/apps/compare/n8n-4.0.17...n8n-4.0.18) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -74,7 +74,7 @@
 
 ### [n8n-4.0.17](https://github.com/truecharts/apps/compare/n8n-4.0.16...n8n-4.0.17) (2022-07-11)
 
-#### Chore
+#### 聊天
 
 * clean ui a bit and add more envs ([#3124](https://github.com/truecharts/apps/issues/3124))
 
@@ -84,9 +84,9 @@
 
 ### [n8n-4.0.16](https://github.com/truecharts/apps/compare/n8n-4.0.15...n8n-4.0.16) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -94,9 +94,9 @@
 
 ### [n8n-4.0.15](https://github.com/truecharts/apps/compare/n8n-4.0.14...n8n-4.0.15) (2022-07-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3078](https://github.com/truecharts/apps/issues/3078))
+* 更新一般的非主基座([#3078](https://github.com/truecharts/apps/issues/3078))
 
 
 
@@ -104,9 +104,9 @@
 
 ### [n8n-4.0.14](https://github.com/truecharts/apps/compare/n8n-4.0.13...n8n-4.0.14) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3075](https://github.com/truecharts/apps/issues/3075))
+* 更新头盔的一般非主头盔版本([#3075](https://github.com/truecharts/apps/issues/3075))
 
 
 
@@ -114,9 +114,9 @@
 
 ### [n8n-4.0.13](https://github.com/truecharts/apps/compare/n8n-4.0.12...n8n-4.0.13) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -124,9 +124,9 @@
 
 ### [n8n-4.0.12](https://github.com/truecharts/apps/compare/n8n-4.0.11...n8n-4.0.12) (2022-07-01)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3015](https://github.com/truecharts/apps/issues/3015))
+* 更新一般的非主基座([#3015](https://github.com/truecharts/apps/issues/3015))
 
 
 
@@ -134,9 +134,9 @@
 
 ### [n8n-4.0.11](https://github.com/truecharts/apps/compare/n8n-4.0.10...n8n-4.0.11) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -144,10 +144,10 @@
 
 ### [n8n-4.0.10](https://github.com/truecharts/apps/compare/n8n-4.0.9...n8n-4.0.10) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2954](https://github.com/truecharts/apps/issues/2954))
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新一般的非主码([#2954](https://github.com/truecharts/apps/issues/2954))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -155,9 +155,9 @@
 
 ### [n8n-4.0.9](https://github.com/truecharts/apps/compare/n8n-4.0.8...n8n-4.0.9) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -165,9 +165,9 @@
 
 ### [n8n-4.0.8](https://github.com/truecharts/apps/compare/n8n-4.0.7...n8n-4.0.8) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2917](https://github.com/truecharts/apps/issues/2917))
+* 更新一般的非主码([#2917](https://github.com/truecharts/apps/issues/2917))
 
 
 
@@ -175,9 +175,9 @@
 
 ### [n8n-4.0.7](https://github.com/truecharts/apps/compare/n8n-4.0.6...n8n-4.0.7) (2022-06-15)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2890](https://github.com/truecharts/apps/issues/2890))
+* 更新停靠一般的非主要泊位([#2890](https://github.com/truecharts/apps/issues/2890))
 
 
 
@@ -185,9 +185,9 @@
 
 ### [n8n-4.0.6](https://github.com/truecharts/apps/compare/n8n-4.0.5...n8n-4.0.6) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2887](https://github.com/truecharts/apps/issues/2887))
+* 更新头盔的一般非主头盔版本([#2887](https://github.com/truecharts/apps/issues/2887))
 
 
 
@@ -195,9 +195,9 @@
 
 ### [n8n-4.0.5](https://github.com/truecharts/apps/compare/n8n-4.0.4...n8n-4.0.5) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -205,9 +205,9 @@
 
 ### [n8n-4.0.4](https://github.com/truecharts/apps/compare/n8n-4.0.3...n8n-4.0.4) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2873](https://github.com/truecharts/apps/issues/2873))
+* 更新头盔的一般非主头盔版本([#2873](https://github.com/truecharts/apps/issues/2873))
 
 
 
@@ -215,9 +215,9 @@
 
 ### [n8n-4.0.3](https://github.com/truecharts/apps/compare/n8n-4.0.2...n8n-4.0.3) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -225,9 +225,9 @@
 
 ### [n8n-4.0.2](https://github.com/truecharts/apps/compare/n8n-4.0.1...n8n-4.0.2) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2848](https://github.com/truecharts/apps/issues/2848))
+* 更新一般的非主基座([#2848](https://github.com/truecharts/apps/issues/2848))
 
 
 
@@ -235,9 +235,9 @@
 
 ### [n8n-4.0.1](https://github.com/truecharts/apps/compare/n8n-4.0.0...n8n-4.0.1) (2022-06-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2846](https://github.com/truecharts/apps/issues/2846))
+* 更新一般的非主码([#2846](https://github.com/truecharts/apps/issues/2846))
 
 
 
@@ -245,13 +245,13 @@
 
 ### [n8n-4.0.0](https://github.com/truecharts/apps/compare/n8n-3.0.1...n8n-4.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* update helm general major helm releases ([#2804](https://github.com/truecharts/apps/issues/2804))
+* 更新头盔主要头盔版本([#2804](https://github.com/truecharts/apps/issues/2804))
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -259,19 +259,19 @@
 
 ### [n8n-3.0.1](https://github.com/truecharts/apps/compare/n8n-2.0.37...n8n-3.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
-* update helm general non-major helm releases ([#2838](https://github.com/truecharts/apps/issues/2838))
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
+* 更新头盔的一般非主头盔版本([#2838](https://github.com/truecharts/apps/issues/2838))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -279,13 +279,13 @@
 
 ### [n8n-3.0.0](https://github.com/truecharts/apps/compare/n8n-2.0.37...n8n-3.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -293,10 +293,10 @@
 
 ### [n8n-2.0.37](https://github.com/truecharts/apps/compare/n8n-2.0.36...n8n-2.0.37) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-* update docker general non-major ([#2791](https://github.com/truecharts/apps/issues/2791))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
+* 更新一般的非主码([#2791](https://github.com/truecharts/apps/issues/2791))
 
 
 
@@ -304,7 +304,7 @@
 
 ### [n8n-2.0.36](https://github.com/truecharts/apps/compare/n8n-2.0.35...n8n-2.0.36) (2022-05-28)
 
-#### Fix
+#### 修复
 
 * duplicate security variable ([#2773](https://github.com/truecharts/apps/issues/2773))
 
@@ -314,10 +314,10 @@
 
 ### [n8n-2.0.35](https://github.com/truecharts/apps/compare/n8n-2.0.34...n8n-2.0.35) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -325,9 +325,9 @@
 
 ### [n8n-2.0.35](https://github.com/truecharts/apps/compare/n8n-2.0.34...n8n-2.0.35) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -335,9 +335,9 @@
 
 ### [n8n-2.0.34](https://github.com/truecharts/apps/compare/n8n-2.0.33...n8n-2.0.34) (2022-05-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2745](https://github.com/truecharts/apps/issues/2745))
+* 更新一般的非主码([#2745](https://github.com/truecharts/apps/issues/2745))
 
 
 
@@ -345,20 +345,9 @@
 
 ### [n8n-2.0.33](https://github.com/truecharts/apps/compare/n8n-2.0.32...n8n-2.0.33) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="n8n-2.0.32"></a>
-
-### [n8n-2.0.32](https://github.com/truecharts/apps/compare/n8n-2.0.31...n8n-2.0.32) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -366,9 +355,20 @@
 
 ### [n8n-2.0.32](https://github.com/truecharts/apps/compare/n8n-2.0.31...n8n-2.0.32) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="n8n-2.0.32"></a>
+
+### [n8n-2.0.32](https://github.com/truecharts/apps/compare/n8n-2.0.31...n8n-2.0.32) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -376,10 +376,10 @@
 
 ### [n8n-2.0.31](https://github.com/truecharts/apps/compare/n8n-2.0.30...n8n-2.0.31) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2695](https://github.com/truecharts/apps/issues/2695))
-* update helm general non-major helm releases
+* 更新一般的非主基座([#2695](https://github.com/truecharts/apps/issues/2695))
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -387,9 +387,9 @@
 
 ### [n8n-2.0.30](https://github.com/truecharts/apps/compare/n8n-2.0.29...n8n-2.0.30) (2022-05-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2658](https://github.com/truecharts/apps/issues/2658))
+* 更新一般的非主码([#2658](https://github.com/truecharts/apps/issues/2658))
 
 
 
@@ -397,9 +397,9 @@
 
 ### [n8n-2.0.29](https://github.com/truecharts/apps/compare/n8n-2.0.28...n8n-2.0.29) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -407,9 +407,9 @@
 
 ### [n8n-2.0.28](https://github.com/truecharts/apps/compare/n8n-2.0.27...n8n-2.0.28) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -417,9 +417,9 @@
 
 ### [n8n-2.0.27](https://github.com/truecharts/apps/compare/n8n-2.0.26...n8n-2.0.27) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2606](https://github.com/truecharts/apps/issues/2606))
+* 更新一般的非主码([#2606](https://github.com/truecharts/apps/issues/2606))
 
 
 
@@ -427,9 +427,9 @@
 
 ### [n8n-2.0.26](https://github.com/truecharts/apps/compare/n8n-2.0.25...n8n-2.0.26) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2605](https://github.com/truecharts/apps/issues/2605))
+* 更新头盔的一般非主头盔版本([#2605](https://github.com/truecharts/apps/issues/2605))
 
 
 
@@ -437,9 +437,9 @@
 
 ### [n8n-2.0.25](https://github.com/truecharts/apps/compare/n8n-2.0.24...n8n-2.0.25) (2022-04-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2577](https://github.com/truecharts/apps/issues/2577))
+* 更新一般的非主码([#2577](https://github.com/truecharts/apps/issues/2577))
 
 
 
@@ -447,9 +447,9 @@
 
 ### [n8n-2.0.24](https://github.com/truecharts/apps/compare/n8n-2.0.23...n8n-2.0.24) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -457,9 +457,9 @@
 
 ### [n8n-2.0.23](https://github.com/truecharts/apps/compare/n8n-2.0.22...n8n-2.0.23) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -467,10 +467,10 @@
 
 ### [n8n-2.0.22](https://github.com/truecharts/apps/compare/n8n-2.0.21...n8n-2.0.22) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update docker general non-major ([#2522](https://github.com/truecharts/apps/issues/2522))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新停靠一般的非主要泊位([#2522](https://github.com/truecharts/apps/issues/2522))
 
 
 
@@ -478,7 +478,7 @@
 
 ### [n8n-2.0.21](https://github.com/truecharts/apps/compare/n8n-2.0.20...n8n-2.0.21) (2022-04-19)
 
-#### Chore
+#### 聊天
 
 * improve configmap ([#2516](https://github.com/truecharts/apps/issues/2516))
 
@@ -488,9 +488,9 @@
 
 ### [n8n-2.0.20](https://github.com/truecharts/apps/compare/n8n-2.0.19...n8n-2.0.20) (2022-04-19)
 
-#### Fix
+#### 修复
 
-* try to fix n8n gui issue not loading edit ([#2514](https://github.com/truecharts/apps/issues/2514))
+* 尝试修复 n8n 界面问题，不加载编辑 ([#2514](https://github.com/truecharts/apps/issues/2514))
 
 
 
@@ -498,9 +498,9 @@
 
 ### [n8n-2.0.19](https://github.com/truecharts/apps/compare/n8n-2.0.18...n8n-2.0.19) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -508,9 +508,9 @@
 
 ### [n8n-2.0.18](https://github.com/truecharts/apps/compare/n8n-2.0.17...n8n-2.0.18) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2478](https://github.com/truecharts/apps/issues/2478))
+* 更新一般的非主基座([#2478](https://github.com/truecharts/apps/issues/2478))
 
 
 
@@ -518,9 +518,9 @@
 
 ### [n8n-2.0.17](https://github.com/truecharts/apps/compare/n8n-2.0.16...n8n-2.0.17) (2022-04-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2460](https://github.com/truecharts/apps/issues/2460))
+* 更新一般的非主码([#2460](https://github.com/truecharts/apps/issues/2460))
 
 
 
@@ -528,9 +528,9 @@
 
 ### [n8n-2.0.16](https://github.com/truecharts/apps/compare/n8n-2.0.15...n8n-2.0.16) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
@@ -538,9 +538,9 @@
 
 ### [n8n-2.0.15](https://github.com/truecharts/apps/compare/n8n-2.0.14...n8n-2.0.15) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2362](https://github.com/truecharts/apps/issues/2362))
+* 更新头盔的一般非主头盔版本([#2362](https://github.com/truecharts/apps/issues/2362))
 
 
 
@@ -548,9 +548,9 @@
 
 ### [n8n-2.0.14](https://github.com/truecharts/apps/compare/n8n-2.0.13...n8n-2.0.14) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
@@ -558,9 +558,9 @@
 
 ### [n8n-2.0.13](https://github.com/truecharts/apps/compare/n8n-2.0.12...n8n-2.0.13) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
@@ -568,10 +568,10 @@
 
 ### [n8n-2.0.12](https://github.com/truecharts/apps/compare/n8n-2.0.11...n8n-2.0.12) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Use new repo ([#2337](https://github.com/truecharts/apps/issues/2337))
-* update docker general non-major ([#2338](https://github.com/truecharts/apps/issues/2338))
+* 使用新仓库([#2337](https://github.com/truecharts/apps/issues/2337))
+* 更新一般的非主码([#2338](https://github.com/truecharts/apps/issues/2338))
 
 
 
@@ -579,9 +579,9 @@
 
 ### [n8n-2.0.11](https://github.com/truecharts/apps/compare/n8n-2.0.10...n8n-2.0.11) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2290](https://github.com/truecharts/apps/issues/2290))
+* 更新头盔的一般非主头盔版本([#2290](https://github.com/truecharts/apps/issues/2290))
 
 
 
@@ -589,9 +589,9 @@
 
 ### [n8n-2.0.10](https://github.com/truecharts/apps/compare/n8n-2.0.9...n8n-2.0.10) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -599,9 +599,9 @@
 
 ### [n8n-2.0.5](https://github.com/truecharts/apps/compare/n8n-2.0.4...n8n-2.0.5) (2022-03-15)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2175](https://github.com/truecharts/apps/issues/2175))
+* 更新一般的非主码([#2175](https://github.com/truecharts/apps/issues/2175))
 
 
 
@@ -609,9 +609,9 @@
 
 ### [n8n-2.0.4](https://github.com/truecharts/apps/compare/n8n-2.0.3...n8n-2.0.4) (2022-03-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2116](https://github.com/truecharts/apps/issues/2116))
+* 更新头盔的一般非主头盔版本([#2116](https://github.com/truecharts/apps/issues/2116))
 
 
 
@@ -619,9 +619,9 @@
 
 ### [n8n-2.0.3](https://github.com/truecharts/apps/compare/n8n-2.0.2...n8n-2.0.3) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2111](https://github.com/truecharts/apps/issues/2111))
+* 更新头盔的一般非主头盔版本([#211](https://github.com/truecharts/apps/issues/2111))
 
 
 
@@ -629,9 +629,9 @@
 
 ### [n8n-2.0.2](https://github.com/truecharts/apps/compare/n8n-2.0.1...n8n-2.0.2) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2046](https://github.com/truecharts/apps/issues/2046))
+* 更新一般的非主码([#2046](https://github.com/truecharts/apps/issues/2046))
 
 
 
@@ -639,13 +639,13 @@
 
 ### [n8n-2.0.1](https://github.com/truecharts/apps/compare/n8n-2.0.0...n8n-2.0.1) (2022-03-06)
 
-#### Chore
+#### 聊天
 
-* Remove `-icon` string from icon png's ([#2040](https://github.com/truecharts/apps/issues/2040))
+* 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
-#### Fix
+#### 修复
 
-* Correctly map TZ variable ([#2044](https://github.com/truecharts/apps/issues/2044))
+* 正确映射TZ变量([#2044](https://github.com/truecharts/apps/issues/2044))
 
 
 
@@ -653,16 +653,16 @@
 
 ### [n8n-2.0.0](https://github.com/truecharts/apps/compare/n8n-1.0.10...n8n-2.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* remove TZ from values. ([#1945](https://github.com/truecharts/apps/issues/1945))
-* update helm general major helm releases ([#2021](https://github.com/truecharts/apps/issues/2021))
+* 从问题.yaml 中移除固定的 env
+* 从值中删除 TZ 。 ([#1945](https://github.com/truecharts/apps/issues/1945))
+* 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
-* correct some questions.yaml mistakes
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
+* 纠正一些问题 .yaml 错误
 
 
 
@@ -670,10 +670,10 @@
 
 ### [n8n-1.0.10](https://github.com/truecharts/apps/compare/n8n-1.0.9...n8n-1.0.10) (2022-03-02)
 
-#### Chore
+#### 聊天
 
-* rename `web_portal` to `open` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* update helm general non-major helm releases ([#1999](https://github.com/truecharts/apps/issues/1999))
+* 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
+* 更新头盔的一般非主要头盔版本([#1999](https://github.com/truecharts/apps/issues/1999))
 
 
 
@@ -681,9 +681,9 @@
 
 ### [n8n-1.0.9](https://github.com/truecharts/apps/compare/n8n-1.0.8...n8n-1.0.9) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1927](https://github.com/truecharts/apps/issues/1927))
+* 更新头盔的一般非主要头盔版本([#1927](https://github.com/truecharts/apps/issues/1927))
 
 
 
@@ -691,9 +691,9 @@
 
 ### [n8n-1.0.8](https://github.com/truecharts/apps/compare/n8n-1.0.7...n8n-1.0.8) (2022-02-15)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1901](https://github.com/truecharts/apps/issues/1901))
+* 更新头盔的一般非主要头盔版本([#1901](https://github.com/truecharts/apps/issues/1901))
 
 
 
@@ -701,9 +701,9 @@
 
 ### [n8n-1.0.7](https://github.com/truecharts/apps/compare/n8n-1.0.6...n8n-1.0.7) (2022-02-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1876](https://github.com/truecharts/apps/issues/1876))
+* 更新一般的非主要泊车位([#1876](https://github.com/truecharts/apps/issues/1876))
 
 
 
@@ -711,9 +711,9 @@
 
 ### [n8n-1.0.6](https://github.com/truecharts/apps/compare/n8n-1.0.5...n8n-1.0.6) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1871](https://github.com/truecharts/apps/issues/1871))
+* 更新头盔的一般非主头盔版本([#1871](https://github.com/truecharts/apps/issues/1871))
 
 
 
@@ -721,9 +721,9 @@
 
 ### [n8n-1.0.5](https://github.com/truecharts/apps/compare/n8n-1.0.4...n8n-1.0.5) (2022-02-06)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.0 ([#1859](https://github.com/truecharts/apps/issues/1859))
+* 更新通用的 v8.15.0 头盔图表([#1859](https://github.com/truecharts/apps/issues/1859))
 
 
 
@@ -731,9 +731,9 @@
 
 ### [n8n-1.0.4](https://github.com/truecharts/apps/compare/n8n-1.0.3...n8n-1.0.4) (2022-02-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1852](https://github.com/truecharts/apps/issues/1852))
+* 更新头盔的一般非主头盔版本([#1852](https://github.com/truecharts/apps/issues/1852))
 
 
 
@@ -741,9 +741,9 @@
 
 ### [n8n-1.0.3](https://github.com/truecharts/apps/compare/n8n-1.0.2...n8n-1.0.3) (2022-02-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1836](https://github.com/truecharts/apps/issues/1836))
+* 更新一般的非主码([#1836](https://github.com/truecharts/apps/issues/1836))
 
 
 
@@ -751,9 +751,9 @@
 
 ### [n8n-1.0.2](https://github.com/truecharts/apps/compare/n8n-1.0.1...n8n-1.0.2) (2022-02-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1828](https://github.com/truecharts/apps/issues/1828))
+* 更新头盔的一般非主要头盔版本([#1828](https://github.com/truecharts/apps/issues/1828))
 
 
 
@@ -761,9 +761,9 @@
 
 ### [n8n-1.0.1](https://github.com/truecharts/apps/compare/n8n-1.0.0...n8n-1.0.1) (2022-01-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major docker tags ([#1823](https://github.com/truecharts/apps/issues/1823))
+* 更新一般非主停靠标签([#1823](https://github.com/truecharts/apps/issues/1823))
 
 
 
@@ -777,7 +777,7 @@
 
 ### [n8n-0.0.4](https://github.com/truecharts/apps/compare/n8n-0.0.3...n8n-0.0.4) (2022-01-30)
 
-#### Fix
+#### 修复
 
 * Fix permissions and add healthcheck path ([#1809](https://github.com/truecharts/apps/issues/1809))
 
@@ -787,7 +787,7 @@
 
 ### [n8n-0.0.3](https://github.com/truecharts/apps/compare/n8n-0.0.2...n8n-0.0.3) (2022-01-28)
 
-#### Fix
+#### 修复
 
 * Fix default value on some lists ([#1806](https://github.com/truecharts/apps/issues/1806))
 
@@ -797,7 +797,7 @@
 
 ### [n8n-0.0.2](https://github.com/truecharts/apps/compare/n8n-0.0.1...n8n-0.0.2) (2022-01-28)
 
-#### Fix
+#### 修复
 
 * quote values on configmap ([#1802](https://github.com/truecharts/apps/issues/1802))
 
