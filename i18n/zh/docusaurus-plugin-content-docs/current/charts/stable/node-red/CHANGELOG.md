@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [node-red-11.0.18](https://github.com/truecharts/apps/compare/node-red-11.0.17...node-red-11.0.18) (2022-07-14)
+## [node-11.0.18](https://github.com/truecharts/apps/compare/node-red-11.0.17...node-red-11.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [node-red-11.0.17](https://github.com/truecharts/apps/compare/node-red-11.0.15...node-red-11.0.17) (2022-07-14)
+## [node-11.0.17](https://github.com/truecharts/apps/compare/node-red-11.0.15...node-red-11.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [node-red-11.0.15](https://github.com/truecharts/apps/compare/node-red-11.0.13...node-red-11.0.15) (2022-07-12)
+## [节点红11.0.15](https://github.com/truecharts/apps/compare/node-red-11.0.13...node-red-11.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [node-red-11.0.13](https://github.com/truecharts/apps/compare/node-red-11.0.12...node-red-11.0.13) (2022-07-12)
+## [node-Red11.0.13](https://github.com/truecharts/apps/compare/node-red-11.0.12...node-red-11.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="node-red-11.0.12"></a>
 
-### [node-red-11.0.12](https://github.com/truecharts/apps/compare/node-red-11.0.11...node-red-11.0.12) (2022-07-12)
+### [node-Red11.0.12](https://github.com/truecharts/apps/compare/node-red-11.0.11...node-red-11.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="node-red-11.0.11"></a>
 
-### [node-red-11.0.11](https://github.com/truecharts/apps/compare/node-red-11.0.10...node-red-11.0.11) (2022-07-11)
+### [node-11.0.11](https://github.com/truecharts/apps/compare/node-red-11.0.10...node-red-11.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="node-red-11.0.10"></a>
 
-### [node-red-11.0.10](https://github.com/truecharts/apps/compare/node-red-11.0.9...node-red-11.0.10) (2022-07-09)
+### [缩写11.0.10](https://github.com/truecharts/apps/compare/node-red-11.0.9...node-red-11.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="node-red-11.0.9"></a>
 
-### [node-red-11.0.9](https://github.com/truecharts/apps/compare/node-red-11.0.8...node-red-11.0.9) (2022-07-04)
+### [node-Red11.0.9](https://github.com/truecharts/apps/compare/node-red-11.0.8...node-red-11.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="node-red-11.0.8"></a>
 
-### [node-red-11.0.8](https://github.com/truecharts/apps/compare/node-red-11.0.7...node-red-11.0.8) (2022-06-25)
+### [node-11.0.8](https://github.com/truecharts/apps/compare/node-red-11.0.7...node-red-11.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="node-red-11.0.7"></a>
 
-### [node-red-11.0.7](https://github.com/truecharts/apps/compare/node-red-11.0.6...node-red-11.0.7) (2022-06-22)
+### [node-11.0.7](https://github.com/truecharts/apps/compare/node-red-11.0.6...node-red-11.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="node-red-11.0.6"></a>
 
-### [node-red-11.0.6](https://github.com/truecharts/apps/compare/node-red-11.0.5...node-red-11.0.6) (2022-06-21)
+### [节点红11.0.6](https://github.com/truecharts/apps/compare/node-red-11.0.5...node-red-11.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="node-red-11.0.5"></a>
 
-### [node-red-11.0.5](https://github.com/truecharts/apps/compare/node-red-11.0.4...node-red-11.0.5) (2022-06-17)
+### [node-Red11.0.5](https://github.com/truecharts/apps/compare/node-red-11.0.4...node-red-11.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="node-red-11.0.4"></a>
 
-### [node-red-11.0.4](https://github.com/truecharts/apps/compare/node-red-11.0.3...node-red-11.0.4) (2022-06-14)
+### [node-11.0.4](https://github.com/truecharts/apps/compare/node-red-11.0.3...node-red-11.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="node-red-11.0.3"></a>
 
-### [node-red-11.0.3](https://github.com/truecharts/apps/compare/node-red-11.0.2...node-red-11.0.3) (2022-06-11)
+### [节点红11.0.3](https://github.com/truecharts/apps/compare/node-red-11.0.2...node-red-11.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="node-red-11.0.2"></a>
 
-### [node-red-11.0.2](https://github.com/truecharts/apps/compare/node-red-11.0.1...node-red-11.0.2) (2022-06-07)
+### [缩写11.0.2](https://github.com/truecharts/apps/compare/node-red-11.0.1...node-red-11.0.2) (2022-06-07)
 
 #### 修复
 
@@ -146,7 +146,7 @@
 
 <a name="node-red-11.0.1"></a>
 
-### [node-red-11.0.1](https://github.com/truecharts/apps/compare/node-red-10.0.19...node-red-11.0.1) (2022-06-07)
+### [节点红11.0.1](https://github.com/truecharts/apps/compare/node-red-10.0.19...node-red-11.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -165,7 +165,7 @@
 
 <a name="node-red-11.0.0"></a>
 
-### [node-red-11.0.0](https://github.com/truecharts/apps/compare/node-red-10.0.19...node-red-11.0.0) (2022-06-07)
+### [node-ed11.0.0](https://github.com/truecharts/apps/compare/node-red-10.0.19...node-red-11.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="node-red-10.0.19"></a>
 
-### [node-red-10.0.19](https://github.com/truecharts/apps/compare/node-red-10.0.18...node-red-10.0.19) (2022-05-31)
+### [节点red-10.0.19](https://github.com/truecharts/apps/compare/node-red-10.0.18...node-red-10.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="node-red-10.0.17"></a>
 
-### [node-red-10.0.17](https://github.com/truecharts/apps/compare/node-red-10.0.16...node-red-10.0.17) (2022-05-24)
+### [节点red-10.0.17](https://github.com/truecharts/apps/compare/node-red-10.0.16...node-red-10.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="node-red-10.0.15"></a>
 
-### [node-red-10.0.15](https://github.com/truecharts/apps/compare/node-red-10.0.14...node-red-10.0.15) (2022-05-17)
+### [节点red-10.0.15](https://github.com/truecharts/apps/compare/node-red-10.0.14...node-red-10.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="node-red-10.0.14"></a>
 
-### [node-red-10.0.14](https://github.com/truecharts/apps/compare/node-red-10.0.13...node-red-10.0.14) (2022-05-10)
+### [节点red-10.0.14](https://github.com/truecharts/apps/compare/node-red-10.0.13...node-red-10.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="node-red-10.0.13"></a>
 
-### [node-red-10.0.13](https://github.com/truecharts/apps/compare/node-red-10.0.12...node-red-10.0.13) (2022-05-05)
+### [节点red-10.0.13](https://github.com/truecharts/apps/compare/node-red-10.0.12...node-red-10.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="node-red-10.0.12"></a>
 
-### [node-red-10.0.12](https://github.com/truecharts/apps/compare/node-red-10.0.11...node-red-10.0.12) (2022-04-26)
+### [节点red-10.0.12](https://github.com/truecharts/apps/compare/node-red-10.0.11...node-red-10.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="node-red-10.0.11"></a>
 
-### [node-red-10.0.11](https://github.com/truecharts/apps/compare/node-red-10.0.10...node-red-10.0.11) (2022-04-20)
+### [节点red-10.0.11](https://github.com/truecharts/apps/compare/node-red-10.0.10...node-red-10.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="node-red-10.0.10"></a>
 
-### [node-red-10.0.10](https://github.com/truecharts/apps/compare/node-red-10.0.9...node-red-10.0.10) (2022-04-12)
+### [节点red-10.0.10](https://github.com/truecharts/apps/compare/node-red-10.0.9...node-red-10.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="node-red-10.0.9"></a>
 
-### [node-red-10.0.9](https://github.com/truecharts/apps/compare/node-red-10.0.8...node-red-10.0.9) (2022-04-03)
+### [节点red-10.0.9](https://github.com/truecharts/apps/compare/node-red-10.0.8...node-red-10.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="node-red-10.0.8"></a>
 
-### [node-red-10.0.8](https://github.com/truecharts/apps/compare/node-red-10.0.7...node-red-10.0.8) (2022-03-31)
+### [节点red-10.0.8](https://github.com/truecharts/apps/compare/node-red-10.0.7...node-red-10.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="node-red-10.0.7"></a>
 
-### [node-red-10.0.7](https://github.com/truecharts/apps/compare/node-red-10.0.6...node-red-10.0.7) (2022-03-30)
+### [节点red-10.0.7](https://github.com/truecharts/apps/compare/node-red-10.0.6...node-red-10.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="node-red-10.0.1"></a>
 
-### [node-red-10.0.1](https://github.com/truecharts/apps/compare/node-red-10.0.0...node-red-10.0.1) (2022-03-07)
+### [节点red-10.0.1](https://github.com/truecharts/apps/compare/node-red-10.0.0...node-red-10.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -353,7 +353,7 @@
 
 <a name="node-red-10.0.0"></a>
 
-### [node-red-10.0.0](https://github.com/truecharts/apps/compare/node-red-9.0.46...node-red-10.0.0) (2022-03-03)
+### [节点red-10.0.0](https://github.com/truecharts/apps/compare/node-red-9.0.46...node-red-10.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -369,7 +369,7 @@
 
 <a name="node-red-9.0.46"></a>
 
-### [node-red-9.0.46](https://github.com/truecharts/apps/compare/node-red-9.0.45...node-red-9.0.46) (2022-03-02)
+### [node-ed-9.0.46](https://github.com/truecharts/apps/compare/node-red-9.0.45...node-red-9.0.46) (2022-03-02)
 
 #### 聊天
 
@@ -380,7 +380,7 @@
 
 <a name="node-red-9.0.45"></a>
 
-### [node-red-9.0.45](https://github.com/truecharts/apps/compare/node-red-9.0.44...node-red-9.0.45) (2022-02-21)
+### [node-9.0.45](https://github.com/truecharts/apps/compare/node-red-9.0.44...node-red-9.0.45) (2022-02-21)
 
 #### 聊天
 
@@ -390,7 +390,7 @@
 
 <a name="node-red-9.0.44"></a>
 
-### [node-red-9.0.44](https://github.com/truecharts/apps/compare/node-red-9.0.43...node-red-9.0.44) (2022-02-21)
+### [node-ed-9.0.44](https://github.com/truecharts/apps/compare/node-red-9.0.43...node-red-9.0.44) (2022-02-21)
 
 #### 聊天
 
@@ -400,7 +400,7 @@
 
 <a name="node-red-9.0.43"></a>
 
-### [node-red-9.0.43](https://github.com/truecharts/apps/compare/node-red-9.0.42...node-red-9.0.43) (2022-02-15)
+### [node-9.0.43](https://github.com/truecharts/apps/compare/node-red-9.0.42...node-red-9.0.43) (2022-02-15)
 
 #### 聊天
 
@@ -410,7 +410,7 @@
 
 <a name="node-red-9.0.42"></a>
 
-### [node-red-9.0.42](https://github.com/truecharts/apps/compare/node-red-9.0.41...node-red-9.0.42) (2022-02-08)
+### [node-ed-9.0.42](https://github.com/truecharts/apps/compare/node-red-9.0.41...node-red-9.0.42) (2022-02-08)
 
 #### 聊天
 
@@ -420,7 +420,7 @@
 
 <a name="node-red-9.0.41"></a>
 
-### [node-red-9.0.41](https://github.com/truecharts/apps/compare/node-red-9.0.40...node-red-9.0.41) (2022-02-06)
+### [node-9.0.41](https://github.com/truecharts/apps/compare/node-red-9.0.40...node-red-9.0.41) (2022-02-06)
 
 #### 聊天
 
@@ -430,7 +430,7 @@
 
 <a name="node-red-9.0.40"></a>
 
-### [node-red-9.0.40](https://github.com/truecharts/apps/compare/node-red-9.0.39...node-red-9.0.40) (2022-02-05)
+### [node-9.0.40](https://github.com/truecharts/apps/compare/node-red-9.0.39...node-red-9.0.40) (2022-02-05)
 
 #### 聊天
 
@@ -440,7 +440,7 @@
 
 <a name="node-red-9.0.39"></a>
 
-### [node-red-9.0.39](https://github.com/truecharts/apps/compare/node-red-9.0.38...node-red-9.0.39) (2022-02-02)
+### [node-ed-9.0.39](https://github.com/truecharts/apps/compare/node-red-9.0.38...node-red-9.0.39) (2022-02-02)
 
 #### 聊天
 
@@ -450,7 +450,7 @@
 
 <a name="node-red-9.0.38"></a>
 
-### [node-red-9.0.38](https://github.com/truecharts/apps/compare/node-red-9.0.37...node-red-9.0.38) (2022-01-31)
+### [node-ed-9.0.38](https://github.com/truecharts/apps/compare/node-red-9.0.37...node-red-9.0.38) (2022-01-31)
 
 #### 聊天
 
@@ -460,7 +460,7 @@
 
 <a name="node-red-9.0.37"></a>
 
-### [node-red-9.0.37](https://github.com/truecharts/apps/compare/node-red-9.0.36...node-red-9.0.37) (2022-01-25)
+### [node-ed-9.0.37](https://github.com/truecharts/apps/compare/node-red-9.0.36...node-red-9.0.37) (2022-01-25)
 
 #### 聊天
 
@@ -470,7 +470,7 @@
 
 <a name="node-red-9.0.36"></a>
 
-### [node-red-9.0.36](https://github.com/truecharts/apps/compare/node-red-9.0.35...node-red-9.0.36) (2022-01-22)
+### [node-9.0.36](https://github.com/truecharts/apps/compare/node-red-9.0.35...node-red-9.0.36) (2022-01-22)
 
 #### 聊天
 
@@ -480,7 +480,7 @@
 
 <a name="node-red-9.0.35"></a>
 
-### [node-red-9.0.35](https://github.com/truecharts/apps/compare/node-red-9.0.34...node-red-9.0.35) (2022-01-21)
+### [node-ed-9.0.35](https://github.com/truecharts/apps/compare/node-red-9.0.34...node-red-9.0.35) (2022-01-21)
 
 #### 聊天
 
@@ -495,7 +495,7 @@
 
 <a name="node-red-9.0.33"></a>
 
-### [node-red-9.0.33](https://github.com/truecharts/apps/compare/node-red-9.0.32...node-red-9.0.33) (2022-01-17)
+### [node-9.0.33](https://github.com/truecharts/apps/compare/node-red-9.0.32...node-red-9.0.33) (2022-01-17)
 
 #### 聊天
 
@@ -505,7 +505,7 @@
 
 <a name="node-red-9.0.32"></a>
 
-### [node-red-9.0.32](https://github.com/truecharts/apps/compare/node-red-9.0.31...node-red-9.0.32) (2022-01-13)
+### [node-9.0.32](https://github.com/truecharts/apps/compare/node-red-9.0.31...node-red-9.0.32) (2022-01-13)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="node-red-9.0.31"></a>
 
-### [node-red-9.0.31](https://github.com/truecharts/apps/compare/node-red-9.0.30...node-red-9.0.31) (2022-01-12)
+### [nede-9.0.31](https://github.com/truecharts/apps/compare/node-red-9.0.30...node-red-9.0.31) (2022-01-12)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="node-red-9.0.30"></a>
 
-### [node-red-9.0.30](https://github.com/truecharts/apps/compare/node-red-9.0.29...node-red-9.0.30) (2022-01-11)
+### [nede-9.0.30](https://github.com/truecharts/apps/compare/node-red-9.0.29...node-red-9.0.30) (2022-01-11)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="node-red-9.0.29"></a>
 
-### [node-red-9.0.29](https://github.com/truecharts/apps/compare/node-red-9.0.28...node-red-9.0.29) (2022-01-04)
+### [node-ed-9.0.29](https://github.com/truecharts/apps/compare/node-red-9.0.28...node-red-9.0.29) (2022-01-04)
 
 #### 聊天
 
@@ -549,7 +549,7 @@
 
 <a name="node-red-9.0.28"></a>
 
-### [node-red-9.0.28](https://github.com/truecharts/apps/compare/node-red-9.0.27...node-red-9.0.28) (2021-12-28)
+### [node-9.0.28](https://github.com/truecharts/apps/compare/node-red-9.0.27...node-red-9.0.28) (2021-12-28)
 
 #### 聊天
 
@@ -559,7 +559,7 @@
 
 <a name="node-red-9.0.27"></a>
 
-### [node-red-9.0.27](https://github.com/truecharts/apps/compare/node-red-9.0.26...node-red-9.0.27) (2021-12-21)
+### [node-9.0.27](https://github.com/truecharts/apps/compare/node-red-9.0.26...node-red-9.0.27) (2021-12-21)
 
 #### 聊天
 
@@ -569,7 +569,7 @@
 
 <a name="node-red-9.0.26"></a>
 
-### [node-red-9.0.26](https://github.com/truecharts/apps/compare/node-red-9.0.25...node-red-9.0.26) (2021-12-19)
+### [node-9.0.26](https://github.com/truecharts/apps/compare/node-red-9.0.25...node-red-9.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -580,7 +580,7 @@
 
 <a name="node-red-9.0.25"></a>
 
-### [node-red-9.0.25](https://github.com/truecharts/apps/compare/node-red-9.0.24...node-red-9.0.25) (2021-12-19)
+### [node-9.0.25](https://github.com/truecharts/apps/compare/node-red-9.0.24...node-red-9.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -591,7 +591,7 @@
 
 <a name="node-red-9.0.24"></a>
 
-### [node-red-9.0.24](https://github.com/truecharts/apps/compare/node-red-9.0.23...node-red-9.0.24) (2021-12-18)
+### [node-9.0.24](https://github.com/truecharts/apps/compare/node-red-9.0.23...node-red-9.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -602,7 +602,7 @@
 
 <a name="node-red-9.0.23"></a>
 
-### [node-red-9.0.23](https://github.com/truecharts/apps/compare/node-red-9.0.22...node-red-9.0.23) (2021-12-14)
+### [node-9.0.23](https://github.com/truecharts/apps/compare/node-red-9.0.22...node-red-9.0.23) (2021-12-14)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="node-red-9.0.22"></a>
 
-### [node-red-9.0.22](https://github.com/truecharts/apps/compare/node-red-9.0.21...node-red-9.0.22) (2021-12-13)
+### [node-9.0.22](https://github.com/truecharts/apps/compare/node-red-9.0.21...node-red-9.0.22) (2021-12-13)
 
 #### 聊天
 
@@ -622,7 +622,7 @@
 
 <a name="node-red-9.0.21"></a>
 
-### [node-red-9.0.21](https://github.com/truecharts/apps/compare/node-red-9.0.20...node-red-9.0.21) (2021-12-11)
+### [node-9.0.21](https://github.com/truecharts/apps/compare/node-red-9.0.20...node-red-9.0.21) (2021-12-11)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="node-red-9.0.20"></a>
 
-### [node-red-9.0.20](https://github.com/truecharts/apps/compare/node-red-9.0.19...node-red-9.0.20) (2021-12-11)
+### [node-9.0.20](https://github.com/truecharts/apps/compare/node-red-9.0.19...node-red-9.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="node-red-9.0.19"></a>
 
-### [node-red-9.0.19](https://github.com/truecharts/apps/compare/node-red-9.0.18...node-red-9.0.19) (2021-12-07)
+### [node-9.0.19](https://github.com/truecharts/apps/compare/node-red-9.0.18...node-red-9.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="node-red-9.0.18"></a>
 
-### node-red-9.0.18 (2021-12-05)
+### node-9.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -672,7 +672,7 @@
 
 <a name="node-red-9.0.17"></a>
 
-### [node-red-9.0.17](https://github.com/truecharts/apps/compare/node-red-9.0.16...node-red-9.0.17) (2021-12-05)
+### [node-9.0.17](https://github.com/truecharts/apps/compare/node-red-9.0.16...node-red-9.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -682,7 +682,7 @@
 
 <a name="node-red-9.0.16"></a>
 
-### [node-red-9.0.16](https://github.com/truecharts/apps/compare/node-red-9.0.15...node-red-9.0.16) (2021-12-04)
+### [node-9.0.16](https://github.com/truecharts/apps/compare/node-red-9.0.15...node-red-9.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -692,7 +692,7 @@
 
 <a name="node-red-9.0.15"></a>
 
-### [node-red-9.0.15](https://github.com/truecharts/apps/compare/node-red-9.0.14...node-red-9.0.15) (2021-12-04)
+### [node-9.0.15](https://github.com/truecharts/apps/compare/node-red-9.0.14...node-red-9.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -702,7 +702,7 @@
 
 <a name="node-red-9.0.14"></a>
 
-### [node-red-9.0.14](https://github.com/truecharts/apps/compare/node-red-9.0.13...node-red-9.0.14) (2021-12-03)
+### [node-9.0.14](https://github.com/truecharts/apps/compare/node-red-9.0.13...node-red-9.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -713,7 +713,7 @@
 
 <a name="node-red-9.0.13"></a>
 
-### [node-red-9.0.13](https://github.com/truecharts/apps/compare/node-red-9.0.12...node-red-9.0.13) (2021-11-30)
+### [node-9.0.13](https://github.com/truecharts/apps/compare/node-red-9.0.12...node-red-9.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -723,7 +723,7 @@
 
 <a name="node-red-9.0.12"></a>
 
-### [node-red-9.0.12](https://github.com/truecharts/apps/compare/node-red-9.0.11...node-red-9.0.12) (2021-11-23)
+### [node-9.0.12](https://github.com/truecharts/apps/compare/node-red-9.0.11...node-red-9.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -733,7 +733,7 @@
 
 <a name="node-red-9.0.11"></a>
 
-### [node-red-9.0.11](https://github.com/truecharts/apps/compare/node-red-9.0.10...node-red-9.0.11) (2021-11-22)
+### [node-9.0.11](https://github.com/truecharts/apps/compare/node-red-9.0.10...node-red-9.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -743,7 +743,7 @@
 
 <a name="node-red-9.0.10"></a>
 
-### [node-red-9.0.10](https://github.com/truecharts/apps/compare/node-red-9.0.9...node-red-9.0.10) (2021-11-16)
+### [node-9.0.10](https://github.com/truecharts/apps/compare/node-red-9.0.9...node-red-9.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -753,7 +753,7 @@
 
 <a name="node-red-9.0.9"></a>
 
-### [node-red-9.0.9](https://github.com/truecharts/apps/compare/node-red-9.0.8...node-red-9.0.9) (2021-11-15)
+### [node-9.0.9](https://github.com/truecharts/apps/compare/node-red-9.0.8...node-red-9.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -764,7 +764,7 @@
 
 <a name="node-red-9.0.8"></a>
 
-### [node-red-9.0.8](https://github.com/truecharts/apps/compare/node-red-9.0.7...node-red-9.0.8) (2021-11-14)
+### [node-9.0.8](https://github.com/truecharts/apps/compare/node-red-9.0.7...node-red-9.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -782,7 +782,7 @@
 
 <a name="node-red-9.0.7"></a>
 
-### [node-red-9.0.7](https://github.com/truecharts/apps/compare/node-red-9.0.6...node-red-9.0.7) (2021-11-09)
+### [node-9.0.7](https://github.com/truecharts/apps/compare/node-red-9.0.6...node-red-9.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -792,7 +792,7 @@
 
 <a name="node-red-9.0.6"></a>
 
-### [node-red-9.0.6](https://github.com/truecharts/apps/compare/node-red-9.0.5...node-red-9.0.6) (2021-11-07)
+### [node-9.0.6](https://github.com/truecharts/apps/compare/node-red-9.0.5...node-red-9.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -802,7 +802,7 @@
 
 <a name="node-red-9.0.5"></a>
 
-### [node-red-9.0.5](https://github.com/truecharts/apps/compare/node-red-9.0.4...node-red-9.0.5) (2021-11-07)
+### [node-9.0.5](https://github.com/truecharts/apps/compare/node-red-9.0.4...node-red-9.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -820,7 +820,7 @@
 
 <a name="node-red-9.0.4"></a>
 
-### [node-red-9.0.4](https://github.com/truecharts/apps/compare/node-red-9.0.3...node-red-9.0.4) (2021-11-02)
+### [node-9.0.4](https://github.com/truecharts/apps/compare/node-red-9.0.3...node-red-9.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -830,7 +830,7 @@
 
 <a name="node-red-9.0.3"></a>
 
-### [node-red-9.0.3](https://github.com/truecharts/apps/compare/node-red-9.0.2...node-red-9.0.3) (2021-11-01)
+### [nege-red-9.0.3](https://github.com/truecharts/apps/compare/node-red-9.0.2...node-red-9.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -840,7 +840,7 @@
 
 <a name="node-red-9.0.2"></a>
 
-### [node-red-9.0.2](https://github.com/truecharts/apps/compare/node-red-9.0.1...node-red-9.0.2) (2021-10-26)
+### [node-ed-9.0.2](https://github.com/truecharts/apps/compare/node-red-9.0.1...node-red-9.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -850,7 +850,7 @@
 
 <a name="node-red-9.0.1"></a>
 
-### [node-red-9.0.1](https://github.com/truecharts/apps/compare/node-red-9.0.0...node-red-9.0.1) (2021-10-26)
+### [node-ed-9.0.1](https://github.com/truecharts/apps/compare/node-red-9.0.0...node-red-9.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -871,12 +871,12 @@
 
 <a name="node-red-8.0.16"></a>
 
-### [node-red-8.0.16](https://github.com/truecharts/apps/compare/node-red-8.0.13...node-red-8.0.16) (2021-10-20)
+### [注释 8.0.16](https://github.com/truecharts/apps/compare/node-red-8.0.13...node-red-8.0.16) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -887,7 +887,7 @@
 
 <a name="node-red-8.0.13"></a>
 
-### [node-red-8.0.13](https://github.com/truecharts/apps/compare/node-red-8.0.12...node-red-8.0.13) (2021-10-20)
+### [node-ed-8.0.13](https://github.com/truecharts/apps/compare/node-red-8.0.12...node-red-8.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -897,7 +897,7 @@
 
 <a name="node-red-8.0.12"></a>
 
-### [node-red-8.0.12](https://github.com/truecharts/apps/compare/node-red-8.0.11...node-red-8.0.12) (2021-10-19)
+### [node-ed-8.0.12](https://github.com/truecharts/apps/compare/node-red-8.0.11...node-red-8.0.12) (2021-10-19)
 
 #### 更改
 
@@ -921,7 +921,7 @@
 
 <a name="node-red-8.0.11"></a>
 
-### [node-red-8.0.11](https://github.com/truecharts/apps/compare/node-red-8.0.10...node-red-8.0.11) (2021-10-19)
+### [node-ed8.0.11](https://github.com/truecharts/apps/compare/node-red-8.0.10...node-red-8.0.11) (2021-10-19)
 
 #### 修复
 
@@ -931,7 +931,7 @@
 
 <a name="node-red-8.0.10"></a>
 
-### [node-red-8.0.10](https://github.com/truecharts/apps/compare/node-red-8.0.9...node-red-8.0.10) (2021-10-19)
+### [node-ed8.0.10](https://github.com/truecharts/apps/compare/node-red-8.0.9...node-red-8.0.10) (2021-10-19)
 
 #### 修复
 
@@ -941,7 +941,7 @@
 
 <a name="node-red-8.0.9"></a>
 
-### [node-red-8.0.9](https://github.com/truecharts/apps/compare/node-red-8.0.8...node-red-8.0.9) (2021-10-18)
+### [node-ed8.0.9](https://github.com/truecharts/apps/compare/node-red-8.0.8...node-red-8.0.9) (2021-10-18)
 
 #### 重新因子
 
@@ -951,7 +951,7 @@
 
 <a name="node-red-8.0.8"></a>
 
-### [node-red-8.0.8](https://github.com/truecharts/apps/compare/node-red-8.0.7...node-red-8.0.8) (2021-10-17)
+### [node-ed8.0.8](https://github.com/truecharts/apps/compare/node-red-8.0.7...node-red-8.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -965,7 +965,7 @@
 
 <a name="node-red-8.0.7"></a>
 
-### [node-red-8.0.7](https://github.com/truecharts/apps/compare/node-red-8.0.6...node-red-8.0.7) (2021-10-13)
+### [node-8.0.7](https://github.com/truecharts/apps/compare/node-red-8.0.6...node-red-8.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -975,7 +975,7 @@
 
 <a name="node-red-8.0.6"></a>
 
-### [node-red-8.0.6](https://github.com/truecharts/apps/compare/node-red-8.0.5...node-red-8.0.6) (2021-10-12)
+### [node-8.0.6](https://github.com/truecharts/apps/compare/node-red-8.0.5...node-red-8.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -985,7 +985,7 @@
 
 <a name="node-red-8.0.5"></a>
 
-### [node-red-8.0.5](https://github.com/truecharts/apps/compare/node-red-8.0.4...node-red-8.0.5) (2021-10-12)
+### [node-ed-8.0.5](https://github.com/truecharts/apps/compare/node-red-8.0.4...node-red-8.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -995,7 +995,7 @@
 
 <a name="node-red-8.0.4"></a>
 
-### [node-red-8.0.4](https://github.com/truecharts/apps/compare/node-red-8.0.3...node-red-8.0.4) (2021-10-05)
+### [nege-red-8.0.4](https://github.com/truecharts/apps/compare/node-red-8.0.3...node-red-8.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1005,7 +1005,7 @@
 
 <a name="node-red-8.0.3"></a>
 
-### [node-red-8.0.3](https://github.com/truecharts/apps/compare/node-red-8.0.2...node-red-8.0.3) (2021-09-29)
+### [nege-red-8.0.3](https://github.com/truecharts/apps/compare/node-red-8.0.2...node-red-8.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1015,13 +1015,13 @@
 
 <a name="node-red-8.0.1"></a>
 
-### [node-red-8.0.1](https://github.com/truecharts/apps/compare/node-red-8.0.0...node-red-8.0.1) (2021-09-26)
+### [node-ed8.0.1](https://github.com/truecharts/apps/compare/node-red-8.0.0...node-red-8.0.1) (2021-09-26)
 
 
 
 <a name="node-red-8.0.0"></a>
 
-### [node-red-8.0.0](https://github.com/truecharts/apps/compare/node-red-7.0.2...node-red-8.0.0) (2021-09-26)
+### [node-ed8.0.0](https://github.com/truecharts/apps/compare/node-red-7.0.2...node-red-8.0.0) (2021-09-26)
 
 
 
