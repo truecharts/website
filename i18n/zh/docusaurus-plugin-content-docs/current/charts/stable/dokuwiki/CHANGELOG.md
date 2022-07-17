@@ -1,52 +1,52 @@
-# Changelog
+# 更新日志
 
 
 ## [dokuwiki-3.0.30](https://github.com/truecharts/apps/compare/dokuwiki-3.0.29...dokuwiki-3.0.30) (2022-07-16)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3192](https://github.com/truecharts/apps/issues/3192))
+- 更新一般的非主基座([#3192](https://github.com/truecharts/apps/issues/3192))
 
 
 
 ## [dokuwiki-3.0.29](https://github.com/truecharts/apps/compare/dokuwiki-3.0.28...dokuwiki-3.0.29) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [dokuwiki-3.0.28](https://github.com/truecharts/apps/compare/dokuwiki-3.0.26...dokuwiki-3.0.28) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [dokuwiki-3.0.26](https://github.com/truecharts/apps/compare/dokuwiki-3.0.25...dokuwiki-3.0.26) (2022-07-13)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3157](https://github.com/truecharts/apps/issues/3157))
+- 更新一般的非主码([#3157](https://github.com/truecharts/apps/issues/3157))
 
 
 
 ## [dokuwiki-3.0.25](https://github.com/truecharts/apps/compare/dokuwiki-3.0.23...dokuwiki-3.0.25) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [dokuwiki-3.0.23](https://github.com/truecharts/apps/compare/dokuwiki-3.0.22...dokuwiki-3.0.23) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -54,9 +54,9 @@
 
 ### [dokuwiki-3.0.22](https://github.com/truecharts/apps/compare/dokuwiki-3.0.21...dokuwiki-3.0.22) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -64,9 +64,9 @@
 
 ### [dokuwiki-3.0.21](https://github.com/truecharts/apps/compare/dokuwiki-3.0.20...dokuwiki-3.0.21) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -74,9 +74,9 @@
 
 ### [dokuwiki-3.0.20](https://github.com/truecharts/apps/compare/dokuwiki-3.0.19...dokuwiki-3.0.20) (2022-07-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3115](https://github.com/truecharts/apps/issues/3115))
+* 更新一般的非主要泊车位([#3115](https://github.com/truecharts/apps/issues/3115))
 
 
 
@@ -84,9 +84,9 @@
 
 ### [dokuwiki-3.0.19](https://github.com/truecharts/apps/compare/dokuwiki-3.0.18...dokuwiki-3.0.19) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -94,9 +94,9 @@
 
 ### [dokuwiki-3.0.18](https://github.com/truecharts/apps/compare/dokuwiki-3.0.17...dokuwiki-3.0.18) (2022-07-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3089](https://github.com/truecharts/apps/issues/3089))
+* 更新一般的非主基座([#3089](https://github.com/truecharts/apps/issues/3089))
 
 
 
@@ -104,9 +104,9 @@
 
 ### [dokuwiki-3.0.17](https://github.com/truecharts/apps/compare/dokuwiki-3.0.16...dokuwiki-3.0.17) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -114,9 +114,9 @@
 
 ### [dokuwiki-3.0.16](https://github.com/truecharts/apps/compare/dokuwiki-3.0.15...dokuwiki-3.0.16) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3061](https://github.com/truecharts/apps/issues/3061))
+* 更新一般的非主码([#3061](https://github.com/truecharts/apps/issues/3061))
 
 
 
@@ -124,9 +124,9 @@
 
 ### [dokuwiki-3.0.15](https://github.com/truecharts/apps/compare/dokuwiki-3.0.14...dokuwiki-3.0.15) (2022-07-01)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3015](https://github.com/truecharts/apps/issues/3015))
+* 更新一般的非主基座([#3015](https://github.com/truecharts/apps/issues/3015))
 
 
 
@@ -134,9 +134,9 @@
 
 ### [dokuwiki-3.0.14](https://github.com/truecharts/apps/compare/dokuwiki-3.0.13...dokuwiki-3.0.14) (2022-06-29)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3002](https://github.com/truecharts/apps/issues/3002))
+* 更新一般的非主码([#3002](https://github.com/truecharts/apps/issues/3002))
 
 
 
@@ -144,9 +144,9 @@
 
 ### [dokuwiki-3.0.13](https://github.com/truecharts/apps/compare/dokuwiki-3.0.12...dokuwiki-3.0.13) (2022-06-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2988](https://github.com/truecharts/apps/issues/2988))
+* 更新一般的非主码([#2988](https://github.com/truecharts/apps/issues/2988))
 
 
 
@@ -154,9 +154,9 @@
 
 ### [dokuwiki-3.0.12](https://github.com/truecharts/apps/compare/dokuwiki-3.0.11...dokuwiki-3.0.12) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -164,9 +164,9 @@
 
 ### [dokuwiki-3.0.11](https://github.com/truecharts/apps/compare/dokuwiki-3.0.10...dokuwiki-3.0.11) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2960](https://github.com/truecharts/apps/issues/2960))
+* 更新一般的非主码([#2960](https://github.com/truecharts/apps/issues/2960))
 
 
 
@@ -174,9 +174,9 @@
 
 ### [dokuwiki-3.0.10](https://github.com/truecharts/apps/compare/dokuwiki-3.0.9...dokuwiki-3.0.10) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -184,10 +184,10 @@
 
 ### [dokuwiki-3.0.9](https://github.com/truecharts/apps/compare/dokuwiki-3.0.8...dokuwiki-3.0.9) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
-* update docker general non-major ([#2931](https://github.com/truecharts/apps/issues/2931))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新一般的非主要泊车位([#2931](https://github.com/truecharts/apps/issues/2931))
 
 
 
@@ -195,9 +195,9 @@
 
 ### [dokuwiki-3.0.8](https://github.com/truecharts/apps/compare/dokuwiki-3.0.7...dokuwiki-3.0.8) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2917](https://github.com/truecharts/apps/issues/2917))
+* 更新一般的非主码([#2917](https://github.com/truecharts/apps/issues/2917))
 
 
 
@@ -205,9 +205,9 @@
 
 ### [dokuwiki-3.0.7](https://github.com/truecharts/apps/compare/dokuwiki-3.0.6...dokuwiki-3.0.7) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -215,9 +215,9 @@
 
 ### [dokuwiki-3.0.6](https://github.com/truecharts/apps/compare/dokuwiki-3.0.5...dokuwiki-3.0.6) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2872](https://github.com/truecharts/apps/issues/2872))
+* 更新一般的非主基座([#2872](https://github.com/truecharts/apps/issues/2872))
 
 
 
@@ -225,9 +225,9 @@
 
 ### [dokuwiki-3.0.5](https://github.com/truecharts/apps/compare/dokuwiki-3.0.4...dokuwiki-3.0.5) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -235,9 +235,9 @@
 
 ### [dokuwiki-3.0.4](https://github.com/truecharts/apps/compare/dokuwiki-3.0.3...dokuwiki-3.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2848](https://github.com/truecharts/apps/issues/2848))
+* 更新一般的非主基座([#2848](https://github.com/truecharts/apps/issues/2848))
 
 
 
@@ -245,9 +245,9 @@
 
 ### [dokuwiki-3.0.3](https://github.com/truecharts/apps/compare/dokuwiki-3.0.2...dokuwiki-3.0.3) (2022-06-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2846](https://github.com/truecharts/apps/issues/2846))
+* 更新一般的非主码([#2846](https://github.com/truecharts/apps/issues/2846))
 
 
 
@@ -255,9 +255,9 @@
 
 ### [dokuwiki-3.0.2](https://github.com/truecharts/apps/compare/dokuwiki-3.0.1...dokuwiki-3.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -265,18 +265,18 @@
 
 ### [dokuwiki-3.0.1](https://github.com/truecharts/apps/compare/dokuwiki-2.0.33...dokuwiki-3.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -284,13 +284,13 @@
 
 ### [dokuwiki-3.0.0](https://github.com/truecharts/apps/compare/dokuwiki-2.0.33...dokuwiki-3.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -298,9 +298,9 @@
 
 ### [dokuwiki-2.0.33](https://github.com/truecharts/apps/compare/dokuwiki-2.0.32...dokuwiki-2.0.33) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2826](https://github.com/truecharts/apps/issues/2826))
+* 更新一般的非主要泊车位([#2826](https://github.com/truecharts/apps/issues/2826))
 
 
 
@@ -308,9 +308,9 @@
 
 ### [dokuwiki-2.0.32](https://github.com/truecharts/apps/compare/dokuwiki-2.0.31...dokuwiki-2.0.32) (2022-06-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2821](https://github.com/truecharts/apps/issues/2821))
+* 更新一般的非主码([#2821](https://github.com/truecharts/apps/issues/2821))
 
 
 
@@ -318,9 +318,9 @@
 
 ### [dokuwiki-2.0.31](https://github.com/truecharts/apps/compare/dokuwiki-2.0.30...dokuwiki-2.0.31) (2022-06-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2806](https://github.com/truecharts/apps/issues/2806))
+* 更新一般的非主基座([#2806](https://github.com/truecharts/apps/issues/2806))
 
 
 
@@ -328,21 +328,10 @@
 
 ### [dokuwiki-2.0.30](https://github.com/truecharts/apps/compare/dokuwiki-2.0.29...dokuwiki-2.0.30) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-* update docker general non-major ([#2791](https://github.com/truecharts/apps/issues/2791))
-
-
-
-<a name="dokuwiki-2.0.29"></a>
-
-### [dokuwiki-2.0.29](https://github.com/truecharts/apps/compare/dokuwiki-2.0.28...dokuwiki-2.0.29) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
+* 更新一般的非主码([#2791](https://github.com/truecharts/apps/issues/2791))
 
 
 
@@ -350,9 +339,20 @@
 
 ### [dokuwiki-2.0.29](https://github.com/truecharts/apps/compare/dokuwiki-2.0.28...dokuwiki-2.0.29) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="dokuwiki-2.0.29"></a>
+
+### [dokuwiki-2.0.29](https://github.com/truecharts/apps/compare/dokuwiki-2.0.28...dokuwiki-2.0.29) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -360,9 +360,9 @@
 
 ### [dokuwiki-2.0.28](https://github.com/truecharts/apps/compare/dokuwiki-2.0.27...dokuwiki-2.0.28) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2756](https://github.com/truecharts/apps/issues/2756))
+* 更新一般的非主要泊位([#2756](https://github.com/truecharts/apps/issues/2756))
 
 
 
@@ -370,10 +370,10 @@
 
 ### [dokuwiki-2.0.27](https://github.com/truecharts/apps/compare/dokuwiki-2.0.26...dokuwiki-2.0.27) (2022-05-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2745](https://github.com/truecharts/apps/issues/2745))
-* update docker general non-major ([#2740](https://github.com/truecharts/apps/issues/2740))
+* 更新一般的非主码([#2745](https://github.com/truecharts/apps/issues/2745))
+* 更新一般的非主要泊位([#2740](https://github.com/truecharts/apps/issues/2740))
 
 
 
@@ -381,9 +381,9 @@
 
 ### [dokuwiki-2.0.26](https://github.com/truecharts/apps/compare/dokuwiki-2.0.25...dokuwiki-2.0.26) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -391,9 +391,9 @@
 
 ### [dokuwiki-2.0.25](https://github.com/truecharts/apps/compare/dokuwiki-2.0.24...dokuwiki-2.0.25) (2022-05-23)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2733](https://github.com/truecharts/apps/issues/2733))
+* 更新一般的非主要泊位([#2733](https://github.com/truecharts/apps/issues/2733))
 
 
 
@@ -401,10 +401,10 @@
 
 ### [dokuwiki-2.0.24](https://github.com/truecharts/apps/compare/dokuwiki-2.0.22...dokuwiki-2.0.24) (2022-05-22)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2730](https://github.com/truecharts/apps/issues/2730))
-* update docker general non-major ([#2720](https://github.com/truecharts/apps/issues/2720))
+* 更新一般的非主基座([#2730](https://github.com/truecharts/apps/issues/2730))
+* 更新一般的非主要泊位([#2720](https://github.com/truecharts/apps/issues/2720))
 
 
 
@@ -412,9 +412,9 @@
 
 ### [dokuwiki-2.0.22](https://github.com/truecharts/apps/compare/dokuwiki-2.0.21...dokuwiki-2.0.22) (2022-05-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2711](https://github.com/truecharts/apps/issues/2711))
+* 更新一般的非主码([#2711](https://github.com/truecharts/apps/issues/2711))
 
 
 
@@ -422,11 +422,11 @@
 
 ### [dokuwiki-2.0.21](https://github.com/truecharts/apps/compare/dokuwiki-2.0.19...dokuwiki-2.0.21) (2022-05-18)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update docker general non-major ([#2706](https://github.com/truecharts/apps/issues/2706))
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新一般的非主基座([#2706](https://github.com/truecharts/apps/issues/2706))
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -434,9 +434,9 @@
 
 ### [dokuwiki-2.0.20](https://github.com/truecharts/apps/compare/dokuwiki-2.0.19...dokuwiki-2.0.20) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -444,9 +444,9 @@
 
 ### [dokuwiki-2.0.19](https://github.com/truecharts/apps/compare/dokuwiki-2.0.18...dokuwiki-2.0.19) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -454,9 +454,9 @@
 
 ### [dokuwiki-2.0.18](https://github.com/truecharts/apps/compare/dokuwiki-2.0.17...dokuwiki-2.0.18) (2022-05-16)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2692](https://github.com/truecharts/apps/issues/2692))
+* 更新一般的非主码([#2692](https://github.com/truecharts/apps/issues/2692))
 
 
 
@@ -464,9 +464,9 @@
 
 ### [dokuwiki-2.0.17](https://github.com/truecharts/apps/compare/dokuwiki-2.0.16...dokuwiki-2.0.17) (2022-05-14)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2679](https://github.com/truecharts/apps/issues/2679))
+* 更新一般的非主基座([#2679](https://github.com/truecharts/apps/issues/2679))
 
 
 
@@ -474,9 +474,9 @@
 
 ### [dokuwiki-2.0.16](https://github.com/truecharts/apps/compare/dokuwiki-2.0.15...dokuwiki-2.0.16) (2022-05-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2658](https://github.com/truecharts/apps/issues/2658))
+* 更新一般的非主码([#2658](https://github.com/truecharts/apps/issues/2658))
 
 
 
@@ -484,9 +484,9 @@
 
 ### [dokuwiki-2.0.15](https://github.com/truecharts/apps/compare/dokuwiki-2.0.14...dokuwiki-2.0.15) (2022-05-11)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2653](https://github.com/truecharts/apps/issues/2653))
+* 更新一般的非主基座([#2653](https://github.com/truecharts/apps/issues/2653))
 
 
 
@@ -494,9 +494,9 @@
 
 ### [dokuwiki-2.0.14](https://github.com/truecharts/apps/compare/dokuwiki-2.0.13...dokuwiki-2.0.14) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -504,9 +504,9 @@
 
 ### [dokuwiki-2.0.13](https://github.com/truecharts/apps/compare/dokuwiki-2.0.12...dokuwiki-2.0.13) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -514,9 +514,9 @@
 
 ### [dokuwiki-2.0.12](https://github.com/truecharts/apps/compare/dokuwiki-2.0.11...dokuwiki-2.0.12) (2022-05-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2641](https://github.com/truecharts/apps/issues/2641))
+* 更新一般的非主码([#2641](https://github.com/truecharts/apps/issues/2641))
 
 
 
@@ -524,9 +524,9 @@
 
 ### [dokuwiki-2.0.11](https://github.com/truecharts/apps/compare/dokuwiki-2.0.10...dokuwiki-2.0.11) (2022-05-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2639](https://github.com/truecharts/apps/issues/2639))
+* 更新一般的非主码([#2639](https://github.com/truecharts/apps/issues/2639))
 
 
 
@@ -534,9 +534,9 @@
 
 ### [dokuwiki-2.0.10](https://github.com/truecharts/apps/compare/dokuwiki-2.0.9...dokuwiki-2.0.10) (2022-05-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -544,9 +544,9 @@
 
 ### [dokuwiki-2.0.9](https://github.com/truecharts/apps/compare/dokuwiki-2.0.8...dokuwiki-2.0.9) (2022-05-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -554,9 +554,9 @@
 
 ### [dokuwiki-2.0.8](https://github.com/truecharts/apps/compare/dokuwiki-2.0.7...dokuwiki-2.0.8) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -564,9 +564,9 @@
 
 ### [dokuwiki-2.0.7](https://github.com/truecharts/apps/compare/dokuwiki-2.0.6...dokuwiki-2.0.7) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2606](https://github.com/truecharts/apps/issues/2606))
+* 更新一般的非主码([#2606](https://github.com/truecharts/apps/issues/2606))
 
 
 
@@ -574,9 +574,9 @@
 
 ### [dokuwiki-2.0.6](https://github.com/truecharts/apps/compare/dokuwiki-2.0.5...dokuwiki-2.0.6) (2022-04-29)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2581](https://github.com/truecharts/apps/issues/2581))
+* 更新一般的非主码([#2581](https://github.com/truecharts/apps/issues/2581))
 
 
 
@@ -584,9 +584,9 @@
 
 ### [dokuwiki-2.0.5](https://github.com/truecharts/apps/compare/dokuwiki-2.0.4...dokuwiki-2.0.5) (2022-04-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2577](https://github.com/truecharts/apps/issues/2577))
+* 更新一般的非主码([#2577](https://github.com/truecharts/apps/issues/2577))
 
 
 
@@ -594,9 +594,9 @@
 
 ### [dokuwiki-2.0.4](https://github.com/truecharts/apps/compare/dokuwiki-2.0.3...dokuwiki-2.0.4) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -604,9 +604,9 @@
 
 ### [dokuwiki-2.0.3](https://github.com/truecharts/apps/compare/dokuwiki-2.0.2...dokuwiki-2.0.3) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2571](https://github.com/truecharts/apps/issues/2571))
+* 更新一般的非主码([#2571](https://github.com/truecharts/apps/issues/2571))
 
 
 
@@ -614,9 +614,9 @@
 
 ### [dokuwiki-2.0.2](https://github.com/truecharts/apps/compare/dokuwiki-2.0.1...dokuwiki-2.0.2) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -624,10 +624,10 @@
 
 ### [dokuwiki-2.0.1](https://github.com/truecharts/apps/compare/dokuwiki-2.0.0...dokuwiki-2.0.1) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update docker general non-major ([#2522](https://github.com/truecharts/apps/issues/2522))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新停靠一般的非主要泊位([#2522](https://github.com/truecharts/apps/issues/2522))
 
 
 
@@ -637,7 +637,7 @@
 
 #### Feat
 
-* BREAKING CHANGE - Switch to bitnami image ([#2500](https://github.com/truecharts/apps/issues/2500))
+* 购买更改 - 切换到 bitnami 图像 ([#2500](https://github.com/truecharts/apps/issues/2500))
 
 
 
@@ -645,9 +645,9 @@
 
 ### [dokuwiki-1.0.10](https://github.com/truecharts/apps/compare/dokuwiki-1.0.9...dokuwiki-1.0.10) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -655,9 +655,9 @@
 
 ### [dokuwiki-1.0.9](https://github.com/truecharts/apps/compare/dokuwiki-1.0.8...dokuwiki-1.0.9) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
@@ -665,9 +665,9 @@
 
 ### [dokuwiki-1.0.8](https://github.com/truecharts/apps/compare/dokuwiki-1.0.7...dokuwiki-1.0.8) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
@@ -675,9 +675,9 @@
 
 ### [dokuwiki-1.0.7](https://github.com/truecharts/apps/compare/dokuwiki-1.0.6...dokuwiki-1.0.7) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
@@ -685,9 +685,9 @@
 
 ### [dokuwiki-1.0.6](https://github.com/truecharts/apps/compare/dokuwiki-1.0.5...dokuwiki-1.0.6) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -695,10 +695,10 @@
 
 ### [dokuwiki-1.0.1](https://github.com/truecharts/apps/compare/dokuwiki-1.0.0...dokuwiki-1.0.1) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2111](https://github.com/truecharts/apps/issues/2111))
-* Remove `-icon` string from icon png's ([#2040](https://github.com/truecharts/apps/issues/2040))
+* 更新头盔的一般非主头盔版本([#211](https://github.com/truecharts/apps/issues/2111))
+* 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
 
@@ -706,16 +706,16 @@
 
 ### [dokuwiki-1.0.0](https://github.com/truecharts/apps/compare/dokuwiki-0.0.23...dokuwiki-1.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* remove PUID from per-app env-vars if set to 568
-* remove empty env var declaration from questions.yaml
-* update helm general major helm releases ([#2021](https://github.com/truecharts/apps/issues/2021))
+* 从问题.yaml 中移除固定的 env
+* 如果设置为 568 则从每个应用程序的 env-vars 中删除 PUID
+* 从问题.yaml 中删除空的 env var 声明
+* 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
@@ -723,10 +723,10 @@
 
 ### [dokuwiki-0.0.23](https://github.com/truecharts/apps/compare/dokuwiki-0.0.22...dokuwiki-0.0.23) (2022-03-02)
 
-#### Chore
+#### 聊天
 
-* rename `web_portal` to `open` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* update helm general non-major helm releases ([#1999](https://github.com/truecharts/apps/issues/1999))
+* 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
+* 更新头盔的一般非主要头盔版本([#1999](https://github.com/truecharts/apps/issues/1999))
 
 
 
@@ -734,9 +734,9 @@
 
 ### [dokuwiki-0.0.22](https://github.com/truecharts/apps/compare/dokuwiki-0.0.21...dokuwiki-0.0.22) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1927](https://github.com/truecharts/apps/issues/1927))
+* 更新头盔的一般非主要头盔版本([#1927](https://github.com/truecharts/apps/issues/1927))
 
 
 
@@ -744,9 +744,9 @@
 
 ### [dokuwiki-0.0.21](https://github.com/truecharts/apps/compare/dokuwiki-0.0.20...dokuwiki-0.0.21) (2022-02-15)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1901](https://github.com/truecharts/apps/issues/1901))
+* 更新头盔的一般非主要头盔版本([#1901](https://github.com/truecharts/apps/issues/1901))
 
 
 
@@ -754,9 +754,9 @@
 
 ### [dokuwiki-0.0.20](https://github.com/truecharts/apps/compare/dokuwiki-0.0.19...dokuwiki-0.0.20) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1871](https://github.com/truecharts/apps/issues/1871))
+* 更新头盔的一般非主头盔版本([#1871](https://github.com/truecharts/apps/issues/1871))
 
 
 
@@ -764,9 +764,9 @@
 
 ### [dokuwiki-0.0.19](https://github.com/truecharts/apps/compare/dokuwiki-0.0.18...dokuwiki-0.0.19) (2022-02-06)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.0 ([#1859](https://github.com/truecharts/apps/issues/1859))
+* 更新通用的 v8.15.0 头盔图表([#1859](https://github.com/truecharts/apps/issues/1859))
 
 
 
@@ -774,9 +774,9 @@
 
 ### [dokuwiki-0.0.18](https://github.com/truecharts/apps/compare/dokuwiki-0.0.17...dokuwiki-0.0.18) (2022-02-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1852](https://github.com/truecharts/apps/issues/1852))
+* 更新头盔的一般非主头盔版本([#1852](https://github.com/truecharts/apps/issues/1852))
 
 
 
@@ -784,9 +784,9 @@
 
 ### [dokuwiki-0.0.17](https://github.com/truecharts/apps/compare/dokuwiki-0.0.16...dokuwiki-0.0.17) (2022-02-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1828](https://github.com/truecharts/apps/issues/1828))
+* 更新头盔的一般非主要头盔版本([#1828](https://github.com/truecharts/apps/issues/1828))
 
 
 
@@ -794,9 +794,9 @@
 
 ### [dokuwiki-0.0.16](https://github.com/truecharts/apps/compare/dokuwiki-0.0.15...dokuwiki-0.0.16) (2022-01-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1791](https://github.com/truecharts/apps/issues/1791))
+* 更新头盔的一般非主头盔版本([#1791](https://github.com/truecharts/apps/issues/1791))
 
 
 
@@ -804,9 +804,9 @@
 
 ### [dokuwiki-0.0.15](https://github.com/truecharts/apps/compare/dokuwiki-0.0.14...dokuwiki-0.0.15) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1766](https://github.com/truecharts/apps/issues/1766))
+* 更新头盔的一般非主头盔版本([#1766](https://github.com/truecharts/apps/issues/1766))
 
 
 
@@ -814,13 +814,13 @@
 
 ### [dokuwiki-0.0.14](https://github.com/truecharts/apps/compare/dokuwiki-0.0.13...dokuwiki-0.0.14) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1759](https://github.com/truecharts/apps/issues/1759))
+* 更新头盔的一般非主要头盔版本([#1759](https://github.com/truecharts/apps/issues/1759))
 
-#### Fix
+#### 修复
 
-* set additional_attrs: true on all dicts ([#1750](https://github.com/truecharts/apps/issues/1750))
+* 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
 
 
 
@@ -828,9 +828,9 @@
 
 ### [dokuwiki-0.0.13](https://github.com/truecharts/apps/compare/dokuwiki-0.0.12...dokuwiki-0.0.13) (2022-01-18)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1732](https://github.com/truecharts/apps/issues/1732))
+* 更新头盔的一般非主头盔版本([#1732](https://github.com/truecharts/apps/issues/1732))
 
 
 
@@ -838,13 +838,13 @@
 
 ### [dokuwiki-0.0.12](https://github.com/truecharts/apps/compare/dokuwiki-0.0.11...dokuwiki-0.0.12) (2022-01-13)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1712](https://github.com/truecharts/apps/issues/1712))
+* 更新头盔的一般非主头盔版本([#1712](https://github.com/truecharts/apps/issues/1712))
 
 #### Feat
 
-* expose capabilities in GUI ([#1709](https://github.com/truecharts/apps/issues/1709))
+* 在图形界面显示能力 ([#1709](https://github.com/truecharts/apps/issues/1709))
 
 
 
@@ -852,9 +852,9 @@
 
 ### [dokuwiki-0.0.11](https://github.com/truecharts/apps/compare/dokuwiki-0.0.10...dokuwiki-0.0.11) (2022-01-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1704](https://github.com/truecharts/apps/issues/1704))
+* 更新头盔的一般非主头盔版本([#1704](https://github.com/truecharts/apps/issues/1704))
 
 
 
@@ -862,9 +862,9 @@
 
 ### [dokuwiki-0.0.10](https://github.com/truecharts/apps/compare/dokuwiki-0.0.9...dokuwiki-0.0.10) (2022-01-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1693](https://github.com/truecharts/apps/issues/1693))
+* 更新头盔的一般非主要头盔版本([#1693](https://github.com/truecharts/apps/issues/1693))
 
 
 
@@ -872,9 +872,9 @@
 
 ### [dokuwiki-0.0.9](https://github.com/truecharts/apps/compare/dokuwiki-0.0.8...dokuwiki-0.0.9) (2022-01-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -882,9 +882,9 @@
 
 ### [dokuwiki-0.0.8](https://github.com/truecharts/apps/compare/dokuwiki-0.0.7...dokuwiki-0.0.8) (2021-12-28)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1623](https://github.com/truecharts/apps/issues/1623))
+* 更新头盔的一般非主要头盔版本([#1623](https://github.com/truecharts/apps/issues/1623))
 
 
 
@@ -892,9 +892,9 @@
 
 ### [dokuwiki-0.0.7](https://github.com/truecharts/apps/compare/dokuwiki-0.0.6...dokuwiki-0.0.7) (2021-12-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1596](https://github.com/truecharts/apps/issues/1596))
+* 更新头盔的一般非主头盔版本([#1596](https://github.com/truecharts/apps/issues/1596))
 
 
 
@@ -902,9 +902,9 @@
 
 ### [dokuwiki-0.0.6](https://github.com/truecharts/apps/compare/dokuwiki-0.0.5...dokuwiki-0.0.6) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* Last patch bump before RC2 branch-off
+* 上次补丁后的 RC2 分支关闭
 
 
 
@@ -912,10 +912,10 @@
 
 ### [dokuwiki-0.0.5](https://github.com/truecharts/apps/compare/dokuwiki-0.0.4...dokuwiki-0.0.5) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* completely remove mountPath reference from GUI ([#1572](https://github.com/truecharts/apps/issues/1572))
-* update helm general non-major helm releases ([#1571](https://github.com/truecharts/apps/issues/1571))
+* 完全从图形界面移除挂载路径引用([#152](https://github.com/truecharts/apps/issues/1572))
+* 更新头盔的一般非主头盔版本([#1571](https://github.com/truecharts/apps/issues/1571))
 
 
 
@@ -923,10 +923,10 @@
 
 ### [dokuwiki-0.0.4](https://github.com/truecharts/apps/compare/dokuwiki-0.0.3...dokuwiki-0.0.4) (2021-12-18)
 
-#### Chore
+#### 聊天
 
-* cleanup questions by removing hidden dicts ([#1558](https://github.com/truecharts/apps/issues/1558))
-* App-Icon Organization ([#1539](https://github.com/truecharts/apps/issues/1539))
+* 通过删除隐藏的口令清理问题([#1558](https://github.com/truecharts/apps/issues/1558))
+* 应用图标组织([#1539](https://github.com/truecharts/apps/issues/1539))
 
 
 
@@ -934,9 +934,9 @@
 
 ### [dokuwiki-0.0.3](https://github.com/truecharts/apps/compare/dokuwiki-0.0.2...dokuwiki-0.0.3) (2021-12-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1535](https://github.com/truecharts/apps/issues/1535))
+* 更新头盔的一般非主头盔版本([#1535](https://github.com/truecharts/apps/issues/1535))
 
 
 
@@ -944,9 +944,9 @@
 
 ### [dokuwiki-0.0.2](https://github.com/truecharts/apps/compare/dokuwiki-0.0.1...dokuwiki-0.0.2) (2021-12-13)
 
-#### Chore
+#### 聊天
 
-* move incubator apps to stable and bump everything
+* 将孵化器应用程序移动到稳定和凸显所有
 
 
 
