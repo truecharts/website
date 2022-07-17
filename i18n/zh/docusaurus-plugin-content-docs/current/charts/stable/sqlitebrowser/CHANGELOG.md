@@ -571,7 +571,7 @@
 
 <a name="sqlitebrowser-1.0.27"></a>
 
-### [sqlitebrowser-1.0.27](https://github.com/truecharts/apps/compare/sqlitebrowser-1.0.26...sqlitebrowser-1.0.27) (2021-12-18)
+### [sqlitebrowser-1.0.27](https://github.com/truecharts/apps/compare/sqlitebrowser-1.0.26...sqlitebrowser-1.0.27) (2021-12-18岁)
 
 #### 聊天
 
