@@ -506,7 +506,7 @@
 
 #### 聊天
 
-* Add NODE_ENV on GUI ([#1808](https://github.com/truecharts/apps/issues/1808))
+* 在 GUI 上添加 NODE_ENV ([#1808](https://github.com/truecharts/apps/issues/1808))
 
 
 
@@ -516,7 +516,7 @@
 
 #### Feat
 
-* add admin portal ([#1803](https://github.com/truecharts/apps/issues/1803))
+* 添加管理端口([#1803](https://github.com/truecharts/apps/issues/1803))
 
 
 
@@ -526,4 +526,4 @@
 
 #### Feat
 
-* Add strapi ([#1800](https://github.com/truecharts/apps/issues/1800))
+* 添加strapi([#1800](https://github.com/truecharts/apps/issues/1800))
