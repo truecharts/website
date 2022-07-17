@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [handbrake-13.0.19](https://github.com/truecharts/apps/compare/handbrake-13.0.18...handbrake-13.0.19) (2022-07-14)
+## [手制13.0.19](https://github.com/truecharts/apps/compare/handbrake-13.0.18...handbrake-13.0.19) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [handbrake-13.0.18](https://github.com/truecharts/apps/compare/handbrake-13.0.16...handbrake-13.0.18) (2022-07-14)
+## [手制13.0.18](https://github.com/truecharts/apps/compare/handbrake-13.0.16...handbrake-13.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [handbrake-13.0.16](https://github.com/truecharts/apps/compare/handbrake-13.0.14...handbrake-13.0.16) (2022-07-12)
+## [手制13.0.16](https://github.com/truecharts/apps/compare/handbrake-13.0.14...handbrake-13.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [handbrake-13.0.14](https://github.com/truecharts/apps/compare/handbrake-13.0.13...handbrake-13.0.14) (2022-07-12)
+## [手制13.0.14](https://github.com/truecharts/apps/compare/handbrake-13.0.13...handbrake-13.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="handbrake-13.0.13"></a>
 
-### [handbrake-13.0.13](https://github.com/truecharts/apps/compare/handbrake-13.0.12...handbrake-13.0.13) (2022-07-12)
+### [手制13.0.13](https://github.com/truecharts/apps/compare/handbrake-13.0.12...handbrake-13.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="handbrake-13.0.12"></a>
 
-### [handbrake-13.0.12](https://github.com/truecharts/apps/compare/handbrake-13.0.11...handbrake-13.0.12) (2022-07-11)
+### [手制13.0.12](https://github.com/truecharts/apps/compare/handbrake-13.0.11...handbrake-13.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -57,7 +57,7 @@
 
 <a name="handbrake-13.0.11"></a>
 
-### [handbrake-13.0.11](https://github.com/truecharts/apps/compare/handbrake-13.0.10...handbrake-13.0.11) (2022-07-09)
+### [手制13.0.11](https://github.com/truecharts/apps/compare/handbrake-13.0.10...handbrake-13.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -67,7 +67,7 @@
 
 <a name="handbrake-13.0.10"></a>
 
-### [handbrake-13.0.10](https://github.com/truecharts/apps/compare/handbrake-13.0.9...handbrake-13.0.10) (2022-07-05)
+### [手制13.0.10](https://github.com/truecharts/apps/compare/handbrake-13.0.9...handbrake-13.0.10) (2022-07-05)
 
 #### Feat
 
@@ -77,7 +77,7 @@
 
 <a name="handbrake-13.0.9"></a>
 
-### [handbrake-13.0.9](https://github.com/truecharts/apps/compare/handbrake-13.0.8...handbrake-13.0.9) (2022-07-04)
+### [手制13.0.9](https://github.com/truecharts/apps/compare/handbrake-13.0.8...handbrake-13.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -87,7 +87,7 @@
 
 <a name="handbrake-13.0.8"></a>
 
-### [handbrake-13.0.8](https://github.com/truecharts/apps/compare/handbrake-13.0.7...handbrake-13.0.8) (2022-06-29)
+### [手制13.0.8](https://github.com/truecharts/apps/compare/handbrake-13.0.7...handbrake-13.0.8) (2022-06-29)
 
 #### 聊天
 
@@ -97,7 +97,7 @@
 
 <a name="handbrake-13.0.7"></a>
 
-### [handbrake-13.0.7](https://github.com/truecharts/apps/compare/handbrake-13.0.6...handbrake-13.0.7) (2022-06-25)
+### [手制13.0.7](https://github.com/truecharts/apps/compare/handbrake-13.0.6...handbrake-13.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -107,7 +107,7 @@
 
 <a name="handbrake-13.0.6"></a>
 
-### [handbrake-13.0.6](https://github.com/truecharts/apps/compare/handbrake-13.0.5...handbrake-13.0.6) (2022-06-22)
+### [手制13.0.6](https://github.com/truecharts/apps/compare/handbrake-13.0.5...handbrake-13.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -117,7 +117,7 @@
 
 <a name="handbrake-13.0.5"></a>
 
-### [handbrake-13.0.5](https://github.com/truecharts/apps/compare/handbrake-13.0.4...handbrake-13.0.5) (2022-06-21)
+### [手制13.0.5](https://github.com/truecharts/apps/compare/handbrake-13.0.4...handbrake-13.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -127,7 +127,7 @@
 
 <a name="handbrake-13.0.4"></a>
 
-### [handbrake-13.0.4](https://github.com/truecharts/apps/compare/handbrake-13.0.3...handbrake-13.0.4) (2022-06-14)
+### [手制13.0.4](https://github.com/truecharts/apps/compare/handbrake-13.0.3...handbrake-13.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -137,7 +137,7 @@
 
 <a name="handbrake-13.0.3"></a>
 
-### [handbrake-13.0.3](https://github.com/truecharts/apps/compare/handbrake-13.0.2...handbrake-13.0.3) (2022-06-11)
+### [手制13.0.3](https://github.com/truecharts/apps/compare/handbrake-13.0.2...handbrake-13.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -147,7 +147,7 @@
 
 <a name="handbrake-13.0.2"></a>
 
-### [handbrake-13.0.2](https://github.com/truecharts/apps/compare/handbrake-13.0.1...handbrake-13.0.2) (2022-06-07)
+### [手制13.0.2](https://github.com/truecharts/apps/compare/handbrake-13.0.1...handbrake-13.0.2) (2022-06-07)
 
 #### 修复
 
@@ -157,7 +157,7 @@
 
 <a name="handbrake-13.0.1"></a>
 
-### [handbrake-13.0.1](https://github.com/truecharts/apps/compare/handbrake-12.0.17...handbrake-13.0.1) (2022-06-07)
+### [手制13.0.1](https://github.com/truecharts/apps/compare/handbrake-12.0.17...handbrake-13.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="handbrake-12.0.17"></a>
 
-### [handbrake-12.0.17](https://github.com/truecharts/apps/compare/handbrake-12.0.16...handbrake-12.0.17) (2022-05-31)
+### [手制12.0.17](https://github.com/truecharts/apps/compare/handbrake-12.0.16...handbrake-12.0.17) (2022-05-31)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="handbrake-12.0.15"></a>
 
-### [handbrake-12.0.15](https://github.com/truecharts/apps/compare/handbrake-12.0.14...handbrake-12.0.15) (2022-05-24)
+### [手制12.0.15](https://github.com/truecharts/apps/compare/handbrake-12.0.14...handbrake-12.0.15) (2022-05-24)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="handbrake-12.0.14"></a>
 
-### [handbrake-12.0.14](https://github.com/truecharts/apps/compare/handbrake-12.0.13...handbrake-12.0.14) (2022-05-17)
+### [手制12.0.14](https://github.com/truecharts/apps/compare/handbrake-12.0.13...handbrake-12.0.14) (2022-05-17)
 
 #### 聊天
 
@@ -242,7 +242,7 @@
 
 <a name="handbrake-12.0.14"></a>
 
-### [handbrake-12.0.14](https://github.com/truecharts/apps/compare/handbrake-12.0.13...handbrake-12.0.14) (2022-05-17)
+### [手制12.0.14](https://github.com/truecharts/apps/compare/handbrake-12.0.13...handbrake-12.0.14) (2022-05-17)
 
 #### 聊天
 
@@ -262,7 +262,7 @@
 
 <a name="handbrake-12.0.12"></a>
 
-### [handbrake-12.0.12](https://github.com/truecharts/apps/compare/handbrake-12.0.11...handbrake-12.0.12) (2022-05-10)
+### [手制12.0.12](https://github.com/truecharts/apps/compare/handbrake-12.0.11...handbrake-12.0.12) (2022-05-10)
 
 #### 聊天
 
@@ -272,7 +272,7 @@
 
 <a name="handbrake-12.0.11"></a>
 
-### [handbrake-12.0.11](https://github.com/truecharts/apps/compare/handbrake-12.0.10...handbrake-12.0.11) (2022-05-05)
+### [手制12.0.11](https://github.com/truecharts/apps/compare/handbrake-12.0.10...handbrake-12.0.11) (2022-05-05)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="handbrake-12.0.10"></a>
 
-### [handbrake-12.0.10](https://github.com/truecharts/apps/compare/handbrake-12.0.9...handbrake-12.0.10) (2022-04-26)
+### [手制12.0.10](https://github.com/truecharts/apps/compare/handbrake-12.0.9...handbrake-12.0.10) (2022-04-26)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="handbrake-12.0.9"></a>
 
-### [handbrake-12.0.9](https://github.com/truecharts/apps/compare/handbrake-12.0.8...handbrake-12.0.9) (2022-04-20)
+### [手制12.0.9](https://github.com/truecharts/apps/compare/handbrake-12.0.8...handbrake-12.0.9) (2022-04-20)
 
 #### 聊天
 
@@ -303,7 +303,7 @@
 
 <a name="handbrake-12.0.8"></a>
 
-### [handbrake-12.0.8](https://github.com/truecharts/apps/compare/handbrake-12.0.7...handbrake-12.0.8) (2022-04-12)
+### [手制12.0.8](https://github.com/truecharts/apps/compare/handbrake-12.0.7...handbrake-12.0.8) (2022-04-12)
 
 #### 聊天
 
@@ -313,7 +313,7 @@
 
 <a name="handbrake-12.0.7"></a>
 
-### [handbrake-12.0.7](https://github.com/truecharts/apps/compare/handbrake-12.0.6...handbrake-12.0.7) (2022-04-03)
+### [手制12.0.7](https://github.com/truecharts/apps/compare/handbrake-12.0.6...handbrake-12.0.7) (2022-04-03)
 
 #### 聊天
 
@@ -323,7 +323,7 @@
 
 <a name="handbrake-12.0.6"></a>
 
-### [handbrake-12.0.6](https://github.com/truecharts/apps/compare/handbrake-12.0.5...handbrake-12.0.6) (2022-03-31)
+### [手制12.0.6](https://github.com/truecharts/apps/compare/handbrake-12.0.5...handbrake-12.0.6) (2022-03-31)
 
 #### 聊天
 
@@ -333,7 +333,7 @@
 
 <a name="handbrake-12.0.5"></a>
 
-### [handbrake-12.0.5](https://github.com/truecharts/apps/compare/handbrake-12.0.4...handbrake-12.0.5) (2022-03-30)
+### [手制12.0.5](https://github.com/truecharts/apps/compare/handbrake-12.0.4...handbrake-12.0.5) (2022-03-30)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="handbrake-12.0.4"></a>
 
-### [handbrake-12.0.4](https://github.com/truecharts/apps/compare/handbrake-12.0.3...handbrake-12.0.4) (2022-03-26)
+### [手制12.0.4](https://github.com/truecharts/apps/compare/handbrake-12.0.3...handbrake-12.0.4) (2022-03-26)
 
 #### 聊天
 
@@ -353,17 +353,17 @@
 
 <a name="handbrake-12.0.0"></a>
 
-### [handbrake-12.0.0](https://github.com/truecharts/apps/compare/handbrake-11.0.2...handbrake-12.0.0) (2022-03-17)
+### [手制12.0.0](https://github.com/truecharts/apps/compare/handbrake-11.0.2...handbrake-12.0.0) (2022-03-17)
 
 #### Feat
 
-* make gui easier - Breaking Change ([#2153](https://github.com/truecharts/apps/issues/2153))
+* 让界面更加容易-打破更改 ([#215](https://github.com/truecharts/apps/issues/2153))
 
 
 
 <a name="handbrake-11.0.1"></a>
 
-### [handbrake-11.0.1](https://github.com/truecharts/apps/compare/handbrake-11.0.0...handbrake-11.0.1) (2022-03-07)
+### [手制11.0.1](https://github.com/truecharts/apps/compare/handbrake-11.0.0...handbrake-11.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="handbrake-10.0.23"></a>
 
-### [handbrake-10.0.23](https://github.com/truecharts/apps/compare/handbrake-10.0.22...handbrake-10.0.23) (2022-03-02)
+### [手制10.0.23](https://github.com/truecharts/apps/compare/handbrake-10.0.22...handbrake-10.0.23) (2022-03-02)
 
 #### 聊天
 
@@ -402,7 +402,7 @@
 
 <a name="handbrake-10.0.22"></a>
 
-### [handbrake-10.0.22](https://github.com/truecharts/apps/compare/handbrake-10.0.21...handbrake-10.0.22) (2022-02-21)
+### [手制10.0.22](https://github.com/truecharts/apps/compare/handbrake-10.0.21...handbrake-10.0.22) (2022-02-21)
 
 #### 聊天
 
@@ -412,7 +412,7 @@
 
 <a name="handbrake-10.0.21"></a>
 
-### [handbrake-10.0.21](https://github.com/truecharts/apps/compare/handbrake-10.0.20...handbrake-10.0.21) (2022-02-15)
+### [手制10.0.21](https://github.com/truecharts/apps/compare/handbrake-10.0.20...handbrake-10.0.21) (2022-02-15)
 
 #### 聊天
 
@@ -422,7 +422,7 @@
 
 <a name="handbrake-10.0.20"></a>
 
-### [handbrake-10.0.20](https://github.com/truecharts/apps/compare/handbrake-10.0.19...handbrake-10.0.20) (2022-02-08)
+### [手制10.0.20](https://github.com/truecharts/apps/compare/handbrake-10.0.19...handbrake-10.0.20) (2022-02-08)
 
 #### 聊天
 
@@ -432,7 +432,7 @@
 
 <a name="handbrake-10.0.19"></a>
 
-### [handbrake-10.0.19](https://github.com/truecharts/apps/compare/handbrake-10.0.18...handbrake-10.0.19) (2022-02-06)
+### [手制10.0.19](https://github.com/truecharts/apps/compare/handbrake-10.0.18...handbrake-10.0.19) (2022-02-06)
 
 #### 聊天
 
@@ -442,7 +442,7 @@
 
 <a name="handbrake-10.0.18"></a>
 
-### [handbrake-10.0.18](https://github.com/truecharts/apps/compare/handbrake-10.0.17...handbrake-10.0.18) (2022-02-05)
+### [手制10.0.18](https://github.com/truecharts/apps/compare/handbrake-10.0.17...handbrake-10.0.18) (2022-02-05)
 
 #### 聊天
 
@@ -452,7 +452,7 @@
 
 <a name="handbrake-10.0.17"></a>
 
-### [handbrake-10.0.17](https://github.com/truecharts/apps/compare/handbrake-10.0.16...handbrake-10.0.17) (2022-02-02)
+### [手制10.0.17](https://github.com/truecharts/apps/compare/handbrake-10.0.16...handbrake-10.0.17) (2022-02-02)
 
 #### 聊天
 
@@ -462,7 +462,7 @@
 
 <a name="handbrake-10.0.16"></a>
 
-### [handbrake-10.0.16](https://github.com/truecharts/apps/compare/handbrake-10.0.15...handbrake-10.0.16) (2022-01-25)
+### [手制10.0.16](https://github.com/truecharts/apps/compare/handbrake-10.0.15...handbrake-10.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -472,7 +472,7 @@
 
 <a name="handbrake-10.0.15"></a>
 
-### [handbrake-10.0.15](https://github.com/truecharts/apps/compare/handbrake-10.0.14...handbrake-10.0.15) (2022-01-22)
+### [手制10.0.15](https://github.com/truecharts/apps/compare/handbrake-10.0.14...handbrake-10.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -482,7 +482,7 @@
 
 <a name="handbrake-10.0.14"></a>
 
-### [handbrake-10.0.14](https://github.com/truecharts/apps/compare/handbrake-10.0.13...handbrake-10.0.14) (2022-01-21)
+### [手制10.0.14](https://github.com/truecharts/apps/compare/handbrake-10.0.13...handbrake-10.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -506,7 +506,7 @@
 
 <a name="handbrake-10.0.12"></a>
 
-### [handbrake-10.0.12](https://github.com/truecharts/apps/compare/handbrake-10.0.11...handbrake-10.0.12) (2022-01-13)
+### [手制10.0.12](https://github.com/truecharts/apps/compare/handbrake-10.0.11...handbrake-10.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -520,7 +520,7 @@
 
 <a name="handbrake-10.0.11"></a>
 
-### [handbrake-10.0.11](https://github.com/truecharts/apps/compare/handbrake-10.0.10...handbrake-10.0.11) (2022-01-12)
+### [手制10.0.11](https://github.com/truecharts/apps/compare/handbrake-10.0.10...handbrake-10.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -530,7 +530,7 @@
 
 <a name="handbrake-10.0.10"></a>
 
-### [handbrake-10.0.10](https://github.com/truecharts/apps/compare/handbrake-10.0.9...handbrake-10.0.10) (2022-01-11)
+### [手制10.0.10](https://github.com/truecharts/apps/compare/handbrake-10.0.9...handbrake-10.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -540,7 +540,7 @@
 
 <a name="handbrake-10.0.9"></a>
 
-### [handbrake-10.0.9](https://github.com/truecharts/apps/compare/handbrake-10.0.8...handbrake-10.0.9) (2022-01-04)
+### [手制10.0.9](https://github.com/truecharts/apps/compare/handbrake-10.0.8...handbrake-10.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="handbrake-10.0.8"></a>
 
-### [handbrake-10.0.8](https://github.com/truecharts/apps/compare/handbrake-10.0.7...handbrake-10.0.8) (2021-12-28)
+### [手制10.0.8](https://github.com/truecharts/apps/compare/handbrake-10.0.7...handbrake-10.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="handbrake-10.0.7"></a>
 
-### [handbrake-10.0.7](https://github.com/truecharts/apps/compare/handbrake-10.0.6...handbrake-10.0.7) (2021-12-21)
+### [手制10.0.7](https://github.com/truecharts/apps/compare/handbrake-10.0.6...handbrake-10.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="handbrake-10.0.6"></a>
 
-### [handbrake-10.0.6](https://github.com/truecharts/apps/compare/handbrake-10.0.5...handbrake-10.0.6) (2021-12-19)
+### [手制10.0.6](https://github.com/truecharts/apps/compare/handbrake-10.0.5...handbrake-10.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="handbrake-10.0.5"></a>
 
-### [handbrake-10.0.5](https://github.com/truecharts/apps/compare/handbrake-10.0.4...handbrake-10.0.5) (2021-12-19)
+### [手制10.0.5](https://github.com/truecharts/apps/compare/handbrake-10.0.4...handbrake-10.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -593,7 +593,7 @@
 
 <a name="handbrake-10.0.4"></a>
 
-### [handbrake-10.0.4](https://github.com/truecharts/apps/compare/handbrake-10.0.3...handbrake-10.0.4) (2021-12-18)
+### [手制10.0.4](https://github.com/truecharts/apps/compare/handbrake-10.0.3...handbrake-10.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -604,7 +604,7 @@
 
 <a name="handbrake-10.0.3"></a>
 
-### [handbrake-10.0.3](https://github.com/truecharts/apps/compare/handbrake-10.0.2...handbrake-10.0.3) (2021-12-14)
+### [手制10.0.3](https://github.com/truecharts/apps/compare/handbrake-10.0.2...handbrake-10.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -614,7 +614,7 @@
 
 <a name="handbrake-10.0.2"></a>
 
-### [handbrake-10.0.2](https://github.com/truecharts/apps/compare/handbrake-10.0.1...handbrake-10.0.2) (2021-12-13)
+### [手制10.0.2](https://github.com/truecharts/apps/compare/handbrake-10.0.1...handbrake-10.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -624,7 +624,7 @@
 
 <a name="handbrake-10.0.1"></a>
 
-### [handbrake-10.0.1](https://github.com/truecharts/apps/compare/handbrake-10.0.0...handbrake-10.0.1) (2021-12-11)
+### [手制10.0.1](https://github.com/truecharts/apps/compare/handbrake-10.0.0...handbrake-10.0.1) (2021-12-11)
 
 #### 聊天
 
@@ -644,7 +644,7 @@
 
 <a name="handbrake-9.0.19"></a>
 
-### [handbrake-9.0.19](https://github.com/truecharts/apps/compare/handbrake-9.0.18...handbrake-9.0.19) (2021-12-11)
+### [手制9.0.19](https://github.com/truecharts/apps/compare/handbrake-9.0.18...handbrake-9.0.19) (2021-12-11)
 
 #### 聊天
 
@@ -654,7 +654,7 @@
 
 <a name="handbrake-9.0.18"></a>
 
-### [handbrake-9.0.18](https://github.com/truecharts/apps/compare/handbrake-9.0.17...handbrake-9.0.18) (2021-12-07)
+### [手制9.0.18](https://github.com/truecharts/apps/compare/handbrake-9.0.17...handbrake-9.0.18) (2021-12-07)
 
 #### 聊天
 
@@ -664,7 +664,7 @@
 
 <a name="handbrake-9.0.17"></a>
 
-### handbrake-9.0.17 (2021-12-05)
+### 手制9.0.17 (2021-12-05)
 
 #### 聊天
 
@@ -683,7 +683,7 @@
 
 <a name="handbrake-9.0.16"></a>
 
-### [handbrake-9.0.16](https://github.com/truecharts/apps/compare/handbrake-9.0.15...handbrake-9.0.16) (2021-12-05)
+### [手制9.0.16](https://github.com/truecharts/apps/compare/handbrake-9.0.15...handbrake-9.0.16) (2021-12-05)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="handbrake-9.0.15"></a>
 
-### [handbrake-9.0.15](https://github.com/truecharts/apps/compare/handbrake-9.0.14...handbrake-9.0.15) (2021-12-04)
+### [手制9.0.15](https://github.com/truecharts/apps/compare/handbrake-9.0.14...handbrake-9.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -703,7 +703,7 @@
 
 <a name="handbrake-9.0.14"></a>
 
-### [handbrake-9.0.14](https://github.com/truecharts/apps/compare/handbrake-9.0.13...handbrake-9.0.14) (2021-12-04)
+### [手制9.0.14](https://github.com/truecharts/apps/compare/handbrake-9.0.13...handbrake-9.0.14) (2021-12-04)
 
 #### 聊天
 
@@ -714,7 +714,7 @@
 
 <a name="handbrake-9.0.13"></a>
 
-### [handbrake-9.0.13](https://github.com/truecharts/apps/compare/handbrake-9.0.12...handbrake-9.0.13) (2021-11-30)
+### [手制9.0.13](https://github.com/truecharts/apps/compare/handbrake-9.0.12...handbrake-9.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -728,7 +728,7 @@
 
 <a name="handbrake-9.0.12"></a>
 
-### [handbrake-9.0.12](https://github.com/truecharts/apps/compare/handbrake-9.0.11...handbrake-9.0.12) (2021-11-23)
+### [手制9.0.12](https://github.com/truecharts/apps/compare/handbrake-9.0.11...handbrake-9.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -738,7 +738,7 @@
 
 <a name="handbrake-9.0.11"></a>
 
-### [handbrake-9.0.11](https://github.com/truecharts/apps/compare/handbrake-9.0.10...handbrake-9.0.11) (2021-11-22)
+### [手制9.0.11](https://github.com/truecharts/apps/compare/handbrake-9.0.10...handbrake-9.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -752,7 +752,7 @@
 
 <a name="handbrake-9.0.10"></a>
 
-### [handbrake-9.0.10](https://github.com/truecharts/apps/compare/handbrake-9.0.9...handbrake-9.0.10) (2021-11-16)
+### [手制9.0.10](https://github.com/truecharts/apps/compare/handbrake-9.0.9...handbrake-9.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -762,7 +762,7 @@
 
 <a name="handbrake-9.0.9"></a>
 
-### [handbrake-9.0.9](https://github.com/truecharts/apps/compare/handbrake-9.0.8...handbrake-9.0.9) (2021-11-15)
+### [手制9.0.9](https://github.com/truecharts/apps/compare/handbrake-9.0.8...handbrake-9.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -773,7 +773,7 @@
 
 <a name="handbrake-9.0.8"></a>
 
-### [handbrake-9.0.8](https://github.com/truecharts/apps/compare/handbrake-9.0.7...handbrake-9.0.8) (2021-11-14)
+### [手制9.0.8](https://github.com/truecharts/apps/compare/handbrake-9.0.7...handbrake-9.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -791,7 +791,7 @@
 
 <a name="handbrake-9.0.7"></a>
 
-### [handbrake-9.0.7](https://github.com/truecharts/apps/compare/handbrake-9.0.6...handbrake-9.0.7) (2021-11-09)
+### [手制9.0.7](https://github.com/truecharts/apps/compare/handbrake-9.0.6...handbrake-9.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -801,7 +801,7 @@
 
 <a name="handbrake-9.0.6"></a>
 
-### [handbrake-9.0.6](https://github.com/truecharts/apps/compare/handbrake-9.0.5...handbrake-9.0.6) (2021-11-07)
+### [手制9.0.6](https://github.com/truecharts/apps/compare/handbrake-9.0.5...handbrake-9.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -811,7 +811,7 @@
 
 <a name="handbrake-9.0.5"></a>
 
-### [handbrake-9.0.5](https://github.com/truecharts/apps/compare/handbrake-9.0.4...handbrake-9.0.5) (2021-11-07)
+### [手制9.0.5](https://github.com/truecharts/apps/compare/handbrake-9.0.4...handbrake-9.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -829,7 +829,7 @@
 
 <a name="handbrake-9.0.4"></a>
 
-### [handbrake-9.0.4](https://github.com/truecharts/apps/compare/handbrake-9.0.3...handbrake-9.0.4) (2021-11-02)
+### [手制9.0.4](https://github.com/truecharts/apps/compare/handbrake-9.0.3...handbrake-9.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -839,7 +839,7 @@
 
 <a name="handbrake-9.0.3"></a>
 
-### [handbrake-9.0.3](https://github.com/truecharts/apps/compare/handbrake-9.0.2...handbrake-9.0.3) (2021-11-01)
+### [手制9.0.3](https://github.com/truecharts/apps/compare/handbrake-9.0.2...handbrake-9.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -849,7 +849,7 @@
 
 <a name="handbrake-9.0.2"></a>
 
-### [handbrake-9.0.2](https://github.com/truecharts/apps/compare/handbrake-9.0.1...handbrake-9.0.2) (2021-10-26)
+### [手制9.0.2](https://github.com/truecharts/apps/compare/handbrake-9.0.1...handbrake-9.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -859,7 +859,7 @@
 
 <a name="handbrake-9.0.1"></a>
 
-### [handbrake-9.0.1](https://github.com/truecharts/apps/compare/handbrake-9.0.0...handbrake-9.0.1) (2021-10-26)
+### [手制9.0.1](https://github.com/truecharts/apps/compare/handbrake-9.0.0...handbrake-9.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -869,7 +869,7 @@
 
 <a name="handbrake-9.0.0"></a>
 
-### [handbrake-9.0.0](https://github.com/truecharts/apps/compare/handbrake-8.0.19...handbrake-9.0.0) (2021-10-25)
+### [手制9.0.0](https://github.com/truecharts/apps/compare/handbrake-8.0.19...handbrake-9.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -879,27 +879,27 @@
 
 <a name="handbrake-8.0.19"></a>
 
-### [handbrake-8.0.19](https://github.com/truecharts/apps/compare/handbrake-8.0.18...handbrake-8.0.19) (2021-10-21)
+### [手制8.0.19](https://github.com/truecharts/apps/compare/handbrake-8.0.18...handbrake-8.0.19) (2021-10-21)
 
 #### 修复
 
-* null is obviously not a correct password.
+* 无效显然不是正确的密码。
 
 
 
 <a name="handbrake-8.0.18"></a>
 
-### [handbrake-8.0.18](https://github.com/truecharts/apps/compare/handbrake-8.0.17...handbrake-8.0.18) (2021-10-21)
+### [手制8.0.18](https://github.com/truecharts/apps/compare/handbrake-8.0.17...handbrake-8.0.18) (2021-10-21)
 
 #### 修复
 
-* ensure PVC name is synced between questions.yaml and values.yaml.
+* 确保聚氯乙烯名称在问题.yaml 和values.yaml之间同步。
 
 
 
 <a name="handbrake-8.0.17"></a>
 
-### [handbrake-8.0.17](https://github.com/truecharts/apps/compare/handbrake-8.0.16...handbrake-8.0.17) (2021-10-20)
+### [手制8.0.17](https://github.com/truecharts/apps/compare/handbrake-8.0.16...handbrake-8.0.17) (2021-10-20)
 
 #### 聊天
 
@@ -909,7 +909,7 @@
 
 <a name="handbrake-8.0.14"></a>
 
-### [handbrake-8.0.14](https://github.com/truecharts/apps/compare/handbrake-8.0.13...handbrake-8.0.14) (2021-10-20)
+### [手制8.0.14](https://github.com/truecharts/apps/compare/handbrake-8.0.13...handbrake-8.0.14) (2021-10-20)
 
 #### 聊天
 
@@ -1031,7 +1031,7 @@
 
 <a name="handbrake-8.0.4"></a>
 
-### [handbrake-8.0.4](https://github.com/truecharts/apps/compare/handbrake-8.0.3...handbrake-8.0.4) (2021-10-05)
+### [手制8.0.4](https://github.com/truecharts/apps/compare/handbrake-8.0.3...handbrake-8.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1041,7 +1041,7 @@
 
 <a name="handbrake-8.0.3"></a>
 
-### [handbrake-8.0.3](https://github.com/truecharts/apps/compare/handbrake-8.0.2...handbrake-8.0.3) (2021-09-29)
+### [手制8.0.3](https://github.com/truecharts/apps/compare/handbrake-8.0.2...handbrake-8.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1063,7 +1063,7 @@
 
 <a name="handbrake-7.0.2"></a>
 
-### [handbrake-7.0.2](https://github.com/truecharts/apps/compare/handbrake-7.0.1...handbrake-7.0.2) (2021-09-21)
+### [手制7.0.2](https://github.com/truecharts/apps/compare/handbrake-7.0.1...handbrake-7.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1073,11 +1073,11 @@
 
 <a name="handbrake-7.0.1"></a>
 
-### [handbrake-7.0.1](https://github.com/truecharts/apps/compare/handbrake-6.11.15...handbrake-7.0.1) (2021-09-13)
+### [手制7.0.1](https://github.com/truecharts/apps/compare/handbrake-6.11.15...handbrake-7.0.1) (2021-09-13)
 
 #### 聊天
 
-* move more dockerhub containers to GHCR mirror ([#958](https://github.com/truecharts/apps/issues/958))
+* 移动更多的Docker枢纽容器到 GHCR 镜像([#958](https://github.com/truecharts/apps/issues/958))
 * 更新非主要([#962](https://github.com/truecharts/apps/issues/962))
 
 #### Feat
