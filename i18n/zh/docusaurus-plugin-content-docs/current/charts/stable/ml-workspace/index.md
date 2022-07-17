@@ -9,8 +9,8 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 * <https://github.com/ml-tooling/ml-workspace>
 * <https://hub.docker.com/r/mltooling/ml-workspace>
 * <https://hub.docker.com/r/mltooling/ml-workspace-gpu>
-* <https://hub.docker.com/r/mltooling/ml-workspace-light>
-* <https://hub.docker.com/r/mltooling/ml-workspace-minimal>
+* [https://hub.docker.com/r/mltooling/ml-workspacelight](https://hub.docker.com/r/mltooling/ml-workspace-light)
+* [https://hub.docker.com/r/mltooling/ml-workspace-minimum](https://hub.docker.com/r/mltooling/ml-workspace-minimal)
 
 ## B. 所需经费
 
