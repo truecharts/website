@@ -1,9 +1,9 @@
-# Initial install
+# 初始安装
 
-`Snipe-it`'s pre-flight check [can't detect](https://github.com/snipe/snipe-it/issues/10779) if you are running behind a proxy, so for the initial installation it's suggested to go without ingress.
+`代码片段`飞行前检查 [如果您是在代理后面运行，无法检测](https://github.com/snipe/snipe-it/issues/10779) 所以对于初始安装，它建议不要进入。
 
-Complete the setup then go back and enable ingress.
+完成设置，然后返回并启用摄入功能。
 
-Also keep in mind that you should have `172.16.0.0/16` in your `APP_TRUSTED_PROXIES`. If you want to add more trusted proxies. It's a comma separated list and you can do it like that `172.16.0.0/16,192.168.1.0/24`.
+同时铭记您应该在 `APP_TRUSTED_PROXIES` 中有 `172.16.0.0/16`。 如果您想要添加更多受信任的代理人。 这是一个逗号分隔的列表, 你可以这样做 `172.16.0.0/16,192.168.1.0/24`。
 
-If it fails to load the initla setup screen the first time you install it, stop the app and start it again. It should work right after that. This bug has been reported [upstream](https://github.com/snipe/snipe-it/issues/10945)
+如果你安装了 initla 安装屏幕后无法加载它，请停止应用并重新启动它。 在这之后它应该正常工作。 这个错误已被报告 [上游](https://github.com/snipe/snipe-it/issues/10945)
