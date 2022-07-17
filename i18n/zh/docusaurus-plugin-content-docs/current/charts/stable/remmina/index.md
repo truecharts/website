@@ -7,7 +7,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 ## 源代码
 
 * <https://github.com/linuxserver/docker-remmina>
-* <https://remmina.org/>
+* [https://remimina.org/](https://remmina.org/)
 
 ## B. 所需经费
 
