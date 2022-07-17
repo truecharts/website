@@ -17,7 +17,7 @@
 
 
 
-## [sickgear-3.0.14](https://github.com/truecharts/apps/compare/sickgear-3.0.12...sickgear-3.0.14) (2022-07-12)
+## [剑齿虎-3.0.14](https://github.com/truecharts/apps/compare/sickgear-3.0.12...sickgear-3.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [sickgear-3.0.12](https://github.com/truecharts/apps/compare/sickgear-3.0.11...sickgear-3.0.12) (2022-07-12)
+## [剑齿虎-3.0.12](https://github.com/truecharts/apps/compare/sickgear-3.0.11...sickgear-3.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="sickgear-3.0.11"></a>
 
-### [sickgear-3.0.11](https://github.com/truecharts/apps/compare/sickgear-3.0.10...sickgear-3.0.11) (2022-07-12)
+### [剑齿虎-3.0.11](https://github.com/truecharts/apps/compare/sickgear-3.0.10...sickgear-3.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="sickgear-3.0.9"></a>
 
-### [sickgear-3.0.9](https://github.com/truecharts/apps/compare/sickgear-3.0.8...sickgear-3.0.9) (2022-07-09)
+### [剑齿虎-3.0.9](https://github.com/truecharts/apps/compare/sickgear-3.0.8...sickgear-3.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="sickgear-2.0.19"></a>
 
-### [sickgear-2.0.19](https://github.com/truecharts/apps/compare/sickgear-2.0.18...sickgear-2.0.19) (2022-05-31)
+### [剑齿虎-2.0.19](https://github.com/truecharts/apps/compare/sickgear-2.0.18...sickgear-2.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="sickgear-2.0.18"></a>
 
-### [sickgear-2.0.18](https://github.com/truecharts/apps/compare/sickgear-2.0.17...sickgear-2.0.18) (2022-05-26)
+### [剑齿虎-2.0.18](https://github.com/truecharts/apps/compare/sickgear-2.0.17...sickgear-2.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="sickgear-2.0.18"></a>
 
-### [sickgear-2.0.18](https://github.com/truecharts/apps/compare/sickgear-2.0.17...sickgear-2.0.18) (2022-05-26)
+### [剑齿虎-2.0.18](https://github.com/truecharts/apps/compare/sickgear-2.0.17...sickgear-2.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="sickgear-2.0.17"></a>
 
-### [sickgear-2.0.17](https://github.com/truecharts/apps/compare/sickgear-2.0.16...sickgear-2.0.17) (2022-05-24)
+### [剑齿虎-2.0.17](https://github.com/truecharts/apps/compare/sickgear-2.0.16...sickgear-2.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="sickgear-2.0.16"></a>
 
-### [sickgear-2.0.16](https://github.com/truecharts/apps/compare/sickgear-2.0.15...sickgear-2.0.16) (2022-05-17)
+### [剑齿虎-2.0.16](https://github.com/truecharts/apps/compare/sickgear-2.0.15...sickgear-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="sickgear-2.0.16"></a>
 
-### [sickgear-2.0.16](https://github.com/truecharts/apps/compare/sickgear-2.0.15...sickgear-2.0.16) (2022-05-17)
+### [剑齿虎-2.0.16](https://github.com/truecharts/apps/compare/sickgear-2.0.15...sickgear-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="sickgear-2.0.15"></a>
 
-### [sickgear-2.0.15](https://github.com/truecharts/apps/compare/sickgear-2.0.14...sickgear-2.0.15) (2022-05-17)
+### [剑齿虎-2.0.15](https://github.com/truecharts/apps/compare/sickgear-2.0.14...sickgear-2.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="sickgear-2.0.14"></a>
 
-### [sickgear-2.0.14](https://github.com/truecharts/apps/compare/sickgear-2.0.13...sickgear-2.0.14) (2022-05-10)
+### [剑齿虎-2.0.14](https://github.com/truecharts/apps/compare/sickgear-2.0.13...sickgear-2.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="sickgear-2.0.13"></a>
 
-### [sickgear-2.0.13](https://github.com/truecharts/apps/compare/sickgear-2.0.12...sickgear-2.0.13) (2022-05-05)
+### [剑齿虎-2.0.13](https://github.com/truecharts/apps/compare/sickgear-2.0.12...sickgear-2.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="sickgear-2.0.12"></a>
 
-### [sickgear-2.0.12](https://github.com/truecharts/apps/compare/sickgear-2.0.11...sickgear-2.0.12) (2022-04-26)
+### [剑齿虎-2.0.12](https://github.com/truecharts/apps/compare/sickgear-2.0.11...sickgear-2.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="sickgear-2.0.11"></a>
 
-### [sickgear-2.0.11](https://github.com/truecharts/apps/compare/sickgear-2.0.10...sickgear-2.0.11) (2022-04-20)
+### [剑齿虎-2.0.11](https://github.com/truecharts/apps/compare/sickgear-2.0.10...sickgear-2.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="sickgear-2.0.10"></a>
 
-### [sickgear-2.0.10](https://github.com/truecharts/apps/compare/sickgear-2.0.9...sickgear-2.0.10) (2022-04-12)
+### [剑齿虎-2.0.10](https://github.com/truecharts/apps/compare/sickgear-2.0.9...sickgear-2.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="sickgear-2.0.9"></a>
 
-### [sickgear-2.0.9](https://github.com/truecharts/apps/compare/sickgear-2.0.8...sickgear-2.0.9) (2022-04-03)
+### [剑齿虎-2.0.9](https://github.com/truecharts/apps/compare/sickgear-2.0.8...sickgear-2.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="sickgear-2.0.8"></a>
 
-### [sickgear-2.0.8](https://github.com/truecharts/apps/compare/sickgear-2.0.7...sickgear-2.0.8) (2022-03-31)
+### [镰刀2.0.8](https://github.com/truecharts/apps/compare/sickgear-2.0.7...sickgear-2.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="sickgear-2.0.7"></a>
 
-### [sickgear-2.0.7](https://github.com/truecharts/apps/compare/sickgear-2.0.6...sickgear-2.0.7) (2022-03-30)
+### [剑齿虎-2.0.7](https://github.com/truecharts/apps/compare/sickgear-2.0.6...sickgear-2.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="sickgear-2.0.6"></a>
 
-### [sickgear-2.0.6](https://github.com/truecharts/apps/compare/sickgear-2.0.5...sickgear-2.0.6) (2022-03-26)
+### [剑齿虎-2.0.6](https://github.com/truecharts/apps/compare/sickgear-2.0.5...sickgear-2.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="sickgear-2.0.1"></a>
 
-### [sickgear-2.0.1](https://github.com/truecharts/apps/compare/sickgear-2.0.0...sickgear-2.0.1) (2022-03-07)
+### [剑齿虎-2.0.1](https://github.com/truecharts/apps/compare/sickgear-2.0.0...sickgear-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="sickgear-1.0.42"></a>
 
-### [sickgear-1.0.42](https://github.com/truecharts/apps/compare/sickgear-1.0.41...sickgear-1.0.42) (2022-03-02)
+### [镰刀-1.0.42](https://github.com/truecharts/apps/compare/sickgear-1.0.41...sickgear-1.0.42) (2022-03-02)
 
 #### 聊天
 
@@ -371,7 +371,7 @@
 
 <a name="sickgear-1.0.41"></a>
 
-### [sickgear-1.0.41](https://github.com/truecharts/apps/compare/sickgear-1.0.40...sickgear-1.0.41) (2022-02-21)
+### [镰刀-1.0.41](https://github.com/truecharts/apps/compare/sickgear-1.0.40...sickgear-1.0.41) (2022-02-21)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="sickgear-1.0.40"></a>
 
-### [sickgear-1.0.40](https://github.com/truecharts/apps/compare/sickgear-1.0.39...sickgear-1.0.40) (2022-02-15)
+### [剑齿虎-1.0.40](https://github.com/truecharts/apps/compare/sickgear-1.0.39...sickgear-1.0.40) (2022-02-15)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="sickgear-1.0.35"></a>
 
-### [sickgear-1.0.35](https://github.com/truecharts/apps/compare/sickgear-1.0.34...sickgear-1.0.35) (2022-01-25)
+### [剑齿虎-1.0.35](https://github.com/truecharts/apps/compare/sickgear-1.0.34...sickgear-1.0.35) (2022-01-25)
 
 #### 聊天
 
@@ -441,7 +441,7 @@
 
 <a name="sickgear-1.0.34"></a>
 
-### [sickgear-1.0.34](https://github.com/truecharts/apps/compare/sickgear-1.0.33...sickgear-1.0.34) (2022-01-22)
+### [剑齿虎-1.0.34](https://github.com/truecharts/apps/compare/sickgear-1.0.33...sickgear-1.0.34) (2022-01-22)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="sickgear-1.0.33"></a>
 
-### [sickgear-1.0.33](https://github.com/truecharts/apps/compare/sickgear-1.0.32...sickgear-1.0.33) (2022-01-21)
+### [镰刀龙-1.0.33](https://github.com/truecharts/apps/compare/sickgear-1.0.32...sickgear-1.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -465,7 +465,7 @@
 
 <a name="sickgear-1.0.32"></a>
 
-### [sickgear-1.0.32](https://github.com/truecharts/apps/compare/sickgear-1.0.31...sickgear-1.0.32) (2022-01-18)
+### [剑齿虎-1.0.32](https://github.com/truecharts/apps/compare/sickgear-1.0.31...sickgear-1.0.32) (2022-01-18)
 
 #### 聊天
 
@@ -475,7 +475,7 @@
 
 <a name="sickgear-1.0.31"></a>
 
-### [sickgear-1.0.31](https://github.com/truecharts/apps/compare/sickgear-1.0.30...sickgear-1.0.31) (2022-01-13)
+### [镰刀-1.0.31](https://github.com/truecharts/apps/compare/sickgear-1.0.30...sickgear-1.0.31) (2022-01-13)
 
 #### 聊天
 
@@ -489,7 +489,7 @@
 
 <a name="sickgear-1.0.30"></a>
 
-### [sickgear-1.0.30](https://github.com/truecharts/apps/compare/sickgear-1.0.29...sickgear-1.0.30) (2022-01-12)
+### [镰刀龙-1.0.30](https://github.com/truecharts/apps/compare/sickgear-1.0.29...sickgear-1.0.30) (2022-01-12)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="sickgear-1.0.29"></a>
 
-### [sickgear-1.0.29](https://github.com/truecharts/apps/compare/sickgear-1.0.28...sickgear-1.0.29) (2022-01-11)
+### [剑齿虎-1.0.29](https://github.com/truecharts/apps/compare/sickgear-1.0.28...sickgear-1.0.29) (2022-01-11)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="sickgear-1.0.28"></a>
 
-### [sickgear-1.0.28](https://github.com/truecharts/apps/compare/sickgear-1.0.27...sickgear-1.0.28) (2022-01-04)
+### [剑齿虎-1.0.28](https://github.com/truecharts/apps/compare/sickgear-1.0.27...sickgear-1.0.28) (2022-01-04)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="sickgear-1.0.27"></a>
 
-### [sickgear-1.0.27](https://github.com/truecharts/apps/compare/sickgear-1.0.26...sickgear-1.0.27) (2021-12-28)
+### [镰刀龙-1.0.27](https://github.com/truecharts/apps/compare/sickgear-1.0.26...sickgear-1.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="sickgear-1.0.26"></a>
 
-### [sickgear-1.0.26](https://github.com/truecharts/apps/compare/sickgear-1.0.25...sickgear-1.0.26) (2021-12-21)
+### [镰刀龙-1.0.26](https://github.com/truecharts/apps/compare/sickgear-1.0.25...sickgear-1.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="sickgear-1.0.25"></a>
 
-### [sickgear-1.0.25](https://github.com/truecharts/apps/compare/sickgear-1.0.24...sickgear-1.0.25) (2021-12-19)
+### [镰刀龙-1.0.25](https://github.com/truecharts/apps/compare/sickgear-1.0.24...sickgear-1.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="sickgear-1.0.24"></a>
 
-### [sickgear-1.0.24](https://github.com/truecharts/apps/compare/sickgear-1.0.23...sickgear-1.0.24) (2021-12-19)
+### [镰刀龙-1.0.24](https://github.com/truecharts/apps/compare/sickgear-1.0.23...sickgear-1.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="sickgear-1.0.23"></a>
 
-### [sickgear-1.0.23](https://github.com/truecharts/apps/compare/sickgear-1.0.22...sickgear-1.0.23) (2021-12-18)
+### [镰刀龙-1.0.23](https://github.com/truecharts/apps/compare/sickgear-1.0.22...sickgear-1.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -572,7 +572,7 @@
 
 <a name="sickgear-1.0.22"></a>
 
-### [sickgear-1.0.22](https://github.com/truecharts/apps/compare/sickgear-1.0.21...sickgear-1.0.22) (2021-12-14)
+### [剑齿虎-1.0.22](https://github.com/truecharts/apps/compare/sickgear-1.0.21...sickgear-1.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="sickgear-1.0.21"></a>
 
-### [sickgear-1.0.21](https://github.com/truecharts/apps/compare/sickgear-1.0.20...sickgear-1.0.21) (2021-12-13)
+### [镰刀龙-1.0.21](https://github.com/truecharts/apps/compare/sickgear-1.0.20...sickgear-1.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="sickgear-1.0.20"></a>
 
-### [sickgear-1.0.20](https://github.com/truecharts/apps/compare/sickgear-1.0.19...sickgear-1.0.20) (2021-12-11)
+### [镰刀龙-1.0.20](https://github.com/truecharts/apps/compare/sickgear-1.0.19...sickgear-1.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -602,7 +602,7 @@
 
 <a name="sickgear-1.0.19"></a>
 
-### [sickgear-1.0.19](https://github.com/truecharts/apps/compare/sickgear-1.0.18...sickgear-1.0.19) (2021-12-07)
+### [剑齿虎-1.0.19](https://github.com/truecharts/apps/compare/sickgear-1.0.18...sickgear-1.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="sickgear-1.0.18"></a>
 
-### sickgear-1.0.18 (2021-12-05)
+### 斯泰尔-1.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="sickgear-1.0.17"></a>
 
-### [sickgear-1.0.17](https://github.com/truecharts/apps/compare/sickgear-1.0.16...sickgear-1.0.17) (2021-12-05)
+### [镰刀龙-1.0.17](https://github.com/truecharts/apps/compare/sickgear-1.0.16...sickgear-1.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="sickgear-1.0.16"></a>
 
-### [sickgear-1.0.16](https://github.com/truecharts/apps/compare/sickgear-1.0.15...sickgear-1.0.16) (2021-12-04)
+### [镰刀龙-1.0.16](https://github.com/truecharts/apps/compare/sickgear-1.0.15...sickgear-1.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="sickgear-1.0.15"></a>
 
-### [sickgear-1.0.15](https://github.com/truecharts/apps/compare/sickgear-1.0.14...sickgear-1.0.15) (2021-12-04)
+### [镰刀龙-1.0.15](https://github.com/truecharts/apps/compare/sickgear-1.0.14...sickgear-1.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -662,7 +662,7 @@
 
 <a name="sickgear-1.0.14"></a>
 
-### [sickgear-1.0.14](https://github.com/truecharts/apps/compare/sickgear-1.0.13...sickgear-1.0.14) (2021-12-03)
+### [镰刀龙-1.0.14](https://github.com/truecharts/apps/compare/sickgear-1.0.13...sickgear-1.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="sickgear-1.0.13"></a>
 
-### [sickgear-1.0.13](https://github.com/truecharts/apps/compare/sickgear-1.0.12...sickgear-1.0.13) (2021-11-30)
+### [Sergear-1.0.13](https://github.com/truecharts/apps/compare/sickgear-1.0.12...sickgear-1.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -687,7 +687,7 @@
 
 <a name="sickgear-1.0.12"></a>
 
-### [sickgear-1.0.12](https://github.com/truecharts/apps/compare/sickgear-1.0.11...sickgear-1.0.12) (2021-11-23)
+### [镰刀龙-1.0.12](https://github.com/truecharts/apps/compare/sickgear-1.0.11...sickgear-1.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -697,7 +697,7 @@
 
 <a name="sickgear-1.0.11"></a>
 
-### [sickgear-1.0.11](https://github.com/truecharts/apps/compare/sickgear-1.0.10...sickgear-1.0.11) (2021-11-22)
+### [剑齿虎-1.0.11](https://github.com/truecharts/apps/compare/sickgear-1.0.10...sickgear-1.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -707,7 +707,7 @@
 
 <a name="sickgear-1.0.10"></a>
 
-### [sickgear-1.0.10](https://github.com/truecharts/apps/compare/sickgear-1.0.9...sickgear-1.0.10) (2021-11-16)
+### [镰刀龙-1.0.10](https://github.com/truecharts/apps/compare/sickgear-1.0.9...sickgear-1.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -717,7 +717,7 @@
 
 <a name="sickgear-1.0.9"></a>
 
-### [sickgear-1.0.9](https://github.com/truecharts/apps/compare/sickgear-1.0.8...sickgear-1.0.9) (2021-11-15)
+### [镰刀龙-1.0.9](https://github.com/truecharts/apps/compare/sickgear-1.0.8...sickgear-1.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -728,7 +728,7 @@
 
 <a name="sickgear-1.0.8"></a>
 
-### [sickgear-1.0.8](https://github.com/truecharts/apps/compare/sickgear-1.0.7...sickgear-1.0.8) (2021-11-14)
+### [镰刀龙-1.0.8](https://github.com/truecharts/apps/compare/sickgear-1.0.7...sickgear-1.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -746,7 +746,7 @@
 
 <a name="sickgear-1.0.7"></a>
 
-### [sickgear-1.0.7](https://github.com/truecharts/apps/compare/sickgear-1.0.6...sickgear-1.0.7) (2021-11-09)
+### [镰刀龙-1.0.7](https://github.com/truecharts/apps/compare/sickgear-1.0.6...sickgear-1.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -756,7 +756,7 @@
 
 <a name="sickgear-1.0.6"></a>
 
-### [sickgear-1.0.6](https://github.com/truecharts/apps/compare/sickgear-1.0.5...sickgear-1.0.6) (2021-11-07)
+### [镰刀龙-1.0.6](https://github.com/truecharts/apps/compare/sickgear-1.0.5...sickgear-1.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -766,7 +766,7 @@
 
 <a name="sickgear-1.0.5"></a>
 
-### [sickgear-1.0.5](https://github.com/truecharts/apps/compare/sickgear-1.0.4...sickgear-1.0.5) (2021-11-07)
+### [镰刀龙-1.0.5](https://github.com/truecharts/apps/compare/sickgear-1.0.4...sickgear-1.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -784,7 +784,7 @@
 
 <a name="sickgear-1.0.4"></a>
 
-### [sickgear-1.0.4](https://github.com/truecharts/apps/compare/sickgear-1.0.3...sickgear-1.0.4) (2021-11-02)
+### [镰刀龙-1.0.4](https://github.com/truecharts/apps/compare/sickgear-1.0.3...sickgear-1.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -794,7 +794,7 @@
 
 <a name="sickgear-1.0.3"></a>
 
-### [sickgear-1.0.3](https://github.com/truecharts/apps/compare/sickgear-1.0.2...sickgear-1.0.3) (2021-11-01)
+### [镰刀龙-1.0.3](https://github.com/truecharts/apps/compare/sickgear-1.0.2...sickgear-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -804,7 +804,7 @@
 
 <a name="sickgear-1.0.2"></a>
 
-### [sickgear-1.0.2](https://github.com/truecharts/apps/compare/sickgear-1.0.1...sickgear-1.0.2) (2021-10-26)
+### [镰刀龙-1.0.2](https://github.com/truecharts/apps/compare/sickgear-1.0.1...sickgear-1.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -814,7 +814,7 @@
 
 <a name="sickgear-1.0.1"></a>
 
-### [sickgear-1.0.1](https://github.com/truecharts/apps/compare/sickgear-1.0.0...sickgear-1.0.1) (2021-10-26)
+### [剑齿虎-1.0.1](https://github.com/truecharts/apps/compare/sickgear-1.0.0...sickgear-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -824,7 +824,7 @@
 
 <a name="sickgear-1.0.0"></a>
 
-### [sickgear-1.0.0](https://github.com/truecharts/apps/compare/sickgear-0.0.12...sickgear-1.0.0) (2021-10-25)
+### [剑齿虎-1.0.0](https://github.com/truecharts/apps/compare/sickgear-0.0.12...sickgear-1.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -834,7 +834,7 @@
 
 <a name="sickgear-0.0.12"></a>
 
-### [sickgear-0.0.12](https://github.com/truecharts/apps/compare/sickgear-0.0.9...sickgear-0.0.12) (2021-10-20)
+### [镰刀龙-0.0.12](https://github.com/truecharts/apps/compare/sickgear-0.0.9...sickgear-0.0.12) (2021-10-20)
 
 #### 聊天
 
@@ -844,7 +844,7 @@
 
 <a name="sickgear-0.0.9"></a>
 
-### [sickgear-0.0.9](https://github.com/truecharts/apps/compare/sickgear-0.0.8...sickgear-0.0.9) (2021-10-20)
+### [镰刀龙-0.0.9](https://github.com/truecharts/apps/compare/sickgear-0.0.8...sickgear-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -854,7 +854,7 @@
 
 <a name="sickgear-0.0.8"></a>
 
-### [sickgear-0.0.8](https://github.com/truecharts/apps/compare/sickgear-0.0.7...sickgear-0.0.8) (2021-10-19)
+### [剑齿虎-0.0.8](https://github.com/truecharts/apps/compare/sickgear-0.0.7...sickgear-0.0.8) (2021-10-19)
 
 #### 更改
 
@@ -878,7 +878,7 @@
 
 <a name="sickgear-0.0.7"></a>
 
-### [sickgear-0.0.7](https://github.com/truecharts/apps/compare/sickgear-0.0.6...sickgear-0.0.7) (2021-10-19)
+### [镰刀龙-0.0.7](https://github.com/truecharts/apps/compare/sickgear-0.0.6...sickgear-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -888,7 +888,7 @@
 
 <a name="sickgear-0.0.6"></a>
 
-### [sickgear-0.0.6](https://github.com/truecharts/apps/compare/sickgear-0.0.5...sickgear-0.0.6) (2021-10-19)
+### [镰刀龙-0.0.6](https://github.com/truecharts/apps/compare/sickgear-0.0.5...sickgear-0.0.6) (2021-10-19)
 
 #### 修复
 
@@ -898,7 +898,7 @@
 
 <a name="sickgear-0.0.5"></a>
 
-### [sickgear-0.0.5](https://github.com/truecharts/apps/compare/sickgear-0.0.4...sickgear-0.0.5) (2021-10-18)
+### [剑齿虎-0.0.5](https://github.com/truecharts/apps/compare/sickgear-0.0.4...sickgear-0.0.5) (2021-10-18)
 
 #### 聊天
 
@@ -912,7 +912,7 @@
 
 <a name="sickgear-0.0.4"></a>
 
-### [sickgear-0.0.4](https://github.com/truecharts/apps/compare/sickgear-0.0.3...sickgear-0.0.4) (2021-10-17)
+### [镰刀龙-0.0.4](https://github.com/truecharts/apps/compare/sickgear-0.0.3...sickgear-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -926,7 +926,7 @@
 
 <a name="sickgear-0.0.3"></a>
 
-### [sickgear-0.0.3](https://github.com/truecharts/apps/compare/sickgear-0.0.2...sickgear-0.0.3) (2021-10-13)
+### [剑齿虎-0.0.3](https://github.com/truecharts/apps/compare/sickgear-0.0.2...sickgear-0.0.3) (2021-10-13)
 
 #### 聊天
 
@@ -936,7 +936,7 @@
 
 <a name="sickgear-0.0.2"></a>
 
-### [sickgear-0.0.2](https://github.com/truecharts/apps/compare/sickgear-0.0.1...sickgear-0.0.2) (2021-10-13)
+### [剑齿虎-0.0.2](https://github.com/truecharts/apps/compare/sickgear-0.0.1...sickgear-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -946,4 +946,4 @@
 
 <a name="sickgear-0.0.1"></a>
 
-### sickgear-0.0.1 (2021-10-04)
+### 剑齿虎-0.0.1 (2021-10-04)
