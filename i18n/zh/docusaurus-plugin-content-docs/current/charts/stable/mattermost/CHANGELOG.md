@@ -248,13 +248,13 @@
 
 #### Feat
 
-* Move mattermost to stable ([#2798](https://github.com/truecharts/apps/issues/2798))
+* 将最重要的事项移动到稳定的 ([#2798](https://github.com/truecharts/apps/issues/2798))
 
 
 
 <a name="mattermost-0.0.4"></a>
 
-### [mattermost-0.0.4](https://github.com/truecharts/apps/compare/mattermost-0.0.3...mattermost-0.0.4) (2022-05-26)
+### [事件最多0.0.4](https://github.com/truecharts/apps/compare/mattermost-0.0.3...mattermost-0.0.4) (2022-05-26)
 
 #### 聊天
 
@@ -265,7 +265,7 @@
 
 <a name="mattermost-0.0.4"></a>
 
-### [mattermost-0.0.4](https://github.com/truecharts/apps/compare/mattermost-0.0.3...mattermost-0.0.4) (2022-05-26)
+### [事件最多0.0.4](https://github.com/truecharts/apps/compare/mattermost-0.0.3...mattermost-0.0.4) (2022-05-26)
 
 #### 聊天
 
@@ -293,7 +293,7 @@
 
 #### 修复
 
-* Fix URL ([#2719](https://github.com/truecharts/apps/issues/2719))
+* 修复 URL ([#2719](https://github.com/truecharts/apps/issues/2719))
 
 
 
@@ -303,4 +303,4 @@
 
 #### Feat
 
-* Add mattermost ([#2705](https://github.com/truecharts/apps/issues/2705))
+* 添加事项最多([#2705](https://github.com/truecharts/apps/issues/2705))
