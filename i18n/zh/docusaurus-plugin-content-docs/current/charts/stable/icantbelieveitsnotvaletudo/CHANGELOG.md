@@ -369,7 +369,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.42"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.42](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.41...icantbelieveitsnotvaletudo-2.0.42) (2022-03-02)
+### [icantertiveitsnotvaletudo-2.0.42](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.41...icantbelieveitsnotvaletudo-2.0.42) (2022-03-02)
 
 #### 聊天
 
@@ -380,7 +380,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.41"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.41](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.40...icantbelieveitsnotvaletudo-2.0.41) (2022-02-21)
+### [icanterciitsnotvaletudo-2.0.41](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.40...icantbelieveitsnotvaletudo-2.0.41) (2022-02-21)
 
 #### 聊天
 
@@ -390,7 +390,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.40"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.40](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.39...icantbelieveitsnotvaletudo-2.0.40) (2022-02-15)
+### [icanterciitsnotvaletudo-2.0.40](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.39...icantbelieveitsnotvaletudo-2.0.40) (2022-02-15)
 
 #### 聊天
 
@@ -440,7 +440,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.35"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.35](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.34...icantbelieveitsnotvaletudo-2.0.35) (2022-01-25)
+### [icantercifiitsnotvaletudo-2..0.35](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.34...icantbelieveitsnotvaletudo-2.0.35) (2022-01-25)
 
 #### 聊天
 
@@ -460,7 +460,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.33"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.33](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.32...icantbelieveitsnotvaletudo-2.0.33) (2022-01-21)
+### [信奉冰山的新鲜血液-2.0.33](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.32...icantbelieveitsnotvaletudo-2.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -474,7 +474,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.32"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.32](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.31...icantbelieveitsnotvaletudo-2.0.32) (2022-01-18)
+### [icantertiveitsnotvaletudo-2.0.32](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.31...icantbelieveitsnotvaletudo-2.0.32) (2022-01-18)
 
 #### 聊天
 
@@ -498,7 +498,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.30"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.30](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.29...icantbelieveitsnotvaletudo-2.0.30) (2022-01-12)
+### [icantertiveitsnotvaletudo-2..0.30](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.29...icantbelieveitsnotvaletudo-2.0.30) (2022-01-12)
 
 #### 聊天
 
@@ -508,7 +508,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.29"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.29](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.28...icantbelieveitsnotvaletudo-2.0.29) (2022-01-11)
+### [icantercifiitsnotvaletudo-2.0.29](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.28...icantbelieveitsnotvaletudo-2.0.29) (2022-01-11)
 
 #### 聊天
 
@@ -518,7 +518,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.28"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.28](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.27...icantbelieveitsnotvaletudo-2.0.28) (2022-01-04)
+### [信奉冰山的新鲜血液-2.0.28](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.27...icantbelieveitsnotvaletudo-2.0.28) (2022-01-04)
 
 #### 聊天
 
@@ -528,7 +528,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.27"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.27](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.26...icantbelieveitsnotvaletudo-2.0.27) (2021-12-28)
+### [信奉冰山的新鲜血液-2.0.27](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.26...icantbelieveitsnotvaletudo-2.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -538,7 +538,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.26"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.26](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.25...icantbelieveitsnotvaletudo-2.0.26) (2021-12-21)
+### [信奉冰山的新鲜血液-2.0.26](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.25...icantbelieveitsnotvaletudo-2.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -548,7 +548,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.25"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.25](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.24...icantbelieveitsnotvaletudo-2.0.25) (2021-12-19)
+### [信奉冰山的新鲜血液-2.0.25](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.24...icantbelieveitsnotvaletudo-2.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -559,7 +559,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.24"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.24](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.23...icantbelieveitsnotvaletudo-2.0.24) (2021-12-19)
+### [信奉冰山的新鲜血液-2.0.24](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.23...icantbelieveitsnotvaletudo-2.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.23"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.23](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.22...icantbelieveitsnotvaletudo-2.0.23) (2021-12-18)
+### [icantercifiitsnotvaletudo-2.0.23](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.22...icantbelieveitsnotvaletudo-2.0.23) (2021-12-18)
 
 #### 聊天
 
@@ -581,7 +581,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.22"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.22](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.21...icantbelieveitsnotvaletudo-2.0.22) (2021-12-14)
+### [信奉冰山的新鲜血液-2.0.22](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.21...icantbelieveitsnotvaletudo-2.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -591,7 +591,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.21"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.21](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.20...icantbelieveitsnotvaletudo-2.0.21) (2021-12-13)
+### [信奉冰山的新鲜血液-2.0.21](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.20...icantbelieveitsnotvaletudo-2.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -601,7 +601,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.20"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.20](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.19...icantbelieveitsnotvaletudo-2.0.20) (2021-12-11)
+### [信奉冰山的新鲜血液-2.0.20](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.19...icantbelieveitsnotvaletudo-2.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -611,7 +611,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.19"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.19](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.18...icantbelieveitsnotvaletudo-2.0.19) (2021-12-07)
+### [icantercifiitsnotvaletudo-2.0.19](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.18...icantbelieveitsnotvaletudo-2.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -621,7 +621,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.18"></a>
 
-### icantbelieveitsnotvaletudo-2.0.18 (2021-12-05)
+### 冰箱信赖物种的价值为2.0.18(2021-12-05)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.17"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.17](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.16...icantbelieveitsnotvaletudo-2.0.17) (2021-12-05)
+### [信奉冰山的新鲜血液-2.0.17](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.16...icantbelieveitsnotvaletudo-2.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.16"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.16](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.15...icantbelieveitsnotvaletudo-2.0.16) (2021-12-04)
+### [信奉冰山的新鲜血液-2.0.16](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.15...icantbelieveitsnotvaletudo-2.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -662,7 +662,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.15"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.15](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.14...icantbelieveitsnotvaletudo-2.0.15) (2021-12-04)
+### [信奉冰山的新鲜血液-2.0.15](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.14...icantbelieveitsnotvaletudo-2.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -672,7 +672,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.14"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.14](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.13...icantbelieveitsnotvaletudo-2.0.14) (2021-12-03)
+### [信奉冰山的新鲜血液-2.0.14](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.13...icantbelieveitsnotvaletudo-2.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -684,7 +684,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.13"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.13](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.12...icantbelieveitsnotvaletudo-2.0.13) (2021-11-30)
+### [信奉冰山的新鲜血液-2.0.13](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.12...icantbelieveitsnotvaletudo-2.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -698,7 +698,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.12"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.12](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.11...icantbelieveitsnotvaletudo-2.0.12) (2021-11-23)
+### [信奉冰山的新鲜血液-2.0.12](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.11...icantbelieveitsnotvaletudo-2.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -708,7 +708,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.11"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.11](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.10...icantbelieveitsnotvaletudo-2.0.11) (2021-11-22)
+### [信奉冰山的新鲜血液-2.0.11](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.10...icantbelieveitsnotvaletudo-2.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -718,7 +718,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.10"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.10](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.9...icantbelieveitsnotvaletudo-2.0.10) (2021-11-16)
+### [信奉冰山的物种无价值物种-2.0.10](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.9...icantbelieveitsnotvaletudo-2.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -728,7 +728,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.9"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.9](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.8...icantbelieveitsnotvaletudo-2.0.9) (2021-11-15)
+### [信奉冰山的新鲜血液-2.0.9](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.8...icantbelieveitsnotvaletudo-2.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -739,7 +739,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.8"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.8](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.7...icantbelieveitsnotvaletudo-2.0.8) (2021-11-14)
+### [信奉冰山的新鲜血液-2.0.8](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.7...icantbelieveitsnotvaletudo-2.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -751,14 +751,14 @@
 #### 修复
 
 * 拆分udp 和 tcp 端口[#1321](https://github.com/truecharts/apps/issues/1321)
-* sync securityContext from values to questions ([#1323](https://github.com/truecharts/apps/issues/1323))
+* 从值到问题同步安全Context ([#1323](https://github.com/truecharts/apps/issues/1323))
 * 允许路径中的空格 ([#1306](https://github.com/truecharts/apps/issues/1306))
 
 
 
 <a name="icantbelieveitsnotvaletudo-2.0.7"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.7](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.6...icantbelieveitsnotvaletudo-2.0.7) (2021-11-09)
+### [冰信无声_2.0.7](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.6...icantbelieveitsnotvaletudo-2.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -768,7 +768,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.6"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.6](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.5...icantbelieveitsnotvaletudo-2.0.6) (2021-11-07)
+### [icantercifiitsnotvaletudo-2.0.6](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.5...icantbelieveitsnotvaletudo-2.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -778,7 +778,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.5"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.5](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.4...icantbelieveitsnotvaletudo-2.0.5) (2021-11-07)
+### [冰信无声_2.0.5](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.4...icantbelieveitsnotvaletudo-2.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -796,7 +796,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.4"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.4](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.3...icantbelieveitsnotvaletudo-2.0.4) (2021-11-02)
+### [信奉冰山的新鲜血液-2.0.4](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.3...icantbelieveitsnotvaletudo-2.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -806,7 +806,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.3"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.3](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.2...icantbelieveitsnotvaletudo-2.0.3) (2021-11-01)
+### [信奉冰封的 vicitsnotvaletudo-2.0.3](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.2...icantbelieveitsnotvaletudo-2.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -816,7 +816,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.2"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.2](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.1...icantbelieveitsnotvaletudo-2.0.2) (2021-10-26)
+### [icanterciitsnotvaletudo-2.0.2](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.1...icantbelieveitsnotvaletudo-2.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -826,7 +826,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.1"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.1](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.0...icantbelieveitsnotvaletudo-2.0.1) (2021-10-26)
+### [icantercifiitsnotvaletudo-2.0.1](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-2.0.0...icantbelieveitsnotvaletudo-2.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -836,7 +836,7 @@
 
 <a name="icantbelieveitsnotvaletudo-2.0.0"></a>
 
-### [icantbelieveitsnotvaletudo-2.0.0](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-1.0.1...icantbelieveitsnotvaletudo-2.0.0) (2021-10-25)
+### [icantercifiitsnotvaletudo-2.0.0](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-1.0.1...icantbelieveitsnotvaletudo-2.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -846,7 +846,7 @@
 
 <a name="icantbelieveitsnotvaletudo-1.0.1"></a>
 
-### [icantbelieveitsnotvaletudo-1.0.1](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.11...icantbelieveitsnotvaletudo-1.0.1) (2021-10-20)
+### [信奉冰山的新鲜血液-1.0.1](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.11...icantbelieveitsnotvaletudo-1.0.1) (2021-10-20)
 
 #### 聊天
 
@@ -856,7 +856,7 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.9"></a>
 
-### [icantbelieveitsnotvaletudo-0.0.9](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.8...icantbelieveitsnotvaletudo-0.0.9) (2021-10-20)
+### [冰信无价值的 valetudo-0.0.9](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.8...icantbelieveitsnotvaletudo-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -866,7 +866,7 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.8"></a>
 
-### [icantbelieveitsnotvaletudo-0.0.8](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.7...icantbelieveitsnotvaletudo-0.0.8) (2021-10-19)
+### [icantercifiitsnotvaletudo-0.0.8](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.7...icantbelieveitsnotvaletudo-0.0.8) (2021-10-19)
 
 #### 更改
 
@@ -890,7 +890,7 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.7"></a>
 
-### [icantbelieveitsnotvaletudo-0.0.7](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.6...icantbelieveitsnotvaletudo-0.0.7) (2021-10-19)
+### [icanterciitsnotvaletudo-0.0.7](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.6...icantbelieveitsnotvaletudo-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -900,7 +900,7 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.6"></a>
 
-### [icantbelieveitsnotvaletudo-0.0.6](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.5...icantbelieveitsnotvaletudo-0.0.6) (2021-10-19)
+### [icantercifiitsnotvaletudo-0.0.6](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.5...icantbelieveitsnotvaletudo-0.0.6) (2021-10-19)
 
 #### 修复
 
@@ -910,7 +910,7 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.5"></a>
 
-### [icantbelieveitsnotvaletudo-0.0.5](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.4...icantbelieveitsnotvaletudo-0.0.5) (2021-10-18)
+### [icanterciitsnotvaletudo-0.0.5](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.4...icantbelieveitsnotvaletudo-0.0.5) (2021-1018)
 
 #### 聊天
 
@@ -924,7 +924,7 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.4"></a>
 
-### [icantbelieveitsnotvaletudo-0.0.4](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.3...icantbelieveitsnotvaletudo-0.0.4) (2021-10-17)
+### [信奉冰山的新鲜血液-0.0.4](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.3...icantbelieveitsnotvaletudo-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -938,7 +938,7 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.3"></a>
 
-### [icantbelieveitsnotvaletudo-0.0.3](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.2...icantbelieveitsnotvaletudo-0.0.3) (2021-10-13)
+### [信奉冰山的新鲜血液-0.0.3](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.2...icantbelieveitsnotvaletudo-0.0.3) (2021-10-13)
 
 #### 聊天
 
@@ -948,7 +948,7 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.2"></a>
 
-### [icantbelieveitsnotvaletudo-0.0.2](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.1...icantbelieveitsnotvaletudo-0.0.2) (2021-10-13)
+### [信奉冰山的新鲜血液-0.0.2](https://github.com/truecharts/apps/compare/icantbelieveitsnotvaletudo-0.0.1...icantbelieveitsnotvaletudo-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -958,4 +958,4 @@
 
 <a name="icantbelieveitsnotvaletudo-0.0.1"></a>
 
-### icantbelieveitsnotvaletudo-0.0.1 (2021-10-04)
+### 酒精饮料（2021-10-04）
