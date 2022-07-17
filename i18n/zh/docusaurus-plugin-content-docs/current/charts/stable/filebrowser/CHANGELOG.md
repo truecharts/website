@@ -367,7 +367,7 @@
 
 #### 聊天
 
-* update helm general non-major helm releases ([#2186](https://github.com/truecharts/apps/issues/2186))
+* 更新头盔的一般非主头盔版本([#2186](https://github.com/truecharts/apps/issues/2186))
 
 
 
@@ -377,7 +377,7 @@
 
 #### Feat
 
-* move apps to stable ([#2188](https://github.com/truecharts/apps/issues/2188))
+* 移动应用程序到稳定([#2188](https://github.com/truecharts/apps/issues/2188))
 
 
 
@@ -387,4 +387,4 @@
 
 #### Feat
 
-* Add filebrowser ([#2170](https://github.com/truecharts/apps/issues/2170))
+* 添加文件浏览器 ([#2170](https://github.com/truecharts/apps/issues/2170))
