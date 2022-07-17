@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [paperless-ng-4.0.19](https://github.com/truecharts/apps/compare/paperless-ng-4.0.18...paperless-ng-4.0.19) (2022-07-14)
+## [无纸版-ng-4.0.19](https://github.com/truecharts/apps/compare/paperless-ng-4.0.18...paperless-ng-4.0.19) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [paperless-ng-4.0.18](https://github.com/truecharts/apps/compare/paperless-ng-4.0.16...paperless-ng-4.0.18) (2022-07-14)
+## [无纸版-ng-4.0.18](https://github.com/truecharts/apps/compare/paperless-ng-4.0.16...paperless-ng-4.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [paperless-ng-4.0.16](https://github.com/truecharts/apps/compare/paperless-ng-4.0.14...paperless-ng-4.0.16) (2022-07-12)
+## [无纸版-ng-4.0.16](https://github.com/truecharts/apps/compare/paperless-ng-4.0.14...paperless-ng-4.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [paperless-ng-4.0.14](https://github.com/truecharts/apps/compare/paperless-ng-4.0.13...paperless-ng-4.0.14) (2022-07-12)
+## [无纸版-ng-4.0.14](https://github.com/truecharts/apps/compare/paperless-ng-4.0.13...paperless-ng-4.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="paperless-ng-4.0.13"></a>
 
-### [paperless-ng-4.0.13](https://github.com/truecharts/apps/compare/paperless-ng-4.0.12...paperless-ng-4.0.13) (2022-07-12)
+### [无纸版-ng-4.0.13](https://github.com/truecharts/apps/compare/paperless-ng-4.0.12...paperless-ng-4.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="paperless-ng-4.0.12"></a>
 
-### [paperless-ng-4.0.12](https://github.com/truecharts/apps/compare/paperless-ng-4.0.11...paperless-ng-4.0.12) (2022-07-11)
+### [无纸版-ng-4.0.12](https://github.com/truecharts/apps/compare/paperless-ng-4.0.11...paperless-ng-4.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="paperless-ng-4.0.11"></a>
 
-### [paperless-ng-4.0.11](https://github.com/truecharts/apps/compare/paperless-ng-4.0.10...paperless-ng-4.0.11) (2022-07-09)
+### [无纸版-ng-4.0.11](https://github.com/truecharts/apps/compare/paperless-ng-4.0.10...paperless-ng-4.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="paperless-ng-4.0.10"></a>
 
-### [paperless-ng-4.0.10](https://github.com/truecharts/apps/compare/paperless-ng-4.0.9...paperless-ng-4.0.10) (2022-07-05)
+### [无纸版-ng-4.0.10](https://github.com/truecharts/apps/compare/paperless-ng-4.0.9...paperless-ng-4.0.10) (2022-07-05)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="paperless-ng-4.0.9"></a>
 
-### [paperless-ng-4.0.9](https://github.com/truecharts/apps/compare/paperless-ng-4.0.8...paperless-ng-4.0.9) (2022-07-04)
+### [无纸版-ng-4.0.9](https://github.com/truecharts/apps/compare/paperless-ng-4.0.8...paperless-ng-4.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="paperless-ng-4.0.8"></a>
 
-### [paperless-ng-4.0.8](https://github.com/truecharts/apps/compare/paperless-ng-4.0.7...paperless-ng-4.0.8) (2022-06-25)
+### [无纸版-ng-4.0.8](https://github.com/truecharts/apps/compare/paperless-ng-4.0.7...paperless-ng-4.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="paperless-ng-4.0.7"></a>
 
-### [paperless-ng-4.0.7](https://github.com/truecharts/apps/compare/paperless-ng-4.0.6...paperless-ng-4.0.7) (2022-06-22)
+### [无纸版-ng-4.0.7](https://github.com/truecharts/apps/compare/paperless-ng-4.0.6...paperless-ng-4.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="paperless-ng-4.0.6"></a>
 
-### [paperless-ng-4.0.6](https://github.com/truecharts/apps/compare/paperless-ng-4.0.5...paperless-ng-4.0.6) (2022-06-21)
+### [无纸版-ng-4.0.6](https://github.com/truecharts/apps/compare/paperless-ng-4.0.5...paperless-ng-4.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="paperless-ng-4.0.5"></a>
 
-### [paperless-ng-4.0.5](https://github.com/truecharts/apps/compare/paperless-ng-4.0.4...paperless-ng-4.0.5) (2022-06-17)
+### [无纸-ng-4.0.5](https://github.com/truecharts/apps/compare/paperless-ng-4.0.4...paperless-ng-4.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="paperless-ng-4.0.4"></a>
 
-### [paperless-ng-4.0.4](https://github.com/truecharts/apps/compare/paperless-ng-4.0.3...paperless-ng-4.0.4) (2022-06-14)
+### [无纸版-ng-4.0.4](https://github.com/truecharts/apps/compare/paperless-ng-4.0.3...paperless-ng-4.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="paperless-ng-4.0.3"></a>
 
-### [paperless-ng-4.0.3](https://github.com/truecharts/apps/compare/paperless-ng-4.0.2...paperless-ng-4.0.3) (2022-06-14)
+### [无纸版-ng-4.0.3](https://github.com/truecharts/apps/compare/paperless-ng-4.0.2...paperless-ng-4.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="paperless-ng-4.0.2"></a>
 
-### [paperless-ng-4.0.2](https://github.com/truecharts/apps/compare/paperless-ng-4.0.1...paperless-ng-4.0.2) (2022-06-14)
+### [无纸版-ng-4.0.2](https://github.com/truecharts/apps/compare/paperless-ng-4.0.1...paperless-ng-4.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -156,7 +156,7 @@
 
 <a name="paperless-ng-4.0.1"></a>
 
-### [paperless-ng-4.0.1](https://github.com/truecharts/apps/compare/paperless-ng-4.0.0...paperless-ng-4.0.1) (2022-06-11)
+### [无纸版-ng-4.0.1](https://github.com/truecharts/apps/compare/paperless-ng-4.0.0...paperless-ng-4.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -166,7 +166,7 @@
 
 <a name="paperless-ng-4.0.0"></a>
 
-### [paperless-ng-4.0.0](https://github.com/truecharts/apps/compare/paperless-ng-3.0.1...paperless-ng-4.0.0) (2022-06-07)
+### [无纸版-ng-4.0.0](https://github.com/truecharts/apps/compare/paperless-ng-3.0.1...paperless-ng-4.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -180,7 +180,7 @@
 
 <a name="paperless-ng-3.0.1"></a>
 
-### [paperless-ng-3.0.1](https://github.com/truecharts/apps/compare/paperless-ng-2.0.31...paperless-ng-3.0.1) (2022-06-07)
+### [无纸-ng-3.0.1](https://github.com/truecharts/apps/compare/paperless-ng-2.0.31...paperless-ng-3.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="paperless-ng-3.0.0"></a>
 
-### [paperless-ng-3.0.0](https://github.com/truecharts/apps/compare/paperless-ng-2.0.31...paperless-ng-3.0.0) (2022-06-07)
+### [无纸-ng-3.0.0](https://github.com/truecharts/apps/compare/paperless-ng-2.0.31...paperless-ng-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -214,7 +214,7 @@
 
 <a name="paperless-ng-2.0.31"></a>
 
-### [paperless-ng-2.0.31](https://github.com/truecharts/apps/compare/paperless-ng-2.0.30...paperless-ng-2.0.31) (2022-05-31)
+### [无纸-ng-2.0.31](https://github.com/truecharts/apps/compare/paperless-ng-2.0.30...paperless-ng-2.0.31) (2022-05-31)
 
 #### 聊天
 
@@ -224,7 +224,7 @@
 
 <a name="paperless-ng-2.0.30"></a>
 
-### [paperless-ng-2.0.30](https://github.com/truecharts/apps/compare/paperless-ng-2.0.29...paperless-ng-2.0.30) (2022-05-26)
+### [无纸-ng-2.0.30](https://github.com/truecharts/apps/compare/paperless-ng-2.0.29...paperless-ng-2.0.30) (2022-05-26)
 
 #### 聊天
 
@@ -235,7 +235,7 @@
 
 <a name="paperless-ng-2.0.30"></a>
 
-### [paperless-ng-2.0.30](https://github.com/truecharts/apps/compare/paperless-ng-2.0.29...paperless-ng-2.0.30) (2022-05-26)
+### [无纸-ng-2.0.30](https://github.com/truecharts/apps/compare/paperless-ng-2.0.29...paperless-ng-2.0.30) (2022-05-26)
 
 #### 聊天
 
@@ -245,7 +245,7 @@
 
 <a name="paperless-ng-2.0.29"></a>
 
-### [paperless-ng-2.0.29](https://github.com/truecharts/apps/compare/paperless-ng-2.0.28...paperless-ng-2.0.29) (2022-05-24)
+### [无纸-ng-2.0.29](https://github.com/truecharts/apps/compare/paperless-ng-2.0.28...paperless-ng-2.0.29) (2022-05-24)
 
 #### 聊天
 
@@ -255,7 +255,7 @@
 
 <a name="paperless-ng-2.0.28"></a>
 
-### [paperless-ng-2.0.28](https://github.com/truecharts/apps/compare/paperless-ng-2.0.27...paperless-ng-2.0.28) (2022-05-17)
+### [无纸-ng-2.0.28](https://github.com/truecharts/apps/compare/paperless-ng-2.0.27...paperless-ng-2.0.28) (2022-05-17)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="paperless-ng-2.0.28"></a>
 
-### [paperless-ng-2.0.28](https://github.com/truecharts/apps/compare/paperless-ng-2.0.27...paperless-ng-2.0.28) (2022-05-17)
+### [无纸-ng-2.0.28](https://github.com/truecharts/apps/compare/paperless-ng-2.0.27...paperless-ng-2.0.28) (2022-05-17)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="paperless-ng-2.0.27"></a>
 
-### [paperless-ng-2.0.27](https://github.com/truecharts/apps/compare/paperless-ng-2.0.26...paperless-ng-2.0.27) (2022-05-17)
+### [无纸-ng-2.0.27](https://github.com/truecharts/apps/compare/paperless-ng-2.0.26...paperless-ng-2.0.27) (2022-05-17)
 
 #### 聊天
 
@@ -286,7 +286,7 @@
 
 <a name="paperless-ng-2.0.26"></a>
 
-### [paperless-ng-2.0.26](https://github.com/truecharts/apps/compare/paperless-ng-2.0.25...paperless-ng-2.0.26) (2022-05-13)
+### [无纸-ng-2.0.26](https://github.com/truecharts/apps/compare/paperless-ng-2.0.25...paperless-ng-2.0.26) (2022-05-13)
 
 #### 聊天
 
@@ -296,7 +296,7 @@
 
 <a name="paperless-ng-2.0.25"></a>
 
-### [paperless-ng-2.0.25](https://github.com/truecharts/apps/compare/paperless-ng-2.0.24...paperless-ng-2.0.25) (2022-05-10)
+### [无纸-ng-2.0.25](https://github.com/truecharts/apps/compare/paperless-ng-2.0.24...paperless-ng-2.0.25) (2022-05-10)
 
 #### 聊天
 
@@ -306,7 +306,7 @@
 
 <a name="paperless-ng-2.0.24"></a>
 
-### [paperless-ng-2.0.24](https://github.com/truecharts/apps/compare/paperless-ng-2.0.23...paperless-ng-2.0.24) (2022-05-05)
+### [无纸-ng-2.0.24](https://github.com/truecharts/apps/compare/paperless-ng-2.0.23...paperless-ng-2.0.24) (2022-05-05)
 
 #### 聊天
 
@@ -316,7 +316,7 @@
 
 <a name="paperless-ng-2.0.23"></a>
 
-### [paperless-ng-2.0.23](https://github.com/truecharts/apps/compare/paperless-ng-2.0.22...paperless-ng-2.0.23) (2022-05-04)
+### [无纸-ng-2.0.23](https://github.com/truecharts/apps/compare/paperless-ng-2.0.22...paperless-ng-2.0.23) (2022-05-04)
 
 #### 聊天
 
@@ -326,7 +326,7 @@
 
 <a name="paperless-ng-2.0.22"></a>
 
-### [paperless-ng-2.0.22](https://github.com/truecharts/apps/compare/paperless-ng-2.0.21...paperless-ng-2.0.22) (2022-05-04)
+### [无纸-ng-2.0.22](https://github.com/truecharts/apps/compare/paperless-ng-2.0.21...paperless-ng-2.0.22) (2022-05-04)
 
 #### 聊天
 
@@ -336,17 +336,17 @@
 
 <a name="paperless-ng-2.0.21"></a>
 
-### [paperless-ng-2.0.21](https://github.com/truecharts/apps/compare/paperless-ng-2.0.20...paperless-ng-2.0.21) (2022-04-28)
+### [无纸-ng-2.0.21](https://github.com/truecharts/apps/compare/paperless-ng-2.0.20...paperless-ng-2.0.21) (2022-04-28)
 
 #### Feat
 
-* add inventree ([#2576](https://github.com/truecharts/apps/issues/2576))
+* 添加发明树([#2576](https://github.com/truecharts/apps/issues/2576))
 
 
 
 <a name="paperless-ng-2.0.20"></a>
 
-### [paperless-ng-2.0.20](https://github.com/truecharts/apps/compare/paperless-ng-2.0.19...paperless-ng-2.0.20) (2022-04-26)
+### [无纸-ng-2.0.20](https://github.com/truecharts/apps/compare/paperless-ng-2.0.19...paperless-ng-2.0.20) (2022-04-26)
 
 #### 聊天
 
@@ -356,7 +356,7 @@
 
 <a name="paperless-ng-2.0.19"></a>
 
-### [paperless-ng-2.0.19](https://github.com/truecharts/apps/compare/paperless-ng-2.0.18...paperless-ng-2.0.19) (2022-04-20)
+### [无纸-ng-2.0.19](https://github.com/truecharts/apps/compare/paperless-ng-2.0.18...paperless-ng-2.0.19) (2022-04-20)
 
 #### 聊天
 
@@ -367,7 +367,7 @@
 
 <a name="paperless-ng-2.0.18"></a>
 
-### [paperless-ng-2.0.18](https://github.com/truecharts/apps/compare/paperless-ng-2.0.17...paperless-ng-2.0.18) (2022-04-12)
+### [无纸-ng-2.0.18](https://github.com/truecharts/apps/compare/paperless-ng-2.0.17...paperless-ng-2.0.18) (2022-04-12)
 
 #### 聊天
 
@@ -377,7 +377,7 @@
 
 <a name="paperless-ng-2.0.17"></a>
 
-### [paperless-ng-2.0.17](https://github.com/truecharts/apps/compare/paperless-ng-2.0.16...paperless-ng-2.0.17) (2022-04-03)
+### [无纸-ng-2.0.17](https://github.com/truecharts/apps/compare/paperless-ng-2.0.16...paperless-ng-2.0.17) (2022-04-03)
 
 #### 聊天
 
@@ -387,7 +387,7 @@
 
 <a name="paperless-ng-2.0.16"></a>
 
-### [paperless-ng-2.0.16](https://github.com/truecharts/apps/compare/paperless-ng-2.0.15...paperless-ng-2.0.16) (2022-03-31)
+### [无纸-ng-2.0.16](https://github.com/truecharts/apps/compare/paperless-ng-2.0.15...paperless-ng-2.0.16) (2022-03-31)
 
 #### 聊天
 
@@ -397,7 +397,7 @@
 
 <a name="paperless-ng-2.0.15"></a>
 
-### [paperless-ng-2.0.15](https://github.com/truecharts/apps/compare/paperless-ng-2.0.14...paperless-ng-2.0.15) (2022-03-31)
+### [无纸-ng-2.0.15](https://github.com/truecharts/apps/compare/paperless-ng-2.0.14...paperless-ng-2.0.15) (2022-03-31)
 
 #### 聊天
 
@@ -407,7 +407,7 @@
 
 <a name="paperless-ng-2.0.14"></a>
 
-### [paperless-ng-2.0.14](https://github.com/truecharts/apps/compare/paperless-ng-2.0.13...paperless-ng-2.0.14) (2022-03-30)
+### [无纸-ng-2.0.14](https://github.com/truecharts/apps/compare/paperless-ng-2.0.13...paperless-ng-2.0.14) (2022-03-30)
 
 #### 聊天
 
@@ -418,7 +418,7 @@
 
 <a name="paperless-ng-2.0.13"></a>
 
-### [paperless-ng-2.0.13](https://github.com/truecharts/apps/compare/paperless-ng-2.0.12...paperless-ng-2.0.13) (2022-03-26)
+### [无纸-ng-2.0.13](https://github.com/truecharts/apps/compare/paperless-ng-2.0.12...paperless-ng-2.0.13) (2022-03-26)
 
 #### 聊天
 
@@ -428,7 +428,7 @@
 
 <a name="paperless-ng-2.0.12"></a>
 
-### [paperless-ng-2.0.12](https://github.com/truecharts/apps/compare/paperless-ng-2.0.11...paperless-ng-2.0.12) (2022-03-26)
+### [无纸-ng-2.0.12](https://github.com/truecharts/apps/compare/paperless-ng-2.0.11...paperless-ng-2.0.12) (2022-03-26)
 
 #### 聊天
 
@@ -438,38 +438,38 @@
 
 <a name="paperless-ng-2.0.7"></a>
 
-### [paperless-ng-2.0.7](https://github.com/truecharts/apps/compare/paperless-ng-2.0.6...paperless-ng-2.0.7) (2022-03-15)
+### [无纸-ng-2.0.7](https://github.com/truecharts/apps/compare/paperless-ng-2.0.6...paperless-ng-2.0.7) (2022-03-15)
 
 #### Feat
 
-* move to stable ([#2179](https://github.com/truecharts/apps/issues/2179))
+* 移动到稳定([#2179](https://github.com/truecharts/apps/issues/2179))
 
 
 
 <a name="paperless-ng-2.0.6"></a>
 
-### [paperless-ng-2.0.6](https://github.com/truecharts/apps/compare/paperless-ng-2.0.5...paperless-ng-2.0.6) (2022-03-15)
+### [无纸-ng-2.0.6](https://github.com/truecharts/apps/compare/paperless-ng-2.0.5...paperless-ng-2.0.6) (2022-03-15)
 
 #### 聊天
 
 * 更新一般的非主码([#2175](https://github.com/truecharts/apps/issues/2175))
-* add more keywords ([#2140](https://github.com/truecharts/apps/issues/2140))
+* 添加更多关键字 ([#2140](https://github.com/truecharts/apps/issues/2140))
 
 
 
 <a name="paperless-ng-2.0.5"></a>
 
-### [paperless-ng-2.0.5](https://github.com/truecharts/apps/compare/paperless-ng-2.0.4...paperless-ng-2.0.5) (2022-03-12)
+### [无纸-ng-2.0.5](https://github.com/truecharts/apps/compare/paperless-ng-2.0.4...paperless-ng-2.0.5) (2022-03-12)
 
 #### 聊天
 
-* Update sources to ngx, add option, keep trash persistent ([#2135](https://github.com/truecharts/apps/issues/2135))
+* 更新源至ngx，添加选项，保持垃圾持续性([#2135](https://github.com/truecharts/apps/issues/2135))
 
 
 
 <a name="paperless-ng-2.0.4"></a>
 
-### [paperless-ng-2.0.4](https://github.com/truecharts/apps/compare/paperless-ng-2.0.3...paperless-ng-2.0.4) (2022-03-08)
+### [无纸-ng-2.0.4](https://github.com/truecharts/apps/compare/paperless-ng-2.0.3...paperless-ng-2.0.4) (2022-03-08)
 
 #### 聊天
 
@@ -479,7 +479,7 @@
 
 <a name="paperless-ng-2.0.3"></a>
 
-### [paperless-ng-2.0.3](https://github.com/truecharts/apps/compare/paperless-ng-2.0.2...paperless-ng-2.0.3) (2022-03-07)
+### [无纸-ng-2.0.3](https://github.com/truecharts/apps/compare/paperless-ng-2.0.2...paperless-ng-2.0.3) (2022-03-07)
 
 #### 聊天
 
@@ -489,7 +489,7 @@
 
 <a name="paperless-ng-2.0.2"></a>
 
-### [paperless-ng-2.0.2](https://github.com/truecharts/apps/compare/paperless-ng-2.0.1...paperless-ng-2.0.2) (2022-03-07)
+### [无纸-ng-2.0.2](https://github.com/truecharts/apps/compare/paperless-ng-2.0.1...paperless-ng-2.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="paperless-ng-2.0.1"></a>
 
-### [paperless-ng-2.0.1](https://github.com/truecharts/apps/compare/paperless-ng-2.0.0...paperless-ng-2.0.1) (2022-03-06)
+### [无纸-ng-2.0.1](https://github.com/truecharts/apps/compare/paperless-ng-2.0.0...paperless-ng-2.0.1) (2022-03-06)
 
 #### 聊天
 
@@ -513,7 +513,7 @@
 
 <a name="paperless-ng-2.0.0"></a>
 
-### [paperless-ng-2.0.0](https://github.com/truecharts/apps/compare/paperless-ng-1.0.23...paperless-ng-2.0.0) (2022-03-03)
+### [无纸-ng-2.0.0](https://github.com/truecharts/apps/compare/paperless-ng-1.0.23...paperless-ng-2.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -530,7 +530,7 @@
 
 <a name="paperless-ng-1.0.23"></a>
 
-### [paperless-ng-1.0.23](https://github.com/truecharts/apps/compare/paperless-ng-1.0.21...paperless-ng-1.0.23) (2022-03-02)
+### [无纸-ng-1.0.23](https://github.com/truecharts/apps/compare/paperless-ng-1.0.21...paperless-ng-1.0.23) (2022-03-02)
 
 #### 聊天
 
@@ -545,7 +545,7 @@
 
 <a name="paperless-ng-1.0.22"></a>
 
-### [paperless-ng-1.0.22](https://github.com/truecharts/apps/compare/paperless-ng-1.0.21...paperless-ng-1.0.22) (2022-02-22)
+### [无纸-ng-1.0.22](https://github.com/truecharts/apps/compare/paperless-ng-1.0.21...paperless-ng-1.0.22) (2022-02-22)
 
 #### 修复
 
@@ -555,7 +555,7 @@
 
 <a name="paperless-ng-1.0.21"></a>
 
-### [paperless-ng-1.0.21](https://github.com/truecharts/apps/compare/paperless-ng-1.0.20...paperless-ng-1.0.21) (2022-02-21)
+### [无纸-ng-1.0.21](https://github.com/truecharts/apps/compare/paperless-ng-1.0.20...paperless-ng-1.0.21) (2022-02-21)
 
 #### 聊天
 
@@ -565,7 +565,7 @@
 
 <a name="paperless-ng-1.0.20"></a>
 
-### [paperless-ng-1.0.20](https://github.com/truecharts/apps/compare/paperless-ng-1.0.19...paperless-ng-1.0.20) (2022-02-15)
+### [无纸-ng-1.0.20](https://github.com/truecharts/apps/compare/paperless-ng-1.0.19...paperless-ng-1.0.20) (2022-02-15)
 
 #### 聊天
 
@@ -575,7 +575,7 @@
 
 <a name="paperless-ng-1.0.19"></a>
 
-### [paperless-ng-1.0.19](https://github.com/truecharts/apps/compare/paperless-ng-1.0.18...paperless-ng-1.0.19) (2022-02-08)
+### [无纸-ng-1.0.19](https://github.com/truecharts/apps/compare/paperless-ng-1.0.18...paperless-ng-1.0.19) (2022-02-08)
 
 #### 聊天
 
@@ -585,7 +585,7 @@
 
 <a name="paperless-ng-1.0.18"></a>
 
-### [paperless-ng-1.0.18](https://github.com/truecharts/apps/compare/paperless-ng-1.0.17...paperless-ng-1.0.18) (2022-02-06)
+### [无纸-ng-1.0.18](https://github.com/truecharts/apps/compare/paperless-ng-1.0.17...paperless-ng-1.0.18) (2022-02-06)
 
 #### 聊天
 
@@ -595,7 +595,7 @@
 
 <a name="paperless-ng-1.0.17"></a>
 
-### [paperless-ng-1.0.17](https://github.com/truecharts/apps/compare/paperless-ng-1.0.16...paperless-ng-1.0.17) (2022-02-05)
+### [无纸-ng-1.0.17](https://github.com/truecharts/apps/compare/paperless-ng-1.0.16...paperless-ng-1.0.17) (2022-02-05)
 
 #### 聊天
 
@@ -605,7 +605,7 @@
 
 <a name="paperless-ng-1.0.16"></a>
 
-### [paperless-ng-1.0.16](https://github.com/truecharts/apps/compare/paperless-ng-1.0.15...paperless-ng-1.0.16) (2022-02-02)
+### [无纸-ng-1.0.16](https://github.com/truecharts/apps/compare/paperless-ng-1.0.15...paperless-ng-1.0.16) (2022-02-02)
 
 #### 聊天
 
@@ -615,7 +615,7 @@
 
 <a name="paperless-ng-1.0.15"></a>
 
-### [paperless-ng-1.0.15](https://github.com/truecharts/apps/compare/paperless-ng-1.0.14...paperless-ng-1.0.15) (2022-01-25)
+### [无纸-ng-1.0.15](https://github.com/truecharts/apps/compare/paperless-ng-1.0.14...paperless-ng-1.0.15) (2022-01-25)
 
 #### 聊天
 
@@ -625,7 +625,7 @@
 
 <a name="paperless-ng-1.0.14"></a>
 
-### [paperless-ng-1.0.14](https://github.com/truecharts/apps/compare/paperless-ng-1.0.13...paperless-ng-1.0.14) (2022-01-22)
+### [无纸-ng-1.0.14](https://github.com/truecharts/apps/compare/paperless-ng-1.0.13...paperless-ng-1.0.14) (2022-01-22)
 
 #### 聊天
 
@@ -635,7 +635,7 @@
 
 <a name="paperless-ng-1.0.13"></a>
 
-### [paperless-ng-1.0.13](https://github.com/truecharts/apps/compare/paperless-ng-1.0.12...paperless-ng-1.0.13) (2022-01-22)
+### [无纸-ng-1.0.13](https://github.com/truecharts/apps/compare/paperless-ng-1.0.12...paperless-ng-1.0.13) (2022-01-22)
 
 #### 聊天
 
@@ -645,7 +645,7 @@
 
 <a name="paperless-ng-1.0.12"></a>
 
-### [paperless-ng-1.0.12](https://github.com/truecharts/apps/compare/paperless-ng-1.0.11...paperless-ng-1.0.12) (2022-01-21)
+### [无纸-ng-1.0.12](https://github.com/truecharts/apps/compare/paperless-ng-1.0.11...paperless-ng-1.0.12) (2022-01-21)
 
 #### 聊天
 
@@ -659,7 +659,7 @@
 
 <a name="paperless-ng-1.0.11"></a>
 
-### [paperless-ng-1.0.11](https://github.com/truecharts/apps/compare/paperless-ng-1.0.10...paperless-ng-1.0.11) (2022-01-18)
+### [无纸-ng-1.0.11](https://github.com/truecharts/apps/compare/paperless-ng-1.0.10...paperless-ng-1.0.11) (2022-01-18)
 
 #### 聊天
 
@@ -669,7 +669,7 @@
 
 <a name="paperless-ng-1.0.10"></a>
 
-### [paperless-ng-1.0.10](https://github.com/truecharts/apps/compare/paperless-ng-1.0.9...paperless-ng-1.0.10) (2022-01-13)
+### [无纸-ng-1.0.10](https://github.com/truecharts/apps/compare/paperless-ng-1.0.9...paperless-ng-1.0.10) (2022-01-13)
 
 #### 聊天
 
@@ -683,7 +683,7 @@
 
 <a name="paperless-ng-1.0.9"></a>
 
-### [paperless-ng-1.0.9](https://github.com/truecharts/apps/compare/paperless-ng-1.0.8...paperless-ng-1.0.9) (2022-01-12)
+### [无纸-ng-1.0.9](https://github.com/truecharts/apps/compare/paperless-ng-1.0.8...paperless-ng-1.0.9) (2022-01-12)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="paperless-ng-1.0.8"></a>
 
-### [paperless-ng-1.0.8](https://github.com/truecharts/apps/compare/paperless-ng-1.0.7...paperless-ng-1.0.8) (2022-01-11)
+### [无纸-ng-1.0.8](https://github.com/truecharts/apps/compare/paperless-ng-1.0.7...paperless-ng-1.0.8) (2022-01-11)
 
 #### 聊天
 
@@ -703,7 +703,7 @@
 
 <a name="paperless-ng-1.0.7"></a>
 
-### [paperless-ng-1.0.7](https://github.com/truecharts/apps/compare/paperless-ng-1.0.6...paperless-ng-1.0.7) (2022-01-04)
+### [无纸-ng-1.0.7](https://github.com/truecharts/apps/compare/paperless-ng-1.0.6...paperless-ng-1.0.7) (2022-01-04)
 
 #### 聊天
 
@@ -713,7 +713,7 @@
 
 <a name="paperless-ng-1.0.6"></a>
 
-### [paperless-ng-1.0.6](https://github.com/truecharts/apps/compare/paperless-ng-1.0.5...paperless-ng-1.0.6) (2021-12-28)
+### [无纸-ng-1.0.6](https://github.com/truecharts/apps/compare/paperless-ng-1.0.5...paperless-ng-1.0.6) (2021-12-28)
 
 #### 聊天
 
@@ -721,13 +721,13 @@
 
 #### 修复
 
-* don't change default dir for static ([#1599](https://github.com/truecharts/apps/issues/1599))
+* 不更改静态目录([#1599](https://github.com/truecharts/apps/issues/1599))
 
 
 
 <a name="paperless-ng-1.0.5"></a>
 
-### [paperless-ng-1.0.5](https://github.com/truecharts/apps/compare/paperless-ng-1.0.4...paperless-ng-1.0.5) (2021-12-21)
+### [无纸-ng-1.0.5](https://github.com/truecharts/apps/compare/paperless-ng-1.0.4...paperless-ng-1.0.5) (2021-12-21)
 
 #### 聊天
 
@@ -735,13 +735,13 @@
 
 #### 修复
 
-* fix redis URL and use default paths ([#1560](https://github.com/truecharts/apps/issues/1560))
+* 修复redis URL并使用默认路径([#1560](https://github.com/truecharts/apps/issues/1560))
 
 
 
 <a name="paperless-ng-1.0.4"></a>
 
-### [paperless-ng-1.0.4](https://github.com/truecharts/apps/compare/paperless-ng-1.0.3...paperless-ng-1.0.4) (2021-12-19)
+### [无纸-ng-1.0.4](https://github.com/truecharts/apps/compare/paperless-ng-1.0.3...paperless-ng-1.0.4) (2021-12-19)
 
 #### 聊天
 
@@ -752,7 +752,7 @@
 
 <a name="paperless-ng-1.0.3"></a>
 
-### [paperless-ng-1.0.3](https://github.com/truecharts/apps/compare/paperless-ng-1.0.2...paperless-ng-1.0.3) (2021-12-19)
+### [无纸-ng-1.0.3](https://github.com/truecharts/apps/compare/paperless-ng-1.0.2...paperless-ng-1.0.3) (2021-12-19)
 
 #### 聊天
 
@@ -763,7 +763,7 @@
 
 <a name="paperless-ng-1.0.2"></a>
 
-### [paperless-ng-1.0.2](https://github.com/truecharts/apps/compare/paperless-ng-1.0.1...paperless-ng-1.0.2) (2021-12-19)
+### [无纸-ng-1.0.2](https://github.com/truecharts/apps/compare/paperless-ng-1.0.1...paperless-ng-1.0.2) (2021-12-19)
 
 #### 聊天
 
@@ -773,7 +773,7 @@
 
 <a name="paperless-ng-1.0.1"></a>
 
-### [paperless-ng-1.0.1](https://github.com/truecharts/apps/compare/paperless-ng-1.0.0...paperless-ng-1.0.1) (2021-12-18)
+### [无纸-ng-1.0.1](https://github.com/truecharts/apps/compare/paperless-ng-1.0.0...paperless-ng-1.0.1) (2021-12-18岁)
 
 #### 聊天
 
@@ -783,17 +783,17 @@
 
 <a name="paperless-ng-1.0.0"></a>
 
-### [paperless-ng-1.0.0](https://github.com/truecharts/apps/compare/paperless-ng-0.0.4...paperless-ng-1.0.0) (2021-12-17)
+### [无纸-ng-1.0.0](https://github.com/truecharts/apps/compare/paperless-ng-0.0.4...paperless-ng-1.0.0) (2021-12-17)
 
 #### Feat
 
-* move to official image ([#1552](https://github.com/truecharts/apps/issues/1552))
+* 移动到官方图像 ([#1552](https://github.com/truecharts/apps/issues/1552))
 
 
 
 <a name="paperless-ng-0.0.4"></a>
 
-### [paperless-ng-0.0.4](https://github.com/truecharts/apps/compare/paperless-ng-0.0.3...paperless-ng-0.0.4) (2021-12-17)
+### [无纸-ng-0.0.4](https://github.com/truecharts/apps/compare/paperless-ng-0.0.3...paperless-ng-0.0.4) (2021-12-17)
 
 #### 聊天
 
@@ -801,13 +801,13 @@
 
 #### 修复
 
-* app needs r/w access to rootfs ([#1549](https://github.com/truecharts/apps/issues/1549))
+* 应用程序需要 r/w 访问 rootfs ([#1549](https://github.com/truecharts/apps/issues/1549))
 
 
 
 <a name="paperless-ng-0.0.3"></a>
 
-### [paperless-ng-0.0.3](https://github.com/truecharts/apps/compare/paperless-ng-0.0.2...paperless-ng-0.0.3) (2021-12-14)
+### [无纸-ng-0.0.3](https://github.com/truecharts/apps/compare/paperless-ng-0.0.2...paperless-ng-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -817,7 +817,7 @@
 
 <a name="paperless-ng-0.0.2"></a>
 
-### [paperless-ng-0.0.2](https://github.com/truecharts/apps/compare/paperless-ng-0.0.1...paperless-ng-0.0.2) (2021-12-13)
+### [无纸-ng-0.0.2](https://github.com/truecharts/apps/compare/paperless-ng-0.0.1...paperless-ng-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -827,4 +827,4 @@
 
 <a name="paperless-ng-0.0.1"></a>
 
-### paperless-ng-0.0.1 (2021-12-12)
+### 无纸-ng-0.0.1 (2021-12)
