@@ -1,12 +1,12 @@
 # 检查
 
-Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution.
+Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny 是一个硬盘驱动器健康仪表盘 & 监视解决方案。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://hub.docker.com/r/linuxserver/scrutiny>
+* [https://hub.docker.com/r/linuxserver/script](https://hub.docker.com/r/linuxserver/scrutiny)
 
 ## B. 所需经费
 
