@@ -393,7 +393,7 @@
 
 #### Feat
 
-* Use official image / remove portal ([#1938](https://github.com/truecharts/apps/issues/1938))
+* 使用官方图像 / 移除portal ([#1938](https://github.com/truecharts/apps/issues/1938))
 
 
 
@@ -588,7 +588,7 @@
 
 <a name="syslog-ng-0.0.5"></a>
 
-### [syslog-ng-0.0.5](https://github.com/truecharts/apps/compare/syslog-ng-0.0.4...syslog-ng-0.0.5) (2021-12-18)
+### [syslog-ng-0.0.5](https://github.com/truecharts/apps/compare/syslog-ng-0.0.4...syslog-ng-0.0.5) (2021-12-18岁)
 
 #### 聊天
 
@@ -632,4 +632,4 @@
 
 <a name="syslog-ng-0.0.1"></a>
 
-### syslog-ng-0.0.1 (2021-12-12)
+### syslog-ng-0.0.1 (2021-12)
