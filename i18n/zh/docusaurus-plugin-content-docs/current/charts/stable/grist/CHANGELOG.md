@@ -208,7 +208,7 @@
 
 #### 修复
 
-* re-enable redis ([#2829](https://github.com/truecharts/apps/issues/2829))
+* 重新启用redis ([#2829](https://github.com/truecharts/apps/issues/2829))
 
 
 
@@ -265,7 +265,7 @@
 
 <a name="grist-1.0.21"></a>
 
-### [grist-1.0.21](https://github.com/truecharts/apps/compare/grist-1.0.20...grist-1.0.21) (2022-05-17)
+### [gr-1.0.21](https://github.com/truecharts/apps/compare/grist-1.0.20...grist-1.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="grist-1.0.21"></a>
 
-### [grist-1.0.21](https://github.com/truecharts/apps/compare/grist-1.0.20...grist-1.0.21) (2022-05-17)
+### [gr-1.0.21](https://github.com/truecharts/apps/compare/grist-1.0.20...grist-1.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -423,7 +423,7 @@
 
 #### Feat
 
-* Move to stable ([#2037](https://github.com/truecharts/apps/issues/2037))
+* 移动到稳定的([#2037](https://github.com/truecharts/apps/issues/2037))
 
 
 
@@ -434,7 +434,7 @@
 #### 修复
 
 * 修复一些应用并将一些应用移动到稳定状态
-* can't have boolean under secret ([#2031](https://github.com/truecharts/apps/issues/2031))
+* 不能在秘密下有布尔值([#2031](https://github.com/truecharts/apps/issues/2031))
 
 
 
@@ -460,7 +460,7 @@
 
 #### 修复
 
-* update image reference ([#2000](https://github.com/truecharts/apps/issues/2000))
+* 更新镜像引用[#2000](https://github.com/truecharts/apps/issues/2000))
 
 
 
@@ -474,7 +474,7 @@
 
 #### 修复
 
-* enable secondary ports ([#1989](https://github.com/truecharts/apps/issues/1989))
+* 启用二级端口[#1989](https://github.com/truecharts/apps/issues/1989)
 
 
 
