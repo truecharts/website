@@ -17,7 +17,7 @@
 
 
 
-## [pretend-youre-xyzzy-6.0.15](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.13...pretend-youre-xyzzy-6.0.15) (2022-07-12)
+## [预审-你再循环-6.0.15](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.13...pretend-youre-xyzzy-6.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [pretend-youre-xyzzy-6.0.13](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.12...pretend-youre-xyzzy-6.0.13) (2022-07-12)
+## [Pretend-youre-xyzzy-6.0.13](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.12...pretend-youre-xyzzy-6.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.12"></a>
 
-### [pretend-youre-xyzzy-6.0.12](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.11...pretend-youre-xyzzy-6.0.12) (2022-07-12)
+### [Pretend-youre-xyzzy-6.0.12](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.11...pretend-youre-xyzzy-6.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.11"></a>
 
-### [pretend-youre-xyzzy-6.0.11](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.10...pretend-youre-xyzzy-6.0.11) (2022-07-11)
+### [预审-你再现-6.0.11](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.10...pretend-youre-xyzzy-6.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.10"></a>
 
-### [pretend-youre-xyzzy-6.0.10](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.9...pretend-youre-xyzzy-6.0.10) (2022-07-09)
+### [预审-你再现-6.0.10](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.9...pretend-youre-xyzzy-6.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.9"></a>
 
-### [pretend-youre-xyzzy-6.0.9](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.8...pretend-youre-xyzzy-6.0.9) (2022-07-04)
+### [预end-youre-xyzzy-6.0.9](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.8...pretend-youre-xyzzy-6.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.8"></a>
 
-### [pretend-youre-xyzzy-6.0.8](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.7...pretend-youre-xyzzy-6.0.8) (2022-06-25)
+### [预审-你再现-6.0.8](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.7...pretend-youre-xyzzy-6.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.7"></a>
 
-### [pretend-youre-xyzzy-6.0.7](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.6...pretend-youre-xyzzy-6.0.7) (2022-06-22)
+### [预审-你再现-6.0.7](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.6...pretend-youre-xyzzy-6.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.6"></a>
 
-### [pretend-youre-xyzzy-6.0.6](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.5...pretend-youre-xyzzy-6.0.6) (2022-06-21)
+### [预end-youre-xyzzy-6.0.6](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.5...pretend-youre-xyzzy-6.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.5"></a>
 
-### [pretend-youre-xyzzy-6.0.5](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.4...pretend-youre-xyzzy-6.0.5) (2022-06-17)
+### [预end-youre-xyzzy-6.0.5](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.4...pretend-youre-xyzzy-6.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.4"></a>
 
-### [pretend-youre-xyzzy-6.0.4](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.3...pretend-youre-xyzzy-6.0.4) (2022-06-14)
+### [预审-你再现-6.0.4](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.3...pretend-youre-xyzzy-6.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.3"></a>
 
-### [pretend-youre-xyzzy-6.0.3](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.2...pretend-youre-xyzzy-6.0.3) (2022-06-11)
+### [预热-你再现-6.0.3](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.2...pretend-youre-xyzzy-6.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.2"></a>
 
-### [pretend-youre-xyzzy-6.0.2](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.1...pretend-youre-xyzzy-6.0.2) (2022-06-07)
+### [预置-你再循环-6.0.2](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-6.0.1...pretend-youre-xyzzy-6.0.2) (2022-06-07)
 
 #### 修复
 
@@ -146,7 +146,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.1"></a>
 
-### [pretend-youre-xyzzy-6.0.1](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.19...pretend-youre-xyzzy-6.0.1) (2022-06-07)
+### [预设-你再循环-6.0.1](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.19...pretend-youre-xyzzy-6.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -164,7 +164,7 @@
 
 <a name="pretend-youre-xyzzy-6.0.0"></a>
 
-### [pretend-youre-xyzzy-6.0.0](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.19...pretend-youre-xyzzy-6.0.0) (2022-06-07)
+### [预end-youre-xyzzy-6.0.0](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.19...pretend-youre-xyzzy-6.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -174,7 +174,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.19"></a>
 
-### [pretend-youre-xyzzy-5.0.19](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.18...pretend-youre-xyzzy-5.0.19) (2022-05-31)
+### [预设-你再度xyzzy-5.0.19](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.18...pretend-youre-xyzzy-5.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -184,7 +184,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.18"></a>
 
-### [pretend-youre-xyzzy-5.0.18](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.17...pretend-youre-xyzzy-5.0.18) (2022-05-26)
+### [Pretend-youre-xyzzy-5.0.18](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.17...pretend-youre-xyzzy-5.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -195,7 +195,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.18"></a>
 
-### [pretend-youre-xyzzy-5.0.18](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.17...pretend-youre-xyzzy-5.0.18) (2022-05-26)
+### [Pretend-youre-xyzzy-5.0.18](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.17...pretend-youre-xyzzy-5.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -205,7 +205,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.17"></a>
 
-### [pretend-youre-xyzzy-5.0.17](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.16...pretend-youre-xyzzy-5.0.17) (2022-05-24)
+### [预审-你再循环-5.0.17](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.16...pretend-youre-xyzzy-5.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -236,7 +236,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.15"></a>
 
-### [pretend-youre-xyzzy-5.0.15](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.14...pretend-youre-xyzzy-5.0.15) (2022-05-17)
+### [预热-你再循环-5.0.15](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.14...pretend-youre-xyzzy-5.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -246,7 +246,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.14"></a>
 
-### [pretend-youre-xyzzy-5.0.14](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.13...pretend-youre-xyzzy-5.0.14) (2022-05-10)
+### [预设-你再循环-xyzzy-5.0.14](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.13...pretend-youre-xyzzy-5.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -256,7 +256,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.13"></a>
 
-### [pretend-youre-xyzzy-5.0.13](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.12...pretend-youre-xyzzy-5.0.13) (2022-05-05)
+### [预设-你再循环-5.0.13](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.12...pretend-youre-xyzzy-5.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.11"></a>
 
-### [pretend-youre-xyzzy-5.0.11](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.10...pretend-youre-xyzzy-5.0.11) (2022-04-20)
+### [预设-你重新xyzzy-5.0.11](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.10...pretend-youre-xyzzy-5.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -287,7 +287,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.10"></a>
 
-### [pretend-youre-xyzzy-5.0.10](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.9...pretend-youre-xyzzy-5.0.10) (2022-04-12)
+### [预置-你-xyzzy-5.0.10](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.9...pretend-youre-xyzzy-5.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -297,7 +297,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.9"></a>
 
-### [pretend-youre-xyzzy-5.0.9](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.8...pretend-youre-xyzzy-5.0.9) (2022-04-03)
+### [预设-你-xyzzy-5.0.9](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.8...pretend-youre-xyzzy-5.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -307,7 +307,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.8"></a>
 
-### [pretend-youre-xyzzy-5.0.8](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.7...pretend-youre-xyzzy-5.0.8) (2022-03-31)
+### [预设-你再度xyzzy-5.0.8](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.7...pretend-youre-xyzzy-5.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -317,7 +317,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.7"></a>
 
-### [pretend-youre-xyzzy-5.0.7](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.6...pretend-youre-xyzzy-5.0.7) (2022-03-30)
+### [预设-你重新xyzy-5.0.7](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.6...pretend-youre-xyzzy-5.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.6"></a>
 
-### [pretend-youre-xyzzy-5.0.6](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.5...pretend-youre-xyzzy-5.0.6) (2022-03-26)
+### [预设-你再循环-xyzzy-5.0.6](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.5...pretend-youre-xyzzy-5.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -337,7 +337,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.1"></a>
 
-### [pretend-youre-xyzzy-5.0.1](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.0...pretend-youre-xyzzy-5.0.1) (2022-03-07)
+### [预设-你再循环-xyzzy-5.0.1](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-5.0.0...pretend-youre-xyzzy-5.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -348,7 +348,7 @@
 
 <a name="pretend-youre-xyzzy-5.0.0"></a>
 
-### [pretend-youre-xyzzy-5.0.0](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.42...pretend-youre-xyzzy-5.0.0) (2022-03-03)
+### [预end-youre-xyzzy-5.0.0](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.42...pretend-youre-xyzzy-5.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -364,7 +364,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.42"></a>
 
-### [pretend-youre-xyzzy-4.0.42](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.41...pretend-youre-xyzzy-4.0.42) (2022-03-02)
+### [预设-你再度xyzzy-4.0.42](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.41...pretend-youre-xyzzy-4.0.42) (2022-03-02)
 
 #### 聊天
 
@@ -375,7 +375,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.41"></a>
 
-### [pretend-youre-xyzzy-4.0.41](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.40...pretend-youre-xyzzy-4.0.41) (2022-02-21)
+### [预审-你-xyzzy-4.0.41](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.40...pretend-youre-xyzzy-4.0.41) (2022-02-21)
 
 #### 聊天
 
@@ -395,7 +395,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.39"></a>
 
-### [pretend-youre-xyzzy-4.0.39](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.38...pretend-youre-xyzzy-4.0.39) (2022-02-08)
+### [预置-你-xyzzy-4.0.39](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.38...pretend-youre-xyzzy-4.0.39) (2022-02-08)
 
 #### 聊天
 
@@ -406,7 +406,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.38"></a>
 
-### [pretend-youre-xyzzy-4.0.38](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.37...pretend-youre-xyzzy-4.0.38) (2022-02-06)
+### [预设-你再循环-4.0.38](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.37...pretend-youre-xyzzy-4.0.38) (2022-02-06)
 
 #### 聊天
 
@@ -416,7 +416,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.37"></a>
 
-### [pretend-youre-xyzzy-4.0.37](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.36...pretend-youre-xyzzy-4.0.37) (2022-02-05)
+### [预置-你-你-xyzzy-4.0.37](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.36...pretend-youre-xyzzy-4.0.37) (2022-02-05)
 
 #### 聊天
 
@@ -426,7 +426,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.36"></a>
 
-### [pretend-youre-xyzzy-4.0.36](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.35...pretend-youre-xyzzy-4.0.36) (2022-02-02)
+### [预热-youre-xyzzy-4.0.36](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.35...pretend-youre-xyzzy-4.0.36) (2022-02-02)
 
 #### 聊天
 
@@ -446,7 +446,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.34"></a>
 
-### [pretend-youre-xyzzy-4.0.34](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.33...pretend-youre-xyzzy-4.0.34) (2022-01-22)
+### [预热-youre-xyzzy-4.0.34](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.33...pretend-youre-xyzzy-4.0.34) (2022-01-22)
 
 #### 聊天
 
@@ -456,7 +456,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.33"></a>
 
-### [pretend-youre-xyzzy-4.0.33](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.32...pretend-youre-xyzzy-4.0.33) (2022-01-21)
+### [预热-youre-xyzzy-4.0.33](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.32...pretend-youre-xyzzy-4.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -480,7 +480,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.31"></a>
 
-### [pretend-youre-xyzzy-4.0.31](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.30...pretend-youre-xyzzy-4.0.31) (2022-01-13)
+### [预热-youre-xyzzy-4.0.31](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.30...pretend-youre-xyzzy-4.0.31) (2022-01-13)
 
 #### 聊天
 
@@ -494,7 +494,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.30"></a>
 
-### [pretend-youre-xyzzy-4.0.30](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.29...pretend-youre-xyzzy-4.0.30) (2022-01-12)
+### [预置-你-xyzzy-4.0.30](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.29...pretend-youre-xyzzy-4.0.30) (2022-01-12)
 
 #### 聊天
 
@@ -504,7 +504,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.29"></a>
 
-### [pretend-youre-xyzzy-4.0.29](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.28...pretend-youre-xyzzy-4.0.29) (2022-01-11)
+### [预热-youre-xyzzy-4.0.29](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.28...pretend-youre-xyzzy-4.0.29) (2022-01-11)
 
 #### 聊天
 
@@ -514,7 +514,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.28"></a>
 
-### [pretend-youre-xyzzy-4.0.28](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.27...pretend-youre-xyzzy-4.0.28) (2022-01-04)
+### [预热-youre-xyzzy-4.0.28](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.27...pretend-youre-xyzzy-4.0.28) (2022-01-04)
 
 #### 聊天
 
@@ -524,7 +524,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.27"></a>
 
-### [pretend-youre-xyzzy-4.0.27](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.26...pretend-youre-xyzzy-4.0.27) (2021-12-28)
+### [预审-你-xyzzy-4.0.27](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.26...pretend-youre-xyzzy-4.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -534,7 +534,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.26"></a>
 
-### [pretend-youre-xyzzy-4.0.26](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.25...pretend-youre-xyzzy-4.0.26) (2021-12-21)
+### [Pretend-youre-xyzzy-4.0.26](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.25...pretend-youre-xyzzy-4.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -544,7 +544,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.25"></a>
 
-### [pretend-youre-xyzzy-4.0.25](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.24...pretend-youre-xyzzy-4.0.25) (2021-12-19)
+### [Pretend-youre-xyzzy-4.0.25](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.24...pretend-youre-xyzzy-4.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -555,7 +555,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.24"></a>
 
-### [pretend-youre-xyzzy-4.0.24](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.23...pretend-youre-xyzzy-4.0.24) (2021-12-19)
+### [预审-你-xyzzy-4.0.24](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.23...pretend-youre-xyzzy-4.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -565,7 +565,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.23"></a>
 
-### [pretend-youre-xyzzy-4.0.23](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.22...pretend-youre-xyzzy-4.0.23) (2021-12-18)
+### [pretend-youre-xyzzy-4.0.23](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.22...pretend-youre-xyzzy-4.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -576,7 +576,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.22"></a>
 
-### [pretend-youre-xyzzy-4.0.22](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.21...pretend-youre-xyzzy-4.0.22) (2021-12-14)
+### [预审-你xyzzy-4.0.22](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.21...pretend-youre-xyzzy-4.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -586,7 +586,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.21"></a>
 
-### [pretend-youre-xyzzy-4.0.21](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.20...pretend-youre-xyzzy-4.0.21) (2021-12-13)
+### [预热-youre-xyzzy-4.0.21](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.20...pretend-youre-xyzzy-4.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -601,7 +601,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.20"></a>
 
-### [pretend-youre-xyzzy-4.0.20](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.19...pretend-youre-xyzzy-4.0.20) (2021-12-11)
+### [预置-你-你-xyzzy-4.0.20](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.19...pretend-youre-xyzzy-4.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -611,7 +611,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.19"></a>
 
-### [pretend-youre-xyzzy-4.0.19](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.18...pretend-youre-xyzzy-4.0.19) (2021-12-07)
+### [Pretend-youre-xyzzy-4.0.19](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.18...pretend-youre-xyzzy-4.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -621,7 +621,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.18"></a>
 
-### pretend-youre-xyzzy-4.0.18 (2021-12-05)
+### 预切-youre-xyzzy-4.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.17"></a>
 
-### [pretend-youre-xyzzy-4.0.17](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.16...pretend-youre-xyzzy-4.0.17) (2021-12-05)
+### [Pretend-youre-xyzzy-4.0.17](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.16...pretend-youre-xyzzy-4.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.16"></a>
 
-### [pretend-youre-xyzzy-4.0.16](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.15...pretend-youre-xyzzy-4.0.16) (2021-12-04)
+### [Pretend-youre-xyzzy-4..0.16](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.15...pretend-youre-xyzzy-4.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -662,7 +662,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.15"></a>
 
-### [pretend-youre-xyzzy-4.0.15](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.14...pretend-youre-xyzzy-4.0.15) (2021-12-04)
+### [预热-youre-xyzzy-4.0.15](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.14...pretend-youre-xyzzy-4.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -672,7 +672,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.14"></a>
 
-### [pretend-youre-xyzzy-4.0.14](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.13...pretend-youre-xyzzy-4.0.14) (2021-12-03)
+### [预审-你xyzzy-4.0.14](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.13...pretend-youre-xyzzy-4.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -684,7 +684,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.13"></a>
 
-### [pretend-youre-xyzzy-4.0.13](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.12...pretend-youre-xyzzy-4.0.13) (2021-11-30)
+### [预设-你-你-xyzzy-4.0.13](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.12...pretend-youre-xyzzy-4.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -698,7 +698,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.12"></a>
 
-### [pretend-youre-xyzzy-4.0.12](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.11...pretend-youre-xyzzy-4.0.12) (2021-11-23)
+### [预热-你-xyzzy-4.0.12](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.11...pretend-youre-xyzzy-4.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -708,7 +708,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.11"></a>
 
-### [pretend-youre-xyzzy-4.0.11](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.10...pretend-youre-xyzzy-4.0.11) (2021-11-22)
+### [预审-你-你-xyzzy-4.0.11](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.10...pretend-youre-xyzzy-4.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -718,7 +718,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.10"></a>
 
-### [pretend-youre-xyzzy-4.0.10](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.9...pretend-youre-xyzzy-4.0.10) (2021-11-16)
+### [Pretend-youre-xyzzy-4.0.10](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.9...pretend-youre-xyzzy-4.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -728,7 +728,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.9"></a>
 
-### [pretend-youre-xyzzy-4.0.9](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.8...pretend-youre-xyzzy-4.0.9) (2021-11-15)
+### [预热-你再循环-4.0.9](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.8...pretend-youre-xyzzy-4.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -738,7 +738,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.8"></a>
 
-### [pretend-youre-xyzzy-4.0.8](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.7...pretend-youre-xyzzy-4.0.8) (2021-11-14)
+### [预热-你再循环-4.0.8](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.7...pretend-youre-xyzzy-4.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -755,7 +755,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.7"></a>
 
-### [pretend-youre-xyzzy-4.0.7](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.6...pretend-youre-xyzzy-4.0.7) (2021-11-09)
+### [预设-你再循环-4.0.7](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.6...pretend-youre-xyzzy-4.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -765,7 +765,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.6"></a>
 
-### [pretend-youre-xyzzy-4.0.6](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.5...pretend-youre-xyzzy-4.0.6) (2021-11-07)
+### [Pretend-youre-xyzzy-4.0.6](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.5...pretend-youre-xyzzy-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -775,7 +775,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.5"></a>
 
-### [pretend-youre-xyzzy-4.0.5](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.4...pretend-youre-xyzzy-4.0.5) (2021-11-07)
+### [预设-你-你-xyzzy-4.0.5](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.4...pretend-youre-xyzzy-4.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -797,7 +797,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.4"></a>
 
-### [pretend-youre-xyzzy-4.0.4](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.3...pretend-youre-xyzzy-4.0.4) (2021-11-02)
+### [预设-你-xyzzy-4.0.4](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.3...pretend-youre-xyzzy-4.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -807,7 +807,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.3"></a>
 
-### [pretend-youre-xyzzy-4.0.3](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.2...pretend-youre-xyzzy-4.0.3) (2021-11-01)
+### [预设-你再循环-4.0.3](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.2...pretend-youre-xyzzy-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -817,7 +817,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.2"></a>
 
-### [pretend-youre-xyzzy-4.0.2](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.1...pretend-youre-xyzzy-4.0.2) (2021-10-26)
+### [Pretend-youre-xyzzy-4.0.2](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.1...pretend-youre-xyzzy-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -827,7 +827,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.1"></a>
 
-### [pretend-youre-xyzzy-4.0.1](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.0...pretend-youre-xyzzy-4.0.1) (2021-10-26)
+### [Pretend-youre-xyzzy-4.0.1](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-4.0.0...pretend-youre-xyzzy-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -837,7 +837,7 @@
 
 <a name="pretend-youre-xyzzy-4.0.0"></a>
 
-### [pretend-youre-xyzzy-4.0.0](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.16...pretend-youre-xyzzy-4.0.0) (2021-10-25)
+### [Pretend-youre-xyzzy-4.0.0](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.16...pretend-youre-xyzzy-4.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -847,12 +847,12 @@
 
 <a name="pretend-youre-xyzzy-3.0.16"></a>
 
-### [pretend-youre-xyzzy-3.0.16](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.13...pretend-youre-xyzzy-3.0.16) (2021-10-20)
+### [Pretend-youre-xyzzy-3.0.16](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.13...pretend-youre-xyzzy-3.0.16) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -863,7 +863,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.13"></a>
 
-### [pretend-youre-xyzzy-3.0.13](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.12...pretend-youre-xyzzy-3.0.13) (2021-10-20)
+### [Pretend-youre-xyzzy-3.0.13](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.12...pretend-youre-xyzzy-3.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -873,7 +873,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.12"></a>
 
-### [pretend-youre-xyzzy-3.0.12](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.11...pretend-youre-xyzzy-3.0.12) (2021-10-19)
+### [Pretend-youre-xyzzy-3.0.12](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.11...pretend-youre-xyzzy-3.0.12) (2021-10-19)
 
 #### 更改
 
@@ -897,7 +897,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.11"></a>
 
-### [pretend-youre-xyzzy-3.0.11](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.10...pretend-youre-xyzzy-3.0.11) (2021-10-19)
+### [Pretend-youre-xyzzy-3.0.11](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.10...pretend-youre-xyzzy-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -907,7 +907,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.10"></a>
 
-### [pretend-youre-xyzzy-3.0.10](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.9...pretend-youre-xyzzy-3.0.10) (2021-10-19)
+### [Pretend-youre-xyzzy-3.0.10](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.9...pretend-youre-xyzzy-3.0.10) (2021-10-19)
 
 #### 修复
 
@@ -917,7 +917,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.9"></a>
 
-### [pretend-youre-xyzzy-3.0.9](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.8...pretend-youre-xyzzy-3.0.9) (2021-10-18)
+### [pretend-youre-xyzzy-3.0.9](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.8...pretend-youre-xyzzy-3.0.9) (2021-1018)
 
 #### 重新因子
 
@@ -927,7 +927,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.8"></a>
 
-### [pretend-youre-xyzzy-3.0.8](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.7...pretend-youre-xyzzy-3.0.8) (2021-10-17)
+### [Pretend-youre-xyzzy-3.0.8](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.7...pretend-youre-xyzzy-3.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -937,7 +937,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.7"></a>
 
-### [pretend-youre-xyzzy-3.0.7](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.6...pretend-youre-xyzzy-3.0.7) (2021-10-13)
+### [Pretend-youre-xyzzy-3.0.7](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.6...pretend-youre-xyzzy-3.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -947,7 +947,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.6"></a>
 
-### [pretend-youre-xyzzy-3.0.6](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.5...pretend-youre-xyzzy-3.0.6) (2021-10-12)
+### [Pretend-youre-xyzzy-3.0.6](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.5...pretend-youre-xyzzy-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -957,7 +957,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.5"></a>
 
-### [pretend-youre-xyzzy-3.0.5](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.4...pretend-youre-xyzzy-3.0.5) (2021-10-12)
+### [Pretend-youre-xyzzy-3.0.5](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.4...pretend-youre-xyzzy-3.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -967,7 +967,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.4"></a>
 
-### [pretend-youre-xyzzy-3.0.4](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.3...pretend-youre-xyzzy-3.0.4) (2021-10-05)
+### [预审-你再现-3.0.4](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.3...pretend-youre-xyzzy-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -977,7 +977,7 @@
 
 <a name="pretend-youre-xyzzy-3.0.3"></a>
 
-### [pretend-youre-xyzzy-3.0.3](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.2...pretend-youre-xyzzy-3.0.3) (2021-09-29)
+### [预置-你再循环-xyzzy-3.0.3](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-3.0.2...pretend-youre-xyzzy-3.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -993,13 +993,13 @@
 
 <a name="pretend-youre-xyzzy-3.0.0"></a>
 
-### [pretend-youre-xyzzy-3.0.0](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-2.0.2...pretend-youre-xyzzy-3.0.0) (2021-09-26)
+### [Pretend-youre-xyzzy-3.0.0](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-2.0.2...pretend-youre-xyzzy-3.0.0) (2021-09-26)
 
 
 
 <a name="pretend-youre-xyzzy-2.0.2"></a>
 
-### [pretend-youre-xyzzy-2.0.2](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-2.0.1...pretend-youre-xyzzy-2.0.2) (2021-09-21)
+### [Pretend-youre-xyzzy-2.0.2](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-2.0.1...pretend-youre-xyzzy-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1009,7 +1009,7 @@
 
 <a name="pretend-youre-xyzzy-2.0.1"></a>
 
-### [pretend-youre-xyzzy-2.0.1](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-1.9.15...pretend-youre-xyzzy-2.0.1) (2021-09-13)
+### [预设-你再循环-yzzy-2.0.1](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-1.9.15...pretend-youre-xyzzy-2.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1028,7 +1028,7 @@
 
 <a name="pretend-youre-xyzzy-1.9.15"></a>
 
-## [pretend-youre-xyzzy-1.9.15](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-1.9.14...pretend-youre-xyzzy-1.9.15) (2021-09-08)
+## [预end-youre-xyzzy-1.9.15](https://github.com/truecharts/apps/compare/pretend-youre-xyzzy-1.9.14...pretend-youre-xyzzy-1.9.15) (2021-09-08)
 
 ### 修复
 
