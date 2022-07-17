@@ -6,9 +6,9 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://gitea.com/gitea/helm-chart>
+* [https://gitea.com/gitea/helm-charts](https://gitea.com/gitea/helm-chart)
 * <https://github.com/go-gitea/gitea>
-* <https://hub.docker.com/r/gitea/gitea/>
+* [https://hub.docker.com/r/gitea/gitea//](https://hub.docker.com/r/gitea/gitea/)
 
 ## B. 所需经费
 
