@@ -1,6 +1,6 @@
 # 14 - Backup and Restore
 
-## Requirements
+## B. 所需经费
 
 This guide makes use of our command-line tool, called `TrueTool`.
 
@@ -95,4 +95,4 @@ Sometimes you either need to wipe your Pool, Migrate to a new Pool or restore a 
 
 ## Video Guide
 
-TBD
+待办事项
