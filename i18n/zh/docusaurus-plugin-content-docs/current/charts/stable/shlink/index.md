@@ -1,6 +1,6 @@
 # shlink
 
-A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own custom domain.
+基于 PHP 的自托管的 URL 缩短器，可用于在您自己的自定域名下为缩短的 URL服务。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
