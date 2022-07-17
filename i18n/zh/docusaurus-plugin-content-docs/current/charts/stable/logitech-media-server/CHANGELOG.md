@@ -473,7 +473,7 @@
 #### 聊天
 
 * 更新一般的非主码([#2178](https://github.com/truecharts/apps/issues/2178))
-* make some fields required ([#2155](https://github.com/truecharts/apps/issues/2155))
+* 需要一些字段([#2155](https://github.com/truecharts/apps/issues/2155))
 
 
 
@@ -870,7 +870,7 @@
 
 <a name="logitech-media-server-2.0.33"></a>
 
-### [logitech-media-server-2.0.33](https://github.com/truecharts/apps/compare/logitech-media-server-2.0.32...logitech-media-server-2.0.33) (2021-12-18)
+### [logitech-media-server-2.0.33](https://github.com/truecharts/apps/compare/logitech-media-server-2.0.32...logitech-media-server-2.0.33) (2021-12-18岁)
 
 #### 聊天
 
@@ -1107,7 +1107,7 @@
 
 #### 聊天
 
-* move to LMS to stable
+* 移动到 LMS 稳定的
 
 
 
@@ -1175,7 +1175,7 @@
 
 #### 聊天
 
-* update lmscommunity/logitechmediaserver:8.3.0 docker digest to 201247c ([#1268](https://github.com/truecharts/apps/issues/1268))
+* 更新 lmscommunity/logitechmediaserver:8.3.0 docker 摘要到 201247c ([#1268](https://github.com/truecharts/apps/issues/1268))
 
 
 
@@ -1238,7 +1238,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1336,7 +1336,7 @@
 
 #### 修复
 
-* Duplicate port name ([#1148](https://github.com/truecharts/apps/issues/1148))
+* 复制端口名称([#1148](https://github.com/truecharts/apps/issues/1148))
 
 
 
@@ -1347,7 +1347,7 @@
 #### 修复
 
 * 跳转某些应用触发release
-* Fix service name casing in questions.yaml ([#1145](https://github.com/truecharts/apps/issues/1145))
+* 修复问题.yaml 中的服务名称外壳([#1145](https://github.com/truecharts/apps/issues/1145))
 
 
 
