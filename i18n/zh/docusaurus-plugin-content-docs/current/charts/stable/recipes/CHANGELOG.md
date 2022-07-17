@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [recipes-8.0.22](https://github.com/truecharts/apps/compare/recipes-8.0.21...recipes-8.0.22) (2022-07-14)
+## [配方 8.0.22](https://github.com/truecharts/apps/compare/recipes-8.0.21...recipes-8.0.22) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [recipes-8.0.21](https://github.com/truecharts/apps/compare/recipes-8.0.19...recipes-8.0.21) (2022-07-14)
+## [配方-8.0.21](https://github.com/truecharts/apps/compare/recipes-8.0.19...recipes-8.0.21) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [recipes-8.0.19](https://github.com/truecharts/apps/compare/recipes-8.0.18...recipes-8.0.19) (2022-07-14)
+## [配方 8.0.19](https://github.com/truecharts/apps/compare/recipes-8.0.18...recipes-8.0.19) (2022-07-14)
 
 ### 聊天
 
@@ -25,7 +25,7 @@
 
 
 
-## [recipes-8.0.18](https://github.com/truecharts/apps/compare/recipes-8.0.17...recipes-8.0.18) (2022-07-13)
+## [配方-8.0.18](https://github.com/truecharts/apps/compare/recipes-8.0.17...recipes-8.0.18) (2022-07-13)
 
 ### 聊天
 
@@ -33,7 +33,7 @@
 
 
 
-## [recipes-8.0.17](https://github.com/truecharts/apps/compare/recipes-8.0.15...recipes-8.0.17) (2022-07-12)
+## [配方-8.0.17](https://github.com/truecharts/apps/compare/recipes-8.0.15...recipes-8.0.17) (2022-07-12)
 
 ### 聊天
 
@@ -42,7 +42,7 @@
 
 
 
-## [recipes-8.0.15](https://github.com/truecharts/apps/compare/recipes-8.0.14...recipes-8.0.15) (2022-07-12)
+## [配方-8.0.15](https://github.com/truecharts/apps/compare/recipes-8.0.14...recipes-8.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -52,7 +52,7 @@
 
 <a name="recipes-8.0.14"></a>
 
-### [recipes-8.0.14](https://github.com/truecharts/apps/compare/recipes-8.0.13...recipes-8.0.14) (2022-07-12)
+### [配方-8.0.14](https://github.com/truecharts/apps/compare/recipes-8.0.13...recipes-8.0.14) (2022-07-12)
 
 #### 聊天
 
@@ -62,7 +62,7 @@
 
 <a name="recipes-8.0.13"></a>
 
-### [recipes-8.0.13](https://github.com/truecharts/apps/compare/recipes-8.0.12...recipes-8.0.13) (2022-07-11)
+### [配方-8.0.13](https://github.com/truecharts/apps/compare/recipes-8.0.12...recipes-8.0.13) (2022-07-11)
 
 #### 聊天
 
@@ -72,7 +72,7 @@
 
 <a name="recipes-8.0.12"></a>
 
-### [recipes-8.0.12](https://github.com/truecharts/apps/compare/recipes-8.0.11...recipes-8.0.12) (2022-07-09)
+### [配方-8.0.12](https://github.com/truecharts/apps/compare/recipes-8.0.11...recipes-8.0.12) (2022-07-09)
 
 #### 聊天
 
@@ -82,7 +82,7 @@
 
 <a name="recipes-8.0.11"></a>
 
-### [recipes-8.0.11](https://github.com/truecharts/apps/compare/recipes-8.0.10...recipes-8.0.11) (2022-07-08)
+### [配方-8.0.11](https://github.com/truecharts/apps/compare/recipes-8.0.10...recipes-8.0.11) (2022-07-08)
 
 #### 聊天
 
@@ -92,7 +92,7 @@
 
 <a name="recipes-8.0.10"></a>
 
-### [recipes-8.0.10](https://github.com/truecharts/apps/compare/recipes-8.0.9...recipes-8.0.10) (2022-07-05)
+### [配方-8.0.10](https://github.com/truecharts/apps/compare/recipes-8.0.9...recipes-8.0.10) (2022-07-05)
 
 #### 聊天
 
@@ -102,7 +102,7 @@
 
 <a name="recipes-8.0.9"></a>
 
-### [recipes-8.0.9](https://github.com/truecharts/apps/compare/recipes-8.0.8...recipes-8.0.9) (2022-07-04)
+### [配方-8.0.9](https://github.com/truecharts/apps/compare/recipes-8.0.8...recipes-8.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -112,7 +112,7 @@
 
 <a name="recipes-8.0.8"></a>
 
-### [recipes-8.0.8](https://github.com/truecharts/apps/compare/recipes-8.0.7...recipes-8.0.8) (2022-06-25)
+### [配方-8.0.8](https://github.com/truecharts/apps/compare/recipes-8.0.7...recipes-8.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -122,7 +122,7 @@
 
 <a name="recipes-8.0.7"></a>
 
-### [recipes-8.0.7](https://github.com/truecharts/apps/compare/recipes-8.0.6...recipes-8.0.7) (2022-06-25)
+### [配方-8.0.7](https://github.com/truecharts/apps/compare/recipes-8.0.6...recipes-8.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -132,7 +132,7 @@
 
 <a name="recipes-8.0.6"></a>
 
-### [recipes-8.0.6](https://github.com/truecharts/apps/compare/recipes-8.0.5...recipes-8.0.6) (2022-06-22)
+### [配方-8.0.6](https://github.com/truecharts/apps/compare/recipes-8.0.5...recipes-8.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -142,7 +142,7 @@
 
 <a name="recipes-8.0.5"></a>
 
-### [recipes-8.0.5](https://github.com/truecharts/apps/compare/recipes-8.0.4...recipes-8.0.5) (2022-06-21)
+### [配方-8.0.5](https://github.com/truecharts/apps/compare/recipes-8.0.4...recipes-8.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -152,7 +152,7 @@
 
 <a name="recipes-8.0.4"></a>
 
-### [recipes-8.0.4](https://github.com/truecharts/apps/compare/recipes-8.0.3...recipes-8.0.4) (2022-06-17)
+### [配方-8.0.4](https://github.com/truecharts/apps/compare/recipes-8.0.3...recipes-8.0.4) (2022-06-17)
 
 #### 聊天
 
@@ -162,7 +162,7 @@
 
 <a name="recipes-8.0.3"></a>
 
-### [recipes-8.0.3](https://github.com/truecharts/apps/compare/recipes-8.0.2...recipes-8.0.3) (2022-06-14)
+### [配方-8.0.3](https://github.com/truecharts/apps/compare/recipes-8.0.2...recipes-8.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -172,7 +172,7 @@
 
 <a name="recipes-8.0.2"></a>
 
-### [recipes-8.0.2](https://github.com/truecharts/apps/compare/recipes-8.0.1...recipes-8.0.2) (2022-06-14)
+### [配方-8.0.2](https://github.com/truecharts/apps/compare/recipes-8.0.1...recipes-8.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -182,7 +182,7 @@
 
 <a name="recipes-8.0.1"></a>
 
-### [recipes-8.0.1](https://github.com/truecharts/apps/compare/recipes-8.0.0...recipes-8.0.1) (2022-06-11)
+### [配方-8.0.1](https://github.com/truecharts/apps/compare/recipes-8.0.0...recipes-8.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -192,7 +192,7 @@
 
 <a name="recipes-8.0.0"></a>
 
-### [recipes-8.0.0](https://github.com/truecharts/apps/compare/recipes-7.0.1...recipes-8.0.0) (2022-06-07)
+### [配方-8.0.0](https://github.com/truecharts/apps/compare/recipes-7.0.1...recipes-8.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -206,7 +206,7 @@
 
 <a name="recipes-7.0.1"></a>
 
-### [recipes-7.0.1](https://github.com/truecharts/apps/compare/recipes-6.0.39...recipes-7.0.1) (2022-06-07)
+### [配方-7.0.1](https://github.com/truecharts/apps/compare/recipes-6.0.39...recipes-7.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -226,7 +226,7 @@
 
 <a name="recipes-7.0.0"></a>
 
-### [recipes-7.0.0](https://github.com/truecharts/apps/compare/recipes-6.0.39...recipes-7.0.0) (2022-06-07)
+### [配方-7.0.0](https://github.com/truecharts/apps/compare/recipes-6.0.39...recipes-7.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -240,7 +240,7 @@
 
 <a name="recipes-6.0.39"></a>
 
-### [recipes-6.0.39](https://github.com/truecharts/apps/compare/recipes-6.0.38...recipes-6.0.39) (2022-05-31)
+### [配方-6.0.39](https://github.com/truecharts/apps/compare/recipes-6.0.38...recipes-6.0.39) (2022-05-31)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="recipes-6.0.38"></a>
 
-### [recipes-6.0.38](https://github.com/truecharts/apps/compare/recipes-6.0.37...recipes-6.0.38) (2022-05-29)
+### [配方-6.0.38](https://github.com/truecharts/apps/compare/recipes-6.0.37...recipes-6.0.38) (2022-05-29)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="recipes-6.0.37"></a>
 
-### [recipes-6.0.37](https://github.com/truecharts/apps/compare/recipes-6.0.36...recipes-6.0.37) (2022-05-26)
+### [配方-6.0.37](https://github.com/truecharts/apps/compare/recipes-6.0.36...recipes-6.0.37) (2022-05-26)
 
 #### 聊天
 
@@ -272,7 +272,7 @@
 
 <a name="recipes-6.0.37"></a>
 
-### [recipes-6.0.37](https://github.com/truecharts/apps/compare/recipes-6.0.36...recipes-6.0.37) (2022-05-26)
+### [配方-6.0.37](https://github.com/truecharts/apps/compare/recipes-6.0.36...recipes-6.0.37) (2022-05-26)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="recipes-6.0.36"></a>
 
-### [recipes-6.0.36](https://github.com/truecharts/apps/compare/recipes-6.0.35...recipes-6.0.36) (2022-05-26)
+### [配方-6.0.36](https://github.com/truecharts/apps/compare/recipes-6.0.35...recipes-6.0.36) (2022-05-26)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="recipes-6.0.35"></a>
 
-### [recipes-6.0.35](https://github.com/truecharts/apps/compare/recipes-6.0.34...recipes-6.0.35) (2022-05-24)
+### [配方-6.0.35](https://github.com/truecharts/apps/compare/recipes-6.0.34...recipes-6.0.35) (2022-05-24)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="recipes-6.0.34"></a>
 
-### [recipes-6.0.34](https://github.com/truecharts/apps/compare/recipes-6.0.33...recipes-6.0.34) (2022-05-19)
+### [配方-6.0.34](https://github.com/truecharts/apps/compare/recipes-6.0.33...recipes-6.0.34) (2022-05-19)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="recipes-6.0.33"></a>
 
-### [recipes-6.0.33](https://github.com/truecharts/apps/compare/recipes-6.0.31...recipes-6.0.33) (2022-05-18)
+### [配方-6.0.33](https://github.com/truecharts/apps/compare/recipes-6.0.31...recipes-6.0.33) (2022-05-18)
 
 #### 聊天
 
@@ -324,7 +324,7 @@
 
 <a name="recipes-6.0.32"></a>
 
-### [recipes-6.0.32](https://github.com/truecharts/apps/compare/recipes-6.0.31...recipes-6.0.32) (2022-05-17)
+### [配方-6.0.32](https://github.com/truecharts/apps/compare/recipes-6.0.31...recipes-6.0.32) (2022-05-17)
 
 #### 聊天
 
@@ -334,7 +334,7 @@
 
 <a name="recipes-6.0.31"></a>
 
-### [recipes-6.0.31](https://github.com/truecharts/apps/compare/recipes-6.0.30...recipes-6.0.31) (2022-05-17)
+### [配方-6.0.31](https://github.com/truecharts/apps/compare/recipes-6.0.30...recipes-6.0.31) (2022-05-17)
 
 #### 聊天
 
@@ -344,7 +344,7 @@
 
 <a name="recipes-6.0.30"></a>
 
-### [recipes-6.0.30](https://github.com/truecharts/apps/compare/recipes-6.0.29...recipes-6.0.30) (2022-05-13)
+### [配方-6.0.30](https://github.com/truecharts/apps/compare/recipes-6.0.29...recipes-6.0.30) (2022-05-13)
 
 #### 聊天
 
@@ -354,7 +354,7 @@
 
 <a name="recipes-6.0.29"></a>
 
-### [recipes-6.0.29](https://github.com/truecharts/apps/compare/recipes-6.0.28...recipes-6.0.29) (2022-05-10)
+### [配方-6.0.29](https://github.com/truecharts/apps/compare/recipes-6.0.28...recipes-6.0.29) (2022-05-10)
 
 #### 聊天
 
@@ -364,7 +364,7 @@
 
 <a name="recipes-6.0.28"></a>
 
-### [recipes-6.0.28](https://github.com/truecharts/apps/compare/recipes-6.0.27...recipes-6.0.28) (2022-05-08)
+### [配方-6.0.28](https://github.com/truecharts/apps/compare/recipes-6.0.27...recipes-6.0.28) (2022-05-08)
 
 #### 聊天
 
@@ -374,7 +374,7 @@
 
 <a name="recipes-6.0.27"></a>
 
-### [recipes-6.0.27](https://github.com/truecharts/apps/compare/recipes-6.0.26...recipes-6.0.27) (2022-05-05)
+### [配方-6.0.27](https://github.com/truecharts/apps/compare/recipes-6.0.26...recipes-6.0.27) (2022-05-05)
 
 #### 聊天
 
@@ -384,7 +384,7 @@
 
 <a name="recipes-6.0.26"></a>
 
-### [recipes-6.0.26](https://github.com/truecharts/apps/compare/recipes-6.0.25...recipes-6.0.26) (2022-05-04)
+### [配方-6.0.26](https://github.com/truecharts/apps/compare/recipes-6.0.25...recipes-6.0.26) (2022-05-04)
 
 #### 聊天
 
@@ -394,7 +394,7 @@
 
 <a name="recipes-6.0.25"></a>
 
-### [recipes-6.0.25](https://github.com/truecharts/apps/compare/recipes-6.0.24...recipes-6.0.25) (2022-05-04)
+### [配方-6.0.25](https://github.com/truecharts/apps/compare/recipes-6.0.24...recipes-6.0.25) (2022-05-04)
 
 #### 聊天
 
@@ -404,7 +404,7 @@
 
 <a name="recipes-6.0.24"></a>
 
-### [recipes-6.0.24](https://github.com/truecharts/apps/compare/recipes-6.0.23...recipes-6.0.24) (2022-04-26)
+### [配方-6.0.24](https://github.com/truecharts/apps/compare/recipes-6.0.23...recipes-6.0.24) (2022-04-26)
 
 #### 聊天
 
@@ -414,7 +414,7 @@
 
 <a name="recipes-6.0.23"></a>
 
-### [recipes-6.0.23](https://github.com/truecharts/apps/compare/recipes-6.0.22...recipes-6.0.23) (2022-04-26)
+### [配方-6.0.23](https://github.com/truecharts/apps/compare/recipes-6.0.22...recipes-6.0.23) (2022-04-26)
 
 #### 聊天
 
@@ -424,7 +424,7 @@
 
 <a name="recipes-6.0.22"></a>
 
-### [recipes-6.0.22](https://github.com/truecharts/apps/compare/recipes-6.0.21...recipes-6.0.22) (2022-04-20)
+### [配方-6.0.22](https://github.com/truecharts/apps/compare/recipes-6.0.21...recipes-6.0.22) (2022-04-20)
 
 #### 聊天
 
@@ -435,7 +435,7 @@
 
 <a name="recipes-6.0.21"></a>
 
-### [recipes-6.0.21](https://github.com/truecharts/apps/compare/recipes-6.0.20...recipes-6.0.21) (2022-04-12)
+### [配方-6.0.21](https://github.com/truecharts/apps/compare/recipes-6.0.20...recipes-6.0.21) (2022-04-12)
 
 #### 聊天
 
@@ -445,7 +445,7 @@
 
 <a name="recipes-6.0.20"></a>
 
-### [recipes-6.0.20](https://github.com/truecharts/apps/compare/recipes-6.0.19...recipes-6.0.20) (2022-04-03)
+### [配方-6.0.20](https://github.com/truecharts/apps/compare/recipes-6.0.19...recipes-6.0.20) (2022-04-03)
 
 #### 聊天
 
@@ -455,7 +455,7 @@
 
 <a name="recipes-6.0.19"></a>
 
-### [recipes-6.0.19](https://github.com/truecharts/apps/compare/recipes-6.0.18...recipes-6.0.19) (2022-03-31)
+### [配方-6.0.19](https://github.com/truecharts/apps/compare/recipes-6.0.18...recipes-6.0.19) (2022-03-31)
 
 #### 聊天
 
@@ -465,7 +465,7 @@
 
 <a name="recipes-6.0.18"></a>
 
-### [recipes-6.0.18](https://github.com/truecharts/apps/compare/recipes-6.0.16...recipes-6.0.18) (2022-03-31)
+### [配方-6.0.18](https://github.com/truecharts/apps/compare/recipes-6.0.16...recipes-6.0.18) (2022-03-31)
 
 #### 聊天
 
@@ -476,7 +476,7 @@
 
 <a name="recipes-6.0.16"></a>
 
-### [recipes-6.0.16](https://github.com/truecharts/apps/compare/recipes-6.0.15...recipes-6.0.16) (2022-03-30)
+### [配方-6.0.16](https://github.com/truecharts/apps/compare/recipes-6.0.15...recipes-6.0.16) (2022-03-30)
 
 #### 聊天
 
@@ -486,7 +486,7 @@
 
 <a name="recipes-6.0.15"></a>
 
-### [recipes-6.0.15](https://github.com/truecharts/apps/compare/recipes-6.0.14...recipes-6.0.15) (2022-03-30)
+### [配方-6.0.15](https://github.com/truecharts/apps/compare/recipes-6.0.14...recipes-6.0.15) (2022-03-30)
 
 #### 聊天
 
@@ -497,7 +497,7 @@
 
 <a name="recipes-6.0.14"></a>
 
-### [recipes-6.0.14](https://github.com/truecharts/apps/compare/recipes-6.0.13...recipes-6.0.14) (2022-03-26)
+### [配方-6.0.14](https://github.com/truecharts/apps/compare/recipes-6.0.13...recipes-6.0.14) (2022-03-26)
 
 #### 聊天
 
@@ -507,7 +507,7 @@
 
 <a name="recipes-6.0.13"></a>
 
-### [recipes-6.0.13](https://github.com/truecharts/apps/compare/recipes-6.0.12...recipes-6.0.13) (2022-03-26)
+### [配方-6.0.13](https://github.com/truecharts/apps/compare/recipes-6.0.12...recipes-6.0.13) (2022-03-26)
 
 #### 聊天
 
@@ -517,28 +517,28 @@
 
 <a name="recipes-6.0.11"></a>
 
-### [recipes-6.0.11](https://github.com/truecharts/apps/compare/recipes-6.0.10...recipes-6.0.11) (2022-03-26)
+### [配方-6.0.11](https://github.com/truecharts/apps/compare/recipes-6.0.10...recipes-6.0.11) (2022-03-26)
 
 #### 聊天
 
-* correct path for nginx ([#2284](https://github.com/truecharts/apps/issues/2284))
+* 正确的 nginx 路径 ([#2284](https://github.com/truecharts/apps/issues/2284))
 
 
 
 <a name="recipes-6.0.10"></a>
 
-### [recipes-6.0.10](https://github.com/truecharts/apps/compare/recipes-6.0.9...recipes-6.0.10) (2022-03-24)
+### [配方-6.0.10](https://github.com/truecharts/apps/compare/recipes-6.0.9...recipes-6.0.10) (2022-03-24)
 
 #### 聊天
 
-* replace code with includes on some apps that was skipped ([#2250](https://github.com/truecharts/apps/issues/2250))
+* 将代码替换为被跳过的某些应用上的包含([#2250](https://github.com/truecharts/apps/issues/2250))
 * 更新一般非主要停靠栏
 
 
 
 <a name="recipes-6.0.8"></a>
 
-### [recipes-6.0.8](https://github.com/truecharts/apps/compare/recipes-6.0.7...recipes-6.0.8) (2022-03-20)
+### [配方-6.0.8](https://github.com/truecharts/apps/compare/recipes-6.0.7...recipes-6.0.8) (2022-03-20)
 
 #### 聊天
 
@@ -549,7 +549,7 @@
 
 <a name="recipes-6.0.6"></a>
 
-### [recipes-6.0.6](https://github.com/truecharts/apps/compare/recipes-6.0.5...recipes-6.0.6) (2022-03-17)
+### [配方-6.0.6](https://github.com/truecharts/apps/compare/recipes-6.0.5...recipes-6.0.6) (2022-03-17)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="recipes-6.0.4"></a>
 
-### [recipes-6.0.4](https://github.com/truecharts/apps/compare/recipes-6.0.3...recipes-6.0.4) (2022-03-08)
+### [配方-6.0.4](https://github.com/truecharts/apps/compare/recipes-6.0.3...recipes-6.0.4) (2022-03-08)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="recipes-6.0.3"></a>
 
-### [recipes-6.0.3](https://github.com/truecharts/apps/compare/recipes-6.0.2...recipes-6.0.3) (2022-03-07)
+### [配方-6.0.3](https://github.com/truecharts/apps/compare/recipes-6.0.2...recipes-6.0.3) (2022-03-07)
 
 #### 聊天
 
@@ -580,7 +580,7 @@
 
 <a name="recipes-6.0.2"></a>
 
-### [recipes-6.0.2](https://github.com/truecharts/apps/compare/recipes-6.0.1...recipes-6.0.2) (2022-03-07)
+### [配方-6.0.2](https://github.com/truecharts/apps/compare/recipes-6.0.1...recipes-6.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="recipes-6.0.1"></a>
 
-### [recipes-6.0.1](https://github.com/truecharts/apps/compare/recipes-6.0.0...recipes-6.0.1) (2022-03-06)
+### [配方-6.0.1](https://github.com/truecharts/apps/compare/recipes-6.0.0...recipes-6.0.1) (2022-03-06)
 
 #### 聊天
 
@@ -604,7 +604,7 @@
 
 <a name="recipes-6.0.0"></a>
 
-### [recipes-6.0.0](https://github.com/truecharts/apps/compare/recipes-5.0.25...recipes-6.0.0) (2022-03-03)
+### [配方-6.0.0](https://github.com/truecharts/apps/compare/recipes-5.0.25...recipes-6.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -619,7 +619,7 @@
 
 <a name="recipes-5.0.25"></a>
 
-### [recipes-5.0.25](https://github.com/truecharts/apps/compare/recipes-5.0.24...recipes-5.0.25) (2022-03-02)
+### [配方-5.0.25](https://github.com/truecharts/apps/compare/recipes-5.0.24...recipes-5.0.25) (2022-03-02)
 
 #### 聊天
 
@@ -630,7 +630,7 @@
 
 <a name="recipes-5.0.24"></a>
 
-### [recipes-5.0.24](https://github.com/truecharts/apps/compare/recipes-5.0.23...recipes-5.0.24) (2022-02-21)
+### [配方 5.0.24](https://github.com/truecharts/apps/compare/recipes-5.0.23...recipes-5.0.24) (2022-02-21)
 
 #### 聊天
 
@@ -640,7 +640,7 @@
 
 <a name="recipes-5.0.23"></a>
 
-### [recipes-5.0.23](https://github.com/truecharts/apps/compare/recipes-5.0.22...recipes-5.0.23) (2022-02-15)
+### [配方-5.0.23](https://github.com/truecharts/apps/compare/recipes-5.0.22...recipes-5.0.23) (2022-02-15)
 
 #### 聊天
 
@@ -650,7 +650,7 @@
 
 <a name="recipes-5.0.22"></a>
 
-### [recipes-5.0.22](https://github.com/truecharts/apps/compare/recipes-5.0.21...recipes-5.0.22) (2022-02-10)
+### [配方 5.0.22](https://github.com/truecharts/apps/compare/recipes-5.0.21...recipes-5.0.22) (2022-02-10)
 
 #### 聊天
 
@@ -660,7 +660,7 @@
 
 <a name="recipes-5.0.21"></a>
 
-### [recipes-5.0.21](https://github.com/truecharts/apps/compare/recipes-5.0.20...recipes-5.0.21) (2022-02-08)
+### [配方-5.0.21](https://github.com/truecharts/apps/compare/recipes-5.0.20...recipes-5.0.21) (2022-02-08)
 
 #### 聊天
 
@@ -670,7 +670,7 @@
 
 <a name="recipes-5.0.20"></a>
 
-### [recipes-5.0.20](https://github.com/truecharts/apps/compare/recipes-5.0.19...recipes-5.0.20) (2022-02-06)
+### [配方-5.0.20](https://github.com/truecharts/apps/compare/recipes-5.0.19...recipes-5.0.20) (2022-02-06)
 
 #### 聊天
 
@@ -680,7 +680,7 @@
 
 <a name="recipes-5.0.19"></a>
 
-### [recipes-5.0.19](https://github.com/truecharts/apps/compare/recipes-5.0.18...recipes-5.0.19) (2022-02-05)
+### [配方 5.0.19](https://github.com/truecharts/apps/compare/recipes-5.0.18...recipes-5.0.19) (2022-02-05)
 
 #### 聊天
 
@@ -690,7 +690,7 @@
 
 <a name="recipes-5.0.18"></a>
 
-### [recipes-5.0.18](https://github.com/truecharts/apps/compare/recipes-5.0.17...recipes-5.0.18) (2022-02-02)
+### [配方-5.0.18](https://github.com/truecharts/apps/compare/recipes-5.0.17...recipes-5.0.18) (2022-02-02)
 
 #### 聊天
 
@@ -700,7 +700,7 @@
 
 <a name="recipes-5.0.17"></a>
 
-### [recipes-5.0.17](https://github.com/truecharts/apps/compare/recipes-5.0.16...recipes-5.0.17) (2022-01-31)
+### [配方 5.0.17](https://github.com/truecharts/apps/compare/recipes-5.0.16...recipes-5.0.17) (2022-01-31)
 
 #### 聊天
 
@@ -710,7 +710,7 @@
 
 <a name="recipes-5.0.16"></a>
 
-### [recipes-5.0.16](https://github.com/truecharts/apps/compare/recipes-5.0.15...recipes-5.0.16) (2022-01-25)
+### [配方-5.0.16](https://github.com/truecharts/apps/compare/recipes-5.0.15...recipes-5.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -720,7 +720,7 @@
 
 <a name="recipes-5.0.15"></a>
 
-### [recipes-5.0.15](https://github.com/truecharts/apps/compare/recipes-5.0.14...recipes-5.0.15) (2022-01-22)
+### [配方-5.0.15](https://github.com/truecharts/apps/compare/recipes-5.0.14...recipes-5.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -730,7 +730,7 @@
 
 <a name="recipes-5.0.14"></a>
 
-### [recipes-5.0.14](https://github.com/truecharts/apps/compare/recipes-5.0.13...recipes-5.0.14) (2022-01-22)
+### [配方-5.0.14](https://github.com/truecharts/apps/compare/recipes-5.0.13...recipes-5.0.14) (2022-01-22)
 
 #### 聊天
 
@@ -740,7 +740,7 @@
 
 <a name="recipes-5.0.13"></a>
 
-### [recipes-5.0.13](https://github.com/truecharts/apps/compare/recipes-5.0.12...recipes-5.0.13) (2022-01-21)
+### [配方-5.0.13](https://github.com/truecharts/apps/compare/recipes-5.0.12...recipes-5.0.13) (2022-01-21)
 
 #### 聊天
 
@@ -754,7 +754,7 @@
 
 <a name="recipes-5.0.12"></a>
 
-### [recipes-5.0.12](https://github.com/truecharts/apps/compare/recipes-5.0.11...recipes-5.0.12) (2022-01-18)
+### [配方-5.0.12](https://github.com/truecharts/apps/compare/recipes-5.0.11...recipes-5.0.12) (2022-01-18)
 
 #### 聊天
 
@@ -764,7 +764,7 @@
 
 <a name="recipes-5.0.11"></a>
 
-### [recipes-5.0.11](https://github.com/truecharts/apps/compare/recipes-5.0.10...recipes-5.0.11) (2022-01-13)
+### [配方-5.0.11](https://github.com/truecharts/apps/compare/recipes-5.0.10...recipes-5.0.11) (2022-01-13)
 
 #### 聊天
 
@@ -778,7 +778,7 @@
 
 <a name="recipes-5.0.10"></a>
 
-### [recipes-5.0.10](https://github.com/truecharts/apps/compare/recipes-5.0.9...recipes-5.0.10) (2022-01-12)
+### [配方-5.0.10](https://github.com/truecharts/apps/compare/recipes-5.0.9...recipes-5.0.10) (2022-01-12)
 
 #### 聊天
 
@@ -788,7 +788,7 @@
 
 <a name="recipes-5.0.9"></a>
 
-### [recipes-5.0.9](https://github.com/truecharts/apps/compare/recipes-5.0.8...recipes-5.0.9) (2022-01-11)
+### [配方-5.0.9](https://github.com/truecharts/apps/compare/recipes-5.0.8...recipes-5.0.9) (2022-01-11)
 
 #### 聊天
 
@@ -798,7 +798,7 @@
 
 <a name="recipes-5.0.8"></a>
 
-### [recipes-5.0.8](https://github.com/truecharts/apps/compare/recipes-5.0.7...recipes-5.0.8) (2022-01-04)
+### [配方-5.0.8](https://github.com/truecharts/apps/compare/recipes-5.0.7...recipes-5.0.8) (2022-01-04)
 
 #### 聊天
 
@@ -808,7 +808,7 @@
 
 <a name="recipes-5.0.7"></a>
 
-### [recipes-5.0.7](https://github.com/truecharts/apps/compare/recipes-5.0.6...recipes-5.0.7) (2022-01-03)
+### [配方-5.0.7](https://github.com/truecharts/apps/compare/recipes-5.0.6...recipes-5.0.7) (2022-01-03)
 
 #### 聊天
 
@@ -818,7 +818,7 @@
 
 <a name="recipes-5.0.6"></a>
 
-### [recipes-5.0.6](https://github.com/truecharts/apps/compare/recipes-5.0.5...recipes-5.0.6) (2021-12-28)
+### [配方5.0.6](https://github.com/truecharts/apps/compare/recipes-5.0.5...recipes-5.0.6) (2021-12-28)
 
 #### 聊天
 
@@ -828,7 +828,7 @@
 
 <a name="recipes-5.0.5"></a>
 
-### [recipes-5.0.5](https://github.com/truecharts/apps/compare/recipes-5.0.4...recipes-5.0.5) (2021-12-24)
+### [配方5.0.5](https://github.com/truecharts/apps/compare/recipes-5.0.4...recipes-5.0.5) (2021-12-24)
 
 #### 聊天
 
@@ -838,7 +838,7 @@
 
 <a name="recipes-5.0.4"></a>
 
-### [recipes-5.0.4](https://github.com/truecharts/apps/compare/recipes-5.0.3...recipes-5.0.4) (2021-12-21)
+### [配方5.0.4](https://github.com/truecharts/apps/compare/recipes-5.0.3...recipes-5.0.4) (2021-12-21)
 
 #### 聊天
 
@@ -848,7 +848,7 @@
 
 <a name="recipes-5.0.3"></a>
 
-### [recipes-5.0.3](https://github.com/truecharts/apps/compare/recipes-5.0.2...recipes-5.0.3) (2021-12-20)
+### [配方-5.0.3](https://github.com/truecharts/apps/compare/recipes-5.0.2...recipes-5.0.3) (2021-12-20)
 
 #### 聊天
 
@@ -858,7 +858,7 @@
 
 <a name="recipes-5.0.2"></a>
 
-### [recipes-5.0.2](https://github.com/truecharts/apps/compare/recipes-5.0.1...recipes-5.0.2) (2021-12-19)
+### [配方-5.0.2](https://github.com/truecharts/apps/compare/recipes-5.0.1...recipes-5.0.2) (2021-12-19)
 
 #### 聊天
 
@@ -870,7 +870,7 @@
 
 <a name="recipes-5.0.1"></a>
 
-### [recipes-5.0.1](https://github.com/truecharts/apps/compare/recipes-5.0.0...recipes-5.0.1) (2021-12-19)
+### [配方-5.0.1](https://github.com/truecharts/apps/compare/recipes-5.0.0...recipes-5.0.1) (2021-12-19)
 
 #### 聊天
 
@@ -881,17 +881,17 @@
 
 <a name="recipes-5.0.0"></a>
 
-### [recipes-5.0.0](https://github.com/truecharts/apps/compare/recipes-4.0.18...recipes-5.0.0) (2021-12-18)
+### [配方-5.0.0](https://github.com/truecharts/apps/compare/recipes-4.0.18...recipes-5.0.0) (2021-12-18岁)
 
 #### Feat
 
-* move `SECRET_KEY` to autogenerated remembered secret ([#1559](https://github.com/truecharts/apps/issues/1559))
+* 移动 `SECRET_KEY` 自动生成记忆密钥([#第1559](https://github.com/truecharts/apps/issues/1559))
 
 
 
 <a name="recipes-4.0.18"></a>
 
-### [recipes-4.0.18](https://github.com/truecharts/apps/compare/recipes-4.0.17...recipes-4.0.18) (2021-12-18)
+### [配方-4.0.18](https://github.com/truecharts/apps/compare/recipes-4.0.17...recipes-4.0.18) (2021-12-18岁)
 
 #### 聊天
 
@@ -902,7 +902,7 @@
 
 <a name="recipes-4.0.17"></a>
 
-### [recipes-4.0.17](https://github.com/truecharts/apps/compare/recipes-4.0.16...recipes-4.0.17) (2021-12-14)
+### [配方4.0.17](https://github.com/truecharts/apps/compare/recipes-4.0.16...recipes-4.0.17) (2021-12-14)
 
 #### 聊天
 
@@ -912,7 +912,7 @@
 
 <a name="recipes-4.0.16"></a>
 
-### [recipes-4.0.16](https://github.com/truecharts/apps/compare/recipes-4.0.15...recipes-4.0.16) (2021-12-13)
+### [配方4.0.16](https://github.com/truecharts/apps/compare/recipes-4.0.15...recipes-4.0.16) (2021-12-13)
 
 #### 聊天
 
@@ -922,7 +922,7 @@
 
 <a name="recipes-4.0.15"></a>
 
-### [recipes-4.0.15](https://github.com/truecharts/apps/compare/recipes-4.0.14...recipes-4.0.15) (2021-12-11)
+### [配方-4.0.15](https://github.com/truecharts/apps/compare/recipes-4.0.14...recipes-4.0.15) (2021-12-11)
 
 #### 聊天
 
@@ -932,7 +932,7 @@
 
 <a name="recipes-4.0.14"></a>
 
-### [recipes-4.0.14](https://github.com/truecharts/apps/compare/recipes-4.0.13...recipes-4.0.14) (2021-12-07)
+### [配方-4.0.14](https://github.com/truecharts/apps/compare/recipes-4.0.13...recipes-4.0.14) (2021-12-07)
 
 #### 聊天
 
@@ -942,12 +942,12 @@
 
 <a name="recipes-4.0.13"></a>
 
-### recipes-4.0.13 (2021-12-05)
+### 方框4.0.13 (2021-12-05)
 
 #### 聊天
 
 * 跳转应用生成安全页面
-* correct some wrong container references again
+* 再次更正一些错误的容器引用
 * 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
 * 确保容器引用前缀 v
 * 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
@@ -964,7 +964,7 @@
 
 <a name="recipes-4.0.12"></a>
 
-### [recipes-4.0.12](https://github.com/truecharts/apps/compare/recipes-4.0.11...recipes-4.0.12) (2021-12-05)
+### [配方4.0.12](https://github.com/truecharts/apps/compare/recipes-4.0.11...recipes-4.0.12) (2021-12-05)
 
 #### 聊天
 
@@ -974,7 +974,7 @@
 
 <a name="recipes-4.0.11"></a>
 
-### [recipes-4.0.11](https://github.com/truecharts/apps/compare/recipes-4.0.10...recipes-4.0.11) (2021-12-04)
+### [配方4.0.11](https://github.com/truecharts/apps/compare/recipes-4.0.10...recipes-4.0.11) (2021-12-04)
 
 #### 聊天
 
@@ -984,7 +984,7 @@
 
 <a name="recipes-4.0.10"></a>
 
-### [recipes-4.0.10](https://github.com/truecharts/apps/compare/recipes-4.0.9...recipes-4.0.10) (2021-12-04)
+### [配方-4.0.10](https://github.com/truecharts/apps/compare/recipes-4.0.9...recipes-4.0.10) (2021-12-04)
 
 #### 聊天
 
@@ -994,12 +994,12 @@
 
 <a name="recipes-4.0.9"></a>
 
-### [recipes-4.0.9](https://github.com/truecharts/apps/compare/recipes-4.0.8...recipes-4.0.9) (2021-12-03)
+### [配方-4.0.9](https://github.com/truecharts/apps/compare/recipes-4.0.8...recipes-4.0.9) (2021-12-03)
 
 #### 聊天
 
 * 确保容器引用前缀 v
-* correct some wrong container references again
+* 再次更正一些错误的容器引用
 * 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
 * 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 
@@ -1007,7 +1007,7 @@
 
 <a name="recipes-4.0.8"></a>
 
-### [recipes-4.0.8](https://github.com/truecharts/apps/compare/recipes-4.0.7...recipes-4.0.8) (2021-11-30)
+### [配方-4.0.8](https://github.com/truecharts/apps/compare/recipes-4.0.7...recipes-4.0.8) (2021-11-30)
 
 #### 聊天
 
@@ -1021,17 +1021,17 @@
 
 <a name="recipes-4.0.7"></a>
 
-### [recipes-4.0.7](https://github.com/truecharts/apps/compare/recipes-4.0.6...recipes-4.0.7) (2021-11-23)
+### [配方-4.0.7](https://github.com/truecharts/apps/compare/recipes-4.0.6...recipes-4.0.7) (2021-11-23)
 
 #### 聊天
 
-* update non-major ([#1390](https://github.com/truecharts/apps/issues/1390))
+* 更新非主要([#1390](https://github.com/truecharts/apps/issues/1390))
 
 
 
 <a name="recipes-4.0.6"></a>
 
-### [recipes-4.0.6](https://github.com/truecharts/apps/compare/recipes-4.0.5...recipes-4.0.6) (2021-11-23)
+### [配方-4.0.6](https://github.com/truecharts/apps/compare/recipes-4.0.5...recipes-4.0.6) (2021-11-23)
 
 #### 聊天
 
@@ -1041,7 +1041,7 @@
 
 <a name="recipes-4.0.5"></a>
 
-### [recipes-4.0.5](https://github.com/truecharts/apps/compare/recipes-4.0.4...recipes-4.0.5) (2021-11-22)
+### [配方-4.0.5](https://github.com/truecharts/apps/compare/recipes-4.0.4...recipes-4.0.5) (2021-11-22)
 
 #### 聊天
 
@@ -1055,7 +1055,7 @@
 
 <a name="recipes-4.0.4"></a>
 
-### [recipes-4.0.4](https://github.com/truecharts/apps/compare/recipes-4.0.3...recipes-4.0.4) (2021-11-18)
+### [配方-4.0.4](https://github.com/truecharts/apps/compare/recipes-4.0.3...recipes-4.0.4) (2021-11-18)
 
 #### 聊天
 
@@ -1065,17 +1065,17 @@
 
 <a name="recipes-4.0.3"></a>
 
-### [recipes-4.0.3](https://github.com/truecharts/apps/compare/recipes-4.0.2...recipes-4.0.3) (2021-11-17)
+### [配方-4.0.3](https://github.com/truecharts/apps/compare/recipes-4.0.2...recipes-4.0.3) (2021-11-17)
 
 #### 聊天
 
-* update nginx:1.21.4 docker digest to 168a6a2 ([#1346](https://github.com/truecharts/apps/issues/1346))
+* 将 nginx:1.21.4码摘要更新到 168a6a2 ([#1346](https://github.com/truecharts/apps/issues/1346))
 
 
 
 <a name="recipes-4.0.2"></a>
 
-### [recipes-4.0.2](https://github.com/truecharts/apps/compare/recipes-4.0.1...recipes-4.0.2) (2021-11-16)
+### [配方-4.0.2](https://github.com/truecharts/apps/compare/recipes-4.0.1...recipes-4.0.2) (2021-11-16)
 
 #### 聊天
 
@@ -1085,7 +1085,7 @@
 
 <a name="recipes-4.0.1"></a>
 
-### [recipes-4.0.1](https://github.com/truecharts/apps/compare/recipes-4.0.0...recipes-4.0.1) (2021-11-16)
+### [配方-4.0.1](https://github.com/truecharts/apps/compare/recipes-4.0.0...recipes-4.0.1) (2021-11-16)
 
 #### 聊天
 
@@ -1095,7 +1095,7 @@
 
 <a name="recipes-4.0.0"></a>
 
-### [recipes-4.0.0](https://github.com/truecharts/apps/compare/recipes-3.0.14...recipes-4.0.0) (2021-11-16)
+### [配方 4.0.0](https://github.com/truecharts/apps/compare/recipes-3.0.14...recipes-4.0.0) (2021-11-16)
 
 #### 聊天
 
@@ -1105,7 +1105,7 @@
 
 <a name="recipes-3.0.14"></a>
 
-### [recipes-3.0.14](https://github.com/truecharts/apps/compare/recipes-3.0.13...recipes-3.0.14) (2021-11-15)
+### [配方-3.0.14](https://github.com/truecharts/apps/compare/recipes-3.0.13...recipes-3.0.14) (2021-11-15)
 
 #### 聊天
 
@@ -1116,7 +1116,7 @@
 
 <a name="recipes-3.0.13"></a>
 
-### [recipes-3.0.13](https://github.com/truecharts/apps/compare/recipes-3.0.12...recipes-3.0.13) (2021-11-14)
+### [配方-3.0.13](https://github.com/truecharts/apps/compare/recipes-3.0.12...recipes-3.0.13) (2021-11-14)
 
 #### 聊天
 
@@ -1134,7 +1134,7 @@
 
 <a name="recipes-3.0.12"></a>
 
-### [recipes-3.0.12](https://github.com/truecharts/apps/compare/recipes-3.0.11...recipes-3.0.12) (2021-11-09)
+### [配方为3.0.12](https://github.com/truecharts/apps/compare/recipes-3.0.11...recipes-3.0.12) (2021-11-09)
 
 #### 聊天
 
@@ -1145,7 +1145,7 @@
 
 <a name="recipes-3.0.11"></a>
 
-### [recipes-3.0.11](https://github.com/truecharts/apps/compare/recipes-3.0.10...recipes-3.0.11) (2021-11-07)
+### [配方-3.0.11](https://github.com/truecharts/apps/compare/recipes-3.0.10...recipes-3.0.11) (2021-11-07)
 
 #### 聊天
 
@@ -1155,17 +1155,17 @@
 
 <a name="recipes-3.0.10"></a>
 
-### [recipes-3.0.10](https://github.com/truecharts/apps/compare/recipes-3.0.9...recipes-3.0.10) (2021-11-07)
+### [配方-3.0.10](https://github.com/truecharts/apps/compare/recipes-3.0.9...recipes-3.0.10) (2021-11-07)
 
 #### 聊天
 
-* update container image vabene1111/recipes to v1.0.0 ([#1293](https://github.com/truecharts/apps/issues/1293))
+* 将容器图像 vabene1111/配方更新为 v1.0.0 ([#1293](https://github.com/truecharts/apps/issues/1293))
 
 
 
 <a name="recipes-3.0.9"></a>
 
-### [recipes-3.0.9](https://github.com/truecharts/apps/compare/recipes-3.0.8...recipes-3.0.9) (2021-11-07)
+### [配方-3.0.9](https://github.com/truecharts/apps/compare/recipes-3.0.8...recipes-3.0.9) (2021-11-07)
 
 #### 聊天
 
@@ -1183,7 +1183,7 @@
 
 <a name="recipes-3.0.8"></a>
 
-### [recipes-3.0.8](https://github.com/truecharts/apps/compare/recipes-3.0.7...recipes-3.0.8) (2021-11-02)
+### [配方为3.0.8](https://github.com/truecharts/apps/compare/recipes-3.0.7...recipes-3.0.8) (2021-11-02)
 
 #### 聊天
 
@@ -1193,7 +1193,7 @@
 
 <a name="recipes-3.0.7"></a>
 
-### [recipes-3.0.7](https://github.com/truecharts/apps/compare/recipes-3.0.6...recipes-3.0.7) (2021-11-02)
+### [配方-3.0.7](https://github.com/truecharts/apps/compare/recipes-3.0.6...recipes-3.0.7) (2021-11-02)
 
 #### 聊天
 
@@ -1203,7 +1203,7 @@
 
 <a name="recipes-3.0.6"></a>
 
-### [recipes-3.0.6](https://github.com/truecharts/apps/compare/recipes-3.0.5...recipes-3.0.6) (2021-11-01)
+### [配方-3.0.6](https://github.com/truecharts/apps/compare/recipes-3.0.5...recipes-3.0.6) (2021-11-01)
 
 #### 聊天
 
@@ -1213,7 +1213,7 @@
 
 <a name="recipes-3.0.5"></a>
 
-### [recipes-3.0.5](https://github.com/truecharts/apps/compare/recipes-3.0.4...recipes-3.0.5) (2021-11-01)
+### [配方-3.0.5](https://github.com/truecharts/apps/compare/recipes-3.0.4...recipes-3.0.5) (2021-11-01)
 
 #### 聊天
 
@@ -1223,7 +1223,7 @@
 
 <a name="recipes-3.0.4"></a>
 
-### [recipes-3.0.4](https://github.com/truecharts/apps/compare/recipes-3.0.3...recipes-3.0.4) (2021-10-26)
+### [配方为3.0.4](https://github.com/truecharts/apps/compare/recipes-3.0.3...recipes-3.0.4) (2021-10-26)
 
 #### 聊天
 
@@ -1233,7 +1233,7 @@
 
 <a name="recipes-3.0.3"></a>
 
-### [recipes-3.0.3](https://github.com/truecharts/apps/compare/recipes-3.0.2...recipes-3.0.3) (2021-10-26)
+### [配方为3.0.3](https://github.com/truecharts/apps/compare/recipes-3.0.2...recipes-3.0.3) (2021-10-26)
 
 #### 聊天
 
@@ -1243,17 +1243,17 @@
 
 <a name="recipes-3.0.2"></a>
 
-### [recipes-3.0.2](https://github.com/truecharts/apps/compare/recipes-3.0.1...recipes-3.0.2) (2021-10-26)
+### [配方-3.0.2](https://github.com/truecharts/apps/compare/recipes-3.0.1...recipes-3.0.2) (2021-10-26)
 
 #### 聊天
 
-* update container image vabene1111/recipes to v0.17.3 ([#1244](https://github.com/truecharts/apps/issues/1244))
+* 将容器图像 vabene1111/配方更新为 v0.17.3 ([#1244](https://github.com/truecharts/apps/issues/1244))
 
 
 
 <a name="recipes-3.0.1"></a>
 
-### [recipes-3.0.1](https://github.com/truecharts/apps/compare/recipes-3.0.0...recipes-3.0.1) (2021-10-26)
+### [配方为3.0.1](https://github.com/truecharts/apps/compare/recipes-3.0.0...recipes-3.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1263,7 +1263,7 @@
 
 <a name="recipes-3.0.0"></a>
 
-### [recipes-3.0.0](https://github.com/truecharts/apps/compare/recipes-2.0.0...recipes-3.0.0) (2021-10-26)
+### [配方-3.0.0](https://github.com/truecharts/apps/compare/recipes-2.0.0...recipes-3.0.0) (2021-10-26)
 
 #### 聊天
 
@@ -1274,7 +1274,7 @@
 
 <a name="recipes-2.0.0"></a>
 
-### [recipes-2.0.0](https://github.com/truecharts/apps/compare/recipes-1.0.3...recipes-2.0.0) (2021-10-25)
+### [配方-2.0.0](https://github.com/truecharts/apps/compare/recipes-1.0.3...recipes-2.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -1284,7 +1284,7 @@
 
 <a name="recipes-1.0.3"></a>
 
-### [recipes-1.0.3](https://github.com/truecharts/apps/compare/recipes-1.0.0...recipes-1.0.3) (2021-10-20)
+### [配方-1.0.3](https://github.com/truecharts/apps/compare/recipes-1.0.0...recipes-1.0.3) (2021-10-20)
 
 #### 聊天
 
@@ -1294,7 +1294,7 @@
 
 <a name="recipes-1.0.0"></a>
 
-### [recipes-1.0.0](https://github.com/truecharts/apps/compare/recipes-0.0.4...recipes-1.0.0) (2021-10-20)
+### [配方-1.0.0](https://github.com/truecharts/apps/compare/recipes-0.0.4...recipes-1.0.0) (2021-10-20)
 
 #### 聊天
 
@@ -1308,7 +1308,7 @@
 
 <a name="recipes-0.0.4"></a>
 
-### [recipes-0.0.4](https://github.com/truecharts/apps/compare/recipes-0.0.3...recipes-0.0.4) (2021-10-20)
+### [配方-0.0.4](https://github.com/truecharts/apps/compare/recipes-0.0.3...recipes-0.0.4) (2021-10-20)
 
 #### 聊天
 
@@ -1318,7 +1318,7 @@
 
 <a name="recipes-0.0.3"></a>
 
-### [recipes-0.0.3](https://github.com/truecharts/apps/compare/recipes-0.0.2...recipes-0.0.3) (2021-10-19)
+### [配方-0.0.3](https://github.com/truecharts/apps/compare/recipes-0.0.2...recipes-0.0.3) (2021-10-19)
 
 #### 更改
 
@@ -1342,7 +1342,7 @@
 
 <a name="recipes-0.0.2"></a>
 
-### [recipes-0.0.2](https://github.com/truecharts/apps/compare/recipes-0.0.1...recipes-0.0.2) (2021-10-19)
+### [配方-0.0.2](https://github.com/truecharts/apps/compare/recipes-0.0.1...recipes-0.0.2) (2021-10-19)
 
 #### 聊天
 
@@ -1353,7 +1353,7 @@
 
 <a name="recipes-0.0.1"></a>
 
-### recipes-0.0.1 (2021-10-19)
+### 配方-0.0.1 (2021-10-19)
 
 #### Feat
 
@@ -1363,7 +1363,7 @@
 
 <a name="recipes-0.0.1"></a>
 
-### recipes-0.0.1 (2021-10-16)
+### 配方-0.0.1 (2021-10-16)
 
 #### Feat
 
