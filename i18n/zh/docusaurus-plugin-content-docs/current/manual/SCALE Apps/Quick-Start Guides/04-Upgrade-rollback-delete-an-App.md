@@ -2,7 +2,7 @@
 
 With TrueCharts we always push new versions of an App for any change. Even for the containers. This ensures upgrading the App always gives you the Latest-and-Greatest from TrueCharts
 
-## Requirements
+## B. 所需经费
 
 - Make sure your storage-pool is created and working
 - Make Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to quick-start guide `01 - First time Apps setup`
