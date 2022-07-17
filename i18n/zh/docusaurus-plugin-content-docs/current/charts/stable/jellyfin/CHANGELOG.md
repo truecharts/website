@@ -424,7 +424,7 @@
 
 #### 聊天
 
-* Mount cache to emptyDir and add PublishedServerURL var ([#1853](https://github.com/truecharts/apps/issues/1853))
+* 挂载缓存到空目录并添加 PublishServerURL var ([#1853](https://github.com/truecharts/apps/issues/1853))
 
 
 
