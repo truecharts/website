@@ -379,7 +379,7 @@
 
 #### 修复
 
-* fix loadCustomConfig ([#2602](https://github.com/truecharts/apps/issues/2602))
+* 修复 loadCustomConfig ([#2602](https://github.com/truecharts/apps/issues/2602))
 
 
 
@@ -415,7 +415,7 @@
 
 #### 聊天
 
-* fix small mistakes ([#2537](https://github.com/truecharts/apps/issues/2537))
+* 修复小错误([#2537](https://github.com/truecharts/apps/issues/2537))
 
 
 
@@ -466,7 +466,7 @@
 
 #### 聊天
 
-* update container image matrixdotorg/synapse to v1.56.0
+* 将容器图像矩阵/同步更新到 v1.56.0
 
 
 
@@ -696,7 +696,7 @@
 
 #### Feat
 
-* move synapse to stable
+* 移动同步到稳定状态
 
 
 
@@ -706,7 +706,7 @@
 
 #### 修复
 
-* use opencors headerset
+* 使用opencors headerset
 
 
 
@@ -722,7 +722,7 @@
 
 #### 修复
 
-* secret tweaking
+* 秘密推送
 
 
 
@@ -738,7 +738,7 @@
 
 #### 修复
 
-* fix mistake in variable definition
+* 修复变量定义中的错误
 
 
 
@@ -754,7 +754,7 @@
 
 #### 修复
 
-* fix federation service
+* 修复联邦服务
 
 
 
@@ -764,7 +764,7 @@
 
 #### 修复
 
-* Try another way of defining the macaroon secret
+* 尝试另一种定义macaroon 秘密的方式
 
 
 
@@ -774,7 +774,7 @@
 
 #### 修复
 
-* fix custom config and don't decode stringData
+* 修复自定义配置，不要解码字符串数据
 
 
 
@@ -784,7 +784,7 @@
 
 #### 修复
 
-* update questions.yaml to beter reflect values.yaml
+* 更新提问.yaml 以动画表示值.yaml
 
 
 
@@ -808,7 +808,7 @@
 
 #### 修复
 
-* update UI ([#1778](https://github.com/truecharts/apps/issues/1778))
+* 更新 UI ([#1778](https://github.com/truecharts/apps/issues/1778))
 
 
 
@@ -818,4 +818,4 @@
 
 #### Feat
 
-* add synapse ([#1768](https://github.com/truecharts/apps/issues/1768))
+* 添加同步[#1768](https://github.com/truecharts/apps/issues/1768)
