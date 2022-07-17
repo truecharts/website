@@ -108,7 +108,7 @@
 
 #### Gitea
 
-* change questions.yaml admin password to private ([#2991](https://github.com/truecharts/apps/issues/2991))
+* 将问题.yaml 管理员密码更改为私有([#2991](https://github.com/truecharts/apps/issues/2991))
 
 
 
@@ -390,7 +390,7 @@
 
 #### 修复
 
-* set user and group to 1000 ([#2356](https://github.com/truecharts/apps/issues/2356))
+* 将用户和组设置为 1000([#2356](https://github.com/truecharts/apps/issues/2356))
 
 
 
@@ -541,7 +541,7 @@
 #### 聊天
 
 * 更新头盔的一般非主要头盔版本([#1901](https://github.com/truecharts/apps/issues/1901))
-* remove dups from configmap ([#1878](https://github.com/truecharts/apps/issues/1878))
+* 从配置映射中删除数据([#1878](https://github.com/truecharts/apps/issues/1878))
 
 
 
@@ -551,7 +551,7 @@
 
 #### 修复
 
-* fix ci ([#1883](https://github.com/truecharts/apps/issues/1883))
+* 修复 ci ([#1883](https://github.com/truecharts/apps/issues/1883))
 
 
 
@@ -774,7 +774,7 @@
 
 #### 聊天
 
-* update docker general non-major docker tags ([#1609](https://github.com/truecharts/apps/issues/1609))
+* 更新一般非主停靠标签([#1609](https://github.com/truecharts/apps/issues/1609))
 
 
 
@@ -1039,7 +1039,7 @@
 
 #### Feat
 
-* move gitea to our own memcached chart ([#1313](https://github.com/truecharts/apps/issues/1313))
+* 移动到我们自己的 memcached 图表([#1313](https://github.com/truecharts/apps/issues/1313))
 
 #### 修复
 
@@ -1069,7 +1069,7 @@
 
 #### 修复
 
-* Correctly enable ports by default on some more Apps
+* 在更多应用上默认正确启用端口
 
 
 
@@ -1258,7 +1258,7 @@
 #### 聊天
 
 * Project-Eclipse 5, 移动应用读取到自动生成脚本[#1181](https://github.com/truecharts/apps/issues/1181)
-* update helm chart memcached to v5.15.6 ([#1179](https://github.com/truecharts/apps/issues/1179))
+* 更新Hemm 图表 memcached 到 v5.15.6 ([#1179](https://github.com/truecharts/apps/issues/1179))
 
 #### Feat
 
