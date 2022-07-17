@@ -90,7 +90,7 @@
 
 #### Miniflux
 
-* make questions ADMIN_PASSWORD private ([#2986](https://github.com/truecharts/apps/issues/2986))
+* 提问adMIN_PASSWORD 私密([#2986](https://github.com/truecharts/apps/issues/2986))
 
 
 
@@ -739,7 +739,7 @@
 
 <a name="miniflux-4.0.9"></a>
 
-### miniflux-4.0.9 (2021-12-05)
+### 微flux-4.0.9 (2021-12-05)
 
 #### 聊天
 
@@ -941,7 +941,7 @@
 
 <a name="miniflux-3.0.4"></a>
 
-### [miniflux-3.0.4](https://github.com/truecharts/apps/compare/miniflux-3.0.3...miniflux-3.0.4) (2021-11-01)
+### [迷你流感-3.0.4](https://github.com/truecharts/apps/compare/miniflux-3.0.3...miniflux-3.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -961,7 +961,7 @@
 
 <a name="miniflux-3.0.2"></a>
 
-### [miniflux-3.0.2](https://github.com/truecharts/apps/compare/miniflux-3.0.1...miniflux-3.0.2) (2021-10-26)
+### [minipflux-3.0.2](https://github.com/truecharts/apps/compare/miniflux-3.0.1...miniflux-3.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -971,7 +971,7 @@
 
 <a name="miniflux-3.0.1"></a>
 
-### [miniflux-3.0.1](https://github.com/truecharts/apps/compare/miniflux-3.0.0...miniflux-3.0.1) (2021-10-26)
+### [minipflux-3.0.1](https://github.com/truecharts/apps/compare/miniflux-3.0.0...miniflux-3.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1002,7 +1002,7 @@
 
 <a name="miniflux-1.0.3"></a>
 
-### [miniflux-1.0.3](https://github.com/truecharts/apps/compare/miniflux-1.0.0...miniflux-1.0.3) (2021-10-20)
+### [minipflux-1.0.3](https://github.com/truecharts/apps/compare/miniflux-1.0.0...miniflux-1.0.3) (2021-10-20)
 
 #### 聊天
 
@@ -1012,7 +1012,7 @@
 
 <a name="miniflux-1.0.0"></a>
 
-### [miniflux-1.0.0](https://github.com/truecharts/apps/compare/miniflux-0.0.4...miniflux-1.0.0) (2021-10-20)
+### [minipflux-1.0.0](https://github.com/truecharts/apps/compare/miniflux-0.0.4...miniflux-1.0.0) (2021-10-20)
 
 #### 聊天
 
@@ -1060,7 +1060,7 @@
 
 <a name="miniflux-0.0.2"></a>
 
-### [miniflux-0.0.2](https://github.com/truecharts/apps/compare/miniflux-0.0.1...miniflux-0.0.2) (2021-10-19)
+### [微flux-0.0.2](https://github.com/truecharts/apps/compare/miniflux-0.0.1...miniflux-0.0.2) (2021-10-19)
 
 #### 聊天
 
