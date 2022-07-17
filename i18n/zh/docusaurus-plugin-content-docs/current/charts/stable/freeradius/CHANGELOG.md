@@ -570,7 +570,7 @@
 
 <a name="freeradius-4.0.26"></a>
 
-### [freeradius-4.0.26](https://github.com/truecharts/apps/compare/freeradius-4.0.25...freeradius-4.0.26) (2021-12-18)
+### [freeradius-4.0.26](https://github.com/truecharts/apps/compare/freeradius-4.0.25...freeradius-4.0.26) (2021-12-18岁)
 
 #### 聊天
 
@@ -601,7 +601,7 @@
 
 <a name="freeradius-4.0.23"></a>
 
-### [freeradius-4.0.23](https://github.com/truecharts/apps/compare/freeradius-4.0.22...freeradius-4.0.23) (2021-12-12)
+### [freeradius-4.0.23](https://github.com/truecharts/apps/compare/freeradius-4.0.22...freeradius-4.0.23) (2021-12)
 
 #### 聊天
 
@@ -631,7 +631,7 @@
 
 <a name="freeradius-4.0.20"></a>
 
-### freeradius-4.0.20 (2021-12-05)
+### Freeradius-4.0.20 (2021-12-05)
 
 #### 聊天
 
@@ -780,7 +780,7 @@
 
 #### 修复
 
-* Correctly enable ports by default on some more Apps
+* 在更多应用上默认正确启用端口
 
 
 
