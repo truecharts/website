@@ -102,7 +102,7 @@
 
 <a name="librephotos-4.0.7"></a>
 
-### [librephotos-4.0.7](https://github.com/truecharts/apps/compare/librephotos-4.0.6...librephotos-4.0.7) (2022-06-22)
+### [libphotos-4.0.7](https://github.com/truecharts/apps/compare/librephotos-4.0.6...librephotos-4.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -112,7 +112,7 @@
 
 <a name="librephotos-4.0.6"></a>
 
-### [librephotos-4.0.6](https://github.com/truecharts/apps/compare/librephotos-4.0.5...librephotos-4.0.6) (2022-06-21)
+### [libphotos-4.0.6](https://github.com/truecharts/apps/compare/librephotos-4.0.5...librephotos-4.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="librephotos-2.0.20"></a>
 
-### [librephotos-2.0.20](https://github.com/truecharts/apps/compare/librephotos-2.0.19...librephotos-2.0.20) (2022-05-17)
+### [libropphotos-2.0.20](https://github.com/truecharts/apps/compare/librephotos-2.0.19...librephotos-2.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -272,7 +272,7 @@
 
 <a name="librephotos-2.0.20"></a>
 
-### [librephotos-2.0.20](https://github.com/truecharts/apps/compare/librephotos-2.0.19...librephotos-2.0.20) (2022-05-17)
+### [libropphotos-2.0.20](https://github.com/truecharts/apps/compare/librephotos-2.0.19...librephotos-2.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="librephotos-2.0.19"></a>
 
-### [librephotos-2.0.19](https://github.com/truecharts/apps/compare/librephotos-2.0.18...librephotos-2.0.19) (2022-05-17)
+### [libropphotos-2.0.19](https://github.com/truecharts/apps/compare/librephotos-2.0.18...librephotos-2.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -373,7 +373,7 @@
 
 <a name="librephotos-2.0.10"></a>
 
-### [librephotos-2.0.10](https://github.com/truecharts/apps/compare/librephotos-2.0.9...librephotos-2.0.10) (2022-03-31)
+### [libropphotos-2.0.10](https://github.com/truecharts/apps/compare/librephotos-2.0.9...librephotos-2.0.10) (2022-03-31)
 
 #### 聊天
 
@@ -383,7 +383,7 @@
 
 <a name="librephotos-2.0.9"></a>
 
-### [librephotos-2.0.9](https://github.com/truecharts/apps/compare/librephotos-2.0.8...librephotos-2.0.9) (2022-03-30)
+### [libropphotos-2.0.9](https://github.com/truecharts/apps/compare/librephotos-2.0.8...librephotos-2.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -506,7 +506,7 @@
 
 #### Feat
 
-* move to stable ([#1894](https://github.com/truecharts/apps/issues/1894))
+* 移动到稳定([#1894](https://github.com/truecharts/apps/issues/1894))
 
 
 
@@ -516,7 +516,7 @@
 
 #### 修复
 
-* fix nginx host ([#1891](https://github.com/truecharts/apps/issues/1891))
+* 修复 nginx 主机 ([#1891](https://github.com/truecharts/apps/issues/1891))
 
 
 
@@ -526,4 +526,4 @@
 
 #### Feat
 
-* Add librephotos ([#1882](https://github.com/truecharts/apps/issues/1882))
+* 添加librephotic([#1882](https://github.com/truecharts/apps/issues/1882))
