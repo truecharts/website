@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [overseerr-6.0.18](https://github.com/truecharts/apps/compare/overseerr-6.0.17...overseerr-6.0.18) (2022-07-14)
+## [覆盖 -6.0.18](https://github.com/truecharts/apps/compare/overseerr-6.0.17...overseerr-6.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [overseerr-6.0.17](https://github.com/truecharts/apps/compare/overseerr-6.0.15...overseerr-6.0.17) (2022-07-14)
+## [覆盖 -6.0.17](https://github.com/truecharts/apps/compare/overseerr-6.0.15...overseerr-6.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [overseerr-6.0.15](https://github.com/truecharts/apps/compare/overseerr-6.0.13...overseerr-6.0.15) (2022-07-12)
+## [覆盖 -6.0.15](https://github.com/truecharts/apps/compare/overseerr-6.0.13...overseerr-6.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [overseerr-6.0.13](https://github.com/truecharts/apps/compare/overseerr-6.0.12...overseerr-6.0.13) (2022-07-12)
+## [覆盖 -6.0.13](https://github.com/truecharts/apps/compare/overseerr-6.0.12...overseerr-6.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="overseerr-6.0.12"></a>
 
-### [overseerr-6.0.12](https://github.com/truecharts/apps/compare/overseerr-6.0.11...overseerr-6.0.12) (2022-07-12)
+### [覆盖 -6.0.12](https://github.com/truecharts/apps/compare/overseerr-6.0.11...overseerr-6.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="overseerr-6.0.11"></a>
 
-### [overseerr-6.0.11](https://github.com/truecharts/apps/compare/overseerr-6.0.10...overseerr-6.0.11) (2022-07-11)
+### [覆盖 -6.0.11](https://github.com/truecharts/apps/compare/overseerr-6.0.10...overseerr-6.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="overseerr-6.0.10"></a>
 
-### [overseerr-6.0.10](https://github.com/truecharts/apps/compare/overseerr-6.0.9...overseerr-6.0.10) (2022-07-09)
+### [覆盖 -6.0.10](https://github.com/truecharts/apps/compare/overseerr-6.0.9...overseerr-6.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="overseerr-6.0.9"></a>
 
-### [overseerr-6.0.9](https://github.com/truecharts/apps/compare/overseerr-6.0.8...overseerr-6.0.9) (2022-07-04)
+### [覆盖 -6.0.9](https://github.com/truecharts/apps/compare/overseerr-6.0.8...overseerr-6.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="overseerr-6.0.8"></a>
 
-### [overseerr-6.0.8](https://github.com/truecharts/apps/compare/overseerr-6.0.7...overseerr-6.0.8) (2022-06-25)
+### [覆盖 -6.0.8](https://github.com/truecharts/apps/compare/overseerr-6.0.7...overseerr-6.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="overseerr-6.0.7"></a>
 
-### [overseerr-6.0.7](https://github.com/truecharts/apps/compare/overseerr-6.0.6...overseerr-6.0.7) (2022-06-22)
+### [覆盖 -6.0.7](https://github.com/truecharts/apps/compare/overseerr-6.0.6...overseerr-6.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="overseerr-6.0.6"></a>
 
-### [overseerr-6.0.6](https://github.com/truecharts/apps/compare/overseerr-6.0.5...overseerr-6.0.6) (2022-06-21)
+### [覆盖 -6.0.6](https://github.com/truecharts/apps/compare/overseerr-6.0.5...overseerr-6.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="overseerr-6.0.5"></a>
 
-### [overseerr-6.0.5](https://github.com/truecharts/apps/compare/overseerr-6.0.4...overseerr-6.0.5) (2022-06-17)
+### [覆盖 -6.0.5](https://github.com/truecharts/apps/compare/overseerr-6.0.4...overseerr-6.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="overseerr-6.0.4"></a>
 
-### [overseerr-6.0.4](https://github.com/truecharts/apps/compare/overseerr-6.0.3...overseerr-6.0.4) (2022-06-14)
+### [覆盖 -6.0.4](https://github.com/truecharts/apps/compare/overseerr-6.0.3...overseerr-6.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="overseerr-6.0.3"></a>
 
-### [overseerr-6.0.3](https://github.com/truecharts/apps/compare/overseerr-6.0.2...overseerr-6.0.3) (2022-06-11)
+### [覆盖 -6.0.3](https://github.com/truecharts/apps/compare/overseerr-6.0.2...overseerr-6.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="overseerr-6.0.2"></a>
 
-### [overseerr-6.0.2](https://github.com/truecharts/apps/compare/overseerr-6.0.1...overseerr-6.0.2) (2022-06-07)
+### [覆盖 -6.0.2](https://github.com/truecharts/apps/compare/overseerr-6.0.1...overseerr-6.0.2) (2022-06-07)
 
 #### 修复
 
@@ -146,7 +146,7 @@
 
 <a name="overseerr-6.0.1"></a>
 
-### [overseerr-6.0.1](https://github.com/truecharts/apps/compare/overseerr-5.0.20...overseerr-6.0.1) (2022-06-07)
+### [覆盖 -6.0.1](https://github.com/truecharts/apps/compare/overseerr-5.0.20...overseerr-6.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -165,7 +165,7 @@
 
 <a name="overseerr-6.0.0"></a>
 
-### [overseerr-6.0.0](https://github.com/truecharts/apps/compare/overseerr-5.0.20...overseerr-6.0.0) (2022-06-07)
+### [覆盖 -6.0.0](https://github.com/truecharts/apps/compare/overseerr-5.0.20...overseerr-6.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="overseerr-5.0.20"></a>
 
-### [overseerr-5.0.20](https://github.com/truecharts/apps/compare/overseerr-5.0.19...overseerr-5.0.20) (2022-05-31)
+### [覆盖 5.0.20](https://github.com/truecharts/apps/compare/overseerr-5.0.19...overseerr-5.0.20) (2022-05-31)
 
 #### 聊天
 
@@ -189,7 +189,7 @@
 
 <a name="overseerr-5.0.19"></a>
 
-### [overseerr-5.0.19](https://github.com/truecharts/apps/compare/overseerr-5.0.18...overseerr-5.0.19) (2022-05-26)
+### [覆盖 -5.0.19](https://github.com/truecharts/apps/compare/overseerr-5.0.18...overseerr-5.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="overseerr-5.0.19"></a>
 
-### [overseerr-5.0.19](https://github.com/truecharts/apps/compare/overseerr-5.0.18...overseerr-5.0.19) (2022-05-26)
+### [覆盖 -5.0.19](https://github.com/truecharts/apps/compare/overseerr-5.0.18...overseerr-5.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="overseerr-5.0.18"></a>
 
-### [overseerr-5.0.18](https://github.com/truecharts/apps/compare/overseerr-5.0.17...overseerr-5.0.18) (2022-05-24)
+### [覆盖 -5.0.18](https://github.com/truecharts/apps/compare/overseerr-5.0.17...overseerr-5.0.18) (2022-05-24)
 
 #### 聊天
 
@@ -220,7 +220,7 @@
 
 <a name="overseerr-5.0.17"></a>
 
-### [overseerr-5.0.17](https://github.com/truecharts/apps/compare/overseerr-5.0.16...overseerr-5.0.17) (2022-05-17)
+### [覆盖 5.0.17](https://github.com/truecharts/apps/compare/overseerr-5.0.16...overseerr-5.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="overseerr-5.0.17"></a>
 
-### [overseerr-5.0.17](https://github.com/truecharts/apps/compare/overseerr-5.0.16...overseerr-5.0.17) (2022-05-17)
+### [覆盖 5.0.17](https://github.com/truecharts/apps/compare/overseerr-5.0.16...overseerr-5.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="overseerr-5.0.16"></a>
 
-### [overseerr-5.0.16](https://github.com/truecharts/apps/compare/overseerr-5.0.15...overseerr-5.0.16) (2022-05-17)
+### [覆盖 -5.0.16](https://github.com/truecharts/apps/compare/overseerr-5.0.15...overseerr-5.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="overseerr-5.0.15"></a>
 
-### [overseerr-5.0.15](https://github.com/truecharts/apps/compare/overseerr-5.0.14...overseerr-5.0.15) (2022-05-10)
+### [覆盖 -5.0.15](https://github.com/truecharts/apps/compare/overseerr-5.0.14...overseerr-5.0.15) (2022-05-10)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="overseerr-5.0.14"></a>
 
-### [overseerr-5.0.14](https://github.com/truecharts/apps/compare/overseerr-5.0.13...overseerr-5.0.14) (2022-05-05)
+### [覆盖 -5.0.14](https://github.com/truecharts/apps/compare/overseerr-5.0.13...overseerr-5.0.14) (2022-05-05)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="overseerr-5.0.13"></a>
 
-### [overseerr-5.0.13](https://github.com/truecharts/apps/compare/overseerr-5.0.12...overseerr-5.0.13) (2022-04-26)
+### [overerr-5.0.13](https://github.com/truecharts/apps/compare/overseerr-5.0.12...overseerr-5.0.13) (2022-04-26)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="overseerr-5.0.12"></a>
 
-### [overseerr-5.0.12](https://github.com/truecharts/apps/compare/overseerr-5.0.11...overseerr-5.0.12) (2022-04-20)
+### [覆盖 -5.0.12](https://github.com/truecharts/apps/compare/overseerr-5.0.11...overseerr-5.0.12) (2022-04-20)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="overseerr-5.0.11"></a>
 
-### [overseerr-5.0.11](https://github.com/truecharts/apps/compare/overseerr-5.0.10...overseerr-5.0.11) (2022-04-12)
+### [覆盖 -5.0.11](https://github.com/truecharts/apps/compare/overseerr-5.0.10...overseerr-5.0.11) (2022-04-12)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="overseerr-5.0.10"></a>
 
-### [overseerr-5.0.10](https://github.com/truecharts/apps/compare/overseerr-5.0.9...overseerr-5.0.10) (2022-04-09)
+### [覆盖 -5.0.10](https://github.com/truecharts/apps/compare/overseerr-5.0.9...overseerr-5.0.10) (2022-04-09)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="overseerr-5.0.9"></a>
 
-### [overseerr-5.0.9](https://github.com/truecharts/apps/compare/overseerr-5.0.8...overseerr-5.0.9) (2022-04-03)
+### [覆盖 -5.0.9](https://github.com/truecharts/apps/compare/overseerr-5.0.8...overseerr-5.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="overseerr-5.0.8"></a>
 
-### [overseerr-5.0.8](https://github.com/truecharts/apps/compare/overseerr-5.0.7...overseerr-5.0.8) (2022-03-31)
+### [覆盖 5.0.8](https://github.com/truecharts/apps/compare/overseerr-5.0.7...overseerr-5.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="overseerr-5.0.7"></a>
 
-### [overseerr-5.0.7](https://github.com/truecharts/apps/compare/overseerr-5.0.6...overseerr-5.0.7) (2022-03-30)
+### [覆盖 -5.0.7](https://github.com/truecharts/apps/compare/overseerr-5.0.6...overseerr-5.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="overseerr-5.0.6"></a>
 
-### [overseerr-5.0.6](https://github.com/truecharts/apps/compare/overseerr-5.0.5...overseerr-5.0.6) (2022-03-26)
+### [覆盖 -5.0.6](https://github.com/truecharts/apps/compare/overseerr-5.0.5...overseerr-5.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -352,7 +352,7 @@
 
 <a name="overseerr-5.0.1"></a>
 
-### [overseerr-5.0.1](https://github.com/truecharts/apps/compare/overseerr-5.0.0...overseerr-5.0.1) (2022-03-07)
+### [覆盖 -5.0.1](https://github.com/truecharts/apps/compare/overseerr-5.0.0...overseerr-5.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -363,7 +363,7 @@
 
 <a name="overseerr-5.0.0"></a>
 
-### [overseerr-5.0.0](https://github.com/truecharts/apps/compare/overseerr-4.0.43...overseerr-5.0.0) (2022-03-03)
+### [覆盖 -5.0.0](https://github.com/truecharts/apps/compare/overseerr-4.0.43...overseerr-5.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -380,7 +380,7 @@
 
 <a name="overseerr-4.0.43"></a>
 
-### [overseerr-4.0.43](https://github.com/truecharts/apps/compare/overseerr-4.0.42...overseerr-4.0.43) (2022-03-02)
+### [覆盖 -4.0.43](https://github.com/truecharts/apps/compare/overseerr-4.0.42...overseerr-4.0.43) (2022-03-02)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="overseerr-4.0.42"></a>
 
-### [overseerr-4.0.42](https://github.com/truecharts/apps/compare/overseerr-4.0.41...overseerr-4.0.42) (2022-02-21)
+### [覆盖 -4.0.42](https://github.com/truecharts/apps/compare/overseerr-4.0.41...overseerr-4.0.42) (2022-02-21)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="overseerr-4.0.41"></a>
 
-### [overseerr-4.0.41](https://github.com/truecharts/apps/compare/overseerr-4.0.40...overseerr-4.0.41) (2022-02-15)
+### [覆盖 -4.0.41](https://github.com/truecharts/apps/compare/overseerr-4.0.40...overseerr-4.0.41) (2022-02-15)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="overseerr-4.0.40"></a>
 
-### [overseerr-4.0.40](https://github.com/truecharts/apps/compare/overseerr-4.0.39...overseerr-4.0.40) (2022-02-08)
+### [覆盖 -4.0.40](https://github.com/truecharts/apps/compare/overseerr-4.0.39...overseerr-4.0.40) (2022-02-08)
 
 #### 聊天
 
@@ -422,7 +422,7 @@
 
 <a name="overseerr-4.0.39"></a>
 
-### [overseerr-4.0.39](https://github.com/truecharts/apps/compare/overseerr-4.0.38...overseerr-4.0.39) (2022-02-06)
+### [覆盖 -4.0.39](https://github.com/truecharts/apps/compare/overseerr-4.0.38...overseerr-4.0.39) (2022-02-06)
 
 #### 聊天
 
@@ -432,7 +432,7 @@
 
 <a name="overseerr-4.0.38"></a>
 
-### [overseerr-4.0.38](https://github.com/truecharts/apps/compare/overseerr-4.0.37...overseerr-4.0.38) (2022-02-05)
+### [覆盖 -4.0.38](https://github.com/truecharts/apps/compare/overseerr-4.0.37...overseerr-4.0.38) (2022-02-05)
 
 #### 聊天
 
@@ -442,7 +442,7 @@
 
 <a name="overseerr-4.0.37"></a>
 
-### [overseerr-4.0.37](https://github.com/truecharts/apps/compare/overseerr-4.0.36...overseerr-4.0.37) (2022-02-02)
+### [覆盖 -4.0.37](https://github.com/truecharts/apps/compare/overseerr-4.0.36...overseerr-4.0.37) (2022-02-02)
 
 #### 聊天
 
@@ -452,7 +452,7 @@
 
 <a name="overseerr-4.0.36"></a>
 
-### [overseerr-4.0.36](https://github.com/truecharts/apps/compare/overseerr-4.0.35...overseerr-4.0.36) (2022-01-25)
+### [overerr-4.0.36](https://github.com/truecharts/apps/compare/overseerr-4.0.35...overseerr-4.0.36) (2022-01-25)
 
 #### 聊天
 
@@ -462,7 +462,7 @@
 
 <a name="overseerr-4.0.35"></a>
 
-### [overseerr-4.0.35](https://github.com/truecharts/apps/compare/overseerr-4.0.34...overseerr-4.0.35) (2022-01-22)
+### [overer-4.0.35](https://github.com/truecharts/apps/compare/overseerr-4.0.34...overseerr-4.0.35) (2022-01-22)
 
 #### 聊天
 
@@ -472,7 +472,7 @@
 
 <a name="overseerr-4.0.34"></a>
 
-### [overseerr-4.0.34](https://github.com/truecharts/apps/compare/overseerr-4.0.33...overseerr-4.0.34) (2022-01-21)
+### [覆盖 4.0.34](https://github.com/truecharts/apps/compare/overseerr-4.0.33...overseerr-4.0.34) (2022-01-21)
 
 #### 聊天
 
@@ -486,7 +486,7 @@
 
 <a name="overseerr-4.0.33"></a>
 
-### [overseerr-4.0.33](https://github.com/truecharts/apps/compare/overseerr-4.0.32...overseerr-4.0.33) (2022-01-18)
+### [overerr-4.0.33](https://github.com/truecharts/apps/compare/overseerr-4.0.32...overseerr-4.0.33) (2022-01-18)
 
 #### 聊天
 
@@ -496,7 +496,7 @@
 
 <a name="overseerr-4.0.32"></a>
 
-### [overseerr-4.0.32](https://github.com/truecharts/apps/compare/overseerr-4.0.31...overseerr-4.0.32) (2022-01-13)
+### [覆盖 4.0.32](https://github.com/truecharts/apps/compare/overseerr-4.0.31...overseerr-4.0.32) (2022-01-13)
 
 #### 聊天
 
@@ -510,7 +510,7 @@
 
 <a name="overseerr-4.0.31"></a>
 
-### [overseerr-4.0.31](https://github.com/truecharts/apps/compare/overseerr-4.0.30...overseerr-4.0.31) (2022-01-12)
+### [覆盖 4.0.31](https://github.com/truecharts/apps/compare/overseerr-4.0.30...overseerr-4.0.31) (2022-01-12)
 
 #### 聊天
 
@@ -520,7 +520,7 @@
 
 <a name="overseerr-4.0.30"></a>
 
-### [overseerr-4.0.30](https://github.com/truecharts/apps/compare/overseerr-4.0.29...overseerr-4.0.30) (2022-01-11)
+### [覆盖 4.0.30](https://github.com/truecharts/apps/compare/overseerr-4.0.29...overseerr-4.0.30) (2022-01-11)
 
 #### 聊天
 
@@ -530,7 +530,7 @@
 
 <a name="overseerr-4.0.29"></a>
 
-### [overseerr-4.0.29](https://github.com/truecharts/apps/compare/overseerr-4.0.28...overseerr-4.0.29) (2022-01-04)
+### [覆盖 4.0.29](https://github.com/truecharts/apps/compare/overseerr-4.0.28...overseerr-4.0.29) (2022-01-04)
 
 #### 聊天
 
@@ -540,7 +540,7 @@
 
 <a name="overseerr-4.0.28"></a>
 
-### [overseerr-4.0.28](https://github.com/truecharts/apps/compare/overseerr-4.0.27...overseerr-4.0.28) (2022-01-03)
+### [覆盖 4.0.28](https://github.com/truecharts/apps/compare/overseerr-4.0.27...overseerr-4.0.28) (2022-01-03)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="overseerr-4.0.27"></a>
 
-### [overseerr-4.0.27](https://github.com/truecharts/apps/compare/overseerr-4.0.26...overseerr-4.0.27) (2021-12-28)
+### [覆盖 4.0.27](https://github.com/truecharts/apps/compare/overseerr-4.0.26...overseerr-4.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="overseerr-4.0.26"></a>
 
-### [overseerr-4.0.26](https://github.com/truecharts/apps/compare/overseerr-4.0.25...overseerr-4.0.26) (2021-12-21)
+### [覆盖 4.0.26](https://github.com/truecharts/apps/compare/overseerr-4.0.25...overseerr-4.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="overseerr-4.0.25"></a>
 
-### [overseerr-4.0.25](https://github.com/truecharts/apps/compare/overseerr-4.0.24...overseerr-4.0.25) (2021-12-19)
+### [覆盖 4.0.25](https://github.com/truecharts/apps/compare/overseerr-4.0.24...overseerr-4.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -581,7 +581,7 @@
 
 <a name="overseerr-4.0.24"></a>
 
-### [overseerr-4.0.24](https://github.com/truecharts/apps/compare/overseerr-4.0.23...overseerr-4.0.24) (2021-12-19)
+### [覆盖 4.0.24](https://github.com/truecharts/apps/compare/overseerr-4.0.23...overseerr-4.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="overseerr-4.0.23"></a>
 
-### [overseerr-4.0.23](https://github.com/truecharts/apps/compare/overseerr-4.0.22...overseerr-4.0.23) (2021-12-18)
+### [overer-4.0.23](https://github.com/truecharts/apps/compare/overseerr-4.0.22...overseerr-4.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -603,7 +603,7 @@
 
 <a name="overseerr-4.0.22"></a>
 
-### [overseerr-4.0.22](https://github.com/truecharts/apps/compare/overseerr-4.0.21...overseerr-4.0.22) (2021-12-14)
+### [覆盖 4.0.22](https://github.com/truecharts/apps/compare/overseerr-4.0.21...overseerr-4.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -613,7 +613,7 @@
 
 <a name="overseerr-4.0.21"></a>
 
-### [overseerr-4.0.21](https://github.com/truecharts/apps/compare/overseerr-4.0.20...overseerr-4.0.21) (2021-12-13)
+### [覆盖 4.0.21](https://github.com/truecharts/apps/compare/overseerr-4.0.20...overseerr-4.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -623,7 +623,7 @@
 
 <a name="overseerr-4.0.20"></a>
 
-### [overseerr-4.0.20](https://github.com/truecharts/apps/compare/overseerr-4.0.19...overseerr-4.0.20) (2021-12-11)
+### [覆盖 4.0.20](https://github.com/truecharts/apps/compare/overseerr-4.0.19...overseerr-4.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -633,7 +633,7 @@
 
 <a name="overseerr-4.0.19"></a>
 
-### [overseerr-4.0.19](https://github.com/truecharts/apps/compare/overseerr-4.0.18...overseerr-4.0.19) (2021-12-07)
+### [overerr-4.0.19](https://github.com/truecharts/apps/compare/overseerr-4.0.18...overseerr-4.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -643,7 +643,7 @@
 
 <a name="overseerr-4.0.18"></a>
 
-### overseerr-4.0.18 (2021-12-05)
+### 监督员-4.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -664,7 +664,7 @@
 
 <a name="overseerr-4.0.17"></a>
 
-### [overseerr-4.0.17](https://github.com/truecharts/apps/compare/overseerr-4.0.16...overseerr-4.0.17) (2021-12-05)
+### [overerr-4.0.17](https://github.com/truecharts/apps/compare/overseerr-4.0.16...overseerr-4.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -674,7 +674,7 @@
 
 <a name="overseerr-4.0.16"></a>
 
-### [overseerr-4.0.16](https://github.com/truecharts/apps/compare/overseerr-4.0.15...overseerr-4.0.16) (2021-12-04)
+### [overerr-4..0.16](https://github.com/truecharts/apps/compare/overseerr-4.0.15...overseerr-4.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -684,7 +684,7 @@
 
 <a name="overseerr-4.0.15"></a>
 
-### [overseerr-4.0.15](https://github.com/truecharts/apps/compare/overseerr-4.0.14...overseerr-4.0.15) (2021-12-04)
+### [覆盖 4.0.15](https://github.com/truecharts/apps/compare/overseerr-4.0.14...overseerr-4.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -694,7 +694,7 @@
 
 <a name="overseerr-4.0.14"></a>
 
-### [overseerr-4.0.14](https://github.com/truecharts/apps/compare/overseerr-4.0.13...overseerr-4.0.14) (2021-12-03)
+### [覆盖4.0.14](https://github.com/truecharts/apps/compare/overseerr-4.0.13...overseerr-4.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -706,7 +706,7 @@
 
 <a name="overseerr-4.0.13"></a>
 
-### [overseerr-4.0.13](https://github.com/truecharts/apps/compare/overseerr-4.0.12...overseerr-4.0.13) (2021-11-30)
+### [overer-4.0.13](https://github.com/truecharts/apps/compare/overseerr-4.0.12...overseerr-4.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -716,7 +716,7 @@
 
 <a name="overseerr-4.0.12"></a>
 
-### [overseerr-4.0.12](https://github.com/truecharts/apps/compare/overseerr-4.0.11...overseerr-4.0.12) (2021-11-23)
+### [overer-4.0.12](https://github.com/truecharts/apps/compare/overseerr-4.0.11...overseerr-4.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -726,7 +726,7 @@
 
 <a name="overseerr-4.0.11"></a>
 
-### [overseerr-4.0.11](https://github.com/truecharts/apps/compare/overseerr-4.0.10...overseerr-4.0.11) (2021-11-22)
+### [overer-4.0.11](https://github.com/truecharts/apps/compare/overseerr-4.0.10...overseerr-4.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -736,7 +736,7 @@
 
 <a name="overseerr-4.0.10"></a>
 
-### [overseerr-4.0.10](https://github.com/truecharts/apps/compare/overseerr-4.0.9...overseerr-4.0.10) (2021-11-16)
+### [overer-4.0.10](https://github.com/truecharts/apps/compare/overseerr-4.0.9...overseerr-4.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -746,7 +746,7 @@
 
 <a name="overseerr-4.0.9"></a>
 
-### [overseerr-4.0.9](https://github.com/truecharts/apps/compare/overseerr-4.0.8...overseerr-4.0.9) (2021-11-15)
+### [overer-4.0.9](https://github.com/truecharts/apps/compare/overseerr-4.0.8...overseerr-4.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -757,7 +757,7 @@
 
 <a name="overseerr-4.0.8"></a>
 
-### [overseerr-4.0.8](https://github.com/truecharts/apps/compare/overseerr-4.0.7...overseerr-4.0.8) (2021-11-14)
+### [overer-4.0.8](https://github.com/truecharts/apps/compare/overseerr-4.0.7...overseerr-4.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -775,7 +775,7 @@
 
 <a name="overseerr-4.0.7"></a>
 
-### [overseerr-4.0.7](https://github.com/truecharts/apps/compare/overseerr-4.0.6...overseerr-4.0.7) (2021-11-09)
+### [覆盖 -4.0.7](https://github.com/truecharts/apps/compare/overseerr-4.0.6...overseerr-4.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -785,7 +785,7 @@
 
 <a name="overseerr-4.0.6"></a>
 
-### [overseerr-4.0.6](https://github.com/truecharts/apps/compare/overseerr-4.0.5...overseerr-4.0.6) (2021-11-07)
+### [覆盖 -4.0.6](https://github.com/truecharts/apps/compare/overseerr-4.0.5...overseerr-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -795,7 +795,7 @@
 
 <a name="overseerr-4.0.5"></a>
 
-### [overseerr-4.0.5](https://github.com/truecharts/apps/compare/overseerr-4.0.4...overseerr-4.0.5) (2021-11-07)
+### [覆盖 -4.0.5](https://github.com/truecharts/apps/compare/overseerr-4.0.4...overseerr-4.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -813,7 +813,7 @@
 
 <a name="overseerr-4.0.4"></a>
 
-### [overseerr-4.0.4](https://github.com/truecharts/apps/compare/overseerr-4.0.3...overseerr-4.0.4) (2021-11-02)
+### [覆盖 -4.0.4](https://github.com/truecharts/apps/compare/overseerr-4.0.3...overseerr-4.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -823,7 +823,7 @@
 
 <a name="overseerr-4.0.3"></a>
 
-### [overseerr-4.0.3](https://github.com/truecharts/apps/compare/overseerr-4.0.2...overseerr-4.0.3) (2021-11-01)
+### [覆盖 -4.0.3](https://github.com/truecharts/apps/compare/overseerr-4.0.2...overseerr-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -833,7 +833,7 @@
 
 <a name="overseerr-4.0.2"></a>
 
-### [overseerr-4.0.2](https://github.com/truecharts/apps/compare/overseerr-4.0.1...overseerr-4.0.2) (2021-10-26)
+### [覆盖 4.0.2](https://github.com/truecharts/apps/compare/overseerr-4.0.1...overseerr-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -843,7 +843,7 @@
 
 <a name="overseerr-4.0.1"></a>
 
-### [overseerr-4.0.1](https://github.com/truecharts/apps/compare/overseerr-4.0.0...overseerr-4.0.1) (2021-10-26)
+### [覆盖 -4.0.1](https://github.com/truecharts/apps/compare/overseerr-4.0.0...overseerr-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -853,7 +853,7 @@
 
 <a name="overseerr-4.0.0"></a>
 
-### [overseerr-4.0.0](https://github.com/truecharts/apps/compare/overseerr-3.0.16...overseerr-4.0.0) (2021-10-25)
+### [覆盖 -4.0.0](https://github.com/truecharts/apps/compare/overseerr-3.0.16...overseerr-4.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -863,12 +863,12 @@
 
 <a name="overseerr-3.0.16"></a>
 
-### [overseerr-3.0.16](https://github.com/truecharts/apps/compare/overseerr-3.0.13...overseerr-3.0.16) (2021-10-20)
+### [覆盖 -3.0.16](https://github.com/truecharts/apps/compare/overseerr-3.0.13...overseerr-3.0.16) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -879,7 +879,7 @@
 
 <a name="overseerr-3.0.13"></a>
 
-### [overseerr-3.0.13](https://github.com/truecharts/apps/compare/overseerr-3.0.12...overseerr-3.0.13) (2021-10-20)
+### [覆盖 -3.0.13](https://github.com/truecharts/apps/compare/overseerr-3.0.12...overseerr-3.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -889,7 +889,7 @@
 
 <a name="overseerr-3.0.12"></a>
 
-### [overseerr-3.0.12](https://github.com/truecharts/apps/compare/overseerr-3.0.11...overseerr-3.0.12) (2021-10-19)
+### [覆盖 -3.0.12](https://github.com/truecharts/apps/compare/overseerr-3.0.11...overseerr-3.0.12) (2021-10-19)
 
 #### 更改
 
@@ -914,7 +914,7 @@
 
 <a name="overseerr-3.0.11"></a>
 
-### [overseerr-3.0.11](https://github.com/truecharts/apps/compare/overseerr-3.0.10...overseerr-3.0.11) (2021-10-19)
+### [覆盖 -3.0.11](https://github.com/truecharts/apps/compare/overseerr-3.0.10...overseerr-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -924,7 +924,7 @@
 
 <a name="overseerr-3.0.10"></a>
 
-### [overseerr-3.0.10](https://github.com/truecharts/apps/compare/overseerr-3.0.9...overseerr-3.0.10) (2021-10-19)
+### [覆盖 -3.0.10](https://github.com/truecharts/apps/compare/overseerr-3.0.9...overseerr-3.0.10) (2021-10-19)
 
 #### 修复
 
@@ -934,7 +934,7 @@
 
 <a name="overseerr-3.0.9"></a>
 
-### [overseerr-3.0.9](https://github.com/truecharts/apps/compare/overseerr-3.0.8...overseerr-3.0.9) (2021-10-18)
+### [覆盖 -3.0.9](https://github.com/truecharts/apps/compare/overseerr-3.0.8...overseerr-3.0.9) (2021-10-18)
 
 #### 聊天
 
@@ -948,7 +948,7 @@
 
 <a name="overseerr-3.0.8"></a>
 
-### [overseerr-3.0.8](https://github.com/truecharts/apps/compare/overseerr-3.0.7...overseerr-3.0.8) (2021-10-17)
+### [覆盖 -3.0.8](https://github.com/truecharts/apps/compare/overseerr-3.0.7...overseerr-3.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -962,7 +962,7 @@
 
 <a name="overseerr-3.0.7"></a>
 
-### [overseerr-3.0.7](https://github.com/truecharts/apps/compare/overseerr-3.0.6...overseerr-3.0.7) (2021-10-13)
+### [覆盖 -3.0.7](https://github.com/truecharts/apps/compare/overseerr-3.0.6...overseerr-3.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -972,7 +972,7 @@
 
 <a name="overseerr-3.0.6"></a>
 
-### [overseerr-3.0.6](https://github.com/truecharts/apps/compare/overseerr-3.0.5...overseerr-3.0.6) (2021-10-12)
+### [覆盖 -3.0.6](https://github.com/truecharts/apps/compare/overseerr-3.0.5...overseerr-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -982,7 +982,7 @@
 
 <a name="overseerr-3.0.5"></a>
 
-### [overseerr-3.0.5](https://github.com/truecharts/apps/compare/overseerr-3.0.4...overseerr-3.0.5) (2021-10-12)
+### [覆盖 -3.0.5](https://github.com/truecharts/apps/compare/overseerr-3.0.4...overseerr-3.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -992,7 +992,7 @@
 
 <a name="overseerr-3.0.4"></a>
 
-### [overseerr-3.0.4](https://github.com/truecharts/apps/compare/overseerr-3.0.3...overseerr-3.0.4) (2021-10-05)
+### [覆盖 -3.0.4](https://github.com/truecharts/apps/compare/overseerr-3.0.3...overseerr-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1002,7 +1002,7 @@
 
 <a name="overseerr-3.0.3"></a>
 
-### [overseerr-3.0.3](https://github.com/truecharts/apps/compare/overseerr-3.0.2...overseerr-3.0.3) (2021-09-29)
+### [覆盖 -3.0.3](https://github.com/truecharts/apps/compare/overseerr-3.0.2...overseerr-3.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1012,19 +1012,19 @@
 
 <a name="overseerr-3.0.1"></a>
 
-### [overseerr-3.0.1](https://github.com/truecharts/apps/compare/overseerr-3.0.0...overseerr-3.0.1) (2021-09-26)
+### [覆盖 -3.0.1](https://github.com/truecharts/apps/compare/overseerr-3.0.0...overseerr-3.0.1) (2021-09-26)
 
 
 
 <a name="overseerr-3.0.0"></a>
 
-### [overseerr-3.0.0](https://github.com/truecharts/apps/compare/overseerr-2.0.3...overseerr-3.0.0) (2021-09-26)
+### [覆盖 -3.0.0](https://github.com/truecharts/apps/compare/overseerr-2.0.3...overseerr-3.0.0) (2021-09-26)
 
 
 
 <a name="overseerr-2.0.3"></a>
 
-### [overseerr-2.0.3](https://github.com/truecharts/apps/compare/overseerr-2.0.2...overseerr-2.0.3) (2021-09-21)
+### [覆盖 -2.0.3](https://github.com/truecharts/apps/compare/overseerr-2.0.2...overseerr-2.0.3) (2021-09-21)
 
 #### 聊天
 
@@ -1034,7 +1034,7 @@
 
 <a name="overseerr-2.0.2"></a>
 
-### [overseerr-2.0.2](https://github.com/truecharts/apps/compare/overseerr-2.0.1...overseerr-2.0.2) (2021-09-21)
+### [覆盖 -2.0.2](https://github.com/truecharts/apps/compare/overseerr-2.0.1...overseerr-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1044,7 +1044,7 @@
 
 <a name="overseerr-2.0.1"></a>
 
-### [overseerr-2.0.1](https://github.com/truecharts/apps/compare/overseerr-1.9.15...overseerr-2.0.1) (2021-09-13)
+### [覆盖 -2.0.1](https://github.com/truecharts/apps/compare/overseerr-1.9.15...overseerr-2.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1063,7 +1063,7 @@
 
 <a name="overseerr-1.9.15"></a>
 
-## [overseerr-1.9.15](https://github.com/truecharts/apps/compare/overseerr-1.9.14...overseerr-1.9.15) (2021-09-08)
+## [覆盖 -1.9.15](https://github.com/truecharts/apps/compare/overseerr-1.9.14...overseerr-1.9.15) (2021-09-08)
 
 ### 修复
 
