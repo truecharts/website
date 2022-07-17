@@ -1,6 +1,6 @@
 # pinry
 
-The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
+Pinry的开源核心，一个供想要保存的人使用的平铺图板系统， 标记和分享图像、视频和网页，以便通过格式轻松跳过。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
