@@ -122,7 +122,7 @@
 #### 聊天
 
 * 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
-* update image ref ([#2945](https://github.com/truecharts/apps/issues/2945))
+* 更新图像参考([#2945](https://github.com/truecharts/apps/issues/2945))
 
 
 
@@ -142,7 +142,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220615.0.131817 ([#2906](https://github.com/truecharts/apps/issues/2906))
+* 更新容器图像 kopia/kopia 到 v20220615.0.131817 ([#2906](https://github.com/truecharts/apps/issues/2906))
 
 
 
@@ -152,7 +152,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220614.0.221142 ([#2892](https://github.com/truecharts/apps/issues/2892))
+* 更新容器图像 kopia/kopia 到 v20220614.0.221142 ([#2892](https://github.com/truecharts/apps/issues/2892))
 
 
 
@@ -172,7 +172,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220613.0.214712 ([#2874](https://github.com/truecharts/apps/issues/2874))
+* 更新容器图像 kopia/kopia 到 v20220613.0.214712 ([#2874](https://github.com/truecharts/apps/issues/2874))
 
 
 
@@ -193,7 +193,7 @@
 #### 聊天
 
 * 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
-* update container image kopia/kopia to v20220611.0.63133 ([#2857](https://github.com/truecharts/apps/issues/2857))
+* 更新容器图像 kopia/kopia 到 v2020611.0.63133 ([#2857](https://github.com/truecharts/apps/issues/2857))
 
 
 
@@ -203,7 +203,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220607.0.205602 ([#2847](https://github.com/truecharts/apps/issues/2847))
+* 更新容器图像 kopia/kopia 到 v20220607.0.205602 ([#2847](https://github.com/truecharts/apps/issues/2847))
 
 
 
@@ -256,7 +256,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220531.0.202938 ([#2810](https://github.com/truecharts/apps/issues/2810))
+* 更新容器图像 kopia/kopia 到 v2020531.0.202938 ([#2810](https://github.com/truecharts/apps/issues/2810))
 
 
 
@@ -267,7 +267,7 @@
 #### 聊天
 
 * 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
-* update container image kopia/kopia to v20220529.0.22704 ([#2794](https://github.com/truecharts/apps/issues/2794))
+* 更新容器图像 kopia/kopia 到 v20220529.0.22704 ([#2794](https://github.com/truecharts/apps/issues/2794))
 
 
 
@@ -287,7 +287,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220528.0.132040 ([#2777](https://github.com/truecharts/apps/issues/2777))
+* 更新容器图像 kopia/kopia 到 v20220528.0.132040 ([#2777](https://github.com/truecharts/apps/issues/2777))
 
 
 
@@ -318,7 +318,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220525.0.234505 ([#2757](https://github.com/truecharts/apps/issues/2757))
+* 更新容器图像 kopia/kopia 到 v20220525.0.234505 ([#2757](https://github.com/truecharts/apps/issues/2757))
 
 
 
@@ -328,7 +328,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220523.0.174913 ([#2742](https://github.com/truecharts/apps/issues/2742))
+* 更新容器图像 kopia/kopia 到 v20220523.0.174913 ([#2742](https://github.com/truecharts/apps/issues/2742))
 
 
 
@@ -348,7 +348,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220522.0.201701 ([#2735](https://github.com/truecharts/apps/issues/2735))
+* 更新容器图像 kopia/kopia 到 v20220522.0201701 ([#2735](https://github.com/truecharts/apps/issues/2735))
 
 
 
@@ -358,7 +358,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220518.0.12706 ([#2713](https://github.com/truecharts/apps/issues/2713))
+* 更新容器图像 kopia/kopia 到 v20220518.0.12706 ([#2713](https://github.com/truecharts/apps/issues/2713))
 
 
 
@@ -389,7 +389,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220516.0.115504 ([#2698](https://github.com/truecharts/apps/issues/2698))
+* 更新容器图像 kopia/kopia 到 v20220516.0.115504 ([#2698](https://github.com/truecharts/apps/issues/2698))
 * 更新头盔非主要头盔的一般版本
 
 
@@ -400,7 +400,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220513.0.335 ([#2667](https://github.com/truecharts/apps/issues/2667))
+* 更新容器图像 kopia/kopia 到 v20220513.0.335 ([#2667](https://github.com/truecharts/apps/issues/2667))
 
 
 
@@ -410,7 +410,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220511.0.135115 ([#2661](https://github.com/truecharts/apps/issues/2661))
+* 更新容器图像 kopia/kopia 到 v20220511.0.135115 ([#2661](https://github.com/truecharts/apps/issues/2661))
 
 
 
@@ -420,7 +420,7 @@
 
 #### 聊天
 
-* update container image kopia/kopia to v20220510.0.34525 ([#2654](https://github.com/truecharts/apps/issues/2654))
+* 更新容器图像 kopia/kopia 到 v20220510.0.34525 ([#2654](https://github.com/truecharts/apps/issues/2654))
 
 
 
@@ -441,14 +441,14 @@
 #### 聊天
 
 * 自动更新README图表 [跳过 ci]
-* update container image kopia/kopia to v20220506.0.211612 ([#2640](https://github.com/truecharts/apps/issues/2640))
+* 更新容器图像 kopia/kopia 到 v20220506.0.21112 ([#2640](https://github.com/truecharts/apps/issues/2640))
 
 
 
 <a name="kopia-0.0.1"></a>
 
-### kopia-0.0.1 (2022-05-07)
+### 阿皮亚-0.0.1 (2022-05-07)
 
 #### Feat
 
-* add kopia ([#2630](https://github.com/truecharts/apps/issues/2630))
+* 添加 kopia ([#2630](https://github.com/truecharts/apps/issues/2630))
