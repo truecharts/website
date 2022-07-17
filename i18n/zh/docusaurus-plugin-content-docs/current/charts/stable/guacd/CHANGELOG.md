@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [guacd-2.0.19](https://github.com/truecharts/apps/compare/guacd-2.0.18...guacd-2.0.19) (2022-07-14)
+## [guact-2.0.19](https://github.com/truecharts/apps/compare/guacd-2.0.18...guacd-2.0.19) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [guacd-2.0.18](https://github.com/truecharts/apps/compare/guacd-2.0.16...guacd-2.0.18) (2022-07-14)
+## [guact-2.0.18](https://github.com/truecharts/apps/compare/guacd-2.0.16...guacd-2.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [guacd-2.0.16](https://github.com/truecharts/apps/compare/guacd-2.0.14...guacd-2.0.16) (2022-07-12)
+## [guact-2.0.16](https://github.com/truecharts/apps/compare/guacd-2.0.14...guacd-2.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [guacd-2.0.14](https://github.com/truecharts/apps/compare/guacd-2.0.13...guacd-2.0.14) (2022-07-12)
+## [guact-2.0.14](https://github.com/truecharts/apps/compare/guacd-2.0.13...guacd-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="guacd-2.0.13"></a>
 
-### [guacd-2.0.13](https://github.com/truecharts/apps/compare/guacd-2.0.12...guacd-2.0.13) (2022-07-12)
+### [guact-2.0.13](https://github.com/truecharts/apps/compare/guacd-2.0.12...guacd-2.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="guacd-2.0.12"></a>
 
-### [guacd-2.0.12](https://github.com/truecharts/apps/compare/guacd-2.0.11...guacd-2.0.12) (2022-07-11)
+### [guact-2.0.12](https://github.com/truecharts/apps/compare/guacd-2.0.11...guacd-2.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,27 +56,27 @@
 
 <a name="guacd-2.0.11"></a>
 
-### [guacd-2.0.11](https://github.com/truecharts/apps/compare/guacd-2.0.10...guacd-2.0.11) (2022-07-10)
+### [guact-2.0.11](https://github.com/truecharts/apps/compare/guacd-2.0.10...guacd-2.0.11) (2022-07-10)
 
 #### 修复
 
-* rootfs writable ([#3121](https://github.com/truecharts/apps/issues/3121))
+* rootfs 可写 ([#3121](https://github.com/truecharts/apps/issues/3121))
 
 
 
 <a name="guacd-2.0.10"></a>
 
-### [guacd-2.0.10](https://github.com/truecharts/apps/compare/guacd-2.0.9...guacd-2.0.10) (2022-07-10)
+### [guact-2.0.10](https://github.com/truecharts/apps/compare/guacd-2.0.9...guacd-2.0.10) (2022-07-10)
 
 #### 修复
 
-* run rootless ([#3114](https://github.com/truecharts/apps/issues/3114))
+* 运行 rootless ([#3314](https://github.com/truecharts/apps/issues/3114))
 
 
 
 <a name="guacd-2.0.9"></a>
 
-### [guacd-2.0.9](https://github.com/truecharts/apps/compare/guacd-2.0.8...guacd-2.0.9) (2022-07-09)
+### [guact-2.0.9](https://github.com/truecharts/apps/compare/guacd-2.0.8...guacd-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="guacd-2.0.8"></a>
 
-### [guacd-2.0.8](https://github.com/truecharts/apps/compare/guacd-2.0.7...guacd-2.0.8) (2022-07-04)
+### [guact-2.0.8](https://github.com/truecharts/apps/compare/guacd-2.0.7...guacd-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="guacd-2.0.7"></a>
 
-### [guacd-2.0.7](https://github.com/truecharts/apps/compare/guacd-2.0.6...guacd-2.0.7) (2022-06-25)
+### [guact-2.0.7](https://github.com/truecharts/apps/compare/guacd-2.0.6...guacd-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="guacd-2.0.6"></a>
 
-### [guacd-2.0.6](https://github.com/truecharts/apps/compare/guacd-2.0.5...guacd-2.0.6) (2022-06-22)
+### [guact-2.0.6](https://github.com/truecharts/apps/compare/guacd-2.0.5...guacd-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="guacd-2.0.5"></a>
 
-### [guacd-2.0.5](https://github.com/truecharts/apps/compare/guacd-2.0.4...guacd-2.0.5) (2022-06-21)
+### [guact-2.0.5](https://github.com/truecharts/apps/compare/guacd-2.0.4...guacd-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="guacd-2.0.4"></a>
 
-### [guacd-2.0.4](https://github.com/truecharts/apps/compare/guacd-2.0.3...guacd-2.0.4) (2022-06-14)
+### [guact-2.0.4](https://github.com/truecharts/apps/compare/guacd-2.0.3...guacd-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="guacd-2.0.3"></a>
 
-### [guacd-2.0.3](https://github.com/truecharts/apps/compare/guacd-2.0.2...guacd-2.0.3) (2022-06-11)
+### [guact-2.0.3](https://github.com/truecharts/apps/compare/guacd-2.0.2...guacd-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="guacd-2.0.2"></a>
 
-### [guacd-2.0.2](https://github.com/truecharts/apps/compare/guacd-2.0.1...guacd-2.0.2) (2022-06-07)
+### [guact-2.0.2](https://github.com/truecharts/apps/compare/guacd-2.0.1...guacd-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -156,7 +156,7 @@
 
 <a name="guacd-2.0.1"></a>
 
-### [guacd-2.0.1](https://github.com/truecharts/apps/compare/guacd-1.0.19...guacd-2.0.1) (2022-06-07)
+### [guact-2.0.1](https://github.com/truecharts/apps/compare/guacd-1.0.19...guacd-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -174,7 +174,7 @@
 
 <a name="guacd-2.0.0"></a>
 
-### [guacd-2.0.0](https://github.com/truecharts/apps/compare/guacd-1.0.19...guacd-2.0.0) (2022-06-07)
+### [guact-2.0.0](https://github.com/truecharts/apps/compare/guacd-1.0.19...guacd-2.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -184,7 +184,7 @@
 
 <a name="guacd-1.0.19"></a>
 
-### [guacd-1.0.19](https://github.com/truecharts/apps/compare/guacd-1.0.18...guacd-1.0.19) (2022-05-31)
+### [guact-1.0.19](https://github.com/truecharts/apps/compare/guacd-1.0.18...guacd-1.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -194,7 +194,7 @@
 
 <a name="guacd-1.0.18"></a>
 
-### [guacd-1.0.18](https://github.com/truecharts/apps/compare/guacd-1.0.17...guacd-1.0.18) (2022-05-26)
+### [guact-1.0.18](https://github.com/truecharts/apps/compare/guacd-1.0.17...guacd-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -205,7 +205,7 @@
 
 <a name="guacd-1.0.18"></a>
 
-### [guacd-1.0.18](https://github.com/truecharts/apps/compare/guacd-1.0.17...guacd-1.0.18) (2022-05-26)
+### [guact-1.0.18](https://github.com/truecharts/apps/compare/guacd-1.0.17...guacd-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -215,7 +215,7 @@
 
 <a name="guacd-1.0.17"></a>
 
-### [guacd-1.0.17](https://github.com/truecharts/apps/compare/guacd-1.0.16...guacd-1.0.17) (2022-05-24)
+### [guact-1.0.17](https://github.com/truecharts/apps/compare/guacd-1.0.16...guacd-1.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -225,7 +225,7 @@
 
 <a name="guacd-1.0.16"></a>
 
-### [guacd-1.0.16](https://github.com/truecharts/apps/compare/guacd-1.0.15...guacd-1.0.16) (2022-05-17)
+### [guact-1.0.16](https://github.com/truecharts/apps/compare/guacd-1.0.15...guacd-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -236,7 +236,7 @@
 
 <a name="guacd-1.0.16"></a>
 
-### [guacd-1.0.16](https://github.com/truecharts/apps/compare/guacd-1.0.15...guacd-1.0.16) (2022-05-17)
+### [guact-1.0.16](https://github.com/truecharts/apps/compare/guacd-1.0.15...guacd-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -246,7 +246,7 @@
 
 <a name="guacd-1.0.15"></a>
 
-### [guacd-1.0.15](https://github.com/truecharts/apps/compare/guacd-1.0.14...guacd-1.0.15) (2022-05-17)
+### [guact-1.0.15](https://github.com/truecharts/apps/compare/guacd-1.0.14...guacd-1.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -256,7 +256,7 @@
 
 <a name="guacd-1.0.14"></a>
 
-### [guacd-1.0.14](https://github.com/truecharts/apps/compare/guacd-1.0.13...guacd-1.0.14) (2022-05-10)
+### [guact-1.0.14](https://github.com/truecharts/apps/compare/guacd-1.0.13...guacd-1.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="guacd-1.0.13"></a>
 
-### [guacd-1.0.13](https://github.com/truecharts/apps/compare/guacd-1.0.12...guacd-1.0.13) (2022-05-05)
+### [guact-1.0.13](https://github.com/truecharts/apps/compare/guacd-1.0.12...guacd-1.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="guacd-1.0.12"></a>
 
-### [guacd-1.0.12](https://github.com/truecharts/apps/compare/guacd-1.0.11...guacd-1.0.12) (2022-04-26)
+### [guact-1.0.12](https://github.com/truecharts/apps/compare/guacd-1.0.11...guacd-1.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -286,7 +286,7 @@
 
 <a name="guacd-1.0.11"></a>
 
-### [guacd-1.0.11](https://github.com/truecharts/apps/compare/guacd-1.0.10...guacd-1.0.11) (2022-04-20)
+### [guact-1.0.11](https://github.com/truecharts/apps/compare/guacd-1.0.10...guacd-1.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -297,7 +297,7 @@
 
 <a name="guacd-1.0.10"></a>
 
-### [guacd-1.0.10](https://github.com/truecharts/apps/compare/guacd-1.0.9...guacd-1.0.10) (2022-04-12)
+### [guact-1.0.10](https://github.com/truecharts/apps/compare/guacd-1.0.9...guacd-1.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -307,7 +307,7 @@
 
 <a name="guacd-1.0.9"></a>
 
-### [guacd-1.0.9](https://github.com/truecharts/apps/compare/guacd-1.0.8...guacd-1.0.9) (2022-04-03)
+### [guact-1.0.9](https://github.com/truecharts/apps/compare/guacd-1.0.8...guacd-1.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -317,7 +317,7 @@
 
 <a name="guacd-1.0.8"></a>
 
-### [guacd-1.0.8](https://github.com/truecharts/apps/compare/guacd-1.0.7...guacd-1.0.8) (2022-03-31)
+### [guact-1.0.8](https://github.com/truecharts/apps/compare/guacd-1.0.7...guacd-1.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="guacd-1.0.7"></a>
 
-### [guacd-1.0.7](https://github.com/truecharts/apps/compare/guacd-1.0.6...guacd-1.0.7) (2022-03-30)
+### [guact-1.0.7](https://github.com/truecharts/apps/compare/guacd-1.0.6...guacd-1.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -337,7 +337,7 @@
 
 <a name="guacd-1.0.6"></a>
 
-### [guacd-1.0.6](https://github.com/truecharts/apps/compare/guacd-1.0.5...guacd-1.0.6) (2022-03-26)
+### [guact-1.0.6](https://github.com/truecharts/apps/compare/guacd-1.0.5...guacd-1.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -347,7 +347,7 @@
 
 <a name="guacd-1.0.1"></a>
 
-### [guacd-1.0.1](https://github.com/truecharts/apps/compare/guacd-1.0.0...guacd-1.0.1) (2022-03-07)
+### [guact-1.0.1](https://github.com/truecharts/apps/compare/guacd-1.0.0...guacd-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -358,7 +358,7 @@
 
 <a name="guacd-1.0.0"></a>
 
-### [guacd-1.0.0](https://github.com/truecharts/apps/compare/guacd-0.0.26...guacd-1.0.0) (2022-03-03)
+### [guact-1.0.0](https://github.com/truecharts/apps/compare/guacd-0.0.26...guacd-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -384,7 +384,7 @@
 
 <a name="guacd-0.0.25"></a>
 
-### [guacd-0.0.25](https://github.com/truecharts/apps/compare/guacd-0.0.24...guacd-0.0.25) (2022-02-21)
+### [guact-0.0.25](https://github.com/truecharts/apps/compare/guacd-0.0.24...guacd-0.0.25) (2022-02-21)
 
 #### 聊天
 
@@ -394,7 +394,7 @@
 
 <a name="guacd-0.0.24"></a>
 
-### [guacd-0.0.24](https://github.com/truecharts/apps/compare/guacd-0.0.23...guacd-0.0.24) (2022-02-15)
+### [guact-0.0.24](https://github.com/truecharts/apps/compare/guacd-0.0.23...guacd-0.0.24) (2022-02-15)
 
 #### 聊天
 
@@ -404,7 +404,7 @@
 
 <a name="guacd-0.0.23"></a>
 
-### [guacd-0.0.23](https://github.com/truecharts/apps/compare/guacd-0.0.22...guacd-0.0.23) (2022-02-08)
+### [guact-0.0.23](https://github.com/truecharts/apps/compare/guacd-0.0.22...guacd-0.0.23) (2022-02-08)
 
 #### 聊天
 
@@ -414,7 +414,7 @@
 
 <a name="guacd-0.0.22"></a>
 
-### [guacd-0.0.22](https://github.com/truecharts/apps/compare/guacd-0.0.21...guacd-0.0.22) (2022-02-06)
+### [guact-0.0.22](https://github.com/truecharts/apps/compare/guacd-0.0.21...guacd-0.0.22) (2022-02-06)
 
 #### 聊天
 
@@ -424,7 +424,7 @@
 
 <a name="guacd-0.0.21"></a>
 
-### [guacd-0.0.21](https://github.com/truecharts/apps/compare/guacd-0.0.20...guacd-0.0.21) (2022-02-05)
+### [guact-0.0.21](https://github.com/truecharts/apps/compare/guacd-0.0.20...guacd-0.0.21) (2022-02-05)
 
 #### 聊天
 
@@ -434,7 +434,7 @@
 
 <a name="guacd-0.0.20"></a>
 
-### [guacd-0.0.20](https://github.com/truecharts/apps/compare/guacd-0.0.19...guacd-0.0.20) (2022-02-02)
+### [guact-0.0.20](https://github.com/truecharts/apps/compare/guacd-0.0.19...guacd-0.0.20) (2022-02-02)
 
 #### 聊天
 
@@ -444,7 +444,7 @@
 
 <a name="guacd-0.0.19"></a>
 
-### [guacd-0.0.19](https://github.com/truecharts/apps/compare/guacd-0.0.18...guacd-0.0.19) (2022-01-25)
+### [guact-0.0.19](https://github.com/truecharts/apps/compare/guacd-0.0.18...guacd-0.0.19) (2022-01-25)
 
 #### 聊天
 
@@ -478,7 +478,7 @@
 
 <a name="guacd-0.0.16"></a>
 
-### [guacd-0.0.16](https://github.com/truecharts/apps/compare/guacd-0.0.15...guacd-0.0.16) (2022-01-18)
+### [guact-0.0.16](https://github.com/truecharts/apps/compare/guacd-0.0.15...guacd-0.0.16) (2022-01-18)
 
 #### 聊天
 
@@ -488,7 +488,7 @@
 
 <a name="guacd-0.0.15"></a>
 
-### [guacd-0.0.15](https://github.com/truecharts/apps/compare/guacd-0.0.14...guacd-0.0.15) (2022-01-13)
+### [guact-0.0.15](https://github.com/truecharts/apps/compare/guacd-0.0.14...guacd-0.0.15) (2022-01-13)
 
 #### 聊天
 
@@ -502,7 +502,7 @@
 
 <a name="guacd-0.0.14"></a>
 
-### [guacd-0.0.14](https://github.com/truecharts/apps/compare/guacd-0.0.13...guacd-0.0.14) (2022-01-12)
+### [guact-0.0.14](https://github.com/truecharts/apps/compare/guacd-0.0.13...guacd-0.0.14) (2022-01-12)
 
 #### 聊天
 
@@ -512,11 +512,11 @@
 
 <a name="guacd-0.0.13"></a>
 
-### [guacd-0.0.13](https://github.com/truecharts/apps/compare/guacd-0.0.12...guacd-0.0.13) (2022-01-12)
+### [guact-0.0.13](https://github.com/truecharts/apps/compare/guacd-0.0.12...guacd-0.0.13) (2022-01-12)
 
 #### 修复
 
-* run as root as it's needed for freerdp ([#1695](https://github.com/truecharts/apps/issues/1695))
+* 以 root 身份运行，因为它是免费的 ([#1695](https://github.com/truecharts/apps/issues/1695))
 
 
 
@@ -532,17 +532,17 @@
 
 <a name="guacd-0.0.11"></a>
 
-### [guacd-0.0.11](https://github.com/truecharts/apps/compare/guacd-0.0.10...guacd-0.0.11) (2022-01-11)
+### [guact-0.0.11](https://github.com/truecharts/apps/compare/guacd-0.0.10...guacd-0.0.11) (2022-01-11)
 
 #### Feat
 
-* use official image ([#1692](https://github.com/truecharts/apps/issues/1692))
+* 使用官方图像 ([#1692](https://github.com/truecharts/apps/issues/1692))
 
 
 
 <a name="guacd-0.0.10"></a>
 
-### [guacd-0.0.10](https://github.com/truecharts/apps/compare/guacd-0.0.9...guacd-0.0.10) (2022-01-04)
+### [guact-0.0.10](https://github.com/truecharts/apps/compare/guacd-0.0.9...guacd-0.0.10) (2022-01-04)
 
 #### 聊天
 
@@ -552,7 +552,7 @@
 
 <a name="guacd-0.0.9"></a>
 
-### [guacd-0.0.9](https://github.com/truecharts/apps/compare/guacd-0.0.8...guacd-0.0.9) (2021-12-28)
+### [guact-0.0.9](https://github.com/truecharts/apps/compare/guacd-0.0.8...guacd-0.0.9) (2021-12-28)
 
 #### 聊天
 
@@ -562,11 +562,11 @@
 
 <a name="guacd-0.0.8"></a>
 
-### [guacd-0.0.8](https://github.com/truecharts/apps/compare/guacd-0.0.7...guacd-0.0.8) (2021-12-25)
+### [guact-0.0.8](https://github.com/truecharts/apps/compare/guacd-0.0.7...guacd-0.0.8) (2021-12-25)
 
 #### 修复
 
-* allow rootfs access and remove portal ([#1610](https://github.com/truecharts/apps/issues/1610))
+* 允许 rootfs 访问并删除portal ([#1610](https://github.com/truecharts/apps/issues/1610))
 
 
 
@@ -602,7 +602,7 @@
 
 <a name="guacd-0.0.4"></a>
 
-### [guacd-0.0.4](https://github.com/truecharts/apps/compare/guacd-0.0.3...guacd-0.0.4) (2021-12-18)
+### [guact-0.0.4](https://github.com/truecharts/apps/compare/guacd-0.0.3...guacd-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -613,7 +613,7 @@
 
 <a name="guacd-0.0.3"></a>
 
-### [guacd-0.0.3](https://github.com/truecharts/apps/compare/guacd-0.0.2...guacd-0.0.3) (2021-12-14)
+### [guact-0.0.3](https://github.com/truecharts/apps/compare/guacd-0.0.2...guacd-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -633,4 +633,4 @@
 
 <a name="guacd-0.0.1"></a>
 
-### guacd-0.0.1 (2021-12-12)
+### guact-0.0.1 (2021-12-12)
