@@ -31,7 +31,7 @@
 
 - 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
 - 跳转到清理旧文档并使用正确的图标网址
-- fix rm on chart-release ([#3155](https://github.com/truecharts/apps/issues/3155))
+- 修复图表发布中的rm ([#3155](https://github.com/truecharts/apps/issues/3155))
 
 
 
@@ -289,7 +289,7 @@
 
 <a name="minecraft-java-0.0.57"></a>
 
-### [minecraft-java-0.0.57](https://github.com/truecharts/apps/compare/minecraft-java-0.0.56...minecraft-java-0.0.57) (2022-05-25)
+### [minecraft-java-0.057](https://github.com/truecharts/apps/compare/minecraft-java-0.0.56...minecraft-java-0.0.57) (2022-05-25)
 
 #### 聊天
 
@@ -340,7 +340,7 @@
 
 <a name="minecraft-java-0.0.51"></a>
 
-### [minecraft-java-0.0.51](https://github.com/truecharts/apps/compare/minecraft-java-0.0.50...minecraft-java-0.0.51) (2022-05-17)
+### [minecraft-java-0.051](https://github.com/truecharts/apps/compare/minecraft-java-0.0.50...minecraft-java-0.0.51) (2022-05-17)
 
 #### 聊天
 
@@ -351,7 +351,7 @@
 
 <a name="minecraft-java-0.0.51"></a>
 
-### [minecraft-java-0.0.51](https://github.com/truecharts/apps/compare/minecraft-java-0.0.50...minecraft-java-0.0.51) (2022-05-17)
+### [minecraft-java-0.051](https://github.com/truecharts/apps/compare/minecraft-java-0.0.50...minecraft-java-0.0.51) (2022-05-17)
 
 #### 聊天
 
@@ -566,7 +566,7 @@
 
 #### 聊天
 
-* Add rcon_password in gui ([#2297](https://github.com/truecharts/apps/issues/2297))
+* 在界面添加 rcon_password ([#2297](https://github.com/truecharts/apps/issues/2297))
 
 
 
@@ -590,7 +590,7 @@
 
 #### 修复
 
-* Open rcon port ([#2252](https://github.com/truecharts/apps/issues/2252))
+* 打开rcon端口([#2252](https://github.com/truecharts/apps/issues/2252))
 
 
 
@@ -611,7 +611,7 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.6 ([#2200](https://github.com/truecharts/apps/issues/2200))
+* 更新通用的 v9.1.6 头盔图表([#200](https://github.com/truecharts/apps/issues/2200))
 
 
 
@@ -621,7 +621,7 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
+* 更新通用的头盔图表到 v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
 
 
 
@@ -641,8 +641,8 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.3 ([#2174](https://github.com/truecharts/apps/issues/2174))
-* make some fields required ([#2155](https://github.com/truecharts/apps/issues/2155))
+* 更新通用的 v9.1.3 头盔图表([#2174](https://github.com/truecharts/apps/issues/2174))
+* 需要一些字段([#2155](https://github.com/truecharts/apps/issues/2155))
 
 
 
@@ -652,7 +652,7 @@
 
 #### 聊天
 
-* remove UID and GID from values ([#2146](https://github.com/truecharts/apps/issues/2146))
+* 从值中删除 UID 和 GID ([#2146](https://github.com/truecharts/apps/issues/2146))
 
 
 
@@ -662,7 +662,7 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.2 ([#2049](https://github.com/truecharts/apps/issues/2049))
+* 更新通用的 v9.1.2 头盔图表([#2049](https://github.com/truecharts/apps/issues/2049))
 
 
 
@@ -684,7 +684,7 @@
 #### 聊天
 
 * 从问题.yaml 中移除固定的 env
-* update helm chart common to v9 ([#2011](https://github.com/truecharts/apps/issues/2011))
+* 更新通用到v9的头盔图表([#2011](https://github.com/truecharts/apps/issues/2011))
 
 #### 修复
 
@@ -698,7 +698,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
+* 更新通用到v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
 
 
 
@@ -722,7 +722,7 @@
 
 #### 修复
 
-* Fix variable type in questions and add UID variable ([#1974](https://github.com/truecharts/apps/issues/1974))
+* 修复问题中的变量类型并添加 UID 变量([#1974](https://github.com/truecharts/apps/issues/1974))
 
 
 
@@ -732,7 +732,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.16.1 ([#1940](https://github.com/truecharts/apps/issues/1940))
+* 更新通用到v8.16.1([#1940](https://github.com/truecharts/apps/issues/1940))
 
 
 
@@ -742,7 +742,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
+* 更新通用的头盔图表到 v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
 
 
 
@@ -762,7 +762,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.4 ([#1879](https://github.com/truecharts/apps/issues/1879))
+* 更新通用的 v8.15.4 头盔图表([#1879](https://github.com/truecharts/apps/issues/1879))
 
 
 
@@ -782,7 +782,7 @@
 
 #### 聊天
 
-* update container image tccr.io/truecharts/minecraft-java to v2022.3.0 ([#1897](https://github.com/truecharts/apps/issues/1897))
+* 更新容器图像 tccr.io/truecharts/minecraft-java 到 v2022.3.0 ([#1897](https://github.com/truecharts/apps/issues/1897))
 
 
 
@@ -802,7 +802,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.2 ([#1870](https://github.com/truecharts/apps/issues/1870))
+* 更新通用到v8.15.2 ([#1870](https://github.com/truecharts/apps/issues/1870))
 
 
 
@@ -822,7 +822,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.1 ([#1864](https://github.com/truecharts/apps/issues/1864))
+* 更新通用的 v8.15.1 ([#1864](https://github.com/truecharts/apps/issues/1864))
 
 
 
@@ -832,7 +832,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.0 ([#1856](https://github.com/truecharts/apps/issues/1856))
+* 更新通用的 v8.15.0 头盔图表([#1856](https://github.com/truecharts/apps/issues/1856))
 * 更新一般的非主码([#1855](https://github.com/truecharts/apps/issues/1855))
 * 更新一般的非主码([#1849](https://github.com/truecharts/apps/issues/1849))
 
@@ -840,8 +840,8 @@
 
 <a name="minecraft-java-0.0.1"></a>
 
-### minecraft-java-0.0.1 (2022-02-04)
+### 矿工-java-0.0.1 (2022-02-04)
 
 #### Feat
 
-* add 2 more gameservers ([#1840](https://github.com/truecharts/apps/issues/1840))
+* 添加更多两个游戏程序([#1840](https://github.com/truecharts/apps/issues/1840))
