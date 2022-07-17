@@ -13,7 +13,7 @@
 
 ### Feat
 
-- deploy k8s-gateway in HA mode ([#3163](https://github.com/truecharts/apps/issues/3163))
+- 在 HA 模式下部署 k8s-网关 ([#3163](https://github.com/truecharts/apps/issues/3163))
 
 
 
@@ -642,7 +642,7 @@
 
 <a name="k8s-gateway-4.0.19"></a>
 
-### k8s-gateway-4.0.19 (2021-12-05)
+### k8s-gateway-4.0.19(2021-12-05)
 
 #### 聊天
 
@@ -773,7 +773,7 @@
 
 #### 聊天
 
-* move traefik and k8s gateway to core train
+* 移动Traefik 和 k8 s网关到核心列车
 
 
 
