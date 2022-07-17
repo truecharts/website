@@ -425,7 +425,7 @@
 
 <a name="joplin-server-5.0.36"></a>
 
-### [joplin-server-5.0.36](https://github.com/truecharts/apps/compare/joplin-server-5.0.35...joplin-server-5.0.36) (2022-03-02)
+### [joplin-server-5..0.36](https://github.com/truecharts/apps/compare/joplin-server-5.0.35...joplin-server-5.0.36) (2022-03-02)
 
 #### 聊天
 
@@ -456,7 +456,7 @@
 
 <a name="joplin-server-5.0.33"></a>
 
-### [joplin-server-5.0.33](https://github.com/truecharts/apps/compare/joplin-server-5.0.32...joplin-server-5.0.33) (2022-02-08)
+### [joplin-server-5..0.33](https://github.com/truecharts/apps/compare/joplin-server-5.0.32...joplin-server-5.0.33) (2022-02-08)
 
 #### 聊天
 
@@ -477,7 +477,7 @@
 
 <a name="joplin-server-5.0.31"></a>
 
-### [joplin-server-5.0.31](https://github.com/truecharts/apps/compare/joplin-server-5.0.30...joplin-server-5.0.31) (2022-02-05)
+### [joplin-server-5..0.31](https://github.com/truecharts/apps/compare/joplin-server-5.0.30...joplin-server-5.0.31) (2022-02-05)
 
 #### 聊天
 
@@ -599,7 +599,7 @@
 
 #### Feat
 
-* add probes on ping endpoint ([#1675](https://github.com/truecharts/apps/issues/1675))
+* 在ping 端点上添加探测器 ([#1675](https://github.com/truecharts/apps/issues/1675))
 
 
 
@@ -660,7 +660,7 @@
 
 <a name="joplin-server-5.0.14"></a>
 
-### [joplin-server-5.0.14](https://github.com/truecharts/apps/compare/joplin-server-5.0.13...joplin-server-5.0.14) (2021-12-18)
+### [joplin-server-5.0.14](https://github.com/truecharts/apps/compare/joplin-server-5.0.13...joplin-server-5.0.14) (2021-12-18岁)
 
 #### 聊天
 
