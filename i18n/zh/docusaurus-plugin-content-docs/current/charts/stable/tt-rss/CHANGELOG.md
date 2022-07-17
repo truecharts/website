@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [tt-rss-7.0.18](https://github.com/truecharts/apps/compare/tt-rss-7.0.17...tt-rss-7.0.18) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [tt-rss-7.0.17](https://github.com/truecharts/apps/compare/tt-rss-7.0.15...tt-rss-7.0.17) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [tt-rss-7.0.15](https://github.com/truecharts/apps/compare/tt-rss-7.0.13...tt-rss-7.0.15) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [tt-rss-7.0.13](https://github.com/truecharts/apps/compare/tt-rss-7.0.12...tt-rss-7.0.13) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [tt-rss-7.0.12](https://github.com/truecharts/apps/compare/tt-rss-7.0.11...tt-rss-7.0.12) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [tt-rss-7.0.11](https://github.com/truecharts/apps/compare/tt-rss-7.0.10...tt-rss-7.0.11) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,9 +58,9 @@
 
 ### [tt-rss-7.0.10](https://github.com/truecharts/apps/compare/tt-rss-7.0.9...tt-rss-7.0.10) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -68,9 +68,9 @@
 
 ### [tt-rss-7.0.9](https://github.com/truecharts/apps/compare/tt-rss-7.0.8...tt-rss-7.0.9) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3075](https://github.com/truecharts/apps/issues/3075))
+* 更新头盔的一般非主头盔版本([#3075](https://github.com/truecharts/apps/issues/3075))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [tt-rss-7.0.8](https://github.com/truecharts/apps/compare/tt-rss-7.0.7...tt-rss-7.0.8) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [tt-rss-7.0.7](https://github.com/truecharts/apps/compare/tt-rss-7.0.6...tt-rss-7.0.7) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -98,9 +98,9 @@
 
 ### [tt-rss-7.0.6](https://github.com/truecharts/apps/compare/tt-rss-7.0.5...tt-rss-7.0.6) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -108,9 +108,9 @@
 
 ### [tt-rss-7.0.5](https://github.com/truecharts/apps/compare/tt-rss-7.0.4...tt-rss-7.0.5) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [tt-rss-7.0.4](https://github.com/truecharts/apps/compare/tt-rss-7.0.3...tt-rss-7.0.4) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* Sync questions and values env's ([#2916](https://github.com/truecharts/apps/issues/2916))
+* 同步问题和值 Env ([#2916](https://github.com/truecharts/apps/issues/2916))
 
 
 
@@ -128,9 +128,9 @@
 
 ### [tt-rss-7.0.3](https://github.com/truecharts/apps/compare/tt-rss-7.0.2...tt-rss-7.0.3) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2887](https://github.com/truecharts/apps/issues/2887))
+* 更新头盔的一般非主头盔版本([#2887](https://github.com/truecharts/apps/issues/2887))
 
 
 
@@ -138,9 +138,9 @@
 
 ### [tt-rss-7.0.2](https://github.com/truecharts/apps/compare/tt-rss-7.0.1...tt-rss-7.0.2) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -148,9 +148,9 @@
 
 ### [tt-rss-7.0.1](https://github.com/truecharts/apps/compare/tt-rss-7.0.0...tt-rss-7.0.1) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -158,13 +158,13 @@
 
 ### [tt-rss-7.0.0](https://github.com/truecharts/apps/compare/tt-rss-6.0.1...tt-rss-7.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* update helm general major helm releases ([#2804](https://github.com/truecharts/apps/issues/2804))
+* 更新头盔主要头盔版本([#2804](https://github.com/truecharts/apps/issues/2804))
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -172,19 +172,19 @@
 
 ### [tt-rss-6.0.1](https://github.com/truecharts/apps/compare/tt-rss-5.1.3...tt-rss-6.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
-* update helm general non-major helm releases ([#2838](https://github.com/truecharts/apps/issues/2838))
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
+* 更新头盔的一般非主头盔版本([#2838](https://github.com/truecharts/apps/issues/2838))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -192,13 +192,13 @@
 
 ### [tt-rss-6.0.0](https://github.com/truecharts/apps/compare/tt-rss-5.1.3...tt-rss-6.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -206,20 +206,9 @@
 
 ### [tt-rss-5.1.3](https://github.com/truecharts/apps/compare/tt-rss-5.1.2...tt-rss-5.1.3) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="tt-rss-5.1.2"></a>
-
-### [tt-rss-5.1.2](https://github.com/truecharts/apps/compare/tt-rss-5.1.1...tt-rss-5.1.2) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -227,9 +216,20 @@
 
 ### [tt-rss-5.1.2](https://github.com/truecharts/apps/compare/tt-rss-5.1.1...tt-rss-5.1.2) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="tt-rss-5.1.2"></a>
+
+### [tt-rss-5.1.2](https://github.com/truecharts/apps/compare/tt-rss-5.1.1...tt-rss-5.1.2) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -237,9 +237,9 @@
 
 ### [tt-rss-5.1.1](https://github.com/truecharts/apps/compare/tt-rss-5.1.0...tt-rss-5.1.1) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -247,7 +247,7 @@
 
 ### [tt-rss-5.1.0](https://github.com/truecharts/apps/compare/tt-rss-5.0.27...tt-rss-5.1.0) (2022-05-19)
 
-#### Fix
+#### 修复
 
 * Add persistence ([#2716](https://github.com/truecharts/apps/issues/2716))
 
@@ -257,10 +257,10 @@
 
 ### [tt-rss-5.0.27](https://github.com/truecharts/apps/compare/tt-rss-5.0.26...tt-rss-5.0.27) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -268,9 +268,9 @@
 
 ### [tt-rss-5.0.27](https://github.com/truecharts/apps/compare/tt-rss-5.0.26...tt-rss-5.0.27) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -278,9 +278,9 @@
 
 ### [tt-rss-5.0.26](https://github.com/truecharts/apps/compare/tt-rss-5.0.25...tt-rss-5.0.26) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -288,9 +288,9 @@
 
 ### [tt-rss-5.0.25](https://github.com/truecharts/apps/compare/tt-rss-5.0.24...tt-rss-5.0.25) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -298,9 +298,9 @@
 
 ### [tt-rss-5.0.24](https://github.com/truecharts/apps/compare/tt-rss-5.0.23...tt-rss-5.0.24) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -308,9 +308,9 @@
 
 ### [tt-rss-5.0.23](https://github.com/truecharts/apps/compare/tt-rss-5.0.22...tt-rss-5.0.23) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2605](https://github.com/truecharts/apps/issues/2605))
+* 更新头盔的一般非主头盔版本([#2605](https://github.com/truecharts/apps/issues/2605))
 
 
 
@@ -318,9 +318,9 @@
 
 ### [tt-rss-5.0.22](https://github.com/truecharts/apps/compare/tt-rss-5.0.21...tt-rss-5.0.22) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -328,10 +328,10 @@
 
 ### [tt-rss-5.0.21](https://github.com/truecharts/apps/compare/tt-rss-5.0.20...tt-rss-5.0.21) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -339,9 +339,9 @@
 
 ### [tt-rss-5.0.20](https://github.com/truecharts/apps/compare/tt-rss-5.0.19...tt-rss-5.0.20) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -349,7 +349,7 @@
 
 ### [tt-rss-5.0.19](https://github.com/truecharts/apps/compare/tt-rss-5.0.18...tt-rss-5.0.19) (2022-04-09)
 
-#### Chore
+#### 聊天
 
 * update container image tccr.io/truecharts/tt-rss to v2.0.9113 ([#2459](https://github.com/truecharts/apps/issues/2459))
 
@@ -359,9 +359,9 @@
 
 ### [tt-rss-5.0.18](https://github.com/truecharts/apps/compare/tt-rss-5.0.17...tt-rss-5.0.18) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
@@ -369,9 +369,9 @@
 
 ### [tt-rss-5.0.17](https://github.com/truecharts/apps/compare/tt-rss-5.0.16...tt-rss-5.0.17) (2022-04-01)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -379,9 +379,9 @@
 
 ### [tt-rss-5.0.16](https://github.com/truecharts/apps/compare/tt-rss-5.0.15...tt-rss-5.0.16) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2362](https://github.com/truecharts/apps/issues/2362))
+* 更新头盔的一般非主头盔版本([#2362](https://github.com/truecharts/apps/issues/2362))
 
 
 
@@ -389,9 +389,9 @@
 
 ### [tt-rss-5.0.15](https://github.com/truecharts/apps/compare/tt-rss-5.0.14...tt-rss-5.0.15) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
@@ -399,9 +399,9 @@
 
 ### [tt-rss-5.0.14](https://github.com/truecharts/apps/compare/tt-rss-5.0.13...tt-rss-5.0.14) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
@@ -409,10 +409,10 @@
 
 ### [tt-rss-5.0.13](https://github.com/truecharts/apps/compare/tt-rss-5.0.12...tt-rss-5.0.13) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Use new repo ([#2337](https://github.com/truecharts/apps/issues/2337))
-* update docker general non-major ([#2338](https://github.com/truecharts/apps/issues/2338))
+* 使用新仓库([#2337](https://github.com/truecharts/apps/issues/2337))
+* 更新一般的非主码([#2338](https://github.com/truecharts/apps/issues/2338))
 
 
 
@@ -420,9 +420,9 @@
 
 ### [tt-rss-5.0.12](https://github.com/truecharts/apps/compare/tt-rss-5.0.11...tt-rss-5.0.12) (2022-03-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -430,9 +430,9 @@
 
 ### [tt-rss-5.0.11](https://github.com/truecharts/apps/compare/tt-rss-5.0.10...tt-rss-5.0.11) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2290](https://github.com/truecharts/apps/issues/2290))
+* 更新头盔的一般非主头盔版本([#2290](https://github.com/truecharts/apps/issues/2290))
 
 
 
@@ -440,9 +440,9 @@
 
 ### [tt-rss-5.0.10](https://github.com/truecharts/apps/compare/tt-rss-5.0.9...tt-rss-5.0.10) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -450,11 +450,11 @@
 
 ### [tt-rss-5.0.8](https://github.com/truecharts/apps/compare/tt-rss-5.0.7...tt-rss-5.0.8) (2022-03-24)
 
-#### Chore
+#### 聊天
 
 * replace code with includes on some apps that was skipped ([#2250](https://github.com/truecharts/apps/issues/2250))
-* update docker general non-major
-* update docker general non-major
+* 更新一般非主要停靠栏
+* 更新一般非主要停靠栏
 
 
 
@@ -462,9 +462,9 @@
 
 ### [tt-rss-5.0.4](https://github.com/truecharts/apps/compare/tt-rss-5.0.3...tt-rss-5.0.4) (2022-03-15)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2175](https://github.com/truecharts/apps/issues/2175))
+* 更新一般的非主码([#2175](https://github.com/truecharts/apps/issues/2175))
 
 
 
@@ -472,9 +472,9 @@
 
 ### [tt-rss-5.0.3](https://github.com/truecharts/apps/compare/tt-rss-5.0.2...tt-rss-5.0.3) (2022-03-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2116](https://github.com/truecharts/apps/issues/2116))
+* 更新头盔的一般非主头盔版本([#2116](https://github.com/truecharts/apps/issues/2116))
 
 
 
@@ -482,9 +482,9 @@
 
 ### [tt-rss-5.0.2](https://github.com/truecharts/apps/compare/tt-rss-5.0.1...tt-rss-5.0.2) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2111](https://github.com/truecharts/apps/issues/2111))
+* 更新头盔的一般非主头盔版本([#211](https://github.com/truecharts/apps/issues/2111))
 
 
 
@@ -492,10 +492,10 @@
 
 ### [tt-rss-5.0.1](https://github.com/truecharts/apps/compare/tt-rss-5.0.0...tt-rss-5.0.1) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2046](https://github.com/truecharts/apps/issues/2046))
-* Remove `-icon` string from icon png's ([#2040](https://github.com/truecharts/apps/issues/2040))
+* 更新一般的非主码([#2046](https://github.com/truecharts/apps/issues/2046))
+* 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
 
@@ -503,14 +503,14 @@
 
 ### [tt-rss-5.0.0](https://github.com/truecharts/apps/compare/tt-rss-4.0.46...tt-rss-5.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* update helm general major helm releases ([#2021](https://github.com/truecharts/apps/issues/2021))
+* 从问题.yaml 中移除固定的 env
+* 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
@@ -518,10 +518,10 @@
 
 ### [tt-rss-4.0.46](https://github.com/truecharts/apps/compare/tt-rss-4.0.45...tt-rss-4.0.46) (2022-03-02)
 
-#### Chore
+#### 聊天
 
-* rename `web_portal` to `open` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* update helm general non-major helm releases ([#1999](https://github.com/truecharts/apps/issues/1999))
+* 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
+* 更新头盔的一般非主要头盔版本([#1999](https://github.com/truecharts/apps/issues/1999))
 
 
 
@@ -529,9 +529,9 @@
 
 ### [tt-rss-4.0.45](https://github.com/truecharts/apps/compare/tt-rss-4.0.44...tt-rss-4.0.45) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1927](https://github.com/truecharts/apps/issues/1927))
+* 更新头盔的一般非主要头盔版本([#1927](https://github.com/truecharts/apps/issues/1927))
 
 
 
@@ -539,9 +539,9 @@
 
 ### [tt-rss-4.0.44](https://github.com/truecharts/apps/compare/tt-rss-4.0.43...tt-rss-4.0.44) (2022-02-15)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1901](https://github.com/truecharts/apps/issues/1901))
+* 更新头盔的一般非主要头盔版本([#1901](https://github.com/truecharts/apps/issues/1901))
 
 
 
@@ -549,9 +549,9 @@
 
 ### [tt-rss-4.0.43](https://github.com/truecharts/apps/compare/tt-rss-4.0.42...tt-rss-4.0.43) (2022-02-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1876](https://github.com/truecharts/apps/issues/1876))
+* 更新一般的非主要泊车位([#1876](https://github.com/truecharts/apps/issues/1876))
 
 
 
@@ -559,9 +559,9 @@
 
 ### [tt-rss-4.0.42](https://github.com/truecharts/apps/compare/tt-rss-4.0.41...tt-rss-4.0.42) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1871](https://github.com/truecharts/apps/issues/1871))
+* 更新头盔的一般非主头盔版本([#1871](https://github.com/truecharts/apps/issues/1871))
 
 
 
@@ -569,9 +569,9 @@
 
 ### [tt-rss-4.0.41](https://github.com/truecharts/apps/compare/tt-rss-4.0.40...tt-rss-4.0.41) (2022-02-06)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.0 ([#1859](https://github.com/truecharts/apps/issues/1859))
+* 更新通用的 v8.15.0 头盔图表([#1859](https://github.com/truecharts/apps/issues/1859))
 
 
 
@@ -579,10 +579,10 @@
 
 ### [tt-rss-4.0.40](https://github.com/truecharts/apps/compare/tt-rss-4.0.39...tt-rss-4.0.40) (2022-02-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1852](https://github.com/truecharts/apps/issues/1852))
-* update docker general non-major ([#1849](https://github.com/truecharts/apps/issues/1849))
+* 更新头盔的一般非主头盔版本([#1852](https://github.com/truecharts/apps/issues/1852))
+* 更新一般的非主码([#1849](https://github.com/truecharts/apps/issues/1849))
 
 
 
@@ -590,9 +590,9 @@
 
 ### [tt-rss-4.0.39](https://github.com/truecharts/apps/compare/tt-rss-4.0.38...tt-rss-4.0.39) (2022-02-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1828](https://github.com/truecharts/apps/issues/1828))
+* 更新头盔的一般非主要头盔版本([#1828](https://github.com/truecharts/apps/issues/1828))
 
 
 
@@ -600,9 +600,9 @@
 
 ### [tt-rss-4.0.38](https://github.com/truecharts/apps/compare/tt-rss-4.0.37...tt-rss-4.0.38) (2022-01-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1791](https://github.com/truecharts/apps/issues/1791))
+* 更新头盔的一般非主头盔版本([#1791](https://github.com/truecharts/apps/issues/1791))
 
 
 
@@ -610,10 +610,10 @@
 
 ### [tt-rss-4.0.37](https://github.com/truecharts/apps/compare/tt-rss-4.0.35...tt-rss-4.0.37) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1766](https://github.com/truecharts/apps/issues/1766))
-* update helm general non-major helm releases ([#1763](https://github.com/truecharts/apps/issues/1763))
+* 更新头盔的一般非主头盔版本([#1766](https://github.com/truecharts/apps/issues/1766))
+* 更新头盔的一般非主头盔版本([#1763](https://github.com/truecharts/apps/issues/1763))
 
 
 
@@ -621,9 +621,9 @@
 
 ### [tt-rss-4.0.36](https://github.com/truecharts/apps/compare/tt-rss-4.0.35...tt-rss-4.0.36) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1763](https://github.com/truecharts/apps/issues/1763))
+* 更新头盔的一般非主头盔版本([#1763](https://github.com/truecharts/apps/issues/1763))
 
 
 
@@ -631,13 +631,13 @@
 
 ### [tt-rss-4.0.35](https://github.com/truecharts/apps/compare/tt-rss-4.0.34...tt-rss-4.0.35) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1759](https://github.com/truecharts/apps/issues/1759))
+* 更新头盔的一般非主要头盔版本([#1759](https://github.com/truecharts/apps/issues/1759))
 
-#### Fix
+#### 修复
 
-* set additional_attrs: true on all dicts ([#1750](https://github.com/truecharts/apps/issues/1750))
+* 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
 
 
 
@@ -645,9 +645,9 @@
 
 ### [tt-rss-4.0.34](https://github.com/truecharts/apps/compare/tt-rss-4.0.33...tt-rss-4.0.34) (2022-01-18)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1732](https://github.com/truecharts/apps/issues/1732))
+* 更新头盔的一般非主头盔版本([#1732](https://github.com/truecharts/apps/issues/1732))
 
 
 
@@ -655,13 +655,13 @@
 
 ### [tt-rss-4.0.33](https://github.com/truecharts/apps/compare/tt-rss-4.0.32...tt-rss-4.0.33) (2022-01-13)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1712](https://github.com/truecharts/apps/issues/1712))
+* 更新头盔的一般非主头盔版本([#1712](https://github.com/truecharts/apps/issues/1712))
 
 #### Feat
 
-* expose capabilities in GUI ([#1709](https://github.com/truecharts/apps/issues/1709))
+* 在图形界面显示能力 ([#1709](https://github.com/truecharts/apps/issues/1709))
 
 
 
@@ -669,9 +669,9 @@
 
 ### [tt-rss-4.0.32](https://github.com/truecharts/apps/compare/tt-rss-4.0.31...tt-rss-4.0.32) (2022-01-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1704](https://github.com/truecharts/apps/issues/1704))
+* 更新头盔的一般非主头盔版本([#1704](https://github.com/truecharts/apps/issues/1704))
 
 
 
@@ -679,9 +679,9 @@
 
 ### [tt-rss-4.0.31](https://github.com/truecharts/apps/compare/tt-rss-4.0.30...tt-rss-4.0.31) (2022-01-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1693](https://github.com/truecharts/apps/issues/1693))
+* 更新头盔的一般非主要头盔版本([#1693](https://github.com/truecharts/apps/issues/1693))
 
 
 
@@ -689,9 +689,9 @@
 
 ### [tt-rss-4.0.30](https://github.com/truecharts/apps/compare/tt-rss-4.0.29...tt-rss-4.0.30) (2022-01-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1677](https://github.com/truecharts/apps/issues/1677))
+* 更新一般的非主码([#1677](https://github.com/truecharts/apps/issues/1677))
 
 
 
@@ -699,9 +699,9 @@
 
 ### [tt-rss-4.0.29](https://github.com/truecharts/apps/compare/tt-rss-4.0.28...tt-rss-4.0.29) (2022-01-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -709,9 +709,9 @@
 
 ### [tt-rss-4.0.28](https://github.com/truecharts/apps/compare/tt-rss-4.0.27...tt-rss-4.0.28) (2021-12-28)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1623](https://github.com/truecharts/apps/issues/1623))
+* 更新头盔的一般非主要头盔版本([#1623](https://github.com/truecharts/apps/issues/1623))
 
 
 
@@ -719,9 +719,9 @@
 
 ### [tt-rss-4.0.27](https://github.com/truecharts/apps/compare/tt-rss-4.0.26...tt-rss-4.0.27) (2021-12-27)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1615](https://github.com/truecharts/apps/issues/1615))
+* 更新一般的非主要泊车位([#1615](https://github.com/truecharts/apps/issues/1615))
 
 
 
@@ -729,9 +729,9 @@
 
 ### [tt-rss-4.0.26](https://github.com/truecharts/apps/compare/tt-rss-4.0.25...tt-rss-4.0.26) (2021-12-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1596](https://github.com/truecharts/apps/issues/1596))
+* 更新头盔的一般非主头盔版本([#1596](https://github.com/truecharts/apps/issues/1596))
 
 
 
@@ -739,9 +739,9 @@
 
 ### [tt-rss-4.0.25](https://github.com/truecharts/apps/compare/tt-rss-4.0.24...tt-rss-4.0.25) (2021-12-20)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1585](https://github.com/truecharts/apps/issues/1585))
+* 更新一般的非主基座([#1585](https://github.com/truecharts/apps/issues/1585))
 
 
 
@@ -749,11 +749,11 @@
 
 ### [tt-rss-4.0.24](https://github.com/truecharts/apps/compare/tt-rss-4.0.23...tt-rss-4.0.24) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* Last patch bump before RC2 branch-off
-* move `envTpl` to `env` ([#1578](https://github.com/truecharts/apps/issues/1578))
-* remove `editable: true` as this is the default ([#1576](https://github.com/truecharts/apps/issues/1576))
+* 上次补丁后的 RC2 分支关闭
+* 将 `envTpl` 移动到 `env` ([#1578](https://github.com/truecharts/apps/issues/1578))
+* 删除 `可编辑：true` ，因为这是默认的 ([#1576](https://github.com/truecharts/apps/issues/1576))
 
 
 
@@ -761,10 +761,10 @@
 
 ### [tt-rss-4.0.23](https://github.com/truecharts/apps/compare/tt-rss-4.0.22...tt-rss-4.0.23) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* completely remove mountPath reference from GUI ([#1572](https://github.com/truecharts/apps/issues/1572))
-* update helm general non-major helm releases ([#1571](https://github.com/truecharts/apps/issues/1571))
+* 完全从图形界面移除挂载路径引用([#152](https://github.com/truecharts/apps/issues/1572))
+* 更新头盔的一般非主头盔版本([#1571](https://github.com/truecharts/apps/issues/1571))
 
 
 
@@ -772,9 +772,9 @@
 
 ### [tt-rss-4.0.22](https://github.com/truecharts/apps/compare/tt-rss-4.0.21...tt-rss-4.0.22) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1567](https://github.com/truecharts/apps/issues/1567))
+* 更新一般的非主码([#1567](https://github.com/truecharts/apps/issues/1567))
 
 
 
@@ -782,10 +782,10 @@
 
 ### [tt-rss-4.0.21](https://github.com/truecharts/apps/compare/tt-rss-4.0.20...tt-rss-4.0.21) (2021-12-18)
 
-#### Chore
+#### 聊天
 
-* cleanup questions by removing hidden dicts ([#1558](https://github.com/truecharts/apps/issues/1558))
-* App-Icon Organization ([#1539](https://github.com/truecharts/apps/issues/1539))
+* 通过删除隐藏的口令清理问题([#1558](https://github.com/truecharts/apps/issues/1558))
+* 应用图标组织([#1539](https://github.com/truecharts/apps/issues/1539))
 
 
 
@@ -793,9 +793,9 @@
 
 ### [tt-rss-4.0.20](https://github.com/truecharts/apps/compare/tt-rss-4.0.19...tt-rss-4.0.20) (2021-12-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1535](https://github.com/truecharts/apps/issues/1535))
+* 更新头盔的一般非主头盔版本([#1535](https://github.com/truecharts/apps/issues/1535))
 
 
 
@@ -803,9 +803,9 @@
 
 ### [tt-rss-4.0.19](https://github.com/truecharts/apps/compare/tt-rss-4.0.18...tt-rss-4.0.19) (2021-12-13)
 
-#### Chore
+#### 聊天
 
-* move incubator apps to stable and bump everything
+* 将孵化器应用程序移动到稳定和凸显所有
 
 
 
@@ -813,9 +813,9 @@
 
 ### [tt-rss-4.0.18](https://github.com/truecharts/apps/compare/tt-rss-4.0.17...tt-rss-4.0.18) (2021-12-11)
 
-#### Chore
+#### 聊天
 
-* update general helm non-major helm releases ([#1509](https://github.com/truecharts/apps/issues/1509))
+* 更新一般头盔非主要头盔版本([#1509](https://github.com/truecharts/apps/issues/1509))
 
 
 
@@ -823,9 +823,9 @@
 
 ### [tt-rss-4.0.17](https://github.com/truecharts/apps/compare/tt-rss-4.0.16...tt-rss-4.0.17) (2021-12-08)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1488](https://github.com/truecharts/apps/issues/1488))
+* 更新非主要([#1488](https://github.com/truecharts/apps/issues/1488))
 
 
 
@@ -833,9 +833,9 @@
 
 ### [tt-rss-4.0.16](https://github.com/truecharts/apps/compare/tt-rss-4.0.15...tt-rss-4.0.16) (2021-12-07)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1481](https://github.com/truecharts/apps/issues/1481))
+* 更新非主要的背包头盔版本([#1481](https://github.com/truecharts/apps/issues/1481))
 
 
 
@@ -843,9 +843,9 @@
 
 ### [tt-rss-4.0.15](https://github.com/truecharts/apps/compare/tt-rss-4.0.14...tt-rss-4.0.15) (2021-12-07)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1475](https://github.com/truecharts/apps/issues/1475))
+* 更新非主要([#1475](https://github.com/truecharts/apps/issues/1475))
 
 
 
@@ -853,19 +853,19 @@
 
 ### tt-rss-4.0.14 (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* bump apps to generate security page
-* move all container references to TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* update non-major deps helm releases ([#1471](https://github.com/truecharts/apps/issues/1471))
-* update non-major deps helm releases ([#1468](https://github.com/truecharts/apps/issues/1468))
-* update non-major deps helm releases ([#1453](https://github.com/truecharts/apps/issues/1453))
-* update non-major ([#1449](https://github.com/truecharts/apps/issues/1449))
-* update non-major deps helm releases ([#1432](https://github.com/truecharts/apps/issues/1432))
+* 跳转应用生成安全页面
+* 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
+* 更新非主要的背包头盔版本([#1471](https://github.com/truecharts/apps/issues/1471))
+* 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
+* 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
+* 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
+* 更新非主要的背包头盔版本([#1432](https://github.com/truecharts/apps/issues/1432))
 
-#### Fix
+#### 修复
 
-* fix typo in theme selection ([#1428](https://github.com/truecharts/apps/issues/1428))
+* 修复主题选择中的类型([#1428](https://github.com/truecharts/apps/issues/1428))
 
 
 
@@ -873,9 +873,9 @@
 
 ### [tt-rss-4.0.13](https://github.com/truecharts/apps/compare/tt-rss-4.0.12...tt-rss-4.0.13) (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1468](https://github.com/truecharts/apps/issues/1468))
+* 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
 
 
 
@@ -883,9 +883,9 @@
 
 ### [tt-rss-4.0.12](https://github.com/truecharts/apps/compare/tt-rss-4.0.11...tt-rss-4.0.12) (2021-12-04)
 
-#### Chore
+#### 聊天
 
-* bump apps to generate security page
+* 跳转应用生成安全页面
 
 
 
@@ -893,9 +893,9 @@
 
 ### [tt-rss-4.0.11](https://github.com/truecharts/apps/compare/tt-rss-4.0.10...tt-rss-4.0.11) (2021-12-04)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1453](https://github.com/truecharts/apps/issues/1453))
+* 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
 
 
 
@@ -903,10 +903,10 @@
 
 ### [tt-rss-4.0.10](https://github.com/truecharts/apps/compare/tt-rss-4.0.9...tt-rss-4.0.10) (2021-12-03)
 
-#### Chore
+#### 聊天
 
-* move all container references to TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* update non-major ([#1449](https://github.com/truecharts/apps/issues/1449))
+* 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
+* 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 
 
 
@@ -914,9 +914,9 @@
 
 ### [tt-rss-4.0.9](https://github.com/truecharts/apps/compare/tt-rss-4.0.8...tt-rss-4.0.9) (2021-11-30)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1432](https://github.com/truecharts/apps/issues/1432))
+* 更新非主要的背包头盔版本([#1432](https://github.com/truecharts/apps/issues/1432))
 
 
 
@@ -924,9 +924,9 @@
 
 ### [tt-rss-4.0.8](https://github.com/truecharts/apps/compare/tt-rss-4.0.7...tt-rss-4.0.8) (2021-11-30)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases
+* 更新非重要的背包头盔版本
 
 
 
@@ -934,7 +934,7 @@
 
 ### [tt-rss-4.0.6](https://github.com/truecharts/apps/compare/tt-rss-4.0.5...tt-rss-4.0.6) (2021-11-23)
 
-#### Chore
+#### 聊天
 
 * update non-major docker tags ([#1387](https://github.com/truecharts/apps/issues/1387))
 
@@ -944,9 +944,9 @@
 
 ### [tt-rss-4.0.5](https://github.com/truecharts/apps/compare/tt-rss-4.0.4...tt-rss-4.0.5) (2021-11-23)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1386](https://github.com/truecharts/apps/issues/1386))
+* 更新非主要的背包头盔版本([#1386](https://github.com/truecharts/apps/issues/1386))
 
 
 
@@ -954,9 +954,9 @@
 
 ### [tt-rss-4.0.4](https://github.com/truecharts/apps/compare/tt-rss-4.0.3...tt-rss-4.0.4) (2021-11-22)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1383](https://github.com/truecharts/apps/issues/1383))
+* 更新非主要背包头盔版本([#1383](https://github.com/truecharts/apps/issues/1383))
 
 
 
@@ -964,13 +964,13 @@
 
 ### [tt-rss-4.0.3](https://github.com/truecharts/apps/compare/tt-rss-4.0.2...tt-rss-4.0.3) (2021-11-22)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1380](https://github.com/truecharts/apps/issues/1380))
+* 更新非主要([#1380](https://github.com/truecharts/apps/issues/1380))
 
-#### Fix
+#### 修复
 
-* Default enable all services ([#1361](https://github.com/truecharts/apps/issues/1361))
+* 默认启用所有服务[#1361](https://github.com/truecharts/apps/issues/1361))
 
 
 
@@ -978,9 +978,9 @@
 
 ### [tt-rss-4.0.2](https://github.com/truecharts/apps/compare/tt-rss-4.0.1...tt-rss-4.0.2) (2021-11-18)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1350](https://github.com/truecharts/apps/issues/1350))
+* 更新非主要([#1350](https://github.com/truecharts/apps/issues/1350))
 
 
 
@@ -988,9 +988,9 @@
 
 ### [tt-rss-4.0.1](https://github.com/truecharts/apps/compare/tt-rss-4.0.0...tt-rss-4.0.1) (2021-11-16)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1345](https://github.com/truecharts/apps/issues/1345))
+* 更新非主要的背包头盔版本([#1345](https://github.com/truecharts/apps/issues/1345))
 
 
 
@@ -998,9 +998,9 @@
 
 ### [tt-rss-4.0.0](https://github.com/truecharts/apps/compare/tt-rss-3.0.15...tt-rss-4.0.0) (2021-11-16)
 
-#### Chore
+#### 聊天
 
-* update helm chart postgresql to v6 ([#1343](https://github.com/truecharts/apps/issues/1343))
+* 将头盔图表更新为v6([#1343](https://github.com/truecharts/apps/issues/1343))
 
 
 
@@ -1008,7 +1008,7 @@
 
 ### [tt-rss-3.0.15](https://github.com/truecharts/apps/compare/tt-rss-3.0.14...tt-rss-3.0.15) (2021-11-15)
 
-#### Chore
+#### 聊天
 
 * update non-major docker tags ([#1339](https://github.com/truecharts/apps/issues/1339))
 
@@ -1018,9 +1018,9 @@
 
 ### [tt-rss-3.0.14](https://github.com/truecharts/apps/compare/tt-rss-3.0.13...tt-rss-3.0.14) (2021-11-15)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1338](https://github.com/truecharts/apps/issues/1338))
+* 更新非主要背包头盔版本([#1338](https://github.com/truecharts/apps/issues/1338))
 
 
 
@@ -1028,10 +1028,10 @@
 
 ### [tt-rss-3.0.13](https://github.com/truecharts/apps/compare/tt-rss-3.0.12...tt-rss-3.0.13) (2021-11-15)
 
-#### Chore
+#### 聊天
 
-* persistence cleanup and small bugfixes ([#1329](https://github.com/truecharts/apps/issues/1329))
-* update non-major ([#1336](https://github.com/truecharts/apps/issues/1336))
+* 持久性清理和小错误修正 ([#1329](https://github.com/truecharts/apps/issues/1329))
+* 更新非主要([#1336](https://github.com/truecharts/apps/issues/1336))
 
 
 
@@ -1039,17 +1039,17 @@
 
 ### [tt-rss-3.0.12](https://github.com/truecharts/apps/compare/tt-rss-3.0.11...tt-rss-3.0.12) (2021-11-14)
 
-#### Chore
+#### 聊天
 
-* fixes around the GUI refactor ([#1316](https://github.com/truecharts/apps/issues/1316))
-* move port above advanced in GUI ([#1326](https://github.com/truecharts/apps/issues/1326))
-* clean up Chart.yaml ([#1322](https://github.com/truecharts/apps/issues/1322))
-* update non-major deps helm releases ([#1328](https://github.com/truecharts/apps/issues/1328))
-* update non-major ([#1327](https://github.com/truecharts/apps/issues/1327))
+* 围绕图形界面进行修复([#1316](https://github.com/truecharts/apps/issues/1316))
+* 移动图形界面上方的端口([#1326](https://github.com/truecharts/apps/issues/1326))
+* 清理Chart.yaml ([#1322](https://github.com/truecharts/apps/issues/1322))
+* 更新非主要的背包头盔版本([#1328](https://github.com/truecharts/apps/issues/1328))
+* 更新非主要([#1327](https://github.com/truecharts/apps/issues/1327))
 
-#### Fix
+#### 修复
 
-* split udp and tcp ports ([#1321](https://github.com/truecharts/apps/issues/1321))
+* 拆分udp 和 tcp 端口[#1321](https://github.com/truecharts/apps/issues/1321)
 
 
 
@@ -1057,9 +1057,9 @@
 
 ### [tt-rss-3.0.11](https://github.com/truecharts/apps/compare/tt-rss-3.0.10...tt-rss-3.0.11) (2021-11-09)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1297](https://github.com/truecharts/apps/issues/1297))
+* 更新非主要背包头盔版本([#1297](https://github.com/truecharts/apps/issues/1297))
 
 
 
@@ -1067,9 +1067,9 @@
 
 ### [tt-rss-3.0.10](https://github.com/truecharts/apps/compare/tt-rss-3.0.9...tt-rss-3.0.10) (2021-11-07)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1295](https://github.com/truecharts/apps/issues/1295))
+* 更新非主要背包头盔版本([#1295](https://github.com/truecharts/apps/issues/1295))
 
 
 
@@ -1077,21 +1077,21 @@
 
 ### [tt-rss-3.0.9](https://github.com/truecharts/apps/compare/tt-rss-3.0.8...tt-rss-3.0.9) (2021-11-07)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1291](https://github.com/truecharts/apps/issues/1291))
+* 更新非主要的背包头盔版本([#1291](https://github.com/truecharts/apps/issues/1291))
 
-#### Chore
+#### 聊天
 
-* Simplify GUI for deployment, persistence and securityContext ([#1289](https://github.com/truecharts/apps/issues/1289))
+* 简化图形界面以获取部署、持久性和安全环境([#1289](https://github.com/truecharts/apps/issues/1289))
 
 #### Feat
 
-* Simplify the Services GUI ([#1290](https://github.com/truecharts/apps/issues/1290))
+* 简化服务界面([#1290](https://github.com/truecharts/apps/issues/1290))
 
-#### Fix
+#### 修复
 
-* prevent duplicate port use and fix some questions.yaml mistakes
+* 防止使用重复的端口并修复一些问题 .yaml 错误
 
 
 
@@ -1099,9 +1099,9 @@
 
 ### [tt-rss-3.0.8](https://github.com/truecharts/apps/compare/tt-rss-3.0.7...tt-rss-3.0.8) (2021-11-02)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1267](https://github.com/truecharts/apps/issues/1267))
+* 更新非主要背包头盔版本([#1267](https://github.com/truecharts/apps/issues/1267))
 
 
 
@@ -1109,9 +1109,9 @@
 
 ### [tt-rss-3.0.7](https://github.com/truecharts/apps/compare/tt-rss-3.0.6...tt-rss-3.0.7) (2021-11-02)
 
-#### Chore
+#### 聊天
 
-* update non-major docker tags ([#1266](https://github.com/truecharts/apps/issues/1266))
+* 更新非主停靠标签[#1266](https://github.com/truecharts/apps/issues/1266)
 
 
 
@@ -1119,9 +1119,9 @@
 
 ### [tt-rss-3.0.6](https://github.com/truecharts/apps/compare/tt-rss-3.0.5...tt-rss-3.0.6) (2021-11-01)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1264](https://github.com/truecharts/apps/issues/1264))
+* 更新非主要的背包头盔版本([#1264](https://github.com/truecharts/apps/issues/1264))
 
 
 
@@ -1129,9 +1129,9 @@
 
 ### [tt-rss-3.0.5](https://github.com/truecharts/apps/compare/tt-rss-3.0.4...tt-rss-3.0.5) (2021-11-01)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1263](https://github.com/truecharts/apps/issues/1263))
+* 更新非主要([#1263](https://github.com/truecharts/apps/issues/1263))
 
 
 
@@ -1139,9 +1139,9 @@
 
 ### [tt-rss-3.0.4](https://github.com/truecharts/apps/compare/tt-rss-3.0.3...tt-rss-3.0.4) (2021-10-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart postgresql to v5.1.4 ([#1249](https://github.com/truecharts/apps/issues/1249))
+* 将头盔图表更新为 v5.1.4 ([#1249](https://github.com/truecharts/apps/issues/1249))
 
 
 
@@ -1149,9 +1149,9 @@
 
 ### [tt-rss-3.0.3](https://github.com/truecharts/apps/compare/tt-rss-3.0.2...tt-rss-3.0.3) (2021-10-26)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1245](https://github.com/truecharts/apps/issues/1245))
+* 更新非主要的背包头盔版本([#1245](https://github.com/truecharts/apps/issues/1245))
 
 
 
@@ -1159,7 +1159,7 @@
 
 ### [tt-rss-3.0.2](https://github.com/truecharts/apps/compare/tt-rss-3.0.1...tt-rss-3.0.2) (2021-10-26)
 
-#### Chore
+#### 聊天
 
 * update non-major docker tags ([#1246](https://github.com/truecharts/apps/issues/1246))
 
@@ -1169,9 +1169,9 @@
 
 ### [tt-rss-3.0.1](https://github.com/truecharts/apps/compare/tt-rss-3.0.0...tt-rss-3.0.1) (2021-10-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.3.15 ([#1240](https://github.com/truecharts/apps/issues/1240))
+* 更新通用的头盔图表到 v8.3.15 ([#1240](https://github.com/truecharts/apps/issues/1240))
 
 
 
@@ -1179,11 +1179,11 @@
 
 ### [tt-rss-3.0.0](https://github.com/truecharts/apps/compare/tt-rss-2.0.0...tt-rss-3.0.0) (2021-10-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart postgresql to v5 ([#1234](https://github.com/truecharts/apps/issues/1234))
-* update non-major ([#1232](https://github.com/truecharts/apps/issues/1232))
-* update helm chart postgresql to v4.1.0 ([#1237](https://github.com/truecharts/apps/issues/1237))
+* 将头盔图表更新为 v5 ([#1234](https://github.com/truecharts/apps/issues/1234))
+* 更新非主要([#1232](https://github.com/truecharts/apps/issues/1232))
+* 将头盔图表更新为 v4.1.0 ([#1237](https://github.com/truecharts/apps/issues/1237))
 
 
 
@@ -1191,9 +1191,9 @@
 
 ### [tt-rss-2.0.0](https://github.com/truecharts/apps/compare/tt-rss-1.0.3...tt-rss-2.0.0) (2021-10-25)
 
-#### Chore
+#### 聊天
 
-* Adapt for TrueNAS SCALE RC1
+* 适合TrueNAS SCALE RC1
 
 
 
@@ -1201,9 +1201,9 @@
 
 ### [tt-rss-1.0.3](https://github.com/truecharts/apps/compare/tt-rss-1.0.0...tt-rss-1.0.3) (2021-10-20)
 
-#### Chore
+#### 聊天
 
-* bump apps, remove duplicates and move incubator to stable for RC1
+* bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
 
 
 
@@ -1211,13 +1211,13 @@
 
 ### [tt-rss-1.0.0](https://github.com/truecharts/apps/compare/tt-rss-0.0.4...tt-rss-1.0.0) (2021-10-20)
 
-#### Chore
+#### 聊天
 
-* update helm chart postgresql to v4 ([#1214](https://github.com/truecharts/apps/issues/1214))
+* 将头盔图表更新为 v4 ([#1214](https://github.com/truecharts/apps/issues/1214))
 
-#### Fix
+#### 修复
 
-* use correct PVC storageClass when using postgresql as a dependency on SCALE ([#1212](https://github.com/truecharts/apps/issues/1212))
+* 使用 postgresql 作为对SCALE 的依赖时使用正确的 PVC storageClass ([#1212](https://github.com/truecharts/apps/issues/1212))
 
 
 
@@ -1225,9 +1225,9 @@
 
 ### [tt-rss-0.0.4](https://github.com/truecharts/apps/compare/tt-rss-0.0.3...tt-rss-0.0.4) (2021-10-20)
 
-#### Chore
+#### 聊天
 
-* bump versions to rerelease and fix icons
+* 跳转版本以重新发布并修复图标
 
 
 
@@ -1235,23 +1235,23 @@
 
 ### [tt-rss-0.0.3](https://github.com/truecharts/apps/compare/tt-rss-0.0.2...tt-rss-0.0.3) (2021-10-19)
 
-#### Change
+#### 更改
 
-* Project-Eclipse 3, Automatically generate item.yaml ([#1178](https://github.com/truecharts/apps/issues/1178))
+* Project-Eclipse 3, 自动生成 item.yaml ([#1178](https://github.com/truecharts/apps/issues/1178))
 
-#### Chore
+#### 聊天
 
-* Project-Eclipse 5, move app-readme to automatic generation script ([#1181](https://github.com/truecharts/apps/issues/1181))
-* update helm chart common to v8.3.13 ([#1184](https://github.com/truecharts/apps/issues/1184))
-* update non-major ([#1174](https://github.com/truecharts/apps/issues/1174))
+* Project-Eclipse 5, 移动应用读取到自动生成脚本[#1181](https://github.com/truecharts/apps/issues/1181)
+* 更新通用的头盔图表到 v8.3.13 ([#1184](https://github.com/truecharts/apps/issues/1184))
+* 更新非主要([#1174](https://github.com/truecharts/apps/issues/1174))
 
 #### Feat
 
-* Project-Eclipse 4, Add App grading annotations to Chart.yaml ([#1180](https://github.com/truecharts/apps/issues/1180))
+* Project-Eclipse 4, 添加应用评分注释到 Chart.yaml ([#1180](https://github.com/truecharts/apps/issues/1180))
 
-#### Refactor
+#### 重新因子
 
-* Project Eclipse Part 6, move questions.yaml to root App folder ([#1182](https://github.com/truecharts/apps/issues/1182))
+* Project Eclipse Part 6, 移动quess.yaml 到 root 应用程序文件夹([#1182](https://github.com/truecharts/apps/issues/1182))
 
 
 
@@ -1259,10 +1259,10 @@
 
 ### [tt-rss-0.0.2](https://github.com/truecharts/apps/compare/tt-rss-0.0.1...tt-rss-0.0.2) (2021-10-19)
 
-#### Chore
+#### 聊天
 
-* Project-Eclipse part 2, adapting and cleaning changelog ([#1173](https://github.com/truecharts/apps/issues/1173))
-* update helm chart postgresql to v3.0.20 ([#1177](https://github.com/truecharts/apps/issues/1177))
+* Project-Eclipse Part 2, 调整和清理更新日志 ([#1173](https://github.com/truecharts/apps/issues/1173))
+* 将头盔图表更新为 v3.0.20 ([#1177](https://github.com/truecharts/apps/issues/1177))
 
 
 
@@ -1272,7 +1272,7 @@
 
 #### Feat
 
-* Add more Apps using postgresql ([#1136](https://github.com/truecharts/apps/issues/1136))
+* 使用postgresql 添加更多应用程序([#113](https://github.com/truecharts/apps/issues/1136))
 
 
 
@@ -1282,4 +1282,4 @@
 
 #### Feat
 
-* Add more Apps using postgresql
+* 使用postgresql 添加更多应用程序
