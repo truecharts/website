@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [outline-3.0.20](https://github.com/truecharts/apps/compare/outline-3.0.19...outline-3.0.20) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [outline-3.0.19](https://github.com/truecharts/apps/compare/outline-3.0.17...outline-3.0.19) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [outline-3.0.17](https://github.com/truecharts/apps/compare/outline-3.0.15...outline-3.0.17) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [outline-3.0.15](https://github.com/truecharts/apps/compare/outline-3.0.14...outline-3.0.15) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [outline-3.0.14](https://github.com/truecharts/apps/compare/outline-3.0.13...outline-3.0.14) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [outline-3.0.13](https://github.com/truecharts/apps/compare/outline-3.0.12...outline-3.0.13) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,9 +58,9 @@
 
 ### [outline-3.0.12](https://github.com/truecharts/apps/compare/outline-3.0.11...outline-3.0.12) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -68,9 +68,9 @@
 
 ### [outline-3.0.11](https://github.com/truecharts/apps/compare/outline-3.0.10...outline-3.0.11) (2022-07-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3089](https://github.com/truecharts/apps/issues/3089))
+* 更新一般的非主基座([#3089](https://github.com/truecharts/apps/issues/3089))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [outline-3.0.10](https://github.com/truecharts/apps/compare/outline-3.0.9...outline-3.0.10) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3075](https://github.com/truecharts/apps/issues/3075))
+* 更新头盔的一般非主头盔版本([#3075](https://github.com/truecharts/apps/issues/3075))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [outline-3.0.9](https://github.com/truecharts/apps/compare/outline-3.0.8...outline-3.0.9) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -98,9 +98,9 @@
 
 ### [outline-3.0.8](https://github.com/truecharts/apps/compare/outline-3.0.7...outline-3.0.8) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -108,9 +108,9 @@
 
 ### [outline-3.0.7](https://github.com/truecharts/apps/compare/outline-3.0.6...outline-3.0.7) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [outline-3.0.6](https://github.com/truecharts/apps/compare/outline-3.0.5...outline-3.0.6) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -128,9 +128,9 @@
 
 ### [outline-3.0.5](https://github.com/truecharts/apps/compare/outline-3.0.4...outline-3.0.5) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* Sync questions and values env's ([#2916](https://github.com/truecharts/apps/issues/2916))
+* 同步问题和值 Env ([#2916](https://github.com/truecharts/apps/issues/2916))
 
 
 
@@ -138,9 +138,9 @@
 
 ### [outline-3.0.4](https://github.com/truecharts/apps/compare/outline-3.0.3...outline-3.0.4) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2887](https://github.com/truecharts/apps/issues/2887))
+* 更新头盔的一般非主头盔版本([#2887](https://github.com/truecharts/apps/issues/2887))
 
 
 
@@ -148,9 +148,9 @@
 
 ### [outline-3.0.3](https://github.com/truecharts/apps/compare/outline-3.0.2...outline-3.0.3) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -158,9 +158,9 @@
 
 ### [outline-3.0.2](https://github.com/truecharts/apps/compare/outline-3.0.1...outline-3.0.2) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2873](https://github.com/truecharts/apps/issues/2873))
+* 更新头盔的一般非主头盔版本([#2873](https://github.com/truecharts/apps/issues/2873))
 
 
 
@@ -168,9 +168,9 @@
 
 ### [outline-3.0.1](https://github.com/truecharts/apps/compare/outline-3.0.0...outline-3.0.1) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -178,13 +178,13 @@
 
 ### [outline-3.0.0](https://github.com/truecharts/apps/compare/outline-2.0.1...outline-3.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* update helm general major helm releases ([#2804](https://github.com/truecharts/apps/issues/2804))
+* 更新头盔主要头盔版本([#2804](https://github.com/truecharts/apps/issues/2804))
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -192,18 +192,18 @@
 
 ### [outline-2.0.1](https://github.com/truecharts/apps/compare/outline-1.0.30...outline-2.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2838](https://github.com/truecharts/apps/issues/2838))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主头盔版本([#2838](https://github.com/truecharts/apps/issues/2838))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -211,9 +211,9 @@
 
 ### [outline-2.0.0](https://github.com/truecharts/apps/compare/outline-1.0.30...outline-2.0.0) (2022-06-07)
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -221,20 +221,9 @@
 
 ### [outline-1.0.30](https://github.com/truecharts/apps/compare/outline-1.0.29...outline-1.0.30) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="outline-1.0.29"></a>
-
-### [outline-1.0.29](https://github.com/truecharts/apps/compare/outline-1.0.28...outline-1.0.29) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -242,9 +231,20 @@
 
 ### [outline-1.0.29](https://github.com/truecharts/apps/compare/outline-1.0.28...outline-1.0.29) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="outline-1.0.29"></a>
+
+### [outline-1.0.29](https://github.com/truecharts/apps/compare/outline-1.0.28...outline-1.0.29) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -262,7 +262,7 @@
 
 ### [outline-1.0.27](https://github.com/truecharts/apps/compare/outline-1.0.26...outline-1.0.27) (2022-05-25)
 
-#### Fix
+#### 修复
 
 * set default redisuser ([#2752](https://github.com/truecharts/apps/issues/2752))
 
@@ -272,9 +272,9 @@
 
 ### [outline-1.0.26](https://github.com/truecharts/apps/compare/outline-1.0.25...outline-1.0.26) (2022-05-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2745](https://github.com/truecharts/apps/issues/2745))
+* 更新一般的非主码([#2745](https://github.com/truecharts/apps/issues/2745))
 
 
 
@@ -282,9 +282,9 @@
 
 ### [outline-1.0.25](https://github.com/truecharts/apps/compare/outline-1.0.24...outline-1.0.25) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2744](https://github.com/truecharts/apps/issues/2744))
+* 更新一般的非主码([#2744](https://github.com/truecharts/apps/issues/2744))
 
 
 
@@ -292,20 +292,9 @@
 
 ### [outline-1.0.24](https://github.com/truecharts/apps/compare/outline-1.0.23...outline-1.0.24) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="outline-1.0.23"></a>
-
-### [outline-1.0.23](https://github.com/truecharts/apps/compare/outline-1.0.22...outline-1.0.23) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -313,9 +302,20 @@
 
 ### [outline-1.0.23](https://github.com/truecharts/apps/compare/outline-1.0.22...outline-1.0.23) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="outline-1.0.23"></a>
+
+### [outline-1.0.23](https://github.com/truecharts/apps/compare/outline-1.0.22...outline-1.0.23) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -323,9 +323,9 @@
 
 ### [outline-1.0.22](https://github.com/truecharts/apps/compare/outline-1.0.21...outline-1.0.22) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -333,9 +333,9 @@
 
 ### [outline-1.0.21](https://github.com/truecharts/apps/compare/outline-1.0.20...outline-1.0.21) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -343,9 +343,9 @@
 
 ### [outline-1.0.20](https://github.com/truecharts/apps/compare/outline-1.0.19...outline-1.0.20) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -353,9 +353,9 @@
 
 ### [outline-1.0.19](https://github.com/truecharts/apps/compare/outline-1.0.18...outline-1.0.19) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2605](https://github.com/truecharts/apps/issues/2605))
+* 更新头盔的一般非主头盔版本([#2605](https://github.com/truecharts/apps/issues/2605))
 
 
 
@@ -363,9 +363,9 @@
 
 ### [outline-1.0.18](https://github.com/truecharts/apps/compare/outline-1.0.17...outline-1.0.18) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -373,10 +373,10 @@
 
 ### [outline-1.0.17](https://github.com/truecharts/apps/compare/outline-1.0.16...outline-1.0.17) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -384,9 +384,9 @@
 
 ### [outline-1.0.16](https://github.com/truecharts/apps/compare/outline-1.0.15...outline-1.0.16) (2022-04-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2497](https://github.com/truecharts/apps/issues/2497))
+* 更新一般的非主码([#2497](https://github.com/truecharts/apps/issues/2497))
 
 
 
@@ -394,9 +394,9 @@
 
 ### [outline-1.0.15](https://github.com/truecharts/apps/compare/outline-1.0.14...outline-1.0.15) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -404,9 +404,9 @@
 
 ### [outline-1.0.14](https://github.com/truecharts/apps/compare/outline-1.0.13...outline-1.0.14) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
@@ -414,7 +414,7 @@
 
 ### [outline-1.0.13](https://github.com/truecharts/apps/compare/outline-1.0.12...outline-1.0.13) (2022-04-03)
 
-#### Fix
+#### 修复
 
 * fix secret ([#2405](https://github.com/truecharts/apps/issues/2405))
 
@@ -424,7 +424,7 @@
 
 ### [outline-1.0.12](https://github.com/truecharts/apps/compare/outline-1.0.11...outline-1.0.12) (2022-04-02)
 
-#### Fix
+#### 修复
 
 * use stringData ([#2396](https://github.com/truecharts/apps/issues/2396))
 
@@ -434,7 +434,7 @@
 
 ### [outline-1.0.11](https://github.com/truecharts/apps/compare/outline-1.0.10...outline-1.0.11) (2022-04-02)
 
-#### Fix
+#### 修复
 
 * don't b64enc secret ([#2394](https://github.com/truecharts/apps/issues/2394))
 
@@ -444,11 +444,11 @@
 
 ### [outline-1.0.10](https://github.com/truecharts/apps/compare/outline-1.0.9...outline-1.0.10) (2022-04-02)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
 
-#### Fix
+#### 修复
 
 * Use correct secret length and reduce code for init ([#2388](https://github.com/truecharts/apps/issues/2388))
 
@@ -458,9 +458,9 @@
 
 ### [outline-1.0.8](https://github.com/truecharts/apps/compare/outline-1.0.7...outline-1.0.8) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2362](https://github.com/truecharts/apps/issues/2362))
+* 更新头盔的一般非主头盔版本([#2362](https://github.com/truecharts/apps/issues/2362))
 
 
 
@@ -468,9 +468,9 @@
 
 ### [outline-1.0.7](https://github.com/truecharts/apps/compare/outline-1.0.6...outline-1.0.7) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
@@ -478,10 +478,10 @@
 
 ### [outline-1.0.6](https://github.com/truecharts/apps/compare/outline-1.0.5...outline-1.0.6) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Use new repo ([#2337](https://github.com/truecharts/apps/issues/2337))
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 使用新仓库([#2337](https://github.com/truecharts/apps/issues/2337))
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
@@ -489,9 +489,9 @@
 
 ### [outline-1.0.5](https://github.com/truecharts/apps/compare/outline-1.0.4...outline-1.0.5) (2022-03-27)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -499,9 +499,9 @@
 
 ### [outline-1.0.4](https://github.com/truecharts/apps/compare/outline-1.0.3...outline-1.0.4) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2290](https://github.com/truecharts/apps/issues/2290))
+* 更新头盔的一般非主头盔版本([#2290](https://github.com/truecharts/apps/issues/2290))
 
 
 
@@ -509,9 +509,9 @@
 
 ### [outline-1.0.3](https://github.com/truecharts/apps/compare/outline-1.0.2...outline-1.0.3) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -519,9 +519,9 @@
 
 ### [outline-1.0.1](https://github.com/truecharts/apps/compare/outline-1.0.0...outline-1.0.1) (2022-03-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -529,9 +529,9 @@
 
 ### [outline-1.0.0](https://github.com/truecharts/apps/compare/outline-0.0.1...outline-1.0.0) (2022-03-24)
 
-#### Fix
+#### 修复
 
-* small fixes ([#2274](https://github.com/truecharts/apps/issues/2274))
+* 小修复([#2274](https://github.com/truecharts/apps/issues/2274))
 
 
 
