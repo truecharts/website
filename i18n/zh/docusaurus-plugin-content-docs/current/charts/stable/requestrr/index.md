@@ -1,12 +1,12 @@
 # 请求者
 
-Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
+Requesttrr 是一个用于通过聊天简化服务的聊天机器人，例如Sonarr/Radarr/Ombi。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://hub.docker.com/r/linuxserver/requestrr>
+* [https://hub.docker.com/r/linuxserver/requesttrr](https://hub.docker.com/r/linuxserver/requestrr)
 
 ## B. 所需经费
 
