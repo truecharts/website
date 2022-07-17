@@ -366,7 +366,7 @@
 
 #### 聊天
 
-* make connectionToken optional as it changed upstream ([#2428](https://github.com/truecharts/apps/issues/2428))
+* 使连接令牌可选，因为它改变了上游([#2428](https://github.com/truecharts/apps/issues/2428))
 
 
 
@@ -525,7 +525,7 @@
 
 #### 修复
 
-* Use CONNECTION_TOKEN on portal button ([#1666](https://github.com/truecharts/apps/issues/1666))
+* 在门户按钮上使用CONNECTION_TOKEN([#1666](https://github.com/truecharts/apps/issues/1666))
 
 
 
@@ -643,7 +643,7 @@
 
 #### 修复
 
-* allow rootfs access, make token required ([#1611](https://github.com/truecharts/apps/issues/1611))
+* 允许 rootfs 访问权限，需要令牌([#1611](https://github.com/truecharts/apps/issues/1611))
 
 
 
@@ -710,7 +710,7 @@
 
 <a name="openvscode-server-0.0.5"></a>
 
-### [openvscode-server-0.0.5](https://github.com/truecharts/apps/compare/openvscode-server-0.0.4...openvscode-server-0.0.5) (2021-12-18)
+### [openvscode-server-0.0.5](https://github.com/truecharts/apps/compare/openvscode-server-0.0.4...openvscode-server-0.0.5) (2021-12-18岁)
 
 #### 聊天
 
@@ -751,4 +751,4 @@
 
 <a name="openvscode-server-0.0.1"></a>
 
-### openvscode-server-0.0.1 (2021-12-12)
+### openvscode-server-0.0.1 (2021-12)
