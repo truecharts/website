@@ -141,7 +141,7 @@
 
 #### 聊天
 
-* update image ([#2865](https://github.com/truecharts/apps/issues/2865))
+* 更新图像 ([#2865](https://github.com/truecharts/apps/issues/2865))
 
 
 
@@ -654,7 +654,7 @@
 
 <a name="qbittorrent-9.0.26"></a>
 
-### [qbittorrent-9.0.26](https://github.com/truecharts/apps/compare/qbittorrent-9.0.25...qbittorrent-9.0.26) (2021-12-18)
+### [qbittorrent-9.0.26](https://github.com/truecharts/apps/compare/qbittorrent-9.0.25...qbittorrent-9.0.26) (2021-12-18岁)
 
 #### 聊天
 
@@ -709,7 +709,7 @@
 
 <a name="qbittorrent-9.0.21"></a>
 
-### qbittorrent-9.0.21 (2021-12-05)
+### qbitorrent-9.0.21 (2021-12-05)
 
 #### 聊天
 
@@ -851,7 +851,7 @@
 
 #### 修复
 
-* fix some port issues
+* 修复一些端口问题
 
 
 
@@ -871,7 +871,7 @@
 
 #### 修复
 
-* Split torrent service to allow for the use of LoadBalancer servicetype
+* 拆分种子服务以允许使用 LoadBalancer 服务类型
 
 
 
@@ -974,7 +974,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
