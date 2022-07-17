@@ -1,58 +1,58 @@
-# Official Accounts and Staff list
+# 正式账户和工作人员名单
 
-As a project we have a number of super-active members, who maintain the project and community. This list features who, at this time, is occupied with what Staff duty. This list may, of course, change without notice. All non-filled staff positions fall to the current maintainer.
+作为一个项目，我们有一些非常活跃的成员，负责维持该项目和社区。 这份清单显示了目前从事工作人员职责的人员。 当然，这份名单可能不经通知而变更。 所有未填补的工作人员职位都属于现任维护者。
 
-## Staff List
+## 员工列表
 
-### Maintainer: Ornias
+### 维护者: Ornias
 
-**Tasks:**
+**任务：**
 
-- General Project management
-- Primary maintainer for the `core`, `dependency` and `enterprise` trains
-- Primary maintainer for the container(-mirror)
-- Primary maintainer for the misc. tools, like truetool
-- Finances
-- Primary Core Developer
+- 一般项目管理
+- `核心`, `依赖关系` 和 `企业` 列车的主要维护者
+- 容器主要维护者 (-mirror)
+- 错误的主要维护者。 工具，如true工具
+- 十二. 财务
+- 主要核心开发者
 
-**Access:**
+**访问权限：**
 
-- All Official Accounts
+- 所有官方账户
 
-#### Co-Maintainer: StavrosK
+#### 合作维护者：StavrosK
 
-**Tasks:**
+**任务：**
 
-- Primary maintainer for the `Stable` and `incubator` trains
-- Second-In-Command
-- Coordinating Support Requests
-- Secondary Core Developer
+- `稳定` 和 `孵化器` 列车的主要维护者
+- 第二个在命令
+- 协调支助要求
+- 次要核心开发者
 
-**Access:**
+**访问权限：**
 
-- All Official Accounts
+- 所有官方账户
 
 ##### Head Moderator: MintyCrackers
 
-**Tasks:**
+**任务：**
 
-- Rolling review of the Community Guidelines
-- Rolling review of the platform specific Rules
-- Processing appeals
+- 滚动审查共同体准则
+- 滚动审查平台特定规则
+- 申诉处理中
 
-**Access:**
+**访问权限：**
 
-- All Official Accounts
+- 所有官方账户
 
-### Official Accounts
+### 正式账户
 
-We as TrueCharts Staff maintain a number of official accounts, often used to guide people in the right direction:
+我们TrueCharts Staff 管理一些官方帐户，常常用来指导人们朝着正确的方向前进：
 
 #### Discord
 
 [truecharts#0438](https://truecharts.org/discord)
 
-#### iX-Systems Forum
+#### iX系统论坛
 
 https://www.truenas.com/community/members/truecharts.110480/
 
