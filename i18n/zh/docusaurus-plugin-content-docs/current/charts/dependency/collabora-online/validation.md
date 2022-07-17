@@ -1,20 +1,20 @@
-# Input Validation
+# 输入验证
 
-__`Server Name`__ Accepted formats are:
+__`服务器名称`__ 接受的格式是：
 
-- Single FQDN (eg. `collabora.mydomain.com` or `mydomain.com`)
-- Single IP (eg. `10.10.10.11`)
+- Single FQDN (e.g. `collabora.mydomain.com` or `mydomain.com`)
+- 单个IP(例如： `10.10.10.11`)
 
-_Same rules apply for FQDN as in the section above_
+_FQDN适用与上面一节相同的规则_
 
-Regex used to match this: `^((([a-z\d](-?[a-z\d]){0,62})\.)*(([a-z\d](-?[a-z\d]){0,62})\.)([a-z](-?[a-z\d]){1,62})|((\d{1,3}\.){3}\d{1,3}))$` You can try live [here](https://regex101.com/r/mICKDp/1)
+用于匹配此内容的正则表达式： `^(([a-z\d](-?[a-z\d])(-?[a-z\d]){0,62})\.)*([a-z\d](-?[a-z\d]){0,62})\. ([a-z](-?[a-z\d]){1,62}((\d{1,3}\.){3}\d{1,3})$` 您可以在这里试试 [这里](https://regex101.com/r/mICKDp/1)
 
-__`Password for WebUI`__ Accepted formats are:
+__`Web 界面密码`__ 接受的格式是：
 
-- Letters, Numbers, Symbols, Minimum 8 characters (eg. `dg523$*a`) - It accepts `a-z`, `A-Z`, `0-9` and `!@#$%^&*?`
+- 字母，数字，符号，符号，最低8个字符，例如 `dg523$*a`- 接受 `a-z` `A-Z`, `0-9` 和 `！ #$%^&*?`
 
 Regex used to match those: `[a-zA-Z0-9!@#$%^&*?]{8,}` You can try live [here](https://regex101.com/r/ef3V88/1)
 
 ---
 
-_If you find a field that you think it needs validation, please open an issue on github_
+_如果您找到了一个您认为需要验证的字段，请在 github 上打开一个问题_
