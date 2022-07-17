@@ -293,7 +293,7 @@
 
 #### 修复
 
-* fix permission ([#2889](https://github.com/truecharts/apps/issues/2889))
+* 修复权限 ([#2889](https://github.com/truecharts/apps/issues/2889))
 
 
 
@@ -699,7 +699,7 @@
 
 #### 修复
 
-* digest pin to latest ([#2621](https://github.com/truecharts/apps/issues/2621))
+* 消化引脚至最新([#2621](https://github.com/truecharts/apps/issues/2621))
 
 
 
@@ -871,7 +871,7 @@
 
 #### 聊天
 
-* update image ([#2243](https://github.com/truecharts/apps/issues/2243))
+* 更新图像 ([#2243](https://github.com/truecharts/apps/issues/2243))
 
 
 
@@ -881,4 +881,4 @@
 
 #### Feat
 
-* Add rsshub ([#2223](https://github.com/truecharts/apps/issues/2223))
+* 添加 rsshub ([#2223](https://github.com/truecharts/apps/issues/2223))
