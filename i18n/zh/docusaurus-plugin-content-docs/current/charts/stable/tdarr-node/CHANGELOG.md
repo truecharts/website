@@ -164,7 +164,7 @@
 
 #### Feat
 
-* spawn internal node and some cleanup on tdarr-node ([#2613](https://github.com/truecharts/apps/issues/2613))
+* 在 tdarr 节点生成内部节点和一些清理([#2613](https://github.com/truecharts/apps/issues/2613))
 
 
 
@@ -407,7 +407,7 @@
 
 #### 聊天
 
-* remove remaining mountPaths from incubator apps ([#1718](https://github.com/truecharts/apps/issues/1718))
+* 从孵化器应用中移除剩余挂载路径([#第1718](https://github.com/truecharts/apps/issues/1718))
 * 更新头盔的一般非主头盔版本([#1732](https://github.com/truecharts/apps/issues/1732))
 
 
@@ -520,7 +520,7 @@
 
 <a name="tdarr-node-1.0.27"></a>
 
-### [tdarr-node-1.0.27](https://github.com/truecharts/apps/compare/tdarr-node-1.0.26...tdarr-node-1.0.27) (2021-12-18)
+### [tdarr-node-1.0.27](https://github.com/truecharts/apps/compare/tdarr-node-1.0.26...tdarr-node-1.0.27) (2021-12-18岁)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 #### 修复
 
-* app needs r/w access to rootfs ([#1549](https://github.com/truecharts/apps/issues/1549))
+* 应用程序需要 r/w 访问 rootfs ([#1549](https://github.com/truecharts/apps/issues/1549))
 
 
 
@@ -573,7 +573,7 @@
 
 #### 修复
 
-* provide better defaults to work with `simple` network ([#1512](https://github.com/truecharts/apps/issues/1512))
+* 提供更好的默认值来使用 `简单的` 网络 ([#1512](https://github.com/truecharts/apps/issues/1512))
 
 
 
@@ -599,7 +599,7 @@
 
 <a name="tdarr-node-1.0.20"></a>
 
-### tdarr-node-1.0.20 (2021-12-05)
+### tdarr-node-1.0.20(2021-12-05)
 
 #### 聊天
 
@@ -781,7 +781,7 @@
 
 #### 修复
 
-* fix significant config mistakes
+* 修复重大配置错误
 
 
 
@@ -842,7 +842,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -939,7 +939,7 @@
 
 #### 修复
 
-* fix env's for tdarr ([#1153](https://github.com/truecharts/apps/issues/1153))
+* 修复 tdarr 的 Env([#1153](https://github.com/truecharts/apps/issues/1153))
 
 
 
@@ -949,4 +949,4 @@
 
 #### Feat
 
-* Add tdarr-node ([#1150](https://github.com/truecharts/apps/issues/1150))
+* 添加 tdarr节点 ([#1150](https://github.com/truecharts/apps/issues/1150))
