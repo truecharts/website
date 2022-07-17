@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/apache/guacamole-client>
+* [https://github.com/apache/guacamole-客户端](https://github.com/apache/guacamole-client)
 * <https://hub.docker.com/r/guacamole/guacamole>
 * <http://guacamole.incubator.apache.org/doc/gug/introduction.html>
 
