@@ -2,7 +2,7 @@
 
 Editing Apps is possible since 21.08, although it has a slightly different GUI it exposes the same setting as installing an App.
 
-## Requirements
+## B. 所需经费
 
 - Make sure your storage-pool is created and working
 - Make Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to quick-start guide `01 - First time Apps setup`
