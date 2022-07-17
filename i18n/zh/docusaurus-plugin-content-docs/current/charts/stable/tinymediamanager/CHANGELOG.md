@@ -356,7 +356,7 @@
 
 #### 聊天
 
-* Update images to tccr ([#2159](https://github.com/truecharts/apps/issues/2159))
+* 将图像更新到 tccr ([#215](https://github.com/truecharts/apps/issues/2159))
 
 
 
@@ -366,4 +366,4 @@
 
 #### Feat
 
-* add tinymediamanager ([#2150](https://github.com/truecharts/apps/issues/2150))
+* 添加微型介质发动机([#250](https://github.com/truecharts/apps/issues/2150))
