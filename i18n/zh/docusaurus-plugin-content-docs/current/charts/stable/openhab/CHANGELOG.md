@@ -90,7 +90,7 @@
 
 #### 聊天
 
-* update docker general non-major ([#2996](https://github.com/truecharts/apps/issues/2996))
+* 更新一般的非主码([#2996](https://github.com/truecharts/apps/issues/2996))
 
 
 
@@ -356,7 +356,7 @@
 
 #### 修复
 
-* sync security values to questions ([#2236](https://github.com/truecharts/apps/issues/2236))
+* 将安全值同步到问题([#2236](https://github.com/truecharts/apps/issues/2236))
 
 
 
@@ -366,7 +366,7 @@
 
 #### Feat
 
-* move to stable ([#2179](https://github.com/truecharts/apps/issues/2179))
+* 移动到稳定([#2179](https://github.com/truecharts/apps/issues/2179))
 
 
 
@@ -387,4 +387,4 @@
 
 #### 添加
 
-* add openHAB ([#2038](https://github.com/truecharts/apps/issues/2038))
+* 添加 openHAB([#2038](https://github.com/truecharts/apps/issues/2038))
