@@ -173,11 +173,11 @@ jobs:
         run: |
           generate_index_files() {
               echo "Generating Documentation Indexes..."
-              TRAINS_PATH="charts/charts"
-              IMAGE_PATH="containers/mirror"
-              PORT_LIST_FILE="website/docs/charts/default_port_list.md"
-              VOLUME_LIST_FILE="website/docs/charts/default_volume_list.md"
-              DESCRIPTION_LIST_FILE="website/docs/charts/default_description_list.md"
+              TRAINS_PATH="./charts/charts"
+              IMAGE_PATH="./containers/mirror"
+              PORT_LIST_FILE="./website/docs/charts/default_port_list.md"
+              VOLUME_LIST_FILE="./website/docs/charts/default_volume_list.md"
+              DESCRIPTION_LIST_FILE="./website/docs/charts/default_description_list.md"
               docgenerator
               }
            export -f generate_index_files
