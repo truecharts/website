@@ -1,13 +1,13 @@
 # 发明树
 
-InvenTree is an open-source Inventory Management System which provides powerful low-level stock control and part tracking.
+Inventree 是一个开放源码库存管理系统，提供强大的低级库存控制和部分跟踪。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
 * <https://inventree.readthedocs.io>
-* <https://github.com/inventree/InvenTree>
+* [https://github.com/inventree/Inventree](https://github.com/inventree/InvenTree)
 
 ## B. 所需经费
 
