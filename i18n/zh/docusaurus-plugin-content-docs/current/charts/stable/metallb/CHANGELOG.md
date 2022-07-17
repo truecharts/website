@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [metallb-2.0.11](https://github.com/truecharts/apps/compare/metallb-2.0.10...metallb-2.0.11) (2022-07-14)
+## [冶金-2.0.11](https://github.com/truecharts/apps/compare/metallb-2.0.10...metallb-2.0.11) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [metallb-2.0.10](https://github.com/truecharts/apps/compare/metallb-2.0.8...metallb-2.0.10) (2022-07-14)
+## [冶金-2.0.10](https://github.com/truecharts/apps/compare/metallb-2.0.8...metallb-2.0.10) (2022-07-14)
 
 ### 修复
 
@@ -17,15 +17,15 @@
 
 
 
-## [metallb-2.0.8](https://github.com/truecharts/apps/compare/metallb-2.0.7...metallb-2.0.8) (2022-07-14)
+## [冶金-2.0.8](https://github.com/truecharts/apps/compare/metallb-2.0.7...metallb-2.0.8) (2022-07-14)
 
 ### 修复
 
-- revert to pre-major update ([#3174](https://github.com/truecharts/apps/issues/3174))
+- 恢复到预重大更新([#3174](https://github.com/truecharts/apps/issues/3174))
 
 
 
-## [metallb-2.0.7](https://github.com/truecharts/apps/compare/metallb-2.0.5...metallb-2.0.7) (2022-07-12)
+## [冶金-2.0.7](https://github.com/truecharts/apps/compare/metallb-2.0.5...metallb-2.0.7) (2022-07-12)
 
 ### 聊天
 
@@ -34,7 +34,7 @@
 
 
 
-## [metallb-2.0.5](https://github.com/truecharts/apps/compare/metallb-2.0.4...metallb-2.0.5) (2022-07-12)
+## [冶金-2.0.5](https://github.com/truecharts/apps/compare/metallb-2.0.4...metallb-2.0.5) (2022-07-12)
 
 ### 聊天
 
@@ -44,7 +44,7 @@
 
 <a name="metallb-2.0.4"></a>
 
-### [metallb-2.0.4](https://github.com/truecharts/apps/compare/metallb-2.0.3...metallb-2.0.4) (2022-07-12)
+### [冶金-2.0.4](https://github.com/truecharts/apps/compare/metallb-2.0.3...metallb-2.0.4) (2022-07-12)
 
 #### 聊天
 
@@ -54,7 +54,7 @@
 
 <a name="metallb-2.0.3"></a>
 
-### [metallb-2.0.3](https://github.com/truecharts/apps/compare/metallb-2.0.2...metallb-2.0.3) (2022-07-11)
+### [冶金-2.0.3](https://github.com/truecharts/apps/compare/metallb-2.0.2...metallb-2.0.3) (2022-07-11)
 
 #### 聊天
 
@@ -64,7 +64,7 @@
 
 <a name="metallb-2.0.2"></a>
 
-### [metallb-2.0.2](https://github.com/truecharts/apps/compare/metallb-2.0.1...metallb-2.0.2) (2022-06-07)
+### [冶金-2.0.2](https://github.com/truecharts/apps/compare/metallb-2.0.1...metallb-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -74,7 +74,7 @@
 
 <a name="metallb-2.0.1"></a>
 
-### [metallb-2.0.1](https://github.com/truecharts/apps/compare/metallb-1.0.5...metallb-2.0.1) (2022-06-07)
+### [冶金-2.0.1](https://github.com/truecharts/apps/compare/metallb-1.0.5...metallb-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -92,7 +92,7 @@
 
 <a name="metallb-2.0.0"></a>
 
-### [metallb-2.0.0](https://github.com/truecharts/apps/compare/metallb-1.0.5...metallb-2.0.0) (2022-06-07)
+### [冶金-2.0.0](https://github.com/truecharts/apps/compare/metallb-1.0.5...metallb-2.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -102,7 +102,7 @@
 
 <a name="metallb-1.0.5"></a>
 
-### [metallb-1.0.5](https://github.com/truecharts/apps/compare/metallb-1.0.4...metallb-1.0.5) (2022-03-26)
+### [冶金-1.0.5](https://github.com/truecharts/apps/compare/metallb-1.0.4...metallb-1.0.5) (2022-03-26)
 
 #### 聊天
 
@@ -112,7 +112,7 @@
 
 <a name="metallb-1.0.4"></a>
 
-### [metallb-1.0.4](https://github.com/truecharts/apps/compare/metallb-1.0.3...metallb-1.0.4) (2022-02-21)
+### [冶金-1.0.4](https://github.com/truecharts/apps/compare/metallb-1.0.3...metallb-1.0.4) (2022-02-21)
 
 #### 聊天
 
@@ -120,13 +120,13 @@
 
 #### 修复
 
-* correct mistake in renovate bump
+* 修缮水泵的错误正确
 
 
 
 <a name="metallb-1.0.3"></a>
 
-### [metallb-1.0.3](https://github.com/truecharts/apps/compare/metallb-1.0.2...metallb-1.0.3) (2021-12-19)
+### [冶金-1.0.3](https://github.com/truecharts/apps/compare/metallb-1.0.2...metallb-1.0.3) (2021-12-19)
 
 #### 聊天
 
@@ -137,7 +137,7 @@
 
 <a name="metallb-1.0.2"></a>
 
-### metallb-1.0.2 (2021-12-13)
+### 冶金-1.0.2 (2021-12-13)
 
 #### 聊天
 
@@ -147,7 +147,7 @@
 
 <a name="metallb-1.0.1"></a>
 
-### [metallb-1.0.1](https://github.com/truecharts/apps/compare/metallb-1.0.0...metallb-1.0.1) (2021-12-04)
+### [冶金-1.0.1](https://github.com/truecharts/apps/compare/metallb-1.0.0...metallb-1.0.1) (2021-12-04)
 
 #### 聊天
 
@@ -157,30 +157,30 @@
 
 <a name="metallb-1.0.0"></a>
 
-### [metallb-1.0.0](https://github.com/truecharts/apps/compare/metallb-0.0.3...metallb-1.0.0) (2021-11-19)
+### [冶金-1.0.0](https://github.com/truecharts/apps/compare/metallb-0.0.3...metallb-1.0.0) (2021-11-19)
 
 #### 聊天
 
-* move metallb to core train
+* 移动冶金至核心列车
 
 
 
 <a name="metallb-0.0.3"></a>
 
-### [metallb-0.0.3](https://github.com/truecharts/apps/compare/metallb-0.0.2...metallb-0.0.3) (2021-11-10)
+### [冶金-0.0.3](https://github.com/truecharts/apps/compare/metallb-0.0.2...metallb-0.0.3) (2021-11-10)
 
 #### 修复
 
-* correct questions structure
+* 正确的问题结构
 
 
 
 <a name="metallb-0.0.2"></a>
 
-### [metallb-0.0.2](https://github.com/truecharts/apps/compare/metallb-0.0.1...metallb-0.0.2) (2021-11-10)
+### [冶金-0.0.2](https://github.com/truecharts/apps/compare/metallb-0.0.1...metallb-0.0.2) (2021-11-10)
 
 
 
 <a name="metallb-0.0.1"></a>
 
-### metallb-0.0.1 (2021-11-10)
+### 冶金-0.0.1 (2021-11-10)
