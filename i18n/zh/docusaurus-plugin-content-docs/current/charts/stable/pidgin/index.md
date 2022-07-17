@@ -1,6 +1,6 @@
 # pidgin
 
-Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously.
+Pidgin 是一个聊天程序，让您同时登录多个聊天网络的帐户。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
