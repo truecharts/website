@@ -560,7 +560,7 @@
 
 <a name="ngircd-0.0.4"></a>
 
-### [ngircd-0.0.4](https://github.com/truecharts/apps/compare/ngircd-0.0.3...ngircd-0.0.4) (2021-12-18)
+### [ngircd-0.0.4](https://github.com/truecharts/apps/compare/ngircd-0.0.3...ngircd-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
