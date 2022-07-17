@@ -25,7 +25,7 @@
 
 
 
-## [scrutiny-3.0.12](https://github.com/truecharts/apps/compare/scrutiny-3.0.10...scrutiny-3.0.12) (2022-07-12)
+## [查看-3.0.12](https://github.com/truecharts/apps/compare/scrutiny-3.0.10...scrutiny-3.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -44,7 +44,7 @@
 
 <a name="satisfactory-2.0.13"></a>
 
-### [satisfactory-2.0.13](https://github.com/truecharts/apps/compare/satisfactory-2.0.12...satisfactory-2.0.13) (2022-07-12)
+### [满意的 2.0.13](https://github.com/truecharts/apps/compare/satisfactory-2.0.12...satisfactory-2.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -54,7 +54,7 @@
 
 <a name="satisfactory-2.0.12"></a>
 
-### [satisfactory-2.0.12](https://github.com/truecharts/apps/compare/satisfactory-2.0.11...satisfactory-2.0.12) (2022-07-11)
+### [满意的 2.0.12](https://github.com/truecharts/apps/compare/satisfactory-2.0.11...satisfactory-2.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -64,7 +64,7 @@
 
 <a name="satisfactory-2.0.11"></a>
 
-### [satisfactory-2.0.11](https://github.com/truecharts/apps/compare/satisfactory-2.0.10...satisfactory-2.0.11) (2022-07-09)
+### [满意的 2.0.11](https://github.com/truecharts/apps/compare/satisfactory-2.0.10...satisfactory-2.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -74,7 +74,7 @@
 
 <a name="satisfactory-2.0.10"></a>
 
-### [satisfactory-2.0.10](https://github.com/truecharts/apps/compare/satisfactory-2.0.9...satisfactory-2.0.10) (2022-07-04)
+### [满意的 2.0.10](https://github.com/truecharts/apps/compare/satisfactory-2.0.9...satisfactory-2.0.10) (2022-07-04)
 
 #### 聊天
 
@@ -84,7 +84,7 @@
 
 <a name="satisfactory-2.0.9"></a>
 
-### [satisfactory-2.0.9](https://github.com/truecharts/apps/compare/satisfactory-2.0.8...satisfactory-2.0.9) (2022-06-25)
+### [满意-2.0.9](https://github.com/truecharts/apps/compare/satisfactory-2.0.8...satisfactory-2.0.9) (2022-06-25)
 
 #### 聊天
 
@@ -94,7 +94,7 @@
 
 <a name="satisfactory-2.0.8"></a>
 
-### [satisfactory-2.0.8](https://github.com/truecharts/apps/compare/satisfactory-2.0.7...satisfactory-2.0.8) (2022-06-22)
+### [满意的 2.0.8](https://github.com/truecharts/apps/compare/satisfactory-2.0.7...satisfactory-2.0.8) (2022-06-22)
 
 #### 聊天
 
@@ -104,7 +104,7 @@
 
 <a name="satisfactory-2.0.7"></a>
 
-### [satisfactory-2.0.7](https://github.com/truecharts/apps/compare/satisfactory-2.0.6...satisfactory-2.0.7) (2022-06-21)
+### [满意的 2.0.7](https://github.com/truecharts/apps/compare/satisfactory-2.0.6...satisfactory-2.0.7) (2022-06-21)
 
 #### 聊天
 
@@ -114,7 +114,7 @@
 
 <a name="satisfactory-2.0.6"></a>
 
-### [satisfactory-2.0.6](https://github.com/truecharts/apps/compare/satisfactory-2.0.4...satisfactory-2.0.6) (2022-06-17)
+### [满意-2.0.6](https://github.com/truecharts/apps/compare/satisfactory-2.0.4...satisfactory-2.0.6) (2022-06-17)
 
 #### 聊天
 
@@ -124,7 +124,7 @@
 
 <a name="satisfactory-2.0.4"></a>
 
-### [satisfactory-2.0.4](https://github.com/truecharts/apps/compare/satisfactory-2.0.3...satisfactory-2.0.4) (2022-06-14)
+### [满意的 2.0.4](https://github.com/truecharts/apps/compare/satisfactory-2.0.3...satisfactory-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -134,7 +134,7 @@
 
 <a name="satisfactory-2.0.3"></a>
 
-### [satisfactory-2.0.3](https://github.com/truecharts/apps/compare/satisfactory-2.0.2...satisfactory-2.0.3) (2022-06-11)
+### [满意的 2.0.3](https://github.com/truecharts/apps/compare/satisfactory-2.0.2...satisfactory-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -144,7 +144,7 @@
 
 <a name="satisfactory-2.0.2"></a>
 
-### [satisfactory-2.0.2](https://github.com/truecharts/apps/compare/satisfactory-2.0.1...satisfactory-2.0.2) (2022-06-07)
+### [满意的 2.0.2](https://github.com/truecharts/apps/compare/satisfactory-2.0.1...satisfactory-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -154,7 +154,7 @@
 
 <a name="satisfactory-2.0.1"></a>
 
-### [satisfactory-2.0.1](https://github.com/truecharts/apps/compare/satisfactory-1.0.7...satisfactory-2.0.1) (2022-06-07)
+### [满意的 2.0.1](https://github.com/truecharts/apps/compare/satisfactory-1.0.7...satisfactory-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -172,7 +172,7 @@
 
 <a name="satisfactory-2.0.0"></a>
 
-### [satisfactory-2.0.0](https://github.com/truecharts/apps/compare/satisfactory-1.0.7...satisfactory-2.0.0) (2022-06-07)
+### [满意的 2.0.0](https://github.com/truecharts/apps/compare/satisfactory-1.0.7...satisfactory-2.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -182,7 +182,7 @@
 
 <a name="satisfactory-1.0.7"></a>
 
-### [satisfactory-1.0.7](https://github.com/truecharts/apps/compare/satisfactory-1.0.6...satisfactory-1.0.7) (2022-05-31)
+### [满意-1.0.7](https://github.com/truecharts/apps/compare/satisfactory-1.0.6...satisfactory-1.0.7) (2022-05-31)
 
 #### 聊天
 
@@ -192,13 +192,13 @@
 
 <a name="satisfactory-1.0.6"></a>
 
-### [satisfactory-1.0.6](https://github.com/truecharts/apps/compare/satisfactory-1.0.5...satisfactory-1.0.6) (2022-05-30)
+### [满意-1.0.6](https://github.com/truecharts/apps/compare/satisfactory-1.0.5...satisfactory-1.0.6) (2022-05-30)
 
 
 
 <a name="satisfactory-1.0.5"></a>
 
-### [satisfactory-1.0.5](https://github.com/truecharts/apps/compare/satisfactory-1.0.4...satisfactory-1.0.5) (2022-05-26)
+### [满意-1.0.5](https://github.com/truecharts/apps/compare/satisfactory-1.0.4...satisfactory-1.0.5) (2022-05-26)
 
 #### 聊天
 
@@ -209,7 +209,7 @@
 
 <a name="satisfactory-1.0.5"></a>
 
-### [satisfactory-1.0.5](https://github.com/truecharts/apps/compare/satisfactory-1.0.4...satisfactory-1.0.5) (2022-05-26)
+### [满意-1.0.5](https://github.com/truecharts/apps/compare/satisfactory-1.0.4...satisfactory-1.0.5) (2022-05-26)
 
 #### 聊天
 
@@ -219,7 +219,7 @@
 
 <a name="satisfactory-1.0.4"></a>
 
-### [satisfactory-1.0.4](https://github.com/truecharts/apps/compare/satisfactory-1.0.3...satisfactory-1.0.4) (2022-05-24)
+### [满意-1.0.4](https://github.com/truecharts/apps/compare/satisfactory-1.0.3...satisfactory-1.0.4) (2022-05-24)
 
 #### 聊天
 
@@ -229,7 +229,7 @@
 
 <a name="satisfactory-1.0.3"></a>
 
-### [satisfactory-1.0.3](https://github.com/truecharts/apps/compare/satisfactory-1.0.2...satisfactory-1.0.3) (2022-05-17)
+### [满意-1.0.3](https://github.com/truecharts/apps/compare/satisfactory-1.0.2...satisfactory-1.0.3) (2022-05-17)
 
 #### 聊天
 
@@ -240,7 +240,7 @@
 
 <a name="satisfactory-1.0.3"></a>
 
-### [satisfactory-1.0.3](https://github.com/truecharts/apps/compare/satisfactory-1.0.2...satisfactory-1.0.3) (2022-05-17)
+### [满意-1.0.3](https://github.com/truecharts/apps/compare/satisfactory-1.0.2...satisfactory-1.0.3) (2022-05-17)
 
 #### 聊天
 
@@ -250,7 +250,7 @@
 
 <a name="satisfactory-1.0.2"></a>
 
-### [satisfactory-1.0.2](https://github.com/truecharts/apps/compare/satisfactory-1.0.1...satisfactory-1.0.2) (2022-05-17)
+### [满意-1.0.2](https://github.com/truecharts/apps/compare/satisfactory-1.0.1...satisfactory-1.0.2) (2022-05-17)
 
 #### 聊天
 
@@ -260,7 +260,7 @@
 
 <a name="satisfactory-1.0.1"></a>
 
-### [satisfactory-1.0.1](https://github.com/truecharts/apps/compare/satisfactory-1.0.0...satisfactory-1.0.1) (2022-05-10)
+### [满意-1.0.1](https://github.com/truecharts/apps/compare/satisfactory-1.0.0...satisfactory-1.0.1) (2022-05-10)
 
 #### 聊天
 
@@ -270,17 +270,17 @@
 
 <a name="satisfactory-1.0.0"></a>
 
-### satisfactory-1.0.0 (2022-05-07)
+### 满意：1.0.0 (2022-05-07)
 
 #### 聊天
 
-* Rename s`t`atisfacoty to satisfactory ([#2637](https://github.com/truecharts/apps/issues/2637))
+* 将`t`统计信息重命名为满意([#2637](https://github.com/truecharts/apps/issues/2637))
 
 
 
 <a name="statisfactory-0.0.27"></a>
 
-### [statisfactory-0.0.27](https://github.com/truecharts/apps/compare/statisfactory-0.0.26...statisfactory-0.0.27) (2022-05-05)
+### [统计-0.0.27](https://github.com/truecharts/apps/compare/statisfactory-0.0.26...statisfactory-0.0.27) (2022-05-05)
 
 #### 聊天
 
@@ -290,7 +290,7 @@
 
 <a name="statisfactory-0.0.26"></a>
 
-### [statisfactory-0.0.26](https://github.com/truecharts/apps/compare/statisfactory-0.0.25...statisfactory-0.0.26) (2022-04-26)
+### [统计-0.0.26](https://github.com/truecharts/apps/compare/statisfactory-0.0.25...statisfactory-0.0.26) (2022-04-26)
 
 #### 聊天
 
@@ -300,7 +300,7 @@
 
 <a name="statisfactory-0.0.25"></a>
 
-### [statisfactory-0.0.25](https://github.com/truecharts/apps/compare/statisfactory-0.0.24...statisfactory-0.0.25) (2022-04-20)
+### [统计-0.0.25](https://github.com/truecharts/apps/compare/statisfactory-0.0.24...statisfactory-0.0.25) (2022-04-20)
 
 #### 聊天
 
@@ -311,7 +311,7 @@
 
 <a name="statisfactory-0.0.24"></a>
 
-### [statisfactory-0.0.24](https://github.com/truecharts/apps/compare/statisfactory-0.0.23...statisfactory-0.0.24) (2022-04-12)
+### [统计-0.0.24](https://github.com/truecharts/apps/compare/statisfactory-0.0.23...statisfactory-0.0.24) (2022-04-12)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="statisfactory-0.0.21"></a>
 
-### [statisfactory-0.0.21](https://github.com/truecharts/apps/compare/statisfactory-0.0.20...statisfactory-0.0.21) (2022-03-31)
+### [统计-0.0.21](https://github.com/truecharts/apps/compare/statisfactory-0.0.20...statisfactory-0.0.21) (2022-03-31)
 
 #### 聊天
 
@@ -352,7 +352,7 @@
 
 <a name="statisfactory-0.0.19"></a>
 
-### [statisfactory-0.0.19](https://github.com/truecharts/apps/compare/statisfactory-0.0.18...statisfactory-0.0.19) (2022-03-26)
+### [统计-0.0.19](https://github.com/truecharts/apps/compare/statisfactory-0.0.18...statisfactory-0.0.19) (2022-03-26)
 
 #### 聊天
 
@@ -366,7 +366,7 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.6 ([#2200](https://github.com/truecharts/apps/issues/2200))
+* 更新通用的 v9.1.6 头盔图表([#200](https://github.com/truecharts/apps/issues/2200))
 
 
 
@@ -376,21 +376,21 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
+* 更新通用的头盔图表到 v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
 
 
 
 <a name="statisfactory-0.0.14"></a>
 
-### [statisfactory-0.0.14](https://github.com/truecharts/apps/compare/statisfactory-0.0.13...statisfactory-0.0.14) (2022-03-15)
+### [统计-0.0.14](https://github.com/truecharts/apps/compare/statisfactory-0.0.13...statisfactory-0.0.14) (2022-03-15)
 
 #### 聊天
 
-* update helm chart common to v9.1.3 ([#2174](https://github.com/truecharts/apps/issues/2174))
+* 更新通用的 v9.1.3 头盔图表([#2174](https://github.com/truecharts/apps/issues/2174))
 
-#### Docs
+#### 文档
 
-* add alexthamm as a contributor for bug ([#2082](https://github.com/truecharts/apps/issues/2082))
+* 添加alexthamm作为错误贡献者([#2082](https://github.com/truecharts/apps/issues/2082))
 
 
 
@@ -400,7 +400,7 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.2 ([#2049](https://github.com/truecharts/apps/issues/2049))
+* 更新通用的 v9.1.2 头盔图表([#2049](https://github.com/truecharts/apps/issues/2049))
 * 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
@@ -413,7 +413,7 @@
 
 * 从问题.yaml 中移除固定的 env
 * 删除一些丑陋的空格
-* update helm chart common to v9 ([#2011](https://github.com/truecharts/apps/issues/2011))
+* 更新通用到v9的头盔图表([#2011](https://github.com/truecharts/apps/issues/2011))
 
 #### 修复
 
@@ -427,13 +427,13 @@
 
 #### 聊天
 
-* update helm chart common to v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
+* 更新通用到v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
 
 
 
 <a name="statisfactory-0.0.9"></a>
 
-### [statisfactory-0.0.9](https://github.com/truecharts/apps/compare/statisfactory-0.0.8...statisfactory-0.0.9) (2022-02-27)
+### [统计-0.0.9](https://github.com/truecharts/apps/compare/statisfactory-0.0.8...statisfactory-0.0.9) (2022-02-27)
 
 #### 聊天
 
@@ -441,7 +441,7 @@
 
 #### 修复
 
-* Remove portal button and correct runasuser on gui ([#1979](https://github.com/truecharts/apps/issues/1979))
+* 移除Portal按钮并在界面上更正runasuser([#1979](https://github.com/truecharts/apps/issues/1979)
 
 
 
@@ -451,17 +451,17 @@
 
 #### 聊天
 
-* update helm chart common to v8.16.1 ([#1940](https://github.com/truecharts/apps/issues/1940))
+* 更新通用到v8.16.1([#1940](https://github.com/truecharts/apps/issues/1940))
 
 
 
 <a name="statisfactory-0.0.7"></a>
 
-### [statisfactory-0.0.7](https://github.com/truecharts/apps/compare/statisfactory-0.0.6...statisfactory-0.0.7) (2022-02-22)
+### [统计-0.0.7](https://github.com/truecharts/apps/compare/statisfactory-0.0.6...statisfactory-0.0.7) (2022-02-22)
 
 #### 聊天
 
-* update helm chart common to v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
+* 更新通用的头盔图表到 v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
 
 
 
@@ -471,7 +471,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.4 ([#1879](https://github.com/truecharts/apps/issues/1879))
+* 更新通用的 v8.15.4 头盔图表([#1879](https://github.com/truecharts/apps/issues/1879))
 
 
 
@@ -481,7 +481,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.2 ([#1870](https://github.com/truecharts/apps/issues/1870))
+* 更新通用到v8.15.2 ([#1870](https://github.com/truecharts/apps/issues/1870))
 
 
 
@@ -491,7 +491,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.1 ([#1864](https://github.com/truecharts/apps/issues/1864))
+* 更新通用的 v8.15.1 ([#1864](https://github.com/truecharts/apps/issues/1864))
 
 
 
@@ -501,14 +501,14 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.0 ([#1856](https://github.com/truecharts/apps/issues/1856))
+* 更新通用的 v8.15.0 头盔图表([#1856](https://github.com/truecharts/apps/issues/1856))
 
 
 
 <a name="statisfactory-0.0.1"></a>
 
-### statisfactory-0.0.1 (2022-02-04)
+### 统计-0.0.1 (2022-02-04)
 
 #### Feat
 
-* add 2 more gameservers ([#1840](https://github.com/truecharts/apps/issues/1840))
+* 添加更多两个游戏程序([#1840](https://github.com/truecharts/apps/issues/1840))
