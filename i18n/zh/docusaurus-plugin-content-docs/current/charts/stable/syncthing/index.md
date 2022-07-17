@@ -8,7 +8,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 * <https://syncthing.net/>
 * <https://github.com/syncthing/syncthing>
-* <https://hub.docker.com/r/syncthing/syncthing>
+* [https://hub.docker.com/r/syncthing/syncthing/syncthing](https://hub.docker.com/r/syncthing/syncthing)
 
 ## B. 所需经费
 
