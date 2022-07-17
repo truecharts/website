@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [nextpvr-2.0.17](https://github.com/truecharts/apps/compare/nextpvr-2.0.16...nextpvr-2.0.17) (2022-07-14)
+## [下次pvr-2.0.17](https://github.com/truecharts/apps/compare/nextpvr-2.0.16...nextpvr-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [nextpvr-2.0.16](https://github.com/truecharts/apps/compare/nextpvr-2.0.14...nextpvr-2.0.16) (2022-07-14)
+## [下次pvr-2.0.16](https://github.com/truecharts/apps/compare/nextpvr-2.0.14...nextpvr-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [nextpvr-2.0.14](https://github.com/truecharts/apps/compare/nextpvr-2.0.12...nextpvr-2.0.14) (2022-07-12)
+## [下次pvr-2.0.14](https://github.com/truecharts/apps/compare/nextpvr-2.0.12...nextpvr-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [nextpvr-2.0.12](https://github.com/truecharts/apps/compare/nextpvr-2.0.11...nextpvr-2.0.12) (2022-07-12)
+## [下一个pvr-2.0.12](https://github.com/truecharts/apps/compare/nextpvr-2.0.11...nextpvr-2.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="nextpvr-2.0.11"></a>
 
-### [nextpvr-2.0.11](https://github.com/truecharts/apps/compare/nextpvr-2.0.10...nextpvr-2.0.11) (2022-07-12)
+### [下一个 2.0.11](https://github.com/truecharts/apps/compare/nextpvr-2.0.10...nextpvr-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="nextpvr-2.0.10"></a>
 
-### [nextpvr-2.0.10](https://github.com/truecharts/apps/compare/nextpvr-2.0.9...nextpvr-2.0.10) (2022-07-11)
+### [下一个pvr-2.0.10](https://github.com/truecharts/apps/compare/nextpvr-2.0.9...nextpvr-2.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="nextpvr-2.0.9"></a>
 
-### [nextpvr-2.0.9](https://github.com/truecharts/apps/compare/nextpvr-2.0.8...nextpvr-2.0.9) (2022-07-09)
+### [下次pvr-2.0.9](https://github.com/truecharts/apps/compare/nextpvr-2.0.8...nextpvr-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="nextpvr-2.0.8"></a>
 
-### [nextpvr-2.0.8](https://github.com/truecharts/apps/compare/nextpvr-2.0.7...nextpvr-2.0.8) (2022-07-04)
+### [下次pvr-2.0.8](https://github.com/truecharts/apps/compare/nextpvr-2.0.7...nextpvr-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="nextpvr-2.0.7"></a>
 
-### [nextpvr-2.0.7](https://github.com/truecharts/apps/compare/nextpvr-2.0.6...nextpvr-2.0.7) (2022-06-25)
+### [下次pvr-2.0.7](https://github.com/truecharts/apps/compare/nextpvr-2.0.6...nextpvr-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="nextpvr-2.0.6"></a>
 
-### [nextpvr-2.0.6](https://github.com/truecharts/apps/compare/nextpvr-2.0.5...nextpvr-2.0.6) (2022-06-22)
+### [下次pvr-2.0.6](https://github.com/truecharts/apps/compare/nextpvr-2.0.5...nextpvr-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="nextpvr-2.0.5"></a>
 
-### [nextpvr-2.0.5](https://github.com/truecharts/apps/compare/nextpvr-2.0.4...nextpvr-2.0.5) (2022-06-21)
+### [下次pvr-2.0.5](https://github.com/truecharts/apps/compare/nextpvr-2.0.4...nextpvr-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="nextpvr-2.0.4"></a>
 
-### [nextpvr-2.0.4](https://github.com/truecharts/apps/compare/nextpvr-2.0.3...nextpvr-2.0.4) (2022-06-14)
+### [下次pvr-2.0.4](https://github.com/truecharts/apps/compare/nextpvr-2.0.3...nextpvr-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="nextpvr-2.0.3"></a>
 
-### [nextpvr-2.0.3](https://github.com/truecharts/apps/compare/nextpvr-2.0.2...nextpvr-2.0.3) (2022-06-11)
+### [下次pvr-2.0.3](https://github.com/truecharts/apps/compare/nextpvr-2.0.2...nextpvr-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="nextpvr-2.0.2"></a>
 
-### [nextpvr-2.0.2](https://github.com/truecharts/apps/compare/nextpvr-2.0.1...nextpvr-2.0.2) (2022-06-07)
+### [下次pvr-2.0.2](https://github.com/truecharts/apps/compare/nextpvr-2.0.1...nextpvr-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="nextpvr-2.0.1"></a>
 
-### [nextpvr-2.0.1](https://github.com/truecharts/apps/compare/nextpvr-1.0.18...nextpvr-2.0.1) (2022-06-07)
+### [下次pvr-2.0.1](https://github.com/truecharts/apps/compare/nextpvr-1.0.18...nextpvr-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="nextpvr-1.0.18"></a>
 
-### [nextpvr-1.0.18](https://github.com/truecharts/apps/compare/nextpvr-1.0.17...nextpvr-1.0.18) (2022-05-31)
+### [下一个pvr-1.0.18](https://github.com/truecharts/apps/compare/nextpvr-1.0.17...nextpvr-1.0.18) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="nextpvr-1.0.17"></a>
 
-### [nextpvr-1.0.17](https://github.com/truecharts/apps/compare/nextpvr-1.0.16...nextpvr-1.0.17) (2022-05-26)
+### [下一个pvr-1.0.17](https://github.com/truecharts/apps/compare/nextpvr-1.0.16...nextpvr-1.0.17) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="nextpvr-1.0.17"></a>
 
-### [nextpvr-1.0.17](https://github.com/truecharts/apps/compare/nextpvr-1.0.16...nextpvr-1.0.17) (2022-05-26)
+### [下一个pvr-1.0.17](https://github.com/truecharts/apps/compare/nextpvr-1.0.16...nextpvr-1.0.17) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="nextpvr-1.0.16"></a>
 
-### [nextpvr-1.0.16](https://github.com/truecharts/apps/compare/nextpvr-1.0.15...nextpvr-1.0.16) (2022-05-24)
+### [next pvr-1.0.16](https://github.com/truecharts/apps/compare/nextpvr-1.0.15...nextpvr-1.0.16) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="nextpvr-1.0.15"></a>
 
-### [nextpvr-1.0.15](https://github.com/truecharts/apps/compare/nextpvr-1.0.14...nextpvr-1.0.15) (2022-05-17)
+### [下次pvr-1.0.15](https://github.com/truecharts/apps/compare/nextpvr-1.0.14...nextpvr-1.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="nextpvr-1.0.15"></a>
 
-### [nextpvr-1.0.15](https://github.com/truecharts/apps/compare/nextpvr-1.0.14...nextpvr-1.0.15) (2022-05-17)
+### [下次pvr-1.0.15](https://github.com/truecharts/apps/compare/nextpvr-1.0.14...nextpvr-1.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="nextpvr-1.0.14"></a>
 
-### [nextpvr-1.0.14](https://github.com/truecharts/apps/compare/nextpvr-1.0.13...nextpvr-1.0.14) (2022-05-17)
+### [下次pvr-1.0.14](https://github.com/truecharts/apps/compare/nextpvr-1.0.13...nextpvr-1.0.14) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="nextpvr-1.0.12"></a>
 
-### [nextpvr-1.0.12](https://github.com/truecharts/apps/compare/nextpvr-1.0.11...nextpvr-1.0.12) (2022-05-05)
+### [下一个pvr-1.0.12](https://github.com/truecharts/apps/compare/nextpvr-1.0.11...nextpvr-1.0.12) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="nextpvr-1.0.11"></a>
 
-### [nextpvr-1.0.11](https://github.com/truecharts/apps/compare/nextpvr-1.0.10...nextpvr-1.0.11) (2022-04-26)
+### [下一个pvr-1.0.11](https://github.com/truecharts/apps/compare/nextpvr-1.0.10...nextpvr-1.0.11) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="nextpvr-1.0.10"></a>
 
-### [nextpvr-1.0.10](https://github.com/truecharts/apps/compare/nextpvr-1.0.9...nextpvr-1.0.10) (2022-04-20)
+### [下一个pvr-1.0.10](https://github.com/truecharts/apps/compare/nextpvr-1.0.9...nextpvr-1.0.10) (2022-04-20)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="nextpvr-1.0.7"></a>
 
-### [nextpvr-1.0.7](https://github.com/truecharts/apps/compare/nextpvr-1.0.6...nextpvr-1.0.7) (2022-04-03)
+### [下次pvr-1.0.7](https://github.com/truecharts/apps/compare/nextpvr-1.0.6...nextpvr-1.0.7) (2022-04-03)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="nextpvr-1.0.6"></a>
 
-### [nextpvr-1.0.6](https://github.com/truecharts/apps/compare/nextpvr-1.0.5...nextpvr-1.0.6) (2022-03-31)
+### [下次pvr-1.0.6](https://github.com/truecharts/apps/compare/nextpvr-1.0.5...nextpvr-1.0.6) (2022-03-31)
 
 #### 聊天
 
@@ -352,8 +352,8 @@
 
 <a name="nextpvr-0.0.1"></a>
 
-### nextpvr-0.0.1 (2022-03-14)
+### 下次pvr-0.0.1 (2022-03-14)
 
 #### Feat
 
-* Add nextpvr ([#2161](https://github.com/truecharts/apps/issues/2161))
+* 添加下一个pvr ([#2161](https://github.com/truecharts/apps/issues/2161))
