@@ -607,7 +607,7 @@
 #### 聊天
 
 * 更新头盔的一般非主要头盔版本([#1693](https://github.com/truecharts/apps/issues/1693))
-* update docker general non-major docker tags ([#1691](https://github.com/truecharts/apps/issues/1691))
+* 更新停靠一般非主要停靠标签[#1691](https://github.com/truecharts/apps/issues/1691)
 
 
 
@@ -617,7 +617,7 @@
 
 #### 聊天
 
-* update docker general major docker tags (major) ([#1678](https://github.com/truecharts/apps/issues/1678))
+* 更新 docker 一般主要停靠标签 (主要) ([#1678](https://github.com/truecharts/apps/issues/1678))
 
 
 
@@ -676,7 +676,7 @@
 
 <a name="nzbhydra-9.0.27"></a>
 
-### [nzbhydra-9.0.27](https://github.com/truecharts/apps/compare/nzbhydra-9.0.26...nzbhydra-9.0.27) (2021-12-18)
+### [nzbhydra-9.0.27](https://github.com/truecharts/apps/compare/nzbhydra-9.0.26...nzbhydra-9.0.27) (2021-12-18岁)
 
 #### 聊天
 
@@ -748,7 +748,7 @@
 
 <a name="nzbhydra-9.0.20"></a>
 
-### nzbhydra-9.0.20 (2021-12-05)
+### nzbhydr-9.0.20 (2021-12-05)
 
 #### 聊天
 
@@ -966,7 +966,7 @@
 
 <a name="nzbhydra-9.0.0"></a>
 
-### [nzbhydra-9.0.0](https://github.com/truecharts/apps/compare/nzbhydra-8.0.20...nzbhydra-9.0.0) (2021-10-25)
+### [nzbhydra-9.0](https://github.com/truecharts/apps/compare/nzbhydra-8.0.20...nzbhydra-9.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -981,7 +981,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1104,7 +1104,7 @@
 
 #### 聊天
 
-* update non-major ([#1103](https://github.com/truecharts/apps/issues/1103))
+* 更新非主要([#1103](https://github.com/truecharts/apps/issues/1103))
 
 
 
