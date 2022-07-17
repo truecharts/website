@@ -149,7 +149,7 @@
 
 #### 聊天
 
-* update docker general non-major ([#2996](https://github.com/truecharts/apps/issues/2996))
+* 更新一般的非主码([#2996](https://github.com/truecharts/apps/issues/2996))
 
 
 
@@ -940,7 +940,7 @@
 
 #### 修复
 
-* enable secondary ports ([#2120](https://github.com/truecharts/apps/issues/2120))
+* 启用二级端口[#2120](https://github.com/truecharts/apps/issues/2120)
 
 
 
@@ -950,4 +950,4 @@
 
 #### Feat
 
-* Add matomo ([#2115](https://github.com/truecharts/apps/issues/2115))
+* 添加 matomo ([#215](https://github.com/truecharts/apps/issues/2115))
