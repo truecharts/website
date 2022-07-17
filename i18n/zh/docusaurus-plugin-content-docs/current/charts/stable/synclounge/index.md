@@ -1,6 +1,6 @@
 # synclounge
 
-Synclounge is a third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.
+Synclounge是一个第三方工具，可以让您看看Plex与您的朋友/家人同步，无论您在哪里。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
