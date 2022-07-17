@@ -13,7 +13,7 @@ jobs:
     name: Generate-Docs
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/truecharts/devcontainer:v2.5.1@sha256:a2f259a3fb1e8e529d1a3dcdbd9d244384183a78cdeb41d2fcf13f948c98abba
+      image: ghcr.io/truecharts/devcontainer:v2.5.1@sha256:ba771c5478f66dcc6787c0d04ea42eed0a542b8ea3589f46340f9b51d90a8f3a
     steps:
       - name: Install Kubernetes tools
         uses: yokawasa/action-setup-kube-tools@f7f73d7965074b0f5491b7210ff51e3254d42058 # tag=v0.8.2
