@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [healthchecks-7.0.19](https://github.com/truecharts/apps/compare/healthchecks-7.0.18...healthchecks-7.0.19) (2022-07-14)
+## [healthchs-7.0.19](https://github.com/truecharts/apps/compare/healthchecks-7.0.18...healthchecks-7.0.19) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [healthchecks-7.0.18](https://github.com/truecharts/apps/compare/healthchecks-7.0.16...healthchecks-7.0.18) (2022-07-14)
+## [healthchecs-7.0.18](https://github.com/truecharts/apps/compare/healthchecks-7.0.16...healthchecks-7.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [healthchecks-7.0.16](https://github.com/truecharts/apps/compare/healthchecks-7.0.14...healthchecks-7.0.16) (2022-07-12)
+## [healthchs-7.0.16](https://github.com/truecharts/apps/compare/healthchecks-7.0.14...healthchecks-7.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [healthchecks-7.0.14](https://github.com/truecharts/apps/compare/healthchecks-7.0.13...healthchecks-7.0.14) (2022-07-12)
+## [healthchs-7.0.14](https://github.com/truecharts/apps/compare/healthchecks-7.0.13...healthchecks-7.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="healthchecks-7.0.13"></a>
 
-### [healthchecks-7.0.13](https://github.com/truecharts/apps/compare/healthchecks-7.0.12...healthchecks-7.0.13) (2022-07-12)
+### [healthchs-7.0.13](https://github.com/truecharts/apps/compare/healthchecks-7.0.12...healthchecks-7.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="healthchecks-7.0.12"></a>
 
-### [healthchecks-7.0.12](https://github.com/truecharts/apps/compare/healthchecks-7.0.11...healthchecks-7.0.12) (2022-07-11)
+### [Health checks-7.0.12](https://github.com/truecharts/apps/compare/healthchecks-7.0.11...healthchecks-7.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="healthchecks-7.0.11"></a>
 
-### [healthchecks-7.0.11](https://github.com/truecharts/apps/compare/healthchecks-7.0.10...healthchecks-7.0.11) (2022-07-09)
+### [healthchecs-7.0.11](https://github.com/truecharts/apps/compare/healthchecks-7.0.10...healthchecks-7.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="healthchecks-7.0.10"></a>
 
-### [healthchecks-7.0.10](https://github.com/truecharts/apps/compare/healthchecks-7.0.9...healthchecks-7.0.10) (2022-07-04)
+### [healthchs-7.0.10](https://github.com/truecharts/apps/compare/healthchecks-7.0.9...healthchecks-7.0.10) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="healthchecks-7.0.9"></a>
 
-### [healthchecks-7.0.9](https://github.com/truecharts/apps/compare/healthchecks-7.0.8...healthchecks-7.0.9) (2022-06-25)
+### [healthchecs-7.0.9](https://github.com/truecharts/apps/compare/healthchecks-7.0.8...healthchecks-7.0.9) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="healthchecks-7.0.8"></a>
 
-### [healthchecks-7.0.8](https://github.com/truecharts/apps/compare/healthchecks-7.0.7...healthchecks-7.0.8) (2022-06-22)
+### [healthchs-7.0.8](https://github.com/truecharts/apps/compare/healthchecks-7.0.7...healthchecks-7.0.8) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="healthchecks-7.0.7"></a>
 
-### [healthchecks-7.0.7](https://github.com/truecharts/apps/compare/healthchecks-7.0.6...healthchecks-7.0.7) (2022-06-21)
+### [健康检查s-7.0.7](https://github.com/truecharts/apps/compare/healthchecks-7.0.6...healthchecks-7.0.7) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="healthchecks-7.0.6"></a>
 
-### [healthchecks-7.0.6](https://github.com/truecharts/apps/compare/healthchecks-7.0.4...healthchecks-7.0.6) (2022-06-17)
+### [健康检查s-7.0.6](https://github.com/truecharts/apps/compare/healthchecks-7.0.4...healthchecks-7.0.6) (2022-06-17)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="healthchecks-7.0.4"></a>
 
-### [healthchecks-7.0.4](https://github.com/truecharts/apps/compare/healthchecks-7.0.3...healthchecks-7.0.4) (2022-06-14)
+### [健康检查s-7.0.4](https://github.com/truecharts/apps/compare/healthchecks-7.0.3...healthchecks-7.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="healthchecks-7.0.3"></a>
 
-### [healthchecks-7.0.3](https://github.com/truecharts/apps/compare/healthchecks-7.0.2...healthchecks-7.0.3) (2022-06-11)
+### [健康检查s-7.0.3](https://github.com/truecharts/apps/compare/healthchecks-7.0.2...healthchecks-7.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="healthchecks-7.0.2"></a>
 
-### [healthchecks-7.0.2](https://github.com/truecharts/apps/compare/healthchecks-7.0.1...healthchecks-7.0.2) (2022-06-07)
+### [健康检查s-7.0.2](https://github.com/truecharts/apps/compare/healthchecks-7.0.1...healthchecks-7.0.2) (2022-06-07)
 
 #### 修复
 
@@ -146,7 +146,7 @@
 
 <a name="healthchecks-7.0.1"></a>
 
-### [healthchecks-7.0.1](https://github.com/truecharts/apps/compare/healthchecks-6.0.19...healthchecks-7.0.1) (2022-06-07)
+### [healthchs-7.0.1](https://github.com/truecharts/apps/compare/healthchecks-6.0.19...healthchecks-7.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="healthchecks-6.0.19"></a>
 
-### [healthchecks-6.0.19](https://github.com/truecharts/apps/compare/healthchecks-6.0.18...healthchecks-6.0.19) (2022-05-31)
+### [Healthchs-6.0.19](https://github.com/truecharts/apps/compare/healthchecks-6.0.18...healthchecks-6.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -189,7 +189,7 @@
 
 <a name="healthchecks-6.0.18"></a>
 
-### [healthchecks-6.0.18](https://github.com/truecharts/apps/compare/healthchecks-6.0.17...healthchecks-6.0.18) (2022-05-26)
+### [Health checs-6.0.18](https://github.com/truecharts/apps/compare/healthchecks-6.0.17...healthchecks-6.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="healthchecks-6.0.18"></a>
 
-### [healthchecks-6.0.18](https://github.com/truecharts/apps/compare/healthchecks-6.0.17...healthchecks-6.0.18) (2022-05-26)
+### [Health checs-6.0.18](https://github.com/truecharts/apps/compare/healthchecks-6.0.17...healthchecks-6.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="healthchecks-6.0.17"></a>
 
-### [healthchecks-6.0.17](https://github.com/truecharts/apps/compare/healthchecks-6.0.16...healthchecks-6.0.17) (2022-05-24)
+### [健康检查-6.0.17](https://github.com/truecharts/apps/compare/healthchecks-6.0.16...healthchecks-6.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -220,7 +220,7 @@
 
 <a name="healthchecks-6.0.16"></a>
 
-### [healthchecks-6.0.16](https://github.com/truecharts/apps/compare/healthchecks-6.0.15...healthchecks-6.0.16) (2022-05-17)
+### [healthchs-6.0.16](https://github.com/truecharts/apps/compare/healthchecks-6.0.15...healthchecks-6.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="healthchecks-6.0.16"></a>
 
-### [healthchecks-6.0.16](https://github.com/truecharts/apps/compare/healthchecks-6.0.15...healthchecks-6.0.16) (2022-05-17)
+### [healthchs-6.0.16](https://github.com/truecharts/apps/compare/healthchecks-6.0.15...healthchecks-6.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="healthchecks-6.0.15"></a>
 
-### [healthchecks-6.0.15](https://github.com/truecharts/apps/compare/healthchecks-6.0.14...healthchecks-6.0.15) (2022-05-17)
+### [健康检查-6.0.15](https://github.com/truecharts/apps/compare/healthchecks-6.0.14...healthchecks-6.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="healthchecks-6.0.14"></a>
 
-### [healthchecks-6.0.14](https://github.com/truecharts/apps/compare/healthchecks-6.0.13...healthchecks-6.0.14) (2022-05-10)
+### [healthchs-6.0.14](https://github.com/truecharts/apps/compare/healthchecks-6.0.13...healthchecks-6.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="healthchecks-6.0.13"></a>
 
-### [healthchecks-6.0.13](https://github.com/truecharts/apps/compare/healthchecks-6.0.12...healthchecks-6.0.13) (2022-05-05)
+### [healthchs-6.0.13](https://github.com/truecharts/apps/compare/healthchecks-6.0.12...healthchecks-6.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="healthchecks-6.0.12"></a>
 
-### [healthchecks-6.0.12](https://github.com/truecharts/apps/compare/healthchecks-6.0.11...healthchecks-6.0.12) (2022-04-26)
+### [healthchecs-6.0.12](https://github.com/truecharts/apps/compare/healthchecks-6.0.11...healthchecks-6.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="healthchecks-6.0.11"></a>
 
-### [healthchecks-6.0.11](https://github.com/truecharts/apps/compare/healthchecks-6.0.10...healthchecks-6.0.11) (2022-04-20)
+### [healthchecs-6.0.11](https://github.com/truecharts/apps/compare/healthchecks-6.0.10...healthchecks-6.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="healthchecks-6.0.10"></a>
 
-### [healthchecks-6.0.10](https://github.com/truecharts/apps/compare/healthchecks-6.0.9...healthchecks-6.0.10) (2022-04-12)
+### [healthchs-6.0.10](https://github.com/truecharts/apps/compare/healthchecks-6.0.9...healthchecks-6.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="healthchecks-6.0.9"></a>
 
-### [healthchecks-6.0.9](https://github.com/truecharts/apps/compare/healthchecks-6.0.8...healthchecks-6.0.9) (2022-04-03)
+### [healthchs-6.0.9](https://github.com/truecharts/apps/compare/healthchecks-6.0.8...healthchecks-6.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="healthchecks-6.0.8"></a>
 
-### [healthchecks-6.0.8](https://github.com/truecharts/apps/compare/healthchecks-6.0.7...healthchecks-6.0.8) (2022-03-31)
+### [healthchs-6.0.8](https://github.com/truecharts/apps/compare/healthchecks-6.0.7...healthchecks-6.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="healthchecks-6.0.7"></a>
 
-### [healthchecks-6.0.7](https://github.com/truecharts/apps/compare/healthchecks-6.0.6...healthchecks-6.0.7) (2022-03-30)
+### [healthchs-6.0.7](https://github.com/truecharts/apps/compare/healthchecks-6.0.6...healthchecks-6.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="healthchecks-6.0.6"></a>
 
-### [healthchecks-6.0.6](https://github.com/truecharts/apps/compare/healthchecks-6.0.5...healthchecks-6.0.6) (2022-03-26)
+### [healthchecs-6.0.6](https://github.com/truecharts/apps/compare/healthchecks-6.0.5...healthchecks-6.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="healthchecks-6.0.1"></a>
 
-### [healthchecks-6.0.1](https://github.com/truecharts/apps/compare/healthchecks-6.0.0...healthchecks-6.0.1) (2022-03-07)
+### [healthchs-6.0.1](https://github.com/truecharts/apps/compare/healthchecks-6.0.0...healthchecks-6.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -353,7 +353,7 @@
 
 <a name="healthchecks-6.0.0"></a>
 
-### [healthchecks-6.0.0](https://github.com/truecharts/apps/compare/healthchecks-5.0.23...healthchecks-6.0.0) (2022-03-03)
+### [healthchecs-6.0.0](https://github.com/truecharts/apps/compare/healthchecks-5.0.23...healthchecks-6.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -369,7 +369,7 @@
 
 <a name="healthchecks-5.0.23"></a>
 
-### [healthchecks-5.0.23](https://github.com/truecharts/apps/compare/healthchecks-5.0.22...healthchecks-5.0.23) (2022-03-02)
+### [healthchs-5.0.23](https://github.com/truecharts/apps/compare/healthchecks-5.0.22...healthchecks-5.0.23) (2022-03-02)
 
 #### 聊天
 
@@ -380,7 +380,7 @@
 
 <a name="healthchecks-5.0.22"></a>
 
-### [healthchecks-5.0.22](https://github.com/truecharts/apps/compare/healthchecks-5.0.21...healthchecks-5.0.22) (2022-02-21)
+### [Healthchs-5.0.22](https://github.com/truecharts/apps/compare/healthchecks-5.0.21...healthchecks-5.0.22) (2022-02-21)
 
 #### 聊天
 
@@ -390,7 +390,7 @@
 
 <a name="healthchecks-5.0.21"></a>
 
-### [healthchecks-5.0.21](https://github.com/truecharts/apps/compare/healthchecks-5.0.20...healthchecks-5.0.21) (2022-02-15)
+### [healthchecs-5.0.21](https://github.com/truecharts/apps/compare/healthchecks-5.0.20...healthchecks-5.0.21) (2022-02-15)
 
 #### 聊天
 
@@ -400,7 +400,7 @@
 
 <a name="healthchecks-5.0.20"></a>
 
-### [healthchecks-5.0.20](https://github.com/truecharts/apps/compare/healthchecks-5.0.19...healthchecks-5.0.20) (2022-02-08)
+### [healthchs-5.0.20](https://github.com/truecharts/apps/compare/healthchecks-5.0.19...healthchecks-5.0.20) (2022-02-08)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="healthchecks-5.0.19"></a>
 
-### [healthchecks-5.0.19](https://github.com/truecharts/apps/compare/healthchecks-5.0.18...healthchecks-5.0.19) (2022-02-06)
+### [healthchs-5.0.19](https://github.com/truecharts/apps/compare/healthchecks-5.0.18...healthchecks-5.0.19) (2022-02-06)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="healthchecks-5.0.18"></a>
 
-### [healthchecks-5.0.18](https://github.com/truecharts/apps/compare/healthchecks-5.0.17...healthchecks-5.0.18) (2022-02-05)
+### [healthchecs-5.0.18](https://github.com/truecharts/apps/compare/healthchecks-5.0.17...healthchecks-5.0.18) (2022-02-05)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="healthchecks-5.0.17"></a>
 
-### [healthchecks-5.0.17](https://github.com/truecharts/apps/compare/healthchecks-5.0.16...healthchecks-5.0.17) (2022-02-02)
+### [healthchs-5.0.17](https://github.com/truecharts/apps/compare/healthchecks-5.0.16...healthchecks-5.0.17) (2022-02-02)
 
 #### 聊天
 
@@ -441,7 +441,7 @@
 
 <a name="healthchecks-5.0.16"></a>
 
-### [healthchecks-5.0.16](https://github.com/truecharts/apps/compare/healthchecks-5.0.15...healthchecks-5.0.16) (2022-01-25)
+### [healthchecs-5.0.16](https://github.com/truecharts/apps/compare/healthchecks-5.0.15...healthchecks-5.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="healthchecks-5.0.15"></a>
 
-### [healthchecks-5.0.15](https://github.com/truecharts/apps/compare/healthchecks-5.0.14...healthchecks-5.0.15) (2022-01-22)
+### [healthchs-5.0.15](https://github.com/truecharts/apps/compare/healthchecks-5.0.14...healthchecks-5.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -461,7 +461,7 @@
 
 <a name="healthchecks-5.0.14"></a>
 
-### [healthchecks-5.0.14](https://github.com/truecharts/apps/compare/healthchecks-5.0.13...healthchecks-5.0.14) (2022-01-21)
+### [healthchs-5.0.14](https://github.com/truecharts/apps/compare/healthchecks-5.0.13...healthchecks-5.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -475,7 +475,7 @@
 
 <a name="healthchecks-5.0.13"></a>
 
-### [healthchecks-5.0.13](https://github.com/truecharts/apps/compare/healthchecks-5.0.12...healthchecks-5.0.13) (2022-01-18)
+### [healthchs-5.0.13](https://github.com/truecharts/apps/compare/healthchecks-5.0.12...healthchecks-5.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -485,7 +485,7 @@
 
 <a name="healthchecks-5.0.12"></a>
 
-### [healthchecks-5.0.12](https://github.com/truecharts/apps/compare/healthchecks-5.0.11...healthchecks-5.0.12) (2022-01-13)
+### [Health checks-5.0.12](https://github.com/truecharts/apps/compare/healthchecks-5.0.11...healthchecks-5.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="healthchecks-5.0.11"></a>
 
-### [healthchecks-5.0.11](https://github.com/truecharts/apps/compare/healthchecks-5.0.10...healthchecks-5.0.11) (2022-01-12)
+### [healthchecs-5.0.11](https://github.com/truecharts/apps/compare/healthchecks-5.0.10...healthchecks-5.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="healthchecks-5.0.10"></a>
 
-### [healthchecks-5.0.10](https://github.com/truecharts/apps/compare/healthchecks-5.0.9...healthchecks-5.0.10) (2022-01-11)
+### [healthchs-5.0.10](https://github.com/truecharts/apps/compare/healthchecks-5.0.9...healthchecks-5.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="healthchecks-5.0.9"></a>
 
-### [healthchecks-5.0.9](https://github.com/truecharts/apps/compare/healthchecks-5.0.8...healthchecks-5.0.9) (2022-01-04)
+### [healthchecs-5.0.9](https://github.com/truecharts/apps/compare/healthchecks-5.0.8...healthchecks-5.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="healthchecks-5.0.8"></a>
 
-### [healthchecks-5.0.8](https://github.com/truecharts/apps/compare/healthchecks-5.0.7...healthchecks-5.0.8) (2021-12-28)
+### [healthchecs-5.0.8](https://github.com/truecharts/apps/compare/healthchecks-5.0.7...healthchecks-5.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="healthchecks-5.0.7"></a>
 
-### [healthchecks-5.0.7](https://github.com/truecharts/apps/compare/healthchecks-5.0.6...healthchecks-5.0.7) (2021-12-21)
+### [healthchecs-5.0.7](https://github.com/truecharts/apps/compare/healthchecks-5.0.6...healthchecks-5.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -549,7 +549,7 @@
 
 <a name="healthchecks-5.0.6"></a>
 
-### [healthchecks-5.0.6](https://github.com/truecharts/apps/compare/healthchecks-5.0.5...healthchecks-5.0.6) (2021-12-19)
+### [healthchecs-5.0.6](https://github.com/truecharts/apps/compare/healthchecks-5.0.5...healthchecks-5.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="healthchecks-5.0.5"></a>
 
-### [healthchecks-5.0.5](https://github.com/truecharts/apps/compare/healthchecks-5.0.4...healthchecks-5.0.5) (2021-12-19)
+### [healthchecs-5.0.5](https://github.com/truecharts/apps/compare/healthchecks-5.0.4...healthchecks-5.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -571,7 +571,7 @@
 
 <a name="healthchecks-5.0.4"></a>
 
-### [healthchecks-5.0.4](https://github.com/truecharts/apps/compare/healthchecks-5.0.3...healthchecks-5.0.4) (2021-12-18)
+### [healthchecs-5.0.4](https://github.com/truecharts/apps/compare/healthchecks-5.0.3...healthchecks-5.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="healthchecks-5.0.3"></a>
 
-### [healthchecks-5.0.3](https://github.com/truecharts/apps/compare/healthchecks-5.0.2...healthchecks-5.0.3) (2021-12-14)
+### [healthchas-5.0.3](https://github.com/truecharts/apps/compare/healthchecks-5.0.2...healthchecks-5.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="healthchecks-5.0.2"></a>
 
-### [healthchecks-5.0.2](https://github.com/truecharts/apps/compare/healthchecks-5.0.1...healthchecks-5.0.2) (2021-12-13)
+### [healthchecs-5.0.2](https://github.com/truecharts/apps/compare/healthchecks-5.0.1...healthchecks-5.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -602,7 +602,7 @@
 
 <a name="healthchecks-5.0.1"></a>
 
-### [healthchecks-5.0.1](https://github.com/truecharts/apps/compare/healthchecks-5.0.0...healthchecks-5.0.1) (2021-12-11)
+### [healthchecs-5.0.1](https://github.com/truecharts/apps/compare/healthchecks-5.0.0...healthchecks-5.0.1) (2021-12-11)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="healthchecks-5.0.0"></a>
 
-### [healthchecks-5.0.0](https://github.com/truecharts/apps/compare/healthchecks-4.0.19...healthchecks-5.0.0) (2021-12-11)
+### [healthchecs-5..0.0](https://github.com/truecharts/apps/compare/healthchecks-4.0.19...healthchecks-5.0.0) (2021-12-11)
 
 #### Feat
 
@@ -622,7 +622,7 @@
 
 <a name="healthchecks-4.0.19"></a>
 
-### [healthchecks-4.0.19](https://github.com/truecharts/apps/compare/healthchecks-4.0.18...healthchecks-4.0.19) (2021-12-07)
+### [healthchecs-4.0.19](https://github.com/truecharts/apps/compare/healthchecks-4.0.18...healthchecks-4.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="healthchecks-4.0.18"></a>
 
-### healthchecks-4.0.18 (2021-12-05)
+### 健康检查-4.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="healthchecks-4.0.17"></a>
 
-### [healthchecks-4.0.17](https://github.com/truecharts/apps/compare/healthchecks-4.0.16...healthchecks-4.0.17) (2021-12-05)
+### [healthchecs-4.0.17](https://github.com/truecharts/apps/compare/healthchecks-4.0.16...healthchecks-4.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -662,7 +662,7 @@
 
 <a name="healthchecks-4.0.16"></a>
 
-### [healthchecks-4.0.16](https://github.com/truecharts/apps/compare/healthchecks-4.0.15...healthchecks-4.0.16) (2021-12-04)
+### [healthchecs-4.0.16](https://github.com/truecharts/apps/compare/healthchecks-4.0.15...healthchecks-4.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -672,7 +672,7 @@
 
 <a name="healthchecks-4.0.15"></a>
 
-### [healthchecks-4.0.15](https://github.com/truecharts/apps/compare/healthchecks-4.0.14...healthchecks-4.0.15) (2021-12-04)
+### [healthchs-4.0.15](https://github.com/truecharts/apps/compare/healthchecks-4.0.14...healthchecks-4.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -682,7 +682,7 @@
 
 <a name="healthchecks-4.0.14"></a>
 
-### [healthchecks-4.0.14](https://github.com/truecharts/apps/compare/healthchecks-4.0.13...healthchecks-4.0.14) (2021-12-03)
+### [healthchecs-4.0.14](https://github.com/truecharts/apps/compare/healthchecks-4.0.13...healthchecks-4.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="healthchecks-4.0.13"></a>
 
-### [healthchecks-4.0.13](https://github.com/truecharts/apps/compare/healthchecks-4.0.12...healthchecks-4.0.13) (2021-11-30)
+### [healthchs-4.0.13](https://github.com/truecharts/apps/compare/healthchecks-4.0.12...healthchecks-4.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -707,7 +707,7 @@
 
 <a name="healthchecks-4.0.12"></a>
 
-### [healthchecks-4.0.12](https://github.com/truecharts/apps/compare/healthchecks-4.0.11...healthchecks-4.0.12) (2021-11-23)
+### [healthchecs-4.0.12](https://github.com/truecharts/apps/compare/healthchecks-4.0.11...healthchecks-4.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -717,7 +717,7 @@
 
 <a name="healthchecks-4.0.11"></a>
 
-### [healthchecks-4.0.11](https://github.com/truecharts/apps/compare/healthchecks-4.0.10...healthchecks-4.0.11) (2021-11-22)
+### [healthchecs-4.0.11](https://github.com/truecharts/apps/compare/healthchecks-4.0.10...healthchecks-4.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -727,7 +727,7 @@
 
 <a name="healthchecks-4.0.10"></a>
 
-### [healthchecks-4.0.10](https://github.com/truecharts/apps/compare/healthchecks-4.0.9...healthchecks-4.0.10) (2021-11-16)
+### [healthchs-4.0.10](https://github.com/truecharts/apps/compare/healthchecks-4.0.9...healthchecks-4.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -737,7 +737,7 @@
 
 <a name="healthchecks-4.0.9"></a>
 
-### [healthchecks-4.0.9](https://github.com/truecharts/apps/compare/healthchecks-4.0.8...healthchecks-4.0.9) (2021-11-15)
+### [healthchecs-4.0.9](https://github.com/truecharts/apps/compare/healthchecks-4.0.8...healthchecks-4.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -748,7 +748,7 @@
 
 <a name="healthchecks-4.0.8"></a>
 
-### [healthchecks-4.0.8](https://github.com/truecharts/apps/compare/healthchecks-4.0.7...healthchecks-4.0.8) (2021-11-14)
+### [healthchecs-4.0.8](https://github.com/truecharts/apps/compare/healthchecks-4.0.7...healthchecks-4.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -766,7 +766,7 @@
 
 <a name="healthchecks-4.0.7"></a>
 
-### [healthchecks-4.0.7](https://github.com/truecharts/apps/compare/healthchecks-4.0.6...healthchecks-4.0.7) (2021-11-09)
+### [healthchs-4.0.7](https://github.com/truecharts/apps/compare/healthchecks-4.0.6...healthchecks-4.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -776,7 +776,7 @@
 
 <a name="healthchecks-4.0.6"></a>
 
-### [healthchecks-4.0.6](https://github.com/truecharts/apps/compare/healthchecks-4.0.5...healthchecks-4.0.6) (2021-11-07)
+### [healthchecs-4.0.6](https://github.com/truecharts/apps/compare/healthchecks-4.0.5...healthchecks-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -786,7 +786,7 @@
 
 <a name="healthchecks-4.0.5"></a>
 
-### [healthchecks-4.0.5](https://github.com/truecharts/apps/compare/healthchecks-4.0.4...healthchecks-4.0.5) (2021-11-07)
+### [healthchecs-4.0.5](https://github.com/truecharts/apps/compare/healthchecks-4.0.4...healthchecks-4.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -804,7 +804,7 @@
 
 <a name="healthchecks-4.0.4"></a>
 
-### [healthchecks-4.0.4](https://github.com/truecharts/apps/compare/healthchecks-4.0.3...healthchecks-4.0.4) (2021-11-02)
+### [healthchs-4.0.4](https://github.com/truecharts/apps/compare/healthchecks-4.0.3...healthchecks-4.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -814,7 +814,7 @@
 
 <a name="healthchecks-4.0.3"></a>
 
-### [healthchecks-4.0.3](https://github.com/truecharts/apps/compare/healthchecks-4.0.2...healthchecks-4.0.3) (2021-11-01)
+### [healthchs-4.0.3](https://github.com/truecharts/apps/compare/healthchecks-4.0.2...healthchecks-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -824,7 +824,7 @@
 
 <a name="healthchecks-4.0.2"></a>
 
-### [healthchecks-4.0.2](https://github.com/truecharts/apps/compare/healthchecks-4.0.1...healthchecks-4.0.2) (2021-10-26)
+### [healthchecs-4.0.2](https://github.com/truecharts/apps/compare/healthchecks-4.0.1...healthchecks-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -834,7 +834,7 @@
 
 <a name="healthchecks-4.0.1"></a>
 
-### [healthchecks-4.0.1](https://github.com/truecharts/apps/compare/healthchecks-4.0.0...healthchecks-4.0.1) (2021-10-26)
+### [healthchecs-4.0.1](https://github.com/truecharts/apps/compare/healthchecks-4.0.0...healthchecks-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -844,7 +844,7 @@
 
 <a name="healthchecks-4.0.0"></a>
 
-### [healthchecks-4.0.0](https://github.com/truecharts/apps/compare/healthchecks-3.0.18...healthchecks-4.0.0) (2021-10-25)
+### [healthchecs-4.0.0](https://github.com/truecharts/apps/compare/healthchecks-3.0.18...healthchecks-4.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -854,7 +854,7 @@
 
 <a name="healthchecks-3.0.18"></a>
 
-### [healthchecks-3.0.18](https://github.com/truecharts/apps/compare/healthchecks-3.0.17...healthchecks-3.0.18) (2021-10-20)
+### [healthchecs-3.0.18](https://github.com/truecharts/apps/compare/healthchecks-3.0.17...healthchecks-3.0.18) (2021-10-20)
 
 #### 聊天
 
@@ -864,7 +864,7 @@
 
 <a name="healthchecks-3.0.15"></a>
 
-### [healthchecks-3.0.15](https://github.com/truecharts/apps/compare/healthchecks-3.0.14...healthchecks-3.0.15) (2021-10-20)
+### [healthchs-3.0.15](https://github.com/truecharts/apps/compare/healthchecks-3.0.14...healthchecks-3.0.15) (2021-10-20)
 
 #### 聊天
 
@@ -874,7 +874,7 @@
 
 <a name="healthchecks-3.0.14"></a>
 
-### [healthchecks-3.0.14](https://github.com/truecharts/apps/compare/healthchecks-3.0.13...healthchecks-3.0.14) (2021-10-19)
+### [healthchecs-3.0.14](https://github.com/truecharts/apps/compare/healthchecks-3.0.13...healthchecks-3.0.14) (2021-10-19)
 
 #### 更改
 
@@ -898,7 +898,7 @@
 
 <a name="healthchecks-3.0.13"></a>
 
-### [healthchecks-3.0.13](https://github.com/truecharts/apps/compare/healthchecks-3.0.12...healthchecks-3.0.13) (2021-10-19)
+### [healthchecs-3.0.13](https://github.com/truecharts/apps/compare/healthchecks-3.0.12...healthchecks-3.0.13) (2021-10-19)
 
 #### 修复
 
@@ -908,7 +908,7 @@
 
 <a name="healthchecks-3.0.12"></a>
 
-### [healthchecks-3.0.12](https://github.com/truecharts/apps/compare/healthchecks-3.0.11...healthchecks-3.0.12) (2021-10-19)
+### [healthchecs-3.0.12](https://github.com/truecharts/apps/compare/healthchecks-3.0.11...healthchecks-3.0.12) (2021-10-19)
 
 #### 修复
 
@@ -918,7 +918,7 @@
 
 <a name="healthchecks-3.0.11"></a>
 
-### [healthchecks-3.0.11](https://github.com/truecharts/apps/compare/healthchecks-3.0.10...healthchecks-3.0.11) (2021-10-18)
+### [healthchecs-3.0.11](https://github.com/truecharts/apps/compare/healthchecks-3.0.10...healthchecks-3.0.11) (2021-10-18)
 
 #### 聊天
 
@@ -932,7 +932,7 @@
 
 <a name="healthchecks-3.0.10"></a>
 
-### [healthchecks-3.0.10](https://github.com/truecharts/apps/compare/healthchecks-3.0.9...healthchecks-3.0.10) (2021-10-17)
+### [healthchs-3.0.10](https://github.com/truecharts/apps/compare/healthchecks-3.0.9...healthchecks-3.0.10) (2021-10-17)
 
 #### 聊天
 
@@ -946,7 +946,7 @@
 
 <a name="healthchecks-3.0.9"></a>
 
-### [healthchecks-3.0.9](https://github.com/truecharts/apps/compare/healthchecks-3.0.8...healthchecks-3.0.9) (2021-10-13)
+### [healthchecs-3.0.9](https://github.com/truecharts/apps/compare/healthchecks-3.0.8...healthchecks-3.0.9) (2021-10-13)
 
 #### 聊天
 
@@ -956,7 +956,7 @@
 
 <a name="healthchecks-3.0.8"></a>
 
-### [healthchecks-3.0.8](https://github.com/truecharts/apps/compare/healthchecks-3.0.7...healthchecks-3.0.8) (2021-10-12)
+### [healthchecs-3.0.8](https://github.com/truecharts/apps/compare/healthchecks-3.0.7...healthchecks-3.0.8) (2021-10-12)
 
 #### 聊天
 
@@ -966,7 +966,7 @@
 
 <a name="healthchecks-3.0.7"></a>
 
-### [healthchecks-3.0.7](https://github.com/truecharts/apps/compare/healthchecks-3.0.6...healthchecks-3.0.7) (2021-10-12)
+### [healthchecs-3.0.7](https://github.com/truecharts/apps/compare/healthchecks-3.0.6...healthchecks-3.0.7) (2021-10-12)
 
 #### 聊天
 
@@ -976,7 +976,7 @@
 
 <a name="healthchecks-3.0.6"></a>
 
-### [healthchecks-3.0.6](https://github.com/truecharts/apps/compare/healthchecks-3.0.5...healthchecks-3.0.6) (2021-10-12)
+### [healthchecs-3.0.6](https://github.com/truecharts/apps/compare/healthchecks-3.0.5...healthchecks-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -986,7 +986,7 @@
 
 <a name="healthchecks-3.0.5"></a>
 
-### [healthchecks-3.0.5](https://github.com/truecharts/apps/compare/healthchecks-3.0.4...healthchecks-3.0.5) (2021-10-05)
+### [healthchecs-3.0.5](https://github.com/truecharts/apps/compare/healthchecks-3.0.4...healthchecks-3.0.5) (2021-10-05)
 
 #### 聊天
 
@@ -996,7 +996,7 @@
 
 <a name="healthchecks-3.0.4"></a>
 
-### [healthchecks-3.0.4](https://github.com/truecharts/apps/compare/healthchecks-3.0.3...healthchecks-3.0.4) (2021-10-05)
+### [healthchecs-3.0.4](https://github.com/truecharts/apps/compare/healthchecks-3.0.3...healthchecks-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1006,7 +1006,7 @@
 
 <a name="healthchecks-3.0.3"></a>
 
-### [healthchecks-3.0.3](https://github.com/truecharts/apps/compare/healthchecks-3.0.2...healthchecks-3.0.3) (2021-09-29)
+### [healthchs-3.0.3](https://github.com/truecharts/apps/compare/healthchecks-3.0.2...healthchecks-3.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1016,19 +1016,19 @@
 
 <a name="healthchecks-3.0.1"></a>
 
-### [healthchecks-3.0.1](https://github.com/truecharts/apps/compare/healthchecks-3.0.0...healthchecks-3.0.1) (2021-09-26)
+### [healthchecs-3.0.1](https://github.com/truecharts/apps/compare/healthchecks-3.0.0...healthchecks-3.0.1) (2021-09-26)
 
 
 
 <a name="healthchecks-3.0.0"></a>
 
-### [healthchecks-3.0.0](https://github.com/truecharts/apps/compare/healthchecks-2.0.3...healthchecks-3.0.0) (2021-09-26)
+### [healthchecs-3.0.0](https://github.com/truecharts/apps/compare/healthchecks-2.0.3...healthchecks-3.0.0) (2021-09-26)
 
 
 
 <a name="healthchecks-2.0.3"></a>
 
-### [healthchecks-2.0.3](https://github.com/truecharts/apps/compare/healthchecks-2.0.2...healthchecks-2.0.3) (2021-09-21)
+### [healthchs-2.0.3](https://github.com/truecharts/apps/compare/healthchecks-2.0.2...healthchecks-2.0.3) (2021-09-21)
 
 #### 聊天
 
@@ -1038,7 +1038,7 @@
 
 <a name="healthchecks-2.0.2"></a>
 
-### [healthchecks-2.0.2](https://github.com/truecharts/apps/compare/healthchecks-2.0.1...healthchecks-2.0.2) (2021-09-14)
+### [healthchs-2.0.2](https://github.com/truecharts/apps/compare/healthchecks-2.0.1...healthchecks-2.0.2) (2021-09-14)
 
 #### 聊天
 
@@ -1048,7 +1048,7 @@
 
 <a name="healthchecks-2.0.1"></a>
 
-### [healthchecks-2.0.1](https://github.com/truecharts/apps/compare/healthchecks-1.9.15...healthchecks-2.0.1) (2021-09-13)
+### [healthchs-2.0.1](https://github.com/truecharts/apps/compare/healthchecks-1.9.15...healthchecks-2.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1065,7 +1065,7 @@
 
 <a name="healthchecks-1.9.15"></a>
 
-## [healthchecks-1.9.15](https://github.com/truecharts/apps/compare/healthchecks-1.9.14...healthchecks-1.9.15) (2021-09-08)
+## [健康检查-1.9.15](https://github.com/truecharts/apps/compare/healthchecks-1.9.14...healthchecks-1.9.15) (2021-09-08)
 
 ### 修复
 
