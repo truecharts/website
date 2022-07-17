@@ -26,7 +26,7 @@
 
 
 
-## [shorturl-3.0.12](https://github.com/truecharts/apps/compare/shorturl-3.0.11...shorturl-3.0.12) (2022-07-12)
+## [short l-3.0.12](https://github.com/truecharts/apps/compare/shorturl-3.0.11...shorturl-3.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="shorturl-3.0.11"></a>
 
-### [shorturl-3.0.11](https://github.com/truecharts/apps/compare/shorturl-3.0.10...shorturl-3.0.11) (2022-07-12)
+### [缩短-3.0.11](https://github.com/truecharts/apps/compare/shorturl-3.0.10...shorturl-3.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="shorturl-3.0.7"></a>
 
-### [shorturl-3.0.7](https://github.com/truecharts/apps/compare/shorturl-3.0.6...shorturl-3.0.7) (2022-06-25)
+### [缩短-3.0.7](https://github.com/truecharts/apps/compare/shorturl-3.0.6...shorturl-3.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="shorturl-3.0.6"></a>
 
-### [shorturl-3.0.6](https://github.com/truecharts/apps/compare/shorturl-3.0.5...shorturl-3.0.6) (2022-06-22)
+### [简短的 3.0.6](https://github.com/truecharts/apps/compare/shorturl-3.0.5...shorturl-3.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="shorturl-2.0.8"></a>
 
-### [shorturl-2.0.8](https://github.com/truecharts/apps/compare/shorturl-2.0.7...shorturl-2.0.8) (2022-03-31)
+### [短于 2.0.8](https://github.com/truecharts/apps/compare/shorturl-2.0.7...shorturl-2.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -430,7 +430,7 @@
 
 <a name="shorturl-1.0.35"></a>
 
-### [shorturl-1.0.35](https://github.com/truecharts/apps/compare/shorturl-1.0.34...shorturl-1.0.35) (2022-01-25)
+### [shortl-1.0.35](https://github.com/truecharts/apps/compare/shorturl-1.0.34...shorturl-1.0.35) (2022-01-25)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="shorturl-1.0.23"></a>
 
-### [shorturl-1.0.23](https://github.com/truecharts/apps/compare/shorturl-1.0.22...shorturl-1.0.23) (2021-12-18)
+### [shorturl-1.0.23](https://github.com/truecharts/apps/compare/shorturl-1.0.22...shorturl-1.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="shorturl-1.0.18"></a>
 
-### shorturl-1.0.18 (2021-12-05)
+### 缩短-1.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -946,4 +946,4 @@
 
 <a name="shorturl-0.0.1"></a>
 
-### shorturl-0.0.1 (2021-10-04)
+### 缩短-0.0.1 (2021-10-04)
