@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [smokeping-3.0.17](https://github.com/truecharts/apps/compare/smokeping-3.0.16...smokeping-3.0.17) (2022-07-14)
+## [吸烟-3.0.17](https://github.com/truecharts/apps/compare/smokeping-3.0.16...smokeping-3.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [smokeping-3.0.16](https://github.com/truecharts/apps/compare/smokeping-3.0.14...smokeping-3.0.16) (2022-07-14)
+## [吸烟-3.0.16](https://github.com/truecharts/apps/compare/smokeping-3.0.14...smokeping-3.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [smokeping-3.0.14](https://github.com/truecharts/apps/compare/smokeping-3.0.12...smokeping-3.0.14) (2022-07-12)
+## [吸烟-3.0.14](https://github.com/truecharts/apps/compare/smokeping-3.0.12...smokeping-3.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [smokeping-3.0.12](https://github.com/truecharts/apps/compare/smokeping-3.0.11...smokeping-3.0.12) (2022-07-12)
+## [吸烟-3.0.12](https://github.com/truecharts/apps/compare/smokeping-3.0.11...smokeping-3.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="smokeping-3.0.11"></a>
 
-### [smokeping-3.0.11](https://github.com/truecharts/apps/compare/smokeping-3.0.10...smokeping-3.0.11) (2022-07-12)
+### [吸烟-3.0.11](https://github.com/truecharts/apps/compare/smokeping-3.0.10...smokeping-3.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="smokeping-3.0.10"></a>
 
-### [smokeping-3.0.10](https://github.com/truecharts/apps/compare/smokeping-3.0.9...smokeping-3.0.10) (2022-07-11)
+### [吸烟-3.0.10](https://github.com/truecharts/apps/compare/smokeping-3.0.9...smokeping-3.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="smokeping-3.0.9"></a>
 
-### [smokeping-3.0.9](https://github.com/truecharts/apps/compare/smokeping-3.0.8...smokeping-3.0.9) (2022-07-09)
+### [吸烟-3.0.9](https://github.com/truecharts/apps/compare/smokeping-3.0.8...smokeping-3.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="smokeping-3.0.8"></a>
 
-### [smokeping-3.0.8](https://github.com/truecharts/apps/compare/smokeping-3.0.7...smokeping-3.0.8) (2022-07-04)
+### [吸烟-3.0.8](https://github.com/truecharts/apps/compare/smokeping-3.0.7...smokeping-3.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="smokeping-3.0.7"></a>
 
-### [smokeping-3.0.7](https://github.com/truecharts/apps/compare/smokeping-3.0.6...smokeping-3.0.7) (2022-06-25)
+### [吸烟-3.0.7](https://github.com/truecharts/apps/compare/smokeping-3.0.6...smokeping-3.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="smokeping-3.0.6"></a>
 
-### [smokeping-3.0.6](https://github.com/truecharts/apps/compare/smokeping-3.0.5...smokeping-3.0.6) (2022-06-22)
+### [吸烟-3.0.6](https://github.com/truecharts/apps/compare/smokeping-3.0.5...smokeping-3.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="smokeping-3.0.5"></a>
 
-### [smokeping-3.0.5](https://github.com/truecharts/apps/compare/smokeping-3.0.4...smokeping-3.0.5) (2022-06-21)
+### [吸烟-3.0.5](https://github.com/truecharts/apps/compare/smokeping-3.0.4...smokeping-3.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="smokeping-3.0.4"></a>
 
-### [smokeping-3.0.4](https://github.com/truecharts/apps/compare/smokeping-3.0.3...smokeping-3.0.4) (2022-06-14)
+### [吸烟-3.0.4](https://github.com/truecharts/apps/compare/smokeping-3.0.3...smokeping-3.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="smokeping-3.0.3"></a>
 
-### [smokeping-3.0.3](https://github.com/truecharts/apps/compare/smokeping-3.0.2...smokeping-3.0.3) (2022-06-11)
+### [吸烟-3.0.3](https://github.com/truecharts/apps/compare/smokeping-3.0.2...smokeping-3.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="smokeping-3.0.2"></a>
 
-### [smokeping-3.0.2](https://github.com/truecharts/apps/compare/smokeping-3.0.1...smokeping-3.0.2) (2022-06-07)
+### [吸烟-3.0.2](https://github.com/truecharts/apps/compare/smokeping-3.0.1...smokeping-3.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="smokeping-3.0.1"></a>
 
-### [smokeping-3.0.1](https://github.com/truecharts/apps/compare/smokeping-2.0.19...smokeping-3.0.1) (2022-06-07)
+### [吸烟-3.0.1](https://github.com/truecharts/apps/compare/smokeping-2.0.19...smokeping-3.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -155,7 +155,7 @@
 
 <a name="smokeping-3.0.0"></a>
 
-### [smokeping-3.0.0](https://github.com/truecharts/apps/compare/smokeping-2.0.19...smokeping-3.0.0) (2022-06-07)
+### [吸烟-3.0.0](https://github.com/truecharts/apps/compare/smokeping-2.0.19...smokeping-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="smokeping-2.0.19"></a>
 
-### [smokeping-2.0.19](https://github.com/truecharts/apps/compare/smokeping-2.0.18...smokeping-2.0.19) (2022-05-31)
+### [吸烟2.0.19](https://github.com/truecharts/apps/compare/smokeping-2.0.18...smokeping-2.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="smokeping-2.0.18"></a>
 
-### [smokeping-2.0.18](https://github.com/truecharts/apps/compare/smokeping-2.0.17...smokeping-2.0.18) (2022-05-26)
+### [吸烟-2.0.18](https://github.com/truecharts/apps/compare/smokeping-2.0.17...smokeping-2.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="smokeping-2.0.18"></a>
 
-### [smokeping-2.0.18](https://github.com/truecharts/apps/compare/smokeping-2.0.17...smokeping-2.0.18) (2022-05-26)
+### [吸烟-2.0.18](https://github.com/truecharts/apps/compare/smokeping-2.0.17...smokeping-2.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="smokeping-2.0.17"></a>
 
-### [smokeping-2.0.17](https://github.com/truecharts/apps/compare/smokeping-2.0.16...smokeping-2.0.17) (2022-05-24)
+### [吸烟2.0.17](https://github.com/truecharts/apps/compare/smokeping-2.0.16...smokeping-2.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="smokeping-2.0.16"></a>
 
-### [smokeping-2.0.16](https://github.com/truecharts/apps/compare/smokeping-2.0.15...smokeping-2.0.16) (2022-05-17)
+### [吸烟-2.0.16](https://github.com/truecharts/apps/compare/smokeping-2.0.15...smokeping-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="smokeping-2.0.16"></a>
 
-### [smokeping-2.0.16](https://github.com/truecharts/apps/compare/smokeping-2.0.15...smokeping-2.0.16) (2022-05-17)
+### [吸烟-2.0.16](https://github.com/truecharts/apps/compare/smokeping-2.0.15...smokeping-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="smokeping-2.0.15"></a>
 
-### [smokeping-2.0.15](https://github.com/truecharts/apps/compare/smokeping-2.0.14...smokeping-2.0.15) (2022-05-17)
+### [吸烟-2.0.15](https://github.com/truecharts/apps/compare/smokeping-2.0.14...smokeping-2.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="smokeping-2.0.14"></a>
 
-### [smokeping-2.0.14](https://github.com/truecharts/apps/compare/smokeping-2.0.13...smokeping-2.0.14) (2022-05-10)
+### [吸烟-2.0.14](https://github.com/truecharts/apps/compare/smokeping-2.0.13...smokeping-2.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="smokeping-2.0.13"></a>
 
-### [smokeping-2.0.13](https://github.com/truecharts/apps/compare/smokeping-2.0.12...smokeping-2.0.13) (2022-05-05)
+### [吸烟了 2.0.13](https://github.com/truecharts/apps/compare/smokeping-2.0.12...smokeping-2.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="smokeping-2.0.12"></a>
 
-### [smokeping-2.0.12](https://github.com/truecharts/apps/compare/smokeping-2.0.11...smokeping-2.0.12) (2022-04-26)
+### [吸烟-2.0.12](https://github.com/truecharts/apps/compare/smokeping-2.0.11...smokeping-2.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="smokeping-2.0.11"></a>
 
-### [smokeping-2.0.11](https://github.com/truecharts/apps/compare/smokeping-2.0.10...smokeping-2.0.11) (2022-04-20)
+### [吸烟-2.0.11](https://github.com/truecharts/apps/compare/smokeping-2.0.10...smokeping-2.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="smokeping-2.0.10"></a>
 
-### [smokeping-2.0.10](https://github.com/truecharts/apps/compare/smokeping-2.0.9...smokeping-2.0.10) (2022-04-12)
+### [吸烟-2.0.10](https://github.com/truecharts/apps/compare/smokeping-2.0.9...smokeping-2.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="smokeping-2.0.9"></a>
 
-### [smokeping-2.0.9](https://github.com/truecharts/apps/compare/smokeping-2.0.8...smokeping-2.0.9) (2022-04-03)
+### [吸烟-2.0.9](https://github.com/truecharts/apps/compare/smokeping-2.0.8...smokeping-2.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="smokeping-2.0.8"></a>
 
-### [smokeping-2.0.8](https://github.com/truecharts/apps/compare/smokeping-2.0.7...smokeping-2.0.8) (2022-03-31)
+### [吸烟-2.0.8](https://github.com/truecharts/apps/compare/smokeping-2.0.7...smokeping-2.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="smokeping-2.0.7"></a>
 
-### [smokeping-2.0.7](https://github.com/truecharts/apps/compare/smokeping-2.0.6...smokeping-2.0.7) (2022-03-30)
+### [吸烟-2.0.7](https://github.com/truecharts/apps/compare/smokeping-2.0.6...smokeping-2.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="smokeping-2.0.6"></a>
 
-### [smokeping-2.0.6](https://github.com/truecharts/apps/compare/smokeping-2.0.5...smokeping-2.0.6) (2022-03-26)
+### [吸烟-2.0.6](https://github.com/truecharts/apps/compare/smokeping-2.0.5...smokeping-2.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="smokeping-2.0.1"></a>
 
-### [smokeping-2.0.1](https://github.com/truecharts/apps/compare/smokeping-2.0.0...smokeping-2.0.1) (2022-03-07)
+### [吸烟-2.0.1](https://github.com/truecharts/apps/compare/smokeping-2.0.0...smokeping-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="smokeping-2.0.0"></a>
 
-### [smokeping-2.0.0](https://github.com/truecharts/apps/compare/smokeping-1.0.45...smokeping-2.0.0) (2022-03-03)
+### [吸烟-2.0.0](https://github.com/truecharts/apps/compare/smokeping-1.0.45...smokeping-2.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="smokeping-1.0.45"></a>
 
-### [smokeping-1.0.45](https://github.com/truecharts/apps/compare/smokeping-1.0.44...smokeping-1.0.45) (2022-03-02)
+### [吸烟-1.0.45](https://github.com/truecharts/apps/compare/smokeping-1.0.44...smokeping-1.0.45) (2022-03-02)
 
 #### 聊天
 
@@ -371,7 +371,7 @@
 
 <a name="smokeping-1.0.44"></a>
 
-### [smokeping-1.0.44](https://github.com/truecharts/apps/compare/smokeping-1.0.43...smokeping-1.0.44) (2022-02-21)
+### [吸烟了 1.0.44](https://github.com/truecharts/apps/compare/smokeping-1.0.43...smokeping-1.0.44) (2022-02-21)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="smokeping-1.0.43"></a>
 
-### [smokeping-1.0.43](https://github.com/truecharts/apps/compare/smokeping-1.0.42...smokeping-1.0.43) (2022-02-15)
+### [吸烟-1.0.43](https://github.com/truecharts/apps/compare/smokeping-1.0.42...smokeping-1.0.43) (2022-02-15)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="smokeping-1.0.42"></a>
 
-### [smokeping-1.0.42](https://github.com/truecharts/apps/compare/smokeping-1.0.41...smokeping-1.0.42) (2022-02-08)
+### [吸烟了 1.0.42](https://github.com/truecharts/apps/compare/smokeping-1.0.41...smokeping-1.0.42) (2022-02-08)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="smokeping-1.0.41"></a>
 
-### [smokeping-1.0.41](https://github.com/truecharts/apps/compare/smokeping-1.0.40...smokeping-1.0.41) (2022-02-06)
+### [吸烟了 1.0.41](https://github.com/truecharts/apps/compare/smokeping-1.0.40...smokeping-1.0.41) (2022-02-06)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="smokeping-1.0.40"></a>
 
-### [smokeping-1.0.40](https://github.com/truecharts/apps/compare/smokeping-1.0.39...smokeping-1.0.40) (2022-02-05)
+### [吸烟-1.0.40](https://github.com/truecharts/apps/compare/smokeping-1.0.39...smokeping-1.0.40) (2022-02-05)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="smokeping-1.0.39"></a>
 
-### [smokeping-1.0.39](https://github.com/truecharts/apps/compare/smokeping-1.0.38...smokeping-1.0.39) (2022-02-02)
+### [吸烟了 1.0.39](https://github.com/truecharts/apps/compare/smokeping-1.0.38...smokeping-1.0.39) (2022-02-02)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="smokeping-1.0.38"></a>
 
-### [smokeping-1.0.38](https://github.com/truecharts/apps/compare/smokeping-1.0.37...smokeping-1.0.38) (2022-01-25)
+### [吸烟了 1.0.38](https://github.com/truecharts/apps/compare/smokeping-1.0.37...smokeping-1.0.38) (2022-01-25)
 
 #### 聊天
 
@@ -441,17 +441,17 @@
 
 <a name="smokeping-1.0.37"></a>
 
-### [smokeping-1.0.37](https://github.com/truecharts/apps/compare/smokeping-1.0.36...smokeping-1.0.37) (2022-01-23)
+### [吸烟了 1.0.37](https://github.com/truecharts/apps/compare/smokeping-1.0.36...smokeping-1.0.37) (2022-01-23)
 
 #### 修复
 
-* Allow priviledge escalation ([#1769](https://github.com/truecharts/apps/issues/1769))
+* 允许隐私升级([#1769](https://github.com/truecharts/apps/issues/1769))
 
 
 
 <a name="smokeping-1.0.36"></a>
 
-### [smokeping-1.0.36](https://github.com/truecharts/apps/compare/smokeping-1.0.35...smokeping-1.0.36) (2022-01-22)
+### [吸烟了 1.0.36](https://github.com/truecharts/apps/compare/smokeping-1.0.35...smokeping-1.0.36) (2022-01-22)
 
 #### 聊天
 
@@ -461,7 +461,7 @@
 
 <a name="smokeping-1.0.35"></a>
 
-### [smokeping-1.0.35](https://github.com/truecharts/apps/compare/smokeping-1.0.34...smokeping-1.0.35) (2022-01-21)
+### [吸烟-1.0.35](https://github.com/truecharts/apps/compare/smokeping-1.0.34...smokeping-1.0.35) (2022-01-21)
 
 #### 聊天
 
@@ -475,7 +475,7 @@
 
 <a name="smokeping-1.0.34"></a>
 
-### [smokeping-1.0.34](https://github.com/truecharts/apps/compare/smokeping-1.0.33...smokeping-1.0.34) (2022-01-18)
+### [吸烟了 1.0.34](https://github.com/truecharts/apps/compare/smokeping-1.0.33...smokeping-1.0.34) (2022-01-18)
 
 #### 聊天
 
@@ -485,7 +485,7 @@
 
 <a name="smokeping-1.0.33"></a>
 
-### [smokeping-1.0.33](https://github.com/truecharts/apps/compare/smokeping-1.0.32...smokeping-1.0.33) (2022-01-13)
+### [吸烟-1.0.33](https://github.com/truecharts/apps/compare/smokeping-1.0.32...smokeping-1.0.33) (2022-01-13)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="smokeping-1.0.32"></a>
 
-### [smokeping-1.0.32](https://github.com/truecharts/apps/compare/smokeping-1.0.31...smokeping-1.0.32) (2022-01-12)
+### [吸烟了 1.0.32](https://github.com/truecharts/apps/compare/smokeping-1.0.31...smokeping-1.0.32) (2022-01-12)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="smokeping-1.0.31"></a>
 
-### [smokeping-1.0.31](https://github.com/truecharts/apps/compare/smokeping-1.0.30...smokeping-1.0.31) (2022-01-11)
+### [吸烟-1.0.31](https://github.com/truecharts/apps/compare/smokeping-1.0.30...smokeping-1.0.31) (2022-01-11)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="smokeping-1.0.30"></a>
 
-### [smokeping-1.0.30](https://github.com/truecharts/apps/compare/smokeping-1.0.29...smokeping-1.0.30) (2022-01-04)
+### [吸烟了 1.0.30](https://github.com/truecharts/apps/compare/smokeping-1.0.29...smokeping-1.0.30) (2022-01-04)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="smokeping-1.0.29"></a>
 
-### [smokeping-1.0.29](https://github.com/truecharts/apps/compare/smokeping-1.0.28...smokeping-1.0.29) (2021-12-28)
+### [吸烟-1.0.29](https://github.com/truecharts/apps/compare/smokeping-1.0.28...smokeping-1.0.29) (2021-12-28)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="smokeping-1.0.28"></a>
 
-### [smokeping-1.0.28](https://github.com/truecharts/apps/compare/smokeping-1.0.27...smokeping-1.0.28) (2021-12-21)
+### [吸烟-1.0.28](https://github.com/truecharts/apps/compare/smokeping-1.0.27...smokeping-1.0.28) (2021-12-21)
 
 #### 聊天
 
@@ -549,7 +549,7 @@
 
 <a name="smokeping-1.0.27"></a>
 
-### [smokeping-1.0.27](https://github.com/truecharts/apps/compare/smokeping-1.0.26...smokeping-1.0.27) (2021-12-19)
+### [吸食1.0.27](https://github.com/truecharts/apps/compare/smokeping-1.0.26...smokeping-1.0.27) (2021-12-19)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="smokeping-1.0.26"></a>
 
-### [smokeping-1.0.26](https://github.com/truecharts/apps/compare/smokeping-1.0.25...smokeping-1.0.26) (2021-12-19)
+### [吸烟-1.0.26](https://github.com/truecharts/apps/compare/smokeping-1.0.25...smokeping-1.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -571,7 +571,7 @@
 
 <a name="smokeping-1.0.25"></a>
 
-### [smokeping-1.0.25](https://github.com/truecharts/apps/compare/smokeping-1.0.24...smokeping-1.0.25) (2021-12-18)
+### [吸烟-1.0.25](https://github.com/truecharts/apps/compare/smokeping-1.0.24...smokeping-1.0.25) (2021-12-18岁)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="smokeping-1.0.24"></a>
 
-### [smokeping-1.0.24](https://github.com/truecharts/apps/compare/smokeping-1.0.23...smokeping-1.0.24) (2021-12-14)
+### [吸烟-1.0.24](https://github.com/truecharts/apps/compare/smokeping-1.0.23...smokeping-1.0.24) (2021-12-14)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="smokeping-1.0.23"></a>
 
-### [smokeping-1.0.23](https://github.com/truecharts/apps/compare/smokeping-1.0.22...smokeping-1.0.23) (2021-12-13)
+### [吸烟了 1.0.23](https://github.com/truecharts/apps/compare/smokeping-1.0.22...smokeping-1.0.23) (2021-12-13)
 
 #### 聊天
 
@@ -607,7 +607,7 @@
 
 <a name="smokeping-1.0.22"></a>
 
-### [smokeping-1.0.22](https://github.com/truecharts/apps/compare/smokeping-1.0.21...smokeping-1.0.22) (2021-12-11)
+### [吸烟了 1.0.22](https://github.com/truecharts/apps/compare/smokeping-1.0.21...smokeping-1.0.22) (2021-12-11)
 
 #### 聊天
 
@@ -617,7 +617,7 @@
 
 <a name="smokeping-1.0.21"></a>
 
-### [smokeping-1.0.21](https://github.com/truecharts/apps/compare/smokeping-1.0.20...smokeping-1.0.21) (2021-12-07)
+### [吸烟-1.0.21](https://github.com/truecharts/apps/compare/smokeping-1.0.20...smokeping-1.0.21) (2021-12-07)
 
 #### 聊天
 
@@ -627,7 +627,7 @@
 
 <a name="smokeping-1.0.20"></a>
 
-### smokeping-1.0.20 (2021-12-05)
+### 吸食时间：1.0.20(2021-12-05)
 
 #### 聊天
 
@@ -647,7 +647,7 @@
 
 <a name="smokeping-1.0.19"></a>
 
-### [smokeping-1.0.19](https://github.com/truecharts/apps/compare/smokeping-1.0.18...smokeping-1.0.19) (2021-12-05)
+### [吸烟-1.0.19](https://github.com/truecharts/apps/compare/smokeping-1.0.18...smokeping-1.0.19) (2021-12-05)
 
 #### 聊天
 
@@ -657,7 +657,7 @@
 
 <a name="smokeping-1.0.18"></a>
 
-### [smokeping-1.0.18](https://github.com/truecharts/apps/compare/smokeping-1.0.17...smokeping-1.0.18) (2021-12-04)
+### [吸烟了 1.0.18](https://github.com/truecharts/apps/compare/smokeping-1.0.17...smokeping-1.0.18) (2021-12-04)
 
 #### 聊天
 
@@ -667,7 +667,7 @@
 
 <a name="smokeping-1.0.17"></a>
 
-### [smokeping-1.0.17](https://github.com/truecharts/apps/compare/smokeping-1.0.16...smokeping-1.0.17) (2021-12-04)
+### [吸烟了 1.0.17](https://github.com/truecharts/apps/compare/smokeping-1.0.16...smokeping-1.0.17) (2021-12-04)
 
 #### 聊天
 
@@ -677,7 +677,7 @@
 
 <a name="smokeping-1.0.16"></a>
 
-### [smokeping-1.0.16](https://github.com/truecharts/apps/compare/smokeping-1.0.15...smokeping-1.0.16) (2021-12-03)
+### [吸烟-1.0.16](https://github.com/truecharts/apps/compare/smokeping-1.0.15...smokeping-1.0.16) (2021-12-03)
 
 #### 聊天
 
@@ -688,7 +688,7 @@
 
 <a name="smokeping-1.0.15"></a>
 
-### [smokeping-1.0.15](https://github.com/truecharts/apps/compare/smokeping-1.0.14...smokeping-1.0.15) (2021-11-30)
+### [吸烟了 1.0.15](https://github.com/truecharts/apps/compare/smokeping-1.0.14...smokeping-1.0.15) (2021-11-30)
 
 #### 聊天
 
@@ -702,7 +702,7 @@
 
 <a name="smokeping-1.0.14"></a>
 
-### [smokeping-1.0.14](https://github.com/truecharts/apps/compare/smokeping-1.0.13...smokeping-1.0.14) (2021-11-23)
+### [吸烟-1.0.14](https://github.com/truecharts/apps/compare/smokeping-1.0.13...smokeping-1.0.14) (2021-11-23)
 
 #### 聊天
 
@@ -712,7 +712,7 @@
 
 <a name="smokeping-1.0.13"></a>
 
-### [smokeping-1.0.13](https://github.com/truecharts/apps/compare/smokeping-1.0.12...smokeping-1.0.13) (2021-11-22)
+### [吸烟了 1.0.13](https://github.com/truecharts/apps/compare/smokeping-1.0.12...smokeping-1.0.13) (2021-11-22)
 
 #### 聊天
 
@@ -722,7 +722,7 @@
 
 <a name="smokeping-1.0.12"></a>
 
-### [smokeping-1.0.12](https://github.com/truecharts/apps/compare/smokeping-1.0.11...smokeping-1.0.12) (2021-11-22)
+### [吸烟-1.0.12](https://github.com/truecharts/apps/compare/smokeping-1.0.11...smokeping-1.0.12) (2021-11-22)
 
 #### 聊天
 
@@ -732,7 +732,7 @@
 
 <a name="smokeping-1.0.11"></a>
 
-### [smokeping-1.0.11](https://github.com/truecharts/apps/compare/smokeping-1.0.10...smokeping-1.0.11) (2021-11-16)
+### [吸烟-1.0.11](https://github.com/truecharts/apps/compare/smokeping-1.0.10...smokeping-1.0.11) (2021-11-16)
 
 #### 聊天
 
@@ -742,7 +742,7 @@
 
 <a name="smokeping-1.0.10"></a>
 
-### [smokeping-1.0.10](https://github.com/truecharts/apps/compare/smokeping-1.0.9...smokeping-1.0.10) (2021-11-15)
+### [吸烟-1.0.10](https://github.com/truecharts/apps/compare/smokeping-1.0.9...smokeping-1.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -753,7 +753,7 @@
 
 <a name="smokeping-1.0.9"></a>
 
-### [smokeping-1.0.9](https://github.com/truecharts/apps/compare/smokeping-1.0.8...smokeping-1.0.9) (2021-11-14)
+### [吸烟-1.0.9](https://github.com/truecharts/apps/compare/smokeping-1.0.8...smokeping-1.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -771,7 +771,7 @@
 
 <a name="smokeping-1.0.8"></a>
 
-### [smokeping-1.0.8](https://github.com/truecharts/apps/compare/smokeping-1.0.7...smokeping-1.0.8) (2021-11-09)
+### [吸烟了 1.0.8](https://github.com/truecharts/apps/compare/smokeping-1.0.7...smokeping-1.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -781,7 +781,7 @@
 
 <a name="smokeping-1.0.7"></a>
 
-### [smokeping-1.0.7](https://github.com/truecharts/apps/compare/smokeping-1.0.6...smokeping-1.0.7) (2021-11-07)
+### [吸烟-1.0.7](https://github.com/truecharts/apps/compare/smokeping-1.0.6...smokeping-1.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -791,7 +791,7 @@
 
 <a name="smokeping-1.0.6"></a>
 
-### [smokeping-1.0.6](https://github.com/truecharts/apps/compare/smokeping-1.0.5...smokeping-1.0.6) (2021-11-07)
+### [吸烟-1.0.6](https://github.com/truecharts/apps/compare/smokeping-1.0.5...smokeping-1.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -809,7 +809,7 @@
 
 <a name="smokeping-1.0.5"></a>
 
-### [smokeping-1.0.5](https://github.com/truecharts/apps/compare/smokeping-1.0.4...smokeping-1.0.5) (2021-11-02)
+### [吸烟了 1.0.5](https://github.com/truecharts/apps/compare/smokeping-1.0.4...smokeping-1.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -819,7 +819,7 @@
 
 <a name="smokeping-1.0.4"></a>
 
-### [smokeping-1.0.4](https://github.com/truecharts/apps/compare/smokeping-1.0.3...smokeping-1.0.4) (2021-11-01)
+### [吸烟了 1.0.4](https://github.com/truecharts/apps/compare/smokeping-1.0.3...smokeping-1.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -829,7 +829,7 @@
 
 <a name="smokeping-1.0.3"></a>
 
-### [smokeping-1.0.3](https://github.com/truecharts/apps/compare/smokeping-1.0.2...smokeping-1.0.3) (2021-11-01)
+### [吸烟了 1.0.3](https://github.com/truecharts/apps/compare/smokeping-1.0.2...smokeping-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -839,7 +839,7 @@
 
 <a name="smokeping-1.0.2"></a>
 
-### [smokeping-1.0.2](https://github.com/truecharts/apps/compare/smokeping-1.0.1...smokeping-1.0.2) (2021-10-26)
+### [吸烟-1.0.2](https://github.com/truecharts/apps/compare/smokeping-1.0.1...smokeping-1.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -849,7 +849,7 @@
 
 <a name="smokeping-1.0.1"></a>
 
-### [smokeping-1.0.1](https://github.com/truecharts/apps/compare/smokeping-1.0.0...smokeping-1.0.1) (2021-10-26)
+### [吸烟-1.0.1](https://github.com/truecharts/apps/compare/smokeping-1.0.0...smokeping-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -860,7 +860,7 @@
 
 <a name="smokeping-1.0.0"></a>
 
-### [smokeping-1.0.0](https://github.com/truecharts/apps/compare/smokeping-0.0.12...smokeping-1.0.0) (2021-10-25)
+### [吸烟了 1.0.0](https://github.com/truecharts/apps/compare/smokeping-0.0.12...smokeping-1.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -870,7 +870,7 @@
 
 <a name="smokeping-0.0.12"></a>
 
-### [smokeping-0.0.12](https://github.com/truecharts/apps/compare/smokeping-0.0.9...smokeping-0.0.12) (2021-10-20)
+### [吸烟-0.0.12](https://github.com/truecharts/apps/compare/smokeping-0.0.9...smokeping-0.0.12) (2021-10-20)
 
 #### 聊天
 
@@ -880,7 +880,7 @@
 
 <a name="smokeping-0.0.9"></a>
 
-### [smokeping-0.0.9](https://github.com/truecharts/apps/compare/smokeping-0.0.8...smokeping-0.0.9) (2021-10-20)
+### [吸烟0.0.9](https://github.com/truecharts/apps/compare/smokeping-0.0.8...smokeping-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -890,7 +890,7 @@
 
 <a name="smokeping-0.0.8"></a>
 
-### [smokeping-0.0.8](https://github.com/truecharts/apps/compare/smokeping-0.0.7...smokeping-0.0.8) (2021-10-19)
+### [吸烟-0.0.8](https://github.com/truecharts/apps/compare/smokeping-0.0.7...smokeping-0.0.8) (2021-10-19)
 
 #### 更改
 
@@ -914,7 +914,7 @@
 
 <a name="smokeping-0.0.7"></a>
 
-### [smokeping-0.0.7](https://github.com/truecharts/apps/compare/smokeping-0.0.6...smokeping-0.0.7) (2021-10-19)
+### [吸烟-0.0.7](https://github.com/truecharts/apps/compare/smokeping-0.0.6...smokeping-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -924,7 +924,7 @@
 
 <a name="smokeping-0.0.6"></a>
 
-### [smokeping-0.0.6](https://github.com/truecharts/apps/compare/smokeping-0.0.5...smokeping-0.0.6) (2021-10-19)
+### [吸烟-0.0.6](https://github.com/truecharts/apps/compare/smokeping-0.0.5...smokeping-0.0.6) (2021-10-19)
 
 #### 修复
 
@@ -934,7 +934,7 @@
 
 <a name="smokeping-0.0.5"></a>
 
-### [smokeping-0.0.5](https://github.com/truecharts/apps/compare/smokeping-0.0.4...smokeping-0.0.5) (2021-10-18)
+### [吸烟-0.0.5](https://github.com/truecharts/apps/compare/smokeping-0.0.4...smokeping-0.0.5) (2021-10-18)
 
 #### 聊天
 
@@ -948,7 +948,7 @@
 
 <a name="smokeping-0.0.4"></a>
 
-### [smokeping-0.0.4](https://github.com/truecharts/apps/compare/smokeping-0.0.3...smokeping-0.0.4) (2021-10-17)
+### [吸烟0.0.4](https://github.com/truecharts/apps/compare/smokeping-0.0.3...smokeping-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -962,7 +962,7 @@
 
 <a name="smokeping-0.0.3"></a>
 
-### [smokeping-0.0.3](https://github.com/truecharts/apps/compare/smokeping-0.0.2...smokeping-0.0.3) (2021-10-13)
+### [吸烟0.0.3](https://github.com/truecharts/apps/compare/smokeping-0.0.2...smokeping-0.0.3) (2021-10-13)
 
 #### 聊天
 
@@ -972,7 +972,7 @@
 
 <a name="smokeping-0.0.2"></a>
 
-### [smokeping-0.0.2](https://github.com/truecharts/apps/compare/smokeping-0.0.1...smokeping-0.0.2) (2021-10-13)
+### [吸烟0.0.2](https://github.com/truecharts/apps/compare/smokeping-0.0.1...smokeping-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -982,4 +982,4 @@
 
 <a name="smokeping-0.0.1"></a>
 
-### smokeping-0.0.1 (2021-10-04)
+### 吸烟-0.0.1 (2021-10-04)
