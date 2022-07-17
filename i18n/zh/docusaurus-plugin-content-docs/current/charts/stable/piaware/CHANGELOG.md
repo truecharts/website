@@ -687,7 +687,7 @@
 #### 聊天
 
 * 更新头盔的一般非主要头盔版本([#1693](https://github.com/truecharts/apps/issues/1693))
-* update docker general non-major docker tags ([#1691](https://github.com/truecharts/apps/issues/1691))
+* 更新停靠一般非主要停靠标签[#1691](https://github.com/truecharts/apps/issues/1691)
 
 
 
@@ -1138,7 +1138,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
