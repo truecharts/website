@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [mosdns-2.0.19](https://github.com/truecharts/apps/compare/mosdns-2.0.18...mosdns-2.0.19) (2022-07-14)
+## [molds-2.0.19](https://github.com/truecharts/apps/compare/mosdns-2.0.18...mosdns-2.0.19) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [mosdns-2.0.18](https://github.com/truecharts/apps/compare/mosdns-2.0.16...mosdns-2.0.18) (2022-07-14)
+## [molds-2.0.18](https://github.com/truecharts/apps/compare/mosdns-2.0.16...mosdns-2.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [mosdns-2.0.16](https://github.com/truecharts/apps/compare/mosdns-2.0.14...mosdns-2.0.16) (2022-07-12)
+## [molds-2.0.16](https://github.com/truecharts/apps/compare/mosdns-2.0.14...mosdns-2.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [mosdns-2.0.14](https://github.com/truecharts/apps/compare/mosdns-2.0.13...mosdns-2.0.14) (2022-07-12)
+## [molds-2.0.14](https://github.com/truecharts/apps/compare/mosdns-2.0.13...mosdns-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="mosdns-2.0.13"></a>
 
-### [mosdns-2.0.13](https://github.com/truecharts/apps/compare/mosdns-2.0.12...mosdns-2.0.13) (2022-07-12)
+### [molds-2.0.13](https://github.com/truecharts/apps/compare/mosdns-2.0.12...mosdns-2.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="mosdns-2.0.12"></a>
 
-### [mosdns-2.0.12](https://github.com/truecharts/apps/compare/mosdns-2.0.11...mosdns-2.0.12) (2022-07-11)
+### [molds-2.0.12](https://github.com/truecharts/apps/compare/mosdns-2.0.11...mosdns-2.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,17 +56,17 @@
 
 <a name="mosdns-2.0.11"></a>
 
-### [mosdns-2.0.11](https://github.com/truecharts/apps/compare/mosdns-2.0.10...mosdns-2.0.11) (2022-07-10)
+### [molds-2.0.11](https://github.com/truecharts/apps/compare/mosdns-2.0.10...mosdns-2.0.11) (2022-07-10)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/mosdns to v4.1.3 ([#3035](https://github.com/truecharts/apps/issues/3035))
+* 将容器图像 tccr.io/truecharts/moldns 更新为 v4.1.3 ([#3035](https://github.com/truecharts/apps/issues/3035))
 
 
 
 <a name="mosdns-2.0.10"></a>
 
-### [mosdns-2.0.10](https://github.com/truecharts/apps/compare/mosdns-2.0.9...mosdns-2.0.10) (2022-07-09)
+### [molds-2.0.10](https://github.com/truecharts/apps/compare/mosdns-2.0.9...mosdns-2.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="mosdns-2.0.9"></a>
 
-### [mosdns-2.0.9](https://github.com/truecharts/apps/compare/mosdns-2.0.8...mosdns-2.0.9) (2022-07-04)
+### [molds-2.0.9](https://github.com/truecharts/apps/compare/mosdns-2.0.8...mosdns-2.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="mosdns-2.0.8"></a>
 
-### [mosdns-2.0.8](https://github.com/truecharts/apps/compare/mosdns-2.0.7...mosdns-2.0.8) (2022-06-25)
+### [molds-2.0.8](https://github.com/truecharts/apps/compare/mosdns-2.0.7...mosdns-2.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="mosdns-2.0.7"></a>
 
-### [mosdns-2.0.7](https://github.com/truecharts/apps/compare/mosdns-2.0.6...mosdns-2.0.7) (2022-06-22)
+### [molds-2.0.7](https://github.com/truecharts/apps/compare/mosdns-2.0.6...mosdns-2.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -107,7 +107,7 @@
 
 <a name="mosdns-2.0.6"></a>
 
-### [mosdns-2.0.6](https://github.com/truecharts/apps/compare/mosdns-2.0.5...mosdns-2.0.6) (2022-06-21)
+### [molds-2.0.6](https://github.com/truecharts/apps/compare/mosdns-2.0.5...mosdns-2.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -117,7 +117,7 @@
 
 <a name="mosdns-2.0.5"></a>
 
-### [mosdns-2.0.5](https://github.com/truecharts/apps/compare/mosdns-2.0.4...mosdns-2.0.5) (2022-06-14)
+### [molds-2.0.5](https://github.com/truecharts/apps/compare/mosdns-2.0.4...mosdns-2.0.5) (2022-06-14)
 
 #### 聊天
 
@@ -127,7 +127,7 @@
 
 <a name="mosdns-2.0.4"></a>
 
-### [mosdns-2.0.4](https://github.com/truecharts/apps/compare/mosdns-2.0.3...mosdns-2.0.4) (2022-06-11)
+### [molds-2.0.4](https://github.com/truecharts/apps/compare/mosdns-2.0.3...mosdns-2.0.4) (2022-06-11)
 
 #### 聊天
 
@@ -137,7 +137,7 @@
 
 <a name="mosdns-2.0.3"></a>
 
-### [mosdns-2.0.3](https://github.com/truecharts/apps/compare/mosdns-2.0.2...mosdns-2.0.3) (2022-06-11)
+### [molds-2.0.3](https://github.com/truecharts/apps/compare/mosdns-2.0.2...mosdns-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -147,7 +147,7 @@
 
 <a name="mosdns-2.0.2"></a>
 
-### [mosdns-2.0.2](https://github.com/truecharts/apps/compare/mosdns-2.0.1...mosdns-2.0.2) (2022-06-07)
+### [molds-2.0.2](https://github.com/truecharts/apps/compare/mosdns-2.0.1...mosdns-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -157,7 +157,7 @@
 
 <a name="mosdns-2.0.1"></a>
 
-### [mosdns-2.0.1](https://github.com/truecharts/apps/compare/mosdns-1.0.16...mosdns-2.0.1) (2022-06-07)
+### [molds-2.0.1](https://github.com/truecharts/apps/compare/mosdns-1.0.16...mosdns-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -177,7 +177,7 @@
 
 <a name="mosdns-2.0.0"></a>
 
-### [mosdns-2.0.0](https://github.com/truecharts/apps/compare/mosdns-1.0.16...mosdns-2.0.0) (2022-06-07)
+### [molds-2..0.0](https://github.com/truecharts/apps/compare/mosdns-1.0.16...mosdns-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -191,7 +191,7 @@
 
 <a name="mosdns-1.0.16"></a>
 
-### [mosdns-1.0.16](https://github.com/truecharts/apps/compare/mosdns-1.0.15...mosdns-1.0.16) (2022-06-04)
+### [molds-1.0.16](https://github.com/truecharts/apps/compare/mosdns-1.0.15...mosdns-1.0.16) (2022-06-04)
 
 #### 聊天
 
@@ -201,7 +201,7 @@
 
 <a name="mosdns-1.0.15"></a>
 
-### [mosdns-1.0.15](https://github.com/truecharts/apps/compare/mosdns-1.0.14...mosdns-1.0.15) (2022-05-31)
+### [molds-1.0.15](https://github.com/truecharts/apps/compare/mosdns-1.0.14...mosdns-1.0.15) (2022-05-31)
 
 #### 聊天
 
@@ -211,7 +211,7 @@
 
 <a name="mosdns-1.0.14"></a>
 
-### [mosdns-1.0.14](https://github.com/truecharts/apps/compare/mosdns-1.0.13...mosdns-1.0.14) (2022-05-26)
+### [molds-1.0.14](https://github.com/truecharts/apps/compare/mosdns-1.0.13...mosdns-1.0.14) (2022-05-26)
 
 #### 聊天
 
@@ -222,7 +222,7 @@
 
 <a name="mosdns-1.0.14"></a>
 
-### [mosdns-1.0.14](https://github.com/truecharts/apps/compare/mosdns-1.0.13...mosdns-1.0.14) (2022-05-26)
+### [molds-1.0.14](https://github.com/truecharts/apps/compare/mosdns-1.0.13...mosdns-1.0.14) (2022-05-26)
 
 #### 聊天
 
@@ -232,7 +232,7 @@
 
 <a name="mosdns-1.0.13"></a>
 
-### [mosdns-1.0.13](https://github.com/truecharts/apps/compare/mosdns-1.0.12...mosdns-1.0.13) (2022-05-24)
+### [molds-1.0.13](https://github.com/truecharts/apps/compare/mosdns-1.0.12...mosdns-1.0.13) (2022-05-24)
 
 #### 聊天
 
@@ -242,7 +242,7 @@
 
 <a name="mosdns-1.0.12"></a>
 
-### [mosdns-1.0.12](https://github.com/truecharts/apps/compare/mosdns-1.0.11...mosdns-1.0.12) (2022-05-17)
+### [molds-1.0.12](https://github.com/truecharts/apps/compare/mosdns-1.0.11...mosdns-1.0.12) (2022-05-17)
 
 #### 聊天
 
@@ -253,7 +253,7 @@
 
 <a name="mosdns-1.0.12"></a>
 
-### [mosdns-1.0.12](https://github.com/truecharts/apps/compare/mosdns-1.0.11...mosdns-1.0.12) (2022-05-17)
+### [molds-1.0.12](https://github.com/truecharts/apps/compare/mosdns-1.0.11...mosdns-1.0.12) (2022-05-17)
 
 #### 聊天
 
@@ -263,7 +263,7 @@
 
 <a name="mosdns-1.0.11"></a>
 
-### [mosdns-1.0.11](https://github.com/truecharts/apps/compare/mosdns-1.0.10...mosdns-1.0.11) (2022-05-17)
+### [molds-1.0.11](https://github.com/truecharts/apps/compare/mosdns-1.0.10...mosdns-1.0.11) (2022-05-17)
 
 #### 聊天
 
@@ -273,7 +273,7 @@
 
 <a name="mosdns-1.0.10"></a>
 
-### [mosdns-1.0.10](https://github.com/truecharts/apps/compare/mosdns-1.0.9...mosdns-1.0.10) (2022-05-10)
+### [molds-1.0.10](https://github.com/truecharts/apps/compare/mosdns-1.0.9...mosdns-1.0.10) (2022-05-10)
 
 #### 聊天
 
@@ -283,7 +283,7 @@
 
 <a name="mosdns-1.0.9"></a>
 
-### [mosdns-1.0.9](https://github.com/truecharts/apps/compare/mosdns-1.0.8...mosdns-1.0.9) (2022-05-08)
+### [molds-1.0.9](https://github.com/truecharts/apps/compare/mosdns-1.0.8...mosdns-1.0.9) (2022-05-08)
 
 #### 聊天
 
@@ -293,7 +293,7 @@
 
 <a name="mosdns-1.0.8"></a>
 
-### [mosdns-1.0.8](https://github.com/truecharts/apps/compare/mosdns-1.0.7...mosdns-1.0.8) (2022-05-05)
+### [molds-1.0.8](https://github.com/truecharts/apps/compare/mosdns-1.0.7...mosdns-1.0.8) (2022-05-05)
 
 #### 聊天
 
@@ -303,7 +303,7 @@
 
 <a name="mosdns-1.0.7"></a>
 
-### [mosdns-1.0.7](https://github.com/truecharts/apps/compare/mosdns-1.0.6...mosdns-1.0.7) (2022-05-04)
+### [molds-1.0.7](https://github.com/truecharts/apps/compare/mosdns-1.0.6...mosdns-1.0.7) (2022-05-04)
 
 #### 聊天
 
@@ -313,7 +313,7 @@
 
 <a name="mosdns-1.0.6"></a>
 
-### [mosdns-1.0.6](https://github.com/truecharts/apps/compare/mosdns-1.0.5...mosdns-1.0.6) (2022-04-26)
+### [molds-1.0.6](https://github.com/truecharts/apps/compare/mosdns-1.0.5...mosdns-1.0.6) (2022-04-26)
 
 #### 聊天
 
@@ -323,7 +323,7 @@
 
 <a name="mosdns-1.0.5"></a>
 
-### [mosdns-1.0.5](https://github.com/truecharts/apps/compare/mosdns-1.0.4...mosdns-1.0.5) (2022-04-20)
+### [molds-1.0.5](https://github.com/truecharts/apps/compare/mosdns-1.0.4...mosdns-1.0.5) (2022-04-20)
 
 #### 聊天
 
@@ -334,7 +334,7 @@
 
 <a name="mosdns-1.0.4"></a>
 
-### [mosdns-1.0.4](https://github.com/truecharts/apps/compare/mosdns-1.0.3...mosdns-1.0.4) (2022-04-12)
+### [molds-1.0.4](https://github.com/truecharts/apps/compare/mosdns-1.0.3...mosdns-1.0.4) (2022-04-12)
 
 #### 聊天
 
@@ -344,7 +344,7 @@
 
 <a name="mosdns-1.0.3"></a>
 
-### [mosdns-1.0.3](https://github.com/truecharts/apps/compare/mosdns-1.0.2...mosdns-1.0.3) (2022-04-12)
+### [molds-1.0.3](https://github.com/truecharts/apps/compare/mosdns-1.0.2...mosdns-1.0.3) (2022-04-12)
 
 #### 聊天
 
@@ -354,7 +354,7 @@
 
 <a name="mosdns-1.0.2"></a>
 
-### [mosdns-1.0.2](https://github.com/truecharts/apps/compare/mosdns-1.0.1...mosdns-1.0.2) (2022-04-09)
+### [molds-1.0.2](https://github.com/truecharts/apps/compare/mosdns-1.0.1...mosdns-1.0.2) (2022-04-09)
 
 #### 聊天
 
@@ -364,7 +364,7 @@
 
 <a name="mosdns-1.0.1"></a>
 
-### [mosdns-1.0.1](https://github.com/truecharts/apps/compare/mosdns-1.0.0...mosdns-1.0.1) (2022-04-03)
+### [molds-1.0.1](https://github.com/truecharts/apps/compare/mosdns-1.0.0...mosdns-1.0.1) (2022-04-03)
 
 #### 聊天
 
@@ -374,7 +374,7 @@
 
 <a name="mosdns-1.0.0"></a>
 
-### [mosdns-1.0.0](https://github.com/truecharts/apps/compare/mosdns-0.0.4...mosdns-1.0.0) (2022-04-03)
+### [molds-1.0.0](https://github.com/truecharts/apps/compare/mosdns-0.0.4...mosdns-1.0.0) (2022-04-03)
 
 #### 聊天
 
@@ -384,7 +384,7 @@
 
 <a name="mosdns-0.0.3"></a>
 
-### [mosdns-0.0.3](https://github.com/truecharts/apps/compare/mosdns-0.0.2...mosdns-0.0.3) (2022-04-01)
+### [molds-0.0.3](https://github.com/truecharts/apps/compare/mosdns-0.0.2...mosdns-0.0.3) (2022-04-01)
 
 #### 聊天
 
@@ -394,18 +394,18 @@
 
 <a name="mosdns-0.0.2"></a>
 
-### [mosdns-0.0.2](https://github.com/truecharts/apps/compare/mosdns-0.0.1...mosdns-0.0.2) (2022-03-31)
+### [molds-0.0.2](https://github.com/truecharts/apps/compare/mosdns-0.0.1...mosdns-0.0.2) (2022-03-31)
 
 #### 修复
 
-* Remove portal ([#2364](https://github.com/truecharts/apps/issues/2364))
+* 删除portal ([#2364](https://github.com/truecharts/apps/issues/2364))
 
 
 
 <a name="mosdns-0.0.1"></a>
 
-### mosdns-0.0.1 (2022-03-31)
+### molds-0.0.1 (2022-03-31)
 
 #### Feat
 
-* Add mosdns ([#2360](https://github.com/truecharts/apps/issues/2360))
+* 添加 moldns ([#2360](https://github.com/truecharts/apps/issues/2360))
