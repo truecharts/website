@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [sickchill-3.0.20](https://github.com/truecharts/apps/compare/sickchill-3.0.19...sickchill-3.0.20) (2022-07-15)
+## [镰刀3.0.20](https://github.com/truecharts/apps/compare/sickchill-3.0.19...sickchill-3.0.20) (2022-07-15)
 
 ### 聊天
 
@@ -25,7 +25,7 @@
 
 
 
-## [sickchill-3.0.16](https://github.com/truecharts/apps/compare/sickchill-3.0.14...sickchill-3.0.16) (2022-07-12)
+## [镰刀3.0.16](https://github.com/truecharts/apps/compare/sickchill-3.0.14...sickchill-3.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -197,7 +197,7 @@
 
 <a name="sickchill-2.0.26"></a>
 
-### [sickchill-2.0.26](https://github.com/truecharts/apps/compare/sickchill-2.0.25...sickchill-2.0.26) (2022-05-31)
+### [镰刀2.0.26](https://github.com/truecharts/apps/compare/sickchill-2.0.25...sickchill-2.0.26) (2022-05-31)
 
 #### 聊天
 
@@ -207,7 +207,7 @@
 
 <a name="sickchill-2.0.25"></a>
 
-### [sickchill-2.0.25](https://github.com/truecharts/apps/compare/sickchill-2.0.24...sickchill-2.0.25) (2022-05-26)
+### [镰刀2.0.25](https://github.com/truecharts/apps/compare/sickchill-2.0.24...sickchill-2.0.25) (2022-05-26)
 
 #### 聊天
 
@@ -218,7 +218,7 @@
 
 <a name="sickchill-2.0.25"></a>
 
-### [sickchill-2.0.25](https://github.com/truecharts/apps/compare/sickchill-2.0.24...sickchill-2.0.25) (2022-05-26)
+### [镰刀2.0.25](https://github.com/truecharts/apps/compare/sickchill-2.0.24...sickchill-2.0.25) (2022-05-26)
 
 #### 聊天
 
@@ -228,7 +228,7 @@
 
 <a name="sickchill-2.0.24"></a>
 
-### [sickchill-2.0.24](https://github.com/truecharts/apps/compare/sickchill-2.0.23...sickchill-2.0.24) (2022-05-24)
+### [镰刀2.0.24](https://github.com/truecharts/apps/compare/sickchill-2.0.23...sickchill-2.0.24) (2022-05-24)
 
 #### 聊天
 
@@ -238,7 +238,7 @@
 
 <a name="sickchill-2.0.23"></a>
 
-### [sickchill-2.0.23](https://github.com/truecharts/apps/compare/sickchill-2.0.22...sickchill-2.0.23) (2022-05-17)
+### [镰刀2.0.23](https://github.com/truecharts/apps/compare/sickchill-2.0.22...sickchill-2.0.23) (2022-05-17)
 
 #### 聊天
 
@@ -249,7 +249,7 @@
 
 <a name="sickchill-2.0.23"></a>
 
-### [sickchill-2.0.23](https://github.com/truecharts/apps/compare/sickchill-2.0.22...sickchill-2.0.23) (2022-05-17)
+### [镰刀2.0.23](https://github.com/truecharts/apps/compare/sickchill-2.0.22...sickchill-2.0.23) (2022-05-17)
 
 #### 聊天
 
@@ -259,7 +259,7 @@
 
 <a name="sickchill-2.0.22"></a>
 
-### [sickchill-2.0.22](https://github.com/truecharts/apps/compare/sickchill-2.0.21...sickchill-2.0.22) (2022-05-17)
+### [镰刀2.0.22](https://github.com/truecharts/apps/compare/sickchill-2.0.21...sickchill-2.0.22) (2022-05-17)
 
 #### 聊天
 
@@ -269,7 +269,7 @@
 
 <a name="sickchill-2.0.21"></a>
 
-### [sickchill-2.0.21](https://github.com/truecharts/apps/compare/sickchill-2.0.20...sickchill-2.0.21) (2022-05-13)
+### [镰刀2.0.21](https://github.com/truecharts/apps/compare/sickchill-2.0.20...sickchill-2.0.21) (2022-05-13)
 
 #### 聊天
 
@@ -279,7 +279,7 @@
 
 <a name="sickchill-2.0.20"></a>
 
-### [sickchill-2.0.20](https://github.com/truecharts/apps/compare/sickchill-2.0.19...sickchill-2.0.20) (2022-05-10)
+### [镰刀2.0.20](https://github.com/truecharts/apps/compare/sickchill-2.0.19...sickchill-2.0.20) (2022-05-10)
 
 #### 聊天
 
@@ -289,7 +289,7 @@
 
 <a name="sickchill-2.0.19"></a>
 
-### [sickchill-2.0.19](https://github.com/truecharts/apps/compare/sickchill-2.0.18...sickchill-2.0.19) (2022-05-06)
+### [镰刀2.0.19](https://github.com/truecharts/apps/compare/sickchill-2.0.18...sickchill-2.0.19) (2022-05-06)
 
 #### 聊天
 
@@ -299,7 +299,7 @@
 
 <a name="sickchill-2.0.18"></a>
 
-### [sickchill-2.0.18](https://github.com/truecharts/apps/compare/sickchill-2.0.17...sickchill-2.0.18) (2022-05-05)
+### [镰刀2.0.18](https://github.com/truecharts/apps/compare/sickchill-2.0.17...sickchill-2.0.18) (2022-05-05)
 
 #### 聊天
 
@@ -309,7 +309,7 @@
 
 <a name="sickchill-2.0.17"></a>
 
-### [sickchill-2.0.17](https://github.com/truecharts/apps/compare/sickchill-2.0.16...sickchill-2.0.17) (2022-04-29)
+### [镰刀2.0.17](https://github.com/truecharts/apps/compare/sickchill-2.0.16...sickchill-2.0.17) (2022-04-29)
 
 #### 聊天
 
@@ -319,7 +319,7 @@
 
 <a name="sickchill-2.0.16"></a>
 
-### [sickchill-2.0.16](https://github.com/truecharts/apps/compare/sickchill-2.0.15...sickchill-2.0.16) (2022-04-26)
+### [镰刀2.0.16](https://github.com/truecharts/apps/compare/sickchill-2.0.15...sickchill-2.0.16) (2022-04-26)
 
 #### 聊天
 
@@ -329,7 +329,7 @@
 
 <a name="sickchill-2.0.15"></a>
 
-### [sickchill-2.0.15](https://github.com/truecharts/apps/compare/sickchill-2.0.14...sickchill-2.0.15) (2022-04-20)
+### [镰刀2.0.15](https://github.com/truecharts/apps/compare/sickchill-2.0.14...sickchill-2.0.15) (2022-04-20)
 
 #### 聊天
 
@@ -340,7 +340,7 @@
 
 <a name="sickchill-2.0.14"></a>
 
-### [sickchill-2.0.14](https://github.com/truecharts/apps/compare/sickchill-2.0.13...sickchill-2.0.14) (2022-04-16)
+### [镰刀2.0.14](https://github.com/truecharts/apps/compare/sickchill-2.0.13...sickchill-2.0.14) (2022-04-16)
 
 #### 聊天
 
@@ -350,7 +350,7 @@
 
 <a name="sickchill-2.0.13"></a>
 
-### [sickchill-2.0.13](https://github.com/truecharts/apps/compare/sickchill-2.0.12...sickchill-2.0.13) (2022-04-12)
+### [镰刀2.0.13](https://github.com/truecharts/apps/compare/sickchill-2.0.12...sickchill-2.0.13) (2022-04-12)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="sickchill-2.0.12"></a>
 
-### [sickchill-2.0.12](https://github.com/truecharts/apps/compare/sickchill-2.0.11...sickchill-2.0.12) (2022-04-09)
+### [镰刀2.0.12](https://github.com/truecharts/apps/compare/sickchill-2.0.11...sickchill-2.0.12) (2022-04-09)
 
 #### 聊天
 
@@ -380,7 +380,7 @@
 
 <a name="sickchill-2.0.10"></a>
 
-### [sickchill-2.0.10](https://github.com/truecharts/apps/compare/sickchill-2.0.9...sickchill-2.0.10) (2022-04-01)
+### [镰刀2.0.10](https://github.com/truecharts/apps/compare/sickchill-2.0.9...sickchill-2.0.10) (2022-04-01)
 
 #### 聊天
 
@@ -390,7 +390,7 @@
 
 <a name="sickchill-2.0.9"></a>
 
-### [sickchill-2.0.9](https://github.com/truecharts/apps/compare/sickchill-2.0.8...sickchill-2.0.9) (2022-03-31)
+### [镰刀2.0.9](https://github.com/truecharts/apps/compare/sickchill-2.0.8...sickchill-2.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -410,7 +410,7 @@
 
 <a name="sickchill-2.0.7"></a>
 
-### [sickchill-2.0.7](https://github.com/truecharts/apps/compare/sickchill-2.0.6...sickchill-2.0.7) (2022-03-26)
+### [镰刀2.0.7](https://github.com/truecharts/apps/compare/sickchill-2.0.6...sickchill-2.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -424,13 +424,13 @@
 
 #### 聊天
 
-* update image ref ([#2280](https://github.com/truecharts/apps/issues/2280))
+* 更新图像参考文件[#2280](https://github.com/truecharts/apps/issues/2280))
 
 
 
 <a name="sickchill-2.0.1"></a>
 
-### [sickchill-2.0.1](https://github.com/truecharts/apps/compare/sickchill-2.0.0...sickchill-2.0.1) (2022-03-07)
+### [镰刀2.0.1](https://github.com/truecharts/apps/compare/sickchill-2.0.0...sickchill-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -469,7 +469,7 @@
 
 <a name="sickchill-1.0.41"></a>
 
-### [sickchill-1.0.41](https://github.com/truecharts/apps/compare/sickchill-1.0.40...sickchill-1.0.41) (2022-02-21)
+### [镰刀1.0.41](https://github.com/truecharts/apps/compare/sickchill-1.0.40...sickchill-1.0.41) (2022-02-21)
 
 #### 聊天
 
@@ -549,7 +549,7 @@
 
 <a name="sickchill-1.0.33"></a>
 
-### [sickchill-1.0.33](https://github.com/truecharts/apps/compare/sickchill-1.0.32...sickchill-1.0.33) (2022-01-21)
+### [镰刀1.0.33](https://github.com/truecharts/apps/compare/sickchill-1.0.32...sickchill-1.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -587,7 +587,7 @@
 
 <a name="sickchill-1.0.30"></a>
 
-### [sickchill-1.0.30](https://github.com/truecharts/apps/compare/sickchill-1.0.29...sickchill-1.0.30) (2022-01-12)
+### [镰刀1.0.30](https://github.com/truecharts/apps/compare/sickchill-1.0.29...sickchill-1.0.30) (2022-01-12)
 
 #### 聊天
 
@@ -617,7 +617,7 @@
 
 <a name="sickchill-1.0.27"></a>
 
-### [sickchill-1.0.27](https://github.com/truecharts/apps/compare/sickchill-1.0.26...sickchill-1.0.27) (2021-12-28)
+### [镰刀1.0.27](https://github.com/truecharts/apps/compare/sickchill-1.0.26...sickchill-1.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -627,7 +627,7 @@
 
 <a name="sickchill-1.0.26"></a>
 
-### [sickchill-1.0.26](https://github.com/truecharts/apps/compare/sickchill-1.0.25...sickchill-1.0.26) (2021-12-21)
+### [镰刀1.0.26](https://github.com/truecharts/apps/compare/sickchill-1.0.25...sickchill-1.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -637,7 +637,7 @@
 
 <a name="sickchill-1.0.25"></a>
 
-### [sickchill-1.0.25](https://github.com/truecharts/apps/compare/sickchill-1.0.24...sickchill-1.0.25) (2021-12-19)
+### [镰刀1.0.25](https://github.com/truecharts/apps/compare/sickchill-1.0.24...sickchill-1.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -648,7 +648,7 @@
 
 <a name="sickchill-1.0.24"></a>
 
-### [sickchill-1.0.24](https://github.com/truecharts/apps/compare/sickchill-1.0.23...sickchill-1.0.24) (2021-12-19)
+### [镰刀1.0.24](https://github.com/truecharts/apps/compare/sickchill-1.0.23...sickchill-1.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -659,7 +659,7 @@
 
 <a name="sickchill-1.0.23"></a>
 
-### [sickchill-1.0.23](https://github.com/truecharts/apps/compare/sickchill-1.0.22...sickchill-1.0.23) (2021-12-18)
+### [镰刀1.0.23](https://github.com/truecharts/apps/compare/sickchill-1.0.22...sickchill-1.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -670,7 +670,7 @@
 
 <a name="sickchill-1.0.22"></a>
 
-### [sickchill-1.0.22](https://github.com/truecharts/apps/compare/sickchill-1.0.21...sickchill-1.0.22) (2021-12-14)
+### [恶魔1.0.22](https://github.com/truecharts/apps/compare/sickchill-1.0.21...sickchill-1.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -680,7 +680,7 @@
 
 <a name="sickchill-1.0.21"></a>
 
-### [sickchill-1.0.21](https://github.com/truecharts/apps/compare/sickchill-1.0.20...sickchill-1.0.21) (2021-12-13)
+### [镰刀1.0.21](https://github.com/truecharts/apps/compare/sickchill-1.0.20...sickchill-1.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -690,7 +690,7 @@
 
 <a name="sickchill-1.0.20"></a>
 
-### [sickchill-1.0.20](https://github.com/truecharts/apps/compare/sickchill-1.0.19...sickchill-1.0.20) (2021-12-11)
+### [爬行1.0.20](https://github.com/truecharts/apps/compare/sickchill-1.0.19...sickchill-1.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -700,7 +700,7 @@
 
 <a name="sickchill-1.0.19"></a>
 
-### [sickchill-1.0.19](https://github.com/truecharts/apps/compare/sickchill-1.0.18...sickchill-1.0.19) (2021-12-07)
+### [镰刀1.0.19](https://github.com/truecharts/apps/compare/sickchill-1.0.18...sickchill-1.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -710,7 +710,7 @@
 
 <a name="sickchill-1.0.18"></a>
 
-### sickchill-1.0.18 (2021-12-05)
+### 镰状细胞病1.0.18(2021-12-05)
 
 #### 聊天
 
@@ -731,7 +731,7 @@
 
 <a name="sickchill-1.0.17"></a>
 
-### [sickchill-1.0.17](https://github.com/truecharts/apps/compare/sickchill-1.0.16...sickchill-1.0.17) (2021-12-05)
+### [镰刀1.0.17](https://github.com/truecharts/apps/compare/sickchill-1.0.16...sickchill-1.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -741,7 +741,7 @@
 
 <a name="sickchill-1.0.16"></a>
 
-### [sickchill-1.0.16](https://github.com/truecharts/apps/compare/sickchill-1.0.15...sickchill-1.0.16) (2021-12-04)
+### [镰刀1.0.16](https://github.com/truecharts/apps/compare/sickchill-1.0.15...sickchill-1.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -751,7 +751,7 @@
 
 <a name="sickchill-1.0.15"></a>
 
-### [sickchill-1.0.15](https://github.com/truecharts/apps/compare/sickchill-1.0.14...sickchill-1.0.15) (2021-12-04)
+### [镰刀1.0.15](https://github.com/truecharts/apps/compare/sickchill-1.0.14...sickchill-1.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -773,7 +773,7 @@
 
 <a name="sickchill-1.0.13"></a>
 
-### [sickchill-1.0.13](https://github.com/truecharts/apps/compare/sickchill-1.0.12...sickchill-1.0.13) (2021-11-30)
+### [镰刀1.0.13](https://github.com/truecharts/apps/compare/sickchill-1.0.12...sickchill-1.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -787,7 +787,7 @@
 
 <a name="sickchill-1.0.12"></a>
 
-### [sickchill-1.0.12](https://github.com/truecharts/apps/compare/sickchill-1.0.11...sickchill-1.0.12) (2021-11-23)
+### [镰刀1.0.12](https://github.com/truecharts/apps/compare/sickchill-1.0.11...sickchill-1.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -817,7 +817,7 @@
 
 <a name="sickchill-1.0.9"></a>
 
-### [sickchill-1.0.9](https://github.com/truecharts/apps/compare/sickchill-1.0.8...sickchill-1.0.9) (2021-11-15)
+### [镰刀1.0.9](https://github.com/truecharts/apps/compare/sickchill-1.0.8...sickchill-1.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -828,7 +828,7 @@
 
 <a name="sickchill-1.0.8"></a>
 
-### [sickchill-1.0.8](https://github.com/truecharts/apps/compare/sickchill-1.0.7...sickchill-1.0.8) (2021-11-14)
+### [镰刀1.0.8](https://github.com/truecharts/apps/compare/sickchill-1.0.7...sickchill-1.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -846,7 +846,7 @@
 
 <a name="sickchill-1.0.7"></a>
 
-### [sickchill-1.0.7](https://github.com/truecharts/apps/compare/sickchill-1.0.6...sickchill-1.0.7) (2021-11-09)
+### [镰刀1.0.7](https://github.com/truecharts/apps/compare/sickchill-1.0.6...sickchill-1.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -856,7 +856,7 @@
 
 <a name="sickchill-1.0.6"></a>
 
-### [sickchill-1.0.6](https://github.com/truecharts/apps/compare/sickchill-1.0.5...sickchill-1.0.6) (2021-11-07)
+### [镰刀1.0.6](https://github.com/truecharts/apps/compare/sickchill-1.0.5...sickchill-1.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -866,7 +866,7 @@
 
 <a name="sickchill-1.0.5"></a>
 
-### [sickchill-1.0.5](https://github.com/truecharts/apps/compare/sickchill-1.0.4...sickchill-1.0.5) (2021-11-07)
+### [镰刀1.0.5](https://github.com/truecharts/apps/compare/sickchill-1.0.4...sickchill-1.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -884,7 +884,7 @@
 
 <a name="sickchill-1.0.4"></a>
 
-### [sickchill-1.0.4](https://github.com/truecharts/apps/compare/sickchill-1.0.3...sickchill-1.0.4) (2021-11-02)
+### [镰刀1.0.4](https://github.com/truecharts/apps/compare/sickchill-1.0.3...sickchill-1.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -894,7 +894,7 @@
 
 <a name="sickchill-1.0.3"></a>
 
-### [sickchill-1.0.3](https://github.com/truecharts/apps/compare/sickchill-1.0.2...sickchill-1.0.3) (2021-11-01)
+### [镰刀1.0.3](https://github.com/truecharts/apps/compare/sickchill-1.0.2...sickchill-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -904,7 +904,7 @@
 
 <a name="sickchill-1.0.2"></a>
 
-### [sickchill-1.0.2](https://github.com/truecharts/apps/compare/sickchill-1.0.1...sickchill-1.0.2) (2021-10-26)
+### [镰刀1.0.2](https://github.com/truecharts/apps/compare/sickchill-1.0.1...sickchill-1.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -914,7 +914,7 @@
 
 <a name="sickchill-1.0.1"></a>
 
-### [sickchill-1.0.1](https://github.com/truecharts/apps/compare/sickchill-1.0.0...sickchill-1.0.1) (2021-10-26)
+### [镰刀1.0.1](https://github.com/truecharts/apps/compare/sickchill-1.0.0...sickchill-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -924,7 +924,7 @@
 
 <a name="sickchill-1.0.0"></a>
 
-### [sickchill-1.0.0](https://github.com/truecharts/apps/compare/sickchill-0.0.12...sickchill-1.0.0) (2021-10-25)
+### [镰刀1.0.0](https://github.com/truecharts/apps/compare/sickchill-0.0.12...sickchill-1.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -934,7 +934,7 @@
 
 <a name="sickchill-0.0.12"></a>
 
-### [sickchill-0.0.12](https://github.com/truecharts/apps/compare/sickchill-0.0.9...sickchill-0.0.12) (2021-10-20)
+### [镰刀0.0.12](https://github.com/truecharts/apps/compare/sickchill-0.0.9...sickchill-0.0.12) (2021-10-20)
 
 #### 聊天
 
@@ -944,7 +944,7 @@
 
 <a name="sickchill-0.0.9"></a>
 
-### [sickchill-0.0.9](https://github.com/truecharts/apps/compare/sickchill-0.0.8...sickchill-0.0.9) (2021-10-20)
+### [镰刀0.0.9](https://github.com/truecharts/apps/compare/sickchill-0.0.8...sickchill-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -954,7 +954,7 @@
 
 <a name="sickchill-0.0.8"></a>
 
-### [sickchill-0.0.8](https://github.com/truecharts/apps/compare/sickchill-0.0.7...sickchill-0.0.8) (2021-10-19)
+### [镰刀0.0.8](https://github.com/truecharts/apps/compare/sickchill-0.0.7...sickchill-0.0.8) (2021-10-19)
 
 #### 更改
 
@@ -978,7 +978,7 @@
 
 <a name="sickchill-0.0.7"></a>
 
-### [sickchill-0.0.7](https://github.com/truecharts/apps/compare/sickchill-0.0.6...sickchill-0.0.7) (2021-10-19)
+### [镰刀0.0.7](https://github.com/truecharts/apps/compare/sickchill-0.0.6...sickchill-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -988,7 +988,7 @@
 
 <a name="sickchill-0.0.6"></a>
 
-### [sickchill-0.0.6](https://github.com/truecharts/apps/compare/sickchill-0.0.5...sickchill-0.0.6) (2021-10-19)
+### [镰刀0.0.6](https://github.com/truecharts/apps/compare/sickchill-0.0.5...sickchill-0.0.6) (2021-10-19)
 
 #### 修复
 
@@ -998,7 +998,7 @@
 
 <a name="sickchill-0.0.5"></a>
 
-### [sickchill-0.0.5](https://github.com/truecharts/apps/compare/sickchill-0.0.4...sickchill-0.0.5) (2021-10-18)
+### [镰刀0.0.5](https://github.com/truecharts/apps/compare/sickchill-0.0.4...sickchill-0.0.5) (2021-10-18)
 
 #### 聊天
 
@@ -1012,7 +1012,7 @@
 
 <a name="sickchill-0.0.4"></a>
 
-### [sickchill-0.0.4](https://github.com/truecharts/apps/compare/sickchill-0.0.3...sickchill-0.0.4) (2021-10-17)
+### [镰刀0.0.4](https://github.com/truecharts/apps/compare/sickchill-0.0.3...sickchill-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -1026,7 +1026,7 @@
 
 <a name="sickchill-0.0.3"></a>
 
-### [sickchill-0.0.3](https://github.com/truecharts/apps/compare/sickchill-0.0.2...sickchill-0.0.3) (2021-10-13)
+### [镰刀0.0.3](https://github.com/truecharts/apps/compare/sickchill-0.0.2...sickchill-0.0.3) (2021-10-13)
 
 #### 聊天
 
@@ -1036,7 +1036,7 @@
 
 <a name="sickchill-0.0.2"></a>
 
-### [sickchill-0.0.2](https://github.com/truecharts/apps/compare/sickchill-0.0.1...sickchill-0.0.2) (2021-10-13)
+### [镰刀0.0.2](https://github.com/truecharts/apps/compare/sickchill-0.0.1...sickchill-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -1046,4 +1046,4 @@
 
 <a name="sickchill-0.0.1"></a>
 
-### sickchill-0.0.1 (2021-10-04)
+### 镰刀龙0.0.1 (2021-10-04)
