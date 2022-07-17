@@ -1,26 +1,26 @@
-# Sponsors Us
+# 我们的赞助者
 
-## Sponsorship
+## 赞助方案
 
-As a project we try to maintain strict independence and financial ethics, this means we actively disclose if we receive any funds for any kind of promotion or attention.
+作为一个项目，我们努力保持严格的独立性和财务道德。 这意味着我们积极披露我们是否收到任何提升或注意力的资金。
 
-However: We are always open to promoting great projects and those projects are free to donate to us as a "thank you", regardless of donations/contributions.
+但是，我们总是愿意促进伟大的项目，这些项目可以自由地作为“谢谢你”向我们捐款，而不论捐款/捐款。
 
-## Donations
+## 捐助
 
-As we have no formal legal entity, we can only accept donations on a personal basis.
+由于我们没有正式的法律实体，我们只能接受个人捐赠。
 
-## Donation options
+## 捐赠选项
 
 ### Ornias
 
-One can use the following options to donate to the project maintainer, Ornias, directly:
+可以使用以下选项直接捐赠给项目维护者Ornias：
 
 #### Github Sponsors
 
-https://github.com/sponsors/Ornias1993
+https://github.com/赞助者/Ornias1993
 
-#### Patreon
+#### 帕特里昂州
 
 https://patreon.com/ornias1993
 
@@ -28,14 +28,14 @@ https://patreon.com/ornias1993
 
 https://ko-fi.com/ornias
 
-#### Dutch IDEAL
+#### 荷兰语IDEAL
 
 https://bunq.me/ornias
 
-#### SWIFT/IBAN Payments in EUR
+#### SWIFT/IBAN以欧元支付
 
-Owner: Kjeld Schouten-Lebbing Country: Netherlands
+所有者：Kjeld Schouten-Lebbing 个国家：荷兰
 
-### Other contributors
+### 其他贡献者
 
-Check out their specific github profiles and/or website to find if you can support more of our frequent contributors!
+查看他们特定的 github 配置文件和/或网站来查找您是否可以支持我们更多的经常贡献者！
