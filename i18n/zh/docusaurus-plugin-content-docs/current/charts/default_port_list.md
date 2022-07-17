@@ -1,666 +1,666 @@
-# Default Ports
+# 默认端口
 
-This document lists the default ports used by Apps. These defaults can of course be changed, but as we guarantee "sane, working defaults", they should provide no or minimal conflicts without being changed.
+此文档列出应用程序使用的默认端口。 这些默认值当然可以更改，但是我们保证“正常工作的默认值”， 这些默认值应该不会被更改或最小的冲突。
 
-## Stable
+## 稳定的
 
-| App                        |     Service     |    Port Name    | Port  | Protocol |       Status        | Note                                                    |
-|:-------------------------- |:---------------:|:---------------:|:-----:|:--------:|:-------------------:|:------------------------------------------------------- |
-| custom-app                 |        -        |        -        |   -   |    -     | Service not Defined | -                                                       |
-| metallb                    |        -        |        -        |   -   |    -     | Service not Defined | -                                                       |
-| amcrest2mqtt               |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| automatic-music-downloader |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| ddclient                   |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| doplarr                    |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| duckdns                    |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| leaf2mqtt                  |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| protonmail-bridge          |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| rsnapshot                  |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| tdarr-node                 |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| traefik                    |       udp       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| unpackerr                  |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| webgrabplus                |      main       |        -        |   -   |    -     | Service is Disabled | -                                                       |
-| promcord                   |      main       |        -        |   -   |    -     |  Port is Disabled   | -                                                       |
-| speedtest-exporter         |      main       |        -        |   -   |    -     |  Port is Disabled   | -                                                       |
-| unpoller                   |      main       |        -        |   -   |    -     |  Port is Disabled   | -                                                       |
-| uptimerobot-prometheus     |      main       |        -        |   -   |    -     |  Port is Disabled   | -                                                       |
-| anonaddy                   |      smtp       |      smtp       |  25   |   TCP    |       Active        | Potential conflict with: protonmail-bridge              |
-| protonmail-bridge          |      smtp       |      smtp       |  25   |   TCP    |       Active        | Potential conflict with: anonaddy                       |
-| k8s-gateway                |      main       |      main       |  53   |   UDP    |       Active        | -                                                       |
-| mosdns                     |      main       |      main       |  53   |   TCP    |       Active        | Potential conflict with: pihole adguard-home technitium |
-| mosdns                     |     dns-udp     |     dns-upd     |  53   |   UDP    |       Active        | -                                                       |
-| pihole                     |     dns-tcp     |     dns-tcp     |  53   |   TCP    |       Active        | Potential conflict with: mosdns adguard-home technitium |
-| pihole                     |       dns       |       dns       |  53   |   UDP    |       Active        | -                                                       |
-| openldap                   |      main       |      main       |  389  |   TCP    |       Active        | -                                                       |
-| minisatip                  |      rtsp       |      rtsp       |  554  |   TCP    |       Active        | -                                                       |
-| openldap                   |      ldaps      |      ldaps      |  636  |   TCP    |       Active        | -                                                       |
-| strapi                     |      main       |      main       | 1337  |   TCP    |       Active        | -                                                       |
-| domoticz                   |      comm2      |      comm2      | 1443  |   TCP    |       Active        | -                                                       |
-| nntp2nntp                  |      main       |      main       | 1563  |   TCP    |       Active        | -                                                       |
-| kms                        |      main       |      main       | 1688  |   TCP    |       Active        | -                                                       |
-| freeradius                 |      main       |      main       | 1812  |   UDP    |       Active        | -                                                       |
-| freeradius                 |   accounting    |   accounting    | 1813  |   UDP    |       Active        | -                                                       |
-| node-red                   |      main       |      main       | 1880  |   TCP    |       Active        | -                                                       |
-| mosquitto                  |      main       |      main       | 1883  |   TCP    |       Active        | -                                                       |
-| minisatip                  |    discovery    |    discovery    | 1900  |   UDP    |       Active        | -                                                       |
-| owncast                    |      rtmp       |      rtmp       | 1935  |   TCP    |       Active        | Potential conflict with: frigate                        |
-| ubooquity                  |      main       |      main       | 2202  |   TCP    |       Active        | -                                                       |
-| ubooquity                  |      admin      |      admin      | 2203  |   TCP    |       Active        | -                                                       |
-| gitea                      |       ssh       |       ssh       | 2222  |   TCP    |       Active        | -                                                       |
-| photoprism                 |      main       |      main       | 2342  |   TCP    |       Active        | -                                                       |
-| docker-compose             |      main       |      main       | 2376  |   TCP    |       Active        | -                                                       |
-| valheim                    |     valheim     |    valheim1     | 2456  |   UDP    |       Active        | -                                                       |
-| valheim                    |     valheim     |    valheim2     | 2457  |   UDP    |       Active        | -                                                       |
-| valheim                    |     valheim     |    valheim3     | 2458  |   UDP    |       Active        | -                                                       |
-| wireshark                  |      main       |      main       | 3000  |   TCP    |       Active        | -                                                       |
-| uptime-kuma                |      main       |      main       | 3001  |   TCP    |       Active        | -                                                       |
-| vaultwarden                |       ws        |       ws        | 3012  |   TCP    |       Active        | -                                                       |
-| loki                       |      main       |      main       | 3100  |   HTTP   |       Active        | -                                                       |
-| jdownloader2               |      myjd       |      myjd       | 3129  |   TCP    |       Active        | -                                                       |
-| pylon                      |      main       |      main       | 3131  |   TCP    |       Active        | -                                                       |
-| clamav                     |      main       |      main       | 3310  |   TCP    |       Active        | -                                                       |
-| ispy-agent-dvr             |      turn       |      turn       | 3478  |   UDP    |       Active        | Potential conflict with: unifi                          |
-| unifi                      |      stun       |      stun       | 3478  |   UDP    |       Active        | Potential conflict with: ispy-agent-dvr                 |
-| logitech-media-server      |    playertcp    |  slimprototcp   | 3483  |   TCP    |       Active        | -                                                       |
-| logitech-media-server      |    playerudp    |  slimprotoudp   | 3483  |   UDP    |       Active        | -                                                       |
-| ombi                       |      main       |      main       | 3579  |   TCP    |       Active        | -                                                       |
-| ipfs                       |    peer-tcp     |    peer-tcp     | 4001  |   TCP    |       Active        | -                                                       |
-| ipfs                       |    peer-udp     |    peer-udp     | 4001  |   UDP    |       Active        | -                                                       |
-| quassel-core               |      main       |      main       | 4242  |   TCP    |       Active        | -                                                       |
-| navidrome                  |      main       |      main       | 4533  |   TCP    |       Active        | -                                                       |
-| requestrr                  |      main       |      main       | 4545  |   TCP    |       Active        | -                                                       |
-| guacd                      |      main       |      main       | 4822  |   TCP    |       Active        | -                                                       |
-| appdaemon                  |      main       |      main       | 5050  |   TCP    |       Active        | -                                                       |
-| overseerr                  |      main       |      main       | 5055  |   TCP    |       Active        | -                                                       |
-| nzbhydra                   |      main       |      main       | 5076  |   TCP    |       Active        | -                                                       |
-| lazylibrarian              |      main       |      main       | 5299  |   TCP    |       Active        | -                                                       |
-| syslog-ng                  |   syslog-udp    |   syslog-udp    | 5514  |   UDP    |       Active        | -                                                       |
-| n8n                        |      main       |      main       | 5678  |   TCP    |       Active        | -                                                       |
-| esphome                    |      main       |      main       | 6052  |   TCP    |       Active        | -                                                       |
-| novnc                      |      main       |      main       | 6080  |   TCP    |       Active        | -                                                       |
-| domoticz                   |      comm1      |      comm1      | 6144  |   TCP    |       Active        | -                                                       |
-| znc                        |      main       |      main       | 6501  |   TCP    |       Active        | -                                                       |
-| syslog-ng                  |   syslog-tls    |   syslog-tls    | 6514  |   TCP    |       Active        | -                                                       |
-| embystat                   |      main       |      main       | 6555  |   TCP    |       Active        | -                                                       |
-| deemix                     |      main       |      main       | 6595  |   TCP    |       Active        | -                                                       |
-| syslog-ng                  |      main       |      main       | 6601  |   TCP    |       Active        | -                                                       |
-| ngircd                     |      main       |      main       | 6667  |   TCP    |       Active        | -                                                       |
-| bazarr                     |      main       |      main       | 6767  |   TCP    |       Active        | -                                                       |
-| unifi                      |    speedtest    |    speedtest    | 6789  |   TCP    |       Active        | -                                                       |
-| aria2                      |      main       |      main       | 6800  |   TCP    |       Active        | -                                                       |
-| qbittorrent                |     torrent     |     torrent     | 6881  |   TCP    |       Active        | -                                                       |
-| qbittorrent                |   torrentudp    |   torrentudp    | 6881  |   UDP    |       Active        | -                                                       |
-| aria2                      |     listen      |     listen      | 6888  |   TCP    |       Active        | -                                                       |
-| logitech-media-server      |      main       |      main       | 7000  |   TCP    |       Active        | -                                                       |
-| clamav                     |     milter      |     milter      | 7357  |   TCP    |       Active        | -                                                       |
-| foldingathome              |      main       |      main       | 7396  |   TCP    |       Active        | -                                                       |
-| haste-server               |      main       |      main       | 7777  |   TCP    |       Active        | -                                                       |
-| satisfactory               |      main       |      main       | 7777  |   UDP    |       Active        | -                                                       |
-| nextcloud                  |     backend     |       hpb       | 7867  |   TCP    |       Active        | -                                                       |
-| nextcloud                  |     backend     |   hpb-metrics   | 7868  |   TCP    |       Active        | -                                                       |
-| radarr                     |      main       |      main       | 7878  |   TCP    |       Active        | -                                                       |
-| synapse                    |      main       |      main       | 8008  |   TCP    |       Active        | -                                                       |
-| omada-controller           |      main       |      main       | 8043  |  HTTPS   |       Active        | -                                                       |
-| odoo                       |      main       |      main       | 8069  |   TCP    |       Active        | -                                                       |
-| odoo                       |      odoo       |     xmlrpcs     | 8071  |   TCP    |       Active        | -                                                       |
-| odoo                       |      odoo       |   longpolling   | 8072  |   TCP    |       Active        | -                                                       |
-| unifi                      |      comm       |      comm       | 8080  |   TCP    |       Active        | -                                                       |
-| calibre                    |    webserver    |    webserver    | 8081  |   TCP    |       Active        | -                                                       |
-| traccar                    |      main       |      main       | 8082  |   TCP    |       Active        | -                                                       |
-| calibre-web                |      main       |      main       | 8083  |   TCP    |       Active        | -                                                       |
-| calibre                    |      main       |      main       | 8084  |   TCP    |       Active        | -                                                       |
-| htpcmanager                |      main       |      main       | 8085  |   TCP    |       Active        | -                                                       |
-| synclounge                 |      main       |      main       | 8088  |   TCP    |       Active        | -                                                       |
-| mylar                      |      main       |      main       | 8090  |   TCP    |       Active        | -                                                       |
-| zwavejs2mqtt               |      main       |      main       | 8091  |   TCP    |       Active        | -                                                       |
-| jellyfin                   |      main       |      main       | 8096  |   TCP    |       Active        | -                                                       |
-| deluge                     |      main       |      main       | 8112  |   TCP    |       Active        | -                                                       |
-| home-assistant             |      main       |      main       | 8123  |   TCP    |       Active        | -                                                       |
-| tautulli                   |      main       |      main       | 8181  |   TCP    |       Active        | -                                                       |
-| flaresolverr               |      main       |      main       | 8191  |   TCP    |       Active        | -                                                       |
-| duplicati                  |      main       |      main       | 8200  |   TCP    |       Active        | -                                                       |
-| tdarr                      |      main       |      main       | 8265  |   TCP    |       Active        | -                                                       |
-| tdarr                      |      comm       |      comm       | 8266  |   TCP    |       Active        | -                                                       |
-| beets                      |      main       |      main       | 8337  |   TCP    |       Active        | -                                                       |
-| syncthing                  |      main       |      main       | 8384  |   TCP    |       Active        | -                                                       |
-| unifi                      |      main       |      main       | 8443  |  HTTPS   |       Active        | -                                                       |
-| synapse                    |   federation    |   federation    | 8448  |   TCP    |       Active        | -                                                       |
-| gaps                       |      main       |      main       | 8484  |   TCP    |       Active        | -                                                       |
-| lidarr                     |      main       |      main       | 8686  |   TCP    |       Active        | -                                                       |
-| readarr                    |      main       |      main       | 8787  |   TCP    |       Active        | -                                                       |
-| omada-controller           |      comm       |      comm       | 8843  |  HTTPS   |       Active        | Potential conflict with: unifi                          |
-| unifi                      |   guestportal   |    websecure    | 8843  |  HTTPS   |       Active        | Potential conflict with: omada-controller               |
-| minisatip                  |      main       |      main       | 8875  |   TCP    |       Active        | -                                                       |
-| unifi                      |   guestportal   |       web       | 8880  |   HTTP   |       Active        | -                                                       |
-| resilio-sync               |      main       |      main       | 8888  |   TCP    |       Active        | -                                                       |
-| sonarr                     |      main       |      main       | 8989  |   TCP    |       Active        | -                                                       |
-| nextcloud                  |     backend     |       fpm       | 9000  |   TCP    |       Active        | -                                                       |
-| traefik                    |      main       |      main       | 9000  |   HTTP   |       Active        | -                                                       |
-| valheim                    |      main       |      main       | 9010  |   TCP    |       Active        | -                                                       |
-| valheim                    |   supervisor    |   supervisor    | 9011  |   TCP    |       Active        | -                                                       |
-| traefik                    |       tcp       |       web       | 9080  |   HTTP   |       Active        | -                                                       |
-| pihole                     |      main       |      main       | 9089  |   TCP    |       Active        | -                                                       |
-| minio-console              |      main       |      main       | 9090  |   TCP    |       Active        | Potential conflict with: nextcloud                      |
-| nextcloud                  |     backend     |    imaginary    | 9090  |   TCP    |       Active        | Potential conflict with: minio-console                  |
-| authelia                   |      main       |      main       | 9091  |   TCP    |       Active        | -                                                       |
-| synapse                    |   replication   |   replication   | 9092  |   TCP    |       Active        | -                                                       |
-| synapse                    |     metrics     |     metrics     | 9093  |   TCP    |       Active        | -                                                       |
-| jackett                    |      main       |      main       | 9117  |   HTTP   |       Active        | -                                                       |
-| unpoller                   |      main       |     metrics     | 9130  |   TCP    |       Active        | -                                                       |
-| traefik                    |     metrics     |     metrics     | 9180  |   HTTP   |       Active        | -                                                       |
-| owncloud-ocis              |      main       |      main       | 9200  |  HTTPS   |       Active        | -                                                       |
-| traefik                    |       tcp       |    websecure    | 9443  |  HTTPS   |       Active        | -                                                       |
-| prowlarr                   |      main       |      main       | 9696  |   TCP    |       Active        | -                                                       |
-| uptimerobot-prometheus     |      main       |     metrics     | 9705  |   TCP    |       Active        | -                                                       |
-| kodi-headless              |      esall      |      esall      | 9777  |   UDP    |       Active        | -                                                       |
-| speedtest-exporter         |      main       |     metrics     | 9798  |   TCP    |       Active        | -                                                       |
-| tvheadend                  |      main       |      main       | 9981  |   TCP    |       Active        | -                                                       |
-| tvheadend                  |      htsp       |      htsp       | 9982  |   TCP    |       Active        | -                                                       |
-| teamspeak3                 |      voice      |      voice      | 9987  |   UDP    |       Active        | -                                                       |
-| guacamole-client           |      main       |      main       | 9998  |   TCP    |       Active        | -                                                       |
-| stash                      |      main       |      main       | 9999  |   TCP    |       Active        | -                                                       |
-| ser2sock                   |      main       |      main       | 10000 |   TCP    |       Active        | -                                                       |
-| deconz                     |    websocket    |    websocket    | 10001 |   TCP    |       Active        | -                                                       |
-| deconz                     |       vnc       |       vnc       | 10002 |   TCP    |       Active        | -                                                       |
-| external-service           |      main       |      main       | 10003 |   TCP    |       Active        | -                                                       |
-| nullserv                   |      main       |      main       | 10004 |   TCP    |       Active        | -                                                       |
-| nullserv                   |      https      |      https      | 10005 |   TCP    |       Active        | -                                                       |
-| apache-musicindex          |      main       |      main       | 10006 |   TCP    |       Active        | -                                                       |
-| cryptofolio                |      main       |      main       | 10007 |   TCP    |       Active        | -                                                       |
-| deconz                     |      main       |      main       | 10008 |   TCP    |       Active        | -                                                       |
-| dsmr-reader                |      main       |      main       | 10009 |   TCP    |       Active        | -                                                       |
-| freshrss                   |      main       |      main       | 10010 |   TCP    |       Active        | -                                                       |
-| teamspeak3                 |      main       |      main       | 10011 |   TCP    |       Active        | -                                                       |
-| grav                       |      main       |      main       | 10012 |   TCP    |       Active        | -                                                       |
-| grocy                      |      main       |      main       | 10013 |   TCP    |       Active        | -                                                       |
-| heimdall                   |      main       |      main       | 10014 |   TCP    |       Active        | -                                                       |
-| kanboard                   |      main       |      main       | 10015 |   TCP    |       Active        | -                                                       |
-| librespeed                 |      main       |      main       | 10016 |   TCP    |       Active        | -                                                       |
-| lychee                     |      main       |      main       | 10017 |   TCP    |       Active        | -                                                       |
-| mealie                     |      main       |      main       | 10018 |   TCP    |       Active        | -                                                       |
-| muximux                    |      main       |      main       | 10019 |   TCP    |       Active        | -                                                       |
-| nextcloud                  |      main       |      main       | 10020 |   TCP    |       Active        | -                                                       |
-| octoprint                  |      main       |      main       | 10021 |   TCP    |       Active        | -                                                       |
-| organizr                   |      main       |      main       | 10022 |   TCP    |       Active        | -                                                       |
-| gonic                      |      main       |      main       | 10023 |   TCP    |       Active        | -                                                       |
-| pgadmin                    |      main       |      main       | 10024 |   TCP    |       Active        | -                                                       |
-| photoshow                  |      main       |      main       | 10025 |   TCP    |       Active        | -                                                       |
-| phpldapadmin               |      main       |      main       | 10026 |   TCP    |       Active        | -                                                       |
-| pixapop                    |      main       |      main       | 10028 |   TCP    |       Active        | -                                                       |
-| recipes                    |      main       |      main       | 10029 |   TCP    |       Active        | -                                                       |
-| smokeping                  |      main       |      main       | 10030 |   TCP    |       Active        | -                                                       |
-| truecommand                |      main       |      main       | 10031 |   TCP    |       Active        | -                                                       |
-| audacity                   |      main       |      main       | 10032 |   TCP    |       Active        | -                                                       |
-| digikam                    |      main       |      main       | 10033 |   TCP    |       Active        | -                                                       |
-| doublecommander            |      main       |      main       | 10034 |   TCP    |       Active        | -                                                       |
-| filezilla                  |      main       |      main       | 10035 |   TCP    |       Active        | -                                                       |
-| flood                      |      main       |      main       | 10036 |   TCP    |       Active        | -                                                       |
-| gitea                      |      main       |      main       | 10037 |   TCP    |       Active        | -                                                       |
-| grafana                    |      main       |      main       | 10038 |   HTTP   |       Active        | -                                                       |
-| icantbelieveitsnotvaletudo |      main       |      main       | 10039 |   TCP    |       Active        | -                                                       |
-| littlelink                 |      main       |      main       | 10040 |   TCP    |       Active        | -                                                       |
-| mstream                    |      main       |      main       | 10041 |   TCP    |       Active        | -                                                       |
-| remmina                    |      main       |      main       | 10042 |   TCP    |       Active        | -                                                       |
-| onlyoffice-document-server |      main       |      main       | 10043 |   TCP    |       Active        | -                                                       |
-| dashdot                    |      main       |      main       | 10044 |   TCP    |       Active        | -                                                       |
-| wikijs                     |      main       |      main       | 10045 |   TCP    |       Active        | -                                                       |
-| zwavejs2mqtt               |       ws        |       ws        | 10046 |   TCP    |       Active        | -                                                       |
-| airsonic                   |      main       |      main       | 10047 |   TCP    |       Active        | -                                                       |
-| booksonic-air              |      main       |      main       | 10048 |   TCP    |       Active        | -                                                       |
-| deepstack                  |      main       |      main       | 10049 |   TCP    |       Active        | -                                                       |
-| spotweb                    |      main       |      main       | 10050 |   TCP    |       Active        | -                                                       |
-| firefox-syncserver         |      main       |      main       | 10051 |   TCP    |       Active        | -                                                       |
-| whoogle                    |      main       |      main       | 10052 |   TCP    |       Active        | -                                                       |
-| handbrake                  |      main       |      main       | 10053 |   TCP    |       Active        | -                                                       |
-| jdownloader2               |      main       |      main       | 10054 |   TCP    |       Active        | -                                                       |
-| handbrake                  |       vnc       |       vnc       | 10055 |   TCP    |       Active        | -                                                       |
-| jdownloader2               |       vnc       |       vnc       | 10056 |   TCP    |       Active        | -                                                       |
-| nzbget                     |      main       |      main       | 10057 |   TCP    |       Active        | -                                                       |
-| friendica                  |      main       |      main       | 10058 |   TCP    |       Active        | -                                                       |
-| logitech-media-server      |       cli       |       cli       | 10059 |   TCP    |       Active        | -                                                       |
-| etherpad                   |      main       |      main       | 10060 |   TCP    |       Active        | -                                                       |
-| thelounge                  |      main       |      main       | 10061 |   TCP    |       Active        | -                                                       |
-| oscam                      |      main       |      main       | 10062 |   TCP    |       Active        | -                                                       |
-| code-server                |      main       |      main       | 10063 |   TCP    |       Active        | -                                                       |
-| headphones                 |      main       |      main       | 10064 |   TCP    |       Active        | -                                                       |
-| hyperion-ng                |      main       |      main       | 10065 |   TCP    |       Active        | -                                                       |
-| sickgear                   |      main       |      main       | 10066 |   TCP    |       Active        | -                                                       |
-| sickchill                  |      main       |      main       | 10067 |   TCP    |       Active        | -                                                       |
-| medusa                     |      main       |      main       | 10068 |   TCP    |       Active        | -                                                       |
-| babybuddy                  |      main       |      main       | 10069 |   TCP    |       Active        | -                                                       |
-| cloud9                     |      main       |      main       | 10070 |   TCP    |       Active        | -                                                       |
-| dizquetv                   |      main       |      main       | 10071 |   TCP    |       Active        | -                                                       |
-| focalboard                 |      main       |      main       | 10072 |   TCP    |       Active        | -                                                       |
-| golinks                    |      main       |      main       | 10073 |   TCP    |       Active        | -                                                       |
-| healthchecks               |      main       |      main       | 10074 |   TCP    |       Active        | -                                                       |
-| pyload                     |      main       |      main       | 10075 |   TCP    |       Active        | -                                                       |
-| shorturl                   |      main       |      main       | 10076 |   TCP    |       Active        | -                                                       |
-| static                     |      main       |      main       | 10077 |   TCP    |       Active        | -                                                       |
-| twtxt                      |      main       |      main       | 10078 |   TCP    |       Active        | -                                                       |
-| emby                       |      main       |      main       | 10079 |   TCP    |       Active        | -                                                       |
-| davos                      |      main       |      main       | 10081 |   TCP    |       Active        | -                                                       |
-| fireflyiii                 |      main       |      main       | 10082 |   TCP    |       Active        | -                                                       |
-| fossil                     |      main       |      main       | 10083 |   TCP    |       Active        | -                                                       |
-| gotify                     |      main       |      main       | 10084 |   TCP    |       Active        | -                                                       |
-| komga                      |      main       |      main       | 10085 |   TCP    |       Active        | -                                                       |
-| prometheus                 |      main       |      main       | 10086 |   HTTP   |       Active        | -                                                       |
-| prometheus                 |  alertmanager   |  alertmanager   | 10087 |   HTTP   |       Active        | -                                                       |
-| owncast                    |      main       |      main       | 10088 |   TCP    |       Active        | -                                                       |
-| prometheus                 |     promop      |     promop      | 10089 |   HTTP   |       Active        | -                                                       |
-| openkm                     |      main       |      main       | 10090 |   TCP    |       Active        | -                                                       |
-| miniflux                   |      main       |      main       | 10091 |   TCP    |       Active        | -                                                       |
-| piaware                    |      main       |      main       | 10092 |   TCP    |       Active        | -                                                       |
-| podgrab                    |      main       |      main       | 10093 |   TCP    |       Active        | -                                                       |
-| pretend-youre-xyzzy        |      main       |      main       | 10094 |   TCP    |       Active        | -                                                       |
-| qbittorrent                |      main       |      main       | 10095 |   TCP    |       Active        | -                                                       |
-| reg                        |      main       |      main       | 10096 |   TCP    |       Active        | -                                                       |
-| sabnzbd                    |      main       |      main       | 10097 |   TCP    |       Active        | -                                                       |
-| shiori                     |      main       |      main       | 10098 |   TCP    |       Active        | -                                                       |
-| statping                   |      main       |      main       | 10099 |   TCP    |       Active        | -                                                       |
-| teedy                      |      main       |      main       | 10100 |   TCP    |       Active        | -                                                       |
-| promcord                   |      main       |     metrics     | 10101 |   TCP    |       Active        | -                                                       |
-| vaultwarden                |      main       |      main       | 10102 |   TCP    |       Active        | -                                                       |
-| zigbee2mqtt                |      main       |      main       | 10103 |   TCP    |       Active        | -                                                       |
-| tt-rss                     |      main       |      main       | 10104 |   TCP    |       Active        | -                                                       |
-| minio                      |       api       |       api       | 10106 |   TCP    |       Active        | -                                                       |
-| minio                      |      main       |      main       | 10107 |   TCP    |       Active        | -                                                       |
-| transmission               |      main       |      main       | 10109 |   TCP    |       Active        | -                                                       |
-| anonaddy                   |      main       |      main       | 10110 |   TCP    |       Active        | -                                                       |
-| blog                       |      main       |      main       | 10111 |   TCP    |       Active        | -                                                       |
-| bookstack                  |      main       |      main       | 10112 |   TCP    |       Active        | -                                                       |
-| quassel-core               |      ident      |      ident      | 10113 |   TCP    |       Active        | -                                                       |
-| icinga2                    |      main       |      main       | 10114 |   TCP    |       Active        | -                                                       |
-| icinga2                    |      https      |      https      | 10115 |   TCP    |       Active        | -                                                       |
-| icinga2                    |       api       |       api       | 10116 |   TCP    |       Active        | -                                                       |
-| leantime                   |      main       |      main       | 10117 |   TCP    |       Active        | -                                                       |
-| monica                     |      main       |      main       | 10119 |   TCP    |       Active        | -                                                       |
-| snipe-it                   |      main       |      main       | 10120 |   TCP    |       Active        | -                                                       |
-| xbackbone                  |      main       |      main       | 10121 |   TCP    |       Active        | -                                                       |
-| airsonic-advanced          |      main       |      main       | 10122 |   TCP    |       Active        | -                                                       |
-| dokuwiki                   |      main       |      main       | 10123 |   TCP    |       Active        | -                                                       |
-| emulatorjs                 |      front      |      front      | 10124 |   TCP    |       Active        | -                                                       |
-| ipfs                       |      main       |      main       | 10125 |   TCP    |       Active        | -                                                       |
-| nano-wallet                |      main       |      main       | 10126 |   TCP    |       Active        | -                                                       |
-| projectsend                |      main       |      main       | 10127 |   TCP    |       Active        | -                                                       |
-| endlessh                   |      main       |      main       | 10128 |   TCP    |       Active        | -                                                       |
-| darktable                  |      main       |      main       | 10129 |   TCP    |       Active        | -                                                       |
-| emulatorjs                 |      main       |      main       | 10130 |   TCP    |       Active        | -                                                       |
-| firefox                    |      main       |      main       | 10131 |   TCP    |       Active        | -                                                       |
-| hedgedoc                   |      main       |      main       | 10132 |   TCP    |       Active        | -                                                       |
-| libreoffice                |      main       |      main       | 10133 |   TCP    |       Active        | -                                                       |
-| mysql-workbench            |      main       |      main       | 10134 |   TCP    |       Active        | -                                                       |
-| openvscode-server          |      main       |      main       | 10135 |   TCP    |       Active        | -                                                       |
-| pidgin                     |      main       |      main       | 10136 |   TCP    |       Active        | -                                                       |
-| sqlitebrowser              |      main       |      main       | 10137 |   TCP    |       Active        | -                                                       |
-| emulatorjs                 |      ipfs       |      ipfs       | 10138 |   TCP    |       Active        | -                                                       |
-| couchpotato                |      main       |      main       | 10139 |   TCP    |       Active        | -                                                       |
-| paperless-ng               |      main       |      main       | 10140 |   TCP    |       Active        | -                                                       |
-| papermerge                 |      main       |      main       | 10141 |   TCP    |       Active        | -                                                       |
-| boinc                      |      main       |      main       | 10142 |   TCP    |       Active        | -                                                       |
-| dillinger                  |      main       |      main       | 10143 |   TCP    |       Active        | -                                                       |
-| domoticz                   |      main       |      main       | 10144 |   TCP    |       Active        | -                                                       |
-| fleet                      |      main       |      main       | 10145 |   TCP    |       Active        | -                                                       |
-| habridge                   |      main       |      main       | 10146 |   TCP    |       Active        | -                                                       |
-| ipfs                       |     gateway     |     gateway     | 10147 |   TCP    |       Active        | -                                                       |
-| kodi-headless              |      main       |      main       | 10148 |   TCP    |       Active        | -                                                       |
-| pwndrop                    |      main       |      main       | 10149 |   TCP    |       Active        | -                                                       |
-| pydio-cells                |      main       |      main       | 10150 |  HTTPS   |       Active        | -                                                       |
-| scrutiny                   |      main       |      main       | 10151 |   TCP    |       Active        | -                                                       |
-| kodi-headless              |    websocket    |    websocket    | 10152 |   TCP    |       Active        | -                                                       |
-| shlink                     |      main       |      main       | 10153 |   TCP    |       Active        | -                                                       |
-| shlink-web-client          |      main       |      main       | 10154 |   HTTP   |       Active        | -                                                       |
-| airdcpp-webclient          |      main       |      main       | 10155 |   TCP    |       Active        | -                                                       |
-| trilium-notes              |      main       |      main       | 10156 |   HTTP   |       Active        | -                                                       |
-| unmanic                    |      main       |      main       | 10157 |   TCP    |       Active        | -                                                       |
-| weblate                    |      main       |      main       | 10158 |   TCP    |       Active        | -                                                       |
-| photoview                  |      main       |      main       | 10159 |   TCP    |       Active        | -                                                       |
-| linkace                    |      main       |      main       | 10160 |   TCP    |       Active        | -                                                       |
-| librephotos                |      main       |      main       | 10161 |   TCP    |       Active        | -                                                       |
-| pydio-cells                |   healthcheck   |   healthcheck   | 10162 |   TCP    |       Active        | -                                                       |
-| grist                      |      main       |      main       | 10163 |   TCP    |       Active        | -                                                       |
-| grist                      |       api       |       api       | 10164 |   TCP    |       Active        | -                                                       |
-| budge                      |      main       |      main       | 10165 |   TCP    |       Active        | -                                                       |
-| alist                      |      main       |      main       | 10167 |   TCP    |       Active        | -                                                       |
-| ddns-go                    |      main       |      main       | 10168 |   TCP    |       Active        | -                                                       |
-| openhab                    |      main       |      main       | 10169 |   HTTP   |       Active        | -                                                       |
-| openhab                    |      https      |      https      | 10170 |  HTTPS   |       Active        | -                                                       |
-| redmine                    |      main       |      main       | 10171 |   TCP    |       Active        | -                                                       |
-| matomo                     |      main       |      main       | 10172 |   HTTP   |       Active        | -                                                       |
-| matomo                     |      https      |      https      | 10173 |  HTTPS   |       Active        | -                                                       |
-| flexget                    |      main       |      main       | 10174 |   TCP    |       Active        | -                                                       |
-| qinglong                   |      main       |      main       | 10176 |   TCP    |       Active        | -                                                       |
-| lanraragi                  |      main       |      main       | 10177 |   TCP    |       Active        | -                                                       |
-| homer                      |      main       |      main       | 10178 |   TCP    |       Active        | -                                                       |
-| tinymediamanager           |      main       |      main       | 10179 |   TCP    |       Active        | -                                                       |
-| makemkv                    |      main       |      main       | 10180 |   TCP    |       Active        | -                                                       |
-| makemkv                    |       vnc       |       vnc       | 10181 |   TCP    |       Active        | -                                                       |
-| nextpvr                    |      main       |      main       | 10183 |   TCP    |       Active        | -                                                       |
-| ispy-agent-dvr             |      main       |      main       | 10184 |   TCP    |       Active        | -                                                       |
-| koel                       |      main       |      main       | 10185 |   TCP    |       Active        | -                                                       |
-| hammond                    |      main       |      main       | 10186 |   TCP    |       Active        | -                                                       |
-| filebrowser                |      main       |      main       | 10187 |   TCP    |       Active        | -                                                       |
-| iyuuplus                   |      main       |      main       | 10188 |   TCP    |       Active        | -                                                       |
-| kavita                     |      main       |      main       | 10189 |   TCP    |       Active        | -                                                       |
-| zerotier                   |      main       |      main       | 10190 |   UDP    |       Active        | -                                                       |
-| rsshub                     |      main       |      main       | 10191 |   TCP    |       Active        | -                                                       |
-| wekan                      |      main       |      main       | 10192 |   TCP    |       Active        | -                                                       |
-| verysync                   |      main       |      main       | 10193 |   TCP    |       Active        | -                                                       |
-| browserless-chrome         |      main       |      main       | 10194 |   TCP    |       Active        | -                                                       |
-| kutt                       |      main       |      main       | 10195 |   TCP    |       Active        | -                                                       |
-| outline                    |      main       |      main       | 10196 |   TCP    |       Active        | -                                                       |
-| chevereto                  |      main       |      main       | 10197 |   TCP    |       Active        | -                                                       |
-| kimai                      |      main       |      main       | 10198 |   TCP    |       Active        | -                                                       |
-| double-take                |      main       |      main       | 10200 |   TCP    |       Active        | -                                                       |
-| ml-workspace               |      main       |      main       | 10201 |   TCP    |       Active        | -                                                       |
-| ferdi-server               |      main       |      main       | 10206 |   TCP    |       Active        | -                                                       |
-| typecho                    |      main       |      main       | 10207 |   TCP    |       Active        | -                                                       |
-| xwiki                      |      main       |      main       | 10208 |   TCP    |       Active        | -                                                       |
-| picoshare                  |      main       |      main       | 10209 |   TCP    |       Active        | -                                                       |
-| linkding                   |      main       |      main       | 10210 |   TCP    |       Active        | -                                                       |
-| pinry                      |      main       |      main       | 10213 |   TCP    |       Active        | -                                                       |
-| drawio                     |      main       |      main       | 10214 |   TCP    |       Active        | -                                                       |
-| snapdrop                   |      main       |      main       | 10215 |   TCP    |       Active        | -                                                       |
-| metube                     |      main       |      main       | 10216 |   TCP    |       Active        | -                                                       |
-| cyberchef                  |      main       |      main       | 10219 |   TCP    |       Active        | -                                                       |
-| vikunja                    |      main       |      main       | 10220 |   TCP    |       Active        | -                                                       |
-| website-shot               |      main       |      main       | 10221 |   TCP    |       Active        | -                                                       |
-| ntfy                       |      main       |      main       | 10222 |   TCP    |       Active        | -                                                       |
-| audiobookshelf             |      main       |      main       | 10223 |   TCP    |       Active        | -                                                       |
-| fluidd                     |      main       |      main       | 10224 |   TCP    |       Active        | -                                                       |
-| rss-bridge                 |      main       |      main       | 10225 |   TCP    |       Active        | -                                                       |
-| nocodb                     |      main       |      main       | 10226 |   TCP    |       Active        | -                                                       |
-| ddns-updater               |      main       |      main       | 10227 |   TCP    |       Active        | -                                                       |
-| baserow                    |      main       |      main       | 10228 |   TCP    |       Active        | -                                                       |
-| inventree                  |      main       |      main       | 10231 |   TCP    |       Active        | -                                                       |
-| mkvtoolnix                 |      main       |      main       | 10236 |   TCP    |       Active        | -                                                       |
-| mkvtoolnix                 |       vnc       |       vnc       | 10237 |   TCP    |       Active        | -                                                       |
-| kopia                      |      main       |      main       | 10238 |   TCP    |       Active        | -                                                       |
-| mattermost                 |      main       |      main       | 10239 |   TCP    |       Active        | -                                                       |
-| commento-plusplus          |      main       |      main       | 10240 |   TCP    |       Active        | -                                                       |
-| jellyseerr                 |      main       |      main       | 10241 |   TCP    |       Active        | -                                                       |
-| fileflows                  |      main       |      main       | 10242 |   TCP    |       Active        | -                                                       |
-| meshroom                   |      main       |      main       | 10243 |   TCP    |       Active        | -                                                       |
-| clarkson                   |      main       |      main       | 10244 |   TCP    |       Active        | Potential conflict with: theme-park                     |
-| homarr                     |      main       |      main       | 10245 |   TCP    |       Active        | -                                                       |
-| openspeedtest              |      main       |      main       | 10256 |   HTTP   |       Active        | -                                                       |
-| libreddit                  |      main       |      main       | 10257 |   TCP    |       Active        | -                                                       |
-| prometheus                 |     thanos      |     thanos      | 10901 |   HTTP   |       Active        | -                                                       |
-| storj-node                 |      main       |      main       | 14002 |   TCP    |       Active        | -                                                       |
-| satisfactory               |     beacon      |     beacon      | 15000 |   UDP    |       Active        | -                                                       |
-| satisfactory               |      query      |      query      | 15777 |   UDP    |       Active        | -                                                       |
-| minecraft-bedrock          |      main       |      main       | 19132 |   UDP    |       Active        | -                                                       |
-| hyperion-ng                | boblightservice | boblightservice | 19333 |   TCP    |       Active        | -                                                       |
-| hyperion-ng                |   jsonservice   |   jsonservice   | 19444 |   TCP    |       Active        | -                                                       |
-| hyperion-ng                | protobufservice | protobufservice | 19445 |   TCP    |       Active        | -                                                       |
-| netdata                    |      main       |      main       | 19999 |   TCP    |       Active        | -                                                       |
-| syncthing                  |    discovery    |    discovery    | 21027 |   UDP    |       Active        | -                                                       |
-| airdcpp-webclient          | unencrypted-tcp | unencrypted-tcp | 21248 |   TCP    |       Active        | -                                                       |
-| airdcpp-webclient          |   search-udp    |   search-udp    | 21248 |   UDP    |       Active        | -                                                       |
-| airdcpp-webclient          |  encrypted-tcp  |  encrypted-tcp  | 21249 |   TCP    |       Active        | -                                                       |
-| syncthing                  |    listeners    |       tcp       | 22000 |   TCP    |       Active        | -                                                       |
-| syncthing                  |  listeners-udp  |       udp       | 22000 |   UDP    |       Active        | -                                                       |
-| impostor-server            |      main       |      main       | 22023 |   UDP    |       Active        | -                                                       |
-| verysync                   |     bt-udp2     |     bt-udp2     | 22027 |   UDP    |       Active        | -                                                       |
-| verysync                   |     bt-udp1     |     bt-udp1     | 22037 |   UDP    |       Active        | -                                                       |
-| joplin-server              |      main       |      main       | 22300 |   TCP    |       Active        | -                                                       |
-| verysync                   |      data       |      data       | 22330 |   TCP    |       Active        | -                                                       |
-| minecraft-java             |      main       |      main       | 25565 |   TCP    |       Active        | -                                                       |
-| minecraft-java             |      rcon       |      rcon       | 25575 |   TCP    |       Active        | -                                                       |
-| storj-node                 |     coretcp     |     coretcp     | 28967 |   TCP    |       Active        | -                                                       |
-| storj-node                 |     coreudp     |     coreudp     | 28967 |   UDP    |       Active        | -                                                       |
-| omada-controller           |    omada-udp    |   omada-udp1    | 29810 |   UDP    |       Active        | -                                                       |
-| omada-controller           |    omada-tcp    |   omada-tcp1    | 29811 |   TCP    |       Active        | -                                                       |
-| omada-controller           |    omada-tcp    |   omada-tcp2    | 29812 |   TCP    |       Active        | -                                                       |
-| omada-controller           |    omada-tcp    |   omada-tcp3    | 29813 |   TCP    |       Active        | -                                                       |
-| omada-controller           |    omada-tcp    |   omada-tcp4    | 29814 |   TCP    |       Active        | -                                                       |
-| minetest                   |      main       |      main       | 30000 |   UDP    |       Active        | -                                                       |
-| teamspeak3                 |      files      |      files      | 30033 |   TCP    |       Active        | -                                                       |
-| plex                       |      main       |      main       | 32400 |   TCP    |       Active        | -                                                       |
-| pydio-cells                |      gprc       |      gprc       | 33060 |   TCP    |       Active        | -                                                       |
-| xteve                      |      main       |      main       | 34400 |   TCP    |       Active        | -                                                       |
-| foldingathome              |     control     |     control     | 36330 |   TCP    |       Active        | -                                                       |
-| habridge                   |      comm       |      comm       | 50000 |   TCP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc0     | 50000 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc1     | 50001 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc2     | 50002 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc3     | 50003 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc4     | 50004 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc5     | 50005 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc6     | 50006 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc7     | 50007 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc8     | 50008 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |     webrtc9     | 50009 |   UDP    |       Active        | -                                                       |
-| ispy-agent-dvr             |     webrtc      |    webrtc10     | 50010 |   UDP    |       Active        | -                                                       |
-| appdaemon                  |       tcp       |       tcp       | 51050 |   TCP    |       Active        | -                                                       |
-| podgrab                    |       tcp       |       tcp       | 51080 |   TCP    |       Active        | -                                                       |
-| deluge                     |     torrent     |       tcp       | 51413 |   TCP    |       Active        | -                                                       |
-| deluge                     |   torrent-udp   |       udp       | 51413 |   UDP    |       Active        | -                                                       |
-| transmission               |     torrent     |     torrent     | 51414 |   TCP    |       Active        | -                                                       |
-| transmission               |   torrentudp    |   torrentudp    | 51414 |   UDP    |       Active        | -                                                       |
-| wg-easy                    |       vpn       |       vpn       | 51820 |   UDP    |       Active        | -                                                       |
-| wg-easy                    |      main       |      main       | 51821 |   TCP    |       Active        | -                                                       |
-| resilio-sync               |     bt-tcp      |     bt-tcp      | 55555 |   TCP    |       Active        | -                                                       |
-| resilio-sync               |     bt-udp      |     bt-udp      | 55555 |   UDP    |       Active        | -                                                       |
-| quassel-web                |      main       |      main       | 64080 |   TCP    |       Active        | -                                                       |
+| 应用                         |       服务        |                                                                                                   端口名称                                                                                                   |  端口   | Protocol |  状态   | 说明                     |
+|:-------------------------- |:---------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----:|:--------:|:-----:|:---------------------- |
+| 自定义应用                      |        -        |                                                                                                    -                                                                                                     |   -   |    -     | 服务未定义 | -                      |
+| 冶金                         |        -        |                                                                                                    -                                                                                                     |   -   |    -     | 服务未定义 | -                      |
+| amcrest2mqtt               |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| 自动音乐下载器                    |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| ddclient                   |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| doplarr                    |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| 管道数                        |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| leaf2mqtt                  |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| 质子网桥                       |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| rsnapshot                  |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| tdarr节点                    |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| traefik                    |       udp       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| 解压器                        |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| webgrabplus                |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 服务已禁用 | -                      |
+| 增益模式                       |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 端口已禁用 | -                      |
+| 速度测试导出器                    |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 端口已禁用 | -                      |
+| unpoller                   |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 端口已禁用 | -                      |
+| 上级机器人-promeus              |       主要的       |                                                                                                    -                                                                                                     |   -   |    -     | 端口已禁用 | -                      |
+| 安诺纳迪文                      |       毫秒        |                                                                                                    毫秒                                                                                                    |  25   |   TCP    |  已启用  | 可能与质子桥冲突               |
+| 质子网桥                       |       毫秒        |                                                                                                    毫秒                                                                                                    |  25   |   TCP    |  已启用  | 潜在冲突与厌恶的               |
+| k8s-网关                     |       主要的       |                                                                                                   主要的                                                                                                    |  53   |   UDP    |  已启用  | -                      |
+| 恒星座                        |       主要的       |                                                                                                   主要的                                                                                                    |  53   |   TCP    |  已启用  | 潜在的冲突与皮奥勒阿德-家居技术nitium |
+| 恒星座                        |     dns-udp     |                                                                                                 dns-upd                                                                                                  |  53   |   UDP    |  已启用  | -                      |
+| pihole                     |     dns-tcp     |                                                                                                 dns-tcp                                                                                                  |  53   |   TCP    |  已启用  | 可能与家用技术宫发生冲突：          |
+| pihole                     |       dns       |                                                                                                   dns                                                                                                    |  53   |   UDP    |  已启用  | -                      |
+| openldap                   |       主要的       |                                                                                                   主要的                                                                                                    |  389  |   TCP    |  已启用  | -                      |
+| minisatip                  |      rtsp       |                                                                                                   rtsp                                                                                                   |  554  |   TCP    |  已启用  | -                      |
+| openldap                   |      单点贴子       |                                                                                                   单点贴子                                                                                                   |  636  |   TCP    |  已启用  | -                      |
+| strapi                     |       主要的       |                                                                                                   主要的                                                                                                    | 1337  |   TCP    |  已启用  | -                      |
+| domoticz                   |       逗号        |                                                                                                    逗号                                                                                                    | 1443  |   TCP    |  已启用  | -                      |
+| nntp2nntp                  |       主要的       |                                                                                                   主要的                                                                                                    | 1563  |   TCP    |  已启用  | -                      |
+| 毫秒                         |       主要的       |                                                                                                   主要的                                                                                                    | 1688  |   TCP    |  已启用  | -                      |
+| 弗莱德乌斯                      |       主要的       |                                                                                                   主要的                                                                                                    | 1812  |   UDP    |  已启用  | -                      |
+| 弗莱德乌斯                      |       核算：       |                                                                                                   核算：                                                                                                    | 1813  |   UDP    |  已启用  | -                      |
+| 节点红色                       |       主要的       |                                                                                                   主要的                                                                                                    | 1880  |   TCP    |  已启用  | -                      |
+| 蚊子                         |       主要的       |                                                                                                   主要的                                                                                                    | 1883  |   TCP    |  已启用  | -                      |
+| minisatip                  |       发现        |                                                                                                    发现                                                                                                    | 1900  |   UDP    |  已启用  | -                      |
+| 自拍照                        |      rtmp       |                                                                                                   rtmp                                                                                                   | 1935  |   TCP    |  已启用  | 可能与护卫舰冲突               |
+| ubooquity                  |       主要的       |                                                                                                   主要的                                                                                                    | 2202  |   TCP    |  已启用  | -                      |
+| ubooquity                  |       管理员       |                                                                                                   管理员                                                                                                    | 2203  |   TCP    |  已启用  | -                      |
+| gitea                      |        秒        |                                                                                                    秒                                                                                                     | 2222  |   TCP    |  已启用  | -                      |
+| 光标                         |       主要的       |                                                                                                   主要的                                                                                                    | 2342  |   TCP    |  已启用  | -                      |
+| 停靠人员组成                     |       主要的       |                                                                                                   主要的                                                                                                    | 2376  |   TCP    |  已启用  | -                      |
+| valheim                    |     valheim     |                                                                                                 valheim1                                                                                                 | 2456  |   UDP    |  已启用  | -                      |
+| valheim                    |     valheim     |                                                                                                 valheim2                                                                                                 | 2457  |   UDP    |  已启用  | -                      |
+| valheim                    |     valheim     |                                                                                                 valheim3                                                                                                 | 2458  |   UDP    |  已启用  | -                      |
+| 连线                         |       主要的       |                                                                                                   主要的                                                                                                    | 3000  |   TCP    |  已启用  | -                      |
+| 高时钟                        |       主要的       |                                                                                                   主要的                                                                                                    | 3001  |   TCP    |  已启用  | -                      |
+| 瓦尔登省                       |        秒        |                                                                                                    秒                                                                                                     | 3012  |   TCP    |  已启用  | -                      |
+| loki                       |       主要的       |                                                                                                   主要的                                                                                                    | 3100  |   HTTP   |  已启用  | -                      |
+| jdownloader2               |      myjd       |                                                                                                   myjd                                                                                                   | 3129  |   TCP    |  已启用  | -                      |
+| pylon                      |       主要的       |                                                                                                   主要的                                                                                                    | 3131  |   TCP    |  已启用  | -                      |
+| clamav                     |       主要的       |                                                                                                   主要的                                                                                                    | 3310  |   TCP    |  已启用  | -                      |
+| ispy-agent-dvr             |       转动        |                                                                                                    转动                                                                                                    | 3478  |   UDP    |  已启用  | 潜在冲突与unifi             |
+| unifi                      |       猪肉。       |                                                                                                   猪肉。                                                                                                    | 3478  |   UDP    |  已启用  | 潜在冲突与ispy-agent-dvr    |
+| logitech-media-服务器         |       播放器       |                                                                                               slimprototcp                                                                                               | 3483  |   TCP    |  已启用  | -                      |
+| logitech-media-服务器         |       播放器       |                                                                                                slingtoudp                                                                                                | 3483  |   UDP    |  已启用  | -                      |
+| ombi                       |       主要的       |                                                                                                   主要的                                                                                                    | 3579  |   TCP    |  已启用  | -                      |
+| ipfs                       |       对等点       |                                                                                                   对等点                                                                                                    | 4001  |   TCP    |  已启用  | -                      |
+| ipfs                       |       对等点       |                                                                                                   对等点                                                                                                    | 4001  |   UDP    |  已启用  | -                      |
+| 四面核体                       |       主要的       |                                                                                                   主要的                                                                                                    | 4242  |   TCP    |  已启用  | -                      |
+| navidrome                  |       主要的       |                                                                                                   主要的                                                                                                    | 4533  |   TCP    |  已启用  | -                      |
+| 请求者                        |       主要的       |                                                                                                   主要的                                                                                                    | 4545  |   TCP    |  已启用  | -                      |
+| 瓜克德                        |       主要的       |                                                                                                   主要的                                                                                                    | 4822  |   TCP    |  已启用  | -                      |
+| appdaemon                  |       主要的       |                                                                                                   主要的                                                                                                    | 5050  |   TCP    |  已启用  | -                      |
+| 监督者                        |       主要的       |                                                                                                   主要的                                                                                                    | 5055  |   TCP    |  已启用  | -                      |
+| nzbhydra                   |       主要的       |                                                                                                   主要的                                                                                                    | 5076  |   TCP    |  已启用  | -                      |
+| lazylibrarian              |       主要的       |                                                                                                   主要的                                                                                                    | 5299  |   TCP    |  已启用  | -                      |
+| syslog-ng                  |   syslog-udp    |                                                                                                syslog-udp                                                                                                | 5514  |   UDP    |  已启用  | -                      |
+| 无                          |       主要的       |                                                                                                   主要的                                                                                                    | 5678  |   TCP    |  已启用  | -                      |
+| 眼镜                         |       主要的       |                                                                                                   主要的                                                                                                    | 6052  |   TCP    |  已启用  | -                      |
+| novnc                      |       主要的       |                                                                                                   主要的                                                                                                    | 6080  |   TCP    |  已启用  | -                      |
+| domoticz                   |       逗号1       |                                                                                                   逗号1                                                                                                    | 6144  |   TCP    |  已启用  | -                      |
+| znc                        |       主要的       |                                                                                                   主要的                                                                                                    | 6501  |   TCP    |  已启用  | -                      |
+| syslog-ng                  |    系统日志-tls     |                                                                                                 系统日志-tls                                                                                                 | 6514  |   TCP    |  已启用  | -                      |
+| embystat                   |       主要的       |                                                                                                   主要的                                                                                                    | 6555  |   TCP    |  已启用  | -                      |
+| 认为ix                       |       主要的       |                                                                                                   主要的                                                                                                    | 6595  |   TCP    |  已启用  | -                      |
+| syslog-ng                  |       主要的       |                                                                                                   主要的                                                                                                    | 6601  |   TCP    |  已启用  | -                      |
+| ngircd                     |       主要的       |                                                                                                   主要的                                                                                                    | 6667  |   TCP    |  已启用  | -                      |
+| bazarr                     |       主要的       |                                                                                                   主要的                                                                                                    | 6767  |   TCP    |  已启用  | -                      |
+| unifi                      |      速度测试       |                                                                                                   速度测试                                                                                                   | 6789  |   TCP    |  已启用  | -                      |
+| aria2                      |       主要的       |                                                                                                   主要的                                                                                                    | 6800  |   TCP    |  已启用  | -                      |
+| qbitTorrent                |       种子        |                                                                                                    种子                                                                                                    | 6881  |   TCP    |  已启用  | -                      |
+| qbitTorrent                |   Torrentudp    |                                                                                                Torrentudp                                                                                                | 6881  |   UDP    |  已启用  | -                      |
+| aria2                      |       监听        |                                                                                                    监听                                                                                                    | 6888  |   TCP    |  已启用  | -                      |
+| logitech-media-服务器         |       主要的       |                                                                                                   主要的                                                                                                    | 7000  |   TCP    |  已启用  | -                      |
+| clamav                     |     milter      |                                                                                                  milter                                                                                                  | 7357  |   TCP    |  已启用  | -                      |
+| foldingathome              |       主要的       |                                                                                                   主要的                                                                                                    | 7396  |   TCP    |  已启用  | -                      |
+| haste-server               |       主要的       |                                                                                                   主要的                                                                                                    | 7777  |   TCP    |  已启用  | -                      |
+| 满意的                        |       主要的       |                                                                                                   主要的                                                                                                    | 7777  |   UDP    |  已启用  | -                      |
+| 下个云端                       |       后端        |                                                                                                   hpb                                                                                                    | 7867  |   TCP    |  已启用  | -                      |
+| 下个云端                       |       后端        |                                                                                               hpb-metrics                                                                                                | 7868  |   TCP    |  已启用  | -                      |
+| 雷达尔                        |       主要的       |                                                                                                   主要的                                                                                                    | 7878  |   TCP    |  已启用  | -                      |
+| synapse                    |       主要的       |                                                                                                   主要的                                                                                                    | 8008  |   TCP    |  已启用  | -                      |
+| omada-controller           |       主要的       |                                                                                                   主要的                                                                                                    | 8043  |  HTTPS   |  已启用  | -                      |
+| odoo                       |       主要的       |                                                                                                   主要的                                                                                                    | 8069  |   TCP    |  已启用  | -                      |
+| odoo                       |      odoo       |                                                                                                 xmlrpcs                                                                                                  | 8071  |   TCP    |  已启用  | -                      |
+| odoo                       |      odoo       |                                                                                                   延期投票                                                                                                   | 8072  |   TCP    |  已启用  | -                      |
+| unifi                      |       逗号        |                                                                                                    逗号                                                                                                    | 8080  |   TCP    |  已启用  | -                      |
+| calibre                    |     Web 服务器     |                                                                                                 Web 服务器                                                                                                  | 8081  |   TCP    |  已启用  | -                      |
+| traccar                    |       主要的       |                                                                                                   主要的                                                                                                    | 8082  |   TCP    |  已启用  | -                      |
+| 口径网络                       |       主要的       |                                                                                                   主要的                                                                                                    | 8083  |   TCP    |  已启用  | -                      |
+| calibre                    |       主要的       |                                                                                                   主要的                                                                                                    | 8084  |   TCP    |  已启用  | -                      |
+| htpcmanager                |       主要的       |                                                                                                   主要的                                                                                                    | 8085  |   TCP    |  已启用  | -                      |
+| synclounge                 |       主要的       |                                                                                                   主要的                                                                                                    | 8088  |   TCP    |  已启用  | -                      |
+| mylar                      |       主要的       |                                                                                                   主要的                                                                                                    | 8090  |   TCP    |  已启用  | -                      |
+| zwavejs2mqtt               |       主要的       |                                                                                                   主要的                                                                                                    | 8091  |   TCP    |  已启用  | -                      |
+| jellyfin                   |       主要的       |                                                                                                   主要的                                                                                                    | 8096  |   TCP    |  已启用  | -                      |
+| 淡入淡出                       |       主要的       |                                                                                                   主要的                                                                                                    | 8112  |   TCP    |  已启用  | -                      |
+| 家庭助理                       |       主要的       |                                                                                                   主要的                                                                                                    | 8123  |   TCP    |  已启用  | -                      |
+| 陶乌尔利                       |       主要的       |                                                                                                   主要的                                                                                                    | 8181  |   TCP    |  已启用  | -                      |
+| Flexverr                   |       主要的       |                                                                                                   主要的                                                                                                    | 8191  |   TCP    |  已启用  | -                      |
+| 重复项                        |       主要的       |                                                                                                   主要的                                                                                                    | 8200  |   TCP    |  已启用  | -                      |
+| tdarr                      |       主要的       |                                                                                                   主要的                                                                                                    | 8265  |   TCP    |  已启用  | -                      |
+| tdarr                      |       逗号        |                                                                                                    逗号                                                                                                    | 8266  |   TCP    |  已启用  | -                      |
+| 蜜蜂：                        |       主要的       |                                                                                                   主要的                                                                                                    | 8337  |   TCP    |  已启用  | -                      |
+| 同步                         |       主要的       |                                                                                                   主要的                                                                                                    | 8384  |   TCP    |  已启用  | -                      |
+| unifi                      |       主要的       |                                                                                                   主要的                                                                                                    | 8443  |  HTTPS   |  已启用  | -                      |
+| synapse                    |   Federation    |                                                                                                Federation                                                                                                | 8448  |   TCP    |  已启用  | -                      |
+| 差距                         |       主要的       |                                                                                                   主要的                                                                                                    | 8484  |   TCP    |  已启用  | -                      |
+| lidarr                     |       主要的       |                                                                                                   主要的                                                                                                    | 8686  |   TCP    |  已启用  | -                      |
+| 读取r                        |       主要的       |                                                                                                   主要的                                                                                                    | 8787  |   TCP    |  已启用  | -                      |
+| omada-controller           |       逗号        |                                                                                                    逗号                                                                                                    | 8843  |  HTTPS   |  已启用  | 潜在冲突与unifi             |
+| unifi                      |     访客门户网站      |                                                                                                  web安全                                                                                                   | 8843  |  HTTPS   |  已启用  | 潜在冲突与omada控制器冲突        |
+| minisatip                  |       主要的       |                                                                                                   主要的                                                                                                    | 8875  |   TCP    |  已启用  | -                      |
+| unifi                      |     访客门户网站      |                                                                                                    网页                                                                                                    | 8880  |   HTTP   |  已启用  | -                      |
+| 复原力同步                      |       主要的       |                                                                                                   主要的                                                                                                    | 8888  |   TCP    |  已启用  | -                      |
+| 声纳尔                        |       主要的       |                                                                                                   主要的                                                                                                    | 8989  |   TCP    |  已启用  | -                      |
+| 下个云端                       |       后端        | 英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺/英尺 | 9000  |   TCP    |  已启用  | -                      |
+| traefik                    |       主要的       |                                                                                                   主要的                                                                                                    | 9000  |   HTTP   |  已启用  | -                      |
+| valheim                    |       主要的       |                                                                                                   主要的                                                                                                    | 9010  |   TCP    |  已启用  | -                      |
+| valheim                    |       监督员       |                                                                                                   监督员                                                                                                    | 9011  |   TCP    |  已启用  | -                      |
+| traefik                    |       tcp       |                                                                                                    网页                                                                                                    | 9080  |   HTTP   |  已启用  | -                      |
+| pihole                     |       主要的       |                                                                                                   主要的                                                                                                    | 9089  |   TCP    |  已启用  | -                      |
+| 小型控制台                      |       主要的       |                                                                                                   主要的                                                                                                    | 9090  |   TCP    |  已启用  | 可能与下一个云发生冲突            |
+| 下个云端                       |       后端        |                                                                                                imaginary                                                                                                 | 9090  |   TCP    |  已启用  | 潜在冲突与微型控制台             |
+| authelia                   |       主要的       |                                                                                                   主要的                                                                                                    | 9091  |   TCP    |  已启用  | -                      |
+| synapse                    |       复制        |                                                                                                    复制                                                                                                    | 9092  |   TCP    |  已启用  | -                      |
+| synapse                    |       度量        |                                                                                                    度量                                                                                                    | 9093  |   TCP    |  已启用  | -                      |
+| jackett                    |       主要的       |                                                                                                   主要的                                                                                                    | 9117  |   HTTP   |  已启用  | -                      |
+| unpoller                   |       主要的       |                                                                                                    度量                                                                                                    | 9130  |   TCP    |  已启用  | -                      |
+| traefik                    |       度量        |                                                                                                    度量                                                                                                    | 9180  |   HTTP   |  已启用  | -                      |
+| owncloud-ocis              |       主要的       |                                                                                                   主要的                                                                                                    | 9200  |  HTTPS   |  已启用  | -                      |
+| traefik                    |       tcp       |                                                                                                  web安全                                                                                                   | 9443  |  HTTPS   |  已启用  | -                      |
+| prowlarr                   |       主要的       |                                                                                                   主要的                                                                                                    | 9696  |   TCP    |  已启用  | -                      |
+| 上级机器人-promeus              |       主要的       |                                                                                                    度量                                                                                                    | 9705  |   TCP    |  已启用  | -                      |
+| 无头数                        |      esall      |                                                                                                  esall                                                                                                   | 9777  |   UDP    |  已启用  | -                      |
+| 速度测试导出器                    |       主要的       |                                                                                                    度量                                                                                                    | 9798  |   TCP    |  已启用  | -                      |
+| tvheadend                  |       主要的       |                                                                                                   主要的                                                                                                    | 9981  |   TCP    |  已启用  | -                      |
+| tvheadend                  |       小时数       |                                                                                                   小时数                                                                                                    | 9982  |   TCP    |  已启用  | -                      |
+| 团队语音3                      |       語言        |                                                                                                    語言                                                                                                    | 9987  |   UDP    |  已启用  | -                      |
+| guacamole-client           |       主要的       |                                                                                                   主要的                                                                                                    | 9998  |   TCP    |  已启用  | -                      |
+| 隐藏的                        |       主要的       |                                                                                                   主要的                                                                                                    | 9999  |   TCP    |  已启用  | -                      |
+| ser2sock                   |       主要的       |                                                                                                   主要的                                                                                                    | 10000 |   TCP    |  已启用  | -                      |
+| 十月                         |    websocket    |                                                                                                websocket                                                                                                 | 10001 |   TCP    |  已启用  | -                      |
+| 十月                         |       vnc       |                                                                                                   vnc                                                                                                    | 10002 |   TCP    |  已启用  | -                      |
+| 外部服务                       |       主要的       |                                                                                                   主要的                                                                                                    | 10003 |   TCP    |  已启用  | -                      |
+| nullserv                   |       主要的       |                                                                                                   主要的                                                                                                    | 10004 |   TCP    |  已启用  | -                      |
+| nullserv                   |      https      |                                                                                                  https                                                                                                   | 10005 |   TCP    |  已启用  | -                      |
+| apache-musicindex          |       主要的       |                                                                                                   主要的                                                                                                    | 10006 |   TCP    |  已启用  | -                      |
+| 加密Folio                    |       主要的       |                                                                                                   主要的                                                                                                    | 10007 |   TCP    |  已启用  | -                      |
+| 十月                         |       主要的       |                                                                                                   主要的                                                                                                    | 10008 |   TCP    |  已启用  | -                      |
+| dsmr-reader                |       主要的       |                                                                                                   主要的                                                                                                    | 10009 |   TCP    |  已启用  | -                      |
+| 淡入淡出                       |       主要的       |                                                                                                   主要的                                                                                                    | 10010 |   TCP    |  已启用  | -                      |
+| 团队语音3                      |       主要的       |                                                                                                   主要的                                                                                                    | 10011 |   TCP    |  已启用  | -                      |
+| 拉夫                         |       主要的       |                                                                                                   主要的                                                                                                    | 10012 |   TCP    |  已启用  | -                      |
+| 格罗西文                       |       主要的       |                                                                                                   主要的                                                                                                    | 10013 |   TCP    |  已启用  | -                      |
+| heimdall                   |       主要的       |                                                                                                   主要的                                                                                                    | 10014 |   TCP    |  已启用  | -                      |
+| kanboard                   |       主要的       |                                                                                                   主要的                                                                                                    | 10015 |   TCP    |  已启用  | -                      |
+| librespeed                 |       主要的       |                                                                                                   主要的                                                                                                    | 10016 |   TCP    |  已启用  | -                      |
+| lychee                     |       主要的       |                                                                                                   主要的                                                                                                    | 10017 |   TCP    |  已启用  | -                      |
+| 肉类                         |       主要的       |                                                                                                   主要的                                                                                                    | 10018 |   TCP    |  已启用  | -                      |
+| muximux                    |       主要的       |                                                                                                   主要的                                                                                                    | 10019 |   TCP    |  已启用  | -                      |
+| 下个云端                       |       主要的       |                                                                                                   主要的                                                                                                    | 10020 |   TCP    |  已启用  | -                      |
+| octoprint                  |       主要的       |                                                                                                   主要的                                                                                                    | 10021 |   TCP    |  已启用  | -                      |
+| 组织者                        |       主要的       |                                                                                                   主要的                                                                                                    | 10022 |   TCP    |  已启用  | -                      |
+| 发光                         |       主要的       |                                                                                                   主要的                                                                                                    | 10023 |   TCP    |  已启用  | -                      |
+| pgadmin                    |       主要的       |                                                                                                   主要的                                                                                                    | 10024 |   TCP    |  已启用  | -                      |
+| 光标                         |       主要的       |                                                                                                   主要的                                                                                                    | 10025 |   TCP    |  已启用  | -                      |
+| phpldapadmin               |       主要的       |                                                                                                   主要的                                                                                                    | 10026 |   TCP    |  已启用  | -                      |
+| pixapop                    |       主要的       |                                                                                                   主要的                                                                                                    | 10028 |   TCP    |  已启用  | -                      |
+| 配方                         |       主要的       |                                                                                                   主要的                                                                                                    | 10029 |   TCP    |  已启用  | -                      |
+| 吸烟中                        |       主要的       |                                                                                                   主要的                                                                                                    | 10030 |   TCP    |  已启用  | -                      |
+| truecommand                |       主要的       |                                                                                                   主要的                                                                                                    | 10031 |   TCP    |  已启用  | -                      |
+| 粗略性                        |       主要的       |                                                                                                   主要的                                                                                                    | 10032 |   TCP    |  已启用  | -                      |
+| 数码                         |       主要的       |                                                                                                   主要的                                                                                                    | 10033 |   TCP    |  已启用  | -                      |
+| doublecommander            |       主要的       |                                                                                                   主要的                                                                                                    | 10034 |   TCP    |  已启用  | -                      |
+| filezilla                  |       主要的       |                                                                                                   主要的                                                                                                    | 10035 |   TCP    |  已启用  | -                      |
+| 水流                         |       主要的       |                                                                                                   主要的                                                                                                    | 10036 |   TCP    |  已启用  | -                      |
+| gitea                      |       主要的       |                                                                                                   主要的                                                                                                    | 10037 |   TCP    |  已启用  | -                      |
+| 草地                         |       主要的       |                                                                                                   主要的                                                                                                    | 10038 |   HTTP   |  已启用  | -                      |
+| icantbelieveitsnotvaletudo |       主要的       |                                                                                                   主要的                                                                                                    | 10039 |   TCP    |  已启用  | -                      |
+| littellink                 |       主要的       |                                                                                                   主要的                                                                                                    | 10040 |   TCP    |  已启用  | -                      |
+| 毫流                         |       主要的       |                                                                                                   主要的                                                                                                    | 10041 |   TCP    |  已启用  | -                      |
+| 雷米纳                        |       主要的       |                                                                                                   主要的                                                                                                    | 10042 |   TCP    |  已启用  | -                      |
+| 仅Office-document-server    |       主要的       |                                                                                                   主要的                                                                                                    | 10043 |   TCP    |  已启用  | -                      |
+| 破折点                        |       主要的       |                                                                                                   主要的                                                                                                    | 10044 |   TCP    |  已启用  | -                      |
+| 维基耶斯                       |       主要的       |                                                                                                   主要的                                                                                                    | 10045 |   TCP    |  已启用  | -                      |
+| zwavejs2mqtt               |        秒        |                                                                                                    秒                                                                                                     | 10046 |   TCP    |  已启用  | -                      |
+| 空声纳文                       |       主要的       |                                                                                                   主要的                                                                                                    | 10047 |   TCP    |  已启用  | -                      |
+| booksonic-air              |       主要的       |                                                                                                   主要的                                                                                                    | 10048 |   TCP    |  已启用  | -                      |
+| 深堆栈...                     |       主要的       |                                                                                                   主要的                                                                                                    | 10049 |   TCP    |  已启用  | -                      |
+| spotweb                    |       主要的       |                                                                                                   主要的                                                                                                    | 10050 |   TCP    |  已启用  | -                      |
+| firefox-syncserver         |       主要的       |                                                                                                   主要的                                                                                                    | 10051 |   TCP    |  已启用  | -                      |
+| whoogle                    |       主要的       |                                                                                                   主要的                                                                                                    | 10052 |   TCP    |  已启用  | -                      |
+| 手枪                         |       主要的       |                                                                                                   主要的                                                                                                    | 10053 |   TCP    |  已启用  | -                      |
+| jdownloader2               |       主要的       |                                                                                                   主要的                                                                                                    | 10054 |   TCP    |  已启用  | -                      |
+| 手枪                         |       vnc       |                                                                                                   vnc                                                                                                    | 10055 |   TCP    |  已启用  | -                      |
+| jdownloader2               |       vnc       |                                                                                                   vnc                                                                                                    | 10056 |   TCP    |  已启用  | -                      |
+| nzbget                     |       主要的       |                                                                                                   主要的                                                                                                    | 10057 |   TCP    |  已启用  | -                      |
+| 朋友卡                        |       主要的       |                                                                                                   主要的                                                                                                    | 10058 |   TCP    |  已启用  | -                      |
+| logitech-media-服务器         |       cli       |                                                                                                   cli                                                                                                    | 10059 |   TCP    |  已启用  | -                      |
+| etherpad                   |       主要的       |                                                                                                   主要的                                                                                                    | 10060 |   TCP    |  已启用  | -                      |
+| thelounge                  |       主要的       |                                                                                                   主要的                                                                                                    | 10061 |   TCP    |  已启用  | -                      |
+| oscam                      |       主要的       |                                                                                                   主要的                                                                                                    | 10062 |   TCP    |  已启用  | -                      |
+| 代码服务器                      |       主要的       |                                                                                                   主要的                                                                                                    | 10063 |   TCP    |  已启用  | -                      |
+| 耳机                         |       主要的       |                                                                                                   主要的                                                                                                    | 10064 |   TCP    |  已启用  | -                      |
+| 超音速-ng                     |       主要的       |                                                                                                   主要的                                                                                                    | 10065 |   TCP    |  已启用  | -                      |
+| sickgear                   |       主要的       |                                                                                                   主要的                                                                                                    | 10066 |   TCP    |  已启用  | -                      |
+| sickchill                  |       主要的       |                                                                                                   主要的                                                                                                    | 10067 |   TCP    |  已启用  | -                      |
+| medusa                     |       主要的       |                                                                                                   主要的                                                                                                    | 10068 |   TCP    |  已启用  | -                      |
+| 宝宝贝座                       |       主要的       |                                                                                                   主要的                                                                                                    | 10069 |   TCP    |  已启用  | -                      |
+| 云9                         |       主要的       |                                                                                                   主要的                                                                                                    | 10070 |   TCP    |  已启用  | -                      |
+| dizquetv                   |       主要的       |                                                                                                   主要的                                                                                                    | 10071 |   TCP    |  已启用  | -                      |
+| focalboard                 |       主要的       |                                                                                                   主要的                                                                                                    | 10072 |   TCP    |  已启用  | -                      |
+| 金币                         |       主要的       |                                                                                                   主要的                                                                                                    | 10073 |   TCP    |  已启用  | -                      |
+| 健康检查                       |       主要的       |                                                                                                   主要的                                                                                                    | 10074 |   TCP    |  已启用  | -                      |
+| pyload                     |       主要的       |                                                                                                   主要的                                                                                                    | 10075 |   TCP    |  已启用  | -                      |
+| shorturl                   |       主要的       |                                                                                                   主要的                                                                                                    | 10076 |   TCP    |  已启用  | -                      |
+| 静态的                        |       主要的       |                                                                                                   主要的                                                                                                    | 10077 |   TCP    |  已启用  | -                      |
+| twtxt                      |       主要的       |                                                                                                   主要的                                                                                                    | 10078 |   TCP    |  已启用  | -                      |
+| emby                       |       主要的       |                                                                                                   主要的                                                                                                    | 10079 |   TCP    |  已启用  | -                      |
+| davos                      |       主要的       |                                                                                                   主要的                                                                                                    | 10081 |   TCP    |  已启用  | -                      |
+| fireflyiii                 |       主要的       |                                                                                                   主要的                                                                                                    | 10082 |   TCP    |  已启用  | -                      |
+| 矿石                         |       主要的       |                                                                                                   主要的                                                                                                    | 10083 |   TCP    |  已启用  | -                      |
+| 正在校正                       |       主要的       |                                                                                                   主要的                                                                                                    | 10084 |   TCP    |  已启用  | -                      |
+| komga                      |       主要的       |                                                                                                   主要的                                                                                                    | 10085 |   TCP    |  已启用  | -                      |
+| 普梅尤斯                       |       主要的       |                                                                                                   主要的                                                                                                    | 10086 |   HTTP   |  已启用  | -                      |
+| 普梅尤斯                       |      警报管理器      |                                                                                                  警报管理器                                                                                                   | 10087 |   HTTP   |  已启用  | -                      |
+| 自拍照                        |       主要的       |                                                                                                   主要的                                                                                                    | 10088 |   TCP    |  已启用  | -                      |
+| 普梅尤斯                       |      促销活动       |                                                                                                   促销活动                                                                                                   | 10089 |   HTTP   |  已启用  | -                      |
+| 开放公里                       |       主要的       |                                                                                                   主要的                                                                                                    | 10090 |   TCP    |  已启用  | -                      |
+| miniflux                   |       主要的       |                                                                                                   主要的                                                                                                    | 10091 |   TCP    |  已启用  | -                      |
+| piaware                    |       主要的       |                                                                                                   主要的                                                                                                    | 10092 |   TCP    |  已启用  | -                      |
+| podgrab                    |       主要的       |                                                                                                   主要的                                                                                                    | 10093 |   TCP    |  已启用  | -                      |
+| 预切-你再度xyzy                 |       主要的       |                                                                                                   主要的                                                                                                    | 10094 |   TCP    |  已启用  | -                      |
+| qbitTorrent                |       主要的       |                                                                                                   主要的                                                                                                    | 10095 |   TCP    |  已启用  | -                      |
+| reg                        |       主要的       |                                                                                                   主要的                                                                                                    | 10096 |   TCP    |  已启用  | -                      |
+| sabnzbd                    |       主要的       |                                                                                                   主要的                                                                                                    | 10097 |   TCP    |  已启用  | -                      |
+| shiori                     |       主要的       |                                                                                                   主要的                                                                                                    | 10098 |   TCP    |  已启用  | -                      |
+| statping                   |       主要的       |                                                                                                   主要的                                                                                                    | 10099 |   TCP    |  已启用  | -                      |
+| teedy                      |       主要的       |                                                                                                   主要的                                                                                                    | 10100 |   TCP    |  已启用  | -                      |
+| 增益模式                       |       主要的       |                                                                                                    度量                                                                                                    | 10101 |   TCP    |  已启用  | -                      |
+| 瓦尔登省                       |       主要的       |                                                                                                   主要的                                                                                                    | 10102 |   TCP    |  已启用  | -                      |
+| zigbee2mqtt                |       主要的       |                                                                                                   主要的                                                                                                    | 10103 |   TCP    |  已启用  | -                      |
+| tt-rss                     |       主要的       |                                                                                                   主要的                                                                                                    | 10104 |   TCP    |  已启用  | -                      |
+| 迷你的                        |       api       |                                                                                                   api                                                                                                    | 10106 |   TCP    |  已启用  | -                      |
+| 迷你的                        |       主要的       |                                                                                                   主要的                                                                                                    | 10107 |   TCP    |  已启用  | -                      |
+| 传输方式                       |       主要的       |                                                                                                   主要的                                                                                                    | 10109 |   TCP    |  已启用  | -                      |
+| 安诺纳迪文                      |       主要的       |                                                                                                   主要的                                                                                                    | 10110 |   TCP    |  已启用  | -                      |
+| 博客                         |       主要的       |                                                                                                   主要的                                                                                                    | 10111 |   TCP    |  已启用  | -                      |
+| 书店                         |       主要的       |                                                                                                   主要的                                                                                                    | 10112 |   TCP    |  已启用  | -                      |
+| 四面核体                       |       静音        |                                                                                                    静音                                                                                                    | 10113 |   TCP    |  已启用  | -                      |
+| icinga2                    |       主要的       |                                                                                                   主要的                                                                                                    | 10114 |   TCP    |  已启用  | -                      |
+| icinga2                    |      https      |                                                                                                  https                                                                                                   | 10115 |   TCP    |  已启用  | -                      |
+| icinga2                    |       api       |                                                                                                   api                                                                                                    | 10116 |   TCP    |  已启用  | -                      |
+| 清理时间                       |       主要的       |                                                                                                   主要的                                                                                                    | 10117 |   TCP    |  已启用  | -                      |
+| 莫尼卡                        |       主要的       |                                                                                                   主要的                                                                                                    | 10119 |   TCP    |  已启用  | -                      |
+| 代码片段                       |       主要的       |                                                                                                   主要的                                                                                                    | 10120 |   TCP    |  已启用  | -                      |
+| x骨头                        |       主要的       |                                                                                                   主要的                                                                                                    | 10121 |   TCP    |  已启用  | -                      |
+| 气声纳向导                      |       主要的       |                                                                                                   主要的                                                                                                    | 10122 |   TCP    |  已启用  | -                      |
+| dokuwiki                   |       主要的       |                                                                                                   主要的                                                                                                    | 10123 |   TCP    |  已启用  | -                      |
+| emulatorjs                 |       前端        |                                                                                                    前端                                                                                                    | 10124 |   TCP    |  已启用  | -                      |
+| ipfs                       |       主要的       |                                                                                                   主要的                                                                                                    | 10125 |   TCP    |  已启用  | -                      |
+| nano-钱包                    |       主要的       |                                                                                                   主要的                                                                                                    | 10126 |   TCP    |  已启用  | -                      |
+| 项目结束                       |       主要的       |                                                                                                   主要的                                                                                                    | 10127 |   TCP    |  已启用  | -                      |
+| 无尽的                        |       主要的       |                                                                                                   主要的                                                                                                    | 10128 |   TCP    |  已启用  | -                      |
+| 黑色                         |       主要的       |                                                                                                   主要的                                                                                                    | 10129 |   TCP    |  已启用  | -                      |
+| emulatorjs                 |       主要的       |                                                                                                   主要的                                                                                                    | 10130 |   TCP    |  已启用  | -                      |
+| firefox                    |       主要的       |                                                                                                   主要的                                                                                                    | 10131 |   TCP    |  已启用  | -                      |
+| 套期赛克                       |       主要的       |                                                                                                   主要的                                                                                                    | 10132 |   TCP    |  已启用  | -                      |
+| libreoffice                |       主要的       |                                                                                                   主要的                                                                                                    | 10133 |   TCP    |  已启用  | -                      |
+| mysql-工作台                  |       主要的       |                                                                                                   主要的                                                                                                    | 10134 |   TCP    |  已启用  | -                      |
+| openvscode-服务器             |       主要的       |                                                                                                   主要的                                                                                                    | 10135 |   TCP    |  已启用  | -                      |
+| pidgin                     |       主要的       |                                                                                                   主要的                                                                                                    | 10136 |   TCP    |  已启用  | -                      |
+| sqlitebrowser              |       主要的       |                                                                                                   主要的                                                                                                    | 10137 |   TCP    |  已启用  | -                      |
+| emulatorjs                 |      ipfs       |                                                                                                   ipfs                                                                                                   | 10138 |   TCP    |  已启用  | -                      |
+| 调度器                        |       主要的       |                                                                                                   主要的                                                                                                    | 10139 |   TCP    |  已启用  | -                      |
+| 无纸状态                       |       主要的       |                                                                                                   主要的                                                                                                    | 10140 |   TCP    |  已启用  | -                      |
+| 纸张合并                       |       主要的       |                                                                                                   主要的                                                                                                    | 10141 |   TCP    |  已启用  | -                      |
+| boinc                      |       主要的       |                                                                                                   主要的                                                                                                    | 10142 |   TCP    |  已启用  | -                      |
+| dillinger                  |       主要的       |                                                                                                   主要的                                                                                                    | 10143 |   TCP    |  已启用  | -                      |
+| domoticz                   |       主要的       |                                                                                                   主要的                                                                                                    | 10144 |   TCP    |  已启用  | -                      |
+| 机队                         |       主要的       |                                                                                                   主要的                                                                                                    | 10145 |   TCP    |  已启用  | -                      |
+| 哈布里堡                       |       主要的       |                                                                                                   主要的                                                                                                    | 10146 |   TCP    |  已启用  | -                      |
+| ipfs                       |       网关        |                                                                                                    网关                                                                                                    | 10147 |   TCP    |  已启用  | -                      |
+| 无头数                        |       主要的       |                                                                                                   主要的                                                                                                    | 10148 |   TCP    |  已启用  | -                      |
+| pwndrop                    |       主要的       |                                                                                                   主要的                                                                                                    | 10149 |   TCP    |  已启用  | -                      |
+| pydio-单元格                  |       主要的       |                                                                                                   主要的                                                                                                    | 10150 |  HTTPS   |  已启用  | -                      |
+| 检查                         |       主要的       |                                                                                                   主要的                                                                                                    | 10151 |   TCP    |  已启用  | -                      |
+| 无头数                        |    websocket    |                                                                                                websocket                                                                                                 | 10152 |   TCP    |  已启用  | -                      |
+| shlink                     |       主要的       |                                                                                                   主要的                                                                                                    | 10153 |   TCP    |  已启用  | -                      |
+| shlink-web-client          |       主要的       |                                                                                                   主要的                                                                                                    | 10154 |   HTTP   |  已启用  | -                      |
+| airdcpp-web客户端             |       主要的       |                                                                                                   主要的                                                                                                    | 10155 |   TCP    |  已启用  | -                      |
+| 三个注解                       |       主要的       |                                                                                                   主要的                                                                                                    | 10156 |   HTTP   |  已启用  | -                      |
+| 未曼文                        |       主要的       |                                                                                                   主要的                                                                                                    | 10157 |   TCP    |  已启用  | -                      |
+| weblate                    |       主要的       |                                                                                                   主要的                                                                                                    | 10158 |   TCP    |  已启用  | -                      |
+| 照片视图                       |       主要的       |                                                                                                   主要的                                                                                                    | 10159 |   TCP    |  已启用  | -                      |
+| 链接                         |       主要的       |                                                                                                   主要的                                                                                                    | 10160 |   TCP    |  已启用  | -                      |
+| librephotics               |       主要的       |                                                                                                   主要的                                                                                                    | 10161 |   TCP    |  已启用  | -                      |
+| pydio-单元格                  |      健康检查       |                                                                                                   健康检查                                                                                                   | 10162 |   TCP    |  已启用  | -                      |
+| 研发师                        |       主要的       |                                                                                                   主要的                                                                                                    | 10163 |   TCP    |  已启用  | -                      |
+| 研发师                        |       api       |                                                                                                   api                                                                                                    | 10164 |   TCP    |  已启用  | -                      |
+| 居中                         |       主要的       |                                                                                                   主要的                                                                                                    | 10165 |   TCP    |  已启用  | -                      |
+| 专辑                         |       主要的       |                                                                                                   主要的                                                                                                    | 10167 |   TCP    |  已启用  | -                      |
+| ddns-go                    |       主要的       |                                                                                                   主要的                                                                                                    | 10168 |   TCP    |  已启用  | -                      |
+| Openhab                    |       主要的       |                                                                                                   主要的                                                                                                    | 10169 |   HTTP   |  已启用  | -                      |
+| Openhab                    |      https      |                                                                                                  https                                                                                                   | 10170 |  HTTPS   |  已启用  | -                      |
+| redmine                    |       主要的       |                                                                                                   主要的                                                                                                    | 10171 |   TCP    |  已启用  | -                      |
+| matomo                     |       主要的       |                                                                                                   主要的                                                                                                    | 10172 |   HTTP   |  已启用  | -                      |
+| matomo                     |      https      |                                                                                                  https                                                                                                   | 10173 |  HTTPS   |  已启用  | -                      |
+| flexget                    |       主要的       |                                                                                                   主要的                                                                                                    | 10174 |   TCP    |  已启用  | -                      |
+| qinglong                   |       主要的       |                                                                                                   主要的                                                                                                    | 10176 |   TCP    |  已启用  | -                      |
+| 兰拉拉                        |       主要的       |                                                                                                   主要的                                                                                                    | 10177 |   TCP    |  已启用  | -                      |
+| 主人                         |       主要的       |                                                                                                   主要的                                                                                                    | 10178 |   TCP    |  已启用  | -                      |
+| tinymediamanager           |       主要的       |                                                                                                   主要的                                                                                                    | 10179 |   TCP    |  已启用  | -                      |
+| 马凯姆夫文                      |       主要的       |                                                                                                   主要的                                                                                                    | 10180 |   TCP    |  已启用  | -                      |
+| 马凯姆夫文                      |       vnc       |                                                                                                   vnc                                                                                                    | 10181 |   TCP    |  已启用  | -                      |
+| 下一个                        |       主要的       |                                                                                                   主要的                                                                                                    | 10183 |   TCP    |  已启用  | -                      |
+| ispy-agent-dvr             |       主要的       |                                                                                                   主要的                                                                                                    | 10184 |   TCP    |  已启用  | -                      |
+| koel                       |       主要的       |                                                                                                   主要的                                                                                                    | 10185 |   TCP    |  已启用  | -                      |
+| 锤子                         |       主要的       |                                                                                                   主要的                                                                                                    | 10186 |   TCP    |  已启用  | -                      |
+| 文件浏览器                      |       主要的       |                                                                                                   主要的                                                                                                    | 10187 |   TCP    |  已启用  | -                      |
+| iyuuplus                   |       主要的       |                                                                                                   主要的                                                                                                    | 10188 |   TCP    |  已启用  | -                      |
+| kavita                     |       主要的       |                                                                                                   主要的                                                                                                    | 10189 |   TCP    |  已启用  | -                      |
+| zerotier                   |       主要的       |                                                                                                   主要的                                                                                                    | 10190 |   UDP    |  已启用  | -                      |
+| rsshub                     |       主要的       |                                                                                                   主要的                                                                                                    | 10191 |   TCP    |  已启用  | -                      |
+| wekan                      |       主要的       |                                                                                                   主要的                                                                                                    | 10192 |   TCP    |  已启用  | -                      |
+| 每次同步                       |       主要的       |                                                                                                   主要的                                                                                                    | 10193 |   TCP    |  已启用  | -                      |
+| 无浏览器chrome                 |       主要的       |                                                                                                   主要的                                                                                                    | 10194 |   TCP    |  已启用  | -                      |
+| kutt                       |       主要的       |                                                                                                   主要的                                                                                                    | 10195 |   TCP    |  已启用  | -                      |
+| 大纲                         |       主要的       |                                                                                                   主要的                                                                                                    | 10196 |   TCP    |  已启用  | -                      |
+| 作弊模式                       |       主要的       |                                                                                                   主要的                                                                                                    | 10197 |   TCP    |  已启用  | -                      |
+| kimai                      |       主要的       |                                                                                                   主要的                                                                                                    | 10198 |   TCP    |  已启用  | -                      |
+| 双拍照                        |       主要的       |                                                                                                   主要的                                                                                                    | 10200 |   TCP    |  已启用  | -                      |
+| ml 工作区                     |       主要的       |                                                                                                   主要的                                                                                                    | 10201 |   TCP    |  已启用  | -                      |
+| ferdi-server               |       主要的       |                                                                                                   主要的                                                                                                    | 10206 |   TCP    |  已启用  | -                      |
+| typecho                    |       主要的       |                                                                                                   主要的                                                                                                    | 10207 |   TCP    |  已启用  | -                      |
+| xwiki                      |       主要的       |                                                                                                   主要的                                                                                                    | 10208 |   TCP    |  已启用  | -                      |
+| picoshare                  |       主要的       |                                                                                                   主要的                                                                                                    | 10209 |   TCP    |  已启用  | -                      |
+| 链接中                        |       主要的       |                                                                                                   主要的                                                                                                    | 10210 |   TCP    |  已启用  | -                      |
+| pinry                      |       主要的       |                                                                                                   主要的                                                                                                    | 10213 |   TCP    |  已启用  | -                      |
+| drawio                     |       主要的       |                                                                                                   主要的                                                                                                    | 10214 |   TCP    |  已启用  | -                      |
+| 快照                         |       主要的       |                                                                                                   主要的                                                                                                    | 10215 |   TCP    |  已启用  | -                      |
+| 米塔                         |       主要的       |                                                                                                   主要的                                                                                                    | 10216 |   TCP    |  已启用  | -                      |
+| 网上厨师                       |       主要的       |                                                                                                   主要的                                                                                                    | 10219 |   TCP    |  已启用  | -                      |
+| vikunja                    |       主要的       |                                                                                                   主要的                                                                                                    | 10220 |   TCP    |  已启用  | -                      |
+| 网站截图                       |       主要的       |                                                                                                   主要的                                                                                                    | 10221 |   TCP    |  已启用  | -                      |
+| 不使用                        |       主要的       |                                                                                                   主要的                                                                                                    | 10222 |   TCP    |  已启用  | -                      |
+| 音频书架                       |       主要的       |                                                                                                   主要的                                                                                                    | 10223 |   TCP    |  已启用  | -                      |
+| fluidd                     |       主要的       |                                                                                                   主要的                                                                                                    | 10224 |   TCP    |  已启用  | -                      |
+| rss-bridge                 |       主要的       |                                                                                                   主要的                                                                                                    | 10225 |   TCP    |  已启用  | -                      |
+| nocodb                     |       主要的       |                                                                                                   主要的                                                                                                    | 10226 |   TCP    |  已启用  | -                      |
+| dns-updater                |       主要的       |                                                                                                   主要的                                                                                                    | 10227 |   TCP    |  已启用  | -                      |
+| 底座                         |       主要的       |                                                                                                   主要的                                                                                                    | 10228 |   TCP    |  已启用  | -                      |
+| 发明树                        |       主要的       |                                                                                                   主要的                                                                                                    | 10231 |   TCP    |  已启用  | -                      |
+| mkvtoolnix                 |       主要的       |                                                                                                   主要的                                                                                                    | 10236 |   TCP    |  已启用  | -                      |
+| mkvtoolnix                 |       vnc       |                                                                                                   vnc                                                                                                    | 10237 |   TCP    |  已启用  | -                      |
+| 科皮亚                        |       主要的       |                                                                                                   主要的                                                                                                    | 10238 |   TCP    |  已启用  | -                      |
+| 最重要的                       |       主要的       |                                                                                                   主要的                                                                                                    | 10239 |   TCP    |  已启用  | -                      |
+| commento-plusplus          |       主要的       |                                                                                                   主要的                                                                                                    | 10240 |   TCP    |  已启用  | -                      |
+| jellyseerr                 |       主要的       |                                                                                                   主要的                                                                                                    | 10241 |   TCP    |  已启用  | -                      |
+| 文件流                        |       主要的       |                                                                                                   主要的                                                                                                    | 10242 |   TCP    |  已启用  | -                      |
+| meshroom                   |       主要的       |                                                                                                   主要的                                                                                                    | 10243 |   TCP    |  已启用  | -                      |
+| 克森文                        |       主要的       |                                                                                                   主要的                                                                                                    | 10244 |   TCP    |  已启用  | 可能与主题公园冲突              |
+| homar                      |       主要的       |                                                                                                   主要的                                                                                                    | 10245 |   TCP    |  已启用  | -                      |
+| openspeedtest              |       主要的       |                                                                                                   主要的                                                                                                    | 10256 |   HTTP   |  已启用  | -                      |
+| libreddit                  |       主要的       |                                                                                                   主要的                                                                                                    | 10257 |   TCP    |  已启用  | -                      |
+| 普梅尤斯                       |     thanos      |                                                                                                  thanos                                                                                                  | 10901 |   HTTP   |  已启用  | -                      |
+| storj节点                    |       主要的       |                                                                                                   主要的                                                                                                    | 14002 |   TCP    |  已启用  | -                      |
+| 满意的                        |       信标        |                                                                                                    信标                                                                                                    | 15000 |   UDP    |  已启用  | -                      |
+| 满意的                        |       查询        |                                                                                                    查询                                                                                                    | 15777 |   UDP    |  已启用  | -                      |
+| 矿工基石                       |       主要的       |                                                                                                   主要的                                                                                                    | 19132 |   UDP    |  已启用  | -                      |
+| 超音速-ng                     |   Boblight服务    |                                                                                                Boblight服务                                                                                                | 19333 |   TCP    |  已启用  | -                      |
+| 超音速-ng                     |   jsonservice   |                                                                                               jsonservice                                                                                                | 19444 |   TCP    |  已启用  | -                      |
+| 超音速-ng                     | protobufservice |                                                                                             protobufservice                                                                                              | 19445 |   TCP    |  已启用  | -                      |
+| netdata                    |       主要的       |                                                                                                   主要的                                                                                                    | 19999 |   TCP    |  已启用  | -                      |
+| 同步                         |       发现        |                                                                                                    发现                                                                                                    | 21027 |   UDP    |  已启用  | -                      |
+| airdcpp-web客户端             |    未加密的 tcp     |                                                                                                 未加密的 tcp                                                                                                 | 21248 |   TCP    |  已启用  | -                      |
+| airdcpp-web客户端             |     搜索-udp      |                                                                                                  搜索-udp                                                                                                  | 21248 |   UDP    |  已启用  | -                      |
+| airdcpp-web客户端             |     加密-tcp      |                                                                                                  加密-tcp                                                                                                  | 21249 |   TCP    |  已启用  | -                      |
+| 同步                         |       侦听器       |                                                                                                   tcp                                                                                                    | 22000 |   TCP    |  已启用  | -                      |
+| 同步                         |  listeners-udp  |                                                                                                   udp                                                                                                    | 22000 |   UDP    |  已启用  | -                      |
+| 冒名-服务器                     |       主要的       |                                                                                                   主要的                                                                                                    | 22023 |   UDP    |  已启用  | -                      |
+| 每次同步                       |     bt-udp2     |                                                                                                 bt-udp2                                                                                                  | 22027 |   UDP    |  已启用  | -                      |
+| 每次同步                       |     bt-udp1     |                                                                                                 bt-udp1                                                                                                  | 22037 |   UDP    |  已启用  | -                      |
+| joplin-服务器                 |       主要的       |                                                                                                   主要的                                                                                                    | 22300 |   TCP    |  已启用  | -                      |
+| 每次同步                       |       数据        |                                                                                                    数据                                                                                                    | 22330 |   TCP    |  已启用  | -                      |
+| 矿工-java                    |       主要的       |                                                                                                   主要的                                                                                                    | 25565 |   TCP    |  已启用  | -                      |
+| 矿工-java                    |      rcon       |                                                                                                   rcon                                                                                                   | 25575 |   TCP    |  已启用  | -                      |
+| storj节点                    |       椰子        |                                                                                                    椰子                                                                                                    | 28967 |   TCP    |  已启用  | -                      |
+| storj节点                    |     coreudp     |                                                                                                 coreudp                                                                                                  | 28967 |   UDP    |  已启用  | -                      |
+| omada-controller           |    omada-udp    |                                                                                                omada-udp1                                                                                                | 29810 |   UDP    |  已启用  | -                      |
+| omada-controller           |    omada-tcp    |                                                                                                omada-tcp1                                                                                                | 29811 |   TCP    |  已启用  | -                      |
+| omada-controller           |    omada-tcp    |                                                                                                omada-tcp2                                                                                                | 29812 |   TCP    |  已启用  | -                      |
+| omada-controller           |    omada-tcp    |                                                                                                omada-tcp3                                                                                                | 29813 |   TCP    |  已启用  | -                      |
+| omada-controller           |    omada-tcp    |                                                                                                omada-tcp4                                                                                                | 29814 |   TCP    |  已启用  | -                      |
+| 雷测试                        |       主要的       |                                                                                                   主要的                                                                                                    | 30000 |   UDP    |  已启用  | -                      |
+| 团队语音3                      |       文件        |                                                                                                    文件                                                                                                    | 30033 |   TCP    |  已启用  | -                      |
+| plexx                      |       主要的       |                                                                                                   主要的                                                                                                    | 32400 |   TCP    |  已启用  | -                      |
+| pydio-单元格                  |      gprc       |                                                                                                   gprc                                                                                                   | 33060 |   TCP    |  已启用  | -                      |
+| xteve                      |       主要的       |                                                                                                   主要的                                                                                                    | 34400 |   TCP    |  已启用  | -                      |
+| foldingathome              |       控制        |                                                                                                    控制                                                                                                    | 36330 |   TCP    |  已启用  | -                      |
+| 哈布里堡                       |       逗号        |                                                                                                    逗号                                                                                                    | 50000 |   TCP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                    湿度                                                                                                    | 50000 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                   湿润色1                                                                                                   | 50001 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                   湿润色2                                                                                                   | 50002 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                   湿润色3                                                                                                   | 50003 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                   湿润色4                                                                                                   | 50004 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                   湿盘5                                                                                                    | 50005 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                   湿润色6                                                                                                   | 50006 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                  湿布吉卡7                                                                                                   | 50007 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                   百叶片8                                                                                                   | 50008 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                 webrtc9                                                                                                  | 50009 |   UDP    |  已启用  | -                      |
+| ispy-agent-dvr             |       百叶窗       |                                                                                                  湿重c10                                                                                                   | 50010 |   UDP    |  已启用  | -                      |
+| appdaemon                  |       tcp       |                                                                                                   tcp                                                                                                    | 51050 |   TCP    |  已启用  | -                      |
+| podgrab                    |       tcp       |                                                                                                   tcp                                                                                                    | 51080 |   TCP    |  已启用  | -                      |
+| 淡入淡出                       |       种子        |                                                                                                   tcp                                                                                                    | 51413 |   TCP    |  已启用  | -                      |
+| 淡入淡出                       |   Torrent-udp   |                                                                                                   udp                                                                                                    | 51413 |   UDP    |  已启用  | -                      |
+| 传输方式                       |       种子        |                                                                                                    种子                                                                                                    | 51414 |   TCP    |  已启用  | -                      |
+| 传输方式                       |   Torrentudp    |                                                                                                Torrentudp                                                                                                | 51414 |   UDP    |  已启用  | -                      |
+| 宽松的                        |       vpn       |                                                                                                   vpn                                                                                                    | 51820 |   UDP    |  已启用  | -                      |
+| 宽松的                        |       主要的       |                                                                                                   主要的                                                                                                    | 51821 |   TCP    |  已启用  | -                      |
+| 复原力同步                      |     bt-tcp      |                                                                                                  bt-tcp                                                                                                  | 55555 |   TCP    |  已启用  | -                      |
+| 复原力同步                      |     bt-udp      |                                                                                                  bt-udp                                                                                                  | 55555 |   UDP    |  已启用  | -                      |
+| quassel-web                |       主要的       |                                                                                                   主要的                                                                                                    | 64080 |   TCP    |  已启用  | -                      |
 
-## Dependency
+## 依赖关系
 
-| App              | Service | Port Name | Port  | Protocol | Status | Note |
-|:---------------- |:-------:|:---------:|:-----:|:--------:|:------:|:---- |
-| promtail         |  main   |   main    | 3101  |   TCP    | Active | -    |
-| mariadb          |  main   |   main    | 3306  |   TCP    | Active | -    |
-| postgresql       |  main   |   main    | 5432  |   TCP    | Active | -    |
-| redis            |  main   |   main    | 6379  |   TCP    | Active | -    |
-| solr             |  main   |   main    | 8983  |   TCP    | Active | -    |
-| collabora-online |  main   |   main    | 10105 |   TCP    | Active | -    |
-| memcached        |  main   |   main    | 11211 |   TCP    | Active | -    |
-| mongodb          |  main   |   main    | 27017 |   TCP    | Active | -    |
+| 应用         | 服务  | 端口名称 |  端口   | Protocol | 状态  | 说明 |
+|:---------- |:---:|:----:|:-----:|:--------:|:---:|:-- |
+| promtail   | 主要的 | 主要的  | 3101  |   TCP    | 已启用 | -  |
+| mariadb    | 主要的 | 主要的  | 3306  |   TCP    | 已启用 | -  |
+| postgresql | 主要的 | 主要的  | 5432  |   TCP    | 已启用 | -  |
+| 雷迪斯        | 主要的 | 主要的  | 6379  |   TCP    | 已启用 | -  |
+| solr       | 主要的 | 主要的  | 8983  |   TCP    | 已启用 | -  |
+| 在线协作       | 主要的 | 主要的  | 10105 |   TCP    | 已启用 | -  |
+| Memcached  | 主要的 | 主要的  | 11211 |   TCP    | 已启用 | -  |
+| mongodb    | 主要的 | 主要的  | 27017 |   TCP    | 已启用 | -  |
 
-## Incubator
+## 孵化器
 
-| App                   |     Service     |    Port Name    | Port  | Protocol |       Status        | Note                                                |
-|:--------------------- |:---------------:|:---------------:|:-----:|:--------:|:-------------------:|:--------------------------------------------------- |
-| cloudflareddns        |      main       |        -        |   -   |    -     | Service is Disabled | -                                                   |
-| adguard-home          |     dns-tcp     |     dns-tcp     |  53   |   TCP    |       Active        | Potential conflict with: pihole mosdns technitium   |
-| adguard-home          |     dns-udp     |     dns-udp     |  53   |   UDP    |       Active        | -                                                   |
-| lancache-dns          |      main       |      main       |  53   |   UDP    |       Active        | -                                                   |
-| technitium            |     dns-tcp     |     dns-tcp     |  53   |   TCP    |       Active        | Potential conflict with: pihole mosdns adguard-home |
-| technitium            |     dns-udp     |     dns-udp     |  53   |   UDP    |       Active        | -                                                   |
-| zabbix-server         |    snmptraps    |    snmptraps    |  162  |   UDP    |       Active        | -                                                   |
-| cups-server           |      main       |      main       |  631  |   TCP    |       Active        | -                                                   |
-| adguard-home          | dns-quic-udp-1  | dns-quic-udp-1  |  784  |   UDP    |       Active        | -                                                   |
-| adguard-home          | dns-quic-udp-2  | dns-quic-udp-2  |  853  |   UDP    |       Active        | -                                                   |
-| technitium            |     dns-tls     |     dns-tls     |  853  |   TCP    |       Active        | -                                                   |
-| frigate               |      rtmp       |      rtmp       | 1935  |   TCP    |       Active        | Potential conflict with: owncast                    |
-| frigate               |      main       |      main       | 5000  |   TCP    |       Active        | -                                                   |
-| technitium            |      main       |      main       | 5380  |   TCP    |       Active        | -                                                   |
-| adguard-home          |    dns-crypt    |    dns-crypt    | 5443  |   TCP    |       Active        | -                                                   |
-| adguard-home          |  dns-crypt-udp  |  dns-crypt-udp  | 5443  |   UDP    |       Active        | -                                                   |
-| cloudflared           |      main       |      main       | 6969  |   HTTP   |       Active        | -                                                   |
-| clickhouse            |      main       |      main       | 8123  |   HTTP   |       Active        | -                                                   |
-| homebridge            |      main       |      main       | 8581  |   HTTP   |       Active        | -                                                   |
-| adguard-home          | dns-quic-udp-3  | dns-quic-udp-3  | 8853  |   UDP    |       Active        | -                                                   |
-| piwigo                |      main       |      main       | 10027 |   TCP    |       Active        | -                                                   |
-| jump                  |      main       |      main       | 10108 |   TCP    |       Active        | -                                                   |
-| senseai-server        |      main       |      main       | 10118 |   TCP    |       Active        | -                                                   |
-| ghost                 |      main       |      main       | 10166 |   TCP    |       Active        | -                                                   |
-| self-service-password |      main       |      main       | 10182 |   TCP    |       Active        | -                                                   |
-| filerun               |      main       |      main       | 10199 |   TCP    |       Active        | -                                                   |
-| technitium            |    dns-cert     |    dns-cert     | 10202 |   TCP    |       Active        | -                                                   |
-| technitium            |    dns-https    |    dns-https    | 10203 |   TCP    |       Active        | -                                                   |
-| technitium            | dns-https-proxy | dns-https-proxy | 10204 |   TCP    |       Active        | -                                                   |
-| meshcentral           |      main       |      main       | 10205 |  HTTPS   |       Active        | -                                                   |
-| zabbix-server         |      main       |      main       | 10211 |   TCP    |       Active        | -                                                   |
-| zabbix-server         |     server      |     server      | 10212 |   TCP    |       Active        | -                                                   |
-| appsmith              |      main       |      main       | 10217 |   TCP    |       Active        | -                                                   |
-| appsmith              |   supervisor    |   supervisor    | 10218 |   TCP    |       Active        | -                                                   |
-| authentik             |      https      |      https      | 10229 |  HTTPS   |       Active        | -                                                   |
-| authentik             |      main       |      main       | 10230 |   TCP    |       Active        | -                                                   |
-| adguard-home          |      main       |      main       | 10232 |   TCP    |       Active        | -                                                   |
-| adguard-home          |    dns-http     |    dns-http     | 10233 |   TCP    |       Active        | -                                                   |
-| adguard-home          |    dns-https    |    dns-https    | 10234 |   TCP    |       Active        | -                                                   |
-| adguard-home          |  dns-https-udp  |  dns-https-udp  | 10234 |   UDP    |       Active        | -                                                   |
-| fancyindex            |      main       |      main       | 10235 |   TCP    |       Active        | -                                                   |
-| theme-park            |      main       |      main       | 10244 |   TCP    |       Active        | Potential conflict with: clarkson                   |
-| awesome-ttrss         |      main       |      main       | 10246 |   TCP    |       Active        | -                                                   |
-| jitsi                 |      main       |      main       | 10247 |   TCP    |       Active        | -                                                   |
-| privatebin            |      main       |      main       | 10248 |   HTTP   |       Active        | -                                                   |
-| wger                  |      main       |      main       | 10249 |   TCP    |       Active        | -                                                   |
-| youtubedl-material    |      main       |      main       | 10253 |   TCP    |       Active        | -                                                   |
-| etesync               |      main       |      main       | 10254 |   HTTP   |       Active        | -                                                   |
-| radicale              |      main       |      main       | 10255 |   HTTP   |       Active        | -                                                   |
-| czkawka               |      main       |      main       | 10258 |   TCP    |       Active        | -                                                   |
-| czkawka               |       vnc       |       vnc       | 10259 |   TCP    |       Active        | -                                                   |
-| dupeguru              |      main       |      main       | 10260 |   TCP    |       Active        | -                                                   |
-| dupeguru              |       vnc       |       vnc       | 10261 |   TCP    |       Active        | -                                                   |
-| qdirstat              |      main       |      main       | 10262 |   TCP    |       Active        | -                                                   |
-| qdirstat              |       vnc       |       vnc       | 10263 |   TCP    |       Active        | -                                                   |
-| mediainfo             |      main       |      main       | 10264 |   TCP    |       Active        | -                                                   |
-| mediainfo             |       vnc       |       vnc       | 10265 |   TCP    |       Active        | -                                                   |
-| putty                 |      main       |      main       | 10266 |   TCP    |       Active        | -                                                   |
-| putty                 |       vnc       |       vnc       | 10267 |   TCP    |       Active        | -                                                   |
-| filebot               |      main       |      main       | 10268 |   TCP    |       Active        | -                                                   |
-| filebot               |       vnc       |       vnc       | 10269 |   TCP    |       Active        | -                                                   |
-| mkvcleaver            |      main       |      main       | 10270 |   TCP    |       Active        | -                                                   |
-| mkvcleaver            |       vnc       |       vnc       | 10271 |   TCP    |       Active        | -                                                   |
-| avidemux              |      main       |      main       | 10272 |   TCP    |       Active        | -                                                   |
-| avidemux              |       vnc       |       vnc       | 10273 |   TCP    |       Active        | -                                                   |
-| tsmuxer               |      main       |      main       | 10274 |   TCP    |       Active        | -                                                   |
-| tsmuxer               |       vnc       |       vnc       | 10275 |   TCP    |       Active        | -                                                   |
-| ariang                |      main       |      main       | 10276 |   HTTP   |       Active        | -                                                   |
-| plausible             |      main       |      main       | 10277 |   HTTP   |       Active        | -                                                   |
-| mineos                |      main       |      main       | 10278 |   HTTP   |       Active        | -                                                   |
-| lancache-monolithic   |      main       |      main       | 10279 |   HTTP   |       Active        | -                                                   |
-| plex-meta-manager     |      main       |      main       | 10281 |   HTTP   |       Active        | -                                                   |
+| 应用                  |       服务       |      端口名称      |  端口   | Protocol |  状态   | 说明              |
+|:------------------- |:--------------:|:--------------:|:-----:|:--------:|:-----:|:--------------- |
+| 云端点数                |      主要的       |       -        |   -   |    -     | 服务已禁用 | -               |
+| Adguard-home        |    dns-tcp     |    dns-tcp     |  53   |   TCP    |  已启用  | 潜在的冲突与钢管技术冲突    |
+| Adguard-home        |    dns-udp     |    dns-udp     |  53   |   UDP    |  已启用  | -               |
+| lancache-dns        |      主要的       |      主要的       |  53   |   UDP    |  已启用  | -               |
+| technitium          |    dns-tcp     |    dns-tcp     |  53   |   TCP    |  已启用  | 潜在的冲突与胡子家居潜在的冲突 |
+| technitium          |    dns-udp     |    dns-udp     |  53   |   UDP    |  已启用  | -               |
+| zabbix-服务器          |   snmptraps    |   snmptraps    |  162  |   UDP    |  已启用  | -               |
+| 豪华服务器               |      主要的       |      主要的       |  631  |   TCP    |  已启用  | -               |
+| Adguard-home        | dns-quic-udp-1 | dns-quic-udp-1 |  784  |   UDP    |  已启用  | -               |
+| Adguard-home        | dns-quic-udp-2 | dns-quic-udp-2 |  853  |   UDP    |  已启用  | -               |
+| technitium          |    dns-tls     |    dns-tls     |  853  |   TCP    |  已启用  | -               |
+| 护卫车                 |      rtmp      |      rtmp      | 1935  |   TCP    |  已启用  | 潜在冲突与自己的冲突      |
+| 护卫车                 |      主要的       |      主要的       | 5000  |   TCP    |  已启用  | -               |
+| technitium          |      主要的       |      主要的       | 5380  |   TCP    |  已启用  | -               |
+| Adguard-home        |     dns-加密     |     dns-加密     | 5443  |   TCP    |  已启用  | -               |
+| Adguard-home        | dns-crypt-udp  | dns-crypt-udp  | 5443  |   UDP    |  已启用  | -               |
+| 云签名                 |      主要的       |      主要的       | 6969  |   HTTP   |  已启用  | -               |
+| clickhouse          |      主要的       |      主要的       | 8123  |   HTTP   |  已启用  | -               |
+| 家庭桥子                |      主要的       |      主要的       | 8581  |   HTTP   |  已启用  | -               |
+| Adguard-home        | dns-quic-udp-3 | dns-quic-udp-3 | 8853  |   UDP    |  已启用  | -               |
+| piwigo              |      主要的       |      主要的       | 10027 |   TCP    |  已启用  | -               |
+| 跳转                  |      主要的       |      主要的       | 10108 |   TCP    |  已启用  | -               |
+| 传感器服务器              |      主要的       |      主要的       | 10118 |   TCP    |  已启用  | -               |
+| 幽灵：                 |      主要的       |      主要的       | 10166 |   TCP    |  已启用  | -               |
+| 自助密码                |      主要的       |      主要的       | 10182 |   TCP    |  已启用  | -               |
+| 文件                  |      主要的       |      主要的       | 10199 |   TCP    |  已启用  | -               |
+| technitium          |    dns-cert    |    dns-cert    | 10202 |   TCP    |  已启用  | -               |
+| technitium          |   dns-https    |   dns-https    | 10203 |   TCP    |  已启用  | -               |
+| technitium          |  dns-https-代理  |  dns-https-代理  | 10204 |   TCP    |  已启用  | -               |
+| meshcentral         |      主要的       |      主要的       | 10205 |  HTTPS   |  已启用  | -               |
+| zabbix-服务器          |      主要的       |      主要的       | 10211 |   TCP    |  已启用  | -               |
+| zabbix-服务器          |      服务器       |      服务器       | 10212 |   TCP    |  已启用  | -               |
+| 剧情模式                |      主要的       |      主要的       | 10217 |   TCP    |  已启用  | -               |
+| 剧情模式                |      监督员       |      监督员       | 10218 |   TCP    |  已启用  | -               |
+| 真实的                 |     https      |     https      | 10229 |  HTTPS   |  已启用  | -               |
+| 真实的                 |      主要的       |      主要的       | 10230 |   TCP    |  已启用  | -               |
+| Adguard-home        |      主要的       |      主要的       | 10232 |   TCP    |  已启用  | -               |
+| Adguard-home        |    dns-http    |    dns-http    | 10233 |   TCP    |  已启用  | -               |
+| Adguard-home        |   dns-https    |   dns-https    | 10234 |   TCP    |  已启用  | -               |
+| Adguard-home        | dns-https-udp  | dns-https-udp  | 10234 |   UDP    |  已启用  | -               |
+| fancyindex          |      主要的       |      主要的       | 10235 |   TCP    |  已启用  | -               |
+| 主题停车场               |      主要的       |      主要的       | 10244 |   TCP    |  已启用  | 可能与clarkson 冲突  |
+| 超棒的 ttrss           |      主要的       |      主要的       | 10246 |   TCP    |  已启用  | -               |
+| jitsi               |      主要的       |      主要的       | 10247 |   TCP    |  已启用  | -               |
+| 私人箱                 |      主要的       |      主要的       | 10248 |   HTTP   |  已启用  | -               |
+| 格子                  |      主要的       |      主要的       | 10249 |   TCP    |  已启用  | -               |
+| Youtubedl-material  |      主要的       |      主要的       | 10253 |   TCP    |  已启用  | -               |
+| etesync             |      主要的       |      主要的       | 10254 |   HTTP   |  已启用  | -               |
+| 偏差                  |      主要的       |      主要的       | 10255 |   HTTP   |  已启用  | -               |
+| czkawka             |      主要的       |      主要的       | 10258 |   TCP    |  已启用  | -               |
+| czkawka             |      vnc       |      vnc       | 10259 |   TCP    |  已启用  | -               |
+| dupeguru            |      主要的       |      主要的       | 10260 |   TCP    |  已启用  | -               |
+| dupeguru            |      vnc       |      vnc       | 10261 |   TCP    |  已启用  | -               |
+| qdirstat            |      主要的       |      主要的       | 10262 |   TCP    |  已启用  | -               |
+| qdirstat            |      vnc       |      vnc       | 10263 |   TCP    |  已启用  | -               |
+| mediainfo           |      主要的       |      主要的       | 10264 |   TCP    |  已启用  | -               |
+| mediainfo           |      vnc       |      vnc       | 10265 |   TCP    |  已启用  | -               |
+| 小数                  |      主要的       |      主要的       | 10266 |   TCP    |  已启用  | -               |
+| 小数                  |      vnc       |      vnc       | 10267 |   TCP    |  已启用  | -               |
+| filebot             |      主要的       |      主要的       | 10268 |   TCP    |  已启用  | -               |
+| filebot             |      vnc       |      vnc       | 10269 |   TCP    |  已启用  | -               |
+| mkvclaver           |      主要的       |      主要的       | 10270 |   TCP    |  已启用  | -               |
+| mkvclaver           |      vnc       |      vnc       | 10271 |   TCP    |  已启用  | -               |
+| avidemux            |      主要的       |      主要的       | 10272 |   TCP    |  已启用  | -               |
+| avidemux            |      vnc       |      vnc       | 10273 |   TCP    |  已启用  | -               |
+| tsmuxer             |      主要的       |      主要的       | 10274 |   TCP    |  已启用  | -               |
+| tsmuxer             |      vnc       |      vnc       | 10275 |   TCP    |  已启用  | -               |
+| 里昂文                 |      主要的       |      主要的       | 10276 |   HTTP   |  已启用  | -               |
+| 看来是可信的              |      主要的       |      主要的       | 10277 |   HTTP   |  已启用  | -               |
+| 雷奥斯                 |      主要的       |      主要的       | 10278 |   HTTP   |  已启用  | -               |
+| lancache-monolithic |      主要的       |      主要的       | 10279 |   HTTP   |  已启用  | -               |
+| plex-meta-manager   |      主要的       |      主要的       | 10281 |   HTTP   |  已启用  | -               |
 
-## Official Apps
+## 官方应用
 
-> Please keep mind that this list is not updated automatically like the rest of this doc
+> 请记住，这个列表不会像这个道具的其余部分自动更新
 
-| App            |   Service   | Port  |                     Note                     |
-|:-------------- |:-----------:|:-----:|:--------------------------------------------:|
-| chia           |    main     | 8444  |                                              |
-| chia           | farmerport  | 8447  |                                              |
-| collabora      |    main     | 9980  |                                              |
-| emby           |    main     | 9096  |                                              |
-| home-assistant |    main     | 20810 |                                              |
-| ipfs           |  swarmport  | 9401  |                                              |
-| ipfs           |   apiport   | 9501  |                                              |
-| ipfs           | gatewayport | 9880  |                                              |
-| machinaris     |    main     | 9003  |                                              |
-| machinaris     |   apiport   | 8927  |                                              |
-| minio          |    main     | 9000  | Potential conflict with traefik (TrueCharts) |
-| minio          | consoleport | 9002  |                                              |
-| netdata        |    main     | 20489 |                                              |
-| nextcloud      |    main     | 9001  |                                              |
-| photoprism     |    main     | 20800 |                                              |
-| pihole         |    main     | 20720 |                                              |
-| pihole         |   dns-tcp   | 20721 |                                              |
-| pihole         |   dns-upd   | 20721 |                                              |
-| pihole         |    dhcp     | 20722 |                                              |
-| plex           |    main     | 32400 |  Potential conflict with plex (TrueCharts)   |
-| qbittorent     |    main     | 20909 |                                              |
-| qbittorent     |  tcp_port   | 20988 |                                              |
-| qbittorent     |  udp_port   | 20989 |                                              |
-| syncthing      |    main     | 20910 |                                              |
-| syncthing      |  tcp_port   | 20978 |                                              |
-| syncthing      |  udp_port   | 20979 |                                              |
+| 应用         |    服务    |  端口   |             说明             |
+|:---------- |:--------:|:-----:|:--------------------------:|
+| 奇亚         |   主要的    | 8444  |                            |
+| 奇亚         |   农民端口   | 8447  |                            |
+| 协作a        |   主要的    | 9980  |                            |
+| emby       |   主要的    | 9096  |                            |
+| 家庭助理       |   主要的    | 20810 |                            |
+| ipfs       |   斯温波特   | 9401  |                            |
+| ipfs       | apiport  | 9501  |                            |
+| ipfs       |   网关端口   | 9880  |                            |
+| 机床：        |   主要的    | 9003  |                            |
+| 机床：        | apiport  | 8927  |                            |
+| 迷你的        |   主要的    | 9000  | 潜在冲突与 Traefik (TrueCharts) |
+| 迷你的        |  控制台端口   | 9002  |                            |
+| netdata    |   主要的    | 20489 |                            |
+| 下个云端       |   主要的    | 9001  |                            |
+| 光标         |   主要的    | 20800 |                            |
+| pihole     |   主要的    | 20720 |                            |
+| pihole     | dns-tcp  | 20721 |                            |
+| pihole     | dns-upd  | 20721 |                            |
+| pihole     |   dhcp   | 20722 |                            |
+| plexx      |   主要的    | 32400 |   与plex潜在冲突 (TrueCharts)   |
+| qbittorent |   主要的    | 20909 |                            |
+| qbittorent |  tcp_端口  | 20988 |                            |
+| qbittorent | udp_port | 20989 |                            |
+| 同步         |   主要的    | 20910 |                            |
+| 同步         |  tcp_端口  | 20978 |                            |
+| 同步         | udp_port | 20979 |                            |
 
-## TrueNAS Scale Services
+## TrueNAS 缩放服务
 
-> Please mind that this list is not updated automatically like the rest of this doc
+> 请记住，这个列表不会像这个道具的其余部分自动更新
 
-| Service | Port | Protocol | Note |
-|:------- |:----:|:--------:|:----:|
-| ssh     |  22  |   TCP    |      |
-| webui   |  80  |   HTTP   |      |
-| webui   | 443  |  HTTPS   |      |
+| 服务    | 端口  | Protocol | 说明 |
+|:----- |:---:|:--------:|:--:|
+| 秒     | 22  |   TCP    |    |
+| webui | 80  |   HTTP   |    |
+| webui | 443 |  HTTPS   |    |
 
-## Ports that are blocked in major web browsers
+## 在主要浏览器中被屏蔽的端口
 
-> Please mind that this list is not updated automatically like the rest of this doc
+> 请记住，这个列表不会像这个道具的其余部分自动更新
 
-| Port  |            Used by (example)             |
-|:-----:|:----------------------------------------:|
-|   1   |                  tcpmux                  |
-|   7   |                   echo                   |
-|   9   |                 discard                  |
-|  11   |                  systat                  |
-|  13   |                 daytime                  |
-|  15   |                 netstat                  |
-|  17   |                   qotd                   |
-|  19   |                 chargen                  |
-|  20   |                 ftp data                 |
-|  21   |                ftp access                |
-|  22   |                   ssh                    |
-|  23   |                  telnet                  |
-|  25   |                   smtp                   |
-|  37   |                   time                   |
-|  42   |                   name                   |
-|  43   |                 nicname                  |
-|  53   |                  domain                  |
-|  69   |                   tftp                   |
-|  77   |                 priv-rjs                 |
-|  79   |                  finger                  |
-|  87   |                 ttylink                  |
-|  95   |                  supdup                  |
-|  101  |                hostriame                 |
-|  102  |                 iso-tsap                 |
-|  103  |                 gppitnp                  |
-|  104  |                 acr-nema                 |
-|  109  |                   pop2                   |
-|  110  |                   pop3                   |
-|  111  |                  sunrpc                  |
-|  113  |                   auth                   |
-|  115  |                   sftp                   |
-|  117  |                uucp-path                 |
-|  119  |                   nntp                   |
-|  123  |                   NTP                    |
-|  135  |              loc-srv /epmap              |
-|  137  |                 netbios                  |
-|  139  |                 netbios                  |
-|  143  |                  imap2                   |
-|  161  |                   snmp                   |
-|  179  |                   BGP                    |
-|  389  |                   ldap                   |
-|  427  | SLP (Also used by Apple Filing Protocol) |
-|  465  |                 smtp+ssl                 |
-|  512  |               print / exec               |
-|  513  |                  login                   |
-|  514  |                  shell                   |
-|  515  |                 printer                  |
-|  526  |                  tempo                   |
-|  530  |                 courier                  |
-|  531  |                   chat                   |
-|  532  |                 netnews                  |
-|  540  |                   uucp                   |
-|  548  |       AFP (Apple Filing Protocol)        |
-|  554  |                   rtsp                   |
-|  556  |                 remotefs                 |
-|  563  |                 nntp+ssl                 |
-|  587  |              smtp (rfc6409)              |
-|  601  |          syslog-conn (rfc3195)           |
-|  636  |                 ldap+ssl                 |
-|  989  |                ftps-data                 |
-|  990  |                   ftps                   |
-|  993  |                 ldap+ssl                 |
-|  995  |                 pop3+ssl                 |
-| 1719  |               h323gatestat               |
-| 1720  |               h323hostcall               |
-| 1723  |                   pptp                   |
-| 2049  |                   nfs                    |
-| 3659  |       apple-sasl / PasswordServer        |
-| 4045  |                  lockd                   |
-| 5060  |                   sip                    |
-| 5061  |                   sips                   |
-| 6000  |                   X11                    |
-| 6566  |                sane-port                 |
-| 6665  |      Alternate IRC [Apple addition]      |
-| 6666  |      Alternate IRC [Apple addition]      |
-| 6667  |      Standard IRC [Apple addition]       |
-| 6668  |      Alternate IRC [Apple addition]      |
-| 6669  |      Alternate IRC [Apple addition]      |
-| 6697  |                IRC + TLS                 |
-| 10080 |                  Amanda                  |
+|  端口   |             用于(示例)             |
+|:-----:|:------------------------------:|
+|   1   |             tcpMux             |
+|   7   |               回声               |
+|   9   |              丢弃的               |
+|  11   |              系统统计              |
+|  13   |            daytime             |
+|  15   |            netstat             |
+|  17   |              qotd              |
+|  19   |               色调               |
+|  20   |              英尺数据              |
+|  21   |             ftp 访问             |
+|  22   |               秒                |
+|  23   |             telnet             |
+|  25   |               毫秒               |
+|  37   |               时间               |
+|  42   |               名称               |
+|  43   |            nicname             |
+|  53   |               域                |
+|  69   |              tftp              |
+|  77   |            priv-rjs            |
+|  79   |               手指               |
+|  87   |            ttylink             |
+|  95   |               反转               |
+|  101  |              主机名               |
+|  102  |            iso-tsap            |
+|  103  |            gppitnp             |
+|  104  |            acr-nema            |
+|  109  |              弹出2               |
+|  110  |              弹出3               |
+|  111  |               日光               |
+|  113  |               认证               |
+|  115  |              sftp              |
+|  117  |            uucp-路径             |
+|  119  |              nntp              |
+|  123  |              NTP               |
+|  135  |         loc-srv/epmap          |
+|  137  |            netbios             |
+|  139  |            netbios             |
+|  143  |              象形2               |
+|  161  |               吸附               |
+|  179  |              BGP               |
+|  389  |               时                |
+|  427  | SLP (Apple Filing Protocol也使用) |
+|  465  |            smtp+ssl            |
+|  512  |             打印/执行              |
+|  513  |               登录               |
+|  514  |               外壳               |
+|  515  |              打印机               |
+|  526  |              节奏模式              |
+|  530  |               信使               |
+|  531  |               聊天               |
+|  532  |            netnews             |
+|  540  |              uucp              |
+|  548  |  AFP (Apple Filing Protocol)   |
+|  554  |              rtsp              |
+|  556  |              遥控器               |
+|  563  |            nntp+ssl            |
+|  587  |         smtp (rfc6409)         |
+|  601  |     syslog-conn (rfc3195)      |
+|  636  |            ldap+ssl            |
+|  989  |           ftps-data            |
+|  990  |              英尺数               |
+|  993  |            ldap+ssl            |
+|  995  |            弹出3+ssl             |
+| 1719  |             h323网关             |
+| 1720  |            h323主机电话            |
+| 1723  |              pptp              |
+| 2049  |              nfs               |
+| 3659  |        小程序sasl / 密码服务器         |
+| 4045  |               锁定               |
+| 5060  |              sip               |
+| 5061  |              筛选器               |
+| 6000  |               11               |
+| 6566  |              卫生端口              |
+| 6665  |     备选IRC [Apple addition]     |
+| 6666  |     备选IRC [Apple addition]     |
+| 6667  |     标准IRC [Apple addition]     |
+| 6668  |     备选IRC [Apple addition]     |
+| 6669  |     备选IRC [Apple addition]     |
+| 6697  |           IRC + TLS            |
+| 10080 |              阿曼达               |
 
-> Note: TCP and UDP ports that are the same in some Apps, are not by mistake If you notice something wrong in the above info, please notify us so we can update the generator script Next available port should be 10282
+> 注意：在某些应用中相同的 TCP 和 UDP 端口： 不是错误的 如果你注意到上面的信息有什么错误， 请通知我们，以便我们可以更新生成器脚本 下一个可用端口应该是 10282
