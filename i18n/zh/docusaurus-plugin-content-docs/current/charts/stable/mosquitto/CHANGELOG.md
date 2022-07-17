@@ -56,7 +56,7 @@
 
 <a name="mosquitto-6.0.9"></a>
 
-### [mosquitto-6.0.9](https://github.com/truecharts/apps/compare/mosquitto-6.0.8...mosquitto-6.0.9) (2022-07-09)
+### [蚊子至6.0.9](https://github.com/truecharts/apps/compare/mosquitto-6.0.8...mosquitto-6.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="mosquitto-5.0.26"></a>
 
-### [mosquitto-5.0.26](https://github.com/truecharts/apps/compare/mosquitto-5.0.25...mosquitto-5.0.26) (2022-05-26)
+### [蚊虫至5.0.26](https://github.com/truecharts/apps/compare/mosquitto-5.0.25...mosquitto-5.0.26) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="mosquitto-5.0.26"></a>
 
-### [mosquitto-5.0.26](https://github.com/truecharts/apps/compare/mosquitto-5.0.25...mosquitto-5.0.26) (2022-05-26)
+### [蚊虫至5.0.26](https://github.com/truecharts/apps/compare/mosquitto-5.0.25...mosquitto-5.0.26) (2022-05-26)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="mosquitto-5.0.24"></a>
 
-### [mosquitto-5.0.24](https://github.com/truecharts/apps/compare/mosquitto-5.0.23...mosquitto-5.0.24) (2022-05-17)
+### [蚊子至5.0.24](https://github.com/truecharts/apps/compare/mosquitto-5.0.23...mosquitto-5.0.24) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="mosquitto-5.0.24"></a>
 
-### [mosquitto-5.0.24](https://github.com/truecharts/apps/compare/mosquitto-5.0.23...mosquitto-5.0.24) (2022-05-17)
+### [蚊子至5.0.24](https://github.com/truecharts/apps/compare/mosquitto-5.0.23...mosquitto-5.0.24) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="mosquitto-5.0.23"></a>
 
-### [mosquitto-5.0.23](https://github.com/truecharts/apps/compare/mosquitto-5.0.22...mosquitto-5.0.23) (2022-05-17)
+### [蚊虫至5.0.23](https://github.com/truecharts/apps/compare/mosquitto-5.0.22...mosquitto-5.0.23) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="mosquitto-5.0.22"></a>
 
-### [mosquitto-5.0.22](https://github.com/truecharts/apps/compare/mosquitto-5.0.21...mosquitto-5.0.22) (2022-05-10)
+### [蚊子-5.0.22](https://github.com/truecharts/apps/compare/mosquitto-5.0.21...mosquitto-5.0.22) (2022-05-10)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="mosquitto-5.0.20"></a>
 
-### [mosquitto-5.0.20](https://github.com/truecharts/apps/compare/mosquitto-5.0.19...mosquitto-5.0.20) (2022-04-26)
+### [蚊子-5.0.20](https://github.com/truecharts/apps/compare/mosquitto-5.0.19...mosquitto-5.0.20) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="mosquitto-5.0.19"></a>
 
-### [mosquitto-5.0.19](https://github.com/truecharts/apps/compare/mosquitto-5.0.18...mosquitto-5.0.19) (2022-04-20)
+### [蚊子至5.0.19](https://github.com/truecharts/apps/compare/mosquitto-5.0.18...mosquitto-5.0.19) (2022-04-20)
 
 #### 聊天
 
@@ -408,13 +408,13 @@
 
 #### 修复
 
-* remove portal button ([#2164](https://github.com/truecharts/apps/issues/2164))
+* 移除门户按钮[#2164](https://github.com/truecharts/apps/issues/2164))
 
 
 
 <a name="mosquitto-5.0.1"></a>
 
-### [mosquitto-5.0.1](https://github.com/truecharts/apps/compare/mosquitto-5.0.0...mosquitto-5.0.1) (2022-03-07)
+### [蚊子-5.0.1](https://github.com/truecharts/apps/compare/mosquitto-5.0.0...mosquitto-5.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -452,7 +452,7 @@
 
 <a name="mosquitto-4.0.43"></a>
 
-### [mosquitto-4.0.43](https://github.com/truecharts/apps/compare/mosquitto-4.0.42...mosquitto-4.0.43) (2022-02-21)
+### [蚊子至4.0.43](https://github.com/truecharts/apps/compare/mosquitto-4.0.42...mosquitto-4.0.43) (2022-02-21)
 
 #### 聊天
 
@@ -462,7 +462,7 @@
 
 <a name="mosquitto-4.0.42"></a>
 
-### [mosquitto-4.0.42](https://github.com/truecharts/apps/compare/mosquitto-4.0.41...mosquitto-4.0.42) (2022-02-15)
+### [蚊子至4.0.42](https://github.com/truecharts/apps/compare/mosquitto-4.0.41...mosquitto-4.0.42) (2022-02-15)
 
 #### 聊天
 
@@ -472,7 +472,7 @@
 
 <a name="mosquitto-4.0.41"></a>
 
-### [mosquitto-4.0.41](https://github.com/truecharts/apps/compare/mosquitto-4.0.40...mosquitto-4.0.41) (2022-02-08)
+### [蚊子至4.0.41](https://github.com/truecharts/apps/compare/mosquitto-4.0.40...mosquitto-4.0.41) (2022-02-08)
 
 #### 聊天
 
@@ -512,7 +512,7 @@
 
 <a name="mosquitto-4.0.37"></a>
 
-### [mosquitto-4.0.37](https://github.com/truecharts/apps/compare/mosquitto-4.0.36...mosquitto-4.0.37) (2022-01-25)
+### [蚊子至4.0.37](https://github.com/truecharts/apps/compare/mosquitto-4.0.36...mosquitto-4.0.37) (2022-01-25)
 
 #### 聊天
 
@@ -532,7 +532,7 @@
 
 <a name="mosquitto-4.0.35"></a>
 
-### [mosquitto-4.0.35](https://github.com/truecharts/apps/compare/mosquitto-4.0.34...mosquitto-4.0.35) (2022-01-21)
+### [蚊子至4.0.35](https://github.com/truecharts/apps/compare/mosquitto-4.0.34...mosquitto-4.0.35) (2022-01-21)
 
 #### 聊天
 
@@ -556,7 +556,7 @@
 
 <a name="mosquitto-4.0.33"></a>
 
-### [mosquitto-4.0.33](https://github.com/truecharts/apps/compare/mosquitto-4.0.32...mosquitto-4.0.33) (2022-01-13)
+### [蚊子至4.0.33](https://github.com/truecharts/apps/compare/mosquitto-4.0.32...mosquitto-4.0.33) (2022-01-13)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="mosquitto-4.0.32"></a>
 
-### [mosquitto-4.0.32](https://github.com/truecharts/apps/compare/mosquitto-4.0.31...mosquitto-4.0.32) (2022-01-12)
+### [蚊子至4.0.32](https://github.com/truecharts/apps/compare/mosquitto-4.0.31...mosquitto-4.0.32) (2022-01-12)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="mosquitto-4.0.30"></a>
 
-### [mosquitto-4.0.30](https://github.com/truecharts/apps/compare/mosquitto-4.0.29...mosquitto-4.0.30) (2022-01-04)
+### [蚊子至4.0.30](https://github.com/truecharts/apps/compare/mosquitto-4.0.29...mosquitto-4.0.30) (2022-01-04)
 
 #### 聊天
 
@@ -600,7 +600,7 @@
 
 <a name="mosquitto-4.0.29"></a>
 
-### [mosquitto-4.0.29](https://github.com/truecharts/apps/compare/mosquitto-4.0.28...mosquitto-4.0.29) (2021-12-28)
+### [蚊子至4.0.29](https://github.com/truecharts/apps/compare/mosquitto-4.0.28...mosquitto-4.0.29) (2021-12-28)
 
 #### 聊天
 
@@ -610,7 +610,7 @@
 
 <a name="mosquitto-4.0.28"></a>
 
-### [mosquitto-4.0.28](https://github.com/truecharts/apps/compare/mosquitto-4.0.27...mosquitto-4.0.28) (2021-12-21)
+### [蚊子至4.0.28](https://github.com/truecharts/apps/compare/mosquitto-4.0.27...mosquitto-4.0.28) (2021-12-21)
 
 #### 聊天
 
@@ -620,7 +620,7 @@
 
 <a name="mosquitto-4.0.27"></a>
 
-### [mosquitto-4.0.27](https://github.com/truecharts/apps/compare/mosquitto-4.0.26...mosquitto-4.0.27) (2021-12-19)
+### [蚊子至4.0.27](https://github.com/truecharts/apps/compare/mosquitto-4.0.26...mosquitto-4.0.27) (2021-12-19)
 
 #### 聊天
 
@@ -631,7 +631,7 @@
 
 <a name="mosquitto-4.0.26"></a>
 
-### [mosquitto-4.0.26](https://github.com/truecharts/apps/compare/mosquitto-4.0.25...mosquitto-4.0.26) (2021-12-19)
+### [蚊子至4.0.26](https://github.com/truecharts/apps/compare/mosquitto-4.0.25...mosquitto-4.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="mosquitto-4.0.25"></a>
 
-### [mosquitto-4.0.25](https://github.com/truecharts/apps/compare/mosquitto-4.0.24...mosquitto-4.0.25) (2021-12-18)
+### [蚊子至4.0.25](https://github.com/truecharts/apps/compare/mosquitto-4.0.24...mosquitto-4.0.25) (2021-12-18岁)
 
 #### 聊天
 
@@ -653,7 +653,7 @@
 
 <a name="mosquitto-4.0.24"></a>
 
-### [mosquitto-4.0.24](https://github.com/truecharts/apps/compare/mosquitto-4.0.23...mosquitto-4.0.24) (2021-12-14)
+### [蚊子至4.0.24](https://github.com/truecharts/apps/compare/mosquitto-4.0.23...mosquitto-4.0.24) (2021-12-14)
 
 #### 聊天
 
@@ -663,7 +663,7 @@
 
 <a name="mosquitto-4.0.23"></a>
 
-### [mosquitto-4.0.23](https://github.com/truecharts/apps/compare/mosquitto-4.0.22...mosquitto-4.0.23) (2021-12-13)
+### [蚊子至4.0.23](https://github.com/truecharts/apps/compare/mosquitto-4.0.22...mosquitto-4.0.23) (2021-12-13)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="mosquitto-4.0.22"></a>
 
-### [mosquitto-4.0.22](https://github.com/truecharts/apps/compare/mosquitto-4.0.21...mosquitto-4.0.22) (2021-12-11)
+### [蚊子-4.0.22](https://github.com/truecharts/apps/compare/mosquitto-4.0.21...mosquitto-4.0.22) (2021-12-11)
 
 #### 聊天
 
@@ -683,7 +683,7 @@
 
 <a name="mosquitto-4.0.21"></a>
 
-### [mosquitto-4.0.21](https://github.com/truecharts/apps/compare/mosquitto-4.0.20...mosquitto-4.0.21) (2021-12-07)
+### [蚊子至4.0.21](https://github.com/truecharts/apps/compare/mosquitto-4.0.20...mosquitto-4.0.21) (2021-12-07)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="mosquitto-4.0.20"></a>
 
-### mosquitto-4.0.20 (2021-12-05)
+### 蚊子-4.0.20 (2021-12-05)
 
 #### 聊天
 
@@ -714,7 +714,7 @@
 
 <a name="mosquitto-4.0.19"></a>
 
-### [mosquitto-4.0.19](https://github.com/truecharts/apps/compare/mosquitto-4.0.18...mosquitto-4.0.19) (2021-12-05)
+### [蚊子-4.0.19](https://github.com/truecharts/apps/compare/mosquitto-4.0.18...mosquitto-4.0.19) (2021-12-05)
 
 #### 聊天
 
@@ -724,7 +724,7 @@
 
 <a name="mosquitto-4.0.18"></a>
 
-### [mosquitto-4.0.18](https://github.com/truecharts/apps/compare/mosquitto-4.0.17...mosquitto-4.0.18) (2021-12-04)
+### [蚊子至4.0.18](https://github.com/truecharts/apps/compare/mosquitto-4.0.17...mosquitto-4.0.18) (2021-12-04)
 
 #### 聊天
 
@@ -734,7 +734,7 @@
 
 <a name="mosquitto-4.0.17"></a>
 
-### [mosquitto-4.0.17](https://github.com/truecharts/apps/compare/mosquitto-4.0.16...mosquitto-4.0.17) (2021-12-04)
+### [蚊子-4.0.17](https://github.com/truecharts/apps/compare/mosquitto-4.0.16...mosquitto-4.0.17) (2021-12-04)
 
 #### 聊天
 
@@ -744,7 +744,7 @@
 
 <a name="mosquitto-4.0.16"></a>
 
-### [mosquitto-4.0.16](https://github.com/truecharts/apps/compare/mosquitto-4.0.15...mosquitto-4.0.16) (2021-12-03)
+### [蚊子-4.0.16](https://github.com/truecharts/apps/compare/mosquitto-4.0.15...mosquitto-4.0.16) (2021-12-03)
 
 #### 聊天
 
@@ -756,7 +756,7 @@
 
 <a name="mosquitto-4.0.15"></a>
 
-### [mosquitto-4.0.15](https://github.com/truecharts/apps/compare/mosquitto-4.0.14...mosquitto-4.0.15) (2021-11-30)
+### [蚊子-4.0.15](https://github.com/truecharts/apps/compare/mosquitto-4.0.14...mosquitto-4.0.15) (2021-11-30)
 
 #### 聊天
 
@@ -766,7 +766,7 @@
 
 <a name="mosquitto-4.0.14"></a>
 
-### [mosquitto-4.0.14](https://github.com/truecharts/apps/compare/mosquitto-4.0.13...mosquitto-4.0.14) (2021-11-23)
+### [蚊子-4.0.14](https://github.com/truecharts/apps/compare/mosquitto-4.0.13...mosquitto-4.0.14) (2021-11-23)
 
 #### 聊天
 
@@ -776,7 +776,7 @@
 
 <a name="mosquitto-4.0.13"></a>
 
-### [mosquitto-4.0.13](https://github.com/truecharts/apps/compare/mosquitto-4.0.12...mosquitto-4.0.13) (2021-11-22)
+### [蚊子至4.0.13](https://github.com/truecharts/apps/compare/mosquitto-4.0.12...mosquitto-4.0.13) (2021-11-22)
 
 #### 聊天
 
@@ -790,7 +790,7 @@
 
 <a name="mosquitto-4.0.12"></a>
 
-### [mosquitto-4.0.12](https://github.com/truecharts/apps/compare/mosquitto-4.0.11...mosquitto-4.0.12) (2021-11-18)
+### [蚊子至4.0.12](https://github.com/truecharts/apps/compare/mosquitto-4.0.11...mosquitto-4.0.12) (2021-11-18岁)
 
 #### 聊天
 
@@ -800,7 +800,7 @@
 
 <a name="mosquitto-4.0.11"></a>
 
-### [mosquitto-4.0.11](https://github.com/truecharts/apps/compare/mosquitto-4.0.10...mosquitto-4.0.11) (2021-11-16)
+### [蚊子至4.0.11](https://github.com/truecharts/apps/compare/mosquitto-4.0.10...mosquitto-4.0.11) (2021-11-16)
 
 #### 聊天
 
@@ -810,7 +810,7 @@
 
 <a name="mosquitto-4.0.10"></a>
 
-### [mosquitto-4.0.10](https://github.com/truecharts/apps/compare/mosquitto-4.0.9...mosquitto-4.0.10) (2021-11-15)
+### [蚊子-4.0.10](https://github.com/truecharts/apps/compare/mosquitto-4.0.9...mosquitto-4.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -821,7 +821,7 @@
 
 <a name="mosquitto-4.0.9"></a>
 
-### [mosquitto-4.0.9](https://github.com/truecharts/apps/compare/mosquitto-4.0.8...mosquitto-4.0.9) (2021-11-14)
+### [蚊子至4.0.9](https://github.com/truecharts/apps/compare/mosquitto-4.0.8...mosquitto-4.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -840,7 +840,7 @@
 
 <a name="mosquitto-4.0.8"></a>
 
-### [mosquitto-4.0.8](https://github.com/truecharts/apps/compare/mosquitto-4.0.7...mosquitto-4.0.8) (2021-11-09)
+### [蚊子-4.0.8](https://github.com/truecharts/apps/compare/mosquitto-4.0.7...mosquitto-4.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -851,7 +851,7 @@
 
 <a name="mosquitto-4.0.7"></a>
 
-### [mosquitto-4.0.7](https://github.com/truecharts/apps/compare/mosquitto-4.0.6...mosquitto-4.0.7) (2021-11-07)
+### [蚊子至4.0.7](https://github.com/truecharts/apps/compare/mosquitto-4.0.6...mosquitto-4.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -861,7 +861,7 @@
 
 <a name="mosquitto-4.0.6"></a>
 
-### [mosquitto-4.0.6](https://github.com/truecharts/apps/compare/mosquitto-4.0.5...mosquitto-4.0.6) (2021-11-07)
+### [蚊子至4.0.6](https://github.com/truecharts/apps/compare/mosquitto-4.0.5...mosquitto-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -879,7 +879,7 @@
 
 <a name="mosquitto-4.0.5"></a>
 
-### [mosquitto-4.0.5](https://github.com/truecharts/apps/compare/mosquitto-4.0.4...mosquitto-4.0.5) (2021-11-02)
+### [蚊子至4.0.5](https://github.com/truecharts/apps/compare/mosquitto-4.0.4...mosquitto-4.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -889,7 +889,7 @@
 
 <a name="mosquitto-4.0.4"></a>
 
-### [mosquitto-4.0.4](https://github.com/truecharts/apps/compare/mosquitto-4.0.3...mosquitto-4.0.4) (2021-11-01)
+### [蚊子至4.0.4](https://github.com/truecharts/apps/compare/mosquitto-4.0.3...mosquitto-4.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -899,7 +899,7 @@
 
 <a name="mosquitto-4.0.3"></a>
 
-### [mosquitto-4.0.3](https://github.com/truecharts/apps/compare/mosquitto-4.0.2...mosquitto-4.0.3) (2021-11-01)
+### [蚊子至4.0.3](https://github.com/truecharts/apps/compare/mosquitto-4.0.2...mosquitto-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -909,7 +909,7 @@
 
 <a name="mosquitto-4.0.2"></a>
 
-### [mosquitto-4.0.2](https://github.com/truecharts/apps/compare/mosquitto-4.0.1...mosquitto-4.0.2) (2021-10-26)
+### [蚊子至4.0.2](https://github.com/truecharts/apps/compare/mosquitto-4.0.1...mosquitto-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -919,7 +919,7 @@
 
 <a name="mosquitto-4.0.1"></a>
 
-### [mosquitto-4.0.1](https://github.com/truecharts/apps/compare/mosquitto-4.0.0...mosquitto-4.0.1) (2021-10-26)
+### [蚊子至4.0.1](https://github.com/truecharts/apps/compare/mosquitto-4.0.0...mosquitto-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -929,7 +929,7 @@
 
 <a name="mosquitto-4.0.0"></a>
 
-### [mosquitto-4.0.0](https://github.com/truecharts/apps/compare/mosquitto-3.0.15...mosquitto-4.0.0) (2021-10-25)
+### [蚊子至4.0.0](https://github.com/truecharts/apps/compare/mosquitto-3.0.15...mosquitto-4.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -944,7 +944,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -955,7 +955,7 @@
 
 <a name="mosquitto-3.0.12"></a>
 
-### [mosquitto-3.0.12](https://github.com/truecharts/apps/compare/mosquitto-3.0.11...mosquitto-3.0.12) (2021-10-20)
+### [蚊子-3.0.12](https://github.com/truecharts/apps/compare/mosquitto-3.0.11...mosquitto-3.0.12) (2021-10-20)
 
 #### 更改
 
@@ -979,7 +979,7 @@
 
 <a name="mosquitto-3.0.11"></a>
 
-### [mosquitto-3.0.11](https://github.com/truecharts/apps/compare/mosquitto-3.0.10...mosquitto-3.0.11) (2021-10-19)
+### [蚊子-3.0.11](https://github.com/truecharts/apps/compare/mosquitto-3.0.10...mosquitto-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -999,7 +999,7 @@
 
 <a name="mosquitto-3.0.9"></a>
 
-### [mosquitto-3.0.9](https://github.com/truecharts/apps/compare/mosquitto-3.0.8...mosquitto-3.0.9) (2021-10-18)
+### [蚊子-3.0.9](https://github.com/truecharts/apps/compare/mosquitto-3.0.8...mosquitto-3.0.9) (2021-10-18)
 
 #### 聊天
 
@@ -1013,7 +1013,7 @@
 
 <a name="mosquitto-3.0.8"></a>
 
-### [mosquitto-3.0.8](https://github.com/truecharts/apps/compare/mosquitto-3.0.7...mosquitto-3.0.8) (2021-10-17)
+### [蚊子-3.0.8](https://github.com/truecharts/apps/compare/mosquitto-3.0.7...mosquitto-3.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -1027,7 +1027,7 @@
 
 <a name="mosquitto-3.0.7"></a>
 
-### [mosquitto-3.0.7](https://github.com/truecharts/apps/compare/mosquitto-3.0.6...mosquitto-3.0.7) (2021-10-13)
+### [蚊子-3.0.7](https://github.com/truecharts/apps/compare/mosquitto-3.0.6...mosquitto-3.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -1037,7 +1037,7 @@
 
 <a name="mosquitto-3.0.6"></a>
 
-### [mosquitto-3.0.6](https://github.com/truecharts/apps/compare/mosquitto-3.0.5...mosquitto-3.0.6) (2021-10-12)
+### [蚊子-3.0.6](https://github.com/truecharts/apps/compare/mosquitto-3.0.5...mosquitto-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -1057,7 +1057,7 @@
 
 <a name="mosquitto-3.0.4"></a>
 
-### [mosquitto-3.0.4](https://github.com/truecharts/apps/compare/mosquitto-3.0.3...mosquitto-3.0.4) (2021-10-05)
+### [蚊子-3.0.4](https://github.com/truecharts/apps/compare/mosquitto-3.0.3...mosquitto-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1077,19 +1077,19 @@
 
 <a name="mosquitto-3.0.1"></a>
 
-### [mosquitto-3.0.1](https://github.com/truecharts/apps/compare/mosquitto-3.0.0...mosquitto-3.0.1) (2021-09-26)
+### [蚊子-3.0.1](https://github.com/truecharts/apps/compare/mosquitto-3.0.0...mosquitto-3.0.1) (2021-09-26)
 
 
 
 <a name="mosquitto-3.0.0"></a>
 
-### [mosquitto-3.0.0](https://github.com/truecharts/apps/compare/mosquitto-2.0.2...mosquitto-3.0.0) (2021-09-26)
+### [蚊子-3.0.0](https://github.com/truecharts/apps/compare/mosquitto-2.0.2...mosquitto-3.0.0) (2021-09-26)
 
 
 
 <a name="mosquitto-2.0.2"></a>
 
-### [mosquitto-2.0.2](https://github.com/truecharts/apps/compare/mosquitto-2.0.1...mosquitto-2.0.2) (2021-09-21)
+### [蚊子-2.0.2](https://github.com/truecharts/apps/compare/mosquitto-2.0.1...mosquitto-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1099,7 +1099,7 @@
 
 <a name="mosquitto-2.0.1"></a>
 
-### [mosquitto-2.0.1](https://github.com/truecharts/apps/compare/mosquitto-1.11.16...mosquitto-2.0.1) (2021-09-13)
+### [蚊子-2.0.1](https://github.com/truecharts/apps/compare/mosquitto-1.11.16...mosquitto-2.0.1) (2021-09-13)
 
 #### 聊天
 
