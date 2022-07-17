@@ -1,6 +1,6 @@
 # 米塔
 
-支持 youtube-dl 的 Web GUI (使用 yt-dlp Fork) Allows you to download videos from YouTube and dozens of other sites
+支持 youtube-dl 的 Web GUI (使用 yt-dlp Fork) 允许您从 YouTube 和其他几十个站点下载视频
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
