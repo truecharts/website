@@ -6,8 +6,8 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://moz-services-docs.readthedocs.io/en/latest/howtos/run-sync-1.5.html>
-* <https://hub.docker.com/r/crazymax/firefox-syncserver>
+* [https://moz-services-docs.readthedocs.io/enura/howtos/run-sync-1.5.html](https://moz-services-docs.readthedocs.io/en/latest/howtos/run-sync-1.5.html)
+* [https://hub.docker.com/r/crazymax/cfirefox-syncserver](https://hub.docker.com/r/crazymax/firefox-syncserver)
 
 ## B. 所需经费
 
