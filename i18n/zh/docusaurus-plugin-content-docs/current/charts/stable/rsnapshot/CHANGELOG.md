@@ -36,7 +36,7 @@
 
 <a name="rsnapshot-2.0.11"></a>
 
-### [rsnapshot-2.0.11](https://github.com/truecharts/apps/compare/rsnapshot-2.0.10...rsnapshot-2.0.11) (2022-07-12)
+### [rsnappshot-2.0.11](https://github.com/truecharts/apps/compare/rsnapshot-2.0.10...rsnapshot-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="rsnapshot-1.0.19"></a>
 
-### [rsnapshot-1.0.19](https://github.com/truecharts/apps/compare/rsnapshot-1.0.18...rsnapshot-1.0.19) (2022-05-31)
+### [rsnappshot-1.0.19](https://github.com/truecharts/apps/compare/rsnapshot-1.0.18...rsnapshot-1.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="rsnapshot-1.0.18"></a>
 
-### [rsnapshot-1.0.18](https://github.com/truecharts/apps/compare/rsnapshot-1.0.17...rsnapshot-1.0.18) (2022-05-26)
+### [rsnappshot-1.0.18](https://github.com/truecharts/apps/compare/rsnapshot-1.0.17...rsnapshot-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="rsnapshot-1.0.18"></a>
 
-### [rsnapshot-1.0.18](https://github.com/truecharts/apps/compare/rsnapshot-1.0.17...rsnapshot-1.0.18) (2022-05-26)
+### [rsnappshot-1.0.18](https://github.com/truecharts/apps/compare/rsnapshot-1.0.17...rsnapshot-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="rsnapshot-1.0.17"></a>
 
-### [rsnapshot-1.0.17](https://github.com/truecharts/apps/compare/rsnapshot-1.0.16...rsnapshot-1.0.17) (2022-05-24)
+### [rsnappshot-1.0.17](https://github.com/truecharts/apps/compare/rsnapshot-1.0.16...rsnapshot-1.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="rsnapshot-1.0.16"></a>
 
-### [rsnapshot-1.0.16](https://github.com/truecharts/apps/compare/rsnapshot-1.0.15...rsnapshot-1.0.16) (2022-05-17)
+### [rsnappshot-1.0.16](https://github.com/truecharts/apps/compare/rsnapshot-1.0.15...rsnapshot-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="rsnapshot-1.0.16"></a>
 
-### [rsnapshot-1.0.16](https://github.com/truecharts/apps/compare/rsnapshot-1.0.15...rsnapshot-1.0.16) (2022-05-17)
+### [rsnappshot-1.0.16](https://github.com/truecharts/apps/compare/rsnapshot-1.0.15...rsnapshot-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="rsnapshot-1.0.15"></a>
 
-### [rsnapshot-1.0.15](https://github.com/truecharts/apps/compare/rsnapshot-1.0.14...rsnapshot-1.0.15) (2022-05-17)
+### [rsnappshot-1.0.15](https://github.com/truecharts/apps/compare/rsnapshot-1.0.14...rsnapshot-1.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="rsnapshot-1.0.14"></a>
 
-### [rsnapshot-1.0.14](https://github.com/truecharts/apps/compare/rsnapshot-1.0.13...rsnapshot-1.0.14) (2022-05-10)
+### [rsnappshot-1.0.14](https://github.com/truecharts/apps/compare/rsnapshot-1.0.13...rsnapshot-1.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="rsnapshot-1.0.12"></a>
 
-### [rsnapshot-1.0.12](https://github.com/truecharts/apps/compare/rsnapshot-1.0.11...rsnapshot-1.0.12) (2022-04-26)
+### [rsnappshot-1.0.12](https://github.com/truecharts/apps/compare/rsnapshot-1.0.11...rsnapshot-1.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="rsnapshot-1.0.11"></a>
 
-### [rsnapshot-1.0.11](https://github.com/truecharts/apps/compare/rsnapshot-1.0.10...rsnapshot-1.0.11) (2022-04-20)
+### [rsnappshot-1.0.11](https://github.com/truecharts/apps/compare/rsnapshot-1.0.10...rsnapshot-1.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="rsnapshot-1.0.10"></a>
 
-### [rsnapshot-1.0.10](https://github.com/truecharts/apps/compare/rsnapshot-1.0.9...rsnapshot-1.0.10) (2022-04-12)
+### [rsnappshot-1.0.10](https://github.com/truecharts/apps/compare/rsnapshot-1.0.9...rsnapshot-1.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="rsnapshot-1.0.8"></a>
 
-### [rsnapshot-1.0.8](https://github.com/truecharts/apps/compare/rsnapshot-1.0.7...rsnapshot-1.0.8) (2022-03-31)
+### [rsnappshot-1.0.8](https://github.com/truecharts/apps/compare/rsnapshot-1.0.7...rsnapshot-1.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="rsnapshot-1.0.7"></a>
 
-### [rsnapshot-1.0.7](https://github.com/truecharts/apps/compare/rsnapshot-1.0.6...rsnapshot-1.0.7) (2022-03-30)
+### [rsnappshot-1.0.7](https://github.com/truecharts/apps/compare/rsnapshot-1.0.6...rsnapshot-1.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="rsnapshot-1.0.6"></a>
 
-### [rsnapshot-1.0.6](https://github.com/truecharts/apps/compare/rsnapshot-1.0.5...rsnapshot-1.0.6) (2022-03-26)
+### [rsnappshot-1.0.6](https://github.com/truecharts/apps/compare/rsnapshot-1.0.5...rsnapshot-1.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="rsnapshot-1.0.1"></a>
 
-### [rsnapshot-1.0.1](https://github.com/truecharts/apps/compare/rsnapshot-1.0.0...rsnapshot-1.0.1) (2022-03-07)
+### [rsnappshot-1.0.1](https://github.com/truecharts/apps/compare/rsnapshot-1.0.0...rsnapshot-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="rsnapshot-0.0.23"></a>
 
-### [rsnapshot-0.0.23](https://github.com/truecharts/apps/compare/rsnapshot-0.0.22...rsnapshot-0.0.23) (2022-03-02)
+### [rsnappshot-0.0.23](https://github.com/truecharts/apps/compare/rsnapshot-0.0.22...rsnapshot-0.0.23) (2022-03-02)
 
 #### 聊天
 
@@ -370,7 +370,7 @@
 
 <a name="rsnapshot-0.0.22"></a>
 
-### [rsnapshot-0.0.22](https://github.com/truecharts/apps/compare/rsnapshot-0.0.21...rsnapshot-0.0.22) (2022-02-21)
+### [rsnappshot-0.0.22](https://github.com/truecharts/apps/compare/rsnapshot-0.0.21...rsnapshot-0.0.22) (2022-02-21)
 
 #### 聊天
 
@@ -390,7 +390,7 @@
 
 <a name="rsnapshot-0.0.20"></a>
 
-### [rsnapshot-0.0.20](https://github.com/truecharts/apps/compare/rsnapshot-0.0.19...rsnapshot-0.0.20) (2022-02-08)
+### [rsnappshot-0.0.20](https://github.com/truecharts/apps/compare/rsnapshot-0.0.19...rsnapshot-0.0.20) (2022-02-08)
 
 #### 聊天
 
@@ -430,7 +430,7 @@
 
 <a name="rsnapshot-0.0.16"></a>
 
-### [rsnapshot-0.0.16](https://github.com/truecharts/apps/compare/rsnapshot-0.0.15...rsnapshot-0.0.16) (2022-01-25)
+### [rsnappshot-0.0.16](https://github.com/truecharts/apps/compare/rsnapshot-0.0.15...rsnapshot-0.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -440,7 +440,7 @@
 
 <a name="rsnapshot-0.0.15"></a>
 
-### [rsnapshot-0.0.15](https://github.com/truecharts/apps/compare/rsnapshot-0.0.14...rsnapshot-0.0.15) (2022-01-22)
+### [rsnappshot-0.0.15](https://github.com/truecharts/apps/compare/rsnapshot-0.0.14...rsnapshot-0.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -450,7 +450,7 @@
 
 <a name="rsnapshot-0.0.14"></a>
 
-### [rsnapshot-0.0.14](https://github.com/truecharts/apps/compare/rsnapshot-0.0.13...rsnapshot-0.0.14) (2022-01-21)
+### [rsnappshot-0.0.14](https://github.com/truecharts/apps/compare/rsnapshot-0.0.13...rsnapshot-0.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -464,7 +464,7 @@
 
 <a name="rsnapshot-0.0.13"></a>
 
-### [rsnapshot-0.0.13](https://github.com/truecharts/apps/compare/rsnapshot-0.0.12...rsnapshot-0.0.13) (2022-01-18)
+### [rsnappshot-0.0.13](https://github.com/truecharts/apps/compare/rsnapshot-0.0.12...rsnapshot-0.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -488,7 +488,7 @@
 
 <a name="rsnapshot-0.0.11"></a>
 
-### [rsnapshot-0.0.11](https://github.com/truecharts/apps/compare/rsnapshot-0.0.10...rsnapshot-0.0.11) (2022-01-12)
+### [rsnappshot-0.0.11](https://github.com/truecharts/apps/compare/rsnapshot-0.0.10...rsnapshot-0.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -518,7 +518,7 @@
 
 <a name="rsnapshot-0.0.8"></a>
 
-### [rsnapshot-0.0.8](https://github.com/truecharts/apps/compare/rsnapshot-0.0.7...rsnapshot-0.0.8) (2021-12-28)
+### [rsnappshot-0.0.8](https://github.com/truecharts/apps/compare/rsnapshot-0.0.7...rsnapshot-0.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -538,7 +538,7 @@
 
 <a name="rsnapshot-0.0.6"></a>
 
-### [rsnapshot-0.0.6](https://github.com/truecharts/apps/compare/rsnapshot-0.0.5...rsnapshot-0.0.6) (2021-12-19)
+### [rsnappshot-0.0.6](https://github.com/truecharts/apps/compare/rsnapshot-0.0.5...rsnapshot-0.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -548,7 +548,7 @@
 
 <a name="rsnapshot-0.0.5"></a>
 
-### [rsnapshot-0.0.5](https://github.com/truecharts/apps/compare/rsnapshot-0.0.4...rsnapshot-0.0.5) (2021-12-19)
+### [rsnappshot-0.0.5](https://github.com/truecharts/apps/compare/rsnapshot-0.0.4...rsnapshot-0.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -559,7 +559,7 @@
 
 <a name="rsnapshot-0.0.4"></a>
 
-### [rsnapshot-0.0.4](https://github.com/truecharts/apps/compare/rsnapshot-0.0.3...rsnapshot-0.0.4) (2021-12-18)
+### [rsnapshot-0.0.4](https://github.com/truecharts/apps/compare/rsnapshot-0.0.3...rsnapshot-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
