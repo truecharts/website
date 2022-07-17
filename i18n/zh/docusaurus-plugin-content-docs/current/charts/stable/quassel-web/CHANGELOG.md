@@ -569,7 +569,7 @@
 
 <a name="quassel-web-0.0.4"></a>
 
-### [quassel-web-0.0.4](https://github.com/truecharts/apps/compare/quassel-web-0.0.3...quassel-web-0.0.4) (2021-12-18)
+### [quassel-web-0.0.4](https://github.com/truecharts/apps/compare/quassel-web-0.0.3...quassel-web-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -600,4 +600,4 @@
 
 <a name="quassel-web-0.0.1"></a>
 
-### quassel-web-0.0.1 (2021-12-12)
+### quassel-web-0.0.1 (2021-12)
