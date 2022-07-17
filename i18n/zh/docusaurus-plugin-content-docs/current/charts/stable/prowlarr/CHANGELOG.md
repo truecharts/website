@@ -1090,7 +1090,7 @@
 * 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
 * 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 * 更新非主要的背包头盔版本([#1471](https://github.com/truecharts/apps/issues/1471))
-* update non-major docker tags ([#1438](https://github.com/truecharts/apps/issues/1438))
+* 更新非主停靠标签[#1438](https://github.com/truecharts/apps/issues/1438)
 * 更新非主要的背包头盔版本([#1432](https://github.com/truecharts/apps/issues/1432))
 * 更新非主停靠标签[#1429](https://github.com/truecharts/apps/issues/1429)
 * 更新非主要([#1427](https://github.com/truecharts/apps/issues/1427))
@@ -1158,7 +1158,7 @@
 
 #### 聊天
 
-* update non-major docker tags ([#1438](https://github.com/truecharts/apps/issues/1438))
+* 更新非主停靠标签[#1438](https://github.com/truecharts/apps/issues/1438)
 
 
 
@@ -1190,7 +1190,7 @@
 
 #### 聊天
 
-* update non-major ([#1390](https://github.com/truecharts/apps/issues/1390))
+* 更新非主要([#1390](https://github.com/truecharts/apps/issues/1390))
 
 
 
@@ -1410,7 +1410,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1544,7 +1544,7 @@
 
 #### 聊天
 
-* update non-major ([#1103](https://github.com/truecharts/apps/issues/1103))
+* 更新非主要([#1103](https://github.com/truecharts/apps/issues/1103))
 
 
 
