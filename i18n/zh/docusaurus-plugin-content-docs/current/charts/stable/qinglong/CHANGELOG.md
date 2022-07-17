@@ -411,7 +411,7 @@
 
 #### Feat
 
-* Move to stable ([#2143](https://github.com/truecharts/apps/issues/2143))
+* 移动到稳定的 ([#2143](https://github.com/truecharts/apps/issues/2143))
 
 
 
@@ -421,7 +421,7 @@
 
 #### 聊天
 
-* Update digest ([#2139](https://github.com/truecharts/apps/issues/2139))
+* 更新摘要 ([#2139](https://github.com/truecharts/apps/issues/2139))
 
 
 
@@ -431,4 +431,4 @@
 
 #### Feat
 
-* Add qinglong ([#2133](https://github.com/truecharts/apps/issues/2133))
+* 添加qinglong ([#2133](https://github.com/truecharts/apps/issues/2133))
