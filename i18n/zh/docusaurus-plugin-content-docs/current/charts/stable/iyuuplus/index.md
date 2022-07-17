@@ -1,12 +1,12 @@
 # iyuuplus
 
-The IYUU automatic seeding tool can automatically seed most PT sites in China, support downloader clusters, multiple disks, multiple download directories, connecting to remote downloaders, etc.
+IYUU 自动做种工具可以自动种子网站在中国的大多数热点站点，支持下载集群。 多个磁盘、多个下载目录、连接到远程下载器等。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://hub.docker.com/r/iyuucn/iyuuplus>
+* [https://hub.docker.com/r/iyuucn/iyuulplus](https://hub.docker.com/r/iyuucn/iyuuplus)
 
 ## B. 所需经费
 
