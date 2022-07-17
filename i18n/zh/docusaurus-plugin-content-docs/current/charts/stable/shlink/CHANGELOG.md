@@ -627,7 +627,7 @@
 
 #### Feat
 
-* move it to stable ([#1743](https://github.com/truecharts/apps/issues/1743))
+* 移动到稳定位置([#1743](https://github.com/truecharts/apps/issues/1743))
 
 
 
@@ -681,8 +681,8 @@
 
 #### Feat
 
-* add some gui options ([#1682](https://github.com/truecharts/apps/issues/1682))
-* add probes on health endpoint ([#1672](https://github.com/truecharts/apps/issues/1672))
+* 添加一些界面选项 ([#1682](https://github.com/truecharts/apps/issues/1682))
+* 在健康端点上添加探测器 ([#1672](https://github.com/truecharts/apps/issues/1672))
 
 
 
@@ -712,7 +712,7 @@
 
 #### 修复
 
-* protocol is `HTTP` ([#1619](https://github.com/truecharts/apps/issues/1619))
+* 协议是 `HTTP` ([#1619](https://github.com/truecharts/apps/issues/1619))
 
 
 
@@ -722,4 +722,4 @@
 
 #### Feat
 
-* Add shlink ([#1616](https://github.com/truecharts/apps/issues/1616))
+* 添加shlink ([#1616](https://github.com/truecharts/apps/issues/1616))
