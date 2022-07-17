@@ -1,6 +1,6 @@
 # 哈布里堡
 
-Habridge emulates Philips Hue API to other home automation gateways such as an Amazon Echo/Dot or other systems that support Philips Hue.
+Habridge仿真Philips Hue API 到其他家庭自动化网关，如亚马逊Echo/Dot或其他支持Philips Hue的系统。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
