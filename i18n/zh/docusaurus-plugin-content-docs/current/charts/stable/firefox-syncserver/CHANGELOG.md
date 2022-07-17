@@ -270,7 +270,7 @@
 
 #### 修复
 
-* fix to use PostgreSQL instead of SQLite ([#2669](https://github.com/truecharts/apps/issues/2669))
+* 修复使用 PostgreSQL 而不是 SQLite ([#2669](https://github.com/truecharts/apps/issues/2669))
 
 
 
