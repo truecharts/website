@@ -573,7 +573,7 @@
 
 #### 修复
 
-* revert removing of trailing slash ([#1566](https://github.com/truecharts/apps/issues/1566))
+* 恢复删除尾随斜杠([#1566](https://github.com/truecharts/apps/issues/1566))
 
 
 
@@ -610,11 +610,11 @@
 
 <a name="openldap-5.0.2"></a>
 
-### [openldap-5.0.2](https://github.com/truecharts/apps/compare/openldap-5.0.1...openldap-5.0.2) (2021-12-12)
+### [openldap-5.0.2](https://github.com/truecharts/apps/compare/openldap-5.0.1...openldap-5.0.2) (2021-12)
 
 #### 修复
 
-* remove required setting on booleans in questions
+* 在问题中删除必需的布尔值
 
 
 
@@ -807,7 +807,7 @@
 #### 修复
 
 * 允许路径中的空格 ([#1306](https://github.com/truecharts/apps/issues/1306))
-* bump common to fix volumeclaim error
+* bump 常见修复卷号错误
 
 
 
@@ -817,7 +817,7 @@
 
 #### 修复
 
-* fix release.name issues when installing
+* 安装时修复release.name 问题
 
 
 
@@ -932,7 +932,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
