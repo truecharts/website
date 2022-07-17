@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [resilio-sync-6.0.19](https://github.com/truecharts/apps/compare/resilio-sync-6.0.18...resilio-sync-6.0.19) (2022-07-14)
+## [复原力-6.0.19](https://github.com/truecharts/apps/compare/resilio-sync-6.0.18...resilio-sync-6.0.19) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [resilio-sync-6.0.18](https://github.com/truecharts/apps/compare/resilio-sync-6.0.16...resilio-sync-6.0.18) (2022-07-14)
+## [复原力-6.0.18](https://github.com/truecharts/apps/compare/resilio-sync-6.0.16...resilio-sync-6.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [resilio-sync-6.0.16](https://github.com/truecharts/apps/compare/resilio-sync-6.0.14...resilio-sync-6.0.16) (2022-07-12)
+## [复原力-6.0.16](https://github.com/truecharts/apps/compare/resilio-sync-6.0.14...resilio-sync-6.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [resilio-sync-6.0.14](https://github.com/truecharts/apps/compare/resilio-sync-6.0.13...resilio-sync-6.0.14) (2022-07-12)
+## [弹性-同步-6.0.14](https://github.com/truecharts/apps/compare/resilio-sync-6.0.13...resilio-sync-6.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="resilio-sync-6.0.13"></a>
 
-### [resilio-sync-6.0.13](https://github.com/truecharts/apps/compare/resilio-sync-6.0.12...resilio-sync-6.0.13) (2022-07-12)
+### [复原力-6.0.13](https://github.com/truecharts/apps/compare/resilio-sync-6.0.12...resilio-sync-6.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="resilio-sync-6.0.12"></a>
 
-### [resilio-sync-6.0.12](https://github.com/truecharts/apps/compare/resilio-sync-6.0.11...resilio-sync-6.0.12) (2022-07-11)
+### [复原力-6.0.12](https://github.com/truecharts/apps/compare/resilio-sync-6.0.11...resilio-sync-6.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="resilio-sync-6.0.11"></a>
 
-### [resilio-sync-6.0.11](https://github.com/truecharts/apps/compare/resilio-sync-6.0.10...resilio-sync-6.0.11) (2022-07-10)
+### [弹性-同步-6.0.11](https://github.com/truecharts/apps/compare/resilio-sync-6.0.10...resilio-sync-6.0.11) (2022-07-10)
 
 #### 修复
 
@@ -66,7 +66,7 @@
 
 <a name="resilio-sync-6.0.10"></a>
 
-### [resilio-sync-6.0.10](https://github.com/truecharts/apps/compare/resilio-sync-6.0.9...resilio-sync-6.0.10) (2022-07-09)
+### [复原力-6.0.10](https://github.com/truecharts/apps/compare/resilio-sync-6.0.9...resilio-sync-6.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="resilio-sync-6.0.9"></a>
 
-### [resilio-sync-6.0.9](https://github.com/truecharts/apps/compare/resilio-sync-6.0.8...resilio-sync-6.0.9) (2022-07-09)
+### [复原力-6.0.9](https://github.com/truecharts/apps/compare/resilio-sync-6.0.8...resilio-sync-6.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="resilio-sync-6.0.8"></a>
 
-### [resilio-sync-6.0.8](https://github.com/truecharts/apps/compare/resilio-sync-6.0.7...resilio-sync-6.0.8) (2022-07-04)
+### [复原力-6.0.8](https://github.com/truecharts/apps/compare/resilio-sync-6.0.7...resilio-sync-6.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="resilio-sync-6.0.7"></a>
 
-### [resilio-sync-6.0.7](https://github.com/truecharts/apps/compare/resilio-sync-6.0.6...resilio-sync-6.0.7) (2022-06-25)
+### [复原力-6.0.7](https://github.com/truecharts/apps/compare/resilio-sync-6.0.6...resilio-sync-6.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="resilio-sync-6.0.6"></a>
 
-### [resilio-sync-6.0.6](https://github.com/truecharts/apps/compare/resilio-sync-6.0.5...resilio-sync-6.0.6) (2022-06-22)
+### [弹性-同步-6.0.6](https://github.com/truecharts/apps/compare/resilio-sync-6.0.5...resilio-sync-6.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="resilio-sync-6.0.5"></a>
 
-### [resilio-sync-6.0.5](https://github.com/truecharts/apps/compare/resilio-sync-6.0.4...resilio-sync-6.0.5) (2022-06-21)
+### [弹性-同步-6.0.5](https://github.com/truecharts/apps/compare/resilio-sync-6.0.4...resilio-sync-6.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="resilio-sync-6.0.4"></a>
 
-### [resilio-sync-6.0.4](https://github.com/truecharts/apps/compare/resilio-sync-6.0.3...resilio-sync-6.0.4) (2022-06-14)
+### [弹性-同步-6.0.4](https://github.com/truecharts/apps/compare/resilio-sync-6.0.3...resilio-sync-6.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="resilio-sync-6.0.3"></a>
 
-### [resilio-sync-6.0.3](https://github.com/truecharts/apps/compare/resilio-sync-6.0.2...resilio-sync-6.0.3) (2022-06-11)
+### [复原力-6.0.3](https://github.com/truecharts/apps/compare/resilio-sync-6.0.2...resilio-sync-6.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="resilio-sync-6.0.2"></a>
 
-### [resilio-sync-6.0.2](https://github.com/truecharts/apps/compare/resilio-sync-6.0.1...resilio-sync-6.0.2) (2022-06-07)
+### [弹性-同步-6.0.2](https://github.com/truecharts/apps/compare/resilio-sync-6.0.1...resilio-sync-6.0.2) (2022-06-07)
 
 #### 修复
 
@@ -156,7 +156,7 @@
 
 <a name="resilio-sync-6.0.1"></a>
 
-### [resilio-sync-6.0.1](https://github.com/truecharts/apps/compare/resilio-sync-5.0.19...resilio-sync-6.0.1) (2022-06-07)
+### [弹性-同步-6.0.1](https://github.com/truecharts/apps/compare/resilio-sync-5.0.19...resilio-sync-6.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -175,7 +175,7 @@
 
 <a name="resilio-sync-6.0.0"></a>
 
-### [resilio-sync-6.0.0](https://github.com/truecharts/apps/compare/resilio-sync-5.0.19...resilio-sync-6.0.0) (2022-06-07)
+### [复原力-6.0.0](https://github.com/truecharts/apps/compare/resilio-sync-5.0.19...resilio-sync-6.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -189,7 +189,7 @@
 
 <a name="resilio-sync-5.0.19"></a>
 
-### [resilio-sync-5.0.19](https://github.com/truecharts/apps/compare/resilio-sync-5.0.18...resilio-sync-5.0.19) (2022-05-31)
+### [复原力同步-5.0.19](https://github.com/truecharts/apps/compare/resilio-sync-5.0.18...resilio-sync-5.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -199,7 +199,7 @@
 
 <a name="resilio-sync-5.0.18"></a>
 
-### [resilio-sync-5.0.18](https://github.com/truecharts/apps/compare/resilio-sync-5.0.17...resilio-sync-5.0.18) (2022-05-26)
+### [弹性同步-5.0.18](https://github.com/truecharts/apps/compare/resilio-sync-5.0.17...resilio-sync-5.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="resilio-sync-5.0.18"></a>
 
-### [resilio-sync-5.0.18](https://github.com/truecharts/apps/compare/resilio-sync-5.0.17...resilio-sync-5.0.18) (2022-05-26)
+### [弹性同步-5.0.18](https://github.com/truecharts/apps/compare/resilio-sync-5.0.17...resilio-sync-5.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -220,7 +220,7 @@
 
 <a name="resilio-sync-5.0.17"></a>
 
-### [resilio-sync-5.0.17](https://github.com/truecharts/apps/compare/resilio-sync-5.0.16...resilio-sync-5.0.17) (2022-05-24)
+### [复原力-同步5.0.17](https://github.com/truecharts/apps/compare/resilio-sync-5.0.16...resilio-sync-5.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -230,7 +230,7 @@
 
 <a name="resilio-sync-5.0.16"></a>
 
-### [resilio-sync-5.0.16](https://github.com/truecharts/apps/compare/resilio-sync-5.0.15...resilio-sync-5.0.16) (2022-05-17)
+### [弹性同步-5.0.16](https://github.com/truecharts/apps/compare/resilio-sync-5.0.15...resilio-sync-5.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="resilio-sync-5.0.16"></a>
 
-### [resilio-sync-5.0.16](https://github.com/truecharts/apps/compare/resilio-sync-5.0.15...resilio-sync-5.0.16) (2022-05-17)
+### [弹性同步-5.0.16](https://github.com/truecharts/apps/compare/resilio-sync-5.0.15...resilio-sync-5.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="resilio-sync-5.0.15"></a>
 
-### [resilio-sync-5.0.15](https://github.com/truecharts/apps/compare/resilio-sync-5.0.14...resilio-sync-5.0.15) (2022-05-17)
+### [复原力-同步5.0.15](https://github.com/truecharts/apps/compare/resilio-sync-5.0.14...resilio-sync-5.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="resilio-sync-5.0.14"></a>
 
-### [resilio-sync-5.0.14](https://github.com/truecharts/apps/compare/resilio-sync-5.0.13...resilio-sync-5.0.14) (2022-05-10)
+### [复原力-同步-5.0.14](https://github.com/truecharts/apps/compare/resilio-sync-5.0.13...resilio-sync-5.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="resilio-sync-5.0.13"></a>
 
-### [resilio-sync-5.0.13](https://github.com/truecharts/apps/compare/resilio-sync-5.0.12...resilio-sync-5.0.13) (2022-05-05)
+### [复原力-同步-5.0.13](https://github.com/truecharts/apps/compare/resilio-sync-5.0.12...resilio-sync-5.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="resilio-sync-5.0.12"></a>
 
-### [resilio-sync-5.0.12](https://github.com/truecharts/apps/compare/resilio-sync-5.0.11...resilio-sync-5.0.12) (2022-04-26)
+### [复原力-同步-5.0.12](https://github.com/truecharts/apps/compare/resilio-sync-5.0.11...resilio-sync-5.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -291,7 +291,7 @@
 
 <a name="resilio-sync-5.0.11"></a>
 
-### [resilio-sync-5.0.11](https://github.com/truecharts/apps/compare/resilio-sync-5.0.10...resilio-sync-5.0.11) (2022-04-20)
+### [复原力同步-5.0.11](https://github.com/truecharts/apps/compare/resilio-sync-5.0.10...resilio-sync-5.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="resilio-sync-5.0.10"></a>
 
-### [resilio-sync-5.0.10](https://github.com/truecharts/apps/compare/resilio-sync-5.0.9...resilio-sync-5.0.10) (2022-04-12)
+### [复原力-同步5.0.10](https://github.com/truecharts/apps/compare/resilio-sync-5.0.9...resilio-sync-5.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="resilio-sync-5.0.9"></a>
 
-### [resilio-sync-5.0.9](https://github.com/truecharts/apps/compare/resilio-sync-5.0.8...resilio-sync-5.0.9) (2022-04-03)
+### [复原力-同步-5.0.9](https://github.com/truecharts/apps/compare/resilio-sync-5.0.8...resilio-sync-5.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="resilio-sync-5.0.8"></a>
 
-### [resilio-sync-5.0.8](https://github.com/truecharts/apps/compare/resilio-sync-5.0.7...resilio-sync-5.0.8) (2022-03-31)
+### [复原力-同步5.0.8](https://github.com/truecharts/apps/compare/resilio-sync-5.0.7...resilio-sync-5.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="resilio-sync-5.0.7"></a>
 
-### [resilio-sync-5.0.7](https://github.com/truecharts/apps/compare/resilio-sync-5.0.6...resilio-sync-5.0.7) (2022-03-30)
+### [复原力-同步5.0.7](https://github.com/truecharts/apps/compare/resilio-sync-5.0.6...resilio-sync-5.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="resilio-sync-5.0.6"></a>
 
-### [resilio-sync-5.0.6](https://github.com/truecharts/apps/compare/resilio-sync-5.0.5...resilio-sync-5.0.6) (2022-03-26)
+### [复原力-同步-5.0.6](https://github.com/truecharts/apps/compare/resilio-sync-5.0.5...resilio-sync-5.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -352,7 +352,7 @@
 
 <a name="resilio-sync-5.0.1"></a>
 
-### [resilio-sync-5.0.1](https://github.com/truecharts/apps/compare/resilio-sync-5.0.0...resilio-sync-5.0.1) (2022-03-07)
+### [复原力-同步-5.0.1](https://github.com/truecharts/apps/compare/resilio-sync-5.0.0...resilio-sync-5.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -363,7 +363,7 @@
 
 <a name="resilio-sync-5.0.0"></a>
 
-### [resilio-sync-5.0.0](https://github.com/truecharts/apps/compare/resilio-sync-4.0.43...resilio-sync-5.0.0) (2022-03-03)
+### [复原力-同步-5..0.0](https://github.com/truecharts/apps/compare/resilio-sync-4.0.43...resilio-sync-5.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="resilio-sync-4.0.43"></a>
 
-### [resilio-sync-4.0.43](https://github.com/truecharts/apps/compare/resilio-sync-4.0.42...resilio-sync-4.0.43) (2022-03-02)
+### [复原力-同步4.0.43](https://github.com/truecharts/apps/compare/resilio-sync-4.0.42...resilio-sync-4.0.43) (2022-03-02)
 
 #### 聊天
 
@@ -392,7 +392,7 @@
 
 <a name="resilio-sync-4.0.42"></a>
 
-### [resilio-sync-4.0.42](https://github.com/truecharts/apps/compare/resilio-sync-4.0.41...resilio-sync-4.0.42) (2022-02-21)
+### [复原力-同步4.0.42](https://github.com/truecharts/apps/compare/resilio-sync-4.0.41...resilio-sync-4.0.42) (2022-02-21)
 
 #### 聊天
 
@@ -402,7 +402,7 @@
 
 <a name="resilio-sync-4.0.41"></a>
 
-### [resilio-sync-4.0.41](https://github.com/truecharts/apps/compare/resilio-sync-4.0.40...resilio-sync-4.0.41) (2022-02-15)
+### [复原力-同步4.0.41](https://github.com/truecharts/apps/compare/resilio-sync-4.0.40...resilio-sync-4.0.41) (2022-02-15)
 
 #### 聊天
 
@@ -412,7 +412,7 @@
 
 <a name="resilio-sync-4.0.40"></a>
 
-### [resilio-sync-4.0.40](https://github.com/truecharts/apps/compare/resilio-sync-4.0.39...resilio-sync-4.0.40) (2022-02-08)
+### [复原力-同步4.0.40](https://github.com/truecharts/apps/compare/resilio-sync-4.0.39...resilio-sync-4.0.40) (2022-02-08)
 
 #### 聊天
 
@@ -423,7 +423,7 @@
 
 <a name="resilio-sync-4.0.39"></a>
 
-### [resilio-sync-4.0.39](https://github.com/truecharts/apps/compare/resilio-sync-4.0.38...resilio-sync-4.0.39) (2022-02-06)
+### [复原力-同步-4.0.39](https://github.com/truecharts/apps/compare/resilio-sync-4.0.38...resilio-sync-4.0.39) (2022-02-06)
 
 #### 聊天
 
@@ -433,7 +433,7 @@
 
 <a name="resilio-sync-4.0.38"></a>
 
-### [resilio-sync-4.0.38](https://github.com/truecharts/apps/compare/resilio-sync-4.0.37...resilio-sync-4.0.38) (2022-02-05)
+### [弹性同步-4.0.38](https://github.com/truecharts/apps/compare/resilio-sync-4.0.37...resilio-sync-4.0.38) (2022-02-05)
 
 #### 聊天
 
@@ -443,7 +443,7 @@
 
 <a name="resilio-sync-4.0.37"></a>
 
-### [resilio-sync-4.0.37](https://github.com/truecharts/apps/compare/resilio-sync-4.0.36...resilio-sync-4.0.37) (2022-02-02)
+### [复原力-同步4.0.37](https://github.com/truecharts/apps/compare/resilio-sync-4.0.36...resilio-sync-4.0.37) (2022-02-02)
 
 #### 聊天
 
@@ -453,7 +453,7 @@
 
 <a name="resilio-sync-4.0.36"></a>
 
-### [resilio-sync-4.0.36](https://github.com/truecharts/apps/compare/resilio-sync-4.0.35...resilio-sync-4.0.36) (2022-01-25)
+### [复原力-同步-4.0.36](https://github.com/truecharts/apps/compare/resilio-sync-4.0.35...resilio-sync-4.0.36) (2022-01-25)
 
 #### 聊天
 
@@ -463,7 +463,7 @@
 
 <a name="resilio-sync-4.0.35"></a>
 
-### [resilio-sync-4.0.35](https://github.com/truecharts/apps/compare/resilio-sync-4.0.34...resilio-sync-4.0.35) (2022-01-22)
+### [复原力-同步4.0.35](https://github.com/truecharts/apps/compare/resilio-sync-4.0.34...resilio-sync-4.0.35) (2022-01-22)
 
 #### 聊天
 
@@ -473,7 +473,7 @@
 
 <a name="resilio-sync-4.0.34"></a>
 
-### [resilio-sync-4.0.34](https://github.com/truecharts/apps/compare/resilio-sync-4.0.33...resilio-sync-4.0.34) (2022-01-21)
+### [复原力-同步4.0.34](https://github.com/truecharts/apps/compare/resilio-sync-4.0.33...resilio-sync-4.0.34) (2022-01-21)
 
 #### 聊天
 
@@ -487,7 +487,7 @@
 
 <a name="resilio-sync-4.0.33"></a>
 
-### [resilio-sync-4.0.33](https://github.com/truecharts/apps/compare/resilio-sync-4.0.32...resilio-sync-4.0.33) (2022-01-18)
+### [弹性同步-4.0.33](https://github.com/truecharts/apps/compare/resilio-sync-4.0.32...resilio-sync-4.0.33) (2022-01-18)
 
 #### 聊天
 
@@ -497,7 +497,7 @@
 
 <a name="resilio-sync-4.0.32"></a>
 
-### [resilio-sync-4.0.32](https://github.com/truecharts/apps/compare/resilio-sync-4.0.31...resilio-sync-4.0.32) (2022-01-13)
+### [复原力-同步4.0.32](https://github.com/truecharts/apps/compare/resilio-sync-4.0.31...resilio-sync-4.0.32) (2022-01-13)
 
 #### 聊天
 
@@ -511,7 +511,7 @@
 
 <a name="resilio-sync-4.0.31"></a>
 
-### [resilio-sync-4.0.31](https://github.com/truecharts/apps/compare/resilio-sync-4.0.30...resilio-sync-4.0.31) (2022-01-12)
+### [复原力-同步4.0.31](https://github.com/truecharts/apps/compare/resilio-sync-4.0.30...resilio-sync-4.0.31) (2022-01-12)
 
 #### 聊天
 
@@ -521,7 +521,7 @@
 
 <a name="resilio-sync-4.0.30"></a>
 
-### [resilio-sync-4.0.30](https://github.com/truecharts/apps/compare/resilio-sync-4.0.29...resilio-sync-4.0.30) (2022-01-11)
+### [复原力-同步4.0.30](https://github.com/truecharts/apps/compare/resilio-sync-4.0.29...resilio-sync-4.0.30) (2022-01-11)
 
 #### 聊天
 
@@ -531,7 +531,7 @@
 
 <a name="resilio-sync-4.0.29"></a>
 
-### [resilio-sync-4.0.29](https://github.com/truecharts/apps/compare/resilio-sync-4.0.28...resilio-sync-4.0.29) (2022-01-04)
+### [复原力-同步4.0.29](https://github.com/truecharts/apps/compare/resilio-sync-4.0.28...resilio-sync-4.0.29) (2022-01-04)
 
 #### 聊天
 
@@ -541,7 +541,7 @@
 
 <a name="resilio-sync-4.0.28"></a>
 
-### [resilio-sync-4.0.28](https://github.com/truecharts/apps/compare/resilio-sync-4.0.27...resilio-sync-4.0.28) (2021-12-28)
+### [复原力-同步4.0.28](https://github.com/truecharts/apps/compare/resilio-sync-4.0.27...resilio-sync-4.0.28) (2021-12-28)
 
 #### 聊天
 
@@ -551,7 +551,7 @@
 
 <a name="resilio-sync-4.0.27"></a>
 
-### [resilio-sync-4.0.27](https://github.com/truecharts/apps/compare/resilio-sync-4.0.26...resilio-sync-4.0.27) (2021-12-21)
+### [复原力-同步4.0.27](https://github.com/truecharts/apps/compare/resilio-sync-4.0.26...resilio-sync-4.0.27) (2021-12-21)
 
 #### 聊天
 
@@ -561,17 +561,17 @@
 
 <a name="resilio-sync-4.0.26"></a>
 
-### [resilio-sync-4.0.26](https://github.com/truecharts/apps/compare/resilio-sync-4.0.25...resilio-sync-4.0.26) (2021-12-21)
+### [复原力-同步4.0.26](https://github.com/truecharts/apps/compare/resilio-sync-4.0.25...resilio-sync-4.0.26) (2021-12-21)
 
 #### 修复
 
-* allow access to rootfs ([#1593](https://github.com/truecharts/apps/issues/1593))
+* 允许访问 rootfs ([#1593](https://github.com/truecharts/apps/issues/1593))
 
 
 
 <a name="resilio-sync-4.0.25"></a>
 
-### [resilio-sync-4.0.25](https://github.com/truecharts/apps/compare/resilio-sync-4.0.24...resilio-sync-4.0.25) (2021-12-19)
+### [复原力-同步4.0.25](https://github.com/truecharts/apps/compare/resilio-sync-4.0.24...resilio-sync-4.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -583,7 +583,7 @@
 
 <a name="resilio-sync-4.0.24"></a>
 
-### [resilio-sync-4.0.24](https://github.com/truecharts/apps/compare/resilio-sync-4.0.23...resilio-sync-4.0.24) (2021-12-19)
+### [复原力-同步4.0.24](https://github.com/truecharts/apps/compare/resilio-sync-4.0.23...resilio-sync-4.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -595,7 +595,7 @@
 
 <a name="resilio-sync-4.0.23"></a>
 
-### [resilio-sync-4.0.23](https://github.com/truecharts/apps/compare/resilio-sync-4.0.22...resilio-sync-4.0.23) (2021-12-18)
+### [复原力-同步4.0.23](https://github.com/truecharts/apps/compare/resilio-sync-4.0.22...resilio-sync-4.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -606,7 +606,7 @@
 
 <a name="resilio-sync-4.0.22"></a>
 
-### [resilio-sync-4.0.22](https://github.com/truecharts/apps/compare/resilio-sync-4.0.21...resilio-sync-4.0.22) (2021-12-14)
+### [复原力-同步4.0.22](https://github.com/truecharts/apps/compare/resilio-sync-4.0.21...resilio-sync-4.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -616,7 +616,7 @@
 
 <a name="resilio-sync-4.0.21"></a>
 
-### [resilio-sync-4.0.21](https://github.com/truecharts/apps/compare/resilio-sync-4.0.20...resilio-sync-4.0.21) (2021-12-13)
+### [复原力-同步4.0.21](https://github.com/truecharts/apps/compare/resilio-sync-4.0.20...resilio-sync-4.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -626,7 +626,7 @@
 
 <a name="resilio-sync-4.0.20"></a>
 
-### [resilio-sync-4.0.20](https://github.com/truecharts/apps/compare/resilio-sync-4.0.19...resilio-sync-4.0.20) (2021-12-11)
+### [复原力-同步4.0.20](https://github.com/truecharts/apps/compare/resilio-sync-4.0.19...resilio-sync-4.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -641,7 +641,7 @@
 
 <a name="resilio-sync-4.0.19"></a>
 
-### [resilio-sync-4.0.19](https://github.com/truecharts/apps/compare/resilio-sync-4.0.18...resilio-sync-4.0.19) (2021-12-07)
+### [复原力-同步4.0.19](https://github.com/truecharts/apps/compare/resilio-sync-4.0.18...resilio-sync-4.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -651,7 +651,7 @@
 
 <a name="resilio-sync-4.0.18"></a>
 
-### resilio-sync-4.0.18 (2021-12-05)
+### 复原力-同步4.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -671,7 +671,7 @@
 
 <a name="resilio-sync-4.0.17"></a>
 
-### [resilio-sync-4.0.17](https://github.com/truecharts/apps/compare/resilio-sync-4.0.16...resilio-sync-4.0.17) (2021-12-05)
+### [复原力-同步4.0.17](https://github.com/truecharts/apps/compare/resilio-sync-4.0.16...resilio-sync-4.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -681,7 +681,7 @@
 
 <a name="resilio-sync-4.0.16"></a>
 
-### [resilio-sync-4.0.16](https://github.com/truecharts/apps/compare/resilio-sync-4.0.15...resilio-sync-4.0.16) (2021-12-04)
+### [复原力-同步4.0.16](https://github.com/truecharts/apps/compare/resilio-sync-4.0.15...resilio-sync-4.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -691,7 +691,7 @@
 
 <a name="resilio-sync-4.0.15"></a>
 
-### [resilio-sync-4.0.15](https://github.com/truecharts/apps/compare/resilio-sync-4.0.14...resilio-sync-4.0.15) (2021-12-04)
+### [复原力-同步4.0.15](https://github.com/truecharts/apps/compare/resilio-sync-4.0.14...resilio-sync-4.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -701,7 +701,7 @@
 
 <a name="resilio-sync-4.0.14"></a>
 
-### [resilio-sync-4.0.14](https://github.com/truecharts/apps/compare/resilio-sync-4.0.13...resilio-sync-4.0.14) (2021-12-03)
+### [复原力-同步4.0.14](https://github.com/truecharts/apps/compare/resilio-sync-4.0.13...resilio-sync-4.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -712,7 +712,7 @@
 
 <a name="resilio-sync-4.0.13"></a>
 
-### [resilio-sync-4.0.13](https://github.com/truecharts/apps/compare/resilio-sync-4.0.12...resilio-sync-4.0.13) (2021-11-30)
+### [复原力-同步4.0.13](https://github.com/truecharts/apps/compare/resilio-sync-4.0.12...resilio-sync-4.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -722,7 +722,7 @@
 
 <a name="resilio-sync-4.0.12"></a>
 
-### [resilio-sync-4.0.12](https://github.com/truecharts/apps/compare/resilio-sync-4.0.11...resilio-sync-4.0.12) (2021-11-23)
+### [复原力-同步-4.0.12](https://github.com/truecharts/apps/compare/resilio-sync-4.0.11...resilio-sync-4.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -732,7 +732,7 @@
 
 <a name="resilio-sync-4.0.11"></a>
 
-### [resilio-sync-4.0.11](https://github.com/truecharts/apps/compare/resilio-sync-4.0.10...resilio-sync-4.0.11) (2021-11-22)
+### [复原力-同步4.0.11](https://github.com/truecharts/apps/compare/resilio-sync-4.0.10...resilio-sync-4.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -746,7 +746,7 @@
 
 <a name="resilio-sync-4.0.10"></a>
 
-### [resilio-sync-4.0.10](https://github.com/truecharts/apps/compare/resilio-sync-4.0.9...resilio-sync-4.0.10) (2021-11-16)
+### [复原力-同步4.0.10](https://github.com/truecharts/apps/compare/resilio-sync-4.0.9...resilio-sync-4.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -756,7 +756,7 @@
 
 <a name="resilio-sync-4.0.9"></a>
 
-### [resilio-sync-4.0.9](https://github.com/truecharts/apps/compare/resilio-sync-4.0.8...resilio-sync-4.0.9) (2021-11-15)
+### [复原力-同步4.0.9](https://github.com/truecharts/apps/compare/resilio-sync-4.0.8...resilio-sync-4.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -767,7 +767,7 @@
 
 <a name="resilio-sync-4.0.8"></a>
 
-### [resilio-sync-4.0.8](https://github.com/truecharts/apps/compare/resilio-sync-4.0.7...resilio-sync-4.0.8) (2021-11-14)
+### [复原力-同步4.0.8](https://github.com/truecharts/apps/compare/resilio-sync-4.0.7...resilio-sync-4.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -785,7 +785,7 @@
 
 <a name="resilio-sync-4.0.7"></a>
 
-### [resilio-sync-4.0.7](https://github.com/truecharts/apps/compare/resilio-sync-4.0.6...resilio-sync-4.0.7) (2021-11-09)
+### [复原力-同步4.0.7](https://github.com/truecharts/apps/compare/resilio-sync-4.0.6...resilio-sync-4.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -795,7 +795,7 @@
 
 <a name="resilio-sync-4.0.6"></a>
 
-### [resilio-sync-4.0.6](https://github.com/truecharts/apps/compare/resilio-sync-4.0.5...resilio-sync-4.0.6) (2021-11-07)
+### [复原力-同步4.0.6](https://github.com/truecharts/apps/compare/resilio-sync-4.0.5...resilio-sync-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -805,7 +805,7 @@
 
 <a name="resilio-sync-4.0.5"></a>
 
-### [resilio-sync-4.0.5](https://github.com/truecharts/apps/compare/resilio-sync-4.0.4...resilio-sync-4.0.5) (2021-11-07)
+### [复原力-同步4.0.5](https://github.com/truecharts/apps/compare/resilio-sync-4.0.4...resilio-sync-4.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -823,7 +823,7 @@
 
 <a name="resilio-sync-4.0.4"></a>
 
-### [resilio-sync-4.0.4](https://github.com/truecharts/apps/compare/resilio-sync-4.0.3...resilio-sync-4.0.4) (2021-11-02)
+### [复原力-同步4.0.4](https://github.com/truecharts/apps/compare/resilio-sync-4.0.3...resilio-sync-4.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -833,7 +833,7 @@
 
 <a name="resilio-sync-4.0.3"></a>
 
-### [resilio-sync-4.0.3](https://github.com/truecharts/apps/compare/resilio-sync-4.0.2...resilio-sync-4.0.3) (2021-11-01)
+### [复原力-同步-4.0.3](https://github.com/truecharts/apps/compare/resilio-sync-4.0.2...resilio-sync-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -843,7 +843,7 @@
 
 <a name="resilio-sync-4.0.2"></a>
 
-### [resilio-sync-4.0.2](https://github.com/truecharts/apps/compare/resilio-sync-4.0.1...resilio-sync-4.0.2) (2021-10-26)
+### [复原力-同步4.0.2](https://github.com/truecharts/apps/compare/resilio-sync-4.0.1...resilio-sync-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -853,7 +853,7 @@
 
 <a name="resilio-sync-4.0.1"></a>
 
-### [resilio-sync-4.0.1](https://github.com/truecharts/apps/compare/resilio-sync-4.0.0...resilio-sync-4.0.1) (2021-10-26)
+### [复原力-同步4.0.1](https://github.com/truecharts/apps/compare/resilio-sync-4.0.0...resilio-sync-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -863,7 +863,7 @@
 
 <a name="resilio-sync-4.0.0"></a>
 
-### [resilio-sync-4.0.0](https://github.com/truecharts/apps/compare/resilio-sync-3.0.16...resilio-sync-4.0.0) (2021-10-25)
+### [复原力-同步4.0.0](https://github.com/truecharts/apps/compare/resilio-sync-3.0.16...resilio-sync-4.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -873,12 +873,12 @@
 
 <a name="resilio-sync-3.0.16"></a>
 
-### [resilio-sync-3.0.16](https://github.com/truecharts/apps/compare/resilio-sync-3.0.13...resilio-sync-3.0.16) (2021-10-20)
+### [复原力-同步-3.0.16](https://github.com/truecharts/apps/compare/resilio-sync-3.0.13...resilio-sync-3.0.16) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -889,7 +889,7 @@
 
 <a name="resilio-sync-3.0.13"></a>
 
-### [resilio-sync-3.0.13](https://github.com/truecharts/apps/compare/resilio-sync-3.0.12...resilio-sync-3.0.13) (2021-10-20)
+### [复原力-3.0.13](https://github.com/truecharts/apps/compare/resilio-sync-3.0.12...resilio-sync-3.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -899,7 +899,7 @@
 
 <a name="resilio-sync-3.0.12"></a>
 
-### [resilio-sync-3.0.12](https://github.com/truecharts/apps/compare/resilio-sync-3.0.11...resilio-sync-3.0.12) (2021-10-19)
+### [复原力-同步-3.0.12](https://github.com/truecharts/apps/compare/resilio-sync-3.0.11...resilio-sync-3.0.12) (2021-10-19)
 
 #### 更改
 
@@ -923,7 +923,7 @@
 
 <a name="resilio-sync-3.0.11"></a>
 
-### [resilio-sync-3.0.11](https://github.com/truecharts/apps/compare/resilio-sync-3.0.10...resilio-sync-3.0.11) (2021-10-19)
+### [复原力-同步-3.0.11](https://github.com/truecharts/apps/compare/resilio-sync-3.0.10...resilio-sync-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -933,7 +933,7 @@
 
 <a name="resilio-sync-3.0.10"></a>
 
-### [resilio-sync-3.0.10](https://github.com/truecharts/apps/compare/resilio-sync-3.0.9...resilio-sync-3.0.10) (2021-10-19)
+### [复原力-同步-3.0.10](https://github.com/truecharts/apps/compare/resilio-sync-3.0.9...resilio-sync-3.0.10) (2021-10-19)
 
 #### 修复
 
@@ -943,7 +943,7 @@
 
 <a name="resilio-sync-3.0.9"></a>
 
-### [resilio-sync-3.0.9](https://github.com/truecharts/apps/compare/resilio-sync-3.0.8...resilio-sync-3.0.9) (2021-10-18)
+### [复原力-3.0.9](https://github.com/truecharts/apps/compare/resilio-sync-3.0.8...resilio-sync-3.0.9) (2021-10-18)
 
 #### 聊天
 
@@ -957,7 +957,7 @@
 
 <a name="resilio-sync-3.0.8"></a>
 
-### [resilio-sync-3.0.8](https://github.com/truecharts/apps/compare/resilio-sync-3.0.7...resilio-sync-3.0.8) (2021-10-17)
+### [复原力-3.0.8](https://github.com/truecharts/apps/compare/resilio-sync-3.0.7...resilio-sync-3.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -971,7 +971,7 @@
 
 <a name="resilio-sync-3.0.7"></a>
 
-### [resilio-sync-3.0.7](https://github.com/truecharts/apps/compare/resilio-sync-3.0.6...resilio-sync-3.0.7) (2021-10-13)
+### [复原力-同步-3.0.7](https://github.com/truecharts/apps/compare/resilio-sync-3.0.6...resilio-sync-3.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -981,7 +981,7 @@
 
 <a name="resilio-sync-3.0.6"></a>
 
-### [resilio-sync-3.0.6](https://github.com/truecharts/apps/compare/resilio-sync-3.0.5...resilio-sync-3.0.6) (2021-10-12)
+### [复原力-同步-3.0.6](https://github.com/truecharts/apps/compare/resilio-sync-3.0.5...resilio-sync-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -991,7 +991,7 @@
 
 <a name="resilio-sync-3.0.5"></a>
 
-### [resilio-sync-3.0.5](https://github.com/truecharts/apps/compare/resilio-sync-3.0.4...resilio-sync-3.0.5) (2021-10-12)
+### [复原力-同步-3.0.5](https://github.com/truecharts/apps/compare/resilio-sync-3.0.4...resilio-sync-3.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -1001,7 +1001,7 @@
 
 <a name="resilio-sync-3.0.4"></a>
 
-### [resilio-sync-3.0.4](https://github.com/truecharts/apps/compare/resilio-sync-3.0.3...resilio-sync-3.0.4) (2021-10-05)
+### [复原力-同步-3.0.4](https://github.com/truecharts/apps/compare/resilio-sync-3.0.3...resilio-sync-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1011,7 +1011,7 @@
 
 <a name="resilio-sync-3.0.3"></a>
 
-### [resilio-sync-3.0.3](https://github.com/truecharts/apps/compare/resilio-sync-3.0.2...resilio-sync-3.0.3) (2021-09-29)
+### [复原力-3.0.3](https://github.com/truecharts/apps/compare/resilio-sync-3.0.2...resilio-sync-3.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1021,19 +1021,19 @@
 
 <a name="resilio-sync-3.0.1"></a>
 
-### [resilio-sync-3.0.1](https://github.com/truecharts/apps/compare/resilio-sync-3.0.0...resilio-sync-3.0.1) (2021-09-26)
+### [复原力-同步-3.0.1](https://github.com/truecharts/apps/compare/resilio-sync-3.0.0...resilio-sync-3.0.1) (2021-09-26)
 
 
 
 <a name="resilio-sync-3.0.0"></a>
 
-### [resilio-sync-3.0.0](https://github.com/truecharts/apps/compare/resilio-sync-2.0.2...resilio-sync-3.0.0) (2021-09-26)
+### [复原力-同步-3.0.0](https://github.com/truecharts/apps/compare/resilio-sync-2.0.2...resilio-sync-3.0.0) (2021-09-26)
 
 
 
 <a name="resilio-sync-2.0.2"></a>
 
-### [resilio-sync-2.0.2](https://github.com/truecharts/apps/compare/resilio-sync-2.0.1...resilio-sync-2.0.2) (2021-09-21)
+### [复原力-同步-2.0.2](https://github.com/truecharts/apps/compare/resilio-sync-2.0.1...resilio-sync-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1043,7 +1043,7 @@
 
 <a name="resilio-sync-2.0.1"></a>
 
-### [resilio-sync-2.0.1](https://github.com/truecharts/apps/compare/resilio-sync-1.9.15...resilio-sync-2.0.1) (2021-09-13)
+### [复原力-同步-2.0.1](https://github.com/truecharts/apps/compare/resilio-sync-1.9.15...resilio-sync-2.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1062,7 +1062,7 @@
 
 <a name="resilio-sync-1.9.15"></a>
 
-## [resilio-sync-1.9.15](https://github.com/truecharts/apps/compare/resilio-sync-1.9.14...resilio-sync-1.9.15) (2021-09-08)
+## [复原力-同步-1.9.15](https://github.com/truecharts/apps/compare/resilio-sync-1.9.14...resilio-sync-1.9.15) (2021-09-08)
 
 ### 修复
 
