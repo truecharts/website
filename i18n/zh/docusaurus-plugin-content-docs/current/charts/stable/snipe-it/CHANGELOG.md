@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [snipe-it-4.0.25](https://github.com/truecharts/apps/compare/snipe-it-4.0.24...snipe-it-4.0.25) (2022-07-14)
+## [代码片段-4.0.25](https://github.com/truecharts/apps/compare/snipe-it-4.0.24...snipe-it-4.0.25) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [snipe-it-4.0.24](https://github.com/truecharts/apps/compare/snipe-it-4.0.22...snipe-it-4.0.24) (2022-07-14)
+## [代码片段-4.0.24](https://github.com/truecharts/apps/compare/snipe-it-4.0.22...snipe-it-4.0.24) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [snipe-it-4.0.22](https://github.com/truecharts/apps/compare/snipe-it-4.0.20...snipe-it-4.0.22) (2022-07-12)
+## [代码片段-4.0.22](https://github.com/truecharts/apps/compare/snipe-it-4.0.20...snipe-it-4.0.22) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [snipe-it-4.0.20](https://github.com/truecharts/apps/compare/snipe-it-4.0.19...snipe-it-4.0.20) (2022-07-12)
+## [代码片段-4.0.20](https://github.com/truecharts/apps/compare/snipe-it-4.0.19...snipe-it-4.0.20) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="snipe-it-4.0.19"></a>
 
-### [snipe-it-4.0.19](https://github.com/truecharts/apps/compare/snipe-it-4.0.18...snipe-it-4.0.19) (2022-07-12)
+### [代码片段-4.0.19](https://github.com/truecharts/apps/compare/snipe-it-4.0.18...snipe-it-4.0.19) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="snipe-it-4.0.18"></a>
 
-### [snipe-it-4.0.18](https://github.com/truecharts/apps/compare/snipe-it-4.0.17...snipe-it-4.0.18) (2022-07-11)
+### [代码片段-4.0.18](https://github.com/truecharts/apps/compare/snipe-it-4.0.17...snipe-it-4.0.18) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="snipe-it-4.0.17"></a>
 
-### [snipe-it-4.0.17](https://github.com/truecharts/apps/compare/snipe-it-4.0.16...snipe-it-4.0.17) (2022-07-09)
+### [代码片段-4.0.17](https://github.com/truecharts/apps/compare/snipe-it-4.0.16...snipe-it-4.0.17) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="snipe-it-4.0.16"></a>
 
-### [snipe-it-4.0.16](https://github.com/truecharts/apps/compare/snipe-it-4.0.15...snipe-it-4.0.16) (2022-07-06)
+### [片段 - 4.0.16](https://github.com/truecharts/apps/compare/snipe-it-4.0.15...snipe-it-4.0.16) (2022-07-06)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="snipe-it-4.0.15"></a>
 
-### [snipe-it-4.0.15](https://github.com/truecharts/apps/compare/snipe-it-4.0.14...snipe-it-4.0.15) (2022-07-05)
+### [代码片段-4.0.15](https://github.com/truecharts/apps/compare/snipe-it-4.0.14...snipe-it-4.0.15) (2022-07-05)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="snipe-it-4.0.14"></a>
 
-### [snipe-it-4.0.14](https://github.com/truecharts/apps/compare/snipe-it-4.0.13...snipe-it-4.0.14) (2022-07-04)
+### [片段-T-4.0.14](https://github.com/truecharts/apps/compare/snipe-it-4.0.13...snipe-it-4.0.14) (2022-07-04)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="snipe-it-4.0.13"></a>
 
-### [snipe-it-4.0.13](https://github.com/truecharts/apps/compare/snipe-it-4.0.12...snipe-it-4.0.13) (2022-07-02)
+### [代码片段-4.0.13](https://github.com/truecharts/apps/compare/snipe-it-4.0.12...snipe-it-4.0.13) (2022-07-02)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="snipe-it-4.0.12"></a>
 
-### [snipe-it-4.0.12](https://github.com/truecharts/apps/compare/snipe-it-4.0.11...snipe-it-4.0.12) (2022-06-29)
+### [代码片段-4.0.12](https://github.com/truecharts/apps/compare/snipe-it-4.0.11...snipe-it-4.0.12) (2022-06-29)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="snipe-it-4.0.11"></a>
 
-### [snipe-it-4.0.11](https://github.com/truecharts/apps/compare/snipe-it-4.0.10...snipe-it-4.0.11) (2022-06-25)
+### [代码片段-4.0.11](https://github.com/truecharts/apps/compare/snipe-it-4.0.10...snipe-it-4.0.11) (2022-06-25)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="snipe-it-4.0.10"></a>
 
-### [snipe-it-4.0.10](https://github.com/truecharts/apps/compare/snipe-it-4.0.9...snipe-it-4.0.10) (2022-06-25)
+### [代码片段-4.0.10](https://github.com/truecharts/apps/compare/snipe-it-4.0.9...snipe-it-4.0.10) (2022-06-25)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="snipe-it-4.0.9"></a>
 
-### [snipe-it-4.0.9](https://github.com/truecharts/apps/compare/snipe-it-4.0.8...snipe-it-4.0.9) (2022-06-22)
+### [代码片段-4.0.9](https://github.com/truecharts/apps/compare/snipe-it-4.0.8...snipe-it-4.0.9) (2022-06-22)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="snipe-it-4.0.8"></a>
 
-### [snipe-it-4.0.8](https://github.com/truecharts/apps/compare/snipe-it-4.0.7...snipe-it-4.0.8) (2022-06-21)
+### [代码片段-4.0.8](https://github.com/truecharts/apps/compare/snipe-it-4.0.7...snipe-it-4.0.8) (2022-06-21)
 
 #### 聊天
 
@@ -156,7 +156,7 @@
 
 <a name="snipe-it-4.0.7"></a>
 
-### [snipe-it-4.0.7](https://github.com/truecharts/apps/compare/snipe-it-4.0.6...snipe-it-4.0.7) (2022-06-17)
+### [代码片段-4.0.7](https://github.com/truecharts/apps/compare/snipe-it-4.0.6...snipe-it-4.0.7) (2022-06-17)
 
 #### 聊天
 
@@ -166,17 +166,17 @@
 
 <a name="snipe-it-4.0.6"></a>
 
-### [snipe-it-4.0.6](https://github.com/truecharts/apps/compare/snipe-it-4.0.5...snipe-it-4.0.6) (2022-06-15)
+### [代码片段-4.0.6](https://github.com/truecharts/apps/compare/snipe-it-4.0.5...snipe-it-4.0.6) (2022-06-15)
 
 #### 聊天
 
-* enable redis ([#2894](https://github.com/truecharts/apps/issues/2894))
+* 启用 redis ([#2894](https://github.com/truecharts/apps/issues/2894))
 
 
 
 <a name="snipe-it-4.0.5"></a>
 
-### [snipe-it-4.0.5](https://github.com/truecharts/apps/compare/snipe-it-4.0.4...snipe-it-4.0.5) (2022-06-15)
+### [代码片段-4.0.5](https://github.com/truecharts/apps/compare/snipe-it-4.0.4...snipe-it-4.0.5) (2022-06-15)
 
 #### 聊天
 
@@ -186,7 +186,7 @@
 
 <a name="snipe-it-4.0.4"></a>
 
-### [snipe-it-4.0.4](https://github.com/truecharts/apps/compare/snipe-it-4.0.3...snipe-it-4.0.4) (2022-06-14)
+### [代码片段-4.0.4](https://github.com/truecharts/apps/compare/snipe-it-4.0.3...snipe-it-4.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -196,7 +196,7 @@
 
 <a name="snipe-it-4.0.3"></a>
 
-### [snipe-it-4.0.3](https://github.com/truecharts/apps/compare/snipe-it-4.0.2...snipe-it-4.0.3) (2022-06-14)
+### [代码片段-4.0.3](https://github.com/truecharts/apps/compare/snipe-it-4.0.2...snipe-it-4.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -206,7 +206,7 @@
 
 <a name="snipe-it-4.0.2"></a>
 
-### [snipe-it-4.0.2](https://github.com/truecharts/apps/compare/snipe-it-4.0.1...snipe-it-4.0.2) (2022-06-14)
+### [代码片段-4.0.2](https://github.com/truecharts/apps/compare/snipe-it-4.0.1...snipe-it-4.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -216,7 +216,7 @@
 
 <a name="snipe-it-4.0.1"></a>
 
-### [snipe-it-4.0.1](https://github.com/truecharts/apps/compare/snipe-it-4.0.0...snipe-it-4.0.1) (2022-06-11)
+### [代码片段-4.0.1](https://github.com/truecharts/apps/compare/snipe-it-4.0.0...snipe-it-4.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -226,7 +226,7 @@
 
 <a name="snipe-it-4.0.0"></a>
 
-### [snipe-it-4.0.0](https://github.com/truecharts/apps/compare/snipe-it-3.0.1...snipe-it-4.0.0) (2022-06-07)
+### [代码片段-4.0.0](https://github.com/truecharts/apps/compare/snipe-it-3.0.1...snipe-it-4.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -240,7 +240,7 @@
 
 <a name="snipe-it-3.0.1"></a>
 
-### [snipe-it-3.0.1](https://github.com/truecharts/apps/compare/snipe-it-2.0.27...snipe-it-3.0.1) (2022-06-07)
+### [片段-it-3.0.1](https://github.com/truecharts/apps/compare/snipe-it-2.0.27...snipe-it-3.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -260,7 +260,7 @@
 
 <a name="snipe-it-3.0.0"></a>
 
-### [snipe-it-3.0.0](https://github.com/truecharts/apps/compare/snipe-it-2.0.27...snipe-it-3.0.0) (2022-06-07)
+### [片段-it-3.0.0](https://github.com/truecharts/apps/compare/snipe-it-2.0.27...snipe-it-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -274,7 +274,7 @@
 
 <a name="snipe-it-2.0.27"></a>
 
-### [snipe-it-2.0.27](https://github.com/truecharts/apps/compare/snipe-it-2.0.26...snipe-it-2.0.27) (2022-05-31)
+### [代码片段-2.0.27](https://github.com/truecharts/apps/compare/snipe-it-2.0.26...snipe-it-2.0.27) (2022-05-31)
 
 #### 聊天
 
@@ -284,7 +284,7 @@
 
 <a name="snipe-it-2.0.26"></a>
 
-### [snipe-it-2.0.26](https://github.com/truecharts/apps/compare/snipe-it-2.0.25...snipe-it-2.0.26) (2022-05-26)
+### [代码片段-2.0.26](https://github.com/truecharts/apps/compare/snipe-it-2.0.25...snipe-it-2.0.26) (2022-05-26)
 
 #### 聊天
 
@@ -295,7 +295,7 @@
 
 <a name="snipe-it-2.0.26"></a>
 
-### [snipe-it-2.0.26](https://github.com/truecharts/apps/compare/snipe-it-2.0.25...snipe-it-2.0.26) (2022-05-26)
+### [代码片段-2.0.26](https://github.com/truecharts/apps/compare/snipe-it-2.0.25...snipe-it-2.0.26) (2022-05-26)
 
 #### 聊天
 
@@ -305,7 +305,7 @@
 
 <a name="snipe-it-2.0.25"></a>
 
-### [snipe-it-2.0.25](https://github.com/truecharts/apps/compare/snipe-it-2.0.24...snipe-it-2.0.25) (2022-05-25)
+### [代码片段-2.0.25](https://github.com/truecharts/apps/compare/snipe-it-2.0.24...snipe-it-2.0.25) (2022-05-25)
 
 #### 聊天
 
@@ -315,7 +315,7 @@
 
 <a name="snipe-it-2.0.24"></a>
 
-### [snipe-it-2.0.24](https://github.com/truecharts/apps/compare/snipe-it-2.0.23...snipe-it-2.0.24) (2022-05-24)
+### [代码片段-2.0.24](https://github.com/truecharts/apps/compare/snipe-it-2.0.23...snipe-it-2.0.24) (2022-05-24)
 
 #### 聊天
 
@@ -325,7 +325,7 @@
 
 <a name="snipe-it-2.0.23"></a>
 
-### [snipe-it-2.0.23](https://github.com/truecharts/apps/compare/snipe-it-2.0.22...snipe-it-2.0.23) (2022-05-17)
+### [代码片段-2.0.23](https://github.com/truecharts/apps/compare/snipe-it-2.0.22...snipe-it-2.0.23) (2022-05-17)
 
 #### 聊天
 
@@ -336,7 +336,7 @@
 
 <a name="snipe-it-2.0.23"></a>
 
-### [snipe-it-2.0.23](https://github.com/truecharts/apps/compare/snipe-it-2.0.22...snipe-it-2.0.23) (2022-05-17)
+### [代码片段-2.0.23](https://github.com/truecharts/apps/compare/snipe-it-2.0.22...snipe-it-2.0.23) (2022-05-17)
 
 #### 聊天
 
@@ -346,7 +346,7 @@
 
 <a name="snipe-it-2.0.22"></a>
 
-### [snipe-it-2.0.22](https://github.com/truecharts/apps/compare/snipe-it-2.0.21...snipe-it-2.0.22) (2022-05-17)
+### [代码片段-2.0.22](https://github.com/truecharts/apps/compare/snipe-it-2.0.21...snipe-it-2.0.22) (2022-05-17)
 
 #### 聊天
 
@@ -357,17 +357,17 @@
 
 <a name="snipe-it-2.0.21"></a>
 
-### [snipe-it-2.0.21](https://github.com/truecharts/apps/compare/snipe-it-2.0.20...snipe-it-2.0.21) (2022-05-15)
+### [片段-it-2.0.21](https://github.com/truecharts/apps/compare/snipe-it-2.0.20...snipe-it-2.0.21) (2022-05-15)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/snipe-it to v6.0.0 ([#2689](https://github.com/truecharts/apps/issues/2689))
+* 将容器图像 tccr.io/truecharts/snipe-it 更新到 v6.0.0 ([#2689](https://github.com/truecharts/apps/issues/2689))
 
 
 
 <a name="snipe-it-2.0.20"></a>
 
-### [snipe-it-2.0.20](https://github.com/truecharts/apps/compare/snipe-it-2.0.19...snipe-it-2.0.20) (2022-05-10)
+### [片段-it-2.0.20](https://github.com/truecharts/apps/compare/snipe-it-2.0.19...snipe-it-2.0.20) (2022-05-10)
 
 #### 聊天
 
@@ -377,7 +377,7 @@
 
 <a name="snipe-it-2.0.19"></a>
 
-### [snipe-it-2.0.19](https://github.com/truecharts/apps/compare/snipe-it-2.0.18...snipe-it-2.0.19) (2022-05-06)
+### [代码片段-2.0.19](https://github.com/truecharts/apps/compare/snipe-it-2.0.18...snipe-it-2.0.19) (2022-05-06)
 
 #### 聊天
 
@@ -387,7 +387,7 @@
 
 <a name="snipe-it-2.0.18"></a>
 
-### [snipe-it-2.0.18](https://github.com/truecharts/apps/compare/snipe-it-2.0.17...snipe-it-2.0.18) (2022-05-05)
+### [片段-it-2.0.18](https://github.com/truecharts/apps/compare/snipe-it-2.0.17...snipe-it-2.0.18) (2022-05-05)
 
 #### 聊天
 
@@ -397,7 +397,7 @@
 
 <a name="snipe-it-2.0.17"></a>
 
-### [snipe-it-2.0.17](https://github.com/truecharts/apps/compare/snipe-it-2.0.16...snipe-it-2.0.17) (2022-05-04)
+### [代码片段-2.0.17](https://github.com/truecharts/apps/compare/snipe-it-2.0.16...snipe-it-2.0.17) (2022-05-04)
 
 #### 聊天
 
@@ -407,7 +407,7 @@
 
 <a name="snipe-it-2.0.16"></a>
 
-### [snipe-it-2.0.16](https://github.com/truecharts/apps/compare/snipe-it-2.0.15...snipe-it-2.0.16) (2022-04-26)
+### [代码片段-2.0.16](https://github.com/truecharts/apps/compare/snipe-it-2.0.15...snipe-it-2.0.16) (2022-04-26)
 
 #### 聊天
 
@@ -417,7 +417,7 @@
 
 <a name="snipe-it-2.0.15"></a>
 
-### [snipe-it-2.0.15](https://github.com/truecharts/apps/compare/snipe-it-2.0.14...snipe-it-2.0.15) (2022-04-20)
+### [片段-it-2.0.15](https://github.com/truecharts/apps/compare/snipe-it-2.0.14...snipe-it-2.0.15) (2022-04-20)
 
 #### 聊天
 
@@ -428,7 +428,7 @@
 
 <a name="snipe-it-2.0.14"></a>
 
-### [snipe-it-2.0.14](https://github.com/truecharts/apps/compare/snipe-it-2.0.13...snipe-it-2.0.14) (2022-04-17)
+### [片段-it-2.0.14](https://github.com/truecharts/apps/compare/snipe-it-2.0.13...snipe-it-2.0.14) (2022-04-17)
 
 #### 聊天
 
@@ -438,7 +438,7 @@
 
 <a name="snipe-it-2.0.13"></a>
 
-### [snipe-it-2.0.13](https://github.com/truecharts/apps/compare/snipe-it-2.0.12...snipe-it-2.0.13) (2022-04-17)
+### [代码片段-2.0.13](https://github.com/truecharts/apps/compare/snipe-it-2.0.12...snipe-it-2.0.13) (2022-04-17)
 
 #### 聊天
 
@@ -448,7 +448,7 @@
 
 <a name="snipe-it-2.0.12"></a>
 
-### [snipe-it-2.0.12](https://github.com/truecharts/apps/compare/snipe-it-2.0.11...snipe-it-2.0.12) (2022-04-12)
+### [代码片段-2.0.12](https://github.com/truecharts/apps/compare/snipe-it-2.0.11...snipe-it-2.0.12) (2022-04-12)
 
 #### 聊天
 
@@ -458,7 +458,7 @@
 
 <a name="snipe-it-2.0.11"></a>
 
-### [snipe-it-2.0.11](https://github.com/truecharts/apps/compare/snipe-it-2.0.10...snipe-it-2.0.11) (2022-04-12)
+### [代码片段-2.0.11](https://github.com/truecharts/apps/compare/snipe-it-2.0.10...snipe-it-2.0.11) (2022-04-12)
 
 #### 聊天
 
@@ -468,7 +468,7 @@
 
 <a name="snipe-it-2.0.10"></a>
 
-### [snipe-it-2.0.10](https://github.com/truecharts/apps/compare/snipe-it-2.0.9...snipe-it-2.0.10) (2022-04-03)
+### [片段-it-2.0.10](https://github.com/truecharts/apps/compare/snipe-it-2.0.9...snipe-it-2.0.10) (2022-04-03)
 
 #### 聊天
 
@@ -478,7 +478,7 @@
 
 <a name="snipe-it-2.0.9"></a>
 
-### [snipe-it-2.0.9](https://github.com/truecharts/apps/compare/snipe-it-2.0.8...snipe-it-2.0.9) (2022-03-31)
+### [代码片段-2.0.9](https://github.com/truecharts/apps/compare/snipe-it-2.0.8...snipe-it-2.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -488,7 +488,7 @@
 
 <a name="snipe-it-2.0.8"></a>
 
-### [snipe-it-2.0.8](https://github.com/truecharts/apps/compare/snipe-it-2.0.7...snipe-it-2.0.8) (2022-03-31)
+### [片段-T-2.0.8](https://github.com/truecharts/apps/compare/snipe-it-2.0.7...snipe-it-2.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -498,7 +498,7 @@
 
 <a name="snipe-it-2.0.7"></a>
 
-### [snipe-it-2.0.7](https://github.com/truecharts/apps/compare/snipe-it-2.0.6...snipe-it-2.0.7) (2022-03-30)
+### [代码片段 - 2.0.7](https://github.com/truecharts/apps/compare/snipe-it-2.0.6...snipe-it-2.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="snipe-it-2.0.6"></a>
 
-### [snipe-it-2.0.6](https://github.com/truecharts/apps/compare/snipe-it-2.0.5...snipe-it-2.0.6) (2022-03-26)
+### [代码片段-2.0.6](https://github.com/truecharts/apps/compare/snipe-it-2.0.5...snipe-it-2.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="snipe-it-2.0.5"></a>
 
-### [snipe-it-2.0.5](https://github.com/truecharts/apps/compare/snipe-it-2.0.4...snipe-it-2.0.5) (2022-03-26)
+### [片段-T-2.0.5](https://github.com/truecharts/apps/compare/snipe-it-2.0.4...snipe-it-2.0.5) (2022-03-26)
 
 #### Feat
 
@@ -527,13 +527,13 @@
 
 #### 修复
 
-* adjust probe ([#2270](https://github.com/truecharts/apps/issues/2270))
+* 调整 probe([#2270](https://github.com/truecharts/apps/issues/2270))
 
 
 
 <a name="snipe-it-2.0.4"></a>
 
-### [snipe-it-2.0.4](https://github.com/truecharts/apps/compare/snipe-it-2.0.3...snipe-it-2.0.4) (2022-03-26)
+### [片段-T-2.0.4](https://github.com/truecharts/apps/compare/snipe-it-2.0.3...snipe-it-2.0.4) (2022-03-26)
 
 #### 聊天
 
@@ -543,37 +543,37 @@
 
 <a name="snipe-it-2.0.2"></a>
 
-### [snipe-it-2.0.2](https://github.com/truecharts/apps/compare/snipe-it-2.0.1...snipe-it-2.0.2) (2022-03-24)
+### [片段-T-2.0.2](https://github.com/truecharts/apps/compare/snipe-it-2.0.1...snipe-it-2.0.2) (2022-03-24)
 
 #### 修复
 
-* fix permissions and add more storage questions ([#2269](https://github.com/truecharts/apps/issues/2269))
+* 修复权限并添加更多的存储问题([#2269](https://github.com/truecharts/apps/issues/2269))
 
 
 
 <a name="snipe-it-2.0.1"></a>
 
-### [snipe-it-2.0.1](https://github.com/truecharts/apps/compare/snipe-it-2.0.0...snipe-it-2.0.1) (2022-03-24)
+### [片段-T-2.0.1](https://github.com/truecharts/apps/compare/snipe-it-2.0.0...snipe-it-2.0.1) (2022-03-24)
 
 #### 修复
 
-* permissions ([#2267](https://github.com/truecharts/apps/issues/2267))
+* 权限 ([#2267](https://github.com/truecharts/apps/issues/2267))
 
 
 
 <a name="snipe-it-2.0.0"></a>
 
-### [snipe-it-2.0.0](https://github.com/truecharts/apps/compare/snipe-it-1.0.8...snipe-it-2.0.0) (2022-03-23)
+### [片段-it-2.0.0](https://github.com/truecharts/apps/compare/snipe-it-1.0.8...snipe-it-2.0.0) (2022-03-23)
 
 #### Feat
 
-* Use official image ([#2257](https://github.com/truecharts/apps/issues/2257))
+* 使用官方图像 ([#2257](https://github.com/truecharts/apps/issues/2257))
 
 
 
 <a name="snipe-it-1.0.6"></a>
 
-### [snipe-it-1.0.6](https://github.com/truecharts/apps/compare/snipe-it-1.0.5...snipe-it-1.0.6) (2022-03-17)
+### [片段-it-1.0.6](https://github.com/truecharts/apps/compare/snipe-it-1.0.5...snipe-it-1.0.6) (2022-03-17)
 
 #### 聊天
 
@@ -584,7 +584,7 @@
 
 <a name="snipe-it-1.0.4"></a>
 
-### [snipe-it-1.0.4](https://github.com/truecharts/apps/compare/snipe-it-1.0.3...snipe-it-1.0.4) (2022-03-15)
+### [片段-it-1.0.4](https://github.com/truecharts/apps/compare/snipe-it-1.0.3...snipe-it-1.0.4) (2022-03-15)
 
 #### 聊天
 
@@ -594,7 +594,7 @@
 
 <a name="snipe-it-1.0.3"></a>
 
-### [snipe-it-1.0.3](https://github.com/truecharts/apps/compare/snipe-it-1.0.2...snipe-it-1.0.3) (2022-03-08)
+### [片段-it-1.0.3](https://github.com/truecharts/apps/compare/snipe-it-1.0.2...snipe-it-1.0.3) (2022-03-08)
 
 #### 聊天
 
@@ -604,7 +604,7 @@
 
 <a name="snipe-it-1.0.2"></a>
 
-### [snipe-it-1.0.2](https://github.com/truecharts/apps/compare/snipe-it-1.0.1...snipe-it-1.0.2) (2022-03-07)
+### [片段-it-1.0.2](https://github.com/truecharts/apps/compare/snipe-it-1.0.1...snipe-it-1.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -614,7 +614,7 @@
 
 <a name="snipe-it-1.0.1"></a>
 
-### [snipe-it-1.0.1](https://github.com/truecharts/apps/compare/snipe-it-1.0.0...snipe-it-1.0.1) (2022-03-07)
+### [片段-it-1.0.1](https://github.com/truecharts/apps/compare/snipe-it-1.0.0...snipe-it-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -625,7 +625,7 @@
 
 <a name="snipe-it-1.0.0"></a>
 
-### [snipe-it-1.0.0](https://github.com/truecharts/apps/compare/snipe-it-0.0.41...snipe-it-1.0.0) (2022-03-03)
+### [片段-it-1.0.0](https://github.com/truecharts/apps/compare/snipe-it-0.0.41...snipe-it-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="snipe-it-0.0.41"></a>
 
-### [snipe-it-0.0.41](https://github.com/truecharts/apps/compare/snipe-it-0.0.40...snipe-it-0.0.41) (2022-03-02)
+### [片段 it-0.0.41](https://github.com/truecharts/apps/compare/snipe-it-0.0.40...snipe-it-0.0.41) (2022-03-02)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="snipe-it-0.0.40"></a>
 
-### [snipe-it-0.0.40](https://github.com/truecharts/apps/compare/snipe-it-0.0.39...snipe-it-0.0.40) (2022-02-28)
+### [代码片段 it-0.0.40](https://github.com/truecharts/apps/compare/snipe-it-0.0.39...snipe-it-0.0.40) (2022-02-28)
 
 #### 聊天
 
@@ -663,7 +663,7 @@
 
 <a name="snipe-it-0.0.39"></a>
 
-### [snipe-it-0.0.39](https://github.com/truecharts/apps/compare/snipe-it-0.0.38...snipe-it-0.0.39) (2022-02-21)
+### [片段 it-0.0.39](https://github.com/truecharts/apps/compare/snipe-it-0.0.38...snipe-it-0.0.39) (2022-02-21)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="snipe-it-0.0.38"></a>
 
-### [snipe-it-0.0.38](https://github.com/truecharts/apps/compare/snipe-it-0.0.37...snipe-it-0.0.38) (2022-02-15)
+### [代码片段 it-0.0.38](https://github.com/truecharts/apps/compare/snipe-it-0.0.37...snipe-it-0.0.38) (2022-02-15)
 
 #### 聊天
 
@@ -683,7 +683,7 @@
 
 <a name="snipe-it-0.0.37"></a>
 
-### [snipe-it-0.0.37](https://github.com/truecharts/apps/compare/snipe-it-0.0.36...snipe-it-0.0.37) (2022-02-10)
+### [片段 it-0.0.37](https://github.com/truecharts/apps/compare/snipe-it-0.0.36...snipe-it-0.0.37) (2022-02-10)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="snipe-it-0.0.36"></a>
 
-### [snipe-it-0.0.36](https://github.com/truecharts/apps/compare/snipe-it-0.0.35...snipe-it-0.0.36) (2022-02-08)
+### [片段 it-0.0.36](https://github.com/truecharts/apps/compare/snipe-it-0.0.35...snipe-it-0.0.36) (2022-02-08)
 
 #### 聊天
 
@@ -704,7 +704,7 @@
 
 <a name="snipe-it-0.0.35"></a>
 
-### [snipe-it-0.0.35](https://github.com/truecharts/apps/compare/snipe-it-0.0.34...snipe-it-0.0.35) (2022-02-06)
+### [片段 it-0.0.35](https://github.com/truecharts/apps/compare/snipe-it-0.0.34...snipe-it-0.0.35) (2022-02-06)
 
 #### 聊天
 
@@ -714,7 +714,7 @@
 
 <a name="snipe-it-0.0.34"></a>
 
-### [snipe-it-0.0.34](https://github.com/truecharts/apps/compare/snipe-it-0.0.33...snipe-it-0.0.34) (2022-02-05)
+### [片段 it-0.0.34](https://github.com/truecharts/apps/compare/snipe-it-0.0.33...snipe-it-0.0.34) (2022-02-05)
 
 #### 聊天
 
@@ -725,7 +725,7 @@
 
 <a name="snipe-it-0.0.33"></a>
 
-### [snipe-it-0.0.33](https://github.com/truecharts/apps/compare/snipe-it-0.0.32...snipe-it-0.0.33) (2022-02-02)
+### [片段 it-0.0.33](https://github.com/truecharts/apps/compare/snipe-it-0.0.32...snipe-it-0.0.33) (2022-02-02)
 
 #### 聊天
 
@@ -735,7 +735,7 @@
 
 <a name="snipe-it-0.0.32"></a>
 
-### [snipe-it-0.0.32](https://github.com/truecharts/apps/compare/snipe-it-0.0.31...snipe-it-0.0.32) (2022-01-31)
+### [代码片段 it-0.0.32](https://github.com/truecharts/apps/compare/snipe-it-0.0.31...snipe-it-0.0.32) (2022-01-31)
 
 #### 聊天
 
@@ -745,7 +745,7 @@
 
 <a name="snipe-it-0.0.31"></a>
 
-### [snipe-it-0.0.31](https://github.com/truecharts/apps/compare/snipe-it-0.0.30...snipe-it-0.0.31) (2022-01-25)
+### [片段 it-0.0.31](https://github.com/truecharts/apps/compare/snipe-it-0.0.30...snipe-it-0.0.31) (2022-01-25)
 
 #### 聊天
 
@@ -755,7 +755,7 @@
 
 <a name="snipe-it-0.0.30"></a>
 
-### [snipe-it-0.0.30](https://github.com/truecharts/apps/compare/snipe-it-0.0.29...snipe-it-0.0.30) (2022-01-22)
+### [代码片段 it-0.0.30](https://github.com/truecharts/apps/compare/snipe-it-0.0.29...snipe-it-0.0.30) (2022-01-22)
 
 #### 聊天
 
@@ -765,7 +765,7 @@
 
 <a name="snipe-it-0.0.29"></a>
 
-### [snipe-it-0.0.29](https://github.com/truecharts/apps/compare/snipe-it-0.0.27...snipe-it-0.0.29) (2022-01-22)
+### [代码片段 it-0.0.29](https://github.com/truecharts/apps/compare/snipe-it-0.0.27...snipe-it-0.0.29) (2022-01-22)
 
 #### 聊天
 
@@ -776,7 +776,7 @@
 
 <a name="snipe-it-0.0.28"></a>
 
-### [snipe-it-0.0.28](https://github.com/truecharts/apps/compare/snipe-it-0.0.27...snipe-it-0.0.28) (2022-01-21)
+### [代码片段-it-0.0.28](https://github.com/truecharts/apps/compare/snipe-it-0.0.27...snipe-it-0.0.28) (2022-01-21)
 
 #### 聊天
 
@@ -786,7 +786,7 @@
 
 <a name="snipe-it-0.0.27"></a>
 
-### [snipe-it-0.0.27](https://github.com/truecharts/apps/compare/snipe-it-0.0.26...snipe-it-0.0.27) (2022-01-21)
+### [片段 it-0.0.27](https://github.com/truecharts/apps/compare/snipe-it-0.0.26...snipe-it-0.0.27) (2022-01-21)
 
 #### 聊天
 
@@ -800,7 +800,7 @@
 
 <a name="snipe-it-0.0.26"></a>
 
-### [snipe-it-0.0.26](https://github.com/truecharts/apps/compare/snipe-it-0.0.25...snipe-it-0.0.26) (2022-01-18)
+### [片段 it-0.0.26](https://github.com/truecharts/apps/compare/snipe-it-0.0.25...snipe-it-0.0.26) (2022-01-18)
 
 #### 聊天
 
@@ -810,7 +810,7 @@
 
 <a name="snipe-it-0.0.25"></a>
 
-### [snipe-it-0.0.25](https://github.com/truecharts/apps/compare/snipe-it-0.0.24...snipe-it-0.0.25) (2022-01-17)
+### [代码片段 it-0.0.25](https://github.com/truecharts/apps/compare/snipe-it-0.0.24...snipe-it-0.0.25) (2022-01-17)
 
 #### 聊天
 
@@ -820,7 +820,7 @@
 
 <a name="snipe-it-0.0.24"></a>
 
-### [snipe-it-0.0.24](https://github.com/truecharts/apps/compare/snipe-it-0.0.23...snipe-it-0.0.24) (2022-01-13)
+### [片段 it-0.0.24](https://github.com/truecharts/apps/compare/snipe-it-0.0.23...snipe-it-0.0.24) (2022-01-13)
 
 #### 聊天
 
@@ -834,7 +834,7 @@
 
 <a name="snipe-it-0.0.23"></a>
 
-### [snipe-it-0.0.23](https://github.com/truecharts/apps/compare/snipe-it-0.0.22...snipe-it-0.0.23) (2022-01-12)
+### [代码片段-it-0.0.23](https://github.com/truecharts/apps/compare/snipe-it-0.0.22...snipe-it-0.0.23) (2022-01-12)
 
 #### 聊天
 
@@ -844,7 +844,7 @@
 
 <a name="snipe-it-0.0.22"></a>
 
-### [snipe-it-0.0.22](https://github.com/truecharts/apps/compare/snipe-it-0.0.21...snipe-it-0.0.22) (2022-01-11)
+### [代码片段 it-0.0.22](https://github.com/truecharts/apps/compare/snipe-it-0.0.21...snipe-it-0.0.22) (2022-01-11)
 
 #### 聊天
 
@@ -854,7 +854,7 @@
 
 <a name="snipe-it-0.0.21"></a>
 
-### [snipe-it-0.0.21](https://github.com/truecharts/apps/compare/snipe-it-0.0.20...snipe-it-0.0.21) (2022-01-04)
+### [片段 it-0.0.21](https://github.com/truecharts/apps/compare/snipe-it-0.0.20...snipe-it-0.0.21) (2022-01-04)
 
 #### 聊天
 
@@ -864,7 +864,7 @@
 
 <a name="snipe-it-0.0.20"></a>
 
-### [snipe-it-0.0.20](https://github.com/truecharts/apps/compare/snipe-it-0.0.19...snipe-it-0.0.20) (2021-12-28)
+### [代码片段 it-0.0.20](https://github.com/truecharts/apps/compare/snipe-it-0.0.19...snipe-it-0.0.20) (2021-12-28)
 
 #### 聊天
 
@@ -874,7 +874,7 @@
 
 <a name="snipe-it-0.0.19"></a>
 
-### [snipe-it-0.0.19](https://github.com/truecharts/apps/compare/snipe-it-0.0.18...snipe-it-0.0.19) (2021-12-24)
+### [代码片段 it-0.0.19](https://github.com/truecharts/apps/compare/snipe-it-0.0.18...snipe-it-0.0.19) (2021-12-24)
 
 #### 聊天
 
@@ -884,7 +884,7 @@
 
 <a name="snipe-it-0.0.18"></a>
 
-### [snipe-it-0.0.18](https://github.com/truecharts/apps/compare/snipe-it-0.0.17...snipe-it-0.0.18) (2021-12-21)
+### [代码片段 it-0.0.18](https://github.com/truecharts/apps/compare/snipe-it-0.0.17...snipe-it-0.0.18) (2021-12-21)
 
 #### 聊天
 
@@ -894,7 +894,7 @@
 
 <a name="snipe-it-0.0.17"></a>
 
-### [snipe-it-0.0.17](https://github.com/truecharts/apps/compare/snipe-it-0.0.16...snipe-it-0.0.17) (2021-12-19)
+### [代码片段 it-0.0.17](https://github.com/truecharts/apps/compare/snipe-it-0.0.16...snipe-it-0.0.17) (2021-12-19)
 
 #### 聊天
 
@@ -904,7 +904,7 @@
 
 <a name="snipe-it-0.0.16"></a>
 
-### [snipe-it-0.0.16](https://github.com/truecharts/apps/compare/snipe-it-0.0.15...snipe-it-0.0.16) (2021-12-19)
+### [代码片段 it-0.0.16](https://github.com/truecharts/apps/compare/snipe-it-0.0.15...snipe-it-0.0.16) (2021-12-19)
 
 #### 聊天
 
@@ -915,7 +915,7 @@
 
 <a name="snipe-it-0.0.15"></a>
 
-### [snipe-it-0.0.15](https://github.com/truecharts/apps/compare/snipe-it-0.0.14...snipe-it-0.0.15) (2021-12-19)
+### [代码片段 it-0.0.15](https://github.com/truecharts/apps/compare/snipe-it-0.0.14...snipe-it-0.0.15) (2021-12-19)
 
 #### 聊天
 
@@ -925,7 +925,7 @@
 
 <a name="snipe-it-0.0.14"></a>
 
-### [snipe-it-0.0.14](https://github.com/truecharts/apps/compare/snipe-it-0.0.13...snipe-it-0.0.14) (2021-12-18)
+### [代码片段 it-0.0.14](https://github.com/truecharts/apps/compare/snipe-it-0.0.13...snipe-it-0.0.14) (2021-12-18岁)
 
 #### 聊天
 
@@ -937,7 +937,7 @@
 
 <a name="snipe-it-0.0.13"></a>
 
-### [snipe-it-0.0.13](https://github.com/truecharts/apps/compare/snipe-it-0.0.12...snipe-it-0.0.13) (2021-12-14)
+### [代码片段 it-0.0.13](https://github.com/truecharts/apps/compare/snipe-it-0.0.12...snipe-it-0.0.13) (2021-12-14)
 
 #### 聊天
 
@@ -947,7 +947,7 @@
 
 <a name="snipe-it-0.0.12"></a>
 
-### [snipe-it-0.0.12](https://github.com/truecharts/apps/compare/snipe-it-0.0.11...snipe-it-0.0.12) (2021-12-13)
+### [代码片段 it-0.0.12](https://github.com/truecharts/apps/compare/snipe-it-0.0.11...snipe-it-0.0.12) (2021-12-13)
 
 #### 聊天
 
@@ -957,7 +957,7 @@
 
 <a name="snipe-it-0.0.11"></a>
 
-### [snipe-it-0.0.11](https://github.com/truecharts/apps/compare/snipe-it-0.0.10...snipe-it-0.0.11) (2021-12-13)
+### [代码片段 it-0.0.11](https://github.com/truecharts/apps/compare/snipe-it-0.0.10...snipe-it-0.0.11) (2021-12-13)
 
 #### 聊天
 
@@ -967,7 +967,7 @@
 
 <a name="snipe-it-0.0.10"></a>
 
-### [snipe-it-0.0.10](https://github.com/truecharts/apps/compare/snipe-it-0.0.9...snipe-it-0.0.10) (2021-12-11)
+### [代码片段 it-0.0.10](https://github.com/truecharts/apps/compare/snipe-it-0.0.9...snipe-it-0.0.10) (2021-12-11)
 
 #### 聊天
 
@@ -977,7 +977,7 @@
 
 <a name="snipe-it-0.0.9"></a>
 
-### [snipe-it-0.0.9](https://github.com/truecharts/apps/compare/snipe-it-0.0.8...snipe-it-0.0.9) (2021-12-07)
+### [代码片段 it-0.0.9](https://github.com/truecharts/apps/compare/snipe-it-0.0.8...snipe-it-0.0.9) (2021-12-07)
 
 #### 聊天
 
@@ -987,7 +987,7 @@
 
 <a name="snipe-it-0.0.8"></a>
 
-### snipe-it-0.0.8 (2021-12-05)
+### 代码片段-it-0.0.8 (2021-12-05)
 
 #### 聊天
 
@@ -1009,7 +1009,7 @@
 
 <a name="snipe-it-0.0.7"></a>
 
-### [snipe-it-0.0.7](https://github.com/truecharts/apps/compare/snipe-it-0.0.6...snipe-it-0.0.7) (2021-12-05)
+### [代码片段 it-0.0.7](https://github.com/truecharts/apps/compare/snipe-it-0.0.6...snipe-it-0.0.7) (2021-12-05)
 
 #### 聊天
 
@@ -1019,7 +1019,7 @@
 
 <a name="snipe-it-0.0.6"></a>
 
-### [snipe-it-0.0.6](https://github.com/truecharts/apps/compare/snipe-it-0.0.5...snipe-it-0.0.6) (2021-12-04)
+### [代码片段 it-0.0.6](https://github.com/truecharts/apps/compare/snipe-it-0.0.5...snipe-it-0.0.6) (2021-12-04)
 
 #### 聊天
 
@@ -1029,7 +1029,7 @@
 
 <a name="snipe-it-0.0.5"></a>
 
-### [snipe-it-0.0.5](https://github.com/truecharts/apps/compare/snipe-it-0.0.4...snipe-it-0.0.5) (2021-12-04)
+### [代码片段 it-0.0.5](https://github.com/truecharts/apps/compare/snipe-it-0.0.4...snipe-it-0.0.5) (2021-12-04)
 
 #### 聊天
 
@@ -1039,7 +1039,7 @@
 
 <a name="snipe-it-0.0.4"></a>
 
-### [snipe-it-0.0.4](https://github.com/truecharts/apps/compare/snipe-it-0.0.3...snipe-it-0.0.4) (2021-12-03)
+### [代码片段 it-0.0.4](https://github.com/truecharts/apps/compare/snipe-it-0.0.3...snipe-it-0.0.4) (2021-12-03)
 
 #### 聊天
 
@@ -1051,7 +1051,7 @@
 
 <a name="snipe-it-0.0.3"></a>
 
-### [snipe-it-0.0.3](https://github.com/truecharts/apps/compare/snipe-it-0.0.2...snipe-it-0.0.3) (2021-11-30)
+### [代码片段 it-0.0.3](https://github.com/truecharts/apps/compare/snipe-it-0.0.2...snipe-it-0.0.3) (2021-11-30)
 
 #### 聊天
 
@@ -1061,7 +1061,7 @@
 
 <a name="snipe-it-0.0.2"></a>
 
-### [snipe-it-0.0.2](https://github.com/truecharts/apps/compare/snipe-it-0.0.1...snipe-it-0.0.2) (2021-11-30)
+### [代码片段 it-0.0.2](https://github.com/truecharts/apps/compare/snipe-it-0.0.1...snipe-it-0.0.2) (2021-11-30)
 
 #### 聊天
 
@@ -1071,7 +1071,7 @@
 
 <a name="snipe-it-0.0.1"></a>
 
-### snipe-it-0.0.1 (2021-11-30)
+### 代码片段-it-0.0.1 (2021-11-30)
 
 #### Feat
 
