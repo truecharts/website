@@ -175,7 +175,7 @@
 
 <a name="leaf2mqtt-3.0.20"></a>
 
-### [leaf2mqtt-3.0.20](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.19...leaf2mqtt-3.0.20) (2022-05-31)
+### [leaf2mqt-3.0.20](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.19...leaf2mqtt-3.0.20) (2022-05-31)
 
 #### 聊天
 
@@ -185,7 +185,7 @@
 
 <a name="leaf2mqtt-3.0.19"></a>
 
-### [leaf2mqtt-3.0.19](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.18...leaf2mqtt-3.0.19) (2022-05-26)
+### [leaf2mqt-3.0.19](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.18...leaf2mqtt-3.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -196,7 +196,7 @@
 
 <a name="leaf2mqtt-3.0.19"></a>
 
-### [leaf2mqtt-3.0.19](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.18...leaf2mqtt-3.0.19) (2022-05-26)
+### [leaf2mqt-3.0.19](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.18...leaf2mqtt-3.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -206,7 +206,7 @@
 
 <a name="leaf2mqtt-3.0.18"></a>
 
-### [leaf2mqtt-3.0.18](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.17...leaf2mqtt-3.0.18) (2022-05-24)
+### [leaf2mqt-3.0.18](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.17...leaf2mqtt-3.0.18) (2022-05-24)
 
 #### 聊天
 
@@ -216,7 +216,7 @@
 
 <a name="leaf2mqtt-3.0.17"></a>
 
-### [leaf2mqtt-3.0.17](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.16...leaf2mqtt-3.0.17) (2022-05-17)
+### [leaf2mqt-3.0.17](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.16...leaf2mqtt-3.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -227,7 +227,7 @@
 
 <a name="leaf2mqtt-3.0.17"></a>
 
-### [leaf2mqtt-3.0.17](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.16...leaf2mqtt-3.0.17) (2022-05-17)
+### [leaf2mqt-3.0.17](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.16...leaf2mqtt-3.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -237,7 +237,7 @@
 
 <a name="leaf2mqtt-3.0.16"></a>
 
-### [leaf2mqtt-3.0.16](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.15...leaf2mqtt-3.0.16) (2022-05-17)
+### [leaf2mqt-3.0.16](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.15...leaf2mqtt-3.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -247,7 +247,7 @@
 
 <a name="leaf2mqtt-3.0.15"></a>
 
-### [leaf2mqtt-3.0.15](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.14...leaf2mqtt-3.0.15) (2022-05-10)
+### [leaf2mqt-3.0.15](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.14...leaf2mqtt-3.0.15) (2022-05-10)
 
 #### 聊天
 
@@ -257,7 +257,7 @@
 
 <a name="leaf2mqtt-3.0.14"></a>
 
-### [leaf2mqtt-3.0.14](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.13...leaf2mqtt-3.0.14) (2022-05-05)
+### [leaf2mqt-3.0.14](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.13...leaf2mqtt-3.0.14) (2022-05-05)
 
 #### 聊天
 
@@ -267,7 +267,7 @@
 
 <a name="leaf2mqtt-3.0.13"></a>
 
-### [leaf2mqtt-3.0.13](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.12...leaf2mqtt-3.0.13) (2022-04-26)
+### [leaf2mqt-3.0.13](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.12...leaf2mqtt-3.0.13) (2022-04-26)
 
 #### 聊天
 
@@ -277,7 +277,7 @@
 
 <a name="leaf2mqtt-3.0.12"></a>
 
-### [leaf2mqtt-3.0.12](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.11...leaf2mqtt-3.0.12) (2022-04-20)
+### [leaf2mqt-3.0.12](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.11...leaf2mqtt-3.0.12) (2022-04-20)
 
 #### 聊天
 
@@ -287,7 +287,7 @@
 
 <a name="leaf2mqtt-3.0.11"></a>
 
-### [leaf2mqtt-3.0.11](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.10...leaf2mqtt-3.0.11) (2022-04-20)
+### [leaf2mqt-3.0.11](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.10...leaf2mqtt-3.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -298,7 +298,7 @@
 
 <a name="leaf2mqtt-3.0.10"></a>
 
-### [leaf2mqtt-3.0.10](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.9...leaf2mqtt-3.0.10) (2022-04-12)
+### [leaf2mqt-3.0.10](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.9...leaf2mqtt-3.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -308,7 +308,7 @@
 
 <a name="leaf2mqtt-3.0.9"></a>
 
-### [leaf2mqtt-3.0.9](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.8...leaf2mqtt-3.0.9) (2022-04-03)
+### [leaf2mqt-3.0.9](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.8...leaf2mqtt-3.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -318,7 +318,7 @@
 
 <a name="leaf2mqtt-3.0.8"></a>
 
-### [leaf2mqtt-3.0.8](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.7...leaf2mqtt-3.0.8) (2022-03-31)
+### [leaf2mqt-3.0.8](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.7...leaf2mqtt-3.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -328,7 +328,7 @@
 
 <a name="leaf2mqtt-3.0.7"></a>
 
-### [leaf2mqtt-3.0.7](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.6...leaf2mqtt-3.0.7) (2022-03-30)
+### [leaf2mqt-3.0.7](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.6...leaf2mqtt-3.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -338,7 +338,7 @@
 
 <a name="leaf2mqtt-3.0.6"></a>
 
-### [leaf2mqtt-3.0.6](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.5...leaf2mqtt-3.0.6) (2022-03-26)
+### [leaf2mqt-3.0.6](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.5...leaf2mqtt-3.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -348,7 +348,7 @@
 
 <a name="leaf2mqtt-3.0.1"></a>
 
-### [leaf2mqtt-3.0.1](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.0...leaf2mqtt-3.0.1) (2022-03-07)
+### [leaf2mqt-3.0.1](https://github.com/truecharts/apps/compare/leaf2mqtt-3.0.0...leaf2mqtt-3.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -359,7 +359,7 @@
 
 <a name="leaf2mqtt-3.0.0"></a>
 
-### [leaf2mqtt-3.0.0](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.42...leaf2mqtt-3.0.0) (2022-03-03)
+### [leaf2mqt-3.0.0](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.42...leaf2mqtt-3.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -375,7 +375,7 @@
 
 <a name="leaf2mqtt-2.0.42"></a>
 
-### [leaf2mqtt-2.0.42](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.41...leaf2mqtt-2.0.42) (2022-03-02)
+### [leaf2mqt-2.0.42](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.41...leaf2mqtt-2.0.42) (2022-03-02)
 
 #### 聊天
 
@@ -385,7 +385,7 @@
 
 <a name="leaf2mqtt-2.0.41"></a>
 
-### [leaf2mqtt-2.0.41](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.40...leaf2mqtt-2.0.41) (2022-02-21)
+### [leaf2mqt-2.0.41](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.40...leaf2mqtt-2.0.41) (2022-02-21)
 
 #### 聊天
 
@@ -395,7 +395,7 @@
 
 <a name="leaf2mqtt-2.0.40"></a>
 
-### [leaf2mqtt-2.0.40](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.39...leaf2mqtt-2.0.40) (2022-02-15)
+### [leaf2mqt-2.0.40](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.39...leaf2mqtt-2.0.40) (2022-02-15)
 
 #### 聊天
 
@@ -405,7 +405,7 @@
 
 <a name="leaf2mqtt-2.0.39"></a>
 
-### [leaf2mqtt-2.0.39](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.38...leaf2mqtt-2.0.39) (2022-02-08)
+### [leaf2mqt-2.0.39](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.38...leaf2mqtt-2.0.39) (2022-02-08)
 
 #### 聊天
 
@@ -415,7 +415,7 @@
 
 <a name="leaf2mqtt-2.0.38"></a>
 
-### [leaf2mqtt-2.0.38](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.37...leaf2mqtt-2.0.38) (2022-02-06)
+### [leaf2mqt-2.0.38](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.37...leaf2mqtt-2.0.38) (2022-02-06)
 
 #### 聊天
 
@@ -425,7 +425,7 @@
 
 <a name="leaf2mqtt-2.0.37"></a>
 
-### [leaf2mqtt-2.0.37](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.36...leaf2mqtt-2.0.37) (2022-02-05)
+### [leaf2mqt-2.0.37](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.36...leaf2mqtt-2.0.37) (2022-02-05)
 
 #### 聊天
 
@@ -435,7 +435,7 @@
 
 <a name="leaf2mqtt-2.0.36"></a>
 
-### [leaf2mqtt-2.0.36](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.35...leaf2mqtt-2.0.36) (2022-02-02)
+### [leaf2mqt-2.0.36](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.35...leaf2mqtt-2.0.36) (2022-02-02)
 
 #### 聊天
 
@@ -445,7 +445,7 @@
 
 <a name="leaf2mqtt-2.0.35"></a>
 
-### [leaf2mqtt-2.0.35](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.34...leaf2mqtt-2.0.35) (2022-01-25)
+### [leaf2mqt-2.0.35](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.34...leaf2mqtt-2.0.35) (2022-01-25)
 
 #### 聊天
 
@@ -455,7 +455,7 @@
 
 <a name="leaf2mqtt-2.0.34"></a>
 
-### [leaf2mqtt-2.0.34](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.33...leaf2mqtt-2.0.34) (2022-01-22)
+### [leaf2mqt-2.0.34](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.33...leaf2mqtt-2.0.34) (2022-01-22)
 
 #### 聊天
 
@@ -465,7 +465,7 @@
 
 <a name="leaf2mqtt-2.0.33"></a>
 
-### [leaf2mqtt-2.0.33](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.32...leaf2mqtt-2.0.33) (2022-01-21)
+### [leaf2mqt-2.0.33](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.32...leaf2mqtt-2.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -479,7 +479,7 @@
 
 <a name="leaf2mqtt-2.0.32"></a>
 
-### [leaf2mqtt-2.0.32](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.31...leaf2mqtt-2.0.32) (2022-01-18)
+### [leaf2mqt-2.0.32](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.31...leaf2mqtt-2.0.32) (2022-01-18)
 
 #### 聊天
 
@@ -489,7 +489,7 @@
 
 <a name="leaf2mqtt-2.0.31"></a>
 
-### [leaf2mqtt-2.0.31](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.30...leaf2mqtt-2.0.31) (2022-01-13)
+### [leaf2mqt-2.0.31](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.30...leaf2mqtt-2.0.31) (2022-01-13)
 
 #### 聊天
 
@@ -503,7 +503,7 @@
 
 <a name="leaf2mqtt-2.0.30"></a>
 
-### [leaf2mqtt-2.0.30](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.29...leaf2mqtt-2.0.30) (2022-01-12)
+### [leaf2mqt-2.0.30](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.29...leaf2mqtt-2.0.30) (2022-01-12)
 
 #### 聊天
 
@@ -513,7 +513,7 @@
 
 <a name="leaf2mqtt-2.0.29"></a>
 
-### [leaf2mqtt-2.0.29](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.28...leaf2mqtt-2.0.29) (2022-01-11)
+### [leaf2mqt-2.0.29](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.28...leaf2mqtt-2.0.29) (2022-01-11)
 
 #### 聊天
 
@@ -523,7 +523,7 @@
 
 <a name="leaf2mqtt-2.0.28"></a>
 
-### [leaf2mqtt-2.0.28](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.27...leaf2mqtt-2.0.28) (2022-01-04)
+### [leaf2mqt-2.0.28](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.27...leaf2mqtt-2.0.28) (2022-01-04)
 
 #### 聊天
 
@@ -533,7 +533,7 @@
 
 <a name="leaf2mqtt-2.0.27"></a>
 
-### [leaf2mqtt-2.0.27](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.26...leaf2mqtt-2.0.27) (2021-12-28)
+### [leaf2mqt-2.0.27](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.26...leaf2mqtt-2.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -543,7 +543,7 @@
 
 <a name="leaf2mqtt-2.0.26"></a>
 
-### [leaf2mqtt-2.0.26](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.25...leaf2mqtt-2.0.26) (2021-12-21)
+### [leaf2mqt-2.0.26](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.25...leaf2mqtt-2.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -553,7 +553,7 @@
 
 <a name="leaf2mqtt-2.0.25"></a>
 
-### [leaf2mqtt-2.0.25](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.24...leaf2mqtt-2.0.25) (2021-12-19)
+### [leaf2mqt-2.0.25](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.24...leaf2mqtt-2.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -563,7 +563,7 @@
 
 <a name="leaf2mqtt-2.0.24"></a>
 
-### [leaf2mqtt-2.0.24](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.23...leaf2mqtt-2.0.24) (2021-12-19)
+### [leaf2mqt-2.0.24](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.23...leaf2mqtt-2.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -573,7 +573,7 @@
 
 <a name="leaf2mqtt-2.0.23"></a>
 
-### [leaf2mqtt-2.0.23](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.22...leaf2mqtt-2.0.23) (2021-12-18)
+### [leaf2mqt-2.0.23](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.22...leaf2mqtt-2.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -584,7 +584,7 @@
 
 <a name="leaf2mqtt-2.0.22"></a>
 
-### [leaf2mqtt-2.0.22](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.21...leaf2mqtt-2.0.22) (2021-12-14)
+### [leaf2mqt-2.0.22](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.21...leaf2mqtt-2.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -598,7 +598,7 @@
 
 <a name="leaf2mqtt-2.0.21"></a>
 
-### [leaf2mqtt-2.0.21](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.20...leaf2mqtt-2.0.21) (2021-12-13)
+### [leaf2mqt-2.0.21](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.20...leaf2mqtt-2.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -608,7 +608,7 @@
 
 <a name="leaf2mqtt-2.0.20"></a>
 
-### [leaf2mqtt-2.0.20](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.19...leaf2mqtt-2.0.20) (2021-12-11)
+### [leaf2mqt-2.0.20](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.19...leaf2mqtt-2.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -618,7 +618,7 @@
 
 <a name="leaf2mqtt-2.0.19"></a>
 
-### [leaf2mqtt-2.0.19](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.18...leaf2mqtt-2.0.19) (2021-12-07)
+### [leaf2mqt-2.0.19](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.18...leaf2mqtt-2.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -628,7 +628,7 @@
 
 <a name="leaf2mqtt-2.0.18"></a>
 
-### leaf2mqtt-2.0.18 (2021-12-05)
+### fleaf2mqt-2.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -648,7 +648,7 @@
 
 <a name="leaf2mqtt-2.0.17"></a>
 
-### [leaf2mqtt-2.0.17](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.16...leaf2mqtt-2.0.17) (2021-12-05)
+### [leaf2mqt-2.0.17](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.16...leaf2mqtt-2.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -658,7 +658,7 @@
 
 <a name="leaf2mqtt-2.0.16"></a>
 
-### [leaf2mqtt-2.0.16](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.15...leaf2mqtt-2.0.16) (2021-12-04)
+### [leaf2mqt-2.0.16](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.15...leaf2mqtt-2.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -668,7 +668,7 @@
 
 <a name="leaf2mqtt-2.0.15"></a>
 
-### [leaf2mqtt-2.0.15](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.14...leaf2mqtt-2.0.15) (2021-12-04)
+### [leaf2mqt-2.0.15](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.14...leaf2mqtt-2.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -678,7 +678,7 @@
 
 <a name="leaf2mqtt-2.0.14"></a>
 
-### [leaf2mqtt-2.0.14](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.13...leaf2mqtt-2.0.14) (2021-12-03)
+### [leaf2mqt-2.0.14](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.13...leaf2mqtt-2.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -689,7 +689,7 @@
 
 <a name="leaf2mqtt-2.0.13"></a>
 
-### [leaf2mqtt-2.0.13](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.12...leaf2mqtt-2.0.13) (2021-11-30)
+### [leaf2mqt-2.0.13](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.12...leaf2mqtt-2.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -699,7 +699,7 @@
 
 <a name="leaf2mqtt-2.0.12"></a>
 
-### [leaf2mqtt-2.0.12](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.11...leaf2mqtt-2.0.12) (2021-11-23)
+### [leaf2mqt-2.0.12](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.11...leaf2mqtt-2.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -709,7 +709,7 @@
 
 <a name="leaf2mqtt-2.0.11"></a>
 
-### [leaf2mqtt-2.0.11](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.10...leaf2mqtt-2.0.11) (2021-11-22)
+### [leaf2mqt-2.0.11](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.10...leaf2mqtt-2.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -719,7 +719,7 @@
 
 <a name="leaf2mqtt-2.0.10"></a>
 
-### [leaf2mqtt-2.0.10](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.9...leaf2mqtt-2.0.10) (2021-11-16)
+### [leaf2mqt-2.0.10](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.9...leaf2mqtt-2.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -729,7 +729,7 @@
 
 <a name="leaf2mqtt-2.0.9"></a>
 
-### [leaf2mqtt-2.0.9](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.8...leaf2mqtt-2.0.9) (2021-11-15)
+### [leaf2mqt-2.0.9](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.8...leaf2mqtt-2.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -739,7 +739,7 @@
 
 <a name="leaf2mqtt-2.0.8"></a>
 
-### [leaf2mqtt-2.0.8](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.7...leaf2mqtt-2.0.8) (2021-11-14)
+### [leaf2mqt-2.0.8](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.7...leaf2mqtt-2.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -750,7 +750,7 @@
 
 <a name="leaf2mqtt-2.0.7"></a>
 
-### [leaf2mqtt-2.0.7](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.6...leaf2mqtt-2.0.7) (2021-11-09)
+### [leaf2mqt-2.0.7](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.6...leaf2mqtt-2.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -760,7 +760,7 @@
 
 <a name="leaf2mqtt-2.0.6"></a>
 
-### [leaf2mqtt-2.0.6](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.5...leaf2mqtt-2.0.6) (2021-11-07)
+### [leaf2mqt-2.0.6](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.5...leaf2mqtt-2.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -770,7 +770,7 @@
 
 <a name="leaf2mqtt-2.0.5"></a>
 
-### [leaf2mqtt-2.0.5](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.4...leaf2mqtt-2.0.5) (2021-11-07)
+### [leaf2mqt-2.0.5](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.4...leaf2mqtt-2.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -784,7 +784,7 @@
 
 <a name="leaf2mqtt-2.0.4"></a>
 
-### [leaf2mqtt-2.0.4](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.3...leaf2mqtt-2.0.4) (2021-11-02)
+### [leaf2mqt-2.0.4](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.3...leaf2mqtt-2.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -794,7 +794,7 @@
 
 <a name="leaf2mqtt-2.0.3"></a>
 
-### [leaf2mqtt-2.0.3](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.2...leaf2mqtt-2.0.3) (2021-11-01)
+### [leaf2mqt-2.0.3](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.2...leaf2mqtt-2.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -804,7 +804,7 @@
 
 <a name="leaf2mqtt-2.0.2"></a>
 
-### [leaf2mqtt-2.0.2](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.1...leaf2mqtt-2.0.2) (2021-10-26)
+### [leaf2mqt-2.0.2](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.1...leaf2mqtt-2.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -814,7 +814,7 @@
 
 <a name="leaf2mqtt-2.0.1"></a>
 
-### [leaf2mqtt-2.0.1](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.0...leaf2mqtt-2.0.1) (2021-10-26)
+### [leaf2mqt-2.0.1](https://github.com/truecharts/apps/compare/leaf2mqtt-2.0.0...leaf2mqtt-2.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -824,7 +824,7 @@
 
 <a name="leaf2mqtt-2.0.0"></a>
 
-### [leaf2mqtt-2.0.0](https://github.com/truecharts/apps/compare/leaf2mqtt-1.0.1...leaf2mqtt-2.0.0) (2021-10-25)
+### [leaf2mqt-2.0.0](https://github.com/truecharts/apps/compare/leaf2mqtt-1.0.1...leaf2mqtt-2.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -834,7 +834,7 @@
 
 <a name="leaf2mqtt-1.0.1"></a>
 
-### [leaf2mqtt-1.0.1](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.11...leaf2mqtt-1.0.1) (2021-10-20)
+### [leaf2mqt-1.0.1](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.11...leaf2mqtt-1.0.1) (2021-10-20)
 
 #### 聊天
 
@@ -844,7 +844,7 @@
 
 <a name="leaf2mqtt-0.0.9"></a>
 
-### [leaf2mqtt-0.0.9](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.8...leaf2mqtt-0.0.9) (2021-10-20)
+### [leaf2mqt-0.0.9](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.8...leaf2mqtt-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -854,7 +854,7 @@
 
 <a name="leaf2mqtt-0.0.8"></a>
 
-### [leaf2mqtt-0.0.8](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.7...leaf2mqtt-0.0.8) (2021-10-19)
+### [leaf2mqt-0.0.8](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.7...leaf2mqtt-0.0.8) (2021-10-19)
 
 #### 更改
 
@@ -878,7 +878,7 @@
 
 <a name="leaf2mqtt-0.0.7"></a>
 
-### [leaf2mqtt-0.0.7](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.6...leaf2mqtt-0.0.7) (2021-10-19)
+### [leaf2mqt-0.0.7](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.6...leaf2mqtt-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -888,7 +888,7 @@
 
 <a name="leaf2mqtt-0.0.6"></a>
 
-### [leaf2mqtt-0.0.6](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.5...leaf2mqtt-0.0.6) (2021-10-19)
+### [leaf2mqt-0.0.6](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.5...leaf2mqtt-0.0.6) (2021-10-19)
 
 #### 修复
 
@@ -898,7 +898,7 @@
 
 <a name="leaf2mqtt-0.0.5"></a>
 
-### [leaf2mqtt-0.0.5](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.4...leaf2mqtt-0.0.5) (2021-10-18)
+### [leaf2mqt-0.0.5](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.4...leaf2mqtt-0.0.5) (2021-10-18)
 
 #### 重新因子
 
@@ -908,7 +908,7 @@
 
 <a name="leaf2mqtt-0.0.4"></a>
 
-### [leaf2mqtt-0.0.4](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.3...leaf2mqtt-0.0.4) (2021-10-17)
+### [leaf2mqt-0.0.4](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.3...leaf2mqtt-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -918,7 +918,7 @@
 
 <a name="leaf2mqtt-0.0.3"></a>
 
-### [leaf2mqtt-0.0.3](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.2...leaf2mqtt-0.0.3) (2021-10-13)
+### [leaf2mqt-0.0.3](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.2...leaf2mqtt-0.0.3) (2021-10-13)
 
 #### 聊天
 
@@ -928,7 +928,7 @@
 
 <a name="leaf2mqtt-0.0.2"></a>
 
-### [leaf2mqtt-0.0.2](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.1...leaf2mqtt-0.0.2) (2021-10-13)
+### [leaf2mqt-0.0.2](https://github.com/truecharts/apps/compare/leaf2mqtt-0.0.1...leaf2mqtt-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -938,4 +938,4 @@
 
 <a name="leaf2mqtt-0.0.1"></a>
 
-### leaf2mqtt-0.0.1 (2021-10-04)
+### fleaf2mqt-0.0.1 (2021-10-04)
