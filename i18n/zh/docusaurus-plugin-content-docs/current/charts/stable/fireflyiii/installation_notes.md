@@ -1,5 +1,5 @@
-# Important Notes
+# 重要笔记
 
-The Firefly III developers have decided to split their program into multiple different add-on containers, implementing these ourselves into the App is EXTREMELY time-consuming. While we would appreciate people with experience building Helm Charts and adding the feature containers, we have decided to flag them "out of scope" for True Charts.
+Fifly III 开发者已经决定将他们的程序分成多个不同的附加组件容器，并将它们自己应用到应用程序是超时的。 我们将感谢有经验的人建造头盔图表并添加特性容器， 我们已决定将它们标记为“超出范围”用于真图。
 
-If you really want to use them, you can use custom-app or big-blue-button. However, we do not actively support such a setup.
+如果您真的想要使用它们，您可以使用自定义应用或大蓝色按钮。 然而，我们并不积极支持这种安排。
