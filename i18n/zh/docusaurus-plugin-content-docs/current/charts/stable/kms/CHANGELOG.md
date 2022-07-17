@@ -172,7 +172,7 @@
 
 <a name="kms-10.0.24"></a>
 
-### [kms-10.0.24](https://github.com/truecharts/apps/compare/kms-10.0.23...kms-10.0.24) (2022-05-31)
+### [公里-10.0.24](https://github.com/truecharts/apps/compare/kms-10.0.23...kms-10.0.24) (2022-05-31)
 
 #### 聊天
 
@@ -180,13 +180,13 @@
 
 #### 修复
 
-* set trustedIPs to string ([#2764](https://github.com/truecharts/apps/issues/2764))
+* 将可信的 IP 设置为字符串[#2764](https://github.com/truecharts/apps/issues/2764)
 
 
 
 <a name="kms-10.0.23"></a>
 
-### [kms-10.0.23](https://github.com/truecharts/apps/compare/kms-10.0.22...kms-10.0.23) (2022-05-26)
+### [公里-10.0.23](https://github.com/truecharts/apps/compare/kms-10.0.22...kms-10.0.23) (2022-05-26)
 
 #### 聊天
 
@@ -197,7 +197,7 @@
 
 <a name="kms-10.0.23"></a>
 
-### [kms-10.0.23](https://github.com/truecharts/apps/compare/kms-10.0.22...kms-10.0.23) (2022-05-26)
+### [公里-10.0.23](https://github.com/truecharts/apps/compare/kms-10.0.22...kms-10.0.23) (2022-05-26)
 
 #### 聊天
 
@@ -207,7 +207,7 @@
 
 <a name="kms-10.0.22"></a>
 
-### [kms-10.0.22](https://github.com/truecharts/apps/compare/kms-10.0.21...kms-10.0.22) (2022-05-24)
+### [公里-10.0.22](https://github.com/truecharts/apps/compare/kms-10.0.21...kms-10.0.22) (2022-05-24)
 
 #### 聊天
 
@@ -217,7 +217,7 @@
 
 <a name="kms-10.0.21"></a>
 
-### [kms-10.0.21](https://github.com/truecharts/apps/compare/kms-10.0.20...kms-10.0.21) (2022-05-17)
+### [公里-10.0.21](https://github.com/truecharts/apps/compare/kms-10.0.20...kms-10.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -228,7 +228,7 @@
 
 <a name="kms-10.0.21"></a>
 
-### [kms-10.0.21](https://github.com/truecharts/apps/compare/kms-10.0.20...kms-10.0.21) (2022-05-17)
+### [公里-10.0.21](https://github.com/truecharts/apps/compare/kms-10.0.20...kms-10.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -238,7 +238,7 @@
 
 <a name="kms-10.0.20"></a>
 
-### [kms-10.0.20](https://github.com/truecharts/apps/compare/kms-10.0.19...kms-10.0.20) (2022-05-17)
+### [公里-10.0.20](https://github.com/truecharts/apps/compare/kms-10.0.19...kms-10.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -248,7 +248,7 @@
 
 <a name="kms-10.0.19"></a>
 
-### [kms-10.0.19](https://github.com/truecharts/apps/compare/kms-10.0.18...kms-10.0.19) (2022-05-13)
+### [公里-10.0.19](https://github.com/truecharts/apps/compare/kms-10.0.18...kms-10.0.19) (2022-05-13)
 
 #### 聊天
 
@@ -268,7 +268,7 @@
 
 <a name="kms-10.0.17"></a>
 
-### [kms-10.0.17](https://github.com/truecharts/apps/compare/kms-10.0.16...kms-10.0.17) (2022-05-05)
+### [公里-10.0.17](https://github.com/truecharts/apps/compare/kms-10.0.16...kms-10.0.17) (2022-05-05)
 
 #### 聊天
 
@@ -288,7 +288,7 @@
 
 <a name="kms-10.0.15"></a>
 
-### [kms-10.0.15](https://github.com/truecharts/apps/compare/kms-10.0.14...kms-10.0.15) (2022-04-26)
+### [公里-10.0.15](https://github.com/truecharts/apps/compare/kms-10.0.14...kms-10.0.15) (2022-04-26)
 
 #### 聊天
 
@@ -309,7 +309,7 @@
 
 <a name="kms-10.0.13"></a>
 
-### [kms-10.0.13](https://github.com/truecharts/apps/compare/kms-10.0.12...kms-10.0.13) (2022-04-17)
+### [公里-10.0.13](https://github.com/truecharts/apps/compare/kms-10.0.12...kms-10.0.13) (2022-04-17)
 
 #### 聊天
 
@@ -329,7 +329,7 @@
 
 <a name="kms-10.0.11"></a>
 
-### [kms-10.0.11](https://github.com/truecharts/apps/compare/kms-10.0.10...kms-10.0.11) (2022-04-12)
+### [公里-10.0.11](https://github.com/truecharts/apps/compare/kms-10.0.10...kms-10.0.11) (2022-04-12)
 
 #### 聊天
 
@@ -359,7 +359,7 @@
 
 <a name="kms-10.0.8"></a>
 
-### [kms-10.0.8](https://github.com/truecharts/apps/compare/kms-10.0.7...kms-10.0.8) (2022-03-31)
+### [公里-10.0.8](https://github.com/truecharts/apps/compare/kms-10.0.7...kms-10.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -369,7 +369,7 @@
 
 <a name="kms-10.0.7"></a>
 
-### [kms-10.0.7](https://github.com/truecharts/apps/compare/kms-10.0.6...kms-10.0.7) (2022-03-30)
+### [公里-10.0.7](https://github.com/truecharts/apps/compare/kms-10.0.6...kms-10.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -389,7 +389,7 @@
 
 <a name="kms-10.0.1"></a>
 
-### [kms-10.0.1](https://github.com/truecharts/apps/compare/kms-10.0.0...kms-10.0.1) (2022-03-07)
+### [公里-10.0.1](https://github.com/truecharts/apps/compare/kms-10.0.0...kms-10.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -645,7 +645,7 @@
 
 <a name="kms-9.0.28"></a>
 
-### [kms-9.0.28](https://github.com/truecharts/apps/compare/kms-9.0.27...kms-9.0.28) (2021-12-18)
+### [kms-9.0.28](https://github.com/truecharts/apps/compare/kms-9.0.27...kms-9.0.28) (2021-12-18岁)
 
 #### 聊天
 
@@ -864,7 +864,7 @@
 
 #### 聊天
 
-* update pykmsorg/py-kms:minimal docker digest to 769cc69 ([#1303](https://github.com/truecharts/apps/issues/1303))
+* 将 pykmsorg/py-kms:minimum docker 摘要更新为 769cc69 ([#1303](https://github.com/truecharts/apps/issues/1303))
 
 
 
