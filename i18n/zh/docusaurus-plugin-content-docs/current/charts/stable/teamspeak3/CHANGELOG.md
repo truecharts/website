@@ -601,7 +601,7 @@
 
 <a name="teamspeak3-2.0.23"></a>
 
-### [teamspeak3-2.0.23](https://github.com/truecharts/apps/compare/teamspeak3-2.0.22...teamspeak3-2.0.23) (2021-12-18)
+### [teamspeak3-2.0.23](https://github.com/truecharts/apps/compare/teamspeak3-2.0.22...teamspeak3-2.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -886,7 +886,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1045,7 +1045,7 @@
 
 <a name="teamspeak3-0.0.3"></a>
 
-### [teamspeak3-0.0.3](https://github.com/truecharts/apps/compare/teamspeak3-0.0.2...teamspeak3-0.0.3) (2021-09-21)
+### [团队口令3-0.0.3](https://github.com/truecharts/apps/compare/teamspeak3-0.0.2...teamspeak3-0.0.3) (2021-09-21)
 
 #### 聊天
 
@@ -1069,4 +1069,4 @@
 
 #### 添加
 
-* Add TeamSpeak3 Server to incubator ([#985](https://github.com/truecharts/apps/issues/985))
+* 将TeamSpeak3 服务器添加到孵化器 ([#985](https://github.com/truecharts/apps/issues/985))
