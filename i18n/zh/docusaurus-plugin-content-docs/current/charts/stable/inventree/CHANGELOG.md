@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [inventree-3.0.23](https://github.com/truecharts/apps/compare/inventree-3.0.22...inventree-3.0.23) (2022-07-16)
+## [发明-3.0.23](https://github.com/truecharts/apps/compare/inventree-3.0.22...inventree-3.0.23) (2022-07-16)
 
 ### 聊天
 
@@ -9,7 +9,7 @@
 
 
 
-## [inventree-3.0.22](https://github.com/truecharts/apps/compare/inventree-3.0.21...inventree-3.0.22) (2022-07-14)
+## [发明-3.0.22](https://github.com/truecharts/apps/compare/inventree-3.0.21...inventree-3.0.22) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [inventree-3.0.21](https://github.com/truecharts/apps/compare/inventree-3.0.19...inventree-3.0.21) (2022-07-14)
+## [发明-3.0.21](https://github.com/truecharts/apps/compare/inventree-3.0.19...inventree-3.0.21) (2022-07-14)
 
 ### 修复
 
@@ -25,7 +25,7 @@
 
 
 
-## [inventree-3.0.19](https://github.com/truecharts/apps/compare/inventree-3.0.18...inventree-3.0.19) (2022-07-14)
+## [发明-3.0.19](https://github.com/truecharts/apps/compare/inventree-3.0.18...inventree-3.0.19) (2022-07-14)
 
 ### 聊天
 
@@ -33,7 +33,7 @@
 
 
 
-## [inventree-3.0.18](https://github.com/truecharts/apps/compare/inventree-3.0.17...inventree-3.0.18) (2022-07-13)
+## [发明-3.0.18](https://github.com/truecharts/apps/compare/inventree-3.0.17...inventree-3.0.18) (2022-07-13)
 
 ### 聊天
 
@@ -41,7 +41,7 @@
 
 
 
-## [inventree-3.0.17](https://github.com/truecharts/apps/compare/inventree-3.0.15...inventree-3.0.17) (2022-07-12)
+## [发明-3.0.17](https://github.com/truecharts/apps/compare/inventree-3.0.15...inventree-3.0.17) (2022-07-12)
 
 ### 聊天
 
@@ -50,7 +50,7 @@
 
 
 
-## [inventree-3.0.15](https://github.com/truecharts/apps/compare/inventree-3.0.14...inventree-3.0.15) (2022-07-12)
+## [发明-3.0.15](https://github.com/truecharts/apps/compare/inventree-3.0.14...inventree-3.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -60,7 +60,7 @@
 
 <a name="inventree-3.0.14"></a>
 
-### [inventree-3.0.14](https://github.com/truecharts/apps/compare/inventree-3.0.13...inventree-3.0.14) (2022-07-12)
+### [发明-3.0.14](https://github.com/truecharts/apps/compare/inventree-3.0.13...inventree-3.0.14) (2022-07-12)
 
 #### 聊天
 
@@ -70,7 +70,7 @@
 
 <a name="inventree-3.0.13"></a>
 
-### [inventree-3.0.13](https://github.com/truecharts/apps/compare/inventree-3.0.12...inventree-3.0.13) (2022-07-11)
+### [发明-3.0.13](https://github.com/truecharts/apps/compare/inventree-3.0.12...inventree-3.0.13) (2022-07-11)
 
 #### 聊天
 
@@ -80,7 +80,7 @@
 
 <a name="inventree-3.0.12"></a>
 
-### [inventree-3.0.12](https://github.com/truecharts/apps/compare/inventree-3.0.11...inventree-3.0.12) (2022-07-09)
+### [发明-3.0.12](https://github.com/truecharts/apps/compare/inventree-3.0.11...inventree-3.0.12) (2022-07-09)
 
 #### 聊天
 
@@ -90,7 +90,7 @@
 
 <a name="inventree-3.0.11"></a>
 
-### [inventree-3.0.11](https://github.com/truecharts/apps/compare/inventree-3.0.10...inventree-3.0.11) (2022-07-05)
+### [发明-3.0.11](https://github.com/truecharts/apps/compare/inventree-3.0.10...inventree-3.0.11) (2022-07-05)
 
 #### 聊天
 
@@ -100,7 +100,7 @@
 
 <a name="inventree-3.0.10"></a>
 
-### [inventree-3.0.10](https://github.com/truecharts/apps/compare/inventree-3.0.9...inventree-3.0.10) (2022-07-04)
+### [发明-3.0.10](https://github.com/truecharts/apps/compare/inventree-3.0.9...inventree-3.0.10) (2022-07-04)
 
 #### 聊天
 
@@ -110,7 +110,7 @@
 
 <a name="inventree-3.0.9"></a>
 
-### [inventree-3.0.9](https://github.com/truecharts/apps/compare/inventree-3.0.8...inventree-3.0.9) (2022-06-25)
+### [发明-3.0.9](https://github.com/truecharts/apps/compare/inventree-3.0.8...inventree-3.0.9) (2022-06-25)
 
 #### 聊天
 
@@ -120,7 +120,7 @@
 
 <a name="inventree-3.0.8"></a>
 
-### [inventree-3.0.8](https://github.com/truecharts/apps/compare/inventree-3.0.7...inventree-3.0.8) (2022-06-25)
+### [发明-3.0.8](https://github.com/truecharts/apps/compare/inventree-3.0.7...inventree-3.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -130,7 +130,7 @@
 
 <a name="inventree-3.0.7"></a>
 
-### [inventree-3.0.7](https://github.com/truecharts/apps/compare/inventree-3.0.6...inventree-3.0.7) (2022-06-22)
+### [发明-3.0.7](https://github.com/truecharts/apps/compare/inventree-3.0.6...inventree-3.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -140,7 +140,7 @@
 
 <a name="inventree-3.0.6"></a>
 
-### [inventree-3.0.6](https://github.com/truecharts/apps/compare/inventree-3.0.5...inventree-3.0.6) (2022-06-21)
+### [发明-3.0.6](https://github.com/truecharts/apps/compare/inventree-3.0.5...inventree-3.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -150,7 +150,7 @@
 
 <a name="inventree-3.0.5"></a>
 
-### [inventree-3.0.5](https://github.com/truecharts/apps/compare/inventree-3.0.4...inventree-3.0.5) (2022-06-17)
+### [发明-3.0.5](https://github.com/truecharts/apps/compare/inventree-3.0.4...inventree-3.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -160,7 +160,7 @@
 
 <a name="inventree-3.0.4"></a>
 
-### [inventree-3.0.4](https://github.com/truecharts/apps/compare/inventree-3.0.3...inventree-3.0.4) (2022-06-16)
+### [发明-3.0.4](https://github.com/truecharts/apps/compare/inventree-3.0.3...inventree-3.0.4) (2022-06-16)
 
 #### 聊天
 
@@ -170,7 +170,7 @@
 
 <a name="inventree-3.0.3"></a>
 
-### [inventree-3.0.3](https://github.com/truecharts/apps/compare/inventree-3.0.2...inventree-3.0.3) (2022-06-14)
+### [发明-3.0.3](https://github.com/truecharts/apps/compare/inventree-3.0.2...inventree-3.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -180,7 +180,7 @@
 
 <a name="inventree-3.0.2"></a>
 
-### [inventree-3.0.2](https://github.com/truecharts/apps/compare/inventree-3.0.1...inventree-3.0.2) (2022-06-14)
+### [发明-3.0.2](https://github.com/truecharts/apps/compare/inventree-3.0.1...inventree-3.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="inventree-3.0.1"></a>
 
-### [inventree-3.0.1](https://github.com/truecharts/apps/compare/inventree-3.0.0...inventree-3.0.1) (2022-06-11)
+### [发明-3.0.1](https://github.com/truecharts/apps/compare/inventree-3.0.0...inventree-3.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="inventree-3.0.0"></a>
 
-### [inventree-3.0.0](https://github.com/truecharts/apps/compare/inventree-2.0.1...inventree-3.0.0) (2022-06-07)
+### [发明-3.0.0](https://github.com/truecharts/apps/compare/inventree-2.0.1...inventree-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -214,7 +214,7 @@
 
 <a name="inventree-2.0.1"></a>
 
-### [inventree-2.0.1](https://github.com/truecharts/apps/compare/inventree-1.0.2...inventree-2.0.1) (2022-06-07)
+### [发明-2.0.1](https://github.com/truecharts/apps/compare/inventree-1.0.2...inventree-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -234,7 +234,7 @@
 
 <a name="inventree-2.0.0"></a>
 
-### [inventree-2.0.0](https://github.com/truecharts/apps/compare/inventree-1.0.2...inventree-2.0.0) (2022-06-07)
+### [发明2.0.0](https://github.com/truecharts/apps/compare/inventree-1.0.2...inventree-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -248,7 +248,7 @@
 
 <a name="inventree-1.0.2"></a>
 
-### [inventree-1.0.2](https://github.com/truecharts/apps/compare/inventree-1.0.1...inventree-1.0.2) (2022-06-03)
+### [发明-1.0.2](https://github.com/truecharts/apps/compare/inventree-1.0.1...inventree-1.0.2) (2022-06-03)
 
 #### 聊天
 
@@ -258,7 +258,7 @@
 
 <a name="inventree-1.0.1"></a>
 
-### [inventree-1.0.1](https://github.com/truecharts/apps/compare/inventree-1.0.0...inventree-1.0.1) (2022-05-31)
+### [发明-1.0.1](https://github.com/truecharts/apps/compare/inventree-1.0.0...inventree-1.0.1) (2022-05-31)
 
 #### 聊天
 
@@ -269,7 +269,7 @@
 
 <a name="inventree-1.0.0"></a>
 
-### [inventree-1.0.0](https://github.com/truecharts/apps/compare/inventree-0.0.14...inventree-1.0.0) (2022-05-29)
+### [发明-1.0.0](https://github.com/truecharts/apps/compare/inventree-0.0.14...inventree-1.0.0) (2022-05-29)
 
 #### Feat
 
@@ -279,7 +279,7 @@
 
 <a name="inventree-0.0.14"></a>
 
-### [inventree-0.0.14](https://github.com/truecharts/apps/compare/inventree-0.0.13...inventree-0.0.14) (2022-05-29)
+### [发明-0.0.14](https://github.com/truecharts/apps/compare/inventree-0.0.13...inventree-0.0.14) (2022-05-29)
 
 #### 聊天
 
@@ -289,7 +289,7 @@
 
 <a name="inventree-0.0.13"></a>
 
-### [inventree-0.0.13](https://github.com/truecharts/apps/compare/inventree-0.0.12...inventree-0.0.13) (2022-05-26)
+### [发明-0.0.13](https://github.com/truecharts/apps/compare/inventree-0.0.12...inventree-0.0.13) (2022-05-26)
 
 #### 聊天
 
@@ -300,7 +300,7 @@
 
 <a name="inventree-0.0.13"></a>
 
-### [inventree-0.0.13](https://github.com/truecharts/apps/compare/inventree-0.0.12...inventree-0.0.13) (2022-05-26)
+### [发明-0.0.13](https://github.com/truecharts/apps/compare/inventree-0.0.12...inventree-0.0.13) (2022-05-26)
 
 #### 聊天
 
@@ -310,7 +310,7 @@
 
 <a name="inventree-0.0.12"></a>
 
-### [inventree-0.0.12](https://github.com/truecharts/apps/compare/inventree-0.0.11...inventree-0.0.12) (2022-05-24)
+### [发明-0.0.12](https://github.com/truecharts/apps/compare/inventree-0.0.11...inventree-0.0.12) (2022-05-24)
 
 #### 聊天
 
@@ -320,7 +320,7 @@
 
 <a name="inventree-0.0.11"></a>
 
-### [inventree-0.0.11](https://github.com/truecharts/apps/compare/inventree-0.0.10...inventree-0.0.11) (2022-05-24)
+### [发明-0.0.11](https://github.com/truecharts/apps/compare/inventree-0.0.10...inventree-0.0.11) (2022-05-24)
 
 #### 聊天
 
@@ -330,7 +330,7 @@
 
 <a name="inventree-0.0.10"></a>
 
-### [inventree-0.0.10](https://github.com/truecharts/apps/compare/inventree-0.0.8...inventree-0.0.10) (2022-05-18)
+### [发明-0.0.10](https://github.com/truecharts/apps/compare/inventree-0.0.8...inventree-0.0.10) (2022-05-18)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="inventree-0.0.9"></a>
 
-### [inventree-0.0.9](https://github.com/truecharts/apps/compare/inventree-0.0.8...inventree-0.0.9) (2022-05-17)
+### [发明-0.0.9](https://github.com/truecharts/apps/compare/inventree-0.0.8...inventree-0.0.9) (2022-05-17)
 
 #### 聊天
 
@@ -352,7 +352,7 @@
 
 <a name="inventree-0.0.8"></a>
 
-### [inventree-0.0.8](https://github.com/truecharts/apps/compare/inventree-0.0.7...inventree-0.0.8) (2022-05-17)
+### [发明-0.0.8](https://github.com/truecharts/apps/compare/inventree-0.0.7...inventree-0.0.8) (2022-05-17)
 
 #### 聊天
 
@@ -362,7 +362,7 @@
 
 <a name="inventree-0.0.7"></a>
 
-### [inventree-0.0.7](https://github.com/truecharts/apps/compare/inventree-0.0.6...inventree-0.0.7) (2022-05-13)
+### [发明-0.0.7](https://github.com/truecharts/apps/compare/inventree-0.0.6...inventree-0.0.7) (2022-05-13)
 
 #### 聊天
 
@@ -372,7 +372,7 @@
 
 <a name="inventree-0.0.6"></a>
 
-### [inventree-0.0.6](https://github.com/truecharts/apps/compare/inventree-0.0.5...inventree-0.0.6) (2022-05-10)
+### [发明-0.0.6](https://github.com/truecharts/apps/compare/inventree-0.0.5...inventree-0.0.6) (2022-05-10)
 
 #### 聊天
 
@@ -386,17 +386,17 @@
 
 <a name="inventree-0.0.5"></a>
 
-### [inventree-0.0.5](https://github.com/truecharts/apps/compare/inventree-0.0.4...inventree-0.0.5) (2022-05-06)
+### [发明-0.0.5](https://github.com/truecharts/apps/compare/inventree-0.0.4...inventree-0.0.5) (2022-05-06)
 
 #### 修复
 
-* re-add nginx ([#2618](https://github.com/truecharts/apps/issues/2618))
+* 重新添加 nginx ([#2618](https://github.com/truecharts/apps/issues/2618))
 
 
 
 <a name="inventree-0.0.4"></a>
 
-### [inventree-0.0.4](https://github.com/truecharts/apps/compare/inventree-0.0.3...inventree-0.0.4) (2022-05-05)
+### [发明-0.0.4](https://github.com/truecharts/apps/compare/inventree-0.0.3...inventree-0.0.4) (2022-05-05)
 
 #### 聊天
 
@@ -406,7 +406,7 @@
 
 <a name="inventree-0.0.3"></a>
 
-### [inventree-0.0.3](https://github.com/truecharts/apps/compare/inventree-0.0.2...inventree-0.0.3) (2022-05-04)
+### [发明-0.0.3](https://github.com/truecharts/apps/compare/inventree-0.0.2...inventree-0.0.3) (2022-05-04)
 
 #### 聊天
 
@@ -416,7 +416,7 @@
 
 <a name="inventree-0.0.2"></a>
 
-### [inventree-0.0.2](https://github.com/truecharts/apps/compare/inventree-0.0.1...inventree-0.0.2) (2022-04-29)
+### [发明-0.0.2](https://github.com/truecharts/apps/compare/inventree-0.0.1...inventree-0.0.2) (2022-04-29)
 
 #### 聊天
 
@@ -426,8 +426,8 @@
 
 <a name="inventree-0.0.1"></a>
 
-### inventree-0.0.1 (2022-04-28)
+### 发明创造0.0.1 (2022-04-28)
 
 #### Feat
 
-* add inventree ([#2576](https://github.com/truecharts/apps/issues/2576))
+* 添加发明树([#2576](https://github.com/truecharts/apps/issues/2576))
