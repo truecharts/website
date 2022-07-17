@@ -1,38 +1,38 @@
-# Changelog
+# 更新日志
 
 
 ## [memcached-3.0.37](https://github.com/truecharts/apps/compare/memcached-3.0.36...memcached-3.0.37) (2022-07-15)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3184](https://github.com/truecharts/apps/issues/3184))
+- 更新一般的非主基座([#3184](https://github.com/truecharts/apps/issues/3184))
 
 
 
 
 ## [memcached-3.0.35](https://github.com/truecharts/apps/compare/memcached-3.0.33...memcached-3.0.35) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 
 ## [memcached-3.0.32](https://github.com/truecharts/apps/compare/memcached-3.0.30...memcached-3.0.32) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [memcached-3.0.30](https://github.com/truecharts/apps/compare/memcached-3.0.29...memcached-3.0.30) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -40,9 +40,9 @@
 
 ### [memcached-3.0.29](https://github.com/truecharts/apps/compare/memcached-3.0.28...memcached-3.0.29) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.4.4 ([#3146](https://github.com/truecharts/apps/issues/3146))
+* 更新通用的 v10.4.4 头盔图表([#3146](https://github.com/truecharts/apps/issues/3146))
 
 
 
@@ -56,10 +56,10 @@
 
 ### [memcached-3.0.27](https://github.com/truecharts/apps/compare/memcached-3.0.26...memcached-3.0.27) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
-* update helm chart common to v10.4.3 ([#3137](https://github.com/truecharts/apps/issues/3137))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 更新通用的 v10.4.3 头盔图表([#3137](https://github.com/truecharts/apps/issues/3137))
 
 
 
@@ -67,9 +67,9 @@
 
 ### [memcached-3.0.26](https://github.com/truecharts/apps/compare/memcached-3.0.25...memcached-3.0.26) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.4.2
+* 更新通用的 v10.4.2 头盔图
 
 
 
@@ -77,10 +77,10 @@
 
 ### [memcached-3.0.25](https://github.com/truecharts/apps/compare/memcached-3.0.24...memcached-3.0.25) (2022-07-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.4.0 ([#3123](https://github.com/truecharts/apps/issues/3123))
-* update docker general non-major ([#3115](https://github.com/truecharts/apps/issues/3115))
+* 更新通用的 v10.4.0 头盔图表([#3123](https://github.com/truecharts/apps/issues/3123))
+* 更新一般的非主要泊车位([#3115](https://github.com/truecharts/apps/issues/3115))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [memcached-3.0.24](https://github.com/truecharts/apps/compare/memcached-3.0.23...memcached-3.0.24) (2022-07-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.3.0
+* 更新通用的 v10.3.0 头盔图表
 
 
 
@@ -98,9 +98,9 @@
 
 ### [memcached-3.0.23](https://github.com/truecharts/apps/compare/memcached-3.0.22...memcached-3.0.23) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.2.1 ([#3110](https://github.com/truecharts/apps/issues/3110))
+* 更新通用的 v10.2.1 头盔图表([#310](https://github.com/truecharts/apps/issues/3110))
 
 
 
@@ -108,9 +108,9 @@
 
 ### [memcached-3.0.22](https://github.com/truecharts/apps/compare/memcached-3.0.21...memcached-3.0.22) (2022-07-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3089](https://github.com/truecharts/apps/issues/3089))
+* 更新一般的非主基座([#3089](https://github.com/truecharts/apps/issues/3089))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [memcached-3.0.21](https://github.com/truecharts/apps/compare/memcached-3.0.20...memcached-3.0.21) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.2.0 ([#3065](https://github.com/truecharts/apps/issues/3065))
+* 更新通用的 v10.2.0 头盔图表([#3065](https://github.com/truecharts/apps/issues/3065))
 
 
 
@@ -128,9 +128,9 @@
 
 ### [memcached-3.0.20](https://github.com/truecharts/apps/compare/memcached-3.0.19...memcached-3.0.20) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3061](https://github.com/truecharts/apps/issues/3061))
+* 更新一般的非主码([#3061](https://github.com/truecharts/apps/issues/3061))
 
 
 
@@ -138,9 +138,9 @@
 
 ### [memcached-3.0.19](https://github.com/truecharts/apps/compare/memcached-3.0.18...memcached-3.0.19) (2022-07-01)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3015](https://github.com/truecharts/apps/issues/3015))
+* 更新一般的非主基座([#3015](https://github.com/truecharts/apps/issues/3015))
 
 
 
@@ -148,10 +148,10 @@
 
 ### [memcached-3.0.18](https://github.com/truecharts/apps/compare/memcached-3.0.17...memcached-3.0.18) (2022-06-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2988](https://github.com/truecharts/apps/issues/2988))
-* update docker general non-major ([#2960](https://github.com/truecharts/apps/issues/2960))
+* 更新一般的非主码([#2988](https://github.com/truecharts/apps/issues/2988))
+* 更新一般的非主码([#2960](https://github.com/truecharts/apps/issues/2960))
 
 
 
@@ -159,9 +159,9 @@
 
 ### [memcached-3.0.17](https://github.com/truecharts/apps/compare/memcached-3.0.16...memcached-3.0.17) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.4 ([#2976](https://github.com/truecharts/apps/issues/2976))
+* 更新通用的 v10.1.4 头盔图表([#2976](https://github.com/truecharts/apps/issues/2976))
 
 
 
@@ -169,9 +169,9 @@
 
 ### [memcached-3.0.16](https://github.com/truecharts/apps/compare/memcached-3.0.15...memcached-3.0.16) (2022-06-24)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.2
+* 更新 v10.1.2 共有的头盔图
 
 
 
@@ -179,9 +179,9 @@
 
 ### [memcached-3.0.15](https://github.com/truecharts/apps/compare/memcached-3.0.14...memcached-3.0.15) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.1
+* 更新 v10.1.1 共有的头盔图
 
 
 
@@ -189,9 +189,9 @@
 
 ### [memcached-3.0.14](https://github.com/truecharts/apps/compare/memcached-3.0.13...memcached-3.0.14) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.0
+* 更新通用的 v10.1.0 头盔图表
 
 
 
@@ -199,9 +199,9 @@
 
 ### [memcached-3.0.13](https://github.com/truecharts/apps/compare/memcached-3.0.12...memcached-3.0.13) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2931](https://github.com/truecharts/apps/issues/2931))
+* 更新一般的非主要泊车位([#2931](https://github.com/truecharts/apps/issues/2931))
 
 
 
@@ -209,9 +209,9 @@
 
 ### [memcached-3.0.12](https://github.com/truecharts/apps/compare/memcached-3.0.11...memcached-3.0.12) (2022-06-20)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.15
+* 更新通用的 v10.0.15 头盔图
 
 
 
@@ -219,9 +219,9 @@
 
 ### [memcached-3.0.11](https://github.com/truecharts/apps/compare/memcached-3.0.10...memcached-3.0.11) (2022-06-18)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.14
+* 更新通用的 v10.0.14 头盔图
 
 
 
@@ -229,9 +229,9 @@
 
 ### [memcached-3.0.10](https://github.com/truecharts/apps/compare/memcached-3.0.9...memcached-3.0.10) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.13
+* 更新通用的 v10.0.13 头盔图表
 
 
 
@@ -239,10 +239,10 @@
 
 ### [memcached-3.0.9](https://github.com/truecharts/apps/compare/memcached-3.0.8...memcached-3.0.9) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2917](https://github.com/truecharts/apps/issues/2917))
-* update helm chart common to v10.0.12
+* 更新一般的非主码([#2917](https://github.com/truecharts/apps/issues/2917))
+* 更新通用的 v10.0.12 头盔图表
 
 
 
@@ -250,9 +250,9 @@
 
 ### [memcached-3.0.8](https://github.com/truecharts/apps/compare/memcached-3.0.7...memcached-3.0.8) (2022-06-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.11 ([#2899](https://github.com/truecharts/apps/issues/2899))
+* 更新通用的 v10.0.11 头盔图表([#2899](https://github.com/truecharts/apps/issues/2899))
 
 
 
@@ -260,9 +260,9 @@
 
 ### [memcached-3.0.7](https://github.com/truecharts/apps/compare/memcached-3.0.6...memcached-3.0.7) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.10 ([#2885](https://github.com/truecharts/apps/issues/2885))
+* 更新通用的 v10.0.10 头盔图表([#2885](https://github.com/truecharts/apps/issues/2885))
 
 
 
@@ -270,9 +270,9 @@
 
 ### [memcached-3.0.6](https://github.com/truecharts/apps/compare/memcached-3.0.5...memcached-3.0.6) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2872](https://github.com/truecharts/apps/issues/2872))
+* 更新一般的非主基座([#2872](https://github.com/truecharts/apps/issues/2872))
 
 
 
@@ -280,9 +280,9 @@
 
 ### [memcached-3.0.5](https://github.com/truecharts/apps/compare/memcached-3.0.4...memcached-3.0.5) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.9 ([#2853](https://github.com/truecharts/apps/issues/2853))
+* 更新通用的 v10.0.9 头盔图表([#2853](https://github.com/truecharts/apps/issues/2853))
 
 
 
@@ -290,10 +290,10 @@
 
 ### [memcached-3.0.4](https://github.com/truecharts/apps/compare/memcached-3.0.3...memcached-3.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update icons ref ([#2851](https://github.com/truecharts/apps/issues/2851))
-* update docker general non-major ([#2848](https://github.com/truecharts/apps/issues/2848))
+* 更新图标参考([#2851](https://github.com/truecharts/apps/issues/2851))
+* 更新一般的非主基座([#2848](https://github.com/truecharts/apps/issues/2848))
 
 
 
@@ -301,9 +301,9 @@
 
 ### [memcached-3.0.3](https://github.com/truecharts/apps/compare/memcached-3.0.2...memcached-3.0.3) (2022-06-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2846](https://github.com/truecharts/apps/issues/2846))
+* 更新一般的非主码([#2846](https://github.com/truecharts/apps/issues/2846))
 
 
 
@@ -311,9 +311,9 @@
 
 ### [memcached-3.0.2](https://github.com/truecharts/apps/compare/memcached-3.0.1...memcached-3.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -321,17 +321,17 @@
 
 ### [memcached-3.0.1](https://github.com/truecharts/apps/compare/memcached-2.0.91...memcached-3.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -339,9 +339,9 @@
 
 ### [memcached-3.0.0](https://github.com/truecharts/apps/compare/memcached-2.0.91...memcached-3.0.0) (2022-06-07)
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -349,9 +349,9 @@
 
 ### [memcached-2.0.91](https://github.com/truecharts/apps/compare/memcached-2.0.90...memcached-2.0.91) (2022-06-05)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.29
+* 更新通用的 v9.3.29 头盔图
 
 
 
@@ -359,9 +359,9 @@
 
 ### [memcached-2.0.90](https://github.com/truecharts/apps/compare/memcached-2.0.89...memcached-2.0.90) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2826](https://github.com/truecharts/apps/issues/2826))
+* 更新一般的非主要泊车位([#2826](https://github.com/truecharts/apps/issues/2826))
 
 
 
@@ -369,9 +369,9 @@
 
 ### [memcached-2.0.89](https://github.com/truecharts/apps/compare/memcached-2.0.88...memcached-2.0.89) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.28
+* 更新通用的头盔图 v9.3.28
 
 
 
@@ -379,9 +379,9 @@
 
 ### [memcached-2.0.88](https://github.com/truecharts/apps/compare/memcached-2.0.87...memcached-2.0.88) (2022-06-03)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.27
+* 更新通用到v9.3.27的头盔图
 
 
 
@@ -389,10 +389,10 @@
 
 ### [memcached-2.0.87](https://github.com/truecharts/apps/compare/memcached-2.0.86...memcached-2.0.87) (2022-06-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2806](https://github.com/truecharts/apps/issues/2806))
-* update helm chart common to v9.3.26 ([#2813](https://github.com/truecharts/apps/issues/2813))
+* 更新一般的非主基座([#2806](https://github.com/truecharts/apps/issues/2806))
+* 更新通用的头盔图表到 v9.3.26([#2813](https://github.com/truecharts/apps/issues/2813))
 
 
 
@@ -400,9 +400,9 @@
 
 ### [memcached-2.0.86](https://github.com/truecharts/apps/compare/memcached-2.0.85...memcached-2.0.86) (2022-06-01)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.25
+* 更新通用的 v9.3.25 头盔图
 
 
 
@@ -410,9 +410,9 @@
 
 ### [memcached-2.0.85](https://github.com/truecharts/apps/compare/memcached-2.0.84...memcached-2.0.85) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2791](https://github.com/truecharts/apps/issues/2791))
+* 更新一般的非主码([#2791](https://github.com/truecharts/apps/issues/2791))
 
 
 
@@ -420,9 +420,9 @@
 
 ### [memcached-2.0.84](https://github.com/truecharts/apps/compare/memcached-2.0.83...memcached-2.0.84) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.24
+* 更新通用的 v9.3.24 头盔图
 
 
 
@@ -430,10 +430,10 @@
 
 ### [memcached-2.0.83](https://github.com/truecharts/apps/compare/memcached-2.0.82...memcached-2.0.83) (2022-05-30)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.23
-* update docker general non-major ([#2762](https://github.com/truecharts/apps/issues/2762))
+* 更新通用到v9.3.23的头盔图
+* 更新一般的非主码([#2762](https://github.com/truecharts/apps/issues/2762))
 
 
 
@@ -441,9 +441,9 @@
 
 ### [memcached-2.0.82](https://github.com/truecharts/apps/compare/memcached-2.0.81...memcached-2.0.82) (2022-05-29)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.22
+* 更新通用到v9.3.22的头盔图
 
 
 
@@ -451,9 +451,9 @@
 
 ### [memcached-2.0.81](https://github.com/truecharts/apps/compare/memcached-2.0.80...memcached-2.0.81) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.20
+* 更新通用到v9.3.20的头盔图
 
 
 
@@ -461,9 +461,9 @@
 
 ### [memcached-2.0.80](https://github.com/truecharts/apps/compare/memcached-2.0.79...memcached-2.0.80) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.19 ([#2758](https://github.com/truecharts/apps/issues/2758))
+* 更新通用到v9.3.19([#2758](https://github.com/truecharts/apps/issues/2758))
 
 
 
@@ -471,10 +471,10 @@
 
 ### [memcached-2.0.79](https://github.com/truecharts/apps/compare/memcached-2.0.78...memcached-2.0.79) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.18 ([#2753](https://github.com/truecharts/apps/issues/2753))
-* update docker general non-major ([#2756](https://github.com/truecharts/apps/issues/2756))
+* 更新通用的头盔图表到 v9.3.18 ([#2753](https://github.com/truecharts/apps/issues/2753))
+* 更新一般的非主要泊位([#2756](https://github.com/truecharts/apps/issues/2756))
 
 
 
@@ -482,9 +482,9 @@
 
 ### [memcached-2.0.78](https://github.com/truecharts/apps/compare/memcached-2.0.77...memcached-2.0.78) (2022-05-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2745](https://github.com/truecharts/apps/issues/2745))
+* 更新一般的非主码([#2745](https://github.com/truecharts/apps/issues/2745))
 
 
 
@@ -492,9 +492,9 @@
 
 ### [memcached-2.0.77](https://github.com/truecharts/apps/compare/memcached-2.0.76...memcached-2.0.77) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2744](https://github.com/truecharts/apps/issues/2744))
+* 更新一般的非主码([#2744](https://github.com/truecharts/apps/issues/2744))
 
 
 
@@ -502,9 +502,9 @@
 
 ### [memcached-2.0.76](https://github.com/truecharts/apps/compare/memcached-2.0.75...memcached-2.0.76) (2022-05-20)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2720](https://github.com/truecharts/apps/issues/2720))
+* 更新一般的非主要泊位([#2720](https://github.com/truecharts/apps/issues/2720))
 
 
 
@@ -512,9 +512,9 @@
 
 ### [memcached-2.0.75](https://github.com/truecharts/apps/compare/memcached-2.0.74...memcached-2.0.75) (2022-05-19)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.17 ([#2717](https://github.com/truecharts/apps/issues/2717))
+* 更新通用的头盔图表到 v9.3.17 ([#2717](https://github.com/truecharts/apps/issues/2717))
 
 
 
@@ -522,9 +522,9 @@
 
 ### [memcached-2.0.74](https://github.com/truecharts/apps/compare/memcached-2.0.73...memcached-2.0.74) (2022-05-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2711](https://github.com/truecharts/apps/issues/2711))
+* 更新一般的非主码([#2711](https://github.com/truecharts/apps/issues/2711))
 
 
 
@@ -532,12 +532,12 @@
 
 ### [memcached-2.0.73](https://github.com/truecharts/apps/compare/memcached-2.0.70...memcached-2.0.73) (2022-05-18)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.3.16 ([#2708](https://github.com/truecharts/apps/issues/2708))
-* update docker general non-major ([#2706](https://github.com/truecharts/apps/issues/2706))
-* update helm chart common to v9.3.15
+* 自动更新README图表 [跳过 ci]
+* 更新通用的头盔图表到 v9.3.16 ([#2708](https://github.com/truecharts/apps/issues/2708))
+* 更新一般的非主基座([#2706](https://github.com/truecharts/apps/issues/2706))
+* 更新通用到v9.3.15的头盔图
 
 
 
@@ -545,9 +545,9 @@
 
 ### [memcached-2.0.71](https://github.com/truecharts/apps/compare/memcached-2.0.70...memcached-2.0.71) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.15
+* 更新通用到v9.3.15的头盔图
 
 
 
@@ -555,10 +555,10 @@
 
 ### [memcached-2.0.70](https://github.com/truecharts/apps/compare/memcached-2.0.69...memcached-2.0.70) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2695](https://github.com/truecharts/apps/issues/2695))
-* update helm chart common to v9.3.14
+* 更新一般的非主基座([#2695](https://github.com/truecharts/apps/issues/2695))
+* 更新通用的 v9.3.14 头盔图
 
 
 
@@ -566,9 +566,9 @@
 
 ### [memcached-2.0.69](https://github.com/truecharts/apps/compare/memcached-2.0.68...memcached-2.0.69) (2022-05-16)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2692](https://github.com/truecharts/apps/issues/2692))
+* 更新一般的非主码([#2692](https://github.com/truecharts/apps/issues/2692))
 
 
 
@@ -576,9 +576,9 @@
 
 ### [memcached-2.0.68](https://github.com/truecharts/apps/compare/memcached-2.0.67...memcached-2.0.68) (2022-05-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.13
+* 更新通用的 v9.3.13 头盔图
 
 
 
@@ -586,10 +586,10 @@
 
 ### [memcached-2.0.67](https://github.com/truecharts/apps/compare/memcached-2.0.65...memcached-2.0.67) (2022-05-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.12
-* update docker general non-major ([#2679](https://github.com/truecharts/apps/issues/2679))
+* 更新通用的 v9.3.12 头盔图
+* 更新一般的非主基座([#2679](https://github.com/truecharts/apps/issues/2679))
 
 
 
@@ -597,9 +597,9 @@
 
 ### [memcached-2.0.65](https://github.com/truecharts/apps/compare/memcached-2.0.64...memcached-2.0.65) (2022-05-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.11
+* 更新通用到v9.3.11的头盔图
 
 
 
@@ -607,10 +607,10 @@
 
 ### [memcached-2.0.64](https://github.com/truecharts/apps/compare/memcached-2.0.62...memcached-2.0.64) (2022-05-13)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.10
-* update docker general non-major ([#2658](https://github.com/truecharts/apps/issues/2658))
+* 更新通用的 v9.3.10 头盔图
+* 更新一般的非主码([#2658](https://github.com/truecharts/apps/issues/2658))
 
 
 
@@ -618,9 +618,9 @@
 
 ### [memcached-2.0.62](https://github.com/truecharts/apps/compare/memcached-2.0.61...memcached-2.0.62) (2022-05-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.9
+* 更新通用到v9.3.9的头盔图
 
 
 
@@ -628,9 +628,9 @@
 
 ### [memcached-2.0.61](https://github.com/truecharts/apps/compare/memcached-2.0.60...memcached-2.0.61) (2022-05-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.8
+* 更新通用的 v9.3.8 头盔图
 
 
 
@@ -638,10 +638,10 @@
 
 ### [memcached-2.0.60](https://github.com/truecharts/apps/compare/memcached-2.0.58...memcached-2.0.60) (2022-05-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.7 ([#2656](https://github.com/truecharts/apps/issues/2656))
-* update docker general non-major ([#2653](https://github.com/truecharts/apps/issues/2653))
+* 更新通用的 v9.3.7 ([#2656](https://github.com/truecharts/apps/issues/2656))
+* 更新一般的非主基座([#2653](https://github.com/truecharts/apps/issues/2653))
 
 
 
@@ -649,9 +649,9 @@
 
 ### [memcached-2.0.58](https://github.com/truecharts/apps/compare/memcached-2.0.57...memcached-2.0.58) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.6 ([#2651](https://github.com/truecharts/apps/issues/2651))
+* 更新通用的 v9.3.6 头盔图表([#2651](https://github.com/truecharts/apps/issues/2651))
 
 
 
@@ -659,9 +659,9 @@
 
 ### [memcached-2.0.57](https://github.com/truecharts/apps/compare/memcached-2.0.56...memcached-2.0.57) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.5 ([#2648](https://github.com/truecharts/apps/issues/2648))
+* 更新通用到v9.3.5 ([#2648](https://github.com/truecharts/apps/issues/2648))
 
 
 
@@ -669,9 +669,9 @@
 
 ### [memcached-2.0.56](https://github.com/truecharts/apps/compare/memcached-2.0.55...memcached-2.0.56) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -679,9 +679,9 @@
 
 ### [memcached-2.0.55](https://github.com/truecharts/apps/compare/memcached-2.0.54...memcached-2.0.55) (2022-05-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2641](https://github.com/truecharts/apps/issues/2641))
+* 更新一般的非主码([#2641](https://github.com/truecharts/apps/issues/2641))
 
 
 
@@ -689,9 +689,9 @@
 
 ### [memcached-2.0.54](https://github.com/truecharts/apps/compare/memcached-2.0.53...memcached-2.0.54) (2022-05-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2639](https://github.com/truecharts/apps/issues/2639))
+* 更新一般的非主码([#2639](https://github.com/truecharts/apps/issues/2639))
 
 
 
@@ -699,9 +699,9 @@
 
 ### [memcached-2.0.53](https://github.com/truecharts/apps/compare/memcached-2.0.52...memcached-2.0.53) (2022-05-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -709,9 +709,9 @@
 
 ### [memcached-2.0.52](https://github.com/truecharts/apps/compare/memcached-2.0.51...memcached-2.0.52) (2022-05-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -719,9 +719,9 @@
 
 ### [memcached-2.0.51](https://github.com/truecharts/apps/compare/memcached-2.0.50...memcached-2.0.51) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.3 ([#2610](https://github.com/truecharts/apps/issues/2610))
+* 更新通用到v9.3.3([#2610](https://github.com/truecharts/apps/issues/2610))
 
 
 
@@ -729,9 +729,9 @@
 
 ### [memcached-2.0.50](https://github.com/truecharts/apps/compare/memcached-2.0.49...memcached-2.0.50) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2606](https://github.com/truecharts/apps/issues/2606))
+* 更新一般的非主码([#2606](https://github.com/truecharts/apps/issues/2606))
 
 
 
@@ -739,9 +739,9 @@
 
 ### [memcached-2.0.49](https://github.com/truecharts/apps/compare/memcached-2.0.48...memcached-2.0.49) (2022-04-29)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2581](https://github.com/truecharts/apps/issues/2581))
+* 更新一般的非主码([#2581](https://github.com/truecharts/apps/issues/2581))
 
 
 
@@ -749,9 +749,9 @@
 
 ### [memcached-2.0.48](https://github.com/truecharts/apps/compare/memcached-2.0.47...memcached-2.0.48) (2022-04-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2577](https://github.com/truecharts/apps/issues/2577))
+* 更新一般的非主码([#2577](https://github.com/truecharts/apps/issues/2577))
 
 
 
@@ -759,9 +759,9 @@
 
 ### [memcached-2.0.47](https://github.com/truecharts/apps/compare/memcached-2.0.46...memcached-2.0.47) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2571](https://github.com/truecharts/apps/issues/2571))
+* 更新一般的非主码([#2571](https://github.com/truecharts/apps/issues/2571))
 
 
 
@@ -769,9 +769,9 @@
 
 ### [memcached-2.0.46](https://github.com/truecharts/apps/compare/memcached-2.0.45...memcached-2.0.46) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.2
+* 更新通用的 v9.3.2 头盔图
 
 
 
@@ -779,10 +779,10 @@
 
 ### [memcached-2.0.45](https://github.com/truecharts/apps/compare/memcached-2.0.44...memcached-2.0.45) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update docker general non-major ([#2522](https://github.com/truecharts/apps/issues/2522))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新停靠一般的非主要泊位([#2522](https://github.com/truecharts/apps/issues/2522))
 
 
 
@@ -790,9 +790,9 @@
 
 ### [memcached-2.0.44](https://github.com/truecharts/apps/compare/memcached-2.0.43...memcached-2.0.44) (2022-04-19)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.9 ([#2509](https://github.com/truecharts/apps/issues/2509))
+* 更新通用到v9.2.9的头盔图表([#2509](https://github.com/truecharts/apps/issues/2509))
 
 
 
@@ -800,9 +800,9 @@
 
 ### [memcached-2.0.43](https://github.com/truecharts/apps/compare/memcached-2.0.42...memcached-2.0.43) (2022-04-18)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2502](https://github.com/truecharts/apps/issues/2502))
+* 更新一般的非主基座([#2502](https://github.com/truecharts/apps/issues/2502))
 
 
 
@@ -810,9 +810,9 @@
 
 ### [memcached-2.0.42](https://github.com/truecharts/apps/compare/memcached-2.0.41...memcached-2.0.42) (2022-04-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2497](https://github.com/truecharts/apps/issues/2497))
+* 更新一般的非主码([#2497](https://github.com/truecharts/apps/issues/2497))
 
 
 
@@ -820,9 +820,9 @@
 
 ### [memcached-2.0.41](https://github.com/truecharts/apps/compare/memcached-2.0.40...memcached-2.0.41) (2022-04-16)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2494](https://github.com/truecharts/apps/issues/2494))
+* 更新一般的非主码([#2494](https://github.com/truecharts/apps/issues/2494))
 
 
 
@@ -830,9 +830,9 @@
 
 ### [memcached-2.0.40](https://github.com/truecharts/apps/compare/memcached-2.0.39...memcached-2.0.40) (2022-04-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -840,9 +840,9 @@
 
 ### [memcached-2.0.39](https://github.com/truecharts/apps/compare/memcached-2.0.38...memcached-2.0.39) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.8 ([#2479](https://github.com/truecharts/apps/issues/2479))
+* 更新通用的 v9.2.8 头盔图表([#2479](https://github.com/truecharts/apps/issues/2479))
 
 
 
@@ -850,9 +850,9 @@
 
 ### [memcached-2.0.38](https://github.com/truecharts/apps/compare/memcached-2.0.37...memcached-2.0.38) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2478](https://github.com/truecharts/apps/issues/2478))
+* 更新一般的非主基座([#2478](https://github.com/truecharts/apps/issues/2478))
 
 
 
@@ -860,9 +860,9 @@
 
 ### [memcached-2.0.37](https://github.com/truecharts/apps/compare/memcached-2.0.36...memcached-2.0.37) (2022-04-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2460](https://github.com/truecharts/apps/issues/2460))
+* 更新一般的非主码([#2460](https://github.com/truecharts/apps/issues/2460))
 
 
 
@@ -870,9 +870,9 @@
 
 ### [memcached-2.0.36](https://github.com/truecharts/apps/compare/memcached-2.0.35...memcached-2.0.36) (2022-04-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -880,9 +880,9 @@
 
 ### [memcached-2.0.35](https://github.com/truecharts/apps/compare/memcached-2.0.34...memcached-2.0.35) (2022-04-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -890,9 +890,9 @@
 
 ### [memcached-2.0.34](https://github.com/truecharts/apps/compare/memcached-2.0.33...memcached-2.0.34) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.7 ([#2406](https://github.com/truecharts/apps/issues/2406))
+* 更新通用的头盔图表到 v9.2.7 ([#2406](https://github.com/truecharts/apps/issues/2406))
 
 
 
@@ -900,9 +900,9 @@
 
 ### [memcached-2.0.33](https://github.com/truecharts/apps/compare/memcached-2.0.32...memcached-2.0.33) (2022-04-03)
 
-#### Fix
+#### 修复
 
-* try to also fix catalog build process
+* 尝试修复目录构建进程
 
 
 
@@ -916,9 +916,9 @@
 
 ### [memcached-2.0.25](https://github.com/truecharts/apps/compare/memcached-2.0.24...memcached-2.0.25) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2357](https://github.com/truecharts/apps/issues/2357))
+* 更新一般的非主基座([#2357](https://github.com/truecharts/apps/issues/2357))
 
 
 
@@ -926,10 +926,10 @@
 
 ### [memcached-2.0.24](https://github.com/truecharts/apps/compare/memcached-2.0.23...memcached-2.0.24) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.2.6 ([#2358](https://github.com/truecharts/apps/issues/2358))
+* 自动更新README图表 [跳过 ci]
+* 更新通用的 v9.2.6 头盔图表([#2358](https://github.com/truecharts/apps/issues/2358))
 
 
 
@@ -937,10 +937,10 @@
 
 ### [memcached-2.0.23](https://github.com/truecharts/apps/compare/memcached-2.0.22...memcached-2.0.23) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.2.4 ([#2352](https://github.com/truecharts/apps/issues/2352))
+* 自动更新README图表 [跳过 ci]
+* 更新通用的 v9.2.4 头盔图表([#2352](https://github.com/truecharts/apps/issues/2352))
 
 
 
@@ -954,9 +954,9 @@
 
 ### [memcached-2.0.21](https://github.com/truecharts/apps/compare/memcached-2.0.20...memcached-2.0.21) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2338](https://github.com/truecharts/apps/issues/2338))
+* 更新一般的非主码([#2338](https://github.com/truecharts/apps/issues/2338))
 
 
 
@@ -976,9 +976,9 @@
 
 ### [memcached-2.0.16](https://github.com/truecharts/apps/compare/memcached-2.0.15...memcached-2.0.16) (2022-03-29)
 
-#### Fix
+#### 修复
 
-* try to push dependencies to new helm repo ([#2336](https://github.com/truecharts/apps/issues/2336))
+* 尝试将依赖关系推向新的头盔仓库([#2336](https://github.com/truecharts/apps/issues/2336))
 
 
 
@@ -986,9 +986,9 @@
 
 ### [memcached-2.0.15](https://github.com/truecharts/apps/compare/memcached-2.0.14...memcached-2.0.15) (2022-03-29)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.3 ([#2335](https://github.com/truecharts/apps/issues/2335))
+* 更新通用的 v9.2.3 头盔图表([#2335](https://github.com/truecharts/apps/issues/2335))
 
 
 
@@ -996,9 +996,9 @@
 
 ### [memcached-2.0.14](https://github.com/truecharts/apps/compare/memcached-2.0.13...memcached-2.0.14) (2022-03-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -1006,9 +1006,9 @@
 
 ### [memcached-2.0.13](https://github.com/truecharts/apps/compare/memcached-2.0.12...memcached-2.0.13) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -1016,9 +1016,9 @@
 
 ### [memcached-2.0.11](https://github.com/truecharts/apps/compare/memcached-2.0.10...memcached-2.0.11) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -1026,9 +1026,9 @@
 
 ### [memcached-2.0.10](https://github.com/truecharts/apps/compare/memcached-2.0.9...memcached-2.0.10) (2022-03-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -1036,10 +1036,10 @@
 
 ### [memcached-2.0.9](https://github.com/truecharts/apps/compare/memcached-2.0.8...memcached-2.0.9) (2022-03-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2259](https://github.com/truecharts/apps/issues/2259))
-* update docker general non-major
+* 更新一般的非主要泊车位([#2259](https://github.com/truecharts/apps/issues/2259))
+* 更新一般非主要停靠栏
 
 
 
@@ -1047,9 +1047,9 @@
 
 ### [memcached-2.0.8](https://github.com/truecharts/apps/compare/memcached-2.0.7...memcached-2.0.8) (2022-03-22)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.1.8
+* 更新通用到v9.1.8的头盔图
 
 
 
@@ -1057,10 +1057,10 @@
 
 ### [memcached-2.0.7](https://github.com/truecharts/apps/compare/memcached-2.0.6...memcached-2.0.7) (2022-03-20)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
-* update docker general non-major
+* 更新一般非主要停靠栏
+* 更新一般非主要停靠栏
 
 
 
@@ -1068,9 +1068,9 @@
 
 ### [memcached-2.0.6](https://github.com/truecharts/apps/compare/memcached-2.0.5...memcached-2.0.6) (2022-03-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.1.6 ([#2202](https://github.com/truecharts/apps/issues/2202))
+* 更新通用的头盔图表到 v9.1.6 ([#2202](https://github.com/truecharts/apps/issues/2202))
 
 
 
@@ -1078,10 +1078,10 @@
 
 ### [memcached-2.0.5](https://github.com/truecharts/apps/compare/memcached-2.0.4...memcached-2.0.5) (2022-03-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2198](https://github.com/truecharts/apps/issues/2198))
-* update docker general non-major ([#2196](https://github.com/truecharts/apps/issues/2196))
+* 更新一般的非主码([#2198](https://github.com/truecharts/apps/issues/2198))
+* 更新一般的非主码([#2196](https://github.com/truecharts/apps/issues/2196))
 
 
 
@@ -1089,9 +1089,9 @@
 
 ### [memcached-2.0.4](https://github.com/truecharts/apps/compare/memcached-2.0.3...memcached-2.0.4) (2022-03-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.1.4 ([#2180](https://github.com/truecharts/apps/issues/2180))
+* 更新通用的头盔图表到 v9.1.4 ([#2180](https://github.com/truecharts/apps/issues/2180))
 
 
 
@@ -1099,9 +1099,9 @@
 
 ### [memcached-2.0.3](https://github.com/truecharts/apps/compare/memcached-2.0.2...memcached-2.0.3) (2022-03-15)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2175](https://github.com/truecharts/apps/issues/2175))
+* 更新一般的非主码([#2175](https://github.com/truecharts/apps/issues/2175))
 
 
 
@@ -1109,10 +1109,10 @@
 
 ### [memcached-2.0.2](https://github.com/truecharts/apps/compare/memcached-2.0.1...memcached-2.0.2) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.1.2 ([#2109](https://github.com/truecharts/apps/issues/2109))
-* update docker general non-major ([#2108](https://github.com/truecharts/apps/issues/2108))
+* 更新通用的 v9.1.2 头盔图表([#2109](https://github.com/truecharts/apps/issues/2109))
+* 更新一般的非主要泊位([#2108](https://github.com/truecharts/apps/issues/2108))
 
 
 
@@ -1120,9 +1120,9 @@
 
 ### [memcached-2.0.1](https://github.com/truecharts/apps/compare/memcached-2.0.0...memcached-2.0.1) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2046](https://github.com/truecharts/apps/issues/2046))
+* 更新一般的非主码([#2046](https://github.com/truecharts/apps/issues/2046))
 
 
 
@@ -1130,15 +1130,15 @@
 
 ### [memcached-2.0.0](https://github.com/truecharts/apps/compare/memcached-1.0.77...memcached-2.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* remove empty env var declaration from questions.yaml
-* update helm chart common to v9 ([#2013](https://github.com/truecharts/apps/issues/2013))
+* 从问题.yaml 中移除固定的 env
+* 从问题.yaml 中删除空的 env var 声明
+* 更新通用到v9的头盔图表([#2013](https://github.com/truecharts/apps/issues/2013))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
@@ -1146,9 +1146,9 @@
 
 ### [memcached-1.0.77](https://github.com/truecharts/apps/compare/memcached-1.0.76...memcached-1.0.77) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.17.3 ([#2009](https://github.com/truecharts/apps/issues/2009))
+* 更新通用到v8.17.3([#2009](https://github.com/truecharts/apps/issues/2009))
 
 
 
@@ -1156,9 +1156,9 @@
 
 ### [memcached-1.0.76](https://github.com/truecharts/apps/compare/memcached-1.0.75...memcached-1.0.76) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2006](https://github.com/truecharts/apps/issues/2006))
+* 更新一般的非主码([#2006](https://github.com/truecharts/apps/issues/2006))
 
 
 
@@ -1166,9 +1166,9 @@
 
 ### [memcached-1.0.75](https://github.com/truecharts/apps/compare/memcached-1.0.74...memcached-1.0.75) (2022-02-28)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.17.2 ([#1986](https://github.com/truecharts/apps/issues/1986))
+* 更新通用到v8.17.2 ([#1986](https://github.com/truecharts/apps/issues/1986))
 
 
 
@@ -1176,9 +1176,9 @@
 
 ### [memcached-1.0.74](https://github.com/truecharts/apps/compare/memcached-1.0.73...memcached-1.0.74) (2022-02-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1980](https://github.com/truecharts/apps/issues/1980))
+* 更新一般的非主要泊车位([#1980](https://github.com/truecharts/apps/issues/1980))
 
 
 
@@ -1186,9 +1186,9 @@
 
 ### [memcached-1.0.73](https://github.com/truecharts/apps/compare/memcached-1.0.72...memcached-1.0.73) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.16.0 ([#1926](https://github.com/truecharts/apps/issues/1926))
+* 更新通用的头盔图表到 v8.16.0 ([#1926](https://github.com/truecharts/apps/issues/1926))
 
 
 
@@ -1196,9 +1196,9 @@
 
 ### [memcached-1.0.72](https://github.com/truecharts/apps/compare/memcached-1.0.71...memcached-1.0.72) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1924](https://github.com/truecharts/apps/issues/1924))
+* 更新一般的非主码([#1924](https://github.com/truecharts/apps/issues/1924))
 
 
 
@@ -1206,9 +1206,9 @@
 
 ### [memcached-1.0.71](https://github.com/truecharts/apps/compare/memcached-1.0.70...memcached-1.0.71) (2022-02-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.4 ([#1900](https://github.com/truecharts/apps/issues/1900))
+* 更新通用的 v8.15.4 头盔图表([#1900](https://github.com/truecharts/apps/issues/1900))
 
 
 
@@ -1216,9 +1216,9 @@
 
 ### [memcached-1.0.70](https://github.com/truecharts/apps/compare/memcached-1.0.69...memcached-1.0.70) (2022-02-14)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1895](https://github.com/truecharts/apps/issues/1895))
+* 更新一般的非主基座([#1895](https://github.com/truecharts/apps/issues/1895))
 
 
 
@@ -1226,9 +1226,9 @@
 
 ### [memcached-1.0.69](https://github.com/truecharts/apps/compare/memcached-1.0.68...memcached-1.0.69) (2022-02-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1876](https://github.com/truecharts/apps/issues/1876))
+* 更新一般的非主要泊车位([#1876](https://github.com/truecharts/apps/issues/1876))
 
 
 
@@ -1236,9 +1236,9 @@
 
 ### [memcached-1.0.68](https://github.com/truecharts/apps/compare/memcached-1.0.67...memcached-1.0.68) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.2 ([#1868](https://github.com/truecharts/apps/issues/1868))
+* 更新通用到v8.15.2 ([#1868](https://github.com/truecharts/apps/issues/1868))
 
 
 
@@ -1246,9 +1246,9 @@
 
 ### [memcached-1.0.67](https://github.com/truecharts/apps/compare/memcached-1.0.66...memcached-1.0.67) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1869](https://github.com/truecharts/apps/issues/1869))
+* 更新一般的非主码([#1869](https://github.com/truecharts/apps/issues/1869))
 
 
 
@@ -1256,10 +1256,10 @@
 
 ### [memcached-1.0.66](https://github.com/truecharts/apps/compare/memcached-1.0.65...memcached-1.0.66) (2022-02-06)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.0 ([#1858](https://github.com/truecharts/apps/issues/1858))
-* update docker general non-major ([#1855](https://github.com/truecharts/apps/issues/1855))
+* 更新通用的 v8.15.0 头盔图表([#1858](https://github.com/truecharts/apps/issues/1858))
+* 更新一般的非主码([#1855](https://github.com/truecharts/apps/issues/1855))
 
 
 
@@ -1267,10 +1267,10 @@
 
 ### [memcached-1.0.65](https://github.com/truecharts/apps/compare/memcached-1.0.64...memcached-1.0.65) (2022-02-05)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.14.5 ([#1851](https://github.com/truecharts/apps/issues/1851))
-* update docker general non-major ([#1849](https://github.com/truecharts/apps/issues/1849))
+* 更新通用的 v8.14.5 头盔图表([#1851](https://github.com/truecharts/apps/issues/1851))
+* 更新一般的非主码([#1849](https://github.com/truecharts/apps/issues/1849))
 
 
 
@@ -1278,9 +1278,9 @@
 
 ### [memcached-1.0.64](https://github.com/truecharts/apps/compare/memcached-1.0.63...memcached-1.0.64) (2022-02-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1836](https://github.com/truecharts/apps/issues/1836))
+* 更新一般的非主码([#1836](https://github.com/truecharts/apps/issues/1836))
 
 
 
@@ -1288,9 +1288,9 @@
 
 ### [memcached-1.0.63](https://github.com/truecharts/apps/compare/memcached-1.0.62...memcached-1.0.63) (2022-02-01)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.14.4
+* 更新通用的 v8.14.4 头盔图
 
 
 
@@ -1298,9 +1298,9 @@
 
 ### [memcached-1.0.62](https://github.com/truecharts/apps/compare/memcached-1.0.61...memcached-1.0.62) (2022-01-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1824](https://github.com/truecharts/apps/issues/1824))
+* 更新一般的非主要泊车位([#1824](https://github.com/truecharts/apps/issues/1824))
 
 
 
@@ -1308,9 +1308,9 @@
 
 ### [memcached-1.0.61](https://github.com/truecharts/apps/compare/memcached-1.0.60...memcached-1.0.61) (2022-01-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major docker tags ([#1823](https://github.com/truecharts/apps/issues/1823))
+* 更新一般非主停靠标签([#1823](https://github.com/truecharts/apps/issues/1823))
 
 
 
@@ -1318,9 +1318,9 @@
 
 ### [memcached-1.0.60](https://github.com/truecharts/apps/compare/memcached-1.0.59...memcached-1.0.60) (2022-01-25)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.14.2
+* 更新 v8.14.2 共有的头盔图
 
 
 
@@ -1328,9 +1328,9 @@
 
 ### [memcached-1.0.59](https://github.com/truecharts/apps/compare/memcached-1.0.58...memcached-1.0.59) (2022-01-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1786](https://github.com/truecharts/apps/issues/1786))
+* 更新一般的非主码([#1786](https://github.com/truecharts/apps/issues/1786))
 
 
 
@@ -1338,9 +1338,9 @@
 
 ### [memcached-1.0.58](https://github.com/truecharts/apps/compare/memcached-1.0.57...memcached-1.0.58) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.13.5 ([#1765](https://github.com/truecharts/apps/issues/1765))
+* 更新通用到v8.13.5 ([#1765](https://github.com/truecharts/apps/issues/1765))
 
 
 
@@ -1348,9 +1348,9 @@
 
 ### [memcached-1.0.57](https://github.com/truecharts/apps/compare/memcached-1.0.56...memcached-1.0.57) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.13.4 ([#1758](https://github.com/truecharts/apps/issues/1758))
+* 更新通用的 v8.13.4 头盔图表([#1758](https://github.com/truecharts/apps/issues/1758))
 
 
 
@@ -1358,9 +1358,9 @@
 
 ### [memcached-1.0.56](https://github.com/truecharts/apps/compare/memcached-1.0.55...memcached-1.0.56) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1757](https://github.com/truecharts/apps/issues/1757))
+* 更新一般的非主码([#1757](https://github.com/truecharts/apps/issues/1757))
 
 
 
@@ -1368,13 +1368,13 @@
 
 ### [memcached-1.0.55](https://github.com/truecharts/apps/compare/memcached-1.0.54...memcached-1.0.55) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1751](https://github.com/truecharts/apps/issues/1751))
+* 更新一般的非主码([#1751](https://github.com/truecharts/apps/issues/1751))
 
-#### Fix
+#### 修复
 
-* set additional_attrs: true on all dicts ([#1750](https://github.com/truecharts/apps/issues/1750))
+* 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
 
 
 
@@ -1382,9 +1382,9 @@
 
 ### [memcached-1.0.54](https://github.com/truecharts/apps/compare/memcached-1.0.53...memcached-1.0.54) (2022-01-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1741](https://github.com/truecharts/apps/issues/1741))
+* 更新一般的非主码([#1741](https://github.com/truecharts/apps/issues/1741))
 
 
 
@@ -1392,9 +1392,9 @@
 
 ### [memcached-1.0.53](https://github.com/truecharts/apps/compare/memcached-1.0.52...memcached-1.0.53) (2022-01-18)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.13.1
+* 更新通用的 v8.13.1 头盔图
 
 
 
@@ -1402,9 +1402,9 @@
 
 ### [memcached-1.0.52](https://github.com/truecharts/apps/compare/memcached-1.0.51...memcached-1.0.52) (2022-01-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1728](https://github.com/truecharts/apps/issues/1728))
+* 更新一般的非主码([#1728](https://github.com/truecharts/apps/issues/1728))
 
 
 
@@ -1412,13 +1412,13 @@
 
 ### [memcached-1.0.51](https://github.com/truecharts/apps/compare/memcached-1.0.50...memcached-1.0.51) (2022-01-13)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.13.0 ([#1711](https://github.com/truecharts/apps/issues/1711))
+* 更新通用到v8.13.0的头盔图表([#1711](https://github.com/truecharts/apps/issues/1711))
 
 #### Feat
 
-* expose capabilities in GUI ([#1709](https://github.com/truecharts/apps/issues/1709))
+* 在图形界面显示能力 ([#1709](https://github.com/truecharts/apps/issues/1709))
 
 
 
@@ -1426,9 +1426,9 @@
 
 ### [memcached-1.0.50](https://github.com/truecharts/apps/compare/memcached-1.0.49...memcached-1.0.50) (2022-01-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.12.1 ([#1705](https://github.com/truecharts/apps/issues/1705))
+* 更新通用到v8.12.1的头盔图表([#1705](https://github.com/truecharts/apps/issues/1705))
 
 
 
@@ -1436,9 +1436,9 @@
 
 ### [memcached-1.0.49](https://github.com/truecharts/apps/compare/memcached-1.0.48...memcached-1.0.49) (2022-01-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.12.0 ([#1702](https://github.com/truecharts/apps/issues/1702))
+* 更新通用的 v8.12.0 头盔图表([#1702](https://github.com/truecharts/apps/issues/1702))
 
 
 
@@ -1446,9 +1446,9 @@
 
 ### [memcached-1.0.48](https://github.com/truecharts/apps/compare/memcached-1.0.47...memcached-1.0.48) (2022-01-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.10.6
+* 更新通用到v8.10.6 的头盔图
 
 
 
@@ -1456,9 +1456,9 @@
 
 ### [memcached-1.0.47](https://github.com/truecharts/apps/compare/memcached-1.0.46...memcached-1.0.47) (2022-01-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1685](https://github.com/truecharts/apps/issues/1685))
+* 更新一般的非主基座([#1685](https://github.com/truecharts/apps/issues/1685))
 
 
 
@@ -1466,9 +1466,9 @@
 
 ### [memcached-1.0.46](https://github.com/truecharts/apps/compare/memcached-1.0.45...memcached-1.0.46) (2022-01-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1677](https://github.com/truecharts/apps/issues/1677))
+* 更新一般的非主码([#1677](https://github.com/truecharts/apps/issues/1677))
 
 
 
@@ -1476,9 +1476,9 @@
 
 ### [memcached-1.0.45](https://github.com/truecharts/apps/compare/memcached-1.0.44...memcached-1.0.45) (2022-01-04)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.10.2 ([#1650](https://github.com/truecharts/apps/issues/1650))
+* 更新通用到v8.10.2 ([#1650](https://github.com/truecharts/apps/issues/1650))
 
 
 
@@ -1486,9 +1486,9 @@
 
 ### [memcached-1.0.44](https://github.com/truecharts/apps/compare/memcached-1.0.43...memcached-1.0.44) (2022-01-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1648](https://github.com/truecharts/apps/issues/1648))
+* 更新一般的非主基座([#1648](https://github.com/truecharts/apps/issues/1648))
 
 
 
@@ -1496,9 +1496,9 @@
 
 ### [memcached-1.0.43](https://github.com/truecharts/apps/compare/memcached-1.0.42...memcached-1.0.43) (2022-01-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1646](https://github.com/truecharts/apps/issues/1646))
+* 更新一般的非主码([#1646](https://github.com/truecharts/apps/issues/1646))
 
 
 
@@ -1506,9 +1506,9 @@
 
 ### [memcached-1.0.42](https://github.com/truecharts/apps/compare/memcached-1.0.41...memcached-1.0.42) (2021-12-28)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.26 ([#1622](https://github.com/truecharts/apps/issues/1622))
+* 更新通用的头盔图表到 v8.9.26([#1622](https://github.com/truecharts/apps/issues/1622))
 
 
 
@@ -1516,9 +1516,9 @@
 
 ### [memcached-1.0.41](https://github.com/truecharts/apps/compare/memcached-1.0.40...memcached-1.0.41) (2021-12-27)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1615](https://github.com/truecharts/apps/issues/1615))
+* 更新一般的非主要泊车位([#1615](https://github.com/truecharts/apps/issues/1615))
 
 
 
@@ -1526,10 +1526,10 @@
 
 ### [memcached-1.0.40](https://github.com/truecharts/apps/compare/memcached-1.0.39...memcached-1.0.40) (2021-12-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1607](https://github.com/truecharts/apps/issues/1607))
-* update docker general non-major ([#1595](https://github.com/truecharts/apps/issues/1595))
+* 更新一般的非主要泊车位([#1607](https://github.com/truecharts/apps/issues/1607))
+* 更新一般的非主基座([#1595](https://github.com/truecharts/apps/issues/1595))
 
 
 
@@ -1537,9 +1537,9 @@
 
 ### [memcached-1.0.39](https://github.com/truecharts/apps/compare/memcached-1.0.38...memcached-1.0.39) (2021-12-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.25 ([#1592](https://github.com/truecharts/apps/issues/1592))
+* 更新通用的头盔图表到 v8.9.25 ([#1592](https://github.com/truecharts/apps/issues/1592))
 
 
 
@@ -1547,9 +1547,9 @@
 
 ### [memcached-1.0.38](https://github.com/truecharts/apps/compare/memcached-1.0.37...memcached-1.0.38) (2021-12-20)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1585](https://github.com/truecharts/apps/issues/1585))
+* 更新一般的非主基座([#1585](https://github.com/truecharts/apps/issues/1585))
 
 
 
@@ -1557,10 +1557,10 @@
 
 ### [memcached-1.0.37](https://github.com/truecharts/apps/compare/memcached-1.0.36...memcached-1.0.37) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* Last patch bump before RC2 branch-off
-* remove `editable: true` as this is the default ([#1576](https://github.com/truecharts/apps/issues/1576))
+* 上次补丁后的 RC2 分支关闭
+* 删除 `可编辑：true` ，因为这是默认的 ([#1576](https://github.com/truecharts/apps/issues/1576))
 
 
 
@@ -1568,9 +1568,9 @@
 
 ### [memcached-1.0.36](https://github.com/truecharts/apps/compare/memcached-1.0.35...memcached-1.0.36) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.24 ([#1570](https://github.com/truecharts/apps/issues/1570))
+* 更新通用到v8.9.24 的头盔图表([#1570](https://github.com/truecharts/apps/issues/1570))
 
 
 
@@ -1578,10 +1578,10 @@
 
 ### [memcached-1.0.35](https://github.com/truecharts/apps/compare/memcached-1.0.34...memcached-1.0.35) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1567](https://github.com/truecharts/apps/issues/1567))
-* update docker general non-major
+* 更新一般的非主码([#1567](https://github.com/truecharts/apps/issues/1567))
+* 更新一般非主要停靠栏
 
 
 
@@ -1589,9 +1589,9 @@
 
 ### [memcached-1.0.34](https://github.com/truecharts/apps/compare/memcached-1.0.33...memcached-1.0.34) (2021-12-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.21
+* 更新通用到v8.9.21的头盔图
 
 
 
@@ -1599,9 +1599,9 @@
 
 ### [memcached-1.0.33](https://github.com/truecharts/apps/compare/memcached-1.0.32...memcached-1.0.33) (2021-12-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1531](https://github.com/truecharts/apps/issues/1531))
+* 更新一般的非主要泊车位([#1531](https://github.com/truecharts/apps/issues/1531))
 
 
 
@@ -1609,19 +1609,19 @@
 
 ### [memcached-1.0.32](https://github.com/truecharts/apps/compare/memcached-1.0.31...memcached-1.0.32) (2021-12-13)
 
-#### Chore
+#### 聊天
 
-* move incubator apps to stable and bump everything
+* 将孵化器应用程序移动到稳定和凸显所有
 
 
 
 <a name="memcached-1.0.31"></a>
 
-### [memcached-1.0.31](https://github.com/truecharts/apps/compare/memcached-1.0.30...memcached-1.0.31) (2021-12-12)
+### [memcached-1.0.31](https://github.com/truecharts/apps/compare/memcached-1.0.30...memcached-1.0.31) (2021-12)
 
-#### Chore
+#### 聊天
 
-* update container image ghcr.io/truecharts/memcached to v1.6.12 ([#1516](https://github.com/truecharts/apps/issues/1516))
+* 更新容器图像 ghcr.io/truechars/memcached 到 v1.6.12 ([#1516](https://github.com/truecharts/apps/issues/1516))
 
 
 
@@ -1629,9 +1629,9 @@
 
 ### [memcached-1.0.30](https://github.com/truecharts/apps/compare/memcached-1.0.29...memcached-1.0.30) (2021-12-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.17 ([#1492](https://github.com/truecharts/apps/issues/1492))
+* 更新通用的头盔图表到 v8.9.17 ([#1492](https://github.com/truecharts/apps/issues/1492))
 
 
 
@@ -1639,9 +1639,9 @@
 
 ### [memcached-1.0.29](https://github.com/truecharts/apps/compare/memcached-1.0.28...memcached-1.0.29) (2021-12-11)
 
-#### Chore
+#### 聊天
 
-* update non-major docker ([#1507](https://github.com/truecharts/apps/issues/1507))
+* 更新非主停靠器[#1507](https://github.com/truecharts/apps/issues/1507)
 
 
 
@@ -1649,9 +1649,9 @@
 
 ### [memcached-1.0.28](https://github.com/truecharts/apps/compare/memcached-1.0.27...memcached-1.0.28) (2021-12-08)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1488](https://github.com/truecharts/apps/issues/1488))
+* 更新非主要([#1488](https://github.com/truecharts/apps/issues/1488))
 
 
 
@@ -1659,9 +1659,9 @@
 
 ### [memcached-1.0.27](https://github.com/truecharts/apps/compare/memcached-1.0.26...memcached-1.0.27) (2021-12-07)
 
-#### Chore
+#### 聊天
 
-* bump common on deps ([#1486](https://github.com/truecharts/apps/issues/1486))
+* bumps 常见的 ([#1486](https://github.com/truecharts/apps/issues/1486))
 
 
 
@@ -1669,9 +1669,9 @@
 
 ### [memcached-1.0.26](https://github.com/truecharts/apps/compare/memcached-1.0.25...memcached-1.0.26) (2021-12-07)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1475](https://github.com/truecharts/apps/issues/1475))
+* 更新非主要([#1475](https://github.com/truecharts/apps/issues/1475))
 
 
 
@@ -1679,25 +1679,25 @@
 
 ### memcached-1.0.25 (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* bump apps to generate security page
-* move all container references to TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* ensure container references are prefixed with v
-* cleanup the ci for the security page a bit
-* update dependencies
-* update non-major ([#1466](https://github.com/truecharts/apps/issues/1466))
-* bump common on dependency train ([#1452](https://github.com/truecharts/apps/issues/1452))
-* update non-major ([#1449](https://github.com/truecharts/apps/issues/1449))
-* update common on deps ([#1467](https://github.com/truecharts/apps/issues/1467))
-* update non-major deps helm releases ([#1468](https://github.com/truecharts/apps/issues/1468))
-* update common
-* update non-major ([#1427](https://github.com/truecharts/apps/issues/1427))
-* update non-major ([#1423](https://github.com/truecharts/apps/issues/1423))
+* 跳转应用生成安全页面
+* 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
+* 确保容器引用前缀 v
+* 略去安全页面的ci
+* 更新依赖关系
+* 更新非主要([#1466](https://github.com/truecharts/apps/issues/1466))
+* 跳到依赖列车上常见的 ([#1452](https://github.com/truecharts/apps/issues/1452))
+* 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
+* 更新常用代码([#1467](https://github.com/truecharts/apps/issues/1467))
+* 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
+* 经常更新
+* 更新非主要([#1427](https://github.com/truecharts/apps/issues/1427))
+* 更新非主要([#1423](https://github.com/truecharts/apps/issues/1423))
 
-#### Fix
+#### 修复
 
-* move deps back to ghcr for now.
+* 现在移动退货回到ghcr。
 
 
 
@@ -1705,9 +1705,9 @@
 
 ### [memcached-1.0.24](https://github.com/truecharts/apps/compare/memcached-1.0.23...memcached-1.0.24) (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1468](https://github.com/truecharts/apps/issues/1468))
+* 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
 
 
 
@@ -1715,9 +1715,9 @@
 
 ### [memcached-1.0.23](https://github.com/truecharts/apps/compare/memcached-1.0.22...memcached-1.0.23) (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* update common on deps ([#1467](https://github.com/truecharts/apps/issues/1467))
+* 更新常用代码([#1467](https://github.com/truecharts/apps/issues/1467))
 
 
 
@@ -1725,13 +1725,13 @@
 
 ### [memcached-1.0.22](https://github.com/truecharts/apps/compare/memcached-1.0.21...memcached-1.0.22) (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1466](https://github.com/truecharts/apps/issues/1466))
+* 更新非主要([#1466](https://github.com/truecharts/apps/issues/1466))
 
-#### Fix
+#### 修复
 
-* move deps back to ghcr for now.
+* 现在移动退货回到ghcr。
 
 
 
@@ -1739,10 +1739,10 @@
 
 ### [memcached-1.0.21](https://github.com/truecharts/apps/compare/memcached-1.0.20...memcached-1.0.21) (2021-12-04)
 
-#### Chore
+#### 聊天
 
-* bump apps to generate security page
-* cleanup the ci for the security page a bit
+* 跳转应用生成安全页面
+* 略去安全页面的ci
 
 
 
@@ -1750,9 +1750,9 @@
 
 ### [memcached-1.0.20](https://github.com/truecharts/apps/compare/memcached-1.0.19...memcached-1.0.20) (2021-12-03)
 
-#### Chore
+#### 聊天
 
-* bump common on dependency train ([#1452](https://github.com/truecharts/apps/issues/1452))
+* 跳到依赖列车上常见的 ([#1452](https://github.com/truecharts/apps/issues/1452))
 
 
 
@@ -1760,11 +1760,11 @@
 
 ### [memcached-1.0.19](https://github.com/truecharts/apps/compare/memcached-1.0.18...memcached-1.0.19) (2021-12-03)
 
-#### Chore
+#### 聊天
 
-* ensure container references are prefixed with v
-* move all container references to TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* update non-major ([#1449](https://github.com/truecharts/apps/issues/1449))
+* 确保容器引用前缀 v
+* 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
+* 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 
 
 
@@ -1772,9 +1772,9 @@
 
 ### [memcached-1.0.18](https://github.com/truecharts/apps/compare/memcached-1.0.17...memcached-1.0.18) (2021-11-30)
 
-#### Chore
+#### 聊天
 
-* update common
+* 经常更新
 
 
 
@@ -1782,9 +1782,9 @@
 
 ### [memcached-1.0.17](https://github.com/truecharts/apps/compare/memcached-1.0.16...memcached-1.0.17) (2021-11-30)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1427](https://github.com/truecharts/apps/issues/1427))
+* 更新非主要([#1427](https://github.com/truecharts/apps/issues/1427))
 
 
 
@@ -1792,9 +1792,9 @@
 
 ### [memcached-1.0.15](https://github.com/truecharts/apps/compare/memcached-1.0.14...memcached-1.0.15) (2021-11-29)
 
-#### Chore
+#### 聊天
 
-* update common
+* 经常更新
 
 
 
@@ -1802,9 +1802,9 @@
 
 ### [memcached-1.0.14](https://github.com/truecharts/apps/compare/memcached-1.0.13...memcached-1.0.14) (2021-11-28)
 
-#### Chore
+#### 聊天
 
-* update common on dependencies
+* 在依赖关系上更新常见的
 
 
 
@@ -1812,9 +1812,9 @@
 
 ### [memcached-1.0.13](https://github.com/truecharts/apps/compare/memcached-1.0.12...memcached-1.0.13) (2021-11-23)
 
-#### Chore
+#### 聊天
 
-* bump deps again to sync with common
+* 再次跳转以与普通同步
 
 
 
@@ -1822,10 +1822,10 @@
 
 ### [memcached-1.0.12](https://github.com/truecharts/apps/compare/memcached-1.0.10...memcached-1.0.12) (2021-11-23)
 
-#### Chore
+#### 聊天
 
-* bump common on deps
-* update non-major ([#1384](https://github.com/truecharts/apps/issues/1384))
+* bumps 常见的
+* 更新非主要([#1384](https://github.com/truecharts/apps/issues/1384))
 
 
 
@@ -1833,9 +1833,9 @@
 
 ### [memcached-1.0.10](https://github.com/truecharts/apps/compare/memcached-1.0.9...memcached-1.0.10) (2021-11-22)
 
-#### Fix
+#### 修复
 
-* correct prometheus GUI mistakes
+* 纠正Promeus图形界面错误
 
 
 
@@ -1843,19 +1843,19 @@
 
 ### [memcached-1.0.9](https://github.com/truecharts/apps/compare/memcached-1.0.8...memcached-1.0.9) (2021-11-22)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1380](https://github.com/truecharts/apps/issues/1380))
+* 更新非主要([#1380](https://github.com/truecharts/apps/issues/1380))
 
 
 
 <a name="memcached-1.0.7"></a>
 
-### [memcached-1.0.7](https://github.com/truecharts/apps/compare/memcached-1.0.6...memcached-1.0.7) (2021-11-18)
+### [memcached-1.0.7](https://github.com/truecharts/apps/compare/memcached-1.0.6...memcached-1.0.7) (2021-11-18岁)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1350](https://github.com/truecharts/apps/issues/1350))
+* 更新非主要([#1350](https://github.com/truecharts/apps/issues/1350))
 
 
 
@@ -1863,9 +1863,9 @@
 
 ### [memcached-1.0.6](https://github.com/truecharts/apps/compare/memcached-1.0.5...memcached-1.0.6) (2021-11-16)
 
-#### Chore
+#### 聊天
 
-* bump common
+* bump 公共的
 
 
 
@@ -1873,9 +1873,9 @@
 
 ### [memcached-1.0.5](https://github.com/truecharts/apps/compare/memcached-1.0.4...memcached-1.0.5) (2021-11-16)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1342](https://github.com/truecharts/apps/issues/1342))
+* 更新非主要([#1342](https://github.com/truecharts/apps/issues/1342))
 
 
 
@@ -1883,9 +1883,9 @@
 
 ### [memcached-1.0.4](https://github.com/truecharts/apps/compare/memcached-1.0.3...memcached-1.0.4) (2021-11-15)
 
-#### Chore
+#### 聊天
 
-* bump common on dependency apps
+* bump 依赖应用程序常见的
 
 
 
@@ -1893,9 +1893,9 @@
 
 ### [memcached-1.0.3](https://github.com/truecharts/apps/compare/memcached-1.0.2...memcached-1.0.3) (2021-11-15)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1336](https://github.com/truecharts/apps/issues/1336))
+* 更新非主要([#1336](https://github.com/truecharts/apps/issues/1336))
 
 
 
@@ -1903,9 +1903,9 @@
 
 ### [memcached-1.0.2](https://github.com/truecharts/apps/compare/memcached-1.0.1...memcached-1.0.2) (2021-11-15)
 
-#### Chore
+#### 聊天
 
-* bump common and move mariadb
+* 凸起普通并移动 mariadb
 
 
 
@@ -1913,16 +1913,16 @@
 
 ### [memcached-1.0.1](https://github.com/truecharts/apps/compare/memcached-1.0.0...memcached-1.0.1) (2021-11-14)
 
-#### Chore
+#### 聊天
 
-* fixes around the GUI refactor ([#1316](https://github.com/truecharts/apps/issues/1316))
-* move port above advanced in GUI ([#1326](https://github.com/truecharts/apps/issues/1326))
-* clean up Chart.yaml ([#1322](https://github.com/truecharts/apps/issues/1322))
-* update non-major ([#1327](https://github.com/truecharts/apps/issues/1327))
+* 围绕图形界面进行修复([#1316](https://github.com/truecharts/apps/issues/1316))
+* 移动图形界面上方的端口([#1326](https://github.com/truecharts/apps/issues/1326))
+* 清理Chart.yaml ([#1322](https://github.com/truecharts/apps/issues/1322))
+* 更新非主要([#1327](https://github.com/truecharts/apps/issues/1327))
 
-#### Fix
+#### 修复
 
-* split udp and tcp ports ([#1321](https://github.com/truecharts/apps/issues/1321))
+* 拆分udp 和 tcp 端口[#1321](https://github.com/truecharts/apps/issues/1321)
 
 
 
@@ -1932,14 +1932,14 @@
 
 #### Feat
 
-* move deps to incubator ([#1311](https://github.com/truecharts/apps/issues/1311))
+* 移动掉落到孵化器 ([#1311](https://github.com/truecharts/apps/issues/1311))
 
 
 
 <a name="memcached-0.0.1"></a>
 
-### memcached-0.0.1 (2021-11-11)
+### memcached-0.0.1 (2021-11)
 
 #### Feat
 
-* add memcached App ([#1307](https://github.com/truecharts/apps/issues/1307))
+* 添加 memcached App ([#1307](https://github.com/truecharts/apps/issues/1307))
