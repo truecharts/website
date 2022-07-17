@@ -1,12 +1,12 @@
 # 机队
 
-Fleet provides an online web interface which displays a set of maintained images from one or more owned repositories.
+船队提供一个在线网页界面，显示来自一个或多个拥有仓库的一组维护的图像。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://hub.docker.com/r/linuxserver/fleet>
+* [https://hub.docker.com/r/linuxserver/famp](https://hub.docker.com/r/linuxserver/fleet)
 
 ## B. 所需经费
 
