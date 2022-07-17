@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [habridge-2.0.17](https://github.com/truecharts/apps/compare/habridge-2.0.16...habridge-2.0.17) (2022-07-14)
+## [架桥-2.0.17](https://github.com/truecharts/apps/compare/habridge-2.0.16...habridge-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [habridge-2.0.16](https://github.com/truecharts/apps/compare/habridge-2.0.14...habridge-2.0.16) (2022-07-14)
+## [架桥-2.0.16](https://github.com/truecharts/apps/compare/habridge-2.0.14...habridge-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [habridge-2.0.14](https://github.com/truecharts/apps/compare/habridge-2.0.12...habridge-2.0.14) (2022-07-12)
+## [架桥-2.0.14](https://github.com/truecharts/apps/compare/habridge-2.0.12...habridge-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [habridge-2.0.12](https://github.com/truecharts/apps/compare/habridge-2.0.11...habridge-2.0.12) (2022-07-12)
+## [架桥-2.0.12](https://github.com/truecharts/apps/compare/habridge-2.0.11...habridge-2.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="habridge-2.0.11"></a>
 
-### [habridge-2.0.11](https://github.com/truecharts/apps/compare/habridge-2.0.10...habridge-2.0.11) (2022-07-12)
+### [架桥-2.0.11](https://github.com/truecharts/apps/compare/habridge-2.0.10...habridge-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="habridge-2.0.10"></a>
 
-### [habridge-2.0.10](https://github.com/truecharts/apps/compare/habridge-2.0.9...habridge-2.0.10) (2022-07-11)
+### [架桥-2.0.10](https://github.com/truecharts/apps/compare/habridge-2.0.9...habridge-2.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="habridge-2.0.9"></a>
 
-### [habridge-2.0.9](https://github.com/truecharts/apps/compare/habridge-2.0.8...habridge-2.0.9) (2022-07-09)
+### [架桥-2.0.9](https://github.com/truecharts/apps/compare/habridge-2.0.8...habridge-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="habridge-2.0.8"></a>
 
-### [habridge-2.0.8](https://github.com/truecharts/apps/compare/habridge-2.0.7...habridge-2.0.8) (2022-07-04)
+### [架桥-2.0.8](https://github.com/truecharts/apps/compare/habridge-2.0.7...habridge-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="habridge-2.0.7"></a>
 
-### [habridge-2.0.7](https://github.com/truecharts/apps/compare/habridge-2.0.6...habridge-2.0.7) (2022-06-25)
+### [架桥-2.0.7](https://github.com/truecharts/apps/compare/habridge-2.0.6...habridge-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="habridge-2.0.6"></a>
 
-### [habridge-2.0.6](https://github.com/truecharts/apps/compare/habridge-2.0.5...habridge-2.0.6) (2022-06-22)
+### [架桥-2.0.6](https://github.com/truecharts/apps/compare/habridge-2.0.5...habridge-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="habridge-2.0.5"></a>
 
-### [habridge-2.0.5](https://github.com/truecharts/apps/compare/habridge-2.0.4...habridge-2.0.5) (2022-06-21)
+### [架桥-2.0.5](https://github.com/truecharts/apps/compare/habridge-2.0.4...habridge-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="habridge-2.0.4"></a>
 
-### [habridge-2.0.4](https://github.com/truecharts/apps/compare/habridge-2.0.3...habridge-2.0.4) (2022-06-14)
+### [架桥-2.0.4](https://github.com/truecharts/apps/compare/habridge-2.0.3...habridge-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="habridge-2.0.3"></a>
 
-### [habridge-2.0.3](https://github.com/truecharts/apps/compare/habridge-2.0.2...habridge-2.0.3) (2022-06-11)
+### [架桥-2.0.3](https://github.com/truecharts/apps/compare/habridge-2.0.2...habridge-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="habridge-2.0.2"></a>
 
-### [habridge-2.0.2](https://github.com/truecharts/apps/compare/habridge-2.0.1...habridge-2.0.2) (2022-06-07)
+### [架桥-2.0.2](https://github.com/truecharts/apps/compare/habridge-2.0.1...habridge-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="habridge-2.0.1"></a>
 
-### [habridge-2.0.1](https://github.com/truecharts/apps/compare/habridge-1.0.19...habridge-2.0.1) (2022-06-07)
+### [架桥-2.0.1](https://github.com/truecharts/apps/compare/habridge-1.0.19...habridge-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -155,7 +155,7 @@
 
 <a name="habridge-2.0.0"></a>
 
-### [habridge-2.0.0](https://github.com/truecharts/apps/compare/habridge-1.0.19...habridge-2.0.0) (2022-06-07)
+### [架桥-2.0.0](https://github.com/truecharts/apps/compare/habridge-1.0.19...habridge-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="habridge-1.0.19"></a>
 
-### [habridge-1.0.19](https://github.com/truecharts/apps/compare/habridge-1.0.18...habridge-1.0.19) (2022-05-31)
+### [架桥-1.0.19](https://github.com/truecharts/apps/compare/habridge-1.0.18...habridge-1.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="habridge-1.0.18"></a>
 
-### [habridge-1.0.18](https://github.com/truecharts/apps/compare/habridge-1.0.17...habridge-1.0.18) (2022-05-26)
+### [架桥-1.0.18](https://github.com/truecharts/apps/compare/habridge-1.0.17...habridge-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="habridge-1.0.18"></a>
 
-### [habridge-1.0.18](https://github.com/truecharts/apps/compare/habridge-1.0.17...habridge-1.0.18) (2022-05-26)
+### [架桥-1.0.18](https://github.com/truecharts/apps/compare/habridge-1.0.17...habridge-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="habridge-1.0.17"></a>
 
-### [habridge-1.0.17](https://github.com/truecharts/apps/compare/habridge-1.0.16...habridge-1.0.17) (2022-05-24)
+### [架桥-1.0.17](https://github.com/truecharts/apps/compare/habridge-1.0.16...habridge-1.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="habridge-1.0.16"></a>
 
-### [habridge-1.0.16](https://github.com/truecharts/apps/compare/habridge-1.0.15...habridge-1.0.16) (2022-05-17)
+### [架桥-1.0.16](https://github.com/truecharts/apps/compare/habridge-1.0.15...habridge-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="habridge-1.0.16"></a>
 
-### [habridge-1.0.16](https://github.com/truecharts/apps/compare/habridge-1.0.15...habridge-1.0.16) (2022-05-17)
+### [架桥-1.0.16](https://github.com/truecharts/apps/compare/habridge-1.0.15...habridge-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="habridge-1.0.15"></a>
 
-### [habridge-1.0.15](https://github.com/truecharts/apps/compare/habridge-1.0.14...habridge-1.0.15) (2022-05-17)
+### [架桥-1.0.15](https://github.com/truecharts/apps/compare/habridge-1.0.14...habridge-1.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="habridge-1.0.14"></a>
 
-### [habridge-1.0.14](https://github.com/truecharts/apps/compare/habridge-1.0.13...habridge-1.0.14) (2022-05-10)
+### [架桥-1.0.14](https://github.com/truecharts/apps/compare/habridge-1.0.13...habridge-1.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="habridge-1.0.13"></a>
 
-### [habridge-1.0.13](https://github.com/truecharts/apps/compare/habridge-1.0.12...habridge-1.0.13) (2022-05-05)
+### [架桥-1.0.13](https://github.com/truecharts/apps/compare/habridge-1.0.12...habridge-1.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="habridge-1.0.12"></a>
 
-### [habridge-1.0.12](https://github.com/truecharts/apps/compare/habridge-1.0.11...habridge-1.0.12) (2022-04-26)
+### [架桥-1.0.12](https://github.com/truecharts/apps/compare/habridge-1.0.11...habridge-1.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="habridge-1.0.11"></a>
 
-### [habridge-1.0.11](https://github.com/truecharts/apps/compare/habridge-1.0.10...habridge-1.0.11) (2022-04-20)
+### [架桥-1.0.11](https://github.com/truecharts/apps/compare/habridge-1.0.10...habridge-1.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="habridge-1.0.10"></a>
 
-### [habridge-1.0.10](https://github.com/truecharts/apps/compare/habridge-1.0.9...habridge-1.0.10) (2022-04-12)
+### [架桥-1.0.10](https://github.com/truecharts/apps/compare/habridge-1.0.9...habridge-1.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="habridge-1.0.9"></a>
 
-### [habridge-1.0.9](https://github.com/truecharts/apps/compare/habridge-1.0.8...habridge-1.0.9) (2022-04-03)
+### [架桥-1.0.9](https://github.com/truecharts/apps/compare/habridge-1.0.8...habridge-1.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="habridge-1.0.8"></a>
 
-### [habridge-1.0.8](https://github.com/truecharts/apps/compare/habridge-1.0.7...habridge-1.0.8) (2022-03-31)
+### [架桥-1.0.8](https://github.com/truecharts/apps/compare/habridge-1.0.7...habridge-1.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="habridge-1.0.7"></a>
 
-### [habridge-1.0.7](https://github.com/truecharts/apps/compare/habridge-1.0.6...habridge-1.0.7) (2022-03-30)
+### [架桥-1.0.7](https://github.com/truecharts/apps/compare/habridge-1.0.6...habridge-1.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="habridge-1.0.6"></a>
 
-### [habridge-1.0.6](https://github.com/truecharts/apps/compare/habridge-1.0.5...habridge-1.0.6) (2022-03-26)
+### [架桥-1.0.6](https://github.com/truecharts/apps/compare/habridge-1.0.5...habridge-1.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="habridge-1.0.1"></a>
 
-### [habridge-1.0.1](https://github.com/truecharts/apps/compare/habridge-1.0.0...habridge-1.0.1) (2022-03-07)
+### [架桥-1.0.1](https://github.com/truecharts/apps/compare/habridge-1.0.0...habridge-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="habridge-1.0.0"></a>
 
-### [habridge-1.0.0](https://github.com/truecharts/apps/compare/habridge-0.0.25...habridge-1.0.0) (2022-03-03)
+### [架桥-1.0.0](https://github.com/truecharts/apps/compare/habridge-0.0.25...habridge-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="habridge-0.0.25"></a>
 
-### [habridge-0.0.25](https://github.com/truecharts/apps/compare/habridge-0.0.24...habridge-0.0.25) (2022-03-02)
+### [架桥-0.0.25](https://github.com/truecharts/apps/compare/habridge-0.0.24...habridge-0.0.25) (2022-03-02)
 
 #### 聊天
 
@@ -371,7 +371,7 @@
 
 <a name="habridge-0.0.24"></a>
 
-### [habridge-0.0.24](https://github.com/truecharts/apps/compare/habridge-0.0.23...habridge-0.0.24) (2022-02-21)
+### [架桥-0.0.24](https://github.com/truecharts/apps/compare/habridge-0.0.23...habridge-0.0.24) (2022-02-21)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="habridge-0.0.23"></a>
 
-### [habridge-0.0.23](https://github.com/truecharts/apps/compare/habridge-0.0.22...habridge-0.0.23) (2022-02-15)
+### [架桥-0.0.23](https://github.com/truecharts/apps/compare/habridge-0.0.22...habridge-0.0.23) (2022-02-15)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="habridge-0.0.22"></a>
 
-### [habridge-0.0.22](https://github.com/truecharts/apps/compare/habridge-0.0.21...habridge-0.0.22) (2022-02-08)
+### [架桥-0.0.22](https://github.com/truecharts/apps/compare/habridge-0.0.21...habridge-0.0.22) (2022-02-08)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="habridge-0.0.21"></a>
 
-### [habridge-0.0.21](https://github.com/truecharts/apps/compare/habridge-0.0.20...habridge-0.0.21) (2022-02-06)
+### [架桥-0.0.21](https://github.com/truecharts/apps/compare/habridge-0.0.20...habridge-0.0.21) (2022-02-06)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="habridge-0.0.20"></a>
 
-### [habridge-0.0.20](https://github.com/truecharts/apps/compare/habridge-0.0.19...habridge-0.0.20) (2022-02-05)
+### [架桥-0.0.20](https://github.com/truecharts/apps/compare/habridge-0.0.19...habridge-0.0.20) (2022-02-05)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="habridge-0.0.19"></a>
 
-### [habridge-0.0.19](https://github.com/truecharts/apps/compare/habridge-0.0.18...habridge-0.0.19) (2022-02-02)
+### [架桥-0.0.19](https://github.com/truecharts/apps/compare/habridge-0.0.18...habridge-0.0.19) (2022-02-02)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="habridge-0.0.18"></a>
 
-### [habridge-0.0.18](https://github.com/truecharts/apps/compare/habridge-0.0.16...habridge-0.0.18) (2022-01-31)
+### [架桥-0.0.18](https://github.com/truecharts/apps/compare/habridge-0.0.16...habridge-0.0.18) (2022-01-31)
 
 #### 聊天
 
@@ -440,13 +440,13 @@
 
 #### 修复
 
-* correct mistakes in install and upgrade init containers
+* 在安装和升级内存容器时纠正错误
 
 
 
 <a name="habridge-0.0.17"></a>
 
-### [habridge-0.0.17](https://github.com/truecharts/apps/compare/habridge-0.0.16...habridge-0.0.17) (2022-01-25)
+### [架桥-0.0.17](https://github.com/truecharts/apps/compare/habridge-0.0.16...habridge-0.0.17) (2022-01-25)
 
 #### 聊天
 
@@ -456,7 +456,7 @@
 
 <a name="habridge-0.0.16"></a>
 
-### [habridge-0.0.16](https://github.com/truecharts/apps/compare/habridge-0.0.15...habridge-0.0.16) (2022-01-22)
+### [架桥-0.0.16](https://github.com/truecharts/apps/compare/habridge-0.0.15...habridge-0.0.16) (2022-01-22)
 
 #### 聊天
 
@@ -466,7 +466,7 @@
 
 <a name="habridge-0.0.15"></a>
 
-### [habridge-0.0.15](https://github.com/truecharts/apps/compare/habridge-0.0.14...habridge-0.0.15) (2022-01-21)
+### [架桥-0.0.15](https://github.com/truecharts/apps/compare/habridge-0.0.14...habridge-0.0.15) (2022-01-21)
 
 #### 聊天
 
@@ -480,7 +480,7 @@
 
 <a name="habridge-0.0.14"></a>
 
-### [habridge-0.0.14](https://github.com/truecharts/apps/compare/habridge-0.0.13...habridge-0.0.14) (2022-01-18)
+### [架桥-0.0.14](https://github.com/truecharts/apps/compare/habridge-0.0.13...habridge-0.0.14) (2022-01-18)
 
 #### 聊天
 
@@ -490,7 +490,7 @@
 
 <a name="habridge-0.0.13"></a>
 
-### [habridge-0.0.13](https://github.com/truecharts/apps/compare/habridge-0.0.12...habridge-0.0.13) (2022-01-13)
+### [架桥-0.0.13](https://github.com/truecharts/apps/compare/habridge-0.0.12...habridge-0.0.13) (2022-01-13)
 
 #### 聊天
 
@@ -504,7 +504,7 @@
 
 <a name="habridge-0.0.12"></a>
 
-### [habridge-0.0.12](https://github.com/truecharts/apps/compare/habridge-0.0.11...habridge-0.0.12) (2022-01-12)
+### [架桥-0.0.12](https://github.com/truecharts/apps/compare/habridge-0.0.11...habridge-0.0.12) (2022-01-12)
 
 #### 聊天
 
@@ -514,7 +514,7 @@
 
 <a name="habridge-0.0.11"></a>
 
-### [habridge-0.0.11](https://github.com/truecharts/apps/compare/habridge-0.0.10...habridge-0.0.11) (2022-01-11)
+### [架桥-0.0.11](https://github.com/truecharts/apps/compare/habridge-0.0.10...habridge-0.0.11) (2022-01-11)
 
 #### 聊天
 
@@ -524,7 +524,7 @@
 
 <a name="habridge-0.0.10"></a>
 
-### [habridge-0.0.10](https://github.com/truecharts/apps/compare/habridge-0.0.9...habridge-0.0.10) (2022-01-04)
+### [架桥-0.0.10](https://github.com/truecharts/apps/compare/habridge-0.0.9...habridge-0.0.10) (2022-01-04)
 
 #### 聊天
 
@@ -534,7 +534,7 @@
 
 <a name="habridge-0.0.9"></a>
 
-### [habridge-0.0.9](https://github.com/truecharts/apps/compare/habridge-0.0.8...habridge-0.0.9) (2021-12-28)
+### [架桥-0.0.9](https://github.com/truecharts/apps/compare/habridge-0.0.8...habridge-0.0.9) (2021-12-28)
 
 #### 聊天
 
@@ -544,7 +544,7 @@
 
 <a name="habridge-0.0.8"></a>
 
-### [habridge-0.0.8](https://github.com/truecharts/apps/compare/habridge-0.0.7...habridge-0.0.8) (2021-12-21)
+### [Hambridge--0.0.8](https://github.com/truecharts/apps/compare/habridge-0.0.7...habridge-0.0.8) (2021-12-21)
 
 #### 聊天
 
@@ -554,7 +554,7 @@
 
 <a name="habridge-0.0.7"></a>
 
-### [habridge-0.0.7](https://github.com/truecharts/apps/compare/habridge-0.0.6...habridge-0.0.7) (2021-12-19)
+### [架桥-0.0.7](https://github.com/truecharts/apps/compare/habridge-0.0.6...habridge-0.0.7) (2021-12-19)
 
 #### 聊天
 
@@ -564,7 +564,7 @@
 
 <a name="habridge-0.0.6"></a>
 
-### [habridge-0.0.6](https://github.com/truecharts/apps/compare/habridge-0.0.5...habridge-0.0.6) (2021-12-19)
+### [架桥-0.0.6](https://github.com/truecharts/apps/compare/habridge-0.0.5...habridge-0.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -575,7 +575,7 @@
 
 <a name="habridge-0.0.5"></a>
 
-### [habridge-0.0.5](https://github.com/truecharts/apps/compare/habridge-0.0.4...habridge-0.0.5) (2021-12-18)
+### [架桥-0.0.5](https://github.com/truecharts/apps/compare/habridge-0.0.4...habridge-0.0.5) (2021-12-18岁)
 
 #### 聊天
 
@@ -585,7 +585,7 @@
 
 <a name="habridge-0.0.4"></a>
 
-### [habridge-0.0.4](https://github.com/truecharts/apps/compare/habridge-0.0.3...habridge-0.0.4) (2021-12-17)
+### [架桥-0.0.4](https://github.com/truecharts/apps/compare/habridge-0.0.3...habridge-0.0.4) (2021-12-17)
 
 #### 聊天
 
@@ -599,7 +599,7 @@
 
 <a name="habridge-0.0.3"></a>
 
-### [habridge-0.0.3](https://github.com/truecharts/apps/compare/habridge-0.0.2...habridge-0.0.3) (2021-12-14)
+### [架桥-0.0.3](https://github.com/truecharts/apps/compare/habridge-0.0.2...habridge-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -609,7 +609,7 @@
 
 <a name="habridge-0.0.2"></a>
 
-### [habridge-0.0.2](https://github.com/truecharts/apps/compare/habridge-0.0.1...habridge-0.0.2) (2021-12-13)
+### [架桥-0.0.2](https://github.com/truecharts/apps/compare/habridge-0.0.1...habridge-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -619,4 +619,4 @@
 
 <a name="habridge-0.0.1"></a>
 
-### habridge-0.0.1 (2021-12-12)
+### 汉布里奇-0.0.1 (2021-12)
