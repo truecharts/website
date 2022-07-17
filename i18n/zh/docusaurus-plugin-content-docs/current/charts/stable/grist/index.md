@@ -1,6 +1,6 @@
 # 研发师
 
-圣诞老人是现代关系电子表格。 It combine the flexibility of a spreadsheet with the robustness of a database to organize your data.
+圣诞老人是现代关系电子表格。 它将电子表格的灵活性与数据库的强大性结合起来，以组织您的数据。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
