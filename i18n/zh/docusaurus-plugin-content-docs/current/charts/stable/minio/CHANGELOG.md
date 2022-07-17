@@ -633,7 +633,7 @@
 
 #### 聊天
 
-* Use correct label on api ingress ([#1936](https://github.com/truecharts/apps/issues/1936))
+* 在 api 摄入处使用正确的标签([#1936](https://github.com/truecharts/apps/issues/1936))
 
 #### 修复
 
@@ -663,11 +663,11 @@
 
 <a name="minio-1.1.0"></a>
 
-### [minio-1.1.0](https://github.com/truecharts/apps/compare/minio-console-1.0.50...minio-1.1.0) (2022-02-20)
+### [minio-1.0](https://github.com/truecharts/apps/compare/minio-console-1.0.50...minio-1.1.0) (2022-02-20)
 
 #### 修复
 
-* Fix services and add ingress option for both services ([#1911](https://github.com/truecharts/apps/issues/1911))
+* 修复这两种服务的服务并添加吸收选项([#1911](https://github.com/truecharts/apps/issues/1911))
 
 
 
@@ -854,7 +854,7 @@
 
 <a name="minio-1.0.11"></a>
 
-### [minio-1.0.11](https://github.com/truecharts/apps/compare/minio-console-1.0.27...minio-1.0.11) (2021-12-18)
+### [minio-1.0.11](https://github.com/truecharts/apps/compare/minio-console-1.0.27...minio-1.0.11) (2021-12-18岁)
 
 #### 聊天
 
@@ -905,7 +905,7 @@
 
 <a name="minio-1.0.6"></a>
 
-### minio-1.0.6 (2021-12-05)
+### 微米-1.0.6 (2021-12-05)
 
 #### 聊天
 
@@ -980,8 +980,8 @@
 
 #### 聊天
 
-* bump minio
-* move minio to stable
+* 弯曲迷你的
+* 移动迷你到稳定状态
 
 
 
@@ -1041,7 +1041,7 @@
 #### 修复
 
 * 拆分udp 和 tcp 端口[#1321](https://github.com/truecharts/apps/issues/1321)
-* use the new path regex ([#1318](https://github.com/truecharts/apps/issues/1318))
+* 使用新路径正则表达式[#1318](https://github.com/truecharts/apps/issues/1318)
 
 
 
