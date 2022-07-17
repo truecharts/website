@@ -383,7 +383,7 @@
 #### Feat
 
 * 移动到稳定([#2315](https://github.com/truecharts/apps/issues/2315))
-* move to stable ([#2313](https://github.com/truecharts/apps/issues/2313))
+* 移动到稳定([#2313](https://github.com/truecharts/apps/issues/2313))
 
 
 
@@ -603,7 +603,7 @@
 
 #### 修复
 
-* Add validation to user information ([#1645](https://github.com/truecharts/apps/issues/1645))
+* 将验证添加到用户信息([#1645](https://github.com/truecharts/apps/issues/1645))
 
 
 
@@ -623,7 +623,7 @@
 
 #### Feat
 
-* Add shlink-web-client ([#1618](https://github.com/truecharts/apps/issues/1618))
+* 添加 shlink-web-client ([#1618](https://github.com/truecharts/apps/issues/1618))
 
 
 
@@ -643,4 +643,4 @@
 
 #### Feat
 
-* Add Spotweb ([#1617](https://github.com/truecharts/apps/issues/1617))
+* 添加 Spotweb ([#1617](https://github.com/truecharts/apps/issues/1617))
