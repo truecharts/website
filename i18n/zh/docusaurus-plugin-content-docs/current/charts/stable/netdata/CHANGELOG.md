@@ -299,7 +299,7 @@
 
 #### 聊天
 
-* use configmap for readability and extendability ([#2601](https://github.com/truecharts/apps/issues/2601))
+* 使用配置映射可读性和可扩展性([#2601](https://github.com/truecharts/apps/issues/2601))
 
 
 
@@ -309,7 +309,7 @@
 
 #### 聊天
 
-* add pod/namespace/node env's ([#2600](https://github.com/truecharts/apps/issues/2600))
+* 添加pod/namespace/node env's ([#2600](https://github.com/truecharts/apps/issues/2600))
 
 
 
@@ -319,7 +319,7 @@
 
 #### 聊天
 
-* update container image netdata/netdata to v1.34.1
+* 将容器图像网络数据/netdata 更新到 v1.34.1
 
 
 
@@ -329,7 +329,7 @@
 
 #### 修复
 
-* make host mounts readonly ([#2596](https://github.com/truecharts/apps/issues/2596))
+* 使主机挂载只读([#2596](https://github.com/truecharts/apps/issues/2596))
 
 
 
@@ -339,4 +339,4 @@
 
 #### Feat
 
-* add netdata ([#2595](https://github.com/truecharts/apps/issues/2595))
+* 添加netdata ([#2595](https://github.com/truecharts/apps/issues/2595))
