@@ -356,7 +356,7 @@
 
 #### Feat
 
-* move to stable ([#2316](https://github.com/truecharts/apps/issues/2316))
+* 移动到稳定([#2316](https://github.com/truecharts/apps/issues/2316))
 
 
 
