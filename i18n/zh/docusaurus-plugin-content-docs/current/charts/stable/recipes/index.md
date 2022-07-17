@@ -1,13 +1,13 @@
 # 配方
 
-Recipes is a Django application to manage, tag and search recipes using either built in models or external storage providers hosting PDF's, Images or other files.
+配方是要管理的 Django 应用程序， 使用模型或外部存储提供商托管PDF、图像或其他文件来标记和搜索配方。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://github.com/vabene1111/recipes>
-* <https://hub.docker.com/r/vabene1111/recipes>
+* [https://github.com/vabene1111/配方](https://github.com/vabene1111/recipes)
+* [https://hub.docker.com/r/vabene1111/配方](https://hub.docker.com/r/vabene1111/recipes)
 
 ## B. 所需经费
 
