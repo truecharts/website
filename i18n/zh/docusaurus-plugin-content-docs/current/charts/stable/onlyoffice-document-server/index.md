@@ -1,6 +1,6 @@
 # 仅Office-document-server
 
-ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
+仅限网站文档服务器是一个在线办公套件，由浏览者和编辑者组成文本、电子表格和演示文稿，完全兼容Office Open XML格式： ocx, .xlsx, .pptx, 并启用实时协作编辑。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
