@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [impostor-server-1.0.21](https://github.com/truecharts/apps/compare/impostor-server-1.0.20...impostor-server-1.0.21) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [impostor-server-1.0.20](https://github.com/truecharts/apps/compare/impostor-server-1.0.18...impostor-server-1.0.20) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [impostor-server-1.0.18](https://github.com/truecharts/apps/compare/impostor-server-1.0.16...impostor-server-1.0.18) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [impostor-server-1.0.16](https://github.com/truecharts/apps/compare/impostor-server-1.0.15...impostor-server-1.0.16) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [impostor-server-1.0.15](https://github.com/truecharts/apps/compare/impostor-server-1.0.14...impostor-server-1.0.15) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [impostor-server-1.0.14](https://github.com/truecharts/apps/compare/impostor-server-1.0.13...impostor-server-1.0.14) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,9 +58,9 @@
 
 ### [impostor-server-1.0.13](https://github.com/truecharts/apps/compare/impostor-server-1.0.12...impostor-server-1.0.13) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -68,9 +68,9 @@
 
 ### [impostor-server-1.0.12](https://github.com/truecharts/apps/compare/impostor-server-1.0.11...impostor-server-1.0.12) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [impostor-server-1.0.11](https://github.com/truecharts/apps/compare/impostor-server-1.0.10...impostor-server-1.0.11) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [impostor-server-1.0.10](https://github.com/truecharts/apps/compare/impostor-server-1.0.9...impostor-server-1.0.10) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2960](https://github.com/truecharts/apps/issues/2960))
+* 更新一般的非主码([#2960](https://github.com/truecharts/apps/issues/2960))
 
 
 
@@ -98,9 +98,9 @@
 
 ### [impostor-server-1.0.9](https://github.com/truecharts/apps/compare/impostor-server-1.0.8...impostor-server-1.0.9) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -108,9 +108,9 @@
 
 ### [impostor-server-1.0.8](https://github.com/truecharts/apps/compare/impostor-server-1.0.7...impostor-server-1.0.8) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [impostor-server-1.0.7](https://github.com/truecharts/apps/compare/impostor-server-1.0.5...impostor-server-1.0.7) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* Sync questions and values env's ([#2916](https://github.com/truecharts/apps/issues/2916))
+* 同步问题和值 Env ([#2916](https://github.com/truecharts/apps/issues/2916))
 
 
 
@@ -128,9 +128,9 @@
 
 ### [impostor-server-1.0.5](https://github.com/truecharts/apps/compare/impostor-server-1.0.4...impostor-server-1.0.5) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -138,9 +138,9 @@
 
 ### [impostor-server-1.0.4](https://github.com/truecharts/apps/compare/impostor-server-1.0.3...impostor-server-1.0.4) (2022-06-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2860](https://github.com/truecharts/apps/issues/2860))
+* 更新一般的非主码([#2860](https://github.com/truecharts/apps/issues/2860))
 
 
 
@@ -148,9 +148,9 @@
 
 ### [impostor-server-1.0.3](https://github.com/truecharts/apps/compare/impostor-server-1.0.2...impostor-server-1.0.3) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -158,9 +158,9 @@
 
 ### [impostor-server-1.0.2](https://github.com/truecharts/apps/compare/impostor-server-1.0.1...impostor-server-1.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -168,17 +168,17 @@
 
 ### [impostor-server-1.0.1](https://github.com/truecharts/apps/compare/impostor-server-0.0.40...impostor-server-1.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -186,9 +186,9 @@
 
 ### [impostor-server-1.0.0](https://github.com/truecharts/apps/compare/impostor-server-0.0.40...impostor-server-1.0.0) (2022-06-07)
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -196,9 +196,9 @@
 
 ### [impostor-server-0.0.40](https://github.com/truecharts/apps/compare/impostor-server-0.0.39...impostor-server-0.0.40) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2826](https://github.com/truecharts/apps/issues/2826))
+* 更新一般的非主要泊车位([#2826](https://github.com/truecharts/apps/issues/2826))
 
 
 
@@ -206,20 +206,9 @@
 
 ### [impostor-server-0.0.39](https://github.com/truecharts/apps/compare/impostor-server-0.0.38...impostor-server-0.0.39) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="impostor-server-0.0.38"></a>
-
-### [impostor-server-0.0.38](https://github.com/truecharts/apps/compare/impostor-server-0.0.37...impostor-server-0.0.38) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -227,9 +216,20 @@
 
 ### [impostor-server-0.0.38](https://github.com/truecharts/apps/compare/impostor-server-0.0.37...impostor-server-0.0.38) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="impostor-server-0.0.38"></a>
+
+### [impostor-server-0.0.38](https://github.com/truecharts/apps/compare/impostor-server-0.0.37...impostor-server-0.0.38) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -237,9 +237,9 @@
 
 ### [impostor-server-0.0.37](https://github.com/truecharts/apps/compare/impostor-server-0.0.36...impostor-server-0.0.37) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2756](https://github.com/truecharts/apps/issues/2756))
+* 更新一般的非主要泊位([#2756](https://github.com/truecharts/apps/issues/2756))
 
 
 
@@ -247,20 +247,9 @@
 
 ### [impostor-server-0.0.36](https://github.com/truecharts/apps/compare/impostor-server-0.0.35...impostor-server-0.0.36) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="impostor-server-0.0.35"></a>
-
-### [impostor-server-0.0.35](https://github.com/truecharts/apps/compare/impostor-server-0.0.34...impostor-server-0.0.35) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -268,9 +257,20 @@
 
 ### [impostor-server-0.0.35](https://github.com/truecharts/apps/compare/impostor-server-0.0.34...impostor-server-0.0.35) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="impostor-server-0.0.35"></a>
+
+### [impostor-server-0.0.35](https://github.com/truecharts/apps/compare/impostor-server-0.0.34...impostor-server-0.0.35) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -278,9 +278,9 @@
 
 ### [impostor-server-0.0.34](https://github.com/truecharts/apps/compare/impostor-server-0.0.33...impostor-server-0.0.34) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -288,9 +288,9 @@
 
 ### [impostor-server-0.0.33](https://github.com/truecharts/apps/compare/impostor-server-0.0.32...impostor-server-0.0.33) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -298,9 +298,9 @@
 
 ### [impostor-server-0.0.32](https://github.com/truecharts/apps/compare/impostor-server-0.0.31...impostor-server-0.0.32) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -308,9 +308,9 @@
 
 ### [impostor-server-0.0.31](https://github.com/truecharts/apps/compare/impostor-server-0.0.30...impostor-server-0.0.31) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -318,9 +318,9 @@
 
 ### [impostor-server-0.0.30](https://github.com/truecharts/apps/compare/impostor-server-0.0.29...impostor-server-0.0.30) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2571](https://github.com/truecharts/apps/issues/2571))
+* 更新一般的非主码([#2571](https://github.com/truecharts/apps/issues/2571))
 
 
 
@@ -328,10 +328,10 @@
 
 ### [impostor-server-0.0.29](https://github.com/truecharts/apps/compare/impostor-server-0.0.28...impostor-server-0.0.29) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -339,9 +339,9 @@
 
 ### [impostor-server-0.0.28](https://github.com/truecharts/apps/compare/impostor-server-0.0.27...impostor-server-0.0.28) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -349,9 +349,9 @@
 
 ### [impostor-server-0.0.27](https://github.com/truecharts/apps/compare/impostor-server-0.0.26...impostor-server-0.0.27) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2478](https://github.com/truecharts/apps/issues/2478))
+* 更新一般的非主基座([#2478](https://github.com/truecharts/apps/issues/2478))
 
 
 
@@ -359,9 +359,9 @@
 
 ### [impostor-server-0.0.26](https://github.com/truecharts/apps/compare/impostor-server-0.0.25...impostor-server-0.0.26) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
@@ -369,9 +369,9 @@
 
 ### [impostor-server-0.0.25](https://github.com/truecharts/apps/compare/impostor-server-0.0.24...impostor-server-0.0.25) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
@@ -379,9 +379,9 @@
 
 ### [impostor-server-0.0.24](https://github.com/truecharts/apps/compare/impostor-server-0.0.23...impostor-server-0.0.24) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
@@ -389,9 +389,9 @@
 
 ### [impostor-server-0.0.23](https://github.com/truecharts/apps/compare/impostor-server-0.0.22...impostor-server-0.0.23) (2022-03-27)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -399,9 +399,9 @@
 
 ### [impostor-server-0.0.22](https://github.com/truecharts/apps/compare/impostor-server-0.0.21...impostor-server-0.0.22) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -409,7 +409,7 @@
 
 ### [impostor-server-0.0.19](https://github.com/truecharts/apps/compare/impostor-server-0.0.18...impostor-server-0.0.19) (2022-03-17)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v9.1.6 ([#2200](https://github.com/truecharts/apps/issues/2200))
 
@@ -419,7 +419,7 @@
 
 ### [impostor-server-0.0.18](https://github.com/truecharts/apps/compare/impostor-server-0.0.17...impostor-server-0.0.18) (2022-03-15)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
 
@@ -429,9 +429,9 @@
 
 ### [impostor-server-0.0.17](https://github.com/truecharts/apps/compare/impostor-server-0.0.16...impostor-server-0.0.17) (2022-03-15)
 
-#### Chore
+#### 聊天
 
-* remove puid from values ([#2152](https://github.com/truecharts/apps/issues/2152))
+* 从值中移除puid([#2152](https://github.com/truecharts/apps/issues/2152))
 * update helm chart common to v9.1.3 ([#2174](https://github.com/truecharts/apps/issues/2174))
 
 #### Docs
@@ -444,10 +444,10 @@
 
 ### [impostor-server-0.0.16](https://github.com/truecharts/apps/compare/impostor-server-0.0.15...impostor-server-0.0.16) (2022-03-07)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v9.1.2 ([#2049](https://github.com/truecharts/apps/issues/2049))
-* Remove `-icon` string from icon png's ([#2040](https://github.com/truecharts/apps/issues/2040))
+* 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
 
@@ -455,15 +455,15 @@
 
 ### [impostor-server-0.0.15](https://github.com/truecharts/apps/compare/impostor-server-0.0.14...impostor-server-0.0.15) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* remove some ugly whitespace
+* 从问题.yaml 中移除固定的 env
+* 删除一些丑陋的空格
 * update helm chart common to v9 ([#2011](https://github.com/truecharts/apps/issues/2011))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
@@ -471,10 +471,10 @@
 
 ### [impostor-server-0.0.13](https://github.com/truecharts/apps/compare/impostor-server-0.0.12...impostor-server-0.0.13) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove PUID from per-app env-vars if set to 568
-* update docker general non-major ([#2006](https://github.com/truecharts/apps/issues/2006))
+* 如果设置为 568 则从每个应用程序的 env-vars 中删除 PUID
+* 更新一般的非主码([#2006](https://github.com/truecharts/apps/issues/2006))
 
 
 
@@ -482,7 +482,7 @@
 
 ### [impostor-server-0.0.12](https://github.com/truecharts/apps/compare/impostor-server-0.0.11...impostor-server-0.0.12) (2022-03-02)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
 
@@ -492,10 +492,10 @@
 
 ### [impostor-server-0.0.11](https://github.com/truecharts/apps/compare/impostor-server-0.0.10...impostor-server-0.0.11) (2022-02-28)
 
-#### Chore
+#### 聊天
 
-* rename `web_portal` to `open` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* update docker general non-major ([#1980](https://github.com/truecharts/apps/issues/1980))
+* 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
+* 更新一般的非主要泊车位([#1980](https://github.com/truecharts/apps/issues/1980))
 
 
 
@@ -503,7 +503,7 @@
 
 ### [impostor-server-0.0.10](https://github.com/truecharts/apps/compare/impostor-server-0.0.9...impostor-server-0.0.10) (2022-02-22)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v8.16.1 ([#1940](https://github.com/truecharts/apps/issues/1940))
 
@@ -513,7 +513,7 @@
 
 ### [impostor-server-0.0.9](https://github.com/truecharts/apps/compare/impostor-server-0.0.8...impostor-server-0.0.9) (2022-02-22)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
 
@@ -523,9 +523,9 @@
 
 ### [impostor-server-0.0.8](https://github.com/truecharts/apps/compare/impostor-server-0.0.7...impostor-server-0.0.8) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1924](https://github.com/truecharts/apps/issues/1924))
+* 更新一般的非主码([#1924](https://github.com/truecharts/apps/issues/1924))
 
 
 
@@ -533,7 +533,7 @@
 
 ### [impostor-server-0.0.7](https://github.com/truecharts/apps/compare/impostor-server-0.0.6...impostor-server-0.0.7) (2022-02-16)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v8.15.4 ([#1879](https://github.com/truecharts/apps/issues/1879))
 
@@ -543,7 +543,7 @@
 
 ### [impostor-server-0.0.6](https://github.com/truecharts/apps/compare/impostor-server-0.0.5...impostor-server-0.0.6) (2022-02-08)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v8.15.2 ([#1870](https://github.com/truecharts/apps/issues/1870))
 
@@ -553,7 +553,7 @@
 
 ### [impostor-server-0.0.5](https://github.com/truecharts/apps/compare/impostor-server-0.0.4...impostor-server-0.0.5) (2022-02-07)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v8.15.1 ([#1864](https://github.com/truecharts/apps/issues/1864))
 
@@ -563,7 +563,7 @@
 
 ### [impostor-server-0.0.4](https://github.com/truecharts/apps/compare/impostor-server-0.0.3...impostor-server-0.0.4) (2022-02-06)
 
-#### Chore
+#### 聊天
 
 * update helm chart common to v8.15.0 ([#1856](https://github.com/truecharts/apps/issues/1856))
 
@@ -577,6 +577,6 @@
 
 * add games train and two gameservers ([#1839](https://github.com/truecharts/apps/issues/1839))
 
-#### Fix
+#### 修复
 
 * correct PUID references
