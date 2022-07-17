@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://gitlab.v2.rancher.geohub.space/g3s/i3s/i3s-helm-catalog>
+* [https://gitlab.v2.rancher.geohub.space/g3s/i3s-helm-catalog](https://gitlab.v2.rancher.geohub.space/g3s/i3s/i3s-helm-catalog)
 
 ## B. 所需经费
 
