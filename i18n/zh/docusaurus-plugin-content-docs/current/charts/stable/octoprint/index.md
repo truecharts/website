@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/OctoPrint/OctoPrint>
+* [https://github.com/OctoberPrint/打印October。](https://github.com/OctoPrint/OctoPrint)
 * <https://hub.docker.com/r/octoprint/octoprint>
 
 ## B. 所需经费
