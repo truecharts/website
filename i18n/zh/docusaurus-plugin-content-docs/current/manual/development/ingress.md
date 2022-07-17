@@ -1,4 +1,4 @@
-# Ingress
+# 会议
 
 Ingress is what we call "Reverse Proxy" in the UI and in the user side of the documentation. Please be aware that those refer to the same system. An Ingress is, simply put, just Kubernetes way of connecting outsides to Apps running in containers.
 
