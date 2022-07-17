@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [prometheus-4.0.37](https://github.com/truecharts/apps/compare/prometheus-4.0.36...prometheus-4.0.37) (2022-07-17)
+## [promeus-4.0.37](https://github.com/truecharts/apps/compare/prometheus-4.0.36...prometheus-4.0.37) (2022-07-17)
 
 ### 聊天
 
@@ -9,7 +9,7 @@
 
 
 
-## [prometheus-4.0.36](https://github.com/truecharts/apps/compare/prometheus-4.0.35...prometheus-4.0.36) (2022-07-16)
+## [promeus-4.0.36](https://github.com/truecharts/apps/compare/prometheus-4.0.35...prometheus-4.0.36) (2022-07-16)
 
 ### 聊天
 
@@ -17,7 +17,7 @@
 
 
 
-## [prometheus-4.0.35](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.19...prometheus-4.0.35) (2022-07-15)
+## [promeus-4.0.35](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.19...prometheus-4.0.35) (2022-07-15)
 
 ### 聊天
 
@@ -25,7 +25,7 @@
 
 
 
-## [prometheus-4.0.34](https://github.com/truecharts/apps/compare/prometheus-4.0.33...prometheus-4.0.34) (2022-07-14)
+## [promeus-4.0.34](https://github.com/truecharts/apps/compare/prometheus-4.0.33...prometheus-4.0.34) (2022-07-14)
 
 ### 修复
 
@@ -33,7 +33,7 @@
 
 
 
-## [prometheus-4.0.33](https://github.com/truecharts/apps/compare/prometheus-4.0.31...prometheus-4.0.33) (2022-07-14)
+## [promeus-4.0.33](https://github.com/truecharts/apps/compare/prometheus-4.0.31...prometheus-4.0.33) (2022-07-14)
 
 ### 修复
 
@@ -41,7 +41,7 @@
 
 
 
-## [prometheus-4.0.31](https://github.com/truecharts/apps/compare/prometheus-4.0.30...prometheus-4.0.31) (2022-07-13)
+## [promeus-4.0.31](https://github.com/truecharts/apps/compare/prometheus-4.0.30...prometheus-4.0.31) (2022-07-13)
 
 ### 聊天
 
@@ -49,7 +49,7 @@
 
 
 
-## [prometheus-4.0.30](https://github.com/truecharts/apps/compare/prometheus-4.0.28...prometheus-4.0.30) (2022-07-12)
+## [promeus-4.0.30](https://github.com/truecharts/apps/compare/prometheus-4.0.28...prometheus-4.0.30) (2022-07-12)
 
 ### 聊天
 
@@ -58,7 +58,7 @@
 
 
 
-## [prometheus-4.0.28](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.13...prometheus-4.0.28) (2022-07-12)
+## [promeus-4.0.28](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.13...prometheus-4.0.28) (2022-07-12)
 
 ### 聊天
 
@@ -68,7 +68,7 @@
 
 <a name="prometheus-4.0.27"></a>
 
-### [prometheus-4.0.27](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.12...prometheus-4.0.27) (2022-07-12)
+### [promeus-4.0.27](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.12...prometheus-4.0.27) (2022-07-12)
 
 #### 聊天
 
@@ -79,7 +79,7 @@
 
 <a name="prometheus-4.0.26"></a>
 
-### [prometheus-4.0.26](https://github.com/truecharts/apps/compare/prometheus-4.0.25...prometheus-4.0.26) (2022-07-11)
+### [promeus-4.0.26](https://github.com/truecharts/apps/compare/prometheus-4.0.25...prometheus-4.0.26) (2022-07-11)
 
 #### 聊天
 
@@ -89,7 +89,7 @@
 
 <a name="prometheus-4.0.25"></a>
 
-### [prometheus-4.0.25](https://github.com/truecharts/apps/compare/prometheus-4.0.24...prometheus-4.0.25) (2022-07-09)
+### [promeus-4.0.25](https://github.com/truecharts/apps/compare/prometheus-4.0.24...prometheus-4.0.25) (2022-07-09)
 
 #### 聊天
 
@@ -99,7 +99,7 @@
 
 <a name="prometheus-4.0.24"></a>
 
-### [prometheus-4.0.24](https://github.com/truecharts/apps/compare/prometheus-4.0.23...prometheus-4.0.24) (2022-07-09)
+### [promeus-4.0.24](https://github.com/truecharts/apps/compare/prometheus-4.0.23...prometheus-4.0.24) (2022-07-09)
 
 #### 聊天
 
@@ -109,7 +109,7 @@
 
 <a name="prometheus-4.0.23"></a>
 
-### [prometheus-4.0.23](https://github.com/truecharts/apps/compare/prometheus-4.0.22...prometheus-4.0.23) (2022-07-07)
+### [promeus-4.0.23](https://github.com/truecharts/apps/compare/prometheus-4.0.22...prometheus-4.0.23) (2022-07-07)
 
 #### 聊天
 
@@ -119,7 +119,7 @@
 
 <a name="prometheus-4.0.22"></a>
 
-### [prometheus-4.0.22](https://github.com/truecharts/apps/compare/prometheus-4.0.21...prometheus-4.0.22) (2022-07-06)
+### [promeus-4.0.22](https://github.com/truecharts/apps/compare/prometheus-4.0.21...prometheus-4.0.22) (2022-07-06)
 
 #### 聊天
 
@@ -129,7 +129,7 @@
 
 <a name="prometheus-4.0.21"></a>
 
-### [prometheus-4.0.21](https://github.com/truecharts/apps/compare/prometheus-4.0.20...prometheus-4.0.21) (2022-07-05)
+### [promeus-4.0.21](https://github.com/truecharts/apps/compare/prometheus-4.0.20...prometheus-4.0.21) (2022-07-05)
 
 #### 聊天
 
@@ -139,7 +139,7 @@
 
 <a name="prometheus-4.0.20"></a>
 
-### [prometheus-4.0.20](https://github.com/truecharts/apps/compare/prometheus-4.0.19...prometheus-4.0.20) (2022-07-04)
+### [promeus-4.0.20](https://github.com/truecharts/apps/compare/prometheus-4.0.19...prometheus-4.0.20) (2022-07-04)
 
 #### 聊天
 
@@ -149,7 +149,7 @@
 
 <a name="prometheus-4.0.19"></a>
 
-### [prometheus-4.0.19](https://github.com/truecharts/apps/compare/prometheus-4.0.18...prometheus-4.0.19) (2022-07-04)
+### [promeus-4.0.19](https://github.com/truecharts/apps/compare/prometheus-4.0.18...prometheus-4.0.19) (2022-07-04)
 
 #### 聊天
 
@@ -159,7 +159,7 @@
 
 <a name="prometheus-4.0.18"></a>
 
-### [prometheus-4.0.18](https://github.com/truecharts/apps/compare/prometheus-4.0.17...prometheus-4.0.18) (2022-07-03)
+### [promeus-4.0.18](https://github.com/truecharts/apps/compare/prometheus-4.0.17...prometheus-4.0.18) (2022-07-03)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="prometheus-4.0.17"></a>
 
-### [prometheus-4.0.17](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.9...prometheus-4.0.17) (2022-07-01)
+### [promeus-4.0.17](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.9...prometheus-4.0.17) (2022-07-01)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="prometheus-4.0.16"></a>
 
-### [prometheus-4.0.16](https://github.com/truecharts/apps/compare/prometheus-4.0.15...prometheus-4.0.16) (2022-06-29)
+### [promeus-4.0.16](https://github.com/truecharts/apps/compare/prometheus-4.0.15...prometheus-4.0.16) (2022-06-29)
 
 #### 聊天
 
@@ -189,17 +189,17 @@
 
 <a name="prometheus-4.0.15"></a>
 
-### [prometheus-4.0.15](https://github.com/truecharts/apps/compare/prometheus-4.0.14...prometheus-4.0.15) (2022-06-27)
+### [promeus-4.0.15](https://github.com/truecharts/apps/compare/prometheus-4.0.14...prometheus-4.0.15) (2022-06-27)
 
 #### 聊天
 
-* update docker general non-major ([#2996](https://github.com/truecharts/apps/issues/2996))
+* 更新一般的非主码([#2996](https://github.com/truecharts/apps/issues/2996))
 
 
 
 <a name="prometheus-4.0.14"></a>
 
-### [prometheus-4.0.14](https://github.com/truecharts/apps/compare/prometheus-4.0.13...prometheus-4.0.14) (2022-06-25)
+### [promeus-4.0.14](https://github.com/truecharts/apps/compare/prometheus-4.0.13...prometheus-4.0.14) (2022-06-25)
 
 #### 聊天
 
@@ -209,7 +209,7 @@
 
 <a name="prometheus-4.0.13"></a>
 
-### [prometheus-4.0.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.7...prometheus-4.0.13) (2022-06-25)
+### [promeus-4.0.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.7...prometheus-4.0.13) (2022-06-25)
 
 #### 聊天
 
@@ -219,7 +219,7 @@
 
 <a name="prometheus-4.0.12"></a>
 
-### [prometheus-4.0.12](https://github.com/truecharts/apps/compare/prometheus-4.0.11...prometheus-4.0.12) (2022-06-22)
+### [promeus-4.0.12](https://github.com/truecharts/apps/compare/prometheus-4.0.11...prometheus-4.0.12) (2022-06-22)
 
 #### 聊天
 
@@ -230,7 +230,7 @@
 
 <a name="prometheus-4.0.11"></a>
 
-### [prometheus-4.0.11](https://github.com/truecharts/apps/compare/prometheus-4.0.10...prometheus-4.0.11) (2022-06-21)
+### [promeus-4.0.11](https://github.com/truecharts/apps/compare/prometheus-4.0.10...prometheus-4.0.11) (2022-06-21)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="prometheus-4.0.10"></a>
 
-### [prometheus-4.0.10](https://github.com/truecharts/apps/compare/prometheus-4.0.9...prometheus-4.0.10) (2022-06-18)
+### [promeus-4.0.10](https://github.com/truecharts/apps/compare/prometheus-4.0.9...prometheus-4.0.10) (2022-06-18)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="prometheus-4.0.9"></a>
 
-### [prometheus-4.0.9](https://github.com/truecharts/apps/compare/prometheus-4.0.8...prometheus-4.0.9) (2022-06-17)
+### [promeus-4.0.9](https://github.com/truecharts/apps/compare/prometheus-4.0.8...prometheus-4.0.9) (2022-06-17)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="prometheus-4.0.8"></a>
 
-### [prometheus-4.0.8](https://github.com/truecharts/apps/compare/prometheus-4.0.7...prometheus-4.0.8) (2022-06-15)
+### [promeus-4.0.8](https://github.com/truecharts/apps/compare/prometheus-4.0.7...prometheus-4.0.8) (2022-06-15)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="prometheus-4.0.7"></a>
 
-### [prometheus-4.0.7](https://github.com/truecharts/apps/compare/prometheus-4.0.6...prometheus-4.0.7) (2022-06-14)
+### [promeus-4.0.7](https://github.com/truecharts/apps/compare/prometheus-4.0.6...prometheus-4.0.7) (2022-06-14)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="prometheus-4.0.6"></a>
 
-### [prometheus-4.0.6](https://github.com/truecharts/apps/compare/prometheus-4.0.5...prometheus-4.0.6) (2022-06-14)
+### [promeus-4.0.6](https://github.com/truecharts/apps/compare/prometheus-4.0.5...prometheus-4.0.6) (2022-06-14)
 
 #### 聊天
 
@@ -291,7 +291,7 @@
 
 <a name="prometheus-4.0.5"></a>
 
-### [prometheus-4.0.5](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.3...prometheus-4.0.5) (2022-06-14)
+### [promeus-4.0.5](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.3...prometheus-4.0.5) (2022-06-14)
 
 #### 聊天
 
@@ -301,7 +301,7 @@
 
 <a name="prometheus-4.0.4"></a>
 
-### [prometheus-4.0.4](https://github.com/truecharts/apps/compare/prometheus-4.0.3...prometheus-4.0.4) (2022-06-11)
+### [promeus-4.0.4](https://github.com/truecharts/apps/compare/prometheus-4.0.3...prometheus-4.0.4) (2022-06-11)
 
 #### 聊天
 
@@ -311,7 +311,7 @@
 
 <a name="prometheus-4.0.3"></a>
 
-### [prometheus-4.0.3](https://github.com/truecharts/apps/compare/prometheus-4.0.2...prometheus-4.0.3) (2022-06-11)
+### [promeus-4.0.3](https://github.com/truecharts/apps/compare/prometheus-4.0.2...prometheus-4.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -321,7 +321,7 @@
 
 <a name="prometheus-4.0.2"></a>
 
-### [prometheus-4.0.2](https://github.com/truecharts/apps/compare/prometheus-4.0.1...prometheus-4.0.2) (2022-06-09)
+### [promeus-4.0.2](https://github.com/truecharts/apps/compare/prometheus-4.0.1...prometheus-4.0.2) (2022-06-09)
 
 #### 聊天
 
@@ -331,7 +331,7 @@
 
 <a name="prometheus-4.0.1"></a>
 
-### [prometheus-4.0.1](https://github.com/truecharts/apps/compare/prometheus-4.0.0...prometheus-4.0.1) (2022-06-08)
+### [promeus-4.0.1](https://github.com/truecharts/apps/compare/prometheus-4.0.0...prometheus-4.0.1) (2022-06-08)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="prometheus-4.0.1"></a>
 
-### [prometheus-4.0.1](https://github.com/truecharts/apps/compare/prometheus-4.0.0...prometheus-4.0.1) (2022-06-08)
+### [promeus-4.0.1](https://github.com/truecharts/apps/compare/prometheus-4.0.0...prometheus-4.0.1) (2022-06-08)
 
 #### 聊天
 
@@ -354,7 +354,7 @@
 
 <a name="prometheus-4.0.1"></a>
 
-### [prometheus-4.0.1](https://github.com/truecharts/apps/compare/prometheus-4.0.0...prometheus-4.0.1) (2022-06-08)
+### [promeus-4.0.1](https://github.com/truecharts/apps/compare/prometheus-4.0.0...prometheus-4.0.1) (2022-06-08)
 
 #### 聊天
 
@@ -364,7 +364,7 @@
 
 <a name="prometheus-4.0.0"></a>
 
-### [prometheus-4.0.0](https://github.com/truecharts/apps/compare/prometheus-3.0.1...prometheus-4.0.0) (2022-06-07)
+### [promeus-4.0.0](https://github.com/truecharts/apps/compare/prometheus-3.0.1...prometheus-4.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -378,7 +378,7 @@
 
 <a name="prometheus-3.0.1"></a>
 
-### [prometheus-3.0.1](https://github.com/truecharts/apps/compare/prometheus-2.0.77...prometheus-3.0.1) (2022-06-07)
+### [promeus-3.0.1](https://github.com/truecharts/apps/compare/prometheus-2.0.77...prometheus-3.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -397,7 +397,7 @@
 
 <a name="prometheus-3.0.0"></a>
 
-### [prometheus-3.0.0](https://github.com/truecharts/apps/compare/prometheus-2.0.77...prometheus-3.0.0) (2022-06-07)
+### [promeus-3.0.0](https://github.com/truecharts/apps/compare/prometheus-2.0.77...prometheus-3.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -407,7 +407,7 @@
 
 <a name="prometheus-2.0.77"></a>
 
-### [prometheus-2.0.77](https://github.com/truecharts/apps/compare/prometheus-2.0.76...prometheus-2.0.77) (2022-06-04)
+### [promeus-2.0.77](https://github.com/truecharts/apps/compare/prometheus-2.0.76...prometheus-2.0.77) (2022-06-04)
 
 #### 聊天
 
@@ -417,7 +417,7 @@
 
 <a name="prometheus-2.0.76"></a>
 
-### [prometheus-2.0.76](https://github.com/truecharts/apps/compare/prometheus-2.0.75...prometheus-2.0.76) (2022-06-03)
+### [promeus-2.0.76](https://github.com/truecharts/apps/compare/prometheus-2.0.75...prometheus-2.0.76) (2022-06-03)
 
 #### 聊天
 
@@ -427,7 +427,7 @@
 
 <a name="prometheus-2.0.75"></a>
 
-### [prometheus-2.0.75](https://github.com/truecharts/apps/compare/prometheus-2.0.74...prometheus-2.0.75) (2022-06-02)
+### [promeus-2.0.75](https://github.com/truecharts/apps/compare/prometheus-2.0.74...prometheus-2.0.75) (2022-06-02)
 
 #### 聊天
 
@@ -437,7 +437,7 @@
 
 <a name="prometheus-2.0.74"></a>
 
-### [prometheus-2.0.74](https://github.com/truecharts/apps/compare/prometheus-2.0.73...prometheus-2.0.74) (2022-05-31)
+### [promeus-2.0.74](https://github.com/truecharts/apps/compare/prometheus-2.0.73...prometheus-2.0.74) (2022-05-31)
 
 #### 聊天
 
@@ -448,7 +448,7 @@
 
 <a name="prometheus-2.0.73"></a>
 
-### [prometheus-2.0.73](https://github.com/truecharts/apps/compare/prometheus-2.0.72...prometheus-2.0.73) (2022-05-29)
+### [promeus-2.0.73](https://github.com/truecharts/apps/compare/prometheus-2.0.72...prometheus-2.0.73) (2022-05-29)
 
 #### 聊天
 
@@ -458,7 +458,7 @@
 
 <a name="prometheus-2.0.72"></a>
 
-### [prometheus-2.0.72](https://github.com/truecharts/apps/compare/prometheus-2.0.71...prometheus-2.0.72) (2022-05-26)
+### [promeus-2.0.72](https://github.com/truecharts/apps/compare/prometheus-2.0.71...prometheus-2.0.72) (2022-05-26)
 
 #### 聊天
 
@@ -469,7 +469,7 @@
 
 <a name="prometheus-2.0.72"></a>
 
-### [prometheus-2.0.72](https://github.com/truecharts/apps/compare/prometheus-2.0.71...prometheus-2.0.72) (2022-05-26)
+### [promeus-2.0.72](https://github.com/truecharts/apps/compare/prometheus-2.0.71...prometheus-2.0.72) (2022-05-26)
 
 #### 聊天
 
@@ -479,7 +479,7 @@
 
 <a name="prometheus-2.0.71"></a>
 
-### [prometheus-2.0.71](https://github.com/truecharts/apps/compare/prometheus-2.0.70...prometheus-2.0.71) (2022-05-26)
+### [promeus-2.0.71](https://github.com/truecharts/apps/compare/prometheus-2.0.70...prometheus-2.0.71) (2022-05-26)
 
 #### 聊天
 
@@ -489,7 +489,7 @@
 
 <a name="prometheus-2.0.70"></a>
 
-### [prometheus-2.0.70](https://github.com/truecharts/apps/compare/prometheus-2.0.69...prometheus-2.0.70) (2022-05-25)
+### [promeus-2.0.70](https://github.com/truecharts/apps/compare/prometheus-2.0.69...prometheus-2.0.70) (2022-05-25)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="prometheus-2.0.69"></a>
 
-### [prometheus-2.0.69](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.17...prometheus-2.0.69) (2022-05-24)
+### [promeus-2.0.69](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.17...prometheus-2.0.69) (2022-05-24)
 
 #### 聊天
 
@@ -510,7 +510,7 @@
 
 <a name="prometheus-2.0.68"></a>
 
-### [prometheus-2.0.68](https://github.com/truecharts/apps/compare/prometheus-2.0.67...prometheus-2.0.68) (2022-05-24)
+### [promeus-2.0.68](https://github.com/truecharts/apps/compare/prometheus-2.0.67...prometheus-2.0.68) (2022-05-24)
 
 #### 聊天
 
@@ -520,7 +520,7 @@
 
 <a name="prometheus-2.0.67"></a>
 
-### [prometheus-2.0.67](https://github.com/truecharts/apps/compare/prometheus-2.0.66...prometheus-2.0.67) (2022-05-23)
+### [promeus-2.0.67](https://github.com/truecharts/apps/compare/prometheus-2.0.66...prometheus-2.0.67) (2022-05-23)
 
 #### 聊天
 
@@ -530,7 +530,7 @@
 
 <a name="prometheus-2.0.66"></a>
 
-### [prometheus-2.0.66](https://github.com/truecharts/apps/compare/prometheus-2.0.63...prometheus-2.0.66) (2022-05-22)
+### [promeus-2.0.66](https://github.com/truecharts/apps/compare/prometheus-2.0.63...prometheus-2.0.66) (2022-05-22)
 
 #### 聊天
 
@@ -542,7 +542,7 @@
 
 <a name="prometheus-2.0.63"></a>
 
-### [prometheus-2.0.63](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.16...prometheus-2.0.63) (2022-05-19)
+### [promeus-2.0.63](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.16...prometheus-2.0.63) (2022-05-19)
 
 #### 聊天
 
@@ -552,7 +552,7 @@
 
 <a name="prometheus-2.0.62"></a>
 
-### [prometheus-2.0.62](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.15...prometheus-2.0.62) (2022-05-18)
+### [promeus-2.0.62](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.15...prometheus-2.0.62) (2022-05-18)
 
 #### 聊天
 
@@ -564,7 +564,7 @@
 
 <a name="prometheus-2.0.61"></a>
 
-### [prometheus-2.0.61](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.15...prometheus-2.0.61) (2022-05-17)
+### [promeus-2.0.61](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.15...prometheus-2.0.61) (2022-05-17)
 
 #### 聊天
 
@@ -574,7 +574,7 @@
 
 <a name="prometheus-2.0.60"></a>
 
-### [prometheus-2.0.60](https://github.com/truecharts/apps/compare/prometheus-2.0.59...prometheus-2.0.60) (2022-05-17)
+### [promeus-2.0.60](https://github.com/truecharts/apps/compare/prometheus-2.0.59...prometheus-2.0.60) (2022-05-17)
 
 #### 聊天
 
@@ -585,7 +585,7 @@
 
 <a name="prometheus-2.0.59"></a>
 
-### [prometheus-2.0.59](https://github.com/truecharts/apps/compare/prometheus-2.0.58...prometheus-2.0.59) (2022-05-16)
+### [promeus-2.0.59](https://github.com/truecharts/apps/compare/prometheus-2.0.58...prometheus-2.0.59) (2022-05-16)
 
 #### 聊天
 
@@ -595,7 +595,7 @@
 
 <a name="prometheus-2.0.58"></a>
 
-### [prometheus-2.0.58](https://github.com/truecharts/apps/compare/prometheus-2.0.57...prometheus-2.0.58) (2022-05-15)
+### [promeus-2.0.58](https://github.com/truecharts/apps/compare/prometheus-2.0.57...prometheus-2.0.58) (2022-05-15)
 
 #### 聊天
 
@@ -605,7 +605,7 @@
 
 <a name="prometheus-2.0.57"></a>
 
-### [prometheus-2.0.57](https://github.com/truecharts/apps/compare/prometheus-2.0.56...prometheus-2.0.57) (2022-05-14)
+### [promeus-2.0.57](https://github.com/truecharts/apps/compare/prometheus-2.0.56...prometheus-2.0.57) (2022-05-14)
 
 #### 聊天
 
@@ -615,7 +615,7 @@
 
 <a name="prometheus-2.0.56"></a>
 
-### [prometheus-2.0.56](https://github.com/truecharts/apps/compare/prometheus-2.0.55...prometheus-2.0.56) (2022-05-13)
+### [promeus-2.0.56](https://github.com/truecharts/apps/compare/prometheus-2.0.55...prometheus-2.0.56) (2022-05-13)
 
 #### 聊天
 
@@ -625,7 +625,7 @@
 
 <a name="prometheus-2.0.55"></a>
 
-### [prometheus-2.0.55](https://github.com/truecharts/apps/compare/prometheus-2.0.54...prometheus-2.0.55) (2022-05-11)
+### [promeus-2.0.55](https://github.com/truecharts/apps/compare/prometheus-2.0.54...prometheus-2.0.55) (2022-05-11)
 
 #### 聊天
 
@@ -635,7 +635,7 @@
 
 <a name="prometheus-2.0.54"></a>
 
-### [prometheus-2.0.54](https://github.com/truecharts/apps/compare/prometheus-2.0.53...prometheus-2.0.54) (2022-05-10)
+### [promeus-2.0.54](https://github.com/truecharts/apps/compare/prometheus-2.0.53...prometheus-2.0.54) (2022-05-10)
 
 #### 聊天
 
@@ -645,7 +645,7 @@
 
 <a name="prometheus-2.0.53"></a>
 
-### [prometheus-2.0.53](https://github.com/truecharts/apps/compare/prometheus-2.0.52...prometheus-2.0.53) (2022-05-10)
+### [promeus-2.0.53](https://github.com/truecharts/apps/compare/prometheus-2.0.52...prometheus-2.0.53) (2022-05-10)
 
 #### 聊天
 
@@ -655,7 +655,7 @@
 
 <a name="prometheus-2.0.52"></a>
 
-### [prometheus-2.0.52](https://github.com/truecharts/apps/compare/prometheus-2.0.51...prometheus-2.0.52) (2022-05-09)
+### [promeus-2.0.52](https://github.com/truecharts/apps/compare/prometheus-2.0.51...prometheus-2.0.52) (2022-05-09)
 
 #### 聊天
 
@@ -665,7 +665,7 @@
 
 <a name="prometheus-2.0.51"></a>
 
-### [prometheus-2.0.51](https://github.com/truecharts/apps/compare/prometheus-2.0.50...prometheus-2.0.51) (2022-05-08)
+### [promeus-2.0.51](https://github.com/truecharts/apps/compare/prometheus-2.0.50...prometheus-2.0.51) (2022-05-08)
 
 #### 聊天
 
@@ -675,7 +675,7 @@
 
 <a name="prometheus-2.0.50"></a>
 
-### [prometheus-2.0.50](https://github.com/truecharts/apps/compare/prometheus-2.0.49...prometheus-2.0.50) (2022-05-06)
+### [promeus-2.0.50](https://github.com/truecharts/apps/compare/prometheus-2.0.49...prometheus-2.0.50) (2022-05-06)
 
 #### 聊天
 
@@ -685,7 +685,7 @@
 
 <a name="prometheus-2.0.49"></a>
 
-### [prometheus-2.0.49](https://github.com/truecharts/apps/compare/prometheus-2.0.48...prometheus-2.0.49) (2022-05-06)
+### [promeus-2.0.49](https://github.com/truecharts/apps/compare/prometheus-2.0.48...prometheus-2.0.49) (2022-05-06)
 
 #### 聊天
 
@@ -695,7 +695,7 @@
 
 <a name="prometheus-2.0.48"></a>
 
-### [prometheus-2.0.48](https://github.com/truecharts/apps/compare/prometheus-2.0.47...prometheus-2.0.48) (2022-05-05)
+### [promeus-2.0.48](https://github.com/truecharts/apps/compare/prometheus-2.0.47...prometheus-2.0.48) (2022-05-05)
 
 #### 聊天
 
@@ -705,7 +705,7 @@
 
 <a name="prometheus-2.0.47"></a>
 
-### [prometheus-2.0.47](https://github.com/truecharts/apps/compare/prometheus-2.0.46...prometheus-2.0.47) (2022-05-04)
+### [promeus-2.0.47](https://github.com/truecharts/apps/compare/prometheus-2.0.46...prometheus-2.0.47) (2022-05-04)
 
 #### 聊天
 
@@ -715,7 +715,7 @@
 
 <a name="prometheus-2.0.46"></a>
 
-### [prometheus-2.0.46](https://github.com/truecharts/apps/compare/prometheus-2.0.45...prometheus-2.0.46) (2022-04-29)
+### [promeus-2.0.46](https://github.com/truecharts/apps/compare/prometheus-2.0.45...prometheus-2.0.46) (2022-04-29)
 
 #### 聊天
 
@@ -725,7 +725,7 @@
 
 <a name="prometheus-2.0.45"></a>
 
-### [prometheus-2.0.45](https://github.com/truecharts/apps/compare/prometheus-2.0.44...prometheus-2.0.45) (2022-04-28)
+### [promeus-2.0.45](https://github.com/truecharts/apps/compare/prometheus-2.0.44...prometheus-2.0.45) (2022-04-28)
 
 #### 聊天
 
@@ -735,7 +735,7 @@
 
 <a name="prometheus-2.0.44"></a>
 
-### [prometheus-2.0.44](https://github.com/truecharts/apps/compare/prometheus-2.0.43...prometheus-2.0.44) (2022-04-26)
+### [promeus-2.0.44](https://github.com/truecharts/apps/compare/prometheus-2.0.43...prometheus-2.0.44) (2022-04-26)
 
 #### 聊天
 
@@ -745,7 +745,7 @@
 
 <a name="prometheus-2.0.43"></a>
 
-### [prometheus-2.0.43](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.11...prometheus-2.0.43) (2022-04-26)
+### [promeus-2.0.43](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.11...prometheus-2.0.43) (2022-04-26)
 
 #### 聊天
 
@@ -755,7 +755,7 @@
 
 <a name="prometheus-2.0.42"></a>
 
-### [prometheus-2.0.42](https://github.com/truecharts/apps/compare/prometheus-2.0.41...prometheus-2.0.42) (2022-04-20)
+### [promeus-2.0.42](https://github.com/truecharts/apps/compare/prometheus-2.0.41...prometheus-2.0.42) (2022-04-20)
 
 #### 聊天
 
@@ -765,7 +765,7 @@
 
 <a name="prometheus-2.0.41"></a>
 
-### [prometheus-2.0.41](https://github.com/truecharts/apps/compare/prometheus-2.0.40...prometheus-2.0.41) (2022-04-20)
+### [promeus-2.0.41](https://github.com/truecharts/apps/compare/prometheus-2.0.40...prometheus-2.0.41) (2022-04-20)
 
 #### 聊天
 
@@ -775,7 +775,7 @@
 
 <a name="prometheus-2.0.40"></a>
 
-### [prometheus-2.0.40](https://github.com/truecharts/apps/compare/prometheus-2.0.39...prometheus-2.0.40) (2022-04-18)
+### [promeus-2.0.40](https://github.com/truecharts/apps/compare/prometheus-2.0.39...prometheus-2.0.40) (2022-04-18)
 
 #### 聊天
 
@@ -785,7 +785,7 @@
 
 <a name="prometheus-2.0.39"></a>
 
-### [prometheus-2.0.39](https://github.com/truecharts/apps/compare/prometheus-2.0.38...prometheus-2.0.39) (2022-04-17)
+### [promeus-2.0.39](https://github.com/truecharts/apps/compare/prometheus-2.0.38...prometheus-2.0.39) (2022-04-17)
 
 #### 聊天
 
@@ -795,7 +795,7 @@
 
 <a name="prometheus-2.0.38"></a>
 
-### [prometheus-2.0.38](https://github.com/truecharts/apps/compare/prometheus-2.0.37...prometheus-2.0.38) (2022-04-16)
+### [promeus-2.0.38](https://github.com/truecharts/apps/compare/prometheus-2.0.37...prometheus-2.0.38) (2022-04-16)
 
 #### 聊天
 
@@ -805,7 +805,7 @@
 
 <a name="prometheus-2.0.37"></a>
 
-### [prometheus-2.0.37](https://github.com/truecharts/apps/compare/prometheus-2.0.36...prometheus-2.0.37) (2022-04-13)
+### [promeus-2.0.37](https://github.com/truecharts/apps/compare/prometheus-2.0.36...prometheus-2.0.37) (2022-04-13)
 
 #### 聊天
 
@@ -815,7 +815,7 @@
 
 <a name="prometheus-2.0.36"></a>
 
-### [prometheus-2.0.36](https://github.com/truecharts/apps/compare/prometheus-2.0.35...prometheus-2.0.36) (2022-04-12)
+### [promeus-2.0.36](https://github.com/truecharts/apps/compare/prometheus-2.0.35...prometheus-2.0.36) (2022-04-12)
 
 #### 聊天
 
@@ -825,7 +825,7 @@
 
 <a name="prometheus-2.0.35"></a>
 
-### [prometheus-2.0.35](https://github.com/truecharts/apps/compare/prometheus-2.0.34...prometheus-2.0.35) (2022-04-12)
+### [promeus-2.0.35](https://github.com/truecharts/apps/compare/prometheus-2.0.34...prometheus-2.0.35) (2022-04-12)
 
 #### 聊天
 
@@ -835,7 +835,7 @@
 
 <a name="prometheus-2.0.34"></a>
 
-### [prometheus-2.0.34](https://github.com/truecharts/apps/compare/prometheus-2.0.33...prometheus-2.0.34) (2022-04-12)
+### [promeus-2.0.34](https://github.com/truecharts/apps/compare/prometheus-2.0.33...prometheus-2.0.34) (2022-04-12)
 
 #### 聊天
 
@@ -845,7 +845,7 @@
 
 <a name="prometheus-2.0.33"></a>
 
-### [prometheus-2.0.33](https://github.com/truecharts/apps/compare/prometheus-2.0.32...prometheus-2.0.33) (2022-04-09)
+### [promeus-2.0.33](https://github.com/truecharts/apps/compare/prometheus-2.0.32...prometheus-2.0.33) (2022-04-09)
 
 #### 聊天
 
@@ -855,7 +855,7 @@
 
 <a name="prometheus-2.0.32"></a>
 
-### [prometheus-2.0.32](https://github.com/truecharts/apps/compare/prometheus-2.0.31...prometheus-2.0.32) (2022-04-09)
+### [promeus-2.0.32](https://github.com/truecharts/apps/compare/prometheus-2.0.31...prometheus-2.0.32) (2022-04-09)
 
 #### 聊天
 
@@ -865,7 +865,7 @@
 
 <a name="prometheus-2.0.31"></a>
 
-### [prometheus-2.0.31](https://github.com/truecharts/apps/compare/prometheus-2.0.30...prometheus-2.0.31) (2022-04-06)
+### [promeus-2.0.31](https://github.com/truecharts/apps/compare/prometheus-2.0.30...prometheus-2.0.31) (2022-04-06)
 
 #### 聊天
 
@@ -875,7 +875,7 @@
 
 <a name="prometheus-2.0.30"></a>
 
-### [prometheus-2.0.30](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.9...prometheus-2.0.30) (2022-04-04)
+### [promeus-2.0.30](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.9...prometheus-2.0.30) (2022-04-04)
 
 #### 聊天
 
@@ -885,7 +885,7 @@
 
 <a name="prometheus-2.0.29"></a>
 
-### [prometheus-2.0.29](https://github.com/truecharts/apps/compare/prometheus-2.0.28...prometheus-2.0.29) (2022-04-03)
+### [promeus-2.0.29](https://github.com/truecharts/apps/compare/prometheus-2.0.28...prometheus-2.0.29) (2022-04-03)
 
 #### 聊天
 
@@ -896,7 +896,7 @@
 
 <a name="prometheus-2.0.28"></a>
 
-### [prometheus-2.0.28](https://github.com/truecharts/apps/compare/prometheus-2.0.27...prometheus-2.0.28) (2022-04-03)
+### [promeus-2.0.28](https://github.com/truecharts/apps/compare/prometheus-2.0.27...prometheus-2.0.28) (2022-04-03)
 
 #### 聊天
 
@@ -906,17 +906,17 @@
 
 <a name="prometheus-2.0.27"></a>
 
-### [prometheus-2.0.27](https://github.com/truecharts/apps/compare/prometheus-2.0.26...prometheus-2.0.27) (2022-04-02)
+### [promeus-2.0.27](https://github.com/truecharts/apps/compare/prometheus-2.0.26...prometheus-2.0.27) (2022-04-02)
 
 #### 聊天
 
-* update docker general non-major ([#2383](https://github.com/truecharts/apps/issues/2383))
+* 更新一般的非主码([#2383](https://github.com/truecharts/apps/issues/2383))
 
 
 
 <a name="prometheus-2.0.26"></a>
 
-### [prometheus-2.0.26](https://github.com/truecharts/apps/compare/prometheus-2.0.25...prometheus-2.0.26) (2022-04-01)
+### [promeus-2.0.26](https://github.com/truecharts/apps/compare/prometheus-2.0.25...prometheus-2.0.26) (2022-04-01)
 
 #### 聊天
 
@@ -926,7 +926,7 @@
 
 <a name="prometheus-2.0.25"></a>
 
-### [prometheus-2.0.25](https://github.com/truecharts/apps/compare/prometheus-2.0.23...prometheus-2.0.25) (2022-03-31)
+### [promeus-2.0.25](https://github.com/truecharts/apps/compare/prometheus-2.0.23...prometheus-2.0.25) (2022-03-31)
 
 #### 聊天
 
@@ -937,7 +937,7 @@
 
 <a name="prometheus-2.0.23"></a>
 
-### [prometheus-2.0.23](https://github.com/truecharts/apps/compare/prometheus-2.0.22...prometheus-2.0.23) (2022-03-30)
+### [promeus-2.0.23](https://github.com/truecharts/apps/compare/prometheus-2.0.22...prometheus-2.0.23) (2022-03-30)
 
 #### 聊天
 
@@ -948,7 +948,7 @@
 
 <a name="prometheus-2.0.22"></a>
 
-### [prometheus-2.0.22](https://github.com/truecharts/apps/compare/prometheus-2.0.21...prometheus-2.0.22) (2022-03-30)
+### [promeus-2.0.22](https://github.com/truecharts/apps/compare/prometheus-2.0.21...prometheus-2.0.22) (2022-03-30)
 
 #### 聊天
 
@@ -959,7 +959,7 @@
 
 <a name="prometheus-2.0.21"></a>
 
-### [prometheus-2.0.21](https://github.com/truecharts/apps/compare/prometheus-2.0.20...prometheus-2.0.21) (2022-03-30)
+### [promeus-2.0.21](https://github.com/truecharts/apps/compare/prometheus-2.0.20...prometheus-2.0.21) (2022-03-30)
 
 #### 聊天
 
@@ -969,7 +969,7 @@
 
 <a name="prometheus-2.0.20"></a>
 
-### [prometheus-2.0.20](https://github.com/truecharts/apps/compare/prometheus-2.0.19...prometheus-2.0.20) (2022-03-30)
+### [promeus-2.0.20](https://github.com/truecharts/apps/compare/prometheus-2.0.19...prometheus-2.0.20) (2022-03-30)
 
 #### 聊天
 
@@ -979,7 +979,7 @@
 
 <a name="prometheus-2.0.19"></a>
 
-### [prometheus-2.0.19](https://github.com/truecharts/apps/compare/prometheus-2.0.18...prometheus-2.0.19) (2022-03-28)
+### [promeus-2.0.19](https://github.com/truecharts/apps/compare/prometheus-2.0.18...prometheus-2.0.19) (2022-03-28)
 
 #### 聊天
 
@@ -989,7 +989,7 @@
 
 <a name="prometheus-2.0.18"></a>
 
-### [prometheus-2.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.6...prometheus-2.0.18) (2022-03-27)
+### [promeus-2.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.6...prometheus-2.0.18) (2022-03-27)
 
 #### 聊天
 
@@ -999,7 +999,7 @@
 
 <a name="prometheus-2.0.17"></a>
 
-### [prometheus-2.0.17](https://github.com/truecharts/apps/compare/prometheus-2.0.16...prometheus-2.0.17) (2022-03-26)
+### [promeus-2.0.17](https://github.com/truecharts/apps/compare/prometheus-2.0.16...prometheus-2.0.17) (2022-03-26)
 
 #### 聊天
 
@@ -1009,7 +1009,7 @@
 
 <a name="prometheus-2.0.15"></a>
 
-### [prometheus-2.0.15](https://github.com/truecharts/apps/compare/prometheus-2.0.14...prometheus-2.0.15) (2022-03-26)
+### [promeus-2.0.15](https://github.com/truecharts/apps/compare/prometheus-2.0.14...prometheus-2.0.15) (2022-03-26)
 
 #### 聊天
 
@@ -1019,7 +1019,7 @@
 
 <a name="prometheus-2.0.14"></a>
 
-### [prometheus-2.0.14](https://github.com/truecharts/apps/compare/prometheus-2.0.13...prometheus-2.0.14) (2022-03-24)
+### [promeus-2.0.14](https://github.com/truecharts/apps/compare/prometheus-2.0.13...prometheus-2.0.14) (2022-03-24)
 
 #### 聊天
 
@@ -1029,7 +1029,7 @@
 
 <a name="prometheus-2.0.13"></a>
 
-### [prometheus-2.0.13](https://github.com/truecharts/apps/compare/prometheus-2.0.12...prometheus-2.0.13) (2022-03-24)
+### [promeus-2.0.13](https://github.com/truecharts/apps/compare/prometheus-2.0.12...prometheus-2.0.13) (2022-03-24)
 
 #### 聊天
 
@@ -1039,7 +1039,7 @@
 
 <a name="prometheus-2.0.12"></a>
 
-### [prometheus-2.0.12](https://github.com/truecharts/apps/compare/prometheus-2.0.11...prometheus-2.0.12) (2022-03-23)
+### [promeus-2.0.12](https://github.com/truecharts/apps/compare/prometheus-2.0.11...prometheus-2.0.12) (2022-03-23)
 
 #### 聊天
 
@@ -1050,7 +1050,7 @@
 
 <a name="prometheus-2.0.10"></a>
 
-### [prometheus-2.0.10](https://github.com/truecharts/apps/compare/prometheus-2.0.9...prometheus-2.0.10) (2022-03-20)
+### [promeus-2.0.10](https://github.com/truecharts/apps/compare/prometheus-2.0.9...prometheus-2.0.10) (2022-03-20)
 
 #### 聊天
 
@@ -1061,7 +1061,7 @@
 
 <a name="prometheus-2.0.8"></a>
 
-### [prometheus-2.0.8](https://github.com/truecharts/apps/compare/prometheus-2.0.7...prometheus-2.0.8) (2022-03-17)
+### [promeus-2.0.8](https://github.com/truecharts/apps/compare/prometheus-2.0.7...prometheus-2.0.8) (2022-03-17)
 
 #### 聊天
 
@@ -1071,7 +1071,7 @@
 
 <a name="prometheus-2.0.7"></a>
 
-### [prometheus-2.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.2...prometheus-2.0.7) (2022-03-17)
+### [promeus-2.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.2...prometheus-2.0.7) (2022-03-17)
 
 #### 聊天
 
@@ -1082,7 +1082,7 @@
 
 <a name="prometheus-2.0.5"></a>
 
-### [prometheus-2.0.5](https://github.com/truecharts/apps/compare/prometheus-2.0.4...prometheus-2.0.5) (2022-03-15)
+### [promeus-2.0.5](https://github.com/truecharts/apps/compare/prometheus-2.0.4...prometheus-2.0.5) (2022-03-15)
 
 #### 聊天
 
@@ -1092,7 +1092,7 @@
 
 <a name="prometheus-2.0.4"></a>
 
-### [prometheus-2.0.4](https://github.com/truecharts/apps/compare/prometheus-2.0.3...prometheus-2.0.4) (2022-03-15)
+### [promeus-2.0.4](https://github.com/truecharts/apps/compare/prometheus-2.0.3...prometheus-2.0.4) (2022-03-15)
 
 #### 聊天
 
@@ -1102,7 +1102,7 @@
 
 <a name="prometheus-2.0.3"></a>
 
-### [prometheus-2.0.3](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.1...prometheus-2.0.3) (2022-03-08)
+### [promeus-2.0.3](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.1...prometheus-2.0.3) (2022-03-08)
 
 #### 聊天
 
@@ -1112,7 +1112,7 @@
 
 <a name="prometheus-2.0.2"></a>
 
-### [prometheus-2.0.2](https://github.com/truecharts/apps/compare/prometheus-2.0.1...prometheus-2.0.2) (2022-03-07)
+### [promeus-2.0.2](https://github.com/truecharts/apps/compare/prometheus-2.0.1...prometheus-2.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -1123,7 +1123,7 @@
 
 <a name="prometheus-2.0.1"></a>
 
-### [prometheus-2.0.1](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.0...prometheus-2.0.1) (2022-03-07)
+### [promeus-2.0.1](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.0...prometheus-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -1134,18 +1134,18 @@
 
 <a name="prometheus-2.0.0"></a>
 
-### [prometheus-2.0.0](https://github.com/truecharts/apps/compare/prometheus-1.1.73...prometheus-2.0.0) (2022-03-03)
+### [promeus-2.0.0](https://github.com/truecharts/apps/compare/prometheus-1.1.73...prometheus-2.0.0) (2022-03-03)
 
 #### 聊天
 
 * 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
-* update docker general non-major ([#2008](https://github.com/truecharts/apps/issues/2008))
+* 更新一般的非主码([#2008](https://github.com/truecharts/apps/issues/2008))
 
 
 
 <a name="prometheus-1.1.73"></a>
 
-### [prometheus-1.1.73](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.23...prometheus-1.1.73) (2022-03-03)
+### [promeus-1.1.73](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.23...prometheus-1.1.73) (2022-03-03)
 
 #### 聊天
 
@@ -1155,7 +1155,7 @@
 
 <a name="prometheus-1.1.72"></a>
 
-### [prometheus-1.1.72](https://github.com/truecharts/apps/compare/prometheus-1.1.71...prometheus-1.1.72) (2022-03-02)
+### [promeus-1.1.72](https://github.com/truecharts/apps/compare/prometheus-1.1.71...prometheus-1.1.72) (2022-03-02)
 
 #### 聊天
 
@@ -1165,17 +1165,17 @@
 
 <a name="prometheus-1.1.71"></a>
 
-### [prometheus-1.1.71](https://github.com/truecharts/apps/compare/prometheus-1.1.70...prometheus-1.1.71) (2022-02-28)
+### [promeus-1.1.71](https://github.com/truecharts/apps/compare/prometheus-1.1.70...prometheus-1.1.71) (2022-02-28)
 
 #### 聊天
 
-* update docker general non-major ([#1983](https://github.com/truecharts/apps/issues/1983))
+* 更新一般的非主码([#1983](https://github.com/truecharts/apps/issues/1983))
 
 
 
 <a name="prometheus-1.1.70"></a>
 
-### [prometheus-1.1.70](https://github.com/truecharts/apps/compare/prometheus-1.1.69...prometheus-1.1.70) (2022-02-28)
+### [promeus-1.1.70](https://github.com/truecharts/apps/compare/prometheus-1.1.69...prometheus-1.1.70) (2022-02-28)
 
 #### 聊天
 
@@ -1185,17 +1185,17 @@
 
 <a name="prometheus-1.1.69"></a>
 
-### [prometheus-1.1.69](https://github.com/truecharts/apps/compare/prometheus-1.1.68...prometheus-1.1.69) (2022-02-26)
+### [promeus-1.1.69](https://github.com/truecharts/apps/compare/prometheus-1.1.68...prometheus-1.1.69) (2022-02-26)
 
 #### 修复
 
-* enable hostNetworking and change port ([#1969](https://github.com/truecharts/apps/issues/1969))
+* 启用主机网络并更改端口[#1969](https://github.com/truecharts/apps/issues/1969)
 
 
 
 <a name="prometheus-1.1.68"></a>
 
-### [prometheus-1.1.68](https://github.com/truecharts/apps/compare/prometheus-1.1.67...prometheus-1.1.68) (2022-02-26)
+### [promeus-1.1.68](https://github.com/truecharts/apps/compare/prometheus-1.1.67...prometheus-1.1.68) (2022-02-26)
 
 #### 聊天
 
@@ -1203,23 +1203,23 @@
 
 #### 修复
 
-* don't export node-exporter on host
+* 不要在主机上导出节点导出器
 
 
 
 <a name="prometheus-1.1.67"></a>
 
-### [prometheus-1.1.67](https://github.com/truecharts/apps/compare/prometheus-1.1.66...prometheus-1.1.67) (2022-02-22)
+### [promeus-1.1.67](https://github.com/truecharts/apps/compare/prometheus-1.1.66...prometheus-1.1.67) (2022-02-22)
 
 #### 聊天
 
-* update helm general non-major helm releases ([#1932](https://github.com/truecharts/apps/issues/1932))
+* 更新头盔的一般非主头盔版本([#1932](https://github.com/truecharts/apps/issues/1932))
 
 
 
 <a name="prometheus-1.1.66"></a>
 
-### [prometheus-1.1.66](https://github.com/truecharts/apps/compare/prometheus-1.1.65...prometheus-1.1.66) (2022-02-21)
+### [promeus-1.1.66](https://github.com/truecharts/apps/compare/prometheus-1.1.65...prometheus-1.1.66) (2022-02-21)
 
 #### 聊天
 
@@ -1229,7 +1229,7 @@
 
 <a name="prometheus-1.1.65"></a>
 
-### [prometheus-1.1.65](https://github.com/truecharts/apps/compare/prometheus-1.1.64...prometheus-1.1.65) (2022-02-21)
+### [promeus-1.1.65](https://github.com/truecharts/apps/compare/prometheus-1.1.64...prometheus-1.1.65) (2022-02-21)
 
 #### 聊天
 
@@ -1239,7 +1239,7 @@
 
 <a name="prometheus-1.1.64"></a>
 
-### [prometheus-1.1.64](https://github.com/truecharts/apps/compare/prometheus-1.1.63...prometheus-1.1.64) (2022-02-15)
+### [promeus-1.1.64](https://github.com/truecharts/apps/compare/prometheus-1.1.63...prometheus-1.1.64) (2022-02-15)
 
 #### 聊天
 
@@ -1249,7 +1249,7 @@
 
 <a name="prometheus-1.1.63"></a>
 
-### [prometheus-1.1.63](https://github.com/truecharts/apps/compare/prometheus-1.1.62...prometheus-1.1.63) (2022-02-14)
+### [promeus-1.1.63](https://github.com/truecharts/apps/compare/prometheus-1.1.62...prometheus-1.1.63) (2022-02-14)
 
 #### 聊天
 
@@ -1259,7 +1259,7 @@
 
 <a name="prometheus-1.1.62"></a>
 
-### [prometheus-1.1.62](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.20...prometheus-1.1.62) (2022-02-10)
+### [promeus-1.1.62](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.20...prometheus-1.1.62) (2022-02-10)
 
 #### 聊天
 
@@ -1269,7 +1269,7 @@
 
 <a name="prometheus-1.1.61"></a>
 
-### [prometheus-1.1.61](https://github.com/truecharts/apps/compare/prometheus-1.1.60...prometheus-1.1.61) (2022-02-08)
+### [promeus-1.1.61](https://github.com/truecharts/apps/compare/prometheus-1.1.60...prometheus-1.1.61) (2022-02-08)
 
 #### 聊天
 
@@ -1279,7 +1279,7 @@
 
 <a name="prometheus-1.1.60"></a>
 
-### [prometheus-1.1.60](https://github.com/truecharts/apps/compare/prometheus-1.1.59...prometheus-1.1.60) (2022-02-08)
+### [promeus-1.60](https://github.com/truecharts/apps/compare/prometheus-1.1.59...prometheus-1.1.60) (2022-02-08)
 
 #### 聊天
 
@@ -1289,7 +1289,7 @@
 
 <a name="prometheus-1.1.59"></a>
 
-### [prometheus-1.1.59](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.19...prometheus-1.1.59) (2022-02-07)
+### [promeus-1.1.59](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.19...prometheus-1.1.59) (2022-02-07)
 
 #### 聊天
 
@@ -1299,7 +1299,7 @@
 
 <a name="prometheus-1.1.58"></a>
 
-### [prometheus-1.1.58](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.18...prometheus-1.1.58) (2022-02-06)
+### [promeus-1.1.58](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.18...prometheus-1.1.58) (2022-02-06)
 
 #### 聊天
 
@@ -1310,7 +1310,7 @@
 
 <a name="prometheus-1.1.57"></a>
 
-### [prometheus-1.1.57](https://github.com/truecharts/apps/compare/prometheus-1.1.56...prometheus-1.1.57) (2022-02-05)
+### [promeus-1.1.57](https://github.com/truecharts/apps/compare/prometheus-1.1.56...prometheus-1.1.57) (2022-02-05)
 
 #### 聊天
 
@@ -1321,7 +1321,7 @@
 
 <a name="prometheus-1.1.56"></a>
 
-### [prometheus-1.1.56](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.17...prometheus-1.1.56) (2022-02-03)
+### [promeus-1.1.56](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.17...prometheus-1.1.56) (2022-02-03)
 
 #### 聊天
 
@@ -1331,7 +1331,7 @@
 
 <a name="prometheus-1.1.55"></a>
 
-### [prometheus-1.1.55](https://github.com/truecharts/apps/compare/prometheus-1.1.54...prometheus-1.1.55) (2022-02-02)
+### [promeus-1.1.55](https://github.com/truecharts/apps/compare/prometheus-1.1.54...prometheus-1.1.55) (2022-02-02)
 
 #### 聊天
 
@@ -1341,7 +1341,7 @@
 
 <a name="prometheus-1.1.54"></a>
 
-### [prometheus-1.1.54](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.16...prometheus-1.1.54) (2022-01-31)
+### [promeus-1.1.54](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.16...prometheus-1.1.54) (2022-01-31)
 
 #### 聊天
 
@@ -1351,7 +1351,7 @@
 
 <a name="prometheus-1.1.53"></a>
 
-### [prometheus-1.1.53](https://github.com/truecharts/apps/compare/prometheus-1.1.52...prometheus-1.1.53) (2022-01-25)
+### [promeus-1.1.53](https://github.com/truecharts/apps/compare/prometheus-1.1.52...prometheus-1.1.53) (2022-01-25)
 
 #### 聊天
 
@@ -1361,7 +1361,7 @@
 
 <a name="prometheus-1.1.52"></a>
 
-### [prometheus-1.1.52](https://github.com/truecharts/apps/compare/prometheus-1.1.51...prometheus-1.1.52) (2022-01-24)
+### [promeus-1.1.52](https://github.com/truecharts/apps/compare/prometheus-1.1.51...prometheus-1.1.52) (2022-01-24)
 
 #### 聊天
 
@@ -1371,7 +1371,7 @@
 
 <a name="prometheus-1.1.51"></a>
 
-### [prometheus-1.1.51](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.15...prometheus-1.1.51) (2022-01-24)
+### [promeus-1.1.51](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.15...prometheus-1.1.51) (2022-01-24)
 
 #### 聊天
 
@@ -1381,7 +1381,7 @@
 
 <a name="prometheus-1.1.50"></a>
 
-### [prometheus-1.1.50](https://github.com/truecharts/apps/compare/prometheus-1.1.49...prometheus-1.1.50) (2022-01-22)
+### [promeus-1.1.50](https://github.com/truecharts/apps/compare/prometheus-1.1.49...prometheus-1.1.50) (2022-01-22)
 
 #### 聊天
 
@@ -1391,7 +1391,7 @@
 
 <a name="prometheus-1.1.49"></a>
 
-### [prometheus-1.1.49](https://github.com/truecharts/apps/compare/prometheus-1.1.48...prometheus-1.1.49) (2022-01-22)
+### [promeus-1.1.49](https://github.com/truecharts/apps/compare/prometheus-1.1.48...prometheus-1.1.49) (2022-01-22)
 
 #### 聊天
 
@@ -1401,7 +1401,7 @@
 
 <a name="prometheus-1.1.48"></a>
 
-### [prometheus-1.1.48](https://github.com/truecharts/apps/compare/prometheus-1.1.47...prometheus-1.1.48) (2022-01-21)
+### [promeus-1.1.48](https://github.com/truecharts/apps/compare/prometheus-1.1.47...prometheus-1.1.48) (2022-01-21)
 
 #### 聊天
 
@@ -1411,7 +1411,7 @@
 
 <a name="prometheus-1.1.47"></a>
 
-### [prometheus-1.1.47](https://github.com/truecharts/apps/compare/prometheus-1.1.46...prometheus-1.1.47) (2022-01-21)
+### [promeus-1.1.47](https://github.com/truecharts/apps/compare/prometheus-1.1.46...prometheus-1.1.47) (2022-01-21)
 
 #### 聊天
 
@@ -1421,7 +1421,7 @@
 
 <a name="prometheus-1.1.46"></a>
 
-### [prometheus-1.1.46](https://github.com/truecharts/apps/compare/prometheus-1.1.45...prometheus-1.1.46) (2022-01-21)
+### [promeus-1.1.46](https://github.com/truecharts/apps/compare/prometheus-1.1.45...prometheus-1.1.46) (2022-01-21)
 
 #### 聊天
 
@@ -1435,7 +1435,7 @@
 
 <a name="prometheus-1.1.45"></a>
 
-### [prometheus-1.1.45](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.13...prometheus-1.1.45) (2022-01-19)
+### [promeus-1.1.45](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.13...prometheus-1.1.45) (2022-01-19)
 
 #### 聊天
 
@@ -1445,7 +1445,7 @@
 
 <a name="prometheus-1.1.43"></a>
 
-### [prometheus-1.1.43](https://github.com/truecharts/apps/compare/prometheus-1.1.42...prometheus-1.1.43) (2022-01-17)
+### [promeus-1.1.43](https://github.com/truecharts/apps/compare/prometheus-1.1.42...prometheus-1.1.43) (2022-01-17)
 
 #### 聊天
 
@@ -1455,7 +1455,7 @@
 
 <a name="prometheus-1.1.42"></a>
 
-### [prometheus-1.1.42](https://github.com/truecharts/apps/compare/prometheus-1.1.41...prometheus-1.1.42) (2022-01-13)
+### [promeus-1.1.42](https://github.com/truecharts/apps/compare/prometheus-1.1.41...prometheus-1.1.42) (2022-01-13)
 
 #### 聊天
 
@@ -1465,7 +1465,7 @@
 
 <a name="prometheus-1.1.41"></a>
 
-### [prometheus-1.1.41](https://github.com/truecharts/apps/compare/prometheus-1.1.40...prometheus-1.1.41) (2022-01-12)
+### [promeus-1.1.41](https://github.com/truecharts/apps/compare/prometheus-1.1.40...prometheus-1.1.41) (2022-01-12)
 
 #### 聊天
 
@@ -1475,7 +1475,7 @@
 
 <a name="prometheus-1.1.40"></a>
 
-### [prometheus-1.1.40](https://github.com/truecharts/apps/compare/prometheus-1.1.39...prometheus-1.1.40) (2022-01-11)
+### [promeus-1.1.40](https://github.com/truecharts/apps/compare/prometheus-1.1.39...prometheus-1.1.40) (2022-01-11)
 
 #### 聊天
 
@@ -1485,7 +1485,7 @@
 
 <a name="prometheus-1.1.39"></a>
 
-### [prometheus-1.1.39](https://github.com/truecharts/apps/compare/prometheus-1.1.38...prometheus-1.1.39) (2022-01-10)
+### [promeus-1.1.39](https://github.com/truecharts/apps/compare/prometheus-1.1.38...prometheus-1.1.39) (2022-01-10)
 
 #### 聊天
 
@@ -1495,7 +1495,7 @@
 
 <a name="prometheus-1.1.38"></a>
 
-### [prometheus-1.1.38](https://github.com/truecharts/apps/compare/prometheus-1.1.37...prometheus-1.1.38) (2022-01-10)
+### [promeus-1.1.38](https://github.com/truecharts/apps/compare/prometheus-1.1.37...prometheus-1.1.38) (2022-01-10)
 
 #### 聊天
 
@@ -1505,7 +1505,7 @@
 
 <a name="prometheus-1.1.37"></a>
 
-### [prometheus-1.1.37](https://github.com/truecharts/apps/compare/prometheus-1.1.36...prometheus-1.1.37) (2022-01-10)
+### [promeus-1.1.37](https://github.com/truecharts/apps/compare/prometheus-1.1.36...prometheus-1.1.37) (2022-01-10)
 
 #### 聊天
 
@@ -1515,7 +1515,7 @@
 
 <a name="prometheus-1.1.36"></a>
 
-### [prometheus-1.1.36](https://github.com/truecharts/apps/compare/prometheus-1.1.35...prometheus-1.1.36) (2022-01-09)
+### [promeus-1.1.36](https://github.com/truecharts/apps/compare/prometheus-1.1.35...prometheus-1.1.36) (2022-01-09)
 
 #### 修复
 
@@ -1525,7 +1525,7 @@
 
 <a name="prometheus-1.1.35"></a>
 
-### [prometheus-1.1.35](https://github.com/truecharts/apps/compare/prometheus-1.1.34...prometheus-1.1.35) (2022-01-04)
+### [promeus-1.1.35](https://github.com/truecharts/apps/compare/prometheus-1.1.34...prometheus-1.1.35) (2022-01-04)
 
 #### 聊天
 
@@ -1535,7 +1535,7 @@
 
 <a name="prometheus-1.1.34"></a>
 
-### [prometheus-1.1.34](https://github.com/truecharts/apps/compare/prometheus-1.1.33...prometheus-1.1.34) (2022-01-04)
+### [promeus-1.1.34](https://github.com/truecharts/apps/compare/prometheus-1.1.33...prometheus-1.1.34) (2022-01-04)
 
 #### 聊天
 
@@ -1545,7 +1545,7 @@
 
 <a name="prometheus-1.1.33"></a>
 
-### [prometheus-1.1.33](https://github.com/truecharts/apps/compare/prometheus-1.1.32...prometheus-1.1.33) (2022-01-03)
+### [promeus-1.1.33](https://github.com/truecharts/apps/compare/prometheus-1.1.32...prometheus-1.1.33) (2022-01-03)
 
 #### 聊天
 
@@ -1555,7 +1555,7 @@
 
 <a name="prometheus-1.1.32"></a>
 
-### [prometheus-1.1.32](https://github.com/truecharts/apps/compare/prometheus-1.1.31...prometheus-1.1.32) (2021-12-28)
+### [promeus-1.1.32](https://github.com/truecharts/apps/compare/prometheus-1.1.31...prometheus-1.1.32) (2021-12-28)
 
 #### 聊天
 
@@ -1565,7 +1565,7 @@
 
 <a name="prometheus-1.1.31"></a>
 
-### [prometheus-1.1.31](https://github.com/truecharts/apps/compare/prometheus-1.1.30...prometheus-1.1.31) (2021-12-27)
+### [promeus-1.31](https://github.com/truecharts/apps/compare/prometheus-1.1.30...prometheus-1.1.31) (2021-12-27)
 
 #### 聊天
 
@@ -1575,17 +1575,17 @@
 
 <a name="prometheus-1.1.30"></a>
 
-### [prometheus-1.1.30](https://github.com/truecharts/apps/compare/prometheus-1.1.29...prometheus-1.1.30) (2021-12-26)
+### [promeus-1.1.30](https://github.com/truecharts/apps/compare/prometheus-1.1.29...prometheus-1.1.30) (2021-12-26)
 
 #### 修复
 
-* fix default ingress on traefik ([#1614](https://github.com/truecharts/apps/issues/1614))
+* 修复托盘上的默认收件人([#1614](https://github.com/truecharts/apps/issues/1614))
 
 
 
 <a name="prometheus-1.1.29"></a>
 
-### [prometheus-1.1.29](https://github.com/truecharts/apps/compare/prometheus-1.1.28...prometheus-1.1.29) (2021-12-24)
+### [promeus-1.1.29](https://github.com/truecharts/apps/compare/prometheus-1.1.28...prometheus-1.1.29) (2021-12-24)
 
 #### 聊天
 
@@ -1595,7 +1595,7 @@
 
 <a name="prometheus-1.1.28"></a>
 
-### [prometheus-1.1.28](https://github.com/truecharts/apps/compare/prometheus-1.1.27...prometheus-1.1.28) (2021-12-24)
+### [promeus-1.28](https://github.com/truecharts/apps/compare/prometheus-1.1.27...prometheus-1.1.28) (2021-12-24)
 
 #### 聊天
 
@@ -1605,7 +1605,7 @@
 
 <a name="prometheus-1.1.27"></a>
 
-### [prometheus-1.1.27](https://github.com/truecharts/apps/compare/prometheus-1.1.26...prometheus-1.1.27) (2021-12-21)
+### [promeus-1.27](https://github.com/truecharts/apps/compare/prometheus-1.1.26...prometheus-1.1.27) (2021-12-21)
 
 #### 聊天
 
@@ -1616,7 +1616,7 @@
 
 <a name="prometheus-1.1.26"></a>
 
-### [prometheus-1.1.26](https://github.com/truecharts/apps/compare/prometheus-1.1.25...prometheus-1.1.26) (2021-12-20)
+### [promeus-1.126](https://github.com/truecharts/apps/compare/prometheus-1.1.25...prometheus-1.1.26) (2021-12-20)
 
 #### 聊天
 
@@ -1626,7 +1626,7 @@
 
 <a name="prometheus-1.1.25"></a>
 
-### [prometheus-1.1.25](https://github.com/truecharts/apps/compare/prometheus-1.1.24...prometheus-1.1.25) (2021-12-20)
+### [promeus-1.125](https://github.com/truecharts/apps/compare/prometheus-1.1.24...prometheus-1.1.25) (2021-12-20)
 
 #### 聊天
 
@@ -1636,7 +1636,7 @@
 
 <a name="prometheus-1.1.24"></a>
 
-### [prometheus-1.1.24](https://github.com/truecharts/apps/compare/prometheus-1.1.23...prometheus-1.1.24) (2021-12-20)
+### [promeus-1.12.24](https://github.com/truecharts/apps/compare/prometheus-1.1.23...prometheus-1.1.24) (2021-12-20)
 
 #### 聊天
 
@@ -1646,7 +1646,7 @@
 
 <a name="prometheus-1.1.23"></a>
 
-### [prometheus-1.1.23](https://github.com/truecharts/apps/compare/prometheus-1.1.22...prometheus-1.1.23) (2021-12-19)
+### [promeus-1.12.23](https://github.com/truecharts/apps/compare/prometheus-1.1.22...prometheus-1.1.23) (2021-12-19)
 
 #### 聊天
 
@@ -1656,7 +1656,7 @@
 
 <a name="prometheus-1.1.22"></a>
 
-### [prometheus-1.1.22](https://github.com/truecharts/apps/compare/prometheus-1.1.21...prometheus-1.1.22) (2021-12-19)
+### [promeus-1.12.22](https://github.com/truecharts/apps/compare/prometheus-1.1.21...prometheus-1.1.22) (2021-12-19)
 
 #### 聊天
 
@@ -1666,7 +1666,7 @@
 
 <a name="prometheus-1.1.21"></a>
 
-### [prometheus-1.1.21](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.4...prometheus-1.1.21) (2021-12-19)
+### [promeus-1.21](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.4...prometheus-1.1.21) (2021-12-19)
 
 #### 聊天
 
@@ -1676,7 +1676,7 @@
 
 <a name="prometheus-1.1.20"></a>
 
-### [prometheus-1.1.20](https://github.com/truecharts/apps/compare/prometheus-1.1.19...prometheus-1.1.20) (2021-12-14)
+### [promeus-1.20](https://github.com/truecharts/apps/compare/prometheus-1.1.19...prometheus-1.1.20) (2021-12-14)
 
 #### 聊天
 
@@ -1686,7 +1686,7 @@
 
 <a name="prometheus-1.1.19"></a>
 
-### [prometheus-1.1.19](https://github.com/truecharts/apps/compare/prometheus-1.1.18...prometheus-1.1.19) (2021-12-13)
+### [promeus-1.19](https://github.com/truecharts/apps/compare/prometheus-1.1.18...prometheus-1.1.19) (2021-12-13)
 
 #### 聊天
 
@@ -1696,7 +1696,7 @@
 
 <a name="prometheus-1.1.18"></a>
 
-### [prometheus-1.1.18](https://github.com/truecharts/apps/compare/prometheus-1.1.17...prometheus-1.1.18) (2021-12-13)
+### [promeus-1.1.18](https://github.com/truecharts/apps/compare/prometheus-1.1.17...prometheus-1.1.18) (2021-12-13)
 
 #### 聊天
 
@@ -1706,7 +1706,7 @@
 
 <a name="prometheus-1.1.17"></a>
 
-### [prometheus-1.1.17](https://github.com/truecharts/apps/compare/prometheus-1.1.16...prometheus-1.1.17) (2021-12-13)
+### [promeus-1.17](https://github.com/truecharts/apps/compare/prometheus-1.1.16...prometheus-1.1.17) (2021-12-13)
 
 #### 聊天
 
@@ -1716,7 +1716,7 @@
 
 <a name="prometheus-1.1.16"></a>
 
-### [prometheus-1.1.16](https://github.com/truecharts/apps/compare/prometheus-1.1.15...prometheus-1.1.16) (2021-12-12)
+### [promeus-1.16](https://github.com/truecharts/apps/compare/prometheus-1.1.15...prometheus-1.1.16) (2021-12)
 
 #### 聊天
 
@@ -1726,7 +1726,7 @@
 
 <a name="prometheus-1.1.15"></a>
 
-### [prometheus-1.1.15](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.0...prometheus-1.1.15) (2021-12-11)
+### [promeus-1.15](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.0...prometheus-1.1.15) (2021-12-11)
 
 #### 聊天
 
@@ -1736,7 +1736,7 @@
 
 <a name="prometheus-1.1.14"></a>
 
-### [prometheus-1.1.14](https://github.com/truecharts/apps/compare/prometheus-1.1.13...prometheus-1.1.14) (2021-12-11)
+### [promeus-1.1.14](https://github.com/truecharts/apps/compare/prometheus-1.1.13...prometheus-1.1.14) (2021-12-11)
 
 #### 聊天
 
@@ -1746,7 +1746,7 @@
 
 <a name="prometheus-1.1.13"></a>
 
-### [prometheus-1.1.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.9...prometheus-1.1.13) (2021-12-08)
+### [promeus-1.1.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.9...prometheus-1.1.13) (2021-12-08)
 
 #### 聊天
 
@@ -1756,7 +1756,7 @@
 
 <a name="prometheus-1.1.12"></a>
 
-### [prometheus-1.1.12](https://github.com/truecharts/apps/compare/prometheus-1.1.11...prometheus-1.1.12) (2021-12-07)
+### [promeus-1.12](https://github.com/truecharts/apps/compare/prometheus-1.1.11...prometheus-1.1.12) (2021-12-07)
 
 #### 聊天
 
@@ -1766,7 +1766,7 @@
 
 <a name="prometheus-1.1.11"></a>
 
-### [prometheus-1.1.11](https://github.com/truecharts/apps/compare/prometheus-1.1.10...prometheus-1.1.11) (2021-12-07)
+### [promeus-1.11.1](https://github.com/truecharts/apps/compare/prometheus-1.1.10...prometheus-1.1.11) (2021-12-07)
 
 #### 聊天
 
@@ -1776,7 +1776,7 @@
 
 <a name="prometheus-1.1.10"></a>
 
-### [prometheus-1.1.10](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.8...prometheus-1.1.10) (2021-12-07)
+### [promeus-1.10](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.8...prometheus-1.1.10) (2021-12-07)
 
 #### 聊天
 
@@ -1786,7 +1786,7 @@
 
 <a name="prometheus-1.1.9"></a>
 
-### prometheus-1.1.9 (2021-12-05)
+### Prometheus-1.1.9 (2021-12-05)
 
 #### 聊天
 
@@ -1809,7 +1809,7 @@
 
 <a name="prometheus-1.1.8"></a>
 
-### [prometheus-1.1.8](https://github.com/truecharts/apps/compare/prometheus-1.1.7...prometheus-1.1.8) (2021-12-05)
+### [promeus-1.8](https://github.com/truecharts/apps/compare/prometheus-1.1.7...prometheus-1.1.8) (2021-12-05)
 
 #### 聊天
 
@@ -1819,7 +1819,7 @@
 
 <a name="prometheus-1.1.7"></a>
 
-### [prometheus-1.1.7](https://github.com/truecharts/apps/compare/prometheus-1.1.6...prometheus-1.1.7) (2021-12-05)
+### [promeus-1.1.7](https://github.com/truecharts/apps/compare/prometheus-1.1.6...prometheus-1.1.7) (2021-12-05)
 
 #### 聊天
 
@@ -1829,7 +1829,7 @@
 
 <a name="prometheus-1.1.6"></a>
 
-### [prometheus-1.1.6](https://github.com/truecharts/apps/compare/prometheus-1.1.5...prometheus-1.1.6) (2021-12-04)
+### [promeus-1.6](https://github.com/truecharts/apps/compare/prometheus-1.1.5...prometheus-1.1.6) (2021-12-04)
 
 #### 聊天
 
@@ -1839,7 +1839,7 @@
 
 <a name="prometheus-1.1.5"></a>
 
-### [prometheus-1.1.5](https://github.com/truecharts/apps/compare/prometheus-1.1.4...prometheus-1.1.5) (2021-12-04)
+### [promeus-1.1.5](https://github.com/truecharts/apps/compare/prometheus-1.1.4...prometheus-1.1.5) (2021-12-04)
 
 #### 聊天
 
@@ -1849,7 +1849,7 @@
 
 <a name="prometheus-1.1.4"></a>
 
-### [prometheus-1.1.4](https://github.com/truecharts/apps/compare/prometheus-1.1.3...prometheus-1.1.4) (2021-12-03)
+### [promeus-1.1.4](https://github.com/truecharts/apps/compare/prometheus-1.1.3...prometheus-1.1.4) (2021-12-03)
 
 #### 聊天
 
@@ -1861,7 +1861,7 @@
 
 <a name="prometheus-1.1.3"></a>
 
-### [prometheus-1.1.3](https://github.com/truecharts/apps/compare/prometheus-1.1.2...prometheus-1.1.3) (2021-11-30)
+### [promeus-1.1.3](https://github.com/truecharts/apps/compare/prometheus-1.1.2...prometheus-1.1.3) (2021-11-30)
 
 #### 聊天
 
@@ -1871,7 +1871,7 @@
 
 <a name="prometheus-1.1.2"></a>
 
-### [prometheus-1.1.2](https://github.com/truecharts/apps/compare/prometheus-1.1.1...prometheus-1.1.2) (2021-11-30)
+### [promeus-1.2](https://github.com/truecharts/apps/compare/prometheus-1.1.1...prometheus-1.1.2) (2021-11-30)
 
 #### 聊天
 
@@ -1882,51 +1882,51 @@
 
 <a name="prometheus-1.1.0"></a>
 
-### [prometheus-1.1.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.0...prometheus-1.1.0) (2021-11-25)
+### [promeus-1.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.0...prometheus-1.1.0) (2021-11-25)
 
 #### Feat
 
-* add more default exporters to prometheus ([#1406](https://github.com/truecharts/apps/issues/1406))
+* 添加更多默认的导出器 ([#1406](https://github.com/truecharts/apps/issues/1406))
 
 
 
 <a name="prometheus-1.0.1"></a>
 
-### [prometheus-1.0.1](https://github.com/truecharts/apps/compare/prometheus-1.0.0...prometheus-1.0.1) (2021-11-24)
+### [promeus-1.0.1](https://github.com/truecharts/apps/compare/prometheus-1.0.0...prometheus-1.0.1) (2021-11-24)
 
 #### 聊天
 
-* bump version
+* bump 版本
 
 #### 修复
 
-* correctly digest pin the containers
+* 正确消化引脚容器
 
 
 
 <a name="prometheus-1.0.0"></a>
 
-### [prometheus-1.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-0.0.1...prometheus-1.0.0) (2021-11-24)
+### [promeus-1.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-0.0.1...prometheus-1.0.0) (2021-11-24)
 
 #### Feat
 
-* add more config options to GUI ([#1398](https://github.com/truecharts/apps/issues/1398))
+* 添加更多配置选项到图形界面([#1398](https://github.com/truecharts/apps/issues/1398))
 
 
 
 <a name="prometheus-0.0.10"></a>
 
-### [prometheus-0.0.10](https://github.com/truecharts/apps/compare/prometheus-0.0.9...prometheus-0.0.10) (2021-11-23)
+### [promeus-0.0.10](https://github.com/truecharts/apps/compare/prometheus-0.0.9...prometheus-0.0.10) (2021-11-23)
 
 #### 修复
 
-* correct port reference for alertmanager
+* 警报管理器的正确端口参考
 
 
 
 <a name="prometheus-0.0.9"></a>
 
-### [prometheus-0.0.9](https://github.com/truecharts/apps/compare/prometheus-0.0.8...prometheus-0.0.9) (2021-11-23)
+### [promeus-0.0.9](https://github.com/truecharts/apps/compare/prometheus-0.0.8...prometheus-0.0.9) (2021-11-23)
 
 #### 聊天
 
@@ -1936,32 +1936,32 @@
 
 <a name="prometheus-0.0.8"></a>
 
-### [prometheus-0.0.8](https://github.com/truecharts/apps/compare/prometheus-0.0.5...prometheus-0.0.8) (2021-11-22)
+### [promeus-0.0.8](https://github.com/truecharts/apps/compare/prometheus-0.0.5...prometheus-0.0.8) (2021-11-22)
 
 #### 聊天
 
 * 更新非主要背包头盔版本([#1383](https://github.com/truecharts/apps/issues/1383))
-* don't allow config of promop service and remove reminants
+* 不允许对促销服务进行配置并删除提醒
 
 #### 修复
 
-* use correct port for alertmanager probe
+* 使用正确的端口作为警报管理器探测器
 
 
 
 <a name="prometheus-0.0.5"></a>
 
-### [prometheus-0.0.5](https://github.com/truecharts/apps/compare/prometheus-0.0.4...prometheus-0.0.5) (2021-11-22)
+### [promeus-0.0.5](https://github.com/truecharts/apps/compare/prometheus-0.0.4...prometheus-0.0.5) (2021-11-22)
 
 #### 修复
 
-* migrate away services
+* 迁移离开服务
 
 
 
 <a name="prometheus-0.0.4"></a>
 
-### [prometheus-0.0.4](https://github.com/truecharts/apps/compare/prometheus-0.0.3...prometheus-0.0.4) (2021-11-22)
+### [promeus-0.0.4](https://github.com/truecharts/apps/compare/prometheus-0.0.3...prometheus-0.0.4) (2021-11-22)
 
 #### 修复
 
@@ -1971,28 +1971,28 @@
 
 <a name="prometheus-0.0.3"></a>
 
-### [prometheus-0.0.3](https://github.com/truecharts/apps/compare/prometheus-0.0.2...prometheus-0.0.3) (2021-11-22)
+### [promeus-0.0.3](https://github.com/truecharts/apps/compare/prometheus-0.0.2...prometheus-0.0.3) (2021-11-22)
 
 #### 聊天
 
-* some cleanup
+* 一些清理
 
 
 
 <a name="prometheus-0.0.2"></a>
 
-### [prometheus-0.0.2](https://github.com/truecharts/apps/compare/prometheus-0.0.1...prometheus-0.0.2) (2021-11-22)
+### [promeus-0.0.2](https://github.com/truecharts/apps/compare/prometheus-0.0.1...prometheus-0.0.2) (2021-11-22)
 
 #### 修复
 
-* more thoroughly show services on SCALE
+* 在SCALE 上更彻底地显示服务
 
 
 
 <a name="prometheus-0.0.1"></a>
 
-### prometheus-0.0.1 (2021-11-22)
+### promeus-0.0.1 (2021-11-22)
 
 #### 添加
 
-* add prometheus prototype ([#1379](https://github.com/truecharts/apps/issues/1379))
+* 添加 promeeus 原型 ([#1379](https://github.com/truecharts/apps/issues/1379))
