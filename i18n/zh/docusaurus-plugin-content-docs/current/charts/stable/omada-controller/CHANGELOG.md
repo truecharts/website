@@ -668,7 +668,7 @@
 
 #### Feat
 
-* Move to stable ([#2029](https://github.com/truecharts/apps/issues/2029))
+* 移动到稳定的([#2029](https://github.com/truecharts/apps/issues/2029))
 
 #### 修复
 
@@ -729,7 +729,7 @@
 
 #### 修复
 
-* Use correct ports for v5.x and fix typo ([#1962](https://github.com/truecharts/apps/issues/1962))
+* 为 v5.x 和修复类型使用正确的端口([#1962](https://github.com/truecharts/apps/issues/1962))
 
 
 
@@ -931,7 +931,7 @@
 
 #### 聊天
 
-* remove remaining mountPaths from incubator apps ([#1718](https://github.com/truecharts/apps/issues/1718))
+* 从孵化器应用中移除剩余挂载路径([#第1718](https://github.com/truecharts/apps/issues/1718))
 * 更新一般的非主码([#1728](https://github.com/truecharts/apps/issues/1728))
 
 
@@ -986,7 +986,7 @@
 
 #### 聊天
 
-* update docker general major docker tags (major) ([#1678](https://github.com/truecharts/apps/issues/1678))
+* 更新 docker 一般主要停靠标签 (主要) ([#1678](https://github.com/truecharts/apps/issues/1678))
 
 
 
@@ -1125,7 +1125,7 @@
 
 <a name="omada-controller-4.0.28"></a>
 
-### [omada-controller-4.0.28](https://github.com/truecharts/apps/compare/omada-controller-4.0.27...omada-controller-4.0.28) (2021-12-12)
+### [omada-controller-4.0.28](https://github.com/truecharts/apps/compare/omada-controller-4.0.27...omada-controller-4.0.28) (2021-12)
 
 #### 聊天
 
@@ -1355,7 +1355,7 @@
 
 #### 聊天
 
-* Move to incubator and initial fixes
+* 移动到孵化器和初步修复
 
 
 
@@ -1426,7 +1426,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
