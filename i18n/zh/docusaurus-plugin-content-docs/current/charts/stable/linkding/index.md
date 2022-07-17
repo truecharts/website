@@ -1,6 +1,6 @@
 # 链接中
 
-链接是一个简单的书签服务，您可以自行主办。 It's designed be to be minimal, fast and easy.
+链接是一个简单的书签服务，您可以自行主办。 它的设计是最小的、快速的和简单的。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
