@@ -1,52 +1,52 @@
-# Changelog
+# 更新日志
 
 
 ## [postgresql-8.0.38](https://github.com/truecharts/apps/compare/postgresql-8.0.37...postgresql-8.0.38) (2022-07-17)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3198](https://github.com/truecharts/apps/issues/3198))
+- 更新一般的非主码([#3198](https://github.com/truecharts/apps/issues/3198))
 
 
 
 ## [postgresql-8.0.37](https://github.com/truecharts/apps/compare/postgresql-8.0.36...postgresql-8.0.37) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [postgresql-8.0.36](https://github.com/truecharts/apps/compare/postgresql-8.0.34...postgresql-8.0.36) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [postgresql-8.0.34](https://github.com/truecharts/apps/compare/postgresql-8.0.33...postgresql-8.0.34) (2022-07-13)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3157](https://github.com/truecharts/apps/issues/3157))
+- 更新一般的非主码([#3157](https://github.com/truecharts/apps/issues/3157))
 
 
 
 ## [postgresql-8.0.33](https://github.com/truecharts/apps/compare/postgresql-8.0.31...postgresql-8.0.33) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [postgresql-8.0.31](https://github.com/truecharts/apps/compare/postgresql-8.0.30...postgresql-8.0.31) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -66,10 +66,10 @@
 
 ### [postgresql-8.0.28](https://github.com/truecharts/apps/compare/postgresql-8.0.27...postgresql-8.0.28) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
-* update helm chart common to v10.4.3 ([#3137](https://github.com/truecharts/apps/issues/3137))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 更新通用的 v10.4.3 头盔图表([#3137](https://github.com/truecharts/apps/issues/3137))
 
 
 
@@ -77,9 +77,9 @@
 
 ### [postgresql-8.0.27](https://github.com/truecharts/apps/compare/postgresql-8.0.26...postgresql-8.0.27) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.4.2
+* 更新通用的 v10.4.2 头盔图
 
 
 
@@ -87,10 +87,10 @@
 
 ### [postgresql-8.0.26](https://github.com/truecharts/apps/compare/postgresql-8.0.25...postgresql-8.0.26) (2022-07-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.4.0 ([#3123](https://github.com/truecharts/apps/issues/3123))
-* update docker general non-major ([#3115](https://github.com/truecharts/apps/issues/3115))
+* 更新通用的 v10.4.0 头盔图表([#3123](https://github.com/truecharts/apps/issues/3123))
+* 更新一般的非主要泊车位([#3115](https://github.com/truecharts/apps/issues/3115))
 
 
 
@@ -98,9 +98,9 @@
 
 ### [postgresql-8.0.25](https://github.com/truecharts/apps/compare/postgresql-8.0.24...postgresql-8.0.25) (2022-07-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.3.0
+* 更新通用的 v10.3.0 头盔图表
 
 
 
@@ -108,9 +108,9 @@
 
 ### [postgresql-8.0.24](https://github.com/truecharts/apps/compare/postgresql-8.0.23...postgresql-8.0.24) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.2.1 ([#3110](https://github.com/truecharts/apps/issues/3110))
+* 更新通用的 v10.2.1 头盔图表([#310](https://github.com/truecharts/apps/issues/3110))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [postgresql-8.0.23](https://github.com/truecharts/apps/compare/postgresql-8.0.22...postgresql-8.0.23) (2022-07-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3089](https://github.com/truecharts/apps/issues/3089))
+* 更新一般的非主基座([#3089](https://github.com/truecharts/apps/issues/3089))
 
 
 
@@ -128,9 +128,9 @@
 
 ### [postgresql-8.0.22](https://github.com/truecharts/apps/compare/postgresql-8.0.21...postgresql-8.0.22) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3071](https://github.com/truecharts/apps/issues/3071))
+* 更新一般的非主基座([#3071](https://github.com/truecharts/apps/issues/3071))
 
 
 
@@ -138,9 +138,9 @@
 
 ### [postgresql-8.0.21](https://github.com/truecharts/apps/compare/postgresql-8.0.20...postgresql-8.0.21) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.2.0 ([#3065](https://github.com/truecharts/apps/issues/3065))
+* 更新通用的 v10.2.0 头盔图表([#3065](https://github.com/truecharts/apps/issues/3065))
 
 
 
@@ -148,9 +148,9 @@
 
 ### [postgresql-8.0.20](https://github.com/truecharts/apps/compare/postgresql-8.0.19...postgresql-8.0.20) (2022-07-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3033](https://github.com/truecharts/apps/issues/3033))
+* 更新一般的非主基座([#3033](https://github.com/truecharts/apps/issues/3033))
 
 
 
@@ -158,10 +158,10 @@
 
 ### [postgresql-8.0.19](https://github.com/truecharts/apps/compare/postgresql-8.0.18...postgresql-8.0.19) (2022-06-29)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3002](https://github.com/truecharts/apps/issues/3002))
-* update docker general non-major ([#2960](https://github.com/truecharts/apps/issues/2960))
+* 更新一般的非主码([#3002](https://github.com/truecharts/apps/issues/3002))
+* 更新一般的非主码([#2960](https://github.com/truecharts/apps/issues/2960))
 
 
 
@@ -169,9 +169,9 @@
 
 ### [postgresql-8.0.18](https://github.com/truecharts/apps/compare/postgresql-8.0.17...postgresql-8.0.18) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.4 ([#2976](https://github.com/truecharts/apps/issues/2976))
+* 更新通用的 v10.1.4 头盔图表([#2976](https://github.com/truecharts/apps/issues/2976))
 
 
 
@@ -179,9 +179,9 @@
 
 ### [postgresql-8.0.17](https://github.com/truecharts/apps/compare/postgresql-8.0.16...postgresql-8.0.17) (2022-06-24)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.2
+* 更新 v10.1.2 共有的头盔图
 
 
 
@@ -189,9 +189,9 @@
 
 ### [postgresql-8.0.16](https://github.com/truecharts/apps/compare/postgresql-8.0.15...postgresql-8.0.16) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.1
+* 更新 v10.1.1 共有的头盔图
 
 
 
@@ -199,9 +199,9 @@
 
 ### [postgresql-8.0.15](https://github.com/truecharts/apps/compare/postgresql-8.0.14...postgresql-8.0.15) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.0
+* 更新通用的 v10.1.0 头盔图表
 
 
 
@@ -209,9 +209,9 @@
 
 ### [postgresql-8.0.14](https://github.com/truecharts/apps/compare/postgresql-8.0.13...postgresql-8.0.14) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2931](https://github.com/truecharts/apps/issues/2931))
+* 更新一般的非主要泊车位([#2931](https://github.com/truecharts/apps/issues/2931))
 
 
 
@@ -219,9 +219,9 @@
 
 ### [postgresql-8.0.13](https://github.com/truecharts/apps/compare/postgresql-8.0.12...postgresql-8.0.13) (2022-06-20)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.15
+* 更新通用的 v10.0.15 头盔图
 
 
 
@@ -229,9 +229,9 @@
 
 ### [postgresql-8.0.12](https://github.com/truecharts/apps/compare/postgresql-8.0.11...postgresql-8.0.12) (2022-06-18)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.14
+* 更新通用的 v10.0.14 头盔图
 
 
 
@@ -239,9 +239,9 @@
 
 ### [postgresql-8.0.11](https://github.com/truecharts/apps/compare/postgresql-8.0.10...postgresql-8.0.11) (2022-06-18)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2927](https://github.com/truecharts/apps/issues/2927))
+* 更新一般的非主码([#2927](https://github.com/truecharts/apps/issues/2927))
 
 
 
@@ -249,9 +249,9 @@
 
 ### [postgresql-8.0.10](https://github.com/truecharts/apps/compare/postgresql-8.0.9...postgresql-8.0.10) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.13
+* 更新通用的 v10.0.13 头盔图表
 
 
 
@@ -259,10 +259,10 @@
 
 ### [postgresql-8.0.9](https://github.com/truecharts/apps/compare/postgresql-8.0.8...postgresql-8.0.9) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2917](https://github.com/truecharts/apps/issues/2917))
-* update helm chart common to v10.0.12
+* 更新一般的非主码([#2917](https://github.com/truecharts/apps/issues/2917))
+* 更新通用的 v10.0.12 头盔图表
 
 
 
@@ -270,13 +270,13 @@
 
 ### [postgresql-8.0.8](https://github.com/truecharts/apps/compare/postgresql-8.0.7...postgresql-8.0.8) (2022-06-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.11 ([#2899](https://github.com/truecharts/apps/issues/2899))
+* 更新通用的 v10.0.11 头盔图表([#2899](https://github.com/truecharts/apps/issues/2899))
 
-#### Fix
+#### 修复
 
-* run as non root ([#2895](https://github.com/truecharts/apps/issues/2895))
+* 运行为非根目录([#2895](https://github.com/truecharts/apps/issues/2895))
 
 
 
@@ -284,9 +284,9 @@
 
 ### [postgresql-8.0.7](https://github.com/truecharts/apps/compare/postgresql-8.0.6...postgresql-8.0.7) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.10 ([#2885](https://github.com/truecharts/apps/issues/2885))
+* 更新通用的 v10.0.10 头盔图表([#2885](https://github.com/truecharts/apps/issues/2885))
 
 
 
@@ -294,9 +294,9 @@
 
 ### [postgresql-8.0.6](https://github.com/truecharts/apps/compare/postgresql-8.0.5...postgresql-8.0.6) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2872](https://github.com/truecharts/apps/issues/2872))
+* 更新一般的非主基座([#2872](https://github.com/truecharts/apps/issues/2872))
 
 
 
@@ -304,9 +304,9 @@
 
 ### [postgresql-8.0.5](https://github.com/truecharts/apps/compare/postgresql-8.0.4...postgresql-8.0.5) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.9 ([#2853](https://github.com/truecharts/apps/issues/2853))
+* 更新通用的 v10.0.9 头盔图表([#2853](https://github.com/truecharts/apps/issues/2853))
 
 
 
@@ -314,10 +314,10 @@
 
 ### [postgresql-8.0.4](https://github.com/truecharts/apps/compare/postgresql-8.0.3...postgresql-8.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update icons ref ([#2851](https://github.com/truecharts/apps/issues/2851))
-* update docker general non-major ([#2848](https://github.com/truecharts/apps/issues/2848))
+* 更新图标参考([#2851](https://github.com/truecharts/apps/issues/2851))
+* 更新一般的非主基座([#2848](https://github.com/truecharts/apps/issues/2848))
 
 
 
@@ -325,9 +325,9 @@
 
 ### [postgresql-8.0.3](https://github.com/truecharts/apps/compare/postgresql-8.0.2...postgresql-8.0.3) (2022-06-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2846](https://github.com/truecharts/apps/issues/2846))
+* 更新一般的非主码([#2846](https://github.com/truecharts/apps/issues/2846))
 
 
 
@@ -335,9 +335,9 @@
 
 ### [postgresql-8.0.2](https://github.com/truecharts/apps/compare/postgresql-8.0.1...postgresql-8.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -345,18 +345,18 @@
 
 ### [postgresql-8.0.1](https://github.com/truecharts/apps/compare/postgresql-7.0.93...postgresql-8.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -364,13 +364,13 @@
 
 ### [postgresql-8.0.0](https://github.com/truecharts/apps/compare/postgresql-7.0.93...postgresql-8.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -378,9 +378,9 @@
 
 ### [postgresql-7.0.93](https://github.com/truecharts/apps/compare/postgresql-7.0.92...postgresql-7.0.93) (2022-06-05)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.29
+* 更新通用的 v9.3.29 头盔图
 
 
 
@@ -388,9 +388,9 @@
 
 ### [postgresql-7.0.92](https://github.com/truecharts/apps/compare/postgresql-7.0.91...postgresql-7.0.92) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2826](https://github.com/truecharts/apps/issues/2826))
+* 更新一般的非主要泊车位([#2826](https://github.com/truecharts/apps/issues/2826))
 
 
 
@@ -398,9 +398,9 @@
 
 ### [postgresql-7.0.91](https://github.com/truecharts/apps/compare/postgresql-7.0.90...postgresql-7.0.91) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.28
+* 更新通用的头盔图 v9.3.28
 
 
 
@@ -408,9 +408,9 @@
 
 ### [postgresql-7.0.90](https://github.com/truecharts/apps/compare/postgresql-7.0.89...postgresql-7.0.90) (2022-06-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2821](https://github.com/truecharts/apps/issues/2821))
+* 更新一般的非主码([#2821](https://github.com/truecharts/apps/issues/2821))
 
 
 
@@ -418,9 +418,9 @@
 
 ### [postgresql-7.0.89](https://github.com/truecharts/apps/compare/postgresql-7.0.88...postgresql-7.0.89) (2022-06-03)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.27
+* 更新通用到v9.3.27的头盔图
 
 
 
@@ -428,9 +428,9 @@
 
 ### [postgresql-7.0.88](https://github.com/truecharts/apps/compare/postgresql-7.0.87...postgresql-7.0.88) (2022-06-02)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.26 ([#2813](https://github.com/truecharts/apps/issues/2813))
+* 更新通用的头盔图表到 v9.3.26([#2813](https://github.com/truecharts/apps/issues/2813))
 
 
 
@@ -438,9 +438,9 @@
 
 ### [postgresql-7.0.87](https://github.com/truecharts/apps/compare/postgresql-7.0.86...postgresql-7.0.87) (2022-06-01)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.25
+* 更新通用的 v9.3.25 头盔图
 
 
 
@@ -448,9 +448,9 @@
 
 ### [postgresql-7.0.86](https://github.com/truecharts/apps/compare/postgresql-7.0.85...postgresql-7.0.86) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2791](https://github.com/truecharts/apps/issues/2791))
+* 更新一般的非主码([#2791](https://github.com/truecharts/apps/issues/2791))
 
 
 
@@ -458,9 +458,9 @@
 
 ### [postgresql-7.0.85](https://github.com/truecharts/apps/compare/postgresql-7.0.84...postgresql-7.0.85) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.24
+* 更新通用的 v9.3.24 头盔图
 
 
 
@@ -468,10 +468,10 @@
 
 ### [postgresql-7.0.84](https://github.com/truecharts/apps/compare/postgresql-7.0.83...postgresql-7.0.84) (2022-05-30)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.23
-* update docker general non-major ([#2762](https://github.com/truecharts/apps/issues/2762))
+* 更新通用到v9.3.23的头盔图
+* 更新一般的非主码([#2762](https://github.com/truecharts/apps/issues/2762))
 
 
 
@@ -479,9 +479,9 @@
 
 ### [postgresql-7.0.83](https://github.com/truecharts/apps/compare/postgresql-7.0.82...postgresql-7.0.83) (2022-05-29)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.22
+* 更新通用到v9.3.22的头盔图
 
 
 
@@ -489,9 +489,9 @@
 
 ### [postgresql-7.0.82](https://github.com/truecharts/apps/compare/postgresql-7.0.81...postgresql-7.0.82) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.20
+* 更新通用到v9.3.20的头盔图
 
 
 
@@ -499,9 +499,9 @@
 
 ### [postgresql-7.0.81](https://github.com/truecharts/apps/compare/postgresql-7.0.80...postgresql-7.0.81) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.19 ([#2758](https://github.com/truecharts/apps/issues/2758))
+* 更新通用到v9.3.19([#2758](https://github.com/truecharts/apps/issues/2758))
 
 
 
@@ -509,9 +509,9 @@
 
 ### [postgresql-7.0.80](https://github.com/truecharts/apps/compare/postgresql-7.0.79...postgresql-7.0.80) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.18 ([#2753](https://github.com/truecharts/apps/issues/2753))
+* 更新通用的头盔图表到 v9.3.18 ([#2753](https://github.com/truecharts/apps/issues/2753))
 
 
 
@@ -519,9 +519,9 @@
 
 ### [postgresql-7.0.79](https://github.com/truecharts/apps/compare/postgresql-7.0.78...postgresql-7.0.79) (2022-05-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2745](https://github.com/truecharts/apps/issues/2745))
+* 更新一般的非主码([#2745](https://github.com/truecharts/apps/issues/2745))
 
 
 
@@ -529,9 +529,9 @@
 
 ### [postgresql-7.0.78](https://github.com/truecharts/apps/compare/postgresql-7.0.77...postgresql-7.0.78) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2744](https://github.com/truecharts/apps/issues/2744))
+* 更新一般的非主码([#2744](https://github.com/truecharts/apps/issues/2744))
 
 
 
@@ -539,9 +539,9 @@
 
 ### [postgresql-7.0.77](https://github.com/truecharts/apps/compare/postgresql-7.0.76...postgresql-7.0.77) (2022-05-20)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2720](https://github.com/truecharts/apps/issues/2720))
+* 更新一般的非主要泊位([#2720](https://github.com/truecharts/apps/issues/2720))
 
 
 
@@ -549,9 +549,9 @@
 
 ### [postgresql-7.0.76](https://github.com/truecharts/apps/compare/postgresql-7.0.75...postgresql-7.0.76) (2022-05-19)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.17 ([#2717](https://github.com/truecharts/apps/issues/2717))
+* 更新通用的头盔图表到 v9.3.17 ([#2717](https://github.com/truecharts/apps/issues/2717))
 
 
 
@@ -559,20 +559,9 @@
 
 ### [postgresql-7.0.75](https://github.com/truecharts/apps/compare/postgresql-7.0.74...postgresql-7.0.75) (2022-05-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2711](https://github.com/truecharts/apps/issues/2711))
-
-
-
-<a name="postgresql-7.0.74"></a>
-
-### [postgresql-7.0.74](https://github.com/truecharts/apps/compare/postgresql-7.0.73...postgresql-7.0.74) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.3.15
+* 更新一般的非主码([#2711](https://github.com/truecharts/apps/issues/2711))
 
 
 
@@ -580,9 +569,20 @@
 
 ### [postgresql-7.0.74](https://github.com/truecharts/apps/compare/postgresql-7.0.73...postgresql-7.0.74) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.15
+* 自动更新README图表 [跳过 ci]
+* 更新通用到v9.3.15的头盔图
+
+
+
+<a name="postgresql-7.0.74"></a>
+
+### [postgresql-7.0.74](https://github.com/truecharts/apps/compare/postgresql-7.0.73...postgresql-7.0.74) (2022-05-17)
+
+#### 聊天
+
+* 更新通用到v9.3.15的头盔图
 
 
 
@@ -590,10 +590,10 @@
 
 ### [postgresql-7.0.73](https://github.com/truecharts/apps/compare/postgresql-7.0.72...postgresql-7.0.73) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2695](https://github.com/truecharts/apps/issues/2695))
-* update helm chart common to v9.3.14
+* 更新一般的非主基座([#2695](https://github.com/truecharts/apps/issues/2695))
+* 更新通用的 v9.3.14 头盔图
 
 
 
@@ -601,9 +601,9 @@
 
 ### [postgresql-7.0.72](https://github.com/truecharts/apps/compare/postgresql-7.0.71...postgresql-7.0.72) (2022-05-16)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2692](https://github.com/truecharts/apps/issues/2692))
+* 更新一般的非主码([#2692](https://github.com/truecharts/apps/issues/2692))
 
 
 
@@ -611,10 +611,10 @@
 
 ### [postgresql-7.0.71](https://github.com/truecharts/apps/compare/postgresql-7.0.70...postgresql-7.0.71) (2022-05-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.13
-* update docker general non-major ([#2686](https://github.com/truecharts/apps/issues/2686))
+* 更新通用的 v9.3.13 头盔图
+* 更新一般的非主码([#2686](https://github.com/truecharts/apps/issues/2686))
 
 
 
@@ -622,10 +622,10 @@
 
 ### [postgresql-7.0.70](https://github.com/truecharts/apps/compare/postgresql-7.0.68...postgresql-7.0.70) (2022-05-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.12
-* update docker general non-major ([#2679](https://github.com/truecharts/apps/issues/2679))
+* 更新通用的 v9.3.12 头盔图
+* 更新一般的非主基座([#2679](https://github.com/truecharts/apps/issues/2679))
 
 
 
@@ -633,9 +633,9 @@
 
 ### [postgresql-7.0.68](https://github.com/truecharts/apps/compare/postgresql-7.0.67...postgresql-7.0.68) (2022-05-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.11
+* 更新通用到v9.3.11的头盔图
 
 
 
@@ -643,10 +643,10 @@
 
 ### [postgresql-7.0.67](https://github.com/truecharts/apps/compare/postgresql-7.0.65...postgresql-7.0.67) (2022-05-13)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.10
-* update docker general non-major ([#2658](https://github.com/truecharts/apps/issues/2658))
+* 更新通用的 v9.3.10 头盔图
+* 更新一般的非主码([#2658](https://github.com/truecharts/apps/issues/2658))
 
 
 
@@ -654,9 +654,9 @@
 
 ### [postgresql-7.0.65](https://github.com/truecharts/apps/compare/postgresql-7.0.64...postgresql-7.0.65) (2022-05-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.9
+* 更新通用到v9.3.9的头盔图
 
 
 
@@ -664,9 +664,9 @@
 
 ### [postgresql-7.0.64](https://github.com/truecharts/apps/compare/postgresql-7.0.63...postgresql-7.0.64) (2022-05-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.8
+* 更新通用的 v9.3.8 头盔图
 
 
 
@@ -674,10 +674,10 @@
 
 ### [postgresql-7.0.63](https://github.com/truecharts/apps/compare/postgresql-7.0.61...postgresql-7.0.63) (2022-05-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.7 ([#2656](https://github.com/truecharts/apps/issues/2656))
-* update docker general non-major ([#2653](https://github.com/truecharts/apps/issues/2653))
+* 更新通用的 v9.3.7 ([#2656](https://github.com/truecharts/apps/issues/2656))
+* 更新一般的非主基座([#2653](https://github.com/truecharts/apps/issues/2653))
 
 
 
@@ -685,9 +685,9 @@
 
 ### [postgresql-7.0.61](https://github.com/truecharts/apps/compare/postgresql-7.0.60...postgresql-7.0.61) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.6 ([#2651](https://github.com/truecharts/apps/issues/2651))
+* 更新通用的 v9.3.6 头盔图表([#2651](https://github.com/truecharts/apps/issues/2651))
 
 
 
@@ -695,9 +695,9 @@
 
 ### [postgresql-7.0.60](https://github.com/truecharts/apps/compare/postgresql-7.0.59...postgresql-7.0.60) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.5 ([#2648](https://github.com/truecharts/apps/issues/2648))
+* 更新通用到v9.3.5 ([#2648](https://github.com/truecharts/apps/issues/2648))
 
 
 
@@ -705,9 +705,9 @@
 
 ### [postgresql-7.0.59](https://github.com/truecharts/apps/compare/postgresql-7.0.58...postgresql-7.0.59) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -715,9 +715,9 @@
 
 ### [postgresql-7.0.58](https://github.com/truecharts/apps/compare/postgresql-7.0.57...postgresql-7.0.58) (2022-05-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2641](https://github.com/truecharts/apps/issues/2641))
+* 更新一般的非主码([#2641](https://github.com/truecharts/apps/issues/2641))
 
 
 
@@ -725,9 +725,9 @@
 
 ### [postgresql-7.0.57](https://github.com/truecharts/apps/compare/postgresql-7.0.56...postgresql-7.0.57) (2022-05-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2639](https://github.com/truecharts/apps/issues/2639))
+* 更新一般的非主码([#2639](https://github.com/truecharts/apps/issues/2639))
 
 
 
@@ -735,9 +735,9 @@
 
 ### [postgresql-7.0.56](https://github.com/truecharts/apps/compare/postgresql-7.0.55...postgresql-7.0.56) (2022-05-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -745,9 +745,9 @@
 
 ### [postgresql-7.0.55](https://github.com/truecharts/apps/compare/postgresql-7.0.54...postgresql-7.0.55) (2022-05-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -755,9 +755,9 @@
 
 ### [postgresql-7.0.54](https://github.com/truecharts/apps/compare/postgresql-7.0.53...postgresql-7.0.54) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.3 ([#2610](https://github.com/truecharts/apps/issues/2610))
+* 更新通用到v9.3.3([#2610](https://github.com/truecharts/apps/issues/2610))
 
 
 
@@ -765,9 +765,9 @@
 
 ### [postgresql-7.0.53](https://github.com/truecharts/apps/compare/postgresql-7.0.52...postgresql-7.0.53) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2606](https://github.com/truecharts/apps/issues/2606))
+* 更新一般的非主码([#2606](https://github.com/truecharts/apps/issues/2606))
 
 
 
@@ -775,9 +775,9 @@
 
 ### [postgresql-7.0.52](https://github.com/truecharts/apps/compare/postgresql-7.0.51...postgresql-7.0.52) (2022-04-29)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2581](https://github.com/truecharts/apps/issues/2581))
+* 更新一般的非主码([#2581](https://github.com/truecharts/apps/issues/2581))
 
 
 
@@ -785,9 +785,9 @@
 
 ### [postgresql-7.0.51](https://github.com/truecharts/apps/compare/postgresql-7.0.50...postgresql-7.0.51) (2022-04-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2577](https://github.com/truecharts/apps/issues/2577))
+* 更新一般的非主码([#2577](https://github.com/truecharts/apps/issues/2577))
 
 
 
@@ -795,9 +795,9 @@
 
 ### [postgresql-7.0.50](https://github.com/truecharts/apps/compare/postgresql-7.0.49...postgresql-7.0.50) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2571](https://github.com/truecharts/apps/issues/2571))
+* 更新一般的非主码([#2571](https://github.com/truecharts/apps/issues/2571))
 
 
 
@@ -805,9 +805,9 @@
 
 ### [postgresql-7.0.49](https://github.com/truecharts/apps/compare/postgresql-7.0.48...postgresql-7.0.49) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.2
+* 更新通用的 v9.3.2 头盔图
 
 
 
@@ -815,10 +815,10 @@
 
 ### [postgresql-7.0.48](https://github.com/truecharts/apps/compare/postgresql-7.0.47...postgresql-7.0.48) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update docker general non-major ([#2522](https://github.com/truecharts/apps/issues/2522))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新停靠一般的非主要泊位([#2522](https://github.com/truecharts/apps/issues/2522))
 
 
 
@@ -826,9 +826,9 @@
 
 ### [postgresql-7.0.47](https://github.com/truecharts/apps/compare/postgresql-7.0.46...postgresql-7.0.47) (2022-04-19)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.9 ([#2509](https://github.com/truecharts/apps/issues/2509))
+* 更新通用到v9.2.9的头盔图表([#2509](https://github.com/truecharts/apps/issues/2509))
 
 
 
@@ -836,9 +836,9 @@
 
 ### [postgresql-7.0.46](https://github.com/truecharts/apps/compare/postgresql-7.0.45...postgresql-7.0.46) (2022-04-18)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2502](https://github.com/truecharts/apps/issues/2502))
+* 更新一般的非主基座([#2502](https://github.com/truecharts/apps/issues/2502))
 
 
 
@@ -846,9 +846,9 @@
 
 ### [postgresql-7.0.45](https://github.com/truecharts/apps/compare/postgresql-7.0.44...postgresql-7.0.45) (2022-04-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2497](https://github.com/truecharts/apps/issues/2497))
+* 更新一般的非主码([#2497](https://github.com/truecharts/apps/issues/2497))
 
 
 
@@ -856,9 +856,9 @@
 
 ### [postgresql-7.0.44](https://github.com/truecharts/apps/compare/postgresql-7.0.43...postgresql-7.0.44) (2022-04-16)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2494](https://github.com/truecharts/apps/issues/2494))
+* 更新一般的非主码([#2494](https://github.com/truecharts/apps/issues/2494))
 
 
 
@@ -866,9 +866,9 @@
 
 ### [postgresql-7.0.43](https://github.com/truecharts/apps/compare/postgresql-7.0.42...postgresql-7.0.43) (2022-04-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -876,9 +876,9 @@
 
 ### [postgresql-7.0.42](https://github.com/truecharts/apps/compare/postgresql-7.0.41...postgresql-7.0.42) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.8 ([#2479](https://github.com/truecharts/apps/issues/2479))
+* 更新通用的 v9.2.8 头盔图表([#2479](https://github.com/truecharts/apps/issues/2479))
 
 
 
@@ -886,9 +886,9 @@
 
 ### [postgresql-7.0.41](https://github.com/truecharts/apps/compare/postgresql-7.0.40...postgresql-7.0.41) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2478](https://github.com/truecharts/apps/issues/2478))
+* 更新一般的非主基座([#2478](https://github.com/truecharts/apps/issues/2478))
 
 
 
@@ -896,9 +896,9 @@
 
 ### [postgresql-7.0.40](https://github.com/truecharts/apps/compare/postgresql-7.0.39...postgresql-7.0.40) (2022-04-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2460](https://github.com/truecharts/apps/issues/2460))
+* 更新一般的非主码([#2460](https://github.com/truecharts/apps/issues/2460))
 
 
 
@@ -906,9 +906,9 @@
 
 ### [postgresql-7.0.39](https://github.com/truecharts/apps/compare/postgresql-7.0.38...postgresql-7.0.39) (2022-04-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -916,10 +916,10 @@
 
 ### [postgresql-7.0.38](https://github.com/truecharts/apps/compare/postgresql-7.0.37...postgresql-7.0.38) (2022-04-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
-* update docker general non-major ([#2414](https://github.com/truecharts/apps/issues/2414))
+* 更新一般非主要停靠栏
+* 更新一般的非主码([#2414](https://github.com/truecharts/apps/issues/2414))
 
 
 
@@ -927,20 +927,9 @@
 
 ### [postgresql-7.0.37](https://github.com/truecharts/apps/compare/postgresql-7.0.36...postgresql-7.0.37) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.7 ([#2406](https://github.com/truecharts/apps/issues/2406))
-
-
-
-<a name="postgresql-7.0.36"></a>
-
-### [postgresql-7.0.36](https://github.com/truecharts/apps/compare/postgresql-7.0.35...postgresql-7.0.36) (2022-04-03)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* Auto-update chart README [skip ci]
+* 更新通用的头盔图表到 v9.2.7 ([#2406](https://github.com/truecharts/apps/issues/2406))
 
 
 
@@ -948,9 +937,20 @@
 
 ### [postgresql-7.0.36](https://github.com/truecharts/apps/compare/postgresql-7.0.35...postgresql-7.0.36) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
+* 自动更新README图表 [跳过 ci]
+
+
+
+<a name="postgresql-7.0.36"></a>
+
+### [postgresql-7.0.36](https://github.com/truecharts/apps/compare/postgresql-7.0.35...postgresql-7.0.36) (2022-04-03)
+
+#### 聊天
+
+* 自动更新README图表 [跳过 ci]
 
 
 
@@ -964,9 +964,9 @@
 
 ### [postgresql-7.0.28](https://github.com/truecharts/apps/compare/postgresql-7.0.27...postgresql-7.0.28) (2022-04-01)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -974,9 +974,9 @@
 
 ### [postgresql-7.0.27](https://github.com/truecharts/apps/compare/postgresql-7.0.26...postgresql-7.0.27) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2357](https://github.com/truecharts/apps/issues/2357))
+* 更新一般的非主基座([#2357](https://github.com/truecharts/apps/issues/2357))
 
 
 
@@ -984,10 +984,10 @@
 
 ### [postgresql-7.0.26](https://github.com/truecharts/apps/compare/postgresql-7.0.25...postgresql-7.0.26) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.2.6 ([#2358](https://github.com/truecharts/apps/issues/2358))
+* 自动更新README图表 [跳过 ci]
+* 更新通用的 v9.2.6 头盔图表([#2358](https://github.com/truecharts/apps/issues/2358))
 
 
 
@@ -995,10 +995,10 @@
 
 ### [postgresql-7.0.25](https://github.com/truecharts/apps/compare/postgresql-7.0.24...postgresql-7.0.25) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.2.4 ([#2352](https://github.com/truecharts/apps/issues/2352))
+* 自动更新README图表 [跳过 ci]
+* 更新通用的 v9.2.4 头盔图表([#2352](https://github.com/truecharts/apps/issues/2352))
 
 
 
@@ -1012,9 +1012,9 @@
 
 ### [postgresql-7.0.22](https://github.com/truecharts/apps/compare/postgresql-7.0.21...postgresql-7.0.22) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2338](https://github.com/truecharts/apps/issues/2338))
+* 更新一般的非主码([#2338](https://github.com/truecharts/apps/issues/2338))
 
 
 
@@ -1040,9 +1040,9 @@
 
 ### [postgresql-7.0.17](https://github.com/truecharts/apps/compare/postgresql-7.0.16...postgresql-7.0.17) (2022-03-29)
 
-#### Fix
+#### 修复
 
-* try to push dependencies to new helm repo ([#2336](https://github.com/truecharts/apps/issues/2336))
+* 尝试将依赖关系推向新的头盔仓库([#2336](https://github.com/truecharts/apps/issues/2336))
 
 
 
@@ -1050,9 +1050,9 @@
 
 ### [postgresql-7.0.16](https://github.com/truecharts/apps/compare/postgresql-7.0.15...postgresql-7.0.16) (2022-03-29)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.3 ([#2335](https://github.com/truecharts/apps/issues/2335))
+* 更新通用的 v9.2.3 头盔图表([#2335](https://github.com/truecharts/apps/issues/2335))
 
 
 
@@ -1062,7 +1062,7 @@
 
 #### Feat
 
-* Add probes on standalone aswell ([#2318](https://github.com/truecharts/apps/issues/2318))
+* 在独立时添加探测器([#2318](https://github.com/truecharts/apps/issues/2318))
 
 
 
@@ -1072,7 +1072,7 @@
 
 #### Feat
 
-* expose root password field on gui ([#2327](https://github.com/truecharts/apps/issues/2327))
+* 在界面上暴露根密码字段([#2327](https://github.com/truecharts/apps/issues/2327))
 
 
 
@@ -1080,9 +1080,9 @@
 
 ### [postgresql-7.0.13](https://github.com/truecharts/apps/compare/postgresql-7.0.12...postgresql-7.0.13) (2022-03-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -1090,9 +1090,9 @@
 
 ### [postgresql-7.0.12](https://github.com/truecharts/apps/compare/postgresql-7.0.11...postgresql-7.0.12) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -1100,9 +1100,9 @@
 
 ### [postgresql-7.0.10](https://github.com/truecharts/apps/compare/postgresql-7.0.9...postgresql-7.0.10) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -1110,9 +1110,9 @@
 
 ### [postgresql-7.0.9](https://github.com/truecharts/apps/compare/postgresql-7.0.8...postgresql-7.0.9) (2022-03-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -1120,10 +1120,10 @@
 
 ### [postgresql-7.0.8](https://github.com/truecharts/apps/compare/postgresql-7.0.7...postgresql-7.0.8) (2022-03-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2259](https://github.com/truecharts/apps/issues/2259))
-* update docker general non-major
+* 更新一般的非主要泊车位([#2259](https://github.com/truecharts/apps/issues/2259))
+* 更新一般非主要停靠栏
 
 
 
@@ -1131,10 +1131,10 @@
 
 ### [postgresql-7.0.7](https://github.com/truecharts/apps/compare/postgresql-7.0.6...postgresql-7.0.7) (2022-03-22)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.1.8
-* update docker general non-major
+* 更新通用到v9.1.8的头盔图
+* 更新一般非主要停靠栏
 
 
 
@@ -1142,9 +1142,9 @@
 
 ### [postgresql-7.0.6](https://github.com/truecharts/apps/compare/postgresql-7.0.5...postgresql-7.0.6) (2022-03-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.1.6 ([#2202](https://github.com/truecharts/apps/issues/2202))
+* 更新通用的头盔图表到 v9.1.6 ([#2202](https://github.com/truecharts/apps/issues/2202))
 
 
 
@@ -1152,10 +1152,10 @@
 
 ### [postgresql-7.0.5](https://github.com/truecharts/apps/compare/postgresql-7.0.4...postgresql-7.0.5) (2022-03-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2198](https://github.com/truecharts/apps/issues/2198))
-* update docker general non-major ([#2196](https://github.com/truecharts/apps/issues/2196))
+* 更新一般的非主码([#2198](https://github.com/truecharts/apps/issues/2198))
+* 更新一般的非主码([#2196](https://github.com/truecharts/apps/issues/2196))
 
 
 
@@ -1163,9 +1163,9 @@
 
 ### [postgresql-7.0.4](https://github.com/truecharts/apps/compare/postgresql-7.0.3...postgresql-7.0.4) (2022-03-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.1.4 ([#2180](https://github.com/truecharts/apps/issues/2180))
+* 更新通用的头盔图表到 v9.1.4 ([#2180](https://github.com/truecharts/apps/issues/2180))
 
 
 
@@ -1173,9 +1173,9 @@
 
 ### [postgresql-7.0.3](https://github.com/truecharts/apps/compare/postgresql-7.0.2...postgresql-7.0.3) (2022-03-15)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2175](https://github.com/truecharts/apps/issues/2175))
+* 更新一般的非主码([#2175](https://github.com/truecharts/apps/issues/2175))
 
 
 
@@ -1183,10 +1183,10 @@
 
 ### [postgresql-7.0.2](https://github.com/truecharts/apps/compare/postgresql-7.0.1...postgresql-7.0.2) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.1.2 ([#2109](https://github.com/truecharts/apps/issues/2109))
-* update docker general non-major ([#2108](https://github.com/truecharts/apps/issues/2108))
+* 更新通用的 v9.1.2 头盔图表([#2109](https://github.com/truecharts/apps/issues/2109))
+* 更新一般的非主要泊位([#2108](https://github.com/truecharts/apps/issues/2108))
 
 
 
@@ -1194,9 +1194,9 @@
 
 ### [postgresql-7.0.1](https://github.com/truecharts/apps/compare/postgresql-7.0.0...postgresql-7.0.1) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2046](https://github.com/truecharts/apps/issues/2046))
+* 更新一般的非主码([#2046](https://github.com/truecharts/apps/issues/2046))
 
 
 
@@ -1204,15 +1204,15 @@
 
 ### [postgresql-7.0.0](https://github.com/truecharts/apps/compare/postgresql-6.0.71...postgresql-7.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* remove empty env var declaration from questions.yaml
-* update helm chart common to v9 ([#2013](https://github.com/truecharts/apps/issues/2013))
+* 从问题.yaml 中移除固定的 env
+* 从问题.yaml 中删除空的 env var 声明
+* 更新通用到v9的头盔图表([#2013](https://github.com/truecharts/apps/issues/2013))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
@@ -1220,9 +1220,9 @@
 
 ### [postgresql-6.0.71](https://github.com/truecharts/apps/compare/postgresql-6.0.70...postgresql-6.0.71) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.17.3 ([#2009](https://github.com/truecharts/apps/issues/2009))
+* 更新通用到v8.17.3([#2009](https://github.com/truecharts/apps/issues/2009))
 
 
 
@@ -1230,9 +1230,9 @@
 
 ### [postgresql-6.0.70](https://github.com/truecharts/apps/compare/postgresql-6.0.69...postgresql-6.0.70) (2022-02-28)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.17.2 ([#1986](https://github.com/truecharts/apps/issues/1986))
+* 更新通用到v8.17.2 ([#1986](https://github.com/truecharts/apps/issues/1986))
 
 
 
@@ -1240,9 +1240,9 @@
 
 ### [postgresql-6.0.69](https://github.com/truecharts/apps/compare/postgresql-6.0.68...postgresql-6.0.69) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.16.0 ([#1926](https://github.com/truecharts/apps/issues/1926))
+* 更新通用的头盔图表到 v8.16.0 ([#1926](https://github.com/truecharts/apps/issues/1926))
 
 
 
@@ -1250,9 +1250,9 @@
 
 ### [postgresql-6.0.68](https://github.com/truecharts/apps/compare/postgresql-6.0.67...postgresql-6.0.68) (2022-02-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.4 ([#1900](https://github.com/truecharts/apps/issues/1900))
+* 更新通用的 v8.15.4 头盔图表([#1900](https://github.com/truecharts/apps/issues/1900))
 
 
 
@@ -1260,9 +1260,9 @@
 
 ### [postgresql-6.0.67](https://github.com/truecharts/apps/compare/postgresql-6.0.66...postgresql-6.0.67) (2022-02-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1876](https://github.com/truecharts/apps/issues/1876))
+* 更新一般的非主要泊车位([#1876](https://github.com/truecharts/apps/issues/1876))
 
 
 
@@ -1270,9 +1270,9 @@
 
 ### [postgresql-6.0.66](https://github.com/truecharts/apps/compare/postgresql-6.0.65...postgresql-6.0.66) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.2 ([#1868](https://github.com/truecharts/apps/issues/1868))
+* 更新通用到v8.15.2 ([#1868](https://github.com/truecharts/apps/issues/1868))
 
 
 
@@ -1280,9 +1280,9 @@
 
 ### [postgresql-6.0.65](https://github.com/truecharts/apps/compare/postgresql-6.0.64...postgresql-6.0.65) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1869](https://github.com/truecharts/apps/issues/1869))
+* 更新一般的非主码([#1869](https://github.com/truecharts/apps/issues/1869))
 
 
 
@@ -1290,9 +1290,9 @@
 
 ### [postgresql-6.0.64](https://github.com/truecharts/apps/compare/postgresql-6.0.63...postgresql-6.0.64) (2022-02-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1863](https://github.com/truecharts/apps/issues/1863))
+* 更新一般的非主码([#1863](https://github.com/truecharts/apps/issues/1863))
 
 
 
@@ -1300,10 +1300,10 @@
 
 ### [postgresql-6.0.63](https://github.com/truecharts/apps/compare/postgresql-6.0.62...postgresql-6.0.63) (2022-02-06)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.0 ([#1858](https://github.com/truecharts/apps/issues/1858))
-* update docker general non-major ([#1855](https://github.com/truecharts/apps/issues/1855))
+* 更新通用的 v8.15.0 头盔图表([#1858](https://github.com/truecharts/apps/issues/1858))
+* 更新一般的非主码([#1855](https://github.com/truecharts/apps/issues/1855))
 
 
 
@@ -1311,10 +1311,10 @@
 
 ### [postgresql-6.0.62](https://github.com/truecharts/apps/compare/postgresql-6.0.61...postgresql-6.0.62) (2022-02-05)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.14.5 ([#1851](https://github.com/truecharts/apps/issues/1851))
-* update docker general non-major ([#1849](https://github.com/truecharts/apps/issues/1849))
+* 更新通用的 v8.14.5 头盔图表([#1851](https://github.com/truecharts/apps/issues/1851))
+* 更新一般的非主码([#1849](https://github.com/truecharts/apps/issues/1849))
 
 
 
@@ -1322,9 +1322,9 @@
 
 ### [postgresql-6.0.61](https://github.com/truecharts/apps/compare/postgresql-6.0.60...postgresql-6.0.61) (2022-02-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1836](https://github.com/truecharts/apps/issues/1836))
+* 更新一般的非主码([#1836](https://github.com/truecharts/apps/issues/1836))
 
 
 
@@ -1332,9 +1332,9 @@
 
 ### [postgresql-6.0.60](https://github.com/truecharts/apps/compare/postgresql-6.0.59...postgresql-6.0.60) (2022-02-01)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.14.4
+* 更新通用的 v8.14.4 头盔图
 
 
 
@@ -1342,9 +1342,9 @@
 
 ### [postgresql-6.0.59](https://github.com/truecharts/apps/compare/postgresql-6.0.58...postgresql-6.0.59) (2022-01-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major docker tags ([#1823](https://github.com/truecharts/apps/issues/1823))
+* 更新一般非主停靠标签([#1823](https://github.com/truecharts/apps/issues/1823))
 
 
 
@@ -1352,9 +1352,9 @@
 
 ### [postgresql-6.0.58](https://github.com/truecharts/apps/compare/postgresql-6.0.57...postgresql-6.0.58) (2022-01-25)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.14.2
+* 更新 v8.14.2 共有的头盔图
 
 
 
@@ -1362,9 +1362,9 @@
 
 ### [postgresql-6.0.57](https://github.com/truecharts/apps/compare/postgresql-6.0.56...postgresql-6.0.57) (2022-01-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1786](https://github.com/truecharts/apps/issues/1786))
+* 更新一般的非主码([#1786](https://github.com/truecharts/apps/issues/1786))
 
 
 
@@ -1372,9 +1372,9 @@
 
 ### [postgresql-6.0.56](https://github.com/truecharts/apps/compare/postgresql-6.0.55...postgresql-6.0.56) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.13.5 ([#1765](https://github.com/truecharts/apps/issues/1765))
+* 更新通用到v8.13.5 ([#1765](https://github.com/truecharts/apps/issues/1765))
 
 
 
@@ -1382,9 +1382,9 @@
 
 ### [postgresql-6.0.55](https://github.com/truecharts/apps/compare/postgresql-6.0.54...postgresql-6.0.55) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1764](https://github.com/truecharts/apps/issues/1764))
+* 更新一般的非主码([#1764](https://github.com/truecharts/apps/issues/1764))
 
 
 
@@ -1392,9 +1392,9 @@
 
 ### [postgresql-6.0.54](https://github.com/truecharts/apps/compare/postgresql-6.0.53...postgresql-6.0.54) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.13.4 ([#1758](https://github.com/truecharts/apps/issues/1758))
+* 更新通用的 v8.13.4 头盔图表([#1758](https://github.com/truecharts/apps/issues/1758))
 
 
 
@@ -1402,13 +1402,13 @@
 
 ### [postgresql-6.0.53](https://github.com/truecharts/apps/compare/postgresql-6.0.52...postgresql-6.0.53) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1751](https://github.com/truecharts/apps/issues/1751))
+* 更新一般的非主码([#1751](https://github.com/truecharts/apps/issues/1751))
 
-#### Fix
+#### 修复
 
-* set additional_attrs: true on all dicts ([#1750](https://github.com/truecharts/apps/issues/1750))
+* 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
 
 
 
@@ -1416,9 +1416,9 @@
 
 ### [postgresql-6.0.52](https://github.com/truecharts/apps/compare/postgresql-6.0.51...postgresql-6.0.52) (2022-01-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1741](https://github.com/truecharts/apps/issues/1741))
+* 更新一般的非主码([#1741](https://github.com/truecharts/apps/issues/1741))
 
 
 
@@ -1426,10 +1426,10 @@
 
 ### [postgresql-6.0.51](https://github.com/truecharts/apps/compare/postgresql-6.0.50...postgresql-6.0.51) (2022-01-18)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.13.1
-* update docker general non-major ([#1729](https://github.com/truecharts/apps/issues/1729))
+* 更新通用的 v8.13.1 头盔图
+* 更新一般的非主码([#1729](https://github.com/truecharts/apps/issues/1729))
 
 
 
@@ -1437,10 +1437,10 @@
 
 ### [postgresql-6.0.50](https://github.com/truecharts/apps/compare/postgresql-6.0.49...postgresql-6.0.50) (2022-01-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1728](https://github.com/truecharts/apps/issues/1728))
-* clean logs ([#1720](https://github.com/truecharts/apps/issues/1720))
+* 更新一般的非主码([#1728](https://github.com/truecharts/apps/issues/1728))
+* 干净的日志([#1720](https://github.com/truecharts/apps/issues/1720))
 
 
 
@@ -1448,13 +1448,13 @@
 
 ### [postgresql-6.0.49](https://github.com/truecharts/apps/compare/postgresql-6.0.48...postgresql-6.0.49) (2022-01-13)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.13.0 ([#1711](https://github.com/truecharts/apps/issues/1711))
+* 更新通用到v8.13.0的头盔图表([#1711](https://github.com/truecharts/apps/issues/1711))
 
 #### Feat
 
-* expose capabilities in GUI ([#1709](https://github.com/truecharts/apps/issues/1709))
+* 在图形界面显示能力 ([#1709](https://github.com/truecharts/apps/issues/1709))
 
 
 
@@ -1462,9 +1462,9 @@
 
 ### [postgresql-6.0.48](https://github.com/truecharts/apps/compare/postgresql-6.0.47...postgresql-6.0.48) (2022-01-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.12.1 ([#1705](https://github.com/truecharts/apps/issues/1705))
+* 更新通用到v8.12.1的头盔图表([#1705](https://github.com/truecharts/apps/issues/1705))
 
 
 
@@ -1472,9 +1472,9 @@
 
 ### [postgresql-6.0.47](https://github.com/truecharts/apps/compare/postgresql-6.0.46...postgresql-6.0.47) (2022-01-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.12.0 ([#1702](https://github.com/truecharts/apps/issues/1702))
+* 更新通用的 v8.12.0 头盔图表([#1702](https://github.com/truecharts/apps/issues/1702))
 
 
 
@@ -1482,9 +1482,9 @@
 
 ### [postgresql-6.0.46](https://github.com/truecharts/apps/compare/postgresql-6.0.45...postgresql-6.0.46) (2022-01-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.10.6
+* 更新通用到v8.10.6 的头盔图
 
 
 
@@ -1492,9 +1492,9 @@
 
 ### [postgresql-6.0.45](https://github.com/truecharts/apps/compare/postgresql-6.0.44...postgresql-6.0.45) (2022-01-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1685](https://github.com/truecharts/apps/issues/1685))
+* 更新一般的非主基座([#1685](https://github.com/truecharts/apps/issues/1685))
 
 
 
@@ -1502,9 +1502,9 @@
 
 ### [postgresql-6.0.44](https://github.com/truecharts/apps/compare/postgresql-6.0.43...postgresql-6.0.44) (2022-01-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1677](https://github.com/truecharts/apps/issues/1677))
+* 更新一般的非主码([#1677](https://github.com/truecharts/apps/issues/1677))
 
 
 
@@ -1512,9 +1512,9 @@
 
 ### [postgresql-6.0.43](https://github.com/truecharts/apps/compare/postgresql-6.0.42...postgresql-6.0.43) (2022-01-04)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.10.2 ([#1650](https://github.com/truecharts/apps/issues/1650))
+* 更新通用到v8.10.2 ([#1650](https://github.com/truecharts/apps/issues/1650))
 
 
 
@@ -1522,9 +1522,9 @@
 
 ### [postgresql-6.0.42](https://github.com/truecharts/apps/compare/postgresql-6.0.41...postgresql-6.0.42) (2022-01-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1648](https://github.com/truecharts/apps/issues/1648))
+* 更新一般的非主基座([#1648](https://github.com/truecharts/apps/issues/1648))
 
 
 
@@ -1532,9 +1532,9 @@
 
 ### [postgresql-6.0.41](https://github.com/truecharts/apps/compare/postgresql-6.0.40...postgresql-6.0.41) (2022-01-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1646](https://github.com/truecharts/apps/issues/1646))
+* 更新一般的非主码([#1646](https://github.com/truecharts/apps/issues/1646))
 
 
 
@@ -1542,9 +1542,9 @@
 
 ### [postgresql-6.0.40](https://github.com/truecharts/apps/compare/postgresql-6.0.39...postgresql-6.0.40) (2021-12-28)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.26 ([#1622](https://github.com/truecharts/apps/issues/1622))
+* 更新通用的头盔图表到 v8.9.26([#1622](https://github.com/truecharts/apps/issues/1622))
 
 
 
@@ -1552,9 +1552,9 @@
 
 ### [postgresql-6.0.39](https://github.com/truecharts/apps/compare/postgresql-6.0.38...postgresql-6.0.39) (2021-12-27)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1615](https://github.com/truecharts/apps/issues/1615))
+* 更新一般的非主要泊车位([#1615](https://github.com/truecharts/apps/issues/1615))
 
 
 
@@ -1562,10 +1562,10 @@
 
 ### [postgresql-6.0.38](https://github.com/truecharts/apps/compare/postgresql-6.0.37...postgresql-6.0.38) (2021-12-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1607](https://github.com/truecharts/apps/issues/1607))
-* update docker general non-major ([#1595](https://github.com/truecharts/apps/issues/1595))
+* 更新一般的非主要泊车位([#1607](https://github.com/truecharts/apps/issues/1607))
+* 更新一般的非主基座([#1595](https://github.com/truecharts/apps/issues/1595))
 
 
 
@@ -1573,9 +1573,9 @@
 
 ### [postgresql-6.0.37](https://github.com/truecharts/apps/compare/postgresql-6.0.36...postgresql-6.0.37) (2021-12-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.25 ([#1592](https://github.com/truecharts/apps/issues/1592))
+* 更新通用的头盔图表到 v8.9.25 ([#1592](https://github.com/truecharts/apps/issues/1592))
 
 
 
@@ -1583,9 +1583,9 @@
 
 ### [postgresql-6.0.36](https://github.com/truecharts/apps/compare/postgresql-6.0.35...postgresql-6.0.36) (2021-12-20)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1585](https://github.com/truecharts/apps/issues/1585))
+* 更新一般的非主基座([#1585](https://github.com/truecharts/apps/issues/1585))
 
 
 
@@ -1593,10 +1593,10 @@
 
 ### [postgresql-6.0.35](https://github.com/truecharts/apps/compare/postgresql-6.0.34...postgresql-6.0.35) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* Last patch bump before RC2 branch-off
-* remove `editable: true` as this is the default ([#1576](https://github.com/truecharts/apps/issues/1576))
+* 上次补丁后的 RC2 分支关闭
+* 删除 `可编辑：true` ，因为这是默认的 ([#1576](https://github.com/truecharts/apps/issues/1576))
 
 
 
@@ -1604,9 +1604,9 @@
 
 ### [postgresql-6.0.34](https://github.com/truecharts/apps/compare/postgresql-6.0.33...postgresql-6.0.34) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.24 ([#1570](https://github.com/truecharts/apps/issues/1570))
+* 更新通用到v8.9.24 的头盔图表([#1570](https://github.com/truecharts/apps/issues/1570))
 
 
 
@@ -1614,9 +1614,9 @@
 
 ### [postgresql-6.0.33](https://github.com/truecharts/apps/compare/postgresql-6.0.32...postgresql-6.0.33) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1567](https://github.com/truecharts/apps/issues/1567))
+* 更新一般的非主码([#1567](https://github.com/truecharts/apps/issues/1567))
 
 
 
@@ -1624,10 +1624,10 @@
 
 ### [postgresql-6.0.32](https://github.com/truecharts/apps/compare/postgresql-6.0.31...postgresql-6.0.32) (2021-12-18)
 
-#### Chore
+#### 聊天
 
-* cleanup questions by removing hidden dicts ([#1558](https://github.com/truecharts/apps/issues/1558))
-* update docker general non-major
+* 通过删除隐藏的口令清理问题([#1558](https://github.com/truecharts/apps/issues/1558))
+* 更新一般非主要停靠栏
 
 
 
@@ -1635,9 +1635,9 @@
 
 ### [postgresql-6.0.31](https://github.com/truecharts/apps/compare/postgresql-6.0.30...postgresql-6.0.31) (2021-12-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.21
+* 更新通用到v8.9.21的头盔图
 
 
 
@@ -1645,9 +1645,9 @@
 
 ### [postgresql-6.0.30](https://github.com/truecharts/apps/compare/postgresql-6.0.29...postgresql-6.0.30) (2021-12-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1531](https://github.com/truecharts/apps/issues/1531))
+* 更新一般的非主要泊车位([#1531](https://github.com/truecharts/apps/issues/1531))
 
 
 
@@ -1655,9 +1655,9 @@
 
 ### [postgresql-6.0.29](https://github.com/truecharts/apps/compare/postgresql-6.0.28...postgresql-6.0.29) (2021-12-13)
 
-#### Chore
+#### 聊天
 
-* move incubator apps to stable and bump everything
+* 将孵化器应用程序移动到稳定和凸显所有
 
 
 
@@ -1665,9 +1665,9 @@
 
 ### [postgresql-6.0.28](https://github.com/truecharts/apps/compare/postgresql-6.0.27...postgresql-6.0.28) (2021-12-12)
 
-#### Chore
+#### 聊天
 
-* update container image ghcr.io/truecharts/postgresql to v14.1.0 ([#1515](https://github.com/truecharts/apps/issues/1515))
+* 将容器图像 ghcr.io/truecharts/postgresql 更新为 v14.1.0 ([#1515](https://github.com/truecharts/apps/issues/1515))
 
 
 
@@ -1675,9 +1675,9 @@
 
 ### [postgresql-6.0.27](https://github.com/truecharts/apps/compare/postgresql-6.0.26...postgresql-6.0.27) (2021-12-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.9.17 ([#1492](https://github.com/truecharts/apps/issues/1492))
+* 更新通用的头盔图表到 v8.9.17 ([#1492](https://github.com/truecharts/apps/issues/1492))
 
 
 
@@ -1685,9 +1685,9 @@
 
 ### [postgresql-6.0.26](https://github.com/truecharts/apps/compare/postgresql-6.0.25...postgresql-6.0.26) (2021-12-11)
 
-#### Chore
+#### 聊天
 
-* update non-major docker ([#1507](https://github.com/truecharts/apps/issues/1507))
+* 更新非主停靠器[#1507](https://github.com/truecharts/apps/issues/1507)
 
 
 
@@ -1695,9 +1695,9 @@
 
 ### [postgresql-6.0.25](https://github.com/truecharts/apps/compare/postgresql-6.0.24...postgresql-6.0.25) (2021-12-08)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1488](https://github.com/truecharts/apps/issues/1488))
+* 更新非主要([#1488](https://github.com/truecharts/apps/issues/1488))
 
 
 
@@ -1705,9 +1705,9 @@
 
 ### [postgresql-6.0.24](https://github.com/truecharts/apps/compare/postgresql-6.0.23...postgresql-6.0.24) (2021-12-07)
 
-#### Chore
+#### 聊天
 
-* bump common on deps ([#1486](https://github.com/truecharts/apps/issues/1486))
+* bumps 常见的 ([#1486](https://github.com/truecharts/apps/issues/1486))
 
 
 
@@ -1715,9 +1715,9 @@
 
 ### [postgresql-6.0.23](https://github.com/truecharts/apps/compare/postgresql-6.0.22...postgresql-6.0.23) (2021-12-07)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1475](https://github.com/truecharts/apps/issues/1475))
+* 更新非主要([#1475](https://github.com/truecharts/apps/issues/1475))
 
 
 
@@ -1725,26 +1725,26 @@
 
 ### postgresql-6.0.22 (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* bump apps to generate security page
-* move all container references to TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* ensure container references are prefixed with v
-* cleanup the ci for the security page a bit
-* update dependencies
-* bump common on dependency train ([#1452](https://github.com/truecharts/apps/issues/1452))
-* update non-major ([#1449](https://github.com/truecharts/apps/issues/1449))
-* update non-major ([#1466](https://github.com/truecharts/apps/issues/1466))
-* update common on deps ([#1467](https://github.com/truecharts/apps/issues/1467))
-* update non-major ([#1443](https://github.com/truecharts/apps/issues/1443))
-* update common
-* update non-major ([#1427](https://github.com/truecharts/apps/issues/1427))
-* update non-major ([#1423](https://github.com/truecharts/apps/issues/1423))
+* 跳转应用生成安全页面
+* 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
+* 确保容器引用前缀 v
+* 略去安全页面的ci
+* 更新依赖关系
+* 跳到依赖列车上常见的 ([#1452](https://github.com/truecharts/apps/issues/1452))
+* 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
+* 更新非主要([#1466](https://github.com/truecharts/apps/issues/1466))
+* 更新常用代码([#1467](https://github.com/truecharts/apps/issues/1467))
+* 更新非主要([#1443](https://github.com/truecharts/apps/issues/1443))
+* 经常更新
+* 更新非主要([#1427](https://github.com/truecharts/apps/issues/1427))
+* 更新非主要([#1423](https://github.com/truecharts/apps/issues/1423))
 
-#### Fix
+#### 修复
 
-* move deps back to ghcr for now.
-* correct mountpath mistakes
+* 现在移动退货回到ghcr。
+* 正确挂载路径错误
 
 
 
@@ -1752,9 +1752,9 @@
 
 ### [postgresql-6.0.21](https://github.com/truecharts/apps/compare/postgresql-6.0.20...postgresql-6.0.21) (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* update common on deps ([#1467](https://github.com/truecharts/apps/issues/1467))
+* 更新常用代码([#1467](https://github.com/truecharts/apps/issues/1467))
 
 
 
@@ -1762,14 +1762,14 @@
 
 ### [postgresql-6.0.20](https://github.com/truecharts/apps/compare/postgresql-6.0.19...postgresql-6.0.20) (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1466](https://github.com/truecharts/apps/issues/1466))
+* 更新非主要([#1466](https://github.com/truecharts/apps/issues/1466))
 
-#### Fix
+#### 修复
 
-* move deps back to ghcr for now.
-* correct mountpath mistakes
+* 现在移动退货回到ghcr。
+* 正确挂载路径错误
 
 
 
@@ -1777,10 +1777,10 @@
 
 ### [postgresql-6.0.19](https://github.com/truecharts/apps/compare/postgresql-6.0.18...postgresql-6.0.19) (2021-12-04)
 
-#### Chore
+#### 聊天
 
-* bump apps to generate security page
-* cleanup the ci for the security page a bit
+* 跳转应用生成安全页面
+* 略去安全页面的ci
 
 
 
@@ -1788,9 +1788,9 @@
 
 ### [postgresql-6.0.18](https://github.com/truecharts/apps/compare/postgresql-6.0.17...postgresql-6.0.18) (2021-12-03)
 
-#### Chore
+#### 聊天
 
-* bump common on dependency train ([#1452](https://github.com/truecharts/apps/issues/1452))
+* 跳到依赖列车上常见的 ([#1452](https://github.com/truecharts/apps/issues/1452))
 
 
 
@@ -1798,11 +1798,11 @@
 
 ### [postgresql-6.0.17](https://github.com/truecharts/apps/compare/postgresql-6.0.16...postgresql-6.0.17) (2021-12-03)
 
-#### Chore
+#### 聊天
 
-* ensure container references are prefixed with v
-* move all container references to TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* update non-major ([#1449](https://github.com/truecharts/apps/issues/1449))
+* 确保容器引用前缀 v
+* 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
+* 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 
 
 
@@ -1810,9 +1810,9 @@
 
 ### [postgresql-6.0.16](https://github.com/truecharts/apps/compare/postgresql-6.0.15...postgresql-6.0.16) (2021-12-01)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1443](https://github.com/truecharts/apps/issues/1443))
+* 更新非主要([#1443](https://github.com/truecharts/apps/issues/1443))
 
 
 
@@ -1820,9 +1820,9 @@
 
 ### [postgresql-6.0.15](https://github.com/truecharts/apps/compare/postgresql-6.0.14...postgresql-6.0.15) (2021-11-30)
 
-#### Chore
+#### 聊天
 
-* update common
+* 经常更新
 
 
 
@@ -1830,9 +1830,9 @@
 
 ### [postgresql-6.0.14](https://github.com/truecharts/apps/compare/postgresql-6.0.13...postgresql-6.0.14) (2021-11-30)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1427](https://github.com/truecharts/apps/issues/1427))
+* 更新非主要([#1427](https://github.com/truecharts/apps/issues/1427))
 
 
 
@@ -1840,9 +1840,9 @@
 
 ### [postgresql-6.0.12](https://github.com/truecharts/apps/compare/postgresql-6.0.11...postgresql-6.0.12) (2021-11-29)
 
-#### Chore
+#### 聊天
 
-* update common
+* 经常更新
 
 
 
@@ -1850,9 +1850,9 @@
 
 ### [postgresql-6.0.11](https://github.com/truecharts/apps/compare/postgresql-6.0.10...postgresql-6.0.11) (2021-11-28)
 
-#### Chore
+#### 聊天
 
-* update common on dependencies
+* 在依赖关系上更新常见的
 
 
 
@@ -1860,9 +1860,9 @@
 
 ### [postgresql-6.0.10](https://github.com/truecharts/apps/compare/postgresql-6.0.9...postgresql-6.0.10) (2021-11-23)
 
-#### Chore
+#### 聊天
 
-* bump deps again to sync with common
+* 再次跳转以与普通同步
 
 
 
@@ -1870,10 +1870,10 @@
 
 ### [postgresql-6.0.9](https://github.com/truecharts/apps/compare/postgresql-6.0.7...postgresql-6.0.9) (2021-11-23)
 
-#### Chore
+#### 聊天
 
-* bump common on deps
-* update non-major ([#1384](https://github.com/truecharts/apps/issues/1384))
+* bumps 常见的
+* 更新非主要([#1384](https://github.com/truecharts/apps/issues/1384))
 
 
 
@@ -1881,9 +1881,9 @@
 
 ### [postgresql-6.0.7](https://github.com/truecharts/apps/compare/postgresql-6.0.6...postgresql-6.0.7) (2021-11-22)
 
-#### Fix
+#### 修复
 
-* correct prometheus GUI mistakes
+* 纠正Promeus图形界面错误
 
 
 
@@ -1891,9 +1891,9 @@
 
 ### [postgresql-6.0.6](https://github.com/truecharts/apps/compare/postgresql-6.0.5...postgresql-6.0.6) (2021-11-22)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1380](https://github.com/truecharts/apps/issues/1380))
+* 更新非主要([#1380](https://github.com/truecharts/apps/issues/1380))
 
 
 
@@ -1901,9 +1901,9 @@
 
 ### [postgresql-6.0.4](https://github.com/truecharts/apps/compare/postgresql-6.0.3...postgresql-6.0.4) (2021-11-18)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1350](https://github.com/truecharts/apps/issues/1350))
+* 更新非主要([#1350](https://github.com/truecharts/apps/issues/1350))
 
 
 
@@ -1911,9 +1911,9 @@
 
 ### [postgresql-6.0.3](https://github.com/truecharts/apps/compare/postgresql-6.0.2...postgresql-6.0.3) (2021-11-16)
 
-#### Chore
+#### 聊天
 
-* bump common
+* bump 公共的
 
 
 
@@ -1921,9 +1921,9 @@
 
 ### [postgresql-6.0.2](https://github.com/truecharts/apps/compare/postgresql-6.0.1...postgresql-6.0.2) (2021-11-16)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1342](https://github.com/truecharts/apps/issues/1342))
+* 更新非主要([#1342](https://github.com/truecharts/apps/issues/1342))
 
 
 
@@ -1931,9 +1931,9 @@
 
 ### [postgresql-6.0.1](https://github.com/truecharts/apps/compare/postgresql-6.0.0...postgresql-6.0.1) (2021-11-16)
 
-#### Fix
+#### 修复
 
-* correct mistake in VCT
+* VCT 中的正确错误
 
 
 
@@ -1941,9 +1941,9 @@
 
 ### [postgresql-6.0.0](https://github.com/truecharts/apps/compare/postgresql-5.2.2...postgresql-6.0.0) (2021-11-16)
 
-#### Fix
+#### 修复
 
-* remove migration scripting and assume postgresql is a breaking change
+* 移除迁移脚本并假定入侵后是一个突破性的更改
 
 
 
@@ -1951,9 +1951,9 @@
 
 ### [postgresql-5.2.2](https://github.com/truecharts/apps/compare/postgresql-5.2.1...postgresql-5.2.2) (2021-11-15)
 
-#### Chore
+#### 聊天
 
-* bump common on dependency apps
+* bump 依赖应用程序常见的
 
 
 
@@ -1961,9 +1961,9 @@
 
 ### [postgresql-5.2.1](https://github.com/truecharts/apps/compare/postgresql-5.2.0...postgresql-5.2.1) (2021-11-15)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1336](https://github.com/truecharts/apps/issues/1336))
+* 更新非主要([#1336](https://github.com/truecharts/apps/issues/1336))
 
 
 
@@ -1973,7 +1973,7 @@
 
 #### Feat
 
-* move postgresql to use statefullset and cleanup ([#1335](https://github.com/truecharts/apps/issues/1335))
+* 移动postgresql来使用状态完整设置和清理 ([#1335](https://github.com/truecharts/apps/issues/1335))
 
 
 
@@ -1981,10 +1981,10 @@
 
 ### [postgresql-5.1.18](https://github.com/truecharts/apps/compare/postgresql-5.1.17...postgresql-5.1.18) (2021-11-15)
 
-#### Chore
+#### 聊天
 
-* persistence cleanup and small bugfixes ([#1329](https://github.com/truecharts/apps/issues/1329))
-* bump common and move mariadb
+* 持久性清理和小错误修正 ([#1329](https://github.com/truecharts/apps/issues/1329))
+* 凸起普通并移动 mariadb
 
 
 
@@ -1992,16 +1992,16 @@
 
 ### [postgresql-5.1.17](https://github.com/truecharts/apps/compare/postgresql-5.1.16...postgresql-5.1.17) (2021-11-14)
 
-#### Chore
+#### 聊天
 
-* fixes around the GUI refactor ([#1316](https://github.com/truecharts/apps/issues/1316))
-* move port above advanced in GUI ([#1326](https://github.com/truecharts/apps/issues/1326))
-* clean up Chart.yaml ([#1322](https://github.com/truecharts/apps/issues/1322))
-* update non-major ([#1327](https://github.com/truecharts/apps/issues/1327))
+* 围绕图形界面进行修复([#1316](https://github.com/truecharts/apps/issues/1316))
+* 移动图形界面上方的端口([#1326](https://github.com/truecharts/apps/issues/1326))
+* 清理Chart.yaml ([#1322](https://github.com/truecharts/apps/issues/1322))
+* 更新非主要([#1327](https://github.com/truecharts/apps/issues/1327))
 
-#### Fix
+#### 修复
 
-* split udp and tcp ports ([#1321](https://github.com/truecharts/apps/issues/1321))
+* 拆分udp 和 tcp 端口[#1321](https://github.com/truecharts/apps/issues/1321)
 
 
 
@@ -2009,17 +2009,17 @@
 
 ### [postgresql-5.1.16](https://github.com/truecharts/apps/compare/postgresql-5.1.15...postgresql-5.1.16) (2021-11-12)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1302](https://github.com/truecharts/apps/issues/1302))
+* 更新非主要([#1302](https://github.com/truecharts/apps/issues/1302))
 
 #### Feat
 
-* move deps to incubator ([#1311](https://github.com/truecharts/apps/issues/1311))
+* 移动掉落到孵化器 ([#1311](https://github.com/truecharts/apps/issues/1311))
 
-#### Fix
+#### 修复
 
-* Allow spaces in paths ([#1306](https://github.com/truecharts/apps/issues/1306))
+* 允许路径中的空格 ([#1306](https://github.com/truecharts/apps/issues/1306))
 
 
 
@@ -2027,13 +2027,13 @@
 
 ### [postgresql-5.1.15](https://github.com/truecharts/apps/compare/postgresql-5.1.14...postgresql-5.1.15) (2021-11-09)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1296](https://github.com/truecharts/apps/issues/1296))
+* 更新非主要([#1296](https://github.com/truecharts/apps/issues/1296))
 
-#### Fix
+#### 修复
 
-* correct mistake in service definition
+* 错误的服务定义
 
 
 
@@ -2043,7 +2043,7 @@
 
 #### Feat
 
-* also set and remember postgresql root password
+* 同时设置并记住postgresql root 密码
 
 
 
@@ -2051,9 +2051,9 @@
 
 ### [postgresql-5.1.13](https://github.com/truecharts/apps/compare/postgresql-5.1.12...postgresql-5.1.13) (2021-11-08)
 
-#### Chore
+#### 聊天
 
-* rename train name
+* 重命名列车名称
 
 
 
@@ -2061,9 +2061,9 @@
 
 ### [postgresql-5.1.12](https://github.com/truecharts/apps/compare/postgresql-5.1.11...postgresql-5.1.12) (2021-11-08)
 
-#### Chore
+#### 聊天
 
-* Move postgresql to a seperate dependency train
+* 移动后台箭头到一个隔绝的依赖者列车
 
 
 
@@ -2071,9 +2071,9 @@
 
 ### [postgresql-5.1.11](https://github.com/truecharts/apps/compare/postgresql-5.1.10...postgresql-5.1.11) (2021-11-07)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1295](https://github.com/truecharts/apps/issues/1295))
+* 更新非主要背包头盔版本([#1295](https://github.com/truecharts/apps/issues/1295))
 
 
 
@@ -2081,9 +2081,9 @@
 
 ### [postgresql-5.1.10](https://github.com/truecharts/apps/compare/postgresql-5.1.9...postgresql-5.1.10) (2021-11-07)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1270](https://github.com/truecharts/apps/issues/1270))
+* 更新非主要([#1270](https://github.com/truecharts/apps/issues/1270))
 
 
 
@@ -2091,17 +2091,17 @@
 
 ### [postgresql-5.1.9](https://github.com/truecharts/apps/compare/postgresql-5.1.8...postgresql-5.1.9) (2021-11-07)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1291](https://github.com/truecharts/apps/issues/1291))
+* 更新非主要的背包头盔版本([#1291](https://github.com/truecharts/apps/issues/1291))
 
-#### Chore
+#### 聊天
 
-* Simplify GUI for deployment, persistence and securityContext ([#1289](https://github.com/truecharts/apps/issues/1289))
+* 简化图形界面以获取部署、持久性和安全环境([#1289](https://github.com/truecharts/apps/issues/1289))
 
 #### Feat
 
-* Simplify the Services GUI ([#1290](https://github.com/truecharts/apps/issues/1290))
+* 简化服务界面([#1290](https://github.com/truecharts/apps/issues/1290))
 
 
 
@@ -2109,9 +2109,9 @@
 
 ### [postgresql-5.1.8](https://github.com/truecharts/apps/compare/postgresql-5.1.7...postgresql-5.1.8) (2021-11-02)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1267](https://github.com/truecharts/apps/issues/1267))
+* 更新非主要背包头盔版本([#1267](https://github.com/truecharts/apps/issues/1267))
 
 
 
@@ -2119,9 +2119,9 @@
 
 ### [postgresql-5.1.7](https://github.com/truecharts/apps/compare/postgresql-5.1.6...postgresql-5.1.7) (2021-11-02)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1265](https://github.com/truecharts/apps/issues/1265))
+* 更新非主要([#1265](https://github.com/truecharts/apps/issues/1265))
 
 
 
@@ -2129,9 +2129,9 @@
 
 ### [postgresql-5.1.6](https://github.com/truecharts/apps/compare/postgresql-5.1.5...postgresql-5.1.6) (2021-11-01)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1264](https://github.com/truecharts/apps/issues/1264))
+* 更新非主要的背包头盔版本([#1264](https://github.com/truecharts/apps/issues/1264))
 
 
 
@@ -2139,9 +2139,9 @@
 
 ### [postgresql-5.1.5](https://github.com/truecharts/apps/compare/postgresql-5.1.4...postgresql-5.1.5) (2021-11-01)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1263](https://github.com/truecharts/apps/issues/1263))
+* 更新非主要([#1263](https://github.com/truecharts/apps/issues/1263))
 
 
 
@@ -2149,9 +2149,9 @@
 
 ### [postgresql-5.1.4](https://github.com/truecharts/apps/compare/postgresql-5.1.3...postgresql-5.1.4) (2021-10-26)
 
-#### Fix
+#### 修复
 
-* correct group permissions on SCALE deployments of postgresql
+* 正确的 SCALE 部署后方块组权限
 
 
 
@@ -2159,9 +2159,9 @@
 
 ### [postgresql-5.1.3](https://github.com/truecharts/apps/compare/postgresql-5.1.2...postgresql-5.1.3) (2021-10-26)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1245](https://github.com/truecharts/apps/issues/1245))
+* 更新非主要的背包头盔版本([#1245](https://github.com/truecharts/apps/issues/1245))
 
 
 
@@ -2169,9 +2169,9 @@
 
 ### [postgresql-5.1.2](https://github.com/truecharts/apps/compare/postgresql-5.1.1...postgresql-5.1.2) (2021-10-26)
 
-#### Chore
+#### 聊天
 
-* update bitnami/postgresql:14.0.0 docker digest to 6737f46 ([#1243](https://github.com/truecharts/apps/issues/1243))
+* 将 bitnami/postgresql:14.0.0 Docker 摘要更新为 6737f46 ([#1243](https://github.com/truecharts/apps/issues/1243))
 
 
 
@@ -2179,11 +2179,11 @@
 
 ### [postgresql-5.1.1](https://github.com/truecharts/apps/compare/postgresql-5.1.0...postgresql-5.1.1) (2021-10-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.3.15 ([#1240](https://github.com/truecharts/apps/issues/1240))
-* update major docker tags (major) ([#1235](https://github.com/truecharts/apps/issues/1235))
-* update non-major ([#1232](https://github.com/truecharts/apps/issues/1232))
+* 更新通用的头盔图表到 v8.3.15 ([#1240](https://github.com/truecharts/apps/issues/1240))
+* 更新主要停靠标签 (主要) ([#1235](https://github.com/truecharts/apps/issues/1235))
+* 更新非主要([#1232](https://github.com/truecharts/apps/issues/1232))
 
 
 
@@ -2197,9 +2197,9 @@
 
 ### [postgresql-4.1.0](https://github.com/truecharts/apps/compare/postgresql-5.0.0...postgresql-4.1.0) (2021-10-26)
 
-#### Fix
+#### 修复
 
-* fix migration scripting for new major
+* 修复新主体的迁移脚本
 
 
 
@@ -2207,9 +2207,9 @@
 
 ### [postgresql-5.0.0](https://github.com/truecharts/apps/compare/postgresql-4.0.3...postgresql-5.0.0) (2021-10-25)
 
-#### Chore
+#### 聊天
 
-* Adapt for TrueNAS SCALE RC1
+* 适合TrueNAS SCALE RC1
 
 
 
@@ -2217,13 +2217,13 @@
 
 ### [postgresql-4.0.3](https://github.com/truecharts/apps/compare/postgresql-4.0.1...postgresql-4.0.3) (2021-10-20)
 
-#### Chore
+#### 聊天
 
-* bump apps, remove duplicates and move incubator to stable for RC1
+* bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
 
-#### Fix
+#### 修复
 
-* reenable postgresql migration scripting and bump all to force update
+* 重新启用 postgresql 迁移脚本并弹出所有以强制更新
 
 
 
@@ -2231,13 +2231,13 @@
 
 ### [postgresql-4.0.1](https://github.com/truecharts/apps/compare/postgresql-4.0.0...postgresql-4.0.1) (2021-10-20)
 
-#### Chore
+#### 聊天
 
-* bump common on postgresql
+* bumping common postgresql
 
-#### Fix
+#### 修复
 
-* use correct PVC storageClass when using postgresql as a dependency on SCALE ([#1212](https://github.com/truecharts/apps/issues/1212))
+* 使用 postgresql 作为对SCALE 的依赖时使用正确的 PVC storageClass ([#1212](https://github.com/truecharts/apps/issues/1212))
 
 
 
@@ -2245,14 +2245,14 @@
 
 ### [postgresql-4.0.0](https://github.com/truecharts/apps/compare/postgresql-3.0.21...postgresql-4.0.0) (2021-10-20)
 
-#### Chore
+#### 聊天
 
-* bump versions to rerelease and fix icons
-* update non-major ([#1185](https://github.com/truecharts/apps/issues/1185))
+* 跳转版本以重新发布并修复图标
+* 更新非主要([#1185](https://github.com/truecharts/apps/issues/1185))
 
-#### Security
+#### 安全
 
-* Improve Snyk hardening advisory ([#1208](https://github.com/truecharts/apps/issues/1208))
+* 改进Snyk 硬化咨询([#1208](https://github.com/truecharts/apps/issues/1208))
 
 
 
@@ -2260,24 +2260,24 @@
 
 ### [postgresql-3.0.21](https://github.com/truecharts/apps/compare/postgresql-3.0.20...postgresql-3.0.21) (2021-10-19)
 
-#### Change
+#### 更改
 
-* Project-Eclipse 3, Automatically generate item.yaml ([#1178](https://github.com/truecharts/apps/issues/1178))
+* Project-Eclipse 3, 自动生成 item.yaml ([#1178](https://github.com/truecharts/apps/issues/1178))
 
-#### Chore
+#### 聊天
 
-* Project-Eclipse 5, move app-readme to automatic generation script ([#1181](https://github.com/truecharts/apps/issues/1181))
-* Project-Eclipse part 2, adapting and cleaning changelog ([#1173](https://github.com/truecharts/apps/issues/1173))
-* update helm chart common to v8.3.13 ([#1184](https://github.com/truecharts/apps/issues/1184))
-* update non-major ([#1174](https://github.com/truecharts/apps/issues/1174))
+* Project-Eclipse 5, 移动应用读取到自动生成脚本[#1181](https://github.com/truecharts/apps/issues/1181)
+* Project-Eclipse Part 2, 调整和清理更新日志 ([#1173](https://github.com/truecharts/apps/issues/1173))
+* 更新通用的头盔图表到 v8.3.13 ([#1184](https://github.com/truecharts/apps/issues/1184))
+* 更新非主要([#1174](https://github.com/truecharts/apps/issues/1174))
 
 #### Feat
 
-* Project-Eclipse 4, Add App grading annotations to Chart.yaml ([#1180](https://github.com/truecharts/apps/issues/1180))
+* Project-Eclipse 4, 添加应用评分注释到 Chart.yaml ([#1180](https://github.com/truecharts/apps/issues/1180))
 
-#### Refactor
+#### 重新因子
 
-* Project Eclipse Part 6, move questions.yaml to root App folder ([#1182](https://github.com/truecharts/apps/issues/1182))
+* Project Eclipse Part 6, 移动quess.yaml 到 root 应用程序文件夹([#1182](https://github.com/truecharts/apps/issues/1182))
 
 
 
@@ -2285,9 +2285,9 @@
 
 ### [postgresql-3.0.20](https://github.com/truecharts/apps/compare/postgresql-3.0.19...postgresql-3.0.20) (2021-10-19)
 
-#### Fix
+#### 修复
 
-* fix previous SCALE bugfix not correctly being applied
+* 修复前一个 SCALE 错误修复被正确应用
 
 
 
@@ -2295,17 +2295,17 @@
 
 ### [postgresql-3.0.19](https://github.com/truecharts/apps/compare/postgresql-3.0.18...postgresql-3.0.19) (2021-10-19)
 
-#### Chore
+#### 聊天
 
-* Add description on persistence ([#1172](https://github.com/truecharts/apps/issues/1172))
+* 添加持久性描述([#1172](https://github.com/truecharts/apps/issues/1172))
 
-#### Fix
+#### 修复
 
-* Solve issues regarding ix_values.yaml not containing the image and tag definitions. ([#1176](https://github.com/truecharts/apps/issues/1176))
+* 解决与 ix_values.yaml 相关的问题，不包含图像和标签定义。 ([#1176](https://github.com/truecharts/apps/issues/1176))
 
-#### Refactor
+#### 重新因子
 
-* Project Eclipse - part 1 - remove ix_values.yaml ([#1168](https://github.com/truecharts/apps/issues/1168))
+* 项目 Eclipse - part 1 - 删除 ix_values.yaml ([#1168](https://github.com/truecharts/apps/issues/1168))
 
 
 
@@ -2313,9 +2313,9 @@
 
 ### [postgresql-3.0.18](https://github.com/truecharts/apps/compare/postgresql-3.0.17...postgresql-3.0.18) (2021-10-18)
 
-#### Chore
+#### 聊天
 
-* bump common on postgresql
+* bumping common postgresql
 
 
 
@@ -2323,13 +2323,13 @@
 
 ### [postgresql-3.0.17](https://github.com/truecharts/apps/compare/postgresql-3.0.16...postgresql-3.0.17) (2021-10-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.3.10 ([#1160](https://github.com/truecharts/apps/issues/1160))
+* 更新通用到v8.3.10的头盔图表([#1160](https://github.com/truecharts/apps/issues/1160))
 
-#### Fix
+#### 修复
 
-* force users using correct / prefix for mounPath ([#1156](https://github.com/truecharts/apps/issues/1156))
+* 强制用户在挂载路径上使用正确/前缀([#1156](https://github.com/truecharts/apps/issues/1156))
 
 
 
@@ -2337,9 +2337,9 @@
 
 ### [postgresql-3.0.16](https://github.com/truecharts/apps/compare/postgresql-3.0.15...postgresql-3.0.16) (2021-10-13)
 
-#### Chore
+#### 聊天
 
-* bump common
+* bump 公共的
 
 
 
@@ -2347,9 +2347,9 @@
 
 ### [postgresql-3.0.15](https://github.com/truecharts/apps/compare/postgresql-3.0.14...postgresql-3.0.15) (2021-10-12)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1126](https://github.com/truecharts/apps/issues/1126))
+* 更新非主要的背包头盔版本([#1126](https://github.com/truecharts/apps/issues/1126))
 
 
 
@@ -2357,9 +2357,9 @@
 
 ### [postgresql-3.0.14](https://github.com/truecharts/apps/compare/postgresql-3.0.13...postgresql-3.0.14) (2021-10-12)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1122](https://github.com/truecharts/apps/issues/1122))
+* 更新非主要([#1122](https://github.com/truecharts/apps/issues/1122))
 
 
 
@@ -2397,9 +2397,9 @@
 
 ### [postgresql-3.0.8](https://github.com/truecharts/apps/compare/postgresql-3.0.7...postgresql-3.0.8) (2021-10-05)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1098](https://github.com/truecharts/apps/issues/1098))
+* 更新非主要([#1098](https://github.com/truecharts/apps/issues/1098))
 
 
 
@@ -2413,9 +2413,9 @@
 
 ### [postgresql-3.0.6](https://github.com/truecharts/apps/compare/postgresql-3.0.5...postgresql-3.0.6) (2021-09-29)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.0.13 ([#1060](https://github.com/truecharts/apps/issues/1060))
+* 更新通用的 v8.0.13 头盔图表([#1060](https://github.com/truecharts/apps/issues/1060))
 
 
 
@@ -2423,9 +2423,9 @@
 
 ### [postgresql-3.0.4](https://github.com/truecharts/apps/compare/postgresql-3.0.3...postgresql-3.0.4) (2021-09-29)
 
-#### Chore
+#### 聊天
 
-* update bitnami/postgresql:13.4.0 docker digest to 33c276d ([#1055](https://github.com/truecharts/apps/issues/1055))
+* 更新 bitnami/postgresql:13.4.0 docker 摘要到 33c276d ([#1055](https://github.com/truecharts/apps/issues/1055))
 
 
 
@@ -2433,9 +2433,9 @@
 
 ### [postgresql-3.0.3](https://github.com/truecharts/apps/compare/postgresql-3.0.2...postgresql-3.0.3) (2021-09-28)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1048](https://github.com/truecharts/apps/issues/1048))
+* 更新非主要([#1048](https://github.com/truecharts/apps/issues/1048))
 
 
 
@@ -2443,9 +2443,9 @@
 
 ### [postgresql-3.0.2](https://github.com/truecharts/apps/compare/postgresql-3.0.1...postgresql-3.0.2) (2021-09-28)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1046](https://github.com/truecharts/apps/issues/1046))
+* 更新非主要([#1046](https://github.com/truecharts/apps/issues/1046))
 
 
 
@@ -2465,9 +2465,9 @@
 
 ### [postgresql-2.2.5](https://github.com/truecharts/apps/compare/postgresql-2.2.4...postgresql-2.2.5) (2021-09-21)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1014](https://github.com/truecharts/apps/issues/1014))
+* 更新非主要的背包头盔版本([#1014](https://github.com/truecharts/apps/issues/1014))
 
 
 
@@ -2475,9 +2475,9 @@
 
 ### [postgresql-2.2.4](https://github.com/truecharts/apps/compare/postgresql-2.2.3...postgresql-2.2.4) (2021-09-21)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1015](https://github.com/truecharts/apps/issues/1015))
+* 更新非主要([#1015](https://github.com/truecharts/apps/issues/1015))
 
 
 
@@ -2485,9 +2485,9 @@
 
 ### [postgresql-2.2.3](https://github.com/truecharts/apps/compare/postgresql-2.2.2...postgresql-2.2.3) (2021-09-21)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#1013](https://github.com/truecharts/apps/issues/1013))
+* 更新非主要([#1013](https://github.com/truecharts/apps/issues/1013))
 
 
 
@@ -2495,9 +2495,9 @@
 
 ### [postgresql-2.2.2](https://github.com/truecharts/apps/compare/postgresql-2.2.1...postgresql-2.2.2) (2021-09-14)
 
-#### Chore
+#### 聊天
 
-* update non-major ([#987](https://github.com/truecharts/apps/issues/987))
+* 更新非主要([#987](https://github.com/truecharts/apps/issues/987))
 
 
 
@@ -2507,7 +2507,7 @@
 
 #### Feat
 
-* add new GUI and VPN support to all Apps ([#977](https://github.com/truecharts/apps/issues/977))
+* 向所有应用程序添加新的 GUI 和 VPN 支持([#977](https://github.com/truecharts/apps/issues/977))
 
 
 
@@ -2515,13 +2515,13 @@
 
 ### [postgresql-2.2.0](https://github.com/truecharts/apps/compare/postgresql-2.1.1...postgresql-2.2.0) (2021-09-13)
 
-#### Chore
+#### 聊天
 
-* update non-major
+* 更新非大项
 
 #### Feat
 
-* Add VPN addon and move some config to includes ([#973](https://github.com/truecharts/apps/issues/973))
+* 添加 VPN 插件并移动一些配置到包含 ([#973](https://github.com/truecharts/apps/issues/973))
 
 
 
@@ -2529,9 +2529,9 @@
 
 ### [postgresql-2.1.1](https://github.com/truecharts/apps/compare/postgresql-2.1.0...postgresql-2.1.1) (2021-09-11)
 
-#### Fix
+#### 修复
 
-* use correct appversion string
+* 使用正确的应用程序字符串
 
 
 
@@ -2539,19 +2539,19 @@
 
 ### [postgresql-2.1.0](https://github.com/truecharts/apps/compare/postgresql-2.0.0...postgresql-2.1.0) (2021-09-11)
 
-#### Chore
+#### 聊天
 
-* Use bitnami instead of stock postgresql container ([#960](https://github.com/truecharts/apps/issues/960))
-* update non-major
+* 使用 bitnami 代替stock postgl 容器 ([#960](https://github.com/truecharts/apps/issues/960))
+* 更新非大项
 
 #### Feat
 
-* pin all container references to digests ([#963](https://github.com/truecharts/apps/issues/963))
+* 引脚所有容器引用到摘要([#963](https://github.com/truecharts/apps/issues/963))
 
-#### Fix
+#### 修复
 
-* make sure podSecurityContext is included in both SCALE and Helm installs ([#956](https://github.com/truecharts/apps/issues/956))
-* move runAsNonRoot to container securityContext to allow root sidecarts ([#954](https://github.com/truecharts/apps/issues/954))
+* 确保PodSecurityContext 已包含在SCALE 和 Helm 安装中 ([#956](https://github.com/truecharts/apps/issues/956))
+* 将runAsNonRoot移动到容器安全环境下以允许rootsidecart([#954](https://github.com/truecharts/apps/issues/954))
 
 
 
@@ -2559,9 +2559,9 @@
 
 ### [postgresql-2.0.0](https://github.com/truecharts/apps/compare/postgresql-1.6.6...postgresql-2.0.0) (2021-09-09)
 
-#### Chore
+#### 聊天
 
-* fix postgresql version
+* 修复 postgresql 版本
 
 
 
@@ -2569,14 +2569,14 @@
 
 ### [postgresql-1.6.6](https://github.com/truecharts/apps/compare/postgresql-1.6.5...postgresql-1.6.6) (2021-09-09)
 
-#### Chore
+#### 聊天
 
-* update postrgresql to common 7.0.0 ([#951](https://github.com/truecharts/apps/issues/951))
+* 将 posttrgresql 更新为 7.0.0 ([#951](https://github.com/truecharts/apps/issues/951))
 
 #### Feat
 
-* Add regex validation to resources CPU and RAM for all apps ([#935](https://github.com/truecharts/apps/issues/935))
+* 为所有应用添加正则表达式验证到资源 CPU 和 RAM ([#935](https://github.com/truecharts/apps/issues/935))
 
-#### Fix
+#### 修复
 
-* repair Hyperion and some misplaced GUI elements ([#922](https://github.com/truecharts/apps/issues/922))
+* 修理超音速和一些错误的图形界面元素([#922](https://github.com/truecharts/apps/issues/922))
