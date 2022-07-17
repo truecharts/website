@@ -240,7 +240,7 @@
 
 #### 聊天
 
-* update container image tccr.io/truecharts/traccar to v5.0 ([#2749](https://github.com/truecharts/apps/issues/2749))
+* 将容器图像 tccr.io/truechars/traccar 更新为 v5.0 ([#2749](https://github.com/truecharts/apps/issues/2749))
 
 
 
@@ -1041,7 +1041,7 @@
 
 <a name="traccar-0.0.1"></a>
 
-### traccar-0.0.1 (2021-10-19)
+### 学历-0.0.1 (2021-10-19)
 
 #### Feat
 
@@ -1051,7 +1051,7 @@
 
 <a name="traccar-0.0.1"></a>
 
-### traccar-0.0.1 (2021-10-16)
+### 学历-0.0.1 (2021-10-16)
 
 #### Feat
 
