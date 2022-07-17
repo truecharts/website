@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [zabbix-server-2.0.19](https://github.com/truecharts/apps/compare/zabbix-server-2.0.18...zabbix-server-2.0.19) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [zabbix-server-2.0.18](https://github.com/truecharts/apps/compare/zabbix-server-2.0.16...zabbix-server-2.0.18) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [zabbix-server-2.0.16](https://github.com/truecharts/apps/compare/zabbix-server-2.0.14...zabbix-server-2.0.16) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [zabbix-server-2.0.14](https://github.com/truecharts/apps/compare/zabbix-server-2.0.13...zabbix-server-2.0.14) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [zabbix-server-2.0.13](https://github.com/truecharts/apps/compare/zabbix-server-2.0.12...zabbix-server-2.0.13) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [zabbix-server-2.0.12](https://github.com/truecharts/apps/compare/zabbix-server-2.0.11...zabbix-server-2.0.12) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,9 +58,9 @@
 
 ### [zabbix-server-2.0.11](https://github.com/truecharts/apps/compare/zabbix-server-2.0.10...zabbix-server-2.0.11) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -68,9 +68,9 @@
 
 ### [zabbix-server-2.0.10](https://github.com/truecharts/apps/compare/zabbix-server-2.0.9...zabbix-server-2.0.10) (2022-07-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3078](https://github.com/truecharts/apps/issues/3078))
+* 更新一般的非主基座([#3078](https://github.com/truecharts/apps/issues/3078))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [zabbix-server-2.0.9](https://github.com/truecharts/apps/compare/zabbix-server-2.0.8...zabbix-server-2.0.9) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3075](https://github.com/truecharts/apps/issues/3075))
+* 更新头盔的一般非主头盔版本([#3075](https://github.com/truecharts/apps/issues/3075))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [zabbix-server-2.0.8](https://github.com/truecharts/apps/compare/zabbix-server-2.0.7...zabbix-server-2.0.8) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -98,9 +98,9 @@
 
 ### [zabbix-server-2.0.7](https://github.com/truecharts/apps/compare/zabbix-server-2.0.6...zabbix-server-2.0.7) (2022-07-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3033](https://github.com/truecharts/apps/issues/3033))
+* 更新一般的非主基座([#3033](https://github.com/truecharts/apps/issues/3033))
 
 
 
@@ -108,9 +108,9 @@
 
 ### [zabbix-server-2.0.6](https://github.com/truecharts/apps/compare/zabbix-server-2.0.5...zabbix-server-2.0.6) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [zabbix-server-2.0.5](https://github.com/truecharts/apps/compare/zabbix-server-2.0.4...zabbix-server-2.0.5) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -128,9 +128,9 @@
 
 ### [zabbix-server-2.0.4](https://github.com/truecharts/apps/compare/zabbix-server-2.0.3...zabbix-server-2.0.4) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -138,9 +138,9 @@
 
 ### [zabbix-server-2.0.3](https://github.com/truecharts/apps/compare/zabbix-server-2.0.2...zabbix-server-2.0.3) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2887](https://github.com/truecharts/apps/issues/2887))
+* 更新头盔的一般非主头盔版本([#2887](https://github.com/truecharts/apps/issues/2887))
 
 
 
@@ -148,9 +148,9 @@
 
 ### [zabbix-server-2.0.2](https://github.com/truecharts/apps/compare/zabbix-server-2.0.1...zabbix-server-2.0.2) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -158,9 +158,9 @@
 
 ### [zabbix-server-2.0.1](https://github.com/truecharts/apps/compare/zabbix-server-2.0.0...zabbix-server-2.0.1) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -168,13 +168,13 @@
 
 ### [zabbix-server-2.0.0](https://github.com/truecharts/apps/compare/zabbix-server-1.0.1...zabbix-server-2.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* update helm general major helm releases ([#2804](https://github.com/truecharts/apps/issues/2804))
+* 更新头盔主要头盔版本([#2804](https://github.com/truecharts/apps/issues/2804))
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -182,19 +182,19 @@
 
 ### [zabbix-server-1.0.1](https://github.com/truecharts/apps/compare/zabbix-server-0.0.15...zabbix-server-1.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
-* update helm general non-major helm releases ([#2838](https://github.com/truecharts/apps/issues/2838))
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
+* 更新头盔的一般非主头盔版本([#2838](https://github.com/truecharts/apps/issues/2838))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -202,13 +202,13 @@
 
 ### [zabbix-server-1.0.0](https://github.com/truecharts/apps/compare/zabbix-server-0.0.15...zabbix-server-1.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -216,9 +216,9 @@
 
 ### [zabbix-server-0.0.15](https://github.com/truecharts/apps/compare/zabbix-server-0.0.14...zabbix-server-0.0.15) (2022-06-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2821](https://github.com/truecharts/apps/issues/2821))
+* 更新一般的非主码([#2821](https://github.com/truecharts/apps/issues/2821))
 
 
 
@@ -226,9 +226,9 @@
 
 ### [zabbix-server-0.0.14](https://github.com/truecharts/apps/compare/zabbix-server-0.0.13...zabbix-server-0.0.14) (2022-06-02)
 
-#### Chore
+#### 聊天
 
-* update image refs ([#2819](https://github.com/truecharts/apps/issues/2819))
+* 更新图像引用([#2819](https://github.com/truecharts/apps/issues/2819))
 
 
 
@@ -236,20 +236,9 @@
 
 ### [zabbix-server-0.0.13](https://github.com/truecharts/apps/compare/zabbix-server-0.0.12...zabbix-server-0.0.13) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="zabbix-server-0.0.12"></a>
-
-### [zabbix-server-0.0.12](https://github.com/truecharts/apps/compare/zabbix-server-0.0.11...zabbix-server-0.0.12) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -257,9 +246,20 @@
 
 ### [zabbix-server-0.0.12](https://github.com/truecharts/apps/compare/zabbix-server-0.0.11...zabbix-server-0.0.12) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="zabbix-server-0.0.12"></a>
+
+### [zabbix-server-0.0.12](https://github.com/truecharts/apps/compare/zabbix-server-0.0.11...zabbix-server-0.0.12) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -267,20 +267,9 @@
 
 ### [zabbix-server-0.0.11](https://github.com/truecharts/apps/compare/zabbix-server-0.0.10...zabbix-server-0.0.11) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="zabbix-server-0.0.10"></a>
-
-### [zabbix-server-0.0.10](https://github.com/truecharts/apps/compare/zabbix-server-0.0.9...zabbix-server-0.0.10) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -288,9 +277,20 @@
 
 ### [zabbix-server-0.0.10](https://github.com/truecharts/apps/compare/zabbix-server-0.0.9...zabbix-server-0.0.10) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="zabbix-server-0.0.10"></a>
+
+### [zabbix-server-0.0.10](https://github.com/truecharts/apps/compare/zabbix-server-0.0.9...zabbix-server-0.0.10) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -298,9 +298,9 @@
 
 ### [zabbix-server-0.0.9](https://github.com/truecharts/apps/compare/zabbix-server-0.0.8...zabbix-server-0.0.9) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -308,9 +308,9 @@
 
 ### [zabbix-server-0.0.8](https://github.com/truecharts/apps/compare/zabbix-server-0.0.7...zabbix-server-0.0.8) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -318,9 +318,9 @@
 
 ### [zabbix-server-0.0.7](https://github.com/truecharts/apps/compare/zabbix-server-0.0.6...zabbix-server-0.0.7) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -328,9 +328,9 @@
 
 ### [zabbix-server-0.0.6](https://github.com/truecharts/apps/compare/zabbix-server-0.0.5...zabbix-server-0.0.6) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2605](https://github.com/truecharts/apps/issues/2605))
+* 更新头盔的一般非主头盔版本([#2605](https://github.com/truecharts/apps/issues/2605))
 
 
 
@@ -338,9 +338,9 @@
 
 ### [zabbix-server-0.0.5](https://github.com/truecharts/apps/compare/zabbix-server-0.0.4...zabbix-server-0.0.5) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -348,9 +348,9 @@
 
 ### [zabbix-server-0.0.4](https://github.com/truecharts/apps/compare/zabbix-server-0.0.3...zabbix-server-0.0.4) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -358,10 +358,10 @@
 
 ### [zabbix-server-0.0.3](https://github.com/truecharts/apps/compare/zabbix-server-0.0.2...zabbix-server-0.0.3) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update docker general non-major ([#2522](https://github.com/truecharts/apps/issues/2522))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新停靠一般的非主要泊位([#2522](https://github.com/truecharts/apps/issues/2522))
 
 
 
@@ -369,9 +369,9 @@
 
 ### [zabbix-server-0.0.2](https://github.com/truecharts/apps/compare/zabbix-server-0.0.1...zabbix-server-0.0.2) (2022-04-19)
 
-#### Fix
+#### 修复
 
-* try to fix n8n gui issue not loading edit ([#2514](https://github.com/truecharts/apps/issues/2514))
+* 尝试修复 n8n 界面问题，不加载编辑 ([#2514](https://github.com/truecharts/apps/issues/2514))
 
 
 
@@ -381,4 +381,4 @@
 
 #### Feat
 
-* Init work for zabbix-server ([#2474](https://github.com/truecharts/apps/issues/2474))
+* Init 为 zabbix-server 工作([#2474](https://github.com/truecharts/apps/issues/2474))
