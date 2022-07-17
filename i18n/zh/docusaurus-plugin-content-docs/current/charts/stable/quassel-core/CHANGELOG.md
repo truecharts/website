@@ -431,7 +431,7 @@
 
 <a name="quassel-core-0.0.28"></a>
 
-### [quassel-core-0.0.28](https://github.com/truecharts/apps/compare/quassel-core-0.0.27...quassel-core-0.0.28) (2022-02-21)
+### [quassel-corre-0.0.28](https://github.com/truecharts/apps/compare/quassel-core-0.0.27...quassel-core-0.0.28) (2022-02-21)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="quassel-core-0.0.26"></a>
 
-### [quassel-core-0.0.26](https://github.com/truecharts/apps/compare/quassel-core-0.0.25...quassel-core-0.0.26) (2022-02-08)
+### [quassel-coere-0.0.26](https://github.com/truecharts/apps/compare/quassel-core-0.0.25...quassel-core-0.0.26) (2022-02-08)
 
 #### 聊天
 
@@ -471,7 +471,7 @@
 
 <a name="quassel-core-0.0.24"></a>
 
-### [quassel-core-0.0.24](https://github.com/truecharts/apps/compare/quassel-core-0.0.23...quassel-core-0.0.24) (2022-02-05)
+### [quassel-coere-0.0.24](https://github.com/truecharts/apps/compare/quassel-core-0.0.23...quassel-core-0.0.24) (2022-02-05)
 
 #### 聊天
 
@@ -485,8 +485,8 @@
 
 #### 修复
 
-* Restore probes ([#1832](https://github.com/truecharts/apps/issues/1832))
-* Remove probes and portal, as this is only a backend ([#1827](https://github.com/truecharts/apps/issues/1827))
+* 还原探测器 ([#1832](https://github.com/truecharts/apps/issues/1832))
+* 删除探索和门户，因为这只是后端([#1827](https://github.com/truecharts/apps/issues/1827))
 
 
 
@@ -506,7 +506,7 @@
 
 #### 修复
 
-* Add db name ([#1826](https://github.com/truecharts/apps/issues/1826))
+* 添加db 名称 ([#1826](https://github.com/truecharts/apps/issues/1826))
 
 
 
@@ -556,7 +556,7 @@
 
 <a name="quassel-core-0.0.15"></a>
 
-### [quassel-core-0.0.15](https://github.com/truecharts/apps/compare/quassel-core-0.0.14...quassel-core-0.0.15) (2022-01-18)
+### [quassel-corre-0.0.15](https://github.com/truecharts/apps/compare/quassel-core-0.0.14...quassel-core-0.0.15) (2022-01-18)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="quassel-core-0.0.12"></a>
 
-### [quassel-core-0.0.12](https://github.com/truecharts/apps/compare/quassel-core-0.0.11...quassel-core-0.0.12) (2022-01-11)
+### [quassel-coere-0.0.12](https://github.com/truecharts/apps/compare/quassel-core-0.0.11...quassel-core-0.0.12) (2022-01-11)
 
 #### 聊天
 
@@ -650,7 +650,7 @@
 
 <a name="quassel-core-0.0.6"></a>
 
-### [quassel-core-0.0.6](https://github.com/truecharts/apps/compare/quassel-core-0.0.5...quassel-core-0.0.6) (2021-12-19)
+### [quassel-coere-0.0.6](https://github.com/truecharts/apps/compare/quassel-core-0.0.5...quassel-core-0.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -660,7 +660,7 @@
 
 <a name="quassel-core-0.0.5"></a>
 
-### [quassel-core-0.0.5](https://github.com/truecharts/apps/compare/quassel-core-0.0.4...quassel-core-0.0.5) (2021-12-18)
+### [quassel-coere-0.0.5](https://github.com/truecharts/apps/compare/quassel-core-0.0.4...quassel-core-0.0.5) (2021-12-18岁)
 
 #### 聊天
 
@@ -684,7 +684,7 @@
 
 <a name="quassel-core-0.0.3"></a>
 
-### [quassel-core-0.0.3](https://github.com/truecharts/apps/compare/quassel-core-0.0.2...quassel-core-0.0.3) (2021-12-14)
+### [quassel-corre-0.0.3](https://github.com/truecharts/apps/compare/quassel-core-0.0.2...quassel-core-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -704,4 +704,4 @@
 
 <a name="quassel-core-0.0.1"></a>
 
-### quassel-core-0.0.1 (2021-12-12)
+### quassel-corre-0.0.1 (2021-12-12)
