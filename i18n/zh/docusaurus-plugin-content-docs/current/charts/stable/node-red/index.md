@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/node-red/node-red-docker>
+* [https://github.com/node-red/node-docker](https://github.com/node-red/node-red-docker)
 
 ## B. 所需经费
 
