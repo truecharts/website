@@ -1,13 +1,13 @@
 # 清理时间
 
-Straightforward open source project management system to make your ideas reality.
+直播开放源码项目管理系统，使您的想法成为现实。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
 * <https://leantime.io/>
-* <https://hub.docker.com/r/nicholaswilde/leantime>
+* [https://hub.docker.com/r/nicholaswilde/清除时间](https://hub.docker.com/r/nicholaswilde/leantime)
 
 ## B. 所需经费
 
