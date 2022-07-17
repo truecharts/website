@@ -7,7 +7,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 ## 源代码
 
 * <https://github.com/itzg/docker-minecraft-server>
-* <https://hub.docker.com/r/itzg/minecraft-server>
+* [https://hub.docker.com/r/itzg/minecraft-服务器](https://hub.docker.com/r/itzg/minecraft-server)
 
 ## B. 所需经费
 
