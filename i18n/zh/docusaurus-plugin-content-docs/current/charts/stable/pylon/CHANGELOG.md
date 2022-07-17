@@ -155,7 +155,7 @@
 
 <a name="pylon-2.0.0"></a>
 
-### [pylon-2.0.0](https://github.com/truecharts/apps/compare/pylon-1.0.20...pylon-2.0.0) (2022-06-07)
+### [pylon-2..0.0](https://github.com/truecharts/apps/compare/pylon-1.0.20...pylon-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -569,7 +569,7 @@
 
 <a name="pylon-0.0.4"></a>
 
-### [pylon-0.0.4](https://github.com/truecharts/apps/compare/pylon-0.0.3...pylon-0.0.4) (2021-12-18)
+### [pylon-0.0.4](https://github.com/truecharts/apps/compare/pylon-0.0.3...pylon-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
