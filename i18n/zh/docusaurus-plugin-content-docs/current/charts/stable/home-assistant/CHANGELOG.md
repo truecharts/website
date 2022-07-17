@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [home-assistant-15.0.27](https://github.com/truecharts/apps/compare/home-assistant-15.0.26...home-assistant-15.0.27) (2022-07-16)
+## [家庭助理-15.0.27](https://github.com/truecharts/apps/compare/home-assistant-15.0.26...home-assistant-15.0.27) (2022-07-16)
 
 ### 聊天
 
@@ -9,7 +9,7 @@
 
 
 
-## [home-assistant-15.0.26](https://github.com/truecharts/apps/compare/home-assistant-15.0.25...home-assistant-15.0.26) (2022-07-14)
+## [家庭助理-15.0.26](https://github.com/truecharts/apps/compare/home-assistant-15.0.25...home-assistant-15.0.26) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [home-assistant-15.0.25](https://github.com/truecharts/apps/compare/home-assistant-15.0.23...home-assistant-15.0.25) (2022-07-14)
+## [家庭助手-15.0.25](https://github.com/truecharts/apps/compare/home-assistant-15.0.23...home-assistant-15.0.25) (2022-07-14)
 
 ### 修复
 
@@ -25,7 +25,7 @@
 
 
 
-## [home-assistant-15.0.23](https://github.com/truecharts/apps/compare/home-assistant-15.0.22...home-assistant-15.0.23) (2022-07-14)
+## [家庭助手-15.0.23](https://github.com/truecharts/apps/compare/home-assistant-15.0.22...home-assistant-15.0.23) (2022-07-14)
 
 ### 聊天
 
@@ -33,7 +33,7 @@
 
 
 
-## [home-assistant-15.0.22](https://github.com/truecharts/apps/compare/home-assistant-15.0.20...home-assistant-15.0.22) (2022-07-12)
+## [家庭助手-15.0.22](https://github.com/truecharts/apps/compare/home-assistant-15.0.20...home-assistant-15.0.22) (2022-07-12)
 
 ### 聊天
 
@@ -42,7 +42,7 @@
 
 
 
-## [home-assistant-15.0.20](https://github.com/truecharts/apps/compare/home-assistant-15.0.19...home-assistant-15.0.20) (2022-07-12)
+## [家庭助手-15.0.20](https://github.com/truecharts/apps/compare/home-assistant-15.0.19...home-assistant-15.0.20) (2022-07-12)
 
 ### 聊天
 
@@ -52,7 +52,7 @@
 
 <a name="home-assistant-15.0.19"></a>
 
-### [home-assistant-15.0.19](https://github.com/truecharts/apps/compare/home-assistant-15.0.18...home-assistant-15.0.19) (2022-07-12)
+### [家庭助手-15.0.19](https://github.com/truecharts/apps/compare/home-assistant-15.0.18...home-assistant-15.0.19) (2022-07-12)
 
 #### 聊天
 
@@ -62,7 +62,7 @@
 
 <a name="home-assistant-15.0.18"></a>
 
-### [home-assistant-15.0.18](https://github.com/truecharts/apps/compare/home-assistant-15.0.17...home-assistant-15.0.18) (2022-07-11)
+### [家庭助手-15.0.18](https://github.com/truecharts/apps/compare/home-assistant-15.0.17...home-assistant-15.0.18) (2022-07-11)
 
 #### 聊天
 
@@ -72,7 +72,7 @@
 
 <a name="home-assistant-15.0.17"></a>
 
-### [home-assistant-15.0.17](https://github.com/truecharts/apps/compare/home-assistant-15.0.16...home-assistant-15.0.17) (2022-07-11)
+### [家庭助手-15.0.17](https://github.com/truecharts/apps/compare/home-assistant-15.0.16...home-assistant-15.0.17) (2022-07-11)
 
 #### 聊天
 
@@ -82,7 +82,7 @@
 
 <a name="home-assistant-15.0.16"></a>
 
-### [home-assistant-15.0.16](https://github.com/truecharts/apps/compare/home-assistant-15.0.15...home-assistant-15.0.16) (2022-07-09)
+### [家庭助手-15.0.16](https://github.com/truecharts/apps/compare/home-assistant-15.0.15...home-assistant-15.0.16) (2022-07-09)
 
 #### 聊天
 
@@ -92,7 +92,7 @@
 
 <a name="home-assistant-15.0.15"></a>
 
-### [home-assistant-15.0.15](https://github.com/truecharts/apps/compare/home-assistant-15.0.14...home-assistant-15.0.15) (2022-07-09)
+### [家庭助手-15.0.15](https://github.com/truecharts/apps/compare/home-assistant-15.0.14...home-assistant-15.0.15) (2022-07-09)
 
 #### 聊天
 
@@ -102,7 +102,7 @@
 
 <a name="home-assistant-15.0.14"></a>
 
-### [home-assistant-15.0.14](https://github.com/truecharts/apps/compare/home-assistant-15.0.13...home-assistant-15.0.14) (2022-07-07)
+### [家庭助手-15.0.14](https://github.com/truecharts/apps/compare/home-assistant-15.0.13...home-assistant-15.0.14) (2022-07-07)
 
 #### 聊天
 
@@ -112,7 +112,7 @@
 
 <a name="home-assistant-15.0.13"></a>
 
-### [home-assistant-15.0.13](https://github.com/truecharts/apps/compare/home-assistant-15.0.12...home-assistant-15.0.13) (2022-07-05)
+### [家庭助手-15.0.13](https://github.com/truecharts/apps/compare/home-assistant-15.0.12...home-assistant-15.0.13) (2022-07-05)
 
 #### 聊天
 
@@ -122,7 +122,7 @@
 
 <a name="home-assistant-15.0.12"></a>
 
-### [home-assistant-15.0.12](https://github.com/truecharts/apps/compare/home-assistant-15.0.11...home-assistant-15.0.12) (2022-07-04)
+### [家庭助手-15.0.12](https://github.com/truecharts/apps/compare/home-assistant-15.0.11...home-assistant-15.0.12) (2022-07-04)
 
 #### 聊天
 
@@ -132,7 +132,7 @@
 
 <a name="home-assistant-15.0.11"></a>
 
-### [home-assistant-15.0.11](https://github.com/truecharts/apps/compare/home-assistant-15.0.10...home-assistant-15.0.11) (2022-06-25)
+### [家庭助理-15.0.11](https://github.com/truecharts/apps/compare/home-assistant-15.0.10...home-assistant-15.0.11) (2022-06-25)
 
 #### 聊天
 
@@ -142,7 +142,7 @@
 
 <a name="home-assistant-15.0.10"></a>
 
-### [home-assistant-15.0.10](https://github.com/truecharts/apps/compare/home-assistant-15.0.9...home-assistant-15.0.10) (2022-06-25)
+### [家庭助手-15.0.10](https://github.com/truecharts/apps/compare/home-assistant-15.0.9...home-assistant-15.0.10) (2022-06-25)
 
 #### 聊天
 
@@ -152,7 +152,7 @@
 
 <a name="home-assistant-15.0.9"></a>
 
-### [home-assistant-15.0.9](https://github.com/truecharts/apps/compare/home-assistant-15.0.8...home-assistant-15.0.9) (2022-06-22)
+### [家庭助手-15.0.9](https://github.com/truecharts/apps/compare/home-assistant-15.0.8...home-assistant-15.0.9) (2022-06-22)
 
 #### 聊天
 
@@ -162,7 +162,7 @@
 
 <a name="home-assistant-15.0.8"></a>
 
-### [home-assistant-15.0.8](https://github.com/truecharts/apps/compare/home-assistant-15.0.7...home-assistant-15.0.8) (2022-06-21)
+### [家庭助手-15.0.8](https://github.com/truecharts/apps/compare/home-assistant-15.0.7...home-assistant-15.0.8) (2022-06-21)
 
 #### 聊天
 
@@ -172,7 +172,7 @@
 
 <a name="home-assistant-15.0.7"></a>
 
-### [home-assistant-15.0.7](https://github.com/truecharts/apps/compare/home-assistant-15.0.6...home-assistant-15.0.7) (2022-06-17)
+### [家庭助手-15.0.7](https://github.com/truecharts/apps/compare/home-assistant-15.0.6...home-assistant-15.0.7) (2022-06-17)
 
 #### 聊天
 
@@ -182,7 +182,7 @@
 
 <a name="home-assistant-15.0.6"></a>
 
-### [home-assistant-15.0.6](https://github.com/truecharts/apps/compare/home-assistant-15.0.5...home-assistant-15.0.6) (2022-06-15)
+### [家庭助手-15.0.6](https://github.com/truecharts/apps/compare/home-assistant-15.0.5...home-assistant-15.0.6) (2022-06-15)
 
 #### 聊天
 
@@ -192,7 +192,7 @@
 
 <a name="home-assistant-15.0.5"></a>
 
-### [home-assistant-15.0.5](https://github.com/truecharts/apps/compare/home-assistant-15.0.4...home-assistant-15.0.5) (2022-06-14)
+### [家庭助手-15.0.5](https://github.com/truecharts/apps/compare/home-assistant-15.0.4...home-assistant-15.0.5) (2022-06-14)
 
 #### 聊天
 
@@ -202,7 +202,7 @@
 
 <a name="home-assistant-15.0.4"></a>
 
-### [home-assistant-15.0.4](https://github.com/truecharts/apps/compare/home-assistant-15.0.3...home-assistant-15.0.4) (2022-06-14)
+### [家庭助手-15.0.4](https://github.com/truecharts/apps/compare/home-assistant-15.0.3...home-assistant-15.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -212,7 +212,7 @@
 
 <a name="home-assistant-15.0.3"></a>
 
-### [home-assistant-15.0.3](https://github.com/truecharts/apps/compare/home-assistant-15.0.2...home-assistant-15.0.3) (2022-06-11)
+### [家庭助手-15.0.3](https://github.com/truecharts/apps/compare/home-assistant-15.0.2...home-assistant-15.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -222,7 +222,7 @@
 
 <a name="home-assistant-15.0.2"></a>
 
-### [home-assistant-15.0.2](https://github.com/truecharts/apps/compare/home-assistant-15.0.1...home-assistant-15.0.2) (2022-06-11)
+### [家庭助手-15.0.2](https://github.com/truecharts/apps/compare/home-assistant-15.0.1...home-assistant-15.0.2) (2022-06-11)
 
 #### 聊天
 
@@ -232,7 +232,7 @@
 
 <a name="home-assistant-15.0.1"></a>
 
-### [home-assistant-15.0.1](https://github.com/truecharts/apps/compare/home-assistant-15.0.0...home-assistant-15.0.1) (2022-06-08)
+### [家庭助手-15.0.1](https://github.com/truecharts/apps/compare/home-assistant-15.0.0...home-assistant-15.0.1) (2022-06-08)
 
 #### 聊天
 
@@ -244,7 +244,7 @@
 
 <a name="home-assistant-15.0.1"></a>
 
-### [home-assistant-15.0.1](https://github.com/truecharts/apps/compare/home-assistant-15.0.0...home-assistant-15.0.1) (2022-06-08)
+### [家庭助手-15.0.1](https://github.com/truecharts/apps/compare/home-assistant-15.0.0...home-assistant-15.0.1) (2022-06-08)
 
 #### 聊天
 
@@ -255,7 +255,7 @@
 
 <a name="home-assistant-15.0.1"></a>
 
-### [home-assistant-15.0.1](https://github.com/truecharts/apps/compare/home-assistant-15.0.0...home-assistant-15.0.1) (2022-06-08)
+### [家庭助手-15.0.1](https://github.com/truecharts/apps/compare/home-assistant-15.0.0...home-assistant-15.0.1) (2022-06-08)
 
 #### 聊天
 
@@ -265,7 +265,7 @@
 
 <a name="home-assistant-15.0.0"></a>
 
-### [home-assistant-15.0.0](https://github.com/truecharts/apps/compare/home-assistant-14.0.1...home-assistant-15.0.0) (2022-06-07)
+### [家庭助手-15.0.0](https://github.com/truecharts/apps/compare/home-assistant-14.0.1...home-assistant-15.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -279,7 +279,7 @@
 
 <a name="home-assistant-14.0.1"></a>
 
-### [home-assistant-14.0.1](https://github.com/truecharts/apps/compare/home-assistant-13.0.41...home-assistant-14.0.1) (2022-06-07)
+### [家庭助手-14.0.1](https://github.com/truecharts/apps/compare/home-assistant-13.0.41...home-assistant-14.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -300,7 +300,7 @@
 
 <a name="home-assistant-14.0.0"></a>
 
-### [home-assistant-14.0.0](https://github.com/truecharts/apps/compare/home-assistant-13.0.41...home-assistant-14.0.0) (2022-06-07)
+### [家庭助手-14.0.0](https://github.com/truecharts/apps/compare/home-assistant-13.0.41...home-assistant-14.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -314,7 +314,7 @@
 
 <a name="home-assistant-13.0.41"></a>
 
-### [home-assistant-13.0.41](https://github.com/truecharts/apps/compare/home-assistant-13.0.40...home-assistant-13.0.41) (2022-06-03)
+### [家庭助手-13.0.41](https://github.com/truecharts/apps/compare/home-assistant-13.0.40...home-assistant-13.0.41) (2022-06-03)
 
 #### 聊天
 
@@ -324,7 +324,7 @@
 
 <a name="home-assistant-13.0.40"></a>
 
-### [home-assistant-13.0.40](https://github.com/truecharts/apps/compare/home-assistant-13.0.39...home-assistant-13.0.40) (2022-05-31)
+### [家庭助手-13.0.40](https://github.com/truecharts/apps/compare/home-assistant-13.0.39...home-assistant-13.0.40) (2022-05-31)
 
 #### 聊天
 
@@ -334,7 +334,7 @@
 
 <a name="home-assistant-13.0.39"></a>
 
-### [home-assistant-13.0.39](https://github.com/truecharts/apps/compare/home-assistant-13.0.38...home-assistant-13.0.39) (2022-05-26)
+### [家庭助手-13.0.39](https://github.com/truecharts/apps/compare/home-assistant-13.0.38...home-assistant-13.0.39) (2022-05-26)
 
 #### 聊天
 
@@ -345,7 +345,7 @@
 
 <a name="home-assistant-13.0.39"></a>
 
-### [home-assistant-13.0.39](https://github.com/truecharts/apps/compare/home-assistant-13.0.38...home-assistant-13.0.39) (2022-05-26)
+### [家庭助手-13.0.39](https://github.com/truecharts/apps/compare/home-assistant-13.0.38...home-assistant-13.0.39) (2022-05-26)
 
 #### 聊天
 
@@ -355,7 +355,7 @@
 
 <a name="home-assistant-13.0.38"></a>
 
-### [home-assistant-13.0.38](https://github.com/truecharts/apps/compare/home-assistant-13.0.37...home-assistant-13.0.38) (2022-05-24)
+### [家庭助手-13.0.38](https://github.com/truecharts/apps/compare/home-assistant-13.0.37...home-assistant-13.0.38) (2022-05-24)
 
 #### 聊天
 
@@ -365,7 +365,7 @@
 
 <a name="home-assistant-13.0.37"></a>
 
-### [home-assistant-13.0.37](https://github.com/truecharts/apps/compare/home-assistant-13.0.36...home-assistant-13.0.37) (2022-05-19)
+### [家庭助手-13.0.37](https://github.com/truecharts/apps/compare/home-assistant-13.0.36...home-assistant-13.0.37) (2022-05-19)
 
 #### 聊天
 
@@ -375,7 +375,7 @@
 
 <a name="home-assistant-13.0.36"></a>
 
-### [home-assistant-13.0.36](https://github.com/truecharts/apps/compare/home-assistant-13.0.35...home-assistant-13.0.36) (2022-05-17)
+### [家庭助手-13.0.36](https://github.com/truecharts/apps/compare/home-assistant-13.0.35...home-assistant-13.0.36) (2022-05-17)
 
 #### 聊天
 
@@ -386,7 +386,7 @@
 
 <a name="home-assistant-13.0.36"></a>
 
-### [home-assistant-13.0.36](https://github.com/truecharts/apps/compare/home-assistant-13.0.35...home-assistant-13.0.36) (2022-05-17)
+### [家庭助手-13.0.36](https://github.com/truecharts/apps/compare/home-assistant-13.0.35...home-assistant-13.0.36) (2022-05-17)
 
 #### 聊天
 
@@ -396,7 +396,7 @@
 
 <a name="home-assistant-13.0.35"></a>
 
-### [home-assistant-13.0.35](https://github.com/truecharts/apps/compare/home-assistant-13.0.34...home-assistant-13.0.35) (2022-05-17)
+### [家庭助手-13.0.35](https://github.com/truecharts/apps/compare/home-assistant-13.0.34...home-assistant-13.0.35) (2022-05-17)
 
 #### 聊天
 
@@ -406,7 +406,7 @@
 
 <a name="home-assistant-13.0.34"></a>
 
-### [home-assistant-13.0.34](https://github.com/truecharts/apps/compare/home-assistant-13.0.33...home-assistant-13.0.34) (2022-05-14)
+### [家庭助手-13.0.34](https://github.com/truecharts/apps/compare/home-assistant-13.0.33...home-assistant-13.0.34) (2022-05-14)
 
 #### 聊天
 
@@ -416,7 +416,7 @@
 
 <a name="home-assistant-13.0.33"></a>
 
-### [home-assistant-13.0.33](https://github.com/truecharts/apps/compare/home-assistant-13.0.32...home-assistant-13.0.33) (2022-05-10)
+### [家庭助手-13.0.33](https://github.com/truecharts/apps/compare/home-assistant-13.0.32...home-assistant-13.0.33) (2022-05-10)
 
 #### 聊天
 
@@ -426,7 +426,7 @@
 
 <a name="home-assistant-13.0.32"></a>
 
-### [home-assistant-13.0.32](https://github.com/truecharts/apps/compare/home-assistant-13.0.31...home-assistant-13.0.32) (2022-05-09)
+### [家庭助手-13.0.32](https://github.com/truecharts/apps/compare/home-assistant-13.0.31...home-assistant-13.0.32) (2022-05-09)
 
 #### 聊天
 
@@ -436,7 +436,7 @@
 
 <a name="home-assistant-13.0.31"></a>
 
-### [home-assistant-13.0.31](https://github.com/truecharts/apps/compare/home-assistant-13.0.30...home-assistant-13.0.31) (2022-05-08)
+### [家庭助手-13.0.31](https://github.com/truecharts/apps/compare/home-assistant-13.0.30...home-assistant-13.0.31) (2022-05-08)
 
 #### 聊天
 
@@ -446,7 +446,7 @@
 
 <a name="home-assistant-13.0.30"></a>
 
-### [home-assistant-13.0.30](https://github.com/truecharts/apps/compare/home-assistant-13.0.29...home-assistant-13.0.30) (2022-05-06)
+### [家庭助手-13.0.30](https://github.com/truecharts/apps/compare/home-assistant-13.0.29...home-assistant-13.0.30) (2022-05-06)
 
 #### 聊天
 
@@ -456,7 +456,7 @@
 
 <a name="home-assistant-13.0.29"></a>
 
-### [home-assistant-13.0.29](https://github.com/truecharts/apps/compare/home-assistant-13.0.28...home-assistant-13.0.29) (2022-05-05)
+### [家庭助手-13.0.29](https://github.com/truecharts/apps/compare/home-assistant-13.0.28...home-assistant-13.0.29) (2022-05-05)
 
 #### 聊天
 
@@ -466,7 +466,7 @@
 
 <a name="home-assistant-13.0.28"></a>
 
-### [home-assistant-13.0.28](https://github.com/truecharts/apps/compare/home-assistant-13.0.27...home-assistant-13.0.28) (2022-05-04)
+### [家庭助手-13.0.28](https://github.com/truecharts/apps/compare/home-assistant-13.0.27...home-assistant-13.0.28) (2022-05-04)
 
 #### 聊天
 
@@ -476,7 +476,7 @@
 
 <a name="home-assistant-13.0.27"></a>
 
-### [home-assistant-13.0.27](https://github.com/truecharts/apps/compare/home-assistant-13.0.26...home-assistant-13.0.27) (2022-05-04)
+### [家庭助手-13.0.27](https://github.com/truecharts/apps/compare/home-assistant-13.0.26...home-assistant-13.0.27) (2022-05-04)
 
 #### 聊天
 
@@ -486,7 +486,7 @@
 
 <a name="home-assistant-13.0.26"></a>
 
-### [home-assistant-13.0.26](https://github.com/truecharts/apps/compare/home-assistant-13.0.25...home-assistant-13.0.26) (2022-04-28)
+### [家庭助手-13.0.26](https://github.com/truecharts/apps/compare/home-assistant-13.0.25...home-assistant-13.0.26) (2022-04-28)
 
 #### 聊天
 
@@ -496,7 +496,7 @@
 
 <a name="home-assistant-13.0.25"></a>
 
-### [home-assistant-13.0.25](https://github.com/truecharts/apps/compare/home-assistant-13.0.24...home-assistant-13.0.25) (2022-04-26)
+### [家庭助手-13.0.25](https://github.com/truecharts/apps/compare/home-assistant-13.0.24...home-assistant-13.0.25) (2022-04-26)
 
 #### 聊天
 
@@ -506,7 +506,7 @@
 
 <a name="home-assistant-13.0.24"></a>
 
-### [home-assistant-13.0.24](https://github.com/truecharts/apps/compare/home-assistant-13.0.23...home-assistant-13.0.24) (2022-04-26)
+### [家庭助手-13.0.24](https://github.com/truecharts/apps/compare/home-assistant-13.0.23...home-assistant-13.0.24) (2022-04-26)
 
 #### 聊天
 
@@ -516,7 +516,7 @@
 
 <a name="home-assistant-13.0.23"></a>
 
-### [home-assistant-13.0.23](https://github.com/truecharts/apps/compare/home-assistant-13.0.22...home-assistant-13.0.23) (2022-04-20)
+### [家庭助手-13.0.23](https://github.com/truecharts/apps/compare/home-assistant-13.0.22...home-assistant-13.0.23) (2022-04-20)
 
 #### 聊天
 
@@ -527,7 +527,7 @@
 
 <a name="home-assistant-13.0.22"></a>
 
-### [home-assistant-13.0.22](https://github.com/truecharts/apps/compare/home-assistant-13.0.21...home-assistant-13.0.22) (2022-04-18)
+### [家庭助手-13.0.22](https://github.com/truecharts/apps/compare/home-assistant-13.0.21...home-assistant-13.0.22) (2022-04-18)
 
 #### 聊天
 
@@ -537,7 +537,7 @@
 
 <a name="home-assistant-13.0.21"></a>
 
-### [home-assistant-13.0.21](https://github.com/truecharts/apps/compare/home-assistant-13.0.20...home-assistant-13.0.21) (2022-04-16)
+### [家庭助理-13.0.21](https://github.com/truecharts/apps/compare/home-assistant-13.0.20...home-assistant-13.0.21) (2022-04-16)
 
 #### 聊天
 
@@ -547,7 +547,7 @@
 
 <a name="home-assistant-13.0.20"></a>
 
-### [home-assistant-13.0.20](https://github.com/truecharts/apps/compare/home-assistant-13.0.19...home-assistant-13.0.20) (2022-04-13)
+### [家庭助手-13.0.20](https://github.com/truecharts/apps/compare/home-assistant-13.0.19...home-assistant-13.0.20) (2022-04-13)
 
 #### 聊天
 
@@ -557,7 +557,7 @@
 
 <a name="home-assistant-13.0.19"></a>
 
-### [home-assistant-13.0.19](https://github.com/truecharts/apps/compare/home-assistant-13.0.18...home-assistant-13.0.19) (2022-04-12)
+### [家庭助手-13.0.19](https://github.com/truecharts/apps/compare/home-assistant-13.0.18...home-assistant-13.0.19) (2022-04-12)
 
 #### 聊天
 
@@ -567,7 +567,7 @@
 
 <a name="home-assistant-13.0.18"></a>
 
-### [home-assistant-13.0.18](https://github.com/truecharts/apps/compare/home-assistant-13.0.17...home-assistant-13.0.18) (2022-04-12)
+### [家庭助手-13.0.18](https://github.com/truecharts/apps/compare/home-assistant-13.0.17...home-assistant-13.0.18) (2022-04-12)
 
 #### 聊天
 
@@ -577,7 +577,7 @@
 
 <a name="home-assistant-13.0.17"></a>
 
-### [home-assistant-13.0.17](https://github.com/truecharts/apps/compare/home-assistant-13.0.16...home-assistant-13.0.17) (2022-04-09)
+### [家庭助手-13.0.17](https://github.com/truecharts/apps/compare/home-assistant-13.0.16...home-assistant-13.0.17) (2022-04-09)
 
 #### 聊天
 
@@ -587,7 +587,7 @@
 
 <a name="home-assistant-13.0.16"></a>
 
-### [home-assistant-13.0.16](https://github.com/truecharts/apps/compare/home-assistant-13.0.15...home-assistant-13.0.16) (2022-04-03)
+### [家庭助手-13.0.16](https://github.com/truecharts/apps/compare/home-assistant-13.0.15...home-assistant-13.0.16) (2022-04-03)
 
 #### 聊天
 
@@ -597,7 +597,7 @@
 
 <a name="home-assistant-13.0.15"></a>
 
-### [home-assistant-13.0.15](https://github.com/truecharts/apps/compare/home-assistant-13.0.14...home-assistant-13.0.15) (2022-03-31)
+### [家庭助手-13.0.15](https://github.com/truecharts/apps/compare/home-assistant-13.0.14...home-assistant-13.0.15) (2022-03-31)
 
 #### 聊天
 
@@ -607,7 +607,7 @@
 
 <a name="home-assistant-13.0.14"></a>
 
-### [home-assistant-13.0.14](https://github.com/truecharts/apps/compare/home-assistant-13.0.12...home-assistant-13.0.14) (2022-03-31)
+### [家庭助手-13.0.14](https://github.com/truecharts/apps/compare/home-assistant-13.0.12...home-assistant-13.0.14) (2022-03-31)
 
 #### 聊天
 
@@ -618,7 +618,7 @@
 
 <a name="home-assistant-13.0.12"></a>
 
-### [home-assistant-13.0.12](https://github.com/truecharts/apps/compare/home-assistant-13.0.11...home-assistant-13.0.12) (2022-03-30)
+### [家庭助手-13.0.12](https://github.com/truecharts/apps/compare/home-assistant-13.0.11...home-assistant-13.0.12) (2022-03-30)
 
 #### 聊天
 
@@ -629,7 +629,7 @@
 
 <a name="home-assistant-13.0.11"></a>
 
-### [home-assistant-13.0.11](https://github.com/truecharts/apps/compare/home-assistant-13.0.10...home-assistant-13.0.11) (2022-03-26)
+### [家庭助手-13.0.11](https://github.com/truecharts/apps/compare/home-assistant-13.0.10...home-assistant-13.0.11) (2022-03-26)
 
 #### 聊天
 
@@ -639,7 +639,7 @@
 
 <a name="home-assistant-13.0.10"></a>
 
-### [home-assistant-13.0.10](https://github.com/truecharts/apps/compare/home-assistant-13.0.9...home-assistant-13.0.10) (2022-03-26)
+### [家庭助手-13.0.10](https://github.com/truecharts/apps/compare/home-assistant-13.0.9...home-assistant-13.0.10) (2022-03-26)
 
 #### 聊天
 
@@ -649,7 +649,7 @@
 
 <a name="home-assistant-13.0.8"></a>
 
-### [home-assistant-13.0.8](https://github.com/truecharts/apps/compare/home-assistant-13.0.7...home-assistant-13.0.8) (2022-03-24)
+### [家庭助手-13.0.8](https://github.com/truecharts/apps/compare/home-assistant-13.0.7...home-assistant-13.0.8) (2022-03-24)
 
 #### 聊天
 
@@ -660,7 +660,7 @@
 
 <a name="home-assistant-13.0.4"></a>
 
-### [home-assistant-13.0.4](https://github.com/truecharts/apps/compare/home-assistant-13.0.3...home-assistant-13.0.4) (2022-03-15)
+### [家庭助手-13.0.4](https://github.com/truecharts/apps/compare/home-assistant-13.0.3...home-assistant-13.0.4) (2022-03-15)
 
 #### 聊天
 
@@ -670,7 +670,7 @@
 
 <a name="home-assistant-13.0.3"></a>
 
-### [home-assistant-13.0.3](https://github.com/truecharts/apps/compare/home-assistant-13.0.2...home-assistant-13.0.3) (2022-03-08)
+### [家庭助手-13.0.3](https://github.com/truecharts/apps/compare/home-assistant-13.0.2...home-assistant-13.0.3) (2022-03-08)
 
 #### 聊天
 
@@ -680,7 +680,7 @@
 
 <a name="home-assistant-13.0.2"></a>
 
-### [home-assistant-13.0.2](https://github.com/truecharts/apps/compare/home-assistant-13.0.1...home-assistant-13.0.2) (2022-03-07)
+### [家庭助手-13.0.2](https://github.com/truecharts/apps/compare/home-assistant-13.0.1...home-assistant-13.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -690,7 +690,7 @@
 
 <a name="home-assistant-13.0.1"></a>
 
-### [home-assistant-13.0.1](https://github.com/truecharts/apps/compare/home-assistant-13.0.0...home-assistant-13.0.1) (2022-03-07)
+### [家庭助手-13.0.1](https://github.com/truecharts/apps/compare/home-assistant-13.0.0...home-assistant-13.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -701,7 +701,7 @@
 
 <a name="home-assistant-13.0.0"></a>
 
-### [home-assistant-13.0.0](https://github.com/truecharts/apps/compare/home-assistant-12.0.45...home-assistant-13.0.0) (2022-03-03)
+### [家庭助手-13.0.0](https://github.com/truecharts/apps/compare/home-assistant-12.0.45...home-assistant-13.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -718,7 +718,7 @@
 
 <a name="home-assistant-12.0.45"></a>
 
-### [home-assistant-12.0.45](https://github.com/truecharts/apps/compare/home-assistant-12.0.44...home-assistant-12.0.45) (2022-03-02)
+### [家庭助手-12.0.45](https://github.com/truecharts/apps/compare/home-assistant-12.0.44...home-assistant-12.0.45) (2022-03-02)
 
 #### 聊天
 
@@ -729,7 +729,7 @@
 
 <a name="home-assistant-12.0.44"></a>
 
-### [home-assistant-12.0.44](https://github.com/truecharts/apps/compare/home-assistant-12.0.43...home-assistant-12.0.44) (2022-02-21)
+### [家庭助手-12.0.44](https://github.com/truecharts/apps/compare/home-assistant-12.0.43...home-assistant-12.0.44) (2022-02-21)
 
 #### 聊天
 
@@ -739,7 +739,7 @@
 
 <a name="home-assistant-12.0.43"></a>
 
-### [home-assistant-12.0.43](https://github.com/truecharts/apps/compare/home-assistant-12.0.42...home-assistant-12.0.43) (2022-02-15)
+### [家庭助手-12.0.43](https://github.com/truecharts/apps/compare/home-assistant-12.0.42...home-assistant-12.0.43) (2022-02-15)
 
 #### 聊天
 
@@ -749,7 +749,7 @@
 
 <a name="home-assistant-12.0.42"></a>
 
-### [home-assistant-12.0.42](https://github.com/truecharts/apps/compare/home-assistant-12.0.41...home-assistant-12.0.42) (2022-02-10)
+### [家庭助手-12.0.42](https://github.com/truecharts/apps/compare/home-assistant-12.0.41...home-assistant-12.0.42) (2022-02-10)
 
 #### 聊天
 
@@ -759,7 +759,7 @@
 
 <a name="home-assistant-12.0.41"></a>
 
-### [home-assistant-12.0.41](https://github.com/truecharts/apps/compare/home-assistant-12.0.40...home-assistant-12.0.41) (2022-02-08)
+### [家庭助手-12.0.41](https://github.com/truecharts/apps/compare/home-assistant-12.0.40...home-assistant-12.0.41) (2022-02-08)
 
 #### 聊天
 
@@ -769,7 +769,7 @@
 
 <a name="home-assistant-12.0.40"></a>
 
-### [home-assistant-12.0.40](https://github.com/truecharts/apps/compare/home-assistant-12.0.39...home-assistant-12.0.40) (2022-02-06)
+### [家庭助手-12.0.40](https://github.com/truecharts/apps/compare/home-assistant-12.0.39...home-assistant-12.0.40) (2022-02-06)
 
 #### 聊天
 
@@ -779,18 +779,18 @@
 
 <a name="home-assistant-12.0.39"></a>
 
-### [home-assistant-12.0.39](https://github.com/truecharts/apps/compare/home-assistant-12.0.38...home-assistant-12.0.39) (2022-02-05)
+### [家庭助手-12.0.39](https://github.com/truecharts/apps/compare/home-assistant-12.0.38...home-assistant-12.0.39) (2022-02-05)
 
 #### 聊天
 
 * 更新头盔的一般非主头盔版本([#1852](https://github.com/truecharts/apps/issues/1852))
-* update container image tccr.io/truecharts/home-assistant to v2022.2.2 ([#1850](https://github.com/truecharts/apps/issues/1850))
+* 更新容器图像 tccr.io/truecharts/home assister 到 v2022.2.2 ([#1850](https://github.com/truecharts/apps/issues/1850))
 
 
 
 <a name="home-assistant-12.0.38"></a>
 
-### [home-assistant-12.0.38](https://github.com/truecharts/apps/compare/home-assistant-12.0.37...home-assistant-12.0.38) (2022-02-02)
+### [家庭助手-12.0.38](https://github.com/truecharts/apps/compare/home-assistant-12.0.37...home-assistant-12.0.38) (2022-02-02)
 
 #### 聊天
 
@@ -800,7 +800,7 @@
 
 <a name="home-assistant-12.0.37"></a>
 
-### [home-assistant-12.0.37](https://github.com/truecharts/apps/compare/home-assistant-12.0.36...home-assistant-12.0.37) (2022-01-25)
+### [家庭助手-12.0.37](https://github.com/truecharts/apps/compare/home-assistant-12.0.36...home-assistant-12.0.37) (2022-01-25)
 
 #### 聊天
 
@@ -810,7 +810,7 @@
 
 <a name="home-assistant-12.0.36"></a>
 
-### [home-assistant-12.0.36](https://github.com/truecharts/apps/compare/home-assistant-12.0.35...home-assistant-12.0.36) (2022-01-22)
+### [家庭助手-12.0.36](https://github.com/truecharts/apps/compare/home-assistant-12.0.35...home-assistant-12.0.36) (2022-01-22)
 
 #### 聊天
 
@@ -820,7 +820,7 @@
 
 <a name="home-assistant-12.0.35"></a>
 
-### [home-assistant-12.0.35](https://github.com/truecharts/apps/compare/home-assistant-12.0.34...home-assistant-12.0.35) (2022-01-22)
+### [家庭助手-12.0.35](https://github.com/truecharts/apps/compare/home-assistant-12.0.34...home-assistant-12.0.35) (2022-01-22)
 
 #### 聊天
 
@@ -830,7 +830,7 @@
 
 <a name="home-assistant-12.0.34"></a>
 
-### [home-assistant-12.0.34](https://github.com/truecharts/apps/compare/home-assistant-12.0.33...home-assistant-12.0.34) (2022-01-21)
+### [家庭助手-12.0.34](https://github.com/truecharts/apps/compare/home-assistant-12.0.33...home-assistant-12.0.34) (2022-01-21)
 
 #### 聊天
 
@@ -844,7 +844,7 @@
 
 <a name="home-assistant-12.0.33"></a>
 
-### [home-assistant-12.0.33](https://github.com/truecharts/apps/compare/home-assistant-12.0.32...home-assistant-12.0.33) (2022-01-19)
+### [家庭助手-12.0.33](https://github.com/truecharts/apps/compare/home-assistant-12.0.32...home-assistant-12.0.33) (2022-01-19)
 
 #### 聊天
 
@@ -854,7 +854,7 @@
 
 <a name="home-assistant-12.0.32"></a>
 
-### [home-assistant-12.0.32](https://github.com/truecharts/apps/compare/home-assistant-12.0.31...home-assistant-12.0.32) (2022-01-18)
+### [家庭助手-12.0.32](https://github.com/truecharts/apps/compare/home-assistant-12.0.31...home-assistant-12.0.32) (2022-01-18)
 
 #### 聊天
 
@@ -864,7 +864,7 @@
 
 <a name="home-assistant-12.0.31"></a>
 
-### [home-assistant-12.0.31](https://github.com/truecharts/apps/compare/home-assistant-12.0.30...home-assistant-12.0.31) (2022-01-17)
+### [家庭助手-12.0.31](https://github.com/truecharts/apps/compare/home-assistant-12.0.30...home-assistant-12.0.31) (2022-01-17)
 
 #### 聊天
 
@@ -874,7 +874,7 @@
 
 <a name="home-assistant-12.0.30"></a>
 
-### [home-assistant-12.0.30](https://github.com/truecharts/apps/compare/home-assistant-12.0.29...home-assistant-12.0.30) (2022-01-13)
+### [家庭助手-12.0.30](https://github.com/truecharts/apps/compare/home-assistant-12.0.29...home-assistant-12.0.30) (2022-01-13)
 
 #### 聊天
 
@@ -888,7 +888,7 @@
 
 <a name="home-assistant-12.0.29"></a>
 
-### [home-assistant-12.0.29](https://github.com/truecharts/apps/compare/home-assistant-12.0.28...home-assistant-12.0.29) (2022-01-12)
+### [家庭助手-12.0.29](https://github.com/truecharts/apps/compare/home-assistant-12.0.28...home-assistant-12.0.29) (2022-01-12)
 
 #### 聊天
 
@@ -898,7 +898,7 @@
 
 <a name="home-assistant-12.0.28"></a>
 
-### [home-assistant-12.0.28](https://github.com/truecharts/apps/compare/home-assistant-12.0.27...home-assistant-12.0.28) (2022-01-11)
+### [家庭助手-12.0.28](https://github.com/truecharts/apps/compare/home-assistant-12.0.27...home-assistant-12.0.28) (2022-01-11)
 
 #### 聊天
 
@@ -908,7 +908,7 @@
 
 <a name="home-assistant-12.0.27"></a>
 
-### [home-assistant-12.0.27](https://github.com/truecharts/apps/compare/home-assistant-12.0.26...home-assistant-12.0.27) (2022-01-10)
+### [家庭助手-12.0.27](https://github.com/truecharts/apps/compare/home-assistant-12.0.26...home-assistant-12.0.27) (2022-01-10)
 
 #### 聊天
 
@@ -918,7 +918,7 @@
 
 <a name="home-assistant-12.0.26"></a>
 
-### [home-assistant-12.0.26](https://github.com/truecharts/apps/compare/home-assistant-12.0.25...home-assistant-12.0.26) (2022-01-04)
+### [家庭助手-12.0.26](https://github.com/truecharts/apps/compare/home-assistant-12.0.25...home-assistant-12.0.26) (2022-01-04)
 
 #### 聊天
 
@@ -928,7 +928,7 @@
 
 <a name="home-assistant-12.0.25"></a>
 
-### [home-assistant-12.0.25](https://github.com/truecharts/apps/compare/home-assistant-12.0.24...home-assistant-12.0.25) (2022-01-03)
+### [家庭助手-12.0.25](https://github.com/truecharts/apps/compare/home-assistant-12.0.24...home-assistant-12.0.25) (2022-01-03)
 
 #### 聊天
 
@@ -938,7 +938,7 @@
 
 <a name="home-assistant-12.0.24"></a>
 
-### [home-assistant-12.0.24](https://github.com/truecharts/apps/compare/home-assistant-12.0.23...home-assistant-12.0.24) (2021-12-28)
+### [家庭助手-12.0.24](https://github.com/truecharts/apps/compare/home-assistant-12.0.23...home-assistant-12.0.24) (2021-12-28)
 
 #### 聊天
 
@@ -948,7 +948,7 @@
 
 <a name="home-assistant-12.0.23"></a>
 
-### [home-assistant-12.0.23](https://github.com/truecharts/apps/compare/home-assistant-12.0.22...home-assistant-12.0.23) (2021-12-27)
+### [家庭助手-12.0.23](https://github.com/truecharts/apps/compare/home-assistant-12.0.22...home-assistant-12.0.23) (2021-12-27)
 
 #### 聊天
 
@@ -958,7 +958,7 @@
 
 <a name="home-assistant-12.0.22"></a>
 
-### [home-assistant-12.0.22](https://github.com/truecharts/apps/compare/home-assistant-12.0.21...home-assistant-12.0.22) (2021-12-21)
+### [家庭助手-12.0.22](https://github.com/truecharts/apps/compare/home-assistant-12.0.21...home-assistant-12.0.22) (2021-12-21)
 
 #### 聊天
 
@@ -968,7 +968,7 @@
 
 <a name="home-assistant-12.0.21"></a>
 
-### [home-assistant-12.0.21](https://github.com/truecharts/apps/compare/home-assistant-12.0.20...home-assistant-12.0.21) (2021-12-19)
+### [家庭助手-12.0.21](https://github.com/truecharts/apps/compare/home-assistant-12.0.20...home-assistant-12.0.21) (2021-12-19)
 
 #### 聊天
 
@@ -979,7 +979,7 @@
 
 <a name="home-assistant-12.0.20"></a>
 
-### [home-assistant-12.0.20](https://github.com/truecharts/apps/compare/home-assistant-12.0.19...home-assistant-12.0.20) (2021-12-19)
+### [家庭助手-12.0.20](https://github.com/truecharts/apps/compare/home-assistant-12.0.19...home-assistant-12.0.20) (2021-12-19)
 
 #### 聊天
 
@@ -990,7 +990,7 @@
 
 <a name="home-assistant-12.0.19"></a>
 
-### [home-assistant-12.0.19](https://github.com/truecharts/apps/compare/home-assistant-12.0.18...home-assistant-12.0.19) (2021-12-19)
+### [家庭助手-12.0.19](https://github.com/truecharts/apps/compare/home-assistant-12.0.18...home-assistant-12.0.19) (2021-12-19)
 
 #### 聊天
 
@@ -1000,7 +1000,7 @@
 
 <a name="home-assistant-12.0.18"></a>
 
-### [home-assistant-12.0.18](https://github.com/truecharts/apps/compare/home-assistant-12.0.17...home-assistant-12.0.18) (2021-12-18)
+### [家庭助手-12.0.18](https://github.com/truecharts/apps/compare/home-assistant-12.0.17...home-assistant-12.0.18) (2021-12-18岁)
 
 #### 聊天
 
@@ -1010,19 +1010,19 @@
 
 <a name="home-assistant-12.0.17"></a>
 
-### [home-assistant-12.0.17](https://github.com/truecharts/apps/compare/home-assistant-12.0.16...home-assistant-12.0.17) (2021-12-15)
+### [家庭助手-12.0.17](https://github.com/truecharts/apps/compare/home-assistant-12.0.16...home-assistant-12.0.17) (2021-12-15)
 
 #### 聊天
 
 * 应用图标组织([#1539](https://github.com/truecharts/apps/issues/1539))
-* update docker general non-major docker tags ([#1542](https://github.com/truecharts/apps/issues/1542))
+* 更新一般非主停靠标签([#1542](https://github.com/truecharts/apps/issues/1542))
 * 更新一般非主要停靠栏
 
 
 
 <a name="home-assistant-12.0.16"></a>
 
-### [home-assistant-12.0.16](https://github.com/truecharts/apps/compare/home-assistant-12.0.15...home-assistant-12.0.16) (2021-12-14)
+### [家庭助手-12.0.16](https://github.com/truecharts/apps/compare/home-assistant-12.0.15...home-assistant-12.0.16) (2021-12-14)
 
 #### 聊天
 
@@ -1032,7 +1032,7 @@
 
 <a name="home-assistant-12.0.15"></a>
 
-### [home-assistant-12.0.15](https://github.com/truecharts/apps/compare/home-assistant-12.0.14...home-assistant-12.0.15) (2021-12-13)
+### [家庭助手-12.0.15](https://github.com/truecharts/apps/compare/home-assistant-12.0.14...home-assistant-12.0.15) (2021-12-13)
 
 #### 聊天
 
@@ -1042,7 +1042,7 @@
 
 <a name="home-assistant-12.0.14"></a>
 
-### [home-assistant-12.0.14](https://github.com/truecharts/apps/compare/home-assistant-12.0.13...home-assistant-12.0.14) (2021-12-12)
+### [家庭助手-12.0.14](https://github.com/truecharts/apps/compare/home-assistant-12.0.13...home-assistant-12.0.14) (2021-12)
 
 #### 聊天
 
@@ -1052,7 +1052,7 @@
 
 <a name="home-assistant-12.0.13"></a>
 
-### [home-assistant-12.0.13](https://github.com/truecharts/apps/compare/home-assistant-12.0.12...home-assistant-12.0.13) (2021-12-11)
+### [家庭助手-12.0.13](https://github.com/truecharts/apps/compare/home-assistant-12.0.12...home-assistant-12.0.13) (2021-12-11)
 
 #### 聊天
 
@@ -1062,7 +1062,7 @@
 
 <a name="home-assistant-12.0.12"></a>
 
-### [home-assistant-12.0.12](https://github.com/truecharts/apps/compare/home-assistant-12.0.11...home-assistant-12.0.12) (2021-12-11)
+### [家庭助手-12.0.12](https://github.com/truecharts/apps/compare/home-assistant-12.0.11...home-assistant-12.0.12) (2021-12-11)
 
 #### 聊天
 
@@ -1072,7 +1072,7 @@
 
 <a name="home-assistant-12.0.11"></a>
 
-### [home-assistant-12.0.11](https://github.com/truecharts/apps/compare/home-assistant-12.0.10...home-assistant-12.0.11) (2021-12-07)
+### [家庭助手-12.0.11](https://github.com/truecharts/apps/compare/home-assistant-12.0.10...home-assistant-12.0.11) (2021-12-07)
 
 #### 聊天
 
@@ -1082,7 +1082,7 @@
 
 <a name="home-assistant-12.0.10"></a>
 
-### home-assistant-12.0.10 (2021-12-05)
+### 家庭助理-12.0.10 (2021-12-05)
 
 #### 聊天
 
@@ -1101,7 +1101,7 @@
 
 <a name="home-assistant-12.0.9"></a>
 
-### [home-assistant-12.0.9](https://github.com/truecharts/apps/compare/home-assistant-12.0.8...home-assistant-12.0.9) (2021-12-05)
+### [家庭助手-12.0.9](https://github.com/truecharts/apps/compare/home-assistant-12.0.8...home-assistant-12.0.9) (2021-12-05)
 
 #### 聊天
 
@@ -1111,7 +1111,7 @@
 
 <a name="home-assistant-12.0.8"></a>
 
-### [home-assistant-12.0.8](https://github.com/truecharts/apps/compare/home-assistant-12.0.7...home-assistant-12.0.8) (2021-12-04)
+### [家庭助手-12.0.8](https://github.com/truecharts/apps/compare/home-assistant-12.0.7...home-assistant-12.0.8) (2021-12-04)
 
 #### 聊天
 
@@ -1121,7 +1121,7 @@
 
 <a name="home-assistant-12.0.7"></a>
 
-### [home-assistant-12.0.7](https://github.com/truecharts/apps/compare/home-assistant-12.0.6...home-assistant-12.0.7) (2021-12-04)
+### [家庭助手-12.0.7](https://github.com/truecharts/apps/compare/home-assistant-12.0.6...home-assistant-12.0.7) (2021-12-04)
 
 #### 聊天
 
@@ -1132,7 +1132,7 @@
 
 <a name="home-assistant-12.0.6"></a>
 
-### [home-assistant-12.0.6](https://github.com/truecharts/apps/compare/home-assistant-12.0.5...home-assistant-12.0.6) (2021-11-30)
+### [家庭助手-12.0.6](https://github.com/truecharts/apps/compare/home-assistant-12.0.5...home-assistant-12.0.6) (2021-11-30)
 
 #### 聊天
 
@@ -1142,7 +1142,7 @@
 
 <a name="home-assistant-12.0.5"></a>
 
-### [home-assistant-12.0.5](https://github.com/truecharts/apps/compare/home-assistant-12.0.4...home-assistant-12.0.5) (2021-11-23)
+### [家庭助手-12.0.5](https://github.com/truecharts/apps/compare/home-assistant-12.0.4...home-assistant-12.0.5) (2021-11-23)
 
 #### 聊天
 
@@ -1152,7 +1152,7 @@
 
 <a name="home-assistant-12.0.4"></a>
 
-### [home-assistant-12.0.4](https://github.com/truecharts/apps/compare/home-assistant-12.0.3...home-assistant-12.0.4) (2021-11-22)
+### [家庭助手-12.0.4](https://github.com/truecharts/apps/compare/home-assistant-12.0.3...home-assistant-12.0.4) (2021-11-22)
 
 #### 聊天
 
@@ -1162,7 +1162,7 @@
 
 <a name="home-assistant-12.0.3"></a>
 
-### [home-assistant-12.0.3](https://github.com/truecharts/apps/compare/home-assistant-12.0.2...home-assistant-12.0.3) (2021-11-22)
+### [家庭助手-12.0.3](https://github.com/truecharts/apps/compare/home-assistant-12.0.2...home-assistant-12.0.3) (2021-11-22)
 
 #### 聊天
 
@@ -1172,7 +1172,7 @@
 
 <a name="home-assistant-12.0.2"></a>
 
-### [home-assistant-12.0.2](https://github.com/truecharts/apps/compare/home-assistant-12.0.1...home-assistant-12.0.2) (2021-11-16)
+### [家庭助理-12.0.2](https://github.com/truecharts/apps/compare/home-assistant-12.0.1...home-assistant-12.0.2) (2021-11-16)
 
 #### 聊天
 
@@ -1182,7 +1182,7 @@
 
 <a name="home-assistant-12.0.1"></a>
 
-### [home-assistant-12.0.1](https://github.com/truecharts/apps/compare/home-assistant-12.0.0...home-assistant-12.0.1) (2021-11-16)
+### [家庭助手-12.0.1](https://github.com/truecharts/apps/compare/home-assistant-12.0.0...home-assistant-12.0.1) (2021-11-16)
 
 #### 聊天
 
@@ -1192,7 +1192,7 @@
 
 <a name="home-assistant-12.0.0"></a>
 
-### [home-assistant-12.0.0](https://github.com/truecharts/apps/compare/home-assistant-11.0.13...home-assistant-12.0.0) (2021-11-16)
+### [家庭助手-12.0.0](https://github.com/truecharts/apps/compare/home-assistant-11.0.13...home-assistant-12.0.0) (2021-11-16)
 
 #### 聊天
 
@@ -1202,7 +1202,7 @@
 
 <a name="home-assistant-11.0.13"></a>
 
-### [home-assistant-11.0.13](https://github.com/truecharts/apps/compare/home-assistant-11.0.12...home-assistant-11.0.13) (2021-11-15)
+### [家庭助手-11.0.13](https://github.com/truecharts/apps/compare/home-assistant-11.0.12...home-assistant-11.0.13) (2021-11-15)
 
 #### 聊天
 
@@ -1213,7 +1213,7 @@
 
 <a name="home-assistant-11.0.12"></a>
 
-### [home-assistant-11.0.12](https://github.com/truecharts/apps/compare/home-assistant-11.0.11...home-assistant-11.0.12) (2021-11-14)
+### [家庭助手-11.0.12](https://github.com/truecharts/apps/compare/home-assistant-11.0.11...home-assistant-11.0.12) (2021-11-14)
 
 #### 聊天
 
@@ -1232,7 +1232,7 @@
 
 <a name="home-assistant-11.0.11"></a>
 
-### [home-assistant-11.0.11](https://github.com/truecharts/apps/compare/home-assistant-11.0.10...home-assistant-11.0.11) (2021-11-09)
+### [家庭助手-11.0.11](https://github.com/truecharts/apps/compare/home-assistant-11.0.10...home-assistant-11.0.11) (2021-11-09)
 
 #### 聊天
 
@@ -1242,7 +1242,7 @@
 
 <a name="home-assistant-11.0.10"></a>
 
-### [home-assistant-11.0.10](https://github.com/truecharts/apps/compare/home-assistant-11.0.9...home-assistant-11.0.10) (2021-11-09)
+### [家庭助手-11.0.10](https://github.com/truecharts/apps/compare/home-assistant-11.0.9...home-assistant-11.0.10) (2021-11-09)
 
 #### 聊天
 
@@ -1252,7 +1252,7 @@
 
 <a name="home-assistant-11.0.9"></a>
 
-### [home-assistant-11.0.9](https://github.com/truecharts/apps/compare/home-assistant-11.0.8...home-assistant-11.0.9) (2021-11-07)
+### [家庭助手-11.0.9](https://github.com/truecharts/apps/compare/home-assistant-11.0.8...home-assistant-11.0.9) (2021-11-07)
 
 #### 聊天
 
@@ -1262,7 +1262,7 @@
 
 <a name="home-assistant-11.0.8"></a>
 
-### [home-assistant-11.0.8](https://github.com/truecharts/apps/compare/home-assistant-11.0.7...home-assistant-11.0.8) (2021-11-07)
+### [家庭助手-11.0.8](https://github.com/truecharts/apps/compare/home-assistant-11.0.7...home-assistant-11.0.8) (2021-11-07)
 
 #### 聊天
 
@@ -1272,7 +1272,7 @@
 
 <a name="home-assistant-11.0.7"></a>
 
-### [home-assistant-11.0.7](https://github.com/truecharts/apps/compare/home-assistant-11.0.6...home-assistant-11.0.7) (2021-11-07)
+### [家庭助手-11.0.7](https://github.com/truecharts/apps/compare/home-assistant-11.0.6...home-assistant-11.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -1290,7 +1290,7 @@
 
 <a name="home-assistant-11.0.6"></a>
 
-### [home-assistant-11.0.6](https://github.com/truecharts/apps/compare/home-assistant-11.0.5...home-assistant-11.0.6) (2021-11-02)
+### [家庭助手-11.0.6](https://github.com/truecharts/apps/compare/home-assistant-11.0.5...home-assistant-11.0.6) (2021-11-02)
 
 #### 聊天
 
@@ -1300,7 +1300,7 @@
 
 <a name="home-assistant-11.0.5"></a>
 
-### [home-assistant-11.0.5](https://github.com/truecharts/apps/compare/home-assistant-11.0.4...home-assistant-11.0.5) (2021-11-02)
+### [家庭助手-11.0.5](https://github.com/truecharts/apps/compare/home-assistant-11.0.4...home-assistant-11.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -1310,7 +1310,7 @@
 
 <a name="home-assistant-11.0.4"></a>
 
-### [home-assistant-11.0.4](https://github.com/truecharts/apps/compare/home-assistant-11.0.3...home-assistant-11.0.4) (2021-11-01)
+### [家庭助手-11.0.4](https://github.com/truecharts/apps/compare/home-assistant-11.0.3...home-assistant-11.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -1320,7 +1320,7 @@
 
 <a name="home-assistant-11.0.3"></a>
 
-### [home-assistant-11.0.3](https://github.com/truecharts/apps/compare/home-assistant-11.0.2...home-assistant-11.0.3) (2021-10-26)
+### [家庭助手-11.0.3](https://github.com/truecharts/apps/compare/home-assistant-11.0.2...home-assistant-11.0.3) (2021-10-26)
 
 #### 聊天
 
@@ -1330,7 +1330,7 @@
 
 <a name="home-assistant-11.0.2"></a>
 
-### [home-assistant-11.0.2](https://github.com/truecharts/apps/compare/home-assistant-11.0.1...home-assistant-11.0.2) (2021-10-26)
+### [家庭助手-11.0.2](https://github.com/truecharts/apps/compare/home-assistant-11.0.1...home-assistant-11.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -1340,7 +1340,7 @@
 
 <a name="home-assistant-11.0.1"></a>
 
-### [home-assistant-11.0.1](https://github.com/truecharts/apps/compare/home-assistant-11.0.0...home-assistant-11.0.1) (2021-10-26)
+### [家庭助手-11.0.1](https://github.com/truecharts/apps/compare/home-assistant-11.0.0...home-assistant-11.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1350,7 +1350,7 @@
 
 <a name="home-assistant-11.0.0"></a>
 
-### [home-assistant-11.0.0](https://github.com/truecharts/apps/compare/home-assistant-10.0.0...home-assistant-11.0.0) (2021-10-26)
+### [home assistant-11.0.0](https://github.com/truecharts/apps/compare/home-assistant-10.0.0...home-assistant-11.0.0) (2021-10-26)
 
 #### 聊天
 
@@ -1361,7 +1361,7 @@
 
 <a name="home-assistant-10.0.0"></a>
 
-### [home-assistant-10.0.0](https://github.com/truecharts/apps/compare/home-assistant-9.0.3...home-assistant-10.0.0) (2021-10-25)
+### [家庭助手-10.0.0](https://github.com/truecharts/apps/compare/home-assistant-9.0.3...home-assistant-10.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -1371,7 +1371,7 @@
 
 <a name="home-assistant-9.0.3"></a>
 
-### [home-assistant-9.0.3](https://github.com/truecharts/apps/compare/home-assistant-9.0.2...home-assistant-9.0.3) (2021-10-20)
+### [家庭助手-9.0.3](https://github.com/truecharts/apps/compare/home-assistant-9.0.2...home-assistant-9.0.3) (2021-10-20)
 
 #### 聊天
 
@@ -1381,7 +1381,7 @@
 
 <a name="home-assistant-9.0.0"></a>
 
-### [home-assistant-9.0.0](https://github.com/truecharts/apps/compare/home-assistant-8.2.9...home-assistant-9.0.0) (2021-10-20)
+### [家庭助手-9.0.0](https://github.com/truecharts/apps/compare/home-assistant-8.2.9...home-assistant-9.0.0) (2021-10-20)
 
 #### 聊天
 
@@ -1395,7 +1395,7 @@
 
 <a name="home-assistant-8.2.9"></a>
 
-### [home-assistant-8.2.9](https://github.com/truecharts/apps/compare/home-assistant-8.2.8...home-assistant-8.2.9) (2021-10-20)
+### [家庭助手-8.2.9](https://github.com/truecharts/apps/compare/home-assistant-8.2.8...home-assistant-8.2.9) (2021-10-20)
 
 #### 聊天
 
@@ -1405,7 +1405,7 @@
 
 <a name="home-assistant-8.2.8"></a>
 
-### [home-assistant-8.2.8](https://github.com/truecharts/apps/compare/home-assistant-8.2.7...home-assistant-8.2.8) (2021-10-19)
+### [家庭助手-8.2.8](https://github.com/truecharts/apps/compare/home-assistant-8.2.7...home-assistant-8.2.8) (2021-10-19)
 
 #### 更改
 
@@ -1429,7 +1429,7 @@
 
 <a name="home-assistant-8.2.7"></a>
 
-### [home-assistant-8.2.7](https://github.com/truecharts/apps/compare/home-assistant-8.2.6...home-assistant-8.2.7) (2021-10-19)
+### [家庭助手-8.2.7](https://github.com/truecharts/apps/compare/home-assistant-8.2.6...home-assistant-8.2.7) (2021-10-19)
 
 #### 聊天
 
@@ -1440,7 +1440,7 @@
 
 <a name="home-assistant-8.2.6"></a>
 
-### [home-assistant-8.2.6](https://github.com/truecharts/apps/compare/home-assistant-8.2.5...home-assistant-8.2.6) (2021-10-19)
+### [家庭助手-8.2.6](https://github.com/truecharts/apps/compare/home-assistant-8.2.5...home-assistant-8.2.6) (2021-10-19)
 
 #### 修复
 
@@ -1450,7 +1450,7 @@
 
 <a name="home-assistant-8.2.5"></a>
 
-### [home-assistant-8.2.5](https://github.com/truecharts/apps/compare/home-assistant-8.2.4...home-assistant-8.2.5) (2021-10-19)
+### [家庭助手-8.2.5](https://github.com/truecharts/apps/compare/home-assistant-8.2.4...home-assistant-8.2.5) (2021-10-19)
 
 #### 修复
 
@@ -1460,7 +1460,7 @@
 
 <a name="home-assistant-8.2.4"></a>
 
-### [home-assistant-8.2.4](https://github.com/truecharts/apps/compare/home-assistant-8.2.3...home-assistant-8.2.4) (2021-10-18)
+### [家庭助手-8.2.4](https://github.com/truecharts/apps/compare/home-assistant-8.2.3...home-assistant-8.2.4) (2021-10-18)
 
 #### 聊天
 
@@ -1474,17 +1474,17 @@
 
 <a name="home-assistant-8.2.3"></a>
 
-### [home-assistant-8.2.3](https://github.com/truecharts/apps/compare/home-assistant-8.2.2...home-assistant-8.2.3) (2021-10-18)
+### [家庭助手-8.2.3](https://github.com/truecharts/apps/compare/home-assistant-8.2.2...home-assistant-8.2.3) (2021-10-18)
 
 #### 修复
 
-* Fix invisible items in Automation Dashboard ([#1163](https://github.com/truecharts/apps/issues/1163))
+* 修复自动控制面板中不可见的项目([#1163](https://github.com/truecharts/apps/issues/1163))
 
 
 
 <a name="home-assistant-8.2.2"></a>
 
-### [home-assistant-8.2.2](https://github.com/truecharts/apps/compare/home-assistant-8.2.1...home-assistant-8.2.2) (2021-10-17)
+### [家庭助手-8.2.2](https://github.com/truecharts/apps/compare/home-assistant-8.2.1...home-assistant-8.2.2) (2021-10-17)
 
 #### 聊天
 
@@ -1498,7 +1498,7 @@
 
 <a name="home-assistant-8.2.1"></a>
 
-### [home-assistant-8.2.1](https://github.com/truecharts/apps/compare/home-assistant-8.2.0...home-assistant-8.2.1) (2021-10-13)
+### [家庭助手-8.2.1](https://github.com/truecharts/apps/compare/home-assistant-8.2.0...home-assistant-8.2.1) (2021-10-13)
 
 #### 聊天
 
@@ -1508,43 +1508,43 @@
 
 <a name="home-assistant-8.2.0"></a>
 
-### [home-assistant-8.2.0](https://github.com/truecharts/apps/compare/home-assistant-8.1.4...home-assistant-8.2.0) (2021-10-13)
+### [家庭助手-8.2.0](https://github.com/truecharts/apps/compare/home-assistant-8.1.4...home-assistant-8.2.0) (2021-10-13)
 
 
 
 <a name="home-assistant-8.1.4"></a>
 
-### [home-assistant-8.1.4](https://github.com/truecharts/apps/compare/home-assistant-8.1.3...home-assistant-8.1.4) (2021-10-13)
+### [家庭助手-8.1.4](https://github.com/truecharts/apps/compare/home-assistant-8.1.3...home-assistant-8.1.4) (2021-10-13)
 
 
 
 <a name="home-assistant-8.1.3"></a>
 
-### [home-assistant-8.1.3](https://github.com/truecharts/apps/compare/home-assistant-8.1.2...home-assistant-8.1.3) (2021-10-13)
+### [家庭助手-8.1.3](https://github.com/truecharts/apps/compare/home-assistant-8.1.2...home-assistant-8.1.3) (2021-10-13)
 
 
 
 <a name="home-assistant-8.1.2"></a>
 
-### [home-assistant-8.1.2](https://github.com/truecharts/apps/compare/home-assistant-8.1.1...home-assistant-8.1.2) (2021-10-13)
+### [家庭助手-8.1.2](https://github.com/truecharts/apps/compare/home-assistant-8.1.1...home-assistant-8.1.2) (2021-10-13)
 
 
 
 <a name="home-assistant-8.1.1"></a>
 
-### [home-assistant-8.1.1](https://github.com/truecharts/apps/compare/home-assistant-8.1.0...home-assistant-8.1.1) (2021-10-13)
+### [家庭助手-8.1.1](https://github.com/truecharts/apps/compare/home-assistant-8.1.0...home-assistant-8.1.1) (2021-10-13)
 
 
 
 <a name="home-assistant-8.1.0"></a>
 
-### [home-assistant-8.1.0](https://github.com/truecharts/apps/compare/home-assistant-8.0.8...home-assistant-8.1.0) (2021-10-13)
+### [家庭助手-8.1.0](https://github.com/truecharts/apps/compare/home-assistant-8.0.8...home-assistant-8.1.0) (2021-10-13)
 
 
 
 <a name="home-assistant-8.0.8"></a>
 
-### [home-assistant-8.0.8](https://github.com/truecharts/apps/compare/home-assistant-8.0.7...home-assistant-8.0.8) (2021-10-12)
+### [家庭助手-8.0.8](https://github.com/truecharts/apps/compare/home-assistant-8.0.7...home-assistant-8.0.8) (2021-10-12)
 
 #### 聊天
 
@@ -1554,17 +1554,17 @@
 
 <a name="home-assistant-8.0.7"></a>
 
-### [home-assistant-8.0.7](https://github.com/truecharts/apps/compare/home-assistant-8.0.6...home-assistant-8.0.7) (2021-10-12)
+### [家庭助手-8.0.7](https://github.com/truecharts/apps/compare/home-assistant-8.0.6...home-assistant-8.0.7) (2021-10-12)
 
 #### 聊天
 
-* update container image ghcr.io/truecharts/home-assistant to v2021.10.4 ([#1125](https://github.com/truecharts/apps/issues/1125))
+* 更新容器图像 ghcr.io/truecharts/home assister 到 v2021.10.4 ([#1125](https://github.com/truecharts/apps/issues/1125))
 
 
 
 <a name="home-assistant-8.0.6"></a>
 
-### [home-assistant-8.0.6](https://github.com/truecharts/apps/compare/home-assistant-8.0.5...home-assistant-8.0.6) (2021-10-12)
+### [土助手-8.0.6](https://github.com/truecharts/apps/compare/home-assistant-8.0.5...home-assistant-8.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -1574,7 +1574,7 @@
 
 <a name="home-assistant-8.0.5"></a>
 
-### [home-assistant-8.0.5](https://github.com/truecharts/apps/compare/home-assistant-8.0.4...home-assistant-8.0.5) (2021-10-12)
+### [家庭助手-8.0.5](https://github.com/truecharts/apps/compare/home-assistant-8.0.4...home-assistant-8.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -1584,7 +1584,7 @@
 
 <a name="home-assistant-8.0.4"></a>
 
-### [home-assistant-8.0.4](https://github.com/truecharts/apps/compare/home-assistant-8.0.3...home-assistant-8.0.4) (2021-10-05)
+### [家庭助手-8.0.4](https://github.com/truecharts/apps/compare/home-assistant-8.0.3...home-assistant-8.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1594,7 +1594,7 @@
 
 <a name="home-assistant-8.0.3"></a>
 
-### [home-assistant-8.0.3](https://github.com/truecharts/apps/compare/home-assistant-8.0.2...home-assistant-8.0.3) (2021-09-29)
+### [家庭助手-8.0.3](https://github.com/truecharts/apps/compare/home-assistant-8.0.2...home-assistant-8.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1604,19 +1604,19 @@
 
 <a name="home-assistant-8.0.1"></a>
 
-### [home-assistant-8.0.1](https://github.com/truecharts/apps/compare/home-assistant-8.0.0...home-assistant-8.0.1) (2021-09-26)
+### [home assistant-8.0.1](https://github.com/truecharts/apps/compare/home-assistant-8.0.0...home-assistant-8.0.1) (2021-09-26)
 
 
 
 <a name="home-assistant-8.0.0"></a>
 
-### [home-assistant-8.0.0](https://github.com/truecharts/apps/compare/home-assistant-7.0.3...home-assistant-8.0.0) (2021-09-26)
+### [home assistant-8.0.0](https://github.com/truecharts/apps/compare/home-assistant-7.0.3...home-assistant-8.0.0) (2021-09-26)
 
 
 
 <a name="home-assistant-7.0.3"></a>
 
-### [home-assistant-7.0.3](https://github.com/truecharts/apps/compare/home-assistant-7.0.2...home-assistant-7.0.3) (2021-09-21)
+### [home assistant-7.0.3](https://github.com/truecharts/apps/compare/home-assistant-7.0.2...home-assistant-7.0.3) (2021-09-21)
 
 #### 聊天
 
@@ -1626,7 +1626,7 @@
 
 <a name="home-assistant-7.0.2"></a>
 
-### [home-assistant-7.0.2](https://github.com/truecharts/apps/compare/home-assistant-7.0.1...home-assistant-7.0.2) (2021-09-21)
+### [home assistant-7.0.2](https://github.com/truecharts/apps/compare/home-assistant-7.0.1...home-assistant-7.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1636,11 +1636,11 @@
 
 <a name="home-assistant-7.0.1"></a>
 
-### [home-assistant-7.0.1](https://github.com/truecharts/apps/compare/home-assistant-6.11.16...home-assistant-7.0.1) (2021-09-13)
+### [家庭助手-7.0.1](https://github.com/truecharts/apps/compare/home-assistant-6.11.16...home-assistant-7.0.1) (2021-09-13)
 
 #### 聊天
 
-* move more dockerhub containers to GHCR mirror ([#958](https://github.com/truecharts/apps/issues/958))
+* 移动更多的Docker枢纽容器到 GHCR 镜像([#958](https://github.com/truecharts/apps/issues/958))
 * 更新非大项
 * 更新非主要([#962](https://github.com/truecharts/apps/issues/962))
 
@@ -1657,7 +1657,7 @@
 
 <a name="home-assistant-6.11.16"></a>
 
-## [home-assistant-6.11.16](https://github.com/truecharts/apps/compare/home-assistant-6.11.15...home-assistant-6.11.16) (2021-09-08)
+## [home assistant-6.11.16](https://github.com/truecharts/apps/compare/home-assistant-6.11.15...home-assistant-6.11.16) (2021-09-08)
 
 ### 修复
 
