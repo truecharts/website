@@ -1,15 +1,15 @@
-# FAQ
+# 常见问题
 
-- Q: Please include app X<br /> A: Please file an issue about it, after checking the wiki, discord and Github to make sure it hasn't been discussed already
+- 问：请包含应用 X<br /> A：请提交一个有关它的问题 检查wiki、discord 和 Github 以确保它尚未被讨论
 
-- Q: Isn't there more documentation for app x<br /> A: If it's not on our [website](https://truecharts.org) or the discord, we (sadly) do not. There might be other sources for documentation however!
+- 问：没有更多的文档用于应用程序 x<br /> A：如果它没有在我们 [网站](https://truecharts.org) 或不一致， 我们（可悲地）没有这样做。 但可能还有其他文件来源！
 
-- Q: Function x doesn't seem to be working, should it be working?<br /> A: Maybe, please file an issue on github or ask on the Discord
+- 问：函数 x 似乎没有起作用，它是否起作用？<br /> A：也许，请在 github 上提交问题或在 Discord 上询问
 
-- Q: Is my data guaranteed to be secure?<br /> A: ix_volumes (the auto generated storage) is considered relatively secure as long as you don't delete the App, but we can't give an absolute guarantee. data mounted using a hostPath, is as secure as the application that is using the data, our charts do not actively alter said dataset/folder.
+- 问：我的数据是否安全？<br /> A: ix_volumes (自动生成的存储) 被认为比较安全，只要您不删除应用， 但我们不能给予绝对保证。 使用HostPath挂载的数据与使用数据的应用程序一样安全，我们的图表不会主动更改所述数据集/文件夹。
 
-- Q: sabnzbd isn't starting.<br /> A: SabNZBD has a weird security implementation that requires you to add the hostname or IP address to their config file. In the future we might automate this process, but currently we do not.
+- 问：sabnzbd 没有开始。<br /> A: SabNZBD 有一个怪异的安全实现程序，它要求您将主机名或 IP 地址添加到他们的配置文件中。 今后，我们可能会使这个过程自动化，但目前我们不会这样做。
 
-- Q: An app is asking for a password.<br /> A: We almost always use the defaults from the upstream project, if we are forced to use a password and not add the option to change it in the install GUI.
+- 问：一个应用正在请求密码。<br /> A: 我们几乎总是使用上游项目的默认值。 如果我们被迫使用密码，不在安装界面中添加更改密码的选项。
 
-- Q: App x has not received an expected update.<br /> A: Apps update automatically in most cases unless something goes wrong but it can take a little bit of time for it to filter down to the catalog. Our general rule of thumb is report via GitHub after 7+ days.
+- 问：App x 尚未收到预期更新。<br /> A: 应用程序在大多数情况下自动更新，除非出现错误，但是它可能需要一些时间才能过滤到目录。 我们的 Thumb 一般规则是经过7天后通过 GitHub 报告。
