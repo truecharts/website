@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [golinks-4.0.17](https://github.com/truecharts/apps/compare/golinks-4.0.16...golinks-4.0.17) (2022-07-14)
+## [高尔inks-4.0.17](https://github.com/truecharts/apps/compare/golinks-4.0.16...golinks-4.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [golinks-4.0.14](https://github.com/truecharts/apps/compare/golinks-4.0.12...golinks-4.0.14) (2022-07-12)
+## [黄金箱-4.0.14](https://github.com/truecharts/apps/compare/golinks-4.0.12...golinks-4.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [golinks-4.0.12](https://github.com/truecharts/apps/compare/golinks-4.0.11...golinks-4.0.12) (2022-07-12)
+## [Golinks-4.0.12](https://github.com/truecharts/apps/compare/golinks-4.0.11...golinks-4.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="golinks-4.0.11"></a>
 
-### [golinks-4.0.11](https://github.com/truecharts/apps/compare/golinks-4.0.10...golinks-4.0.11) (2022-07-12)
+### [高尔inks-4.0.11](https://github.com/truecharts/apps/compare/golinks-4.0.10...golinks-4.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="golinks-4.0.10"></a>
 
-### [golinks-4.0.10](https://github.com/truecharts/apps/compare/golinks-4.0.9...golinks-4.0.10) (2022-07-11)
+### [黄金-4.0.10](https://github.com/truecharts/apps/compare/golinks-4.0.9...golinks-4.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="golinks-4.0.8"></a>
 
-### [golinks-4.0.8](https://github.com/truecharts/apps/compare/golinks-4.0.7...golinks-4.0.8) (2022-07-04)
+### [Golinks-4.0.8](https://github.com/truecharts/apps/compare/golinks-4.0.7...golinks-4.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="golinks-4.0.7"></a>
 
-### [golinks-4.0.7](https://github.com/truecharts/apps/compare/golinks-4.0.6...golinks-4.0.7) (2022-06-25)
+### [Golinks-4.0.7](https://github.com/truecharts/apps/compare/golinks-4.0.6...golinks-4.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="golinks-4.0.6"></a>
 
-### [golinks-4.0.6](https://github.com/truecharts/apps/compare/golinks-4.0.5...golinks-4.0.6) (2022-06-22)
+### [Golinks-4.0.6](https://github.com/truecharts/apps/compare/golinks-4.0.5...golinks-4.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="golinks-4.0.5"></a>
 
-### [golinks-4.0.5](https://github.com/truecharts/apps/compare/golinks-4.0.4...golinks-4.0.5) (2022-06-21)
+### [黄金-4.0.5](https://github.com/truecharts/apps/compare/golinks-4.0.4...golinks-4.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="golinks-4.0.4"></a>
 
-### [golinks-4.0.4](https://github.com/truecharts/apps/compare/golinks-4.0.3...golinks-4.0.4) (2022-06-14)
+### [黄金-4.0.4](https://github.com/truecharts/apps/compare/golinks-4.0.3...golinks-4.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="golinks-4.0.3"></a>
 
-### [golinks-4.0.3](https://github.com/truecharts/apps/compare/golinks-4.0.2...golinks-4.0.3) (2022-06-11)
+### [Golinks-4.0.3](https://github.com/truecharts/apps/compare/golinks-4.0.2...golinks-4.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="golinks-4.0.2"></a>
 
-### [golinks-4.0.2](https://github.com/truecharts/apps/compare/golinks-4.0.1...golinks-4.0.2) (2022-06-07)
+### [黄金-4.0.2](https://github.com/truecharts/apps/compare/golinks-4.0.1...golinks-4.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="golinks-4.0.1"></a>
 
-### [golinks-4.0.1](https://github.com/truecharts/apps/compare/golinks-3.0.19...golinks-4.0.1) (2022-06-07)
+### [黄金-4.0.1](https://github.com/truecharts/apps/compare/golinks-3.0.19...golinks-4.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="golinks-3.0.19"></a>
 
-### [golinks-3.0.19](https://github.com/truecharts/apps/compare/golinks-3.0.18...golinks-3.0.19) (2022-05-31)
+### [黄金链接-3.0.19](https://github.com/truecharts/apps/compare/golinks-3.0.18...golinks-3.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="golinks-3.0.18"></a>
 
-### [golinks-3.0.18](https://github.com/truecharts/apps/compare/golinks-3.0.17...golinks-3.0.18) (2022-05-26)
+### [金墨斯-3.0.18](https://github.com/truecharts/apps/compare/golinks-3.0.17...golinks-3.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="golinks-3.0.18"></a>
 
-### [golinks-3.0.18](https://github.com/truecharts/apps/compare/golinks-3.0.17...golinks-3.0.18) (2022-05-26)
+### [金墨斯-3.0.18](https://github.com/truecharts/apps/compare/golinks-3.0.17...golinks-3.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="golinks-3.0.17"></a>
 
-### [golinks-3.0.17](https://github.com/truecharts/apps/compare/golinks-3.0.16...golinks-3.0.17) (2022-05-24)
+### [金墨斯-3.0.17](https://github.com/truecharts/apps/compare/golinks-3.0.16...golinks-3.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="golinks-3.0.16"></a>
 
-### [golinks-3.0.16](https://github.com/truecharts/apps/compare/golinks-3.0.15...golinks-3.0.16) (2022-05-17)
+### [金墨斯-3.0.16](https://github.com/truecharts/apps/compare/golinks-3.0.15...golinks-3.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="golinks-3.0.16"></a>
 
-### [golinks-3.0.16](https://github.com/truecharts/apps/compare/golinks-3.0.15...golinks-3.0.16) (2022-05-17)
+### [金墨斯-3.0.16](https://github.com/truecharts/apps/compare/golinks-3.0.15...golinks-3.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="golinks-3.0.15"></a>
 
-### [golinks-3.0.15](https://github.com/truecharts/apps/compare/golinks-3.0.14...golinks-3.0.15) (2022-05-17)
+### [黄金-3.0.15](https://github.com/truecharts/apps/compare/golinks-3.0.14...golinks-3.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="golinks-3.0.14"></a>
 
-### [golinks-3.0.14](https://github.com/truecharts/apps/compare/golinks-3.0.13...golinks-3.0.14) (2022-05-10)
+### [黄金箱-3.0.14](https://github.com/truecharts/apps/compare/golinks-3.0.13...golinks-3.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="golinks-3.0.13"></a>
 
-### [golinks-3.0.13](https://github.com/truecharts/apps/compare/golinks-3.0.12...golinks-3.0.13) (2022-05-05)
+### [高尔inks-3.0.13](https://github.com/truecharts/apps/compare/golinks-3.0.12...golinks-3.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="golinks-3.0.12"></a>
 
-### [golinks-3.0.12](https://github.com/truecharts/apps/compare/golinks-3.0.11...golinks-3.0.12) (2022-04-26)
+### [Golinks-3.0.12](https://github.com/truecharts/apps/compare/golinks-3.0.11...golinks-3.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="golinks-3.0.11"></a>
 
-### [golinks-3.0.11](https://github.com/truecharts/apps/compare/golinks-3.0.10...golinks-3.0.11) (2022-04-20)
+### [高尔inks-3.0.11](https://github.com/truecharts/apps/compare/golinks-3.0.10...golinks-3.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="golinks-3.0.10"></a>
 
-### [golinks-3.0.10](https://github.com/truecharts/apps/compare/golinks-3.0.9...golinks-3.0.10) (2022-04-12)
+### [高尔inks-3.0.10](https://github.com/truecharts/apps/compare/golinks-3.0.9...golinks-3.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="golinks-3.0.9"></a>
 
-### [golinks-3.0.9](https://github.com/truecharts/apps/compare/golinks-3.0.8...golinks-3.0.9) (2022-04-03)
+### [黄金链接-3.0.9](https://github.com/truecharts/apps/compare/golinks-3.0.8...golinks-3.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="golinks-3.0.8"></a>
 
-### [golinks-3.0.8](https://github.com/truecharts/apps/compare/golinks-3.0.7...golinks-3.0.8) (2022-03-31)
+### [黄金链接-3.0.8](https://github.com/truecharts/apps/compare/golinks-3.0.7...golinks-3.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="golinks-3.0.7"></a>
 
-### [golinks-3.0.7](https://github.com/truecharts/apps/compare/golinks-3.0.6...golinks-3.0.7) (2022-03-30)
+### [高尔inks-3.0.7](https://github.com/truecharts/apps/compare/golinks-3.0.6...golinks-3.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="golinks-3.0.1"></a>
 
-### [golinks-3.0.1](https://github.com/truecharts/apps/compare/golinks-3.0.0...golinks-3.0.1) (2022-03-07)
+### [黄金箱-3.0.1](https://github.com/truecharts/apps/compare/golinks-3.0.0...golinks-3.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -358,7 +358,7 @@
 
 <a name="golinks-2.0.42"></a>
 
-### [golinks-2.0.42](https://github.com/truecharts/apps/compare/golinks-2.0.41...golinks-2.0.42) (2022-03-02)
+### [金色-2.0.42](https://github.com/truecharts/apps/compare/golinks-2.0.41...golinks-2.0.42) (2022-03-02)
 
 #### 聊天
 
@@ -369,7 +369,7 @@
 
 <a name="golinks-2.0.41"></a>
 
-### [golinks-2.0.41](https://github.com/truecharts/apps/compare/golinks-2.0.40...golinks-2.0.41) (2022-02-21)
+### [黄金箱-2.0.41](https://github.com/truecharts/apps/compare/golinks-2.0.40...golinks-2.0.41) (2022-02-21)
 
 #### 聊天
 
@@ -379,7 +379,7 @@
 
 <a name="golinks-2.0.40"></a>
 
-### [golinks-2.0.40](https://github.com/truecharts/apps/compare/golinks-2.0.39...golinks-2.0.40) (2022-02-15)
+### [Golinks-2.0.40](https://github.com/truecharts/apps/compare/golinks-2.0.39...golinks-2.0.40) (2022-02-15)
 
 #### 聊天
 
@@ -389,7 +389,7 @@
 
 <a name="golinks-2.0.39"></a>
 
-### [golinks-2.0.39](https://github.com/truecharts/apps/compare/golinks-2.0.38...golinks-2.0.39) (2022-02-08)
+### [金色-2.0.39](https://github.com/truecharts/apps/compare/golinks-2.0.38...golinks-2.0.39) (2022-02-08)
 
 #### 聊天
 
@@ -399,7 +399,7 @@
 
 <a name="golinks-2.0.38"></a>
 
-### [golinks-2.0.38](https://github.com/truecharts/apps/compare/golinks-2.0.37...golinks-2.0.38) (2022-02-06)
+### [金色-2.0.38](https://github.com/truecharts/apps/compare/golinks-2.0.37...golinks-2.0.38) (2022-02-06)
 
 #### 聊天
 
@@ -409,7 +409,7 @@
 
 <a name="golinks-2.0.37"></a>
 
-### [golinks-2.0.37](https://github.com/truecharts/apps/compare/golinks-2.0.36...golinks-2.0.37) (2022-02-05)
+### [金色-2.0.37](https://github.com/truecharts/apps/compare/golinks-2.0.36...golinks-2.0.37) (2022-02-05)
 
 #### 聊天
 
@@ -419,7 +419,7 @@
 
 <a name="golinks-2.0.36"></a>
 
-### [golinks-2.0.36](https://github.com/truecharts/apps/compare/golinks-2.0.35...golinks-2.0.36) (2022-02-02)
+### [Golinks-2.0.36](https://github.com/truecharts/apps/compare/golinks-2.0.35...golinks-2.0.36) (2022-02-02)
 
 #### 聊天
 
@@ -429,7 +429,7 @@
 
 <a name="golinks-2.0.35"></a>
 
-### [golinks-2.0.35](https://github.com/truecharts/apps/compare/golinks-2.0.34...golinks-2.0.35) (2022-01-25)
+### [Golinks-2.0.35](https://github.com/truecharts/apps/compare/golinks-2.0.34...golinks-2.0.35) (2022-01-25)
 
 #### 聊天
 
@@ -439,7 +439,7 @@
 
 <a name="golinks-2.0.34"></a>
 
-### [golinks-2.0.34](https://github.com/truecharts/apps/compare/golinks-2.0.33...golinks-2.0.34) (2022-01-22)
+### [Golinks-2.0.34](https://github.com/truecharts/apps/compare/golinks-2.0.33...golinks-2.0.34) (2022-01-22)
 
 #### 聊天
 
@@ -449,7 +449,7 @@
 
 <a name="golinks-2.0.33"></a>
 
-### [golinks-2.0.33](https://github.com/truecharts/apps/compare/golinks-2.0.32...golinks-2.0.33) (2022-01-21)
+### [金色-2.0.33](https://github.com/truecharts/apps/compare/golinks-2.0.32...golinks-2.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -463,7 +463,7 @@
 
 <a name="golinks-2.0.32"></a>
 
-### [golinks-2.0.32](https://github.com/truecharts/apps/compare/golinks-2.0.31...golinks-2.0.32) (2022-01-18)
+### [Golinks-2.0.32](https://github.com/truecharts/apps/compare/golinks-2.0.31...golinks-2.0.32) (2022-01-18)
 
 #### 聊天
 
@@ -473,7 +473,7 @@
 
 <a name="golinks-2.0.31"></a>
 
-### [golinks-2.0.31](https://github.com/truecharts/apps/compare/golinks-2.0.30...golinks-2.0.31) (2022-01-13)
+### [黄金箱-2.0.31](https://github.com/truecharts/apps/compare/golinks-2.0.30...golinks-2.0.31) (2022-01-13)
 
 #### 聊天
 
@@ -487,7 +487,7 @@
 
 <a name="golinks-2.0.30"></a>
 
-### [golinks-2.0.30](https://github.com/truecharts/apps/compare/golinks-2.0.29...golinks-2.0.30) (2022-01-12)
+### [Golinks-2.0.30](https://github.com/truecharts/apps/compare/golinks-2.0.29...golinks-2.0.30) (2022-01-12)
 
 #### 聊天
 
@@ -497,7 +497,7 @@
 
 <a name="golinks-2.0.29"></a>
 
-### [golinks-2.0.29](https://github.com/truecharts/apps/compare/golinks-2.0.28...golinks-2.0.29) (2022-01-11)
+### [黄金链接-2.0.29](https://github.com/truecharts/apps/compare/golinks-2.0.28...golinks-2.0.29) (2022-01-11)
 
 #### 聊天
 
@@ -507,7 +507,7 @@
 
 <a name="golinks-2.0.28"></a>
 
-### [golinks-2.0.28](https://github.com/truecharts/apps/compare/golinks-2.0.27...golinks-2.0.28) (2022-01-04)
+### [高尔inks-2.0.28](https://github.com/truecharts/apps/compare/golinks-2.0.27...golinks-2.0.28) (2022-01-04)
 
 #### 聊天
 
@@ -517,7 +517,7 @@
 
 <a name="golinks-2.0.27"></a>
 
-### [golinks-2.0.27](https://github.com/truecharts/apps/compare/golinks-2.0.26...golinks-2.0.27) (2021-12-28)
+### [Golinks-2.0.27](https://github.com/truecharts/apps/compare/golinks-2.0.26...golinks-2.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -527,7 +527,7 @@
 
 <a name="golinks-2.0.26"></a>
 
-### [golinks-2.0.26](https://github.com/truecharts/apps/compare/golinks-2.0.25...golinks-2.0.26) (2021-12-21)
+### [金色-2.0.26](https://github.com/truecharts/apps/compare/golinks-2.0.25...golinks-2.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -548,7 +548,7 @@
 
 <a name="golinks-2.0.24"></a>
 
-### [golinks-2.0.24](https://github.com/truecharts/apps/compare/golinks-2.0.23...golinks-2.0.24) (2021-12-19)
+### [金色-2.0.24](https://github.com/truecharts/apps/compare/golinks-2.0.23...golinks-2.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -559,7 +559,7 @@
 
 <a name="golinks-2.0.23"></a>
 
-### [golinks-2.0.23](https://github.com/truecharts/apps/compare/golinks-2.0.22...golinks-2.0.23) (2021-12-18)
+### [golinks-2.0.23](https://github.com/truecharts/apps/compare/golinks-2.0.22...golinks-2.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="golinks-2.0.22"></a>
 
-### [golinks-2.0.22](https://github.com/truecharts/apps/compare/golinks-2.0.21...golinks-2.0.22) (2021-12-14)
+### [金色-2.0.22](https://github.com/truecharts/apps/compare/golinks-2.0.21...golinks-2.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -580,7 +580,7 @@
 
 <a name="golinks-2.0.21"></a>
 
-### [golinks-2.0.21](https://github.com/truecharts/apps/compare/golinks-2.0.20...golinks-2.0.21) (2021-12-13)
+### [金色-2.0.21](https://github.com/truecharts/apps/compare/golinks-2.0.20...golinks-2.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -591,7 +591,7 @@
 
 <a name="golinks-2.0.20"></a>
 
-### [golinks-2.0.20](https://github.com/truecharts/apps/compare/golinks-2.0.19...golinks-2.0.20) (2021-12-11)
+### [Golinks-2.0.20](https://github.com/truecharts/apps/compare/golinks-2.0.19...golinks-2.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -611,7 +611,7 @@
 
 <a name="golinks-2.0.18"></a>
 
-### golinks-2.0.18 (2021-12-05)
+### 黄金-2.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -661,7 +661,7 @@
 
 <a name="golinks-2.0.14"></a>
 
-### [golinks-2.0.14](https://github.com/truecharts/apps/compare/golinks-2.0.13...golinks-2.0.14) (2021-12-03)
+### [金色-2.0.14](https://github.com/truecharts/apps/compare/golinks-2.0.13...golinks-2.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -672,7 +672,7 @@
 
 <a name="golinks-2.0.13"></a>
 
-### [golinks-2.0.13](https://github.com/truecharts/apps/compare/golinks-2.0.12...golinks-2.0.13) (2021-11-30)
+### [金色-2.0.13](https://github.com/truecharts/apps/compare/golinks-2.0.12...golinks-2.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -686,7 +686,7 @@
 
 <a name="golinks-2.0.12"></a>
 
-### [golinks-2.0.12](https://github.com/truecharts/apps/compare/golinks-2.0.11...golinks-2.0.12) (2021-11-23)
+### [Golinks-2.0.12](https://github.com/truecharts/apps/compare/golinks-2.0.11...golinks-2.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -696,7 +696,7 @@
 
 <a name="golinks-2.0.11"></a>
 
-### [golinks-2.0.11](https://github.com/truecharts/apps/compare/golinks-2.0.10...golinks-2.0.11) (2021-11-22)
+### [Golinks-2.0.11](https://github.com/truecharts/apps/compare/golinks-2.0.10...golinks-2.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -706,7 +706,7 @@
 
 <a name="golinks-2.0.10"></a>
 
-### [golinks-2.0.10](https://github.com/truecharts/apps/compare/golinks-2.0.9...golinks-2.0.10) (2021-11-16)
+### [Golinks-2.0.10](https://github.com/truecharts/apps/compare/golinks-2.0.9...golinks-2.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -716,7 +716,7 @@
 
 <a name="golinks-2.0.9"></a>
 
-### [golinks-2.0.9](https://github.com/truecharts/apps/compare/golinks-2.0.8...golinks-2.0.9) (2021-11-15)
+### [Golinks-2.0.9](https://github.com/truecharts/apps/compare/golinks-2.0.8...golinks-2.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -727,7 +727,7 @@
 
 <a name="golinks-2.0.8"></a>
 
-### [golinks-2.0.8](https://github.com/truecharts/apps/compare/golinks-2.0.7...golinks-2.0.8) (2021-11-14)
+### [Golinks-2.0.8](https://github.com/truecharts/apps/compare/golinks-2.0.7...golinks-2.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -745,7 +745,7 @@
 
 <a name="golinks-2.0.7"></a>
 
-### [golinks-2.0.7](https://github.com/truecharts/apps/compare/golinks-2.0.6...golinks-2.0.7) (2021-11-09)
+### [Golinks-2.0.7](https://github.com/truecharts/apps/compare/golinks-2.0.6...golinks-2.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -755,7 +755,7 @@
 
 <a name="golinks-2.0.6"></a>
 
-### [golinks-2.0.6](https://github.com/truecharts/apps/compare/golinks-2.0.5...golinks-2.0.6) (2021-11-07)
+### [Golinks-2.0.6](https://github.com/truecharts/apps/compare/golinks-2.0.5...golinks-2.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -765,7 +765,7 @@
 
 <a name="golinks-2.0.5"></a>
 
-### [golinks-2.0.5](https://github.com/truecharts/apps/compare/golinks-2.0.4...golinks-2.0.5) (2021-11-07)
+### [Golinks-2.0.5](https://github.com/truecharts/apps/compare/golinks-2.0.4...golinks-2.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -783,7 +783,7 @@
 
 <a name="golinks-2.0.4"></a>
 
-### [golinks-2.0.4](https://github.com/truecharts/apps/compare/golinks-2.0.3...golinks-2.0.4) (2021-11-02)
+### [Golinks-2.0.4](https://github.com/truecharts/apps/compare/golinks-2.0.3...golinks-2.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -793,7 +793,7 @@
 
 <a name="golinks-2.0.3"></a>
 
-### [golinks-2.0.3](https://github.com/truecharts/apps/compare/golinks-2.0.2...golinks-2.0.3) (2021-11-01)
+### [Golinks-2.0.3](https://github.com/truecharts/apps/compare/golinks-2.0.2...golinks-2.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -803,7 +803,7 @@
 
 <a name="golinks-2.0.2"></a>
 
-### [golinks-2.0.2](https://github.com/truecharts/apps/compare/golinks-2.0.1...golinks-2.0.2) (2021-10-26)
+### [Golinks-2.0.2](https://github.com/truecharts/apps/compare/golinks-2.0.1...golinks-2.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -833,7 +833,7 @@
 
 <a name="golinks-1.0.1"></a>
 
-### [golinks-1.0.1](https://github.com/truecharts/apps/compare/golinks-0.0.11...golinks-1.0.1) (2021-10-20)
+### [金色-1.0.1](https://github.com/truecharts/apps/compare/golinks-0.0.11...golinks-1.0.1) (2021-10-20)
 
 #### 聊天
 
@@ -897,7 +897,7 @@
 
 <a name="golinks-0.0.5"></a>
 
-### [golinks-0.0.5](https://github.com/truecharts/apps/compare/golinks-0.0.4...golinks-0.0.5) (2021-10-18)
+### [Golinks-0.0.5](https://github.com/truecharts/apps/compare/golinks-0.0.4...golinks-0.0.5) (2021-10-18)
 
 #### 聊天
 
@@ -911,7 +911,7 @@
 
 <a name="golinks-0.0.4"></a>
 
-### [golinks-0.0.4](https://github.com/truecharts/apps/compare/golinks-0.0.3...golinks-0.0.4) (2021-10-17)
+### [Golinks-0.0.4](https://github.com/truecharts/apps/compare/golinks-0.0.3...golinks-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -925,7 +925,7 @@
 
 <a name="golinks-0.0.3"></a>
 
-### [golinks-0.0.3](https://github.com/truecharts/apps/compare/golinks-0.0.2...golinks-0.0.3) (2021-10-13)
+### [Golinks-0.0.3](https://github.com/truecharts/apps/compare/golinks-0.0.2...golinks-0.0.3) (2021-10-13)
 
 #### 聊天
 
@@ -935,7 +935,7 @@
 
 <a name="golinks-0.0.2"></a>
 
-### [golinks-0.0.2](https://github.com/truecharts/apps/compare/golinks-0.0.1...golinks-0.0.2) (2021-10-13)
+### [Golinks-0.0.2](https://github.com/truecharts/apps/compare/golinks-0.0.1...golinks-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -945,4 +945,4 @@
 
 <a name="golinks-0.0.1"></a>
 
-### golinks-0.0.1 (2021-10-04)
+### 黄金-0.0.1 (2021-10-04)
