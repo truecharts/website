@@ -7,7 +7,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 ## 源代码
 
 * <https://github.com/Hypfer/ICantBelieveItsNotValetudo>
-* <https://github.com/truecharts/apps/tree/master/charts/icantbelieveitsnotvaletudo>
+* [https://github.com/truecharts/apps/tree/master/charts/icantreligiveitsnotvaletudo](https://github.com/truecharts/apps/tree/master/charts/icantbelieveitsnotvaletudo)
 
 ## B. 所需经费
 
