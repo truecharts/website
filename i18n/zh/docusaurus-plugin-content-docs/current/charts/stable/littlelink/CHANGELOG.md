@@ -928,7 +928,7 @@
 
 <a name="littlelink-4.0.36"></a>
 
-### [littlelink-4.0.36](https://github.com/truecharts/apps/compare/littlelink-4.0.35...littlelink-4.0.36) (2021-12-18)
+### [littlelink-4.0.36](https://github.com/truecharts/apps/compare/littlelink-4.0.35...littlelink-4.0.36) (2021-12-18岁)
 
 #### 聊天
 
@@ -948,7 +948,7 @@
 
 #### Feat
 
-* add the new buttons ([#1532](https://github.com/truecharts/apps/issues/1532))
+* 添加新按钮[#1532](https://github.com/truecharts/apps/issues/1532)
 
 
 
@@ -974,7 +974,7 @@
 
 <a name="littlelink-4.0.32"></a>
 
-### [littlelink-4.0.32](https://github.com/truecharts/apps/compare/littlelink-4.0.31...littlelink-4.0.32) (2021-12-12)
+### [littlelink-4.0.32](https://github.com/truecharts/apps/compare/littlelink-4.0.31...littlelink-4.0.32) (2021-12)
 
 #### 聊天
 
@@ -1333,7 +1333,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
