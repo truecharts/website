@@ -1,4 +1,4 @@
-# Input Validation
+# 输入验证
 
 ## Admin Username
 
@@ -8,10 +8,10 @@ Usernames for an administrator in spotweb have some restrictions.
   * god
   * mod
   * spot
-  * admin
+  * 管理员
   * drazix
   * superuser
-  * supervisor
+  * 监督员
   * root
   * anonymous
 * Following characters are not allowed:
@@ -36,4 +36,4 @@ The email addres is validated in spotweb using the built-in `_FILTER_VALIDATE_EM
 * Regex used to validate the email (you can try live [here](https://regex101.com/r/yEmCoL/1)): ``^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$``
 
 ---
-If you find a field that you think it needs validation, please open an issue on github
+如果您找到了一个您认为需要验证的字段，请在 github 上打开一个问题
