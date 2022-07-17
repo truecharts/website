@@ -25,7 +25,7 @@ jobs:
           NODE_OPTIONS: "--max-old-space-size=7168"
         
       - name: Build website
-        run: yarn build
+        run: yarn build --no-minify
         env: 
           NODE_OPTIONS: "--max-old-space-size=7168"
 
