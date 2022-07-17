@@ -1,6 +1,6 @@
 # 马凯姆夫文
 
-MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
+MakeMKV是您一键的解决方案，您可以将您拥有的视频转换成免费且无专利的格式，可以在任何地方播放。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
