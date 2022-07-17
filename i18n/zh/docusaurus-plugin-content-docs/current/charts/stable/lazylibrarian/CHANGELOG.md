@@ -939,7 +939,7 @@
 
 #### 聊天
 
-* update non-major ([#1479](https://github.com/truecharts/apps/issues/1479))
+* 更新非主要([#1479](https://github.com/truecharts/apps/issues/1479))
 
 
 
@@ -1030,7 +1030,7 @@
 
 #### 聊天
 
-* update ghcr.io/linuxserver/lazylibrarian:latest docker digest to 4dd1959 ([#1392](https://github.com/truecharts/apps/issues/1392))
+* 更新 ghcr.io/linuxserver/lazylibrarian:latest docker digest 到 4d1959 ([#1392](https://github.com/truecharts/apps/issues/1392))
 
 
 
