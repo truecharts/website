@@ -1,53 +1,53 @@
-# Changelog
+# 更新日志
 
 
-## [plausible-0.0.8](https://github.com/truecharts/apps/compare/plausible-0.0.7...plausible-0.0.8) (2022-07-14)
+## [预设0.0.8](https://github.com/truecharts/apps/compare/plausible-0.0.7...plausible-0.0.8) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
-
-
-
-## [plausible-0.0.7](https://github.com/truecharts/apps/compare/plausible-0.0.5...plausible-0.0.7) (2022-07-14)
-
-### Fix
-
-- bump to ensure .helmignore is present on all Charts
+- 重新生成目录并更新模板
 
 
 
-## [plausible-0.0.5](https://github.com/truecharts/apps/compare/plausible-0.0.3...plausible-0.0.5) (2022-07-12)
+## [高可信度-0.0.7](https://github.com/truecharts/apps/compare/plausible-0.0.5...plausible-0.0.7) (2022-07-14)
 
-### Chore
+### 修复
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
-
+- bump 以确保.helmnote存在于所有图表
 
 
-## [plausible-0.0.3](https://github.com/truecharts/apps/compare/plausible-0.0.2...plausible-0.0.3) (2022-07-12)
 
-### Chore
+## [预设0.0.5](https://github.com/truecharts/apps/compare/plausible-0.0.3...plausible-0.0.5) (2022-07-12)
 
-- bump to regenerate documentation
+### 聊天
+
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
+
+
+
+## [预设-0.0.3](https://github.com/truecharts/apps/compare/plausible-0.0.2...plausible-0.0.3) (2022-07-12)
+
+### 聊天
+
+- 跳转以重新生成文档
 
 
 
 <a name="plausible-0.0.2"></a>
 
-### [plausible-0.0.2](https://github.com/truecharts/apps/compare/plausible-0.0.1...plausible-0.0.2) (2022-07-12)
+### [预设-0.0.2](https://github.com/truecharts/apps/compare/plausible-0.0.1...plausible-0.0.2) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
 <a name="plausible-0.0.1"></a>
 
-### plausible-0.0.1 (2022-07-12)
+### 公证-0.0.1 (2022-07-12)
 
 #### Feat
 
-* Add Plausible Analytics ([#3055](https://github.com/truecharts/apps/issues/3055))
+* 添加可播放分析 ([#3055](https://github.com/truecharts/apps/issues/3055))
