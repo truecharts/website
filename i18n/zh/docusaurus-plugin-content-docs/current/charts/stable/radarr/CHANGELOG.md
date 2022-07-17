@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [radarr-11.0.18](https://github.com/truecharts/apps/compare/radarr-11.0.17...radarr-11.0.18) (2022-07-14)
+## [雷达-11.0.18](https://github.com/truecharts/apps/compare/radarr-11.0.17...radarr-11.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [radarr-11.0.17](https://github.com/truecharts/apps/compare/radarr-11.0.15...radarr-11.0.17) (2022-07-14)
+## [雷达-11.0.17](https://github.com/truecharts/apps/compare/radarr-11.0.15...radarr-11.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [radarr-11.0.15](https://github.com/truecharts/apps/compare/radarr-11.0.13...radarr-11.0.15) (2022-07-12)
+## [雷达-11.0.15](https://github.com/truecharts/apps/compare/radarr-11.0.13...radarr-11.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [radarr-11.0.13](https://github.com/truecharts/apps/compare/radarr-11.0.12...radarr-11.0.13) (2022-07-12)
+## [雷达-11.0.13](https://github.com/truecharts/apps/compare/radarr-11.0.12...radarr-11.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="radarr-11.0.12"></a>
 
-### [radarr-11.0.12](https://github.com/truecharts/apps/compare/radarr-11.0.11...radarr-11.0.12) (2022-07-12)
+### [雷达-11.0.12](https://github.com/truecharts/apps/compare/radarr-11.0.11...radarr-11.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="radarr-11.0.11"></a>
 
-### [radarr-11.0.11](https://github.com/truecharts/apps/compare/radarr-11.0.10...radarr-11.0.11) (2022-07-11)
+### [雷达-11.0.11](https://github.com/truecharts/apps/compare/radarr-11.0.10...radarr-11.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="radarr-11.0.10"></a>
 
-### [radarr-11.0.10](https://github.com/truecharts/apps/compare/radarr-11.0.9...radarr-11.0.10) (2022-07-09)
+### [雷达-11.0.10](https://github.com/truecharts/apps/compare/radarr-11.0.9...radarr-11.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="radarr-11.0.9"></a>
 
-### [radarr-11.0.9](https://github.com/truecharts/apps/compare/radarr-11.0.8...radarr-11.0.9) (2022-07-04)
+### [雷达-11.0.9](https://github.com/truecharts/apps/compare/radarr-11.0.8...radarr-11.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="radarr-11.0.8"></a>
 
-### [radarr-11.0.8](https://github.com/truecharts/apps/compare/radarr-11.0.7...radarr-11.0.8) (2022-06-25)
+### [雷达-11.0.8](https://github.com/truecharts/apps/compare/radarr-11.0.7...radarr-11.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="radarr-11.0.7"></a>
 
-### [radarr-11.0.7](https://github.com/truecharts/apps/compare/radarr-11.0.6...radarr-11.0.7) (2022-06-22)
+### [雷达-11.0.7](https://github.com/truecharts/apps/compare/radarr-11.0.6...radarr-11.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -97,7 +97,7 @@
 
 <a name="radarr-11.0.6"></a>
 
-### [radarr-11.0.6](https://github.com/truecharts/apps/compare/radarr-11.0.5...radarr-11.0.6) (2022-06-21)
+### [雷达-11.0.6](https://github.com/truecharts/apps/compare/radarr-11.0.5...radarr-11.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -108,7 +108,7 @@
 
 <a name="radarr-11.0.5"></a>
 
-### [radarr-11.0.5](https://github.com/truecharts/apps/compare/radarr-11.0.4...radarr-11.0.5) (2022-06-14)
+### [雷达-11.0.5](https://github.com/truecharts/apps/compare/radarr-11.0.4...radarr-11.0.5) (2022-06-14)
 
 #### 聊天
 
@@ -118,7 +118,7 @@
 
 <a name="radarr-11.0.4"></a>
 
-### [radarr-11.0.4](https://github.com/truecharts/apps/compare/radarr-11.0.3...radarr-11.0.4) (2022-06-13)
+### [雷达-11.0.4](https://github.com/truecharts/apps/compare/radarr-11.0.3...radarr-11.0.4) (2022-06-13)
 
 #### 聊天
 
@@ -128,7 +128,7 @@
 
 <a name="radarr-11.0.3"></a>
 
-### [radarr-11.0.3](https://github.com/truecharts/apps/compare/radarr-11.0.2...radarr-11.0.3) (2022-06-11)
+### [雷达-11.0.3](https://github.com/truecharts/apps/compare/radarr-11.0.2...radarr-11.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -138,7 +138,7 @@
 
 <a name="radarr-11.0.2"></a>
 
-### [radarr-11.0.2](https://github.com/truecharts/apps/compare/radarr-11.0.1...radarr-11.0.2) (2022-06-07)
+### [雷达-11.0.2](https://github.com/truecharts/apps/compare/radarr-11.0.1...radarr-11.0.2) (2022-06-07)
 
 #### 修复
 
@@ -148,7 +148,7 @@
 
 <a name="radarr-11.0.1"></a>
 
-### [radarr-11.0.1](https://github.com/truecharts/apps/compare/radarr-10.0.21...radarr-11.0.1) (2022-06-07)
+### [雷达-11.0.1](https://github.com/truecharts/apps/compare/radarr-10.0.21...radarr-11.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -168,7 +168,7 @@
 
 <a name="radarr-11.0.0"></a>
 
-### [radarr-11.0.0](https://github.com/truecharts/apps/compare/radarr-10.0.21...radarr-11.0.0) (2022-06-07)
+### [雷达-11.0.0](https://github.com/truecharts/apps/compare/radarr-10.0.21...radarr-11.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -182,7 +182,7 @@
 
 <a name="radarr-10.0.21"></a>
 
-### [radarr-10.0.21](https://github.com/truecharts/apps/compare/radarr-10.0.20...radarr-10.0.21) (2022-05-31)
+### [雷达-10.0.21](https://github.com/truecharts/apps/compare/radarr-10.0.20...radarr-10.0.21) (2022-05-31)
 
 #### 聊天
 
@@ -192,7 +192,7 @@
 
 <a name="radarr-10.0.20"></a>
 
-### [radarr-10.0.20](https://github.com/truecharts/apps/compare/radarr-10.0.19...radarr-10.0.20) (2022-05-26)
+### [雷达-10.0.20](https://github.com/truecharts/apps/compare/radarr-10.0.19...radarr-10.0.20) (2022-05-26)
 
 #### 聊天
 
@@ -203,7 +203,7 @@
 
 <a name="radarr-10.0.20"></a>
 
-### [radarr-10.0.20](https://github.com/truecharts/apps/compare/radarr-10.0.19...radarr-10.0.20) (2022-05-26)
+### [雷达-10.0.20](https://github.com/truecharts/apps/compare/radarr-10.0.19...radarr-10.0.20) (2022-05-26)
 
 #### 聊天
 
@@ -213,7 +213,7 @@
 
 <a name="radarr-10.0.19"></a>
 
-### [radarr-10.0.19](https://github.com/truecharts/apps/compare/radarr-10.0.18...radarr-10.0.19) (2022-05-24)
+### [雷达-10.0.19](https://github.com/truecharts/apps/compare/radarr-10.0.18...radarr-10.0.19) (2022-05-24)
 
 #### 聊天
 
@@ -223,7 +223,7 @@
 
 <a name="radarr-10.0.18"></a>
 
-### [radarr-10.0.18](https://github.com/truecharts/apps/compare/radarr-10.0.17...radarr-10.0.18) (2022-05-17)
+### [雷达-10.0.18](https://github.com/truecharts/apps/compare/radarr-10.0.17...radarr-10.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -234,7 +234,7 @@
 
 <a name="radarr-10.0.18"></a>
 
-### [radarr-10.0.18](https://github.com/truecharts/apps/compare/radarr-10.0.17...radarr-10.0.18) (2022-05-17)
+### [雷达-10.0.18](https://github.com/truecharts/apps/compare/radarr-10.0.17...radarr-10.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -244,7 +244,7 @@
 
 <a name="radarr-10.0.17"></a>
 
-### [radarr-10.0.17](https://github.com/truecharts/apps/compare/radarr-10.0.16...radarr-10.0.17) (2022-05-17)
+### [雷达-10.0.17](https://github.com/truecharts/apps/compare/radarr-10.0.16...radarr-10.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -254,7 +254,7 @@
 
 <a name="radarr-10.0.16"></a>
 
-### [radarr-10.0.16](https://github.com/truecharts/apps/compare/radarr-10.0.15...radarr-10.0.16) (2022-05-10)
+### [雷达-10.0.16](https://github.com/truecharts/apps/compare/radarr-10.0.15...radarr-10.0.16) (2022-05-10)
 
 #### 聊天
 
@@ -264,7 +264,7 @@
 
 <a name="radarr-10.0.15"></a>
 
-### [radarr-10.0.15](https://github.com/truecharts/apps/compare/radarr-10.0.14...radarr-10.0.15) (2022-05-05)
+### [雷达-10.0.15](https://github.com/truecharts/apps/compare/radarr-10.0.14...radarr-10.0.15) (2022-05-05)
 
 #### 聊天
 
@@ -274,7 +274,7 @@
 
 <a name="radarr-10.0.14"></a>
 
-### [radarr-10.0.14](https://github.com/truecharts/apps/compare/radarr-10.0.13...radarr-10.0.14) (2022-04-26)
+### [雷达-10.0.14](https://github.com/truecharts/apps/compare/radarr-10.0.13...radarr-10.0.14) (2022-04-26)
 
 #### 聊天
 
@@ -284,7 +284,7 @@
 
 <a name="radarr-10.0.13"></a>
 
-### [radarr-10.0.13](https://github.com/truecharts/apps/compare/radarr-10.0.12...radarr-10.0.13) (2022-04-20)
+### [雷达-10.0.13](https://github.com/truecharts/apps/compare/radarr-10.0.12...radarr-10.0.13) (2022-04-20)
 
 #### 聊天
 
@@ -295,7 +295,7 @@
 
 <a name="radarr-10.0.12"></a>
 
-### [radarr-10.0.12](https://github.com/truecharts/apps/compare/radarr-10.0.11...radarr-10.0.12) (2022-04-16)
+### [雷达-10.0.12](https://github.com/truecharts/apps/compare/radarr-10.0.11...radarr-10.0.12) (2022-04-16)
 
 #### 聊天
 
@@ -305,7 +305,7 @@
 
 <a name="radarr-10.0.11"></a>
 
-### [radarr-10.0.11](https://github.com/truecharts/apps/compare/radarr-10.0.10...radarr-10.0.11) (2022-04-12)
+### [雷达-10.0.11](https://github.com/truecharts/apps/compare/radarr-10.0.10...radarr-10.0.11) (2022-04-12)
 
 #### 聊天
 
@@ -315,7 +315,7 @@
 
 <a name="radarr-10.0.10"></a>
 
-### [radarr-10.0.10](https://github.com/truecharts/apps/compare/radarr-10.0.9...radarr-10.0.10) (2022-04-03)
+### [雷达-10.0.10](https://github.com/truecharts/apps/compare/radarr-10.0.9...radarr-10.0.10) (2022-04-03)
 
 #### 聊天
 
@@ -325,7 +325,7 @@
 
 <a name="radarr-10.0.9"></a>
 
-### [radarr-10.0.9](https://github.com/truecharts/apps/compare/radarr-10.0.8...radarr-10.0.9) (2022-03-31)
+### [雷达-10.0.9](https://github.com/truecharts/apps/compare/radarr-10.0.8...radarr-10.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -335,7 +335,7 @@
 
 <a name="radarr-10.0.8"></a>
 
-### [radarr-10.0.8](https://github.com/truecharts/apps/compare/radarr-10.0.7...radarr-10.0.8) (2022-03-30)
+### [雷达-10.0.8](https://github.com/truecharts/apps/compare/radarr-10.0.7...radarr-10.0.8) (2022-03-30)
 
 #### 聊天
 
@@ -345,7 +345,7 @@
 
 <a name="radarr-10.0.7"></a>
 
-### [radarr-10.0.7](https://github.com/truecharts/apps/compare/radarr-10.0.6...radarr-10.0.7) (2022-03-26)
+### [雷达-10.0.7](https://github.com/truecharts/apps/compare/radarr-10.0.6...radarr-10.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -355,7 +355,7 @@
 
 <a name="radarr-10.0.3"></a>
 
-### [radarr-10.0.3](https://github.com/truecharts/apps/compare/radarr-10.0.2...radarr-10.0.3) (2022-03-17)
+### [雷达-10.0.3](https://github.com/truecharts/apps/compare/radarr-10.0.2...radarr-10.0.3) (2022-03-17)
 
 #### 聊天
 
@@ -366,7 +366,7 @@
 
 <a name="radarr-10.0.1"></a>
 
-### [radarr-10.0.1](https://github.com/truecharts/apps/compare/radarr-10.0.0...radarr-10.0.1) (2022-03-07)
+### [雷达-10.0.1](https://github.com/truecharts/apps/compare/radarr-10.0.0...radarr-10.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -377,7 +377,7 @@
 
 <a name="radarr-10.0.0"></a>
 
-### [radarr-10.0.0](https://github.com/truecharts/apps/compare/radarr-9.0.45...radarr-10.0.0) (2022-03-03)
+### [雷达-10.0.0](https://github.com/truecharts/apps/compare/radarr-9.0.45...radarr-10.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -394,7 +394,7 @@
 
 <a name="radarr-9.0.45"></a>
 
-### [radarr-9.0.45](https://github.com/truecharts/apps/compare/radarr-9.0.44...radarr-9.0.45) (2022-03-02)
+### [雷达-9.0.45](https://github.com/truecharts/apps/compare/radarr-9.0.44...radarr-9.0.45) (2022-03-02)
 
 #### 聊天
 
@@ -405,7 +405,7 @@
 
 <a name="radarr-9.0.44"></a>
 
-### [radarr-9.0.44](https://github.com/truecharts/apps/compare/radarr-9.0.43...radarr-9.0.44) (2022-02-21)
+### [雷达-9.0.44](https://github.com/truecharts/apps/compare/radarr-9.0.43...radarr-9.0.44) (2022-02-21)
 
 #### 聊天
 
@@ -415,7 +415,7 @@
 
 <a name="radarr-9.0.43"></a>
 
-### [radarr-9.0.43](https://github.com/truecharts/apps/compare/radarr-9.0.42...radarr-9.0.43) (2022-02-15)
+### [雷达-9.0.43](https://github.com/truecharts/apps/compare/radarr-9.0.42...radarr-9.0.43) (2022-02-15)
 
 #### 聊天
 
@@ -425,7 +425,7 @@
 
 <a name="radarr-9.0.42"></a>
 
-### [radarr-9.0.42](https://github.com/truecharts/apps/compare/radarr-9.0.41...radarr-9.0.42) (2022-02-08)
+### [雷达-9.0.42](https://github.com/truecharts/apps/compare/radarr-9.0.41...radarr-9.0.42) (2022-02-08)
 
 #### 聊天
 
@@ -435,7 +435,7 @@
 
 <a name="radarr-9.0.41"></a>
 
-### [radarr-9.0.41](https://github.com/truecharts/apps/compare/radarr-9.0.40...radarr-9.0.41) (2022-02-06)
+### [雷达-9.0.41](https://github.com/truecharts/apps/compare/radarr-9.0.40...radarr-9.0.41) (2022-02-06)
 
 #### 聊天
 
@@ -445,7 +445,7 @@
 
 <a name="radarr-9.0.40"></a>
 
-### [radarr-9.0.40](https://github.com/truecharts/apps/compare/radarr-9.0.39...radarr-9.0.40) (2022-02-05)
+### [雷达-9.0.40](https://github.com/truecharts/apps/compare/radarr-9.0.39...radarr-9.0.40) (2022-02-05)
 
 #### 聊天
 
@@ -455,7 +455,7 @@
 
 <a name="radarr-9.0.39"></a>
 
-### [radarr-9.0.39](https://github.com/truecharts/apps/compare/radarr-9.0.38...radarr-9.0.39) (2022-02-03)
+### [雷达-9.0.39](https://github.com/truecharts/apps/compare/radarr-9.0.38...radarr-9.0.39) (2022-02-03)
 
 #### 聊天
 
@@ -465,7 +465,7 @@
 
 <a name="radarr-9.0.38"></a>
 
-### [radarr-9.0.38](https://github.com/truecharts/apps/compare/radarr-9.0.37...radarr-9.0.38) (2022-02-02)
+### [雷达-9.0.38](https://github.com/truecharts/apps/compare/radarr-9.0.37...radarr-9.0.38) (2022-02-02)
 
 #### 聊天
 
@@ -475,7 +475,7 @@
 
 <a name="radarr-9.0.37"></a>
 
-### [radarr-9.0.37](https://github.com/truecharts/apps/compare/radarr-9.0.36...radarr-9.0.37) (2022-01-25)
+### [雷达-9.0.37](https://github.com/truecharts/apps/compare/radarr-9.0.36...radarr-9.0.37) (2022-01-25)
 
 #### 聊天
 
@@ -485,7 +485,7 @@
 
 <a name="radarr-9.0.36"></a>
 
-### [radarr-9.0.36](https://github.com/truecharts/apps/compare/radarr-9.0.35...radarr-9.0.36) (2022-01-22)
+### [雷达-9.0.36](https://github.com/truecharts/apps/compare/radarr-9.0.35...radarr-9.0.36) (2022-01-22)
 
 #### 聊天
 
@@ -495,7 +495,7 @@
 
 <a name="radarr-9.0.35"></a>
 
-### [radarr-9.0.35](https://github.com/truecharts/apps/compare/radarr-9.0.34...radarr-9.0.35) (2022-01-21)
+### [雷达-9.0.35](https://github.com/truecharts/apps/compare/radarr-9.0.34...radarr-9.0.35) (2022-01-21)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="radarr-9.0.34"></a>
 
-### [radarr-9.0.34](https://github.com/truecharts/apps/compare/radarr-9.0.33...radarr-9.0.34) (2022-01-18)
+### [雷达-9.0.34](https://github.com/truecharts/apps/compare/radarr-9.0.33...radarr-9.0.34) (2022-01-18)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="radarr-9.0.33"></a>
 
-### [radarr-9.0.33](https://github.com/truecharts/apps/compare/radarr-9.0.32...radarr-9.0.33) (2022-01-13)
+### [雷达-9.0.33](https://github.com/truecharts/apps/compare/radarr-9.0.32...radarr-9.0.33) (2022-01-13)
 
 #### 聊天
 
@@ -533,7 +533,7 @@
 
 <a name="radarr-9.0.32"></a>
 
-### [radarr-9.0.32](https://github.com/truecharts/apps/compare/radarr-9.0.31...radarr-9.0.32) (2022-01-12)
+### [雷达-9.0.32](https://github.com/truecharts/apps/compare/radarr-9.0.31...radarr-9.0.32) (2022-01-12)
 
 #### 聊天
 
@@ -543,7 +543,7 @@
 
 <a name="radarr-9.0.31"></a>
 
-### [radarr-9.0.31](https://github.com/truecharts/apps/compare/radarr-9.0.30...radarr-9.0.31) (2022-01-11)
+### [雷达-9.0.31](https://github.com/truecharts/apps/compare/radarr-9.0.30...radarr-9.0.31) (2022-01-11)
 
 #### 聊天
 
@@ -553,7 +553,7 @@
 
 <a name="radarr-9.0.30"></a>
 
-### [radarr-9.0.30](https://github.com/truecharts/apps/compare/radarr-9.0.29...radarr-9.0.30) (2022-01-04)
+### [雷达-9.0.30](https://github.com/truecharts/apps/compare/radarr-9.0.29...radarr-9.0.30) (2022-01-04)
 
 #### 聊天
 
@@ -563,7 +563,7 @@
 
 <a name="radarr-9.0.29"></a>
 
-### [radarr-9.0.29](https://github.com/truecharts/apps/compare/radarr-9.0.28...radarr-9.0.29) (2022-01-04)
+### [雷达-9.0.29](https://github.com/truecharts/apps/compare/radarr-9.0.28...radarr-9.0.29) (2022-01-04)
 
 #### 聊天
 
@@ -573,7 +573,7 @@
 
 <a name="radarr-9.0.28"></a>
 
-### [radarr-9.0.28](https://github.com/truecharts/apps/compare/radarr-9.0.27...radarr-9.0.28) (2021-12-28)
+### [雷达-9.0.28](https://github.com/truecharts/apps/compare/radarr-9.0.27...radarr-9.0.28) (2021-12-28)
 
 #### 聊天
 
@@ -583,7 +583,7 @@
 
 <a name="radarr-9.0.27"></a>
 
-### [radarr-9.0.27](https://github.com/truecharts/apps/compare/radarr-9.0.26...radarr-9.0.27) (2021-12-21)
+### [雷达-9.0.27](https://github.com/truecharts/apps/compare/radarr-9.0.26...radarr-9.0.27) (2021-12-21)
 
 #### 聊天
 
@@ -594,7 +594,7 @@
 
 <a name="radarr-9.0.26"></a>
 
-### [radarr-9.0.26](https://github.com/truecharts/apps/compare/radarr-9.0.25...radarr-9.0.26) (2021-12-19)
+### [雷达-9.0.26](https://github.com/truecharts/apps/compare/radarr-9.0.25...radarr-9.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -605,7 +605,7 @@
 
 <a name="radarr-9.0.25"></a>
 
-### [radarr-9.0.25](https://github.com/truecharts/apps/compare/radarr-9.0.24...radarr-9.0.25) (2021-12-19)
+### [雷达-9.0.25](https://github.com/truecharts/apps/compare/radarr-9.0.24...radarr-9.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -616,7 +616,7 @@
 
 <a name="radarr-9.0.24"></a>
 
-### [radarr-9.0.24](https://github.com/truecharts/apps/compare/radarr-9.0.23...radarr-9.0.24) (2021-12-18)
+### [雷达-9.0.24](https://github.com/truecharts/apps/compare/radarr-9.0.23...radarr-9.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -627,7 +627,7 @@
 
 <a name="radarr-9.0.23"></a>
 
-### [radarr-9.0.23](https://github.com/truecharts/apps/compare/radarr-9.0.22...radarr-9.0.23) (2021-12-14)
+### [雷达-9.0.23](https://github.com/truecharts/apps/compare/radarr-9.0.22...radarr-9.0.23) (2021-12-14)
 
 #### 聊天
 
@@ -637,7 +637,7 @@
 
 <a name="radarr-9.0.22"></a>
 
-### [radarr-9.0.22](https://github.com/truecharts/apps/compare/radarr-9.0.21...radarr-9.0.22) (2021-12-13)
+### [雷达-9.0.22](https://github.com/truecharts/apps/compare/radarr-9.0.21...radarr-9.0.22) (2021-12-13)
 
 #### 聊天
 
@@ -647,7 +647,7 @@
 
 <a name="radarr-9.0.21"></a>
 
-### [radarr-9.0.21](https://github.com/truecharts/apps/compare/radarr-9.0.20...radarr-9.0.21) (2021-12-11)
+### [雷达-9.0.21](https://github.com/truecharts/apps/compare/radarr-9.0.20...radarr-9.0.21) (2021-12-11)
 
 #### 聊天
 
@@ -657,7 +657,7 @@
 
 <a name="radarr-9.0.20"></a>
 
-### [radarr-9.0.20](https://github.com/truecharts/apps/compare/radarr-9.0.19...radarr-9.0.20) (2021-12-07)
+### [雷达-9.0.20](https://github.com/truecharts/apps/compare/radarr-9.0.19...radarr-9.0.20) (2021-12-07)
 
 #### 聊天
 
@@ -667,7 +667,7 @@
 
 <a name="radarr-9.0.19"></a>
 
-### radarr-9.0.19 (2021-12-05)
+### 雷达-9.0.19 (2021-12-05)
 
 #### 聊天
 
@@ -688,7 +688,7 @@
 
 <a name="radarr-9.0.18"></a>
 
-### [radarr-9.0.18](https://github.com/truecharts/apps/compare/radarr-9.0.17...radarr-9.0.18) (2021-12-05)
+### [雷达-9.0.18](https://github.com/truecharts/apps/compare/radarr-9.0.17...radarr-9.0.18) (2021-12-05)
 
 #### 聊天
 
@@ -698,7 +698,7 @@
 
 <a name="radarr-9.0.17"></a>
 
-### [radarr-9.0.17](https://github.com/truecharts/apps/compare/radarr-9.0.16...radarr-9.0.17) (2021-12-05)
+### [雷达-9.0.17](https://github.com/truecharts/apps/compare/radarr-9.0.16...radarr-9.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -708,7 +708,7 @@
 
 <a name="radarr-9.0.16"></a>
 
-### [radarr-9.0.16](https://github.com/truecharts/apps/compare/radarr-9.0.15...radarr-9.0.16) (2021-12-04)
+### [雷达-9.0.16](https://github.com/truecharts/apps/compare/radarr-9.0.15...radarr-9.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -718,7 +718,7 @@
 
 <a name="radarr-9.0.15"></a>
 
-### [radarr-9.0.15](https://github.com/truecharts/apps/compare/radarr-9.0.14...radarr-9.0.15) (2021-12-04)
+### [雷达-9.0.15](https://github.com/truecharts/apps/compare/radarr-9.0.14...radarr-9.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -728,7 +728,7 @@
 
 <a name="radarr-9.0.14"></a>
 
-### [radarr-9.0.14](https://github.com/truecharts/apps/compare/radarr-9.0.13...radarr-9.0.14) (2021-12-03)
+### [雷达-9.0.14](https://github.com/truecharts/apps/compare/radarr-9.0.13...radarr-9.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -739,7 +739,7 @@
 
 <a name="radarr-9.0.13"></a>
 
-### [radarr-9.0.13](https://github.com/truecharts/apps/compare/radarr-9.0.12...radarr-9.0.13) (2021-11-30)
+### [雷达-9.0.13](https://github.com/truecharts/apps/compare/radarr-9.0.12...radarr-9.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -749,7 +749,7 @@
 
 <a name="radarr-9.0.12"></a>
 
-### [radarr-9.0.12](https://github.com/truecharts/apps/compare/radarr-9.0.11...radarr-9.0.12) (2021-11-23)
+### [雷达-9.0.12](https://github.com/truecharts/apps/compare/radarr-9.0.11...radarr-9.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -759,7 +759,7 @@
 
 <a name="radarr-9.0.11"></a>
 
-### [radarr-9.0.11](https://github.com/truecharts/apps/compare/radarr-9.0.10...radarr-9.0.11) (2021-11-22)
+### [雷达-9.0.11](https://github.com/truecharts/apps/compare/radarr-9.0.10...radarr-9.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -769,7 +769,7 @@
 
 <a name="radarr-9.0.10"></a>
 
-### [radarr-9.0.10](https://github.com/truecharts/apps/compare/radarr-9.0.9...radarr-9.0.10) (2021-11-16)
+### [雷达-9.0.10](https://github.com/truecharts/apps/compare/radarr-9.0.9...radarr-9.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -779,7 +779,7 @@
 
 <a name="radarr-9.0.9"></a>
 
-### [radarr-9.0.9](https://github.com/truecharts/apps/compare/radarr-9.0.8...radarr-9.0.9) (2021-11-15)
+### [雷达-9.0.9](https://github.com/truecharts/apps/compare/radarr-9.0.8...radarr-9.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -790,7 +790,7 @@
 
 <a name="radarr-9.0.8"></a>
 
-### [radarr-9.0.8](https://github.com/truecharts/apps/compare/radarr-9.0.7...radarr-9.0.8) (2021-11-14)
+### [雷达-9.0.8](https://github.com/truecharts/apps/compare/radarr-9.0.7...radarr-9.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -808,7 +808,7 @@
 
 <a name="radarr-9.0.7"></a>
 
-### [radarr-9.0.7](https://github.com/truecharts/apps/compare/radarr-9.0.6...radarr-9.0.7) (2021-11-09)
+### [雷达-9.0.7](https://github.com/truecharts/apps/compare/radarr-9.0.6...radarr-9.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -818,7 +818,7 @@
 
 <a name="radarr-9.0.6"></a>
 
-### [radarr-9.0.6](https://github.com/truecharts/apps/compare/radarr-9.0.5...radarr-9.0.6) (2021-11-07)
+### [雷达-9.0.6](https://github.com/truecharts/apps/compare/radarr-9.0.5...radarr-9.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -828,7 +828,7 @@
 
 <a name="radarr-9.0.5"></a>
 
-### [radarr-9.0.5](https://github.com/truecharts/apps/compare/radarr-9.0.4...radarr-9.0.5) (2021-11-07)
+### [雷达-9.0.5](https://github.com/truecharts/apps/compare/radarr-9.0.4...radarr-9.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -846,7 +846,7 @@
 
 <a name="radarr-9.0.4"></a>
 
-### [radarr-9.0.4](https://github.com/truecharts/apps/compare/radarr-9.0.3...radarr-9.0.4) (2021-11-02)
+### [雷达-9.0.4](https://github.com/truecharts/apps/compare/radarr-9.0.3...radarr-9.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -856,7 +856,7 @@
 
 <a name="radarr-9.0.3"></a>
 
-### [radarr-9.0.3](https://github.com/truecharts/apps/compare/radarr-9.0.2...radarr-9.0.3) (2021-11-01)
+### [雷达-9.0.3](https://github.com/truecharts/apps/compare/radarr-9.0.2...radarr-9.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -866,7 +866,7 @@
 
 <a name="radarr-9.0.2"></a>
 
-### [radarr-9.0.2](https://github.com/truecharts/apps/compare/radarr-9.0.1...radarr-9.0.2) (2021-10-26)
+### [雷达-9.0.2](https://github.com/truecharts/apps/compare/radarr-9.0.1...radarr-9.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -876,7 +876,7 @@
 
 <a name="radarr-9.0.1"></a>
 
-### [radarr-9.0.1](https://github.com/truecharts/apps/compare/radarr-9.0.0...radarr-9.0.1) (2021-10-26)
+### [雷达-9.0.1](https://github.com/truecharts/apps/compare/radarr-9.0.0...radarr-9.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -886,7 +886,7 @@
 
 <a name="radarr-9.0.0"></a>
 
-### [radarr-9.0.0](https://github.com/truecharts/apps/compare/radarr-8.0.16...radarr-9.0.0) (2021-10-25)
+### [雷达-9.0.0](https://github.com/truecharts/apps/compare/radarr-8.0.16...radarr-9.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -896,12 +896,12 @@
 
 <a name="radarr-8.0.16"></a>
 
-### [radarr-8.0.16](https://github.com/truecharts/apps/compare/radarr-8.0.13...radarr-8.0.16) (2021-10-20)
+### [雷达-8.0.16](https://github.com/truecharts/apps/compare/radarr-8.0.13...radarr-8.0.16) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -912,7 +912,7 @@
 
 <a name="radarr-8.0.13"></a>
 
-### [radarr-8.0.13](https://github.com/truecharts/apps/compare/radarr-8.0.12...radarr-8.0.13) (2021-10-20)
+### [雷达arr-8.0.13](https://github.com/truecharts/apps/compare/radarr-8.0.12...radarr-8.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -922,7 +922,7 @@
 
 <a name="radarr-8.0.12"></a>
 
-### [radarr-8.0.12](https://github.com/truecharts/apps/compare/radarr-8.0.11...radarr-8.0.12) (2021-10-19)
+### [雷达arr-8.0.12](https://github.com/truecharts/apps/compare/radarr-8.0.11...radarr-8.0.12) (2021-10-19)
 
 #### 更改
 
@@ -946,7 +946,7 @@
 
 <a name="radarr-8.0.11"></a>
 
-### [radarr-8.0.11](https://github.com/truecharts/apps/compare/radarr-8.0.10...radarr-8.0.11) (2021-10-19)
+### [雷达-8.0.11](https://github.com/truecharts/apps/compare/radarr-8.0.10...radarr-8.0.11) (2021-10-19)
 
 #### 修复
 
@@ -956,7 +956,7 @@
 
 <a name="radarr-8.0.10"></a>
 
-### [radarr-8.0.10](https://github.com/truecharts/apps/compare/radarr-8.0.9...radarr-8.0.10) (2021-10-19)
+### [雷达-8.0.10](https://github.com/truecharts/apps/compare/radarr-8.0.9...radarr-8.0.10) (2021-10-19)
 
 #### 修复
 
@@ -966,7 +966,7 @@
 
 <a name="radarr-8.0.9"></a>
 
-### [radarr-8.0.9](https://github.com/truecharts/apps/compare/radarr-8.0.8...radarr-8.0.9) (2021-10-18)
+### [雷达arr-8.0.9](https://github.com/truecharts/apps/compare/radarr-8.0.8...radarr-8.0.9) (2021-10-18)
 
 #### 聊天
 
@@ -980,7 +980,7 @@
 
 <a name="radarr-8.0.8"></a>
 
-### [radarr-8.0.8](https://github.com/truecharts/apps/compare/radarr-8.0.7...radarr-8.0.8) (2021-10-17)
+### [雷达-8.0.8](https://github.com/truecharts/apps/compare/radarr-8.0.7...radarr-8.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -994,7 +994,7 @@
 
 <a name="radarr-8.0.7"></a>
 
-### [radarr-8.0.7](https://github.com/truecharts/apps/compare/radarr-8.0.6...radarr-8.0.7) (2021-10-13)
+### [雷达-8.0.7](https://github.com/truecharts/apps/compare/radarr-8.0.6...radarr-8.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -1004,7 +1004,7 @@
 
 <a name="radarr-8.0.6"></a>
 
-### [radarr-8.0.6](https://github.com/truecharts/apps/compare/radarr-8.0.5...radarr-8.0.6) (2021-10-12)
+### [雷达-8.0.6](https://github.com/truecharts/apps/compare/radarr-8.0.5...radarr-8.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -1014,7 +1014,7 @@
 
 <a name="radarr-8.0.5"></a>
 
-### [radarr-8.0.5](https://github.com/truecharts/apps/compare/radarr-8.0.4...radarr-8.0.5) (2021-10-12)
+### [雷达arr-8.0.5](https://github.com/truecharts/apps/compare/radarr-8.0.4...radarr-8.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -1024,7 +1024,7 @@
 
 <a name="radarr-8.0.4"></a>
 
-### [radarr-8.0.4](https://github.com/truecharts/apps/compare/radarr-8.0.3...radarr-8.0.4) (2021-10-05)
+### [雷达-8.0.4](https://github.com/truecharts/apps/compare/radarr-8.0.3...radarr-8.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1034,7 +1034,7 @@
 
 <a name="radarr-8.0.3"></a>
 
-### [radarr-8.0.3](https://github.com/truecharts/apps/compare/radarr-8.0.2...radarr-8.0.3) (2021-09-29)
+### [雷达-8.0.3](https://github.com/truecharts/apps/compare/radarr-8.0.2...radarr-8.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1044,7 +1044,7 @@
 
 <a name="radarr-8.0.1"></a>
 
-### [radarr-8.0.1](https://github.com/truecharts/apps/compare/radarr-8.0.0...radarr-8.0.1) (2021-09-26)
+### [雷达arr-8.0.1](https://github.com/truecharts/apps/compare/radarr-8.0.0...radarr-8.0.1) (2021-09-26)
 
 
 
@@ -1056,7 +1056,7 @@
 
 <a name="radarr-7.0.2"></a>
 
-### [radarr-7.0.2](https://github.com/truecharts/apps/compare/radarr-7.0.1...radarr-7.0.2) (2021-09-21)
+### [雷达-7.0.2](https://github.com/truecharts/apps/compare/radarr-7.0.1...radarr-7.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1066,7 +1066,7 @@
 
 <a name="radarr-7.0.1"></a>
 
-### [radarr-7.0.1](https://github.com/truecharts/apps/compare/radarr-6.11.15...radarr-7.0.1) (2021-09-13)
+### [雷达-7.0.1](https://github.com/truecharts/apps/compare/radarr-6.11.15...radarr-7.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1085,7 +1085,7 @@
 
 <a name="radarr-6.11.15"></a>
 
-## [radarr-6.11.15](https://github.com/truecharts/apps/compare/radarr-6.11.14...radarr-6.11.15) (2021-09-08)
+## [雷达-6.11.15](https://github.com/truecharts/apps/compare/radarr-6.11.14...radarr-6.11.15) (2021-09-08)
 
 ### 修复
 
