@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [photoprism-10.0.22](https://github.com/truecharts/apps/compare/photoprism-10.0.21...photoprism-10.0.22) (2022-07-14)
+## [照片-10.0.22](https://github.com/truecharts/apps/compare/photoprism-10.0.21...photoprism-10.0.22) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [photoprism-10.0.21](https://github.com/truecharts/apps/compare/photoprism-10.0.19...photoprism-10.0.21) (2022-07-14)
+## [照片-10.0.21](https://github.com/truecharts/apps/compare/photoprism-10.0.19...photoprism-10.0.21) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [photoprism-10.0.19](https://github.com/truecharts/apps/compare/photoprism-10.0.17...photoprism-10.0.19) (2022-07-12)
+## [照片-10.0.19](https://github.com/truecharts/apps/compare/photoprism-10.0.17...photoprism-10.0.19) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [photoprism-10.0.17](https://github.com/truecharts/apps/compare/photoprism-10.0.16...photoprism-10.0.17) (2022-07-12)
+## [照片-10.0.17](https://github.com/truecharts/apps/compare/photoprism-10.0.16...photoprism-10.0.17) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="photoprism-10.0.16"></a>
 
-### [photoprism-10.0.16](https://github.com/truecharts/apps/compare/photoprism-10.0.15...photoprism-10.0.16) (2022-07-12)
+### [照片-10.0.16](https://github.com/truecharts/apps/compare/photoprism-10.0.15...photoprism-10.0.16) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="photoprism-10.0.15"></a>
 
-### [photoprism-10.0.15](https://github.com/truecharts/apps/compare/photoprism-10.0.14...photoprism-10.0.15) (2022-07-11)
+### [照片-10.0.15](https://github.com/truecharts/apps/compare/photoprism-10.0.14...photoprism-10.0.15) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="photoprism-10.0.14"></a>
 
-### [photoprism-10.0.14](https://github.com/truecharts/apps/compare/photoprism-10.0.13...photoprism-10.0.14) (2022-07-09)
+### [照片-10.0.14](https://github.com/truecharts/apps/compare/photoprism-10.0.13...photoprism-10.0.14) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="photoprism-10.0.13"></a>
 
-### [photoprism-10.0.13](https://github.com/truecharts/apps/compare/photoprism-10.0.12...photoprism-10.0.13) (2022-07-05)
+### [照片-10.0.13](https://github.com/truecharts/apps/compare/photoprism-10.0.12...photoprism-10.0.13) (2022-07-05)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="photoprism-10.0.12"></a>
 
-### [photoprism-10.0.12](https://github.com/truecharts/apps/compare/photoprism-10.0.11...photoprism-10.0.12) (2022-07-04)
+### [照片-10.0.12](https://github.com/truecharts/apps/compare/photoprism-10.0.11...photoprism-10.0.12) (2022-07-04)
 
 #### 聊天
 
@@ -86,17 +86,17 @@
 
 <a name="photoprism-10.0.11"></a>
 
-### [photoprism-10.0.11](https://github.com/truecharts/apps/compare/photoprism-10.0.10...photoprism-10.0.11) (2022-07-01)
+### [照片-10.0.11](https://github.com/truecharts/apps/compare/photoprism-10.0.10...photoprism-10.0.11) (2022-07-01)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/photoprism to v220629 ([#3018](https://github.com/truecharts/apps/issues/3018))
+* 将容器图像 tccr.io/truechars/photoprism 更新到 v220629([#3018](https://github.com/truecharts/apps/issues/3018))
 
 
 
 <a name="photoprism-10.0.10"></a>
 
-### [photoprism-10.0.10](https://github.com/truecharts/apps/compare/photoprism-10.0.9...photoprism-10.0.10) (2022-06-29)
+### [照片-10.0.10](https://github.com/truecharts/apps/compare/photoprism-10.0.9...photoprism-10.0.10) (2022-06-29)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="photoprism-10.0.9"></a>
 
-### [photoprism-10.0.9](https://github.com/truecharts/apps/compare/photoprism-10.0.8...photoprism-10.0.9) (2022-06-25)
+### [照片-10.0.9](https://github.com/truecharts/apps/compare/photoprism-10.0.8...photoprism-10.0.9) (2022-06-25)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="photoprism-10.0.8"></a>
 
-### [photoprism-10.0.8](https://github.com/truecharts/apps/compare/photoprism-10.0.7...photoprism-10.0.8) (2022-06-22)
+### [照片-10.0.8](https://github.com/truecharts/apps/compare/photoprism-10.0.7...photoprism-10.0.8) (2022-06-22)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="photoprism-10.0.7"></a>
 
-### [photoprism-10.0.7](https://github.com/truecharts/apps/compare/photoprism-10.0.6...photoprism-10.0.7) (2022-06-21)
+### [照片-10.0.7](https://github.com/truecharts/apps/compare/photoprism-10.0.6...photoprism-10.0.7) (2022-06-21)
 
 #### 聊天
 
@@ -136,17 +136,17 @@
 
 <a name="photoprism-10.0.6"></a>
 
-### [photoprism-10.0.6](https://github.com/truecharts/apps/compare/photoprism-10.0.5...photoprism-10.0.6) (2022-06-18)
+### [照片-10.0.6](https://github.com/truecharts/apps/compare/photoprism-10.0.5...photoprism-10.0.6) (2022-06-18)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/photoprism to v220617 ([#2928](https://github.com/truecharts/apps/issues/2928))
+* 将容器图像 tccr.io/truechars/photoprism 更新到 v220617 ([#2928](https://github.com/truecharts/apps/issues/2928))
 
 
 
 <a name="photoprism-10.0.5"></a>
 
-### [photoprism-10.0.5](https://github.com/truecharts/apps/compare/photoprism-10.0.4...photoprism-10.0.5) (2022-06-17)
+### [照片-10.0.5](https://github.com/truecharts/apps/compare/photoprism-10.0.4...photoprism-10.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -156,17 +156,17 @@
 
 <a name="photoprism-10.0.4"></a>
 
-### [photoprism-10.0.4](https://github.com/truecharts/apps/compare/photoprism-10.0.3...photoprism-10.0.4) (2022-06-15)
+### [照片-10.0.4](https://github.com/truecharts/apps/compare/photoprism-10.0.3...photoprism-10.0.4) (2022-06-15)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/photoprism to v220614 ([#2893](https://github.com/truecharts/apps/issues/2893))
+* 将容器图像 tccr.io/truechars/photoprism 升级到 v220614 ([#2893](https://github.com/truecharts/apps/issues/2893))
 
 
 
 <a name="photoprism-10.0.3"></a>
 
-### [photoprism-10.0.3](https://github.com/truecharts/apps/compare/photoprism-10.0.2...photoprism-10.0.3) (2022-06-14)
+### [照片-10.0.3](https://github.com/truecharts/apps/compare/photoprism-10.0.2...photoprism-10.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -176,7 +176,7 @@
 
 <a name="photoprism-10.0.2"></a>
 
-### [photoprism-10.0.2](https://github.com/truecharts/apps/compare/photoprism-10.0.1...photoprism-10.0.2) (2022-06-14)
+### [照片-10.0.2](https://github.com/truecharts/apps/compare/photoprism-10.0.1...photoprism-10.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -186,7 +186,7 @@
 
 <a name="photoprism-10.0.1"></a>
 
-### [photoprism-10.0.1](https://github.com/truecharts/apps/compare/photoprism-10.0.0...photoprism-10.0.1) (2022-06-11)
+### [照片-10.0.1](https://github.com/truecharts/apps/compare/photoprism-10.0.0...photoprism-10.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -196,7 +196,7 @@
 
 <a name="photoprism-10.0.0"></a>
 
-### [photoprism-10.0.0](https://github.com/truecharts/apps/compare/photoprism-9.0.1...photoprism-10.0.0) (2022-06-07)
+### [照片-10.0.0](https://github.com/truecharts/apps/compare/photoprism-9.0.1...photoprism-10.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="photoprism-9.0.1"></a>
 
-### [photoprism-9.0.1](https://github.com/truecharts/apps/compare/photoprism-8.0.28...photoprism-9.0.1) (2022-06-07)
+### [照片-9.0.1](https://github.com/truecharts/apps/compare/photoprism-8.0.28...photoprism-9.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -230,7 +230,7 @@
 
 <a name="photoprism-9.0.0"></a>
 
-### [photoprism-9.0.0](https://github.com/truecharts/apps/compare/photoprism-8.0.28...photoprism-9.0.0) (2022-06-07)
+### [照片-9.0.0](https://github.com/truecharts/apps/compare/photoprism-8.0.28...photoprism-9.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -244,18 +244,18 @@
 
 <a name="photoprism-8.0.28"></a>
 
-### [photoprism-8.0.28](https://github.com/truecharts/apps/compare/photoprism-8.0.27...photoprism-8.0.28) (2022-05-31)
+### [照片-8.0.28](https://github.com/truecharts/apps/compare/photoprism-8.0.27...photoprism-8.0.28) (2022-05-31)
 
 #### 聊天
 
 * 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
-* update container image tccr.io/truecharts/photoprism to v220528 ([#2795](https://github.com/truecharts/apps/issues/2795))
+* 将容器图像 tccr.io/truechars/photoprism 更新为 v220528 ([#2795](https://github.com/truecharts/apps/issues/2795))
 
 
 
 <a name="photoprism-8.0.27"></a>
 
-### [photoprism-8.0.27](https://github.com/truecharts/apps/compare/photoprism-8.0.26...photoprism-8.0.27) (2022-05-26)
+### [照片-8.0.27](https://github.com/truecharts/apps/compare/photoprism-8.0.26...photoprism-8.0.27) (2022-05-26)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="photoprism-8.0.27"></a>
 
-### [photoprism-8.0.27](https://github.com/truecharts/apps/compare/photoprism-8.0.26...photoprism-8.0.27) (2022-05-26)
+### [照片-8.0.27](https://github.com/truecharts/apps/compare/photoprism-8.0.26...photoprism-8.0.27) (2022-05-26)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="photoprism-8.0.26"></a>
 
-### [photoprism-8.0.26](https://github.com/truecharts/apps/compare/photoprism-8.0.25...photoprism-8.0.26) (2022-05-24)
+### [照片-8.0.26](https://github.com/truecharts/apps/compare/photoprism-8.0.25...photoprism-8.0.26) (2022-05-24)
 
 #### 聊天
 
@@ -286,17 +286,17 @@
 
 <a name="photoprism-8.0.25"></a>
 
-### [photoprism-8.0.25](https://github.com/truecharts/apps/compare/photoprism-8.0.24...photoprism-8.0.25) (2022-05-19)
+### [照片-8.0.25](https://github.com/truecharts/apps/compare/photoprism-8.0.24...photoprism-8.0.25) (2022-05-19)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/photoprism to v220517 ([#2715](https://github.com/truecharts/apps/issues/2715))
+* 将容器图像 tccr.io/truechars/photoprism 升级到 v220517 ([#2715](https://github.com/truecharts/apps/issues/2715))
 
 
 
 <a name="photoprism-8.0.24"></a>
 
-### [photoprism-8.0.24](https://github.com/truecharts/apps/compare/photoprism-8.0.23...photoprism-8.0.24) (2022-05-17)
+### [照片-8.0.24](https://github.com/truecharts/apps/compare/photoprism-8.0.23...photoprism-8.0.24) (2022-05-17)
 
 #### 聊天
 
@@ -307,7 +307,7 @@
 
 <a name="photoprism-8.0.24"></a>
 
-### [photoprism-8.0.24](https://github.com/truecharts/apps/compare/photoprism-8.0.23...photoprism-8.0.24) (2022-05-17)
+### [照片-8.0.24](https://github.com/truecharts/apps/compare/photoprism-8.0.23...photoprism-8.0.24) (2022-05-17)
 
 #### 聊天
 
@@ -317,7 +317,7 @@
 
 <a name="photoprism-8.0.23"></a>
 
-### [photoprism-8.0.23](https://github.com/truecharts/apps/compare/photoprism-8.0.22...photoprism-8.0.23) (2022-05-17)
+### [照片-8.0.23](https://github.com/truecharts/apps/compare/photoprism-8.0.22...photoprism-8.0.23) (2022-05-17)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="photoprism-8.0.22"></a>
 
-### [photoprism-8.0.22](https://github.com/truecharts/apps/compare/photoprism-8.0.21...photoprism-8.0.22) (2022-05-10)
+### [照片-8.0.22](https://github.com/truecharts/apps/compare/photoprism-8.0.21...photoprism-8.0.22) (2022-05-10)
 
 #### 聊天
 
@@ -337,7 +337,7 @@
 
 <a name="photoprism-8.0.21"></a>
 
-### [photoprism-8.0.21](https://github.com/truecharts/apps/compare/photoprism-8.0.20...photoprism-8.0.21) (2022-05-05)
+### [照片-8.0.21](https://github.com/truecharts/apps/compare/photoprism-8.0.20...photoprism-8.0.21) (2022-05-05)
 
 #### 聊天
 
@@ -347,7 +347,7 @@
 
 <a name="photoprism-8.0.20"></a>
 
-### [photoprism-8.0.20](https://github.com/truecharts/apps/compare/photoprism-8.0.19...photoprism-8.0.20) (2022-05-04)
+### [照片-8.0.20](https://github.com/truecharts/apps/compare/photoprism-8.0.19...photoprism-8.0.20) (2022-05-04)
 
 #### 聊天
 
@@ -357,7 +357,7 @@
 
 <a name="photoprism-8.0.19"></a>
 
-### [photoprism-8.0.19](https://github.com/truecharts/apps/compare/photoprism-8.0.18...photoprism-8.0.19) (2022-04-26)
+### [照片-8.0.19](https://github.com/truecharts/apps/compare/photoprism-8.0.18...photoprism-8.0.19) (2022-04-26)
 
 #### 聊天
 
@@ -367,7 +367,7 @@
 
 <a name="photoprism-8.0.18"></a>
 
-### [photoprism-8.0.18](https://github.com/truecharts/apps/compare/photoprism-8.0.17...photoprism-8.0.18) (2022-04-20)
+### [照片-8.0.18](https://github.com/truecharts/apps/compare/photoprism-8.0.17...photoprism-8.0.18) (2022-04-20)
 
 #### 聊天
 
@@ -378,7 +378,7 @@
 
 <a name="photoprism-8.0.17"></a>
 
-### [photoprism-8.0.17](https://github.com/truecharts/apps/compare/photoprism-8.0.16...photoprism-8.0.17) (2022-04-12)
+### [照片-8.0.17](https://github.com/truecharts/apps/compare/photoprism-8.0.16...photoprism-8.0.17) (2022-04-12)
 
 #### 聊天
 
@@ -388,7 +388,7 @@
 
 <a name="photoprism-8.0.16"></a>
 
-### [photoprism-8.0.16](https://github.com/truecharts/apps/compare/photoprism-8.0.15...photoprism-8.0.16) (2022-04-03)
+### [照片-8.0.16](https://github.com/truecharts/apps/compare/photoprism-8.0.15...photoprism-8.0.16) (2022-04-03)
 
 #### 聊天
 
@@ -398,7 +398,7 @@
 
 <a name="photoprism-8.0.15"></a>
 
-### [photoprism-8.0.15](https://github.com/truecharts/apps/compare/photoprism-8.0.14...photoprism-8.0.15) (2022-03-31)
+### [照片-8.0.15](https://github.com/truecharts/apps/compare/photoprism-8.0.14...photoprism-8.0.15) (2022-03-31)
 
 #### 聊天
 
@@ -408,7 +408,7 @@
 
 <a name="photoprism-8.0.14"></a>
 
-### [photoprism-8.0.14](https://github.com/truecharts/apps/compare/photoprism-8.0.13...photoprism-8.0.14) (2022-03-31)
+### [照片-8.0.14](https://github.com/truecharts/apps/compare/photoprism-8.0.13...photoprism-8.0.14) (2022-03-31)
 
 #### 聊天
 
@@ -418,7 +418,7 @@
 
 <a name="photoprism-8.0.13"></a>
 
-### [photoprism-8.0.13](https://github.com/truecharts/apps/compare/photoprism-8.0.12...photoprism-8.0.13) (2022-03-30)
+### [照片-8.0.13](https://github.com/truecharts/apps/compare/photoprism-8.0.12...photoprism-8.0.13) (2022-03-30)
 
 #### 聊天
 
@@ -429,7 +429,7 @@
 
 <a name="photoprism-8.0.12"></a>
 
-### [photoprism-8.0.12](https://github.com/truecharts/apps/compare/photoprism-8.0.11...photoprism-8.0.12) (2022-03-26)
+### [照片-8.0.12](https://github.com/truecharts/apps/compare/photoprism-8.0.11...photoprism-8.0.12) (2022-03-26)
 
 #### 聊天
 
@@ -439,7 +439,7 @@
 
 <a name="photoprism-8.0.11"></a>
 
-### [photoprism-8.0.11](https://github.com/truecharts/apps/compare/photoprism-8.0.10...photoprism-8.0.11) (2022-03-26)
+### [照片-8.0.11](https://github.com/truecharts/apps/compare/photoprism-8.0.10...photoprism-8.0.11) (2022-03-26)
 
 #### 聊天
 
@@ -449,7 +449,7 @@
 
 <a name="photoprism-8.0.6"></a>
 
-### [photoprism-8.0.6](https://github.com/truecharts/apps/compare/photoprism-8.0.5...photoprism-8.0.6) (2022-03-08)
+### [照片-8.0.6](https://github.com/truecharts/apps/compare/photoprism-8.0.5...photoprism-8.0.6) (2022-03-08)
 
 #### 聊天
 
@@ -459,7 +459,7 @@
 
 <a name="photoprism-8.0.5"></a>
 
-### [photoprism-8.0.5](https://github.com/truecharts/apps/compare/photoprism-8.0.4...photoprism-8.0.5) (2022-03-07)
+### [照片-8.0.5](https://github.com/truecharts/apps/compare/photoprism-8.0.4...photoprism-8.0.5) (2022-03-07)
 
 #### 聊天
 
@@ -469,21 +469,21 @@
 
 <a name="photoprism-8.0.4"></a>
 
-### [photoprism-8.0.4](https://github.com/truecharts/apps/compare/photoprism-8.0.3...photoprism-8.0.4) (2022-03-07)
+### [照片-8.0.4](https://github.com/truecharts/apps/compare/photoprism-8.0.3...photoprism-8.0.4) (2022-03-07)
 
 #### 修复
 
-* revert last image update ([#2051](https://github.com/truecharts/apps/issues/2051))
+* 恢复上次的图像更新([#2051](https://github.com/truecharts/apps/issues/2051))
 
 
 
 <a name="photoprism-8.0.3"></a>
 
-### [photoprism-8.0.3](https://github.com/truecharts/apps/compare/photoprism-8.0.2...photoprism-8.0.3) (2022-03-07)
+### [照片-8.0.3](https://github.com/truecharts/apps/compare/photoprism-8.0.2...photoprism-8.0.3) (2022-03-07)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/photoprism to v20220121 ([#2047](https://github.com/truecharts/apps/issues/2047))
+* 更新容器图像 tccr.io/truechars/photoprism 到 v20220121 ([#2047](https://github.com/truecharts/apps/issues/2047))
 * 更新一般的非主码([#2046](https://github.com/truecharts/apps/issues/2046))
 * 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
@@ -491,18 +491,18 @@
 
 <a name="photoprism-8.0.2"></a>
 
-### [photoprism-8.0.2](https://github.com/truecharts/apps/compare/photoprism-8.0.0...photoprism-8.0.2) (2022-03-06)
+### [照片-8.0.2](https://github.com/truecharts/apps/compare/photoprism-8.0.0...photoprism-8.0.2) (2022-03-06)
 
 #### 修复
 
 * 修复一些应用并将一些应用移动到稳定状态
-* update image ref ([#2028](https://github.com/truecharts/apps/issues/2028))
+* 更新图像参考([#2028](https://github.com/truecharts/apps/issues/2028))
 
 
 
 <a name="photoprism-8.0.0"></a>
 
-### [photoprism-8.0.0](https://github.com/truecharts/apps/compare/photoprism-7.0.29...photoprism-8.0.0) (2022-03-03)
+### [照片-8.0.0](https://github.com/truecharts/apps/compare/photoprism-7.0.29...photoprism-8.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="photoprism-7.0.29"></a>
 
-### [photoprism-7.0.29](https://github.com/truecharts/apps/compare/photoprism-7.0.28...photoprism-7.0.29) (2022-03-02)
+### [照片7.0.29](https://github.com/truecharts/apps/compare/photoprism-7.0.28...photoprism-7.0.29) (2022-03-02)
 
 #### 聊天
 
@@ -530,7 +530,7 @@
 
 <a name="photoprism-7.0.28"></a>
 
-### [photoprism-7.0.28](https://github.com/truecharts/apps/compare/photoprism-7.0.27...photoprism-7.0.28) (2022-02-21)
+### [照片7.0.28](https://github.com/truecharts/apps/compare/photoprism-7.0.27...photoprism-7.0.28) (2022-02-21)
 
 #### 聊天
 
@@ -540,7 +540,7 @@
 
 <a name="photoprism-7.0.27"></a>
 
-### [photoprism-7.0.27](https://github.com/truecharts/apps/compare/photoprism-7.0.26...photoprism-7.0.27) (2022-02-15)
+### [照片7.0.27](https://github.com/truecharts/apps/compare/photoprism-7.0.26...photoprism-7.0.27) (2022-02-15)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="photoprism-7.0.26"></a>
 
-### [photoprism-7.0.26](https://github.com/truecharts/apps/compare/photoprism-7.0.25...photoprism-7.0.26) (2022-02-08)
+### [照片7.0.26](https://github.com/truecharts/apps/compare/photoprism-7.0.25...photoprism-7.0.26) (2022-02-08)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="photoprism-7.0.25"></a>
 
-### [photoprism-7.0.25](https://github.com/truecharts/apps/compare/photoprism-7.0.24...photoprism-7.0.25) (2022-02-06)
+### [照片7.0.25](https://github.com/truecharts/apps/compare/photoprism-7.0.24...photoprism-7.0.25) (2022-02-06)
 
 #### 聊天
 
@@ -571,7 +571,7 @@
 
 <a name="photoprism-7.0.24"></a>
 
-### [photoprism-7.0.24](https://github.com/truecharts/apps/compare/photoprism-7.0.23...photoprism-7.0.24) (2022-02-05)
+### [照片7.0.24](https://github.com/truecharts/apps/compare/photoprism-7.0.23...photoprism-7.0.24) (2022-02-05)
 
 #### 聊天
 
@@ -581,7 +581,7 @@
 
 <a name="photoprism-7.0.23"></a>
 
-### [photoprism-7.0.23](https://github.com/truecharts/apps/compare/photoprism-7.0.22...photoprism-7.0.23) (2022-02-03)
+### [照片7.0.23](https://github.com/truecharts/apps/compare/photoprism-7.0.22...photoprism-7.0.23) (2022-02-03)
 
 #### 聊天
 
@@ -591,7 +591,7 @@
 
 <a name="photoprism-7.0.22"></a>
 
-### [photoprism-7.0.22](https://github.com/truecharts/apps/compare/photoprism-7.0.21...photoprism-7.0.22) (2022-02-02)
+### [照片7.0.22](https://github.com/truecharts/apps/compare/photoprism-7.0.21...photoprism-7.0.22) (2022-02-02)
 
 #### 聊天
 
@@ -601,7 +601,7 @@
 
 <a name="photoprism-7.0.21"></a>
 
-### [photoprism-7.0.21](https://github.com/truecharts/apps/compare/photoprism-7.0.20...photoprism-7.0.21) (2022-01-25)
+### [照片-7.0.21](https://github.com/truecharts/apps/compare/photoprism-7.0.20...photoprism-7.0.21) (2022-01-25)
 
 #### 聊天
 
@@ -611,7 +611,7 @@
 
 <a name="photoprism-7.0.20"></a>
 
-### [photoprism-7.0.20](https://github.com/truecharts/apps/compare/photoprism-7.0.19...photoprism-7.0.20) (2022-01-22)
+### [照片7.0.20](https://github.com/truecharts/apps/compare/photoprism-7.0.19...photoprism-7.0.20) (2022-01-22)
 
 #### 聊天
 
@@ -621,7 +621,7 @@
 
 <a name="photoprism-7.0.19"></a>
 
-### [photoprism-7.0.19](https://github.com/truecharts/apps/compare/photoprism-7.0.17...photoprism-7.0.19) (2022-01-22)
+### [照片7.0.19](https://github.com/truecharts/apps/compare/photoprism-7.0.17...photoprism-7.0.19) (2022-01-22)
 
 #### 聊天
 
@@ -636,7 +636,7 @@
 
 <a name="photoprism-7.0.18"></a>
 
-### [photoprism-7.0.18](https://github.com/truecharts/apps/compare/photoprism-7.0.17...photoprism-7.0.18) (2022-01-21)
+### [照片7.0.18](https://github.com/truecharts/apps/compare/photoprism-7.0.17...photoprism-7.0.18) (2022-01-21)
 
 #### 聊天
 
@@ -650,7 +650,7 @@
 
 <a name="photoprism-7.0.16"></a>
 
-### [photoprism-7.0.16](https://github.com/truecharts/apps/compare/photoprism-7.0.15...photoprism-7.0.16) (2022-01-18)
+### [照片7.0.16](https://github.com/truecharts/apps/compare/photoprism-7.0.15...photoprism-7.0.16) (2022-01-18)
 
 #### 聊天
 
@@ -660,7 +660,7 @@
 
 <a name="photoprism-7.0.15"></a>
 
-### [photoprism-7.0.15](https://github.com/truecharts/apps/compare/photoprism-7.0.14...photoprism-7.0.15) (2022-01-13)
+### [照片7.0.15](https://github.com/truecharts/apps/compare/photoprism-7.0.14...photoprism-7.0.15) (2022-01-13)
 
 #### 聊天
 
@@ -674,7 +674,7 @@
 
 <a name="photoprism-7.0.14"></a>
 
-### [photoprism-7.0.14](https://github.com/truecharts/apps/compare/photoprism-7.0.13...photoprism-7.0.14) (2022-01-12)
+### [照片-7.0.14](https://github.com/truecharts/apps/compare/photoprism-7.0.13...photoprism-7.0.14) (2022-01-12)
 
 #### 聊天
 
@@ -684,7 +684,7 @@
 
 <a name="photoprism-7.0.13"></a>
 
-### [photoprism-7.0.13](https://github.com/truecharts/apps/compare/photoprism-7.0.12...photoprism-7.0.13) (2022-01-11)
+### [照片7.0.13](https://github.com/truecharts/apps/compare/photoprism-7.0.12...photoprism-7.0.13) (2022-01-11)
 
 #### 聊天
 
@@ -694,17 +694,17 @@
 
 <a name="photoprism-7.0.12"></a>
 
-### [photoprism-7.0.12](https://github.com/truecharts/apps/compare/photoprism-7.0.11...photoprism-7.0.12) (2022-01-10)
+### [照片7.0.12](https://github.com/truecharts/apps/compare/photoprism-7.0.11...photoprism-7.0.12) (2022-01-10)
 
 #### 聊天
 
-* update docker general major docker tags (major) ([#1678](https://github.com/truecharts/apps/issues/1678))
+* 更新 docker 一般主要停靠标签 (主要) ([#1678](https://github.com/truecharts/apps/issues/1678))
 
 
 
 <a name="photoprism-7.0.11"></a>
 
-### [photoprism-7.0.11](https://github.com/truecharts/apps/compare/photoprism-7.0.10...photoprism-7.0.11) (2022-01-04)
+### [照片7.0.11](https://github.com/truecharts/apps/compare/photoprism-7.0.10...photoprism-7.0.11) (2022-01-04)
 
 #### 聊天
 
@@ -714,7 +714,7 @@
 
 <a name="photoprism-7.0.10"></a>
 
-### [photoprism-7.0.10](https://github.com/truecharts/apps/compare/photoprism-7.0.9...photoprism-7.0.10) (2021-12-28)
+### [照片-7.0.10](https://github.com/truecharts/apps/compare/photoprism-7.0.9...photoprism-7.0.10) (2021-12-28)
 
 #### 聊天
 
@@ -724,7 +724,7 @@
 
 <a name="photoprism-7.0.9"></a>
 
-### [photoprism-7.0.9](https://github.com/truecharts/apps/compare/photoprism-7.0.8...photoprism-7.0.9) (2021-12-21)
+### [照片7.0.9](https://github.com/truecharts/apps/compare/photoprism-7.0.8...photoprism-7.0.9) (2021-12-21)
 
 #### 聊天
 
@@ -734,7 +734,7 @@
 
 <a name="photoprism-7.0.8"></a>
 
-### [photoprism-7.0.8](https://github.com/truecharts/apps/compare/photoprism-7.0.7...photoprism-7.0.8) (2021-12-19)
+### [照片7.0.8](https://github.com/truecharts/apps/compare/photoprism-7.0.7...photoprism-7.0.8) (2021-12-19)
 
 #### 聊天
 
@@ -746,7 +746,7 @@
 
 <a name="photoprism-7.0.7"></a>
 
-### [photoprism-7.0.7](https://github.com/truecharts/apps/compare/photoprism-7.0.6...photoprism-7.0.7) (2021-12-19)
+### [照片7.0.7](https://github.com/truecharts/apps/compare/photoprism-7.0.6...photoprism-7.0.7) (2021-12-19)
 
 #### 聊天
 
@@ -757,17 +757,17 @@
 
 <a name="photoprism-7.0.6"></a>
 
-### [photoprism-7.0.6](https://github.com/truecharts/apps/compare/photoprism-7.0.5...photoprism-7.0.6) (2021-12-19)
+### [照片7.0.6](https://github.com/truecharts/apps/compare/photoprism-7.0.5...photoprism-7.0.6) (2021-12-19)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/photoprism to v20211215 ([#1568](https://github.com/truecharts/apps/issues/1568))
+* 更新容器图像 tccr.io/truechars/photoprism 到 v20211215 ([#1568](https://github.com/truecharts/apps/issues/1568))
 
 
 
 <a name="photoprism-7.0.5"></a>
 
-### [photoprism-7.0.5](https://github.com/truecharts/apps/compare/photoprism-7.0.4...photoprism-7.0.5) (2021-12-18)
+### [照片7.0.5](https://github.com/truecharts/apps/compare/photoprism-7.0.4...photoprism-7.0.5) (2021-12-18岁)
 
 #### 聊天
 
@@ -778,7 +778,7 @@
 
 <a name="photoprism-7.0.4"></a>
 
-### [photoprism-7.0.4](https://github.com/truecharts/apps/compare/photoprism-7.0.3...photoprism-7.0.4) (2021-12-14)
+### [照片7.0.4](https://github.com/truecharts/apps/compare/photoprism-7.0.3...photoprism-7.0.4) (2021-12-14)
 
 #### 聊天
 
@@ -788,7 +788,7 @@
 
 <a name="photoprism-7.0.3"></a>
 
-### [photoprism-7.0.3](https://github.com/truecharts/apps/compare/photoprism-7.0.2...photoprism-7.0.3) (2021-12-13)
+### [照片-7.0.3](https://github.com/truecharts/apps/compare/photoprism-7.0.2...photoprism-7.0.3) (2021-12-13)
 
 #### 聊天
 
@@ -798,18 +798,18 @@
 
 <a name="photoprism-7.0.2"></a>
 
-### [photoprism-7.0.2](https://github.com/truecharts/apps/compare/photoprism-7.0.1...photoprism-7.0.2) (2021-12-13)
+### [照片-7.0.2](https://github.com/truecharts/apps/compare/photoprism-7.0.1...photoprism-7.0.2) (2021-12-13)
 
 #### 聊天
 
 * 修复一些图标[#1525](https://github.com/truecharts/apps/issues/1525))
-* update docker general major docker tags (major) ([#1523](https://github.com/truecharts/apps/issues/1523))
+* 更新 docker 一般主要停靠标签 (主要) ([#1523](https://github.com/truecharts/apps/issues/1523))
 
 
 
 <a name="photoprism-7.0.1"></a>
 
-### [photoprism-7.0.1](https://github.com/truecharts/apps/compare/photoprism-7.0.0...photoprism-7.0.1) (2021-12-11)
+### [照片7.0.1](https://github.com/truecharts/apps/compare/photoprism-7.0.0...photoprism-7.0.1) (2021-12-11)
 
 #### 聊天
 
@@ -819,7 +819,7 @@
 
 <a name="photoprism-7.0.0"></a>
 
-### [photoprism-7.0.0](https://github.com/truecharts/apps/compare/photoprism-6.0.10...photoprism-7.0.0) (2021-12-11)
+### [照片-7.0.0](https://github.com/truecharts/apps/compare/photoprism-6.0.10...photoprism-7.0.0) (2021-12-11)
 
 #### Feat
 
@@ -833,7 +833,7 @@
 
 <a name="photoprism-6.0.10"></a>
 
-### [photoprism-6.0.10](https://github.com/truecharts/apps/compare/photoprism-6.0.9...photoprism-6.0.10) (2021-12-07)
+### [照片-6.0.10](https://github.com/truecharts/apps/compare/photoprism-6.0.9...photoprism-6.0.10) (2021-12-07)
 
 #### 聊天
 
@@ -843,17 +843,17 @@
 
 <a name="photoprism-6.0.9"></a>
 
-### [photoprism-6.0.9](https://github.com/truecharts/apps/compare/photoprism-6.0.8...photoprism-6.0.9) (2021-12-07)
+### [照片-6.0.9](https://github.com/truecharts/apps/compare/photoprism-6.0.8...photoprism-6.0.9) (2021-12-07)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/photoprism to v20211203 ([#1476](https://github.com/truecharts/apps/issues/1476))
+* 更新容器图像 tccr.io/truechars/photoprism 到 v20211203 ([#1476](https://github.com/truecharts/apps/issues/1476))
 
 
 
 <a name="photoprism-6.0.8"></a>
 
-### photoprism-6.0.8 (2021-12-05)
+### 照片-6.0.8 (2021-12-05)
 
 #### 聊天
 
@@ -864,9 +864,9 @@
 * 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
 * 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 * 更新非主要的背包头盔版本([#1471](https://github.com/truecharts/apps/issues/1471))
-* update container image docker.io/photoprism/photoprism to v20211130 ([#1439](https://github.com/truecharts/apps/issues/1439))
+* 将容器镜像Docker.io/photoprism/photoprism 更新到 v20211130 ([#1439](https://github.com/truecharts/apps/issues/1439))
 * 更新非主要的背包头盔版本([#1432](https://github.com/truecharts/apps/issues/1432))
-* update major docker tags (major) ([#1426](https://github.com/truecharts/apps/issues/1426))
+* 更新主要停靠标签 (主要) ([#1426](https://github.com/truecharts/apps/issues/1426))
 
 #### 修复
 
@@ -876,7 +876,7 @@
 
 <a name="photoprism-6.0.7"></a>
 
-### [photoprism-6.0.7](https://github.com/truecharts/apps/compare/photoprism-6.0.6...photoprism-6.0.7) (2021-12-05)
+### [照片-6.0.7](https://github.com/truecharts/apps/compare/photoprism-6.0.6...photoprism-6.0.7) (2021-12-05)
 
 #### 聊天
 
@@ -886,7 +886,7 @@
 
 <a name="photoprism-6.0.6"></a>
 
-### [photoprism-6.0.6](https://github.com/truecharts/apps/compare/photoprism-6.0.5...photoprism-6.0.6) (2021-12-04)
+### [照片-6.0.6](https://github.com/truecharts/apps/compare/photoprism-6.0.5...photoprism-6.0.6) (2021-12-04)
 
 #### 聊天
 
@@ -896,7 +896,7 @@
 
 <a name="photoprism-6.0.5"></a>
 
-### [photoprism-6.0.5](https://github.com/truecharts/apps/compare/photoprism-6.0.4...photoprism-6.0.5) (2021-12-04)
+### [照片-6.0.5](https://github.com/truecharts/apps/compare/photoprism-6.0.4...photoprism-6.0.5) (2021-12-04)
 
 #### 聊天
 
@@ -906,7 +906,7 @@
 
 <a name="photoprism-6.0.4"></a>
 
-### [photoprism-6.0.4](https://github.com/truecharts/apps/compare/photoprism-6.0.3...photoprism-6.0.4) (2021-12-03)
+### [照片-6.0.4](https://github.com/truecharts/apps/compare/photoprism-6.0.3...photoprism-6.0.4) (2021-12-03)
 
 #### 聊天
 
@@ -918,17 +918,17 @@
 
 <a name="photoprism-6.0.3"></a>
 
-### [photoprism-6.0.3](https://github.com/truecharts/apps/compare/photoprism-6.0.2...photoprism-6.0.3) (2021-11-30)
+### [照片-6.0.3](https://github.com/truecharts/apps/compare/photoprism-6.0.2...photoprism-6.0.3) (2021-11-30)
 
 #### 聊天
 
-* update container image docker.io/photoprism/photoprism to v20211130 ([#1439](https://github.com/truecharts/apps/issues/1439))
+* 将容器镜像Docker.io/photoprism/photoprism 更新到 v20211130 ([#1439](https://github.com/truecharts/apps/issues/1439))
 
 
 
 <a name="photoprism-6.0.2"></a>
 
-### [photoprism-6.0.2](https://github.com/truecharts/apps/compare/photoprism-6.0.1...photoprism-6.0.2) (2021-11-30)
+### [照片-6.0.2](https://github.com/truecharts/apps/compare/photoprism-6.0.1...photoprism-6.0.2) (2021-11-30)
 
 #### 聊天
 
@@ -938,27 +938,27 @@
 
 <a name="photoprism-6.0.1"></a>
 
-### [photoprism-6.0.1](https://github.com/truecharts/apps/compare/photoprism-6.0.0...photoprism-6.0.1) (2021-11-30)
+### [照片-6.0.1](https://github.com/truecharts/apps/compare/photoprism-6.0.0...photoprism-6.0.1) (2021-11-30)
 
 #### 聊天
 
-* update major docker tags (major) ([#1426](https://github.com/truecharts/apps/issues/1426))
+* 更新主要停靠标签 (主要) ([#1426](https://github.com/truecharts/apps/issues/1426))
 
 
 
 <a name="photoprism-6.0.0"></a>
 
-### [photoprism-6.0.0](https://github.com/truecharts/apps/compare/photoprism-5.0.12...photoprism-6.0.0) (2021-11-28)
+### [照片-6.0.0](https://github.com/truecharts/apps/compare/photoprism-5.0.12...photoprism-6.0.0) (2021-11-28)
 
 #### Feat
 
-* use mariadb instead of sqllite ([#1419](https://github.com/truecharts/apps/issues/1419))
+* 使用mariadb而不是sqsat([#1419](https://github.com/truecharts/apps/issues/1419))
 
 
 
 <a name="photoprism-5.0.12"></a>
 
-### [photoprism-5.0.12](https://github.com/truecharts/apps/compare/photoprism-5.0.11...photoprism-5.0.12) (2021-11-23)
+### [照片5.0.12](https://github.com/truecharts/apps/compare/photoprism-5.0.11...photoprism-5.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -968,7 +968,7 @@
 
 <a name="photoprism-5.0.11"></a>
 
-### [photoprism-5.0.11](https://github.com/truecharts/apps/compare/photoprism-5.0.10...photoprism-5.0.11) (2021-11-22)
+### [照片5.0.11](https://github.com/truecharts/apps/compare/photoprism-5.0.10...photoprism-5.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -978,7 +978,7 @@
 
 <a name="photoprism-5.0.10"></a>
 
-### [photoprism-5.0.10](https://github.com/truecharts/apps/compare/photoprism-5.0.9...photoprism-5.0.10) (2021-11-16)
+### [照片5.0.10](https://github.com/truecharts/apps/compare/photoprism-5.0.9...photoprism-5.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -988,7 +988,7 @@
 
 <a name="photoprism-5.0.9"></a>
 
-### [photoprism-5.0.9](https://github.com/truecharts/apps/compare/photoprism-5.0.8...photoprism-5.0.9) (2021-11-15)
+### [照片5.0.9](https://github.com/truecharts/apps/compare/photoprism-5.0.8...photoprism-5.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -999,7 +999,7 @@
 
 <a name="photoprism-5.0.8"></a>
 
-### [photoprism-5.0.8](https://github.com/truecharts/apps/compare/photoprism-5.0.7...photoprism-5.0.8) (2021-11-14)
+### [照片5.0.8](https://github.com/truecharts/apps/compare/photoprism-5.0.7...photoprism-5.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -1017,7 +1017,7 @@
 
 <a name="photoprism-5.0.7"></a>
 
-### [photoprism-5.0.7](https://github.com/truecharts/apps/compare/photoprism-5.0.6...photoprism-5.0.7) (2021-11-09)
+### [照片5.0.7](https://github.com/truecharts/apps/compare/photoprism-5.0.6...photoprism-5.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -1027,7 +1027,7 @@
 
 <a name="photoprism-5.0.6"></a>
 
-### [photoprism-5.0.6](https://github.com/truecharts/apps/compare/photoprism-5.0.5...photoprism-5.0.6) (2021-11-07)
+### [照片5.0.6](https://github.com/truecharts/apps/compare/photoprism-5.0.5...photoprism-5.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -1037,7 +1037,7 @@
 
 <a name="photoprism-5.0.5"></a>
 
-### [photoprism-5.0.5](https://github.com/truecharts/apps/compare/photoprism-5.0.4...photoprism-5.0.5) (2021-11-07)
+### [照片5.0.5](https://github.com/truecharts/apps/compare/photoprism-5.0.4...photoprism-5.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -1055,7 +1055,7 @@
 
 <a name="photoprism-5.0.4"></a>
 
-### [photoprism-5.0.4](https://github.com/truecharts/apps/compare/photoprism-5.0.3...photoprism-5.0.4) (2021-11-02)
+### [照片5.0.4](https://github.com/truecharts/apps/compare/photoprism-5.0.3...photoprism-5.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -1065,7 +1065,7 @@
 
 <a name="photoprism-5.0.3"></a>
 
-### [photoprism-5.0.3](https://github.com/truecharts/apps/compare/photoprism-5.0.2...photoprism-5.0.3) (2021-11-01)
+### [照片5.0.3](https://github.com/truecharts/apps/compare/photoprism-5.0.2...photoprism-5.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -1075,7 +1075,7 @@
 
 <a name="photoprism-5.0.2"></a>
 
-### [photoprism-5.0.2](https://github.com/truecharts/apps/compare/photoprism-5.0.1...photoprism-5.0.2) (2021-10-26)
+### [照片5.0.2](https://github.com/truecharts/apps/compare/photoprism-5.0.1...photoprism-5.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -1085,7 +1085,7 @@
 
 <a name="photoprism-5.0.1"></a>
 
-### [photoprism-5.0.1](https://github.com/truecharts/apps/compare/photoprism-5.0.0...photoprism-5.0.1) (2021-10-26)
+### [照片5.0.1](https://github.com/truecharts/apps/compare/photoprism-5.0.0...photoprism-5.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1095,7 +1095,7 @@
 
 <a name="photoprism-5.0.0"></a>
 
-### [photoprism-5.0.0](https://github.com/truecharts/apps/compare/photoprism-4.0.11...photoprism-5.0.0) (2021-10-25)
+### [照片5.0.0](https://github.com/truecharts/apps/compare/photoprism-4.0.11...photoprism-5.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -1105,12 +1105,12 @@
 
 <a name="photoprism-4.0.11"></a>
 
-### [photoprism-4.0.11](https://github.com/truecharts/apps/compare/photoprism-4.0.8...photoprism-4.0.11) (2021-10-20)
+### [照片4.0.11](https://github.com/truecharts/apps/compare/photoprism-4.0.8...photoprism-4.0.11) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1121,7 +1121,7 @@
 
 <a name="photoprism-4.0.8"></a>
 
-### [photoprism-4.0.8](https://github.com/truecharts/apps/compare/photoprism-4.0.7...photoprism-4.0.8) (2021-10-20)
+### [照片-4.0.8](https://github.com/truecharts/apps/compare/photoprism-4.0.7...photoprism-4.0.8) (2021-10-20)
 
 #### 聊天
 
@@ -1131,7 +1131,7 @@
 
 <a name="photoprism-4.0.7"></a>
 
-### [photoprism-4.0.7](https://github.com/truecharts/apps/compare/photoprism-4.0.6...photoprism-4.0.7) (2021-10-19)
+### [照片-4.0.7](https://github.com/truecharts/apps/compare/photoprism-4.0.6...photoprism-4.0.7) (2021-10-19)
 
 #### 更改
 
@@ -1154,18 +1154,18 @@
 
 <a name="photoprism-4.0.6"></a>
 
-### [photoprism-4.0.6](https://github.com/truecharts/apps/compare/photoprism-4.0.5...photoprism-4.0.6) (2021-10-19)
+### [照片-4.0.6](https://github.com/truecharts/apps/compare/photoprism-4.0.5...photoprism-4.0.6) (2021-10-19)
 
 #### 聊天
 
 * Project-Eclipse Part 2, 调整和清理更新日志 ([#1173](https://github.com/truecharts/apps/issues/1173))
-* update container image docker.io/photoprism/photoprism to v20211018 ([#1175](https://github.com/truecharts/apps/issues/1175))
+* 将容器镜像Docker.io/photoprism/photoprism 更新到 v20211018 ([#1175](https://github.com/truecharts/apps/issues/1175))
 
 
 
 <a name="photoprism-4.0.5"></a>
 
-### [photoprism-4.0.5](https://github.com/truecharts/apps/compare/photoprism-4.0.4...photoprism-4.0.5) (2021-10-19)
+### [照片-4.0.5](https://github.com/truecharts/apps/compare/photoprism-4.0.4...photoprism-4.0.5) (2021-10-19)
 
 #### 修复
 
@@ -1175,7 +1175,7 @@
 
 <a name="photoprism-4.0.4"></a>
 
-### [photoprism-4.0.4](https://github.com/truecharts/apps/compare/photoprism-4.0.3...photoprism-4.0.4) (2021-10-19)
+### [照片-4.0.4](https://github.com/truecharts/apps/compare/photoprism-4.0.3...photoprism-4.0.4) (2021-10-19)
 
 #### 修复
 
@@ -1185,7 +1185,7 @@
 
 <a name="photoprism-4.0.3"></a>
 
-### [photoprism-4.0.3](https://github.com/truecharts/apps/compare/photoprism-4.0.2...photoprism-4.0.3) (2021-10-18)
+### [照片-4.0.3](https://github.com/truecharts/apps/compare/photoprism-4.0.2...photoprism-4.0.3) (2021-10-18)
 
 #### 聊天
 
@@ -1199,7 +1199,7 @@
 
 <a name="photoprism-4.0.2"></a>
 
-### [photoprism-4.0.2](https://github.com/truecharts/apps/compare/photoprism-4.0.1...photoprism-4.0.2) (2021-10-17)
+### [照片-4.0.2](https://github.com/truecharts/apps/compare/photoprism-4.0.1...photoprism-4.0.2) (2021-10-17)
 
 #### 聊天
 
@@ -1213,7 +1213,7 @@
 
 <a name="photoprism-4.0.1"></a>
 
-### [photoprism-4.0.1](https://github.com/truecharts/apps/compare/photoprism-4.0.0...photoprism-4.0.1) (2021-10-13)
+### [照片-4.0.1](https://github.com/truecharts/apps/compare/photoprism-4.0.0...photoprism-4.0.1) (2021-10-13)
 
 #### 聊天
 
@@ -1223,13 +1223,13 @@
 
 <a name="photoprism-4.0.0"></a>
 
-### [photoprism-4.0.0](https://github.com/truecharts/apps/compare/photoprism-3.0.9...photoprism-4.0.0) (2021-10-12)
+### [照片-4.0.0](https://github.com/truecharts/apps/compare/photoprism-3.0.9...photoprism-4.0.0) (2021-10-12)
 
 
 
 <a name="photoprism-3.0.9"></a>
 
-### [photoprism-3.0.9](https://github.com/truecharts/apps/compare/photoprism-3.0.8...photoprism-3.0.9) (2021-10-12)
+### [照片-3.0.9](https://github.com/truecharts/apps/compare/photoprism-3.0.8...photoprism-3.0.9) (2021-10-12)
 
 #### 聊天
 
@@ -1239,7 +1239,7 @@
 
 <a name="photoprism-3.0.8"></a>
 
-### [photoprism-3.0.8](https://github.com/truecharts/apps/compare/photoprism-3.0.7...photoprism-3.0.8) (2021-10-12)
+### [照片-3.0.8](https://github.com/truecharts/apps/compare/photoprism-3.0.7...photoprism-3.0.8) (2021-10-12)
 
 #### 聊天
 
@@ -1249,17 +1249,17 @@
 
 <a name="photoprism-3.0.7"></a>
 
-### [photoprism-3.0.7](https://github.com/truecharts/apps/compare/photoprism-3.0.6...photoprism-3.0.7) (2021-10-12)
+### [照片-3.0.7](https://github.com/truecharts/apps/compare/photoprism-3.0.6...photoprism-3.0.7) (2021-10-12)
 
 #### 聊天
 
-* update major docker tags (major) ([#1124](https://github.com/truecharts/apps/issues/1124))
+* 更新主要停靠标签 (主要) ([#1124](https://github.com/truecharts/apps/issues/1124))
 
 
 
 <a name="photoprism-3.0.6"></a>
 
-### [photoprism-3.0.6](https://github.com/truecharts/apps/compare/photoprism-3.0.5...photoprism-3.0.6) (2021-10-05)
+### [照片-3.0.6](https://github.com/truecharts/apps/compare/photoprism-3.0.5...photoprism-3.0.6) (2021-10-05)
 
 #### 聊天
 
@@ -1269,17 +1269,17 @@
 
 <a name="photoprism-3.0.5"></a>
 
-### [photoprism-3.0.5](https://github.com/truecharts/apps/compare/photoprism-3.0.4...photoprism-3.0.5) (2021-10-05)
+### [照片-3.0.5](https://github.com/truecharts/apps/compare/photoprism-3.0.4...photoprism-3.0.5) (2021-10-05)
 
 #### 聊天
 
-* update container image docker.io/photoprism/photoprism to v20211002 ([#1100](https://github.com/truecharts/apps/issues/1100))
+* 将容器镜像Docker.io/photoprism/photoprism 更新到 v20211002 ([#100](https://github.com/truecharts/apps/issues/1100))
 
 
 
 <a name="photoprism-3.0.4"></a>
 
-### [photoprism-3.0.4](https://github.com/truecharts/apps/compare/photoprism-3.0.3...photoprism-3.0.4) (2021-09-29)
+### [照片-3.0.4](https://github.com/truecharts/apps/compare/photoprism-3.0.3...photoprism-3.0.4) (2021-09-29)
 
 #### 聊天
 
@@ -1289,29 +1289,29 @@
 
 <a name="photoprism-3.0.2"></a>
 
-### [photoprism-3.0.2](https://github.com/truecharts/apps/compare/photoprism-3.0.1...photoprism-3.0.2) (2021-09-27)
+### [照片-3.0.2](https://github.com/truecharts/apps/compare/photoprism-3.0.1...photoprism-3.0.2) (2021-09-27)
 
 #### 聊天
 
-* update container image docker.io/photoprism/photoprism to v20210925 ([#1045](https://github.com/truecharts/apps/issues/1045))
+* 将容器镜像Docker.io/photoprism/photoprism 更新到 v20210925 ([#1045](https://github.com/truecharts/apps/issues/1045))
 
 
 
 <a name="photoprism-3.0.1"></a>
 
-### [photoprism-3.0.1](https://github.com/truecharts/apps/compare/photoprism-3.0.0...photoprism-3.0.1) (2021-09-26)
+### [照片-3.0.1](https://github.com/truecharts/apps/compare/photoprism-3.0.0...photoprism-3.0.1) (2021-09-26)
 
 
 
 <a name="photoprism-3.0.0"></a>
 
-### [photoprism-3.0.0](https://github.com/truecharts/apps/compare/photoprism-2.0.2...photoprism-3.0.0) (2021-09-26)
+### [照片-3.0.0](https://github.com/truecharts/apps/compare/photoprism-2.0.2...photoprism-3.0.0) (2021-09-26)
 
 
 
 <a name="photoprism-2.0.2"></a>
 
-### [photoprism-2.0.2](https://github.com/truecharts/apps/compare/photoprism-2.0.1...photoprism-2.0.2) (2021-09-21)
+### [照片-2.0.2](https://github.com/truecharts/apps/compare/photoprism-2.0.1...photoprism-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1321,7 +1321,7 @@
 
 <a name="photoprism-2.0.1"></a>
 
-### [photoprism-2.0.1](https://github.com/truecharts/apps/compare/photoprism-1.9.15...photoprism-2.0.1) (2021-09-13)
+### [照片-2.0.1](https://github.com/truecharts/apps/compare/photoprism-1.9.15...photoprism-2.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1340,7 +1340,7 @@
 
 <a name="photoprism-1.9.15"></a>
 
-## [photoprism-1.9.15](https://github.com/truecharts/apps/compare/photoprism-1.9.14...photoprism-1.9.15) (2021-09-08)
+## [照片-1.9.15](https://github.com/truecharts/apps/compare/photoprism-1.9.14...photoprism-1.9.15) (2021-09-08)
 
 ### 修复
 
