@@ -469,7 +469,7 @@
 
 #### 修复
 
-* disable rofs ([#1746](https://github.com/truecharts/apps/issues/1746))
+* 禁用 rofs ([#1746](https://github.com/truecharts/apps/issues/1746))
 
 
 
@@ -570,7 +570,7 @@
 
 <a name="firefox-0.0.4"></a>
 
-### [firefox-0.0.4](https://github.com/truecharts/apps/compare/firefox-0.0.3...firefox-0.0.4) (2021-12-18)
+### [firefox-0.0.4](https://github.com/truecharts/apps/compare/firefox-0.0.3...firefox-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
