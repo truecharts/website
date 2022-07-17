@@ -622,7 +622,7 @@
 
 <a name="stash-5.0.4"></a>
 
-### [stash-5.0.4](https://github.com/truecharts/apps/compare/stash-5.0.3...stash-5.0.4) (2021-12-18)
+### [stash-5.0.4](https://github.com/truecharts/apps/compare/stash-5.0.3...stash-5.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -787,7 +787,7 @@
 
 #### 聊天
 
-* update container image ghcr.io/truecharts/stash to v0.11.0 ([#1341](https://github.com/truecharts/apps/issues/1341))
+* 将容器图像 ghcr.io/truecharts/stash 更新为 v0.11.0 ([#1341](https://github.com/truecharts/apps/issues/1341))
 
 
 
@@ -915,7 +915,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -970,7 +970,7 @@
 
 <a name="stash-3.0.11"></a>
 
-### [stash-3.0.11](https://github.com/truecharts/apps/compare/stash-3.0.10...stash-3.0.11) (2021-10-19)
+### [stah-3.0.11](https://github.com/truecharts/apps/compare/stash-3.0.10...stash-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -994,7 +994,7 @@
 
 <a name="stash-3.0.9"></a>
 
-### [stash-3.0.9](https://github.com/truecharts/apps/compare/stash-3.0.8...stash-3.0.9) (2021-10-17)
+### [stah-3.0.9](https://github.com/truecharts/apps/compare/stash-3.0.8...stash-3.0.9) (2021-10-17)
 
 #### 聊天
 
@@ -1018,7 +1018,7 @@
 
 <a name="stash-3.0.7"></a>
 
-### [stash-3.0.7](https://github.com/truecharts/apps/compare/stash-3.0.6...stash-3.0.7) (2021-10-12)
+### [stah-3.0.7](https://github.com/truecharts/apps/compare/stash-3.0.6...stash-3.0.7) (2021-10-12)
 
 #### 聊天
 
@@ -1028,7 +1028,7 @@
 
 <a name="stash-3.0.6"></a>
 
-### [stash-3.0.6](https://github.com/truecharts/apps/compare/stash-3.0.5...stash-3.0.6) (2021-10-12)
+### [stah-3.0.6](https://github.com/truecharts/apps/compare/stash-3.0.5...stash-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -1048,7 +1048,7 @@
 
 <a name="stash-3.0.4"></a>
 
-### [stash-3.0.4](https://github.com/truecharts/apps/compare/stash-3.0.3...stash-3.0.4) (2021-10-05)
+### [stah-3.0.4](https://github.com/truecharts/apps/compare/stash-3.0.3...stash-3.0.4) (2021-10-05)
 
 #### 聊天
 
