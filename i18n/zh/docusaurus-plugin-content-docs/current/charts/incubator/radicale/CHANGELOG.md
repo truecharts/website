@@ -1,123 +1,123 @@
-# Changelog
+# 更新日志
 
 
-## [radicale-0.0.15](https://github.com/truecharts/apps/compare/radicale-0.0.14...radicale-0.0.15) (2022-07-14)
+## [激进的 0.0.15](https://github.com/truecharts/apps/compare/radicale-0.0.14...radicale-0.0.15) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
-
-
-
-## [radicale-0.0.14](https://github.com/truecharts/apps/compare/radicale-0.0.12...radicale-0.0.14) (2022-07-14)
-
-### Fix
-
-- bump to ensure .helmignore is present on all Charts
+- 重新生成目录并更新模板
 
 
 
-## [radicale-0.0.12](https://github.com/truecharts/apps/compare/radicale-0.0.10...radicale-0.0.12) (2022-07-12)
+## [激进的 0.0.14](https://github.com/truecharts/apps/compare/radicale-0.0.12...radicale-0.0.14) (2022-07-14)
 
-### Chore
+### 修复
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
-
+- bump 以确保.helmnote存在于所有图表
 
 
-## [radicale-0.0.10](https://github.com/truecharts/apps/compare/radicale-0.0.9...radicale-0.0.10) (2022-07-12)
 
-### Chore
+## [激进的 0.0.12](https://github.com/truecharts/apps/compare/radicale-0.0.10...radicale-0.0.12) (2022-07-12)
 
-- bump to regenerate documentation
+### 聊天
+
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
+
+
+
+## [激进的 0.0.10](https://github.com/truecharts/apps/compare/radicale-0.0.9...radicale-0.0.10) (2022-07-12)
+
+### 聊天
+
+- 跳转以重新生成文档
 
 
 
 <a name="radicale-0.0.9"></a>
 
-### [radicale-0.0.9](https://github.com/truecharts/apps/compare/radicale-0.0.8...radicale-0.0.9) (2022-07-12)
+### [激进的 0.0.9](https://github.com/truecharts/apps/compare/radicale-0.0.8...radicale-0.0.9) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
 <a name="radicale-0.0.8"></a>
 
-### [radicale-0.0.8](https://github.com/truecharts/apps/compare/radicale-0.0.7...radicale-0.0.8) (2022-07-11)
+### [激进的 0.0.8](https://github.com/truecharts/apps/compare/radicale-0.0.7...radicale-0.0.8) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
 <a name="radicale-0.0.7"></a>
 
-### [radicale-0.0.7](https://github.com/truecharts/apps/compare/radicale-0.0.6...radicale-0.0.7) (2022-07-11)
+### [激进的 0.0.7](https://github.com/truecharts/apps/compare/radicale-0.0.6...radicale-0.0.7) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* update image refs ([#3135](https://github.com/truecharts/apps/issues/3135))
+* 更新图像引用([#3135](https://github.com/truecharts/apps/issues/3135))
 
 
 
 <a name="radicale-0.0.6"></a>
 
-### [radicale-0.0.6](https://github.com/truecharts/apps/compare/radicale-0.0.5...radicale-0.0.6) (2022-07-09)
+### [激进的 0.0.6](https://github.com/truecharts/apps/compare/radicale-0.0.5...radicale-0.0.6) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
 <a name="radicale-0.0.5"></a>
 
-### [radicale-0.0.5](https://github.com/truecharts/apps/compare/radicale-0.0.4...radicale-0.0.5) (2022-07-09)
+### [激进的 0.0.5](https://github.com/truecharts/apps/compare/radicale-0.0.4...radicale-0.0.5) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* combine some ports ([#3096](https://github.com/truecharts/apps/issues/3096))
+* 合并一些端口[#3096](https://github.com/truecharts/apps/issues/3096)
 
 
 
 <a name="radicale-0.0.4"></a>
 
-### [radicale-0.0.4](https://github.com/truecharts/apps/compare/radicale-0.0.3...radicale-0.0.4) (2022-07-04)
+### [激进的 0.0.4](https://github.com/truecharts/apps/compare/radicale-0.0.3...radicale-0.0.4) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
 <a name="radicale-0.0.3"></a>
 
-### [radicale-0.0.3](https://github.com/truecharts/apps/compare/radicale-0.0.2...radicale-0.0.3) (2022-07-03)
+### [激进的 0.0.3](https://github.com/truecharts/apps/compare/radicale-0.0.2...radicale-0.0.3) (2022-07-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3052](https://github.com/truecharts/apps/issues/3052))
+* 更新一般的非主要泊车位([#3052](https://github.com/truecharts/apps/issues/3052))
 
 
 
 <a name="radicale-0.0.2"></a>
 
-### [radicale-0.0.2](https://github.com/truecharts/apps/compare/radicale-0.0.1...radicale-0.0.2) (2022-07-03)
+### [激进的 0.0.2](https://github.com/truecharts/apps/compare/radicale-0.0.1...radicale-0.0.2) (2022-07-03)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
 
 
 
 <a name="radicale-0.0.1"></a>
 
-### radicale-0.0.1 (2022-07-02)
+### 偏差0.0.1 (2022-07-02)
 
 #### Feat
 
-* add Radicale to incubator ([#3030](https://github.com/truecharts/apps/issues/3030))
+* 将激进化添加到孵化器 ([#3030](https://github.com/truecharts/apps/issues/3030))
