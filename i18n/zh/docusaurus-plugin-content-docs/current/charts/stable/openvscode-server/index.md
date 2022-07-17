@@ -1,12 +1,12 @@
 # openvscode-服务器
 
-Openvscode-server provides a version of VS Code that runs a server on a remote machine.
+Openvscode-server提供一个版本的 VS 代码，在远程机器上运行一个服务器。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://hub.docker.com/r/linuxserver/openvscode-server>
+* [https://hub.docker.com/r/linuxserver/openvscode服务器](https://hub.docker.com/r/linuxserver/openvscode-server)
 
 ## B. 所需经费
 
