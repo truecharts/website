@@ -1,6 +1,6 @@
 # 科皮亚
 
-Kopia is a simple, cross-platform tool for managing encrypted backups in the cloud. It provides fast, incremental backups, secure, client-side end-to-end encryption, compression and data deduplication.
+Kopia是管理云端加密备份的一个简单的跨平台工具。 它提供快速、递增的备份、安全的客户端对端加密、压缩和数据避免重复。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
