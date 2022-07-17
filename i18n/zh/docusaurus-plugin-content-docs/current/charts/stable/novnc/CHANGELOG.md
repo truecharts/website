@@ -574,7 +574,7 @@
 
 <a name="novnc-1.0.22"></a>
 
-### [novnc-1.0.22](https://github.com/truecharts/apps/compare/novnc-1.0.21...novnc-1.0.22) (2021-12-14)
+### [nc-1.0.22](https://github.com/truecharts/apps/compare/novnc-1.0.21...novnc-1.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -676,7 +676,7 @@
 
 <a name="novnc-1.0.13"></a>
 
-### [novnc-1.0.13](https://github.com/truecharts/apps/compare/novnc-1.0.12...novnc-1.0.13) (2021-11-30)
+### [nov-1.0.13](https://github.com/truecharts/apps/compare/novnc-1.0.12...novnc-1.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -832,7 +832,7 @@
 
 <a name="novnc-0.0.12"></a>
 
-### [novnc-0.0.12](https://github.com/truecharts/apps/compare/novnc-0.0.9...novnc-0.0.12) (2021-10-20)
+### [nov-0.0.12](https://github.com/truecharts/apps/compare/novnc-0.0.9...novnc-0.0.12) (2021-10-20)
 
 #### 聊天
 
@@ -936,4 +936,4 @@
 
 <a name="novnc-0.0.1"></a>
 
-### novnc-0.0.1 (2021-10-04)
+### novc-0.0.1 (2021-10-04)
