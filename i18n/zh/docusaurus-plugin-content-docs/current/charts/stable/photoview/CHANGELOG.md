@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [photoview-4.0.17](https://github.com/truecharts/apps/compare/photoview-4.0.16...photoview-4.0.17) (2022-07-14)
+## [照片展示-4.0.17](https://github.com/truecharts/apps/compare/photoview-4.0.16...photoview-4.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [photoview-4.0.16](https://github.com/truecharts/apps/compare/photoview-4.0.14...photoview-4.0.16) (2022-07-14)
+## [照片视图-4.0.16](https://github.com/truecharts/apps/compare/photoview-4.0.14...photoview-4.0.16) (2022-07-14)
 
 ### 修复
 
@@ -18,7 +18,7 @@
 
 
 
-## [photoview-4.0.12](https://github.com/truecharts/apps/compare/photoview-4.0.11...photoview-4.0.12) (2022-07-12)
+## [照片-4.0.12](https://github.com/truecharts/apps/compare/photoview-4.0.11...photoview-4.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -28,7 +28,7 @@
 
 <a name="photoview-4.0.11"></a>
 
-### [photoview-4.0.11](https://github.com/truecharts/apps/compare/photoview-4.0.10...photoview-4.0.11) (2022-07-12)
+### [照片查看-4.0.11](https://github.com/truecharts/apps/compare/photoview-4.0.10...photoview-4.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -38,7 +38,7 @@
 
 <a name="photoview-4.0.10"></a>
 
-### [photoview-4.0.10](https://github.com/truecharts/apps/compare/photoview-4.0.9...photoview-4.0.10) (2022-07-11)
+### [照片-4.0.10](https://github.com/truecharts/apps/compare/photoview-4.0.9...photoview-4.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -48,7 +48,7 @@
 
 <a name="photoview-4.0.9"></a>
 
-### [photoview-4.0.9](https://github.com/truecharts/apps/compare/photoview-4.0.8...photoview-4.0.9) (2022-07-09)
+### [照片-4.0.9](https://github.com/truecharts/apps/compare/photoview-4.0.8...photoview-4.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -58,7 +58,7 @@
 
 <a name="photoview-4.0.8"></a>
 
-### [photoview-4.0.8](https://github.com/truecharts/apps/compare/photoview-4.0.7...photoview-4.0.8) (2022-07-05)
+### [照片-4.0.8](https://github.com/truecharts/apps/compare/photoview-4.0.7...photoview-4.0.8) (2022-07-05)
 
 #### 聊天
 
@@ -68,7 +68,7 @@
 
 <a name="photoview-4.0.7"></a>
 
-### [photoview-4.0.7](https://github.com/truecharts/apps/compare/photoview-4.0.6...photoview-4.0.7) (2022-07-04)
+### [照片-4.0.7](https://github.com/truecharts/apps/compare/photoview-4.0.6...photoview-4.0.7) (2022-07-04)
 
 #### 聊天
 
@@ -78,7 +78,7 @@
 
 <a name="photoview-4.0.6"></a>
 
-### [photoview-4.0.6](https://github.com/truecharts/apps/compare/photoview-4.0.5...photoview-4.0.6) (2022-06-25)
+### [照片-4.0.6](https://github.com/truecharts/apps/compare/photoview-4.0.5...photoview-4.0.6) (2022-06-25)
 
 #### 聊天
 
@@ -88,7 +88,7 @@
 
 <a name="photoview-4.0.5"></a>
 
-### [photoview-4.0.5](https://github.com/truecharts/apps/compare/photoview-4.0.4...photoview-4.0.5) (2022-06-22)
+### [照片-4.0.5](https://github.com/truecharts/apps/compare/photoview-4.0.4...photoview-4.0.5) (2022-06-22)
 
 #### 聊天
 
@@ -98,7 +98,7 @@
 
 <a name="photoview-4.0.4"></a>
 
-### [photoview-4.0.4](https://github.com/truecharts/apps/compare/photoview-4.0.3...photoview-4.0.4) (2022-06-21)
+### [照片-4.0.4](https://github.com/truecharts/apps/compare/photoview-4.0.3...photoview-4.0.4) (2022-06-21)
 
 #### 聊天
 
@@ -108,7 +108,7 @@
 
 <a name="photoview-4.0.3"></a>
 
-### [photoview-4.0.3](https://github.com/truecharts/apps/compare/photoview-4.0.2...photoview-4.0.3) (2022-06-14)
+### [照片-4.0.3](https://github.com/truecharts/apps/compare/photoview-4.0.2...photoview-4.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -118,7 +118,7 @@
 
 <a name="photoview-4.0.2"></a>
 
-### [photoview-4.0.2](https://github.com/truecharts/apps/compare/photoview-4.0.1...photoview-4.0.2) (2022-06-14)
+### [照片-4.0.2](https://github.com/truecharts/apps/compare/photoview-4.0.1...photoview-4.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -128,7 +128,7 @@
 
 <a name="photoview-4.0.1"></a>
 
-### [photoview-4.0.1](https://github.com/truecharts/apps/compare/photoview-4.0.0...photoview-4.0.1) (2022-06-11)
+### [照片-4.0.1](https://github.com/truecharts/apps/compare/photoview-4.0.0...photoview-4.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -138,7 +138,7 @@
 
 <a name="photoview-4.0.0"></a>
 
-### [photoview-4.0.0](https://github.com/truecharts/apps/compare/photoview-3.0.1...photoview-4.0.0) (2022-06-07)
+### [照片视图-4.0.0](https://github.com/truecharts/apps/compare/photoview-3.0.1...photoview-4.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -152,7 +152,7 @@
 
 <a name="photoview-3.0.1"></a>
 
-### [photoview-3.0.1](https://github.com/truecharts/apps/compare/photoview-2.0.23...photoview-3.0.1) (2022-06-07)
+### [照片-3.0.1](https://github.com/truecharts/apps/compare/photoview-2.0.23...photoview-3.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -172,7 +172,7 @@
 
 <a name="photoview-3.0.0"></a>
 
-### [photoview-3.0.0](https://github.com/truecharts/apps/compare/photoview-2.0.23...photoview-3.0.0) (2022-06-07)
+### [照片-3.0.0](https://github.com/truecharts/apps/compare/photoview-2.0.23...photoview-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -186,7 +186,7 @@
 
 <a name="photoview-2.0.23"></a>
 
-### [photoview-2.0.23](https://github.com/truecharts/apps/compare/photoview-2.0.22...photoview-2.0.23) (2022-05-31)
+### [照片-2.0.23](https://github.com/truecharts/apps/compare/photoview-2.0.22...photoview-2.0.23) (2022-05-31)
 
 #### 聊天
 
@@ -196,7 +196,7 @@
 
 <a name="photoview-2.0.22"></a>
 
-### [photoview-2.0.22](https://github.com/truecharts/apps/compare/photoview-2.0.21...photoview-2.0.22) (2022-05-26)
+### [照片-2.0.22](https://github.com/truecharts/apps/compare/photoview-2.0.21...photoview-2.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -207,7 +207,7 @@
 
 <a name="photoview-2.0.22"></a>
 
-### [photoview-2.0.22](https://github.com/truecharts/apps/compare/photoview-2.0.21...photoview-2.0.22) (2022-05-26)
+### [照片-2.0.22](https://github.com/truecharts/apps/compare/photoview-2.0.21...photoview-2.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -217,7 +217,7 @@
 
 <a name="photoview-2.0.21"></a>
 
-### [photoview-2.0.21](https://github.com/truecharts/apps/compare/photoview-2.0.20...photoview-2.0.21) (2022-05-24)
+### [照片-2.0.21](https://github.com/truecharts/apps/compare/photoview-2.0.20...photoview-2.0.21) (2022-05-24)
 
 #### 聊天
 
@@ -227,7 +227,7 @@
 
 <a name="photoview-2.0.20"></a>
 
-### [photoview-2.0.20](https://github.com/truecharts/apps/compare/photoview-2.0.19...photoview-2.0.20) (2022-05-17)
+### [照片-2.0.20](https://github.com/truecharts/apps/compare/photoview-2.0.19...photoview-2.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -238,7 +238,7 @@
 
 <a name="photoview-2.0.20"></a>
 
-### [photoview-2.0.20](https://github.com/truecharts/apps/compare/photoview-2.0.19...photoview-2.0.20) (2022-05-17)
+### [照片-2.0.20](https://github.com/truecharts/apps/compare/photoview-2.0.19...photoview-2.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -248,7 +248,7 @@
 
 <a name="photoview-2.0.19"></a>
 
-### [photoview-2.0.19](https://github.com/truecharts/apps/compare/photoview-2.0.18...photoview-2.0.19) (2022-05-17)
+### [照片查看-2.0.19](https://github.com/truecharts/apps/compare/photoview-2.0.18...photoview-2.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -258,7 +258,7 @@
 
 <a name="photoview-2.0.18"></a>
 
-### [photoview-2.0.18](https://github.com/truecharts/apps/compare/photoview-2.0.17...photoview-2.0.18) (2022-05-10)
+### [照片查看-2.0.18](https://github.com/truecharts/apps/compare/photoview-2.0.17...photoview-2.0.18) (2022-05-10)
 
 #### 聊天
 
@@ -268,7 +268,7 @@
 
 <a name="photoview-2.0.17"></a>
 
-### [photoview-2.0.17](https://github.com/truecharts/apps/compare/photoview-2.0.16...photoview-2.0.17) (2022-05-05)
+### [照片-2.0.17](https://github.com/truecharts/apps/compare/photoview-2.0.16...photoview-2.0.17) (2022-05-05)
 
 #### 聊天
 
@@ -278,7 +278,7 @@
 
 <a name="photoview-2.0.16"></a>
 
-### [photoview-2.0.16](https://github.com/truecharts/apps/compare/photoview-2.0.15...photoview-2.0.16) (2022-05-04)
+### [照片查看-2.0.16](https://github.com/truecharts/apps/compare/photoview-2.0.15...photoview-2.0.16) (2022-05-04)
 
 #### 聊天
 
@@ -288,7 +288,7 @@
 
 <a name="photoview-2.0.15"></a>
 
-### [photoview-2.0.15](https://github.com/truecharts/apps/compare/photoview-2.0.14...photoview-2.0.15) (2022-04-26)
+### [照片查看-2.0.15](https://github.com/truecharts/apps/compare/photoview-2.0.14...photoview-2.0.15) (2022-04-26)
 
 #### 聊天
 
@@ -298,7 +298,7 @@
 
 <a name="photoview-2.0.14"></a>
 
-### [photoview-2.0.14](https://github.com/truecharts/apps/compare/photoview-2.0.13...photoview-2.0.14) (2022-04-20)
+### [照片查看-2.0.14](https://github.com/truecharts/apps/compare/photoview-2.0.13...photoview-2.0.14) (2022-04-20)
 
 #### 聊天
 
@@ -309,7 +309,7 @@
 
 <a name="photoview-2.0.13"></a>
 
-### [photoview-2.0.13](https://github.com/truecharts/apps/compare/photoview-2.0.12...photoview-2.0.13) (2022-04-12)
+### [照片-2.0.13](https://github.com/truecharts/apps/compare/photoview-2.0.12...photoview-2.0.13) (2022-04-12)
 
 #### 聊天
 
@@ -319,7 +319,7 @@
 
 <a name="photoview-2.0.12"></a>
 
-### [photoview-2.0.12](https://github.com/truecharts/apps/compare/photoview-2.0.11...photoview-2.0.12) (2022-04-03)
+### [照片查看-2.0.12](https://github.com/truecharts/apps/compare/photoview-2.0.11...photoview-2.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -329,7 +329,7 @@
 
 <a name="photoview-2.0.11"></a>
 
-### [photoview-2.0.11](https://github.com/truecharts/apps/compare/photoview-2.0.10...photoview-2.0.11) (2022-03-31)
+### [照片查看-2.0.11](https://github.com/truecharts/apps/compare/photoview-2.0.10...photoview-2.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -339,7 +339,7 @@
 
 <a name="photoview-2.0.10"></a>
 
-### [photoview-2.0.10](https://github.com/truecharts/apps/compare/photoview-2.0.9...photoview-2.0.10) (2022-03-31)
+### [照片-2.0.10](https://github.com/truecharts/apps/compare/photoview-2.0.9...photoview-2.0.10) (2022-03-31)
 
 #### 聊天
 
@@ -349,7 +349,7 @@
 
 <a name="photoview-2.0.9"></a>
 
-### [photoview-2.0.9](https://github.com/truecharts/apps/compare/photoview-2.0.8...photoview-2.0.9) (2022-03-30)
+### [照片-2.0.9](https://github.com/truecharts/apps/compare/photoview-2.0.8...photoview-2.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="photoview-2.0.8"></a>
 
-### [photoview-2.0.8](https://github.com/truecharts/apps/compare/photoview-2.0.7...photoview-2.0.8) (2022-03-26)
+### [照片-view-2.0.8](https://github.com/truecharts/apps/compare/photoview-2.0.7...photoview-2.0.8) (2022-03-26)
 
 #### 聊天
 
@@ -370,7 +370,7 @@
 
 <a name="photoview-2.0.7"></a>
 
-### [photoview-2.0.7](https://github.com/truecharts/apps/compare/photoview-2.0.6...photoview-2.0.7) (2022-03-26)
+### [照片查看-2.0.7](https://github.com/truecharts/apps/compare/photoview-2.0.6...photoview-2.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -380,7 +380,7 @@
 
 <a name="photoview-2.0.2"></a>
 
-### [photoview-2.0.2](https://github.com/truecharts/apps/compare/photoview-2.0.1...photoview-2.0.2) (2022-03-08)
+### [照片-2.0.2](https://github.com/truecharts/apps/compare/photoview-2.0.1...photoview-2.0.2) (2022-03-08)
 
 #### 聊天
 
@@ -390,7 +390,7 @@
 
 <a name="photoview-2.0.1"></a>
 
-### [photoview-2.0.1](https://github.com/truecharts/apps/compare/photoview-2.0.0...photoview-2.0.1) (2022-03-07)
+### [照片查看-2.0.1](https://github.com/truecharts/apps/compare/photoview-2.0.0...photoview-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="photoview-2.0.0"></a>
 
-### [photoview-2.0.0](https://github.com/truecharts/apps/compare/photoview-1.0.3...photoview-2.0.0) (2022-03-03)
+### [照片-view-2.0.0](https://github.com/truecharts/apps/compare/photoview-1.0.3...photoview-2.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -417,7 +417,7 @@
 
 <a name="photoview-1.0.3"></a>
 
-### [photoview-1.0.3](https://github.com/truecharts/apps/compare/photoview-1.0.2...photoview-1.0.3) (2022-03-02)
+### [照片-1.0.3](https://github.com/truecharts/apps/compare/photoview-1.0.2...photoview-1.0.3) (2022-03-02)
 
 #### 聊天
 
@@ -428,7 +428,7 @@
 
 <a name="photoview-1.0.2"></a>
 
-### [photoview-1.0.2](https://github.com/truecharts/apps/compare/photoview-1.0.1...photoview-1.0.2) (2022-02-21)
+### [照片-1.0.2](https://github.com/truecharts/apps/compare/photoview-1.0.1...photoview-1.0.2) (2022-02-21)
 
 #### 聊天
 
@@ -438,7 +438,7 @@
 
 <a name="photoview-1.0.1"></a>
 
-### [photoview-1.0.1](https://github.com/truecharts/apps/compare/photoview-1.0.0...photoview-1.0.1) (2022-02-15)
+### [照片-1.0.1](https://github.com/truecharts/apps/compare/photoview-1.0.0...photoview-1.0.1) (2022-02-15)
 
 #### 聊天
 
@@ -448,18 +448,18 @@
 
 <a name="photoview-1.0.0"></a>
 
-### [photoview-1.0.0](https://github.com/truecharts/apps/compare/photoview-0.0.1...photoview-1.0.0) (2022-02-13)
+### [照片-1.0.0](https://github.com/truecharts/apps/compare/photoview-0.0.1...photoview-1.0.0) (2022-02-13)
 
 #### Feat
 
-* move photoview to stable ([#1892](https://github.com/truecharts/apps/issues/1892))
+* 移动照片视图稳定([#1892](https://github.com/truecharts/apps/issues/1892))
 
 
 
 <a name="photoview-0.0.1"></a>
 
-### photoview-0.0.1 (2022-02-13)
+### 照片-view-0.0.1 (2022-02-13)
 
 #### Feat
 
-* Add photoview ([#1881](https://github.com/truecharts/apps/issues/1881))
+* 添加照片视图 ([#1881](https://github.com/truecharts/apps/issues/1881))
