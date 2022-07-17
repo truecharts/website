@@ -1,12 +1,12 @@
 # 复原力同步
 
-Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology
+Resilio Sync 是一个快速、可靠和简单的文件同步和共享解决方案，由 P2P 技术提供支持
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://github.com/orgs/linuxserver/packages/container/package/resilio-sync>
+* [https://github.com/orgs/linuxserver/packes/container/package/复原力-sync](https://github.com/orgs/linuxserver/packages/container/package/resilio-sync)
 
 ## B. 所需经费
 
