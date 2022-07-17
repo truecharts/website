@@ -1,12 +1,12 @@
 # nano-钱包
 
-Nano-wallet is a digital payment protocol designed to be accessible and lightweight.
+纳米钱包是一个数字支付协议，旨在便于访问和轻重。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://hub.docker.com/r/linuxserver/nano-wallet>
+* [https://hub.docker.com/r/linuxserver/nano-钱包](https://hub.docker.com/r/linuxserver/nano-wallet)
 
 ## B. 所需经费
 
