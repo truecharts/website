@@ -1,6 +1,6 @@
 # koel
 
-Koel is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side.
+Koel是一个简单的基于网络的个人音频流服务，以客户端和服务器端的Laravel写成。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
