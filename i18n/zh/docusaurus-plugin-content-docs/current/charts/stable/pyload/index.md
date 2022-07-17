@@ -1,12 +1,12 @@
 # pyload
 
-pyLoad is a Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
+pyLoad 是一个自由和开放源码下载管理器，用Python撰写，设计为极轻、易扩展和可通过网络完全管理。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://github.com/pyload/pyload>
+* [https://github.com/pyload/pyload/pyload](https://github.com/pyload/pyload)
 * <https://hub.docker.com/r/linuxserver/pyload>
 
 ## B. 所需经费
