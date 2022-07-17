@@ -1,191 +1,191 @@
-# Changelog
+# 更新日志
 
 
-## [clamav-3.0.19](https://github.com/truecharts/apps/compare/clamav-3.0.18...clamav-3.0.19) (2022-07-14)
+## [clav-3.0.19](https://github.com/truecharts/apps/compare/clamav-3.0.18...clamav-3.0.19) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
-
-
-
-## [clamav-3.0.18](https://github.com/truecharts/apps/compare/clamav-3.0.16...clamav-3.0.18) (2022-07-14)
-
-### Fix
-
-- bump to ensure .helmignore is present on all Charts
+- 重新生成目录并更新模板
 
 
 
-## [clamav-3.0.16](https://github.com/truecharts/apps/compare/clamav-3.0.14...clamav-3.0.16) (2022-07-12)
+## [clav-3.0.18](https://github.com/truecharts/apps/compare/clamav-3.0.16...clamav-3.0.18) (2022-07-14)
 
-### Chore
+### 修复
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
-
+- bump 以确保.helmnote存在于所有图表
 
 
-## [clamav-3.0.14](https://github.com/truecharts/apps/compare/clamav-3.0.13...clamav-3.0.14) (2022-07-12)
 
-### Chore
+## [叫喊-3.0.16](https://github.com/truecharts/apps/compare/clamav-3.0.14...clamav-3.0.16) (2022-07-12)
 
-- bump to regenerate documentation
+### 聊天
+
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
+
+
+
+## [叫喊-3.0.14](https://github.com/truecharts/apps/compare/clamav-3.0.13...clamav-3.0.14) (2022-07-12)
+
+### 聊天
+
+- 跳转以重新生成文档
 
 
 
 <a name="clamav-3.0.13"></a>
 
-### [clamav-3.0.13](https://github.com/truecharts/apps/compare/clamav-3.0.12...clamav-3.0.13) (2022-07-12)
+### [clav-3.0.13](https://github.com/truecharts/apps/compare/clamav-3.0.12...clamav-3.0.13) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
-* update docker general non-major ([#3150](https://github.com/truecharts/apps/issues/3150))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新一般的非主基座([#3150](https://github.com/truecharts/apps/issues/3150))
 
 
 
 <a name="clamav-3.0.12"></a>
 
-### [clamav-3.0.12](https://github.com/truecharts/apps/compare/clamav-3.0.11...clamav-3.0.12) (2022-07-11)
+### [clav-3.0.12](https://github.com/truecharts/apps/compare/clamav-3.0.11...clamav-3.0.12) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
 <a name="clamav-3.0.11"></a>
 
-### [clamav-3.0.11](https://github.com/truecharts/apps/compare/clamav-3.0.10...clamav-3.0.11) (2022-07-09)
+### [clav-3.0.11](https://github.com/truecharts/apps/compare/clamav-3.0.10...clamav-3.0.11) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
 <a name="clamav-3.0.10"></a>
 
-### [clamav-3.0.10](https://github.com/truecharts/apps/compare/clamav-3.0.9...clamav-3.0.10) (2022-07-04)
+### [clav-3.0.10](https://github.com/truecharts/apps/compare/clamav-3.0.9...clamav-3.0.10) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
 <a name="clamav-3.0.9"></a>
 
-### [clamav-3.0.9](https://github.com/truecharts/apps/compare/clamav-3.0.8...clamav-3.0.9) (2022-07-02)
+### [clav-3.0.9](https://github.com/truecharts/apps/compare/clamav-3.0.8...clamav-3.0.9) (2022-07-02)
 
-#### Chore
+#### 聊天
 
-* update to v1 from v1bet ([#3047](https://github.com/truecharts/apps/issues/3047))
+* 从 v1bet 更新到 v1 ([#3047](https://github.com/truecharts/apps/issues/3047))
 
 
 
 <a name="clamav-3.0.8"></a>
 
-### [clamav-3.0.8](https://github.com/truecharts/apps/compare/clamav-3.0.7...clamav-3.0.8) (2022-07-02)
+### [clav-3.0.8](https://github.com/truecharts/apps/compare/clamav-3.0.7...clamav-3.0.8) (2022-07-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3033](https://github.com/truecharts/apps/issues/3033))
+* 更新一般的非主基座([#3033](https://github.com/truecharts/apps/issues/3033))
 
 
 
 <a name="clamav-3.0.7"></a>
 
-### [clamav-3.0.7](https://github.com/truecharts/apps/compare/clamav-3.0.6...clamav-3.0.7) (2022-06-25)
+### [叫喊-3.0.7](https://github.com/truecharts/apps/compare/clamav-3.0.6...clamav-3.0.7) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
 <a name="clamav-3.0.6"></a>
 
-### [clamav-3.0.6](https://github.com/truecharts/apps/compare/clamav-3.0.5...clamav-3.0.6) (2022-06-22)
+### [clav-3.0.6](https://github.com/truecharts/apps/compare/clamav-3.0.5...clamav-3.0.6) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2954](https://github.com/truecharts/apps/issues/2954))
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新一般的非主码([#2954](https://github.com/truecharts/apps/issues/2954))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
 <a name="clamav-3.0.5"></a>
 
-### [clamav-3.0.5](https://github.com/truecharts/apps/compare/clamav-3.0.4...clamav-3.0.5) (2022-06-21)
+### [clav-3.0.5](https://github.com/truecharts/apps/compare/clamav-3.0.4...clamav-3.0.5) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
 <a name="clamav-3.0.4"></a>
 
-### [clamav-3.0.4](https://github.com/truecharts/apps/compare/clamav-3.0.3...clamav-3.0.4) (2022-06-14)
+### [clav-3.0.4](https://github.com/truecharts/apps/compare/clamav-3.0.3...clamav-3.0.4) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
 <a name="clamav-3.0.3"></a>
 
-### [clamav-3.0.3](https://github.com/truecharts/apps/compare/clamav-3.0.2...clamav-3.0.3) (2022-06-11)
+### [clav-3.0.3](https://github.com/truecharts/apps/compare/clamav-3.0.2...clamav-3.0.3) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
 <a name="clamav-3.0.2"></a>
 
-### [clamav-3.0.2](https://github.com/truecharts/apps/compare/clamav-3.0.1...clamav-3.0.2) (2022-06-07)
+### [clav-3.0.2](https://github.com/truecharts/apps/compare/clamav-3.0.1...clamav-3.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
 <a name="clamav-3.0.1"></a>
 
-### [clamav-3.0.1](https://github.com/truecharts/apps/compare/clamav-2.1.20...clamav-3.0.1) (2022-06-07)
+### [clav-3.0.1](https://github.com/truecharts/apps/compare/clamav-2.1.20...clamav-3.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
 <a name="clamav-3.0.0"></a>
 
-### [clamav-3.0.0](https://github.com/truecharts/apps/compare/clamav-2.1.20...clamav-3.0.0) (2022-06-07)
+### [clav-3.0.0](https://github.com/truecharts/apps/compare/clamav-2.1.20...clamav-3.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -193,20 +193,9 @@
 
 ### [clamav-2.1.20](https://github.com/truecharts/apps/compare/clamav-2.1.19...clamav-2.1.20) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="clamav-2.1.19"></a>
-
-### [clamav-2.1.19](https://github.com/truecharts/apps/compare/clamav-2.1.18...clamav-2.1.19) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -214,9 +203,20 @@
 
 ### [clamav-2.1.19](https://github.com/truecharts/apps/compare/clamav-2.1.18...clamav-2.1.19) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="clamav-2.1.19"></a>
+
+### [clamav-2.1.19](https://github.com/truecharts/apps/compare/clamav-2.1.18...clamav-2.1.19) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -224,20 +224,9 @@
 
 ### [clamav-2.1.18](https://github.com/truecharts/apps/compare/clamav-2.1.17...clamav-2.1.18) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="clamav-2.1.17"></a>
-
-### [clamav-2.1.17](https://github.com/truecharts/apps/compare/clamav-2.1.16...clamav-2.1.17) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -245,9 +234,20 @@
 
 ### [clamav-2.1.17](https://github.com/truecharts/apps/compare/clamav-2.1.16...clamav-2.1.17) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="clamav-2.1.17"></a>
+
+### [clamav-2.1.17](https://github.com/truecharts/apps/compare/clamav-2.1.16...clamav-2.1.17) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -255,19 +255,19 @@
 
 ### [clamav-2.1.16](https://github.com/truecharts/apps/compare/clamav-2.1.15...clamav-2.1.16) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
 <a name="clamav-2.1.15"></a>
 
-### [clamav-2.1.15](https://github.com/truecharts/apps/compare/clamav-2.1.14...clamav-2.1.15) (2022-05-13)
+### [clav-2.1.15](https://github.com/truecharts/apps/compare/clamav-2.1.14...clamav-2.1.15) (2022-05-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2658](https://github.com/truecharts/apps/issues/2658))
+* 更新一般的非主码([#2658](https://github.com/truecharts/apps/issues/2658))
 
 
 
@@ -275,9 +275,9 @@
 
 ### [clamav-2.1.14](https://github.com/truecharts/apps/compare/clamav-2.1.13...clamav-2.1.14) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -285,9 +285,9 @@
 
 ### [clamav-2.1.13](https://github.com/truecharts/apps/compare/clamav-2.1.12...clamav-2.1.13) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -295,9 +295,9 @@
 
 ### [clamav-2.1.12](https://github.com/truecharts/apps/compare/clamav-2.1.11...clamav-2.1.12) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2606](https://github.com/truecharts/apps/issues/2606))
+* 更新一般的非主码([#2606](https://github.com/truecharts/apps/issues/2606))
 
 
 
@@ -305,9 +305,9 @@
 
 ### [clamav-2.1.11](https://github.com/truecharts/apps/compare/clamav-2.1.10...clamav-2.1.11) (2022-04-29)
 
-#### Fix
+#### 修复
 
-* fix typo in cron ([#2586](https://github.com/truecharts/apps/issues/2586))
+* 修复cron 中的输入([#2586](https://github.com/truecharts/apps/issues/2586))
 
 
 
@@ -315,20 +315,20 @@
 
 ### [clamav-2.1.10](https://github.com/truecharts/apps/compare/clamav-2.1.9...clamav-2.1.10) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
 <a name="clamav-2.1.9"></a>
 
-### [clamav-2.1.9](https://github.com/truecharts/apps/compare/clamav-2.1.8...clamav-2.1.9) (2022-04-20)
+### [clav-2.1.9](https://github.com/truecharts/apps/compare/clamav-2.1.8...clamav-2.1.9) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -336,9 +336,9 @@
 
 ### [clamav-2.1.8](https://github.com/truecharts/apps/compare/clamav-2.1.7...clamav-2.1.8) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -346,9 +346,9 @@
 
 ### [clamav-2.1.7](https://github.com/truecharts/apps/compare/clamav-2.1.6...clamav-2.1.7) (2022-04-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2460](https://github.com/truecharts/apps/issues/2460))
+* 更新一般的非主码([#2460](https://github.com/truecharts/apps/issues/2460))
 
 
 
@@ -356,14 +356,14 @@
 
 ### [clamav-2.1.6](https://github.com/truecharts/apps/compare/clamav-2.1.5...clamav-2.1.6) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
-#### Fix
+#### 修复
 
-* set cronjob to batch/v1beta1 ([#2387](https://github.com/truecharts/apps/issues/2387))
+* 将 cronjob设置为批量/v1beta1 ([#2387](https://github.com/truecharts/apps/issues/2387))
 
 
 
@@ -371,9 +371,9 @@
 
 ### [clamav-2.1.4](https://github.com/truecharts/apps/compare/clamav-2.1.3...clamav-2.1.4) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
@@ -381,10 +381,10 @@
 
 ### [clamav-2.1.3](https://github.com/truecharts/apps/compare/clamav-2.1.2...clamav-2.1.3) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
@@ -392,9 +392,9 @@
 
 ### [clamav-2.1.2](https://github.com/truecharts/apps/compare/clamav-2.1.1...clamav-2.1.2) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2349](https://github.com/truecharts/apps/issues/2349))
+* 更新一般的非主码([#2349](https://github.com/truecharts/apps/issues/2349))
 
 
 
@@ -402,9 +402,9 @@
 
 ### [clamav-2.1.1](https://github.com/truecharts/apps/compare/clamav-2.1.0...clamav-2.1.1) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2338](https://github.com/truecharts/apps/issues/2338))
+* 更新一般的非主码([#2338](https://github.com/truecharts/apps/issues/2338))
 
 
 
@@ -422,30 +422,30 @@
 
 ### [clamav-2.0.7](https://github.com/truecharts/apps/compare/clamav-2.0.6...clamav-2.0.7) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
 <a name="clamav-2.0.2"></a>
 
-### [clamav-2.0.2](https://github.com/truecharts/apps/compare/clamav-2.0.1...clamav-2.0.2) (2022-03-07)
+### [clav-2.0.2](https://github.com/truecharts/apps/compare/clamav-2.0.1...clamav-2.0.2) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2111](https://github.com/truecharts/apps/issues/2111))
+* 更新头盔的一般非主头盔版本([#211](https://github.com/truecharts/apps/issues/2111))
 
 
 
 <a name="clamav-2.0.1"></a>
 
-### [clamav-2.0.1](https://github.com/truecharts/apps/compare/clamav-2.0.0...clamav-2.0.1) (2022-03-07)
+### [clav-2.0.1](https://github.com/truecharts/apps/compare/clamav-2.0.0...clamav-2.0.1) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2046](https://github.com/truecharts/apps/issues/2046))
-* Remove `-icon` string from icon png's ([#2040](https://github.com/truecharts/apps/issues/2040))
+* 更新一般的非主码([#2046](https://github.com/truecharts/apps/issues/2046))
+* 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
 
@@ -453,54 +453,54 @@
 
 ### [clamav-2.0.0](https://github.com/truecharts/apps/compare/clamav-1.0.14...clamav-2.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* update helm general major helm releases ([#2021](https://github.com/truecharts/apps/issues/2021))
+* 从问题.yaml 中移除固定的 env
+* 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
 <a name="clamav-1.0.14"></a>
 
-### [clamav-1.0.14](https://github.com/truecharts/apps/compare/clamav-1.0.13...clamav-1.0.14) (2022-03-02)
+### [clav-1.0.14](https://github.com/truecharts/apps/compare/clamav-1.0.13...clamav-1.0.14) (2022-03-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1999](https://github.com/truecharts/apps/issues/1999))
+* 更新头盔的一般非主要头盔版本([#1999](https://github.com/truecharts/apps/issues/1999))
 
 
 
 <a name="clamav-1.0.13"></a>
 
-### [clamav-1.0.13](https://github.com/truecharts/apps/compare/clamav-1.0.12...clamav-1.0.13) (2022-02-28)
+### [clav-1.0.13](https://github.com/truecharts/apps/compare/clamav-1.0.12...clamav-1.0.13) (2022-02-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1980](https://github.com/truecharts/apps/issues/1980))
+* 更新一般的非主要泊车位([#1980](https://github.com/truecharts/apps/issues/1980))
 
 
 
 <a name="clamav-1.0.12"></a>
 
-### [clamav-1.0.12](https://github.com/truecharts/apps/compare/clamav-1.0.11...clamav-1.0.12) (2022-02-21)
+### [clav-1.0.12](https://github.com/truecharts/apps/compare/clamav-1.0.11...clamav-1.0.12) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1927](https://github.com/truecharts/apps/issues/1927))
+* 更新头盔的一般非主要头盔版本([#1927](https://github.com/truecharts/apps/issues/1927))
 
 
 
 <a name="clamav-1.0.11"></a>
 
-### [clamav-1.0.11](https://github.com/truecharts/apps/compare/clamav-1.0.10...clamav-1.0.11) (2022-02-21)
+### [clav-1.0.11](https://github.com/truecharts/apps/compare/clamav-1.0.10...clamav-1.0.11) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1924](https://github.com/truecharts/apps/issues/1924))
+* 更新一般的非主码([#1924](https://github.com/truecharts/apps/issues/1924))
 
 
 
@@ -508,39 +508,39 @@
 
 ### [clamav-1.0.10](https://github.com/truecharts/apps/compare/clamav-1.0.9...clamav-1.0.10) (2022-02-15)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1901](https://github.com/truecharts/apps/issues/1901))
+* 更新头盔的一般非主要头盔版本([#1901](https://github.com/truecharts/apps/issues/1901))
 
 
 
 <a name="clamav-1.0.9"></a>
 
-### [clamav-1.0.9](https://github.com/truecharts/apps/compare/clamav-1.0.8...clamav-1.0.9) (2022-02-14)
+### [clav-1.0.9](https://github.com/truecharts/apps/compare/clamav-1.0.8...clamav-1.0.9) (2022-02-14)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1895](https://github.com/truecharts/apps/issues/1895))
+* 更新一般的非主基座([#1895](https://github.com/truecharts/apps/issues/1895))
 
 
 
 <a name="clamav-1.0.8"></a>
 
-### [clamav-1.0.8](https://github.com/truecharts/apps/compare/clamav-1.0.7...clamav-1.0.8) (2022-02-08)
+### [clav-1.0.8](https://github.com/truecharts/apps/compare/clamav-1.0.7...clamav-1.0.8) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1871](https://github.com/truecharts/apps/issues/1871))
+* 更新头盔的一般非主头盔版本([#1871](https://github.com/truecharts/apps/issues/1871))
 
 
 
 <a name="clamav-1.0.7"></a>
 
-### [clamav-1.0.7](https://github.com/truecharts/apps/compare/clamav-1.0.6...clamav-1.0.7) (2022-02-06)
+### [clav-1.0.7](https://github.com/truecharts/apps/compare/clamav-1.0.6...clamav-1.0.7) (2022-02-06)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.0 ([#1859](https://github.com/truecharts/apps/issues/1859))
+* 更新通用的 v8.15.0 头盔图表([#1859](https://github.com/truecharts/apps/issues/1859))
 
 
 
@@ -548,9 +548,9 @@
 
 ### [clamav-1.0.6](https://github.com/truecharts/apps/compare/clamav-1.0.5...clamav-1.0.6) (2022-02-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1852](https://github.com/truecharts/apps/issues/1852))
+* 更新头盔的一般非主头盔版本([#1852](https://github.com/truecharts/apps/issues/1852))
 
 
 
@@ -558,90 +558,90 @@
 
 ### [clamav-1.0.5](https://github.com/truecharts/apps/compare/clamav-1.0.4...clamav-1.0.5) (2022-02-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1836](https://github.com/truecharts/apps/issues/1836))
+* 更新一般的非主码([#1836](https://github.com/truecharts/apps/issues/1836))
 
 
 
 <a name="clamav-1.0.4"></a>
 
-### [clamav-1.0.4](https://github.com/truecharts/apps/compare/clamav-1.0.3...clamav-1.0.4) (2022-02-02)
+### [clav-1.0.4](https://github.com/truecharts/apps/compare/clamav-1.0.3...clamav-1.0.4) (2022-02-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1828](https://github.com/truecharts/apps/issues/1828))
+* 更新头盔的一般非主要头盔版本([#1828](https://github.com/truecharts/apps/issues/1828))
 
 
 
 <a name="clamav-1.0.3"></a>
 
-### [clamav-1.0.3](https://github.com/truecharts/apps/compare/clamav-1.0.2...clamav-1.0.3) (2022-01-25)
+### [clav-1.0.3](https://github.com/truecharts/apps/compare/clamav-1.0.2...clamav-1.0.3) (2022-01-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1791](https://github.com/truecharts/apps/issues/1791))
+* 更新头盔的一般非主头盔版本([#1791](https://github.com/truecharts/apps/issues/1791))
 
 
 
 <a name="clamav-1.0.2"></a>
 
-### [clamav-1.0.2](https://github.com/truecharts/apps/compare/clamav-1.0.1...clamav-1.0.2) (2022-01-22)
+### [clav-1.0.2](https://github.com/truecharts/apps/compare/clamav-1.0.1...clamav-1.0.2) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1766](https://github.com/truecharts/apps/issues/1766))
+* 更新头盔的一般非主头盔版本([#1766](https://github.com/truecharts/apps/issues/1766))
 
 
 
 <a name="clamav-1.0.1"></a>
 
-### [clamav-1.0.1](https://github.com/truecharts/apps/compare/clamav-1.0.0...clamav-1.0.1) (2022-01-21)
+### [clav-1.0.1](https://github.com/truecharts/apps/compare/clamav-1.0.0...clamav-1.0.1) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1759](https://github.com/truecharts/apps/issues/1759))
+* 更新头盔的一般非主要头盔版本([#1759](https://github.com/truecharts/apps/issues/1759))
 
-#### Fix
+#### 修复
 
-* set additional_attrs: true on all dicts ([#1750](https://github.com/truecharts/apps/issues/1750))
+* 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
 
 
 
 <a name="clamav-1.0.0"></a>
 
-### [clamav-1.0.0](https://github.com/truecharts/apps/compare/clamav-0.0.3...clamav-1.0.0) (2022-01-20)
+### [clav-1.0.0](https://github.com/truecharts/apps/compare/clamav-0.0.3...clamav-1.0.0) (2022-01-20)
 
 #### Feat
 
-* move to stable ([#1749](https://github.com/truecharts/apps/issues/1749))
+* 移动到稳定([#1749](https://github.com/truecharts/apps/issues/1749))
 
 
 
 <a name="clamav-0.0.3"></a>
 
-### [clamav-0.0.3](https://github.com/truecharts/apps/compare/clamav-0.0.2...clamav-0.0.3) (2022-01-20)
+### [clav-0.0.3](https://github.com/truecharts/apps/compare/clamav-0.0.2...clamav-0.0.3) (2022-01-20)
 
-#### Fix
+#### 修复
 
-* enable service ([#1742](https://github.com/truecharts/apps/issues/1742))
+* 启用服务 ([#1742](https://github.com/truecharts/apps/issues/1742))
 
 
 
 <a name="clamav-0.0.2"></a>
 
-### [clamav-0.0.2](https://github.com/truecharts/apps/compare/clamav-0.0.1...clamav-0.0.2) (2022-01-18)
+### [clav-0.0.2](https://github.com/truecharts/apps/compare/clamav-0.0.1...clamav-0.0.2) (2022-01-18)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1732](https://github.com/truecharts/apps/issues/1732))
+* 更新头盔的一般非主头盔版本([#1732](https://github.com/truecharts/apps/issues/1732))
 
 
 
 <a name="clamav-0.0.1"></a>
 
-### clamav-0.0.1 (2022-01-17)
+### gamav-0.0.1 (2022-01-17)
 
 #### Feat
 
-* add clamav ([#1725](https://github.com/truecharts/apps/issues/1725))
+* 添加 clamav([#1725](https://github.com/truecharts/apps/issues/1725))
