@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [muximux-3.0.17](https://github.com/truecharts/apps/compare/muximux-3.0.16...muximux-3.0.17) (2022-07-14)
+## [mux-3.0.17](https://github.com/truecharts/apps/compare/muximux-3.0.16...muximux-3.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [muximux-3.0.16](https://github.com/truecharts/apps/compare/muximux-3.0.14...muximux-3.0.16) (2022-07-14)
+## [mux-3.0.16](https://github.com/truecharts/apps/compare/muximux-3.0.14...muximux-3.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [muximux-3.0.14](https://github.com/truecharts/apps/compare/muximux-3.0.12...muximux-3.0.14) (2022-07-12)
+## [mux-3.0.14](https://github.com/truecharts/apps/compare/muximux-3.0.12...muximux-3.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [muximux-3.0.12](https://github.com/truecharts/apps/compare/muximux-3.0.11...muximux-3.0.12) (2022-07-12)
+## [mux-3.0.12](https://github.com/truecharts/apps/compare/muximux-3.0.11...muximux-3.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="muximux-3.0.11"></a>
 
-### [muximux-3.0.11](https://github.com/truecharts/apps/compare/muximux-3.0.10...muximux-3.0.11) (2022-07-12)
+### [mux-3.0.11](https://github.com/truecharts/apps/compare/muximux-3.0.10...muximux-3.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="muximux-3.0.10"></a>
 
-### [muximux-3.0.10](https://github.com/truecharts/apps/compare/muximux-3.0.9...muximux-3.0.10) (2022-07-11)
+### [mux-3.0.10](https://github.com/truecharts/apps/compare/muximux-3.0.9...muximux-3.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="muximux-3.0.9"></a>
 
-### [muximux-3.0.9](https://github.com/truecharts/apps/compare/muximux-3.0.8...muximux-3.0.9) (2022-07-09)
+### [mux-3.0.9](https://github.com/truecharts/apps/compare/muximux-3.0.8...muximux-3.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="muximux-3.0.8"></a>
 
-### [muximux-3.0.8](https://github.com/truecharts/apps/compare/muximux-3.0.7...muximux-3.0.8) (2022-07-04)
+### [mux-3.0.8](https://github.com/truecharts/apps/compare/muximux-3.0.7...muximux-3.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="muximux-3.0.7"></a>
 
-### [muximux-3.0.7](https://github.com/truecharts/apps/compare/muximux-3.0.6...muximux-3.0.7) (2022-06-25)
+### [mux-3.0.7](https://github.com/truecharts/apps/compare/muximux-3.0.6...muximux-3.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="muximux-3.0.6"></a>
 
-### [muximux-3.0.6](https://github.com/truecharts/apps/compare/muximux-3.0.5...muximux-3.0.6) (2022-06-22)
+### [mux-3.0.6](https://github.com/truecharts/apps/compare/muximux-3.0.5...muximux-3.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="muximux-3.0.5"></a>
 
-### [muximux-3.0.5](https://github.com/truecharts/apps/compare/muximux-3.0.4...muximux-3.0.5) (2022-06-21)
+### [mux-3.0.5](https://github.com/truecharts/apps/compare/muximux-3.0.4...muximux-3.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="muximux-3.0.4"></a>
 
-### [muximux-3.0.4](https://github.com/truecharts/apps/compare/muximux-3.0.3...muximux-3.0.4) (2022-06-14)
+### [mux-3.0.4](https://github.com/truecharts/apps/compare/muximux-3.0.3...muximux-3.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="muximux-3.0.3"></a>
 
-### [muximux-3.0.3](https://github.com/truecharts/apps/compare/muximux-3.0.2...muximux-3.0.3) (2022-06-11)
+### [mux-3.0.3](https://github.com/truecharts/apps/compare/muximux-3.0.2...muximux-3.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="muximux-3.0.2"></a>
 
-### [muximux-3.0.2](https://github.com/truecharts/apps/compare/muximux-3.0.1...muximux-3.0.2) (2022-06-07)
+### [mux-3.0.2](https://github.com/truecharts/apps/compare/muximux-3.0.1...muximux-3.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="muximux-3.0.1"></a>
 
-### [muximux-3.0.1](https://github.com/truecharts/apps/compare/muximux-2.0.19...muximux-3.0.1) (2022-06-07)
+### [mux-3.0.1](https://github.com/truecharts/apps/compare/muximux-2.0.19...muximux-3.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -155,7 +155,7 @@
 
 <a name="muximux-3.0.0"></a>
 
-### [muximux-3.0.0](https://github.com/truecharts/apps/compare/muximux-2.0.19...muximux-3.0.0) (2022-06-07)
+### [mux-3.0.0](https://github.com/truecharts/apps/compare/muximux-2.0.19...muximux-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="muximux-2.0.19"></a>
 
-### [muximux-2.0.19](https://github.com/truecharts/apps/compare/muximux-2.0.18...muximux-2.0.19) (2022-05-31)
+### [mux-2.0.19](https://github.com/truecharts/apps/compare/muximux-2.0.18...muximux-2.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="muximux-2.0.18"></a>
 
-### [muximux-2.0.18](https://github.com/truecharts/apps/compare/muximux-2.0.17...muximux-2.0.18) (2022-05-26)
+### [mux-2.0.18](https://github.com/truecharts/apps/compare/muximux-2.0.17...muximux-2.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="muximux-2.0.18"></a>
 
-### [muximux-2.0.18](https://github.com/truecharts/apps/compare/muximux-2.0.17...muximux-2.0.18) (2022-05-26)
+### [mux-2.0.18](https://github.com/truecharts/apps/compare/muximux-2.0.17...muximux-2.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="muximux-2.0.17"></a>
 
-### [muximux-2.0.17](https://github.com/truecharts/apps/compare/muximux-2.0.16...muximux-2.0.17) (2022-05-24)
+### [mux-2.0.17](https://github.com/truecharts/apps/compare/muximux-2.0.16...muximux-2.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="muximux-2.0.16"></a>
 
-### [muximux-2.0.16](https://github.com/truecharts/apps/compare/muximux-2.0.15...muximux-2.0.16) (2022-05-17)
+### [mux-2.0.16](https://github.com/truecharts/apps/compare/muximux-2.0.15...muximux-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="muximux-2.0.16"></a>
 
-### [muximux-2.0.16](https://github.com/truecharts/apps/compare/muximux-2.0.15...muximux-2.0.16) (2022-05-17)
+### [mux-2.0.16](https://github.com/truecharts/apps/compare/muximux-2.0.15...muximux-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="muximux-2.0.15"></a>
 
-### [muximux-2.0.15](https://github.com/truecharts/apps/compare/muximux-2.0.14...muximux-2.0.15) (2022-05-17)
+### [mux-2.0.15](https://github.com/truecharts/apps/compare/muximux-2.0.14...muximux-2.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="muximux-2.0.14"></a>
 
-### [muximux-2.0.14](https://github.com/truecharts/apps/compare/muximux-2.0.13...muximux-2.0.14) (2022-05-10)
+### [mux-2.0.14](https://github.com/truecharts/apps/compare/muximux-2.0.13...muximux-2.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="muximux-2.0.13"></a>
 
-### [muximux-2.0.13](https://github.com/truecharts/apps/compare/muximux-2.0.12...muximux-2.0.13) (2022-05-05)
+### [mux-2.0.13](https://github.com/truecharts/apps/compare/muximux-2.0.12...muximux-2.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="muximux-2.0.12"></a>
 
-### [muximux-2.0.12](https://github.com/truecharts/apps/compare/muximux-2.0.11...muximux-2.0.12) (2022-04-26)
+### [mux-2.0.12](https://github.com/truecharts/apps/compare/muximux-2.0.11...muximux-2.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="muximux-2.0.11"></a>
 
-### [muximux-2.0.11](https://github.com/truecharts/apps/compare/muximux-2.0.10...muximux-2.0.11) (2022-04-20)
+### [mux-2.0.11](https://github.com/truecharts/apps/compare/muximux-2.0.10...muximux-2.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="muximux-2.0.10"></a>
 
-### [muximux-2.0.10](https://github.com/truecharts/apps/compare/muximux-2.0.9...muximux-2.0.10) (2022-04-12)
+### [mux-2.0.10](https://github.com/truecharts/apps/compare/muximux-2.0.9...muximux-2.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="muximux-2.0.9"></a>
 
-### [muximux-2.0.9](https://github.com/truecharts/apps/compare/muximux-2.0.8...muximux-2.0.9) (2022-04-03)
+### [mux-2.0.9](https://github.com/truecharts/apps/compare/muximux-2.0.8...muximux-2.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="muximux-2.0.8"></a>
 
-### [muximux-2.0.8](https://github.com/truecharts/apps/compare/muximux-2.0.7...muximux-2.0.8) (2022-03-31)
+### [mux-2.0.8](https://github.com/truecharts/apps/compare/muximux-2.0.7...muximux-2.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="muximux-2.0.7"></a>
 
-### [muximux-2.0.7](https://github.com/truecharts/apps/compare/muximux-2.0.6...muximux-2.0.7) (2022-03-30)
+### [mux-2.0.7](https://github.com/truecharts/apps/compare/muximux-2.0.6...muximux-2.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="muximux-2.0.6"></a>
 
-### [muximux-2.0.6](https://github.com/truecharts/apps/compare/muximux-2.0.5...muximux-2.0.6) (2022-03-26)
+### [mux-2.0.6](https://github.com/truecharts/apps/compare/muximux-2.0.5...muximux-2.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="muximux-2.0.1"></a>
 
-### [muximux-2.0.1](https://github.com/truecharts/apps/compare/muximux-2.0.0...muximux-2.0.1) (2022-03-07)
+### [mux-2.0.1](https://github.com/truecharts/apps/compare/muximux-2.0.0...muximux-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="muximux-2.0.0"></a>
 
-### [muximux-2.0.0](https://github.com/truecharts/apps/compare/muximux-1.0.46...muximux-2.0.0) (2022-03-03)
+### [mux-2.0.0](https://github.com/truecharts/apps/compare/muximux-1.0.46...muximux-2.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="muximux-1.0.46"></a>
 
-### [muximux-1.0.46](https://github.com/truecharts/apps/compare/muximux-1.0.45...muximux-1.0.46) (2022-03-02)
+### [mux-1.0.46](https://github.com/truecharts/apps/compare/muximux-1.0.45...muximux-1.0.46) (2022-03-02)
 
 #### 聊天
 
@@ -371,7 +371,7 @@
 
 <a name="muximux-1.0.45"></a>
 
-### [muximux-1.0.45](https://github.com/truecharts/apps/compare/muximux-1.0.44...muximux-1.0.45) (2022-02-21)
+### [mux-1.0.45](https://github.com/truecharts/apps/compare/muximux-1.0.44...muximux-1.0.45) (2022-02-21)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="muximux-1.0.44"></a>
 
-### [muximux-1.0.44](https://github.com/truecharts/apps/compare/muximux-1.0.43...muximux-1.0.44) (2022-02-15)
+### [mux-1.0.44](https://github.com/truecharts/apps/compare/muximux-1.0.43...muximux-1.0.44) (2022-02-15)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="muximux-1.0.43"></a>
 
-### [muximux-1.0.43](https://github.com/truecharts/apps/compare/muximux-1.0.42...muximux-1.0.43) (2022-02-08)
+### [mux-1.0.43](https://github.com/truecharts/apps/compare/muximux-1.0.42...muximux-1.0.43) (2022-02-08)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="muximux-1.0.42"></a>
 
-### [muximux-1.0.42](https://github.com/truecharts/apps/compare/muximux-1.0.41...muximux-1.0.42) (2022-02-06)
+### [mux-1.0.42](https://github.com/truecharts/apps/compare/muximux-1.0.41...muximux-1.0.42) (2022-02-06)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="muximux-1.0.41"></a>
 
-### [muximux-1.0.41](https://github.com/truecharts/apps/compare/muximux-1.0.40...muximux-1.0.41) (2022-02-05)
+### [mux-1.0.41](https://github.com/truecharts/apps/compare/muximux-1.0.40...muximux-1.0.41) (2022-02-05)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="muximux-1.0.40"></a>
 
-### [muximux-1.0.40](https://github.com/truecharts/apps/compare/muximux-1.0.39...muximux-1.0.40) (2022-02-02)
+### [mux-1.0.40](https://github.com/truecharts/apps/compare/muximux-1.0.39...muximux-1.0.40) (2022-02-02)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="muximux-1.0.39"></a>
 
-### [muximux-1.0.39](https://github.com/truecharts/apps/compare/muximux-1.0.38...muximux-1.0.39) (2022-01-25)
+### [mux-1.0.39](https://github.com/truecharts/apps/compare/muximux-1.0.38...muximux-1.0.39) (2022-01-25)
 
 #### 聊天
 
@@ -441,7 +441,7 @@
 
 <a name="muximux-1.0.38"></a>
 
-### [muximux-1.0.38](https://github.com/truecharts/apps/compare/muximux-1.0.37...muximux-1.0.38) (2022-01-22)
+### [mux-1.0.38](https://github.com/truecharts/apps/compare/muximux-1.0.37...muximux-1.0.38) (2022-01-22)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="muximux-1.0.37"></a>
 
-### [muximux-1.0.37](https://github.com/truecharts/apps/compare/muximux-1.0.36...muximux-1.0.37) (2022-01-21)
+### [mux-1.0.37](https://github.com/truecharts/apps/compare/muximux-1.0.36...muximux-1.0.37) (2022-01-21)
 
 #### 聊天
 
@@ -465,7 +465,7 @@
 
 <a name="muximux-1.0.36"></a>
 
-### [muximux-1.0.36](https://github.com/truecharts/apps/compare/muximux-1.0.35...muximux-1.0.36) (2022-01-18)
+### [mux-1.0.36](https://github.com/truecharts/apps/compare/muximux-1.0.35...muximux-1.0.36) (2022-01-18)
 
 #### 聊天
 
@@ -475,7 +475,7 @@
 
 <a name="muximux-1.0.35"></a>
 
-### [muximux-1.0.35](https://github.com/truecharts/apps/compare/muximux-1.0.34...muximux-1.0.35) (2022-01-13)
+### [mux-1.0.35](https://github.com/truecharts/apps/compare/muximux-1.0.34...muximux-1.0.35) (2022-01-13)
 
 #### 聊天
 
@@ -489,7 +489,7 @@
 
 <a name="muximux-1.0.34"></a>
 
-### [muximux-1.0.34](https://github.com/truecharts/apps/compare/muximux-1.0.33...muximux-1.0.34) (2022-01-12)
+### [mux-1.0.34](https://github.com/truecharts/apps/compare/muximux-1.0.33...muximux-1.0.34) (2022-01-12)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="muximux-1.0.33"></a>
 
-### [muximux-1.0.33](https://github.com/truecharts/apps/compare/muximux-1.0.32...muximux-1.0.33) (2022-01-11)
+### [近距离-1.0.33](https://github.com/truecharts/apps/compare/muximux-1.0.32...muximux-1.0.33) (2022-01-11)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="muximux-1.0.32"></a>
 
-### [muximux-1.0.32](https://github.com/truecharts/apps/compare/muximux-1.0.31...muximux-1.0.32) (2022-01-04)
+### [mux-1.0.32](https://github.com/truecharts/apps/compare/muximux-1.0.31...muximux-1.0.32) (2022-01-04)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="muximux-1.0.31"></a>
 
-### [muximux-1.0.31](https://github.com/truecharts/apps/compare/muximux-1.0.30...muximux-1.0.31) (2021-12-28)
+### [mux-1.0.31](https://github.com/truecharts/apps/compare/muximux-1.0.30...muximux-1.0.31) (2021-12-28)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="muximux-1.0.30"></a>
 
-### [muximux-1.0.30](https://github.com/truecharts/apps/compare/muximux-1.0.29...muximux-1.0.30) (2021-12-21)
+### [mux-1.0.30](https://github.com/truecharts/apps/compare/muximux-1.0.29...muximux-1.0.30) (2021-12-21)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="muximux-1.0.29"></a>
 
-### [muximux-1.0.29](https://github.com/truecharts/apps/compare/muximux-1.0.28...muximux-1.0.29) (2021-12-19)
+### [mux-1.0.29](https://github.com/truecharts/apps/compare/muximux-1.0.28...muximux-1.0.29) (2021-12-19)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="muximux-1.0.28"></a>
 
-### [muximux-1.0.28](https://github.com/truecharts/apps/compare/muximux-1.0.27...muximux-1.0.28) (2021-12-19)
+### [mux-1.0.28](https://github.com/truecharts/apps/compare/muximux-1.0.27...muximux-1.0.28) (2021-12-19)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="muximux-1.0.27"></a>
 
-### [muximux-1.0.27](https://github.com/truecharts/apps/compare/muximux-1.0.26...muximux-1.0.27) (2021-12-18)
+### [近似-1.0.27](https://github.com/truecharts/apps/compare/muximux-1.0.26...muximux-1.0.27) (2021-12-18岁)
 
 #### 聊天
 
@@ -572,7 +572,7 @@
 
 <a name="muximux-1.0.26"></a>
 
-### [muximux-1.0.26](https://github.com/truecharts/apps/compare/muximux-1.0.25...muximux-1.0.26) (2021-12-14)
+### [mux-1.0.26](https://github.com/truecharts/apps/compare/muximux-1.0.25...muximux-1.0.26) (2021-12-14)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="muximux-1.0.25"></a>
 
-### [muximux-1.0.25](https://github.com/truecharts/apps/compare/muximux-1.0.24...muximux-1.0.25) (2021-12-13)
+### [mux-1.0.25](https://github.com/truecharts/apps/compare/muximux-1.0.24...muximux-1.0.25) (2021-12-13)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="muximux-1.0.24"></a>
 
-### [muximux-1.0.24](https://github.com/truecharts/apps/compare/muximux-1.0.23...muximux-1.0.24) (2021-12-11)
+### [mux-1.0.24](https://github.com/truecharts/apps/compare/muximux-1.0.23...muximux-1.0.24) (2021-12-11)
 
 #### 聊天
 
@@ -602,7 +602,7 @@
 
 <a name="muximux-1.0.23"></a>
 
-### [muximux-1.0.23](https://github.com/truecharts/apps/compare/muximux-1.0.22...muximux-1.0.23) (2021-12-07)
+### [mux-1.0.23](https://github.com/truecharts/apps/compare/muximux-1.0.22...muximux-1.0.23) (2021-12-07)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="muximux-1.0.22"></a>
 
-### muximux-1.0.22 (2021-12-05)
+### 近距离-1.0.22 (2021-12-05)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="muximux-1.0.21"></a>
 
-### [muximux-1.0.21](https://github.com/truecharts/apps/compare/muximux-1.0.20...muximux-1.0.21) (2021-12-05)
+### [mux-1.0.21](https://github.com/truecharts/apps/compare/muximux-1.0.20...muximux-1.0.21) (2021-12-05)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="muximux-1.0.20"></a>
 
-### [muximux-1.0.20](https://github.com/truecharts/apps/compare/muximux-1.0.19...muximux-1.0.20) (2021-12-04)
+### [mux-1.0.20](https://github.com/truecharts/apps/compare/muximux-1.0.19...muximux-1.0.20) (2021-12-04)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="muximux-1.0.19"></a>
 
-### [muximux-1.0.19](https://github.com/truecharts/apps/compare/muximux-1.0.18...muximux-1.0.19) (2021-12-04)
+### [mux-1.0.19](https://github.com/truecharts/apps/compare/muximux-1.0.18...muximux-1.0.19) (2021-12-04)
 
 #### 聊天
 
@@ -662,7 +662,7 @@
 
 <a name="muximux-1.0.18"></a>
 
-### [muximux-1.0.18](https://github.com/truecharts/apps/compare/muximux-1.0.17...muximux-1.0.18) (2021-12-03)
+### [mux-1.0.18](https://github.com/truecharts/apps/compare/muximux-1.0.17...muximux-1.0.18) (2021-12-03)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="muximux-1.0.17"></a>
 
-### [muximux-1.0.17](https://github.com/truecharts/apps/compare/muximux-1.0.16...muximux-1.0.17) (2021-11-30)
+### [mux-1.0.17](https://github.com/truecharts/apps/compare/muximux-1.0.16...muximux-1.0.17) (2021-11-30)
 
 #### 聊天
 
@@ -683,7 +683,7 @@
 
 <a name="muximux-1.0.16"></a>
 
-### [muximux-1.0.16](https://github.com/truecharts/apps/compare/muximux-1.0.15...muximux-1.0.16) (2021-11-30)
+### [mux-1.0.16](https://github.com/truecharts/apps/compare/muximux-1.0.15...muximux-1.0.16) (2021-11-30)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="muximux-1.0.14"></a>
 
-### [muximux-1.0.14](https://github.com/truecharts/apps/compare/muximux-1.0.13...muximux-1.0.14) (2021-11-23)
+### [mux-1.0.14](https://github.com/truecharts/apps/compare/muximux-1.0.13...muximux-1.0.14) (2021-11-23)
 
 #### 聊天
 
@@ -703,7 +703,7 @@
 
 <a name="muximux-1.0.13"></a>
 
-### [muximux-1.0.13](https://github.com/truecharts/apps/compare/muximux-1.0.12...muximux-1.0.13) (2021-11-22)
+### [mux-1.0.13](https://github.com/truecharts/apps/compare/muximux-1.0.12...muximux-1.0.13) (2021-11-22)
 
 #### 聊天
 
@@ -713,7 +713,7 @@
 
 <a name="muximux-1.0.12"></a>
 
-### [muximux-1.0.12](https://github.com/truecharts/apps/compare/muximux-1.0.11...muximux-1.0.12) (2021-11-16)
+### [mux-1.0.12](https://github.com/truecharts/apps/compare/muximux-1.0.11...muximux-1.0.12) (2021-11-16)
 
 #### 聊天
 
@@ -723,7 +723,7 @@
 
 <a name="muximux-1.0.11"></a>
 
-### [muximux-1.0.11](https://github.com/truecharts/apps/compare/muximux-1.0.10...muximux-1.0.11) (2021-11-15)
+### [mux-1.0.11](https://github.com/truecharts/apps/compare/muximux-1.0.10...muximux-1.0.11) (2021-11-15)
 
 #### 聊天
 
@@ -734,7 +734,7 @@
 
 <a name="muximux-1.0.10"></a>
 
-### [muximux-1.0.10](https://github.com/truecharts/apps/compare/muximux-1.0.9...muximux-1.0.10) (2021-11-14)
+### [mux-1.0.10](https://github.com/truecharts/apps/compare/muximux-1.0.9...muximux-1.0.10) (2021-11-14)
 
 #### 聊天
 
@@ -752,7 +752,7 @@
 
 <a name="muximux-1.0.9"></a>
 
-### [muximux-1.0.9](https://github.com/truecharts/apps/compare/muximux-1.0.8...muximux-1.0.9) (2021-11-09)
+### [mux-1.0.9](https://github.com/truecharts/apps/compare/muximux-1.0.8...muximux-1.0.9) (2021-11-09)
 
 #### 聊天
 
@@ -762,7 +762,7 @@
 
 <a name="muximux-1.0.8"></a>
 
-### [muximux-1.0.8](https://github.com/truecharts/apps/compare/muximux-1.0.7...muximux-1.0.8) (2021-11-07)
+### [mux-1.0.8](https://github.com/truecharts/apps/compare/muximux-1.0.7...muximux-1.0.8) (2021-11-07)
 
 #### 聊天
 
@@ -772,7 +772,7 @@
 
 <a name="muximux-1.0.7"></a>
 
-### [muximux-1.0.7](https://github.com/truecharts/apps/compare/muximux-1.0.6...muximux-1.0.7) (2021-11-07)
+### [mux-1.0.7](https://github.com/truecharts/apps/compare/muximux-1.0.6...muximux-1.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -782,7 +782,7 @@
 
 <a name="muximux-1.0.6"></a>
 
-### [muximux-1.0.6](https://github.com/truecharts/apps/compare/muximux-1.0.5...muximux-1.0.6) (2021-11-07)
+### [mux-1.0.6](https://github.com/truecharts/apps/compare/muximux-1.0.5...muximux-1.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -800,7 +800,7 @@
 
 <a name="muximux-1.0.5"></a>
 
-### [muximux-1.0.5](https://github.com/truecharts/apps/compare/muximux-1.0.4...muximux-1.0.5) (2021-11-02)
+### [mux-1.0.5](https://github.com/truecharts/apps/compare/muximux-1.0.4...muximux-1.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -810,7 +810,7 @@
 
 <a name="muximux-1.0.4"></a>
 
-### [muximux-1.0.4](https://github.com/truecharts/apps/compare/muximux-1.0.3...muximux-1.0.4) (2021-11-01)
+### [mux-1.0.4](https://github.com/truecharts/apps/compare/muximux-1.0.3...muximux-1.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -820,7 +820,7 @@
 
 <a name="muximux-1.0.3"></a>
 
-### [muximux-1.0.3](https://github.com/truecharts/apps/compare/muximux-1.0.2...muximux-1.0.3) (2021-11-01)
+### [mux-1.0.3](https://github.com/truecharts/apps/compare/muximux-1.0.2...muximux-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -830,7 +830,7 @@
 
 <a name="muximux-1.0.2"></a>
 
-### [muximux-1.0.2](https://github.com/truecharts/apps/compare/muximux-1.0.1...muximux-1.0.2) (2021-10-26)
+### [mux-1.0.2](https://github.com/truecharts/apps/compare/muximux-1.0.1...muximux-1.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -840,7 +840,7 @@
 
 <a name="muximux-1.0.1"></a>
 
-### [muximux-1.0.1](https://github.com/truecharts/apps/compare/muximux-1.0.0...muximux-1.0.1) (2021-10-26)
+### [mux-1.0.1](https://github.com/truecharts/apps/compare/muximux-1.0.0...muximux-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -851,7 +851,7 @@
 
 <a name="muximux-1.0.0"></a>
 
-### [muximux-1.0.0](https://github.com/truecharts/apps/compare/muximux-0.0.12...muximux-1.0.0) (2021-10-25)
+### [mux-1.0.0](https://github.com/truecharts/apps/compare/muximux-0.0.12...muximux-1.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -861,7 +861,7 @@
 
 <a name="muximux-0.0.12"></a>
 
-### [muximux-0.0.12](https://github.com/truecharts/apps/compare/muximux-0.0.9...muximux-0.0.12) (2021-10-20)
+### [mux-0.0.12](https://github.com/truecharts/apps/compare/muximux-0.0.9...muximux-0.0.12) (2021-10-20)
 
 #### 聊天
 
@@ -871,7 +871,7 @@
 
 <a name="muximux-0.0.9"></a>
 
-### [muximux-0.0.9](https://github.com/truecharts/apps/compare/muximux-0.0.8...muximux-0.0.9) (2021-10-20)
+### [mux-0.0.9](https://github.com/truecharts/apps/compare/muximux-0.0.8...muximux-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -881,7 +881,7 @@
 
 <a name="muximux-0.0.8"></a>
 
-### [muximux-0.0.8](https://github.com/truecharts/apps/compare/muximux-0.0.7...muximux-0.0.8) (2021-10-19)
+### [mux-0.0.8](https://github.com/truecharts/apps/compare/muximux-0.0.7...muximux-0.0.8) (2021-10-19)
 
 #### 更改
 
@@ -905,7 +905,7 @@
 
 <a name="muximux-0.0.7"></a>
 
-### [muximux-0.0.7](https://github.com/truecharts/apps/compare/muximux-0.0.6...muximux-0.0.7) (2021-10-19)
+### [mux-0.0.7](https://github.com/truecharts/apps/compare/muximux-0.0.6...muximux-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -915,7 +915,7 @@
 
 <a name="muximux-0.0.6"></a>
 
-### [muximux-0.0.6](https://github.com/truecharts/apps/compare/muximux-0.0.5...muximux-0.0.6) (2021-10-19)
+### [mux-0.0.6](https://github.com/truecharts/apps/compare/muximux-0.0.5...muximux-0.0.6) (2021-10-19)
 
 #### 修复
 
@@ -925,7 +925,7 @@
 
 <a name="muximux-0.0.5"></a>
 
-### [muximux-0.0.5](https://github.com/truecharts/apps/compare/muximux-0.0.4...muximux-0.0.5) (2021-10-18)
+### [mux-0.0.5](https://github.com/truecharts/apps/compare/muximux-0.0.4...muximux-0.0.5) (2021-10-18)
 
 #### 聊天
 
@@ -939,7 +939,7 @@
 
 <a name="muximux-0.0.4"></a>
 
-### [muximux-0.0.4](https://github.com/truecharts/apps/compare/muximux-0.0.3...muximux-0.0.4) (2021-10-17)
+### [mux-0.0.4](https://github.com/truecharts/apps/compare/muximux-0.0.3...muximux-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -953,7 +953,7 @@
 
 <a name="muximux-0.0.3"></a>
 
-### [muximux-0.0.3](https://github.com/truecharts/apps/compare/muximux-0.0.2...muximux-0.0.3) (2021-10-13)
+### [mux-0.0.3](https://github.com/truecharts/apps/compare/muximux-0.0.2...muximux-0.0.3) (2021-10-13)
 
 #### 聊天
 
@@ -963,7 +963,7 @@
 
 <a name="muximux-0.0.2"></a>
 
-### [muximux-0.0.2](https://github.com/truecharts/apps/compare/muximux-0.0.1...muximux-0.0.2) (2021-10-13)
+### [mux-0.0.2](https://github.com/truecharts/apps/compare/muximux-0.0.1...muximux-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -973,4 +973,4 @@
 
 <a name="muximux-0.0.1"></a>
 
-### muximux-0.0.1 (2021-10-04)
+### mux-0.0.1 (2021-10-04)
