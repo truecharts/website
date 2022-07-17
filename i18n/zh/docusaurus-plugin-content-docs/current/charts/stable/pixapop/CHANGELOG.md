@@ -210,7 +210,7 @@
 
 <a name="pixapop-2.0.16"></a>
 
-### [pixapop-2.0.16](https://github.com/truecharts/apps/compare/pixapop-2.0.15...pixapop-2.0.16) (2022-05-17)
+### [像素-2.0.16](https://github.com/truecharts/apps/compare/pixapop-2.0.15...pixapop-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="pixapop-2.0.16"></a>
 
-### [pixapop-2.0.16](https://github.com/truecharts/apps/compare/pixapop-2.0.15...pixapop-2.0.16) (2022-05-17)
+### [像素-2.0.16](https://github.com/truecharts/apps/compare/pixapop-2.0.15...pixapop-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="pixapop-2.0.14"></a>
 
-### [pixapop-2.0.14](https://github.com/truecharts/apps/compare/pixapop-2.0.13...pixapop-2.0.14) (2022-05-10)
+### [像素-2.0.14](https://github.com/truecharts/apps/compare/pixapop-2.0.13...pixapop-2.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="pixapop-2.0.1"></a>
 
-### [pixapop-2.0.1](https://github.com/truecharts/apps/compare/pixapop-2.0.0...pixapop-2.0.1) (2022-03-07)
+### [像素-2.0.1](https://github.com/truecharts/apps/compare/pixapop-2.0.0...pixapop-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="pixapop-1.0.27"></a>
 
-### [pixapop-1.0.27](https://github.com/truecharts/apps/compare/pixapop-1.0.26...pixapop-1.0.27) (2021-12-28)
+### [像素-1.0.27](https://github.com/truecharts/apps/compare/pixapop-1.0.26...pixapop-1.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="pixapop-1.0.26"></a>
 
-### [pixapop-1.0.26](https://github.com/truecharts/apps/compare/pixapop-1.0.25...pixapop-1.0.26) (2021-12-21)
+### [像素-1.0.26](https://github.com/truecharts/apps/compare/pixapop-1.0.25...pixapop-1.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="pixapop-1.0.25"></a>
 
-### [pixapop-1.0.25](https://github.com/truecharts/apps/compare/pixapop-1.0.24...pixapop-1.0.25) (2021-12-19)
+### [像素-1.0.25](https://github.com/truecharts/apps/compare/pixapop-1.0.24...pixapop-1.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="pixapop-1.0.24"></a>
 
-### [pixapop-1.0.24](https://github.com/truecharts/apps/compare/pixapop-1.0.23...pixapop-1.0.24) (2021-12-19)
+### [像素-1.0.24](https://github.com/truecharts/apps/compare/pixapop-1.0.23...pixapop-1.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="pixapop-1.0.23"></a>
 
-### [pixapop-1.0.23](https://github.com/truecharts/apps/compare/pixapop-1.0.22...pixapop-1.0.23) (2021-12-18)
+### [像素-1.0.23](https://github.com/truecharts/apps/compare/pixapop-1.0.22...pixapop-1.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -572,7 +572,7 @@
 
 <a name="pixapop-1.0.22"></a>
 
-### [pixapop-1.0.22](https://github.com/truecharts/apps/compare/pixapop-1.0.21...pixapop-1.0.22) (2021-12-14)
+### [像素-1.0.22](https://github.com/truecharts/apps/compare/pixapop-1.0.21...pixapop-1.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="pixapop-1.0.21"></a>
 
-### [pixapop-1.0.21](https://github.com/truecharts/apps/compare/pixapop-1.0.20...pixapop-1.0.21) (2021-12-13)
+### [像素-1.0.21](https://github.com/truecharts/apps/compare/pixapop-1.0.20...pixapop-1.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="pixapop-1.0.20"></a>
 
-### [pixapop-1.0.20](https://github.com/truecharts/apps/compare/pixapop-1.0.19...pixapop-1.0.20) (2021-12-11)
+### [像素-1.0.20](https://github.com/truecharts/apps/compare/pixapop-1.0.19...pixapop-1.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="pixapop-1.0.17"></a>
 
-### [pixapop-1.0.17](https://github.com/truecharts/apps/compare/pixapop-1.0.16...pixapop-1.0.17) (2021-12-05)
+### [像素-1.0.17](https://github.com/truecharts/apps/compare/pixapop-1.0.16...pixapop-1.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="pixapop-1.0.16"></a>
 
-### [pixapop-1.0.16](https://github.com/truecharts/apps/compare/pixapop-1.0.15...pixapop-1.0.16) (2021-12-04)
+### [像素-1.0.16](https://github.com/truecharts/apps/compare/pixapop-1.0.15...pixapop-1.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="pixapop-1.0.15"></a>
 
-### [pixapop-1.0.15](https://github.com/truecharts/apps/compare/pixapop-1.0.14...pixapop-1.0.15) (2021-12-04)
+### [像素-1.0.15](https://github.com/truecharts/apps/compare/pixapop-1.0.14...pixapop-1.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -717,7 +717,7 @@
 
 <a name="pixapop-1.0.9"></a>
 
-### [pixapop-1.0.9](https://github.com/truecharts/apps/compare/pixapop-1.0.8...pixapop-1.0.9) (2021-11-15)
+### [像素-1.0.9](https://github.com/truecharts/apps/compare/pixapop-1.0.8...pixapop-1.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -746,7 +746,7 @@
 
 <a name="pixapop-1.0.7"></a>
 
-### [pixapop-1.0.7](https://github.com/truecharts/apps/compare/pixapop-1.0.6...pixapop-1.0.7) (2021-11-09)
+### [像素-1.0.7](https://github.com/truecharts/apps/compare/pixapop-1.0.6...pixapop-1.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -784,7 +784,7 @@
 
 <a name="pixapop-1.0.4"></a>
 
-### [pixapop-1.0.4](https://github.com/truecharts/apps/compare/pixapop-1.0.3...pixapop-1.0.4) (2021-11-02)
+### [像素-1.0.4](https://github.com/truecharts/apps/compare/pixapop-1.0.3...pixapop-1.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -794,7 +794,7 @@
 
 <a name="pixapop-1.0.3"></a>
 
-### [pixapop-1.0.3](https://github.com/truecharts/apps/compare/pixapop-1.0.2...pixapop-1.0.3) (2021-11-01)
+### [像素-1.0.3](https://github.com/truecharts/apps/compare/pixapop-1.0.2...pixapop-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -804,7 +804,7 @@
 
 <a name="pixapop-1.0.2"></a>
 
-### [pixapop-1.0.2](https://github.com/truecharts/apps/compare/pixapop-1.0.1...pixapop-1.0.2) (2021-10-26)
+### [像素-1.0.2](https://github.com/truecharts/apps/compare/pixapop-1.0.1...pixapop-1.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -814,7 +814,7 @@
 
 <a name="pixapop-1.0.1"></a>
 
-### [pixapop-1.0.1](https://github.com/truecharts/apps/compare/pixapop-1.0.0...pixapop-1.0.1) (2021-10-26)
+### [像素-1.0.1](https://github.com/truecharts/apps/compare/pixapop-1.0.0...pixapop-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -844,7 +844,7 @@
 
 <a name="pixapop-0.0.9"></a>
 
-### [pixapop-0.0.9](https://github.com/truecharts/apps/compare/pixapop-0.0.8...pixapop-0.0.9) (2021-10-20)
+### [像素-0.0.9](https://github.com/truecharts/apps/compare/pixapop-0.0.8...pixapop-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -878,7 +878,7 @@
 
 <a name="pixapop-0.0.7"></a>
 
-### [pixapop-0.0.7](https://github.com/truecharts/apps/compare/pixapop-0.0.6...pixapop-0.0.7) (2021-10-19)
+### [像素-0.0.7](https://github.com/truecharts/apps/compare/pixapop-0.0.6...pixapop-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -912,7 +912,7 @@
 
 <a name="pixapop-0.0.4"></a>
 
-### [pixapop-0.0.4](https://github.com/truecharts/apps/compare/pixapop-0.0.3...pixapop-0.0.4) (2021-10-17)
+### [像素-0.0.4](https://github.com/truecharts/apps/compare/pixapop-0.0.3...pixapop-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -936,7 +936,7 @@
 
 <a name="pixapop-0.0.2"></a>
 
-### [pixapop-0.0.2](https://github.com/truecharts/apps/compare/pixapop-0.0.1...pixapop-0.0.2) (2021-10-13)
+### [像素-0.0.2](https://github.com/truecharts/apps/compare/pixapop-0.0.1...pixapop-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -946,4 +946,4 @@
 
 <a name="pixapop-0.0.1"></a>
 
-### pixapop-0.0.1 (2021-10-04)
+### 像素-0.0.1 (2021-10-04)
