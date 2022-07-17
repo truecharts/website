@@ -6,8 +6,8 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/hyperion-project/hyperion.ng>
-* <https://hub.docker.com/r/sirfragalot/hyperion.ng>
+* [https://github.com/hyrion-project/hyrion.ng](https://github.com/hyperion-project/hyperion.ng)
+* [https://hub.docker.com/r/sirfragalot/hylion.ng](https://hub.docker.com/r/sirfragalot/hyperion.ng)
 
 ## B. 所需经费
 
