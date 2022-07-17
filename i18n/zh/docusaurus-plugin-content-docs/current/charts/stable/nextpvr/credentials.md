@@ -1,4 +1,4 @@
-# Default Username/Password
+# 默认用户名/密码
 
 __E-mail__: `admin`
 
