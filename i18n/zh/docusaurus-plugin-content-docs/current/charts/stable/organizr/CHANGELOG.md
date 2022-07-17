@@ -591,7 +591,7 @@
 
 <a name="organizr-9.0.24"></a>
 
-### [organizr-9.0.24](https://github.com/truecharts/apps/compare/organizr-9.0.23...organizr-9.0.24) (2021-12-18)
+### [organizr-9.0.24](https://github.com/truecharts/apps/compare/organizr-9.0.23...organizr-9.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="organizr-9.0.19"></a>
 
-### organizr-9.0.19 (2021-12-05)
+### 组织者-9.0.19(2021-12-05)
 
 #### 聊天
 
@@ -880,7 +880,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
