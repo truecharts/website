@@ -1,4 +1,4 @@
-# Changelog
+# 更新日志
 
 
 ## [plex-meta-manager-0.0.5](https://github.com/truecharts/apps/compare/plex-meta-manager-0.0.4...plex-meta-manager-0.0.5) (2022-07-15)
@@ -7,21 +7,21 @@
 
 ## [plex-meta-manager-0.0.4](https://github.com/truecharts/apps/compare/plex-meta-manager-0.0.3...plex-meta-manager-0.0.4) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [plex-meta-manager-0.0.3](https://github.com/truecharts/apps/compare/plex-meta-manager-0.0.1...plex-meta-manager-0.0.3) (2022-07-14)
 
-### Chore
+### 聊天
 
-- Auto-update chart README [skip ci]
+- 自动更新README图表 [跳过 ci]
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
@@ -29,4 +29,4 @@
 
 ### Feat
 
-- Add plex-meta-manager ([#3172](https://github.com/truecharts/apps/issues/3172))
+- 添加 plex-meta-manager ([#3172](https://github.com/truecharts/apps/issues/3172))
