@@ -378,4 +378,4 @@
 
 #### Feat
 
-* add 2 apps ([#2498](https://github.com/truecharts/apps/issues/2498))
+* 添加两个应用程序([#2498](https://github.com/truecharts/apps/issues/2498))
