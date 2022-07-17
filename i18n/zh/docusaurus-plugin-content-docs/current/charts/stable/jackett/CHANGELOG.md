@@ -1366,7 +1366,7 @@
 
 * 跳转应用生成安全页面
 * 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* improve a bit on security docs generation
+* 在安全码的生成上提高一定程度
 * 略去安全页面的ci
 * 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
 * 更新非主要([#1466](https://github.com/truecharts/apps/issues/1466))
@@ -1375,17 +1375,17 @@
 * 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
 * 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 * 更新非主停靠标签[#1429](https://github.com/truecharts/apps/issues/1429)
-* cleanup helm security scan output a bit more
+* 清理头盔安全扫描输出更多
 
 #### Feat
 
-* Craft a trivy config to md parser
-* Render security scan results during build ([#1451](https://github.com/truecharts/apps/issues/1451))
+* 制作一个 trivy 配置到 md解析器
+* 构建过程中渲染安全扫描结果 ([#1451](https://github.com/truecharts/apps/issues/1451))
 
 #### 修复
 
 * 修复主题选择中的类型([#1428](https://github.com/truecharts/apps/issues/1428))
-* use GHCR for install tests ([#1461](https://github.com/truecharts/apps/issues/1461))
+* 使用 GHCR 来安装测试([#1461](https://github.com/truecharts/apps/issues/1461))
 
 
 
@@ -1425,7 +1425,7 @@
 
 #### 聊天
 
-* cleanup helm security scan output a bit more
+* 清理头盔安全扫描输出更多
 
 
 
@@ -1445,7 +1445,7 @@
 
 #### Feat
 
-* Craft a trivy config to md parser
+* 制作一个 trivy 配置到 md解析器
 
 
 
@@ -1455,7 +1455,7 @@
 
 #### 聊天
 
-* improve a bit on security docs generation
+* 在安全码的生成上提高一定程度
 
 
 
@@ -1469,7 +1469,7 @@
 
 #### 修复
 
-* use GHCR for install tests ([#1461](https://github.com/truecharts/apps/issues/1461))
+* 使用 GHCR 来安装测试([#1461](https://github.com/truecharts/apps/issues/1461))
 
 
 
@@ -1479,7 +1479,7 @@
 
 #### Feat
 
-* Render security scan results during build ([#1451](https://github.com/truecharts/apps/issues/1451))
+* 构建过程中渲染安全扫描结果 ([#1451](https://github.com/truecharts/apps/issues/1451))
 
 
 
@@ -1681,7 +1681,7 @@
 
 #### 修复
 
-* Correct label for port setting
+* 正确设置端口标签
 
 
 
@@ -1691,8 +1691,8 @@
 
 #### 修复
 
-* correct typo in include
-* correct duplicate variable name in questions.yaml
+* 包含正确的类型
+* 在问题.yaml 中更正重复的变量名称
 
 
 
@@ -1702,7 +1702,7 @@
 
 #### 聊天
 
-* refactor ServiceType to simplify it ([#1285](https://github.com/truecharts/apps/issues/1285))
+* 重新计算服务类型以简化它([#1285](https://github.com/truecharts/apps/issues/1285))
 
 
 
