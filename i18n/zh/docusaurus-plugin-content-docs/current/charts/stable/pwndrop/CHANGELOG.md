@@ -560,7 +560,7 @@
 
 <a name="pwndrop-0.0.4"></a>
 
-### [pwndrop-0.0.4](https://github.com/truecharts/apps/compare/pwndrop-0.0.3...pwndrop-0.0.4) (2021-12-18)
+### [pwndrop-0.0.4](https://github.com/truecharts/apps/compare/pwndrop-0.0.3...pwndrop-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -591,4 +591,4 @@
 
 <a name="pwndrop-0.0.1"></a>
 
-### pwndrop-0.0.1 (2021-12-12)
+### pwndrop-0.0.1 (2021-12)
