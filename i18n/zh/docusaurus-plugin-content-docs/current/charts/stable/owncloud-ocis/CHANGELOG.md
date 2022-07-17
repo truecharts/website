@@ -357,7 +357,7 @@
 
 #### 修复
 
-* fix portal, add auto generated tokens, add some gui options ([#2113](https://github.com/truecharts/apps/issues/2113))
+* 修复门户，添加自动生成的令牌，添加一些界面选项 ([#211](https://github.com/truecharts/apps/issues/2113))
 
 
 
@@ -738,7 +738,7 @@
 
 #### 聊天
 
-* update non-major docker tags ([#1387](https://github.com/truecharts/apps/issues/1387))
+* 更新非主停靠标签[#1387](https://github.com/truecharts/apps/issues/1387)
 
 
 
@@ -906,7 +906,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
