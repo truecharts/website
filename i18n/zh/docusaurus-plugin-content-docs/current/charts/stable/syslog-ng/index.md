@@ -1,6 +1,6 @@
 # syslog-ng
 
-syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate logs.
+syslog-ng 允许您灵活地收集、解析、分类、重写和关联日志。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
