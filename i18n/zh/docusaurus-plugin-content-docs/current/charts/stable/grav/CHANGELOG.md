@@ -561,7 +561,7 @@
 
 <a name="grav-2.0.23"></a>
 
-### [grav-2.0.23](https://github.com/truecharts/apps/compare/grav-2.0.22...grav-2.0.23) (2021-12-18)
+### [grav-2.0.23](https://github.com/truecharts/apps/compare/grav-2.0.22...grav-2.0.23) (2021-12-18岁)
 
 #### 聊天
 
