@@ -1,15 +1,15 @@
-# License
+# 许可协议
 
-BSD 3-Clause License
+BSD 3条款许可证
 
-Copyright (c) 2020-2021, the respective contributors, as shown by the AUTHORS file. All rights reserved.
+AUTHORS 文件显示的版权所有 (c) 2020-2021 分别为贡献者。 版权所有。
 
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+允许重新分配和以源和二进制形式使用，无论是否有 修改，只要符合以下条件：
 
-1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+1. 源代码的重新分配必须保留上面的版权通知， 条件列表和下面的免责声明。
 
-2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+2. 二进制形式的重新分配必须复制上述版权通知。 此条件列表以及文档 和/或其它配送材料中的下列免责声明。
 
-3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+3. 版权持有人的名字或其 贡献者的名字都不能在没有特定的事先书面许可的情况下用于支持或促销来自 此软件的产品。
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+三、本次会议提供的信息和咨询意见――“作为” 和任何外表或受其影响的警告――包括： 买入并不是轻松的， 丢失的备注和参与者的备注 丢失状态。 IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
