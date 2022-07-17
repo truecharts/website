@@ -312,7 +312,7 @@
 
 <a name="gaps-10.0.7"></a>
 
-### [gaps-10.0.7](https://github.com/truecharts/apps/compare/gaps-10.0.6...gaps-10.0.7) (2022-03-30)
+### [缺口-10.0.7](https://github.com/truecharts/apps/compare/gaps-10.0.6...gaps-10.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -571,7 +571,7 @@
 
 <a name="gaps-9.0.24"></a>
 
-### [gaps-9.0.24](https://github.com/truecharts/apps/compare/gaps-9.0.23...gaps-9.0.24) (2021-12-18)
+### [gaps-9.0.24](https://github.com/truecharts/apps/compare/gaps-9.0.23...gaps-9.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -1014,7 +1014,7 @@
 
 #### 聊天
 
-* move more dockerhub containers to GHCR mirror ([#958](https://github.com/truecharts/apps/issues/958))
+* 移动更多的Docker枢纽容器到 GHCR 镜像([#958](https://github.com/truecharts/apps/issues/958))
 * 更新非主要([#962](https://github.com/truecharts/apps/issues/962))
 
 #### Feat
