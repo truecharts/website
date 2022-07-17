@@ -1,6 +1,6 @@
 # strapi
 
-Strapi是最主要的无开源头的 CMS。 It’s 100% JavaScript, fully customizable and developer-first.
+Strapi是最主要的无开源头的 CMS。 它是 100% JavaScript, 完全可以自定义和先开发者。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
@@ -8,7 +8,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 * <https://hub.docker.com/r/strapi/strapi>
 * <https://github.com/strapi/strapi>
-* <https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/installation/docker.html#creating-a-strapi-project>
+* [https://docs.strapi.io/developer-docs/latest/setup-spap-guides/installation/docker.html#creating-a-strapi-project](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/installation/docker.html#creating-a-strapi-project)
 
 ## B. 所需经费
 
