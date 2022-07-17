@@ -617,7 +617,7 @@
 #### 聊天
 
 * 更新头盔的一般非主要头盔版本([#1693](https://github.com/truecharts/apps/issues/1693))
-* update docker general non-major docker tags ([#1691](https://github.com/truecharts/apps/issues/1691))
+* 更新停靠一般非主要停靠标签[#1691](https://github.com/truecharts/apps/issues/1691)
 
 
 
@@ -1186,7 +1186,7 @@
 
 #### 聊天
 
-* update non-major ([#1103](https://github.com/truecharts/apps/issues/1103))
+* 更新非主要([#1103](https://github.com/truecharts/apps/issues/1103))
 
 
 
