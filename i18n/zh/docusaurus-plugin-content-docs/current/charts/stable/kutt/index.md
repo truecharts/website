@@ -1,6 +1,6 @@
 # kutt
 
-Kutt 是一个现代的 URL 较短，支持自定义域。 Shorten URLs, manage your links and view the click rate statistics.
+Kutt 是一个现代的 URL 较短，支持自定义域。 缩短URL，管理您的链接，查看点击率统计。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
