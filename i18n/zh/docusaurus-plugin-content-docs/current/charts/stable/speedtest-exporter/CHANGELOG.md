@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [speedtest-exporter-3.0.20](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.19...speedtest-exporter-3.0.20) (2022-07-17)
+## [快速测试出口商3.0.20](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.19...speedtest-exporter-3.0.20) (2022-07-17)
 
 ### 聊天
 
@@ -9,7 +9,7 @@
 
 
 
-## [speedtest-exporter-3.0.19](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.18...speedtest-exporter-3.0.19) (2022-07-14)
+## [快速测试导出者3.0.19](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.18...speedtest-exporter-3.0.19) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [speedtest-exporter-3.0.18](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.16...speedtest-exporter-3.0.18) (2022-07-14)
+## [快速测试导出者3.0.18](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.16...speedtest-exporter-3.0.18) (2022-07-14)
 
 ### 修复
 
@@ -25,7 +25,7 @@
 
 
 
-## [speedtest-exporter-3.0.16](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.14...speedtest-exporter-3.0.16) (2022-07-12)
+## [快速测试导出者3.0.16](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.14...speedtest-exporter-3.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -34,7 +34,7 @@
 
 
 
-## [speedtest-exporter-3.0.14](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.13...speedtest-exporter-3.0.14) (2022-07-12)
+## [快速测试导出者3.0.14](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.13...speedtest-exporter-3.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -44,7 +44,7 @@
 
 <a name="speedtest-exporter-3.0.13"></a>
 
-### [speedtest-exporter-3.0.13](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.12...speedtest-exporter-3.0.13) (2022-07-12)
+### [快速测试导出者3.0.13](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.12...speedtest-exporter-3.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -54,7 +54,7 @@
 
 <a name="speedtest-exporter-3.0.12"></a>
 
-### [speedtest-exporter-3.0.12](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.11...speedtest-exporter-3.0.12) (2022-07-11)
+### [快速测试导出者3.0.12](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.11...speedtest-exporter-3.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -64,7 +64,7 @@
 
 <a name="speedtest-exporter-3.0.11"></a>
 
-### [speedtest-exporter-3.0.11](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.10...speedtest-exporter-3.0.11) (2022-07-09)
+### [快速测试导出者3.0.11](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.10...speedtest-exporter-3.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -74,7 +74,7 @@
 
 <a name="speedtest-exporter-3.0.10"></a>
 
-### [speedtest-exporter-3.0.10](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.9...speedtest-exporter-3.0.10) (2022-07-04)
+### [快速测试导出器 3.0.10](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.9...speedtest-exporter-3.0.10) (2022-07-04)
 
 #### 聊天
 
@@ -84,7 +84,7 @@
 
 <a name="speedtest-exporter-3.0.9"></a>
 
-### [speedtest-exporter-3.0.9](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.8...speedtest-exporter-3.0.9) (2022-06-30)
+### [快速测试导出器 3.0.9](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.8...speedtest-exporter-3.0.9) (2022-06-30)
 
 #### 修复
 
@@ -94,7 +94,7 @@
 
 <a name="speedtest-exporter-3.0.8"></a>
 
-### [speedtest-exporter-3.0.8](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.7...speedtest-exporter-3.0.8) (2022-06-25)
+### [快速测试导出器 3.0.8](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.7...speedtest-exporter-3.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -104,7 +104,7 @@
 
 <a name="speedtest-exporter-3.0.7"></a>
 
-### [speedtest-exporter-3.0.7](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.6...speedtest-exporter-3.0.7) (2022-06-22)
+### [快速测试导出器 3.0.7](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.6...speedtest-exporter-3.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -114,7 +114,7 @@
 
 <a name="speedtest-exporter-3.0.6"></a>
 
-### [speedtest-exporter-3.0.6](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.5...speedtest-exporter-3.0.6) (2022-06-21)
+### [快速测试导出器 3.0.6](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.5...speedtest-exporter-3.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -124,7 +124,7 @@
 
 <a name="speedtest-exporter-3.0.5"></a>
 
-### [speedtest-exporter-3.0.5](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.4...speedtest-exporter-3.0.5) (2022-06-17)
+### [快速测试出口商3.0.5](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.4...speedtest-exporter-3.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -134,7 +134,7 @@
 
 <a name="speedtest-exporter-3.0.4"></a>
 
-### [speedtest-exporter-3.0.4](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.3...speedtest-exporter-3.0.4) (2022-06-14)
+### [快速测试导出器 3.0.4](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.3...speedtest-exporter-3.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -144,7 +144,7 @@
 
 <a name="speedtest-exporter-3.0.3"></a>
 
-### [speedtest-exporter-3.0.3](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.2...speedtest-exporter-3.0.3) (2022-06-11)
+### [快速测试导出器 3.0.3](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.2...speedtest-exporter-3.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -154,7 +154,7 @@
 
 <a name="speedtest-exporter-3.0.2"></a>
 
-### [speedtest-exporter-3.0.2](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.1...speedtest-exporter-3.0.2) (2022-06-07)
+### [快速测试导出器3.0.2](https://github.com/truecharts/apps/compare/speedtest-exporter-3.0.1...speedtest-exporter-3.0.2) (2022-06-07)
 
 #### 修复
 
@@ -164,7 +164,7 @@
 
 <a name="speedtest-exporter-3.0.1"></a>
 
-### [speedtest-exporter-3.0.1](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.24...speedtest-exporter-3.0.1) (2022-06-07)
+### [快速测试导出器3.0.1](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.24...speedtest-exporter-3.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -182,7 +182,7 @@
 
 <a name="speedtest-exporter-3.0.0"></a>
 
-### [speedtest-exporter-3.0.0](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.24...speedtest-exporter-3.0.0) (2022-06-07)
+### [快速测试导出器 3.0.0](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.24...speedtest-exporter-3.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -192,7 +192,7 @@
 
 <a name="speedtest-exporter-2.0.24"></a>
 
-### [speedtest-exporter-2.0.24](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.23...speedtest-exporter-2.0.24) (2022-05-31)
+### [快速测试导出器2.0.24](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.23...speedtest-exporter-2.0.24) (2022-05-31)
 
 #### 聊天
 
@@ -202,7 +202,7 @@
 
 <a name="speedtest-exporter-2.0.23"></a>
 
-### [speedtest-exporter-2.0.23](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.22...speedtest-exporter-2.0.23) (2022-05-26)
+### [快速测试导出器2.0.23](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.22...speedtest-exporter-2.0.23) (2022-05-26)
 
 #### 聊天
 
@@ -213,7 +213,7 @@
 
 <a name="speedtest-exporter-2.0.23"></a>
 
-### [speedtest-exporter-2.0.23](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.22...speedtest-exporter-2.0.23) (2022-05-26)
+### [快速测试导出器2.0.23](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.22...speedtest-exporter-2.0.23) (2022-05-26)
 
 #### 聊天
 
@@ -223,7 +223,7 @@
 
 <a name="speedtest-exporter-2.0.22"></a>
 
-### [speedtest-exporter-2.0.22](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.21...speedtest-exporter-2.0.22) (2022-05-24)
+### [快速测试导出器2.0.22](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.21...speedtest-exporter-2.0.22) (2022-05-24)
 
 #### 聊天
 
@@ -233,7 +233,7 @@
 
 <a name="speedtest-exporter-2.0.21"></a>
 
-### [speedtest-exporter-2.0.21](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.20...speedtest-exporter-2.0.21) (2022-05-17)
+### [快速测试出口商-2.0.21](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.20...speedtest-exporter-2.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -244,7 +244,7 @@
 
 <a name="speedtest-exporter-2.0.21"></a>
 
-### [speedtest-exporter-2.0.21](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.20...speedtest-exporter-2.0.21) (2022-05-17)
+### [快速测试出口商-2.0.21](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.20...speedtest-exporter-2.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -254,7 +254,7 @@
 
 <a name="speedtest-exporter-2.0.20"></a>
 
-### [speedtest-exporter-2.0.20](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.19...speedtest-exporter-2.0.20) (2022-05-17)
+### [快速测试出口商2.0.20](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.19...speedtest-exporter-2.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -264,7 +264,7 @@
 
 <a name="speedtest-exporter-2.0.19"></a>
 
-### [speedtest-exporter-2.0.19](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.18...speedtest-exporter-2.0.19) (2022-05-10)
+### [速度测试导出器2.0.19](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.18...speedtest-exporter-2.0.19) (2022-05-10)
 
 #### 聊天
 
@@ -274,7 +274,7 @@
 
 <a name="speedtest-exporter-2.0.18"></a>
 
-### [speedtest-exporter-2.0.18](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.17...speedtest-exporter-2.0.18) (2022-05-05)
+### [快速测试导出器2.0.18](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.17...speedtest-exporter-2.0.18) (2022-05-05)
 
 #### 聊天
 
@@ -284,7 +284,7 @@
 
 <a name="speedtest-exporter-2.0.17"></a>
 
-### [speedtest-exporter-2.0.17](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.16...speedtest-exporter-2.0.17) (2022-04-26)
+### [快速测试导出器2.0.17](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.16...speedtest-exporter-2.0.17) (2022-04-26)
 
 #### 聊天
 
@@ -294,7 +294,7 @@
 
 <a name="speedtest-exporter-2.0.16"></a>
 
-### [speedtest-exporter-2.0.16](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.15...speedtest-exporter-2.0.16) (2022-04-20)
+### [快速测试导出器2.0.16](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.15...speedtest-exporter-2.0.16) (2022-04-20)
 
 #### 聊天
 
@@ -305,7 +305,7 @@
 
 <a name="speedtest-exporter-2.0.15"></a>
 
-### [speedtest-exporter-2.0.15](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.14...speedtest-exporter-2.0.15) (2022-04-13)
+### [快速测试导出器2.0.15](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.14...speedtest-exporter-2.0.15) (2022-04-13)
 
 #### 聊天
 
@@ -315,7 +315,7 @@
 
 <a name="speedtest-exporter-2.0.14"></a>
 
-### [speedtest-exporter-2.0.14](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.13...speedtest-exporter-2.0.14) (2022-04-12)
+### [快速测试导出器2.0.14](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.13...speedtest-exporter-2.0.14) (2022-04-12)
 
 #### 聊天
 
@@ -325,7 +325,7 @@
 
 <a name="speedtest-exporter-2.0.13"></a>
 
-### [speedtest-exporter-2.0.13](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.12...speedtest-exporter-2.0.13) (2022-04-12)
+### [快速测试导出器2.0.13](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.12...speedtest-exporter-2.0.13) (2022-04-12)
 
 #### 聊天
 
@@ -335,7 +335,7 @@
 
 <a name="speedtest-exporter-2.0.12"></a>
 
-### [speedtest-exporter-2.0.12](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.11...speedtest-exporter-2.0.12) (2022-04-03)
+### [快速测试导出器2.0.12](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.11...speedtest-exporter-2.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -345,7 +345,7 @@
 
 <a name="speedtest-exporter-2.0.11"></a>
 
-### [speedtest-exporter-2.0.11](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.10...speedtest-exporter-2.0.11) (2022-03-31)
+### [快速测试导出器2.0.11](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.10...speedtest-exporter-2.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -355,7 +355,7 @@
 
 <a name="speedtest-exporter-2.0.10"></a>
 
-### [speedtest-exporter-2.0.10](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.9...speedtest-exporter-2.0.10) (2022-03-30)
+### [快速测试导出器2.0.10](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.9...speedtest-exporter-2.0.10) (2022-03-30)
 
 #### 聊天
 
@@ -365,7 +365,7 @@
 
 <a name="speedtest-exporter-2.0.9"></a>
 
-### [speedtest-exporter-2.0.9](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.8...speedtest-exporter-2.0.9) (2022-03-30)
+### [快速测试导出器2.0.9](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.8...speedtest-exporter-2.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -375,7 +375,7 @@
 
 <a name="speedtest-exporter-2.0.8"></a>
 
-### [speedtest-exporter-2.0.8](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.7...speedtest-exporter-2.0.8) (2022-03-28)
+### [快速测试导出器2.0.8](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.7...speedtest-exporter-2.0.8) (2022-03-28)
 
 #### 聊天
 
@@ -385,7 +385,7 @@
 
 <a name="speedtest-exporter-2.0.7"></a>
 
-### [speedtest-exporter-2.0.7](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.6...speedtest-exporter-2.0.7) (2022-03-26)
+### [快速测试导出者2.0.7](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.6...speedtest-exporter-2.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -395,7 +395,7 @@
 
 <a name="speedtest-exporter-2.0.2"></a>
 
-### [speedtest-exporter-2.0.2](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.1...speedtest-exporter-2.0.2) (2022-03-07)
+### [快速测试导出器2.0.2](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.1...speedtest-exporter-2.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -405,7 +405,7 @@
 
 <a name="speedtest-exporter-2.0.1"></a>
 
-### [speedtest-exporter-2.0.1](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.0...speedtest-exporter-2.0.1) (2022-03-07)
+### [快速测试导出器2.0.1](https://github.com/truecharts/apps/compare/speedtest-exporter-2.0.0...speedtest-exporter-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -416,7 +416,7 @@
 
 <a name="speedtest-exporter-2.0.0"></a>
 
-### [speedtest-exporter-2.0.0](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.30...speedtest-exporter-2.0.0) (2022-03-03)
+### [speedest-exportter-2.0.0](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.30...speedtest-exporter-2.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -433,7 +433,7 @@
 
 <a name="speedtest-exporter-1.0.30"></a>
 
-### [speedtest-exporter-1.0.30](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.29...speedtest-exporter-1.0.30) (2022-03-02)
+### [快速测试导出器1.0.30](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.29...speedtest-exporter-1.0.30) (2022-03-02)
 
 #### 聊天
 
@@ -443,7 +443,7 @@
 
 <a name="speedtest-exporter-1.0.29"></a>
 
-### [speedtest-exporter-1.0.29](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.28...speedtest-exporter-1.0.29) (2022-02-21)
+### [快速测试导出器1.0.29](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.28...speedtest-exporter-1.0.29) (2022-02-21)
 
 #### 聊天
 
@@ -453,7 +453,7 @@
 
 <a name="speedtest-exporter-1.0.28"></a>
 
-### [speedtest-exporter-1.0.28](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.27...speedtest-exporter-1.0.28) (2022-02-15)
+### [快速测试出口商1.0.28](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.27...speedtest-exporter-1.0.28) (2022-02-15)
 
 #### 聊天
 
@@ -463,7 +463,7 @@
 
 <a name="speedtest-exporter-1.0.27"></a>
 
-### [speedtest-exporter-1.0.27](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.26...speedtest-exporter-1.0.27) (2022-02-08)
+### [快速测试导出器1.0.27](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.26...speedtest-exporter-1.0.27) (2022-02-08)
 
 #### 聊天
 
@@ -473,7 +473,7 @@
 
 <a name="speedtest-exporter-1.0.26"></a>
 
-### [speedtest-exporter-1.0.26](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.25...speedtest-exporter-1.0.26) (2022-02-06)
+### [快速测试导出器1.0.26](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.25...speedtest-exporter-1.0.26) (2022-02-06)
 
 #### 聊天
 
@@ -483,7 +483,7 @@
 
 <a name="speedtest-exporter-1.0.25"></a>
 
-### [speedtest-exporter-1.0.25](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.24...speedtest-exporter-1.0.25) (2022-02-05)
+### [快速测试导出器1.0.25](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.24...speedtest-exporter-1.0.25) (2022-02-05)
 
 #### 聊天
 
@@ -493,7 +493,7 @@
 
 <a name="speedtest-exporter-1.0.24"></a>
 
-### [speedtest-exporter-1.0.24](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.23...speedtest-exporter-1.0.24) (2022-02-02)
+### [快速测试导出器1.0.24](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.23...speedtest-exporter-1.0.24) (2022-02-02)
 
 #### 聊天
 
@@ -503,7 +503,7 @@
 
 <a name="speedtest-exporter-1.0.23"></a>
 
-### [speedtest-exporter-1.0.23](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.22...speedtest-exporter-1.0.23) (2022-01-25)
+### [快速测试导出器1.0.23](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.22...speedtest-exporter-1.0.23) (2022-01-25)
 
 #### 聊天
 
@@ -513,7 +513,7 @@
 
 <a name="speedtest-exporter-1.0.22"></a>
 
-### [speedtest-exporter-1.0.22](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.21...speedtest-exporter-1.0.22) (2022-01-22)
+### [快速测试导出器1.0.22](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.21...speedtest-exporter-1.0.22) (2022-01-22)
 
 #### 聊天
 
@@ -523,7 +523,7 @@
 
 <a name="speedtest-exporter-1.0.21"></a>
 
-### [speedtest-exporter-1.0.21](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.20...speedtest-exporter-1.0.21) (2022-01-21)
+### [快速测试导出器1.0.21](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.20...speedtest-exporter-1.0.21) (2022-01-21)
 
 #### 聊天
 
@@ -537,7 +537,7 @@
 
 <a name="speedtest-exporter-1.0.20"></a>
 
-### [speedtest-exporter-1.0.20](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.19...speedtest-exporter-1.0.20) (2022-01-18)
+### [speedest-exportter-1.0.20](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.19...speedtest-exporter-1.0.20) (2022-01-18)
 
 #### 聊天
 
@@ -547,7 +547,7 @@
 
 <a name="speedtest-exporter-1.0.19"></a>
 
-### [speedtest-exporter-1.0.19](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.18...speedtest-exporter-1.0.19) (2022-01-13)
+### [速度测试导出器1.0.19](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.18...speedtest-exporter-1.0.19) (2022-01-13)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="speedtest-exporter-1.0.18"></a>
 
-### [speedtest-exporter-1.0.18](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.17...speedtest-exporter-1.0.18) (2022-01-12)
+### [快速测试导出器1.0.18](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.17...speedtest-exporter-1.0.18) (2022-01-12)
 
 #### 聊天
 
@@ -571,7 +571,7 @@
 
 <a name="speedtest-exporter-1.0.17"></a>
 
-### [speedtest-exporter-1.0.17](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.16...speedtest-exporter-1.0.17) (2022-01-11)
+### [快速测试导出器1.0.17](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.16...speedtest-exporter-1.0.17) (2022-01-11)
 
 #### 聊天
 
@@ -581,7 +581,7 @@
 
 <a name="speedtest-exporter-1.0.16"></a>
 
-### [speedtest-exporter-1.0.16](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.15...speedtest-exporter-1.0.16) (2022-01-04)
+### [快速测试导出器1.0.16](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.15...speedtest-exporter-1.0.16) (2022-01-04)
 
 #### 聊天
 
@@ -591,7 +591,7 @@
 
 <a name="speedtest-exporter-1.0.15"></a>
 
-### [speedtest-exporter-1.0.15](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.14...speedtest-exporter-1.0.15) (2022-01-03)
+### [快速测试导出器1.0.15](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.14...speedtest-exporter-1.0.15) (2022-01-03)
 
 #### 聊天
 
@@ -601,7 +601,7 @@
 
 <a name="speedtest-exporter-1.0.14"></a>
 
-### [speedtest-exporter-1.0.14](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.13...speedtest-exporter-1.0.14) (2021-12-28)
+### [快速测试导出器1.0.14](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.13...speedtest-exporter-1.0.14) (2021-12-28)
 
 #### 聊天
 
@@ -611,7 +611,7 @@
 
 <a name="speedtest-exporter-1.0.13"></a>
 
-### [speedtest-exporter-1.0.13](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.12...speedtest-exporter-1.0.13) (2021-12-21)
+### [速度测试导出器1.0.13](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.12...speedtest-exporter-1.0.13) (2021-12-21)
 
 #### 聊天
 
@@ -621,7 +621,7 @@
 
 <a name="speedtest-exporter-1.0.12"></a>
 
-### [speedtest-exporter-1.0.12](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.11...speedtest-exporter-1.0.12) (2021-12-19)
+### [速度测试导出器1.0.12](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.11...speedtest-exporter-1.0.12) (2021-12-19)
 
 #### 聊天
 
@@ -631,7 +631,7 @@
 
 <a name="speedtest-exporter-1.0.11"></a>
 
-### [speedtest-exporter-1.0.11](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.10...speedtest-exporter-1.0.11) (2021-12-19)
+### [快速测试出口商1.0.11](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.10...speedtest-exporter-1.0.11) (2021-12-19)
 
 #### 聊天
 
@@ -641,7 +641,7 @@
 
 <a name="speedtest-exporter-1.0.10"></a>
 
-### [speedtest-exporter-1.0.10](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.9...speedtest-exporter-1.0.10) (2021-12-18)
+### [speedest-exportter-1.0.10](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.9...speedtest-exporter-1.0.10) (2021-12-18岁)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="speedtest-exporter-1.0.9"></a>
 
-### [speedtest-exporter-1.0.9](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.8...speedtest-exporter-1.0.9) (2021-12-14)
+### [快速测试导出器1.0.9](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.8...speedtest-exporter-1.0.9) (2021-12-14)
 
 #### 聊天
 
@@ -662,7 +662,7 @@
 
 <a name="speedtest-exporter-1.0.8"></a>
 
-### [speedtest-exporter-1.0.8](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.7...speedtest-exporter-1.0.8) (2021-12-13)
+### [快速测试导出器1.0.8](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.7...speedtest-exporter-1.0.8) (2021-12-13)
 
 #### 聊天
 
@@ -672,7 +672,7 @@
 
 <a name="speedtest-exporter-1.0.7"></a>
 
-### [speedtest-exporter-1.0.7](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.6...speedtest-exporter-1.0.7) (2021-12-11)
+### [快速测试导出器1.0.7](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.6...speedtest-exporter-1.0.7) (2021-12-11)
 
 #### 聊天
 
@@ -682,7 +682,7 @@
 
 <a name="speedtest-exporter-1.0.6"></a>
 
-### [speedtest-exporter-1.0.6](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.5...speedtest-exporter-1.0.6) (2021-12-07)
+### [快速测试导出器1.0.6](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.5...speedtest-exporter-1.0.6) (2021-12-07)
 
 #### 聊天
 
@@ -692,7 +692,7 @@
 
 <a name="speedtest-exporter-1.0.5"></a>
 
-### speedtest-exporter-1.0.5 (2021-12-05)
+### 快速出口商1.0.5 (2021-12-05)
 
 #### 聊天
 
@@ -711,7 +711,7 @@
 
 <a name="speedtest-exporter-1.0.4"></a>
 
-### [speedtest-exporter-1.0.4](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.3...speedtest-exporter-1.0.4) (2021-12-05)
+### [快速测试导出器1.0.4](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.3...speedtest-exporter-1.0.4) (2021-12-05)
 
 #### 聊天
 
@@ -721,7 +721,7 @@
 
 <a name="speedtest-exporter-1.0.3"></a>
 
-### [speedtest-exporter-1.0.3](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.2...speedtest-exporter-1.0.3) (2021-12-04)
+### [快速测试导出器1.0.3](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.2...speedtest-exporter-1.0.3) (2021-12-04)
 
 #### 聊天
 
@@ -731,7 +731,7 @@
 
 <a name="speedtest-exporter-1.0.2"></a>
 
-### [speedtest-exporter-1.0.2](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.1...speedtest-exporter-1.0.2) (2021-12-04)
+### [快速测试导出器1.0.2](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.1...speedtest-exporter-1.0.2) (2021-12-04)
 
 #### 聊天
 
@@ -742,7 +742,7 @@
 
 <a name="speedtest-exporter-1.0.1"></a>
 
-### [speedtest-exporter-1.0.1](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.0...speedtest-exporter-1.0.1) (2021-11-30)
+### [快速测试导出器1.0.1](https://github.com/truecharts/apps/compare/speedtest-exporter-1.0.0...speedtest-exporter-1.0.1) (2021-11-30)
 
 #### 聊天
 
@@ -752,28 +752,28 @@
 
 <a name="speedtest-exporter-1.0.0"></a>
 
-### [speedtest-exporter-1.0.0](https://github.com/truecharts/apps/compare/speedtest-exporter-0.0.2...speedtest-exporter-1.0.0) (2021-11-24)
+### [高速测试导出器1.0.0](https://github.com/truecharts/apps/compare/speedtest-exporter-0.0.2...speedtest-exporter-1.0.0) (2021-11-24)
 
 #### 修复
 
-* allow write to filesystem and move to stable
+* 允许写入文件系统并移动到稳定的
 
 
 
 <a name="speedtest-exporter-0.0.2"></a>
 
-### [speedtest-exporter-0.0.2](https://github.com/truecharts/apps/compare/speedtest-exporter-0.0.1...speedtest-exporter-0.0.2) (2021-11-23)
+### [快速测试导出器0.0.2](https://github.com/truecharts/apps/compare/speedtest-exporter-0.0.1...speedtest-exporter-0.0.2) (2021-11-23)
 
 #### 聊天
 
-* update non-major ([#1390](https://github.com/truecharts/apps/issues/1390))
+* 更新非主要([#1390](https://github.com/truecharts/apps/issues/1390))
 
 
 
 <a name="speedtest-exporter-0.0.1"></a>
 
-### speedtest-exporter-0.0.1 (2021-11-23)
+### 快速测试出口商0.0.1 (2021-11-23)
 
 #### Feat
 
-* add some prometheus exporter-Apps ([#1388](https://github.com/truecharts/apps/issues/1388))
+* 添加一些导星导出器应用程序([#1388](https://github.com/truecharts/apps/issues/1388))
