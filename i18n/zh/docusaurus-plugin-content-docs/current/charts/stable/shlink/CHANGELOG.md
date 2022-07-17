@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [shlink-4.0.19](https://github.com/truecharts/apps/compare/shlink-4.0.18...shlink-4.0.19) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [shlink-4.0.18](https://github.com/truecharts/apps/compare/shlink-4.0.16...shlink-4.0.18) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [shlink-4.0.16](https://github.com/truecharts/apps/compare/shlink-4.0.14...shlink-4.0.16) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [shlink-4.0.14](https://github.com/truecharts/apps/compare/shlink-web-client-3.0.12...shlink-4.0.14) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [shlink-4.0.13](https://github.com/truecharts/apps/compare/shlink-web-client-3.0.11...shlink-4.0.13) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [shlink-4.0.12](https://github.com/truecharts/apps/compare/shlink-4.0.11...shlink-4.0.12) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,9 +58,9 @@
 
 ### [shlink-4.0.11](https://github.com/truecharts/apps/compare/shlink-4.0.10...shlink-4.0.11) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -68,9 +68,9 @@
 
 ### [shlink-4.0.10](https://github.com/truecharts/apps/compare/shlink-4.0.9...shlink-4.0.10) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3075](https://github.com/truecharts/apps/issues/3075))
+* 更新头盔的一般非主头盔版本([#3075](https://github.com/truecharts/apps/issues/3075))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [shlink-4.0.9](https://github.com/truecharts/apps/compare/shlink-4.0.8...shlink-4.0.9) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [shlink-4.0.8](https://github.com/truecharts/apps/compare/shlink-web-client-3.0.7...shlink-4.0.8) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -98,9 +98,9 @@
 
 ### [shlink-4.0.7](https://github.com/truecharts/apps/compare/shlink-4.0.6...shlink-4.0.7) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -108,9 +108,9 @@
 
 ### [shlink-4.0.6](https://github.com/truecharts/apps/compare/shlink-web-client-3.0.5...shlink-4.0.6) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [shlink-4.0.5](https://github.com/truecharts/apps/compare/shlink-4.0.4...shlink-4.0.5) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* Sync questions and values env's ([#2916](https://github.com/truecharts/apps/issues/2916))
+* 同步问题和值 Env ([#2916](https://github.com/truecharts/apps/issues/2916))
 
 
 
@@ -128,9 +128,9 @@
 
 ### [shlink-4.0.4](https://github.com/truecharts/apps/compare/shlink-4.0.3...shlink-4.0.4) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2887](https://github.com/truecharts/apps/issues/2887))
+* 更新头盔的一般非主头盔版本([#2887](https://github.com/truecharts/apps/issues/2887))
 
 
 
@@ -138,9 +138,9 @@
 
 ### [shlink-4.0.3](https://github.com/truecharts/apps/compare/shlink-4.0.2...shlink-4.0.3) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -148,9 +148,9 @@
 
 ### [shlink-4.0.2](https://github.com/truecharts/apps/compare/shlink-web-client-3.0.3...shlink-4.0.2) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2873](https://github.com/truecharts/apps/issues/2873))
+* 更新头盔的一般非主头盔版本([#2873](https://github.com/truecharts/apps/issues/2873))
 
 
 
@@ -158,9 +158,9 @@
 
 ### [shlink-4.0.1](https://github.com/truecharts/apps/compare/shlink-4.0.0...shlink-4.0.1) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -168,13 +168,13 @@
 
 ### [shlink-4.0.0](https://github.com/truecharts/apps/compare/shlink-3.0.1...shlink-4.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* update helm general major helm releases ([#2804](https://github.com/truecharts/apps/issues/2804))
+* 更新头盔主要头盔版本([#2804](https://github.com/truecharts/apps/issues/2804))
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -182,18 +182,18 @@
 
 ### [shlink-3.0.1](https://github.com/truecharts/apps/compare/shlink-2.0.27...shlink-3.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2838](https://github.com/truecharts/apps/issues/2838))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主头盔版本([#2838](https://github.com/truecharts/apps/issues/2838))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -201,9 +201,9 @@
 
 ### [shlink-3.0.0](https://github.com/truecharts/apps/compare/shlink-2.0.27...shlink-3.0.0) (2022-06-07)
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -211,9 +211,9 @@
 
 ### [shlink-2.0.27](https://github.com/truecharts/apps/compare/shlink-2.0.26...shlink-2.0.27) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2826](https://github.com/truecharts/apps/issues/2826))
+* 更新一般的非主要泊车位([#2826](https://github.com/truecharts/apps/issues/2826))
 
 
 
@@ -221,20 +221,9 @@
 
 ### [shlink-2.0.26](https://github.com/truecharts/apps/compare/shlink-2.0.25...shlink-2.0.26) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="shlink-2.0.25"></a>
-
-### [shlink-2.0.25](https://github.com/truecharts/apps/compare/shlink-2.0.24...shlink-2.0.25) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -242,9 +231,20 @@
 
 ### [shlink-2.0.25](https://github.com/truecharts/apps/compare/shlink-2.0.24...shlink-2.0.25) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="shlink-2.0.25"></a>
+
+### [shlink-2.0.25](https://github.com/truecharts/apps/compare/shlink-2.0.24...shlink-2.0.25) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -252,20 +252,9 @@
 
 ### [shlink-2.0.24](https://github.com/truecharts/apps/compare/shlink-2.0.23...shlink-2.0.24) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="shlink-2.0.23"></a>
-
-### [shlink-2.0.23](https://github.com/truecharts/apps/compare/shlink-web-client-2.0.16...shlink-2.0.23) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -273,9 +262,20 @@
 
 ### [shlink-2.0.23](https://github.com/truecharts/apps/compare/shlink-web-client-2.0.16...shlink-2.0.23) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="shlink-2.0.23"></a>
+
+### [shlink-2.0.23](https://github.com/truecharts/apps/compare/shlink-web-client-2.0.16...shlink-2.0.23) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -283,9 +283,9 @@
 
 ### [shlink-2.0.22](https://github.com/truecharts/apps/compare/shlink-web-client-2.0.15...shlink-2.0.22) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -293,9 +293,9 @@
 
 ### [shlink-2.0.21](https://github.com/truecharts/apps/compare/shlink-2.0.20...shlink-2.0.21) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -303,9 +303,9 @@
 
 ### [shlink-2.0.20](https://github.com/truecharts/apps/compare/shlink-2.0.19...shlink-2.0.20) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -313,9 +313,9 @@
 
 ### [shlink-2.0.19](https://github.com/truecharts/apps/compare/shlink-2.0.18...shlink-2.0.19) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -323,9 +323,9 @@
 
 ### [shlink-2.0.18](https://github.com/truecharts/apps/compare/shlink-web-client-2.0.12...shlink-2.0.18) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2605](https://github.com/truecharts/apps/issues/2605))
+* 更新头盔的一般非主头盔版本([#2605](https://github.com/truecharts/apps/issues/2605))
 
 
 
@@ -333,9 +333,9 @@
 
 ### [shlink-2.0.17](https://github.com/truecharts/apps/compare/shlink-2.0.16...shlink-2.0.17) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -343,9 +343,9 @@
 
 ### [shlink-2.0.16](https://github.com/truecharts/apps/compare/shlink-2.0.15...shlink-2.0.16) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2571](https://github.com/truecharts/apps/issues/2571))
+* 更新一般的非主码([#2571](https://github.com/truecharts/apps/issues/2571))
 
 
 
@@ -353,10 +353,10 @@
 
 ### [shlink-2.0.15](https://github.com/truecharts/apps/compare/shlink-2.0.14...shlink-2.0.15) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -364,9 +364,9 @@
 
 ### [shlink-2.0.14](https://github.com/truecharts/apps/compare/shlink-web-client-2.0.9...shlink-2.0.14) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -374,9 +374,9 @@
 
 ### [shlink-2.0.13](https://github.com/truecharts/apps/compare/shlink-2.0.12...shlink-2.0.13) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
@@ -384,9 +384,9 @@
 
 ### [shlink-2.0.12](https://github.com/truecharts/apps/compare/shlink-web-client-2.0.8...shlink-2.0.12) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2362](https://github.com/truecharts/apps/issues/2362))
+* 更新头盔的一般非主头盔版本([#2362](https://github.com/truecharts/apps/issues/2362))
 
 
 
@@ -394,9 +394,9 @@
 
 ### [shlink-2.0.11](https://github.com/truecharts/apps/compare/shlink-2.0.10...shlink-2.0.11) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
@@ -404,10 +404,10 @@
 
 ### [shlink-2.0.10](https://github.com/truecharts/apps/compare/shlink-2.0.9...shlink-2.0.10) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Use new repo ([#2337](https://github.com/truecharts/apps/issues/2337))
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 使用新仓库([#2337](https://github.com/truecharts/apps/issues/2337))
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
@@ -415,9 +415,9 @@
 
 ### [shlink-2.0.9](https://github.com/truecharts/apps/compare/shlink-2.0.8...shlink-2.0.9) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2290](https://github.com/truecharts/apps/issues/2290))
+* 更新头盔的一般非主头盔版本([#2290](https://github.com/truecharts/apps/issues/2290))
 
 
 
@@ -425,9 +425,9 @@
 
 ### [shlink-2.0.8](https://github.com/truecharts/apps/compare/shlink-2.0.7...shlink-2.0.8) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -435,9 +435,9 @@
 
 ### [shlink-2.0.3](https://github.com/truecharts/apps/compare/shlink-2.0.2...shlink-2.0.3) (2022-03-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2116](https://github.com/truecharts/apps/issues/2116))
+* 更新头盔的一般非主头盔版本([#2116](https://github.com/truecharts/apps/issues/2116))
 
 
 
@@ -445,9 +445,9 @@
 
 ### [shlink-2.0.2](https://github.com/truecharts/apps/compare/shlink-2.0.1...shlink-2.0.2) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2111](https://github.com/truecharts/apps/issues/2111))
+* 更新头盔的一般非主头盔版本([#211](https://github.com/truecharts/apps/issues/2111))
 
 
 
@@ -455,10 +455,10 @@
 
 ### [shlink-2.0.1](https://github.com/truecharts/apps/compare/shlink-2.0.0...shlink-2.0.1) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2046](https://github.com/truecharts/apps/issues/2046))
-* Remove `-icon` string from icon png's ([#2040](https://github.com/truecharts/apps/issues/2040))
+* 更新一般的非主码([#2046](https://github.com/truecharts/apps/issues/2046))
+* 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
 
@@ -466,14 +466,14 @@
 
 ### [shlink-2.0.0](https://github.com/truecharts/apps/compare/shlink-web-client-1.0.10...shlink-2.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* update helm general major helm releases ([#2021](https://github.com/truecharts/apps/issues/2021))
+* 从问题.yaml 中移除固定的 env
+* 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
@@ -481,9 +481,9 @@
 
 ### [shlink-1.0.14](https://github.com/truecharts/apps/compare/shlink-web-client-1.0.9...shlink-1.0.14) (2022-03-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1999](https://github.com/truecharts/apps/issues/1999))
+* 更新头盔的一般非主要头盔版本([#1999](https://github.com/truecharts/apps/issues/1999))
 
 
 
@@ -491,9 +491,9 @@
 
 ### [shlink-1.0.13](https://github.com/truecharts/apps/compare/shlink-1.0.12...shlink-1.0.13) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1927](https://github.com/truecharts/apps/issues/1927))
+* 更新头盔的一般非主要头盔版本([#1927](https://github.com/truecharts/apps/issues/1927))
 
 
 
@@ -501,9 +501,9 @@
 
 ### [shlink-1.0.12](https://github.com/truecharts/apps/compare/shlink-1.0.11...shlink-1.0.12) (2022-02-15)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1901](https://github.com/truecharts/apps/issues/1901))
+* 更新头盔的一般非主要头盔版本([#1901](https://github.com/truecharts/apps/issues/1901))
 
 
 
@@ -511,9 +511,9 @@
 
 ### [shlink-1.0.11](https://github.com/truecharts/apps/compare/shlink-web-client-1.0.7...shlink-1.0.11) (2022-02-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1876](https://github.com/truecharts/apps/issues/1876))
+* 更新一般的非主要泊车位([#1876](https://github.com/truecharts/apps/issues/1876))
 
 
 
@@ -521,9 +521,9 @@
 
 ### [shlink-1.0.10](https://github.com/truecharts/apps/compare/shlink-1.0.9...shlink-1.0.10) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1871](https://github.com/truecharts/apps/issues/1871))
+* 更新头盔的一般非主头盔版本([#1871](https://github.com/truecharts/apps/issues/1871))
 
 
 
@@ -531,9 +531,9 @@
 
 ### [shlink-1.0.9](https://github.com/truecharts/apps/compare/shlink-1.0.8...shlink-1.0.9) (2022-02-06)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.0 ([#1859](https://github.com/truecharts/apps/issues/1859))
+* 更新通用的 v8.15.0 头盔图表([#1859](https://github.com/truecharts/apps/issues/1859))
 
 
 
@@ -541,9 +541,9 @@
 
 ### [shlink-1.0.8](https://github.com/truecharts/apps/compare/shlink-1.0.7...shlink-1.0.8) (2022-02-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1852](https://github.com/truecharts/apps/issues/1852))
+* 更新头盔的一般非主头盔版本([#1852](https://github.com/truecharts/apps/issues/1852))
 
 
 
@@ -551,9 +551,9 @@
 
 ### [shlink-1.0.7](https://github.com/truecharts/apps/compare/shlink-1.0.6...shlink-1.0.7) (2022-02-03)
 
-#### Chore
+#### 聊天
 
-* update docker general major docker tags (major) ([#1835](https://github.com/truecharts/apps/issues/1835))
+* 更新 docker 一般主要停靠标签 (主要) ([#1835](https://github.com/truecharts/apps/issues/1835))
 
 
 
@@ -561,9 +561,9 @@
 
 ### [shlink-1.0.6](https://github.com/truecharts/apps/compare/shlink-1.0.5...shlink-1.0.6) (2022-02-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1828](https://github.com/truecharts/apps/issues/1828))
+* 更新头盔的一般非主要头盔版本([#1828](https://github.com/truecharts/apps/issues/1828))
 
 
 
@@ -571,9 +571,9 @@
 
 ### [shlink-1.0.5](https://github.com/truecharts/apps/compare/shlink-1.0.4...shlink-1.0.5) (2022-01-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1791](https://github.com/truecharts/apps/issues/1791))
+* 更新头盔的一般非主头盔版本([#1791](https://github.com/truecharts/apps/issues/1791))
 
 
 
@@ -581,9 +581,9 @@
 
 ### [shlink-1.0.4](https://github.com/truecharts/apps/compare/shlink-1.0.3...shlink-1.0.4) (2022-01-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1786](https://github.com/truecharts/apps/issues/1786))
+* 更新一般的非主码([#1786](https://github.com/truecharts/apps/issues/1786))
 
 
 
@@ -591,9 +591,9 @@
 
 ### [shlink-1.0.3](https://github.com/truecharts/apps/compare/shlink-1.0.2...shlink-1.0.3) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1766](https://github.com/truecharts/apps/issues/1766))
+* 更新头盔的一般非主头盔版本([#1766](https://github.com/truecharts/apps/issues/1766))
 
 
 
@@ -601,9 +601,9 @@
 
 ### [shlink-1.0.2](https://github.com/truecharts/apps/compare/shlink-1.0.1...shlink-1.0.2) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1763](https://github.com/truecharts/apps/issues/1763))
+* 更新头盔的一般非主头盔版本([#1763](https://github.com/truecharts/apps/issues/1763))
 
 
 
@@ -611,13 +611,13 @@
 
 ### [shlink-1.0.1](https://github.com/truecharts/apps/compare/shlink-1.0.0...shlink-1.0.1) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1759](https://github.com/truecharts/apps/issues/1759))
+* 更新头盔的一般非主要头盔版本([#1759](https://github.com/truecharts/apps/issues/1759))
 
-#### Fix
+#### 修复
 
-* set additional_attrs: true on all dicts ([#1750](https://github.com/truecharts/apps/issues/1750))
+* 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
 
 
 
@@ -635,9 +635,9 @@
 
 ### [shlink-0.0.9](https://github.com/truecharts/apps/compare/shlink-0.0.8...shlink-0.0.9) (2022-01-18)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1732](https://github.com/truecharts/apps/issues/1732))
+* 更新头盔的一般非主头盔版本([#1732](https://github.com/truecharts/apps/issues/1732))
 
 
 
@@ -645,13 +645,13 @@
 
 ### [shlink-0.0.8](https://github.com/truecharts/apps/compare/shlink-0.0.7...shlink-0.0.8) (2022-01-13)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1712](https://github.com/truecharts/apps/issues/1712))
+* 更新头盔的一般非主头盔版本([#1712](https://github.com/truecharts/apps/issues/1712))
 
 #### Feat
 
-* expose capabilities in GUI ([#1709](https://github.com/truecharts/apps/issues/1709))
+* 在图形界面显示能力 ([#1709](https://github.com/truecharts/apps/issues/1709))
 
 
 
@@ -659,9 +659,9 @@
 
 ### [shlink-0.0.7](https://github.com/truecharts/apps/compare/shlink-0.0.6...shlink-0.0.7) (2022-01-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1704](https://github.com/truecharts/apps/issues/1704))
+* 更新头盔的一般非主头盔版本([#1704](https://github.com/truecharts/apps/issues/1704))
 
 
 
@@ -669,9 +669,9 @@
 
 ### [shlink-0.0.6](https://github.com/truecharts/apps/compare/shlink-web-client-0.0.4...shlink-0.0.6) (2022-01-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1693](https://github.com/truecharts/apps/issues/1693))
+* 更新头盔的一般非主要头盔版本([#1693](https://github.com/truecharts/apps/issues/1693))
 
 
 
@@ -690,9 +690,9 @@
 
 ### [shlink-0.0.4](https://github.com/truecharts/apps/compare/shlink-web-client-0.0.2...shlink-0.0.4) (2022-01-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -700,9 +700,9 @@
 
 ### [shlink-0.0.3](https://github.com/truecharts/apps/compare/shlink-0.0.2...shlink-0.0.3) (2021-12-28)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1623](https://github.com/truecharts/apps/issues/1623))
+* 更新头盔的一般非主要头盔版本([#1623](https://github.com/truecharts/apps/issues/1623))
 
 
 
@@ -710,7 +710,7 @@
 
 ### [shlink-0.0.2](https://github.com/truecharts/apps/compare/shlink-0.0.1...shlink-0.0.2) (2021-12-28)
 
-#### Fix
+#### 修复
 
 * protocol is `HTTP` ([#1619](https://github.com/truecharts/apps/issues/1619))
 
