@@ -1,12 +1,12 @@
 # reg
 
-Docker registry v2 command line client and repo listing generator with security checks.
+Docker registration v2 命令行客户端和带安全检查的repo listing Generator。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://github.com/genuinetools/reg>
+* [https://github.com/truinettools/reg](https://github.com/genuinetools/reg)
 * <https://github.com/k8s-at-home/container-images/>
 
 ## B. 所需经费
