@@ -80,7 +80,7 @@
 
 #### 聊天
 
-* manually update ([#3088](https://github.com/truecharts/apps/issues/3088))
+* 手动更新 ([#3088](https://github.com/truecharts/apps/issues/3088))
 
 
 
@@ -327,7 +327,7 @@
 #### 聊天
 
 * 自动更新README图表 [跳过 ci]
-* Update digest ([#2385](https://github.com/truecharts/apps/issues/2385))
+* 更新摘要 ([#2385](https://github.com/truecharts/apps/issues/2385))
 
 #### 修复
 
@@ -856,7 +856,7 @@
 
 <a name="heimdall-9.0.4"></a>
 
-### [heimdall-9.0.4](https://github.com/truecharts/apps/compare/heimdall-9.0.3...heimdall-9.0.4) (2021-11-01)
+### [Heimdall-9.0.4](https://github.com/truecharts/apps/compare/heimdall-9.0.3...heimdall-9.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -886,7 +886,7 @@
 
 <a name="heimdall-9.0.1"></a>
 
-### [heimdall-9.0.1](https://github.com/truecharts/apps/compare/heimdall-9.0.0...heimdall-9.0.1) (2021-10-26)
+### [Heimdall-9.0.1](https://github.com/truecharts/apps/compare/heimdall-9.0.0...heimdall-9.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1006,7 +1006,7 @@
 
 <a name="heimdall-8.0.9"></a>
 
-### [heimdall-8.0.9](https://github.com/truecharts/apps/compare/heimdall-8.0.8...heimdall-8.0.9) (2021-10-12)
+### [Heimdall-8.0.9](https://github.com/truecharts/apps/compare/heimdall-8.0.8...heimdall-8.0.9) (2021-10-12)
 
 #### 聊天
 
