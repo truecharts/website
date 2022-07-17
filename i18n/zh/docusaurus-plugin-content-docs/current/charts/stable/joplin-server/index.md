@@ -6,9 +6,9 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/laurent22/joplin/tree/dev/packages/server>
-* <https://github.com/laurent22/joplin>
-* <https://hub.docker.com/r/joplin/server>
+* [https://github.com/ laurent22/joplin/tree/dev/packes/server](https://github.com/laurent22/joplin/tree/dev/packages/server)
+* [https://github.com/ laurent22/joplin](https://github.com/laurent22/joplin)
+* [https://hub.docker.com/r/joplin/服务器](https://hub.docker.com/r/joplin/server)
 
 ## B. 所需经费
 
