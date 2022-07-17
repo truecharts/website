@@ -1,140 +1,140 @@
-# Changelog
+# 更新日志
 
 
-## [cloudflareddns-0.0.16](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.15...cloudflareddns-0.0.16) (2022-07-17)
+## [云层-0.0.16](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.15...cloudflareddns-0.0.16) (2022-07-17)
 
-### Chore
+### 聊天
 
-- Auto-update chart README [skip ci]
-- extend linter and apply lint ([#3200](https://github.com/truecharts/apps/issues/3200))
+- 自动更新README图表 [跳过 ci]
+- 扩展直线并应用直线 ([#3200](https://github.com/truecharts/apps/issues/3200))
 
 ### Feat
 
-- Add Setup-Guide for cloudflareddns ([#3197](https://github.com/truecharts/apps/issues/3197))
+- 为云端点添加 Setup-Guide ([#3197](https://github.com/truecharts/apps/issues/3197))
 
 
 
-## [cloudflareddns-0.0.15](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.14...cloudflareddns-0.0.15) (2022-07-14)
+## [云层-0.0.15](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.14...cloudflareddns-0.0.15) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
-
-
-
-## [cloudflareddns-0.0.14](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.12...cloudflareddns-0.0.14) (2022-07-14)
-
-### Fix
-
-- bump to ensure .helmignore is present on all Charts
+- 重新生成目录并更新模板
 
 
 
-## [cloudflareddns-0.0.12](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.10...cloudflareddns-0.0.12) (2022-07-12)
+## [云层-0.0.14](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.12...cloudflareddns-0.0.14) (2022-07-14)
 
-### Chore
+### 修复
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
-
+- bump 以确保.helmnote存在于所有图表
 
 
-## [cloudflareddns-0.0.10](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.9...cloudflareddns-0.0.10) (2022-07-12)
 
-### Chore
+## [云层-0.0.12](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.10...cloudflareddns-0.0.12) (2022-07-12)
 
-- bump to regenerate documentation
+### 聊天
+
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
+
+
+
+## [云层-0.0.10](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.9...cloudflareddns-0.0.10) (2022-07-12)
+
+### 聊天
+
+- 跳转以重新生成文档
 
 
 
 <a name="cloudflareddns-0.0.9"></a>
 
-### [cloudflareddns-0.0.9](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.8...cloudflareddns-0.0.9) (2022-07-12)
+### [云层-0.0.9](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.8...cloudflareddns-0.0.9) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
 <a name="cloudflareddns-0.0.8"></a>
 
-### [cloudflareddns-0.0.8](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.7...cloudflareddns-0.0.8) (2022-07-11)
+### [云层-0.0.8](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.7...cloudflareddns-0.0.8) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
 <a name="cloudflareddns-0.0.7"></a>
 
-### [cloudflareddns-0.0.7](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.6...cloudflareddns-0.0.7) (2022-07-11)
+### [云层-0.0.7](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.6...cloudflareddns-0.0.7) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* update image refs ([#3135](https://github.com/truecharts/apps/issues/3135))
+* 更新图像引用([#3135](https://github.com/truecharts/apps/issues/3135))
 
 
 
 <a name="cloudflareddns-0.0.6"></a>
 
-### [cloudflareddns-0.0.6](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.5...cloudflareddns-0.0.6) (2022-07-10)
+### [云层-0.0.6](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.5...cloudflareddns-0.0.6) (2022-07-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3115](https://github.com/truecharts/apps/issues/3115))
+* 更新一般的非主要泊车位([#3115](https://github.com/truecharts/apps/issues/3115))
 
 
 
 <a name="cloudflareddns-0.0.5"></a>
 
-### [cloudflareddns-0.0.5](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.4...cloudflareddns-0.0.5) (2022-07-09)
+### [云层-0.0.5](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.4...cloudflareddns-0.0.5) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
 <a name="cloudflareddns-0.0.4"></a>
 
-### [cloudflareddns-0.0.4](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.3...cloudflareddns-0.0.4) (2022-07-04)
+### [云层-0.0.4](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.3...cloudflareddns-0.0.4) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
 <a name="cloudflareddns-0.0.3"></a>
 
-### [cloudflareddns-0.0.3](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.2...cloudflareddns-0.0.3) (2022-07-04)
+### [云层-0.0.3](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.2...cloudflareddns-0.0.3) (2022-07-04)
 
-#### Fix
+#### 修复
 
-* fix DETECTION_MODE ([#3063](https://github.com/truecharts/apps/issues/3063))
+* 修复 DETECTION_MODE ([#3063](https://github.com/truecharts/apps/issues/3063))
 
 
 
 <a name="cloudflareddns-0.0.2"></a>
 
-### [cloudflareddns-0.0.2](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.1...cloudflareddns-0.0.2) (2022-07-03)
+### [云层-0.0.2](https://github.com/truecharts/apps/compare/cloudflareddns-0.0.1...cloudflareddns-0.0.2) (2022-07-03)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
 
-#### Fix
+#### 修复
 
-* Fix CF_ZONES env var ([#3054](https://github.com/truecharts/apps/issues/3054))
+* 修复 CF_ZONES env var ([#3054](https://github.com/truecharts/apps/issues/3054))
 
 
 
 <a name="cloudflareddns-0.0.1"></a>
 
-### cloudflareddns-0.0.1 (2022-07-02)
+### 云层-0.0.1 (2022-07-02)
 
 #### Feat
 
-* Add CloudflareDDNS to incubator  ([#3037](https://github.com/truecharts/apps/issues/3037))
+* 将CloudflareDDNS添加到孵化器 ([#3037](https://github.com/truecharts/apps/issues/3037))
