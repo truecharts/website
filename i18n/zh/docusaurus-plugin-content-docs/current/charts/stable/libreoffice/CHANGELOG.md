@@ -543,7 +543,7 @@
 
 #### 聊天
 
-* update container image tccr.io/truecharts/libreoffice to v7.2.2 ([#1608](https://github.com/truecharts/apps/issues/1608))
+* 将容器图像 tccr.io/truechars/libreoffice 更新为 v7.2.2 ([#1608](https://github.com/truecharts/apps/issues/1608))
 
 
 
@@ -580,7 +580,7 @@
 
 <a name="libreoffice-0.0.4"></a>
 
-### [libreoffice-0.0.4](https://github.com/truecharts/apps/compare/libreoffice-0.0.3...libreoffice-0.0.4) (2021-12-18)
+### [libreoffice-0.0.4](https://github.com/truecharts/apps/compare/libreoffice-0.0.3...libreoffice-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
