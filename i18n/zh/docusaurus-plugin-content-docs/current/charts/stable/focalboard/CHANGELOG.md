@@ -172,7 +172,7 @@
 
 * 自动更新README图表 [跳过 ci]
 * 自动更新README图表 [跳过 ci]
-* update container image tccr.io/truecharts/focalboard to v7.0.0 ([#2842](https://github.com/truecharts/apps/issues/2842))
+* 将容器图像 tccr.io/truechars/focalboard 更新为 v7.0.0 ([#2842](https://github.com/truecharts/apps/issues/2842))
 
 
 
@@ -183,7 +183,7 @@
 #### 聊天
 
 * 自动更新README图表 [跳过 ci]
-* update container image tccr.io/truecharts/focalboard to v7.0.0 ([#2842](https://github.com/truecharts/apps/issues/2842))
+* 将容器图像 tccr.io/truechars/focalboard 更新为 v7.0.0 ([#2842](https://github.com/truecharts/apps/issues/2842))
 
 
 
@@ -193,7 +193,7 @@
 
 #### 聊天
 
-* update container image tccr.io/truecharts/focalboard to v7.0.0 ([#2842](https://github.com/truecharts/apps/issues/2842))
+* 将容器图像 tccr.io/truechars/focalboard 更新为 v7.0.0 ([#2842](https://github.com/truecharts/apps/issues/2842))
 
 
 
@@ -516,7 +516,7 @@
 
 #### Feat
 
-* Use official image ([#1952](https://github.com/truecharts/apps/issues/1952))
+* 使用官方图像 ([#1952](https://github.com/truecharts/apps/issues/1952))
 
 
 
@@ -1164,7 +1164,7 @@
 
 #### 聊天
 
-* move more dockerhub containers to GHCR mirror ([#958](https://github.com/truecharts/apps/issues/958))
+* 移动更多的Docker枢纽容器到 GHCR 镜像([#958](https://github.com/truecharts/apps/issues/958))
 * 更新非主要([#962](https://github.com/truecharts/apps/issues/962))
 
 #### Feat
