@@ -1,13 +1,13 @@
 # 无纸状态
 
-Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents.
+Paperless-ngx 是Daniel Quinn 和贡献者为您的扫描文档索引的一个应用程序。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
 * <https://github.com/paperless-ngx/paperless-ngx>
-* <https://paperless-ngx.readthedocs.io/en/latest/>
+* [https://papless-ngx.readthedocs.io/enurrent /](https://paperless-ngx.readthedocs.io/en/latest/)
 
 ## B. 所需经费
 
