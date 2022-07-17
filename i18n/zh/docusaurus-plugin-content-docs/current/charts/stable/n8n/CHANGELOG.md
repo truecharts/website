@@ -76,7 +76,7 @@
 
 #### 聊天
 
-* clean ui a bit and add more envs ([#3124](https://github.com/truecharts/apps/issues/3124))
+* 清理一下并添加更多的枚举([#3124](https://github.com/truecharts/apps/issues/3124))
 
 
 
@@ -306,7 +306,7 @@
 
 #### 修复
 
-* duplicate security variable ([#2773](https://github.com/truecharts/apps/issues/2773))
+* 重复安全变量 ([#2773](https://github.com/truecharts/apps/issues/2773))
 
 
 
@@ -480,7 +480,7 @@
 
 #### 聊天
 
-* improve configmap ([#2516](https://github.com/truecharts/apps/issues/2516))
+* 改进配置图 ([#2516](https://github.com/truecharts/apps/issues/2516))
 
 
 
@@ -779,7 +779,7 @@
 
 #### 修复
 
-* Fix permissions and add healthcheck path ([#1809](https://github.com/truecharts/apps/issues/1809))
+* 修复权限并添加健康检查路径([#1809](https://github.com/truecharts/apps/issues/1809))
 
 
 
@@ -789,7 +789,7 @@
 
 #### 修复
 
-* Fix default value on some lists ([#1806](https://github.com/truecharts/apps/issues/1806))
+* 修复某些列表上的默认值([#1806](https://github.com/truecharts/apps/issues/1806))
 
 
 
@@ -799,7 +799,7 @@
 
 #### 修复
 
-* quote values on configmap ([#1802](https://github.com/truecharts/apps/issues/1802))
+* 引用配置映射中的值 ([#1802](https://github.com/truecharts/apps/issues/1802))
 
 
 
@@ -809,4 +809,4 @@
 
 #### Feat
 
-* Add n8n ([#1797](https://github.com/truecharts/apps/issues/1797))
+* 添加 n8n ([#1797](https://github.com/truecharts/apps/issues/1797))
