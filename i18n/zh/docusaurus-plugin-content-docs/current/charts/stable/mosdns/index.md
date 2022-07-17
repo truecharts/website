@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://hub.docker.com/r/601096721/mosdns>
+* [https://hub.docker.com/r/601096721/modns](https://hub.docker.com/r/601096721/mosdns)
 
 ## B. 所需经费
 
