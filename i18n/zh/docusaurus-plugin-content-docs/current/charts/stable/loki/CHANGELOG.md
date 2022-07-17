@@ -160,7 +160,7 @@
 
 #### 修复
 
-* render loki.yaml correctly ([#2871](https://github.com/truecharts/apps/issues/2871))
+* 正确渲染loki.yaml ([#2871](https://github.com/truecharts/apps/issues/2871))
 
 
 
@@ -656,7 +656,7 @@
 
 <a name="loki-2.0.11"></a>
 
-### [loki-2.0.11](https://github.com/truecharts/apps/compare/loki-2.0.10...loki-2.0.11) (2021-12-18)
+### [loki-2.0.11](https://github.com/truecharts/apps/compare/loki-2.0.10...loki-2.0.11) (2021-12-18岁)
 
 #### 聊天
 
@@ -719,7 +719,7 @@
 * 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 * 更新非主要的背包头盔版本([#1471](https://github.com/truecharts/apps/issues/1471))
 * 更新非主要的背包头盔版本([#1432](https://github.com/truecharts/apps/issues/1432))
-* update helm chart promtail to v1 ([#1425](https://github.com/truecharts/apps/issues/1425))
+* 将头盔图形尾部更新到 v1 ([#1425](https://github.com/truecharts/apps/issues/1425))
 
 #### 修复
 
@@ -785,7 +785,7 @@
 
 #### 聊天
 
-* update helm chart promtail to v1 ([#1425](https://github.com/truecharts/apps/issues/1425))
+* 将头盔图形尾部更新到 v1 ([#1425](https://github.com/truecharts/apps/issues/1425))
 
 #### 修复
 
@@ -809,7 +809,7 @@
 
 #### 修复
 
-* use our own promtail dependency ([#1395](https://github.com/truecharts/apps/issues/1395))
+* 使用我们自己的 promtail 依赖关系([#1395](https://github.com/truecharts/apps/issues/1395))
 
 
 
@@ -819,7 +819,7 @@
 
 #### 修复
 
-* disable promtail for the time being (needs fix for dataset access)
+* 暂时禁用promtail (数据集访问需要修复)
 
 
 
@@ -829,7 +829,7 @@
 
 #### Feat
 
-* expose some more settings
+* 显示更多设置
 
 
 
@@ -839,7 +839,7 @@
 
 #### 聊天
 
-* move loki to stable
+* 移动loki到稳定状态
 
 
 
@@ -879,4 +879,4 @@
 
 #### 添加
 
-* Add Loki ([#1367](https://github.com/truecharts/apps/issues/1367))
+* 添加 Loki ([#1367](https://github.com/truecharts/apps/issues/1367))
