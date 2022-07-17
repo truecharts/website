@@ -915,7 +915,7 @@
 
 <a name="shiori-3.0.2"></a>
 
-### [shiori-3.0.2](https://github.com/truecharts/apps/compare/shiori-3.0.1...shiori-3.0.2) (2021-10-26)
+### [shior-3.0.2](https://github.com/truecharts/apps/compare/shiori-3.0.1...shiori-3.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -966,7 +966,7 @@
 
 <a name="shiori-1.0.0"></a>
 
-### [shiori-1.0.0](https://github.com/truecharts/apps/compare/shiori-0.0.4...shiori-1.0.0) (2021-10-20)
+### [shior-1.0.0](https://github.com/truecharts/apps/compare/shiori-0.0.4...shiori-1.0.0) (2021-10-20)
 
 #### 聊天
 
@@ -1014,7 +1014,7 @@
 
 <a name="shiori-0.0.2"></a>
 
-### [shiori-0.0.2](https://github.com/truecharts/apps/compare/shiori-0.0.1...shiori-0.0.2) (2021-10-19)
+### [shior-0.0.2](https://github.com/truecharts/apps/compare/shiori-0.0.1...shiori-0.0.2) (2021-10-19)
 
 #### 聊天
 
@@ -1025,7 +1025,7 @@
 
 <a name="shiori-0.0.1"></a>
 
-### shiori-0.0.1 (2021-10-19)
+### shior-0.0.1 (2021-10-19)
 
 #### Feat
 
@@ -1035,7 +1035,7 @@
 
 <a name="shiori-0.0.1"></a>
 
-### shiori-0.0.1 (2021-10-16)
+### shior-0.0.1 (2021-10-16)
 
 #### Feat
 
