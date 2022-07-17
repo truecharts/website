@@ -44,7 +44,7 @@ In the above description there are a lot of values that are not actually used. S
 
 Please refer to our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml) to see which unused values needs which treatment.
 
-### Dependencies
+### 依赖关系
 
 We expect each chart to use our Common-Chart in some capacity, unless it's absolutely impossible to do so. This also means we expect the Common-Chart to always be the first dependency in the list. This enables us to easily update all common-chart references in bulk.
 
