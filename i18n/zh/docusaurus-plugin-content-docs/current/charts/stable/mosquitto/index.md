@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/eclipse/mosquitto>
+* [https://github.com/eclipse/mositto](https://github.com/eclipse/mosquitto)
 
 ## B. 所需经费
 
