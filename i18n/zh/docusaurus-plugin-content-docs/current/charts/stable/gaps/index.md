@@ -1,12 +1,12 @@
 # 差距
 
-Gaps searches through your Plex Server or local folders for all movies, then queries for known movies in the same collection.
+通过Plex服务器或本地文件夹搜索所有电影，然后在同一收藏中查询已知电影。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://github.com/JasonHHouse/gaps>
+* [https://github.com/JasonHhouse/gaps](https://github.com/JasonHHouse/gaps)
 
 ## B. 所需经费
 
