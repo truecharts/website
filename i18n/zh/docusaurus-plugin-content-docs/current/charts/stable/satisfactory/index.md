@@ -6,8 +6,8 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/wolveix/satisfactory-server>
-* <https://hub.docker.com/r/wolveix/satisfactory-server>
+* [https://github.com/wolveix/满意的服务器](https://github.com/wolveix/satisfactory-server)
+* [https://hub.docker.com/r/wolveix/满意服务器](https://hub.docker.com/r/wolveix/satisfactory-server)
 
 ## B. 所需经费
 
