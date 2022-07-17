@@ -473,7 +473,7 @@
 
 #### 修复
 
-* Use different port for healthcheck ([#1949](https://github.com/truecharts/apps/issues/1949))
+* 使用不同的端口进行健康检查 ([#1949](https://github.com/truecharts/apps/issues/1949))
 
 
 
@@ -483,7 +483,7 @@
 
 #### 修复
 
-* fix configmap and main service ([#1943](https://github.com/truecharts/apps/issues/1943))
+* 修复配置图和主要服务([#1943](https://github.com/truecharts/apps/issues/1943))
 
 
 
@@ -503,7 +503,7 @@
 
 #### 聊天
 
-* update helm general non-major helm releases ([#1932](https://github.com/truecharts/apps/issues/1932))
+* 更新头盔的一般非主头盔版本([#1932](https://github.com/truecharts/apps/issues/1932))
 
 
 
@@ -513,7 +513,7 @@
 
 #### Feat
 
-* Add db and use official image ([#1908](https://github.com/truecharts/apps/issues/1908))
+* 添加db 并使用官方图像 ([#1908](https://github.com/truecharts/apps/issues/1908))
 
 
 
@@ -718,7 +718,7 @@
 
 <a name="pydio-cells-0.0.5"></a>
 
-### [pydio-cells-0.0.5](https://github.com/truecharts/apps/compare/pydio-cells-0.0.4...pydio-cells-0.0.5) (2021-12-18)
+### [pydio-cells-0.0.5](https://github.com/truecharts/apps/compare/pydio-cells-0.0.4...pydio-cells-0.0.5) (2021-12-18岁)
 
 #### 聊天
 
