@@ -351,7 +351,7 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.6 ([#2200](https://github.com/truecharts/apps/issues/2200))
+* 更新通用的 v9.1.6 头盔图表([#200](https://github.com/truecharts/apps/issues/2200))
 
 
 
@@ -361,7 +361,7 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
+* 更新通用的头盔图表到 v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
 
 
 
@@ -371,11 +371,11 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.3 ([#2174](https://github.com/truecharts/apps/issues/2174))
+* 更新通用的 v9.1.3 头盔图表([#2174](https://github.com/truecharts/apps/issues/2174))
 
-#### Docs
+#### 文档
 
-* add alexthamm as a contributor for bug ([#2082](https://github.com/truecharts/apps/issues/2082))
+* 添加alexthamm作为错误贡献者([#2082](https://github.com/truecharts/apps/issues/2082))
 
 
 
@@ -385,7 +385,7 @@
 
 #### 聊天
 
-* update helm chart common to v9.1.2 ([#2049](https://github.com/truecharts/apps/issues/2049))
+* 更新通用的 v9.1.2 头盔图表([#2049](https://github.com/truecharts/apps/issues/2049))
 * 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
@@ -398,7 +398,7 @@
 
 * 从问题.yaml 中移除固定的 env
 * 从问题.yaml 中删除空的 env var 声明
-* update helm chart common to v9 ([#2011](https://github.com/truecharts/apps/issues/2011))
+* 更新通用到v9的头盔图表([#2011](https://github.com/truecharts/apps/issues/2011))
 
 #### 修复
 
@@ -413,7 +413,7 @@
 #### 聊天
 
 * 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* update helm chart common to v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
+* 更新通用到v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
 
 
 
@@ -423,7 +423,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.16.1 ([#1940](https://github.com/truecharts/apps/issues/1940))
+* 更新通用到v8.16.1([#1940](https://github.com/truecharts/apps/issues/1940))
 
 
 
@@ -433,7 +433,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
+* 更新通用的头盔图表到 v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
 
 
 
@@ -443,7 +443,7 @@
 
 #### 聊天
 
-* update helm chart common to v8.15.4 ([#1879](https://github.com/truecharts/apps/issues/1879))
+* 更新通用的 v8.15.4 头盔图表([#1879](https://github.com/truecharts/apps/issues/1879))
 
 
 
@@ -624,7 +624,7 @@
 
 <a name="minetest-0.0.4"></a>
 
-### [minetest-0.0.4](https://github.com/truecharts/apps/compare/minetest-0.0.3...minetest-0.0.4) (2021-12-18)
+### [minetest-0.0.4](https://github.com/truecharts/apps/compare/minetest-0.0.3...minetest-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -655,4 +655,4 @@
 
 <a name="minetest-0.0.1"></a>
 
-### minetest-0.0.1 (2021-12-12)
+### 雷场-0.0.1 (2021-12-12)
