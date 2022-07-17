@@ -1,41 +1,41 @@
 # aria2
 
-aria server for downloading web content
+下载网页内容的 aria 服务器
 
-TrueCharts are designed to be installed as TrueNAS SCALE app only. We can not guarantee this charts works as a stand-alone helm installation. **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/apps/issues/new/choose)**
+TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
-## Source Code
+## 源代码
 
 * <https://github.com/P3TERX/Aria2-Pro-Docker>
 
-## Requirements
+## B. 所需经费
 
 Kubernetes: `>=1.16.0-0`
 
-## Dependencies
+## 依赖关系
 
-| Repository                            | Name   | Version |
-| ------------------------------------- | ------ | ------- |
-| https://library-charts.truecharts.org | common | 10.4.4  |
+| 存储库                                   | 名称  | 版本     |
+| ------------------------------------- | --- | ------ |
+| https://library-charts.truecharts.org | 常用的 | 10.4.4 |
 
-## Installing the Chart
+## 安装图表
 
-To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truecharts.org/manual/Quick-Start%20Guides/02-Installing-an-App/).
+要在TrueNAS SCALE 上安装此应用，请检查我们的 [快速启动指南](https://truecharts.org/manual/Quick-Start%20Guides/02-Installing-an-App/)。
 
-## Upgrading, Rolling Back and Uninstalling the Chart
+## 升级、回滚和卸载图表
 
-To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Start Guide](https://truecharts.org/manual/Quick-Start%20Guides/04-Upgrade-rollback-delete-an-App/).
+若要升级、回滚或从TrueNAS SCALE中删除此应用，请检查我们的 [快速启动指南](https://truecharts.org/manual/Quick-Start%20Guides/04-Upgrade-rollback-delete-an-App/)。
 
-##### Connecting to other apps
-If you need to connect this App to other Apps on TrueNAS SCALE, please refer to our [Linking Apps Internally](https://truecharts.org/manual/Quick-Start%20Guides/06-linking-apps/) quick-start guide.
+##### 正在连接到其他应用
+如果您需要将此应用连接到 TrueNAS SCALE 上的其他应用，请参阅我们的 [链接应用内部](https://truecharts.org/manual/Quick-Start%20Guides/06-linking-apps/) 快速启动指南。
 
-## Support
+## 支持
 
-- Please check our [quick-start guides](https://truecharts.org/manual/Quick-Start%20Guides/01-Adding-TrueCharts/) first.
-- See the [Wiki](https://truecharts.org)
-- Check our [Discord](https://discord.gg/tVsPTHWTtr)
-- Open a [issue](https://github.com/truecharts/apps/issues/new/choose)
+- 请先检查我们的 [快速启动指南](https://truecharts.org/manual/Quick-Start%20Guides/01-Adding-TrueCharts/)。
+- 查看 [Wiki](https://truecharts.org)
+- 查看我们的 [Discord](https://discord.gg/tVsPTHWTtr)
+- 打开一个 [问题](https://github.com/truecharts/apps/issues/new/choose)
 
 ---
 
-All Rights Reserved - The TrueCharts Project
+版权所有 - TrueCharts 项目
