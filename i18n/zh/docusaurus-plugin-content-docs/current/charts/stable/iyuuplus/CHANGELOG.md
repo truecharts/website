@@ -336,7 +336,7 @@
 
 #### Feat
 
-* move apps to stable ([#2195](https://github.com/truecharts/apps/issues/2195))
+* 移动应用程序到稳定([#2195](https://github.com/truecharts/apps/issues/2195))
 
 
 
@@ -346,4 +346,4 @@
 
 #### Feat
 
-* Add iyuuplus ([#2172](https://github.com/truecharts/apps/issues/2172))
+* 添加 iyuplus ([#2172](https://github.com/truecharts/apps/issues/2172))
