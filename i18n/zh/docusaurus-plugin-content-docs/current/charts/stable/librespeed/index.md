@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/librespeed/speedtest>
+* [https://github.com/librespeed/speed测试](https://github.com/librespeed/speedtest)
 * <https://hub.docker.com/r/linuxserver/librespeed>
 * <https://github.com/truecharts/apps/tree/master/charts/librespeed>
 
