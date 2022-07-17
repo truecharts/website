@@ -1,19 +1,19 @@
 # 重要笔记
 
-Nextcloud is a VERY picky Application and is VERY hard to support. For this reason we ask you not to file support requests on our Discord or Github, unless your issue is clearly caused by TrueCharts.
+下一个云端是一个真正的选取应用程序，非常难以支持。 为此原因，我们请您不要在我们的Discord或Github上提交支持请求，除非您的问题是由TrueCharts造成的。
 
-While we consider the App layer "Stable", we simply cannot guarantee stability due to the nature of the Nextcloud Application inside the App.
+虽然我们认为应用层“稳定”，但由于应用内Nextcloud 应用程序的性质，我们根本无法保证稳定。
 
 ## 安装笔记
 
-Nextcloud generates it's `config.php` file on the first startup/installation. Therefore you have to set some values correctly on the first try. Otherwise you will have to either re-install the App or edit the `config.php` manually, with the latter being out of our support scope. The mentioned values are:
+下一个云生成它在第一个启动/安装时生成 `config.php` 文件。 因此，您必须在第一次尝试时正确设置某些值。 否则您将不得不重新安装应用，或者手动编辑 `config.php` ，而后者不在我们的支持范围。 上述值是：
 
 - TRUSTED_PROXIES
 - NODE_IP
-- Ingress, if you plan to use it.
-- Data storage location, type (eg. PVC, hostPath).
+- 如果您想要使用它，将会失败。
+- 数据存储位置，类型(例如PVC，主机路径)。
 
-Also Nextcloud creates an Admin user on the first startup/installation, which you can only define it's username and password on the first install. Changing them later, will have no effect. The mentioned values are:
+此外，Nextcloud 在首次启动/安装时创建一个管理员用户，您只能在第一次安装时定义它的用户名和密码。 稍后更改它们将不会有任何效果。 上述值是：
 
-- NEXTCLOUD_ADMIN_USER
-- NEXTCLOUD_ADMIN_PASSWORD
+- NEXTCLOD_ADMIN_USER
+- NEXTCLUD_ADMIN_PASSWORD
