@@ -561,7 +561,7 @@
 
 <a name="mstream-1.0.23"></a>
 
-### [mstream-1.0.23](https://github.com/truecharts/apps/compare/mstream-1.0.22...mstream-1.0.23) (2021-12-18)
+### [mstream-1.0.23](https://github.com/truecharts/apps/compare/mstream-1.0.22...mstream-1.0.23) (2021-12-18岁)
 
 #### 聊天
 
