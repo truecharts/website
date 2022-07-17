@@ -572,7 +572,7 @@
 
 <a name="gonic-4.0.23"></a>
 
-### [gonic-4.0.23](https://github.com/truecharts/apps/compare/gonic-4.0.22...gonic-4.0.23) (2021-12-18)
+### [gonic-4.0.23](https://github.com/truecharts/apps/compare/gonic-4.0.22...gonic-4.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -1022,7 +1022,7 @@
 
 #### 聊天
 
-* move more dockerhub containers to GHCR mirror ([#958](https://github.com/truecharts/apps/issues/958))
+* 移动更多的Docker枢纽容器到 GHCR 镜像([#958](https://github.com/truecharts/apps/issues/958))
 * 更新非主要([#962](https://github.com/truecharts/apps/issues/962))
 
 #### Feat
