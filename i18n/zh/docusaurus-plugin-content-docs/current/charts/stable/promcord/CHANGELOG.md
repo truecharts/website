@@ -583,7 +583,7 @@
 
 <a name="promcord-2.0.4"></a>
 
-### [promcord-2.0.4](https://github.com/truecharts/apps/compare/promcord-2.0.3...promcord-2.0.4) (2021-12-18)
+### [promcord-2.0.4](https://github.com/truecharts/apps/compare/promcord-2.0.3...promcord-2.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -735,7 +735,7 @@
 
 #### 聊天
 
-* move promcord to stable
+* 将 promcord 移动到稳定状态
 
 
 
@@ -745,4 +745,4 @@
 
 #### Feat
 
-* add some prometheus exporter-Apps ([#1388](https://github.com/truecharts/apps/issues/1388))
+* 添加一些导星导出器应用程序([#1388](https://github.com/truecharts/apps/issues/1388))
