@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [minio-console-3.0.20](https://github.com/truecharts/apps/compare/minio-console-3.0.19...minio-console-3.0.20) (2022-07-14)
+## [微型控制台-3.0.20](https://github.com/truecharts/apps/compare/minio-console-3.0.19...minio-console-3.0.20) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [minio-console-3.0.19](https://github.com/truecharts/apps/compare/minio-console-3.0.17...minio-console-3.0.19) (2022-07-14)
+## [微型控制台-3.0.19](https://github.com/truecharts/apps/compare/minio-console-3.0.17...minio-console-3.0.19) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [minio-console-3.0.17](https://github.com/truecharts/apps/compare/minio-console-3.0.16...minio-console-3.0.17) (2022-07-13)
+## [小型控制台-3.0.17](https://github.com/truecharts/apps/compare/minio-console-3.0.16...minio-console-3.0.17) (2022-07-13)
 
 ### 聊天
 
@@ -25,7 +25,7 @@
 
 
 
-## [minio-console-3.0.16](https://github.com/truecharts/apps/compare/minio-console-3.0.14...minio-console-3.0.16) (2022-07-12)
+## [小型控制台-3.0.16](https://github.com/truecharts/apps/compare/minio-console-3.0.14...minio-console-3.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -34,7 +34,7 @@
 
 
 
-## [minio-console-3.0.14](https://github.com/truecharts/apps/compare/minio-console-3.0.13...minio-console-3.0.14) (2022-07-12)
+## [小型控制台-3.0.14](https://github.com/truecharts/apps/compare/minio-console-3.0.13...minio-console-3.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -54,7 +54,7 @@
 
 <a name="minio-console-3.0.12"></a>
 
-### [minio-console-3.0.12](https://github.com/truecharts/apps/compare/minio-console-3.0.11...minio-console-3.0.12) (2022-07-11)
+### [小控制台-3.0.12](https://github.com/truecharts/apps/compare/minio-console-3.0.11...minio-console-3.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -64,7 +64,7 @@
 
 <a name="minio-console-3.0.11"></a>
 
-### [minio-console-3.0.11](https://github.com/truecharts/apps/compare/minio-console-3.0.10...minio-console-3.0.11) (2022-07-09)
+### [小型控制台-3.0.11](https://github.com/truecharts/apps/compare/minio-console-3.0.10...minio-console-3.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -74,7 +74,7 @@
 
 <a name="minio-console-3.0.10"></a>
 
-### [minio-console-3.0.10](https://github.com/truecharts/apps/compare/minio-console-3.0.9...minio-console-3.0.10) (2022-07-04)
+### [小型控制台-3.0.10](https://github.com/truecharts/apps/compare/minio-console-3.0.9...minio-console-3.0.10) (2022-07-04)
 
 #### 聊天
 
@@ -84,7 +84,7 @@
 
 <a name="minio-console-3.0.9"></a>
 
-### [minio-console-3.0.9](https://github.com/truecharts/apps/compare/minio-console-3.0.8...minio-console-3.0.9) (2022-06-25)
+### [微型控制台-3.0.9](https://github.com/truecharts/apps/compare/minio-console-3.0.8...minio-console-3.0.9) (2022-06-25)
 
 #### 聊天
 
@@ -104,7 +104,7 @@
 
 <a name="minio-console-3.0.7"></a>
 
-### [minio-console-3.0.7](https://github.com/truecharts/apps/compare/minio-console-3.0.6...minio-console-3.0.7) (2022-06-21)
+### [微型控制台-3.0.7](https://github.com/truecharts/apps/compare/minio-console-3.0.6...minio-console-3.0.7) (2022-06-21)
 
 #### 聊天
 
@@ -114,7 +114,7 @@
 
 <a name="minio-console-3.0.6"></a>
 
-### [minio-console-3.0.6](https://github.com/truecharts/apps/compare/minio-console-3.0.5...minio-console-3.0.6) (2022-06-18)
+### [微型控制台-3.0.6](https://github.com/truecharts/apps/compare/minio-console-3.0.5...minio-console-3.0.6) (2022-06-18)
 
 #### 聊天
 
@@ -124,7 +124,7 @@
 
 <a name="minio-console-3.0.5"></a>
 
-### [minio-console-3.0.5](https://github.com/truecharts/apps/compare/minio-console-3.0.4...minio-console-3.0.5) (2022-06-17)
+### [微型控制台-3.0.5](https://github.com/truecharts/apps/compare/minio-console-3.0.4...minio-console-3.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -134,7 +134,7 @@
 
 <a name="minio-console-3.0.4"></a>
 
-### [minio-console-3.0.4](https://github.com/truecharts/apps/compare/minio-console-3.0.3...minio-console-3.0.4) (2022-06-14)
+### [微型控制台-3.0.4](https://github.com/truecharts/apps/compare/minio-console-3.0.3...minio-console-3.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -144,7 +144,7 @@
 
 <a name="minio-console-3.0.3"></a>
 
-### [minio-console-3.0.3](https://github.com/truecharts/apps/compare/minio-console-3.0.2...minio-console-3.0.3) (2022-06-11)
+### [小型控制台-3.0.3](https://github.com/truecharts/apps/compare/minio-console-3.0.2...minio-console-3.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -154,7 +154,7 @@
 
 <a name="minio-console-3.0.2"></a>
 
-### [minio-console-3.0.2](https://github.com/truecharts/apps/compare/minio-console-3.0.1...minio-console-3.0.2) (2022-06-07)
+### [微型控制台-3.0.2](https://github.com/truecharts/apps/compare/minio-console-3.0.1...minio-console-3.0.2) (2022-06-07)
 
 #### 修复
 
@@ -164,7 +164,7 @@
 
 <a name="minio-console-3.0.1"></a>
 
-### [minio-console-3.0.1](https://github.com/truecharts/apps/compare/minio-console-2.0.32...minio-console-3.0.1) (2022-06-07)
+### [微型控制台-3.0.1](https://github.com/truecharts/apps/compare/minio-console-2.0.32...minio-console-3.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -183,7 +183,7 @@
 
 <a name="minio-console-3.0.0"></a>
 
-### [minio-console-3.0.0](https://github.com/truecharts/apps/compare/minio-console-2.0.32...minio-console-3.0.0) (2022-06-07)
+### [微型控制台-3.0.0](https://github.com/truecharts/apps/compare/minio-console-2.0.32...minio-console-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -197,7 +197,7 @@
 
 <a name="minio-console-2.0.32"></a>
 
-### [minio-console-2.0.32](https://github.com/truecharts/apps/compare/minio-console-2.0.31...minio-console-2.0.32) (2022-06-03)
+### [微型控制台-2.0.32](https://github.com/truecharts/apps/compare/minio-console-2.0.31...minio-console-2.0.32) (2022-06-03)
 
 #### 聊天
 
@@ -207,7 +207,7 @@
 
 <a name="minio-console-2.0.31"></a>
 
-### [minio-console-2.0.31](https://github.com/truecharts/apps/compare/minio-console-2.0.30...minio-console-2.0.31) (2022-05-31)
+### [微型控制台-2.0.31](https://github.com/truecharts/apps/compare/minio-console-2.0.30...minio-console-2.0.31) (2022-05-31)
 
 #### 聊天
 
@@ -239,7 +239,7 @@
 
 <a name="minio-console-2.0.29"></a>
 
-### [minio-console-2.0.29](https://github.com/truecharts/apps/compare/minio-console-2.0.28...minio-console-2.0.29) (2022-05-24)
+### [微型控制台-2.0.29](https://github.com/truecharts/apps/compare/minio-console-2.0.28...minio-console-2.0.29) (2022-05-24)
 
 #### 聊天
 
@@ -249,7 +249,7 @@
 
 <a name="minio-console-2.0.28"></a>
 
-### [minio-console-2.0.28](https://github.com/truecharts/apps/compare/minio-console-2.0.27...minio-console-2.0.28) (2022-05-24)
+### [小型控制台-2.0.28](https://github.com/truecharts/apps/compare/minio-console-2.0.27...minio-console-2.0.28) (2022-05-24)
 
 #### 聊天
 
@@ -259,7 +259,7 @@
 
 <a name="minio-console-2.0.27"></a>
 
-### [minio-console-2.0.27](https://github.com/truecharts/apps/compare/minio-console-2.0.26...minio-console-2.0.27) (2022-05-17)
+### [微型控制台-2.0.27](https://github.com/truecharts/apps/compare/minio-console-2.0.26...minio-console-2.0.27) (2022-05-17)
 
 #### 聊天
 
@@ -270,7 +270,7 @@
 
 <a name="minio-console-2.0.27"></a>
 
-### [minio-console-2.0.27](https://github.com/truecharts/apps/compare/minio-console-2.0.26...minio-console-2.0.27) (2022-05-17)
+### [微型控制台-2.0.27](https://github.com/truecharts/apps/compare/minio-console-2.0.26...minio-console-2.0.27) (2022-05-17)
 
 #### 聊天
 
@@ -280,7 +280,7 @@
 
 <a name="minio-console-2.0.26"></a>
 
-### [minio-console-2.0.26](https://github.com/truecharts/apps/compare/minio-console-2.0.25...minio-console-2.0.26) (2022-05-17)
+### [微型控制台-2.0.26](https://github.com/truecharts/apps/compare/minio-console-2.0.25...minio-console-2.0.26) (2022-05-17)
 
 #### 聊天
 
@@ -290,7 +290,7 @@
 
 <a name="minio-console-2.0.25"></a>
 
-### [minio-console-2.0.25](https://github.com/truecharts/apps/compare/minio-console-2.0.24...minio-console-2.0.25) (2022-05-14)
+### [小控制台-2.0.25](https://github.com/truecharts/apps/compare/minio-console-2.0.24...minio-console-2.0.25) (2022-05-14)
 
 #### 聊天
 
@@ -300,7 +300,7 @@
 
 <a name="minio-console-2.0.24"></a>
 
-### [minio-console-2.0.24](https://github.com/truecharts/apps/compare/minio-console-2.0.23...minio-console-2.0.24) (2022-05-10)
+### [微型控制台-2.0.24](https://github.com/truecharts/apps/compare/minio-console-2.0.23...minio-console-2.0.24) (2022-05-10)
 
 #### 聊天
 
@@ -310,7 +310,7 @@
 
 <a name="minio-console-2.0.23"></a>
 
-### [minio-console-2.0.23](https://github.com/truecharts/apps/compare/minio-console-2.0.22...minio-console-2.0.23) (2022-05-05)
+### [微型控制台-2.0.23](https://github.com/truecharts/apps/compare/minio-console-2.0.22...minio-console-2.0.23) (2022-05-05)
 
 #### 聊天
 
@@ -320,7 +320,7 @@
 
 <a name="minio-console-2.0.22"></a>
 
-### [minio-console-2.0.22](https://github.com/truecharts/apps/compare/minio-console-2.0.21...minio-console-2.0.22) (2022-05-04)
+### [微型控制台-2.0.22](https://github.com/truecharts/apps/compare/minio-console-2.0.21...minio-console-2.0.22) (2022-05-04)
 
 #### 聊天
 
@@ -330,7 +330,7 @@
 
 <a name="minio-console-2.0.21"></a>
 
-### [minio-console-2.0.21](https://github.com/truecharts/apps/compare/minio-console-2.0.20...minio-console-2.0.21) (2022-04-28)
+### [微型控制台-2.0.21](https://github.com/truecharts/apps/compare/minio-console-2.0.20...minio-console-2.0.21) (2022-04-28)
 
 #### 聊天
 
@@ -340,7 +340,7 @@
 
 <a name="minio-console-2.0.20"></a>
 
-### [minio-console-2.0.20](https://github.com/truecharts/apps/compare/minio-console-2.0.19...minio-console-2.0.20) (2022-04-26)
+### [微型控制台-2.0.20](https://github.com/truecharts/apps/compare/minio-console-2.0.19...minio-console-2.0.20) (2022-04-26)
 
 #### 聊天
 
@@ -350,7 +350,7 @@
 
 <a name="minio-console-2.0.19"></a>
 
-### [minio-console-2.0.19](https://github.com/truecharts/apps/compare/minio-console-2.0.18...minio-console-2.0.19) (2022-04-20)
+### [小控制台2.0.19](https://github.com/truecharts/apps/compare/minio-console-2.0.18...minio-console-2.0.19) (2022-04-20)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="minio-console-2.0.18"></a>
 
-### [minio-console-2.0.18](https://github.com/truecharts/apps/compare/minio-console-2.0.17...minio-console-2.0.18) (2022-04-20)
+### [微型控制台-2.0.18](https://github.com/truecharts/apps/compare/minio-console-2.0.17...minio-console-2.0.18) (2022-04-20)
 
 #### 聊天
 
@@ -371,7 +371,7 @@
 
 <a name="minio-console-2.0.17"></a>
 
-### [minio-console-2.0.17](https://github.com/truecharts/apps/compare/minio-console-2.0.16...minio-console-2.0.17) (2022-04-16)
+### [微型控制台-2.0.17](https://github.com/truecharts/apps/compare/minio-console-2.0.16...minio-console-2.0.17) (2022-04-16)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="minio-console-2.0.16"></a>
 
-### [minio-console-2.0.16](https://github.com/truecharts/apps/compare/minio-console-2.0.15...minio-console-2.0.16) (2022-04-12)
+### [微型控制台-2.0.16](https://github.com/truecharts/apps/compare/minio-console-2.0.15...minio-console-2.0.16) (2022-04-12)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="minio-console-2.0.15"></a>
 
-### [minio-console-2.0.15](https://github.com/truecharts/apps/compare/minio-console-2.0.14...minio-console-2.0.15) (2022-04-12)
+### [小型控制台-2.0.15](https://github.com/truecharts/apps/compare/minio-console-2.0.14...minio-console-2.0.15) (2022-04-12)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="minio-console-2.0.14"></a>
 
-### [minio-console-2.0.14](https://github.com/truecharts/apps/compare/minio-console-2.0.13...minio-console-2.0.14) (2022-04-12)
+### [微型控制台-2.0.14](https://github.com/truecharts/apps/compare/minio-console-2.0.13...minio-console-2.0.14) (2022-04-12)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="minio-console-2.0.12"></a>
 
-### [minio-console-2.0.12](https://github.com/truecharts/apps/compare/minio-console-2.0.11...minio-console-2.0.12) (2022-04-03)
+### [微型控制台-2.0.12](https://github.com/truecharts/apps/compare/minio-console-2.0.11...minio-console-2.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="minio-console-2.0.11"></a>
 
-### [minio-console-2.0.11](https://github.com/truecharts/apps/compare/minio-console-2.0.10...minio-console-2.0.11) (2022-03-31)
+### [微型控制台-2.0.11](https://github.com/truecharts/apps/compare/minio-console-2.0.10...minio-console-2.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -441,7 +441,7 @@
 
 <a name="minio-console-2.0.10"></a>
 
-### [minio-console-2.0.10](https://github.com/truecharts/apps/compare/minio-console-2.0.9...minio-console-2.0.10) (2022-03-30)
+### [微型控制台-2.0.10](https://github.com/truecharts/apps/compare/minio-console-2.0.9...minio-console-2.0.10) (2022-03-30)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="minio-console-2.0.9"></a>
 
-### [minio-console-2.0.9](https://github.com/truecharts/apps/compare/minio-console-2.0.8...minio-console-2.0.9) (2022-03-26)
+### [微型控制台-2.0.9](https://github.com/truecharts/apps/compare/minio-console-2.0.8...minio-console-2.0.9) (2022-03-26)
 
 #### 聊天
 
@@ -472,7 +472,7 @@
 
 <a name="minio-console-2.0.4"></a>
 
-### [minio-console-2.0.4](https://github.com/truecharts/apps/compare/minio-console-2.0.3...minio-console-2.0.4) (2022-03-17)
+### [微型控制台-2.0.4](https://github.com/truecharts/apps/compare/minio-console-2.0.3...minio-console-2.0.4) (2022-03-17)
 
 #### 聊天
 
@@ -483,7 +483,7 @@
 
 <a name="minio-console-2.0.2"></a>
 
-### [minio-console-2.0.2](https://github.com/truecharts/apps/compare/minio-console-2.0.1...minio-console-2.0.2) (2022-03-07)
+### [微型控制台-2.0.2](https://github.com/truecharts/apps/compare/minio-console-2.0.1...minio-console-2.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -493,7 +493,7 @@
 
 <a name="minio-console-2.0.1"></a>
 
-### [minio-console-2.0.1](https://github.com/truecharts/apps/compare/minio-console-2.0.0...minio-console-2.0.1) (2022-03-07)
+### [微型控制台-2.0.1](https://github.com/truecharts/apps/compare/minio-console-2.0.0...minio-console-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -520,7 +520,7 @@
 
 <a name="minio-console-1.0.52"></a>
 
-### [minio-console-1.0.52](https://github.com/truecharts/apps/compare/minio-console-1.0.51...minio-console-1.0.52) (2022-03-02)
+### [微型控制台-1.0.52](https://github.com/truecharts/apps/compare/minio-console-1.0.51...minio-console-1.0.52) (2022-03-02)
 
 #### 聊天
 
@@ -531,7 +531,7 @@
 
 <a name="minio-console-1.0.51"></a>
 
-### [minio-console-1.0.51](https://github.com/truecharts/apps/compare/minio-console-1.0.50...minio-console-1.0.51) (2022-02-21)
+### [微型控制台-1.0.51](https://github.com/truecharts/apps/compare/minio-console-1.0.50...minio-console-1.0.51) (2022-02-21)
 
 #### 聊天
 
@@ -541,7 +541,7 @@
 
 <a name="minio-console-1.0.50"></a>
 
-### [minio-console-1.0.50](https://github.com/truecharts/apps/compare/minio-console-1.0.49...minio-console-1.0.50) (2022-02-15)
+### [小型控制台-1.0.50](https://github.com/truecharts/apps/compare/minio-console-1.0.49...minio-console-1.0.50) (2022-02-15)
 
 #### 聊天
 
@@ -551,7 +551,7 @@
 
 <a name="minio-console-1.0.49"></a>
 
-### [minio-console-1.0.49](https://github.com/truecharts/apps/compare/minio-console-1.0.48...minio-console-1.0.49) (2022-02-08)
+### [微型控制台-1.0.49](https://github.com/truecharts/apps/compare/minio-console-1.0.48...minio-console-1.0.49) (2022-02-08)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="minio-console-1.0.48"></a>
 
-### [minio-console-1.0.48](https://github.com/truecharts/apps/compare/minio-console-1.0.47...minio-console-1.0.48) (2022-02-06)
+### [微型控制台-1.0.48](https://github.com/truecharts/apps/compare/minio-console-1.0.47...minio-console-1.0.48) (2022-02-06)
 
 #### 聊天
 
@@ -572,7 +572,7 @@
 
 <a name="minio-console-1.0.47"></a>
 
-### [minio-console-1.0.47](https://github.com/truecharts/apps/compare/minio-console-1.0.46...minio-console-1.0.47) (2022-02-05)
+### [微型控制台-1.0.47](https://github.com/truecharts/apps/compare/minio-console-1.0.46...minio-console-1.0.47) (2022-02-05)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="minio-console-1.0.46"></a>
 
-### [minio-console-1.0.46](https://github.com/truecharts/apps/compare/minio-console-1.0.45...minio-console-1.0.46) (2022-02-03)
+### [微型控制台-1.0.46](https://github.com/truecharts/apps/compare/minio-console-1.0.45...minio-console-1.0.46) (2022-02-03)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="minio-console-1.0.45"></a>
 
-### [minio-console-1.0.45](https://github.com/truecharts/apps/compare/minio-console-1.0.44...minio-console-1.0.45) (2022-02-02)
+### [微型控制台-1.0.45](https://github.com/truecharts/apps/compare/minio-console-1.0.44...minio-console-1.0.45) (2022-02-02)
 
 #### 聊天
 
@@ -602,7 +602,7 @@
 
 <a name="minio-console-1.0.44"></a>
 
-### [minio-console-1.0.44](https://github.com/truecharts/apps/compare/minio-console-1.0.43...minio-console-1.0.44) (2022-01-25)
+### [微型控制台-1.0.44](https://github.com/truecharts/apps/compare/minio-console-1.0.43...minio-console-1.0.44) (2022-01-25)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="minio-console-1.0.43"></a>
 
-### [minio-console-1.0.43](https://github.com/truecharts/apps/compare/minio-console-1.0.42...minio-console-1.0.43) (2022-01-24)
+### [微型控制台-1.0.43](https://github.com/truecharts/apps/compare/minio-console-1.0.42...minio-console-1.0.43) (2022-01-24)
 
 #### 聊天
 
@@ -622,7 +622,7 @@
 
 <a name="minio-console-1.0.42"></a>
 
-### [minio-console-1.0.42](https://github.com/truecharts/apps/compare/minio-console-1.0.41...minio-console-1.0.42) (2022-01-22)
+### [微型控制台-1.0.42](https://github.com/truecharts/apps/compare/minio-console-1.0.41...minio-console-1.0.42) (2022-01-22)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="minio-console-1.0.41"></a>
 
-### [minio-console-1.0.41](https://github.com/truecharts/apps/compare/minio-console-1.0.40...minio-console-1.0.41) (2022-01-21)
+### [微型控制台-1.0.41](https://github.com/truecharts/apps/compare/minio-console-1.0.40...minio-console-1.0.41) (2022-01-21)
 
 #### 聊天
 
@@ -656,7 +656,7 @@
 
 <a name="minio-console-1.0.39"></a>
 
-### [minio-console-1.0.39](https://github.com/truecharts/apps/compare/minio-console-1.0.38...minio-console-1.0.39) (2022-01-13)
+### [微型控制台-1.0.39](https://github.com/truecharts/apps/compare/minio-console-1.0.38...minio-console-1.0.39) (2022-01-13)
 
 #### 聊天
 
@@ -670,7 +670,7 @@
 
 <a name="minio-console-1.0.38"></a>
 
-### [minio-console-1.0.38](https://github.com/truecharts/apps/compare/minio-console-1.0.37...minio-console-1.0.38) (2022-01-12)
+### [小型控制台-1.0.38](https://github.com/truecharts/apps/compare/minio-console-1.0.37...minio-console-1.0.38) (2022-01-12)
 
 #### 聊天
 
@@ -680,7 +680,7 @@
 
 <a name="minio-console-1.0.37"></a>
 
-### [minio-console-1.0.37](https://github.com/truecharts/apps/compare/minio-console-1.0.36...minio-console-1.0.37) (2022-01-11)
+### [微型控制台-1.0.37](https://github.com/truecharts/apps/compare/minio-console-1.0.36...minio-console-1.0.37) (2022-01-11)
 
 #### 聊天
 
@@ -700,7 +700,7 @@
 
 <a name="minio-console-1.0.35"></a>
 
-### [minio-console-1.0.35](https://github.com/truecharts/apps/compare/minio-console-1.0.34...minio-console-1.0.35) (2022-01-04)
+### [微型控制台-1.0.35](https://github.com/truecharts/apps/compare/minio-console-1.0.34...minio-console-1.0.35) (2022-01-04)
 
 #### 聊天
 
@@ -710,7 +710,7 @@
 
 <a name="minio-console-1.0.34"></a>
 
-### [minio-console-1.0.34](https://github.com/truecharts/apps/compare/minio-console-1.0.33...minio-console-1.0.34) (2022-01-03)
+### [微型控制台-1.0.34](https://github.com/truecharts/apps/compare/minio-console-1.0.33...minio-console-1.0.34) (2022-01-03)
 
 #### 聊天
 
@@ -720,7 +720,7 @@
 
 <a name="minio-console-1.0.33"></a>
 
-### [minio-console-1.0.33](https://github.com/truecharts/apps/compare/minio-console-1.0.32...minio-console-1.0.33) (2021-12-28)
+### [小型控制台-1.0.33](https://github.com/truecharts/apps/compare/minio-console-1.0.32...minio-console-1.0.33) (2021-12-28)
 
 #### 聊天
 
@@ -730,7 +730,7 @@
 
 <a name="minio-console-1.0.32"></a>
 
-### [minio-console-1.0.32](https://github.com/truecharts/apps/compare/minio-console-1.0.31...minio-console-1.0.32) (2021-12-21)
+### [小型控制台-1.0.32](https://github.com/truecharts/apps/compare/minio-console-1.0.31...minio-console-1.0.32) (2021-12-21)
 
 #### 聊天
 
@@ -740,7 +740,7 @@
 
 <a name="minio-console-1.0.31"></a>
 
-### [minio-console-1.0.31](https://github.com/truecharts/apps/compare/minio-console-1.0.30...minio-console-1.0.31) (2021-12-20)
+### [小型控制台-1.0.31](https://github.com/truecharts/apps/compare/minio-console-1.0.30...minio-console-1.0.31) (2021-12-20)
 
 #### 聊天
 
@@ -761,7 +761,7 @@
 
 <a name="minio-console-1.0.29"></a>
 
-### [minio-console-1.0.29](https://github.com/truecharts/apps/compare/minio-console-1.0.28...minio-console-1.0.29) (2021-12-19)
+### [小型控制台-1.0.29](https://github.com/truecharts/apps/compare/minio-console-1.0.28...minio-console-1.0.29) (2021-12-19)
 
 #### 聊天
 
@@ -772,7 +772,7 @@
 
 <a name="minio-console-1.0.28"></a>
 
-### [minio-console-1.0.28](https://github.com/truecharts/apps/compare/minio-console-1.0.27...minio-console-1.0.28) (2021-12-18)
+### [微型控制台-1.0.28](https://github.com/truecharts/apps/compare/minio-console-1.0.27...minio-console-1.0.28) (2021-12-18岁)
 
 #### 聊天
 
@@ -783,7 +783,7 @@
 
 <a name="minio-console-1.0.27"></a>
 
-### [minio-console-1.0.27](https://github.com/truecharts/apps/compare/minio-console-1.0.26...minio-console-1.0.27) (2021-12-14)
+### [小型控制台-1.0.27](https://github.com/truecharts/apps/compare/minio-console-1.0.26...minio-console-1.0.27) (2021-12-14)
 
 #### 聊天
 
@@ -793,7 +793,7 @@
 
 <a name="minio-console-1.0.26"></a>
 
-### [minio-console-1.0.26](https://github.com/truecharts/apps/compare/minio-console-1.0.25...minio-console-1.0.26) (2021-12-13)
+### [微型控制台-1.0.26](https://github.com/truecharts/apps/compare/minio-console-1.0.25...minio-console-1.0.26) (2021-12-13)
 
 #### 聊天
 
@@ -803,7 +803,7 @@
 
 <a name="minio-console-1.0.25"></a>
 
-### [minio-console-1.0.25](https://github.com/truecharts/apps/compare/minio-console-1.0.24...minio-console-1.0.25) (2021-12-11)
+### [小型控制台-1.0.25](https://github.com/truecharts/apps/compare/minio-console-1.0.24...minio-console-1.0.25) (2021-12-11)
 
 #### 聊天
 
@@ -813,7 +813,7 @@
 
 <a name="minio-console-1.0.24"></a>
 
-### [minio-console-1.0.24](https://github.com/truecharts/apps/compare/minio-console-1.0.23...minio-console-1.0.24) (2021-12-11)
+### [小型控制台-1.0.24](https://github.com/truecharts/apps/compare/minio-console-1.0.23...minio-console-1.0.24) (2021-12-11)
 
 #### 聊天
 
@@ -823,7 +823,7 @@
 
 <a name="minio-console-1.0.23"></a>
 
-### [minio-console-1.0.23](https://github.com/truecharts/apps/compare/minio-console-1.0.22...minio-console-1.0.23) (2021-12-07)
+### [微型控制台-1.0.23](https://github.com/truecharts/apps/compare/minio-console-1.0.22...minio-console-1.0.23) (2021-12-07)
 
 #### 聊天
 
@@ -833,12 +833,12 @@
 
 <a name="minio-console-1.0.22"></a>
 
-### minio-console-1.0.22 (2021-12-05)
+### 小型控制台-1.0.22（2021-12-05）
 
 #### 聊天
 
 * 跳转应用生成安全页面
-* correct some wrong container references again
+* 再次更正一些错误的容器引用
 * 更新非主要的背包头盔版本([#1471](https://github.com/truecharts/apps/issues/1471))
 * 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
 * 更新非主要([#1466](https://github.com/truecharts/apps/issues/1466))
@@ -853,7 +853,7 @@
 
 <a name="minio-console-1.0.21"></a>
 
-### [minio-console-1.0.21](https://github.com/truecharts/apps/compare/minio-console-1.0.20...minio-console-1.0.21) (2021-12-05)
+### [微型控制台-1.0.21](https://github.com/truecharts/apps/compare/minio-console-1.0.20...minio-console-1.0.21) (2021-12-05)
 
 #### 聊天
 
@@ -863,7 +863,7 @@
 
 <a name="minio-console-1.0.20"></a>
 
-### [minio-console-1.0.20](https://github.com/truecharts/apps/compare/minio-console-1.0.19...minio-console-1.0.20) (2021-12-05)
+### [微型控制台-1.0.20](https://github.com/truecharts/apps/compare/minio-console-1.0.19...minio-console-1.0.20) (2021-12-05)
 
 #### 聊天
 
@@ -883,18 +883,18 @@
 
 <a name="minio-console-1.0.18"></a>
 
-### [minio-console-1.0.18](https://github.com/truecharts/apps/compare/minio-console-1.0.17...minio-console-1.0.18) (2021-12-04)
+### [小型控制台-1.0.18](https://github.com/truecharts/apps/compare/minio-console-1.0.17...minio-console-1.0.18) (2021-12-04)
 
 #### 聊天
 
-* correct some wrong container references again
+* 再次更正一些错误的容器引用
 * 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
 
 
 
 <a name="minio-console-1.0.17"></a>
 
-### [minio-console-1.0.17](https://github.com/truecharts/apps/compare/minio-console-1.0.16...minio-console-1.0.17) (2021-11-30)
+### [小型控制台-1.0.17](https://github.com/truecharts/apps/compare/minio-console-1.0.16...minio-console-1.0.17) (2021-11-30)
 
 #### 聊天
 
@@ -904,7 +904,7 @@
 
 <a name="minio-console-1.0.16"></a>
 
-### [minio-console-1.0.16](https://github.com/truecharts/apps/compare/minio-console-1.0.15...minio-console-1.0.16) (2021-11-30)
+### [小型控制台-1.0.16](https://github.com/truecharts/apps/compare/minio-console-1.0.15...minio-console-1.0.16) (2021-11-30)
 
 #### 聊天
 
@@ -914,7 +914,7 @@
 
 <a name="minio-console-1.0.14"></a>
 
-### [minio-console-1.0.14](https://github.com/truecharts/apps/compare/minio-console-1.0.13...minio-console-1.0.14) (2021-11-23)
+### [小型控制台-1.0.14](https://github.com/truecharts/apps/compare/minio-console-1.0.13...minio-console-1.0.14) (2021-11-23)
 
 #### 聊天
 
@@ -944,7 +944,7 @@
 
 <a name="minio-console-1.0.11"></a>
 
-### [minio-console-1.0.11](https://github.com/truecharts/apps/compare/minio-console-1.0.10...minio-console-1.0.11) (2021-11-16)
+### [小型控制台-1.0.11](https://github.com/truecharts/apps/compare/minio-console-1.0.10...minio-console-1.0.11) (2021-11-16)
 
 #### 聊天
 
@@ -965,7 +965,7 @@
 
 <a name="minio-console-1.0.9"></a>
 
-### [minio-console-1.0.9](https://github.com/truecharts/apps/compare/minio-console-1.0.8...minio-console-1.0.9) (2021-11-14)
+### [小型控制台-1.0.9](https://github.com/truecharts/apps/compare/minio-console-1.0.8...minio-console-1.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -984,7 +984,7 @@
 
 <a name="minio-console-1.0.8"></a>
 
-### [minio-console-1.0.8](https://github.com/truecharts/apps/compare/minio-console-1.0.7...minio-console-1.0.8) (2021-11-09)
+### [小型控制台-1.0.8](https://github.com/truecharts/apps/compare/minio-console-1.0.7...minio-console-1.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -995,7 +995,7 @@
 
 <a name="minio-console-1.0.7"></a>
 
-### [minio-console-1.0.7](https://github.com/truecharts/apps/compare/minio-console-1.0.6...minio-console-1.0.7) (2021-11-07)
+### [微型控制台-1.0.7](https://github.com/truecharts/apps/compare/minio-console-1.0.6...minio-console-1.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -1015,7 +1015,7 @@
 
 <a name="minio-console-1.0.5"></a>
 
-### [minio-console-1.0.5](https://github.com/truecharts/apps/compare/minio-console-1.0.4...minio-console-1.0.5) (2021-11-07)
+### [小型控制台-1.0.5](https://github.com/truecharts/apps/compare/minio-console-1.0.4...minio-console-1.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -1033,7 +1033,7 @@
 
 <a name="minio-console-1.0.4"></a>
 
-### [minio-console-1.0.4](https://github.com/truecharts/apps/compare/minio-console-1.0.3...minio-console-1.0.4) (2021-11-02)
+### [小型控制台-1.0.4](https://github.com/truecharts/apps/compare/minio-console-1.0.3...minio-console-1.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -1043,7 +1043,7 @@
 
 <a name="minio-console-1.0.3"></a>
 
-### [minio-console-1.0.3](https://github.com/truecharts/apps/compare/minio-console-1.0.2...minio-console-1.0.3) (2021-11-01)
+### [小型控制台-1.0.3](https://github.com/truecharts/apps/compare/minio-console-1.0.2...minio-console-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -1063,7 +1063,7 @@
 
 <a name="minio-console-1.0.1"></a>
 
-### [minio-console-1.0.1](https://github.com/truecharts/apps/compare/minio-console-1.0.0...minio-console-1.0.1) (2021-10-26)
+### [小型控制台-1.0.1](https://github.com/truecharts/apps/compare/minio-console-1.0.0...minio-console-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1084,7 +1084,7 @@
 
 <a name="minio-console-0.0.12"></a>
 
-### [minio-console-0.0.12](https://github.com/truecharts/apps/compare/minio-console-0.0.9...minio-console-0.0.12) (2021-10-20)
+### [小型控制台-0.0.12](https://github.com/truecharts/apps/compare/minio-console-0.0.9...minio-console-0.0.12) (2021-10-20)
 
 #### 聊天
 
@@ -1094,7 +1094,7 @@
 
 <a name="minio-console-0.0.9"></a>
 
-### [minio-console-0.0.9](https://github.com/truecharts/apps/compare/minio-console-0.0.8...minio-console-0.0.9) (2021-10-20)
+### [小型控制台-0.0.9](https://github.com/truecharts/apps/compare/minio-console-0.0.8...minio-console-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -1104,7 +1104,7 @@
 
 <a name="minio-console-0.0.8"></a>
 
-### [minio-console-0.0.8](https://github.com/truecharts/apps/compare/minio-console-0.0.7...minio-console-0.0.8) (2021-10-19)
+### [小型控制台-0.0.8](https://github.com/truecharts/apps/compare/minio-console-0.0.7...minio-console-0.0.8) (2021-10-19)
 
 #### 更改
 
@@ -1128,7 +1128,7 @@
 
 <a name="minio-console-0.0.7"></a>
 
-### [minio-console-0.0.7](https://github.com/truecharts/apps/compare/minio-console-0.0.6...minio-console-0.0.7) (2021-10-19)
+### [小型控制台-0.0.7](https://github.com/truecharts/apps/compare/minio-console-0.0.6...minio-console-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -1138,7 +1138,7 @@
 
 <a name="minio-console-0.0.6"></a>
 
-### [minio-console-0.0.6](https://github.com/truecharts/apps/compare/minio-console-0.0.5...minio-console-0.0.6) (2021-10-19)
+### [小型控制台-0.0.6](https://github.com/truecharts/apps/compare/minio-console-0.0.5...minio-console-0.0.6) (2021-10-19)
 
 #### 修复
 
@@ -1148,7 +1148,7 @@
 
 <a name="minio-console-0.0.5"></a>
 
-### [minio-console-0.0.5](https://github.com/truecharts/apps/compare/minio-console-0.0.4...minio-console-0.0.5) (2021-10-18)
+### [小型控制台-0.0.5](https://github.com/truecharts/apps/compare/minio-console-0.0.4...minio-console-0.0.5) (2021-10-18)
 
 #### 聊天
 
@@ -1162,7 +1162,7 @@
 
 <a name="minio-console-0.0.4"></a>
 
-### [minio-console-0.0.4](https://github.com/truecharts/apps/compare/minio-console-0.0.3...minio-console-0.0.4) (2021-10-17)
+### [微型控制台-0.0.4](https://github.com/truecharts/apps/compare/minio-console-0.0.3...minio-console-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -1176,7 +1176,7 @@
 
 <a name="minio-console-0.0.3"></a>
 
-### [minio-console-0.0.3](https://github.com/truecharts/apps/compare/minio-console-0.0.2...minio-console-0.0.3) (2021-10-13)
+### [小型控制台-0.0.3](https://github.com/truecharts/apps/compare/minio-console-0.0.2...minio-console-0.0.3) (2021-10-13)
 
 #### 聊天
 
@@ -1186,7 +1186,7 @@
 
 <a name="minio-console-0.0.2"></a>
 
-### [minio-console-0.0.2](https://github.com/truecharts/apps/compare/minio-console-0.0.1...minio-console-0.0.2) (2021-10-13)
+### [小型控制台-0.0.2](https://github.com/truecharts/apps/compare/minio-console-0.0.1...minio-console-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -1196,4 +1196,4 @@
 
 <a name="minio-console-0.0.1"></a>
 
-### minio-console-0.0.1 (2021-10-04)
+### 微型控制台-0.0.1 (2021-10-04)
