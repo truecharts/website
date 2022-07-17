@@ -507,7 +507,7 @@
 
 #### 聊天
 
-* replace code with includes on some apps that was skipped ([#2250](https://github.com/truecharts/apps/issues/2250))
+* 将代码替换为被跳过的某些应用上的包含([#2250](https://github.com/truecharts/apps/issues/2250))
 * 更新一般非主要停靠栏
 
 
@@ -549,7 +549,7 @@
 
 #### 修复
 
-* change db name to "postgres" ([#2042](https://github.com/truecharts/apps/issues/2042))
+* 将 db 名称更改为 "postgres" ([#2042](https://github.com/truecharts/apps/issues/2042))
 
 
 
@@ -560,7 +560,7 @@
 #### 修复
 
 * 修复一些应用并将一些应用移动到稳定状态
-* Don't mount conf dir ([#2027](https://github.com/truecharts/apps/issues/2027))
+* 不挂载conf 目录([#2027](https://github.com/truecharts/apps/issues/2027))
 
 
 
@@ -667,7 +667,7 @@
 
 #### Feat
 
-* use official image ([#1866](https://github.com/truecharts/apps/issues/1866))
+* 使用官方图像 ([#1866](https://github.com/truecharts/apps/issues/1866))
 
 
 
@@ -1149,7 +1149,7 @@
 
 <a name="odoo-1.0.3"></a>
 
-### [odoo-1.0.3](https://github.com/truecharts/apps/compare/odoo-1.0.0...odoo-1.0.3) (2021-10-20)
+### [奇数-1.0.3](https://github.com/truecharts/apps/compare/odoo-1.0.0...odoo-1.0.3) (2021-10-20)
 
 #### 聊天
 
