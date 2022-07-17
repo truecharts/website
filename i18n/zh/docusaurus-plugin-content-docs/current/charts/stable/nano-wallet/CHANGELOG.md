@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [nano-wallet-2.0.17](https://github.com/truecharts/apps/compare/nano-wallet-2.0.16...nano-wallet-2.0.17) (2022-07-14)
+## [纳米钱包-2.0.17](https://github.com/truecharts/apps/compare/nano-wallet-2.0.16...nano-wallet-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [nano-wallet-2.0.16](https://github.com/truecharts/apps/compare/nano-wallet-2.0.14...nano-wallet-2.0.16) (2022-07-14)
+## [纳米钱包-2.0.16](https://github.com/truecharts/apps/compare/nano-wallet-2.0.14...nano-wallet-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [nano-wallet-2.0.14](https://github.com/truecharts/apps/compare/nano-wallet-2.0.12...nano-wallet-2.0.14) (2022-07-12)
+## [纳米钱包-2.0.14](https://github.com/truecharts/apps/compare/nano-wallet-2.0.12...nano-wallet-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="nano-wallet-2.0.11"></a>
 
-### [nano-wallet-2.0.11](https://github.com/truecharts/apps/compare/nano-wallet-2.0.10...nano-wallet-2.0.11) (2022-07-12)
+### [纳米钱包-2.0.11](https://github.com/truecharts/apps/compare/nano-wallet-2.0.10...nano-wallet-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="nano-wallet-2.0.4"></a>
 
-### [nano-wallet-2.0.4](https://github.com/truecharts/apps/compare/nano-wallet-2.0.3...nano-wallet-2.0.4) (2022-06-14)
+### [纳米钱包-2.0.4](https://github.com/truecharts/apps/compare/nano-wallet-2.0.3...nano-wallet-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="nano-wallet-2.0.3"></a>
 
-### [nano-wallet-2.0.3](https://github.com/truecharts/apps/compare/nano-wallet-2.0.2...nano-wallet-2.0.3) (2022-06-11)
+### [纳米钱包-2.0.3](https://github.com/truecharts/apps/compare/nano-wallet-2.0.2...nano-wallet-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="nano-wallet-2.0.2"></a>
 
-### [nano-wallet-2.0.2](https://github.com/truecharts/apps/compare/nano-wallet-2.0.1...nano-wallet-2.0.2) (2022-06-07)
+### [纳米钱包-2.0.2](https://github.com/truecharts/apps/compare/nano-wallet-2.0.1...nano-wallet-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -226,7 +226,7 @@
 
 <a name="nano-wallet-1.0.15"></a>
 
-### [nano-wallet-1.0.15](https://github.com/truecharts/apps/compare/nano-wallet-1.0.14...nano-wallet-1.0.15) (2022-05-17)
+### [纳米钱包-1.0.15](https://github.com/truecharts/apps/compare/nano-wallet-1.0.14...nano-wallet-1.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -277,7 +277,7 @@
 
 <a name="nano-wallet-1.0.10"></a>
 
-### [nano-wallet-1.0.10](https://github.com/truecharts/apps/compare/nano-wallet-1.0.9...nano-wallet-1.0.10) (2022-04-12)
+### [纳米钱包-1.0.10](https://github.com/truecharts/apps/compare/nano-wallet-1.0.9...nano-wallet-1.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -287,7 +287,7 @@
 
 <a name="nano-wallet-1.0.9"></a>
 
-### [nano-wallet-1.0.9](https://github.com/truecharts/apps/compare/nano-wallet-1.0.8...nano-wallet-1.0.9) (2022-04-03)
+### [纳米钱包-1.0.9](https://github.com/truecharts/apps/compare/nano-wallet-1.0.8...nano-wallet-1.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="nano-wallet-1.0.1"></a>
 
-### [nano-wallet-1.0.1](https://github.com/truecharts/apps/compare/nano-wallet-1.0.0...nano-wallet-1.0.1) (2022-03-07)
+### [纳米钱包-1.0.1](https://github.com/truecharts/apps/compare/nano-wallet-1.0.0...nano-wallet-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -355,7 +355,7 @@
 
 <a name="nano-wallet-0.0.26"></a>
 
-### [nano-wallet-0.0.26](https://github.com/truecharts/apps/compare/nano-wallet-0.0.25...nano-wallet-0.0.26) (2022-03-02)
+### [纳米钱包-0.0.26](https://github.com/truecharts/apps/compare/nano-wallet-0.0.25...nano-wallet-0.0.26) (2022-03-02)
 
 #### 聊天
 
@@ -366,7 +366,7 @@
 
 <a name="nano-wallet-0.0.25"></a>
 
-### [nano-wallet-0.0.25](https://github.com/truecharts/apps/compare/nano-wallet-0.0.24...nano-wallet-0.0.25) (2022-02-21)
+### [纳米钱包-0.0.25](https://github.com/truecharts/apps/compare/nano-wallet-0.0.24...nano-wallet-0.0.25) (2022-02-21)
 
 #### 聊天
 
@@ -376,7 +376,7 @@
 
 <a name="nano-wallet-0.0.24"></a>
 
-### [nano-wallet-0.0.24](https://github.com/truecharts/apps/compare/nano-wallet-0.0.23...nano-wallet-0.0.24) (2022-02-15)
+### [纳米钱包-0.0.24](https://github.com/truecharts/apps/compare/nano-wallet-0.0.23...nano-wallet-0.0.24) (2022-02-15)
 
 #### 聊天
 
@@ -386,7 +386,7 @@
 
 <a name="nano-wallet-0.0.23"></a>
 
-### [nano-wallet-0.0.23](https://github.com/truecharts/apps/compare/nano-wallet-0.0.22...nano-wallet-0.0.23) (2022-02-08)
+### [纳米钱包-0.0.23](https://github.com/truecharts/apps/compare/nano-wallet-0.0.22...nano-wallet-0.0.23) (2022-02-08)
 
 #### 聊天
 
@@ -396,7 +396,7 @@
 
 <a name="nano-wallet-0.0.22"></a>
 
-### [nano-wallet-0.0.22](https://github.com/truecharts/apps/compare/nano-wallet-0.0.21...nano-wallet-0.0.22) (2022-02-06)
+### [纳米钱包-0.0.22](https://github.com/truecharts/apps/compare/nano-wallet-0.0.21...nano-wallet-0.0.22) (2022-02-06)
 
 #### 聊天
 
@@ -406,7 +406,7 @@
 
 <a name="nano-wallet-0.0.21"></a>
 
-### [nano-wallet-0.0.21](https://github.com/truecharts/apps/compare/nano-wallet-0.0.20...nano-wallet-0.0.21) (2022-02-05)
+### [纳米钱包-0.0.21](https://github.com/truecharts/apps/compare/nano-wallet-0.0.20...nano-wallet-0.0.21) (2022-02-05)
 
 #### 聊天
 
@@ -416,7 +416,7 @@
 
 <a name="nano-wallet-0.0.20"></a>
 
-### [nano-wallet-0.0.20](https://github.com/truecharts/apps/compare/nano-wallet-0.0.19...nano-wallet-0.0.20) (2022-02-02)
+### [纳米钱包-0.0.20](https://github.com/truecharts/apps/compare/nano-wallet-0.0.19...nano-wallet-0.0.20) (2022-02-02)
 
 #### 聊天
 
@@ -426,7 +426,7 @@
 
 <a name="nano-wallet-0.0.19"></a>
 
-### [nano-wallet-0.0.19](https://github.com/truecharts/apps/compare/nano-wallet-0.0.18...nano-wallet-0.0.19) (2022-01-25)
+### [纳米钱包-0.0.19](https://github.com/truecharts/apps/compare/nano-wallet-0.0.18...nano-wallet-0.0.19) (2022-01-25)
 
 #### 聊天
 
@@ -436,7 +436,7 @@
 
 <a name="nano-wallet-0.0.18"></a>
 
-### [nano-wallet-0.0.18](https://github.com/truecharts/apps/compare/nano-wallet-0.0.17...nano-wallet-0.0.18) (2022-01-22)
+### [纳米钱包-0.0.18](https://github.com/truecharts/apps/compare/nano-wallet-0.0.17...nano-wallet-0.0.18) (2022-01-22)
 
 #### 聊天
 
@@ -446,7 +446,7 @@
 
 <a name="nano-wallet-0.0.17"></a>
 
-### [nano-wallet-0.0.17](https://github.com/truecharts/apps/compare/nano-wallet-0.0.16...nano-wallet-0.0.17) (2022-01-21)
+### [纳米钱包-0.0.17](https://github.com/truecharts/apps/compare/nano-wallet-0.0.16...nano-wallet-0.0.17) (2022-01-21)
 
 #### 聊天
 
@@ -460,7 +460,7 @@
 
 <a name="nano-wallet-0.0.16"></a>
 
-### [nano-wallet-0.0.16](https://github.com/truecharts/apps/compare/nano-wallet-0.0.15...nano-wallet-0.0.16) (2022-01-18)
+### [纳米钱包-0.0.16](https://github.com/truecharts/apps/compare/nano-wallet-0.0.15...nano-wallet-0.0.16) (2022-01-18)
 
 #### 聊天
 
@@ -470,7 +470,7 @@
 
 <a name="nano-wallet-0.0.15"></a>
 
-### [nano-wallet-0.0.15](https://github.com/truecharts/apps/compare/nano-wallet-0.0.14...nano-wallet-0.0.15) (2022-01-13)
+### [纳米钱包-0.0.15](https://github.com/truecharts/apps/compare/nano-wallet-0.0.14...nano-wallet-0.0.15) (2022-01-13)
 
 #### 聊天
 
@@ -484,7 +484,7 @@
 
 <a name="nano-wallet-0.0.14"></a>
 
-### [nano-wallet-0.0.14](https://github.com/truecharts/apps/compare/nano-wallet-0.0.13...nano-wallet-0.0.14) (2022-01-12)
+### [纳米钱包-0.0.14](https://github.com/truecharts/apps/compare/nano-wallet-0.0.13...nano-wallet-0.0.14) (2022-01-12)
 
 #### 聊天
 
@@ -504,7 +504,7 @@
 
 <a name="nano-wallet-0.0.12"></a>
 
-### [nano-wallet-0.0.12](https://github.com/truecharts/apps/compare/nano-wallet-0.0.11...nano-wallet-0.0.12) (2022-01-04)
+### [纳米钱包-0.0.12](https://github.com/truecharts/apps/compare/nano-wallet-0.0.11...nano-wallet-0.0.12) (2022-01-04)
 
 #### 聊天
 
@@ -514,7 +514,7 @@
 
 <a name="nano-wallet-0.0.11"></a>
 
-### [nano-wallet-0.0.11](https://github.com/truecharts/apps/compare/nano-wallet-0.0.10...nano-wallet-0.0.11) (2021-12-28)
+### [纳米钱包-0.0.11](https://github.com/truecharts/apps/compare/nano-wallet-0.0.10...nano-wallet-0.0.11) (2021-12-28)
 
 #### 聊天
 
@@ -534,7 +534,7 @@
 
 <a name="nano-wallet-0.0.9"></a>
 
-### [nano-wallet-0.0.9](https://github.com/truecharts/apps/compare/nano-wallet-0.0.8...nano-wallet-0.0.9) (2021-12-21)
+### [纳米钱包-0.0.9](https://github.com/truecharts/apps/compare/nano-wallet-0.0.8...nano-wallet-0.0.9) (2021-12-21)
 
 #### 聊天
 
@@ -564,7 +564,7 @@
 
 <a name="nano-wallet-0.0.6"></a>
 
-### [nano-wallet-0.0.6](https://github.com/truecharts/apps/compare/nano-wallet-0.0.5...nano-wallet-0.0.6) (2021-12-18)
+### [nano-wallet-0.0.6](https://github.com/truecharts/apps/compare/nano-wallet-0.0.5...nano-wallet-0.0.6) (2021-12-18岁)
 
 #### 聊天
 
@@ -575,7 +575,7 @@
 
 <a name="nano-wallet-0.0.5"></a>
 
-### [nano-wallet-0.0.5](https://github.com/truecharts/apps/compare/nano-wallet-0.0.4...nano-wallet-0.0.5) (2021-12-14)
+### [纳米钱包-0.0.5](https://github.com/truecharts/apps/compare/nano-wallet-0.0.4...nano-wallet-0.0.5) (2021-12-14)
 
 #### 聊天
 
@@ -585,7 +585,7 @@
 
 <a name="nano-wallet-0.0.4"></a>
 
-### [nano-wallet-0.0.4](https://github.com/truecharts/apps/compare/nano-wallet-0.0.2...nano-wallet-0.0.4) (2021-12-13)
+### [纳米钱包-0.0.4](https://github.com/truecharts/apps/compare/nano-wallet-0.0.2...nano-wallet-0.0.4) (2021-12-13)
 
 #### 聊天
 
@@ -595,11 +595,11 @@
 
 <a name="nano-wallet-0.0.2"></a>
 
-### [nano-wallet-0.0.2](https://github.com/truecharts/apps/compare/nano-wallet-0.0.1...nano-wallet-0.0.2) (2021-12-13)
+### [纳米钱包-0.0.2](https://github.com/truecharts/apps/compare/nano-wallet-0.0.1...nano-wallet-0.0.2) (2021-12-13)
 
 #### 聊天
 
-* update docker general major docker tags (major) ([#1523](https://github.com/truecharts/apps/issues/1523))
+* 更新 docker 一般主要停靠标签 (主要) ([#1523](https://github.com/truecharts/apps/issues/1523))
 
 
 
