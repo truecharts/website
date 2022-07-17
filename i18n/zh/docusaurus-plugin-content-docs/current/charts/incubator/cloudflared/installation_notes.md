@@ -1,15 +1,15 @@
-# Installation Notes
+# 安装笔记
 
-- Go to [cloudflare team dash](https://dash.teams.cloudflare.com) and create a tunnel or migrate a current tunnel(this action is not reversible)
+- 转至 [云层团队破折号](https://dash.teams.cloudflare.com) 创建隧道或迁移当前隧道(此操作不可逆)
 
-- Copy the token from tunnel's overview **Install and run a connector** section,
+- 从隧道概述 **复制令牌并运行一个连接器** 部分。
 
-  this is what your token may look like.
+  这是您的令牌可能看起来像样的。
 
   ```text
-  eyJhIjoiNDJhYmYwMTQzNGMyMeUzNDMzMTE1Y2M0YmFhZGY0YTciLCJ0IjoiNzBiNza5zTItMWViMS00MjdjaWFiZjEtZWMwdzIwNmQwZmI3IiwicyI6IlltRmxPV1ExTldZdE16a3lOUzAwsW1KbUxUZzJPVGN0Wm1VelptVmpaak00T1dZeiJ5
+  eyJhIjoiNDJhYmYwMTQzNGMyUzNDMzMTE1Y2M0YmFhZGY0YTciLCJ0IjoiNzBiNza5zTItMWViMS00MjdjaWFiZJEtZWMwdzIwNmQwZmI3IiwicyI6IlltRmxPV1ExTldZdE16a3lOUzawsW1KbUxUZZJPVGN0Wm1VelptVmpaak00T1dZeij5
   ```
 
-- Set `token` with **your** tunnel's token
+- 使用 **设置 `token` 您的** 隧道令牌
 
-- Now you can manage the tunnel via cloudflare dash by setting a private network or create ingress rules for your services and domain.
+- 现在您可以通过设置一个私人网络或为您的服务和域创建引进规则来管理隧道。
