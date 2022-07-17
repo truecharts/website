@@ -1,23 +1,23 @@
-# Changelog
+# 更新日志
 
 
 ## [lancache-monolithic-0.0.8](https://github.com/truecharts/apps/compare/lancache-monolithic-0.0.7...lancache-monolithic-0.0.8) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [lancache-monolithic-0.0.7](https://github.com/truecharts/apps/compare/lancache-monolithic-0.0.5...lancache-monolithic-0.0.7) (2022-07-14)
 
-### Chore
+### 聊天
 
-- update some last icons ([#3160](https://github.com/truecharts/apps/issues/3160))
+- 更新一些最后的图标([#3160](https://github.com/truecharts/apps/issues/3160))
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
@@ -27,19 +27,19 @@
 
 ## [lancache-monolithic-0.0.4](https://github.com/truecharts/apps/compare/lancache-monolithic-0.0.2...lancache-monolithic-0.0.4) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [lancache-monolithic-0.0.2](https://github.com/truecharts/apps/compare/lancache-monolithic-0.0.1...lancache-monolithic-0.0.2) (2022-07-12)
 
-### Chore
+### 聊天
 
-- Auto-update chart README [skip ci]
-- bump to regenerate documentation
+- 自动更新README图表 [跳过 ci]
+- 跳转以重新生成文档
 
 
 
@@ -49,4 +49,4 @@
 
 #### Feat
 
-* Add lancache-monolithic ([#3143](https://github.com/truecharts/apps/issues/3143))
+* 添加lancache-monolithic ([#3143](https://github.com/truecharts/apps/issues/3143))
