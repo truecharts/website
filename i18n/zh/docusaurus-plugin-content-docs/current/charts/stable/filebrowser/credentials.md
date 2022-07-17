@@ -2,4 +2,4 @@
 
 __Email__: `admin`
 
-__Password__: `admin`
+__密码__: `管理员`
