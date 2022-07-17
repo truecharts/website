@@ -5,7 +5,7 @@
 
 ### 聊天
 
-- update container image tccr.io/truecharts/grafana to v9.0.3 ([#3186](https://github.com/truecharts/apps/issues/3186))
+- 将容器图像 tccr.io/truechars/grafana 更新到 v9.0.3 ([#3186](https://github.com/truecharts/apps/issues/3186))
 
 
 
@@ -1292,7 +1292,7 @@
 
 <a name="grafana-2.0.6"></a>
 
-### [grafana-2.0.6](https://github.com/truecharts/apps/compare/grafana-2.0.5...grafana-2.0.6) (2021-12-18)
+### [grafana-2.0.6](https://github.com/truecharts/apps/compare/grafana-2.0.5...grafana-2.0.6) (2021-12-18岁)
 
 #### 聊天
 
@@ -1334,7 +1334,7 @@
 
 <a name="grafana-2.0.2"></a>
 
-### [grafana-2.0.2](https://github.com/truecharts/apps/compare/grafana-2.0.1...grafana-2.0.2) (2021-12-12)
+### [grafana-2.0.2](https://github.com/truecharts/apps/compare/grafana-2.0.1...grafana-2.0.2) (2021-12)
 
 #### 聊天
 
@@ -1404,7 +1404,7 @@
 
 <a name="grafana-1.0.10"></a>
 
-### grafana-1.0.10 (2021-12-05)
+### grafana-1.0.10(2021-12-05)
 
 #### 聊天
 
@@ -1422,7 +1422,7 @@
 #### 修复
 
 * 修复主题选择中的类型([#1428](https://github.com/truecharts/apps/issues/1428))
-* correct storage path
+* 正确的存储路径
 
 
 
@@ -1452,7 +1452,7 @@
 
 #### 修复
 
-* correct storage path
+* 正确的存储路径
 
 
 
@@ -1515,14 +1515,14 @@
 
 #### 聊天
 
-* move grafana to stable
+* 移动草原到稳定状态
 
 
 
 <a name="grafana-0.0.1"></a>
 
-### grafana-0.0.1 (2021-11-23)
+### grafana-0.0.1(2021-11-23)
 
 #### 添加
 
-* Add grafana to incubator Apps ([#1391](https://github.com/truecharts/apps/issues/1391))
+* 添加草原到孵化器应用程序([#1391](https://github.com/truecharts/apps/issues/1391))
