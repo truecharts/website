@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [gotify-8.0.18](https://github.com/truecharts/apps/compare/gotify-8.0.17...gotify-8.0.18) (2022-07-14)
+## [intracfy-8.0.18](https://github.com/truecharts/apps/compare/gotify-8.0.17...gotify-8.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [gotify-8.0.17](https://github.com/truecharts/apps/compare/gotify-8.0.15...gotify-8.0.17) (2022-07-14)
+## [intracfy-8.0.17](https://github.com/truecharts/apps/compare/gotify-8.0.15...gotify-8.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [gotify-8.0.15](https://github.com/truecharts/apps/compare/gotify-8.0.13...gotify-8.0.15) (2022-07-12)
+## [intracfy-8.0.15](https://github.com/truecharts/apps/compare/gotify-8.0.13...gotify-8.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [gotify-8.0.13](https://github.com/truecharts/apps/compare/gotify-8.0.12...gotify-8.0.13) (2022-07-12)
+## [intracfy-8.0.13](https://github.com/truecharts/apps/compare/gotify-8.0.12...gotify-8.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="gotify-8.0.12"></a>
 
-### [gotify-8.0.12](https://github.com/truecharts/apps/compare/gotify-8.0.11...gotify-8.0.12) (2022-07-12)
+### [intracfy-8.0.12](https://github.com/truecharts/apps/compare/gotify-8.0.11...gotify-8.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="gotify-8.0.11"></a>
 
-### [gotify-8.0.11](https://github.com/truecharts/apps/compare/gotify-8.0.10...gotify-8.0.11) (2022-07-11)
+### [intracfy-8.0.11](https://github.com/truecharts/apps/compare/gotify-8.0.10...gotify-8.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="gotify-8.0.10"></a>
 
-### [gotify-8.0.10](https://github.com/truecharts/apps/compare/gotify-8.0.9...gotify-8.0.10) (2022-07-09)
+### [intracfy-8.0.10](https://github.com/truecharts/apps/compare/gotify-8.0.9...gotify-8.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="gotify-8.0.9"></a>
 
-### [gotify-8.0.9](https://github.com/truecharts/apps/compare/gotify-8.0.8...gotify-8.0.9) (2022-07-05)
+### [intracfy-8.0.9](https://github.com/truecharts/apps/compare/gotify-8.0.8...gotify-8.0.9) (2022-07-05)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="gotify-8.0.8"></a>
 
-### [gotify-8.0.8](https://github.com/truecharts/apps/compare/gotify-8.0.7...gotify-8.0.8) (2022-07-04)
+### [intracfy-8.0.8](https://github.com/truecharts/apps/compare/gotify-8.0.7...gotify-8.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="gotify-8.0.7"></a>
 
-### [gotify-8.0.7](https://github.com/truecharts/apps/compare/gotify-8.0.6...gotify-8.0.7) (2022-06-25)
+### [intracfy-8.0.7](https://github.com/truecharts/apps/compare/gotify-8.0.6...gotify-8.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="gotify-8.0.6"></a>
 
-### [gotify-8.0.6](https://github.com/truecharts/apps/compare/gotify-8.0.5...gotify-8.0.6) (2022-06-22)
+### [intracfy-8.0.6](https://github.com/truecharts/apps/compare/gotify-8.0.5...gotify-8.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="gotify-8.0.5"></a>
 
-### [gotify-8.0.5](https://github.com/truecharts/apps/compare/gotify-8.0.4...gotify-8.0.5) (2022-06-21)
+### [intracfy-8.0.5](https://github.com/truecharts/apps/compare/gotify-8.0.4...gotify-8.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="gotify-8.0.4"></a>
 
-### [gotify-8.0.4](https://github.com/truecharts/apps/compare/gotify-8.0.3...gotify-8.0.4) (2022-06-17)
+### [intracify-8.0.4](https://github.com/truecharts/apps/compare/gotify-8.0.3...gotify-8.0.4) (2022-06-17)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="gotify-8.0.3"></a>
 
-### [gotify-8.0.3](https://github.com/truecharts/apps/compare/gotify-8.0.2...gotify-8.0.3) (2022-06-14)
+### [intracfy-8.0.3](https://github.com/truecharts/apps/compare/gotify-8.0.2...gotify-8.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="gotify-8.0.2"></a>
 
-### [gotify-8.0.2](https://github.com/truecharts/apps/compare/gotify-8.0.1...gotify-8.0.2) (2022-06-14)
+### [intracfy-8.0.2](https://github.com/truecharts/apps/compare/gotify-8.0.1...gotify-8.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="gotify-8.0.1"></a>
 
-### [gotify-8.0.1](https://github.com/truecharts/apps/compare/gotify-8.0.0...gotify-8.0.1) (2022-06-11)
+### [intracfy-8.0.1](https://github.com/truecharts/apps/compare/gotify-8.0.0...gotify-8.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -156,7 +156,7 @@
 
 <a name="gotify-8.0.0"></a>
 
-### [gotify-8.0.0](https://github.com/truecharts/apps/compare/gotify-7.0.1...gotify-8.0.0) (2022-06-07)
+### [intracfy-8.0.0](https://github.com/truecharts/apps/compare/gotify-7.0.1...gotify-8.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -170,7 +170,7 @@
 
 <a name="gotify-7.0.1"></a>
 
-### [gotify-7.0.1](https://github.com/truecharts/apps/compare/gotify-6.0.23...gotify-7.0.1) (2022-06-07)
+### [intracfy-7.0.1](https://github.com/truecharts/apps/compare/gotify-6.0.23...gotify-7.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="gotify-7.0.0"></a>
 
-### [gotify-7.0.0](https://github.com/truecharts/apps/compare/gotify-6.0.23...gotify-7.0.0) (2022-06-07)
+### [intracfy-7.0.0](https://github.com/truecharts/apps/compare/gotify-6.0.23...gotify-7.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -204,7 +204,7 @@
 
 <a name="gotify-6.0.23"></a>
 
-### [gotify-6.0.23](https://github.com/truecharts/apps/compare/gotify-6.0.22...gotify-6.0.23) (2022-05-31)
+### [intracfy-6.0.23](https://github.com/truecharts/apps/compare/gotify-6.0.22...gotify-6.0.23) (2022-05-31)
 
 #### 聊天
 
@@ -214,7 +214,7 @@
 
 <a name="gotify-6.0.22"></a>
 
-### [gotify-6.0.22](https://github.com/truecharts/apps/compare/gotify-6.0.21...gotify-6.0.22) (2022-05-26)
+### [intracfy-6.0.22](https://github.com/truecharts/apps/compare/gotify-6.0.21...gotify-6.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -225,7 +225,7 @@
 
 <a name="gotify-6.0.22"></a>
 
-### [gotify-6.0.22](https://github.com/truecharts/apps/compare/gotify-6.0.21...gotify-6.0.22) (2022-05-26)
+### [intracfy-6.0.22](https://github.com/truecharts/apps/compare/gotify-6.0.21...gotify-6.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -235,7 +235,7 @@
 
 <a name="gotify-6.0.21"></a>
 
-### [gotify-6.0.21](https://github.com/truecharts/apps/compare/gotify-6.0.20...gotify-6.0.21) (2022-05-24)
+### [intracfy-6.0.21](https://github.com/truecharts/apps/compare/gotify-6.0.20...gotify-6.0.21) (2022-05-24)
 
 #### 聊天
 
@@ -245,7 +245,7 @@
 
 <a name="gotify-6.0.20"></a>
 
-### [gotify-6.0.20](https://github.com/truecharts/apps/compare/gotify-6.0.19...gotify-6.0.20) (2022-05-17)
+### [intracfy-6.0.20](https://github.com/truecharts/apps/compare/gotify-6.0.19...gotify-6.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -256,7 +256,7 @@
 
 <a name="gotify-6.0.20"></a>
 
-### [gotify-6.0.20](https://github.com/truecharts/apps/compare/gotify-6.0.19...gotify-6.0.20) (2022-05-17)
+### [intracfy-6.0.20](https://github.com/truecharts/apps/compare/gotify-6.0.19...gotify-6.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="gotify-6.0.19"></a>
 
-### [gotify-6.0.19](https://github.com/truecharts/apps/compare/gotify-6.0.18...gotify-6.0.19) (2022-05-17)
+### [intracfy-6.0.19](https://github.com/truecharts/apps/compare/gotify-6.0.18...gotify-6.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="gotify-6.0.18"></a>
 
-### [gotify-6.0.18](https://github.com/truecharts/apps/compare/gotify-6.0.17...gotify-6.0.18) (2022-05-10)
+### [intracfy-6.0.18](https://github.com/truecharts/apps/compare/gotify-6.0.17...gotify-6.0.18) (2022-05-10)
 
 #### 聊天
 
@@ -286,7 +286,7 @@
 
 <a name="gotify-6.0.17"></a>
 
-### [gotify-6.0.17](https://github.com/truecharts/apps/compare/gotify-6.0.16...gotify-6.0.17) (2022-05-05)
+### [intracfy-6.0.17](https://github.com/truecharts/apps/compare/gotify-6.0.16...gotify-6.0.17) (2022-05-05)
 
 #### 聊天
 
@@ -296,7 +296,7 @@
 
 <a name="gotify-6.0.16"></a>
 
-### [gotify-6.0.16](https://github.com/truecharts/apps/compare/gotify-6.0.15...gotify-6.0.16) (2022-05-04)
+### [intracfy-6.0.16](https://github.com/truecharts/apps/compare/gotify-6.0.15...gotify-6.0.16) (2022-05-04)
 
 #### 聊天
 
@@ -306,7 +306,7 @@
 
 <a name="gotify-6.0.15"></a>
 
-### [gotify-6.0.15](https://github.com/truecharts/apps/compare/gotify-6.0.14...gotify-6.0.15) (2022-04-26)
+### [intracfy-6.0.15](https://github.com/truecharts/apps/compare/gotify-6.0.14...gotify-6.0.15) (2022-04-26)
 
 #### 聊天
 
@@ -316,7 +316,7 @@
 
 <a name="gotify-6.0.14"></a>
 
-### [gotify-6.0.14](https://github.com/truecharts/apps/compare/gotify-6.0.13...gotify-6.0.14) (2022-04-20)
+### [intracfy-6.0.14](https://github.com/truecharts/apps/compare/gotify-6.0.13...gotify-6.0.14) (2022-04-20)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="gotify-6.0.13"></a>
 
-### [gotify-6.0.13](https://github.com/truecharts/apps/compare/gotify-6.0.12...gotify-6.0.13) (2022-04-12)
+### [intracfy-6.0.13](https://github.com/truecharts/apps/compare/gotify-6.0.12...gotify-6.0.13) (2022-04-12)
 
 #### 聊天
 
@@ -337,7 +337,7 @@
 
 <a name="gotify-6.0.12"></a>
 
-### [gotify-6.0.12](https://github.com/truecharts/apps/compare/gotify-6.0.11...gotify-6.0.12) (2022-04-03)
+### [intracfy-6.0.12](https://github.com/truecharts/apps/compare/gotify-6.0.11...gotify-6.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -347,7 +347,7 @@
 
 <a name="gotify-6.0.11"></a>
 
-### [gotify-6.0.11](https://github.com/truecharts/apps/compare/gotify-6.0.10...gotify-6.0.11) (2022-03-31)
+### [intracfy-6.0.11](https://github.com/truecharts/apps/compare/gotify-6.0.10...gotify-6.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -357,7 +357,7 @@
 
 <a name="gotify-6.0.10"></a>
 
-### [gotify-6.0.10](https://github.com/truecharts/apps/compare/gotify-6.0.9...gotify-6.0.10) (2022-03-31)
+### [intracfy-6.0.10](https://github.com/truecharts/apps/compare/gotify-6.0.9...gotify-6.0.10) (2022-03-31)
 
 #### 聊天
 
@@ -367,7 +367,7 @@
 
 <a name="gotify-6.0.9"></a>
 
-### [gotify-6.0.9](https://github.com/truecharts/apps/compare/gotify-6.0.8...gotify-6.0.9) (2022-03-30)
+### [intracfy-6.0.9](https://github.com/truecharts/apps/compare/gotify-6.0.8...gotify-6.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -378,7 +378,7 @@
 
 <a name="gotify-6.0.8"></a>
 
-### [gotify-6.0.8](https://github.com/truecharts/apps/compare/gotify-6.0.7...gotify-6.0.8) (2022-03-26)
+### [intracfy-6.0.8](https://github.com/truecharts/apps/compare/gotify-6.0.7...gotify-6.0.8) (2022-03-26)
 
 #### 聊天
 
@@ -388,7 +388,7 @@
 
 <a name="gotify-6.0.7"></a>
 
-### [gotify-6.0.7](https://github.com/truecharts/apps/compare/gotify-6.0.6...gotify-6.0.7) (2022-03-26)
+### [intracfy-6.0.7](https://github.com/truecharts/apps/compare/gotify-6.0.6...gotify-6.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -398,7 +398,7 @@
 
 <a name="gotify-6.0.2"></a>
 
-### [gotify-6.0.2](https://github.com/truecharts/apps/compare/gotify-6.0.1...gotify-6.0.2) (2022-03-08)
+### [intracfy-6.0.2](https://github.com/truecharts/apps/compare/gotify-6.0.1...gotify-6.0.2) (2022-03-08)
 
 #### 聊天
 
@@ -408,7 +408,7 @@
 
 <a name="gotify-6.0.1"></a>
 
-### [gotify-6.0.1](https://github.com/truecharts/apps/compare/gotify-6.0.0...gotify-6.0.1) (2022-03-07)
+### [intracfy-6.0.1](https://github.com/truecharts/apps/compare/gotify-6.0.0...gotify-6.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -419,7 +419,7 @@
 
 <a name="gotify-6.0.0"></a>
 
-### [gotify-6.0.0](https://github.com/truecharts/apps/compare/gotify-5.0.36...gotify-6.0.0) (2022-03-03)
+### [intracfy-6.0.0](https://github.com/truecharts/apps/compare/gotify-5.0.36...gotify-6.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -435,7 +435,7 @@
 
 <a name="gotify-5.0.36"></a>
 
-### [gotify-5.0.36](https://github.com/truecharts/apps/compare/gotify-5.0.35...gotify-5.0.36) (2022-03-02)
+### [intracfy-5..0.36](https://github.com/truecharts/apps/compare/gotify-5.0.35...gotify-5.0.36) (2022-03-02)
 
 #### 聊天
 
@@ -446,7 +446,7 @@
 
 <a name="gotify-5.0.35"></a>
 
-### [gotify-5.0.35](https://github.com/truecharts/apps/compare/gotify-5.0.34...gotify-5.0.35) (2022-02-21)
+### [intracfy-5.0.35](https://github.com/truecharts/apps/compare/gotify-5.0.34...gotify-5.0.35) (2022-02-21)
 
 #### 聊天
 
@@ -456,7 +456,7 @@
 
 <a name="gotify-5.0.34"></a>
 
-### [gotify-5.0.34](https://github.com/truecharts/apps/compare/gotify-5.0.33...gotify-5.0.34) (2022-02-15)
+### [intracfy-5..0.34](https://github.com/truecharts/apps/compare/gotify-5.0.33...gotify-5.0.34) (2022-02-15)
 
 #### 聊天
 
@@ -466,7 +466,7 @@
 
 <a name="gotify-5.0.33"></a>
 
-### [gotify-5.0.33](https://github.com/truecharts/apps/compare/gotify-5.0.32...gotify-5.0.33) (2022-02-08)
+### [intracfy-5..0.33](https://github.com/truecharts/apps/compare/gotify-5.0.32...gotify-5.0.33) (2022-02-08)
 
 #### 聊天
 
@@ -476,7 +476,7 @@
 
 <a name="gotify-5.0.32"></a>
 
-### [gotify-5.0.32](https://github.com/truecharts/apps/compare/gotify-5.0.31...gotify-5.0.32) (2022-02-06)
+### [intracfy-5..0.32](https://github.com/truecharts/apps/compare/gotify-5.0.31...gotify-5.0.32) (2022-02-06)
 
 #### 聊天
 
@@ -486,7 +486,7 @@
 
 <a name="gotify-5.0.31"></a>
 
-### [gotify-5.0.31](https://github.com/truecharts/apps/compare/gotify-5.0.30...gotify-5.0.31) (2022-02-05)
+### [intracfy-5..0.31](https://github.com/truecharts/apps/compare/gotify-5.0.30...gotify-5.0.31) (2022-02-05)
 
 #### 聊天
 
@@ -496,7 +496,7 @@
 
 <a name="gotify-5.0.30"></a>
 
-### [gotify-5.0.30](https://github.com/truecharts/apps/compare/gotify-5.0.29...gotify-5.0.30) (2022-02-02)
+### [intracfy-5.0.30](https://github.com/truecharts/apps/compare/gotify-5.0.29...gotify-5.0.30) (2022-02-02)
 
 #### 聊天
 
@@ -506,7 +506,7 @@
 
 <a name="gotify-5.0.29"></a>
 
-### [gotify-5.0.29](https://github.com/truecharts/apps/compare/gotify-5.0.28...gotify-5.0.29) (2022-01-25)
+### [intracfy-5.0.29](https://github.com/truecharts/apps/compare/gotify-5.0.28...gotify-5.0.29) (2022-01-25)
 
 #### 聊天
 
@@ -516,7 +516,7 @@
 
 <a name="gotify-5.0.28"></a>
 
-### [gotify-5.0.28](https://github.com/truecharts/apps/compare/gotify-5.0.27...gotify-5.0.28) (2022-01-22)
+### [intracfy-5.0.28](https://github.com/truecharts/apps/compare/gotify-5.0.27...gotify-5.0.28) (2022-01-22)
 
 #### 聊天
 
@@ -526,7 +526,7 @@
 
 <a name="gotify-5.0.27"></a>
 
-### [gotify-5.0.27](https://github.com/truecharts/apps/compare/gotify-5.0.26...gotify-5.0.27) (2022-01-22)
+### [intracfy-5.0.27](https://github.com/truecharts/apps/compare/gotify-5.0.26...gotify-5.0.27) (2022-01-22)
 
 #### 聊天
 
@@ -536,7 +536,7 @@
 
 <a name="gotify-5.0.26"></a>
 
-### [gotify-5.0.26](https://github.com/truecharts/apps/compare/gotify-5.0.25...gotify-5.0.26) (2022-01-21)
+### [intracfy-5.0.26](https://github.com/truecharts/apps/compare/gotify-5.0.25...gotify-5.0.26) (2022-01-21)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="gotify-5.0.25"></a>
 
-### [gotify-5.0.25](https://github.com/truecharts/apps/compare/gotify-5.0.24...gotify-5.0.25) (2022-01-18)
+### [intracfy-5.0.25](https://github.com/truecharts/apps/compare/gotify-5.0.24...gotify-5.0.25) (2022-01-18)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="gotify-5.0.24"></a>
 
-### [gotify-5.0.24](https://github.com/truecharts/apps/compare/gotify-5.0.23...gotify-5.0.24) (2022-01-17)
+### [intracfy-5..0.24](https://github.com/truecharts/apps/compare/gotify-5.0.23...gotify-5.0.24) (2022-01-17)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="gotify-5.0.23"></a>
 
-### [gotify-5.0.23](https://github.com/truecharts/apps/compare/gotify-5.0.22...gotify-5.0.23) (2022-01-13)
+### [intracfy-5.0.23](https://github.com/truecharts/apps/compare/gotify-5.0.22...gotify-5.0.23) (2022-01-13)
 
 #### 聊天
 
@@ -584,7 +584,7 @@
 
 <a name="gotify-5.0.22"></a>
 
-### [gotify-5.0.22](https://github.com/truecharts/apps/compare/gotify-5.0.21...gotify-5.0.22) (2022-01-12)
+### [intracfy-5.0.22](https://github.com/truecharts/apps/compare/gotify-5.0.21...gotify-5.0.22) (2022-01-12)
 
 #### 聊天
 
@@ -594,7 +594,7 @@
 
 <a name="gotify-5.0.21"></a>
 
-### [gotify-5.0.21](https://github.com/truecharts/apps/compare/gotify-5.0.20...gotify-5.0.21) (2022-01-11)
+### [intracfy-5.0.21](https://github.com/truecharts/apps/compare/gotify-5.0.20...gotify-5.0.21) (2022-01-11)
 
 #### 聊天
 
@@ -604,7 +604,7 @@
 
 <a name="gotify-5.0.20"></a>
 
-### [gotify-5.0.20](https://github.com/truecharts/apps/compare/gotify-5.0.19...gotify-5.0.20) (2022-01-04)
+### [intracfy-5.0.20](https://github.com/truecharts/apps/compare/gotify-5.0.19...gotify-5.0.20) (2022-01-04)
 
 #### 聊天
 
@@ -614,7 +614,7 @@
 
 <a name="gotify-5.0.19"></a>
 
-### [gotify-5.0.19](https://github.com/truecharts/apps/compare/gotify-5.0.18...gotify-5.0.19) (2021-12-28)
+### [intracfy-5..0.19](https://github.com/truecharts/apps/compare/gotify-5.0.18...gotify-5.0.19) (2021-12-28)
 
 #### 聊天
 
@@ -624,7 +624,7 @@
 
 <a name="gotify-5.0.18"></a>
 
-### [gotify-5.0.18](https://github.com/truecharts/apps/compare/gotify-5.0.17...gotify-5.0.18) (2021-12-21)
+### [intracfy-5.0.18](https://github.com/truecharts/apps/compare/gotify-5.0.17...gotify-5.0.18) (2021-12-21)
 
 #### 聊天
 
@@ -634,7 +634,7 @@
 
 <a name="gotify-5.0.17"></a>
 
-### [gotify-5.0.17](https://github.com/truecharts/apps/compare/gotify-5.0.16...gotify-5.0.17) (2021-12-19)
+### [intracfy-5.0.17](https://github.com/truecharts/apps/compare/gotify-5.0.16...gotify-5.0.17) (2021-12-19)
 
 #### 聊天
 
@@ -646,7 +646,7 @@
 
 <a name="gotify-5.0.16"></a>
 
-### [gotify-5.0.16](https://github.com/truecharts/apps/compare/gotify-5.0.15...gotify-5.0.16) (2021-12-19)
+### [intracfy-5.0.16](https://github.com/truecharts/apps/compare/gotify-5.0.15...gotify-5.0.16) (2021-12-19)
 
 #### 聊天
 
@@ -657,7 +657,7 @@
 
 <a name="gotify-5.0.15"></a>
 
-### [gotify-5.0.15](https://github.com/truecharts/apps/compare/gotify-5.0.14...gotify-5.0.15) (2021-12-18)
+### [intracfy-5.0.15](https://github.com/truecharts/apps/compare/gotify-5.0.14...gotify-5.0.15) (2021-12-18岁)
 
 #### 聊天
 
@@ -668,7 +668,7 @@
 
 <a name="gotify-5.0.14"></a>
 
-### [gotify-5.0.14](https://github.com/truecharts/apps/compare/gotify-5.0.13...gotify-5.0.14) (2021-12-14)
+### [intracfy-5.0.14](https://github.com/truecharts/apps/compare/gotify-5.0.13...gotify-5.0.14) (2021-12-14)
 
 #### 聊天
 
@@ -678,7 +678,7 @@
 
 <a name="gotify-5.0.13"></a>
 
-### [gotify-5.0.13](https://github.com/truecharts/apps/compare/gotify-5.0.12...gotify-5.0.13) (2021-12-13)
+### [intracfy-5.0.13](https://github.com/truecharts/apps/compare/gotify-5.0.12...gotify-5.0.13) (2021-12-13)
 
 #### 聊天
 
@@ -688,7 +688,7 @@
 
 <a name="gotify-5.0.12"></a>
 
-### [gotify-5.0.12](https://github.com/truecharts/apps/compare/gotify-5.0.11...gotify-5.0.12) (2021-12-11)
+### [intracfy-5.0.12](https://github.com/truecharts/apps/compare/gotify-5.0.11...gotify-5.0.12) (2021-12-11)
 
 #### 聊天
 
@@ -698,7 +698,7 @@
 
 <a name="gotify-5.0.11"></a>
 
-### [gotify-5.0.11](https://github.com/truecharts/apps/compare/gotify-5.0.10...gotify-5.0.11) (2021-12-07)
+### [intracfy-5.0.11](https://github.com/truecharts/apps/compare/gotify-5.0.10...gotify-5.0.11) (2021-12-07)
 
 #### 聊天
 
@@ -708,7 +708,7 @@
 
 <a name="gotify-5.0.10"></a>
 
-### gotify-5.0.10 (2021-12-05)
+### logfy-5.0.10 (2021-12-05)
 
 #### 聊天
 
@@ -730,7 +730,7 @@
 
 <a name="gotify-5.0.9"></a>
 
-### [gotify-5.0.9](https://github.com/truecharts/apps/compare/gotify-5.0.8...gotify-5.0.9) (2021-12-05)
+### [intracfy-5.0.9](https://github.com/truecharts/apps/compare/gotify-5.0.8...gotify-5.0.9) (2021-12-05)
 
 #### 聊天
 
@@ -740,7 +740,7 @@
 
 <a name="gotify-5.0.8"></a>
 
-### [gotify-5.0.8](https://github.com/truecharts/apps/compare/gotify-5.0.7...gotify-5.0.8) (2021-12-05)
+### [intracfy-5.0.8](https://github.com/truecharts/apps/compare/gotify-5.0.7...gotify-5.0.8) (2021-12-05)
 
 #### 聊天
 
@@ -750,7 +750,7 @@
 
 <a name="gotify-5.0.7"></a>
 
-### [gotify-5.0.7](https://github.com/truecharts/apps/compare/gotify-5.0.6...gotify-5.0.7) (2021-12-04)
+### [intracfy-5.0.7](https://github.com/truecharts/apps/compare/gotify-5.0.6...gotify-5.0.7) (2021-12-04)
 
 #### 聊天
 
@@ -760,7 +760,7 @@
 
 <a name="gotify-5.0.6"></a>
 
-### [gotify-5.0.6](https://github.com/truecharts/apps/compare/gotify-5.0.5...gotify-5.0.6) (2021-12-04)
+### [intracfy-5.0.6](https://github.com/truecharts/apps/compare/gotify-5.0.5...gotify-5.0.6) (2021-12-04)
 
 #### 聊天
 
@@ -770,7 +770,7 @@
 
 <a name="gotify-5.0.5"></a>
 
-### [gotify-5.0.5](https://github.com/truecharts/apps/compare/gotify-5.0.4...gotify-5.0.5) (2021-12-03)
+### [intracfy-5.0.5](https://github.com/truecharts/apps/compare/gotify-5.0.4...gotify-5.0.5) (2021-12-03)
 
 #### 聊天
 
@@ -782,7 +782,7 @@
 
 <a name="gotify-5.0.4"></a>
 
-### [gotify-5.0.4](https://github.com/truecharts/apps/compare/gotify-5.0.3...gotify-5.0.4) (2021-11-30)
+### [intracfy-5.0.4](https://github.com/truecharts/apps/compare/gotify-5.0.3...gotify-5.0.4) (2021-11-30)
 
 #### 聊天
 
@@ -796,7 +796,7 @@
 
 <a name="gotify-5.0.3"></a>
 
-### [gotify-5.0.3](https://github.com/truecharts/apps/compare/gotify-5.0.2...gotify-5.0.3) (2021-11-23)
+### [intracfy-5.0.3](https://github.com/truecharts/apps/compare/gotify-5.0.2...gotify-5.0.3) (2021-11-23)
 
 #### 聊天
 
@@ -806,7 +806,7 @@
 
 <a name="gotify-5.0.2"></a>
 
-### [gotify-5.0.2](https://github.com/truecharts/apps/compare/gotify-5.0.1...gotify-5.0.2) (2021-11-22)
+### [intracfy-5.0.2](https://github.com/truecharts/apps/compare/gotify-5.0.1...gotify-5.0.2) (2021-11-22)
 
 #### 聊天
 
@@ -820,7 +820,7 @@
 
 <a name="gotify-5.0.1"></a>
 
-### [gotify-5.0.1](https://github.com/truecharts/apps/compare/gotify-5.0.0...gotify-5.0.1) (2021-11-16)
+### [intracfy-5.0.1](https://github.com/truecharts/apps/compare/gotify-5.0.0...gotify-5.0.1) (2021-11-16)
 
 #### 聊天
 
@@ -830,7 +830,7 @@
 
 <a name="gotify-5.0.0"></a>
 
-### [gotify-5.0.0](https://github.com/truecharts/apps/compare/gotify-4.0.10...gotify-5.0.0) (2021-11-16)
+### [intracfy-5..0.0](https://github.com/truecharts/apps/compare/gotify-4.0.10...gotify-5.0.0) (2021-11-16)
 
 #### 聊天
 
@@ -840,7 +840,7 @@
 
 <a name="gotify-4.0.10"></a>
 
-### [gotify-4.0.10](https://github.com/truecharts/apps/compare/gotify-4.0.9...gotify-4.0.10) (2021-11-15)
+### [agrifuty-4.0.10](https://github.com/truecharts/apps/compare/gotify-4.0.9...gotify-4.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -851,7 +851,7 @@
 
 <a name="gotify-4.0.9"></a>
 
-### [gotify-4.0.9](https://github.com/truecharts/apps/compare/gotify-4.0.8...gotify-4.0.9) (2021-11-14)
+### [intracfy-4.0.9](https://github.com/truecharts/apps/compare/gotify-4.0.8...gotify-4.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -863,13 +863,13 @@
 #### 修复
 
 * 拆分udp 和 tcp 端口[#1321](https://github.com/truecharts/apps/issues/1321)
-* sync securityContext from values to questions ([#1323](https://github.com/truecharts/apps/issues/1323))
+* 从值到问题同步安全Context ([#1323](https://github.com/truecharts/apps/issues/1323))
 
 
 
 <a name="gotify-4.0.8"></a>
 
-### [gotify-4.0.8](https://github.com/truecharts/apps/compare/gotify-4.0.7...gotify-4.0.8) (2021-11-09)
+### [intracfy-4.0.8](https://github.com/truecharts/apps/compare/gotify-4.0.7...gotify-4.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -879,7 +879,7 @@
 
 <a name="gotify-4.0.7"></a>
 
-### [gotify-4.0.7](https://github.com/truecharts/apps/compare/gotify-4.0.6...gotify-4.0.7) (2021-11-07)
+### [intracfy-4.0.7](https://github.com/truecharts/apps/compare/gotify-4.0.6...gotify-4.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -889,7 +889,7 @@
 
 <a name="gotify-4.0.6"></a>
 
-### [gotify-4.0.6](https://github.com/truecharts/apps/compare/gotify-4.0.5...gotify-4.0.6) (2021-11-07)
+### [intracfy-4.0.6](https://github.com/truecharts/apps/compare/gotify-4.0.5...gotify-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -911,7 +911,7 @@
 
 <a name="gotify-4.0.5"></a>
 
-### [gotify-4.0.5](https://github.com/truecharts/apps/compare/gotify-4.0.4...gotify-4.0.5) (2021-11-02)
+### [intracfy-4.0.5](https://github.com/truecharts/apps/compare/gotify-4.0.4...gotify-4.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -921,7 +921,7 @@
 
 <a name="gotify-4.0.4"></a>
 
-### [gotify-4.0.4](https://github.com/truecharts/apps/compare/gotify-4.0.3...gotify-4.0.4) (2021-11-01)
+### [intracfy-4.0.4](https://github.com/truecharts/apps/compare/gotify-4.0.3...gotify-4.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -931,7 +931,7 @@
 
 <a name="gotify-4.0.3"></a>
 
-### [gotify-4.0.3](https://github.com/truecharts/apps/compare/gotify-4.0.2...gotify-4.0.3) (2021-10-26)
+### [intracfy-4.0.3](https://github.com/truecharts/apps/compare/gotify-4.0.2...gotify-4.0.3) (2021-10-26)
 
 #### 聊天
 
@@ -941,7 +941,7 @@
 
 <a name="gotify-4.0.2"></a>
 
-### [gotify-4.0.2](https://github.com/truecharts/apps/compare/gotify-4.0.1...gotify-4.0.2) (2021-10-26)
+### [intracfy-4.0.2](https://github.com/truecharts/apps/compare/gotify-4.0.1...gotify-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -951,7 +951,7 @@
 
 <a name="gotify-4.0.1"></a>
 
-### [gotify-4.0.1](https://github.com/truecharts/apps/compare/gotify-4.0.0...gotify-4.0.1) (2021-10-26)
+### [intracfy-4.0.1](https://github.com/truecharts/apps/compare/gotify-4.0.0...gotify-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -961,7 +961,7 @@
 
 <a name="gotify-4.0.0"></a>
 
-### [gotify-4.0.0](https://github.com/truecharts/apps/compare/gotify-3.0.0...gotify-4.0.0) (2021-10-26)
+### [intracfy-4.0.0](https://github.com/truecharts/apps/compare/gotify-3.0.0...gotify-4.0.0) (2021-10-26)
 
 #### 聊天
 
@@ -972,7 +972,7 @@
 
 <a name="gotify-3.0.0"></a>
 
-### [gotify-3.0.0](https://github.com/truecharts/apps/compare/gotify-2.0.1...gotify-3.0.0) (2021-10-25)
+### [intracfy-3.0.0](https://github.com/truecharts/apps/compare/gotify-2.0.1...gotify-3.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -982,7 +982,7 @@
 
 <a name="gotify-2.0.1"></a>
 
-### [gotify-2.0.1](https://github.com/truecharts/apps/compare/gotify-1.0.2...gotify-2.0.1) (2021-10-20)
+### [intracfy-2.0.1](https://github.com/truecharts/apps/compare/gotify-1.0.2...gotify-2.0.1) (2021-10-20)
 
 #### 聊天
 
@@ -992,7 +992,7 @@
 
 <a name="gotify-1.0.0"></a>
 
-### [gotify-1.0.0](https://github.com/truecharts/apps/compare/gotify-0.0.4...gotify-1.0.0) (2021-10-20)
+### [intracfy-1.0.0](https://github.com/truecharts/apps/compare/gotify-0.0.4...gotify-1.0.0) (2021-10-20)
 
 #### 聊天
 
@@ -1006,7 +1006,7 @@
 
 <a name="gotify-0.0.4"></a>
 
-### [gotify-0.0.4](https://github.com/truecharts/apps/compare/gotify-0.0.3...gotify-0.0.4) (2021-10-20)
+### [intracfy-0.0.4](https://github.com/truecharts/apps/compare/gotify-0.0.3...gotify-0.0.4) (2021-10-20)
 
 #### 聊天
 
@@ -1016,7 +1016,7 @@
 
 <a name="gotify-0.0.3"></a>
 
-### [gotify-0.0.3](https://github.com/truecharts/apps/compare/gotify-0.0.2...gotify-0.0.3) (2021-10-19)
+### [intracfy-0.0.3](https://github.com/truecharts/apps/compare/gotify-0.0.2...gotify-0.0.3) (2021-10-19)
 
 #### 更改
 
@@ -1039,7 +1039,7 @@
 
 <a name="gotify-0.0.2"></a>
 
-### [gotify-0.0.2](https://github.com/truecharts/apps/compare/gotify-0.0.1...gotify-0.0.2) (2021-10-19)
+### [intracfy-0.0.2](https://github.com/truecharts/apps/compare/gotify-0.0.1...gotify-0.0.2) (2021-10-19)
 
 #### 聊天
 
@@ -1050,7 +1050,7 @@
 
 <a name="gotify-0.0.1"></a>
 
-### gotify-0.0.1 (2021-10-19)
+### lotfy-0.0.1 (2021-10-19)
 
 #### Feat
 
@@ -1060,7 +1060,7 @@
 
 <a name="gotify-0.0.1"></a>
 
-### gotify-0.0.1 (2021-10-16)
+### lignify-0.0.1 (2021-10-16)
 
 #### Feat
 
