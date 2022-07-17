@@ -1,6 +1,6 @@
 # 监督者
 
-Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services such as Sonarr, Radarr and Plex!
+Overseerr 是一个免费和开源软件应用程序，用于管理您的媒体库的请求。 它与您现有的服务集成，如Sonarr、Radarr和Plex！
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
