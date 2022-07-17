@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [netdata-2.0.19](https://github.com/truecharts/apps/compare/netdata-2.0.18...netdata-2.0.19) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [netdata-2.0.18](https://github.com/truecharts/apps/compare/netdata-2.0.16...netdata-2.0.18) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [netdata-2.0.16](https://github.com/truecharts/apps/compare/netdata-2.0.14...netdata-2.0.16) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [netdata-2.0.14](https://github.com/truecharts/apps/compare/netdata-2.0.13...netdata-2.0.14) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [netdata-2.0.13](https://github.com/truecharts/apps/compare/netdata-2.0.12...netdata-2.0.13) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [netdata-2.0.12](https://github.com/truecharts/apps/compare/netdata-2.0.11...netdata-2.0.12) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,9 +58,9 @@
 
 ### [netdata-2.0.11](https://github.com/truecharts/apps/compare/netdata-2.0.10...netdata-2.0.11) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -68,9 +68,9 @@
 
 ### [netdata-2.0.10](https://github.com/truecharts/apps/compare/netdata-2.0.9...netdata-2.0.10) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [netdata-2.0.9](https://github.com/truecharts/apps/compare/netdata-2.0.8...netdata-2.0.9) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [netdata-2.0.8](https://github.com/truecharts/apps/compare/netdata-2.0.7...netdata-2.0.8) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -98,9 +98,9 @@
 
 ### [netdata-2.0.7](https://github.com/truecharts/apps/compare/netdata-2.0.6...netdata-2.0.7) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -108,9 +108,9 @@
 
 ### [netdata-2.0.6](https://github.com/truecharts/apps/compare/netdata-2.0.5...netdata-2.0.6) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [netdata-2.0.5](https://github.com/truecharts/apps/compare/netdata-2.0.4...netdata-2.0.5) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -128,9 +128,9 @@
 
 ### [netdata-2.0.4](https://github.com/truecharts/apps/compare/netdata-2.0.3...netdata-2.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2848](https://github.com/truecharts/apps/issues/2848))
+* 更新一般的非主基座([#2848](https://github.com/truecharts/apps/issues/2848))
 
 
 
@@ -138,9 +138,9 @@
 
 ### [netdata-2.0.3](https://github.com/truecharts/apps/compare/netdata-2.0.2...netdata-2.0.3) (2022-06-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2846](https://github.com/truecharts/apps/issues/2846))
+* 更新一般的非主码([#2846](https://github.com/truecharts/apps/issues/2846))
 
 
 
@@ -148,9 +148,9 @@
 
 ### [netdata-2.0.2](https://github.com/truecharts/apps/compare/netdata-2.0.1...netdata-2.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -158,18 +158,18 @@
 
 ### [netdata-2.0.1](https://github.com/truecharts/apps/compare/netdata-1.0.1...netdata-2.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -177,13 +177,13 @@
 
 ### [netdata-2.0.0](https://github.com/truecharts/apps/compare/netdata-1.0.1...netdata-2.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -191,9 +191,9 @@
 
 ### [netdata-1.0.1](https://github.com/truecharts/apps/compare/netdata-1.0.0...netdata-1.0.1) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -203,7 +203,7 @@
 
 #### Feat
 
-* move apps to stable ([#2784](https://github.com/truecharts/apps/issues/2784))
+* 移动应用程序到稳定([#2784](https://github.com/truecharts/apps/issues/2784))
 
 
 
@@ -211,10 +211,10 @@
 
 ### [netdata-0.0.11](https://github.com/truecharts/apps/compare/netdata-0.0.10...netdata-0.0.11) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -222,9 +222,9 @@
 
 ### [netdata-0.0.11](https://github.com/truecharts/apps/compare/netdata-0.0.10...netdata-0.0.11) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -232,20 +232,9 @@
 
 ### [netdata-0.0.10](https://github.com/truecharts/apps/compare/netdata-0.0.9...netdata-0.0.10) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="netdata-0.0.9"></a>
-
-### [netdata-0.0.9](https://github.com/truecharts/apps/compare/netdata-0.0.8...netdata-0.0.9) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -253,9 +242,20 @@
 
 ### [netdata-0.0.9](https://github.com/truecharts/apps/compare/netdata-0.0.8...netdata-0.0.9) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="netdata-0.0.9"></a>
+
+### [netdata-0.0.9](https://github.com/truecharts/apps/compare/netdata-0.0.8...netdata-0.0.9) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -263,9 +263,9 @@
 
 ### [netdata-0.0.8](https://github.com/truecharts/apps/compare/netdata-0.0.7...netdata-0.0.8) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -273,13 +273,13 @@
 
 ### [netdata-0.0.7](https://github.com/truecharts/apps/compare/netdata-0.0.6...netdata-0.0.7) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 #### Feat
 
-* move to stable ([#2636](https://github.com/truecharts/apps/issues/2636))
+* 移动到稳定([#2636](https://github.com/truecharts/apps/issues/2636))
 
 
 
@@ -287,9 +287,9 @@
 
 ### [netdata-0.0.6](https://github.com/truecharts/apps/compare/netdata-0.0.5...netdata-0.0.6) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -297,7 +297,7 @@
 
 ### [netdata-0.0.5](https://github.com/truecharts/apps/compare/netdata-0.0.4...netdata-0.0.5) (2022-05-02)
 
-#### Chore
+#### 聊天
 
 * use configmap for readability and extendability ([#2601](https://github.com/truecharts/apps/issues/2601))
 
@@ -307,7 +307,7 @@
 
 ### [netdata-0.0.4](https://github.com/truecharts/apps/compare/netdata-0.0.3...netdata-0.0.4) (2022-05-02)
 
-#### Chore
+#### 聊天
 
 * add pod/namespace/node env's ([#2600](https://github.com/truecharts/apps/issues/2600))
 
@@ -317,7 +317,7 @@
 
 ### [netdata-0.0.3](https://github.com/truecharts/apps/compare/netdata-0.0.2...netdata-0.0.3) (2022-05-01)
 
-#### Chore
+#### 聊天
 
 * update container image netdata/netdata to v1.34.1
 
@@ -327,7 +327,7 @@
 
 ### [netdata-0.0.2](https://github.com/truecharts/apps/compare/netdata-0.0.1...netdata-0.0.2) (2022-05-01)
 
-#### Fix
+#### 修复
 
 * make host mounts readonly ([#2596](https://github.com/truecharts/apps/issues/2596))
 
