@@ -36,7 +36,7 @@
 
 <a name="metube-2.0.11"></a>
 
-### [metube-2.0.11](https://github.com/truecharts/apps/compare/metube-2.0.10...metube-2.0.11) (2022-07-12)
+### [Metube-2.0.11](https://github.com/truecharts/apps/compare/metube-2.0.10...metube-2.0.11) (2022-07-12)
 
 #### 聊天
 
