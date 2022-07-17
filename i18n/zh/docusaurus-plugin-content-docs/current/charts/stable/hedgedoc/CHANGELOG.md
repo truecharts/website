@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [hedgedoc-4.0.18](https://github.com/truecharts/apps/compare/hedgedoc-4.0.17...hedgedoc-4.0.18) (2022-07-14)
+## [hedoc-4.0.18](https://github.com/truecharts/apps/compare/hedgedoc-4.0.17...hedgedoc-4.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [hedgedoc-4.0.17](https://github.com/truecharts/apps/compare/hedgedoc-4.0.15...hedgedoc-4.0.17) (2022-07-14)
+## [hedoc-4.0.17](https://github.com/truecharts/apps/compare/hedgedoc-4.0.15...hedgedoc-4.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [hedgedoc-4.0.15](https://github.com/truecharts/apps/compare/hedgedoc-4.0.14...hedgedoc-4.0.15) (2022-07-14)
+## [hedoc-4.0.15](https://github.com/truecharts/apps/compare/hedgedoc-4.0.14...hedgedoc-4.0.15) (2022-07-14)
 
 ### 聊天
 
@@ -25,7 +25,7 @@
 
 
 
-## [hedgedoc-4.0.14](https://github.com/truecharts/apps/compare/hedgedoc-4.0.13...hedgedoc-4.0.14) (2022-07-13)
+## [hedoc-4.0.14](https://github.com/truecharts/apps/compare/hedgedoc-4.0.13...hedgedoc-4.0.14) (2022-07-13)
 
 ### 聊天
 
@@ -33,7 +33,7 @@
 
 
 
-## [hedgedoc-4.0.13](https://github.com/truecharts/apps/compare/hedgedoc-4.0.11...hedgedoc-4.0.13) (2022-07-12)
+## [hedoc-4.0.13](https://github.com/truecharts/apps/compare/hedgedoc-4.0.11...hedgedoc-4.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -42,7 +42,7 @@
 
 
 
-## [hedgedoc-4.0.11](https://github.com/truecharts/apps/compare/hedgedoc-4.0.10...hedgedoc-4.0.11) (2022-07-12)
+## [套期赛季4.0.11](https://github.com/truecharts/apps/compare/hedgedoc-4.0.10...hedgedoc-4.0.11) (2022-07-12)
 
 ### 聊天
 
@@ -52,7 +52,7 @@
 
 <a name="hedgedoc-4.0.10"></a>
 
-### [hedgedoc-4.0.10](https://github.com/truecharts/apps/compare/hedgedoc-4.0.9...hedgedoc-4.0.10) (2022-07-12)
+### [套期_4.0.10](https://github.com/truecharts/apps/compare/hedgedoc-4.0.9...hedgedoc-4.0.10) (2022-07-12)
 
 #### 聊天
 
@@ -62,7 +62,7 @@
 
 <a name="hedgedoc-4.0.9"></a>
 
-### [hedgedoc-4.0.9](https://github.com/truecharts/apps/compare/hedgedoc-4.0.8...hedgedoc-4.0.9) (2022-07-11)
+### [hedoc-4.0.9](https://github.com/truecharts/apps/compare/hedgedoc-4.0.8...hedgedoc-4.0.9) (2022-07-11)
 
 #### 聊天
 
@@ -72,7 +72,7 @@
 
 <a name="hedgedoc-4.0.8"></a>
 
-### [hedgedoc-4.0.8](https://github.com/truecharts/apps/compare/hedgedoc-4.0.7...hedgedoc-4.0.8) (2022-07-11)
+### [hedoc-4.0.8](https://github.com/truecharts/apps/compare/hedgedoc-4.0.7...hedgedoc-4.0.8) (2022-07-11)
 
 #### 聊天
 
@@ -82,7 +82,7 @@
 
 <a name="hedgedoc-4.0.7"></a>
 
-### [hedgedoc-4.0.7](https://github.com/truecharts/apps/compare/hedgedoc-4.0.6...hedgedoc-4.0.7) (2022-07-10)
+### [hedoc-4.0.7](https://github.com/truecharts/apps/compare/hedgedoc-4.0.6...hedgedoc-4.0.7) (2022-07-10)
 
 #### 聊天
 
@@ -92,7 +92,7 @@
 
 <a name="hedgedoc-4.0.6"></a>
 
-### [hedgedoc-4.0.6](https://github.com/truecharts/apps/compare/hedgedoc-4.0.5...hedgedoc-4.0.6) (2022-07-09)
+### [hedoc-4.0.6](https://github.com/truecharts/apps/compare/hedgedoc-4.0.5...hedgedoc-4.0.6) (2022-07-09)
 
 #### 聊天
 
@@ -102,7 +102,7 @@
 
 <a name="hedgedoc-4.0.5"></a>
 
-### [hedgedoc-4.0.5](https://github.com/truecharts/apps/compare/hedgedoc-4.0.4...hedgedoc-4.0.5) (2022-07-05)
+### [Hedoc-4.0.5](https://github.com/truecharts/apps/compare/hedgedoc-4.0.4...hedgedoc-4.0.5) (2022-07-05)
 
 #### 聊天
 
@@ -112,7 +112,7 @@
 
 <a name="hedgedoc-4.0.4"></a>
 
-### [hedgedoc-4.0.4](https://github.com/truecharts/apps/compare/hedgedoc-4.0.3...hedgedoc-4.0.4) (2022-07-04)
+### [套期赛季4.0.4](https://github.com/truecharts/apps/compare/hedgedoc-4.0.3...hedgedoc-4.0.4) (2022-07-04)
 
 #### 聊天
 
@@ -122,17 +122,17 @@
 
 <a name="hedgedoc-4.0.3"></a>
 
-### [hedgedoc-4.0.3](https://github.com/truecharts/apps/compare/hedgedoc-4.0.2...hedgedoc-4.0.3) (2022-06-27)
+### [套期赛季4.0.3](https://github.com/truecharts/apps/compare/hedgedoc-4.0.2...hedgedoc-4.0.3) (2022-06-27)
 
 #### 聊天
 
-* update docker general non-major ([#2996](https://github.com/truecharts/apps/issues/2996))
+* 更新一般的非主码([#2996](https://github.com/truecharts/apps/issues/2996))
 
 
 
 <a name="hedgedoc-4.0.2"></a>
 
-### [hedgedoc-4.0.2](https://github.com/truecharts/apps/compare/hedgedoc-4.0.1...hedgedoc-4.0.2) (2022-06-25)
+### [套期赛季-4.0.2](https://github.com/truecharts/apps/compare/hedgedoc-4.0.1...hedgedoc-4.0.2) (2022-06-25)
 
 #### 聊天
 
@@ -142,7 +142,7 @@
 
 <a name="hedgedoc-4.0.1"></a>
 
-### [hedgedoc-4.0.1](https://github.com/truecharts/apps/compare/hedgedoc-4.0.0...hedgedoc-4.0.1) (2022-06-25)
+### [套期赛季-4.0.1](https://github.com/truecharts/apps/compare/hedgedoc-4.0.0...hedgedoc-4.0.1) (2022-06-25)
 
 #### 聊天
 
@@ -152,17 +152,17 @@
 
 <a name="hedgedoc-4.0.0"></a>
 
-### [hedgedoc-4.0.0](https://github.com/truecharts/apps/compare/hedgedoc-3.0.5...hedgedoc-4.0.0) (2022-06-23)
+### [hedoc-4.0.0](https://github.com/truecharts/apps/compare/hedgedoc-3.0.5...hedgedoc-4.0.0) (2022-06-23)
 
 #### Feat
 
-* BREAKING CHANGE switch to official image  ([#2958](https://github.com/truecharts/apps/issues/2958))
+* 正在切换到官方图像 ([#2958](https://github.com/truecharts/apps/issues/2958))
 
 
 
 <a name="hedgedoc-3.0.5"></a>
 
-### [hedgedoc-3.0.5](https://github.com/truecharts/apps/compare/hedgedoc-3.0.4...hedgedoc-3.0.5) (2022-06-22)
+### [套期3.0.5](https://github.com/truecharts/apps/compare/hedgedoc-3.0.4...hedgedoc-3.0.5) (2022-06-22)
 
 #### 聊天
 
@@ -172,7 +172,7 @@
 
 <a name="hedgedoc-3.0.4"></a>
 
-### [hedgedoc-3.0.4](https://github.com/truecharts/apps/compare/hedgedoc-3.0.3...hedgedoc-3.0.4) (2022-06-21)
+### [套期3.0.4](https://github.com/truecharts/apps/compare/hedgedoc-3.0.3...hedgedoc-3.0.4) (2022-06-21)
 
 #### 聊天
 
@@ -182,7 +182,7 @@
 
 <a name="hedgedoc-3.0.3"></a>
 
-### [hedgedoc-3.0.3](https://github.com/truecharts/apps/compare/hedgedoc-3.0.2...hedgedoc-3.0.3) (2022-06-14)
+### [套期对数-3.0.3](https://github.com/truecharts/apps/compare/hedgedoc-3.0.2...hedgedoc-3.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -192,7 +192,7 @@
 
 <a name="hedgedoc-3.0.2"></a>
 
-### [hedgedoc-3.0.2](https://github.com/truecharts/apps/compare/hedgedoc-3.0.1...hedgedoc-3.0.2) (2022-06-14)
+### [套期3.0.2](https://github.com/truecharts/apps/compare/hedgedoc-3.0.1...hedgedoc-3.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -202,7 +202,7 @@
 
 <a name="hedgedoc-3.0.1"></a>
 
-### [hedgedoc-3.0.1](https://github.com/truecharts/apps/compare/hedgedoc-3.0.0...hedgedoc-3.0.1) (2022-06-11)
+### [套期3.0.1](https://github.com/truecharts/apps/compare/hedgedoc-3.0.0...hedgedoc-3.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -212,7 +212,7 @@
 
 <a name="hedgedoc-3.0.0"></a>
 
-### [hedgedoc-3.0.0](https://github.com/truecharts/apps/compare/hedgedoc-2.0.1...hedgedoc-3.0.0) (2022-06-07)
+### [hedoc-3.0.0](https://github.com/truecharts/apps/compare/hedgedoc-2.0.1...hedgedoc-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -226,7 +226,7 @@
 
 <a name="hedgedoc-2.0.1"></a>
 
-### [hedgedoc-2.0.1](https://github.com/truecharts/apps/compare/hedgedoc-1.0.24...hedgedoc-2.0.1) (2022-06-07)
+### [套期赛季-2.0.1](https://github.com/truecharts/apps/compare/hedgedoc-1.0.24...hedgedoc-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -245,7 +245,7 @@
 
 <a name="hedgedoc-2.0.0"></a>
 
-### [hedgedoc-2.0.0](https://github.com/truecharts/apps/compare/hedgedoc-1.0.24...hedgedoc-2.0.0) (2022-06-07)
+### [hedoc-2.0.0](https://github.com/truecharts/apps/compare/hedgedoc-1.0.24...hedgedoc-2.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -255,7 +255,7 @@
 
 <a name="hedgedoc-1.0.24"></a>
 
-### [hedgedoc-1.0.24](https://github.com/truecharts/apps/compare/hedgedoc-1.0.23...hedgedoc-1.0.24) (2022-05-31)
+### [套期-1.0.24](https://github.com/truecharts/apps/compare/hedgedoc-1.0.23...hedgedoc-1.0.24) (2022-05-31)
 
 #### 聊天
 
@@ -265,7 +265,7 @@
 
 <a name="hedgedoc-1.0.23"></a>
 
-### [hedgedoc-1.0.23](https://github.com/truecharts/apps/compare/hedgedoc-1.0.22...hedgedoc-1.0.23) (2022-05-26)
+### [Hedgedoc-1.0.23](https://github.com/truecharts/apps/compare/hedgedoc-1.0.22...hedgedoc-1.0.23) (2022-05-26)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="hedgedoc-1.0.23"></a>
 
-### [hedgedoc-1.0.23](https://github.com/truecharts/apps/compare/hedgedoc-1.0.22...hedgedoc-1.0.23) (2022-05-26)
+### [Hedgedoc-1.0.23](https://github.com/truecharts/apps/compare/hedgedoc-1.0.22...hedgedoc-1.0.23) (2022-05-26)
 
 #### 聊天
 
@@ -286,7 +286,7 @@
 
 <a name="hedgedoc-1.0.22"></a>
 
-### [hedgedoc-1.0.22](https://github.com/truecharts/apps/compare/hedgedoc-1.0.21...hedgedoc-1.0.22) (2022-05-24)
+### [套期-1.0.22](https://github.com/truecharts/apps/compare/hedgedoc-1.0.21...hedgedoc-1.0.22) (2022-05-24)
 
 #### 聊天
 
@@ -296,7 +296,7 @@
 
 <a name="hedgedoc-1.0.21"></a>
 
-### [hedgedoc-1.0.21](https://github.com/truecharts/apps/compare/hedgedoc-1.0.20...hedgedoc-1.0.21) (2022-05-17)
+### [套期赛季-1.0.21](https://github.com/truecharts/apps/compare/hedgedoc-1.0.20...hedgedoc-1.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -307,7 +307,7 @@
 
 <a name="hedgedoc-1.0.21"></a>
 
-### [hedgedoc-1.0.21](https://github.com/truecharts/apps/compare/hedgedoc-1.0.20...hedgedoc-1.0.21) (2022-05-17)
+### [套期赛季-1.0.21](https://github.com/truecharts/apps/compare/hedgedoc-1.0.20...hedgedoc-1.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -317,7 +317,7 @@
 
 <a name="hedgedoc-1.0.20"></a>
 
-### [hedgedoc-1.0.20](https://github.com/truecharts/apps/compare/hedgedoc-1.0.19...hedgedoc-1.0.20) (2022-05-17)
+### [套期赛季-1.0.20](https://github.com/truecharts/apps/compare/hedgedoc-1.0.19...hedgedoc-1.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="hedgedoc-1.0.19"></a>
 
-### [hedgedoc-1.0.19](https://github.com/truecharts/apps/compare/hedgedoc-1.0.18...hedgedoc-1.0.19) (2022-05-10)
+### [套期赛季-1.0.19](https://github.com/truecharts/apps/compare/hedgedoc-1.0.18...hedgedoc-1.0.19) (2022-05-10)
 
 #### 聊天
 
@@ -337,7 +337,7 @@
 
 <a name="hedgedoc-1.0.18"></a>
 
-### [hedgedoc-1.0.18](https://github.com/truecharts/apps/compare/hedgedoc-1.0.17...hedgedoc-1.0.18) (2022-05-05)
+### [套期对手-1.0.18](https://github.com/truecharts/apps/compare/hedgedoc-1.0.17...hedgedoc-1.0.18) (2022-05-05)
 
 #### 聊天
 
@@ -347,7 +347,7 @@
 
 <a name="hedgedoc-1.0.17"></a>
 
-### [hedgedoc-1.0.17](https://github.com/truecharts/apps/compare/hedgedoc-1.0.16...hedgedoc-1.0.17) (2022-05-04)
+### [套期对手-1.0.17](https://github.com/truecharts/apps/compare/hedgedoc-1.0.16...hedgedoc-1.0.17) (2022-05-04)
 
 #### 聊天
 
@@ -357,7 +357,7 @@
 
 <a name="hedgedoc-1.0.16"></a>
 
-### [hedgedoc-1.0.16](https://github.com/truecharts/apps/compare/hedgedoc-1.0.15...hedgedoc-1.0.16) (2022-04-26)
+### [Hedgedoc-1.0.16](https://github.com/truecharts/apps/compare/hedgedoc-1.0.15...hedgedoc-1.0.16) (2022-04-26)
 
 #### 聊天
 
@@ -367,7 +367,7 @@
 
 <a name="hedgedoc-1.0.15"></a>
 
-### [hedgedoc-1.0.15](https://github.com/truecharts/apps/compare/hedgedoc-1.0.14...hedgedoc-1.0.15) (2022-04-20)
+### [套期赛季-1.0.15](https://github.com/truecharts/apps/compare/hedgedoc-1.0.14...hedgedoc-1.0.15) (2022-04-20)
 
 #### 聊天
 
@@ -378,7 +378,7 @@
 
 <a name="hedgedoc-1.0.14"></a>
 
-### [hedgedoc-1.0.14](https://github.com/truecharts/apps/compare/hedgedoc-1.0.13...hedgedoc-1.0.14) (2022-04-12)
+### [套期赛季-1.0.14](https://github.com/truecharts/apps/compare/hedgedoc-1.0.13...hedgedoc-1.0.14) (2022-04-12)
 
 #### 聊天
 
@@ -398,7 +398,7 @@
 
 <a name="hedgedoc-1.0.12"></a>
 
-### [hedgedoc-1.0.12](https://github.com/truecharts/apps/compare/hedgedoc-1.0.11...hedgedoc-1.0.12) (2022-04-03)
+### [套期赛季-1.0.12](https://github.com/truecharts/apps/compare/hedgedoc-1.0.11...hedgedoc-1.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -408,7 +408,7 @@
 
 <a name="hedgedoc-1.0.11"></a>
 
-### [hedgedoc-1.0.11](https://github.com/truecharts/apps/compare/hedgedoc-1.0.10...hedgedoc-1.0.11) (2022-03-31)
+### [套期赛季-1.0.11](https://github.com/truecharts/apps/compare/hedgedoc-1.0.10...hedgedoc-1.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -418,7 +418,7 @@
 
 <a name="hedgedoc-1.0.10"></a>
 
-### [hedgedoc-1.0.10](https://github.com/truecharts/apps/compare/hedgedoc-1.0.9...hedgedoc-1.0.10) (2022-03-31)
+### [套期赛季-1.0.10](https://github.com/truecharts/apps/compare/hedgedoc-1.0.9...hedgedoc-1.0.10) (2022-03-31)
 
 #### 聊天
 
@@ -428,7 +428,7 @@
 
 <a name="hedgedoc-1.0.9"></a>
 
-### [hedgedoc-1.0.9](https://github.com/truecharts/apps/compare/hedgedoc-1.0.8...hedgedoc-1.0.9) (2022-03-30)
+### [套期赛季-1.0.9](https://github.com/truecharts/apps/compare/hedgedoc-1.0.8...hedgedoc-1.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -449,7 +449,7 @@
 
 <a name="hedgedoc-1.0.7"></a>
 
-### [hedgedoc-1.0.7](https://github.com/truecharts/apps/compare/hedgedoc-1.0.6...hedgedoc-1.0.7) (2022-03-26)
+### [hedoc-1.0.7](https://github.com/truecharts/apps/compare/hedgedoc-1.0.6...hedgedoc-1.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -459,7 +459,7 @@
 
 <a name="hedgedoc-1.0.2"></a>
 
-### [hedgedoc-1.0.2](https://github.com/truecharts/apps/compare/hedgedoc-1.0.1...hedgedoc-1.0.2) (2022-03-08)
+### [套期赛季-1.0.2](https://github.com/truecharts/apps/compare/hedgedoc-1.0.1...hedgedoc-1.0.2) (2022-03-08)
 
 #### 聊天
 
@@ -469,7 +469,7 @@
 
 <a name="hedgedoc-1.0.1"></a>
 
-### [hedgedoc-1.0.1](https://github.com/truecharts/apps/compare/hedgedoc-1.0.0...hedgedoc-1.0.1) (2022-03-07)
+### [套期对手-1.0.1](https://github.com/truecharts/apps/compare/hedgedoc-1.0.0...hedgedoc-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -496,7 +496,7 @@
 
 <a name="hedgedoc-0.0.24"></a>
 
-### [hedgedoc-0.0.24](https://github.com/truecharts/apps/compare/hedgedoc-0.0.23...hedgedoc-0.0.24) (2022-03-02)
+### [套期-0.0.24](https://github.com/truecharts/apps/compare/hedgedoc-0.0.23...hedgedoc-0.0.24) (2022-03-02)
 
 #### 聊天
 
@@ -507,7 +507,7 @@
 
 <a name="hedgedoc-0.0.23"></a>
 
-### [hedgedoc-0.0.23](https://github.com/truecharts/apps/compare/hedgedoc-0.0.22...hedgedoc-0.0.23) (2022-02-21)
+### [套期-0.0.23](https://github.com/truecharts/apps/compare/hedgedoc-0.0.22...hedgedoc-0.0.23) (2022-02-21)
 
 #### 聊天
 
@@ -517,7 +517,7 @@
 
 <a name="hedgedoc-0.0.22"></a>
 
-### [hedgedoc-0.0.22](https://github.com/truecharts/apps/compare/hedgedoc-0.0.21...hedgedoc-0.0.22) (2022-02-15)
+### [套期-0.0.22](https://github.com/truecharts/apps/compare/hedgedoc-0.0.21...hedgedoc-0.0.22) (2022-02-15)
 
 #### 聊天
 
@@ -527,7 +527,7 @@
 
 <a name="hedgedoc-0.0.21"></a>
 
-### [hedgedoc-0.0.21](https://github.com/truecharts/apps/compare/hedgedoc-0.0.20...hedgedoc-0.0.21) (2022-02-08)
+### [套期对冲-0.0.21](https://github.com/truecharts/apps/compare/hedgedoc-0.0.20...hedgedoc-0.0.21) (2022-02-08)
 
 #### 聊天
 
@@ -537,7 +537,7 @@
 
 <a name="hedgedoc-0.0.20"></a>
 
-### [hedgedoc-0.0.20](https://github.com/truecharts/apps/compare/hedgedoc-0.0.19...hedgedoc-0.0.20) (2022-02-06)
+### [套期对冲-0.0.20](https://github.com/truecharts/apps/compare/hedgedoc-0.0.19...hedgedoc-0.0.20) (2022-02-06)
 
 #### 聊天
 
@@ -547,7 +547,7 @@
 
 <a name="hedgedoc-0.0.19"></a>
 
-### [hedgedoc-0.0.19](https://github.com/truecharts/apps/compare/hedgedoc-0.0.18...hedgedoc-0.0.19) (2022-02-05)
+### [套餐-0.0.19](https://github.com/truecharts/apps/compare/hedgedoc-0.0.18...hedgedoc-0.0.19) (2022-02-05)
 
 #### 聊天
 
@@ -557,7 +557,7 @@
 
 <a name="hedgedoc-0.0.18"></a>
 
-### [hedgedoc-0.0.18](https://github.com/truecharts/apps/compare/hedgedoc-0.0.17...hedgedoc-0.0.18) (2022-02-02)
+### [套期对冲-0.0.18](https://github.com/truecharts/apps/compare/hedgedoc-0.0.17...hedgedoc-0.0.18) (2022-02-02)
 
 #### 聊天
 
@@ -567,7 +567,7 @@
 
 <a name="hedgedoc-0.0.17"></a>
 
-### [hedgedoc-0.0.17](https://github.com/truecharts/apps/compare/hedgedoc-0.0.16...hedgedoc-0.0.17) (2022-01-25)
+### [套期对冲-0.0.17](https://github.com/truecharts/apps/compare/hedgedoc-0.0.16...hedgedoc-0.0.17) (2022-01-25)
 
 #### 聊天
 
@@ -577,7 +577,7 @@
 
 <a name="hedgedoc-0.0.16"></a>
 
-### [hedgedoc-0.0.16](https://github.com/truecharts/apps/compare/hedgedoc-0.0.15...hedgedoc-0.0.16) (2022-01-22)
+### [hedoc-0.0.16](https://github.com/truecharts/apps/compare/hedgedoc-0.0.15...hedgedoc-0.0.16) (2022-01-22)
 
 #### 聊天
 
@@ -587,7 +587,7 @@
 
 <a name="hedgedoc-0.0.15"></a>
 
-### [hedgedoc-0.0.15](https://github.com/truecharts/apps/compare/hedgedoc-0.0.13...hedgedoc-0.0.15) (2022-01-22)
+### [套期-0.0.15](https://github.com/truecharts/apps/compare/hedgedoc-0.0.13...hedgedoc-0.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -602,7 +602,7 @@
 
 <a name="hedgedoc-0.0.14"></a>
 
-### [hedgedoc-0.0.14](https://github.com/truecharts/apps/compare/hedgedoc-0.0.13...hedgedoc-0.0.14) (2022-01-21)
+### [套期对冲-0.0.14](https://github.com/truecharts/apps/compare/hedgedoc-0.0.13...hedgedoc-0.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -616,7 +616,7 @@
 
 <a name="hedgedoc-0.0.13"></a>
 
-### [hedgedoc-0.0.13](https://github.com/truecharts/apps/compare/hedgedoc-0.0.12...hedgedoc-0.0.13) (2022-01-18)
+### [Hedgedoc-0.0.13](https://github.com/truecharts/apps/compare/hedgedoc-0.0.12...hedgedoc-0.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -626,7 +626,7 @@
 
 <a name="hedgedoc-0.0.12"></a>
 
-### [hedgedoc-0.0.12](https://github.com/truecharts/apps/compare/hedgedoc-0.0.11...hedgedoc-0.0.12) (2022-01-13)
+### [套期-0.0.12](https://github.com/truecharts/apps/compare/hedgedoc-0.0.11...hedgedoc-0.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -640,7 +640,7 @@
 
 <a name="hedgedoc-0.0.11"></a>
 
-### [hedgedoc-0.0.11](https://github.com/truecharts/apps/compare/hedgedoc-0.0.10...hedgedoc-0.0.11) (2022-01-12)
+### [套期对冲-0.0.11](https://github.com/truecharts/apps/compare/hedgedoc-0.0.10...hedgedoc-0.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -650,7 +650,7 @@
 
 <a name="hedgedoc-0.0.10"></a>
 
-### [hedgedoc-0.0.10](https://github.com/truecharts/apps/compare/hedgedoc-0.0.9...hedgedoc-0.0.10) (2022-01-11)
+### [套期对冲-0.0.10](https://github.com/truecharts/apps/compare/hedgedoc-0.0.9...hedgedoc-0.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -660,7 +660,7 @@
 
 <a name="hedgedoc-0.0.9"></a>
 
-### [hedgedoc-0.0.9](https://github.com/truecharts/apps/compare/hedgedoc-0.0.8...hedgedoc-0.0.9) (2022-01-04)
+### [套期对手-0.0.9](https://github.com/truecharts/apps/compare/hedgedoc-0.0.8...hedgedoc-0.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -680,7 +680,7 @@
 
 <a name="hedgedoc-0.0.7"></a>
 
-### [hedgedoc-0.0.7](https://github.com/truecharts/apps/compare/hedgedoc-0.0.6...hedgedoc-0.0.7) (2021-12-21)
+### [套期交易-0.0.7](https://github.com/truecharts/apps/compare/hedgedoc-0.0.6...hedgedoc-0.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -700,7 +700,7 @@
 
 <a name="hedgedoc-0.0.5"></a>
 
-### [hedgedoc-0.0.5](https://github.com/truecharts/apps/compare/hedgedoc-0.0.4...hedgedoc-0.0.5) (2021-12-19)
+### [套期交易-0.0.5](https://github.com/truecharts/apps/compare/hedgedoc-0.0.4...hedgedoc-0.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -710,7 +710,7 @@
 
 <a name="hedgedoc-0.0.4"></a>
 
-### [hedgedoc-0.0.4](https://github.com/truecharts/apps/compare/hedgedoc-0.0.3...hedgedoc-0.0.4) (2021-12-18)
+### [hedgedoc-0.0.4](https://github.com/truecharts/apps/compare/hedgedoc-0.0.3...hedgedoc-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -721,7 +721,7 @@
 
 <a name="hedgedoc-0.0.3"></a>
 
-### [hedgedoc-0.0.3](https://github.com/truecharts/apps/compare/hedgedoc-0.0.2...hedgedoc-0.0.3) (2021-12-14)
+### [套期-0.0.3](https://github.com/truecharts/apps/compare/hedgedoc-0.0.2...hedgedoc-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -731,7 +731,7 @@
 
 <a name="hedgedoc-0.0.2"></a>
 
-### [hedgedoc-0.0.2](https://github.com/truecharts/apps/compare/hedgedoc-0.0.1...hedgedoc-0.0.2) (2021-12-13)
+### [套期-0.0.2](https://github.com/truecharts/apps/compare/hedgedoc-0.0.1...hedgedoc-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -741,4 +741,4 @@
 
 <a name="hedgedoc-0.0.1"></a>
 
-### hedgedoc-0.0.1 (2021-12-12)
+### Hedgedoc-0.0.1 (2021-12)
