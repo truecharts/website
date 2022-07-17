@@ -1,12 +1,12 @@
 # 开放公里
 
-OpenKM integrates all essential documents management, collaboration and an advanced search functionality into one easy to use solution.
+OpenKM 将所有基本文档管理、协作和高级搜索功能整合为一个简单易用的解决方案。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://www.openkm.com/>
+* [https://www.openkm.com/。](https://www.openkm.com/)
 * <https://github.com/openkm/document-management-system>
 
 ## B. 所需经费
