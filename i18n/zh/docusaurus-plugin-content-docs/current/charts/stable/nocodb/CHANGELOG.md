@@ -460,7 +460,7 @@
 
 #### 修复
 
-* use proxy on vikunja and fix nocodb request body size ([#2511](https://github.com/truecharts/apps/issues/2511))
+* 在 vikunja 上使用代理并修复noccodb 请求主体大小([#2511](https://github.com/truecharts/apps/issues/2511))
 
 
 
@@ -470,7 +470,7 @@
 
 #### 聊天
 
-* update container image nocodb/nocodb to v0.90.3
+* 将容器图像noccodb/noccodb 更新为 v0.90.3
 
 
 
