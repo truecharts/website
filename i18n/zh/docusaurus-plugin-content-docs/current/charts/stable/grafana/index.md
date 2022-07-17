@@ -1,6 +1,6 @@
 # 草地
 
-Grafana is an open source, feature rich metrics dashboard and graph editor for Graphite, Elasticsearch, OpenTSDB, Prometheus and InfluxDB.
+Grafana 是一个开源，功能丰富的仪表板和图形编辑，用于Graphite、Elasticsearch、OpenTSDB、Prometheus 和InfluxDB。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
