@@ -29,7 +29,7 @@
 
 <a name="mealie-8.0.12"></a>
 
-### [mealie-8.0.12](https://github.com/truecharts/apps/compare/mealie-8.0.11...mealie-8.0.12) (2022-07-12)
+### [膳食-8.0.12](https://github.com/truecharts/apps/compare/mealie-8.0.11...mealie-8.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -109,7 +109,7 @@
 
 <a name="mealie-8.0.4"></a>
 
-### [mealie-8.0.4](https://github.com/truecharts/apps/compare/mealie-8.0.3...mealie-8.0.4) (2022-06-17)
+### [膳食-8.0.4](https://github.com/truecharts/apps/compare/mealie-8.0.3...mealie-8.0.4) (2022-06-17)
 
 #### 聊天
 
@@ -207,7 +207,7 @@
 
 <a name="mealie-6.0.22"></a>
 
-### [mealie-6.0.22](https://github.com/truecharts/apps/compare/mealie-6.0.21...mealie-6.0.22) (2022-05-26)
+### [膳食-6.0.22](https://github.com/truecharts/apps/compare/mealie-6.0.21...mealie-6.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -218,7 +218,7 @@
 
 <a name="mealie-6.0.22"></a>
 
-### [mealie-6.0.22](https://github.com/truecharts/apps/compare/mealie-6.0.21...mealie-6.0.22) (2022-05-26)
+### [膳食-6.0.22](https://github.com/truecharts/apps/compare/mealie-6.0.21...mealie-6.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -238,7 +238,7 @@
 
 <a name="mealie-6.0.20"></a>
 
-### [mealie-6.0.20](https://github.com/truecharts/apps/compare/mealie-6.0.19...mealie-6.0.20) (2022-05-17)
+### [膳食-6.0.20](https://github.com/truecharts/apps/compare/mealie-6.0.19...mealie-6.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -249,7 +249,7 @@
 
 <a name="mealie-6.0.20"></a>
 
-### [mealie-6.0.20](https://github.com/truecharts/apps/compare/mealie-6.0.19...mealie-6.0.20) (2022-05-17)
+### [膳食-6.0.20](https://github.com/truecharts/apps/compare/mealie-6.0.19...mealie-6.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -531,7 +531,7 @@
 
 <a name="mealie-5.0.15"></a>
 
-### [mealie-5.0.15](https://github.com/truecharts/apps/compare/mealie-5.0.14...mealie-5.0.15) (2022-01-21)
+### [膳食-5.0.15](https://github.com/truecharts/apps/compare/mealie-5.0.14...mealie-5.0.15) (2022-01-21)
 
 #### 聊天
 
@@ -569,7 +569,7 @@
 
 <a name="mealie-5.0.12"></a>
 
-### [mealie-5.0.12](https://github.com/truecharts/apps/compare/mealie-5.0.11...mealie-5.0.12) (2022-01-12)
+### [膳食-5.0.12](https://github.com/truecharts/apps/compare/mealie-5.0.11...mealie-5.0.12) (2022-01-12)
 
 #### 聊天
 
@@ -599,7 +599,7 @@
 
 <a name="mealie-5.0.9"></a>
 
-### [mealie-5.0.9](https://github.com/truecharts/apps/compare/mealie-5.0.8...mealie-5.0.9) (2021-12-28)
+### [膳食-5.0.9](https://github.com/truecharts/apps/compare/mealie-5.0.8...mealie-5.0.9) (2021-12-28)
 
 #### 聊天
 
@@ -609,7 +609,7 @@
 
 <a name="mealie-5.0.8"></a>
 
-### [mealie-5.0.8](https://github.com/truecharts/apps/compare/mealie-5.0.7...mealie-5.0.8) (2021-12-21)
+### [膳食-5.0.8](https://github.com/truecharts/apps/compare/mealie-5.0.7...mealie-5.0.8) (2021-12-21)
 
 #### 聊天
 
@@ -619,7 +619,7 @@
 
 <a name="mealie-5.0.7"></a>
 
-### [mealie-5.0.7](https://github.com/truecharts/apps/compare/mealie-5.0.6...mealie-5.0.7) (2021-12-19)
+### [膳食-5.0.7](https://github.com/truecharts/apps/compare/mealie-5.0.6...mealie-5.0.7) (2021-12-19)
 
 #### 聊天
 
@@ -631,7 +631,7 @@
 
 <a name="mealie-5.0.6"></a>
 
-### [mealie-5.0.6](https://github.com/truecharts/apps/compare/mealie-5.0.5...mealie-5.0.6) (2021-12-19)
+### [膳食-5.0.6](https://github.com/truecharts/apps/compare/mealie-5.0.5...mealie-5.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="mealie-5.0.5"></a>
 
-### [mealie-5.0.5](https://github.com/truecharts/apps/compare/mealie-5.0.4...mealie-5.0.5) (2021-12-18)
+### [膳食-5.0.5](https://github.com/truecharts/apps/compare/mealie-5.0.4...mealie-5.0.5) (2021-12-18岁)
 
 #### 聊天
 
@@ -653,7 +653,7 @@
 
 <a name="mealie-5.0.4"></a>
 
-### [mealie-5.0.4](https://github.com/truecharts/apps/compare/mealie-5.0.3...mealie-5.0.4) (2021-12-14)
+### [膳食-5.0.4](https://github.com/truecharts/apps/compare/mealie-5.0.3...mealie-5.0.4) (2021-12-14)
 
 #### 聊天
 
@@ -663,7 +663,7 @@
 
 <a name="mealie-5.0.3"></a>
 
-### [mealie-5.0.3](https://github.com/truecharts/apps/compare/mealie-5.0.2...mealie-5.0.3) (2021-12-13)
+### [膳食-5.0.3](https://github.com/truecharts/apps/compare/mealie-5.0.2...mealie-5.0.3) (2021-12-13)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="mealie-5.0.2"></a>
 
-### [mealie-5.0.2](https://github.com/truecharts/apps/compare/mealie-5.0.1...mealie-5.0.2) (2021-12-11)
+### [膳食-5.0.2](https://github.com/truecharts/apps/compare/mealie-5.0.1...mealie-5.0.2) (2021-12-11)
 
 #### 聊天
 
@@ -683,7 +683,7 @@
 
 <a name="mealie-5.0.1"></a>
 
-### [mealie-5.0.1](https://github.com/truecharts/apps/compare/mealie-5.0.0...mealie-5.0.1) (2021-12-11)
+### [膳食-5.0.1](https://github.com/truecharts/apps/compare/mealie-5.0.0...mealie-5.0.1) (2021-12-11)
 
 #### 聊天
 
@@ -693,17 +693,17 @@
 
 <a name="mealie-5.0.0"></a>
 
-### [mealie-5.0.0](https://github.com/truecharts/apps/compare/mealie-4.0.20...mealie-5.0.0) (2021-12-11)
+### [膳食-5.0.0](https://github.com/truecharts/apps/compare/mealie-4.0.20...mealie-5.0.0) (2021-12-11)
 
 #### Feat
 
-* add pgsql support ([#1504](https://github.com/truecharts/apps/issues/1504))
+* 添加 pgsql 支持 ([#1504](https://github.com/truecharts/apps/issues/1504))
 
 
 
 <a name="mealie-4.0.20"></a>
 
-### [mealie-4.0.20](https://github.com/truecharts/apps/compare/mealie-4.0.19...mealie-4.0.20) (2021-12-07)
+### [膳食-4.0.20](https://github.com/truecharts/apps/compare/mealie-4.0.19...mealie-4.0.20) (2021-12-07)
 
 #### 聊天
 
@@ -713,7 +713,7 @@
 
 <a name="mealie-4.0.19"></a>
 
-### mealie-4.0.19 (2021-12-05)
+### 膳食-4.0.19 (2021-12-05)
 
 #### 聊天
 
@@ -733,7 +733,7 @@
 
 <a name="mealie-4.0.18"></a>
 
-### [mealie-4.0.18](https://github.com/truecharts/apps/compare/mealie-4.0.17...mealie-4.0.18) (2021-12-05)
+### [膳食-4.0.18](https://github.com/truecharts/apps/compare/mealie-4.0.17...mealie-4.0.18) (2021-12-05)
 
 #### 聊天
 
@@ -743,7 +743,7 @@
 
 <a name="mealie-4.0.17"></a>
 
-### [mealie-4.0.17](https://github.com/truecharts/apps/compare/mealie-4.0.16...mealie-4.0.17) (2021-12-04)
+### [膳食-4.0.17](https://github.com/truecharts/apps/compare/mealie-4.0.16...mealie-4.0.17) (2021-12-04)
 
 #### 聊天
 
@@ -753,7 +753,7 @@
 
 <a name="mealie-4.0.16"></a>
 
-### [mealie-4.0.16](https://github.com/truecharts/apps/compare/mealie-4.0.15...mealie-4.0.16) (2021-12-04)
+### [膳食-4.0.16](https://github.com/truecharts/apps/compare/mealie-4.0.15...mealie-4.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -829,7 +829,7 @@
 
 <a name="mealie-4.0.9"></a>
 
-### [mealie-4.0.9](https://github.com/truecharts/apps/compare/mealie-4.0.8...mealie-4.0.9) (2021-11-14)
+### [膳食-4.0.9](https://github.com/truecharts/apps/compare/mealie-4.0.8...mealie-4.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -847,7 +847,7 @@
 
 <a name="mealie-4.0.8"></a>
 
-### [mealie-4.0.8](https://github.com/truecharts/apps/compare/mealie-4.0.7...mealie-4.0.8) (2021-11-09)
+### [膳食-4.0.8](https://github.com/truecharts/apps/compare/mealie-4.0.7...mealie-4.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -857,7 +857,7 @@
 
 <a name="mealie-4.0.7"></a>
 
-### [mealie-4.0.7](https://github.com/truecharts/apps/compare/mealie-4.0.6...mealie-4.0.7) (2021-11-07)
+### [膳食-4.0.7](https://github.com/truecharts/apps/compare/mealie-4.0.6...mealie-4.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -867,7 +867,7 @@
 
 <a name="mealie-4.0.6"></a>
 
-### [mealie-4.0.6](https://github.com/truecharts/apps/compare/mealie-4.0.5...mealie-4.0.6) (2021-11-07)
+### [膳食-4.0.6](https://github.com/truecharts/apps/compare/mealie-4.0.5...mealie-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -885,7 +885,7 @@
 
 <a name="mealie-4.0.5"></a>
 
-### [mealie-4.0.5](https://github.com/truecharts/apps/compare/mealie-4.0.4...mealie-4.0.5) (2021-11-02)
+### [膳食-4.0.5](https://github.com/truecharts/apps/compare/mealie-4.0.4...mealie-4.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -895,7 +895,7 @@
 
 <a name="mealie-4.0.4"></a>
 
-### [mealie-4.0.4](https://github.com/truecharts/apps/compare/mealie-4.0.3...mealie-4.0.4) (2021-11-01)
+### [膳食-4.0.4](https://github.com/truecharts/apps/compare/mealie-4.0.3...mealie-4.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -905,7 +905,7 @@
 
 <a name="mealie-4.0.3"></a>
 
-### [mealie-4.0.3](https://github.com/truecharts/apps/compare/mealie-4.0.2...mealie-4.0.3) (2021-11-01)
+### [膳食-4.0.3](https://github.com/truecharts/apps/compare/mealie-4.0.2...mealie-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -915,7 +915,7 @@
 
 <a name="mealie-4.0.2"></a>
 
-### [mealie-4.0.2](https://github.com/truecharts/apps/compare/mealie-4.0.1...mealie-4.0.2) (2021-10-26)
+### [膳食-4.0.2](https://github.com/truecharts/apps/compare/mealie-4.0.1...mealie-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -925,7 +925,7 @@
 
 <a name="mealie-4.0.1"></a>
 
-### [mealie-4.0.1](https://github.com/truecharts/apps/compare/mealie-4.0.0...mealie-4.0.1) (2021-10-26)
+### [膳食-4.0.1](https://github.com/truecharts/apps/compare/mealie-4.0.0...mealie-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -945,12 +945,12 @@
 
 <a name="mealie-3.0.16"></a>
 
-### [mealie-3.0.16](https://github.com/truecharts/apps/compare/mealie-3.0.13...mealie-3.0.16) (2021-10-20)
+### [膳食-3.0.16](https://github.com/truecharts/apps/compare/mealie-3.0.13...mealie-3.0.16) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -961,7 +961,7 @@
 
 <a name="mealie-3.0.13"></a>
 
-### [mealie-3.0.13](https://github.com/truecharts/apps/compare/mealie-3.0.12...mealie-3.0.13) (2021-10-20)
+### [膳食-3.0.13](https://github.com/truecharts/apps/compare/mealie-3.0.12...mealie-3.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -969,13 +969,13 @@
 
 #### 修复
 
-* Use shorted description
+* 使用缩短描述
 
 
 
 <a name="mealie-3.0.12"></a>
 
-### [mealie-3.0.12](https://github.com/truecharts/apps/compare/mealie-3.0.11...mealie-3.0.12) (2021-10-19)
+### [膳食-3.0.12](https://github.com/truecharts/apps/compare/mealie-3.0.11...mealie-3.0.12) (2021-10-19)
 
 #### 更改
 
@@ -999,7 +999,7 @@
 
 <a name="mealie-3.0.11"></a>
 
-### [mealie-3.0.11](https://github.com/truecharts/apps/compare/mealie-3.0.10...mealie-3.0.11) (2021-10-19)
+### [膳食-3.0.11](https://github.com/truecharts/apps/compare/mealie-3.0.10...mealie-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -1009,7 +1009,7 @@
 
 <a name="mealie-3.0.10"></a>
 
-### [mealie-3.0.10](https://github.com/truecharts/apps/compare/mealie-3.0.9...mealie-3.0.10) (2021-10-19)
+### [膳食-3.0.10](https://github.com/truecharts/apps/compare/mealie-3.0.9...mealie-3.0.10) (2021-10-19)
 
 #### 修复
 
@@ -1019,7 +1019,7 @@
 
 <a name="mealie-3.0.9"></a>
 
-### [mealie-3.0.9](https://github.com/truecharts/apps/compare/mealie-3.0.8...mealie-3.0.9) (2021-10-18)
+### [膳食-3.0.9](https://github.com/truecharts/apps/compare/mealie-3.0.8...mealie-3.0.9) (2021-10-18)
 
 #### 重新因子
 
@@ -1029,7 +1029,7 @@
 
 <a name="mealie-3.0.8"></a>
 
-### [mealie-3.0.8](https://github.com/truecharts/apps/compare/mealie-3.0.7...mealie-3.0.8) (2021-10-17)
+### [膳食-3.0.8](https://github.com/truecharts/apps/compare/mealie-3.0.7...mealie-3.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -1043,7 +1043,7 @@
 
 <a name="mealie-3.0.7"></a>
 
-### [mealie-3.0.7](https://github.com/truecharts/apps/compare/mealie-3.0.6...mealie-3.0.7) (2021-10-13)
+### [膳食-3.0.7](https://github.com/truecharts/apps/compare/mealie-3.0.6...mealie-3.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -1053,7 +1053,7 @@
 
 <a name="mealie-3.0.6"></a>
 
-### [mealie-3.0.6](https://github.com/truecharts/apps/compare/mealie-3.0.5...mealie-3.0.6) (2021-10-12)
+### [膳食-3.0.6](https://github.com/truecharts/apps/compare/mealie-3.0.5...mealie-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -1063,7 +1063,7 @@
 
 <a name="mealie-3.0.5"></a>
 
-### [mealie-3.0.5](https://github.com/truecharts/apps/compare/mealie-3.0.4...mealie-3.0.5) (2021-10-12)
+### [膳食-3.0.5](https://github.com/truecharts/apps/compare/mealie-3.0.4...mealie-3.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -1073,7 +1073,7 @@
 
 <a name="mealie-3.0.4"></a>
 
-### [mealie-3.0.4](https://github.com/truecharts/apps/compare/mealie-3.0.3...mealie-3.0.4) (2021-10-05)
+### [膳食-3.0.4](https://github.com/truecharts/apps/compare/mealie-3.0.3...mealie-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1093,19 +1093,19 @@
 
 <a name="mealie-3.0.1"></a>
 
-### [mealie-3.0.1](https://github.com/truecharts/apps/compare/mealie-3.0.0...mealie-3.0.1) (2021-09-26)
+### [膳食-3.0.1](https://github.com/truecharts/apps/compare/mealie-3.0.0...mealie-3.0.1) (2021-09-26)
 
 
 
 <a name="mealie-3.0.0"></a>
 
-### [mealie-3.0.0](https://github.com/truecharts/apps/compare/mealie-2.0.2...mealie-3.0.0) (2021-09-26)
+### [膳食-3.0.0](https://github.com/truecharts/apps/compare/mealie-2.0.2...mealie-3.0.0) (2021-09-26)
 
 
 
 <a name="mealie-2.0.2"></a>
 
-### [mealie-2.0.2](https://github.com/truecharts/apps/compare/mealie-2.0.1...mealie-2.0.2) (2021-09-21)
+### [膳食-2.0.2](https://github.com/truecharts/apps/compare/mealie-2.0.1...mealie-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1115,7 +1115,7 @@
 
 <a name="mealie-2.0.1"></a>
 
-### [mealie-2.0.1](https://github.com/truecharts/apps/compare/mealie-1.11.15...mealie-2.0.1) (2021-09-13)
+### [膳食-2.0.1](https://github.com/truecharts/apps/compare/mealie-1.11.15...mealie-2.0.1) (2021-09-13)
 
 #### 聊天
 
