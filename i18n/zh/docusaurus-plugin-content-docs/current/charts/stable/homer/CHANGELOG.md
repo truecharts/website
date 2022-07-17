@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [homer-2.0.22](https://github.com/truecharts/apps/compare/homer-2.0.21...homer-2.0.22) (2022-07-16)
+## [家庭2.0.22](https://github.com/truecharts/apps/compare/homer-2.0.21...homer-2.0.22) (2022-07-16)
 
 ### 聊天
 
@@ -9,7 +9,7 @@
 
 
 
-## [homer-2.0.21](https://github.com/truecharts/apps/compare/homer-2.0.20...homer-2.0.21) (2022-07-14)
+## [家庭-2.0.21](https://github.com/truecharts/apps/compare/homer-2.0.20...homer-2.0.21) (2022-07-14)
 
 ### 修复
 
@@ -44,7 +44,7 @@
 
 <a name="homer-2.0.15"></a>
 
-### [homer-2.0.15](https://github.com/truecharts/apps/compare/homer-2.0.14...homer-2.0.15) (2022-07-12)
+### [家居2.0.15](https://github.com/truecharts/apps/compare/homer-2.0.14...homer-2.0.15) (2022-07-12)
 
 #### 聊天
 
@@ -94,7 +94,7 @@
 
 <a name="homer-2.0.10"></a>
 
-### [homer-2.0.10](https://github.com/truecharts/apps/compare/homer-2.0.9...homer-2.0.10) (2022-06-25)
+### [家居2.0.10](https://github.com/truecharts/apps/compare/homer-2.0.9...homer-2.0.10) (2022-06-25)
 
 #### 聊天
 
@@ -154,7 +154,7 @@
 
 <a name="homer-2.0.4"></a>
 
-### [homer-2.0.4](https://github.com/truecharts/apps/compare/homer-2.0.3...homer-2.0.4) (2022-06-14)
+### [家居2.0.4](https://github.com/truecharts/apps/compare/homer-2.0.3...homer-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -174,7 +174,7 @@
 
 <a name="homer-2.0.2"></a>
 
-### [homer-2.0.2](https://github.com/truecharts/apps/compare/homer-2.0.1...homer-2.0.2) (2022-06-07)
+### [家庭2.0.2](https://github.com/truecharts/apps/compare/homer-2.0.1...homer-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -184,7 +184,7 @@
 
 <a name="homer-2.0.1"></a>
 
-### [homer-2.0.1](https://github.com/truecharts/apps/compare/homer-1.0.16...homer-2.0.1) (2022-06-07)
+### [家庭2.0.1](https://github.com/truecharts/apps/compare/homer-1.0.16...homer-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -203,7 +203,7 @@
 
 <a name="homer-2.0.0"></a>
 
-### [homer-2.0.0](https://github.com/truecharts/apps/compare/homer-1.0.16...homer-2.0.0) (2022-06-07)
+### [homer-2..0.0](https://github.com/truecharts/apps/compare/homer-1.0.16...homer-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -217,7 +217,7 @@
 
 <a name="homer-1.0.16"></a>
 
-### [homer-1.0.16](https://github.com/truecharts/apps/compare/homer-1.0.15...homer-1.0.16) (2022-05-31)
+### [家庭-1.0.16](https://github.com/truecharts/apps/compare/homer-1.0.15...homer-1.0.16) (2022-05-31)
 
 #### 聊天
 
@@ -227,7 +227,7 @@
 
 <a name="homer-1.0.15"></a>
 
-### [homer-1.0.15](https://github.com/truecharts/apps/compare/homer-1.0.14...homer-1.0.15) (2022-05-26)
+### [家庭1.0.15](https://github.com/truecharts/apps/compare/homer-1.0.14...homer-1.0.15) (2022-05-26)
 
 #### 聊天
 
@@ -238,7 +238,7 @@
 
 <a name="homer-1.0.15"></a>
 
-### [homer-1.0.15](https://github.com/truecharts/apps/compare/homer-1.0.14...homer-1.0.15) (2022-05-26)
+### [家庭1.0.15](https://github.com/truecharts/apps/compare/homer-1.0.14...homer-1.0.15) (2022-05-26)
 
 #### 聊天
 
@@ -248,7 +248,7 @@
 
 <a name="homer-1.0.14"></a>
 
-### [homer-1.0.14](https://github.com/truecharts/apps/compare/homer-1.0.13...homer-1.0.14) (2022-05-24)
+### [家居1.0.14](https://github.com/truecharts/apps/compare/homer-1.0.13...homer-1.0.14) (2022-05-24)
 
 #### 聊天
 
@@ -279,7 +279,7 @@
 
 <a name="homer-1.0.12"></a>
 
-### [homer-1.0.12](https://github.com/truecharts/apps/compare/homer-1.0.11...homer-1.0.12) (2022-05-17)
+### [家庭-1.0.12](https://github.com/truecharts/apps/compare/homer-1.0.11...homer-1.0.12) (2022-05-17)
 
 #### 聊天
 
@@ -299,7 +299,7 @@
 
 <a name="homer-1.0.10"></a>
 
-### [homer-1.0.10](https://github.com/truecharts/apps/compare/homer-1.0.9...homer-1.0.10) (2022-05-05)
+### [家庭1.0.10](https://github.com/truecharts/apps/compare/homer-1.0.9...homer-1.0.10) (2022-05-05)
 
 #### 聊天
 
@@ -309,7 +309,7 @@
 
 <a name="homer-1.0.9"></a>
 
-### [homer-1.0.9](https://github.com/truecharts/apps/compare/homer-1.0.8...homer-1.0.9) (2022-05-04)
+### [家庭1.0.9](https://github.com/truecharts/apps/compare/homer-1.0.8...homer-1.0.9) (2022-05-04)
 
 #### 聊天
 
@@ -319,7 +319,7 @@
 
 <a name="homer-1.0.8"></a>
 
-### [homer-1.0.8](https://github.com/truecharts/apps/compare/homer-1.0.7...homer-1.0.8) (2022-04-26)
+### [家庭1.0.8](https://github.com/truecharts/apps/compare/homer-1.0.7...homer-1.0.8) (2022-04-26)
 
 #### 聊天
 
@@ -340,7 +340,7 @@
 
 <a name="homer-1.0.6"></a>
 
-### [homer-1.0.6](https://github.com/truecharts/apps/compare/homer-1.0.5...homer-1.0.6) (2022-04-12)
+### [家庭1.0.6](https://github.com/truecharts/apps/compare/homer-1.0.5...homer-1.0.6) (2022-04-12)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="homer-1.0.4"></a>
 
-### [homer-1.0.4](https://github.com/truecharts/apps/compare/homer-1.0.3...homer-1.0.4) (2022-03-31)
+### [家庭1.0.4](https://github.com/truecharts/apps/compare/homer-1.0.3...homer-1.0.4) (2022-03-31)
 
 #### 聊天
 
@@ -370,7 +370,7 @@
 
 <a name="homer-1.0.3"></a>
 
-### [homer-1.0.3](https://github.com/truecharts/apps/compare/homer-1.0.2...homer-1.0.3) (2022-03-30)
+### [家居1.0.3](https://github.com/truecharts/apps/compare/homer-1.0.2...homer-1.0.3) (2022-03-30)
 
 #### 聊天
 
@@ -380,7 +380,7 @@
 
 <a name="homer-1.0.2"></a>
 
-### [homer-1.0.2](https://github.com/truecharts/apps/compare/homer-1.0.1...homer-1.0.2) (2022-03-26)
+### [家庭1.0.2](https://github.com/truecharts/apps/compare/homer-1.0.1...homer-1.0.2) (2022-03-26)
 
 #### 聊天
 
@@ -404,4 +404,4 @@
 
 #### Feat
 
-* Add homer ([#2147](https://github.com/truecharts/apps/issues/2147))
+* 添加Homer ([#2147](https://github.com/truecharts/apps/issues/2147))
