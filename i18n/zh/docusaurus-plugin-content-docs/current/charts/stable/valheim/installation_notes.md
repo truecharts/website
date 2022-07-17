@@ -1,4 +1,4 @@
-# Installation Notes
+# 安装笔记
 
 Valheim app does not support having different port numbers for `port` and `targetPort`. Setting `port` will set the same port number to `targetPort` and it's Environmental Variable. e.g `STATUS_HTTP_PORT`, `SUPERVISOR_HTTP_PORT`, `SERVER_PORT`
 
