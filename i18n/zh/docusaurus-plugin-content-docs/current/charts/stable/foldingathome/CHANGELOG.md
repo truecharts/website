@@ -5,7 +5,7 @@
 
 ### 修复
 
-- make root fs writable ([#3191](https://github.com/truecharts/apps/issues/3191))
+- 使 root fs 可写入([#3191](https://github.com/truecharts/apps/issues/3191))
 
 
 
@@ -568,7 +568,7 @@
 
 <a name="foldingathome-0.0.5"></a>
 
-### [foldingathome-0.0.5](https://github.com/truecharts/apps/compare/foldingathome-0.0.4...foldingathome-0.0.5) (2021-12-18)
+### [foldingathome-0.0.5](https://github.com/truecharts/apps/compare/foldingathome-0.0.4...foldingathome-0.0.5) (2021-12-18岁)
 
 #### 聊天
 
