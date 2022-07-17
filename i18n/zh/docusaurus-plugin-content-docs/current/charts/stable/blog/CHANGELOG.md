@@ -1,804 +1,804 @@
-# Changelog
+# 更新日志
 
 
-## [blog-3.0.19](https://github.com/truecharts/apps/compare/blog-3.0.18...blog-3.0.19) (2022-07-14)
+## [博客-3.0.19](https://github.com/truecharts/apps/compare/blog-3.0.18...blog-3.0.19) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
-
-
-
-## [blog-3.0.18](https://github.com/truecharts/apps/compare/blog-3.0.16...blog-3.0.18) (2022-07-14)
-
-### Fix
-
-- bump to ensure .helmignore is present on all Charts
+- 重新生成目录并更新模板
 
 
 
-## [blog-3.0.16](https://github.com/truecharts/apps/compare/blog-3.0.14...blog-3.0.16) (2022-07-12)
+## [博客-3.0.18](https://github.com/truecharts/apps/compare/blog-3.0.16...blog-3.0.18) (2022-07-14)
 
-### Chore
+### 修复
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
-
+- bump 以确保.helmnote存在于所有图表
 
 
-## [blog-3.0.14](https://github.com/truecharts/apps/compare/blog-3.0.13...blog-3.0.14) (2022-07-12)
 
-### Chore
+## [博客-3.0.16](https://github.com/truecharts/apps/compare/blog-3.0.14...blog-3.0.16) (2022-07-12)
 
-- bump to regenerate documentation
+### 聊天
+
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
+
+
+
+## [博客-3.0.14](https://github.com/truecharts/apps/compare/blog-3.0.13...blog-3.0.14) (2022-07-12)
+
+### 聊天
+
+- 跳转以重新生成文档
 
 
 
 <a name="blog-3.0.13"></a>
 
-### [blog-3.0.13](https://github.com/truecharts/apps/compare/blog-3.0.12...blog-3.0.13) (2022-07-12)
+### [博客-3.0.13](https://github.com/truecharts/apps/compare/blog-3.0.12...blog-3.0.13) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
 <a name="blog-3.0.12"></a>
 
-### [blog-3.0.12](https://github.com/truecharts/apps/compare/blog-3.0.11...blog-3.0.12) (2022-07-11)
+### [博客-3.0.12](https://github.com/truecharts/apps/compare/blog-3.0.11...blog-3.0.12) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
 <a name="blog-3.0.11"></a>
 
-### [blog-3.0.11](https://github.com/truecharts/apps/compare/blog-3.0.10...blog-3.0.11) (2022-07-09)
+### [博客-3.0.11](https://github.com/truecharts/apps/compare/blog-3.0.10...blog-3.0.11) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
 <a name="blog-3.0.10"></a>
 
-### [blog-3.0.10](https://github.com/truecharts/apps/compare/blog-3.0.9...blog-3.0.10) (2022-07-05)
+### [博客-3.0.10](https://github.com/truecharts/apps/compare/blog-3.0.9...blog-3.0.10) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3075](https://github.com/truecharts/apps/issues/3075))
+* 更新头盔的一般非主头盔版本([#3075](https://github.com/truecharts/apps/issues/3075))
 
 
 
 <a name="blog-3.0.9"></a>
 
-### [blog-3.0.9](https://github.com/truecharts/apps/compare/blog-3.0.8...blog-3.0.9) (2022-07-04)
+### [博客-3.0.9](https://github.com/truecharts/apps/compare/blog-3.0.8...blog-3.0.9) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
 <a name="blog-3.0.8"></a>
 
-### [blog-3.0.8](https://github.com/truecharts/apps/compare/blog-3.0.7...blog-3.0.8) (2022-06-25)
+### [博客-3.0.8](https://github.com/truecharts/apps/compare/blog-3.0.7...blog-3.0.8) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
 <a name="blog-3.0.7"></a>
 
-### [blog-3.0.7](https://github.com/truecharts/apps/compare/blog-3.0.6...blog-3.0.7) (2022-06-22)
+### [博客-3.0.7](https://github.com/truecharts/apps/compare/blog-3.0.6...blog-3.0.7) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
 <a name="blog-3.0.6"></a>
 
-### [blog-3.0.6](https://github.com/truecharts/apps/compare/blog-3.0.5...blog-3.0.6) (2022-06-21)
+### [博客-3.0.6](https://github.com/truecharts/apps/compare/blog-3.0.5...blog-3.0.6) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
 <a name="blog-3.0.5"></a>
 
-### [blog-3.0.5](https://github.com/truecharts/apps/compare/blog-3.0.3...blog-3.0.5) (2022-06-17)
+### [博客-3.0.5](https://github.com/truecharts/apps/compare/blog-3.0.3...blog-3.0.5) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* Sync questions and values env's ([#2916](https://github.com/truecharts/apps/issues/2916))
+* 同步问题和值 Env ([#2916](https://github.com/truecharts/apps/issues/2916))
 
 
 
 <a name="blog-3.0.3"></a>
 
-### [blog-3.0.3](https://github.com/truecharts/apps/compare/blog-3.0.2...blog-3.0.3) (2022-06-14)
+### [博客-3.0.3](https://github.com/truecharts/apps/compare/blog-3.0.2...blog-3.0.3) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2887](https://github.com/truecharts/apps/issues/2887))
+* 更新头盔的一般非主头盔版本([#2887](https://github.com/truecharts/apps/issues/2887))
 
 
 
 <a name="blog-3.0.2"></a>
 
-### [blog-3.0.2](https://github.com/truecharts/apps/compare/blog-3.0.1...blog-3.0.2) (2022-06-14)
+### [博客-3.0.2](https://github.com/truecharts/apps/compare/blog-3.0.1...blog-3.0.2) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
 <a name="blog-3.0.1"></a>
 
-### [blog-3.0.1](https://github.com/truecharts/apps/compare/blog-3.0.0...blog-3.0.1) (2022-06-11)
+### [博客-3.0.1](https://github.com/truecharts/apps/compare/blog-3.0.0...blog-3.0.1) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
 <a name="blog-3.0.0"></a>
 
-### [blog-3.0.0](https://github.com/truecharts/apps/compare/blog-2.0.1...blog-3.0.0) (2022-06-07)
+### [博客-3.0.0](https://github.com/truecharts/apps/compare/blog-2.0.1...blog-3.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* update helm general major helm releases ([#2804](https://github.com/truecharts/apps/issues/2804))
+* 更新头盔主要头盔版本([#2804](https://github.com/truecharts/apps/issues/2804))
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
 <a name="blog-2.0.1"></a>
 
-### [blog-2.0.1](https://github.com/truecharts/apps/compare/blog-1.0.23...blog-2.0.1) (2022-06-07)
+### [博客-2.0.1](https://github.com/truecharts/apps/compare/blog-1.0.23...blog-2.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
-* update helm general non-major helm releases ([#2838](https://github.com/truecharts/apps/issues/2838))
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
+* 更新头盔的一般非主头盔版本([#2838](https://github.com/truecharts/apps/issues/2838))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
 <a name="blog-2.0.0"></a>
 
-### [blog-2.0.0](https://github.com/truecharts/apps/compare/blog-1.0.23...blog-2.0.0) (2022-06-07)
+### [博客-2.0.0](https://github.com/truecharts/apps/compare/blog-1.0.23...blog-2.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
 <a name="blog-1.0.23"></a>
 
-### [blog-1.0.23](https://github.com/truecharts/apps/compare/blog-1.0.22...blog-1.0.23) (2022-05-31)
+### [博客-1.0.23](https://github.com/truecharts/apps/compare/blog-1.0.22...blog-1.0.23) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="blog-1.0.22"></a>
-
-### [blog-1.0.22](https://github.com/truecharts/apps/compare/blog-1.0.21...blog-1.0.22) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
 <a name="blog-1.0.22"></a>
 
-### [blog-1.0.22](https://github.com/truecharts/apps/compare/blog-1.0.21...blog-1.0.22) (2022-05-26)
+### [博客-1.0.22](https://github.com/truecharts/apps/compare/blog-1.0.21...blog-1.0.22) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="blog-1.0.22"></a>
+
+### [博客-1.0.22](https://github.com/truecharts/apps/compare/blog-1.0.21...blog-1.0.22) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
 <a name="blog-1.0.21"></a>
 
-### [blog-1.0.21](https://github.com/truecharts/apps/compare/blog-1.0.20...blog-1.0.21) (2022-05-24)
+### [博客-1.0.21](https://github.com/truecharts/apps/compare/blog-1.0.20...blog-1.0.21) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="blog-1.0.20"></a>
-
-### [blog-1.0.20](https://github.com/truecharts/apps/compare/blog-1.0.19...blog-1.0.20) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
 <a name="blog-1.0.20"></a>
 
-### [blog-1.0.20](https://github.com/truecharts/apps/compare/blog-1.0.19...blog-1.0.20) (2022-05-17)
+### [博客-1.0.20](https://github.com/truecharts/apps/compare/blog-1.0.19...blog-1.0.20) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="blog-1.0.20"></a>
+
+### [博客-1.0.20](https://github.com/truecharts/apps/compare/blog-1.0.19...blog-1.0.20) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
 <a name="blog-1.0.19"></a>
 
-### [blog-1.0.19](https://github.com/truecharts/apps/compare/blog-1.0.18...blog-1.0.19) (2022-05-17)
+### [博客-1.0.19](https://github.com/truecharts/apps/compare/blog-1.0.18...blog-1.0.19) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
 <a name="blog-1.0.18"></a>
 
-### [blog-1.0.18](https://github.com/truecharts/apps/compare/blog-1.0.17...blog-1.0.18) (2022-05-10)
+### [博客-1.0.18](https://github.com/truecharts/apps/compare/blog-1.0.17...blog-1.0.18) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
 <a name="blog-1.0.17"></a>
 
-### [blog-1.0.17](https://github.com/truecharts/apps/compare/blog-1.0.16...blog-1.0.17) (2022-05-05)
+### [博客-1.0.17](https://github.com/truecharts/apps/compare/blog-1.0.16...blog-1.0.17) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
 <a name="blog-1.0.16"></a>
 
-### [blog-1.0.16](https://github.com/truecharts/apps/compare/blog-1.0.15...blog-1.0.16) (2022-05-04)
+### [博客-1.0.16](https://github.com/truecharts/apps/compare/blog-1.0.15...blog-1.0.16) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2605](https://github.com/truecharts/apps/issues/2605))
+* 更新头盔的一般非主头盔版本([#2605](https://github.com/truecharts/apps/issues/2605))
 
 
 
 <a name="blog-1.0.15"></a>
 
-### [blog-1.0.15](https://github.com/truecharts/apps/compare/blog-1.0.14...blog-1.0.15) (2022-04-26)
+### [博客-1.0.15](https://github.com/truecharts/apps/compare/blog-1.0.14...blog-1.0.15) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
 <a name="blog-1.0.14"></a>
 
-### [blog-1.0.14](https://github.com/truecharts/apps/compare/blog-1.0.13...blog-1.0.14) (2022-04-20)
+### [博客-1.0.14](https://github.com/truecharts/apps/compare/blog-1.0.13...blog-1.0.14) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
 <a name="blog-1.0.13"></a>
 
-### [blog-1.0.13](https://github.com/truecharts/apps/compare/blog-1.0.12...blog-1.0.13) (2022-04-12)
+### [博客-1.0.13](https://github.com/truecharts/apps/compare/blog-1.0.12...blog-1.0.13) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
 <a name="blog-1.0.12"></a>
 
-### [blog-1.0.12](https://github.com/truecharts/apps/compare/blog-1.0.11...blog-1.0.12) (2022-04-03)
+### [博客-1.0.12](https://github.com/truecharts/apps/compare/blog-1.0.11...blog-1.0.12) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
 <a name="blog-1.0.11"></a>
 
-### [blog-1.0.11](https://github.com/truecharts/apps/compare/blog-1.0.10...blog-1.0.11) (2022-03-31)
+### [博客-1.0.11](https://github.com/truecharts/apps/compare/blog-1.0.10...blog-1.0.11) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2362](https://github.com/truecharts/apps/issues/2362))
+* 更新头盔的一般非主头盔版本([#2362](https://github.com/truecharts/apps/issues/2362))
 
 
 
 <a name="blog-1.0.10"></a>
 
-### [blog-1.0.10](https://github.com/truecharts/apps/compare/blog-1.0.9...blog-1.0.10) (2022-03-31)
+### [博客-1.0.10](https://github.com/truecharts/apps/compare/blog-1.0.9...blog-1.0.10) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
 <a name="blog-1.0.9"></a>
 
-### [blog-1.0.9](https://github.com/truecharts/apps/compare/blog-1.0.8...blog-1.0.9) (2022-03-30)
+### [博客-1.0.9](https://github.com/truecharts/apps/compare/blog-1.0.8...blog-1.0.9) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Use new repo ([#2337](https://github.com/truecharts/apps/issues/2337))
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 使用新仓库([#2337](https://github.com/truecharts/apps/issues/2337))
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
 <a name="blog-1.0.8"></a>
 
-### [blog-1.0.8](https://github.com/truecharts/apps/compare/blog-1.0.7...blog-1.0.8) (2022-03-26)
+### [博客-1.0.8](https://github.com/truecharts/apps/compare/blog-1.0.7...blog-1.0.8) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2290](https://github.com/truecharts/apps/issues/2290))
+* 更新头盔的一般非主头盔版本([#2290](https://github.com/truecharts/apps/issues/2290))
 
 
 
 <a name="blog-1.0.7"></a>
 
-### [blog-1.0.7](https://github.com/truecharts/apps/compare/blog-1.0.6...blog-1.0.7) (2022-03-26)
+### [博客-1.0.7](https://github.com/truecharts/apps/compare/blog-1.0.6...blog-1.0.7) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
 <a name="blog-1.0.2"></a>
 
-### [blog-1.0.2](https://github.com/truecharts/apps/compare/blog-1.0.1...blog-1.0.2) (2022-03-08)
+### [博客-1.0.2](https://github.com/truecharts/apps/compare/blog-1.0.1...blog-1.0.2) (2022-03-08)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2116](https://github.com/truecharts/apps/issues/2116))
+* 更新头盔的一般非主头盔版本([#2116](https://github.com/truecharts/apps/issues/2116))
 
 
 
 <a name="blog-1.0.1"></a>
 
-### [blog-1.0.1](https://github.com/truecharts/apps/compare/blog-1.0.0...blog-1.0.1) (2022-03-07)
+### [博客-1.0.1](https://github.com/truecharts/apps/compare/blog-1.0.0...blog-1.0.1) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2111](https://github.com/truecharts/apps/issues/2111))
-* Remove `-icon` string from icon png's ([#2040](https://github.com/truecharts/apps/issues/2040))
+* 更新头盔的一般非主头盔版本([#211](https://github.com/truecharts/apps/issues/2111))
+* 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
 
 <a name="blog-1.0.0"></a>
 
-### [blog-1.0.0](https://github.com/truecharts/apps/compare/blog-0.0.35...blog-1.0.0) (2022-03-03)
+### [博客-1.0.0](https://github.com/truecharts/apps/compare/blog-0.0.35...blog-1.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* update helm general major helm releases ([#2021](https://github.com/truecharts/apps/issues/2021))
+* 从问题.yaml 中移除固定的 env
+* 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
 <a name="blog-0.0.35"></a>
 
-### [blog-0.0.35](https://github.com/truecharts/apps/compare/blog-0.0.34...blog-0.0.35) (2022-03-02)
+### [博客-0.0.35](https://github.com/truecharts/apps/compare/blog-0.0.34...blog-0.0.35) (2022-03-02)
 
-#### Chore
+#### 聊天
 
-* rename `web_portal` to `open` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* update helm general non-major helm releases ([#1999](https://github.com/truecharts/apps/issues/1999))
+* 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
+* 更新头盔的一般非主要头盔版本([#1999](https://github.com/truecharts/apps/issues/1999))
 
 
 
 <a name="blog-0.0.34"></a>
 
-### [blog-0.0.34](https://github.com/truecharts/apps/compare/blog-0.0.33...blog-0.0.34) (2022-02-21)
+### [博客-0.0.34](https://github.com/truecharts/apps/compare/blog-0.0.33...blog-0.0.34) (2022-02-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1927](https://github.com/truecharts/apps/issues/1927))
+* 更新头盔的一般非主要头盔版本([#1927](https://github.com/truecharts/apps/issues/1927))
 
 
 
 <a name="blog-0.0.33"></a>
 
-### [blog-0.0.33](https://github.com/truecharts/apps/compare/blog-0.0.32...blog-0.0.33) (2022-02-15)
+### [博客-0.0.33](https://github.com/truecharts/apps/compare/blog-0.0.32...blog-0.0.33) (2022-02-15)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1901](https://github.com/truecharts/apps/issues/1901))
+* 更新头盔的一般非主要头盔版本([#1901](https://github.com/truecharts/apps/issues/1901))
 
 
 
 <a name="blog-0.0.32"></a>
 
-### [blog-0.0.32](https://github.com/truecharts/apps/compare/blog-0.0.31...blog-0.0.32) (2022-02-08)
+### [博客-0.0.32](https://github.com/truecharts/apps/compare/blog-0.0.31...blog-0.0.32) (2022-02-08)
 
-#### Chore
+#### 聊天
 
-* fix links on `Chart.yaml` ([#1862](https://github.com/truecharts/apps/issues/1862))
-* update helm general non-major helm releases ([#1871](https://github.com/truecharts/apps/issues/1871))
+* 修复 `Chart.yaml` ([#1862](https://github.com/truecharts/apps/issues/1862))
+* 更新头盔的一般非主头盔版本([#1871](https://github.com/truecharts/apps/issues/1871))
 
 
 
 <a name="blog-0.0.31"></a>
 
-### [blog-0.0.31](https://github.com/truecharts/apps/compare/blog-0.0.30...blog-0.0.31) (2022-02-06)
+### [博客-0.0.31](https://github.com/truecharts/apps/compare/blog-0.0.30...blog-0.0.31) (2022-02-06)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v8.15.0 ([#1859](https://github.com/truecharts/apps/issues/1859))
+* 更新通用的 v8.15.0 头盔图表([#1859](https://github.com/truecharts/apps/issues/1859))
 
 
 
 <a name="blog-0.0.30"></a>
 
-### [blog-0.0.30](https://github.com/truecharts/apps/compare/blog-0.0.29...blog-0.0.30) (2022-02-05)
+### [博客-0.0.30](https://github.com/truecharts/apps/compare/blog-0.0.29...blog-0.0.30) (2022-02-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1852](https://github.com/truecharts/apps/issues/1852))
+* 更新头盔的一般非主头盔版本([#1852](https://github.com/truecharts/apps/issues/1852))
 
 
 
 <a name="blog-0.0.29"></a>
 
-### [blog-0.0.29](https://github.com/truecharts/apps/compare/blog-0.0.28...blog-0.0.29) (2022-02-02)
+### [博客-0.0.29](https://github.com/truecharts/apps/compare/blog-0.0.28...blog-0.0.29) (2022-02-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1828](https://github.com/truecharts/apps/issues/1828))
+* 更新头盔的一般非主要头盔版本([#1828](https://github.com/truecharts/apps/issues/1828))
 
 
 
 <a name="blog-0.0.28"></a>
 
-### [blog-0.0.28](https://github.com/truecharts/apps/compare/blog-0.0.27...blog-0.0.28) (2022-01-25)
+### [博客-0.0.28](https://github.com/truecharts/apps/compare/blog-0.0.27...blog-0.0.28) (2022-01-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1791](https://github.com/truecharts/apps/issues/1791))
+* 更新头盔的一般非主头盔版本([#1791](https://github.com/truecharts/apps/issues/1791))
 
 
 
 <a name="blog-0.0.27"></a>
 
-### [blog-0.0.27](https://github.com/truecharts/apps/compare/blog-0.0.26...blog-0.0.27) (2022-01-22)
+### [博客-0.0.27](https://github.com/truecharts/apps/compare/blog-0.0.26...blog-0.0.27) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1766](https://github.com/truecharts/apps/issues/1766))
+* 更新头盔的一般非主头盔版本([#1766](https://github.com/truecharts/apps/issues/1766))
 
 
 
 <a name="blog-0.0.26"></a>
 
-### [blog-0.0.26](https://github.com/truecharts/apps/compare/blog-0.0.25...blog-0.0.26) (2022-01-22)
+### [博客-0.0.26](https://github.com/truecharts/apps/compare/blog-0.0.25...blog-0.0.26) (2022-01-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1763](https://github.com/truecharts/apps/issues/1763))
+* 更新头盔的一般非主头盔版本([#1763](https://github.com/truecharts/apps/issues/1763))
 
 
 
 <a name="blog-0.0.25"></a>
 
-### [blog-0.0.25](https://github.com/truecharts/apps/compare/blog-0.0.24...blog-0.0.25) (2022-01-21)
+### [博客-0.0.25](https://github.com/truecharts/apps/compare/blog-0.0.24...blog-0.0.25) (2022-01-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1759](https://github.com/truecharts/apps/issues/1759))
+* 更新头盔的一般非主要头盔版本([#1759](https://github.com/truecharts/apps/issues/1759))
 
-#### Fix
+#### 修复
 
-* set additional_attrs: true on all dicts ([#1750](https://github.com/truecharts/apps/issues/1750))
+* 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
 
 
 
 <a name="blog-0.0.24"></a>
 
-### [blog-0.0.24](https://github.com/truecharts/apps/compare/blog-0.0.23...blog-0.0.24) (2022-01-18)
+### [博客-0.0.24](https://github.com/truecharts/apps/compare/blog-0.0.23...blog-0.0.24) (2022-01-18)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1732](https://github.com/truecharts/apps/issues/1732))
+* 更新头盔的一般非主头盔版本([#1732](https://github.com/truecharts/apps/issues/1732))
 
 
 
 <a name="blog-0.0.23"></a>
 
-### [blog-0.0.23](https://github.com/truecharts/apps/compare/blog-0.0.22...blog-0.0.23) (2022-01-17)
+### [博客-0.0.23](https://github.com/truecharts/apps/compare/blog-0.0.22...blog-0.0.23) (2022-01-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1728](https://github.com/truecharts/apps/issues/1728))
+* 更新一般的非主码([#1728](https://github.com/truecharts/apps/issues/1728))
 
 
 
 <a name="blog-0.0.22"></a>
 
-### [blog-0.0.22](https://github.com/truecharts/apps/compare/blog-0.0.21...blog-0.0.22) (2022-01-13)
+### [博客-0.0.22](https://github.com/truecharts/apps/compare/blog-0.0.21...blog-0.0.22) (2022-01-13)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1712](https://github.com/truecharts/apps/issues/1712))
+* 更新头盔的一般非主头盔版本([#1712](https://github.com/truecharts/apps/issues/1712))
 
 #### Feat
 
-* expose capabilities in GUI ([#1709](https://github.com/truecharts/apps/issues/1709))
+* 在图形界面显示能力 ([#1709](https://github.com/truecharts/apps/issues/1709))
 
 
 
 <a name="blog-0.0.21"></a>
 
-### [blog-0.0.21](https://github.com/truecharts/apps/compare/blog-0.0.20...blog-0.0.21) (2022-01-12)
+### [博客-0.0.21](https://github.com/truecharts/apps/compare/blog-0.0.20...blog-0.0.21) (2022-01-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1704](https://github.com/truecharts/apps/issues/1704))
+* 更新头盔的一般非主头盔版本([#1704](https://github.com/truecharts/apps/issues/1704))
 
 
 
 <a name="blog-0.0.20"></a>
 
-### [blog-0.0.20](https://github.com/truecharts/apps/compare/blog-0.0.19...blog-0.0.20) (2022-01-11)
+### [博客-0.0.20](https://github.com/truecharts/apps/compare/blog-0.0.19...blog-0.0.20) (2022-01-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1693](https://github.com/truecharts/apps/issues/1693))
+* 更新头盔的一般非主要头盔版本([#1693](https://github.com/truecharts/apps/issues/1693))
 
 
 
 <a name="blog-0.0.19"></a>
 
-### [blog-0.0.19](https://github.com/truecharts/apps/compare/blog-0.0.18...blog-0.0.19) (2022-01-10)
+### [博客-0.0.19](https://github.com/truecharts/apps/compare/blog-0.0.18...blog-0.0.19) (2022-01-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1677](https://github.com/truecharts/apps/issues/1677))
+* 更新一般的非主码([#1677](https://github.com/truecharts/apps/issues/1677))
 
 
 
 <a name="blog-0.0.18"></a>
 
-### [blog-0.0.18](https://github.com/truecharts/apps/compare/blog-0.0.17...blog-0.0.18) (2022-01-04)
+### [博客-0.0.18](https://github.com/truecharts/apps/compare/blog-0.0.17...blog-0.0.18) (2022-01-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
 <a name="blog-0.0.17"></a>
 
-### [blog-0.0.17](https://github.com/truecharts/apps/compare/blog-0.0.16...blog-0.0.17) (2021-12-28)
+### [博客-0.0.17](https://github.com/truecharts/apps/compare/blog-0.0.16...blog-0.0.17) (2021-12-28)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1623](https://github.com/truecharts/apps/issues/1623))
+* 更新头盔的一般非主要头盔版本([#1623](https://github.com/truecharts/apps/issues/1623))
 
 
 
 <a name="blog-0.0.16"></a>
 
-### [blog-0.0.16](https://github.com/truecharts/apps/compare/blog-0.0.15...blog-0.0.16) (2021-12-21)
+### [博客-0.0.16](https://github.com/truecharts/apps/compare/blog-0.0.15...blog-0.0.16) (2021-12-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1596](https://github.com/truecharts/apps/issues/1596))
+* 更新头盔的一般非主头盔版本([#1596](https://github.com/truecharts/apps/issues/1596))
 
 
 
 <a name="blog-0.0.15"></a>
 
-### [blog-0.0.15](https://github.com/truecharts/apps/compare/blog-0.0.14...blog-0.0.15) (2021-12-19)
+### [博客-0.0.15](https://github.com/truecharts/apps/compare/blog-0.0.14...blog-0.0.15) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* Last patch bump before RC2 branch-off
+* 上次补丁后的 RC2 分支关闭
 
 
 
 <a name="blog-0.0.14"></a>
 
-### [blog-0.0.14](https://github.com/truecharts/apps/compare/blog-0.0.13...blog-0.0.14) (2021-12-19)
+### [博客-0.0.14](https://github.com/truecharts/apps/compare/blog-0.0.13...blog-0.0.14) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* completely remove mountPath reference from GUI ([#1572](https://github.com/truecharts/apps/issues/1572))
-* update helm general non-major helm releases ([#1571](https://github.com/truecharts/apps/issues/1571))
+* 完全从图形界面移除挂载路径引用([#152](https://github.com/truecharts/apps/issues/1572))
+* 更新头盔的一般非主头盔版本([#1571](https://github.com/truecharts/apps/issues/1571))
 
 
 
 <a name="blog-0.0.13"></a>
 
-### [blog-0.0.13](https://github.com/truecharts/apps/compare/blog-0.0.12...blog-0.0.13) (2021-12-19)
+### [博客-0.0.13](https://github.com/truecharts/apps/compare/blog-0.0.12...blog-0.0.13) (2021-12-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#1567](https://github.com/truecharts/apps/issues/1567))
+* 更新一般的非主码([#1567](https://github.com/truecharts/apps/issues/1567))
 
 
 
 <a name="blog-0.0.12"></a>
 
-### [blog-0.0.12](https://github.com/truecharts/apps/compare/blog-0.0.11...blog-0.0.12) (2021-12-18)
+### [博客-0.0.12](https://github.com/truecharts/apps/compare/blog-0.0.11...blog-0.0.12) (2021-12-18岁)
 
-#### Chore
+#### 聊天
 
-* cleanup questions by removing hidden dicts ([#1558](https://github.com/truecharts/apps/issues/1558))
-* App-Icon Organization ([#1539](https://github.com/truecharts/apps/issues/1539))
+* 通过删除隐藏的口令清理问题([#1558](https://github.com/truecharts/apps/issues/1558))
+* 应用图标组织([#1539](https://github.com/truecharts/apps/issues/1539))
 
 
 
 <a name="blog-0.0.11"></a>
 
-### [blog-0.0.11](https://github.com/truecharts/apps/compare/blog-0.0.10...blog-0.0.11) (2021-12-14)
+### [博客-0.0.11](https://github.com/truecharts/apps/compare/blog-0.0.10...blog-0.0.11) (2021-12-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1535](https://github.com/truecharts/apps/issues/1535))
+* 更新头盔的一般非主头盔版本([#1535](https://github.com/truecharts/apps/issues/1535))
 
 
 
 <a name="blog-0.0.10"></a>
 
-### [blog-0.0.10](https://github.com/truecharts/apps/compare/blog-0.0.9...blog-0.0.10) (2021-12-13)
+### [博客-0.0.10](https://github.com/truecharts/apps/compare/blog-0.0.9...blog-0.0.10) (2021-12-13)
 
-#### Chore
+#### 聊天
 
-* move incubator apps to stable and bump everything
+* 将孵化器应用程序移动到稳定和凸显所有
 
 
 
 <a name="blog-0.0.9"></a>
 
-### [blog-0.0.9](https://github.com/truecharts/apps/compare/blog-0.0.8...blog-0.0.9) (2021-12-11)
+### [博客-0.0.9](https://github.com/truecharts/apps/compare/blog-0.0.8...blog-0.0.9) (2021-12-11)
 
-#### Chore
+#### 聊天
 
-* update general helm non-major helm releases ([#1509](https://github.com/truecharts/apps/issues/1509))
+* 更新一般头盔非主要头盔版本([#1509](https://github.com/truecharts/apps/issues/1509))
 
 
 
 <a name="blog-0.0.8"></a>
 
-### [blog-0.0.8](https://github.com/truecharts/apps/compare/blog-0.0.7...blog-0.0.8) (2021-12-07)
+### [博客-0.0.8](https://github.com/truecharts/apps/compare/blog-0.0.7...blog-0.0.8) (2021-12-07)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1481](https://github.com/truecharts/apps/issues/1481))
+* 更新非主要的背包头盔版本([#1481](https://github.com/truecharts/apps/issues/1481))
 
 
 
 <a name="blog-0.0.7"></a>
 
-### blog-0.0.7 (2021-12-05)
+### 博客-0.0.7 (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* bump apps to generate security page
-* move all container references to TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* update non-major deps helm releases ([#1471](https://github.com/truecharts/apps/issues/1471))
-* update non-major deps helm releases ([#1468](https://github.com/truecharts/apps/issues/1468))
-* update non-major deps helm releases ([#1453](https://github.com/truecharts/apps/issues/1453))
-* update non-major ([#1449](https://github.com/truecharts/apps/issues/1449))
-* update non-major deps helm releases ([#1434](https://github.com/truecharts/apps/issues/1434))
+* 跳转应用生成安全页面
+* 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
+* 更新非主要的背包头盔版本([#1471](https://github.com/truecharts/apps/issues/1471))
+* 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
+* 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
+* 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
+* 更新非主要的背包头盔版本([#1434](https://github.com/truecharts/apps/issues/1434))
 
 #### Feat
 
-* add  a bunch of mariaDB backed Apps ([#1407](https://github.com/truecharts/apps/issues/1407))
+* 添加一堆mariaDB 支持的应用程序([#1407](https://github.com/truecharts/apps/issues/1407))
 
 
 
 <a name="blog-0.0.6"></a>
 
-### [blog-0.0.6](https://github.com/truecharts/apps/compare/blog-0.0.5...blog-0.0.6) (2021-12-05)
+### [博客-0.0.6](https://github.com/truecharts/apps/compare/blog-0.0.5...blog-0.0.6) (2021-12-05)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1468](https://github.com/truecharts/apps/issues/1468))
+* 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
 
 
 
 <a name="blog-0.0.5"></a>
 
-### [blog-0.0.5](https://github.com/truecharts/apps/compare/blog-0.0.4...blog-0.0.5) (2021-12-04)
+### [博客-0.0.5](https://github.com/truecharts/apps/compare/blog-0.0.4...blog-0.0.5) (2021-12-04)
 
-#### Chore
+#### 聊天
 
-* bump apps to generate security page
+* 跳转应用生成安全页面
 
 
 
 <a name="blog-0.0.4"></a>
 
-### [blog-0.0.4](https://github.com/truecharts/apps/compare/blog-0.0.3...blog-0.0.4) (2021-12-04)
+### [博客-0.0.4](https://github.com/truecharts/apps/compare/blog-0.0.3...blog-0.0.4) (2021-12-04)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1453](https://github.com/truecharts/apps/issues/1453))
+* 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
 
 
 
 <a name="blog-0.0.3"></a>
 
-### [blog-0.0.3](https://github.com/truecharts/apps/compare/blog-0.0.2...blog-0.0.3) (2021-12-03)
+### [博客-0.0.3](https://github.com/truecharts/apps/compare/blog-0.0.2...blog-0.0.3) (2021-12-03)
 
-#### Chore
+#### 聊天
 
-* move all container references to TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* update non-major ([#1449](https://github.com/truecharts/apps/issues/1449))
+* 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
+* 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 
 
 
 <a name="blog-0.0.2"></a>
 
-### [blog-0.0.2](https://github.com/truecharts/apps/compare/blog-0.0.1...blog-0.0.2) (2021-11-30)
+### [博客-0.0.2](https://github.com/truecharts/apps/compare/blog-0.0.1...blog-0.0.2) (2021-11-30)
 
-#### Chore
+#### 聊天
 
-* update non-major deps helm releases ([#1434](https://github.com/truecharts/apps/issues/1434))
+* 更新非主要的背包头盔版本([#1434](https://github.com/truecharts/apps/issues/1434))
 
 
 
 <a name="blog-0.0.1"></a>
 
-### blog-0.0.1 (2021-11-30)
+### 博客-0.0.1 (2021-11-30)
 
 #### Feat
 
-* add  a bunch of mariaDB backed Apps ([#1407](https://github.com/truecharts/apps/issues/1407))
+* 添加一堆mariaDB 支持的应用程序([#1407](https://github.com/truecharts/apps/issues/1407))
