@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [htpcmanager-2.0.17](https://github.com/truecharts/apps/compare/htpcmanager-2.0.16...htpcmanager-2.0.17) (2022-07-14)
+## [htcmanager-2.0.17](https://github.com/truecharts/apps/compare/htpcmanager-2.0.16...htpcmanager-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [htpcmanager-2.0.16](https://github.com/truecharts/apps/compare/htpcmanager-2.0.14...htpcmanager-2.0.16) (2022-07-14)
+## [htcmanager-2.0.16](https://github.com/truecharts/apps/compare/htpcmanager-2.0.14...htpcmanager-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [htpcmanager-2.0.14](https://github.com/truecharts/apps/compare/htpcmanager-2.0.12...htpcmanager-2.0.14) (2022-07-12)
+## [htcmanager-2.0.14](https://github.com/truecharts/apps/compare/htpcmanager-2.0.12...htpcmanager-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [htpcmanager-2.0.12](https://github.com/truecharts/apps/compare/htpcmanager-2.0.11...htpcmanager-2.0.12) (2022-07-12)
+## [htcmanager-2.0.12](https://github.com/truecharts/apps/compare/htpcmanager-2.0.11...htpcmanager-2.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="htpcmanager-2.0.11"></a>
 
-### [htpcmanager-2.0.11](https://github.com/truecharts/apps/compare/htpcmanager-2.0.10...htpcmanager-2.0.11) (2022-07-12)
+### [htcmanager-2.0.11](https://github.com/truecharts/apps/compare/htpcmanager-2.0.10...htpcmanager-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="htpcmanager-2.0.10"></a>
 
-### [htpcmanager-2.0.10](https://github.com/truecharts/apps/compare/htpcmanager-2.0.9...htpcmanager-2.0.10) (2022-07-11)
+### [htcmanager-2.0.10](https://github.com/truecharts/apps/compare/htpcmanager-2.0.9...htpcmanager-2.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="htpcmanager-2.0.9"></a>
 
-### [htpcmanager-2.0.9](https://github.com/truecharts/apps/compare/htpcmanager-2.0.8...htpcmanager-2.0.9) (2022-07-09)
+### [htcmanager-2.0.9](https://github.com/truecharts/apps/compare/htpcmanager-2.0.8...htpcmanager-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="htpcmanager-2.0.8"></a>
 
-### [htpcmanager-2.0.8](https://github.com/truecharts/apps/compare/htpcmanager-2.0.7...htpcmanager-2.0.8) (2022-07-04)
+### [htcmanager-2.0.8](https://github.com/truecharts/apps/compare/htpcmanager-2.0.7...htpcmanager-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="htpcmanager-2.0.7"></a>
 
-### [htpcmanager-2.0.7](https://github.com/truecharts/apps/compare/htpcmanager-2.0.6...htpcmanager-2.0.7) (2022-06-25)
+### [htcmanager-2.0.7](https://github.com/truecharts/apps/compare/htpcmanager-2.0.6...htpcmanager-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="htpcmanager-2.0.6"></a>
 
-### [htpcmanager-2.0.6](https://github.com/truecharts/apps/compare/htpcmanager-2.0.5...htpcmanager-2.0.6) (2022-06-22)
+### [htcmanager-2.0.6](https://github.com/truecharts/apps/compare/htpcmanager-2.0.5...htpcmanager-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="htpcmanager-2.0.5"></a>
 
-### [htpcmanager-2.0.5](https://github.com/truecharts/apps/compare/htpcmanager-2.0.4...htpcmanager-2.0.5) (2022-06-21)
+### [htcmanager-2.0.5](https://github.com/truecharts/apps/compare/htpcmanager-2.0.4...htpcmanager-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="htpcmanager-2.0.4"></a>
 
-### [htpcmanager-2.0.4](https://github.com/truecharts/apps/compare/htpcmanager-2.0.3...htpcmanager-2.0.4) (2022-06-14)
+### [htcmanager-2.0.4](https://github.com/truecharts/apps/compare/htpcmanager-2.0.3...htpcmanager-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="htpcmanager-2.0.3"></a>
 
-### [htpcmanager-2.0.3](https://github.com/truecharts/apps/compare/htpcmanager-2.0.2...htpcmanager-2.0.3) (2022-06-11)
+### [htcmanager-2.0.3](https://github.com/truecharts/apps/compare/htpcmanager-2.0.2...htpcmanager-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="htpcmanager-2.0.2"></a>
 
-### [htpcmanager-2.0.2](https://github.com/truecharts/apps/compare/htpcmanager-2.0.1...htpcmanager-2.0.2) (2022-06-07)
+### [htcmanager-2.0.2](https://github.com/truecharts/apps/compare/htpcmanager-2.0.1...htpcmanager-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="htpcmanager-2.0.1"></a>
 
-### [htpcmanager-2.0.1](https://github.com/truecharts/apps/compare/htpcmanager-1.0.19...htpcmanager-2.0.1) (2022-06-07)
+### [htcmanager-2.0.1](https://github.com/truecharts/apps/compare/htpcmanager-1.0.19...htpcmanager-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -155,7 +155,7 @@
 
 <a name="htpcmanager-2.0.0"></a>
 
-### [htpcmanager-2.0.0](https://github.com/truecharts/apps/compare/htpcmanager-1.0.19...htpcmanager-2.0.0) (2022-06-07)
+### [htcmanager-2.0.0](https://github.com/truecharts/apps/compare/htpcmanager-1.0.19...htpcmanager-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="htpcmanager-1.0.19"></a>
 
-### [htpcmanager-1.0.19](https://github.com/truecharts/apps/compare/htpcmanager-1.0.18...htpcmanager-1.0.19) (2022-05-31)
+### [htcmanager-1.0.19](https://github.com/truecharts/apps/compare/htpcmanager-1.0.18...htpcmanager-1.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="htpcmanager-1.0.18"></a>
 
-### [htpcmanager-1.0.18](https://github.com/truecharts/apps/compare/htpcmanager-1.0.17...htpcmanager-1.0.18) (2022-05-26)
+### [htcmanager-1.0.18](https://github.com/truecharts/apps/compare/htpcmanager-1.0.17...htpcmanager-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="htpcmanager-1.0.18"></a>
 
-### [htpcmanager-1.0.18](https://github.com/truecharts/apps/compare/htpcmanager-1.0.17...htpcmanager-1.0.18) (2022-05-26)
+### [htcmanager-1.0.18](https://github.com/truecharts/apps/compare/htpcmanager-1.0.17...htpcmanager-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="htpcmanager-1.0.17"></a>
 
-### [htpcmanager-1.0.17](https://github.com/truecharts/apps/compare/htpcmanager-1.0.16...htpcmanager-1.0.17) (2022-05-24)
+### [htcmanager-1.0.17](https://github.com/truecharts/apps/compare/htpcmanager-1.0.16...htpcmanager-1.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="htpcmanager-1.0.16"></a>
 
-### [htpcmanager-1.0.16](https://github.com/truecharts/apps/compare/htpcmanager-1.0.15...htpcmanager-1.0.16) (2022-05-17)
+### [htcmanager-1.0.16](https://github.com/truecharts/apps/compare/htpcmanager-1.0.15...htpcmanager-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="htpcmanager-1.0.16"></a>
 
-### [htpcmanager-1.0.16](https://github.com/truecharts/apps/compare/htpcmanager-1.0.15...htpcmanager-1.0.16) (2022-05-17)
+### [htcmanager-1.0.16](https://github.com/truecharts/apps/compare/htpcmanager-1.0.15...htpcmanager-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="htpcmanager-1.0.15"></a>
 
-### [htpcmanager-1.0.15](https://github.com/truecharts/apps/compare/htpcmanager-1.0.14...htpcmanager-1.0.15) (2022-05-17)
+### [htcmanager-1.0.15](https://github.com/truecharts/apps/compare/htpcmanager-1.0.14...htpcmanager-1.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="htpcmanager-1.0.14"></a>
 
-### [htpcmanager-1.0.14](https://github.com/truecharts/apps/compare/htpcmanager-1.0.13...htpcmanager-1.0.14) (2022-05-10)
+### [htcmanager-1.0.14](https://github.com/truecharts/apps/compare/htpcmanager-1.0.13...htpcmanager-1.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="htpcmanager-1.0.13"></a>
 
-### [htpcmanager-1.0.13](https://github.com/truecharts/apps/compare/htpcmanager-1.0.12...htpcmanager-1.0.13) (2022-05-05)
+### [htcmanager-1.0.13](https://github.com/truecharts/apps/compare/htpcmanager-1.0.12...htpcmanager-1.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="htpcmanager-1.0.12"></a>
 
-### [htpcmanager-1.0.12](https://github.com/truecharts/apps/compare/htpcmanager-1.0.11...htpcmanager-1.0.12) (2022-04-26)
+### [htcmanager-1.0.12](https://github.com/truecharts/apps/compare/htpcmanager-1.0.11...htpcmanager-1.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="htpcmanager-1.0.11"></a>
 
-### [htpcmanager-1.0.11](https://github.com/truecharts/apps/compare/htpcmanager-1.0.10...htpcmanager-1.0.11) (2022-04-20)
+### [htcmanager-1.0.11](https://github.com/truecharts/apps/compare/htpcmanager-1.0.10...htpcmanager-1.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="htpcmanager-1.0.10"></a>
 
-### [htpcmanager-1.0.10](https://github.com/truecharts/apps/compare/htpcmanager-1.0.9...htpcmanager-1.0.10) (2022-04-12)
+### [htcmanager-1.0.10](https://github.com/truecharts/apps/compare/htpcmanager-1.0.9...htpcmanager-1.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="htpcmanager-1.0.9"></a>
 
-### [htpcmanager-1.0.9](https://github.com/truecharts/apps/compare/htpcmanager-1.0.8...htpcmanager-1.0.9) (2022-04-03)
+### [htcmanager-1.0.9](https://github.com/truecharts/apps/compare/htpcmanager-1.0.8...htpcmanager-1.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="htpcmanager-1.0.8"></a>
 
-### [htpcmanager-1.0.8](https://github.com/truecharts/apps/compare/htpcmanager-1.0.7...htpcmanager-1.0.8) (2022-03-31)
+### [htcmanager-1.0.8](https://github.com/truecharts/apps/compare/htpcmanager-1.0.7...htpcmanager-1.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="htpcmanager-1.0.7"></a>
 
-### [htpcmanager-1.0.7](https://github.com/truecharts/apps/compare/htpcmanager-1.0.6...htpcmanager-1.0.7) (2022-03-30)
+### [htcmanager-1.0.7](https://github.com/truecharts/apps/compare/htpcmanager-1.0.6...htpcmanager-1.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="htpcmanager-1.0.6"></a>
 
-### [htpcmanager-1.0.6](https://github.com/truecharts/apps/compare/htpcmanager-1.0.5...htpcmanager-1.0.6) (2022-03-26)
+### [htcmanager-1.0.6](https://github.com/truecharts/apps/compare/htpcmanager-1.0.5...htpcmanager-1.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="htpcmanager-1.0.1"></a>
 
-### [htpcmanager-1.0.1](https://github.com/truecharts/apps/compare/htpcmanager-1.0.0...htpcmanager-1.0.1) (2022-03-07)
+### [htcmanager-1.0.1](https://github.com/truecharts/apps/compare/htpcmanager-1.0.0...htpcmanager-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="htpcmanager-1.0.0"></a>
 
-### [htpcmanager-1.0.0](https://github.com/truecharts/apps/compare/htpcmanager-0.0.23...htpcmanager-1.0.0) (2022-03-03)
+### [htcmanager-1.0.0](https://github.com/truecharts/apps/compare/htpcmanager-0.0.23...htpcmanager-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -361,7 +361,7 @@
 
 <a name="htpcmanager-0.0.23"></a>
 
-### [htpcmanager-0.0.23](https://github.com/truecharts/apps/compare/htpcmanager-0.0.22...htpcmanager-0.0.23) (2022-03-02)
+### [htcmanager-0.0.23](https://github.com/truecharts/apps/compare/htpcmanager-0.0.22...htpcmanager-0.0.23) (2022-03-02)
 
 #### 聊天
 
@@ -372,7 +372,7 @@
 
 <a name="htpcmanager-0.0.22"></a>
 
-### [htpcmanager-0.0.22](https://github.com/truecharts/apps/compare/htpcmanager-0.0.21...htpcmanager-0.0.22) (2022-02-21)
+### [htcmanager-0.0.22](https://github.com/truecharts/apps/compare/htpcmanager-0.0.21...htpcmanager-0.0.22) (2022-02-21)
 
 #### 聊天
 
@@ -382,7 +382,7 @@
 
 <a name="htpcmanager-0.0.21"></a>
 
-### [htpcmanager-0.0.21](https://github.com/truecharts/apps/compare/htpcmanager-0.0.20...htpcmanager-0.0.21) (2022-02-15)
+### [htcmanager-0.0.21](https://github.com/truecharts/apps/compare/htpcmanager-0.0.20...htpcmanager-0.0.21) (2022-02-15)
 
 #### 聊天
 
@@ -392,7 +392,7 @@
 
 <a name="htpcmanager-0.0.20"></a>
 
-### [htpcmanager-0.0.20](https://github.com/truecharts/apps/compare/htpcmanager-0.0.19...htpcmanager-0.0.20) (2022-02-08)
+### [htcmanager-0.0.20](https://github.com/truecharts/apps/compare/htpcmanager-0.0.19...htpcmanager-0.0.20) (2022-02-08)
 
 #### 聊天
 
@@ -402,7 +402,7 @@
 
 <a name="htpcmanager-0.0.19"></a>
 
-### [htpcmanager-0.0.19](https://github.com/truecharts/apps/compare/htpcmanager-0.0.18...htpcmanager-0.0.19) (2022-02-06)
+### [htcmanager-0.0.19](https://github.com/truecharts/apps/compare/htpcmanager-0.0.18...htpcmanager-0.0.19) (2022-02-06)
 
 #### 聊天
 
@@ -412,7 +412,7 @@
 
 <a name="htpcmanager-0.0.18"></a>
 
-### [htpcmanager-0.0.18](https://github.com/truecharts/apps/compare/htpcmanager-0.0.17...htpcmanager-0.0.18) (2022-02-05)
+### [htcmanager-0.0.18](https://github.com/truecharts/apps/compare/htpcmanager-0.0.17...htpcmanager-0.0.18) (2022-02-05)
 
 #### 聊天
 
@@ -422,7 +422,7 @@
 
 <a name="htpcmanager-0.0.17"></a>
 
-### [htpcmanager-0.0.17](https://github.com/truecharts/apps/compare/htpcmanager-0.0.16...htpcmanager-0.0.17) (2022-02-02)
+### [htcmanager-0.0.17](https://github.com/truecharts/apps/compare/htpcmanager-0.0.16...htpcmanager-0.0.17) (2022-02-02)
 
 #### 聊天
 
@@ -432,7 +432,7 @@
 
 <a name="htpcmanager-0.0.16"></a>
 
-### [htpcmanager-0.0.16](https://github.com/truecharts/apps/compare/htpcmanager-0.0.15...htpcmanager-0.0.16) (2022-01-25)
+### [htcmanager-0.0.16](https://github.com/truecharts/apps/compare/htpcmanager-0.0.15...htpcmanager-0.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -442,7 +442,7 @@
 
 <a name="htpcmanager-0.0.15"></a>
 
-### [htpcmanager-0.0.15](https://github.com/truecharts/apps/compare/htpcmanager-0.0.14...htpcmanager-0.0.15) (2022-01-22)
+### [htcmanager-0.0.15](https://github.com/truecharts/apps/compare/htpcmanager-0.0.14...htpcmanager-0.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -452,7 +452,7 @@
 
 <a name="htpcmanager-0.0.14"></a>
 
-### [htpcmanager-0.0.14](https://github.com/truecharts/apps/compare/htpcmanager-0.0.13...htpcmanager-0.0.14) (2022-01-21)
+### [htcmanager-0.0.14](https://github.com/truecharts/apps/compare/htpcmanager-0.0.13...htpcmanager-0.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -466,7 +466,7 @@
 
 <a name="htpcmanager-0.0.13"></a>
 
-### [htpcmanager-0.0.13](https://github.com/truecharts/apps/compare/htpcmanager-0.0.12...htpcmanager-0.0.13) (2022-01-18)
+### [htcmanager-0.0.13](https://github.com/truecharts/apps/compare/htpcmanager-0.0.12...htpcmanager-0.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -476,7 +476,7 @@
 
 <a name="htpcmanager-0.0.12"></a>
 
-### [htpcmanager-0.0.12](https://github.com/truecharts/apps/compare/htpcmanager-0.0.11...htpcmanager-0.0.12) (2022-01-13)
+### [htcmanager-0.0.12](https://github.com/truecharts/apps/compare/htpcmanager-0.0.11...htpcmanager-0.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -490,7 +490,7 @@
 
 <a name="htpcmanager-0.0.11"></a>
 
-### [htpcmanager-0.0.11](https://github.com/truecharts/apps/compare/htpcmanager-0.0.10...htpcmanager-0.0.11) (2022-01-12)
+### [htcmanager-0.0.11](https://github.com/truecharts/apps/compare/htpcmanager-0.0.10...htpcmanager-0.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -500,7 +500,7 @@
 
 <a name="htpcmanager-0.0.10"></a>
 
-### [htpcmanager-0.0.10](https://github.com/truecharts/apps/compare/htpcmanager-0.0.9...htpcmanager-0.0.10) (2022-01-11)
+### [htcmanager-0.0.10](https://github.com/truecharts/apps/compare/htpcmanager-0.0.9...htpcmanager-0.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -510,7 +510,7 @@
 
 <a name="htpcmanager-0.0.9"></a>
 
-### [htpcmanager-0.0.9](https://github.com/truecharts/apps/compare/htpcmanager-0.0.8...htpcmanager-0.0.9) (2022-01-04)
+### [htcmanager-0.0.9](https://github.com/truecharts/apps/compare/htpcmanager-0.0.8...htpcmanager-0.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -520,7 +520,7 @@
 
 <a name="htpcmanager-0.0.8"></a>
 
-### [htpcmanager-0.0.8](https://github.com/truecharts/apps/compare/htpcmanager-0.0.7...htpcmanager-0.0.8) (2021-12-28)
+### [htcmanager-0.0.8](https://github.com/truecharts/apps/compare/htpcmanager-0.0.7...htpcmanager-0.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -530,7 +530,7 @@
 
 <a name="htpcmanager-0.0.7"></a>
 
-### [htpcmanager-0.0.7](https://github.com/truecharts/apps/compare/htpcmanager-0.0.6...htpcmanager-0.0.7) (2021-12-21)
+### [htcmanager-0.0.7](https://github.com/truecharts/apps/compare/htpcmanager-0.0.6...htpcmanager-0.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -540,7 +540,7 @@
 
 <a name="htpcmanager-0.0.6"></a>
 
-### [htpcmanager-0.0.6](https://github.com/truecharts/apps/compare/htpcmanager-0.0.5...htpcmanager-0.0.6) (2021-12-19)
+### [htcmanager-0.0.6](https://github.com/truecharts/apps/compare/htpcmanager-0.0.5...htpcmanager-0.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="htpcmanager-0.0.5"></a>
 
-### [htpcmanager-0.0.5](https://github.com/truecharts/apps/compare/htpcmanager-0.0.4...htpcmanager-0.0.5) (2021-12-19)
+### [htcmanager-0.0.5](https://github.com/truecharts/apps/compare/htpcmanager-0.0.4...htpcmanager-0.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="htpcmanager-0.0.4"></a>
 
-### [htpcmanager-0.0.4](https://github.com/truecharts/apps/compare/htpcmanager-0.0.3...htpcmanager-0.0.4) (2021-12-18)
+### [htcmanager-0.0.4](https://github.com/truecharts/apps/compare/htpcmanager-0.0.3...htpcmanager-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -572,7 +572,7 @@
 
 <a name="htpcmanager-0.0.3"></a>
 
-### [htpcmanager-0.0.3](https://github.com/truecharts/apps/compare/htpcmanager-0.0.2...htpcmanager-0.0.3) (2021-12-14)
+### [htcmanager-0.0.3](https://github.com/truecharts/apps/compare/htpcmanager-0.0.2...htpcmanager-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="htpcmanager-0.0.2"></a>
 
-### [htpcmanager-0.0.2](https://github.com/truecharts/apps/compare/htpcmanager-0.0.1...htpcmanager-0.0.2) (2021-12-13)
+### [htcmanager-0.0.2](https://github.com/truecharts/apps/compare/htpcmanager-0.0.1...htpcmanager-0.0.2) (2021-12-13)
 
 #### 聊天
 
