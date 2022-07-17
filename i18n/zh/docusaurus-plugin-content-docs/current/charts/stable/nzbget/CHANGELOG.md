@@ -80,7 +80,7 @@
 
 #### 聊天
 
-* update docker general non-major ([#2996](https://github.com/truecharts/apps/issues/2996))
+* 更新一般的非主码([#2996](https://github.com/truecharts/apps/issues/2996))
 
 
 
@@ -573,7 +573,7 @@
 
 <a name="nzbget-9.0.24"></a>
 
-### [nzbget-9.0.24](https://github.com/truecharts/apps/compare/nzbget-9.0.23...nzbget-9.0.24) (2021-12-18)
+### [nzbget-9.0.24](https://github.com/truecharts/apps/compare/nzbget-9.0.23...nzbget-9.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -861,7 +861,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
