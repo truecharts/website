@@ -483,7 +483,7 @@
 
 #### Feat
 
-* move it to stable ([#1743](https://github.com/truecharts/apps/issues/1743))
+* 移动到稳定位置([#1743](https://github.com/truecharts/apps/issues/1743))
 
 
 
@@ -567,4 +567,4 @@
 
 #### Feat
 
-* Add shlink-web-client ([#1618](https://github.com/truecharts/apps/issues/1618))
+* 添加 shlink-web-client ([#1618](https://github.com/truecharts/apps/issues/1618))
