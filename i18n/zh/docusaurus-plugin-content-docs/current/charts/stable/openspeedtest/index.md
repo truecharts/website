@@ -1,12 +1,12 @@
 # openspeedtest
 
-HTML5 网络速度测试服务器。 You can test download & upload speed from any device within your network with a web browser that is IE10 or new.
+HTML5 网络速度测试服务器。 您可以通过一个 IE10 或新的 web 浏览器测试从您网络中任何设备下载 & 上传速度。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://github.com/openspeedtest/Speed-Test>
+* [https://github.com/openspeedtest/Speed-测试](https://github.com/openspeedtest/Speed-Test)
 
 ## B. 所需经费
 
