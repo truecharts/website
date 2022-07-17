@@ -9,7 +9,7 @@
 
 
 
-## [nextcloud-15.2.17](https://github.com/truecharts/apps/compare/nextcloud-15.2.16...nextcloud-15.2.17) (2022-07-15)
+## [下一云-15.2.17](https://github.com/truecharts/apps/compare/nextcloud-15.2.16...nextcloud-15.2.17) (2022-07-15)
 
 ### 聊天
 
@@ -58,7 +58,7 @@
 
 
 
-## [nextcloud-15.2.9](https://github.com/truecharts/apps/compare/nextcloud-15.2.8...nextcloud-15.2.9) (2022-07-12)
+## [下一云-15.2.9](https://github.com/truecharts/apps/compare/nextcloud-15.2.8...nextcloud-15.2.9) (2022-07-12)
 
 ### 聊天
 
@@ -68,7 +68,7 @@
 
 <a name="nextcloud-15.2.8"></a>
 
-### [nextcloud-15.2.8](https://github.com/truecharts/apps/compare/nextcloud-15.2.7...nextcloud-15.2.8) (2022-07-12)
+### [下一云-15.2.8](https://github.com/truecharts/apps/compare/nextcloud-15.2.7...nextcloud-15.2.8) (2022-07-12)
 
 #### 聊天
 
@@ -90,7 +90,7 @@
 
 <a name="nextcloud-15.2.6"></a>
 
-### [nextcloud-15.2.6](https://github.com/truecharts/apps/compare/nextcloud-15.2.5...nextcloud-15.2.6) (2022-07-11)
+### [下一云-15.2.6](https://github.com/truecharts/apps/compare/nextcloud-15.2.5...nextcloud-15.2.6) (2022-07-11)
 
 #### 聊天
 
@@ -100,17 +100,17 @@
 
 <a name="nextcloud-15.2.5"></a>
 
-### [nextcloud-15.2.5](https://github.com/truecharts/apps/compare/nextcloud-15.2.4...nextcloud-15.2.5) (2022-07-10)
+### [下一云-15.2.5](https://github.com/truecharts/apps/compare/nextcloud-15.2.4...nextcloud-15.2.5) (2022-07-10)
 
 #### 修复
 
-* increase nginx fpm forwarding timeouts ([#3122](https://github.com/truecharts/apps/issues/3122))
+* 增加 nginx fpm 转发超时 ([#3122](https://github.com/truecharts/apps/issues/3122))
 
 
 
 <a name="nextcloud-15.2.4"></a>
 
-### [nextcloud-15.2.4](https://github.com/truecharts/apps/compare/nextcloud-15.2.3...nextcloud-15.2.4) (2022-07-09)
+### [下一云-15.2.4](https://github.com/truecharts/apps/compare/nextcloud-15.2.3...nextcloud-15.2.4) (2022-07-09)
 
 #### 聊天
 
@@ -120,11 +120,11 @@
 
 <a name="nextcloud-15.2.3"></a>
 
-### [nextcloud-15.2.3](https://github.com/truecharts/apps/compare/nextcloud-15.2.2...nextcloud-15.2.3) (2022-07-09)
+### [下一云-15.2.3](https://github.com/truecharts/apps/compare/nextcloud-15.2.2...nextcloud-15.2.3) (2022-07-09)
 
 #### 修复
 
-* improve upload performance and predictability ([#3109](https://github.com/truecharts/apps/issues/3109))
+* 提高上传性能和可预见性([#3109](https://github.com/truecharts/apps/issues/3109))
 
 
 
@@ -140,7 +140,7 @@
 
 #### 修复
 
-* fix HPB service polling url ([#3102](https://github.com/truecharts/apps/issues/3102))
+* 修复 HPB 服务轮询url ([#3102](https://github.com/truecharts/apps/issues/3102))
 
 
 
@@ -156,7 +156,7 @@
 
 #### 修复
 
-* fix wrong accessip reference ([#3101](https://github.com/truecharts/apps/issues/3101))
+* 修复错误的存取引用([#3101](https://github.com/truecharts/apps/issues/3101))
 
 
 
@@ -176,7 +176,7 @@
 
 #### 修复
 
-* bypass hpb domain check ([#3093](https://github.com/truecharts/apps/issues/3093))
+* 旁路 hpb 域检查 ([#3093](https://github.com/truecharts/apps/issues/3093))
 
 
 
@@ -186,7 +186,7 @@
 
 #### 修复
 
-* correct some mistakes in the migration script ([#3091](https://github.com/truecharts/apps/issues/3091))
+* 纠正迁移脚本中的一些错误 ([#3091](https://github.com/truecharts/apps/issues/3091))
 
 
 
@@ -196,17 +196,17 @@
 
 #### Feat
 
-* add Imaginary high-performance preview backend ([#3086](https://github.com/truecharts/apps/issues/3086))
+* 添加映像高性能预览后端([#3086](https://github.com/truecharts/apps/issues/3086))
 
 
 
 <a name="nextcloud-15.0.1"></a>
 
-### [nextcloud-15.0.1](https://github.com/truecharts/apps/compare/nextcloud-15.0.0...nextcloud-15.0.1) (2022-07-06)
+### [下一云-15.0.1](https://github.com/truecharts/apps/compare/nextcloud-15.0.0...nextcloud-15.0.1) (2022-07-06)
 
 #### 修复
 
-* change nginx redirect options to not add port to query ([#3085](https://github.com/truecharts/apps/issues/3085))
+* 更改 nginx 重定向选项以不添加端口到查询 ([#3085](https://github.com/truecharts/apps/issues/3085))
 
 
 
@@ -258,7 +258,7 @@
 
 <a name="nextcloud-14.0.12"></a>
 
-### [nextcloud-14.0.12](https://github.com/truecharts/apps/compare/nextcloud-14.0.11...nextcloud-14.0.12) (2022-06-27)
+### [下一云-14.0.12](https://github.com/truecharts/apps/compare/nextcloud-14.0.11...nextcloud-14.0.12) (2022-06-27)
 
 #### 聊天
 
@@ -268,7 +268,7 @@
 
 <a name="nextcloud-14.0.11"></a>
 
-### [nextcloud-14.0.11](https://github.com/truecharts/apps/compare/nextcloud-14.0.10...nextcloud-14.0.11) (2022-06-26)
+### [下一云-14.0.11](https://github.com/truecharts/apps/compare/nextcloud-14.0.10...nextcloud-14.0.11) (2022-06-26)
 
 #### 聊天
 
@@ -284,7 +284,7 @@
 
 <a name="nextcloud-14.0.9"></a>
 
-### [nextcloud-14.0.9](https://github.com/truecharts/apps/compare/nextcloud-14.0.8...nextcloud-14.0.9) (2022-06-25)
+### [下一云-14.0.9](https://github.com/truecharts/apps/compare/nextcloud-14.0.8...nextcloud-14.0.9) (2022-06-25)
 
 #### 聊天
 
@@ -355,7 +355,7 @@
 
 <a name="nextcloud-14.0.2"></a>
 
-### [nextcloud-14.0.2](https://github.com/truecharts/apps/compare/nextcloud-14.0.1...nextcloud-14.0.2) (2022-06-11)
+### [下一云-14.0.2](https://github.com/truecharts/apps/compare/nextcloud-14.0.1...nextcloud-14.0.2) (2022-06-11)
 
 #### 聊天
 
@@ -424,7 +424,7 @@
 
 <a name="nextcloud-12.0.32"></a>
 
-### [nextcloud-12.0.32](https://github.com/truecharts/apps/compare/nextcloud-12.0.31...nextcloud-12.0.32) (2022-05-31)
+### [下一云-12.0.32](https://github.com/truecharts/apps/compare/nextcloud-12.0.31...nextcloud-12.0.32) (2022-05-31)
 
 #### 聊天
 
@@ -435,7 +435,7 @@
 
 <a name="nextcloud-12.0.31"></a>
 
-### [nextcloud-12.0.31](https://github.com/truecharts/apps/compare/nextcloud-12.0.30...nextcloud-12.0.31) (2022-05-26)
+### [下一云-12.0.31](https://github.com/truecharts/apps/compare/nextcloud-12.0.30...nextcloud-12.0.31) (2022-05-26)
 
 #### 聊天
 
@@ -446,7 +446,7 @@
 
 <a name="nextcloud-12.0.31"></a>
 
-### [nextcloud-12.0.31](https://github.com/truecharts/apps/compare/nextcloud-12.0.30...nextcloud-12.0.31) (2022-05-26)
+### [下一云-12.0.31](https://github.com/truecharts/apps/compare/nextcloud-12.0.30...nextcloud-12.0.31) (2022-05-26)
 
 #### 聊天
 
@@ -456,7 +456,7 @@
 
 <a name="nextcloud-12.0.30"></a>
 
-### [nextcloud-12.0.30](https://github.com/truecharts/apps/compare/nextcloud-12.0.29...nextcloud-12.0.30) (2022-05-24)
+### [下一云-12.0.30](https://github.com/truecharts/apps/compare/nextcloud-12.0.29...nextcloud-12.0.30) (2022-05-24)
 
 #### 聊天
 
@@ -466,17 +466,17 @@
 
 <a name="nextcloud-12.0.29"></a>
 
-### [nextcloud-12.0.29](https://github.com/truecharts/apps/compare/nextcloud-12.0.28...nextcloud-12.0.29) (2022-05-24)
+### [下一云-12.0.29](https://github.com/truecharts/apps/compare/nextcloud-12.0.28...nextcloud-12.0.29) (2022-05-24)
 
 #### 聊天
 
-* update container image tccr.io/truecharts/nextcloud to v24.0.0 ([#2714](https://github.com/truecharts/apps/issues/2714))
+* 将容器图像 tccr.io/truechars/next cloud 更新到 v24.0.0 ([#2714](https://github.com/truecharts/apps/issues/2714))
 
 
 
 <a name="nextcloud-12.0.28"></a>
 
-### [nextcloud-12.0.28](https://github.com/truecharts/apps/compare/nextcloud-12.0.27...nextcloud-12.0.28) (2022-05-24)
+### [下一云-12.0.28](https://github.com/truecharts/apps/compare/nextcloud-12.0.27...nextcloud-12.0.28) (2022-05-24)
 
 #### 聊天
 
@@ -486,7 +486,7 @@
 
 <a name="nextcloud-12.0.27"></a>
 
-### [nextcloud-12.0.27](https://github.com/truecharts/apps/compare/nextcloud-12.0.26...nextcloud-12.0.27) (2022-05-17)
+### [下一云-12.0.27](https://github.com/truecharts/apps/compare/nextcloud-12.0.26...nextcloud-12.0.27) (2022-05-17)
 
 #### 聊天
 
@@ -497,7 +497,7 @@
 
 <a name="nextcloud-12.0.27"></a>
 
-### [nextcloud-12.0.27](https://github.com/truecharts/apps/compare/nextcloud-12.0.26...nextcloud-12.0.27) (2022-05-17)
+### [下一云-12.0.27](https://github.com/truecharts/apps/compare/nextcloud-12.0.26...nextcloud-12.0.27) (2022-05-17)
 
 #### 聊天
 
@@ -507,7 +507,7 @@
 
 <a name="nextcloud-12.0.26"></a>
 
-### [nextcloud-12.0.26](https://github.com/truecharts/apps/compare/nextcloud-12.0.25...nextcloud-12.0.26) (2022-05-17)
+### [下一云-12.0.26](https://github.com/truecharts/apps/compare/nextcloud-12.0.25...nextcloud-12.0.26) (2022-05-17)
 
 #### 聊天
 
@@ -517,7 +517,7 @@
 
 <a name="nextcloud-12.0.25"></a>
 
-### [nextcloud-12.0.25](https://github.com/truecharts/apps/compare/nextcloud-12.0.24...nextcloud-12.0.25) (2022-05-10)
+### [下一云-12.0.25](https://github.com/truecharts/apps/compare/nextcloud-12.0.24...nextcloud-12.0.25) (2022-05-10)
 
 #### 聊天
 
@@ -527,7 +527,7 @@
 
 <a name="nextcloud-12.0.24"></a>
 
-### [nextcloud-12.0.24](https://github.com/truecharts/apps/compare/nextcloud-12.0.23...nextcloud-12.0.24) (2022-05-05)
+### [下一云-12.0.24](https://github.com/truecharts/apps/compare/nextcloud-12.0.23...nextcloud-12.0.24) (2022-05-05)
 
 #### 聊天
 
@@ -537,7 +537,7 @@
 
 <a name="nextcloud-12.0.23"></a>
 
-### [nextcloud-12.0.23](https://github.com/truecharts/apps/compare/nextcloud-12.0.22...nextcloud-12.0.23) (2022-05-04)
+### [下一云-12.0.23](https://github.com/truecharts/apps/compare/nextcloud-12.0.22...nextcloud-12.0.23) (2022-05-04)
 
 #### 聊天
 
@@ -547,7 +547,7 @@
 
 <a name="nextcloud-12.0.22"></a>
 
-### [nextcloud-12.0.22](https://github.com/truecharts/apps/compare/nextcloud-12.0.21...nextcloud-12.0.22) (2022-05-04)
+### [下一云-12.0.22](https://github.com/truecharts/apps/compare/nextcloud-12.0.21...nextcloud-12.0.22) (2022-05-04)
 
 #### 聊天
 
@@ -557,7 +557,7 @@
 
 <a name="nextcloud-12.0.21"></a>
 
-### [nextcloud-12.0.21](https://github.com/truecharts/apps/compare/nextcloud-12.0.20...nextcloud-12.0.21) (2022-04-26)
+### [下一云-12.0.21](https://github.com/truecharts/apps/compare/nextcloud-12.0.20...nextcloud-12.0.21) (2022-04-26)
 
 #### 聊天
 
@@ -567,7 +567,7 @@
 
 <a name="nextcloud-12.0.20"></a>
 
-### [nextcloud-12.0.20](https://github.com/truecharts/apps/compare/nextcloud-12.0.19...nextcloud-12.0.20) (2022-04-20)
+### [下一云-12.0.20](https://github.com/truecharts/apps/compare/nextcloud-12.0.19...nextcloud-12.0.20) (2022-04-20)
 
 #### 聊天
 
@@ -578,7 +578,7 @@
 
 <a name="nextcloud-12.0.19"></a>
 
-### [nextcloud-12.0.19](https://github.com/truecharts/apps/compare/nextcloud-12.0.18...nextcloud-12.0.19) (2022-04-12)
+### [下一云-12.0.19](https://github.com/truecharts/apps/compare/nextcloud-12.0.18...nextcloud-12.0.19) (2022-04-12)
 
 #### 聊天
 
@@ -598,7 +598,7 @@
 
 <a name="nextcloud-12.0.17"></a>
 
-### [nextcloud-12.0.17](https://github.com/truecharts/apps/compare/nextcloud-12.0.16...nextcloud-12.0.17) (2022-03-31)
+### [下一云-12.0.17](https://github.com/truecharts/apps/compare/nextcloud-12.0.16...nextcloud-12.0.17) (2022-03-31)
 
 #### 聊天
 
@@ -608,7 +608,7 @@
 
 <a name="nextcloud-12.0.16"></a>
 
-### [nextcloud-12.0.16](https://github.com/truecharts/apps/compare/nextcloud-12.0.14...nextcloud-12.0.16) (2022-03-31)
+### [下一云-12.0.16](https://github.com/truecharts/apps/compare/nextcloud-12.0.14...nextcloud-12.0.16) (2022-03-31)
 
 #### 聊天
 
@@ -651,7 +651,7 @@
 
 <a name="nextcloud-12.0.11"></a>
 
-### [nextcloud-12.0.11](https://github.com/truecharts/apps/compare/nextcloud-12.0.10...nextcloud-12.0.11) (2022-03-26)
+### [下一云-12.0.11](https://github.com/truecharts/apps/compare/nextcloud-12.0.10...nextcloud-12.0.11) (2022-03-26)
 
 #### 聊天
 
@@ -671,7 +671,7 @@
 
 <a name="nextcloud-12.0.8"></a>
 
-### [nextcloud-12.0.8](https://github.com/truecharts/apps/compare/nextcloud-12.0.7...nextcloud-12.0.8) (2022-03-24)
+### [下一云-12.0.8](https://github.com/truecharts/apps/compare/nextcloud-12.0.7...nextcloud-12.0.8) (2022-03-24)
 
 #### 聊天
 
@@ -681,7 +681,7 @@
 
 <a name="nextcloud-12.0.4"></a>
 
-### [nextcloud-12.0.4](https://github.com/truecharts/apps/compare/nextcloud-12.0.3...nextcloud-12.0.4) (2022-03-15)
+### [下一云-12.0.4](https://github.com/truecharts/apps/compare/nextcloud-12.0.3...nextcloud-12.0.4) (2022-03-15)
 
 #### 聊天
 
@@ -701,18 +701,18 @@
 
 <a name="nextcloud-12.0.2"></a>
 
-### [nextcloud-12.0.2](https://github.com/truecharts/apps/compare/nextcloud-12.0.1...nextcloud-12.0.2) (2022-03-07)
+### [下一云-12.0.2](https://github.com/truecharts/apps/compare/nextcloud-12.0.1...nextcloud-12.0.2) (2022-03-07)
 
 #### 聊天
 
 * 更新头盔的一般非主头盔版本([#211](https://github.com/truecharts/apps/issues/2111))
-* update container image tccr.io/truecharts/nextcloud to v23.0.2 ([#2110](https://github.com/truecharts/apps/issues/2110))
+* 将容器图像 tccr.io/truechars/next cloud 更新为 v23.0.2 ([#2110](https://github.com/truecharts/apps/issues/2110))
 
 
 
 <a name="nextcloud-12.0.1"></a>
 
-### [nextcloud-12.0.1](https://github.com/truecharts/apps/compare/nextcloud-12.0.0...nextcloud-12.0.1) (2022-03-07)
+### [下一云-12.0.1](https://github.com/truecharts/apps/compare/nextcloud-12.0.0...nextcloud-12.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -729,7 +729,7 @@
 
 * 从问题.yaml 中移除固定的 env
 * 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
-* update docker general non-major ([#2008](https://github.com/truecharts/apps/issues/2008))
+* 更新一般的非主码([#2008](https://github.com/truecharts/apps/issues/2008))
 
 #### 修复
 
@@ -775,7 +775,7 @@
 #### 聊天
 
 * 更新一般的非主码([#1924](https://github.com/truecharts/apps/issues/1924))
-* clrearly indicate values that used only on first install ([#1909](https://github.com/truecharts/apps/issues/1909))
+* clrarly indicate values that only used on first instalment ([#1909](https://github.com/truecharts/apps/issues/1909))
 
 
 
@@ -832,7 +832,7 @@
 
 <a name="nextcloud-11.0.24"></a>
 
-### [nextcloud-11.0.24](https://github.com/truecharts/apps/compare/nextcloud-11.0.23...nextcloud-11.0.24) (2022-01-31)
+### [下一云11.0.24](https://github.com/truecharts/apps/compare/nextcloud-11.0.23...nextcloud-11.0.24) (2022-01-31)
 
 #### 聊天
 
@@ -990,7 +990,7 @@
 
 <a name="nextcloud-11.0.9"></a>
 
-### [nextcloud-11.0.9](https://github.com/truecharts/apps/compare/nextcloud-11.0.8...nextcloud-11.0.9) (2021-12-24)
+### [下一云-11.0.9](https://github.com/truecharts/apps/compare/nextcloud-11.0.8...nextcloud-11.0.9) (2021-12-24)
 
 #### 聊天
 
@@ -1000,7 +1000,7 @@
 
 <a name="nextcloud-11.0.8"></a>
 
-### [nextcloud-11.0.8](https://github.com/truecharts/apps/compare/nextcloud-11.0.7...nextcloud-11.0.8) (2021-12-21)
+### [下一云-11.0.8](https://github.com/truecharts/apps/compare/nextcloud-11.0.7...nextcloud-11.0.8) (2021-12-21)
 
 #### 聊天
 
@@ -1010,7 +1010,7 @@
 
 <a name="nextcloud-11.0.7"></a>
 
-### [nextcloud-11.0.7](https://github.com/truecharts/apps/compare/nextcloud-11.0.6...nextcloud-11.0.7) (2021-12-19)
+### [下一云-11.0.7](https://github.com/truecharts/apps/compare/nextcloud-11.0.6...nextcloud-11.0.7) (2021-12-19)
 
 #### 聊天
 
@@ -1022,7 +1022,7 @@
 
 <a name="nextcloud-11.0.6"></a>
 
-### [nextcloud-11.0.6](https://github.com/truecharts/apps/compare/nextcloud-11.0.5...nextcloud-11.0.6) (2021-12-19)
+### [下一云-11.0.6](https://github.com/truecharts/apps/compare/nextcloud-11.0.5...nextcloud-11.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -1043,7 +1043,7 @@
 
 <a name="nextcloud-11.0.4"></a>
 
-### [nextcloud-11.0.4](https://github.com/truecharts/apps/compare/nextcloud-11.0.3...nextcloud-11.0.4) (2021-12-18)
+### [下一云-11.0.4](https://github.com/truecharts/apps/compare/nextcloud-11.0.3...nextcloud-11.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -1054,7 +1054,7 @@
 
 <a name="nextcloud-11.0.3"></a>
 
-### [nextcloud-11.0.3](https://github.com/truecharts/apps/compare/nextcloud-11.0.2...nextcloud-11.0.3) (2021-12-14)
+### [下一云-11.0.3](https://github.com/truecharts/apps/compare/nextcloud-11.0.2...nextcloud-11.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -1064,7 +1064,7 @@
 
 <a name="nextcloud-11.0.2"></a>
 
-### [nextcloud-11.0.2](https://github.com/truecharts/apps/compare/nextcloud-11.0.1...nextcloud-11.0.2) (2021-12-13)
+### [下一云-11.0.2](https://github.com/truecharts/apps/compare/nextcloud-11.0.1...nextcloud-11.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -1074,7 +1074,7 @@
 
 <a name="nextcloud-11.0.1"></a>
 
-### [nextcloud-11.0.1](https://github.com/truecharts/apps/compare/nextcloud-11.0.0...nextcloud-11.0.1) (2021-12-11)
+### [下一云-11.0.1](https://github.com/truecharts/apps/compare/nextcloud-11.0.0...nextcloud-11.0.1) (2021-12-11)
 
 #### 聊天
 
@@ -1114,7 +1114,7 @@
 * 略去安全页面的ci
 * 更新非主要的背包头盔版本([#1471](https://github.com/truecharts/apps/issues/1471))
 * 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
-* update container image tccr.io/truecharts/nextcloud to v23.0.0 ([#1447](https://github.com/truecharts/apps/issues/1447))
+* 将容器图像 tccr.io/truechars/next cloud 更新为 v23.0.0 ([#1447](https://github.com/truecharts/apps/issues/1447))
 * 更新非主要的背包头盔版本([#1468](https://github.com/truecharts/apps/issues/1468))
 * 更新非主要([#1466](https://github.com/truecharts/apps/issues/1466))
 * 更新非主要([#1431](https://github.com/truecharts/apps/issues/1431))
@@ -1175,7 +1175,7 @@
 
 * 确保容器引用前缀 v
 * 移动所有容器引用到 TCCR ([#1448](https://github.com/truecharts/apps/issues/1448))
-* update container image tccr.io/truecharts/nextcloud to v23.0.0 ([#1447](https://github.com/truecharts/apps/issues/1447))
+* 将容器图像 tccr.io/truechars/next cloud 更新为 v23.0.0 ([#1447](https://github.com/truecharts/apps/issues/1447))
 
 
 
@@ -1240,7 +1240,7 @@
 #### 修复
 
 * 默认启用所有服务[#1361](https://github.com/truecharts/apps/issues/1361))
-* remove specific times for nextcloud startup probes
+* 移除下一次云端启动探测的特定时间
 
 
 
@@ -1290,7 +1290,7 @@
 
 #### 聊天
 
-* update non-major docker tags ([#1339](https://github.com/truecharts/apps/issues/1339))
+* 更新非主停靠标签[#1339](https://github.com/truecharts/apps/issues/1339)
 
 
 
@@ -1320,18 +1320,18 @@
 #### Feat
 
 * 使用我们自己的红色图表([#1312](https://github.com/truecharts/apps/issues/1312))
-* use our own redis chart ([#1310](https://github.com/truecharts/apps/issues/1310))
+* 使用我们自己的红色图表([#1310](https://github.com/truecharts/apps/issues/1310))
 
 #### 修复
 
 * 允许路径中的空格 ([#1306](https://github.com/truecharts/apps/issues/1306))
-* revert nextcloud container update due to upstream performance issues
+* 由于上游性能问题，恢复下一次云端容器更新
 
 
 
 <a name="nextcloud-9.0.9"></a>
 
-### [nextcloud-9.0.9](https://github.com/truecharts/apps/compare/nextcloud-9.0.8...nextcloud-9.0.9) (2021-11-09)
+### [下一云-9.0.9](https://github.com/truecharts/apps/compare/nextcloud-9.0.8...nextcloud-9.0.9) (2021-11-09)
 
 #### 聊天
 
@@ -1356,7 +1356,7 @@
 #### 聊天
 
 * 更新非主要的背包头盔版本([#1291](https://github.com/truecharts/apps/issues/1291))
-* Update label / description on admin credentials ([#1274](https://github.com/truecharts/apps/issues/1274))
+* 更新管理凭据上的标签/描述 ([#1274](https://github.com/truecharts/apps/issues/1274))
 
 #### 聊天
 
@@ -1368,7 +1368,7 @@
 
 #### 修复
 
-* make the env-var descriptions more clear
+* 使Env-var 描述更加清晰。
 
 
 
@@ -1384,7 +1384,7 @@
 
 <a name="nextcloud-9.0.5"></a>
 
-### [nextcloud-9.0.5](https://github.com/truecharts/apps/compare/nextcloud-9.0.4...nextcloud-9.0.5) (2021-11-01)
+### [下一云-9.0.5](https://github.com/truecharts/apps/compare/nextcloud-9.0.4...nextcloud-9.0.5) (2021-11-01)
 
 #### 聊天
 
@@ -1394,7 +1394,7 @@
 
 <a name="nextcloud-9.0.4"></a>
 
-### [nextcloud-9.0.4](https://github.com/truecharts/apps/compare/nextcloud-9.0.3...nextcloud-9.0.4) (2021-10-26)
+### [下一云-9.0.4](https://github.com/truecharts/apps/compare/nextcloud-9.0.3...nextcloud-9.0.4) (2021-10-26)
 
 #### 聊天
 
@@ -1404,7 +1404,7 @@
 
 <a name="nextcloud-9.0.3"></a>
 
-### [nextcloud-9.0.3](https://github.com/truecharts/apps/compare/nextcloud-9.0.2...nextcloud-9.0.3) (2021-10-26)
+### [下一云-9.0.3](https://github.com/truecharts/apps/compare/nextcloud-9.0.2...nextcloud-9.0.3) (2021-10-26)
 
 #### 聊天
 
@@ -1414,7 +1414,7 @@
 
 <a name="nextcloud-9.0.2"></a>
 
-### [nextcloud-9.0.2](https://github.com/truecharts/apps/compare/nextcloud-9.0.1...nextcloud-9.0.2) (2021-10-26)
+### [下一云-9.0.2](https://github.com/truecharts/apps/compare/nextcloud-9.0.1...nextcloud-9.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -1424,7 +1424,7 @@
 
 <a name="nextcloud-9.0.1"></a>
 
-### [nextcloud-9.0.1](https://github.com/truecharts/apps/compare/nextcloud-9.0.0...nextcloud-9.0.1) (2021-10-26)
+### [下一云-9.0.1](https://github.com/truecharts/apps/compare/nextcloud-9.0.0...nextcloud-9.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1434,7 +1434,7 @@
 
 <a name="nextcloud-9.0.0"></a>
 
-### [nextcloud-9.0.0](https://github.com/truecharts/apps/compare/nextcloud-8.0.5...nextcloud-9.0.0) (2021-10-26)
+### [下一云-9.0.0](https://github.com/truecharts/apps/compare/nextcloud-8.0.5...nextcloud-9.0.0) (2021-10-26)
 
 #### 聊天
 
@@ -1461,7 +1461,7 @@
 
 <a name="nextcloud-8.0.1"></a>
 
-### [nextcloud-8.0.1](https://github.com/truecharts/apps/compare/nextcloud-8.0.0...nextcloud-8.0.1) (2021-10-26)
+### [下一云-8.0.1](https://github.com/truecharts/apps/compare/nextcloud-8.0.0...nextcloud-8.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1476,18 +1476,18 @@
 #### 聊天
 
 * 适合TrueNAS SCALE RC1
-* make admin password private ([#1219](https://github.com/truecharts/apps/issues/1219))
+* 将管理员密码设置为私有([#1219](https://github.com/truecharts/apps/issues/1219))
 
 
 
 <a name="nextcloud-7.0.3"></a>
 
-### [nextcloud-7.0.3](https://github.com/truecharts/apps/compare/nextcloud-7.0.0...nextcloud-7.0.3) (2021-10-20)
+### [下一云-7.0.3](https://github.com/truecharts/apps/compare/nextcloud-7.0.0...nextcloud-7.0.3) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1497,7 +1497,7 @@
 
 <a name="nextcloud-7.0.0"></a>
 
-### [nextcloud-7.0.0](https://github.com/truecharts/apps/compare/nextcloud-6.0.28...nextcloud-7.0.0) (2021-10-20)
+### [下一云-7.0.0](https://github.com/truecharts/apps/compare/nextcloud-6.0.28...nextcloud-7.0.0) (2021-10-20)
 
 #### 聊天
 
@@ -1511,7 +1511,7 @@
 
 <a name="nextcloud-6.0.28"></a>
 
-### [nextcloud-6.0.28](https://github.com/truecharts/apps/compare/nextcloud-6.0.27...nextcloud-6.0.28) (2021-10-20)
+### [下一云-6.0.28](https://github.com/truecharts/apps/compare/nextcloud-6.0.27...nextcloud-6.0.28) (2021-10-20)
 
 #### 聊天
 
@@ -1521,7 +1521,7 @@
 
 <a name="nextcloud-6.0.27"></a>
 
-### [nextcloud-6.0.27](https://github.com/truecharts/apps/compare/nextcloud-6.0.26...nextcloud-6.0.27) (2021-10-19)
+### [下一云-6.0.27](https://github.com/truecharts/apps/compare/nextcloud-6.0.26...nextcloud-6.0.27) (2021-10-19)
 
 #### 更改
 
@@ -1545,7 +1545,7 @@
 
 <a name="nextcloud-6.0.26"></a>
 
-### [nextcloud-6.0.26](https://github.com/truecharts/apps/compare/nextcloud-6.0.25...nextcloud-6.0.26) (2021-10-19)
+### [下一云-6.0.26](https://github.com/truecharts/apps/compare/nextcloud-6.0.25...nextcloud-6.0.26) (2021-10-19)
 
 #### 聊天
 
@@ -1556,7 +1556,7 @@
 
 <a name="nextcloud-6.0.25"></a>
 
-### [nextcloud-6.0.25](https://github.com/truecharts/apps/compare/nextcloud-6.0.24...nextcloud-6.0.25) (2021-10-19)
+### [下一云-6.0.25](https://github.com/truecharts/apps/compare/nextcloud-6.0.24...nextcloud-6.0.25) (2021-10-19)
 
 #### 修复
 
@@ -1576,7 +1576,7 @@
 
 <a name="nextcloud-6.0.23"></a>
 
-### [nextcloud-6.0.23](https://github.com/truecharts/apps/compare/nextcloud-6.0.22...nextcloud-6.0.23) (2021-10-18)
+### [下一云-6.0.23](https://github.com/truecharts/apps/compare/nextcloud-6.0.22...nextcloud-6.0.23) (2021-10-18)
 
 #### 重新因子
 
@@ -1586,11 +1586,11 @@
 
 <a name="nextcloud-6.0.22"></a>
 
-### [nextcloud-6.0.22](https://github.com/truecharts/apps/compare/nextcloud-6.0.21...nextcloud-6.0.22) (2021-10-18)
+### [下一云-6.0.22](https://github.com/truecharts/apps/compare/nextcloud-6.0.21...nextcloud-6.0.22) (2021-10-18)
 
 #### 修复
 
-* remove regex for mountPath on `redismaster` for now ([#1167](https://github.com/truecharts/apps/issues/1167))
+* 移除正则表达式的挂载路径在 `重新masting` 暂时([#1167](https://github.com/truecharts/apps/issues/1167))
 
 
 
@@ -1670,7 +1670,7 @@
 
 <a name="nextcloud-6.0.14"></a>
 
-### [nextcloud-6.0.14](https://github.com/truecharts/apps/compare/nextcloud-6.0.13...nextcloud-6.0.14) (2021-10-09)
+### [下一云-6.0.14](https://github.com/truecharts/apps/compare/nextcloud-6.0.13...nextcloud-6.0.14) (2021-10-09)
 
 
 
@@ -1680,7 +1680,7 @@
 
 #### 聊天
 
-* update non-major ([#1103](https://github.com/truecharts/apps/issues/1103))
+* 更新非主要([#1103](https://github.com/truecharts/apps/issues/1103))
 
 
 
@@ -1696,7 +1696,7 @@
 
 <a name="nextcloud-6.0.11"></a>
 
-### [nextcloud-6.0.11](https://github.com/truecharts/apps/compare/nextcloud-6.0.10...nextcloud-6.0.11) (2021-10-05)
+### [下一云-6.0.11](https://github.com/truecharts/apps/compare/nextcloud-6.0.10...nextcloud-6.0.11) (2021-10-05)
 
 #### 聊天
 
@@ -1777,7 +1777,7 @@
 
 <a name="nextcloud-6.0.2"></a>
 
-### [nextcloud-6.0.2](https://github.com/truecharts/apps/compare/nextcloud-6.0.0...nextcloud-6.0.2) (2021-09-26)
+### [下一云-6.0.2](https://github.com/truecharts/apps/compare/nextcloud-6.0.0...nextcloud-6.0.2) (2021-09-26)
 
 #### 聊天
 
@@ -1862,7 +1862,7 @@
 
 #### 修复
 
-* bump postgresql on nextcloud to a working version
+* 在下次云端将postgresql转换为工作版本
 
 
 
@@ -1882,7 +1882,7 @@
 
 #### 聊天
 
-* update nextcloud to latest postgresql and common
+* 更新下一个云到最新的 postgresql 和普通的
 * 使用 bitnami 代替stock postgl 容器 ([#960](https://github.com/truecharts/apps/issues/960))
 * 更新非主要([#962](https://github.com/truecharts/apps/issues/962))
 
@@ -1896,7 +1896,7 @@
 
 #### 重新因子
 
-* change image layout to enable renovate updates of sidecarts ([#955](https://github.com/truecharts/apps/issues/955))
+* 更改图像布局以启用更新版([#955](https://github.com/truecharts/apps/issues/955))
 
 
 
@@ -1906,13 +1906,13 @@
 
 #### 修复
 
-* repair wrong initcontainer format on nextcloud
+* 在下一个云端修复错误的 initContainer 格式
 
 
 
 <a name="nextcloud-4.0.2"></a>
 
-### [nextcloud-4.0.2](https://github.com/truecharts/apps/compare/nextcloud-4.0.1...nextcloud-4.0.2) (2021-09-10)
+### [下一云-4.0.2](https://github.com/truecharts/apps/compare/nextcloud-4.0.1...nextcloud-4.0.2) (2021-09-10)
 
 #### 修复
 
@@ -1922,7 +1922,7 @@
 
 <a name="nextcloud-4.0.1"></a>
 
-### [nextcloud-4.0.1](https://github.com/truecharts/apps/compare/nextcloud-4.0.0...nextcloud-4.0.1) (2021-09-10)
+### [下一云-4.0.1](https://github.com/truecharts/apps/compare/nextcloud-4.0.0...nextcloud-4.0.1) (2021-09-10)
 
 #### 修复
 
@@ -1950,7 +1950,7 @@
 
 #### 恢复
 
-* undo fix tryout for TRUSTED_PROXIES
+* 撤销修复TRUSTED_PROXIES 的试题
 
 
 
@@ -1960,12 +1960,12 @@
 
 #### Feat
 
-* Add IPWhitelist, redirectRegex and (internal) nextcloud middlewares ([#929](https://github.com/truecharts/apps/issues/929))
+* 添加 IPWhitelist, redirectRegex 和 (内部) 下一个云端中间器([#929](https://github.com/truecharts/apps/issues/929))
 * 预提交和标签应用同步([#926](https://github.com/truecharts/apps/issues/926))
 
 #### 修复
 
-* Add initcontainer to force refresh TRUSTED_DOMAINS ([#930](https://github.com/truecharts/apps/issues/930))
+* 添加initcontainer 以强制刷新TRUSTED_DOMAINS ([#930](https://github.com/truecharts/apps/issues/930))
 
 <a name="nextcloud-3.7.14"></a>
 
