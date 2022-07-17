@@ -42,4 +42,4 @@ Regex used to match those: `^\/([a-zA-Z0-9._-]+(\s?[a-zA-Z0-9._-]+|\/?))+$` You 
 
 ---
 
-_If you find a field that you think it needs validation, please open an issue on github_
+_如果您找到了一个您认为需要验证的字段，请在 github 上打开一个问题_
