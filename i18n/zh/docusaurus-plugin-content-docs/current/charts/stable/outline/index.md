@@ -1,6 +1,6 @@
 # 大纲
 
-A fast, collaborative, knowledge base for your team built using React and Node.js.
+您的团队使用React和 Node.js建立了快速、协作、知识库。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
