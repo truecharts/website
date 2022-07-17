@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [external-service-6.0.17](https://github.com/truecharts/apps/compare/external-service-6.0.16...external-service-6.0.17) (2022-07-14)
+## [外部服务 6.0.17](https://github.com/truecharts/apps/compare/external-service-6.0.16...external-service-6.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [external-service-6.0.16](https://github.com/truecharts/apps/compare/external-service-6.0.14...external-service-6.0.16) (2022-07-14)
+## [外部服务 6.0.16](https://github.com/truecharts/apps/compare/external-service-6.0.14...external-service-6.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [external-service-6.0.14](https://github.com/truecharts/apps/compare/external-service-6.0.12...external-service-6.0.14) (2022-07-12)
+## [外部服务 6.0.14](https://github.com/truecharts/apps/compare/external-service-6.0.12...external-service-6.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [external-service-6.0.12](https://github.com/truecharts/apps/compare/external-service-6.0.11...external-service-6.0.12) (2022-07-12)
+## [外部服务 6.0.12](https://github.com/truecharts/apps/compare/external-service-6.0.11...external-service-6.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="external-service-6.0.11"></a>
 
-### [external-service-6.0.11](https://github.com/truecharts/apps/compare/external-service-6.0.10...external-service-6.0.11) (2022-07-12)
+### [外部服务 6.0.11](https://github.com/truecharts/apps/compare/external-service-6.0.10...external-service-6.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="external-service-6.0.10"></a>
 
-### [external-service-6.0.10](https://github.com/truecharts/apps/compare/external-service-6.0.9...external-service-6.0.10) (2022-07-11)
+### [外部服务 6.0.10](https://github.com/truecharts/apps/compare/external-service-6.0.9...external-service-6.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="external-service-6.0.9"></a>
 
-### [external-service-6.0.9](https://github.com/truecharts/apps/compare/external-service-6.0.8...external-service-6.0.9) (2022-07-09)
+### [外部服务 6.0.9](https://github.com/truecharts/apps/compare/external-service-6.0.8...external-service-6.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="external-service-6.0.8"></a>
 
-### [external-service-6.0.8](https://github.com/truecharts/apps/compare/external-service-6.0.7...external-service-6.0.8) (2022-07-04)
+### [外部服务 6.0.8](https://github.com/truecharts/apps/compare/external-service-6.0.7...external-service-6.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="external-service-6.0.7"></a>
 
-### [external-service-6.0.7](https://github.com/truecharts/apps/compare/external-service-6.0.6...external-service-6.0.7) (2022-06-25)
+### [外部服务 6.0.7](https://github.com/truecharts/apps/compare/external-service-6.0.6...external-service-6.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="external-service-6.0.6"></a>
 
-### [external-service-6.0.6](https://github.com/truecharts/apps/compare/external-service-6.0.5...external-service-6.0.6) (2022-06-22)
+### [外部服务 6.0.6](https://github.com/truecharts/apps/compare/external-service-6.0.5...external-service-6.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="external-service-6.0.5"></a>
 
-### [external-service-6.0.5](https://github.com/truecharts/apps/compare/external-service-6.0.4...external-service-6.0.5) (2022-06-21)
+### [外部服务 6.0.5](https://github.com/truecharts/apps/compare/external-service-6.0.4...external-service-6.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="external-service-6.0.4"></a>
 
-### [external-service-6.0.4](https://github.com/truecharts/apps/compare/external-service-6.0.3...external-service-6.0.4) (2022-06-14)
+### [外部服务 6.0.4](https://github.com/truecharts/apps/compare/external-service-6.0.3...external-service-6.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="external-service-6.0.3"></a>
 
-### [external-service-6.0.3](https://github.com/truecharts/apps/compare/external-service-6.0.2...external-service-6.0.3) (2022-06-11)
+### [外部服务 6.0.3](https://github.com/truecharts/apps/compare/external-service-6.0.2...external-service-6.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="external-service-6.0.2"></a>
 
-### [external-service-6.0.2](https://github.com/truecharts/apps/compare/external-service-6.0.1...external-service-6.0.2) (2022-06-07)
+### [外部服务 6.0.2](https://github.com/truecharts/apps/compare/external-service-6.0.1...external-service-6.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="external-service-6.0.1"></a>
 
-### [external-service-6.0.1](https://github.com/truecharts/apps/compare/external-service-5.0.20...external-service-6.0.1) (2022-06-07)
+### [外部服务 6.0.1](https://github.com/truecharts/apps/compare/external-service-5.0.20...external-service-6.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -154,7 +154,7 @@
 
 <a name="external-service-6.0.0"></a>
 
-### [external-service-6.0.0](https://github.com/truecharts/apps/compare/external-service-5.0.20...external-service-6.0.0) (2022-06-07)
+### [外部服务 6.0.0](https://github.com/truecharts/apps/compare/external-service-5.0.20...external-service-6.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -164,7 +164,7 @@
 
 <a name="external-service-5.0.20"></a>
 
-### [external-service-5.0.20](https://github.com/truecharts/apps/compare/external-service-5.0.19...external-service-5.0.20) (2022-05-31)
+### [外部服务 5.0.20](https://github.com/truecharts/apps/compare/external-service-5.0.19...external-service-5.0.20) (2022-05-31)
 
 #### 聊天
 
@@ -174,7 +174,7 @@
 
 <a name="external-service-5.0.19"></a>
 
-### [external-service-5.0.19](https://github.com/truecharts/apps/compare/external-service-5.0.18...external-service-5.0.19) (2022-05-26)
+### [外部服务 5.0.19](https://github.com/truecharts/apps/compare/external-service-5.0.18...external-service-5.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -185,7 +185,7 @@
 
 <a name="external-service-5.0.19"></a>
 
-### [external-service-5.0.19](https://github.com/truecharts/apps/compare/external-service-5.0.18...external-service-5.0.19) (2022-05-26)
+### [外部服务 5.0.19](https://github.com/truecharts/apps/compare/external-service-5.0.18...external-service-5.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -195,7 +195,7 @@
 
 <a name="external-service-5.0.18"></a>
 
-### [external-service-5.0.18](https://github.com/truecharts/apps/compare/external-service-5.0.17...external-service-5.0.18) (2022-05-24)
+### [外部服务 5.0.18](https://github.com/truecharts/apps/compare/external-service-5.0.17...external-service-5.0.18) (2022-05-24)
 
 #### 聊天
 
@@ -205,7 +205,7 @@
 
 <a name="external-service-5.0.17"></a>
 
-### [external-service-5.0.17](https://github.com/truecharts/apps/compare/external-service-5.0.16...external-service-5.0.17) (2022-05-17)
+### [外部服务 5.0.17](https://github.com/truecharts/apps/compare/external-service-5.0.16...external-service-5.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -216,7 +216,7 @@
 
 <a name="external-service-5.0.17"></a>
 
-### [external-service-5.0.17](https://github.com/truecharts/apps/compare/external-service-5.0.16...external-service-5.0.17) (2022-05-17)
+### [外部服务 5.0.17](https://github.com/truecharts/apps/compare/external-service-5.0.16...external-service-5.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -226,7 +226,7 @@
 
 <a name="external-service-5.0.16"></a>
 
-### [external-service-5.0.16](https://github.com/truecharts/apps/compare/external-service-5.0.15...external-service-5.0.16) (2022-05-17)
+### [外部服务 5.0.16](https://github.com/truecharts/apps/compare/external-service-5.0.15...external-service-5.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -236,7 +236,7 @@
 
 <a name="external-service-5.0.15"></a>
 
-### [external-service-5.0.15](https://github.com/truecharts/apps/compare/external-service-5.0.14...external-service-5.0.15) (2022-05-10)
+### [外部服务 5.0.15](https://github.com/truecharts/apps/compare/external-service-5.0.14...external-service-5.0.15) (2022-05-10)
 
 #### 聊天
 
@@ -246,7 +246,7 @@
 
 <a name="external-service-5.0.14"></a>
 
-### [external-service-5.0.14](https://github.com/truecharts/apps/compare/external-service-5.0.13...external-service-5.0.14) (2022-05-05)
+### [外部服务 5.0.14](https://github.com/truecharts/apps/compare/external-service-5.0.13...external-service-5.0.14) (2022-05-05)
 
 #### 聊天
 
@@ -256,7 +256,7 @@
 
 <a name="external-service-5.0.13"></a>
 
-### [external-service-5.0.13](https://github.com/truecharts/apps/compare/external-service-5.0.12...external-service-5.0.13) (2022-04-26)
+### [外部服务 5.0.13](https://github.com/truecharts/apps/compare/external-service-5.0.12...external-service-5.0.13) (2022-04-26)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="external-service-5.0.12"></a>
 
-### [external-service-5.0.12](https://github.com/truecharts/apps/compare/external-service-5.0.11...external-service-5.0.12) (2022-04-20)
+### [外部服务 5.0.12](https://github.com/truecharts/apps/compare/external-service-5.0.11...external-service-5.0.12) (2022-04-20)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="external-service-5.0.11"></a>
 
-### [external-service-5.0.11](https://github.com/truecharts/apps/compare/external-service-5.0.10...external-service-5.0.11) (2022-04-12)
+### [外部服务 5.0.11](https://github.com/truecharts/apps/compare/external-service-5.0.10...external-service-5.0.11) (2022-04-12)
 
 #### 聊天
 
@@ -286,7 +286,7 @@
 
 <a name="external-service-5.0.10"></a>
 
-### [external-service-5.0.10](https://github.com/truecharts/apps/compare/external-service-5.0.9...external-service-5.0.10) (2022-04-03)
+### [外部服务 5.0.10](https://github.com/truecharts/apps/compare/external-service-5.0.9...external-service-5.0.10) (2022-04-03)
 
 #### 聊天
 
@@ -296,7 +296,7 @@
 
 <a name="external-service-5.0.9"></a>
 
-### [external-service-5.0.9](https://github.com/truecharts/apps/compare/external-service-5.0.8...external-service-5.0.9) (2022-03-31)
+### [外部服务 5.0.9](https://github.com/truecharts/apps/compare/external-service-5.0.8...external-service-5.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -306,7 +306,7 @@
 
 <a name="external-service-5.0.8"></a>
 
-### [external-service-5.0.8](https://github.com/truecharts/apps/compare/external-service-5.0.7...external-service-5.0.8) (2022-03-30)
+### [外部服务 5.0.8](https://github.com/truecharts/apps/compare/external-service-5.0.7...external-service-5.0.8) (2022-03-30)
 
 #### 聊天
 
@@ -316,7 +316,7 @@
 
 <a name="external-service-5.0.7"></a>
 
-### [external-service-5.0.7](https://github.com/truecharts/apps/compare/external-service-5.0.6...external-service-5.0.7) (2022-03-26)
+### [外部服务 5.0.7](https://github.com/truecharts/apps/compare/external-service-5.0.6...external-service-5.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -326,7 +326,7 @@
 
 <a name="external-service-5.0.2"></a>
 
-### [external-service-5.0.2](https://github.com/truecharts/apps/compare/external-service-5.0.1...external-service-5.0.2) (2022-03-07)
+### [外部服务 5.0.2](https://github.com/truecharts/apps/compare/external-service-5.0.1...external-service-5.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -337,17 +337,17 @@
 
 <a name="external-service-5.0.1"></a>
 
-### [external-service-5.0.1](https://github.com/truecharts/apps/compare/external-service-5.0.0...external-service-5.0.1) (2022-03-06)
+### [外部服务 5.0.1](https://github.com/truecharts/apps/compare/external-service-5.0.0...external-service-5.0.1) (2022-03-06)
 
 #### 聊天
 
-* move external-service to core
+* 将外部服务移动到核心。
 
 
 
 <a name="external-service-5.0.0"></a>
 
-### [external-service-5.0.0](https://github.com/truecharts/apps/compare/external-service-4.0.41...external-service-5.0.0) (2022-03-03)
+### [外部服务 5.0.0](https://github.com/truecharts/apps/compare/external-service-4.0.41...external-service-5.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -357,7 +357,7 @@
 
 <a name="external-service-4.0.41"></a>
 
-### [external-service-4.0.41](https://github.com/truecharts/apps/compare/external-service-4.0.40...external-service-4.0.41) (2022-03-02)
+### [外部服务 4.0.41](https://github.com/truecharts/apps/compare/external-service-4.0.40...external-service-4.0.41) (2022-03-02)
 
 #### 聊天
 
@@ -368,7 +368,7 @@
 
 <a name="external-service-4.0.40"></a>
 
-### [external-service-4.0.40](https://github.com/truecharts/apps/compare/external-service-4.0.39...external-service-4.0.40) (2022-02-21)
+### [外部服务 4.0.40](https://github.com/truecharts/apps/compare/external-service-4.0.39...external-service-4.0.40) (2022-02-21)
 
 #### 聊天
 
@@ -378,7 +378,7 @@
 
 <a name="external-service-4.0.39"></a>
 
-### [external-service-4.0.39](https://github.com/truecharts/apps/compare/external-service-4.0.38...external-service-4.0.39) (2022-02-15)
+### [外部服务 4.0.39](https://github.com/truecharts/apps/compare/external-service-4.0.38...external-service-4.0.39) (2022-02-15)
 
 #### 聊天
 
@@ -388,7 +388,7 @@
 
 <a name="external-service-4.0.38"></a>
 
-### [external-service-4.0.38](https://github.com/truecharts/apps/compare/external-service-4.0.37...external-service-4.0.38) (2022-02-08)
+### [外部服务 4.0.38](https://github.com/truecharts/apps/compare/external-service-4.0.37...external-service-4.0.38) (2022-02-08)
 
 #### 聊天
 
@@ -398,7 +398,7 @@
 
 <a name="external-service-4.0.37"></a>
 
-### [external-service-4.0.37](https://github.com/truecharts/apps/compare/external-service-4.0.36...external-service-4.0.37) (2022-02-06)
+### [外部服务 4.0.37](https://github.com/truecharts/apps/compare/external-service-4.0.36...external-service-4.0.37) (2022-02-06)
 
 #### 聊天
 
@@ -408,7 +408,7 @@
 
 <a name="external-service-4.0.36"></a>
 
-### [external-service-4.0.36](https://github.com/truecharts/apps/compare/external-service-4.0.35...external-service-4.0.36) (2022-02-05)
+### [外部服务 4.0.36](https://github.com/truecharts/apps/compare/external-service-4.0.35...external-service-4.0.36) (2022-02-05)
 
 #### 聊天
 
@@ -418,7 +418,7 @@
 
 <a name="external-service-4.0.35"></a>
 
-### [external-service-4.0.35](https://github.com/truecharts/apps/compare/external-service-4.0.34...external-service-4.0.35) (2022-02-02)
+### [外部服务 4.0.35](https://github.com/truecharts/apps/compare/external-service-4.0.34...external-service-4.0.35) (2022-02-02)
 
 #### 聊天
 
@@ -428,7 +428,7 @@
 
 <a name="external-service-4.0.34"></a>
 
-### [external-service-4.0.34](https://github.com/truecharts/apps/compare/external-service-4.0.33...external-service-4.0.34) (2022-01-25)
+### [外部服务 4.0.34](https://github.com/truecharts/apps/compare/external-service-4.0.33...external-service-4.0.34) (2022-01-25)
 
 #### 聊天
 
@@ -438,7 +438,7 @@
 
 <a name="external-service-4.0.33"></a>
 
-### [external-service-4.0.33](https://github.com/truecharts/apps/compare/external-service-4.0.32...external-service-4.0.33) (2022-01-22)
+### [外部服务 4.0.33](https://github.com/truecharts/apps/compare/external-service-4.0.32...external-service-4.0.33) (2022-01-22)
 
 #### 聊天
 
@@ -448,7 +448,7 @@
 
 <a name="external-service-4.0.32"></a>
 
-### [external-service-4.0.32](https://github.com/truecharts/apps/compare/external-service-4.0.31...external-service-4.0.32) (2022-01-21)
+### [外部服务 4.0.32](https://github.com/truecharts/apps/compare/external-service-4.0.31...external-service-4.0.32) (2022-01-21)
 
 #### 聊天
 
@@ -462,7 +462,7 @@
 
 <a name="external-service-4.0.31"></a>
 
-### [external-service-4.0.31](https://github.com/truecharts/apps/compare/external-service-4.0.30...external-service-4.0.31) (2022-01-18)
+### [外部服务 4.0.31](https://github.com/truecharts/apps/compare/external-service-4.0.30...external-service-4.0.31) (2022-01-18)
 
 #### 聊天
 
@@ -472,7 +472,7 @@
 
 <a name="external-service-4.0.30"></a>
 
-### [external-service-4.0.30](https://github.com/truecharts/apps/compare/external-service-4.0.29...external-service-4.0.30) (2022-01-13)
+### [外部服务 4.0.30](https://github.com/truecharts/apps/compare/external-service-4.0.29...external-service-4.0.30) (2022-01-13)
 
 #### 聊天
 
@@ -482,7 +482,7 @@
 
 <a name="external-service-4.0.29"></a>
 
-### [external-service-4.0.29](https://github.com/truecharts/apps/compare/external-service-4.0.28...external-service-4.0.29) (2022-01-12)
+### [外部服务 4.0.29](https://github.com/truecharts/apps/compare/external-service-4.0.28...external-service-4.0.29) (2022-01-12)
 
 #### 聊天
 
@@ -492,7 +492,7 @@
 
 <a name="external-service-4.0.28"></a>
 
-### [external-service-4.0.28](https://github.com/truecharts/apps/compare/external-service-4.0.27...external-service-4.0.28) (2022-01-11)
+### [外部服务 4.0.28](https://github.com/truecharts/apps/compare/external-service-4.0.27...external-service-4.0.28) (2022-01-11)
 
 #### 聊天
 
@@ -502,7 +502,7 @@
 
 <a name="external-service-4.0.27"></a>
 
-### [external-service-4.0.27](https://github.com/truecharts/apps/compare/external-service-4.0.26...external-service-4.0.27) (2022-01-04)
+### [外部服务 4.0.27](https://github.com/truecharts/apps/compare/external-service-4.0.26...external-service-4.0.27) (2022-01-04)
 
 #### 聊天
 
@@ -512,7 +512,7 @@
 
 <a name="external-service-4.0.26"></a>
 
-### [external-service-4.0.26](https://github.com/truecharts/apps/compare/external-service-4.0.25...external-service-4.0.26) (2021-12-28)
+### [外部服务 4.0.26](https://github.com/truecharts/apps/compare/external-service-4.0.25...external-service-4.0.26) (2021-12-28)
 
 #### 聊天
 
@@ -522,7 +522,7 @@
 
 <a name="external-service-4.0.25"></a>
 
-### [external-service-4.0.25](https://github.com/truecharts/apps/compare/external-service-4.0.24...external-service-4.0.25) (2021-12-21)
+### [外部服务 4.0.25](https://github.com/truecharts/apps/compare/external-service-4.0.24...external-service-4.0.25) (2021-12-21)
 
 #### 聊天
 
@@ -532,7 +532,7 @@
 
 <a name="external-service-4.0.24"></a>
 
-### [external-service-4.0.24](https://github.com/truecharts/apps/compare/external-service-4.0.23...external-service-4.0.24) (2021-12-19)
+### [外部服务 4.0.24](https://github.com/truecharts/apps/compare/external-service-4.0.23...external-service-4.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -542,7 +542,7 @@
 
 <a name="external-service-4.0.23"></a>
 
-### [external-service-4.0.23](https://github.com/truecharts/apps/compare/external-service-4.0.22...external-service-4.0.23) (2021-12-19)
+### [外部服务 4.0.23](https://github.com/truecharts/apps/compare/external-service-4.0.22...external-service-4.0.23) (2021-12-19)
 
 #### 聊天
 
@@ -552,7 +552,7 @@
 
 <a name="external-service-4.0.22"></a>
 
-### [external-service-4.0.22](https://github.com/truecharts/apps/compare/external-service-4.0.21...external-service-4.0.22) (2021-12-18)
+### [外部服务 4.0.22](https://github.com/truecharts/apps/compare/external-service-4.0.21...external-service-4.0.22) (2021-12-18岁)
 
 #### 聊天
 
@@ -563,7 +563,7 @@
 
 <a name="external-service-4.0.21"></a>
 
-### [external-service-4.0.21](https://github.com/truecharts/apps/compare/external-service-4.0.20...external-service-4.0.21) (2021-12-14)
+### [外部服务 4.0.21](https://github.com/truecharts/apps/compare/external-service-4.0.20...external-service-4.0.21) (2021-12-14)
 
 #### 聊天
 
@@ -573,7 +573,7 @@
 
 <a name="external-service-4.0.20"></a>
 
-### [external-service-4.0.20](https://github.com/truecharts/apps/compare/external-service-4.0.19...external-service-4.0.20) (2021-12-13)
+### [外部服务 4.0.20](https://github.com/truecharts/apps/compare/external-service-4.0.19...external-service-4.0.20) (2021-12-13)
 
 #### 聊天
 
@@ -583,7 +583,7 @@
 
 <a name="external-service-4.0.19"></a>
 
-### [external-service-4.0.19](https://github.com/truecharts/apps/compare/external-service-4.0.18...external-service-4.0.19) (2021-12-11)
+### [外部服务 4.0.19](https://github.com/truecharts/apps/compare/external-service-4.0.18...external-service-4.0.19) (2021-12-11)
 
 #### 聊天
 
@@ -593,7 +593,7 @@
 
 <a name="external-service-4.0.18"></a>
 
-### [external-service-4.0.18](https://github.com/truecharts/apps/compare/external-service-4.0.17...external-service-4.0.18) (2021-12-07)
+### [外部服务 4.0.18](https://github.com/truecharts/apps/compare/external-service-4.0.17...external-service-4.0.18) (2021-12-07)
 
 #### 聊天
 
@@ -603,7 +603,7 @@
 
 <a name="external-service-4.0.17"></a>
 
-### external-service-4.0.17 (2021-12-05)
+### 外部服务 4.0.17 (2021-12-05)
 
 #### 聊天
 
@@ -622,7 +622,7 @@
 
 <a name="external-service-4.0.16"></a>
 
-### [external-service-4.0.16](https://github.com/truecharts/apps/compare/external-service-4.0.15...external-service-4.0.16) (2021-12-05)
+### [外部服务 4.0.16](https://github.com/truecharts/apps/compare/external-service-4.0.15...external-service-4.0.16) (2021-12-05)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="external-service-4.0.15"></a>
 
-### [external-service-4.0.15](https://github.com/truecharts/apps/compare/external-service-4.0.14...external-service-4.0.15) (2021-12-04)
+### [外部服务 4.0.15](https://github.com/truecharts/apps/compare/external-service-4.0.14...external-service-4.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="external-service-4.0.14"></a>
 
-### [external-service-4.0.14](https://github.com/truecharts/apps/compare/external-service-4.0.13...external-service-4.0.14) (2021-12-04)
+### [外部服务 4.0.14](https://github.com/truecharts/apps/compare/external-service-4.0.13...external-service-4.0.14) (2021-12-04)
 
 #### 聊天
 
@@ -653,7 +653,7 @@
 
 <a name="external-service-4.0.13"></a>
 
-### [external-service-4.0.13](https://github.com/truecharts/apps/compare/external-service-4.0.12...external-service-4.0.13) (2021-11-30)
+### [外部服务 4.0.13](https://github.com/truecharts/apps/compare/external-service-4.0.12...external-service-4.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -667,7 +667,7 @@
 
 <a name="external-service-4.0.12"></a>
 
-### [external-service-4.0.12](https://github.com/truecharts/apps/compare/external-service-4.0.11...external-service-4.0.12) (2021-11-23)
+### [外部服务 4.0.12](https://github.com/truecharts/apps/compare/external-service-4.0.11...external-service-4.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -677,7 +677,7 @@
 
 <a name="external-service-4.0.11"></a>
 
-### [external-service-4.0.11](https://github.com/truecharts/apps/compare/external-service-4.0.10...external-service-4.0.11) (2021-11-22)
+### [外部服务 4.0.11](https://github.com/truecharts/apps/compare/external-service-4.0.10...external-service-4.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -691,7 +691,7 @@
 
 <a name="external-service-4.0.10"></a>
 
-### [external-service-4.0.10](https://github.com/truecharts/apps/compare/external-service-4.0.9...external-service-4.0.10) (2021-11-16)
+### [外部服务 4.0.10](https://github.com/truecharts/apps/compare/external-service-4.0.9...external-service-4.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -701,7 +701,7 @@
 
 <a name="external-service-4.0.9"></a>
 
-### [external-service-4.0.9](https://github.com/truecharts/apps/compare/external-service-4.0.8...external-service-4.0.9) (2021-11-15)
+### [外部服务 4.0.9](https://github.com/truecharts/apps/compare/external-service-4.0.8...external-service-4.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -711,7 +711,7 @@
 
 <a name="external-service-4.0.8"></a>
 
-### [external-service-4.0.8](https://github.com/truecharts/apps/compare/external-service-4.0.7...external-service-4.0.8) (2021-11-14)
+### [外部服务 4.0.8](https://github.com/truecharts/apps/compare/external-service-4.0.7...external-service-4.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -722,7 +722,7 @@
 
 <a name="external-service-4.0.7"></a>
 
-### [external-service-4.0.7](https://github.com/truecharts/apps/compare/external-service-4.0.6...external-service-4.0.7) (2021-11-09)
+### [外部服务 4.0.7](https://github.com/truecharts/apps/compare/external-service-4.0.6...external-service-4.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -732,7 +732,7 @@
 
 <a name="external-service-4.0.6"></a>
 
-### [external-service-4.0.6](https://github.com/truecharts/apps/compare/external-service-4.0.5...external-service-4.0.6) (2021-11-07)
+### [外部服务 4.0.6](https://github.com/truecharts/apps/compare/external-service-4.0.5...external-service-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -742,7 +742,7 @@
 
 <a name="external-service-4.0.5"></a>
 
-### [external-service-4.0.5](https://github.com/truecharts/apps/compare/external-service-4.0.4...external-service-4.0.5) (2021-11-07)
+### [外部服务 4.0.5](https://github.com/truecharts/apps/compare/external-service-4.0.4...external-service-4.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -752,7 +752,7 @@
 
 <a name="external-service-4.0.4"></a>
 
-### [external-service-4.0.4](https://github.com/truecharts/apps/compare/external-service-4.0.3...external-service-4.0.4) (2021-11-02)
+### [外部服务 4.0.4](https://github.com/truecharts/apps/compare/external-service-4.0.3...external-service-4.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -762,7 +762,7 @@
 
 <a name="external-service-4.0.3"></a>
 
-### [external-service-4.0.3](https://github.com/truecharts/apps/compare/external-service-4.0.2...external-service-4.0.3) (2021-11-01)
+### [外部服务 4.0.3](https://github.com/truecharts/apps/compare/external-service-4.0.2...external-service-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -772,7 +772,7 @@
 
 <a name="external-service-4.0.2"></a>
 
-### [external-service-4.0.2](https://github.com/truecharts/apps/compare/external-service-4.0.1...external-service-4.0.2) (2021-10-26)
+### [外部服务 4.0.2](https://github.com/truecharts/apps/compare/external-service-4.0.1...external-service-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -782,7 +782,7 @@
 
 <a name="external-service-4.0.1"></a>
 
-### [external-service-4.0.1](https://github.com/truecharts/apps/compare/external-service-4.0.0...external-service-4.0.1) (2021-10-26)
+### [外部服务 4.0.1](https://github.com/truecharts/apps/compare/external-service-4.0.0...external-service-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -792,7 +792,7 @@
 
 <a name="external-service-4.0.0"></a>
 
-### [external-service-4.0.0](https://github.com/truecharts/apps/compare/external-service-3.0.16...external-service-4.0.0) (2021-10-25)
+### [外部服务 4.0.0](https://github.com/truecharts/apps/compare/external-service-3.0.16...external-service-4.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -802,7 +802,7 @@
 
 <a name="external-service-3.0.16"></a>
 
-### [external-service-3.0.16](https://github.com/truecharts/apps/compare/external-service-3.0.15...external-service-3.0.16) (2021-10-20)
+### [外部服务 3.0.16](https://github.com/truecharts/apps/compare/external-service-3.0.15...external-service-3.0.16) (2021-10-20)
 
 #### 聊天
 
@@ -812,7 +812,7 @@
 
 <a name="external-service-3.0.13"></a>
 
-### [external-service-3.0.13](https://github.com/truecharts/apps/compare/external-service-3.0.12...external-service-3.0.13) (2021-10-20)
+### [外部服务 3.0.13](https://github.com/truecharts/apps/compare/external-service-3.0.12...external-service-3.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -822,7 +822,7 @@
 
 <a name="external-service-3.0.12"></a>
 
-### [external-service-3.0.12](https://github.com/truecharts/apps/compare/external-service-3.0.11...external-service-3.0.12) (2021-10-19)
+### [外部服务 3.0.12](https://github.com/truecharts/apps/compare/external-service-3.0.11...external-service-3.0.12) (2021-10-19)
 
 #### 更改
 
@@ -846,7 +846,7 @@
 
 <a name="external-service-3.0.11"></a>
 
-### [external-service-3.0.11](https://github.com/truecharts/apps/compare/external-service-3.0.10...external-service-3.0.11) (2021-10-19)
+### [外部服务 3.0.11](https://github.com/truecharts/apps/compare/external-service-3.0.10...external-service-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -856,7 +856,7 @@
 
 <a name="external-service-3.0.10"></a>
 
-### [external-service-3.0.10](https://github.com/truecharts/apps/compare/external-service-3.0.9...external-service-3.0.10) (2021-10-19)
+### [外部服务 3.0.10](https://github.com/truecharts/apps/compare/external-service-3.0.9...external-service-3.0.10) (2021-10-19)
 
 #### 修复
 
@@ -866,7 +866,7 @@
 
 <a name="external-service-3.0.9"></a>
 
-### [external-service-3.0.9](https://github.com/truecharts/apps/compare/external-service-3.0.8...external-service-3.0.9) (2021-10-18)
+### [外部服务 3.0.9](https://github.com/truecharts/apps/compare/external-service-3.0.8...external-service-3.0.9) (2021-10-18)
 
 #### 重新因子
 
@@ -876,7 +876,7 @@
 
 <a name="external-service-3.0.8"></a>
 
-### [external-service-3.0.8](https://github.com/truecharts/apps/compare/external-service-3.0.7...external-service-3.0.8) (2021-10-17)
+### [外部服务 3.0.8](https://github.com/truecharts/apps/compare/external-service-3.0.7...external-service-3.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -886,7 +886,7 @@
 
 <a name="external-service-3.0.7"></a>
 
-### [external-service-3.0.7](https://github.com/truecharts/apps/compare/external-service-3.0.6...external-service-3.0.7) (2021-10-13)
+### [外部服务 3.0.7](https://github.com/truecharts/apps/compare/external-service-3.0.6...external-service-3.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -896,7 +896,7 @@
 
 <a name="external-service-3.0.6"></a>
 
-### [external-service-3.0.6](https://github.com/truecharts/apps/compare/external-service-3.0.5...external-service-3.0.6) (2021-10-12)
+### [外部服务 3.0.6](https://github.com/truecharts/apps/compare/external-service-3.0.5...external-service-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -906,7 +906,7 @@
 
 <a name="external-service-3.0.5"></a>
 
-### [external-service-3.0.5](https://github.com/truecharts/apps/compare/external-service-3.0.4...external-service-3.0.5) (2021-10-12)
+### [外部服务 3.0.5](https://github.com/truecharts/apps/compare/external-service-3.0.4...external-service-3.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -916,7 +916,7 @@
 
 <a name="external-service-3.0.4"></a>
 
-### [external-service-3.0.4](https://github.com/truecharts/apps/compare/external-service-3.0.3...external-service-3.0.4) (2021-10-05)
+### [外部服务 3.0.4](https://github.com/truecharts/apps/compare/external-service-3.0.3...external-service-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -926,7 +926,7 @@
 
 <a name="external-service-3.0.3"></a>
 
-### [external-service-3.0.3](https://github.com/truecharts/apps/compare/external-service-3.0.2...external-service-3.0.3) (2021-09-29)
+### [外部服务 3.0.3](https://github.com/truecharts/apps/compare/external-service-3.0.2...external-service-3.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -936,19 +936,19 @@
 
 <a name="external-service-3.0.1"></a>
 
-### [external-service-3.0.1](https://github.com/truecharts/apps/compare/external-service-3.0.0...external-service-3.0.1) (2021-09-26)
+### [外部服务 3.0.1](https://github.com/truecharts/apps/compare/external-service-3.0.0...external-service-3.0.1) (2021-09-26)
 
 
 
 <a name="external-service-3.0.0"></a>
 
-### [external-service-3.0.0](https://github.com/truecharts/apps/compare/external-service-2.0.2...external-service-3.0.0) (2021-09-26)
+### [外部服务 3.0.0](https://github.com/truecharts/apps/compare/external-service-2.0.2...external-service-3.0.0) (2021-09-26)
 
 
 
 <a name="external-service-2.0.2"></a>
 
-### [external-service-2.0.2](https://github.com/truecharts/apps/compare/external-service-2.0.1...external-service-2.0.2) (2021-09-21)
+### [外部服务 2.0.2](https://github.com/truecharts/apps/compare/external-service-2.0.1...external-service-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -958,7 +958,7 @@
 
 <a name="external-service-2.0.1"></a>
 
-### [external-service-2.0.1](https://github.com/truecharts/apps/compare/external-service-1.4.15...external-service-2.0.1) (2021-09-13)
+### [外部服务 2.0.1](https://github.com/truecharts/apps/compare/external-service-1.4.15...external-service-2.0.1) (2021-09-13)
 
 #### Feat
 
@@ -969,4 +969,4 @@
 
 <a name="external-service-1.4.15"></a>
 
-## [external-service-1.4.15](https://github.com/truecharts/apps/compare/external-service-1.4.14...external-service-1.4.15) (2021-09-08)
+## [外部服务 1.4.15](https://github.com/truecharts/apps/compare/external-service-1.4.14...external-service-1.4.15) (2021-09-08)
