@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [kopia-2.0.25](https://github.com/truecharts/apps/compare/kopia-2.0.24...kopia-2.0.25) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [kopia-2.0.24](https://github.com/truecharts/apps/compare/kopia-2.0.22...kopia-2.0.24) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [kopia-2.0.22](https://github.com/truecharts/apps/compare/kopia-2.0.20...kopia-2.0.22) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [kopia-2.0.20](https://github.com/truecharts/apps/compare/kopia-2.0.19...kopia-2.0.20) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,10 +38,10 @@
 
 ### [kopia-2.0.19](https://github.com/truecharts/apps/compare/kopia-2.0.18...kopia-2.0.19) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
-* update docker general non-major ([#3150](https://github.com/truecharts/apps/issues/3150))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新一般的非主基座([#3150](https://github.com/truecharts/apps/issues/3150))
 
 
 
@@ -49,9 +49,9 @@
 
 ### [kopia-2.0.18](https://github.com/truecharts/apps/compare/kopia-2.0.17...kopia-2.0.18) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -59,9 +59,9 @@
 
 ### [kopia-2.0.17](https://github.com/truecharts/apps/compare/kopia-2.0.16...kopia-2.0.17) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -69,9 +69,9 @@
 
 ### [kopia-2.0.16](https://github.com/truecharts/apps/compare/kopia-2.0.15...kopia-2.0.16) (2022-07-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3089](https://github.com/truecharts/apps/issues/3089))
+* 更新一般的非主基座([#3089](https://github.com/truecharts/apps/issues/3089))
 
 
 
@@ -79,9 +79,9 @@
 
 ### [kopia-2.0.15](https://github.com/truecharts/apps/compare/kopia-2.0.14...kopia-2.0.15) (2022-07-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3078](https://github.com/truecharts/apps/issues/3078))
+* 更新一般的非主基座([#3078](https://github.com/truecharts/apps/issues/3078))
 
 
 
@@ -89,9 +89,9 @@
 
 ### [kopia-2.0.14](https://github.com/truecharts/apps/compare/kopia-2.0.13...kopia-2.0.14) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3071](https://github.com/truecharts/apps/issues/3071))
+* 更新一般的非主基座([#3071](https://github.com/truecharts/apps/issues/3071))
 
 
 
@@ -99,9 +99,9 @@
 
 ### [kopia-2.0.13](https://github.com/truecharts/apps/compare/kopia-2.0.12...kopia-2.0.13) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -109,9 +109,9 @@
 
 ### [kopia-2.0.12](https://github.com/truecharts/apps/compare/kopia-2.0.11...kopia-2.0.12) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -119,9 +119,9 @@
 
 ### [kopia-2.0.11](https://github.com/truecharts/apps/compare/kopia-2.0.10...kopia-2.0.11) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 * update image ref ([#2945](https://github.com/truecharts/apps/issues/2945))
 
 
@@ -130,9 +130,9 @@
 
 ### [kopia-2.0.10](https://github.com/truecharts/apps/compare/kopia-2.0.9...kopia-2.0.10) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -140,7 +140,7 @@
 
 ### [kopia-2.0.9](https://github.com/truecharts/apps/compare/kopia-2.0.8...kopia-2.0.9) (2022-06-16)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220615.0.131817 ([#2906](https://github.com/truecharts/apps/issues/2906))
 
@@ -150,7 +150,7 @@
 
 ### [kopia-2.0.8](https://github.com/truecharts/apps/compare/kopia-2.0.7...kopia-2.0.8) (2022-06-15)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220614.0.221142 ([#2892](https://github.com/truecharts/apps/issues/2892))
 
@@ -160,9 +160,9 @@
 
 ### [kopia-2.0.7](https://github.com/truecharts/apps/compare/kopia-2.0.6...kopia-2.0.7) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -170,7 +170,7 @@
 
 ### [kopia-2.0.6](https://github.com/truecharts/apps/compare/kopia-2.0.5...kopia-2.0.6) (2022-06-14)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220613.0.214712 ([#2874](https://github.com/truecharts/apps/issues/2874))
 
@@ -180,9 +180,9 @@
 
 ### [kopia-2.0.5](https://github.com/truecharts/apps/compare/kopia-2.0.4...kopia-2.0.5) (2022-06-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2860](https://github.com/truecharts/apps/issues/2860))
+* 更新一般的非主码([#2860](https://github.com/truecharts/apps/issues/2860))
 
 
 
@@ -190,9 +190,9 @@
 
 ### [kopia-2.0.4](https://github.com/truecharts/apps/compare/kopia-2.0.3...kopia-2.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 * update container image kopia/kopia to v20220611.0.63133 ([#2857](https://github.com/truecharts/apps/issues/2857))
 
 
@@ -201,7 +201,7 @@
 
 ### [kopia-2.0.3](https://github.com/truecharts/apps/compare/kopia-2.0.2...kopia-2.0.3) (2022-06-09)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220607.0.205602 ([#2847](https://github.com/truecharts/apps/issues/2847))
 
@@ -211,9 +211,9 @@
 
 ### [kopia-2.0.2](https://github.com/truecharts/apps/compare/kopia-2.0.1...kopia-2.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -221,18 +221,18 @@
 
 ### [kopia-2.0.1](https://github.com/truecharts/apps/compare/kopia-1.0.2...kopia-2.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -240,13 +240,13 @@
 
 ### [kopia-2.0.0](https://github.com/truecharts/apps/compare/kopia-1.0.2...kopia-2.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -254,7 +254,7 @@
 
 ### [kopia-1.0.2](https://github.com/truecharts/apps/compare/kopia-1.0.1...kopia-1.0.2) (2022-06-02)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220531.0.202938 ([#2810](https://github.com/truecharts/apps/issues/2810))
 
@@ -264,9 +264,9 @@
 
 ### [kopia-1.0.1](https://github.com/truecharts/apps/compare/kopia-1.0.0...kopia-1.0.1) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 * update container image kopia/kopia to v20220529.0.22704 ([#2794](https://github.com/truecharts/apps/issues/2794))
 
 
@@ -277,7 +277,7 @@
 
 #### Feat
 
-* move apps to stable ([#2784](https://github.com/truecharts/apps/issues/2784))
+* 移动应用程序到稳定([#2784](https://github.com/truecharts/apps/issues/2784))
 
 
 
@@ -285,7 +285,7 @@
 
 ### [kopia-0.0.15](https://github.com/truecharts/apps/compare/kopia-0.0.14...kopia-0.0.15) (2022-05-29)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220528.0.132040 ([#2777](https://github.com/truecharts/apps/issues/2777))
 
@@ -295,10 +295,10 @@
 
 ### [kopia-0.0.14](https://github.com/truecharts/apps/compare/kopia-0.0.13...kopia-0.0.14) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -306,9 +306,9 @@
 
 ### [kopia-0.0.14](https://github.com/truecharts/apps/compare/kopia-0.0.13...kopia-0.0.14) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -316,7 +316,7 @@
 
 ### [kopia-0.0.13](https://github.com/truecharts/apps/compare/kopia-0.0.12...kopia-0.0.13) (2022-05-26)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220525.0.234505 ([#2757](https://github.com/truecharts/apps/issues/2757))
 
@@ -326,7 +326,7 @@
 
 ### [kopia-0.0.12](https://github.com/truecharts/apps/compare/kopia-0.0.11...kopia-0.0.12) (2022-05-24)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220523.0.174913 ([#2742](https://github.com/truecharts/apps/issues/2742))
 
@@ -336,9 +336,9 @@
 
 ### [kopia-0.0.11](https://github.com/truecharts/apps/compare/kopia-0.0.10...kopia-0.0.11) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -346,7 +346,7 @@
 
 ### [kopia-0.0.10](https://github.com/truecharts/apps/compare/kopia-0.0.9...kopia-0.0.10) (2022-05-23)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220522.0.201701 ([#2735](https://github.com/truecharts/apps/issues/2735))
 
@@ -356,7 +356,7 @@
 
 ### [kopia-0.0.9](https://github.com/truecharts/apps/compare/kopia-0.0.8...kopia-0.0.9) (2022-05-19)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220518.0.12706 ([#2713](https://github.com/truecharts/apps/issues/2713))
 
@@ -366,10 +366,10 @@
 
 ### [kopia-0.0.8](https://github.com/truecharts/apps/compare/kopia-0.0.7...kopia-0.0.8) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -377,9 +377,9 @@
 
 ### [kopia-0.0.8](https://github.com/truecharts/apps/compare/kopia-0.0.7...kopia-0.0.8) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -387,10 +387,10 @@
 
 ### [kopia-0.0.7](https://github.com/truecharts/apps/compare/kopia-0.0.6...kopia-0.0.7) (2022-05-17)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220516.0.115504 ([#2698](https://github.com/truecharts/apps/issues/2698))
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -398,7 +398,7 @@
 
 ### [kopia-0.0.6](https://github.com/truecharts/apps/compare/kopia-0.0.5...kopia-0.0.6) (2022-05-13)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220513.0.335 ([#2667](https://github.com/truecharts/apps/issues/2667))
 
@@ -408,7 +408,7 @@
 
 ### [kopia-0.0.5](https://github.com/truecharts/apps/compare/kopia-0.0.4...kopia-0.0.5) (2022-05-12)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220511.0.135115 ([#2661](https://github.com/truecharts/apps/issues/2661))
 
@@ -418,7 +418,7 @@
 
 ### [kopia-0.0.4](https://github.com/truecharts/apps/compare/kopia-0.0.3...kopia-0.0.4) (2022-05-11)
 
-#### Chore
+#### 聊天
 
 * update container image kopia/kopia to v20220510.0.34525 ([#2654](https://github.com/truecharts/apps/issues/2654))
 
@@ -428,9 +428,9 @@
 
 ### [kopia-0.0.3](https://github.com/truecharts/apps/compare/kopia-0.0.2...kopia-0.0.3) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -438,9 +438,9 @@
 
 ### [kopia-0.0.2](https://github.com/truecharts/apps/compare/kopia-0.0.1...kopia-0.0.2) (2022-05-08)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
 * update container image kopia/kopia to v20220506.0.211612 ([#2640](https://github.com/truecharts/apps/issues/2640))
 
 
