@@ -2,7 +2,7 @@
 
 Adding the TrueCharts Community App Catalog is relatively straight forward.
 
-## Requirements
+## B. 所需经费
 
 - Make sure your storage-pool is created and working
 - Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
