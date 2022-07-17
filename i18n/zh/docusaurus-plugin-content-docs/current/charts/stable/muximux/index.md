@@ -1,6 +1,6 @@
 # muximux
 
-A lightweight portal to view & manage your HTPC apps without having to run anything more than a PHP enabled webserver
+一个轻量级门户，查看 & ，管理您的 HTPC 应用，而无需运行超过一个 PHP 启用的 web 服务器
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
