@@ -276,7 +276,7 @@
 #### 聊天
 
 * 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
-* description fix ([#2647](https://github.com/truecharts/apps/issues/2647))
+* 描述修复 ([#2647](https://github.com/truecharts/apps/issues/2647))
 
 
 
@@ -316,7 +316,7 @@
 
 #### 聊天
 
-* fix small mistakes ([#2537](https://github.com/truecharts/apps/issues/2537))
+* 修复小错误([#2537](https://github.com/truecharts/apps/issues/2537))
 
 
 
@@ -398,7 +398,7 @@
 
 #### Feat
 
-* move to stable and require smtp ([#2308](https://github.com/truecharts/apps/issues/2308))
+* 移动到稳定且需要smtp ([#2308](https://github.com/truecharts/apps/issues/2308))
 
 
 
@@ -438,4 +438,4 @@
 
 #### Feat
 
-* Add kutt ([#2239](https://github.com/truecharts/apps/issues/2239))
+* 添加 kutt ([#2239](https://github.com/truecharts/apps/issues/2239))
