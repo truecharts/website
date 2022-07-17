@@ -1,12 +1,12 @@
 # 健康检查
 
-健康检查是一种快速工作监测服务。 It listens for HTTP requests and email messages ("pings") from your cron jobs and scheduled tasks ("checks"). When a ping does not arrive on time, Healthchecks sends out alerts.
+健康检查是一种快速工作监测服务。 它监听您的 cron 作业和预定任务("checks")的 HTTP 请求和电子邮件消息 ("pings") 当Ping 不能按时到达时，健康检查会发出警报。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://github.com/healthchecks/healthchecks>
+* [https://github.com/healthchecks/healthchecks/](https://github.com/healthchecks/healthchecks)
 * <https://hub.docker.com/r/linuxserver/healthchecks>
 
 ## B. 所需经费
