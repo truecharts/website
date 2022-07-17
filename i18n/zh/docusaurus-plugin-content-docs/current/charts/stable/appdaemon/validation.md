@@ -1,11 +1,11 @@
-# Input Validation
+# 输入验证
 
-__`LATITUDE`__ and __`LONGITUDE`__ Accepted formats are:
+__`LATUDE`__ 和 __`LONGITUDE`__ 公认的格式是：
 
 - Float (eg. `24.2028`)
 
-Regex used to match this: `^[0-9]{1,}\.{1}[0-9]{1,}$` You can try live [here](https://regex101.com/r/xsLGWN/1)
+正则表达式用于匹配这个值： `^[0-9]{1,}\。{1}[0-9]{1,}$` 您可以在这里试试 [](https://regex101.com/r/xsLGWN/1)
 
 ---
 
-_If you find a field that you think it needs validation, please open an issue on github_
+_如果您找到了一个您认为需要验证的字段，请在 github 上打开一个问题_
