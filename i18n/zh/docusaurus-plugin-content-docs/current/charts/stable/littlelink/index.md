@@ -6,8 +6,8 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/techno-tim/littlelink-server>
-* <https://github.com/sethcottle/littlelink>
+* [https://github.com/techno-tim/littlelink-服务器](https://github.com/techno-tim/littlelink-server)
+* [https://github.com/sethcotle/littlelink](https://github.com/sethcottle/littlelink)
 
 ## B. 所需经费
 
