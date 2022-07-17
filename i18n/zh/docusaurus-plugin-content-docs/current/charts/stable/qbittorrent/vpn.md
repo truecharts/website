@@ -1,5 +1,5 @@
-# Using VPN
+# 使用 VPN
 
-When using VPN, in order for qbittorent to use it, you have to set the correct interface in the WebUI.
+当使用 VPN时，为了让qbittorent 使用它，您必须在 WebUI 中设置正确的接口。
 
-The setting should be under Settings (Gear Icon) > Advanced > Network Interface
+设置应该在“设置”(Gear 图标)下进行 > 高级 > 网络接口
