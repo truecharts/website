@@ -1,52 +1,52 @@
-# Changelog
+# 更新日志
 
 
 ## [redis-3.0.38](https://github.com/truecharts/apps/compare/redis-3.0.37...redis-3.0.38) (2022-07-17)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3198](https://github.com/truecharts/apps/issues/3198))
+- 更新一般的非主码([#3198](https://github.com/truecharts/apps/issues/3198))
 
 
 
 ## [redis-3.0.37](https://github.com/truecharts/apps/compare/redis-3.0.36...redis-3.0.37) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [redis-3.0.36](https://github.com/truecharts/apps/compare/redis-3.0.34...redis-3.0.36) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [mongodb-1.0.36](https://github.com/truecharts/apps/compare/mongodb-1.0.35...mongodb-1.0.36) (2022-07-13)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3157](https://github.com/truecharts/apps/issues/3157))
+- 更新一般的非主码([#3157](https://github.com/truecharts/apps/issues/3157))
 
 
 
 ## [mongodb-1.0.35](https://github.com/truecharts/apps/compare/mongodb-1.0.33...mongodb-1.0.35) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [mongodb-1.0.33](https://github.com/truecharts/apps/compare/mongodb-1.0.32...mongodb-1.0.33) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -54,9 +54,9 @@
 
 ### [mongodb-1.0.32](https://github.com/truecharts/apps/compare/mongodb-1.0.31...mongodb-1.0.32) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.4.4 ([#3146](https://github.com/truecharts/apps/issues/3146))
+* 更新通用的 v10.4.4 头盔图表([#3146](https://github.com/truecharts/apps/issues/3146))
 
 
 
@@ -65,10 +65,10 @@
 
 ### [mongodb-1.0.30](https://github.com/truecharts/apps/compare/mongodb-1.0.29...mongodb-1.0.30) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
-* update helm chart common to v10.4.3 ([#3137](https://github.com/truecharts/apps/issues/3137))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 更新通用的 v10.4.3 头盔图表([#3137](https://github.com/truecharts/apps/issues/3137))
 
 
 
@@ -76,9 +76,9 @@
 
 ### [mongodb-1.0.29](https://github.com/truecharts/apps/compare/mongodb-1.0.28...mongodb-1.0.29) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.4.2
+* 更新通用的 v10.4.2 头盔图
 
 
 
@@ -86,10 +86,10 @@
 
 ### [mongodb-1.0.28](https://github.com/truecharts/apps/compare/mongodb-1.0.27...mongodb-1.0.28) (2022-07-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.4.0 ([#3123](https://github.com/truecharts/apps/issues/3123))
-* update docker general non-major ([#3115](https://github.com/truecharts/apps/issues/3115))
+* 更新通用的 v10.4.0 头盔图表([#3123](https://github.com/truecharts/apps/issues/3123))
+* 更新一般的非主要泊车位([#3115](https://github.com/truecharts/apps/issues/3115))
 
 
 
@@ -97,9 +97,9 @@
 
 ### [mongodb-1.0.27](https://github.com/truecharts/apps/compare/mongodb-1.0.26...mongodb-1.0.27) (2022-07-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.3.0
+* 更新通用的 v10.3.0 头盔图表
 
 
 
@@ -107,9 +107,9 @@
 
 ### [mongodb-1.0.26](https://github.com/truecharts/apps/compare/mongodb-1.0.25...mongodb-1.0.26) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.2.1 ([#3110](https://github.com/truecharts/apps/issues/3110))
+* 更新通用的 v10.2.1 头盔图表([#310](https://github.com/truecharts/apps/issues/3110))
 
 
 
@@ -117,9 +117,9 @@
 
 ### [mongodb-1.0.25](https://github.com/truecharts/apps/compare/mongodb-1.0.24...mongodb-1.0.25) (2022-07-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3078](https://github.com/truecharts/apps/issues/3078))
+* 更新一般的非主基座([#3078](https://github.com/truecharts/apps/issues/3078))
 
 
 
@@ -127,9 +127,9 @@
 
 ### [mongodb-1.0.24](https://github.com/truecharts/apps/compare/mongodb-1.0.23...mongodb-1.0.24) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3071](https://github.com/truecharts/apps/issues/3071))
+* 更新一般的非主基座([#3071](https://github.com/truecharts/apps/issues/3071))
 
 
 
@@ -137,9 +137,9 @@
 
 ### [mongodb-1.0.23](https://github.com/truecharts/apps/compare/mongodb-1.0.22...mongodb-1.0.23) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.2.0 ([#3065](https://github.com/truecharts/apps/issues/3065))
+* 更新通用的 v10.2.0 头盔图表([#3065](https://github.com/truecharts/apps/issues/3065))
 
 
 
@@ -147,9 +147,9 @@
 
 ### [mongodb-1.0.22](https://github.com/truecharts/apps/compare/mongodb-1.0.21...mongodb-1.0.22) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3061](https://github.com/truecharts/apps/issues/3061))
+* 更新一般的非主码([#3061](https://github.com/truecharts/apps/issues/3061))
 
 
 
@@ -157,9 +157,9 @@
 
 ### [mongodb-1.0.21](https://github.com/truecharts/apps/compare/mongodb-1.0.20...mongodb-1.0.21) (2022-07-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3033](https://github.com/truecharts/apps/issues/3033))
+* 更新一般的非主基座([#3033](https://github.com/truecharts/apps/issues/3033))
 
 
 
@@ -167,9 +167,9 @@
 
 ### [mongodb-1.0.20](https://github.com/truecharts/apps/compare/mongodb-1.0.19...mongodb-1.0.20) (2022-07-01)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3015](https://github.com/truecharts/apps/issues/3015))
+* 更新一般的非主基座([#3015](https://github.com/truecharts/apps/issues/3015))
 
 
 
@@ -177,10 +177,10 @@
 
 ### [mongodb-1.0.19](https://github.com/truecharts/apps/compare/mongodb-1.0.18...mongodb-1.0.19) (2022-06-27)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2999](https://github.com/truecharts/apps/issues/2999))
-* update docker general non-major ([#2960](https://github.com/truecharts/apps/issues/2960))
+* 更新一般的非主码([#2999](https://github.com/truecharts/apps/issues/2999))
+* 更新一般的非主码([#2960](https://github.com/truecharts/apps/issues/2960))
 
 
 
@@ -188,9 +188,9 @@
 
 ### [mongodb-1.0.18](https://github.com/truecharts/apps/compare/mongodb-1.0.17...mongodb-1.0.18) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.4 ([#2976](https://github.com/truecharts/apps/issues/2976))
+* 更新通用的 v10.1.4 头盔图表([#2976](https://github.com/truecharts/apps/issues/2976))
 
 
 
@@ -198,9 +198,9 @@
 
 ### [mongodb-1.0.17](https://github.com/truecharts/apps/compare/mongodb-1.0.16...mongodb-1.0.17) (2022-06-24)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.2
+* 更新 v10.1.2 共有的头盔图
 
 
 
@@ -208,9 +208,9 @@
 
 ### [mongodb-1.0.16](https://github.com/truecharts/apps/compare/mongodb-1.0.15...mongodb-1.0.16) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.1
+* 更新 v10.1.1 共有的头盔图
 
 
 
@@ -218,9 +218,9 @@
 
 ### [mongodb-1.0.15](https://github.com/truecharts/apps/compare/mongodb-1.0.14...mongodb-1.0.15) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.1.0
+* 更新通用的 v10.1.0 头盔图表
 
 
 
@@ -228,9 +228,9 @@
 
 ### [mongodb-1.0.14](https://github.com/truecharts/apps/compare/mongodb-1.0.13...mongodb-1.0.14) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2931](https://github.com/truecharts/apps/issues/2931))
+* 更新一般的非主要泊车位([#2931](https://github.com/truecharts/apps/issues/2931))
 
 
 
@@ -238,9 +238,9 @@
 
 ### [mongodb-1.0.13](https://github.com/truecharts/apps/compare/mongodb-1.0.12...mongodb-1.0.13) (2022-06-20)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.15
+* 更新通用的 v10.0.15 头盔图
 
 
 
@@ -248,9 +248,9 @@
 
 ### [mongodb-1.0.12](https://github.com/truecharts/apps/compare/mongodb-1.0.11...mongodb-1.0.12) (2022-06-18)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.14
+* 更新通用的 v10.0.14 头盔图
 
 
 
@@ -258,9 +258,9 @@
 
 ### [mongodb-1.0.11](https://github.com/truecharts/apps/compare/mongodb-1.0.10...mongodb-1.0.11) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.13
+* 更新通用的 v10.0.13 头盔图表
 
 
 
@@ -268,9 +268,9 @@
 
 ### [mongodb-1.0.10](https://github.com/truecharts/apps/compare/mongodb-1.0.9...mongodb-1.0.10) (2022-06-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.12
+* 更新通用的 v10.0.12 头盔图表
 
 
 
@@ -278,9 +278,9 @@
 
 ### [mongodb-1.0.9](https://github.com/truecharts/apps/compare/mongodb-1.0.8...mongodb-1.0.9) (2022-06-16)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2904](https://github.com/truecharts/apps/issues/2904))
+* 更新一般的非主码([#2904](https://github.com/truecharts/apps/issues/2904))
 
 
 
@@ -288,9 +288,9 @@
 
 ### [mongodb-1.0.8](https://github.com/truecharts/apps/compare/mongodb-1.0.7...mongodb-1.0.8) (2022-06-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.11 ([#2899](https://github.com/truecharts/apps/issues/2899))
+* 更新通用的 v10.0.11 头盔图表([#2899](https://github.com/truecharts/apps/issues/2899))
 
 
 
@@ -298,9 +298,9 @@
 
 ### [mongodb-1.0.7](https://github.com/truecharts/apps/compare/mongodb-1.0.6...mongodb-1.0.7) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.10 ([#2885](https://github.com/truecharts/apps/issues/2885))
+* 更新通用的 v10.0.10 头盔图表([#2885](https://github.com/truecharts/apps/issues/2885))
 
 
 
@@ -308,9 +308,9 @@
 
 ### [mongodb-1.0.6](https://github.com/truecharts/apps/compare/mongodb-1.0.5...mongodb-1.0.6) (2022-06-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2860](https://github.com/truecharts/apps/issues/2860))
+* 更新一般的非主码([#2860](https://github.com/truecharts/apps/issues/2860))
 
 
 
@@ -318,9 +318,9 @@
 
 ### [mongodb-1.0.5](https://github.com/truecharts/apps/compare/mongodb-1.0.4...mongodb-1.0.5) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v10.0.9 ([#2853](https://github.com/truecharts/apps/issues/2853))
+* 更新通用的 v10.0.9 头盔图表([#2853](https://github.com/truecharts/apps/issues/2853))
 
 
 
@@ -328,9 +328,9 @@
 
 ### [mongodb-1.0.4](https://github.com/truecharts/apps/compare/mongodb-1.0.3...mongodb-1.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2848](https://github.com/truecharts/apps/issues/2848))
+* 更新一般的非主基座([#2848](https://github.com/truecharts/apps/issues/2848))
 
 
 
@@ -338,9 +338,9 @@
 
 ### [mongodb-1.0.3](https://github.com/truecharts/apps/compare/mongodb-1.0.2...mongodb-1.0.3) (2022-06-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2846](https://github.com/truecharts/apps/issues/2846))
+* 更新一般的非主码([#2846](https://github.com/truecharts/apps/issues/2846))
 
 
 
@@ -348,9 +348,9 @@
 
 ### [mongodb-1.0.2](https://github.com/truecharts/apps/compare/mongodb-1.0.1...mongodb-1.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -358,18 +358,18 @@
 
 ### [mongodb-1.0.1](https://github.com/truecharts/apps/compare/mongodb-0.1.49...mongodb-1.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -377,13 +377,13 @@
 
 ### [mongodb-1.0.0](https://github.com/truecharts/apps/compare/mongodb-0.1.49...mongodb-1.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -391,9 +391,9 @@
 
 ### [mongodb-0.1.49](https://github.com/truecharts/apps/compare/mongodb-0.1.48...mongodb-0.1.49) (2022-06-05)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.29
+* 更新通用的 v9.3.29 头盔图
 
 
 
@@ -401,9 +401,9 @@
 
 ### [mongodb-0.1.48](https://github.com/truecharts/apps/compare/mongodb-0.1.47...mongodb-0.1.48) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2826](https://github.com/truecharts/apps/issues/2826))
+* 更新一般的非主要泊车位([#2826](https://github.com/truecharts/apps/issues/2826))
 
 
 
@@ -411,9 +411,9 @@
 
 ### [mongodb-0.1.47](https://github.com/truecharts/apps/compare/mongodb-0.1.46...mongodb-0.1.47) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.28
+* 更新通用的头盔图 v9.3.28
 
 
 
@@ -421,9 +421,9 @@
 
 ### [mongodb-0.1.46](https://github.com/truecharts/apps/compare/mongodb-0.1.45...mongodb-0.1.46) (2022-06-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2821](https://github.com/truecharts/apps/issues/2821))
+* 更新一般的非主码([#2821](https://github.com/truecharts/apps/issues/2821))
 
 
 
@@ -431,9 +431,9 @@
 
 ### [mongodb-0.1.45](https://github.com/truecharts/apps/compare/mongodb-0.1.44...mongodb-0.1.45) (2022-06-03)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.27
+* 更新通用到v9.3.27的头盔图
 
 
 
@@ -441,10 +441,10 @@
 
 ### [mongodb-0.1.44](https://github.com/truecharts/apps/compare/mongodb-0.1.43...mongodb-0.1.44) (2022-06-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2806](https://github.com/truecharts/apps/issues/2806))
-* update helm chart common to v9.3.26 ([#2813](https://github.com/truecharts/apps/issues/2813))
+* 更新一般的非主基座([#2806](https://github.com/truecharts/apps/issues/2806))
+* 更新通用的头盔图表到 v9.3.26([#2813](https://github.com/truecharts/apps/issues/2813))
 
 
 
@@ -452,9 +452,9 @@
 
 ### [mongodb-0.1.43](https://github.com/truecharts/apps/compare/mongodb-0.1.42...mongodb-0.1.43) (2022-06-01)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.25
+* 更新通用的 v9.3.25 头盔图
 
 
 
@@ -462,9 +462,9 @@
 
 ### [mongodb-0.1.42](https://github.com/truecharts/apps/compare/mongodb-0.1.41...mongodb-0.1.42) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2791](https://github.com/truecharts/apps/issues/2791))
+* 更新一般的非主码([#2791](https://github.com/truecharts/apps/issues/2791))
 
 
 
@@ -472,9 +472,9 @@
 
 ### [mongodb-0.1.41](https://github.com/truecharts/apps/compare/mongodb-0.1.40...mongodb-0.1.41) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.24
+* 更新通用的 v9.3.24 头盔图
 
 
 
@@ -482,10 +482,10 @@
 
 ### [mongodb-0.1.40](https://github.com/truecharts/apps/compare/mongodb-0.1.39...mongodb-0.1.40) (2022-05-30)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.23
-* update docker general non-major ([#2762](https://github.com/truecharts/apps/issues/2762))
+* 更新通用到v9.3.23的头盔图
+* 更新一般的非主码([#2762](https://github.com/truecharts/apps/issues/2762))
 
 
 
@@ -493,9 +493,9 @@
 
 ### [mongodb-0.1.39](https://github.com/truecharts/apps/compare/mongodb-0.1.38...mongodb-0.1.39) (2022-05-29)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.22
+* 更新通用到v9.3.22的头盔图
 
 
 
@@ -503,9 +503,9 @@
 
 ### [mongodb-0.1.38](https://github.com/truecharts/apps/compare/mongodb-0.1.37...mongodb-0.1.38) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.20
+* 更新通用到v9.3.20的头盔图
 
 
 
@@ -513,9 +513,9 @@
 
 ### [mongodb-0.1.37](https://github.com/truecharts/apps/compare/mongodb-0.1.36...mongodb-0.1.37) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.19 ([#2758](https://github.com/truecharts/apps/issues/2758))
+* 更新通用到v9.3.19([#2758](https://github.com/truecharts/apps/issues/2758))
 
 
 
@@ -523,9 +523,9 @@
 
 ### [mongodb-0.1.36](https://github.com/truecharts/apps/compare/mongodb-0.1.35...mongodb-0.1.36) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.18 ([#2753](https://github.com/truecharts/apps/issues/2753))
+* 更新通用的头盔图表到 v9.3.18 ([#2753](https://github.com/truecharts/apps/issues/2753))
 
 
 
@@ -533,9 +533,9 @@
 
 ### [mongodb-0.1.35](https://github.com/truecharts/apps/compare/mongodb-0.1.34...mongodb-0.1.35) (2022-05-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2745](https://github.com/truecharts/apps/issues/2745))
+* 更新一般的非主码([#2745](https://github.com/truecharts/apps/issues/2745))
 
 
 
@@ -543,9 +543,9 @@
 
 ### [mongodb-0.1.34](https://github.com/truecharts/apps/compare/mongodb-0.1.33...mongodb-0.1.34) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2744](https://github.com/truecharts/apps/issues/2744))
+* 更新一般的非主码([#2744](https://github.com/truecharts/apps/issues/2744))
 
 
 
@@ -553,9 +553,9 @@
 
 ### [mongodb-0.1.33](https://github.com/truecharts/apps/compare/mongodb-0.1.32...mongodb-0.1.33) (2022-05-20)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2720](https://github.com/truecharts/apps/issues/2720))
+* 更新一般的非主要泊位([#2720](https://github.com/truecharts/apps/issues/2720))
 
 
 
@@ -563,9 +563,9 @@
 
 ### [mongodb-0.1.32](https://github.com/truecharts/apps/compare/mongodb-0.1.31...mongodb-0.1.32) (2022-05-19)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.17 ([#2717](https://github.com/truecharts/apps/issues/2717))
+* 更新通用的头盔图表到 v9.3.17 ([#2717](https://github.com/truecharts/apps/issues/2717))
 
 
 
@@ -573,20 +573,9 @@
 
 ### [mongodb-0.1.31](https://github.com/truecharts/apps/compare/mongodb-0.1.30...mongodb-0.1.31) (2022-05-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2711](https://github.com/truecharts/apps/issues/2711))
-
-
-
-<a name="mongodb-0.1.30"></a>
-
-### [mongodb-0.1.30](https://github.com/truecharts/apps/compare/mongodb-0.1.29...mongodb-0.1.30) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.3.15
+* 更新一般的非主码([#2711](https://github.com/truecharts/apps/issues/2711))
 
 
 
@@ -594,9 +583,20 @@
 
 ### [mongodb-0.1.30](https://github.com/truecharts/apps/compare/mongodb-0.1.29...mongodb-0.1.30) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.15
+* 自动更新README图表 [跳过 ci]
+* 更新通用到v9.3.15的头盔图
+
+
+
+<a name="mongodb-0.1.30"></a>
+
+### [mongodb-0.1.30](https://github.com/truecharts/apps/compare/mongodb-0.1.29...mongodb-0.1.30) (2022-05-17)
+
+#### 聊天
+
+* 更新通用到v9.3.15的头盔图
 
 
 
@@ -604,10 +604,10 @@
 
 ### [mongodb-0.1.29](https://github.com/truecharts/apps/compare/mongodb-0.1.28...mongodb-0.1.29) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2695](https://github.com/truecharts/apps/issues/2695))
-* update helm chart common to v9.3.14
+* 更新一般的非主基座([#2695](https://github.com/truecharts/apps/issues/2695))
+* 更新通用的 v9.3.14 头盔图
 
 
 
@@ -615,9 +615,9 @@
 
 ### [mongodb-0.1.28](https://github.com/truecharts/apps/compare/mongodb-0.1.27...mongodb-0.1.28) (2022-05-16)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2692](https://github.com/truecharts/apps/issues/2692))
+* 更新一般的非主码([#2692](https://github.com/truecharts/apps/issues/2692))
 
 
 
@@ -625,9 +625,9 @@
 
 ### [mongodb-0.1.27](https://github.com/truecharts/apps/compare/mongodb-0.1.26...mongodb-0.1.27) (2022-05-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.13
+* 更新通用的 v9.3.13 头盔图
 
 
 
@@ -635,10 +635,10 @@
 
 ### [mongodb-0.1.26](https://github.com/truecharts/apps/compare/mongodb-0.1.24...mongodb-0.1.26) (2022-05-15)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.12
-* update docker general non-major ([#2679](https://github.com/truecharts/apps/issues/2679))
+* 更新通用的 v9.3.12 头盔图
+* 更新一般的非主基座([#2679](https://github.com/truecharts/apps/issues/2679))
 
 
 
@@ -646,9 +646,9 @@
 
 ### [mongodb-0.1.24](https://github.com/truecharts/apps/compare/mongodb-0.1.23...mongodb-0.1.24) (2022-05-14)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.11
+* 更新通用到v9.3.11的头盔图
 
 
 
@@ -656,10 +656,10 @@
 
 ### [mongodb-0.1.23](https://github.com/truecharts/apps/compare/mongodb-0.1.21...mongodb-0.1.23) (2022-05-13)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.10
-* update docker general non-major ([#2658](https://github.com/truecharts/apps/issues/2658))
+* 更新通用的 v9.3.10 头盔图
+* 更新一般的非主码([#2658](https://github.com/truecharts/apps/issues/2658))
 
 
 
@@ -667,9 +667,9 @@
 
 ### [mongodb-0.1.21](https://github.com/truecharts/apps/compare/mongodb-0.1.20...mongodb-0.1.21) (2022-05-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.9
+* 更新通用到v9.3.9的头盔图
 
 
 
@@ -677,9 +677,9 @@
 
 ### [mongodb-0.1.20](https://github.com/truecharts/apps/compare/mongodb-0.1.19...mongodb-0.1.20) (2022-05-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.8
+* 更新通用的 v9.3.8 头盔图
 
 
 
@@ -687,9 +687,9 @@
 
 ### [mongodb-0.1.19](https://github.com/truecharts/apps/compare/mongodb-0.1.18...mongodb-0.1.19) (2022-05-11)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.7 ([#2656](https://github.com/truecharts/apps/issues/2656))
+* 更新通用的 v9.3.7 ([#2656](https://github.com/truecharts/apps/issues/2656))
 
 
 
@@ -697,9 +697,9 @@
 
 ### [mongodb-0.1.18](https://github.com/truecharts/apps/compare/mongodb-0.1.17...mongodb-0.1.18) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.6 ([#2651](https://github.com/truecharts/apps/issues/2651))
+* 更新通用的 v9.3.6 头盔图表([#2651](https://github.com/truecharts/apps/issues/2651))
 
 
 
@@ -707,9 +707,9 @@
 
 ### [mongodb-0.1.17](https://github.com/truecharts/apps/compare/mongodb-0.1.16...mongodb-0.1.17) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.5 ([#2648](https://github.com/truecharts/apps/issues/2648))
+* 更新通用到v9.3.5 ([#2648](https://github.com/truecharts/apps/issues/2648))
 
 
 
@@ -717,9 +717,9 @@
 
 ### [mongodb-0.1.16](https://github.com/truecharts/apps/compare/mongodb-0.1.15...mongodb-0.1.16) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -727,9 +727,9 @@
 
 ### [mongodb-0.1.15](https://github.com/truecharts/apps/compare/mongodb-0.1.14...mongodb-0.1.15) (2022-05-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2641](https://github.com/truecharts/apps/issues/2641))
+* 更新一般的非主码([#2641](https://github.com/truecharts/apps/issues/2641))
 
 
 
@@ -737,9 +737,9 @@
 
 ### [mongodb-0.1.14](https://github.com/truecharts/apps/compare/mongodb-0.1.13...mongodb-0.1.14) (2022-05-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2639](https://github.com/truecharts/apps/issues/2639))
+* 更新一般的非主码([#2639](https://github.com/truecharts/apps/issues/2639))
 
 
 
@@ -747,9 +747,9 @@
 
 ### [mongodb-0.1.13](https://github.com/truecharts/apps/compare/mongodb-0.1.12...mongodb-0.1.13) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.3.3 ([#2610](https://github.com/truecharts/apps/issues/2610))
+* 更新通用到v9.3.3([#2610](https://github.com/truecharts/apps/issues/2610))
 
 
 
@@ -757,9 +757,9 @@
 
 ### [mongodb-0.1.12](https://github.com/truecharts/apps/compare/mongodb-0.1.11...mongodb-0.1.12) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2606](https://github.com/truecharts/apps/issues/2606))
+* 更新一般的非主码([#2606](https://github.com/truecharts/apps/issues/2606))
 
 
 
@@ -767,9 +767,9 @@
 
 ### [mongodb-0.1.11](https://github.com/truecharts/apps/compare/mongodb-0.1.10...mongodb-0.1.11) (2022-04-28)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2577](https://github.com/truecharts/apps/issues/2577))
+* 更新一般的非主码([#2577](https://github.com/truecharts/apps/issues/2577))
 
 
 
@@ -777,9 +777,9 @@
 
 ### [mongodb-0.1.10](https://github.com/truecharts/apps/compare/mongodb-0.1.9...mongodb-0.1.10) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2571](https://github.com/truecharts/apps/issues/2571))
+* 更新一般的非主码([#2571](https://github.com/truecharts/apps/issues/2571))
 
 
 
@@ -787,9 +787,9 @@
 
 ### [mongodb-0.1.9](https://github.com/truecharts/apps/compare/mongodb-0.1.8...mongodb-0.1.9) (2022-04-25)
 
-#### Chore
+#### 聊天
 
-* bump common ([#2569](https://github.com/truecharts/apps/issues/2569))
+* bump 通用([#2569](https://github.com/truecharts/apps/issues/2569))
 
 
 
@@ -797,9 +797,9 @@
 
 ### [mongodb-0.1.8](https://github.com/truecharts/apps/compare/mongodb-0.1.7...mongodb-0.1.8) (2022-04-25)
 
-#### Revert
+#### 恢复
 
-* revert replicaset ([#2567](https://github.com/truecharts/apps/issues/2567))
+* 还原重复测验([#2567](https://github.com/truecharts/apps/issues/2567))
 
 
 
@@ -807,9 +807,9 @@
 
 ### [mongodb-0.1.7](https://github.com/truecharts/apps/compare/mongodb-0.1.6...mongodb-0.1.7) (2022-04-25)
 
-#### Fix
+#### 修复
 
-* fix ([#2563](https://github.com/truecharts/apps/issues/2563))
+* 修复 ([#2563](https://github.com/truecharts/apps/issues/2563))
 
 
 
@@ -817,9 +817,9 @@
 
 ### [mongodb-0.1.6](https://github.com/truecharts/apps/compare/mongodb-0.1.5...mongodb-0.1.6) (2022-04-25)
 
-#### Fix
+#### 修复
 
-* set advertised hostname ([#2560](https://github.com/truecharts/apps/issues/2560))
+* 设置广告主机名([#2560](https://github.com/truecharts/apps/issues/2560))
 
 
 
@@ -827,9 +827,9 @@
 
 ### [mongodb-0.1.5](https://github.com/truecharts/apps/compare/mongodb-0.1.4...mongodb-0.1.5) (2022-04-24)
 
-#### Fix
+#### 修复
 
-* make advertisedhostname configurable ([#2559](https://github.com/truecharts/apps/issues/2559))
+* 设定广告主机名可配置([#2559](https://github.com/truecharts/apps/issues/2559))
 
 
 
@@ -837,9 +837,9 @@
 
 ### [mongodb-0.1.4](https://github.com/truecharts/apps/compare/mongodb-0.1.3...mongodb-0.1.4) (2022-04-24)
 
-#### Fix
+#### 修复
 
-* dont set initial primary host ([#2557](https://github.com/truecharts/apps/issues/2557))
+* 不设置初始主主机([#2557](https://github.com/truecharts/apps/issues/2557))
 
 
 
@@ -847,9 +847,9 @@
 
 ### [mongodb-0.1.3](https://github.com/truecharts/apps/compare/mongodb-0.1.2...mongodb-0.1.3) (2022-04-24)
 
-#### Fix
+#### 修复
 
-* set advertised hostname ([#2555](https://github.com/truecharts/apps/issues/2555))
+* 设置广告主机名([#2555](https://github.com/truecharts/apps/issues/2555))
 
 
 
@@ -857,9 +857,9 @@
 
 ### [mongodb-0.1.2](https://github.com/truecharts/apps/compare/mongodb-0.1.1...mongodb-0.1.2) (2022-04-24)
 
-#### Chore
+#### 聊天
 
-* bump common ([#2551](https://github.com/truecharts/apps/issues/2551))
+* bump 通用([#2551](https://github.com/truecharts/apps/issues/2551))
 
 
 
@@ -867,9 +867,9 @@
 
 ### [mongodb-0.1.1](https://github.com/truecharts/apps/compare/mongodb-0.1.0...mongodb-0.1.1) (2022-04-24)
 
-#### Chore
+#### 聊天
 
-* bump common ([#2548](https://github.com/truecharts/apps/issues/2548))
+* bump 通用([#2548](https://github.com/truecharts/apps/issues/2548))
 
 
 
@@ -879,7 +879,7 @@
 
 #### Feat
 
-* run in single replicaset (take3) ([#2505](https://github.com/truecharts/apps/issues/2505))
+* 运行在单个重复测定器中 (共用3) ([#2505](https://github.com/truecharts/apps/issues/2505))
 
 
 
@@ -887,10 +887,10 @@
 
 ### [mongodb-0.0.31](https://github.com/truecharts/apps/compare/mongodb-0.0.30...mongodb-0.0.31) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update docker general non-major ([#2522](https://github.com/truecharts/apps/issues/2522))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新停靠一般的非主要泊位([#2522](https://github.com/truecharts/apps/issues/2522))
 
 
 
@@ -898,9 +898,9 @@
 
 ### [mongodb-0.0.30](https://github.com/truecharts/apps/compare/mongodb-0.0.29...mongodb-0.0.30) (2022-04-19)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.9 ([#2509](https://github.com/truecharts/apps/issues/2509))
+* 更新通用到v9.2.9的头盔图表([#2509](https://github.com/truecharts/apps/issues/2509))
 
 
 
@@ -908,9 +908,9 @@
 
 ### [mongodb-0.0.29](https://github.com/truecharts/apps/compare/mongodb-0.0.28...mongodb-0.0.29) (2022-04-18)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2502](https://github.com/truecharts/apps/issues/2502))
+* 更新一般的非主基座([#2502](https://github.com/truecharts/apps/issues/2502))
 
 
 
@@ -918,9 +918,9 @@
 
 ### [mongodb-0.0.28](https://github.com/truecharts/apps/compare/mongodb-0.0.27...mongodb-0.0.28) (2022-04-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2497](https://github.com/truecharts/apps/issues/2497))
+* 更新一般的非主码([#2497](https://github.com/truecharts/apps/issues/2497))
 
 
 
@@ -928,9 +928,9 @@
 
 ### [mongodb-0.0.27](https://github.com/truecharts/apps/compare/mongodb-0.0.26...mongodb-0.0.27) (2022-04-16)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2494](https://github.com/truecharts/apps/issues/2494))
+* 更新一般的非主码([#2494](https://github.com/truecharts/apps/issues/2494))
 
 
 
@@ -938,9 +938,9 @@
 
 ### [mongodb-0.0.26](https://github.com/truecharts/apps/compare/mongodb-0.0.25...mongodb-0.0.26) (2022-04-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -948,9 +948,9 @@
 
 ### [mongodb-0.0.25](https://github.com/truecharts/apps/compare/mongodb-0.0.24...mongodb-0.0.25) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.8 ([#2479](https://github.com/truecharts/apps/issues/2479))
+* 更新通用的 v9.2.8 头盔图表([#2479](https://github.com/truecharts/apps/issues/2479))
 
 
 
@@ -958,9 +958,9 @@
 
 ### [mongodb-0.0.24](https://github.com/truecharts/apps/compare/mongodb-0.0.23...mongodb-0.0.24) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2478](https://github.com/truecharts/apps/issues/2478))
+* 更新一般的非主基座([#2478](https://github.com/truecharts/apps/issues/2478))
 
 
 
@@ -968,9 +968,9 @@
 
 ### [mongodb-0.0.23](https://github.com/truecharts/apps/compare/mongodb-0.0.22...mongodb-0.0.23) (2022-04-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2460](https://github.com/truecharts/apps/issues/2460))
+* 更新一般的非主码([#2460](https://github.com/truecharts/apps/issues/2460))
 
 
 
@@ -978,9 +978,9 @@
 
 ### [mongodb-0.0.22](https://github.com/truecharts/apps/compare/mongodb-0.0.21...mongodb-0.0.22) (2022-04-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -988,10 +988,10 @@
 
 ### [mongodb-0.0.21](https://github.com/truecharts/apps/compare/mongodb-0.0.20...mongodb-0.0.21) (2022-04-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
-* update docker general non-major ([#2414](https://github.com/truecharts/apps/issues/2414))
+* 更新一般非主要停靠栏
+* 更新一般的非主码([#2414](https://github.com/truecharts/apps/issues/2414))
 
 
 
@@ -999,9 +999,9 @@
 
 ### [mongodb-0.0.20](https://github.com/truecharts/apps/compare/mongodb-0.0.19...mongodb-0.0.20) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.7 ([#2406](https://github.com/truecharts/apps/issues/2406))
+* 更新通用的头盔图表到 v9.2.7 ([#2406](https://github.com/truecharts/apps/issues/2406))
 
 
 
@@ -1009,9 +1009,9 @@
 
 ### [mongodb-0.0.19](https://github.com/truecharts/apps/compare/mongodb-0.0.18...mongodb-0.0.19) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
 
 
 
@@ -1025,9 +1025,9 @@
 
 ### [mongodb-0.0.16](https://github.com/truecharts/apps/compare/mongodb-0.0.14...mongodb-0.0.16) (2022-04-01)
 
-#### Fix
+#### 修复
 
-* use bash for gen-docs shell
+* 使用 bash for gen-docs shell
 
 
 
@@ -1035,9 +1035,9 @@
 
 ### [mongodb-0.0.14](https://github.com/truecharts/apps/compare/mongodb-0.0.13...mongodb-0.0.14) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2357](https://github.com/truecharts/apps/issues/2357))
+* 更新一般的非主基座([#2357](https://github.com/truecharts/apps/issues/2357))
 
 
 
@@ -1045,10 +1045,10 @@
 
 ### [mongodb-0.0.13](https://github.com/truecharts/apps/compare/mongodb-0.0.12...mongodb-0.0.13) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.2.6 ([#2358](https://github.com/truecharts/apps/issues/2358))
+* 自动更新README图表 [跳过 ci]
+* 更新通用的 v9.2.6 头盔图表([#2358](https://github.com/truecharts/apps/issues/2358))
 
 
 
@@ -1056,10 +1056,10 @@
 
 ### [mongodb-0.0.12](https://github.com/truecharts/apps/compare/mongodb-0.0.11...mongodb-0.0.12) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm chart common to v9.2.4 ([#2352](https://github.com/truecharts/apps/issues/2352))
+* 自动更新README图表 [跳过 ci]
+* 更新通用的 v9.2.4 头盔图表([#2352](https://github.com/truecharts/apps/issues/2352))
 
 
 
@@ -1073,9 +1073,9 @@
 
 ### [mongodb-0.0.10](https://github.com/truecharts/apps/compare/mongodb-0.0.9...mongodb-0.0.10) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2338](https://github.com/truecharts/apps/issues/2338))
+* 更新一般的非主码([#2338](https://github.com/truecharts/apps/issues/2338))
 
 
 
@@ -1095,9 +1095,9 @@
 
 ### [mongodb-0.0.5](https://github.com/truecharts/apps/compare/mongodb-0.0.4...mongodb-0.0.5) (2022-03-29)
 
-#### Fix
+#### 修复
 
-* try to push dependencies to new helm repo ([#2336](https://github.com/truecharts/apps/issues/2336))
+* 尝试将依赖关系推向新的头盔仓库([#2336](https://github.com/truecharts/apps/issues/2336))
 
 
 
@@ -1105,9 +1105,9 @@
 
 ### [mongodb-0.0.4](https://github.com/truecharts/apps/compare/mongodb-0.0.3...mongodb-0.0.4) (2022-03-29)
 
-#### Chore
+#### 聊天
 
-* update helm chart common to v9.2.3 ([#2335](https://github.com/truecharts/apps/issues/2335))
+* 更新通用的 v9.2.3 头盔图表([#2335](https://github.com/truecharts/apps/issues/2335))
 
 
 
@@ -1115,9 +1115,9 @@
 
 ### [mongodb-0.0.3](https://github.com/truecharts/apps/compare/mongodb-0.0.2...mongodb-0.0.3) (2022-03-28)
 
-#### Chore
+#### 聊天
 
-* adjust init ([#2329](https://github.com/truecharts/apps/issues/2329))
+* 调整 init ([#2329](https://github.com/truecharts/apps/issues/2329))
 
 
 
@@ -1127,7 +1127,7 @@
 
 #### Feat
 
-* expose root password field on gui ([#2327](https://github.com/truecharts/apps/issues/2327))
+* 在界面上暴露根密码字段([#2327](https://github.com/truecharts/apps/issues/2327))
 
 
 
@@ -1137,4 +1137,4 @@
 
 #### Feat
 
-* add-mongodb ([#2307](https://github.com/truecharts/apps/issues/2307))
+* 添加mongodb ([#2307](https://github.com/truecharts/apps/issues/2307))
