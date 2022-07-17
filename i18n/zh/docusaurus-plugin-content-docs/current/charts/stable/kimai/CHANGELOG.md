@@ -392,7 +392,7 @@
 
 #### Feat
 
-* move to stable ([#2304](https://github.com/truecharts/apps/issues/2304))
+* 移动到稳定([#2304](https://github.com/truecharts/apps/issues/2304))
 
 
 
@@ -422,7 +422,7 @@
 
 #### 聊天
 
-* correct path for nginx ([#2284](https://github.com/truecharts/apps/issues/2284))
+* 正确的 nginx 路径 ([#2284](https://github.com/truecharts/apps/issues/2284))
 
 #### 修复
 
@@ -446,4 +446,4 @@
 
 #### Feat
 
-* Add kimai ([#2258](https://github.com/truecharts/apps/issues/2258))
+* 添加 kimai ([#2258](https://github.com/truecharts/apps/issues/2258))
