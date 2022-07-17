@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        language: ['en', 'zh']
+        language: ['en']
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
