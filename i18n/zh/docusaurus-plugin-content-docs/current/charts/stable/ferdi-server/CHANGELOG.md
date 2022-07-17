@@ -317,7 +317,7 @@
 
 <a name="ferdi-server-1.0.2"></a>
 
-### [ferdi-server-1.0.2](https://github.com/truecharts/apps/compare/ferdi-server-1.0.1...ferdi-server-1.0.2) (2022-04-12)
+### [ferdi-server--1.0.2](https://github.com/truecharts/apps/compare/ferdi-server-1.0.1...ferdi-server-1.0.2) (2022-04-12)
 
 #### 聊天
 
@@ -341,7 +341,7 @@
 
 #### Feat
 
-* move to stable ([#2415](https://github.com/truecharts/apps/issues/2415))
+* 移动到稳定([#2415](https://github.com/truecharts/apps/issues/2415))
 
 
 
@@ -351,7 +351,7 @@
 
 #### Feat
 
-* move to stable ([#2415](https://github.com/truecharts/apps/issues/2415))
+* 移动到稳定([#2415](https://github.com/truecharts/apps/issues/2415))
 
 
 
@@ -372,4 +372,4 @@
 
 #### Feat
 
-* Add ferdi-server ([#2367](https://github.com/truecharts/apps/issues/2367))
+* 添加ferdi-server([#2367](https://github.com/truecharts/apps/issues/2367))
