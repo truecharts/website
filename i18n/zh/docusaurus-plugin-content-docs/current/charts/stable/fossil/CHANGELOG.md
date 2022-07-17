@@ -56,7 +56,7 @@
 
 <a name="fossil-4.0.9"></a>
 
-### [fossil-4.0.9](https://github.com/truecharts/apps/compare/fossil-4.0.8...fossil-4.0.9) (2022-07-09)
+### [化石4.0.9](https://github.com/truecharts/apps/compare/fossil-4.0.8...fossil-4.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -365,7 +365,7 @@
 
 <a name="fossil-2.0.41"></a>
 
-### [fossil-2.0.41](https://github.com/truecharts/apps/compare/fossil-2.0.40...fossil-2.0.41) (2022-02-21)
+### [化石-2.0.41](https://github.com/truecharts/apps/compare/fossil-2.0.40...fossil-2.0.41) (2022-02-21)
 
 #### 聊天
 
@@ -445,7 +445,7 @@
 
 <a name="fossil-2.0.33"></a>
 
-### [fossil-2.0.33](https://github.com/truecharts/apps/compare/fossil-2.0.32...fossil-2.0.33) (2022-01-21)
+### [化石-2.0.33](https://github.com/truecharts/apps/compare/fossil-2.0.32...fossil-2.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -483,7 +483,7 @@
 
 <a name="fossil-2.0.30"></a>
 
-### [fossil-2.0.30](https://github.com/truecharts/apps/compare/fossil-2.0.29...fossil-2.0.30) (2022-01-12)
+### [化石-2.0.30](https://github.com/truecharts/apps/compare/fossil-2.0.29...fossil-2.0.30) (2022-01-12)
 
 #### 聊天
 
@@ -503,7 +503,7 @@
 
 <a name="fossil-2.0.28"></a>
 
-### [fossil-2.0.28](https://github.com/truecharts/apps/compare/fossil-2.0.27...fossil-2.0.28) (2022-01-04)
+### [化石-2.0.28](https://github.com/truecharts/apps/compare/fossil-2.0.27...fossil-2.0.28) (2022-01-04)
 
 #### 聊天
 
@@ -513,7 +513,7 @@
 
 <a name="fossil-2.0.27"></a>
 
-### [fossil-2.0.27](https://github.com/truecharts/apps/compare/fossil-2.0.26...fossil-2.0.27) (2021-12-28)
+### [化石-2.0.27](https://github.com/truecharts/apps/compare/fossil-2.0.26...fossil-2.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -523,7 +523,7 @@
 
 <a name="fossil-2.0.26"></a>
 
-### [fossil-2.0.26](https://github.com/truecharts/apps/compare/fossil-2.0.25...fossil-2.0.26) (2021-12-21)
+### [化石-2.0.26](https://github.com/truecharts/apps/compare/fossil-2.0.25...fossil-2.0.26) (2021-12-21)
 
 #### 聊天
 
@@ -533,7 +533,7 @@
 
 <a name="fossil-2.0.25"></a>
 
-### [fossil-2.0.25](https://github.com/truecharts/apps/compare/fossil-2.0.24...fossil-2.0.25) (2021-12-19)
+### [化石-2.0.25](https://github.com/truecharts/apps/compare/fossil-2.0.24...fossil-2.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -544,7 +544,7 @@
 
 <a name="fossil-2.0.24"></a>
 
-### [fossil-2.0.24](https://github.com/truecharts/apps/compare/fossil-2.0.23...fossil-2.0.24) (2021-12-19)
+### [化石-2.0.24](https://github.com/truecharts/apps/compare/fossil-2.0.23...fossil-2.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -554,7 +554,7 @@
 
 <a name="fossil-2.0.23"></a>
 
-### [fossil-2.0.23](https://github.com/truecharts/apps/compare/fossil-2.0.22...fossil-2.0.23) (2021-12-18)
+### [化石-2.0.23](https://github.com/truecharts/apps/compare/fossil-2.0.22...fossil-2.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -565,7 +565,7 @@
 
 <a name="fossil-2.0.22"></a>
 
-### [fossil-2.0.22](https://github.com/truecharts/apps/compare/fossil-2.0.21...fossil-2.0.22) (2021-12-14)
+### [化石-2.0.22](https://github.com/truecharts/apps/compare/fossil-2.0.21...fossil-2.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -575,7 +575,7 @@
 
 <a name="fossil-2.0.21"></a>
 
-### [fossil-2.0.21](https://github.com/truecharts/apps/compare/fossil-2.0.20...fossil-2.0.21) (2021-12-13)
+### [化石-2.0.21](https://github.com/truecharts/apps/compare/fossil-2.0.20...fossil-2.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -585,7 +585,7 @@
 
 <a name="fossil-2.0.20"></a>
 
-### [fossil-2.0.20](https://github.com/truecharts/apps/compare/fossil-2.0.19...fossil-2.0.20) (2021-12-11)
+### [化石-2.0.20](https://github.com/truecharts/apps/compare/fossil-2.0.19...fossil-2.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -595,7 +595,7 @@
 
 <a name="fossil-2.0.19"></a>
 
-### [fossil-2.0.19](https://github.com/truecharts/apps/compare/fossil-2.0.18...fossil-2.0.19) (2021-12-07)
+### [化石-2.0.19](https://github.com/truecharts/apps/compare/fossil-2.0.18...fossil-2.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -605,7 +605,7 @@
 
 <a name="fossil-2.0.18"></a>
 
-### fossil-2.0.18 (2021-12-05)
+### 矿物-2.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -626,7 +626,7 @@
 
 <a name="fossil-2.0.17"></a>
 
-### [fossil-2.0.17](https://github.com/truecharts/apps/compare/fossil-2.0.16...fossil-2.0.17) (2021-12-05)
+### [化石-2.0.17](https://github.com/truecharts/apps/compare/fossil-2.0.16...fossil-2.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -636,7 +636,7 @@
 
 <a name="fossil-2.0.16"></a>
 
-### [fossil-2.0.16](https://github.com/truecharts/apps/compare/fossil-2.0.15...fossil-2.0.16) (2021-12-04)
+### [化石-2.0.16](https://github.com/truecharts/apps/compare/fossil-2.0.15...fossil-2.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -646,7 +646,7 @@
 
 <a name="fossil-2.0.15"></a>
 
-### [fossil-2.0.15](https://github.com/truecharts/apps/compare/fossil-2.0.14...fossil-2.0.15) (2021-12-04)
+### [化石-2.0.15](https://github.com/truecharts/apps/compare/fossil-2.0.14...fossil-2.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -668,7 +668,7 @@
 
 <a name="fossil-2.0.13"></a>
 
-### [fossil-2.0.13](https://github.com/truecharts/apps/compare/fossil-2.0.12...fossil-2.0.13) (2021-11-30)
+### [化石-2.0.13](https://github.com/truecharts/apps/compare/fossil-2.0.12...fossil-2.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -682,7 +682,7 @@
 
 <a name="fossil-2.0.12"></a>
 
-### [fossil-2.0.12](https://github.com/truecharts/apps/compare/fossil-2.0.11...fossil-2.0.12) (2021-11-23)
+### [化石-2.0.12](https://github.com/truecharts/apps/compare/fossil-2.0.11...fossil-2.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -692,7 +692,7 @@
 
 <a name="fossil-2.0.11"></a>
 
-### [fossil-2.0.11](https://github.com/truecharts/apps/compare/fossil-2.0.10...fossil-2.0.11) (2021-11-22)
+### [化石-2.0.11](https://github.com/truecharts/apps/compare/fossil-2.0.10...fossil-2.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -702,7 +702,7 @@
 
 <a name="fossil-2.0.10"></a>
 
-### [fossil-2.0.10](https://github.com/truecharts/apps/compare/fossil-2.0.9...fossil-2.0.10) (2021-11-16)
+### [化石-2.0.10](https://github.com/truecharts/apps/compare/fossil-2.0.9...fossil-2.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -712,7 +712,7 @@
 
 <a name="fossil-2.0.9"></a>
 
-### [fossil-2.0.9](https://github.com/truecharts/apps/compare/fossil-2.0.8...fossil-2.0.9) (2021-11-15)
+### [化石-2.0.9](https://github.com/truecharts/apps/compare/fossil-2.0.8...fossil-2.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -723,7 +723,7 @@
 
 <a name="fossil-2.0.8"></a>
 
-### [fossil-2.0.8](https://github.com/truecharts/apps/compare/fossil-2.0.7...fossil-2.0.8) (2021-11-14)
+### [化石-2.0.8](https://github.com/truecharts/apps/compare/fossil-2.0.7...fossil-2.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -740,7 +740,7 @@
 
 <a name="fossil-2.0.7"></a>
 
-### [fossil-2.0.7](https://github.com/truecharts/apps/compare/fossil-2.0.6...fossil-2.0.7) (2021-11-09)
+### [化石-2.0.7](https://github.com/truecharts/apps/compare/fossil-2.0.6...fossil-2.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -750,7 +750,7 @@
 
 <a name="fossil-2.0.6"></a>
 
-### [fossil-2.0.6](https://github.com/truecharts/apps/compare/fossil-2.0.5...fossil-2.0.6) (2021-11-07)
+### [化石-2.0.6](https://github.com/truecharts/apps/compare/fossil-2.0.5...fossil-2.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -760,7 +760,7 @@
 
 <a name="fossil-2.0.5"></a>
 
-### [fossil-2.0.5](https://github.com/truecharts/apps/compare/fossil-2.0.4...fossil-2.0.5) (2021-11-07)
+### [化石-2.0.5](https://github.com/truecharts/apps/compare/fossil-2.0.4...fossil-2.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -782,7 +782,7 @@
 
 <a name="fossil-2.0.4"></a>
 
-### [fossil-2.0.4](https://github.com/truecharts/apps/compare/fossil-2.0.3...fossil-2.0.4) (2021-11-02)
+### [化石-2.0.4](https://github.com/truecharts/apps/compare/fossil-2.0.3...fossil-2.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -792,7 +792,7 @@
 
 <a name="fossil-2.0.3"></a>
 
-### [fossil-2.0.3](https://github.com/truecharts/apps/compare/fossil-2.0.2...fossil-2.0.3) (2021-11-01)
+### [化石-2.0.3](https://github.com/truecharts/apps/compare/fossil-2.0.2...fossil-2.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -802,7 +802,7 @@
 
 <a name="fossil-2.0.2"></a>
 
-### [fossil-2.0.2](https://github.com/truecharts/apps/compare/fossil-2.0.1...fossil-2.0.2) (2021-10-26)
+### [化石-2.0.2](https://github.com/truecharts/apps/compare/fossil-2.0.1...fossil-2.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -812,7 +812,7 @@
 
 <a name="fossil-2.0.1"></a>
 
-### [fossil-2.0.1](https://github.com/truecharts/apps/compare/fossil-2.0.0...fossil-2.0.1) (2021-10-26)
+### [化石-2.0.1](https://github.com/truecharts/apps/compare/fossil-2.0.0...fossil-2.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -822,7 +822,7 @@
 
 <a name="fossil-2.0.0"></a>
 
-### [fossil-2.0.0](https://github.com/truecharts/apps/compare/fossil-1.0.1...fossil-2.0.0) (2021-10-25)
+### [fosil-2.0.0](https://github.com/truecharts/apps/compare/fossil-1.0.1...fossil-2.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -832,7 +832,7 @@
 
 <a name="fossil-1.0.1"></a>
 
-### [fossil-1.0.1](https://github.com/truecharts/apps/compare/fossil-0.0.11...fossil-1.0.1) (2021-10-20)
+### [化石-1.0.1](https://github.com/truecharts/apps/compare/fossil-0.0.11...fossil-1.0.1) (2021-10-20)
 
 #### 聊天
 
@@ -842,7 +842,7 @@
 
 <a name="fossil-0.0.9"></a>
 
-### [fossil-0.0.9](https://github.com/truecharts/apps/compare/fossil-0.0.8...fossil-0.0.9) (2021-10-20)
+### [化石-0.0.9](https://github.com/truecharts/apps/compare/fossil-0.0.8...fossil-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -852,7 +852,7 @@
 
 <a name="fossil-0.0.8"></a>
 
-### [fossil-0.0.8](https://github.com/truecharts/apps/compare/fossil-0.0.7...fossil-0.0.8) (2021-10-19)
+### [化石-0.0.8](https://github.com/truecharts/apps/compare/fossil-0.0.7...fossil-0.0.8) (2021-10-19)
 
 #### 更改
 
@@ -876,7 +876,7 @@
 
 <a name="fossil-0.0.7"></a>
 
-### [fossil-0.0.7](https://github.com/truecharts/apps/compare/fossil-0.0.6...fossil-0.0.7) (2021-10-19)
+### [化石-0.0.7](https://github.com/truecharts/apps/compare/fossil-0.0.6...fossil-0.0.7) (2021-10-19)
 
 #### 修复
 
@@ -886,7 +886,7 @@
 
 <a name="fossil-0.0.6"></a>
 
-### [fossil-0.0.6](https://github.com/truecharts/apps/compare/fossil-0.0.5...fossil-0.0.6) (2021-10-19)
+### [fosil-0.0.6](https://github.com/truecharts/apps/compare/fossil-0.0.5...fossil-0.0.6) (2021-10-19)
 
 #### 修复
 
@@ -906,7 +906,7 @@
 
 <a name="fossil-0.0.4"></a>
 
-### [fossil-0.0.4](https://github.com/truecharts/apps/compare/fossil-0.0.3...fossil-0.0.4) (2021-10-17)
+### [化石-0.0.4](https://github.com/truecharts/apps/compare/fossil-0.0.3...fossil-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -926,7 +926,7 @@
 
 <a name="fossil-0.0.2"></a>
 
-### [fossil-0.0.2](https://github.com/truecharts/apps/compare/fossil-0.0.1...fossil-0.0.2) (2021-10-13)
+### [化石-0.0.2](https://github.com/truecharts/apps/compare/fossil-0.0.1...fossil-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -936,4 +936,4 @@
 
 <a name="fossil-0.0.1"></a>
 
-### fossil-0.0.1 (2021-10-04)
+### 矿物-0.0.1 (2021-10-04)
