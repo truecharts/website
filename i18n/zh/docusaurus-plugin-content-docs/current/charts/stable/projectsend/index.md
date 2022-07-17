@@ -1,6 +1,6 @@
 # 项目结束
 
-Projectsend is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself.
+Projectsend是一个自托管的应用程序，可以让您上传文件并分配给您自己创建的特定客户端。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
