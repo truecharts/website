@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [minecraft-bedrock-1.0.18](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.17...minecraft-bedrock-1.0.18) (2022-07-14)
+## [minecraft-becdrock-1.0.18](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.17...minecraft-bedrock-1.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [minecraft-bedrock-1.0.17](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.15...minecraft-bedrock-1.0.17) (2022-07-14)
+## [minecraft-becdrock-1.0.17](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.15...minecraft-bedrock-1.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [minecraft-bedrock-1.0.15](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.13...minecraft-bedrock-1.0.15) (2022-07-12)
+## [minecraft-becdrock-1.0.15](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.13...minecraft-bedrock-1.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [minecraft-bedrock-1.0.13](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.12...minecraft-bedrock-1.0.13) (2022-07-12)
+## [minecraft-becdrock-1.0.13](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.12...minecraft-bedrock-1.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="minecraft-bedrock-1.0.12"></a>
 
-### [minecraft-bedrock-1.0.12](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.11...minecraft-bedrock-1.0.12) (2022-07-12)
+### [minecraft-becdrock-1.0.12](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.11...minecraft-bedrock-1.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="minecraft-bedrock-1.0.11"></a>
 
-### [minecraft-bedrock-1.0.11](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.10...minecraft-bedrock-1.0.11) (2022-07-11)
+### [minecraft-becdrock-1.0.11](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.10...minecraft-bedrock-1.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="minecraft-bedrock-1.0.10"></a>
 
-### [minecraft-bedrock-1.0.10](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.9...minecraft-bedrock-1.0.10) (2022-07-09)
+### [minecraft-becdrock-1.0.10](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.9...minecraft-bedrock-1.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="minecraft-bedrock-1.0.9"></a>
 
-### [minecraft-bedrock-1.0.9](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.8...minecraft-bedrock-1.0.9) (2022-07-04)
+### [minecraft-becdrock-1.0.9](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.8...minecraft-bedrock-1.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="minecraft-bedrock-1.0.8"></a>
 
-### [minecraft-bedrock-1.0.8](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.7...minecraft-bedrock-1.0.8) (2022-06-25)
+### [minecraft-beyrock-1.0.8](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.7...minecraft-bedrock-1.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="minecraft-bedrock-1.0.7"></a>
 
-### [minecraft-bedrock-1.0.7](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.6...minecraft-bedrock-1.0.7) (2022-06-22)
+### [minecraft-becdrock-1.0.7](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.6...minecraft-bedrock-1.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="minecraft-bedrock-1.0.6"></a>
 
-### [minecraft-bedrock-1.0.6](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.5...minecraft-bedrock-1.0.6) (2022-06-21)
+### [minecraft-beyrock-1.0.6](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.5...minecraft-bedrock-1.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="minecraft-bedrock-1.0.5"></a>
 
-### [minecraft-bedrock-1.0.5](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.4...minecraft-bedrock-1.0.5) (2022-06-17)
+### [minecraft-becdrock-1.0.5](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.4...minecraft-bedrock-1.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="minecraft-bedrock-1.0.4"></a>
 
-### [minecraft-bedrock-1.0.4](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.3...minecraft-bedrock-1.0.4) (2022-06-14)
+### [minecraft-becdrock-1.0.4](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.3...minecraft-bedrock-1.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="minecraft-bedrock-1.0.3"></a>
 
-### [minecraft-bedrock-1.0.3](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.2...minecraft-bedrock-1.0.3) (2022-06-11)
+### [minecraft-becdrock-1.0.3](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.2...minecraft-bedrock-1.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="minecraft-bedrock-1.0.2"></a>
 
-### [minecraft-bedrock-1.0.2](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.1...minecraft-bedrock-1.0.2) (2022-06-07)
+### [minecraft-becdrock-1.0.2](https://github.com/truecharts/apps/compare/minecraft-bedrock-1.0.1...minecraft-bedrock-1.0.2) (2022-06-07)
 
 #### 修复
 
@@ -146,7 +146,7 @@
 
 <a name="minecraft-bedrock-1.0.1"></a>
 
-### [minecraft-bedrock-1.0.1](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.33...minecraft-bedrock-1.0.1) (2022-06-07)
+### [minecraft-becdrock-1.0.1](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.33...minecraft-bedrock-1.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -164,7 +164,7 @@
 
 <a name="minecraft-bedrock-1.0.0"></a>
 
-### [minecraft-bedrock-1.0.0](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.33...minecraft-bedrock-1.0.0) (2022-06-07)
+### [minecraft-becdrock-1.0.0](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.33...minecraft-bedrock-1.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -236,7 +236,7 @@
 
 <a name="minecraft-bedrock-0.0.29"></a>
 
-### [minecraft-bedrock-0.0.29](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.28...minecraft-bedrock-0.0.29) (2022-05-17)
+### [minecraft-beddrock-0.0.29](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.28...minecraft-bedrock-0.0.29) (2022-05-17)
 
 #### 聊天
 
@@ -246,7 +246,7 @@
 
 <a name="minecraft-bedrock-0.0.28"></a>
 
-### [minecraft-bedrock-0.0.28](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.27...minecraft-bedrock-0.0.28) (2022-05-10)
+### [minecraft-beddrock-0.0.28](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.27...minecraft-bedrock-0.0.28) (2022-05-10)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="minecraft-bedrock-0.0.26"></a>
 
-### [minecraft-bedrock-0.0.26](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.25...minecraft-bedrock-0.0.26) (2022-04-26)
+### [minecraft-beddrock-0.0.26](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.25...minecraft-bedrock-0.0.26) (2022-04-26)
 
 #### 聊天
 
@@ -287,7 +287,7 @@
 
 <a name="minecraft-bedrock-0.0.24"></a>
 
-### [minecraft-bedrock-0.0.24](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.23...minecraft-bedrock-0.0.24) (2022-04-12)
+### [minecraft-beddrock-0.0.24](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.23...minecraft-bedrock-0.0.24) (2022-04-12)
 
 #### 聊天
 
@@ -297,7 +297,7 @@
 
 <a name="minecraft-bedrock-0.0.23"></a>
 
-### [minecraft-bedrock-0.0.23](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.22...minecraft-bedrock-0.0.23) (2022-04-03)
+### [minecraft-beddrock-0.0.23](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.22...minecraft-bedrock-0.0.23) (2022-04-03)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="minecraft-bedrock-0.0.20"></a>
 
-### [minecraft-bedrock-0.0.20](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.19...minecraft-bedrock-0.0.20) (2022-03-26)
+### [minecraft-beddrock-0.0.20](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.19...minecraft-bedrock-0.0.20) (2022-03-26)
 
 #### 聊天
 
@@ -337,64 +337,64 @@
 
 <a name="minecraft-bedrock-0.0.17"></a>
 
-### [minecraft-bedrock-0.0.17](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.16...minecraft-bedrock-0.0.17) (2022-03-17)
+### [minecraft-beddrock-0.0.17](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.16...minecraft-bedrock-0.0.17) (2022-03-17)
 
 #### 聊天
 
-* update helm chart common to v9.1.6 ([#2200](https://github.com/truecharts/apps/issues/2200))
+* 更新通用的 v9.1.6 头盔图表([#200](https://github.com/truecharts/apps/issues/2200))
 
 
 
 <a name="minecraft-bedrock-0.0.16"></a>
 
-### [minecraft-bedrock-0.0.16](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.15...minecraft-bedrock-0.0.16) (2022-03-15)
+### [minecraft-beddrock-0.0.16](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.15...minecraft-bedrock-0.0.16) (2022-03-15)
 
 #### 聊天
 
-* update helm chart common to v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
+* 更新通用的头盔图表到 v9.1.4 ([#2181](https://github.com/truecharts/apps/issues/2181))
 
 
 
 <a name="minecraft-bedrock-0.0.15"></a>
 
-### [minecraft-bedrock-0.0.15](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.14...minecraft-bedrock-0.0.15) (2022-03-15)
+### [minecraft-beddrock-0.0.15](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.14...minecraft-bedrock-0.0.15) (2022-03-15)
 
 #### 聊天
 
-* update helm chart common to v9.1.3 ([#2174](https://github.com/truecharts/apps/issues/2174))
+* 更新通用的 v9.1.3 头盔图表([#2174](https://github.com/truecharts/apps/issues/2174))
 
 
 
 <a name="minecraft-bedrock-0.0.14"></a>
 
-### [minecraft-bedrock-0.0.14](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.13...minecraft-bedrock-0.0.14) (2022-03-13)
+### [minecraft-beddrock-0.0.14](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.13...minecraft-bedrock-0.0.14) (2022-03-13)
 
 #### 聊天
 
-* remove UID and GID from values ([#2146](https://github.com/truecharts/apps/issues/2146))
+* 从值中删除 UID 和 GID ([#2146](https://github.com/truecharts/apps/issues/2146))
 
 
 
 <a name="minecraft-bedrock-0.0.13"></a>
 
-### [minecraft-bedrock-0.0.13](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.12...minecraft-bedrock-0.0.13) (2022-03-07)
+### [minecraft-beddrock-0.0.13](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.12...minecraft-bedrock-0.0.13) (2022-03-07)
 
 #### 聊天
 
-* update helm chart common to v9.1.2 ([#2049](https://github.com/truecharts/apps/issues/2049))
+* 更新通用的 v9.1.2 头盔图表([#2049](https://github.com/truecharts/apps/issues/2049))
 * 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
 
 <a name="minecraft-bedrock-0.0.12"></a>
 
-### [minecraft-bedrock-0.0.12](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.11...minecraft-bedrock-0.0.12) (2022-03-03)
+### [minecraft-beddrock-0.0.12](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.11...minecraft-bedrock-0.0.12) (2022-03-03)
 
 #### 聊天
 
 * 从问题.yaml 中移除固定的 env
 * 删除一些丑陋的空格
-* update helm chart common to v9 ([#2011](https://github.com/truecharts/apps/issues/2011))
+* 更新通用到v9的头盔图表([#2011](https://github.com/truecharts/apps/issues/2011))
 
 #### 修复
 
@@ -404,83 +404,83 @@
 
 <a name="minecraft-bedrock-0.0.10"></a>
 
-### [minecraft-bedrock-0.0.10](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.9...minecraft-bedrock-0.0.10) (2022-03-02)
+### [minecraft-beddrock-0.0.10](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.9...minecraft-bedrock-0.0.10) (2022-03-02)
 
 #### 聊天
 
 * 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* update helm chart common to v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
+* 更新通用到v8.17.2 ([#1965](https://github.com/truecharts/apps/issues/1965))
 
 
 
 <a name="minecraft-bedrock-0.0.9"></a>
 
-### [minecraft-bedrock-0.0.9](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.8...minecraft-bedrock-0.0.9) (2022-02-22)
+### [minecraft-beddrock-0.0.9](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.8...minecraft-bedrock-0.0.9) (2022-02-22)
 
 #### 聊天
 
-* update helm chart common to v8.16.1 ([#1940](https://github.com/truecharts/apps/issues/1940))
+* 更新通用到v8.16.1([#1940](https://github.com/truecharts/apps/issues/1940))
 
 
 
 <a name="minecraft-bedrock-0.0.8"></a>
 
-### [minecraft-bedrock-0.0.8](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.7...minecraft-bedrock-0.0.8) (2022-02-22)
+### [minecraft-beddrock-0.0.8](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.7...minecraft-bedrock-0.0.8) (2022-02-22)
 
 #### 聊天
 
-* update helm chart common to v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
+* 更新通用的头盔图表到 v8.16.0 ([#1925](https://github.com/truecharts/apps/issues/1925))
 
 
 
 <a name="minecraft-bedrock-0.0.7"></a>
 
-### [minecraft-bedrock-0.0.7](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.6...minecraft-bedrock-0.0.7) (2022-02-16)
+### [minecraft-beddrock-0.0.7](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.6...minecraft-bedrock-0.0.7) (2022-02-16)
 
 #### 聊天
 
-* update helm chart common to v8.15.4 ([#1879](https://github.com/truecharts/apps/issues/1879))
+* 更新通用的 v8.15.4 头盔图表([#1879](https://github.com/truecharts/apps/issues/1879))
 
 
 
 <a name="minecraft-bedrock-0.0.6"></a>
 
-### [minecraft-bedrock-0.0.6](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.5...minecraft-bedrock-0.0.6) (2022-02-08)
+### [minecraft-beddrock-0.0.6](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.5...minecraft-bedrock-0.0.6) (2022-02-08)
 
 #### 聊天
 
-* update helm chart common to v8.15.2 ([#1870](https://github.com/truecharts/apps/issues/1870))
+* 更新通用到v8.15.2 ([#1870](https://github.com/truecharts/apps/issues/1870))
 
 
 
 <a name="minecraft-bedrock-0.0.5"></a>
 
-### [minecraft-bedrock-0.0.5](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.4...minecraft-bedrock-0.0.5) (2022-02-07)
+### [minecraft-beddrock-0.0.5](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.4...minecraft-bedrock-0.0.5) (2022-02-07)
 
 #### 聊天
 
-* update helm chart common to v8.15.1 ([#1864](https://github.com/truecharts/apps/issues/1864))
+* 更新通用的 v8.15.1 ([#1864](https://github.com/truecharts/apps/issues/1864))
 
 
 
 <a name="minecraft-bedrock-0.0.4"></a>
 
-### [minecraft-bedrock-0.0.4](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.3...minecraft-bedrock-0.0.4) (2022-02-06)
+### [minecraft-beddrock-0.0.4](https://github.com/truecharts/apps/compare/minecraft-bedrock-0.0.3...minecraft-bedrock-0.0.4) (2022-02-06)
 
 #### 聊天
 
-* update helm chart common to v8.15.0 ([#1856](https://github.com/truecharts/apps/issues/1856))
+* 更新通用的 v8.15.0 头盔图表([#1856](https://github.com/truecharts/apps/issues/1856))
 
 
 
 <a name="minecraft-bedrock-0.0.2"></a>
 
-### minecraft-bedrock-0.0.2 (2022-02-04)
+### 矿工-卧室-0.0.2 (2022-02-04)
 
 #### Feat
 
-* add games train and two gameservers ([#1839](https://github.com/truecharts/apps/issues/1839))
+* 添加游戏列车和两个游戏程序([#1839](https://github.com/truecharts/apps/issues/1839))
 
 #### 修复
 
-* correct PUID references
+* 正确的 PUID 引用
