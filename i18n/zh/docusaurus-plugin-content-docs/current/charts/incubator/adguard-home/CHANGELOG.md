@@ -1,195 +1,195 @@
-# Changelog
+# 更新日志
 
 
-## [adguard-home-1.0.20](https://github.com/truecharts/apps/compare/adguard-home-1.0.19...adguard-home-1.0.20) (2022-07-14)
+## [adguard-home 1.0.20](https://github.com/truecharts/apps/compare/adguard-home-1.0.19...adguard-home-1.0.20) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
-
-
-
-## [adguard-home-1.0.19](https://github.com/truecharts/apps/compare/adguard-home-1.0.17...adguard-home-1.0.19) (2022-07-14)
-
-### Fix
-
-- bump to ensure .helmignore is present on all Charts
+- 重新生成目录并更新模板
 
 
 
-## [adguard-home-1.0.17](https://github.com/truecharts/apps/compare/adguard-home-1.0.16...adguard-home-1.0.17) (2022-07-14)
+## [adgu-home 1.0.19](https://github.com/truecharts/apps/compare/adguard-home-1.0.17...adguard-home-1.0.19) (2022-07-14)
 
-### Chore
+### 修复
 
-- update docker general non-major ([#3171](https://github.com/truecharts/apps/issues/3171))
-
-
-
-## [adguard-home-1.0.16](https://github.com/truecharts/apps/compare/adguard-home-1.0.14...adguard-home-1.0.16) (2022-07-12)
-
-### Chore
-
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- bump 以确保.helmnote存在于所有图表
 
 
 
-## [adguard-home-1.0.14](https://github.com/truecharts/apps/compare/adguard-home-1.0.13...adguard-home-1.0.14) (2022-07-12)
+## [adguard-home 1.0.17](https://github.com/truecharts/apps/compare/adguard-home-1.0.16...adguard-home-1.0.17) (2022-07-14)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 更新一般的非主码([#3171](https://github.com/truecharts/apps/issues/3171))
+
+
+
+## [adguard-home 1.0.16](https://github.com/truecharts/apps/compare/adguard-home-1.0.14...adguard-home-1.0.16) (2022-07-12)
+
+### 聊天
+
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
+
+
+
+## [adguard-home 1.0.14](https://github.com/truecharts/apps/compare/adguard-home-1.0.13...adguard-home-1.0.14) (2022-07-12)
+
+### 聊天
+
+- 跳转以重新生成文档
 
 
 
 <a name="adguard-home-1.0.13"></a>
 
-### [adguard-home-1.0.13](https://github.com/truecharts/apps/compare/adguard-home-1.0.12...adguard-home-1.0.13) (2022-07-12)
+### [adguard-home 1.0.13](https://github.com/truecharts/apps/compare/adguard-home-1.0.12...adguard-home-1.0.13) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
 <a name="adguard-home-1.0.12"></a>
 
-### [adguard-home-1.0.12](https://github.com/truecharts/apps/compare/adguard-home-1.0.11...adguard-home-1.0.12) (2022-07-11)
+### [adguard-home 1.0.12](https://github.com/truecharts/apps/compare/adguard-home-1.0.11...adguard-home-1.0.12) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
 <a name="adguard-home-1.0.11"></a>
 
-### [adguard-home-1.0.11](https://github.com/truecharts/apps/compare/adguard-home-1.0.10...adguard-home-1.0.11) (2022-07-10)
+### [adguard-home 1.0.11](https://github.com/truecharts/apps/compare/adguard-home-1.0.10...adguard-home-1.0.11) (2022-07-10)
 
-#### Fix
+#### 修复
 
-* revert combine ports ([#3119](https://github.com/truecharts/apps/issues/3119))
+* 恢复合并端口[#319](https://github.com/truecharts/apps/issues/3119)
 
 
 
 <a name="adguard-home-1.0.10"></a>
 
-### [adguard-home-1.0.10](https://github.com/truecharts/apps/compare/adguard-home-1.0.9...adguard-home-1.0.10) (2022-07-09)
+### [adguard-home 1.0.10](https://github.com/truecharts/apps/compare/adguard-home-1.0.9...adguard-home-1.0.10) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
 <a name="adguard-home-1.0.9"></a>
 
-### [adguard-home-1.0.9](https://github.com/truecharts/apps/compare/adguard-home-1.0.8...adguard-home-1.0.9) (2022-07-09)
+### [adguard-home 1.0.9](https://github.com/truecharts/apps/compare/adguard-home-1.0.8...adguard-home-1.0.9) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* combine some ports ([#3096](https://github.com/truecharts/apps/issues/3096))
+* 合并一些端口[#3096](https://github.com/truecharts/apps/issues/3096)
 
 
 
 <a name="adguard-home-1.0.8"></a>
 
-### [adguard-home-1.0.8](https://github.com/truecharts/apps/compare/adguard-home-1.0.7...adguard-home-1.0.8) (2022-07-04)
+### [adguard-home 1.0.8](https://github.com/truecharts/apps/compare/adguard-home-1.0.7...adguard-home-1.0.8) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
 <a name="adguard-home-1.0.7"></a>
 
-### [adguard-home-1.0.7](https://github.com/truecharts/apps/compare/adguard-home-1.0.6...adguard-home-1.0.7) (2022-06-25)
+### [adguard-home 1.0.7](https://github.com/truecharts/apps/compare/adguard-home-1.0.6...adguard-home-1.0.7) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
 <a name="adguard-home-1.0.6"></a>
 
-### [adguard-home-1.0.6](https://github.com/truecharts/apps/compare/adguard-home-1.0.5...adguard-home-1.0.6) (2022-06-22)
+### [adguard-home 1.0.6](https://github.com/truecharts/apps/compare/adguard-home-1.0.5...adguard-home-1.0.6) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
 <a name="adguard-home-1.0.5"></a>
 
-### [adguard-home-1.0.5](https://github.com/truecharts/apps/compare/adguard-home-1.0.4...adguard-home-1.0.5) (2022-06-21)
+### [adgu-home 1.0.5](https://github.com/truecharts/apps/compare/adguard-home-1.0.4...adguard-home-1.0.5) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
 <a name="adguard-home-1.0.4"></a>
 
-### [adguard-home-1.0.4](https://github.com/truecharts/apps/compare/adguard-home-1.0.3...adguard-home-1.0.4) (2022-06-14)
+### [Adguard-home 1.0.4](https://github.com/truecharts/apps/compare/adguard-home-1.0.3...adguard-home-1.0.4) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
 <a name="adguard-home-1.0.3"></a>
 
-### [adguard-home-1.0.3](https://github.com/truecharts/apps/compare/adguard-home-1.0.2...adguard-home-1.0.3) (2022-06-11)
+### [Adguard-home 1.0.3](https://github.com/truecharts/apps/compare/adguard-home-1.0.2...adguard-home-1.0.3) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
 <a name="adguard-home-1.0.2"></a>
 
-### [adguard-home-1.0.2](https://github.com/truecharts/apps/compare/adguard-home-1.0.1...adguard-home-1.0.2) (2022-06-07)
+### [adguard-home 1.0.2](https://github.com/truecharts/apps/compare/adguard-home-1.0.1...adguard-home-1.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
 <a name="adguard-home-1.0.1"></a>
 
-### [adguard-home-1.0.1](https://github.com/truecharts/apps/compare/adguard-home-0.0.11...adguard-home-1.0.1) (2022-06-07)
+### [adguard-home 1.0.1](https://github.com/truecharts/apps/compare/adguard-home-0.0.11...adguard-home-1.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
-* update docker general non-major ([#2831](https://github.com/truecharts/apps/issues/2831))
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
+* 更新一般的非主基座([#2831](https://github.com/truecharts/apps/issues/2831))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
 <a name="adguard-home-1.0.0"></a>
 
-### [adguard-home-1.0.0](https://github.com/truecharts/apps/compare/adguard-home-0.0.11...adguard-home-1.0.0) (2022-06-07)
+### [adguard-home 1.0.0](https://github.com/truecharts/apps/compare/adguard-home-0.0.11...adguard-home-1.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
