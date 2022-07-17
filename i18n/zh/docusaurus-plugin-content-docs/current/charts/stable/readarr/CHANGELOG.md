@@ -774,7 +774,7 @@
 
 <a name="readarr-9.0.36"></a>
 
-### [readarr-9.0.36](https://github.com/truecharts/apps/compare/readarr-9.0.35...readarr-9.0.36) (2021-12-18)
+### [readarr-9.0.36](https://github.com/truecharts/apps/compare/readarr-9.0.35...readarr-9.0.36) (2021-12-18岁)
 
 #### 聊天
 
@@ -867,7 +867,7 @@
 * 更新非主要的背包头盔版本([#1453](https://github.com/truecharts/apps/issues/1453))
 * 更新非主要([#1449](https://github.com/truecharts/apps/issues/1449))
 * 更新非主要的背包头盔版本([#1471](https://github.com/truecharts/apps/issues/1471))
-* update non-major docker tags ([#1438](https://github.com/truecharts/apps/issues/1438))
+* 更新非主停靠标签[#1438](https://github.com/truecharts/apps/issues/1438)
 * 更新非主要的背包头盔版本([#1432](https://github.com/truecharts/apps/issues/1432))
 
 #### 修复
@@ -933,7 +933,7 @@
 
 #### 聊天
 
-* update non-major docker tags ([#1438](https://github.com/truecharts/apps/issues/1438))
+* 更新非主停靠标签[#1438](https://github.com/truecharts/apps/issues/1438)
 
 
 
@@ -989,7 +989,7 @@
 
 <a name="readarr-9.0.15"></a>
 
-### [readarr-9.0.15](https://github.com/truecharts/apps/compare/readarr-9.0.14...readarr-9.0.15) (2021-11-18)
+### [readarr-9.0.15](https://github.com/truecharts/apps/compare/readarr-9.0.14...readarr-9.0.15) (2021-11-18岁)
 
 #### 聊天
 
@@ -1173,7 +1173,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
