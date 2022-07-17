@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [flaresolverr-6.0.18](https://github.com/truecharts/apps/compare/flaresolverr-6.0.17...flaresolverr-6.0.18) (2022-07-14)
+## [flexresverr-6.0.18](https://github.com/truecharts/apps/compare/flaresolverr-6.0.17...flaresolverr-6.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [flaresolverr-6.0.17](https://github.com/truecharts/apps/compare/flaresolverr-6.0.15...flaresolverr-6.0.17) (2022-07-14)
+## [flexresverr-6.0.17](https://github.com/truecharts/apps/compare/flaresolverr-6.0.15...flaresolverr-6.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [flaresolverr-6.0.15](https://github.com/truecharts/apps/compare/flaresolverr-6.0.13...flaresolverr-6.0.15) (2022-07-12)
+## [Flexverr-6.0.15](https://github.com/truecharts/apps/compare/flaresolverr-6.0.13...flaresolverr-6.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [flaresolverr-6.0.13](https://github.com/truecharts/apps/compare/flaresolverr-6.0.12...flaresolverr-6.0.13) (2022-07-12)
+## [Flexverr-6.0.13](https://github.com/truecharts/apps/compare/flaresolverr-6.0.12...flaresolverr-6.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="flaresolverr-6.0.12"></a>
 
-### [flaresolverr-6.0.12](https://github.com/truecharts/apps/compare/flaresolverr-6.0.11...flaresolverr-6.0.12) (2022-07-12)
+### [Flexverr-6.0.12](https://github.com/truecharts/apps/compare/flaresolverr-6.0.11...flaresolverr-6.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="flaresolverr-6.0.11"></a>
 
-### [flaresolverr-6.0.11](https://github.com/truecharts/apps/compare/flaresolverr-6.0.10...flaresolverr-6.0.11) (2022-07-11)
+### [flexresverr-6.0.11](https://github.com/truecharts/apps/compare/flaresolverr-6.0.10...flaresolverr-6.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="flaresolverr-6.0.10"></a>
 
-### [flaresolverr-6.0.10](https://github.com/truecharts/apps/compare/flaresolverr-6.0.9...flaresolverr-6.0.10) (2022-07-09)
+### [flexresverr-6.0.10](https://github.com/truecharts/apps/compare/flaresolverr-6.0.9...flaresolverr-6.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="flaresolverr-6.0.9"></a>
 
-### [flaresolverr-6.0.9](https://github.com/truecharts/apps/compare/flaresolverr-6.0.8...flaresolverr-6.0.9) (2022-07-04)
+### [Flexverr-6.0.9](https://github.com/truecharts/apps/compare/flaresolverr-6.0.8...flaresolverr-6.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="flaresolverr-6.0.8"></a>
 
-### [flaresolverr-6.0.8](https://github.com/truecharts/apps/compare/flaresolverr-6.0.7...flaresolverr-6.0.8) (2022-06-25)
+### [flaverr-6.0.8](https://github.com/truecharts/apps/compare/flaresolverr-6.0.7...flaresolverr-6.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="flaresolverr-6.0.7"></a>
 
-### [flaresolverr-6.0.7](https://github.com/truecharts/apps/compare/flaresolverr-6.0.6...flaresolverr-6.0.7) (2022-06-22)
+### [flaverr-6.0.7](https://github.com/truecharts/apps/compare/flaresolverr-6.0.6...flaresolverr-6.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="flaresolverr-6.0.6"></a>
 
-### [flaresolverr-6.0.6](https://github.com/truecharts/apps/compare/flaresolverr-6.0.5...flaresolverr-6.0.6) (2022-06-21)
+### [flaverr-6.0.6](https://github.com/truecharts/apps/compare/flaresolverr-6.0.5...flaresolverr-6.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="flaresolverr-6.0.5"></a>
 
-### [flaresolverr-6.0.5](https://github.com/truecharts/apps/compare/flaresolverr-6.0.4...flaresolverr-6.0.5) (2022-06-17)
+### [flaverr-6.0.5](https://github.com/truecharts/apps/compare/flaresolverr-6.0.4...flaresolverr-6.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="flaresolverr-6.0.4"></a>
 
-### [flaresolverr-6.0.4](https://github.com/truecharts/apps/compare/flaresolverr-6.0.3...flaresolverr-6.0.4) (2022-06-14)
+### [flaverr-6.0.4](https://github.com/truecharts/apps/compare/flaresolverr-6.0.3...flaresolverr-6.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="flaresolverr-6.0.3"></a>
 
-### [flaresolverr-6.0.3](https://github.com/truecharts/apps/compare/flaresolverr-6.0.2...flaresolverr-6.0.3) (2022-06-11)
+### [Flexverr-6.0.3](https://github.com/truecharts/apps/compare/flaresolverr-6.0.2...flaresolverr-6.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="flaresolverr-6.0.2"></a>
 
-### [flaresolverr-6.0.2](https://github.com/truecharts/apps/compare/flaresolverr-6.0.1...flaresolverr-6.0.2) (2022-06-07)
+### [flaverr-6.0.2](https://github.com/truecharts/apps/compare/flaresolverr-6.0.1...flaresolverr-6.0.2) (2022-06-07)
 
 #### 修复
 
@@ -146,7 +146,7 @@
 
 <a name="flaresolverr-6.0.1"></a>
 
-### [flaresolverr-6.0.1](https://github.com/truecharts/apps/compare/flaresolverr-5.0.21...flaresolverr-6.0.1) (2022-06-07)
+### [flaverr-6.0.1](https://github.com/truecharts/apps/compare/flaresolverr-5.0.21...flaresolverr-6.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -165,7 +165,7 @@
 
 <a name="flaresolverr-6.0.0"></a>
 
-### [flaresolverr-6.0.0](https://github.com/truecharts/apps/compare/flaresolverr-5.0.21...flaresolverr-6.0.0) (2022-06-07)
+### [flaverr-6.0.0](https://github.com/truecharts/apps/compare/flaresolverr-5.0.21...flaresolverr-6.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="flaresolverr-5.0.21"></a>
 
-### [flaresolverr-5.0.21](https://github.com/truecharts/apps/compare/flaresolverr-5.0.20...flaresolverr-5.0.21) (2022-05-31)
+### [Flexverr-5.0.21](https://github.com/truecharts/apps/compare/flaresolverr-5.0.20...flaresolverr-5.0.21) (2022-05-31)
 
 #### 聊天
 
@@ -189,7 +189,7 @@
 
 <a name="flaresolverr-5.0.20"></a>
 
-### [flaresolverr-5.0.20](https://github.com/truecharts/apps/compare/flaresolverr-5.0.19...flaresolverr-5.0.20) (2022-05-26)
+### [Flexverr-5.0.20](https://github.com/truecharts/apps/compare/flaresolverr-5.0.19...flaresolverr-5.0.20) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="flaresolverr-5.0.20"></a>
 
-### [flaresolverr-5.0.20](https://github.com/truecharts/apps/compare/flaresolverr-5.0.19...flaresolverr-5.0.20) (2022-05-26)
+### [Flexverr-5.0.20](https://github.com/truecharts/apps/compare/flaresolverr-5.0.19...flaresolverr-5.0.20) (2022-05-26)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="flaresolverr-5.0.19"></a>
 
-### [flaresolverr-5.0.19](https://github.com/truecharts/apps/compare/flaresolverr-5.0.18...flaresolverr-5.0.19) (2022-05-24)
+### [Flexverr-5.0.19](https://github.com/truecharts/apps/compare/flaresolverr-5.0.18...flaresolverr-5.0.19) (2022-05-24)
 
 #### 聊天
 
@@ -220,7 +220,7 @@
 
 <a name="flaresolverr-5.0.18"></a>
 
-### [flaresolverr-5.0.18](https://github.com/truecharts/apps/compare/flaresolverr-5.0.17...flaresolverr-5.0.18) (2022-05-17)
+### [flexresverr-5.0.18](https://github.com/truecharts/apps/compare/flaresolverr-5.0.17...flaresolverr-5.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="flaresolverr-5.0.18"></a>
 
-### [flaresolverr-5.0.18](https://github.com/truecharts/apps/compare/flaresolverr-5.0.17...flaresolverr-5.0.18) (2022-05-17)
+### [flexresverr-5.0.18](https://github.com/truecharts/apps/compare/flaresolverr-5.0.17...flaresolverr-5.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="flaresolverr-5.0.17"></a>
 
-### [flaresolverr-5.0.17](https://github.com/truecharts/apps/compare/flaresolverr-5.0.16...flaresolverr-5.0.17) (2022-05-17)
+### [flexresverr-5.0.17](https://github.com/truecharts/apps/compare/flaresolverr-5.0.16...flaresolverr-5.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="flaresolverr-5.0.16"></a>
 
-### [flaresolverr-5.0.16](https://github.com/truecharts/apps/compare/flaresolverr-5.0.15...flaresolverr-5.0.16) (2022-05-10)
+### [Flexverr-5.0.16](https://github.com/truecharts/apps/compare/flaresolverr-5.0.15...flaresolverr-5.0.16) (2022-05-10)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="flaresolverr-5.0.15"></a>
 
-### [flaresolverr-5.0.15](https://github.com/truecharts/apps/compare/flaresolverr-5.0.14...flaresolverr-5.0.15) (2022-05-05)
+### [Flexverr-5.0.15](https://github.com/truecharts/apps/compare/flaresolverr-5.0.14...flaresolverr-5.0.15) (2022-05-05)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="flaresolverr-5.0.14"></a>
 
-### [flaresolverr-5.0.14](https://github.com/truecharts/apps/compare/flaresolverr-5.0.13...flaresolverr-5.0.14) (2022-04-26)
+### [flexresverr-5.0.14](https://github.com/truecharts/apps/compare/flaresolverr-5.0.13...flaresolverr-5.0.14) (2022-04-26)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="flaresolverr-5.0.13"></a>
 
-### [flaresolverr-5.0.13](https://github.com/truecharts/apps/compare/flaresolverr-5.0.12...flaresolverr-5.0.13) (2022-04-20)
+### [Flexverr-5.0.13](https://github.com/truecharts/apps/compare/flaresolverr-5.0.12...flaresolverr-5.0.13) (2022-04-20)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="flaresolverr-5.0.12"></a>
 
-### [flaresolverr-5.0.12](https://github.com/truecharts/apps/compare/flaresolverr-5.0.11...flaresolverr-5.0.12) (2022-04-18)
+### [flexresverr-5.0.12](https://github.com/truecharts/apps/compare/flaresolverr-5.0.11...flaresolverr-5.0.12) (2022-04-18)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="flaresolverr-5.0.11"></a>
 
-### [flaresolverr-5.0.11](https://github.com/truecharts/apps/compare/flaresolverr-5.0.10...flaresolverr-5.0.11) (2022-04-12)
+### [Flexverr-5.0.11](https://github.com/truecharts/apps/compare/flaresolverr-5.0.10...flaresolverr-5.0.11) (2022-04-12)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="flaresolverr-5.0.10"></a>
 
-### [flaresolverr-5.0.10](https://github.com/truecharts/apps/compare/flaresolverr-5.0.9...flaresolverr-5.0.10) (2022-04-03)
+### [Flexverr-5.0.10](https://github.com/truecharts/apps/compare/flaresolverr-5.0.9...flaresolverr-5.0.10) (2022-04-03)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="flaresolverr-5.0.9"></a>
 
-### [flaresolverr-5.0.9](https://github.com/truecharts/apps/compare/flaresolverr-5.0.8...flaresolverr-5.0.9) (2022-03-31)
+### [Flexverr-5.0.9](https://github.com/truecharts/apps/compare/flaresolverr-5.0.8...flaresolverr-5.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="flaresolverr-5.0.8"></a>
 
-### [flaresolverr-5.0.8](https://github.com/truecharts/apps/compare/flaresolverr-5.0.7...flaresolverr-5.0.8) (2022-03-30)
+### [Flexverr-5.0.8](https://github.com/truecharts/apps/compare/flaresolverr-5.0.7...flaresolverr-5.0.8) (2022-03-30)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="flaresolverr-5.0.7"></a>
 
-### [flaresolverr-5.0.7](https://github.com/truecharts/apps/compare/flaresolverr-5.0.6...flaresolverr-5.0.7) (2022-03-26)
+### [flexresverr-5.0.7](https://github.com/truecharts/apps/compare/flaresolverr-5.0.6...flaresolverr-5.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -352,7 +352,7 @@
 
 <a name="flaresolverr-5.0.4"></a>
 
-### [flaresolverr-5.0.4](https://github.com/truecharts/apps/compare/flaresolverr-5.0.3...flaresolverr-5.0.4) (2022-03-20)
+### [Flexverr-5.0.4](https://github.com/truecharts/apps/compare/flaresolverr-5.0.3...flaresolverr-5.0.4) (2022-03-20)
 
 #### 聊天
 
@@ -362,7 +362,7 @@
 
 <a name="flaresolverr-5.0.1"></a>
 
-### [flaresolverr-5.0.1](https://github.com/truecharts/apps/compare/flaresolverr-5.0.0...flaresolverr-5.0.1) (2022-03-07)
+### [Flexverr-5.0.1](https://github.com/truecharts/apps/compare/flaresolverr-5.0.0...flaresolverr-5.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -390,7 +390,7 @@
 
 <a name="flaresolverr-4.0.46"></a>
 
-### [flaresolverr-4.0.46](https://github.com/truecharts/apps/compare/flaresolverr-4.0.45...flaresolverr-4.0.46) (2022-03-02)
+### [Flexverr-4.0.46](https://github.com/truecharts/apps/compare/flaresolverr-4.0.45...flaresolverr-4.0.46) (2022-03-02)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="flaresolverr-4.0.45"></a>
 
-### [flaresolverr-4.0.45](https://github.com/truecharts/apps/compare/flaresolverr-4.0.44...flaresolverr-4.0.45) (2022-02-21)
+### [Flexverr-4.0.45](https://github.com/truecharts/apps/compare/flaresolverr-4.0.44...flaresolverr-4.0.45) (2022-02-21)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="flaresolverr-4.0.44"></a>
 
-### [flaresolverr-4.0.44](https://github.com/truecharts/apps/compare/flaresolverr-4.0.43...flaresolverr-4.0.44) (2022-02-15)
+### [flexresverr-4.0.44](https://github.com/truecharts/apps/compare/flaresolverr-4.0.43...flaresolverr-4.0.44) (2022-02-15)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="flaresolverr-4.0.43"></a>
 
-### [flaresolverr-4.0.43](https://github.com/truecharts/apps/compare/flaresolverr-4.0.42...flaresolverr-4.0.43) (2022-02-10)
+### [Flexverr-4.0.43](https://github.com/truecharts/apps/compare/flaresolverr-4.0.42...flaresolverr-4.0.43) (2022-02-10)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="flaresolverr-4.0.42"></a>
 
-### [flaresolverr-4.0.42](https://github.com/truecharts/apps/compare/flaresolverr-4.0.41...flaresolverr-4.0.42) (2022-02-08)
+### [Flexverr-4.0.42](https://github.com/truecharts/apps/compare/flaresolverr-4.0.41...flaresolverr-4.0.42) (2022-02-08)
 
 #### 聊天
 
@@ -442,7 +442,7 @@
 
 <a name="flaresolverr-4.0.41"></a>
 
-### [flaresolverr-4.0.41](https://github.com/truecharts/apps/compare/flaresolverr-4.0.40...flaresolverr-4.0.41) (2022-02-06)
+### [Flexverr-4.0.41](https://github.com/truecharts/apps/compare/flaresolverr-4.0.40...flaresolverr-4.0.41) (2022-02-06)
 
 #### 聊天
 
@@ -452,7 +452,7 @@
 
 <a name="flaresolverr-4.0.40"></a>
 
-### [flaresolverr-4.0.40](https://github.com/truecharts/apps/compare/flaresolverr-4.0.39...flaresolverr-4.0.40) (2022-02-05)
+### [火焰解析器-4.0.40](https://github.com/truecharts/apps/compare/flaresolverr-4.0.39...flaresolverr-4.0.40) (2022-02-05)
 
 #### 聊天
 
@@ -462,7 +462,7 @@
 
 <a name="flaresolverr-4.0.39"></a>
 
-### [flaresolverr-4.0.39](https://github.com/truecharts/apps/compare/flaresolverr-4.0.38...flaresolverr-4.0.39) (2022-02-02)
+### [Flexverr-4.0.39](https://github.com/truecharts/apps/compare/flaresolverr-4.0.38...flaresolverr-4.0.39) (2022-02-02)
 
 #### 聊天
 
@@ -472,7 +472,7 @@
 
 <a name="flaresolverr-4.0.38"></a>
 
-### [flaresolverr-4.0.38](https://github.com/truecharts/apps/compare/flaresolverr-4.0.37...flaresolverr-4.0.38) (2022-01-31)
+### [Flexverr-4.0.38](https://github.com/truecharts/apps/compare/flaresolverr-4.0.37...flaresolverr-4.0.38) (2022-01-31)
 
 #### 聊天
 
@@ -482,7 +482,7 @@
 
 <a name="flaresolverr-4.0.37"></a>
 
-### [flaresolverr-4.0.37](https://github.com/truecharts/apps/compare/flaresolverr-4.0.36...flaresolverr-4.0.37) (2022-01-25)
+### [flexresverr-4.0.37](https://github.com/truecharts/apps/compare/flaresolverr-4.0.36...flaresolverr-4.0.37) (2022-01-25)
 
 #### 聊天
 
@@ -492,7 +492,7 @@
 
 <a name="flaresolverr-4.0.36"></a>
 
-### [flaresolverr-4.0.36](https://github.com/truecharts/apps/compare/flaresolverr-4.0.35...flaresolverr-4.0.36) (2022-01-22)
+### [Flexverr-4.0.36](https://github.com/truecharts/apps/compare/flaresolverr-4.0.35...flaresolverr-4.0.36) (2022-01-22)
 
 #### 聊天
 
@@ -502,7 +502,7 @@
 
 <a name="flaresolverr-4.0.35"></a>
 
-### [flaresolverr-4.0.35](https://github.com/truecharts/apps/compare/flaresolverr-4.0.34...flaresolverr-4.0.35) (2022-01-21)
+### [Flexverr-4.0.35](https://github.com/truecharts/apps/compare/flaresolverr-4.0.34...flaresolverr-4.0.35) (2022-01-21)
 
 #### 聊天
 
@@ -516,7 +516,7 @@
 
 <a name="flaresolverr-4.0.34"></a>
 
-### [flaresolverr-4.0.34](https://github.com/truecharts/apps/compare/flaresolverr-4.0.33...flaresolverr-4.0.34) (2022-01-18)
+### [Flexverr-4.0.34](https://github.com/truecharts/apps/compare/flaresolverr-4.0.33...flaresolverr-4.0.34) (2022-01-18)
 
 #### 聊天
 
@@ -526,7 +526,7 @@
 
 <a name="flaresolverr-4.0.33"></a>
 
-### [flaresolverr-4.0.33](https://github.com/truecharts/apps/compare/flaresolverr-4.0.32...flaresolverr-4.0.33) (2022-01-13)
+### [Flexverr-4.0.33](https://github.com/truecharts/apps/compare/flaresolverr-4.0.32...flaresolverr-4.0.33) (2022-01-13)
 
 #### 聊天
 
@@ -540,7 +540,7 @@
 
 <a name="flaresolverr-4.0.32"></a>
 
-### [flaresolverr-4.0.32](https://github.com/truecharts/apps/compare/flaresolverr-4.0.31...flaresolverr-4.0.32) (2022-01-12)
+### [Flexverr-4.0.32](https://github.com/truecharts/apps/compare/flaresolverr-4.0.31...flaresolverr-4.0.32) (2022-01-12)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="flaresolverr-4.0.31"></a>
 
-### [flaresolverr-4.0.31](https://github.com/truecharts/apps/compare/flaresolverr-4.0.30...flaresolverr-4.0.31) (2022-01-11)
+### [Flexverr-4.0.31](https://github.com/truecharts/apps/compare/flaresolverr-4.0.30...flaresolverr-4.0.31) (2022-01-11)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="flaresolverr-4.0.30"></a>
 
-### [flaresolverr-4.0.30](https://github.com/truecharts/apps/compare/flaresolverr-4.0.29...flaresolverr-4.0.30) (2022-01-04)
+### [Flexverr-4.0.30](https://github.com/truecharts/apps/compare/flaresolverr-4.0.29...flaresolverr-4.0.30) (2022-01-04)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="flaresolverr-4.0.29"></a>
 
-### [flaresolverr-4.0.29](https://github.com/truecharts/apps/compare/flaresolverr-4.0.28...flaresolverr-4.0.29) (2021-12-28)
+### [Flexverr-4.0.29](https://github.com/truecharts/apps/compare/flaresolverr-4.0.28...flaresolverr-4.0.29) (2021-12-28)
 
 #### 聊天
 
@@ -580,7 +580,7 @@
 
 <a name="flaresolverr-4.0.28"></a>
 
-### [flaresolverr-4.0.28](https://github.com/truecharts/apps/compare/flaresolverr-4.0.27...flaresolverr-4.0.28) (2021-12-21)
+### [Flexverr-4.0.28](https://github.com/truecharts/apps/compare/flaresolverr-4.0.27...flaresolverr-4.0.28) (2021-12-21)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="flaresolverr-4.0.27"></a>
 
-### [flaresolverr-4.0.27](https://github.com/truecharts/apps/compare/flaresolverr-4.0.26...flaresolverr-4.0.27) (2021-12-19)
+### [Flexverr-4.0.27](https://github.com/truecharts/apps/compare/flaresolverr-4.0.26...flaresolverr-4.0.27) (2021-12-19)
 
 #### 聊天
 
@@ -601,7 +601,7 @@
 
 <a name="flaresolverr-4.0.26"></a>
 
-### [flaresolverr-4.0.26](https://github.com/truecharts/apps/compare/flaresolverr-4.0.25...flaresolverr-4.0.26) (2021-12-19)
+### [Flexverr-4.0.26](https://github.com/truecharts/apps/compare/flaresolverr-4.0.25...flaresolverr-4.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="flaresolverr-4.0.25"></a>
 
-### [flaresolverr-4.0.25](https://github.com/truecharts/apps/compare/flaresolverr-4.0.24...flaresolverr-4.0.25) (2021-12-18)
+### [flexresverr-4.0.25](https://github.com/truecharts/apps/compare/flaresolverr-4.0.24...flaresolverr-4.0.25) (2021-12-18岁)
 
 #### 聊天
 
@@ -623,7 +623,7 @@
 
 <a name="flaresolverr-4.0.24"></a>
 
-### [flaresolverr-4.0.24](https://github.com/truecharts/apps/compare/flaresolverr-4.0.23...flaresolverr-4.0.24) (2021-12-14)
+### [Flexverr-4.0.24](https://github.com/truecharts/apps/compare/flaresolverr-4.0.23...flaresolverr-4.0.24) (2021-12-14)
 
 #### 聊天
 
@@ -633,7 +633,7 @@
 
 <a name="flaresolverr-4.0.23"></a>
 
-### [flaresolverr-4.0.23](https://github.com/truecharts/apps/compare/flaresolverr-4.0.22...flaresolverr-4.0.23) (2021-12-13)
+### [Flexverr-4.0.23](https://github.com/truecharts/apps/compare/flaresolverr-4.0.22...flaresolverr-4.0.23) (2021-12-13)
 
 #### 聊天
 
@@ -643,7 +643,7 @@
 
 <a name="flaresolverr-4.0.22"></a>
 
-### [flaresolverr-4.0.22](https://github.com/truecharts/apps/compare/flaresolverr-4.0.21...flaresolverr-4.0.22) (2021-12-13)
+### [Flexverr-4.0.22](https://github.com/truecharts/apps/compare/flaresolverr-4.0.21...flaresolverr-4.0.22) (2021-12-13)
 
 #### 聊天
 
@@ -653,7 +653,7 @@
 
 <a name="flaresolverr-4.0.21"></a>
 
-### [flaresolverr-4.0.21](https://github.com/truecharts/apps/compare/flaresolverr-4.0.20...flaresolverr-4.0.21) (2021-12-11)
+### [Flexverr-4.0.21](https://github.com/truecharts/apps/compare/flaresolverr-4.0.20...flaresolverr-4.0.21) (2021-12-11)
 
 #### 聊天
 
@@ -663,7 +663,7 @@
 
 <a name="flaresolverr-4.0.20"></a>
 
-### [flaresolverr-4.0.20](https://github.com/truecharts/apps/compare/flaresolverr-4.0.19...flaresolverr-4.0.20) (2021-12-07)
+### [Flexverr-4.0.20](https://github.com/truecharts/apps/compare/flaresolverr-4.0.19...flaresolverr-4.0.20) (2021-12-07)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="flaresolverr-4.0.19"></a>
 
-### flaresolverr-4.0.19 (2021-12-05)
+### Flexerverr-4.0.19 (2021-12-05)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="flaresolverr-4.0.18"></a>
 
-### [flaresolverr-4.0.18](https://github.com/truecharts/apps/compare/flaresolverr-4.0.17...flaresolverr-4.0.18) (2021-12-05)
+### [Flexverr-4.0.18](https://github.com/truecharts/apps/compare/flaresolverr-4.0.17...flaresolverr-4.0.18) (2021-12-05)
 
 #### 聊天
 
@@ -703,7 +703,7 @@
 
 <a name="flaresolverr-4.0.17"></a>
 
-### [flaresolverr-4.0.17](https://github.com/truecharts/apps/compare/flaresolverr-4.0.16...flaresolverr-4.0.17) (2021-12-04)
+### [Flexverr-4.0.17](https://github.com/truecharts/apps/compare/flaresolverr-4.0.16...flaresolverr-4.0.17) (2021-12-04)
 
 #### 聊天
 
@@ -713,7 +713,7 @@
 
 <a name="flaresolverr-4.0.16"></a>
 
-### [flaresolverr-4.0.16](https://github.com/truecharts/apps/compare/flaresolverr-4.0.15...flaresolverr-4.0.16) (2021-12-04)
+### [Flexverr-4.0.16](https://github.com/truecharts/apps/compare/flaresolverr-4.0.15...flaresolverr-4.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -723,7 +723,7 @@
 
 <a name="flaresolverr-4.0.15"></a>
 
-### [flaresolverr-4.0.15](https://github.com/truecharts/apps/compare/flaresolverr-4.0.14...flaresolverr-4.0.15) (2021-12-03)
+### [Flexverr-4.0.15](https://github.com/truecharts/apps/compare/flaresolverr-4.0.14...flaresolverr-4.0.15) (2021-12-03)
 
 #### 聊天
 
@@ -734,7 +734,7 @@
 
 <a name="flaresolverr-4.0.14"></a>
 
-### [flaresolverr-4.0.14](https://github.com/truecharts/apps/compare/flaresolverr-4.0.13...flaresolverr-4.0.14) (2021-11-30)
+### [Flexverr-4.0.14](https://github.com/truecharts/apps/compare/flaresolverr-4.0.13...flaresolverr-4.0.14) (2021-11-30)
 
 #### 聊天
 
@@ -744,7 +744,7 @@
 
 <a name="flaresolverr-4.0.13"></a>
 
-### [flaresolverr-4.0.13](https://github.com/truecharts/apps/compare/flaresolverr-4.0.12...flaresolverr-4.0.13) (2021-11-23)
+### [Flexverr-4.0.13](https://github.com/truecharts/apps/compare/flaresolverr-4.0.12...flaresolverr-4.0.13) (2021-11-23)
 
 #### 聊天
 
@@ -754,7 +754,7 @@
 
 <a name="flaresolverr-4.0.12"></a>
 
-### [flaresolverr-4.0.12](https://github.com/truecharts/apps/compare/flaresolverr-4.0.11...flaresolverr-4.0.12) (2021-11-22)
+### [Flexverr-4.0.12](https://github.com/truecharts/apps/compare/flaresolverr-4.0.11...flaresolverr-4.0.12) (2021-11-22)
 
 #### 聊天
 
@@ -764,7 +764,7 @@
 
 <a name="flaresolverr-4.0.11"></a>
 
-### [flaresolverr-4.0.11](https://github.com/truecharts/apps/compare/flaresolverr-4.0.10...flaresolverr-4.0.11) (2021-11-16)
+### [Flexverr-4.0.11](https://github.com/truecharts/apps/compare/flaresolverr-4.0.10...flaresolverr-4.0.11) (2021-11-16)
 
 #### 聊天
 
@@ -774,7 +774,7 @@
 
 <a name="flaresolverr-4.0.10"></a>
 
-### [flaresolverr-4.0.10](https://github.com/truecharts/apps/compare/flaresolverr-4.0.9...flaresolverr-4.0.10) (2021-11-15)
+### [Flexverr-4.0.10](https://github.com/truecharts/apps/compare/flaresolverr-4.0.9...flaresolverr-4.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -785,7 +785,7 @@
 
 <a name="flaresolverr-4.0.9"></a>
 
-### [flaresolverr-4.0.9](https://github.com/truecharts/apps/compare/flaresolverr-4.0.8...flaresolverr-4.0.9) (2021-11-14)
+### [Flexverr-4.0.9](https://github.com/truecharts/apps/compare/flaresolverr-4.0.8...flaresolverr-4.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -803,7 +803,7 @@
 
 <a name="flaresolverr-4.0.8"></a>
 
-### [flaresolverr-4.0.8](https://github.com/truecharts/apps/compare/flaresolverr-4.0.7...flaresolverr-4.0.8) (2021-11-09)
+### [Flexverr-4.0.8](https://github.com/truecharts/apps/compare/flaresolverr-4.0.7...flaresolverr-4.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -813,7 +813,7 @@
 
 <a name="flaresolverr-4.0.7"></a>
 
-### [flaresolverr-4.0.7](https://github.com/truecharts/apps/compare/flaresolverr-4.0.6...flaresolverr-4.0.7) (2021-11-07)
+### [Flexverr-4.0.7](https://github.com/truecharts/apps/compare/flaresolverr-4.0.6...flaresolverr-4.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -823,7 +823,7 @@
 
 <a name="flaresolverr-4.0.6"></a>
 
-### [flaresolverr-4.0.6](https://github.com/truecharts/apps/compare/flaresolverr-4.0.5...flaresolverr-4.0.6) (2021-11-07)
+### [Flexverr-4.0.6](https://github.com/truecharts/apps/compare/flaresolverr-4.0.5...flaresolverr-4.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -839,13 +839,13 @@
 
 #### 修复
 
-* run app as root ([#1273](https://github.com/truecharts/apps/issues/1273))
+* 以 root 身份运行应用程序([#1273](https://github.com/truecharts/apps/issues/1273))
 
 
 
 <a name="flaresolverr-4.0.5"></a>
 
-### [flaresolverr-4.0.5](https://github.com/truecharts/apps/compare/flaresolverr-4.0.4...flaresolverr-4.0.5) (2021-11-02)
+### [Flexverr-4.0.5](https://github.com/truecharts/apps/compare/flaresolverr-4.0.4...flaresolverr-4.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -855,7 +855,7 @@
 
 <a name="flaresolverr-4.0.4"></a>
 
-### [flaresolverr-4.0.4](https://github.com/truecharts/apps/compare/flaresolverr-4.0.3...flaresolverr-4.0.4) (2021-11-01)
+### [Flexverr-4.0.4](https://github.com/truecharts/apps/compare/flaresolverr-4.0.3...flaresolverr-4.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -865,7 +865,7 @@
 
 <a name="flaresolverr-4.0.3"></a>
 
-### [flaresolverr-4.0.3](https://github.com/truecharts/apps/compare/flaresolverr-4.0.2...flaresolverr-4.0.3) (2021-11-01)
+### [Flexverr-4.0.3](https://github.com/truecharts/apps/compare/flaresolverr-4.0.2...flaresolverr-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -875,7 +875,7 @@
 
 <a name="flaresolverr-4.0.2"></a>
 
-### [flaresolverr-4.0.2](https://github.com/truecharts/apps/compare/flaresolverr-4.0.1...flaresolverr-4.0.2) (2021-10-26)
+### [Flexverr-4.0.2](https://github.com/truecharts/apps/compare/flaresolverr-4.0.1...flaresolverr-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -885,7 +885,7 @@
 
 <a name="flaresolverr-4.0.1"></a>
 
-### [flaresolverr-4.0.1](https://github.com/truecharts/apps/compare/flaresolverr-4.0.0...flaresolverr-4.0.1) (2021-10-26)
+### [Flexverr-4.0.1](https://github.com/truecharts/apps/compare/flaresolverr-4.0.0...flaresolverr-4.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -896,7 +896,7 @@
 
 <a name="flaresolverr-4.0.0"></a>
 
-### [flaresolverr-4.0.0](https://github.com/truecharts/apps/compare/flaresolverr-3.0.16...flaresolverr-4.0.0) (2021-10-25)
+### [flaverr-4.0.0](https://github.com/truecharts/apps/compare/flaresolverr-3.0.16...flaresolverr-4.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -906,7 +906,7 @@
 
 <a name="flaresolverr-3.0.16"></a>
 
-### [flaresolverr-3.0.16](https://github.com/truecharts/apps/compare/flaresolverr-3.0.15...flaresolverr-3.0.16) (2021-10-20)
+### [flexverr-3.0.16](https://github.com/truecharts/apps/compare/flaresolverr-3.0.15...flaresolverr-3.0.16) (2021-10-20)
 
 #### 聊天
 
@@ -916,7 +916,7 @@
 
 <a name="flaresolverr-3.0.13"></a>
 
-### [flaresolverr-3.0.13](https://github.com/truecharts/apps/compare/flaresolverr-3.0.12...flaresolverr-3.0.13) (2021-10-20)
+### [Flexverr-3.0.13](https://github.com/truecharts/apps/compare/flaresolverr-3.0.12...flaresolverr-3.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -926,7 +926,7 @@
 
 <a name="flaresolverr-3.0.12"></a>
 
-### [flaresolverr-3.0.12](https://github.com/truecharts/apps/compare/flaresolverr-3.0.11...flaresolverr-3.0.12) (2021-10-19)
+### [flexverr-3.0.12](https://github.com/truecharts/apps/compare/flaresolverr-3.0.11...flaresolverr-3.0.12) (2021-10-19)
 
 #### 更改
 
@@ -950,7 +950,7 @@
 
 <a name="flaresolverr-3.0.11"></a>
 
-### [flaresolverr-3.0.11](https://github.com/truecharts/apps/compare/flaresolverr-3.0.10...flaresolverr-3.0.11) (2021-10-19)
+### [flexverr-3.0.11](https://github.com/truecharts/apps/compare/flaresolverr-3.0.10...flaresolverr-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -960,7 +960,7 @@
 
 <a name="flaresolverr-3.0.10"></a>
 
-### [flaresolverr-3.0.10](https://github.com/truecharts/apps/compare/flaresolverr-3.0.9...flaresolverr-3.0.10) (2021-10-19)
+### [flexverr-3.0.10](https://github.com/truecharts/apps/compare/flaresolverr-3.0.9...flaresolverr-3.0.10) (2021-10-19)
 
 #### 修复
 
@@ -970,7 +970,7 @@
 
 <a name="flaresolverr-3.0.9"></a>
 
-### [flaresolverr-3.0.9](https://github.com/truecharts/apps/compare/flaresolverr-3.0.8...flaresolverr-3.0.9) (2021-10-18)
+### [flexverr-3.0.9](https://github.com/truecharts/apps/compare/flaresolverr-3.0.8...flaresolverr-3.0.9) (2021-10-18)
 
 #### 聊天
 
@@ -984,7 +984,7 @@
 
 <a name="flaresolverr-3.0.8"></a>
 
-### [flaresolverr-3.0.8](https://github.com/truecharts/apps/compare/flaresolverr-3.0.7...flaresolverr-3.0.8) (2021-10-17)
+### [flexverr-3.0.8](https://github.com/truecharts/apps/compare/flaresolverr-3.0.7...flaresolverr-3.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -998,7 +998,7 @@
 
 <a name="flaresolverr-3.0.7"></a>
 
-### [flaresolverr-3.0.7](https://github.com/truecharts/apps/compare/flaresolverr-3.0.6...flaresolverr-3.0.7) (2021-10-13)
+### [flexverr-3.0.7](https://github.com/truecharts/apps/compare/flaresolverr-3.0.6...flaresolverr-3.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -1008,7 +1008,7 @@
 
 <a name="flaresolverr-3.0.6"></a>
 
-### [flaresolverr-3.0.6](https://github.com/truecharts/apps/compare/flaresolverr-3.0.5...flaresolverr-3.0.6) (2021-10-12)
+### [flexverr-3.0.6](https://github.com/truecharts/apps/compare/flaresolverr-3.0.5...flaresolverr-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -1018,7 +1018,7 @@
 
 <a name="flaresolverr-3.0.5"></a>
 
-### [flaresolverr-3.0.5](https://github.com/truecharts/apps/compare/flaresolverr-3.0.4...flaresolverr-3.0.5) (2021-10-12)
+### [Flexverr-3.0.5](https://github.com/truecharts/apps/compare/flaresolverr-3.0.4...flaresolverr-3.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -1028,7 +1028,7 @@
 
 <a name="flaresolverr-3.0.4"></a>
 
-### [flaresolverr-3.0.4](https://github.com/truecharts/apps/compare/flaresolverr-3.0.3...flaresolverr-3.0.4) (2021-10-05)
+### [flexverr-3.0.4](https://github.com/truecharts/apps/compare/flaresolverr-3.0.3...flaresolverr-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1038,7 +1038,7 @@
 
 <a name="flaresolverr-3.0.3"></a>
 
-### [flaresolverr-3.0.3](https://github.com/truecharts/apps/compare/flaresolverr-3.0.2...flaresolverr-3.0.3) (2021-09-29)
+### [Flexverr-3.0.3](https://github.com/truecharts/apps/compare/flaresolverr-3.0.2...flaresolverr-3.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1048,19 +1048,19 @@
 
 <a name="flaresolverr-3.0.1"></a>
 
-### [flaresolverr-3.0.1](https://github.com/truecharts/apps/compare/flaresolverr-3.0.0...flaresolverr-3.0.1) (2021-09-26)
+### [flexresverr-3.0.1](https://github.com/truecharts/apps/compare/flaresolverr-3.0.0...flaresolverr-3.0.1) (2021-09-26)
 
 
 
 <a name="flaresolverr-3.0.0"></a>
 
-### [flaresolverr-3.0.0](https://github.com/truecharts/apps/compare/flaresolverr-2.0.2...flaresolverr-3.0.0) (2021-09-26)
+### [flexresverr-3.0.0](https://github.com/truecharts/apps/compare/flaresolverr-2.0.2...flaresolverr-3.0.0) (2021-09-26)
 
 
 
 <a name="flaresolverr-2.0.2"></a>
 
-### [flaresolverr-2.0.2](https://github.com/truecharts/apps/compare/flaresolverr-2.0.1...flaresolverr-2.0.2) (2021-09-21)
+### [flaverr-2.0.2](https://github.com/truecharts/apps/compare/flaresolverr-2.0.1...flaresolverr-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1070,7 +1070,7 @@
 
 <a name="flaresolverr-2.0.1"></a>
 
-### [flaresolverr-2.0.1](https://github.com/truecharts/apps/compare/flaresolverr-1.9.15...flaresolverr-2.0.1) (2021-09-13)
+### [flaverr-2.0.1](https://github.com/truecharts/apps/compare/flaresolverr-1.9.15...flaresolverr-2.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1089,7 +1089,7 @@
 
 <a name="flaresolverr-1.9.15"></a>
 
-## [flaresolverr-1.9.15](https://github.com/truecharts/apps/compare/flaresolverr-1.9.14...flaresolverr-1.9.15) (2021-09-08)
+## [flaverr-1.9.15](https://github.com/truecharts/apps/compare/flaresolverr-1.9.14...flaresolverr-1.9.15) (2021-09-08)
 
 ### 修复
 
