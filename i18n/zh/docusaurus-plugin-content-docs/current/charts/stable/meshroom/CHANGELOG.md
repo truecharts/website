@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [meshroom-2.0.17](https://github.com/truecharts/apps/compare/meshroom-2.0.16...meshroom-2.0.17) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [meshroom-2.0.16](https://github.com/truecharts/apps/compare/meshroom-2.0.14...meshroom-2.0.16) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [meshroom-2.0.14](https://github.com/truecharts/apps/compare/meshroom-2.0.12...meshroom-2.0.14) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [meshroom-2.0.12](https://github.com/truecharts/apps/compare/meshroom-2.0.11...meshroom-2.0.12) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [meshroom-2.0.11](https://github.com/truecharts/apps/compare/meshroom-2.0.10...meshroom-2.0.11) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,11 +48,11 @@
 
 ### [meshroom-2.0.10](https://github.com/truecharts/apps/compare/meshroom-2.0.9...meshroom-2.0.10) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
-* add markdownlint and cpell config files (and apply some linting) ([#3140](https://github.com/truecharts/apps/issues/3140))
+* 自动更新README图表 [跳过 ci]
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 添加 markdownline 和 cpell 配置文件(并应用一些行) ([#3140](https://github.com/truecharts/apps/issues/3140))
 
 
 
@@ -60,9 +60,9 @@
 
 ### [meshroom-2.0.9](https://github.com/truecharts/apps/compare/meshroom-2.0.8...meshroom-2.0.9) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -70,9 +70,9 @@
 
 ### [meshroom-2.0.8](https://github.com/truecharts/apps/compare/meshroom-2.0.7...meshroom-2.0.8) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -80,9 +80,9 @@
 
 ### [meshroom-2.0.7](https://github.com/truecharts/apps/compare/meshroom-2.0.6...meshroom-2.0.7) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -90,9 +90,9 @@
 
 ### [meshroom-2.0.6](https://github.com/truecharts/apps/compare/meshroom-2.0.5...meshroom-2.0.6) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -100,9 +100,9 @@
 
 ### [meshroom-2.0.5](https://github.com/truecharts/apps/compare/meshroom-2.0.4...meshroom-2.0.5) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -110,9 +110,9 @@
 
 ### [meshroom-2.0.4](https://github.com/truecharts/apps/compare/meshroom-2.0.3...meshroom-2.0.4) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -120,9 +120,9 @@
 
 ### [meshroom-2.0.3](https://github.com/truecharts/apps/compare/meshroom-2.0.2...meshroom-2.0.3) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -130,9 +130,9 @@
 
 ### [meshroom-2.0.2](https://github.com/truecharts/apps/compare/meshroom-2.0.1...meshroom-2.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -140,18 +140,18 @@
 
 ### [meshroom-2.0.1](https://github.com/truecharts/apps/compare/meshroom-1.0.1...meshroom-2.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -159,13 +159,13 @@
 
 ### [meshroom-2.0.0](https://github.com/truecharts/apps/compare/meshroom-1.0.1...meshroom-2.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -173,9 +173,9 @@
 
 ### [meshroom-1.0.1](https://github.com/truecharts/apps/compare/meshroom-1.0.0...meshroom-1.0.1) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -185,7 +185,7 @@
 
 #### Feat
 
-* move to stable ([#2790](https://github.com/truecharts/apps/issues/2790))
+* 移动到稳定([#2790](https://github.com/truecharts/apps/issues/2790))
 
 
 
