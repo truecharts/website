@@ -1,6 +1,6 @@
 # homar
 
-Homarr is a simple and lightweight homepage for your server, that helps you easily access all of your services in one place.
+Homarr 是您服务器的简单轻量主页，帮助您在一个地方轻松地访问您的所有服务。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
