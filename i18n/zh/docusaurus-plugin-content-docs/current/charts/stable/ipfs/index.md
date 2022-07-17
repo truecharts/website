@@ -1,6 +1,6 @@
 # ipfs
 
-IPFS 是一个全局版本、同行到对等的文件系统。 It combines good ideas from previous systems such Git, BitTorrent, Kademlia, SFS, and the Web. 它就像单个bittorrent Swarm，正在交换git 对象。
+IPFS 是一个全局版本、同行到对等的文件系统。 它综合了以前系统的好想法，例如Git、BitTorrent、Kademlia、SFS和Web。 它就像单个bittorrent Swarm，正在交换git 对象。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
