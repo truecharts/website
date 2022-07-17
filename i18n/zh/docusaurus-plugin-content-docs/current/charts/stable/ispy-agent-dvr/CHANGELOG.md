@@ -266,7 +266,7 @@
 #### 聊天
 
 * 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
-* update container image tccr.io/truecharts/ispy-agent-dvr to v4.0.0.0 ([#2769](https://github.com/truecharts/apps/issues/2769))
+* 将容器图像 tccr.io/truecharts/ispy-agent-dvr 更新为 v4.0.0.0 ([#2769](https://github.com/truecharts/apps/issues/2769))
 
 
 
@@ -479,7 +479,7 @@
 
 #### 修复
 
-* fix rofs ([#2452](https://github.com/truecharts/apps/issues/2452))
+* 修复 rofs ([#2452](https://github.com/truecharts/apps/issues/2452))
 
 
 
@@ -559,7 +559,7 @@
 
 #### 修复
 
-* use same port and targetport for turn service ([#2167](https://github.com/truecharts/apps/issues/2167))
+* 使用相同的端口和目标端口来提供转机服务[#2167](https://github.com/truecharts/apps/issues/2167)
 
 
 
@@ -569,4 +569,4 @@
 
 #### Feat
 
-* Add ispy-agent-dvr ([#2162](https://github.com/truecharts/apps/issues/2162))
+* 添加 ispy-agent-dvr ([#2162](https://github.com/truecharts/apps/issues/2162))
