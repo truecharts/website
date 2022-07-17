@@ -1,6 +1,6 @@
 # focalboard
 
-Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+焦点板是一个开放源码，可自行托雷洛、诺伊和阿萨纳的替代物。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
