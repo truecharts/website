@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [haste-server-6.0.18](https://github.com/truecharts/apps/compare/haste-server-6.0.17...haste-server-6.0.18) (2022-07-14)
+## [急速服务器-6.0.18](https://github.com/truecharts/apps/compare/haste-server-6.0.17...haste-server-6.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [haste-server-6.0.17](https://github.com/truecharts/apps/compare/haste-server-6.0.15...haste-server-6.0.17) (2022-07-14)
+## [急速服务器-6.0.17](https://github.com/truecharts/apps/compare/haste-server-6.0.15...haste-server-6.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [haste-server-6.0.15](https://github.com/truecharts/apps/compare/haste-server-6.0.13...haste-server-6.0.15) (2022-07-12)
+## [急速服务器-6.0.15](https://github.com/truecharts/apps/compare/haste-server-6.0.13...haste-server-6.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [haste-server-6.0.13](https://github.com/truecharts/apps/compare/haste-server-6.0.12...haste-server-6.0.13) (2022-07-12)
+## [急速服务器-6.0.13](https://github.com/truecharts/apps/compare/haste-server-6.0.12...haste-server-6.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="haste-server-6.0.12"></a>
 
-### [haste-server-6.0.12](https://github.com/truecharts/apps/compare/haste-server-6.0.11...haste-server-6.0.12) (2022-07-12)
+### [急速服务器-6.0.12](https://github.com/truecharts/apps/compare/haste-server-6.0.11...haste-server-6.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="haste-server-6.0.11"></a>
 
-### [haste-server-6.0.11](https://github.com/truecharts/apps/compare/haste-server-6.0.10...haste-server-6.0.11) (2022-07-11)
+### [急速服务器-6.0.11](https://github.com/truecharts/apps/compare/haste-server-6.0.10...haste-server-6.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="haste-server-6.0.10"></a>
 
-### [haste-server-6.0.10](https://github.com/truecharts/apps/compare/haste-server-6.0.9...haste-server-6.0.10) (2022-07-09)
+### [急速服务器-6.0.10](https://github.com/truecharts/apps/compare/haste-server-6.0.9...haste-server-6.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="haste-server-6.0.9"></a>
 
-### [haste-server-6.0.9](https://github.com/truecharts/apps/compare/haste-server-6.0.8...haste-server-6.0.9) (2022-07-04)
+### [急速服务器-6.0.9](https://github.com/truecharts/apps/compare/haste-server-6.0.8...haste-server-6.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="haste-server-6.0.8"></a>
 
-### [haste-server-6.0.8](https://github.com/truecharts/apps/compare/haste-server-6.0.7...haste-server-6.0.8) (2022-06-25)
+### [急速服务器-6.0.8](https://github.com/truecharts/apps/compare/haste-server-6.0.7...haste-server-6.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="haste-server-6.0.7"></a>
 
-### [haste-server-6.0.7](https://github.com/truecharts/apps/compare/haste-server-6.0.6...haste-server-6.0.7) (2022-06-22)
+### [急速服务器-6.0.7](https://github.com/truecharts/apps/compare/haste-server-6.0.6...haste-server-6.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="haste-server-6.0.6"></a>
 
-### [haste-server-6.0.6](https://github.com/truecharts/apps/compare/haste-server-6.0.5...haste-server-6.0.6) (2022-06-21)
+### [急速服务器-6.0.6](https://github.com/truecharts/apps/compare/haste-server-6.0.5...haste-server-6.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="haste-server-6.0.5"></a>
 
-### [haste-server-6.0.5](https://github.com/truecharts/apps/compare/haste-server-6.0.4...haste-server-6.0.5) (2022-06-17)
+### [急速服务器-6.0.5](https://github.com/truecharts/apps/compare/haste-server-6.0.4...haste-server-6.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="haste-server-6.0.4"></a>
 
-### [haste-server-6.0.4](https://github.com/truecharts/apps/compare/haste-server-6.0.3...haste-server-6.0.4) (2022-06-14)
+### [急速服务器-6.0.4](https://github.com/truecharts/apps/compare/haste-server-6.0.3...haste-server-6.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="haste-server-6.0.3"></a>
 
-### [haste-server-6.0.3](https://github.com/truecharts/apps/compare/haste-server-6.0.2...haste-server-6.0.3) (2022-06-11)
+### [急速服务器-6.0.3](https://github.com/truecharts/apps/compare/haste-server-6.0.2...haste-server-6.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="haste-server-6.0.2"></a>
 
-### [haste-server-6.0.2](https://github.com/truecharts/apps/compare/haste-server-6.0.1...haste-server-6.0.2) (2022-06-07)
+### [急速服务器-6.0.2](https://github.com/truecharts/apps/compare/haste-server-6.0.1...haste-server-6.0.2) (2022-06-07)
 
 #### 修复
 
@@ -146,7 +146,7 @@
 
 <a name="haste-server-6.0.1"></a>
 
-### [haste-server-6.0.1](https://github.com/truecharts/apps/compare/haste-server-5.0.19...haste-server-6.0.1) (2022-06-07)
+### [急速服务器-6.0.1](https://github.com/truecharts/apps/compare/haste-server-5.0.19...haste-server-6.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="haste-server-5.0.19"></a>
 
-### [haste-server-5.0.19](https://github.com/truecharts/apps/compare/haste-server-5.0.18...haste-server-5.0.19) (2022-05-31)
+### [急速服务器-5.0.19](https://github.com/truecharts/apps/compare/haste-server-5.0.18...haste-server-5.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -189,7 +189,7 @@
 
 <a name="haste-server-5.0.18"></a>
 
-### [haste-server-5.0.18](https://github.com/truecharts/apps/compare/haste-server-5.0.17...haste-server-5.0.18) (2022-05-26)
+### [急速服务器-5.0.18](https://github.com/truecharts/apps/compare/haste-server-5.0.17...haste-server-5.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="haste-server-5.0.18"></a>
 
-### [haste-server-5.0.18](https://github.com/truecharts/apps/compare/haste-server-5.0.17...haste-server-5.0.18) (2022-05-26)
+### [急速服务器-5.0.18](https://github.com/truecharts/apps/compare/haste-server-5.0.17...haste-server-5.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="haste-server-5.0.17"></a>
 
-### [haste-server-5.0.17](https://github.com/truecharts/apps/compare/haste-server-5.0.16...haste-server-5.0.17) (2022-05-24)
+### [急速服务器-5.0.17](https://github.com/truecharts/apps/compare/haste-server-5.0.16...haste-server-5.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -220,7 +220,7 @@
 
 <a name="haste-server-5.0.16"></a>
 
-### [haste-server-5.0.16](https://github.com/truecharts/apps/compare/haste-server-5.0.15...haste-server-5.0.16) (2022-05-17)
+### [急速服务器-5.0.16](https://github.com/truecharts/apps/compare/haste-server-5.0.15...haste-server-5.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="haste-server-5.0.16"></a>
 
-### [haste-server-5.0.16](https://github.com/truecharts/apps/compare/haste-server-5.0.15...haste-server-5.0.16) (2022-05-17)
+### [急速服务器-5.0.16](https://github.com/truecharts/apps/compare/haste-server-5.0.15...haste-server-5.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="haste-server-5.0.15"></a>
 
-### [haste-server-5.0.15](https://github.com/truecharts/apps/compare/haste-server-5.0.14...haste-server-5.0.15) (2022-05-17)
+### [急速服务器-5.0.15](https://github.com/truecharts/apps/compare/haste-server-5.0.14...haste-server-5.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="haste-server-5.0.14"></a>
 
-### [haste-server-5.0.14](https://github.com/truecharts/apps/compare/haste-server-5.0.13...haste-server-5.0.14) (2022-05-10)
+### [急速服务器-5.0.14](https://github.com/truecharts/apps/compare/haste-server-5.0.13...haste-server-5.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="haste-server-5.0.13"></a>
 
-### [haste-server-5.0.13](https://github.com/truecharts/apps/compare/haste-server-5.0.12...haste-server-5.0.13) (2022-05-05)
+### [急速服务器-5.0.13](https://github.com/truecharts/apps/compare/haste-server-5.0.12...haste-server-5.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="haste-server-5.0.12"></a>
 
-### [haste-server-5.0.12](https://github.com/truecharts/apps/compare/haste-server-5.0.11...haste-server-5.0.12) (2022-04-26)
+### [急速服务器-5.0.12](https://github.com/truecharts/apps/compare/haste-server-5.0.11...haste-server-5.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="haste-server-5.0.11"></a>
 
-### [haste-server-5.0.11](https://github.com/truecharts/apps/compare/haste-server-5.0.10...haste-server-5.0.11) (2022-04-20)
+### [急速服务器-5.0.11](https://github.com/truecharts/apps/compare/haste-server-5.0.10...haste-server-5.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="haste-server-5.0.10"></a>
 
-### [haste-server-5.0.10](https://github.com/truecharts/apps/compare/haste-server-5.0.9...haste-server-5.0.10) (2022-04-12)
+### [急速服务器-5.0.10](https://github.com/truecharts/apps/compare/haste-server-5.0.9...haste-server-5.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="haste-server-5.0.9"></a>
 
-### [haste-server-5.0.9](https://github.com/truecharts/apps/compare/haste-server-5.0.8...haste-server-5.0.9) (2022-04-03)
+### [急速服务器-5.0.9](https://github.com/truecharts/apps/compare/haste-server-5.0.8...haste-server-5.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="haste-server-5.0.8"></a>
 
-### [haste-server-5.0.8](https://github.com/truecharts/apps/compare/haste-server-5.0.7...haste-server-5.0.8) (2022-03-31)
+### [急速服务器-5.0.8](https://github.com/truecharts/apps/compare/haste-server-5.0.7...haste-server-5.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="haste-server-5.0.7"></a>
 
-### [haste-server-5.0.7](https://github.com/truecharts/apps/compare/haste-server-5.0.6...haste-server-5.0.7) (2022-03-30)
+### [急速服务器-5.0.7](https://github.com/truecharts/apps/compare/haste-server-5.0.6...haste-server-5.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="haste-server-5.0.6"></a>
 
-### [haste-server-5.0.6](https://github.com/truecharts/apps/compare/haste-server-5.0.5...haste-server-5.0.6) (2022-03-26)
+### [急速服务器-5.0.6](https://github.com/truecharts/apps/compare/haste-server-5.0.5...haste-server-5.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="haste-server-5.0.1"></a>
 
-### [haste-server-5.0.1](https://github.com/truecharts/apps/compare/haste-server-5.0.0...haste-server-5.0.1) (2022-03-07)
+### [急速服务器-5.0.1](https://github.com/truecharts/apps/compare/haste-server-5.0.0...haste-server-5.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -353,7 +353,7 @@
 
 <a name="haste-server-5.0.0"></a>
 
-### [haste-server-5.0.0](https://github.com/truecharts/apps/compare/haste-server-4.0.42...haste-server-5.0.0) (2022-03-03)
+### [haste-server-5..0.0](https://github.com/truecharts/apps/compare/haste-server-4.0.42...haste-server-5.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -389,7 +389,7 @@
 
 <a name="haste-server-4.0.40"></a>
 
-### [haste-server-4.0.40](https://github.com/truecharts/apps/compare/haste-server-4.0.39...haste-server-4.0.40) (2022-02-15)
+### [急速服务器-4.0.40](https://github.com/truecharts/apps/compare/haste-server-4.0.39...haste-server-4.0.40) (2022-02-15)
 
 #### 聊天
 
@@ -399,7 +399,7 @@
 
 <a name="haste-server-4.0.39"></a>
 
-### [haste-server-4.0.39](https://github.com/truecharts/apps/compare/haste-server-4.0.38...haste-server-4.0.39) (2022-02-08)
+### [急速服务器-4.0.39](https://github.com/truecharts/apps/compare/haste-server-4.0.38...haste-server-4.0.39) (2022-02-08)
 
 #### 聊天
 
@@ -409,7 +409,7 @@
 
 <a name="haste-server-4.0.38"></a>
 
-### [haste-server-4.0.38](https://github.com/truecharts/apps/compare/haste-server-4.0.37...haste-server-4.0.38) (2022-02-06)
+### [急速服务器-4.0.38](https://github.com/truecharts/apps/compare/haste-server-4.0.37...haste-server-4.0.38) (2022-02-06)
 
 #### 聊天
 
@@ -419,7 +419,7 @@
 
 <a name="haste-server-4.0.37"></a>
 
-### [haste-server-4.0.37](https://github.com/truecharts/apps/compare/haste-server-4.0.36...haste-server-4.0.37) (2022-02-05)
+### [急速服务器-4.0.37](https://github.com/truecharts/apps/compare/haste-server-4.0.36...haste-server-4.0.37) (2022-02-05)
 
 #### 聊天
 
@@ -429,7 +429,7 @@
 
 <a name="haste-server-4.0.36"></a>
 
-### [haste-server-4.0.36](https://github.com/truecharts/apps/compare/haste-server-4.0.35...haste-server-4.0.36) (2022-02-02)
+### [急速服务器-4.0.36](https://github.com/truecharts/apps/compare/haste-server-4.0.35...haste-server-4.0.36) (2022-02-02)
 
 #### 聊天
 
@@ -439,7 +439,7 @@
 
 <a name="haste-server-4.0.35"></a>
 
-### [haste-server-4.0.35](https://github.com/truecharts/apps/compare/haste-server-4.0.34...haste-server-4.0.35) (2022-01-25)
+### [急速服务器-4.0.35](https://github.com/truecharts/apps/compare/haste-server-4.0.34...haste-server-4.0.35) (2022-01-25)
 
 #### 聊天
 
@@ -449,7 +449,7 @@
 
 <a name="haste-server-4.0.34"></a>
 
-### [haste-server-4.0.34](https://github.com/truecharts/apps/compare/haste-server-4.0.33...haste-server-4.0.34) (2022-01-22)
+### [急速服务器-4.0.34](https://github.com/truecharts/apps/compare/haste-server-4.0.33...haste-server-4.0.34) (2022-01-22)
 
 #### 聊天
 
@@ -459,7 +459,7 @@
 
 <a name="haste-server-4.0.33"></a>
 
-### [haste-server-4.0.33](https://github.com/truecharts/apps/compare/haste-server-4.0.32...haste-server-4.0.33) (2022-01-21)
+### [急速服务器-4.0.33](https://github.com/truecharts/apps/compare/haste-server-4.0.32...haste-server-4.0.33) (2022-01-21)
 
 #### 聊天
 
@@ -483,7 +483,7 @@
 
 <a name="haste-server-4.0.31"></a>
 
-### [haste-server-4.0.31](https://github.com/truecharts/apps/compare/haste-server-4.0.30...haste-server-4.0.31) (2022-01-13)
+### [急速服务器-4.0.31](https://github.com/truecharts/apps/compare/haste-server-4.0.30...haste-server-4.0.31) (2022-01-13)
 
 #### 聊天
 
@@ -497,7 +497,7 @@
 
 <a name="haste-server-4.0.30"></a>
 
-### [haste-server-4.0.30](https://github.com/truecharts/apps/compare/haste-server-4.0.29...haste-server-4.0.30) (2022-01-12)
+### [急速服务器-4.0.30](https://github.com/truecharts/apps/compare/haste-server-4.0.29...haste-server-4.0.30) (2022-01-12)
 
 #### 聊天
 
@@ -517,7 +517,7 @@
 
 <a name="haste-server-4.0.28"></a>
 
-### [haste-server-4.0.28](https://github.com/truecharts/apps/compare/haste-server-4.0.27...haste-server-4.0.28) (2022-01-04)
+### [急速服务器-4.0.28](https://github.com/truecharts/apps/compare/haste-server-4.0.27...haste-server-4.0.28) (2022-01-04)
 
 #### 聊天
 
@@ -527,7 +527,7 @@
 
 <a name="haste-server-4.0.27"></a>
 
-### [haste-server-4.0.27](https://github.com/truecharts/apps/compare/haste-server-4.0.26...haste-server-4.0.27) (2021-12-28)
+### [急速服务器-4.0.27](https://github.com/truecharts/apps/compare/haste-server-4.0.26...haste-server-4.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -547,7 +547,7 @@
 
 <a name="haste-server-4.0.25"></a>
 
-### [haste-server-4.0.25](https://github.com/truecharts/apps/compare/haste-server-4.0.24...haste-server-4.0.25) (2021-12-19)
+### [急速服务器-4.0.25](https://github.com/truecharts/apps/compare/haste-server-4.0.24...haste-server-4.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -558,7 +558,7 @@
 
 <a name="haste-server-4.0.24"></a>
 
-### [haste-server-4.0.24](https://github.com/truecharts/apps/compare/haste-server-4.0.23...haste-server-4.0.24) (2021-12-19)
+### [急速服务器-4.0.24](https://github.com/truecharts/apps/compare/haste-server-4.0.23...haste-server-4.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -569,7 +569,7 @@
 
 <a name="haste-server-4.0.23"></a>
 
-### [haste-server-4.0.23](https://github.com/truecharts/apps/compare/haste-server-4.0.22...haste-server-4.0.23) (2021-12-18)
+### [急速服务器-4.0.23](https://github.com/truecharts/apps/compare/haste-server-4.0.22...haste-server-4.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -580,7 +580,7 @@
 
 <a name="haste-server-4.0.22"></a>
 
-### [haste-server-4.0.22](https://github.com/truecharts/apps/compare/haste-server-4.0.21...haste-server-4.0.22) (2021-12-14)
+### [急速服务器-4.0.22](https://github.com/truecharts/apps/compare/haste-server-4.0.21...haste-server-4.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="haste-server-4.0.21"></a>
 
-### [haste-server-4.0.21](https://github.com/truecharts/apps/compare/haste-server-4.0.20...haste-server-4.0.21) (2021-12-13)
+### [急速服务器-4.0.21](https://github.com/truecharts/apps/compare/haste-server-4.0.20...haste-server-4.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -600,7 +600,7 @@
 
 <a name="haste-server-4.0.20"></a>
 
-### [haste-server-4.0.20](https://github.com/truecharts/apps/compare/haste-server-4.0.19...haste-server-4.0.20) (2021-12-11)
+### [急速服务器-4.0.20](https://github.com/truecharts/apps/compare/haste-server-4.0.19...haste-server-4.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -640,7 +640,7 @@
 
 <a name="haste-server-4.0.17"></a>
 
-### [haste-server-4.0.17](https://github.com/truecharts/apps/compare/haste-server-4.0.16...haste-server-4.0.17) (2021-12-05)
+### [急速服务器-4.0.17](https://github.com/truecharts/apps/compare/haste-server-4.0.16...haste-server-4.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -650,7 +650,7 @@
 
 <a name="haste-server-4.0.16"></a>
 
-### [haste-server-4.0.16](https://github.com/truecharts/apps/compare/haste-server-4.0.15...haste-server-4.0.16) (2021-12-04)
+### [急速服务器-4.0.16](https://github.com/truecharts/apps/compare/haste-server-4.0.15...haste-server-4.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -660,7 +660,7 @@
 
 <a name="haste-server-4.0.15"></a>
 
-### [haste-server-4.0.15](https://github.com/truecharts/apps/compare/haste-server-4.0.14...haste-server-4.0.15) (2021-12-04)
+### [急速服务器-4.0.15](https://github.com/truecharts/apps/compare/haste-server-4.0.14...haste-server-4.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -670,7 +670,7 @@
 
 <a name="haste-server-4.0.14"></a>
 
-### [haste-server-4.0.14](https://github.com/truecharts/apps/compare/haste-server-4.0.13...haste-server-4.0.14) (2021-12-03)
+### [急速服务器-4.0.14](https://github.com/truecharts/apps/compare/haste-server-4.0.13...haste-server-4.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -701,7 +701,7 @@
 
 <a name="haste-server-4.0.11"></a>
 
-### [haste-server-4.0.11](https://github.com/truecharts/apps/compare/haste-server-4.0.10...haste-server-4.0.11) (2021-11-22)
+### [急速服务器-4.0.11](https://github.com/truecharts/apps/compare/haste-server-4.0.10...haste-server-4.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -721,7 +721,7 @@
 
 <a name="haste-server-4.0.9"></a>
 
-### [haste-server-4.0.9](https://github.com/truecharts/apps/compare/haste-server-4.0.8...haste-server-4.0.9) (2021-11-15)
+### [急速服务器-4.0.9](https://github.com/truecharts/apps/compare/haste-server-4.0.8...haste-server-4.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -750,7 +750,7 @@
 
 <a name="haste-server-4.0.7"></a>
 
-### [haste-server-4.0.7](https://github.com/truecharts/apps/compare/haste-server-4.0.6...haste-server-4.0.7) (2021-11-09)
+### [急速服务器-4.0.7](https://github.com/truecharts/apps/compare/haste-server-4.0.6...haste-server-4.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -788,7 +788,7 @@
 
 <a name="haste-server-4.0.4"></a>
 
-### [haste-server-4.0.4](https://github.com/truecharts/apps/compare/haste-server-4.0.3...haste-server-4.0.4) (2021-11-02)
+### [急速服务器-4.0.4](https://github.com/truecharts/apps/compare/haste-server-4.0.3...haste-server-4.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -798,7 +798,7 @@
 
 <a name="haste-server-4.0.3"></a>
 
-### [haste-server-4.0.3](https://github.com/truecharts/apps/compare/haste-server-4.0.2...haste-server-4.0.3) (2021-11-01)
+### [急速服务器-4.0.3](https://github.com/truecharts/apps/compare/haste-server-4.0.2...haste-server-4.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -808,7 +808,7 @@
 
 <a name="haste-server-4.0.2"></a>
 
-### [haste-server-4.0.2](https://github.com/truecharts/apps/compare/haste-server-4.0.1...haste-server-4.0.2) (2021-10-26)
+### [急速服务器-4.0.2](https://github.com/truecharts/apps/compare/haste-server-4.0.1...haste-server-4.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -838,7 +838,7 @@
 
 <a name="haste-server-3.0.16"></a>
 
-### [haste-server-3.0.16](https://github.com/truecharts/apps/compare/haste-server-3.0.15...haste-server-3.0.16) (2021-10-20)
+### [急速服务器-3.0.16](https://github.com/truecharts/apps/compare/haste-server-3.0.15...haste-server-3.0.16) (2021-10-20)
 
 #### 聊天
 
@@ -848,7 +848,7 @@
 
 <a name="haste-server-3.0.13"></a>
 
-### [haste-server-3.0.13](https://github.com/truecharts/apps/compare/haste-server-3.0.12...haste-server-3.0.13) (2021-10-20)
+### [急速服务器-3.0.13](https://github.com/truecharts/apps/compare/haste-server-3.0.12...haste-server-3.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -858,7 +858,7 @@
 
 <a name="haste-server-3.0.12"></a>
 
-### [haste-server-3.0.12](https://github.com/truecharts/apps/compare/haste-server-3.0.11...haste-server-3.0.12) (2021-10-19)
+### [急速服务器-3.0.12](https://github.com/truecharts/apps/compare/haste-server-3.0.11...haste-server-3.0.12) (2021-10-19)
 
 #### 更改
 
@@ -882,7 +882,7 @@
 
 <a name="haste-server-3.0.11"></a>
 
-### [haste-server-3.0.11](https://github.com/truecharts/apps/compare/haste-server-3.0.10...haste-server-3.0.11) (2021-10-19)
+### [急速服务器-3.0.11](https://github.com/truecharts/apps/compare/haste-server-3.0.10...haste-server-3.0.11) (2021-10-19)
 
 #### 修复
 
@@ -892,7 +892,7 @@
 
 <a name="haste-server-3.0.10"></a>
 
-### [haste-server-3.0.10](https://github.com/truecharts/apps/compare/haste-server-3.0.9...haste-server-3.0.10) (2021-10-19)
+### [急速服务器-3.0.10](https://github.com/truecharts/apps/compare/haste-server-3.0.9...haste-server-3.0.10) (2021-10-19)
 
 #### 修复
 
@@ -902,7 +902,7 @@
 
 <a name="haste-server-3.0.9"></a>
 
-### [haste-server-3.0.9](https://github.com/truecharts/apps/compare/haste-server-3.0.8...haste-server-3.0.9) (2021-10-18)
+### [急速服务器-3.0.9](https://github.com/truecharts/apps/compare/haste-server-3.0.8...haste-server-3.0.9) (2021-10-18)
 
 #### 重新因子
 
@@ -912,7 +912,7 @@
 
 <a name="haste-server-3.0.8"></a>
 
-### [haste-server-3.0.8](https://github.com/truecharts/apps/compare/haste-server-3.0.7...haste-server-3.0.8) (2021-10-17)
+### [急速服务器-3.0.8](https://github.com/truecharts/apps/compare/haste-server-3.0.7...haste-server-3.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -926,7 +926,7 @@
 
 <a name="haste-server-3.0.7"></a>
 
-### [haste-server-3.0.7](https://github.com/truecharts/apps/compare/haste-server-3.0.6...haste-server-3.0.7) (2021-10-13)
+### [急速服务器-3.0.7](https://github.com/truecharts/apps/compare/haste-server-3.0.6...haste-server-3.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -936,7 +936,7 @@
 
 <a name="haste-server-3.0.6"></a>
 
-### [haste-server-3.0.6](https://github.com/truecharts/apps/compare/haste-server-3.0.5...haste-server-3.0.6) (2021-10-12)
+### [急速服务器-3.0.6](https://github.com/truecharts/apps/compare/haste-server-3.0.5...haste-server-3.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -946,7 +946,7 @@
 
 <a name="haste-server-3.0.5"></a>
 
-### [haste-server-3.0.5](https://github.com/truecharts/apps/compare/haste-server-3.0.4...haste-server-3.0.5) (2021-10-12)
+### [急速服务器-3.0.5](https://github.com/truecharts/apps/compare/haste-server-3.0.4...haste-server-3.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -956,7 +956,7 @@
 
 <a name="haste-server-3.0.4"></a>
 
-### [haste-server-3.0.4](https://github.com/truecharts/apps/compare/haste-server-3.0.3...haste-server-3.0.4) (2021-10-05)
+### [急速服务器-3.0.4](https://github.com/truecharts/apps/compare/haste-server-3.0.3...haste-server-3.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -966,7 +966,7 @@
 
 <a name="haste-server-3.0.3"></a>
 
-### [haste-server-3.0.3](https://github.com/truecharts/apps/compare/haste-server-3.0.2...haste-server-3.0.3) (2021-09-29)
+### [急速服务器-3.0.3](https://github.com/truecharts/apps/compare/haste-server-3.0.2...haste-server-3.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -976,7 +976,7 @@
 
 <a name="haste-server-3.0.1"></a>
 
-### [haste-server-3.0.1](https://github.com/truecharts/apps/compare/haste-server-3.0.0...haste-server-3.0.1) (2021-09-26)
+### [急速服务器-3.0.1](https://github.com/truecharts/apps/compare/haste-server-3.0.0...haste-server-3.0.1) (2021-09-26)
 
 
 
@@ -988,7 +988,7 @@
 
 <a name="haste-server-2.0.2"></a>
 
-### [haste-server-2.0.2](https://github.com/truecharts/apps/compare/haste-server-2.0.1...haste-server-2.0.2) (2021-09-21)
+### [急速服务器-2.0.2](https://github.com/truecharts/apps/compare/haste-server-2.0.1...haste-server-2.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -998,7 +998,7 @@
 
 <a name="haste-server-2.0.1"></a>
 
-### [haste-server-2.0.1](https://github.com/truecharts/apps/compare/haste-server-1.11.15...haste-server-2.0.1) (2021-09-13)
+### [急速服务器-2.0.1](https://github.com/truecharts/apps/compare/haste-server-1.11.15...haste-server-2.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1017,7 +1017,7 @@
 
 <a name="haste-server-1.11.15"></a>
 
-## [haste-server-1.11.15](https://github.com/truecharts/apps/compare/haste-server-1.11.14...haste-server-1.11.15) (2021-09-08)
+## [急速服务器-1.11.15](https://github.com/truecharts/apps/compare/haste-server-1.11.14...haste-server-1.11.15) (2021-09-08)
 
 ### 修复
 
