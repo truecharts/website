@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [mosdns-2.0.19](https://github.com/truecharts/apps/compare/mosdns-2.0.18...mosdns-2.0.19) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [mosdns-2.0.18](https://github.com/truecharts/apps/compare/mosdns-2.0.16...mosdns-2.0.18) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [mosdns-2.0.16](https://github.com/truecharts/apps/compare/mosdns-2.0.14...mosdns-2.0.16) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [mosdns-2.0.14](https://github.com/truecharts/apps/compare/mosdns-2.0.13...mosdns-2.0.14) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [mosdns-2.0.13](https://github.com/truecharts/apps/compare/mosdns-2.0.12...mosdns-2.0.13) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [mosdns-2.0.12](https://github.com/truecharts/apps/compare/mosdns-2.0.11...mosdns-2.0.12) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,7 +58,7 @@
 
 ### [mosdns-2.0.11](https://github.com/truecharts/apps/compare/mosdns-2.0.10...mosdns-2.0.11) (2022-07-10)
 
-#### Chore
+#### 聊天
 
 * update container image tccr.io/truecharts/mosdns to v4.1.3 ([#3035](https://github.com/truecharts/apps/issues/3035))
 
@@ -68,9 +68,9 @@
 
 ### [mosdns-2.0.10](https://github.com/truecharts/apps/compare/mosdns-2.0.9...mosdns-2.0.10) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [mosdns-2.0.9](https://github.com/truecharts/apps/compare/mosdns-2.0.8...mosdns-2.0.9) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [mosdns-2.0.8](https://github.com/truecharts/apps/compare/mosdns-2.0.7...mosdns-2.0.8) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -98,10 +98,10 @@
 
 ### [mosdns-2.0.7](https://github.com/truecharts/apps/compare/mosdns-2.0.6...mosdns-2.0.7) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2954](https://github.com/truecharts/apps/issues/2954))
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新一般的非主码([#2954](https://github.com/truecharts/apps/issues/2954))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -109,9 +109,9 @@
 
 ### [mosdns-2.0.6](https://github.com/truecharts/apps/compare/mosdns-2.0.5...mosdns-2.0.6) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -119,9 +119,9 @@
 
 ### [mosdns-2.0.5](https://github.com/truecharts/apps/compare/mosdns-2.0.4...mosdns-2.0.5) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -129,9 +129,9 @@
 
 ### [mosdns-2.0.4](https://github.com/truecharts/apps/compare/mosdns-2.0.3...mosdns-2.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -139,9 +139,9 @@
 
 ### [mosdns-2.0.3](https://github.com/truecharts/apps/compare/mosdns-2.0.2...mosdns-2.0.3) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2848](https://github.com/truecharts/apps/issues/2848))
+* 更新一般的非主基座([#2848](https://github.com/truecharts/apps/issues/2848))
 
 
 
@@ -149,9 +149,9 @@
 
 ### [mosdns-2.0.2](https://github.com/truecharts/apps/compare/mosdns-2.0.1...mosdns-2.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -159,19 +159,19 @@
 
 ### [mosdns-2.0.1](https://github.com/truecharts/apps/compare/mosdns-1.0.16...mosdns-2.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
-* update docker general non-major ([#2831](https://github.com/truecharts/apps/issues/2831))
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
+* 更新一般的非主基座([#2831](https://github.com/truecharts/apps/issues/2831))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -179,13 +179,13 @@
 
 ### [mosdns-2.0.0](https://github.com/truecharts/apps/compare/mosdns-1.0.16...mosdns-2.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -193,9 +193,9 @@
 
 ### [mosdns-1.0.16](https://github.com/truecharts/apps/compare/mosdns-1.0.15...mosdns-1.0.16) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2826](https://github.com/truecharts/apps/issues/2826))
+* 更新一般的非主要泊车位([#2826](https://github.com/truecharts/apps/issues/2826))
 
 
 
@@ -203,20 +203,9 @@
 
 ### [mosdns-1.0.15](https://github.com/truecharts/apps/compare/mosdns-1.0.14...mosdns-1.0.15) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="mosdns-1.0.14"></a>
-
-### [mosdns-1.0.14](https://github.com/truecharts/apps/compare/mosdns-1.0.13...mosdns-1.0.14) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -224,9 +213,20 @@
 
 ### [mosdns-1.0.14](https://github.com/truecharts/apps/compare/mosdns-1.0.13...mosdns-1.0.14) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="mosdns-1.0.14"></a>
+
+### [mosdns-1.0.14](https://github.com/truecharts/apps/compare/mosdns-1.0.13...mosdns-1.0.14) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -234,20 +234,9 @@
 
 ### [mosdns-1.0.13](https://github.com/truecharts/apps/compare/mosdns-1.0.12...mosdns-1.0.13) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="mosdns-1.0.12"></a>
-
-### [mosdns-1.0.12](https://github.com/truecharts/apps/compare/mosdns-1.0.11...mosdns-1.0.12) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -255,9 +244,20 @@
 
 ### [mosdns-1.0.12](https://github.com/truecharts/apps/compare/mosdns-1.0.11...mosdns-1.0.12) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="mosdns-1.0.12"></a>
+
+### [mosdns-1.0.12](https://github.com/truecharts/apps/compare/mosdns-1.0.11...mosdns-1.0.12) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -265,9 +265,9 @@
 
 ### [mosdns-1.0.11](https://github.com/truecharts/apps/compare/mosdns-1.0.10...mosdns-1.0.11) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -275,9 +275,9 @@
 
 ### [mosdns-1.0.10](https://github.com/truecharts/apps/compare/mosdns-1.0.9...mosdns-1.0.10) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -285,9 +285,9 @@
 
 ### [mosdns-1.0.9](https://github.com/truecharts/apps/compare/mosdns-1.0.8...mosdns-1.0.9) (2022-05-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2639](https://github.com/truecharts/apps/issues/2639))
+* 更新一般的非主码([#2639](https://github.com/truecharts/apps/issues/2639))
 
 
 
@@ -295,9 +295,9 @@
 
 ### [mosdns-1.0.8](https://github.com/truecharts/apps/compare/mosdns-1.0.7...mosdns-1.0.8) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -305,9 +305,9 @@
 
 ### [mosdns-1.0.7](https://github.com/truecharts/apps/compare/mosdns-1.0.6...mosdns-1.0.7) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2606](https://github.com/truecharts/apps/issues/2606))
+* 更新一般的非主码([#2606](https://github.com/truecharts/apps/issues/2606))
 
 
 
@@ -315,9 +315,9 @@
 
 ### [mosdns-1.0.6](https://github.com/truecharts/apps/compare/mosdns-1.0.5...mosdns-1.0.6) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -325,10 +325,10 @@
 
 ### [mosdns-1.0.5](https://github.com/truecharts/apps/compare/mosdns-1.0.4...mosdns-1.0.5) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -336,9 +336,9 @@
 
 ### [mosdns-1.0.4](https://github.com/truecharts/apps/compare/mosdns-1.0.3...mosdns-1.0.4) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -346,9 +346,9 @@
 
 ### [mosdns-1.0.3](https://github.com/truecharts/apps/compare/mosdns-1.0.2...mosdns-1.0.3) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2478](https://github.com/truecharts/apps/issues/2478))
+* 更新一般的非主基座([#2478](https://github.com/truecharts/apps/issues/2478))
 
 
 
@@ -356,9 +356,9 @@
 
 ### [mosdns-1.0.2](https://github.com/truecharts/apps/compare/mosdns-1.0.1...mosdns-1.0.2) (2022-04-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2460](https://github.com/truecharts/apps/issues/2460))
+* 更新一般的非主码([#2460](https://github.com/truecharts/apps/issues/2460))
 
 
 
@@ -366,9 +366,9 @@
 
 ### [mosdns-1.0.1](https://github.com/truecharts/apps/compare/mosdns-1.0.0...mosdns-1.0.1) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
@@ -376,9 +376,9 @@
 
 ### [mosdns-1.0.0](https://github.com/truecharts/apps/compare/mosdns-0.0.4...mosdns-1.0.0) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update image refs ([#2411](https://github.com/truecharts/apps/issues/2411))
+* 更新图像引用([#2411](https://github.com/truecharts/apps/issues/2411))
 
 
 
@@ -386,9 +386,9 @@
 
 ### [mosdns-0.0.3](https://github.com/truecharts/apps/compare/mosdns-0.0.2...mosdns-0.0.3) (2022-04-01)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -396,7 +396,7 @@
 
 ### [mosdns-0.0.2](https://github.com/truecharts/apps/compare/mosdns-0.0.1...mosdns-0.0.2) (2022-03-31)
 
-#### Fix
+#### 修复
 
 * Remove portal ([#2364](https://github.com/truecharts/apps/issues/2364))
 
