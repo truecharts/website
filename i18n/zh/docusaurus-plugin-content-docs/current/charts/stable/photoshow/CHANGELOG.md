@@ -169,7 +169,7 @@
 
 <a name="photoshow-2.0.19"></a>
 
-### [photoshow-2.0.19](https://github.com/truecharts/apps/compare/photoshow-2.0.18...photoshow-2.0.19) (2022-05-31)
+### [照片助手-2.0.19](https://github.com/truecharts/apps/compare/photoshow-2.0.18...photoshow-2.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="photoshow-2.0.18"></a>
 
-### [photoshow-2.0.18](https://github.com/truecharts/apps/compare/photoshow-2.0.17...photoshow-2.0.18) (2022-05-26)
+### [照片助手-2.0.18](https://github.com/truecharts/apps/compare/photoshow-2.0.17...photoshow-2.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="photoshow-2.0.18"></a>
 
-### [photoshow-2.0.18](https://github.com/truecharts/apps/compare/photoshow-2.0.17...photoshow-2.0.18) (2022-05-26)
+### [照片助手-2.0.18](https://github.com/truecharts/apps/compare/photoshow-2.0.17...photoshow-2.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="photoshow-2.0.17"></a>
 
-### [photoshow-2.0.17](https://github.com/truecharts/apps/compare/photoshow-2.0.16...photoshow-2.0.17) (2022-05-24)
+### [照片助手-2.0.17](https://github.com/truecharts/apps/compare/photoshow-2.0.16...photoshow-2.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="photoshow-2.0.16"></a>
 
-### [photoshow-2.0.16](https://github.com/truecharts/apps/compare/photoshow-2.0.15...photoshow-2.0.16) (2022-05-17)
+### [照片助手-2.0.16](https://github.com/truecharts/apps/compare/photoshow-2.0.15...photoshow-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="photoshow-2.0.16"></a>
 
-### [photoshow-2.0.16](https://github.com/truecharts/apps/compare/photoshow-2.0.15...photoshow-2.0.16) (2022-05-17)
+### [照片助手-2.0.16](https://github.com/truecharts/apps/compare/photoshow-2.0.15...photoshow-2.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="photoshow-2.0.15"></a>
 
-### [photoshow-2.0.15](https://github.com/truecharts/apps/compare/photoshow-2.0.14...photoshow-2.0.15) (2022-05-17)
+### [照片助手-2.0.15](https://github.com/truecharts/apps/compare/photoshow-2.0.14...photoshow-2.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="photoshow-2.0.14"></a>
 
-### [photoshow-2.0.14](https://github.com/truecharts/apps/compare/photoshow-2.0.13...photoshow-2.0.14) (2022-05-10)
+### [照片助手-2.0.14](https://github.com/truecharts/apps/compare/photoshow-2.0.13...photoshow-2.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="photoshow-2.0.13"></a>
 
-### [photoshow-2.0.13](https://github.com/truecharts/apps/compare/photoshow-2.0.12...photoshow-2.0.13) (2022-05-05)
+### [照片助手-2.0.13](https://github.com/truecharts/apps/compare/photoshow-2.0.12...photoshow-2.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="photoshow-2.0.12"></a>
 
-### [photoshow-2.0.12](https://github.com/truecharts/apps/compare/photoshow-2.0.11...photoshow-2.0.12) (2022-04-26)
+### [照片助手-2.0.12](https://github.com/truecharts/apps/compare/photoshow-2.0.11...photoshow-2.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="photoshow-2.0.11"></a>
 
-### [photoshow-2.0.11](https://github.com/truecharts/apps/compare/photoshow-2.0.10...photoshow-2.0.11) (2022-04-20)
+### [照片助手-2.0.11](https://github.com/truecharts/apps/compare/photoshow-2.0.10...photoshow-2.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="photoshow-2.0.10"></a>
 
-### [photoshow-2.0.10](https://github.com/truecharts/apps/compare/photoshow-2.0.9...photoshow-2.0.10) (2022-04-12)
+### [照片助手-2.0.10](https://github.com/truecharts/apps/compare/photoshow-2.0.9...photoshow-2.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="photoshow-2.0.9"></a>
 
-### [photoshow-2.0.9](https://github.com/truecharts/apps/compare/photoshow-2.0.8...photoshow-2.0.9) (2022-04-03)
+### [照片助手-2.0.9](https://github.com/truecharts/apps/compare/photoshow-2.0.8...photoshow-2.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="photoshow-2.0.8"></a>
 
-### [photoshow-2.0.8](https://github.com/truecharts/apps/compare/photoshow-2.0.7...photoshow-2.0.8) (2022-03-31)
+### [照片助手-2.0.8](https://github.com/truecharts/apps/compare/photoshow-2.0.7...photoshow-2.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="photoshow-2.0.7"></a>
 
-### [photoshow-2.0.7](https://github.com/truecharts/apps/compare/photoshow-2.0.6...photoshow-2.0.7) (2022-03-30)
+### [照片助手-2.0.7](https://github.com/truecharts/apps/compare/photoshow-2.0.6...photoshow-2.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="photoshow-2.0.6"></a>
 
-### [photoshow-2.0.6](https://github.com/truecharts/apps/compare/photoshow-2.0.5...photoshow-2.0.6) (2022-03-26)
+### [照片助手-2.0.6](https://github.com/truecharts/apps/compare/photoshow-2.0.5...photoshow-2.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="photoshow-2.0.1"></a>
 
-### [photoshow-2.0.1](https://github.com/truecharts/apps/compare/photoshow-2.0.0...photoshow-2.0.1) (2022-03-07)
+### [照片助手-2.0.1](https://github.com/truecharts/apps/compare/photoshow-2.0.0...photoshow-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="photoshow-1.0.46"></a>
 
-### [photoshow-1.0.46](https://github.com/truecharts/apps/compare/photoshow-1.0.45...photoshow-1.0.46) (2022-03-02)
+### [照片如何-1.0.46](https://github.com/truecharts/apps/compare/photoshow-1.0.45...photoshow-1.0.46) (2022-03-02)
 
 #### 聊天
 
@@ -371,7 +371,7 @@
 
 <a name="photoshow-1.0.45"></a>
 
-### [photoshow-1.0.45](https://github.com/truecharts/apps/compare/photoshow-1.0.44...photoshow-1.0.45) (2022-02-21)
+### [照片如何-1.0.45](https://github.com/truecharts/apps/compare/photoshow-1.0.44...photoshow-1.0.45) (2022-02-21)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="photoshow-1.0.44"></a>
 
-### [photoshow-1.0.44](https://github.com/truecharts/apps/compare/photoshow-1.0.43...photoshow-1.0.44) (2022-02-15)
+### [照片如何-1.0.44](https://github.com/truecharts/apps/compare/photoshow-1.0.43...photoshow-1.0.44) (2022-02-15)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="photoshow-1.0.41"></a>
 
-### [photoshow-1.0.41](https://github.com/truecharts/apps/compare/photoshow-1.0.40...photoshow-1.0.41) (2022-02-05)
+### [照片如何-1.0.41](https://github.com/truecharts/apps/compare/photoshow-1.0.40...photoshow-1.0.41) (2022-02-05)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="photoshow-1.0.37"></a>
 
-### [photoshow-1.0.37](https://github.com/truecharts/apps/compare/photoshow-1.0.36...photoshow-1.0.37) (2022-01-21)
+### [照片如何-1.0.37](https://github.com/truecharts/apps/compare/photoshow-1.0.36...photoshow-1.0.37) (2022-01-21)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="photoshow-1.0.33"></a>
 
-### [photoshow-1.0.33](https://github.com/truecharts/apps/compare/photoshow-1.0.32...photoshow-1.0.33) (2022-01-11)
+### [照片如何-1.0.33](https://github.com/truecharts/apps/compare/photoshow-1.0.32...photoshow-1.0.33) (2022-01-11)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="photoshow-1.0.32"></a>
 
-### [photoshow-1.0.32](https://github.com/truecharts/apps/compare/photoshow-1.0.31...photoshow-1.0.32) (2022-01-04)
+### [照片如何-1.0.32](https://github.com/truecharts/apps/compare/photoshow-1.0.31...photoshow-1.0.32) (2022-01-04)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="photoshow-1.0.31"></a>
 
-### [photoshow-1.0.31](https://github.com/truecharts/apps/compare/photoshow-1.0.30...photoshow-1.0.31) (2021-12-28)
+### [照片如何-1.0.31](https://github.com/truecharts/apps/compare/photoshow-1.0.30...photoshow-1.0.31) (2021-12-28)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="photoshow-1.0.30"></a>
 
-### [photoshow-1.0.30](https://github.com/truecharts/apps/compare/photoshow-1.0.29...photoshow-1.0.30) (2021-12-21)
+### [照片如何-1.0.30](https://github.com/truecharts/apps/compare/photoshow-1.0.29...photoshow-1.0.30) (2021-12-21)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="photoshow-1.0.29"></a>
 
-### [photoshow-1.0.29](https://github.com/truecharts/apps/compare/photoshow-1.0.28...photoshow-1.0.29) (2021-12-19)
+### [照片如何-1.0.29](https://github.com/truecharts/apps/compare/photoshow-1.0.28...photoshow-1.0.29) (2021-12-19)
 
 #### 聊天
 
@@ -550,7 +550,7 @@
 
 <a name="photoshow-1.0.28"></a>
 
-### [photoshow-1.0.28](https://github.com/truecharts/apps/compare/photoshow-1.0.27...photoshow-1.0.28) (2021-12-19)
+### [照片如何-1.0.28](https://github.com/truecharts/apps/compare/photoshow-1.0.27...photoshow-1.0.28) (2021-12-19)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="photoshow-1.0.27"></a>
 
-### [photoshow-1.0.27](https://github.com/truecharts/apps/compare/photoshow-1.0.26...photoshow-1.0.27) (2021-12-18)
+### [照片如何-1.0.27](https://github.com/truecharts/apps/compare/photoshow-1.0.26...photoshow-1.0.27) (2021-12-18岁)
 
 #### 聊天
 
@@ -572,7 +572,7 @@
 
 <a name="photoshow-1.0.26"></a>
 
-### [photoshow-1.0.26](https://github.com/truecharts/apps/compare/photoshow-1.0.25...photoshow-1.0.26) (2021-12-14)
+### [照片如何-1.0.26](https://github.com/truecharts/apps/compare/photoshow-1.0.25...photoshow-1.0.26) (2021-12-14)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="photoshow-1.0.25"></a>
 
-### [photoshow-1.0.25](https://github.com/truecharts/apps/compare/photoshow-1.0.24...photoshow-1.0.25) (2021-12-13)
+### [照片如何-1.0.25](https://github.com/truecharts/apps/compare/photoshow-1.0.24...photoshow-1.0.25) (2021-12-13)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="photoshow-1.0.24"></a>
 
-### [photoshow-1.0.24](https://github.com/truecharts/apps/compare/photoshow-1.0.23...photoshow-1.0.24) (2021-12-11)
+### [照片如何-1.0.24](https://github.com/truecharts/apps/compare/photoshow-1.0.23...photoshow-1.0.24) (2021-12-11)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="photoshow-1.0.22"></a>
 
-### photoshow-1.0.22 (2021-12-05)
+### 照片-1.0.22 (2021-12-05)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="photoshow-1.0.21"></a>
 
-### [photoshow-1.0.21](https://github.com/truecharts/apps/compare/photoshow-1.0.20...photoshow-1.0.21) (2021-12-05)
+### [照片如何-1.0.21](https://github.com/truecharts/apps/compare/photoshow-1.0.20...photoshow-1.0.21) (2021-12-05)
 
 #### 聊天
 
@@ -642,7 +642,7 @@
 
 <a name="photoshow-1.0.20"></a>
 
-### [photoshow-1.0.20](https://github.com/truecharts/apps/compare/photoshow-1.0.19...photoshow-1.0.20) (2021-12-04)
+### [照片如何-1.0.20](https://github.com/truecharts/apps/compare/photoshow-1.0.19...photoshow-1.0.20) (2021-12-04)
 
 #### 聊天
 
@@ -652,7 +652,7 @@
 
 <a name="photoshow-1.0.19"></a>
 
-### [photoshow-1.0.19](https://github.com/truecharts/apps/compare/photoshow-1.0.18...photoshow-1.0.19) (2021-12-04)
+### [照片助手-1.0.19](https://github.com/truecharts/apps/compare/photoshow-1.0.18...photoshow-1.0.19) (2021-12-04)
 
 #### 聊天
 
@@ -662,7 +662,7 @@
 
 <a name="photoshow-1.0.18"></a>
 
-### [photoshow-1.0.18](https://github.com/truecharts/apps/compare/photoshow-1.0.17...photoshow-1.0.18) (2021-12-03)
+### [照片如何-1.0.18](https://github.com/truecharts/apps/compare/photoshow-1.0.17...photoshow-1.0.18) (2021-12-03)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="photoshow-1.0.17"></a>
 
-### [photoshow-1.0.17](https://github.com/truecharts/apps/compare/photoshow-1.0.16...photoshow-1.0.17) (2021-11-30)
+### [照片如何-1.0.17](https://github.com/truecharts/apps/compare/photoshow-1.0.16...photoshow-1.0.17) (2021-11-30)
 
 #### 聊天
 
@@ -683,7 +683,7 @@
 
 <a name="photoshow-1.0.16"></a>
 
-### [photoshow-1.0.16](https://github.com/truecharts/apps/compare/photoshow-1.0.15...photoshow-1.0.16) (2021-11-30)
+### [照片如何-1.0.16](https://github.com/truecharts/apps/compare/photoshow-1.0.15...photoshow-1.0.16) (2021-11-30)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="photoshow-1.0.14"></a>
 
-### [photoshow-1.0.14](https://github.com/truecharts/apps/compare/photoshow-1.0.13...photoshow-1.0.14) (2021-11-23)
+### [照片如何-1.0.14](https://github.com/truecharts/apps/compare/photoshow-1.0.13...photoshow-1.0.14) (2021-11-23)
 
 #### 聊天
 
@@ -703,7 +703,7 @@
 
 <a name="photoshow-1.0.13"></a>
 
-### [photoshow-1.0.13](https://github.com/truecharts/apps/compare/photoshow-1.0.12...photoshow-1.0.13) (2021-11-22)
+### [照片如何-1.0.13](https://github.com/truecharts/apps/compare/photoshow-1.0.12...photoshow-1.0.13) (2021-11-22)
 
 #### 聊天
 
@@ -713,7 +713,7 @@
 
 <a name="photoshow-1.0.12"></a>
 
-### [photoshow-1.0.12](https://github.com/truecharts/apps/compare/photoshow-1.0.11...photoshow-1.0.12) (2021-11-22)
+### [照片如何-1.0.12](https://github.com/truecharts/apps/compare/photoshow-1.0.11...photoshow-1.0.12) (2021-11-22)
 
 #### 聊天
 
@@ -723,7 +723,7 @@
 
 <a name="photoshow-1.0.11"></a>
 
-### [photoshow-1.0.11](https://github.com/truecharts/apps/compare/photoshow-1.0.10...photoshow-1.0.11) (2021-11-16)
+### [照片如何-1.0.11](https://github.com/truecharts/apps/compare/photoshow-1.0.10...photoshow-1.0.11) (2021-11-16)
 
 #### 聊天
 
@@ -733,7 +733,7 @@
 
 <a name="photoshow-1.0.10"></a>
 
-### [photoshow-1.0.10](https://github.com/truecharts/apps/compare/photoshow-1.0.9...photoshow-1.0.10) (2021-11-15)
+### [照片如何-1.0.10](https://github.com/truecharts/apps/compare/photoshow-1.0.9...photoshow-1.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -744,7 +744,7 @@
 
 <a name="photoshow-1.0.9"></a>
 
-### [photoshow-1.0.9](https://github.com/truecharts/apps/compare/photoshow-1.0.8...photoshow-1.0.9) (2021-11-14)
+### [照片如何-1.0.9](https://github.com/truecharts/apps/compare/photoshow-1.0.8...photoshow-1.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -762,7 +762,7 @@
 
 <a name="photoshow-1.0.8"></a>
 
-### [photoshow-1.0.8](https://github.com/truecharts/apps/compare/photoshow-1.0.7...photoshow-1.0.8) (2021-11-09)
+### [照片如何-1.0.8](https://github.com/truecharts/apps/compare/photoshow-1.0.7...photoshow-1.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -772,7 +772,7 @@
 
 <a name="photoshow-1.0.7"></a>
 
-### [photoshow-1.0.7](https://github.com/truecharts/apps/compare/photoshow-1.0.6...photoshow-1.0.7) (2021-11-07)
+### [照片如何-1.0.7](https://github.com/truecharts/apps/compare/photoshow-1.0.6...photoshow-1.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -782,7 +782,7 @@
 
 <a name="photoshow-1.0.6"></a>
 
-### [photoshow-1.0.6](https://github.com/truecharts/apps/compare/photoshow-1.0.5...photoshow-1.0.6) (2021-11-07)
+### [照片如何-1.0.6](https://github.com/truecharts/apps/compare/photoshow-1.0.5...photoshow-1.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -800,7 +800,7 @@
 
 <a name="photoshow-1.0.5"></a>
 
-### [photoshow-1.0.5](https://github.com/truecharts/apps/compare/photoshow-1.0.4...photoshow-1.0.5) (2021-11-02)
+### [照片如何-1.0.5](https://github.com/truecharts/apps/compare/photoshow-1.0.4...photoshow-1.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -810,7 +810,7 @@
 
 <a name="photoshow-1.0.4"></a>
 
-### [photoshow-1.0.4](https://github.com/truecharts/apps/compare/photoshow-1.0.3...photoshow-1.0.4) (2021-11-01)
+### [照片如何-1.0.4](https://github.com/truecharts/apps/compare/photoshow-1.0.3...photoshow-1.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -820,7 +820,7 @@
 
 <a name="photoshow-1.0.3"></a>
 
-### [photoshow-1.0.3](https://github.com/truecharts/apps/compare/photoshow-1.0.2...photoshow-1.0.3) (2021-11-01)
+### [照片如何-1.0.3](https://github.com/truecharts/apps/compare/photoshow-1.0.2...photoshow-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -830,7 +830,7 @@
 
 <a name="photoshow-1.0.2"></a>
 
-### [photoshow-1.0.2](https://github.com/truecharts/apps/compare/photoshow-1.0.1...photoshow-1.0.2) (2021-10-26)
+### [照片如何-1.0.2](https://github.com/truecharts/apps/compare/photoshow-1.0.1...photoshow-1.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -840,7 +840,7 @@
 
 <a name="photoshow-1.0.1"></a>
 
-### [photoshow-1.0.1](https://github.com/truecharts/apps/compare/photoshow-1.0.0...photoshow-1.0.1) (2021-10-26)
+### [照片如何-1.0.1](https://github.com/truecharts/apps/compare/photoshow-1.0.0...photoshow-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -851,7 +851,7 @@
 
 <a name="photoshow-1.0.0"></a>
 
-### [photoshow-1.0.0](https://github.com/truecharts/apps/compare/photoshow-0.0.12...photoshow-1.0.0) (2021-10-25)
+### [照片如何-1.0.0](https://github.com/truecharts/apps/compare/photoshow-0.0.12...photoshow-1.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -871,7 +871,7 @@
 
 <a name="photoshow-0.0.9"></a>
 
-### [photoshow-0.0.9](https://github.com/truecharts/apps/compare/photoshow-0.0.8...photoshow-0.0.9) (2021-10-20)
+### [照片how-0.0.9](https://github.com/truecharts/apps/compare/photoshow-0.0.8...photoshow-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -940,7 +940,7 @@
 
 <a name="photoshow-0.0.4"></a>
 
-### [photoshow-0.0.4](https://github.com/truecharts/apps/compare/photoshow-0.0.3...photoshow-0.0.4) (2021-10-17)
+### [照片how-0.0.4](https://github.com/truecharts/apps/compare/photoshow-0.0.3...photoshow-0.0.4) (2021-10-17)
 
 #### 聊天
 
@@ -964,7 +964,7 @@
 
 <a name="photoshow-0.0.2"></a>
 
-### [photoshow-0.0.2](https://github.com/truecharts/apps/compare/photoshow-0.0.1...photoshow-0.0.2) (2021-10-13)
+### [照片how-0.0.2](https://github.com/truecharts/apps/compare/photoshow-0.0.1...photoshow-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -974,4 +974,4 @@
 
 <a name="photoshow-0.0.1"></a>
 
-### photoshow-0.0.1 (2021-10-04)
+### 照片如何-0.0.1 (2021-10-04)
