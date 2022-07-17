@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [snapdrop-2.0.23](https://github.com/truecharts/apps/compare/snapdrop-2.0.22...snapdrop-2.0.23) (2022-07-16)
+## [快照-2.0.23](https://github.com/truecharts/apps/compare/snapdrop-2.0.22...snapdrop-2.0.23) (2022-07-16)
 
 ### 聊天
 
@@ -9,7 +9,7 @@
 
 
 
-## [snapdrop-2.0.22](https://github.com/truecharts/apps/compare/snapdrop-2.0.21...snapdrop-2.0.22) (2022-07-14)
+## [快照 2.0.22](https://github.com/truecharts/apps/compare/snapdrop-2.0.21...snapdrop-2.0.22) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [snapdrop-2.0.21](https://github.com/truecharts/apps/compare/snapdrop-2.0.19...snapdrop-2.0.21) (2022-07-14)
+## [快照 2.0.21](https://github.com/truecharts/apps/compare/snapdrop-2.0.19...snapdrop-2.0.21) (2022-07-14)
 
 ### 修复
 
@@ -25,7 +25,7 @@
 
 
 
-## [snapdrop-2.0.19](https://github.com/truecharts/apps/compare/snapdrop-2.0.17...snapdrop-2.0.19) (2022-07-12)
+## [快照 2.0.19](https://github.com/truecharts/apps/compare/snapdrop-2.0.17...snapdrop-2.0.19) (2022-07-12)
 
 ### 聊天
 
@@ -34,7 +34,7 @@
 
 
 
-## [snapdrop-2.0.17](https://github.com/truecharts/apps/compare/snapdrop-2.0.16...snapdrop-2.0.17) (2022-07-12)
+## [快照 2.0.17](https://github.com/truecharts/apps/compare/snapdrop-2.0.16...snapdrop-2.0.17) (2022-07-12)
 
 ### 聊天
 
@@ -44,7 +44,7 @@
 
 <a name="snapdrop-2.0.16"></a>
 
-### [snapdrop-2.0.16](https://github.com/truecharts/apps/compare/snapdrop-2.0.15...snapdrop-2.0.16) (2022-07-12)
+### [快照 2.0.16](https://github.com/truecharts/apps/compare/snapdrop-2.0.15...snapdrop-2.0.16) (2022-07-12)
 
 #### 聊天
 
@@ -54,7 +54,7 @@
 
 <a name="snapdrop-2.0.15"></a>
 
-### [snapdrop-2.0.15](https://github.com/truecharts/apps/compare/snapdrop-2.0.14...snapdrop-2.0.15) (2022-07-11)
+### [快照 2.0.15](https://github.com/truecharts/apps/compare/snapdrop-2.0.14...snapdrop-2.0.15) (2022-07-11)
 
 #### 聊天
 
@@ -64,7 +64,7 @@
 
 <a name="snapdrop-2.0.14"></a>
 
-### [snapdrop-2.0.14](https://github.com/truecharts/apps/compare/snapdrop-2.0.13...snapdrop-2.0.14) (2022-07-09)
+### [快照 2.0.14](https://github.com/truecharts/apps/compare/snapdrop-2.0.13...snapdrop-2.0.14) (2022-07-09)
 
 #### 聊天
 
@@ -74,7 +74,7 @@
 
 <a name="snapdrop-2.0.13"></a>
 
-### [snapdrop-2.0.13](https://github.com/truecharts/apps/compare/snapdrop-2.0.12...snapdrop-2.0.13) (2022-07-09)
+### [快照 2.0.13](https://github.com/truecharts/apps/compare/snapdrop-2.0.12...snapdrop-2.0.13) (2022-07-09)
 
 #### 聊天
 
@@ -84,7 +84,7 @@
 
 <a name="snapdrop-2.0.12"></a>
 
-### [snapdrop-2.0.12](https://github.com/truecharts/apps/compare/snapdrop-2.0.11...snapdrop-2.0.12) (2022-07-04)
+### [快照 2.0.12](https://github.com/truecharts/apps/compare/snapdrop-2.0.11...snapdrop-2.0.12) (2022-07-04)
 
 #### 聊天
 
@@ -94,7 +94,7 @@
 
 <a name="snapdrop-2.0.11"></a>
 
-### [snapdrop-2.0.11](https://github.com/truecharts/apps/compare/snapdrop-2.0.10...snapdrop-2.0.11) (2022-07-02)
+### [快照 2.0.11](https://github.com/truecharts/apps/compare/snapdrop-2.0.10...snapdrop-2.0.11) (2022-07-02)
 
 #### 聊天
 
@@ -104,7 +104,7 @@
 
 <a name="snapdrop-2.0.10"></a>
 
-### [snapdrop-2.0.10](https://github.com/truecharts/apps/compare/snapdrop-2.0.9...snapdrop-2.0.10) (2022-06-25)
+### [快照 2.0.10](https://github.com/truecharts/apps/compare/snapdrop-2.0.9...snapdrop-2.0.10) (2022-06-25)
 
 #### 聊天
 
@@ -114,7 +114,7 @@
 
 <a name="snapdrop-2.0.9"></a>
 
-### [snapdrop-2.0.9](https://github.com/truecharts/apps/compare/snapdrop-2.0.8...snapdrop-2.0.9) (2022-06-25)
+### [快照 2.0.9](https://github.com/truecharts/apps/compare/snapdrop-2.0.8...snapdrop-2.0.9) (2022-06-25)
 
 #### 聊天
 
@@ -124,7 +124,7 @@
 
 <a name="snapdrop-2.0.8"></a>
 
-### [snapdrop-2.0.8](https://github.com/truecharts/apps/compare/snapdrop-2.0.7...snapdrop-2.0.8) (2022-06-22)
+### [快照 2.0.8](https://github.com/truecharts/apps/compare/snapdrop-2.0.7...snapdrop-2.0.8) (2022-06-22)
 
 #### 聊天
 
@@ -134,7 +134,7 @@
 
 <a name="snapdrop-2.0.7"></a>
 
-### [snapdrop-2.0.7](https://github.com/truecharts/apps/compare/snapdrop-2.0.6...snapdrop-2.0.7) (2022-06-21)
+### [快照 2.0.7](https://github.com/truecharts/apps/compare/snapdrop-2.0.6...snapdrop-2.0.7) (2022-06-21)
 
 #### 聊天
 
@@ -144,7 +144,7 @@
 
 <a name="snapdrop-2.0.6"></a>
 
-### [snapdrop-2.0.6](https://github.com/truecharts/apps/compare/snapdrop-2.0.5...snapdrop-2.0.6) (2022-06-18)
+### [快照-2.0.6](https://github.com/truecharts/apps/compare/snapdrop-2.0.5...snapdrop-2.0.6) (2022-06-18)
 
 #### 聊天
 
@@ -154,7 +154,7 @@
 
 <a name="snapdrop-2.0.5"></a>
 
-### [snapdrop-2.0.5](https://github.com/truecharts/apps/compare/snapdrop-2.0.4...snapdrop-2.0.5) (2022-06-14)
+### [快照 2.0.5](https://github.com/truecharts/apps/compare/snapdrop-2.0.4...snapdrop-2.0.5) (2022-06-14)
 
 #### 聊天
 
@@ -164,7 +164,7 @@
 
 <a name="snapdrop-2.0.4"></a>
 
-### [snapdrop-2.0.4](https://github.com/truecharts/apps/compare/snapdrop-2.0.3...snapdrop-2.0.4) (2022-06-11)
+### [快照 2.0.4](https://github.com/truecharts/apps/compare/snapdrop-2.0.3...snapdrop-2.0.4) (2022-06-11)
 
 #### 聊天
 
@@ -174,7 +174,7 @@
 
 <a name="snapdrop-2.0.3"></a>
 
-### [snapdrop-2.0.3](https://github.com/truecharts/apps/compare/snapdrop-2.0.2...snapdrop-2.0.3) (2022-06-11)
+### [快照 2.0.3](https://github.com/truecharts/apps/compare/snapdrop-2.0.2...snapdrop-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -184,7 +184,7 @@
 
 <a name="snapdrop-2.0.2"></a>
 
-### [snapdrop-2.0.2](https://github.com/truecharts/apps/compare/snapdrop-2.0.1...snapdrop-2.0.2) (2022-06-07)
+### [快照 2.0.2](https://github.com/truecharts/apps/compare/snapdrop-2.0.1...snapdrop-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -194,7 +194,7 @@
 
 <a name="snapdrop-2.0.1"></a>
 
-### [snapdrop-2.0.1](https://github.com/truecharts/apps/compare/snapdrop-1.0.14...snapdrop-2.0.1) (2022-06-07)
+### [快照-2.0.1](https://github.com/truecharts/apps/compare/snapdrop-1.0.14...snapdrop-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -213,7 +213,7 @@
 
 <a name="snapdrop-2.0.0"></a>
 
-### [snapdrop-2.0.0](https://github.com/truecharts/apps/compare/snapdrop-1.0.14...snapdrop-2.0.0) (2022-06-07)
+### [快照-2.0.0](https://github.com/truecharts/apps/compare/snapdrop-1.0.14...snapdrop-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -227,7 +227,7 @@
 
 <a name="snapdrop-1.0.14"></a>
 
-### [snapdrop-1.0.14](https://github.com/truecharts/apps/compare/snapdrop-1.0.13...snapdrop-1.0.14) (2022-06-03)
+### [快照 -1.0.14](https://github.com/truecharts/apps/compare/snapdrop-1.0.13...snapdrop-1.0.14) (2022-06-03)
 
 #### 聊天
 
@@ -237,7 +237,7 @@
 
 <a name="snapdrop-1.0.13"></a>
 
-### [snapdrop-1.0.13](https://github.com/truecharts/apps/compare/snapdrop-1.0.12...snapdrop-1.0.13) (2022-05-31)
+### [快照-1.0.13](https://github.com/truecharts/apps/compare/snapdrop-1.0.12...snapdrop-1.0.13) (2022-05-31)
 
 #### 聊天
 
@@ -248,7 +248,7 @@
 
 <a name="snapdrop-1.0.12"></a>
 
-### [snapdrop-1.0.12](https://github.com/truecharts/apps/compare/snapdrop-1.0.11...snapdrop-1.0.12) (2022-05-26)
+### [快照-1.0.12](https://github.com/truecharts/apps/compare/snapdrop-1.0.11...snapdrop-1.0.12) (2022-05-26)
 
 #### 聊天
 
@@ -259,7 +259,7 @@
 
 <a name="snapdrop-1.0.12"></a>
 
-### [snapdrop-1.0.12](https://github.com/truecharts/apps/compare/snapdrop-1.0.11...snapdrop-1.0.12) (2022-05-26)
+### [快照-1.0.12](https://github.com/truecharts/apps/compare/snapdrop-1.0.11...snapdrop-1.0.12) (2022-05-26)
 
 #### 聊天
 
@@ -269,7 +269,7 @@
 
 <a name="snapdrop-1.0.11"></a>
 
-### [snapdrop-1.0.11](https://github.com/truecharts/apps/compare/snapdrop-1.0.10...snapdrop-1.0.11) (2022-05-24)
+### [快照-1.0.11](https://github.com/truecharts/apps/compare/snapdrop-1.0.10...snapdrop-1.0.11) (2022-05-24)
 
 #### 聊天
 
@@ -279,7 +279,7 @@
 
 <a name="snapdrop-1.0.10"></a>
 
-### [snapdrop-1.0.10](https://github.com/truecharts/apps/compare/snapdrop-1.0.9...snapdrop-1.0.10) (2022-05-21)
+### [快照-1.0.10](https://github.com/truecharts/apps/compare/snapdrop-1.0.9...snapdrop-1.0.10) (2022-05-21)
 
 #### 聊天
 
@@ -289,7 +289,7 @@
 
 <a name="snapdrop-1.0.9"></a>
 
-### [snapdrop-1.0.9](https://github.com/truecharts/apps/compare/snapdrop-1.0.8...snapdrop-1.0.9) (2022-05-17)
+### [快照-1.0.9](https://github.com/truecharts/apps/compare/snapdrop-1.0.8...snapdrop-1.0.9) (2022-05-17)
 
 #### 聊天
 
@@ -300,7 +300,7 @@
 
 <a name="snapdrop-1.0.9"></a>
 
-### [snapdrop-1.0.9](https://github.com/truecharts/apps/compare/snapdrop-1.0.8...snapdrop-1.0.9) (2022-05-17)
+### [快照-1.0.9](https://github.com/truecharts/apps/compare/snapdrop-1.0.8...snapdrop-1.0.9) (2022-05-17)
 
 #### 聊天
 
@@ -310,7 +310,7 @@
 
 <a name="snapdrop-1.0.8"></a>
 
-### [snapdrop-1.0.8](https://github.com/truecharts/apps/compare/snapdrop-1.0.7...snapdrop-1.0.8) (2022-05-17)
+### [快照-1.0.8](https://github.com/truecharts/apps/compare/snapdrop-1.0.7...snapdrop-1.0.8) (2022-05-17)
 
 #### 聊天
 
@@ -320,7 +320,7 @@
 
 <a name="snapdrop-1.0.7"></a>
 
-### [snapdrop-1.0.7](https://github.com/truecharts/apps/compare/snapdrop-1.0.6...snapdrop-1.0.7) (2022-05-14)
+### [快照-1.0.7](https://github.com/truecharts/apps/compare/snapdrop-1.0.6...snapdrop-1.0.7) (2022-05-14)
 
 #### 聊天
 
@@ -330,7 +330,7 @@
 
 <a name="snapdrop-1.0.6"></a>
 
-### [snapdrop-1.0.6](https://github.com/truecharts/apps/compare/snapdrop-1.0.5...snapdrop-1.0.6) (2022-05-10)
+### [快照-1.0.6](https://github.com/truecharts/apps/compare/snapdrop-1.0.5...snapdrop-1.0.6) (2022-05-10)
 
 #### 聊天
 
@@ -340,7 +340,7 @@
 
 <a name="snapdrop-1.0.5"></a>
 
-### [snapdrop-1.0.5](https://github.com/truecharts/apps/compare/snapdrop-1.0.4...snapdrop-1.0.5) (2022-05-06)
+### [快照-1.0.5](https://github.com/truecharts/apps/compare/snapdrop-1.0.4...snapdrop-1.0.5) (2022-05-06)
 
 #### 聊天
 
@@ -350,7 +350,7 @@
 
 <a name="snapdrop-1.0.4"></a>
 
-### [snapdrop-1.0.4](https://github.com/truecharts/apps/compare/snapdrop-1.0.3...snapdrop-1.0.4) (2022-05-05)
+### [快照-1.0.4](https://github.com/truecharts/apps/compare/snapdrop-1.0.3...snapdrop-1.0.4) (2022-05-05)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="snapdrop-1.0.3"></a>
 
-### [snapdrop-1.0.3](https://github.com/truecharts/apps/compare/snapdrop-1.0.2...snapdrop-1.0.3) (2022-05-04)
+### [快照-1.0.3](https://github.com/truecharts/apps/compare/snapdrop-1.0.2...snapdrop-1.0.3) (2022-05-04)
 
 #### 聊天
 
@@ -370,7 +370,7 @@
 
 <a name="snapdrop-1.0.2"></a>
 
-### [snapdrop-1.0.2](https://github.com/truecharts/apps/compare/snapdrop-1.0.1...snapdrop-1.0.2) (2022-04-26)
+### [快照-1.0.2](https://github.com/truecharts/apps/compare/snapdrop-1.0.1...snapdrop-1.0.2) (2022-04-26)
 
 #### 聊天
 
@@ -380,7 +380,7 @@
 
 <a name="snapdrop-1.0.1"></a>
 
-### [snapdrop-1.0.1](https://github.com/truecharts/apps/compare/snapdrop-1.0.0...snapdrop-1.0.1) (2022-04-20)
+### [快照-1.0.1](https://github.com/truecharts/apps/compare/snapdrop-1.0.0...snapdrop-1.0.1) (2022-04-20)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="snapdrop-1.0.0"></a>
 
-### [snapdrop-1.0.0](https://github.com/truecharts/apps/compare/snapdrop-0.0.2...snapdrop-1.0.0) (2022-04-18)
+### [快照-1.0.0](https://github.com/truecharts/apps/compare/snapdrop-0.0.2...snapdrop-1.0.0) (2022-04-18)
 
 #### Feat
 
@@ -401,7 +401,7 @@
 
 <a name="snapdrop-0.0.2"></a>
 
-### [snapdrop-0.0.2](https://github.com/truecharts/apps/compare/snapdrop-0.0.1...snapdrop-0.0.2) (2022-04-17)
+### [快照-0.0.2](https://github.com/truecharts/apps/compare/snapdrop-0.0.1...snapdrop-0.0.2) (2022-04-17)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="snapdrop-0.0.1"></a>
 
-### snapdrop-0.0.1 (2022-04-16)
+### 快照-0.0.1 (2022-04-16)
 
 #### Feat
 
