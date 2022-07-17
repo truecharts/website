@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/miniflux/v2>
+* [https://github.com/minifux/v2](https://github.com/miniflux/v2)
 
 ## B. 所需经费
 
