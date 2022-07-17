@@ -2,7 +2,7 @@
 
 With TrueNAS SCALE, it's possible to automatically generate certificates for your domain(s) using letsencrypt. However, this process is not very self-explanatory. After you managed to complete this how-to, you should be able to select "iX Certificate" as certificate option and your personal certificate in the other drop-down box!
 
-## Requirements
+## B. 所需经费
 
 To use iX Certificates with letsencrypt there are a few requirements:
 
@@ -12,7 +12,7 @@ To use iX Certificates with letsencrypt there are a few requirements:
 - Use either Cloudflare or AWS Route53 for your domain. (In case you wonder: Using Cloudflare as DNS provider is free)
 - Have an active internet connection so TrueNAS SCALE can contact Cloudflare or AWS to verify your domain ownership
 
-## How-To
+## 如何到
 
 - Click `Credentials` in the Left side menu and go the `Certificates` page.
 
