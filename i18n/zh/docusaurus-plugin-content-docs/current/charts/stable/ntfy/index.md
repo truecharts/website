@@ -1,6 +1,6 @@
 # 不使用
 
-ntfy 是一个简单的 HTTP pub-subb 通知服务。 It allows you to send notifications to your phone or desktop via scripts from any computer.
+ntfy 是一个简单的 HTTP pub-subb 通知服务。 它允许您通过任何计算机的脚本向您的手机或桌面发送通知。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
