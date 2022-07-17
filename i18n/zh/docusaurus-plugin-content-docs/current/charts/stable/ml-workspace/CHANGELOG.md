@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [ml-workspace-2.0.17](https://github.com/truecharts/apps/compare/ml-workspace-2.0.16...ml-workspace-2.0.17) (2022-07-14)
+## [ml-workspace -2.0.17](https://github.com/truecharts/apps/compare/ml-workspace-2.0.16...ml-workspace-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [ml-workspace-2.0.16](https://github.com/truecharts/apps/compare/ml-workspace-2.0.14...ml-workspace-2.0.16) (2022-07-14)
+## [ml-workspace -2.0.16](https://github.com/truecharts/apps/compare/ml-workspace-2.0.14...ml-workspace-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [ml-workspace-2.0.14](https://github.com/truecharts/apps/compare/ml-workspace-2.0.12...ml-workspace-2.0.14) (2022-07-12)
+## [ml-workspace -2.0.14](https://github.com/truecharts/apps/compare/ml-workspace-2.0.12...ml-workspace-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="ml-workspace-2.0.4"></a>
 
-### [ml-workspace-2.0.4](https://github.com/truecharts/apps/compare/ml-workspace-2.0.3...ml-workspace-2.0.4) (2022-06-14)
+### [ml-workspace -2.0.4](https://github.com/truecharts/apps/compare/ml-workspace-2.0.3...ml-workspace-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="ml-workspace-2.0.3"></a>
 
-### [ml-workspace-2.0.3](https://github.com/truecharts/apps/compare/ml-workspace-2.0.2...ml-workspace-2.0.3) (2022-06-11)
+### [ml-workspace -2.0.3](https://github.com/truecharts/apps/compare/ml-workspace-2.0.2...ml-workspace-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="ml-workspace-1.1.13"></a>
 
-### [ml-workspace-1.1.13](https://github.com/truecharts/apps/compare/ml-workspace-1.1.12...ml-workspace-1.1.13) (2022-05-31)
+### [ml-workspace 1.1.13](https://github.com/truecharts/apps/compare/ml-workspace-1.1.12...ml-workspace-1.1.13) (2022-05-31)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="ml-workspace-1.1.5"></a>
 
-### [ml-workspace-1.1.5](https://github.com/truecharts/apps/compare/ml-workspace-1.1.4...ml-workspace-1.1.5) (2022-04-20)
+### [ml-workspace 1.1.5](https://github.com/truecharts/apps/compare/ml-workspace-1.1.4...ml-workspace-1.1.5) (2022-04-20)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="ml-workspace-1.1.3"></a>
 
-### [ml-workspace-1.1.3](https://github.com/truecharts/apps/compare/ml-workspace-1.1.2...ml-workspace-1.1.3) (2022-04-03)
+### [ml-workspace 1.1.3](https://github.com/truecharts/apps/compare/ml-workspace-1.1.2...ml-workspace-1.1.3) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="ml-workspace-1.1.2"></a>
 
-### [ml-workspace-1.1.2](https://github.com/truecharts/apps/compare/ml-workspace-1.1.1...ml-workspace-1.1.2) (2022-03-31)
+### [ml-workspace 1.1.2](https://github.com/truecharts/apps/compare/ml-workspace-1.1.1...ml-workspace-1.1.2) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="ml-workspace-1.1.1"></a>
 
-### [ml-workspace-1.1.1](https://github.com/truecharts/apps/compare/ml-workspace-1.1.0...ml-workspace-1.1.1) (2022-03-30)
+### [ml-workspace 1.1.1](https://github.com/truecharts/apps/compare/ml-workspace-1.1.0...ml-workspace-1.1.1) (2022-03-30)
 
 #### 聊天
 
@@ -326,13 +326,13 @@
 
 #### Feat
 
-* Add more image options and fix tags ([#2330](https://github.com/truecharts/apps/issues/2330))
+* 添加更多图像选项并修复标签 ([#2330](https://github.com/truecharts/apps/issues/2330))
 
 
 
 <a name="ml-workspace-1.0.1"></a>
 
-### [ml-workspace-1.0.1](https://github.com/truecharts/apps/compare/ml-workspace-1.0.0...ml-workspace-1.0.1) (2022-03-27)
+### [ml-workspace--1.0.1](https://github.com/truecharts/apps/compare/ml-workspace-1.0.0...ml-workspace-1.0.1) (2022-03-27)
 
 #### 聊天
 
@@ -346,14 +346,14 @@
 
 #### Feat
 
-* add to stable ([#2302](https://github.com/truecharts/apps/issues/2302))
+* 添加到稳定([#2302](https://github.com/truecharts/apps/issues/2302))
 
 
 
 <a name="ml-workspace-0.0.1"></a>
 
-### ml-workspace-0.0.1 (2022-03-27)
+### ml-workspace -0.0.1 (2022-03-27)
 
 #### Feat
 
-* add ml-workspace ([#2300](https://github.com/truecharts/apps/issues/2300))
+* 添加 ml-workspace ([#2300](https://github.com/truecharts/apps/issues/2300))
