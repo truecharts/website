@@ -100,7 +100,7 @@
 
 #### 修复
 
-* set fsGroup to www-data (82) ([#3050](https://github.com/truecharts/apps/issues/3050))
+* 将 fsGroup 设置为 www-data (82) ([#3050](https://github.com/truecharts/apps/issues/3050))
 
 
 
@@ -114,7 +114,7 @@
 
 #### 修复
 
-* remove /app storage. ([#3012](https://github.com/truecharts/apps/issues/3012))
+* 移除/应用存储。 ([#3012](https://github.com/truecharts/apps/issues/3012))
 
 
 
@@ -144,7 +144,7 @@
 
 #### 修复
 
-* convert to string envs inside secretEnv ([#2962](https://github.com/truecharts/apps/issues/2962))
+* 在secretEnv中转换为字符串编码([#2962](https://github.com/truecharts/apps/issues/2962))
 
 
 
@@ -425,7 +425,7 @@
 
 #### 修复
 
-* Remove init containers, upstream made some changes to simplify ([#2462](https://github.com/truecharts/apps/issues/2462))
+* 删除嵌入容器。上游进行了一些更改以简化([#2462](https://github.com/truecharts/apps/issues/2462))
 
 
 
@@ -618,7 +618,7 @@
 
 #### Feat
 
-* move to stable ([#1898](https://github.com/truecharts/apps/issues/1898))
+* 移动到稳定([#1898](https://github.com/truecharts/apps/issues/1898))
 
 
 
@@ -628,14 +628,14 @@
 
 #### 修复
 
-* Overhaul setup ([#1890](https://github.com/truecharts/apps/issues/1890))
+* 修饰设置 ([#1890](https://github.com/truecharts/apps/issues/1890))
 
 
 
 <a name="linkace-0.0.1"></a>
 
-### linkace-0.0.1 (2022-02-13)
+### 链接-0.0.1 (2022-02-13)
 
 #### Feat
 
-* Add linkace ([#1886](https://github.com/truecharts/apps/issues/1886))
+* 添加链接([#1886](https://github.com/truecharts/apps/issues/1886))
