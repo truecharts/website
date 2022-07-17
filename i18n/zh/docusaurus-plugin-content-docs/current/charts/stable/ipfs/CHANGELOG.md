@@ -254,7 +254,7 @@
 
 #### 修复
 
-* remove multiple persistence sections ([#2739](https://github.com/truecharts/apps/issues/2739))
+* 移除多个持久性部分 ([#2739](https://github.com/truecharts/apps/issues/2739))
 
 
 
@@ -264,7 +264,7 @@
 
 #### 修复
 
-* missing sections of UI ([#2738](https://github.com/truecharts/apps/issues/2738))
+* 缺少界面部分([#2738](https://github.com/truecharts/apps/issues/2738))
 
 
 
@@ -356,7 +356,7 @@
 
 #### 聊天
 
-* update image ref ([#2461](https://github.com/truecharts/apps/issues/2461))
+* 更新图像参考文件[#2461](https://github.com/truecharts/apps/issues/2461)
 
 
 
@@ -386,7 +386,7 @@
 
 #### Feat
 
-* Use official image BREAKING CHANGE ([#2331](https://github.com/truecharts/apps/issues/2331))
+* 使用官方图片Breaking变换([#2331](https://github.com/truecharts/apps/issues/2331))
 
 
 
@@ -660,7 +660,7 @@
 
 <a name="ipfs-0.0.5"></a>
 
-### [ipfs-0.0.5](https://github.com/truecharts/apps/compare/ipfs-0.0.4...ipfs-0.0.5) (2021-12-18)
+### [ipfs-0.0.5](https://github.com/truecharts/apps/compare/ipfs-0.0.4...ipfs-0.0.5) (2021-12-18岁)
 
 #### 聊天
 
