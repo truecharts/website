@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [libreddit-1.0.11](https://github.com/truecharts/apps/compare/libreddit-1.0.10...libreddit-1.0.11) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [libreddit-1.0.10](https://github.com/truecharts/apps/compare/libreddit-1.0.8...libreddit-1.0.10) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [libreddit-1.0.8](https://github.com/truecharts/apps/compare/libreddit-1.0.6...libreddit-1.0.8) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [libreddit-1.0.6](https://github.com/truecharts/apps/compare/libreddit-1.0.5...libreddit-1.0.6) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [libreddit-1.0.5](https://github.com/truecharts/apps/compare/libreddit-1.0.4...libreddit-1.0.5) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [libreddit-1.0.4](https://github.com/truecharts/apps/compare/libreddit-1.0.3...libreddit-1.0.4) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,9 +58,9 @@
 
 ### [libreddit-1.0.3](https://github.com/truecharts/apps/compare/libreddit-1.0.2...libreddit-1.0.3) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -68,9 +68,9 @@
 
 ### [libreddit-1.0.2](https://github.com/truecharts/apps/compare/libreddit-1.0.1...libreddit-1.0.2) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [libreddit-1.0.1](https://github.com/truecharts/apps/compare/libreddit-1.0.0...libreddit-1.0.1) (2022-07-02)
 
-#### Chore
+#### 聊天
 
-* update image refs ([#3040](https://github.com/truecharts/apps/issues/3040))
+* 更新图像引用([#3040](https://github.com/truecharts/apps/issues/3040))
 
 
 
