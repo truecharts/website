@@ -536,7 +536,7 @@
 
 #### Feat
 
-* Move to stable ([#2137](https://github.com/truecharts/apps/issues/2137))
+* 移动到稳定的([#2137](https://github.com/truecharts/apps/issues/2137))
 
 
 
@@ -546,7 +546,7 @@
 
 #### 聊天
 
-* Update digest ([#2129](https://github.com/truecharts/apps/issues/2129))
+* 更新摘要 ([#2129](https://github.com/truecharts/apps/issues/2129))
 
 
 
@@ -556,4 +556,4 @@
 
 #### Feat
 
-*  Add flexget ([#2117](https://github.com/truecharts/apps/issues/2117))
+*  添加 flexget ([#2217](https://github.com/truecharts/apps/issues/2117))
