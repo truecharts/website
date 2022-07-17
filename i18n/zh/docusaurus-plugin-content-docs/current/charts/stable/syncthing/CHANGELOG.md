@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [syncthing-11.0.20](https://github.com/truecharts/apps/compare/syncthing-11.0.19...syncthing-11.0.20) (2022-07-14)
+## [同步-11.0.20](https://github.com/truecharts/apps/compare/syncthing-11.0.19...syncthing-11.0.20) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [syncthing-11.0.19](https://github.com/truecharts/apps/compare/syncthing-11.0.17...syncthing-11.0.19) (2022-07-14)
+## [同步 11.0.19](https://github.com/truecharts/apps/compare/syncthing-11.0.17...syncthing-11.0.19) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [syncthing-11.0.17](https://github.com/truecharts/apps/compare/syncthing-11.0.15...syncthing-11.0.17) (2022-07-12)
+## [同步-11.0.17](https://github.com/truecharts/apps/compare/syncthing-11.0.15...syncthing-11.0.17) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [syncthing-11.0.15](https://github.com/truecharts/apps/compare/syncthing-11.0.14...syncthing-11.0.15) (2022-07-12)
+## [同步 11.0.15](https://github.com/truecharts/apps/compare/syncthing-11.0.14...syncthing-11.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="syncthing-11.0.14"></a>
 
-### [syncthing-11.0.14](https://github.com/truecharts/apps/compare/syncthing-11.0.13...syncthing-11.0.14) (2022-07-12)
+### [同步 11.0.14](https://github.com/truecharts/apps/compare/syncthing-11.0.13...syncthing-11.0.14) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="syncthing-11.0.13"></a>
 
-### [syncthing-11.0.13](https://github.com/truecharts/apps/compare/syncthing-11.0.12...syncthing-11.0.13) (2022-07-11)
+### [同步-11.0.13](https://github.com/truecharts/apps/compare/syncthing-11.0.12...syncthing-11.0.13) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="syncthing-11.0.12"></a>
 
-### [syncthing-11.0.12](https://github.com/truecharts/apps/compare/syncthing-11.0.11...syncthing-11.0.12) (2022-07-10)
+### [同步-11.0.12](https://github.com/truecharts/apps/compare/syncthing-11.0.11...syncthing-11.0.12) (2022-07-10)
 
 #### 修复
 
@@ -66,7 +66,7 @@
 
 <a name="syncthing-11.0.11"></a>
 
-### [syncthing-11.0.11](https://github.com/truecharts/apps/compare/syncthing-11.0.10...syncthing-11.0.11) (2022-07-09)
+### [同步-11.0.11](https://github.com/truecharts/apps/compare/syncthing-11.0.10...syncthing-11.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="syncthing-11.0.10"></a>
 
-### [syncthing-11.0.10](https://github.com/truecharts/apps/compare/syncthing-11.0.9...syncthing-11.0.10) (2022-07-09)
+### [同步-11.0.10](https://github.com/truecharts/apps/compare/syncthing-11.0.9...syncthing-11.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="syncthing-11.0.9"></a>
 
-### [syncthing-11.0.9](https://github.com/truecharts/apps/compare/syncthing-11.0.8...syncthing-11.0.9) (2022-07-06)
+### [同步 11.0.9](https://github.com/truecharts/apps/compare/syncthing-11.0.8...syncthing-11.0.9) (2022-07-06)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="syncthing-11.0.8"></a>
 
-### [syncthing-11.0.8](https://github.com/truecharts/apps/compare/syncthing-11.0.7...syncthing-11.0.8) (2022-07-04)
+### [同步-11.0.8](https://github.com/truecharts/apps/compare/syncthing-11.0.7...syncthing-11.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="syncthing-11.0.7"></a>
 
-### [syncthing-11.0.7](https://github.com/truecharts/apps/compare/syncthing-11.0.6...syncthing-11.0.7) (2022-06-25)
+### [同步-11.0.7](https://github.com/truecharts/apps/compare/syncthing-11.0.6...syncthing-11.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="syncthing-11.0.6"></a>
 
-### [syncthing-11.0.6](https://github.com/truecharts/apps/compare/syncthing-11.0.5...syncthing-11.0.6) (2022-06-22)
+### [同步 11.0.6](https://github.com/truecharts/apps/compare/syncthing-11.0.5...syncthing-11.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="syncthing-11.0.5"></a>
 
-### [syncthing-11.0.5](https://github.com/truecharts/apps/compare/syncthing-11.0.4...syncthing-11.0.5) (2022-06-21)
+### [同步-11.0.5](https://github.com/truecharts/apps/compare/syncthing-11.0.4...syncthing-11.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="syncthing-11.0.4"></a>
 
-### [syncthing-11.0.4](https://github.com/truecharts/apps/compare/syncthing-11.0.3...syncthing-11.0.4) (2022-06-14)
+### [同步-11.0.4](https://github.com/truecharts/apps/compare/syncthing-11.0.3...syncthing-11.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="syncthing-11.0.3"></a>
 
-### [syncthing-11.0.3](https://github.com/truecharts/apps/compare/syncthing-11.0.2...syncthing-11.0.3) (2022-06-11)
+### [同步 11.0.3](https://github.com/truecharts/apps/compare/syncthing-11.0.2...syncthing-11.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -156,7 +156,7 @@
 
 <a name="syncthing-11.0.2"></a>
 
-### [syncthing-11.0.2](https://github.com/truecharts/apps/compare/syncthing-11.0.1...syncthing-11.0.2) (2022-06-07)
+### [同步 11.0.2](https://github.com/truecharts/apps/compare/syncthing-11.0.1...syncthing-11.0.2) (2022-06-07)
 
 #### 修复
 
@@ -166,7 +166,7 @@
 
 <a name="syncthing-11.0.1"></a>
 
-### [syncthing-11.0.1](https://github.com/truecharts/apps/compare/syncthing-10.0.22...syncthing-11.0.1) (2022-06-07)
+### [同步-11.0.1](https://github.com/truecharts/apps/compare/syncthing-10.0.22...syncthing-11.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -186,7 +186,7 @@
 
 <a name="syncthing-11.0.0"></a>
 
-### [syncthing-11.0.0](https://github.com/truecharts/apps/compare/syncthing-10.0.22...syncthing-11.0.0) (2022-06-07)
+### [同步 11.0.0](https://github.com/truecharts/apps/compare/syncthing-10.0.22...syncthing-11.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="syncthing-10.0.22"></a>
 
-### [syncthing-10.0.22](https://github.com/truecharts/apps/compare/syncthing-10.0.21...syncthing-10.0.22) (2022-05-31)
+### [同步 10.0.22](https://github.com/truecharts/apps/compare/syncthing-10.0.21...syncthing-10.0.22) (2022-05-31)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="syncthing-10.0.21"></a>
 
-### [syncthing-10.0.21](https://github.com/truecharts/apps/compare/syncthing-10.0.20...syncthing-10.0.21) (2022-05-26)
+### [同步 10.0.21](https://github.com/truecharts/apps/compare/syncthing-10.0.20...syncthing-10.0.21) (2022-05-26)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="syncthing-10.0.21"></a>
 
-### [syncthing-10.0.21](https://github.com/truecharts/apps/compare/syncthing-10.0.20...syncthing-10.0.21) (2022-05-26)
+### [同步 10.0.21](https://github.com/truecharts/apps/compare/syncthing-10.0.20...syncthing-10.0.21) (2022-05-26)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="syncthing-10.0.20"></a>
 
-### [syncthing-10.0.20](https://github.com/truecharts/apps/compare/syncthing-10.0.19...syncthing-10.0.20) (2022-05-24)
+### [同步 10.0.20](https://github.com/truecharts/apps/compare/syncthing-10.0.19...syncthing-10.0.20) (2022-05-24)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="syncthing-10.0.19"></a>
 
-### [syncthing-10.0.19](https://github.com/truecharts/apps/compare/syncthing-10.0.18...syncthing-10.0.19) (2022-05-17)
+### [同步 10.0.19](https://github.com/truecharts/apps/compare/syncthing-10.0.18...syncthing-10.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -252,7 +252,7 @@
 
 <a name="syncthing-10.0.19"></a>
 
-### [syncthing-10.0.19](https://github.com/truecharts/apps/compare/syncthing-10.0.18...syncthing-10.0.19) (2022-05-17)
+### [同步 10.0.19](https://github.com/truecharts/apps/compare/syncthing-10.0.18...syncthing-10.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -262,7 +262,7 @@
 
 <a name="syncthing-10.0.18"></a>
 
-### [syncthing-10.0.18](https://github.com/truecharts/apps/compare/syncthing-10.0.17...syncthing-10.0.18) (2022-05-17)
+### [同步 10.0.18](https://github.com/truecharts/apps/compare/syncthing-10.0.17...syncthing-10.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -272,7 +272,7 @@
 
 <a name="syncthing-10.0.17"></a>
 
-### [syncthing-10.0.17](https://github.com/truecharts/apps/compare/syncthing-10.0.16...syncthing-10.0.17) (2022-05-10)
+### [同步 10.0.17](https://github.com/truecharts/apps/compare/syncthing-10.0.16...syncthing-10.0.17) (2022-05-10)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="syncthing-10.0.16"></a>
 
-### [syncthing-10.0.16](https://github.com/truecharts/apps/compare/syncthing-10.0.15...syncthing-10.0.16) (2022-05-05)
+### [同步 10.0.16](https://github.com/truecharts/apps/compare/syncthing-10.0.15...syncthing-10.0.16) (2022-05-05)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="syncthing-10.0.15"></a>
 
-### [syncthing-10.0.15](https://github.com/truecharts/apps/compare/syncthing-10.0.14...syncthing-10.0.15) (2022-05-04)
+### [同步 10.0.15](https://github.com/truecharts/apps/compare/syncthing-10.0.14...syncthing-10.0.15) (2022-05-04)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="syncthing-10.0.14"></a>
 
-### [syncthing-10.0.14](https://github.com/truecharts/apps/compare/syncthing-10.0.13...syncthing-10.0.14) (2022-04-26)
+### [同步 10.0.14](https://github.com/truecharts/apps/compare/syncthing-10.0.13...syncthing-10.0.14) (2022-04-26)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="syncthing-10.0.13"></a>
 
-### [syncthing-10.0.13](https://github.com/truecharts/apps/compare/syncthing-10.0.12...syncthing-10.0.13) (2022-04-20)
+### [同步 10.0.13](https://github.com/truecharts/apps/compare/syncthing-10.0.12...syncthing-10.0.13) (2022-04-20)
 
 #### 聊天
 
@@ -323,7 +323,7 @@
 
 <a name="syncthing-10.0.12"></a>
 
-### [syncthing-10.0.12](https://github.com/truecharts/apps/compare/syncthing-10.0.11...syncthing-10.0.12) (2022-04-12)
+### [同步 10.0.12](https://github.com/truecharts/apps/compare/syncthing-10.0.11...syncthing-10.0.12) (2022-04-12)
 
 #### 聊天
 
@@ -333,7 +333,7 @@
 
 <a name="syncthing-10.0.11"></a>
 
-### [syncthing-10.0.11](https://github.com/truecharts/apps/compare/syncthing-10.0.10...syncthing-10.0.11) (2022-04-09)
+### [同步-10.0.11](https://github.com/truecharts/apps/compare/syncthing-10.0.10...syncthing-10.0.11) (2022-04-09)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="syncthing-10.0.10"></a>
 
-### [syncthing-10.0.10](https://github.com/truecharts/apps/compare/syncthing-10.0.9...syncthing-10.0.10) (2022-04-03)
+### [同步 10.0.10](https://github.com/truecharts/apps/compare/syncthing-10.0.9...syncthing-10.0.10) (2022-04-03)
 
 #### 聊天
 
@@ -353,7 +353,7 @@
 
 <a name="syncthing-10.0.9"></a>
 
-### [syncthing-10.0.9](https://github.com/truecharts/apps/compare/syncthing-10.0.8...syncthing-10.0.9) (2022-03-31)
+### [同步 10.0.9](https://github.com/truecharts/apps/compare/syncthing-10.0.8...syncthing-10.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -363,7 +363,7 @@
 
 <a name="syncthing-10.0.8"></a>
 
-### [syncthing-10.0.8](https://github.com/truecharts/apps/compare/syncthing-10.0.7...syncthing-10.0.8) (2022-03-30)
+### [同步 10.0.8](https://github.com/truecharts/apps/compare/syncthing-10.0.7...syncthing-10.0.8) (2022-03-30)
 
 #### 聊天
 
@@ -373,7 +373,7 @@
 
 <a name="syncthing-10.0.7"></a>
 
-### [syncthing-10.0.7](https://github.com/truecharts/apps/compare/syncthing-10.0.6...syncthing-10.0.7) (2022-03-26)
+### [同步 10.0.7](https://github.com/truecharts/apps/compare/syncthing-10.0.6...syncthing-10.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -383,7 +383,7 @@
 
 <a name="syncthing-10.0.2"></a>
 
-### [syncthing-10.0.2](https://github.com/truecharts/apps/compare/syncthing-10.0.1...syncthing-10.0.2) (2022-03-07)
+### [同步 10.0.2](https://github.com/truecharts/apps/compare/syncthing-10.0.1...syncthing-10.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -393,7 +393,7 @@
 
 <a name="syncthing-10.0.1"></a>
 
-### [syncthing-10.0.1](https://github.com/truecharts/apps/compare/syncthing-10.0.0...syncthing-10.0.1) (2022-03-07)
+### [同步 10.0.1](https://github.com/truecharts/apps/compare/syncthing-10.0.0...syncthing-10.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -404,7 +404,7 @@
 
 <a name="syncthing-10.0.0"></a>
 
-### [syncthing-10.0.0](https://github.com/truecharts/apps/compare/syncthing-9.0.47...syncthing-10.0.0) (2022-03-03)
+### [同步 10.0.0](https://github.com/truecharts/apps/compare/syncthing-9.0.47...syncthing-10.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -420,7 +420,7 @@
 
 <a name="syncthing-9.0.47"></a>
 
-### [syncthing-9.0.47](https://github.com/truecharts/apps/compare/syncthing-9.0.46...syncthing-9.0.47) (2022-03-02)
+### [同步 9.0.47](https://github.com/truecharts/apps/compare/syncthing-9.0.46...syncthing-9.0.47) (2022-03-02)
 
 #### 聊天
 
@@ -430,21 +430,21 @@
 
 <a name="syncthing-9.0.46"></a>
 
-### [syncthing-9.0.46](https://github.com/truecharts/apps/compare/syncthing-9.0.45...syncthing-9.0.46) (2022-02-26)
+### [同步 9.0.46](https://github.com/truecharts/apps/compare/syncthing-9.0.45...syncthing-9.0.46) (2022-02-26)
 
 #### 聊天
 
 * 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
 
-#### Joke
+#### 乔克
 
-* push an extra release for Tom Lawrence to showcase
+* 推出额外版本让Tom Lawrence显示
 
 
 
 <a name="syncthing-9.0.45"></a>
 
-### [syncthing-9.0.45](https://github.com/truecharts/apps/compare/syncthing-9.0.44...syncthing-9.0.45) (2022-02-21)
+### [同步 9.0.45](https://github.com/truecharts/apps/compare/syncthing-9.0.44...syncthing-9.0.45) (2022-02-21)
 
 #### 聊天
 
@@ -454,7 +454,7 @@
 
 <a name="syncthing-9.0.44"></a>
 
-### [syncthing-9.0.44](https://github.com/truecharts/apps/compare/syncthing-9.0.43...syncthing-9.0.44) (2022-02-15)
+### [同步 9.0.44](https://github.com/truecharts/apps/compare/syncthing-9.0.43...syncthing-9.0.44) (2022-02-15)
 
 #### 聊天
 
@@ -464,7 +464,7 @@
 
 <a name="syncthing-9.0.43"></a>
 
-### [syncthing-9.0.43](https://github.com/truecharts/apps/compare/syncthing-9.0.42...syncthing-9.0.43) (2022-02-08)
+### [同步 9.0.43](https://github.com/truecharts/apps/compare/syncthing-9.0.42...syncthing-9.0.43) (2022-02-08)
 
 #### 聊天
 
@@ -474,7 +474,7 @@
 
 <a name="syncthing-9.0.42"></a>
 
-### [syncthing-9.0.42](https://github.com/truecharts/apps/compare/syncthing-9.0.41...syncthing-9.0.42) (2022-02-06)
+### [同步 9.0.42](https://github.com/truecharts/apps/compare/syncthing-9.0.41...syncthing-9.0.42) (2022-02-06)
 
 #### 聊天
 
@@ -484,7 +484,7 @@
 
 <a name="syncthing-9.0.41"></a>
 
-### [syncthing-9.0.41](https://github.com/truecharts/apps/compare/syncthing-9.0.40...syncthing-9.0.41) (2022-02-05)
+### [同步 9.0.41](https://github.com/truecharts/apps/compare/syncthing-9.0.40...syncthing-9.0.41) (2022-02-05)
 
 #### 聊天
 
@@ -494,7 +494,7 @@
 
 <a name="syncthing-9.0.40"></a>
 
-### [syncthing-9.0.40](https://github.com/truecharts/apps/compare/syncthing-9.0.39...syncthing-9.0.40) (2022-02-03)
+### [同步 9.0.40](https://github.com/truecharts/apps/compare/syncthing-9.0.39...syncthing-9.0.40) (2022-02-03)
 
 #### 聊天
 
@@ -504,7 +504,7 @@
 
 <a name="syncthing-9.0.39"></a>
 
-### [syncthing-9.0.39](https://github.com/truecharts/apps/compare/syncthing-9.0.38...syncthing-9.0.39) (2022-02-02)
+### [同步 9.0.39](https://github.com/truecharts/apps/compare/syncthing-9.0.38...syncthing-9.0.39) (2022-02-02)
 
 #### 聊天
 
@@ -514,7 +514,7 @@
 
 <a name="syncthing-9.0.38"></a>
 
-### [syncthing-9.0.38](https://github.com/truecharts/apps/compare/syncthing-9.0.37...syncthing-9.0.38) (2022-01-25)
+### [syncing-9.0.38](https://github.com/truecharts/apps/compare/syncthing-9.0.37...syncthing-9.0.38) (2022-01-25)
 
 #### 聊天
 
@@ -524,7 +524,7 @@
 
 <a name="syncthing-9.0.37"></a>
 
-### [syncthing-9.0.37](https://github.com/truecharts/apps/compare/syncthing-9.0.36...syncthing-9.0.37) (2022-01-22)
+### [同步 9.0.37](https://github.com/truecharts/apps/compare/syncthing-9.0.36...syncthing-9.0.37) (2022-01-22)
 
 #### 聊天
 
@@ -534,7 +534,7 @@
 
 <a name="syncthing-9.0.36"></a>
 
-### [syncthing-9.0.36](https://github.com/truecharts/apps/compare/syncthing-9.0.35...syncthing-9.0.36) (2022-01-21)
+### [同步-9.0.36](https://github.com/truecharts/apps/compare/syncthing-9.0.35...syncthing-9.0.36) (2022-01-21)
 
 #### 聊天
 
@@ -548,7 +548,7 @@
 
 <a name="syncthing-9.0.35"></a>
 
-### [syncthing-9.0.35](https://github.com/truecharts/apps/compare/syncthing-9.0.34...syncthing-9.0.35) (2022-01-18)
+### [syncing-9.0.35](https://github.com/truecharts/apps/compare/syncthing-9.0.34...syncthing-9.0.35) (2022-01-18)
 
 #### 聊天
 
@@ -558,7 +558,7 @@
 
 <a name="syncthing-9.0.34"></a>
 
-### [syncthing-9.0.34](https://github.com/truecharts/apps/compare/syncthing-9.0.33...syncthing-9.0.34) (2022-01-17)
+### [同步-9.0.34](https://github.com/truecharts/apps/compare/syncthing-9.0.33...syncthing-9.0.34) (2022-01-17)
 
 #### 聊天
 
@@ -568,7 +568,7 @@
 
 <a name="syncthing-9.0.33"></a>
 
-### [syncthing-9.0.33](https://github.com/truecharts/apps/compare/syncthing-9.0.32...syncthing-9.0.33) (2022-01-13)
+### [同步 9.0.33](https://github.com/truecharts/apps/compare/syncthing-9.0.32...syncthing-9.0.33) (2022-01-13)
 
 #### 聊天
 
@@ -582,7 +582,7 @@
 
 <a name="syncthing-9.0.32"></a>
 
-### [syncthing-9.0.32](https://github.com/truecharts/apps/compare/syncthing-9.0.31...syncthing-9.0.32) (2022-01-12)
+### [同步 9.0.32](https://github.com/truecharts/apps/compare/syncthing-9.0.31...syncthing-9.0.32) (2022-01-12)
 
 #### 聊天
 
@@ -592,7 +592,7 @@
 
 <a name="syncthing-9.0.31"></a>
 
-### [syncthing-9.0.31](https://github.com/truecharts/apps/compare/syncthing-9.0.30...syncthing-9.0.31) (2022-01-11)
+### [同步 9.0.31](https://github.com/truecharts/apps/compare/syncthing-9.0.30...syncthing-9.0.31) (2022-01-11)
 
 #### 聊天
 
@@ -602,7 +602,7 @@
 
 <a name="syncthing-9.0.30"></a>
 
-### [syncthing-9.0.30](https://github.com/truecharts/apps/compare/syncthing-9.0.29...syncthing-9.0.30) (2022-01-04)
+### [同步 9.0.30](https://github.com/truecharts/apps/compare/syncthing-9.0.29...syncthing-9.0.30) (2022-01-04)
 
 #### 聊天
 
@@ -612,7 +612,7 @@
 
 <a name="syncthing-9.0.29"></a>
 
-### [syncthing-9.0.29](https://github.com/truecharts/apps/compare/syncthing-9.0.28...syncthing-9.0.29) (2021-12-28)
+### [同步 9.0.29](https://github.com/truecharts/apps/compare/syncthing-9.0.28...syncthing-9.0.29) (2021-12-28)
 
 #### 聊天
 
@@ -622,7 +622,7 @@
 
 <a name="syncthing-9.0.28"></a>
 
-### [syncthing-9.0.28](https://github.com/truecharts/apps/compare/syncthing-9.0.27...syncthing-9.0.28) (2021-12-21)
+### [syncing-9.0.28](https://github.com/truecharts/apps/compare/syncthing-9.0.27...syncthing-9.0.28) (2021-12-21)
 
 #### 聊天
 
@@ -632,7 +632,7 @@
 
 <a name="syncthing-9.0.27"></a>
 
-### [syncthing-9.0.27](https://github.com/truecharts/apps/compare/syncthing-9.0.26...syncthing-9.0.27) (2021-12-19)
+### [同步 9.0.27](https://github.com/truecharts/apps/compare/syncthing-9.0.26...syncthing-9.0.27) (2021-12-19)
 
 #### 聊天
 
@@ -644,7 +644,7 @@
 
 <a name="syncthing-9.0.26"></a>
 
-### [syncthing-9.0.26](https://github.com/truecharts/apps/compare/syncthing-9.0.25...syncthing-9.0.26) (2021-12-19)
+### [同步 9.0.26](https://github.com/truecharts/apps/compare/syncthing-9.0.25...syncthing-9.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -655,7 +655,7 @@
 
 <a name="syncthing-9.0.25"></a>
 
-### [syncthing-9.0.25](https://github.com/truecharts/apps/compare/syncthing-9.0.24...syncthing-9.0.25) (2021-12-18)
+### [syncthing-9.0.25](https://github.com/truecharts/apps/compare/syncthing-9.0.24...syncthing-9.0.25) (2021-12-18岁)
 
 #### 聊天
 
@@ -666,7 +666,7 @@
 
 <a name="syncthing-9.0.24"></a>
 
-### [syncthing-9.0.24](https://github.com/truecharts/apps/compare/syncthing-9.0.23...syncthing-9.0.24) (2021-12-14)
+### [同步 9.0.24](https://github.com/truecharts/apps/compare/syncthing-9.0.23...syncthing-9.0.24) (2021-12-14)
 
 #### 聊天
 
@@ -676,7 +676,7 @@
 
 <a name="syncthing-9.0.23"></a>
 
-### [syncthing-9.0.23](https://github.com/truecharts/apps/compare/syncthing-9.0.22...syncthing-9.0.23) (2021-12-13)
+### [同步 9.0.23](https://github.com/truecharts/apps/compare/syncthing-9.0.22...syncthing-9.0.23) (2021-12-13)
 
 #### 聊天
 
@@ -686,7 +686,7 @@
 
 <a name="syncthing-9.0.22"></a>
 
-### [syncthing-9.0.22](https://github.com/truecharts/apps/compare/syncthing-9.0.21...syncthing-9.0.22) (2021-12-11)
+### [同步 9.0.22](https://github.com/truecharts/apps/compare/syncthing-9.0.21...syncthing-9.0.22) (2021-12-11)
 
 #### 聊天
 
@@ -696,7 +696,7 @@
 
 <a name="syncthing-9.0.21"></a>
 
-### [syncthing-9.0.21](https://github.com/truecharts/apps/compare/syncthing-9.0.20...syncthing-9.0.21) (2021-12-11)
+### [同步 9.0.21](https://github.com/truecharts/apps/compare/syncthing-9.0.20...syncthing-9.0.21) (2021-12-11)
 
 #### 聊天
 
@@ -706,7 +706,7 @@
 
 <a name="syncthing-9.0.20"></a>
 
-### [syncthing-9.0.20](https://github.com/truecharts/apps/compare/syncthing-9.0.19...syncthing-9.0.20) (2021-12-08)
+### [同步 9.0.20](https://github.com/truecharts/apps/compare/syncthing-9.0.19...syncthing-9.0.20) (2021-12-08)
 
 #### 聊天
 
@@ -716,7 +716,7 @@
 
 <a name="syncthing-9.0.19"></a>
 
-### [syncthing-9.0.19](https://github.com/truecharts/apps/compare/syncthing-9.0.18...syncthing-9.0.19) (2021-12-07)
+### [同步 9.0.19](https://github.com/truecharts/apps/compare/syncthing-9.0.18...syncthing-9.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -726,7 +726,7 @@
 
 <a name="syncthing-9.0.18"></a>
 
-### syncthing-9.0.18 (2021-12-05)
+### 合成-9.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -745,7 +745,7 @@
 
 <a name="syncthing-9.0.17"></a>
 
-### [syncthing-9.0.17](https://github.com/truecharts/apps/compare/syncthing-9.0.16...syncthing-9.0.17) (2021-12-05)
+### [同步 9.0.17](https://github.com/truecharts/apps/compare/syncthing-9.0.16...syncthing-9.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -755,7 +755,7 @@
 
 <a name="syncthing-9.0.16"></a>
 
-### [syncthing-9.0.16](https://github.com/truecharts/apps/compare/syncthing-9.0.15...syncthing-9.0.16) (2021-12-04)
+### [同步 9.0.16](https://github.com/truecharts/apps/compare/syncthing-9.0.15...syncthing-9.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -765,7 +765,7 @@
 
 <a name="syncthing-9.0.15"></a>
 
-### [syncthing-9.0.15](https://github.com/truecharts/apps/compare/syncthing-9.0.14...syncthing-9.0.15) (2021-12-04)
+### [同步 9.0.15](https://github.com/truecharts/apps/compare/syncthing-9.0.14...syncthing-9.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -776,7 +776,7 @@
 
 <a name="syncthing-9.0.14"></a>
 
-### [syncthing-9.0.14](https://github.com/truecharts/apps/compare/syncthing-9.0.13...syncthing-9.0.14) (2021-11-30)
+### [同步 9.0.14](https://github.com/truecharts/apps/compare/syncthing-9.0.13...syncthing-9.0.14) (2021-11-30)
 
 #### 聊天
 
@@ -786,7 +786,7 @@
 
 <a name="syncthing-9.0.13"></a>
 
-### [syncthing-9.0.13](https://github.com/truecharts/apps/compare/syncthing-9.0.12...syncthing-9.0.13) (2021-11-23)
+### [同步 9.0.13](https://github.com/truecharts/apps/compare/syncthing-9.0.12...syncthing-9.0.13) (2021-11-23)
 
 #### 聊天
 
@@ -796,7 +796,7 @@
 
 <a name="syncthing-9.0.12"></a>
 
-### [syncthing-9.0.12](https://github.com/truecharts/apps/compare/syncthing-9.0.11...syncthing-9.0.12) (2021-11-22)
+### [同步 9.0.12](https://github.com/truecharts/apps/compare/syncthing-9.0.11...syncthing-9.0.12) (2021-11-22)
 
 #### 聊天
 
@@ -810,7 +810,7 @@
 
 <a name="syncthing-9.0.11"></a>
 
-### [syncthing-9.0.11](https://github.com/truecharts/apps/compare/syncthing-9.0.10...syncthing-9.0.11) (2021-11-16)
+### [同步 9.0.11](https://github.com/truecharts/apps/compare/syncthing-9.0.10...syncthing-9.0.11) (2021-11-16)
 
 #### 聊天
 
@@ -820,7 +820,7 @@
 
 <a name="syncthing-9.0.10"></a>
 
-### [syncthing-9.0.10](https://github.com/truecharts/apps/compare/syncthing-9.0.9...syncthing-9.0.10) (2021-11-15)
+### [同步 9.0.10](https://github.com/truecharts/apps/compare/syncthing-9.0.9...syncthing-9.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -831,7 +831,7 @@
 
 <a name="syncthing-9.0.9"></a>
 
-### [syncthing-9.0.9](https://github.com/truecharts/apps/compare/syncthing-9.0.8...syncthing-9.0.9) (2021-11-14)
+### [同步 9.0.9](https://github.com/truecharts/apps/compare/syncthing-9.0.8...syncthing-9.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -849,7 +849,7 @@
 
 <a name="syncthing-9.0.8"></a>
 
-### [syncthing-9.0.8](https://github.com/truecharts/apps/compare/syncthing-9.0.7...syncthing-9.0.8) (2021-11-09)
+### [同步 9.0.8](https://github.com/truecharts/apps/compare/syncthing-9.0.7...syncthing-9.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -859,7 +859,7 @@
 
 <a name="syncthing-9.0.7"></a>
 
-### [syncthing-9.0.7](https://github.com/truecharts/apps/compare/syncthing-9.0.6...syncthing-9.0.7) (2021-11-07)
+### [同步 9.0.7](https://github.com/truecharts/apps/compare/syncthing-9.0.6...syncthing-9.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -869,7 +869,7 @@
 
 <a name="syncthing-9.0.6"></a>
 
-### [syncthing-9.0.6](https://github.com/truecharts/apps/compare/syncthing-9.0.5...syncthing-9.0.6) (2021-11-07)
+### [同步 9.0.6](https://github.com/truecharts/apps/compare/syncthing-9.0.5...syncthing-9.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -879,7 +879,7 @@
 
 <a name="syncthing-9.0.5"></a>
 
-### [syncthing-9.0.5](https://github.com/truecharts/apps/compare/syncthing-9.0.4...syncthing-9.0.5) (2021-11-07)
+### [同步 9.0.5](https://github.com/truecharts/apps/compare/syncthing-9.0.4...syncthing-9.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -897,7 +897,7 @@
 
 <a name="syncthing-9.0.4"></a>
 
-### [syncthing-9.0.4](https://github.com/truecharts/apps/compare/syncthing-9.0.3...syncthing-9.0.4) (2021-11-02)
+### [同步 9.0.4](https://github.com/truecharts/apps/compare/syncthing-9.0.3...syncthing-9.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -907,7 +907,7 @@
 
 <a name="syncthing-9.0.3"></a>
 
-### [syncthing-9.0.3](https://github.com/truecharts/apps/compare/syncthing-9.0.2...syncthing-9.0.3) (2021-11-01)
+### [同步 9.0.3](https://github.com/truecharts/apps/compare/syncthing-9.0.2...syncthing-9.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -927,7 +927,7 @@
 
 <a name="syncthing-9.0.1"></a>
 
-### [syncthing-9.0.1](https://github.com/truecharts/apps/compare/syncthing-9.0.0...syncthing-9.0.1) (2021-10-26)
+### [同步 9.0.1](https://github.com/truecharts/apps/compare/syncthing-9.0.0...syncthing-9.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -947,12 +947,12 @@
 
 <a name="syncthing-8.0.17"></a>
 
-### [syncthing-8.0.17](https://github.com/truecharts/apps/compare/syncthing-8.0.14...syncthing-8.0.17) (2021-10-20)
+### [同步 8.0.17](https://github.com/truecharts/apps/compare/syncthing-8.0.14...syncthing-8.0.17) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -963,7 +963,7 @@
 
 <a name="syncthing-8.0.14"></a>
 
-### [syncthing-8.0.14](https://github.com/truecharts/apps/compare/syncthing-8.0.13...syncthing-8.0.14) (2021-10-20)
+### [同步 8.0.14](https://github.com/truecharts/apps/compare/syncthing-8.0.13...syncthing-8.0.14) (2021-10-20)
 
 #### 聊天
 
@@ -973,7 +973,7 @@
 
 <a name="syncthing-8.0.13"></a>
 
-### [syncthing-8.0.13](https://github.com/truecharts/apps/compare/syncthing-8.0.12...syncthing-8.0.13) (2021-10-19)
+### [同步 8.0.13](https://github.com/truecharts/apps/compare/syncthing-8.0.12...syncthing-8.0.13) (2021-10-19)
 
 #### 更改
 
@@ -997,7 +997,7 @@
 
 <a name="syncthing-8.0.12"></a>
 
-### [syncthing-8.0.12](https://github.com/truecharts/apps/compare/syncthing-8.0.11...syncthing-8.0.12) (2021-10-19)
+### [同步 8.0.12](https://github.com/truecharts/apps/compare/syncthing-8.0.11...syncthing-8.0.12) (2021-10-19)
 
 #### 修复
 
@@ -1007,7 +1007,7 @@
 
 <a name="syncthing-8.0.11"></a>
 
-### [syncthing-8.0.11](https://github.com/truecharts/apps/compare/syncthing-8.0.10...syncthing-8.0.11) (2021-10-19)
+### [同步 8.0.11](https://github.com/truecharts/apps/compare/syncthing-8.0.10...syncthing-8.0.11) (2021-10-19)
 
 #### 修复
 
@@ -1017,7 +1017,7 @@
 
 <a name="syncthing-8.0.10"></a>
 
-### [syncthing-8.0.10](https://github.com/truecharts/apps/compare/syncthing-8.0.9...syncthing-8.0.10) (2021-10-18)
+### [同步 8.0.10](https://github.com/truecharts/apps/compare/syncthing-8.0.9...syncthing-8.0.10) (2021-10-18)
 
 #### 聊天
 
@@ -1031,7 +1031,7 @@
 
 <a name="syncthing-8.0.9"></a>
 
-### [syncthing-8.0.9](https://github.com/truecharts/apps/compare/syncthing-8.0.8...syncthing-8.0.9) (2021-10-17)
+### [同步 8.0.9](https://github.com/truecharts/apps/compare/syncthing-8.0.8...syncthing-8.0.9) (2021-10-17)
 
 #### 聊天
 
@@ -1045,7 +1045,7 @@
 
 <a name="syncthing-8.0.8"></a>
 
-### [syncthing-8.0.8](https://github.com/truecharts/apps/compare/syncthing-8.0.7...syncthing-8.0.8) (2021-10-13)
+### [同步 8.0.8](https://github.com/truecharts/apps/compare/syncthing-8.0.7...syncthing-8.0.8) (2021-10-13)
 
 #### 聊天
 
@@ -1055,7 +1055,7 @@
 
 <a name="syncthing-8.0.7"></a>
 
-### [syncthing-8.0.7](https://github.com/truecharts/apps/compare/syncthing-8.0.6...syncthing-8.0.7) (2021-10-12)
+### [同步 8.0.7](https://github.com/truecharts/apps/compare/syncthing-8.0.6...syncthing-8.0.7) (2021-10-12)
 
 #### 聊天
 
@@ -1065,7 +1065,7 @@
 
 <a name="syncthing-8.0.6"></a>
 
-### [syncthing-8.0.6](https://github.com/truecharts/apps/compare/syncthing-8.0.5...syncthing-8.0.6) (2021-10-12)
+### [同步 8.0.6](https://github.com/truecharts/apps/compare/syncthing-8.0.5...syncthing-8.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -1075,7 +1075,7 @@
 
 <a name="syncthing-8.0.5"></a>
 
-### [syncthing-8.0.5](https://github.com/truecharts/apps/compare/syncthing-8.0.4...syncthing-8.0.5) (2021-10-05)
+### [同步 8.0.5](https://github.com/truecharts/apps/compare/syncthing-8.0.4...syncthing-8.0.5) (2021-10-05)
 
 #### 聊天
 
@@ -1085,7 +1085,7 @@
 
 <a name="syncthing-8.0.4"></a>
 
-### [syncthing-8.0.4](https://github.com/truecharts/apps/compare/syncthing-8.0.3...syncthing-8.0.4) (2021-10-05)
+### [同步 8.0.4](https://github.com/truecharts/apps/compare/syncthing-8.0.3...syncthing-8.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1095,7 +1095,7 @@
 
 <a name="syncthing-8.0.3"></a>
 
-### [syncthing-8.0.3](https://github.com/truecharts/apps/compare/syncthing-8.0.2...syncthing-8.0.3) (2021-09-29)
+### [同步 8.0.3](https://github.com/truecharts/apps/compare/syncthing-8.0.2...syncthing-8.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1105,19 +1105,19 @@
 
 <a name="syncthing-8.0.1"></a>
 
-### [syncthing-8.0.1](https://github.com/truecharts/apps/compare/syncthing-8.0.0...syncthing-8.0.1) (2021-09-26)
+### [同步 8.0.1](https://github.com/truecharts/apps/compare/syncthing-8.0.0...syncthing-8.0.1) (2021-09-26)
 
 
 
 <a name="syncthing-8.0.0"></a>
 
-### [syncthing-8.0.0](https://github.com/truecharts/apps/compare/syncthing-7.0.3...syncthing-8.0.0) (2021-09-26)
+### [同步 8.0.0](https://github.com/truecharts/apps/compare/syncthing-7.0.3...syncthing-8.0.0) (2021-09-26)
 
 
 
 <a name="syncthing-7.0.3"></a>
 
-### [syncthing-7.0.3](https://github.com/truecharts/apps/compare/syncthing-7.0.2...syncthing-7.0.3) (2021-09-21)
+### [同步-7.0.3](https://github.com/truecharts/apps/compare/syncthing-7.0.2...syncthing-7.0.3) (2021-09-21)
 
 #### 聊天
 
@@ -1127,17 +1127,17 @@
 
 <a name="syncthing-7.0.2"></a>
 
-### [syncthing-7.0.2](https://github.com/truecharts/apps/compare/syncthing-7.0.1...syncthing-7.0.2) (2021-09-13)
+### [同步-7.0.2](https://github.com/truecharts/apps/compare/syncthing-7.0.1...syncthing-7.0.2) (2021-09-13)
 
 #### 修复
 
-* correct image tag for Syncthing on SCALE
+* 校正图像标签以便在SCALE 上同步
 
 
 
 <a name="syncthing-7.0.1"></a>
 
-### [syncthing-7.0.1](https://github.com/truecharts/apps/compare/syncthing-6.11.15...syncthing-7.0.1) (2021-09-13)
+### [同步-7.0.1](https://github.com/truecharts/apps/compare/syncthing-6.11.15...syncthing-7.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1157,7 +1157,7 @@
 
 <a name="syncthing-6.11.15"></a>
 
-## [syncthing-6.11.15](https://github.com/truecharts/apps/compare/syncthing-6.11.14...syncthing-6.11.15) (2021-09-08)
+## [同步 6.11.5](https://github.com/truecharts/apps/compare/syncthing-6.11.14...syncthing-6.11.15) (2021-09-08)
 
 ### 修复
 
