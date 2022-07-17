@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [kodi-headless-2.0.17](https://github.com/truecharts/apps/compare/kodi-headless-2.0.16...kodi-headless-2.0.17) (2022-07-14)
+## [kodi-headless -2.0.17](https://github.com/truecharts/apps/compare/kodi-headless-2.0.16...kodi-headless-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [kodi-headless-2.0.16](https://github.com/truecharts/apps/compare/kodi-headless-2.0.14...kodi-headless-2.0.16) (2022-07-14)
+## [kodi-headless -2.0.16](https://github.com/truecharts/apps/compare/kodi-headless-2.0.14...kodi-headless-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [kodi-headless-2.0.14](https://github.com/truecharts/apps/compare/kodi-headless-2.0.12...kodi-headless-2.0.14) (2022-07-12)
+## [kodi-headless -2.0.14](https://github.com/truecharts/apps/compare/kodi-headless-2.0.12...kodi-headless-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [kodi-headless-2.0.12](https://github.com/truecharts/apps/compare/kodi-headless-2.0.11...kodi-headless-2.0.12) (2022-07-12)
+## [kodi-headless -2.0.12](https://github.com/truecharts/apps/compare/kodi-headless-2.0.11...kodi-headless-2.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="kodi-headless-2.0.11"></a>
 
-### [kodi-headless-2.0.11](https://github.com/truecharts/apps/compare/kodi-headless-2.0.10...kodi-headless-2.0.11) (2022-07-12)
+### [kodi-headless -2.0.11](https://github.com/truecharts/apps/compare/kodi-headless-2.0.10...kodi-headless-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="kodi-headless-2.0.10"></a>
 
-### [kodi-headless-2.0.10](https://github.com/truecharts/apps/compare/kodi-headless-2.0.9...kodi-headless-2.0.10) (2022-07-11)
+### [kodi-headless -2.0.10](https://github.com/truecharts/apps/compare/kodi-headless-2.0.9...kodi-headless-2.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="kodi-headless-2.0.9"></a>
 
-### [kodi-headless-2.0.9](https://github.com/truecharts/apps/compare/kodi-headless-2.0.8...kodi-headless-2.0.9) (2022-07-09)
+### [kodi-headless -2.0.9](https://github.com/truecharts/apps/compare/kodi-headless-2.0.8...kodi-headless-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="kodi-headless-2.0.8"></a>
 
-### [kodi-headless-2.0.8](https://github.com/truecharts/apps/compare/kodi-headless-2.0.7...kodi-headless-2.0.8) (2022-07-04)
+### [kodi-headless -2.0.8](https://github.com/truecharts/apps/compare/kodi-headless-2.0.7...kodi-headless-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="kodi-headless-2.0.7"></a>
 
-### [kodi-headless-2.0.7](https://github.com/truecharts/apps/compare/kodi-headless-2.0.6...kodi-headless-2.0.7) (2022-06-25)
+### [kodi-headless -2.0.7](https://github.com/truecharts/apps/compare/kodi-headless-2.0.6...kodi-headless-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="kodi-headless-2.0.6"></a>
 
-### [kodi-headless-2.0.6](https://github.com/truecharts/apps/compare/kodi-headless-2.0.5...kodi-headless-2.0.6) (2022-06-22)
+### [kodi-headless -2.0.6](https://github.com/truecharts/apps/compare/kodi-headless-2.0.5...kodi-headless-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="kodi-headless-2.0.5"></a>
 
-### [kodi-headless-2.0.5](https://github.com/truecharts/apps/compare/kodi-headless-2.0.4...kodi-headless-2.0.5) (2022-06-21)
+### [kodi-headless -2.0.5](https://github.com/truecharts/apps/compare/kodi-headless-2.0.4...kodi-headless-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="kodi-headless-2.0.4"></a>
 
-### [kodi-headless-2.0.4](https://github.com/truecharts/apps/compare/kodi-headless-2.0.3...kodi-headless-2.0.4) (2022-06-14)
+### [kodi-headless -2.0.4](https://github.com/truecharts/apps/compare/kodi-headless-2.0.3...kodi-headless-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="kodi-headless-2.0.3"></a>
 
-### [kodi-headless-2.0.3](https://github.com/truecharts/apps/compare/kodi-headless-2.0.2...kodi-headless-2.0.3) (2022-06-11)
+### [kodi-headless -2.0.3](https://github.com/truecharts/apps/compare/kodi-headless-2.0.2...kodi-headless-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="kodi-headless-2.0.2"></a>
 
-### [kodi-headless-2.0.2](https://github.com/truecharts/apps/compare/kodi-headless-2.0.1...kodi-headless-2.0.2) (2022-06-07)
+### [kodi-headless -2.0.2](https://github.com/truecharts/apps/compare/kodi-headless-2.0.1...kodi-headless-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="kodi-headless-2.0.1"></a>
 
-### [kodi-headless-2.0.1](https://github.com/truecharts/apps/compare/kodi-headless-1.0.19...kodi-headless-2.0.1) (2022-06-07)
+### [kodi-headless -2.0.1](https://github.com/truecharts/apps/compare/kodi-headless-1.0.19...kodi-headless-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -155,7 +155,7 @@
 
 <a name="kodi-headless-2.0.0"></a>
 
-### [kodi-headless-2.0.0](https://github.com/truecharts/apps/compare/kodi-headless-1.0.19...kodi-headless-2.0.0) (2022-06-07)
+### [kodi-headless -2.0.0](https://github.com/truecharts/apps/compare/kodi-headless-1.0.19...kodi-headless-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="kodi-headless-1.0.19"></a>
 
-### [kodi-headless-1.0.19](https://github.com/truecharts/apps/compare/kodi-headless-1.0.18...kodi-headless-1.0.19) (2022-05-31)
+### [kodi-headles-1.0.19](https://github.com/truecharts/apps/compare/kodi-headless-1.0.18...kodi-headless-1.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="kodi-headless-1.0.18"></a>
 
-### [kodi-headless-1.0.18](https://github.com/truecharts/apps/compare/kodi-headless-1.0.17...kodi-headless-1.0.18) (2022-05-26)
+### [kodi-headles-1.0.18](https://github.com/truecharts/apps/compare/kodi-headless-1.0.17...kodi-headless-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="kodi-headless-1.0.18"></a>
 
-### [kodi-headless-1.0.18](https://github.com/truecharts/apps/compare/kodi-headless-1.0.17...kodi-headless-1.0.18) (2022-05-26)
+### [kodi-headles-1.0.18](https://github.com/truecharts/apps/compare/kodi-headless-1.0.17...kodi-headless-1.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="kodi-headless-1.0.17"></a>
 
-### [kodi-headless-1.0.17](https://github.com/truecharts/apps/compare/kodi-headless-1.0.16...kodi-headless-1.0.17) (2022-05-24)
+### [kodi-headles-1.0.17](https://github.com/truecharts/apps/compare/kodi-headless-1.0.16...kodi-headless-1.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="kodi-headless-1.0.16"></a>
 
-### [kodi-headless-1.0.16](https://github.com/truecharts/apps/compare/kodi-headless-1.0.15...kodi-headless-1.0.16) (2022-05-17)
+### [kodi-leadles-1.0.16](https://github.com/truecharts/apps/compare/kodi-headless-1.0.15...kodi-headless-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="kodi-headless-1.0.16"></a>
 
-### [kodi-headless-1.0.16](https://github.com/truecharts/apps/compare/kodi-headless-1.0.15...kodi-headless-1.0.16) (2022-05-17)
+### [kodi-leadles-1.0.16](https://github.com/truecharts/apps/compare/kodi-headless-1.0.15...kodi-headless-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="kodi-headless-1.0.15"></a>
 
-### [kodi-headless-1.0.15](https://github.com/truecharts/apps/compare/kodi-headless-1.0.14...kodi-headless-1.0.15) (2022-05-17)
+### [kodi-leadles-1.0.15](https://github.com/truecharts/apps/compare/kodi-headless-1.0.14...kodi-headless-1.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="kodi-headless-1.0.14"></a>
 
-### [kodi-headless-1.0.14](https://github.com/truecharts/apps/compare/kodi-headless-1.0.13...kodi-headless-1.0.14) (2022-05-10)
+### [kodi-headles-1.0.14](https://github.com/truecharts/apps/compare/kodi-headless-1.0.13...kodi-headless-1.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="kodi-headless-1.0.13"></a>
 
-### [kodi-headless-1.0.13](https://github.com/truecharts/apps/compare/kodi-headless-1.0.12...kodi-headless-1.0.13) (2022-05-05)
+### [kodi-headless -1.0.13](https://github.com/truecharts/apps/compare/kodi-headless-1.0.12...kodi-headless-1.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="kodi-headless-1.0.12"></a>
 
-### [kodi-headless-1.0.12](https://github.com/truecharts/apps/compare/kodi-headless-1.0.11...kodi-headless-1.0.12) (2022-04-26)
+### [kodi-headless -1.0.12](https://github.com/truecharts/apps/compare/kodi-headless-1.0.11...kodi-headless-1.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="kodi-headless-1.0.11"></a>
 
-### [kodi-headless-1.0.11](https://github.com/truecharts/apps/compare/kodi-headless-1.0.10...kodi-headless-1.0.11) (2022-04-20)
+### [kodi-headles-1.0.11](https://github.com/truecharts/apps/compare/kodi-headless-1.0.10...kodi-headless-1.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="kodi-headless-1.0.10"></a>
 
-### [kodi-headless-1.0.10](https://github.com/truecharts/apps/compare/kodi-headless-1.0.9...kodi-headless-1.0.10) (2022-04-12)
+### [kodi-headles-1.0.10](https://github.com/truecharts/apps/compare/kodi-headless-1.0.9...kodi-headless-1.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="kodi-headless-1.0.9"></a>
 
-### [kodi-headless-1.0.9](https://github.com/truecharts/apps/compare/kodi-headless-1.0.8...kodi-headless-1.0.9) (2022-04-03)
+### [kodi-headles-1.0.9](https://github.com/truecharts/apps/compare/kodi-headless-1.0.8...kodi-headless-1.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="kodi-headless-1.0.8"></a>
 
-### [kodi-headless-1.0.8](https://github.com/truecharts/apps/compare/kodi-headless-1.0.7...kodi-headless-1.0.8) (2022-03-31)
+### [kodi-headles-1.0.8](https://github.com/truecharts/apps/compare/kodi-headless-1.0.7...kodi-headless-1.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="kodi-headless-1.0.7"></a>
 
-### [kodi-headless-1.0.7](https://github.com/truecharts/apps/compare/kodi-headless-1.0.6...kodi-headless-1.0.7) (2022-03-30)
+### [kodi-headles-1.0.7](https://github.com/truecharts/apps/compare/kodi-headless-1.0.6...kodi-headless-1.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="kodi-headless-1.0.6"></a>
 
-### [kodi-headless-1.0.6](https://github.com/truecharts/apps/compare/kodi-headless-1.0.5...kodi-headless-1.0.6) (2022-03-26)
+### [kodi-headles-1.0.6](https://github.com/truecharts/apps/compare/kodi-headless-1.0.5...kodi-headless-1.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="kodi-headless-1.0.1"></a>
 
-### [kodi-headless-1.0.1](https://github.com/truecharts/apps/compare/kodi-headless-1.0.0...kodi-headless-1.0.1) (2022-03-07)
+### [kodi-headless -1.0.1](https://github.com/truecharts/apps/compare/kodi-headless-1.0.0...kodi-headless-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="kodi-headless-1.0.0"></a>
 
-### [kodi-headless-1.0.0](https://github.com/truecharts/apps/compare/kodi-headless-0.0.24...kodi-headless-1.0.0) (2022-03-03)
+### [kodi-headless -1.0.0](https://github.com/truecharts/apps/compare/kodi-headless-0.0.24...kodi-headless-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -360,7 +360,7 @@
 
 <a name="kodi-headless-0.0.24"></a>
 
-### [kodi-headless-0.0.24](https://github.com/truecharts/apps/compare/kodi-headless-0.0.23...kodi-headless-0.0.24) (2022-03-02)
+### [kodi-headles-0.0.24](https://github.com/truecharts/apps/compare/kodi-headless-0.0.23...kodi-headless-0.0.24) (2022-03-02)
 
 #### 聊天
 
@@ -371,7 +371,7 @@
 
 <a name="kodi-headless-0.0.23"></a>
 
-### [kodi-headless-0.0.23](https://github.com/truecharts/apps/compare/kodi-headless-0.0.22...kodi-headless-0.0.23) (2022-02-21)
+### [kodi-headles-0.0.23](https://github.com/truecharts/apps/compare/kodi-headless-0.0.22...kodi-headless-0.0.23) (2022-02-21)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="kodi-headless-0.0.22"></a>
 
-### [kodi-headless-0.0.22](https://github.com/truecharts/apps/compare/kodi-headless-0.0.21...kodi-headless-0.0.22) (2022-02-15)
+### [kodi-headles-0.0.22](https://github.com/truecharts/apps/compare/kodi-headless-0.0.21...kodi-headless-0.0.22) (2022-02-15)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="kodi-headless-0.0.21"></a>
 
-### [kodi-headless-0.0.21](https://github.com/truecharts/apps/compare/kodi-headless-0.0.20...kodi-headless-0.0.21) (2022-02-08)
+### [kodi-headles-0.0.21](https://github.com/truecharts/apps/compare/kodi-headless-0.0.20...kodi-headless-0.0.21) (2022-02-08)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="kodi-headless-0.0.20"></a>
 
-### [kodi-headless-0.0.20](https://github.com/truecharts/apps/compare/kodi-headless-0.0.19...kodi-headless-0.0.20) (2022-02-06)
+### [kodi-headles-0.0.20](https://github.com/truecharts/apps/compare/kodi-headless-0.0.19...kodi-headless-0.0.20) (2022-02-06)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="kodi-headless-0.0.19"></a>
 
-### [kodi-headless-0.0.19](https://github.com/truecharts/apps/compare/kodi-headless-0.0.18...kodi-headless-0.0.19) (2022-02-05)
+### [kodi-headles-0.0.19](https://github.com/truecharts/apps/compare/kodi-headless-0.0.18...kodi-headless-0.0.19) (2022-02-05)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="kodi-headless-0.0.18"></a>
 
-### [kodi-headless-0.0.18](https://github.com/truecharts/apps/compare/kodi-headless-0.0.17...kodi-headless-0.0.18) (2022-02-02)
+### [kodi-headles-0.0.18](https://github.com/truecharts/apps/compare/kodi-headless-0.0.17...kodi-headless-0.0.18) (2022-02-02)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="kodi-headless-0.0.17"></a>
 
-### [kodi-headless-0.0.17](https://github.com/truecharts/apps/compare/kodi-headless-0.0.16...kodi-headless-0.0.17) (2022-01-25)
+### [kodi-headles-0.0.17](https://github.com/truecharts/apps/compare/kodi-headless-0.0.16...kodi-headless-0.0.17) (2022-01-25)
 
 #### 聊天
 
@@ -441,7 +441,7 @@
 
 <a name="kodi-headless-0.0.16"></a>
 
-### [kodi-headless-0.0.16](https://github.com/truecharts/apps/compare/kodi-headless-0.0.15...kodi-headless-0.0.16) (2022-01-22)
+### [kodi-headles-0.0.16](https://github.com/truecharts/apps/compare/kodi-headless-0.0.15...kodi-headless-0.0.16) (2022-01-22)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="kodi-headless-0.0.15"></a>
 
-### [kodi-headless-0.0.15](https://github.com/truecharts/apps/compare/kodi-headless-0.0.14...kodi-headless-0.0.15) (2022-01-21)
+### [kodi-headles-0.0.15](https://github.com/truecharts/apps/compare/kodi-headless-0.0.14...kodi-headless-0.0.15) (2022-01-21)
 
 #### 聊天
 
@@ -465,7 +465,7 @@
 
 <a name="kodi-headless-0.0.14"></a>
 
-### [kodi-headless-0.0.14](https://github.com/truecharts/apps/compare/kodi-headless-0.0.13...kodi-headless-0.0.14) (2022-01-18)
+### [kodi-headles-0.0.14](https://github.com/truecharts/apps/compare/kodi-headless-0.0.13...kodi-headless-0.0.14) (2022-01-18)
 
 #### 聊天
 
@@ -475,7 +475,7 @@
 
 <a name="kodi-headless-0.0.13"></a>
 
-### [kodi-headless-0.0.13](https://github.com/truecharts/apps/compare/kodi-headless-0.0.12...kodi-headless-0.0.13) (2022-01-13)
+### [kodi-headles-0.0.13](https://github.com/truecharts/apps/compare/kodi-headless-0.0.12...kodi-headless-0.0.13) (2022-01-13)
 
 #### 聊天
 
@@ -489,7 +489,7 @@
 
 <a name="kodi-headless-0.0.12"></a>
 
-### [kodi-headless-0.0.12](https://github.com/truecharts/apps/compare/kodi-headless-0.0.11...kodi-headless-0.0.12) (2022-01-12)
+### [kodi-headles-0.0.12](https://github.com/truecharts/apps/compare/kodi-headless-0.0.11...kodi-headless-0.0.12) (2022-01-12)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="kodi-headless-0.0.11"></a>
 
-### [kodi-headless-0.0.11](https://github.com/truecharts/apps/compare/kodi-headless-0.0.10...kodi-headless-0.0.11) (2022-01-11)
+### [kodi-headles-0.0.11](https://github.com/truecharts/apps/compare/kodi-headless-0.0.10...kodi-headless-0.0.11) (2022-01-11)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="kodi-headless-0.0.10"></a>
 
-### [kodi-headless-0.0.10](https://github.com/truecharts/apps/compare/kodi-headless-0.0.9...kodi-headless-0.0.10) (2022-01-04)
+### [kodi-headles-0.0.10](https://github.com/truecharts/apps/compare/kodi-headless-0.0.9...kodi-headless-0.0.10) (2022-01-04)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="kodi-headless-0.0.9"></a>
 
-### [kodi-headless-0.0.9](https://github.com/truecharts/apps/compare/kodi-headless-0.0.8...kodi-headless-0.0.9) (2021-12-28)
+### [kodi-headles-0.0.9](https://github.com/truecharts/apps/compare/kodi-headless-0.0.8...kodi-headless-0.0.9) (2021-12-28)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="kodi-headless-0.0.8"></a>
 
-### [kodi-headless-0.0.8](https://github.com/truecharts/apps/compare/kodi-headless-0.0.7...kodi-headless-0.0.8) (2021-12-21)
+### [kodi-headles-0.0.8](https://github.com/truecharts/apps/compare/kodi-headless-0.0.7...kodi-headless-0.0.8) (2021-12-21)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="kodi-headless-0.0.7"></a>
 
-### [kodi-headless-0.0.7](https://github.com/truecharts/apps/compare/kodi-headless-0.0.6...kodi-headless-0.0.7) (2021-12-19)
+### [kodi-headles-0.0.7](https://github.com/truecharts/apps/compare/kodi-headless-0.0.6...kodi-headless-0.0.7) (2021-12-19)
 
 #### 聊天
 
@@ -549,7 +549,7 @@
 
 <a name="kodi-headless-0.0.6"></a>
 
-### [kodi-headless-0.0.6](https://github.com/truecharts/apps/compare/kodi-headless-0.0.5...kodi-headless-0.0.6) (2021-12-19)
+### [kodi-headles-0.0.6](https://github.com/truecharts/apps/compare/kodi-headless-0.0.5...kodi-headless-0.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="kodi-headless-0.0.5"></a>
 
-### [kodi-headless-0.0.5](https://github.com/truecharts/apps/compare/kodi-headless-0.0.4...kodi-headless-0.0.5) (2021-12-18)
+### [kodi-headles-0.0.5](https://github.com/truecharts/apps/compare/kodi-headless-0.0.4...kodi-headless-0.0.5) (2021-12-18岁)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="kodi-headless-0.0.4"></a>
 
-### [kodi-headless-0.0.4](https://github.com/truecharts/apps/compare/kodi-headless-0.0.3...kodi-headless-0.0.4) (2021-12-17)
+### [kodi-headles-0.0.4](https://github.com/truecharts/apps/compare/kodi-headless-0.0.3...kodi-headless-0.0.4) (2021-12-17)
 
 #### 聊天
 
@@ -584,7 +584,7 @@
 
 <a name="kodi-headless-0.0.3"></a>
 
-### [kodi-headless-0.0.3](https://github.com/truecharts/apps/compare/kodi-headless-0.0.2...kodi-headless-0.0.3) (2021-12-14)
+### [kodi-headles-0.0.3](https://github.com/truecharts/apps/compare/kodi-headless-0.0.2...kodi-headless-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -594,7 +594,7 @@
 
 <a name="kodi-headless-0.0.2"></a>
 
-### [kodi-headless-0.0.2](https://github.com/truecharts/apps/compare/kodi-headless-0.0.1...kodi-headless-0.0.2) (2021-12-13)
+### [kodi-headles-0.0.2](https://github.com/truecharts/apps/compare/kodi-headless-0.0.1...kodi-headless-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -604,4 +604,4 @@
 
 <a name="kodi-headless-0.0.1"></a>
 
-### kodi-headless-0.0.1 (2021-12-12)
+### kodi-headles-0.0.1 (2021-12)
