@@ -519,7 +519,7 @@
 
 <a name="grocy-9.0.48"></a>
 
-### [grocy-9.0.48](https://github.com/truecharts/apps/compare/grocy-9.0.47...grocy-9.0.48) (2022-03-02)
+### [groc-9.0.48](https://github.com/truecharts/apps/compare/grocy-9.0.47...grocy-9.0.48) (2022-03-02)
 
 #### 聊天
 
@@ -530,7 +530,7 @@
 
 <a name="grocy-9.0.47"></a>
 
-### [grocy-9.0.47](https://github.com/truecharts/apps/compare/grocy-9.0.46...grocy-9.0.47) (2022-02-21)
+### [groc-9.0.47](https://github.com/truecharts/apps/compare/grocy-9.0.46...grocy-9.0.47) (2022-02-21)
 
 #### 聊天
 
@@ -540,7 +540,7 @@
 
 <a name="grocy-9.0.46"></a>
 
-### [grocy-9.0.46](https://github.com/truecharts/apps/compare/grocy-9.0.45...grocy-9.0.46) (2022-02-15)
+### [groc-9.0.46](https://github.com/truecharts/apps/compare/grocy-9.0.45...grocy-9.0.46) (2022-02-15)
 
 #### 聊天
 
@@ -560,7 +560,7 @@
 
 <a name="grocy-9.0.44"></a>
 
-### [grocy-9.0.44](https://github.com/truecharts/apps/compare/grocy-9.0.43...grocy-9.0.44) (2022-02-10)
+### [groc-9.0.44](https://github.com/truecharts/apps/compare/grocy-9.0.43...grocy-9.0.44) (2022-02-10)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="grocy-9.0.43"></a>
 
-### [grocy-9.0.43](https://github.com/truecharts/apps/compare/grocy-9.0.42...grocy-9.0.43) (2022-02-08)
+### [groc-9.0.43](https://github.com/truecharts/apps/compare/grocy-9.0.42...grocy-9.0.43) (2022-02-08)
 
 #### 聊天
 
@@ -580,7 +580,7 @@
 
 <a name="grocy-9.0.42"></a>
 
-### [grocy-9.0.42](https://github.com/truecharts/apps/compare/grocy-9.0.41...grocy-9.0.42) (2022-02-06)
+### [groc-9.0.42](https://github.com/truecharts/apps/compare/grocy-9.0.41...grocy-9.0.42) (2022-02-06)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="grocy-9.0.41"></a>
 
-### [grocy-9.0.41](https://github.com/truecharts/apps/compare/grocy-9.0.40...grocy-9.0.41) (2022-02-05)
+### [groc-9.0.41](https://github.com/truecharts/apps/compare/grocy-9.0.40...grocy-9.0.41) (2022-02-05)
 
 #### 聊天
 
@@ -600,7 +600,7 @@
 
 <a name="grocy-9.0.40"></a>
 
-### [grocy-9.0.40](https://github.com/truecharts/apps/compare/grocy-9.0.39...grocy-9.0.40) (2022-02-03)
+### [groc-9.0.40](https://github.com/truecharts/apps/compare/grocy-9.0.39...grocy-9.0.40) (2022-02-03)
 
 #### 聊天
 
@@ -610,7 +610,7 @@
 
 <a name="grocy-9.0.39"></a>
 
-### [grocy-9.0.39](https://github.com/truecharts/apps/compare/grocy-9.0.38...grocy-9.0.39) (2022-02-02)
+### [groc-9.0.39](https://github.com/truecharts/apps/compare/grocy-9.0.38...grocy-9.0.39) (2022-02-02)
 
 #### 聊天
 
@@ -620,7 +620,7 @@
 
 <a name="grocy-9.0.38"></a>
 
-### [grocy-9.0.38](https://github.com/truecharts/apps/compare/grocy-9.0.37...grocy-9.0.38) (2022-01-31)
+### [groc-9.0.38](https://github.com/truecharts/apps/compare/grocy-9.0.37...grocy-9.0.38) (2022-01-31)
 
 #### 聊天
 
@@ -640,7 +640,7 @@
 
 <a name="grocy-9.0.36"></a>
 
-### [grocy-9.0.36](https://github.com/truecharts/apps/compare/grocy-9.0.35...grocy-9.0.36) (2022-01-22)
+### [groc-9.0.36](https://github.com/truecharts/apps/compare/grocy-9.0.35...grocy-9.0.36) (2022-01-22)
 
 #### 聊天
 
@@ -650,7 +650,7 @@
 
 <a name="grocy-9.0.35"></a>
 
-### [grocy-9.0.35](https://github.com/truecharts/apps/compare/grocy-9.0.34...grocy-9.0.35) (2022-01-21)
+### [groc-9.0.35](https://github.com/truecharts/apps/compare/grocy-9.0.34...grocy-9.0.35) (2022-01-21)
 
 #### 聊天
 
@@ -660,7 +660,7 @@
 
 <a name="grocy-9.0.34"></a>
 
-### [grocy-9.0.34](https://github.com/truecharts/apps/compare/grocy-9.0.33...grocy-9.0.34) (2022-01-21)
+### [groc-9.0.34](https://github.com/truecharts/apps/compare/grocy-9.0.33...grocy-9.0.34) (2022-01-21)
 
 #### 聊天
 
@@ -684,7 +684,7 @@
 
 <a name="grocy-9.0.32"></a>
 
-### [grocy-9.0.32](https://github.com/truecharts/apps/compare/grocy-9.0.31...grocy-9.0.32) (2022-01-13)
+### [groc-9.0.32](https://github.com/truecharts/apps/compare/grocy-9.0.31...grocy-9.0.32) (2022-01-13)
 
 #### 聊天
 
@@ -698,7 +698,7 @@
 
 <a name="grocy-9.0.31"></a>
 
-### [grocy-9.0.31](https://github.com/truecharts/apps/compare/grocy-9.0.30...grocy-9.0.31) (2022-01-12)
+### [groc-9.0.31](https://github.com/truecharts/apps/compare/grocy-9.0.30...grocy-9.0.31) (2022-01-12)
 
 #### 聊天
 
@@ -718,7 +718,7 @@
 
 <a name="grocy-9.0.29"></a>
 
-### [grocy-9.0.29](https://github.com/truecharts/apps/compare/grocy-9.0.28...grocy-9.0.29) (2022-01-04)
+### [groc-9.0.29](https://github.com/truecharts/apps/compare/grocy-9.0.28...grocy-9.0.29) (2022-01-04)
 
 #### 聊天
 
@@ -728,7 +728,7 @@
 
 <a name="grocy-9.0.28"></a>
 
-### [grocy-9.0.28](https://github.com/truecharts/apps/compare/grocy-9.0.27...grocy-9.0.28) (2021-12-28)
+### [groc-9.0.28](https://github.com/truecharts/apps/compare/grocy-9.0.27...grocy-9.0.28) (2021-12-28)
 
 #### 聊天
 
@@ -738,7 +738,7 @@
 
 <a name="grocy-9.0.27"></a>
 
-### [grocy-9.0.27](https://github.com/truecharts/apps/compare/grocy-9.0.26...grocy-9.0.27) (2021-12-21)
+### [groc-9.0.27](https://github.com/truecharts/apps/compare/grocy-9.0.26...grocy-9.0.27) (2021-12-21)
 
 #### 聊天
 
@@ -748,7 +748,7 @@
 
 <a name="grocy-9.0.26"></a>
 
-### [grocy-9.0.26](https://github.com/truecharts/apps/compare/grocy-9.0.25...grocy-9.0.26) (2021-12-19)
+### [groc-9.0.26](https://github.com/truecharts/apps/compare/grocy-9.0.25...grocy-9.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -759,7 +759,7 @@
 
 <a name="grocy-9.0.25"></a>
 
-### [grocy-9.0.25](https://github.com/truecharts/apps/compare/grocy-9.0.24...grocy-9.0.25) (2021-12-19)
+### [groc-9.0.25](https://github.com/truecharts/apps/compare/grocy-9.0.24...grocy-9.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -770,7 +770,7 @@
 
 <a name="grocy-9.0.24"></a>
 
-### [grocy-9.0.24](https://github.com/truecharts/apps/compare/grocy-9.0.23...grocy-9.0.24) (2021-12-18)
+### [groc-9.0.24](https://github.com/truecharts/apps/compare/grocy-9.0.23...grocy-9.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -781,7 +781,7 @@
 
 <a name="grocy-9.0.23"></a>
 
-### [grocy-9.0.23](https://github.com/truecharts/apps/compare/grocy-9.0.22...grocy-9.0.23) (2021-12-14)
+### [groc-9.0.23](https://github.com/truecharts/apps/compare/grocy-9.0.22...grocy-9.0.23) (2021-12-14)
 
 #### 聊天
 
@@ -791,7 +791,7 @@
 
 <a name="grocy-9.0.22"></a>
 
-### [grocy-9.0.22](https://github.com/truecharts/apps/compare/grocy-9.0.21...grocy-9.0.22) (2021-12-13)
+### [groc-9.0.22](https://github.com/truecharts/apps/compare/grocy-9.0.21...grocy-9.0.22) (2021-12-13)
 
 #### 聊天
 
@@ -801,7 +801,7 @@
 
 <a name="grocy-9.0.21"></a>
 
-### [grocy-9.0.21](https://github.com/truecharts/apps/compare/grocy-9.0.20...grocy-9.0.21) (2021-12-11)
+### [groc-9.0.21](https://github.com/truecharts/apps/compare/grocy-9.0.20...grocy-9.0.21) (2021-12-11)
 
 #### 聊天
 
@@ -811,7 +811,7 @@
 
 <a name="grocy-9.0.20"></a>
 
-### [grocy-9.0.20](https://github.com/truecharts/apps/compare/grocy-9.0.19...grocy-9.0.20) (2021-12-07)
+### [groc-9.0.20](https://github.com/truecharts/apps/compare/grocy-9.0.19...grocy-9.0.20) (2021-12-07)
 
 #### 聊天
 
@@ -831,7 +831,7 @@
 
 <a name="grocy-9.0.18"></a>
 
-### grocy-9.0.18 (2021-12-05)
+### （2021-12-05年）
 
 #### 聊天
 
@@ -892,7 +892,7 @@
 
 <a name="grocy-9.0.13"></a>
 
-### [grocy-9.0.13](https://github.com/truecharts/apps/compare/grocy-9.0.12...grocy-9.0.13) (2021-11-30)
+### [groc-9.0.13](https://github.com/truecharts/apps/compare/grocy-9.0.12...grocy-9.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -906,7 +906,7 @@
 
 <a name="grocy-9.0.12"></a>
 
-### [grocy-9.0.12](https://github.com/truecharts/apps/compare/grocy-9.0.11...grocy-9.0.12) (2021-11-23)
+### [groc-9.0.12](https://github.com/truecharts/apps/compare/grocy-9.0.11...grocy-9.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -926,7 +926,7 @@
 
 <a name="grocy-9.0.10"></a>
 
-### [grocy-9.0.10](https://github.com/truecharts/apps/compare/grocy-9.0.9...grocy-9.0.10) (2021-11-16)
+### [groc-9.0.10](https://github.com/truecharts/apps/compare/grocy-9.0.9...grocy-9.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -936,7 +936,7 @@
 
 <a name="grocy-9.0.9"></a>
 
-### [grocy-9.0.9](https://github.com/truecharts/apps/compare/grocy-9.0.8...grocy-9.0.9) (2021-11-15)
+### [groc-9.0.9](https://github.com/truecharts/apps/compare/grocy-9.0.8...grocy-9.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -965,7 +965,7 @@
 
 <a name="grocy-9.0.7"></a>
 
-### [grocy-9.0.7](https://github.com/truecharts/apps/compare/grocy-9.0.6...grocy-9.0.7) (2021-11-09)
+### [groc-9.0.7](https://github.com/truecharts/apps/compare/grocy-9.0.6...grocy-9.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -1003,7 +1003,7 @@
 
 <a name="grocy-9.0.4"></a>
 
-### [grocy-9.0.4](https://github.com/truecharts/apps/compare/grocy-9.0.3...grocy-9.0.4) (2021-11-02)
+### [groc-9.0.4](https://github.com/truecharts/apps/compare/grocy-9.0.3...grocy-9.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -1013,7 +1013,7 @@
 
 <a name="grocy-9.0.3"></a>
 
-### [grocy-9.0.3](https://github.com/truecharts/apps/compare/grocy-9.0.2...grocy-9.0.3) (2021-11-01)
+### [groc-9.0.3](https://github.com/truecharts/apps/compare/grocy-9.0.2...grocy-9.0.3) (2021-11-01)
 
 #### 聊天
 
