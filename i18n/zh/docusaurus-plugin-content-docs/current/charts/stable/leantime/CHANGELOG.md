@@ -667,7 +667,7 @@
 
 #### Feat
 
-* set LEAN_APP_URL if ingress is enabled ([#1594](https://github.com/truecharts/apps/issues/1594))
+* 如果收件人已启用，设置 LEAN_APP_URL ([#1594](https://github.com/truecharts/apps/issues/1594))
 
 
 
@@ -693,17 +693,17 @@
 
 <a name="leantime-1.0.0"></a>
 
-### [leantime-1.0.0](https://github.com/truecharts/apps/compare/leantime-0.0.12...leantime-1.0.0) (2021-12-18)
+### [leantime-1.0.0](https://github.com/truecharts/apps/compare/leantime-0.0.12...leantime-1.0.0) (2021-12-18岁)
 
 #### Feat
 
-* use official image ([#1562](https://github.com/truecharts/apps/issues/1562))
+* 使用官方图像 ([#1562](https://github.com/truecharts/apps/issues/1562))
 
 
 
 <a name="leantime-0.0.12"></a>
 
-### [leantime-0.0.12](https://github.com/truecharts/apps/compare/leantime-0.0.11...leantime-0.0.12) (2021-12-18)
+### [leantime-0.0.12](https://github.com/truecharts/apps/compare/leantime-0.0.11...leantime-0.0.12) (2021-12-18岁)
 
 #### 聊天
 
@@ -827,7 +827,7 @@
 
 <a name="leantime-0.0.1"></a>
 
-### leantime-0.0.1 (2021-11-30)
+### 劳蒂梅-0.0.1 (2021-11-30)
 
 #### Feat
 
