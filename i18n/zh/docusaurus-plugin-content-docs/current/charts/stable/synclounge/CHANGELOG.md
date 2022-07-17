@@ -42,7 +42,7 @@
 
 
 
-## [synclounge-2.0.16](https://github.com/truecharts/apps/compare/synclounge-2.0.15...synclounge-2.0.16) (2022-07-12)
+## [同步-2.0.16](https://github.com/truecharts/apps/compare/synclounge-2.0.15...synclounge-2.0.16) (2022-07-12)
 
 ### 聊天
 
