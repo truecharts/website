@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://hub.docker.com/r/linuxserver/htpcmanager>
+* [https://hub.docker.com/r/linuxserver/htpcManager](https://hub.docker.com/r/linuxserver/htpcmanager)
 
 ## B. 所需经费
 
