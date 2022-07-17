@@ -2,4 +2,4 @@
 
 __Email__: `admin@koel.dev`
 
-__Password__: `KoelIsCool`
+__密码__: `KoelIsCool`
