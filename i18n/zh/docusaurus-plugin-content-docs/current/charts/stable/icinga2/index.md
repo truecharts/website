@@ -1,6 +1,6 @@
 # icinga2
 
-A monitoring system which checks the availability of your network resources, notifies users of outages, and generates performance data for reporting.
+用于检查您的网络资源是否可用、通知用户停用以及生成用于报告的性能数据的监测系统。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
