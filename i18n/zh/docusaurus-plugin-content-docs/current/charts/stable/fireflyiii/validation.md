@@ -1,4 +1,4 @@
-# Input Validation
+# 输入验证
 
 __`APP_KEY`__ Accepted formats are:
 
@@ -8,4 +8,4 @@ You can try live [here](https://regex101.com/r/OR879w/1) Regex used to match thi
 
 ---
 
-_If you find a field that you think it needs validation, please open an issue on github_
+_如果您找到了一个您认为需要验证的字段，请在 github 上打开一个问题_
