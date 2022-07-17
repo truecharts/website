@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [fleet-3.0.18](https://github.com/truecharts/apps/compare/fleet-3.0.17...fleet-3.0.18) (2022-07-14)
+## [机队-3.0.18](https://github.com/truecharts/apps/compare/fleet-3.0.17...fleet-3.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [fleet-3.0.17](https://github.com/truecharts/apps/compare/fleet-3.0.15...fleet-3.0.17) (2022-07-14)
+## [机队-3.0.17](https://github.com/truecharts/apps/compare/fleet-3.0.15...fleet-3.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [fleet-3.0.15](https://github.com/truecharts/apps/compare/fleet-3.0.13...fleet-3.0.15) (2022-07-12)
+## [机队-3.0.15](https://github.com/truecharts/apps/compare/fleet-3.0.13...fleet-3.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [fleet-3.0.13](https://github.com/truecharts/apps/compare/fleet-3.0.12...fleet-3.0.13) (2022-07-12)
+## [机队-3.0.13](https://github.com/truecharts/apps/compare/fleet-3.0.12...fleet-3.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="fleet-3.0.12"></a>
 
-### [fleet-3.0.12](https://github.com/truecharts/apps/compare/fleet-3.0.11...fleet-3.0.12) (2022-07-12)
+### [机队-3.0.12](https://github.com/truecharts/apps/compare/fleet-3.0.11...fleet-3.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="fleet-3.0.11"></a>
 
-### [fleet-3.0.11](https://github.com/truecharts/apps/compare/fleet-3.0.10...fleet-3.0.11) (2022-07-11)
+### [机队-3.0.11](https://github.com/truecharts/apps/compare/fleet-3.0.10...fleet-3.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="fleet-3.0.10"></a>
 
-### [fleet-3.0.10](https://github.com/truecharts/apps/compare/fleet-3.0.9...fleet-3.0.10) (2022-07-09)
+### [舰队-3.0.10](https://github.com/truecharts/apps/compare/fleet-3.0.9...fleet-3.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="fleet-3.0.9"></a>
 
-### [fleet-3.0.9](https://github.com/truecharts/apps/compare/fleet-3.0.8...fleet-3.0.9) (2022-07-05)
+### [舰队-3.0.9](https://github.com/truecharts/apps/compare/fleet-3.0.8...fleet-3.0.9) (2022-07-05)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="fleet-3.0.8"></a>
 
-### [fleet-3.0.8](https://github.com/truecharts/apps/compare/fleet-3.0.7...fleet-3.0.8) (2022-07-04)
+### [舰队-3.0.8](https://github.com/truecharts/apps/compare/fleet-3.0.7...fleet-3.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="fleet-3.0.7"></a>
 
-### [fleet-3.0.7](https://github.com/truecharts/apps/compare/fleet-3.0.6...fleet-3.0.7) (2022-06-29)
+### [机队-3.0.7](https://github.com/truecharts/apps/compare/fleet-3.0.6...fleet-3.0.7) (2022-06-29)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="fleet-3.0.6"></a>
 
-### [fleet-3.0.6](https://github.com/truecharts/apps/compare/fleet-3.0.5...fleet-3.0.6) (2022-06-25)
+### [机队-3.0.6](https://github.com/truecharts/apps/compare/fleet-3.0.5...fleet-3.0.6) (2022-06-25)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="fleet-3.0.5"></a>
 
-### [fleet-3.0.5](https://github.com/truecharts/apps/compare/fleet-3.0.4...fleet-3.0.5) (2022-06-22)
+### [机队-3.0.5](https://github.com/truecharts/apps/compare/fleet-3.0.4...fleet-3.0.5) (2022-06-22)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="fleet-3.0.4"></a>
 
-### [fleet-3.0.4](https://github.com/truecharts/apps/compare/fleet-3.0.3...fleet-3.0.4) (2022-06-21)
+### [机队-3.0.4](https://github.com/truecharts/apps/compare/fleet-3.0.3...fleet-3.0.4) (2022-06-21)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="fleet-3.0.3"></a>
 
-### [fleet-3.0.3](https://github.com/truecharts/apps/compare/fleet-3.0.2...fleet-3.0.3) (2022-06-14)
+### [机队-3.0.3](https://github.com/truecharts/apps/compare/fleet-3.0.2...fleet-3.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="fleet-3.0.2"></a>
 
-### [fleet-3.0.2](https://github.com/truecharts/apps/compare/fleet-3.0.1...fleet-3.0.2) (2022-06-14)
+### [机队-3.0.2](https://github.com/truecharts/apps/compare/fleet-3.0.1...fleet-3.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="fleet-3.0.1"></a>
 
-### [fleet-3.0.1](https://github.com/truecharts/apps/compare/fleet-3.0.0...fleet-3.0.1) (2022-06-11)
+### [机队-3.0.1](https://github.com/truecharts/apps/compare/fleet-3.0.0...fleet-3.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -156,7 +156,7 @@
 
 <a name="fleet-3.0.0"></a>
 
-### [fleet-3.0.0](https://github.com/truecharts/apps/compare/fleet-2.0.1...fleet-3.0.0) (2022-06-07)
+### [舰队-3.0.0](https://github.com/truecharts/apps/compare/fleet-2.0.1...fleet-3.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -170,7 +170,7 @@
 
 <a name="fleet-2.0.1"></a>
 
-### [fleet-2.0.1](https://github.com/truecharts/apps/compare/fleet-1.0.23...fleet-2.0.1) (2022-06-07)
+### [机队-2.0.1](https://github.com/truecharts/apps/compare/fleet-1.0.23...fleet-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="fleet-2.0.0"></a>
 
-### [fleet-2.0.0](https://github.com/truecharts/apps/compare/fleet-1.0.23...fleet-2.0.0) (2022-06-07)
+### [舰队-2.0.0](https://github.com/truecharts/apps/compare/fleet-1.0.23...fleet-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -204,7 +204,7 @@
 
 <a name="fleet-1.0.23"></a>
 
-### [fleet-1.0.23](https://github.com/truecharts/apps/compare/fleet-1.0.22...fleet-1.0.23) (2022-05-31)
+### [机队-1.0.23](https://github.com/truecharts/apps/compare/fleet-1.0.22...fleet-1.0.23) (2022-05-31)
 
 #### 聊天
 
@@ -214,7 +214,7 @@
 
 <a name="fleet-1.0.22"></a>
 
-### [fleet-1.0.22](https://github.com/truecharts/apps/compare/fleet-1.0.21...fleet-1.0.22) (2022-05-26)
+### [舰队-1.0.22](https://github.com/truecharts/apps/compare/fleet-1.0.21...fleet-1.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -225,7 +225,7 @@
 
 <a name="fleet-1.0.22"></a>
 
-### [fleet-1.0.22](https://github.com/truecharts/apps/compare/fleet-1.0.21...fleet-1.0.22) (2022-05-26)
+### [舰队-1.0.22](https://github.com/truecharts/apps/compare/fleet-1.0.21...fleet-1.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -235,7 +235,7 @@
 
 <a name="fleet-1.0.21"></a>
 
-### [fleet-1.0.21](https://github.com/truecharts/apps/compare/fleet-1.0.20...fleet-1.0.21) (2022-05-24)
+### [船队-1.0.21](https://github.com/truecharts/apps/compare/fleet-1.0.20...fleet-1.0.21) (2022-05-24)
 
 #### 聊天
 
@@ -245,7 +245,7 @@
 
 <a name="fleet-1.0.20"></a>
 
-### [fleet-1.0.20](https://github.com/truecharts/apps/compare/fleet-1.0.19...fleet-1.0.20) (2022-05-17)
+### [舰队-1.0.20](https://github.com/truecharts/apps/compare/fleet-1.0.19...fleet-1.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -256,7 +256,7 @@
 
 <a name="fleet-1.0.20"></a>
 
-### [fleet-1.0.20](https://github.com/truecharts/apps/compare/fleet-1.0.19...fleet-1.0.20) (2022-05-17)
+### [舰队-1.0.20](https://github.com/truecharts/apps/compare/fleet-1.0.19...fleet-1.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="fleet-1.0.19"></a>
 
-### [fleet-1.0.19](https://github.com/truecharts/apps/compare/fleet-1.0.18...fleet-1.0.19) (2022-05-17)
+### [舰队-1.0.19](https://github.com/truecharts/apps/compare/fleet-1.0.18...fleet-1.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="fleet-1.0.18"></a>
 
-### [fleet-1.0.18](https://github.com/truecharts/apps/compare/fleet-1.0.17...fleet-1.0.18) (2022-05-10)
+### [舰队-1.0.18](https://github.com/truecharts/apps/compare/fleet-1.0.17...fleet-1.0.18) (2022-05-10)
 
 #### 聊天
 
@@ -286,7 +286,7 @@
 
 <a name="fleet-1.0.17"></a>
 
-### [fleet-1.0.17](https://github.com/truecharts/apps/compare/fleet-1.0.16...fleet-1.0.17) (2022-05-05)
+### [舰队-1.0.17](https://github.com/truecharts/apps/compare/fleet-1.0.16...fleet-1.0.17) (2022-05-05)
 
 #### 聊天
 
@@ -296,7 +296,7 @@
 
 <a name="fleet-1.0.16"></a>
 
-### [fleet-1.0.16](https://github.com/truecharts/apps/compare/fleet-1.0.15...fleet-1.0.16) (2022-05-04)
+### [舰队-1.0.16](https://github.com/truecharts/apps/compare/fleet-1.0.15...fleet-1.0.16) (2022-05-04)
 
 #### 聊天
 
@@ -306,7 +306,7 @@
 
 <a name="fleet-1.0.15"></a>
 
-### [fleet-1.0.15](https://github.com/truecharts/apps/compare/fleet-1.0.14...fleet-1.0.15) (2022-04-26)
+### [舰队-1.0.15](https://github.com/truecharts/apps/compare/fleet-1.0.14...fleet-1.0.15) (2022-04-26)
 
 #### 聊天
 
@@ -316,7 +316,7 @@
 
 <a name="fleet-1.0.14"></a>
 
-### [fleet-1.0.14](https://github.com/truecharts/apps/compare/fleet-1.0.13...fleet-1.0.14) (2022-04-20)
+### [机队-1.0.14](https://github.com/truecharts/apps/compare/fleet-1.0.13...fleet-1.0.14) (2022-04-20)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="fleet-1.0.13"></a>
 
-### [fleet-1.0.13](https://github.com/truecharts/apps/compare/fleet-1.0.12...fleet-1.0.13) (2022-04-12)
+### [舰队-1.0.13](https://github.com/truecharts/apps/compare/fleet-1.0.12...fleet-1.0.13) (2022-04-12)
 
 #### 聊天
 
@@ -337,7 +337,7 @@
 
 <a name="fleet-1.0.12"></a>
 
-### [fleet-1.0.12](https://github.com/truecharts/apps/compare/fleet-1.0.11...fleet-1.0.12) (2022-04-03)
+### [舰队-1.0.12](https://github.com/truecharts/apps/compare/fleet-1.0.11...fleet-1.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -347,7 +347,7 @@
 
 <a name="fleet-1.0.11"></a>
 
-### [fleet-1.0.11](https://github.com/truecharts/apps/compare/fleet-1.0.10...fleet-1.0.11) (2022-03-31)
+### [舰队-1.0.11](https://github.com/truecharts/apps/compare/fleet-1.0.10...fleet-1.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -357,7 +357,7 @@
 
 <a name="fleet-1.0.10"></a>
 
-### [fleet-1.0.10](https://github.com/truecharts/apps/compare/fleet-1.0.9...fleet-1.0.10) (2022-03-31)
+### [舰队-1.0.10](https://github.com/truecharts/apps/compare/fleet-1.0.9...fleet-1.0.10) (2022-03-31)
 
 #### 聊天
 
@@ -367,7 +367,7 @@
 
 <a name="fleet-1.0.9"></a>
 
-### [fleet-1.0.9](https://github.com/truecharts/apps/compare/fleet-1.0.8...fleet-1.0.9) (2022-03-30)
+### [舰队-1.0.9](https://github.com/truecharts/apps/compare/fleet-1.0.8...fleet-1.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -378,7 +378,7 @@
 
 <a name="fleet-1.0.8"></a>
 
-### [fleet-1.0.8](https://github.com/truecharts/apps/compare/fleet-1.0.7...fleet-1.0.8) (2022-03-26)
+### [舰队-1.0.8](https://github.com/truecharts/apps/compare/fleet-1.0.7...fleet-1.0.8) (2022-03-26)
 
 #### 聊天
 
@@ -388,7 +388,7 @@
 
 <a name="fleet-1.0.7"></a>
 
-### [fleet-1.0.7](https://github.com/truecharts/apps/compare/fleet-1.0.6...fleet-1.0.7) (2022-03-26)
+### [舰队-1.0.7](https://github.com/truecharts/apps/compare/fleet-1.0.6...fleet-1.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -398,7 +398,7 @@
 
 <a name="fleet-1.0.2"></a>
 
-### [fleet-1.0.2](https://github.com/truecharts/apps/compare/fleet-1.0.1...fleet-1.0.2) (2022-03-08)
+### [舰队-1.0.2](https://github.com/truecharts/apps/compare/fleet-1.0.1...fleet-1.0.2) (2022-03-08)
 
 #### 聊天
 
@@ -408,7 +408,7 @@
 
 <a name="fleet-1.0.1"></a>
 
-### [fleet-1.0.1](https://github.com/truecharts/apps/compare/fleet-1.0.0...fleet-1.0.1) (2022-03-07)
+### [舰队-1.0.1](https://github.com/truecharts/apps/compare/fleet-1.0.0...fleet-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -419,7 +419,7 @@
 
 <a name="fleet-1.0.0"></a>
 
-### [fleet-1.0.0](https://github.com/truecharts/apps/compare/fleet-0.0.24...fleet-1.0.0) (2022-03-03)
+### [舰队-1.0.0](https://github.com/truecharts/apps/compare/fleet-0.0.24...fleet-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -436,7 +436,7 @@
 
 <a name="fleet-0.0.24"></a>
 
-### [fleet-0.0.24](https://github.com/truecharts/apps/compare/fleet-0.0.23...fleet-0.0.24) (2022-03-02)
+### [舰队-0.0.24](https://github.com/truecharts/apps/compare/fleet-0.0.23...fleet-0.0.24) (2022-03-02)
 
 #### 聊天
 
@@ -447,7 +447,7 @@
 
 <a name="fleet-0.0.23"></a>
 
-### [fleet-0.0.23](https://github.com/truecharts/apps/compare/fleet-0.0.22...fleet-0.0.23) (2022-02-21)
+### [舰队-0.0.23](https://github.com/truecharts/apps/compare/fleet-0.0.22...fleet-0.0.23) (2022-02-21)
 
 #### 聊天
 
@@ -457,7 +457,7 @@
 
 <a name="fleet-0.0.22"></a>
 
-### [fleet-0.0.22](https://github.com/truecharts/apps/compare/fleet-0.0.21...fleet-0.0.22) (2022-02-15)
+### [舰队-0.0.22](https://github.com/truecharts/apps/compare/fleet-0.0.21...fleet-0.0.22) (2022-02-15)
 
 #### 聊天
 
@@ -467,7 +467,7 @@
 
 <a name="fleet-0.0.21"></a>
 
-### [fleet-0.0.21](https://github.com/truecharts/apps/compare/fleet-0.0.20...fleet-0.0.21) (2022-02-08)
+### [舰队-0.0.21](https://github.com/truecharts/apps/compare/fleet-0.0.20...fleet-0.0.21) (2022-02-08)
 
 #### 聊天
 
@@ -477,7 +477,7 @@
 
 <a name="fleet-0.0.20"></a>
 
-### [fleet-0.0.20](https://github.com/truecharts/apps/compare/fleet-0.0.19...fleet-0.0.20) (2022-02-06)
+### [舰队-0.0.20](https://github.com/truecharts/apps/compare/fleet-0.0.19...fleet-0.0.20) (2022-02-06)
 
 #### 聊天
 
@@ -487,7 +487,7 @@
 
 <a name="fleet-0.0.19"></a>
 
-### [fleet-0.0.19](https://github.com/truecharts/apps/compare/fleet-0.0.18...fleet-0.0.19) (2022-02-05)
+### [舰队-0.0.19](https://github.com/truecharts/apps/compare/fleet-0.0.18...fleet-0.0.19) (2022-02-05)
 
 #### 聊天
 
@@ -497,7 +497,7 @@
 
 <a name="fleet-0.0.18"></a>
 
-### [fleet-0.0.18](https://github.com/truecharts/apps/compare/fleet-0.0.17...fleet-0.0.18) (2022-02-02)
+### [舰队-0.0.18](https://github.com/truecharts/apps/compare/fleet-0.0.17...fleet-0.0.18) (2022-02-02)
 
 #### 聊天
 
@@ -507,7 +507,7 @@
 
 <a name="fleet-0.0.17"></a>
 
-### [fleet-0.0.17](https://github.com/truecharts/apps/compare/fleet-0.0.16...fleet-0.0.17) (2022-01-25)
+### [舰队-0.0.17](https://github.com/truecharts/apps/compare/fleet-0.0.16...fleet-0.0.17) (2022-01-25)
 
 #### 聊天
 
@@ -517,7 +517,7 @@
 
 <a name="fleet-0.0.16"></a>
 
-### [fleet-0.0.16](https://github.com/truecharts/apps/compare/fleet-0.0.15...fleet-0.0.16) (2022-01-22)
+### [舰队-0.0.16](https://github.com/truecharts/apps/compare/fleet-0.0.15...fleet-0.0.16) (2022-01-22)
 
 #### 聊天
 
@@ -527,7 +527,7 @@
 
 <a name="fleet-0.0.15"></a>
 
-### [fleet-0.0.15](https://github.com/truecharts/apps/compare/fleet-0.0.13...fleet-0.0.15) (2022-01-22)
+### [舰队-0.0.15](https://github.com/truecharts/apps/compare/fleet-0.0.13...fleet-0.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -542,7 +542,7 @@
 
 <a name="fleet-0.0.14"></a>
 
-### [fleet-0.0.14](https://github.com/truecharts/apps/compare/fleet-0.0.13...fleet-0.0.14) (2022-01-21)
+### [队-0.0.14](https://github.com/truecharts/apps/compare/fleet-0.0.13...fleet-0.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -556,7 +556,7 @@
 
 <a name="fleet-0.0.13"></a>
 
-### [fleet-0.0.13](https://github.com/truecharts/apps/compare/fleet-0.0.12...fleet-0.0.13) (2022-01-18)
+### [车队-0.0.13](https://github.com/truecharts/apps/compare/fleet-0.0.12...fleet-0.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -566,7 +566,7 @@
 
 <a name="fleet-0.0.12"></a>
 
-### [fleet-0.0.12](https://github.com/truecharts/apps/compare/fleet-0.0.11...fleet-0.0.12) (2022-01-13)
+### [舰队-0.0.12](https://github.com/truecharts/apps/compare/fleet-0.0.11...fleet-0.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -580,7 +580,7 @@
 
 <a name="fleet-0.0.11"></a>
 
-### [fleet-0.0.11](https://github.com/truecharts/apps/compare/fleet-0.0.10...fleet-0.0.11) (2022-01-12)
+### [舰队-0.0.11](https://github.com/truecharts/apps/compare/fleet-0.0.10...fleet-0.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="fleet-0.0.10"></a>
 
-### [fleet-0.0.10](https://github.com/truecharts/apps/compare/fleet-0.0.9...fleet-0.0.10) (2022-01-11)
+### [舰队-0.0.10](https://github.com/truecharts/apps/compare/fleet-0.0.9...fleet-0.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -600,7 +600,7 @@
 
 <a name="fleet-0.0.9"></a>
 
-### [fleet-0.0.9](https://github.com/truecharts/apps/compare/fleet-0.0.8...fleet-0.0.9) (2022-01-04)
+### [舰队-0.0.9](https://github.com/truecharts/apps/compare/fleet-0.0.8...fleet-0.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -610,7 +610,7 @@
 
 <a name="fleet-0.0.8"></a>
 
-### [fleet-0.0.8](https://github.com/truecharts/apps/compare/fleet-0.0.7...fleet-0.0.8) (2021-12-28)
+### [船队-0.0.8](https://github.com/truecharts/apps/compare/fleet-0.0.7...fleet-0.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -620,7 +620,7 @@
 
 <a name="fleet-0.0.7"></a>
 
-### [fleet-0.0.7](https://github.com/truecharts/apps/compare/fleet-0.0.6...fleet-0.0.7) (2021-12-21)
+### [舰队-0.0.7](https://github.com/truecharts/apps/compare/fleet-0.0.6...fleet-0.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -630,7 +630,7 @@
 
 <a name="fleet-0.0.6"></a>
 
-### [fleet-0.0.6](https://github.com/truecharts/apps/compare/fleet-0.0.5...fleet-0.0.6) (2021-12-19)
+### [舰队-0.0.6](https://github.com/truecharts/apps/compare/fleet-0.0.5...fleet-0.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -640,7 +640,7 @@
 
 <a name="fleet-0.0.5"></a>
 
-### [fleet-0.0.5](https://github.com/truecharts/apps/compare/fleet-0.0.4...fleet-0.0.5) (2021-12-19)
+### [机队-0.0.5](https://github.com/truecharts/apps/compare/fleet-0.0.4...fleet-0.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -651,7 +651,7 @@
 
 <a name="fleet-0.0.4"></a>
 
-### [fleet-0.0.4](https://github.com/truecharts/apps/compare/fleet-0.0.3...fleet-0.0.4) (2021-12-18)
+### [船队-0.0.4](https://github.com/truecharts/apps/compare/fleet-0.0.3...fleet-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -663,7 +663,7 @@
 
 <a name="fleet-0.0.3"></a>
 
-### [fleet-0.0.3](https://github.com/truecharts/apps/compare/fleet-0.0.2...fleet-0.0.3) (2021-12-14)
+### [机队-0.0.3](https://github.com/truecharts/apps/compare/fleet-0.0.2...fleet-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="fleet-0.0.2"></a>
 
-### [fleet-0.0.2](https://github.com/truecharts/apps/compare/fleet-0.0.1...fleet-0.0.2) (2021-12-13)
+### [机队-0.0.2](https://github.com/truecharts/apps/compare/fleet-0.0.1...fleet-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -683,4 +683,4 @@
 
 <a name="fleet-0.0.1"></a>
 
-### fleet-0.0.1 (2021-12-12)
+### 船队-0.0.1 (2021-12-12)
