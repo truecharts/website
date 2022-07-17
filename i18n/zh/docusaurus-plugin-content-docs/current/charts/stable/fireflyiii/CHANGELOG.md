@@ -475,7 +475,7 @@
 
 #### 修复
 
-* use correct secret for newly generated keys ([#2183](https://github.com/truecharts/apps/issues/2183))
+* 对新生成的密钥使用正确的密钥([#2183](https://github.com/truecharts/apps/issues/2183))
 
 
 
@@ -532,7 +532,7 @@
 #### 聊天
 
 * 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* Add gui options for trusted proxies and url ([#1987](https://github.com/truecharts/apps/issues/1987))
+* 为信任的代理人和URL添加界面选项 ([#1987](https://github.com/truecharts/apps/issues/1987))
 
 
 
@@ -648,7 +648,7 @@
 
 <a name="fireflyiii-13.1.17"></a>
 
-### [fireflyiii-13.1.17](https://github.com/truecharts/apps/compare/fireflyiii-13.1.16...fireflyiii-13.1.17) (2022-01-21)
+### [freflinfyii-13.1.17](https://github.com/truecharts/apps/compare/fireflyiii-13.1.16...fireflyiii-13.1.17) (2022-01-21)
 
 #### 聊天
 
@@ -710,7 +710,7 @@
 
 #### 修复
 
-* Actually render env on cronjob and revert port change ([#1664](https://github.com/truecharts/apps/issues/1664))
+* 实时渲染在 cronjob 上的环境并恢复端口更改([#1664](https://github.com/truecharts/apps/issues/1664))
 
 
 
@@ -720,7 +720,7 @@
 
 #### 修复
 
-* internal links use targetPort ([#1658](https://github.com/truecharts/apps/issues/1658))
+* 内部链接使用 targetPort ([#1658](https://github.com/truecharts/apps/issues/1658))
 
 
 
@@ -736,7 +736,7 @@
 
 <a name="fireflyiii-13.1.9"></a>
 
-### [fireflyiii-13.1.9](https://github.com/truecharts/apps/compare/fireflyiii-13.1.8...fireflyiii-13.1.9) (2021-12-28)
+### [freflinfyii-13.1.9](https://github.com/truecharts/apps/compare/fireflyiii-13.1.8...fireflyiii-13.1.9) (2021-12-28)
 
 #### 聊天
 
@@ -746,7 +746,7 @@
 
 <a name="fireflyiii-13.1.8"></a>
 
-### [fireflyiii-13.1.8](https://github.com/truecharts/apps/compare/fireflyiii-13.1.7...fireflyiii-13.1.8) (2021-12-21)
+### [freflinfyii-13.1.8](https://github.com/truecharts/apps/compare/fireflyiii-13.1.7...fireflyiii-13.1.8) (2021-12-21)
 
 #### 聊天
 
@@ -756,7 +756,7 @@
 
 <a name="fireflyiii-13.1.7"></a>
 
-### [fireflyiii-13.1.7](https://github.com/truecharts/apps/compare/fireflyiii-13.1.6...fireflyiii-13.1.7) (2021-12-19)
+### [freflinfyii-13.1.7](https://github.com/truecharts/apps/compare/fireflyiii-13.1.6...fireflyiii-13.1.7) (2021-12-19)
 
 #### 聊天
 
@@ -767,7 +767,7 @@
 
 <a name="fireflyiii-13.1.6"></a>
 
-### [fireflyiii-13.1.6](https://github.com/truecharts/apps/compare/fireflyiii-13.1.5...fireflyiii-13.1.6) (2021-12-19)
+### [freflinfyii-13.1.6](https://github.com/truecharts/apps/compare/fireflyiii-13.1.5...fireflyiii-13.1.6) (2021-12-19)
 
 #### 聊天
 
@@ -778,7 +778,7 @@
 
 <a name="fireflyiii-13.1.5"></a>
 
-### [fireflyiii-13.1.5](https://github.com/truecharts/apps/compare/fireflyiii-13.1.4...fireflyiii-13.1.5) (2021-12-18)
+### [freflinfyii-13.1.5](https://github.com/truecharts/apps/compare/fireflyiii-13.1.4...fireflyiii-13.1.5) (2021-12-18岁)
 
 #### 聊天
 
@@ -787,13 +787,13 @@
 
 #### 修复
 
-* fix identation on secrets ([#1553](https://github.com/truecharts/apps/issues/1553))
+* 修复机密上的闲置([#1553](https://github.com/truecharts/apps/issues/1553))
 
 
 
 <a name="fireflyiii-13.1.4"></a>
 
-### [fireflyiii-13.1.4](https://github.com/truecharts/apps/compare/fireflyiii-13.1.3...fireflyiii-13.1.4) (2021-12-14)
+### [freflinfyii-13.1.4](https://github.com/truecharts/apps/compare/fireflyiii-13.1.3...fireflyiii-13.1.4) (2021-12-14)
 
 #### 聊天
 
@@ -803,7 +803,7 @@
 
 <a name="fireflyiii-13.1.3"></a>
 
-### [fireflyiii-13.1.3](https://github.com/truecharts/apps/compare/fireflyiii-13.1.2...fireflyiii-13.1.3) (2021-12-13)
+### [freflinfyii-13.1.3](https://github.com/truecharts/apps/compare/fireflyiii-13.1.2...fireflyiii-13.1.3) (2021-12-13)
 
 #### 聊天
 
@@ -813,7 +813,7 @@
 
 <a name="fireflyiii-13.1.2"></a>
 
-### [fireflyiii-13.1.2](https://github.com/truecharts/apps/compare/fireflyiii-13.1.1...fireflyiii-13.1.2) (2021-12-11)
+### [freflinfyii-13.1.2](https://github.com/truecharts/apps/compare/fireflyiii-13.1.1...fireflyiii-13.1.2) (2021-12-11)
 
 #### 聊天
 
@@ -831,7 +831,7 @@
 
 #### Feat
 
-* enable redis ([#1478](https://github.com/truecharts/apps/issues/1478))
+* 启用 redis ([#1478](https://github.com/truecharts/apps/issues/1478))
 
 
 
@@ -841,23 +841,23 @@
 
 #### Feat
 
-* add cron support ([#1470](https://github.com/truecharts/apps/issues/1470))
+* 添加 cron 支持 ([#1470](https://github.com/truecharts/apps/issues/1470))
 
 
 
 <a name="fireflyiii-13.0.10"></a>
 
-### [fireflyiii-13.0.10](https://github.com/truecharts/apps/compare/fireflyiii-13.0.9...fireflyiii-13.0.10) (2021-12-05)
+### [freflinfyii-13.0.10](https://github.com/truecharts/apps/compare/fireflyiii-13.0.9...fireflyiii-13.0.10) (2021-12-05)
 
 #### 聊天
 
-* fix some remaining issues after refactor work
+* 在重新计算工作后修复一些剩余问题
 
 
 
 <a name="fireflyiii-13.0.9"></a>
 
-### fireflyiii-13.0.9 (2021-12-05)
+### frefrefreyii-13.0.9 (2021-12-05)
 
 #### 聊天
 
@@ -877,7 +877,7 @@
 
 <a name="fireflyiii-13.0.8"></a>
 
-### [fireflyiii-13.0.8](https://github.com/truecharts/apps/compare/fireflyiii-13.0.7...fireflyiii-13.0.8) (2021-12-05)
+### [freflinfyii-13.0.8](https://github.com/truecharts/apps/compare/fireflyiii-13.0.7...fireflyiii-13.0.8) (2021-12-05)
 
 #### 聊天
 
@@ -887,7 +887,7 @@
 
 <a name="fireflyiii-13.0.7"></a>
 
-### [fireflyiii-13.0.7](https://github.com/truecharts/apps/compare/fireflyiii-13.0.6...fireflyiii-13.0.7) (2021-12-04)
+### [freflinfyii-13.0.7](https://github.com/truecharts/apps/compare/fireflyiii-13.0.6...fireflyiii-13.0.7) (2021-12-04)
 
 #### 聊天
 
@@ -897,7 +897,7 @@
 
 <a name="fireflyiii-13.0.6"></a>
 
-### [fireflyiii-13.0.6](https://github.com/truecharts/apps/compare/fireflyiii-13.0.5...fireflyiii-13.0.6) (2021-12-04)
+### [freflinfyii-13.0.6](https://github.com/truecharts/apps/compare/fireflyiii-13.0.5...fireflyiii-13.0.6) (2021-12-04)
 
 #### 聊天
 
@@ -918,7 +918,7 @@
 
 <a name="fireflyiii-13.0.4"></a>
 
-### [fireflyiii-13.0.4](https://github.com/truecharts/apps/compare/fireflyiii-13.0.3...fireflyiii-13.0.4) (2021-11-30)
+### [freflinfyii-13.0.4](https://github.com/truecharts/apps/compare/fireflyiii-13.0.3...fireflyiii-13.0.4) (2021-11-30)
 
 #### 聊天
 
@@ -932,7 +932,7 @@
 
 <a name="fireflyiii-13.0.3"></a>
 
-### [fireflyiii-13.0.3](https://github.com/truecharts/apps/compare/fireflyiii-13.0.2...fireflyiii-13.0.3) (2021-11-23)
+### [freflinfyii-13.0.3](https://github.com/truecharts/apps/compare/fireflyiii-13.0.2...fireflyiii-13.0.3) (2021-11-23)
 
 #### 聊天
 
@@ -942,7 +942,7 @@
 
 <a name="fireflyiii-13.0.2"></a>
 
-### [fireflyiii-13.0.2](https://github.com/truecharts/apps/compare/fireflyiii-13.0.1...fireflyiii-13.0.2) (2021-11-22)
+### [freflinfyii-13.0.2](https://github.com/truecharts/apps/compare/fireflyiii-13.0.1...fireflyiii-13.0.2) (2021-11-22)
 
 #### 聊天
 
@@ -952,7 +952,7 @@
 
 <a name="fireflyiii-13.0.1"></a>
 
-### [fireflyiii-13.0.1](https://github.com/truecharts/apps/compare/fireflyiii-13.0.0...fireflyiii-13.0.1) (2021-11-16)
+### [freflinfyii-13.0.1](https://github.com/truecharts/apps/compare/fireflyiii-13.0.0...fireflyiii-13.0.1) (2021-11-16)
 
 #### 聊天
 
@@ -972,7 +972,7 @@
 
 <a name="fireflyiii-12.0.10"></a>
 
-### [fireflyiii-12.0.10](https://github.com/truecharts/apps/compare/fireflyiii-12.0.9...fireflyiii-12.0.10) (2021-11-15)
+### [freflinfyii-12.0.10](https://github.com/truecharts/apps/compare/fireflyiii-12.0.9...fireflyiii-12.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -983,7 +983,7 @@
 
 <a name="fireflyiii-12.0.9"></a>
 
-### [fireflyiii-12.0.9](https://github.com/truecharts/apps/compare/fireflyiii-12.0.8...fireflyiii-12.0.9) (2021-11-14)
+### [freflinfyii-12.0.9](https://github.com/truecharts/apps/compare/fireflyiii-12.0.8...fireflyiii-12.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -1001,7 +1001,7 @@
 
 <a name="fireflyiii-12.0.8"></a>
 
-### [fireflyiii-12.0.8](https://github.com/truecharts/apps/compare/fireflyiii-12.0.7...fireflyiii-12.0.8) (2021-11-09)
+### [freflinfyii-12.0.8](https://github.com/truecharts/apps/compare/fireflyiii-12.0.7...fireflyiii-12.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -1011,7 +1011,7 @@
 
 <a name="fireflyiii-12.0.7"></a>
 
-### [fireflyiii-12.0.7](https://github.com/truecharts/apps/compare/fireflyiii-12.0.6...fireflyiii-12.0.7) (2021-11-07)
+### [freflinfyii-12.0.7](https://github.com/truecharts/apps/compare/fireflyiii-12.0.6...fireflyiii-12.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -1021,7 +1021,7 @@
 
 <a name="fireflyiii-12.0.6"></a>
 
-### [fireflyiii-12.0.6](https://github.com/truecharts/apps/compare/fireflyiii-12.0.5...fireflyiii-12.0.6) (2021-11-07)
+### [freflinfyii-12.0.6](https://github.com/truecharts/apps/compare/fireflyiii-12.0.5...fireflyiii-12.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -1043,7 +1043,7 @@
 
 <a name="fireflyiii-12.0.5"></a>
 
-### [fireflyiii-12.0.5](https://github.com/truecharts/apps/compare/fireflyiii-12.0.4...fireflyiii-12.0.5) (2021-11-02)
+### [freflinfyii-12.0.5](https://github.com/truecharts/apps/compare/fireflyiii-12.0.4...fireflyiii-12.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -1053,7 +1053,7 @@
 
 <a name="fireflyiii-12.0.4"></a>
 
-### [fireflyiii-12.0.4](https://github.com/truecharts/apps/compare/fireflyiii-12.0.3...fireflyiii-12.0.4) (2021-11-01)
+### [freflinfyii-12.0.4](https://github.com/truecharts/apps/compare/fireflyiii-12.0.3...fireflyiii-12.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -1063,7 +1063,7 @@
 
 <a name="fireflyiii-12.0.3"></a>
 
-### [fireflyiii-12.0.3](https://github.com/truecharts/apps/compare/fireflyiii-12.0.2...fireflyiii-12.0.3) (2021-10-26)
+### [freflinfyii-12.0.3](https://github.com/truecharts/apps/compare/fireflyiii-12.0.2...fireflyiii-12.0.3) (2021-10-26)
 
 #### 聊天
 
@@ -1073,7 +1073,7 @@
 
 <a name="fireflyiii-12.0.2"></a>
 
-### [fireflyiii-12.0.2](https://github.com/truecharts/apps/compare/fireflyiii-12.0.1...fireflyiii-12.0.2) (2021-10-26)
+### [freflinfyii-12.0.2](https://github.com/truecharts/apps/compare/fireflyiii-12.0.1...fireflyiii-12.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -1083,7 +1083,7 @@
 
 <a name="fireflyiii-12.0.1"></a>
 
-### [fireflyiii-12.0.1](https://github.com/truecharts/apps/compare/fireflyiii-12.0.0...fireflyiii-12.0.1) (2021-10-26)
+### [freflinfyii-12.0.1](https://github.com/truecharts/apps/compare/fireflyiii-12.0.0...fireflyiii-12.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1093,7 +1093,7 @@
 
 <a name="fireflyiii-12.0.0"></a>
 
-### [fireflyiii-12.0.0](https://github.com/truecharts/apps/compare/fireflyiii-11.0.0...fireflyiii-12.0.0) (2021-10-26)
+### [freflinfyii-12.0.0](https://github.com/truecharts/apps/compare/fireflyiii-11.0.0...fireflyiii-12.0.0) (2021-10-26)
 
 #### 聊天
 
@@ -1206,7 +1206,7 @@
 
 #### 修复
 
-* Change default permissions ([#1170](https://github.com/truecharts/apps/issues/1170))
+* 更改默认权限([#1170](https://github.com/truecharts/apps/issues/1170))
 
 #### 重新因子
 
@@ -1418,7 +1418,7 @@
 
 <a name="fireflyiii-8.0.2"></a>
 
-### [fireflyiii-8.0.2](https://github.com/truecharts/apps/compare/fireflyiii-8.0.1...fireflyiii-8.0.2) (2021-09-14)
+### [freflinfyii-8.0.2](https://github.com/truecharts/apps/compare/fireflyiii-8.0.1...fireflyiii-8.0.2) (2021-09-14)
 
 #### 聊天
 
@@ -1451,7 +1451,7 @@
 
 <a name="fireflyiii-7.0.2"></a>
 
-### [fireflyiii-7.0.2](https://github.com/truecharts/apps/compare/fireflyiii-7.0.1...fireflyiii-7.0.2) (2021-09-10)
+### [freflinfyii-7.0.2](https://github.com/truecharts/apps/compare/fireflyiii-7.0.1...fireflyiii-7.0.2) (2021-09-10)
 
 #### 修复
 
@@ -1461,7 +1461,7 @@
 
 <a name="fireflyiii-7.0.1"></a>
 
-### [fireflyiii-7.0.1](https://github.com/truecharts/apps/compare/fireflyiii-7.0.0...fireflyiii-7.0.1) (2021-09-10)
+### [frefreflinfyii-7.0.1](https://github.com/truecharts/apps/compare/fireflyiii-7.0.0...fireflyiii-7.0.1) (2021-09-10)
 
 #### 修复
 
@@ -1484,7 +1484,7 @@
 
 #### 修复
 
-* correct fireflyiii ports and services ([#945](https://github.com/truecharts/apps/issues/945))
+* 正确的 firefyiii 端口和服务([#945](https://github.com/truecharts/apps/issues/945))
 
 <a name="fireflyiii-6.1.10"></a>
 
