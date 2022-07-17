@@ -1,36 +1,36 @@
-# Changelog
+# 更新日志
 
 
 ## [docker-compose-2.0.19](https://github.com/truecharts/apps/compare/docker-compose-2.0.18...docker-compose-2.0.19) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [docker-compose-2.0.18](https://github.com/truecharts/apps/compare/docker-compose-2.0.16...docker-compose-2.0.18) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [docker-compose-2.0.16](https://github.com/truecharts/apps/compare/docker-compose-2.0.14...docker-compose-2.0.16) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [docker-compose-2.0.14](https://github.com/truecharts/apps/compare/docker-compose-2.0.13...docker-compose-2.0.14) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -38,9 +38,9 @@
 
 ### [docker-compose-2.0.13](https://github.com/truecharts/apps/compare/docker-compose-2.0.12...docker-compose-2.0.13) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -48,9 +48,9 @@
 
 ### [docker-compose-2.0.12](https://github.com/truecharts/apps/compare/docker-compose-2.0.11...docker-compose-2.0.12) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -58,9 +58,9 @@
 
 ### [docker-compose-2.0.11](https://github.com/truecharts/apps/compare/docker-compose-2.0.10...docker-compose-2.0.11) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -68,9 +68,9 @@
 
 ### [docker-compose-2.0.10](https://github.com/truecharts/apps/compare/docker-compose-2.0.9...docker-compose-2.0.10) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -78,9 +78,9 @@
 
 ### [docker-compose-2.0.9](https://github.com/truecharts/apps/compare/docker-compose-2.0.8...docker-compose-2.0.9) (2022-06-29)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3002](https://github.com/truecharts/apps/issues/3002))
+* 更新一般的非主码([#3002](https://github.com/truecharts/apps/issues/3002))
 
 
 
@@ -88,9 +88,9 @@
 
 ### [docker-compose-2.0.8](https://github.com/truecharts/apps/compare/docker-compose-2.0.7...docker-compose-2.0.8) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -98,9 +98,9 @@
 
 ### [docker-compose-2.0.7](https://github.com/truecharts/apps/compare/docker-compose-2.0.6...docker-compose-2.0.7) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -108,9 +108,9 @@
 
 ### [docker-compose-2.0.6](https://github.com/truecharts/apps/compare/docker-compose-2.0.5...docker-compose-2.0.6) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -118,9 +118,9 @@
 
 ### [docker-compose-2.0.5](https://github.com/truecharts/apps/compare/docker-compose-2.0.4...docker-compose-2.0.5) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -128,21 +128,9 @@
 
 ### [docker-compose-2.0.4](https://github.com/truecharts/apps/compare/docker-compose-2.0.3...docker-compose-2.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
-
-
-
-<a name="docker-compose-2.0.3"></a>
-
-### [docker-compose-2.0.3](https://github.com/truecharts/apps/compare/docker-compose-2.0.2...docker-compose-2.0.3) (2022-06-08)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* Auto-update chart README [skip ci]
-* update docker general non-major ([#2839](https://github.com/truecharts/apps/issues/2839))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -150,10 +138,11 @@
 
 ### [docker-compose-2.0.3](https://github.com/truecharts/apps/compare/docker-compose-2.0.2...docker-compose-2.0.3) (2022-06-08)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update docker general non-major ([#2839](https://github.com/truecharts/apps/issues/2839))
+* 自动更新README图表 [跳过 ci]
+* 自动更新README图表 [跳过 ci]
+* 更新一般的非主码([#2839](https://github.com/truecharts/apps/issues/2839))
 
 
 
@@ -161,9 +150,20 @@
 
 ### [docker-compose-2.0.3](https://github.com/truecharts/apps/compare/docker-compose-2.0.2...docker-compose-2.0.3) (2022-06-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2839](https://github.com/truecharts/apps/issues/2839))
+* 自动更新README图表 [跳过 ci]
+* 更新一般的非主码([#2839](https://github.com/truecharts/apps/issues/2839))
+
+
+
+<a name="docker-compose-2.0.3"></a>
+
+### [docker-compose-2.0.3](https://github.com/truecharts/apps/compare/docker-compose-2.0.2...docker-compose-2.0.3) (2022-06-08)
+
+#### 聊天
+
+* 更新一般的非主码([#2839](https://github.com/truecharts/apps/issues/2839))
 
 
 
@@ -171,9 +171,9 @@
 
 ### [docker-compose-2.0.2](https://github.com/truecharts/apps/compare/docker-compose-2.0.1...docker-compose-2.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -181,17 +181,17 @@
 
 ### [docker-compose-2.0.1](https://github.com/truecharts/apps/compare/docker-compose-1.0.30...docker-compose-2.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
+* 自动更新README图表 [跳过 ci]
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -199,9 +199,9 @@
 
 ### [docker-compose-2.0.0](https://github.com/truecharts/apps/compare/docker-compose-1.0.30...docker-compose-2.0.0) (2022-06-07)
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -209,9 +209,9 @@
 
 ### [docker-compose-1.0.30](https://github.com/truecharts/apps/compare/docker-compose-1.0.29...docker-compose-1.0.30) (2022-06-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2806](https://github.com/truecharts/apps/issues/2806))
+* 更新一般的非主基座([#2806](https://github.com/truecharts/apps/issues/2806))
 
 
 
@@ -219,9 +219,9 @@
 
 ### [docker-compose-1.0.29](https://github.com/truecharts/apps/compare/docker-compose-1.0.28...docker-compose-1.0.29) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
@@ -229,20 +229,9 @@
 
 ### [docker-compose-1.0.28](https://github.com/truecharts/apps/compare/docker-compose-1.0.27...docker-compose-1.0.28) (2022-05-29)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2762](https://github.com/truecharts/apps/issues/2762))
-
-
-
-<a name="docker-compose-1.0.27"></a>
-
-### [docker-compose-1.0.27](https://github.com/truecharts/apps/compare/docker-compose-1.0.26...docker-compose-1.0.27) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新一般的非主码([#2762](https://github.com/truecharts/apps/issues/2762))
 
 
 
@@ -250,9 +239,20 @@
 
 ### [docker-compose-1.0.27](https://github.com/truecharts/apps/compare/docker-compose-1.0.26...docker-compose-1.0.27) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="docker-compose-1.0.27"></a>
+
+### [docker-compose-1.0.27](https://github.com/truecharts/apps/compare/docker-compose-1.0.26...docker-compose-1.0.27) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -260,9 +260,9 @@
 
 ### [docker-compose-1.0.26](https://github.com/truecharts/apps/compare/docker-compose-1.0.25...docker-compose-1.0.26) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -270,20 +270,9 @@
 
 ### [docker-compose-1.0.25](https://github.com/truecharts/apps/compare/docker-compose-1.0.24...docker-compose-1.0.25) (2022-05-19)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2711](https://github.com/truecharts/apps/issues/2711))
-
-
-
-<a name="docker-compose-1.0.24"></a>
-
-### [docker-compose-1.0.24](https://github.com/truecharts/apps/compare/docker-compose-1.0.23...docker-compose-1.0.24) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新一般的非主码([#2711](https://github.com/truecharts/apps/issues/2711))
 
 
 
@@ -291,9 +280,20 @@
 
 ### [docker-compose-1.0.24](https://github.com/truecharts/apps/compare/docker-compose-1.0.23...docker-compose-1.0.24) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="docker-compose-1.0.24"></a>
+
+### [docker-compose-1.0.24](https://github.com/truecharts/apps/compare/docker-compose-1.0.23...docker-compose-1.0.24) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -301,9 +301,9 @@
 
 ### [docker-compose-1.0.23](https://github.com/truecharts/apps/compare/docker-compose-1.0.22...docker-compose-1.0.23) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -311,9 +311,9 @@
 
 ### [docker-compose-1.0.22](https://github.com/truecharts/apps/compare/docker-compose-1.0.21...docker-compose-1.0.22) (2022-05-13)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2658](https://github.com/truecharts/apps/issues/2658))
+* 更新一般的非主码([#2658](https://github.com/truecharts/apps/issues/2658))
 
 
 
@@ -321,9 +321,9 @@
 
 ### [docker-compose-1.0.21](https://github.com/truecharts/apps/compare/docker-compose-1.0.20...docker-compose-1.0.21) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -331,9 +331,9 @@
 
 ### [docker-compose-1.0.20](https://github.com/truecharts/apps/compare/docker-compose-1.0.19...docker-compose-1.0.20) (2022-05-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -341,9 +341,9 @@
 
 ### [docker-compose-1.0.19](https://github.com/truecharts/apps/compare/docker-compose-1.0.18...docker-compose-1.0.19) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -351,9 +351,9 @@
 
 ### [docker-compose-1.0.18](https://github.com/truecharts/apps/compare/docker-compose-1.0.17...docker-compose-1.0.18) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -361,10 +361,10 @@
 
 ### [docker-compose-1.0.17](https://github.com/truecharts/apps/compare/docker-compose-1.0.16...docker-compose-1.0.17) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -372,9 +372,9 @@
 
 ### [docker-compose-1.0.16](https://github.com/truecharts/apps/compare/docker-compose-1.0.15...docker-compose-1.0.16) (2022-04-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2480](https://github.com/truecharts/apps/issues/2480))
+* 更新头盔的一般非主要头盔版本([#2480](https://github.com/truecharts/apps/issues/2480))
 
 
 
@@ -382,9 +382,9 @@
 
 ### [docker-compose-1.0.15](https://github.com/truecharts/apps/compare/docker-compose-1.0.14...docker-compose-1.0.15) (2022-04-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2460](https://github.com/truecharts/apps/issues/2460))
+* 更新一般的非主码([#2460](https://github.com/truecharts/apps/issues/2460))
 
 
 
@@ -392,9 +392,9 @@
 
 ### [docker-compose-1.0.14](https://github.com/truecharts/apps/compare/docker-compose-1.0.13...docker-compose-1.0.14) (2022-04-03)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2410](https://github.com/truecharts/apps/issues/2410))
+* 更新头盔的一般非主头盔版本([#2410](https://github.com/truecharts/apps/issues/2410))
 
 
 
@@ -402,9 +402,9 @@
 
 ### [docker-compose-1.0.13](https://github.com/truecharts/apps/compare/docker-compose-1.0.12...docker-compose-1.0.13) (2022-03-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2361](https://github.com/truecharts/apps/issues/2361))
+* 更新头盔的一般非主头盔版本([#2361](https://github.com/truecharts/apps/issues/2361))
 
 
 
@@ -412,10 +412,10 @@
 
 ### [docker-compose-1.0.12](https://github.com/truecharts/apps/compare/docker-compose-1.0.11...docker-compose-1.0.12) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2354](https://github.com/truecharts/apps/issues/2354))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主头盔版本([#2354](https://github.com/truecharts/apps/issues/2354))
 
 
 
@@ -423,9 +423,9 @@
 
 ### [docker-compose-1.0.11](https://github.com/truecharts/apps/compare/docker-compose-1.0.10...docker-compose-1.0.11) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2347](https://github.com/truecharts/apps/issues/2347))
+* 更新一般的非主码([#2347](https://github.com/truecharts/apps/issues/2347))
 
 
 
@@ -433,9 +433,9 @@
 
 ### [docker-compose-1.0.10](https://github.com/truecharts/apps/compare/docker-compose-1.0.9...docker-compose-1.0.10) (2022-03-30)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2338](https://github.com/truecharts/apps/issues/2338))
+* 更新一般的非主码([#2338](https://github.com/truecharts/apps/issues/2338))
 
 
 
@@ -443,9 +443,9 @@
 
 ### [docker-compose-1.0.9](https://github.com/truecharts/apps/compare/docker-compose-1.0.8...docker-compose-1.0.9) (2022-03-26)
 
-#### Chore
+#### 聊天
 
-* bump all apps to trigger ci
+* 跳转所有应用触发ci
 
 
 
@@ -453,9 +453,9 @@
 
 ### [docker-compose-1.0.7](https://github.com/truecharts/apps/compare/docker-compose-1.0.6...docker-compose-1.0.7) (2022-03-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -463,10 +463,10 @@
 
 ### [docker-compose-1.0.4](https://github.com/truecharts/apps/compare/docker-compose-1.0.3...docker-compose-1.0.4) (2022-03-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2198](https://github.com/truecharts/apps/issues/2198))
-* update docker general non-major ([#2196](https://github.com/truecharts/apps/issues/2196))
+* 更新一般的非主码([#2198](https://github.com/truecharts/apps/issues/2198))
+* 更新一般的非主码([#2196](https://github.com/truecharts/apps/issues/2196))
 
 
 
@@ -474,10 +474,10 @@
 
 ### [docker-compose-1.0.2](https://github.com/truecharts/apps/compare/docker-compose-1.0.1...docker-compose-1.0.2) (2022-03-07)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2111](https://github.com/truecharts/apps/issues/2111))
-* Remove `-icon` string from icon png's ([#2040](https://github.com/truecharts/apps/issues/2040))
+* 更新头盔的一般非主头盔版本([#211](https://github.com/truecharts/apps/issues/2111))
+* 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
 
@@ -485,9 +485,9 @@
 
 ### [docker-compose-1.0.1](https://github.com/truecharts/apps/compare/docker-compose-1.0.0...docker-compose-1.0.1) (2022-03-06)
 
-#### Chore
+#### 聊天
 
-* move docker-compose to core after testing
+* 测试后移动docker-compose 到核版
 
 
 
@@ -495,14 +495,14 @@
 
 ### [docker-compose-1.0.0](https://github.com/truecharts/apps/compare/docker-compose-0.0.8...docker-compose-1.0.0) (2022-03-03)
 
-#### Chore
+#### 聊天
 
-* remove fixed env from questions.yaml
-* update helm general major helm releases ([#2021](https://github.com/truecharts/apps/issues/2021))
+* 从问题.yaml 中移除固定的 env
+* 更新头盔主要头盔版本([#2021](https://github.com/truecharts/apps/issues/2021))
 
-#### Fix
+#### 修复
 
-* BREAKING CHANGE Move some env-vars outside of env section ([#2010](https://github.com/truecharts/apps/issues/2010))
+* 购买更改将某些env-vars移到环境部分之外([#200](https://github.com/truecharts/apps/issues/2010))
 
 
 
@@ -510,9 +510,9 @@
 
 ### [docker-compose-0.0.8](https://github.com/truecharts/apps/compare/docker-compose-0.0.7...docker-compose-0.0.8) (2022-03-02)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#1999](https://github.com/truecharts/apps/issues/1999))
+* 更新头盔的一般非主要头盔版本([#1999](https://github.com/truecharts/apps/issues/1999))
 
 
 
@@ -520,9 +520,9 @@
 
 ### [docker-compose-0.0.7](https://github.com/truecharts/apps/compare/docker-compose-0.0.6...docker-compose-0.0.7) (2022-02-25)
 
-#### Chore
+#### 聊天
 
-* update common to test host-compose-disable
+* 更新共用以测试主机合成禁用
 
 
 
@@ -530,9 +530,9 @@
 
 ### [docker-compose-0.0.6](https://github.com/truecharts/apps/compare/docker-compose-0.0.5...docker-compose-0.0.6) (2022-02-24)
 
-#### Fix
+#### 修复
 
-* fix autoloading of docker-compose file
+* 修复 docker-compose 文件自动加载
 
 
 
@@ -542,7 +542,7 @@
 
 #### Feat
 
-* wait for docker to be running before loading docker-compose file ([#1960](https://github.com/truecharts/apps/issues/1960))
+* 等待停靠器运行后才能加载 docker-compose 文件([#1960](https://github.com/truecharts/apps/issues/1960))
 
 
 
@@ -558,7 +558,7 @@
 
 #### Feat
 
-* Add autoloading for compose file ([#1958](https://github.com/truecharts/apps/issues/1958))
+* 为撰写文件添加自动加载([#1958](https://github.com/truecharts/apps/issues/1958))
 
 
 
@@ -566,10 +566,10 @@
 
 ### [docker-compose-0.0.2](https://github.com/truecharts/apps/compare/docker-compose-0.0.1...docker-compose-0.0.2) (2022-02-24)
 
-#### Chore
+#### 聊天
 
-* rename `web_portal` to `open` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* Update adding tc catalog ([#1956](https://github.com/truecharts/apps/issues/1956))
+* 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
+* 更新添加tc 目录([#1956](https://github.com/truecharts/apps/issues/1956))
 
 
 
@@ -579,4 +579,4 @@
 
 #### Feat
 
-* add a dedicated App for using Docker-Compose ([#1954](https://github.com/truecharts/apps/issues/1954))
+* 添加一个专用应用程序用于使用 Docker-Compose ([#1954](https://github.com/truecharts/apps/issues/1954))
