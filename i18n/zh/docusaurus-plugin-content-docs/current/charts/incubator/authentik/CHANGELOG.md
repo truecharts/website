@@ -1,431 +1,431 @@
-# Changelog
+# 更新日志
 
 
-## [authentik-2.0.22](https://github.com/truecharts/apps/compare/authentik-2.0.21...authentik-2.0.22) (2022-07-14)
+## [真实2.0.22](https://github.com/truecharts/apps/compare/authentik-2.0.21...authentik-2.0.22) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
-
-
-
-## [authentik-2.0.21](https://github.com/truecharts/apps/compare/authentik-2.0.19...authentik-2.0.21) (2022-07-14)
-
-### Fix
-
-- bump to ensure .helmignore is present on all Charts
+- 重新生成目录并更新模板
 
 
 
-## [authentik-2.0.19](https://github.com/truecharts/apps/compare/authentik-2.0.17...authentik-2.0.19) (2022-07-12)
+## [真实2.0.21](https://github.com/truecharts/apps/compare/authentik-2.0.19...authentik-2.0.21) (2022-07-14)
 
-### Chore
+### 修复
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
-
+- bump 以确保.helmnote存在于所有图表
 
 
-## [authentik-2.0.17](https://github.com/truecharts/apps/compare/authentik-2.0.16...authentik-2.0.17) (2022-07-12)
 
-### Chore
+## [真实2.0.19](https://github.com/truecharts/apps/compare/authentik-2.0.17...authentik-2.0.19) (2022-07-12)
 
-- bump to regenerate documentation
+### 聊天
+
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
+
+
+
+## [真实2.0.17](https://github.com/truecharts/apps/compare/authentik-2.0.16...authentik-2.0.17) (2022-07-12)
+
+### 聊天
+
+- 跳转以重新生成文档
 
 
 
 <a name="authentik-2.0.16"></a>
 
-### [authentik-2.0.16](https://github.com/truecharts/apps/compare/authentik-2.0.15...authentik-2.0.16) (2022-07-12)
+### [真实2.0.16](https://github.com/truecharts/apps/compare/authentik-2.0.15...authentik-2.0.16) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
 <a name="authentik-2.0.15"></a>
 
-### [authentik-2.0.15](https://github.com/truecharts/apps/compare/authentik-2.0.14...authentik-2.0.15) (2022-07-11)
+### [真实2.0.15](https://github.com/truecharts/apps/compare/authentik-2.0.14...authentik-2.0.15) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
 <a name="authentik-2.0.14"></a>
 
-### [authentik-2.0.14](https://github.com/truecharts/apps/compare/authentik-2.0.13...authentik-2.0.14) (2022-07-09)
+### [真实2.0.14](https://github.com/truecharts/apps/compare/authentik-2.0.13...authentik-2.0.14) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
 <a name="authentik-2.0.13"></a>
 
-### [authentik-2.0.13](https://github.com/truecharts/apps/compare/authentik-2.0.12...authentik-2.0.13) (2022-07-07)
+### [真实2.0.13](https://github.com/truecharts/apps/compare/authentik-2.0.12...authentik-2.0.13) (2022-07-07)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3089](https://github.com/truecharts/apps/issues/3089))
+* 更新一般的非主基座([#3089](https://github.com/truecharts/apps/issues/3089))
 
 
 
 <a name="authentik-2.0.12"></a>
 
-### [authentik-2.0.12](https://github.com/truecharts/apps/compare/authentik-2.0.11...authentik-2.0.12) (2022-07-05)
+### [真实2.0.12](https://github.com/truecharts/apps/compare/authentik-2.0.11...authentik-2.0.12) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3075](https://github.com/truecharts/apps/issues/3075))
+* 更新头盔的一般非主头盔版本([#3075](https://github.com/truecharts/apps/issues/3075))
 
 
 
 <a name="authentik-2.0.11"></a>
 
-### [authentik-2.0.11](https://github.com/truecharts/apps/compare/authentik-2.0.10...authentik-2.0.11) (2022-07-05)
+### [真实2.0.11](https://github.com/truecharts/apps/compare/authentik-2.0.10...authentik-2.0.11) (2022-07-05)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3071](https://github.com/truecharts/apps/issues/3071))
+* 更新一般的非主基座([#3071](https://github.com/truecharts/apps/issues/3071))
 
 
 
 <a name="authentik-2.0.10"></a>
 
-### [authentik-2.0.10](https://github.com/truecharts/apps/compare/authentik-2.0.9...authentik-2.0.10) (2022-07-04)
+### [真实2.0.10](https://github.com/truecharts/apps/compare/authentik-2.0.9...authentik-2.0.10) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
 <a name="authentik-2.0.9"></a>
 
-### [authentik-2.0.9](https://github.com/truecharts/apps/compare/authentik-2.0.8...authentik-2.0.9) (2022-07-02)
+### [真实2.0.9](https://github.com/truecharts/apps/compare/authentik-2.0.8...authentik-2.0.9) (2022-07-02)
 
-#### Chore
+#### 聊天
 
-* update to v1 from v1bet ([#3047](https://github.com/truecharts/apps/issues/3047))
+* 从 v1bet 更新到 v1 ([#3047](https://github.com/truecharts/apps/issues/3047))
 
 
 
 <a name="authentik-2.0.8"></a>
 
-### [authentik-2.0.8](https://github.com/truecharts/apps/compare/authentik-2.0.7...authentik-2.0.8) (2022-06-25)
+### [真实2.0.8](https://github.com/truecharts/apps/compare/authentik-2.0.7...authentik-2.0.8) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
 <a name="authentik-2.0.7"></a>
 
-### [authentik-2.0.7](https://github.com/truecharts/apps/compare/authentik-2.0.6...authentik-2.0.7) (2022-06-22)
+### [真实2.0.7](https://github.com/truecharts/apps/compare/authentik-2.0.6...authentik-2.0.7) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
 <a name="authentik-2.0.6"></a>
 
-### [authentik-2.0.6](https://github.com/truecharts/apps/compare/authentik-2.0.5...authentik-2.0.6) (2022-06-21)
+### [真实2.0.6](https://github.com/truecharts/apps/compare/authentik-2.0.5...authentik-2.0.6) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
-* update docker general non-major ([#2931](https://github.com/truecharts/apps/issues/2931))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新一般的非主要泊车位([#2931](https://github.com/truecharts/apps/issues/2931))
 
 
 
 <a name="authentik-2.0.5"></a>
 
-### [authentik-2.0.5](https://github.com/truecharts/apps/compare/authentik-2.0.4...authentik-2.0.5) (2022-06-14)
+### [真实2.0.5](https://github.com/truecharts/apps/compare/authentik-2.0.4...authentik-2.0.5) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2887](https://github.com/truecharts/apps/issues/2887))
+* 更新头盔的一般非主头盔版本([#2887](https://github.com/truecharts/apps/issues/2887))
 
 
 
 <a name="authentik-2.0.4"></a>
 
-### [authentik-2.0.4](https://github.com/truecharts/apps/compare/authentik-2.0.3...authentik-2.0.4) (2022-06-14)
+### [真实2.0.4](https://github.com/truecharts/apps/compare/authentik-2.0.3...authentik-2.0.4) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
 <a name="authentik-2.0.3"></a>
 
-### [authentik-2.0.3](https://github.com/truecharts/apps/compare/authentik-2.0.2...authentik-2.0.3) (2022-06-14)
+### [真实2.0.3](https://github.com/truecharts/apps/compare/authentik-2.0.2...authentik-2.0.3) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2873](https://github.com/truecharts/apps/issues/2873))
+* 更新头盔的一般非主头盔版本([#2873](https://github.com/truecharts/apps/issues/2873))
 
 
 
 <a name="authentik-2.0.2"></a>
 
-### [authentik-2.0.2](https://github.com/truecharts/apps/compare/authentik-2.0.1...authentik-2.0.2) (2022-06-11)
+### [真实2.0.2](https://github.com/truecharts/apps/compare/authentik-2.0.1...authentik-2.0.2) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
-
-
-
-<a name="authentik-2.0.1"></a>
-
-### [authentik-2.0.1](https://github.com/truecharts/apps/compare/authentik-2.0.0...authentik-2.0.1) (2022-06-08)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* Auto-update chart README [skip ci]
-* update docker general non-major ([#2839](https://github.com/truecharts/apps/issues/2839))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
 <a name="authentik-2.0.1"></a>
 
-### [authentik-2.0.1](https://github.com/truecharts/apps/compare/authentik-2.0.0...authentik-2.0.1) (2022-06-08)
+### [真实2.0.1](https://github.com/truecharts/apps/compare/authentik-2.0.0...authentik-2.0.1) (2022-06-08)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* update docker general non-major ([#2839](https://github.com/truecharts/apps/issues/2839))
+* 自动更新README图表 [跳过 ci]
+* 自动更新README图表 [跳过 ci]
+* 更新一般的非主码([#2839](https://github.com/truecharts/apps/issues/2839))
 
 
 
 <a name="authentik-2.0.1"></a>
 
-### [authentik-2.0.1](https://github.com/truecharts/apps/compare/authentik-2.0.0...authentik-2.0.1) (2022-06-08)
+### [真实2.0.1](https://github.com/truecharts/apps/compare/authentik-2.0.0...authentik-2.0.1) (2022-06-08)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2839](https://github.com/truecharts/apps/issues/2839))
+* 自动更新README图表 [跳过 ci]
+* 更新一般的非主码([#2839](https://github.com/truecharts/apps/issues/2839))
+
+
+
+<a name="authentik-2.0.1"></a>
+
+### [真实2.0.1](https://github.com/truecharts/apps/compare/authentik-2.0.0...authentik-2.0.1) (2022-06-08)
+
+#### 聊天
+
+* 更新一般的非主码([#2839](https://github.com/truecharts/apps/issues/2839))
 
 
 
 <a name="authentik-2.0.0"></a>
 
-### [authentik-2.0.0](https://github.com/truecharts/apps/compare/authentik-1.0.1...authentik-2.0.0) (2022-06-07)
+### [真实2.0.0](https://github.com/truecharts/apps/compare/authentik-1.0.1...authentik-2.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* update helm general major helm releases ([#2804](https://github.com/truecharts/apps/issues/2804))
+* 更新头盔主要头盔版本([#2804](https://github.com/truecharts/apps/issues/2804))
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
 <a name="authentik-1.0.1"></a>
 
-### [authentik-1.0.1](https://github.com/truecharts/apps/compare/authentik-0.0.14...authentik-1.0.1) (2022-06-07)
+### [真实性为1.0.1](https://github.com/truecharts/apps/compare/authentik-0.0.14...authentik-1.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
-* update helm general non-major helm releases ([#2838](https://github.com/truecharts/apps/issues/2838))
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
+* 更新头盔的一般非主头盔版本([#2838](https://github.com/truecharts/apps/issues/2838))
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
 <a name="authentik-1.0.0"></a>
 
-### [authentik-1.0.0](https://github.com/truecharts/apps/compare/authentik-0.0.14...authentik-1.0.0) (2022-06-07)
+### [真实的 1.0.0](https://github.com/truecharts/apps/compare/authentik-0.0.14...authentik-1.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
 <a name="authentik-0.0.14"></a>
 
-### [authentik-0.0.14](https://github.com/truecharts/apps/compare/authentik-0.0.13...authentik-0.0.14) (2022-06-04)
+### [认证-0.0.14](https://github.com/truecharts/apps/compare/authentik-0.0.13...authentik-0.0.14) (2022-06-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2826](https://github.com/truecharts/apps/issues/2826))
+* 更新一般的非主要泊车位([#2826](https://github.com/truecharts/apps/issues/2826))
 
 
 
 <a name="authentik-0.0.13"></a>
 
-### [authentik-0.0.13](https://github.com/truecharts/apps/compare/authentik-0.0.12...authentik-0.0.13) (2022-05-31)
+### [作准-0.0.13](https://github.com/truecharts/apps/compare/authentik-0.0.12...authentik-0.0.13) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-
-
-
-<a name="authentik-0.0.12"></a>
-
-### [authentik-0.0.12](https://github.com/truecharts/apps/compare/authentik-0.0.11...authentik-0.0.12) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
 
 
 
 <a name="authentik-0.0.12"></a>
 
-### [authentik-0.0.12](https://github.com/truecharts/apps/compare/authentik-0.0.11...authentik-0.0.12) (2022-05-26)
+### [作准-0.0.12](https://github.com/truecharts/apps/compare/authentik-0.0.11...authentik-0.0.12) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="authentik-0.0.12"></a>
+
+### [作准-0.0.12](https://github.com/truecharts/apps/compare/authentik-0.0.11...authentik-0.0.12) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
 <a name="authentik-0.0.11"></a>
 
-### [authentik-0.0.11](https://github.com/truecharts/apps/compare/authentik-0.0.10...authentik-0.0.11) (2022-05-24)
+### [作准-0.0.11](https://github.com/truecharts/apps/compare/authentik-0.0.10...authentik-0.0.11) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2744](https://github.com/truecharts/apps/issues/2744))
+* 更新一般的非主码([#2744](https://github.com/truecharts/apps/issues/2744))
 
 
 
 <a name="authentik-0.0.10"></a>
 
-### [authentik-0.0.10](https://github.com/truecharts/apps/compare/authentik-0.0.9...authentik-0.0.10) (2022-05-24)
+### [作准-0.0.10](https://github.com/truecharts/apps/compare/authentik-0.0.9...authentik-0.0.10) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
-
-
-
-<a name="authentik-0.0.9"></a>
-
-### [authentik-0.0.9](https://github.com/truecharts/apps/compare/authentik-0.0.8...authentik-0.0.9) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
 <a name="authentik-0.0.9"></a>
 
-### [authentik-0.0.9](https://github.com/truecharts/apps/compare/authentik-0.0.8...authentik-0.0.9) (2022-05-17)
+### [作准-0.0.9](https://github.com/truecharts/apps/compare/authentik-0.0.8...authentik-0.0.9) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="authentik-0.0.9"></a>
+
+### [作准-0.0.9](https://github.com/truecharts/apps/compare/authentik-0.0.8...authentik-0.0.9) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
 <a name="authentik-0.0.8"></a>
 
-### [authentik-0.0.8](https://github.com/truecharts/apps/compare/authentik-0.0.7...authentik-0.0.8) (2022-05-17)
+### [作准-0.0.8](https://github.com/truecharts/apps/compare/authentik-0.0.7...authentik-0.0.8) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
 <a name="authentik-0.0.7"></a>
 
-### [authentik-0.0.7](https://github.com/truecharts/apps/compare/authentik-0.0.6...authentik-0.0.7) (2022-05-10)
+### [作准-0.0.7](https://github.com/truecharts/apps/compare/authentik-0.0.6...authentik-0.0.7) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 #### Feat
 
-* move to stable ([#2636](https://github.com/truecharts/apps/issues/2636))
+* 移动到稳定([#2636](https://github.com/truecharts/apps/issues/2636))
 
 
 
 <a name="authentik-0.0.6"></a>
 
-### [authentik-0.0.6](https://github.com/truecharts/apps/compare/authentik-0.0.5...authentik-0.0.6) (2022-05-05)
+### [认证-0.0.6](https://github.com/truecharts/apps/compare/authentik-0.0.5...authentik-0.0.6) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
 <a name="authentik-0.0.5"></a>
 
-### [authentik-0.0.5](https://github.com/truecharts/apps/compare/authentik-0.0.4...authentik-0.0.5) (2022-05-04)
+### [认证-0.0.5](https://github.com/truecharts/apps/compare/authentik-0.0.4...authentik-0.0.5) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2605](https://github.com/truecharts/apps/issues/2605))
+* 更新头盔的一般非主头盔版本([#2605](https://github.com/truecharts/apps/issues/2605))
 
 
 
 <a name="authentik-0.0.4"></a>
 
-### [authentik-0.0.4](https://github.com/truecharts/apps/compare/authentik-0.0.3...authentik-0.0.4) (2022-04-26)
+### [作准-0.0.4](https://github.com/truecharts/apps/compare/authentik-0.0.3...authentik-0.0.4) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
 <a name="authentik-0.0.3"></a>
 
-### [authentik-0.0.3](https://github.com/truecharts/apps/compare/authentik-0.0.2...authentik-0.0.3) (2022-04-23)
+### [作准-0.0.3](https://github.com/truecharts/apps/compare/authentik-0.0.2...authentik-0.0.3) (2022-04-23)
 
-#### Chore
+#### 聊天
 
-* update db name ([#2540](https://github.com/truecharts/apps/issues/2540))
+* 更新 db 名称 ([#2540](https://github.com/truecharts/apps/issues/2540))
 
 
 
 <a name="authentik-0.0.2"></a>
 
-### [authentik-0.0.2](https://github.com/truecharts/apps/compare/authentik-0.0.1...authentik-0.0.2) (2022-04-22)
+### [作准-0.0.2](https://github.com/truecharts/apps/compare/authentik-0.0.1...authentik-0.0.2) (2022-04-22)
 
-#### Chore
+#### 聊天
 
-* update container image maxmindinc/geoipupdate to v4.9
+* 将容器图像最大心态/geoipupdate更新为 v4.9
 
 
 
 <a name="authentik-0.0.1"></a>
 
-### authentik-0.0.1 (2022-04-22)
+### 作准-0.0.1 (2022-04-22)
 
 #### Feat
 
-* add authentik ([#2535](https://github.com/truecharts/apps/issues/2535))
+* 添加真实性([#2535](https://github.com/truecharts/apps/issues/2535))
