@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [makemkv-2.0.20](https://github.com/truecharts/apps/compare/makemkv-2.0.19...makemkv-2.0.20) (2022-07-16)
+## [makkv-2.0.20](https://github.com/truecharts/apps/compare/makemkv-2.0.19...makemkv-2.0.20) (2022-07-16)
 
 ### 聊天
 
@@ -9,7 +9,7 @@
 
 
 
-## [makemkv-2.0.19](https://github.com/truecharts/apps/compare/makemkv-2.0.18...makemkv-2.0.19) (2022-07-14)
+## [makkv-2.0.19](https://github.com/truecharts/apps/compare/makemkv-2.0.18...makemkv-2.0.19) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [makemkv-2.0.18](https://github.com/truecharts/apps/compare/makemkv-2.0.16...makemkv-2.0.18) (2022-07-14)
+## [makkv-2.0.18](https://github.com/truecharts/apps/compare/makemkv-2.0.16...makemkv-2.0.18) (2022-07-14)
 
 ### 修复
 
@@ -25,7 +25,7 @@
 
 
 
-## [makemkv-2.0.16](https://github.com/truecharts/apps/compare/makemkv-2.0.14...makemkv-2.0.16) (2022-07-12)
+## [makkv-2.0.16](https://github.com/truecharts/apps/compare/makemkv-2.0.14...makemkv-2.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -34,7 +34,7 @@
 
 
 
-## [makemkv-2.0.14](https://github.com/truecharts/apps/compare/makemkv-2.0.13...makemkv-2.0.14) (2022-07-12)
+## [makkv-2.0.14](https://github.com/truecharts/apps/compare/makemkv-2.0.13...makemkv-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -44,7 +44,7 @@
 
 <a name="makemkv-2.0.13"></a>
 
-### [makemkv-2.0.13](https://github.com/truecharts/apps/compare/makemkv-2.0.12...makemkv-2.0.13) (2022-07-12)
+### [makkv-2.0.13](https://github.com/truecharts/apps/compare/makemkv-2.0.12...makemkv-2.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -54,7 +54,7 @@
 
 <a name="makemkv-2.0.12"></a>
 
-### [makemkv-2.0.12](https://github.com/truecharts/apps/compare/makemkv-2.0.11...makemkv-2.0.12) (2022-07-11)
+### [makkv-2.0.12](https://github.com/truecharts/apps/compare/makemkv-2.0.11...makemkv-2.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -65,7 +65,7 @@
 
 <a name="makemkv-2.0.11"></a>
 
-### [makemkv-2.0.11](https://github.com/truecharts/apps/compare/makemkv-2.0.10...makemkv-2.0.11) (2022-07-09)
+### [makkv-2.0.11](https://github.com/truecharts/apps/compare/makemkv-2.0.10...makemkv-2.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -75,7 +75,7 @@
 
 <a name="makemkv-2.0.10"></a>
 
-### [makemkv-2.0.10](https://github.com/truecharts/apps/compare/makemkv-2.0.9...makemkv-2.0.10) (2022-07-05)
+### [makkv-2.0.10](https://github.com/truecharts/apps/compare/makemkv-2.0.9...makemkv-2.0.10) (2022-07-05)
 
 #### Feat
 
@@ -85,7 +85,7 @@
 
 <a name="makemkv-2.0.9"></a>
 
-### [makemkv-2.0.9](https://github.com/truecharts/apps/compare/makemkv-2.0.8...makemkv-2.0.9) (2022-07-04)
+### [makkv-2.0.9](https://github.com/truecharts/apps/compare/makemkv-2.0.8...makemkv-2.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -95,7 +95,7 @@
 
 <a name="makemkv-2.0.8"></a>
 
-### [makemkv-2.0.8](https://github.com/truecharts/apps/compare/makemkv-2.0.7...makemkv-2.0.8) (2022-06-29)
+### [makkv-2.0.8](https://github.com/truecharts/apps/compare/makemkv-2.0.7...makemkv-2.0.8) (2022-06-29)
 
 #### 聊天
 
@@ -105,7 +105,7 @@
 
 <a name="makemkv-2.0.7"></a>
 
-### [makemkv-2.0.7](https://github.com/truecharts/apps/compare/makemkv-2.0.6...makemkv-2.0.7) (2022-06-25)
+### [makkv-2.0.7](https://github.com/truecharts/apps/compare/makemkv-2.0.6...makemkv-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -115,7 +115,7 @@
 
 <a name="makemkv-2.0.6"></a>
 
-### [makemkv-2.0.6](https://github.com/truecharts/apps/compare/makemkv-2.0.5...makemkv-2.0.6) (2022-06-22)
+### [makkv-2.0.6](https://github.com/truecharts/apps/compare/makemkv-2.0.5...makemkv-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -125,7 +125,7 @@
 
 <a name="makemkv-2.0.5"></a>
 
-### [makemkv-2.0.5](https://github.com/truecharts/apps/compare/makemkv-2.0.4...makemkv-2.0.5) (2022-06-21)
+### [makkv-2.0.5](https://github.com/truecharts/apps/compare/makemkv-2.0.4...makemkv-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -135,7 +135,7 @@
 
 <a name="makemkv-2.0.4"></a>
 
-### [makemkv-2.0.4](https://github.com/truecharts/apps/compare/makemkv-2.0.3...makemkv-2.0.4) (2022-06-14)
+### [makkv-2.0.4](https://github.com/truecharts/apps/compare/makemkv-2.0.3...makemkv-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -145,7 +145,7 @@
 
 <a name="makemkv-2.0.3"></a>
 
-### [makemkv-2.0.3](https://github.com/truecharts/apps/compare/makemkv-2.0.2...makemkv-2.0.3) (2022-06-11)
+### [makkv-2.0.3](https://github.com/truecharts/apps/compare/makemkv-2.0.2...makemkv-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -155,7 +155,7 @@
 
 <a name="makemkv-2.0.2"></a>
 
-### [makemkv-2.0.2](https://github.com/truecharts/apps/compare/makemkv-2.0.1...makemkv-2.0.2) (2022-06-07)
+### [makkv-2.0.2](https://github.com/truecharts/apps/compare/makemkv-2.0.1...makemkv-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -165,7 +165,7 @@
 
 <a name="makemkv-2.0.1"></a>
 
-### [makemkv-2.0.1](https://github.com/truecharts/apps/compare/makemkv-1.0.17...makemkv-2.0.1) (2022-06-07)
+### [makkv-2.0.1](https://github.com/truecharts/apps/compare/makemkv-1.0.17...makemkv-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -184,7 +184,7 @@
 
 <a name="makemkv-2.0.0"></a>
 
-### [makemkv-2.0.0](https://github.com/truecharts/apps/compare/makemkv-1.0.17...makemkv-2.0.0) (2022-06-07)
+### [makkv-2.0.0](https://github.com/truecharts/apps/compare/makemkv-1.0.17...makemkv-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -198,7 +198,7 @@
 
 <a name="makemkv-1.0.17"></a>
 
-### [makemkv-1.0.17](https://github.com/truecharts/apps/compare/makemkv-1.0.16...makemkv-1.0.17) (2022-05-31)
+### [makv-1.0.17](https://github.com/truecharts/apps/compare/makemkv-1.0.16...makemkv-1.0.17) (2022-05-31)
 
 #### 聊天
 
@@ -208,7 +208,7 @@
 
 <a name="makemkv-1.0.16"></a>
 
-### [makemkv-1.0.16](https://github.com/truecharts/apps/compare/makemkv-1.0.15...makemkv-1.0.16) (2022-05-26)
+### [makkv-1.0.16](https://github.com/truecharts/apps/compare/makemkv-1.0.15...makemkv-1.0.16) (2022-05-26)
 
 #### 聊天
 
@@ -219,7 +219,7 @@
 
 <a name="makemkv-1.0.16"></a>
 
-### [makemkv-1.0.16](https://github.com/truecharts/apps/compare/makemkv-1.0.15...makemkv-1.0.16) (2022-05-26)
+### [makkv-1.0.16](https://github.com/truecharts/apps/compare/makemkv-1.0.15...makemkv-1.0.16) (2022-05-26)
 
 #### 聊天
 
@@ -229,7 +229,7 @@
 
 <a name="makemkv-1.0.15"></a>
 
-### [makemkv-1.0.15](https://github.com/truecharts/apps/compare/makemkv-1.0.14...makemkv-1.0.15) (2022-05-24)
+### [makv-1.0.15](https://github.com/truecharts/apps/compare/makemkv-1.0.14...makemkv-1.0.15) (2022-05-24)
 
 #### 聊天
 
@@ -239,7 +239,7 @@
 
 <a name="makemkv-1.0.14"></a>
 
-### [makemkv-1.0.14](https://github.com/truecharts/apps/compare/makemkv-1.0.13...makemkv-1.0.14) (2022-05-17)
+### [makkv-1.0.14](https://github.com/truecharts/apps/compare/makemkv-1.0.13...makemkv-1.0.14) (2022-05-17)
 
 #### 聊天
 
@@ -250,7 +250,7 @@
 
 <a name="makemkv-1.0.14"></a>
 
-### [makemkv-1.0.14](https://github.com/truecharts/apps/compare/makemkv-1.0.13...makemkv-1.0.14) (2022-05-17)
+### [makkv-1.0.14](https://github.com/truecharts/apps/compare/makemkv-1.0.13...makemkv-1.0.14) (2022-05-17)
 
 #### 聊天
 
@@ -260,7 +260,7 @@
 
 <a name="makemkv-1.0.13"></a>
 
-### [makemkv-1.0.13](https://github.com/truecharts/apps/compare/makemkv-1.0.12...makemkv-1.0.13) (2022-05-17)
+### [makv-1.0.13](https://github.com/truecharts/apps/compare/makemkv-1.0.12...makemkv-1.0.13) (2022-05-17)
 
 #### 聊天
 
@@ -270,7 +270,7 @@
 
 <a name="makemkv-1.0.12"></a>
 
-### [makemkv-1.0.12](https://github.com/truecharts/apps/compare/makemkv-1.0.11...makemkv-1.0.12) (2022-05-10)
+### [makv-1.0.12](https://github.com/truecharts/apps/compare/makemkv-1.0.11...makemkv-1.0.12) (2022-05-10)
 
 #### 聊天
 
@@ -280,7 +280,7 @@
 
 <a name="makemkv-1.0.11"></a>
 
-### [makemkv-1.0.11](https://github.com/truecharts/apps/compare/makemkv-1.0.10...makemkv-1.0.11) (2022-05-05)
+### [makv-1.0.11](https://github.com/truecharts/apps/compare/makemkv-1.0.10...makemkv-1.0.11) (2022-05-05)
 
 #### 聊天
 
@@ -290,7 +290,7 @@
 
 <a name="makemkv-1.0.10"></a>
 
-### [makemkv-1.0.10](https://github.com/truecharts/apps/compare/makemkv-1.0.9...makemkv-1.0.10) (2022-04-26)
+### [makkv-1.0.10](https://github.com/truecharts/apps/compare/makemkv-1.0.9...makemkv-1.0.10) (2022-04-26)
 
 #### 聊天
 
@@ -300,7 +300,7 @@
 
 <a name="makemkv-1.0.9"></a>
 
-### [makemkv-1.0.9](https://github.com/truecharts/apps/compare/makemkv-1.0.8...makemkv-1.0.9) (2022-04-20)
+### [makv-1.0.9](https://github.com/truecharts/apps/compare/makemkv-1.0.8...makemkv-1.0.9) (2022-04-20)
 
 #### 聊天
 
@@ -311,7 +311,7 @@
 
 <a name="makemkv-1.0.8"></a>
 
-### [makemkv-1.0.8](https://github.com/truecharts/apps/compare/makemkv-1.0.7...makemkv-1.0.8) (2022-04-12)
+### [makkv-1.0.8](https://github.com/truecharts/apps/compare/makemkv-1.0.7...makemkv-1.0.8) (2022-04-12)
 
 #### 聊天
 
@@ -321,7 +321,7 @@
 
 <a name="makemkv-1.0.7"></a>
 
-### [makemkv-1.0.7](https://github.com/truecharts/apps/compare/makemkv-1.0.6...makemkv-1.0.7) (2022-04-03)
+### [makkv-1.0.7](https://github.com/truecharts/apps/compare/makemkv-1.0.6...makemkv-1.0.7) (2022-04-03)
 
 #### 聊天
 
@@ -331,7 +331,7 @@
 
 <a name="makemkv-1.0.6"></a>
 
-### [makemkv-1.0.6](https://github.com/truecharts/apps/compare/makemkv-1.0.5...makemkv-1.0.6) (2022-03-31)
+### [makv-1.0.6](https://github.com/truecharts/apps/compare/makemkv-1.0.5...makemkv-1.0.6) (2022-03-31)
 
 #### 聊天
 
@@ -341,7 +341,7 @@
 
 <a name="makemkv-1.0.5"></a>
 
-### [makemkv-1.0.5](https://github.com/truecharts/apps/compare/makemkv-1.0.4...makemkv-1.0.5) (2022-03-30)
+### [makv-1.0.5](https://github.com/truecharts/apps/compare/makemkv-1.0.4...makemkv-1.0.5) (2022-03-30)
 
 #### 聊天
 
@@ -351,7 +351,7 @@
 
 <a name="makemkv-1.0.4"></a>
 
-### [makemkv-1.0.4](https://github.com/truecharts/apps/compare/makemkv-1.0.3...makemkv-1.0.4) (2022-03-26)
+### [makkv-1.0.4](https://github.com/truecharts/apps/compare/makemkv-1.0.3...makemkv-1.0.4) (2022-03-26)
 
 #### 聊天
 
@@ -361,7 +361,7 @@
 
 <a name="makemkv-1.0.0"></a>
 
-### [makemkv-1.0.0](https://github.com/truecharts/apps/compare/makemkv-0.0.4...makemkv-1.0.0) (2022-03-16)
+### [makkv-1.0.0](https://github.com/truecharts/apps/compare/makemkv-0.0.4...makemkv-1.0.0) (2022-03-16)
 
 #### Feat
 
@@ -371,21 +371,21 @@
 
 <a name="makemkv-0.0.3"></a>
 
-### [makemkv-0.0.3](https://github.com/truecharts/apps/compare/makemkv-0.0.2...makemkv-0.0.3) (2022-03-14)
+### [makv-0.0.3](https://github.com/truecharts/apps/compare/makemkv-0.0.2...makemkv-0.0.3) (2022-03-14)
 
 #### 聊天
 
-* Update images to tccr ([#2159](https://github.com/truecharts/apps/issues/2159))
+* 将图像更新到 tccr ([#215](https://github.com/truecharts/apps/issues/2159))
 
 
 
 <a name="makemkv-0.0.2"></a>
 
-### [makemkv-0.0.2](https://github.com/truecharts/apps/compare/makemkv-0.0.1...makemkv-0.0.2) (2022-03-14)
+### [makv-0.0.2](https://github.com/truecharts/apps/compare/makemkv-0.0.1...makemkv-0.0.2) (2022-03-14)
 
 #### 聊天
 
-* make some fields required ([#2155](https://github.com/truecharts/apps/issues/2155))
+* 需要一些字段([#2155](https://github.com/truecharts/apps/issues/2155))
 
 
 
@@ -395,4 +395,4 @@
 
 #### Feat
 
-* Add makemkv ([#2151](https://github.com/truecharts/apps/issues/2151))
+* 添加 makemkv ([#2151](https://github.com/truecharts/apps/issues/2151))
