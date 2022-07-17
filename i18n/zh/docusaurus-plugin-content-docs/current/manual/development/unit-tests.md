@@ -10,7 +10,7 @@ Running these tests can be done any way you like. In this document we limit ours
 
 Our repo comes with a Visual Studio Code [development container](https://code.visualstudio.com/docs/remote/containers) definition and `launch.json` that allow you to quickly set up an environment in which you can run the tests.
 
-#### Prerequisites
+#### 必备条件
 
 - Visual Studio Code is installed.
 - Docker is installed and running.
