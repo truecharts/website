@@ -1,12 +1,12 @@
 # pwndrop
 
-Pwndrop is a self-deployable file hosting service for sending out red teaming payloads or securely sharing your private files over HTTP and WebDAV.
+Pwndrat 是一种可自行部署的文件托管服务，用于发送红色团队的有效载荷或通过HTTP和WebDAV安全地共享您的私有文件。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://hub.docker.com/r/linuxserver/pwndrop>
+* [https://hub.docker.com/r/linuxserver/pwndraft](https://hub.docker.com/r/linuxserver/pwndrop)
 
 ## B. 所需经费
 
