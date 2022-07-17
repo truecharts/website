@@ -1,13 +1,13 @@
 # 冶金
 
-A network load-balancer implementation for Kubernetes using standard routing protocols
+使用标准路由协议为 Kubernetes 安装网络负载均衡器
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
 * <https://github.com/metallb/metallb>
-* <https://metallb.universe.tf>
+* [https://mallb.universe.tf](https://metallb.universe.tf)
 
 ## B. 所需经费
 
