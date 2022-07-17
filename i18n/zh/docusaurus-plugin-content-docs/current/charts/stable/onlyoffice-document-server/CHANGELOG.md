@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [onlyoffice-document-server-6.0.18](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.17...onlyoffice-document-server-6.0.18) (2022-07-14)
+## [only office-document-server-6.0.18](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.17...onlyoffice-document-server-6.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [onlyoffice-document-server-6.0.17](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.15...onlyoffice-document-server-6.0.17) (2022-07-14)
+## [only office-document-server-6.0.17](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.15...onlyoffice-document-server-6.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [onlyoffice-document-server-6.0.15](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.13...onlyoffice-document-server-6.0.15) (2022-07-12)
+## [only office-document-server-6.0.15](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.13...onlyoffice-document-server-6.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [onlyoffice-document-server-6.0.13](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.12...onlyoffice-document-server-6.0.13) (2022-07-12)
+## [only office-document-server-6.0.13](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.12...onlyoffice-document-server-6.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="onlyoffice-document-server-6.0.12"></a>
 
-### [onlyoffice-document-server-6.0.12](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.11...onlyoffice-document-server-6.0.12) (2022-07-12)
+### [only office-document-server-6.0.12](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.11...onlyoffice-document-server-6.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="onlyoffice-document-server-6.0.11"></a>
 
-### [onlyoffice-document-server-6.0.11](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.10...onlyoffice-document-server-6.0.11) (2022-07-11)
+### [only office-document-server-6.0.11](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.10...onlyoffice-document-server-6.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="onlyoffice-document-server-6.0.10"></a>
 
-### [onlyoffice-document-server-6.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.9...onlyoffice-document-server-6.0.10) (2022-07-09)
+### [only office-document-server-6.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.9...onlyoffice-document-server-6.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="onlyoffice-document-server-6.0.9"></a>
 
-### [onlyoffice-document-server-6.0.9](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.8...onlyoffice-document-server-6.0.9) (2022-07-05)
+### [only office-document-server-6.0.9](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.8...onlyoffice-document-server-6.0.9) (2022-07-05)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="onlyoffice-document-server-6.0.8"></a>
 
-### [onlyoffice-document-server-6.0.8](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.7...onlyoffice-document-server-6.0.8) (2022-07-04)
+### [only office-document-server-6.0.8](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.7...onlyoffice-document-server-6.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="onlyoffice-document-server-6.0.7"></a>
 
-### [onlyoffice-document-server-6.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.6...onlyoffice-document-server-6.0.7) (2022-06-25)
+### [only office-document-server-6.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.6...onlyoffice-document-server-6.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="onlyoffice-document-server-6.0.6"></a>
 
-### [onlyoffice-document-server-6.0.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.5...onlyoffice-document-server-6.0.6) (2022-06-22)
+### [only office-document-server-6.0.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.5...onlyoffice-document-server-6.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="onlyoffice-document-server-6.0.5"></a>
 
-### [onlyoffice-document-server-6.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.4...onlyoffice-document-server-6.0.5) (2022-06-21)
+### [only office-document-server-6.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.4...onlyoffice-document-server-6.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="onlyoffice-document-server-6.0.4"></a>
 
-### [onlyoffice-document-server-6.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.3...onlyoffice-document-server-6.0.4) (2022-06-14)
+### [only office-document-server-6.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.3...onlyoffice-document-server-6.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="onlyoffice-document-server-6.0.3"></a>
 
-### [onlyoffice-document-server-6.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.2...onlyoffice-document-server-6.0.3) (2022-06-14)
+### [only office-document-server-6.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.2...onlyoffice-document-server-6.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="onlyoffice-document-server-6.0.2"></a>
 
-### [onlyoffice-document-server-6.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.1...onlyoffice-document-server-6.0.2) (2022-06-14)
+### [only office-document-server-6.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.1...onlyoffice-document-server-6.0.2) (2022-06-14)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="onlyoffice-document-server-6.0.1"></a>
 
-### [onlyoffice-document-server-6.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.0...onlyoffice-document-server-6.0.1) (2022-06-11)
+### [only office-document-server-6.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-6.0.0...onlyoffice-document-server-6.0.1) (2022-06-11)
 
 #### 聊天
 
@@ -156,7 +156,7 @@
 
 <a name="onlyoffice-document-server-6.0.0"></a>
 
-### [onlyoffice-document-server-6.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-5.0.1...onlyoffice-document-server-6.0.0) (2022-06-07)
+### [only office-document-server-6.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-5.0.1...onlyoffice-document-server-6.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -170,7 +170,7 @@
 
 <a name="onlyoffice-document-server-5.0.1"></a>
 
-### [onlyoffice-document-server-5.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.23...onlyoffice-document-server-5.0.1) (2022-06-07)
+### [only office-document-server-5.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.23...onlyoffice-document-server-5.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -189,7 +189,7 @@
 
 <a name="onlyoffice-document-server-5.0.0"></a>
 
-### [onlyoffice-document-server-5.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.23...onlyoffice-document-server-5.0.0) (2022-06-07)
+### [only office-document-server-5..0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.23...onlyoffice-document-server-5.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -199,7 +199,7 @@
 
 <a name="onlyoffice-document-server-4.0.23"></a>
 
-### [onlyoffice-document-server-4.0.23](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.22...onlyoffice-document-server-4.0.23) (2022-05-31)
+### [only office-document-server-4.0.23](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.22...onlyoffice-document-server-4.0.23) (2022-05-31)
 
 #### 聊天
 
@@ -209,7 +209,7 @@
 
 <a name="onlyoffice-document-server-4.0.22"></a>
 
-### [onlyoffice-document-server-4.0.22](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.21...onlyoffice-document-server-4.0.22) (2022-05-26)
+### [only office-document-server-4.0.22](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.21...onlyoffice-document-server-4.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -220,7 +220,7 @@
 
 <a name="onlyoffice-document-server-4.0.22"></a>
 
-### [onlyoffice-document-server-4.0.22](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.21...onlyoffice-document-server-4.0.22) (2022-05-26)
+### [only office-document-server-4.0.22](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.21...onlyoffice-document-server-4.0.22) (2022-05-26)
 
 #### 聊天
 
@@ -230,7 +230,7 @@
 
 <a name="onlyoffice-document-server-4.0.21"></a>
 
-### [onlyoffice-document-server-4.0.21](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.20...onlyoffice-document-server-4.0.21) (2022-05-24)
+### [only office-document-server-4.0.21](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.20...onlyoffice-document-server-4.0.21) (2022-05-24)
 
 #### 聊天
 
@@ -240,7 +240,7 @@
 
 <a name="onlyoffice-document-server-4.0.20"></a>
 
-### [onlyoffice-document-server-4.0.20](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.19...onlyoffice-document-server-4.0.20) (2022-05-17)
+### [only office-document-server-4.0.20](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.19...onlyoffice-document-server-4.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="onlyoffice-document-server-4.0.20"></a>
 
-### [onlyoffice-document-server-4.0.20](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.19...onlyoffice-document-server-4.0.20) (2022-05-17)
+### [only office-document-server-4.0.20](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.19...onlyoffice-document-server-4.0.20) (2022-05-17)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="onlyoffice-document-server-4.0.19"></a>
 
-### [onlyoffice-document-server-4.0.19](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.18...onlyoffice-document-server-4.0.19) (2022-05-17)
+### [only office-document-server-4.0.19](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.18...onlyoffice-document-server-4.0.19) (2022-05-17)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="onlyoffice-document-server-4.0.18"></a>
 
-### [onlyoffice-document-server-4.0.18](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.17...onlyoffice-document-server-4.0.18) (2022-05-10)
+### [only office-document-server-4.0.18](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.17...onlyoffice-document-server-4.0.18) (2022-05-10)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="onlyoffice-document-server-4.0.17"></a>
 
-### [onlyoffice-document-server-4.0.17](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.16...onlyoffice-document-server-4.0.17) (2022-05-05)
+### [only office-document-server-4.0.17](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.16...onlyoffice-document-server-4.0.17) (2022-05-05)
 
 #### 聊天
 
@@ -291,7 +291,7 @@
 
 <a name="onlyoffice-document-server-4.0.16"></a>
 
-### [onlyoffice-document-server-4.0.16](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.15...onlyoffice-document-server-4.0.16) (2022-05-04)
+### [only office-document-server-4.0.16](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.15...onlyoffice-document-server-4.0.16) (2022-05-04)
 
 #### 聊天
 
@@ -301,7 +301,7 @@
 
 <a name="onlyoffice-document-server-4.0.15"></a>
 
-### [onlyoffice-document-server-4.0.15](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.14...onlyoffice-document-server-4.0.15) (2022-04-26)
+### [only office-document-server-4.0.15](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.14...onlyoffice-document-server-4.0.15) (2022-04-26)
 
 #### 聊天
 
@@ -311,7 +311,7 @@
 
 <a name="onlyoffice-document-server-4.0.14"></a>
 
-### [onlyoffice-document-server-4.0.14](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.13...onlyoffice-document-server-4.0.14) (2022-04-20)
+### [only office-document-server-4.0.14](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.13...onlyoffice-document-server-4.0.14) (2022-04-20)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="onlyoffice-document-server-4.0.13"></a>
 
-### [onlyoffice-document-server-4.0.13](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.12...onlyoffice-document-server-4.0.13) (2022-04-12)
+### [only office-document-server-4.0.13](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.12...onlyoffice-document-server-4.0.13) (2022-04-12)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="onlyoffice-document-server-4.0.12"></a>
 
-### [onlyoffice-document-server-4.0.12](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.11...onlyoffice-document-server-4.0.12) (2022-04-03)
+### [only office-document-server-4.0.12](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.11...onlyoffice-document-server-4.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="onlyoffice-document-server-4.0.11"></a>
 
-### [onlyoffice-document-server-4.0.11](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.10...onlyoffice-document-server-4.0.11) (2022-03-31)
+### [only office-document-server-4.0.11](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.10...onlyoffice-document-server-4.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -352,7 +352,7 @@
 
 <a name="onlyoffice-document-server-4.0.10"></a>
 
-### [onlyoffice-document-server-4.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.9...onlyoffice-document-server-4.0.10) (2022-03-31)
+### [only office-document-server-4.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.9...onlyoffice-document-server-4.0.10) (2022-03-31)
 
 #### 聊天
 
@@ -362,7 +362,7 @@
 
 <a name="onlyoffice-document-server-4.0.9"></a>
 
-### [onlyoffice-document-server-4.0.9](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.8...onlyoffice-document-server-4.0.9) (2022-03-30)
+### [only office-document-server-4.0.9](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.8...onlyoffice-document-server-4.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -373,7 +373,7 @@
 
 <a name="onlyoffice-document-server-4.0.8"></a>
 
-### [onlyoffice-document-server-4.0.8](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.7...onlyoffice-document-server-4.0.8) (2022-03-26)
+### [only office-document-server-4.0.8](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.7...onlyoffice-document-server-4.0.8) (2022-03-26)
 
 #### 聊天
 
@@ -383,7 +383,7 @@
 
 <a name="onlyoffice-document-server-4.0.7"></a>
 
-### [onlyoffice-document-server-4.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.6...onlyoffice-document-server-4.0.7) (2022-03-26)
+### [only office-document-server-4.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.6...onlyoffice-document-server-4.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -393,7 +393,7 @@
 
 <a name="onlyoffice-document-server-4.0.2"></a>
 
-### [onlyoffice-document-server-4.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.1...onlyoffice-document-server-4.0.2) (2022-03-08)
+### [only office-document-server-4.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.1...onlyoffice-document-server-4.0.2) (2022-03-08)
 
 #### 聊天
 
@@ -403,7 +403,7 @@
 
 <a name="onlyoffice-document-server-4.0.1"></a>
 
-### [onlyoffice-document-server-4.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.0...onlyoffice-document-server-4.0.1) (2022-03-07)
+### [only office-document-server-4.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-4.0.0...onlyoffice-document-server-4.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -414,7 +414,7 @@
 
 <a name="onlyoffice-document-server-4.0.0"></a>
 
-### [onlyoffice-document-server-4.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.7...onlyoffice-document-server-4.0.0) (2022-03-03)
+### [only office-document-server-4.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.7...onlyoffice-document-server-4.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -429,7 +429,7 @@
 
 <a name="onlyoffice-document-server-3.1.7"></a>
 
-### [onlyoffice-document-server-3.1.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.6...onlyoffice-document-server-3.1.7) (2022-03-02)
+### [only office-document-server-3.1.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.6...onlyoffice-document-server-3.1.7) (2022-03-02)
 
 #### 聊天
 
@@ -440,7 +440,7 @@
 
 <a name="onlyoffice-document-server-3.1.6"></a>
 
-### [onlyoffice-document-server-3.1.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.5...onlyoffice-document-server-3.1.6) (2022-02-21)
+### [only office-document-server-3.1.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.5...onlyoffice-document-server-3.1.6) (2022-02-21)
 
 #### 聊天
 
@@ -450,7 +450,7 @@
 
 <a name="onlyoffice-document-server-3.1.5"></a>
 
-### [onlyoffice-document-server-3.1.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.4...onlyoffice-document-server-3.1.5) (2022-02-15)
+### [only office-document-server-3.1.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.4...onlyoffice-document-server-3.1.5) (2022-02-15)
 
 #### 聊天
 
@@ -460,7 +460,7 @@
 
 <a name="onlyoffice-document-server-3.1.4"></a>
 
-### [onlyoffice-document-server-3.1.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.3...onlyoffice-document-server-3.1.4) (2022-02-08)
+### [only office-document-server-3.1.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.3...onlyoffice-document-server-3.1.4) (2022-02-08)
 
 #### 聊天
 
@@ -470,17 +470,17 @@
 
 <a name="onlyoffice-document-server-3.1.3"></a>
 
-### [onlyoffice-document-server-3.1.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.2...onlyoffice-document-server-3.1.3) (2022-02-08)
+### [only office-document-server-3.1.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.2...onlyoffice-document-server-3.1.3) (2022-02-08)
 
 #### Feat
 
-* Point probes to healthcheck endpoint ([#1867](https://github.com/truecharts/apps/issues/1867))
+* 点探测到健康检查终点([#1867](https://github.com/truecharts/apps/issues/1867))
 
 
 
 <a name="onlyoffice-document-server-3.1.2"></a>
 
-### [onlyoffice-document-server-3.1.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.1...onlyoffice-document-server-3.1.2) (2022-02-06)
+### [only office-document-server-3.1.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.1...onlyoffice-document-server-3.1.2) (2022-02-06)
 
 #### 聊天
 
@@ -490,7 +490,7 @@
 
 <a name="onlyoffice-document-server-3.1.1"></a>
 
-### [onlyoffice-document-server-3.1.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.0...onlyoffice-document-server-3.1.1) (2022-02-05)
+### [only office-document-server-3.1.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.1.0...onlyoffice-document-server-3.1.1) (2022-02-05)
 
 #### 聊天
 
@@ -501,17 +501,17 @@
 
 <a name="onlyoffice-document-server-3.1.0"></a>
 
-### [onlyoffice-document-server-3.1.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.18...onlyoffice-document-server-3.1.0) (2022-02-04)
+### [only office-document-server-3.1.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.18...onlyoffice-document-server-3.1.0) (2022-02-04)
 
 #### Feat
 
-* Move to our own OnlyOffice Container ([#1837](https://github.com/truecharts/apps/issues/1837))
+* 移动到我们自己的只有办公室容器 ([#1837](https://github.com/truecharts/apps/issues/1837))
 
 
 
 <a name="onlyoffice-document-server-3.0.18"></a>
 
-### [onlyoffice-document-server-3.0.18](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.17...onlyoffice-document-server-3.0.18) (2022-02-02)
+### [only office-document-server-3.0.18](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.17...onlyoffice-document-server-3.0.18) (2022-02-02)
 
 #### 聊天
 
@@ -521,17 +521,17 @@
 
 <a name="onlyoffice-document-server-3.0.17"></a>
 
-### [onlyoffice-document-server-3.0.17](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.16...onlyoffice-document-server-3.0.17) (2022-01-26)
+### [only office-document-server-3.0.17](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.16...onlyoffice-document-server-3.0.17) (2022-01-26)
 
 #### Feat
 
-* Use our db and redis instead of buildin ([#1794](https://github.com/truecharts/apps/issues/1794))
+* 使用我们的 db 和 redis 而不是构建([#1794](https://github.com/truecharts/apps/issues/1794))
 
 
 
 <a name="onlyoffice-document-server-3.0.16"></a>
 
-### [onlyoffice-document-server-3.0.16](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.15...onlyoffice-document-server-3.0.16) (2022-01-25)
+### [only office-document-server-3.0.16](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.15...onlyoffice-document-server-3.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -541,7 +541,7 @@
 
 <a name="onlyoffice-document-server-3.0.15"></a>
 
-### [onlyoffice-document-server-3.0.15](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.14...onlyoffice-document-server-3.0.15) (2022-01-22)
+### [only office-document-server-3.0.15](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.14...onlyoffice-document-server-3.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -551,7 +551,7 @@
 
 <a name="onlyoffice-document-server-3.0.14"></a>
 
-### [onlyoffice-document-server-3.0.14](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.13...onlyoffice-document-server-3.0.14) (2022-01-21)
+### [only office-document-server-3.0.14](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.13...onlyoffice-document-server-3.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -565,7 +565,7 @@
 
 <a name="onlyoffice-document-server-3.0.13"></a>
 
-### [onlyoffice-document-server-3.0.13](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.12...onlyoffice-document-server-3.0.13) (2022-01-18)
+### [only office-document-server-3.0.13](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.12...onlyoffice-document-server-3.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -575,7 +575,7 @@
 
 <a name="onlyoffice-document-server-3.0.12"></a>
 
-### [onlyoffice-document-server-3.0.12](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.11...onlyoffice-document-server-3.0.12) (2022-01-13)
+### [仅限办公室文件服务器-3.0.12](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.11...onlyoffice-document-server-3.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -589,7 +589,7 @@
 
 <a name="onlyoffice-document-server-3.0.11"></a>
 
-### [onlyoffice-document-server-3.0.11](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.10...onlyoffice-document-server-3.0.11) (2022-01-12)
+### [仅限办公室文件服务器-3.0.11](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.10...onlyoffice-document-server-3.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -599,7 +599,7 @@
 
 <a name="onlyoffice-document-server-3.0.10"></a>
 
-### [onlyoffice-document-server-3.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.9...onlyoffice-document-server-3.0.10) (2022-01-11)
+### [仅限办公室文件服务器-3.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.9...onlyoffice-document-server-3.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -609,7 +609,7 @@
 
 <a name="onlyoffice-document-server-3.0.9"></a>
 
-### [onlyoffice-document-server-3.0.9](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.8...onlyoffice-document-server-3.0.9) (2022-01-04)
+### [only office-document-server-3.0.9](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.8...onlyoffice-document-server-3.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -619,7 +619,7 @@
 
 <a name="onlyoffice-document-server-3.0.8"></a>
 
-### [onlyoffice-document-server-3.0.8](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.7...onlyoffice-document-server-3.0.8) (2021-12-28)
+### [only office-document-server-3.0.8](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.7...onlyoffice-document-server-3.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -629,7 +629,7 @@
 
 <a name="onlyoffice-document-server-3.0.7"></a>
 
-### [onlyoffice-document-server-3.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.6...onlyoffice-document-server-3.0.7) (2021-12-21)
+### [only office-document-server-3.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.6...onlyoffice-document-server-3.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -639,7 +639,7 @@
 
 <a name="onlyoffice-document-server-3.0.6"></a>
 
-### [onlyoffice-document-server-3.0.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.5...onlyoffice-document-server-3.0.6) (2021-12-19)
+### [only office-document-server-3.0.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.5...onlyoffice-document-server-3.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -650,7 +650,7 @@
 
 <a name="onlyoffice-document-server-3.0.5"></a>
 
-### [onlyoffice-document-server-3.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.4...onlyoffice-document-server-3.0.5) (2021-12-19)
+### [only office-document-server-3.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.4...onlyoffice-document-server-3.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -660,7 +660,7 @@
 
 <a name="onlyoffice-document-server-3.0.4"></a>
 
-### [onlyoffice-document-server-3.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.3...onlyoffice-document-server-3.0.4) (2021-12-18)
+### [仅限办公室文件服务器-3.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.3...onlyoffice-document-server-3.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -671,7 +671,7 @@
 
 <a name="onlyoffice-document-server-3.0.3"></a>
 
-### [onlyoffice-document-server-3.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.2...onlyoffice-document-server-3.0.3) (2021-12-14)
+### [only office-document-server-3.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.2...onlyoffice-document-server-3.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -681,7 +681,7 @@
 
 <a name="onlyoffice-document-server-3.0.2"></a>
 
-### [onlyoffice-document-server-3.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.1...onlyoffice-document-server-3.0.2) (2021-12-13)
+### [only office-document-server-3.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.1...onlyoffice-document-server-3.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -691,7 +691,7 @@
 
 <a name="onlyoffice-document-server-3.0.1"></a>
 
-### [onlyoffice-document-server-3.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.0...onlyoffice-document-server-3.0.1) (2021-12-11)
+### [only office-document-server-3.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-3.0.0...onlyoffice-document-server-3.0.1) (2021-12-11)
 
 #### 聊天
 
@@ -701,7 +701,7 @@
 
 <a name="onlyoffice-document-server-3.0.0"></a>
 
-### [onlyoffice-document-server-3.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.19...onlyoffice-document-server-3.0.0) (2021-12-11)
+### [only office-document-server-3.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.19...onlyoffice-document-server-3.0.0) (2021-12-11)
 
 #### Feat
 
@@ -711,7 +711,7 @@
 
 <a name="onlyoffice-document-server-2.0.19"></a>
 
-### [onlyoffice-document-server-2.0.19](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.18...onlyoffice-document-server-2.0.19) (2021-12-07)
+### [only office-document-server-2.0.19](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.18...onlyoffice-document-server-2.0.19) (2021-12-07)
 
 #### 聊天
 
@@ -721,7 +721,7 @@
 
 <a name="onlyoffice-document-server-2.0.18"></a>
 
-### onlyoffice-document-server-2.0.18 (2021-12-05)
+### 仅Office-document-server-2.0.18 (2021-12-05)
 
 #### 聊天
 
@@ -742,7 +742,7 @@
 
 <a name="onlyoffice-document-server-2.0.17"></a>
 
-### [onlyoffice-document-server-2.0.17](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.16...onlyoffice-document-server-2.0.17) (2021-12-05)
+### [only office-document-server-2.0.17](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.16...onlyoffice-document-server-2.0.17) (2021-12-05)
 
 #### 聊天
 
@@ -752,7 +752,7 @@
 
 <a name="onlyoffice-document-server-2.0.16"></a>
 
-### [onlyoffice-document-server-2.0.16](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.15...onlyoffice-document-server-2.0.16) (2021-12-04)
+### [only office-document-server-2.0.16](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.15...onlyoffice-document-server-2.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -762,7 +762,7 @@
 
 <a name="onlyoffice-document-server-2.0.15"></a>
 
-### [onlyoffice-document-server-2.0.15](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.14...onlyoffice-document-server-2.0.15) (2021-12-04)
+### [only office-document-server-2.0.15](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.14...onlyoffice-document-server-2.0.15) (2021-12-04)
 
 #### 聊天
 
@@ -772,7 +772,7 @@
 
 <a name="onlyoffice-document-server-2.0.14"></a>
 
-### [onlyoffice-document-server-2.0.14](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.13...onlyoffice-document-server-2.0.14) (2021-12-03)
+### [only office-document-server-2.0.14](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.13...onlyoffice-document-server-2.0.14) (2021-12-03)
 
 #### 聊天
 
@@ -784,7 +784,7 @@
 
 <a name="onlyoffice-document-server-2.0.13"></a>
 
-### [onlyoffice-document-server-2.0.13](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.12...onlyoffice-document-server-2.0.13) (2021-11-30)
+### [only office-document-server-2.0.13](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.12...onlyoffice-document-server-2.0.13) (2021-11-30)
 
 #### 聊天
 
@@ -798,7 +798,7 @@
 
 <a name="onlyoffice-document-server-2.0.12"></a>
 
-### [onlyoffice-document-server-2.0.12](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.11...onlyoffice-document-server-2.0.12) (2021-11-23)
+### [only office-document-server-2.0.12](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.11...onlyoffice-document-server-2.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -808,7 +808,7 @@
 
 <a name="onlyoffice-document-server-2.0.11"></a>
 
-### [onlyoffice-document-server-2.0.11](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.10...onlyoffice-document-server-2.0.11) (2021-11-22)
+### [only office-document-server-2.0.11](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.10...onlyoffice-document-server-2.0.11) (2021-11-22)
 
 #### 聊天
 
@@ -818,7 +818,7 @@
 
 <a name="onlyoffice-document-server-2.0.10"></a>
 
-### [onlyoffice-document-server-2.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.9...onlyoffice-document-server-2.0.10) (2021-11-16)
+### [only office-document-server-2.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.9...onlyoffice-document-server-2.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -828,7 +828,7 @@
 
 <a name="onlyoffice-document-server-2.0.9"></a>
 
-### [onlyoffice-document-server-2.0.9](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.8...onlyoffice-document-server-2.0.9) (2021-11-15)
+### [only office-document-server-2.0.9](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.8...onlyoffice-document-server-2.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -838,7 +838,7 @@
 
 <a name="onlyoffice-document-server-2.0.8"></a>
 
-### [onlyoffice-document-server-2.0.8](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.7...onlyoffice-document-server-2.0.8) (2021-11-14)
+### [only office-document-server-2.0.8](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.7...onlyoffice-document-server-2.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -851,7 +851,7 @@
 
 <a name="onlyoffice-document-server-2.0.7"></a>
 
-### [onlyoffice-document-server-2.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.6...onlyoffice-document-server-2.0.7) (2021-11-09)
+### [only office-document-server-2.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.6...onlyoffice-document-server-2.0.7) (2021-11-09)
 
 #### 聊天
 
@@ -861,7 +861,7 @@
 
 <a name="onlyoffice-document-server-2.0.6"></a>
 
-### [onlyoffice-document-server-2.0.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.5...onlyoffice-document-server-2.0.6) (2021-11-07)
+### [only office-document-server-2.0.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.5...onlyoffice-document-server-2.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -871,7 +871,7 @@
 
 <a name="onlyoffice-document-server-2.0.5"></a>
 
-### [onlyoffice-document-server-2.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.4...onlyoffice-document-server-2.0.5) (2021-11-07)
+### [only office-document-server-2.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.4...onlyoffice-document-server-2.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -889,7 +889,7 @@
 
 <a name="onlyoffice-document-server-2.0.4"></a>
 
-### [onlyoffice-document-server-2.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.3...onlyoffice-document-server-2.0.4) (2021-11-02)
+### [only office-document-server-2.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.3...onlyoffice-document-server-2.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -899,7 +899,7 @@
 
 <a name="onlyoffice-document-server-2.0.3"></a>
 
-### [onlyoffice-document-server-2.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.2...onlyoffice-document-server-2.0.3) (2021-11-01)
+### [only office-document-server-2.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.2...onlyoffice-document-server-2.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -909,7 +909,7 @@
 
 <a name="onlyoffice-document-server-2.0.2"></a>
 
-### [onlyoffice-document-server-2.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.1...onlyoffice-document-server-2.0.2) (2021-10-26)
+### [only office-document-server-2.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.1...onlyoffice-document-server-2.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -919,7 +919,7 @@
 
 <a name="onlyoffice-document-server-2.0.1"></a>
 
-### [onlyoffice-document-server-2.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.0...onlyoffice-document-server-2.0.1) (2021-10-26)
+### [only office-document-server-2.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-2.0.0...onlyoffice-document-server-2.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -929,7 +929,7 @@
 
 <a name="onlyoffice-document-server-2.0.0"></a>
 
-### [onlyoffice-document-server-2.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.10...onlyoffice-document-server-2.0.0) (2021-10-25)
+### [only office-document-server-2.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.10...onlyoffice-document-server-2.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -939,12 +939,12 @@
 
 <a name="onlyoffice-document-server-1.0.10"></a>
 
-### [onlyoffice-document-server-1.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.7...onlyoffice-document-server-1.0.10) (2021-10-20)
+### [only office-document-server--1.0.10](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.7...onlyoffice-document-server-1.0.10) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -955,7 +955,7 @@
 
 <a name="onlyoffice-document-server-1.0.7"></a>
 
-### [onlyoffice-document-server-1.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.6...onlyoffice-document-server-1.0.7) (2021-10-20)
+### [only office-document-server--1.0.7](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.6...onlyoffice-document-server-1.0.7) (2021-10-20)
 
 #### 聊天
 
@@ -965,7 +965,7 @@
 
 <a name="onlyoffice-document-server-1.0.6"></a>
 
-### [onlyoffice-document-server-1.0.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.5...onlyoffice-document-server-1.0.6) (2021-10-19)
+### [only office-document-server-1.0.6](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.5...onlyoffice-document-server-1.0.6) (2021-10-19)
 
 #### 更改
 
@@ -990,7 +990,7 @@
 
 <a name="onlyoffice-document-server-1.0.5"></a>
 
-### [onlyoffice-document-server-1.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.4...onlyoffice-document-server-1.0.5) (2021-10-19)
+### [only office-document-server--1.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.4...onlyoffice-document-server-1.0.5) (2021-10-19)
 
 #### 修复
 
@@ -1000,7 +1000,7 @@
 
 <a name="onlyoffice-document-server-1.0.4"></a>
 
-### [onlyoffice-document-server-1.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.3...onlyoffice-document-server-1.0.4) (2021-10-19)
+### [only office-document-server-1.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.3...onlyoffice-document-server-1.0.4) (2021-10-19)
 
 #### 修复
 
@@ -1010,7 +1010,7 @@
 
 <a name="onlyoffice-document-server-1.0.3"></a>
 
-### [onlyoffice-document-server-1.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.2...onlyoffice-document-server-1.0.3) (2021-10-18)
+### [only office-document-server--1.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.2...onlyoffice-document-server-1.0.3) (2021-10-18)
 
 #### 重新因子
 
@@ -1020,7 +1020,7 @@
 
 <a name="onlyoffice-document-server-1.0.2"></a>
 
-### [onlyoffice-document-server-1.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.1...onlyoffice-document-server-1.0.2) (2021-10-17)
+### [only office-document-server--1.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.1...onlyoffice-document-server-1.0.2) (2021-10-17)
 
 #### 聊天
 
@@ -1030,7 +1030,7 @@
 
 <a name="onlyoffice-document-server-1.0.1"></a>
 
-### [onlyoffice-document-server-1.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.0...onlyoffice-document-server-1.0.1) (2021-10-13)
+### [only office-document-server-1.0.1](https://github.com/truecharts/apps/compare/onlyoffice-document-server-1.0.0...onlyoffice-document-server-1.0.1) (2021-10-13)
 
 #### 聊天
 
@@ -1040,7 +1040,7 @@
 
 <a name="onlyoffice-document-server-0.0.5"></a>
 
-### [onlyoffice-document-server-0.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.4...onlyoffice-document-server-0.0.5) (2021-10-12)
+### [only office-document-server-0.0.5](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.4...onlyoffice-document-server-0.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -1050,7 +1050,7 @@
 
 <a name="onlyoffice-document-server-0.0.4"></a>
 
-### [onlyoffice-document-server-0.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.3...onlyoffice-document-server-0.0.4) (2021-10-12)
+### [only office-document-server-0.0.4](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.3...onlyoffice-document-server-0.0.4) (2021-10-12)
 
 #### 聊天
 
@@ -1060,7 +1060,7 @@
 
 <a name="onlyoffice-document-server-0.0.3"></a>
 
-### [onlyoffice-document-server-0.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.2...onlyoffice-document-server-0.0.3) (2021-10-05)
+### [only office-document-server-0.0.3](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.2...onlyoffice-document-server-0.0.3) (2021-10-05)
 
 #### 聊天
 
@@ -1070,16 +1070,16 @@
 
 <a name="onlyoffice-document-server-1.0.0"></a>
 
-### [onlyoffice-document-server-1.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.2...onlyoffice-document-server-1.0.0) (2021-10-03)
+### [only office-document-server-1.0.0](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.2...onlyoffice-document-server-1.0.0) (2021-10-03)
 
 
 
 <a name="onlyoffice-document-server-0.0.2"></a>
 
-### [onlyoffice-document-server-0.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.1...onlyoffice-document-server-0.0.2) (2021-10-01)
+### [only office-document-server-0.0.2](https://github.com/truecharts/apps/compare/onlyoffice-document-server-0.0.1...onlyoffice-document-server-0.0.2) (2021-10-01)
 
 
 
 <a name="onlyoffice-document-server-0.0.1"></a>
 
-### onlyoffice-document-server-0.0.1 (2021-10-01)
+### 仅限办公室文件服务器-0.0.1 (2021-10-01)
