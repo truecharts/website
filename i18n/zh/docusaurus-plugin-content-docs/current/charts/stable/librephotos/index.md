@@ -6,8 +6,8 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/LibrePhotos/librephotos>
-* <https://hub.docker.com/r/reallibrephotos/librephotos>
+* [https://github.com/LibrePhotos/libre照片](https://github.com/LibrePhotos/librephotos)
+* [https://hub.docker.com/r/reallibrephotos/libre照片](https://hub.docker.com/r/reallibrephotos/librephotos)
 
 ## B. 所需经费
 
