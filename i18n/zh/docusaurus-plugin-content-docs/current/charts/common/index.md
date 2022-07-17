@@ -1,30 +1,30 @@
-# Common
+# 常用的
 
-Function library for TrueCharts
+TrueCharts功能库
 
-Function library for TrueCharts Since a lot of the TrueCharts Apps and Charts follow a similar pattern, this library was built to reduce maintenance cost between the charts that use it and try achieve a goal of being DRY.
+TrueCharts 的函数库 由于很多TrueChts 应用程序和图表遵循类似的模式， 这个图书馆的建造是为了降低使用它的海图之间的维护费用，并试图实现成为DRY的目标。
 
-## Requirements
+## B. 所需经费
 
 Kubernetes: `>=1.16.0-0`
 
-## Dependencies
+## 依赖关系
 
-| Repository | Name | Version |
-| ---------- | ---- | ------- |
-|            |      |         |
+| 存储库 | 名称 | 版本 |
+| --- | -- | -- |
+|     |    |    |
 
-## Installing the Chart
+## 安装图表
 
-This is a Helm Library Chart. WARNING: THIS CHART IS NOT MEANT TO BE INSTALLED DIRECTLY
+这是头盔库图。 警告: 此频道不适用于安装 DIRECTY
 
-## Support
+## 支持
 
-- Please check our [quick-start guides](https://truecharts.org/manual/Quick-Start%20Guides/01-Adding-TrueCharts/) first.
-- See the [Wiki](https://truecharts.org)
-- Check our [Discord](https://discord.gg/tVsPTHWTtr)
-- Open a [issue](https://github.com/truecharts/apps/issues/new/choose)
+- 请先检查我们的 [快速启动指南](https://truecharts.org/manual/Quick-Start%20Guides/01-Adding-TrueCharts/)。
+- 查看 [Wiki](https://truecharts.org)
+- 查看我们的 [Discord](https://discord.gg/tVsPTHWTtr)
+- 打开一个 [问题](https://github.com/truecharts/apps/issues/new/choose)
 
 ---
 
-All Rights Reserved - The TrueCharts Project
+版权所有 - TrueCharts 项目
