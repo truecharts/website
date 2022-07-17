@@ -514,7 +514,7 @@
 
 #### Feat
 
-* Add extension-priority setting ([#1772](https://github.com/truecharts/apps/issues/1772))
+* 添加扩展优先级设置 ([#1772](https://github.com/truecharts/apps/issues/1772))
 
 
 
@@ -568,7 +568,7 @@
 
 #### 修复
 
-* fix default readFS on questions ([#1727](https://github.com/truecharts/apps/issues/1727))
+* 修复问题上的默认readFS ([#1727](https://github.com/truecharts/apps/issues/1727))
 
 
 
@@ -588,7 +588,7 @@
 
 #### 修复
 
-* Use correct user on questions.yaml ([#1719](https://github.com/truecharts/apps/issues/1719))
+* 在问题.yaml 上使用正确的用户 ([#1719](https://github.com/truecharts/apps/issues/1719))
 
 
 
@@ -598,4 +598,4 @@
 
 #### Feat
 
-* Add guacamole-client ([#1696](https://github.com/truecharts/apps/issues/1696))
+* 添加guacamole-客户端([#1696](https://github.com/truecharts/apps/issues/1696))
