@@ -347,7 +347,7 @@
 
 #### Feat
 
-* make gui easier - Breaking Change ([#2154](https://github.com/truecharts/apps/issues/2154))
+* 让界面更加容易-打破更改 ([#215](https://github.com/truecharts/apps/issues/2154))
 
 
 
@@ -582,7 +582,7 @@
 
 <a name="jdownloader2-5.0.4"></a>
 
-### [jdownloader2-5.0.4](https://github.com/truecharts/apps/compare/jdownloader2-5.0.3...jdownloader2-5.0.4) (2021-12-18)
+### [jdownloader2-5.0.4](https://github.com/truecharts/apps/compare/jdownloader2-5.0.3...jdownloader2-5.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -801,7 +801,7 @@
 
 #### 修复
 
-* Add missing service to values.yaml
+* 将缺少的服务添加到值.yaml
 
 
 
@@ -889,7 +889,7 @@
 
 #### 修复
 
-* fix discrepancies between values.yaml and questions.yaml
+* 修复值.yaml 和 questions.yaml 之间的差异
 
 
 
@@ -1063,7 +1063,7 @@
 
 #### 修复
 
-* set jdownloader2 umask to 002 ([#982](https://github.com/truecharts/apps/issues/982))
+* 将 jdownloader2 umask 设置为 002 ([#982](https://github.com/truecharts/apps/issues/982))
 
 
 
