@@ -1,5 +1,5 @@
 # 默认用户名/密码
 
-__E-mail__: `admin`
+__E-mail__: `管理员`
 
-__Password__: `password`
+__密码__: `密码`
