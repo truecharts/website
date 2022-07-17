@@ -1,8 +1,8 @@
 # 输入验证
 
-__`APP_KEY`__ Accepted formats are:
+__`APP_KEY`__ 接受的格式是：
 
-- Letters, Numbers, Symbols, Exactly 32 characters (eg. `!oqVA9o2@br#$6vAyk8LLrDm54X5EtjD`) - It accepts `a-z`, `A-Z`, `0-9` and `!@#$%^&*?`
+- 字母、 数字、 符号、 Exactly 32 个字符 `！ qVA9o2@br#6vAyk8LLRDm54X5EtjD`- 它接受 `a-z`, `A-Z`, `0-9` 和 `！ #$%^&*?`
 
 You can try live [here](https://regex101.com/r/OR879w/1) Regex used to match this: `[a-zA-Z0-9!@#$%^&*?]{32}`
 
