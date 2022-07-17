@@ -1,44 +1,44 @@
-# Changelog
+# 更新日志
 
 
 ## [snapdrop-2.0.23](https://github.com/truecharts/apps/compare/snapdrop-2.0.22...snapdrop-2.0.23) (2022-07-16)
 
-### Chore
+### 聊天
 
-- update docker general non-major ([#3192](https://github.com/truecharts/apps/issues/3192))
+- 更新一般的非主基座([#3192](https://github.com/truecharts/apps/issues/3192))
 
 
 
 ## [snapdrop-2.0.22](https://github.com/truecharts/apps/compare/snapdrop-2.0.21...snapdrop-2.0.22) (2022-07-14)
 
-### Fix
+### 修复
 
-- regenerate catalog and update template
+- 重新生成目录并更新模板
 
 
 
 ## [snapdrop-2.0.21](https://github.com/truecharts/apps/compare/snapdrop-2.0.19...snapdrop-2.0.21) (2022-07-14)
 
-### Fix
+### 修复
 
-- bump to ensure .helmignore is present on all Charts
+- bump 以确保.helmnote存在于所有图表
 
 
 
 ## [snapdrop-2.0.19](https://github.com/truecharts/apps/compare/snapdrop-2.0.17...snapdrop-2.0.19) (2022-07-12)
 
-### Chore
+### 聊天
 
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
 
 
 
 ## [snapdrop-2.0.17](https://github.com/truecharts/apps/compare/snapdrop-2.0.16...snapdrop-2.0.17) (2022-07-12)
 
-### Chore
+### 聊天
 
-- bump to regenerate documentation
+- 跳转以重新生成文档
 
 
 
@@ -46,9 +46,9 @@
 
 ### [snapdrop-2.0.16](https://github.com/truecharts/apps/compare/snapdrop-2.0.15...snapdrop-2.0.16) (2022-07-12)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3147](https://github.com/truecharts/apps/issues/3147))
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
 
 
 
@@ -56,9 +56,9 @@
 
 ### [snapdrop-2.0.15](https://github.com/truecharts/apps/compare/snapdrop-2.0.14...snapdrop-2.0.15) (2022-07-11)
 
-#### Chore
+#### 聊天
 
-* move icons into the apps folder ([#3139](https://github.com/truecharts/apps/issues/3139))
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
 
 
 
@@ -66,9 +66,9 @@
 
 ### [snapdrop-2.0.14](https://github.com/truecharts/apps/compare/snapdrop-2.0.13...snapdrop-2.0.14) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3113](https://github.com/truecharts/apps/issues/3113))
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
 
 
 
@@ -76,9 +76,9 @@
 
 ### [snapdrop-2.0.13](https://github.com/truecharts/apps/compare/snapdrop-2.0.12...snapdrop-2.0.13) (2022-07-09)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3106](https://github.com/truecharts/apps/issues/3106))
+* 更新一般的非主要泊位([#3106](https://github.com/truecharts/apps/issues/3106))
 
 
 
@@ -86,9 +86,9 @@
 
 ### [snapdrop-2.0.12](https://github.com/truecharts/apps/compare/snapdrop-2.0.11...snapdrop-2.0.12) (2022-07-04)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#3066](https://github.com/truecharts/apps/issues/3066))
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
 
 
 
@@ -96,9 +96,9 @@
 
 ### [snapdrop-2.0.11](https://github.com/truecharts/apps/compare/snapdrop-2.0.10...snapdrop-2.0.11) (2022-07-02)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#3033](https://github.com/truecharts/apps/issues/3033))
+* 更新一般的非主基座([#3033](https://github.com/truecharts/apps/issues/3033))
 
 
 
@@ -106,9 +106,9 @@
 
 ### [snapdrop-2.0.10](https://github.com/truecharts/apps/compare/snapdrop-2.0.9...snapdrop-2.0.10) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2977](https://github.com/truecharts/apps/issues/2977))
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
 
 
 
@@ -116,9 +116,9 @@
 
 ### [snapdrop-2.0.9](https://github.com/truecharts/apps/compare/snapdrop-2.0.8...snapdrop-2.0.9) (2022-06-25)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2960](https://github.com/truecharts/apps/issues/2960))
+* 更新一般的非主码([#2960](https://github.com/truecharts/apps/issues/2960))
 
 
 
@@ -126,9 +126,9 @@
 
 ### [snapdrop-2.0.8](https://github.com/truecharts/apps/compare/snapdrop-2.0.7...snapdrop-2.0.8) (2022-06-22)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2948](https://github.com/truecharts/apps/issues/2948))
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
 
 
 
@@ -136,9 +136,9 @@
 
 ### [snapdrop-2.0.7](https://github.com/truecharts/apps/compare/snapdrop-2.0.6...snapdrop-2.0.7) (2022-06-21)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2943](https://github.com/truecharts/apps/issues/2943))
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
 
 
 
@@ -146,9 +146,9 @@
 
 ### [snapdrop-2.0.6](https://github.com/truecharts/apps/compare/snapdrop-2.0.5...snapdrop-2.0.6) (2022-06-18)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2927](https://github.com/truecharts/apps/issues/2927))
+* 更新一般的非主码([#2927](https://github.com/truecharts/apps/issues/2927))
 
 
 
@@ -156,9 +156,9 @@
 
 ### [snapdrop-2.0.5](https://github.com/truecharts/apps/compare/snapdrop-2.0.4...snapdrop-2.0.5) (2022-06-14)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2886](https://github.com/truecharts/apps/issues/2886))
+* 更新头盔的一般非主头盔版本([#2886](https://github.com/truecharts/apps/issues/2886))
 
 
 
@@ -166,9 +166,9 @@
 
 ### [snapdrop-2.0.4](https://github.com/truecharts/apps/compare/snapdrop-2.0.3...snapdrop-2.0.4) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2854](https://github.com/truecharts/apps/issues/2854))
+* 更新头盔的一般非主头盔版本([#2854](https://github.com/truecharts/apps/issues/2854))
 
 
 
@@ -176,9 +176,9 @@
 
 ### [snapdrop-2.0.3](https://github.com/truecharts/apps/compare/snapdrop-2.0.2...snapdrop-2.0.3) (2022-06-11)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2848](https://github.com/truecharts/apps/issues/2848))
+* 更新一般的非主基座([#2848](https://github.com/truecharts/apps/issues/2848))
 
 
 
@@ -186,9 +186,9 @@
 
 ### [snapdrop-2.0.2](https://github.com/truecharts/apps/compare/snapdrop-2.0.1...snapdrop-2.0.2) (2022-06-07)
 
-#### Fix
+#### 修复
 
-* hotpatch to disable HPA and networkPolicy in SCALE interface, due to incompatible format.
+* 由于格式不兼容，在SCALE接口中禁用HPA和网络政策。
 
 
 
@@ -196,18 +196,18 @@
 
 ### [snapdrop-2.0.1](https://github.com/truecharts/apps/compare/snapdrop-1.0.14...snapdrop-2.0.1) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* Auto-update chart README [skip ci]
-* sync all apps persistence configuration and always default to PVC
+* 自动更新README图表 [跳过 ci]
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Fix
+#### 修复
 
-* remove malfunctioning SCALE migration script
+* 移除错误的 SCALE 迁移脚本
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -215,13 +215,13 @@
 
 ### [snapdrop-2.0.0](https://github.com/truecharts/apps/compare/snapdrop-1.0.14...snapdrop-2.0.0) (2022-06-07)
 
-#### Chore
+#### 聊天
 
-* sync all apps persistence configuration and always default to PVC
+* 同步所有应用的持久性配置并总是默认到 PVC
 
-#### Refactor
+#### 重新因子
 
-* BREAKING CHANGE ([#2836](https://github.com/truecharts/apps/issues/2836))
+* 购买更改([#2836](https://github.com/truecharts/apps/issues/2836))
 
 
 
@@ -229,9 +229,9 @@
 
 ### [snapdrop-1.0.14](https://github.com/truecharts/apps/compare/snapdrop-1.0.13...snapdrop-1.0.14) (2022-06-03)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2821](https://github.com/truecharts/apps/issues/2821))
+* 更新一般的非主码([#2821](https://github.com/truecharts/apps/issues/2821))
 
 
 
@@ -239,21 +239,10 @@
 
 ### [snapdrop-1.0.13](https://github.com/truecharts/apps/compare/snapdrop-1.0.12...snapdrop-1.0.13) (2022-05-31)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2803](https://github.com/truecharts/apps/issues/2803))
-* update docker general non-major ([#2791](https://github.com/truecharts/apps/issues/2791))
-
-
-
-<a name="snapdrop-1.0.12"></a>
-
-### [snapdrop-1.0.12](https://github.com/truecharts/apps/compare/snapdrop-1.0.11...snapdrop-1.0.12) (2022-05-26)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 更新头盔的一般非主头盔版本([#2803](https://github.com/truecharts/apps/issues/2803))
+* 更新一般的非主码([#2791](https://github.com/truecharts/apps/issues/2791))
 
 
 
@@ -261,9 +250,20 @@
 
 ### [snapdrop-1.0.12](https://github.com/truecharts/apps/compare/snapdrop-1.0.11...snapdrop-1.0.12) (2022-05-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2759](https://github.com/truecharts/apps/issues/2759))
+* 自动更新README图表 [跳过 ci]
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
+
+
+
+<a name="snapdrop-1.0.12"></a>
+
+### [snapdrop-1.0.12](https://github.com/truecharts/apps/compare/snapdrop-1.0.11...snapdrop-1.0.12) (2022-05-26)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2759](https://github.com/truecharts/apps/issues/2759))
 
 
 
@@ -271,9 +271,9 @@
 
 ### [snapdrop-1.0.11](https://github.com/truecharts/apps/compare/snapdrop-1.0.10...snapdrop-1.0.11) (2022-05-24)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -281,20 +281,9 @@
 
 ### [snapdrop-1.0.10](https://github.com/truecharts/apps/compare/snapdrop-1.0.9...snapdrop-1.0.10) (2022-05-21)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2724](https://github.com/truecharts/apps/issues/2724))
-
-
-
-<a name="snapdrop-1.0.9"></a>
-
-### [snapdrop-1.0.9](https://github.com/truecharts/apps/compare/snapdrop-1.0.8...snapdrop-1.0.9) (2022-05-17)
-
-#### Chore
-
-* Auto-update chart README [skip ci]
-* update helm general non-major helm releases
+* 更新一般的非主要泊位([#2724](https://github.com/truecharts/apps/issues/2724))
 
 
 
@@ -302,9 +291,20 @@
 
 ### [snapdrop-1.0.9](https://github.com/truecharts/apps/compare/snapdrop-1.0.8...snapdrop-1.0.9) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 自动更新README图表 [跳过 ci]
+* 更新头盔非主要头盔的一般版本
+
+
+
+<a name="snapdrop-1.0.9"></a>
+
+### [snapdrop-1.0.9](https://github.com/truecharts/apps/compare/snapdrop-1.0.8...snapdrop-1.0.9) (2022-05-17)
+
+#### 聊天
+
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -312,9 +312,9 @@
 
 ### [snapdrop-1.0.8](https://github.com/truecharts/apps/compare/snapdrop-1.0.7...snapdrop-1.0.8) (2022-05-17)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases
+* 更新头盔非主要头盔的一般版本
 
 
 
@@ -322,9 +322,9 @@
 
 ### [snapdrop-1.0.7](https://github.com/truecharts/apps/compare/snapdrop-1.0.6...snapdrop-1.0.7) (2022-05-14)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2679](https://github.com/truecharts/apps/issues/2679))
+* 更新一般的非主基座([#2679](https://github.com/truecharts/apps/issues/2679))
 
 
 
@@ -332,9 +332,9 @@
 
 ### [snapdrop-1.0.6](https://github.com/truecharts/apps/compare/snapdrop-1.0.5...snapdrop-1.0.6) (2022-05-10)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2649](https://github.com/truecharts/apps/issues/2649))
+* 更新头盔的一般非主要头盔版本([#2649](https://github.com/truecharts/apps/issues/2649))
 
 
 
@@ -342,9 +342,9 @@
 
 ### [snapdrop-1.0.5](https://github.com/truecharts/apps/compare/snapdrop-1.0.4...snapdrop-1.0.5) (2022-05-06)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major
+* 更新一般非主要停靠栏
 
 
 
@@ -352,9 +352,9 @@
 
 ### [snapdrop-1.0.4](https://github.com/truecharts/apps/compare/snapdrop-1.0.3...snapdrop-1.0.4) (2022-05-05)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2612](https://github.com/truecharts/apps/issues/2612))
+* 更新头盔的一般非主要头盔版本([#2612](https://github.com/truecharts/apps/issues/2612))
 
 
 
@@ -362,9 +362,9 @@
 
 ### [snapdrop-1.0.3](https://github.com/truecharts/apps/compare/snapdrop-1.0.2...snapdrop-1.0.3) (2022-05-04)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2606](https://github.com/truecharts/apps/issues/2606))
+* 更新一般的非主码([#2606](https://github.com/truecharts/apps/issues/2606))
 
 
 
@@ -372,9 +372,9 @@
 
 ### [snapdrop-1.0.2](https://github.com/truecharts/apps/compare/snapdrop-1.0.1...snapdrop-1.0.2) (2022-04-26)
 
-#### Chore
+#### 聊天
 
-* update helm general non-major helm releases ([#2573](https://github.com/truecharts/apps/issues/2573))
+* 更新头盔的一般非主头盔版本([#2573](https://github.com/truecharts/apps/issues/2573))
 
 
 
@@ -382,10 +382,10 @@
 
 ### [snapdrop-1.0.1](https://github.com/truecharts/apps/compare/snapdrop-1.0.0...snapdrop-1.0.1) (2022-04-20)
 
-#### Chore
+#### 聊天
 
-* add missing quote on description ([#2515](https://github.com/truecharts/apps/issues/2515))
-* update helm general non-major helm releases ([#2524](https://github.com/truecharts/apps/issues/2524))
+* 在描述上添加缺少的引号 ([#2515](https://github.com/truecharts/apps/issues/2515))
+* 更新头盔的一般非主要头盔版本([#2524](https://github.com/truecharts/apps/issues/2524))
 
 
 
@@ -395,7 +395,7 @@
 
 #### Feat
 
-* move some apps to stable ([#2504](https://github.com/truecharts/apps/issues/2504))
+* 移动一些应用到稳定的位置([#2504](https://github.com/truecharts/apps/issues/2504))
 
 
 
@@ -403,9 +403,9 @@
 
 ### [snapdrop-0.0.2](https://github.com/truecharts/apps/compare/snapdrop-0.0.1...snapdrop-0.0.2) (2022-04-17)
 
-#### Chore
+#### 聊天
 
-* update docker general non-major ([#2497](https://github.com/truecharts/apps/issues/2497))
+* 更新一般的非主码([#2497](https://github.com/truecharts/apps/issues/2497))
 
 
 
@@ -415,4 +415,4 @@
 
 #### Feat
 
-* Add apps ([#2493](https://github.com/truecharts/apps/issues/2493))
+* 添加应用程序 ([#2493](https://github.com/truecharts/apps/issues/2493))
