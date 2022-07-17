@@ -351,7 +351,7 @@
 
 #### 修复
 
-* create initial user ([#2417](https://github.com/truecharts/apps/issues/2417))
+* 创建初始用户 ([#2417](https://github.com/truecharts/apps/issues/2417))
 
 
 
@@ -382,7 +382,7 @@
 #### 聊天
 
 * 自动更新README图表 [跳过 ci]
-* bump version ([#2390](https://github.com/truecharts/apps/issues/2390))
+* bump 版本([#2390](https://github.com/truecharts/apps/issues/2390))
 
 
 
@@ -392,4 +392,4 @@
 
 #### Feat
 
-* Add linkding ([#2382](https://github.com/truecharts/apps/issues/2382))
+* 添加链接 ([#2382](https://github.com/truecharts/apps/issues/2382))
