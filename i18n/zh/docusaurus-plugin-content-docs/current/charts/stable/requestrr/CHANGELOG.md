@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [requestrr-2.0.17](https://github.com/truecharts/apps/compare/requestrr-2.0.16...requestrr-2.0.17) (2022-07-14)
+## [requtrr-2.0.17](https://github.com/truecharts/apps/compare/requestrr-2.0.16...requestrr-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [requestrr-2.0.16](https://github.com/truecharts/apps/compare/requestrr-2.0.14...requestrr-2.0.16) (2022-07-14)
+## [requir-2.0.16](https://github.com/truecharts/apps/compare/requestrr-2.0.14...requestrr-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [requestrr-2.0.14](https://github.com/truecharts/apps/compare/requestrr-2.0.12...requestrr-2.0.14) (2022-07-12)
+## [requtrr-2.0.14](https://github.com/truecharts/apps/compare/requestrr-2.0.12...requestrr-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [requestrr-2.0.12](https://github.com/truecharts/apps/compare/requestrr-2.0.11...requestrr-2.0.12) (2022-07-12)
+## [requtrr-2.0.12](https://github.com/truecharts/apps/compare/requestrr-2.0.11...requestrr-2.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="requestrr-2.0.11"></a>
 
-### [requestrr-2.0.11](https://github.com/truecharts/apps/compare/requestrr-2.0.10...requestrr-2.0.11) (2022-07-12)
+### [requtrr-2.0.11](https://github.com/truecharts/apps/compare/requestrr-2.0.10...requestrr-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="requestrr-2.0.10"></a>
 
-### [requestrr-2.0.10](https://github.com/truecharts/apps/compare/requestrr-2.0.9...requestrr-2.0.10) (2022-07-11)
+### [requtrr-2.0.10](https://github.com/truecharts/apps/compare/requestrr-2.0.9...requestrr-2.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="requestrr-2.0.9"></a>
 
-### [requestrr-2.0.9](https://github.com/truecharts/apps/compare/requestrr-2.0.8...requestrr-2.0.9) (2022-07-09)
+### [requtrr-2.0.9](https://github.com/truecharts/apps/compare/requestrr-2.0.8...requestrr-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="requestrr-2.0.8"></a>
 
-### [requestrr-2.0.8](https://github.com/truecharts/apps/compare/requestrr-2.0.7...requestrr-2.0.8) (2022-07-04)
+### [requtrr-2.0.8](https://github.com/truecharts/apps/compare/requestrr-2.0.7...requestrr-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="requestrr-2.0.7"></a>
 
-### [requestrr-2.0.7](https://github.com/truecharts/apps/compare/requestrr-2.0.6...requestrr-2.0.7) (2022-06-25)
+### [requtrr-2.0.7](https://github.com/truecharts/apps/compare/requestrr-2.0.6...requestrr-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="requestrr-2.0.6"></a>
 
-### [requestrr-2.0.6](https://github.com/truecharts/apps/compare/requestrr-2.0.5...requestrr-2.0.6) (2022-06-22)
+### [requir-2.0.6](https://github.com/truecharts/apps/compare/requestrr-2.0.5...requestrr-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="requestrr-2.0.5"></a>
 
-### [requestrr-2.0.5](https://github.com/truecharts/apps/compare/requestrr-2.0.4...requestrr-2.0.5) (2022-06-21)
+### [requtrr-2.0.5](https://github.com/truecharts/apps/compare/requestrr-2.0.4...requestrr-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="requestrr-2.0.4"></a>
 
-### [requestrr-2.0.4](https://github.com/truecharts/apps/compare/requestrr-2.0.3...requestrr-2.0.4) (2022-06-14)
+### [requtrr-2.0.4](https://github.com/truecharts/apps/compare/requestrr-2.0.3...requestrr-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="requestrr-2.0.3"></a>
 
-### [requestrr-2.0.3](https://github.com/truecharts/apps/compare/requestrr-2.0.2...requestrr-2.0.3) (2022-06-11)
+### [requtrr-2.0.3](https://github.com/truecharts/apps/compare/requestrr-2.0.2...requestrr-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="requestrr-2.0.2"></a>
 
-### [requestrr-2.0.2](https://github.com/truecharts/apps/compare/requestrr-2.0.1...requestrr-2.0.2) (2022-06-07)
+### [requtrr-2.0.2](https://github.com/truecharts/apps/compare/requestrr-2.0.1...requestrr-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="requestrr-2.0.1"></a>
 
-### [requestrr-2.0.1](https://github.com/truecharts/apps/compare/requestrr-1.0.20...requestrr-2.0.1) (2022-06-07)
+### [requir-2.0.1](https://github.com/truecharts/apps/compare/requestrr-1.0.20...requestrr-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -155,7 +155,7 @@
 
 <a name="requestrr-2.0.0"></a>
 
-### [requestrr-2.0.0](https://github.com/truecharts/apps/compare/requestrr-1.0.20...requestrr-2.0.0) (2022-06-07)
+### [requtrr-2.0.0](https://github.com/truecharts/apps/compare/requestrr-1.0.20...requestrr-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="requestrr-1.0.20"></a>
 
-### [requestrr-1.0.20](https://github.com/truecharts/apps/compare/requestrr-1.0.19...requestrr-1.0.20) (2022-05-31)
+### [requtr-1.0.20](https://github.com/truecharts/apps/compare/requestrr-1.0.19...requestrr-1.0.20) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="requestrr-1.0.19"></a>
 
-### [requestrr-1.0.19](https://github.com/truecharts/apps/compare/requestrr-1.0.18...requestrr-1.0.19) (2022-05-26)
+### [requtr-1.0.19](https://github.com/truecharts/apps/compare/requestrr-1.0.18...requestrr-1.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="requestrr-1.0.19"></a>
 
-### [requestrr-1.0.19](https://github.com/truecharts/apps/compare/requestrr-1.0.18...requestrr-1.0.19) (2022-05-26)
+### [requtr-1.0.19](https://github.com/truecharts/apps/compare/requestrr-1.0.18...requestrr-1.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="requestrr-1.0.18"></a>
 
-### [requestrr-1.0.18](https://github.com/truecharts/apps/compare/requestrr-1.0.17...requestrr-1.0.18) (2022-05-24)
+### [requestr-1.0.18](https://github.com/truecharts/apps/compare/requestrr-1.0.17...requestrr-1.0.18) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="requestrr-1.0.17"></a>
 
-### [requestrr-1.0.17](https://github.com/truecharts/apps/compare/requestrr-1.0.16...requestrr-1.0.17) (2022-05-17)
+### [requtr-1.0.17](https://github.com/truecharts/apps/compare/requestrr-1.0.16...requestrr-1.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="requestrr-1.0.17"></a>
 
-### [requestrr-1.0.17](https://github.com/truecharts/apps/compare/requestrr-1.0.16...requestrr-1.0.17) (2022-05-17)
+### [requtr-1.0.17](https://github.com/truecharts/apps/compare/requestrr-1.0.16...requestrr-1.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="requestrr-1.0.16"></a>
 
-### [requestrr-1.0.16](https://github.com/truecharts/apps/compare/requestrr-1.0.15...requestrr-1.0.16) (2022-05-17)
+### [requesttr-1.0.16](https://github.com/truecharts/apps/compare/requestrr-1.0.15...requestrr-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="requestrr-1.0.15"></a>
 
-### [requestrr-1.0.15](https://github.com/truecharts/apps/compare/requestrr-1.0.14...requestrr-1.0.15) (2022-05-10)
+### [requesttr-1.0.15](https://github.com/truecharts/apps/compare/requestrr-1.0.14...requestrr-1.0.15) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="requestrr-1.0.14"></a>
 
-### [requestrr-1.0.14](https://github.com/truecharts/apps/compare/requestrr-1.0.13...requestrr-1.0.14) (2022-05-05)
+### [requesttr-1.0.14](https://github.com/truecharts/apps/compare/requestrr-1.0.13...requestrr-1.0.14) (2022-05-05)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="requestrr-1.0.13"></a>
 
-### [requestrr-1.0.13](https://github.com/truecharts/apps/compare/requestrr-1.0.12...requestrr-1.0.13) (2022-04-26)
+### [requesttr-1.0.13](https://github.com/truecharts/apps/compare/requestrr-1.0.12...requestrr-1.0.13) (2022-04-26)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="requestrr-1.0.12"></a>
 
-### [requestrr-1.0.12](https://github.com/truecharts/apps/compare/requestrr-1.0.11...requestrr-1.0.12) (2022-04-20)
+### [requesttr-1.0.12](https://github.com/truecharts/apps/compare/requestrr-1.0.11...requestrr-1.0.12) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="requestrr-1.0.11"></a>
 
-### [requestrr-1.0.11](https://github.com/truecharts/apps/compare/requestrr-1.0.10...requestrr-1.0.11) (2022-04-12)
+### [requestr-1.0.11](https://github.com/truecharts/apps/compare/requestrr-1.0.10...requestrr-1.0.11) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="requestrr-1.0.10"></a>
 
-### [requestrr-1.0.10](https://github.com/truecharts/apps/compare/requestrr-1.0.9...requestrr-1.0.10) (2022-04-12)
+### [requtr-1.0.10](https://github.com/truecharts/apps/compare/requestrr-1.0.9...requestrr-1.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="requestrr-1.0.9"></a>
 
-### [requestrr-1.0.9](https://github.com/truecharts/apps/compare/requestrr-1.0.8...requestrr-1.0.9) (2022-04-03)
+### [requesttr-1.0.9](https://github.com/truecharts/apps/compare/requestrr-1.0.8...requestrr-1.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="requestrr-1.0.8"></a>
 
-### [requestrr-1.0.8](https://github.com/truecharts/apps/compare/requestrr-1.0.7...requestrr-1.0.8) (2022-03-31)
+### [requesttr-1.0.8](https://github.com/truecharts/apps/compare/requestrr-1.0.7...requestrr-1.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="requestrr-1.0.7"></a>
 
-### [requestrr-1.0.7](https://github.com/truecharts/apps/compare/requestrr-1.0.6...requestrr-1.0.7) (2022-03-30)
+### [requesttr-1.0.7](https://github.com/truecharts/apps/compare/requestrr-1.0.6...requestrr-1.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="requestrr-1.0.6"></a>
 
-### [requestrr-1.0.6](https://github.com/truecharts/apps/compare/requestrr-1.0.5...requestrr-1.0.6) (2022-03-26)
+### [requesttr-1.0.6](https://github.com/truecharts/apps/compare/requestrr-1.0.5...requestrr-1.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="requestrr-1.0.1"></a>
 
-### [requestrr-1.0.1](https://github.com/truecharts/apps/compare/requestrr-1.0.0...requestrr-1.0.1) (2022-03-07)
+### [requesttr-1.0.1](https://github.com/truecharts/apps/compare/requestrr-1.0.0...requestrr-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -353,7 +353,7 @@
 
 <a name="requestrr-1.0.0"></a>
 
-### [requestrr-1.0.0](https://github.com/truecharts/apps/compare/requestrr-0.0.23...requestrr-1.0.0) (2022-03-03)
+### [requesttr-1.0.0](https://github.com/truecharts/apps/compare/requestrr-0.0.23...requestrr-1.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -370,7 +370,7 @@
 
 <a name="requestrr-0.0.23"></a>
 
-### [requestrr-0.0.23](https://github.com/truecharts/apps/compare/requestrr-0.0.22...requestrr-0.0.23) (2022-03-02)
+### [requtrr-0.0.23](https://github.com/truecharts/apps/compare/requestrr-0.0.22...requestrr-0.0.23) (2022-03-02)
 
 #### 聊天
 
@@ -381,7 +381,7 @@
 
 <a name="requestrr-0.0.22"></a>
 
-### [requestrr-0.0.22](https://github.com/truecharts/apps/compare/requestrr-0.0.21...requestrr-0.0.22) (2022-02-21)
+### [requtrr-0.0.22](https://github.com/truecharts/apps/compare/requestrr-0.0.21...requestrr-0.0.22) (2022-02-21)
 
 #### 聊天
 
@@ -391,7 +391,7 @@
 
 <a name="requestrr-0.0.21"></a>
 
-### [requestrr-0.0.21](https://github.com/truecharts/apps/compare/requestrr-0.0.20...requestrr-0.0.21) (2022-02-15)
+### [requtrr-0.0.21](https://github.com/truecharts/apps/compare/requestrr-0.0.20...requestrr-0.0.21) (2022-02-15)
 
 #### 聊天
 
@@ -401,7 +401,7 @@
 
 <a name="requestrr-0.0.20"></a>
 
-### [requestrr-0.0.20](https://github.com/truecharts/apps/compare/requestrr-0.0.19...requestrr-0.0.20) (2022-02-08)
+### [requtrr-0.0.20](https://github.com/truecharts/apps/compare/requestrr-0.0.19...requestrr-0.0.20) (2022-02-08)
 
 #### 聊天
 
@@ -411,7 +411,7 @@
 
 <a name="requestrr-0.0.19"></a>
 
-### [requestrr-0.0.19](https://github.com/truecharts/apps/compare/requestrr-0.0.18...requestrr-0.0.19) (2022-02-06)
+### [requr-0.0.19](https://github.com/truecharts/apps/compare/requestrr-0.0.18...requestrr-0.0.19) (2022-02-06)
 
 #### 聊天
 
@@ -421,7 +421,7 @@
 
 <a name="requestrr-0.0.18"></a>
 
-### [requestrr-0.0.18](https://github.com/truecharts/apps/compare/requestrr-0.0.17...requestrr-0.0.18) (2022-02-05)
+### [requtrr-0.0.18](https://github.com/truecharts/apps/compare/requestrr-0.0.17...requestrr-0.0.18) (2022-02-05)
 
 #### 聊天
 
@@ -431,7 +431,7 @@
 
 <a name="requestrr-0.0.17"></a>
 
-### [requestrr-0.0.17](https://github.com/truecharts/apps/compare/requestrr-0.0.16...requestrr-0.0.17) (2022-02-02)
+### [requtrr-0.0.17](https://github.com/truecharts/apps/compare/requestrr-0.0.16...requestrr-0.0.17) (2022-02-02)
 
 #### 聊天
 
@@ -441,7 +441,7 @@
 
 <a name="requestrr-0.0.16"></a>
 
-### [requestrr-0.0.16](https://github.com/truecharts/apps/compare/requestrr-0.0.15...requestrr-0.0.16) (2022-01-25)
+### [requir-0.0.16](https://github.com/truecharts/apps/compare/requestrr-0.0.15...requestrr-0.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -451,7 +451,7 @@
 
 <a name="requestrr-0.0.15"></a>
 
-### [requestrr-0.0.15](https://github.com/truecharts/apps/compare/requestrr-0.0.14...requestrr-0.0.15) (2022-01-22)
+### [requir-0.0.15](https://github.com/truecharts/apps/compare/requestrr-0.0.14...requestrr-0.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -461,7 +461,7 @@
 
 <a name="requestrr-0.0.14"></a>
 
-### [requestrr-0.0.14](https://github.com/truecharts/apps/compare/requestrr-0.0.13...requestrr-0.0.14) (2022-01-21)
+### [requtrr-0.0.14](https://github.com/truecharts/apps/compare/requestrr-0.0.13...requestrr-0.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -475,7 +475,7 @@
 
 <a name="requestrr-0.0.13"></a>
 
-### [requestrr-0.0.13](https://github.com/truecharts/apps/compare/requestrr-0.0.12...requestrr-0.0.13) (2022-01-18)
+### [requtrr-0.0.13](https://github.com/truecharts/apps/compare/requestrr-0.0.12...requestrr-0.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -485,7 +485,7 @@
 
 <a name="requestrr-0.0.12"></a>
 
-### [requestrr-0.0.12](https://github.com/truecharts/apps/compare/requestrr-0.0.11...requestrr-0.0.12) (2022-01-13)
+### [requtrr-0.0.12](https://github.com/truecharts/apps/compare/requestrr-0.0.11...requestrr-0.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -499,7 +499,7 @@
 
 <a name="requestrr-0.0.11"></a>
 
-### [requestrr-0.0.11](https://github.com/truecharts/apps/compare/requestrr-0.0.10...requestrr-0.0.11) (2022-01-12)
+### [requtrr-0.0.11](https://github.com/truecharts/apps/compare/requestrr-0.0.10...requestrr-0.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -509,7 +509,7 @@
 
 <a name="requestrr-0.0.10"></a>
 
-### [requestrr-0.0.10](https://github.com/truecharts/apps/compare/requestrr-0.0.9...requestrr-0.0.10) (2022-01-11)
+### [requtrr-0.0.10](https://github.com/truecharts/apps/compare/requestrr-0.0.9...requestrr-0.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -519,7 +519,7 @@
 
 <a name="requestrr-0.0.9"></a>
 
-### [requestrr-0.0.9](https://github.com/truecharts/apps/compare/requestrr-0.0.8...requestrr-0.0.9) (2022-01-04)
+### [requtrr-0.0.9](https://github.com/truecharts/apps/compare/requestrr-0.0.8...requestrr-0.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -529,7 +529,7 @@
 
 <a name="requestrr-0.0.8"></a>
 
-### [requestrr-0.0.8](https://github.com/truecharts/apps/compare/requestrr-0.0.7...requestrr-0.0.8) (2021-12-28)
+### [requtrr-0.0.8](https://github.com/truecharts/apps/compare/requestrr-0.0.7...requestrr-0.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -539,7 +539,7 @@
 
 <a name="requestrr-0.0.7"></a>
 
-### [requestrr-0.0.7](https://github.com/truecharts/apps/compare/requestrr-0.0.6...requestrr-0.0.7) (2021-12-21)
+### [requtrr-0.0.7](https://github.com/truecharts/apps/compare/requestrr-0.0.6...requestrr-0.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -549,7 +549,7 @@
 
 <a name="requestrr-0.0.6"></a>
 
-### [requestrr-0.0.6](https://github.com/truecharts/apps/compare/requestrr-0.0.5...requestrr-0.0.6) (2021-12-19)
+### [requtrr-0.0.6](https://github.com/truecharts/apps/compare/requestrr-0.0.5...requestrr-0.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -559,7 +559,7 @@
 
 <a name="requestrr-0.0.5"></a>
 
-### [requestrr-0.0.5](https://github.com/truecharts/apps/compare/requestrr-0.0.4...requestrr-0.0.5) (2021-12-19)
+### [requtrr-0.0.5](https://github.com/truecharts/apps/compare/requestrr-0.0.4...requestrr-0.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="requestrr-0.0.4"></a>
 
-### [requestrr-0.0.4](https://github.com/truecharts/apps/compare/requestrr-0.0.3...requestrr-0.0.4) (2021-12-18)
+### [requtrr-0.0.4](https://github.com/truecharts/apps/compare/requestrr-0.0.3...requestrr-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -581,7 +581,7 @@
 
 <a name="requestrr-0.0.3"></a>
 
-### [requestrr-0.0.3](https://github.com/truecharts/apps/compare/requestrr-0.0.2...requestrr-0.0.3) (2021-12-14)
+### [requtrr-0.0.3](https://github.com/truecharts/apps/compare/requestrr-0.0.2...requestrr-0.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -591,7 +591,7 @@
 
 <a name="requestrr-0.0.2"></a>
 
-### [requestrr-0.0.2](https://github.com/truecharts/apps/compare/requestrr-0.0.1...requestrr-0.0.2) (2021-12-13)
+### [requtrr-0.0.2](https://github.com/truecharts/apps/compare/requestrr-0.0.1...requestrr-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -601,4 +601,4 @@
 
 <a name="requestrr-0.0.1"></a>
 
-### requestrr-0.0.1 (2021-12-12)
+### requtrr-0.0.1 (2021-12-12)
