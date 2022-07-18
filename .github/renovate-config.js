@@ -18,7 +18,7 @@ module.exports = {
         'major',
         'lockFileMaintenance',
       ],
-      dependencyDashboardApproval: false,
+      dependencyDashboardApproval: true,
       stabilityDays: 0,
     },
   ],
