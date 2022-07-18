@@ -14,7 +14,7 @@ En este documento le damos una breve guía de referencia (portada del Oficial IX
 | etiqueta                   | cadena        | verdad    | definir la etiqueta de la interfaz de usuario.                                                                                                                                                                                                                                                                                              |
 | descripción                | cadena        | falso     | especifica la descripción de la variable.                                                                                                                                                                                                                                                                                                   |
 | grupo                      | cadena        | falso     | agrupar preguntas por valor de entrada.                                                                                                                                                                                                                                                                                                     |
-| esquema                    | diccionario   | verdad    | especifica detalles del esquema para la variable ``                                                                                                                                                                                                                                                                                         |
+| esquema                    | diccionario   | verdad    | especifica detalles del esquema para la variable ``                                                                                                                                                                                                                                                                                       |
 | schema.type                | cadena        | verdad    | especifica el tipo de valor para `variable` (los tipos soportados actualmente son string, int, boolean, ruta, ruta de host, lista, dicto, ipaddr, y cron).                                                                                                                                                                                  |
 | esquema.requerido          | pluma         | falso     | definir si la variable es requerida o no (true \ false), por defecto es falso                                                                                                                                                                                                                                                              |
 | esquema.por defecto        | objeto        | falso     | especificar el valor por defecto.                                                                                                                                                                                                                                                                                                           |
@@ -134,17 +134,9 @@ Estas opciones siempre se incluyen\* porque casi todos los gráficos (eventualme
         - "definiciones/zona horaria"
         - variable: PUID
           label: "PUID"
-          description: "Establece la variable PUID env para LinuxServer. o (compatible) containers"
-          schema:
-            type: int
-            default: 568
-        - variable: PGID
+          description: "Establece la variable PUID env para LinuxServer. PGID
           label: "PGID"
-          description: "Establece la variable env PGID para LinuxServer. o (compatible) containers"
-          schema:
-            type: int
-            default: 568
-        - variable: UMASK
+          description: "Establece la variable env PGID para LinuxServer. UMASK
           label: "UMASK"
           description: "Establece la variable env UMASK para LinuxServer. o (compatible) containers"
           schema:
@@ -180,8 +172,7 @@ Estas opciones siempre se incluyen\* porque casi todos los gráficos (eventualme
 ```yaml
   # Enable privileged
   - variable: securityContext
-    group: "Security"
-    label: "Security Context"
+    group: "Security Context"
     schema:
       additional_attrs: true
       type: dict
@@ -193,8 +184,7 @@ Estas opciones siempre se incluyen\* porque casi todos los gráficos (eventualme
             default: false
   # Set Pod Security Policy
   - variable: podSecurityContext
-    group: "Security"
-    label: "Pod Security Context"
+    group: "Pod Security Context"
     schema:
       additional_attrs: true
       type: dict
@@ -226,7 +216,8 @@ Estas opciones siempre se incluyen\* porque casi todos los gráficos (eventualme
           label: "¿Cuándo debemos tomar la propiedad?"
           schema:
             type: string
-            default: "OnRootMismatch"
+            default:
+          "OnRootMismatch"
             enum:
               - value: "OnRootMismatch"
                 description: "OnRootMismatch"
