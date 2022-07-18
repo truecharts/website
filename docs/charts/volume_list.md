@@ -1,6 +1,3 @@
----
-sidebar_position: 3
----
 # Mounted Volumes
 
 This document lists the mounted volumes for each App.
@@ -60,6 +57,8 @@ The intro needs improvement ;)
 |clarkson                  |varrun            |emptyDir |-              |/var/run                                      |Read/Write|Enabled                |
 |cloud9                    |code              |PVC      |-              |/code                                         |Read/Write|Enabled                |
 |cloud9                    |varrun            |emptyDir |-              |/var/run                                      |Read/Write|Enabled                |
+|cloudflareddns            |config            |PVC      |-              |/config                                       |Read/Write|Enabled                |
+|cloudflareddns            |varrun            |emptyDir |-              |/var/run                                      |Read/Write|Enabled                |
 |code-server               |config            |PVC      |-              |/config                                       |Read/Write|Enabled                |
 |commento-plusplus         |-                 |-        |-              |-                                             |-         |Persistence not Defined|
 |couchpotato               |config            |PVC      |-              |/config                                       |Read/Write|Enabled                |
@@ -581,8 +580,6 @@ The intro needs improvement ;)
 |awesome-ttrss        |themes        |PVC     |-            |/var/www/themes.local                   |Read/Write|Enabled                |
 |clickhouse           |-             |-       |-            |-                                       |-         |Persistence not Defined|
 |cloudflared          |-             |-       |-            |-                                       |-         |Persistence not Defined|
-|cloudflareddns       |config        |PVC     |-            |/config                                 |Read/Write|Enabled                |
-|cloudflareddns       |varrun        |emptyDir|-            |/var/run                                |Read/Write|Enabled                |
 |cups-server          |config        |PVC     |-            |/etc/cups                               |Read/Write|Enabled                |
 |cups-server          |dbus          |hostPath|/var/run/dbus|/var/run/dbus                           |Read/Write|Enabled                |
 |czkawka              |config        |PVC     |-            |/config                                 |Read/Write|Enabled                |
@@ -644,6 +641,9 @@ The intro needs improvement ;)
 |self-service-password|config        |PVC     |-            |/assets/custom                          |Read/Write|Enabled                |
 |self-service-password|logs          |PVC     |-            |/www/logs                               |Read/Write|Enabled                |
 |senseai-server       |data          |PVC     |-            |/usr/share/CodeProject/SenseAI          |Read/Write|Enabled                |
+|st-reborn-server     |config        |PVC     |-            |/home/server/config                     |Read/Write|Enabled                |
+|st-reborn-server     |logs          |PVC     |-            |/home/server/logs                       |Read/Write|Enabled                |
+|st-reborn-server     |data          |PVC     |-            |/home/server/Data                       |Read/Write|Enabled                |
 |technitium           |config        |PVC     |-            |/etc/dns/config                         |Read/Write|Enabled                |
 |theme-park           |config        |PVC     |-            |/config                                 |Read/Write|Enabled                |
 |tsmuxer              |config        |PVC     |-            |/config                                 |Read/Write|Enabled                |

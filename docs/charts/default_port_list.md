@@ -1,6 +1,3 @@
----
-sidebar_position: 2
----
 # Default Ports
 
 This document lists the default ports used by Apps.
@@ -15,6 +12,7 @@ they should provide no or minimal conflicts without being changed.
 |metallb                   |-              |-              |-    |-       |Service not Defined|-                                                       |
 |amcrest2mqtt              |main           |-              |-    |-       |Service is Disabled|-                                                       |
 |automatic-music-downloader|main           |-              |-    |-       |Service is Disabled|-                                                       |
+|cloudflareddns            |main           |-              |-    |-       |Service is Disabled|-                                                       |
 |ddclient                  |main           |-              |-    |-       |Service is Disabled|-                                                       |
 |doplarr                   |main           |-              |-    |-       |Service is Disabled|-                                                       |
 |duckdns                   |main           |-              |-    |-       |Service is Disabled|-                                                       |
@@ -465,78 +463,78 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|cloudflareddns       |main           |-              |-    |-       |Service is Disabled|-                                                   |
-|adguard-home         |dns-tcp        |dns-tcp        |53   |TCP     |Active             |Potential conflict with: pihole mosdns technitium   |
-|adguard-home         |dns-udp        |dns-udp        |53   |UDP     |Active             |-                                                   |
-|lancache-dns         |main           |main           |53   |UDP     |Active             |-                                                   |
-|technitium           |dns-tcp        |dns-tcp        |53   |TCP     |Active             |Potential conflict with: pihole mosdns adguard-home |
-|technitium           |dns-udp        |dns-udp        |53   |UDP     |Active             |-                                                   |
-|zabbix-server        |snmptraps      |snmptraps      |162  |UDP     |Active             |-                                                   |
-|cups-server          |main           |main           |631  |TCP     |Active             |-                                                   |
-|adguard-home         |dns-quic-udp-1 |dns-quic-udp-1 |784  |UDP     |Active             |-                                                   |
-|adguard-home         |dns-quic-udp-2 |dns-quic-udp-2 |853  |UDP     |Active             |-                                                   |
-|technitium           |dns-tls        |dns-tls        |853  |TCP     |Active             |-                                                   |
-|frigate              |rtmp           |rtmp           |1935 |TCP     |Active             |Potential conflict with: owncast                    |
-|frigate              |main           |main           |5000 |TCP     |Active             |-                                                   |
-|technitium           |main           |main           |5380 |TCP     |Active             |-                                                   |
-|adguard-home         |dns-crypt      |dns-crypt      |5443 |TCP     |Active             |-                                                   |
-|adguard-home         |dns-crypt-udp  |dns-crypt-udp  |5443 |UDP     |Active             |-                                                   |
-|cloudflared          |main           |main           |6969 |HTTP    |Active             |-                                                   |
-|clickhouse           |main           |main           |8123 |HTTP    |Active             |-                                                   |
-|homebridge           |main           |main           |8581 |HTTP    |Active             |-                                                   |
-|adguard-home         |dns-quic-udp-3 |dns-quic-udp-3 |8853 |UDP     |Active             |-                                                   |
-|piwigo               |main           |main           |10027|TCP     |Active             |-                                                   |
-|jump                 |main           |main           |10108|TCP     |Active             |-                                                   |
-|senseai-server       |main           |main           |10118|TCP     |Active             |-                                                   |
-|ghost                |main           |main           |10166|TCP     |Active             |-                                                   |
-|self-service-password|main           |main           |10182|TCP     |Active             |-                                                   |
-|filerun              |main           |main           |10199|TCP     |Active             |-                                                   |
-|technitium           |dns-cert       |dns-cert       |10202|TCP     |Active             |-                                                   |
-|technitium           |dns-https      |dns-https      |10203|TCP     |Active             |-                                                   |
-|technitium           |dns-https-proxy|dns-https-proxy|10204|TCP     |Active             |-                                                   |
-|meshcentral          |main           |main           |10205|HTTPS   |Active             |-                                                   |
-|zabbix-server        |main           |main           |10211|TCP     |Active             |-                                                   |
-|zabbix-server        |server         |server         |10212|TCP     |Active             |-                                                   |
-|appsmith             |main           |main           |10217|TCP     |Active             |-                                                   |
-|appsmith             |supervisor     |supervisor     |10218|TCP     |Active             |-                                                   |
-|authentik            |https          |https          |10229|HTTPS   |Active             |-                                                   |
-|authentik            |main           |main           |10230|TCP     |Active             |-                                                   |
-|adguard-home         |main           |main           |10232|TCP     |Active             |-                                                   |
-|adguard-home         |dns-http       |dns-http       |10233|TCP     |Active             |-                                                   |
-|adguard-home         |dns-https      |dns-https      |10234|TCP     |Active             |-                                                   |
-|adguard-home         |dns-https-udp  |dns-https-udp  |10234|UDP     |Active             |-                                                   |
-|fancyindex           |main           |main           |10235|TCP     |Active             |-                                                   |
-|theme-park           |main           |main           |10244|TCP     |Active             |Potential conflict with: clarkson                   |
-|awesome-ttrss        |main           |main           |10246|TCP     |Active             |-                                                   |
-|jitsi                |main           |main           |10247|TCP     |Active             |-                                                   |
-|privatebin           |main           |main           |10248|HTTP    |Active             |-                                                   |
-|wger                 |main           |main           |10249|TCP     |Active             |-                                                   |
-|youtubedl-material   |main           |main           |10253|TCP     |Active             |-                                                   |
-|etesync              |main           |main           |10254|HTTP    |Active             |-                                                   |
-|radicale             |main           |main           |10255|HTTP    |Active             |-                                                   |
-|czkawka              |main           |main           |10258|TCP     |Active             |-                                                   |
-|czkawka              |vnc            |vnc            |10259|TCP     |Active             |-                                                   |
-|dupeguru             |main           |main           |10260|TCP     |Active             |-                                                   |
-|dupeguru             |vnc            |vnc            |10261|TCP     |Active             |-                                                   |
-|qdirstat             |main           |main           |10262|TCP     |Active             |-                                                   |
-|qdirstat             |vnc            |vnc            |10263|TCP     |Active             |-                                                   |
-|mediainfo            |main           |main           |10264|TCP     |Active             |-                                                   |
-|mediainfo            |vnc            |vnc            |10265|TCP     |Active             |-                                                   |
-|putty                |main           |main           |10266|TCP     |Active             |-                                                   |
-|putty                |vnc            |vnc            |10267|TCP     |Active             |-                                                   |
-|filebot              |main           |main           |10268|TCP     |Active             |-                                                   |
-|filebot              |vnc            |vnc            |10269|TCP     |Active             |-                                                   |
-|mkvcleaver           |main           |main           |10270|TCP     |Active             |-                                                   |
-|mkvcleaver           |vnc            |vnc            |10271|TCP     |Active             |-                                                   |
-|avidemux             |main           |main           |10272|TCP     |Active             |-                                                   |
-|avidemux             |vnc            |vnc            |10273|TCP     |Active             |-                                                   |
-|tsmuxer              |main           |main           |10274|TCP     |Active             |-                                                   |
-|tsmuxer              |vnc            |vnc            |10275|TCP     |Active             |-                                                   |
-|ariang               |main           |main           |10276|HTTP    |Active             |-                                                   |
-|plausible            |main           |main           |10277|HTTP    |Active             |-                                                   |
-|mineos               |main           |main           |10278|HTTP    |Active             |-                                                   |
-|lancache-monolithic  |main           |main           |10279|HTTP    |Active             |-                                                   |
-|plex-meta-manager    |main           |main           |10281|HTTP    |Active             |-                                                   |
+|adguard-home         |dns-tcp        |dns-tcp        |53   |TCP     |Active|Potential conflict with: pihole mosdns technitium   |
+|adguard-home         |dns-udp        |dns-udp        |53   |UDP     |Active|-                                                   |
+|lancache-dns         |main           |main           |53   |UDP     |Active|-                                                   |
+|technitium           |dns-tcp        |dns-tcp        |53   |TCP     |Active|Potential conflict with: pihole mosdns adguard-home |
+|technitium           |dns-udp        |dns-udp        |53   |UDP     |Active|-                                                   |
+|zabbix-server        |snmptraps      |snmptraps      |162  |UDP     |Active|-                                                   |
+|cups-server          |main           |main           |631  |TCP     |Active|-                                                   |
+|adguard-home         |dns-quic-udp-1 |dns-quic-udp-1 |784  |UDP     |Active|-                                                   |
+|adguard-home         |dns-quic-udp-2 |dns-quic-udp-2 |853  |UDP     |Active|-                                                   |
+|technitium           |dns-tls        |dns-tls        |853  |TCP     |Active|-                                                   |
+|frigate              |rtmp           |rtmp           |1935 |TCP     |Active|Potential conflict with: owncast                    |
+|frigate              |main           |main           |5000 |TCP     |Active|-                                                   |
+|technitium           |main           |main           |5380 |TCP     |Active|-                                                   |
+|adguard-home         |dns-crypt      |dns-crypt      |5443 |TCP     |Active|-                                                   |
+|adguard-home         |dns-crypt-udp  |dns-crypt-udp  |5443 |UDP     |Active|-                                                   |
+|cloudflared          |main           |main           |6969 |HTTP    |Active|-                                                   |
+|clickhouse           |main           |main           |8123 |HTTP    |Active|-                                                   |
+|homebridge           |main           |main           |8581 |HTTP    |Active|-                                                   |
+|adguard-home         |dns-quic-udp-3 |dns-quic-udp-3 |8853 |UDP     |Active|-                                                   |
+|piwigo               |main           |main           |10027|TCP     |Active|-                                                   |
+|jump                 |main           |main           |10108|TCP     |Active|-                                                   |
+|senseai-server       |main           |main           |10118|TCP     |Active|-                                                   |
+|ghost                |main           |main           |10166|TCP     |Active|-                                                   |
+|self-service-password|main           |main           |10182|TCP     |Active|-                                                   |
+|filerun              |main           |main           |10199|TCP     |Active|-                                                   |
+|technitium           |dns-cert       |dns-cert       |10202|TCP     |Active|-                                                   |
+|technitium           |dns-https      |dns-https      |10203|TCP     |Active|-                                                   |
+|technitium           |dns-https-proxy|dns-https-proxy|10204|TCP     |Active|-                                                   |
+|meshcentral          |main           |main           |10205|HTTPS   |Active|-                                                   |
+|zabbix-server        |main           |main           |10211|TCP     |Active|-                                                   |
+|zabbix-server        |server         |server         |10212|TCP     |Active|-                                                   |
+|appsmith             |main           |main           |10217|TCP     |Active|-                                                   |
+|appsmith             |supervisor     |supervisor     |10218|TCP     |Active|-                                                   |
+|authentik            |https          |https          |10229|HTTPS   |Active|-                                                   |
+|authentik            |main           |main           |10230|TCP     |Active|-                                                   |
+|adguard-home         |main           |main           |10232|TCP     |Active|-                                                   |
+|adguard-home         |dns-http       |dns-http       |10233|TCP     |Active|-                                                   |
+|adguard-home         |dns-https      |dns-https      |10234|TCP     |Active|-                                                   |
+|adguard-home         |dns-https-udp  |dns-https-udp  |10234|UDP     |Active|-                                                   |
+|fancyindex           |main           |main           |10235|TCP     |Active|-                                                   |
+|theme-park           |main           |main           |10244|TCP     |Active|Potential conflict with: clarkson                   |
+|awesome-ttrss        |main           |main           |10246|TCP     |Active|-                                                   |
+|jitsi                |main           |main           |10247|TCP     |Active|-                                                   |
+|privatebin           |main           |main           |10248|HTTP    |Active|-                                                   |
+|wger                 |main           |main           |10249|TCP     |Active|-                                                   |
+|youtubedl-material   |main           |main           |10253|TCP     |Active|-                                                   |
+|etesync              |main           |main           |10254|HTTP    |Active|-                                                   |
+|radicale             |main           |main           |10255|HTTP    |Active|-                                                   |
+|czkawka              |main           |main           |10258|TCP     |Active|-                                                   |
+|czkawka              |vnc            |vnc            |10259|TCP     |Active|-                                                   |
+|dupeguru             |main           |main           |10260|TCP     |Active|-                                                   |
+|dupeguru             |vnc            |vnc            |10261|TCP     |Active|-                                                   |
+|qdirstat             |main           |main           |10262|TCP     |Active|-                                                   |
+|qdirstat             |vnc            |vnc            |10263|TCP     |Active|-                                                   |
+|mediainfo            |main           |main           |10264|TCP     |Active|-                                                   |
+|mediainfo            |vnc            |vnc            |10265|TCP     |Active|-                                                   |
+|putty                |main           |main           |10266|TCP     |Active|-                                                   |
+|putty                |vnc            |vnc            |10267|TCP     |Active|-                                                   |
+|filebot              |main           |main           |10268|TCP     |Active|-                                                   |
+|filebot              |vnc            |vnc            |10269|TCP     |Active|-                                                   |
+|mkvcleaver           |main           |main           |10270|TCP     |Active|-                                                   |
+|mkvcleaver           |vnc            |vnc            |10271|TCP     |Active|-                                                   |
+|avidemux             |main           |main           |10272|TCP     |Active|-                                                   |
+|avidemux             |vnc            |vnc            |10273|TCP     |Active|-                                                   |
+|tsmuxer              |main           |main           |10274|TCP     |Active|-                                                   |
+|tsmuxer              |vnc            |vnc            |10275|TCP     |Active|-                                                   |
+|ariang               |main           |main           |10276|HTTP    |Active|-                                                   |
+|plausible            |main           |main           |10277|HTTP    |Active|-                                                   |
+|mineos               |main           |main           |10278|HTTP    |Active|-                                                   |
+|lancache-monolithic  |main           |main           |10279|HTTP    |Active|-                                                   |
+|plex-meta-manager    |main           |main           |10281|HTTP    |Active|-                                                   |
+|st-reborn-server     |main           |main           |10578|UDP     |Active|-                                                   |
 
 ## Official Apps
 
@@ -670,4 +668,4 @@ they should provide no or minimal conflicts without being changed.
 
 > Note: TCP and UDP ports that are the same in some Apps, are not by mistake
 > If you notice something wrong in the above info, please notify us so we can update the generator script
-> Next available port should be 10282
+> Next available port should be 10579
