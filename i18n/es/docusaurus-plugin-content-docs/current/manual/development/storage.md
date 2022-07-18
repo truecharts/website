@@ -22,7 +22,7 @@ Para estos almacenamientos podemos agregar fácilmente valores de corrección en
       attrs:
         - variable: data
           label: "Almacenamiento de aplicaciones "
-          descripción: "Almacenamiento de la aplicación".
+          descripción:
           schema:
             type: dict
             attrs:
@@ -37,7 +37,8 @@ Para estos almacenamientos podemos agregar fácilmente valores de corrección en
                 descripción: " Advertencia: ¡Cualquier cosa que no sea SCALE-ZFS romperá la rollback!"
                 schema:
                   type: string
-                  default: "SCALE-ZFS"
+                  default:
+                "SCALE-ZFS"
               - variable: mountPath
                 label: "mountPath"
                 description: "Path inside the container the storage is mounted"
