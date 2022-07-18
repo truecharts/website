@@ -420,7 +420,7 @@
 
 <a name="wekan-2.0.0"></a>
 
-### [wekan-2.0.0](https://github.com/truecharts/apps/compare/wekan-1.0.8...wekan-2.0.0) (2022-04-24)
+### [wekan-2..0.0](https://github.com/truecharts/apps/compare/wekan-1.0.8...wekan-2.0.0) (2022-04-24)
 
 
 
@@ -471,7 +471,7 @@
 
 #### 聊天
 
-* use other port and fix docs ([#2363](https://github.com/truecharts/apps/issues/2363))
+* 使用其他端口和修复文档 ([#2363](https://github.com/truecharts/apps/issues/2363))
 
 
 
@@ -511,7 +511,7 @@
 
 #### Feat
 
-* move to stable ([#2333](https://github.com/truecharts/apps/issues/2333))
+* 移动到稳定([#2333](https://github.com/truecharts/apps/issues/2333))
 
 
 
@@ -521,4 +521,4 @@
 
 #### Feat
 
-* add wekan ([#2328](https://github.com/truecharts/apps/issues/2328))
+* 添加wekan ([#2328](https://github.com/truecharts/apps/issues/2328))
