@@ -1,35 +1,35 @@
 # 13 - Docker-Compose on SCALE
 
-While Docker-Compose is not officially supported by iX Systems, we have designed a special "Docker-Compose" App, that is available in the "core" train. This App can be used to easily deploy a compose file in a completely isolated docker-compose environment.
+虽然Docker-Compose没有得到iX Systems的正式支持，但我们设计了一个特殊的“Docker-Compose”应用程序，它可以在“核心”列车中使用。 这个应用程序可以用于在完全孤立的 docker-compose 环境中部署一个合成文件。
 
-Our Docker-Compose app has the following features:
+我们的 Docker-Compose 应用程序具有以下功能：
 
-- Binding ports to the host, directly from docker-compose
+- 直接从docker-compose 将端口绑定到主机
 
-- Internal Docker-Compose networks
+- 内置 Docker-Compose 网络
 
-- `/mnt`, `/root` and `/cluster` are directly accessible inside the Docker-Compose container by default
+- `/mnt`, `/root` 和 `/cluster` 可在Docker-Compose 容器内直接访问
 
-- The docker-images and docker volumes, are saved in a special PVC inside the Apps system of TrueNAS SCALE
+- 停靠图像和码头卷保存在TrueNAS SCALE 应用程序系统中的一个特殊PVC中
 
-- Compose files can be automatically loaded on the start of our Docker-Compose App
+- 编写文件可以在我们的 Docker-Compose 应用程序开始时自动加载
 
-- Will fully survive updates of TrueNAS SCALE
+- TrueNAS SCALE 更新将完全存活。
 
-- Will not alter the Host OS
+- 不改变主机操作系统
 
-- Can be combined with SCALE App, to enable users to slowly migrate from docker-compose to native SCALE Apps
+- 可以与SCALE 应用程序合并，以使用户能够慢慢地从docker-compose迁移到本机SCALE 应用程序
 
-A few things to be aware of:
+了解以下几件事：
 
-- To issue commands to docker or docker compose, you need to be inside the Docker-Compose App shell (not the host Shell)
+- 要发布命令到停泊器或停泊器合成，您需要在 Docker-Compose App shell (不是主机外壳) 内(不是主机外壳)
 
-- Please ensure your Docker-Compose networks do not conflict with the Kubernetes networks listed in the settings of the SCALE Apps system.
+- 请确保您的 Docker-Compose 网络与SCALE 应用系统设置中列出的 Kubernetes 网络不冲突。
 
-- Please be aware that Docker-Compose containers, by cannot reach inside the kubernetes network. So you cannot combine a "Launch Docker" container with a Docker-Compose hosted database for example.
+- 请注意，Docker-Compose 容器无法连接到 kubernetes 网络。 所以您不能将“调用码头”容器与Docker-Compose 托管数据库结合起来。
 
-Simply put: Our docker-compose solution works almost like using it on the host, but without compromising the Appliance OS that is TrueNAS SCALE.
+简单地说， 我们的码头构造解决方案几乎就像在主机上使用，但不会损害TrueNAS SCALE的Appliance OS 。
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/QXooywQSfJY)
+![类型 :video](https://www.youtube.com/embed/QXooywQSfJY)
