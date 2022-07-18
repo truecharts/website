@@ -560,7 +560,7 @@
 
 #### 修复
 
-* fix UI, configmap and `runAsGroup: 0` ([#1813](https://github.com/truecharts/apps/issues/1813))
+* 修复 UI, configmap 和 `runAsGroup: 0` ([#1813](https://github.com/truecharts/apps/issues/1813))
 
 
 
@@ -570,4 +570,4 @@
 
 #### Feat
 
-* Add weblate ([#1812](https://github.com/truecharts/apps/issues/1812))
+* 添加湿度 ([#1812](https://github.com/truecharts/apps/issues/1812))
