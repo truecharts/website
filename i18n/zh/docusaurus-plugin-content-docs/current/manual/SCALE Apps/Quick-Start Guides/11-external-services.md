@@ -1,7 +1,7 @@
-# 11 - Setting up External-Services
+# 11 - 建立外部服务
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/PFJM0ZhOp6s)
+![类型 :video](https://www.youtube.com/embed/PFJM0ZhOp6s)
 
-## Additional Documentation
+## 附加文档
