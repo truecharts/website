@@ -1,0 +1,161 @@
+# 更新日志
+
+
+## [超棒-ttrss-0.0.19](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.18...awesome-ttrss-0.0.19) (2022-07-14)
+
+### 修复
+
+- 重新生成目录并更新模板
+
+
+
+## [超棒-ttrss-0.0.18](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.16...awesome-ttrss-0.0.18) (2022-07-14)
+
+### 修复
+
+- bump 以确保.helmnote存在于所有图表
+
+
+
+## [超棒-ttrss-0.0.16](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.14...awesome-ttrss-0.0.16) (2022-07-12)
+
+### 聊天
+
+- 更新图标 ([#3156](https://github.com/truecharts/apps/issues/3156))
+- 跳转到清理旧文档并使用正确的图标网址
+
+
+
+## [超棒-ttrss-0.0.14](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.13...awesome-ttrss-0.0.14) (2022-07-12)
+
+### 聊天
+
+- 跳转以重新生成文档
+
+
+
+<a name="awesome-ttrss-0.0.13"></a>
+
+### [超棒-ttrss-0.0.13](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.12...awesome-ttrss-0.0.13) (2022-07-12)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#3147](https://github.com/truecharts/apps/issues/3147))
+
+
+
+<a name="awesome-ttrss-0.0.12"></a>
+
+### [超棒-ttrss-0.0.12](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.11...awesome-ttrss-0.0.12) (2022-07-11)
+
+#### 聊天
+
+* 移动图标到应用文件夹 ([#3139](https://github.com/truecharts/apps/issues/3139))
+
+
+
+<a name="awesome-ttrss-0.0.11"></a>
+
+### [超棒-ttrss-0.0.11](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.10...awesome-ttrss-0.0.11) (2022-07-09)
+
+#### 聊天
+
+* 更新头盔的一般非主头盔版本([#3113](https://github.com/truecharts/apps/issues/3113))
+
+
+
+<a name="awesome-ttrss-0.0.10"></a>
+
+### [超棒-ttrss-0.0.10](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.9...awesome-ttrss-0.0.10) (2022-07-05)
+
+#### 聊天
+
+* 更新头盔的一般非主头盔版本([#3075](https://github.com/truecharts/apps/issues/3075))
+
+
+
+<a name="awesome-ttrss-0.0.9"></a>
+
+### [超棒-ttrss-0.0.9](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.8...awesome-ttrss-0.0.9) (2022-07-04)
+
+#### 聊天
+
+* 更新头盔的一般非主头盔版本([#3066](https://github.com/truecharts/apps/issues/3066))
+
+
+
+<a name="awesome-ttrss-0.0.8"></a>
+
+### [超棒-ttrss-0.0.8](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.7...awesome-ttrss-0.0.8) (2022-06-25)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2977](https://github.com/truecharts/apps/issues/2977))
+
+
+
+<a name="awesome-ttrss-0.0.7"></a>
+
+### [超棒-ttrss-0.0.7](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.6...awesome-ttrss-0.0.7) (2022-06-22)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2948](https://github.com/truecharts/apps/issues/2948))
+
+
+
+<a name="awesome-ttrss-0.0.6"></a>
+
+### [超棒-ttrss-0.0.6](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.5...awesome-ttrss-0.0.6) (2022-06-21)
+
+#### 聊天
+
+* 更新头盔的一般非主要头盔版本([#2943](https://github.com/truecharts/apps/issues/2943))
+
+
+
+<a name="awesome-ttrss-0.0.5"></a>
+
+### [超棒-ttrss-0.0.5](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.4...awesome-ttrss-0.0.5) (2022-06-17)
+
+#### 聊天
+
+* 更新一般的非主码([#2917](https://github.com/truecharts/apps/issues/2917))
+
+
+
+<a name="awesome-ttrss-0.0.4"></a>
+
+### [超棒-ttrss-0.0.4](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.3...awesome-ttrss-0.0.4) (2022-06-16)
+
+#### 聊天
+
+* 更新图像引用([#2912](https://github.com/truecharts/apps/issues/2912))
+* 更新一般的非主码([#2904](https://github.com/truecharts/apps/issues/2904))
+
+
+
+<a name="awesome-ttrss-0.0.3"></a>
+
+### [超棒-ttrss-0.0.3](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.2...awesome-ttrss-0.0.3) (2022-06-16)
+
+#### 修复
+
+* 修复持续性([#2910](https://github.com/truecharts/apps/issues/2910))
+* 购买更改: 使用 LSIO 弃用的官方图像 ([#2888](https://github.com/truecharts/apps/issues/2888))
+
+
+
+<a name="awesome-ttrss-0.0.2"></a>
+
+### [超棒-ttrss-0.0.2](https://github.com/truecharts/apps/compare/awesome-ttrss-0.0.1...awesome-ttrss-0.0.2) (2022-06-15)
+
+#### 修复
+
+* 修复问题([#2902](https://github.com/truecharts/apps/issues/2902))
+
+
+
+<a name="awesome-ttrss-0.0.1"></a>
+
+### 超棒的 ttrss-0.0.1 (2022-06-15)
