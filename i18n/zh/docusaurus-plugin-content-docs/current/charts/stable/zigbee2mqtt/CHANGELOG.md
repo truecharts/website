@@ -356,7 +356,7 @@
 
 #### Feat
 
-* allow use of custom config file BREAKING CHANGE ([#2395](https://github.com/truecharts/apps/issues/2395))
+* 允许使用自定义配置文件BREAKINGE ([#2395](https://github.com/truecharts/apps/issues/2395))
 
 
 
@@ -366,23 +366,23 @@
 
 #### Feat
 
-* allow use of custom config file BREAKING CHANGE ([#2395](https://github.com/truecharts/apps/issues/2395))
+* 允许使用自定义配置文件BREAKINGE ([#2395](https://github.com/truecharts/apps/issues/2395))
 
 
 
 <a name="zigbee2mqtt-2.0.14"></a>
 
-### [zigbee2mqtt-2.0.14](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.13...zigbee2mqtt-2.0.14) (2022-04-02)
+### [zigbee2mqt-2.0.14](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.13...zigbee2mqtt-2.0.14) (2022-04-02)
 
 #### 修复
 
-* wrong default on dropdown ([#2391](https://github.com/truecharts/apps/issues/2391))
+* 下拉时的默认值错误([#2391](https://github.com/truecharts/apps/issues/2391))
 
 
 
 <a name="zigbee2mqtt-2.0.13"></a>
 
-### [zigbee2mqtt-2.0.13](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.12...zigbee2mqtt-2.0.13) (2022-03-31)
+### [zigbee2mqt-2.0.13](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.12...zigbee2mqtt-2.0.13) (2022-03-31)
 
 #### 聊天
 
@@ -402,7 +402,7 @@
 
 <a name="zigbee2mqtt-2.0.11"></a>
 
-### [zigbee2mqtt-2.0.11](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.10...zigbee2mqtt-2.0.11) (2022-03-26)
+### [zigbee2mqt-2.0.11](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.10...zigbee2mqtt-2.0.11) (2022-03-26)
 
 #### 聊天
 
@@ -412,21 +412,21 @@
 
 <a name="zigbee2mqtt-2.0.8"></a>
 
-### [zigbee2mqtt-2.0.8](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.7...zigbee2mqtt-2.0.8) (2022-03-20)
+### [zigbee2mqt-2.0.8](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.7...zigbee2mqtt-2.0.8) (2022-03-20)
 
 #### 修复
 
-* create an initial file ([#2233](https://github.com/truecharts/apps/issues/2233))
+* 创建初始文件([#2233](https://github.com/truecharts/apps/issues/2233))
 
 
 
 <a name="zigbee2mqtt-2.0.7"></a>
 
-### [zigbee2mqtt-2.0.7](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.6...zigbee2mqtt-2.0.7) (2022-03-20)
+### [zigbee2mqt-2.0.7](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.6...zigbee2mqtt-2.0.7) (2022-03-20)
 
 #### 修复
 
-* Remove configmap and provide questions for basic setup to get up and running ([#2225](https://github.com/truecharts/apps/issues/2225))
+* 删除配置映射并提供基本设置问题以启动和运行 ([#2225](https://github.com/truecharts/apps/issues/2225))
 
 
 
@@ -436,7 +436,7 @@
 
 #### 修复
 
-* Add more basic options in gui ([#2215](https://github.com/truecharts/apps/issues/2215))
+* 在界面中添加更多基本选项 ([#2215](https://github.com/truecharts/apps/issues/2215))
 
 
 
@@ -446,13 +446,13 @@
 
 #### 修复
 
-* Expose gui option to set usbdevice path ([#2213](https://github.com/truecharts/apps/issues/2213))
+* 显示界面选项以设置设备路径([#2213](https://github.com/truecharts/apps/issues/2213))
 
 
 
 <a name="zigbee2mqtt-2.0.2"></a>
 
-### [zigbee2mqtt-2.0.2](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.1...zigbee2mqtt-2.0.2) (2022-03-07)
+### [zigbee2mqt-2.0.2](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.1...zigbee2mqtt-2.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -462,7 +462,7 @@
 
 <a name="zigbee2mqtt-2.0.1"></a>
 
-### [zigbee2mqtt-2.0.1](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.0...zigbee2mqtt-2.0.1) (2022-03-07)
+### [zigbee2mqt-2.0.1](https://github.com/truecharts/apps/compare/zigbee2mqtt-2.0.0...zigbee2mqtt-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -667,7 +667,7 @@
 
 <a name="zigbee2mqtt-1.0.28"></a>
 
-### [zigbee2mqtt-1.0.28](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.27...zigbee2mqtt-1.0.28) (2021-12-28)
+### [zigbee2mqt-1.0.28](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.27...zigbee2mqtt-1.0.28) (2021-12-28)
 
 #### 聊天
 
@@ -677,7 +677,7 @@
 
 <a name="zigbee2mqtt-1.0.27"></a>
 
-### [zigbee2mqtt-1.0.27](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.26...zigbee2mqtt-1.0.27) (2021-12-21)
+### [zigbee2mqt-1.0.27](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.26...zigbee2mqtt-1.0.27) (2021-12-21)
 
 #### 聊天
 
@@ -687,7 +687,7 @@
 
 <a name="zigbee2mqtt-1.0.26"></a>
 
-### [zigbee2mqtt-1.0.26](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.25...zigbee2mqtt-1.0.26) (2021-12-19)
+### [zigbee2mqt-1.0.26](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.25...zigbee2mqtt-1.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -698,7 +698,7 @@
 
 <a name="zigbee2mqtt-1.0.25"></a>
 
-### [zigbee2mqtt-1.0.25](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.24...zigbee2mqtt-1.0.25) (2021-12-19)
+### [zigbee2mqt-1.0.25](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.24...zigbee2mqtt-1.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -709,7 +709,7 @@
 
 <a name="zigbee2mqtt-1.0.24"></a>
 
-### [zigbee2mqtt-1.0.24](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.23...zigbee2mqtt-1.0.24) (2021-12-18)
+### [zigbee2mqt-1.0.24](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.23...zigbee2mqtt-1.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -720,7 +720,7 @@
 
 <a name="zigbee2mqtt-1.0.23"></a>
 
-### [zigbee2mqtt-1.0.23](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.22...zigbee2mqtt-1.0.23) (2021-12-14)
+### [zigbee2mqt-1.0.23](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.22...zigbee2mqtt-1.0.23) (2021-12-14)
 
 #### 聊天
 
@@ -730,7 +730,7 @@
 
 <a name="zigbee2mqtt-1.0.22"></a>
 
-### [zigbee2mqtt-1.0.22](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.21...zigbee2mqtt-1.0.22) (2021-12-13)
+### [zigbee2mqt-1.0.22](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.21...zigbee2mqtt-1.0.22) (2021-12-13)
 
 #### 聊天
 
@@ -744,7 +744,7 @@
 
 <a name="zigbee2mqtt-1.0.21"></a>
 
-### [zigbee2mqtt-1.0.21](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.20...zigbee2mqtt-1.0.21) (2021-12-11)
+### [zigbee2mqt-1.0.21](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.20...zigbee2mqtt-1.0.21) (2021-12-11)
 
 #### 聊天
 
@@ -754,7 +754,7 @@
 
 <a name="zigbee2mqtt-1.0.20"></a>
 
-### [zigbee2mqtt-1.0.20](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.19...zigbee2mqtt-1.0.20) (2021-12-07)
+### [zigbee2mqt-1.0.20](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.19...zigbee2mqtt-1.0.20) (2021-12-07)
 
 #### 聊天
 
@@ -764,7 +764,7 @@
 
 <a name="zigbee2mqtt-1.0.19"></a>
 
-### zigbee2mqtt-1.0.19 (2021-12-05)
+### zigbee2mqt-1.0.19(2021-12-05)
 
 #### 聊天
 
@@ -785,7 +785,7 @@
 
 <a name="zigbee2mqtt-1.0.18"></a>
 
-### [zigbee2mqtt-1.0.18](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.17...zigbee2mqtt-1.0.18) (2021-12-05)
+### [zigbee2mqt-1.0.18](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.17...zigbee2mqtt-1.0.18) (2021-12-05)
 
 #### 聊天
 
@@ -795,7 +795,7 @@
 
 <a name="zigbee2mqtt-1.0.17"></a>
 
-### [zigbee2mqtt-1.0.17](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.16...zigbee2mqtt-1.0.17) (2021-12-04)
+### [zigbee2mqt-1.0.17](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.16...zigbee2mqtt-1.0.17) (2021-12-04)
 
 #### 聊天
 
@@ -805,7 +805,7 @@
 
 <a name="zigbee2mqtt-1.0.16"></a>
 
-### [zigbee2mqtt-1.0.16](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.15...zigbee2mqtt-1.0.16) (2021-12-04)
+### [zigbee2mqt-1.0.16](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.15...zigbee2mqtt-1.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -871,7 +871,7 @@
 
 <a name="zigbee2mqtt-1.0.10"></a>
 
-### [zigbee2mqtt-1.0.10](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.9...zigbee2mqtt-1.0.10) (2021-11-15)
+### [zigbee2mqt-1.0.10](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.9...zigbee2mqtt-1.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -882,7 +882,7 @@
 
 <a name="zigbee2mqtt-1.0.9"></a>
 
-### [zigbee2mqtt-1.0.9](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.8...zigbee2mqtt-1.0.9) (2021-11-14)
+### [zigbee2mqt-1.0.9](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.8...zigbee2mqtt-1.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -901,7 +901,7 @@
 
 <a name="zigbee2mqtt-1.0.8"></a>
 
-### [zigbee2mqtt-1.0.8](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.7...zigbee2mqtt-1.0.8) (2021-11-09)
+### [zigbee2mqt-1.0.8](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.7...zigbee2mqtt-1.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -911,7 +911,7 @@
 
 <a name="zigbee2mqtt-1.0.7"></a>
 
-### [zigbee2mqtt-1.0.7](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.6...zigbee2mqtt-1.0.7) (2021-11-07)
+### [zigbee2mqt-1.0.7](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.6...zigbee2mqtt-1.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -921,7 +921,7 @@
 
 <a name="zigbee2mqtt-1.0.6"></a>
 
-### [zigbee2mqtt-1.0.6](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.5...zigbee2mqtt-1.0.6) (2021-11-07)
+### [zigbee2mqt-1.0.6](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.5...zigbee2mqtt-1.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -943,7 +943,7 @@
 
 <a name="zigbee2mqtt-1.0.5"></a>
 
-### [zigbee2mqtt-1.0.5](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.4...zigbee2mqtt-1.0.5) (2021-11-02)
+### [zigbee2mqt-1.0.5](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.4...zigbee2mqtt-1.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -953,7 +953,7 @@
 
 <a name="zigbee2mqtt-1.0.4"></a>
 
-### [zigbee2mqtt-1.0.4](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.3...zigbee2mqtt-1.0.4) (2021-11-02)
+### [zigbee2mqt-1.0.4](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.3...zigbee2mqtt-1.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -963,7 +963,7 @@
 
 <a name="zigbee2mqtt-1.0.3"></a>
 
-### [zigbee2mqtt-1.0.3](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.2...zigbee2mqtt-1.0.3) (2021-11-01)
+### [zigbee2mqt-1.0.3](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.2...zigbee2mqtt-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -973,7 +973,7 @@
 
 <a name="zigbee2mqtt-1.0.2"></a>
 
-### [zigbee2mqtt-1.0.2](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.1...zigbee2mqtt-1.0.2) (2021-10-26)
+### [zigbee2mqt-1.0.2](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.1...zigbee2mqtt-1.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -983,7 +983,7 @@
 
 <a name="zigbee2mqtt-1.0.1"></a>
 
-### [zigbee2mqtt-1.0.1](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.0...zigbee2mqtt-1.0.1) (2021-10-26)
+### [zigbee2mqt-1.0.1](https://github.com/truecharts/apps/compare/zigbee2mqtt-1.0.0...zigbee2mqtt-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1013,7 +1013,7 @@
 
 <a name="zigbee2mqtt-0.0.9"></a>
 
-### [zigbee2mqtt-0.0.9](https://github.com/truecharts/apps/compare/zigbee2mqtt-0.0.8...zigbee2mqtt-0.0.9) (2021-10-20)
+### [zigbee2mqt-0.0.9](https://github.com/truecharts/apps/compare/zigbee2mqtt-0.0.8...zigbee2mqtt-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -1105,7 +1105,7 @@
 
 <a name="zigbee2mqtt-0.0.2"></a>
 
-### [zigbee2mqtt-0.0.2](https://github.com/truecharts/apps/compare/zigbee2mqtt-0.0.1...zigbee2mqtt-0.0.2) (2021-10-13)
+### [zigbee2mqt-0.0.2](https://github.com/truecharts/apps/compare/zigbee2mqtt-0.0.1...zigbee2mqtt-0.0.2) (2021-10-13)
 
 #### 聊天
 
@@ -1115,4 +1115,4 @@
 
 <a name="zigbee2mqtt-0.0.1"></a>
 
-### zigbee2mqtt-0.0.1 (2021-10-04)
+### zigbee2mqt-0.0.1 (2021-10-04)
