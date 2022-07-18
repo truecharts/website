@@ -1,41 +1,41 @@
-# TrueNAS SCALE Chart Structure
+# TrueNAS SCALE 图结构
 
-This is a general synopsis about the structure of a SCALE App and/or Helm Chart, it does not directly reflect TrueCharts specific settings.
+这是关于SCALE 应用和/或帮助图结构的一般性提示，它并不直接反映TrueChasts特定设置。
 
-The following files are generally considered to be a "normal" Helm chart:
-
-```text
-charts/<train>/<chart name>/
-  charts/                  # Directory containing dependency charts
-  Chart.yaml               # Required Helm chart information file
-  README.md                # Optional: Helm Readme file (will be rendered in TrueNAS SCALE UI as well)
-  templates/               # A directory of templates that, when combined with values.yml will generate K8s YAML
-  values.yaml              # The default configuration values for this chart
-```
-
-The following files are specific for TrueNAS SCALE:
+以下文件一般被认为是“正常的”头盔图：
 
 ```text
-charts/<train>/<chart name>/SCALE/
-  app-readme.md            # TrueNAS SCALE Specific: Readme file for display in TrueNAS SCALE UI, automatically generated
-  questions.yaml           # TrueNAS SCALE Specific: File containing questions for TrueNAS SCALE UI
-  ix_values.yaml           # Hidden configuration values when installing using TrueNAS SCALE
-  item.yaml                # Contains generic information about the App for the TrueNAS SCALE UI
+图/<train>/<chart name>/
+  图/# 包含依赖图表的目录
+  图表 aml # 必需的 Helm 图信息文件
+  README d # 可选：Helm Readme 文件(也将在TrueNAS SCALE UI中呈现)
+  模板/ # 一个模板目录： 当与值合并时。 ml 将生成 K8s YAML
+  值。 aml # 此图表的默认配置值
 ```
 
-*See the upstream Helm chart [developer reference](https://helm.sh/docs/chart_template_guide/) for a complete walk through of developing charts.*
+TrueNAS SCALE具有以下特定文件：
 
-To convert an upstream chart to take advantage of TrueNAS SCALE enhanced UX, first create an `item.yaml` file. This file among other catalog item information provides a list of categories that this chart fits into. This helps users navigate and filtering when browsing the catalog UI.
+```text
+图/<train>/<chart name>/SCALE/
+  应用程序读。 d # TrueNAS SCALE Specific: Reme file for show in TrueNAS SCALE UI 自动生成
+  问题。 aml # TrueNAS SCALE Specific: file containing questions for TrueNAS SCALE UI
+  ix_values. aml # 在使用 TrueNAS SCALE 安装时隐藏配置值
+  项。 aml # 包含关于TrueNAS SCALE UI应用的通用信息
+```
 
-`$ cat charts/<train>/<chart name>/SCALE/item.yaml`
+*查看上游头盔图表 [开发者参考](https://helm.sh/docs/chart_template_guide/) 来全面走遍开发图表。*
+
+要转换上游图表以利用TrueNAS SCALE 增强的UX，首先创建一个 `item.yaml` 文件。 此文件和其他目录项信息提供了此图表适合的类别列表。 这有助于用户在浏览目录界面时导航和过滤。
+
+`$ cat 图/<train>/<chart name>/SCALE/item.yaml`
 
 ```yaml
-categories:
-  - generic
+类别：
+  - 通用的
 icon_url: "http://ix_url"
 ```
 
-Then add a `questions.yaml` file to prompt the user for something.
+然后添加 `个问题 s.yaml` 文件来提醒用户一些东西。
 
 ```yaml
 groups:
@@ -76,4 +76,4 @@ questions:
                 description: "Never pull image even if it's not present on host"
 ```
 
-The above will prompt the user with 2 text fields and a dropdown in the UI getting details for image configuration in a helm chart. *More information about questions.yaml is available [here](https://wiki.truecharts.org/development/questions-yaml/)*
+以上将会提示用户使用 2 个文本字段和用户界面下拉菜单中图像配置的详细信息。 *有关问题.yaml的更多信息可在这里 [](https://wiki.truecharts.org/development/questions-yaml/)*
