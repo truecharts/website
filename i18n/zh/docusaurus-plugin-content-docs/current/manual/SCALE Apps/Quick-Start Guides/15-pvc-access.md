@@ -34,21 +34,21 @@
 - 允许复制和粘贴的终端
 - 打开笔记本
 
-1\. **停止你在挂载时计划的应用程序**
+1\. 1\. **停止你在挂载时计划的应用程序**
 
-2\. **运行以下命令以查看您的 PVC 数据**
+2\. 2\. **运行以下命令以查看您的 PVC 数据**
 
 ```bash
 k3s kubectl get pvc - A | sorth -u | awk '{print "\t" $1 "\t"\t" 4}' | 列 -t
 ```
 
-3\. **查找您想挂载的程序**
+3\. 3\. **查找您想挂载的程序**
 
 这首先可能引起混淆，因为许多应用都有许多不同的PVC实例。
 
 ![pvc_list](/img/pvc_access/pvc_list.png)
 
-- 你会在这张照片中看到。Nextcloud有许多不同的 PVC。
+- 你会在这张照片中看到。 Nextcloud有许多不同的 PVC。
   - 然而，如果你看中间一栏打破它，它就不会太令人困惑。
   1. `数据下一个云端-雷迪斯-0`
       - 这是你的 Redis PVC
@@ -57,12 +57,12 @@ k3s kubectl get pvc - A | sorth -u | awk '{print "\t" $1 "\t"\t" 4}' | 列 -t
   3. `下一个云数据`
       - 这是您的数据PVC
 
-4\. **在找到你想挂载的PVC后， 复制从pvc开始的右边列(卷)到笔记本，供下一个命令使用**
+4\. 4\. **在找到你想挂载的PVC后， 复制从pvc开始的右边列(卷)到笔记本，供下一个命令使用**
 
 - 如果我想挂载 `下一个云端数据`，我会使用：
 - `pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe`
 
-5\. **运行以下命令来找到您的应用程序PVC的完整路径**
+5\. 5\. **运行以下命令来找到您的应用程序PVC的完整路径**
 
 ```bash
 zfs 列表 | grep PVC_VOLUME
@@ -78,7 +78,7 @@ zfs 列表 | grep pvc-cd84394b-7812-43c3-a6d9-1a56992cbe
 
 下面是输出应该看起来像 ![下一个云卷](/img/pvc_access/nextcloud_volumes.png)
 
-6\. **挂载您的 PVC**
+6\. 6\. **挂载您的 PVC**
 
 ```bash
 zfs 设置挂载点=/temporary/NAME FULL_PVC_PATH
@@ -93,7 +93,7 @@ zfs 设置挂载点=/temporary/nextcloud-data speed/ix-applications/releases/nex
 - 此命令如果成功将不产生输出
 - 现在你应该能够在应用程序的 PVC 内做任何你想做的事情。
 
-7\. **正在重新挂起**
+7\. 7\. **正在重新挂起**
 
 ```bash
 zfs 设置挂载点=旧的 POOL_NAME/ix-applications/releases/APPLICATION_NAME/volumes/ VOLUME-NAME
