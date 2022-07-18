@@ -1,15 +1,15 @@
-# How to: Create Certificates
+# 如何：创建证书
 
-At TrueCharts we support HTTPS deployments of every app using our Traefik Reverse Proxy. We support both self-signed, custom and lets-encrypt certificates, using the TrueNAS SCALE building certificate manager. Available under "Credentials"
+在 TrueCharts 中，我们支持使用我们的 Traefik 反向代理服务器的每个应用程序的 HTTPS 部署。 我们支持使用TrueNAS SCALE 建筑证书管理器自签名、自定义和利茨加密证书。 在“凭证”下可用
 
-## Self Signed certificates
+## 自签名证书
 
-Self signed certificates are relatively straight forward and handled by Traefik itself. You just select the default TrueNAS certificate when adding a ingress to your App and Traefik does the rest! Please be aware that these certificates are not really secure, but are "good enough" for testing.
+自我签署的证书相对直率，并由Traefik本人处理。 您只是在添加导入到您的应用程序时选择默认的TrueNAS 证书，其余的是Traefik！ 请注意，这些证书并不是真正安全的，而是测试的“足够了”。
 
-## Lets-Encrypt Certificates
+## Lets-Encrypt 证书
 
-With the current version of TrueNAS SCALE, it's possible to automatically generate certificates for your domain(s) using letsencrypt. However, this process is not very clear, hence we added a short how-to guide as well. After you managed to complete this, you should be able to select "iX Certificate" as certificate option and your personal certificate in the other drop-down box!
+使用当前版本的TrueNAS SCALE，可以使用字母加密自动生成域证书。 然而，这一进程并不十分明确，因此我们也增加了一个简短的指导原则。 在你设法完成后， 您应该能够在另一个下拉框中选择“iX证书”作为证书选项和您的个人证书！
 
-## Import existing certificates
+## 导入现有证书
 
-TrueNAS SCALE also allows you to manually import certificates, this is rather straight forward: Copy-Paste the keys into their respective boxes and hit `save`
+TrueNAS SCALE 也允许您手动导入证书， 这相当直截了当： 复制粘贴密钥到他们各自的框中，然后点击 `保存`
