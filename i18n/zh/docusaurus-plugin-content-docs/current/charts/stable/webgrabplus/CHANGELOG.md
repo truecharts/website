@@ -356,7 +356,7 @@
 
 #### 聊天
 
-* update container image tccr.io/truecharts/webgrabplus to v4.2.2 ([#2277](https://github.com/truecharts/apps/issues/2277))
+* 将容器图像 tccr.io/truecharts/webgrabplus 更新为 v4.2.2 ([#2277](https://github.com/truecharts/apps/issues/2277))
 * 更新一般非主要停靠栏
 
 
