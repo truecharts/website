@@ -1,6 +1,6 @@
 # 解压器
 
-此应用程序作为守护程序运行在您的下载主机上。 It checks for completed downloads and extracts them so Radarr, Lidarr, Sonarr, and Readarr may import them
+此应用程序作为守护程序运行在您的下载主机上。 它检查完成的下载并提取雷达尔、利达尔尔、索纳尔和雷达尔可能导入它们。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
