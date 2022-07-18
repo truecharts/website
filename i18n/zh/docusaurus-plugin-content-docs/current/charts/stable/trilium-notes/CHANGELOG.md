@@ -46,7 +46,7 @@
 
 <a name="trilium-notes-5.0.11"></a>
 
-### [trilium-notes-5.0.11](https://github.com/truecharts/apps/compare/trilium-notes-5.0.10...trilium-notes-5.0.11) (2022-07-11)
+### [三角注5.0.11](https://github.com/truecharts/apps/compare/trilium-notes-5.0.10...trilium-notes-5.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -160,7 +160,7 @@
 
 #### 修复
 
-* BREAKING CHANGE ([#2870](https://github.com/truecharts/apps/issues/2870))
+* 购买更改([#2870](https://github.com/truecharts/apps/issues/2870))
 
 
 
@@ -170,13 +170,13 @@
 
 #### 修复
 
-* BREAKING CHANGE. Backup your data from 3.0.2 and reinstall ([#2868](https://github.com/truecharts/apps/issues/2868))
+* 正在购买更改 从 3.0.2 备份数据并重新安装 ([#2868](https://github.com/truecharts/apps/issues/2868))
 
 
 
 <a name="trilium-notes-3.0.3"></a>
 
-### [trilium-notes-3.0.3](https://github.com/truecharts/apps/compare/trilium-notes-3.0.2...trilium-notes-3.0.3) (2022-06-11)
+### [三音符-3.0.3](https://github.com/truecharts/apps/compare/trilium-notes-3.0.2...trilium-notes-3.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -556,7 +556,7 @@
 #### 修复
 
 * 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
-* Change port as it was a conflict with core app ([#1756](https://github.com/truecharts/apps/issues/1756))
+* 更改端口，因为它与核心应用程序有冲突([#1756](https://github.com/truecharts/apps/issues/1756))
 
 
 
@@ -566,7 +566,7 @@
 
 #### Feat
 
-* move to stable ([#1748](https://github.com/truecharts/apps/issues/1748))
+* 移动到稳定([#1748](https://github.com/truecharts/apps/issues/1748))
 
 
 
@@ -592,14 +592,14 @@
 
 <a name="trilium-notes-0.0.2"></a>
 
-### [trilium-notes-0.0.2](https://github.com/truecharts/apps/compare/trilium-notes-0.0.1...trilium-notes-0.0.2) (2022-01-16)
+### [三角注-0.0.2](https://github.com/truecharts/apps/compare/trilium-notes-0.0.1...trilium-notes-0.0.2) (2022-01-16)
 
 
 
 <a name="trilium-notes-0.0.1"></a>
 
-### trilium-notes-0.0.1 (2022-01-15)
+### 三项注-0.0.1 (2022-01-15)
 
 #### Feat
 
-* Add Trilium Notes ([#1715](https://github.com/truecharts/apps/issues/1715))
+* 添加三联笔记([#1715](https://github.com/truecharts/apps/issues/1715))
