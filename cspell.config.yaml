@@ -5,18 +5,24 @@ words:
   - appname
   - backupname
   - bazarr
+  - bitnami
   - bugfixer's
+  - chartname
   - cheatsheet
   - collabora
+  - compat
   - configmap
   - daemonset
+  - devcontainer
   - dockerized
   - duplicati
   - eptgmk
   - gibibyte
   - gluster
+  - grafana
   - healthcheck
   - healthchecks
+  - helmv
   - hostpath
   - hyperconverged
   - hyperthread
@@ -43,6 +49,7 @@ words:
   - milicpu
   - minecraft
   - minio
+  - mkdir
   - modelstore
   - mountpoint
   - nextcloud
@@ -83,9 +90,12 @@ words:
   - subquestions
   - svcname
   - syncthing
+  - systemjs
   - targetport
   - tccr
+  - templating
   - traefik
+  - trivy
   - truecharts
   - truenas
   - truetool
@@ -96,4 +106,46 @@ words:
   - vm's
   - websecure
   - xsystems
+  - yokawasa
   - zwavejs
+  - ampproject
+  - jridgewell
+  - gensync
+  - jsesc
+  - browserslist
+  - optimise
+  - regexpu
+  - dotall
+  - corejs
+  - typeof
+  - esutils
+  - docsearch
+  - algoliasearch
+  - cssnano
+  - slorber
+  - svgr
+  - autoprefixer
+  - chokidar
+  - minifier
+  - postcss
+  - shelljs
+  - webpackbar
+  - mdast
+  - unist
+  - gtag
+  - clsx
+  - infima
+  - nprogress
+  - prismjs
+  - rtlcss
+  - globby
+  - hapi
+  - hoek
+  - topo
+  - leichtgewicht
+  - camelcase
+  - detab
+  - nodelib
+  - scandir
+  - fastq
+  - sindresorhus
