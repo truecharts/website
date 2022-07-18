@@ -87,7 +87,7 @@ const config = {
           },
           {
             type: "doc",
-            docId: "charts/intro",
+            docId: "charts/description_list",
             position: "left",
             label: "Charts",
           },
