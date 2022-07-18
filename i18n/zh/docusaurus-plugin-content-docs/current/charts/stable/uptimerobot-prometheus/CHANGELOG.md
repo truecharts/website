@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [uptimerobot-prometheus-4.0.19](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.18...uptimerobot-prometheus-4.0.19) (2022-07-14)
+## [uptimerobot-promeus-4.0.19](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.18...uptimerobot-prometheus-4.0.19) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [uptimerobot-prometheus-4.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.16...uptimerobot-prometheus-4.0.18) (2022-07-14)
+## [uptimerobot-promeus-4.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.16...uptimerobot-prometheus-4.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [uptimerobot-prometheus-4.0.16](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.14...uptimerobot-prometheus-4.0.16) (2022-07-12)
+## [uptimerobot-promeus-4.0.16](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.14...uptimerobot-prometheus-4.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [uptimerobot-prometheus-4.0.14](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.13...uptimerobot-prometheus-4.0.14) (2022-07-12)
+## [uptimerobot-promeus-4.0.14](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.13...uptimerobot-prometheus-4.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="uptimerobot-prometheus-4.0.13"></a>
 
-### [uptimerobot-prometheus-4.0.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.12...uptimerobot-prometheus-4.0.13) (2022-07-12)
+### [uptimerobot-promeus-4.0.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.12...uptimerobot-prometheus-4.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="uptimerobot-prometheus-4.0.12"></a>
 
-### [uptimerobot-prometheus-4.0.12](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.11...uptimerobot-prometheus-4.0.12) (2022-07-11)
+### [uptimerobot-promeus-4.0.12](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.11...uptimerobot-prometheus-4.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="uptimerobot-prometheus-4.0.11"></a>
 
-### [uptimerobot-prometheus-4.0.11](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.10...uptimerobot-prometheus-4.0.11) (2022-07-09)
+### [uptimerobot-promeus-4.0.11](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.10...uptimerobot-prometheus-4.0.11) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="uptimerobot-prometheus-4.0.10"></a>
 
-### [uptimerobot-prometheus-4.0.10](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.9...uptimerobot-prometheus-4.0.10) (2022-07-04)
+### [uptimerobot-promeus-4.0.10](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.9...uptimerobot-prometheus-4.0.10) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="uptimerobot-prometheus-4.0.9"></a>
 
-### [uptimerobot-prometheus-4.0.9](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.8...uptimerobot-prometheus-4.0.9) (2022-06-30)
+### [uptimerobot-promeus-4.0.9](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.8...uptimerobot-prometheus-4.0.9) (2022-06-30)
 
 #### 修复
 
@@ -86,7 +86,7 @@
 
 <a name="uptimerobot-prometheus-4.0.8"></a>
 
-### [uptimerobot-prometheus-4.0.8](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.7...uptimerobot-prometheus-4.0.8) (2022-06-25)
+### [uptimerobot-promeus-4.0.8](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.7...uptimerobot-prometheus-4.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="uptimerobot-prometheus-4.0.7"></a>
 
-### [uptimerobot-prometheus-4.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.6...uptimerobot-prometheus-4.0.7) (2022-06-22)
+### [uptimerobot-promeus-4.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.6...uptimerobot-prometheus-4.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="uptimerobot-prometheus-4.0.6"></a>
 
-### [uptimerobot-prometheus-4.0.6](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.5...uptimerobot-prometheus-4.0.6) (2022-06-21)
+### [uptimerobot-promeus-4.0.6](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.5...uptimerobot-prometheus-4.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="uptimerobot-prometheus-4.0.5"></a>
 
-### [uptimerobot-prometheus-4.0.5](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.4...uptimerobot-prometheus-4.0.5) (2022-06-17)
+### [uptimerobot-promeus-4.0.5](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.4...uptimerobot-prometheus-4.0.5) (2022-06-17)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="uptimerobot-prometheus-4.0.4"></a>
 
-### [uptimerobot-prometheus-4.0.4](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.3...uptimerobot-prometheus-4.0.4) (2022-06-14)
+### [uptimerobot-promeus-4.0.4](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.3...uptimerobot-prometheus-4.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="uptimerobot-prometheus-4.0.3"></a>
 
-### [uptimerobot-prometheus-4.0.3](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.2...uptimerobot-prometheus-4.0.3) (2022-06-11)
+### [uptimerobot-promeus-4.0.3](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.2...uptimerobot-prometheus-4.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="uptimerobot-prometheus-4.0.2"></a>
 
-### [uptimerobot-prometheus-4.0.2](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.1...uptimerobot-prometheus-4.0.2) (2022-06-07)
+### [uptimerobot-promeus-4.0.2](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-4.0.1...uptimerobot-prometheus-4.0.2) (2022-06-07)
 
 #### 修复
 
@@ -156,7 +156,7 @@
 
 <a name="uptimerobot-prometheus-4.0.1"></a>
 
-### [uptimerobot-prometheus-4.0.1](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.19...uptimerobot-prometheus-4.0.1) (2022-06-07)
+### [uptimerobot-promeus-4.0.1](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.19...uptimerobot-prometheus-4.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -174,7 +174,7 @@
 
 <a name="uptimerobot-prometheus-4.0.0"></a>
 
-### [uptimerobot-prometheus-4.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.19...uptimerobot-prometheus-4.0.0) (2022-06-07)
+### [uptimerobot-promeus-4.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.19...uptimerobot-prometheus-4.0.0) (2022-06-07)
 
 #### 重新因子
 
@@ -184,7 +184,7 @@
 
 <a name="uptimerobot-prometheus-3.0.19"></a>
 
-### [uptimerobot-prometheus-3.0.19](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.18...uptimerobot-prometheus-3.0.19) (2022-05-31)
+### [up timerobot-promeus-3.0.19](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.18...uptimerobot-prometheus-3.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -194,7 +194,7 @@
 
 <a name="uptimerobot-prometheus-3.0.18"></a>
 
-### [uptimerobot-prometheus-3.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.17...uptimerobot-prometheus-3.0.18) (2022-05-26)
+### [uptimerobot-promeus-3.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.17...uptimerobot-prometheus-3.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -205,7 +205,7 @@
 
 <a name="uptimerobot-prometheus-3.0.18"></a>
 
-### [uptimerobot-prometheus-3.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.17...uptimerobot-prometheus-3.0.18) (2022-05-26)
+### [uptimerobot-promeus-3.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.17...uptimerobot-prometheus-3.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -215,7 +215,7 @@
 
 <a name="uptimerobot-prometheus-3.0.17"></a>
 
-### [uptimerobot-prometheus-3.0.17](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.16...uptimerobot-prometheus-3.0.17) (2022-05-24)
+### [up timerobot-promeus-3.0.17](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.16...uptimerobot-prometheus-3.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -225,7 +225,7 @@
 
 <a name="uptimerobot-prometheus-3.0.16"></a>
 
-### [uptimerobot-prometheus-3.0.16](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.15...uptimerobot-prometheus-3.0.16) (2022-05-17)
+### [up timerobot-promeus-3.0.16](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.15...uptimerobot-prometheus-3.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -236,7 +236,7 @@
 
 <a name="uptimerobot-prometheus-3.0.16"></a>
 
-### [uptimerobot-prometheus-3.0.16](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.15...uptimerobot-prometheus-3.0.16) (2022-05-17)
+### [up timerobot-promeus-3.0.16](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.15...uptimerobot-prometheus-3.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -246,7 +246,7 @@
 
 <a name="uptimerobot-prometheus-3.0.15"></a>
 
-### [uptimerobot-prometheus-3.0.15](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.14...uptimerobot-prometheus-3.0.15) (2022-05-17)
+### [up timerobot-promeus-3.0.15](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.14...uptimerobot-prometheus-3.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -256,7 +256,7 @@
 
 <a name="uptimerobot-prometheus-3.0.14"></a>
 
-### [uptimerobot-prometheus-3.0.14](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.13...uptimerobot-prometheus-3.0.14) (2022-05-10)
+### [uptimerobot-promeus-3.0.14](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.13...uptimerobot-prometheus-3.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -266,7 +266,7 @@
 
 <a name="uptimerobot-prometheus-3.0.13"></a>
 
-### [uptimerobot-prometheus-3.0.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.12...uptimerobot-prometheus-3.0.13) (2022-05-05)
+### [uptimerobot-promeus-3.0.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.12...uptimerobot-prometheus-3.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -276,7 +276,7 @@
 
 <a name="uptimerobot-prometheus-3.0.12"></a>
 
-### [uptimerobot-prometheus-3.0.12](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.11...uptimerobot-prometheus-3.0.12) (2022-04-26)
+### [uptimerobot-promeus-3.0.12](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.11...uptimerobot-prometheus-3.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -286,7 +286,7 @@
 
 <a name="uptimerobot-prometheus-3.0.11"></a>
 
-### [uptimerobot-prometheus-3.0.11](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.10...uptimerobot-prometheus-3.0.11) (2022-04-20)
+### [uptimerobot-promeus-3.0.11](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.10...uptimerobot-prometheus-3.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -297,7 +297,7 @@
 
 <a name="uptimerobot-prometheus-3.0.10"></a>
 
-### [uptimerobot-prometheus-3.0.10](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.9...uptimerobot-prometheus-3.0.10) (2022-04-12)
+### [升序器-3.0.10](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.9...uptimerobot-prometheus-3.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -307,7 +307,7 @@
 
 <a name="uptimerobot-prometheus-3.0.9"></a>
 
-### [uptimerobot-prometheus-3.0.9](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.8...uptimerobot-prometheus-3.0.9) (2022-04-03)
+### [up timerobot-promeus-3.0.9](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.8...uptimerobot-prometheus-3.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -317,7 +317,7 @@
 
 <a name="uptimerobot-prometheus-3.0.8"></a>
 
-### [uptimerobot-prometheus-3.0.8](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.7...uptimerobot-prometheus-3.0.8) (2022-03-31)
+### [up timerobot-promeus-3.0.8](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.7...uptimerobot-prometheus-3.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -327,7 +327,7 @@
 
 <a name="uptimerobot-prometheus-3.0.7"></a>
 
-### [uptimerobot-prometheus-3.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.6...uptimerobot-prometheus-3.0.7) (2022-03-30)
+### [上传机器人-3.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.6...uptimerobot-prometheus-3.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -337,7 +337,7 @@
 
 <a name="uptimerobot-prometheus-3.0.6"></a>
 
-### [uptimerobot-prometheus-3.0.6](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.5...uptimerobot-prometheus-3.0.6) (2022-03-26)
+### [uptimerobot-promeus-3.0.6](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.5...uptimerobot-prometheus-3.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -347,7 +347,7 @@
 
 <a name="uptimerobot-prometheus-3.0.1"></a>
 
-### [uptimerobot-prometheus-3.0.1](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.0...uptimerobot-prometheus-3.0.1) (2022-03-07)
+### [up timerobot-promeus-3.0.1](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-3.0.0...uptimerobot-prometheus-3.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -358,7 +358,7 @@
 
 <a name="uptimerobot-prometheus-3.0.0"></a>
 
-### [uptimerobot-prometheus-3.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.23...uptimerobot-prometheus-3.0.0) (2022-03-03)
+### [up timerobot-promeus-3.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.23...uptimerobot-prometheus-3.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -374,7 +374,7 @@
 
 <a name="uptimerobot-prometheus-2.0.23"></a>
 
-### [uptimerobot-prometheus-2.0.23](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.22...uptimerobot-prometheus-2.0.23) (2022-03-02)
+### [up timerobot-promeus-2.0.23](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.22...uptimerobot-prometheus-2.0.23) (2022-03-02)
 
 #### 聊天
 
@@ -384,7 +384,7 @@
 
 <a name="uptimerobot-prometheus-2.0.22"></a>
 
-### [uptimerobot-prometheus-2.0.22](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.21...uptimerobot-prometheus-2.0.22) (2022-02-21)
+### [up timerobot-promeus-2.0.22](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.21...uptimerobot-prometheus-2.0.22) (2022-02-21)
 
 #### 聊天
 
@@ -394,7 +394,7 @@
 
 <a name="uptimerobot-prometheus-2.0.21"></a>
 
-### [uptimerobot-prometheus-2.0.21](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.20...uptimerobot-prometheus-2.0.21) (2022-02-15)
+### [up timerobot-promeus-2.0.21](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.20...uptimerobot-prometheus-2.0.21) (2022-02-15)
 
 #### 聊天
 
@@ -404,7 +404,7 @@
 
 <a name="uptimerobot-prometheus-2.0.20"></a>
 
-### [uptimerobot-prometheus-2.0.20](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.19...uptimerobot-prometheus-2.0.20) (2022-02-08)
+### [up timerobot-promeus-2.0.20](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.19...uptimerobot-prometheus-2.0.20) (2022-02-08)
 
 #### 聊天
 
@@ -414,7 +414,7 @@
 
 <a name="uptimerobot-prometheus-2.0.19"></a>
 
-### [uptimerobot-prometheus-2.0.19](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.18...uptimerobot-prometheus-2.0.19) (2022-02-06)
+### [up timerobot-promeus-2.0.19](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.18...uptimerobot-prometheus-2.0.19) (2022-02-06)
 
 #### 聊天
 
@@ -424,7 +424,7 @@
 
 <a name="uptimerobot-prometheus-2.0.18"></a>
 
-### [uptimerobot-prometheus-2.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.17...uptimerobot-prometheus-2.0.18) (2022-02-05)
+### [uptimerobot-promeus-2.0.18](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.17...uptimerobot-prometheus-2.0.18) (2022-02-05)
 
 #### 聊天
 
@@ -434,7 +434,7 @@
 
 <a name="uptimerobot-prometheus-2.0.17"></a>
 
-### [uptimerobot-prometheus-2.0.17](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.16...uptimerobot-prometheus-2.0.17) (2022-02-02)
+### [up timerobot-promeus-2.0.17](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.16...uptimerobot-prometheus-2.0.17) (2022-02-02)
 
 #### 聊天
 
@@ -444,7 +444,7 @@
 
 <a name="uptimerobot-prometheus-2.0.16"></a>
 
-### [uptimerobot-prometheus-2.0.16](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.15...uptimerobot-prometheus-2.0.16) (2022-01-25)
+### [up timerobot-promeus-2.0.16](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.15...uptimerobot-prometheus-2.0.16) (2022-01-25)
 
 #### 聊天
 
@@ -454,7 +454,7 @@
 
 <a name="uptimerobot-prometheus-2.0.15"></a>
 
-### [uptimerobot-prometheus-2.0.15](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.14...uptimerobot-prometheus-2.0.15) (2022-01-22)
+### [uptimerobot-promeus-2.0.15](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.14...uptimerobot-prometheus-2.0.15) (2022-01-22)
 
 #### 聊天
 
@@ -464,7 +464,7 @@
 
 <a name="uptimerobot-prometheus-2.0.14"></a>
 
-### [uptimerobot-prometheus-2.0.14](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.13...uptimerobot-prometheus-2.0.14) (2022-01-21)
+### [uptimerobot-promeus-2.0.14](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.13...uptimerobot-prometheus-2.0.14) (2022-01-21)
 
 #### 聊天
 
@@ -478,7 +478,7 @@
 
 <a name="uptimerobot-prometheus-2.0.13"></a>
 
-### [uptimerobot-prometheus-2.0.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.12...uptimerobot-prometheus-2.0.13) (2022-01-18)
+### [uptimerobot-promeus-2.0.13](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.12...uptimerobot-prometheus-2.0.13) (2022-01-18)
 
 #### 聊天
 
@@ -488,7 +488,7 @@
 
 <a name="uptimerobot-prometheus-2.0.12"></a>
 
-### [uptimerobot-prometheus-2.0.12](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.11...uptimerobot-prometheus-2.0.12) (2022-01-13)
+### [uptimerobot-promeus-2.0.12](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.11...uptimerobot-prometheus-2.0.12) (2022-01-13)
 
 #### 聊天
 
@@ -502,7 +502,7 @@
 
 <a name="uptimerobot-prometheus-2.0.11"></a>
 
-### [uptimerobot-prometheus-2.0.11](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.10...uptimerobot-prometheus-2.0.11) (2022-01-12)
+### [uptimerobot-promeus-2.0.11](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.10...uptimerobot-prometheus-2.0.11) (2022-01-12)
 
 #### 聊天
 
@@ -512,7 +512,7 @@
 
 <a name="uptimerobot-prometheus-2.0.10"></a>
 
-### [uptimerobot-prometheus-2.0.10](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.9...uptimerobot-prometheus-2.0.10) (2022-01-11)
+### [uptimerobot-promeus-2.0.10](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.9...uptimerobot-prometheus-2.0.10) (2022-01-11)
 
 #### 聊天
 
@@ -522,7 +522,7 @@
 
 <a name="uptimerobot-prometheus-2.0.9"></a>
 
-### [uptimerobot-prometheus-2.0.9](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.8...uptimerobot-prometheus-2.0.9) (2022-01-04)
+### [uptimerobot-promeus-2.0.9](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.8...uptimerobot-prometheus-2.0.9) (2022-01-04)
 
 #### 聊天
 
@@ -532,7 +532,7 @@
 
 <a name="uptimerobot-prometheus-2.0.8"></a>
 
-### [uptimerobot-prometheus-2.0.8](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.7...uptimerobot-prometheus-2.0.8) (2021-12-28)
+### [uptimerobot-promeus-2.0.8](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.7...uptimerobot-prometheus-2.0.8) (2021-12-28)
 
 #### 聊天
 
@@ -542,7 +542,7 @@
 
 <a name="uptimerobot-prometheus-2.0.7"></a>
 
-### [uptimerobot-prometheus-2.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.6...uptimerobot-prometheus-2.0.7) (2021-12-21)
+### [uptimerobot-promeus-2.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.6...uptimerobot-prometheus-2.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -552,7 +552,7 @@
 
 <a name="uptimerobot-prometheus-2.0.6"></a>
 
-### [uptimerobot-prometheus-2.0.6](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.5...uptimerobot-prometheus-2.0.6) (2021-12-19)
+### [uptimerobot-promeus-2.0.6](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.5...uptimerobot-prometheus-2.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -562,7 +562,7 @@
 
 <a name="uptimerobot-prometheus-2.0.5"></a>
 
-### [uptimerobot-prometheus-2.0.5](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.4...uptimerobot-prometheus-2.0.5) (2021-12-19)
+### [uptimerobot-promeus-2.0.5](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.4...uptimerobot-prometheus-2.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -572,7 +572,7 @@
 
 <a name="uptimerobot-prometheus-2.0.4"></a>
 
-### [uptimerobot-prometheus-2.0.4](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.3...uptimerobot-prometheus-2.0.4) (2021-12-18)
+### [uptimerobot-promeus-2.0.4](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.3...uptimerobot-prometheus-2.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -583,7 +583,7 @@
 
 <a name="uptimerobot-prometheus-2.0.3"></a>
 
-### [uptimerobot-prometheus-2.0.3](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.2...uptimerobot-prometheus-2.0.3) (2021-12-14)
+### [up timerobot-promeus-2.0.3](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.2...uptimerobot-prometheus-2.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -593,7 +593,7 @@
 
 <a name="uptimerobot-prometheus-2.0.2"></a>
 
-### [uptimerobot-prometheus-2.0.2](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.1...uptimerobot-prometheus-2.0.2) (2021-12-13)
+### [uptimerobot-promeus-2.0.2](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.1...uptimerobot-prometheus-2.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -603,7 +603,7 @@
 
 <a name="uptimerobot-prometheus-2.0.1"></a>
 
-### [uptimerobot-prometheus-2.0.1](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.0...uptimerobot-prometheus-2.0.1) (2021-12-11)
+### [uptimerobot-promeus-2.0.1](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-2.0.0...uptimerobot-prometheus-2.0.1) (2021-12-11)
 
 #### 聊天
 
@@ -613,7 +613,7 @@
 
 <a name="uptimerobot-prometheus-2.0.0"></a>
 
-### [uptimerobot-prometheus-2.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.9...uptimerobot-prometheus-2.0.0) (2021-12-11)
+### [up timerobot-promeus-2.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.9...uptimerobot-prometheus-2.0.0) (2021-12-11)
 
 #### Feat
 
@@ -623,7 +623,7 @@
 
 <a name="uptimerobot-prometheus-1.0.9"></a>
 
-### [uptimerobot-prometheus-1.0.9](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.8...uptimerobot-prometheus-1.0.9) (2021-12-07)
+### [uptimerobot-promeus-1.0.9](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.8...uptimerobot-prometheus-1.0.9) (2021-12-07)
 
 #### 聊天
 
@@ -633,7 +633,7 @@
 
 <a name="uptimerobot-prometheus-1.0.8"></a>
 
-### uptimerobot-prometheus-1.0.8 (2021-12-05)
+### uptimerobot-promeus-1.0.8 (2021-12-05)
 
 #### 聊天
 
@@ -654,7 +654,7 @@
 
 <a name="uptimerobot-prometheus-1.0.7"></a>
 
-### [uptimerobot-prometheus-1.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.6...uptimerobot-prometheus-1.0.7) (2021-12-05)
+### [uptimerobot-promeus-1.0.7](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.6...uptimerobot-prometheus-1.0.7) (2021-12-05)
 
 #### 聊天
 
@@ -664,7 +664,7 @@
 
 <a name="uptimerobot-prometheus-1.0.6"></a>
 
-### [uptimerobot-prometheus-1.0.6](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.5...uptimerobot-prometheus-1.0.6) (2021-12-04)
+### [uptimerobot-promeus-1.0.6](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.5...uptimerobot-prometheus-1.0.6) (2021-12-04)
 
 #### 聊天
 
@@ -674,7 +674,7 @@
 
 <a name="uptimerobot-prometheus-1.0.5"></a>
 
-### [uptimerobot-prometheus-1.0.5](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.4...uptimerobot-prometheus-1.0.5) (2021-12-04)
+### [uptimerobot-promeus-1.0.5](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.4...uptimerobot-prometheus-1.0.5) (2021-12-04)
 
 #### 聊天
 
@@ -684,7 +684,7 @@
 
 <a name="uptimerobot-prometheus-1.0.4"></a>
 
-### [uptimerobot-prometheus-1.0.4](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.3...uptimerobot-prometheus-1.0.4) (2021-12-03)
+### [uptimerobot-promeus-1.0.4](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.3...uptimerobot-prometheus-1.0.4) (2021-12-03)
 
 #### 聊天
 
@@ -696,7 +696,7 @@
 
 <a name="uptimerobot-prometheus-1.0.3"></a>
 
-### [uptimerobot-prometheus-1.0.3](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.2...uptimerobot-prometheus-1.0.3) (2021-11-30)
+### [up timerobot-promeus-1.0.3](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.2...uptimerobot-prometheus-1.0.3) (2021-11-30)
 
 #### 聊天
 
@@ -706,7 +706,7 @@
 
 <a name="uptimerobot-prometheus-1.0.2"></a>
 
-### [uptimerobot-prometheus-1.0.2](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.1...uptimerobot-prometheus-1.0.2) (2021-11-30)
+### [up timerobot-promeus-1.0.2](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-1.0.1...uptimerobot-prometheus-1.0.2) (2021-11-30)
 
 #### 聊天
 
@@ -716,18 +716,18 @@
 
 <a name="uptimerobot-prometheus-1.0.0"></a>
 
-### [uptimerobot-prometheus-1.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-0.0.1...uptimerobot-prometheus-1.0.0) (2021-11-24)
+### [uptimerobot-promeus-1.0.0](https://github.com/truecharts/apps/compare/uptimerobot-prometheus-0.0.1...uptimerobot-prometheus-1.0.0) (2021-11-24)
 
 #### 修复
 
-* correct expose api-key in GUI and move to stable
+* 正确曝光图形界面中的 api-key 并移动到稳定的
 
 
 
 <a name="uptimerobot-prometheus-0.0.1"></a>
 
-### uptimerobot-prometheus-0.0.1 (2021-11-23)
+### uptimerobot-promeus-0.0.1 (2021-11-23)
 
 #### Feat
 
-* add some prometheus exporter-Apps ([#1388](https://github.com/truecharts/apps/issues/1388))
+* 添加一些导星导出器应用程序([#1388](https://github.com/truecharts/apps/issues/1388))
