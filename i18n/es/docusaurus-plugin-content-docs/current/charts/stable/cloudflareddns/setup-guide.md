@@ -51,7 +51,7 @@ Pasos 4-8: Ajustar según sea necesario, pero los valores por defecto son correc
 
 - Si necesita más detalles o tiene una configuración más personalizada, la documentación en el [upstream](https://hotio.dev/containers/cloudflareddns/) está muy completa, así que compruebe las descripciones de las opciones allí.
 - También puedes contactarnos usando Discord para comentarios y soporte en tiempo real
-- Echa un vistazo a nuestra Discord [](https://discord.gg/tVsPTHWTtr)
+- Echa un vistazo a nuestra Discord
 - Si encontraste un error en nuestro gráfico, abre un [problema de Github](https://github.com/truecharts/apps/issues/new/choose)
 
 ---
