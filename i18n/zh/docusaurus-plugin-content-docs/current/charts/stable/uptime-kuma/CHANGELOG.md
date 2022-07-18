@@ -17,7 +17,7 @@
 
 
 
-## [uptime-kuma-3.0.15](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.13...uptime-kuma-3.0.15) (2022-07-12)
+## [uptimekuma-3.0.15](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.13...uptime-kuma-3.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [uptime-kuma-3.0.13](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.12...uptime-kuma-3.0.13) (2022-07-12)
+## [uptimekuma-3.0.13](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.12...uptime-kuma-3.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="uptime-kuma-3.0.12"></a>
 
-### [uptime-kuma-3.0.12](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.11...uptime-kuma-3.0.12) (2022-07-12)
+### [uptimekuma-3.0.12](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.11...uptime-kuma-3.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="uptime-kuma-3.0.10"></a>
 
-### [uptime-kuma-3.0.10](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.9...uptime-kuma-3.0.10) (2022-07-09)
+### [uptimekuma-3.0.10](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.9...uptime-kuma-3.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="uptime-kuma-3.0.9"></a>
 
-### [uptime-kuma-3.0.9](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.8...uptime-kuma-3.0.9) (2022-07-04)
+### [uptimekuma-3.0.9](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.8...uptime-kuma-3.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="uptime-kuma-3.0.8"></a>
 
-### [uptime-kuma-3.0.8](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.7...uptime-kuma-3.0.8) (2022-06-25)
+### [uptimekuma-3.0.8](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.7...uptime-kuma-3.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="uptime-kuma-3.0.7"></a>
 
-### [uptime-kuma-3.0.7](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.6...uptime-kuma-3.0.7) (2022-06-25)
+### [uptimekuma-3.0.7](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.6...uptime-kuma-3.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="uptime-kuma-3.0.4"></a>
 
-### [uptime-kuma-3.0.4](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.3...uptime-kuma-3.0.4) (2022-06-14)
+### [uptimekuma-3.0.4](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.3...uptime-kuma-3.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="uptime-kuma-3.0.2"></a>
 
-### [uptime-kuma-3.0.2](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.1...uptime-kuma-3.0.2) (2022-06-07)
+### [uptimekuma-3.0.2](https://github.com/truecharts/apps/compare/uptime-kuma-3.0.1...uptime-kuma-3.0.2) (2022-06-07)
 
 #### 修复
 
@@ -179,7 +179,7 @@
 
 <a name="uptime-kuma-2.0.27"></a>
 
-### [uptime-kuma-2.0.27](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.26...uptime-kuma-2.0.27) (2022-05-31)
+### [uptimekuma-2.0.27](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.26...uptime-kuma-2.0.27) (2022-05-31)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="uptime-kuma-2.0.26"></a>
 
-### [uptime-kuma-2.0.26](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.25...uptime-kuma-2.0.26) (2022-05-26)
+### [uptimekuma-2.0.26](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.25...uptime-kuma-2.0.26) (2022-05-26)
 
 #### 聊天
 
@@ -201,7 +201,7 @@
 
 <a name="uptime-kuma-2.0.26"></a>
 
-### [uptime-kuma-2.0.26](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.25...uptime-kuma-2.0.26) (2022-05-26)
+### [uptimekuma-2.0.26](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.25...uptime-kuma-2.0.26) (2022-05-26)
 
 #### 聊天
 
@@ -211,7 +211,7 @@
 
 <a name="uptime-kuma-2.0.25"></a>
 
-### [uptime-kuma-2.0.25](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.24...uptime-kuma-2.0.25) (2022-05-24)
+### [uptimekuma-2.0.25](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.24...uptime-kuma-2.0.25) (2022-05-24)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="uptime-kuma-2.0.24"></a>
 
-### [uptime-kuma-2.0.24](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.23...uptime-kuma-2.0.24) (2022-05-17)
+### [uptimekuma-2.0.24](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.23...uptime-kuma-2.0.24) (2022-05-17)
 
 #### 聊天
 
@@ -232,7 +232,7 @@
 
 <a name="uptime-kuma-2.0.24"></a>
 
-### [uptime-kuma-2.0.24](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.23...uptime-kuma-2.0.24) (2022-05-17)
+### [uptimekuma-2.0.24](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.23...uptime-kuma-2.0.24) (2022-05-17)
 
 #### 聊天
 
@@ -242,7 +242,7 @@
 
 <a name="uptime-kuma-2.0.23"></a>
 
-### [uptime-kuma-2.0.23](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.22...uptime-kuma-2.0.23) (2022-05-17)
+### [uptimekuma-2.0.23](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.22...uptime-kuma-2.0.23) (2022-05-17)
 
 #### 聊天
 
@@ -252,7 +252,7 @@
 
 <a name="uptime-kuma-2.0.22"></a>
 
-### [uptime-kuma-2.0.22](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.21...uptime-kuma-2.0.22) (2022-05-10)
+### [uptimekuma-2..0.22](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.21...uptime-kuma-2.0.22) (2022-05-10)
 
 #### 聊天
 
@@ -262,7 +262,7 @@
 
 <a name="uptime-kuma-2.0.21"></a>
 
-### [uptime-kuma-2.0.21](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.20...uptime-kuma-2.0.21) (2022-05-05)
+### [uptimekuma-2.0.21](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.20...uptime-kuma-2.0.21) (2022-05-05)
 
 #### 聊天
 
@@ -272,7 +272,7 @@
 
 <a name="uptime-kuma-2.0.20"></a>
 
-### [uptime-kuma-2.0.20](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.19...uptime-kuma-2.0.20) (2022-05-04)
+### [uptimekuma-2.0.20](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.19...uptime-kuma-2.0.20) (2022-05-04)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="uptime-kuma-2.0.19"></a>
 
-### [uptime-kuma-2.0.19](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.18...uptime-kuma-2.0.19) (2022-04-28)
+### [uptimekuma-2.0.19](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.18...uptime-kuma-2.0.19) (2022-04-28)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="uptime-kuma-2.0.18"></a>
 
-### [uptime-kuma-2.0.18](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.17...uptime-kuma-2.0.18) (2022-04-26)
+### [uptimekuma-2.0.18](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.17...uptime-kuma-2.0.18) (2022-04-26)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="uptime-kuma-2.0.17"></a>
 
-### [uptime-kuma-2.0.17](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.16...uptime-kuma-2.0.17) (2022-04-20)
+### [uptimekuma-2.0.17](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.16...uptime-kuma-2.0.17) (2022-04-20)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="uptime-kuma-2.0.16"></a>
 
-### [uptime-kuma-2.0.16](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.15...uptime-kuma-2.0.16) (2022-04-20)
+### [uptimekuma-2.0.16](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.15...uptime-kuma-2.0.16) (2022-04-20)
 
 #### 聊天
 
@@ -323,7 +323,7 @@
 
 <a name="uptime-kuma-2.0.15"></a>
 
-### [uptime-kuma-2.0.15](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.14...uptime-kuma-2.0.15) (2022-04-12)
+### [uptimekuma-2.0.15](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.14...uptime-kuma-2.0.15) (2022-04-12)
 
 #### 聊天
 
@@ -333,7 +333,7 @@
 
 <a name="uptime-kuma-2.0.14"></a>
 
-### [uptime-kuma-2.0.14](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.13...uptime-kuma-2.0.14) (2022-04-12)
+### [uptimekuma-2.0.14](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.13...uptime-kuma-2.0.14) (2022-04-12)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="uptime-kuma-2.0.13"></a>
 
-### [uptime-kuma-2.0.13](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.12...uptime-kuma-2.0.13) (2022-04-09)
+### [uptimekuma-2.0.13](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.12...uptime-kuma-2.0.13) (2022-04-09)
 
 #### 聊天
 
@@ -353,7 +353,7 @@
 
 <a name="uptime-kuma-2.0.12"></a>
 
-### [uptime-kuma-2.0.12](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.11...uptime-kuma-2.0.12) (2022-04-03)
+### [uptimekuma-2.0.12](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.11...uptime-kuma-2.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -363,7 +363,7 @@
 
 <a name="uptime-kuma-2.0.11"></a>
 
-### [uptime-kuma-2.0.11](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.10...uptime-kuma-2.0.11) (2022-03-31)
+### [uptimekuma-2.0.11](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.10...uptime-kuma-2.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -373,7 +373,7 @@
 
 <a name="uptime-kuma-2.0.10"></a>
 
-### [uptime-kuma-2.0.10](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.9...uptime-kuma-2.0.10) (2022-03-30)
+### [uptimekuma-2.0.10](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.9...uptime-kuma-2.0.10) (2022-03-30)
 
 #### 聊天
 
@@ -383,7 +383,7 @@
 
 <a name="uptime-kuma-2.0.9"></a>
 
-### [uptime-kuma-2.0.9](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.8...uptime-kuma-2.0.9) (2022-03-26)
+### [uptimekuma-2.0.9](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.8...uptime-kuma-2.0.9) (2022-03-26)
 
 #### 聊天
 
@@ -393,7 +393,7 @@
 
 <a name="uptime-kuma-2.0.7"></a>
 
-### [uptime-kuma-2.0.7](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.6...uptime-kuma-2.0.7) (2022-03-26)
+### [uptimekuma-2.0.7](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.6...uptime-kuma-2.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -403,17 +403,17 @@
 
 <a name="uptime-kuma-2.0.5"></a>
 
-### [uptime-kuma-2.0.5](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.4...uptime-kuma-2.0.5) (2022-03-19)
+### [uptimekuma-2.0.5](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.4...uptime-kuma-2.0.5) (2022-03-19)
 
 #### 修复
 
-* make security questions overridable in values ([#2211](https://github.com/truecharts/apps/issues/2211))
+* 使安全问题在值中可覆盖([#2211](https://github.com/truecharts/apps/issues/2211))
 
 
 
 <a name="uptime-kuma-2.0.2"></a>
 
-### [uptime-kuma-2.0.2](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.1...uptime-kuma-2.0.2) (2022-03-07)
+### [uptimekuma-2.0.2](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.1...uptime-kuma-2.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -423,7 +423,7 @@
 
 <a name="uptime-kuma-2.0.1"></a>
 
-### [uptime-kuma-2.0.1](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.0...uptime-kuma-2.0.1) (2022-03-07)
+### [uptimekuma-2.0.1](https://github.com/truecharts/apps/compare/uptime-kuma-2.0.0...uptime-kuma-2.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -434,7 +434,7 @@
 
 <a name="uptime-kuma-2.0.0"></a>
 
-### [uptime-kuma-2.0.0](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.44...uptime-kuma-2.0.0) (2022-03-03)
+### [uptimekuma-2.0.0](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.44...uptime-kuma-2.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -450,7 +450,7 @@
 
 <a name="uptime-kuma-1.0.44"></a>
 
-### [uptime-kuma-1.0.44](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.43...uptime-kuma-1.0.44) (2022-03-02)
+### [uptimekuma-1.0.44](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.43...uptime-kuma-1.0.44) (2022-03-02)
 
 #### 聊天
 
@@ -461,7 +461,7 @@
 
 <a name="uptime-kuma-1.0.43"></a>
 
-### [uptime-kuma-1.0.43](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.42...uptime-kuma-1.0.43) (2022-02-21)
+### [uptimekuma-1.0.43](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.42...uptime-kuma-1.0.43) (2022-02-21)
 
 #### 聊天
 
@@ -471,7 +471,7 @@
 
 <a name="uptime-kuma-1.0.42"></a>
 
-### [uptime-kuma-1.0.42](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.41...uptime-kuma-1.0.42) (2022-02-15)
+### [uptimekuma-1.0.42](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.41...uptime-kuma-1.0.42) (2022-02-15)
 
 #### 聊天
 
@@ -481,7 +481,7 @@
 
 <a name="uptime-kuma-1.0.41"></a>
 
-### [uptime-kuma-1.0.41](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.40...uptime-kuma-1.0.41) (2022-02-10)
+### [uptimekuma-1.0.41](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.40...uptime-kuma-1.0.41) (2022-02-10)
 
 #### 聊天
 
@@ -491,7 +491,7 @@
 
 <a name="uptime-kuma-1.0.40"></a>
 
-### [uptime-kuma-1.0.40](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.39...uptime-kuma-1.0.40) (2022-02-08)
+### [uptimekuma-1.0.40](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.39...uptime-kuma-1.0.40) (2022-02-08)
 
 #### 聊天
 
@@ -501,7 +501,7 @@
 
 <a name="uptime-kuma-1.0.39"></a>
 
-### [uptime-kuma-1.0.39](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.38...uptime-kuma-1.0.39) (2022-02-06)
+### [uptimekuma-1.0.39](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.38...uptime-kuma-1.0.39) (2022-02-06)
 
 #### 聊天
 
@@ -511,7 +511,7 @@
 
 <a name="uptime-kuma-1.0.38"></a>
 
-### [uptime-kuma-1.0.38](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.37...uptime-kuma-1.0.38) (2022-02-05)
+### [uptimekuma-1.0.38](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.37...uptime-kuma-1.0.38) (2022-02-05)
 
 #### 聊天
 
@@ -531,7 +531,7 @@
 
 <a name="uptime-kuma-1.0.36"></a>
 
-### [uptime-kuma-1.0.36](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.35...uptime-kuma-1.0.36) (2022-01-25)
+### [uptimekuma-1.0.36](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.35...uptime-kuma-1.0.36) (2022-01-25)
 
 #### 聊天
 
@@ -541,7 +541,7 @@
 
 <a name="uptime-kuma-1.0.35"></a>
 
-### [uptime-kuma-1.0.35](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.34...uptime-kuma-1.0.35) (2022-01-22)
+### [uptimekuma-1.0.35](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.34...uptime-kuma-1.0.35) (2022-01-22)
 
 #### 聊天
 
@@ -551,7 +551,7 @@
 
 <a name="uptime-kuma-1.0.34"></a>
 
-### [uptime-kuma-1.0.34](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.33...uptime-kuma-1.0.34) (2022-01-21)
+### [uptimekuma-1.0.34](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.33...uptime-kuma-1.0.34) (2022-01-21)
 
 #### 聊天
 
@@ -560,13 +560,13 @@
 #### 修复
 
 * 设置额外的景点：所有口令都是正确的 ([#1750](https://github.com/truecharts/apps/issues/1750))
-* fix tag ([#1739](https://github.com/truecharts/apps/issues/1739))
+* 修复标签 ([#1739](https://github.com/truecharts/apps/issues/1739))
 
 
 
 <a name="uptime-kuma-1.0.33"></a>
 
-### [uptime-kuma-1.0.33](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.32...uptime-kuma-1.0.33) (2022-01-18)
+### [uptimekuma-1.0.33](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.32...uptime-kuma-1.0.33) (2022-01-18)
 
 #### 聊天
 
@@ -576,7 +576,7 @@
 
 <a name="uptime-kuma-1.0.32"></a>
 
-### [uptime-kuma-1.0.32](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.31...uptime-kuma-1.0.32) (2022-01-13)
+### [uptimekuma-1.0.32](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.31...uptime-kuma-1.0.32) (2022-01-13)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="uptime-kuma-1.0.31"></a>
 
-### [uptime-kuma-1.0.31](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.30...uptime-kuma-1.0.31) (2022-01-12)
+### [uptimekuma-1.0.31](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.30...uptime-kuma-1.0.31) (2022-01-12)
 
 #### 聊天
 
@@ -600,7 +600,7 @@
 
 <a name="uptime-kuma-1.0.30"></a>
 
-### [uptime-kuma-1.0.30](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.29...uptime-kuma-1.0.30) (2022-01-11)
+### [uptimekuma-1.0.30](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.29...uptime-kuma-1.0.30) (2022-01-11)
 
 #### 聊天
 
@@ -610,7 +610,7 @@
 
 <a name="uptime-kuma-1.0.29"></a>
 
-### [uptime-kuma-1.0.29](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.28...uptime-kuma-1.0.29) (2022-01-04)
+### [uptimekuma-1.0.29](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.28...uptime-kuma-1.0.29) (2022-01-04)
 
 #### 聊天
 
@@ -620,7 +620,7 @@
 
 <a name="uptime-kuma-1.0.28"></a>
 
-### [uptime-kuma-1.0.28](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.27...uptime-kuma-1.0.28) (2021-12-28)
+### [uptimekuma-1.0.28](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.27...uptime-kuma-1.0.28) (2021-12-28)
 
 #### 聊天
 
@@ -630,7 +630,7 @@
 
 <a name="uptime-kuma-1.0.27"></a>
 
-### [uptime-kuma-1.0.27](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.26...uptime-kuma-1.0.27) (2021-12-21)
+### [uptimekuma-1.0.27](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.26...uptime-kuma-1.0.27) (2021-12-21)
 
 #### 聊天
 
@@ -640,7 +640,7 @@
 
 <a name="uptime-kuma-1.0.26"></a>
 
-### [uptime-kuma-1.0.26](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.25...uptime-kuma-1.0.26) (2021-12-19)
+### [uptimekuma-1.0.26](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.25...uptime-kuma-1.0.26) (2021-12-19)
 
 #### 聊天
 
@@ -651,7 +651,7 @@
 
 <a name="uptime-kuma-1.0.25"></a>
 
-### [uptime-kuma-1.0.25](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.24...uptime-kuma-1.0.25) (2021-12-19)
+### [uptimekuma-1.0.25](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.24...uptime-kuma-1.0.25) (2021-12-19)
 
 #### 聊天
 
@@ -662,7 +662,7 @@
 
 <a name="uptime-kuma-1.0.24"></a>
 
-### [uptime-kuma-1.0.24](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.23...uptime-kuma-1.0.24) (2021-12-18)
+### [uptimekuma-1.0.24](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.23...uptime-kuma-1.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -673,7 +673,7 @@
 
 <a name="uptime-kuma-1.0.23"></a>
 
-### [uptime-kuma-1.0.23](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.22...uptime-kuma-1.0.23) (2021-12-14)
+### [uptimekuma-1.0.23](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.22...uptime-kuma-1.0.23) (2021-12-14)
 
 #### 聊天
 
@@ -683,7 +683,7 @@
 
 <a name="uptime-kuma-1.0.22"></a>
 
-### [uptime-kuma-1.0.22](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.21...uptime-kuma-1.0.22) (2021-12-13)
+### [uptimekuma-1.0.22](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.21...uptime-kuma-1.0.22) (2021-12-13)
 
 #### 聊天
 
@@ -693,7 +693,7 @@
 
 <a name="uptime-kuma-1.0.21"></a>
 
-### [uptime-kuma-1.0.21](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.20...uptime-kuma-1.0.21) (2021-12-11)
+### [uptimekuma-1.0.21](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.20...uptime-kuma-1.0.21) (2021-12-11)
 
 #### 聊天
 
@@ -703,7 +703,7 @@
 
 <a name="uptime-kuma-1.0.20"></a>
 
-### [uptime-kuma-1.0.20](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.19...uptime-kuma-1.0.20) (2021-12-07)
+### [uptimekuma-1.0.20](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.19...uptime-kuma-1.0.20) (2021-12-07)
 
 #### 聊天
 
@@ -713,7 +713,7 @@
 
 <a name="uptime-kuma-1.0.19"></a>
 
-### uptime-kuma-1.0.19 (2021-12-05)
+### uptimekuma-1.0.19 (2021-12-05)
 
 #### 聊天
 
@@ -734,7 +734,7 @@
 
 <a name="uptime-kuma-1.0.18"></a>
 
-### [uptime-kuma-1.0.18](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.17...uptime-kuma-1.0.18) (2021-12-05)
+### [uptimekuma-1.0.18](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.17...uptime-kuma-1.0.18) (2021-12-05)
 
 #### 聊天
 
@@ -744,7 +744,7 @@
 
 <a name="uptime-kuma-1.0.17"></a>
 
-### [uptime-kuma-1.0.17](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.16...uptime-kuma-1.0.17) (2021-12-04)
+### [uptimekuma-1.0.17](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.16...uptime-kuma-1.0.17) (2021-12-04)
 
 #### 聊天
 
@@ -754,7 +754,7 @@
 
 <a name="uptime-kuma-1.0.16"></a>
 
-### [uptime-kuma-1.0.16](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.15...uptime-kuma-1.0.16) (2021-12-04)
+### [uptimekuma-1.0.16](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.15...uptime-kuma-1.0.16) (2021-12-04)
 
 #### 聊天
 
@@ -764,7 +764,7 @@
 
 <a name="uptime-kuma-1.0.15"></a>
 
-### [uptime-kuma-1.0.15](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.14...uptime-kuma-1.0.15) (2021-12-03)
+### [uptimekuma-1.0.15](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.14...uptime-kuma-1.0.15) (2021-12-03)
 
 #### 聊天
 
@@ -776,7 +776,7 @@
 
 <a name="uptime-kuma-1.0.14"></a>
 
-### [uptime-kuma-1.0.14](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.13...uptime-kuma-1.0.14) (2021-11-30)
+### [uptimekuma-1.0.14](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.13...uptime-kuma-1.0.14) (2021-11-30)
 
 #### 聊天
 
@@ -786,7 +786,7 @@
 
 <a name="uptime-kuma-1.0.13"></a>
 
-### [uptime-kuma-1.0.13](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.12...uptime-kuma-1.0.13) (2021-11-23)
+### [uptimekuma-1.0.13](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.12...uptime-kuma-1.0.13) (2021-11-23)
 
 #### 聊天
 
@@ -796,7 +796,7 @@
 
 <a name="uptime-kuma-1.0.12"></a>
 
-### [uptime-kuma-1.0.12](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.11...uptime-kuma-1.0.12) (2021-11-22)
+### [uptimekuma-1.0.12](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.11...uptime-kuma-1.0.12) (2021-11-22)
 
 #### 聊天
 
@@ -810,7 +810,7 @@
 
 <a name="uptime-kuma-1.0.11"></a>
 
-### [uptime-kuma-1.0.11](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.10...uptime-kuma-1.0.11) (2021-11-16)
+### [uptimekuma-1.0.11](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.10...uptime-kuma-1.0.11) (2021-11-16)
 
 #### 聊天
 
@@ -820,7 +820,7 @@
 
 <a name="uptime-kuma-1.0.10"></a>
 
-### [uptime-kuma-1.0.10](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.9...uptime-kuma-1.0.10) (2021-11-15)
+### [uptimekuma-1.0.10](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.9...uptime-kuma-1.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -831,7 +831,7 @@
 
 <a name="uptime-kuma-1.0.9"></a>
 
-### [uptime-kuma-1.0.9](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.8...uptime-kuma-1.0.9) (2021-11-14)
+### [uptimekuma-1.0.9](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.8...uptime-kuma-1.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -850,7 +850,7 @@
 
 <a name="uptime-kuma-1.0.8"></a>
 
-### [uptime-kuma-1.0.8](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.7...uptime-kuma-1.0.8) (2021-11-09)
+### [uptimekuma-1.0.8](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.7...uptime-kuma-1.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -861,7 +861,7 @@
 
 <a name="uptime-kuma-1.0.7"></a>
 
-### [uptime-kuma-1.0.7](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.6...uptime-kuma-1.0.7) (2021-11-07)
+### [uptimekuma-1.0.7](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.6...uptime-kuma-1.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -871,7 +871,7 @@
 
 <a name="uptime-kuma-1.0.6"></a>
 
-### [uptime-kuma-1.0.6](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.5...uptime-kuma-1.0.6) (2021-11-07)
+### [uptimekuma-1.0.6](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.5...uptime-kuma-1.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -889,7 +889,7 @@
 
 <a name="uptime-kuma-1.0.5"></a>
 
-### [uptime-kuma-1.0.5](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.4...uptime-kuma-1.0.5) (2021-11-02)
+### [uptimekuma-1.0.5](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.4...uptime-kuma-1.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -899,7 +899,7 @@
 
 <a name="uptime-kuma-1.0.4"></a>
 
-### [uptime-kuma-1.0.4](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.3...uptime-kuma-1.0.4) (2021-11-01)
+### [uptimekuma-1.0.4](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.3...uptime-kuma-1.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -909,7 +909,7 @@
 
 <a name="uptime-kuma-1.0.3"></a>
 
-### [uptime-kuma-1.0.3](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.2...uptime-kuma-1.0.3) (2021-11-01)
+### [uptimekuma-1.0.3](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.2...uptime-kuma-1.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -919,7 +919,7 @@
 
 <a name="uptime-kuma-1.0.2"></a>
 
-### [uptime-kuma-1.0.2](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.1...uptime-kuma-1.0.2) (2021-10-26)
+### [uptimekuma-1.0.2](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.1...uptime-kuma-1.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -929,7 +929,7 @@
 
 <a name="uptime-kuma-1.0.1"></a>
 
-### [uptime-kuma-1.0.1](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.0...uptime-kuma-1.0.1) (2021-10-26)
+### [uptimekuma-1.0.1](https://github.com/truecharts/apps/compare/uptime-kuma-1.0.0...uptime-kuma-1.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -937,13 +937,13 @@
 
 #### 修复
 
-* apply same user to questions.yaml as in values.yaml ([#1229](https://github.com/truecharts/apps/issues/1229))
+* 将同一个用户应用于问题.yaml ([#1229](https://github.com/truecharts/apps/issues/1229))
 
 
 
 <a name="uptime-kuma-1.0.0"></a>
 
-### [uptime-kuma-1.0.0](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.10...uptime-kuma-1.0.0) (2021-10-25)
+### [uptimekuma-1.0.0](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.10...uptime-kuma-1.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -953,7 +953,7 @@
 
 <a name="uptime-kuma-0.0.10"></a>
 
-### [uptime-kuma-0.0.10](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.7...uptime-kuma-0.0.10) (2021-10-20)
+### [uptimekuma-0.0.10](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.7...uptime-kuma-0.0.10) (2021-10-20)
 
 #### 聊天
 
@@ -963,7 +963,7 @@
 
 <a name="uptime-kuma-0.0.7"></a>
 
-### [uptime-kuma-0.0.7](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.6...uptime-kuma-0.0.7) (2021-10-20)
+### [uptimekuma-0.0.7](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.6...uptime-kuma-0.0.7) (2021-10-20)
 
 #### 聊天
 
@@ -973,7 +973,7 @@
 
 <a name="uptime-kuma-0.0.6"></a>
 
-### [uptime-kuma-0.0.6](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.5...uptime-kuma-0.0.6) (2021-10-19)
+### [uptimekuma-0.0.6](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.5...uptime-kuma-0.0.6) (2021-10-19)
 
 #### 更改
 
@@ -998,7 +998,7 @@
 
 <a name="uptime-kuma-0.0.5"></a>
 
-### [uptime-kuma-0.0.5](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.4...uptime-kuma-0.0.5) (2021-10-19)
+### [uptimekuma-0.0.5](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.4...uptime-kuma-0.0.5) (2021-10-19)
 
 #### 修复
 
@@ -1008,7 +1008,7 @@
 
 <a name="uptime-kuma-0.0.4"></a>
 
-### [uptime-kuma-0.0.4](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.3...uptime-kuma-0.0.4) (2021-10-19)
+### [uptimekuma-0.0.4](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.3...uptime-kuma-0.0.4) (2021-10-19)
 
 #### 修复
 
@@ -1018,7 +1018,7 @@
 
 <a name="uptime-kuma-0.0.3"></a>
 
-### [uptime-kuma-0.0.3](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.2...uptime-kuma-0.0.3) (2021-10-18)
+### [uptimekuma-0.0.3](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.2...uptime-kuma-0.0.3) (2021-10-18)
 
 #### 聊天
 
@@ -1032,7 +1032,7 @@
 
 <a name="uptime-kuma-0.0.2"></a>
 
-### [uptime-kuma-0.0.2](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.1...uptime-kuma-0.0.2) (2021-10-17)
+### [uptimekuma-0.0.2](https://github.com/truecharts/apps/compare/uptime-kuma-0.0.1...uptime-kuma-0.0.2) (2021-10-17)
 
 #### 聊天
 
@@ -1046,4 +1046,4 @@
 
 <a name="uptime-kuma-0.0.1"></a>
 
-### uptime-kuma-0.0.1 (2021-10-14)
+### uptimekuma-0.0.1 (2021-10-14)
