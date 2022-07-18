@@ -15,7 +15,7 @@ Cloudflare DNS管理
 
 ## 必备条件
 
-This guide assumes you've followed our main [Quick-Start Guide](https://truecharts.org/docs/manual/SCALE%20Apps/Quick-Start%20Guides/adding-letsencrypt) with your domain on TrueNAS and done the configuration for your DNS on Cloudflare (see [this video](https://www.youtube.com/watch?v=hJVghecs3rE) on our YouTube channel)
+本指南假定您已经在TrueNAS 上跟着我们的主 [快速启动指南](https://truecharts.org/docs/manual/SCALE%20Apps/Quick-Start%20Guides/adding-letsencrypt) 并完成了云端的DNS配置(见 [我们的 YouTube 频道上的这个视频](https://www.youtube.com/watch?v=hJVghecs3rE))
 
 推荐的方式是为您的子域设置 CNAME (图表) 并保留您的记录指向您的基本域名，如下面的
 
@@ -41,7 +41,7 @@ This guide assumes you've followed our main [Quick-Start Guide](https://truechar
 
 ![步骤3 第二部分](https://user-images.githubusercontent.com/89483932/179336787-338b1939-546c-42fa-86a2-afe89da91e8d.png)
 
-You can leave everything but the `CF_RECORDTYPES` to defaults if you're only changing your A record, (refer to the upstream documentation for more options [here](https://hotio.dev/containers/cloudflareddns/))
+除了 `CF_RECORDTYPES` 之外，如果您只要更改您的记录，您可以保留所有的默认值。 (更多选项 [请参阅上游文档](https://hotio.dev/containers/cloudflareddns/))
 
 如果您只是更改您的主域名，请将 `CF_RECORDTYPES` 改为A
 
@@ -49,7 +49,7 @@ You can leave everything but the `CF_RECORDTYPES` to defaults if you're only cha
 
 ## 支持
 
-- If you need more details or have a more custom setup the documentation on the [upstream](https://hotio.dev/containers/cloudflareddns/) is very complete so check the descriptions of the options there.
+- 如果您需要更多的细节或有更多的自定义设置， [上游](https://hotio.dev/containers/cloudflareddns/) 的文档就非常完整，因此请检查该选项的描述。
 - 您也可以使用Discord来获得实时反馈和支持
 - 查看我们的 [Discord](https://discord.gg/tVsPTHWTtr)
 - 如果你在我们的图表中发现了一个错误，请打开一个 Github [问题](https://github.com/truecharts/apps/issues/new/choose)
