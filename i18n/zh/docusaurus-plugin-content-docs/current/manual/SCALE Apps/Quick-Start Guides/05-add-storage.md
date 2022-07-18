@@ -8,7 +8,7 @@
 
 我们提供了一个可选的自动设置的权限通过 App fsGroup 或 PUID
 
-Setting permissions automatically means we `chown` the folder and all folder within it, to a group of your choice. 然而，我们只是在安装或更新应用程序时才这样做。
+Setting permissions automatically means we `chown` the folder and all folder within it, to a group of your choice. 然而，我们只是在安装或更新应用程序时才这样做。 然而，我们只是在安装或更新应用程序时才这样做。
 
 请注意，自动设置所有权/权限，确实意味着它会覆盖您当前的 CHOWN 和 CHMOD 设置。 这可能会破坏事物，如果不小心使用，它将摧毁你的系统。 启用外部系统挂载共享的自动权限也是不明智的。
 
