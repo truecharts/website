@@ -1,38 +1,38 @@
-# Networking
+# 建立网络
 
-TrueCharts contain a number of networking options, some super-easy, others quite-advanced. In this document we will try to give a general overview what the general configuration options are and what are their downside and upsides.
+TrueCharts包含一些网络选项，有些是超轻松的，有些是快速的。 在这份文件中，我们将试图全面概述一般配置选项是什么以及它们的下方和上方。
 
-## General Choices
+## 一般选择
 
-### Host Networking
+### 主机网络
 
-This option is considered to be an advanced option and is rarely needed. It connects the network-stack of the host to the App.
+这种选择被认为是一个先进的选择，很少必要。 它连接到应用程序主机的网络堆栈。
 
-The reason this is not needed in most Apps, is because we already have great options to deal with most forms of network traffic and every maintainer has the goal to make sure you don't need this setting.
+大多数应用程序不需要这一点的原因， 因为我们已经有很多选项来处理大多数形式的网络流量，而且每个维护者都有目标确保您不需要此设置。
 
-Please refer to the documentation of individual Apps or the Support-Discussions section on github, if you think you might need this setting in your specific use case
+请参阅单个应用程序或关于github的支持-讨论部分的文档， 如果您认为您可能需要在您的特定使用案例中使用此设置
 
-### ClusterIP
+### 集群IP
 
-The "Basic" network mode, it create a special load-balancer called a "service" thats only available on the internal network between the Apps.
+“基本”网络模式，它创建了一个叫做“服务”的特殊的负载平衡器，这只能在应用程序之间的内部网络上使用。
 
-Don't think you can't connect to it though, because our [Reverse proxy](https://wiki.truecharts.org/general/reverse-proxy/) can forward most traffic for you!
+不要觉得您无法连接到它，因为我们 [反转代理](https://wiki.truecharts.org/general/reverse-proxy/) 可以为您转发大多数流量！
 
-### NodePort
+### 节点端口
 
-The name already makes clear what this one does: It connect to a port on your node (the PC hosting your App).
+名称已经说明了它做什么：它连接到您节点上的端口(托管您的应用程序的PC)。
 
-Its a special ClusterIP that forwards all traffic from a certain port on your host-system aka "node", directly to the service. However, it's also still a ClusterIP, so it's very well possible to use both the Reverse proxy and the NodePort, just not at the same port.
+它是一个特殊的集群IP，将所有流量从您的主机系统别的“节点”上的某个端口直接转发到服务。 然而，它仍然是一个集群， 所以很可能同时使用逆向代理和Nodeport，仅仅是在同一个端口。
 
-There are, however, multiple downsides to using nodeports:
+但使用节点有多个缺点：
 
-- You can only pick ports above 9000
-- You can not connect two Apps to the same port
+- 您只能拾取超过9000的端口
+- 您不能将两个应用程序连接到同一个端口
 
-### LoadBalancer
+### 负载均衡器
 
-Loadbalancer connects a service targetPort directly to the Host Network. However: it can do so in lower ranges than NodePort, making it a great solution for things like DNS servers.
+Loadbalancer 将服务目标端口直接连接到主机网络。 但是，它可以在低于Nodeport的范围内这样做，从而使它成为像DNS服务器这样的东西的一个极好的解决方案。
 
-There are, however, downsides to using LoadBalancer:
+但使用LoadBalancer有下方：
 
-- You can not connect two Apps to the same port
+- 您不能将两个应用程序连接到同一个端口
