@@ -1,46 +1,46 @@
-# Unit tests
+# 单元测试
 
-We unit test our common library, while it isn't near complete coverage but it does offer some basic checks.
+我们测试我们的共同库，虽然它没有接近完整的覆盖范围，但它提供了一些基本的检查。
 
-## Running the tests
+## 运行测试
 
-Running these tests can be done any way you like. In this document we limit ourselves to using Visual Studio Code, using our Development Container.
+运行这些测试可以以您喜欢的方式进行。 在这份文件中，我们只能使用我们的开发容器来使用 Visual Studio 代码。
 
-### Using Visual Studio Code
+### 使用 Visual Studio 代码
 
-Our repo comes with a Visual Studio Code [development container](https://code.visualstudio.com/docs/remote/containers) definition and `launch.json` that allow you to quickly set up an environment in which you can run the tests.
+我们的repo 带有一个 Visual Studio 代码 [开发容器](https://code.visualstudio.com/docs/remote/containers) 定义和 `启动. son` 允许您快速设置一个您可以运行测试的环境。
 
 #### 必备条件
 
-- Visual Studio Code is installed.
-- Docker is installed and running.
-- The "Remote - Containers" extension is installed and enabled in Visual Studio Code.
+- Visual Studio 代码已安装。
+- Docker已安装并运行。
+- “远程-容器”扩展已安装并在 Visual Studio 代码中启用。
 
-For more details, please refer to the [official documentation](https://code.visualstudio.com/docs/remote/containers#_system-requirements).
+欲了解更多详情，请参阅 [官方文档](https://code.visualstudio.com/docs/remote/containers#_system-requirements)。
 
-#### Running tests
+#### 运行测试
 
-Once Visual Studio Code is set up, and you open the `charts` workspace, you will see a popup asking if you wish to re-open the workspace in a development container:
+设置了 Visual Studio 代码后，您将打开 `图表` 工作空间。 如果您想要在开发容器中重新打开工作区，您将看到一个弹出窗口询问：
 
-![Visual Studio Code development container popup](https://raw.githubusercontent.com/k8s-at-home/charts/master/docs/images/vscode_devcontainer_popup.png)
+![Visual Studio 代码开发容器弹出窗口](https://raw.githubusercontent.com/k8s-at-home/charts/master/docs/images/vscode_devcontainer_popup.png)
 
-Select to do so and a Dockerized workspace will be built. You can now use Visual Studio Code as normal.
+选中此项并将建立一个停靠工作区。 您现在可以正常使用 Visual Studio 代码。
 
-To run or debug the unit tests, click the "Run" button on the left sidebar and select the desired configuration:
+要运行或调试设备测试，请单击左侧边栏上的“运行”按钮并选择所需的配置：
 
-![Visual Studio Code run configurations](https://raw.githubusercontent.com/k8s-at-home/charts/master/docs/images/vscode_run_unittests.png)
+![Visual Studio 代码运行配置](https://raw.githubusercontent.com/k8s-at-home/charts/master/docs/images/vscode_run_unittests.png)
 
-- _UnitTest - active spec file only_: This configuration will try to run the currently opened test file.
+- _UnitTest - 活动的 spec 文件_: 此配置将尝试运行当前打开的测试文件。
 
-  **Note:** Make sure that you have opened a valid test file (`.rb` files in the `test/charts` folder), or this will not work.
+  **注意：** 请确保您已经打开了一个有效的测试文件(`)。 b` 文件在 `测试/图表` 文件夹中，否则无法工作。
 
-- _UnitTest - all spec files_: This configuration will run the all test files in the `test/charts` folder.
+- _UnitTest - 所有 spec 文件_: 此配置将运行在 `test/chays` 文件夹中的所有测试文件。
 
-Next, press the green "Play" icon. This will start the tests show the outcome in a terminal window.
+接下来，按绿色的“播放”图标。 这将启动测试在终端窗口中显示结果。
 
-## Output
+## 产出
 
-A successful test will output something like the following...
+一个成功的测试将会输出如下的东西...
 
 ```text
 Started with run options --seed 52955
