@@ -12,7 +12,7 @@
 
       “许可证持有人”系指由 授权授予许可证的版权所有人或实体。
 
-      "Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+      "Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
       “你”（或“你”）指的是个人或法律实体 行使本许可证授予的权限。
 
@@ -24,13 +24,13 @@
 
       “衍生工作”系指任何工作，不论是源文还是对象 形式的工作。 系基于(或源自于)《工作》，并对其进行了 编辑修订， 注释、拟订或其他修改 作为一个整体，是一份原始著作。 为了本许可证 的目的，衍生作品不应包括仍然可以从 分离的作品。 或只是链接(或由名称绑定)到其接口， 作品和衍生作品。
 
-      "Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+      "Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution." For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 
       “贡献者”系指许可证发放者和任何个人或法律实体 代表他们的贡献已为许可证发放者收到，并 随后纳入工作。
 
-   2. 版权许可授予。 根据 此许可协议的条款和条件，每个贡献者在此授予您一个永久性的 世界范围内的非排他性、无收取使用费。 不可撤销 版权许可复制，准备衍生作品， 公开显示， 公开表演、分解和分发 工作和这种衍生作品的源或对象形式。
+   2. 授予专利许可。 根据 此许可协议的条款和条件，每个贡献者在此授予您一个永久性的 世界范围内的非排他性、无收取使用费。 不可撤销 版权许可复制，准备衍生作品， 公开显示， 公开表演、分解和分发 工作和这种衍生作品的源或对象形式。
 
-   3. 授予专利许可。 根据 此许可协议的条款和条件，每个贡献者在此给予您一个永久性的 世界范围内的非排他性、免收费用。 无专利使用费、不可撤销 (本节所述除外) 专利许可证已经颁发， 已经使用、出售、导入该专利许可证。 并以其他方式转移工作， 如果这种许可证只适用于那些可获得许可证的专利申请 这种专利申请者必然会因其 缴费单独或其缴费合并而受到侵犯 与提交这种缴费的工作有关。 如果您 对任何实体提起专利诉讼(包括在诉讼中的 交叉诉状或反诉)，指称该项工作 或该项工作中包含的一项缴款构成直接 或是促成的专利侵犯， 然后根据该工作许可证授予您的任何专利许可证 将从提出此类诉讼之日起终止 。
+   3. 版权许可授予。 根据 此许可协议的条款和条件，每个贡献者在此授予您一个永久性的 世界范围内的非排他性、无收取使用费。 不可撤销 版权许可复制，准备衍生作品， 公开显示， 公开表演、分解和分发 工作和这种衍生作品的源或对象形式。
 
    4. 重新分配。 您可以在任何介质上复制和分发 作品或衍生作品的副本， 使用或不使用 修改，并且使用源或对象形式，条件是您 满足以下条件：
 
@@ -40,7 +40,7 @@
 
       (c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
 
-      (d) If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. NOTICE 文件的 内容仅用于信息目的， 不修改该许可证。 You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+      (d) If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. NOTICE 文件的 内容仅用于信息目的， 不修改该许可证。 NOTICE 文件的 内容仅用于信息目的， 不修改该许可证。 You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
 
       您可以将您自己的版权声明添加到您的修改中，并且 可以提供额外或不同的许可条款和条件 供使用。 复制或分发您的修改， 或 对于任何这类衍生作品整体，提供您的用途， 复制， 另外，工作的分配符合 本许可证中规定的条件。
 
@@ -58,7 +58,7 @@
 
    APPENDIX：如何将Apache许可应用于您的工作。
 
-      要将Apache许可应用于您的作品，请附上以下 锅板通知。 将括号中的“[]” 替换为您自己的识别信息。 (不包含 个括号！)  文本应以适当的 注释语法作为文件格式。 我们还建议将 文件或类名称和目的说明与版权通知相同的 “打印页面”以便在第三方档案中更容易地进行 标识。
+      要将Apache许可应用于您的作品，请附上以下 锅板通知。 将括号中的“[]” 替换为您自己的识别信息。 (不包含 个括号！  )  文本应以适当的 注释语法作为文件格式。 我们还建议将 文件或类名称和目的说明与版权通知相同的 “打印页面”以便在第三方档案中更容易地进行 标识。
 
    版权所有 2020 k8s@Home
 
@@ -66,4 +66,4 @@
 
        http://www.apache.org/licenses/LICENSE-2.0。
 
-   除非适用法律要求或书面同意，否则在许可证下分发的软件 将在“ASIS”BASIS上分发。 用任何知识的传唤或传递，无论是明示的还是暗示。 在许可范围内查看特定语言的权限和 限制。
+   除非适用法律要求或书面同意，否则在许可证下分发的软件 将在“ASIS”BASIS上分发。 在许可范围内查看特定语言的权限和 限制。
