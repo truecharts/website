@@ -1,13 +1,13 @@
-# Support Policy
+# 支持政策
 
-TrueCharts aims to always support the lastest version of TrueNAS SCALE. However, sometimes new versions of either TrueNAS or TrueCharts introduces breaking changes. This document highlights which versions of TrueCharts (or rather branches), support which versions of TrueNAS SCALE.
+TrueCharts旨在始终支持TrueNAS SCALE的最后版本。 然而，有时TrueNAS 或 TrueCharts 的新版本引入了突破性的更改。 本文件重点介绍了哪些版本的TrueCharts(或更多分支)，支持哪些版本的TrueNAS SCALE。
 
-We also document which versions of TrueNAS will recieve TrueCharts updates and for which versions we are accepting bug reports.
+我们还记录了哪些版本的TrueNAS将接收TrueChasts更新以及我们正在接受错误报告的版本。
 
-## Supported Versions
+## 支持的版本
 
-| TrueNAS version | Branch   | Supported with updates | Accepting Support tickets | Accepting Bugreports | Notes                                           |
-| --------------- | -------- | ---------------------- | ------------------------- | -------------------- | ----------------------------------------------- |
-| 22.02 RC        | `master` | :white_check_mark:   | :x:                       | :x:                  | Adviced to update to 22.02 RELEASE              |
-| 22.02 RELEASE   | `master` | :white_check_mark:   | :white_check_mark:      | :white_check_mark: | Most Stable Release                             |
-| Nightly         | `master` | :white_check_mark:   | :x:                       | :white_check_mark: | Please only submit bugreports during codefreeze |
+| TrueNAS 版本    | 分支   | 支持更新                 | 接受客服单                | 接受错误报告               | 注                   |
+| ------------- | ---- | -------------------- | -------------------- | -------------------- | ------------------- |
+| 22.02 遥控器     | `大师` | :white_check_mark: | :x:                  | :x:                  | 建议更新到 22.02 RELEASE |
+| 22.02 RELEASE | `大师` | :white_check_mark: | :white_check_mark: | :white_check_mark: | 最稳定的版本              |
+| 每晚一次          | `大师` | :white_check_mark: | :x:                  | :white_check_mark: | 请只在代码冻结期间提交错误报告     |
