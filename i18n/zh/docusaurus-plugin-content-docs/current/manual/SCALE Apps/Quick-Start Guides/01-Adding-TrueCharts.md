@@ -1,39 +1,39 @@
-# 01 - Adding TrueCharts to SCALE
+# 01 - 将 TrueCharts 添加到SCALE
 
-Adding the TrueCharts Community App Catalog is relatively straight forward.
+添加 TrueCharts 社区应用目录是相对直观的。
 
 ## B. 所需经费
 
-- Make sure your storage-pool is created and working
-- Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
+- 请确保您的存储库已创建并工作
+- 请确保您有可用的互联网连接，并可以从主机系统访问 github 和 truecharts.org。
 
 ## Adding TrueCharts
 
-When opening the Apps menu item on TrueNAS SCALE for the first time, you get prompted to setup a new pool for Apps. This will create a new dataset on the selected pool called "ix-applications", which will contain all docker containers and most application data, unless specified otherwise.
+当首次在 TrueNAS SCALE 上打开应用菜单项时，您会被提示设置一个新的应用池。 这将在选定的池上创建一个新的数据集，称为“ix-applications”，其中将包含所有停靠容器和大多数应用数据，除非另有规定。
 
-- Go to "Apps" in the left hand menu
-- Select the "Manage Catalogs" tab
-- Click "Add Catalog" and enter the required information:
+- 转到左手菜单中的“应用程序”
+- 选择"管理目录"选项卡
+- 点击“添加目录”并输入所需信息：
 
 - Name: `truecharts`
-- Repository: `https://github.com/truecharts/catalog`
-- Preferred Trains: `stable`
-- Branch: `main`
+- 仓库： `https://github.com/truecharts/catalog`
+- 首选火车: `稳定`
+- 分支： `个主`
 
-We also heavily advise people starting with TrueCharts and the rest of this guide to ensure that `core` and `stable` are added to preferred trains. Without those two trains you will be unable to follow all the steps we've outlined in the "Quick Start Guides". You may enable other trains as well, see below for a description of the contents of each train.
+我们还从TrueCharts和本指南其他部分开始为人们提供大量建议，以确保 `核心` and `stable` 被添加到首选列车中。 没有这两列火车，您将无法遵循我们在“快速启动指南”中概述的所有步骤。 您也可以启用其他列车，请参阅下面的每一列车内容说明。
 
-## Difference between Stable and Incubator
+## 稳定与孵化器之间的差异
 
-TrueCharts has multiple "trains": All trains contain Apps that should work fine. However they have a slightly different meaning:
+TrueCharts有多个“火车”: 所有列车都包含应该正常工作的应用程序。 然而，它们的含义略有不同：
 
-- `stable` contains most of our Apps. These are considered stable and working.
-- `dependency` contains apps that are mostly used as dependencies. This train is not supported, besides from bug fixes.
-- `incubator` These Apps are still in development and/or are not considered to be of high-enough quality.
+- `稳定的` 包含我们大多数应用程序。 它们被认为是稳定和有效的。
+- `依赖于` 包含了主要用作依赖的应用。 此列车不受支持，此外还有错误修复。
+- `孵化器` 这些应用仍在开发中和/或被认为质量不高。
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/Vomm8uvdCM0)
+![类型 :video](https://www.youtube.com/embed/Vomm8uvdCM0)
 
-## Notes
+## 注
 
-- If this doesn't work right away, try clicking "Refresh Catalogs".
+- 如果此操作不正常，请点击"刷新目录"。
