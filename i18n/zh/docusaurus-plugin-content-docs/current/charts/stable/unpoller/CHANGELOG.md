@@ -557,7 +557,7 @@
 
 #### 修复
 
-* InfluxDB is always disabled with current value. ([#1579](https://github.com/truecharts/apps/issues/1579))
+* InfluxDB 总是以当前值禁用。 ([#1579](https://github.com/truecharts/apps/issues/1579))
 
 
 
@@ -584,7 +584,7 @@
 
 <a name="unpoller-1.0.14"></a>
 
-### [unpoller-1.0.14](https://github.com/truecharts/apps/compare/unpoller-1.0.13...unpoller-1.0.14) (2021-12-18)
+### [unpoller-1.0.14](https://github.com/truecharts/apps/compare/unpoller-1.0.13...unpoller-1.0.14) (2021-12-18岁)
 
 #### 聊天
 
@@ -722,7 +722,7 @@
 
 #### 聊天
 
-* rename unifi-poller to unpoller
+* 重命名Unifi-Poller 为取消投票器
 
 
 
@@ -732,8 +732,8 @@
 
 #### 聊天
 
-* bump unifipoller
-* move unifi-poller to stable
+* 跳跃单纤维化器
+* 移动Unifi-poller 到稳定状态
 
 
 
@@ -743,4 +743,4 @@
 
 #### Feat
 
-* add some prometheus exporter-Apps ([#1388](https://github.com/truecharts/apps/issues/1388))
+* 添加一些导星导出器应用程序([#1388](https://github.com/truecharts/apps/issues/1388))
