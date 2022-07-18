@@ -10,12 +10,21 @@ kubeVersion: A SemVer range of compatible Kubernetes 版本 (optional)
 name: 图表名称 (required)
 版本: SemVer 2 版本(required)
 upstream_version: A SemVer 2 版本, 用于上游头盔图表源(可选)
-appVersion: 此应用程序的版本 (可选) 不需要SemVer。 推荐引用。
+appVersion: 此应用程序的版本 (可选) 不需要SemVer。 不需要SemVer。 推荐引用。
 描述：此工程的单句描述(可选)
 类型：图表类型(可选)
 已废弃：此图表是否已废弃(可选， 布尔值
 主页：此项目主页的 URL (可选)
 图标：SVG 或 PNG 图像的 URL 可作为图标使用(可选)
+关键词：
+  - 此工程的关键词列表 (可选)
+源：
+  - 此工程的源代码的 URL 列表 (可选)
+依赖关系：
+  - 名称：图表名称 (nginx)
+    仓库：URL ("https://示例) om/charts") 或别名 (@repo-name")
+    版本: 图表版本 ("1.2). ")
+    conditions : (optional) A yaml 路径解析为布尔值，用于启用/禁用图表(例如子图1)。
 关键词：
   - 此工程的关键词列表 (可选)
 源：

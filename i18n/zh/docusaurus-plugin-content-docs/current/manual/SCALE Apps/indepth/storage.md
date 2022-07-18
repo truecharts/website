@@ -33,6 +33,6 @@ TrueCharts使用多个不同的存储系统：
 
 我们根据App fsGroup 或 PUID 提供可选的自动设置权限。
 
-Setting permissions automatically means we `chown` the folder and all folder within it, to a user and group of your choice. 然而，我们只是在安装或更新应用程序时才这样做。
+Setting permissions automatically means we `chown` the folder and all folder within it, to a user and group of your choice. 然而，我们只是在安装或更新应用程序时才这样做。 然而，我们只是在安装或更新应用程序时才这样做。
 
 请注意，自动设置所有权/权限，确实意味着它会覆盖您当前的 CHOWN 和 CHMOD 设置。 这可能会破坏事物，如果不小心使用，它将摧毁你的系统。 启用外部系统挂载共享的自动权限也是不明智的。 这些权限基于您在应用配置对话框中输入的用户和组，并默认为 `568` (SCALE 默认应用用户)。
