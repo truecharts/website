@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [transmission-12.0.19](https://github.com/truecharts/apps/compare/transmission-12.0.18...transmission-12.0.19) (2022-07-14)
+## [传输-12.0.19](https://github.com/truecharts/apps/compare/transmission-12.0.18...transmission-12.0.19) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [transmission-12.0.18](https://github.com/truecharts/apps/compare/transmission-12.0.16...transmission-12.0.18) (2022-07-14)
+## [传输-12.0.18](https://github.com/truecharts/apps/compare/transmission-12.0.16...transmission-12.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [transmission-12.0.16](https://github.com/truecharts/apps/compare/transmission-12.0.14...transmission-12.0.16) (2022-07-12)
+## [传输-12.0.16](https://github.com/truecharts/apps/compare/transmission-12.0.14...transmission-12.0.16) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [transmission-12.0.14](https://github.com/truecharts/apps/compare/transmission-12.0.13...transmission-12.0.14) (2022-07-12)
+## [传输-12.0.14](https://github.com/truecharts/apps/compare/transmission-12.0.13...transmission-12.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="transmission-12.0.13"></a>
 
-### [transmission-12.0.13](https://github.com/truecharts/apps/compare/transmission-12.0.12...transmission-12.0.13) (2022-07-12)
+### [传输-12.0.13](https://github.com/truecharts/apps/compare/transmission-12.0.12...transmission-12.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="transmission-12.0.12"></a>
 
-### [transmission-12.0.12](https://github.com/truecharts/apps/compare/transmission-12.0.11...transmission-12.0.12) (2022-07-11)
+### [传输-12.0.12](https://github.com/truecharts/apps/compare/transmission-12.0.11...transmission-12.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="transmission-12.0.11"></a>
 
-### [transmission-12.0.11](https://github.com/truecharts/apps/compare/transmission-12.0.10...transmission-12.0.11) (2022-07-10)
+### [传输-12.0.11](https://github.com/truecharts/apps/compare/transmission-12.0.10...transmission-12.0.11) (2022-07-10)
 
 #### 修复
 
@@ -66,7 +66,7 @@
 
 <a name="transmission-12.0.10"></a>
 
-### [transmission-12.0.10](https://github.com/truecharts/apps/compare/transmission-12.0.9...transmission-12.0.10) (2022-07-09)
+### [传输-12.0.10](https://github.com/truecharts/apps/compare/transmission-12.0.9...transmission-12.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="transmission-12.0.9"></a>
 
-### [transmission-12.0.9](https://github.com/truecharts/apps/compare/transmission-12.0.8...transmission-12.0.9) (2022-07-09)
+### [传输-12.0.9](https://github.com/truecharts/apps/compare/transmission-12.0.8...transmission-12.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="transmission-12.0.8"></a>
 
-### [transmission-12.0.8](https://github.com/truecharts/apps/compare/transmission-12.0.7...transmission-12.0.8) (2022-07-04)
+### [传输-12.0.8](https://github.com/truecharts/apps/compare/transmission-12.0.7...transmission-12.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="transmission-12.0.7"></a>
 
-### [transmission-12.0.7](https://github.com/truecharts/apps/compare/transmission-12.0.6...transmission-12.0.7) (2022-06-25)
+### [传输-12.0.7](https://github.com/truecharts/apps/compare/transmission-12.0.6...transmission-12.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="transmission-12.0.6"></a>
 
-### [transmission-12.0.6](https://github.com/truecharts/apps/compare/transmission-12.0.5...transmission-12.0.6) (2022-06-22)
+### [传输-12.0.6](https://github.com/truecharts/apps/compare/transmission-12.0.5...transmission-12.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -117,7 +117,7 @@
 
 <a name="transmission-12.0.5"></a>
 
-### [transmission-12.0.5](https://github.com/truecharts/apps/compare/transmission-12.0.4...transmission-12.0.5) (2022-06-21)
+### [传输-12.0.5](https://github.com/truecharts/apps/compare/transmission-12.0.4...transmission-12.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -128,7 +128,7 @@
 
 <a name="transmission-12.0.4"></a>
 
-### [transmission-12.0.4](https://github.com/truecharts/apps/compare/transmission-12.0.3...transmission-12.0.4) (2022-06-14)
+### [传输-12.0.4](https://github.com/truecharts/apps/compare/transmission-12.0.3...transmission-12.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -138,7 +138,7 @@
 
 <a name="transmission-12.0.3"></a>
 
-### [transmission-12.0.3](https://github.com/truecharts/apps/compare/transmission-12.0.2...transmission-12.0.3) (2022-06-11)
+### [传输-12.0.3](https://github.com/truecharts/apps/compare/transmission-12.0.2...transmission-12.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -148,7 +148,7 @@
 
 <a name="transmission-12.0.2"></a>
 
-### [transmission-12.0.2](https://github.com/truecharts/apps/compare/transmission-12.0.1...transmission-12.0.2) (2022-06-07)
+### [传输-12.0.2](https://github.com/truecharts/apps/compare/transmission-12.0.1...transmission-12.0.2) (2022-06-07)
 
 #### 修复
 
@@ -158,7 +158,7 @@
 
 <a name="transmission-12.0.1"></a>
 
-### [transmission-12.0.1](https://github.com/truecharts/apps/compare/transmission-11.0.19...transmission-12.0.1) (2022-06-07)
+### [传输-12.0.1](https://github.com/truecharts/apps/compare/transmission-11.0.19...transmission-12.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -178,7 +178,7 @@
 
 <a name="transmission-12.0.0"></a>
 
-### [transmission-12.0.0](https://github.com/truecharts/apps/compare/transmission-11.0.19...transmission-12.0.0) (2022-06-07)
+### [传输-12.0.0](https://github.com/truecharts/apps/compare/transmission-11.0.19...transmission-12.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -192,7 +192,7 @@
 
 <a name="transmission-11.0.19"></a>
 
-### [transmission-11.0.19](https://github.com/truecharts/apps/compare/transmission-11.0.18...transmission-11.0.19) (2022-05-31)
+### [传输-11.0.19](https://github.com/truecharts/apps/compare/transmission-11.0.18...transmission-11.0.19) (2022-05-31)
 
 #### 聊天
 
@@ -202,7 +202,7 @@
 
 <a name="transmission-11.0.18"></a>
 
-### [transmission-11.0.18](https://github.com/truecharts/apps/compare/transmission-11.0.17...transmission-11.0.18) (2022-05-26)
+### [传输-11.0.18](https://github.com/truecharts/apps/compare/transmission-11.0.17...transmission-11.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -213,7 +213,7 @@
 
 <a name="transmission-11.0.18"></a>
 
-### [transmission-11.0.18](https://github.com/truecharts/apps/compare/transmission-11.0.17...transmission-11.0.18) (2022-05-26)
+### [传输-11.0.18](https://github.com/truecharts/apps/compare/transmission-11.0.17...transmission-11.0.18) (2022-05-26)
 
 #### 聊天
 
@@ -223,7 +223,7 @@
 
 <a name="transmission-11.0.17"></a>
 
-### [transmission-11.0.17](https://github.com/truecharts/apps/compare/transmission-11.0.16...transmission-11.0.17) (2022-05-24)
+### [传输-11.0.17](https://github.com/truecharts/apps/compare/transmission-11.0.16...transmission-11.0.17) (2022-05-24)
 
 #### 聊天
 
@@ -233,7 +233,7 @@
 
 <a name="transmission-11.0.16"></a>
 
-### [transmission-11.0.16](https://github.com/truecharts/apps/compare/transmission-11.0.15...transmission-11.0.16) (2022-05-17)
+### [传输-11.0.16](https://github.com/truecharts/apps/compare/transmission-11.0.15...transmission-11.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -244,7 +244,7 @@
 
 <a name="transmission-11.0.16"></a>
 
-### [transmission-11.0.16](https://github.com/truecharts/apps/compare/transmission-11.0.15...transmission-11.0.16) (2022-05-17)
+### [传输-11.0.16](https://github.com/truecharts/apps/compare/transmission-11.0.15...transmission-11.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -254,7 +254,7 @@
 
 <a name="transmission-11.0.15"></a>
 
-### [transmission-11.0.15](https://github.com/truecharts/apps/compare/transmission-11.0.14...transmission-11.0.15) (2022-05-17)
+### [传输-11.0.15](https://github.com/truecharts/apps/compare/transmission-11.0.14...transmission-11.0.15) (2022-05-17)
 
 #### 聊天
 
@@ -264,7 +264,7 @@
 
 <a name="transmission-11.0.14"></a>
 
-### [transmission-11.0.14](https://github.com/truecharts/apps/compare/transmission-11.0.13...transmission-11.0.14) (2022-05-10)
+### [传输-11.0.14](https://github.com/truecharts/apps/compare/transmission-11.0.13...transmission-11.0.14) (2022-05-10)
 
 #### 聊天
 
@@ -274,7 +274,7 @@
 
 <a name="transmission-11.0.13"></a>
 
-### [transmission-11.0.13](https://github.com/truecharts/apps/compare/transmission-11.0.12...transmission-11.0.13) (2022-05-05)
+### [传输-11.0.13](https://github.com/truecharts/apps/compare/transmission-11.0.12...transmission-11.0.13) (2022-05-05)
 
 #### 聊天
 
@@ -284,7 +284,7 @@
 
 <a name="transmission-11.0.12"></a>
 
-### [transmission-11.0.12](https://github.com/truecharts/apps/compare/transmission-11.0.11...transmission-11.0.12) (2022-04-26)
+### [传输-11.0.12](https://github.com/truecharts/apps/compare/transmission-11.0.11...transmission-11.0.12) (2022-04-26)
 
 #### 聊天
 
@@ -294,7 +294,7 @@
 
 <a name="transmission-11.0.11"></a>
 
-### [transmission-11.0.11](https://github.com/truecharts/apps/compare/transmission-11.0.10...transmission-11.0.11) (2022-04-20)
+### [传输-11.0.11](https://github.com/truecharts/apps/compare/transmission-11.0.10...transmission-11.0.11) (2022-04-20)
 
 #### 聊天
 
@@ -305,7 +305,7 @@
 
 <a name="transmission-11.0.10"></a>
 
-### [transmission-11.0.10](https://github.com/truecharts/apps/compare/transmission-11.0.9...transmission-11.0.10) (2022-04-12)
+### [传输-11.0.10](https://github.com/truecharts/apps/compare/transmission-11.0.9...transmission-11.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -315,7 +315,7 @@
 
 <a name="transmission-11.0.9"></a>
 
-### [transmission-11.0.9](https://github.com/truecharts/apps/compare/transmission-11.0.8...transmission-11.0.9) (2022-04-03)
+### [传输-11.0.9](https://github.com/truecharts/apps/compare/transmission-11.0.8...transmission-11.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -325,7 +325,7 @@
 
 <a name="transmission-11.0.8"></a>
 
-### [transmission-11.0.8](https://github.com/truecharts/apps/compare/transmission-11.0.7...transmission-11.0.8) (2022-03-31)
+### [传输-11.0.8](https://github.com/truecharts/apps/compare/transmission-11.0.7...transmission-11.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -335,7 +335,7 @@
 
 <a name="transmission-11.0.7"></a>
 
-### [transmission-11.0.7](https://github.com/truecharts/apps/compare/transmission-11.0.6...transmission-11.0.7) (2022-03-30)
+### [传输-11.0.7](https://github.com/truecharts/apps/compare/transmission-11.0.6...transmission-11.0.7) (2022-03-30)
 
 #### 聊天
 
@@ -345,7 +345,7 @@
 
 <a name="transmission-11.0.6"></a>
 
-### [transmission-11.0.6](https://github.com/truecharts/apps/compare/transmission-11.0.5...transmission-11.0.6) (2022-03-26)
+### [传输-11.0.6](https://github.com/truecharts/apps/compare/transmission-11.0.5...transmission-11.0.6) (2022-03-26)
 
 #### 聊天
 
@@ -355,7 +355,7 @@
 
 <a name="transmission-11.0.1"></a>
 
-### [transmission-11.0.1](https://github.com/truecharts/apps/compare/transmission-11.0.0...transmission-11.0.1) (2022-03-07)
+### [传输-11.0.1](https://github.com/truecharts/apps/compare/transmission-11.0.0...transmission-11.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -366,7 +366,7 @@
 
 <a name="transmission-11.0.0"></a>
 
-### [transmission-11.0.0](https://github.com/truecharts/apps/compare/transmission-10.0.24...transmission-11.0.0) (2022-03-03)
+### [传输-11.0.0](https://github.com/truecharts/apps/compare/transmission-10.0.24...transmission-11.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -382,7 +382,7 @@
 
 <a name="transmission-10.0.24"></a>
 
-### [transmission-10.0.24](https://github.com/truecharts/apps/compare/transmission-10.0.23...transmission-10.0.24) (2022-03-02)
+### [传输 10.0.24](https://github.com/truecharts/apps/compare/transmission-10.0.23...transmission-10.0.24) (2022-03-02)
 
 #### 聊天
 
@@ -393,7 +393,7 @@
 
 <a name="transmission-10.0.23"></a>
 
-### [transmission-10.0.23](https://github.com/truecharts/apps/compare/transmission-10.0.22...transmission-10.0.23) (2022-02-21)
+### [传输-10.0.23](https://github.com/truecharts/apps/compare/transmission-10.0.22...transmission-10.0.23) (2022-02-21)
 
 #### 聊天
 
@@ -403,7 +403,7 @@
 
 <a name="transmission-10.0.22"></a>
 
-### [transmission-10.0.22](https://github.com/truecharts/apps/compare/transmission-10.0.21...transmission-10.0.22) (2022-02-15)
+### [传输 10.0.22](https://github.com/truecharts/apps/compare/transmission-10.0.21...transmission-10.0.22) (2022-02-15)
 
 #### 聊天
 
@@ -413,7 +413,7 @@
 
 <a name="transmission-10.0.21"></a>
 
-### [transmission-10.0.21](https://github.com/truecharts/apps/compare/transmission-10.0.20...transmission-10.0.21) (2022-02-08)
+### [传输 10.0.21](https://github.com/truecharts/apps/compare/transmission-10.0.20...transmission-10.0.21) (2022-02-08)
 
 #### 聊天
 
@@ -423,7 +423,7 @@
 
 <a name="transmission-10.0.20"></a>
 
-### [transmission-10.0.20](https://github.com/truecharts/apps/compare/transmission-10.0.19...transmission-10.0.20) (2022-02-06)
+### [传输 10.0.20](https://github.com/truecharts/apps/compare/transmission-10.0.19...transmission-10.0.20) (2022-02-06)
 
 #### 聊天
 
@@ -433,7 +433,7 @@
 
 <a name="transmission-10.0.19"></a>
 
-### [transmission-10.0.19](https://github.com/truecharts/apps/compare/transmission-10.0.18...transmission-10.0.19) (2022-02-05)
+### [传输 10.0.19](https://github.com/truecharts/apps/compare/transmission-10.0.18...transmission-10.0.19) (2022-02-05)
 
 #### 聊天
 
@@ -443,7 +443,7 @@
 
 <a name="transmission-10.0.18"></a>
 
-### [transmission-10.0.18](https://github.com/truecharts/apps/compare/transmission-10.0.17...transmission-10.0.18) (2022-02-02)
+### [传输 10.0.18](https://github.com/truecharts/apps/compare/transmission-10.0.17...transmission-10.0.18) (2022-02-02)
 
 #### 聊天
 
@@ -453,7 +453,7 @@
 
 <a name="transmission-10.0.17"></a>
 
-### [transmission-10.0.17](https://github.com/truecharts/apps/compare/transmission-10.0.16...transmission-10.0.17) (2022-01-25)
+### [传输 10.0.17](https://github.com/truecharts/apps/compare/transmission-10.0.16...transmission-10.0.17) (2022-01-25)
 
 #### 聊天
 
@@ -463,7 +463,7 @@
 
 <a name="transmission-10.0.16"></a>
 
-### [transmission-10.0.16](https://github.com/truecharts/apps/compare/transmission-10.0.15...transmission-10.0.16) (2022-01-22)
+### [传输 10.0.16](https://github.com/truecharts/apps/compare/transmission-10.0.15...transmission-10.0.16) (2022-01-22)
 
 #### 聊天
 
@@ -473,7 +473,7 @@
 
 <a name="transmission-10.0.15"></a>
 
-### [transmission-10.0.15](https://github.com/truecharts/apps/compare/transmission-10.0.14...transmission-10.0.15) (2022-01-21)
+### [传输 10.0.15](https://github.com/truecharts/apps/compare/transmission-10.0.14...transmission-10.0.15) (2022-01-21)
 
 #### 聊天
 
@@ -487,7 +487,7 @@
 
 <a name="transmission-10.0.14"></a>
 
-### [transmission-10.0.14](https://github.com/truecharts/apps/compare/transmission-10.0.13...transmission-10.0.14) (2022-01-18)
+### [传输 10.0.14](https://github.com/truecharts/apps/compare/transmission-10.0.13...transmission-10.0.14) (2022-01-18)
 
 #### 聊天
 
@@ -497,7 +497,7 @@
 
 <a name="transmission-10.0.13"></a>
 
-### [transmission-10.0.13](https://github.com/truecharts/apps/compare/transmission-10.0.12...transmission-10.0.13) (2022-01-13)
+### [传输 10.0.13](https://github.com/truecharts/apps/compare/transmission-10.0.12...transmission-10.0.13) (2022-01-13)
 
 #### 聊天
 
@@ -511,7 +511,7 @@
 
 <a name="transmission-10.0.12"></a>
 
-### [transmission-10.0.12](https://github.com/truecharts/apps/compare/transmission-10.0.11...transmission-10.0.12) (2022-01-12)
+### [传输 10.0.12](https://github.com/truecharts/apps/compare/transmission-10.0.11...transmission-10.0.12) (2022-01-12)
 
 #### 聊天
 
@@ -521,7 +521,7 @@
 
 <a name="transmission-10.0.11"></a>
 
-### [transmission-10.0.11](https://github.com/truecharts/apps/compare/transmission-10.0.10...transmission-10.0.11) (2022-01-11)
+### [传输 10.0.11](https://github.com/truecharts/apps/compare/transmission-10.0.10...transmission-10.0.11) (2022-01-11)
 
 #### 聊天
 
@@ -531,7 +531,7 @@
 
 <a name="transmission-10.0.10"></a>
 
-### [transmission-10.0.10](https://github.com/truecharts/apps/compare/transmission-10.0.9...transmission-10.0.10) (2022-01-04)
+### [传输 10.0.10](https://github.com/truecharts/apps/compare/transmission-10.0.9...transmission-10.0.10) (2022-01-04)
 
 #### 聊天
 
@@ -541,7 +541,7 @@
 
 <a name="transmission-10.0.9"></a>
 
-### [transmission-10.0.9](https://github.com/truecharts/apps/compare/transmission-10.0.8...transmission-10.0.9) (2021-12-28)
+### [传输 10.0.9](https://github.com/truecharts/apps/compare/transmission-10.0.8...transmission-10.0.9) (2021-12-28)
 
 #### 聊天
 
@@ -551,7 +551,7 @@
 
 <a name="transmission-10.0.8"></a>
 
-### [transmission-10.0.8](https://github.com/truecharts/apps/compare/transmission-10.0.7...transmission-10.0.8) (2021-12-21)
+### [传输 10.0.8](https://github.com/truecharts/apps/compare/transmission-10.0.7...transmission-10.0.8) (2021-12-21)
 
 #### 聊天
 
@@ -561,7 +561,7 @@
 
 <a name="transmission-10.0.7"></a>
 
-### [transmission-10.0.7](https://github.com/truecharts/apps/compare/transmission-10.0.6...transmission-10.0.7) (2021-12-21)
+### [传输 10.0.7](https://github.com/truecharts/apps/compare/transmission-10.0.6...transmission-10.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -571,7 +571,7 @@
 
 <a name="transmission-10.0.6"></a>
 
-### [transmission-10.0.6](https://github.com/truecharts/apps/compare/transmission-10.0.5...transmission-10.0.6) (2021-12-19)
+### [传输 10.0.6](https://github.com/truecharts/apps/compare/transmission-10.0.5...transmission-10.0.6) (2021-12-19)
 
 #### 聊天
 
@@ -583,7 +583,7 @@
 
 <a name="transmission-10.0.5"></a>
 
-### [transmission-10.0.5](https://github.com/truecharts/apps/compare/transmission-10.0.4...transmission-10.0.5) (2021-12-19)
+### [传输 10.0.5](https://github.com/truecharts/apps/compare/transmission-10.0.4...transmission-10.0.5) (2021-12-19)
 
 #### 聊天
 
@@ -594,7 +594,7 @@
 
 <a name="transmission-10.0.4"></a>
 
-### [transmission-10.0.4](https://github.com/truecharts/apps/compare/transmission-10.0.3...transmission-10.0.4) (2021-12-18)
+### [传输 10.0.4](https://github.com/truecharts/apps/compare/transmission-10.0.3...transmission-10.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -605,7 +605,7 @@
 
 <a name="transmission-10.0.3"></a>
 
-### [transmission-10.0.3](https://github.com/truecharts/apps/compare/transmission-10.0.2...transmission-10.0.3) (2021-12-14)
+### [传输 10.0.3](https://github.com/truecharts/apps/compare/transmission-10.0.2...transmission-10.0.3) (2021-12-14)
 
 #### 聊天
 
@@ -615,7 +615,7 @@
 
 <a name="transmission-10.0.2"></a>
 
-### [transmission-10.0.2](https://github.com/truecharts/apps/compare/transmission-10.0.1...transmission-10.0.2) (2021-12-13)
+### [传输 10.0.2](https://github.com/truecharts/apps/compare/transmission-10.0.1...transmission-10.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -625,7 +625,7 @@
 
 <a name="transmission-10.0.1"></a>
 
-### [transmission-10.0.1](https://github.com/truecharts/apps/compare/transmission-10.0.0...transmission-10.0.1) (2021-12-11)
+### [传输 10.0.1](https://github.com/truecharts/apps/compare/transmission-10.0.0...transmission-10.0.1) (2021-12-11)
 
 #### 聊天
 
@@ -635,7 +635,7 @@
 
 <a name="transmission-10.0.0"></a>
 
-### [transmission-10.0.0](https://github.com/truecharts/apps/compare/transmission-9.0.21...transmission-10.0.0) (2021-12-11)
+### [传输 10.0.0](https://github.com/truecharts/apps/compare/transmission-9.0.21...transmission-10.0.0) (2021-12-11)
 
 #### Feat
 
@@ -645,7 +645,7 @@
 
 <a name="transmission-9.0.21"></a>
 
-### [transmission-9.0.21](https://github.com/truecharts/apps/compare/transmission-9.0.20...transmission-9.0.21) (2021-12-07)
+### [传输-9.0.21](https://github.com/truecharts/apps/compare/transmission-9.0.20...transmission-9.0.21) (2021-12-07)
 
 #### 聊天
 
@@ -655,7 +655,7 @@
 
 <a name="transmission-9.0.20"></a>
 
-### transmission-9.0.20 (2021-12-05)
+### 传输-9.0.20 (2021-12-05)
 
 #### 聊天
 
@@ -670,14 +670,14 @@
 #### 修复
 
 * 修复主题选择中的类型([#1428](https://github.com/truecharts/apps/issues/1428))
-* ensure port settings are correct inside transmission ([#1445](https://github.com/truecharts/apps/issues/1445))
-* correct typo in env's
+* 确保传输中的端口设置是正确的([#1445](https://github.com/truecharts/apps/issues/1445))
+* 在 env 中正确的类型
 
 
 
 <a name="transmission-9.0.19"></a>
 
-### [transmission-9.0.19](https://github.com/truecharts/apps/compare/transmission-9.0.18...transmission-9.0.19) (2021-12-05)
+### [传输-9.0.19](https://github.com/truecharts/apps/compare/transmission-9.0.18...transmission-9.0.19) (2021-12-05)
 
 #### 聊天
 
@@ -687,7 +687,7 @@
 
 <a name="transmission-9.0.18"></a>
 
-### [transmission-9.0.18](https://github.com/truecharts/apps/compare/transmission-9.0.17...transmission-9.0.18) (2021-12-04)
+### [传输-9.0.18](https://github.com/truecharts/apps/compare/transmission-9.0.17...transmission-9.0.18) (2021-12-04)
 
 #### 聊天
 
@@ -697,7 +697,7 @@
 
 <a name="transmission-9.0.17"></a>
 
-### [transmission-9.0.17](https://github.com/truecharts/apps/compare/transmission-9.0.16...transmission-9.0.17) (2021-12-04)
+### [传输-9.0.17](https://github.com/truecharts/apps/compare/transmission-9.0.16...transmission-9.0.17) (2021-12-04)
 
 #### 聊天
 
@@ -707,7 +707,7 @@
 
 <a name="transmission-9.0.16"></a>
 
-### [transmission-9.0.16](https://github.com/truecharts/apps/compare/transmission-9.0.15...transmission-9.0.16) (2021-12-03)
+### [传输-9.0.16](https://github.com/truecharts/apps/compare/transmission-9.0.15...transmission-9.0.16) (2021-12-03)
 
 #### 聊天
 
@@ -718,21 +718,21 @@
 
 <a name="transmission-9.0.15"></a>
 
-### [transmission-9.0.15](https://github.com/truecharts/apps/compare/transmission-9.0.14...transmission-9.0.15) (2021-12-02)
+### [传输-9.0.15](https://github.com/truecharts/apps/compare/transmission-9.0.14...transmission-9.0.15) (2021-12-02)
 
 #### 修复
 
-* ensure port settings are correct inside transmission ([#1445](https://github.com/truecharts/apps/issues/1445))
+* 确保传输中的端口设置是正确的([#1445](https://github.com/truecharts/apps/issues/1445))
 
 
 
 <a name="transmission-9.0.14"></a>
 
-### [transmission-9.0.14](https://github.com/truecharts/apps/compare/transmission-9.0.13...transmission-9.0.14) (2021-11-30)
+### [传输-9.0.14](https://github.com/truecharts/apps/compare/transmission-9.0.13...transmission-9.0.14) (2021-11-30)
 
 #### 更改
 
-* use different default ports
+* 使用不同的默认端口
 
 #### 聊天
 
@@ -740,13 +740,13 @@
 
 #### 修复
 
-* correct typo in env's
+* 在 env 中正确的类型
 
 
 
 <a name="transmission-9.0.13"></a>
 
-### [transmission-9.0.13](https://github.com/truecharts/apps/compare/transmission-9.0.12...transmission-9.0.13) (2021-11-23)
+### [传输-9.0.13](https://github.com/truecharts/apps/compare/transmission-9.0.12...transmission-9.0.13) (2021-11-23)
 
 #### 聊天
 
@@ -756,7 +756,7 @@
 
 <a name="transmission-9.0.12"></a>
 
-### [transmission-9.0.12](https://github.com/truecharts/apps/compare/transmission-9.0.11...transmission-9.0.12) (2021-11-22)
+### [传输-9.0.12](https://github.com/truecharts/apps/compare/transmission-9.0.11...transmission-9.0.12) (2021-11-22)
 
 #### 聊天
 
@@ -770,7 +770,7 @@
 
 <a name="transmission-9.0.11"></a>
 
-### [transmission-9.0.11](https://github.com/truecharts/apps/compare/transmission-9.0.10...transmission-9.0.11) (2021-11-16)
+### [传输-9.0.11](https://github.com/truecharts/apps/compare/transmission-9.0.10...transmission-9.0.11) (2021-11-16)
 
 #### 聊天
 
@@ -780,7 +780,7 @@
 
 <a name="transmission-9.0.10"></a>
 
-### [transmission-9.0.10](https://github.com/truecharts/apps/compare/transmission-9.0.9...transmission-9.0.10) (2021-11-15)
+### [传输-9.0.10](https://github.com/truecharts/apps/compare/transmission-9.0.9...transmission-9.0.10) (2021-11-15)
 
 #### 聊天
 
@@ -791,7 +791,7 @@
 
 <a name="transmission-9.0.9"></a>
 
-### [transmission-9.0.9](https://github.com/truecharts/apps/compare/transmission-9.0.8...transmission-9.0.9) (2021-11-14)
+### [传输-9.0.9](https://github.com/truecharts/apps/compare/transmission-9.0.8...transmission-9.0.9) (2021-11-14)
 
 #### 聊天
 
@@ -809,7 +809,7 @@
 
 <a name="transmission-9.0.8"></a>
 
-### [transmission-9.0.8](https://github.com/truecharts/apps/compare/transmission-9.0.7...transmission-9.0.8) (2021-11-09)
+### [传输-9.0.8](https://github.com/truecharts/apps/compare/transmission-9.0.7...transmission-9.0.8) (2021-11-09)
 
 #### 聊天
 
@@ -819,17 +819,17 @@
 
 <a name="transmission-9.0.7"></a>
 
-### [transmission-9.0.7](https://github.com/truecharts/apps/compare/transmission-9.0.6...transmission-9.0.7) (2021-11-08)
+### [传输-9.0.7](https://github.com/truecharts/apps/compare/transmission-9.0.6...transmission-9.0.7) (2021-11-08)
 
 #### 修复
 
-* Split torrent service to allow for the use of LoadBalancer servicetype
+* 拆分种子服务以允许使用 LoadBalancer 服务类型
 
 
 
 <a name="transmission-9.0.6"></a>
 
-### [transmission-9.0.6](https://github.com/truecharts/apps/compare/transmission-9.0.5...transmission-9.0.6) (2021-11-07)
+### [传输-9.0.6](https://github.com/truecharts/apps/compare/transmission-9.0.5...transmission-9.0.6) (2021-11-07)
 
 #### 聊天
 
@@ -839,7 +839,7 @@
 
 <a name="transmission-9.0.5"></a>
 
-### [transmission-9.0.5](https://github.com/truecharts/apps/compare/transmission-9.0.4...transmission-9.0.5) (2021-11-07)
+### [传输-9.0.5](https://github.com/truecharts/apps/compare/transmission-9.0.4...transmission-9.0.5) (2021-11-07)
 
 #### 聊天
 
@@ -857,7 +857,7 @@
 
 <a name="transmission-9.0.4"></a>
 
-### [transmission-9.0.4](https://github.com/truecharts/apps/compare/transmission-9.0.3...transmission-9.0.4) (2021-11-02)
+### [传输-9.0.4](https://github.com/truecharts/apps/compare/transmission-9.0.3...transmission-9.0.4) (2021-11-02)
 
 #### 聊天
 
@@ -867,7 +867,7 @@
 
 <a name="transmission-9.0.3"></a>
 
-### [transmission-9.0.3](https://github.com/truecharts/apps/compare/transmission-9.0.2...transmission-9.0.3) (2021-11-01)
+### [传输-9.0.3](https://github.com/truecharts/apps/compare/transmission-9.0.2...transmission-9.0.3) (2021-11-01)
 
 #### 聊天
 
@@ -877,7 +877,7 @@
 
 <a name="transmission-9.0.2"></a>
 
-### [transmission-9.0.2](https://github.com/truecharts/apps/compare/transmission-9.0.1...transmission-9.0.2) (2021-10-26)
+### [传输-9.0.2](https://github.com/truecharts/apps/compare/transmission-9.0.1...transmission-9.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -887,7 +887,7 @@
 
 <a name="transmission-9.0.1"></a>
 
-### [transmission-9.0.1](https://github.com/truecharts/apps/compare/transmission-9.0.0...transmission-9.0.1) (2021-10-26)
+### [传输-9.0.1](https://github.com/truecharts/apps/compare/transmission-9.0.0...transmission-9.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -897,7 +897,7 @@
 
 <a name="transmission-9.0.0"></a>
 
-### [transmission-9.0.0](https://github.com/truecharts/apps/compare/transmission-8.0.16...transmission-9.0.0) (2021-10-25)
+### [传输 9.0.0](https://github.com/truecharts/apps/compare/transmission-8.0.16...transmission-9.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -907,12 +907,12 @@
 
 <a name="transmission-8.0.16"></a>
 
-### [transmission-8.0.16](https://github.com/truecharts/apps/compare/transmission-8.0.13...transmission-8.0.16) (2021-10-20)
+### [传输-8.0.16](https://github.com/truecharts/apps/compare/transmission-8.0.13...transmission-8.0.16) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -923,7 +923,7 @@
 
 <a name="transmission-8.0.13"></a>
 
-### [transmission-8.0.13](https://github.com/truecharts/apps/compare/transmission-8.0.12...transmission-8.0.13) (2021-10-20)
+### [传输-8.0.13](https://github.com/truecharts/apps/compare/transmission-8.0.12...transmission-8.0.13) (2021-10-20)
 
 #### 聊天
 
@@ -933,7 +933,7 @@
 
 <a name="transmission-8.0.12"></a>
 
-### [transmission-8.0.12](https://github.com/truecharts/apps/compare/transmission-8.0.11...transmission-8.0.12) (2021-10-19)
+### [传输-8.0.12](https://github.com/truecharts/apps/compare/transmission-8.0.11...transmission-8.0.12) (2021-10-19)
 
 #### 更改
 
@@ -957,7 +957,7 @@
 
 <a name="transmission-8.0.11"></a>
 
-### [transmission-8.0.11](https://github.com/truecharts/apps/compare/transmission-8.0.10...transmission-8.0.11) (2021-10-19)
+### [传输-8.0.11](https://github.com/truecharts/apps/compare/transmission-8.0.10...transmission-8.0.11) (2021-10-19)
 
 #### 修复
 
@@ -967,7 +967,7 @@
 
 <a name="transmission-8.0.10"></a>
 
-### [transmission-8.0.10](https://github.com/truecharts/apps/compare/transmission-8.0.9...transmission-8.0.10) (2021-10-19)
+### [传输-8.0.10](https://github.com/truecharts/apps/compare/transmission-8.0.9...transmission-8.0.10) (2021-10-19)
 
 #### 修复
 
@@ -977,7 +977,7 @@
 
 <a name="transmission-8.0.9"></a>
 
-### [transmission-8.0.9](https://github.com/truecharts/apps/compare/transmission-8.0.8...transmission-8.0.9) (2021-10-18)
+### [传输-8.0.9](https://github.com/truecharts/apps/compare/transmission-8.0.8...transmission-8.0.9) (2021-10-18)
 
 #### 聊天
 
@@ -991,7 +991,7 @@
 
 <a name="transmission-8.0.8"></a>
 
-### [transmission-8.0.8](https://github.com/truecharts/apps/compare/transmission-8.0.7...transmission-8.0.8) (2021-10-17)
+### [传输-8.0.8](https://github.com/truecharts/apps/compare/transmission-8.0.7...transmission-8.0.8) (2021-10-17)
 
 #### 聊天
 
@@ -1005,7 +1005,7 @@
 
 <a name="transmission-8.0.7"></a>
 
-### [transmission-8.0.7](https://github.com/truecharts/apps/compare/transmission-8.0.6...transmission-8.0.7) (2021-10-13)
+### [传输-8.0.7](https://github.com/truecharts/apps/compare/transmission-8.0.6...transmission-8.0.7) (2021-10-13)
 
 #### 聊天
 
@@ -1015,7 +1015,7 @@
 
 <a name="transmission-8.0.6"></a>
 
-### [transmission-8.0.6](https://github.com/truecharts/apps/compare/transmission-8.0.5...transmission-8.0.6) (2021-10-12)
+### [传输-8.0.6](https://github.com/truecharts/apps/compare/transmission-8.0.5...transmission-8.0.6) (2021-10-12)
 
 #### 聊天
 
@@ -1025,7 +1025,7 @@
 
 <a name="transmission-8.0.5"></a>
 
-### [transmission-8.0.5](https://github.com/truecharts/apps/compare/transmission-8.0.4...transmission-8.0.5) (2021-10-12)
+### [传输-8.0.5](https://github.com/truecharts/apps/compare/transmission-8.0.4...transmission-8.0.5) (2021-10-12)
 
 #### 聊天
 
@@ -1035,7 +1035,7 @@
 
 <a name="transmission-8.0.4"></a>
 
-### [transmission-8.0.4](https://github.com/truecharts/apps/compare/transmission-8.0.3...transmission-8.0.4) (2021-10-05)
+### [传输-8.0.4](https://github.com/truecharts/apps/compare/transmission-8.0.3...transmission-8.0.4) (2021-10-05)
 
 #### 聊天
 
@@ -1045,7 +1045,7 @@
 
 <a name="transmission-8.0.3"></a>
 
-### [transmission-8.0.3](https://github.com/truecharts/apps/compare/transmission-8.0.2...transmission-8.0.3) (2021-09-29)
+### [传输-8.0.3](https://github.com/truecharts/apps/compare/transmission-8.0.2...transmission-8.0.3) (2021-09-29)
 
 #### 聊天
 
@@ -1055,19 +1055,19 @@
 
 <a name="transmission-8.0.1"></a>
 
-### [transmission-8.0.1](https://github.com/truecharts/apps/compare/transmission-8.0.0...transmission-8.0.1) (2021-09-26)
+### [传输-8.0.1](https://github.com/truecharts/apps/compare/transmission-8.0.0...transmission-8.0.1) (2021-09-26)
 
 
 
 <a name="transmission-8.0.0"></a>
 
-### [transmission-8.0.0](https://github.com/truecharts/apps/compare/transmission-7.0.2...transmission-8.0.0) (2021-09-26)
+### [传输-8.0.0](https://github.com/truecharts/apps/compare/transmission-7.0.2...transmission-8.0.0) (2021-09-26)
 
 
 
 <a name="transmission-7.0.2"></a>
 
-### [transmission-7.0.2](https://github.com/truecharts/apps/compare/transmission-7.0.1...transmission-7.0.2) (2021-09-21)
+### [传输-7.0.2](https://github.com/truecharts/apps/compare/transmission-7.0.1...transmission-7.0.2) (2021-09-21)
 
 #### 聊天
 
@@ -1077,7 +1077,7 @@
 
 <a name="transmission-7.0.1"></a>
 
-### [transmission-7.0.1](https://github.com/truecharts/apps/compare/transmission-6.11.16...transmission-7.0.1) (2021-09-13)
+### [传输-7.0.1](https://github.com/truecharts/apps/compare/transmission-6.11.16...transmission-7.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1096,7 +1096,7 @@
 
 <a name="transmission-6.11.16"></a>
 
-## [transmission-6.11.16](https://github.com/truecharts/apps/compare/transmission-6.11.15...transmission-6.11.16) (2021-09-08)
+## [传输-6.11.16](https://github.com/truecharts/apps/compare/transmission-6.11.15...transmission-6.11.16) (2021-09-08)
 
 ### 修复
 
