@@ -477,7 +477,7 @@
 
 #### 修复
 
-* force disable nvidia, if no gpu is assigned ([#1817](https://github.com/truecharts/apps/issues/1817))
+* 强制禁用 nvidia ，如果没有 gpu 被分配([#1817](https://github.com/truecharts/apps/issues/1817))
 
 
 
@@ -487,7 +487,7 @@
 
 #### 修复
 
-* fix UI (duplicate persistence) ([#1814](https://github.com/truecharts/apps/issues/1814))
+* 修复 UI (重复持久性) ([#1814](https://github.com/truecharts/apps/issues/1814))
 
 
 
@@ -497,4 +497,4 @@
 
 #### 修复
 
-* Fix permissions and add healthcheck path ([#1809](https://github.com/truecharts/apps/issues/1809))
+* 修复权限并添加健康检查路径([#1809](https://github.com/truecharts/apps/issues/1809))
