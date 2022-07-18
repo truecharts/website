@@ -58,7 +58,7 @@
 
    APPENDIX: Wie man die Apache-Lizenz auf Ihr Werk anwendet.
 
-      Um die Apache-Lizenz auf Ihr Werk anzuwenden, fügen Sie folgende Boilerplate Nachricht bei, mit den Feldern, die durch Klammern "[]" umschlossen sind, ersetzt durch Ihre eigenen Identifikationsdaten. ( die Klammern nicht enthalten!)  Der Text sollte in die entsprechende Kommentarsyntax für das Dateiformat eingefügt werden. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
+      Um die Apache-Lizenz auf Ihr Werk anzuwenden, fügen Sie folgende Boilerplate Nachricht bei, mit den Feldern, die durch Klammern "[]" umschlossen sind, ersetzt durch Ihre eigenen Identifikationsdaten. ( die Klammern nicht enthalten!)  ( die Klammern nicht enthalten!)  Der Text sollte in die entsprechende Kommentarsyntax für das Dateiformat eingefügt werden. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
 
    Copyright 2020 k8s@Home
 
