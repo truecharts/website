@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [website-shot-2.0.18](https://github.com/truecharts/apps/compare/website-shot-2.0.17...website-shot-2.0.18) (2022-07-14)
+## [网站 shot-2.0.18](https://github.com/truecharts/apps/compare/website-shot-2.0.17...website-shot-2.0.18) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [website-shot-2.0.17](https://github.com/truecharts/apps/compare/website-shot-2.0.15...website-shot-2.0.17) (2022-07-14)
+## [网站 shot-2.0.17](https://github.com/truecharts/apps/compare/website-shot-2.0.15...website-shot-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [website-shot-2.0.15](https://github.com/truecharts/apps/compare/website-shot-2.0.13...website-shot-2.0.15) (2022-07-12)
+## [网站Short-2.0.15](https://github.com/truecharts/apps/compare/website-shot-2.0.13...website-shot-2.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [website-shot-2.0.13](https://github.com/truecharts/apps/compare/website-shot-2.0.12...website-shot-2.0.13) (2022-07-12)
+## [网站 2.0.13](https://github.com/truecharts/apps/compare/website-shot-2.0.12...website-shot-2.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="website-shot-2.0.12"></a>
 
-### [website-shot-2.0.12](https://github.com/truecharts/apps/compare/website-shot-2.0.11...website-shot-2.0.12) (2022-07-12)
+### [网站 shot-2.0.12](https://github.com/truecharts/apps/compare/website-shot-2.0.11...website-shot-2.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="website-shot-2.0.11"></a>
 
-### [website-shot-2.0.11](https://github.com/truecharts/apps/compare/website-shot-2.0.10...website-shot-2.0.11) (2022-07-11)
+### [网站 shot-2.0.11](https://github.com/truecharts/apps/compare/website-shot-2.0.10...website-shot-2.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="website-shot-2.0.10"></a>
 
-### [website-shot-2.0.10](https://github.com/truecharts/apps/compare/website-shot-2.0.9...website-shot-2.0.10) (2022-07-09)
+### [网站 shot-2.0.10](https://github.com/truecharts/apps/compare/website-shot-2.0.9...website-shot-2.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="website-shot-2.0.9"></a>
 
-### [website-shot-2.0.9](https://github.com/truecharts/apps/compare/website-shot-2.0.8...website-shot-2.0.9) (2022-07-04)
+### [网站Short-2.0.9](https://github.com/truecharts/apps/compare/website-shot-2.0.8...website-shot-2.0.9) (2022-07-04)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="website-shot-2.0.8"></a>
 
-### [website-shot-2.0.8](https://github.com/truecharts/apps/compare/website-shot-2.0.7...website-shot-2.0.8) (2022-06-25)
+### [网站Short-2.0.8](https://github.com/truecharts/apps/compare/website-shot-2.0.7...website-shot-2.0.8) (2022-06-25)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="website-shot-2.0.7"></a>
 
-### [website-shot-2.0.7](https://github.com/truecharts/apps/compare/website-shot-2.0.6...website-shot-2.0.7) (2022-06-22)
+### [网站Short-2.0.7](https://github.com/truecharts/apps/compare/website-shot-2.0.6...website-shot-2.0.7) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="website-shot-2.0.6"></a>
 
-### [website-shot-2.0.6](https://github.com/truecharts/apps/compare/website-shot-2.0.5...website-shot-2.0.6) (2022-06-21)
+### [网站Short-2.0.6](https://github.com/truecharts/apps/compare/website-shot-2.0.5...website-shot-2.0.6) (2022-06-21)
 
 #### 聊天
 
@@ -107,7 +107,7 @@
 
 <a name="website-shot-2.0.5"></a>
 
-### [website-shot-2.0.5](https://github.com/truecharts/apps/compare/website-shot-2.0.4...website-shot-2.0.5) (2022-06-18)
+### [网站Short-2.0.5](https://github.com/truecharts/apps/compare/website-shot-2.0.4...website-shot-2.0.5) (2022-06-18)
 
 #### 聊天
 
@@ -117,7 +117,7 @@
 
 <a name="website-shot-2.0.4"></a>
 
-### [website-shot-2.0.4](https://github.com/truecharts/apps/compare/website-shot-2.0.3...website-shot-2.0.4) (2022-06-14)
+### [网站Short-2.0.4](https://github.com/truecharts/apps/compare/website-shot-2.0.3...website-shot-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -127,7 +127,7 @@
 
 <a name="website-shot-2.0.3"></a>
 
-### [website-shot-2.0.3](https://github.com/truecharts/apps/compare/website-shot-2.0.2...website-shot-2.0.3) (2022-06-11)
+### [网站 2.0.3](https://github.com/truecharts/apps/compare/website-shot-2.0.2...website-shot-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -137,7 +137,7 @@
 
 <a name="website-shot-2.0.2"></a>
 
-### [website-shot-2.0.2](https://github.com/truecharts/apps/compare/website-shot-2.0.1...website-shot-2.0.2) (2022-06-07)
+### [网站 shot-2.0.2](https://github.com/truecharts/apps/compare/website-shot-2.0.1...website-shot-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -147,7 +147,7 @@
 
 <a name="website-shot-2.0.1"></a>
 
-### [website-shot-2.0.1](https://github.com/truecharts/apps/compare/website-shot-1.0.9...website-shot-2.0.1) (2022-06-07)
+### [网站 short-2.0.1](https://github.com/truecharts/apps/compare/website-shot-1.0.9...website-shot-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -166,7 +166,7 @@
 
 <a name="website-shot-2.0.0"></a>
 
-### [website-shot-2.0.0](https://github.com/truecharts/apps/compare/website-shot-1.0.9...website-shot-2.0.0) (2022-06-07)
+### [网站 shot-2.0.0](https://github.com/truecharts/apps/compare/website-shot-1.0.9...website-shot-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -180,7 +180,7 @@
 
 <a name="website-shot-1.0.9"></a>
 
-### [website-shot-1.0.9](https://github.com/truecharts/apps/compare/website-shot-1.0.8...website-shot-1.0.9) (2022-05-31)
+### [网站 shot-1.0.9](https://github.com/truecharts/apps/compare/website-shot-1.0.8...website-shot-1.0.9) (2022-05-31)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="website-shot-1.0.8"></a>
 
-### [website-shot-1.0.8](https://github.com/truecharts/apps/compare/website-shot-1.0.7...website-shot-1.0.8) (2022-05-26)
+### [网站 shot-1.0.8](https://github.com/truecharts/apps/compare/website-shot-1.0.7...website-shot-1.0.8) (2022-05-26)
 
 #### 聊天
 
@@ -201,7 +201,7 @@
 
 <a name="website-shot-1.0.8"></a>
 
-### [website-shot-1.0.8](https://github.com/truecharts/apps/compare/website-shot-1.0.7...website-shot-1.0.8) (2022-05-26)
+### [网站 shot-1.0.8](https://github.com/truecharts/apps/compare/website-shot-1.0.7...website-shot-1.0.8) (2022-05-26)
 
 #### 聊天
 
@@ -211,7 +211,7 @@
 
 <a name="website-shot-1.0.7"></a>
 
-### [website-shot-1.0.7](https://github.com/truecharts/apps/compare/website-shot-1.0.6...website-shot-1.0.7) (2022-05-24)
+### [网站 shot-1.0.7](https://github.com/truecharts/apps/compare/website-shot-1.0.6...website-shot-1.0.7) (2022-05-24)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="website-shot-1.0.6"></a>
 
-### [website-shot-1.0.6](https://github.com/truecharts/apps/compare/website-shot-1.0.5...website-shot-1.0.6) (2022-05-17)
+### [网站 shot-1.0.6](https://github.com/truecharts/apps/compare/website-shot-1.0.5...website-shot-1.0.6) (2022-05-17)
 
 #### 聊天
 
@@ -232,7 +232,7 @@
 
 <a name="website-shot-1.0.6"></a>
 
-### [website-shot-1.0.6](https://github.com/truecharts/apps/compare/website-shot-1.0.5...website-shot-1.0.6) (2022-05-17)
+### [网站 shot-1.0.6](https://github.com/truecharts/apps/compare/website-shot-1.0.5...website-shot-1.0.6) (2022-05-17)
 
 #### 聊天
 
@@ -242,7 +242,7 @@
 
 <a name="website-shot-1.0.5"></a>
 
-### [website-shot-1.0.5](https://github.com/truecharts/apps/compare/website-shot-1.0.4...website-shot-1.0.5) (2022-05-17)
+### [网站 shot-1.0.5](https://github.com/truecharts/apps/compare/website-shot-1.0.4...website-shot-1.0.5) (2022-05-17)
 
 #### 聊天
 
@@ -252,7 +252,7 @@
 
 <a name="website-shot-1.0.4"></a>
 
-### [website-shot-1.0.4](https://github.com/truecharts/apps/compare/website-shot-1.0.3...website-shot-1.0.4) (2022-05-10)
+### [网站 shot-1.0.4](https://github.com/truecharts/apps/compare/website-shot-1.0.3...website-shot-1.0.4) (2022-05-10)
 
 #### 聊天
 
@@ -262,7 +262,7 @@
 
 <a name="website-shot-1.0.3"></a>
 
-### [website-shot-1.0.3](https://github.com/truecharts/apps/compare/website-shot-1.0.2...website-shot-1.0.3) (2022-05-05)
+### [网站 shot-1.0.3](https://github.com/truecharts/apps/compare/website-shot-1.0.2...website-shot-1.0.3) (2022-05-05)
 
 #### 聊天
 
@@ -272,7 +272,7 @@
 
 <a name="website-shot-1.0.2"></a>
 
-### [website-shot-1.0.2](https://github.com/truecharts/apps/compare/website-shot-1.0.1...website-shot-1.0.2) (2022-04-26)
+### [网站 shot-1.0.2](https://github.com/truecharts/apps/compare/website-shot-1.0.1...website-shot-1.0.2) (2022-04-26)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="website-shot-1.0.1"></a>
 
-### [website-shot-1.0.1](https://github.com/truecharts/apps/compare/website-shot-1.0.0...website-shot-1.0.1) (2022-04-20)
+### [网站 shot-1.0.1](https://github.com/truecharts/apps/compare/website-shot-1.0.0...website-shot-1.0.1) (2022-04-20)
 
 #### 聊天
 
@@ -293,7 +293,7 @@
 
 <a name="website-shot-1.0.0"></a>
 
-### [website-shot-1.0.0](https://github.com/truecharts/apps/compare/website-shot-0.0.1...website-shot-1.0.0) (2022-04-18)
+### [网站 shot-1.0.0](https://github.com/truecharts/apps/compare/website-shot-0.0.1...website-shot-1.0.0) (2022-04-18)
 
 #### Feat
 
@@ -303,8 +303,8 @@
 
 <a name="website-shot-0.0.1"></a>
 
-### website-shot-0.0.1 (2022-04-17)
+### 网站-Short-0.0.1 (2022-04-17)
 
 #### Feat
 
-* add 2 apps ([#2498](https://github.com/truecharts/apps/issues/2498))
+* 添加两个应用程序([#2498](https://github.com/truecharts/apps/issues/2498))
