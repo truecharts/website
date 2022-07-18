@@ -1,16 +1,16 @@
 ---
-slug: "Introducing: TrueCharts Container Repository"
-title: "Introducing: TrueCharts Container Repository"
+slug: "导入：TrueCharts Container 存储库"
+title: "导入：TrueCharts Container 存储库"
 authors:
   - ornias
 ---
 
-The last year we’ve grown at an ever-increasing pace, doubling code and users every few months. Some issues could be fixed quickly and easily, while other issues were vastly more complex. One of those issues happened to be the convoluted mess of different container sources.
+去年我们的增长速度不断加快，每几个月翻一番，使用者每隔几个月。 有些问题可以迅速和容易地得到解决，而其他问题则更加复杂。 其中一个问题恰好是不同集装箱来源造成的混乱。
 
-These container sources all had different tag formats, rate limits, downtimes, and one even decided to start deleting tags, leading to applications breaking. This, obviously, was not the experience we wanted our users to have.
+这些容器源都有不同的标签格式、比率限制、下限，甚至有一个容器决定开始删除标签，导致应用程序被打断。 这显然不是我们希望我们的用户拥有的经验。
 
-Therefore, we’ve spent the better part of December setting up our own container distribution system. The TrueCharts Container Repository, or TCCR in short. TCCR is a combination of containers we’ve fully built ourselves and containers we mirror, screen and re-tag into a standardized format. Doing this also allowed us to ensure *all* containers are available from multiple sources: GHCR, Quay and Dockerhub.
+因此，我们在12月份较好的时间里建立了我们自己的集装箱分配系统。 TrueChasts Container Depository, or TCCR in short. TCCR 是一种我们已经完全建造的集装箱与我们镜像、屏幕和重新标记为标准格式的集装箱的组合。 这样做也使我们能够确保 *所有* 个容器都可以从多个来源获得：GHCR、Quay 和 Dockerhub。
 
-To achieve this, we’ve partnered with scarf.sh, which allows us to easily switch between container sources for our repository, while also giving us something new: metrics. We can finally see which containers are popular and which are not, but we can also see if there are people still using older versions of applications. This allows us to improve our decision-making process: which apps to work on and which older versions to keep supporting.
+为了实现这一点，我们与头巾结成了伙伴关系。 h, 这使我们能够轻松地在容器源之间为我们的存储库切换，同时给我们一些新内容：计量。 我们终于可以看到哪些容器是受欢迎的，哪些容器不是受欢迎的。 但我们也可以看到是否有人仍在使用旧版本的应用程序。 这使我们能够改进我们的决策过程：哪些应用可以运行，哪些旧版本可以继续支持。
 
-All of you have (under the hood), already been running TCCR and we’ve only had a handful of issues related to it. We’re happy to have created something that again, highlights us as the number 1 source for TrueNAS SCALE Applications.
+你们所有人(在头脑下)都已经在运行部队派遣国，我们只有几个与此相关的问题。 我们很高兴再次创建了一些东西，突出显示我们为 TrueNAS SCALE 应用程序的 1 源。
