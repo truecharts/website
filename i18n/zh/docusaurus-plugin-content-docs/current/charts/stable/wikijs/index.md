@@ -1,6 +1,6 @@
 # 维基耶斯
 
-Make documentation a joy to write using Wiki.js's beautiful and intuitive interface!
+使用Wiki.js美丽和直观的界面，让文档成为写字的喜悦！
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
