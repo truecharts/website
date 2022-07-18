@@ -13,7 +13,7 @@ __`Passwort für WebUI`__ Akzeptierte Formate sind:
 
 - Buchstaben, Zahlen, Symbole, mindestens 8 Zeichen (z. `dg523$*a`) - Es akzeptiert `a-z`, `A-Z`, `0-9` und `! #$%^&*?`
 
-Regex passt zu diesen: `[a-zA-Z0-9!@#$%^&*?]{8,}` Hier können Sie live versuchen [](https://regex101.com/r/ef3V88/1)
+Regex passt zu diesen: `[a-zA-Z0-9!@#$%^&*?]{8,}` Hier können Sie live versuchen
 
 ---
 
