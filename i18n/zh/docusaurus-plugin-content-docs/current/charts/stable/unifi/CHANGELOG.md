@@ -368,7 +368,7 @@
 
 #### 聊天
 
-* update container image tccr.io/truecharts/unifi to v7.0.23 ([#2048](https://github.com/truecharts/apps/issues/2048))
+* 将容器图像 tccr.io/truechars/unifi 更新为 v7.0.23 ([#2048](https://github.com/truecharts/apps/issues/2048))
 * 从图标png中删除 `-icon` 字符串 ([#2040](https://github.com/truecharts/apps/issues/2040))
 
 
@@ -422,7 +422,7 @@
 
 <a name="unifi-9.0.45"></a>
 
-### [unifi-9.0.45](https://github.com/truecharts/apps/compare/unifi-9.0.44...unifi-9.0.45) (2022-02-08)
+### [unifi 9.0.45](https://github.com/truecharts/apps/compare/unifi-9.0.44...unifi-9.0.45) (2022-02-08)
 
 #### 聊天
 
@@ -456,7 +456,7 @@
 
 #### 修复
 
-* run as non-root ([#1831](https://github.com/truecharts/apps/issues/1831))
+* 以非root 身份运行 ([#1831](https://github.com/truecharts/apps/issues/1831))
 
 
 
@@ -624,7 +624,7 @@
 
 <a name="unifi-9.0.26"></a>
 
-### [unifi-9.0.26](https://github.com/truecharts/apps/compare/unifi-9.0.25...unifi-9.0.26) (2021-12-18)
+### [unifi-9.0.26](https://github.com/truecharts/apps/compare/unifi-9.0.25...unifi-9.0.26) (2021-12-18岁)
 
 #### 聊天
 
@@ -666,7 +666,7 @@
 
 <a name="unifi-9.0.22"></a>
 
-### [unifi-9.0.22](https://github.com/truecharts/apps/compare/unifi-9.0.21...unifi-9.0.22) (2021-12-12)
+### [unifi-9.0.22](https://github.com/truecharts/apps/compare/unifi-9.0.21...unifi-9.0.22) (2021-12)
 
 #### 聊天
 
@@ -767,7 +767,7 @@
 
 * 纠正一些端口错误 ([#1416](https://github.com/truecharts/apps/issues/1416))
 * 将冲突端口移动到 10xxx 范围 ([#1415](https://github.com/truecharts/apps/issues/1415))
-* fix port in questions.yaml
+* 修复问题.yaml 中的端口
 
 
 
@@ -783,7 +783,7 @@
 
 <a name="unifi-9.0.12"></a>
 
-### [unifi-9.0.12](https://github.com/truecharts/apps/compare/unifi-9.0.11...unifi-9.0.12) (2021-11-22)
+### [unifi 9.0.12](https://github.com/truecharts/apps/compare/unifi-9.0.11...unifi-9.0.12) (2021-11-22)
 
 #### 聊天
 
@@ -807,7 +807,7 @@
 
 <a name="unifi-9.0.10"></a>
 
-### [unifi-9.0.10](https://github.com/truecharts/apps/compare/unifi-9.0.9...unifi-9.0.10) (2021-11-16)
+### [unifi 9.0.10](https://github.com/truecharts/apps/compare/unifi-9.0.9...unifi-9.0.10) (2021-11-16)
 
 #### 聊天
 
@@ -938,7 +938,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1146,11 +1146,11 @@
 
 #### 修复
 
-* correct unifi port names to be unique ([#947](https://github.com/truecharts/apps/issues/947))
+* 正确的 unifi 端口名称是唯一的 ([#947](https://github.com/truecharts/apps/issues/947))
 
 <a name="unifi-6.11.15"></a>
 
-## [unifi-6.11.15](https://github.com/truecharts/apps/compare/unifi-6.11.14...unifi-6.11.15) (2021-09-08)
+## [unifi 6.11.15](https://github.com/truecharts/apps/compare/unifi-6.11.14...unifi-6.11.15) (2021-09-08)
 
 ### 修复
 
@@ -1159,7 +1159,7 @@
 
 <a name="unifi-6.11.15"></a>
 
-## [unifi-6.11.15](https://github.com/truecharts/apps/compare/unifi-6.11.14...unifi-6.11.15) (2021-09-08)
+## [unifi 6.11.15](https://github.com/truecharts/apps/compare/unifi-6.11.14...unifi-6.11.15) (2021-09-08)
 
 ### 修复
 
