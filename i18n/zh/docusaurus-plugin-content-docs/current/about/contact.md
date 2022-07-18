@@ -6,7 +6,7 @@
 
 ### Github
 
-在 github 上，当你遇到不如预期的情况时，你可以直接提交问题，或者打开一个“GitHub 讨论”来讨论事项。TrueCharts
+在 github 上，当你遇到不如预期的情况时，你可以直接提交问题，或者打开一个“GitHub 讨论”来讨论事项。 TrueCharts
 
 ### 电子邮件地址
 
