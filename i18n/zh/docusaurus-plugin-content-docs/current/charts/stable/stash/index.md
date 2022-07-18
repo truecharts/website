@@ -6,8 +6,8 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/stashapp/stash>
-* <https://hub.docker.com/r/stashapp/stash>
+* [https://github.com/stashap/stash](https://github.com/stashapp/stash)
+* [https://hub.docker.com/r/stashap/stash](https://hub.docker.com/r/stashapp/stash)
 
 ## B. 所需经费
 
