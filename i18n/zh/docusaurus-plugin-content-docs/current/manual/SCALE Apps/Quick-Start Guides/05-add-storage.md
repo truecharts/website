@@ -1,19 +1,19 @@
-# 05 - Adding additional storage
+# 05-添加额外存储
 
-We  provide the option to mount as many host folders as you want.
+我们提供了挂载尽可能多的主机文件夹的选项。
 
-hostPathMounts are actually quite simple: It mounts a directory from your TrueNAS SCALE system, directly to a directory inside the App you're installing.
+主机PathMounts实际上非常简单： 它从您的TrueNAS SCALE 系统中挂载一个目录，直接到您安装的应用程序内的目录。
 
-## Permissions
+## 权限
 
-We offer an optional automatic set the permissions according to App fsGroup or PUID.
+我们提供了一个可选的自动设置的权限通过 App fsGroup 或 PUID
 
-Setting permissions automatically means we `chown` the folder and all folder within it, to a group of your choice. However, we only do so when installing or updating an app.
+Setting permissions automatically means we `chown` the folder and all folder within it, to a group of your choice. 然而，我们只是在安装或更新应用程序时才这样做。
 
-Please be aware that automatically setting ownership/permissions, does mean it overrides your current CHOWN and CHMOD settings. This could break things and yes, it will destroy your system if used carelessly. It's also not wise to enable the automatic permissions on mounted shares from an external system.
+请注意，自动设置所有权/权限，确实意味着它会覆盖您当前的 CHOWN 和 CHMOD 设置。 这可能会破坏事物，如果不小心使用，它将摧毁你的系统。 启用外部系统挂载共享的自动权限也是不明智的。
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/aktv1r-KRI0)
+![类型 :video](https://www.youtube.com/embed/aktv1r-KRI0)
 
-### Additional Documentation
+### 附加文档
