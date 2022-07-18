@@ -1,20 +1,20 @@
-# TrueNAS Web GUI via Traefik on port 443
+# TrueNAS Web GUI 通过 Traefik 在端口 443
 
-If you followed the instructions in `11 - Exposing Traefik on port 80/443` from the `Quick Start Guides`, your TrueNAS Web GUI will now be served on custom ports (port 81 and 444 in the video guide).
+如果您遵循了 `11中的指令，则在端口 80/443 上暴露Traefik` `快速启动指南`, 您的TrueNAS Web GUI现在将在自定义端口上服务(视频指南中的端口81和444)。
 
-If you don't want to access the TrueNAS Web GUI using these custom ports, you can follow the instructions in guide `16 - Setting up External-Services` to access the TrueNAS Web GUI via Traefik on port 443.
+如果您不想使用这些自定义端口访问TrueNAS Web GUI， 您可以遵循指南 `16 - 设置外部服务` 以通过 Traefik 访问TrueNAS Web GUI 端口443。
 
-When setting up the `External Service`:
+设置 `外部服务` 时：
 
-- Set `External Service IP` to the ip address of your TrueNAS server
-- Set `Port Type` to `HTTPS`
-- Set `Service Port` to the same value as `Web Interface HTTPS Port` in the TrueNAS GUI Settings (`444` if you followed guide 11)
-- Setup Ingress according to guide 12 (set the `Host` and `HostName` values to e.g. truenas.example.com)
+- 将 `外部服务 IP` 设置为您的TrueNAS 服务器的IP地址
+- 将 `端口类型` 设置为 `HTTPS`
+- 将 `服务端口` 设置为 `网络接口HTTPS 端口` 设置为 TrueNAS GUI (`444` 如果您遵循指南11)
+- 根据指南12设置 `主机` 和 `主机名` 值为 truenas.example.com
 
-Now Traefik will serve the TrueNAS Web GUI over HTTPS on truenas.example.com. Ensure your DNS points truenas.example.com to the ip address of your TrueNAS server.
+现在Traefik将通过 HTTPS 在 truenas.example.com 上为TrueNAS Web GUI 服务。 请确保您的 DNS 指向您的TrueNAS 服务器的IP地址的 truenas.example.com 。
 
-To check if you setup everything correctly, compare your settings to the settings in this screenshot:
+若要检查您是否正确设置了一切，请将您的设置与此屏幕截图中的设置比较：
 
-![Screenshot with External Service settings overview](img/truenas-web-gui-via-traefik-screenshot.png)
+![外部服务设置屏幕截图](img/truenas-web-gui-via-traefik-screenshot.png)
 
-Once your External Service is deployed, you can get this overview by choosing "Edit" from the External Service menu (three dots).
+一旦您的外部服务部署，您可以从外部服务菜单中选择"编辑"(三点)来获取此概览。
