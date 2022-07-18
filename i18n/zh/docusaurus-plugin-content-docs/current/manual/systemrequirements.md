@@ -10,6 +10,6 @@
 
 ## 推荐的系统规范
 
-2. 符合这些建议规格的系统， 将能够同时运行我们提供的任何应用程序(几乎全部)，并且许多应用，取决于系统负载情况。
+**CPU:** 8 核心 **RAM:** 32GB **GPU:** Intel iGPU **存储:** 1TB HDD 池存储 + Metadata/smallblock vdev + OS 存储
 
 **CPU:** 8 核心 **RAM:** 32GB **GPU:** Intel iGPU **存储:** 1TB HDD 池存储 + Metadata/smallblock vdev + OS 存储
