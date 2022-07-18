@@ -42,7 +42,7 @@ Ce qui précède ne crée qu'une sauvegarde des objets kubernetes et un instanta
 
 Elle ne les protège pas, par exemple, contre la suppression des jeux de données ou contre leur sauvegarde dans un système externe.
 
-Nous **conseillons fortement** de faire à la fois une sauvegarde interne (ensemble de données séparés sur le même système) *et* une sauvegarde hors site. On pourrait créer une récursivité normale (! réplication du jeu de données `ix-volumes` à l'aide de l'interface SCALE, avec les astuces spéciales suivantes en éditant la réplication après la création :
+Nous **conseillons fortement** de faire à la fois une sauvegarde interne (ensemble de données séparés sur le même système) *et* une sauvegarde hors site. réplication du jeu de données `ix-volumes` à l'aide de l'interface SCALE, avec les astuces spéciales suivantes en éditant la réplication après la création :
 
 Pour cela, configurez la tâche suivante de réplication :
 
