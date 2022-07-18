@@ -1,39 +1,39 @@
-# Values.yaml Files
+# 值.yaml 文件
 
-Values.yaml files generally always contain configuration setting for Helm charts, TrueCharts is no different. However, we have multiple different values.yaml files, with different goals. Because TrueNAS SCALE just works slightly differently from standard Helm Charts
+值.yaml 文件通常总是包含Helm ch的配置设置，TrueCharts 没有什么不同。 然而，我们有多种不同的价值.yaml文档，目标不同。 因为TrueNAS SCALE 的工作与标准Helm Charts 略有不同。
 
-## The Files
+## 文件
 
-### values.yaml
+### 值 yaml
 
-This file contains the default config when running the App using stock helm (not SCALE). It also gets used for the testing suite.
+使用股票头盔(而非SCALE)运行应用程序时，此文件包含默认设置。 它还被用于测试套装。
 
 ### ix_values.yaml
 
-This file contains config values that are not included in questions.yaml, but should be copied into the resulting configuration anyway. It's mostly used to ensure setting can be changed by the maintainer with every update, such as versions, which is not possible when setting things as defaults inside questions.yaml
+此文件包含的配置值未包含在问题.yaml中，但仍应复制到生成的配置文件中。 它大多用于确保每次更新都可以由维护者更改设置， 例如版本，当将事项设置为默认问题时是不可能的。 安
 
-This file is, however, not very well checked by validation and CI. Use it when you absolutely have to.
+然而，验证和CI没有很好地检查这个文档。 当你绝对需要时使用它。
 
-One important setting in ix_values.yaml is the optional setting: `startAsRoot: true` This setting is a compatibility toggle for containers that need to be started by root, often these containers use PUID and PGID to deescalate (lower) away from root but require it to start.
+ix_值中的一个重要设置。 aml 是可选的设置: `startAsRoot: true` 此设置是需要以 root 启动的容器的兼容性切换， 这些容器常常使用 PUID 和 PGID 来提升(较低) 离开根目录，但要求它开始。
 
-A minimal example ix_values.yaml would be:
+最小示例 ix_values.yaml 将是：
 
 ```yaml
 ##
-# This file contains Values.yaml content that gets added to the output of questions.yaml
-# It's ONLY meant for content that the user is NOT expected to change.
-# Example: Everything under "image" is not included in questions.yaml but is included here.
+# 此文件包含 Values.yaml 内容添加到问题输出中。 aml
+# 只是指用户不会改变的内容。
+# 示例：“image”下的所有东西都不包含在问题s.yaml 中，但包含在这里。
 ##
 
-image:
-  repository: jacobalberty/unifi
-  tag: 6.0.45
-  pullPolicy: IfNotPresent
+图像：
+  仓库：jacobalberty/unifi
+  标签：6.0。 5
+  脉冲策略：IfNotPresent
 
 
 ##
-# Most other defaults are set in questions.yaml
-# For other options please refer to the wiki, default_values.yaml or the common library chart
+# 大多数其他默认设置在问题中。 aml
+# 其他选项请参阅wiki、default_values.yaml 或通用库图表
 ##
 
 ```
