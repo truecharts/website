@@ -249,7 +249,7 @@
 
 #### 修复
 
-* Add persistence ([#2716](https://github.com/truecharts/apps/issues/2716))
+* 添加持久性([#2716](https://github.com/truecharts/apps/issues/2716))
 
 
 
@@ -316,7 +316,7 @@
 
 <a name="tt-rss-5.0.22"></a>
 
-### [tt-rss-5.0.22](https://github.com/truecharts/apps/compare/tt-rss-5.0.21...tt-rss-5.0.22) (2022-04-26)
+### [t-rss-5.0.22](https://github.com/truecharts/apps/compare/tt-rss-5.0.21...tt-rss-5.0.22) (2022-04-26)
 
 #### 聊天
 
@@ -351,7 +351,7 @@
 
 #### 聊天
 
-* update container image tccr.io/truecharts/tt-rss to v2.0.9113 ([#2459](https://github.com/truecharts/apps/issues/2459))
+* 将容器图像 tccr.io/truecharts/tt-rss 更新为 v2.0.9113 ([#2459](https://github.com/truecharts/apps/issues/2459))
 
 
 
@@ -452,7 +452,7 @@
 
 #### 聊天
 
-* replace code with includes on some apps that was skipped ([#2250](https://github.com/truecharts/apps/issues/2250))
+* 将代码替换为被跳过的某些应用上的包含([#2250](https://github.com/truecharts/apps/issues/2250))
 * 更新一般非主要停靠栏
 * 更新一般非主要停靠栏
 
@@ -619,7 +619,7 @@
 
 <a name="tt-rss-4.0.36"></a>
 
-### [tt-rss-4.0.36](https://github.com/truecharts/apps/compare/tt-rss-4.0.35...tt-rss-4.0.36) (2022-01-22)
+### [t-rss-4.0.36](https://github.com/truecharts/apps/compare/tt-rss-4.0.35...tt-rss-4.0.36) (2022-01-22)
 
 #### 聊天
 
@@ -643,7 +643,7 @@
 
 <a name="tt-rss-4.0.34"></a>
 
-### [tt-rss-4.0.34](https://github.com/truecharts/apps/compare/tt-rss-4.0.33...tt-rss-4.0.34) (2022-01-18)
+### [t-rss-4.0.34](https://github.com/truecharts/apps/compare/tt-rss-4.0.33...tt-rss-4.0.34) (2022-01-18)
 
 #### 聊天
 
@@ -653,7 +653,7 @@
 
 <a name="tt-rss-4.0.33"></a>
 
-### [tt-rss-4.0.33](https://github.com/truecharts/apps/compare/tt-rss-4.0.32...tt-rss-4.0.33) (2022-01-13)
+### [t-rss-4.0.33](https://github.com/truecharts/apps/compare/tt-rss-4.0.32...tt-rss-4.0.33) (2022-01-13)
 
 #### 聊天
 
@@ -667,7 +667,7 @@
 
 <a name="tt-rss-4.0.32"></a>
 
-### [tt-rss-4.0.32](https://github.com/truecharts/apps/compare/tt-rss-4.0.31...tt-rss-4.0.32) (2022-01-12)
+### [t-rss-4.0.32](https://github.com/truecharts/apps/compare/tt-rss-4.0.31...tt-rss-4.0.32) (2022-01-12)
 
 #### 聊天
 
@@ -707,7 +707,7 @@
 
 <a name="tt-rss-4.0.28"></a>
 
-### [tt-rss-4.0.28](https://github.com/truecharts/apps/compare/tt-rss-4.0.27...tt-rss-4.0.28) (2021-12-28)
+### [t-rss-4.0.28](https://github.com/truecharts/apps/compare/tt-rss-4.0.27...tt-rss-4.0.28) (2021-12-28)
 
 #### 聊天
 
@@ -717,7 +717,7 @@
 
 <a name="tt-rss-4.0.27"></a>
 
-### [tt-rss-4.0.27](https://github.com/truecharts/apps/compare/tt-rss-4.0.26...tt-rss-4.0.27) (2021-12-27)
+### [t-rss-4.0.27](https://github.com/truecharts/apps/compare/tt-rss-4.0.26...tt-rss-4.0.27) (2021-12-27)
 
 #### 聊天
 
@@ -737,7 +737,7 @@
 
 <a name="tt-rss-4.0.25"></a>
 
-### [tt-rss-4.0.25](https://github.com/truecharts/apps/compare/tt-rss-4.0.24...tt-rss-4.0.25) (2021-12-20)
+### [t-rss-4.0.25](https://github.com/truecharts/apps/compare/tt-rss-4.0.24...tt-rss-4.0.25) (2021-12-20)
 
 #### 聊天
 
@@ -747,7 +747,7 @@
 
 <a name="tt-rss-4.0.24"></a>
 
-### [tt-rss-4.0.24](https://github.com/truecharts/apps/compare/tt-rss-4.0.23...tt-rss-4.0.24) (2021-12-19)
+### [t-rss-4.0.24](https://github.com/truecharts/apps/compare/tt-rss-4.0.23...tt-rss-4.0.24) (2021-12-19)
 
 #### 聊天
 
@@ -759,7 +759,7 @@
 
 <a name="tt-rss-4.0.23"></a>
 
-### [tt-rss-4.0.23](https://github.com/truecharts/apps/compare/tt-rss-4.0.22...tt-rss-4.0.23) (2021-12-19)
+### [t-rss-4.0.23](https://github.com/truecharts/apps/compare/tt-rss-4.0.22...tt-rss-4.0.23) (2021-12-19)
 
 #### 聊天
 
@@ -770,7 +770,7 @@
 
 <a name="tt-rss-4.0.22"></a>
 
-### [tt-rss-4.0.22](https://github.com/truecharts/apps/compare/tt-rss-4.0.21...tt-rss-4.0.22) (2021-12-19)
+### [t-rss-4.0.22](https://github.com/truecharts/apps/compare/tt-rss-4.0.21...tt-rss-4.0.22) (2021-12-19)
 
 #### 聊天
 
@@ -780,7 +780,7 @@
 
 <a name="tt-rss-4.0.21"></a>
 
-### [tt-rss-4.0.21](https://github.com/truecharts/apps/compare/tt-rss-4.0.20...tt-rss-4.0.21) (2021-12-18)
+### [tt-rss-4.0.21](https://github.com/truecharts/apps/compare/tt-rss-4.0.20...tt-rss-4.0.21) (2021-12-18岁)
 
 #### 聊天
 
@@ -801,7 +801,7 @@
 
 <a name="tt-rss-4.0.19"></a>
 
-### [tt-rss-4.0.19](https://github.com/truecharts/apps/compare/tt-rss-4.0.18...tt-rss-4.0.19) (2021-12-13)
+### [t-rss-4.0.19](https://github.com/truecharts/apps/compare/tt-rss-4.0.18...tt-rss-4.0.19) (2021-12-13)
 
 #### 聊天
 
@@ -912,7 +912,7 @@
 
 <a name="tt-rss-4.0.9"></a>
 
-### [tt-rss-4.0.9](https://github.com/truecharts/apps/compare/tt-rss-4.0.8...tt-rss-4.0.9) (2021-11-30)
+### [t-rss-4.0.9](https://github.com/truecharts/apps/compare/tt-rss-4.0.8...tt-rss-4.0.9) (2021-11-30)
 
 #### 聊天
 
@@ -922,7 +922,7 @@
 
 <a name="tt-rss-4.0.8"></a>
 
-### [tt-rss-4.0.8](https://github.com/truecharts/apps/compare/tt-rss-4.0.7...tt-rss-4.0.8) (2021-11-30)
+### [t-rss-4.0.8](https://github.com/truecharts/apps/compare/tt-rss-4.0.7...tt-rss-4.0.8) (2021-11-30)
 
 #### 聊天
 
@@ -936,7 +936,7 @@
 
 #### 聊天
 
-* update non-major docker tags ([#1387](https://github.com/truecharts/apps/issues/1387))
+* 更新非主停靠标签[#1387](https://github.com/truecharts/apps/issues/1387)
 
 
 
@@ -976,7 +976,7 @@
 
 <a name="tt-rss-4.0.2"></a>
 
-### [tt-rss-4.0.2](https://github.com/truecharts/apps/compare/tt-rss-4.0.1...tt-rss-4.0.2) (2021-11-18)
+### [tt-rss-4.0.2](https://github.com/truecharts/apps/compare/tt-rss-4.0.1...tt-rss-4.0.2) (2021-11-18岁)
 
 #### 聊天
 
@@ -1010,7 +1010,7 @@
 
 #### 聊天
 
-* update non-major docker tags ([#1339](https://github.com/truecharts/apps/issues/1339))
+* 更新非主停靠标签[#1339](https://github.com/truecharts/apps/issues/1339)
 
 
 
@@ -1026,7 +1026,7 @@
 
 <a name="tt-rss-3.0.13"></a>
 
-### [tt-rss-3.0.13](https://github.com/truecharts/apps/compare/tt-rss-3.0.12...tt-rss-3.0.13) (2021-11-15)
+### [t-rss-3.0.13](https://github.com/truecharts/apps/compare/tt-rss-3.0.12...tt-rss-3.0.13) (2021-11-15)
 
 #### 聊天
 
@@ -1037,7 +1037,7 @@
 
 <a name="tt-rss-3.0.12"></a>
 
-### [tt-rss-3.0.12](https://github.com/truecharts/apps/compare/tt-rss-3.0.11...tt-rss-3.0.12) (2021-11-14)
+### [t-rss-3.0.12](https://github.com/truecharts/apps/compare/tt-rss-3.0.11...tt-rss-3.0.12) (2021-11-14)
 
 #### 聊天
 
@@ -1055,7 +1055,7 @@
 
 <a name="tt-rss-3.0.11"></a>
 
-### [tt-rss-3.0.11](https://github.com/truecharts/apps/compare/tt-rss-3.0.10...tt-rss-3.0.11) (2021-11-09)
+### [t-rss-3.0.11](https://github.com/truecharts/apps/compare/tt-rss-3.0.10...tt-rss-3.0.11) (2021-11-09)
 
 #### 聊天
 
@@ -1157,11 +1157,11 @@
 
 <a name="tt-rss-3.0.2"></a>
 
-### [tt-rss-3.0.2](https://github.com/truecharts/apps/compare/tt-rss-3.0.1...tt-rss-3.0.2) (2021-10-26)
+### [t-rss-3.0.2](https://github.com/truecharts/apps/compare/tt-rss-3.0.1...tt-rss-3.0.2) (2021-10-26)
 
 #### 聊天
 
-* update non-major docker tags ([#1246](https://github.com/truecharts/apps/issues/1246))
+* 更新非主停靠标签[#1246](https://github.com/truecharts/apps/issues/1246)
 
 
 
