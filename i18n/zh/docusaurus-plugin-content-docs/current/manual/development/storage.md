@@ -1,40 +1,40 @@
-# Storage
+# 存储
 
-This article serves as a development extension to the storage article available [here](https://wiki.truecharts.org/general/storage/)
+这篇文章可以作为存储文章的开发扩展 [在这里](https://wiki.truecharts.org/general/storage/)
 
-## Storage and Common-Chart
+## 存储和通用图表
 
-For all these storage solutions we require the common-chart to be added to the App. The Common-Chart handles both the connection/addition of storage to the container and spinning up special k8s jobs to fix the permissions if requested for the Custom storage.
+对于所有这些存储解决方案，我们要求将通用图表添加到应用中。 通用图表既处理容器中存储的连接/添加，又处理特殊k8s任务，以便在自定义存储请求时修复权限。
 
-### Integrated Persistent Storage
+### 集成持久性存储
 
-When adding an App, there are almost always certain folders that are required for solid Apps performance. For example config files that should be persistent across restarts.
+当添加应用程序时，几乎总是需要某些文件夹才能进行实时应用。 例如，配置文件应该在重启过程中保持持久性。
 
-For these storages we can easily add fixes values in the UI, these settings can not be disabled or removed and would, by default and preferably, be limited to the "internal" storage class Preventing the user to disable them, ensures that users don't (by mistake) remove the storage.
+对于这些存储，我们可以轻松地在界面中添加修正值。 这些设置不能被禁用或删除，默认情况下也是最好的。 被限制为“内部”存储类 防止用户禁用它们，确保用户不会(错误) 移除存储。
 
 ```yaml
-  - variable: persistence
-    label: "Integrated Persistent Storage"
-    description: "Websocket Service"
-    group: "Storage"
-    schema:
-      type: dict
-      attrs:
-        - variable: data
-          label: "App Config Storage"
-          description: "Stores the Application Configuration."
+  - 变量：持久性
+    标签：“持久性综合存储”
+    描述：“Websocket 服务”
+    组：“存储”
+    schema：
+      类型：dict
+      景点：
+        - 变量：数据
+          标签：“应用程序配置存储”
+          描述：“存储应用程序配置配置配置配置”。”
           schema:
             type: dict
-            attrs:
-              - variable: enabled
-                label: "Enable the storage"
+            toters:
+              - 变量: 启用
+                标签: "启用存储"
                 schema:
-                  type: boolean
+                  type: boolian
                   default: true
                   hidden: false
-              - variable: storageClass
-                label: "Type of Storage"
-                description: " Warning: Anything other than SCALE-ZFS will break rollback!"
+              - 变量: storageClass
+                标签: "存储类型"
+                描述: "警告: SCALE ZFS 以外的任何东西都会中断回滚!"
                 schema:
                   type: string
                   default: "SCALE-ZFS"
@@ -89,6 +89,6 @@ For these storages we can easily add fixes values in the UI, these settings can 
                   default: "100Gi"
 ```
 
-### Unlimited Custom Storage Mounts
+### 无限自定义存储挂载
 
-We support presenting the user with a "Do it yourself" style list, in which the user can add unlimited paths on the host system to mount. It should always be included in any App, to give users the option to customize things however they like.
+我们支持向用户呈现“自己做”样式列表 用户可以在主机系统上添加无限路径以挂载。 它应该总是包含在任何应用程序中，让用户可以选择自定义他们喜欢的东西。
