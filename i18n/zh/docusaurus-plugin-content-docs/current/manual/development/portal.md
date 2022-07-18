@@ -57,4 +57,9 @@ questions:
             编辑：fals
             类型：字符串
             默认值：“test.com”
+          schema:
+            隐藏：true
+            编辑：fals
+            类型：字符串
+            默认值：“test.com”
 ```
