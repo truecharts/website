@@ -1,6 +1,6 @@
 # 网站截图
 
-Generate a full web-page screenshot with our service, that provides rich interface to make any kind of web screenshots online for free with no limits. 最简单的方式进行全页屏幕截图。
+使用我们的服务生成一个完整的网页屏幕截图，它提供丰富的界面，免费提供任何类型的网上屏幕截图。 最简单的方式进行全页屏幕截图。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
