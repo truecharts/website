@@ -6,8 +6,8 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://hub.docker.com/r/weejewel/wg-easy>
-* <https://github.com/WeeJeWel/wg-easy>
+* [https://hub.docker.com/r/weejewel/wg-fact](https://hub.docker.com/r/weejewel/wg-easy)
+* [https://github.com/WeeJeWel/wg-fep](https://github.com/WeeJeWel/wg-easy)
 
 ## B. 所需经费
 
