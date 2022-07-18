@@ -1,55 +1,55 @@
-# Chart.yaml layout
+# Chart.yaml 布局
 
-At TrueCharts we try to keep some files standardized, this enables us to make changes to these charts in bulk with less risk of mistakes. Chart.yaml is one of these files. In this documentation we will explain the standardized layout options. For an example layout, please see our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml)
+在TrueCharts中，我们试图使一些文件标准化，因此我们可以大量修改这些图表，减少错误的风险。 Chart.yaml 是这些文件之一。 在这个文档中，我们将解释标准化的布局选项。 关于示例布局，请查看我们标准的 Chart.yaml [模板](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml)
 
-## Layout Explained
+## 布局说明
 
 ```yaml
-apiVersion: The chart API version (required)
-kubeVersion: A SemVer range of compatible Kubernetes versions (optional)
-name: The name of the chart (required)
-version: A SemVer 2 version (required)
-upstream_version: A SemVer 2 version, as used by an upstream Helm Chart source (optional)
-appVersion: The version of the app that this contains (optional). Needn't be SemVer. Quotes recommended.
-description: A single-sentence description of this project (optional)
-type: The type of the chart (optional)
-deprecated: Whether this chart is deprecated (optional, boolean)
-home: The URL of this projects home page (optional)
-icon: A URL to an SVG or PNG image to be used as an icon (optional).
-keywords:
-  - A list of keywords about this project (optional)
-sources:
-  - A list of URLs to source code for this project (optional)
-dependencies:
-  - name: The name of the chart (nginx)
-    repository: The repository URL ("https://example.com/charts") or alias ("@repo-name")
-    version: The version of the chart ("1.2.3")
-    condition: (optional) A yaml path that resolves to a boolean, used for enabling/disabling charts (e.g. subchart1.enabled )
-    tags: # (optional)
-      - Tags can be used to group charts for enabling/disabling together
-    import-values: # (optional)
-      - ImportValues holds the mapping of source values to parent key to be imported. Each item can be a string or pair of child/parent sublist items.
-    alias: (optional) Alias to be used for the chart. Useful when you have to add the same chart multiple times
-maintainers: # (optional)
-  - name: The maintainers name (required for each maintainer)
-    email: The maintainers email (optional for each maintainer)
-    url: A URL for the maintainer (optional for each maintainer)
-annotations:
-  example: A list of annotations keyed by name (optional).
+apiVersion: 图表 API 版本 (required)
+kubeVersion: A SemVer range of compatible Kubernetes 版本 (optional)
+name: 图表名称 (required)
+版本: SemVer 2 版本(required)
+upstream_version: A SemVer 2 版本, 用于上游头盔图表源(可选)
+appVersion: 此应用程序的版本 (可选) 不需要SemVer。 推荐引用。
+描述：此工程的单句描述(可选)
+类型：图表类型(可选)
+已废弃：此图表是否已废弃(可选， 布尔值
+主页：此项目主页的 URL (可选)
+图标：SVG 或 PNG 图像的 URL 可作为图标使用(可选)
+关键词：
+  - 此工程的关键词列表 (可选)
+源：
+  - 此工程的源代码的 URL 列表 (可选)
+依赖关系：
+  - 名称：图表名称 (nginx)
+    仓库：URL ("https://示例) om/charts") 或别名 (@repo-name")
+    版本: 图表版本 ("1.2). ")
+    conditions : (optional) A yaml 路径解析为布尔值，用于启用/禁用图表(例如子图1)。 已读)
+    标签：# (可选)
+      - 标签可以用于分组图表以启用/禁用一起
+    导入值：# (可选)
+      - 导入值包含导入的源值映射至父键。 每个项目可以是一个字符串或双子/父子子项。
+    别名: (可选) 别名用于图表的别名。 当您需要多次添加相同的图表时
+维护者: # (可选)
+  - 名称: 维护者名称 (每个维护者需要)
+    email: 维护者电子邮件 (每个维护者可选)
+    url: 维护者的 URL (每个维护者可选)
+注释:
+  例如：按名称键的注释列表 (可选)
 ```
 
-### Commenting
+### 评论中
 
-In the above description there are a lot of values that are not actually used. Some of those, like `deprecated`, we just set to false. While others, like `annotations` get commented out.
+在上述描述中，有许多值没有实际使用。 其中一些东西，如 `已废弃的`，我们刚刚设置为 false。 其它人，如 `注释` 则被解读。
 
-Please refer to our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml) to see which unused values needs which treatment.
+请参考我们的标准Chart.yaml [模板](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml) 查看哪些未使用的值需要处理。
 
 ### 依赖关系
 
-We expect each chart to use our Common-Chart in some capacity, unless it's absolutely impossible to do so. This also means we expect the Common-Chart to always be the first dependency in the list. This enables us to easily update all common-chart references in bulk.
+我们期望每个图表以某种身份使用我们的共同图表，除非绝对不可能这样做。 这也意味着我们期望《共同图》永远是名单上的第一个依赖者。 这使我们能够轻松地大量更新所有通用图表引用。
 
-All other dependencies are expected to be listed in alphabetical order.
+所有其他依赖关系按字母顺序排列。
 
-### Maintainers
+### 维护者
 
-The only maintainer should always be TrueCharts, as the TrueCharts core team is expected to step in if the other maintainers fail to maintain their work. An example of how to list TrueCharts as a maintainer is available in our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml).
+唯一的维护者应该始终是 TrueCharts, 由于TrueCharts核心小组预计将在其他维护者未能维持其工作的情况下介入该小组。 如何将TrueCharts列为维护者的示例可见于我们的标准Chart.yaml [模板](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml)。
