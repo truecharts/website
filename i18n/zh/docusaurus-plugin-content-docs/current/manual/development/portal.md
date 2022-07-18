@@ -1,12 +1,12 @@
-# Portal Button
+# 门户按钮
 
-After installation almost every app should have a "portal" button. This button is an easy and streamlined way of entering the Applications after installation. However, one should be aware that it does not magically follow changes inside the application (for example: from http to https).
+安装后，几乎每个应用都应该有一个“portal”按钮。 此按钮是在安装后进入应用程序的一种简单而简化的方式。 然而，人们应该意识到，它不会跟随应用程序内的更改(如：从 http 到 http)。
 
-## questions.yaml example
+## yaml 示例
 
-Every questions.yaml file should contain the following snippets to enable the portal button. Please be aware to change `"http"` to `"https"` in services.main.port.protocol if your application uses http instead of https when running using "NodePort".
+每个问题 .yaml 文件都应该包含以下代码片段以启用Portal按钮。 请在服务中将 `"http"` 更改为 `"https"` ain.port.protocol，如果您的应用程序在使用 "NodePort" 运行时使用 http 而不是 https
 
-Also please be aware that the portal only(!) points towards the main service, main service port and main ingress.
+也请注意，只有门户网站 (!) 指向主要服务、主要服务端口和主要进入。
 
 ```yaml
 portals:
@@ -39,17 +39,17 @@ questions:
 
 ```
 
-There are also some additional (advanced) options available, these can be added below the above required portion as required:
+还有一些其他（先进的）备选办法，可在上述所需部分以下增加：
 
-**host:**
+**主机：**
 
 ```yaml
-        - variable: host
-          label: "override Host when using NodePort"
-          description: "Overrides the host setting when using NodePort. Example use case would be load balanced NodePorts."
+        - 变量：主机
+          标签：“使用 NodePort时覆盖主机”
+          描述：“使用 NodePort时覆盖主机设置。 示例使用案例将加载平衡的 NodePorts。”
           schema:
-            hidden: true
-            editable: false
-            type: string
-            default: "test.com"
+            隐藏：true
+            编辑：fals
+            类型：字符串
+            默认值：“test.com”
 ```
