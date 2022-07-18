@@ -1,6 +1,6 @@
 # Speicher
 
-Dieser Artikel dient als Entwicklungserweiterung für den hier verfügbaren Speicherartikel [](https://wiki.truecharts.org/general/storage/)
+Dieser Artikel dient als Entwicklungserweiterung für den hier verfügbaren Speicherartikel
 
 ## Speicher- und Common-Chart
 
