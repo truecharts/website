@@ -1,6 +1,6 @@
 # unpoller
 
-Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus
+收集所有Unifi Controller, Site, 设备 & 客户端数据 - 导出到 InfluxDB 或 Prometheus
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
