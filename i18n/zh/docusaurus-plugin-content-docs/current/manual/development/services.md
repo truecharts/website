@@ -1,14 +1,14 @@
-# Services
+# 服务
 
-Every App needs to be exposed to something, either an UI, API or other containers.However with Kubernetes we don't directly connect to the containers running the App, because those might be on another node or there might be multiple "high available" containers for the App. Instead we use what is called `Services`. Services are simply put "Internal Load-Balancers", they also guaranteed to be reachable by (internal!) DNS name and (in some cases) prevent traffic from reaching your App when the healthcheck isn't finished yet (or is failing).
+每个应用程序都需要接触到某些东西，或是UI、API或其他容器。 oarticles with Kubernetes 我们不直接连接到运行应用程序的容器， 因为这些可能在另一个节点上，或者应用可能有多个“高可用”容器。 相反，我们使用所谓的 `服务`。 服务只是放在“内部装配器”上，它们也保证可以通过(内部！) 当健康检查尚未完成(或正在失败)时，DNS名称以及(在某些情况下)阻止流量抵达您的应用程序。
 
-## Two kinds of services
+## 两种服务
 
-### Main Service
+### 主要服务
 
-Every App is required to have a main service, the primary thing that users (or other Apps!) connect with. No mater if it's a webUI, an API, a database connection or something totally else, A service is always required.
+每个应用程序都需要有一个主服务，用户(或其他应用程序!)连接的主要内容。 如果它是一个 webUI, 一个 API 、 数据库连接或完全是其他的，那么就没有太大了。总是需要一种服务。
 
-Please keep in mind that every App is different, some just have one service (which *ALWAYS* has to be called `main`) and others need more (which each has to have an unique name). Every App also uses different ports, so please alter accordingly.
+请记住，每个应用都是不同的， 一些人只有一个服务( *ALWAYS* 必须调用 `main`)，另一些人需要更多的服务(每个人都必须有一个独特的名称)。 每个应用也使用不同的端口，所以请相应更改。
 
 ```yaml
   - variable: service
@@ -112,11 +112,11 @@ Please keep in mind that every App is different, some just have one service (whi
                               required: true
                           - variable: nodePort
                             label: "Node Port (Optional)"
-                            description: "This port gets exposed to the node. Only considered when service type is NodePort"
+                            description: "This port gets exposed to the node. 仅在服务类型为 NodePort”
                             schema:
-                              type: int
+                              type : int
                               min: 9000
                               max: 65535
                               default: 36041
-                              required: true
+                              require: true
 ```
