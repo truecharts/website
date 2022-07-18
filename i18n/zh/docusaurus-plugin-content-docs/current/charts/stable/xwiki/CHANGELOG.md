@@ -470,7 +470,7 @@
 
 #### 修复
 
-* create initial user ([#2417](https://github.com/truecharts/apps/issues/2417))
+* 创建初始用户 ([#2417](https://github.com/truecharts/apps/issues/2417))
 
 
 
@@ -506,4 +506,4 @@
 
 #### Feat
 
-* add xwiki ([#2379](https://github.com/truecharts/apps/issues/2379))
+* 添加 xwiki ([#2379](https://github.com/truecharts/apps/issues/2379))
