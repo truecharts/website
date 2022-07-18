@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [wireshark-2.0.17](https://github.com/truecharts/apps/compare/wireshark-2.0.16...wireshark-2.0.17) (2022-07-14)
+## [无线电-2.0.17](https://github.com/truecharts/apps/compare/wireshark-2.0.16...wireshark-2.0.17) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [wireshark-2.0.16](https://github.com/truecharts/apps/compare/wireshark-2.0.14...wireshark-2.0.16) (2022-07-14)
+## [无线电-2.0.16](https://github.com/truecharts/apps/compare/wireshark-2.0.14...wireshark-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [wireshark-2.0.14](https://github.com/truecharts/apps/compare/wireshark-2.0.12...wireshark-2.0.14) (2022-07-12)
+## [无线电-2.0.14](https://github.com/truecharts/apps/compare/wireshark-2.0.12...wireshark-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="wireshark-2.0.11"></a>
 
-### [wireshark-2.0.11](https://github.com/truecharts/apps/compare/wireshark-2.0.10...wireshark-2.0.11) (2022-07-12)
+### [无线电-2.0.11](https://github.com/truecharts/apps/compare/wireshark-2.0.10...wireshark-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="wireshark-2.0.10"></a>
 
-### [wireshark-2.0.10](https://github.com/truecharts/apps/compare/wireshark-2.0.9...wireshark-2.0.10) (2022-07-11)
+### [无线电-2.0.10](https://github.com/truecharts/apps/compare/wireshark-2.0.9...wireshark-2.0.10) (2022-07-11)
 
 #### 聊天
 
@@ -66,7 +66,7 @@
 
 <a name="wireshark-2.0.8"></a>
 
-### [wireshark-2.0.8](https://github.com/truecharts/apps/compare/wireshark-2.0.7...wireshark-2.0.8) (2022-07-04)
+### [线条2.0.8](https://github.com/truecharts/apps/compare/wireshark-2.0.7...wireshark-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="wireshark-2.0.6"></a>
 
-### [wireshark-2.0.6](https://github.com/truecharts/apps/compare/wireshark-2.0.5...wireshark-2.0.6) (2022-06-22)
+### [无线电-2.0.6](https://github.com/truecharts/apps/compare/wireshark-2.0.5...wireshark-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="wireshark-2.0.5"></a>
 
-### [wireshark-2.0.5](https://github.com/truecharts/apps/compare/wireshark-2.0.4...wireshark-2.0.5) (2022-06-21)
+### [无线电-2.0.5](https://github.com/truecharts/apps/compare/wireshark-2.0.4...wireshark-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="wireshark-2.0.4"></a>
 
-### [wireshark-2.0.4](https://github.com/truecharts/apps/compare/wireshark-2.0.3...wireshark-2.0.4) (2022-06-14)
+### [铁干线-2.0.4](https://github.com/truecharts/apps/compare/wireshark-2.0.3...wireshark-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="wireshark-2.0.3"></a>
 
-### [wireshark-2.0.3](https://github.com/truecharts/apps/compare/wireshark-2.0.2...wireshark-2.0.3) (2022-06-11)
+### [无线电-2.0.3](https://github.com/truecharts/apps/compare/wireshark-2.0.2...wireshark-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="wireshark-2.0.2"></a>
 
-### [wireshark-2.0.2](https://github.com/truecharts/apps/compare/wireshark-2.0.1...wireshark-2.0.2) (2022-06-07)
+### [线条2.0.2](https://github.com/truecharts/apps/compare/wireshark-2.0.1...wireshark-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -136,7 +136,7 @@
 
 <a name="wireshark-2.0.1"></a>
 
-### [wireshark-2.0.1](https://github.com/truecharts/apps/compare/wireshark-1.0.20...wireshark-2.0.1) (2022-06-07)
+### [无线电-2.0.1](https://github.com/truecharts/apps/compare/wireshark-1.0.20...wireshark-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="wireshark-1.0.20"></a>
 
-### [wireshark-1.0.20](https://github.com/truecharts/apps/compare/wireshark-1.0.19...wireshark-1.0.20) (2022-05-31)
+### [铁干线-1.0.20](https://github.com/truecharts/apps/compare/wireshark-1.0.19...wireshark-1.0.20) (2022-05-31)
 
 #### 聊天
 
@@ -179,7 +179,7 @@
 
 <a name="wireshark-1.0.19"></a>
 
-### [wireshark-1.0.19](https://github.com/truecharts/apps/compare/wireshark-1.0.18...wireshark-1.0.19) (2022-05-26)
+### [连线-1.0.19](https://github.com/truecharts/apps/compare/wireshark-1.0.18...wireshark-1.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="wireshark-1.0.19"></a>
 
-### [wireshark-1.0.19](https://github.com/truecharts/apps/compare/wireshark-1.0.18...wireshark-1.0.19) (2022-05-26)
+### [连线-1.0.19](https://github.com/truecharts/apps/compare/wireshark-1.0.18...wireshark-1.0.19) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="wireshark-1.0.18"></a>
 
-### [wireshark-1.0.18](https://github.com/truecharts/apps/compare/wireshark-1.0.17...wireshark-1.0.18) (2022-05-24)
+### [无线电-1.0.18](https://github.com/truecharts/apps/compare/wireshark-1.0.17...wireshark-1.0.18) (2022-05-24)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="wireshark-1.0.17"></a>
 
-### [wireshark-1.0.17](https://github.com/truecharts/apps/compare/wireshark-1.0.16...wireshark-1.0.17) (2022-05-17)
+### [无线电-1.0.17](https://github.com/truecharts/apps/compare/wireshark-1.0.16...wireshark-1.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="wireshark-1.0.17"></a>
 
-### [wireshark-1.0.17](https://github.com/truecharts/apps/compare/wireshark-1.0.16...wireshark-1.0.17) (2022-05-17)
+### [无线电-1.0.17](https://github.com/truecharts/apps/compare/wireshark-1.0.16...wireshark-1.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="wireshark-1.0.16"></a>
 
-### [wireshark-1.0.16](https://github.com/truecharts/apps/compare/wireshark-1.0.15...wireshark-1.0.16) (2022-05-17)
+### [无线电-1.0.16](https://github.com/truecharts/apps/compare/wireshark-1.0.15...wireshark-1.0.16) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="wireshark-1.0.15"></a>
 
-### [wireshark-1.0.15](https://github.com/truecharts/apps/compare/wireshark-1.0.14...wireshark-1.0.15) (2022-05-10)
+### [连线-1.0.15](https://github.com/truecharts/apps/compare/wireshark-1.0.14...wireshark-1.0.15) (2022-05-10)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="wireshark-1.0.14"></a>
 
-### [wireshark-1.0.14](https://github.com/truecharts/apps/compare/wireshark-1.0.13...wireshark-1.0.14) (2022-05-05)
+### [连线-1.0.14](https://github.com/truecharts/apps/compare/wireshark-1.0.13...wireshark-1.0.14) (2022-05-05)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="wireshark-1.0.12"></a>
 
-### [wireshark-1.0.12](https://github.com/truecharts/apps/compare/wireshark-1.0.11...wireshark-1.0.12) (2022-04-20)
+### [连线-1.0.12](https://github.com/truecharts/apps/compare/wireshark-1.0.11...wireshark-1.0.12) (2022-04-20)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="wireshark-1.0.11"></a>
 
-### [wireshark-1.0.11](https://github.com/truecharts/apps/compare/wireshark-1.0.10...wireshark-1.0.11) (2022-04-12)
+### [无线电-1.0.11](https://github.com/truecharts/apps/compare/wireshark-1.0.10...wireshark-1.0.11) (2022-04-12)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="wireshark-1.0.10"></a>
 
-### [wireshark-1.0.10](https://github.com/truecharts/apps/compare/wireshark-1.0.9...wireshark-1.0.10) (2022-04-03)
+### [无线电-1.0.10](https://github.com/truecharts/apps/compare/wireshark-1.0.9...wireshark-1.0.10) (2022-04-03)
 
 #### 修复
 
@@ -302,7 +302,7 @@
 
 <a name="wireshark-1.0.9"></a>
 
-### [wireshark-1.0.9](https://github.com/truecharts/apps/compare/wireshark-1.0.8...wireshark-1.0.9) (2022-03-31)
+### [线条-1.0.9](https://github.com/truecharts/apps/compare/wireshark-1.0.8...wireshark-1.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="wireshark-1.0.8"></a>
 
-### [wireshark-1.0.8](https://github.com/truecharts/apps/compare/wireshark-1.0.7...wireshark-1.0.8) (2022-03-30)
+### [连线-1.0.8](https://github.com/truecharts/apps/compare/wireshark-1.0.7...wireshark-1.0.8) (2022-03-30)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="wireshark-1.0.7"></a>
 
-### [wireshark-1.0.7](https://github.com/truecharts/apps/compare/wireshark-1.0.6...wireshark-1.0.7) (2022-03-26)
+### [无线电-1.0.7](https://github.com/truecharts/apps/compare/wireshark-1.0.6...wireshark-1.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="wireshark-1.0.5"></a>
 
-### [wireshark-1.0.5](https://github.com/truecharts/apps/compare/wireshark-1.0.4...wireshark-1.0.5) (2022-03-26)
+### [连线-1.0.5](https://github.com/truecharts/apps/compare/wireshark-1.0.4...wireshark-1.0.5) (2022-03-26)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="wireshark-1.0.1"></a>
 
-### [wireshark-1.0.1](https://github.com/truecharts/apps/compare/wireshark-1.0.0...wireshark-1.0.1) (2022-03-07)
+### [连线-1.0.1](https://github.com/truecharts/apps/compare/wireshark-1.0.0...wireshark-1.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -385,7 +385,7 @@
 #### 聊天
 
 * 将 `web_portal` 重命名为 `打开` ([#1957](https://github.com/truecharts/apps/issues/1957))
-* update container image tccr.io/truecharts/wireshark to v3.4.9 ([#1981](https://github.com/truecharts/apps/issues/1981))
+* 将容器图像 tccr.io/truechars/wireshark 更新为 v3.4.9 ([#1981](https://github.com/truecharts/apps/issues/1981))
 
 
 
@@ -580,7 +580,7 @@
 
 <a name="wireshark-0.0.4"></a>
 
-### [wireshark-0.0.4](https://github.com/truecharts/apps/compare/wireshark-0.0.3...wireshark-0.0.4) (2021-12-18)
+### [wereshark-0.0.4](https://github.com/truecharts/apps/compare/wireshark-0.0.3...wireshark-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -601,7 +601,7 @@
 
 <a name="wireshark-0.0.2"></a>
 
-### [wireshark-0.0.2](https://github.com/truecharts/apps/compare/wireshark-0.0.1...wireshark-0.0.2) (2021-12-13)
+### [wereshark-0.0.2](https://github.com/truecharts/apps/compare/wireshark-0.0.1...wireshark-0.0.2) (2021-12-13)
 
 #### 聊天
 
@@ -611,4 +611,4 @@
 
 <a name="wireshark-0.0.1"></a>
 
-### wireshark-0.0.1 (2021-12-12)
+### wireshark-0.0.1 (2021-12)
