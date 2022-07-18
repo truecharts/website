@@ -1,84 +1,84 @@
-# Contribution Guidelines
+# 贡献准则
 
-This project welcomes any and all input, but we need to have a few quality guidelines. These guidelines will be examplained here, in this document.
+这个项目欢迎任何和所有的投入，但我们需要有一些质量准则。 本文件将审查这些准则。
 
 ## GIT Guidelines
 
 ---
 
-### New to GIT
+### 新建GIT
 
-If you have never used git before, you can look up our general reference on our wiki.
+如果你以前从未使用过git，你可以在我们的维基上查找我们的一般参考。
 
-### Git and You
+### Git和你
 
-GIT is a fantastic system, but while using it we have a few guidelines to keep it fantastic for everyone.
+全球信息技术系统是一个奇妙的系统，但在使用全球信息技术系统时，我们有几条准则来保持它对每个人的幻想。
 
-- Submit complete PR's.
-- Add [DNM] if you do not want your PR merged yet.
-- Always try and fill in the whole form, even for small PR's.
-- Don't close when a reviewer requests changes (just push the changes or ask for help).
-- Explain what you did in your PR.
-- Be thorough.
-- If you can add screenshots to clarify.
-- Always try to add "Fixes #000" (where 000 is the Issue your PR fixes)
-- found something you want to fix yourself? Please do make an issue too.
+- 提交完整的 PR。
+- 添加 [DNM] 如果您不想要您的 PR 尚未合并。
+- 总是尝试填写整个表格，即使是小PR也是如此。
+- 当审核者请求更改时不要关闭(只需推送更改或寻求帮助)。
+- 解释您在PR中做了什么。
+- 彻底。
+- 如果您可以添加屏幕截图来澄清。
+- 总是尝试添加"修复#000"(如果这是你修复的 PR 问题)
+- 找到你想要修理自己的东西？ 请也提出一个问题。
 
-## Structure Guidelines
-
----
-
-### Inclusion of files and folders
-
-Although GIT is quite friendly in what it accepts in terms of files and folder changes in a commit, a reviewer's or bugfixer's time is not unlimited. For that reason, we have a few specific guidelines in regards to the inclusion of files and folders in your PR.
-
-- Only include files you actually changed.
-- Try not to include multiple changes in one PR
-- Want to change the formatting of multiple files too? Make a separate PR.
-
-## Code Guidelines
+## 结构准则
 
 ---
 
-### Your code, your style, my review
+### 包含文件和文件夹
 
-Here at TrueCharts, we value people having their own style. But your code needs to be reviewable and editable by others too. For that reason, we have a few basic coding guidelines
+虽然GIT在提交的文件和文件夹更改方面非常友好， 一个审核者或错误修正者的时间不是无限的。 为此原因，我们有几个关于将文件和文件夹纳入您的 PR的具体准则。
 
-- **Always** explain regex in a comment within your code.
-- Write simple code and don't try to impress.
-- We will run (Basic) automated reformating of code once in a while.
-- Document your changes in your code and if need be, on the wiki.
-- All PR's should be able to pass our automated tests.
+- 仅包含您实际更改的文件。
+- 尝试不要在一个PR 中包含多个更改
+- 想要更改多个文件的格式吗？ 创建一个单独的 PR。
 
-#### Apps requirements
-
-- Apps should always save user-specific data in a persistant location. That can be connected by both IXVolume or Hostpath
-- Apps should not require the user to edit any config file themselves. All config changes should be either automated or using the UI
-- Apps should not use default passwords, the user should always be forced(!) to put credentials in manually
-
-## Review Guidelines
+## 代码准则
 
 ---
 
-Even us review gods need some guidelines once in a while.
+### 你的代码，你的风格，我的评论
 
-- Let people learn from their mistakes
-- Review instead of merging without comments
-- Abide by these guidelines in your review
-- Tests exist for a reason. Don't merge with test-failures
+在这里的TrueCharts，我们珍视有自己风格的人。 但你的代码也需要其他人可以审阅和编辑。 为此原因，我们有一些基本编码准则
 
-## Todo vs Feature vs bug
+- **始终** 在你的代码中解释正则表达式。
+- 写下简单的代码，不要试图给人留下印象。
+- 我们将在一段时间内运行一次(基本)自动重置代码。
+- 记录您对代码的更改，如有必要，请在维基上记录。
+- 所有PR都应该能够通过我们的自动测试。
+
+#### 应用程序要求
+
+- 应用程序应始终在一个持久的位置保存用户特定的数据。 这可以通过 IXVolume 或 Hostpath 连接
+- 应用不应要求用户编辑任何配置文件。 所有配置更改都应该自动或使用界面
+- 应用不应该使用默认密码，用户应该始终被强制(!) 手动放置凭据
+
+## 审查准则
 
 ---
 
-Please take note of the difference between a TODO and Feature
+甚至我们还要审查一下一些指导原则。
 
-- Bug: An unexpected behavior of the script or a crash. Including, but not limited to, errors and warnings.
-- Todo: When you come across something that needs tweaking/adding during development, is not an unexpected behavior
-- Feature: When you, out of personal preference, want something added or changed.
+- 让人们从自己的错误中学习
+- 审查而不是合并而不加评论
+- 在您的评论中遵守这些准则
+- 测试是出于一种理由。 不要与测试失败合并
 
-### That's it!
+## Todo vs 特性与bug
 
 ---
 
-Someone will come along and review the changes. If everything looks good then they will merge it with the main repo. If you need any help don't be afraid to ask in the discord channel: [https://discord.gg/tFcTpBp](https://discord.gg/tFcTpBp)
+请注意TODO和功能之间的差异
+
+- 错误: 脚本或崩溃的意外行为。 包括但不限于错误和警告。
+- 待办事项：当您在开发过程中遇到需要调整/添加的东西时，不是意外的行为
+- 特性：当您出于个人偏好时，想要添加或更改某些内容。
+
+### 就是这样！
+
+---
+
+有人会前来查看更改。 如果一切都好了，他们就会把它与主仓库合并。 如果您需要任何帮助，不要害怕在Discord频道询问： [https://discord.gg/tFcTpBp](https://discord.gg/tFcTpBp)
