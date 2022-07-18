@@ -1,33 +1,33 @@
-# Migration between versions
+# 不同版本之间的迁移
 
-Sometimes we can not guarantee automatic updating between new versions of our Apps. These pages include some common scenario's and give some guidance how to manually move between different versions and Trains.
+有时，我们不能保证在我们的应用程序的新版本之间自动更新。 这些页面包括一些常见的场景，并提供一些指导，说明如何在不同版本和 Trap 之间手动移动。
 
-## Between Trains
+## 列车之间
 
-An app will always be just in one train. If an App moves to a different train, you will not be able to update automatically Our basic guidance for these cases is:
+一个应用将永远只是在一列车。 如果应用程序移动到另一列车，您将无法自动更新 我们对这些情况的基本指导是：
 
-- Backup all your files, config and databases.
-- Make notes on how you set up your app previously
-- Delete the old App
-- Install the new app using your previously made setup notes
-- Stop the new App
-- Put back all your old files.
-- Re start the new App
+- 备份您所有的文件、配置和数据库。
+- 说明您以前如何设置您的应用
+- 删除旧应用程序
+- 使用您以前做的设置记事安装新应用
+- 停止新应用
+- 还原所有旧的文件。
+- Re 启动新应用
 
-## Between Versions
+## 版本之间
 
-When new versions introduce breaking changes (which would often be major version changes) they might(!) require the user to reinstall. However: We often already provide migration scrips and dealt with these issues manually.
+当新版本引入破坏性更改(通常是主要版本更改)时，可能需要用户重新安装。 但是，我们往往已经提供了移民洗手，并以手工方式处理这些问题。
 
-### Common 2.0 -> common 3.0 based Apps
+### 常见的 2.0 -> 基于 3.0 的共同应用程序
 
-In cases you upgrade to a common 3.0 based app, reinstall is currently required. Please be aware: Installing will nuke your data! Be also aware that we do not have common 2.0 based installs available in the version dropdown
+如果您升级到了一个基于 3.0 的共同应用程序，则当前需要重新安装。 请注意：安装将会使您的数据升温！ 还请注意，我们在下拉列表中没有基于2.0的共同安装程序
 
-### Common 3.0 -> common 4.0 based Apps
+### 常见的 3.0 -> 基于 4.0 的共同应用程序
 
-In cases you upgrade to a common 4.0 based app, reinstall is currently required. Please be aware: Installing will nuke your data! However: Common 3.0 based Apps are still available to be installed using the version dropdown
+如果您升级到一个基于 4.0 的共同应用程序，则当前需要重新安装。 请注意：安装将会使您的数据升温！ 但是: 仍然可以使用版本下拉菜单安装基于 Common 3.0 的应用程序
 
-### Common 4.0 -> common 5.0 based Apps
+### 常见的 4.0 -> 常见的 5.0 基于应用程序
 
-Common 5.0.0 is actually a rather small update: It just allows using a ramdisk when using emptyDir on hostPathMount. It is however still a breaking change.
+Common 5.0 .0 实际上是一个相当小的更新：它只允许在主机PathMount使用空迪尔时使用一个硬盘。 然而，这仍然是一种突破性的变化。
 
-To update, we advice removing all(!) entries from hostPathMounts/customStorage and readd them after the update
+要更新，我们建议从主机PathMount/自定义存储中删除所有(!)条目，并在更新后读取它们。
