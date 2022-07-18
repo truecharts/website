@@ -80,7 +80,7 @@
 
 #### Feat
 
-* move to stable and add some envs ([#3027](https://github.com/truecharts/apps/issues/3027))
+* 移动到稳定并添加一些枚举([#3027](https://github.com/truecharts/apps/issues/3027))
 
 
 
@@ -101,4 +101,4 @@
 
 #### Feat
 
-* Add WG-Easy Chart ([#2982](https://github.com/truecharts/apps/issues/2982))
+* 添加 WG-Easy 图表 ([#2982](https://github.com/truecharts/apps/issues/2982))
