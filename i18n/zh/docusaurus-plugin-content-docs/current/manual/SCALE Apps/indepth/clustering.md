@@ -1,38 +1,38 @@
-# Clustering
+# 群集中
 
-One of the eventual goals of SCALE is to run hyper-converged clusters based on ZFS, Gluster and Kubernetes. While this is awesome, we like to highlight 3 ways of using Clustering with TrueCharts Apps in the future.
+该系统的最终目标之一是运行基于ZFS、Gluster和Kubernetes的超汇集群。 虽然这是很棒的，但我们想突出强调未来使用TrueCharts应用集群的3种方式。
 
-Currently no clustering is supported with TrueCharts yet, but we already make precautions during our design phase to implement clustering smoothly in the future.
+目前没有TrueCharts支持集群，但我们已经在设计阶段采取预防措施，在今后顺利进行集群。
 
-## Single-Pod Flexible
+## 单风弹性模式
 
-These Apps (can) only run a single instance of a pod at a time, so no "high available" setup available. However these Apps can still dynamically moved over to different nodes if a node fails, this should make sure the downtime stays relatively small. These apps can also be "spread" over all nodes by kubernetes. This also means it's worth cutting big Single-Pod Apps into multiple smaller deployments, For example: n we prefer to deploy small database servers with every App (as those can more dynamically be spread over multiple nodes) over one Big single-pod Flexible App.
+这些应用程序(can) 一次只运行一个单个的pod 实例，因此没有可用的“高可用”设置。 然而，如果节点失败，这些应用仍然可以动态地移至不同的节点，这将确保关闭时间相对较小。 这些应用也可以通过 kubernetes 在所有节点上“扩展”。 这也意味着值得将单击应用切割成多个较小的部署， 例如：n 我们更喜欢部署每个应用程序的小型数据库服务器（因为这些软件可以更动态地分布在多个节点上）通过一个大型单点软体应用程序。
 
-Some examples of Apps that can not run with more than one pod at a time, even if we wanted to, are:
+即使我们想要，也不能同时运行一个以上的应用程序的一些例子：
 
-- Sonarr
+- 索纳尔
 - Lidarr
-- Radarr
+- 雷达尔
 - Plex
 
-## Single-Pod non-flexible
+## 单声道非灵活的
 
-These Apps can not be run with more than 1 pod at a time and on the other hand are bound to a node. This means: Host-Down? Pod-Down!
+这些应用每次运行时不能超过一个点数，而另一方面又被绑定到一个节点。 这意味着：主机？ 下拉！
 
-Almost always this is caused by Apps being bound to a specific hardware setup.
+这几乎总是由于应用程序被绑定到特定的硬件安装。
 
-*Examples:*
+*示例：*
 
 - zwavejs2mqtt
-- HomeAssistant (depending on added hardware)
-- Handbrake (depending on added hardware)
+- HomeAssistant (取决于添加的硬件)
+- 握手(取决于添加的硬件)
 
-## High Availability Apps
+## 高可用性应用
 
-These Apps are designed to be the most resilient of all, they can handle node failures and pod failures without any issue, because they always run multiple Pods at once that fill in once pods or nodes start failing.
+这些应用设计为最具复原力的应用，它们可以处理节点故障和播客故障，没有任何问题。 因为他们总是同时运行多个Pod，一次填充或节点开始失败。
 
-Because these Apps are also the most complicated of all, we try to limit them to key-area's of the TrueCharts ecosystem that can not be cut into smaller pieces (Single-Pod Flexible) easily. Like: Ingress and Monitoring.
+因为这些应用程序也是最复杂的应用程序， 我们试图将它们限制在TrueCharts生态系统的关键区域，这种生态系统不能轻易地被切割成小块（Single-Pod Flexible）。 同样：会议和监测。
 
-*Examples:*
+*示例：*
 
 - Traefik
