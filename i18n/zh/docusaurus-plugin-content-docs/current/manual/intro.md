@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# 一. 导言
 
-This manual contains general information on working with TrueCharts Charts. Please always also check the Chart specific content.
+本手册载有关于TrueCharts图表工作的一般信息。 请始终检查图表的特定内容。
