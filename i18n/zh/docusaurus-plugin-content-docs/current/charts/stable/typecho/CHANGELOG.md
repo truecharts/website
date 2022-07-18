@@ -375,7 +375,7 @@
 
 #### 修复
 
-* Fix db host ([#2409](https://github.com/truecharts/apps/issues/2409))
+* 修复db 主机 ([#2409](https://github.com/truecharts/apps/issues/2409))
 
 
 
