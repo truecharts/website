@@ -1,43 +1,43 @@
-# 07 - Adding Lets-Encrypt Certificates
+# 07-添加Lets-Encrypt 证书
 
-With TrueNAS SCALE, it's possible to automatically generate certificates for your domain(s) using letsencrypt. However, this process is not very self-explanatory. After you managed to complete this how-to, you should be able to select "iX Certificate" as certificate option and your personal certificate in the other drop-down box!
+使用 TrueNAS SCALE 可以使用字母加密自动生成域证书。 然而，这个过程并不是非常不言自明的。 在你设法完成这个操作后， 您应该能够在另一个下拉框中选择“iX证书”作为证书选项和您的个人证书！
 
 ## B. 所需经费
 
-To use iX Certificates with letsencrypt there are a few requirements:
+若要使用 iX 证书与letsensencrypt 有几个要求：
 
-- Preferably use a DNS server that doesn't have any caching (no local DNS server) for your TrueNAS system.
-- Have an email address entered for your TrueNAS SCALE `root` user. (this email will also be used for letsencrypt reminder!)
-- Own a domain name
-- Use either Cloudflare or AWS Route53 for your domain. (In case you wonder: Using Cloudflare as DNS provider is free)
-- Have an active internet connection so TrueNAS SCALE can contact Cloudflare or AWS to verify your domain ownership
+- 最好使用一个没有缓存的 TrueNAS系统的DNS 服务器 (没有本地的DNS服务器)。
+- 有为您的TrueNAS SCALE `root` 用户输入的电子邮件地址。 (这个电子邮件也将用于字母加密提醒！)
+- 拥有域名
+- 使用Cloudflare或AWS Route53作为您的域名。 (如果你想知道的话：使用云面包作为免费的DNS提供商)
+- 有活跃的互联网连接。TrueNAS SCALE 可以联系Cloudflare或AWS 来验证您的域所有权。
 
 ## 如何到
 
-- Click `Credentials` in the Left side menu and go the `Certificates` page.
+- 在左侧菜单中点击 `凭据` ，然后转到 `证书` 页面。
 
 ![LE2](/img/LE/LE2.png)
 
-- Notice `ACME DNS-Authenticators`, select `Add` besides `ACME DNS-Authenticators` to open the menu for adding your DNS provider for domain verification.
+- 注意 `ACME DNS-身份验证器`， 选择 `添加` 除 `ACME DNS-身份验证器` 打开菜单以添加您的DNS提供商进行域验证。
 
-- Enter the required information and click `save`. For Cloudflare you need either a global API-Key or a limited-scope API token. Please refer to cloudflare and/or AWS on how to get the required credentials.
+- 输入所需信息并点击 `保存`。 对于云端，您需要一个全局的 API-密钥或限定范围 API 令牌。 请参阅云端和/或AWS，了解如何获得所需凭据。
 
 ![LE1](/img/LE/LE1.png)
 
-- Notice `Certificate Signing Requests`, select `Add` besides `Certificate Signing Requests` to open the menu for adding the domain information you want a certificate for.
+- 注意 `证书签名请求`， 选择 `添加` 除 `证书签名请求` 打开菜单以添加您想要证书的域信息。
 
 ![LE3](/img/LE/LE3.png)
 
-- Enter all information required in the wizard and save it. If you are not sure, the defaults are almost always "alright", because most of what you enter here is completely ignored by Letsencrypt. `Common Name` in this case means `Primary domain name`, whereas `Subject Alternate Names` means `Extra domain names`.
+- 输入向导中所需的所有信息并保存。 如果您不确定，默认值几乎总是“惊喜”，因为您在这里输入的大多数内容都被Letsencrypt完全忽略。 `通用名称` 在这种情况下意味着 `主域名`, `主题备选名称` 表示 `额外域名`
 
 ![LE4](/img/LE/LE5.PNG)
 
-- Notice your new `Certificate Signing Request` showing up in the box below `Certificate Signing Requests`. Also notice the small `wrench` icon to the right of your `Certificate Signing Request`
+- 请注意您新的 `证书签名请求` 显示在下面的方框中 `证书签名请求` 另请注意 `wrench` 图标右侧的 `证书签名请求`
 
-- Click the small `wrench` icon, this will open the `Create ACME Certificate` menu. In this menu we can actually request either a real (Production) certificate or a testing (staging) certificate from Letsencrypt. For clarity, it's advisable to use the same Authenticator for all domain names. However: It's okay to generate both a testing and a staging certificate for the same domain.
+- 点击小的 `wrench` 图标，这将打开 `创建 ACME 证书` 菜单。 在这个菜单中，我们实际上可以从字母加密中申请真实的(生产)证书或测试(分阶段)证书。 为了明确起见，最好对所有域名使用相同的身份验证器。 但：可以同时为同一域生成测试和待发布证书。
 
-- After saving and awaiting the generation process, you should end up with another `Certificate Signing Request` and a new `Certificate` under `Certificates`, this new `Certificate Signing Request` is used to renew your `Certificate` in the future and should not be deleted!
+- 在拯救后等待生成过程， 你最后应该是另一个 `证书签名请求` 和一个新的 `证书` 在 `证书`, 此新的 `证书签名请求` 用于续订您的 `证书` 不应被删除！
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/TJ5fDiDRcbU)
+![类型 :video](https://www.youtube.com/embed/TJ5fDiDRcbU)
