@@ -8,6 +8,7 @@ files:
       - default_port_list.md
       - volume_list.md
       - description_list.md
+      - security.md
     translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
   - source: /blog/**/*
     translation: /i18n/%two_letters_code%/docusaurus-plugin-content-blog/**/%original_file_name%
