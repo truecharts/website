@@ -351,7 +351,7 @@
 
 #### 聊天
 
-* update container image tccr.io/truecharts/statping to v0.90.78
+* 更新容器图像 tccr.io/truechars/statping 到 v0.90.78
 
 
 
@@ -1037,7 +1037,7 @@
 
 <a name="statping-0.0.2"></a>
 
-### [statping-0.0.2](https://github.com/truecharts/apps/compare/statping-0.0.1...statping-0.0.2) (2021-10-19)
+### [stating-0.0.2](https://github.com/truecharts/apps/compare/statping-0.0.1...statping-0.0.2) (2021-10-19)
 
 #### 聊天
 
