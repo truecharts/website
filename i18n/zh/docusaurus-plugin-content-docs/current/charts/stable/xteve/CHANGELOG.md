@@ -348,7 +348,7 @@
 
 #### 修复
 
-* Fix webui path ([#2341](https://github.com/truecharts/apps/issues/2341))
+* 修复webui 路径([#2341](https://github.com/truecharts/apps/issues/2341))
 
 
 
@@ -594,7 +594,7 @@
 
 <a name="xteve-4.0.23"></a>
 
-### [xteve-4.0.23](https://github.com/truecharts/apps/compare/xteve-4.0.22...xteve-4.0.23) (2021-12-18)
+### [xteve-4.0.23](https://github.com/truecharts/apps/compare/xteve-4.0.22...xteve-4.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -868,7 +868,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
