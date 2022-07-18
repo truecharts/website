@@ -6,7 +6,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 
 ## 源代码
 
-* <https://github.com/transmission/transmission>
+* [https://github.com/transmission/transmission/transmission](https://github.com/transmission/transmission)
 * <https://hub.docker.com/r/linuxserver/transmission>
 
 ## B. 所需经费
