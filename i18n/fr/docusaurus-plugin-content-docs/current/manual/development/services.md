@@ -1,6 +1,6 @@
 # Services
 
-Chaque application doit être exposée à quelque chose, que ce soit une interface utilisateur, une API ou d'autres conteneurs. o<unk> avec Kubernetes nous ne nous connectons pas directement aux conteneurs exécutant l'App, parce que ceux-ci peuvent être sur un autre noeud ou qu'il peut y avoir plusieurs conteneurs "high available" pour l'application. Au lieu de cela, nous utilisons ce qui est appelé `Services`. Les services sont simplement mis "Répartiteurs de charge interne", ils sont également garantis d'être joignables par (intérieur!) Le nom DNS et (dans certains cas) empêchent le trafic d'atteindre votre application lorsque le test de santé n'est pas encore terminé (ou qu'il échoue).
+avec Kubernetes nous ne nous connectons pas directement aux conteneurs exécutant l'App, parce que ceux-ci peuvent être sur un autre noeud ou qu'il peut y avoir plusieurs conteneurs "high available" pour l'application. Au lieu de cela, nous utilisons ce qui est appelé `Services`. Les services sont simplement mis "Répartiteurs de charge interne", ils sont également garantis d'être joignables par (intérieur!) Le nom DNS et (dans certains cas) empêchent le trafic d'atteindre votre application lorsque le test de santé n'est pas encore terminé (ou qu'il échoue).
 
 ## Deux types de services
 

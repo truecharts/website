@@ -76,9 +76,5 @@ common-test::ingress
 
 common-test::controller type
   accept "daemonset" PASS (0. 6s)
-  accepte le PASS "statefulset" (0. 6s)
-  par défaut à "Deployment" PASS (0. 6s)
-
-Terminé en 2.26077s
-22 tests, 59 assertions, 0 échecs, 0 erreurs, 0 saut
+  accepte le PASS "statefulset" (0.
 ```

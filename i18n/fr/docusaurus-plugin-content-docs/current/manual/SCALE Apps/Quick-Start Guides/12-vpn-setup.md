@@ -17,7 +17,7 @@
     - Habituellement après les adresses IPv4
     - `::/0` est la syntaxe IPv6.
 
-Voici un exemple de configuration de Wireguard Notez les adresses IPv6 supprimées et la ligne DNS Supprimée.
+Voici un exemple de configuration de Wireguard Voici un exemple de configuration de Wireguard Notez les adresses IPv6 supprimées et la ligne DNS Supprimée.
 
 ```text
 [Interface]

@@ -10,9 +10,7 @@ Sous licence Apache, Version 2.0 (la "License") ;
 vous ne pouvez pas utiliser ce fichier sauf en conformité avec la Licence.
 Vous pouvez obtenir une copie de la licence à
 
-    http://www.apache.org/licenses/LICENSE-2.
-
-Sauf si requis par la loi applicable ou accepté par écrit, le logiciel
+    http://www.apache.org/licenses/LICENSE-2. Sauf si requis par la loi applicable ou accepté par écrit, le logiciel
 distribué sous la Licence est distribué sur une BASE « TEL QUEL »,
 SANS AUCUNE GARANTIE OU CONDITION DE QUELQUE NATURE QUE CE SOIT, explicite ou implicite.
 Voir la licence pour la langue spécifique régissant les autorisations et les
@@ -32,8 +30,7 @@ Ce fichier est considéré comme modifié par le projet TrueCharts.
 # vous ne pouvez pas utiliser ce fichier sauf en conformité avec la Licence.
 # Vous pouvez obtenir une copie de la licence à
 #
-# http://www.apache.org/licenses/LICENSE-2.
-#
+# http://www.apache.org/licenses/LICENSE-2. #
 # Sauf si requis par la loi applicable ou accepté par écrit, le logiciel
 # distribué sous la licence est distribué "TEL QUEL",
 # SANS AUCUNE GARANTIE OU CONDITION DE QUELQUE NATURE QUE CE SOIT, explicite ou implicite.

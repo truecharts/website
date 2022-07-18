@@ -58,8 +58,7 @@ Es gibt einige neuartige Fälle, in denen wir gerne die Möglichkeit zur Konfigu
         label: "Dataset Name"
         Schema:
           Typ: true: true
-          required: true 
-
+          required: true
 ```
 
 In der obigen Variable definieren wir ein `$ref` im Schema, das festlegt, dass das System eine Aktion zur Normalisierung des für die Variable angegebenen Wertes durchführen soll. In diesem konkreten Fall `ix_volume` ist ein eingeführtes Konzept, bei dem wir empfehlen, ein Volume zu verwenden, das wir automatisch beim Chart-Release-Rollback zurückführen können. Im Wesentlichen ist nur ein Volume `hostPath` für das das System automatisch den angegebenen Datensatz erstellt. Wir haben die folgenden Arten von Aktionen unterstützt in `$ref` derzeit:
@@ -230,6 +229,5 @@ Diese Optionen sind immer enthalten\* weil fast jedes Diagramm (letztendlich) ei
             enum:
               - Wert: "OnRootMismatch"
                 description: "OnRootMismatch"
-              - Wert: "Immer"
-                Beschreibung: "Immer"
+              -
 ```

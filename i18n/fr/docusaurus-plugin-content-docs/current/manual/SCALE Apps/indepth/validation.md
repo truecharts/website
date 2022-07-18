@@ -20,7 +20,7 @@ Regex utilisé pour correspondre à ceux-ci: `^(?!^0(\.0|m|)$)([0-9]+)(\.[0-9]|m
 
 - Suffixé avec E, P, T, G, M, K (par ex. `5G`) - Cela signifie 5Gigaoctet de RAM
 - Suffixé avec Ei, Pi, Ti, Gi, Mi, Ki (par exemple. `5Gi`) - Cela signifie 5Gibibyte de RAM
-- Nombre entier brut (par exemple. `134217728`) - Cela signifie 128Mégaoctets de RAM
+- `134217728`) - Cela signifie 128Mégaoctets de RAM
 - En tant que format d'exposant (par ex. `134e6`) cela signifie ~128mégaoctets de RAM
 
 Regex utilisé pour correspondre à ceux-ci: `^(?! 0(e[0-9]|[EPTGMK]i?|)$)([0-9]+)(|[EPTGMK]i? e[0-9]+)$` Vous pouvez essayer en direct [ici](https://regex101.com/r/LyDc6u/1) Plus d'informations peuvent être trouvées [ici](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-memory)

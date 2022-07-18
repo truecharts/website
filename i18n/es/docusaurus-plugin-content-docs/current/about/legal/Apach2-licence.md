@@ -58,7 +58,7 @@
 
    APPENDIX: Cómo aplicar la Licencia Apache a su trabajo.
 
-      Para aplicar la Licencia Apache a su trabajo, adjunte el siguiente aviso de boilerplate notice, con los campos encerrados por corchetes "[]" sustituidos por su propia información de identidad. (¡No incluyas los corchetes!)  El texto debe ser adjuntado en la sintaxis de comentarios correspondiente para el formato de archivo. También recomendamos que un archivo o nombre de clase y descripción del propósito se incluyan en la misma "página impresa" que el aviso de derechos de autor para facilitar la identificación dentro de archivos de terceros.
+      Para aplicar la Licencia Apache a su trabajo, adjunte el siguiente aviso de boilerplate notice, con los campos encerrados por corchetes "[]" sustituidos por su propia información de identidad. (¡No incluyas los corchetes!)  (¡No incluyas los corchetes!)  El texto debe ser adjuntado en la sintaxis de comentarios correspondiente para el formato de archivo. También recomendamos que un archivo o nombre de clase y descripción del propósito se incluyan en la misma "página impresa" que el aviso de derechos de autor para facilitar la identificación dentro de archivos de terceros.
 
    Copyright 2020 k8s@Home
 

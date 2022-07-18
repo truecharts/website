@@ -10,7 +10,7 @@ La validación se asegura de que la entrada esté en el formato deseado, para qu
 
 **`CPU`** formatos aceptados son:
 
-- Entero simple (ej. `1`) - Esto significa 1 hiperhilo
+- `1`) - Esto significa 1 hiperhilo
 - Float (ej. `0.5`) - Esto significa medio hiperhilo
 - Milicpu (por ejemplo, `500m`) Esto también significa medio hiperhilo
 
@@ -20,7 +20,7 @@ Regex usado para emparejar estos: `^(?!^0(\.0|m|)$)([0-9]+)(\.[0-9]|m? $` Puedes
 
 - Sufijo con E, P, T, G, M, K (ej. `5G`) - Esto significa 5Gigabyte de RAM
 - Sufijo con Ei, Pi, Ti, Gi, Mi, Ki (ej. `5Gi`) - Esto significa 5Gibibyte de RAM
-- Entero llano (ej. `134217728`) - Esto significa 128Megabyte de RAM
+- `134217728`) - Esto significa 128Megabyte de RAM
 - Como formato exponente (por ejemplo, `134e6`) Esto significa ~128Megabyte de RAM
 
 Regex usado para coincidir eso: `^(?! 0(e[0-9]|[EPTGMK]i?|)$)([0-9]+)(|[EPTGMK]i? e[0-9]+)$` Puedes probar en vivo [aquí](https://regex101.com/r/LyDc6u/1) Puedes encontrar más información [aquí](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-memory)

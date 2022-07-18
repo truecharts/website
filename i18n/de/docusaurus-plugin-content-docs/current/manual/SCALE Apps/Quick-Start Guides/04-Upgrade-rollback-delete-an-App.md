@@ -44,7 +44,7 @@ Die App wird dann einen Prozess der Sicherung (!) und der Aktualisierung durchla
 
 Leider listet SCALE nicht auf, auf welche Versionen Rollback möglich ist, sondern benötigt die Eingabe einer Version. Es gibt einen kurzen Durchgang, um die Versionierungsgeschichte für die App in Frage zu stellen:
 
-1. `exportiere KUBECONFIG=/etc/rancher/k3s/k3s.yaml`
+1. exportiere KUBECONFIG=/etc/rancher/k3s/k3s.yaml
 2. führen Sie  `helm History Jackett -n ix-jackett aus, wo "Jackett"` durch den Namen der App ersetzt werden sollte, die Ihre UI gebrochen hat Sie sehen Folgendes: ![history](/img/rollback/history.png) Notiz: "Chart" Spalte, es listet die Versionsnummern auf, die Sie in der Rollback-Schnittstelle eingeben können, die mit dem App-Namen vorangestellt ist. Von grober Größe nur die Versionsnummer in die GUI oder CLI eingeben, nicht der Name
 
 ## Löschen

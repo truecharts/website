@@ -38,7 +38,7 @@ Akzeptierte Zeichen sind:
 - `.`, `-`, `_`
 - `"` (Leerraum, nicht am Anfang oder Ende)
 
-Regex passt zu diesen: `^\/([a-zA-Z0-9._-]+(\s?[a-zA-Z0-9._-]+|\/?))+$` Hier können Sie live versuchen [](https://regex101.com/r/WjSpXg/1)
+Regex passt zu diesen: `^\/([a-zA-Z0-9._-]+(\s?[a-zA-Z0-9._-]+|\/?))+$` Hier können Sie live versuchen
 
 ---
 

@@ -20,7 +20,7 @@ charts/<train>/<chart name>/SCALE/
   app-readme. d # Especifico de la SCALE TrueNAS: Archivo de lectura para mostrar en la interfaz de TrueNAS SCALE, pregunta
   generada automáticamente. aml # Especifico TrueNAS SCALE: archivo que contiene preguntas para la interfaz de la SCALE TrueNAS
   ix_values. los valores de configuración ocultos de aml # al instalar usando el elemento TrueNAS SCALE
-  . aml # Contiene información genérica sobre la aplicación para la interfaz de la SCALE de TrueNAS
+  .
 ```
 
 *Vea la referencia al desarrollador [del gráfico de Helm](https://helm.sh/docs/chart_template_guide/) para un paseo completo por las cartas de desarrollo.*

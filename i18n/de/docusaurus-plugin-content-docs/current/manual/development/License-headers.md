@@ -15,8 +15,7 @@ Sie können eine Kopie der Lizenz unter
 Sofern nicht gesetzlich vorgeschrieben oder schriftlich vereinbart, wird Software
 unter der Lizenz auf BASIS "AS IS" verteilt,
 OHNE GEWÄHRLEISTUNG ODER BEDINGUNGEN JEGLICHER KIND, sei es ausdrücklich oder stillschweigend.
-Sehen Sie sich die Lizenz für die jeweilige Sprache an, die die Berechtigungen regelt, und
-Einschränkungen unter der Lizenz.
+Sehen Sie sich die Lizenz für die jeweilige Sprache an, die die Berechtigungen regelt, und Einschränkungen unter der Lizenz.
 
 `SPDX-License-Identifier: Apache-2.0`
 
@@ -32,8 +31,7 @@ Diese Datei wird vom TrueCharts-Projekt als modifiziert angesehen.
 # Sie dürfen diese Datei nur in Übereinstimmung mit der Lizenz verwenden.
 # Sie können eine Kopie der Lizenz unter
 #
-# http://www.apache.org/licenses/LICENSE-2 erhalten.
-#
+# http://www.apache.org/licenses/LICENSE-2 erhalten. #
 # Sofern nicht durch geltendes Recht erforderlich oder schriftlich vereinbart, Software
 # unter der Lizenz verteilt wird auf einer "AS IS" BASIS verteilt,
 # OHNE GEWÄHRLEISTUNGEN ODER BEDINGUNGEN JEGLICHER KIND, sei es ausdrücklich oder stillschweigend.

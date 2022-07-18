@@ -1,6 +1,6 @@
 # Dienste
 
-Jede App muss etwas ausgesetzt sein, entweder eine Benutzeroberfläche, API oder andere Container. o<unk> mit Kubernetes verbinden wir uns nicht direkt mit den Containern mit der App, weil diese auf einem anderen Knoten liegen könnten oder es mehrere "hochverfügbare" Container für die App gibt. Stattdessen verwenden wir `Dienste`. Die Dienste werden einfach als "Interne Load-Balancers" bezeichnet, sie werden auch durch (interne) garantiert erreichbar sein. DNS-Name und (in einigen Fällen) verhindern, dass der Datenverkehr Ihre App erreicht, wenn der Gesundheitscheck noch nicht beendet ist (oder fehlschlägt).
+mit Kubernetes verbinden wir uns nicht direkt mit den Containern mit der App, weil diese auf einem anderen Knoten liegen könnten oder es mehrere "hochverfügbare" Container für die App gibt. Stattdessen verwenden wir `Dienste`. Die Dienste werden einfach als "Interne Load-Balancers" bezeichnet, sie werden auch durch (interne) garantiert erreichbar sein. DNS-Name und (in einigen Fällen) verhindern, dass der Datenverkehr Ihre App erreicht, wenn der Gesundheitscheck noch nicht beendet ist (oder fehlschlägt).
 
 ## Zwei Arten von Dienstleistungen
 

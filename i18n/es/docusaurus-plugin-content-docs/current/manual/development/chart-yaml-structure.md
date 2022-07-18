@@ -1,6 +1,6 @@
 # Diseño de Chart.yaml
 
-En TrueCharts tratamos de mantener algunos archivos estandarizados, esto nos permite hacer cambios en estos gráficos en masa con menos riesgo de errores. Chart.yaml es uno de estos archivos. En esta documentación explicaremos las opciones de diseño estandarizado. Para un diseño de ejemplo, consulte nuestra plantilla estándar de Chart.yaml [](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml)
+En TrueCharts tratamos de mantener algunos archivos estandarizados, esto nos permite hacer cambios en estos gráficos en masa con menos riesgo de errores. Chart.yaml es uno de estos archivos. En esta documentación explicaremos las opciones de diseño estandarizado. Para un diseño de ejemplo, consulte nuestra plantilla estándar de Chart.yaml
 
 ## Diseño explicado
 
@@ -10,7 +10,7 @@ kubeVersion: Un rango de SemVer de versiones compatibles de Kubernetes (opcional
 name: El nombre de la carta (requerido)
 version: A SemVer 2 versión (requerido)
 upstream_version: A SemVer 2, como lo usa una fuente de Helm Chart (opcional)
-appVersion: La versión de la aplicación que contiene (opcional). No necesita ser SemVer. Citas recomendadas.
+appVersion: No necesita ser SemVer. Citas recomendadas.
 description: Una descripción de una sola frase de este proyecto (opcional)
 tipo: El tipo de gráfico (opcional)
 obsoleto: Si este gráfico está obsoleto (opcional, boolean)
