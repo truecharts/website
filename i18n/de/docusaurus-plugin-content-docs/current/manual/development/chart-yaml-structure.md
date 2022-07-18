@@ -26,9 +26,7 @@ Abhängigkeiten:
     Version: Die Version des Diagramms ("1.2. ")
     Bedingung: (optional) Ein yaml-Pfad, der sich mit einem Boolean auflöst, der zum Aktivieren/Deaktivieren von Diagrammen verwendet wird (z.B. subchart1. nabled )
     tags: # (optional)
-      - Tags können verwendet werden, um Diagramme zu gruppieren, um gemeinsam zu aktivieren/deaktivieren
-    Import-Werte: # (optional)
-      - ImportValues enthält die Zuordnung von Quellwerten zum zu importierenden Elternschlüssel. Jedes Element kann eine Zeichenkette oder ein Paar untergeordneter Elemente sein.
+      - Jedes Element kann eine Zeichenkette oder ein Paar untergeordneter Elemente sein.
     Alias: (optional) Alias für das Diagramm. Nützlich, wenn Sie das selbe Diagramm mehrmals
 Betreuer hinzufügen müssen: # (optional)
   - Name: Der Name der Betreuer (benötigt für jeden Betreuer)
