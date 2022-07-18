@@ -16,7 +16,7 @@ info@truecharts.org
 
 ### Discordia
 
-¡Sí, tenemos un servidor de discord! :)
+¡Sí, tenemos un servidor de discord! :) :)
 
 Obtén tu invitación hoy: https://truecharts.org/discord
 
