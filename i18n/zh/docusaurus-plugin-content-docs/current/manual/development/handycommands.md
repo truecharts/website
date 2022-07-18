@@ -1,7 +1,7 @@
-# Command Cheatsheet
+# 命令支票表
 
-These are some commands that are nice to keep track of:
+以下是一些很好的命令来跟踪：
 
-**give execute permissions to all sh files:** `find . -name '*.sh' | xargs git update-index --chmod=+x`
+**给予所有sh 文件执行权限：** `查找。 -name '*.sh' | xargs git update-index --chmod=+x`
 
-**list all used repositories in the catalog:** `find . -name 'values.yaml' | xargs cat | grep "repository" | grep -v "{" | awk -F":" '{ print $2 }' | grep -v '^$' | sort --unique`
+**列出目录中所有已使用的仓库：** `查找。 -name 'value' aml' | xargs cat | grep "repository" | grep -v "{" | awk -F":"{ print $2 }' | grep -v '^$' | sort --unique`
