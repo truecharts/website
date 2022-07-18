@@ -1,25 +1,25 @@
-# 09 - Exposing Apps using Ingress and Traefik
+# 09-使用印制和印制工具曝光应用
 
-To use Traefik as ingress, all you have to do is enable "ingress" in the App of your choice and fill out a little form. We currently require Traefik to be installed before you enable ingress on your App.
+要使用 Traefik 作为摄入，您需要做的只是在您选择的应用程序中启用"摄入"并填写一些表单。 我们现在需要安装Traefik，然后您才能在您的应用上启用。
 
 ## B. 所需经费
 
-- Make sure your storage-pool is created and working
-- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to quick-start guide `01 - First time Apps setup`
-- Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
-- Make sure you already added the TrueCharts catalog from guide 02
-- Make sure your App is installed and, preferably, working
-- Make sure you added your certificates in guide 07
-- Make sure you've setup traefik in guide 08
+- 请确保您的存储库已创建并工作
+- 当您首次打开“应用”接口时，请确保您选择了存储池。 如果没有参考快速启动指南 `01- 首次应用程序设置`
+- 请确保您有可用的互联网连接，并可以从主机系统访问 github 和 truecharts.org。
+- 请确保您已经从指南02中添加了TrueCharts目录
+- 请确保您的应用程序已安装，最好是工作
+- 请确保您已添加您的证书到指南 07中
+- 请确保您已经在指南08中设置了托盘。
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/0Rmav5gyAwI)
+![类型 :video](https://www.youtube.com/embed/0Rmav5gyAwI)
 
-## Notes
+## 注
 
-There are a few highlights to take into account when adding a ingress to an App:
+在添加导入程序时要考虑到一些要点：
 
-- Adding hosts is required By default the hosts list is empty, this is due to upstream design choices and is a issue that is yet to be solved upstream. However: adding hosts (preferably just one) is required for ANY app to function with a ingress enabled. Apps might not install and throw errors if you do not add any hosts.
+- 添加主机是必需的 默认情况下，主机列表是空的 这是由于上游设计选择造成的，是一个尚待上游解决的问题。 但是，任何一个应用程序都需要添加主机 (最好只需要一个) 才能启用收缩功能。 如果您不添加任何主机，应用可能无法安装和丢弃错误。
 
-- Traefik not accepting/using certificates Sometimes you might notice Traefik ignores your certificate. This is most likely due to the domain on your certificate, being different from the domain you entered into the reverse proxy host box. Traefik requires your certificate to match the domain used for Ingress. This is an upstream design decision and something we can easily and safely disable.
+- Traefik 不接受/使用证书 有时您可能会注意到 Traefik 忽略您的证书。 这很可能是由于您证书上的域名，因为它不同于您输入反向代理主机框的域名。 Traefik要求您的证书匹配用于侵入的域。 这是一项上游设计决定，我们可以轻易和安全地使之无法使用。
