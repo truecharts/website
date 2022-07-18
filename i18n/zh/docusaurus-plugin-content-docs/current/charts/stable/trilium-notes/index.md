@@ -1,6 +1,6 @@
 # 三个注解
 
-Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
+Triilium Notes是一种以建立大型个人知识基础为重点的等级说明。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
