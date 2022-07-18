@@ -394,7 +394,7 @@
 
 #### Feat
 
-* move to stable ([#2528](https://github.com/truecharts/apps/issues/2528))
+* 移动到稳定([#2528](https://github.com/truecharts/apps/issues/2528))
 
 
 
@@ -404,7 +404,7 @@
 
 #### 修复
 
-* try to fix port again ([#2527](https://github.com/truecharts/apps/issues/2527))
+* 再次尝试修复端口([#2527](https://github.com/truecharts/apps/issues/2527))
 
 
 
@@ -438,7 +438,7 @@
 
 #### 修复
 
-* port ([#2521](https://github.com/truecharts/apps/issues/2521))
+* 端口 ([#2521](https://github.com/truecharts/apps/issues/2521))
 
 
 
@@ -448,7 +448,7 @@
 
 #### 修复
 
-* different ports between proxy and frontend ([#2520](https://github.com/truecharts/apps/issues/2520))
+* 代理与前端之间的不同端口[#2520](https://github.com/truecharts/apps/issues/2520)
 
 
 
@@ -472,7 +472,7 @@
 
 #### 修复
 
-* use proxy on vikunja and fix nocodb request body size ([#2511](https://github.com/truecharts/apps/issues/2511))
+* 在 vikunja 上使用代理并修复noccodb 请求主体大小([#2511](https://github.com/truecharts/apps/issues/2511))
 
 
 
