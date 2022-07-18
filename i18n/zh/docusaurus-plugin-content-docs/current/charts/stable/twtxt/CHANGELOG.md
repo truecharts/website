@@ -517,7 +517,7 @@
 
 <a name="twtxt-1.0.27"></a>
 
-### [twtxt-1.0.27](https://github.com/truecharts/apps/compare/twtxt-1.0.26...twtxt-1.0.27) (2021-12-28)
+### [twxt-1.0.27](https://github.com/truecharts/apps/compare/twtxt-1.0.26...twtxt-1.0.27) (2021-12-28)
 
 #### 聊天
 
@@ -559,7 +559,7 @@
 
 <a name="twtxt-1.0.23"></a>
 
-### [twtxt-1.0.23](https://github.com/truecharts/apps/compare/twtxt-1.0.22...twtxt-1.0.23) (2021-12-18)
+### [twxt-1.0.23](https://github.com/truecharts/apps/compare/twtxt-1.0.22...twtxt-1.0.23) (2021-12-18岁)
 
 #### 聊天
 
@@ -570,7 +570,7 @@
 
 <a name="twtxt-1.0.22"></a>
 
-### [twtxt-1.0.22](https://github.com/truecharts/apps/compare/twtxt-1.0.21...twtxt-1.0.22) (2021-12-14)
+### [twxt-1.0.22](https://github.com/truecharts/apps/compare/twtxt-1.0.21...twtxt-1.0.22) (2021-12-14)
 
 #### 聊天
 
@@ -580,7 +580,7 @@
 
 <a name="twtxt-1.0.21"></a>
 
-### [twtxt-1.0.21](https://github.com/truecharts/apps/compare/twtxt-1.0.20...twtxt-1.0.21) (2021-12-13)
+### [twxt-1.0.21](https://github.com/truecharts/apps/compare/twtxt-1.0.20...twtxt-1.0.21) (2021-12-13)
 
 #### 聊天
 
@@ -590,7 +590,7 @@
 
 <a name="twtxt-1.0.20"></a>
 
-### [twtxt-1.0.20](https://github.com/truecharts/apps/compare/twtxt-1.0.19...twtxt-1.0.20) (2021-12-11)
+### [twxt-1.0.20](https://github.com/truecharts/apps/compare/twtxt-1.0.19...twtxt-1.0.20) (2021-12-11)
 
 #### 聊天
 
@@ -685,7 +685,7 @@
 
 <a name="twtxt-1.0.12"></a>
 
-### [twtxt-1.0.12](https://github.com/truecharts/apps/compare/twtxt-1.0.11...twtxt-1.0.12) (2021-11-23)
+### [twxt-1.0.12](https://github.com/truecharts/apps/compare/twtxt-1.0.11...twtxt-1.0.12) (2021-11-23)
 
 #### 聊天
 
@@ -715,7 +715,7 @@
 
 <a name="twtxt-1.0.9"></a>
 
-### [twtxt-1.0.9](https://github.com/truecharts/apps/compare/twtxt-1.0.8...twtxt-1.0.9) (2021-11-15)
+### [twxt-1.0.9](https://github.com/truecharts/apps/compare/twtxt-1.0.8...twtxt-1.0.9) (2021-11-15)
 
 #### 聊天
 
@@ -726,7 +726,7 @@
 
 <a name="twtxt-1.0.8"></a>
 
-### [twtxt-1.0.8](https://github.com/truecharts/apps/compare/twtxt-1.0.7...twtxt-1.0.8) (2021-11-14)
+### [twxt-1.0.8](https://github.com/truecharts/apps/compare/twtxt-1.0.7...twtxt-1.0.8) (2021-11-14)
 
 #### 聊天
 
@@ -842,7 +842,7 @@
 
 <a name="twtxt-0.0.9"></a>
 
-### [twtxt-0.0.9](https://github.com/truecharts/apps/compare/twtxt-0.0.8...twtxt-0.0.9) (2021-10-20)
+### [twxt-0.0.9](https://github.com/truecharts/apps/compare/twtxt-0.0.8...twtxt-0.0.9) (2021-10-20)
 
 #### 聊天
 
@@ -944,4 +944,4 @@
 
 <a name="twtxt-0.0.1"></a>
 
-### twtxt-0.0.1 (2021-10-04)
+### ttxt-0.0.1 (2021-10-04)
