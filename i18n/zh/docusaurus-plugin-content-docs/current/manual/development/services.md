@@ -124,5 +124,11 @@
                               min: 9000
                               max: 65535
                               default: 36041
+                              require: true 仅在服务类型为 NodePort”
+                            schema:
+                              type : int
+                              min: 9000
+                              max: 65535
+                              default: 36041
                               require: true
 ```
