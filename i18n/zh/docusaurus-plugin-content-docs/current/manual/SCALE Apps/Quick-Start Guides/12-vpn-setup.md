@@ -2,48 +2,48 @@
 
 ## 必备条件
 
-1. Ensure internet for the container is working PRIOR to adding the VPN connection
-2. Obtain either a Wireguard Configuration or a OpenVPN configuration file
-    - Wireguard ends in a .conf
-    - OpenVPN ends in a .ovpn
-3. Know both your kubernetes LAN and your personal LAN
+1. 确保容器的互联网正在使用 PRIOR 来添加 VPN 连接
+2. 获取一个 Wireguard 配置或 OpenVPN 配置文件
+    - Wireguard 结束于 .conf
+    - OpenVPN 结束于 .ovpn
+3. 了解您的 Kubernetes 局域网和您的个人局域网
 
-## Preparing Configuration Files
+## 准备配置文件
 
 ### Wireguard
 
-1. Delete the entire line that contains "DNS"
-2. Remove ALL mentions of IPv6
-    - Usually after the IPv4 addresses
-    - `::/0` is the IPv6 syntax.
+1. 删除包含"DNS"的整个行
+2. 删除所有IPv6的提及内容
+    - 通常在IPv4地址之后
+    - `:::/0` 是IPv6语法。
 
-Here is an example Wireguard configuration. Note the Deleted IPv6 addresses, and Deleted DNS line.
+这是一个 Wireguard 配置示例。 注意已删除的IPv6地址和已删除的DNS线。
 
 ```text
 [Interface]
-PrivateKey = cFuYkobFFgdfghdffdghdfghdfghdfgh
+PrivateKey = cFuYkobFFgdfghddghdfghdfghdfgh
 Address = 10.64.48.226/32
 
 [Peer]
-PublicKey = Casdfgsdfghsdfghsdfghsdfghs
-AllowedIPs = 0.0.0.0/0
-Endpoint = 198.54.128.58:51820
+PublicKey = cadfgsdfghsdfghsdfghs
+allowedIPs = 0.0.0/00
+Endpoint = 198.54.128.58:5182
 ```
 
-#### Additional Information
+#### 附加信息
 
-Ignore any keys, public private, psk etc. We have not had any issue keeping all keys within a configuration.
+忽略任何密钥，公共私钥，psk等。 我们没有任何问题在配置中保留所有的密钥。
 
 ### OpenVPN
 
-1. Add the two following lines to your configuration
-    - `pull-filter ignore "ifconfig-ipv6"`
+1. 在您的配置中添加以下两行
+    - `拉过滤器忽略"ifconfig-ipv6"`
 
-    - `pull-filter ignore "route-ipv6"`
+    - `绘制过滤器忽略"route-ipv6"`
 
-    These two lines will ensure IPv6 is ignored, which is vital for a stable VPN connection.
+    这两条线路将确保IPv6被忽略，这对于稳定的 VPN 连接至关重要。
 
-Note The two added lines Here is an example OpenVPN configuration
+注意添加的两行 这是一个 OpenVPN 配置示例
 
 ```text
 client
@@ -83,30 +83,30 @@ YDQ8z9v+DMO6iwyIDRiU
 disable-occ
 ```
 
-## Edit Configuration
+## 编辑配置
 
-The next step enable the addon in our edit configuration
+下一步将在我们编辑配置中启用插件
 
-1. Scale GUI
-    1. Apps
-    2. Installed Applications
-2. Find the app you want, Click the top 3 dots to the right of your application
-    1. Click `Edit`
-    2. Scroll to the bottom until you see `Addons`
-    3. Click the dropdown under `Type`
-    4. Choose Wireguard or OpenVPN
+1. 缩放 GUI
+    1. 应用程序
+    2. 已安装的应用程序
+2. 查找您想要的应用，点击应用程序右边的前3点
+    1. 点击 `编辑`
+    2. 滚动到底部，直到你看到 `附加组件`
+    3. 点击 `类型下的下拉列表`
+    4. 选择 Wireguard 或 OpenVPN
         1. OpenVPN
-            - Type in your Credentials for your vpn provider.
-    5. Check "Enable Killswitch"
-        - Click `Add` Next to `Configure Killswitch Excluded IPv4 networks`
-        - Click `Add` For EACH network.
-        - `172.16.0.0/16` is the default Kubernetes Network, you want this in your killswitch so kubernetes can still communicate with the application
-        - `192.168.0.0/24` is my personal LAN, this needs to be in there so YOU can communicate with the container
-    6. Finally, Add the filepath where you saved your modified configuration file
+            - 为您的 vpn 提供商输入您的凭据。
+    5. 检查"启用 Killswitch"
+        - 点击 `将` 添加到 `配置 Killtwitt 排除的IPv4 网络`
+        - 点击 `为 EACH 网络添加`。
+        - `172.16.0.0/16` 是默认的 Kubernetes 网络，您想要在您的 kubernetes 中这样做，这样Kubernetes 仍然可以与应用程序通信
+        - `192.168.0.0/24` 是我个人的局域网，这需要在那里才能让你与容器联系
+    6. 最后，添加文件路径，保存您修改的配置文件
         - EX: `/mnt/speed/vpn/wireguard/jackett2.conf`
 
-By now your screen should look somewhat like this: ![vpn1](/img/vpn/vpn1.png)
+现在，您的屏幕应该看起来像这样： ![vpn1](/img/vpn/vpn1.png)
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/zSNApt-Ojng)
+![类型 :video](https://www.youtube.com/embed/zSNApt-Ojng)
