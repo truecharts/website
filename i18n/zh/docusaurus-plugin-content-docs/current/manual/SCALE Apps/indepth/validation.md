@@ -1,44 +1,44 @@
-# Validation
+# 验证
 
-Validation makes sure that your input is in the desired format, so the application can parse it without problems. Below you can find more info about which fields have the mentioned validation and what formats are accepted.
+验证请确保您输入的格式符合要求，因此应用程序可以解析它而不会出现问题。 下面您可以找到更多关于哪些字段具有上述验证以及接受何种格式的信息。
 
-## All Apps
+## 所有应用程序
 
 ---
 
-## Resources and Devices
+## 资源和设备
 
-**`CPU`** Accepted formats are:
+**`CPU`** 接受的格式是：
 
-- Plain integer (eg. `1`) - This means 1 hyperthread
-- Float (eg. `0.5`) - This means half hyperthread
-- Milicpu (eg. `500m`) This means also half hyperthread
+- 纯整数 (e.g. `1`) - 这意味着1 个超直线
+- 浮动(e.g. `0.5`) - 这意味着半超直线
+- Milicpu (e.g. `500m`) 这也意味着半个超直线
 
-Regex used to match those: `^(?!^0(\.0|m|)$)([0-9]+)(\.[0-9]|m?)$` You can try live [here](https://regex101.com/r/WxComc/1) More detailed info can be found [here](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-cpu)
+正则表达式用于匹配这些值： `^(?!^0(\.0|m|)$([0-9]+)(\)。[0-9]|m？ $` 您可以在这里试试 [](https://regex101.com/r/WxComc/1) 更详细的信息可以在这里查找 [](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-cpu)
 
-**`Memory RAM`** Accepted formats are:
+**`内存`** 接受的格式是：
 
-- Suffixed with E, P, T, G, M, K (eg. `5G`) - This means 5Gigabyte of RAM
-- Suffixed with Ei, Pi, Ti, Gi, Mi, Ki (eg. `5Gi`) - This means 5Gibibyte of RAM
-- Plain integer (eg. `134217728`) - This means 128Megabyte of RAM
-- As an exponent format (eg. `134e6`) This means ~128Megabyte of RAM
+- 用E, P, T, G, M, K (例如 `5G`) 继承－这表示5Gigabyte 的RAM
+- 与Ei, Pi, Ti, Gi, Mi, Ki (例如 `5Gi`) 连在一起——这意味着5Gibibyte of RAM
+- 纯整数(例如 `134217728`) - 这意味着内存的128兆字节
+- 作为指数格式 (例如， `134e6`) 这意味着~128Megabyte of RAM
 
-Regex used to match those: `^(?!^0(e[0-9]|[EPTGMK]i?|)$)([0-9]+)(|[EPTGMK]i?|e[0-9]+)$` You can try live [here](https://regex101.com/r/LyDc6u/1) More detailed info can be found [here](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-memory)
+用于匹配这些的正则表达式： `^(?! 0(e[0-9]|[EPTGMK]i?|)$([0-9]+)(|[EPTGMK]i? e[0-9]+)$` 您可以尝试在这里登录 [](https://regex101.com/r/LyDc6u/1) 更详细的信息可以在这里找到 [这里](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#meaning-of-memory)
 
-## Paths
+## 路径
 
-Accepted formats are:
+公认的格式是：
 
-- Paths prefixed with `/`, without whitespace characters on begin or end of each segment (eg. `/media`, `/media/shows`, `/media/movies/`)
+- 以 `/`开头的路径，每段开始或结束时没有空格字符 (例如)。 `/media`, `/media/show`, `/media/movies/`)
 
-Accepted characters are:
+接受的字符是：
 
 - `a-z`, `A-Z`
 - `0-9`
 - `.`, `-`, `_`
-- `" "` (Whitespace, Not on begin or end)
+- `"` (白空间，不在开始或结束时)
 
-Regex used to match those: `^\/([a-zA-Z0-9._-]+(\s?[a-zA-Z0-9._-]+|\/?))+$` You can try live [here](https://regex101.com/r/WjSpXg/1)
+正则表达式用于匹配这些内容： `^\/([a-zA-Z0-9._-]+(\s?[a-zA-Z0-9._-]+|\/?)+$` 您可以在这里试试 [](https://regex101.com/r/WjSpXg/1)
 
 ---
 
