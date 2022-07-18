@@ -471,7 +471,7 @@
 
 #### 修复
 
-* Run as non root and add probes ([#2114](https://github.com/truecharts/apps/issues/2114))
+* 作为非根运行并添加探测器 ([#2214](https://github.com/truecharts/apps/issues/2114))
 
 
 
@@ -777,7 +777,7 @@
 
 <a name="wikijs-4.0.13"></a>
 
-### [wikijs-4.0.13](https://github.com/truecharts/apps/compare/wikijs-4.0.12...wikijs-4.0.13) (2021-12-18)
+### [wikijs-4.0.13](https://github.com/truecharts/apps/compare/wikijs-4.0.12...wikijs-4.0.13) (2021-12-18岁)
 
 #### 聊天
 
@@ -816,7 +816,7 @@
 
 #### 修复
 
-* use correct container ([#1489](https://github.com/truecharts/apps/issues/1489))
+* 使用正确的容器 ([#1489](https://github.com/truecharts/apps/issues/1489))
 
 
 
@@ -832,7 +832,7 @@
 
 <a name="wikijs-4.0.8"></a>
 
-### wikijs-4.0.8 (2021-12-05)
+### 维基耶斯-4.0.8 (2021-12-05)
 
 #### 聊天
 
@@ -964,7 +964,7 @@
 #### 修复
 
 * 拆分udp 和 tcp 端口[#1321](https://github.com/truecharts/apps/issues/1321)
-* Add env to load config file from persistence ([#1317](https://github.com/truecharts/apps/issues/1317))
+* 添加环境以从持久性加载配置文件([#1317](https://github.com/truecharts/apps/issues/1317))
 
 
 
@@ -1148,7 +1148,7 @@
 
 <a name="wikijs-0.0.1"></a>
 
-### wikijs-0.0.1 (2021-10-19)
+### 维基耶斯-0.0.1 (2021-10-19)
 
 #### Feat
 
@@ -1158,7 +1158,7 @@
 
 <a name="wikijs-0.0.1"></a>
 
-### wikijs-0.0.1 (2021-10-16)
+### 维基耶斯-0.0.1 (2021-10-16)
 
 #### Feat
 
