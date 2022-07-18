@@ -8,4 +8,4 @@ Traefik is part of the `stable` train, so make sure you have it enabled as speci
 
 ## Video Guide
 
-![type:video](https://www.youtube.com/embed/bWNPfrKjawI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bWNPfrKjawI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

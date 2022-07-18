@@ -45,4 +45,4 @@ For clarity, it's advisable to use the same Authenticator for all domain names. 
 
 ## Video Guide
 
-![type:video](https://www.youtube.com/embed/TJ5fDiDRcbU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJ5fDiDRcbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -16,6 +16,6 @@ Please be aware that automatically setting ownership/permissions, does mean it o
 
 ## Video Guide
 
-![type:video](https://www.youtube.com/embed/aktv1r-KRI0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aktv1r-KRI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Additional Documentation
