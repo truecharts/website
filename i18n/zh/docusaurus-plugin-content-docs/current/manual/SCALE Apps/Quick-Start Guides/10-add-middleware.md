@@ -1,5 +1,5 @@
-# 10 - Add Traefik Middleware to Apps
+# 10 - 添加Traefik Middleware 到应用程序
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/hDdFKE5-c44)
+![类型 :video](https://www.youtube.com/embed/hDdFKE5-c44)
