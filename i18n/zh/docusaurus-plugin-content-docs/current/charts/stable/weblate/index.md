@@ -1,6 +1,6 @@
 # weblate
 
-Weblate is a copylefted libre software web-based continuous localization system
+Weblate 是一个复制的库软件基于网络的连续本地化系统
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
@@ -9,7 +9,7 @@ TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保
 * <https://github.com/WeblateOrg/weblate>
 * <https://github.com/WeblateOrg/docker>
 * <https://github.com/WeblateOrg/docker-compose>
-* <https://docs.weblate.org/en/latest/>
+* [https://docs.weblate.org/en/](https://docs.weblate.org/en/latest/)
 
 ## B. 所需经费
 
