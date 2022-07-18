@@ -466,7 +466,7 @@
 
 #### 修复
 
-* Correctly map ports when changed in the UI ([#1921](https://github.com/truecharts/apps/issues/1921))
+* 在界面中更改时正确映射端口([#1921](https://github.com/truecharts/apps/issues/1921))
 
 
 
@@ -674,7 +674,7 @@
 
 <a name="valheim-2.0.4"></a>
 
-### [valheim-2.0.4](https://github.com/truecharts/apps/compare/valheim-2.0.3...valheim-2.0.4) (2021-12-18)
+### [valheim-2.0.4](https://github.com/truecharts/apps/compare/valheim-2.0.3...valheim-2.0.4) (2021-12-18岁)
 
 #### 聊天
 
