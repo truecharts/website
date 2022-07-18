@@ -52,7 +52,7 @@ Changez `CF_RECORDTYPES` en A si vous ne changez que votre domaine principal
 - Si vous avez besoin de plus de détails ou si vous avez une configuration plus personnalisée, la documentation sur le [amont](https://hotio.dev/containers/cloudflareddns/) est très complète, donc vérifiez les descriptions des options là-bas.
 - Vous pouvez également nous joindre en utilisant Discord pour obtenir des commentaires en temps réel et du support
 - Consultez notre [Discord](https://discord.gg/tVsPTHWTtr)
-- Si vous avez trouvé un bug dans notre graphique, ouvrez un problème Github [](https://github.com/truecharts/apps/issues/new/choose)
+- Si vous avez trouvé un bug dans notre graphique, ouvrez un problème Github
 
 ---
 
