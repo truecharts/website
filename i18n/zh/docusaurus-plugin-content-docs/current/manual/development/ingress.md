@@ -1,41 +1,41 @@
 # 会议
 
-Ingress is what we call "Reverse Proxy" in the UI and in the user side of the documentation. Please be aware that those refer to the same system. An Ingress is, simply put, just Kubernetes way of connecting outsides to Apps running in containers.
+会议是我们在用户界面和文档的用户面中所称的“逆向代理”。 请注意那些指同一系统。 简单地说，仅仅是Kubernetes连接外面和在容器中运行的应用程序的方法。
 
-## Ingress Types
+## 批发类型
 
-We currently support:
+我们目前支持：
 
-- HTTP via Ingres
-- HTTP via Traefik IngressRoute (HTTP-IR)
-- TCP via Traefik IngressRouteTCP
-- UDP via Traefik IngressRouteUDP
+- 通过 Ingres 的 HTTP
+- 通过 Traefik IngressRoute (HTTP-IR) 的 HTTP
+- 通过 Traefik IngressRouteTCP
+- 通过 Traefik IngressRouteUDP 的 UDP
 
-From questions.yaml and the UI, these can be changed with selecting another "Type". However: Under the hood IngressRoutes and Ingress are totally different beasts and have a separate creation process. Errors for Plain HTTP  do NOT have to be present in HTTP-IR.
+从问题.yaml 和 UI 可以通过选择另一个“类型”来更改它们。 但是，在这种情况下，“侵略路线和国会”是完全不同的行为，有一个单独的创作过程。 纯HTTP 错误不必在 HTTP IR 中存在。
 
-It's also important to note that TCP (and even more so: UDP) have less options available. The example configurations below contain a mostly complete overview of what is currently available and reasonable.
+同样重要的是要注意到TCP(甚至更多：UDP)拥有的选项较少。 下面的示例配置基本上包含了对现有和合理性的概述。
 
-### Ingress and Services
+### 会议和服务
 
-It's important to know what Ingress does, before you start creating ingresses in questions.yaml. Ingresses send outside Traffic, to a kubernetes Service, which in turn forwards traffic to the actual containers.
+在你开始创建问题.yaml中的摄入之前，知道什么是重要的。 违规行为是送到交通工具之外的地方，而后者又将交通转到实际的集装箱。
 
-This means that every container needs to know how to reach their Service. If they do not, things go wrong.
+这意味着每个容器都需要知道如何接近他们的服务。 如果不这样做，那就错了。
 
-To ensure this, it's advised to keep the names of your Ingresses the same as the names of your services. We made sure the ingress would automatically detect (and connect to) the main port of a Service with the same name.
+为了确保这一点，建议您保持您的侵入名称与您服务的名称相同。 我们确保导入将自动检测（并连接到具有相同名称的服务的主要端口。
 
-However: In case you need to do this differently, need to connect to additionalServices and/or need to connect to a secondary port, you can manually set both the serviceName and servicePort in questions.yaml. We advice however, to only do so if absolutely necessary!
+但：如果您需要做不同的事，需要连接到额外服务和/或连接到二级端口， 您可以在问题中手动设置服务名称和服务端口两者。 毫升/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛奶/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛顿/牛/牛顿/牛顿/牛/牛/牛/牛/牛/牛/牛/牛/牛/牛/牛/牛/牛/牛/牛/ 然而，我们建议只在绝对必要时才这样做！
 
-### The Main Ingress
+### 主要大会
 
-The main Ingress and Main service take an important role in our standardization. Where the main Service is used for healthchecks and the "portal" button, the main Ingress is just used for the portal button.
+主要的国会和主要服务部门在我们的标准化工作中发挥着重要作用。 在主要服务用于健康检查和“门户”按钮的地方，主要的信息只是用于门户按钮。
 
-However: As the maintainers expect new features to be connecting to the main service and main ingress, it will cause problems if you decide to bypass/ignore these.
+但是，由于维护者期望新的功能会连接到主要服务和主要用途， 如果您决定绕过/忽略这些，它将造成问题。
 
-### Standards/Examples
+### 标准/实例
 
-We try to maintain as much of a standardized questions.yaml format as possible, to ensure (bulk) editing stays as easy as possible.
+我们试图保持尽可能多的标准化问题.yaml格式，以确保（全时）编辑尽可能简单。
 
-#### HTTP Ingress
+#### HTTP Incongress
 
 ```yaml
   - variable: ingress
@@ -120,7 +120,7 @@ We try to maintain as much of a standardized questions.yaml format as possible, 
 
 ```
 
-#### TCP Ingress
+#### TCP Incongress
 
 ```yaml
         - variable: tcp
@@ -161,7 +161,7 @@ We try to maintain as much of a standardized questions.yaml format as possible, 
                             description: "Torrent-TCP: port 51413"
 ```
 
-#### UDP Ingress
+#### UDP 进化
 
 ```yaml
         - variable: udp
@@ -202,37 +202,37 @@ We try to maintain as much of a standardized questions.yaml format as possible, 
                             description: "Torrent-UDP: port 51413"
 ```
 
-### Other Ingress options
+### 其他可选方案
 
-There are a few other options that are rarely (if ever) used.
+还有几种其他选项很少使用(如果有的话)。
 
-#### servicePort
+#### 服务端口
 
 ```yaml
-                     - variable: servicePort
-                       label: "Service Port to proxy to"
-                       schema:
-                         hidden: true
-                         editable: false
-                         type: int
-                         default: 80
+                     - 变量：servicePort
+                       标签：“服务端口到代理”
+                       schema：
+                         隐藏：true
+                         可编辑：false
+                         类型：int
+                         默认值：80
 ```
 
 #### serviceKind
 
 ```yaml
-                    - variable: serviceKind
+                    - 变量: serviceKind
                       label: "Service Kind to proxy to"
                       schema:
-                        hidden: true
-                        editable: false
-                        type: string
+                        隐藏: true
+                        可编辑: false
+                        type : string
                         default: ""
 ```
 
-### External Services
+### 外部服务
 
-The externalServices option, is actually mostly an Ingress "under the hood" which just creates a very small (minimal) service.
+外部服务的选择实际上主要是一种“头脑下”，而这种服务只能创造一种很小的(最低)服务。
 
 ```yaml
   - variable: externalServices
