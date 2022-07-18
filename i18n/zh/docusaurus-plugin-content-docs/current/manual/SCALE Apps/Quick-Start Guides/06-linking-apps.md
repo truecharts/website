@@ -1,53 +1,53 @@
-# 06 - Linking Apps Internally
+# 06-内部连接应用程序
 
-We often need to connect individual apps together, for example: Sonarr and SABnzbd. This means we first need to know how to reach those Apps.
+我们常常需要将个别应用连接起来，例如：Sonarr 和 SABnzbd。 这意味着我们首先需要知道如何达到这些应用程序。
 
-## Linking Apps Internally
+## 内部连接应用程序
 
-The backend for TrueNAS SCALE Apps is Kubernetes. Linking apps together in Kubernetes is done slightly differently than in other systems, as you can't point directly to other containers using their IP address.
+TrueNAS SCALE 应用程序的后端是 Kubernetes。 在Kubernetes将应用连接起来的方式与其他系统稍有不同，因为您不能直接指向使用其IP地址的其他容器。
 
-Instead we need to use their internal(!) domain name. Please beware: this name is only available between Apps and can not be reached from the host/node or your own PC.
+相反，我们需要使用内部(!)域名。 请注意：这个名称仅在应用程序之间可用，无法从主机/节点或您自己的 PC。
 
-The format for internal domain name for the main service is explained bellow. Please replace `$NAME` with the name you gave your App when installing and `$APP` with the name the app has on the catalog where is needed.
+主服务的内部域名格式解释下文。 请将 `$NAME` 替换为您在安装应用时给出的名称。 `$APP` 替换为应用程序在目录上需要的名称。
 
-**If your app name *contains* the name of the app as in the catalog, the format is as follows.**
+**如果您的应用名称 *像目录中一样包含* 个应用名称，格式如下。**
 
 - `$NAME.ix-$NAME.svc.cluster.local`
 
-**If your app name *does NOT contain* the name of the app as in the catalog, the format is as follows.**
+**如果您的应用名 *不包含* 个应用名称和目录中的名称，格式如下。**
 
 - `$NAME-$APP.ix-$NAME.svc.cluster.local`
 
-If you need to reach a different service (which is not often the case!), you need a slightly different format, where `$SVCNAME` is the name of the service you want to reach:
+如果您需要到达不同的服务(这不是经常的情况！ , 你需要稍微不同的格式, `$SVCNAME` 是你想要达到的服务的名称:
 
-**If your app name *contains* the name of the app as in the catalog, the format is as follows.**
+**如果您的应用名称 *像目录中一样包含* 个应用名称，格式如下。**
 
-- `$NAME-$SVCNAME.ix-$NAME.svc.cluster.local`
+- `$NAME-$SVCNAMe.ix-$NAME.svc.cluster.local`
 
-**If your app name *does NOT contain* the name of the app as in the catalog, the format is as follows.**
+**如果您的应用名 *不包含* 个应用名称和目录中的名称，格式如下。**
 
-- `$NAME-$APPNAME-$SVCNAME.ix-$NAME.svc.cluster.local`
+- `$NAME-$APNAME-$SVCNAME.ix-$NAME.svc.cluster.local`
 
-## Internal Domain Name generator
+## 内部域名生成器
 
-### Example
+### 示例
 
-To reach an app named "my-sabnzbd-app" or "sabnzbd' (name contains the catalog app name) within Sonarr, we can use the following internal domain name:
+若要在索纳尔内达到一个名为“my-sabnzbd-app”或“sabnzbd”（名称包含目录应用名称）的应用，我们可以使用以下内部域名：
 
-- `sabnzbd.ix-sabnzbd.svc.cluster.local` or
+- `sabnzbd.ix-sabnzbd.svc.cluster.loc` 或
 - `sabnzbd.ix-sabnzbd`
 
-To reach an app named "sab" (name does NOT contain catalog app name) within Sonarr, we can use the following internal domain name:
+若要在索纳尔内达到一个名为“sab”的应用程序(名称不包含目录应用名称)，我们可以使用以下内部域名：
 
-- `sab-sabnzbd.ix-sab.svc.cluster.local` or
+- `sab-sabnzbd.ix-sab.svc.cluster.loc` 或
 - `sab-sabnzbd.ix-sab`
 
-![linking-example-sonarrsabnzbd](/img/linking/linking-example-sonarrsabnzbd.png)
+![链接示例-sonarrsabnzbd](/img/linking/linking-example-sonarrsabnzbd.png)
 
-### Video Guide
+### 视频指南
 
-![type:video](https://www.youtube.com/embed/mWJL-XDgH98)
+![类型 :video](https://www.youtube.com/embed/mWJL-XDgH98)
 
-### Additional Documentation
+### 附加文档
 
-For more help troubleshooting DNS resolution in Kubernetes, review the official documentation: https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
+为了更多帮助解决Kubernetes的DNS解析问题，请查阅官方文件：https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
