@@ -1,6 +1,6 @@
 # zwavejs2mqtt
 
-Fully configurable Zwave to MQTT gateway and Control Panel using NodeJS and Vue
+使用 NodeJS 和 Vue 将Zwave 完全配置到 MQTT 网关和控制面板
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
