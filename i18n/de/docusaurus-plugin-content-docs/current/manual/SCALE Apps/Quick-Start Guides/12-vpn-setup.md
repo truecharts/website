@@ -32,7 +32,7 @@ Endpoint = 198.54.128.58:51820
 
 #### Zusätzliche Informationen
 
-Ignoriere alle Schlüssel, öffentliche Privatsphäre, Psk usw. Wir hatten keine Probleme, alle Schlüssel innerhalb einer Konfiguration zu halten.
+Ignoriere alle Schlüssel, öffentliche Privatsphäre, Psk usw. Ignoriere alle Schlüssel, öffentliche Privatsphäre, Psk usw. Wir hatten keine Probleme, alle Schlüssel innerhalb einer Konfiguration zu halten.
 
 ### OpenVPN
 
