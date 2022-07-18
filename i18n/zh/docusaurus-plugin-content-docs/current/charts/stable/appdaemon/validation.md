@@ -4,7 +4,7 @@ __`LATUDE`__ 和 __`LONGITUDE`__ 公认的格式是：
 
 - Float (eg. `24.2028`)
 
-正则表达式用于匹配这个值： `^[0-9]{1,}\。{1}[0-9]{1,}$` 您可以在这里试试 [](https://regex101.com/r/xsLGWN/1)
+https://regex101.com/r/xsLGWN/1
 
 ---
 
