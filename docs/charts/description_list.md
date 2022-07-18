@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
 # Apps List
 
 > List of all our apps with a short description
