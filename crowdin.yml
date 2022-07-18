@@ -2,6 +2,9 @@ files:
   - source: /i18n/en/**/*
     translation: /i18n/%two_letters_code%/**/%original_file_name%
   - source: /docs/**/*
-    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
+    ignore:
+      - CHANGELOG.md
+      - index.md
+    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/about/**/%original_file_name%
   - source: /blog/**/*
     translation: /i18n/%two_letters_code%/docusaurus-plugin-content-blog/**/%original_file_name%
