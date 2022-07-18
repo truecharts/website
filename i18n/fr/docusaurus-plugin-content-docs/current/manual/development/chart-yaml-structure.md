@@ -24,11 +24,7 @@ dépendances :
   - nom: Le nom du graphique (nginx)
     référentiel: L'URL du référentiel ("https://example. Version d'alias ("@repo-name")
     : La version du graphique ("1.2. ")
-    condition: (optionnel) Un chemin yaml qui résout à un booléen, utilisé pour activer/désactiver les graphiques (par exemple sous-chart1. balise nabled )
-    : # (facultatif)
-      - Les balises peuvent être utilisées pour regrouper les graphiques pour activer/désactiver ensemble
-    valeurs d'importation : # (facultatif)
-      - ImportValeurs d'importation contenant le mappage des valeurs source à la clé parente à importer. Chaque élément peut être une chaîne de caractères ou une paire d'éléments de sous-liste enfant/parent.
+    condition: (optionnel) Un chemin yaml qui résout à un booléen, utilisé pour activer/désactiver les graphiques (par exemple sous-chart1. Chaque élément peut être une chaîne de caractères ou une paire d'éléments de sous-liste enfant/parent.
     alias : (optionnel) Alias à utiliser pour le graphique. Utile lorsque vous devez ajouter le même graphique plusieurs fois
 mainteneurs : # (facultatif)
   - nom: Le nom des mainteneurs (requis pour chaque mainteneur)
