@@ -560,7 +560,7 @@
 
 <a name="static-1.0.23"></a>
 
-### [static-1.0.23](https://github.com/truecharts/apps/compare/static-1.0.22...static-1.0.23) (2021-12-18)
+### [static-1.0.23](https://github.com/truecharts/apps/compare/static-1.0.22...static-1.0.23) (2021-12-18岁)
 
 #### 聊天
 
