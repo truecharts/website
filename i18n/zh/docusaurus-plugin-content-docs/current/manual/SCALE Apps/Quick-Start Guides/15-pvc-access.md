@@ -1,148 +1,148 @@
-# 15 - Accessing PVC Data
+# 15 - 访问 PVC 数据
 
-## Where are my application files?
+## 我的应用程序文件在哪里？
 
-- Your files are held within the container
-- They are not visible from your server's file structure without first mounting that PVC
+- 您的文件被持有在容器中
+- 如果不先挂载PVC，他们就无法从您的服务器的文件结构中看到。
 
-## Mounting PVC Data
+## 挂载 PVC 数据
 
-### Heavy_Script
+### 重置脚本
 
-One option is to use Heavy_Script.
+一个选项是使用重脚本.
 
-If you plan on mounting PVC storage more than just a couple of times this may be the best option for you.
+如果您计划安装PVC存储设备超过了几倍，这可能是您最好的选择。
 
-1. The script will list all of your PVC information for each application
-2. Safely shut down your application before mounting
-3. Mount your PVC to /mnt/temporary/STORAGE-NAME
+1. 脚本将列出每个应用程序的 PVC 所有信息
+2. 安装前安全关闭您的应用程序
+3. 把您的 PVC 挂载到 /mnt/time/StrORAGE-NAME
 
-The video will start at the mounting feature so you can see what it looks like.
+视频将从安装功能开始，以便您可以看到它看起来是什么。
 
-Afterwards, if you wish to install it, follow the video guide starting at 15:52.
+然后，如果您想要安装它，请按照视频指南从 15:52 开始。
 
-[![Heavy_Script](/img/pvc_access/video_thumbnail.jpg)](https://youtu.be/uZp4x_Susgo?t=616 "Heavy_Script")
+[![重置脚本](/img/pvc_access/video_thumbnail.jpg)](https://youtu.be/uZp4x_Susgo?t=616 "重置脚本")
 
-### Manual Method - New User Guide
+### 手动方法 - 新用户指南
 
-Manually mounting PVC storage takes a little bit more time than the script method.
+手动挂载PVC存储需要比脚本方法多一点时间。
 
-However, I know some users like to know exactly what commands they are running etc.
+然而，我知道一些用户想要确切知道他们正在执行什么命令等。
 
-### Recommended Items
+### 推荐项目
 
-- A terminal that allows copying and pasting
-- An open notepad
+- 允许复制和粘贴的终端
+- 打开笔记本
 
-1\. **STOP the application you plan on mounting**
+1\. **停止你在挂载时计划的应用程序**
 
-2\. **Run the following command to view your PVC data**
+2\. **运行以下命令以查看您的 PVC 数据**
 
 ```bash
-k3s kubectl get pvc -A | sort -u | awk '{print "\t" $1 "\t" $2 "\t" $4}' | column -t
+k3s kubectl get pvc - A | sorth -u | awk '{print "\t" $1 "\t"\t" 4}' | 列 -t
 ```
 
-3\. **Find the application you would like to mount**
+3\. **查找您想挂载的程序**
 
-This can be confusing at first because many applications will have many different instances of PVC.
+这首先可能引起混淆，因为许多应用都有许多不同的PVC实例。
 
 ![pvc_list](/img/pvc_access/pvc_list.png)
 
-- You'll see in this photo, Nextcloud has many different PVC's.
-  - However, if you break it down by looking at the middle column, it's not too confusing.
-  1. `data-nextcloud-redis-0`
-      - This is your Redis PVC
+- 你会在这张照片中看到。Nextcloud有许多不同的 PVC。
+  - 然而，如果你看中间一栏打破它，它就不会太令人困惑。
+  1. `数据下一个云端-雷迪斯-0`
+      - 这是你的 Redis PVC
   2. `db-nextcloud-postgresql-0`
-      - This is your PostgreSQL PVC
-  3. `nextcloud-data`
-      - This is your Data PVC
+      - 这是您的 PostgreSQL PVC
+  3. `下一个云数据`
+      - 这是您的数据PVC
 
-4\. **After finding which PVC you would like to mount, copy the far right column (The Volume) that starts with pvc- into a notepad for use in the next command**
+4\. **在找到你想挂载的PVC后， 复制从pvc开始的右边列(卷)到笔记本，供下一个命令使用**
 
-- If I was wanting to mount `nextcloud-data`, I would use:
+- 如果我想挂载 `下一个云端数据`，我会使用：
 - `pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe`
 
-5\. **Run the following command to find the full path to your applications PVC**
+5\. **运行以下命令来找到您的应用程序PVC的完整路径**
 
 ```bash
-zfs list | grep PVC_VOLUME
+zfs 列表 | grep PVC_VOLUME
 ```
 
-- Going off of the Nextcloud example, I would simply replace `PVC_VOLUME` with `pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe`
+- 下次云端示例结束后，我会把 `PVC_VOLUME` 替换成 `pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe`
 
-Example:
+示例：
 
 ```bash
-zfs list | grep pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
+zfs 列表 | grep pvc-cd84394b-7812-43c3-a6d9-1a56992cbe
 ```
 
-Here is what the output should look like ![nextcloud_volumes](/img/pvc_access/nextcloud_volumes.png)
+下面是输出应该看起来像 ![下一个云卷](/img/pvc_access/nextcloud_volumes.png)
 
-6\. **Mount your PVC**
+6\. **挂载您的 PVC**
 
 ```bash
-zfs set mountpoint=/temporary/NAME FULL_PVC_PATH
+zfs 设置挂载点=/temporary/NAME FULL_PVC_PATH
 ```
 
-Example:
+示例：
 
 ```bash
-zfs set mountpoint=/temporary/nextcloud-data speed/ix-applications/releases/nextcloud/volumes/pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
+zfs 设置挂载点=/temporary/nextcloud-data speed/ix-applications/releases/nextcloud/volumees/pvc-cd84394b-7812-43c3-a6d9-1a56932cbe
 ```
 
-- This command will produce no output if it's successful
-- Now you should be able to do whatever you want within the app's PVC
+- 此命令如果成功将不产生输出
+- 现在你应该能够在应用程序的 PVC 内做任何你想做的事情。
 
-7\. **Remounting**
+7\. **正在重新挂起**
 
 ```bash
-zfs set mountpoint=legacy POOL_NAME/ix-applications/releases/APPLICATION_NAME/volumes/VOLUME-NAME
+zfs 设置挂载点=旧的 POOL_NAME/ix-applications/releases/APPLICATION_NAME/volumes/ VOLUME-NAME
 ```
 
-Example:
+示例：
 
 ```bash
-zfs set mountpoint=legacy speed/ix-applications/releases/nextcloud/volumes/pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
+zfs set mountpoint=legal speed/ix-applications/releases/nextcloud/volumes/pvc-cd84394b-7812-43c3-a6d9-1a56932cbe
 ```
 
-Afterwards, I always like to `rmdir` on the directory that was created when mounting
+然后，我总是想在挂载时创建的目录上 `rmdir`
 
-- In my case I would run:
+- 在我的情况下，我将运行：
 
 ```bash
 rmdir /mnt/temporary/nextcloud-data
 ```
 
-- This just helps keep your temporary folder clean, and lets you know what is or is not currently mounted.
+- 这只是为了保持您的临时文件夹的清理，让您知道什么是挂载的还是没有挂载。
 
-- Do not worry, `rmdir` cannot delete mounted folders, or folders with contents in them.
+- 不要担心， `rmdir` 无法删除挂载的文件夹或其中的内容。
 
-### Manual Method - Advanced User Guide
+### 手动方法 - 高级用户指南
 
-**ALWAYS MAKE SURE THE APP IS STOPPED WHILE MOUNTING THE PVC**
+**完全可以在PVC中找到这个应用程序。**
 
-#### To get the PVCNAME:
+#### 要获取 PVCNAME：
 
 ```bash
 k3s kubectl get pvc -n ix-APPNAME
 ```
 
-#### To get the PVCPATH:
+#### 获取PVCPATH：
 
 ```bash
-zfs list | grep legacy | grep APPNAME
+zfs 列表 | grep 遗留问题 | grep APPNAME
 ```
 
-#### If you want to mount the PVC content:
+#### 如果你想挂载PVC内容：
 
 ```bash
-zfs set mountpoint=/temporary PVCPATH
+zfs 设置挂载点=/temporary PVCPATH
 ```
 
-Your PVC will be mounted under `/mnt/temporary`
+您的 PVC 将在 `/mnt/temporary` 下挂载
 
-#### and when you're done editing:
+#### 当你完成编辑时：
 
 ```bash
-zfs set mountpoint=legacy PVCPATH
+zfs 设置挂载点=legisled PVCPATH
 ```
