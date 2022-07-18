@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [vaultwarden-16.0.19](https://github.com/truecharts/apps/compare/vaultwarden-16.0.18...vaultwarden-16.0.19) (2022-07-17)
+## [保险库特瓦尔登-16.0.19](https://github.com/truecharts/apps/compare/vaultwarden-16.0.18...vaultwarden-16.0.19) (2022-07-17)
 
 ### 聊天
 
@@ -9,7 +9,7 @@
 
 
 
-## [vaultwarden-16.0.18](https://github.com/truecharts/apps/compare/vaultwarden-16.0.17...vaultwarden-16.0.18) (2022-07-14)
+## [保险库特瓦尔登-16.0.18](https://github.com/truecharts/apps/compare/vaultwarden-16.0.17...vaultwarden-16.0.18) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [vaultwarden-16.0.17](https://github.com/truecharts/apps/compare/vaultwarden-16.0.15...vaultwarden-16.0.17) (2022-07-14)
+## [保险库特瓦尔登-16.0.17](https://github.com/truecharts/apps/compare/vaultwarden-16.0.15...vaultwarden-16.0.17) (2022-07-14)
 
 ### 修复
 
@@ -25,7 +25,7 @@
 
 
 
-## [vaultwarden-16.0.15](https://github.com/truecharts/apps/compare/vaultwarden-16.0.13...vaultwarden-16.0.15) (2022-07-12)
+## [vaultwararden-16.0.15](https://github.com/truecharts/apps/compare/vaultwarden-16.0.13...vaultwarden-16.0.15) (2022-07-12)
 
 ### 聊天
 
@@ -34,7 +34,7 @@
 
 
 
-## [vaultwarden-16.0.13](https://github.com/truecharts/apps/compare/vaultwarden-16.0.12...vaultwarden-16.0.13) (2022-07-12)
+## [vaultwararden-16.0.13](https://github.com/truecharts/apps/compare/vaultwarden-16.0.12...vaultwarden-16.0.13) (2022-07-12)
 
 ### 聊天
 
@@ -44,7 +44,7 @@
 
 <a name="vaultwarden-16.0.12"></a>
 
-### [vaultwarden-16.0.12](https://github.com/truecharts/apps/compare/vaultwarden-16.0.11...vaultwarden-16.0.12) (2022-07-12)
+### [vaultwararden-16.0.12](https://github.com/truecharts/apps/compare/vaultwarden-16.0.11...vaultwarden-16.0.12) (2022-07-12)
 
 #### 聊天
 
@@ -54,7 +54,7 @@
 
 <a name="vaultwarden-16.0.11"></a>
 
-### [vaultwarden-16.0.11](https://github.com/truecharts/apps/compare/vaultwarden-16.0.10...vaultwarden-16.0.11) (2022-07-11)
+### [保险库特瓦尔登-16.0.11](https://github.com/truecharts/apps/compare/vaultwarden-16.0.10...vaultwarden-16.0.11) (2022-07-11)
 
 #### 聊天
 
@@ -64,7 +64,7 @@
 
 <a name="vaultwarden-16.0.10"></a>
 
-### [vaultwarden-16.0.10](https://github.com/truecharts/apps/compare/vaultwarden-16.0.9...vaultwarden-16.0.10) (2022-07-09)
+### [保险库特瓦尔登-16.0.10](https://github.com/truecharts/apps/compare/vaultwarden-16.0.9...vaultwarden-16.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -74,7 +74,7 @@
 
 <a name="vaultwarden-16.0.9"></a>
 
-### [vaultwarden-16.0.9](https://github.com/truecharts/apps/compare/vaultwarden-16.0.8...vaultwarden-16.0.9) (2022-07-05)
+### [vaultwararden-16.0.9](https://github.com/truecharts/apps/compare/vaultwarden-16.0.8...vaultwarden-16.0.9) (2022-07-05)
 
 #### 聊天
 
@@ -84,7 +84,7 @@
 
 <a name="vaultwarden-16.0.8"></a>
 
-### [vaultwarden-16.0.8](https://github.com/truecharts/apps/compare/vaultwarden-16.0.7...vaultwarden-16.0.8) (2022-07-04)
+### [vaultwararden-16.0.8](https://github.com/truecharts/apps/compare/vaultwarden-16.0.7...vaultwarden-16.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -94,7 +94,7 @@
 
 <a name="vaultwarden-16.0.7"></a>
 
-### [vaultwarden-16.0.7](https://github.com/truecharts/apps/compare/vaultwarden-16.0.6...vaultwarden-16.0.7) (2022-06-25)
+### [保险库特瓦尔登-16.0.7](https://github.com/truecharts/apps/compare/vaultwarden-16.0.6...vaultwarden-16.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -104,7 +104,7 @@
 
 <a name="vaultwarden-16.0.6"></a>
 
-### [vaultwarden-16.0.6](https://github.com/truecharts/apps/compare/vaultwarden-16.0.5...vaultwarden-16.0.6) (2022-06-22)
+### [vaultwararden-16.0.6](https://github.com/truecharts/apps/compare/vaultwarden-16.0.5...vaultwarden-16.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -114,7 +114,7 @@
 
 <a name="vaultwarden-16.0.5"></a>
 
-### [vaultwarden-16.0.5](https://github.com/truecharts/apps/compare/vaultwarden-16.0.4...vaultwarden-16.0.5) (2022-06-21)
+### [vaultwararden-16.0.5](https://github.com/truecharts/apps/compare/vaultwarden-16.0.4...vaultwarden-16.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -124,7 +124,7 @@
 
 <a name="vaultwarden-16.0.4"></a>
 
-### [vaultwarden-16.0.4](https://github.com/truecharts/apps/compare/vaultwarden-16.0.3...vaultwarden-16.0.4) (2022-06-14)
+### [保险库特瓦尔登-16.0.4](https://github.com/truecharts/apps/compare/vaultwarden-16.0.3...vaultwarden-16.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -134,7 +134,7 @@
 
 <a name="vaultwarden-16.0.3"></a>
 
-### [vaultwarden-16.0.3](https://github.com/truecharts/apps/compare/vaultwarden-16.0.2...vaultwarden-16.0.3) (2022-06-14)
+### [保险库特瓦尔登-16.0.3](https://github.com/truecharts/apps/compare/vaultwarden-16.0.2...vaultwarden-16.0.3) (2022-06-14)
 
 #### 聊天
 
@@ -144,7 +144,7 @@
 
 <a name="vaultwarden-16.0.2"></a>
 
-### [vaultwarden-16.0.2](https://github.com/truecharts/apps/compare/vaultwarden-16.0.1...vaultwarden-16.0.2) (2022-06-11)
+### [保险库特瓦尔登-16.0.2](https://github.com/truecharts/apps/compare/vaultwarden-16.0.1...vaultwarden-16.0.2) (2022-06-11)
 
 #### 聊天
 
@@ -154,7 +154,7 @@
 
 <a name="vaultwarden-16.0.1"></a>
 
-### [vaultwarden-16.0.1](https://github.com/truecharts/apps/compare/vaultwarden-16.0.0...vaultwarden-16.0.1) (2022-06-08)
+### [保险库特瓦尔登-16.0.1](https://github.com/truecharts/apps/compare/vaultwarden-16.0.0...vaultwarden-16.0.1) (2022-06-08)
 
 #### 聊天
 
@@ -163,13 +163,13 @@
 
 #### 修复
 
-* fix yubico questions.yaml variable name
+* 修复yubico questions.yaml 变量名称
 
 
 
 <a name="vaultwarden-16.0.1"></a>
 
-### [vaultwarden-16.0.1](https://github.com/truecharts/apps/compare/vaultwarden-16.0.0...vaultwarden-16.0.1) (2022-06-08)
+### [保险库特瓦尔登-16.0.1](https://github.com/truecharts/apps/compare/vaultwarden-16.0.0...vaultwarden-16.0.1) (2022-06-08)
 
 #### 聊天
 
@@ -177,23 +177,23 @@
 
 #### 修复
 
-* fix yubico questions.yaml variable name
+* 修复yubico questions.yaml 变量名称
 
 
 
 <a name="vaultwarden-16.0.1"></a>
 
-### [vaultwarden-16.0.1](https://github.com/truecharts/apps/compare/vaultwarden-16.0.0...vaultwarden-16.0.1) (2022-06-08)
+### [保险库特瓦尔登-16.0.1](https://github.com/truecharts/apps/compare/vaultwarden-16.0.0...vaultwarden-16.0.1) (2022-06-08)
 
 #### 修复
 
-* fix yubico questions.yaml variable name
+* 修复yubico questions.yaml 变量名称
 
 
 
 <a name="vaultwarden-16.0.0"></a>
 
-### [vaultwarden-16.0.0](https://github.com/truecharts/apps/compare/vaultwarden-15.0.1...vaultwarden-16.0.0) (2022-06-07)
+### [vaultwararden-16.0.0](https://github.com/truecharts/apps/compare/vaultwarden-15.0.1...vaultwarden-16.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -207,7 +207,7 @@
 
 <a name="vaultwarden-15.0.1"></a>
 
-### [vaultwarden-15.0.1](https://github.com/truecharts/apps/compare/vaultwarden-14.0.26...vaultwarden-15.0.1) (2022-06-07)
+### [保险库特瓦尔登-15.0.1](https://github.com/truecharts/apps/compare/vaultwarden-14.0.26...vaultwarden-15.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -227,7 +227,7 @@
 
 <a name="vaultwarden-15.0.0"></a>
 
-### [vaultwarden-15.0.0](https://github.com/truecharts/apps/compare/vaultwarden-14.0.26...vaultwarden-15.0.0) (2022-06-07)
+### [vaultwararden-15.0.0](https://github.com/truecharts/apps/compare/vaultwarden-14.0.26...vaultwarden-15.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="vaultwarden-14.0.26"></a>
 
-### [vaultwarden-14.0.26](https://github.com/truecharts/apps/compare/vaultwarden-14.0.25...vaultwarden-14.0.26) (2022-05-31)
+### [保险库特瓦尔登-14.0.26](https://github.com/truecharts/apps/compare/vaultwarden-14.0.25...vaultwarden-14.0.26) (2022-05-31)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="vaultwarden-14.0.25"></a>
 
-### [vaultwarden-14.0.25](https://github.com/truecharts/apps/compare/vaultwarden-14.0.24...vaultwarden-14.0.25) (2022-05-26)
+### [保险库特瓦尔登-14.0.25](https://github.com/truecharts/apps/compare/vaultwarden-14.0.24...vaultwarden-14.0.25) (2022-05-26)
 
 #### 聊天
 
@@ -262,7 +262,7 @@
 
 <a name="vaultwarden-14.0.25"></a>
 
-### [vaultwarden-14.0.25](https://github.com/truecharts/apps/compare/vaultwarden-14.0.24...vaultwarden-14.0.25) (2022-05-26)
+### [保险库特瓦尔登-14.0.25](https://github.com/truecharts/apps/compare/vaultwarden-14.0.24...vaultwarden-14.0.25) (2022-05-26)
 
 #### 聊天
 
@@ -272,7 +272,7 @@
 
 <a name="vaultwarden-14.0.24"></a>
 
-### [vaultwarden-14.0.24](https://github.com/truecharts/apps/compare/vaultwarden-14.0.23...vaultwarden-14.0.24) (2022-05-24)
+### [保险库特瓦尔登-14.0.24](https://github.com/truecharts/apps/compare/vaultwarden-14.0.23...vaultwarden-14.0.24) (2022-05-24)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="vaultwarden-14.0.23"></a>
 
-### [vaultwarden-14.0.23](https://github.com/truecharts/apps/compare/vaultwarden-14.0.22...vaultwarden-14.0.23) (2022-05-24)
+### [保险库特瓦尔登-14.0.23](https://github.com/truecharts/apps/compare/vaultwarden-14.0.22...vaultwarden-14.0.23) (2022-05-24)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="vaultwarden-14.0.22"></a>
 
-### [vaultwarden-14.0.22](https://github.com/truecharts/apps/compare/vaultwarden-14.0.21...vaultwarden-14.0.22) (2022-05-17)
+### [保险库特瓦尔登-14.0.22](https://github.com/truecharts/apps/compare/vaultwarden-14.0.21...vaultwarden-14.0.22) (2022-05-17)
 
 #### 聊天
 
@@ -303,7 +303,7 @@
 
 <a name="vaultwarden-14.0.22"></a>
 
-### [vaultwarden-14.0.22](https://github.com/truecharts/apps/compare/vaultwarden-14.0.21...vaultwarden-14.0.22) (2022-05-17)
+### [保险库特瓦尔登-14.0.22](https://github.com/truecharts/apps/compare/vaultwarden-14.0.21...vaultwarden-14.0.22) (2022-05-17)
 
 #### 聊天
 
@@ -313,7 +313,7 @@
 
 <a name="vaultwarden-14.0.21"></a>
 
-### [vaultwarden-14.0.21](https://github.com/truecharts/apps/compare/vaultwarden-14.0.20...vaultwarden-14.0.21) (2022-05-17)
+### [保险库特瓦尔登-14.0.21](https://github.com/truecharts/apps/compare/vaultwarden-14.0.20...vaultwarden-14.0.21) (2022-05-17)
 
 #### 聊天
 
@@ -323,7 +323,7 @@
 
 <a name="vaultwarden-14.0.20"></a>
 
-### [vaultwarden-14.0.20](https://github.com/truecharts/apps/compare/vaultwarden-14.0.19...vaultwarden-14.0.20) (2022-05-10)
+### [保险库特瓦尔登-14.0.20](https://github.com/truecharts/apps/compare/vaultwarden-14.0.19...vaultwarden-14.0.20) (2022-05-10)
 
 #### 聊天
 
@@ -333,7 +333,7 @@
 
 <a name="vaultwarden-14.0.19"></a>
 
-### [vaultwarden-14.0.19](https://github.com/truecharts/apps/compare/vaultwarden-14.0.18...vaultwarden-14.0.19) (2022-05-05)
+### [保险库特瓦尔登-14.0.19](https://github.com/truecharts/apps/compare/vaultwarden-14.0.18...vaultwarden-14.0.19) (2022-05-05)
 
 #### 聊天
 
@@ -343,7 +343,7 @@
 
 <a name="vaultwarden-14.0.18"></a>
 
-### [vaultwarden-14.0.18](https://github.com/truecharts/apps/compare/vaultwarden-14.0.17...vaultwarden-14.0.18) (2022-05-04)
+### [保险库特瓦尔登-14.0.18](https://github.com/truecharts/apps/compare/vaultwarden-14.0.17...vaultwarden-14.0.18) (2022-05-04)
 
 #### 聊天
 
@@ -353,17 +353,17 @@
 
 <a name="vaultwarden-14.0.17"></a>
 
-### [vaultwarden-14.0.17](https://github.com/truecharts/apps/compare/vaultwarden-14.0.16...vaultwarden-14.0.17) (2022-05-01)
+### [保险库特瓦尔登-14.0.17](https://github.com/truecharts/apps/compare/vaultwarden-14.0.16...vaultwarden-14.0.17) (2022-05-01)
 
 #### 修复
 
-* correct ws service definition ([#2593](https://github.com/truecharts/apps/issues/2593))
+* 正确的 ws 服务定义 ([#2593](https://github.com/truecharts/apps/issues/2593))
 
 
 
 <a name="vaultwarden-14.0.16"></a>
 
-### [vaultwarden-14.0.16](https://github.com/truecharts/apps/compare/vaultwarden-14.0.15...vaultwarden-14.0.16) (2022-04-26)
+### [保险库特瓦尔登-14.0.16](https://github.com/truecharts/apps/compare/vaultwarden-14.0.15...vaultwarden-14.0.16) (2022-04-26)
 
 #### 聊天
 
@@ -373,7 +373,7 @@
 
 <a name="vaultwarden-14.0.15"></a>
 
-### [vaultwarden-14.0.15](https://github.com/truecharts/apps/compare/vaultwarden-14.0.14...vaultwarden-14.0.15) (2022-04-20)
+### [保险库特瓦尔登-14.0.15](https://github.com/truecharts/apps/compare/vaultwarden-14.0.14...vaultwarden-14.0.15) (2022-04-20)
 
 #### 聊天
 
@@ -384,17 +384,17 @@
 
 <a name="vaultwarden-14.0.14"></a>
 
-### [vaultwarden-14.0.14](https://github.com/truecharts/apps/compare/vaultwarden-14.0.13...vaultwarden-14.0.14) (2022-04-17)
+### [保险库特瓦尔登-14.0.14](https://github.com/truecharts/apps/compare/vaultwarden-14.0.13...vaultwarden-14.0.14) (2022-04-17)
 
 #### 聊天
 
-* replace UI code with tempalte (advanced) ([#2499](https://github.com/truecharts/apps/issues/2499))
+* 将UI代码替换为 (高级) ([#2499](https://github.com/truecharts/apps/issues/2499))
 
 
 
 <a name="vaultwarden-14.0.13"></a>
 
-### [vaultwarden-14.0.13](https://github.com/truecharts/apps/compare/vaultwarden-14.0.12...vaultwarden-14.0.13) (2022-04-12)
+### [保险库特瓦尔登-14.0.13](https://github.com/truecharts/apps/compare/vaultwarden-14.0.12...vaultwarden-14.0.13) (2022-04-12)
 
 #### 聊天
 
@@ -404,7 +404,7 @@
 
 <a name="vaultwarden-14.0.12"></a>
 
-### [vaultwarden-14.0.12](https://github.com/truecharts/apps/compare/vaultwarden-14.0.11...vaultwarden-14.0.12) (2022-04-03)
+### [保险库特瓦尔登-14.0.12](https://github.com/truecharts/apps/compare/vaultwarden-14.0.11...vaultwarden-14.0.12) (2022-04-03)
 
 #### 聊天
 
@@ -414,7 +414,7 @@
 
 <a name="vaultwarden-14.0.11"></a>
 
-### [vaultwarden-14.0.11](https://github.com/truecharts/apps/compare/vaultwarden-14.0.10...vaultwarden-14.0.11) (2022-03-31)
+### [保险库特瓦尔登-14.0.11](https://github.com/truecharts/apps/compare/vaultwarden-14.0.10...vaultwarden-14.0.11) (2022-03-31)
 
 #### 聊天
 
@@ -424,7 +424,7 @@
 
 <a name="vaultwarden-14.0.10"></a>
 
-### [vaultwarden-14.0.10](https://github.com/truecharts/apps/compare/vaultwarden-14.0.9...vaultwarden-14.0.10) (2022-03-31)
+### [保险库特瓦尔登-14.0.10](https://github.com/truecharts/apps/compare/vaultwarden-14.0.9...vaultwarden-14.0.10) (2022-03-31)
 
 #### 聊天
 
@@ -434,7 +434,7 @@
 
 <a name="vaultwarden-14.0.9"></a>
 
-### [vaultwarden-14.0.9](https://github.com/truecharts/apps/compare/vaultwarden-14.0.8...vaultwarden-14.0.9) (2022-03-30)
+### [保险库特瓦尔登-14.0.9](https://github.com/truecharts/apps/compare/vaultwarden-14.0.8...vaultwarden-14.0.9) (2022-03-30)
 
 #### 聊天
 
@@ -445,7 +445,7 @@
 
 <a name="vaultwarden-14.0.8"></a>
 
-### [vaultwarden-14.0.8](https://github.com/truecharts/apps/compare/vaultwarden-14.0.7...vaultwarden-14.0.8) (2022-03-26)
+### [保险库特瓦尔登-14.0.8](https://github.com/truecharts/apps/compare/vaultwarden-14.0.7...vaultwarden-14.0.8) (2022-03-26)
 
 #### 聊天
 
@@ -455,7 +455,7 @@
 
 <a name="vaultwarden-14.0.7"></a>
 
-### [vaultwarden-14.0.7](https://github.com/truecharts/apps/compare/vaultwarden-14.0.6...vaultwarden-14.0.7) (2022-03-26)
+### [保险库特瓦尔登-14.0.7](https://github.com/truecharts/apps/compare/vaultwarden-14.0.6...vaultwarden-14.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -465,7 +465,7 @@
 
 <a name="vaultwarden-14.0.2"></a>
 
-### [vaultwarden-14.0.2](https://github.com/truecharts/apps/compare/vaultwarden-14.0.1...vaultwarden-14.0.2) (2022-03-08)
+### [保险库特瓦尔登-14.0.2](https://github.com/truecharts/apps/compare/vaultwarden-14.0.1...vaultwarden-14.0.2) (2022-03-08)
 
 #### 聊天
 
@@ -475,7 +475,7 @@
 
 <a name="vaultwarden-14.0.1"></a>
 
-### [vaultwarden-14.0.1](https://github.com/truecharts/apps/compare/vaultwarden-14.0.0...vaultwarden-14.0.1) (2022-03-07)
+### [保险库特瓦尔登-14.0.1](https://github.com/truecharts/apps/compare/vaultwarden-14.0.0...vaultwarden-14.0.1) (2022-03-07)
 
 #### 聊天
 
@@ -486,7 +486,7 @@
 
 <a name="vaultwarden-14.0.0"></a>
 
-### [vaultwarden-14.0.0](https://github.com/truecharts/apps/compare/vaultwarden-13.0.37...vaultwarden-14.0.0) (2022-03-03)
+### [vaultwararden-14.0.0](https://github.com/truecharts/apps/compare/vaultwarden-13.0.37...vaultwarden-14.0.0) (2022-03-03)
 
 #### 聊天
 
@@ -502,7 +502,7 @@
 
 <a name="vaultwarden-13.0.37"></a>
 
-### [vaultwarden-13.0.37](https://github.com/truecharts/apps/compare/vaultwarden-13.0.36...vaultwarden-13.0.37) (2022-03-02)
+### [保险库特瓦尔登-13.0.37](https://github.com/truecharts/apps/compare/vaultwarden-13.0.36...vaultwarden-13.0.37) (2022-03-02)
 
 #### 聊天
 
@@ -513,7 +513,7 @@
 
 <a name="vaultwarden-13.0.36"></a>
 
-### [vaultwarden-13.0.36](https://github.com/truecharts/apps/compare/vaultwarden-13.0.35...vaultwarden-13.0.36) (2022-02-21)
+### [保险库特瓦尔登-13.0.36](https://github.com/truecharts/apps/compare/vaultwarden-13.0.35...vaultwarden-13.0.36) (2022-02-21)
 
 #### 聊天
 
@@ -523,7 +523,7 @@
 
 <a name="vaultwarden-13.0.35"></a>
 
-### [vaultwarden-13.0.35](https://github.com/truecharts/apps/compare/vaultwarden-13.0.34...vaultwarden-13.0.35) (2022-02-15)
+### [保险库特瓦尔登-13.0.35](https://github.com/truecharts/apps/compare/vaultwarden-13.0.34...vaultwarden-13.0.35) (2022-02-15)
 
 #### 聊天
 
@@ -533,7 +533,7 @@
 
 <a name="vaultwarden-13.0.34"></a>
 
-### [vaultwarden-13.0.34](https://github.com/truecharts/apps/compare/vaultwarden-13.0.33...vaultwarden-13.0.34) (2022-02-08)
+### [保险库特瓦尔登-13.0.34](https://github.com/truecharts/apps/compare/vaultwarden-13.0.33...vaultwarden-13.0.34) (2022-02-08)
 
 #### 聊天
 
@@ -543,7 +543,7 @@
 
 <a name="vaultwarden-13.0.33"></a>
 
-### [vaultwarden-13.0.33](https://github.com/truecharts/apps/compare/vaultwarden-13.0.32...vaultwarden-13.0.33) (2022-02-06)
+### [保险库特瓦尔登-13.0.33](https://github.com/truecharts/apps/compare/vaultwarden-13.0.32...vaultwarden-13.0.33) (2022-02-06)
 
 #### 聊天
 
@@ -553,7 +553,7 @@
 
 <a name="vaultwarden-13.0.32"></a>
 
-### [vaultwarden-13.0.32](https://github.com/truecharts/apps/compare/vaultwarden-13.0.31...vaultwarden-13.0.32) (2022-02-05)
+### [保险库特瓦尔登-13.0.32](https://github.com/truecharts/apps/compare/vaultwarden-13.0.31...vaultwarden-13.0.32) (2022-02-05)
 
 #### 聊天
 
@@ -563,7 +563,7 @@
 
 <a name="vaultwarden-13.0.31"></a>
 
-### [vaultwarden-13.0.31](https://github.com/truecharts/apps/compare/vaultwarden-13.0.30...vaultwarden-13.0.31) (2022-02-02)
+### [保险库特瓦尔登-13.0.31](https://github.com/truecharts/apps/compare/vaultwarden-13.0.30...vaultwarden-13.0.31) (2022-02-02)
 
 #### 聊天
 
@@ -573,7 +573,7 @@
 
 <a name="vaultwarden-13.0.30"></a>
 
-### [vaultwarden-13.0.30](https://github.com/truecharts/apps/compare/vaultwarden-13.0.29...vaultwarden-13.0.30) (2022-01-31)
+### [保险库特瓦尔登-13.0.30](https://github.com/truecharts/apps/compare/vaultwarden-13.0.29...vaultwarden-13.0.30) (2022-01-31)
 
 #### 聊天
 
@@ -583,7 +583,7 @@
 
 <a name="vaultwarden-13.0.29"></a>
 
-### [vaultwarden-13.0.29](https://github.com/truecharts/apps/compare/vaultwarden-13.0.28...vaultwarden-13.0.29) (2022-01-25)
+### [保险库特瓦尔登-13.0.29](https://github.com/truecharts/apps/compare/vaultwarden-13.0.28...vaultwarden-13.0.29) (2022-01-25)
 
 #### 聊天
 
@@ -593,7 +593,7 @@
 
 <a name="vaultwarden-13.0.28"></a>
 
-### [vaultwarden-13.0.28](https://github.com/truecharts/apps/compare/vaultwarden-13.0.27...vaultwarden-13.0.28) (2022-01-22)
+### [保险库特瓦尔登-13.0.28](https://github.com/truecharts/apps/compare/vaultwarden-13.0.27...vaultwarden-13.0.28) (2022-01-22)
 
 #### 聊天
 
@@ -603,7 +603,7 @@
 
 <a name="vaultwarden-13.0.27"></a>
 
-### [vaultwarden-13.0.27](https://github.com/truecharts/apps/compare/vaultwarden-13.0.26...vaultwarden-13.0.27) (2022-01-22)
+### [保险库特瓦尔登-13.0.27](https://github.com/truecharts/apps/compare/vaultwarden-13.0.26...vaultwarden-13.0.27) (2022-01-22)
 
 #### 聊天
 
@@ -613,7 +613,7 @@
 
 <a name="vaultwarden-13.0.26"></a>
 
-### [vaultwarden-13.0.26](https://github.com/truecharts/apps/compare/vaultwarden-13.0.25...vaultwarden-13.0.26) (2022-01-21)
+### [保险库特瓦尔登-13.0.26](https://github.com/truecharts/apps/compare/vaultwarden-13.0.25...vaultwarden-13.0.26) (2022-01-21)
 
 #### 聊天
 
@@ -627,7 +627,7 @@
 
 <a name="vaultwarden-13.0.25"></a>
 
-### [vaultwarden-13.0.25](https://github.com/truecharts/apps/compare/vaultwarden-13.0.24...vaultwarden-13.0.25) (2022-01-18)
+### [保险箱13.0.25](https://github.com/truecharts/apps/compare/vaultwarden-13.0.24...vaultwarden-13.0.25) (2022-01-18)
 
 #### 聊天
 
@@ -637,7 +637,7 @@
 
 <a name="vaultwarden-13.0.24"></a>
 
-### [vaultwarden-13.0.24](https://github.com/truecharts/apps/compare/vaultwarden-13.0.23...vaultwarden-13.0.24) (2022-01-13)
+### [保险库特瓦尔登-13.0.24](https://github.com/truecharts/apps/compare/vaultwarden-13.0.23...vaultwarden-13.0.24) (2022-01-13)
 
 #### 聊天
 
@@ -651,7 +651,7 @@
 
 <a name="vaultwarden-13.0.23"></a>
 
-### [vaultwarden-13.0.23](https://github.com/truecharts/apps/compare/vaultwarden-13.0.22...vaultwarden-13.0.23) (2022-01-12)
+### [保险库特瓦尔登-13.0.23](https://github.com/truecharts/apps/compare/vaultwarden-13.0.22...vaultwarden-13.0.23) (2022-01-12)
 
 #### 聊天
 
@@ -661,7 +661,7 @@
 
 <a name="vaultwarden-13.0.22"></a>
 
-### [vaultwarden-13.0.22](https://github.com/truecharts/apps/compare/vaultwarden-13.0.21...vaultwarden-13.0.22) (2022-01-11)
+### [保险库特瓦尔登-13.0.22](https://github.com/truecharts/apps/compare/vaultwarden-13.0.21...vaultwarden-13.0.22) (2022-01-11)
 
 #### 聊天
 
@@ -671,17 +671,17 @@
 
 <a name="vaultwarden-13.0.21"></a>
 
-### [vaultwarden-13.0.21](https://github.com/truecharts/apps/compare/vaultwarden-13.0.20...vaultwarden-13.0.21) (2022-01-10)
+### [保险库特瓦尔登-13.0.21](https://github.com/truecharts/apps/compare/vaultwarden-13.0.20...vaultwarden-13.0.21) (2022-01-10)
 
 #### Feat
 
-* Add admin portal button ([#1673](https://github.com/truecharts/apps/issues/1673))
+* 添加管理门户按钮([#1673](https://github.com/truecharts/apps/issues/1673))
 
 
 
 <a name="vaultwarden-13.0.20"></a>
 
-### [vaultwarden-13.0.20](https://github.com/truecharts/apps/compare/vaultwarden-13.0.19...vaultwarden-13.0.20) (2022-01-04)
+### [保险库特瓦尔登-13.0.20](https://github.com/truecharts/apps/compare/vaultwarden-13.0.19...vaultwarden-13.0.20) (2022-01-04)
 
 #### 聊天
 
@@ -691,7 +691,7 @@
 
 <a name="vaultwarden-13.0.19"></a>
 
-### [vaultwarden-13.0.19](https://github.com/truecharts/apps/compare/vaultwarden-13.0.18...vaultwarden-13.0.19) (2021-12-28)
+### [保险库特瓦尔登-13.0.19](https://github.com/truecharts/apps/compare/vaultwarden-13.0.18...vaultwarden-13.0.19) (2021-12-28)
 
 #### 聊天
 
@@ -701,7 +701,7 @@
 
 <a name="vaultwarden-13.0.18"></a>
 
-### [vaultwarden-13.0.18](https://github.com/truecharts/apps/compare/vaultwarden-13.0.17...vaultwarden-13.0.18) (2021-12-21)
+### [保险库特瓦尔登-13.0.18](https://github.com/truecharts/apps/compare/vaultwarden-13.0.17...vaultwarden-13.0.18) (2021-12-21)
 
 #### 聊天
 
@@ -711,7 +711,7 @@
 
 <a name="vaultwarden-13.0.17"></a>
 
-### [vaultwarden-13.0.17](https://github.com/truecharts/apps/compare/vaultwarden-13.0.16...vaultwarden-13.0.17) (2021-12-19)
+### [保险库特瓦尔登-13.0.17](https://github.com/truecharts/apps/compare/vaultwarden-13.0.16...vaultwarden-13.0.17) (2021-12-19)
 
 #### 聊天
 
@@ -725,7 +725,7 @@
 
 <a name="vaultwarden-13.0.16"></a>
 
-### [vaultwarden-13.0.16](https://github.com/truecharts/apps/compare/vaultwarden-13.0.15...vaultwarden-13.0.16) (2021-12-19)
+### [保险库特瓦尔登-13.0.16](https://github.com/truecharts/apps/compare/vaultwarden-13.0.15...vaultwarden-13.0.16) (2021-12-19)
 
 #### 聊天
 
@@ -736,7 +736,7 @@
 
 <a name="vaultwarden-13.0.15"></a>
 
-### [vaultwarden-13.0.15](https://github.com/truecharts/apps/compare/vaultwarden-13.0.14...vaultwarden-13.0.15) (2021-12-18)
+### [保险库特瓦尔登-13.0.15](https://github.com/truecharts/apps/compare/vaultwarden-13.0.14...vaultwarden-13.0.15) (2021-12-18岁)
 
 #### 聊天
 
@@ -748,7 +748,7 @@
 
 <a name="vaultwarden-13.0.14"></a>
 
-### [vaultwarden-13.0.14](https://github.com/truecharts/apps/compare/vaultwarden-13.0.13...vaultwarden-13.0.14) (2021-12-14)
+### [保险库特瓦尔登-13.0.14](https://github.com/truecharts/apps/compare/vaultwarden-13.0.13...vaultwarden-13.0.14) (2021-12-14)
 
 #### 聊天
 
@@ -758,7 +758,7 @@
 
 <a name="vaultwarden-13.0.13"></a>
 
-### [vaultwarden-13.0.13](https://github.com/truecharts/apps/compare/vaultwarden-13.0.12...vaultwarden-13.0.13) (2021-12-13)
+### [保险库特瓦尔登-13.0.13](https://github.com/truecharts/apps/compare/vaultwarden-13.0.12...vaultwarden-13.0.13) (2021-12-13)
 
 #### 聊天
 
@@ -768,7 +768,7 @@
 
 <a name="vaultwarden-13.0.12"></a>
 
-### [vaultwarden-13.0.12](https://github.com/truecharts/apps/compare/vaultwarden-13.0.11...vaultwarden-13.0.12) (2021-12-11)
+### [保险库特瓦尔登-13.0.12](https://github.com/truecharts/apps/compare/vaultwarden-13.0.11...vaultwarden-13.0.12) (2021-12-11)
 
 #### 聊天
 
@@ -778,7 +778,7 @@
 
 <a name="vaultwarden-13.0.11"></a>
 
-### [vaultwarden-13.0.11](https://github.com/truecharts/apps/compare/vaultwarden-13.0.10...vaultwarden-13.0.11) (2021-12-11)
+### [保险库特瓦尔登-13.0.11](https://github.com/truecharts/apps/compare/vaultwarden-13.0.10...vaultwarden-13.0.11) (2021-12-11)
 
 #### 聊天
 
@@ -788,7 +788,7 @@
 
 <a name="vaultwarden-13.0.10"></a>
 
-### [vaultwarden-13.0.10](https://github.com/truecharts/apps/compare/vaultwarden-13.0.9...vaultwarden-13.0.10) (2021-12-07)
+### [保险库特瓦尔登-13.0.10](https://github.com/truecharts/apps/compare/vaultwarden-13.0.9...vaultwarden-13.0.10) (2021-12-07)
 
 #### 聊天
 
@@ -817,7 +817,7 @@
 
 <a name="vaultwarden-13.0.8"></a>
 
-### [vaultwarden-13.0.8](https://github.com/truecharts/apps/compare/vaultwarden-13.0.7...vaultwarden-13.0.8) (2021-12-05)
+### [保险库特瓦尔登-13.0.8](https://github.com/truecharts/apps/compare/vaultwarden-13.0.7...vaultwarden-13.0.8) (2021-12-05)
 
 #### 聊天
 
@@ -827,7 +827,7 @@
 
 <a name="vaultwarden-13.0.7"></a>
 
-### [vaultwarden-13.0.7](https://github.com/truecharts/apps/compare/vaultwarden-13.0.6...vaultwarden-13.0.7) (2021-12-04)
+### [保险库特瓦尔登-13.0.7](https://github.com/truecharts/apps/compare/vaultwarden-13.0.6...vaultwarden-13.0.7) (2021-12-04)
 
 #### 聊天
 
@@ -837,7 +837,7 @@
 
 <a name="vaultwarden-13.0.6"></a>
 
-### [vaultwarden-13.0.6](https://github.com/truecharts/apps/compare/vaultwarden-13.0.5...vaultwarden-13.0.6) (2021-12-04)
+### [保险库特瓦尔登-13.0.6](https://github.com/truecharts/apps/compare/vaultwarden-13.0.5...vaultwarden-13.0.6) (2021-12-04)
 
 #### 聊天
 
@@ -848,7 +848,7 @@
 
 <a name="vaultwarden-13.0.5"></a>
 
-### [vaultwarden-13.0.5](https://github.com/truecharts/apps/compare/vaultwarden-13.0.4...vaultwarden-13.0.5) (2021-11-30)
+### [保险库特瓦尔登-13.0.5](https://github.com/truecharts/apps/compare/vaultwarden-13.0.4...vaultwarden-13.0.5) (2021-11-30)
 
 #### 聊天
 
@@ -862,7 +862,7 @@
 
 <a name="vaultwarden-13.0.4"></a>
 
-### [vaultwarden-13.0.4](https://github.com/truecharts/apps/compare/vaultwarden-13.0.3...vaultwarden-13.0.4) (2021-11-23)
+### [保险库特瓦尔登-13.0.4](https://github.com/truecharts/apps/compare/vaultwarden-13.0.3...vaultwarden-13.0.4) (2021-11-23)
 
 #### 聊天
 
@@ -872,7 +872,7 @@
 
 <a name="vaultwarden-13.0.3"></a>
 
-### [vaultwarden-13.0.3](https://github.com/truecharts/apps/compare/vaultwarden-13.0.2...vaultwarden-13.0.3) (2021-11-22)
+### [保险库特瓦尔登-13.0.3](https://github.com/truecharts/apps/compare/vaultwarden-13.0.2...vaultwarden-13.0.3) (2021-11-22)
 
 #### 聊天
 
@@ -886,7 +886,7 @@
 
 <a name="vaultwarden-13.0.2"></a>
 
-### [vaultwarden-13.0.2](https://github.com/truecharts/apps/compare/vaultwarden-13.0.1...vaultwarden-13.0.2) (2021-11-16)
+### [保险库特瓦尔登-13.0.2](https://github.com/truecharts/apps/compare/vaultwarden-13.0.1...vaultwarden-13.0.2) (2021-11-16)
 
 #### 聊天
 
@@ -896,7 +896,7 @@
 
 <a name="vaultwarden-13.0.1"></a>
 
-### [vaultwarden-13.0.1](https://github.com/truecharts/apps/compare/vaultwarden-13.0.0...vaultwarden-13.0.1) (2021-11-16)
+### [保险库特瓦尔登-13.0.1](https://github.com/truecharts/apps/compare/vaultwarden-13.0.0...vaultwarden-13.0.1) (2021-11-16)
 
 #### 聊天
 
@@ -906,7 +906,7 @@
 
 <a name="vaultwarden-13.0.0"></a>
 
-### [vaultwarden-13.0.0](https://github.com/truecharts/apps/compare/vaultwarden-12.0.11...vaultwarden-13.0.0) (2021-11-16)
+### [vaultwararden-13.0.0](https://github.com/truecharts/apps/compare/vaultwarden-12.0.11...vaultwarden-13.0.0) (2021-11-16)
 
 #### 聊天
 
@@ -916,7 +916,7 @@
 
 <a name="vaultwarden-12.0.11"></a>
 
-### [vaultwarden-12.0.11](https://github.com/truecharts/apps/compare/vaultwarden-12.0.10...vaultwarden-12.0.11) (2021-11-15)
+### [保险库特瓦尔登-12.0.11](https://github.com/truecharts/apps/compare/vaultwarden-12.0.10...vaultwarden-12.0.11) (2021-11-15)
 
 #### 聊天
 
@@ -927,7 +927,7 @@
 
 <a name="vaultwarden-12.0.10"></a>
 
-### [vaultwarden-12.0.10](https://github.com/truecharts/apps/compare/vaultwarden-12.0.9...vaultwarden-12.0.10) (2021-11-14)
+### [保险库特瓦尔登-12.0.10](https://github.com/truecharts/apps/compare/vaultwarden-12.0.9...vaultwarden-12.0.10) (2021-11-14)
 
 #### 聊天
 
@@ -945,7 +945,7 @@
 
 <a name="vaultwarden-12.0.9"></a>
 
-### [vaultwarden-12.0.9](https://github.com/truecharts/apps/compare/vaultwarden-12.0.8...vaultwarden-12.0.9) (2021-11-09)
+### [保险库特瓦尔登-12.0.9](https://github.com/truecharts/apps/compare/vaultwarden-12.0.8...vaultwarden-12.0.9) (2021-11-09)
 
 #### 聊天
 
@@ -955,7 +955,7 @@
 
 <a name="vaultwarden-12.0.8"></a>
 
-### [vaultwarden-12.0.8](https://github.com/truecharts/apps/compare/vaultwarden-12.0.7...vaultwarden-12.0.8) (2021-11-07)
+### [保险库特瓦尔登-12.0.8](https://github.com/truecharts/apps/compare/vaultwarden-12.0.7...vaultwarden-12.0.8) (2021-11-07)
 
 #### 聊天
 
@@ -965,7 +965,7 @@
 
 <a name="vaultwarden-12.0.7"></a>
 
-### [vaultwarden-12.0.7](https://github.com/truecharts/apps/compare/vaultwarden-12.0.6...vaultwarden-12.0.7) (2021-11-07)
+### [保险库特瓦尔登-12.0.7](https://github.com/truecharts/apps/compare/vaultwarden-12.0.6...vaultwarden-12.0.7) (2021-11-07)
 
 #### 聊天
 
@@ -987,17 +987,17 @@
 
 <a name="vaultwarden-12.0.6"></a>
 
-### [vaultwarden-12.0.6](https://github.com/truecharts/apps/compare/vaultwarden-12.0.5...vaultwarden-12.0.6) (2021-11-04)
+### [保险库特瓦尔登-12.0.6](https://github.com/truecharts/apps/compare/vaultwarden-12.0.5...vaultwarden-12.0.6) (2021-11-04)
 
 #### 修复
 
-* correctly define ingress ([#1283](https://github.com/truecharts/apps/issues/1283))
+* 正确定义收件人([#1283](https://github.com/truecharts/apps/issues/1283))
 
 
 
 <a name="vaultwarden-12.0.5"></a>
 
-### [vaultwarden-12.0.5](https://github.com/truecharts/apps/compare/vaultwarden-12.0.4...vaultwarden-12.0.5) (2021-11-02)
+### [保险库特瓦尔登-12.0.5](https://github.com/truecharts/apps/compare/vaultwarden-12.0.4...vaultwarden-12.0.5) (2021-11-02)
 
 #### 聊天
 
@@ -1007,7 +1007,7 @@
 
 <a name="vaultwarden-12.0.4"></a>
 
-### [vaultwarden-12.0.4](https://github.com/truecharts/apps/compare/vaultwarden-12.0.3...vaultwarden-12.0.4) (2021-11-01)
+### [保险库特瓦尔登-12.0.4](https://github.com/truecharts/apps/compare/vaultwarden-12.0.3...vaultwarden-12.0.4) (2021-11-01)
 
 #### 聊天
 
@@ -1017,7 +1017,7 @@
 
 <a name="vaultwarden-12.0.3"></a>
 
-### [vaultwarden-12.0.3](https://github.com/truecharts/apps/compare/vaultwarden-12.0.2...vaultwarden-12.0.3) (2021-10-26)
+### [保险库特瓦尔登-12.0.3](https://github.com/truecharts/apps/compare/vaultwarden-12.0.2...vaultwarden-12.0.3) (2021-10-26)
 
 #### 聊天
 
@@ -1027,7 +1027,7 @@
 
 <a name="vaultwarden-12.0.2"></a>
 
-### [vaultwarden-12.0.2](https://github.com/truecharts/apps/compare/vaultwarden-12.0.1...vaultwarden-12.0.2) (2021-10-26)
+### [保险库特瓦尔登-12.0.2](https://github.com/truecharts/apps/compare/vaultwarden-12.0.1...vaultwarden-12.0.2) (2021-10-26)
 
 #### 聊天
 
@@ -1037,7 +1037,7 @@
 
 <a name="vaultwarden-12.0.1"></a>
 
-### [vaultwarden-12.0.1](https://github.com/truecharts/apps/compare/vaultwarden-12.0.0...vaultwarden-12.0.1) (2021-10-26)
+### [保险库特瓦尔登-12.0.1](https://github.com/truecharts/apps/compare/vaultwarden-12.0.0...vaultwarden-12.0.1) (2021-10-26)
 
 #### 聊天
 
@@ -1047,7 +1047,7 @@
 
 <a name="vaultwarden-12.0.0"></a>
 
-### [vaultwarden-12.0.0](https://github.com/truecharts/apps/compare/vaultwarden-11.0.5...vaultwarden-12.0.0) (2021-10-26)
+### [vaultwararden-12.0.0](https://github.com/truecharts/apps/compare/vaultwarden-11.0.5...vaultwarden-12.0.0) (2021-10-26)
 
 #### 聊天
 
@@ -1058,13 +1058,13 @@
 
 <a name="vaultwarden-11.0.5"></a>
 
-### [vaultwarden-11.0.5](https://github.com/truecharts/apps/compare/vaultwarden-10.1.0...vaultwarden-11.0.5) (2021-10-26)
+### [保险库特瓦尔登-11.0.5](https://github.com/truecharts/apps/compare/vaultwarden-10.1.0...vaultwarden-11.0.5) (2021-10-26)
 
 
 
 <a name="vaultwarden-10.1.0"></a>
 
-### [vaultwarden-10.1.0](https://github.com/truecharts/apps/compare/vaultwarden-11.0.0...vaultwarden-10.1.0) (2021-10-26)
+### [vaultwararden-10.1.0](https://github.com/truecharts/apps/compare/vaultwarden-11.0.0...vaultwarden-10.1.0) (2021-10-26)
 
 #### 修复
 
@@ -1074,7 +1074,7 @@
 
 <a name="vaultwarden-11.0.0"></a>
 
-### [vaultwarden-11.0.0](https://github.com/truecharts/apps/compare/vaultwarden-10.0.3...vaultwarden-11.0.0) (2021-10-25)
+### [vaultwararden-11.0.0](https://github.com/truecharts/apps/compare/vaultwarden-10.0.3...vaultwarden-11.0.0) (2021-10-25)
 
 #### 聊天
 
@@ -1084,12 +1084,12 @@
 
 <a name="vaultwarden-10.0.3"></a>
 
-### [vaultwarden-10.0.3](https://github.com/truecharts/apps/compare/vaultwarden-10.0.0...vaultwarden-10.0.3) (2021-10-20)
+### [保险库特瓦尔登-10.0.3](https://github.com/truecharts/apps/compare/vaultwarden-10.0.0...vaultwarden-10.0.3) (2021-10-20)
 
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
@@ -1099,7 +1099,7 @@
 
 <a name="vaultwarden-10.0.0"></a>
 
-### [vaultwarden-10.0.0](https://github.com/truecharts/apps/compare/vaultwarden-9.0.23...vaultwarden-10.0.0) (2021-10-20)
+### [vaultwararden-10.0.0](https://github.com/truecharts/apps/compare/vaultwarden-9.0.23...vaultwarden-10.0.0) (2021-10-20)
 
 #### 聊天
 
@@ -1113,7 +1113,7 @@
 
 <a name="vaultwarden-9.0.23"></a>
 
-### [vaultwarden-9.0.23](https://github.com/truecharts/apps/compare/vaultwarden-9.0.22...vaultwarden-9.0.23) (2021-10-20)
+### [保险库特瓦尔登-9.0.23](https://github.com/truecharts/apps/compare/vaultwarden-9.0.22...vaultwarden-9.0.23) (2021-10-20)
 
 #### 聊天
 
@@ -1123,7 +1123,7 @@
 
 <a name="vaultwarden-9.0.22"></a>
 
-### [vaultwarden-9.0.22](https://github.com/truecharts/apps/compare/vaultwarden-9.0.21...vaultwarden-9.0.22) (2021-10-19)
+### [保险库特瓦尔登-9.0.22](https://github.com/truecharts/apps/compare/vaultwarden-9.0.21...vaultwarden-9.0.22) (2021-10-19)
 
 #### 更改
 
@@ -1146,7 +1146,7 @@
 
 <a name="vaultwarden-9.0.21"></a>
 
-### [vaultwarden-9.0.21](https://github.com/truecharts/apps/compare/vaultwarden-9.0.20...vaultwarden-9.0.21) (2021-10-19)
+### [保险库特瓦尔登-9.0.21](https://github.com/truecharts/apps/compare/vaultwarden-9.0.20...vaultwarden-9.0.21) (2021-10-19)
 
 #### 聊天
 
@@ -1157,7 +1157,7 @@
 
 <a name="vaultwarden-9.0.20"></a>
 
-### [vaultwarden-9.0.20](https://github.com/truecharts/apps/compare/vaultwarden-9.0.19...vaultwarden-9.0.20) (2021-10-19)
+### [保险库特瓦尔登-9.0.20](https://github.com/truecharts/apps/compare/vaultwarden-9.0.19...vaultwarden-9.0.20) (2021-10-19)
 
 #### 修复
 
@@ -1167,7 +1167,7 @@
 
 <a name="vaultwarden-9.0.19"></a>
 
-### [vaultwarden-9.0.19](https://github.com/truecharts/apps/compare/vaultwarden-9.0.18...vaultwarden-9.0.19) (2021-10-19)
+### [保险库特瓦尔登-9.0.19](https://github.com/truecharts/apps/compare/vaultwarden-9.0.18...vaultwarden-9.0.19) (2021-10-19)
 
 #### 修复
 
@@ -1177,7 +1177,7 @@
 
 <a name="vaultwarden-9.0.18"></a>
 
-### [vaultwarden-9.0.18](https://github.com/truecharts/apps/compare/vaultwarden-9.0.17...vaultwarden-9.0.18) (2021-10-18)
+### [保险库特瓦尔登-9.0.18](https://github.com/truecharts/apps/compare/vaultwarden-9.0.17...vaultwarden-9.0.18) (2021-10-18)
 
 #### 重新因子
 
@@ -1187,7 +1187,7 @@
 
 <a name="vaultwarden-9.0.17"></a>
 
-### [vaultwarden-9.0.17](https://github.com/truecharts/apps/compare/vaultwarden-9.0.16...vaultwarden-9.0.17) (2021-10-17)
+### [保险库特瓦尔登-9.0.17](https://github.com/truecharts/apps/compare/vaultwarden-9.0.16...vaultwarden-9.0.17) (2021-10-17)
 
 #### 聊天
 
@@ -1201,7 +1201,7 @@
 
 <a name="vaultwarden-9.0.16"></a>
 
-### [vaultwarden-9.0.16](https://github.com/truecharts/apps/compare/vaultwarden-9.0.15...vaultwarden-9.0.16) (2021-10-13)
+### [保险库特瓦尔登-9.0.16](https://github.com/truecharts/apps/compare/vaultwarden-9.0.15...vaultwarden-9.0.16) (2021-10-13)
 
 #### 聊天
 
@@ -1211,7 +1211,7 @@
 
 <a name="vaultwarden-9.0.15"></a>
 
-### [vaultwarden-9.0.15](https://github.com/truecharts/apps/compare/vaultwarden-9.0.14...vaultwarden-9.0.15) (2021-10-12)
+### [vaultwararden-9.0.15](https://github.com/truecharts/apps/compare/vaultwarden-9.0.14...vaultwarden-9.0.15) (2021-10-12)
 
 #### 聊天
 
@@ -1221,7 +1221,7 @@
 
 <a name="vaultwarden-9.0.14"></a>
 
-### [vaultwarden-9.0.14](https://github.com/truecharts/apps/compare/vaultwarden-9.0.13...vaultwarden-9.0.14) (2021-10-12)
+### [保险库特瓦尔登-9.0.14](https://github.com/truecharts/apps/compare/vaultwarden-9.0.13...vaultwarden-9.0.14) (2021-10-12)
 
 #### 聊天
 
@@ -1231,7 +1231,7 @@
 
 <a name="vaultwarden-9.0.13"></a>
 
-### [vaultwarden-9.0.13](https://github.com/truecharts/apps/compare/vaultwarden-9.0.12...vaultwarden-9.0.13) (2021-10-12)
+### [vaultwararden-9.0.13](https://github.com/truecharts/apps/compare/vaultwarden-9.0.12...vaultwarden-9.0.13) (2021-10-12)
 
 #### 聊天
 
@@ -1241,13 +1241,13 @@
 
 <a name="vaultwarden-9.0.12"></a>
 
-### [vaultwarden-9.0.12](https://github.com/truecharts/apps/compare/vaultwarden-9.0.11...vaultwarden-9.0.12) (2021-10-09)
+### [保险库特瓦尔登-9.0.12](https://github.com/truecharts/apps/compare/vaultwarden-9.0.11...vaultwarden-9.0.12) (2021-10-09)
 
 
 
 <a name="vaultwarden-9.0.11"></a>
 
-### [vaultwarden-9.0.11](https://github.com/truecharts/apps/compare/vaultwarden-9.0.10...vaultwarden-9.0.11) (2021-10-05)
+### [保险库特瓦尔登-9.0.11](https://github.com/truecharts/apps/compare/vaultwarden-9.0.10...vaultwarden-9.0.11) (2021-10-05)
 
 #### 聊天
 
@@ -1257,7 +1257,7 @@
 
 <a name="vaultwarden-9.0.10"></a>
 
-### [vaultwarden-9.0.10](https://github.com/truecharts/apps/compare/vaultwarden-9.0.9...vaultwarden-9.0.10) (2021-10-05)
+### [保险库特瓦尔登-9.0.10](https://github.com/truecharts/apps/compare/vaultwarden-9.0.9...vaultwarden-9.0.10) (2021-10-05)
 
 #### 聊天
 
@@ -1267,7 +1267,7 @@
 
 <a name="vaultwarden-9.0.9"></a>
 
-### [vaultwarden-9.0.9](https://github.com/truecharts/apps/compare/vaultwarden-9.0.8...vaultwarden-9.0.9) (2021-09-29)
+### [vaultwararden-9.0.9](https://github.com/truecharts/apps/compare/vaultwarden-9.0.8...vaultwarden-9.0.9) (2021-09-29)
 
 #### 聊天
 
@@ -1277,7 +1277,7 @@
 
 <a name="vaultwarden-9.0.7"></a>
 
-### [vaultwarden-9.0.7](https://github.com/truecharts/apps/compare/vaultwarden-9.0.6...vaultwarden-9.0.7) (2021-09-29)
+### [保险库特瓦尔登-9.0.7](https://github.com/truecharts/apps/compare/vaultwarden-9.0.6...vaultwarden-9.0.7) (2021-09-29)
 
 #### 聊天
 
@@ -1287,7 +1287,7 @@
 
 <a name="vaultwarden-9.0.6"></a>
 
-### [vaultwarden-9.0.6](https://github.com/truecharts/apps/compare/vaultwarden-9.0.5...vaultwarden-9.0.6) (2021-09-28)
+### [vaultwararden-9.0.6](https://github.com/truecharts/apps/compare/vaultwarden-9.0.5...vaultwarden-9.0.6) (2021-09-28)
 
 #### 聊天
 
@@ -1297,7 +1297,7 @@
 
 <a name="vaultwarden-9.0.5"></a>
 
-### [vaultwarden-9.0.5](https://github.com/truecharts/apps/compare/vaultwarden-9.0.4...vaultwarden-9.0.5) (2021-09-28)
+### [vaultwararden-9.0.5](https://github.com/truecharts/apps/compare/vaultwarden-9.0.4...vaultwarden-9.0.5) (2021-09-28)
 
 #### 聊天
 
@@ -1307,7 +1307,7 @@
 
 <a name="vaultwarden-9.0.4"></a>
 
-### [vaultwarden-9.0.4](https://github.com/truecharts/apps/compare/vaultwarden-9.0.3...vaultwarden-9.0.4) (2021-09-28)
+### [vaultwararden-9.0.4](https://github.com/truecharts/apps/compare/vaultwarden-9.0.3...vaultwarden-9.0.4) (2021-09-28)
 
 #### 聊天
 
@@ -1317,7 +1317,7 @@
 
 <a name="vaultwarden-9.0.3"></a>
 
-### [vaultwarden-9.0.3](https://github.com/truecharts/apps/compare/vaultwarden-9.0.2...vaultwarden-9.0.3) (2021-09-28)
+### [保险库特瓦尔登-9.0.3](https://github.com/truecharts/apps/compare/vaultwarden-9.0.2...vaultwarden-9.0.3) (2021-09-28)
 
 #### 聊天
 
@@ -1327,7 +1327,7 @@
 
 <a name="vaultwarden-9.0.2"></a>
 
-### [vaultwarden-9.0.2](https://github.com/truecharts/apps/compare/vaultwarden-9.0.1...vaultwarden-9.0.2) (2021-09-27)
+### [保险库特瓦尔登-9.0.2](https://github.com/truecharts/apps/compare/vaultwarden-9.0.1...vaultwarden-9.0.2) (2021-09-27)
 
 #### 聊天
 
@@ -1337,19 +1337,19 @@
 
 <a name="vaultwarden-9.0.1"></a>
 
-### [vaultwarden-9.0.1](https://github.com/truecharts/apps/compare/vaultwarden-9.0.0...vaultwarden-9.0.1) (2021-09-26)
+### [保险库特瓦尔登-9.0.1](https://github.com/truecharts/apps/compare/vaultwarden-9.0.0...vaultwarden-9.0.1) (2021-09-26)
 
 
 
 <a name="vaultwarden-9.0.0"></a>
 
-### [vaultwarden-9.0.0](https://github.com/truecharts/apps/compare/vaultwarden-8.0.6...vaultwarden-9.0.0) (2021-09-26)
+### [vaultwararden-9.0](https://github.com/truecharts/apps/compare/vaultwarden-8.0.6...vaultwarden-9.0.0) (2021-09-26)
 
 
 
 <a name="vaultwarden-8.0.6"></a>
 
-### [vaultwarden-8.0.6](https://github.com/truecharts/apps/compare/vaultwarden-8.0.5...vaultwarden-8.0.6) (2021-09-21)
+### [vaultwararden-8.0.6](https://github.com/truecharts/apps/compare/vaultwarden-8.0.5...vaultwarden-8.0.6) (2021-09-21)
 
 #### 聊天
 
@@ -1359,7 +1359,7 @@
 
 <a name="vaultwarden-8.0.5"></a>
 
-### [vaultwarden-8.0.5](https://github.com/truecharts/apps/compare/vaultwarden-8.0.4...vaultwarden-8.0.5) (2021-09-21)
+### [vaultwararden-8.0.5](https://github.com/truecharts/apps/compare/vaultwarden-8.0.4...vaultwarden-8.0.5) (2021-09-21)
 
 #### 聊天
 
@@ -1369,7 +1369,7 @@
 
 <a name="vaultwarden-8.0.4"></a>
 
-### [vaultwarden-8.0.4](https://github.com/truecharts/apps/compare/vaultwarden-8.0.3...vaultwarden-8.0.4) (2021-09-21)
+### [保险库特瓦尔登-8.0.4](https://github.com/truecharts/apps/compare/vaultwarden-8.0.3...vaultwarden-8.0.4) (2021-09-21)
 
 #### 聊天
 
@@ -1379,7 +1379,7 @@
 
 <a name="vaultwarden-8.0.3"></a>
 
-### [vaultwarden-8.0.3](https://github.com/truecharts/apps/compare/vaultwarden-8.0.2...vaultwarden-8.0.3) (2021-09-21)
+### [保险库特瓦尔登-8.0.3](https://github.com/truecharts/apps/compare/vaultwarden-8.0.2...vaultwarden-8.0.3) (2021-09-21)
 
 #### 聊天
 
@@ -1389,7 +1389,7 @@
 
 <a name="vaultwarden-8.0.2"></a>
 
-### [vaultwarden-8.0.2](https://github.com/truecharts/apps/compare/vaultwarden-8.0.1...vaultwarden-8.0.2) (2021-09-14)
+### [保险库特瓦尔登-8.0.2](https://github.com/truecharts/apps/compare/vaultwarden-8.0.1...vaultwarden-8.0.2) (2021-09-14)
 
 #### 聊天
 
@@ -1399,7 +1399,7 @@
 
 <a name="vaultwarden-8.0.1"></a>
 
-### [vaultwarden-8.0.1](https://github.com/truecharts/apps/compare/vaultwarden-7.0.2...vaultwarden-8.0.1) (2021-09-13)
+### [保险库特瓦尔登-8.0.1](https://github.com/truecharts/apps/compare/vaultwarden-7.0.2...vaultwarden-8.0.1) (2021-09-13)
 
 #### 聊天
 
@@ -1423,7 +1423,7 @@
 
 <a name="vaultwarden-7.0.2"></a>
 
-### [vaultwarden-7.0.2](https://github.com/truecharts/apps/compare/vaultwarden-7.0.1...vaultwarden-7.0.2) (2021-09-10)
+### [保险库特瓦尔登-7.0.2](https://github.com/truecharts/apps/compare/vaultwarden-7.0.1...vaultwarden-7.0.2) (2021-09-10)
 
 #### 修复
 
@@ -1433,7 +1433,7 @@
 
 <a name="vaultwarden-7.0.1"></a>
 
-### [vaultwarden-7.0.1](https://github.com/truecharts/apps/compare/vaultwarden-7.0.0...vaultwarden-7.0.1) (2021-09-10)
+### [保险库特瓦尔登-7.0.1](https://github.com/truecharts/apps/compare/vaultwarden-7.0.0...vaultwarden-7.0.1) (2021-09-10)
 
 #### 修复
 
@@ -1443,7 +1443,7 @@
 
 <a name="vaultwarden-7.0.0"></a>
 
-### [vaultwarden-7.0.0](https://github.com/truecharts/apps/compare/vaultwarden-6.1.12...vaultwarden-7.0.0) (2021-09-09)
+### [vaultwararden-7.0.0](https://github.com/truecharts/apps/compare/vaultwarden-6.1.12...vaultwarden-7.0.0) (2021-09-09)
 
 #### 聊天
 
@@ -1456,11 +1456,11 @@
 
 #### 修复
 
-* Inject vaultwarden websocket part into ingress ([#946](https://github.com/truecharts/apps/issues/946))
+* 将密码库插件注入进去([#946](https://github.com/truecharts/apps/issues/946))
 
 <a name="vaultwarden-6.1.12"></a>
 
-## [vaultwarden-6.1.12](https://github.com/truecharts/apps/compare/vaultwarden-6.1.11...vaultwarden-6.1.12) (2021-09-08)
+## [保险库瓦尔登-6.1.12](https://github.com/truecharts/apps/compare/vaultwarden-6.1.11...vaultwarden-6.1.12) (2021-09-08)
 
 ### 修复
 
