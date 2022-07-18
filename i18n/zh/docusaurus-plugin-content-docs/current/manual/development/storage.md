@@ -99,6 +99,92 @@
               - 变量: storageClass
                 标签: "存储类型"
                 描述: "警告: SCALE ZFS 以外的任何东西都会中断回滚!"
+                - 变量：持久性
+    标签：“持久性综合存储”
+    描述：“Websocket 服务”
+    组：“存储”
+    schema：
+      类型：dict
+      景点：
+        - 变量：数据
+          标签：“应用程序配置存储”
+          描述：“存储应用程序配置配置配置配置”。”
+          schema:
+            type: dict
+            toters:
+              - 变量: 启用
+                标签: "启用存储"
+                schema:
+                  type: boolian
+                  default: true
+                  hidden: false
+              - 变量: storageClass
+                标签: "存储类型"
+                描述: "警告: SCALE ZFS 以外的任何东西都会中断回滚!"
+                schema:
+                  type: string
+                  default: "SCALE-ZFS"
+              - variable: mountPath
+                label: "mountPath"
+                description: "Path inside the container the storage is mounted"
+                schema:
+                  type: string
+                  default: "/config"
+                  hidden: true
+              - variable: emptyDir
+                label: "EmptyDir Volume"
+                schema:
+                  type: dict
+                  hidden: false
+                  attrs:
+                    - variable: enabled
+                      label: "Use emptyDir volume"
+                      schema:
+                        type: boolean
+                        default: false
+                        hidden: false
+                        show_subquestions_if: true
+                        subquestions:
+                          - variable: medium
+                            label: "EmptyDir Medium"
+                            schema:
+                              type: string
+                              default: ""
+                              enum:
+                                - value: ""
+                                  description: "Default"
+                                - value: "Memory"
+                                  description: "Memory"
+              - variable: accessMode
+                label: "Access Mode (Advanced)"
+                description: "Allow or disallow multiple PVC's writhing to the same PVC"
+                schema:
+                  type: string
+                  default: "ReadWriteOnce"
+                  enum:
+                    - value: "ReadWriteOnce"
+                      description: "ReadWriteOnce"
+                    - value: "ReadOnlyMany"
+                      description: "ReadOnlyMany"
+                    - value: "ReadWriteMany"
+                      description: "ReadWriteMany"
+              - variable: size
+                label: "Size quotum of storage"
+                schema:
+                  type: string
+                  default: "100Gi"
+          schema:
+            type: dict
+            toters:
+              - 变量: 启用
+                标签: "启用存储"
+                schema:
+                  type: boolian
+                  default: true
+                  hidden: false
+              - 变量: storageClass
+                标签: "存储类型"
+                描述: "警告: SCALE ZFS 以外的任何东西都会中断回滚!"
                 schema:
                   type: string
                   default: "SCALE-ZFS"
