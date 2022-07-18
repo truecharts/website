@@ -1,20 +1,20 @@
 ---
-slug: "Helm as a foundation"
-title: "Helm as a foundation"
+slug: "作为基础的头盔"
+title: "作为基础的头盔"
 authors:
   - ornias
 ---
 
-After some carefull consideration about how we want to move the project forward, we've decided to put our Helm Charts first and other solutions second. Our reasoning to do this, is that we want to allow users to be more flexible in which kubernetes platform they use and experience all the awesome projects that are out there.
+在仔细考虑了我们如何推动该项目之后，我们决定把我们的头盔图放在第一位，其他解决方案放在第二位。 我们这样做的理由， 这就是说，我们想让用户更灵活地使用Kubernetes平台，并体验那里的所有优秀项目。
 
-**SCALE and TrueCharts**
+**SCALE 和 TrueCharts**
 
-What does this mean for our SCALE users? Not so much really: We will still fully support and build SCALE Apps. However, it does mean that we will more openly start calling our work "Charts" instead of "Apps" and some new Charts will not support SCALE out-of-the box.
+这对我们的SCALE 用户意味着什么？ 实事求是：我们仍将全力支持和构建SCALE应用程序。 然而，仍然存在着这种情况。 这确实意味着我们将更公开地开始调用我们的作品“图表”而不是“应用”，而且一些新的图表将不支持在方框外的SCALE。
 
-**Helm and TrueCharts**
+**Helm 和 TrueCharts**
 
-We're also going to up our game considerably to support users wanting to customise the YAML directly with Helm. More Apps with more flexible configuration. At the same time we're going to work on making the SCALE GUI generation more automated. While this might lead to a more "cluttered" GUI, it will bring things more in "sync" with the native Helm deployments we offer.
+我们还要大量上线来支持想直接使用 Helm 自定义YAML 的用户。 更多配置更灵活的应用。 与此同时，我们将努力使飞毛腿图形界面更加自动化。 虽然这可能会导致一个更多的“迷你”图形界面，但它会使更多的东西与我们提供的原生的Helm 部署“同步”。
 
-For new developers all of this will offer a much easier experience: Just build the helm chart and submit the PR for it. No more bothering with being required to move through hunderds of rows of SCALE GUI description.
+对于新的开发者来说，所有这一切都将提供一个更容易的体验：只需构建头盔图并为它提交PR 不再需要通过SCALE GUI 描述的曲线移动了。
 
-With all of these changes combined, we hope to being our awesome repository of Charts to more people, much faster!
+所有这些变化结合在一起，我们希望能够更快地为更多的人收藏我们最棒的图表！
