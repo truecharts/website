@@ -1,40 +1,40 @@
 ---
-slug: "Docker-Compose on TrueNAS SCALE using TrueCharts"
-title: "Docker-Compose on TrueNAS SCALE using TrueCharts"
+slug: "使用 TrueCharts 在 TrueNAS 上的 Docker-Compose"
+title: "使用 TrueCharts 在 TrueNAS 上的 Docker-Compose"
 authors:
   - ornias
 ---
 
-From the early stages of TrueNAS SCALE development, we’ve read many complaints about the fact docker-compose wasn’t supported by TrueNAS SCALE. It’s understandable, as it’s one of the most used docker deployment options for home users.
+从TrueNAS SCALE 开发的早期阶段，我们已经阅读了许多关于Docker-compose没有得到TrueNAS SCALE 支持的抱怨。 这是可以理解的，因为这是家居用户最常用的停泊器部署选项之一。
 
-The TrueNAS SCALE community has figured out interesting ways to enable Docker-Compose. But this approaches all have a number of downsides:
+TrueNAS SCALE 社区已经找到了一些有趣的方法来启用 Docker-Compose。 但所有这些办法都有一些缺点：
 
-- It's not future proof, it can be nuked permanently and without warning, with any TrueNAS SCALE update.
+- 它不是未来的证据，它可以在没有警告的情况下永久地被精减，并且有任何TrueNAS SCALE 更新。
 
-- It inherently breaks SCALE Applications and often even requires those to be disabled.
+- 它本来就会破坏SCALE应用，甚至常常要求这些应用被禁用。
 
-- There is no support for this work-around.
+- 对此工作不支持。
 
-To solve this problem, we’ve decided to take matters into our own hands. We are glad to finally announce our solution:
+为了解决这个问题，我们决定把问题交给我们自己处理。 我们高兴地最后宣布我们的解决办法：
 
-**Docker-Compose Application for TrueNAS SCALE by TrueCharts**
+**TrueCharts 的 Docker-Compose TrueNAS SCALE 应用程序**
 
-It’s designed from the ground up, to give users nearly the same experience as running Docker-Compose on the host system, and even contains some nice tweaks:
+它的设计是从头开始，让用户在主机系统上运行Docker-Compose几乎具有相同的体验。 甚至包含一些好的调整：
 
-- It’s fully backed by TrueNAS SCALE Applications, so it will survive updates.
+- 它得到TrueNAS SCALE 应用程序的完全支持，因此它将在更新后存活。
 
-- There is a GUI option to input your Docker-Compose file, that will survive reboots.
+- 有一个GUI选项来输入您的 Docker-Compose 文件，这将在重启后存活。
 
-- Completely self-contained, and will not modify the default docker stack.
+- 完全自成一体，不会修改默认停靠堆栈。
 
-- Fully compatible to run alongside other TrueNAS SCALE Applications, so you can easily migrate your Docker-Compose applications to TrueNAS SCALE Applications.
+- 完全兼容与其他TrueNAS SCALE 应用程序一起运行，因此您可以轻松地将您的 Docker-Compose 应用程序迁移到TrueNAS SCALE 应用程序中。
 
-- We are your support if the application does not work as advertised.
+- 如果应用程序不能作为广告使用，我们是您的支持。
 
-All with just one caveat:
+所有这些都只有一个警告：
 
-- The Docker-Compose command has to be executed from inside the container shell.
+- Docker-Compose 命令必须从容器内执行。
 
-We based our solution on the official Docker-in-Docker container by Docker, with some added tooling to optimize it for single-container deployments. Perhaps most interestingly, the container has native access to `/mnt`, `/root` and `/cluster`, so you can work with your containers like you’re working on the host.
+我们的解决办法基于停靠码头的官方停靠码头集装箱，并且增加了一些工具来优化单一集装箱部署。 也许最令人感兴趣的是，容器本机可以访问 `/mnt`， `/root` 和 `/cluster`, 所以您可以使用您的容器，比如您正在主机上工作。
 
-With this in place we hope that TrueNAS SCALE can finally start to fill the big shoes of solutions like Unraid and TrueNAS Core and give the community what they want, not just what they need!
+这样，我们希望TrueNAS SCALE 最终能够开始填充诸如Unraid and TrueNAS Core 之类的大片解决方案，并向社区提供他们想要的东西， 不仅仅是他们需要的东西！
