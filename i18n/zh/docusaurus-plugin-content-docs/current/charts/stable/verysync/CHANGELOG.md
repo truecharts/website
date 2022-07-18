@@ -1,7 +1,7 @@
 # 更新日志
 
 
-## [verysync-2.0.20](https://github.com/truecharts/apps/compare/verysync-2.0.19...verysync-2.0.20) (2022-07-14)
+## [所有同步-2.0.20](https://github.com/truecharts/apps/compare/verysync-2.0.19...verysync-2.0.20) (2022-07-14)
 
 ### 修复
 
@@ -9,7 +9,7 @@
 
 
 
-## [verysync-2.0.19](https://github.com/truecharts/apps/compare/verysync-2.0.17...verysync-2.0.19) (2022-07-14)
+## [所有同步-2.0.19](https://github.com/truecharts/apps/compare/verysync-2.0.17...verysync-2.0.19) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [verysync-2.0.17](https://github.com/truecharts/apps/compare/verysync-2.0.14...verysync-2.0.17) (2022-07-12)
+## [所有同步-2.0.17](https://github.com/truecharts/apps/compare/verysync-2.0.14...verysync-2.0.17) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [verysync-2.0.14](https://github.com/truecharts/apps/compare/verysync-2.0.13...verysync-2.0.14) (2022-07-12)
+## [所有同步-2.0.14](https://github.com/truecharts/apps/compare/verysync-2.0.13...verysync-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="verysync-2.0.13"></a>
 
-### [verysync-2.0.13](https://github.com/truecharts/apps/compare/verysync-2.0.12...verysync-2.0.13) (2022-07-12)
+### [所有同步-2.0.13](https://github.com/truecharts/apps/compare/verysync-2.0.12...verysync-2.0.13) (2022-07-12)
 
 #### 聊天
 
@@ -46,7 +46,7 @@
 
 <a name="verysync-2.0.12"></a>
 
-### [verysync-2.0.12](https://github.com/truecharts/apps/compare/verysync-2.0.11...verysync-2.0.12) (2022-07-11)
+### [所有同步-2.0.12](https://github.com/truecharts/apps/compare/verysync-2.0.11...verysync-2.0.12) (2022-07-11)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="verysync-2.0.11"></a>
 
-### [verysync-2.0.11](https://github.com/truecharts/apps/compare/verysync-2.0.10...verysync-2.0.11) (2022-07-10)
+### [所有同步-2.0.11](https://github.com/truecharts/apps/compare/verysync-2.0.10...verysync-2.0.11) (2022-07-10)
 
 #### 修复
 
@@ -66,7 +66,7 @@
 
 <a name="verysync-2.0.10"></a>
 
-### [verysync-2.0.10](https://github.com/truecharts/apps/compare/verysync-2.0.9...verysync-2.0.10) (2022-07-09)
+### [所有同步-2.0.10](https://github.com/truecharts/apps/compare/verysync-2.0.9...verysync-2.0.10) (2022-07-09)
 
 #### 聊天
 
@@ -76,7 +76,7 @@
 
 <a name="verysync-2.0.9"></a>
 
-### [verysync-2.0.9](https://github.com/truecharts/apps/compare/verysync-2.0.8...verysync-2.0.9) (2022-07-09)
+### [所有同步-2.0.9](https://github.com/truecharts/apps/compare/verysync-2.0.8...verysync-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -86,7 +86,7 @@
 
 <a name="verysync-2.0.8"></a>
 
-### [verysync-2.0.8](https://github.com/truecharts/apps/compare/verysync-2.0.7...verysync-2.0.8) (2022-07-04)
+### [所有同步-2.0.8](https://github.com/truecharts/apps/compare/verysync-2.0.7...verysync-2.0.8) (2022-07-04)
 
 #### 聊天
 
@@ -96,7 +96,7 @@
 
 <a name="verysync-2.0.7"></a>
 
-### [verysync-2.0.7](https://github.com/truecharts/apps/compare/verysync-2.0.6...verysync-2.0.7) (2022-06-25)
+### [所有同步-2.0.7](https://github.com/truecharts/apps/compare/verysync-2.0.6...verysync-2.0.7) (2022-06-25)
 
 #### 聊天
 
@@ -106,7 +106,7 @@
 
 <a name="verysync-2.0.6"></a>
 
-### [verysync-2.0.6](https://github.com/truecharts/apps/compare/verysync-2.0.5...verysync-2.0.6) (2022-06-22)
+### [所有同步-2.0.6](https://github.com/truecharts/apps/compare/verysync-2.0.5...verysync-2.0.6) (2022-06-22)
 
 #### 聊天
 
@@ -116,7 +116,7 @@
 
 <a name="verysync-2.0.5"></a>
 
-### [verysync-2.0.5](https://github.com/truecharts/apps/compare/verysync-2.0.4...verysync-2.0.5) (2022-06-21)
+### [所有同步-2.0.5](https://github.com/truecharts/apps/compare/verysync-2.0.4...verysync-2.0.5) (2022-06-21)
 
 #### 聊天
 
@@ -126,7 +126,7 @@
 
 <a name="verysync-2.0.4"></a>
 
-### [verysync-2.0.4](https://github.com/truecharts/apps/compare/verysync-2.0.3...verysync-2.0.4) (2022-06-14)
+### [所有同步-2.0.4](https://github.com/truecharts/apps/compare/verysync-2.0.3...verysync-2.0.4) (2022-06-14)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="verysync-2.0.3"></a>
 
-### [verysync-2.0.3](https://github.com/truecharts/apps/compare/verysync-2.0.2...verysync-2.0.3) (2022-06-11)
+### [所有同步-2.0.3](https://github.com/truecharts/apps/compare/verysync-2.0.2...verysync-2.0.3) (2022-06-11)
 
 #### 聊天
 
@@ -146,7 +146,7 @@
 
 <a name="verysync-2.0.2"></a>
 
-### [verysync-2.0.2](https://github.com/truecharts/apps/compare/verysync-2.0.1...verysync-2.0.2) (2022-06-07)
+### [所有同步-2.0.2](https://github.com/truecharts/apps/compare/verysync-2.0.1...verysync-2.0.2) (2022-06-07)
 
 #### 修复
 
@@ -156,7 +156,7 @@
 
 <a name="verysync-2.0.1"></a>
 
-### [verysync-2.0.1](https://github.com/truecharts/apps/compare/verysync-1.0.13...verysync-2.0.1) (2022-06-07)
+### [所有同步-2.0.1](https://github.com/truecharts/apps/compare/verysync-1.0.13...verysync-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -175,7 +175,7 @@
 
 <a name="verysync-2.0.0"></a>
 
-### [verysync-2.0.0](https://github.com/truecharts/apps/compare/verysync-1.0.13...verysync-2.0.0) (2022-06-07)
+### [所有同步-2.0.0](https://github.com/truecharts/apps/compare/verysync-1.0.13...verysync-2.0.0) (2022-06-07)
 
 #### 聊天
 
@@ -189,7 +189,7 @@
 
 <a name="verysync-1.0.13"></a>
 
-### [verysync-1.0.13](https://github.com/truecharts/apps/compare/verysync-1.0.12...verysync-1.0.13) (2022-05-31)
+### [所有同步-1.0.13](https://github.com/truecharts/apps/compare/verysync-1.0.12...verysync-1.0.13) (2022-05-31)
 
 #### 聊天
 
@@ -199,7 +199,7 @@
 
 <a name="verysync-1.0.12"></a>
 
-### [verysync-1.0.12](https://github.com/truecharts/apps/compare/verysync-1.0.11...verysync-1.0.12) (2022-05-26)
+### [所有同步-1.0.12](https://github.com/truecharts/apps/compare/verysync-1.0.11...verysync-1.0.12) (2022-05-26)
 
 #### 聊天
 
@@ -210,7 +210,7 @@
 
 <a name="verysync-1.0.12"></a>
 
-### [verysync-1.0.12](https://github.com/truecharts/apps/compare/verysync-1.0.11...verysync-1.0.12) (2022-05-26)
+### [所有同步-1.0.12](https://github.com/truecharts/apps/compare/verysync-1.0.11...verysync-1.0.12) (2022-05-26)
 
 #### 聊天
 
@@ -220,7 +220,7 @@
 
 <a name="verysync-1.0.11"></a>
 
-### [verysync-1.0.11](https://github.com/truecharts/apps/compare/verysync-1.0.10...verysync-1.0.11) (2022-05-24)
+### [所有同步-1.0.11](https://github.com/truecharts/apps/compare/verysync-1.0.10...verysync-1.0.11) (2022-05-24)
 
 #### 聊天
 
@@ -230,7 +230,7 @@
 
 <a name="verysync-1.0.10"></a>
 
-### [verysync-1.0.10](https://github.com/truecharts/apps/compare/verysync-1.0.9...verysync-1.0.10) (2022-05-17)
+### [所有同步-1.0.10](https://github.com/truecharts/apps/compare/verysync-1.0.9...verysync-1.0.10) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="verysync-1.0.10"></a>
 
-### [verysync-1.0.10](https://github.com/truecharts/apps/compare/verysync-1.0.9...verysync-1.0.10) (2022-05-17)
+### [所有同步-1.0.10](https://github.com/truecharts/apps/compare/verysync-1.0.9...verysync-1.0.10) (2022-05-17)
 
 #### 聊天
 
@@ -251,7 +251,7 @@
 
 <a name="verysync-1.0.9"></a>
 
-### [verysync-1.0.9](https://github.com/truecharts/apps/compare/verysync-1.0.8...verysync-1.0.9) (2022-05-17)
+### [所有同步-1.0.9](https://github.com/truecharts/apps/compare/verysync-1.0.8...verysync-1.0.9) (2022-05-17)
 
 #### 聊天
 
@@ -261,7 +261,7 @@
 
 <a name="verysync-1.0.8"></a>
 
-### [verysync-1.0.8](https://github.com/truecharts/apps/compare/verysync-1.0.7...verysync-1.0.8) (2022-05-10)
+### [所有同步-1.0.8](https://github.com/truecharts/apps/compare/verysync-1.0.7...verysync-1.0.8) (2022-05-10)
 
 #### 聊天
 
@@ -271,7 +271,7 @@
 
 <a name="verysync-1.0.7"></a>
 
-### [verysync-1.0.7](https://github.com/truecharts/apps/compare/verysync-1.0.6...verysync-1.0.7) (2022-05-05)
+### [所有同步-1.0.7](https://github.com/truecharts/apps/compare/verysync-1.0.6...verysync-1.0.7) (2022-05-05)
 
 #### 聊天
 
@@ -281,7 +281,7 @@
 
 <a name="verysync-1.0.6"></a>
 
-### [verysync-1.0.6](https://github.com/truecharts/apps/compare/verysync-1.0.5...verysync-1.0.6) (2022-04-26)
+### [所有同步-1.0.6](https://github.com/truecharts/apps/compare/verysync-1.0.5...verysync-1.0.6) (2022-04-26)
 
 #### 聊天
 
@@ -291,7 +291,7 @@
 
 <a name="verysync-1.0.5"></a>
 
-### [verysync-1.0.5](https://github.com/truecharts/apps/compare/verysync-1.0.4...verysync-1.0.5) (2022-04-20)
+### [所有同步-1.0.5](https://github.com/truecharts/apps/compare/verysync-1.0.4...verysync-1.0.5) (2022-04-20)
 
 #### 聊天
 
@@ -302,7 +302,7 @@
 
 <a name="verysync-1.0.4"></a>
 
-### [verysync-1.0.4](https://github.com/truecharts/apps/compare/verysync-1.0.3...verysync-1.0.4) (2022-04-12)
+### [所有同步-1.0.4](https://github.com/truecharts/apps/compare/verysync-1.0.3...verysync-1.0.4) (2022-04-12)
 
 #### 聊天
 
@@ -312,7 +312,7 @@
 
 <a name="verysync-1.0.3"></a>
 
-### [verysync-1.0.3](https://github.com/truecharts/apps/compare/verysync-1.0.2...verysync-1.0.3) (2022-04-03)
+### [所有同步-1.0.3](https://github.com/truecharts/apps/compare/verysync-1.0.2...verysync-1.0.3) (2022-04-03)
 
 #### 聊天
 
@@ -322,7 +322,7 @@
 
 <a name="verysync-1.0.2"></a>
 
-### [verysync-1.0.2](https://github.com/truecharts/apps/compare/verysync-1.0.1...verysync-1.0.2) (2022-03-31)
+### [所有同步-1.0.2](https://github.com/truecharts/apps/compare/verysync-1.0.1...verysync-1.0.2) (2022-03-31)
 
 #### 聊天
 
@@ -332,7 +332,7 @@
 
 <a name="verysync-1.0.1"></a>
 
-### [verysync-1.0.1](https://github.com/truecharts/apps/compare/verysync-1.0.0...verysync-1.0.1) (2022-03-30)
+### [所有同步-1.0.1](https://github.com/truecharts/apps/compare/verysync-1.0.0...verysync-1.0.1) (2022-03-30)
 
 #### 聊天
 
@@ -342,17 +342,17 @@
 
 <a name="verysync-1.0.0"></a>
 
-### [verysync-1.0.0](https://github.com/truecharts/apps/compare/verysync-0.0.5...verysync-1.0.0) (2022-03-27)
+### [所有同步-1.0.0](https://github.com/truecharts/apps/compare/verysync-0.0.5...verysync-1.0.0) (2022-03-27)
 
 #### Feat
 
-* move to stable ([#2316](https://github.com/truecharts/apps/issues/2316))
+* 移动到稳定([#2316](https://github.com/truecharts/apps/issues/2316))
 
 
 
 <a name="verysync-0.0.5"></a>
 
-### [verysync-0.0.5](https://github.com/truecharts/apps/compare/verysync-0.0.4...verysync-0.0.5) (2022-03-26)
+### [所有同步-0.0.5](https://github.com/truecharts/apps/compare/verysync-0.0.4...verysync-0.0.5) (2022-03-26)
 
 #### 聊天
 
@@ -362,8 +362,8 @@
 
 <a name="verysync-0.0.1"></a>
 
-### verysync-0.0.1 (2022-03-20)
+### 全部同步-0.0.1 (2022-03-20)
 
 #### Feat
 
-* Add verysync ([#2228](https://github.com/truecharts/apps/issues/2228))
+* 添加所有同步([#2228](https://github.com/truecharts/apps/issues/2228))
