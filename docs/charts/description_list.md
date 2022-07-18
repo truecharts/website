@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Chart List
 
 > List of all our apps with a short description
