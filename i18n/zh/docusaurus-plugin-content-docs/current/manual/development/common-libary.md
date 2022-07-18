@@ -1,9 +1,9 @@
-# Common Library Chart
+# 通用库图
 
-In Helm 3, their team introduced the concept of a [Library chart](https://helm.sh/docs/topics/library_charts/).
+在 Helm 3 中，他们的团队介绍了 [库图](https://helm.sh/docs/topics/library_charts/) 的概念。
 
-> A library chart is a type of Helm chart that defines chart primitives or definitions which can be shared by Helm templates in other charts. This allows users to share snippets of code that can be re-used across charts, avoiding repetition and keeping charts DRY.
+> 库图是一种赫尔姆图表，它定义了原始图或定义可以由其他图表的 Helm 模板共享。 这使得用户可以分享代码片段，可以在图表之间重新使用，避免重复和保持图表。
 
-The first version of our Common library was ported from k8s-at-home, which they introduced because they saw many charts requiring only a few select configuration options in their Helm charts.
+我们的共同图书馆的第一版是从家里的 k8s 移植的。 由于它们看到许多海图只需要在其Helm图中选择少数配置选项，因此它们引入了这些海图。
 
-Let's take for example, Sonarr, Sabnzbd, Overseerr. Each of these charts only require setting `service`, `port`, `persistence`, `ingress` and `image` since state and app configuration is handled by the application itself. In order to stay somewhat DRY (Don't Repeat Yourself) and keeping with Helm 3 usage for a Library chart, we saw this pattern and decided it was worth it for us to create a library. This means each one of these app charts has a dependency on what we call the `common` library.
+我们来看看Sonarr, Sabnzbd, Overseerr。 每个图表只需要设置 `服务`, `端口`, `持续性`, `导入` 和 `映像` 因为状态和应用程序配置是由应用程序本身处理的。 为了保持一定的DRY (不重复你自己)，并保持图书馆图的 Helm 3 用法， 我们看到这种格局，并决定我们应该创建一个图书馆。 这意味着这些应用图表中的每一个都依赖于我们所称的 `常见` 库。
