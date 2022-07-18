@@ -34,7 +34,7 @@ Pour ces stockages, nous pouvons facilement ajouter des valeurs de correctifs da
                   hidden: false
               - variable: storageClass
                 label: "Type de stockage"
-                description : " Avertissement : Tout ce qui n'est pas SCALE-ZFS cassera l'annulation! !
+                description : " Avertissement : Tout ce qui n'est pas SCALE-ZFS cassera l'annulation!
                 schema:
                   type: string
                   default: "SCALE-ZFS"
