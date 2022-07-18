@@ -17,7 +17,7 @@
 
 
 
-## [unpackerr-6.0.14](https://github.com/truecharts/apps/compare/unpackerr-6.0.12...unpackerr-6.0.14) (2022-07-12)
+## [解包错误-6.0.14](https://github.com/truecharts/apps/compare/unpackerr-6.0.12...unpackerr-6.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -575,7 +575,7 @@
 
 <a name="unpackerr-4.0.24"></a>
 
-### [unpackerr-4.0.24](https://github.com/truecharts/apps/compare/unpackerr-4.0.23...unpackerr-4.0.24) (2021-12-18)
+### [unpackerr-4.0.24](https://github.com/truecharts/apps/compare/unpackerr-4.0.23...unpackerr-4.0.24) (2021-12-18岁)
 
 #### 聊天
 
@@ -856,7 +856,7 @@
 #### 聊天
 
 * bump 应用，移除重复应用并移动孵化器到 RC1 的稳定性
-* update non-major deps helm releases ([#1213](https://github.com/truecharts/apps/issues/1213))
+* 更新非主要的背包头盔版本([#1213](https://github.com/truecharts/apps/issues/1213))
 
 #### 修复
 
