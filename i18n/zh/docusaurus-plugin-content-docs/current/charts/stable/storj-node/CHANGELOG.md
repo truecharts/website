@@ -527,7 +527,7 @@
 
 #### 修复
 
-* run as root so migrations can complete ([#2187](https://github.com/truecharts/apps/issues/2187))
+* 以 root 身份运行，因此迁移可以完成 ([#2187](https://github.com/truecharts/apps/issues/2187))
 
 
 
@@ -547,7 +547,7 @@
 
 #### Feat
 
-* Move to stable ([#2144](https://github.com/truecharts/apps/issues/2144))
+* 移动到稳定的 ([#2144](https://github.com/truecharts/apps/issues/2144))
 
 
 
@@ -557,4 +557,4 @@
 
 #### Feat
 
-* Add storj-node ([#2119](https://github.com/truecharts/apps/issues/2119))
+* 添加storj节点 ([#2119](https://github.com/truecharts/apps/issues/2119))
