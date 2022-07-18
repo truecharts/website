@@ -145,8 +145,6 @@ jobs:
               }
            export -f copy_docs
 
-          find website/docs -name "*.md" -exec sed -i 's/!\[type:video\](\(.*\))/<iframe width="560" height="315" src="\1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><\/iframe>/' {} \;
-
           parthreads=$(($(nproc) * 2))
           parallel -j ${parthreads} copy_docs '2>&1' ::: charts/charts/**/*
 
