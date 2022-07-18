@@ -9,7 +9,7 @@
 
 
 
-## [zerotier-2.0.16](https://github.com/truecharts/apps/compare/zerotier-2.0.14...zerotier-2.0.16) (2022-07-14)
+## [0tier-2.0.16](https://github.com/truecharts/apps/compare/zerotier-2.0.14...zerotier-2.0.16) (2022-07-14)
 
 ### 修复
 
@@ -17,7 +17,7 @@
 
 
 
-## [zerotier-2.0.14](https://github.com/truecharts/apps/compare/zerotier-2.0.12...zerotier-2.0.14) (2022-07-12)
+## [0tier-2.0.14](https://github.com/truecharts/apps/compare/zerotier-2.0.12...zerotier-2.0.14) (2022-07-12)
 
 ### 聊天
 
@@ -26,7 +26,7 @@
 
 
 
-## [zerotier-2.0.12](https://github.com/truecharts/apps/compare/zerotier-2.0.11...zerotier-2.0.12) (2022-07-12)
+## [0tier-2.0.12](https://github.com/truecharts/apps/compare/zerotier-2.0.11...zerotier-2.0.12) (2022-07-12)
 
 ### 聊天
 
@@ -36,7 +36,7 @@
 
 <a name="zerotier-2.0.11"></a>
 
-### [zerotier-2.0.11](https://github.com/truecharts/apps/compare/zerotier-2.0.10...zerotier-2.0.11) (2022-07-12)
+### [0tier-2.0.11](https://github.com/truecharts/apps/compare/zerotier-2.0.10...zerotier-2.0.11) (2022-07-12)
 
 #### 聊天
 
@@ -56,7 +56,7 @@
 
 <a name="zerotier-2.0.9"></a>
 
-### [zerotier-2.0.9](https://github.com/truecharts/apps/compare/zerotier-2.0.8...zerotier-2.0.9) (2022-07-09)
+### [0tier-2.0.9](https://github.com/truecharts/apps/compare/zerotier-2.0.8...zerotier-2.0.9) (2022-07-09)
 
 #### 聊天
 
@@ -136,7 +136,7 @@
 
 <a name="zerotier-2.0.1"></a>
 
-### [zerotier-2.0.1](https://github.com/truecharts/apps/compare/zerotier-1.0.22...zerotier-2.0.1) (2022-06-07)
+### [0tier-2.0.1](https://github.com/truecharts/apps/compare/zerotier-1.0.22...zerotier-2.0.1) (2022-06-07)
 
 #### 聊天
 
@@ -169,7 +169,7 @@
 
 <a name="zerotier-1.0.22"></a>
 
-### [zerotier-1.0.22](https://github.com/truecharts/apps/compare/zerotier-1.0.21...zerotier-1.0.22) (2022-06-02)
+### [零-1.0.22](https://github.com/truecharts/apps/compare/zerotier-1.0.21...zerotier-1.0.22) (2022-06-02)
 
 #### 聊天
 
@@ -190,7 +190,7 @@
 
 <a name="zerotier-1.0.20"></a>
 
-### [zerotier-1.0.20](https://github.com/truecharts/apps/compare/zerotier-1.0.19...zerotier-1.0.20) (2022-05-26)
+### [零-1.0.20](https://github.com/truecharts/apps/compare/zerotier-1.0.19...zerotier-1.0.20) (2022-05-26)
 
 #### 聊天
 
@@ -201,7 +201,7 @@
 
 <a name="zerotier-1.0.20"></a>
 
-### [zerotier-1.0.20](https://github.com/truecharts/apps/compare/zerotier-1.0.19...zerotier-1.0.20) (2022-05-26)
+### [零-1.0.20](https://github.com/truecharts/apps/compare/zerotier-1.0.19...zerotier-1.0.20) (2022-05-26)
 
 #### 聊天
 
@@ -211,7 +211,7 @@
 
 <a name="zerotier-1.0.19"></a>
 
-### [zerotier-1.0.19](https://github.com/truecharts/apps/compare/zerotier-1.0.18...zerotier-1.0.19) (2022-05-24)
+### [零-1.0.19](https://github.com/truecharts/apps/compare/zerotier-1.0.18...zerotier-1.0.19) (2022-05-24)
 
 #### 聊天
 
@@ -221,7 +221,7 @@
 
 <a name="zerotier-1.0.18"></a>
 
-### [zerotier-1.0.18](https://github.com/truecharts/apps/compare/zerotier-1.0.17...zerotier-1.0.18) (2022-05-17)
+### [零-1.0.18](https://github.com/truecharts/apps/compare/zerotier-1.0.17...zerotier-1.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -232,7 +232,7 @@
 
 <a name="zerotier-1.0.18"></a>
 
-### [zerotier-1.0.18](https://github.com/truecharts/apps/compare/zerotier-1.0.17...zerotier-1.0.18) (2022-05-17)
+### [零-1.0.18](https://github.com/truecharts/apps/compare/zerotier-1.0.17...zerotier-1.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -242,7 +242,7 @@
 
 <a name="zerotier-1.0.17"></a>
 
-### [zerotier-1.0.17](https://github.com/truecharts/apps/compare/zerotier-1.0.16...zerotier-1.0.17) (2022-05-17)
+### [零-1.0.17](https://github.com/truecharts/apps/compare/zerotier-1.0.16...zerotier-1.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -252,7 +252,7 @@
 
 <a name="zerotier-1.0.16"></a>
 
-### [zerotier-1.0.16](https://github.com/truecharts/apps/compare/zerotier-1.0.15...zerotier-1.0.16) (2022-05-10)
+### [零-1.0.16](https://github.com/truecharts/apps/compare/zerotier-1.0.15...zerotier-1.0.16) (2022-05-10)
 
 #### 聊天
 
@@ -272,7 +272,7 @@
 
 <a name="zerotier-1.0.14"></a>
 
-### [zerotier-1.0.14](https://github.com/truecharts/apps/compare/zerotier-1.0.13...zerotier-1.0.14) (2022-05-04)
+### [零-1.0.14](https://github.com/truecharts/apps/compare/zerotier-1.0.13...zerotier-1.0.14) (2022-05-04)
 
 #### 聊天
 
@@ -282,7 +282,7 @@
 
 <a name="zerotier-1.0.13"></a>
 
-### [zerotier-1.0.13](https://github.com/truecharts/apps/compare/zerotier-1.0.12...zerotier-1.0.13) (2022-04-26)
+### [0tier-1.0.13](https://github.com/truecharts/apps/compare/zerotier-1.0.12...zerotier-1.0.13) (2022-04-26)
 
 #### 聊天
 
@@ -292,7 +292,7 @@
 
 <a name="zerotier-1.0.12"></a>
 
-### [zerotier-1.0.12](https://github.com/truecharts/apps/compare/zerotier-1.0.11...zerotier-1.0.12) (2022-04-20)
+### [0tier-1.0.12](https://github.com/truecharts/apps/compare/zerotier-1.0.11...zerotier-1.0.12) (2022-04-20)
 
 #### 聊天
 
@@ -303,7 +303,7 @@
 
 <a name="zerotier-1.0.11"></a>
 
-### [zerotier-1.0.11](https://github.com/truecharts/apps/compare/zerotier-1.0.10...zerotier-1.0.11) (2022-04-13)
+### [零-1.0.11](https://github.com/truecharts/apps/compare/zerotier-1.0.10...zerotier-1.0.11) (2022-04-13)
 
 #### 聊天
 
@@ -313,7 +313,7 @@
 
 <a name="zerotier-1.0.10"></a>
 
-### [zerotier-1.0.10](https://github.com/truecharts/apps/compare/zerotier-1.0.9...zerotier-1.0.10) (2022-04-12)
+### [0tier-1.0.10](https://github.com/truecharts/apps/compare/zerotier-1.0.9...zerotier-1.0.10) (2022-04-12)
 
 #### 聊天
 
@@ -323,7 +323,7 @@
 
 <a name="zerotier-1.0.9"></a>
 
-### [zerotier-1.0.9](https://github.com/truecharts/apps/compare/zerotier-1.0.8...zerotier-1.0.9) (2022-04-03)
+### [零-1.0.9](https://github.com/truecharts/apps/compare/zerotier-1.0.8...zerotier-1.0.9) (2022-04-03)
 
 #### 聊天
 
@@ -333,7 +333,7 @@
 
 <a name="zerotier-1.0.8"></a>
 
-### [zerotier-1.0.8](https://github.com/truecharts/apps/compare/zerotier-1.0.7...zerotier-1.0.8) (2022-03-31)
+### [零-1.0.8](https://github.com/truecharts/apps/compare/zerotier-1.0.7...zerotier-1.0.8) (2022-03-31)
 
 #### 聊天
 
@@ -373,31 +373,31 @@
 
 <a name="zerotier-1.0.2"></a>
 
-### [zerotier-1.0.2](https://github.com/truecharts/apps/compare/zerotier-1.0.1...zerotier-1.0.2) (2022-03-21)
+### [0tier-1.0.2](https://github.com/truecharts/apps/compare/zerotier-1.0.1...zerotier-1.0.2) (2022-03-21)
 
 #### 聊天
 
-* Add some gui options ([#2237](https://github.com/truecharts/apps/issues/2237))
+* 添加一些界面选项 ([#2237](https://github.com/truecharts/apps/issues/2237))
 
 
 
 <a name="zerotier-1.0.1"></a>
 
-### [zerotier-1.0.1](https://github.com/truecharts/apps/compare/zerotier-1.0.0...zerotier-1.0.1) (2022-03-21)
+### [零-1.0.1](https://github.com/truecharts/apps/compare/zerotier-1.0.0...zerotier-1.0.1) (2022-03-21)
 
 #### 聊天
 
-* update image ([#2234](https://github.com/truecharts/apps/issues/2234))
+* 更新图像 ([#2234](https://github.com/truecharts/apps/issues/2234))
 
 
 
 <a name="zerotier-1.0.0"></a>
 
-### [zerotier-1.0.0](https://github.com/truecharts/apps/compare/zerotier-0.0.1...zerotier-1.0.0) (2022-03-20)
+### [零-1.0.0](https://github.com/truecharts/apps/compare/zerotier-0.0.1...zerotier-1.0.0) (2022-03-20)
 
 #### Feat
 
-* move koel and zerotier to stable ([#2232](https://github.com/truecharts/apps/issues/2232))
+* 移动koel 和 zerotier 到稳定([#2232](https://github.com/truecharts/apps/issues/2232))
 
 
 
@@ -407,4 +407,4 @@
 
 #### Feat
 
-* Add zerotier ([#2204](https://github.com/truecharts/apps/issues/2204))
+* 添加零星([#2204](https://github.com/truecharts/apps/issues/2204))
