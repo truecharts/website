@@ -54,6 +54,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+          hideable: true,
+        },
+      },
       zoom: {
         selector: ".markdown :not(em) > img",
         config: {
@@ -146,17 +152,17 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    algolia: {
-      // The application ID provided by Algolia
-      appId: 'M5JIEOBD9S',
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "M5JIEOBD9S",
 
-      // Public API key: it is safe to commit it
-      apiKey: '996ff61cece86950829f65416b941711',
+        // Public API key: it is safe to commit it
+        apiKey: "996ff61cece86950829f65416b941711",
 
-      indexName: 'truecharts',
+        indexName: "truecharts",
 
-      //... other Algolia params
-    },
+        //... other Algolia params
+      },
     }),
 };
 

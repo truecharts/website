@@ -6,7 +6,7 @@ on: # yamllint disable-line rule:truthy
   workflow_dispatch:
   #schedule:
   #  - cron: "0 3 * * *"
-  
+
 
 jobs:
   deploy:
@@ -39,7 +39,7 @@ jobs:
           path: charts
           fetch-depth: 1
           token: ${{ secrets.BOT_TOKEN }}
-          
+
       - name: Security Scan
         shell: bash
         run: |
@@ -47,7 +47,7 @@ jobs:
               helm dependency update "${1}" --skip-refresh || (sleep 10 && helm dependency update "${1}" --skip-refresh) || (sleep 10 && helm dependency update "${1}" --skip-refresh)
               }
           export -f helm_dep
-          
+
           scan_prep() {
               local chart="$1"
               local chartname="$(basename ${chart})"
@@ -60,7 +60,7 @@ jobs:
               helm template ${chart} --output-dir ${chart}/render > /dev/null || (  echo "helm templating failed..." && return 1 )
               }
            export -f scan_prep
-           
+
           helm_sec_scan() {
               local chart="$1"
               local chartname="$(basename ${chart})"
@@ -71,7 +71,7 @@ jobs:
               echo "" >> ${chart}/security.md
               }
            export -f helm_sec_scan
-           
+
           container_sec_scan() {
               local chart="$1"
               local chartname="$(basename ${chart})"
@@ -114,21 +114,21 @@ jobs:
               finish_sec ${chart} || (  echo "Container Security Scan failed..." && return 0 )
               }
            export -f run_scans
-           
+
           parthreads=$(($(nproc) * 2))
           ## Disabled due to overloading the website (OOM issues)
           # parallel -j ${parthreads} run_scans '2>&1' ::: charts/charts/**/*
 
-           
-           
+
+
       - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
         name: Checkout Website
         with:
           fetch-depth: 1
           token: ${{ secrets.BOT_TOKEN }}
           path: website
-           
-           
+
+
       - name: Copy Chart Docs
         shell: bash
         run: |
@@ -144,12 +144,12 @@ jobs:
               fi
               }
            export -f copy_docs
-           
+
           parthreads=$(($(nproc) * 2))
           parallel -j ${parthreads} copy_docs '2>&1' ::: charts/charts/**/*
-          
-        
-           
+
+
+
       - name: Create commit
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
         with:
@@ -159,7 +159,7 @@ jobs:
           commit_user_email: bot@truecharts.org
           commit_author: truecharts-bot <bot@truecharts.org>
           repository: ./website
-          
+
       - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
         name: Checkout Containers
         with:
@@ -167,7 +167,7 @@ jobs:
           fetch-depth: 1
           token: ${{ secrets.BOT_TOKEN }}
           path: containers
-          
+
       - name: Generate Index Files
         shell: bash
         run: |
@@ -180,7 +180,7 @@ jobs:
            export -f generate_index_files
           generate_index_files
           ls -l /__w/website/website/website/docs/charts/
-          
+
       - name: Create commit
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
         with:

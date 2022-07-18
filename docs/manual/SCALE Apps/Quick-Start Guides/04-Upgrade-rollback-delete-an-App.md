@@ -78,4 +78,4 @@ Of coarse only enter the version number in the GUI or CLI, not the name
 
 #### Video Guide
 
-![type:video](https://www.youtube.com/embed/ONbMhQJPQwc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ONbMhQJPQwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

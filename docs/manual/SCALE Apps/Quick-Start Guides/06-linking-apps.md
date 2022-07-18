@@ -47,7 +47,7 @@ To reach an app named "sab" (name does NOT contain catalog app name) within Sona
 
 ### Video Guide
 
-![type:video](https://www.youtube.com/embed/mWJL-XDgH98)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mWJL-XDgH98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Additional Documentation
 

@@ -21,4 +21,4 @@ Here we will go over a basic install of Plex, to showcase how you can install a 
 
 ## Video Guide
 
-![type:video](https://www.youtube.com/embed/9UDUMFiaXBM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9UDUMFiaXBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
