@@ -244,4 +244,17 @@ yaml 是由 TrueNAS 渲染以创建用户界面的文件。 当不创建新图�
                 描述: "OnRootMissmatch"
               - 值: "总是"
                 描述: "总是"
+          schema:
+            类型: int
+            default: 568
+        - 变量: fsGroupChangePolicy
+          标签: "我们何时应取得所有权?"
+          schema:
+            类型: 字符串
+            默认: "OnRootMissmatch"
+            枚举:
+              - 值: "OnRootMissmatch"
+                描述: "OnRootMissmatch"
+              - 值: "总是"
+                描述: "总是"
 ```
