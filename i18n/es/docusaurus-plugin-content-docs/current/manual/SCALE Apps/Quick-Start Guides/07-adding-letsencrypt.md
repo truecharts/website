@@ -32,7 +32,7 @@ Para usar certificados iX con letsencrypt hay algunos requisitos:
 
 ![LE4](/img/LE/LE5.PNG)
 
-- Tenga en cuenta que su nueva solicitud de firma de certificados `` aparece en el cuadro de abajo `Solicitudes de firma de certificados`. También nota el pequeño ícono de `envoltura` a la derecha de tu solicitud de firma de certificado ``
+- Tenga en cuenta que su nueva solicitud de firma de certificados ``aparece en el cuadro de abajo `Solicitudes de firma de certificados`. También nota el pequeño ícono de `envoltura` a la derecha de tu solicitud de firma de certificado``
 
 - Haga clic en el icono pequeño `envoltura` , esto abrirá el menú `Crear certificado ACME`. En este menú podemos solicitar un certificado real (Producción) o un certificado de prueba (staging) de Letsencrypt. Para mayor claridad, es recomendable utilizar el mismo Autenticador para todos los nombres de dominio. Sin embargo: Está bien generar tanto una prueba como un certificado de puesta en escena para el mismo dominio.
 
