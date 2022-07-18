@@ -1,29 +1,29 @@
-# 03 - Editing Apps
+# 03-编辑应用程序
 
-Editing Apps is possible since 21.08, although it has a slightly different GUI it exposes the same setting as installing an App.
+从21.08起就可以编辑应用，尽管它有稍微不同的图形界面，它会显示与安装应用程序相同的设置。
 
 ## B. 所需经费
 
-- Make sure your storage-pool is created and working
-- Make Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to quick-start guide `01 - First time Apps setup`
-- Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
-- Make sure you already added the TrueCharts catalog from guide 02
-- Make sure your App is installed and, preferably, working
+- 请确保您的存储库已创建并工作
+- 当您首次打开“应用”接口时，请确保您选择了存储池。 如果没有参考快速启动指南 `01- 首次应用程序设置`
+- 请确保您有可用的互联网连接，并可以从主机系统访问 github 和 truecharts.org。
+- 请确保您已经从指南02中添加了TrueCharts目录
+- 请确保您的应用程序已安装，最好是工作
 
-## Editing the App
+## 编辑应用程序
 
-- Go to `Installed Applications`
-- click the menu button on the right side of the App card
-- Select `Edit`
-- Change any settings you want to change
-- Submit your changes
+- 跳转到 `已安装的应用程序`
+- 点击应用卡右侧的菜单按钮
+- 选择 `编辑`
+- 更改您想要更改的任何设置
+- 提交您的更改
 
-The App will then go through a process of submitting your changes. If the process fails, your changes will not be submitted and the edit will be reverted. The process popup disappears, it might take a few minutes to actually deploy your new changes, due to some things that happen in the background.
+然后应用程序将通过一个提交您的更改的过程。 如果进程失败，您的更改将不会被提交，编辑将被还原。 进程弹出窗口消失了，可能需要几分钟的时间才能实际部署您的新的更改，因为在后台发生了一些事情。
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/UyqM798Arbo)
+![类型 :video](https://www.youtube.com/embed/UyqM798Arbo)
 
-### Notes
+### 注
 
-- It's NOT advisable to switch between Nodeport and Loadbalancer, using the same ports. This WILL cause problems. If you edit an app and switch between NodePort and Loadbalancer, please be sure to use different ports.
+- 使用相同的端口切换节点和Loadbalancer之间是不可取的。 这个WILL会引起问题。 如果您编辑一个应用并在NodePort 和 Loadbalancer之间切换，请使用不同的端口。
