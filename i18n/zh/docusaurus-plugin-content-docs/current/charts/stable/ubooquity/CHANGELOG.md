@@ -60,7 +60,7 @@
 
 #### 修复
 
-* make root fs writable ([#3142](https://github.com/truecharts/apps/issues/3142))
+* 使 root fs 可写入([#3142](https://github.com/truecharts/apps/issues/3142))
 
 
 
@@ -179,7 +179,7 @@
 
 <a name="ubooquity-2.0.21"></a>
 
-### [ubooquity-2.0.21](https://github.com/truecharts/apps/compare/ubooquity-2.0.20...ubooquity-2.0.21) (2022-05-31)
+### [ubootity-2.0.21](https://github.com/truecharts/apps/compare/ubooquity-2.0.20...ubooquity-2.0.21) (2022-05-31)
 
 #### 聊天
 
@@ -189,7 +189,7 @@
 
 <a name="ubooquity-2.0.20"></a>
 
-### [ubooquity-2.0.20](https://github.com/truecharts/apps/compare/ubooquity-2.0.19...ubooquity-2.0.20) (2022-05-26)
+### [ubouquity-2.0.20](https://github.com/truecharts/apps/compare/ubooquity-2.0.19...ubooquity-2.0.20) (2022-05-26)
 
 #### 聊天
 
@@ -200,7 +200,7 @@
 
 <a name="ubooquity-2.0.20"></a>
 
-### [ubooquity-2.0.20](https://github.com/truecharts/apps/compare/ubooquity-2.0.19...ubooquity-2.0.20) (2022-05-26)
+### [ubouquity-2.0.20](https://github.com/truecharts/apps/compare/ubooquity-2.0.19...ubooquity-2.0.20) (2022-05-26)
 
 #### 聊天
 
@@ -220,7 +220,7 @@
 
 <a name="ubooquity-2.0.18"></a>
 
-### [ubooquity-2.0.18](https://github.com/truecharts/apps/compare/ubooquity-2.0.17...ubooquity-2.0.18) (2022-05-17)
+### [ubootity-2.0.18](https://github.com/truecharts/apps/compare/ubooquity-2.0.17...ubooquity-2.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -231,7 +231,7 @@
 
 <a name="ubooquity-2.0.18"></a>
 
-### [ubooquity-2.0.18](https://github.com/truecharts/apps/compare/ubooquity-2.0.17...ubooquity-2.0.18) (2022-05-17)
+### [ubootity-2.0.18](https://github.com/truecharts/apps/compare/ubooquity-2.0.17...ubooquity-2.0.18) (2022-05-17)
 
 #### 聊天
 
@@ -241,7 +241,7 @@
 
 <a name="ubooquity-2.0.17"></a>
 
-### [ubooquity-2.0.17](https://github.com/truecharts/apps/compare/ubooquity-2.0.16...ubooquity-2.0.17) (2022-05-17)
+### [ubootity-2.0.17](https://github.com/truecharts/apps/compare/ubooquity-2.0.16...ubooquity-2.0.17) (2022-05-17)
 
 #### 聊天
 
@@ -296,7 +296,7 @@
 
 #### 修复
 
-* fix admin portal button ([#2485](https://github.com/truecharts/apps/issues/2485))
+* 修复管理门户按钮([#2485](https://github.com/truecharts/apps/issues/2485))
 
 
 
@@ -322,7 +322,7 @@
 
 <a name="ubooquity-2.0.9"></a>
 
-### [ubooquity-2.0.9](https://github.com/truecharts/apps/compare/ubooquity-2.0.8...ubooquity-2.0.9) (2022-03-31)
+### [ubootity-2.0.9](https://github.com/truecharts/apps/compare/ubooquity-2.0.8...ubooquity-2.0.9) (2022-03-31)
 
 #### 聊天
 
@@ -342,7 +342,7 @@
 
 <a name="ubooquity-2.0.7"></a>
 
-### [ubooquity-2.0.7](https://github.com/truecharts/apps/compare/ubooquity-2.0.6...ubooquity-2.0.7) (2022-03-26)
+### [ubouquity-2.0.7](https://github.com/truecharts/apps/compare/ubooquity-2.0.6...ubooquity-2.0.7) (2022-03-26)
 
 #### 聊天
 
@@ -352,7 +352,7 @@
 
 <a name="ubooquity-2.0.2"></a>
 
-### [ubooquity-2.0.2](https://github.com/truecharts/apps/compare/ubooquity-2.0.1...ubooquity-2.0.2) (2022-03-07)
+### [ubootity-2.0.2](https://github.com/truecharts/apps/compare/ubooquity-2.0.1...ubooquity-2.0.2) (2022-03-07)
 
 #### 聊天
 
@@ -363,7 +363,7 @@
 
 <a name="ubooquity-2.0.1"></a>
 
-### [ubooquity-2.0.1](https://github.com/truecharts/apps/compare/ubooquity-2.0.0...ubooquity-2.0.1) (2022-03-04)
+### [ubootity-2.0.1](https://github.com/truecharts/apps/compare/ubooquity-2.0.0...ubooquity-2.0.1) (2022-03-04)
 
 
 
@@ -394,7 +394,7 @@
 
 #### 修复
 
-* Fix broken service and port reference
+* 修复服务中断和端口参考
 
 
 
@@ -404,7 +404,7 @@
 
 #### 修复
 
-* Add admin service and portal ([#1951](https://github.com/truecharts/apps/issues/1951))
+* 添加管理服务和portal([#1951](https://github.com/truecharts/apps/issues/1951))
 
 
 
@@ -568,7 +568,7 @@
 
 <a name="ubooquity-0.0.7"></a>
 
-### [ubooquity-0.0.7](https://github.com/truecharts/apps/compare/ubooquity-0.0.6...ubooquity-0.0.7) (2021-12-21)
+### [ubuquity-0.0.7](https://github.com/truecharts/apps/compare/ubooquity-0.0.6...ubooquity-0.0.7) (2021-12-21)
 
 #### 聊天
 
@@ -620,7 +620,7 @@
 
 <a name="ubooquity-0.0.2"></a>
 
-### [ubooquity-0.0.2](https://github.com/truecharts/apps/compare/ubooquity-0.0.1...ubooquity-0.0.2) (2021-12-13)
+### [ubuquity-0.0.2](https://github.com/truecharts/apps/compare/ubooquity-0.0.1...ubooquity-0.0.2) (2021-12-13)
 
 #### 聊天
 
