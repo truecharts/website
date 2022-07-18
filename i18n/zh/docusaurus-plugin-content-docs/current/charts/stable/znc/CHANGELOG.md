@@ -568,7 +568,7 @@
 
 <a name="znc-0.0.4"></a>
 
-### [znc-0.0.4](https://github.com/truecharts/apps/compare/znc-0.0.3...znc-0.0.4) (2021-12-18)
+### [znc-0.0.4](https://github.com/truecharts/apps/compare/znc-0.0.3...znc-0.0.4) (2021-12-18岁)
 
 #### 聊天
 
@@ -599,4 +599,4 @@
 
 <a name="znc-0.0.1"></a>
 
-### znc-0.0.1 (2021-12-12)
+### znc-0.0.1 (2021-12)
