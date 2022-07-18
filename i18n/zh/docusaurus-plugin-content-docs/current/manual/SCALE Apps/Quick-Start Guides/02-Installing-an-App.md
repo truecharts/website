@@ -1,24 +1,24 @@
-# 02 - Installing Apps
+# 02-正在安装应用程序
 
-Here we will go over a basic install of Plex, to showcase how you can install a TrueNAS SCALE App from the TrueCharts Catalog with mostly default settings
+我们将在这里完成一个基本的Plex安装。 展示如何从 TrueChasts 目录安装一个 TrueNA S SCALE 应用，主要是默认设置
 
 ## B. 所需经费
 
-- Make sure your storage-pool is created and working
-- Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
-- Make sure you already added the TrueCharts catalog from `Step 01 - Adding TrueCharts to SCALE`
+- 请确保您的存储库已创建并工作
+- 请确保您有可用的互联网连接，并可以从主机系统访问 github 和 truecharts.org。
+- 请确保您已经从 `步骤 01- 将 TrueCharts 目录添加到 SCALE`
 
-### Adding the App
+### 添加应用程序
 
-- Go to `Available Applications`
-- Click the `Install` button next to the App you want to install
-- on step 01 give your App a name
-- Unless you need to change something, for example the allowed networks for Plex, you can ignore steps and just click `Next`
-- On the last step, review any changes you made to the defaults in the summary
-- Click `Submit` to install your App of choice
-- Under `Installed applications` you will see a new tile with the name of your App
-- Wait a few minutes until the App is started, a `Portal` button will appear that takes you to the GUI of your App of choice
+- 转到 `可用的应用程序`
+- 点击您想要安装的应用程序旁边的 `安装` 按钮
+- 步骤01给您的应用程序一个名称
+- 除非你需要改变某些东西，例如允许的Plex网络, 否则你可以忽略步骤, 然后点击 `下一个`
+- 在最后一步，查看您对摘要中默认设置的任何更改
+- 点击 `提交` 来安装您的应用程序选择
+- 在 `已安装的应用程序` 下，您将看到一个新的瓷块，其名称为您的应用
+- 等待几分钟，直到应用程序启动， a `Portal` 按钮将显示给您的应用程序的 GUI
 
-## Video Guide
+## 视频指南
 
-![type:video](https://www.youtube.com/embed/9UDUMFiaXBM)
+![类型 :video](https://www.youtube.com/embed/9UDUMFiaXBM)
