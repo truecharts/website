@@ -1,15 +1,15 @@
-# System Requirements
+# 系统要求
 
-All the below recommendations assume the TrueNAS System in question is not used for anything other than running Apps and Storage. Adding VMs or busy shares will significantly increase the requirements.
+下面的所有建议都假定有关的TrueNAS系统除了运行应用和存储之外没有用于任何其他用途。 添加虚拟机或繁忙的共享将大大增加需求。
 
-## Minimal system Specifications
+## 最小系统规范
 
-Systems complying with these minimal specifications will be able to run some Apps and just a few at the same time. Experiences in terms of performance and which Apps work may vary.
+符合这些最低规格的系统将能够同时运行一些应用程序和少数应用程序。 在性能和应用工作方面的经验可能各不相同。
 
-**CPU:** 4 Cores **RAM:** 16GB **GPU:** None **Storage:** 250GB HDD Pool storage + OS Storage
+**CPU:** 4 核心 **RAM:** 16GB **GPU:** 无 **存储:** 250GB HDD 池存储 + OS 存储
 
-## recommended System Specifications
+## 推荐的系统规范
 
-Systems complying with these recommended specifications, will be able to run (almost) any App we offer and many at the same time, depending on system load.
+2. 符合这些建议规格的系统， 将能够同时运行我们提供的任何应用程序(几乎全部)，并且许多应用，取决于系统负载情况。
 
-**CPU:** 8 Cores **RAM:** 32GB **GPU:** Intel iGPU **Storage:** 1TB HDD Pool storage + Metadata/smallblock vdev + OS Storage
+**CPU:** 8 核心 **RAM:** 32GB **GPU:** Intel iGPU **存储:** 1TB HDD 池存储 + Metadata/smallblock vdev + OS 存储
