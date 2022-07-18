@@ -36,7 +36,7 @@
 
 ## 执行
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at moderation@truecharts.org. 所有 项投诉都将得到审查和调查，结果将产生 项被认为是必要和适合具体情况的答复。 项目组 有义务对事件报告者保密。 具体执法政策的进一步细节可另行公布。
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at moderation@truecharts.org. 所有 项投诉都将得到审查和调查，结果将产生 项被认为是必要和适合具体情况的答复。 所有 项投诉都将得到审查和调查，结果将产生 项被认为是必要和适合具体情况的答复。 项目组 有义务对事件报告者保密。 具体执法政策的进一步细节可另行公布。
 
 ## 上诉
 
