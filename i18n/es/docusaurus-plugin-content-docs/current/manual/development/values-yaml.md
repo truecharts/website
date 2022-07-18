@@ -10,7 +10,7 @@ Este archivo contiene la configuración predeterminada al ejecutar la aplicació
 
 ### ix_valores.yaml
 
-Este archivo contiene valores de configuración que no están incluidos en questions.yaml, pero que deberían copiarse en la configuración resultante de todos modos. Se utiliza principalmente para asegurar que la configuración puede ser cambiada por el mantenedor con cada actualización, como versiones, lo que no es posible cuando se establecen las cosas como predeterminados dentro de las preguntas. bul
+Este archivo contiene valores de configuración que no están incluidos en questions.yaml, pero que deberían copiarse en la configuración resultante de todos modos. Se utiliza principalmente para asegurar que la configuración puede ser cambiada por el mantenedor con cada actualización, como versiones, lo que no es posible cuando se establecen las cosas como predeterminados dentro de las preguntas.
 
 Este archivo, sin embargo, no está muy bien comprobado por validación y CI. Utilízalo cuando sea absolutamente necesario.
 
