@@ -1,12 +1,12 @@
 # 静态的
 
-A self-hosted static file serving app which does nothing more than just serve up static files from a mounted volume.
+一个自托管的静态文件服务于应用，它只能从一个挂载的卷上为静态文件服务。
 
 TrueCharts设计成只能安装为 TrueNAS SCALE 应用程序。 我们不能保证这个图表作为一个独立的头盔安装。 **此图表不由上游项目维护，此图表中的任何问题都应该在这里 [](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## 源代码
 
-* <https://github.com/prologic/static>
+* [https://github.com/prologic/statil](https://github.com/prologic/static)
 * <https://github.com/nicholaswilde/docker-static>
 
 ## B. 所需经费
