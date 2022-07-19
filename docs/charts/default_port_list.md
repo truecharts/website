@@ -58,7 +58,7 @@ they should provide no or minimal conflicts without being changed.
 |valheim                   |valheim        |valheim1       |2456 |UDP     |Active             |-                                                                                |
 |valheim                   |valheim        |valheim2       |2457 |UDP     |Active             |-                                                                                |
 |valheim                   |valheim        |valheim3       |2458 |UDP     |Active             |-                                                                                |
-|wireshark                 |main           |main           |3000 |TCP     |Active             |-                                                                                |
+|wireshark                 |main           |main           |3000 |TCP     |Active             |Potential conflict with: blender                                                 |
 |uptime-kuma               |main           |main           |3001 |TCP     |Active             |-                                                                                |
 |vaultwarden               |ws             |ws             |3012 |TCP     |Active             |-                                                                                |
 |loki                      |main           |main           |3100 |HTTP    |Active             |-                                                                                |
@@ -105,14 +105,14 @@ they should provide no or minimal conflicts without being changed.
 |nextcloud                 |backend        |hpb            |7867 |TCP     |Active             |-                                                                                |
 |nextcloud                 |backend        |hpb-metrics    |7868 |TCP     |Active             |-                                                                                |
 |radarr                    |main           |main           |7878 |TCP     |Active             |-                                                                                |
-|synapse                   |main           |main           |8008 |TCP     |Active             |-                                                                                |
+|synapse                   |main           |main           |8008 |TCP     |Active             |Potential conflict with: acestream                                               |
 |omada-controller          |main           |main           |8043 |HTTPS   |Active             |-                                                                                |
 |odoo                      |main           |main           |8069 |TCP     |Active             |-                                                                                |
 |odoo                      |odoo           |xmlrpcs        |8071 |TCP     |Active             |-                                                                                |
 |odoo                      |odoo           |longpolling    |8072 |TCP     |Active             |-                                                                                |
-|unifi                     |comm           |comm           |8080 |TCP     |Active             |-                                                                                |
-|calibre                   |webserver      |webserver      |8081 |TCP     |Active             |-                                                                                |
-|traccar                   |main           |main           |8082 |TCP     |Active             |-                                                                                |
+|unifi                     |comm           |comm           |8080 |TCP     |Active             |Potential conflict with: server-7daystodie adguardhome-sync adminer              |
+|calibre                   |webserver      |webserver      |8081 |TCP     |Active             |Potential conflict with: assettocorsa                                            |
+|traccar                   |main           |main           |8082 |TCP     |Active             |Potential conflict with: server-7daystodie                                       |
 |calibre-web               |main           |main           |8083 |TCP     |Active             |-                                                                                |
 |calibre                   |main           |main           |8084 |TCP     |Active             |-                                                                                |
 |htpcmanager               |main           |main           |8085 |TCP     |Active             |-                                                                                |
@@ -122,13 +122,13 @@ they should provide no or minimal conflicts without being changed.
 |jellyfin                  |main           |main           |8096 |TCP     |Active             |-                                                                                |
 |deluge                    |main           |main           |8112 |TCP     |Active             |-                                                                                |
 |home-assistant            |main           |main           |8123 |TCP     |Active             |-                                                                                |
-|tautulli                  |main           |main           |8181 |TCP     |Active             |-                                                                                |
+|tautulli                  |main           |main           |8181 |TCP     |Active             |Potential conflict with: artifactory-oss                                         |
 |flaresolverr              |main           |main           |8191 |TCP     |Active             |-                                                                                |
 |duplicati                 |main           |main           |8200 |TCP     |Active             |-                                                                                |
 |tdarr                     |main           |main           |8265 |TCP     |Active             |-                                                                                |
 |tdarr                     |comm           |comm           |8266 |TCP     |Active             |-                                                                                |
 |beets                     |main           |main           |8337 |TCP     |Active             |-                                                                                |
-|syncthing                 |main           |main           |8384 |TCP     |Active             |-                                                                                |
+|syncthing                 |main           |main           |8384 |TCP     |Active             |Potential conflict with: apache-webdav                                           |
 |unifi                     |main           |main           |8443 |HTTPS   |Active             |-                                                                                |
 |synapse                   |federation     |federation     |8448 |TCP     |Active             |-                                                                                |
 |gaps                      |main           |main           |8484 |TCP     |Active             |-                                                                                |
@@ -453,14 +453,14 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|promtail        |main    |main     |3101 |TCP     |Active|-   |
-|mariadb         |main    |main     |3306 |TCP     |Active|-   |
-|postgresql      |main    |main     |5432 |TCP     |Active|-   |
-|redis           |main    |main     |6379 |TCP     |Active|-   |
-|solr            |main    |main     |8983 |TCP     |Active|-   |
-|collabora-online|main    |main     |10105|TCP     |Active|-   |
-|memcached       |main    |main     |11211|TCP     |Active|-   |
-|mongodb         |main    |main     |27017|TCP     |Active|-   |
+|promtail        |main    |main     |3101 |TCP     |Active|-                                      |
+|mariadb         |main    |main     |3306 |TCP     |Active|Potential conflict with: arma3exilemod |
+|postgresql      |main    |main     |5432 |TCP     |Active|-                                      |
+|redis           |main    |main     |6379 |TCP     |Active|-                                      |
+|solr            |main    |main     |8983 |TCP     |Active|-                                      |
+|collabora-online|main    |main     |10105|TCP     |Active|-                                      |
+|memcached       |main    |main     |11211|TCP     |Active|-                                      |
+|mongodb         |main    |main     |27017|TCP     |Active|-                                      |
 
 ## Incubator
 
@@ -477,7 +477,7 @@ they should provide no or minimal conflicts without being changed.
 |adguard-home         |dns-quic-udp-2 |dns-quic-udp-2 |853  |UDP     |Active|-                                                                            |
 |technitium           |dns-tls        |dns-tls        |853  |TCP     |Active|-                                                                            |
 |frigate              |rtmp           |rtmp           |1935 |TCP     |Active|Potential conflict with: owncast                                             |
-|frigate              |main           |main           |5000 |TCP     |Active|-                                                                            |
+|frigate              |main           |main           |5000 |TCP     |Active|Potential conflict with: auto-yt-dl                                          |
 |technitium           |main           |main           |5380 |TCP     |Active|-                                                                            |
 |adguard-home         |dns-crypt      |dns-crypt      |5443 |TCP     |Active|-                                                                            |
 |adguard-home         |dns-crypt-udp  |dns-crypt-udp  |5443 |UDP     |Active|-                                                                            |
@@ -538,6 +538,98 @@ they should provide no or minimal conflicts without being changed.
 |lancache-monolithic  |main           |main           |10279|HTTP    |Active|-                                                                            |
 |plex-meta-manager    |main           |main           |10281|HTTP    |Active|-                                                                            |
 |st-reborn-server     |main           |main           |10578|UDP     |Active|-                                                                            |
+
+## Dev
+
+| App | Service | Port Name | Port | Protocol | Status | Note |
+|:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
+|ama                    |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|ambd                   |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|amtd                   |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|amvd                   |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|android-8-0            |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|anope                  |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|atd                    |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|aurora-files           |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|autoscan               |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|breitbandmessung-de    |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|bwapp                  |main          |-             |-    |-       |Service is Disabled|-                                                                                                                |
+|adguard-home           |dnsserver     |dnsserver     |53   |TCP     |Active             |-                                                                                                                |
+|baikal                 |main          |main          |80   |TCP     |Active             |-                                                                                                                |
+|arma3                  |main          |main          |2302 |TCP     |Active             |Potential conflict with: arma3exilemod                                                                           |
+|arma3                  |udpgameport   |udpgameport   |2302 |UDP     |Active             |-                                                                                                                |
+|arma3exilemod          |main          |main          |2302 |TCP     |Active             |Potential conflict with: arma3                                                                                   |
+|arma3exilemod          |udpgameport   |udpgameport   |2302 |UDP     |Active             |-                                                                                                                |
+|arma3                  |udpsteamquerry|udpsteamquerry|2303 |UDP     |Active             |Potential conflict with: arma3exilemod                                                                           |
+|arma3exilemod          |udpsteamquerry|udpsteamquerry|2303 |UDP     |Active             |Potential conflict with: arma3                                                                                   |
+|arma3                  |udpsteammaster|udpsteammaster|2304 |UDP     |Active             |Potential conflict with: arma3exilemod                                                                           |
+|arma3exilemod          |udpsteammaster|udpsteammaster|2304 |UDP     |Active             |Potential conflict with: arma3                                                                                   |
+|arma3                  |udpvonport    |udpvonport    |2305 |UDP     |Active             |Potential conflict with: arma3exilemod                                                                           |
+|arma3exilemod          |udpvonport    |udpvonport    |2305 |UDP     |Active             |Potential conflict with: arma3                                                                                   |
+|arma3                  |udpbattleyetra|udpbattleyetra|2306 |UDP     |Active             |Potential conflict with: arma3exilemod                                                                           |
+|arma3exilemod          |udpbattleyetra|udpbattleyetra|2306 |UDP     |Active             |Potential conflict with: arma3                                                                                   |
+|adguard-home           |main          |main          |3000 |HTTP    |Active             |-                                                                                                                |
+|blender                |main          |main          |3000 |TCP     |Active             |Potential conflict with: wireshark                                                                               |
+|apt-cacher-ng          |main          |main          |3142 |TCP     |Active             |-                                                                                                                |
+|arma3exilemod          |tcpmariadb    |tcpmariadb    |3306 |TCP     |Active             |Potential conflict with: mariadb                                                                                 |
+|amule                  |porttcp       |porttcp       |4662 |TCP     |Active             |-                                                                                                                |
+|amule                  |portudp       |portudp       |4672 |UDP     |Active             |-                                                                                                                |
+|amule                  |main          |main          |4711 |HTTP    |Active             |-                                                                                                                |
+|auto-yt-dl             |main          |main          |5000 |TCP     |Active             |Potential conflict with: frigate                                                                                 |
+|androiddebugbridge     |main          |main          |5037 |TCP     |Active             |-                                                                                                                |
+|btdex                  |main          |main          |5800 |TCP     |Active             |-                                                                                                                |
+|blender-desktop-g3     |webuivnc      |webuivnc      |5901 |TCP     |Active             |-                                                                                                                |
+|bitcoinwalletgui       |vncport       |vncport       |5905 |TCP     |Active             |-                                                                                                                |
+|bitcoinwalletgui       |main          |main          |6901 |HTTP    |Active             |Potential conflict with: blender-desktop-g3                                                                      |
+|blender-desktop-g3     |main          |main          |6901 |HTTP    |Active             |Potential conflict with: bitcoinwalletgui                                                                        |
+|arksurvivalevolved     |main          |main          |7777 |UDP     |Active             |-                                                                                                                |
+|arksurvivalevolved     |udp2          |udp2          |7778 |UDP     |Active             |-                                                                                                                |
+|apprise-api            |main          |main          |8000 |TCP     |Active             |Potential conflict with: backuppc                                                                                |
+|backuppc               |main          |main          |8000 |TCP     |Active             |Potential conflict with: apprise-api                                                                             |
+|archiveteam-warrior    |main          |main          |8001 |TCP     |Active             |-                                                                                                                |
+|acestream              |main          |main          |8008 |TCP     |Active             |Potential conflict with: synapse                                                                                 |
+|adguardhome-sync       |main          |main          |8080 |TCP     |Active             |Potential conflict with: unifi server-7daystodie adminer                                                         |
+|adminer                |main          |main          |8080 |TCP     |Active             |Potential conflict with: unifi server-7daystodie adguardhome-sync                                                |
+|server-7daystodie      |webbasecontrol|webbasecontrol|8080 |TCP     |Active             |Potential conflict with: unifi adguardhome-sync adminer                                                          |
+|assettocorsa           |tcp2          |tcp2          |8081 |TCP     |Active             |Potential conflict with: calibre                                                                                 |
+|server-7daystodie      |webpanel      |webpanel      |8082 |TCP     |Active             |Potential conflict with: traccar                                                                                 |
+|artifactory-oss        |main          |main          |8181 |TCP     |Active             |Potential conflict with: tautulli                                                                                |
+|bitcoin-node           |main          |main          |8332 |TCP     |Active             |Potential conflict with: bitcoind bitcoinunlimited                                                               |
+|bitcoind               |localrpc      |localrpc      |8332 |TCP     |Active             |Potential conflict with: bitcoin-node bitcoinunlimited                                                           |
+|bitcoinunlimited       |main          |main          |8332 |TCP     |Active             |Potential conflict with: bitcoind bitcoin-node                                                                   |
+|bitcoin-node           |port2         |port2         |8333 |TCP     |Active             |Potential conflict with: bitcoind bitcoinunlimited                                                               |
+|bitcoind               |main          |main          |8333 |TCP     |Active             |Potential conflict with: bitcoin-node bitcoinunlimited                                                           |
+|bitcoinunlimited       |communicationp|communicationp|8333 |TCP     |Active             |Potential conflict with: bitcoind bitcoin-node                                                                   |
+|apache-webdav          |main          |main          |8384 |TCP     |Active             |Potential conflict with: syncthing                                                                               |
+|barcodebuddy           |main          |main          |8450 |TCP     |Active             |-                                                                                                                |
+|assettocorsa           |assetto       |assetto       |8772 |TCP     |Active             |-                                                                                                                |
+|americasarmy-pg        |main          |main          |8778 |UDP     |Active             |-                                                                                                                |
+|assettocorsa           |main          |main          |9600 |TCP     |Active             |-                                                                                                                |
+|assettocorsa           |udp           |udp           |9600 |UDP     |Active             |-                                                                                                                |
+|bitcoinunlimited       |testnetrpcport|testnetrpcport|18332|TCP     |Active             |-                                                                                                                |
+|bitcoinunlimited       |testnetcommuni|testnetcommuni|18333|TCP     |Active             |-                                                                                                                |
+|server-7daystodie      |main          |main          |26900|TCP     |Active             |-                                                                                                                |
+|server-7daystodie      |steammasterser|steammasterser|26900|UDP     |Active             |-                                                                                                                |
+|server-7daystodie      |steamcommunica|steamcommunica|26901|UDP     |Active             |-                                                                                                                |
+|server-7daystodie      |raknet        |raknet        |26902|UDP     |Active             |-                                                                                                                |
+|server-7daystodie      |unet          |unet          |26903|UDP     |Active             |-                                                                                                                |
+|avorion                |hostport2     |hostport2     |27000|UDP     |Active             |-                                                                                                                |
+|avorion                |main          |main          |27000|TCP     |Active             |-                                                                                                                |
+|avorion                |hostport3     |hostport3     |27003|UDP     |Active             |-                                                                                                                |
+|alienswarm             |main          |main          |27015|TCP     |Active             |-                                                                                                                |
+|alienswarm             |gameport      |tcp-rconport  |27015|UDP     |Active             |Potential conflict with: alienswarm-reactivedrop server-7daystodie americasarmy-pg arksurvivalevolved barotrauma |
+|alienswarm-reactivedrop|main          |main          |27015|UDP     |Active             |Potential conflict with: server-7daystodie alienswarm americasarmy-pg arksurvivalevolved barotrauma              |
+|alienswarm-reactivedrop|tcp-rconport  |tcp-rconport  |27015|TCP     |Active             |-                                                                                                                |
+|americasarmy-pg        |steamqueryport|steamqueryport|27015|UDP     |Active             |Potential conflict with: alienswarm-reactivedrop server-7daystodie alienswarm arksurvivalevolved barotrauma      |
+|arksurvivalevolved     |udpsteam      |udpsteam      |27015|UDP     |Active             |Potential conflict with: alienswarm-reactivedrop server-7daystodie alienswarm americasarmy-pg barotrauma         |
+|barotrauma             |main          |main          |27015|UDP     |Active             |Potential conflict with: alienswarm-reactivedrop server-7daystodie alienswarm americasarmy-pg arksurvivalevolved |
+|server-7daystodie      |registeringats|registeringats|27015|UDP     |Active             |Potential conflict with: alienswarm-reactivedrop alienswarm americasarmy-pg arksurvivalevolved barotrauma        |
+|barotrauma             |steamqueryport|steamqueryport|27016|UDP     |Active             |-                                                                                                                |
+|arksurvivalevolved     |rcontcp       |rcontcp       |27020|TCP     |Active             |-                                                                                                                |
+|avorion                |hostport4     |hostport4     |27020|UDP     |Active             |-                                                                                                                |
+|avorion                |hostport5     |hostport5     |27021|UDP     |Active             |-                                                                                                                |
+|altitude               |main          |main          |27276|UDP     |Active             |-                                                                                                                |
+|assettocorsa           |stracker      |stracker      |50041|TCP     |Active             |-                                                                                                                |
 
 ## Official Apps
 

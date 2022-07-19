@@ -661,4 +661,80 @@ The intro needs improvement ;)
 |youtubedl-material   |video         |PVC     |-            |/app/video                              |Read/Write|Enabled                |
 |zabbix-server        |snmptraps     |PVC     |-            |/var/lib/zabbix/snmptraps               |Read/Write|Enabled                |
 
+## Dev
+
+| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
+|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|acestream              |acestreamcache           |PVC |-       |/srv/acestream/.ACEStream |Read/Write|Enabled                |
+|adguard-home           |workingdirectory         |PVC |-       |/opt/adguardhome/conf     |Read/Write|Enabled                |
+|adguardhome-sync       |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|adminer                |-                        |-   |-       |-                         |-         |Persistence not Defined|
+|alienswarm             |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|alienswarm             |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|alienswarm-reactivedrop|serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|alienswarm-reactivedrop|steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|altitude               |serverfiles              |PVC |-       |/altitude                 |Read/Write|Enabled                |
+|ama                    |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|ama                    |hostpathfordownloads-ama |PVC |-       |/downloads-ama            |Read/Write|Enabled                |
+|ambd                   |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|ambd                   |hostpathfordownloads-ambd|PVC |-       |/downloads-ambd           |Read/Write|Enabled                |
+|ambd                   |hostpathforlibrary-ambd  |PVC |-       |/library-ambd             |Read/Write|Enabled                |
+|americasarmy-pg        |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|americasarmy-pg        |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|amtd                   |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|amule                  |storagecomplete          |PVC |-       |/incoming                 |Read/Write|Enabled                |
+|amule                  |storageconfig            |PVC |-       |/home/amule/.aMule        |Read/Write|Enabled                |
+|amule                  |storageincomplete        |PVC |-       |/temp                     |Read/Write|Enabled                |
+|amvd                   |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|amvd                   |hostpathfordownloads-amvd|PVC |-       |/downloads-amvd           |Read/Write|Enabled                |
+|android-8-0            |-                        |-   |-       |-                         |-         |Persistence not Defined|
+|androiddebugbridge     |-                        |-   |-       |-                         |-         |Persistence not Defined|
+|anope                  |datapath                 |PVC |-       |/anope                    |Read/Write|Enabled                |
+|apache-webdav          |config                   |PVC |-       |/var/lib/dav              |Read/Write|Enabled                |
+|apache-webdav          |data                     |PVC |-       |/var/lib/dav/data         |Read/Write|Enabled                |
+|apprise-api            |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|apt-cacher-ng          |apt-cacher-ng            |PVC |-       |/var/cache/apt-cacher-ng  |Read/Write|Enabled                |
+|archiveteam-warrior    |appdata                  |PVC |-       |/var/run/docker.sock      |Read/Write|Enabled                |
+|arksurvivalevolved     |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|arksurvivalevolved     |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|arma3                  |profiles                 |PVC |-       |/serverdata/.local/share  |Read/Write|Enabled                |
+|arma3                  |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|arma3                  |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|arma3exilemod          |profiles                 |PVC |-       |/serverdata/.local/share  |Read/Write|Enabled                |
+|arma3exilemod          |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|arma3exilemod          |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|artifactory-oss        |varoptjfrogartifactory   |PVC |-       |/var/opt/jfrog/artifactory|Read/Write|Enabled                |
+|assettocorsa           |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|assettocorsa           |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|atd                    |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|atd                    |hostpathfordownloads-atd |PVC |-       |/downloads-atd            |Read/Write|Enabled                |
+|aurora-files           |-                        |-   |-       |-                         |-         |Persistence not Defined|
+|auto-yt-dl             |data                     |PVC |-       |/app/data                 |Read/Write|Enabled                |
+|auto-yt-dl             |hostpath1                |PVC |-       |/app/Downloads            |Read/Write|Enabled                |
+|autoscan               |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|avorion                |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|avorion                |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|backuppc               |backuplocation           |PVC |-       |/var/lib/backuppc         |Read/Write|Enabled                |
+|backuppc               |configurationfiles       |PVC |-       |/etc/backuppc             |Read/Write|Enabled                |
+|backuppc               |homedirectory            |PVC |-       |/home/backuppc            |Read/Write|Enabled                |
+|backuppc               |logs                     |PVC |-       |/www/logs                 |Read/Write|Enabled                |
+|baikal                 |config                   |PVC |-       |/var/www/baikal/config    |Read/Write|Enabled                |
+|baikal                 |specific                 |PVC |-       |/var/www/baikal/Specific  |Read/Write|Enabled                |
+|barcodebuddy           |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|barotrauma             |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|barotrauma             |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+|bitcoin-node           |blockhainstorage         |PVC |-       |/bitcoin/.bitcoin         |Read/Write|Enabled                |
+|bitcoind               |data                     |PVC |-       |/root/.bitcoin/           |Read/Write|Enabled                |
+|bitcoinunlimited       |data                     |PVC |-       |/data                     |Read/Write|Enabled                |
+|bitcoinwalletgui       |bitcoinblockchainpath    |PVC |-       |/headless/.bitcoin/       |Read/Write|Enabled                |
+|blender                |config                   |PVC |-       |/config                   |Read/Write|Enabled                |
+|blender-desktop-g3     |internalshare            |PVC |-       |/UNRAID_SHARE             |Read/Write|Enabled                |
+|blender-desktop-g3     |storageprojects          |PVC |-       |/srv/projects             |Read/Write|Enabled                |
+|breitbandmessung-de    |config                   |PVC |-       |/usr/src/app/config       |Read/Write|Enabled                |
+|breitbandmessung-de    |messurementlogs          |PVC |-       |/export/                  |Read/Write|Enabled                |
+|btdex                  |btdex                    |PVC |-       |/opt/btdex/cache          |Read/Write|Enabled                |
+|bwapp                  |-                        |-   |-       |-                         |-         |Persistence not Defined|
+|server-7daystodie      |serverfiles              |PVC |-       |/serverdata/serverfiles   |Read/Write|Enabled                |
+|server-7daystodie      |steamcmd                 |PVC |-       |/serverdata/steamcmd      |Read/Write|Enabled                |
+
 > If you notice something wrong in the above info, please notify us so we can update the generator script
