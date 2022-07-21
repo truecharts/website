@@ -63,7 +63,7 @@ For more help troubleshooting DNS resolution in Kubernetes, review the official 
 <!-- Start - Link Generator Leave empty line after-->
 
 import { useState, useEffect } from "react";
-export const LinkGen = ({ children, color }) => {
+export const LinkGenerator = ({ children, color }) => {
   const [name, setName] = useState("");
   const [app, setApp] = useState("");
   const [service, setService] = useState("");
@@ -80,23 +80,23 @@ export const LinkGen = ({ children, color }) => {
   const handleServiceChange = (event) => {
     setService(event.target.value);
   };
-  useEffect(()=> {
-    let svcname = ""
-    if (name.includes(app)){
+  useEffect(() => {
+    let svcname = "";
+    if (name.includes(app)) {
       svcname = name;
     } else {
-      svcname = name + "-" + app
+      svcname = name + "-" + app;
     }
     if (service) {
       svcname = svcname + "-" + service;
     }
     if (name && app) {
       let svcdns = svcname + ".ix-" + name + ".svc.cluster.local";
-      setDNS(svcdns)
+      setDNS(svcdns);
     } else {
-      setDNS("")
+      setDNS("");
     }
-  },[name, app, service])
+  }, [name, app, service]);
   function copyToClipboard() {
     navigator.clipboard.writeText(dns);
   }
@@ -145,6 +145,6 @@ export const LinkGen = ({ children, color }) => {
   );
 };
 
-<LinkGen />
+<LinkGenerator />
 
 <!-- End - Link Generator Leave empty line before-->
