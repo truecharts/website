@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [clickhouse-1.0.0](https://github.com/truecharts/apps/compare/clickhouse-0.0.12...clickhouse-1.0.0) (2022-07-21)
+
+### Chore
+
+- move clickhouse to dependency train, remove 2 breaking apps and remove some special characters
+
+
+
+## [clickhouse-0.0.12](https://github.com/truecharts/apps/compare/clickhouse-0.0.11...clickhouse-0.0.12) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [clickhouse-0.0.11](https://github.com/truecharts/apps/compare/clickhouse-0.0.10...clickhouse-0.0.11) (2022-07-14)
 
 ### Fix
