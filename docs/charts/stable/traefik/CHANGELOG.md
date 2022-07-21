@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [traefik-13.0.0](https://github.com/truecharts/apps/compare/traefik-12.0.24...traefik-13.0.0) (2022-07-21)
+
+### Feat
+
+- Adds theme.park middleware and remove Traefik pilot ([#3245](https://github.com/truecharts/apps/issues/3245))
+
+
+
+## [traefik-12.0.24](https://github.com/truecharts/apps/compare/traefik-12.0.23...traefik-12.0.24) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [traefik-12.0.23](https://github.com/truecharts/apps/compare/traefik-12.0.22...traefik-12.0.23) (2022-07-18)
 
 ### Fix
