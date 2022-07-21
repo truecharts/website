@@ -93,8 +93,13 @@ export const LinkGen = ({ children, color }) => {
     if (name && app) {
       let svcdns = svcname + ".ix-" + name + ".svc.cluster.local";
       setDNS(svcdns)
+    } else {
+      setDNS("")
     }
   },[name, app, service])
+  function copyToClipboard() {
+    navigator.clipboard.writeText(dns);
+  }
   return (
     <div>
       <div>
@@ -134,7 +139,8 @@ export const LinkGen = ({ children, color }) => {
           />
         </div>
       </form>
-      <span>Internal DNS: {dns}</span>
+      <span>Internal DNS: {dns} </span>
+      {dns ? <button onClick={copyToClipboard}>Copy</button> : ""}
     </div>
   );
 };
