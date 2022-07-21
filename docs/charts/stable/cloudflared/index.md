@@ -1,20 +1,19 @@
-# prometheus
+# cloudflared
 
-![Version: 4.0.40](https://img.shields.io/badge/Version-4.0.40-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.57.0](https://img.shields.io/badge/AppVersion-0.57.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2022.7.1](https://img.shields.io/badge/AppVersion-2022.7.1-informational?style=flat-square)
 
-kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Prometheus rules combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring with Prometheus using the Prometheus Operator.
+Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [prometheus](https://truecharts.org/charts/stable/prometheus)
+For more information, please click here: [cloudflared](https://truecharts.org/charts/stable/cloudflared)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/apps/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/prometheus-community/helm-charts>
-* <https://github.com/prometheus-operator/kube-prometheus>
+* <https://hub.docker.com/r/cloudflare/cloudflared>
 
 ## Requirements
 
@@ -24,8 +23,6 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://charts.bitnami.com/bitnami | kube-state-metrics | 3.1.1 |
-| https://charts.bitnami.com/bitnami | node-exporter | 3.0.4 |
 | https://library-charts.truecharts.org | common | 10.4.4 |
 
 ## Installing the Chart
@@ -36,12 +33,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `prometheus`
+To install the chart with the release name `cloudflared`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install prometheus TrueCharts/prometheus
+helm install cloudflared TrueCharts/cloudflared
 ```
 
 ## Uninstall
@@ -54,10 +51,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `prometheus` deployment
+To uninstall the `cloudflared` deployment
 
 ```console
-helm uninstall prometheus
+helm uninstall cloudflared
 ```
 
 ## Configuration
@@ -74,9 +71,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install prometheus \
+helm install cloudflared \
   --set env.TZ="America/New York" \
-    TrueCharts/prometheus
+    TrueCharts/cloudflared
 ```
 
 #### Configure using a yaml file
@@ -84,7 +81,7 @@ helm install prometheus \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install prometheus TrueCharts/prometheus -f values.yaml
+helm install cloudflared TrueCharts/cloudflared -f values.yaml
 ```
 
 #### Connecting to other apps
