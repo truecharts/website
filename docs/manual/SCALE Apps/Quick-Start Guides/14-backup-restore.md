@@ -1,5 +1,9 @@
 # 14 - Backup and Restore
 
+:::caution Truetool BASH Update
+
+This guide has been written for the older version of `TrueTool` and the instructions below are out of date. Please refer to the GitHub page for [Truetool](https://github.com/truecharts/truetool) to follow the commands and instructions below. 
+
 ## Requirements
 
 This guide makes use of our command-line tool, called `TrueTool`.
