@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [lancache-monolithic-0.0.10](https://github.com/truecharts/apps/compare/lancache-monolithic-0.0.9...lancache-monolithic-0.0.10) (2022-07-22)
+
+### Chore
+
+- update image refs ([#3261](https://github.com/truecharts/apps/issues/3261))
+
+
+
+## [lancache-monolithic-0.0.9](https://github.com/truecharts/apps/compare/lancache-monolithic-0.0.8...lancache-monolithic-0.0.9) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [lancache-monolithic-0.0.8](https://github.com/truecharts/apps/compare/lancache-monolithic-0.0.7...lancache-monolithic-0.0.8) (2022-07-14)
 
 ### Fix
