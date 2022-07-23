@@ -1,20 +1,20 @@
-# putty
+# avidemux
 
-![Version: 0.0.15](https://img.shields.io/badge/Version-0.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.0](https://img.shields.io/badge/AppVersion-1.4.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.0](https://img.shields.io/badge/AppVersion-1.4.0-informational?style=flat-square)
 
-PuTTY is a free and open-source terminal emulator, serial console and network file transfer application.
+Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [putty](https://truecharts.org/docs/charts/stable/putty)
+For more information, please click here: [avidemux](https://truecharts.org/docs/charts/stable/avidemux)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/jlesage/docker-putty>
-* <https://hub.docker.com/r/jlesage/putty/>
+* <https://github.com/jlesage/docker-avidemux>
+* <https://hub.docker.com/r/jlesage/avidemux/>
 
 ## Requirements
 
@@ -34,12 +34,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `putty`
+To install the chart with the release name `avidemux`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install putty TrueCharts/putty
+helm install avidemux TrueCharts/avidemux
 ```
 
 ## Uninstall
@@ -52,10 +52,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `putty` deployment
+To uninstall the `avidemux` deployment
 
 ```console
-helm uninstall putty
+helm uninstall avidemux
 ```
 
 ## Configuration
@@ -72,9 +72,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install putty \
+helm install avidemux \
   --set env.TZ="America/New York" \
-    TrueCharts/putty
+    TrueCharts/avidemux
 ```
 
 #### Configure using a yaml file
@@ -82,7 +82,7 @@ helm install putty \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install putty TrueCharts/putty -f values.yaml
+helm install avidemux TrueCharts/avidemux -f values.yaml
 ```
 
 #### Connecting to other apps

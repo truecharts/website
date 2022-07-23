@@ -1,19 +1,20 @@
-# theme-park
+# filebot
 
-![Version: 1.0.24](https://img.shields.io/badge/Version-1.0.24-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.9](https://img.shields.io/badge/AppVersion-1.9.9-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.14.1](https://img.shields.io/badge/AppVersion-1.14.1-informational?style=flat-square)
 
-Custom themes for your favorite apps!
+FileBot is the ultimate tool for organizing and renaming your movies, tv shows or anime, and music well as downloading subtitles and artwork. It's smart and just works.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [theme-park](https://truecharts.org/docs/charts/stable/theme-park)
+For more information, please click here: [filebot](https://truecharts.org/docs/charts/stable/filebot)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/gilbn/theme.park>
+* <https://github.com/jlesage/docker-filebot>
+* <https://hub.docker.com/r/jlesage/filebot/>
 
 ## Requirements
 
@@ -33,12 +34,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `theme-park`
+To install the chart with the release name `filebot`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install theme-park TrueCharts/theme-park
+helm install filebot TrueCharts/filebot
 ```
 
 ## Uninstall
@@ -51,10 +52,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `theme-park` deployment
+To uninstall the `filebot` deployment
 
 ```console
-helm uninstall theme-park
+helm uninstall filebot
 ```
 
 ## Configuration
@@ -71,9 +72,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install theme-park \
+helm install filebot \
   --set env.TZ="America/New York" \
-    TrueCharts/theme-park
+    TrueCharts/filebot
 ```
 
 #### Configure using a yaml file
@@ -81,7 +82,7 @@ helm install theme-park \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install theme-park TrueCharts/theme-park -f values.yaml
+helm install filebot TrueCharts/filebot -f values.yaml
 ```
 
 #### Connecting to other apps

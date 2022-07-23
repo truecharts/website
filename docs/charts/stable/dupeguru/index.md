@@ -1,20 +1,20 @@
-# filebot
+# dupeguru
 
-![Version: 0.0.15](https://img.shields.io/badge/Version-0.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.14.1](https://img.shields.io/badge/AppVersion-1.14.1-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.13.0](https://img.shields.io/badge/AppVersion-1.13.0-informational?style=flat-square)
 
-FileBot is the ultimate tool for organizing and renaming your movies, tv shows or anime, and music well as downloading subtitles and artwork. It's smart and just works.
+dupeGuru is a tool to find duplicate files on your computer. It can scan either filenames or contents.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [filebot](https://truecharts.org/docs/charts/stable/filebot)
+For more information, please click here: [dupeguru](https://truecharts.org/docs/charts/stable/dupeguru)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/jlesage/docker-filebot>
-* <https://hub.docker.com/r/jlesage/filebot/>
+* <https://github.com/jlesage/docker-dupeguru>
+* <https://hub.docker.com/r/jlesage/dupeguru/>
 
 ## Requirements
 
@@ -34,12 +34,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `filebot`
+To install the chart with the release name `dupeguru`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install filebot TrueCharts/filebot
+helm install dupeguru TrueCharts/dupeguru
 ```
 
 ## Uninstall
@@ -52,10 +52,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `filebot` deployment
+To uninstall the `dupeguru` deployment
 
 ```console
-helm uninstall filebot
+helm uninstall dupeguru
 ```
 
 ## Configuration
@@ -72,9 +72,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install filebot \
+helm install dupeguru \
   --set env.TZ="America/New York" \
-    TrueCharts/filebot
+    TrueCharts/dupeguru
 ```
 
 #### Configure using a yaml file
@@ -82,7 +82,7 @@ helm install filebot \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install filebot TrueCharts/filebot -f values.yaml
+helm install dupeguru TrueCharts/dupeguru -f values.yaml
 ```
 
 #### Connecting to other apps

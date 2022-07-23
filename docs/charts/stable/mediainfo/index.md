@@ -1,20 +1,20 @@
-# dupeguru
+# mediainfo
 
-![Version: 0.0.16](https://img.shields.io/badge/Version-0.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.13.0](https://img.shields.io/badge/AppVersion-1.13.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.0](https://img.shields.io/badge/AppVersion-1.10.0-informational?style=flat-square)
 
-dupeGuru is a tool to find duplicate files on your computer. It can scan either filenames or contents.
+MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [dupeguru](https://truecharts.org/docs/charts/stable/dupeguru)
+For more information, please click here: [mediainfo](https://truecharts.org/docs/charts/stable/mediainfo)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/jlesage/docker-dupeguru>
-* <https://hub.docker.com/r/jlesage/dupeguru/>
+* <https://github.com/jlesage/docker-mediainfo>
+* <https://hub.docker.com/r/jlesage/mediainfo/>
 
 ## Requirements
 
@@ -34,12 +34,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `dupeguru`
+To install the chart with the release name `mediainfo`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install dupeguru TrueCharts/dupeguru
+helm install mediainfo TrueCharts/mediainfo
 ```
 
 ## Uninstall
@@ -52,10 +52,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `dupeguru` deployment
+To uninstall the `mediainfo` deployment
 
 ```console
-helm uninstall dupeguru
+helm uninstall mediainfo
 ```
 
 ## Configuration
@@ -72,9 +72,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install dupeguru \
+helm install mediainfo \
   --set env.TZ="America/New York" \
-    TrueCharts/dupeguru
+    TrueCharts/mediainfo
 ```
 
 #### Configure using a yaml file
@@ -82,7 +82,7 @@ helm install dupeguru \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install dupeguru TrueCharts/dupeguru -f values.yaml
+helm install mediainfo TrueCharts/mediainfo -f values.yaml
 ```
 
 #### Connecting to other apps

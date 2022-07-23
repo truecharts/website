@@ -1,20 +1,19 @@
-# qdirstat
+# theme-park
 
-![Version: 0.0.15](https://img.shields.io/badge/Version-0.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.0](https://img.shields.io/badge/AppVersion-1.5.0-informational?style=flat-square)
+![Version: 2.0.0](https://img.shields.io/badge/Version-2.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.9](https://img.shields.io/badge/AppVersion-1.9.9-informational?style=flat-square)
 
-QDirStat is a graphical application to show where your disk space has gone and to help you to clean it up.
+Custom themes for your favorite apps!
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [qdirstat](https://truecharts.org/docs/charts/stable/qdirstat)
+For more information, please click here: [theme-park](https://truecharts.org/docs/charts/stable/theme-park)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/jlesage/docker-qdirstat>
-* <https://hub.docker.com/r/jlesage/qdirstat/>
+* <https://github.com/gilbn/theme.park>
 
 ## Requirements
 
@@ -34,12 +33,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `qdirstat`
+To install the chart with the release name `theme-park`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install qdirstat TrueCharts/qdirstat
+helm install theme-park TrueCharts/theme-park
 ```
 
 ## Uninstall
@@ -52,10 +51,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `qdirstat` deployment
+To uninstall the `theme-park` deployment
 
 ```console
-helm uninstall qdirstat
+helm uninstall theme-park
 ```
 
 ## Configuration
@@ -72,9 +71,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install qdirstat \
+helm install theme-park \
   --set env.TZ="America/New York" \
-    TrueCharts/qdirstat
+    TrueCharts/theme-park
 ```
 
 #### Configure using a yaml file
@@ -82,7 +81,7 @@ helm install qdirstat \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install qdirstat TrueCharts/qdirstat -f values.yaml
+helm install theme-park TrueCharts/theme-park -f values.yaml
 ```
 
 #### Connecting to other apps

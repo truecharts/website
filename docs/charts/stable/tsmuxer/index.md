@@ -1,20 +1,20 @@
-# mediainfo
+# tsmuxer
 
-![Version: 0.0.15](https://img.shields.io/badge/Version-0.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.0](https://img.shields.io/badge/AppVersion-1.10.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.1](https://img.shields.io/badge/AppVersion-1.5.1-informational?style=flat-square)
 
-MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
+tsMuxer is a Transport Stream muxer.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [mediainfo](https://truecharts.org/docs/charts/stable/mediainfo)
+For more information, please click here: [tsmuxer](https://truecharts.org/docs/charts/stable/tsmuxer)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/jlesage/docker-mediainfo>
-* <https://hub.docker.com/r/jlesage/mediainfo/>
+* <https://github.com/jlesage/docker-tsmuxer>
+* <https://hub.docker.com/r/jlesage/tsmuxer/>
 
 ## Requirements
 
@@ -34,12 +34,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `mediainfo`
+To install the chart with the release name `tsmuxer`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install mediainfo TrueCharts/mediainfo
+helm install tsmuxer TrueCharts/tsmuxer
 ```
 
 ## Uninstall
@@ -52,10 +52,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `mediainfo` deployment
+To uninstall the `tsmuxer` deployment
 
 ```console
-helm uninstall mediainfo
+helm uninstall tsmuxer
 ```
 
 ## Configuration
@@ -72,9 +72,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install mediainfo \
+helm install tsmuxer \
   --set env.TZ="America/New York" \
-    TrueCharts/mediainfo
+    TrueCharts/tsmuxer
 ```
 
 #### Configure using a yaml file
@@ -82,7 +82,7 @@ helm install mediainfo \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install mediainfo TrueCharts/mediainfo -f values.yaml
+helm install tsmuxer TrueCharts/tsmuxer -f values.yaml
 ```
 
 #### Connecting to other apps

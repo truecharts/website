@@ -1,20 +1,20 @@
-# mkvcleaver
+# putty
 
-![Version: 0.0.15](https://img.shields.io/badge/Version-0.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.0](https://img.shields.io/badge/AppVersion-1.3.0-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.0](https://img.shields.io/badge/AppVersion-1.4.0-informational?style=flat-square)
 
-MKVCleaver is a tool for batch extraction of data from MKV files
+PuTTY is a free and open-source terminal emulator, serial console and network file transfer application.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [mkvcleaver](https://truecharts.org/docs/charts/stable/mkvcleaver)
+For more information, please click here: [putty](https://truecharts.org/docs/charts/stable/putty)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/jlesage/docker-mkvcleaver>
-* <https://hub.docker.com/r/jlesage/mkvcleaver/>
+* <https://github.com/jlesage/docker-putty>
+* <https://hub.docker.com/r/jlesage/putty/>
 
 ## Requirements
 
@@ -34,12 +34,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `mkvcleaver`
+To install the chart with the release name `putty`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install mkvcleaver TrueCharts/mkvcleaver
+helm install putty TrueCharts/putty
 ```
 
 ## Uninstall
@@ -52,10 +52,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `mkvcleaver` deployment
+To uninstall the `putty` deployment
 
 ```console
-helm uninstall mkvcleaver
+helm uninstall putty
 ```
 
 ## Configuration
@@ -72,9 +72,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install mkvcleaver \
+helm install putty \
   --set env.TZ="America/New York" \
-    TrueCharts/mkvcleaver
+    TrueCharts/putty
 ```
 
 #### Configure using a yaml file
@@ -82,7 +82,7 @@ helm install mkvcleaver \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install mkvcleaver TrueCharts/mkvcleaver -f values.yaml
+helm install putty TrueCharts/putty -f values.yaml
 ```
 
 #### Connecting to other apps
