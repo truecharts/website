@@ -1,6 +1,24 @@
 # Changelog
 
 
+
+## [czkawka-0.0.15](https://github.com/truecharts/apps/compare/czkawka-0.0.13...czkawka-0.0.15) (2022-07-22)
+
+### Chore
+
+- Bump all charts to generate config and container references due to huge increase of repository
+  - update helm general non-major helm releases ([#3268](https://github.com/truecharts/apps/issues/3268))
+
+
+
+## [czkawka-0.0.13](https://github.com/truecharts/apps/compare/czkawka-0.0.12...czkawka-0.0.13) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [czkawka-0.0.12](https://github.com/truecharts/apps/compare/czkawka-0.0.11...czkawka-0.0.12) (2022-07-14)
 
 ### Fix

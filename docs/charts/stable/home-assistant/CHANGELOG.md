@@ -1,6 +1,25 @@
 # Changelog
 
 
+
+## [home-assistant-15.0.30](https://github.com/truecharts/apps/compare/home-assistant-15.0.28...home-assistant-15.0.30) (2022-07-22)
+
+### Chore
+
+- Bump all charts to generate config and container references due to huge increase of repository
+  - update helm general non-major helm releases ([#3268](https://github.com/truecharts/apps/issues/3268))
+  - update docker general non-major ([#3266](https://github.com/truecharts/apps/issues/3266))
+
+
+
+## [home-assistant-15.0.28](https://github.com/truecharts/apps/compare/home-assistant-15.0.27...home-assistant-15.0.28) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [home-assistant-15.0.27](https://github.com/truecharts/apps/compare/home-assistant-15.0.26...home-assistant-15.0.27) (2022-07-16)
 
 ### Chore

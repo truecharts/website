@@ -1,19 +1,19 @@
 # adguard-home
 
-![Version: 0.0.5](https://img.shields.io/badge/Version-0.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 1.0.23](https://img.shields.io/badge/Version-1.0.23-informational?style=flat-square) ![AppVersion: 0.107.8](https://img.shields.io/badge/AppVersion-0.107.8-informational?style=flat-square)
 
-AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, it’ll cover ALL your home devices, and you don’t need any client-side software for that. With the rise of Internet-Of-Things and connected devices, it becomes more and more important to be able to control your whole network.
+Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [adguard-home](https://truecharts.org/charts/stable/adguard-home)
+For more information, please click here: [adguard-home](https://truecharts.org/docs/charts/stable/adguard-home)
 
-**This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/apps/issues/new/choose)**
+**This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://registry.hub.docker.com/r/adguard/adguardhome>
+* <https://hub.docker.com/r/adguard/adguardhome>
 
 ## Requirements
 
@@ -23,13 +23,13 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://library-charts.truecharts.org | common | 9.3.3 |
+| https://library-charts.truecharts.org | common | 10.4.6 |
 
 ## Installing the Chart
 
 ### TrueNAS SCALE
 
-To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truecharts.org/manual/Quick-Start%20Guides/02-Installing-an-App/).
+To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truecharts.org/docs/manual/Quick-Start%20Guides/02-Installing-an-App/).
 
 ### Helm
 
@@ -47,7 +47,7 @@ helm install adguard-home TrueCharts/adguard-home
 
 **Upgrading, Rolling Back and Uninstalling the Chart**
 
-To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Start Guide](https://truecharts.org/manual/Quick-Start%20Guides/04-Upgrade-rollback-delete-an-App/).
+To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Start Guide](https://truecharts.org/docs/manual/Quick-Start%20Guides/04-Upgrade-rollback-delete-an-App/).
 
 ### Helm
 
@@ -86,7 +86,7 @@ helm install adguard-home TrueCharts/adguard-home -f values.yaml
 
 #### Connecting to other apps
 
-If you need to connect this App to other Apps on TrueNAS SCALE, please refer to our [Linking Apps Internally](https://truecharts.org/manual/Quick-Start%20Guides/06-linking-apps/) quick-start guide.
+If you need to connect this App to other Apps on TrueNAS SCALE, please refer to our [Linking Apps Internally](https://truecharts.org/docs/manual/Quick-Start%20Guides/06-linking-apps/) quick-start guide.
 
 ## Support
 

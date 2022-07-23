@@ -1,6 +1,24 @@
 # Changelog
 
 
+
+## [senseai-server-0.0.19](https://github.com/truecharts/apps/compare/senseai-server-0.0.17...senseai-server-0.0.19) (2022-07-22)
+
+### Chore
+
+- Bump all charts to generate config and container references due to huge increase of repository
+  - update helm general non-major helm releases ([#3268](https://github.com/truecharts/apps/issues/3268))
+
+
+
+## [senseai-server-0.0.17](https://github.com/truecharts/apps/compare/senseai-server-0.0.16...senseai-server-0.0.17) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [senseai-server-0.0.16](https://github.com/truecharts/apps/compare/senseai-server-0.0.15...senseai-server-0.0.16) (2022-07-14)
 
 ### Fix

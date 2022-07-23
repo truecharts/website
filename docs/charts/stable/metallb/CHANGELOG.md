@@ -1,6 +1,24 @@
 # Changelog
 
 
+
+## [metallb-2.0.14](https://github.com/truecharts/apps/compare/metallb-2.0.12...metallb-2.0.14) (2022-07-22)
+
+### Chore
+
+- Bump all charts to generate config and container references due to huge increase of repository
+  - update helm general non-major helm releases ([#3268](https://github.com/truecharts/apps/issues/3268))
+
+
+
+## [metallb-2.0.12](https://github.com/truecharts/apps/compare/metallb-2.0.11...metallb-2.0.12) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [metallb-2.0.11](https://github.com/truecharts/apps/compare/metallb-2.0.10...metallb-2.0.11) (2022-07-14)
 
 ### Fix

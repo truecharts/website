@@ -1,6 +1,24 @@
 # Changelog
 
 
+
+## [fancyindex-1.0.20](https://github.com/truecharts/apps/compare/fancyindex-1.0.18...fancyindex-1.0.20) (2022-07-22)
+
+### Chore
+
+- Bump all charts to generate config and container references due to huge increase of repository
+  - update helm general non-major helm releases ([#3268](https://github.com/truecharts/apps/issues/3268))
+
+
+
+## [fancyindex-1.0.18](https://github.com/truecharts/apps/compare/fancyindex-1.0.17...fancyindex-1.0.18) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [fancyindex-1.0.17](https://github.com/truecharts/apps/compare/fancyindex-1.0.16...fancyindex-1.0.17) (2022-07-14)
 
 ### Fix

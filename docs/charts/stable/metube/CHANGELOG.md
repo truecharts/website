@@ -1,6 +1,24 @@
 # Changelog
 
 
+
+## [metube-2.0.20](https://github.com/truecharts/apps/compare/metube-2.0.18...metube-2.0.20) (2022-07-22)
+
+### Chore
+
+- Bump all charts to generate config and container references due to huge increase of repository
+  - update helm general non-major helm releases ([#3268](https://github.com/truecharts/apps/issues/3268))
+
+
+
+## [metube-2.0.18](https://github.com/truecharts/apps/compare/metube-2.0.17...metube-2.0.18) (2022-07-19)
+
+### Chore
+
+- Update Readme and Description on SCALE
+
+
+
 ## [metube-2.0.17](https://github.com/truecharts/apps/compare/metube-2.0.16...metube-2.0.17) (2022-07-14)
 
 ### Fix
