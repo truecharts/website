@@ -1,21 +1,20 @@
-# traefik
+# ts3-manager
 
-![Version: 13.1.7](https://img.shields.io/badge/Version-13.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.1](https://img.shields.io/badge/AppVersion-2.8.1-informational?style=flat-square)
+![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.0](https://img.shields.io/badge/AppVersion-2.2.0-informational?style=flat-square)
 
-Traefik is a flexible reverse proxy and Ingress Provider.
+A modern web interface for maintaining Teamspeak3 servers.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [traefik](https://truecharts.org/docs/charts/stable/traefik)
+For more information, please click here: [ts3-manager](https://truecharts.org/docs/charts/stable/ts3-manager)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/traefik/traefik>
-* <https://github.com/traefik/traefik-helm-chart>
-* <https://traefik.io/>
+* <https://hub.docker.com/r/joni1802/ts3-manager/>
+* <https://github.com/joni1802/ts3-manager/>
 
 ## Requirements
 
@@ -35,12 +34,12 @@ To install this App on TrueNAS SCALE check our [Quick-Start Guide](https://truec
 
 ### Helm
 
-To install the chart with the release name `traefik`
+To install the chart with the release name `ts3-manager`
 
 ```console
 helm repo add TrueCharts https://helm.truecharts.org
 helm repo update
-helm install traefik TrueCharts/traefik
+helm install ts3-manager TrueCharts/ts3-manager
 ```
 
 ## Uninstall
@@ -53,10 +52,10 @@ To upgrade, rollback or delete this App from TrueNAS SCALE check our [Quick-Star
 
 ### Helm
 
-To uninstall the `traefik` deployment
+To uninstall the `ts3-manager` deployment
 
 ```console
-helm uninstall traefik
+helm uninstall ts3-manager
 ```
 
 ## Configuration
@@ -73,9 +72,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install traefik \
+helm install ts3-manager \
   --set env.TZ="America/New York" \
-    TrueCharts/traefik
+    TrueCharts/ts3-manager
 ```
 
 #### Configure using a yaml file
@@ -83,7 +82,7 @@ helm install traefik \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install traefik TrueCharts/traefik -f values.yaml
+helm install ts3-manager TrueCharts/ts3-manager -f values.yaml
 ```
 
 #### Connecting to other apps
