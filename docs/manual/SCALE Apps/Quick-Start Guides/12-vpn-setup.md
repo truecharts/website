@@ -103,7 +103,6 @@ The next step enable the addon in our edit configuration
     5. Check "Enable Killswitch"
         - Click ```Add``` Next to ```Configure Killswitch Excluded IPv4 networks```
         - Click ```Add``` For EACH network.
-        - ```172.16.0.0/16``` is the default Kubernetes Network, you want this in your killswitch so kubernetes can still communicate with the application
         - ```192.168.0.0/24``` is my personal LAN, this needs to be in there so YOU can communicate with the container
     6. Finally, Add the filepath where you saved your modified configuration file
         - EX: ```/mnt/speed/vpn/wireguard/jackett2.conf```
