@@ -5,7 +5,7 @@ module.exports = {
   onboarding: false,
   platform: 'github',
   repositories: [
-    'truecharts/new-pub',
+    'truecharts/website',
   ],
   packageRules: [
     {
