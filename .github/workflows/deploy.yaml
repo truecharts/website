@@ -13,14 +13,10 @@ jobs:
     name: Deploy to GitHub Pages
     runs-on: ["self-hosted", "website-release-runner"]
     steps:
-      - uses: borales/actions-yarn@v3.0.0
-        with:
-          cmd: install # will run `yarn install` command
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: yarn
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
