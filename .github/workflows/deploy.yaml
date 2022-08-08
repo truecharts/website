@@ -11,7 +11,7 @@ on:
 jobs:
   deploy:
     name: Deploy to GitHub Pages
-    runs-on: ["self-hosted", "website-release-runner"]
+    #runs-on: ["self-hosted", "website-release-runner"]
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
