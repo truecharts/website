@@ -2,6 +2,24 @@
 
 
 
+## [mymediaforalexa-1.0.0](https://github.com/truecharts/charts/compare/mymediaforalexa-0.0.4...mymediaforalexa-1.0.0) (2022-08-12)
+
+### Fix
+
+- moved to stable and mod docs ([#3423](https://github.com/truecharts/charts/issues/3423))
+
+
+
+
+## [mymediaforalexa-0.0.4](https://github.com/truecharts/charts/compare/mymediaforalexa-0.0.3...mymediaforalexa-0.0.4) (2022-08-10)
+
+### Chore
+
+- update docker general non-major ([#3421](https://github.com/truecharts/charts/issues/3421))
+
+
+
+
 ## [mymediaforalexa-0.0.4](https://github.com/truecharts/charts/compare/mymediaforalexa-0.0.3...mymediaforalexa-0.0.4) (2022-08-10)
 
 ### Chore
