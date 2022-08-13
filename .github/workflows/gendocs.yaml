@@ -148,7 +148,22 @@ jobs:
           parthreads=$(($(nproc) * 2))
           parallel -j ${parthreads} copy_docs '2>&1' ::: charts/charts/**/*
 
+      - name: Copy Single File Docs
+        shell: bash
+        run: |
+          copy_single_doc() {
+            local docsource="$1"
+            local doctarget="$2"
+            local dirtarget="$(dirname "$doctarget")
 
+            if [ -d "${dirtarget}" ]; then
+              cp -f "$docsource" "$doctarget" || true
+            else
+              echo "Cannot copy support doc, <$dirtarget> does not exist on website..."
+            }
+          export -f copy_single_doc
+
+          copy_support_doc "charts/.github/SUPPORT.md" "website/docs/manual/SUPPORT.md"
 
       - name: Create commit
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
