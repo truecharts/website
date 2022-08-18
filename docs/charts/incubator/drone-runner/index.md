@@ -1,20 +1,20 @@
-# plex
+# drone-runner
 
-![Version: 10.1.0](https://img.shields.io/badge/Version-10.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.28.0.599](https://img.shields.io/badge/AppVersion-1.28.0.599-informational?style=flat-square)
+![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
-Plex Media Server
+Drone by Harness™ is a modern Continuous Integration platform
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [plex](https://truecharts.org/docs/charts/stable/plex)
+For more information, please click here: [drone-runner](https://truecharts.org/docs/charts/stable/drone-runner)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/stable/plex>
-* <https://github.com/k8s-at-home/container-images/pkgs/container/plex>
+* <https://github.com/truecharts/charts/tree/master/charts/incubator/drone-runner>
+* <https://docs.drone.io>
 
 ## Requirements
 
@@ -34,12 +34,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `plex`
+To install the chart with the release name `drone-runner`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install plex TrueCharts/plex
+helm install drone-runner TrueCharts/drone-runner
 ```
 
 ## Uninstall
@@ -52,10 +52,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `plex` deployment
+To uninstall the `drone-runner` deployment
 
 ```console
-helm uninstall plex
+helm uninstall drone-runner
 ```
 
 ## Configuration
@@ -72,9 +72,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install plex \
+helm install drone-runner \
   --set env.TZ="America/New York" \
-    TrueCharts/plex
+    TrueCharts/drone-runner
 ```
 
 #### Configure using a yaml file
@@ -82,7 +82,7 @@ helm install plex \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install plex TrueCharts/plex -f values.yaml
+helm install drone-runner TrueCharts/drone-runner -f values.yaml
 ```
 
 #### Connecting to other charts
