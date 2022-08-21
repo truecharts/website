@@ -1,7 +1,7 @@
 # 00 - IMPORTANT: Must Read!
 
 All guides under this section are made for TrueNAS SCALE.
-We do **NOT** control anything made by iX-Systems, no mater how great or shitty it is.
+We do **NOT** control anything made by iX-Systems, no matter how great or shitty it is.
 
 More specifically we have no control **AT ALL** about the following:
 

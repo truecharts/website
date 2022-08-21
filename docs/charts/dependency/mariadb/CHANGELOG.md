@@ -2,6 +2,25 @@
 
 
 
+## [mariadb-3.0.57](https://github.com/truecharts/charts/compare/mariadb-3.0.56...mariadb-3.0.57) (2022-08-20)
+
+### Chore
+
+- update docker general non-major docker tags ([#3518](https://github.com/truecharts/charts/issues/3518))
+
+
+
+
+## [mariadb-3.0.56](https://github.com/truecharts/charts/compare/mariadb-3.0.54...mariadb-3.0.56) (2022-08-17)
+
+### Chore
+
+- update helm chart common to v10.4.13
+  - update docker general non-major ([#3478](https://github.com/truecharts/charts/issues/3478))
+
+
+
+
 ## [mariadb-3.0.54](https://github.com/truecharts/charts/compare/mariadb-3.0.53...mariadb-3.0.54) (2022-08-12)
 
 ### Chore

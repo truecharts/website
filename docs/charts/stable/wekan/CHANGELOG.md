@@ -2,6 +2,25 @@
 
 
 
+## [wekan-4.0.36](https://github.com/truecharts/charts/compare/wekan-4.0.35...wekan-4.0.36) (2022-08-19)
+
+### Chore
+
+- update docker general non-major docker tags ([#3512](https://github.com/truecharts/charts/issues/3512))
+
+
+
+
+## [wekan-4.0.35](https://github.com/truecharts/charts/compare/wekan-4.0.34...wekan-4.0.35) (2022-08-17)
+
+### Chore
+
+- update helm general non-major helm releases ([#3484](https://github.com/truecharts/charts/issues/3484))
+  - update docker general non-major ([#3478](https://github.com/truecharts/charts/issues/3478))
+
+
+
+
 ## [wekan-4.0.34](https://github.com/truecharts/charts/compare/wekan-4.0.33...wekan-4.0.34) (2022-08-14)
 
 ### Chore

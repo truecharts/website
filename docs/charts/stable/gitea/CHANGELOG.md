@@ -2,6 +2,24 @@
 
 
 
+## [gitea-9.0.6](https://github.com/truecharts/charts/compare/gitea-9.0.5...gitea-9.0.6) (2022-08-20)
+
+### Chore
+
+- update docker general non-major docker tags ([#3518](https://github.com/truecharts/charts/issues/3518))
+
+
+
+
+## [gitea-9.0.5](https://github.com/truecharts/charts/compare/gitea-9.0.4...gitea-9.0.5) (2022-08-17)
+
+### Chore
+
+- update helm general non-major helm releases ([#3484](https://github.com/truecharts/charts/issues/3484))
+
+
+
+
 ## [gitea-9.0.4](https://github.com/truecharts/charts/compare/gitea-9.0.3...gitea-9.0.4) (2022-08-13)
 
 ### Fix

@@ -2,6 +2,42 @@
 
 
 
+## [cyberchef-2.0.61](https://github.com/truecharts/charts/compare/cyberchef-2.0.60...cyberchef-2.0.61) (2022-08-21)
+
+### Chore
+
+- update docker general non-major docker tags ([#3523](https://github.com/truecharts/charts/issues/3523))
+
+
+
+
+## [cyberchef-2.0.60](https://github.com/truecharts/charts/compare/cyberchef-2.0.59...cyberchef-2.0.60) (2022-08-20)
+
+### Chore
+
+- update docker general non-major docker tags ([#3518](https://github.com/truecharts/charts/issues/3518))
+
+
+
+
+## [cyberchef-2.0.59](https://github.com/truecharts/charts/compare/cyberchef-2.0.58...cyberchef-2.0.59) (2022-08-18)
+
+### Chore
+
+- update docker general non-major ([#3503](https://github.com/truecharts/charts/issues/3503))
+
+
+
+
+## [cyberchef-2.0.58](https://github.com/truecharts/charts/compare/cyberchef-2.0.57...cyberchef-2.0.58) (2022-08-17)
+
+### Chore
+
+- update docker general non-major ([#3478](https://github.com/truecharts/charts/issues/3478))
+
+
+
+
 ## [cyberchef-2.0.57](https://github.com/truecharts/charts/compare/cyberchef-2.0.56...cyberchef-2.0.57) (2022-08-14)
 
 ### Chore
