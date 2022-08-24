@@ -163,6 +163,7 @@ jobs:
             fi;
             }
           export -f copy_single_doc
+          copy_support_doc "charts/.github/docs/FAQ.md" "website/docs/manual/FAQ.md"
           copy_support_doc "charts/.github/SUPPORT.md" "website/docs/manual/SUPPORT.md"
 
       - name: Create commit
