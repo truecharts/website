@@ -157,6 +157,20 @@ jobs:
             local doctarget="$2"
             local dirtarget
             dirtarget="$(dirname "${doctarget}")"
+
+            echo "pwd: ${pwd}"
+            echo "file list:"
+            ls -la  
+
+            echo "ls charts"
+            ls -la charts
+
+            echo "ls website"
+            ls -la website
+            
+            echo "dirtarget: $dirtarget"
+
+
             if [ -d "${dirtarget}" ]; then
               echo "Copying $docsource to $doctarget ..."
               cp -f "$docsource" "$doctarget" || true
