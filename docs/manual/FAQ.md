@@ -6,6 +6,12 @@ We recommend using PVC for `config` storage, because it allows easily to rollbac
 in case of a failed update. Also it's worth mentioning that is the only storage option for `config`
 we can offer active support at the time. You can of course use host path for your `media` files.
 
+## How can I access data inside PVC?
+
+You can use [truetool](https://github.com/truecharts/truetool) and mount the PVC and un-mount once you finish.
+Use your prefered editor/explorer to do any changes you want.
+You need to make sure permissions stay the same, or the app might not be able to access the files.
+
 ## Do we support ACL's for HostPath storage?
 
 While it technically is perfectly possible for *most* Charts/Apps,
@@ -22,6 +28,10 @@ Few example are:
 - Nextcloud
 - Monica
 - Recipes
+
+## Can I use another Load Balancer in front of traefik?
+
+Technically, yes you can. But keep in mind this is out of our support scope.
 
 ## Do we support other proxies and LoadBalancers in front of Traefik?
 
@@ -94,3 +104,8 @@ You most likely will have to reach to the upstream support channels for that.
 
 Don't use $ in your passwords, it won't work due to an upstream
 [bug](https://github.com/dperson/openvpn-client/issues/376) in OpenVPN container.
+
+## Why does an beta-only container is in stable train?
+
+Stable train means that our **chart** is stable, not the container.
+But if container is very buggy and/or constantly pushing breaking changes, our chart will move back to incubator until this is changed.
