@@ -158,21 +158,6 @@ jobs:
             local dirtarget
             dirtarget="$(dirname "${doctarget}")"
 
-            echo "pwd: $(pwd)"
-            echo "file list:"
-            ls -la  
-
-            echo "ls charts"
-            ls -la charts
-
-            echo "ls website"
-            ls -la website
-            
-            echo "dirtarget: $dirtarget"
-
-            echo "support.md before:"
-            cat website/docs/manual/SUPPORT.md
-
             if [ -d "${dirtarget}" ]; then
               echo "Copying $docsource to $doctarget ..."
               cp -f "$docsource" "$doctarget" || true
@@ -183,8 +168,6 @@ jobs:
           export -f copy_single_doc
 
           copy_single_doc "charts/.github/SUPPORT.md" "website/docs/manual/SUPPORT.md"
-          echo "support.md after:"
-          cat website/docs/manual/SUPPORT.md
 
       - name: Create commit
         uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
