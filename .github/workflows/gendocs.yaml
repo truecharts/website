@@ -154,12 +154,13 @@ jobs:
           copy_single_doc() {
             local docsource="$1"
             local doctarget="$2"
-            local dirtarget="$(dirname "$doctarget")
-
+            local dirtarget
+            dirtarget="$(dirname "${doctarget}")"
             if [ -d "${dirtarget}" ]; then
               cp -f "$docsource" "$doctarget" || true
             else
               echo "Cannot copy support doc, <$dirtarget> does not exist on website..."
+            fi;
             }
           export -f copy_single_doc
 
