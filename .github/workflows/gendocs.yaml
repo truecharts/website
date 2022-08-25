@@ -158,9 +158,10 @@ jobs:
             local dirtarget
             dirtarget="$(dirname "${doctarget}")"
             if [ -d "${dirtarget}" ]; then
+              echo "Copying $docsource to $doctarget ..."
               cp -f "$docsource" "$doctarget" || true
             else
-              echo "Cannot copy support doc, <$dirtarget> does not exist on website..."
+              echo "Cannot copy doc file, <$dirtarget> does not exist on website..."
             fi;
             }
           export -f copy_single_doc
