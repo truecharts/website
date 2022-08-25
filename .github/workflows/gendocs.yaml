@@ -4,8 +4,8 @@ concurrency:
   group: gen-docs
 on: # yamllint disable-line rule:truthy
   workflow_dispatch:
-  #schedule:
-  #  - cron: "0 3 * * *"
+  schedule:
+    - cron: "0 3 * * *"
 
 
 jobs:
@@ -146,7 +146,8 @@ jobs:
            export -f copy_docs
 
           parthreads=$(($(nproc) * 2))
-          parallel -j ${parthreads} copy_docs '2>&1' ::: charts/charts/**/*
+          ## Disabled due to overloading the website (OOM issues)
+          # parallel -j ${parthreads} copy_docs '2>&1' ::: charts/charts/**/*
 
       - name: Copy Single File Docs
         shell: bash
