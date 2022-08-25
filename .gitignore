@@ -21,3 +21,6 @@ yarn-error.log*
 
 # Folder to mounts apps repo on
 /charts
+
+# Folder to mounts container repo on
+/containers
