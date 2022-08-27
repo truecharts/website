@@ -1,22 +1,21 @@
-# traefik
+# docusaurus
 
-![Version: 13.3.0](https://img.shields.io/badge/Version-13.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.3](https://img.shields.io/badge/AppVersion-2.8.3-informational?style=flat-square)
+![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
-Traefik is a flexible reverse proxy and Ingress Provider.
+Docusaurus makes it easy to maintain Open Source documentation websites.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [traefik](https://truecharts.org/docs/charts/stable/traefik)
+For more information, please click here: [docusaurus](https://truecharts.org/docs/charts/incubator/docusaurus)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/stable/traefik>
-* <https://github.com/traefik/traefik>
-* <https://github.com/traefik/traefik-helm-chart>
-* <https://traefik.io/>
+* <https://github.com/truecharts/charts/tree/master/charts/incubator/docusaurus>
+* <https://hub.docker.com/r/awesometic/docusaurus>
+* <https://github.com/awesometic/docker-docusaurus>
 
 ## Requirements
 
@@ -36,12 +35,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `traefik`
+To install the chart with the release name `docusaurus`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install traefik TrueCharts/traefik
+helm install docusaurus TrueCharts/docusaurus
 ```
 
 ## Uninstall
@@ -54,10 +53,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `traefik` deployment
+To uninstall the `docusaurus` deployment
 
 ```console
-helm uninstall traefik
+helm uninstall docusaurus
 ```
 
 ## Configuration
@@ -74,9 +73,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install traefik \
+helm install docusaurus \
   --set env.TZ="America/New York" \
-    TrueCharts/traefik
+    TrueCharts/docusaurus
 ```
 
 #### Configure using a yaml file
@@ -84,7 +83,7 @@ helm install traefik \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install traefik TrueCharts/traefik -f values.yaml
+helm install docusaurus TrueCharts/docusaurus -f values.yaml
 ```
 
 #### Connecting to other charts
