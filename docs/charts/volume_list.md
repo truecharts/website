@@ -760,6 +760,7 @@ The intro needs improvement ;)
 |dns-doh-companion              |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |docker-hub-rss                 |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |dockerregistry                 |datastoragepath            |PVC     |-            |/var/lib/registry                                |Read/Write|Enabled                |
+|docusaurus                     |config                     |PVC     |-            |/docusaurus                                      |Read/Write|Enabled                |
 |dontstarvetogether             |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |dontstarvetogether             |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |dontstarvetogether             |token                      |PVC     |-            |/serverdata/.klei/DoNotStarveTogether            |Read/Write|Enabled                |
