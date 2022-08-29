@@ -27,9 +27,9 @@ const config = {
     locales: ["en"],
     localeConfigs: {
       en: {
-        htmlLang: "en-GB",
-      },
-    },
+        htmlLang: "en-GB"
+      }
+    }
   },
 
   presets: [
@@ -41,27 +41,27 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/truecharts/website/tree/master/",
+          editUrl: "https://github.com/truecharts/website/tree/master/"
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
-        },
-      }),
-    ],
+          customCss: require.resolve("./src/css/custom.css")
+        }
+      })
+    ]
   ],
   // https://gabrielcsapo.github.io/docusaurus-plugin-image-zoom/docs/getting-started/
   plugins: [require.resolve("docusaurus-plugin-image-zoom"), require.resolve("docusaurus-plugin-google-adsense")],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-	googleAdsense: {
-      dataAdClient: 'ca-pub-9270569596814796',
-    },
+      googleAdsense: {
+        dataAdClient: "ca-pub-9270569596814796"
+      },
       docs: {
         sidebar: {
           autoCollapseCategories: true,
-          hideable: true,
-        },
+          hideable: true
+        }
       },
       zoom: {
         selector: ".markdown :not(em) > img",
@@ -70,46 +70,41 @@ const config = {
           margin: 100,
           background: {
             light: "rgb(255, 255, 255)",
-            dark: "rgb(50, 50, 50)",
-          },
-        },
+            dark: "rgb(50, 50, 50)"
+          }
+        }
       },
       navbar: {
         title: "TrueCharts",
         logo: {
           alt: "TrueCharts logo",
-          src: "img/1024.png",
+          src: "img/1024.png"
         },
         items: [
-          {
-            type: "doc",
-            docId: "about/intro",
-            position: "left",
-            label: "About",
-          },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/sponsor", label: "Sponsor", position: "left" },
           {
             type: "doc",
-            docId: "manual/intro",
+            docId: "docs/intro",
             position: "left",
-            label: "Manual",
+            label: "Docs"
           },
           {
             type: "doc",
             docId: "charts/description_list",
             position: "left",
-            label: "Charts",
+            label: "Charts"
           },
           {
             type: "localeDropdown",
-            position: "right",
+            position: "right"
           },
           {
             href: "https://github.com/truecharts/apps",
             label: "GitHub",
-            position: "right",
-          },
-        ],
+            position: "right"
+          }
+        ]
       },
       footer: {
         style: "dark",
@@ -119,11 +114,11 @@ const config = {
             items: [
               {
                 label: "Twitter",
-                href: "https://twitter.com/useTrueCharts",
+                href: "https://twitter.com/useTrueCharts"
               },
               {
                 label: "Discord",
-                href: "https://discord.gg/tVsPTHWTtr",
+                href: "https://discord.gg/tVsPTHWTtr"
               },
               // {
               //   label: "Facebook",
@@ -131,29 +126,33 @@ const config = {
               // },
               {
                 label: "Telegram",
-                href: "https://t.me/s/truecharts",
-              },
-            ],
+                href: "https://t.me/s/truecharts"
+              }
+            ]
           },
           {
-            title: "More",
+            title: "Legal",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Code of Conduct",
+                href: "https://github.com/legal/code_of_conduct"
               },
               {
-                label: "GitHub",
-                href: "https://github.com/truecharts",
+                label: "Licence",
+                href: "https://github.com/legal/LICENSE"
               },
-            ],
-          },
+              {
+                label: "Apach2-licence",
+                href: "https://github.com/legal/Apach2-licence"
+              }
+            ]
+          }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TrueCharts`,
+        copyright: `Copyright © ${new Date().getFullYear()} TrueCharts`
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        darkTheme: darkCodeTheme
       },
       algolia: {
         // The application ID provided by Algolia
@@ -162,11 +161,11 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: "996ff61cece86950829f65416b941711",
 
-        indexName: "truecharts",
+        indexName: "truecharts"
 
         //... other Algolia params
-      },
-    }),
+      }
+    })
 };
 
 module.exports = config;

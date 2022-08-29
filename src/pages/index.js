@@ -5,6 +5,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import ProgressBar from "@site/src/components/ProgressBar";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -13,15 +14,11 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p className="hero__subtitle">
-          <b>---</b>
-          <br></br>
-          <b>Quick Start:</b>
-        </p>
+        <br></br>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/manual/intro"
+            to="/docs/manual/SCALE%20Apps/Quick-Start%20Guides/Important-MUST-READ"
           >
             TrueNAS SCALE - 5min ⏱️
           </Link>
@@ -31,6 +28,22 @@ function HomepageHeader() {
             to="/docs/manual/intro"
           >
             Helm Charts - 10min ⏱️
+          </Link>
+        </div>
+        <h3>
+          <br></br>
+          <b>---</b>
+          <br></br>
+          <br></br>
+          <br></br>
+          Monthly Funding goal:
+          <br></br>
+        </h3>
+        <ProgressBar bgcolor="#38b856" completed="60" />
+        <br></br>
+        <div className={styles.buttons}>
+          <Link className="button button--secondary button--lg" to="/sponsor">
+            Sponsor TrueCharts
           </Link>
         </div>
       </div>
@@ -43,7 +56,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="TrueCharts: Your source For Helm Charts and TrueNAS SCALE Apps <head />"
     >
       <HomepageHeader />
       <main>
