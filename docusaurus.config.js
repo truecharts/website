@@ -82,10 +82,9 @@ const config = {
         },
         items: [
           { to: "/blog", label: "Blog", position: "left" },
-          { to: "/sponsor", label: "Sponsor", position: "left" },
           {
             type: "doc",
-            docId: "docs/intro",
+            docId: "manual/intro",
             position: "left",
             label: "Docs"
           },
@@ -109,6 +108,15 @@ const config = {
       footer: {
         style: "dark",
         links: [
+			{
+            title: "Other",
+            items: [
+              {
+                label: "FAQ",
+                href: "/manual/FAQ"
+              }
+            ]
+          },
           {
             title: "Community",
             items: [
@@ -120,10 +128,10 @@ const config = {
                 label: "Discord",
                 href: "https://discord.gg/tVsPTHWTtr"
               },
-              // {
-              //   label: "Facebook",
-              //   href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              // },
+              {
+                label: "Facebook",
+                href: "https://www.facebook.com/truecharts",
+              },
               {
                 label: "Telegram",
                 href: "https://t.me/s/truecharts"
@@ -135,15 +143,15 @@ const config = {
             items: [
               {
                 label: "Code of Conduct",
-                href: "https://github.com/legal/code_of_conduct"
+                href: "https://github.com/codeofconduct"
               },
               {
-                label: "Licence",
-                href: "https://github.com/legal/LICENSE"
+                label: "License",
+                href: "https://github.com/LICENSE"
               },
               {
-                label: "Apach2-licence",
-                href: "https://github.com/legal/Apach2-licence"
+                label: "Apach2-license",
+                href: "https://github.com/Apach2-license"
               }
             ]
           }
