@@ -21,7 +21,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/manual/intro"
+            to="/docs/manual/SCALE%20Apps/Quick-Start%20Guides/Important-MUST-READ"
           >
             TrueNAS SCALE - 5min ⏱️
           </Link>
@@ -43,7 +43,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="TrueCharts: Your source For Helm Charts and TrueNAS SCALE Apps <head />"
     >
       <HomepageHeader />
       <main>
