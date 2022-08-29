@@ -212,7 +212,7 @@ The intro needs improvement ;)
 |icinga2                   |ssmtp                 |PVC      |-              |/etc/ssmtp                                           |Read/Write|Enabled                |
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |inventree                 |data                  |PVC      |-              |/home/inventree/data                                 |Read/Write|Enabled                |
-|inventree                 |inventree-config      |custom   |-              |/etc/nginx/nginx.conf                                |Read/Write|Enabled                |
+|inventree                 |inventree-nginx       |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |ipfs                      |data                  |PVC      |-              |/data/ipfs                                           |Read/Write|Enabled                |
 |ipfs                      |staging               |PVC      |-              |/export                                              |Read/Write|Enabled                |
 |ipfs                      |ipfs                  |PVC      |-              |/ipfs                                                |Read/Write|Enabled                |
@@ -408,6 +408,7 @@ The intro needs improvement ;)
 |pixapop                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pixapop                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |plex                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|plex-auto-languages       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |podgrab                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pretend-youre-xyzzy       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |projectsend               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -1022,7 +1023,6 @@ The intro needs improvement ;)
 |pixelserv-tls                  |certficatesdir             |PVC     |-            |/var/cache/pixelserv                             |Read/Write|Enabled                |
 |plausible                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |plaxt                          |hostpathforkeystore        |PVC     |-            |/app/keystore                                    |Read/Write|Enabled                |
-|plex-auto-languages            |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |plex-meta-manager              |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |plex-utills                    |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |plex-utills                    |logs                       |PVC     |-            |/logs                                            |Read/Write|Enabled                |
@@ -1242,6 +1242,7 @@ The intro needs improvement ;)
 |wger                           |wger-config                |custom  |-            |/etc/nginx/conf.d/default.conf                   |Read/Write|Enabled                |
 |whisparr                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |wifi-card                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|wireguard                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |wordle                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |xmrig                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
