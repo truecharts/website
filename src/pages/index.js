@@ -28,7 +28,7 @@ function HomepageHeader() {
           <Link
             style={{ marginLeft: 2 + "em" }}
             className="button button--secondary button--lg"
-            to="/docs/manual/intro"
+            to="/docs/manual/Helm%Charts/Quick-Start%20Guides/Important-MUST-READ"
           >
             Helm Charts - 10min ⏱️
           </Link>
