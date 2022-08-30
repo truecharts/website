@@ -102,6 +102,7 @@ The intro needs improvement ;)
 |docker-compose            |root                  |hostPath |/root          |/root                                                |Read/Write|Enabled                |
 |docker-compose            |cluster               |hostPath |/cluster       |/cluster                                             |Read/Write|Enabled                |
 |docker-compose            |docker-certs-ca       |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|docusaurus                |config                |PVC      |-              |/docusaurus                                          |Read/Write|Enabled                |
 |dokuwiki                  |config                |PVC      |-              |/bitnami/dokuwiki                                    |Read/Write|Enabled                |
 |domoticz                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |domoticz                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -761,7 +762,6 @@ The intro needs improvement ;)
 |dns-doh-companion              |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |docker-hub-rss                 |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |dockerregistry                 |datastoragepath            |PVC     |-            |/var/lib/registry                                |Read/Write|Enabled                |
-|docusaurus                     |config                     |PVC     |-            |/docusaurus                                      |Read/Write|Enabled                |
 |dontstarvetogether             |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |dontstarvetogether             |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |dontstarvetogether             |token                      |PVC     |-            |/serverdata/.klei/DoNotStarveTogether            |Read/Write|Enabled                |
