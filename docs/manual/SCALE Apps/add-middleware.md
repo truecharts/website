@@ -1,4 +1,7 @@
-# 10 - Add Traefik Middleware to Apps
+---
+sidebar_position: 11
+---
+# Add Traefik Middleware to Apps
 
 ## Video Guide
 

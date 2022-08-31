@@ -1,4 +1,7 @@
-# 11 - Setting up External-Services
+---
+sidebar_position: 12
+---
+# Setting up External-Services
 
 ## Video Guide
 

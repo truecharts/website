@@ -1,4 +1,7 @@
-# 12 - VPN Addon Setup
+---
+sidebar_position: 13
+---
+# VPN Addon Setup
 
 ## Prerequisites
 

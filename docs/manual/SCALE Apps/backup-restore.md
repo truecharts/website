@@ -1,4 +1,7 @@
-# 14 - Backup and Restore
+---
+sidebar_position: 15
+---
+# Backup and Restore
 
 :::caution Truetool BASH Update
 

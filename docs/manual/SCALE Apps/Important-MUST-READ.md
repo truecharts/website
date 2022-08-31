@@ -1,4 +1,7 @@
-# 00 - IMPORTANT: Must Read!
+---
+sidebar_position: 1
+---
+# IMPORTANT: Must Read!
 
 All guides under this section are made for TrueNAS SCALE.
 We do **NOT** control anything made by iX-Systems, no matter how great or shitty it is.

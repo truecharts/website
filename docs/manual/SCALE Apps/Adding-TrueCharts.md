@@ -1,4 +1,7 @@
-# 01 - Adding TrueCharts to SCALE
+---
+sidebar_position: 2
+---
+# Adding TrueCharts to SCALE
 
 Adding the TrueCharts Community App Catalog is relatively straight forward.
 

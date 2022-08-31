@@ -1,4 +1,7 @@
-# 08 - Installing Traefik
+---
+sidebar_position: 9
+---
+# Installing Traefik
 
 Within TrueCharts our aim is to make it as easy as possible to secure your Apps. To support this we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections.
 

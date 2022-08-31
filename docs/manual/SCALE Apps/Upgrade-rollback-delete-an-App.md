@@ -1,4 +1,7 @@
-# 04 - Upgrading, Rollback and Delete
+---
+sidebar_position: 5
+---
+# Upgrading, Rollback and Delete
 
 With TrueCharts we always push new versions of an App for any change. Even for the containers.
 This ensures upgrading the App always gives you the Latest-and-Greatest from TrueCharts

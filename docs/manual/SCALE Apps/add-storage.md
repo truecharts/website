@@ -1,4 +1,7 @@
-# 05 - Adding additional storage
+---
+sidebar_position: 6
+---
+# Adding additional storage
 
 We  provide the option to mount as many host folders as you want.
 

@@ -1,4 +1,7 @@
-# 03 - Editing Apps
+---
+sidebar_position: 4
+---
+# Editing Apps
 
 Editing Apps is possible since 21.08, although it has a slightly different GUI it exposes the same setting as installing an App.
 

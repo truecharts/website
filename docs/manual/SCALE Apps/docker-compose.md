@@ -1,4 +1,7 @@
-# 13 - Docker-Compose on SCALE
+---
+sidebar_position: 14
+---
+# Docker-Compose on SCALE
 
 While Docker-Compose is not officially supported by iX Systems, we have designed a special "Docker-Compose" App, that is available in the "core" train.
 This App can be used to easily deploy a compose file in a completely isolated docker-compose environment.
