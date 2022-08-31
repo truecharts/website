@@ -2,7 +2,8 @@
 
 
 
-## [plaxt-0.0.22](https://github.com/truecharts/charts/compare/plaxt-0.0.20...plaxt-0.0.22) (2022-08-30)
+
+## [plex-utills-0.0.22](https://github.com/truecharts/charts/compare/plex-utills-0.0.20...plex-utills-0.0.22) (2022-08-30)
 
 ### Chore
 
@@ -13,7 +14,7 @@
 
 
 
-## [plaxt-0.0.21](https://github.com/truecharts/charts/compare/plaxt-0.0.20...plaxt-0.0.21) (2022-08-30)
+## [plex-utills-0.0.21](https://github.com/truecharts/charts/compare/plex-utills-0.0.20...plex-utills-0.0.21) (2022-08-30)
 
 ### Chore
 
@@ -22,7 +23,7 @@
 
 
 
-## [plaxt-0.0.20](https://github.com/truecharts/charts/compare/plaxt-0.0.19...plaxt-0.0.20) (2022-08-29)
+## [plex-utills-0.0.20](https://github.com/truecharts/charts/compare/plex-utills-0.0.19...plex-utills-0.0.20) (2022-08-29)
 
 ### Chore
 
@@ -31,7 +32,7 @@
 
 
 
-## [plaxt-0.0.19](https://github.com/truecharts/charts/compare/plaxt-0.0.17...plaxt-0.0.19) (2022-08-26)
+## [plex-utills-0.0.19](https://github.com/truecharts/charts/compare/plex-utills-0.0.17...plex-utills-0.0.19) (2022-08-26)
 
 ### Fix
 
@@ -40,7 +41,7 @@
 
 
 
-## [plaxt-0.0.17](https://github.com/truecharts/charts/compare/plaxt-0.0.16...plaxt-0.0.17) (2022-08-23)
+## [plex-utills-0.0.17](https://github.com/truecharts/charts/compare/plex-utills-0.0.16...plex-utills-0.0.17) (2022-08-23)
 
 ### Chore
 
@@ -49,7 +50,7 @@
 
 
 
-## [plaxt-0.0.16](https://github.com/truecharts/charts/compare/plaxt-0.0.15...plaxt-0.0.16) (2022-08-12)
+## [plex-utills-0.0.16](https://github.com/truecharts/charts/compare/plex-utills-0.0.15...plex-utills-0.0.16) (2022-08-12)
 
 ### Chore
 
@@ -63,7 +64,7 @@
 
 
 
-## [plaxt-0.0.15](https://github.com/truecharts/charts/compare/plaxt-0.0.14...plaxt-0.0.15) (2022-08-08)
+## [plex-utills-0.0.15](https://github.com/truecharts/charts/compare/plex-utills-0.0.14...plex-utills-0.0.15) (2022-08-08)
 
 ### Chore
 
@@ -73,7 +74,7 @@
 
 
 
-## [plaxt-0.0.14](https://github.com/truecharts/apps/compare/plaxt-0.0.13...plaxt-0.0.14) (2022-07-26)
+## [plex-utills-0.0.14](https://github.com/truecharts/apps/compare/plex-utills-0.0.13...plex-utills-0.0.14) (2022-07-26)
 
 ### Chore
 
@@ -83,7 +84,7 @@
 
 
 
-## [plaxt-0.0.13](https://github.com/truecharts/apps/compare/plaxt-0.0.12...plaxt-0.0.13) (2022-07-25)
+## [plex-utills-0.0.13](https://github.com/truecharts/apps/compare/plex-utills-0.0.12...plex-utills-0.0.13) (2022-07-25)
 
 ### Chore
 
@@ -96,7 +97,7 @@
 
 
 
-## [plaxt-0.0.12](https://github.com/truecharts/apps/compare/plaxt-0.0.11...plaxt-0.0.12) (2022-07-23)
+## [plex-utills-0.0.12](https://github.com/truecharts/apps/compare/plex-utills-0.0.11...plex-utills-0.0.12) (2022-07-23)
 
 ### Chore
 
@@ -107,7 +108,7 @@
 
 
 
-## [plaxt-0.0.12](https://github.com/truecharts/apps/compare/plaxt-0.0.11...plaxt-0.0.12) (2022-07-23)
+## [plex-utills-0.0.12](https://github.com/truecharts/apps/compare/plex-utills-0.0.11...plex-utills-0.0.12) (2022-07-23)
 
 ### Chore
 
@@ -117,7 +118,7 @@
 
 
 
-## [plaxt-0.0.12](https://github.com/truecharts/apps/compare/plaxt-0.0.11...plaxt-0.0.12) (2022-07-23)
+## [plex-utills-0.0.12](https://github.com/truecharts/apps/compare/plex-utills-0.0.11...plex-utills-0.0.12) (2022-07-23)
 
 ### Chore
 
@@ -126,7 +127,7 @@
 
 
 
-## [plaxt-0.0.11]plaxt-0.0.11 (2022-07-22)
+## [plex-utills-0.0.11]plex-utills-0.0.11 (2022-07-22)
 
 ### Chore
 
@@ -138,7 +139,7 @@
 
 
 
-## [plaxt-0.0.10]plaxt-0.0.10 (2022-07-22)
+## [plex-utills-0.0.10]plex-utills-0.0.10 (2022-07-22)
 
 ### Chore
 
@@ -148,7 +149,7 @@
 
 
 
-## [plaxt-0.0.10]plaxt-0.0.10 (2022-07-22)
+## [plex-utills-0.0.10]plex-utills-0.0.10 (2022-07-22)
 
 ### Chore
 

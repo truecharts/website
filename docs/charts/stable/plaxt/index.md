@@ -1,21 +1,21 @@
-# plex-utills
+# plaxt
 
-![Version: 0.0.22](https://img.shields.io/badge/Version-0.0.22-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
-A utility to help manage your library. Options include adding 4k banners and HDR banners to your poster art automactically, auto collections for Disney and Pixar Studios and hiding/auto optimising media files where there is only a 4k version available.
+This Tools provides a way to keep your watched history synced FROM Plex Server To Trakt.tv
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [plex-utills](https://truecharts.org/docs/charts/incubator/plex-utills)
+For more information, please click here: [plaxt](https://truecharts.org/docs/charts/stable/plaxt)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/incubator/plex-utills>
-* <https://github.com/jkirkcaldy/plex-utills>
-* <https://hub.docker.com/r/jkirkcaldy/plex-utills/>
+* <https://github.com/truecharts/charts/tree/master/charts/stable/plaxt>
+* <https://github.com/XanderStrike/goplaxt>
+* <https://hub.docker.com/r/xanderstrike/goplaxt>
 
 ## Requirements
 
@@ -35,12 +35,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `plex-utills`
+To install the chart with the release name `plaxt`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install plex-utills TrueCharts/plex-utills
+helm install plaxt TrueCharts/plaxt
 ```
 
 ## Uninstall
@@ -53,10 +53,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `plex-utills` deployment
+To uninstall the `plaxt` deployment
 
 ```console
-helm uninstall plex-utills
+helm uninstall plaxt
 ```
 
 ## Configuration
@@ -73,9 +73,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install plex-utills \
+helm install plaxt \
   --set env.TZ="America/New York" \
-    TrueCharts/plex-utills
+    TrueCharts/plaxt
 ```
 
 #### Configure using a yaml file
@@ -83,7 +83,7 @@ helm install plex-utills \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install plex-utills TrueCharts/plex-utills -f values.yaml
+helm install plaxt TrueCharts/plaxt -f values.yaml
 ```
 
 #### Connecting to other charts
