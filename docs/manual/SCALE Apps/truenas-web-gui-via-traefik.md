@@ -1,4 +1,4 @@
-# TrueNAS Web GUI via Traefik on port 443
+# TrueNAS Web GUI via Traefik
 
 If you followed the instructions in `11 - Exposing Traefik on port 80/443` from the `Quick Start Guides`, your TrueNAS Web GUI will now be served on custom ports (port 81 and 444 in the video guide).
 
