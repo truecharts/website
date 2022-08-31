@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # F.A.Q. (Frequently Asked Questions)
 
 ## Why PVC is recommended over HostPath?
