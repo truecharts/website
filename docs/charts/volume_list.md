@@ -386,6 +386,7 @@ The intro needs improvement ;)
 |overseerr                 |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |owncast                   |config                |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |owncloud-ocis             |data                  |PVC      |-              |/var/lib/ocis                                        |Read/Write|Enabled                |
+|owncloud-ocis             |config                |PVC      |-              |/etc/ocis                                            |Read/Write|Enabled                |
 |paperless-ng              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |paperless-ng              |consume               |PVC      |-              |/consume                                             |Read/Write|Enabled                |
 |paperless-ng              |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
@@ -461,6 +462,8 @@ The intro needs improvement ;)
 |scrutiny                  |config                |PVC      |-              |/opt/scrutiny/config                                 |Read/Write|Enabled                |
 |scrutiny                  |influxdb              |PVC      |-              |/opt/scrutiny/influxdb                               |Read/Write|Enabled                |
 |scrutiny                  |udev                  |hostPath |/run/udev      |/run/udev                                            |Read Only |Enabled                |
+|sdtd                      |serverfiles           |PVC      |-              |/serverdata/serverfiles                              |Read/Write|Enabled                |
+|sdtd                      |steamcmd              |PVC      |-              |/serverdata/steamcmd                                 |Read/Write|Enabled                |
 |ser2sock                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |shiori                    |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |shiori                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -569,6 +572,7 @@ The intro needs improvement ;)
 |wg-easy                   |config                |PVC      |-              |/etc/wireguard                                       |Read/Write|Enabled                |
 |whoogle                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wikijs                    |wikicache             |emptyDir |-              |/wiki/data/                                          |Read/Write|Enabled                |
+|wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |wireshark                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |wireshark                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |xbackbone                 |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
@@ -1112,8 +1116,6 @@ The intro needs improvement ;)
 |satisfactory-server            |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |scprime                        |metadata                   |PVC     |-            |/scp-data                                        |Read/Write|Enabled                |
 |scprime                        |storage                    |PVC     |-            |/storage                                         |Read/Write|Enabled                |
-|sdtd                           |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
-|sdtd                           |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |searx                          |config                     |PVC     |-            |/etc/searx                                       |Read/Write|Enabled                |
 |searxng                        |config                     |PVC     |-            |/etc/searxng                                     |Read/Write|Enabled                |
 |seedsync                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
@@ -1242,7 +1244,6 @@ The intro needs improvement ;)
 |wger                           |wger-config                |custom  |-            |/etc/nginx/conf.d/default.conf                   |Read/Write|Enabled                |
 |whisparr                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |wifi-card                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
-|wireguard                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |wordle                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |xmrig                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
