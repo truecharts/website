@@ -409,8 +409,12 @@ The intro needs improvement ;)
 |pinry                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |pixapop                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pixapop                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|plaxt                     |config                |PVC      |-              |/app/keystore                                        |Read/Write|Enabled                |
 |plex                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |plex-auto-languages       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|plex-utills               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|plex-utills               |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
+|plex-utills               |plexlibrary           |PVC      |-              |/films                                               |Read/Write|Enabled                |
 |podgrab                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pretend-youre-xyzzy       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |projectsend               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -1026,11 +1030,7 @@ The intro needs improvement ;)
 |pixark                         |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |pixelserv-tls                  |certficatesdir             |PVC     |-            |/var/cache/pixelserv                             |Read/Write|Enabled                |
 |plausible                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
-|plaxt                          |hostpathforkeystore        |PVC     |-            |/app/keystore                                    |Read/Write|Enabled                |
 |plex-meta-manager              |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|plex-utills                    |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|plex-utills                    |logs                       |PVC     |-            |/logs                                            |Read/Write|Enabled                |
-|plex-utills                    |plexlibrary                |PVC     |-            |/films                                           |Read/Write|Enabled                |
 |plexripper                     |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |plexripper                     |downloadfolder             |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
 |plexripper                     |moviedestinationfolder     |PVC     |-            |/movies                                          |Read/Write|Enabled                |
