@@ -448,6 +448,7 @@ The intro needs improvement ;)
 |recipes                   |media                 |PVC      |-              |/opt/recipes/mediafiles                              |Read/Write|Enabled                |
 |recipes                   |static                |emptyDir |-              |/opt/recipes/staticfiles                             |Read/Write|Enabled                |
 |recipes                   |recipes-config        |custom   |-              |/etc/nginx/nginx.conf                                |Read/Write|Enabled                |
+|recyclarr                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |redmine                   |data                  |PVC      |-              |/usr/src/redmine/files                               |Read/Write|Enabled                |
 |reg                       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |remmina                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -574,6 +575,9 @@ The intro needs improvement ;)
 |website-shot              |screenshots           |PVC      |-              |/usr/src/website-shot/screenshots                    |Read/Write|Enabled                |
 |wekan                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |wg-easy                   |config                |PVC      |-              |/etc/wireguard                                       |Read/Write|Enabled                |
+|wger                      |media                 |PVC      |-              |/home/wger/media                                     |Read/Write|Enabled                |
+|wger                      |static                |emptyDir |-              |/home/wger/static                                    |Read/Write|Enabled                |
+|wger                      |wger-config           |custom   |-              |/etc/nginx/conf.d                                    |Read Only |Enabled                |
 |whoogle                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wikijs                    |wikicache             |emptyDir |-              |/wiki/data/                                          |Read/Write|Enabled                |
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -1088,7 +1092,6 @@ The intro needs improvement ;)
 |rdesktop                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |rdesktop                       |pathvarrundocker-sock      |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
 |reactive-resume                |-                          |-       |-            |-                                                |-         |Persistence not Defined|
-|recyclarr                      |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |red-discordbot                 |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |redisinsight                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |redm                           |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1239,9 +1242,6 @@ The intro needs improvement ;)
 |webp-server                    |storagepics                |PVC     |-            |/opt/pics                                        |Read Only |Enabled                |
 |webtop                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |webtop                         |pathvarrundocker-sock      |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
-|wger                           |media                      |PVC     |-            |/home/wger/media                                 |Read/Write|Enabled                |
-|wger                           |static                     |emptyDir|-            |/home/wger/static                                |Read/Write|Enabled                |
-|wger                           |wger-config                |custom  |-            |/etc/nginx/conf.d/default.conf                   |Read/Write|Enabled                |
 |whisparr                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |wifi-card                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |wordle                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
