@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: "FAQ",
-                href: "/manual/FAQ"
+                href: "/docs/manual/FAQ"
               }
             ]
           },
