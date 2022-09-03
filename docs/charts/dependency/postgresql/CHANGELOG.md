@@ -2,6 +2,15 @@
 
 
 
+## [postgresql-8.0.72](https://github.com/truecharts/charts/compare/postgresql-8.0.71...postgresql-8.0.72) (2022-09-03)
+
+### Chore
+
+- update helm chart common to v10.5.7 ([#3676](https://github.com/truecharts/charts/issues/3676))
+
+
+
+
 ## [postgresql-8.0.71](https://github.com/truecharts/charts/compare/postgresql-8.0.70...postgresql-8.0.71) (2022-09-03)
 
 ### Chore
@@ -314,10 +323,7 @@
 ### Feat
 
 - move dev apps to incubator and remove bad content from dev
-
-
-
-<a name="memcached-3.0.29"></a>
+3.0.29"></a>
 ### [memcached-3.0.29](https://github.com/truecharts/apps/compare/memcached-3.0.28...memcached-3.0.29) (2022-07-12)
 
 #### Chore
