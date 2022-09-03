@@ -56,7 +56,7 @@ please refer to the upstream container sources we list on the website instead.
 It takes a few days for our automation tools to pick up updates, please sit tight.
 Please only report missed updates when 7 days have passed after the new *container(!)* has become available.
 
-## Isn't there more documentation for an chart?
+## Isn't there more documentation for a chart?
 
 If it's not on our website or the discord, we (sadly) do not.
 There might be other sources for documentation however!
