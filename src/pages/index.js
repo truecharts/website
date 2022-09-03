@@ -18,14 +18,14 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/docs/SCALE%20Apps/Quick-Start%20Guides/Important-MUST-READ"
+            to="/docs/manual/SCALE%20Apps/Important-MUST-READ"
           >
             TrueNAS SCALE - 5min ⏱️
           </Link>
           <Link
             style={{ marginLeft: 2 + "em" }}
             className="button button--secondary button--lg"
-            to="/docs/docs/Helm%20Charts/Quick-Start%20Guides/Important-MUST-READ"
+            to="/docs/manual/Helm%20Charts/getting-started"
           >
             Helm Charts - 10min ⏱️
           </Link>
