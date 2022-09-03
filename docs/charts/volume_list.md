@@ -812,7 +812,6 @@ The intro needs improvement ;)
 |ffmpeg-mkvdts2ac3              |copy                       |PVC     |-            |/copy                                            |Read/Write|Enabled                |
 |ffmpeg-mkvdts2ac3              |output                     |PVC     |-            |/output                                          |Read/Write|Enabled                |
 |ffmpeg-mkvdts2ac3              |watch                      |PVC     |-            |/watch                                           |Read/Write|Enabled                |
-|fileflows-node                 |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |filegator                      |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |filegator                      |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |filegator                      |storageconfigfile          |PVC     |-            |/var/www/localhost/filegator/configuration.php   |Read Only |Enabled                |
@@ -1116,7 +1115,6 @@ The intro needs improvement ;)
 |rustpad                        |storagedatabase            |PVC     |-            |/persist                                         |Read/Write|Enabled                |
 |s3backup                       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |s3sync                         |backupsourceexample        |PVC     |-            |/data/example                                    |Read Only |Enabled                |
-|satisfactory-server            |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |scprime                        |metadata                   |PVC     |-            |/scp-data                                        |Read/Write|Enabled                |
 |scprime                        |storage                    |PVC     |-            |/storage                                         |Read/Write|Enabled                |
 |searx                          |config                     |PVC     |-            |/etc/searx                                       |Read/Write|Enabled                |
@@ -1148,7 +1146,6 @@ The intro needs improvement ;)
 |simply-shorten                 |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |sinusbot                       |data                       |PVC     |-            |/opt/sinusbot/data                               |Read/Write|Enabled                |
 |sinusbot                       |scriptspath                |PVC     |-            |/opt/sinusbot/scripts                            |Read/Write|Enabled                |
-|skyrimtogetherrebornserver     |config                     |PVC     |-            |/home/server/config/                             |Read/Write|Enabled                |
 |slack-invite                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |snippet-box                    |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
 |socials                        |socials                    |PVC     |-            |/app/people                                      |Read/Write|Enabled                |
