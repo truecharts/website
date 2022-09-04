@@ -57,7 +57,7 @@ Sadly enough, SCALE does not lists which versions are available to roll-back to,
 There is a short walk-through to get the versioning history for the App in question:
 
 1. run ```export KUBECONFIG=/etc/rancher/k3s/k3s.yaml```
-2. run  ```helm history jackett -n ix-jackett where "jackett"``` should be replaced with the name of the App that broke your UI
+2. run  ```helm history jackett -n ix-jackett``` where "jackett" should be replaced with the name of the App that broke your UI.
 You'll see this:
 ![history](/img/rollback/history.png)
 Take note of the "Chart" column, it lists the version numbers you can enter in the rollback interface, prefixed by the App Name.
