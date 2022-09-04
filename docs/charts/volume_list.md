@@ -213,7 +213,7 @@ The intro needs improvement ;)
 |icinga2                   |ssmtp                 |PVC      |-              |/etc/ssmtp                                           |Read/Write|Enabled                |
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |inventree                 |data                  |PVC      |-              |/home/inventree/data                                 |Read/Write|Enabled                |
-|inventree                 |inventree-nginx       |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|inventree                 |inventree-nginx       |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
 |ipfs                      |data                  |PVC      |-              |/data/ipfs                                           |Read/Write|Enabled                |
 |ipfs                      |staging               |PVC      |-              |/export                                              |Read/Write|Enabled                |
 |ipfs                      |ipfs                  |PVC      |-              |/ipfs                                                |Read/Write|Enabled                |
@@ -392,6 +392,7 @@ The intro needs improvement ;)
 |paperless-ng              |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
 |papermerge                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |papermerge                |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|pasta                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |pgadmin                   |config                |PVC      |-              |/var/lib/pgadmin                                     |Read/Write|Enabled                |
 |photoprism                |storage               |PVC      |-              |/assets                                              |Read/Write|Enabled                |
 |photoprism                |temp                  |emptyDir |-              |/photoprism/temp                                     |Read/Write|Enabled                |
@@ -457,6 +458,7 @@ The intro needs improvement ;)
 |requestrr                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |resilio-sync              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |resilio-sync              |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|ring-mqtt                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |rsnapshot                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |rsnapshot                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |rss-bridge                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -577,7 +579,7 @@ The intro needs improvement ;)
 |wg-easy                   |config                |PVC      |-              |/etc/wireguard                                       |Read/Write|Enabled                |
 |wger                      |media                 |PVC      |-              |/home/wger/media                                     |Read/Write|Enabled                |
 |wger                      |static                |emptyDir |-              |/home/wger/static                                    |Read/Write|Enabled                |
-|wger                      |wger-config           |custom   |-              |/etc/nginx/conf.d                                    |Read Only |Enabled                |
+|wger                      |wger-config           |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
 |whoogle                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wikijs                    |wikicache             |emptyDir |-              |/wiki/data/                                          |Read/Write|Enabled                |
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -1010,7 +1012,6 @@ The intro needs improvement ;)
 |owi2plex                       |owi2plex                   |PVC     |-            |/owi2plex                                        |Read/Write|Enabled                |
 |owi2plex                       |tvh                        |PVC     |-            |/TVH                                             |Read/Write|Enabled                |
 |passwordpusherephemeral        |-                          |-       |-            |-                                                |-         |Persistence not Defined|
-|pasta                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |pastey                         |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
 |pavlovvr                       |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |pavlovvr                       |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -1100,7 +1101,6 @@ The intro needs improvement ;)
 |rflood                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |rickroll                       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |rimgo                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
-|ring-mqtt                      |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |rmlint                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |rmlint                         |searchlocation             |PVC     |-            |/root                                            |Read/Write|Enabled                |
 |rollarr                        |appdata                    |PVC     |-            |/rollar/data.json                                |Read/Write|Enabled                |
