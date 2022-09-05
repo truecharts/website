@@ -56,6 +56,7 @@ The intro needs improvement ;)
 |calibre-web               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |chevereto                 |storage               |PVC      |-              |/var/www/html/images/                                |Read/Write|Enabled                |
 |chevereto                 |content               |PVC      |-              |/var/www/html/content/                               |Read/Write|Enabled                |
+|chronos                   |chronos               |PVC      |-              |/chronos                                             |Read/Write|Enabled                |
 |clamav                    |sigdatabase           |PVC      |-              |/var/lib/clamav                                      |Read/Write|Enabled                |
 |clamav                    |scandir               |PVC      |-              |/scandir                                             |Read Only |Enabled                |
 |clamav                    |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
@@ -145,6 +146,8 @@ The intro needs improvement ;)
 |fileflows                 |logs                  |PVC      |-              |/app/Logs                                            |Read/Write|Enabled                |
 |fileflows                 |temp                  |PVC      |-              |/temp                                                |Read/Write|Enabled                |
 |fileflows                 |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
+|filerun                   |config                |PVC      |-              |/var/www/html                                        |Read/Write|Enabled                |
+|filerun                   |userfile              |PVC      |-              |/user-files                                          |Read/Write|Enabled                |
 |filezilla                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |filezilla                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |fireflyiii                |data                  |PVC      |-              |/var/www/html/storage/upload                         |Read/Write|Enabled                |
@@ -238,6 +241,7 @@ The intro needs improvement ;)
 |kavita                    |manga                 |PVC      |-              |/manga                                               |Read/Write|Enabled                |
 |kimai                     |data                  |PVC      |-              |/opt/kimai/var/data                                  |Read/Write|Enabled                |
 |kimai                     |plugins               |PVC      |-              |/opt/kimai/var/plugins                               |Read/Write|Enabled                |
+|kitchenowl                |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |kms                       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |kodi-headless             |config                |PVC      |-              |/config/.kodi                                        |Read/Write|Enabled                |
 |kodi-headless             |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -580,6 +584,7 @@ The intro needs improvement ;)
 |wger                      |media                 |PVC      |-              |/home/wger/media                                     |Read/Write|Enabled                |
 |wger                      |static                |emptyDir |-              |/home/wger/static                                    |Read/Write|Enabled                |
 |wger                      |wger-config           |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
+|whisparr                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |whoogle                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wikijs                    |wikicache             |emptyDir |-              |/wiki/data/                                          |Read/Write|Enabled                |
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -702,7 +707,6 @@ The intro needs improvement ;)
 |chromium                       |datadir                    |PVC     |-            |/chrome                                          |Read/Write|Enabled                |
 |chromium-desktop-g3            |internalshare              |PVC     |-            |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |chronograf                     |chronograf                 |PVC     |-            |/var/lib/chronograf                              |Read/Write|Enabled                |
-|chronos                        |chronos                    |PVC     |-            |/chronos                                         |Read/Write|Enabled                |
 |ciao                           |databaselocation           |PVC     |-            |/app/db/sqlite                                   |Read/Write|Enabled                |
 |citadel-forgedwithfire         |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |citadel-forgedwithfire         |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -817,8 +821,6 @@ The intro needs improvement ;)
 |filegator                      |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |filegator                      |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |filegator                      |storageconfigfile          |PVC     |-            |/var/www/localhost/filegator/configuration.php   |Read Only |Enabled                |
-|filerun                        |config                     |PVC     |-            |/var/www/html                                    |Read/Write|Enabled                |
-|filerun                        |userfile                   |PVC     |-            |/user-files                                      |Read/Write|Enabled                |
 |fileshelter                    |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |filestash                      |appdata                    |PVC     |-            |/app/data/state/                                 |Read/Write|Enabled                |
 |firefox-desktop-g3             |internalshare              |PVC     |-            |/UNRAID_SHARE                                    |Read/Write|Enabled                |
@@ -888,7 +890,7 @@ The intro needs improvement ;)
 |healthchecksdashboard          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |hetzner-ddns                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |hexchat                        |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|hexo-blog                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|hexo-blog                      |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |homebridge                     |config                     |PVC     |-            |/homebridge                                      |Read/Write|Enabled                |
 |homelablabelmaker              |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |hoobs                          |applicationpath            |PVC     |-            |/hoobs                                           |Read/Write|Enabled                |
@@ -930,7 +932,6 @@ The intro needs improvement ;)
 |kerbalspaceprogram-lmp         |serverfiles                |PVC     |-            |/lunamultiplayer                                 |Read/Write|Enabled                |
 |kerio-connect                  |kerio-connect              |PVC     |-            |/backup                                          |Read/Write|Enabled                |
 |kitana                         |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
-|kitchenowl                     |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |kiwix-serve                    |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |krusader                       |containerpath              |PVC     |-            |/krusader                                        |Read/Write|Enabled                |
 |krusader                       |datapath                   |PVC     |-            |/mnt/user                                        |Read/Write|Enabled                |
@@ -1071,6 +1072,7 @@ The intro needs improvement ;)
 |pyload-ng                      |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |pyload-ng                      |pathdownloads              |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
 |qbitmanage                     |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
+|qbitmanage                     |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |qflood                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |quake3                         |serverfiles                |PVC     |-            |/quake3                                          |Read/Write|Enabled                |
 |quickshare                     |storagedata                |PVC     |-            |/quickshare/root                                 |Read/Write|Enabled                |
@@ -1239,7 +1241,6 @@ The intro needs improvement ;)
 |webp-server                    |storagepics                |PVC     |-            |/opt/pics                                        |Read Only |Enabled                |
 |webtop                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |webtop                         |pathvarrundocker-sock      |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
-|whisparr                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |wifi-card                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |wordle                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |xmrig                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
