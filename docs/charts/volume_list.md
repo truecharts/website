@@ -10,6 +10,8 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|adguard-home              |config                |PVC      |-              |/opt/adguardhome/conf                                |Read/Write|Enabled                |
+|adguard-home              |data                  |PVC      |-              |/opt/adguardhome/work                                |Read/Write|Enabled                |
 |airdcpp-webclient         |config                |PVC      |-              |/.airdcpp                                            |Read/Write|Enabled                |
 |airsonic                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |airsonic-advanced         |config                |PVC      |-              |/airsonic                                            |Read/Write|Enabled                |
@@ -23,6 +25,7 @@ The intro needs improvement ;)
 |apache-musicindex         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |appdaemon                 |conf                  |PVC      |-              |/conf                                                |Read/Write|Enabled                |
 |appdaemon                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|apt-cacher-ng             |apt-cacher-ng         |PVC      |-              |/var/cache/apt-cacher-ng                             |Read/Write|Enabled                |
 |aria2                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |aria2                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |audacity                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -441,6 +444,8 @@ The intro needs improvement ;)
 |pyload                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |pylon                     |code                  |PVC      |-              |/code                                                |Read/Write|Enabled                |
 |pylon                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|qbitmanage                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|qbitmanage                |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |qbittorrent               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |qdirstat                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |qdirstat                  |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
@@ -626,8 +631,6 @@ The intro needs improvement ;)
 |acestream                      |acestreamcache             |PVC     |-            |/srv/acestream/.ACEStream                        |Read/Write|Enabled                |
 |actualserver                   |server-files               |PVC     |-            |/app/server-files                                |Read/Write|Enabled                |
 |actualserver                   |user-files                 |PVC     |-            |/app/user-files                                  |Read/Write|Enabled                |
-|adguard-home                   |config                     |PVC     |-            |/opt/adguardhome/conf                            |Read/Write|Enabled                |
-|adguard-home                   |data                       |PVC     |-            |/opt/adguardhome/work                            |Read/Write|Enabled                |
 |adguardhome-sync               |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |adminer                        |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |alienswarm                     |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -651,7 +654,6 @@ The intro needs improvement ;)
 |apache-webdav                  |data                       |PVC     |-            |/var/lib/dav/data                                |Read/Write|Enabled                |
 |apprise-api                    |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |appsmith                       |appsmithstacks             |PVC     |-            |/appsmith-stacks                                 |Read/Write|Enabled                |
-|apt-cacher-ng                  |apt-cacher-ng              |PVC     |-            |/var/cache/apt-cacher-ng                         |Read/Write|Enabled                |
 |archiveteam-warrior            |appdata                    |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
 |ariang                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |arksurvivalevolved             |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1009,6 +1011,7 @@ The intro needs improvement ;)
 |openproject                    |assets                     |PVC     |-            |/var/openproject/assets                          |Read/Write|Enabled                |
 |openra                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |openttd                        |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
+|orbital-sync                   |config                     |PVC     |-            |/app                                             |Read/Write|Enabled                |
 |owi2plex                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |owi2plex                       |owi2plex                   |PVC     |-            |/owi2plex                                        |Read/Write|Enabled                |
 |owi2plex                       |tvh                        |PVC     |-            |/TVH                                             |Read/Write|Enabled                |
@@ -1071,8 +1074,6 @@ The intro needs improvement ;)
 |pwm                            |appdata                    |PVC     |-            |/usr/share/pwm                                   |Read/Write|Enabled                |
 |pyload-ng                      |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |pyload-ng                      |pathdownloads              |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
-|qbitmanage                     |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|qbitmanage                     |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |qflood                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |quake3                         |serverfiles                |PVC     |-            |/quake3                                          |Read/Write|Enabled                |
 |quickshare                     |storagedata                |PVC     |-            |/quickshare/root                                 |Read/Write|Enabled                |
