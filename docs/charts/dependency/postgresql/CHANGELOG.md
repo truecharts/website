@@ -2,7 +2,7 @@
 
 
 
-## [mariadb-3.0.70](https://github.com/truecharts/charts/compare/mariadb-3.0.69...mariadb-3.0.70) (2022-09-06)
+## [postgresql-8.0.73](https://github.com/truecharts/charts/compare/postgresql-8.0.72...postgresql-8.0.73) (2022-09-06)
 
 ### Chore
 
@@ -11,7 +11,7 @@
 
 
 
-## [mariadb-3.0.69](https://github.com/truecharts/charts/compare/mariadb-3.0.68...mariadb-3.0.69) (2022-09-03)
+## [postgresql-8.0.72](https://github.com/truecharts/charts/compare/postgresql-8.0.71...postgresql-8.0.72) (2022-09-03)
 
 ### Chore
 
@@ -20,7 +20,7 @@
 
 
 
-## [mariadb-3.0.68](https://github.com/truecharts/charts/compare/mariadb-3.0.67...mariadb-3.0.68) (2022-09-03)
+## [postgresql-8.0.71](https://github.com/truecharts/charts/compare/postgresql-8.0.70...postgresql-8.0.71) (2022-09-03)
 
 ### Chore
 
@@ -29,63 +29,110 @@
 
 
 
-
-
-## [mariadb-3.0.65](https://github.com/truecharts/charts/compare/mariadb-3.0.64...mariadb-3.0.65) (2022-08-30)
+## [cryptpad-0.0.42](https://github.com/truecharts/charts/compare/cryptpad-0.0.41...cryptpad-0.0.42) (2022-08-31)
 
 ### Chore
 
-- update helm chart common to v10.5.5
+- update docker general non-major ([#3640](https://github.com/truecharts/charts/issues/3640))
 
 
 
 
-## [mariadb-3.0.64](https://github.com/truecharts/charts/compare/mariadb-3.0.63...mariadb-3.0.64) (2022-08-29)
-
-### Chore
-
-- update helm chart common to v10.5.4 ([#3613](https://github.com/truecharts/charts/issues/3613))
-
-
-
-
-## [mariadb-3.0.63](https://github.com/truecharts/charts/compare/mariadb-3.0.62...mariadb-3.0.63) (2022-08-29)
+## [cryptpad-0.0.41](https://github.com/truecharts/charts/compare/cryptpad-0.0.40...cryptpad-0.0.41) (2022-08-30)
 
 ### Chore
 
-- update helm chart common to v10.5.3 ([#3610](https://github.com/truecharts/charts/issues/3610))
+- update helm general non-major ([#3639](https://github.com/truecharts/charts/issues/3639))
 
 
 
 
-## [collabora-online-12.1.33](https://github.com/truecharts/charts/compare/collabora-online-12.1.32...collabora-online-12.1.33) (2022-08-26)
-
-### Chore
-
-- update helm chart common to v10.5.2 ([#3583](https://github.com/truecharts/charts/issues/3583))
-
-
-
-
-## [collabora-online-12.1.32](https://github.com/truecharts/charts/compare/collabora-online-12.1.31...collabora-online-12.1.32) (2022-08-25)
+## [cryptpad-0.0.40](https://github.com/truecharts/charts/compare/cryptpad-0.0.39...cryptpad-0.0.40) (2022-08-30)
 
 ### Chore
 
-- update helm chart common to v10.5.1 ([#3562](https://github.com/truecharts/charts/issues/3562))
+- update helm chart common to v10.5.5 ([#3626](https://github.com/truecharts/charts/issues/3626))
 
 
 
 
-## [collabora-online-12.1.31](https://github.com/truecharts/charts/compare/collabora-online-12.1.30...collabora-online-12.1.31) (2022-08-23)
+## [cryptpad-0.0.39](https://github.com/truecharts/charts/compare/cryptpad-0.0.38...cryptpad-0.0.39) (2022-08-30)
 
 ### Chore
 
-- update helm chart common to v10.5.0 ([#3546](https://github.com/truecharts/charts/issues/3546))
+- update docker general non-major ([#3623](https://github.com/truecharts/charts/issues/3623))
 
 
 
 
-## [collabora-online-12.1.30](https://github.com/truecharts/charts/compare/collabora-online-12.1.29...collabora-online-12.1.30) (2022-08-23)
+## [cryptpad-0.0.38](https://github.com/truecharts/charts/compare/cryptpad-0.0.37...cryptpad-0.0.38) (2022-08-29)
+
+### Chore
+
+- update helm general non-major ([#3619](https://github.com/truecharts/charts/issues/3619))
+
+
+
+
+## [cryptpad-0.0.37](https://github.com/truecharts/charts/compare/cryptpad-0.0.36...cryptpad-0.0.37) (2022-08-29)
+
+### Chore
+
+- update docker general non-major ([#3606](https://github.com/truecharts/charts/issues/3606))
+
+
+
+
+## [cryptpad-0.0.36](https://github.com/truecharts/charts/compare/cryptpad-0.0.33...cryptpad-0.0.36) (2022-08-27)
+
+### Chore
+
+- update docker general non-major ([#3587](https://github.com/truecharts/charts/issues/3587))
+
+  ### Fix
+
+- some cleanup ([#3586](https://github.com/truecharts/charts/issues/3586))
+
+
+
+
+## [cryptpad-0.0.33](https://github.com/truecharts/charts/compare/cryptpad-0.0.32...cryptpad-0.0.33) (2022-08-26)
+
+### Chore
+
+- update docker general non-major ([#3573](https://github.com/truecharts/charts/issues/3573))
+
+
+
+
+## [cryptpad-0.0.32](https://github.com/truecharts/charts/compare/cryptpad-0.0.31...cryptpad-0.0.32) (2022-08-25)
+
+### Chore
+
+- update docker general non-major ([#3561](https://github.com/truecharts/charts/issues/3561))
+
+
+
+
+## [cryptpad-0.0.31](https://github.com/truecharts/charts/compare/cryptpad-0.0.30...cryptpad-0.0.31) (2022-08-24)
+
+### Chore
+
+- update docker general non-major ([#3552](https://github.com/truecharts/charts/issues/3552))
+
+
+
+
+## [cryptpad-0.0.30](https://github.com/truecharts/charts/compare/cryptpad-0.0.29...cryptpad-0.0.30) (2022-08-23)
+
+### Chore
+
+- update helm general non-major helm releases ([#3545](https://github.com/truecharts/charts/issues/3545))
+
+
+
+
+## [cryptpad-0.0.29](https://github.com/truecharts/charts/compare/cryptpad-0.0.28...cryptpad-0.0.29) (2022-08-23)
 
 ### Chore
 
@@ -94,22 +141,66 @@
 
 
 
-## [collabora-online-12.1.29](https://github.com/truecharts/charts/compare/collabora-online-12.1.27...collabora-online-12.1.29) (2022-08-17)
+## [cryptpad-0.0.28](https://github.com/truecharts/charts/compare/cryptpad-0.0.27...cryptpad-0.0.28) (2022-08-22)
 
 ### Chore
 
-- update helm chart common to v10.4.13
-  - update docker general non-major ([#3478](https://github.com/truecharts/charts/issues/3478))
+- update docker general non-major ([#3530](https://github.com/truecharts/charts/issues/3530))
 
 
 
 
-## [collabora-online-12.1.27](https://github.com/truecharts/charts/compare/collabora-online-12.1.26...collabora-online-12.1.27) (2022-08-12)
+## [cryptpad-0.0.27](https://github.com/truecharts/charts/compare/cryptpad-0.0.26...cryptpad-0.0.27) (2022-08-21)
+
+### Chore
+
+- update docker general non-major docker tags ([#3523](https://github.com/truecharts/charts/issues/3523))
+
+
+
+
+## [cryptpad-0.0.26](https://github.com/truecharts/charts/compare/cryptpad-0.0.25...cryptpad-0.0.26) (2022-08-20)
+
+### Chore
+
+- update docker general non-major docker tags ([#3518](https://github.com/truecharts/charts/issues/3518))
+
+
+
+
+## [cryptpad-0.0.25](https://github.com/truecharts/charts/compare/cryptpad-0.0.24...cryptpad-0.0.25) (2022-08-19)
+
+### Chore
+
+- update docker general non-major docker tags ([#3512](https://github.com/truecharts/charts/issues/3512))
+
+
+
+
+## [cryptpad-0.0.24](https://github.com/truecharts/charts/compare/cryptpad-0.0.23...cryptpad-0.0.24) (2022-08-17)
+
+### Chore
+
+- update docker general non-major ([#3478](https://github.com/truecharts/charts/issues/3478))
+
+
+
+
+## [cryptpad-0.0.23](https://github.com/truecharts/charts/compare/cryptpad-0.0.22...cryptpad-0.0.23) (2022-08-14)
+
+### Chore
+
+- update docker general non-major docker tags ([#3465](https://github.com/truecharts/charts/issues/3465))
+
+
+
+
+## [cryptpad-0.0.22](https://github.com/truecharts/charts/compare/cryptpad-0.0.21...cryptpad-0.0.22) (2022-08-12)
 
 ### Chore
 
 - add documentation checkbox/section to all SCALE Apps
-  - update helm chart common to v10.4.12
+  - update helm general non-major helm releases ([#3456](https://github.com/truecharts/charts/issues/3456))
 
   ### Fix
 
@@ -118,16 +209,7 @@
 
 
 
-## [collabora-online-12.1.26](https://github.com/truecharts/charts/compare/collabora-online-12.1.25...collabora-online-12.1.26) (2022-08-10)
-
-### Chore
-
-- update helm chart common to v10.4.11 ([#3428](https://github.com/truecharts/charts/issues/3428))
-
-
-
-
-## [mariadb-3.0.51](https://github.com/truecharts/charts/compare/mariadb-3.0.50...mariadb-3.0.51) (2022-08-10)
+## [cryptpad-0.0.21](https://github.com/truecharts/charts/compare/cryptpad-0.0.20...cryptpad-0.0.21) (2022-08-10)
 
 ### Chore
 
@@ -136,26 +218,27 @@
 
 
 
-## [mariadb-3.0.50](https://github.com/truecharts/charts/compare/mariadb-3.0.49...mariadb-3.0.50) (2022-08-09)
+## [cryptpad-0.0.20](https://github.com/truecharts/charts/compare/cryptpad-0.0.19...cryptpad-0.0.20) (2022-08-09)
 
 ### Chore
 
 - update docker general non-major ([#3377](https://github.com/truecharts/charts/issues/3377))
+
+
+
+
+## [cryptpad-0.0.19](https://github.com/truecharts/charts/compare/cryptpad-0.0.17...cryptpad-0.0.19) (2022-08-08)
+
+### Chore
+
+- update helm general non-major helm releases ([#3376](https://github.com/truecharts/charts/issues/3376))
+  - update docker general non-major ([#3356](https://github.com/truecharts/charts/issues/3356))
   - replace questions parts with templates ([#3402](https://github.com/truecharts/charts/issues/3402))
 
 
 
 
-## [mariadb-3.0.49](https://github.com/truecharts/apps/compare/mariadb-3.0.48...mariadb-3.0.49) (2022-07-29)
-
-### Chore
-
-- update helm chart common to v10.4.9
-
-
-
-
-## [mariadb-3.0.48](https://github.com/truecharts/apps/compare/mariadb-3.0.47...mariadb-3.0.48) (2022-07-29)
+## [cryptpad-0.0.17](https://github.com/truecharts/apps/compare/cryptpad-0.0.16...cryptpad-0.0.17) (2022-07-29)
 
 ### Chore
 
@@ -164,178 +247,92 @@
 
 
 
-## [mariadb-3.0.47](https://github.com/truecharts/apps/compare/mariadb-3.0.46...mariadb-3.0.47) (2022-07-27)
+## [cryptpad-0.0.16](https://github.com/truecharts/apps/compare/cryptpad-0.0.15...cryptpad-0.0.16) (2022-07-28)
+
+### Chore
+
+- update docker general non-major ([#3326](https://github.com/truecharts/apps/issues/3326))
+
+
+
+
+## [cryptpad-0.0.15](https://github.com/truecharts/apps/compare/cryptpad-0.0.14...cryptpad-0.0.15) (2022-07-27)
+
+### Chore
+
+- update docker general non-major ([#3313](https://github.com/truecharts/apps/issues/3313))
+
+
+
+
+## [cryptpad-0.0.14](https://github.com/truecharts/apps/compare/cryptpad-0.0.13...cryptpad-0.0.14) (2022-07-26)
 
 ### Chore
 
 - update home links ([#3291](https://github.com/truecharts/apps/issues/3291))
-  - update docker general non-major ([#3313](https://github.com/truecharts/apps/issues/3313))
+  - update helm general non-major helm releases ([#3302](https://github.com/truecharts/apps/issues/3302))
 
 
 
 
-## [mariadb-3.0.46](https://github.com/truecharts/apps/compare/mariadb-3.0.44...mariadb-3.0.46) (2022-07-25)
+## [cryptpad-0.0.13](https://github.com/truecharts/apps/compare/cryptpad-0.0.12...cryptpad-0.0.13) (2022-07-25)
+
+### Chore
+
+- update docker general non-major ([#3300](https://github.com/truecharts/apps/issues/3300))
+
+  ### Chore
+
+- add fake digest to new incubator Apps to fetch digests
+
+
+
+
+## [cryptpad-0.0.12](https://github.com/truecharts/apps/compare/cryptpad-0.0.11...cryptpad-0.0.12) (2022-07-23)
 
 ### Chore
 
 - Auto-update chart README [skip ci]
-  - update helm chart common to v10.4.8 ([#3296](https://github.com/truecharts/apps/issues/3296))
-  - update docker general non-major ([#3295](https://github.com/truecharts/apps/issues/3295))
+  - Auto-update chart README [skip ci]
+  - update helm general non-major helm releases ([#3280](https://github.com/truecharts/apps/issues/3280))
 
 
 
 
-## [mariadb-3.0.45](https://github.com/truecharts/apps/compare/mariadb-3.0.44...mariadb-3.0.45) (2022-07-25)
-
-### Chore
-
-- update docker general non-major ([#3295](https://github.com/truecharts/apps/issues/3295))
-
-
-
-
-## [mariadb-3.0.44](https://github.com/truecharts/apps/compare/mariadb-3.0.43...mariadb-3.0.44) (2022-07-24)
-
-### Chore
-
-- update docker general non-major ([#3284](https://github.com/truecharts/apps/issues/3284))
-
-
-
-
-## [mariadb-3.0.43](https://github.com/truecharts/apps/compare/mariadb-3.0.42...mariadb-3.0.43) (2022-07-23)
-
-### Chore
-
-- update helm chart common to v10.4.7 ([#3277](https://github.com/truecharts/apps/issues/3277))
-
-
-
-
-## [mariadb-3.0.42](https://github.com/truecharts/apps/compare/mariadb-3.0.41...mariadb-3.0.42) (2022-07-23)
-
-### Chore
-
-- update docker general non-major ([#3276](https://github.com/truecharts/apps/issues/3276))
-
-
-
-
-## [mariadb-3.0.41](https://github.com/truecharts/apps/compare/mariadb-3.0.40...mariadb-3.0.41) (2022-07-22)
-
-### Chore
-
-- Bump all charts to generate config and container references due to huge increase of repository
-
-
-
-## [mariadb-3.0.40](https://github.com/truecharts/apps/compare/mariadb-3.0.39...mariadb-3.0.40) (2022-07-22)
-
-### Chore
-
-- update docker general non-major ([#3258](https://github.com/truecharts/apps/issues/3258))
-
-
-
-## [mariadb-3.0.39](https://github.com/truecharts/apps/compare/mariadb-3.0.38...mariadb-3.0.39) (2022-07-21)
+## [cryptpad-0.0.12](https://github.com/truecharts/apps/compare/cryptpad-0.0.11...cryptpad-0.0.12) (2022-07-23)
 
 ### Chore
 
 - Auto-update chart README [skip ci]
+  - update helm general non-major helm releases ([#3280](https://github.com/truecharts/apps/issues/3280))
+
+
+
+
+## [cryptpad-0.0.12](https://github.com/truecharts/apps/compare/cryptpad-0.0.11...cryptpad-0.0.12) (2022-07-23)
+
+### Chore
+
+- update helm general non-major helm releases ([#3280](https://github.com/truecharts/apps/issues/3280))
+
+
+
+
+## [cryptpad-0.0.11](https://github.com/truecharts/apps/compare/cryptpad-0.0.10...cryptpad-0.0.11) (2022-07-22)
+
+### Chore
+
 - Auto-update chart README [skip ci]
-- Auto-update chart README [skip ci]
-- update helm chart common to v10.4.6
+  - Bump all charts to generate config and container references due to huge increase of repository
+
+
+
+## [cryptpad-0.0.10]cryptpad-0.0.10 (2022-07-20)
 
 ### Feat
 
-- force the use of TCCR in CI ([#3226](https://github.com/truecharts/apps/issues/3226))
-
-
-
-## [mariadb-3.0.39](https://github.com/truecharts/apps/compare/mariadb-3.0.38...mariadb-3.0.39) (2022-07-21)
-
-### Chore
-
-- Auto-update chart README [skip ci]
-- Auto-update chart README [skip ci]
-- update helm chart common to v10.4.6
-
-### Feat
-
-- force the use of TCCR in CI ([#3226](https://github.com/truecharts/apps/issues/3226))
-
-
-
-## [mariadb-3.0.39](https://github.com/truecharts/apps/compare/mariadb-3.0.38...mariadb-3.0.39) (2022-07-21)
-
-### Chore
-
-- Auto-update chart README [skip ci]
-- update helm chart common to v10.4.6
-
-### Feat
-
-- force the use of TCCR in CI ([#3226](https://github.com/truecharts/apps/issues/3226))
-
-
-
-## [mariadb-3.0.39](https://github.com/truecharts/apps/compare/mariadb-3.0.38...mariadb-3.0.39) (2022-07-20)
-
-### Chore
-
-- update helm chart common to v10.4.6
-
-### Feat
-
-- force the use of TCCR in CI ([#3226](https://github.com/truecharts/apps/issues/3226))
-
-
-
-
-
-## [mariadb-3.0.36](https://github.com/truecharts/apps/compare/mariadb-3.0.35...mariadb-3.0.36) (2022-07-16)
-
-### Chore
-
-- update docker general non-major ([#3192](https://github.com/truecharts/apps/issues/3192))
-
-
-
-## [memcached-3.0.36](https://github.com/truecharts/apps/compare/memcached-3.0.35...memcached-3.0.36) (2022-07-14)
-
-### Fix
-
-- regenerate catalog and update template
-
-
-
-## [memcached-3.0.35](https://github.com/truecharts/apps/compare/memcached-3.0.33...memcached-3.0.35) (2022-07-14)
-
-### Fix
-
-- bump to ensure .helmignore is present on all Charts
-
-
-
-
-## [memcached-3.0.32](https://github.com/truecharts/apps/compare/memcached-3.0.30...memcached-3.0.32) (2022-07-12)
-
-### Chore
-
-- update icons ([#3156](https://github.com/truecharts/apps/issues/3156))
-- bump to cleanup old docs and use correct icon urls
-
-
-
-## [memcached-3.0.30](https://github.com/truecharts/apps/compare/memcached-3.0.29...memcached-3.0.30) (2022-07-12)
-
-### Chore
-
-- bump to regenerate documentation
-
-
-
-<a name="memcached-3.0.29"></a>
+- move dev apps to incubator and remove bad content from dev
+3.0.29"></a>
 ### [memcached-3.0.29](https://github.com/truecharts/apps/compare/memcached-3.0.28...memcached-3.0.29) (2022-07-12)
 
 #### Chore
