@@ -33,7 +33,7 @@ For this application We used the `Nextcloud` provided by [TrueCharts](https://tr
 
 **Application Name**
 
-```
+```text
 nextcloud
 ```
 
@@ -41,7 +41,7 @@ Name it whatever you want, We stick with the chart name for now
 
 **NEXTCLOUD_ADMIN_USER (First Install Only)**
 
-```
+```text
 USERNAME
 ```
 
@@ -51,7 +51,7 @@ USERNAME
 
 **NEXTCLOUD_ADMIN_PASSWORD (First Install Only)**
 
-```
+```text
 PASSWORD
 ```
 
