@@ -299,7 +299,6 @@ The intro needs improvement ;)
 |medusa                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |medusa                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |meshroom                  |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|metallb                   |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |metube                    |downloads             |PVC      |-              |/downloads                                           |Read/Write|Enabled                |
 |minecraft-bedrock         |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |minecraft-java            |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -1265,5 +1264,11 @@ The intro needs improvement ;)
 |zoneminder                     |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |zoneminder                     |datapath                   |PVC     |-            |/var/cache/zoneminder                            |Read/Write|Enabled                |
 |zusam                          |data                       |PVC     |-            |/zusam/data                                      |Read/Write|Enabled                |
+
+## Enterprise
+
+| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
+|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|metallb |-       |-   |-       |-        |-   |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script

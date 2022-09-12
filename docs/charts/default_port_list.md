@@ -12,7 +12,6 @@ they should provide no or minimal conflicts without being changed.
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
 |custom-app                |-              |-              |-    |-       |Service not Defined|-                                                                                                                                                                                                                                                                                                                                                            |
-|metallb                   |-              |-              |-    |-       |Service not Defined|-                                                                                                                                                                                                                                                                                                                                                            |
 |amcrest2mqtt              |main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
 |automatic-music-downloader|main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
 |cloudflareddns            |main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
@@ -1143,6 +1142,12 @@ they should provide no or minimal conflicts without being changed.
 |neko                           |mux-udp           |mux-udp        |52100|UDP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |neko                           |mux-tcp           |mux-tcp        |52100|TCP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |gokapi                         |main              |main           |53842|HTTP    |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
+
+## Enterprise
+
+| App | Service | Port Name | Port | Protocol | Status | Note |
+|:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
+|metallb |-       |-        |-   |-       |Service not Defined|-   |
 
 ## Official Apps
 

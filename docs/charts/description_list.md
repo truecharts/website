@@ -9,7 +9,6 @@ sidebar_position: 1
 
 | App | Container Source | Description |
 |:----|:-----------------|:------------|
-|<img src="https://truecharts.org/img/chart-icons/metallb.png" align="top" width="25" height="25" /> [metallb](https://github.com/truecharts/apps/tree/master/charts/core/metallb)                                                   |Not Found                                   |A network load-balancer implementation for Kubernetes using standard routing<br />protocols                                                                                                                                                                             |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/adguard-home.png" align="top" width="25" height="25" /> [adguard-home](https://truecharts.org/docs/charts/stable/adguard-home)                                          |adguard/adguardhome                         |Free and open source, powerful network-wide ads & trackers blocking DNS<br />server.                                                                                                                                                                                    |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/airdcpp-webclient.png" align="top" width="25" height="25" /> [airdcpp-webclient](https://truecharts.org/docs/charts/stable/airdcpp-webclient)                           |docker.io/gangefors/airdcpp-webclient       |AirDC++ Web Client is a locally installed application, which is designed<br />for flexible sharing of files or directories within groups of people<br />in a local network or over internet.                                                                            |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/airsonic-advanced.png" align="top" width="25" height="25" /> [airsonic-advanced](https://truecharts.org/docs/charts/stable/airsonic-advanced)                           |airsonicadvanced/airsonic-advanced          |Airsonic is a Free and Open Source community driven media server                                                                                                                                                                                                        |
@@ -350,7 +349,7 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/ztcuui-aio.png" align="top" width="25" height="25" /> [ztcuui-aio](https://truecharts.org/docs/charts/stable/ztcuui-aio)                                                |keynetworks/ztncui                          |ZeroTier network controller user interface in a Docker container                                                                                                                                                                                                        |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/zwavejs2mqtt.png" align="top" width="25" height="25" /> [zwavejs2mqtt](https://truecharts.org/docs/charts/stable/zwavejs2mqtt)                                          |zwavejs/zwavejs2mqtt                        |Fully configurable Zwave to MQTT gateway and Control Panel using NodeJS<br />and Vue                                                                                                                                                                                    |
 
-> Charts in this train: **340**
+> Charts in this train: **339**
 
 ---
 
@@ -773,6 +772,16 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/zusam.png" align="top" width="25" height="25" /> [zusam](https://truecharts.org/docs/charts/incubator/zusam)                                                                              |zusam/zusam                                   |Zusam is a free and open-source way to self-host private forums for groups<br />of friends.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 > Charts in this train: **395**
+
+---
+
+## Enterprise
+
+| App | Container Source | Description |
+|:----|:-----------------|:------------|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" align="top" width="25" height="25" /> [metallb](https://truecharts.org/docs/charts/enterprise/metallb)|Not Found|A network load-balancer implementation for Kubernetes using standard routing<br />protocols|
+
+> Charts in this train: **1**
 
 ---
 
