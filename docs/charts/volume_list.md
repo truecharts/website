@@ -453,6 +453,7 @@ The intro needs improvement ;)
 |quassel-web               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |quassel-web               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |radarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|rcon-webadmin             |db                    |PVC      |-              |/opt/rcon-web-admin/db                               |Read/Write|Enabled                |
 |readarr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |recipes                   |media                 |PVC      |-              |/opt/recipes/mediafiles                              |Read/Write|Enabled                |
 |recipes                   |static                |emptyDir |-              |/opt/recipes/staticfiles                             |Read/Write|Enabled                |
@@ -490,6 +491,7 @@ The intro needs improvement ;)
 |sickchill                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |sickgear                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |sickgear                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|simply-shorten            |config                |PVC      |-              |/config/db                                           |Read/Write|Enabled                |
 |smokeping                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |smokeping                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |snapdrop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -1090,7 +1092,6 @@ The intro needs improvement ;)
 |rapidphotodownloader           |datadir                    |PVC     |-            |/rapidphotodownloader                            |Read/Write|Enabled                |
 |rapidphotodownloader           |destinantionfolder         |PVC     |-            |/media/destination                               |Read/Write|Enabled                |
 |rapidphotodownloader           |sourcefolder               |PVC     |-            |/media/source                                    |Read/Write|Enabled                |
-|rcon-webadmin                  |db                         |PVC     |-            |/opt/rcon-web-admin/db                           |Read/Write|Enabled                |
 |rdesktop                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |rdesktop                       |pathvarrundocker-sock      |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
 |reactive-resume                |-                          |-       |-            |-                                                |-         |Persistence not Defined|
@@ -1145,7 +1146,6 @@ The intro needs improvement ;)
 |shoko-server                   |importfolder               |PVC     |-            |/import                                          |Read/Write|Enabled                |
 |shortipy                       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |sia-daemon                     |datadirectory              |PVC     |-            |/sia-data                                        |Read/Write|Enabled                |
-|simply-shorten                 |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |sinusbot                       |data                       |PVC     |-            |/opt/sinusbot/data                               |Read/Write|Enabled                |
 |sinusbot                       |scriptspath                |PVC     |-            |/opt/sinusbot/scripts                            |Read/Write|Enabled                |
 |slack-invite                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
