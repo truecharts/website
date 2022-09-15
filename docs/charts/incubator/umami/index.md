@@ -1,21 +1,20 @@
-# autoscan
+# umami
 
-![Version: 0.0.28](https://img.shields.io/badge/Version-0.0.28-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-informational?style=flat-square) ![AppVersion: 1.38.0](https://img.shields.io/badge/AppVersion-1.38.0-informational?style=flat-square)
 
-Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system. Autoscan integrates with Sonarr, Radarr and Lidarr to fetch changes in near real-time without relying on the file system.
+Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [autoscan](https://truecharts.org/docs/charts/incubator/autoscan)
+For more information, please click here: [umami](https://truecharts.org/docs/charts/incubator/umami)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/incubator/autoscan>
-* <https://hotio.dev/containers/autoscan>
-* <https://hub.docker.com/r/hotio/autoscan>
+* <https://github.com/truecharts/charts/tree/master/charts/incubator/umami>
+* <https://github.com/umami-software/umami>
 
 ## Requirements
 
@@ -25,7 +24,8 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://library-charts.truecharts.org | common | 10.5.9 |
+| https://charts.truecharts.org/ | postgresql | 8.0.69 |
+| https://library-charts.truecharts.org | common | 10.5.6 |
 
 ## Installing the Chart
 
@@ -35,12 +35,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `autoscan`
+To install the chart with the release name `umami`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install autoscan TrueCharts/autoscan
+helm install umami TrueCharts/umami
 ```
 
 ## Uninstall
@@ -53,10 +53,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `autoscan` deployment
+To uninstall the `umami` deployment
 
 ```console
-helm uninstall autoscan
+helm uninstall umami
 ```
 
 ## Configuration
@@ -73,9 +73,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install autoscan \
+helm install umami \
   --set env.TZ="America/New York" \
-    TrueCharts/autoscan
+    TrueCharts/umami
 ```
 
 #### Configure using a yaml file
@@ -83,7 +83,7 @@ helm install autoscan \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install autoscan TrueCharts/autoscan -f values.yaml
+helm install umami TrueCharts/umami -f values.yaml
 ```
 
 #### Connecting to other charts
