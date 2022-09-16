@@ -34,8 +34,10 @@ The intro needs improvement ;)
 |audiobookshelf            |audiobooks            |PVC      |-              |/audiobooks                                          |Read/Write|Enabled                |
 |audiobookshelf            |metadata              |PVC      |-              |/metadata                                            |Read/Write|Enabled                |
 |authelia                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|autobrr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |automatic-music-downloader|config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |automatic-music-downloader|data                  |PVC      |-              |/downloads-amd                                       |Read/Write|Enabled                |
+|autoscan                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |avidemux                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |avidemux                  |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |babybuddy                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -675,8 +677,6 @@ The intro needs improvement ;)
 |authentik                      |geoip                      |PVC     |-            |/geoip                                           |Read/Write|Enabled                |
 |auto-yt-dl                     |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
 |auto-yt-dl                     |hostpath1                  |PVC     |-            |/app/Downloads                                   |Read/Write|Enabled                |
-|autobrr                        |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|autoscan                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |avorion                        |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |avorion                        |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |awesome-ttrss                  |icons                      |PVC     |-            |/var/www/feed-icons                              |Read/Write|Enabled                |
@@ -1216,6 +1216,7 @@ The intro needs improvement ;)
 |twonky-server                  |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |twonky-server                  |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |ubuntu-xrdp                    |ubuntu-xrdp                |PVC     |-            |/home/ubuntu/unraid                              |Read/Write|Enabled                |
+|umami                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |ungoogled-chromium             |datadir                    |PVC     |-            |/ungoogledchromium                               |Read/Write|Enabled                |
 |universal-media-server         |config                     |PVC     |-            |/root/.config/UMS/                               |Read/Write|Enabled                |
 |universal-media-server         |media                      |PVC     |-            |/media                                           |Read/Write|Enabled                |
