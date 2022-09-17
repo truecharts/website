@@ -1100,7 +1100,8 @@ The intro needs improvement ;)
 |redm                           |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |remotely                       |data                       |PVC     |-            |/remotely-data                                   |Read/Write|Enabled                |
 |restic-rest-server             |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
-|restreamer                     |datapath                   |PVC     |-            |/restreamer/db                                   |Read/Write|Enabled                |
+|restreamer                     |config                     |PVC     |-            |/core/config                                     |Read/Write|Enabled                |
+|restreamer                     |data                       |PVC     |-            |/core/data                                       |Read/Write|Enabled                |
 |rflood                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |rickroll                       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |rimgo                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
