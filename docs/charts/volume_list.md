@@ -1044,7 +1044,7 @@ The intro needs improvement ;)
 |plexripper                     |downloadfolder             |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
 |plexripper                     |moviedestinationfolder     |PVC     |-            |/movies                                          |Read/Write|Enabled                |
 |plexripper                     |tv-showdestinationfolder   |PVC     |-            |/tvshows                                         |Read/Write|Enabled                |
-|plextraktsync                  |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|plextraktsync                  |config                     |PVC     |-            |/app/config                                      |Read/Write|Enabled                |
 |post-recording                 |backupfolder               |PVC     |-            |/backup                                          |Read/Write|Enabled                |
 |post-recording                 |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |post-recording                 |watchfolder                |PVC     |-            |/watch                                           |Read/Write|Enabled                |
