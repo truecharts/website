@@ -691,6 +691,7 @@ The intro needs improvement ;)
 |barcodebuddy                   |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |barotrauma                     |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |barotrauma                     |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|batnoter                       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |bitcoin-node                   |blockhainstorage           |PVC     |-            |/bitcoin/.bitcoin                                |Read/Write|Enabled                |
 |bitcoind                       |data                       |PVC     |-            |/root/.bitcoin/                                  |Read/Write|Enabled                |
 |bitcoinunlimited               |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
@@ -835,6 +836,8 @@ The intro needs improvement ;)
 |fivem                          |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |flame                          |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
 |flashpaper                     |data                       |PVC     |-            |/var/www/html/data                               |Read/Write|Enabled                |
+|flatnotes                      |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
+|flemarr                        |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |flextv                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |fluttercoin-wallet             |datapath                   |PVC     |-            |/fluttercoin                                     |Read/Write|Enabled                |
 |fmd2-wine                      |appluamodulespath          |PVC     |-            |/app/FMD2/lua                                    |Read/Write|Enabled                |
@@ -896,6 +899,7 @@ The intro needs improvement ;)
 |hexo-blog                      |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |homebridge                     |config                     |PVC     |-            |/homebridge                                      |Read/Write|Enabled                |
 |homelablabelmaker              |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|homepage                       |config                     |PVC     |-            |/app/config                                      |Read/Write|Enabled                |
 |hoobs                          |applicationpath            |PVC     |-            |/hoobs                                           |Read/Write|Enabled                |
 |humhub                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |hurtworld                      |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -927,6 +931,7 @@ The intro needs improvement ;)
 |jump                           |backgrounds                |PVC     |-            |/backgrounds                                     |Read/Write|Enabled                |
 |jump                           |search                     |PVC     |-            |/search                                          |Read/Write|Enabled                |
 |jump                           |sites                      |PVC     |-            |/sites                                           |Read/Write|Enabled                |
+|jupyter                        |data                       |PVC     |-            |/home/jovyan/work                                |Read/Write|Enabled                |
 |kasm                           |pathopt                    |PVC     |-            |/opt                                             |Read/Write|Enabled                |
 |kasm                           |pathprofiles               |PVC     |-            |/profiles                                        |Read/Write|Enabled                |
 |kdenlive                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
@@ -948,6 +953,7 @@ The intro needs improvement ;)
 |lemur-cfssl                    |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |lemur-cfssl                    |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |lingva                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|linkwallet                     |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |liquid-dl                      |downloaddirectory          |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
 |livebook                       |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |livestreamdvr                  |config                     |PVC     |-            |/usr/local/share/twitchautomator/data/config     |Read/Write|Enabled                |
