@@ -692,6 +692,7 @@ The intro needs improvement ;)
 |barotrauma                     |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |barotrauma                     |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |batnoter                       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|bender                         |config                     |PVC     |-            |/app/static                                      |Read/Write|Enabled                |
 |bitcoin-node                   |blockhainstorage           |PVC     |-            |/bitcoin/.bitcoin                                |Read/Write|Enabled                |
 |bitcoind                       |data                       |PVC     |-            |/root/.bitcoin/                                  |Read/Write|Enabled                |
 |bitcoinunlimited               |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
@@ -1245,6 +1246,7 @@ The intro needs improvement ;)
 |vorta                          |backupsfrom                |PVC     |-            |/data/bkp_from                                   |Read Only |Enabled                |
 |vorta                          |backupsto                  |PVC     |-            |/data/bkp_to                                     |Read/Write|Enabled                |
 |vorta                          |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
+|wbo                            |data                       |PVC     |-            |/opt/app/server-data                             |Read/Write|Enabled                |
 |webp-server                    |storagecache               |PVC     |-            |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC     |-            |/opt/pics                                        |Read Only |Enabled                |
 |webtop                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
