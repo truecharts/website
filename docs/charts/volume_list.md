@@ -184,6 +184,7 @@ The intro needs improvement ;)
 |gonic                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |gotify                    |data                  |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |grafana                   |config                |PVC      |-              |/opt/bitnami/grafana/data                            |Read/Write|Enabled                |
+|grafana                   |grafana-tmp           |emptyDir |-              |/opt/bitnami/grafana/tmp                             |Read/Write|Enabled                |
 |grav                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |grav                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |grist                     |persist               |PVC      |-              |/persist                                             |Read/Write|Enabled                |
