@@ -32,6 +32,12 @@ If you need to reach a different service (which is not often the case!), you nee
 
 - `$NAME-$APPNAME-$SVCNAME.ix-$NAME.svc.cluster.local`
 
+## List Internal Domain Names using TrueTool
+
+TrueTool, a command-line utility, can list the internal DNS names of your apps using the command `./truetool.sh --dns`
+
+Follow the installation instructions on the github repo: https://github.com/truecharts/truetool
+
 ## Internal Domain Name generator
 
 ### Example
