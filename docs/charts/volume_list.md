@@ -701,6 +701,7 @@ The intro needs improvement ;)
 |blender                        |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |blender-desktop-g3             |internalshare              |PVC     |-            |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |blender-desktop-g3             |storageprojects            |PVC     |-            |/srv/projects                                    |Read/Write|Enabled                |
+|blocky                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |breitbandmessung-de            |config                     |PVC     |-            |/usr/src/app/config                              |Read/Write|Enabled                |
 |breitbandmessung-de            |messurementlogs            |PVC     |-            |/export/                                         |Read/Write|Enabled                |
 |btdex                          |btdex                      |PVC     |-            |/opt/btdex/cache                                 |Read/Write|Enabled                |
