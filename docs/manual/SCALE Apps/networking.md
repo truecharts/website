@@ -4,22 +4,15 @@ TrueCharts contain a number of networking options, some super-easy, others quite
 
 ## General Choices
 
-### Simply & LoadBalancer
+### LoadBalancer
 
-"Simple", is a simplified GUI version of the kubernetes "Loadbalancer" network object, hence the same applies to it as well asl "Loadbalancer"
-
-Loadbalancer connects a service targetPort directly to the Host Network. However: it can do so in lower ranges than NodePort, making it a great solution for things like DNS servers.
-
-There are, however, downsides to using LoadBalancer:
-
-- You can not connect two Apps to the same port
+Loadbalancer service exposes ports to the host. However it can do so in lower ranges than NodePort, making it a great solution for things like DNS servers.
 
 ### ClusterIP
 
-The "Basic" network mode, it create a special load-balancer called a "service" thats only available on the internal network between the Apps.
+ClusterIP creates a service that is only available on the internal kubernetes network. Ports are not exposed to the host.
 
-Don't think you can't connect to it though, because our [Reverse proxy](https://wiki.truecharts.org/general/reverse-proxy/) can forward most traffic for you!
-
+ClusterIP is recommended when apps are configured to use ingress (Traefik).
 
 ### Host Networking
 
@@ -28,17 +21,3 @@ This option is considered to be an advanced option and is rarely needed. It conn
 The reason this is not needed in most Apps, is because we already have great options to deal with most forms of network traffic and every maintainer has the goal to make sure you don't need this setting.
 
 Please refer to the documentation of individual Apps or the Support-Discussions section on github, if you think you might need this setting in your specific use case
-
-
-### NodePort
-
-The name already makes clear what this one does: It connect to a port on your node (the PC hosting your App).
-
-Its a special ClusterIP that forwards all traffic from a certain port on your host-system aka "node", directly to the service. However, it's also still a ClusterIP, so it's very well possible to use both the Reverse proxy and the NodePort, just not at the same port.
-
-There are, however, multiple downsides to using nodeports:
-
-- You can only pick ports above 9000
-- You can not connect two Apps to the same port
-
-
