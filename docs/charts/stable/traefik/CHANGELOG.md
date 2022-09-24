@@ -2,13 +2,11 @@
 
 
 
-## [traefik-14.0.0](https://github.com/truecharts/charts/compare/traefik-13.3.10...traefik-14.0.0) (2022-09-24)
+## [traefik-13.3.11](https://github.com/truecharts/charts/compare/traefik-14.0.0...traefik-13.3.11) (2022-09-24)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - bump major on new enterprise app to seperate helm updates
-  - Add a copy of Initial Apps selected for Enterprise Train ([#3749](https://github.com/truecharts/charts/issues/3749))
+- regex redirect docs ([#3880](https://github.com/truecharts/charts/issues/3880))
 
 
 
