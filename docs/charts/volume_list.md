@@ -248,6 +248,7 @@ The intro needs improvement ;)
 |kimai                     |data                  |PVC      |-              |/opt/kimai/var/data                                  |Read/Write|Enabled                |
 |kimai                     |plugins               |PVC      |-              |/opt/kimai/var/plugins                               |Read/Write|Enabled                |
 |kitchenowl                |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|kiwix-serve               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |kms                       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |kodi-headless             |config                |PVC      |-              |/config/.kodi                                        |Read/Write|Enabled                |
 |kodi-headless             |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -296,7 +297,7 @@ The intro needs improvement ;)
 |mattermost                |plugins               |PVC      |-              |/mattermost/plugins                                  |Read/Write|Enabled                |
 |mattermost                |clientplugins         |PVC      |-              |/mattermost/client/plugins                           |Read/Write|Enabled                |
 |mattermost                |bleveindexes          |PVC      |-              |/mattermost/bleve-indexes                            |Read/Write|Enabled                |
-|mealie                    |config                |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
+|mealie                    |data                  |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |mediainfo                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mediainfo                 |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |medusa                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -943,7 +944,6 @@ The intro needs improvement ;)
 |kerbalspaceprogram-lmp         |serverfiles                |PVC     |-            |/lunamultiplayer                                 |Read/Write|Enabled                |
 |kerio-connect                  |kerio-connect              |PVC     |-            |/backup                                          |Read/Write|Enabled                |
 |kitana                         |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
-|kiwix-serve                    |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |krusader                       |containerpath              |PVC     |-            |/krusader                                        |Read/Write|Enabled                |
 |krusader                       |datapath                   |PVC     |-            |/mnt/user                                        |Read/Write|Enabled                |
 |lancache-dns                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
