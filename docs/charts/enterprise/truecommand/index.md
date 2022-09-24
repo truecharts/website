@@ -1,19 +1,18 @@
-# nextcloud
+# truecommand
 
-A private cloud server that puts the control and security of your own data back into your hands.
+Aggregated management of TrueNAS devices
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [nextcloud](https://truecharts.org/docs/charts/stable/nextcloud)
+For more information, please click here: [truecommand](https://truecharts.org/docs/charts/enterprise/truecommand)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/stable/nextcloud>
-* <https://github.com/nextcloud/docker>
-* <https://github.com/nextcloud/helm>
+* <https://github.com/truecharts/charts/tree/master/charts/enterprise/truecommand>
+* <https://hub.docker.com/r/ixsystems/truecommand>
 
 ## Requirements
 
@@ -23,10 +22,7 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://charts.truecharts.org/ | collabora-online | 12.1.41 |
-| https://charts.truecharts.org/ | postgresql | 8.0.78 |
-| https://charts.truecharts.org | redis | 3.0.75 |
-| https://library-charts.truecharts.org | common | 10.5.10 |
+| https://library-charts.truecharts.org | common | 10.5.9 |
 
 ## Installing the Chart
 
@@ -36,12 +32,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `nextcloud`
+To install the chart with the release name `truecommand`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install nextcloud TrueCharts/nextcloud
+helm install truecommand TrueCharts/truecommand
 ```
 
 ## Uninstall
@@ -54,10 +50,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `nextcloud` deployment
+To uninstall the `truecommand` deployment
 
 ```console
-helm uninstall nextcloud
+helm uninstall truecommand
 ```
 
 ## Configuration
@@ -74,9 +70,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install nextcloud \
+helm install truecommand \
   --set env.TZ="America/New York" \
-    TrueCharts/nextcloud
+    TrueCharts/truecommand
 ```
 
 #### Configure using a yaml file
@@ -84,7 +80,7 @@ helm install nextcloud \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install nextcloud TrueCharts/nextcloud -f values.yaml
+helm install truecommand TrueCharts/truecommand -f values.yaml
 ```
 
 #### Connecting to other charts

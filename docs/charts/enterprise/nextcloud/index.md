@@ -1,19 +1,19 @@
-# littlelink
+# nextcloud
 
-Easy platform to combine all your social links
+A private cloud server that puts the control and security of your own data back into your hands.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [littlelink](https://truecharts.org/docs/charts/stable/littlelink)
+For more information, please click here: [nextcloud](https://truecharts.org/docs/charts/enterprise/nextcloud)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/stable/littlelink>
-* <https://github.com/techno-tim/littlelink-server>
-* <https://github.com/sethcottle/littlelink>
+* <https://github.com/truecharts/charts/tree/master/charts/enterprise/nextcloud>
+* <https://github.com/nextcloud/docker>
+* <https://github.com/nextcloud/helm>
 
 ## Requirements
 
@@ -23,7 +23,10 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://library-charts.truecharts.org | common | 10.5.10 |
+| https://charts.truecharts.org/ | collabora-online | 12.1.39 |
+| https://charts.truecharts.org/ | postgresql | 8.0.75 |
+| https://charts.truecharts.org | redis | 3.0.71 |
+| https://library-charts.truecharts.org | common | 10.5.9 |
 
 ## Installing the Chart
 
@@ -33,12 +36,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `littlelink`
+To install the chart with the release name `nextcloud`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install littlelink TrueCharts/littlelink
+helm install nextcloud TrueCharts/nextcloud
 ```
 
 ## Uninstall
@@ -51,10 +54,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `littlelink` deployment
+To uninstall the `nextcloud` deployment
 
 ```console
-helm uninstall littlelink
+helm uninstall nextcloud
 ```
 
 ## Configuration
@@ -71,9 +74,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install littlelink \
+helm install nextcloud \
   --set env.TZ="America/New York" \
-    TrueCharts/littlelink
+    TrueCharts/nextcloud
 ```
 
 #### Configure using a yaml file
@@ -81,7 +84,7 @@ helm install littlelink \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install littlelink TrueCharts/littlelink -f values.yaml
+helm install nextcloud TrueCharts/nextcloud -f values.yaml
 ```
 
 #### Connecting to other charts

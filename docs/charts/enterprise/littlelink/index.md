@@ -1,20 +1,19 @@
-# traefik
+# littlelink
 
-Traefik is a flexible reverse proxy and Ingress Provider.
+Easy platform to combine all your social links
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [traefik](https://truecharts.org/docs/charts/stable/traefik)
+For more information, please click here: [littlelink](https://truecharts.org/docs/charts/enterprise/littlelink)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/stable/traefik>
-* <https://github.com/traefik/traefik>
-* <https://github.com/traefik/traefik-helm-chart>
-* <https://traefik.io/>
+* <https://github.com/truecharts/charts/tree/master/charts/enterprise/littlelink>
+* <https://github.com/techno-tim/littlelink-server>
+* <https://github.com/sethcottle/littlelink>
 
 ## Requirements
 
@@ -24,7 +23,7 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://library-charts.truecharts.org | common | 10.5.10 |
+| https://library-charts.truecharts.org | common | 10.5.9 |
 
 ## Installing the Chart
 
@@ -34,12 +33,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `traefik`
+To install the chart with the release name `littlelink`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install traefik TrueCharts/traefik
+helm install littlelink TrueCharts/littlelink
 ```
 
 ## Uninstall
@@ -52,10 +51,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `traefik` deployment
+To uninstall the `littlelink` deployment
 
 ```console
-helm uninstall traefik
+helm uninstall littlelink
 ```
 
 ## Configuration
@@ -72,9 +71,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install traefik \
+helm install littlelink \
   --set env.TZ="America/New York" \
-    TrueCharts/traefik
+    TrueCharts/littlelink
 ```
 
 #### Configure using a yaml file
@@ -82,7 +81,7 @@ helm install traefik \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install traefik TrueCharts/traefik -f values.yaml
+helm install littlelink TrueCharts/littlelink -f values.yaml
 ```
 
 #### Connecting to other charts
