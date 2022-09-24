@@ -1,19 +1,19 @@
-# transmission
+# portainer-ce
 
-fast, easy, and free BitTorrent client.
+Container management made easy
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [transmission](https://truecharts.org/docs/charts/stable/transmission)
+For more information, please click here: [portainer-ce](https://truecharts.org/docs/charts/incubator/portainer-ce)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/stable/transmission>
-* <https://github.com/transmission/transmission>
-* <https://hub.docker.com/r/linuxserver/transmission>
+* <https://github.com/truecharts/charts/tree/master/charts/incubator/portainer-ce>
+* <https://docs.portainer.io/v/ce-2.11/start/install/server/kubernetes/baremetal>
+* <https://hub.docker.com/r/portainer/portainer-ce>
 
 ## Requirements
 
@@ -33,12 +33,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `transmission`
+To install the chart with the release name `portainer-ce`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install transmission TrueCharts/transmission
+helm install portainer-ce TrueCharts/portainer-ce
 ```
 
 ## Uninstall
@@ -51,10 +51,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `transmission` deployment
+To uninstall the `portainer-ce` deployment
 
 ```console
-helm uninstall transmission
+helm uninstall portainer-ce
 ```
 
 ## Configuration
@@ -71,9 +71,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install transmission \
+helm install portainer-ce \
   --set env.TZ="America/New York" \
-    TrueCharts/transmission
+    TrueCharts/portainer-ce
 ```
 
 #### Configure using a yaml file
@@ -81,7 +81,7 @@ helm install transmission \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install transmission TrueCharts/transmission -f values.yaml
+helm install portainer-ce TrueCharts/portainer-ce -f values.yaml
 ```
 
 #### Connecting to other charts
