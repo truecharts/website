@@ -1,17 +1,17 @@
 # blocky
 
-Blocky is a DNS proxy and ad-blocker for the local network written in Go
+Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written in Go
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [blocky](https://truecharts.org/docs/charts/incubator/blocky)
+For more information, please click here: [blocky](https://truecharts.org/docs/charts/enterprise/blocky)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/incubator/blocky>
+* <https://github.com/truecharts/charts/tree/master/charts/enterprise/blocky>
 * <https://0xerr0r.github.io/blocky/>
 * <https://github.com/0xERR0R/blocky>
 * <https://github.com/Mozart409/blocky-frontend>
