@@ -1,19 +1,18 @@
-# authentik
+# lenpaste
 
-authentik is an open-source Identity Provider focused on flexibility and versatility.
+Lenpaste is a web service that allows you to share notes anonymously
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [authentik](https://truecharts.org/docs/charts/incubator/authentik)
+For more information, please click here: [lenpaste](https://truecharts.org/docs/charts/incubator/lenpaste)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/incubator/authentik>
-* <https://github.com/goauthentik/authentik>
-* <https://goauthentik.io/docs/>
+* <https://github.com/truecharts/charts/tree/master/charts/incubator/lenpaste>
+* <https://git.lcomrade.su/root/lenpaste>
 
 ## Requirements
 
@@ -23,9 +22,8 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://charts.truecharts.org/ | postgresql | 8.0.87 |
-| https://charts.truecharts.org | redis | 3.0.84 |
-| https://library-charts.truecharts.org | common | 10.6.1 |
+| https://charts.truecharts.org/ | postgresql | 8.0.78 |
+| https://library-charts.truecharts.org | common | 10.5.10 |
 
 ## Installing the Chart
 
@@ -35,12 +33,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `authentik`
+To install the chart with the release name `lenpaste`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install authentik TrueCharts/authentik
+helm install lenpaste TrueCharts/lenpaste
 ```
 
 ## Uninstall
@@ -53,10 +51,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `authentik` deployment
+To uninstall the `lenpaste` deployment
 
 ```console
-helm uninstall authentik
+helm uninstall lenpaste
 ```
 
 ## Configuration
@@ -73,9 +71,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install authentik \
+helm install lenpaste \
   --set env.TZ="America/New York" \
-    TrueCharts/authentik
+    TrueCharts/lenpaste
 ```
 
 #### Configure using a yaml file
@@ -83,7 +81,7 @@ helm install authentik \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install authentik TrueCharts/authentik -f values.yaml
+helm install lenpaste TrueCharts/lenpaste -f values.yaml
 ```
 
 #### Connecting to other charts
