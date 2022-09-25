@@ -2,13 +2,11 @@
 
 
 
-## [truecommand-12.0.0](https://github.com/truecharts/charts/compare/truecommand-11.0.32...truecommand-12.0.0) (2022-09-24)
+## [truecommand-11.0.33](https://github.com/truecharts/charts/compare/truecommand-12.0.0...truecommand-11.0.33) (2022-09-25)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - bump major on new enterprise app to seperate helm updates
-  - Add a copy of Initial Apps selected for Enterprise Train ([#3749](https://github.com/truecharts/charts/issues/3749))
+- update helm general non-major ([#3898](https://github.com/truecharts/charts/issues/3898))
 
 
 

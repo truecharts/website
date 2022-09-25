@@ -2,13 +2,11 @@
 
 
 
-## [nextcloud-16.0.0](https://github.com/truecharts/charts/compare/nextcloud-15.3.17...nextcloud-16.0.0) (2022-09-24)
+## [nextcloud-15.3.18](https://github.com/truecharts/charts/compare/nextcloud-16.0.0...nextcloud-15.3.18) (2022-09-25)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - bump major on new enterprise app to seperate helm updates
-  - Add a copy of Initial Apps selected for Enterprise Train ([#3749](https://github.com/truecharts/charts/issues/3749))
+- update helm general non-major ([#3898](https://github.com/truecharts/charts/issues/3898))
 
 
 

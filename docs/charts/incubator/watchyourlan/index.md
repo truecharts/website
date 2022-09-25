@@ -1,19 +1,18 @@
-# littlelink
+# watchyourlan
 
-Easy platform to combine all your social links
+Lightweight network IP scanner with web GUI
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [littlelink](https://truecharts.org/docs/charts/enterprise/littlelink)
+For more information, please click here: [watchyourlan](https://truecharts.org/docs/charts/incubator/watchyourlan)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/enterprise/littlelink>
-* <https://github.com/techno-tim/littlelink-server>
-* <https://github.com/sethcottle/littlelink>
+* <https://github.com/truecharts/charts/tree/master/charts/incubator/watchyourlan>
+* <https://github.com/aceberg/WatchYourLAN>
 
 ## Requirements
 
@@ -23,7 +22,7 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://library-charts.truecharts.org | common | 10.6.0 |
+| https://library-charts.truecharts.org | common | 10.5.10 |
 
 ## Installing the Chart
 
@@ -33,12 +32,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `littlelink`
+To install the chart with the release name `watchyourlan`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install littlelink TrueCharts/littlelink
+helm install watchyourlan TrueCharts/watchyourlan
 ```
 
 ## Uninstall
@@ -51,10 +50,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `littlelink` deployment
+To uninstall the `watchyourlan` deployment
 
 ```console
-helm uninstall littlelink
+helm uninstall watchyourlan
 ```
 
 ## Configuration
@@ -71,9 +70,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install littlelink \
+helm install watchyourlan \
   --set env.TZ="America/New York" \
-    TrueCharts/littlelink
+    TrueCharts/watchyourlan
 ```
 
 #### Configure using a yaml file
@@ -81,7 +80,7 @@ helm install littlelink \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install littlelink TrueCharts/littlelink -f values.yaml
+helm install watchyourlan TrueCharts/watchyourlan -f values.yaml
 ```
 
 #### Connecting to other charts
