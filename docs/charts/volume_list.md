@@ -702,7 +702,6 @@ The intro needs improvement ;)
 |blender                        |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |blender-desktop-g3             |internalshare              |PVC     |-            |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |blender-desktop-g3             |storageprojects            |PVC     |-            |/srv/projects                                    |Read/Write|Enabled                |
-|blocky                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |breitbandmessung-de            |config                     |PVC     |-            |/usr/src/app/config                              |Read/Write|Enabled                |
 |breitbandmessung-de            |messurementlogs            |PVC     |-            |/export/                                         |Read/Write|Enabled                |
 |btdex                          |btdex                      |PVC     |-            |/opt/btdex/cache                                 |Read/Write|Enabled                |
@@ -1054,6 +1053,7 @@ The intro needs improvement ;)
 |plexripper                     |moviedestinationfolder     |PVC     |-            |/movies                                          |Read/Write|Enabled                |
 |plexripper                     |tv-showdestinationfolder   |PVC     |-            |/tvshows                                         |Read/Write|Enabled                |
 |plextraktsync                  |config                     |PVC     |-            |/app/config                                      |Read/Write|Enabled                |
+|portainer-ce                   |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |post-recording                 |backupfolder               |PVC     |-            |/backup                                          |Read/Write|Enabled                |
 |post-recording                 |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |post-recording                 |watchfolder                |PVC     |-            |/watch                                           |Read/Write|Enabled                |
@@ -1281,6 +1281,7 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|blocky  |-       |-   |-       |-        |-   |Persistence not Defined|
 |metallb |-       |-   |-       |-        |-   |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
