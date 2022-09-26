@@ -673,10 +673,6 @@ The intro needs improvement ;)
 |assettocorsa                   |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |assettocorsa                   |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |aurora-files                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
-|authentik                      |media                      |PVC     |-            |/media                                           |Read/Write|Enabled                |
-|authentik                      |templates                  |PVC     |-            |/templates                                       |Read/Write|Enabled                |
-|authentik                      |certs                      |PVC     |-            |/certs                                           |Read/Write|Enabled                |
-|authentik                      |geoip                      |PVC     |-            |/geoip                                           |Read/Write|Enabled                |
 |auto-yt-dl                     |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
 |auto-yt-dl                     |hostpath1                  |PVC     |-            |/app/Downloads                                   |Read/Write|Enabled                |
 |avorion                        |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -773,6 +769,7 @@ The intro needs improvement ;)
 |damselfly                      |pictures                   |PVC     |-            |/pictures                                        |Read/Write|Enabled                |
 |damselfly                      |thumbs                     |PVC     |-            |/thumbs                                          |Read/Write|Enabled                |
 |dashmachine                    |appdata                    |PVC     |-            |/dashmachine/dashmachine/user_data               |Read/Write|Enabled                |
+|dashy                          |icons                      |PVC     |-            |/app/public/item-icons                           |Read/Write|Enabled                |
 |dayofdefeatsource              |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |dayofdefeatsource              |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |daysofwar                      |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -908,7 +905,7 @@ The intro needs improvement ;)
 |hurtworld                      |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |hurtworld                      |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |icloudpd                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|icloudpd                       |data                       |PVC     |-            |/home/user/iCloud                                |Read/Write|Enabled                |
+|icloudpd                       |data                       |PVC     |-            |/home/apps/iCloud                                |Read/Write|Enabled                |
 |imgpush                        |storagecache               |PVC     |-            |/cache                                           |Read/Write|Enabled                |
 |imgpush                        |storageimages              |PVC     |-            |/images                                          |Read/Write|Enabled                |
 |import-ics                     |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
@@ -954,6 +951,7 @@ The intro needs improvement ;)
 |left4dead                      |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |lemur-cfssl                    |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |lemur-cfssl                    |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
+|lenpaste                       |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |lingva                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |linkwallet                     |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |liquid-dl                      |downloaddirectory          |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
@@ -1016,6 +1014,7 @@ The intro needs improvement ;)
 |obsidian                       |storageconfig              |PVC     |-            |/config/.config/obsidian                         |Read/Write|Enabled                |
 |obsidian                       |storagevaults              |PVC     |-            |/vaults                                          |Read/Write|Enabled                |
 |onlinecheckyourserver          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|openaudible                    |config                     |PVC     |-            |/config/OpenAudible                              |Read/Write|Enabled                |
 |opengl-desktop-g3              |internalshare              |PVC     |-            |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |openproject                    |assets                     |PVC     |-            |/var/openproject/assets                          |Read/Write|Enabled                |
 |openra                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
@@ -1248,6 +1247,7 @@ The intro needs improvement ;)
 |vorta                          |backupsfrom                |PVC     |-            |/data/bkp_from                                   |Read Only |Enabled                |
 |vorta                          |backupsto                  |PVC     |-            |/data/bkp_to                                     |Read/Write|Enabled                |
 |vorta                          |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
+|watchyourlan                   |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |wbo                            |data                       |PVC     |-            |/opt/app/server-data                             |Read/Write|Enabled                |
 |webp-server                    |storagecache               |PVC     |-            |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC     |-            |/opt/pics                                        |Read Only |Enabled                |
@@ -1281,7 +1281,11 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|blocky  |-       |-   |-       |-        |-   |Persistence not Defined|
-|metallb |-       |-   |-       |-        |-   |Persistence not Defined|
+|authentik|media    |PVC |-       |/media    |Read/Write|Enabled                |
+|authentik|templates|PVC |-       |/templates|Read/Write|Enabled                |
+|authentik|certs    |PVC |-       |/certs    |Read/Write|Enabled                |
+|authentik|geoip    |PVC |-       |/geoip    |Read/Write|Enabled                |
+|blocky   |-        |-   |-       |-         |-         |Persistence not Defined|
+|metallb  |-        |-   |-       |-         |-         |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
