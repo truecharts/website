@@ -659,7 +659,7 @@ The intro needs improvement ;)
 |apache-webdav                  |data                       |PVC     |-            |/var/lib/dav/data                                |Read/Write|Enabled                |
 |apprise-api                    |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |appsmith                       |appsmithstacks             |PVC     |-            |/appsmith-stacks                                 |Read/Write|Enabled                |
-|archiveteam-warrior            |appdata                    |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
+|archiveteam-warrior            |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |ariang                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |arksurvivalevolved             |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |arksurvivalevolved             |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -1101,7 +1101,6 @@ The intro needs improvement ;)
 |rapidphotodownloader           |destinantionfolder         |PVC     |-            |/media/destination                               |Read/Write|Enabled                |
 |rapidphotodownloader           |sourcefolder               |PVC     |-            |/media/source                                    |Read/Write|Enabled                |
 |rdesktop                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|rdesktop                       |pathvarrundocker-sock      |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
 |reactive-resume                |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |red-discordbot                 |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |redisinsight                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
@@ -1252,14 +1251,11 @@ The intro needs improvement ;)
 |webp-server                    |storagecache               |PVC     |-            |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC     |-            |/opt/pics                                        |Read Only |Enabled                |
 |webtop                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|webtop                         |pathvarrundocker-sock      |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
 |wifi-card                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |wordle                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |xmrig                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |xware                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
-|yacht                          |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|yacht                          |dockersocket               |PVC     |-            |/var/run/docker.sock                             |Read/Write|Enabled                |
 |yacreaderlibraryserver         |comics                     |PVC     |-            |/comics                                          |Read/Write|Enabled                |
 |yacreaderlibraryserver         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |yacy                           |appdata                    |PVC     |-            |/opt/yacy_search_server/DATA                     |Read/Write|Enabled                |
