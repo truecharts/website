@@ -2,11 +2,12 @@
 
 
 
-## [jackett-11.0.97](https://github.com/truecharts/charts/compare/jackett-11.0.96...jackett-11.0.97) (2022-09-27)
+## [jackett-11.0.98](https://github.com/truecharts/charts/compare/jackett-11.0.96...jackett-11.0.98) (2022-09-27)
 
 ### Chore
 
 - Auto-update chart README [skip ci]
+  - arbitrary bump
 
   ### Fix
 
