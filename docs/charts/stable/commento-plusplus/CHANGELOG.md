@@ -2,6 +2,16 @@
 
 
 
+## [commento-plusplus-3.0.43](https://github.com/truecharts/charts/compare/commento-plusplus-3.0.42...commento-plusplus-3.0.43) (2022-09-27)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+
+
+
+
 ## [commento-plusplus-3.0.42](https://github.com/truecharts/charts/compare/commento-plusplus-3.0.41...commento-plusplus-3.0.42) (2022-09-27)
 
 ### Chore

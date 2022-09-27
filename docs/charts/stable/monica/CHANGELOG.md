@@ -2,6 +2,16 @@
 
 
 
+## [monica-3.0.52](https://github.com/truecharts/charts/compare/monica-3.0.51...monica-3.0.52) (2022-09-27)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+
+
+
+
 ## [monica-3.0.51](https://github.com/truecharts/charts/compare/monica-3.0.50...monica-3.0.51) (2022-09-27)
 
 ### Chore

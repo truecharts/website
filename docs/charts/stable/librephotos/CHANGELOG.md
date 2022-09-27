@@ -2,6 +2,16 @@
 
 
 
+## [librephotos-4.0.42](https://github.com/truecharts/charts/compare/librephotos-4.0.41...librephotos-4.0.42) (2022-09-27)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+
+
+
+
 ## [librephotos-4.0.41](https://github.com/truecharts/charts/compare/librephotos-4.0.40...librephotos-4.0.41) (2022-09-27)
 
 ### Chore

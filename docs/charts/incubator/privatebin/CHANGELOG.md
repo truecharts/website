@@ -2,6 +2,16 @@
 
 
 
+## [privatebin-0.0.41](https://github.com/truecharts/charts/compare/privatebin-0.0.40...privatebin-0.0.41) (2022-09-27)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+
+
+
+
 ## [privatebin-0.0.40](https://github.com/truecharts/charts/compare/privatebin-0.0.39...privatebin-0.0.40) (2022-09-27)
 
 ### Chore

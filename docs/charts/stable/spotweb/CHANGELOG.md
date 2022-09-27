@@ -2,6 +2,16 @@
 
 
 
+## [spotweb-4.0.41](https://github.com/truecharts/charts/compare/spotweb-4.0.40...spotweb-4.0.41) (2022-09-27)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+
+
+
+
 ## [spotweb-4.0.40](https://github.com/truecharts/charts/compare/spotweb-4.0.39...spotweb-4.0.40) (2022-09-27)
 
 ### Chore

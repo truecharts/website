@@ -2,6 +2,16 @@
 
 
 
+## [filerun-3.0.6](https://github.com/truecharts/charts/compare/filerun-3.0.5...filerun-3.0.6) (2022-09-27)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+
+
+
+
 ## [filerun-3.0.5](https://github.com/truecharts/charts/compare/filerun-3.0.4...filerun-3.0.5) (2022-09-27)
 
 ### Chore
