@@ -2,17 +2,16 @@
 
 
 
-## [mariadb-3.0.84](https://github.com/truecharts/charts/compare/mariadb-3.0.83...mariadb-3.0.84) (2022-09-27)
+## [collabora-online-12.1.49](https://github.com/truecharts/charts/compare/collabora-online-12.1.48...collabora-online-12.1.49) (2022-09-29)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - update docker general non-major ([#3920](https://github.com/truecharts/charts/issues/3920))
+- update helm chart common to v10.6.5 ([#3946](https://github.com/truecharts/charts/issues/3946))
 
 
 
 
-## [mariadb-3.0.83](https://github.com/truecharts/charts/compare/mariadb-3.0.82...mariadb-3.0.83) (2022-09-26)
+## [collabora-online-12.1.47](https://github.com/truecharts/charts/compare/collabora-online-12.1.46...collabora-online-12.1.47) (2022-09-26)
 
 ### Chore
 
@@ -22,7 +21,7 @@
 
 
 
-## [mariadb-3.0.82](https://github.com/truecharts/charts/compare/mariadb-3.0.81...mariadb-3.0.82) (2022-09-25)
+## [collabora-online-12.1.46](https://github.com/truecharts/charts/compare/collabora-online-12.1.45...collabora-online-12.1.46) (2022-09-25)
 
 ### Chore
 
@@ -32,29 +31,19 @@
 
 
 
-## [mariadb-3.0.81](https://github.com/truecharts/charts/compare/mariadb-3.0.80...mariadb-3.0.81) (2022-09-24)
+## [collabora-online-12.1.45](https://github.com/truecharts/charts/compare/collabora-online-12.1.43...collabora-online-12.1.45) (2022-09-24)
 
 ### Chore
 
 - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
   - update helm chart common to v10.6.0
-
-
-
-
-## [mariadb-3.0.80](https://github.com/truecharts/charts/compare/mariadb-3.0.78...mariadb-3.0.80) (2022-09-24)
-
-### Chore
-
-- Auto-update chart README [skip ci]
-  - Auto-update chart README [skip ci]
-  - update docker general non-major ([#3860](https://github.com/truecharts/charts/issues/3860))
   - update helm chart common to v10.5.12
 
 
 
 
-## [mariadb-3.0.79](https://github.com/truecharts/charts/compare/mariadb-3.0.78...mariadb-3.0.79) (2022-09-22)
+## [collabora-online-12.1.44](https://github.com/truecharts/charts/compare/collabora-online-12.1.43...collabora-online-12.1.44) (2022-09-22)
 
 ### Chore
 
@@ -64,7 +53,7 @@
 
 
 
-## [mariadb-3.0.78](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.78) (2022-09-22)
+## [collabora-online-12.1.43](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.43) (2022-09-22)
 
 ### Chore
 
@@ -82,16 +71,13 @@
   - Auto-update chart README [skip ci]
   - refactor Services SCALE GUI
   - update docker general non-major ([#3790](https://github.com/truecharts/charts/issues/3790))
-  - update docker general non-major ([#3818](https://github.com/truecharts/charts/issues/3818))
-  - update docker general non-major ([#3827](https://github.com/truecharts/charts/issues/3827))
-  - update helm chart common to v10.5.11 ([#3832](https://github.com/truecharts/charts/issues/3832))
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.78](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.78) (2022-09-21)
+## [collabora-online-12.1.43](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.43) (2022-09-21)
 
 ### Chore
 
@@ -107,17 +93,14 @@
   - Auto-update chart README [skip ci]
   - Auto-update chart README [skip ci]
   - refactor Services SCALE GUI
-  - update helm chart common to v10.5.11 ([#3832](https://github.com/truecharts/charts/issues/3832))
   - update docker general non-major ([#3790](https://github.com/truecharts/charts/issues/3790))
-  - update docker general non-major ([#3818](https://github.com/truecharts/charts/issues/3818))
-  - update docker general non-major ([#3827](https://github.com/truecharts/charts/issues/3827))
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.76](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.76) (2022-09-21)
+## [collabora-online-12.1.43](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.43) (2022-09-21)
 
 ### Chore
 
@@ -133,14 +116,13 @@
   - Auto-update chart README [skip ci]
   - refactor Services SCALE GUI
   - update docker general non-major ([#3790](https://github.com/truecharts/charts/issues/3790))
-  - update docker general non-major ([#3818](https://github.com/truecharts/charts/issues/3818))
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.76](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.76) (2022-09-20)
+## [collabora-online-12.1.43](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.43) (2022-09-20)
 
 ### Chore
 
@@ -155,16 +137,52 @@
   - Auto-update chart README [skip ci]
   - refactor Services SCALE GUI
   - update docker general non-major ([#3790](https://github.com/truecharts/charts/issues/3790))
-  - update docker general non-major ([#3818](https://github.com/truecharts/charts/issues/3818))
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
+## [collabora-online-12.1.43](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.43) (2022-09-20)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - refactor Services SCALE GUI
+  - update docker general non-major ([#3790](https://github.com/truecharts/charts/issues/3790))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
+  - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
-## [mariadb-3.0.75](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.75) (2022-09-19)
+
+
+## [collabora-online-12.1.43](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.43) (2022-09-19)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - Auto-update chart README [skip ci]
+  - refactor Services SCALE GUI
+  - update docker general non-major ([#3790](https://github.com/truecharts/charts/issues/3790))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
+  - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
+
+
+
+
+## [collabora-online-12.1.43](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.43) (2022-09-19)
 
 ### Chore
 
@@ -176,13 +194,13 @@
   - Auto-update chart README [skip ci]
   - refactor Services SCALE GUI
   - update docker general non-major ([#3790](https://github.com/truecharts/charts/issues/3790))
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.75](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.75) (2022-09-19)
+## [collabora-online-12.1.43](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.43) (2022-09-19)
 
 ### Chore
 
@@ -193,13 +211,13 @@
   - Auto-update chart README [skip ci]
   - refactor Services SCALE GUI
   - update docker general non-major ([#3790](https://github.com/truecharts/charts/issues/3790))
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.74](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.74) (2022-09-17)
+## [collabora-online-12.1.42](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.42) (2022-09-17)
 
 ### Chore
 
@@ -208,55 +226,64 @@
   - Auto-update chart README [skip ci]
   - Auto-update chart README [skip ci]
   - refactor Services SCALE GUI
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.74](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.74) (2022-09-18)
+## [collabora-online-12.1.42](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.42) (2022-09-18)
 
 ### Chore
 
 - Auto-update chart README [skip ci]
   - Auto-update chart README [skip ci]
   - Auto-update chart README [skip ci]
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.74](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.74) (2022-09-16)
+## [collabora-online-12.1.42](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.42) (2022-09-16)
 
 ### Chore
 
 - Auto-update chart README [skip ci]
   - Auto-update chart README [skip ci]
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.74](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.74) (2022-09-16)
+## [collabora-online-12.1.42](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.42) (2022-09-16)
 
 ### Chore
 
 - Auto-update chart README [skip ci]
-  - update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+  - update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
 
 
 
-## [mariadb-3.0.74](https://github.com/truecharts/charts/compare/mariadb-3.0.73...mariadb-3.0.74) (2022-09-15)
+## [collabora-online-12.1.42](https://github.com/truecharts/charts/compare/collabora-online-12.1.41...collabora-online-12.1.42) (2022-09-16)
 
 ### Chore
 
-- update docker general non-major ([#3772](https://github.com/truecharts/charts/issues/3772))
+- update docker general non-major ([#3787](https://github.com/truecharts/charts/issues/3787))
   - split serviceSelector ([#3751](https://github.com/truecharts/charts/issues/3751))
 
+
+
+
+## [mariadb-3.0.73](https://github.com/truecharts/charts/compare/mariadb-3.0.72...mariadb-3.0.73) (2022-09-13)
+
+### Chore
+
+- update helm chart common to v10.5.10
+  - update docker general non-major ([#3736](https://github.com/truecharts/charts/issues/3736))
 
 
 
