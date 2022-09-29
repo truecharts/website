@@ -2,12 +2,11 @@
 
 
 
-## [blocky-1.0.11](https://github.com/truecharts/charts/compare/blocky-1.0.10...blocky-1.0.11) (2022-09-27)
+## [blocky-1.1.0](https://github.com/truecharts/charts/compare/blocky-1.0.11...blocky-1.1.0) (2022-09-29)
 
-### Chore
+### Feat
 
-- Auto-update chart README [skip ci]
-  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+- add DoH support on main ingress ([#3959](https://github.com/truecharts/charts/issues/3959))
 
 
 
