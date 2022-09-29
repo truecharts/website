@@ -428,6 +428,8 @@ The intro needs improvement ;)
 |plex-utills               |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
 |plex-utills               |plexlibrary           |PVC      |-              |/films                                               |Read/Write|Enabled                |
 |podgrab                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|portainer-ce              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|portainer-ce              |cache                 |emptyDir |-              |/.cache                                              |Read/Write|Enabled                |
 |posterr                   |config                |PVC      |-              |/usr/src/app/config                                  |Read/Write|Enabled                |
 |posterr                   |custom                |PVC      |-              |/usr/src/app/public/custom                           |Read/Write|Enabled                |
 |pretend-youre-xyzzy       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -910,6 +912,8 @@ The intro needs improvement ;)
 |icloudpd                       |data                       |PVC     |-            |/home/apps/iCloud                                |Read/Write|Enabled                |
 |imgpush                        |storagecache               |PVC     |-            |/cache                                           |Read/Write|Enabled                |
 |imgpush                        |storageimages              |PVC     |-            |/images                                          |Read/Write|Enabled                |
+|immich                         |uploads                    |PVC     |-            |/usr/src/app/upload                              |Read/Write|Enabled                |
+|immich                         |proxy-conf                 |custom  |-            |/etc/nginx/                                      |Read/Write|Enabled                |
 |import-ics                     |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |import-ics                     |icsexportfolder            |PVC     |-            |/import_ics/ical_export                          |Read/Write|Enabled                |
 |inkscape-desktop-g3            |internalshare              |PVC     |-            |/UNRAID_SHARE                                    |Read/Write|Enabled                |
@@ -938,7 +942,7 @@ The intro needs improvement ;)
 |kasm                           |pathprofiles               |PVC     |-            |/profiles                                        |Read/Write|Enabled                |
 |kdenlive                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |kdenlive-vnc                   |content                    |PVC     |-            |/sharedContent                                   |Read/Write|Enabled                |
-|keeweb                         |storagenginx               |PVC     |-            |/etc/nginx/external/                             |Read/Write|Enabled                |
+|keeweb                         |nginx                      |PVC     |-            |/etc/nginx/external                              |Read/Write|Enabled                |
 |kerbalspaceprogram-lmp         |serverfiles                |PVC     |-            |/lunamultiplayer                                 |Read/Write|Enabled                |
 |kerio-connect                  |kerio-connect              |PVC     |-            |/backup                                          |Read/Write|Enabled                |
 |kitana                         |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
@@ -1008,6 +1012,7 @@ The intro needs improvement ;)
 |newyearcountdownclock          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |nexus-oss                      |data                       |PVC     |-            |/nexus-data                                      |Read/Write|Enabled                |
 |nightscout                     |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|noisedash                      |samples                    |PVC     |-            |/var/noisedash/samples                           |Read/Write|Enabled                |
 |nosqlclient                    |appdata                    |PVC     |-            |/data/db                                         |Read/Write|Enabled                |
 |notarius                       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |notea                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
@@ -1054,8 +1059,6 @@ The intro needs improvement ;)
 |plexripper                     |moviedestinationfolder     |PVC     |-            |/movies                                          |Read/Write|Enabled                |
 |plexripper                     |tv-showdestinationfolder   |PVC     |-            |/tvshows                                         |Read/Write|Enabled                |
 |plextraktsync                  |config                     |PVC     |-            |/app/config                                      |Read/Write|Enabled                |
-|portainer-ce                   |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
-|portainer-ce                   |cache                      |emptyDir|-            |/.cache                                          |Read/Write|Enabled                |
 |post-recording                 |backupfolder               |PVC     |-            |/backup                                          |Read/Write|Enabled                |
 |post-recording                 |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |post-recording                 |watchfolder                |PVC     |-            |/watch                                           |Read/Write|Enabled                |
