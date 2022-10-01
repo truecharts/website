@@ -2,12 +2,11 @@
 
 
 
-## [shlink-4.0.44](https://github.com/truecharts/charts/compare/shlink-4.0.43...shlink-4.0.44) (2022-09-27)
+## [shlink-4.0.45](https://github.com/truecharts/charts/compare/shlink-4.0.44...shlink-4.0.45) (2022-10-01)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+- update docker general non-major ([#3975](https://github.com/truecharts/charts/issues/3975))
 
 
 
