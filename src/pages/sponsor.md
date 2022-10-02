@@ -1,41 +1,50 @@
 # Sponsors Us
 
-## Sponsorship
+Opensource projects live and die with community support. To ensure TrueCharts can continue it's great effort to become the best resource for Helm Charts and TrueNAS SCALE Apps, we aim to become fully self-funding in the future.
 
-As a project we try to maintain strict independence and financial ethics, this means we actively disclose if we receive any funds for any kind of promotion or attention.
+## Project Sponsorship
 
-However: We are always open to promoting great projects and those projects are free to donate to us as a "thank you", regardless of donations/contributions.
+A sponsor gets a more-or-less little reward for their investment into our project. In the future we're also planning to add unique actions and rewards for existing sponsors, on-top-off the already great rewards!
+
+We currently offer multiple recurring sponsor tiers:
+
+[Patreon](https://patreon.org/truecharts)
+
+-----
 
 ## Donations
 
-As we have no formal legal entity, we can only accept donations on a personal basis.
+Donations are gifts that do not cover a reward and can be both aimed out our project or as a thank-you to one of our core-team members directly
 
-## Donation options
+### Project Donations
 
-### Ornias
+Project Donations can be made using one of the following channels:
+
+[Patreon](https://patreon.org/truecharts)
+
+[Github Sponsors](https://github.com/sponsors/truecharts)
+
+[Dutch IDEAL](https://bunq.me/truecharts)
+
+---
+
+## Personal Donations
+
+### Founder/Maintainer: Ornias
 
 One can use the following options to donate to the project maintainer, Ornias, directly:
 
-#### Github Sponsors
+[Github Sponsors](https://github.com/sponsors/Ornias1993)
 
-https://github.com/sponsors/Ornias1993
+[Ko-Fi](https://ko-fi.com/ornias)
 
-#### Patreon
+[Dutch IDEAL](https://bunq.me/ornias)
 
-https://patreon.com/ornias1993
 
-#### Ko-Fi
+### Co-Maintainer: Stavros
 
-https://ko-fi.com/ornias
+[Github Sponsors](https://github.com/stavros-k)
 
-#### Dutch IDEAL
-
-https://bunq.me/ornias
-
-#### SWIFT/IBAN Payments in EUR
-
-Owner: Kjeld Schouten-Lebbing
-Country: Netherlands
 
 ### Other contributors
 
