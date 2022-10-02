@@ -34,6 +34,10 @@ The intro needs improvement ;)
 |audiobookshelf            |audiobooks            |PVC      |-              |/audiobooks                                          |Read/Write|Enabled                |
 |audiobookshelf            |metadata              |PVC      |-              |/metadata                                            |Read/Write|Enabled                |
 |authelia                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|authentik                 |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
+|authentik                 |templates             |PVC      |-              |/templates                                           |Read/Write|Enabled                |
+|authentik                 |certs                 |PVC      |-              |/certs                                               |Read/Write|Enabled                |
+|authentik                 |geoip                 |PVC      |-              |/geoip                                               |Read/Write|Enabled                |
 |autobrr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |automatic-music-downloader|config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |automatic-music-downloader|data                  |PVC      |-              |/downloads-amd                                       |Read/Write|Enabled                |
@@ -940,6 +944,7 @@ The intro needs improvement ;)
 |jupyter                        |data                       |PVC     |-            |/home/jovyan/work                                |Read/Write|Enabled                |
 |kasm                           |pathopt                    |PVC     |-            |/opt                                             |Read/Write|Enabled                |
 |kasm                           |pathprofiles               |PVC     |-            |/profiles                                        |Read/Write|Enabled                |
+|kavitaemail                    |config                     |PVC     |-            |-                                                |Read/Write|Persistence is Disabled|
 |kdenlive                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |kdenlive-vnc                   |content                    |PVC     |-            |/sharedContent                                   |Read/Write|Enabled                |
 |keeweb                         |nginx                      |PVC     |-            |/etc/nginx/external                              |Read/Write|Enabled                |
@@ -987,6 +992,7 @@ The intro needs improvement ;)
 |meshcentral                    |files                      |PVC     |-            |/home/node/meshcentral/meshcentral-files         |Read/Write|Enabled                |
 |metatube                       |storagedatabase            |PVC     |-            |/database                                        |Read/Write|Enabled                |
 |metatube                       |storagedownloads           |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
+|midarr                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |mindustry                      |serverfiles                |PVC     |-            |/mindustry                                       |Read/Write|Enabled                |
 |minecraft-bungeecord           |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |minecraft-bungeecord           |server                     |PVC     |-            |/server                                          |Read/Write|Enabled                |
@@ -1107,7 +1113,8 @@ The intro needs improvement ;)
 |rdesktop                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |reactive-resume                |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |red-discordbot                 |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
-|redisinsight                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|redisinsight                   |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
+|redisinsight                   |logs                       |PVC     |-            |/logs                                            |Read/Write|Enabled                |
 |redm                           |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |remotely                       |data                       |PVC     |-            |/remotely-data                                   |Read/Write|Enabled                |
 |restic-rest-server             |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
@@ -1281,11 +1288,7 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|authentik|media    |PVC |-       |/media    |Read/Write|Enabled                |
-|authentik|templates|PVC |-       |/templates|Read/Write|Enabled                |
-|authentik|certs    |PVC |-       |/certs    |Read/Write|Enabled                |
-|authentik|geoip    |PVC |-       |/geoip    |Read/Write|Enabled                |
-|blocky   |-        |-   |-       |-         |-         |Persistence not Defined|
-|metallb  |-        |-   |-       |-         |-         |Persistence not Defined|
+|blocky  |-       |-   |-       |-        |-   |Persistence not Defined|
+|metallb |-       |-   |-       |-        |-   |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
