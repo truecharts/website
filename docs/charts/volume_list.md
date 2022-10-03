@@ -110,7 +110,6 @@ The intro needs improvement ;)
 |docker-compose            |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |docker-compose            |mnt                   |hostPath |/mnt           |/mnt                                                 |Read/Write|Enabled                |
 |docker-compose            |root                  |hostPath |/root          |/root                                                |Read/Write|Enabled                |
-|docker-compose            |cluster               |hostPath |/cluster       |/cluster                                             |Read/Write|Enabled                |
 |docker-compose            |docker-certs-ca       |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |docusaurus                |config                |PVC      |-              |/docusaurus                                          |Read/Write|Enabled                |
 |dokuwiki                  |config                |PVC      |-              |/bitnami/dokuwiki                                    |Read/Write|Enabled                |
@@ -992,6 +991,7 @@ The intro needs improvement ;)
 |meshcentral                    |files                      |PVC     |-            |/home/node/meshcentral/meshcentral-files         |Read/Write|Enabled                |
 |metatube                       |storagedatabase            |PVC     |-            |/database                                        |Read/Write|Enabled                |
 |metatube                       |storagedownloads           |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
+|microbin                       |data                       |PVC     |-            |/app/pasta_data                                  |Read/Write|Enabled                |
 |midarr                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |mindustry                      |serverfiles                |PVC     |-            |/mindustry                                       |Read/Write|Enabled                |
 |minecraft-bungeecord           |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
