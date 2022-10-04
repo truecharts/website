@@ -1005,6 +1005,7 @@ The intro needs improvement ;)
 |monero-node                    |blockchainstorage          |PVC     |-            |/home/monero/.bitmonero                          |Read/Write|Enabled                |
 |monero-node                    |containerdir1              |PVC     |-            |/usr/local                                       |Read/Write|Enabled                |
 |monero-node                    |containerdir2              |PVC     |-            |/src                                             |Read/Write|Enabled                |
+|money-balancer                 |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |mordhau                        |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |mordhau                        |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |moviegrabber                   |moviegrabber               |PVC     |-            |/media                                           |Read/Write|Enabled                |
