@@ -2,12 +2,12 @@
 
 
 
-## [redmine-3.0.51](https://github.com/truecharts/charts/compare/redmine-3.0.50...redmine-3.0.51) (2022-09-27)
+## [redmine-3.0.52](https://github.com/truecharts/charts/compare/redmine-3.0.51...redmine-3.0.52) (2022-10-04)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+- split addons in smaller templates ([#3979](https://github.com/truecharts/charts/issues/3979))
+  - update docker general non-major ([#4001](https://github.com/truecharts/charts/issues/4001))
 
 
 

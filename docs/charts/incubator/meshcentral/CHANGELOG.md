@@ -2,12 +2,12 @@
 
 
 
-## [meshcentral-4.0.11](https://github.com/truecharts/charts/compare/meshcentral-4.0.10...meshcentral-4.0.11) (2022-09-27)
+## [meshcentral-4.0.12](https://github.com/truecharts/charts/compare/meshcentral-4.0.11...meshcentral-4.0.12) (2022-10-04)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+- split addons in smaller templates ([#3979](https://github.com/truecharts/charts/issues/3979))
+  - update docker general non-major ([#4001](https://github.com/truecharts/charts/issues/4001))
 
 
 
