@@ -2,13 +2,12 @@
 
 
 
-## [home-assistant-15.0.56](https://github.com/truecharts/charts/compare/home-assistant-15.0.55...home-assistant-15.0.56) (2022-09-27)
+## [home-assistant-15.0.57](https://github.com/truecharts/charts/compare/home-assistant-15.0.56...home-assistant-15.0.57) (2022-10-05)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
-  - update docker general non-major ([#3920](https://github.com/truecharts/charts/issues/3920))
+- split addons in smaller templates ([#3979](https://github.com/truecharts/charts/issues/3979))
+  - update helm general non-major
 
 
 

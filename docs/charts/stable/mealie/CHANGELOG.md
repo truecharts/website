@@ -2,16 +2,12 @@
 
 
 
-## [mealie-10.0.4](https://github.com/truecharts/charts/compare/mealie-10.0.2...mealie-10.0.4) (2022-09-27)
+## [mealie-10.0.5](https://github.com/truecharts/charts/compare/mealie-10.0.4...mealie-10.0.5) (2022-10-05)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
-
-  ### Fix
-
-- fix whoopsie on questions ([#3928](https://github.com/truecharts/charts/issues/3928))
+- split addons in smaller templates ([#3979](https://github.com/truecharts/charts/issues/3979))
+  - update helm general non-major
 
 
 

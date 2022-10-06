@@ -2,12 +2,12 @@
 
 
 
-## [gotify-8.0.43](https://github.com/truecharts/charts/compare/gotify-8.0.42...gotify-8.0.43) (2022-09-27)
+## [gotify-8.0.44](https://github.com/truecharts/charts/compare/gotify-8.0.43...gotify-8.0.44) (2022-10-05)
 
 ### Chore
 
-- Auto-update chart README [skip ci]
-  - update helm general non-major ([#3925](https://github.com/truecharts/charts/issues/3925))
+- split addons in smaller templates ([#3979](https://github.com/truecharts/charts/issues/3979))
+  - update helm general non-major
 
 
 
