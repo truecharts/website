@@ -792,6 +792,9 @@ The intro needs improvement ;)
 |dns-doh-companion              |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |docker-hub-rss                 |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |dockerregistry                 |datastoragepath            |PVC     |-            |/var/lib/registry                                |Read/Write|Enabled                |
+|docspell                       |server                     |secret  |-            |/opt/server.conf                                 |Read Only |Enabled                |
+|docspell                       |joex                       |secret  |-            |/opt/joex.conf                                   |Read Only |Enabled                |
+|docspell                       |import                     |PVC     |-            |/import                                          |Read/Write|Enabled                |
 |dontstarvetogether             |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |dontstarvetogether             |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |dontstarvetogether             |token                      |PVC     |-            |/serverdata/.klei/DoNotStarveTogether            |Read/Write|Enabled                |
@@ -835,6 +838,7 @@ The intro needs improvement ;)
 |filegator                      |storageconfigfile          |PVC     |-            |/var/www/localhost/filegator/configuration.php   |Read Only |Enabled                |
 |fileshelter                    |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |filestash                      |appdata                    |PVC     |-            |/app/data/state/                                 |Read/Write|Enabled                |
+|fireflyiii-data-importer       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |firefox-desktop-g3             |internalshare              |PVC     |-            |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |fireshare                      |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |fireshare                      |processeddata              |PVC     |-            |/processed                                       |Read/Write|Enabled                |
