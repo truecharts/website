@@ -1186,6 +1186,7 @@ The intro needs improvement ;)
 |spaceengineers                 |serverconfig               |PVC     |-            |/appdata/space-engineers/instances               |Read/Write|Enabled                |
 |spaceengineers                 |serverfiles                |PVC     |-            |/appdata/space-engineers/SpaceEngineersDedicated |Read/Write|Enabled                |
 |spaceengineers                 |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|speedtest-tracker              |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |splunk                         |appcredspersist            |PVC     |-            |/opt/splunk/etc/auth                             |Read/Write|Enabled                |
 |splunk                         |configpersist              |PVC     |-            |/opt/splunk/etc/apps                             |Read/Write|Enabled                |
 |splunk                         |datapersist                |PVC     |-            |/splunkdata                                      |Read/Write|Enabled                |
@@ -1269,6 +1270,8 @@ The intro needs improvement ;)
 |webtop                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |wifi-card                      |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |wordle                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|xen-orchestra                  |xo-data                    |PVC     |-            |/var/lib/xo-server                               |Read/Write|Enabled                |
+|xen-orchestra                  |redis-data                 |PVC     |-            |/var/lib/redis                                   |Read/Write|Enabled                |
 |xmrig                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |xware                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
