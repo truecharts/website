@@ -712,6 +712,7 @@ The intro needs improvement ;)
 |bwapp                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |cadquery-jupyter               |workdir                    |PVC     |-            |/home/cq                                         |Read/Write|Enabled                |
 |cadquery-server                |-                          |-       |-            |-                                                |-         |Persistence not Defined|
+|cherry                         |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |chivalry-medievalwarfare       |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |chivalry-medievalwarfare       |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |chowdown                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
@@ -742,6 +743,7 @@ The intro needs improvement ;)
 |corekeeper                     |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |corekeeper                     |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |counterstrike2d                |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
+|coupon-store                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |cowyo                          |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |craftopia                      |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |craftopia                      |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -1228,8 +1230,6 @@ The intro needs improvement ;)
 |tracks                         |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |traktarr                       |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |trango                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|trilium                        |appdata                    |PVC     |-            |/home/node/trilium-data                          |Read/Write|Enabled                |
-|trilium                        |backups                    |PVC     |-            |/home/node/trilium-data/backup                   |Read/Write|Enabled                |
 |troddit                        |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |ts-dnsserver                   |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |ts3-manager                    |-                          |-       |-            |-                                                |-         |Persistence not Defined|
