@@ -1,19 +1,19 @@
-# lancache-monolithic
+# lancache-dns
 
-A monolithic lancache service capable of caching all CDNs in a single instance.
+DNS Chart service for a steam cache.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [lancache-monolithic](https://truecharts.org/docs/charts/incubator/lancache-monolithic)
+For more information, please click here: [lancache-dns](https://truecharts.org/docs/charts/stable/lancache-dns)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/incubator/lancache-monolithic>
-* <https://hub.docker.com/r/lancachenet/monolithic>
-* <https://github.com/lancachenet/monolithic>
+* <https://github.com/truecharts/charts/tree/master/charts/stable/lancache-dns>
+* <https://hub.docker.com/r/lancachenet/lancache-dns>
+* <https://github.com/lancachenet/lancache-dns>
 
 ## Requirements
 
@@ -33,12 +33,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `lancache-monolithic`
+To install the chart with the release name `lancache-dns`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install lancache-monolithic TrueCharts/lancache-monolithic
+helm install lancache-dns TrueCharts/lancache-dns
 ```
 
 ## Uninstall
@@ -51,10 +51,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `lancache-monolithic` deployment
+To uninstall the `lancache-dns` deployment
 
 ```console
-helm uninstall lancache-monolithic
+helm uninstall lancache-dns
 ```
 
 ## Configuration
@@ -71,9 +71,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install lancache-monolithic \
+helm install lancache-dns \
   --set env.TZ="America/New York" \
-    TrueCharts/lancache-monolithic
+    TrueCharts/lancache-dns
 ```
 
 #### Configure using a yaml file
@@ -81,7 +81,7 @@ helm install lancache-monolithic \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install lancache-monolithic TrueCharts/lancache-monolithic -f values.yaml
+helm install lancache-dns TrueCharts/lancache-dns -f values.yaml
 ```
 
 #### Connecting to other charts
