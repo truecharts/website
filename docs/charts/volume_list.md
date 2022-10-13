@@ -266,6 +266,9 @@ The intro needs improvement ;)
 |kopia                     |logs                  |PVC      |-              |/app/logs                                            |Read/Write|Enabled                |
 |kopia                     |rclone                |PVC      |-              |/app/rclone                                          |Read/Write|Enabled                |
 |kutt                      |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|lancache-dns              |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|lancache-monolithic       |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|lancache-monolithic       |logs                  |PVC      |-              |/data/logs                                           |Read/Write|Enabled                |
 |lanraragi                 |config                |PVC      |-              |/home/koyomi/lanraragi/database                      |Read/Write|Enabled                |
 |lanraragi                 |content               |PVC      |-              |/home/koyomi/lanraragi/content                       |Read/Write|Enabled                |
 |lazylibrarian             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -958,9 +961,6 @@ The intro needs improvement ;)
 |kitana                         |data                       |PVC     |-            |/app/data                                        |Read/Write|Enabled                |
 |krusader                       |containerpath              |PVC     |-            |/krusader                                        |Read/Write|Enabled                |
 |krusader                       |datapath                   |PVC     |-            |/mnt/user                                        |Read/Write|Enabled                |
-|lancache-dns                   |-                          |-       |-            |-                                                |-         |Persistence not Defined|
-|lancache-monolithic            |config                     |PVC     |-            |/data/cache                                      |Read/Write|Enabled                |
-|lancache-monolithic            |logs                       |PVC     |-            |/data/logs                                       |Read/Write|Enabled                |
 |lastoasis                      |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |lastoasis                      |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |left4dead                      |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
