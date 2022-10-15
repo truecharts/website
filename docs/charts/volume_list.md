@@ -224,6 +224,8 @@ The intro needs improvement ;)
 |icinga2                   |data                  |PVC      |-              |/var/lib/icinga2                                     |Read/Write|Enabled                |
 |icinga2                   |web                   |PVC      |-              |/etc/icingaweb2                                      |Read/Write|Enabled                |
 |icinga2                   |ssmtp                 |PVC      |-              |/etc/ssmtp                                           |Read/Write|Enabled                |
+|immich                    |uploads               |PVC      |-              |/usr/src/app/upload                                  |Read/Write|Enabled                |
+|immich                    |proxy-conf            |custom   |-              |/etc/nginx/                                          |Read/Write|Enabled                |
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |inventree                 |data                  |PVC      |-              |/home/inventree/data                                 |Read/Write|Enabled                |
 |inventree                 |inventree-nginx       |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
@@ -924,8 +926,6 @@ The intro needs improvement ;)
 |icloudpd                       |data                       |PVC     |-            |/home/apps/iCloud                                |Read/Write|Enabled                |
 |imgpush                        |storagecache               |PVC     |-            |/cache                                           |Read/Write|Enabled                |
 |imgpush                        |storageimages              |PVC     |-            |/images                                          |Read/Write|Enabled                |
-|immich                         |uploads                    |PVC     |-            |/usr/src/app/upload                              |Read/Write|Enabled                |
-|immich                         |proxy-conf                 |custom  |-            |/etc/nginx/                                      |Read/Write|Enabled                |
 |import-ics                     |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |import-ics                     |icsexportfolder            |PVC     |-            |/import_ics/ical_export                          |Read/Write|Enabled                |
 |inkscape-desktop-g3            |internalshare              |PVC     |-            |/UNRAID_SHARE                                    |Read/Write|Enabled                |
@@ -1127,6 +1127,7 @@ The intro needs improvement ;)
 |restic-rest-server             |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
 |restreamer                     |config                     |PVC     |-            |/core/config                                     |Read/Write|Enabled                |
 |restreamer                     |data                       |PVC     |-            |/core/data                                       |Read/Write|Enabled                |
+|retrobot                       |data                       |PVC     |-            |/retrobot/data                                   |Read/Write|Enabled                |
 |rflood                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |rickroll                       |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |rimgo                          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
