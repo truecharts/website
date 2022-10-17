@@ -108,8 +108,6 @@ The intro needs improvement ;)
 |dillinger                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |dizquetv                  |config                |PVC      |-              |/home/node/app/.dizquetv                             |Read/Write|Enabled                |
 |docker-compose            |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
-|docker-compose            |mnt                   |hostPath |/mnt           |/mnt                                                 |Read/Write|Enabled                |
-|docker-compose            |root                  |hostPath |/root          |/root                                                |Read/Write|Enabled                |
 |docker-compose            |docker-certs-ca       |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |docusaurus                |config                |PVC      |-              |/docusaurus                                          |Read/Write|Enabled                |
 |dokuwiki                  |config                |PVC      |-              |/bitnami/dokuwiki                                    |Read/Write|Enabled                |
@@ -1024,6 +1022,8 @@ The intro needs improvement ;)
 |neverwinternights-ee           |serverfiles                |PVC     |-            |/nwnee                                           |Read/Write|Enabled                |
 |newyearcountdownclock          |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |nexus-oss                      |data                       |PVC     |-            |/nexus-data                                      |Read/Write|Enabled                |
+|nginx-proxy-manager            |data                       |PVC     |-            |/data                                            |Read/Write|Enabled                |
+|nginx-proxy-manager            |letsencrypt                |PVC     |-            |/etc/letsencrypt                                 |Read/Write|Enabled                |
 |nightscout                     |-                          |-       |-            |-                                                |-         |Persistence not Defined|
 |noisedash                      |samples                    |PVC     |-            |/var/noisedash/samples                           |Read/Write|Enabled                |
 |nosqlclient                    |appdata                    |PVC     |-            |/data/db                                         |Read/Write|Enabled                |
@@ -1288,7 +1288,23 @@ The intro needs improvement ;)
 |youtubedl-material             |audio                      |PVC     |-            |/app/audio                                       |Read/Write|Enabled                |
 |youtubedl-material             |video                      |PVC     |-            |/app/video                                       |Read/Write|Enabled                |
 |z80pack                        |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
-|zabbix-server                  |snmptraps                  |PVC     |-            |/var/lib/zabbix/snmptraps                        |Read/Write|Enabled                |
+|zabbix                         |serveralertscripts         |PVC     |-            |/usr/lib/zabbix/alertscripts                     |Read/Write|Enabled                |
+|zabbix                         |serverexternalscripts      |PVC     |-            |/usr/lib/zabbix/externalscripts                  |Read/Write|Enabled                |
+|zabbix                         |servermodules              |PVC     |-            |/var/lib/zabbix/modules                          |Read/Write|Enabled                |
+|zabbix                         |serverenc                  |PVC     |-            |/var/lib/zabbix/enc                              |Read/Write|Enabled                |
+|zabbix                         |serversshkeys              |PVC     |-            |/var/lib/zabbix/ssh_keys                         |Read/Write|Enabled                |
+|zabbix                         |serversslcerts             |PVC     |-            |/var/lib/zabbix/ssl/certs                        |Read/Write|Enabled                |
+|zabbix                         |serversslkeys              |PVC     |-            |/var/lib/zabbix/ssl/keys                         |Read/Write|Enabled                |
+|zabbix                         |serversslca                |PVC     |-            |/var/lib/zabbix/ssl/ssl_ca                       |Read/Write|Enabled                |
+|zabbix                         |serverexport               |PVC     |-            |/var/lib/zabbix/export                           |Read/Write|Enabled                |
+|zabbix                         |snmptraps                  |PVC     |-            |/var/lib/zabbix/snmptraps                        |Read/Write|Enabled                |
+|zabbix                         |snmpmibs                   |PVC     |-            |/var/lib/zabbix/mibs                             |Read/Write|Enabled                |
+|zabbix                         |hostproc                   |hostPath|/proc        |/host/proc                                       |Read Only |Enabled                |
+|zabbix                         |hostsys                    |hostPath|/sys         |/host/sys                                        |Read Only |Enabled                |
+|zabbix                         |agentconf                  |PVC     |-            |/etc/zabbix/zabbix_agentd.d                      |Read/Write|Enabled                |
+|zabbix                         |agentenc                   |PVC     |-            |/var/lib/zabbix/enc                              |Read/Write|Enabled                |
+|zabbix                         |agentbuffer                |PVC     |-            |/var/lib/zabbix/buffer                           |Read/Write|Enabled                |
+|zabbix                         |javagatewaylibs            |PVC     |-            |/usr/sbin/zabbix_java/ext_lib                    |Read/Write|Enabled                |
 |zoneminder                     |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
 |zoneminder                     |datapath                   |PVC     |-            |/var/cache/zoneminder                            |Read/Write|Enabled                |
 |zusam                          |data                       |PVC     |-            |/zusam/data                                      |Read/Write|Enabled                |
