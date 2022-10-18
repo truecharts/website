@@ -1061,6 +1061,7 @@ The intro needs improvement ;)
 |pigallery2                     |image                      |PVC     |-            |/app/data/images/                                |Read Only |Enabled                |
 |pigallery2                     |tmp                        |PVC     |-            |/app/data/tmp                                    |Read/Write|Enabled                |
 |piwigo                         |config                     |PVC     |-            |/config                                          |Read/Write|Enabled                |
+|piwigo                         |gallery                    |PVC     |-            |/gallery                                         |Read/Write|Enabled                |
 |piwigo                         |varrun                     |emptyDir|-            |/var/run                                         |Read/Write|Enabled                |
 |pixark                         |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |pixark                         |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
