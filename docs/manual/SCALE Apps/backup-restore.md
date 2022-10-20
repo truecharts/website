@@ -1,53 +1,22 @@
 ---
 sidebar_position: 15
 ---
-# Backup and Restore
+# Backup, Migrations and Restore
 
-:::caution Truetool BASH Update
+:::caution Best Effort Policy
 
-This guide has been written for the older version of `TrueTool` and the instructions below are out of date. Please refer to the GitHub page for [Truetool](https://github.com/truecharts/truetool) to follow the commands and instructions below. 
+This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation. This guide has been test with TrueNAS SCALE 22.02.4 and once 22.12 is production ready we shall update and modify as necessary.
 
 :::
 
 ## Requirements
 
-This guide makes use of our command-line tool, called `TrueTool`.
+This guide makes use of our command-line tool, called `TrueTool` and assumes you've already created backups using the BASH version.
 
-This should be installed by using:
-`pip install truetool`
-
-Please be aware this needs reinstalling after each TrueNAS SCALE update.
+Please refer to the GitHub page for [Truetool](https://github.com/truecharts/truetool) to follow the commands and instructions below. 
 
 ## Backup
 
-### Creating Manual Backups
-
-Manual backups can easily be made using TrueTool.
-
-`truetool -b`
-
-It automatically deletes excessive backups, which defaults to a max. of 14 backups.
-To increase this, to 31 for example, use:
-
-`truetool -b 31`
-
-This can also easily be combined with TrueTool update, sync, prune etc. like this:
-
-`truetool -b 31 -u -s -p`
-
-To find out which backups are made previously, you can run the following command:
-
-`truetool -l`
-
-### Creating Frequent Backups
-
-SCALE includes an integrated system to backup the kubernetes objects as well as make snapshots of the `PVC` and `ix_volume` storage.
-However, it does NOT create these outside of SCALE upgrades.
-
-To create daily backups of the kubernetes objects, create a Cron Job in the SCALE UI with the TrueTool command you want to run.
-If you want to ensure TrueTool automatically gets updated and/or (re)installed after a TrueNAS SCALE update, you can use:
-
-`pip install --no-cache-dir --upgrade truetool && truetool -b -s -u -a -p`
 
 ### Exporting Backups
 
@@ -68,11 +37,18 @@ To do so, setup the following replication task:
 It's also important to ensure you keep regular config backups of the SCALE system itself, preferably right after the Apps backup above).
 However this is not part of this guide and we will assume you've done so yourself.
 
+- This can be done using the [Multi_Report](https://www.truenas.com/community/threads/multi_report-sh-version-for-core-and-scale.97451/) script available on the [TrueNAS Forums](https://www.truenas.com/community/). Please refer to that thread if you have any questions with Multi_Report
+
+
 ### Checking Backups
 
-To make which backups are present, one can use the following command in a shell:
+To make which backups are present, one can use `truetool`command and select the 3rd option to get a list of backups
 
-`truetool -l`
+![TrueTool-Main](img/TrueTool-Main.png)
+
+Which results in
+
+![TrueTool-BackupList](img/TrueTool-Backup-List.png)
 
 ## Restore
 
@@ -92,15 +68,17 @@ Reverting a running system is rather trivial. But there are a few caveats:
 
 To revert an existing system, the process is as follows:
 
-1. List your current backups using `truetool -l`
+1. List your current backups using `truetool`
 
-2. Pick a backup to revert and note it's name
+2. Select option 5 `Restore a Backup`
 
-3. Run: `truetool -r BACKUPNAME` (where you replace BACKUPNAME with the name of the backup you selected above)
+3. Choose Backup and answer the prompt
+
+![TrueTool-RestoreList](img/TrueTool-Restore-List.png)
 
 Please keep in mind this can take a LONG time.
 
-### Total System restore
+### Total System restore and Migration to new system
 
 Sometimes you either need to wipe your Pool, Migrate to a new Pool or restore a system completely.
 With the above steps this is all very-much-possible.
@@ -109,9 +87,15 @@ With the above steps this is all very-much-possible.
 
 1. Optional: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
 
-2. Using ZFS replication, move back the previously backed-up `ix-applications` dataset.
+2. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the `Exporting Backups` section.
 
-3. Continue with the steps listed on `Reverting a running system`
+3. Once the ZFS replication is complete on the new or migrated system select the Pool containing the migrated `ix-applications` dataset in the Apps menu.
+
+4. Run this command to set the mountpoints in legacy mode to enable creation of new PVC storage
+
+- `zfs set mountpoint=legacy $(zfs list -o name | grep ix-applications | grep pvc)`
+
+5. Continue with the steps listed on `Reverting a running system`
 
 ## Video Guide
 
