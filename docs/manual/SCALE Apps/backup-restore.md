@@ -37,12 +37,9 @@ To do so, setup the following replication task:
 It's also important to ensure you keep regular config backups of the SCALE system itself, preferably right after the Apps backup above).
 However this is not part of this guide and we will assume you've done so yourself.
 
-- This can be done using the [Multi_Report](https://www.truenas.com/community/threads/multi_report-sh-version-for-core-and-scale.97451/) script available on the [TrueNAS Forums](https://www.truenas.com/community/). Please refer to that thread if you have any questions with Multi_Report
-
-
 ### Checking Backups
 
-To make which backups are present, one can use `truetool`command and select the 3rd option to get a list of backups
+To make which backups are present, one can use `truetool` command and select the 3rd option to get a list of backups
 
 ![TrueTool-Main](img/TrueTool-Main.png)
 
@@ -95,7 +92,7 @@ Do not choose an apps pool yet, or do ANYTHING with apps until step 3
 
 3. Once the ZFS replication is complete, on the new or migrated system navigate to the __Apps__ tab in the Truenas Scale GUI. When prompted to select a pool, select the pool containing the `ix-applications` dataset.
 
-4. Run the following command in your Truenas Scale shell to set the mount-points to legacy mode, to enable the creation of the new PVC storage.
+4. Run the following command in your Truenas Scale shell to fix known issues with PVC storage.
 
 >
 ```bash
