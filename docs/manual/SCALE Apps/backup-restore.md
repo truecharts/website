@@ -80,22 +80,29 @@ Please keep in mind this can take a LONG time.
 
 ### Total System restore and Migration to new system
 
-Sometimes you either need to wipe your Pool, Migrate to a new Pool or restore a system completely.
-With the above steps this is all very-much-possible.
+>Sometimes you either need to wipe your Pool, Migrate to a new Pool or restore a system completely.
+With the steps below, this is all very-much-possible.
 
-0. Do not initiate the (select a pool for) Apps system yet.
+:::caution Do not Choose an apps pool
 
-1. Optional: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
+Do not choose an apps pool yet, or do ANYTHING with apps until step 3
 
-2. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the `Exporting Backups` section.
+:::
 
-3. Once the ZFS replication is complete on the new or migrated system select the Pool containing the migrated `ix-applications` dataset in the Apps menu.
+1. _Optional_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
 
-4. Run this command to set the mountpoints in legacy mode to enable creation of new PVC storage
+2. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
 
-- `zfs set mountpoint=legacy $(zfs list -o name | grep ix-applications | grep pvc)`
+3. Once the ZFS replication is complete, on the new or migrated system navigate to the __Apps__ tab in the Truenas Scale GUI. When prompted to select a pool, select the pool containing the `ix-applications` dataset.
 
-5. Continue with the steps listed on `Reverting a running system`
+4. Run the following command in your Truenas Scale shell to set the mount-points to legacy mode, to enable the creation of the new PVC storage.
+
+>
+```bash
+zfs set mountpoint=legacy $(zfs list -o name | grep ix-applications | grep pvc) 
+```
+
+5. That's pretty much it, now all you need to do is restore the Truetool snapshot of your `ix-applications` dataset by following the [Reverting a running system](#reverting-a-running-system) guide above.
 
 ## Video Guide
 
