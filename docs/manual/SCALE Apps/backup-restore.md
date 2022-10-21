@@ -93,7 +93,7 @@ With the steps below, this is all very-much-possible.
 
 1. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
 
-2. _Optional_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
+2. _Optional/untested_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
 
 3. Once the ZFS replication is complete, on the new or migrated system navigate to the __Apps__ tab in the Truenas Scale GUI. When prompted to select a pool, select the pool containing the `ix-applications` dataset.
 
