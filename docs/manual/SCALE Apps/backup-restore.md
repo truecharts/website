@@ -16,6 +16,12 @@ This guide makes use of our command-line tool, called `TrueTool` and assumes you
 
 Please refer to the GitHub page for [Truetool](https://github.com/truecharts/truetool) to follow the commands and instructions below. 
 
+### ZFS replication
+
+Our only officially supported system for "offsite" backups is ZFS replication. Offsite can be either another machine, a zfs formated usb drive or other pool on the same system without any issues when it comes to the guides.
+
+However: While zfs replication CAN be done to an archive file, which can be saved in whatever way the user fancies, we officially do not provide support for that, is it expodentially increases the chance of complications
+
 ## Backup
 
 
