@@ -104,7 +104,7 @@ Please do not restore SCALE configuration from backup-file, before Apps pool rep
 
 >
 ```bash
-zfs set mountpoint=legacy $(zfs list -o name | grep ix-applications | grep pvc) 
+zfs set mountpoint=legacy "$(zfs list -t filesystem -r "$(cli -c 'app kubernetes config' | grep -E "pool\s\|" | awk -F '|' '{print $3}' | tr -d " \t\n\r")" -o name -H | grep "volumes/pvc")" 
 ```
 
 5. That's pretty much it, now all you need to do is restore the Truetool snapshot of your `ix-applications` dataset by following the [Reverting a running system](#reverting-a-running-system) guide above.
