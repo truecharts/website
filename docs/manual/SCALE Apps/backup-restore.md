@@ -74,29 +74,26 @@ To revert an existing system, the process is as follows:
 
 ![TrueTool-RestoreList](img/TrueTool-Restore-List.png)
 
-Please keep in mind this can take a LONG time.
+Please keep in mind this can take a LONG time, so be sure to wait a few hours before touching the system again.
+When done, a reboot might be adviceable
 
 ### Total System restore and Migration to new system
 
->Sometimes you either need to wipe your Pool, Migrate to a new Pool or restore a system completely.
+>Sometimes you either need to wipe your system, Migrate to a new system or restore a system completely.
 With the steps below, this is all very-much-possible.
 
-:::caution Do not Choose an Apps pool
+:::caution Ensure a Clean system
 
-Do not choose an apps pool yet, or do ANYTHING with apps until step 3
+- Ensure a clean system, without Apps or configuration except the bare minimum network configuration
+- Do not choose an apps pool yet, or do ANYTHING with apps until step 3
+- Please do not restore SCALE configuration from backup-file, before Apps pool replication is finished.
 
 :::
 
 
-:::caution Do not restore SCALE-config yet
+1. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
 
-Please do not restore SCALE configuration from backup-file, before Apps pool replication is finished.
-:::
-
-
-1. _Optional_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
-
-2. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
+2. _Optional_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
 
 3. Once the ZFS replication is complete, on the new or migrated system navigate to the __Apps__ tab in the Truenas Scale GUI. When prompted to select a pool, select the pool containing the `ix-applications` dataset.
 
@@ -107,7 +104,7 @@ Please do not restore SCALE configuration from backup-file, before Apps pool rep
 zfs set mountpoint=legacy "$(zfs list -t filesystem -r "$(cli -c 'app kubernetes config' | grep -E "pool\s\|" | awk -F '|' '{print $3}' | tr -d " \t\n\r")" -o name -H | grep "volumes/pvc")" 
 ```
 
-5. That's pretty much it, now all you need to do is restore the Truetool snapshot of your `ix-applications` dataset by following the [Reverting a running system](#reverting-a-running-system) guide above.
+5. All you need to do now is restore the Truetool snapshot of your `ix-applications` dataset by following the [Reverting a running system](#reverting-a-running-system) guide above.
 
 ## Video Guide
 
