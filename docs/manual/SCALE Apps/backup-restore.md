@@ -97,15 +97,23 @@ With the steps below, this is all very-much-possible.
 
 3. Once the ZFS replication is complete, on the new or migrated system navigate to the __Apps__ tab in the Truenas Scale GUI. When prompted to select a pool, select the pool containing the `ix-applications` dataset.
 
-4. Run the following command in your Truenas Scale shell to fix known issues with PVC storage.
+4. All you need to do now is restore the Truetool snapshot of your `ix-applications` dataset by following the [Reverting a running system](#reverting-a-running-system) guide above.
 
+## Video Guide
+
+TBD
+
+## Developer notes
+
+### PVC mountpoints on replication
+
+In some/all cases PVC mountpoints are not correctly set to `legacy` after replication.
+Both TrueTool and Heavyscript have added scripting to fix this issue, however it does not seem to be a priority for iX-Systems to fix upstream.
+To fix this issue manually, run:
 >
 ```bash
 zfs set mountpoint=legacy "$(zfs list -t filesystem -r "$(cli -c 'app kubernetes config' | grep -E "pool\s\|" | awk -F '|' '{print $3}' | tr -d " \t\n\r")" -o name -H | grep "volumes/pvc")" 
 ```
 
-5. All you need to do now is restore the Truetool snapshot of your `ix-applications` dataset by following the [Reverting a running system](#reverting-a-running-system) guide above.
-
-## Video Guide
-
-TBD
+Jira Ticket:
+https://ixsystems.atlassian.net/browse/NAS-118570
