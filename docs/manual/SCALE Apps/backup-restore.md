@@ -81,11 +81,18 @@ Please keep in mind this can take a LONG time.
 >Sometimes you either need to wipe your Pool, Migrate to a new Pool or restore a system completely.
 With the steps below, this is all very-much-possible.
 
-:::caution Do not Choose an apps pool
+:::caution Do not Choose an Apps pool
 
 Do not choose an apps pool yet, or do ANYTHING with apps until step 3
 
 :::
+
+
+:::caution Do not restore SCALE-config yet
+
+Please do not restore SCALE configuration from backup-file, before Apps pool replication is finished.
+:::
+
 
 1. _Optional_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
 
