@@ -87,6 +87,7 @@ With the steps below, this is all very-much-possible.
 - Ensure a clean system, without Apps or configuration except the bare minimum network configuration
 - Do not choose an apps pool yet, or do ANYTHING with apps until step 3
 - Please do not restore SCALE configuration from backup-file, before Apps pool replication is finished.
+- We've only tested this on non-encrypted `ix-applications` datasets, as encryption of `ix-applications` is officially not supported.
 
 :::
 
