@@ -5,13 +5,14 @@ sidebar_position: 15
 
 :::caution Best Effort Policy
 
-This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation. This guide has been test with TrueNAS SCALE 22.02.4 and once 22.12 is production ready we shall update and modify as necessary.
+This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation. 
+This guide has been thoroughly tested with TrueNAS SCALE 22.02.4.
 
 :::
 
 ## Requirements
 
-This guide makes use of our command-line tool, called `TrueTool` and assumes you've already created backups using the BASH version.
+This guide makes use of our command-line tool, called `TrueTool` and assumes you've already created backups using the BASH TrueTool.
 
 Please refer to the GitHub page for [Truetool](https://github.com/truecharts/truetool) to follow the commands and instructions below. 
 
