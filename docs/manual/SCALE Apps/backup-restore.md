@@ -64,7 +64,6 @@ One could create a normal recursive(!) replication of the `ix-volumes` dataset u
 
 To do so, setup the following replication task:
 
-![rep1](img/Replication1.png)
 ![rep2](img/Replication2.png)
 ![rep3](img/Replication3.png)
 
