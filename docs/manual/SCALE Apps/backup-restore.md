@@ -14,7 +14,7 @@ This guide has been thoroughly tested with TrueNAS SCALE 22.02.4.
 
 This guide makes use of our command-line tool, called `TrueTool` and assumes you've already created backups using the BASH TrueTool.
 
-Please refer to the GitHub page for [Truetool](https://github.com/truecharts/truetool) to follow the commands and instructions below. 
+Please refer to the GitHub page for [Truetool](https://github.com/truecharts/truetool) to follow the commands and instructions below.
 
 ### ZFS replication
 
@@ -24,6 +24,25 @@ However: While zfs replication CAN be done to an archive file, which can be save
 
 ## Backup
 
+If you haven't created a manual backup yet using `truetool` one must be created before any of the following steps can be accomplish.
+
+```bash 
+bash /PATH/TO/truetool_DIRECTORY/truetool.sh -b
+```
+
+It automatically deletes excessive backups, which defaults to a max. of 14 backups. To increase this, to 31 for example, use:
+
+```bash 
+bash /PATH/TO/truetool_DIRECTORY/truetool.sh -b 31
+```
+
+This can also easily be combined with TrueTool update, sync, prune etc. like this:
+
+```bash 
+bash /PATH/TO/truetool_DIRECTORY/truetool.sh -b 10 -sup
+```
+
+>As mentioned above, all the commands and the various options for `truetool` are available on the [Truetool GitHub](https://github.com/truecharts/truetool) page
 
 ### Exporting Backups
 
