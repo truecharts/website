@@ -46,6 +46,14 @@ bash /PATH/TO/truetool_DIRECTORY/truetool.sh -b 10 -sup
 
 ### Exporting Backups
 
+:::caution Replication
+
+The instructions below are designed to showcase the specific replication paremeters required for fail-safe replication of the `ix-applications` dataset. It does not intend to cover everything related to replication on TrueNAS SCALE.
+
+Please setup your ZFS replication in accorance with the TrueNAS Documentation, your off-site backup provider and/or the form of replication (local vs offsite) you want to do.
+
+:::
+
 The above only creates only a backup of the kubernetes objects and a snapshot of the `PVC` and `ix_volume` storage.
 These backups are saved under the same ix_applications dataset.
 
