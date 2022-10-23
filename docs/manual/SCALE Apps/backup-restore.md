@@ -20,7 +20,7 @@ Please refer to the GitHub page for [Truetool](https://github.com/truecharts/tru
 
 Our only officially supported system for "offsite" backups is ZFS replication. Offsite can be either another machine, a zfs formated usb drive or other pool on the same system without any issues when it comes to the guides.
 
-However: While zfs replication CAN be done to an archive file, which can be saved in whatever way the user fancies, we officially do not provide support for that, is it expodentially increases the chance of complications
+However, whilst zfs replication CAN be done to an archive file, which can be saved in whatever way the user fancies, we do not provide official support for it. Using zfs replication in this manner exponentially increases the chance of complications. 
 
 ## Backup
 
@@ -50,7 +50,7 @@ bash /PATH/TO/truetool_DIRECTORY/truetool.sh -b 10 -sup
 
 The instructions below are designed to showcase the specific replication paremeters required for fail-safe replication of the `ix-applications` dataset. It does not intend to cover everything related to replication on TrueNAS SCALE.
 
-Please setup your ZFS replication in accorance with the TrueNAS Documentation, your off-site backup provider and/or the form of replication (local vs offsite) you want to do.
+Please setup your ZFS replication in accordance with the TrueNAS Documentation, your off-site backup provider and/or the form of replication (local vs offsite) you want to do.
 
 :::
 
@@ -59,7 +59,7 @@ These backups are saved under the same ix_applications dataset.
 
 It does not protect these against, for example, deletion of datasets or save them on an external system.
 
-We **highly** advice making both an internal backup (separate dataset on the same system) *and* an offsite backup.
+We **highly** advise making both an internal backup (separate dataset on the same system) *and* an offsite backup.
 One could create a normal recursive(!) replication of the `ix-volumes` dataset using the SCALE GUI, with the following few special tricks by editing the replication after creation:
 
 To do so, setup the following replication task:
