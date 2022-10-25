@@ -991,8 +991,11 @@ The intro needs improvement ;)
 |megasync                       |hostpath                   |PVC     |-            |/mnt/host                                        |Read Only |Enabled                |
 |memories-of-mars               |serverfiles                |PVC     |-            |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |memories-of-mars               |steamcmd                   |PVC     |-            |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|meshcentral                    |data                       |PVC     |-            |/home/node/meshcentral/meshcentral-data          |Read/Write|Enabled                |
-|meshcentral                    |files                      |PVC     |-            |/home/node/meshcentral/meshcentral-files         |Read/Write|Enabled                |
+|meshcentral                    |data                       |PVC     |-            |/opt/meshcentral/meshcentral-data                |Read/Write|Enabled                |
+|meshcentral                    |files                      |PVC     |-            |/opt/meshcentral/meshcentral-files               |Read/Write|Enabled                |
+|meshcentral                    |web                        |PVC     |-            |/opt/meshcentral/meshcentral-web                 |Read/Write|Enabled                |
+|meshcentral                    |backups                    |PVC     |-            |/opt/meshcentral/meshcentral-backup              |Read/Write|Enabled                |
+|meshcentral                    |configfile                 |secret  |-            |/opt/meshcentral/meshcentral-config              |Read Only |Enabled                |
 |metatube                       |storagedatabase            |PVC     |-            |/database                                        |Read/Write|Enabled                |
 |metatube                       |storagedownloads           |PVC     |-            |/downloads                                       |Read/Write|Enabled                |
 |microbin                       |data                       |PVC     |-            |/app/pasta_data                                  |Read/Write|Enabled                |
