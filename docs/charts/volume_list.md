@@ -10,6 +10,8 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|actualserver              |server-files          |PVC      |-              |/app/server-files                                    |Read/Write|Enabled                |
+|actualserver              |user-files            |PVC      |-              |/app/user-files                                      |Read/Write|Enabled                |
 |adguard-home              |config                |PVC      |-              |/opt/adguardhome/conf                                |Read/Write|Enabled                |
 |adguard-home              |data                  |PVC      |-              |/opt/adguardhome/work                                |Read/Write|Enabled                |
 |airdcpp-webclient         |config                |PVC      |-              |/.airdcpp                                            |Read/Write|Enabled                |
@@ -599,6 +601,7 @@ The intro needs improvement ;)
 |webgrabplus               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |weblate                   |config                |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |weblate                   |cache                 |emptyDir |-              |/app/cache                                           |Read/Write|Enabled                |
+|webnut                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |website-shot              |screenshots           |PVC      |-              |/usr/src/website-shot/screenshots                    |Read/Write|Enabled                |
 |wekan                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |wg-easy                   |config                |PVC      |-              |/etc/wireguard                                       |Read/Write|Enabled                |
@@ -645,8 +648,6 @@ The intro needs improvement ;)
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
 |acestream                      |acestreamcache             |PVC     |-                |/srv/acestream/.ACEStream                        |Read/Write|Enabled                |
-|actualserver                   |server-files               |PVC     |-                |/app/server-files                                |Read/Write|Enabled                |
-|actualserver                   |user-files                 |PVC     |-                |/app/user-files                                  |Read/Write|Enabled                |
 |adguardhome-sync               |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |adminer                        |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |alienswarm                     |serverfiles                |PVC     |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -948,8 +949,8 @@ The intro needs improvement ;)
 |jump                           |search                     |PVC     |-                |/search                                          |Read/Write|Enabled                |
 |jump                           |sites                      |PVC     |-                |/sites                                           |Read/Write|Enabled                |
 |jupyter                        |data                       |PVC     |-                |/home/jovyan/work                                |Read/Write|Enabled                |
-|kasm                           |pathopt                    |PVC     |-                |/opt                                             |Read/Write|Enabled                |
-|kasm                           |pathprofiles               |PVC     |-                |/profiles                                        |Read/Write|Enabled                |
+|kasm                           |data                       |PVC     |-                |/opt                                             |Read/Write|Enabled                |
+|kasm                           |varrun                     |emptyDir|-                |/var/run                                         |Read/Write|Enabled                |
 |kavitaemail                    |config                     |PVC     |-                |-                                                |Read/Write|Persistence is Disabled|
 |kdenlive                       |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |kdenlive-vnc                   |content                    |PVC     |-                |/sharedContent                                   |Read/Write|Enabled                |
@@ -995,7 +996,7 @@ The intro needs improvement ;)
 |meshcentral                    |files                      |PVC     |-                |/opt/meshcentral/meshcentral-files               |Read/Write|Enabled                |
 |meshcentral                    |web                        |PVC     |-                |/opt/meshcentral/meshcentral-web                 |Read/Write|Enabled                |
 |meshcentral                    |backups                    |PVC     |-                |/opt/meshcentral/meshcentral-backup              |Read/Write|Enabled                |
-|meshcentral                    |configfile                 |secret  |-                |/opt/meshcentral/meshcentral-config              |Read Only |Enabled                |
+|meshcentral                    |configfile                 |secret  |-                |/opt/meshcentral/meshcentral-data/config.json    |Read Only |Enabled                |
 |metatube                       |storagedatabase            |PVC     |-                |/database                                        |Read/Write|Enabled                |
 |metatube                       |storagedownloads           |PVC     |-                |/downloads                                       |Read/Write|Enabled                |
 |microbin                       |data                       |PVC     |-                |/app/pasta_data                                  |Read/Write|Enabled                |
@@ -1274,7 +1275,6 @@ The intro needs improvement ;)
 |vorta                          |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |watchyourlan                   |data                       |PVC     |-                |/data                                            |Read/Write|Enabled                |
 |wbo                            |data                       |PVC     |-                |/opt/app/server-data                             |Read/Write|Enabled                |
-|webnut                         |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |webp-server                    |storagecache               |PVC     |-                |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC     |-                |/opt/pics                                        |Read Only |Enabled                |
 |webtop                         |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
