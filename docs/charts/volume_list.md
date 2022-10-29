@@ -751,14 +751,11 @@ The intro needs improvement ;)
 |cowyo                          |data                       |PVC     |-                |/data                                            |Read/Write|Enabled                |
 |craftopia                      |serverfiles                |PVC     |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |craftopia                      |steamcmd                   |PVC     |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|crafty-3                       |backups                    |PVC     |-                |/crafty_web/backups                              |Read/Write|Enabled                |
-|crafty-3                       |database                   |PVC     |-                |/crafty_db                                       |Read/Write|Enabled                |
-|crafty-3                       |server-files               |PVC     |-                |/minecraft_servers                               |Read/Write|Enabled                |
-|crafty-4                       |backupfiles                |PVC     |-                |/crafty/backups                                  |Read/Write|Enabled                |
 |crafty-4                       |config                     |PVC     |-                |/crafty/app/config                               |Read/Write|Enabled                |
-|crafty-4                       |importfolder               |PVC     |-                |/crafty/import                                   |Read/Write|Enabled                |
 |crafty-4                       |serverfiles                |PVC     |-                |/crafty/servers                                  |Read/Write|Enabled                |
 |crafty-4                       |serverlogs                 |PVC     |-                |/crafty/logs                                     |Read/Write|Enabled                |
+|crafty-4                       |import                     |PVC     |-                |/crafty/import                                   |Read/Write|Enabled                |
+|crafty-4                       |backup                     |PVC     |-                |/crafty/backups                                  |Read/Write|Enabled                |
 |crypto-exchanges-gateway       |configpath                 |PVC     |-                |/root/crypto-exchanges-gateway/custom_config     |Read/Write|Enabled                |
 |cryptpad                       |blobpath                   |PVC     |-                |/cryptpad/blob                                   |Read/Write|Enabled                |
 |cryptpad                       |blockpath                  |PVC     |-                |/cryptpad/block                                  |Read/Write|Enabled                |
@@ -1029,6 +1026,7 @@ The intro needs improvement ;)
 |nginx-proxy-manager            |data                       |PVC     |-                |/data                                            |Read/Write|Enabled                |
 |nginx-proxy-manager            |letsencrypt                |PVC     |-                |/etc/letsencrypt                                 |Read/Write|Enabled                |
 |nightscout                     |-                          |-       |-                |-                                                |-         |Persistence not Defined|
+|noisedash                      |db                         |PVC     |-                |/var/noisedash/db                                |Read/Write|Enabled                |
 |noisedash                      |samples                    |PVC     |-                |/var/noisedash/samples                           |Read/Write|Enabled                |
 |nosqlclient                    |appdata                    |PVC     |-                |/data/db                                         |Read/Write|Enabled                |
 |notarius                       |-                          |-       |-                |-                                                |-         |Persistence not Defined|
