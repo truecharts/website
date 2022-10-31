@@ -319,6 +319,9 @@ The intro needs improvement ;)
 |meshroom                  |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |metube                    |downloads             |PVC      |-              |/downloads                                           |Read/Write|Enabled                |
 |minecraft-bedrock         |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|minecraft-bungeecord      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|minecraft-bungeecord      |server                |PVC      |-              |/server                                              |Read/Write|Enabled                |
+|minecraft-bungeecord      |plugins               |PVC      |-              |/plugins                                             |Read/Write|Enabled                |
 |minecraft-java            |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |minetest                  |config                |PVC      |-              |/config/.minetest                                    |Read/Write|Enabled                |
 |minetest                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -999,9 +1002,6 @@ The intro needs improvement ;)
 |microbin                       |data                       |PVC     |-                |/app/pasta_data                                  |Read/Write|Enabled                |
 |midarr                         |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |mindustry                      |serverfiles                |PVC     |-                |/mindustry                                       |Read/Write|Enabled                |
-|minecraft-bungeecord           |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
-|minecraft-bungeecord           |server                     |PVC     |-                |/server                                          |Read/Write|Enabled                |
-|minecraft-bungeecord           |plugins                    |PVC     |-                |/plugins                                         |Read/Write|Enabled                |
 |mineos                         |config                     |PVC     |-                |/var/games/minecraft                             |Read/Write|Enabled                |
 |minimal-ics-hoster             |data                       |PVC     |-                |/app/data/                                       |Read/Write|Enabled                |
 |mininote                       |data                       |PVC     |-                |/app/data                                        |Read/Write|Enabled                |
