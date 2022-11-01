@@ -14,6 +14,7 @@ The intro needs improvement ;)
 |actualserver              |user-files            |PVC      |-              |/app/user-files                                      |Read/Write|Enabled                |
 |adguard-home              |config                |PVC      |-              |/opt/adguardhome/conf                                |Read/Write|Enabled                |
 |adguard-home              |data                  |PVC      |-              |/opt/adguardhome/work                                |Read/Write|Enabled                |
+|adminer                   |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |airdcpp-webclient         |config                |PVC      |-              |/.airdcpp                                            |Read/Write|Enabled                |
 |airsonic                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |airsonic-advanced         |config                |PVC      |-              |/airsonic                                            |Read/Write|Enabled                |
@@ -213,6 +214,7 @@ The intro needs improvement ;)
 |homarr                    |icons                 |PVC      |-              |/app/public/icons                                    |Read/Write|Enabled                |
 |home-assistant            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |home-assistant            |init                  |custom   |-              |/config/init                                         |Read Only |Enabled                |
+|homelablabelmaker         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |homepage                  |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |homer                     |config                |PVC      |-              |/www/assets                                          |Read/Write|Enabled                |
 |htpcmanager               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -456,6 +458,8 @@ The intro needs improvement ;)
 |prometheus                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |protonmail-bridge         |config                |PVC      |-              |/root                                                |Read/Write|Enabled                |
 |prowlarr                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|prusaslicer-novnc         |configsfolder         |PVC      |-              |/configs/                                            |Read/Write|Enabled                |
+|prusaslicer-novnc         |prints                |PVC      |-              |/prints/                                             |Read/Write|Enabled                |
 |putty                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pwndrop                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pwndrop                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -657,7 +661,6 @@ The intro needs improvement ;)
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
 |acestream                      |acestreamcache             |PVC     |-                |/srv/acestream/.ACEStream                        |Read/Write|Enabled                |
 |adguardhome-sync               |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
-|adminer                        |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |alienswarm                     |serverfiles                |PVC     |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |alienswarm                     |steamcmd                   |PVC     |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |alienswarm-reactivedrop        |serverfiles                |PVC     |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -921,7 +924,6 @@ The intro needs improvement ;)
 |hexchat                        |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |hexo-blog                      |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |homebridge                     |config                     |PVC     |-                |/homebridge                                      |Read/Write|Enabled                |
-|homelablabelmaker              |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |hoobs                          |applicationpath            |PVC     |-                |/hoobs                                           |Read/Write|Enabled                |
 |humhub                         |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |hurtworld                      |serverfiles                |PVC     |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1092,8 +1094,6 @@ The intro needs improvement ;)
 |prpdf                          |config                     |PVC     |-                |/source/config                                   |Read/Write|Enabled                |
 |prpdf                          |files                      |PVC     |-                |/Archiv/                                         |Read/Write|Enabled                |
 |prpdf                          |hostpath2                  |PVC     |-                |/source/static/pdf/                              |Read/Write|Enabled                |
-|prusaslicer-novnc              |configsfolder              |PVC     |-                |/configs/                                        |Read/Write|Enabled                |
-|prusaslicer-novnc              |prints                     |PVC     |-                |/prints/                                         |Read/Write|Enabled                |
 |ps3netsrv                      |gamesfolder                |PVC     |-                |/games                                           |Read/Write|Enabled                |
 |pt-helper                      |data                       |PVC     |-                |/data                                            |Read/Write|Enabled                |
 |pure-ftpd                      |data                       |PVC     |-                |/data                                            |Read/Write|Enabled                |
