@@ -31,6 +31,7 @@ The intro needs improvement ;)
 |apt-cacher-ng             |apt-cacher-ng         |PVC      |-              |/var/cache/apt-cacher-ng                             |Read/Write|Enabled                |
 |aria2                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |aria2                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|ariang                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |audacity                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |audacity                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |audiobookshelf            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -496,6 +497,7 @@ The intro needs improvement ;)
 |requestrr                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |resilio-sync              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |resilio-sync              |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|retrobot                  |data                  |PVC      |-              |/retrobot/data                                       |Read/Write|Enabled                |
 |ring-mqtt                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |rsnapshot                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |rsnapshot                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -629,6 +631,11 @@ The intro needs improvement ;)
 |xbackbone                 |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |xteve                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |xwiki                     |config                |PVC      |-              |/usr/local/xwiki                                     |Read/Write|Enabled                |
+|youtubedl-material        |appdata               |PVC      |-              |/app/appdata                                         |Read/Write|Enabled                |
+|youtubedl-material        |users                 |PVC      |-              |/app/users                                           |Read/Write|Enabled                |
+|youtubedl-material        |subscriptions         |PVC      |-              |/app/subscriptions                                   |Read/Write|Enabled                |
+|youtubedl-material        |audio                 |PVC      |-              |/app/audio                                           |Read/Write|Enabled                |
+|youtubedl-material        |video                 |PVC      |-              |/app/video                                           |Read/Write|Enabled                |
 |zerotier                  |config                |PVC      |-              |/var/lib/zerotier-one                                |Read/Write|Enabled                |
 |zerotier                  |tun                   |hostPath |/dev/net/tun   |/dev/net/tun                                         |Read/Write|Enabled                |
 |zigbee2mqtt               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -636,6 +643,7 @@ The intro needs improvement ;)
 |znc                       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |ztcuui-aio                |config                |PVC      |-              |/opt/key-networks/ztncui/etc                         |Read/Write|Enabled                |
 |ztcuui-aio                |zerotier              |PVC      |-              |/var/lib/zerotier-one                                |Read/Write|Enabled                |
+|zusam                     |data                  |PVC      |-              |/zusam/data                                          |Read/Write|Enabled                |
 |zwavejs2mqtt              |config                |PVC      |-              |/usr/src/app/store                                   |Read/Write|Enabled                |
 
 ## Dependency
@@ -683,7 +691,6 @@ The intro needs improvement ;)
 |apprise-api                    |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |appsmith                       |appsmithstacks             |PVC     |-                |/appsmith-stacks                                 |Read/Write|Enabled                |
 |archiveteam-warrior            |-                          |-       |-                |-                                                |-         |Persistence not Defined|
-|ariang                         |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |arksurvivalevolved             |serverfiles                |PVC     |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |arksurvivalevolved             |steamcmd                   |PVC     |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |arma3                          |profiles                   |PVC     |-                |/serverdata/.local/share                         |Read/Write|Enabled                |
@@ -1106,12 +1113,12 @@ The intro needs improvement ;)
 |qflood                         |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |quake3                         |serverfiles                |PVC     |-                |/quake3                                          |Read/Write|Enabled                |
 |quickshare                     |storagedata                |PVC     |-                |/quickshare/root                                 |Read/Write|Enabled                |
-|quiz-game                      |-                          |-       |-                |-                                                |-         |Persistence not Defined|
+|quiz-game                      |config                     |PVC     |-                |/app                                             |Read/Write|Enabled                |
 |ra-rom-processor               |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
-|ra-rom-processor               |hostpathforbackup          |PVC     |-                |/backup                                          |Read/Write|Enabled                |
-|ra-rom-processor               |hostpathforcache           |PVC     |-                |/cache                                           |Read/Write|Enabled                |
-|ra-rom-processor               |hostpathforinput           |PVC     |-                |/input                                           |Read/Write|Enabled                |
-|ra-rom-processor               |hostpathforoutput          |PVC     |-                |/output                                          |Read/Write|Enabled                |
+|ra-rom-processor               |cache                      |PVC     |-                |/cache                                           |Read/Write|Enabled                |
+|ra-rom-processor               |input                      |PVC     |-                |/input                                           |Read/Write|Enabled                |
+|ra-rom-processor               |output                     |PVC     |-                |/output                                          |Read/Write|Enabled                |
+|ra-rom-processor               |backup                     |PVC     |-                |/backup                                          |Read/Write|Enabled                |
 |radarrsync                     |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |radicale                       |config                     |PVC     |-                |-                                                |Read/Write|Mount Path not Defined |
 |radicale                       |users                      |custom  |-                |/etc/radicale/users                              |Read Only |Enabled                |
@@ -1134,7 +1141,6 @@ The intro needs improvement ;)
 |restic-rest-server             |data                       |PVC     |-                |/data                                            |Read/Write|Enabled                |
 |restreamer                     |config                     |PVC     |-                |/core/config                                     |Read/Write|Enabled                |
 |restreamer                     |data                       |PVC     |-                |/core/data                                       |Read/Write|Enabled                |
-|retrobot                       |data                       |PVC     |-                |/retrobot/data                                   |Read/Write|Enabled                |
 |rflood                         |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |rickroll                       |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |rimgo                          |-                          |-       |-                |-                                                |-         |Persistence not Defined|
@@ -1289,11 +1295,6 @@ The intro needs improvement ;)
 |yourls                         |-                          |-       |-                |-                                                |-         |Persistence not Defined|
 |youtransfer                    |config                     |PVC     |-                |/opt/youtransfer/config                          |Read/Write|Enabled                |
 |youtransfer                    |hostpath3                  |PVC     |-                |/opt/youtransfer/uploads                         |Read/Write|Enabled                |
-|youtubedl-material             |appdata                    |PVC     |-                |/app/appdata                                     |Read/Write|Enabled                |
-|youtubedl-material             |users                      |PVC     |-                |/app/users                                       |Read/Write|Enabled                |
-|youtubedl-material             |subscriptions              |PVC     |-                |/app/subscriptions                               |Read/Write|Enabled                |
-|youtubedl-material             |audio                      |PVC     |-                |/app/audio                                       |Read/Write|Enabled                |
-|youtubedl-material             |video                      |PVC     |-                |/app/video                                       |Read/Write|Enabled                |
 |z80pack                        |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |zabbix                         |serveralertscripts         |PVC     |-                |/usr/lib/zabbix/alertscripts                     |Read/Write|Enabled                |
 |zabbix                         |serverexternalscripts      |PVC     |-                |/usr/lib/zabbix/externalscripts                  |Read/Write|Enabled                |
@@ -1314,7 +1315,6 @@ The intro needs improvement ;)
 |zabbix                         |javagatewaylibs            |PVC     |-                |/usr/sbin/zabbix_java/ext_lib                    |Read/Write|Enabled                |
 |zoneminder                     |config                     |PVC     |-                |/config                                          |Read/Write|Enabled                |
 |zoneminder                     |datapath                   |PVC     |-                |/var/cache/zoneminder                            |Read/Write|Enabled                |
-|zusam                          |data                       |PVC     |-                |/zusam/data                                      |Read/Write|Enabled                |
 
 ## Enterprise
 
