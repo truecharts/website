@@ -16,7 +16,7 @@ jobs:
       image: ghcr.io/truecharts/devcontainer:v2.5.6@sha256:16e07e4b9519c43ad3a12d088520943e0856061661910fe8836543a95974726f
     steps:
       - name: Install Kubernetes tools
-        uses: yokawasa/action-setup-kube-tools@f7f73d7965074b0f5491b7210ff51e3254d42058 # tag=v0.8.2
+        uses: yokawasa/action-setup-kube-tools@b91bb02bc122bd84ac7bbea5f25ed6b0f2ec6275 # tag=v0.9.2
         with:
           setup-tools: |
             helmv3
