@@ -1,20 +1,17 @@
-# joplin-server
+# subchart
 
-Allows you to sync any Joplin client.
+This is only used as a subchart.
 
 TrueCharts can be installed as both *normal* Helm Charts or as Apps on TrueNAS SCALE.
 
 This readme is just an automatically generated general guide on installing our Helm Charts and Apps.
-For more information, please click here: [joplin-server](https://truecharts.org/docs/charts/stable/joplin-server)
+For more information, please click here: [subchart](https://truecharts.org/docs/charts/dependency/subchart)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
 ## Source Code
 
-* <https://github.com/truecharts/charts/tree/master/charts/stable/joplin-server>
-* <https://github.com/laurent22/joplin/tree/dev/packages/server>
-* <https://github.com/laurent22/joplin>
-* <https://hub.docker.com/r/joplin/server>
+* <https://github.com/truecharts/charts/tree/master/charts/dependency/subchart>
 
 ## Requirements
 
@@ -24,7 +21,6 @@ Kubernetes: `>=1.16.0-0`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://charts.truecharts.org/ | postgresql | 8.0.118 |
 | https://library-charts.truecharts.org | common | 10.8.0 |
 
 ## Installing the Chart
@@ -35,12 +31,12 @@ To install this Chart on TrueNAS SCALE check our [Quick-Start Guide](https://tru
 
 ### Helm
 
-To install the chart with the release name `joplin-server`
+To install the chart with the release name `subchart`
 
 ```console
 helm repo add TrueCharts https://charts.truecharts.org
 helm repo update
-helm install joplin-server TrueCharts/joplin-server
+helm install subchart TrueCharts/subchart
 ```
 
 ## Uninstall
@@ -53,10 +49,10 @@ To upgrade, rollback or delete this Chart from TrueNAS SCALE check our [Quick-St
 
 ### Helm
 
-To uninstall the `joplin-server` deployment
+To uninstall the `subchart` deployment
 
 ```console
-helm uninstall joplin-server
+helm uninstall subchart
 ```
 
 ## Configuration
@@ -73,9 +69,9 @@ Other values may be used from the [values.yaml](https://github.com/truecharts/li
 Specify each parameter using the `--set key=value[,key=value]` argument to `helm install`.
 
 ```console
-helm install joplin-server \
+helm install subchart \
   --set env.TZ="America/New York" \
-    TrueCharts/joplin-server
+    TrueCharts/subchart
 ```
 
 #### Configure using a yaml file
@@ -83,7 +79,7 @@ helm install joplin-server \
 Alternatively, a YAML file that specifies the values for the above parameters can be provided while installing the chart.
 
 ```console
-helm install joplin-server TrueCharts/joplin-server -f values.yaml
+helm install subchart TrueCharts/subchart -f values.yaml
 ```
 
 #### Connecting to other charts
