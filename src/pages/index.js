@@ -22,12 +22,6 @@ function HomepageHeader() {
           >
             TrueNAS SCALE - 5min ⏱️
           </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/manual/Helm%20Charts/getting-started"
-          >
-            Helm Charts - 10min ⏱️
-          </Link>
         </div>
         <h3>
           <br></br>
@@ -55,7 +49,7 @@ export default function Home() {
   return (
     <Layout
       title={`TrueCharts`}
-      description="Your source For Helm Charts and TrueNAS SCALE Apps<head />"
+      description="Your source For TrueNAS SCALE Apps<head />"
     >
       <HomepageHeader />
       <main>

@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require("@site/static/img/easy-to-use-icon.svg").default,
     description: (
       <>
-        TrueCharts features a neatly organised Helm Charts or can be deployed
-        natively on platforms like TrueNAS SCALE.
+        TrueCharts features a neatly organised catalog of Apps for TrueNAS SCALE.
       </>
     )
   },
@@ -18,7 +17,7 @@ const FeatureList = [
     Svg: require("@site/static/img/file-settings-icon.svg").default,
     description: (
       <>
-        All TrueCharts Charts and Apps, are build upon the same foundation. All
+        All TrueCharts Apps, are build upon the same solid foundation. All
         featuring the same deployment experience
       </>
     )
