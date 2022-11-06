@@ -550,8 +550,7 @@ The intro needs improvement ;)
 |syncthing                 |config                |PVC      |-              |/var/syncthing                                       |Read/Write|Enabled                |
 |syslog-ng                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |syslog-ng                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|tailscale                 |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
-|tailscale                 |config                |PVC      |-              |/var/lib                                             |Read/Write|Enabled                |
+|tailscale                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |tailscale                 |tun                   |hostPath |/dev/net/tun   |/dev/net/tun                                         |Read/Write|Enabled                |
 |tautulli                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |tdarr                     |configs               |PVC      |-              |/app/configs                                         |Read/Write|Enabled                |
