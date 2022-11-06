@@ -1,6 +1,4 @@
-# TrueCharts Application Installation Walk-through
-
-## Storage and Persistence
+# Storage and Persistence
 
 Many applications will have certain options for storage to be configurable by the user, the main two being PVC and hostpath but may include other types. This storage is called Persistence since it is not deleted upon restart or upgrade of an application.
 

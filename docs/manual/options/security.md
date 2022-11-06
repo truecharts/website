@@ -1,6 +1,4 @@
-# TrueCharts Application Installation Walk-through
-
-## Security and Permissions
+# Security and Permissions
 
 The security settings for each application and/or permissions that each application may have for the files/directories created. Each application will come with predefined permissions but users may want to change certain setting depending on their usage or capabilities. Unless necessary users are advised to keep this section to defaults.
 

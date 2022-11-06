@@ -1,6 +1,4 @@
-# TrueCharts Application Installation Walk-through
-
-## Application Name
+# Application Name
 
 The basic information for all Applications. `Application Name` is required and the latest version of a application is selected by default, however depending on the catalog one may be able to select previous version of the application to install.
 

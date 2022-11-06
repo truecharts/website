@@ -1,6 +1,4 @@
-# TrueCharts Application Installation Walk-through
-
-## Addons
+# Addons
 
 Any extra information that the application may need or the maintainer chooses to include will be here. This may vary based on the maintainer or catalog and the specific needs of the application.
 

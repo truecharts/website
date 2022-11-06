@@ -1,6 +1,4 @@
-# TrueCharts Application Installation Walk-through
-
-## Resources and Devices
+# Resources and Devices
 
 Resources limits that have been defined by each application are in this section. Most will have a specific default that some users may want to change based on their specific hardware or needs. Also contains the section to mount USB devices and/or GPUs as necessary.
 
