@@ -661,6 +661,7 @@ The intro needs improvement ;)
 |promtail        |config      |secret  |-            |/etc/promtail|Read/Write|Enabled                |
 |redis           |redis-health|custom  |-            |/health      |Read/Write|Enabled                |
 |solr            |-           |-       |-            |-            |-         |Persistence not Defined|
+|subchart        |-           |-       |-            |-            |-         |Persistence not Defined|
 
 ## Incubator
 

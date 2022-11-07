@@ -552,15 +552,16 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|promtail        |main    |main     |3101 |TCP     |Active|-                                                |
-|mariadb         |main    |main     |3306 |TCP     |Active|Potential conflict with: arma3exilemod           |
-|postgresql      |main    |main     |5432 |TCP     |Active|-                                                |
-|redis           |main    |main     |6379 |TCP     |Active|Potential conflict with: tubearchivist-redisjson |
-|clickhouse      |main    |main     |8123 |HTTP    |Active|-                                                |
-|solr            |main    |main     |8983 |TCP     |Active|-                                                |
-|collabora-online|main    |main     |10105|TCP     |Active|-                                                |
-|memcached       |main    |main     |11211|TCP     |Active|-                                                |
-|mongodb         |main    |main     |27017|TCP     |Active|-                                                |
+|subchart        |main    |-        |-    |-       |Service is Disabled|-                                                |
+|promtail        |main    |main     |3101 |TCP     |Active             |-                                                |
+|mariadb         |main    |main     |3306 |TCP     |Active             |Potential conflict with: arma3exilemod           |
+|postgresql      |main    |main     |5432 |TCP     |Active             |-                                                |
+|redis           |main    |main     |6379 |TCP     |Active             |Potential conflict with: tubearchivist-redisjson |
+|clickhouse      |main    |main     |8123 |HTTP    |Active             |-                                                |
+|solr            |main    |main     |8983 |TCP     |Active             |-                                                |
+|collabora-online|main    |main     |10105|TCP     |Active             |-                                                |
+|memcached       |main    |main     |11211|TCP     |Active             |-                                                |
+|mongodb         |main    |main     |27017|TCP     |Active             |-                                                |
 
 ## Incubator
 
@@ -1194,7 +1195,7 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|metallb |-         |-         |-    |-       |Service not Defined|-                                                                                             |
+|metallb |main      |-         |-    |-       |Service is Disabled|-                                                                                             |
 |blocky  |dnstcp    |dnstcp    |53   |TCP     |Active             |Potential conflict with: pihole adguard-home lancache-dns mosdns dns-doh-companion technitium |
 |blocky  |dnsudp    |dnsudp    |53   |UDP     |Active             |-                                                                                             |
 |blocky  |dot       |dot       |853  |TCP     |Active             |-                                                                                             |
