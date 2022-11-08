@@ -1,8 +1,11 @@
+---
+sidebar_position: 8
+---
 # Security and Permissions
 
 The security settings for each application and/or permissions that each application may have for the files/directories created. Each application will come with predefined permissions but users may want to change certain setting depending on their usage or capabilities. Unless necessary users are advised to keep this section to defaults.
 
-### Security and Permissions
+## Security and Permissions
 
 - `Change PUID / UMASK values`: (Unchecked by default) By enabling this you override default set values.
 - `Show Advanced Security Settings`: (Unchecked by default) Enables the following `Security Context` options that may or may not be enabled by the application.

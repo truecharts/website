@@ -1,8 +1,11 @@
+---
+sidebar_position: 6
+---
 # Storage and Persistence
 
 Many applications will have certain options for storage to be configurable by the user, the main two being PVC and hostpath but may include other types. This storage is called Persistence since it is not deleted upon restart or upgrade of an application.
 
-### `Storage and Persistence`
+## `Storage and Persistence`
 
 - Any data that needs to be retained upon restarts or upgrades will include `Integrated Persistent Storage` in this section
   - Examples include `App Config Storage`, `App Data Storage`, etc.
