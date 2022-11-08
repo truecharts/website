@@ -1,8 +1,11 @@
+---
+sidebar_position: 5
+---
 # Networking and Services
 
 Networking options for any applications are contained here. Some applications may have complicated networking setups with multiple options or some may have no options here at all. Options here include the service and port configurations for the application, and more may be enabled or changed under the Advanced Settings and Show Expert Config boxes.
 
-### `Networking and Services`
+## `Networking and Services`
 
 If shown, one may choose the `Service Type` for their application. Might be multiple services shown depending on the application or none at all.
 

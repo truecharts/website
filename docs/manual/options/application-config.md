@@ -1,13 +1,16 @@
+---
+sidebar_position: 4
+---
 # Application Configuration
 
 Every application has different values that may be required to run or have multiple options that the user may choose to enable or disable to change the behavior of the application. Most options should have a Tooltip (Circled Question Mark) to further describe said option.
 
-### `Application Configuration`
+## `Application Configuration`
 
 - May vary depending on the application being used, examples include default `username`, `password` or anything that may be required by the application.
 
 :::caution Required Fields
-Anything labeled required will need to be filled iout in order to continue with the installation.
+Anything labeled required will need to be filled out in order to continue with the installation.
 
 :::
 

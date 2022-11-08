@@ -1,8 +1,11 @@
+---
+sidebar_position: 11
+---
 # Addons
 
 Addons that are supplied by the TrueCharts team to add additional capabilities for users to use on top of the application’s defaults. Things included here are VPN addons, Codeserver for editing files inside the application’s container, Promtail, etc. Generally not required for use but may be necessary at times for specific applications.
 
-### `Addons`
+## `Addons`
 
 This section is all unchecked by default, checking each option will display the menus described below.
 
