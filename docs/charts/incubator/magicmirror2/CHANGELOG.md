@@ -7,11 +7,13 @@
 ### Chore
 
 - Auto-update chart README [skip ci]
-  - Auto-update chart README [skip ci]
   - Major Change to GUI
-  
+
   ### Fix
 
 - change container config label
-  
-  
+
+
+
+
+## [magicmirror2-0.0.1]magicmirror2-0.0.1 (2022-11-10)
