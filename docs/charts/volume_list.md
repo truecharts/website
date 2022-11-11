@@ -993,6 +993,8 @@ The intro needs improvement ;)
 |llalon-github-backup           |config                     |PVC      |-                |/home/docker/github-backup/config/               |Read/Write|Enabled                |
 |longvinter                     |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |longvinter                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|magicmirror2                   |config                     |PVC      |-                |/magicmirror2                                    |Read/Write|Enabled                |
+|magicmirror2                   |configfile                 |custom   |-                |/magicmirror2/config/config.js                   |Read/Write|Enabled                |
 |magnetico-environment          |databaselocation           |PVC      |-                |/root/.local/share/magneticod                    |Read/Write|Enabled                |
 |mailpile                       |path1                      |PVC      |-                |/root/.local/share/Mailpile                      |Read/Write|Enabled                |
 |mailpile                       |path2                      |PVC      |-                |/root/.gnupg                                     |Read/Write|Enabled                |
@@ -1031,6 +1033,11 @@ The intro needs improvement ;)
 |necesse                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |necesse                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |neko                           |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|netbox                         |config                     |PVC      |-                |/etc/netbox/config                               |Read/Write|Enabled                |
+|netbox                         |reports                    |PVC      |-                |/etc/netbox/reports                              |Read/Write|Enabled                |
+|netbox                         |scripts                    |PVC      |-                |/etc/netbox/scripts                              |Read/Write|Enabled                |
+|netbox                         |media                      |PVC      |-                |/opt/netbox/netbox/media                         |Read/Write|Enabled                |
+|netbox                         |configfile                 |secret   |-                |/etc/netbox/config/01-config.py                  |Read/Write|Enabled                |
 |neverwinternights-ee           |serverfiles                |PVC      |-                |/nwnee                                           |Read/Write|Enabled                |
 |newyearcountdownclock          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |nexus-oss                      |data                       |PVC      |-                |/nexus-data                                      |Read/Write|Enabled                |
