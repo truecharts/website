@@ -2,6 +2,19 @@
 
 
 
+## [muximux-4.0.3](https://github.com/truecharts/charts/compare/muximux-4.0.2...muximux-4.0.3) (2022-11-11)
+
+### Chore
+
+- Bump all for ingressList and speedtest
+  
+  ### Feat
+
+- readd ingressList to all Apps that already have Ingress itself
+  
+  
+
+
 ## [muximux-4.0.2](https://github.com/truecharts/charts/compare/muximux-4.0.0...muximux-4.0.2) (2022-11-11)
 
 ### Chore

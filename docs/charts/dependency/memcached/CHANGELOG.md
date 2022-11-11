@@ -2,6 +2,15 @@
 
 
 
+## [memcached-4.0.3](https://github.com/truecharts/charts/compare/memcached-4.0.2...memcached-4.0.3) (2022-11-11)
+
+### Chore
+
+- Bump all for ingressList and speedtest
+  
+  
+
+
 ## [memcached-4.0.2](https://github.com/truecharts/charts/compare/memcached-3.0.122...memcached-4.0.2) (2022-11-11)
 
 ### Chore

@@ -2,6 +2,18 @@
 
 
 
+## [subchart-2.0.3](https://github.com/truecharts/charts/compare/subchart-1.0.7...subchart-2.0.3) (2022-11-11)
+
+### Chore
+
+- Auto-update chart README [skip ci]
+  - Bump all for ingressList and speedtest
+  - bump to regenerate catalog
+  - Major Change to GUI
+  
+  
+
+
 ## [subchart-2.0.2](https://github.com/truecharts/charts/compare/subchart-1.0.7...subchart-2.0.2) (2022-11-11)
 
 ### Chore

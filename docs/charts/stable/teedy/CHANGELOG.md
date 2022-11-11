@@ -2,6 +2,19 @@
 
 
 
+## [teedy-8.0.3](https://github.com/truecharts/charts/compare/teedy-8.0.2...teedy-8.0.3) (2022-11-11)
+
+### Chore
+
+- Bump all for ingressList and speedtest
+  
+  ### Feat
+
+- readd ingressList to all Apps that already have Ingress itself
+  
+  
+
+
 ## [teedy-8.0.2](https://github.com/truecharts/charts/compare/teedy-8.0.0...teedy-8.0.2) (2022-11-11)
 
 ### Chore

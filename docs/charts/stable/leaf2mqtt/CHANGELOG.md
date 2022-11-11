@@ -2,6 +2,15 @@
 
 
 
+## [leaf2mqtt-5.0.3](https://github.com/truecharts/charts/compare/leaf2mqtt-5.0.2...leaf2mqtt-5.0.3) (2022-11-11)
+
+### Chore
+
+- Bump all for ingressList and speedtest
+  
+  
+
+
 ## [leaf2mqtt-5.0.2](https://github.com/truecharts/charts/compare/leaf2mqtt-5.0.0...leaf2mqtt-5.0.2) (2022-11-11)
 
 ### Chore
