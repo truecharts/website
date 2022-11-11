@@ -2,6 +2,20 @@
 
 
 
+## [deemix-4.0.1](https://github.com/truecharts/charts/compare/deemix-4.0.0...deemix-4.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [deemix-4.0.0](https://github.com/truecharts/charts/compare/deemix-3.0.43...deemix-4.0.0) (2022-11-10)
 
 ### Chore

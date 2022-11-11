@@ -2,6 +2,20 @@
 
 
 
+## [chronos-2.0.1](https://github.com/truecharts/charts/compare/chronos-2.0.0...chronos-2.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [chronos-2.0.0](https://github.com/truecharts/charts/compare/chronos-1.0.12...chronos-2.0.0) (2022-11-10)
 
 ### Chore

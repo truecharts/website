@@ -2,6 +2,19 @@
 
 
 
+## [retrobot-2.0.1](https://github.com/truecharts/charts/compare/retrobot-2.0.0...retrobot-2.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  
+  
+
+
 ## [retrobot-2.0.0](https://github.com/truecharts/charts/compare/retrobot-1.0.3...retrobot-2.0.0) (2022-11-10)
 
 ### Chore

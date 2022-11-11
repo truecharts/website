@@ -2,6 +2,20 @@
 
 
 
+## [komga-7.0.1](https://github.com/truecharts/charts/compare/komga-7.0.0...komga-7.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [komga-7.0.0](https://github.com/truecharts/charts/compare/komga-6.0.50...komga-7.0.0) (2022-11-10)
 
 ### Chore

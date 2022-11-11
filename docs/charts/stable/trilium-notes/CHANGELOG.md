@@ -2,6 +2,20 @@
 
 
 
+## [trilium-notes-6.0.1](https://github.com/truecharts/charts/compare/trilium-notes-6.0.0...trilium-notes-6.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [trilium-notes-6.0.0](https://github.com/truecharts/charts/compare/trilium-notes-5.0.47...trilium-notes-6.0.0) (2022-11-10)
 
 ### Chore

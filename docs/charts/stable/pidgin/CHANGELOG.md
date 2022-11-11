@@ -2,6 +2,20 @@
 
 
 
+## [pidgin-3.0.1](https://github.com/truecharts/charts/compare/pidgin-3.0.0...pidgin-3.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [pidgin-3.0.0](https://github.com/truecharts/charts/compare/pidgin-2.0.41...pidgin-3.0.0) (2022-11-10)
 
 ### Chore

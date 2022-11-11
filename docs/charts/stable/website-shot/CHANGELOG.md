@@ -2,6 +2,20 @@
 
 
 
+## [website-shot-3.0.1](https://github.com/truecharts/charts/compare/website-shot-3.0.0...website-shot-3.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [website-shot-3.0.0](https://github.com/truecharts/charts/compare/website-shot-2.0.46...website-shot-3.0.0) (2022-11-10)
 
 ### Chore

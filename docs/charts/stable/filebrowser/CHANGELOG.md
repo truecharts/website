@@ -2,6 +2,20 @@
 
 
 
+## [filebrowser-3.0.1](https://github.com/truecharts/charts/compare/filebrowser-3.0.0...filebrowser-3.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [filebrowser-3.0.0](https://github.com/truecharts/charts/compare/filebrowser-2.0.45...filebrowser-3.0.0) (2022-11-10)
 
 ### Chore

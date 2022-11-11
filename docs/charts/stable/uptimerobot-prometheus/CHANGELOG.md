@@ -2,6 +2,19 @@
 
 
 
+## [uptimerobot-prometheus-5.0.2](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-5.0.1...uptimerobot-prometheus-5.0.2) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  
+  
+
+
 ## [uptimerobot-prometheus-5.0.1](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-4.0.44...uptimerobot-prometheus-5.0.1) (2022-11-10)
 
 ### Chore

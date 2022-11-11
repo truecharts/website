@@ -2,6 +2,20 @@
 
 
 
+## [duplicati-7.0.1](https://github.com/truecharts/charts/compare/duplicati-7.0.0...duplicati-7.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [duplicati-7.0.0](https://github.com/truecharts/charts/compare/duplicati-6.0.43...duplicati-7.0.0) (2022-11-10)
 
 ### Chore

@@ -2,6 +2,20 @@
 
 
 
+## [guacamole-client-5.0.1](https://github.com/truecharts/charts/compare/guacamole-client-5.0.0...guacamole-client-5.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [guacamole-client-5.0.0](https://github.com/truecharts/charts/compare/guacamole-client-4.0.53...guacamole-client-5.0.0) (2022-11-10)
 
 ### Chore

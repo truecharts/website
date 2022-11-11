@@ -2,6 +2,20 @@
 
 
 
+## [sonarr-12.0.1](https://github.com/truecharts/charts/compare/sonarr-12.0.0...sonarr-12.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [sonarr-12.0.0](https://github.com/truecharts/charts/compare/sonarr-11.0.45...sonarr-12.0.0) (2022-11-10)
 
 ### Chore

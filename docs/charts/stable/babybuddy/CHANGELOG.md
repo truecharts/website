@@ -2,6 +2,20 @@
 
 
 
+## [babybuddy-9.0.1](https://github.com/truecharts/charts/compare/babybuddy-9.0.0...babybuddy-9.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [babybuddy-9.0.0](https://github.com/truecharts/charts/compare/babybuddy-8.0.67...babybuddy-9.0.0) (2022-11-10)
 
 ### Chore

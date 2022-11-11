@@ -2,6 +2,20 @@
 
 
 
+## [heimdall-12.0.1](https://github.com/truecharts/charts/compare/heimdall-12.0.0...heimdall-12.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [heimdall-12.0.0](https://github.com/truecharts/charts/compare/heimdall-11.0.55...heimdall-12.0.0) (2022-11-10)
 
 ### Chore

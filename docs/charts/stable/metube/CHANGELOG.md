@@ -2,6 +2,20 @@
 
 
 
+## [metube-3.0.1](https://github.com/truecharts/charts/compare/metube-3.0.0...metube-3.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [metube-3.0.0](https://github.com/truecharts/charts/compare/metube-2.0.40...metube-3.0.0) (2022-11-10)
 
 ### Chore

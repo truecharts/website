@@ -2,6 +2,20 @@
 
 
 
+## [anonaddy-10.0.1](https://github.com/truecharts/charts/compare/anonaddy-10.0.0...anonaddy-10.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [anonaddy-10.0.0](https://github.com/truecharts/charts/compare/anonaddy-9.0.59...anonaddy-10.0.0) (2022-11-10)
 
 ### Chore

@@ -2,6 +2,20 @@
 
 
 
+## [nullserv-7.0.1](https://github.com/truecharts/charts/compare/nullserv-7.0.0...nullserv-7.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [nullserv-7.0.0](https://github.com/truecharts/charts/compare/nullserv-6.0.43...nullserv-7.0.0) (2022-11-10)
 
 ### Chore

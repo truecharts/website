@@ -2,6 +2,20 @@
 
 
 
+## [thelounge-7.0.1](https://github.com/truecharts/charts/compare/thelounge-7.0.0...thelounge-7.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [thelounge-7.0.0](https://github.com/truecharts/charts/compare/thelounge-6.0.41...thelounge-7.0.0) (2022-11-10)
 
 ### Chore

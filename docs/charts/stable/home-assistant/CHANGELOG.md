@@ -2,6 +2,20 @@
 
 
 
+## [home-assistant-16.0.1](https://github.com/truecharts/charts/compare/home-assistant-16.0.0...home-assistant-16.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [home-assistant-16.0.0](https://github.com/truecharts/charts/compare/home-assistant-15.0.71...home-assistant-16.0.0) (2022-11-10)
 
 ### Chore

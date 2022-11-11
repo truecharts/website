@@ -2,6 +2,20 @@
 
 
 
+## [flaresolverr-7.0.1](https://github.com/truecharts/charts/compare/flaresolverr-7.0.0...flaresolverr-7.0.1) (2022-11-11)
+
+### Chore
+
+- bump to regenerate catalog
+  
+  ### Fix
+
+- remove removed includes
+  - remove references to targetPort
+  
+  
+
+
 ## [flaresolverr-7.0.0](https://github.com/truecharts/charts/compare/flaresolverr-6.0.47...flaresolverr-7.0.0) (2022-11-10)
 
 ### Chore
