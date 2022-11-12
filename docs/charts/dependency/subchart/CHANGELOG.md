@@ -2,6 +2,15 @@
 
 
 
+## [subchart-2.0.5](https://github.com/truecharts/charts/compare/subchart-2.0.4...subchart-2.0.5) (2022-11-12)
+
+### Chore
+
+- update helm chart common to v10.9.7 ([#4389](https://github.com/truecharts/charts/issues/4389))
+  
+  
+
+
 ## [subchart-2.0.4](https://github.com/truecharts/charts/compare/subchart-2.0.3...subchart-2.0.4) (2022-11-12)
 
 ### Chore
