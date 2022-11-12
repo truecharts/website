@@ -2,6 +2,15 @@
 
 
 
+## [longvinter-1.0.4](https://github.com/truecharts/charts/compare/longvinter-1.0.3...longvinter-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [longvinter-1.0.3](https://github.com/truecharts/charts/compare/longvinter-0.0.36...longvinter-1.0.3) (2022-11-11)
 
 ### Chore

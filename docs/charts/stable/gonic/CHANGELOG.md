@@ -2,6 +2,15 @@
 
 
 
+## [gonic-7.0.4](https://github.com/truecharts/charts/compare/gonic-7.0.3...gonic-7.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [gonic-7.0.3](https://github.com/truecharts/charts/compare/gonic-7.0.2...gonic-7.0.3) (2022-11-11)
 
 ### Chore

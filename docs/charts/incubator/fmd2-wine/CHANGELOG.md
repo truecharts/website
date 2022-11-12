@@ -2,6 +2,15 @@
 
 
 
+## [fmd2-wine-1.0.4](https://github.com/truecharts/charts/compare/fmd2-wine-1.0.3...fmd2-wine-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [fmd2-wine-1.0.3](https://github.com/truecharts/charts/compare/fmd2-wine-0.0.34...fmd2-wine-1.0.3) (2022-11-11)
 
 ### Chore

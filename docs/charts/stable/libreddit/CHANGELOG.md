@@ -2,6 +2,16 @@
 
 
 
+## [libreddit-2.0.4](https://github.com/truecharts/charts/compare/libreddit-2.0.3...libreddit-2.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  - update docker general non-major
+  
+  
+
+
 ## [libreddit-2.0.3](https://github.com/truecharts/charts/compare/libreddit-2.0.2...libreddit-2.0.3) (2022-11-11)
 
 ### Chore

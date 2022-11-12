@@ -2,6 +2,15 @@
 
 
 
+## [conreq-1.0.4](https://github.com/truecharts/charts/compare/conreq-1.0.3...conreq-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [conreq-1.0.3](https://github.com/truecharts/charts/compare/conreq-0.0.38...conreq-1.0.3) (2022-11-11)
 
 ### Chore

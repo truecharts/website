@@ -2,6 +2,15 @@
 
 
 
+## [openra-1.0.4](https://github.com/truecharts/charts/compare/openra-1.0.3...openra-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [openra-1.0.3](https://github.com/truecharts/charts/compare/openra-0.0.34...openra-1.0.3) (2022-11-11)
 
 ### Chore

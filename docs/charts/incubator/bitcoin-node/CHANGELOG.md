@@ -2,6 +2,15 @@
 
 
 
+## [bitcoin-node-1.0.4](https://github.com/truecharts/charts/compare/bitcoin-node-1.0.3...bitcoin-node-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [bitcoin-node-1.0.3](https://github.com/truecharts/charts/compare/bitcoin-node-0.0.34...bitcoin-node-1.0.3) (2022-11-11)
 
 ### Chore

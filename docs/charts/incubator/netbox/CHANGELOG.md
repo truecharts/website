@@ -2,6 +2,16 @@
 
 
 
+## [netbox-2.0.0](https://github.com/truecharts/charts/compare/netbox-1.0.4...netbox-2.0.0) (2022-11-12)
+
+### Chore
+
+- update helm general major (major) ([#4392](https://github.com/truecharts/charts/issues/4392))
+  - update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [netbox-1.0.4](https://github.com/truecharts/charts/compare/netbox-0.0.1...netbox-1.0.4) (2022-11-11)
 
 ### Chore

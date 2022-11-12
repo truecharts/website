@@ -2,6 +2,16 @@
 
 
 
+## [etesync-2.0.0](https://github.com/truecharts/charts/compare/etesync-1.0.3...etesync-2.0.0) (2022-11-12)
+
+### Chore
+
+- update helm general major (major) ([#4392](https://github.com/truecharts/charts/issues/4392))
+  - update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [etesync-1.0.3](https://github.com/truecharts/charts/compare/etesync-0.0.50...etesync-1.0.3) (2022-11-11)
 
 ### Chore

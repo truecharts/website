@@ -2,6 +2,17 @@
 
 
 
+## [loki-7.0.0](https://github.com/truecharts/charts/compare/loki-6.0.3...loki-7.0.0) (2022-11-12)
+
+### Chore
+
+- update helm general major (major) ([#4392](https://github.com/truecharts/charts/issues/4392))
+  - update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  - update docker general non-major
+  
+  
+
+
 ## [loki-6.0.3](https://github.com/truecharts/charts/compare/loki-6.0.2...loki-6.0.3) (2022-11-11)
 
 ### Chore

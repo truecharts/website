@@ -2,6 +2,15 @@
 
 
 
+## [filestash-1.0.4](https://github.com/truecharts/charts/compare/filestash-1.0.3...filestash-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [filestash-1.0.3](https://github.com/truecharts/charts/compare/filestash-0.0.53...filestash-1.0.3) (2022-11-11)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [fastcom-mqtt-1.0.4](https://github.com/truecharts/charts/compare/fastcom-mqtt-1.0.3...fastcom-mqtt-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [fastcom-mqtt-1.0.3](https://github.com/truecharts/charts/compare/fastcom-mqtt-0.0.35...fastcom-mqtt-1.0.3) (2022-11-11)
 
 ### Chore

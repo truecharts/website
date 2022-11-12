@@ -2,6 +2,17 @@
 
 
 
+## [speedtest-tracker-2.0.0](https://github.com/truecharts/charts/compare/speedtest-tracker-1.0.3...speedtest-tracker-2.0.0) (2022-11-12)
+
+### Chore
+
+- update helm general major (major) ([#4392](https://github.com/truecharts/charts/issues/4392))
+  - update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  - update docker general non-major
+  
+  
+
+
 ## [speedtest-tracker-1.0.3](https://github.com/truecharts/charts/compare/speedtest-tracker-0.1.10...speedtest-tracker-1.0.3) (2022-11-11)
 
 ### Chore

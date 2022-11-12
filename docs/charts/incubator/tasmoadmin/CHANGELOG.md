@@ -2,6 +2,15 @@
 
 
 
+## [tasmoadmin-1.0.4](https://github.com/truecharts/charts/compare/tasmoadmin-1.0.3...tasmoadmin-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [tasmoadmin-1.0.3](https://github.com/truecharts/charts/compare/tasmoadmin-0.0.34...tasmoadmin-1.0.3) (2022-11-11)
 
 ### Chore

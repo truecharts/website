@@ -2,6 +2,15 @@
 
 
 
+## [archiveteam-warrior-1.0.4](https://github.com/truecharts/charts/compare/archiveteam-warrior-1.0.3...archiveteam-warrior-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [archiveteam-warrior-1.0.3](https://github.com/truecharts/charts/compare/archiveteam-warrior-0.0.35...archiveteam-warrior-1.0.3) (2022-11-11)
 
 ### Chore

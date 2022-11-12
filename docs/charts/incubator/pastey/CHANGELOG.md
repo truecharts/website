@@ -2,6 +2,15 @@
 
 
 
+## [pastey-1.0.4](https://github.com/truecharts/charts/compare/pastey-1.0.3...pastey-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [pastey-1.0.3](https://github.com/truecharts/charts/compare/pastey-0.0.36...pastey-1.0.3) (2022-11-11)
 
 ### Chore

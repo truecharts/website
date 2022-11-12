@@ -2,6 +2,15 @@
 
 
 
+## [senseai-server-1.0.4](https://github.com/truecharts/charts/compare/senseai-server-1.0.3...senseai-server-1.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [senseai-server-1.0.3](https://github.com/truecharts/charts/compare/senseai-server-0.0.42...senseai-server-1.0.3) (2022-11-11)
 
 ### Chore

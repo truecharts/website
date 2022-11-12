@@ -2,6 +2,16 @@
 
 
 
+## [logitech-media-server-5.0.4](https://github.com/truecharts/charts/compare/logitech-media-server-5.0.3...logitech-media-server-5.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  - update docker general non-major
+  
+  
+
+
 ## [logitech-media-server-5.0.3](https://github.com/truecharts/charts/compare/logitech-media-server-5.0.2...logitech-media-server-5.0.3) (2022-11-11)
 
 ### Chore

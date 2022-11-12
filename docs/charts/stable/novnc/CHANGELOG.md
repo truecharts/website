@@ -2,6 +2,15 @@
 
 
 
+## [novnc-4.0.4](https://github.com/truecharts/charts/compare/prusaslicer-novnc-2.0.3...novnc-4.0.4) (2022-11-12)
+
+### Chore
+
+- update helm general non-major ([#4395](https://github.com/truecharts/charts/issues/4395))
+  
+  
+
+
 ## [novnc-4.0.3](https://github.com/truecharts/charts/compare/novnc-4.0.2...novnc-4.0.3) (2022-11-11)
 
 ### Chore
