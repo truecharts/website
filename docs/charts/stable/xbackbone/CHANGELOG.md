@@ -2,6 +2,15 @@
 
 
 
+## [xbackbone-5.0.1](https://github.com/truecharts/charts/compare/xbackbone-5.0.0...xbackbone-5.0.1) (2022-11-13)
+
+### Chore
+
+- update helm general non-major ([#4404](https://github.com/truecharts/charts/issues/4404))
+  
+  
+
+
 ## [xbackbone-5.0.0](https://github.com/truecharts/charts/compare/xbackbone-4.0.3...xbackbone-5.0.0) (2022-11-12)
 
 ### Chore
