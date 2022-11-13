@@ -2,6 +2,15 @@
 
 
 
+## [lancache-monolithic-2.0.5](https://github.com/truecharts/charts/compare/lancache-monolithic-2.0.4...lancache-monolithic-2.0.5) (2022-11-13)
+
+### Chore
+
+- update docker general non-major ([#4398](https://github.com/truecharts/charts/issues/4398))
+  
+  
+
+
 ## [lancache-monolithic-2.0.4](https://github.com/truecharts/charts/compare/lancache-monolithic-2.0.3...lancache-monolithic-2.0.4) (2022-11-12)
 
 ### Chore
