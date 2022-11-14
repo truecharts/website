@@ -2,6 +2,15 @@
 
 
 
+## [miniflux-9.0.1](https://github.com/truecharts/charts/compare/miniflux-9.0.0...miniflux-9.0.1) (2022-11-14)
+
+### Chore
+
+- update docker general non-major
+  
+  
+
+
 ## [miniflux-9.0.0](https://github.com/truecharts/charts/compare/miniflux-8.0.3...miniflux-9.0.0) (2022-11-12)
 
 ### Chore
