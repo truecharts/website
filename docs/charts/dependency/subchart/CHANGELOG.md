@@ -2,6 +2,15 @@
 
 
 
+## [subchart-3.0.1](https://github.com/truecharts/charts/compare/subchart-3.0.0...subchart-3.0.1) (2022-11-15)
+
+### Chore
+
+- some tryouts ([#4439](https://github.com/truecharts/charts/issues/4439))
+  
+  
+
+
 ## [subchart-3.0.0](https://github.com/truecharts/charts/compare/subchart-2.0.5...subchart-3.0.0) (2022-11-14)
 
 ### Chore
