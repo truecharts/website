@@ -11,6 +11,15 @@
   
 
 
+## [lychee-16.0.1](https://github.com/truecharts/charts/compare/lychee-16.0.0...lychee-16.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [lychee-16.0.0](https://github.com/truecharts/charts/compare/lychee-15.0.2...lychee-16.0.0) (2022-11-14)
 
 ### Chore

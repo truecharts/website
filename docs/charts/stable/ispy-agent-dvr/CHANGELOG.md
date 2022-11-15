@@ -11,6 +11,15 @@
   
 
 
+## [ispy-agent-dvr-4.0.1](https://github.com/truecharts/charts/compare/ispy-agent-dvr-4.0.0...ispy-agent-dvr-4.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [ispy-agent-dvr-4.0.0](https://github.com/truecharts/charts/compare/ispy-agent-dvr-3.0.4...ispy-agent-dvr-4.0.0) (2022-11-14)
 
 ### Chore

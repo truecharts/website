@@ -11,6 +11,15 @@
   
 
 
+## [pure-ftpd-2.0.1](https://github.com/truecharts/charts/compare/pure-ftpd-2.0.0...pure-ftpd-2.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [pure-ftpd-2.0.0](https://github.com/truecharts/charts/compare/pure-ftpd-1.0.4...pure-ftpd-2.0.0) (2022-11-14)
 
 ### Chore

@@ -11,6 +11,15 @@
   
 
 
+## [cryptofolio-6.0.1](https://github.com/truecharts/charts/compare/cryptofolio-6.0.0...cryptofolio-6.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [cryptofolio-6.0.0](https://github.com/truecharts/charts/compare/cryptofolio-5.0.4...cryptofolio-6.0.0) (2022-11-14)
 
 ### Chore
