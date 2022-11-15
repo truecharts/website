@@ -2,6 +2,11 @@
 
 
 
+## [omada-controller-8.0.2](https://github.com/truecharts/charts/compare/omada-controller-8.0.1...omada-controller-8.0.2) (2022-11-15)
+
+
+
+
 ## [omada-controller-8.0.1](https://github.com/truecharts/charts/compare/omada-controller-8.0.0...omada-controller-8.0.1) (2022-11-15)
 
 ### Fix
