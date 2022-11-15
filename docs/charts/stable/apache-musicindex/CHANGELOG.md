@@ -2,6 +2,15 @@
 
 
 
+## [apache-musicindex-6.0.0](https://github.com/truecharts/charts/compare/apache-musicindex-5.0.4...apache-musicindex-6.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [apache-musicindex-5.0.4](https://github.com/truecharts/charts/compare/apache-musicindex-5.0.3...apache-musicindex-5.0.4) (2022-11-12)
 
 ### Chore

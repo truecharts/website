@@ -2,6 +2,15 @@
 
 
 
+## [spotweb-7.0.0](https://github.com/truecharts/charts/compare/spotweb-6.0.0...spotweb-7.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [spotweb-6.0.0](https://github.com/truecharts/charts/compare/spotweb-5.0.3...spotweb-6.0.0) (2022-11-12)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [plex-utills-3.0.0](https://github.com/truecharts/charts/compare/plex-utills-2.0.4...plex-utills-3.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [plex-utills-2.0.4](https://github.com/truecharts/charts/compare/plex-utills-2.0.3...plex-utills-2.0.4) (2022-11-12)
 
 ### Chore

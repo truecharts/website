@@ -2,6 +2,15 @@
 
 
 
+## [mymediaforalexa-3.0.0](https://github.com/truecharts/charts/compare/mymediaforalexa-2.0.4...mymediaforalexa-3.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [mymediaforalexa-2.0.4](https://github.com/truecharts/charts/compare/mymediaforalexa-2.0.3...mymediaforalexa-2.0.4) (2022-11-12)
 
 ### Chore

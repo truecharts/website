@@ -2,6 +2,15 @@
 
 
 
+## [privatebin-3.0.0](https://github.com/truecharts/charts/compare/privatebin-2.0.0...privatebin-3.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [privatebin-2.0.0](https://github.com/truecharts/charts/compare/privatebin-1.0.3...privatebin-2.0.0) (2022-11-12)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [minetest-3.0.0](https://github.com/truecharts/charts/compare/minetest-2.0.4...minetest-3.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [minetest-2.0.4](https://github.com/truecharts/charts/compare/minetest-2.0.3...minetest-2.0.4) (2022-11-12)
 
 ### Chore

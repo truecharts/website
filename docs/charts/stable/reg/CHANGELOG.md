@@ -2,6 +2,15 @@
 
 
 
+## [reg-8.0.0](https://github.com/truecharts/charts/compare/wireguard-2.0.4...reg-8.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [reg-7.0.4](https://github.com/truecharts/charts/compare/wireguard-2.0.3...reg-7.0.4) (2022-11-12)
 
 ### Chore

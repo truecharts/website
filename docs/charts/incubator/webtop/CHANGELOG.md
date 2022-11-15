@@ -2,6 +2,15 @@
 
 
 
+## [webtop-2.0.0](https://github.com/truecharts/charts/compare/webtop-1.0.5...webtop-2.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [webtop-1.0.5](https://github.com/truecharts/charts/compare/webtop-1.0.4...webtop-1.0.5) (2022-11-14)
 
 ### Chore

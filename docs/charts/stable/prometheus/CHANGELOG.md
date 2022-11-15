@@ -2,6 +2,15 @@
 
 
 
+## [prometheus-7.0.0](https://github.com/truecharts/charts/compare/prometheus-6.0.4...prometheus-7.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [prometheus-6.0.4](https://github.com/truecharts/charts/compare/prometheus-6.0.3...prometheus-6.0.4) (2022-11-13)
 
 ### Chore

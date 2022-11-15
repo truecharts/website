@@ -2,6 +2,15 @@
 
 
 
+## [komga-8.0.0](https://github.com/truecharts/charts/compare/komga-7.0.4...komga-8.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [komga-7.0.4](https://github.com/truecharts/charts/compare/komga-7.0.3...komga-7.0.4) (2022-11-12)
 
 ### Chore

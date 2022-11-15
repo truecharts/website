@@ -2,6 +2,15 @@
 
 
 
+## [projectzomboidreporter-frontend-2.0.0](https://github.com/truecharts/charts/compare/projectzomboidreporter-frontend-1.0.4...projectzomboidreporter-frontend-2.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [projectzomboidreporter-frontend-1.0.4](https://github.com/truecharts/charts/compare/projectzomboidreporter-frontend-1.0.3...projectzomboidreporter-frontend-1.0.4) (2022-11-12)
 
 ### Chore

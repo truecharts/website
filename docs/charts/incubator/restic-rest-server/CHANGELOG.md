@@ -2,6 +2,15 @@
 
 
 
+## [restic-rest-server-2.0.0](https://github.com/truecharts/charts/compare/restic-rest-server-1.0.4...restic-rest-server-2.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [restic-rest-server-1.0.4](https://github.com/truecharts/charts/compare/restic-rest-server-1.0.3...restic-rest-server-1.0.4) (2022-11-12)
 
 ### Chore

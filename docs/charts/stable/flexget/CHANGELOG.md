@@ -2,6 +2,15 @@
 
 
 
+## [flexget-4.0.0](https://github.com/truecharts/charts/compare/flexget-3.0.5...flexget-4.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [flexget-3.0.5](https://github.com/truecharts/charts/compare/flexget-3.0.4...flexget-3.0.5) (2022-11-14)
 
 ### Chore

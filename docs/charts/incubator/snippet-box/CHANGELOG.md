@@ -2,6 +2,15 @@
 
 
 
+## [snippet-box-2.0.0](https://github.com/truecharts/charts/compare/snippet-box-1.0.4...snippet-box-2.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [snippet-box-1.0.4](https://github.com/truecharts/charts/compare/snippet-box-1.0.3...snippet-box-1.0.4) (2022-11-12)
 
 ### Chore

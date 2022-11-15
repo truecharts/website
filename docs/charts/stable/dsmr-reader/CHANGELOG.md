@@ -2,6 +2,15 @@
 
 
 
+## [dsmr-reader-11.0.0](https://github.com/truecharts/charts/compare/dsmr-reader-10.0.0...dsmr-reader-11.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [dsmr-reader-10.0.0](https://github.com/truecharts/charts/compare/dsmr-reader-9.0.3...dsmr-reader-10.0.0) (2022-11-12)
 
 ### Chore

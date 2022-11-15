@@ -2,6 +2,15 @@
 
 
 
+## [healthchecks-9.0.0](https://github.com/truecharts/charts/compare/healthchecks-8.0.4...healthchecks-9.0.0) (2022-11-14)
+
+### Chore
+
+- update helm general major (major) ([#4424](https://github.com/truecharts/charts/issues/4424))
+  
+  
+
+
 ## [healthchecks-8.0.4](https://github.com/truecharts/charts/compare/healthchecks-8.0.3...healthchecks-8.0.4) (2022-11-12)
 
 ### Chore
