@@ -2,6 +2,15 @@
 
 
 
+## [mariadb-5.0.1](https://github.com/truecharts/charts/compare/mariadb-5.0.0...mariadb-5.0.1) (2022-11-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/mariadb to 10.9.4
+  
+  
+
+
 ## [mariadb-5.0.0](https://github.com/truecharts/charts/compare/mariadb-4.0.6...mariadb-5.0.0) (2022-11-14)
 
 ### Chore
