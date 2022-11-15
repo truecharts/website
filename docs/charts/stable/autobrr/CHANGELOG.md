@@ -2,6 +2,15 @@
 
 
 
+## [autobrr-3.0.1](https://github.com/truecharts/charts/compare/autobrr-3.0.0...autobrr-3.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [autobrr-3.0.0](https://github.com/truecharts/charts/compare/autobrr-2.0.4...autobrr-3.0.0) (2022-11-14)
 
 ### Chore

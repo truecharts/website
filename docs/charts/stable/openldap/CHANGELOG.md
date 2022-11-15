@@ -2,6 +2,15 @@
 
 
 
+## [openldap-9.0.1](https://github.com/truecharts/charts/compare/openldap-9.0.0...openldap-9.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [openldap-9.0.0](https://github.com/truecharts/charts/compare/openldap-8.0.4...openldap-9.0.0) (2022-11-14)
 
 ### Chore

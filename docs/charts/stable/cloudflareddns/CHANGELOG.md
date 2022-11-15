@@ -2,6 +2,15 @@
 
 
 
+## [cloudflareddns-3.0.1](https://github.com/truecharts/charts/compare/cloudflareddns-3.0.0...cloudflareddns-3.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [cloudflareddns-3.0.0](https://github.com/truecharts/charts/compare/cloudflareddns-2.0.4...cloudflareddns-3.0.0) (2022-11-14)
 
 ### Chore

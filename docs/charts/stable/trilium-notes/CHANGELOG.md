@@ -2,6 +2,15 @@
 
 
 
+## [trilium-notes-7.0.1](https://github.com/truecharts/charts/compare/trilium-notes-7.0.0...trilium-notes-7.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [trilium-notes-7.0.0](https://github.com/truecharts/charts/compare/trilium-notes-6.0.4...trilium-notes-7.0.0) (2022-11-14)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [home-assistant-18.0.1](https://github.com/truecharts/charts/compare/home-assistant-18.0.0...home-assistant-18.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [home-assistant-18.0.0](https://github.com/truecharts/charts/compare/home-assistant-17.0.0...home-assistant-18.0.0) (2022-11-14)
 
 ### Chore

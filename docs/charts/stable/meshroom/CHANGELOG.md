@@ -2,6 +2,15 @@
 
 
 
+## [meshroom-4.0.1](https://github.com/truecharts/charts/compare/meshroom-4.0.0...meshroom-4.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [meshroom-4.0.0](https://github.com/truecharts/charts/compare/meshroom-3.0.4...meshroom-4.0.0) (2022-11-14)
 
 ### Chore
