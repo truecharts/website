@@ -29,6 +29,15 @@
   
 
 
+## [hassconfigurator-2.0.1](https://github.com/truecharts/charts/compare/hassconfigurator-2.0.0...hassconfigurator-2.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [hassconfigurator-2.0.0](https://github.com/truecharts/charts/compare/hassconfigurator-1.0.4...hassconfigurator-2.0.0) (2022-11-14)
 
 ### Chore

@@ -2,6 +2,16 @@
 
 
 
+## [babybuddy-11.0.2](https://github.com/truecharts/charts/compare/babybuddy-11.0.0...babybuddy-11.0.2) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4471](https://github.com/truecharts/charts/issues/4471))
+  - update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [babybuddy-11.0.1](https://github.com/truecharts/charts/compare/babybuddy-11.0.0...babybuddy-11.0.1) (2022-11-15)
 
 ### Chore

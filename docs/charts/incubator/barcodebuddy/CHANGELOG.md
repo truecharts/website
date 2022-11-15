@@ -29,6 +29,15 @@
   
 
 
+## [barcodebuddy-2.0.1](https://github.com/truecharts/charts/compare/barcodebuddy-2.0.0...barcodebuddy-2.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [barcodebuddy-2.0.0](https://github.com/truecharts/charts/compare/barcodebuddy-1.0.4...barcodebuddy-2.0.0) (2022-11-14)
 
 ### Chore

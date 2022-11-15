@@ -29,6 +29,15 @@
   
 
 
+## [qdirstat-3.0.1](https://github.com/truecharts/charts/compare/qdirstat-3.0.0...qdirstat-3.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [qdirstat-3.0.0](https://github.com/truecharts/charts/compare/qdirstat-2.0.4...qdirstat-3.0.0) (2022-11-14)
 
 ### Chore

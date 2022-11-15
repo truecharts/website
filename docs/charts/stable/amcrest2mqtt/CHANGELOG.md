@@ -29,6 +29,15 @@
   
 
 
+## [amcrest2mqtt-6.0.1](https://github.com/truecharts/charts/compare/amcrest2mqtt-6.0.0...amcrest2mqtt-6.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [amcrest2mqtt-6.0.0](https://github.com/truecharts/charts/compare/amcrest2mqtt-5.0.4...amcrest2mqtt-6.0.0) (2022-11-14)
 
 ### Chore
