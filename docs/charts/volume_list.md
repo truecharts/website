@@ -630,6 +630,8 @@ The intro needs improvement ;)
 |wireshark                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |wireshark                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |xbackbone                 |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
+|xen-orchestra             |xo-data               |PVC      |-              |/var/lib/xo-server                                   |Read/Write|Enabled                |
+|xen-orchestra             |redis-data            |PVC      |-              |/var/lib/redis                                       |Read/Write|Enabled                |
 |xteve                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |xwiki                     |config                |PVC      |-              |/usr/local/xwiki                                     |Read/Write|Enabled                |
 |youtubedl-material        |appdata               |PVC      |-              |/app/appdata                                         |Read/Write|Enabled                |
@@ -675,7 +677,6 @@ The intro needs improvement ;)
 |alienswarm                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |alienswarm-reactivedrop        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |alienswarm-reactivedrop        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|altitude                       |serverfiles                |PVC      |-                |/altitude                                        |Read/Write|Enabled                |
 |americasarmy-pg                |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |americasarmy-pg                |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |amtd                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -927,7 +928,6 @@ The intro needs improvement ;)
 |hassconfigurator               |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |hassconfigurator               |hass-config                |PVC      |-                |/hass-config                                     |Read/Write|Enabled                |
 |hastebin                       |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
-|healthchecksdashboard          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |hetzner-ddns                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |hexchat                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |hexo-blog                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1293,9 +1293,6 @@ The intro needs improvement ;)
 |webp-server                    |storagepics                |PVC      |-                |/opt/pics                                        |Read Only |Enabled                |
 |webtop                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|wordle                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|xen-orchestra                  |xo-data                    |PVC      |-                |/var/lib/xo-server                               |Read/Write|Enabled                |
-|xen-orchestra                  |redis-data                 |PVC      |-                |/var/lib/redis                                   |Read/Write|Enabled                |
 |xmrig                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |xware                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
