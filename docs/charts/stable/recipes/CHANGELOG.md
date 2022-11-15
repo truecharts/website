@@ -20,6 +20,15 @@
   
 
 
+## [recipes-11.0.1](https://github.com/truecharts/charts/compare/recipes-11.0.0...recipes-11.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [recipes-11.0.0](https://github.com/truecharts/charts/compare/recipes-10.0.0...recipes-11.0.0) (2022-11-14)
 
 ### Chore

@@ -20,6 +20,15 @@
   
 
 
+## [immich-4.0.1](https://github.com/truecharts/charts/compare/immich-4.0.0...immich-4.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [immich-4.0.0](https://github.com/truecharts/charts/compare/immich-3.0.1...immich-4.0.0) (2022-11-14)
 
 ### Chore

@@ -20,6 +20,15 @@
   
 
 
+## [shorturl-5.0.1](https://github.com/truecharts/charts/compare/shorturl-5.0.0...shorturl-5.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [shorturl-5.0.0](https://github.com/truecharts/charts/compare/shorturl-4.0.4...shorturl-5.0.0) (2022-11-14)
 
 ### Chore

@@ -20,6 +20,15 @@
   
 
 
+## [nano-wallet-4.0.1](https://github.com/truecharts/charts/compare/nano-wallet-4.0.0...nano-wallet-4.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [nano-wallet-4.0.0](https://github.com/truecharts/charts/compare/nano-wallet-3.0.4...nano-wallet-4.0.0) (2022-11-14)
 
 ### Chore

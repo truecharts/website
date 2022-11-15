@@ -20,6 +20,15 @@
   
 
 
+## [fireflyiii-19.0.1](https://github.com/truecharts/charts/compare/fireflyiii-19.0.0...fireflyiii-19.0.1) (2022-11-15)
+
+### Chore
+
+- update helm general non-major ([#4463](https://github.com/truecharts/charts/issues/4463))
+  
+  
+
+
 ## [fireflyiii-19.0.0](https://github.com/truecharts/charts/compare/fireflyiii-18.0.1...fireflyiii-19.0.0) (2022-11-14)
 
 ### Chore
