@@ -2,6 +2,15 @@
 
 
 
+## [website-shot-4.0.1](https://github.com/truecharts/charts/compare/website-shot-4.0.0...website-shot-4.0.1) (2022-11-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/website-shot to latest
+  
+  
+
+
 ## [website-shot-4.0.0](https://github.com/truecharts/charts/compare/website-shot-3.0.5...website-shot-4.0.0) (2022-11-14)
 
 ### Chore
