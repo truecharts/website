@@ -2,6 +2,11 @@
 
 
 
+## [nextcloud-19.0.5](https://github.com/truecharts/charts/compare/nextcloud-19.0.4...nextcloud-19.0.5) (2022-11-16)
+
+
+
+
 ## [nextcloud-19.0.4](https://github.com/truecharts/charts/compare/nextcloud-19.0.2...nextcloud-19.0.4) (2022-11-15)
 
 ### Chore
