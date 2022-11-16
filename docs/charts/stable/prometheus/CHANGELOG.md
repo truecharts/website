@@ -2,6 +2,11 @@
 
 
 
+## [prometheus-7.0.3](https://github.com/truecharts/charts/compare/prometheus-7.0.2...prometheus-7.0.3) (2022-11-16)
+
+
+
+
 ## [prometheus-7.0.2](https://github.com/truecharts/charts/compare/prometheus-7.0.1...prometheus-7.0.2) (2022-11-15)
 
 ### Chore
