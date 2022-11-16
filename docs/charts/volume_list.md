@@ -1327,7 +1327,8 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|blocky  |-       |-   |-       |-        |-   |Persistence not Defined|
-|metallb |-       |-   |-       |-        |-   |Persistence not Defined|
+|blocky    |-       |-   |-       |-        |-         |Persistence not Defined|
+|metallb   |-       |-   |-       |-        |-         |Persistence not Defined|
+|testwarden|data    |PVC |-       |/data    |Read/Write|Enabled                |
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
