@@ -2,6 +2,15 @@
 
 
 
+## [adguardhome-sync-2.0.2](https://github.com/truecharts/charts/compare/adguardhome-sync-2.0.1...adguardhome-sync-2.0.2) (2022-11-17)
+
+### Chore
+
+- update container image tccr.io/truecharts/adguardhome-sync to latest
+  
+  
+
+
 ## [adguardhome-sync-2.0.1](https://github.com/truecharts/charts/compare/adguardhome-sync-2.0.0...adguardhome-sync-2.0.1) (2022-11-15)
 
 ### Chore
