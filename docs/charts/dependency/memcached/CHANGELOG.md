@@ -2,6 +2,11 @@
 
 
 
+## [memcached-5.0.4](https://github.com/truecharts/charts/compare/memcached-5.0.3...memcached-5.0.4) (2022-11-18)
+
+
+
+
 ## [memcached-5.0.3](https://github.com/truecharts/charts/compare/memcached-5.0.2...memcached-5.0.3) (2022-11-15)
 
 ### Chore
