@@ -2,6 +2,11 @@
 
 
 
+## [ts-dnsserver-2.0.3](https://github.com/truecharts/charts/compare/ts-dnsserver-2.0.2...ts-dnsserver-2.0.3) (2022-11-18)
+
+
+
+
 ## [ts-dnsserver-2.0.2](https://github.com/truecharts/charts/compare/ts-dnsserver-2.0.1...ts-dnsserver-2.0.2) (2022-11-17)
 
 ### Chore
