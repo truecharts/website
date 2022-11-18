@@ -2,6 +2,11 @@
 
 
 
+## [custom-app-7.0.5](https://github.com/truecharts/charts/compare/custom-app-7.0.4...custom-app-7.0.5) (2022-11-18)
+
+
+
+
 ## [custom-app-7.0.4](https://github.com/truecharts/charts/compare/custom-app-7.0.3...custom-app-7.0.4) (2022-11-17)
 
 ### Chore

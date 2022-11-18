@@ -2,6 +2,11 @@
 
 
 
+## [redis-5.0.3](https://github.com/truecharts/charts/compare/tubearchivist-redisjson-2.0.2...redis-5.0.3) (2022-11-18)
+
+
+
+
 ## [redis-5.0.2](https://github.com/truecharts/charts/compare/redis-5.0.1...redis-5.0.2) (2022-11-15)
 
 ### Chore
