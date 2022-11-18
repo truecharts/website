@@ -2,6 +2,11 @@
 
 
 
+## [tachidesk-docker-2.0.3](https://github.com/truecharts/charts/compare/tachidesk-docker-2.0.2...tachidesk-docker-2.0.3) (2022-11-18)
+
+
+
+
 ## [tachidesk-docker-2.0.2](https://github.com/truecharts/charts/compare/tachidesk-docker-2.0.1...tachidesk-docker-2.0.2) (2022-11-17)
 
 ### Chore
