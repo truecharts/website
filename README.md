@@ -39,3 +39,9 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### Contributing
+
+> The docs in the website for [truecharts/charts](https://github.com/truecharts/charts) are built from the charts repo.
+> Please submit PR's for improvements to the docs at [truecharts/charts](https://github.com/truecharts/charts), as we cannot merge them here!
+> Thank you!
