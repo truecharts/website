@@ -611,6 +611,7 @@ The intro needs improvement ;)
 |verysync                  |sync                  |PVC      |-              |/Sync                                                |Read/Write|Enabled                |
 |vikunja                   |files                 |PVC      |-              |/app/vikunja/files                                   |Read/Write|Enabled                |
 |vikunja                   |vikunja-config        |custom   |-              |/etc/nginx/conf.d/default.conf                       |Read/Write|Enabled                |
+|watchyourlan              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |webgrabplus               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |webgrabplus               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |webgrabplus               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -737,6 +738,7 @@ The intro needs improvement ;)
 |bwapp                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |cadquery-jupyter               |workdir                    |PVC      |-                |/home/cq                                         |Read/Write|Enabled                |
 |cadquery-server                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|channels-dvr                   |config                     |PVC      |-                |/channels-dvr                                    |Read/Write|Enabled                |
 |cherry                         |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |chivalry-medievalwarfare       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |chivalry-medievalwarfare       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -1287,7 +1289,6 @@ The intro needs improvement ;)
 |vorta                          |backupsfrom                |PVC      |-                |/data/bkp_from                                   |Read Only |Enabled                |
 |vorta                          |backupsto                  |PVC      |-                |/data/bkp_to                                     |Read/Write|Enabled                |
 |vorta                          |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|watchyourlan                   |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |wbo                            |data                       |PVC      |-                |/opt/app/server-data                             |Read/Write|Enabled                |
 |webp-server                    |storagecache               |PVC      |-                |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC      |-                |/opt/pics                                        |Read Only |Enabled                |
