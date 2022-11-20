@@ -550,6 +550,7 @@ The intro needs improvement ;)
 |synapse                   |uploads               |PVC      |-              |/uploads                                             |Read/Write|Enabled                |
 |synclounge                |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |syncthing                 |config                |PVC      |-              |/var/syncthing                                       |Read/Write|Enabled                |
+|synctube                  |storageconfig         |PVC      |-              |/usr/src/app/user                                    |Read/Write|Enabled                |
 |syslog-ng                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |syslog-ng                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |tailscale                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -619,6 +620,7 @@ The intro needs improvement ;)
 |weblate                   |cache                 |emptyDir |-              |/app/cache                                           |Read/Write|Enabled                |
 |webnut                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |website-shot              |screenshots           |PVC      |-              |/usr/src/website-shot/screenshots                    |Read/Write|Enabled                |
+|webtop                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wekan                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |wg-easy                   |config                |PVC      |-              |/etc/wireguard                                       |Read/Write|Enabled                |
 |wger                      |media                 |PVC      |-              |/home/wger/media                                     |Read/Write|Enabled                |
@@ -660,7 +662,6 @@ The intro needs improvement ;)
 |memcached       |-           |-       |-            |-            |-         |Persistence not Defined|
 |mongodb         |-           |-       |-            |-            |-         |Persistence not Defined|
 |postgresql      |-           |-       |-            |-            |-         |Persistence not Defined|
-|promtail        |containers  |hostPath|/mnt         |/mnt         |Read Only |Enabled                |
 |promtail        |pods        |hostPath|/var/log/pods|/var/log/pods|Read Only |Enabled                |
 |promtail        |run         |hostPath|/run/promtail|/run/promtail|Read/Write|Enabled                |
 |promtail        |config      |secret  |-            |/etc/promtail|Read/Write|Enabled                |
@@ -1233,7 +1234,6 @@ The intro needs improvement ;)
 |suistartpage                   |appdata                    |PVC      |-                |/usr/share/nginx/html                            |Read/Write|Enabled                |
 |survivethenights               |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |survivethenights               |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|synctube                       |storageconfig              |PVC      |-                |/usr/src/app/user                                |Read/Write|Enabled                |
 |tachidesk-docker               |appdata                    |PVC      |-                |/home/suwayomi/.local/share/Tachidesk            |Read/Write|Enabled                |
 |tachidesk-docker               |library                    |PVC      |-                |/home/suwayomi/.local/share/Tachidesk/downloads  |Read/Write|Enabled                |
 |tachidesk-docker               |local-library              |PVC      |-                |/home/suwayomi/.local/share/Tachidesk/local      |Read/Write|Enabled                |
@@ -1292,7 +1292,6 @@ The intro needs improvement ;)
 |wbo                            |data                       |PVC      |-                |/opt/app/server-data                             |Read/Write|Enabled                |
 |webp-server                    |storagecache               |PVC      |-                |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC      |-                |/opt/pics                                        |Read Only |Enabled                |
-|webtop                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |xmrig                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1302,7 +1301,7 @@ The intro needs improvement ;)
 |yacy                           |appdata                    |PVC      |-                |/opt/yacy_search_server/DATA                     |Read/Write|Enabled                |
 |yourls                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |youtransfer                    |config                     |PVC      |-                |/opt/youtransfer/config                          |Read/Write|Enabled                |
-|youtransfer                    |hostpath3                  |PVC      |-                |/opt/youtransfer/uploads                         |Read/Write|Enabled                |
+|youtransfer                    |uploads                    |hostPath |-                |/opt/youtransfer/uploads                         |Read/Write|Enabled                |
 |z80pack                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zabbix                         |serveralertscripts         |PVC      |-                |/usr/lib/zabbix/alertscripts                     |Read/Write|Enabled                |
 |zabbix                         |serverexternalscripts      |PVC      |-                |/usr/lib/zabbix/externalscripts                  |Read/Write|Enabled                |
