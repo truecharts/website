@@ -38,21 +38,15 @@ TrueTool, a command-line utility, can list the internal DNS names of your apps u
 
 Follow the installation instructions on the github repo: https://github.com/truecharts/truetool
 
-## Internal Domain Name generator
-
 ### Example
 
-To reach an app named "my-sabnzbd-app" or "sabnzbd' (name contains the catalog app name) within Sonarr, we can use the following internal domain name:
+To reach an app named "sabnzbd" (name contains the catalog app name) within Sonarr, we can use the following internal domain name:
 
-- `sabnzbd.ix-sabnzbd.svc.cluster.local` or
-- `sabnzbd.ix-sabnzbd`
+- `sabnzbd.ix-sabnzbd.svc.cluster.local`
 
 To reach an app named "sab" (name does NOT contain catalog app name) within Sonarr, we can use the following internal domain name:
 
-- `sab-sabnzbd.ix-sab.svc.cluster.local` or
-- `sab-sabnzbd.ix-sab`
-
-![linking-example-sonarrsabnzbd](/img/linking/linking-example-sonarrsabnzbd.png)
+- `sab-sabnzbd.ix-sab.svc.cluster.local`
 
 ### Video Guide
 
@@ -66,9 +60,8 @@ To reach an app named "sab" (name does NOT contain catalog app name) within Sona
   allowFullScreen
 ></iframe>
 
-### Additional Documentation
+## Internal Domain Name generator
 
-For more help troubleshooting DNS resolution in Kubernetes, review the official documentation: https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
 <!-- Start - Link Generator Leave empty line after-->
 
 import { useState, useEffect } from "react";
