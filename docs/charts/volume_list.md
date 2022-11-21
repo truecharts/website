@@ -23,6 +23,9 @@ The intro needs improvement ;)
 |airsonic-advanced         |playlists             |PVC      |-              |/playlists                                           |Read/Write|Enabled                |
 |alist                     |data                  |PVC      |-              |/opt/alist/data                                      |Read/Write|Enabled                |
 |amcrest2mqtt              |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|amule                     |complete              |PVC      |-              |/incoming                                            |Read/Write|Enabled                |
+|amule                     |config                |PVC      |-              |/home/amule/.aMule                                   |Read/Write|Enabled                |
+|amule                     |incomplete            |PVC      |-              |/temp                                                |Read/Write|Enabled                |
 |anonaddy                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |anonaddy                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |apache-musicindex         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -83,6 +86,11 @@ The intro needs improvement ;)
 |commento-plusplus         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |couchpotato               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |couchpotato               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|crafty-4                  |config                |PVC      |-              |/crafty/app/config                                   |Read/Write|Enabled                |
+|crafty-4                  |servers               |PVC      |-              |/crafty/servers                                      |Read/Write|Enabled                |
+|crafty-4                  |logs                  |PVC      |-              |/crafty/logs                                         |Read/Write|Enabled                |
+|crafty-4                  |import                |PVC      |-              |/crafty/import                                       |Read/Write|Enabled                |
+|crafty-4                  |backups               |PVC      |-              |/crafty/backups                                      |Read/Write|Enabled                |
 |cryptofolio               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |cura-novnc                |homefolder            |PVC      |-              |/home/cura/                                          |Read/Write|Enabled                |
 |cura-novnc                |prints                |PVC      |-              |/prints/                                             |Read/Write|Enabled                |
@@ -254,6 +262,8 @@ The intro needs improvement ;)
 |k8s-gateway               |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |kanboard                  |data                  |PVC      |-              |/var/www/app/data                                    |Read/Write|Enabled                |
 |kanboard                  |ssl                   |PVC      |-              |/etc/nginx/ssl                                       |Read/Write|Enabled                |
+|kasm                      |data                  |PVC      |-              |/opt                                                 |Read/Write|Enabled                |
+|kasm                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |kavita                    |config                |PVC      |-              |/kavita/config                                       |Read/Write|Enabled                |
 |kavita                    |manga                 |PVC      |-              |/manga                                               |Read/Write|Enabled                |
 |kimai                     |data                  |PVC      |-              |/opt/kimai/var/data                                  |Read/Write|Enabled                |
@@ -637,6 +647,8 @@ The intro needs improvement ;)
 |xen-orchestra             |redis-data            |PVC      |-              |/var/lib/redis                                       |Read/Write|Enabled                |
 |xteve                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |xwiki                     |config                |PVC      |-              |/usr/local/xwiki                                     |Read/Write|Enabled                |
+|youtransfer               |config                |PVC      |-              |/opt/youtransfer/config                              |Read/Write|Enabled                |
+|youtransfer               |hostpath3             |PVC      |-              |/opt/youtransfer/uploads                             |Read/Write|Enabled                |
 |youtubedl-material        |appdata               |PVC      |-              |/app/appdata                                         |Read/Write|Enabled                |
 |youtubedl-material        |users                 |PVC      |-              |/app/users                                           |Read/Write|Enabled                |
 |youtubedl-material        |subscriptions         |PVC      |-              |/app/subscriptions                                   |Read/Write|Enabled                |
@@ -682,9 +694,6 @@ The intro needs improvement ;)
 |americasarmy-pg                |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |americasarmy-pg                |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |amtd                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|amule                          |storagecomplete            |PVC      |-                |/incoming                                        |Read/Write|Enabled                |
-|amule                          |storageconfig              |PVC      |-                |/home/amule/.aMule                               |Read/Write|Enabled                |
-|amule                          |storageincomplete          |PVC      |-                |/temp                                            |Read/Write|Enabled                |
 |amvd                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |amvd                           |hostpathfordownloads-amvd  |PVC      |-                |/downloads-amvd                                  |Read/Write|Enabled                |
 |android-8-0                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
@@ -775,11 +784,6 @@ The intro needs improvement ;)
 |cowyo                          |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |craftopia                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |craftopia                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|crafty-4                       |config                     |PVC      |-                |/crafty/app/config                               |Read/Write|Enabled                |
-|crafty-4                       |serverfiles                |PVC      |-                |/crafty/servers                                  |Read/Write|Enabled                |
-|crafty-4                       |serverlogs                 |PVC      |-                |/crafty/logs                                     |Read/Write|Enabled                |
-|crafty-4                       |import                     |PVC      |-                |/crafty/import                                   |Read/Write|Enabled                |
-|crafty-4                       |backup                     |PVC      |-                |/crafty/backups                                  |Read/Write|Enabled                |
 |crypto-exchanges-gateway       |configpath                 |PVC      |-                |/root/crypto-exchanges-gateway/custom_config     |Read/Write|Enabled                |
 |cryptpad                       |blobpath                   |PVC      |-                |/cryptpad/blob                                   |Read/Write|Enabled                |
 |cryptpad                       |blockpath                  |PVC      |-                |/cryptpad/block                                  |Read/Write|Enabled                |
@@ -967,8 +971,6 @@ The intro needs improvement ;)
 |jump                           |search                     |PVC      |-                |/search                                          |Read/Write|Enabled                |
 |jump                           |sites                      |PVC      |-                |/sites                                           |Read/Write|Enabled                |
 |jupyter                        |data                       |PVC      |-                |/home/jovyan/work                                |Read/Write|Enabled                |
-|kasm                           |data                       |PVC      |-                |/opt                                             |Read/Write|Enabled                |
-|kasm                           |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |kavitaemail                    |config                     |PVC      |-                |-                                                |Read/Write|Persistence is Disabled|
 |kdenlive                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |kdenlive-vnc                   |content                    |PVC      |-                |/sharedContent                                   |Read/Write|Enabled                |
@@ -1300,8 +1302,6 @@ The intro needs improvement ;)
 |yacreaderlibraryserver         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |yacy                           |appdata                    |PVC      |-                |/opt/yacy_search_server/DATA                     |Read/Write|Enabled                |
 |yourls                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|youtransfer                    |config                     |PVC      |-                |/opt/youtransfer/config                          |Read/Write|Enabled                |
-|youtransfer                    |uploads                    |hostPath |-                |/opt/youtransfer/uploads                         |Read/Write|Enabled                |
 |z80pack                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zabbix                         |serveralertscripts         |PVC      |-                |/usr/lib/zabbix/alertscripts                     |Read/Write|Enabled                |
 |zabbix                         |serverexternalscripts      |PVC      |-                |/usr/lib/zabbix/externalscripts                  |Read/Write|Enabled                |
