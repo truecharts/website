@@ -2,6 +2,15 @@
 
 
 
+## [fireflyiii-19.0.4](https://github.com/truecharts/charts/compare/fireflyiii-19.0.3...fireflyiii-19.0.4) (2022-11-21)
+
+### Fix
+
+- revert postgres major upgrade and fix some apps with more than 1 ingresses ([#4676](https://github.com/truecharts/charts/issues/4676))
+  
+  
+
+
 ## [fireflyiii-19.0.3](https://github.com/truecharts/charts/compare/fireflyiii-data-importer-2.0.1...fireflyiii-19.0.3) (2022-11-21)
 
 ### Chore
