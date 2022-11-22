@@ -989,7 +989,6 @@ The intro needs improvement ;)
 |lenpaste                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |lingva                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |linkwallet                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|liquid-dl                      |downloaddirectory          |PVC      |-                |/downloads                                       |Read/Write|Enabled                |
 |livebook                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |livestreamdvr                  |config                     |PVC      |-                |/usr/local/share/twitchautomator/data/config     |Read/Write|Enabled                |
 |livestreamdvr                  |hostpath1                  |PVC      |-                |/usr/local/share/twitchautomator/data/storage    |Read/Write|Enabled                |
@@ -1001,7 +1000,6 @@ The intro needs improvement ;)
 |longvinter                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |magicmirror2                   |config                     |PVC      |-                |/magicmirror2                                    |Read/Write|Enabled                |
 |magicmirror2                   |configfile                 |custom   |-                |/magicmirror2/config/config.js                   |Read/Write|Enabled                |
-|magnetico-environment          |databaselocation           |PVC      |-                |/root/.local/share/magneticod                    |Read/Write|Enabled                |
 |mailpile                       |path1                      |PVC      |-                |/root/.local/share/Mailpile                      |Read/Write|Enabled                |
 |mailpile                       |path2                      |PVC      |-                |/root/.gnupg                                     |Read/Write|Enabled                |
 |maloja                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1020,7 +1018,6 @@ The intro needs improvement ;)
 |midarr                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |mindustry                      |serverfiles                |PVC      |-                |/mindustry                                       |Read/Write|Enabled                |
 |mineos                         |config                     |PVC      |-                |/var/games/minecraft                             |Read/Write|Enabled                |
-|minimal-ics-hoster             |data                       |PVC      |-                |/app/data/                                       |Read/Write|Enabled                |
 |mininote                       |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |misskey                        |misskeyconfig              |configMap|-                |/misskey/.config                                 |Read/Write|Enabled                |
 |misskey                        |files                      |PVC      |-                |/misskey/files                                   |Read/Write|Enabled                |
