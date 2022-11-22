@@ -2,6 +2,11 @@
 
 
 
+## [icloudpd-2.0.2](https://github.com/truecharts/charts/compare/icloudpd-2.0.1...icloudpd-2.0.2) (2022-11-22)
+
+
+
+
 ## [icloudpd-2.0.1](https://github.com/truecharts/charts/compare/icloudpd-2.0.0...icloudpd-2.0.1) (2022-11-15)
 
 ### Chore
