@@ -2,6 +2,15 @@
 
 
 
+## [docspell-3.0.6](https://github.com/truecharts/charts/compare/docspell-3.0.5...docspell-3.0.6) (2022-11-22)
+
+### Chore
+
+- bump all apps using pgsql, to use the reverted pgsql ([#4740](https://github.com/truecharts/charts/issues/4740))
+  
+  
+
+
 ## [docspell-3.0.5](https://github.com/truecharts/charts/compare/docspell-3.0.4...docspell-3.0.5) (2022-11-21)
 
 ### Fix

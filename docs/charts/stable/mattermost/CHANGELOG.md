@@ -2,6 +2,15 @@
 
 
 
+## [mattermost-6.0.5](https://github.com/truecharts/charts/compare/mattermost-6.0.4...mattermost-6.0.5) (2022-11-22)
+
+### Chore
+
+- bump all apps using pgsql, to use the reverted pgsql ([#4740](https://github.com/truecharts/charts/issues/4740))
+  
+  
+
+
 ## [mattermost-6.0.4](https://github.com/truecharts/charts/compare/mattermost-6.0.3...mattermost-6.0.4) (2022-11-21)
 
 ### Fix
