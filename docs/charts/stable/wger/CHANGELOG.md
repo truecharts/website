@@ -2,6 +2,11 @@
 
 
 
+## [wger-4.0.7](https://github.com/truecharts/charts/compare/wger-4.0.6...wger-4.0.7) (2022-11-22)
+
+
+
+
 ## [wger-4.0.6](https://github.com/truecharts/charts/compare/wger-4.0.5...wger-4.0.6) (2022-11-21)
 
 ### Fix
