@@ -2,6 +2,11 @@
 
 
 
+## [duplicacy-2.0.2](https://github.com/truecharts/charts/compare/duplicacy-2.0.1...duplicacy-2.0.2) (2022-11-22)
+
+
+
+
 ## [duplicacy-2.0.1](https://github.com/truecharts/charts/compare/duplicacy-2.0.0...duplicacy-2.0.1) (2022-11-15)
 
 ### Chore
