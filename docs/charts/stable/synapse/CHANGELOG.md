@@ -2,6 +2,11 @@
 
 
 
+## [synapse-7.0.5](https://github.com/truecharts/charts/compare/synapse-7.0.4...synapse-7.0.5) (2022-11-22)
+
+
+
+
 ## [synapse-7.0.4](https://github.com/truecharts/charts/compare/synapse-7.0.3...synapse-7.0.4) (2022-11-21)
 
 ### Fix
