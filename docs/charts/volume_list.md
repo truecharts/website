@@ -830,8 +830,8 @@ The intro needs improvement ;)
 |dropbox-by-otherguy            |dropboxsettings            |PVC      |-                |/opt/dropbox/.dropbox                            |Read/Write|Enabled                |
 |dropbox-by-otherguy            |dropboxuserfiles           |PVC      |-                |/opt/dropbox/Dropbox                             |Read/Write|Enabled                |
 |duplicacy                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|duplicacy                      |hostpathforcache           |PVC      |-                |/cache                                           |Read/Write|Enabled                |
-|duplicacy                      |hostpathforlogs            |PVC      |-                |/logs                                            |Read/Write|Enabled                |
+|duplicacy                      |cache                      |PVC      |-                |/cache                                           |Read/Write|Enabled                |
+|duplicacy                      |logs                       |PVC      |-                |/logs                                            |Read/Write|Enabled                |
 |dvblink                        |dvblink                    |PVC      |-                |/opt/DVBLink                                     |Read/Write|Enabled                |
 |eco                            |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |eco                            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -900,8 +900,6 @@ The intro needs improvement ;)
 |fsm                            |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |funkwhale                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |funkwhale                      |musicpath                  |PVC      |-                |/music                                           |Read Only |Enabled                |
-|funkwhale-all-in-one           |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|funkwhale-all-in-one           |musicpath                  |PVC      |-                |/music                                           |Read Only |Enabled                |
 |garrysmod                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |garrysmod                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |genea                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
