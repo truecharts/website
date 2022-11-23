@@ -2,6 +2,15 @@
 
 
 
+## [tt-rss-10.0.6](https://github.com/truecharts/charts/compare/tt-rss-10.0.5...tt-rss-10.0.6) (2022-11-23)
+
+### Chore
+
+- update helm general non-major ([#4745](https://github.com/truecharts/charts/issues/4745))
+  
+  
+
+
 ## [tt-rss-10.0.5](https://github.com/truecharts/charts/compare/tt-rss-10.0.4...tt-rss-10.0.5) (2022-11-22)
 
 ### Chore
