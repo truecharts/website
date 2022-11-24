@@ -2,6 +2,11 @@
 
 
 
+## [restreamer-2.0.4](https://github.com/truecharts/charts/compare/restreamer-2.0.3...restreamer-2.0.4) (2022-11-24)
+
+
+
+
 ## [restreamer-2.0.3](https://github.com/truecharts/charts/compare/restreamer-2.0.2...restreamer-2.0.3) (2022-11-21)
 
 ### Fix
