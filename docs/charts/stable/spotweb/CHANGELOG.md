@@ -2,6 +2,11 @@
 
 
 
+## [spotweb-7.0.8](https://github.com/truecharts/charts/compare/spotweb-7.0.6...spotweb-7.0.8) (2022-11-24)
+
+
+
+
 ## [spotweb-7.0.6](https://github.com/truecharts/charts/compare/spotweb-7.0.5...spotweb-7.0.6) (2022-11-23)
 
 ### Chore
