@@ -2,6 +2,11 @@
 
 
 
+## [dokuwiki-5.0.4](https://github.com/truecharts/charts/compare/dokuwiki-5.0.3...dokuwiki-5.0.4) (2022-11-26)
+
+
+
+
 ## [dokuwiki-5.0.3](https://github.com/truecharts/charts/compare/dokuwiki-5.0.2...dokuwiki-5.0.3) (2022-11-20)
 
 

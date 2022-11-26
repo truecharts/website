@@ -2,6 +2,11 @@
 
 
 
+## [passwordpusherephemeral-2.0.5](https://github.com/truecharts/charts/compare/passwordpusherephemeral-2.0.4...passwordpusherephemeral-2.0.5) (2022-11-26)
+
+
+
+
 ## [passwordpusherephemeral-2.0.4](https://github.com/truecharts/charts/compare/passwordpusherephemeral-2.0.3...passwordpusherephemeral-2.0.4) (2022-11-21)
 
 ### Chore
