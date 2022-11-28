@@ -2,6 +2,15 @@
 
 
 
+## [chromium-2.0.2](https://github.com/truecharts/charts/compare/chromium-2.0.1...chromium-2.0.2) (2022-11-28)
+
+### Chore
+
+- update container image tccr.io/truecharts/chromium to latest
+  
+  
+
+
 ## [chromium-2.0.1](https://github.com/truecharts/charts/compare/ungoogled-chromium-2.0.0...chromium-2.0.1) (2022-11-15)
 
 ### Chore
