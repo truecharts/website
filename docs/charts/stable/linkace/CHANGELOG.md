@@ -57,6 +57,11 @@
 
 
 
+## [linkace-7.0.6](https://github.com/truecharts/charts/compare/linkace-7.0.5...linkace-7.0.6) (2022-11-29)
+
+
+
+
 ## [linkace-7.0.5](https://github.com/truecharts/charts/compare/linkace-7.0.4...linkace-7.0.5) (2022-11-23)
 
 ### Chore
