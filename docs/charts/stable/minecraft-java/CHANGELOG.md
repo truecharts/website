@@ -187,6 +187,16 @@
 ### Chore
 
 - update container image tccr.io/truecharts/minecraft-java8-openj9 to latest
+  - update container image tccr.io/truecharts/minecraft-java11 to latest
+  
+  
+
+
+## [minecraft-java-3.0.4](https://github.com/truecharts/charts/compare/minecraft-java-3.0.3...minecraft-java-3.0.4) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/minecraft-java8-openj9 to latest
   
   
 

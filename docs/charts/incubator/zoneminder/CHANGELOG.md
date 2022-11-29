@@ -52,6 +52,11 @@
 
 
 
+## [zoneminder-2.0.4](https://github.com/truecharts/charts/compare/zoneminder-2.0.3...zoneminder-2.0.4) (2022-11-29)
+
+
+
+
 ## [zoneminder-2.0.3](https://github.com/truecharts/charts/compare/zoneminder-2.0.2...zoneminder-2.0.3) (2022-11-28)
 
 ### Chore

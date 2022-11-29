@@ -62,6 +62,11 @@
 
 
 
+## [hedgedoc-7.0.8](https://github.com/truecharts/charts/compare/hedgedoc-7.0.7...hedgedoc-7.0.8) (2022-11-29)
+
+
+
+
 ## [hedgedoc-7.0.7](https://github.com/truecharts/charts/compare/hedgedoc-7.0.6...hedgedoc-7.0.7) (2022-11-23)
 
 ### Chore
