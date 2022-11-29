@@ -37,6 +37,11 @@
 
 
 
+## [awesome-ttrss-3.0.7](https://github.com/truecharts/charts/compare/awesome-ttrss-3.0.6...awesome-ttrss-3.0.7) (2022-11-29)
+
+
+
+
 ## [awesome-ttrss-3.0.6](https://github.com/truecharts/charts/compare/awesome-ttrss-3.0.5...awesome-ttrss-3.0.6) (2022-11-23)
 
 ### Chore
