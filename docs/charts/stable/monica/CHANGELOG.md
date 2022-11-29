@@ -22,6 +22,11 @@
 
 
 
+## [monica-6.0.6](https://github.com/truecharts/charts/compare/monica-6.0.5...monica-6.0.6) (2022-11-29)
+
+
+
+
 ## [monica-6.0.5](https://github.com/truecharts/charts/compare/monica-6.0.4...monica-6.0.5) (2022-11-23)
 
 ### Chore

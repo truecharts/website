@@ -22,6 +22,11 @@
 
 
 
+## [projectsend-6.0.5](https://github.com/truecharts/charts/compare/projectsend-6.0.4...projectsend-6.0.5) (2022-11-29)
+
+
+
+
 ## [projectsend-6.0.4](https://github.com/truecharts/charts/compare/projectsend-6.0.3...projectsend-6.0.4) (2022-11-23)
 
 ### Chore

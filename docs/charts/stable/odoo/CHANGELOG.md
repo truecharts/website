@@ -22,6 +22,11 @@
 
 
 
+## [odoo-11.0.7](https://github.com/truecharts/charts/compare/odoo-11.0.6...odoo-11.0.7) (2022-11-29)
+
+
+
+
 ## [odoo-11.0.6](https://github.com/truecharts/charts/compare/odoo-11.0.5...odoo-11.0.6) (2022-11-23)
 
 ### Chore
