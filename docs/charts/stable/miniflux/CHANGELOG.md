@@ -67,6 +67,11 @@
 
 
 
+## [miniflux-10.0.7](https://github.com/truecharts/charts/compare/miniflux-10.0.6...miniflux-10.0.7) (2022-11-29)
+
+
+
+
 ## [miniflux-10.0.6](https://github.com/truecharts/charts/compare/miniflux-10.0.5...miniflux-10.0.6) (2022-11-23)
 
 ### Chore
