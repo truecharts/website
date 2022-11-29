@@ -97,6 +97,11 @@
 
 
 
+## [kimai-6.0.5](https://github.com/truecharts/charts/compare/kimai-6.0.4...kimai-6.0.5) (2022-11-29)
+
+
+
+
 ## [kimai-6.0.4](https://github.com/truecharts/charts/compare/kimai-6.0.3...kimai-6.0.4) (2022-11-23)
 
 ### Chore
