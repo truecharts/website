@@ -107,6 +107,11 @@
 
 
 
+## [damselfly-2.0.2](https://github.com/truecharts/charts/compare/damselfly-2.0.1...damselfly-2.0.2) (2022-11-29)
+
+
+
+
 ## [damselfly-2.0.1](https://github.com/truecharts/charts/compare/damselfly-2.0.0...damselfly-2.0.1) (2022-11-15)
 
 ### Chore

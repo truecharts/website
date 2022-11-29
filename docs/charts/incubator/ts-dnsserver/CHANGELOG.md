@@ -254,6 +254,15 @@
   
 
 
+## [ts-dnsserver-2.0.5](https://github.com/truecharts/charts/compare/ts-dnsserver-2.0.4...ts-dnsserver-2.0.5) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/ts-dnsserver to latest
+  
+  
+
+
 ## [ts-dnsserver-2.0.4](https://github.com/truecharts/charts/compare/ts-dnsserver-2.0.3...ts-dnsserver-2.0.4) (2022-11-26)
 
 
