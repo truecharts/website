@@ -12,6 +12,11 @@
 
 
 
+## [onlyoffice-document-server-9.0.7](https://github.com/truecharts/charts/compare/onlyoffice-document-server-9.0.6...onlyoffice-document-server-9.0.7) (2022-11-29)
+
+
+
+
 ## [onlyoffice-document-server-9.0.6](https://github.com/truecharts/charts/compare/onlyoffice-document-server-9.0.5...onlyoffice-document-server-9.0.6) (2022-11-23)
 
 ### Chore

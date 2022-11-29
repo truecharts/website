@@ -12,6 +12,11 @@
 
 
 
+## [shlink-7.0.7](https://github.com/truecharts/charts/compare/shlink-7.0.6...shlink-7.0.7) (2022-11-29)
+
+
+
+
 ## [shlink-7.0.6](https://github.com/truecharts/charts/compare/shlink-7.0.5...shlink-7.0.6) (2022-11-23)
 
 ### Chore
