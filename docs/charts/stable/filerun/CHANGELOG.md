@@ -17,6 +17,11 @@
 
 
 
+## [filerun-6.0.5](https://github.com/truecharts/charts/compare/filerun-6.0.4...filerun-6.0.5) (2022-11-29)
+
+
+
+
 ## [filerun-6.0.4](https://github.com/truecharts/charts/compare/filerun-6.0.3...filerun-6.0.4) (2022-11-23)
 
 ### Chore

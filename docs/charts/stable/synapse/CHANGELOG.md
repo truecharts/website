@@ -17,6 +17,11 @@
 
 
 
+## [synapse-7.0.7](https://github.com/truecharts/charts/compare/synapse-7.0.6...synapse-7.0.7) (2022-11-29)
+
+
+
+
 ## [synapse-7.0.6](https://github.com/truecharts/charts/compare/synapse-7.0.5...synapse-7.0.6) (2022-11-23)
 
 ### Chore

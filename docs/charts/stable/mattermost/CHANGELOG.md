@@ -17,6 +17,11 @@
 
 
 
+## [mattermost-6.0.7](https://github.com/truecharts/charts/compare/mattermost-6.0.6...mattermost-6.0.7) (2022-11-29)
+
+
+
+
 ## [mattermost-6.0.6](https://github.com/truecharts/charts/compare/mattermost-6.0.5...mattermost-6.0.6) (2022-11-23)
 
 ### Chore
