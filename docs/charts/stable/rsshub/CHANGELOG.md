@@ -11,6 +11,15 @@
   
 
 
+## [rsshub-6.0.8](https://github.com/truecharts/charts/compare/rsshub-6.0.7...rsshub-6.0.8) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/rsshub to latest
+  
+  
+
+
 ## [rsshub-6.0.7](https://github.com/truecharts/charts/compare/rsshub-6.0.6...rsshub-6.0.7) (2022-11-26)
 
 
