@@ -817,6 +817,7 @@ The intro needs improvement ;)
 |debian-apt-mirror              |config                     |PVC      |-                |/debian-mirror/config                            |Read/Write|Enabled                |
 |debian-apt-mirror              |data                       |PVC      |-                |/debian-mirror/data                              |Read/Write|Enabled                |
 |debian-bullseye                |homedirectory              |PVC      |-                |/debian                                          |Read/Write|Enabled                |
+|discordgsm                     |config                     |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |dispatch                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |dns-doh-companion              |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |docker-hub-rss                 |-                          |-        |-                |-                                                |-         |Persistence not Defined|
@@ -997,7 +998,7 @@ The intro needs improvement ;)
 |longvinter                     |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |longvinter                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |magicmirror2                   |config                     |PVC      |-                |/magicmirror2                                    |Read/Write|Enabled                |
-|magicmirror2                   |configfile                 |custom   |-                |/magicmirror2/config/config.js                   |Read/Write|Enabled                |
+|magicmirror2                   |configfile                 |configMap|-                |/tmp/config.js                                   |Read/Write|Enabled                |
 |mailpile                       |path1                      |PVC      |-                |/root/.local/share/Mailpile                      |Read/Write|Enabled                |
 |mailpile                       |path2                      |PVC      |-                |/root/.gnupg                                     |Read/Write|Enabled                |
 |maloja                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
