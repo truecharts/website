@@ -173,6 +173,15 @@
   
 
 
+## [passwordpusherephemeral-2.0.6](https://github.com/truecharts/charts/compare/passwordpusherephemeral-2.0.5...passwordpusherephemeral-2.0.6) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/passwordpusherephemeral to latest
+  
+  
+
+
 ## [passwordpusherephemeral-2.0.5](https://github.com/truecharts/charts/compare/passwordpusherephemeral-2.0.4...passwordpusherephemeral-2.0.5) (2022-11-26)
 
 

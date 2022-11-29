@@ -47,6 +47,11 @@
 
 
 
+## [docker-compose-5.0.3](https://github.com/truecharts/charts/compare/docker-compose-5.0.2...docker-compose-5.0.3) (2022-11-29)
+
+
+
+
 ## [docker-compose-5.0.2](https://github.com/truecharts/charts/compare/docker-compose-5.0.1...docker-compose-5.0.2) (2022-11-17)
 
 ### Chore
