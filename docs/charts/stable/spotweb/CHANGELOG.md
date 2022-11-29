@@ -77,6 +77,11 @@
 
 
 
+## [spotweb-7.0.10](https://github.com/truecharts/charts/compare/spotweb-7.0.9...spotweb-7.0.10) (2022-11-29)
+
+
+
+
 ## [spotweb-7.0.9](https://github.com/truecharts/charts/compare/spotweb-7.0.8...spotweb-7.0.9) (2022-11-24)
 
 

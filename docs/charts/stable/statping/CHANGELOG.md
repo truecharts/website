@@ -77,6 +77,11 @@
 
 
 
+## [statping-10.0.7](https://github.com/truecharts/charts/compare/statping-10.0.6...statping-10.0.7) (2022-11-29)
+
+
+
+
 ## [statping-10.0.6](https://github.com/truecharts/charts/compare/statping-10.0.5...statping-10.0.6) (2022-11-23)
 
 ### Chore

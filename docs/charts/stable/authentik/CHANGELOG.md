@@ -137,6 +137,15 @@
   
 
 
+## [authentik-10.0.11](https://github.com/truecharts/charts/compare/authentik-10.0.10...authentik-10.0.11) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/authentik-ldap to v2022.11.1
+  
+  
+
+
 ## [authentik-10.0.10](https://github.com/truecharts/charts/compare/authentik-10.0.9...authentik-10.0.10) (2022-11-23)
 
 ### Chore
