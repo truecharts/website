@@ -82,6 +82,11 @@
 
 
 
+## [xwiki-6.0.8](https://github.com/truecharts/charts/compare/xwiki-6.0.7...xwiki-6.0.8) (2022-11-29)
+
+
+
+
 ## [xwiki-6.0.7](https://github.com/truecharts/charts/compare/xwiki-6.0.6...xwiki-6.0.7) (2022-11-23)
 
 ### Chore

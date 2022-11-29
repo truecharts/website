@@ -245,6 +245,15 @@
   
 
 
+## [owncast-8.0.2](https://github.com/truecharts/charts/compare/owncast-8.0.1...owncast-8.0.2) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/owncast to v0.0.13
+  
+  
+
+
 ## [owncast-8.0.1](https://github.com/truecharts/charts/compare/owncast-8.0.0...owncast-8.0.1) (2022-11-15)
 
 ### Chore

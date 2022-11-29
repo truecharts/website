@@ -82,6 +82,11 @@
 
 
 
+## [youtubedl-material-4.0.5](https://github.com/truecharts/charts/compare/youtubedl-material-4.0.4...youtubedl-material-4.0.5) (2022-11-29)
+
+
+
+
 ## [youtubedl-material-4.0.4](https://github.com/truecharts/charts/compare/youtubedl-material-4.0.3...youtubedl-material-4.0.4) (2022-11-23)
 
 ### Chore
