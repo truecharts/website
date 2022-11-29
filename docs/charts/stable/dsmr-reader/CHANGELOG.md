@@ -2,6 +2,11 @@
 
 
 
+## [dsmr-reader-11.0.7](https://github.com/truecharts/charts/compare/dsmr-reader-11.0.6...dsmr-reader-11.0.7) (2022-11-29)
+
+
+
+
 ## [dsmr-reader-11.0.6](https://github.com/truecharts/charts/compare/dsmr-reader-11.0.5...dsmr-reader-11.0.6) (2022-11-23)
 
 ### Chore

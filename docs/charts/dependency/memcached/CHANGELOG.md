@@ -110,6 +110,15 @@
   
 
 
+## [memcached-5.0.7](https://github.com/truecharts/charts/compare/memcached-5.0.6...memcached-5.0.7) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/memcached to 1.6.17
+  
+  
+
+
 ## [memcached-5.0.6](https://github.com/truecharts/charts/compare/memcached-5.0.5...memcached-5.0.6) (2022-11-26)
 
 
