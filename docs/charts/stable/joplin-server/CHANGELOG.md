@@ -87,6 +87,11 @@
 
 
 
+## [joplin-server-11.0.7](https://github.com/truecharts/charts/compare/joplin-server-11.0.6...joplin-server-11.0.7) (2022-11-29)
+
+
+
+
 ## [joplin-server-11.0.6](https://github.com/truecharts/charts/compare/joplin-server-11.0.5...joplin-server-11.0.6) (2022-11-23)
 
 ### Chore

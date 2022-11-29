@@ -87,6 +87,11 @@
 
 
 
+## [midarr-3.0.7](https://github.com/truecharts/charts/compare/midarr-3.0.6...midarr-3.0.7) (2022-11-29)
+
+
+
+
 ## [midarr-3.0.6](https://github.com/truecharts/charts/compare/midarr-3.0.5...midarr-3.0.6) (2022-11-23)
 
 ### Chore

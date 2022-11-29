@@ -254,6 +254,15 @@
   
 
 
+## [libreddit-3.0.6](https://github.com/truecharts/charts/compare/libreddit-3.0.5...libreddit-3.0.6) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/libreddit to latest
+  
+  
+
+
 ## [libreddit-3.0.5](https://github.com/truecharts/charts/compare/libreddit-3.0.4...libreddit-3.0.5) (2022-11-24)
 
 
