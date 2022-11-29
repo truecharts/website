@@ -11,6 +11,15 @@
   
 
 
+## [dokuwiki-5.0.5](https://github.com/truecharts/charts/compare/dokuwiki-5.0.4...dokuwiki-5.0.5) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/dokuwiki to 20220731.1.0
+  
+  
+
+
 ## [dokuwiki-5.0.4](https://github.com/truecharts/charts/compare/dokuwiki-5.0.3...dokuwiki-5.0.4) (2022-11-26)
 
 
