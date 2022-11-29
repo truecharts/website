@@ -72,6 +72,11 @@
 
 
 
+## [privatebin-3.0.7](https://github.com/truecharts/charts/compare/privatebin-3.0.6...privatebin-3.0.7) (2022-11-29)
+
+
+
+
 ## [privatebin-3.0.6](https://github.com/truecharts/charts/compare/privatebin-3.0.5...privatebin-3.0.6) (2022-11-23)
 
 ### Chore

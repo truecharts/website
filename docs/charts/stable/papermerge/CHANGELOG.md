@@ -72,6 +72,11 @@
 
 
 
+## [papermerge-6.0.5](https://github.com/truecharts/charts/compare/papermerge-6.0.4...papermerge-6.0.5) (2022-11-29)
+
+
+
+
 ## [papermerge-6.0.4](https://github.com/truecharts/charts/compare/papermerge-6.0.3...papermerge-6.0.4) (2022-11-23)
 
 ### Chore
