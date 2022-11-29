@@ -7,6 +7,11 @@
 
 
 
+## [inventree-7.0.8](https://github.com/truecharts/charts/compare/inventree-7.0.7...inventree-7.0.8) (2022-11-29)
+
+
+
+
 ## [inventree-7.0.7](https://github.com/truecharts/charts/compare/inventree-7.0.6...inventree-7.0.7) (2022-11-23)
 
 ### Chore

@@ -7,6 +7,11 @@
 
 
 
+## [snipe-it-7.0.5](https://github.com/truecharts/charts/compare/snipe-it-7.0.4...snipe-it-7.0.5) (2022-11-29)
+
+
+
+
 ## [snipe-it-7.0.4](https://github.com/truecharts/charts/compare/snipe-it-7.0.3...snipe-it-7.0.4) (2022-11-23)
 
 ### Chore

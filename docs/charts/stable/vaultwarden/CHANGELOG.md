@@ -7,6 +7,11 @@
 
 
 
+## [vaultwarden-19.0.7](https://github.com/truecharts/charts/compare/vaultwarden-19.0.6...vaultwarden-19.0.7) (2022-11-29)
+
+
+
+
 ## [vaultwarden-19.0.6](https://github.com/truecharts/charts/compare/vaultwarden-19.0.5...vaultwarden-19.0.6) (2022-11-23)
 
 ### Chore

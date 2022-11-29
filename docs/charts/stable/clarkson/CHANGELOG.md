@@ -7,6 +7,11 @@
 
 
 
+## [clarkson-6.0.5](https://github.com/truecharts/charts/compare/clarkson-6.0.4...clarkson-6.0.5) (2022-11-29)
+
+
+
+
 ## [clarkson-6.0.4](https://github.com/truecharts/charts/compare/clarkson-6.0.3...clarkson-6.0.4) (2022-11-23)
 
 ### Chore
