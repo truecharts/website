@@ -42,6 +42,11 @@
 
 
 
+## [typecho-7.0.5](https://github.com/truecharts/charts/compare/typecho-7.0.4...typecho-7.0.5) (2022-11-29)
+
+
+
+
 ## [typecho-7.0.4](https://github.com/truecharts/charts/compare/typecho-7.0.3...typecho-7.0.4) (2022-11-23)
 
 ### Chore

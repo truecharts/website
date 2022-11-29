@@ -119,6 +119,15 @@
   
 
 
+## [neko-2.0.6](https://github.com/truecharts/charts/compare/neko-2.0.5...neko-2.0.6) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/neko-firefox to latest
+  
+  
+
+
 ## [neko-2.0.5](https://github.com/truecharts/charts/compare/neko-2.0.4...neko-2.0.5) (2022-11-26)
 
 

@@ -42,6 +42,11 @@
 
 
 
+## [gotify-11.0.7](https://github.com/truecharts/charts/compare/gotify-11.0.6...gotify-11.0.7) (2022-11-29)
+
+
+
+
 ## [gotify-11.0.6](https://github.com/truecharts/charts/compare/gotify-11.0.5...gotify-11.0.6) (2022-11-23)
 
 ### Chore
