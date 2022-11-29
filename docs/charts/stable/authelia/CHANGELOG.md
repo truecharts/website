@@ -32,6 +32,11 @@
 
 
 
+## [authelia-14.0.7](https://github.com/truecharts/charts/compare/authelia-14.0.6...authelia-14.0.7) (2022-11-29)
+
+
+
+
 ## [authelia-14.0.6](https://github.com/truecharts/charts/compare/authelia-14.0.5...authelia-14.0.6) (2022-11-23)
 
 ### Chore
