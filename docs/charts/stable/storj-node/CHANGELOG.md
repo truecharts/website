@@ -7,6 +7,11 @@
 
 
 
+## [storj-node-4.0.5](https://github.com/truecharts/charts/compare/storj-node-4.0.4...storj-node-4.0.5) (2022-11-30)
+
+
+
+
 ## [storj-node-4.0.4](https://github.com/truecharts/charts/compare/storj-node-4.0.3...storj-node-4.0.4) (2022-11-19)
 
 ### Chore

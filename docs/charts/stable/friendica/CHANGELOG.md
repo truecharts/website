@@ -107,6 +107,11 @@
 
 
 
+## [friendica-7.0.5](https://github.com/truecharts/charts/compare/friendica-7.0.4...friendica-7.0.5) (2022-11-29)
+
+
+
+
 ## [friendica-7.0.4](https://github.com/truecharts/charts/compare/friendica-7.0.3...friendica-7.0.4) (2022-11-23)
 
 ### Chore

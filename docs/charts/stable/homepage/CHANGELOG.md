@@ -281,6 +281,15 @@
   
 
 
+## [homepage-2.0.3](https://github.com/truecharts/charts/compare/homepage-2.0.2...homepage-2.0.3) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/homepage to v0.5.2
+  
+  
+
+
 ## [homepage-2.0.2](https://github.com/truecharts/charts/compare/homepage-2.0.1...homepage-2.0.2) (2022-11-27)
 
 
