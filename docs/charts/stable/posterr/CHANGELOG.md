@@ -7,6 +7,11 @@
 
 
 
+## [posterr-3.0.2](https://github.com/truecharts/charts/compare/posterr-3.0.1...posterr-3.0.2) (2022-11-30)
+
+
+
+
 ## [posterr-3.0.1](https://github.com/truecharts/charts/compare/posterr-3.0.0...posterr-3.0.1) (2022-11-15)
 
 ### Chore

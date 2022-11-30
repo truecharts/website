@@ -7,6 +7,11 @@
 
 
 
+## [koel-6.0.7](https://github.com/truecharts/charts/compare/koel-6.0.5...koel-6.0.7) (2022-11-30)
+
+
+
+
 ## [koel-6.0.6](https://github.com/truecharts/charts/compare/koel-6.0.5...koel-6.0.6) (2022-11-29)
 
 
