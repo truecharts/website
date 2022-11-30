@@ -20,6 +20,15 @@
   
 
 
+## [googlephotossync-2.0.3](https://github.com/truecharts/charts/compare/googlephotossync-2.0.1...googlephotossync-2.0.3) (2022-11-29)
+
+### Chore
+
+- update container image tccr.io/truecharts/googlephotossync to latest
+  
+  
+
+
 ## [googlephotossync-2.0.2](https://github.com/truecharts/charts/compare/googlephotossync-2.0.1...googlephotossync-2.0.2) (2022-11-28)
 
 ### Chore
