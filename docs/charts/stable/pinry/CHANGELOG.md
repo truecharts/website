@@ -17,6 +17,11 @@
 
 
 
+## [pinry-4.0.2](https://github.com/truecharts/charts/compare/pinry-4.0.1...pinry-4.0.2) (2022-11-30)
+
+
+
+
 ## [pinry-4.0.1](https://github.com/truecharts/charts/compare/pinry-4.0.0...pinry-4.0.1) (2022-11-15)
 
 ### Chore

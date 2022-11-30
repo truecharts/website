@@ -17,6 +17,11 @@
 
 
 
+## [plex-12.0.2](https://github.com/truecharts/charts/compare/plextraktsync-3.0.4...plex-12.0.2) (2022-11-30)
+
+
+
+
 ## [plex-12.0.1](https://github.com/truecharts/charts/compare/plex-utills-3.0.0...plex-12.0.1) (2022-11-15)
 
 ### Chore
