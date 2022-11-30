@@ -32,6 +32,11 @@
 
 
 
+## [ddns-go-4.0.3](https://github.com/truecharts/charts/compare/ddns-go-4.0.2...ddns-go-4.0.3) (2022-11-30)
+
+
+
+
 ## [ddns-go-4.0.2](https://github.com/truecharts/charts/compare/ddns-go-4.0.1...ddns-go-4.0.2) (2022-11-21)
 
 ### Chore
