@@ -986,6 +986,7 @@ The intro needs improvement ;)
 |lemur-cfssl                    |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |lemur-cfssl                    |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |lenpaste                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|libremdb                       |config                     |PVC      |-                |/opt/app                                         |Read/Write|Enabled                |
 |lingva                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |linkwallet                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |livebook                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
