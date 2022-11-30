@@ -12,6 +12,11 @@
 
 
 
+## [dizquetv-9.0.2](https://github.com/truecharts/charts/compare/dizquetv-9.0.1...dizquetv-9.0.2) (2022-11-30)
+
+
+
+
 ## [dizquetv-9.0.1](https://github.com/truecharts/charts/compare/dizquetv-9.0.0...dizquetv-9.0.1) (2022-11-15)
 
 ### Chore
