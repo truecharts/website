@@ -2,6 +2,11 @@
 
 
 
+## [rsnapshot-4.0.2](https://github.com/truecharts/charts/compare/rsnapshot-4.0.1...rsnapshot-4.0.2) (2022-11-30)
+
+
+
+
 ## [rsnapshot-4.0.1](https://github.com/truecharts/charts/compare/rsnapshot-4.0.0...rsnapshot-4.0.1) (2022-11-15)
 
 ### Chore

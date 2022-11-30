@@ -2,6 +2,11 @@
 
 
 
+## [apprise-api-2.0.3](https://github.com/truecharts/charts/compare/apprise-api-2.0.2...apprise-api-2.0.3) (2022-11-30)
+
+
+
+
 ## [apprise-api-2.0.2](https://github.com/truecharts/charts/compare/apprise-api-2.0.1...apprise-api-2.0.2) (2022-11-16)
 
 ### Chore

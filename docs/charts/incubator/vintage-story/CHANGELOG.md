@@ -2,6 +2,11 @@
 
 
 
+## [vintage-story-2.0.2](https://github.com/truecharts/charts/compare/vintage-story-2.0.1...vintage-story-2.0.2) (2022-11-30)
+
+
+
+
 ## [vintage-story-2.0.1](https://github.com/truecharts/charts/compare/vintage-story-2.0.0...vintage-story-2.0.1) (2022-11-15)
 
 ### Chore

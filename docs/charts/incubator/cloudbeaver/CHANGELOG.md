@@ -2,6 +2,11 @@
 
 
 
+## [cloudbeaver-2.0.3](https://github.com/truecharts/charts/compare/cloudbeaver-2.0.2...cloudbeaver-2.0.3) (2022-11-30)
+
+
+
+
 ## [cloudbeaver-2.0.2](https://github.com/truecharts/charts/compare/cloudbeaver-2.0.1...cloudbeaver-2.0.2) (2022-11-21)
 
 ### Chore
