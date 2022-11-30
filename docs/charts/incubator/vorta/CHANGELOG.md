@@ -47,6 +47,11 @@
 
 
 
+## [vorta-2.0.2](https://github.com/truecharts/charts/compare/vorta-2.0.1...vorta-2.0.2) (2022-11-30)
+
+
+
+
 ## [vorta-2.0.1](https://github.com/truecharts/charts/compare/vorta-2.0.0...vorta-2.0.1) (2022-11-15)
 
 ### Chore
