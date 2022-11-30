@@ -27,6 +27,11 @@
 
 
 
+## [website-shot-4.0.4](https://github.com/truecharts/charts/compare/website-shot-4.0.3...website-shot-4.0.4) (2022-11-30)
+
+
+
+
 ## [website-shot-4.0.3](https://github.com/truecharts/charts/compare/website-shot-4.0.2...website-shot-4.0.3) (2022-11-24)
 
 

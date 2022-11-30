@@ -27,6 +27,11 @@
 
 
 
+## [cloud9-6.0.2](https://github.com/truecharts/charts/compare/cloud9-6.0.1...cloud9-6.0.2) (2022-11-30)
+
+
+
+
 ## [cloud9-6.0.1](https://github.com/truecharts/charts/compare/cloud9-6.0.0...cloud9-6.0.1) (2022-11-15)
 
 ### Chore
