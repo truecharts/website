@@ -37,6 +37,11 @@
 
 
 
+## [airsonic-8.0.2](https://github.com/truecharts/charts/compare/airsonic-advanced-7.0.6...airsonic-8.0.2) (2022-11-30)
+
+
+
+
 ## [airsonic-8.0.1](https://github.com/truecharts/charts/compare/airsonic-advanced-7.0.0...airsonic-8.0.1) (2022-11-15)
 
 ### Chore

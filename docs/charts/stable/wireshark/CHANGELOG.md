@@ -37,6 +37,11 @@
 
 
 
+## [wireshark-4.0.4](https://github.com/truecharts/charts/compare/wireshark-4.0.3...wireshark-4.0.4) (2022-11-30)
+
+
+
+
 ## [wireshark-4.0.3](https://github.com/truecharts/charts/compare/wireshark-4.0.2...wireshark-4.0.3) (2022-11-22)
 
 ### Chore
