@@ -42,6 +42,11 @@
 
 
 
+## [poste-2.0.3](https://github.com/truecharts/charts/compare/poste-2.0.2...poste-2.0.3) (2022-11-30)
+
+
+
+
 ## [poste-2.0.2](https://github.com/truecharts/charts/compare/poste-2.0.1...poste-2.0.2) (2022-11-15)
 
 ### Chore

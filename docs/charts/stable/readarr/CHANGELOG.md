@@ -42,6 +42,11 @@
 
 
 
+## [readarr-13.0.2](https://github.com/truecharts/charts/compare/readarr-13.0.1...readarr-13.0.2) (2022-11-30)
+
+
+
+
 ## [readarr-13.0.1](https://github.com/truecharts/charts/compare/readarr-13.0.0...readarr-13.0.1) (2022-11-15)
 
 ### Chore
