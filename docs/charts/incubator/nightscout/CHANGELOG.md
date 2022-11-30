@@ -22,6 +22,11 @@
 
 
 
+## [nightscout-2.0.2](https://github.com/truecharts/charts/compare/nightscout-2.0.1...nightscout-2.0.2) (2022-11-30)
+
+
+
+
 ## [nightscout-2.0.1](https://github.com/truecharts/charts/compare/nightscout-2.0.0...nightscout-2.0.1) (2022-11-15)
 
 ### Chore
