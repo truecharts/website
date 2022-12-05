@@ -35,7 +35,7 @@ This is ALSO the port Sonarr/Radarr and other services will use to connect to qB
 
 #### Listening Ports
 
-??? VPN "With VPN" - No need to port forward on your router - If you want fast seeding, you will need a service that supports port forwarding - We use Mullvad, and changed the two ports below to the port that was allocated to me by Mullvad
+??? VPN "With VPN" - No need to port forward on your router - If you want fast seeding, you will need a service that supports port forwarding - We use Mullvad, Set the TCP Listening Port in Qbit webui (Tools > Options > Connection) to the port allocated by Mullvad
 
 ??? NOVPN "Without VPN" - You can leave the two ports default without a VPN - If you want fast seeding though, you will need to port forward this port on your router
 
