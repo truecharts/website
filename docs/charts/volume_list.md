@@ -1113,7 +1113,8 @@ The intro needs improvement ;)
 |prpdf                          |config                     |PVC      |-                |/source/config                                   |Read/Write|Enabled                |
 |prpdf                          |files                      |PVC      |-                |/Archiv/                                         |Read/Write|Enabled                |
 |prpdf                          |hostpath2                  |PVC      |-                |/source/static/pdf/                              |Read/Write|Enabled                |
-|ps3netsrv                      |gamesfolder                |PVC      |-                |/games                                           |Read/Write|Enabled                |
+|ps3netsrv                      |games                      |PVC      |-                |/games                                           |Read/Write|Enabled                |
+|ps3netsrv                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |pt-helper                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |pure-ftpd                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |pure-ftpd                      |ftpfolder                  |PVC      |-                |/home                                            |Read/Write|Enabled                |
@@ -1215,9 +1216,9 @@ The intro needs improvement ;)
 |spaceengineers                 |serverfiles                |PVC      |-                |/appdata/space-engineers/SpaceEngineersDedicated |Read/Write|Enabled                |
 |spaceengineers                 |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |speedtest-tracker              |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|splunk                         |appcredspersist            |PVC      |-                |/opt/splunk/etc/auth                             |Read/Write|Enabled                |
-|splunk                         |configpersist              |PVC      |-                |/opt/splunk/etc/apps                             |Read/Write|Enabled                |
-|splunk                         |datapersist                |PVC      |-                |/splunkdata                                      |Read/Write|Enabled                |
+|splunk                         |appcreds                   |PVC      |-                |/opt/splunk/etc/                                 |Read/Write|Enabled                |
+|splunk                         |config                     |PVC      |-                |/opt/splunk/var                                  |Read/Write|Enabled                |
+|splunk                         |datap                      |PVC      |-                |/splunkdata                                      |Read/Write|Enabled                |
 |sqlite-web                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |st-reborn-server               |config                     |PVC      |-                |/home/server/config                              |Read/Write|Enabled                |
 |st-reborn-server               |logs                       |PVC      |-                |/home/server/logs                                |Read/Write|Enabled                |
@@ -1292,6 +1293,7 @@ The intro needs improvement ;)
 |webp-server                    |storagecache               |PVC      |-                |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC      |-                |/opt/pics                                        |Read Only |Enabled                |
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|wordpress                      |config                     |PVC      |-                |/bitnami/wordpress                               |Read/Write|Enabled                |
 |xmrig                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |xware                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
