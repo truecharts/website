@@ -2,6 +2,15 @@
 
 
 
+## [spotweb-7.0.12](https://github.com/truecharts/charts/compare/spotweb-7.0.11...spotweb-7.0.12) (2022-12-05)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [spotweb-7.0.11](https://github.com/truecharts/charts/compare/spotweb-7.0.9...spotweb-7.0.11) (2022-11-30)
 
 
