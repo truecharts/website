@@ -2,6 +2,11 @@
 
 
 
+## [wifi-card-2.0.4](https://github.com/truecharts/charts/compare/wifi-card-2.0.3...wifi-card-2.0.4) (2022-12-07)
+
+
+
+
 ## [wifi-card-2.0.3](https://github.com/truecharts/charts/compare/wifi-card-2.0.2...wifi-card-2.0.3) (2022-12-05)
 
 ### Chore
