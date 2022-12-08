@@ -1254,6 +1254,7 @@ The intro needs improvement ;)
 |timetagger                     |config                     |PVC      |-                |/root/_timetagger                                |Read/Write|Enabled                |
 |tonido                         |tonido                     |PVC      |-                |/unRAID                                          |Read/Write|Enabled                |
 |tracks                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|traggo                         |config                     |PVC      |-                |/opt/traggo/data                                 |Read/Write|Enabled                |
 |traktarr                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |trango                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |troddit                        |-                          |-        |-                |-                                                |-         |Persistence not Defined|
