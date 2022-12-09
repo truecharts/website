@@ -586,6 +586,7 @@ The intro needs improvement ;)
 |tinymediamanager          |tvshows               |PVC      |-              |/media/tvshows                                       |Read/Write|Enabled                |
 |traccar                   |data                  |PVC      |-              |/opt/traccar/data                                    |Read/Write|Enabled                |
 |traefik                   |plugins               |emptyDir |-              |/plugins-storage                                     |Read/Write|Enabled                |
+|traggo                    |config                |PVC      |-              |/opt/traggo/data                                     |Read/Write|Enabled                |
 |transmission              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |trilium-notes             |config                |PVC      |-              |/home/node                                           |Read/Write|Enabled                |
 |truecommand               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -642,6 +643,7 @@ The intro needs improvement ;)
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |wireshark                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |wireshark                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|wordpress                 |config                |PVC      |-              |/bitnami/wordpress                                   |Read/Write|Enabled                |
 |xbackbone                 |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |xen-orchestra             |xo-data               |PVC      |-              |/var/lib/xo-server                                   |Read/Write|Enabled                |
 |xen-orchestra             |redis-data            |PVC      |-              |/var/lib/redis                                       |Read/Write|Enabled                |
@@ -845,7 +847,8 @@ The intro needs improvement ;)
 |etesync                        |app                        |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |etesync                        |secret                     |custom   |-                |/data/secret.txt                                 |Read Only |Enabled                |
 |ethercalc                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|euterpe                        |storagelibrary             |PVC      |-                |/root/Music                                      |Read/Write|Enabled                |
+|euterpe                        |music                      |PVC      |-                |/root/Music                                      |Read/Write|Enabled                |
+|euterpe                        |configfile                 |secret   |-                |/root/.euterpe/config.json                       |Read Only |Enabled                |
 |explainshell                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |external-ip                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |factorio                       |path                       |PVC      |-                |/factorio                                        |Read/Write|Enabled                |
@@ -1083,6 +1086,7 @@ The intro needs improvement ;)
 |pigallery2                     |db                         |PVC      |-                |/app/data/db                                     |Read/Write|Enabled                |
 |pigallery2                     |image                      |PVC      |-                |/app/data/images/                                |Read Only |Enabled                |
 |pigallery2                     |tmp                        |PVC      |-                |/app/data/tmp                                    |Read/Write|Enabled                |
+|pingvin-share                  |data                       |PVC      |-                |/opt/app/backend/data                            |Read/Write|Enabled                |
 |piwigo                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |piwigo                         |gallery                    |PVC      |-                |/gallery                                         |Read/Write|Enabled                |
 |piwigo                         |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
@@ -1254,7 +1258,6 @@ The intro needs improvement ;)
 |timetagger                     |config                     |PVC      |-                |/root/_timetagger                                |Read/Write|Enabled                |
 |tonido                         |tonido                     |PVC      |-                |/unRAID                                          |Read/Write|Enabled                |
 |tracks                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|traggo                         |config                     |PVC      |-                |/opt/traggo/data                                 |Read/Write|Enabled                |
 |traktarr                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |trango                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |troddit                        |-                          |-        |-                |-                                                |-         |Persistence not Defined|
@@ -1294,7 +1297,6 @@ The intro needs improvement ;)
 |webp-server                    |storagecache               |PVC      |-                |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC      |-                |/opt/pics                                        |Read Only |Enabled                |
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|wordpress                      |config                     |PVC      |-                |/bitnami/wordpress                               |Read/Write|Enabled                |
 |xmrig                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |xware                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
