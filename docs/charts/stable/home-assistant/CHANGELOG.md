@@ -2,6 +2,11 @@
 
 
 
+## [home-assistant-18.0.14](https://github.com/truecharts/charts/compare/home-assistant-18.0.13...home-assistant-18.0.14) (2022-12-10)
+
+
+
+
 ## [home-assistant-18.0.13](https://github.com/truecharts/charts/compare/home-assistant-18.0.12...home-assistant-18.0.13) (2022-12-08)
 
 ### Chore
