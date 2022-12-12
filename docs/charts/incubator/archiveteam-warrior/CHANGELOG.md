@@ -2,6 +2,15 @@
 
 
 
+## [archiveteam-warrior-2.0.5](https://github.com/truecharts/charts/compare/archiveteam-warrior-2.0.4...archiveteam-warrior-2.0.5) (2022-12-12)
+
+### Chore
+
+- update container image tccr.io/truecharts/archiveteam-warrior to latest
+  
+  
+
+
 ## [archiveteam-warrior-2.0.4](https://github.com/truecharts/charts/compare/archiveteam-warrior-2.0.3...archiveteam-warrior-2.0.4) (2022-12-01)
 
 ### Chore
