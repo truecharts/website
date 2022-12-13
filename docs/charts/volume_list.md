@@ -1073,7 +1073,6 @@ The intro needs improvement ;)
 |pastey                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |pavlovvr                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |pavlovvr                       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|phoenixstats                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |phoronix-test-suite            |appdata                    |PVC      |-                |/var/lib/phoronix-test-suite                     |Read/Write|Enabled                |
 |phoronix-test-suite            |results                    |PVC      |-                |/var/lib/phoronix-test-suite/test-results        |Read/Write|Enabled                |
 |photo-stream                   |storageimages              |PVC      |-                |/photo-stream/photos/original                    |Read/Write|Enabled                |
