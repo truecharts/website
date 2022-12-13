@@ -2,6 +2,15 @@
 
 
 
+## [mstream-5.0.5](https://github.com/truecharts/charts/compare/mstream-5.0.4...mstream-5.0.5) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [mstream-5.0.4](https://github.com/truecharts/charts/compare/mstream-5.0.3...mstream-5.0.4) (2022-12-04)
 
 

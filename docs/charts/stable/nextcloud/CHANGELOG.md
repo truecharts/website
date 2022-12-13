@@ -2,6 +2,15 @@
 
 
 
+## [nextcloud-19.0.22](https://github.com/truecharts/charts/compare/nextcloud-19.0.21...nextcloud-19.0.22) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [nextcloud-19.0.21](https://github.com/truecharts/charts/compare/nextcloud-19.0.20...nextcloud-19.0.21) (2022-12-12)
 
 ### Chore

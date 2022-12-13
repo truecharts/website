@@ -2,6 +2,15 @@
 
 
 
+## [plextraktsync-3.0.8](https://github.com/truecharts/charts/compare/plextraktsync-3.0.7...plextraktsync-3.0.8) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [plextraktsync-3.0.7](https://github.com/truecharts/charts/compare/plextraktsync-3.0.6...plextraktsync-3.0.7) (2022-12-12)
 
 ### Chore

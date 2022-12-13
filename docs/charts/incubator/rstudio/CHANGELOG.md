@@ -2,6 +2,15 @@
 
 
 
+## [rstudio-2.0.4](https://github.com/truecharts/charts/compare/rstudio-2.0.3...rstudio-2.0.4) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [rstudio-2.0.3](https://github.com/truecharts/charts/compare/rstudio-2.0.2...rstudio-2.0.3) (2022-12-10)
 
 

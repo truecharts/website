@@ -2,6 +2,15 @@
 
 
 
+## [synclounge-4.0.6](https://github.com/truecharts/charts/compare/synclounge-4.0.5...synclounge-4.0.6) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [synclounge-4.0.5](https://github.com/truecharts/charts/compare/synclounge-4.0.4...synclounge-4.0.5) (2022-12-12)
 
 ### Chore

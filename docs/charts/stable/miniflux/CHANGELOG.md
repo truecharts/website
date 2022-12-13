@@ -2,6 +2,15 @@
 
 
 
+## [miniflux-10.0.11](https://github.com/truecharts/charts/compare/miniflux-10.0.10...miniflux-10.0.11) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [miniflux-10.0.10](https://github.com/truecharts/charts/compare/miniflux-10.0.9...miniflux-10.0.10) (2022-12-11)
 
 ### Chore

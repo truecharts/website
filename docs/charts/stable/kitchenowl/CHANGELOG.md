@@ -2,6 +2,16 @@
 
 
 
+## [kitchenowl-3.0.7](https://github.com/truecharts/charts/compare/kitchenowl-3.0.6...kitchenowl-3.0.7) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  - update container image tccr.io/truecharts/kitchenowl-web to beta
+  
+  
+
+
 ## [kitchenowl-3.0.6](https://github.com/truecharts/charts/compare/kitchenowl-3.0.5...kitchenowl-3.0.6) (2022-12-12)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [appsmith-5.0.12](https://github.com/truecharts/charts/compare/appsmith-5.0.11...appsmith-5.0.12) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [appsmith-5.0.11](https://github.com/truecharts/charts/compare/appsmith-5.0.10...appsmith-5.0.11) (2022-12-08)
 
 ### Chore

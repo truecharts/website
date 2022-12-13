@@ -2,6 +2,15 @@
 
 
 
+## [handbrake-15.0.3](https://github.com/truecharts/charts/compare/handbrake-15.0.2...handbrake-15.0.3) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [handbrake-15.0.2](https://github.com/truecharts/charts/compare/handbrake-15.0.1...handbrake-15.0.2) (2022-11-30)
 
 

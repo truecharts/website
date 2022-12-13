@@ -2,6 +2,15 @@
 
 
 
+## [openvscode-server-4.0.4](https://github.com/truecharts/charts/compare/openvscode-server-4.0.3...openvscode-server-4.0.4) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [openvscode-server-4.0.3](https://github.com/truecharts/charts/compare/openvscode-server-4.0.2...openvscode-server-4.0.3) (2022-12-09)
 
 

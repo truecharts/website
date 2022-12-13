@@ -2,6 +2,15 @@
 
 
 
+## [kavitaemail-2.0.4](https://github.com/truecharts/charts/compare/kavitaemail-2.0.3...kavitaemail-2.0.4) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [kavitaemail-2.0.3](https://github.com/truecharts/charts/compare/kavitaemail-2.0.2...kavitaemail-2.0.3) (2022-12-12)
 
 ### Chore

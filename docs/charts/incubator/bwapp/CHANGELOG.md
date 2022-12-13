@@ -2,6 +2,15 @@
 
 
 
+## [bwapp-2.0.3](https://github.com/truecharts/charts/compare/bwapp-2.0.2...bwapp-2.0.3) (2022-12-13)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [bwapp-2.0.2](https://github.com/truecharts/charts/compare/bwapp-2.0.1...bwapp-2.0.2) (2022-11-30)
 
 
