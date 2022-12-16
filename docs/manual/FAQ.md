@@ -112,3 +112,31 @@ Don't use $ in your passwords, it won't work due to an upstream
 
 Stable train means that our **chart** is stable, not the container.
 But if container is very buggy and/or constantly pushing breaking changes, our chart will move back to incubator until this is changed.
+
+## Why I can't use host path on both my apps and sharing services?
+
+TrueNAS Scale includes a safety check that makes sure apps and sharing services (SMB, NFS, etc) do not use the same data.
+This is done to avoid permissions issues, as there are a lot of apps that change permissions without giving the user a warning,
+or just plain do not work with ACL's.
+
+This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced Settings` -> `Enable Host Path Safety Checks`
+
+## What are my options regarding Host Path Safety Checks and support?
+
+- Option 1.
+
+  Validation *disabled*, with the caveat we will **not** provide support on things that involve storage.
+  If you have an issue with the app, the configuration screenshots must **not** have hostPath defined.
+  Get it up and running, and then you add host paths and figure out your permissions yourself.
+
+- Option 2.
+
+  Validation *enabled*, ANY sharing service *disabled* for hostPaths that are used by Apps.
+  Full support included.
+
+- Option 3.
+
+  Validation *enabled*, ANY sharing service *enabled*.
+  You can mount paths on the host using the NFS option on all TrueCharts apps.
+  With the caveat that if any app stores SQLite db file in the NFS, It's a matter of time to have it corrupted
+  and the NFS overhead.
