@@ -3,7 +3,9 @@ slug: "TrueNAS SCALE 22.12: hostPath Validation"
 title: "TrueNAS SCALE 22.12: hostPath Validation"
 authors: [ornias]
 ---
-We are excited to announce the release of TrueNAS SCALE version 22.12 "BlueFin," which includes a new feature called "hostPath validation." This feature is designed to ensure the stability and security of TrueNAS SCALE systems by preventing the use of any datasets for apps where that dataset is also used for shares.
+We are excited to finally be able to work with TrueNAS SCALE version 22.12 "BlueFin," however this version  includes a new feature called "hostPath validation." This feature is designed to ensure the stability and security of TrueNAS SCALE systems by preventing the use of any datasets for apps where that dataset is also used for shares.
+
+This safetycheck makes sure apps and sharing services (SMB, NFS, etc) do not use the same data. This is done to avoid permissions issues, as there are a lot of apps that change permissions without giving the user a warning, or just plain do not work with ACL's.
 
 While this feature is an important security measure, it can also be a source of frustration for some users who may be using datasets for both apps and shares. If you are encountering issues with "hostPath validation", such as Apps being "stuck on deploying" after update, there are three potential solutions you can consider:
 
