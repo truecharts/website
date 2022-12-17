@@ -1,5 +1,5 @@
 ---
-slug: "Docker-Compose on TrueNAS SCALE using TrueCharts"
+slug: "docker-compose"
 title: "Docker-Compose on TrueNAS SCALE using TrueCharts"
 authors: [ornias]
 ---

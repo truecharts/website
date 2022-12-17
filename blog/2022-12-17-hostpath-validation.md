@@ -1,5 +1,5 @@
 ---
-slug: "TrueNAS SCALE 22.12: hostPath Validation"
+slug: "hostpath-validation"
 title: "TrueNAS SCALE 22.12: hostPath Validation"
 authors: [ornias]
 ---

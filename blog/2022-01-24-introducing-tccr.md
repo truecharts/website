@@ -1,5 +1,5 @@
 ---
-slug: "Introducing: TrueCharts Container Repository"
+slug: "introducing-tccr"
 title: "Introducing: TrueCharts Container Repository"
 authors: [ornias]
 ---

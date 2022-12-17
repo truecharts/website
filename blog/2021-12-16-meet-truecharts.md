@@ -1,5 +1,5 @@
 ---
-slug: "Meet TrueCharts - the First App Store for TrueNAS SCALE"
+slug: "meet-truecharts"
 title: "Meet TrueCharts - the First App Store for TrueNAS SCALE"
 authors: [ornias]
 ---
