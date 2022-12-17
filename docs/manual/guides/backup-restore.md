@@ -8,7 +8,6 @@ sidebar_position: 15
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation. 
 This guide has been thoroughly tested with TrueNAS SCALE 22.02.4.
 
-:::
 
 ## Requirements
 
@@ -125,6 +124,20 @@ With the steps below, this is all very-much-possible.
 
 
 1. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
+
+
+:::Important BlueFin Bug Fix
+
+With Bluefin, a UI bug has encountered preventing users to select the required new `force` option when selecting a pool
+This leads to an error warning for a "partialy initialised pool"
+
+To prevent this error, run the following commands one-by-one, replacing POOL with the name of your Apps Pool:
+`zfs create POOL/ix-applications/docker`
+`zfs create POOL/ix-applications/k3s`
+`zfs create POOL/ix-applications/k3s/kubelet`
+`zfs create POOL/ix-applications/catalogs`
+`zfs set mountpoint=legacy POOL/ix-applications/k3s/kubelet`
+:::
 
 2. _Optional/untested_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
 
