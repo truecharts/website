@@ -1,3 +1,9 @@
 # meshcentral
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+MeshCentral is a full computer management web site
+
+## Available Documentation
+
+[Installation instructions](/installation-instructions.md)
