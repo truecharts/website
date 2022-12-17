@@ -2,6 +2,11 @@
 
 
 
+## [subchart-3.0.8](https://github.com/truecharts/charts/compare/subchart-3.0.7...subchart-3.0.8) (2022-12-17)
+
+
+
+
 ## [subchart-3.0.7](https://github.com/truecharts/charts/compare/subchart-3.0.6...subchart-3.0.7) (2022-12-14)
 
 ### Chore
