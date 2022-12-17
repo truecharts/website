@@ -2,6 +2,15 @@
 
 
 
+## [tasmocompiler-2.0.4](https://github.com/truecharts/charts/compare/tasmocompiler-2.0.3...tasmocompiler-2.0.4) (2022-12-17)
+
+### Chore
+
+- update container image tccr.io/truecharts/tasmocompiler to latest
+  
+  
+
+
 ## [tasmocompiler-2.0.3](https://github.com/truecharts/charts/compare/tasmocompiler-2.0.2...tasmocompiler-2.0.3) (2022-12-13)
 
 ### Chore
