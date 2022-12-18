@@ -1,3 +1,8 @@
 # privatebin
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data.
+
+## Available Documentation
+

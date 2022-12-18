@@ -1,3 +1,8 @@
 # clarkson
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A web-based dashboard application that gives you a neat and clean interface for logging your fuel fill-ups for all of your vehicles.
+
+## Available Documentation
+

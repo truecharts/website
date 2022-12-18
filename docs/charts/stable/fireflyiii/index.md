@@ -1,3 +1,10 @@
 # fireflyiii
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A free and open source personal finance manager
+
+## Available Documentation
+
+[Important Notes](/installation_notes.md)
+[Input Validation](/validation.md)

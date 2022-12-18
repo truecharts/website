@@ -1,3 +1,10 @@
 # blocky
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written in Go
+
+## Available Documentation
+
+[FAQ](/FAQ.md)
+[Installation notes](/installation-notes.md)

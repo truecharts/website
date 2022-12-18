@@ -1,3 +1,8 @@
 # ferdi-server
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Server for Ferdi that you can re-use to run your own
+
+## Available Documentation
+

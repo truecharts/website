@@ -1,3 +1,8 @@
 # etesync
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
+
+## Available Documentation
+

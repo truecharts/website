@@ -1,3 +1,8 @@
 # icinga2
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A monitoring system which checks the availability of your network resources, notifies users of outages, and generates performance data for reporting.
+
+## Available Documentation
+

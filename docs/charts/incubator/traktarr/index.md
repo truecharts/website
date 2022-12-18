@@ -1,3 +1,8 @@
 # traktarr
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Script to add new series and movies to Sonarr/Radarr based on Trakt lists.
+
+## Available Documentation
+

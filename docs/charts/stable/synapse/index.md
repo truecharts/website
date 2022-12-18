@@ -1,3 +1,8 @@
 # synapse
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A Helm chart to deploy a Matrix homeserver stack into Kubernetes
+
+## Available Documentation
+

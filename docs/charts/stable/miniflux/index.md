@@ -1,3 +1,8 @@
 # miniflux
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Miniflux is a minimalist and opinionated feed reader.
+
+## Available Documentation
+

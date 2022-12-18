@@ -1,3 +1,8 @@
 # kutt
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Kutt is a modern URL shortener with support for custom domains. Shorten URLs, manage your links and view the click rate statistics.
+
+## Available Documentation
+

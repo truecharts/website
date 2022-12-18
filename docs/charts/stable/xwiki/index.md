@@ -1,3 +1,8 @@
 # xwiki
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+XWiki is a free wiki software platform written in Java with a design emphasis on extensibility
+
+## Available Documentation
+

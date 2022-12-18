@@ -1,3 +1,8 @@
 # paperless-ng
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents.
+
+## Available Documentation
+

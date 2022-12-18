@@ -1,3 +1,8 @@
 # kimai
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Kimai is a free, open source and online time-tracking software designed for small businesses and freelancers.
+
+## Available Documentation
+

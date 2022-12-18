@@ -1,3 +1,8 @@
 # umami
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+
+## Available Documentation
+

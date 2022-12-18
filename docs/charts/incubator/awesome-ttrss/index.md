@@ -1,3 +1,8 @@
 # awesome-ttrss
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Awesome TTRSS aims to provide a powerful Chartized all-in-one solution for Tiny Tiny RSS
+
+## Available Documentation
+

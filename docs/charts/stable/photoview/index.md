@@ -1,3 +1,9 @@
 # photoview
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Photoview is a simple and user-friendly photo gallery.
+
+## Available Documentation
+
+[Installation Notes](/installation_notes.md)

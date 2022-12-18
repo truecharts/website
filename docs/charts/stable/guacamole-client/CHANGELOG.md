@@ -2,6 +2,15 @@
 
 
 
+## [guacamole-client-7.0.11](https://github.com/truecharts/charts/compare/guacamole-client-7.0.10...guacamole-client-7.0.11) (2022-12-18)
+
+### Chore
+
+- update helm chart postgresql to v11.0.13 ([#5495](https://github.com/truecharts/charts/issues/5495))
+  
+  
+
+
 ## [guacamole-client-7.0.10](https://github.com/truecharts/charts/compare/guacamole-client-7.0.9...guacamole-client-7.0.10) (2022-12-13)
 
 ### Chore

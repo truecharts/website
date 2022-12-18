@@ -1,3 +1,8 @@
 # quassel-core
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Quassel-core is a modern, cross-platform, distributed IRC client.
+
+## Available Documentation
+

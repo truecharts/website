@@ -1,3 +1,9 @@
 # netbox
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+NetBox is the leading solution for modeling and documenting modern networks.
+
+## Available Documentation
+
+[Default Credentials](/default-credentials.md)

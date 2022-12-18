@@ -1,3 +1,8 @@
 # fleet
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Fleet provides an online web interface which displays a set of maintained images from one or more owned repositories.
+
+## Available Documentation
+

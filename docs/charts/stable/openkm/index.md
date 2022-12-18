@@ -1,3 +1,8 @@
 # openkm
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+OpenKM integrates all essential documents management, collaboration and an advanced search functionality into one easy to use solution.
+
+## Available Documentation
+

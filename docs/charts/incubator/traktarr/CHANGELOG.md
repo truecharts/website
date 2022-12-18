@@ -2,6 +2,11 @@
 
 
 
+## [traktarr-2.0.4](https://github.com/truecharts/charts/compare/traktarr-2.0.3...traktarr-2.0.4) (2022-12-18)
+
+
+
+
 ## [traktarr-2.0.3](https://github.com/truecharts/charts/compare/traktarr-2.0.2...traktarr-2.0.3) (2022-12-13)
 
 ### Chore

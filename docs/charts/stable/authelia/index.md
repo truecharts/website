@@ -1,3 +1,8 @@
 # authelia
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Authelia is a Single Sign-On Multi-Factor portal for web apps
+
+## Available Documentation
+

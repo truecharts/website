@@ -1,3 +1,8 @@
 # ddns-go
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Automatically obtain your public network IPv4 or IPv6 address and resolve it to the corresponding domain name service
+
+## Available Documentation
+

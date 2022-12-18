@@ -1,3 +1,8 @@
 # lychee
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Lychee is a free photo-management tool, which runs on your server or web-space
+
+## Available Documentation
+

@@ -1,3 +1,8 @@
 # plausible
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Plausible is lightweight and open source web analytics. No cookies and fully compliant with GDPR, CCPA and PECR.
+
+## Available Documentation
+

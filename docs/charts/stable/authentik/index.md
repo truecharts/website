@@ -1,3 +1,10 @@
 # authentik
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+authentik is an open-source Identity Provider focused on flexibility and versatility.
+
+## Available Documentation
+
+[How-To](/how_to.md)
+[Installation notes](/installation_notes.md)

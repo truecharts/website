@@ -1,3 +1,8 @@
 # inventree
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+InvenTree is an open-source Inventory Management System which provides powerful low-level stock control and part tracking.
+
+## Available Documentation
+

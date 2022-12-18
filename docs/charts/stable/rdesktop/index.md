@@ -1,3 +1,9 @@
 # rdesktop
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.
+
+## Available Documentation
+
+[Default credentials](/credentials.md)

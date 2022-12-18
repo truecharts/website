@@ -1,3 +1,8 @@
 # projectsend
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Projectsend is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself.
+
+## Available Documentation
+

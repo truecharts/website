@@ -1,3 +1,8 @@
 # chevereto
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Chevereto is an image hosting software that allows you to create a beautiful and full-featured image hosting website on your own server.
+
+## Available Documentation
+

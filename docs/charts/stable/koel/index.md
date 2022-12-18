@@ -1,3 +1,9 @@
 # koel
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Koel is a simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side.
+
+## Available Documentation
+
+[Default Username/Password](/credentials.md)

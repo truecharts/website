@@ -1,3 +1,8 @@
 # shlink
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own custom domain.
+
+## Available Documentation
+

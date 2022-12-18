@@ -1,3 +1,8 @@
 # wikijs
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Make documentation a joy to write using Wiki.js's beautiful and intuitive interface!
+
+## Available Documentation
+

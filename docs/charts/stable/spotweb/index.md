@@ -1,3 +1,9 @@
 # spotweb
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Spotweb is a decentralized usenet community based on the Spotnet protocol.
+
+## Available Documentation
+
+[Input Validation](/validation.md)

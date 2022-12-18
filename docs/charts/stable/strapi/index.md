@@ -1,3 +1,8 @@
 # strapi
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Open-source headless CMS. JavaScript, fully customizable and developer-first.
+
+## Available Documentation
+

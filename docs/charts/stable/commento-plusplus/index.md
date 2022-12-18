@@ -1,3 +1,8 @@
 # commento-plusplus
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Commento++ is a free, open source, fast & lightweight comments box that you can embed in your static website instead of Disqus.
+
+## Available Documentation
+

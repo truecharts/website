@@ -1,3 +1,9 @@
 # speedtest-tracker
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
+
+## Available Documentation
+
+[Default Credentials](/credentials.md)

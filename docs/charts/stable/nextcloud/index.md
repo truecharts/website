@@ -1,3 +1,12 @@
 # nextcloud
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A private cloud server that puts the control and security of your own data back into your hands.
+
+## Available Documentation
+
+[Installation Guide](/installation.md)
+[Important Notes](/installation_notes.md)
+[Migration Notes](/migration_guide.md)
+[Input Validation](/validation.md)

@@ -1,3 +1,9 @@
 # discordgsm
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A discord bot that monitors your game server and tracks the live data of your game servers.
+
+## Available Documentation
+
+[Installation Notes](/installation_notes.md)
