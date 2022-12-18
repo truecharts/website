@@ -238,7 +238,6 @@ The intro needs improvement ;)
 |icinga2                   |web                   |PVC      |-              |/etc/icingaweb2                                      |Read/Write|Enabled                |
 |icinga2                   |ssmtp                 |PVC      |-              |/etc/ssmtp                                           |Read/Write|Enabled                |
 |immich                    |uploads               |PVC      |-              |/usr/src/app/upload                                  |Read/Write|Enabled                |
-|immich                    |proxy-conf            |custom   |-              |/etc/nginx/                                          |Read/Write|Enabled                |
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |inventree                 |data                  |PVC      |-              |/home/inventree/data                                 |Read/Write|Enabled                |
 |inventree                 |inventree-nginx       |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
@@ -496,6 +495,7 @@ The intro needs improvement ;)
 |quassel-web               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |radarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |rcon-webadmin             |db                    |PVC      |-              |/opt/rcon-web-admin/db                               |Read/Write|Enabled                |
+|rdesktop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |readarr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |recipes                   |media                 |PVC      |-              |/opt/recipes/mediafiles                              |Read/Write|Enabled                |
 |recipes                   |static                |emptyDir |-              |/opt/recipes/staticfiles                             |Read/Write|Enabled                |
@@ -746,6 +746,7 @@ The intro needs improvement ;)
 |blender-desktop-g3             |storageprojects            |PVC      |-                |/srv/projects                                    |Read/Write|Enabled                |
 |breitbandmessung-de            |config                     |PVC      |-                |/usr/src/app/config                              |Read/Write|Enabled                |
 |breitbandmessung-de            |messurementlogs            |PVC      |-                |/export/                                         |Read/Write|Enabled                |
+|briefkasten                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |btdex                          |btdex                      |PVC      |-                |/opt/btdex/cache                                 |Read/Write|Enabled                |
 |bwapp                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |cadquery-jupyter               |workdir                    |PVC      |-                |/home/cq                                         |Read/Write|Enabled                |
@@ -1147,7 +1148,6 @@ The intro needs improvement ;)
 |raspberrymatic                 |modules                    |hostPath |/lib/modules     |/lib/modules                                     |Read Only |Enabled                |
 |raspberrymatic                 |sys                        |hostPath |/sys             |/sys                                             |Read/Write|Enabled                |
 |raspberrymatic                 |control                    |hostPath |/run/udev/control|/run/udev/control                                |Read/Write|Enabled                |
-|rdesktop                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |reactive-resume                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |red-discordbot                 |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |redisinsight                   |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
