@@ -175,6 +175,7 @@ The intro needs improvement ;)
 |firefox                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |firefox-syncserver        |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |flaresolverr              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|flashpaper                |data                  |PVC      |-              |/var/www/html/data                                   |Read/Write|Enabled                |
 |fleet                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |fleet                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |flexget                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -389,6 +390,8 @@ The intro needs improvement ;)
 |nextpvr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |nextpvr                   |recordings            |PVC      |-              |/recordings                                          |Read/Write|Enabled                |
 |nextpvr                   |buffer                |PVC      |-              |/buffer                                              |Read/Write|Enabled                |
+|nginx-proxy-manager       |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|nginx-proxy-manager       |letsencrypt           |PVC      |-              |/etc/letsencrypt                                     |Read/Write|Enabled                |
 |ngircd                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |ngircd                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |nntp2nntp                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -881,7 +884,6 @@ The intro needs improvement ;)
 |fistfuloffrags                 |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |fivem                          |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |flame                          |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
-|flashpaper                     |data                       |PVC      |-                |/var/www/html/data                               |Read/Write|Enabled                |
 |flatnotes                      |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |flemarr                        |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |flextv                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1048,8 +1050,6 @@ The intro needs improvement ;)
 |neverwinternights-ee           |serverfiles                |PVC      |-                |/nwnee                                           |Read/Write|Enabled                |
 |newyearcountdownclock          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |nexus-oss                      |data                       |PVC      |-                |/nexus-data                                      |Read/Write|Enabled                |
-|nginx-proxy-manager            |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|nginx-proxy-manager            |letsencrypt                |PVC      |-                |/etc/letsencrypt                                 |Read/Write|Enabled                |
 |nightscout                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |noisedash                      |db                         |PVC      |-                |/var/noisedash/db                                |Read/Write|Enabled                |
 |noisedash                      |samples                    |PVC      |-                |/var/noisedash/samples                           |Read/Write|Enabled                |
@@ -1206,6 +1206,7 @@ The intro needs improvement ;)
 |sinusbot                       |scriptspath                |PVC      |-                |/opt/sinusbot/scripts                            |Read/Write|Enabled                |
 |slack-invite                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |snippet-box                    |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
+|snowflake-proxy                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |socials                        |socials                    |PVC      |-                |/app/people                                      |Read/Write|Enabled                |
 |sonarqube                      |data                       |PVC      |-                |/opt/sonarqube/data                              |Read/Write|Enabled                |
 |sonarqube                      |extensions                 |PVC      |-                |/opt/sonarqube/extensions                        |Read/Write|Enabled                |
@@ -1253,6 +1254,8 @@ The intro needs improvement ;)
 |terraria-tshock                |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |theforest                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |theforest                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|thumba                         |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
+|thumba                         |video                      |PVC      |-                |/app/video                                       |Read/Write|Enabled                |
 |thunderbird                    |data                       |PVC      |-                |/thunderbird                                     |Read/Write|Enabled                |
 |timetagger                     |config                     |PVC      |-                |/root/_timetagger                                |Read/Write|Enabled                |
 |tonido                         |tonido                     |PVC      |-                |/unRAID                                          |Read/Write|Enabled                |
