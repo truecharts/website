@@ -46,6 +46,7 @@ const config = {
         },
         blog: {
           routeBasePath: '/news',
+          editUrl: "https://github.com/truecharts/website/tree/master/"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css")
