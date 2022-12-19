@@ -1,3 +1,8 @@
 # storj-node
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Storj is an S3-compatible platform and suite of decentralized applications that allows you to store data in a secure and decentralized manner
+
+## Available Documentation
+
