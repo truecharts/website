@@ -2,6 +2,15 @@
 
 
 
+## [netbox-3.0.15](https://github.com/truecharts/charts/compare/netbox-3.0.14...netbox-3.0.15) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [netbox-3.0.14](https://github.com/truecharts/charts/compare/netbox-3.0.13...netbox-3.0.14) (2022-12-18)
 
 ### Chore

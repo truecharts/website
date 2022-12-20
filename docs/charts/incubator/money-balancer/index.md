@@ -1,3 +1,8 @@
 # money-balancer
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Money Balancer helps you to keep track of who paid for what and calculates your balance with all of your friends.
+
+## Available Documentation
+

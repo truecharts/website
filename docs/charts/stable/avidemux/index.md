@@ -1,3 +1,10 @@
 # avidemux
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/avidemux/installation_notes)
+

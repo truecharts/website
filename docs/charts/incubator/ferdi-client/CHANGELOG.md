@@ -2,6 +2,15 @@
 
 
 
+## [ferdi-client-2.0.4](https://github.com/truecharts/charts/compare/ferdi-client-2.0.3...ferdi-client-2.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [ferdi-client-2.0.3](https://github.com/truecharts/charts/compare/ferdi-client-2.0.2...ferdi-client-2.0.3) (2022-12-13)
 
 ### Chore

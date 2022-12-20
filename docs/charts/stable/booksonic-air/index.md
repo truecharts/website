@@ -1,3 +1,8 @@
 # booksonic-air
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Booksonic is a platform for accessing the audibooks you own wherever you are
+
+## Available Documentation
+

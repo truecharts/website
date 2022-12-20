@@ -1,3 +1,8 @@
 # muximux
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A lightweight portal to view & manage your HTPC apps without having to run anything more than a PHP enabled webserver
+
+## Available Documentation
+

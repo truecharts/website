@@ -1,3 +1,8 @@
 # homelablabelmaker
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+DIY tool to create and print labels for Dell Poweredge and HP Proliant drive caddies.
+
+## Available Documentation
+

@@ -1,3 +1,8 @@
 # rickroll
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Self-hosted Rickrolls. Image is based on Nginx stable alpine, and all the content is local to the Chart.
+
+## Available Documentation
+

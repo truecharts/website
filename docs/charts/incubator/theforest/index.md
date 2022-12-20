@@ -1,3 +1,8 @@
 # theforest
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This Docker will download and install SteamCMD. It will also install The Forest and run it. SERVERNAME: 'The Forest Docker' SERVERPASSWORD: 'Chart' ADMINPASSWORD: 'adminChart' (you can change this in your SERVERFOLDER/config/config.cfg)
+
+## Available Documentation
+

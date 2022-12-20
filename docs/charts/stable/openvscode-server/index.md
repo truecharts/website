@@ -1,3 +1,8 @@
 # openvscode-server
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Openvscode-server provides a version of VS Code that runs a server on a remote machine.
+
+## Available Documentation
+

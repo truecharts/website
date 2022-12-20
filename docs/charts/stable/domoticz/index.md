@@ -1,3 +1,8 @@
 # domoticz
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Domoticz is a Home Automation System that lets you monitor and configure various devices like Lights, Switches and much more.
+
+## Available Documentation
+

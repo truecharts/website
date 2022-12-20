@@ -1,3 +1,8 @@
 # chromium
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Chromium is a free and open-source software project developed by the Google-sponsored Chromium project.
+
+## Available Documentation
+

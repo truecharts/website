@@ -1,3 +1,8 @@
 # pure-ftpd
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server. [br]Creating user by using console "pure-pw useradd admin -u 99 -g 100 -d /home/admin -m"[/br]
+
+## Available Documentation
+

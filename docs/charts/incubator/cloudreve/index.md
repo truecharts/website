@@ -1,3 +1,8 @@
 # cloudreve
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Self-hosted file management and sharing system, supports multiple storage providers
+
+## Available Documentation
+

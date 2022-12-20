@@ -1,3 +1,8 @@
 # grafana-image-renderer
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A Grafana remote image renderer that handles rendering panels &amp; dashboards to PNGs using headless chrome.
+
+## Available Documentation
+

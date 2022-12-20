@@ -1,3 +1,8 @@
 # jelu
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Track what you have read, what you are reading and what you want to read.
+
+## Available Documentation
+

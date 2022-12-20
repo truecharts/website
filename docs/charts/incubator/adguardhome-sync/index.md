@@ -1,3 +1,8 @@
 # adguardhome-sync
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Adguardhome-sync(https://github.com/bakito/adguardhome-sync/) is a tool to synchronize AdGuardHome config to replica instances.
+
+## Available Documentation
+

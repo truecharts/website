@@ -1,3 +1,8 @@
 # rss-proxy
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+RSS-proxy 2+ allows you to do create an ATOM or JSON feed of almost static/dynamic websites or feeds (web to feed), just by analyzing just the HTML structure.
+
+## Available Documentation
+

@@ -1,3 +1,8 @@
 # nano-wallet
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Nano-wallet is a digital payment protocol designed to be accessible and lightweight.
+
+## Available Documentation
+

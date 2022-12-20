@@ -1,3 +1,8 @@
 # golinks
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance.
+
+## Available Documentation
+

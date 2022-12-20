@@ -1,3 +1,10 @@
 # radarr
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A fork of Sonarr to work with movies à la Couchpotato
+
+## Available Documentation
+
+[**Installation Guide**](charts/stable/radarr/installation)
+

@@ -1,3 +1,8 @@
 # browserless-chrome
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Browserless is a web-service that allows for remote clients to connect, drive, and execute headless work
+
+## Available Documentation
+

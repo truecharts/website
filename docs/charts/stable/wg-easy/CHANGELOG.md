@@ -2,6 +2,15 @@
 
 
 
+## [wg-easy-3.0.4](https://github.com/truecharts/charts/compare/wg-easy-3.0.3...wg-easy-3.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [wg-easy-3.0.3](https://github.com/truecharts/charts/compare/wg-easy-3.0.2...wg-easy-3.0.3) (2022-12-13)
 
 ### Chore

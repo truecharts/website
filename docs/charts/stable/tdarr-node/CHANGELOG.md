@@ -2,6 +2,15 @@
 
 
 
+## [tdarr-node-4.0.4](https://github.com/truecharts/charts/compare/tdarr-node-4.0.3...tdarr-node-4.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [tdarr-node-4.0.3](https://github.com/truecharts/charts/compare/tdarr-node-4.0.2...tdarr-node-4.0.3) (2022-12-13)
 
 ### Chore

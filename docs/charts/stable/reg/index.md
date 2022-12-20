@@ -1,3 +1,8 @@
 # reg
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Docker registry v2 command line client and repo listing generator with security checks.
+
+## Available Documentation
+

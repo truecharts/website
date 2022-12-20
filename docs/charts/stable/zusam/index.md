@@ -1,3 +1,8 @@
 # zusam
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Zusam is a free and open-source way to self-host private forums for groups of friends.
+
+## Available Documentation
+

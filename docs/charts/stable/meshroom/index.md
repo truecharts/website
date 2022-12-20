@@ -1,3 +1,10 @@
 # meshroom
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
+
+## Available Documentation
+
+[**Notes**](charts/stable/meshroom/installation_notes)
+

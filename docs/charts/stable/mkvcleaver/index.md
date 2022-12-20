@@ -1,3 +1,10 @@
 # mkvcleaver
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+MKVCleaver is a tool for batch extraction of data from MKV files
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/mkvcleaver/installation_notes)
+

@@ -1,3 +1,8 @@
 # debian-apt-mirror
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This Chart will run apt-mirror and Apache2. This allows you to create a local apt mirror for Debian packages.
+
+## Available Documentation
+

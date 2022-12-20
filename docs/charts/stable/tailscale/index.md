@@ -1,3 +1,10 @@
 # tailscale
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Tailscale lets you connect your devices and users together in your own secure virtual private network
+
+## Available Documentation
+
+[**How-To**](charts/stable/tailscale/How-To-Guide)
+

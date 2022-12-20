@@ -1,3 +1,8 @@
 # syslog-ng
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate logs.
+
+## Available Documentation
+

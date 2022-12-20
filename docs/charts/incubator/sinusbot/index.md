@@ -1,3 +1,8 @@
 # sinusbot
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+SinusBot is a MusicBot that will let you listen to music together with your friends on either TeamSpeak 3 or Discord.
+
+## Available Documentation
+

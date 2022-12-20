@@ -1,3 +1,10 @@
 # mediainfo
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/mediainfo/installation_notes)
+

@@ -1,3 +1,8 @@
 # duckdns
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Duckdns is a free service which will point a DNS (sub domains of duckdns.org) to an IP of your choice.
+
+## Available Documentation
+

@@ -1,3 +1,8 @@
 # flame
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Flame is self-hosted start page for your server. Easily manage your apps and bookmarks with built-in editors.
+
+## Available Documentation
+

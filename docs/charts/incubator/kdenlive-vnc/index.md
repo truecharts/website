@@ -1,3 +1,8 @@
 # kdenlive-vnc
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
+
+## Available Documentation
+

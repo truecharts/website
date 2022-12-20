@@ -1,3 +1,8 @@
 # mininote
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A simple, self-hosted, encrypted Markdown note-taking app built with Vue 3, and Express.
+
+## Available Documentation
+

@@ -1,3 +1,10 @@
 # plaxt
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This Tools provides a way to keep your watched history synced FROM Plex Server To Trakt.tv
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/plaxt/installation_notes)
+

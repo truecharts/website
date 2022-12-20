@@ -1,3 +1,8 @@
 # fileshelter
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+FileShelter is a self-hosted software that allows you to easily share files over the Internet. Just upload one or more files and get an URL back!
+
+## Available Documentation
+

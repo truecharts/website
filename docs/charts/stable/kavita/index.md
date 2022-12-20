@@ -1,3 +1,8 @@
 # kavita
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats
+
+## Available Documentation
+

@@ -6,4 +6,5 @@ Open source asset management
 
 ## Available Documentation
 
-[Initial install](/installation_notes.md)
+[**Initial install**](charts/stable/snipe-it/installation_notes)
+

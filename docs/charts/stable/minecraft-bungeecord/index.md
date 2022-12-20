@@ -1,3 +1,12 @@
 # minecraft-bungeecord
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A Spigot BungeeCord server.
+
+## Available Documentation
+
+[**How To**](charts/stable/minecraft-bungeecord/How-To)
+
+[**Installation Notes**](charts/stable/minecraft-bungeecord/installation_notes)
+

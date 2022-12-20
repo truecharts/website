@@ -2,6 +2,15 @@
 
 
 
+## [wireshark-4.0.7](https://github.com/truecharts/charts/compare/wireshark-4.0.6...wireshark-4.0.7) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [wireshark-4.0.6](https://github.com/truecharts/charts/compare/wireshark-4.0.5...wireshark-4.0.6) (2022-12-13)
 
 ### Chore

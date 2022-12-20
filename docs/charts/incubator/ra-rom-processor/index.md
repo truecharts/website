@@ -1,3 +1,8 @@
 # ra-rom-processor
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Download / Orgainze / Process / Verify / Dedupe / Scrape a ROMs library automatically by matching ROMs to the RetroAchievement.org database.
+
+## Available Documentation
+

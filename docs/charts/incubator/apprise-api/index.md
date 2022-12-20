@@ -1,3 +1,9 @@
 # apprise-api
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Apprise-api(https://github.com/caronc/apprise-api) Takes advantage of Apprise(https://github.com/caronc/apprise) through your network with a user-friendly API.
+
+
+## Available Documentation
+

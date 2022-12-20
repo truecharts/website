@@ -2,6 +2,15 @@
 
 
 
+## [mailpile-2.0.4](https://github.com/truecharts/charts/compare/mailpile-2.0.3...mailpile-2.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [mailpile-2.0.3](https://github.com/truecharts/charts/compare/mailpile-2.0.2...mailpile-2.0.3) (2022-12-13)
 
 ### Chore

@@ -6,4 +6,5 @@ A self-hosted internet performance tracking application that runs speedtest chec
 
 ## Available Documentation
 
-[Default Credentials](/credentials.md)
+[**Default Credentials**](charts/incubator/speedtest-tracker/credentials)
+

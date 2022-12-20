@@ -2,6 +2,15 @@
 
 
 
+## [nzbhydra-13.0.4](https://github.com/truecharts/charts/compare/nzbhydra-13.0.3...nzbhydra-13.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [nzbhydra-13.0.3](https://github.com/truecharts/charts/compare/nzbhydra-13.0.2...nzbhydra-13.0.3) (2022-12-13)
 
 ### Chore

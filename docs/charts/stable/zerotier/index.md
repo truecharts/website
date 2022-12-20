@@ -1,3 +1,10 @@
 # zerotier
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+ZeroTier is a smart programmable Ethernet switch for planet Earth
+
+## Available Documentation
+
+[**How-To**](charts/stable/zerotier/How-To-Guide)
+

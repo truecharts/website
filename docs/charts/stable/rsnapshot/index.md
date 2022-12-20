@@ -1,3 +1,8 @@
 # rsnapshot
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Rsnapshot is a filesystem snapshot utility based on rsync.
+
+## Available Documentation
+

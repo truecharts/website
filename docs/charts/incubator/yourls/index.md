@@ -1,3 +1,8 @@
 # yourls
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener.
+
+## Available Documentation
+

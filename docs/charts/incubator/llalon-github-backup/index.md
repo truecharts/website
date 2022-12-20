@@ -1,3 +1,8 @@
 # llalon-github-backup
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Automatically backup github repositories on schedule. Allows for custom configuration.
+
+## Available Documentation
+

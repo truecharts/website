@@ -2,6 +2,15 @@
 
 
 
+## [authelia-14.0.16](https://github.com/truecharts/charts/compare/authelia-14.0.15...authelia-14.0.16) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [authelia-14.0.15](https://github.com/truecharts/charts/compare/authelia-14.0.13...authelia-14.0.15) (2022-12-18)
 
 ### Chore

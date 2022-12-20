@@ -1,3 +1,8 @@
 # cura-novnc
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Enjoy Cura directly in your browser with this easy to use Chart
+
+## Available Documentation
+

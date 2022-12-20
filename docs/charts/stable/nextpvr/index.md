@@ -1,3 +1,10 @@
 # nextpvr
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+NextPVR is a personal video recorder application, with the goal making it easy to watch or record live TV.
+
+## Available Documentation
+
+[**Default Username/Password**](charts/stable/nextpvr/credentials)
+

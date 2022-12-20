@@ -1,3 +1,8 @@
 # stun-turn-server
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This is a Basic STUN &amp; TURN server that was mainly created for Nextcloud Talk.
+
+## Available Documentation
+

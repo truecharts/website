@@ -1,3 +1,8 @@
 # pylon
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Pylon is a web based integrated development environment.
+
+## Available Documentation
+

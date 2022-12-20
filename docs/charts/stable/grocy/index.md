@@ -1,3 +1,8 @@
 # grocy
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+
+## Available Documentation
+

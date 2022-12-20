@@ -1,3 +1,8 @@
 # ipmi-tools
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This is a Chart with a webGUI to manage a Dell servers fan speeds using IPMI. You must enable IPMI from iDRAC. You can pass credentials through environment variables or enter them in the webGUI at runtime.
+
+## Available Documentation
+

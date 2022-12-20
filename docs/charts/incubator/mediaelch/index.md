@@ -1,3 +1,8 @@
 # mediaelch
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Mediaelch is a Tool to manage your movie and show libary regarding the metadata and artwork.
+
+## Available Documentation
+

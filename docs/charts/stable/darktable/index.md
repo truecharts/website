@@ -1,3 +1,8 @@
 # darktable
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Darktable is an open source photography workflow application and raw developer.
+
+## Available Documentation
+

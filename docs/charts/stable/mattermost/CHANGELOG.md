@@ -2,6 +2,15 @@
 
 
 
+## [mattermost-6.0.12](https://github.com/truecharts/charts/compare/mattermost-6.0.11...mattermost-6.0.12) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [mattermost-6.0.11](https://github.com/truecharts/charts/compare/mattermost-6.0.10...mattermost-6.0.11) (2022-12-18)
 
 ### Chore

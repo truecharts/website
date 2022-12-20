@@ -1,3 +1,8 @@
 # retrobot
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A discord bot that allows you to play old nintendo games with your friends over chat.
+
+## Available Documentation
+

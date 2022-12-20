@@ -1,3 +1,8 @@
 # gokapi
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Gokapi is a lightweight server to share files, which expire after a set amount of downloads or days.
+
+## Available Documentation
+

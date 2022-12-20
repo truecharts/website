@@ -6,7 +6,11 @@ A private cloud server that puts the control and security of your own data back 
 
 ## Available Documentation
 
-[Installation Guide](/installation.md)
-[Important Notes](/installation_notes.md)
-[Migration Notes](/migration_guide.md)
-[Input Validation](/validation.md)
+[**Installation Guide**](charts/stable/nextcloud/installation)
+
+[**Important Notes**](charts/stable/nextcloud/installation_notes)
+
+[**Migration Notes**](charts/stable/nextcloud/migration_guide)
+
+[**Input Validation**](charts/stable/nextcloud/validation)
+

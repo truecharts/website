@@ -1,3 +1,8 @@
 # icloudpd
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+iCloudPD, syncs photos from iDevices to a single directory on TrueNAS.
+
+## Available Documentation
+

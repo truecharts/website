@@ -1,3 +1,8 @@
 # fogproject
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+FOG Project can capture, deploy, and manage Windows, Mac OSX, and various Linux distributions.
+
+## Available Documentation
+

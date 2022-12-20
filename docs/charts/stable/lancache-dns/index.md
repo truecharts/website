@@ -1,3 +1,10 @@
 # lancache-dns
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+DNS Chart service for a steam cache.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/lancache-dns/installation_notes)
+

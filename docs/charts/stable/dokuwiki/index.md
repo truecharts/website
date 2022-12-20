@@ -1,3 +1,8 @@
 # dokuwiki
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Dokuwiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.
+
+## Available Documentation
+

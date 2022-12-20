@@ -1,3 +1,8 @@
 # statping-ng
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Statping-ng aims to be an updated drop-in replacement of statping after development stopped on the original fork.
+
+## Available Documentation
+

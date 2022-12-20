@@ -1,3 +1,10 @@
 # docusaurus
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Docusaurus makes it easy to maintain Open Source documentation websites.
+
+## Available Documentation
+
+[**How-To**](charts/stable/docusaurus/How-To)
+

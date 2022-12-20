@@ -1,3 +1,8 @@
 # qinglong
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A timed task management panel that supports typescript, javaScript, python3, and shell
+
+## Available Documentation
+

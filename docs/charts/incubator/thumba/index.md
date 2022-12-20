@@ -6,4 +6,5 @@ A self hosted Thumbnail generator/finder which creates thumbnails based on folde
 
 ## Available Documentation
 
-[Installation Notes](/installation_notes.md)
+[**Installation Notes**](charts/incubator/thumba/installation_notes)
+

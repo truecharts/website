@@ -1,3 +1,8 @@
 # pwm
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+PWM is a free and opensource password self-service application enabling end-users to reset their enterprise password themselves.
+
+## Available Documentation
+

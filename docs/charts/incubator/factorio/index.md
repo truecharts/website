@@ -1,3 +1,8 @@
 # factorio
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This Chart Chart will download the latest stable release of the game, generate the map and you're ready to play.
+
+## Available Documentation
+

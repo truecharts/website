@@ -1,3 +1,10 @@
 # jdownloader2
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/jdownloader2/installation_notes)
+

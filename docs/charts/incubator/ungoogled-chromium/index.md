@@ -1,3 +1,8 @@
 # ungoogled-chromium
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Ungoogled-Chromium is a lightweight approach to removing Google web service dependency from the Chromium project web browser.
+
+## Available Documentation
+

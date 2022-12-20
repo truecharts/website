@@ -1,3 +1,8 @@
 # shapeshifter-obfuscator
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Shapeshifter-Obfuscator is a Chartized implementation of shapeshifter-dispatcher provided by The Operator Foundation. The shapeshifter suite provides command-line proxy and obfuscation tools that effectively modify packets to evade advanced IDS systems. 
+
+## Available Documentation
+

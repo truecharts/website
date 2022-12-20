@@ -1,3 +1,8 @@
 # mindustry
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This is a Basic Mindustry Server. It will download the preferred version of Mindustry and run it.
+
+## Available Documentation
+

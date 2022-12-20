@@ -1,3 +1,8 @@
 # metatube
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+MetaTube downloads video from YouTube and can add metadata from a specified metadata provider on the downloaded file.
+
+## Available Documentation
+

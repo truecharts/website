@@ -1,3 +1,8 @@
 # tautulli
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A Python based monitoring and tracking tool for Plex Media Server
+
+## Available Documentation
+

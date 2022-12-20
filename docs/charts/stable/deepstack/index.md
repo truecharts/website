@@ -1,3 +1,10 @@
 # deepstack
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+DeepStack AI provides AI features including Face Recognition, Object Detection, Scene Recognition and custom AI Models
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/deepstack/installation_notes)
+

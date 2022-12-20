@@ -1,3 +1,10 @@
 # kodi-headless
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A headless install of kodi in a docker container.
+
+## Available Documentation
+
+[**Default credentials**](charts/stable/kodi-headless/credentials)
+

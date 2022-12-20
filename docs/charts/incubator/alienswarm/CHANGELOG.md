@@ -2,6 +2,15 @@
 
 
 
+## [alienswarm-2.0.4](https://github.com/truecharts/charts/compare/alienswarm-2.0.3...alienswarm-2.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [alienswarm-2.0.3](https://github.com/truecharts/charts/compare/alienswarm-reactivedrop-2.0.2...alienswarm-2.0.3) (2022-12-13)
 
 ### Chore

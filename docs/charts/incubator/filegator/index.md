@@ -1,3 +1,8 @@
 # filegator
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+FileGator is a free, open-source, self-hosted web application for managing files and folders.
+
+## Available Documentation
+

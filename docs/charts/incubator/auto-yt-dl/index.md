@@ -1,3 +1,8 @@
 # auto-yt-dl
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+auto-yt-dl is used to automatically download new Videos of specific YouTube Channels. It features a Web Gui to add and remove Channels from your watch list.
+
+## Available Documentation
+

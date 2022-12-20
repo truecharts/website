@@ -1,3 +1,8 @@
 # traggo
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans.
+
+## Available Documentation
+

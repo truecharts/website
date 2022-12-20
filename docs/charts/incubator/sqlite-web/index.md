@@ -1,3 +1,8 @@
 # sqlite-web
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+sqlite-web is a web-based SQLite database browser written in Python.
+
+## Available Documentation
+

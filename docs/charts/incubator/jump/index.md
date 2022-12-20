@@ -1,3 +1,8 @@
 # jump
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Jump is yet another self-hosted startpage for your server designed to be simple, stylish, fast and secure.
+
+## Available Documentation
+

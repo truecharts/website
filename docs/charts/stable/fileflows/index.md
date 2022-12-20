@@ -1,3 +1,8 @@
 # fileflows
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+An application that lets you automatically process files through a simple rule flow.
+
+## Available Documentation
+

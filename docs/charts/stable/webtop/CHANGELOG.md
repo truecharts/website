@@ -2,6 +2,15 @@
 
 
 
+## [webtop-3.0.8](https://github.com/truecharts/charts/compare/webtop-3.0.7...webtop-3.0.8) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [webtop-3.0.7](https://github.com/truecharts/charts/compare/webtop-3.0.6...webtop-3.0.7) (2022-12-18)
 
 ### Chore

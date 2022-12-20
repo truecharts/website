@@ -1,3 +1,8 @@
 # remotely
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
+
+## Available Documentation
+

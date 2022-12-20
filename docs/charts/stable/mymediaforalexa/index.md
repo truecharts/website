@@ -1,3 +1,10 @@
 # mymediaforalexa
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This is the multi-platform Docker image for My Media for Alexa - https://www.mymediaalexa.com .
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/mymediaforalexa/installation_notes)
+

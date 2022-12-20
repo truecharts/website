@@ -1,3 +1,10 @@
 # lancache-monolithic
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A monolithic lancache service capable of caching all CDNs in a single instance.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/lancache-monolithic/installation_notes)
+

@@ -1,3 +1,10 @@
 # ring-mqtt
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/ring-mqtt/installation_notes)
+

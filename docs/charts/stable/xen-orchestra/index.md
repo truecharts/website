@@ -6,4 +6,5 @@ Xen-Orchestra is a Web-UI for managing your existing XenServer infrastructure.
 
 ## Available Documentation
 
-[Default credentials](/credentials.md)
+[**Default credentials**](charts/stable/xen-orchestra/credentials)
+

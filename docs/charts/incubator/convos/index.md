@@ -1,3 +1,8 @@
 # convos
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Convos is the simplest way to use IRC and it is always online
+
+## Available Documentation
+

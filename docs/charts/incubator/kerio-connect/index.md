@@ -1,3 +1,8 @@
 # kerio-connect
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Kerio Connect is Mail/Groupware like Microsoft Exchange, but running on Linux. More Informations under www.kerio.com/connect
+
+## Available Documentation
+

@@ -2,6 +2,15 @@
 
 
 
+## [picoshare-4.0.5](https://github.com/truecharts/charts/compare/picoshare-4.0.4...picoshare-4.0.5) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [picoshare-4.0.4](https://github.com/truecharts/charts/compare/picoshare-4.0.3...picoshare-4.0.4) (2022-12-13)
 
 ### Chore

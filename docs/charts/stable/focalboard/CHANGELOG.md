@@ -2,6 +2,15 @@
 
 
 
+## [focalboard-12.0.14](https://github.com/truecharts/charts/compare/focalboard-12.0.13...focalboard-12.0.14) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [focalboard-12.0.13](https://github.com/truecharts/charts/compare/focalboard-12.0.12...focalboard-12.0.13) (2022-12-18)
 
 ### Chore

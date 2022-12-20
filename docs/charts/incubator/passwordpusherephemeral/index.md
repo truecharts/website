@@ -1,3 +1,8 @@
 # passwordpusherephemeral
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Ephemeral version requires no other database Chart! PasswordPusher or PWPush is an opensource application to communicate passwords over the web. Links to passwords expire after a certain number of views and/or time has passed.
+
+## Available Documentation
+

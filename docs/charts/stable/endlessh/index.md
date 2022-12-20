@@ -1,3 +1,8 @@
 # endlessh
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.
+
+## Available Documentation
+

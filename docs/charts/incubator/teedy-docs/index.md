@@ -1,3 +1,8 @@
 # teedy-docs
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Teedy is an open-source, lightweight document management system (DMS) for individuals and businesses.
+
+## Available Documentation
+

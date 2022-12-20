@@ -1,3 +1,8 @@
 # xmrig
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Chartised version of XMRig for CPU Mining. Helps turn your TrueNAS server into a Monero / cryptocurrency mining rig. Now optionally works with GPU algorithms as well.
+
+## Available Documentation
+

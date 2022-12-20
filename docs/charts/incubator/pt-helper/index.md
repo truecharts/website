@@ -1,3 +1,8 @@
 # pt-helper
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A tool that can automatically download free seeds and delete them after the free time expires.
+
+## Available Documentation
+

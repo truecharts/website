@@ -1,3 +1,10 @@
 # rcon-webadmin
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Out of the box, RCON Web Admin can check users for high ping, VAC status, or filter the chat for you around the clock.
+
+## Available Documentation
+
+[**Installation Guide**](charts/stable/rcon-webadmin/installation)
+

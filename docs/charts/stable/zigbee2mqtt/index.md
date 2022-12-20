@@ -1,3 +1,8 @@
 # zigbee2mqtt
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Bridges events and allows you to control your Zigbee devices via MQTT
+
+## Available Documentation
+

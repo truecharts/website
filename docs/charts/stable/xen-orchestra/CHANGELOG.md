@@ -2,6 +2,15 @@
 
 
 
+## [xen-orchestra-3.0.9](https://github.com/truecharts/charts/compare/xen-orchestra-3.0.8...xen-orchestra-3.0.9) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [xen-orchestra-3.0.8](https://github.com/truecharts/charts/compare/xen-orchestra-3.0.7...xen-orchestra-3.0.8) (2022-12-18)
 
 ### Chore

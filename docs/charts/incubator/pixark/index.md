@@ -1,3 +1,8 @@
 # pixark
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This Chart will download and install SteamCMD. It will also install PIXARK and run it (a normal server startup of PIXARK can take a long time!).
+
+## Available Documentation
+

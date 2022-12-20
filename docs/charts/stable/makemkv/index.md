@@ -1,3 +1,10 @@
 # makemkv
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/makemkv/installation_notes)
+

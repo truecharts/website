@@ -1,3 +1,10 @@
 # ddns-updater
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Light container updating DNS A and/or AAAA records periodically for multiple DNS providers
+
+## Available Documentation
+
+[**How To**](charts/stable/ddns-updater/How-To)
+

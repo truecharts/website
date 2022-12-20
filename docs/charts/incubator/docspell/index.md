@@ -6,4 +6,5 @@ Docspell is a personal document organizer.
 
 ## Available Documentation
 
-[Installation Notes](/installation-notes.md)
+[**Installation Notes**](charts/incubator/docspell/installation-notes)
+

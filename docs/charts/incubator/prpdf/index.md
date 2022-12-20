@@ -1,3 +1,8 @@
 # prpdf
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan with OCR. Merge etc.
+
+## Available Documentation
+

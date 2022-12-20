@@ -1,3 +1,8 @@
 # youtransfer
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+YouTransfer is a simple but elegant self-hosted file transfer sharing solution.
+
+## Available Documentation
+

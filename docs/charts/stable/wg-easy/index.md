@@ -1,3 +1,10 @@
 # wg-easy
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+The easiest way to run WireGuard VPN + Web-based Admin UI.
+
+## Available Documentation
+
+[**How-To**](charts/stable/wg-easy/setup-guide)
+

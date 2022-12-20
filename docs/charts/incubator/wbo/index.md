@@ -1,3 +1,8 @@
 # wbo
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+WBO is an online collaborative whiteboard that allows many users to draw simultaneously on a large virtual board.
+
+## Available Documentation
+

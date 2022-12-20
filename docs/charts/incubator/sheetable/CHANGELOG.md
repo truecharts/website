@@ -2,6 +2,15 @@
 
 
 
+## [sheetable-3.0.12](https://github.com/truecharts/charts/compare/sheetable-3.0.11...sheetable-3.0.12) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [sheetable-3.0.11](https://github.com/truecharts/charts/compare/sheetable-3.0.10...sheetable-3.0.11) (2022-12-18)
 
 ### Chore

@@ -6,5 +6,7 @@ authentik is an open-source Identity Provider focused on flexibility and versati
 
 ## Available Documentation
 
-[How-To](/how_to.md)
-[Installation notes](/installation_notes.md)
+[**How-To**](charts/stable/authentik/how_to)
+
+[**Installation notes**](charts/stable/authentik/installation_notes)
+

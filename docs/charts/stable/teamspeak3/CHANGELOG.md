@@ -2,6 +2,15 @@
 
 
 
+## [teamspeak3-6.0.4](https://github.com/truecharts/charts/compare/teamspeak3-6.0.3...teamspeak3-6.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [teamspeak3-6.0.3](https://github.com/truecharts/charts/compare/teamspeak3-6.0.2...teamspeak3-6.0.3) (2022-12-13)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [debian-apt-mirror-2.0.4](https://github.com/truecharts/charts/compare/debian-apt-mirror-2.0.3...debian-apt-mirror-2.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [debian-apt-mirror-2.0.3](https://github.com/truecharts/charts/compare/debian-apt-mirror-2.0.2...debian-apt-mirror-2.0.3) (2022-12-13)
 
 ### Chore

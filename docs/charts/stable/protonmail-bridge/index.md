@@ -1,3 +1,10 @@
 # protonmail-bridge
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Container for protonmail bridge to work on the network.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/protonmail-bridge/installation_notes)
+

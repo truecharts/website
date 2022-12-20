@@ -1,3 +1,10 @@
 # crafty-4
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Crafty Controller is a Minecraft Server Control Panel / Launcher.
+
+## Available Documentation
+
+[**Default Credentials**](charts/stable/crafty-4/credentials)
+

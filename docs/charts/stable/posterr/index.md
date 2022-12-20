@@ -1,3 +1,10 @@
 # posterr
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Media display for Plex, Sonarr and Radarr.
+
+## Available Documentation
+
+[**Default Credentials**](charts/stable/posterr/default_credentials)
+

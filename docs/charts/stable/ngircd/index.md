@@ -1,3 +1,8 @@
 # ngircd
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Ngircd is a free, portable and lightweight Internet Relay Chat server for small or private networks.
+
+## Available Documentation
+

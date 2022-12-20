@@ -1,3 +1,8 @@
 # mysql-workbench
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+MySQL Workbench is a unified visual tool for database architects, developers and DBAs.
+
+## Available Documentation
+

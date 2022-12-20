@@ -1,3 +1,8 @@
 # kasm
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Kasm Workspaces is a streaming platform for delivering browser-based access to desktops, applications, and web services.
+
+## Available Documentation
+

@@ -1,3 +1,8 @@
 # explainshell
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Not everyone, especially people new to Linux and Unraid, know what a command that they type i will actually do.
+
+## Available Documentation
+

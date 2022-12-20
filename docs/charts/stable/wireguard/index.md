@@ -1,3 +1,10 @@
 # wireguard
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
+
+## Available Documentation
+
+[**How-To**](charts/stable/wireguard/how-to)
+

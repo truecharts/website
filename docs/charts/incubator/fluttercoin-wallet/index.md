@@ -1,3 +1,8 @@
 # fluttercoin-wallet
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+FlutterCoin may be a coin with the tried and true algorithm of scrypt, but it's definitely anything but ordinary.
+
+## Available Documentation
+

@@ -1,3 +1,8 @@
 # telethon-downloader
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This is a simple Chart that downloads files sent to a telegram bot up to 2000mb using the Telethon library.
+
+## Available Documentation
+

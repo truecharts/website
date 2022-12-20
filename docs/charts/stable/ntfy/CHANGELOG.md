@@ -2,6 +2,15 @@
 
 
 
+## [ntfy-4.0.5](https://github.com/truecharts/charts/compare/ntfy-4.0.4...ntfy-4.0.5) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [ntfy-4.0.4](https://github.com/truecharts/charts/compare/ntfy-4.0.3...ntfy-4.0.4) (2022-12-13)
 
 ### Chore

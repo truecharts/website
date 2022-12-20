@@ -1,3 +1,8 @@
 # bazarr
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements
+
+## Available Documentation
+

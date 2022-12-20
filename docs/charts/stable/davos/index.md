@@ -1,3 +1,8 @@
 # davos
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+An FTP automation tool that periodically scans given host locations for new files.
+
+## Available Documentation
+

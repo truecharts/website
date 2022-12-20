@@ -1,3 +1,8 @@
 # go-auto-yt
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+GoAutoYT makes it easy for you to automatically download videos from as many YouTube channels as you'd like.
+
+## Available Documentation
+

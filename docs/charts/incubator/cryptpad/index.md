@@ -1,3 +1,8 @@
 # cryptpad
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+CryptPad is the Zero Knowledge realtime collaborative editor.[br]mkdir -p /mnt/user/appdata/cryptpad/config [/br]wget -O /mnt/user/appdata/cryptpad/config/config.js https://raw.githubusercontent.com/xwiki-labs/cryptpad/main/config/config.example.js
+
+## Available Documentation
+

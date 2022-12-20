@@ -2,6 +2,15 @@
 
 
 
+## [minisatip-4.0.4](https://github.com/truecharts/charts/compare/minisatip-4.0.3...minisatip-4.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [minisatip-4.0.3](https://github.com/truecharts/charts/compare/minisatip-4.0.2...minisatip-4.0.3) (2022-12-13)
 
 ### Chore

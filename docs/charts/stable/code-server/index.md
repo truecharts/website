@@ -1,3 +1,8 @@
 # code-server
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Run VS Code on any machine anywhere and access it in the browser.
+
+## Available Documentation
+

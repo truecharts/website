@@ -1,3 +1,8 @@
 # android-8-0
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Android in Chart solution with noVNC supported and video recording. Work way better with Intel CPUs because AMD doesn't an cpu graphics card. So with amd cpus can be unusable.
+
+## Available Documentation
+

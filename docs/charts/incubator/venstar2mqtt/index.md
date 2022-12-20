@@ -1,3 +1,8 @@
 # venstar2mqtt
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Simple Chart that allows MQTT to be used to view data and push settings to the Venstar Local API Thermostats.  Local API needs to be enabled on the thermostat.  No Web UI or appdata folder necessary.
+
+## Available Documentation
+

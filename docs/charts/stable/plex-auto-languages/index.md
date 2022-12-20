@@ -1,3 +1,10 @@
 # plex-auto-languages
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Automated language selection for Plex TV Shows.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/plex-auto-languages/installation_notes)
+

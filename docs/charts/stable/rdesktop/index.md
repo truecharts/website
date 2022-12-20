@@ -6,4 +6,5 @@ Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and 
 
 ## Available Documentation
 
-[Default credentials](/credentials.md)
+[**Default credentials**](charts/stable/rdesktop/credentials)
+

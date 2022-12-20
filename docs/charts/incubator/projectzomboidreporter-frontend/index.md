@@ -1,3 +1,8 @@
 # projectzomboidreporter-frontend
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This is the frontend template used in the Project Zomboid Reporter. All visuals used in the final Reporter are pulled from here.
+
+## Available Documentation
+

@@ -1,3 +1,8 @@
 # znc
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Znc is an IRC network bouncer or BNC. It can detach the client from the actual IRC server, and also from selected channels.
+
+## Available Documentation
+

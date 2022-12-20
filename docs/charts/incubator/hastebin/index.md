@@ -1,3 +1,8 @@
 # hastebin
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Alpine-based Chart for Hastebin, the node.js paste service  
+
+## Available Documentation
+

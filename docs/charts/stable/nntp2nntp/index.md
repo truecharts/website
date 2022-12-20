@@ -1,3 +1,8 @@
 # nntp2nntp
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Nntp2nntp proxy allow you to use your NNTP Account from multiple systems, each with own user name and password.
+
+## Available Documentation
+

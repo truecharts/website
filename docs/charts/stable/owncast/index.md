@@ -1,3 +1,8 @@
 # owncast
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+
+## Available Documentation
+

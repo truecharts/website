@@ -1,3 +1,8 @@
 # mocodo-mcd
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Mocodo est un logiciel d'aide  l'enseignement et  la conception des bases de donnes relationnelles.
+
+## Available Documentation
+

@@ -1,3 +1,8 @@
 # deconz
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+deCONZ is an easy to use control software, with which you can set up and control Zigbee networks of any size without further programming effort.
+
+## Available Documentation
+

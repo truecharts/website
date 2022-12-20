@@ -1,3 +1,10 @@
 # czkawka
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Czkawka is a simple, fast and free app to remove unnecessary files from your computer.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/czkawka/installation_notes)
+

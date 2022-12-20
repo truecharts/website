@@ -1,3 +1,8 @@
 # zwavejs2mqtt
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Fully configurable Zwave to MQTT gateway and Control Panel using NodeJS and Vue
+
+## Available Documentation
+

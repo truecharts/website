@@ -1,3 +1,9 @@
 # photostructure
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+[b]PhotoStructure is your new home for all your photos and videos.[/b]
+
+
+## Available Documentation
+

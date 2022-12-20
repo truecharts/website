@@ -6,5 +6,7 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 
 ## Available Documentation
 
-[FAQ](/FAQ.md)
-[Installation notes](/installation-notes.md)
+[**FAQ**](charts/enterprise/blocky/FAQ)
+
+[**Installation notes**](charts/enterprise/blocky/installation-notes)
+

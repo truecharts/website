@@ -1,3 +1,8 @@
 # tracks
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Tracks is a web-based todo application to help you implement the GTD methodology. 
+
+## Available Documentation
+

@@ -1,3 +1,10 @@
 # metallb
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A network load-balancer implementation for Kubernetes using standard routing protocols
+
+## Available Documentation
+
+[**MetalLB Basic Setup**](charts/enterprise/metallb/setup-guide)
+

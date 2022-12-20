@@ -1,3 +1,8 @@
 # timetagger
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+An open source time-tracker with an interactive user experience and powerful reporting.
+
+## Available Documentation
+

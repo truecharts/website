@@ -1,3 +1,8 @@
 # prowlarr
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps.
+
+## Available Documentation
+

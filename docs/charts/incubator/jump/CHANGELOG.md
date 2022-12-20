@@ -2,6 +2,15 @@
 
 
 
+## [jump-2.0.4](https://github.com/truecharts/charts/compare/jump-2.0.3...jump-2.0.4) (2022-12-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [jump-2.0.3](https://github.com/truecharts/charts/compare/jump-2.0.2...jump-2.0.3) (2022-12-13)
 
 ### Chore

@@ -1,3 +1,10 @@
 # omada-controller
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Omada is a SDN tool for TP-Link Omada hardware
+
+## Available Documentation
+
+[**#Installation Notes**](charts/stable/omada-controller/installation_notes)
+

@@ -6,4 +6,5 @@ Koel is a simple web-based personal audio streaming service written in Vue on th
 
 ## Available Documentation
 
-[Default Username/Password](/credentials.md)
+[**Default Username/Password**](charts/stable/koel/credentials)
+

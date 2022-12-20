@@ -1,3 +1,8 @@
 # ps3netsrv
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Allows Multiman or Webman to play game backups.
+
+## Available Documentation
+

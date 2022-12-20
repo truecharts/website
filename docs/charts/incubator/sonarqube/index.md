@@ -1,3 +1,8 @@
 # sonarqube
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+SonarQube is an open source platform for continuous inspection of code quality.   
+
+## Available Documentation
+

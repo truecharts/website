@@ -1,3 +1,8 @@
 # multi-scrobbler
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Track your music listening history from many sources and record to many scrobble clients.
+
+## Available Documentation
+

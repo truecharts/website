@@ -1,3 +1,8 @@
 # onlinecheckyourserver
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This is a simple Chart that will check if a domain name or IP address is pingable and send you a message with Pushover if it goes offline.
+
+## Available Documentation
+

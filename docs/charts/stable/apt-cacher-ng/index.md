@@ -1,3 +1,10 @@
 # apt-cacher-ng
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Apt-Cacher NG is a caching proxy, specialized for package files from Linux distributors, primarily for Debian (and Debian based) distributions but not limited to those.
+
+## Available Documentation
+
+[**How-To**](charts/stable/apt-cacher-ng/how-to)
+

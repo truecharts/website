@@ -1,3 +1,10 @@
 # handbrake
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/handbrake/installation_notes)
+

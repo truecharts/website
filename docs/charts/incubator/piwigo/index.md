@@ -1,3 +1,8 @@
 # piwigo
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+A is photo gallery software for the web, built by an active community of users and developers.
+
+## Available Documentation
+

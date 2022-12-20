@@ -1,3 +1,10 @@
 # qdirstat
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+QDirStat is a graphical application to show where your disk space has gone and to help you to clean it up.
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/qdirstat/installation_notes)
+

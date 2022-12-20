@@ -1,3 +1,10 @@
 # filebrowser
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Filebrowser provides a file managing interface within a specified directory
+
+## Available Documentation
+
+[**Installation notes**](charts/stable/filebrowser/installation_notes)
+

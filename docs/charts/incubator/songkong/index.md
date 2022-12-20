@@ -1,3 +1,8 @@
 # songkong
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Official SongKong Chart repository, Identify your songs and add metadata and artwork automatically
+
+## Available Documentation
+

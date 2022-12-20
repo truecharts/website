@@ -1,3 +1,10 @@
 # valheim
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Valheim dedicated gameserver with automatic update and world backup support
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/valheim/installation_notes)
+

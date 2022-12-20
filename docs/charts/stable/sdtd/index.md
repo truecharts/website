@@ -1,3 +1,8 @@
 # sdtd
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+This chart will download and install SteamCMD. It will also install 7 Days to Die and run it.
+
+## Available Documentation
+

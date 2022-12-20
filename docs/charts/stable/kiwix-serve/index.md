@@ -1,3 +1,10 @@
 # kiwix-serve
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Kiwix enables you to have the whole Wikipedia at hand wherever you go!
+
+## Available Documentation
+
+[**Installation Notes**](charts/stable/kiwix-serve/installation_notes)
+

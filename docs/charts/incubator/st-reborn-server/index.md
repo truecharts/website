@@ -1,3 +1,10 @@
 # st-reborn-server
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Skyrim Together Reborn server files.
+
+## Available Documentation
+
+[**Installation Notes**](charts/incubator/st-reborn-server/installation_notes)
+

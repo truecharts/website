@@ -1,3 +1,8 @@
 # import-ics
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+Runs a python script at a crontab defined interval that downloads/imports ics files into a caldav server.
+
+## Available Documentation
+
