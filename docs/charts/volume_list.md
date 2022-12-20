@@ -1162,8 +1162,6 @@ The intro needs improvement ;)
 |rimgo                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rmlint                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |rmlint                         |searchlocation             |PVC      |-                |/root                                            |Read/Write|Enabled                |
-|rollarr                        |appdata                    |PVC      |-                |/rollar/data.json                                |Read/Write|Enabled                |
-|rollarr                        |prerolls                   |PVC      |-                |/media/prerolls                                  |Read/Write|Enabled                |
 |root                           |appdata                    |PVC      |-                |/appdata                                         |Read/Write|Enabled                |
 |rss-proxy                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rss-to-telegram                |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
