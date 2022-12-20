@@ -1,3 +1,12 @@
 # collabora-online
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+## App Description
+
+An awesome Online Office suite.
+
+## Available Documentation
+
+[**Installation Notes**](charts/dependency/collabora-online/installation_notes)
+
+[**Input Validation**](charts/dependency/collabora-online/validation)
+
