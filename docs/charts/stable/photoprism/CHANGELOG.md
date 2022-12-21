@@ -2,6 +2,24 @@
 
 
 
+## [photoprism-13.0.14](https://github.com/truecharts/charts/compare/photoprism-13.0.13...photoprism-13.0.14) (2022-12-25)
+
+### Fix
+
+- don't overwrite `temp` key from common ([#5780](https://github.com/truecharts/charts/issues/5780))
+  
+  
+
+
+## [photoprism-13.0.13](https://github.com/truecharts/charts/compare/photoprism-13.0.12...photoprism-13.0.13) (2022-12-25)
+
+### Chore
+
+- move temp outside of photoprism folder ([#5776](https://github.com/truecharts/charts/issues/5776))
+  
+  
+
+
 ## [photoprism-13.0.12](https://github.com/truecharts/charts/compare/photoprism-13.0.11...photoprism-13.0.12) (2022-12-19)
 
 ### Chore

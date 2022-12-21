@@ -257,6 +257,7 @@ The intro needs improvement ;)
 |jdownloader2              |output                |PVC      |-              |/output                                              |Read/Write|Enabled                |
 |jellyfin                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |jellyfin                  |cache                 |emptyDir |-              |/cache                                               |Read/Write|Enabled                |
+|jellyfin                  |transcode             |emptyDir |-              |/config/transcodes                                   |Read/Write|Enabled                |
 |jellyseerr                |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |joplin-server             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |k8s-gateway               |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -940,9 +941,11 @@ The intro needs improvement ;)
 |hassconfigurator               |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |hassconfigurator               |hass-config                |PVC      |-                |/hass-config                                     |Read/Write|Enabled                |
 |hastebin                       |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
+|hasty-paste                    |config                     |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |hetzner-ddns                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |hexchat                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |hexo-blog                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|homebox                        |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |homebridge                     |config                     |PVC      |-                |/homebridge                                      |Read/Write|Enabled                |
 |hoobs                          |applicationpath            |PVC      |-                |/hoobs                                           |Read/Write|Enabled                |
 |humhub                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -985,6 +988,8 @@ The intro needs improvement ;)
 |kitana                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |krusader                       |containerpath              |PVC      |-                |/krusader                                        |Read/Write|Enabled                |
 |krusader                       |datapath                   |PVC      |-                |/mnt/user                                        |Read/Write|Enabled                |
+|lama-cleaner                   |torch                      |PVC      |-                |/root/.cache/torch                               |Read/Write|Enabled                |
+|lama-cleaner                   |huggingface                |PVC      |-                |/root/.cache/huggingface                         |Read/Write|Enabled                |
 |lastoasis                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |lastoasis                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |left4dead                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1070,10 +1075,13 @@ The intro needs improvement ;)
 |owi2plex                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |owi2plex                       |owi2plex                   |PVC      |-                |/owi2plex                                        |Read/Write|Enabled                |
 |owi2plex                       |tvh                        |PVC      |-                |/TVH                                             |Read/Write|Enabled                |
+|owntracks                      |store                      |PVC      |-                |/store                                           |Read/Write|Enabled                |
 |passwordpusherephemeral        |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |pastey                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |pavlovvr                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |pavlovvr                       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|penpot                         |data                       |PVC      |-                |/opt/data                                        |Read/Write|Enabled                |
+|penpot                         |assets                     |PVC      |-                |/opt/data/assets                                 |Read/Write|Enabled                |
 |phoronix-test-suite            |appdata                    |PVC      |-                |/var/lib/phoronix-test-suite                     |Read/Write|Enabled                |
 |phoronix-test-suite            |results                    |PVC      |-                |/var/lib/phoronix-test-suite/test-results        |Read/Write|Enabled                |
 |photo-stream                   |storageimages              |PVC      |-                |/photo-stream/photos/original                    |Read/Write|Enabled                |
@@ -1182,6 +1190,7 @@ The intro needs improvement ;)
 |self-service-password          |logs                       |PVC      |-                |/www/logs                                        |Read/Write|Enabled                |
 |send                           |uploadpath                 |PVC      |-                |/uploads                                         |Read/Write|Enabled                |
 |senseai-server                 |data                       |PVC      |-                |/usr/share/CodeProject/SenseAI                   |Read/Write|Enabled                |
+|serpbear                       |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |serviio                        |hostpath2                  |PVC      |-                |/opt/serviio/library                             |Read/Write|Enabled                |
 |serviio                        |hostpath3                  |PVC      |-                |/opt/serviio/plugins                             |Read/Write|Enabled                |
 |serviio                        |hostpath4                  |PVC      |-                |/opt/serviio/log                                 |Read/Write|Enabled                |

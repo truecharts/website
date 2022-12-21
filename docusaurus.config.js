@@ -119,7 +119,7 @@ const config = {
             items: [
               {
                 label: "FAQ",
-                href: "/docs/manual/FAQ"
+                href: "/manual/FAQ"
               }
             ]
           },
@@ -179,7 +179,29 @@ const config = {
 
         //... other Algolia params
       }
-    })
+    }),
+  webpack: {
+    jsLoader: (isServer) => ({
+      loader: require.resolve("swc-loader"),
+      options: {
+        jsc: {
+          parser: {
+            syntax: "typescript",
+            tsx: true,
+          },
+          target: "es2019",
+          transform: {
+            react: {
+              runtime: "automatic",
+            },
+          },
+        },
+        module: {
+          type: isServer ? "commonjs" : "es6",
+        },
+	  },
+	  }),
+	  },
 };
 
 module.exports = config;

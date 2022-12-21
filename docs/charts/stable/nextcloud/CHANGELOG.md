@@ -2,6 +2,46 @@
 
 
 
+## [nextcloud-19.0.29](https://github.com/truecharts/charts/compare/nextcloud-19.0.28...nextcloud-19.0.29) (2022-12-25)
+
+### Chore
+
+- update container image tccr.io/truecharts/nextcloud-fpm to 25.0.2 ([#5740](https://github.com/truecharts/charts/issues/5740))
+  
+  
+
+
+## [nextcloud-19.0.28](https://github.com/truecharts/charts/compare/nextcloud-19.0.27...nextcloud-19.0.28) (2022-12-23)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx-unprivileged to 1.23.3
+  
+  
+
+
+## [nextcloud-19.0.27](https://github.com/truecharts/charts/compare/nextcloud-19.0.26...nextcloud-19.0.27) (2022-12-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx-unprivileged to v1.23.3
+  
+  ### Fix
+
+- temporary patch broken permission init ([#5625](https://github.com/truecharts/charts/issues/5625))
+  
+  
+
+
+## [nextcloud-19.0.26](https://github.com/truecharts/charts/compare/nextcloud-19.0.25...nextcloud-19.0.26) (2022-12-21)
+
+### Chore
+
+- update container image tccr.io/truecharts/nextcloud-fpm to 25.0.2
+  
+  
+
+
 ## [nextcloud-19.0.25](https://github.com/truecharts/charts/compare/nextcloud-19.0.24...nextcloud-19.0.25) (2022-12-20)
 
 ### Chore

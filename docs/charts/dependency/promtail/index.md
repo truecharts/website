@@ -1,3 +1,14 @@
 # promtail
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+![Version: 6.0.8](https://img.shields.io/badge/Version-6.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.7.1"](https://img.shields.io/badge/AppVersion-"2.7.1"-informational?style=flat-square)
+
+Promtail is an agent which ships the contents of local logs to a Loki instance
+
+## Available Documentation
+
+- [**Changelog**](CHANGELOG)
+
+- [**Container Security**](container-security)
+
+- [**Helm Security**](helm-security)
+

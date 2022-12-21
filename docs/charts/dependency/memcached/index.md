@@ -1,3 +1,14 @@
 # memcached
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+![Version: 5.0.16](https://img.shields.io/badge/Version-5.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.6.17"](https://img.shields.io/badge/AppVersion-"1.6.17"-informational?style=flat-square)
+
+Memcached is a memory-backed database caching solution
+
+## Available Documentation
+
+- [**Changelog**](CHANGELOG)
+
+- [**Container Security**](container-security)
+
+- [**Helm Security**](helm-security)
+

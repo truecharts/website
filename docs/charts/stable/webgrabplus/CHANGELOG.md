@@ -2,6 +2,15 @@
 
 
 
+## [webgrabplus-4.0.6](https://github.com/truecharts/charts/compare/webgrabplus-4.0.5...webgrabplus-4.0.6) (2022-12-24)
+
+### Chore
+
+- pin dependencies ([#5688](https://github.com/truecharts/charts/issues/5688))
+  
+  
+
+
 ## [webgrabplus-4.0.5](https://github.com/truecharts/charts/compare/webgrabplus-4.0.4...webgrabplus-4.0.5) (2022-12-19)
 
 ### Chore

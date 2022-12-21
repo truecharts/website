@@ -13,7 +13,13 @@ jobs:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
+      #- name: Set Swap Space
+      #  uses: pierotofy/set-swap-space@master
+      #  with:
+      #    swap-size-gb: 10
+          
       - uses: actions/checkout@v3
+      
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -21,14 +27,19 @@ jobs:
       - uses: borales/actions-yarn@v3.0.0
         with:
           cmd: install --frozen-lockfile
-        env: 
-          NODE_OPTIONS: "--max-old-space-size=7168"
+        env:
+          NODE_OPTIONS: "--max-old-space-size=10000"
+          DOCUSAURUS_SSR_CONCURRENCY: 3
+          SKIP_HTML_MINIFICATION: true
+          
         
       - uses: borales/actions-yarn@v3.0.0
         with:
-          cmd: build
+          cmd: build --no-minify
         env: 
-          NODE_OPTIONS: "--max-old-space-size=7168"
+          NODE_OPTIONS: "--max-old-space-size=10000"
+          DOCUSAURUS_SSR_CONCURRENCY: 3
+          SKIP_HTML_MINIFICATION: true
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus

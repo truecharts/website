@@ -1,3 +1,14 @@
 # mariadb
 
-Currently we're reworking these intropages for each app, please use the menu on the left to select other available documentation pages for each app, including this one.
+![Version: 5.0.17](https://img.shields.io/badge/Version-5.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "10.10.2"](https://img.shields.io/badge/AppVersion-"10.10.2"-informational?style=flat-square)
+
+Fast, reliable, scalable, and easy to use open-source relational database system.
+
+## Available Documentation
+
+- [**Changelog**](CHANGELOG)
+
+- [**Container Security**](container-security)
+
+- [**Helm Security**](helm-security)
+

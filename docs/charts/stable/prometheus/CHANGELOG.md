@@ -2,6 +2,42 @@
 
 
 
+## [prometheus-7.0.29](https://github.com/truecharts/charts/compare/prometheus-7.0.28...prometheus-7.0.29) (2022-12-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/prometheus to 2.41.0
+  
+  
+
+
+## [prometheus-7.0.28](https://github.com/truecharts/charts/compare/prometheus-7.0.27...prometheus-7.0.28) (2022-12-23)
+
+### Chore
+
+- update container image tccr.io/truecharts/alertmanager to v0.25.0
+  
+  
+
+
+## [prometheus-7.0.27](https://github.com/truecharts/charts/compare/prometheus-7.0.26...prometheus-7.0.27) (2022-12-21)
+
+### Chore
+
+- update container image tccr.io/truecharts/prometheus to v2.41.0
+  
+  
+
+
+## [prometheus-7.0.26](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-6.0.4...prometheus-7.0.26) (2022-12-21)
+
+### Chore
+
+- update container image tccr.io/truecharts/prometheus to v
+  
+  
+
+
 ## [prometheus-7.0.25](https://github.com/truecharts/charts/compare/prometheus-7.0.24...prometheus-7.0.25) (2022-12-19)
 
 ### Chore

@@ -1,16 +1,22 @@
 # nextcloud
 
-## App Description
+![Version: 19.0.29](https://img.shields.io/badge/Version-19.0.29-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "25.0.2"](https://img.shields.io/badge/AppVersion-"25.0.2"-informational?style=flat-square)
 
 A private cloud server that puts the control and security of your own data back into your hands.
 
 ## Available Documentation
 
-[**Installation Guide**](charts/stable/nextcloud/installation)
+- [**Changelog**](CHANGELOG)
 
-[**Important Notes**](charts/stable/nextcloud/installation_notes)
+- [**Container Security**](container-security)
 
-[**Migration Notes**](charts/stable/nextcloud/migration_guide)
+- [**Helm Security**](helm-security)
 
-[**Input Validation**](charts/stable/nextcloud/validation)
+- [**Installation Guide**](installation)
+
+- [**Important Notes**](installation_notes)
+
+- [**Migration Notes**](migration_guide)
+
+- [**Input Validation**](validation)
 

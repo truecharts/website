@@ -2,6 +2,15 @@
 
 
 
+## [plex-12.0.5](https://github.com/truecharts/charts/compare/plex-12.0.4...plex-12.0.5) (2022-12-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.30.0.6486
+  
+  
+
+
 ## [plex-12.0.4](https://github.com/truecharts/charts/compare/owi2plex-2.0.3...plex-12.0.4) (2022-12-19)
 
 ### Chore
