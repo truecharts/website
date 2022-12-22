@@ -257,6 +257,7 @@ The intro needs improvement ;)
 |jdownloader2              |output                |PVC      |-              |/output                                              |Read/Write|Enabled                |
 |jellyfin                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |jellyfin                  |cache                 |emptyDir |-              |/cache                                               |Read/Write|Enabled                |
+|jellyfin                  |transcode             |emptyDir |-              |/config/transcodes                                   |Read/Write|Enabled                |
 |jellyseerr                |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |joplin-server             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |k8s-gateway               |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -1070,6 +1071,7 @@ The intro needs improvement ;)
 |owi2plex                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |owi2plex                       |owi2plex                   |PVC      |-                |/owi2plex                                        |Read/Write|Enabled                |
 |owi2plex                       |tvh                        |PVC      |-                |/TVH                                             |Read/Write|Enabled                |
+|owntracks                      |store                      |PVC      |-                |/store                                           |Read/Write|Enabled                |
 |passwordpusherephemeral        |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |pastey                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |pavlovvr                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
