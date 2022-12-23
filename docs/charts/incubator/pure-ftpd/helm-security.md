@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: pure-ftpd/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

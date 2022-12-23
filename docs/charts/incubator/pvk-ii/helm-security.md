@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: pvk-ii/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

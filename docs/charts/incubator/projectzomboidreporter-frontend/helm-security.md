@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: projectzomboidreporter-frontend/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

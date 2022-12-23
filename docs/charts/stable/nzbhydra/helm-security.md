@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: nzbhydra/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

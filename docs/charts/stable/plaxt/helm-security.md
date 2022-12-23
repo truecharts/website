@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: plaxt/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

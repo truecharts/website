@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: seedsync/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

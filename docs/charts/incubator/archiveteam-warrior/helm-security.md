@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: archiveteam-warrior/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

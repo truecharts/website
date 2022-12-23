@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: ddns-go/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

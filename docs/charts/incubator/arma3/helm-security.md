@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: arma3/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

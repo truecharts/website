@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: go-playground/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

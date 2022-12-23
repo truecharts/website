@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: vlmcsd-kms-server/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: terraria-tshock/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

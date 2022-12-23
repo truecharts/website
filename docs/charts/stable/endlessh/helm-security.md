@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: endlessh/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

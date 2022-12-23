@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: dropbox-by-otherguy/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

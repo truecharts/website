@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: obs-ndi/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

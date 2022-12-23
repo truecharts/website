@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: website-shot/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

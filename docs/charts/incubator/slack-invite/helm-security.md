@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: slack-invite/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

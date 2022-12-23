@@ -422,3 +422,2262 @@
 | xxd         |    CVE-2022-2845   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2022-2845">https://access.redhat.com/security/cve/CVE-2022-2845</a><br /><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2845">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2845</a><br /><a href="https://github.com/vim/vim/commit/e98c88c44c308edaea5994b8ad4363e65030968c">https://github.com/vim/vim/commit/e98c88c44c308edaea5994b8ad4363e65030968c</a><br /><a href="https://huntr.dev/bounties/3e1d31ac-1cfd-4a9f-bc5c-213376b69445">https://huntr.dev/bounties/3e1d31ac-1cfd-4a9f-bc5c-213376b69445</a><br /><a href="https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/C72HDIMR3KTTAO7QGTXWUMPBNFUFIBRD/">https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/C72HDIMR3KTTAO7QGTXWUMPBNFUFIBRD/</a><br /><a href="https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XWOJOA7PZZAMBI5GFTL6PWHXMWSDLUXL/">https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XWOJOA7PZZAMBI5GFTL6PWHXMWSDLUXL/</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-2845">https://nvd.nist.gov/vuln/detail/CVE-2022-2845</a><br /></details>  |
 | xxd         |    CVE-2022-2849   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  | <details><summary>Expand...</summary><a href="https://access.redhat.com/security/cve/CVE-2022-2849">https://access.redhat.com/security/cve/CVE-2022-2849</a><br /><a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2849">https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2849</a><br /><a href="https://github.com/vim/vim/commit/f6d39c31d2177549a986d170e192d8351bd571e2">https://github.com/vim/vim/commit/f6d39c31d2177549a986d170e192d8351bd571e2</a><br /><a href="https://huntr.dev/bounties/389aeccd-deb9-49ae-9b6a-24c12d79b02e">https://huntr.dev/bounties/389aeccd-deb9-49ae-9b6a-24c12d79b02e</a><br /><a href="https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XWOJOA7PZZAMBI5GFTL6PWHXMWSDLUXL/">https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/XWOJOA7PZZAMBI5GFTL6PWHXMWSDLUXL/</a><br /><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-2849">https://nvd.nist.gov/vuln/detail/CVE-2022-2849</a><br /></details>  |
 
+# Container Security
+
+##### Detected Containers
+
+          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/mediagoblin:latest@sha256:5e5ab6e7c104861025014ff5b45c0b819b20d04ce097b160078da824b6fd8e02
+          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+
+##### Scan Results
+
+**Container: tccr.io/truecharts/mediagoblin:latest@sha256:5e5ab6e7c104861025014ff5b45c0b819b20d04ce097b160078da824b6fd8e02**
+
+#### Container: tccr.io/truecharts/mediagoblin:latest@sha256:5e5ab6e7c104861025014ff5b45c0b819b20d04ce097b160078da824b6fd8e02 (debian 10.3)
+    
+
+**debian**
+
+      
+| Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
+|:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
+| apt         |    CVE-2020-27350   |   MEDIUM  |  1.8.2 | 1.8.2.2 |
+| apt         |    CVE-2020-3810   |   MEDIUM  |  1.8.2 | 1.8.2.1 |
+| apt         |    CVE-2011-3374   |   LOW  |  1.8.2 |  |
+| bash         |    CVE-2022-3715   |   MEDIUM  |  5.0-4 |  |
+| bash         |    CVE-2019-18276   |   LOW  |  5.0-4 |  |
+| binutils         |    CVE-2017-13716   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-1000876   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-12697   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-12698   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-12699   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-12934   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-17358   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-17359   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-17360   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-17794   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-17985   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-18309   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-18483   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-18484   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-18605   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-18606   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-18607   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-18700   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-18701   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-19931   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-19932   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-20002   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-20623   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-20651   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-20671   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-20673   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-20712   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-9138   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2018-9996   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-1010180   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-1010204   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-12972   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-14250   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-14444   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-17450   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-17451   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-9070   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-9071   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-9073   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-9074   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-9075   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2019-9077   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-16590   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-16591   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-16592   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-16593   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-16599   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-35448   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-35493   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-35494   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-35495   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-35496   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2020-35507   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-20197   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-20284   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-20294   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-3487   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-3530   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-3549   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-3826   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-45078   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2021-46195   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2022-38533   |   LOW  |  2.31.1-16 |  |
+| binutils         |    CVE-2022-4285   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2017-13716   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-1000876   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-12697   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-12698   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-12699   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-12934   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-17358   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-17359   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-17360   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-17794   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-17985   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-18309   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-18483   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-18484   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-18605   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-18606   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-18607   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-18700   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-18701   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-19931   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-19932   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-20002   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-20623   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-20651   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-20671   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-20673   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-20712   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-9138   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2018-9996   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-1010180   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-1010204   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-12972   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-14250   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-14444   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-17450   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-17451   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-9070   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-9071   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-9073   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-9074   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-9075   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2019-9077   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-16590   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-16591   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-16592   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-16593   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-16599   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-35448   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-35493   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-35494   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-35495   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-35496   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2020-35507   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-20197   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-20284   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-20294   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-3487   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-3530   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-3549   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-3826   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-45078   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2021-46195   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2022-38533   |   LOW  |  2.31.1-16 |  |
+| binutils-common         |    CVE-2022-4285   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2017-13716   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-1000876   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-12697   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-12698   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-12699   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-12934   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-17358   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-17359   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-17360   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-17794   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-17985   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-18309   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-18483   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-18484   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-18605   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-18606   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-18607   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-18700   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-18701   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-19931   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-19932   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-20002   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-20623   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-20651   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-20671   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-20673   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-20712   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-9138   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2018-9996   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-1010180   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-1010204   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-12972   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-14250   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-14444   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-17450   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-17451   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-9070   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-9071   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-9073   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-9074   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-9075   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2019-9077   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-16590   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-16591   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-16592   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-16593   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-16599   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-35448   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-35493   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-35494   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-35495   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-35496   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2020-35507   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-20197   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-20284   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-20294   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-3487   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-3530   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-3549   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-3826   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-45078   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2021-46195   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2022-38533   |   LOW  |  2.31.1-16 |  |
+| binutils-x86-64-linux-gnu         |    CVE-2022-4285   |   LOW  |  2.31.1-16 |  |
+| bsdutils         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| bsdutils         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| bzip2         |    DLA-3112-1   |   UNKNOWN  |  1.0.6-9.2~deb10u1 | 1.0.6-9.2~deb10u2 |
+| coreutils         |    CVE-2016-2781   |   LOW  |  8.30-3 |  |
+| coreutils         |    CVE-2017-18018   |   LOW  |  8.30-3 |  |
+| cpp-8         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| cpp-8         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| dbus         |    CVE-2022-42010   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| dbus         |    CVE-2022-42011   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| dbus         |    CVE-2022-42012   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| dbus-user-session         |    CVE-2022-42010   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| dbus-user-session         |    CVE-2022-42011   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| dbus-user-session         |    CVE-2022-42012   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| dirmngr         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| dirmngr         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| dpkg         |    CVE-2022-1664   |   CRITICAL  |  1.19.7 | 1.19.8 |
+| dpkg-dev         |    CVE-2022-1664   |   CRITICAL  |  1.19.7 | 1.19.8 |
+| e2fsprogs         |    CVE-2022-1304   |   HIGH  |  1.44.5-1+deb10u3 |  |
+| fdisk         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| fdisk         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| g++-8         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| g++-8         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| gcc-8         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| gcc-8         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| gcc-8-base         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| gcc-8-base         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| git         |    CVE-2021-21300   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u4 |
+| git         |    CVE-2021-40330   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u4 |
+| git         |    CVE-2022-24765   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u5 |
+| git         |    CVE-2022-29187   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u5 |
+| git         |    CVE-2022-39260   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u5 |
+| git         |    CVE-2022-39253   |   MEDIUM  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u5 |
+| git         |    CVE-2018-1000021   |   LOW  |  1:2.20.1-2+deb10u3 |  |
+| git         |    CVE-2022-24975   |   LOW  |  1:2.20.1-2+deb10u3 |  |
+| git         |    DLA-3239-2   |   UNKNOWN  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u6 |
+| git-man         |    CVE-2021-21300   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u4 |
+| git-man         |    CVE-2021-40330   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u4 |
+| git-man         |    CVE-2022-24765   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u5 |
+| git-man         |    CVE-2022-29187   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u5 |
+| git-man         |    CVE-2022-39260   |   HIGH  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u5 |
+| git-man         |    CVE-2022-39253   |   MEDIUM  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u5 |
+| git-man         |    CVE-2018-1000021   |   LOW  |  1:2.20.1-2+deb10u3 |  |
+| git-man         |    CVE-2022-24975   |   LOW  |  1:2.20.1-2+deb10u3 |  |
+| git-man         |    DLA-3239-2   |   UNKNOWN  |  1:2.20.1-2+deb10u3 | 1:2.20.1-2+deb10u6 |
+| gnupg         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gnupg         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gnupg-l10n         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gnupg-l10n         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gnupg-utils         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gnupg-utils         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gpg         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gpg         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gpg-agent         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gpg-agent         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gpg-wks-client         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gpg-wks-client         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gpg-wks-server         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gpg-wks-server         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gpgconf         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gpgconf         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gpgsm         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gpgsm         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gpgv         |    CVE-2022-34903   |   MEDIUM  |  2.2.12-1+deb10u1 | 2.2.12-1+deb10u2 |
+| gpgv         |    CVE-2019-14855   |   LOW  |  2.2.12-1+deb10u1 |  |
+| gstreamer1.0-plugins-good         |    CVE-2022-1920   |   HIGH  |  1.14.4-1+deb10u1 | 1.14.4-1+deb10u2 |
+| gstreamer1.0-plugins-good         |    CVE-2022-1921   |   HIGH  |  1.14.4-1+deb10u1 | 1.14.4-1+deb10u2 |
+| gstreamer1.0-plugins-good         |    CVE-2022-1922   |   HIGH  |  1.14.4-1+deb10u1 | 1.14.4-1+deb10u2 |
+| gstreamer1.0-plugins-good         |    CVE-2022-1923   |   HIGH  |  1.14.4-1+deb10u1 | 1.14.4-1+deb10u2 |
+| gstreamer1.0-plugins-good         |    CVE-2022-1924   |   HIGH  |  1.14.4-1+deb10u1 | 1.14.4-1+deb10u2 |
+| gstreamer1.0-plugins-good         |    CVE-2022-1925   |   HIGH  |  1.14.4-1+deb10u1 | 1.14.4-1+deb10u2 |
+| gstreamer1.0-plugins-good         |    CVE-2022-2122   |   HIGH  |  1.14.4-1+deb10u1 | 1.14.4-1+deb10u2 |
+| gzip         |    CVE-2022-1271   |   HIGH  |  1.9-3 | 1.9-3+deb10u1 |
+| iproute2         |    CVE-2019-20795   |   MEDIUM  |  4.20.0-2 |  |
+| krb5-locales         |    CVE-2022-42898   |   MEDIUM  |  1.17-3+deb10u3 | 1.17-3+deb10u5 |
+| krb5-locales         |    CVE-2004-0971   |   LOW  |  1.17-3+deb10u3 |  |
+| krb5-locales         |    CVE-2018-5709   |   LOW  |  1.17-3+deb10u3 |  |
+| libaom0         |    CVE-2021-30473   |   CRITICAL  |  1.0.0-3 |  |
+| libaom0         |    CVE-2021-30474   |   CRITICAL  |  1.0.0-3 |  |
+| libaom0         |    CVE-2021-30475   |   CRITICAL  |  1.0.0-3 |  |
+| libaom0         |    CVE-2020-0478   |   HIGH  |  1.0.0-3 |  |
+| libaom0         |    CVE-2020-36131   |   HIGH  |  1.0.0-3 |  |
+| libaom0         |    CVE-2020-36133   |   HIGH  |  1.0.0-3 |  |
+| libaom0         |    CVE-2020-36130   |   MEDIUM  |  1.0.0-3 |  |
+| libaom0         |    CVE-2020-36135   |   MEDIUM  |  1.0.0-3 |  |
+| libapparmor1         |    CVE-2016-1585   |   LOW  |  2.13.2-10 |  |
+| libapt-pkg5.0         |    CVE-2020-27350   |   MEDIUM  |  1.8.2 | 1.8.2.2 |
+| libapt-pkg5.0         |    CVE-2020-3810   |   MEDIUM  |  1.8.2 | 1.8.2.1 |
+| libapt-pkg5.0         |    CVE-2011-3374   |   LOW  |  1.8.2 |  |
+| libasan5         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libasan5         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libass9         |    CVE-2020-24994   |   HIGH  |  1:0.14.0-2 |  |
+| libass9         |    CVE-2020-26682   |   HIGH  |  1:0.14.0-2 |  |
+| libatomic1         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libatomic1         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libavcodec58         |    CVE-2020-20891   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavcodec58         |    CVE-2020-20892   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavcodec58         |    CVE-2020-20896   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavcodec58         |    CVE-2020-21688   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavcodec58         |    CVE-2022-3109   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2022-3964   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2022-3965   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-21697   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavcodec58         |    CVE-2021-3566   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavcodec58         |    CVE-2020-20450   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-20451   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-20898   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22038   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22039   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22040   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22041   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22042   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22043   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22044   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22046   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22048   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22051   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2020-22056   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2021-38090   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2021-38091   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2021-38092   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2021-38093   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    CVE-2021-38094   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavcodec58         |    DLA-3178-1   |   UNKNOWN  |  7:4.1.8-0+deb10u1 | 7:4.1.10-0+deb10u1 |
+| libavfilter7         |    CVE-2020-20891   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavfilter7         |    CVE-2020-20892   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavfilter7         |    CVE-2020-20896   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavfilter7         |    CVE-2020-21688   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavfilter7         |    CVE-2022-3109   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2022-3964   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2022-3965   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-21697   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavfilter7         |    CVE-2021-3566   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavfilter7         |    CVE-2020-20450   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-20451   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-20898   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22038   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22039   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22040   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22041   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22042   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22043   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22044   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22046   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22048   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22051   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2020-22056   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2021-38090   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2021-38091   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2021-38092   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2021-38093   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    CVE-2021-38094   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavfilter7         |    DLA-3178-1   |   UNKNOWN  |  7:4.1.8-0+deb10u1 | 7:4.1.10-0+deb10u1 |
+| libavformat58         |    CVE-2020-20891   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavformat58         |    CVE-2020-20892   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavformat58         |    CVE-2020-20896   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavformat58         |    CVE-2020-21688   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavformat58         |    CVE-2022-3109   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2022-3964   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2022-3965   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-21697   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavformat58         |    CVE-2021-3566   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavformat58         |    CVE-2020-20450   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-20451   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-20898   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22038   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22039   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22040   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22041   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22042   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22043   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22044   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22046   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22048   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22051   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2020-22056   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2021-38090   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2021-38091   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2021-38092   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2021-38093   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    CVE-2021-38094   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavformat58         |    DLA-3178-1   |   UNKNOWN  |  7:4.1.8-0+deb10u1 | 7:4.1.10-0+deb10u1 |
+| libavutil56         |    CVE-2020-20891   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavutil56         |    CVE-2020-20892   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavutil56         |    CVE-2020-20896   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavutil56         |    CVE-2020-21688   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavutil56         |    CVE-2022-3109   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2022-3964   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2022-3965   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-21697   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavutil56         |    CVE-2021-3566   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libavutil56         |    CVE-2020-20450   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-20451   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-20898   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22038   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22039   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22040   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22041   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22042   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22043   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22044   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22046   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22048   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22051   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2020-22056   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2021-38090   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2021-38091   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2021-38092   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2021-38093   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    CVE-2021-38094   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libavutil56         |    DLA-3178-1   |   UNKNOWN  |  7:4.1.8-0+deb10u1 | 7:4.1.10-0+deb10u1 |
+| libbinutils         |    CVE-2017-13716   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-1000876   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-12697   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-12698   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-12699   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-12934   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-17358   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-17359   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-17360   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-17794   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-17985   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-18309   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-18483   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-18484   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-18605   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-18606   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-18607   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-18700   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-18701   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-19931   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-19932   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-20002   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-20623   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-20651   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-20671   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-20673   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-20712   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-9138   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2018-9996   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-1010180   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-1010204   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-12972   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-14250   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-14444   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-17450   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-17451   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-9070   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-9071   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-9073   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-9074   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-9075   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2019-9077   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-16590   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-16591   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-16592   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-16593   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-16599   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-35448   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-35493   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-35494   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-35495   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-35496   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2020-35507   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-20197   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-20284   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-20294   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-3487   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-3530   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-3549   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-3826   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-45078   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2021-46195   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2022-38533   |   LOW  |  2.31.1-16 |  |
+| libbinutils         |    CVE-2022-4285   |   LOW  |  2.31.1-16 |  |
+| libblas3         |    CVE-2021-4048   |   CRITICAL  |  3.8.0-2 |  |
+| libblkid1         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| libblkid1         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| libbluray2         |    DLA-3159-1   |   UNKNOWN  |  1:1.1.0-1 | 1:1.1.0-1+deb10u1 |
+| libbz2-1.0         |    DLA-3112-1   |   UNKNOWN  |  1.0.6-9.2~deb10u1 | 1.0.6-9.2~deb10u2 |
+| libc-bin         |    CVE-2021-33574   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2021-35942   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2022-23218   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2022-23219   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2020-1751   |   HIGH  |  2.28-10 |  |
+| libc-bin         |    CVE-2020-1752   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2020-6096   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2021-3326   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2021-3999   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2016-10228   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2019-25013   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2020-10029   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2020-27618   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2010-4756   |   LOW  |  2.28-10 |  |
+| libc-bin         |    CVE-2018-20796   |   LOW  |  2.28-10 |  |
+| libc-bin         |    CVE-2019-1010022   |   LOW  |  2.28-10 |  |
+| libc-bin         |    CVE-2019-1010023   |   LOW  |  2.28-10 |  |
+| libc-bin         |    CVE-2019-1010024   |   LOW  |  2.28-10 |  |
+| libc-bin         |    CVE-2019-1010025   |   LOW  |  2.28-10 |  |
+| libc-bin         |    CVE-2019-19126   |   LOW  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-bin         |    CVE-2019-9192   |   LOW  |  2.28-10 |  |
+| libc-bin         |    CVE-2021-27645   |   LOW  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2021-33574   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2021-35942   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2022-23218   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2022-23219   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2020-1751   |   HIGH  |  2.28-10 |  |
+| libc-dev-bin         |    CVE-2020-1752   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2020-6096   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2021-3326   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2021-3999   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2016-10228   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2019-25013   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2020-10029   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2020-27618   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2010-4756   |   LOW  |  2.28-10 |  |
+| libc-dev-bin         |    CVE-2018-20796   |   LOW  |  2.28-10 |  |
+| libc-dev-bin         |    CVE-2019-1010022   |   LOW  |  2.28-10 |  |
+| libc-dev-bin         |    CVE-2019-1010023   |   LOW  |  2.28-10 |  |
+| libc-dev-bin         |    CVE-2019-1010024   |   LOW  |  2.28-10 |  |
+| libc-dev-bin         |    CVE-2019-1010025   |   LOW  |  2.28-10 |  |
+| libc-dev-bin         |    CVE-2019-19126   |   LOW  |  2.28-10 | 2.28-10+deb10u2 |
+| libc-dev-bin         |    CVE-2019-9192   |   LOW  |  2.28-10 |  |
+| libc-dev-bin         |    CVE-2021-27645   |   LOW  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2021-33574   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2021-35942   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2022-23218   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2022-23219   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2020-1751   |   HIGH  |  2.28-10 |  |
+| libc6         |    CVE-2020-1752   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2020-6096   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2021-3326   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2021-3999   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2016-10228   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2019-25013   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2020-10029   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2020-27618   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2010-4756   |   LOW  |  2.28-10 |  |
+| libc6         |    CVE-2018-20796   |   LOW  |  2.28-10 |  |
+| libc6         |    CVE-2019-1010022   |   LOW  |  2.28-10 |  |
+| libc6         |    CVE-2019-1010023   |   LOW  |  2.28-10 |  |
+| libc6         |    CVE-2019-1010024   |   LOW  |  2.28-10 |  |
+| libc6         |    CVE-2019-1010025   |   LOW  |  2.28-10 |  |
+| libc6         |    CVE-2019-19126   |   LOW  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6         |    CVE-2019-9192   |   LOW  |  2.28-10 |  |
+| libc6         |    CVE-2021-27645   |   LOW  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2021-33574   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2021-35942   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2022-23218   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2022-23219   |   CRITICAL  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2020-1751   |   HIGH  |  2.28-10 |  |
+| libc6-dev         |    CVE-2020-1752   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2020-6096   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2021-3326   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2021-3999   |   HIGH  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2016-10228   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2019-25013   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2020-10029   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2020-27618   |   MEDIUM  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2010-4756   |   LOW  |  2.28-10 |  |
+| libc6-dev         |    CVE-2018-20796   |   LOW  |  2.28-10 |  |
+| libc6-dev         |    CVE-2019-1010022   |   LOW  |  2.28-10 |  |
+| libc6-dev         |    CVE-2019-1010023   |   LOW  |  2.28-10 |  |
+| libc6-dev         |    CVE-2019-1010024   |   LOW  |  2.28-10 |  |
+| libc6-dev         |    CVE-2019-1010025   |   LOW  |  2.28-10 |  |
+| libc6-dev         |    CVE-2019-19126   |   LOW  |  2.28-10 | 2.28-10+deb10u2 |
+| libc6-dev         |    CVE-2019-9192   |   LOW  |  2.28-10 |  |
+| libc6-dev         |    CVE-2021-27645   |   LOW  |  2.28-10 | 2.28-10+deb10u2 |
+| libcaca0         |    CVE-2021-30498   |   HIGH  |  0.99.beta19-2.1 |  |
+| libcaca0         |    CVE-2021-30499   |   HIGH  |  0.99.beta19-2.1 |  |
+| libcaca0         |    CVE-2021-3410   |   HIGH  |  0.99.beta19-2.1 |  |
+| libcaca0         |    CVE-2022-0856   |   LOW  |  0.99.beta19-2.1 |  |
+| libcairo-gobject2         |    CVE-2017-7475   |   LOW  |  1.16.0-4+deb10u1 |  |
+| libcairo-gobject2         |    CVE-2018-18064   |   LOW  |  1.16.0-4+deb10u1 |  |
+| libcairo-gobject2         |    CVE-2019-6461   |   LOW  |  1.16.0-4+deb10u1 |  |
+| libcairo-gobject2         |    CVE-2019-6462   |   LOW  |  1.16.0-4+deb10u1 |  |
+| libcairo2         |    CVE-2017-7475   |   LOW  |  1.16.0-4+deb10u1 |  |
+| libcairo2         |    CVE-2018-18064   |   LOW  |  1.16.0-4+deb10u1 |  |
+| libcairo2         |    CVE-2019-6461   |   LOW  |  1.16.0-4+deb10u1 |  |
+| libcairo2         |    CVE-2019-6462   |   LOW  |  1.16.0-4+deb10u1 |  |
+| libcc1-0         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libcc1-0         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libcom-err2         |    CVE-2022-1304   |   HIGH  |  1.44.5-1+deb10u3 |  |
+| libcroco3         |    CVE-2017-8834   |   LOW  |  0.6.12-3 |  |
+| libcroco3         |    CVE-2017-8871   |   LOW  |  0.6.12-3 |  |
+| libcroco3         |    CVE-2020-12825   |   LOW  |  0.6.12-3 |  |
+| libcurl3-gnutls         |    CVE-2022-32221   |   CRITICAL  |  7.64.0-4+deb10u2 |  |
+| libcurl3-gnutls         |    CVE-2021-22946   |   HIGH  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-22576   |   HIGH  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-27781   |   HIGH  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-27782   |   HIGH  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-43551   |   HIGH  |  7.64.0-4+deb10u2 |  |
+| libcurl3-gnutls         |    CVE-2021-22947   |   MEDIUM  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-27774   |   MEDIUM  |  7.64.0-4+deb10u2 |  |
+| libcurl3-gnutls         |    CVE-2022-27776   |   MEDIUM  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-32206   |   MEDIUM  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-32208   |   MEDIUM  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-43552   |   MEDIUM  |  7.64.0-4+deb10u2 |  |
+| libcurl3-gnutls         |    CVE-2021-22898   |   LOW  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2021-22922   |   LOW  |  7.64.0-4+deb10u2 |  |
+| libcurl3-gnutls         |    CVE-2021-22923   |   LOW  |  7.64.0-4+deb10u2 |  |
+| libcurl3-gnutls         |    CVE-2021-22924   |   LOW  |  7.64.0-4+deb10u2 | 7.64.0-4+deb10u3 |
+| libcurl3-gnutls         |    CVE-2022-35252   |   LOW  |  7.64.0-4+deb10u2 |  |
+| libdb5.3         |    CVE-2019-8457   |   CRITICAL  |  5.3.28+dfsg1-0.5 |  |
+| libdbus-1-3         |    CVE-2022-42010   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| libdbus-1-3         |    CVE-2022-42011   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| libdbus-1-3         |    CVE-2022-42012   |   MEDIUM  |  1.12.20-0+deb10u1 | 1.12.24-0+deb10u1 |
+| libde265-0         |    CVE-2020-21598   |   HIGH  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2021-36409   |   HIGH  |  1.0.3-1 | 1.0.3-1+deb10u1 |
+| libde265-0         |    CVE-2020-21594   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21595   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21596   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21597   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21599   |   MEDIUM  |  1.0.3-1 | 1.0.3-1+deb10u1 |
+| libde265-0         |    CVE-2020-21600   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21601   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21602   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21603   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21604   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21605   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2020-21606   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2021-35452   |   MEDIUM  |  1.0.3-1 | 1.0.3-1+deb10u1 |
+| libde265-0         |    CVE-2021-36408   |   MEDIUM  |  1.0.3-1 | 1.0.3-1+deb10u1 |
+| libde265-0         |    CVE-2021-36410   |   MEDIUM  |  1.0.3-1 | 1.0.3-1+deb10u1 |
+| libde265-0         |    CVE-2021-36411   |   MEDIUM  |  1.0.3-1 | 1.0.3-1+deb10u1 |
+| libde265-0         |    CVE-2022-43235   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43236   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43237   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43238   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43239   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43240   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43241   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43242   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43243   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43244   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43245   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43248   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43249   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43250   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43252   |   MEDIUM  |  1.0.3-1 |  |
+| libde265-0         |    CVE-2022-43253   |   MEDIUM  |  1.0.3-1 |  |
+| libdpkg-perl         |    CVE-2022-1664   |   CRITICAL  |  1.19.7 | 1.19.8 |
+| libexpat1         |    CVE-2022-22822   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-22823   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-22824   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-23852   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-25235   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1         |    CVE-2022-25236   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1         |    CVE-2022-25315   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1         |    CVE-2022-40674   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u5 |
+| libexpat1         |    CVE-2021-45960   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2021-46143   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-22825   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-22826   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-22827   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-23990   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1         |    CVE-2022-25314   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1         |    CVE-2022-43680   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u6 |
+| libexpat1         |    CVE-2022-25313   |   MEDIUM  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1         |    CVE-2013-0340   |   LOW  |  2.2.6-2+deb10u1 |  |
+| libexpat1         |    DSA-5085-2   |   UNKNOWN  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u4 |
+| libexpat1-dev         |    CVE-2022-22822   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-22823   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-22824   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-23852   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-25235   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1-dev         |    CVE-2022-25236   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1-dev         |    CVE-2022-25315   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1-dev         |    CVE-2022-40674   |   CRITICAL  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u5 |
+| libexpat1-dev         |    CVE-2021-45960   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2021-46143   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-22825   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-22826   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-22827   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-23990   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u2 |
+| libexpat1-dev         |    CVE-2022-25314   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1-dev         |    CVE-2022-43680   |   HIGH  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u6 |
+| libexpat1-dev         |    CVE-2022-25313   |   MEDIUM  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u3 |
+| libexpat1-dev         |    CVE-2013-0340   |   LOW  |  2.2.6-2+deb10u1 |  |
+| libexpat1-dev         |    DSA-5085-2   |   UNKNOWN  |  2.2.6-2+deb10u1 | 2.2.6-2+deb10u4 |
+| libext2fs2         |    CVE-2022-1304   |   HIGH  |  1.44.5-1+deb10u3 |  |
+| libfaad2         |    CVE-2018-20196   |   HIGH  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2019-6956   |   HIGH  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2021-32272   |   HIGH  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2021-32273   |   HIGH  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2021-32274   |   HIGH  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2021-32277   |   HIGH  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2021-32278   |   HIGH  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2018-20199   |   MEDIUM  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2018-20360   |   MEDIUM  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfaad2         |    CVE-2021-32276   |   MEDIUM  |  2.8.8-3 | 2.10.0-1~deb10u1 |
+| libfdisk1         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| libfdisk1         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| libflac-dev         |    CVE-2020-0499   |   MEDIUM  |  1.3.2-3 | 1.3.2-3+deb10u1 |
+| libflac-dev         |    CVE-2021-0561   |   MEDIUM  |  1.3.2-3 | 1.3.2-3+deb10u2 |
+| libflac8         |    CVE-2020-0499   |   MEDIUM  |  1.3.2-3 | 1.3.2-3+deb10u1 |
+| libflac8         |    CVE-2021-0561   |   MEDIUM  |  1.3.2-3 | 1.3.2-3+deb10u2 |
+| libfreetype6         |    CVE-2022-27404   |   CRITICAL  |  2.9.1-3+deb10u2 | 2.9.1-3+deb10u3 |
+| libfreetype6         |    CVE-2022-27405   |   HIGH  |  2.9.1-3+deb10u2 | 2.9.1-3+deb10u3 |
+| libfreetype6         |    CVE-2022-27406   |   HIGH  |  2.9.1-3+deb10u2 | 2.9.1-3+deb10u3 |
+| libfreetype6         |    CVE-2022-31782   |   LOW  |  2.9.1-3+deb10u2 |  |
+| libfribidi0         |    CVE-2022-25308   |   HIGH  |  1.0.5-3.1+deb10u1 | 1.0.5-3.1+deb10u2 |
+| libfribidi0         |    CVE-2022-25309   |   MEDIUM  |  1.0.5-3.1+deb10u1 | 1.0.5-3.1+deb10u2 |
+| libfribidi0         |    CVE-2022-25310   |   MEDIUM  |  1.0.5-3.1+deb10u1 | 1.0.5-3.1+deb10u2 |
+| libgcc-8-dev         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libgcc-8-dev         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libgcc1         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libgcc1         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libgcrypt20         |    CVE-2021-33560   |   HIGH  |  1.8.4-5 |  |
+| libgcrypt20         |    CVE-2019-13627   |   MEDIUM  |  1.8.4-5 |  |
+| libgcrypt20         |    CVE-2021-40528   |   MEDIUM  |  1.8.4-5 | 1.8.4-5+deb10u1 |
+| libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.4-5 |  |
+| libgfortran5         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libgfortran5         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libglib2.0-0         |    CVE-2021-3800   |   HIGH  |  2.58.3-2+deb10u3 | 2.58.3-2+deb10u4 |
+| libglib2.0-0         |    CVE-2012-0039   |   LOW  |  2.58.3-2+deb10u3 |  |
+| libglib2.0-0         |    CVE-2020-35457   |   LOW  |  2.58.3-2+deb10u3 |  |
+| libglib2.0-data         |    CVE-2021-3800   |   HIGH  |  2.58.3-2+deb10u3 | 2.58.3-2+deb10u4 |
+| libglib2.0-data         |    CVE-2012-0039   |   LOW  |  2.58.3-2+deb10u3 |  |
+| libglib2.0-data         |    CVE-2020-35457   |   LOW  |  2.58.3-2+deb10u3 |  |
+| libgmp10         |    CVE-2021-43618   |   HIGH  |  2:6.1.2+dfsg-4 | 2:6.1.2+dfsg-4+deb10u1 |
+| libgnutls30         |    CVE-2021-20231   |   CRITICAL  |  3.6.7-4+deb10u2 | 3.6.7-4+deb10u7 |
+| libgnutls30         |    CVE-2021-20232   |   CRITICAL  |  3.6.7-4+deb10u2 | 3.6.7-4+deb10u7 |
+| libgnutls30         |    CVE-2020-11501   |   HIGH  |  3.6.7-4+deb10u2 | 3.6.7-4+deb10u3 |
+| libgnutls30         |    CVE-2020-13777   |   HIGH  |  3.6.7-4+deb10u2 | 3.6.7-4+deb10u4 |
+| libgnutls30         |    CVE-2020-24659   |   HIGH  |  3.6.7-4+deb10u2 | 3.6.7-4+deb10u7 |
+| libgnutls30         |    CVE-2022-2509   |   HIGH  |  3.6.7-4+deb10u2 | 3.6.7-4+deb10u9 |
+| libgnutls30         |    CVE-2021-4209   |   MEDIUM  |  3.6.7-4+deb10u2 | 3.6.7-4+deb10u9 |
+| libgnutls30         |    CVE-2011-3389   |   LOW  |  3.6.7-4+deb10u2 |  |
+| libgomp1         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libgomp1         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libgssapi-krb5-2         |    CVE-2022-42898   |   MEDIUM  |  1.17-3+deb10u3 | 1.17-3+deb10u5 |
+| libgssapi-krb5-2         |    CVE-2004-0971   |   LOW  |  1.17-3+deb10u3 |  |
+| libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.17-3+deb10u3 |  |
+| libgupnp-1.0-4         |    CVE-2021-33516   |   HIGH  |  1.0.5-0+deb10u1 |  |
+| libharfbuzz0b         |    CVE-2022-33068   |   MEDIUM  |  2.3.1-1 |  |
+| libhogweed4         |    CVE-2021-20305   |   HIGH  |  3.4.1-1 | 3.4.1-1+deb10u1 |
+| libhogweed4         |    CVE-2021-3580   |   HIGH  |  3.4.1-1 | 3.4.1-1+deb10u1 |
+| libicu63         |    CVE-2020-21913   |   MEDIUM  |  63.1-6+deb10u1 | 63.1-6+deb10u2 |
+| libidn2-0         |    CVE-2019-12290   |   HIGH  |  2.0.5-1+deb10u1 |  |
+| libip4tc0         |    CVE-2012-2663   |   LOW  |  1.8.2-4 |  |
+| libip4tc0         |    CVE-2019-11360   |   LOW  |  1.8.2-4 |  |
+| libitm1         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libitm1         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libjack-jackd2-0         |    CVE-2019-13351   |   LOW  |  1.9.12~dfsg-2 |  |
+| libjbig0         |    CVE-2017-9937   |   LOW  |  2.1-3.1 |  |
+| libjpeg62-turbo         |    CVE-2020-35538   |   MEDIUM  |  1:1.5.2-2+deb10u1 |  |
+| libjpeg62-turbo         |    CVE-2021-46822   |   MEDIUM  |  1:1.5.2-2+deb10u1 |  |
+| libjpeg62-turbo         |    CVE-2017-15232   |   LOW  |  1:1.5.2-2+deb10u1 |  |
+| libjpeg62-turbo         |    CVE-2018-11813   |   LOW  |  1:1.5.2-2+deb10u1 |  |
+| libjpeg62-turbo         |    CVE-2020-17541   |   LOW  |  1:1.5.2-2+deb10u1 |  |
+| libjs-jquery         |    CVE-2007-2379   |   LOW  |  3.3.1~dfsg-3+deb10u1 |  |
+| libjs-jquery         |    CVE-2018-18405   |   LOW  |  3.3.1~dfsg-3+deb10u1 |  |
+| libk5crypto3         |    CVE-2022-42898   |   MEDIUM  |  1.17-3+deb10u3 | 1.17-3+deb10u5 |
+| libk5crypto3         |    CVE-2004-0971   |   LOW  |  1.17-3+deb10u3 |  |
+| libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.17-3+deb10u3 |  |
+| libkrb5-3         |    CVE-2022-42898   |   MEDIUM  |  1.17-3+deb10u3 | 1.17-3+deb10u5 |
+| libkrb5-3         |    CVE-2004-0971   |   LOW  |  1.17-3+deb10u3 |  |
+| libkrb5-3         |    CVE-2018-5709   |   LOW  |  1.17-3+deb10u3 |  |
+| libkrb5support0         |    CVE-2022-42898   |   MEDIUM  |  1.17-3+deb10u3 | 1.17-3+deb10u5 |
+| libkrb5support0         |    CVE-2004-0971   |   LOW  |  1.17-3+deb10u3 |  |
+| libkrb5support0         |    CVE-2018-5709   |   LOW  |  1.17-3+deb10u3 |  |
+| libksba8         |    CVE-2022-3515   |   HIGH  |  1.3.5-2 | 1.3.5-2+deb10u1 |
+| libksba8         |    CVE-2022-47629   |   UNKNOWN  |  1.3.5-2 |  |
+| liblapack3         |    CVE-2021-4048   |   CRITICAL  |  3.8.0-2 |  |
+| libldap-2.4-2         |    CVE-2022-29155   |   CRITICAL  |  2.4.47+dfsg-3+deb10u6 | 2.4.47+dfsg-3+deb10u7 |
+| libldap-2.4-2         |    CVE-2015-3276   |   LOW  |  2.4.47+dfsg-3+deb10u6 |  |
+| libldap-2.4-2         |    CVE-2017-14159   |   LOW  |  2.4.47+dfsg-3+deb10u6 |  |
+| libldap-2.4-2         |    CVE-2017-17740   |   LOW  |  2.4.47+dfsg-3+deb10u6 |  |
+| libldap-2.4-2         |    CVE-2020-15719   |   LOW  |  2.4.47+dfsg-3+deb10u6 |  |
+| libldap-common         |    CVE-2022-29155   |   CRITICAL  |  2.4.47+dfsg-3+deb10u6 | 2.4.47+dfsg-3+deb10u7 |
+| libldap-common         |    CVE-2015-3276   |   LOW  |  2.4.47+dfsg-3+deb10u6 |  |
+| libldap-common         |    CVE-2017-14159   |   LOW  |  2.4.47+dfsg-3+deb10u6 |  |
+| libldap-common         |    CVE-2017-17740   |   LOW  |  2.4.47+dfsg-3+deb10u6 |  |
+| libldap-common         |    CVE-2020-15719   |   LOW  |  2.4.47+dfsg-3+deb10u6 |  |
+| liblsan0         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| liblsan0         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| liblz4-1         |    CVE-2021-3520   |   CRITICAL  |  1.8.3-1 | 1.8.3-1+deb10u1 |
+| liblz4-1         |    CVE-2019-17543   |   LOW  |  1.8.3-1 |  |
+| liblzma5         |    CVE-2022-1271   |   HIGH  |  5.2.4-1 | 5.2.4-1+deb10u1 |
+| libmount1         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| libmount1         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| libmpx2         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libmpx2         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libmysofa0         |    CVE-2021-3756   |   CRITICAL  |  0.6~dfsg0-3+deb10u1 |  |
+| libmysofa0         |    CVE-2020-36152   |   HIGH  |  0.6~dfsg0-3+deb10u1 |  |
+| libmysofa0         |    CVE-2020-6860   |   HIGH  |  0.6~dfsg0-3+deb10u1 |  |
+| libmysofa0         |    CVE-2019-20016   |   MEDIUM  |  0.6~dfsg0-3+deb10u1 |  |
+| libmysofa0         |    CVE-2020-36148   |   MEDIUM  |  0.6~dfsg0-3+deb10u1 |  |
+| libmysofa0         |    CVE-2020-36149   |   MEDIUM  |  0.6~dfsg0-3+deb10u1 |  |
+| libmysofa0         |    CVE-2020-36150   |   MEDIUM  |  0.6~dfsg0-3+deb10u1 |  |
+| libmysofa0         |    CVE-2020-36151   |   MEDIUM  |  0.6~dfsg0-3+deb10u1 |  |
+| libncurses6         |    CVE-2022-29458   |   HIGH  |  6.1+20181013-2+deb10u2 | 6.1+20181013-2+deb10u3 |
+| libncurses6         |    CVE-2021-39537   |   LOW  |  6.1+20181013-2+deb10u2 |  |
+| libncursesw6         |    CVE-2022-29458   |   HIGH  |  6.1+20181013-2+deb10u2 | 6.1+20181013-2+deb10u3 |
+| libncursesw6         |    CVE-2021-39537   |   LOW  |  6.1+20181013-2+deb10u2 |  |
+| libnettle6         |    CVE-2021-20305   |   HIGH  |  3.4.1-1 | 3.4.1-1+deb10u1 |
+| libnettle6         |    CVE-2021-3580   |   HIGH  |  3.4.1-1 | 3.4.1-1+deb10u1 |
+| libnghttp2-14         |    CVE-2020-11080   |   HIGH  |  1.36.0-2+deb10u1 |  |
+| libnode-dev         |    CVE-2021-22930   |   CRITICAL  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode-dev         |    CVE-2021-22940   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode-dev         |    CVE-2021-44531   |   HIGH  |  10.24.0~dfsg-1~deb10u1 |  |
+| libnode-dev         |    CVE-2022-21824   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode-dev         |    CVE-2022-32212   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode-dev         |    CVE-2022-43548   |   HIGH  |  10.24.0~dfsg-1~deb10u1 |  |
+| libnode-dev         |    CVE-2021-22939   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode-dev         |    CVE-2021-44532   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 |  |
+| libnode-dev         |    CVE-2021-44533   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 |  |
+| libnode64         |    CVE-2021-22930   |   CRITICAL  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode64         |    CVE-2021-22940   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode64         |    CVE-2021-44531   |   HIGH  |  10.24.0~dfsg-1~deb10u1 |  |
+| libnode64         |    CVE-2022-21824   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode64         |    CVE-2022-32212   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode64         |    CVE-2022-43548   |   HIGH  |  10.24.0~dfsg-1~deb10u1 |  |
+| libnode64         |    CVE-2021-22939   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| libnode64         |    CVE-2021-44532   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 |  |
+| libnode64         |    CVE-2021-44533   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 |  |
+| libnss-systemd         |    CVE-2019-3843   |   HIGH  |  241-7~deb10u8 |  |
+| libnss-systemd         |    CVE-2019-3844   |   HIGH  |  241-7~deb10u8 |  |
+| libnss-systemd         |    CVE-2021-3997   |   MEDIUM  |  241-7~deb10u8 |  |
+| libnss-systemd         |    CVE-2022-3821   |   MEDIUM  |  241-7~deb10u8 |  |
+| libnss-systemd         |    CVE-2022-4415   |   MEDIUM  |  241-7~deb10u8 |  |
+| libnss-systemd         |    CVE-2013-4392   |   LOW  |  241-7~deb10u8 |  |
+| libnss-systemd         |    CVE-2019-20386   |   LOW  |  241-7~deb10u8 |  |
+| libnss-systemd         |    CVE-2020-13529   |   LOW  |  241-7~deb10u8 |  |
+| libopenexr23         |    CVE-2021-20298   |   HIGH  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-20299   |   HIGH  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2020-16587   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2020-16588   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2020-16589   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-20296   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-20300   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-20302   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-20303   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-23215   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-26260   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3474   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3475   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3476   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3477   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3478   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3479   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3598   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3605   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3933   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-3941   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2021-45942   |   MEDIUM  |  2.2.1-4.1+deb10u1 | 2.2.1-4.1+deb10u2 |
+| libopenexr23         |    CVE-2017-14988   |   LOW  |  2.2.1-4.1+deb10u1 |  |
+| libopenexr23         |    CVE-2018-18443   |   LOW  |  2.2.1-4.1+deb10u1 |  |
+| libopenexr23         |    CVE-2021-20304   |   LOW  |  2.2.1-4.1+deb10u1 |  |
+| libopenexr23         |    CVE-2021-26945   |   LOW  |  2.2.1-4.1+deb10u1 |  |
+| libopenjp2-7         |    CVE-2021-3575   |   HIGH  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2019-12973   |   MEDIUM  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2021-29338   |   MEDIUM  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2022-1122   |   MEDIUM  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-10505   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-10506   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-9113   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-9114   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-9115   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-9116   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-9117   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-9580   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2016-9581   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2017-17479   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2018-16375   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2018-16376   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2018-20845   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2018-20846   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2018-5727   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2018-7648   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libopenjp2-7         |    CVE-2019-6988   |   LOW  |  2.3.0-2+deb10u2 |  |
+| libp11-kit0         |    CVE-2020-29361   |   HIGH  |  0.23.15-2 | 0.23.15-2+deb10u1 |
+| libp11-kit0         |    CVE-2020-29363   |   HIGH  |  0.23.15-2 | 0.23.15-2+deb10u1 |
+| libp11-kit0         |    CVE-2020-29362   |   MEDIUM  |  0.23.15-2 | 0.23.15-2+deb10u1 |
+| libpam-systemd         |    CVE-2019-3843   |   HIGH  |  241-7~deb10u8 |  |
+| libpam-systemd         |    CVE-2019-3844   |   HIGH  |  241-7~deb10u8 |  |
+| libpam-systemd         |    CVE-2021-3997   |   MEDIUM  |  241-7~deb10u8 |  |
+| libpam-systemd         |    CVE-2022-3821   |   MEDIUM  |  241-7~deb10u8 |  |
+| libpam-systemd         |    CVE-2022-4415   |   MEDIUM  |  241-7~deb10u8 |  |
+| libpam-systemd         |    CVE-2013-4392   |   LOW  |  241-7~deb10u8 |  |
+| libpam-systemd         |    CVE-2019-20386   |   LOW  |  241-7~deb10u8 |  |
+| libpam-systemd         |    CVE-2020-13529   |   LOW  |  241-7~deb10u8 |  |
+| libpcre2-8-0         |    CVE-2022-1586   |   CRITICAL  |  10.32-5 |  |
+| libpcre2-8-0         |    CVE-2022-1587   |   CRITICAL  |  10.32-5 |  |
+| libpcre2-8-0         |    CVE-2019-20454   |   HIGH  |  10.32-5 |  |
+| libpcre3         |    CVE-2020-14155   |   MEDIUM  |  2:8.39-12 |  |
+| libpcre3         |    CVE-2017-11164   |   LOW  |  2:8.39-12 |  |
+| libpcre3         |    CVE-2017-16231   |   LOW  |  2:8.39-12 |  |
+| libpcre3         |    CVE-2017-7245   |   LOW  |  2:8.39-12 |  |
+| libpcre3         |    CVE-2017-7246   |   LOW  |  2:8.39-12 |  |
+| libpcre3         |    CVE-2019-20838   |   LOW  |  2:8.39-12 |  |
+| libperl5.28         |    CVE-2020-16156   |   HIGH  |  5.28.1-6+deb10u1 |  |
+| libperl5.28         |    CVE-2011-4116   |   LOW  |  5.28.1-6+deb10u1 |  |
+| libpixman-1-0         |    CVE-2022-44638   |   HIGH  |  0.36.0-1 | 0.36.0-1+deb10u1 |
+| libpng16-16         |    CVE-2018-14048   |   LOW  |  1.6.36-6 |  |
+| libpng16-16         |    CVE-2018-14550   |   LOW  |  1.6.36-6 |  |
+| libpng16-16         |    CVE-2019-6129   |   LOW  |  1.6.36-6 |  |
+| libpng16-16         |    CVE-2021-4214   |   LOW  |  1.6.36-6 |  |
+| libpostproc55         |    CVE-2020-20891   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libpostproc55         |    CVE-2020-20892   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libpostproc55         |    CVE-2020-20896   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libpostproc55         |    CVE-2020-21688   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libpostproc55         |    CVE-2022-3109   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2022-3964   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2022-3965   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-21697   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libpostproc55         |    CVE-2021-3566   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libpostproc55         |    CVE-2020-20450   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-20451   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-20898   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22038   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22039   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22040   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22041   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22042   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22043   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22044   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22046   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22048   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22051   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2020-22056   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2021-38090   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2021-38091   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2021-38092   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2021-38093   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    CVE-2021-38094   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libpostproc55         |    DLA-3178-1   |   UNKNOWN  |  7:4.1.8-0+deb10u1 | 7:4.1.10-0+deb10u1 |
+| libpython-stdlib         |    CVE-2008-4108   |   LOW  |  2.7.16-1 |  |
+| libpython2-stdlib         |    CVE-2008-4108   |   LOW  |  2.7.16-1 |  |
+| libpython2.7-minimal         |    CVE-2021-3177   |   CRITICAL  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2015-20107   |   HIGH  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2021-23336   |   MEDIUM  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2021-4189   |   MEDIUM  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2013-7040   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2017-17522   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2019-18348   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2019-20907   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2019-9674   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-minimal         |    CVE-2020-8492   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2021-3177   |   CRITICAL  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2015-20107   |   HIGH  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2021-23336   |   MEDIUM  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2021-4189   |   MEDIUM  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2013-7040   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2017-17522   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2019-18348   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2019-20907   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2019-9674   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython2.7-stdlib         |    CVE-2020-8492   |   LOW  |  2.7.16-2+deb10u1 |  |
+| libpython3.7         |    CVE-2022-37454   |   CRITICAL  |  3.7.3-2+deb10u3 | 3.7.3-2+deb10u4 |
+| libpython3.7         |    CVE-2015-20107   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2020-10735   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2021-3737   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2022-0391   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2022-45061   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2021-23336   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2021-3426   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2021-3733   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2021-4189   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2017-17522   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2019-18348   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2019-9674   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2020-27619   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7         |    CVE-2021-28861   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2022-37454   |   CRITICAL  |  3.7.3-2+deb10u3 | 3.7.3-2+deb10u4 |
+| libpython3.7-dev         |    CVE-2015-20107   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2020-10735   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2021-3737   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2022-0391   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2022-45061   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2021-23336   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2021-3426   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2021-3733   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2021-4189   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2017-17522   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2019-18348   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2019-9674   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2020-27619   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-dev         |    CVE-2021-28861   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2022-37454   |   CRITICAL  |  3.7.3-2+deb10u3 | 3.7.3-2+deb10u4 |
+| libpython3.7-minimal         |    CVE-2015-20107   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2020-10735   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2021-3737   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2022-0391   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2022-45061   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2021-23336   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2021-3426   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2021-3733   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2021-4189   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2017-17522   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2019-18348   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2019-9674   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2020-27619   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-minimal         |    CVE-2021-28861   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2022-37454   |   CRITICAL  |  3.7.3-2+deb10u3 | 3.7.3-2+deb10u4 |
+| libpython3.7-stdlib         |    CVE-2015-20107   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2020-10735   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2021-3737   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2022-0391   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2022-45061   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2021-23336   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2021-3426   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2021-3733   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2021-4189   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2017-17522   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2019-18348   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2019-9674   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2020-27619   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libpython3.7-stdlib         |    CVE-2021-28861   |   LOW  |  3.7.3-2+deb10u3 |  |
+| libquadmath0         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libquadmath0         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| librsvg2-2         |    CVE-2019-20446   |   MEDIUM  |  2.44.10-2.1 | 2.44.10-2.1+deb10u1 |
+| librsvg2-common         |    CVE-2019-20446   |   MEDIUM  |  2.44.10-2.1 | 2.44.10-2.1+deb10u1 |
+| libsasl2-2         |    CVE-2022-24407   |   HIGH  |  2.1.27+dfsg-1+deb10u1 | 2.1.27+dfsg-1+deb10u2 |
+| libsasl2-modules         |    CVE-2022-24407   |   HIGH  |  2.1.27+dfsg-1+deb10u1 | 2.1.27+dfsg-1+deb10u2 |
+| libsasl2-modules-db         |    CVE-2022-24407   |   HIGH  |  2.1.27+dfsg-1+deb10u1 | 2.1.27+dfsg-1+deb10u2 |
+| libseccomp2         |    CVE-2019-9893   |   LOW  |  2.3.3-4 |  |
+| libsepol1         |    CVE-2021-36084   |   LOW  |  2.8-1 |  |
+| libsepol1         |    CVE-2021-36085   |   LOW  |  2.8-1 |  |
+| libsepol1         |    CVE-2021-36086   |   LOW  |  2.8-1 |  |
+| libsepol1         |    CVE-2021-36087   |   LOW  |  2.8-1 |  |
+| libsmartcols1         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| libsmartcols1         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| libsndfile1         |    CVE-2021-4156   |   HIGH  |  1.0.28-6+deb10u1 | 1.0.28-6+deb10u2 |
+| libsndfile1-dev         |    CVE-2021-4156   |   HIGH  |  1.0.28-6+deb10u1 | 1.0.28-6+deb10u2 |
+| libspeex1         |    CVE-2020-23903   |   MEDIUM  |  1.2~rc1.2-1 |  |
+| libsqlite3-0         |    CVE-2020-35527   |   CRITICAL  |  3.27.2-3+deb10u1 | 3.27.2-3+deb10u2 |
+| libsqlite3-0         |    CVE-2019-19603   |   HIGH  |  3.27.2-3+deb10u1 |  |
+| libsqlite3-0         |    CVE-2020-35525   |   HIGH  |  3.27.2-3+deb10u1 | 3.27.2-3+deb10u2 |
+| libsqlite3-0         |    CVE-2019-19645   |   MEDIUM  |  3.27.2-3+deb10u1 |  |
+| libsqlite3-0         |    CVE-2019-19924   |   MEDIUM  |  3.27.2-3+deb10u1 |  |
+| libsqlite3-0         |    CVE-2020-13631   |   MEDIUM  |  3.27.2-3+deb10u1 |  |
+| libsqlite3-0         |    CVE-2021-45346   |   MEDIUM  |  3.27.2-3+deb10u1 |  |
+| libsqlite3-0         |    CVE-2019-19244   |   LOW  |  3.27.2-3+deb10u1 |  |
+| libsqlite3-0         |    CVE-2020-11656   |   LOW  |  3.27.2-3+deb10u1 |  |
+| libsqlite3-0         |    CVE-2021-36690   |   LOW  |  3.27.2-3+deb10u1 |  |
+| libsqlite3-0         |    CVE-2022-35737   |   LOW  |  3.27.2-3+deb10u1 |  |
+| libss2         |    CVE-2022-1304   |   HIGH  |  1.44.5-1+deb10u3 |  |
+| libssh-gcrypt-4         |    CVE-2019-14889   |   HIGH  |  0.8.7-1+deb10u1 |  |
+| libssh-gcrypt-4         |    CVE-2020-16135   |   MEDIUM  |  0.8.7-1+deb10u1 |  |
+| libssh2-1         |    CVE-2019-13115   |   HIGH  |  1.8.0-2.1 |  |
+| libssh2-1         |    CVE-2019-17498   |   LOW  |  1.8.0-2.1 |  |
+| libssl-dev         |    CVE-2022-1292   |   CRITICAL  |  1.1.1d-0+deb10u7 | 1.1.1n-0+deb10u2 |
+| libssl-dev         |    CVE-2022-2068   |   CRITICAL  |  1.1.1d-0+deb10u7 | 1.1.1n-0+deb10u3 |
+| libssl-dev         |    CVE-2022-0778   |   HIGH  |  1.1.1d-0+deb10u7 | 1.1.1d-0+deb10u8 |
+| libssl-dev         |    CVE-2021-4160   |   MEDIUM  |  1.1.1d-0+deb10u7 | 1.1.1d-0+deb10u8 |
+| libssl-dev         |    CVE-2022-2097   |   MEDIUM  |  1.1.1d-0+deb10u7 |  |
+| libssl-dev         |    CVE-2007-6755   |   LOW  |  1.1.1d-0+deb10u7 |  |
+| libssl-dev         |    CVE-2010-0928   |   LOW  |  1.1.1d-0+deb10u7 |  |
+| libssl1.1         |    CVE-2022-1292   |   CRITICAL  |  1.1.1d-0+deb10u7 | 1.1.1n-0+deb10u2 |
+| libssl1.1         |    CVE-2022-2068   |   CRITICAL  |  1.1.1d-0+deb10u7 | 1.1.1n-0+deb10u3 |
+| libssl1.1         |    CVE-2022-0778   |   HIGH  |  1.1.1d-0+deb10u7 | 1.1.1d-0+deb10u8 |
+| libssl1.1         |    CVE-2021-4160   |   MEDIUM  |  1.1.1d-0+deb10u7 | 1.1.1d-0+deb10u8 |
+| libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1d-0+deb10u7 |  |
+| libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1d-0+deb10u7 |  |
+| libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1d-0+deb10u7 |  |
+| libstdc++-8-dev         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libstdc++-8-dev         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libstdc++6         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libstdc++6         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libswresample3         |    CVE-2020-20891   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswresample3         |    CVE-2020-20892   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswresample3         |    CVE-2020-20896   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswresample3         |    CVE-2020-21688   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswresample3         |    CVE-2022-3109   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2022-3964   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2022-3965   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-21697   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswresample3         |    CVE-2021-3566   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswresample3         |    CVE-2020-20450   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-20451   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-20898   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22038   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22039   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22040   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22041   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22042   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22043   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22044   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22046   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22048   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22051   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2020-22056   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2021-38090   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2021-38091   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2021-38092   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2021-38093   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    CVE-2021-38094   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswresample3         |    DLA-3178-1   |   UNKNOWN  |  7:4.1.8-0+deb10u1 | 7:4.1.10-0+deb10u1 |
+| libswscale5         |    CVE-2020-20891   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswscale5         |    CVE-2020-20892   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswscale5         |    CVE-2020-20896   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswscale5         |    CVE-2020-21688   |   HIGH  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswscale5         |    CVE-2022-3109   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2022-3964   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2022-3965   |   HIGH  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-21697   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswscale5         |    CVE-2021-3566   |   MEDIUM  |  7:4.1.8-0+deb10u1 | 7:4.1.9-0+deb10u1 |
+| libswscale5         |    CVE-2020-20450   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-20451   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-20898   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22038   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22039   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22040   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22041   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22042   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22043   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22044   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22046   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22048   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22051   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2020-22056   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2021-38090   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2021-38091   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2021-38092   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2021-38093   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    CVE-2021-38094   |   LOW  |  7:4.1.8-0+deb10u1 |  |
+| libswscale5         |    DLA-3178-1   |   UNKNOWN  |  7:4.1.8-0+deb10u1 | 7:4.1.10-0+deb10u1 |
+| libsystemd0         |    CVE-2019-3843   |   HIGH  |  241-7~deb10u8 |  |
+| libsystemd0         |    CVE-2019-3844   |   HIGH  |  241-7~deb10u8 |  |
+| libsystemd0         |    CVE-2021-3997   |   MEDIUM  |  241-7~deb10u8 |  |
+| libsystemd0         |    CVE-2022-3821   |   MEDIUM  |  241-7~deb10u8 |  |
+| libsystemd0         |    CVE-2022-4415   |   MEDIUM  |  241-7~deb10u8 |  |
+| libsystemd0         |    CVE-2013-4392   |   LOW  |  241-7~deb10u8 |  |
+| libsystemd0         |    CVE-2019-20386   |   LOW  |  241-7~deb10u8 |  |
+| libsystemd0         |    CVE-2020-13529   |   LOW  |  241-7~deb10u8 |  |
+| libtasn1-6         |    CVE-2021-46848   |   CRITICAL  |  4.13-3 |  |
+| libtasn1-6         |    CVE-2018-1000654   |   LOW  |  4.13-3 |  |
+| libtiff5         |    CVE-2022-3970   |   CRITICAL  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-0891   |   HIGH  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2020-19143   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u3 |
+| libtiff5         |    CVE-2022-0561   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2022-0562   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2022-0865   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2022-0907   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2022-0908   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2022-0909   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2022-0924   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2022-1354   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-1355   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-1622   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-1623   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2056   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2057   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2058   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-22844   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 | 4.1.0+git191117-2~deb10u4 |
+| libtiff5         |    CVE-2022-2867   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2868   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2869   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-34526   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-3570   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-3597   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-3598   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-3599   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-3626   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-3627   |   MEDIUM  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2014-8130   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2017-16232   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2017-17973   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2017-5563   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2017-9117   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2018-10126   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2020-35521   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2020-35522   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-1056   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-1210   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2519   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2520   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2521   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtiff5         |    CVE-2022-2953   |   LOW  |  4.1.0+git191117-2~deb10u2 |  |
+| libtinfo6         |    CVE-2022-29458   |   HIGH  |  6.1+20181013-2+deb10u2 | 6.1+20181013-2+deb10u3 |
+| libtinfo6         |    CVE-2021-39537   |   LOW  |  6.1+20181013-2+deb10u2 |  |
+| libtsan0         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libtsan0         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libubsan1         |    CVE-2018-12886   |   HIGH  |  8.3.0-6 |  |
+| libubsan1         |    CVE-2019-15847   |   HIGH  |  8.3.0-6 |  |
+| libudev1         |    CVE-2019-3843   |   HIGH  |  241-7~deb10u3 |  |
+| libudev1         |    CVE-2019-3844   |   HIGH  |  241-7~deb10u3 |  |
+| libudev1         |    CVE-2020-1712   |   HIGH  |  241-7~deb10u3 | 241-7~deb10u4 |
+| libudev1         |    CVE-2021-33910   |   MEDIUM  |  241-7~deb10u3 | 241-7~deb10u8 |
+| libudev1         |    CVE-2021-3997   |   MEDIUM  |  241-7~deb10u3 |  |
+| libudev1         |    CVE-2022-3821   |   MEDIUM  |  241-7~deb10u3 |  |
+| libudev1         |    CVE-2022-4415   |   MEDIUM  |  241-7~deb10u3 |  |
+| libudev1         |    CVE-2013-4392   |   LOW  |  241-7~deb10u3 |  |
+| libudev1         |    CVE-2019-20386   |   LOW  |  241-7~deb10u3 |  |
+| libudev1         |    CVE-2020-13529   |   LOW  |  241-7~deb10u3 |  |
+| libuuid1         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| libuuid1         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| libuv1         |    CVE-2020-8252   |   LOW  |  1.24.1-1+deb10u1 |  |
+| libuv1-dev         |    CVE-2020-8252   |   LOW  |  1.24.1-1+deb10u1 |  |
+| libvpx5         |    CVE-2017-0641   |   LOW  |  1.7.0-3+deb10u1 |  |
+| libwavpack1         |    CVE-2020-35738   |   MEDIUM  |  5.1.0-6 |  |
+| libwavpack1         |    CVE-2022-2476   |   MEDIUM  |  5.1.0-6 |  |
+| libwavpack1         |    CVE-2019-1010317   |   LOW  |  5.1.0-6 | 5.1.0-6+deb10u1 |
+| libwavpack1         |    CVE-2019-1010319   |   LOW  |  5.1.0-6 | 5.1.0-6+deb10u1 |
+| libwavpack1         |    CVE-2021-44269   |   LOW  |  5.1.0-6 |  |
+| libwayland-client0         |    CVE-2021-3782   |   CRITICAL  |  1.16.0-1 |  |
+| libwayland-egl1         |    CVE-2021-3782   |   CRITICAL  |  1.16.0-1 |  |
+| libwayland-server0         |    CVE-2021-3782   |   CRITICAL  |  1.16.0-1 |  |
+| libwebp6         |    CVE-2016-9085   |   LOW  |  0.6.1-2+deb10u1 |  |
+| libwebpdemux2         |    CVE-2016-9085   |   LOW  |  0.6.1-2+deb10u1 |  |
+| libwebpmux3         |    CVE-2016-9085   |   LOW  |  0.6.1-2+deb10u1 |  |
+| libxml2         |    CVE-2017-16932   |   HIGH  |  2.9.4+dfsg1-7+deb10u2 |  |
+| libxml2         |    CVE-2022-23308   |   HIGH  |  2.9.4+dfsg1-7+deb10u2 | 2.9.4+dfsg1-7+deb10u3 |
+| libxml2         |    CVE-2022-40303   |   HIGH  |  2.9.4+dfsg1-7+deb10u2 | 2.9.4+dfsg1-7+deb10u5 |
+| libxml2         |    CVE-2022-40304   |   HIGH  |  2.9.4+dfsg1-7+deb10u2 | 2.9.4+dfsg1-7+deb10u5 |
+| libxml2         |    CVE-2016-3709   |   MEDIUM  |  2.9.4+dfsg1-7+deb10u2 |  |
+| libxml2         |    CVE-2016-9318   |   MEDIUM  |  2.9.4+dfsg1-7+deb10u2 |  |
+| libxml2         |    CVE-2022-29824   |   MEDIUM  |  2.9.4+dfsg1-7+deb10u2 | 2.9.4+dfsg1-7+deb10u4 |
+| libxslt1.1         |    CVE-2019-5815   |   HIGH  |  1.1.32-2.2~deb10u1 | 1.1.32-2.2~deb10u2 |
+| libxslt1.1         |    CVE-2021-30560   |   HIGH  |  1.1.32-2.2~deb10u1 | 1.1.32-2.2~deb10u2 |
+| libxslt1.1         |    CVE-2015-9019   |   LOW  |  1.1.32-2.2~deb10u1 |  |
+| libxtables12         |    CVE-2012-2663   |   LOW  |  1.8.2-4 |  |
+| libxtables12         |    CVE-2019-11360   |   LOW  |  1.8.2-4 |  |
+| libzmq5         |    CVE-2021-20236   |   CRITICAL  |  4.3.1-4+deb10u2 |  |
+| libzmq5         |    CVE-2021-20235   |   HIGH  |  4.3.1-4+deb10u2 |  |
+| libzmq5         |    CVE-2021-20237   |   HIGH  |  4.3.1-4+deb10u2 |  |
+| libzmq5         |    CVE-2021-20234   |   MEDIUM  |  4.3.1-4+deb10u2 |  |
+| libzstd1         |    CVE-2021-24031   |   MEDIUM  |  1.3.8+dfsg-3 | 1.3.8+dfsg-3+deb10u1 |
+| libzstd1         |    CVE-2021-24032   |   MEDIUM  |  1.3.8+dfsg-3 | 1.3.8+dfsg-3+deb10u2 |
+| linux-libc-dev         |    CVE-2022-3643   |   CRITICAL  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3649   |   CRITICAL  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2013-7445   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-19378   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-19449   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-19814   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-12362   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-36385   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-20322   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-22600   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-3493   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-3640   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-3714   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-3752   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-3760   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-38207   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-38300   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-3847   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-3864   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-39685   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-39686   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-39698   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-39713   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-4037   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-4083   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-41864   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-4197   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2021-4202   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-44733   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-45469   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0330   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0400   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-0435   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0492   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-1011   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1012   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1048   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1199   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1247   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-1353   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1419   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1652   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1678   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-1679   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-1729   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1734   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-20368   |   HIGH  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-20421   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-20422   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-20566   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-22942   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-23036   |   HIGH  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2022-23037   |   HIGH  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2022-23038   |   HIGH  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2022-23039   |   HIGH  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2022-23040   |   HIGH  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2022-23041   |   HIGH  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2022-23042   |   HIGH  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2022-24958   |   HIGH  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2022-2588   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-26365   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-2639   |   HIGH  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-26490   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-27223   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-27666   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-28388   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-28389   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-28390   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-29581   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-2961   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-2964   |   HIGH  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-2977   |   HIGH  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-2978   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3028   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-30594   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-3176   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3202   |   HIGH  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-32250   |   HIGH  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-3239   |   HIGH  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-33740   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-33741   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-33742   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-3424   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3524   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3545   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3564   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3565   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3566   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3567   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3594   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3621   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3635   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-3640   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-36946   |   HIGH  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-39189   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-42896   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-43750   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-4378   |   HIGH  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-43945   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-45884   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-45885   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-45886   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-45919   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-45934   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-47518   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-47519   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-47520   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-47521   |   HIGH  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-15213   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-15794   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-16089   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-20794   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-12363   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-12364   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-14304   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-15802   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-16120   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-26141   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-26145   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-26541   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-26555   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-27835   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-36310   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-36322   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2020-36516   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-20317   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-20321   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-26401   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-28711   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-28712   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-28713   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-28714   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-28715   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-28950   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-33061   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-33655   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2021-33656   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2021-3669   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-3744   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-3759   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-3764   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-3772   |   MEDIUM  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2021-4002   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-4135   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-4149   |   MEDIUM  |  4.19.208-1 | 4.19.235-1 |
+| linux-libc-dev         |    CVE-2021-4155   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-4159   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2021-4203   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-42739   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-43389   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-43975   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-43976   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-44879   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-45095   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-45480   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2021-45868   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0001   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0002   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0322   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0480   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-0487   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0494   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-0617   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-0812   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-0854   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1016   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1184   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-1195   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1198   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1204   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1205   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1280   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-1462   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-1516   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1974   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-1975   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-20008   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-20132   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-20154   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-20369   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-20423   |   MEDIUM  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-20572   |   MEDIUM  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-21123   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-21125   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-21166   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-21499   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-2153   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-2318   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-2380   |   MEDIUM  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-23816   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-23825   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-23960   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-24959   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-2503   |   MEDIUM  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-25258   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-25375   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-2586   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-26373   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-2663   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-26966   |   MEDIUM  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-28356   |   MEDIUM  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-2873   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-29900   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-29901   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3061   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3107   |   MEDIUM  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-3108   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3111   |   MEDIUM  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-3115   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3169   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3303   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3344   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-33744   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-3523   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3586   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-3628   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-36280   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3646   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-36879   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-3707   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-38096   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-3903   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-39188   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-39842   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-40307   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-40768   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-4095   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-41218   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-4129   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-41848   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-41849   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-41850   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-41858   |   MEDIUM  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-42328   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-42329   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-4269   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-42703   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-42895   |   MEDIUM  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-44032   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-44033   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-44034   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-4543   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-45887   |   MEDIUM  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-4662   |   MEDIUM  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2004-0230   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2005-3660   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2007-3719   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2008-2544   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2008-4609   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2010-4563   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2010-5321   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2011-4915   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2011-4916   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2011-4917   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2012-4542   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2014-9892   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2014-9900   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2015-2877   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2016-10723   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2016-8660   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2017-0630   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2017-13693   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2017-13694   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2018-1121   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2018-12928   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2018-17977   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-11191   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-12378   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-12379   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-12380   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-12381   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-12382   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-12455   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-12456   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-12615   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-16229   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-16230   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-16231   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-16232   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-16233   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-16234   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-19064   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-19070   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2019-19083   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-11725   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-27820   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2020-29374   |   LOW  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2020-35501   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-0929   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-26934   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2021-32078   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-24448   |   LOW  |  4.19.208-1 | 4.19.232-1 |
+| linux-libc-dev         |    CVE-2022-25265   |   LOW  |  4.19.208-1 |  |
+| linux-libc-dev         |    CVE-2022-2991   |   LOW  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-32296   |   LOW  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-32981   |   LOW  |  4.19.208-1 | 4.19.249-1 |
+| linux-libc-dev         |    CVE-2022-33981   |   LOW  |  4.19.208-1 | 4.19.249-2 |
+| linux-libc-dev         |    CVE-2022-3521   |   LOW  |  4.19.208-1 | 4.19.269-1 |
+| linux-libc-dev         |    CVE-2022-3629   |   LOW  |  4.19.208-1 | 4.19.260-1 |
+| linux-libc-dev         |    CVE-2022-4382   |   UNKNOWN  |  4.19.208-1 |  |
+| login         |    CVE-2007-5686   |   LOW  |  1:4.5-1.1 |  |
+| login         |    CVE-2013-4235   |   LOW  |  1:4.5-1.1 |  |
+| login         |    CVE-2018-7169   |   LOW  |  1:4.5-1.1 |  |
+| login         |    CVE-2019-19882   |   LOW  |  1:4.5-1.1 |  |
+| m4         |    CVE-2008-1687   |   LOW  |  1.4.18-2 |  |
+| m4         |    CVE-2008-1688   |   LOW  |  1.4.18-2 |  |
+| mount         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| mount         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| ncurses-base         |    CVE-2022-29458   |   HIGH  |  6.1+20181013-2+deb10u2 | 6.1+20181013-2+deb10u3 |
+| ncurses-base         |    CVE-2021-39537   |   LOW  |  6.1+20181013-2+deb10u2 |  |
+| ncurses-bin         |    CVE-2022-29458   |   HIGH  |  6.1+20181013-2+deb10u2 | 6.1+20181013-2+deb10u3 |
+| ncurses-bin         |    CVE-2021-39537   |   LOW  |  6.1+20181013-2+deb10u2 |  |
+| node-ajv         |    CVE-2020-15366   |   MEDIUM  |  5.0.0-1 |  |
+| node-got         |    CVE-2022-33987   |   MEDIUM  |  7.1.0-1 |  |
+| node-json-schema         |    CVE-2021-3918   |   CRITICAL  |  0.2.3-1 | 0.2.3-1+deb10u1 |
+| node-minimatch         |    CVE-2022-3517   |   HIGH  |  3.0.4-3 |  |
+| node-minimist         |    CVE-2021-44906   |   CRITICAL  |  1.2.0-1+deb10u1 | 1.2.0-1+deb10u2 |
+| node-qs         |    CVE-2022-24999   |   HIGH  |  6.5.2-1 |  |
+| node-ssri         |    CVE-2021-27290   |   HIGH  |  5.2.4-2 |  |
+| node-tar         |    CVE-2021-37701   |   HIGH  |  4.4.6+ds1-3+deb10u1 | 4.4.6+ds1-3+deb10u2 |
+| node-tar         |    CVE-2021-37712   |   HIGH  |  4.4.6+ds1-3+deb10u1 | 4.4.6+ds1-3+deb10u2 |
+| nodejs         |    CVE-2021-22930   |   CRITICAL  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs         |    CVE-2021-22940   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs         |    CVE-2021-44531   |   HIGH  |  10.24.0~dfsg-1~deb10u1 |  |
+| nodejs         |    CVE-2022-21824   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs         |    CVE-2022-32212   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs         |    CVE-2022-43548   |   HIGH  |  10.24.0~dfsg-1~deb10u1 |  |
+| nodejs         |    CVE-2021-22939   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs         |    CVE-2021-44532   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 |  |
+| nodejs         |    CVE-2021-44533   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 |  |
+| nodejs-doc         |    CVE-2021-22930   |   CRITICAL  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs-doc         |    CVE-2021-22940   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs-doc         |    CVE-2021-44531   |   HIGH  |  10.24.0~dfsg-1~deb10u1 |  |
+| nodejs-doc         |    CVE-2022-21824   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs-doc         |    CVE-2022-32212   |   HIGH  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs-doc         |    CVE-2022-43548   |   HIGH  |  10.24.0~dfsg-1~deb10u1 |  |
+| nodejs-doc         |    CVE-2021-22939   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 | 10.24.0~dfsg-1~deb10u2 |
+| nodejs-doc         |    CVE-2021-44532   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 |  |
+| nodejs-doc         |    CVE-2021-44533   |   MEDIUM  |  10.24.0~dfsg-1~deb10u1 |  |
+| npm         |    CVE-2021-43616   |   CRITICAL  |  5.8.0+ds6-4+deb10u2 |  |
+| npm         |    CVE-2021-39134   |   HIGH  |  5.8.0+ds6-4+deb10u2 |  |
+| npm         |    CVE-2021-39135   |   HIGH  |  5.8.0+ds6-4+deb10u2 |  |
+| openssh-client         |    CVE-2021-41617   |   HIGH  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2007-2243   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2007-2768   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2008-3234   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2016-20012   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2018-15919   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2019-16905   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2019-6110   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2020-12062   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2020-14145   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2020-15778   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssh-client         |    CVE-2021-36368   |   LOW  |  1:7.9p1-10+deb10u2 |  |
+| openssl         |    CVE-2022-1292   |   CRITICAL  |  1.1.1d-0+deb10u7 | 1.1.1n-0+deb10u2 |
+| openssl         |    CVE-2022-2068   |   CRITICAL  |  1.1.1d-0+deb10u7 | 1.1.1n-0+deb10u3 |
+| openssl         |    CVE-2022-0778   |   HIGH  |  1.1.1d-0+deb10u7 | 1.1.1d-0+deb10u8 |
+| openssl         |    CVE-2021-4160   |   MEDIUM  |  1.1.1d-0+deb10u7 | 1.1.1d-0+deb10u8 |
+| openssl         |    CVE-2022-2097   |   MEDIUM  |  1.1.1d-0+deb10u7 |  |
+| openssl         |    CVE-2007-6755   |   LOW  |  1.1.1d-0+deb10u7 |  |
+| openssl         |    CVE-2010-0928   |   LOW  |  1.1.1d-0+deb10u7 |  |
+| passwd         |    CVE-2007-5686   |   LOW  |  1:4.5-1.1 |  |
+| passwd         |    CVE-2013-4235   |   LOW  |  1:4.5-1.1 |  |
+| passwd         |    CVE-2018-7169   |   LOW  |  1:4.5-1.1 |  |
+| passwd         |    CVE-2019-19882   |   LOW  |  1:4.5-1.1 |  |
+| patch         |    CVE-2010-4651   |   LOW  |  2.7.6-3+deb10u1 |  |
+| patch         |    CVE-2018-6951   |   LOW  |  2.7.6-3+deb10u1 |  |
+| patch         |    CVE-2018-6952   |   LOW  |  2.7.6-3+deb10u1 |  |
+| patch         |    CVE-2021-45261   |   LOW  |  2.7.6-3+deb10u1 |  |
+| perl         |    CVE-2020-16156   |   HIGH  |  5.28.1-6+deb10u1 |  |
+| perl         |    CVE-2011-4116   |   LOW  |  5.28.1-6+deb10u1 |  |
+| perl-base         |    CVE-2020-16156   |   HIGH  |  5.28.1-6+deb10u1 |  |
+| perl-base         |    CVE-2011-4116   |   LOW  |  5.28.1-6+deb10u1 |  |
+| perl-modules-5.28         |    CVE-2020-16156   |   HIGH  |  5.28.1-6+deb10u1 |  |
+| perl-modules-5.28         |    CVE-2011-4116   |   LOW  |  5.28.1-6+deb10u1 |  |
+| python         |    CVE-2008-4108   |   LOW  |  2.7.16-1 |  |
+| python-babel-localedata         |    CVE-2021-42771   |   HIGH  |  2.6.0+dfsg.1-1 | 2.6.0+dfsg.1-1+deb10u1 |
+| python-minimal         |    CVE-2008-4108   |   LOW  |  2.7.16-1 |  |
+| python-pip-whl         |    CVE-2019-20916   |   HIGH  |  18.1-5 |  |
+| python-pip-whl         |    CVE-2021-3572   |   MEDIUM  |  18.1-5 |  |
+| python-pip-whl         |    CVE-2018-20225   |   LOW  |  18.1-5 |  |
+| python2         |    CVE-2008-4108   |   LOW  |  2.7.16-1 |  |
+| python2-minimal         |    CVE-2008-4108   |   LOW  |  2.7.16-1 |  |
+| python2.7         |    CVE-2021-3177   |   CRITICAL  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2015-20107   |   HIGH  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2021-23336   |   MEDIUM  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2021-4189   |   MEDIUM  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2013-7040   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2017-17522   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2019-18348   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2019-20907   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2019-9674   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7         |    CVE-2020-8492   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2021-3177   |   CRITICAL  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2015-20107   |   HIGH  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2021-23336   |   MEDIUM  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2021-4189   |   MEDIUM  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2013-7040   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2017-17522   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2019-18348   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2019-20907   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2019-9674   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python2.7-minimal         |    CVE-2020-8492   |   LOW  |  2.7.16-2+deb10u1 |  |
+| python3-babel         |    CVE-2021-42771   |   HIGH  |  2.6.0+dfsg.1-1 | 2.6.0+dfsg.1-1+deb10u1 |
+| python3-cryptography         |    CVE-2020-36242   |   CRITICAL  |  2.6.1-3+deb10u2 |  |
+| python3-cryptography         |    CVE-2020-25659   |   MEDIUM  |  2.6.1-3+deb10u2 |  |
+| python3-jinja2         |    CVE-2020-28493   |   MEDIUM  |  2.10-2 |  |
+| python3-jinja2         |    CVE-2019-8341   |   LOW  |  2.10-2 |  |
+| python3-lxml         |    CVE-2021-43818   |   HIGH  |  4.3.2-1+deb10u3 | 4.3.2-1+deb10u4 |
+| python3-lxml         |    CVE-2022-2309   |   HIGH  |  4.3.2-1+deb10u3 |  |
+| python3-mako         |    CVE-2022-40023   |   HIGH  |  1.0.7+ds1-1 | 1.0.7+ds1-1+deb10u1 |
+| python3-pil         |    CVE-2021-34552   |   CRITICAL  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2022-22817   |   CRITICAL  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2022-24303   |   CRITICAL  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2020-35653   |   HIGH  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2021-23437   |   HIGH  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2021-25290   |   HIGH  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2021-25291   |   HIGH  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2021-25293   |   HIGH  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2021-27921   |   HIGH  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2021-27922   |   HIGH  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2021-27923   |   HIGH  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2021-28676   |   HIGH  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2021-28677   |   HIGH  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2022-45198   |   HIGH  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2020-35655   |   MEDIUM  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2021-25292   |   MEDIUM  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2021-28675   |   MEDIUM  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2021-28678   |   MEDIUM  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2022-22815   |   MEDIUM  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2022-22816   |   MEDIUM  |  5.4.1-2+deb10u2 | 5.4.1-2+deb10u3 |
+| python3-pil         |    CVE-2020-10994   |   LOW  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2021-25287   |   LOW  |  5.4.1-2+deb10u2 |  |
+| python3-pil         |    CVE-2021-25288   |   LOW  |  5.4.1-2+deb10u2 |  |
+| python3-py         |    CVE-2020-29651   |   HIGH  |  1.7.0-2 |  |
+| python3-py         |    CVE-2022-42969   |   LOW  |  1.7.0-2 |  |
+| python3-urllib3         |    CVE-2019-11324   |   HIGH  |  1.24.1-1 |  |
+| python3-urllib3         |    CVE-2021-33503   |   HIGH  |  1.24.1-1 |  |
+| python3-urllib3         |    CVE-2019-11236   |   MEDIUM  |  1.24.1-1 |  |
+| python3-urllib3         |    CVE-2020-26137   |   MEDIUM  |  1.24.1-1 |  |
+| python3-waitress         |    CVE-2019-16785   |   HIGH  |  1.2.0~b2-2 | 1.2.0~b2-2+deb10u1 |
+| python3-waitress         |    CVE-2019-16786   |   HIGH  |  1.2.0~b2-2 | 1.2.0~b2-2+deb10u1 |
+| python3-waitress         |    CVE-2019-16789   |   HIGH  |  1.2.0~b2-2 | 1.2.0~b2-2+deb10u1 |
+| python3-waitress         |    CVE-2019-16792   |   HIGH  |  1.2.0~b2-2 | 1.2.0~b2-2+deb10u1 |
+| python3-waitress         |    CVE-2022-24761   |   HIGH  |  1.2.0~b2-2 | 1.2.0~b2-2+deb10u1 |
+| python3-yaml         |    CVE-2017-18342   |   LOW  |  3.13-2 |  |
+| python3.7         |    CVE-2022-37454   |   CRITICAL  |  3.7.3-2+deb10u3 | 3.7.3-2+deb10u4 |
+| python3.7         |    CVE-2015-20107   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2020-10735   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2021-3737   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2022-0391   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2022-45061   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2021-23336   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2021-3426   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2021-3733   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2021-4189   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2017-17522   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2019-18348   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2019-9674   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2020-27619   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7         |    CVE-2021-28861   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2022-37454   |   CRITICAL  |  3.7.3-2+deb10u3 | 3.7.3-2+deb10u4 |
+| python3.7-dev         |    CVE-2015-20107   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2020-10735   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2021-3737   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2022-0391   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2022-45061   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2021-23336   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2021-3426   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2021-3733   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2021-4189   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2017-17522   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2019-18348   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2019-9674   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2020-27619   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-dev         |    CVE-2021-28861   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2022-37454   |   CRITICAL  |  3.7.3-2+deb10u3 | 3.7.3-2+deb10u4 |
+| python3.7-minimal         |    CVE-2015-20107   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2020-10735   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2021-3737   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2022-0391   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2022-45061   |   HIGH  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2021-23336   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2021-3426   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2021-3733   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2021-4189   |   MEDIUM  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2017-17522   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2019-18348   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2019-9674   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2020-27619   |   LOW  |  3.7.3-2+deb10u3 |  |
+| python3.7-minimal         |    CVE-2021-28861   |   LOW  |  3.7.3-2+deb10u3 |  |
+| systemd         |    CVE-2019-3843   |   HIGH  |  241-7~deb10u8 |  |
+| systemd         |    CVE-2019-3844   |   HIGH  |  241-7~deb10u8 |  |
+| systemd         |    CVE-2021-3997   |   MEDIUM  |  241-7~deb10u8 |  |
+| systemd         |    CVE-2022-3821   |   MEDIUM  |  241-7~deb10u8 |  |
+| systemd         |    CVE-2022-4415   |   MEDIUM  |  241-7~deb10u8 |  |
+| systemd         |    CVE-2013-4392   |   LOW  |  241-7~deb10u8 |  |
+| systemd         |    CVE-2019-20386   |   LOW  |  241-7~deb10u8 |  |
+| systemd         |    CVE-2020-13529   |   LOW  |  241-7~deb10u8 |  |
+| systemd-sysv         |    CVE-2019-3843   |   HIGH  |  241-7~deb10u8 |  |
+| systemd-sysv         |    CVE-2019-3844   |   HIGH  |  241-7~deb10u8 |  |
+| systemd-sysv         |    CVE-2021-3997   |   MEDIUM  |  241-7~deb10u8 |  |
+| systemd-sysv         |    CVE-2022-3821   |   MEDIUM  |  241-7~deb10u8 |  |
+| systemd-sysv         |    CVE-2022-4415   |   MEDIUM  |  241-7~deb10u8 |  |
+| systemd-sysv         |    CVE-2013-4392   |   LOW  |  241-7~deb10u8 |  |
+| systemd-sysv         |    CVE-2019-20386   |   LOW  |  241-7~deb10u8 |  |
+| systemd-sysv         |    CVE-2020-13529   |   LOW  |  241-7~deb10u8 |  |
+| tar         |    CVE-2005-2541   |   LOW  |  1.30+dfsg-6 |  |
+| tar         |    CVE-2019-9923   |   LOW  |  1.30+dfsg-6 |  |
+| tar         |    CVE-2021-20193   |   LOW  |  1.30+dfsg-6 |  |
+| tzdata         |    DLA-3134-1   |   UNKNOWN  |  2019c-0+deb10u1 | 2021a-0+deb10u7 |
+| tzdata         |    DLA-3161-1   |   UNKNOWN  |  2019c-0+deb10u1 | 2021a-0+deb10u8 |
+| util-linux         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |
+| util-linux         |    CVE-2022-0563   |   LOW  |  2.33.1-0.1 |  |
+| xdg-user-dirs         |    CVE-2017-15131   |   LOW  |  0.17-2 |  |
+| xz-utils         |    CVE-2022-1271   |   HIGH  |  5.2.4-1 | 5.2.4-1+deb10u1 |
+| zlib1g         |    CVE-2022-37434   |   CRITICAL  |  1:1.2.11.dfsg-1 | 1:1.2.11.dfsg-1+deb10u2 |
+| zlib1g         |    CVE-2018-25032   |   HIGH  |  1:1.2.11.dfsg-1 | 1:1.2.11.dfsg-1+deb10u1 |
+
+**node-pkg**
+
+      
+| Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
+|:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
+| ajv         |    CVE-2020-15366   |   MEDIUM  |  4.11.8 | 6.12.3 |
+| async         |    CVE-2021-43138   |   HIGH  |  2.5.0 | 2.6.4, 3.2.2 |
+| bl         |    CVE-2020-8244   |   MEDIUM  |  1.0.3 | 2.2.1, 1.2.3, 4.0.3, 3.0.1 |
+| bl         |    CVE-2020-8244   |   MEDIUM  |  1.2.1 | 2.2.1, 1.2.3, 4.0.3, 3.0.1 |
+| chownr         |    CVE-2017-18869   |   LOW  |  1.0.1 | 1.1.0 |
+| dot-prop         |    CVE-2020-8116   |   HIGH  |  3.0.0 | 5.1.1, 4.2.1 |
+| got         |    CVE-2022-33987   |   MEDIUM  |  5.7.1 | 11.8.5, 12.1.0 |
+| handlebars         |    CVE-2021-23369   |   CRITICAL  |  4.5.3 | 4.7.7 |
+| handlebars         |    CVE-2021-23383   |   CRITICAL  |  4.5.3 | 4.7.7 |
+| handlebars         |    NSWG-ECO-519   |   MEDIUM  |  4.5.3 | &gt;=4.6.0 |
+| hawk         |    CVE-2022-29167   |   HIGH  |  3.1.3 | 9.0.1 |
+| hoek         |    CVE-2018-3728   |   LOW  |  2.16.3 | &gt;=5.0.3 &gt;=4.2.1 |
+| json-schema         |    CVE-2021-3918   |   CRITICAL  |  0.2.3 | 0.4.0 |
+| jsonpointer         |    CVE-2021-23807   |   MEDIUM  |  4.0.1 | 5.0.0 |
+| lodash         |    CVE-2019-10744   |   CRITICAL  |  3.10.1 | 4.17.12 |
+| lodash         |    CVE-2018-16487   |   HIGH  |  3.10.1 | &gt;=4.17.11 |
+| lodash         |    CVE-2020-8203   |   HIGH  |  3.10.1 | 4.17.20 |
+| lodash         |    CVE-2021-23337   |   HIGH  |  3.10.1 | 4.17.21 |
+| lodash         |    CVE-2019-1010266   |   MEDIUM  |  3.10.1 | 4.17.11 |
+| lodash         |    CVE-2020-28500   |   MEDIUM  |  3.10.1 | 4.17.21 |
+| lodash         |    CVE-2018-3721   |   LOW  |  3.10.1 | &gt;=4.17.5 |
+| lodash         |    CVE-2019-10744   |   CRITICAL  |  4.17.4 | 4.17.12 |
+| lodash         |    CVE-2018-16487   |   HIGH  |  4.17.4 | &gt;=4.17.11 |
+| lodash         |    CVE-2020-8203   |   HIGH  |  4.17.4 | 4.17.20 |
+| lodash         |    CVE-2021-23337   |   HIGH  |  4.17.4 | 4.17.21 |
+| lodash         |    CVE-2019-1010266   |   MEDIUM  |  4.17.4 | 4.17.11 |
+| lodash         |    CVE-2020-28500   |   MEDIUM  |  4.17.4 | 4.17.21 |
+| lodash         |    CVE-2018-3721   |   LOW  |  4.17.4 | &gt;=4.17.5 |
+| minimatch         |    CVE-2016-10540   |   HIGH  |  2.0.10 | 3.0.2 |
+| minimatch         |    CVE-2022-3517   |   HIGH  |  2.0.10 | 3.0.5 |
+| minimatch         |    NSWG-ECO-118   |   HIGH  |  2.0.10 | &gt;=3.0.2 |
+| minimatch         |    CVE-2022-3517   |   HIGH  |  3.0.4 | 3.0.5 |
+| minimist         |    CVE-2021-44906   |   CRITICAL  |  0.2.1 | 1.2.6 |
+| mout         |    CVE-2020-7792   |   HIGH  |  0.11.1 | 1.2.3 |
+| mout         |    CVE-2022-21213   |   HIGH  |  0.11.1 | 1.2.4 |
+| mout         |    CVE-2020-7792   |   HIGH  |  1.0.0 | 1.2.3 |
+| mout         |    CVE-2022-21213   |   HIGH  |  1.0.0 | 1.2.4 |
+| path-parse         |    CVE-2021-23343   |   MEDIUM  |  1.0.5 | 1.0.7 |
+| qs         |    CVE-2017-1000048   |   HIGH  |  5.2.1 | 6.3.2, 6.2.3, 6.1.2, 6.0.4 |
+| qs         |    CVE-2022-24999   |   HIGH  |  5.2.1 | 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3 |
+| qs         |    CVE-2022-24999   |   HIGH  |  6.4.0 | 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3 |
+| request         |    CVE-2017-16026   |   MEDIUM  |  2.67.0 | 2.68.0, 2.68.0 |
+| request         |    NSWG-ECO-309   |   MEDIUM  |  2.67.0 | &gt;=2.68.0 |
+| semver         |    CVE-2015-8855   |   MEDIUM  |  2.3.2 | &gt;=4.3.2 |
+| shell-quote         |    CVE-2021-42740   |   CRITICAL  |  1.6.1 | 1.7.3 |
+| shelljs         |    CVE-2022-0144   |   HIGH  |  0.1.2 | 0.8.5 |
+| shelljs         |    GHSA-64g7-mvw6-v9qj   |   MEDIUM  |  0.1.2 | 0.8.5 |
+| tough-cookie         |    CVE-2016-1000232   |   HIGH  |  2.2.2 | &gt;=2.3.0 |
+| tough-cookie         |    CVE-2017-15010   |   HIGH  |  2.2.2 | 2.3.3 |
+| tough-cookie         |    CVE-2017-15010   |   HIGH  |  2.3.2 | 2.3.3 |
+| tunnel-agent         |    GHSA-xc7v-wxcw-j472   |   MEDIUM  |  0.4.3 | 0.6.0 |
+| tunnel-agent         |    NSWG-ECO-393   |   MEDIUM  |  0.4.3 | &gt;=0.6.0 |
+| video.js         |    CVE-2021-23414   |   MEDIUM  |  5.20.5 | 7.14.3 |
+
+**python-pkg**
+
+      
+| Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
+|:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
+| Babel         |    CVE-2021-42771   |   HIGH  |  2.6.0 | 2.9.1 |
+| Jinja2         |    CVE-2019-10906   |   HIGH  |  2.10 | 2.10.1 |
+| Jinja2         |    CVE-2020-28493   |   MEDIUM  |  2.10 | 2.11.3 |
+| Pygments         |    CVE-2021-20270   |   HIGH  |  2.3.1 | 2.7.4 |
+| Pygments         |    CVE-2021-27291   |   HIGH  |  2.3.1 | 2.7.4 |
+| Werkzeug         |    CVE-2022-29361   |   CRITICAL  |  0.16.0 | 2.1.1 |
+| celery         |    CVE-2021-23727   |   HIGH  |  4.2.1 | 5.2.2 |
+| certifi         |    CVE-2022-23491   |   MEDIUM  |  2018.8.24 | 2022.12.07 |
+| py         |    CVE-2020-29651   |   HIGH  |  1.7.0 | 1.10.0 |
+| py         |    CVE-2022-42969   |   HIGH  |  1.7.0 |  |
+| urllib3         |    CVE-2019-11324   |   HIGH  |  1.24.1 | 1.24.2 |
+| urllib3         |    CVE-2021-33503   |   HIGH  |  1.24.1 | 1.26.5 |
+| urllib3         |    CVE-2019-11236   |   MEDIUM  |  1.24.1 | 1.24.3 |
+| urllib3         |    CVE-2020-26137   |   MEDIUM  |  1.24.1 | 1.25.9 |
+| waitress         |    GHSA-4ppp-gpcr-7qf6   |   CRITICAL  |  1.2.0b2 | 1.4.0 |
+| waitress         |    CVE-2019-16785   |   HIGH  |  1.2.0b2 | 1.4.0 |
+| waitress         |    CVE-2019-16786   |   HIGH  |  1.2.0b2 | 1.3.1 |
+| waitress         |    CVE-2019-16789   |   HIGH  |  1.2.0b2 | 1.4.1 |
+| waitress         |    CVE-2019-16792   |   HIGH  |  1.2.0b2 | 1.4.0 |
+| waitress         |    CVE-2022-24761   |   HIGH  |  1.2.0b2 | 2.1.1 |
+| waitress         |    GHSA-m5ff-3wj3-8ph4   |   HIGH  |  1.2.0b2 | 1.4.1 |
+| waitress         |    CVE-2020-5236   |   MEDIUM  |  1.2.0b2 | 1.4.3 |
+
+**Container: tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f**
+
+#### Container: tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f (ubuntu 22.04)
+    
+
+**ubuntu**
+
+      
+| Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
+|:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
+| bash         |    CVE-2022-3715   |   LOW  |  5.1-6ubuntu1 |  |
+| ca-certificates         |    CVE-2022-23491   |   MEDIUM  |  20211016 | 20211016ubuntu0.22.04.1 |
+| coreutils         |    CVE-2016-2781   |   LOW  |  8.32-4.1ubuntu1 |  |
+| curl         |    CVE-2022-43551   |   MEDIUM  |  7.81.0-1ubuntu1.6 |  |
+| curl         |    CVE-2022-43552   |   MEDIUM  |  7.81.0-1ubuntu1.6 |  |
+| dirmngr         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| git         |    CVE-2018-1000021   |   LOW  |  1:2.34.1-1ubuntu1.5 |  |
+| git-man         |    CVE-2018-1000021   |   LOW  |  1:2.34.1-1ubuntu1.5 |  |
+| gnupg         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gnupg-l10n         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gnupg-utils         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gpg         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gpg-agent         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gpg-wks-client         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gpg-wks-server         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gpgconf         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gpgsm         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| gpgv         |    CVE-2022-3219   |   LOW  |  2.2.27-3ubuntu2.1 |  |
+| libc-bin         |    CVE-2016-20013   |   LOW  |  2.35-0ubuntu3.1 |  |
+| libc6         |    CVE-2016-20013   |   LOW  |  2.35-0ubuntu3.1 |  |
+| libcurl3-gnutls         |    CVE-2022-43551   |   MEDIUM  |  7.81.0-1ubuntu1.6 |  |
+| libcurl3-gnutls         |    CVE-2022-43552   |   MEDIUM  |  7.81.0-1ubuntu1.6 |  |
+| libcurl4         |    CVE-2022-43551   |   MEDIUM  |  7.81.0-1ubuntu1.6 |  |
+| libcurl4         |    CVE-2022-43552   |   MEDIUM  |  7.81.0-1ubuntu1.6 |  |
+| libexpat1         |    CVE-2022-40674   |   MEDIUM  |  2.4.7-1 | 2.4.7-1ubuntu0.1 |
+| libexpat1         |    CVE-2022-43680   |   MEDIUM  |  2.4.7-1 | 2.4.7-1ubuntu0.2 |
+| libmariadb3         |    CVE-2018-25032   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-21427   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27376   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27377   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27378   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27379   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27380   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27381   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27382   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27383   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27384   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27386   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27387   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27444   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27445   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27446   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27447   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27448   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27449   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27451   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27452   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27455   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27456   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27457   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-27458   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32081   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32082   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32083   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32084   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32085   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32086   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32087   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32088   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32089   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2022-32091   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libmariadb3         |    CVE-2021-46669   |   LOW  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| libncurses6         |    CVE-2022-29458   |   LOW  |  6.3-2 |  |
+| libncursesw6         |    CVE-2022-29458   |   LOW  |  6.3-2 |  |
+| libpcre3         |    CVE-2017-11164   |   LOW  |  2:8.39-13ubuntu0.22.04.1 |  |
+| libsqlite3-0         |    CVE-2022-46908   |   MEDIUM  |  3.37.2-2ubuntu0.1 |  |
+| libssl3         |    CVE-2022-3996   |   LOW  |  3.0.2-0ubuntu1.7 |  |
+| libsystemd0         |    CVE-2022-3821   |   MEDIUM  |  249.11-0ubuntu3.6 |  |
+| libtinfo6         |    CVE-2022-29458   |   LOW  |  6.3-2 |  |
+| libudev1         |    CVE-2022-3821   |   MEDIUM  |  249.11-0ubuntu3.6 |  |
+| libxml2         |    CVE-2022-40303   |   MEDIUM  |  2.9.13+dfsg-1ubuntu0.1 | 2.9.13+dfsg-1ubuntu0.2 |
+| libxml2         |    CVE-2022-40304   |   MEDIUM  |  2.9.13+dfsg-1ubuntu0.1 | 2.9.13+dfsg-1ubuntu0.2 |
+| libxml2         |    CVE-2022-2309   |   LOW  |  2.9.13+dfsg-1ubuntu0.1 | 2.9.13+dfsg-1ubuntu0.2 |
+| locales         |    CVE-2016-20013   |   LOW  |  2.35-0ubuntu3.1 |  |
+| login         |    CVE-2013-4235   |   LOW  |  1:4.8.1-2ubuntu2 | 1:4.8.1-2ubuntu2.1 |
+| mariadb-client         |    CVE-2018-25032   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-21427   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27376   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27377   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27378   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27379   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27380   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27381   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27382   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27383   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27384   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27386   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27387   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27444   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27445   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27446   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27447   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27448   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27449   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27451   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27452   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27455   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27456   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27457   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-27458   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32081   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32082   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32083   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32084   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32085   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32086   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32087   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32088   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32089   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2022-32091   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client         |    CVE-2021-46669   |   LOW  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2018-25032   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-21427   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27376   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27377   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27378   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27379   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27380   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27381   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27382   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27383   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27384   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27386   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27387   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27444   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27445   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27446   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27447   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27448   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27449   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27451   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27452   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27455   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27456   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27457   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-27458   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32081   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32082   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32083   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32084   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32085   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32086   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32087   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32088   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32089   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2022-32091   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-10.6         |    CVE-2021-46669   |   LOW  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2018-25032   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-21427   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27376   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27377   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27378   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27379   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27380   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27381   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27382   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27383   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27384   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27386   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27387   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27444   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27445   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27446   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27447   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27448   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27449   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27451   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27452   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27455   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27456   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27457   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-27458   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32081   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32082   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32083   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32084   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32085   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32086   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32087   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32088   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32089   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2022-32091   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-client-core-10.6         |    CVE-2021-46669   |   LOW  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2018-25032   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-21427   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27376   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27377   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27378   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27379   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27380   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27381   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27382   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27383   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27384   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27386   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27387   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27444   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27445   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27446   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27447   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27448   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27449   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27451   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27452   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27455   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27456   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27457   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-27458   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32081   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32082   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32083   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32084   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32085   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32086   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32087   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32088   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32089   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2022-32091   |   MEDIUM  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| mariadb-common         |    CVE-2021-46669   |   LOW  |  1:10.6.7-2ubuntu1.1 | 1:10.6.11-0ubuntu0.22.04.1 |
+| ncurses-base         |    CVE-2022-29458   |   LOW  |  6.3-2 |  |
+| ncurses-bin         |    CVE-2022-29458   |   LOW  |  6.3-2 |  |
+| openssl         |    CVE-2022-3996   |   LOW  |  3.0.2-0ubuntu1.7 |  |
+| passwd         |    CVE-2013-4235   |   LOW  |  1:4.8.1-2ubuntu2 | 1:4.8.1-2ubuntu2.1 |
+| unrar         |    CVE-2022-30333   |   MEDIUM  |  1:6.1.5-1 |  |
+| vim-common         |    CVE-2022-0128   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0156   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0158   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0213   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0261   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0318   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0319   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0351   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0359   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0361   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0368   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0392   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0393   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0407   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0408   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0413   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0417   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0554   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0572   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0629   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0685   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0714   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1629   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1674   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1720   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1851   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1927   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1942   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1968   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2175   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2182   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2183   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2304   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2343   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2344   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2345   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2571   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2862   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2889   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2923   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2946   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2980   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2982   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0443   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0696   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-0729   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1733   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1735   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1785   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1796   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1886   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-1898   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2124   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2125   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2126   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2129   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2206   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2581   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2845   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-common         |    CVE-2022-2849   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0128   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0156   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0158   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0213   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0261   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0318   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0319   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0351   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0359   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0361   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0368   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0392   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0393   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0407   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0408   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0413   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0417   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0554   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0572   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0629   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0685   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0714   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1629   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1674   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1720   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1851   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1927   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1942   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1968   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2175   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2182   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2183   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2304   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2343   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2344   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2345   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2571   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2862   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2889   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2923   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2946   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2980   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2982   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0443   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0696   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-0729   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1733   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1735   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1785   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1796   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1886   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-1898   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2124   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2125   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2126   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2129   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2206   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2581   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2845   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| vim-tiny         |    CVE-2022-2849   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| wget         |    CVE-2021-31879   |   MEDIUM  |  1.21.2-2ubuntu1 |  |
+| xxd         |    CVE-2022-0128   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0156   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0158   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0213   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0261   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0318   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0319   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0351   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0359   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0361   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0368   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0392   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0393   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0407   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0408   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0413   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0417   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0554   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0572   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0629   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0685   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0714   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1629   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1674   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1720   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1851   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1927   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1942   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1968   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2175   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2182   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2183   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2304   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2343   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2344   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2345   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2571   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2862   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2889   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2923   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2946   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2980   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2982   |   MEDIUM  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0443   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0696   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-0729   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1733   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1735   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1785   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1796   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1886   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-1898   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2124   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2125   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2126   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2129   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2206   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2581   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2845   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+| xxd         |    CVE-2022-2849   |   LOW  |  2:8.2.3995-1ubuntu2.1 |  |
+

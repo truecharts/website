@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: guide2go/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

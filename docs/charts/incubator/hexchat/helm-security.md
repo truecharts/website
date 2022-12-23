@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: hexchat/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

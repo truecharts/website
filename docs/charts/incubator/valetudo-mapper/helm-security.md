@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: valetudo-mapper/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

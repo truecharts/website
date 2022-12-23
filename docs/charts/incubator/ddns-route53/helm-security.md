@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: ddns-route53/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

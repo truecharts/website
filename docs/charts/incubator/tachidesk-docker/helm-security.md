@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: tachidesk-docker/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

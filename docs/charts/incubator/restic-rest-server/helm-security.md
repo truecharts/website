@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: restic-rest-server/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

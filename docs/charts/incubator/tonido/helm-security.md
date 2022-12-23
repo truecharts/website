@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: tonido/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

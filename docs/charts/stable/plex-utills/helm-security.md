@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: plex-utills/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

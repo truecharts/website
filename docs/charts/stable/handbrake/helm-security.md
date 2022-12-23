@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: handbrake/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

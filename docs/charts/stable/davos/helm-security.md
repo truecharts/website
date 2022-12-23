@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: davos/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

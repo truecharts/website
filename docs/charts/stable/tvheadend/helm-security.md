@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: tvheadend/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

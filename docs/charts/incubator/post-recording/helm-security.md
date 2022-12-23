@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: post-recording/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

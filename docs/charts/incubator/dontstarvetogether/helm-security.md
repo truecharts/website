@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: dontstarvetogether/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

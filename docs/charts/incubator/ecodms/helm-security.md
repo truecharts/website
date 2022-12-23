@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: ecodms/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

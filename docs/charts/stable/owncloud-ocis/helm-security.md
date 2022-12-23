@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: owncloud-ocis/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

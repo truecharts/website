@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: storj-node/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: twonky-server/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: facturascripts/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

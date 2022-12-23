@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: speedtest-exporter/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

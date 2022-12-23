@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: shlink-web-client/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

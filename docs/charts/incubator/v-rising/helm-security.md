@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: v-rising/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: dns-doh-companion/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

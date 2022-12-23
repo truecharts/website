@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: pretend-youre-xyzzy/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

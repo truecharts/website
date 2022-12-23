@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: notea/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

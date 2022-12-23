@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: external-service/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

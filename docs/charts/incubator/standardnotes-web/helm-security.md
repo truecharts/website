@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: standardnotes-web/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

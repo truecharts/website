@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: keeweb/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

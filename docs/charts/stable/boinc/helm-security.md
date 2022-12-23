@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: boinc/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: auto-yt-dl/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: monero-node/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

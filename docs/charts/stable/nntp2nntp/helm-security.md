@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: nntp2nntp/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

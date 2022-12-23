@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: apache-musicindex/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

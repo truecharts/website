@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: grafana-image-renderer/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

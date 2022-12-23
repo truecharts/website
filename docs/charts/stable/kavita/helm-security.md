@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: kavita/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

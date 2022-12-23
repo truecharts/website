@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: overseerr/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: headphones/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

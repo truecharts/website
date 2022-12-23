@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: imgpush/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: lancache-dns/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

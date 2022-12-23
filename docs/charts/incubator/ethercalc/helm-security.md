@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: ethercalc/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: snowflake-proxy/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

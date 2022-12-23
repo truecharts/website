@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: nano-wallet/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

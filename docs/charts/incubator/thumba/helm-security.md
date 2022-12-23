@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: thumba/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

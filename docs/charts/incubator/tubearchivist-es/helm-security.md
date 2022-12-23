@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: tubearchivist-es/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

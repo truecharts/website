@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: mocodo-mcd/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

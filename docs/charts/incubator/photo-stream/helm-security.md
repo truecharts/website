@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: photo-stream/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

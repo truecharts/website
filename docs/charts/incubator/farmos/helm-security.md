@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: farmos/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

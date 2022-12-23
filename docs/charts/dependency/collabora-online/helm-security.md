@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: collabora-online/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

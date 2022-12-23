@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: openvscode-server/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

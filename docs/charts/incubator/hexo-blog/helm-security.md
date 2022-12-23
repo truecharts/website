@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: hexo-blog/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

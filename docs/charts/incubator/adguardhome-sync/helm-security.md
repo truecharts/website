@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: adguardhome-sync/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

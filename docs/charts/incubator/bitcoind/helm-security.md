@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: bitcoind/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

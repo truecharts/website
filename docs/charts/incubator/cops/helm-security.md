@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: cops/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

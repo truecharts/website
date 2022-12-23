@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: fmd2-wine/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

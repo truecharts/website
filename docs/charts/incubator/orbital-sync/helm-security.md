@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: orbital-sync/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: llalon-github-backup/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

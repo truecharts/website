@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: k8s-gateway/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

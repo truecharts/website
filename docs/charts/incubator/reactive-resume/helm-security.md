@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: reactive-resume/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: crafty-4/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

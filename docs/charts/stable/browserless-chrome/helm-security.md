@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: browserless-chrome/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

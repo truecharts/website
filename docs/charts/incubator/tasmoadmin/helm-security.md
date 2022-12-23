@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: tasmoadmin/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

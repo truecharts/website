@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: booksonic-air/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

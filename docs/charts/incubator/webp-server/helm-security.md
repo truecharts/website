@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: webp-server/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

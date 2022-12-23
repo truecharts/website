@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: chromium-desktop-g3/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: kdenlive-vnc/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

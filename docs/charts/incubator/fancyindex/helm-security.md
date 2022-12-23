@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: fancyindex/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

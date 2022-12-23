@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: genea/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

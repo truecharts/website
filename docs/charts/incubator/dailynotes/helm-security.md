@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: dailynotes/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

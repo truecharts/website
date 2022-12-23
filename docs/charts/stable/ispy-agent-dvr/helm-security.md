@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: ispy-agent-dvr/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

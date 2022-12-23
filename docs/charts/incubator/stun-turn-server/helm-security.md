@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: stun-turn-server/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: quassel-web/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

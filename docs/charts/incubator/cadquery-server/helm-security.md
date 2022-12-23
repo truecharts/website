@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: cadquery-server/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

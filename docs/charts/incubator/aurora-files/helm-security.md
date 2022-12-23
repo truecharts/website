@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: aurora-files/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: serviio/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

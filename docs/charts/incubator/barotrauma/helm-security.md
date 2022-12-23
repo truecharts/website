@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: barotrauma/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

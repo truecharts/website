@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: pidgin/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

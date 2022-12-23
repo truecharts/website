@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: citadel-forgedwithfire/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

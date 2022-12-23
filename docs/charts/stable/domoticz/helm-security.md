@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: domoticz/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

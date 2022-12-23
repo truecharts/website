@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: kerio-connect/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

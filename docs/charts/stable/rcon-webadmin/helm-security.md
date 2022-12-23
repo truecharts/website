@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: rcon-webadmin/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

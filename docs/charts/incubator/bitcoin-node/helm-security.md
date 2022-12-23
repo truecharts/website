@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: bitcoin-node/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

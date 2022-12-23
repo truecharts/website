@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: openspeedtest/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

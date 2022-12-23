@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: godaddy-ddns/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

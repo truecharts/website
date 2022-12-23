@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: goaccess-npm-logs/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

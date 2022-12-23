@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: xen-orchestra/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       

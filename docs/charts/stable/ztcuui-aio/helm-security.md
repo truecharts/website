@@ -4,7 +4,7 @@
 
 ##### Scan Results
 
-#### Chart Object: ztcuui-aio/templates/common.yaml
+#### Chart Object: app.yaml
     
 
       
