@@ -941,6 +941,7 @@ The intro needs improvement ;)
 |hassconfigurator               |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |hassconfigurator               |hass-config                |PVC      |-                |/hass-config                                     |Read/Write|Enabled                |
 |hastebin                       |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
+|hasty-paste                    |config                     |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |hetzner-ddns                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |hexchat                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |hexo-blog                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
