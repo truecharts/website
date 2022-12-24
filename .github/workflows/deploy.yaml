@@ -31,7 +31,7 @@ jobs:
       - uses: borales/actions-yarn@v3.0.0
         with:
           cmd: install --frozen-lockfile
-        env: 
+        env:
           NODE_OPTIONS: "--max-old-space-size=15000
           DOCUSAURUS_SSR_CONCURRENCY: 5
         
