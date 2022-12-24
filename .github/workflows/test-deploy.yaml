@@ -23,9 +23,6 @@ jobs:
         with:
           node-version: 18
           cache: yarn
-          
-      - name: yarn clear
-        run: yarn clear
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
