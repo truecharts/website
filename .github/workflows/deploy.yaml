@@ -22,13 +22,15 @@ jobs:
         with:
           cmd: install --frozen-lockfile
         env: 
-          NODE_OPTIONS: "--max-old-space-size=7168"
+          NODE_OPTIONS: "--max-old-space-size=6800"
+          DOCUSAURUS_SSR_CONCURRENCY: 5
         
       - uses: borales/actions-yarn@v3.0.0
         with:
           cmd: build
         env: 
-          NODE_OPTIONS: "--max-old-space-size=7168"
+          NODE_OPTIONS: "--max-old-space-size=6800"
+          DOCUSAURUS_SSR_CONCURRENCY: 5
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
