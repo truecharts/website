@@ -13,23 +13,33 @@ jobs:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
+      - name: Set Swap Space
+        uses: pierotofy/set-swap-space@master
+        with:
+          swap-size-gb: 10
+          
       - uses: actions/checkout@v3
+      
       - uses: actions/setup-node@v3
         with:
           node-version: 18
+          cache: yarn
+          
+      - name: yarn clear
+        run: yarn clear
           
       - uses: borales/actions-yarn@v3.0.0
         with:
           cmd: install --frozen-lockfile
         env: 
-          NODE_OPTIONS: "--max-old-space-size=6800"
+          NODE_OPTIONS: "--max-old-space-size=15000
           DOCUSAURUS_SSR_CONCURRENCY: 5
         
       - uses: borales/actions-yarn@v3.0.0
         with:
-          cmd: build
+          cmd: build --no-minify
         env: 
-          NODE_OPTIONS: "--max-old-space-size=6800"
+          NODE_OPTIONS: "--max-old-space-size=15000"
           DOCUSAURUS_SSR_CONCURRENCY: 5
 
       # Popular action to deploy to GitHub Pages:
