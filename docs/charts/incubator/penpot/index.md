@@ -1,6 +1,6 @@
 # penpot
 
-![Version: 0.0.2](https://img.shields.io/badge/Version-0.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
 
 Open Source design and prototyping platform.
 
@@ -8,7 +8,7 @@ Open Source design and prototyping platform.
 
 - [**Changelog**](CHANGELOG)
 
-- [**Helm Security**](container-security)
+- [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
