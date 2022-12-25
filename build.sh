@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## AutoUpdate TrueTool using Git
+## AutoUpdate Website BUilder using Git
 updater(){
 echo -e "${BWhite}Checking for updates...${Color_Off}"
 git remote set-url origin "${targetRepo}"
@@ -8,7 +8,7 @@ BRANCH=$(git rev-parse --abbrev-ref HEAD)
 git fetch -q
 git update-index -q --refresh
 if [[ $(git status --branch --porcelain) == *"behind"* ]]; then
-  echo -e "${IPurple}TrueTool requires update${Color_Off}"
+  echo -e "${IPurple}Websuite Builder requires update${Color_Off}"
   git reset --hard -q
   git checkout -q "${BRANCH}"
   git pull -q
@@ -19,7 +19,7 @@ if [[ $(git status --branch --porcelain) == *"behind"* ]]; then
   else
     echo "restarting script after update..."
     export CHANGED="true"
-    . "${SCRIPT_DIR}/truetool.sh" "$@"
+    . "${SCRIPT_DIR}/build.sh" "$@"
     exit
   fi
 else
