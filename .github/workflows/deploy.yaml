@@ -3,9 +3,9 @@ name: Deploy to GitHub Pages
 concurrency:
   group: deploy-docs
 on:
-  push:
-    branches:
-      - main
+  #push:
+  #  branches:
+  #    - main
   workflow_dispatch:
 
 jobs:
