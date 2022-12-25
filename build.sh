@@ -3,7 +3,7 @@
 ## AutoUpdate Website BUilder using Git
 updater(){
 echo -e "${BWhite}Checking for updates...${Color_Off}"
-git remote set-url origin "${targetRepo}"
+git remote set-url origin "https://github.com/truecharts/website.git"
 BRANCH=$(git rev-parse --abbrev-ref HEAD)
 git fetch -q
 git update-index -q --refresh
