@@ -1,0 +1,125 @@
+# Container Security
+
+##### Detected Containers
+
+          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/guide2go:latest@sha256:242ea7703e5c9359e79a183c6bd35fbc0807864122201dc8accab99b9a3685e3
+          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+
+##### Scan Results
+
+**Container: tccr.io/truecharts/guide2go:latest@sha256:242ea7703e5c9359e79a183c6bd35fbc0807864122201dc8accab99b9a3685e3**
+
+#### Container: tccr.io/truecharts/guide2go:latest@sha256:242ea7703e5c9359e79a183c6bd35fbc0807864122201dc8accab99b9a3685e3 (alpine 3.12.0)
+    
+
+**alpine**
+
+      
+| Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
+|:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
+| apk-tools         |    CVE-2021-36159   |   CRITICAL  |  2.10.5-r1 | 2.10.7-r0 |
+| apk-tools         |    CVE-2021-30139   |   HIGH  |  2.10.5-r1 | 2.10.6-r0 |
+| busybox         |    CVE-2021-28831   |   HIGH  |  1.31.1-r19 | 1.31.1-r20 |
+| busybox         |    CVE-2021-42378   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2021-42379   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2021-42380   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2021-42381   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2021-42382   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2021-42383   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2021-42384   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2021-42385   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2021-42386   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox         |    CVE-2022-28391   |   HIGH  |  1.31.1-r19 | 1.31.1-r22 |
+| busybox         |    CVE-2021-42374   |   MEDIUM  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-28831   |   HIGH  |  1.31.1-r19 | 1.31.1-r20 |
+| busybox-suid         |    CVE-2021-42378   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-42379   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-42380   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-42381   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-42382   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-42383   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-42384   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-42385   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2021-42386   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| busybox-suid         |    CVE-2022-28391   |   HIGH  |  1.31.1-r19 | 1.31.1-r22 |
+| busybox-suid         |    CVE-2021-42374   |   MEDIUM  |  1.31.1-r19 | 1.31.1-r21 |
+| curl         |    CVE-2021-22945   |   CRITICAL  |  7.69.1-r0 | 7.79.0-r0 |
+| curl         |    CVE-2020-8169   |   HIGH  |  7.69.1-r0 | 7.69.1-r1 |
+| curl         |    CVE-2020-8177   |   HIGH  |  7.69.1-r0 | 7.69.1-r1 |
+| curl         |    CVE-2020-8231   |   HIGH  |  7.69.1-r0 | 7.69.1-r2 |
+| curl         |    CVE-2020-8285   |   HIGH  |  7.69.1-r0 | 7.69.1-r3 |
+| curl         |    CVE-2020-8286   |   HIGH  |  7.69.1-r0 | 7.69.1-r3 |
+| curl         |    CVE-2021-22901   |   HIGH  |  7.69.1-r0 | 7.77.0-r0 |
+| curl         |    CVE-2021-22946   |   HIGH  |  7.69.1-r0 | 7.79.0-r0 |
+| curl         |    CVE-2022-22576   |   HIGH  |  7.69.1-r0 | 7.79.1-r1 |
+| curl         |    CVE-2022-27775   |   HIGH  |  7.69.1-r0 | 7.79.1-r1 |
+| curl         |    CVE-2021-22876   |   MEDIUM  |  7.69.1-r0 | 7.76.0-r0 |
+| curl         |    CVE-2021-22922   |   MEDIUM  |  7.69.1-r0 | 7.78.0-r0 |
+| curl         |    CVE-2021-22923   |   MEDIUM  |  7.69.1-r0 | 7.78.0-r0 |
+| curl         |    CVE-2021-22925   |   MEDIUM  |  7.69.1-r0 | 7.78.0-r0 |
+| curl         |    CVE-2021-22947   |   MEDIUM  |  7.69.1-r0 | 7.79.0-r0 |
+| curl         |    CVE-2022-27774   |   MEDIUM  |  7.69.1-r0 | 7.79.1-r1 |
+| curl         |    CVE-2022-27776   |   MEDIUM  |  7.69.1-r0 | 7.79.1-r1 |
+| curl         |    CVE-2020-8284   |   LOW  |  7.69.1-r0 | 7.74.0-r0 |
+| curl         |    CVE-2021-22890   |   LOW  |  7.69.1-r0 | 7.76.0-r0 |
+| curl         |    CVE-2021-22898   |   LOW  |  7.69.1-r0 | 7.77.0-r0 |
+| curl         |    CVE-2021-22924   |   LOW  |  7.69.1-r0 | 7.78.0-r0 |
+| libcrypto1.1         |    CVE-2021-3711   |   CRITICAL  |  1.1.1g-r0 | 1.1.1l-r0 |
+| libcrypto1.1         |    CVE-2021-23840   |   HIGH  |  1.1.1g-r0 | 1.1.1j-r0 |
+| libcrypto1.1         |    CVE-2021-3450   |   HIGH  |  1.1.1g-r0 | 1.1.1k-r0 |
+| libcrypto1.1         |    CVE-2021-3712   |   HIGH  |  1.1.1g-r0 | 1.1.1l-r0 |
+| libcrypto1.1         |    CVE-2022-0778   |   HIGH  |  1.1.1g-r0 | 1.1.1n-r0 |
+| libcrypto1.1         |    CVE-2020-1971   |   MEDIUM  |  1.1.1g-r0 | 1.1.1i-r0 |
+| libcrypto1.1         |    CVE-2021-23841   |   MEDIUM  |  1.1.1g-r0 | 1.1.1j-r0 |
+| libcrypto1.1         |    CVE-2021-3449   |   MEDIUM  |  1.1.1g-r0 | 1.1.1k-r0 |
+| libcrypto1.1         |    CVE-2021-23839   |   LOW  |  1.1.1g-r0 | 1.1.1j-r0 |
+| libcurl         |    CVE-2021-22945   |   CRITICAL  |  7.69.1-r0 | 7.79.0-r0 |
+| libcurl         |    CVE-2020-8169   |   HIGH  |  7.69.1-r0 | 7.69.1-r1 |
+| libcurl         |    CVE-2020-8177   |   HIGH  |  7.69.1-r0 | 7.69.1-r1 |
+| libcurl         |    CVE-2020-8231   |   HIGH  |  7.69.1-r0 | 7.69.1-r2 |
+| libcurl         |    CVE-2020-8285   |   HIGH  |  7.69.1-r0 | 7.69.1-r3 |
+| libcurl         |    CVE-2020-8286   |   HIGH  |  7.69.1-r0 | 7.69.1-r3 |
+| libcurl         |    CVE-2021-22901   |   HIGH  |  7.69.1-r0 | 7.77.0-r0 |
+| libcurl         |    CVE-2021-22946   |   HIGH  |  7.69.1-r0 | 7.79.0-r0 |
+| libcurl         |    CVE-2022-22576   |   HIGH  |  7.69.1-r0 | 7.79.1-r1 |
+| libcurl         |    CVE-2022-27775   |   HIGH  |  7.69.1-r0 | 7.79.1-r1 |
+| libcurl         |    CVE-2021-22876   |   MEDIUM  |  7.69.1-r0 | 7.76.0-r0 |
+| libcurl         |    CVE-2021-22922   |   MEDIUM  |  7.69.1-r0 | 7.78.0-r0 |
+| libcurl         |    CVE-2021-22923   |   MEDIUM  |  7.69.1-r0 | 7.78.0-r0 |
+| libcurl         |    CVE-2021-22925   |   MEDIUM  |  7.69.1-r0 | 7.78.0-r0 |
+| libcurl         |    CVE-2021-22947   |   MEDIUM  |  7.69.1-r0 | 7.79.0-r0 |
+| libcurl         |    CVE-2022-27774   |   MEDIUM  |  7.69.1-r0 | 7.79.1-r1 |
+| libcurl         |    CVE-2022-27776   |   MEDIUM  |  7.69.1-r0 | 7.79.1-r1 |
+| libcurl         |    CVE-2020-8284   |   LOW  |  7.69.1-r0 | 7.74.0-r0 |
+| libcurl         |    CVE-2021-22890   |   LOW  |  7.69.1-r0 | 7.76.0-r0 |
+| libcurl         |    CVE-2021-22898   |   LOW  |  7.69.1-r0 | 7.77.0-r0 |
+| libcurl         |    CVE-2021-22924   |   LOW  |  7.69.1-r0 | 7.78.0-r0 |
+| libssl1.1         |    CVE-2021-3711   |   CRITICAL  |  1.1.1g-r0 | 1.1.1l-r0 |
+| libssl1.1         |    CVE-2021-23840   |   HIGH  |  1.1.1g-r0 | 1.1.1j-r0 |
+| libssl1.1         |    CVE-2021-3450   |   HIGH  |  1.1.1g-r0 | 1.1.1k-r0 |
+| libssl1.1         |    CVE-2021-3712   |   HIGH  |  1.1.1g-r0 | 1.1.1l-r0 |
+| libssl1.1         |    CVE-2022-0778   |   HIGH  |  1.1.1g-r0 | 1.1.1n-r0 |
+| libssl1.1         |    CVE-2020-1971   |   MEDIUM  |  1.1.1g-r0 | 1.1.1i-r0 |
+| libssl1.1         |    CVE-2021-23841   |   MEDIUM  |  1.1.1g-r0 | 1.1.1j-r0 |
+| libssl1.1         |    CVE-2021-3449   |   MEDIUM  |  1.1.1g-r0 | 1.1.1k-r0 |
+| libssl1.1         |    CVE-2021-23839   |   LOW  |  1.1.1g-r0 | 1.1.1j-r0 |
+| musl         |    CVE-2020-28928   |   MEDIUM  |  1.1.24-r9 | 1.1.24-r10 |
+| musl-utils         |    CVE-2020-28928   |   MEDIUM  |  1.1.24-r9 | 1.1.24-r10 |
+| ncurses-libs         |    CVE-2021-39537   |   HIGH  |  6.2_p20200523-r0 | 6.2_p20200523-r1 |
+| ncurses-terminfo-base         |    CVE-2021-39537   |   HIGH  |  6.2_p20200523-r0 | 6.2_p20200523-r1 |
+| ssl_client         |    CVE-2021-28831   |   HIGH  |  1.31.1-r19 | 1.31.1-r20 |
+| ssl_client         |    CVE-2021-42378   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2021-42379   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2021-42380   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2021-42381   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2021-42382   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2021-42383   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2021-42384   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2021-42385   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2021-42386   |   HIGH  |  1.31.1-r19 | 1.31.1-r21 |
+| ssl_client         |    CVE-2022-28391   |   HIGH  |  1.31.1-r19 | 1.31.1-r22 |
+| ssl_client         |    CVE-2021-42374   |   MEDIUM  |  1.31.1-r19 | 1.31.1-r21 |
+| zlib         |    CVE-2022-37434   |   CRITICAL  |  1.2.11-r3 | 1.2.12-r2 |
+| zlib         |    CVE-2018-25032   |   HIGH  |  1.2.11-r3 | 1.2.12-r0 |
+
