@@ -31,4 +31,7 @@ echo ""
 export -f updater
 
 updater
+
+yarn install
+
 yarn deploy --no-minify
