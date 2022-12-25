@@ -2,6 +2,15 @@
 
 
 
+## [inventree-7.0.18](https://github.com/truecharts/charts/compare/inventree-7.0.17...inventree-7.0.18) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [inventree-7.0.17](https://github.com/truecharts/charts/compare/inventree-7.0.16...inventree-7.0.17) (2022-12-25)
 
 ### Chore

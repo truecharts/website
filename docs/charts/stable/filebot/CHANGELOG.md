@@ -2,6 +2,15 @@
 
 
 
+## [filebot-3.0.5](https://github.com/truecharts/charts/compare/filebot-3.0.4...filebot-3.0.5) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [filebot-3.0.4](https://github.com/truecharts/charts/compare/filebot-3.0.3...filebot-3.0.4) (2022-12-19)
 
 ### Chore

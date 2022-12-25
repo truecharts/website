@@ -2,6 +2,15 @@
 
 
 
+## [redmine-6.0.20](https://github.com/truecharts/charts/compare/redmine-6.0.19...redmine-6.0.20) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [redmine-6.0.19](https://github.com/truecharts/charts/compare/redmine-6.0.18...redmine-6.0.19) (2022-12-24)
 
 ### Chore

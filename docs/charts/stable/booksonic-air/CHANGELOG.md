@@ -2,6 +2,15 @@
 
 
 
+## [booksonic-air-8.0.8](https://github.com/truecharts/charts/compare/booksonic-air-8.0.7...booksonic-air-8.0.8) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [booksonic-air-8.0.7](https://github.com/truecharts/charts/compare/booksonic-air-8.0.6...booksonic-air-8.0.7) (2022-12-24)
 
 ### Chore

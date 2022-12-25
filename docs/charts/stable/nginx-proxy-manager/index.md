@@ -1,12 +1,18 @@
 # nginx-proxy-manager
 
-## App Description
+![Version: 3.1.2](https://img.shields.io/badge/Version-3.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.9.19"](https://img.shields.io/badge/AppVersion-"2.9.19"-informational?style=flat-square)
 
 Managing Nginx proxy hosts with a simple, powerful interface.
 
 ## Available Documentation
 
-[**Default Username/Password**](charts/stable/nginx-proxy-manager/credentials)
+- [**Changelog**](CHANGELOG)
 
-[**Disclaimer**](charts/stable/nginx-proxy-manager/disclaimer)
+- [**Container Security**](container-security)
+
+- [**Default Username/Password**](credentials)
+
+- [**Disclaimer**](disclaimer)
+
+- [**Helm Security**](helm-security)
 

@@ -2,6 +2,15 @@
 
 
 
+## [baserow-6.0.16](https://github.com/truecharts/charts/compare/baserow-6.0.15...baserow-6.0.16) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [baserow-6.0.15](https://github.com/truecharts/charts/compare/baserow-6.0.14...baserow-6.0.15) (2022-12-24)
 
 ### Chore

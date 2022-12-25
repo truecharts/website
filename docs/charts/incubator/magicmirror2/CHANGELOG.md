@@ -2,6 +2,15 @@
 
 
 
+## [magicmirror2-2.0.5](https://github.com/truecharts/charts/compare/magicmirror2-2.0.4...magicmirror2-2.0.5) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [magicmirror2-2.0.4](https://github.com/truecharts/charts/compare/magicmirror2-2.0.3...magicmirror2-2.0.4) (2022-12-19)
 
 ### Chore

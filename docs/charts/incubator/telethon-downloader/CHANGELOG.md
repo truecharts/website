@@ -2,6 +2,15 @@
 
 
 
+## [telethon-downloader-2.0.5](https://github.com/truecharts/charts/compare/telethon-downloader-2.0.4...telethon-downloader-2.0.5) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [telethon-downloader-2.0.4](https://github.com/truecharts/charts/compare/telethon-downloader-2.0.3...telethon-downloader-2.0.4) (2022-12-19)
 
 ### Chore

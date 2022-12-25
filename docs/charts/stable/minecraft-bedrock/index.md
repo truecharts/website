@@ -1,10 +1,16 @@
 # minecraft-bedrock
 
-## App Description
+![Version: 3.0.6](https://img.shields.io/badge/Version-3.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2022.1.0"](https://img.shields.io/badge/AppVersion-"2022.1.0"-informational?style=flat-square)
 
 Minecraft Bedrock Dedicated Server
 
 ## Available Documentation
 
-[**How To**](charts/stable/minecraft-bedrock/How-To)
+- [**Changelog**](CHANGELOG)
+
+- [**How To**](How-To)
+
+- [**Container Security**](container-security)
+
+- [**Helm Security**](helm-security)
 

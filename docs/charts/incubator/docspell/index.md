@@ -1,10 +1,16 @@
 # docspell
 
-## App Description
+![Version: 3.0.16](https://img.shields.io/badge/Version-3.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.39.0"](https://img.shields.io/badge/AppVersion-"0.39.0"-informational?style=flat-square)
 
 Docspell is a personal document organizer.
 
 ## Available Documentation
 
-[**Installation Notes**](charts/incubator/docspell/installation-notes)
+- [**Changelog**](CHANGELOG)
+
+- [**Container Security**](container-security)
+
+- [**Helm Security**](helm-security)
+
+- [**Installation Notes**](installation-notes)
 

@@ -2,6 +2,15 @@
 
 
 
+## [chromium-2.0.9](https://github.com/truecharts/charts/compare/chromium-2.0.8...chromium-2.0.9) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [chromium-2.0.8](https://github.com/truecharts/charts/compare/chromium-desktop-g3-2.0.6...chromium-2.0.8) (2022-12-24)
 
 ### Chore

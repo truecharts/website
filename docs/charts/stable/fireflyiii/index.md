@@ -1,12 +1,18 @@
 # fireflyiii
 
-## App Description
+![Version: 19.0.13](https://img.shields.io/badge/Version-19.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.7.15"](https://img.shields.io/badge/AppVersion-"5.7.15"-informational?style=flat-square)
 
 A free and open source personal finance manager
 
 ## Available Documentation
 
-[**Important Notes**](charts/stable/fireflyiii/installation_notes)
+- [**Changelog**](CHANGELOG)
 
-[**Input Validation**](charts/stable/fireflyiii/validation)
+- [**Container Security**](container-security)
+
+- [**Helm Security**](helm-security)
+
+- [**Important Notes**](installation_notes)
+
+- [**Input Validation**](validation)
 

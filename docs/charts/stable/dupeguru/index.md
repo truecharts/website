@@ -1,10 +1,16 @@
 # dupeguru
 
-## App Description
+![Version: 3.0.5](https://img.shields.io/badge/Version-3.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "22.10.2"](https://img.shields.io/badge/AppVersion-"22.10.2"-informational?style=flat-square)
 
 dupeGuru is a tool to find duplicate files on your computer. It can scan either filenames or contents.
 
 ## Available Documentation
 
-[**Installation Notes**](charts/stable/dupeguru/installation_notes)
+- [**Changelog**](CHANGELOG)
+
+- [**Container Security**](container-security)
+
+- [**Helm Security**](helm-security)
+
+- [**Installation Notes**](installation_notes)
 

@@ -1,16 +1,22 @@
 # traefik
 
-## App Description
+![Version: 16.0.8](https://img.shields.io/badge/Version-16.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.9.6"](https://img.shields.io/badge/AppVersion-"2.9.6"-informational?style=flat-square)
 
 Traefik is a flexible reverse proxy and Ingress Provider.
 
 ## Available Documentation
 
-[**---**](charts/stable/traefik/how-to)
+- [**Changelog**](CHANGELOG)
 
-[**Redirect Regex**](charts/stable/traefik/redirect-regex-middleware)
+- [**Container Security**](container-security)
 
-[**Theme Park**](charts/stable/traefik/theme-park-middleware)
+- [**Helm Security**](helm-security)
 
-[**Add Traefik Basic Auth to Apps**](charts/stable/traefik/traefik-basicAuth-middleware)
+- [**---**](how-to)
+
+- [**Redirect Regex**](redirect-regex-middleware)
+
+- [**Theme Park**](theme-park-middleware)
+
+- [**Add Traefik Basic Auth to Apps**](traefik-basicAuth-middleware)
 

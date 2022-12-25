@@ -1,6 +1,6 @@
 # jellyfin
 
-![Version: 13.0.6](https://img.shields.io/badge/Version-13.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "10.8.8"](https://img.shields.io/badge/AppVersion-"10.8.8"-informational?style=flat-square)
+![Version: 13.0.7](https://img.shields.io/badge/Version-13.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "10.8.8"](https://img.shields.io/badge/AppVersion-"10.8.8"-informational?style=flat-square)
 
 Jellyfin is a Free Software Media System
 
@@ -8,7 +8,7 @@ Jellyfin is a Free Software Media System
 
 - [**Changelog**](CHANGELOG)
 
-- [****](container-security)
+- [**Container Security**](container-security)
 
-- [****](helm-security)
+- [**Helm Security**](helm-security)
 

@@ -1,10 +1,16 @@
 # metallb
 
-## App Description
+![Version: 7.0.6](https://img.shields.io/badge/Version-7.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "upstream"](https://img.shields.io/badge/AppVersion-"upstream"-informational?style=flat-square)
 
 A network load-balancer implementation for Kubernetes using standard routing protocols
 
 ## Available Documentation
 
-[**MetalLB Basic Setup**](charts/enterprise/metallb/setup-guide)
+- [**Changelog**](CHANGELOG)
+
+- [**Container Security**](container-security)
+
+- [**Helm Security**](helm-security)
+
+- [**MetalLB Basic Setup**](setup-guide)
 

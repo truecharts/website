@@ -2,6 +2,15 @@
 
 
 
+## [rflood-2.0.5](https://github.com/truecharts/charts/compare/rflood-2.0.4...rflood-2.0.5) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [rflood-2.0.4](https://github.com/truecharts/charts/compare/rflood-2.0.3...rflood-2.0.4) (2022-12-19)
 
 ### Chore

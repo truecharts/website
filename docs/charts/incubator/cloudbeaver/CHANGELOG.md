@@ -2,6 +2,15 @@
 
 
 
+## [cloudbeaver-2.0.7](https://github.com/truecharts/charts/compare/cloudbeaver-2.0.6...cloudbeaver-2.0.7) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [cloudbeaver-2.0.6](https://github.com/truecharts/charts/compare/cloudbeaver-2.0.5...cloudbeaver-2.0.6) (2022-12-19)
 
 ### Chore

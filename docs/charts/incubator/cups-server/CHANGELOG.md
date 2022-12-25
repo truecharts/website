@@ -2,6 +2,15 @@
 
 
 
+## [cups-server-3.0.9](https://github.com/truecharts/charts/compare/cups-server-3.0.8...cups-server-3.0.9) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [cups-server-3.0.8](https://github.com/truecharts/charts/compare/cups-server-3.0.7...cups-server-3.0.8) (2022-12-24)
 
 ### Chore

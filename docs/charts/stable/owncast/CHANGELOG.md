@@ -2,6 +2,15 @@
 
 
 
+## [owncast-8.0.6](https://github.com/truecharts/charts/compare/owncast-8.0.5...owncast-8.0.6) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [owncast-8.0.5](https://github.com/truecharts/charts/compare/owncast-8.0.4...owncast-8.0.5) (2022-12-19)
 
 ### Chore

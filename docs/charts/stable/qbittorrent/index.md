@@ -1,14 +1,20 @@
 # qbittorrent
 
-## App Description
+![Version: 13.0.8](https://img.shields.io/badge/Version-13.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "4.5.0"](https://img.shields.io/badge/AppVersion-"4.5.0"-informational?style=flat-square)
 
 qBittorrent is a cross-platform free and open-source BitTorrent client
 
 ## Available Documentation
 
-[**Default Username/Password**](charts/stable/qbittorrent/credentials)
+- [**Changelog**](CHANGELOG)
 
-[**Installation Guide**](charts/stable/qbittorrent/installation)
+- [**Container Security**](container-security)
 
-[**Using VPN**](charts/stable/qbittorrent/vpn)
+- [**Default Username/Password**](credentials)
+
+- [**Helm Security**](helm-security)
+
+- [**Installation Guide**](installation)
+
+- [**Using VPN**](vpn)
 

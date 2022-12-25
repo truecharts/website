@@ -2,6 +2,15 @@
 
 
 
+## [pyload-ng-2.0.9](https://github.com/truecharts/charts/compare/pyload-ng-2.0.8...pyload-ng-2.0.9) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [pyload-ng-2.0.8](https://github.com/truecharts/charts/compare/pyload-ng-2.0.7...pyload-ng-2.0.8) (2022-12-25)
 
 ### Chore

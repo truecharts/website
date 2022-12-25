@@ -2,6 +2,15 @@
 
 
 
+## [kodi-headless-4.0.7](https://github.com/truecharts/charts/compare/kodi-headless-4.0.6...kodi-headless-4.0.7) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [kodi-headless-4.0.6](https://github.com/truecharts/charts/compare/kodi-headless-4.0.5...kodi-headless-4.0.6) (2022-12-24)
 
 ### Chore

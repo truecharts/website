@@ -2,6 +2,15 @@
 
 
 
+## [storm-2.0.5](https://github.com/truecharts/charts/compare/storm-2.0.4...storm-2.0.5) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [storm-2.0.4](https://github.com/truecharts/charts/compare/storm-2.0.3...storm-2.0.4) (2022-12-19)
 
 ### Chore

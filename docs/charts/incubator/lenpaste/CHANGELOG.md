@@ -2,6 +2,15 @@
 
 
 
+## [lenpaste-3.0.13](https://github.com/truecharts/charts/compare/lenpaste-3.0.12...lenpaste-3.0.13) (2022-12-25)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [lenpaste-3.0.12](https://github.com/truecharts/charts/compare/lenpaste-3.0.11...lenpaste-3.0.12) (2022-12-19)
 
 ### Chore
