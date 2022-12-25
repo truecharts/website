@@ -1,5 +1,8 @@
 #!/bin/bash
 
+git config --global user.email "bot@truecharts.org"
+git config --global user.name "TrueCharts-Bot"
+
 ## AutoUpdate Website BUilder using Git
 updater(){
 echo -e "${BWhite}Checking for updates...${Color_Off}"
