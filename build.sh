@@ -35,6 +35,6 @@ export -f updater
 
 updater
 
-yarn install
+yarn install --frozen-lockfile
 
 yarn deploy
