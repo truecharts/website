@@ -34,4 +34,4 @@ updater
 
 yarn install
 
-yarn deploy --no-minify
+yarn deploy
