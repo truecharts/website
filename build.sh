@@ -19,7 +19,7 @@ if [[ $(git status --branch --porcelain) == *"behind"* ]]; then
   else
     echo "restarting script after update..."
     export CHANGED="true"
-    . "${SCRIPT_DIR}/build.sh" "$@"
+    . "/data/build.sh" "$@"
     exit
   fi
 else
