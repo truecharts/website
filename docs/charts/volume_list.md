@@ -440,7 +440,7 @@ The intro needs improvement ;)
 |pasta                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |pgadmin                   |config                |PVC      |-              |/var/lib/pgadmin                                     |Read/Write|Enabled                |
 |photoprism                |storage               |PVC      |-              |/assets                                              |Read/Write|Enabled                |
-|photoprism                |temp                  |emptyDir |-              |/photoprism/temp                                     |Read/Write|Enabled                |
+|photoprism                |photoprismtemp        |emptyDir |-              |/photoprism_temp                                     |Read/Write|Enabled                |
 |photoshow                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |photoshow                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |photoview                 |cache                 |PVC      |-              |/cache                                               |Read/Write|Enabled                |
@@ -767,6 +767,7 @@ The intro needs improvement ;)
 |citadel-forgedwithfire         |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |citadel-forgedwithfire         |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |cleanarr                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|clipplex                       |clips                      |PVC      |-                |/app/app/static/media                            |Read/Write|Enabled                |
 |cloudbeaver                    |appdata                    |PVC      |-                |/opt/cloudbeaver/workspace                       |Read/Write|Enabled                |
 |cloudcommander                 |appdata                    |PVC      |-                |/root                                            |Read/Write|Enabled                |
 |cloudcommander                 |mountpath                  |PVC      |-                |/UNRAID                                          |Read/Write|Enabled                |
@@ -960,6 +961,7 @@ The intro needs improvement ;)
 |inkscape-desktop-g3            |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |insurgencysandstorm            |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |insurgencysandstorm            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|invidious                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |invitarr                       |config                     |PVC      |-                |/app/app/config                                  |Read/Write|Enabled                |
 |ipmi-tools                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |jelu                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1173,7 +1175,8 @@ The intro needs improvement ;)
 |root                           |appdata                    |PVC      |-                |/appdata                                         |Read/Write|Enabled                |
 |rss-proxy                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rss-to-telegram                |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|rstudio                        |userdatadirectory          |PVC      |-                |/home/rstudio/Documents                          |Read/Write|Enabled                |
+|rstudio                        |config                     |PVC      |-                |/home/rstudio/.config/rstudio                    |Read/Write|Enabled                |
+|rstudio                        |workspace                  |PVC      |-                |/home/rstudio/workspace                          |Read/Write|Enabled                |
 |rtmpserver                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rust                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |rust                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -1339,8 +1342,7 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|blocky    |-       |-   |-       |-        |-         |Persistence not Defined|
-|metallb   |-       |-   |-       |-        |-         |Persistence not Defined|
-|testwarden|data    |PVC |-       |/data    |Read/Write|Enabled                |
+|blocky  |-       |-   |-       |-        |-   |Persistence not Defined|
+|metallb |-       |-   |-       |-        |-   |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
