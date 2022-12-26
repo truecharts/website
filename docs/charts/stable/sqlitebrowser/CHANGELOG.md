@@ -2,6 +2,15 @@
 
 
 
+## [sqlitebrowser-5.0.6](https://github.com/truecharts/charts/compare/sqlitebrowser-5.0.5...sqlitebrowser-5.0.6) (2022-12-26)
+
+### Chore
+
+- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+  
+  
+
+
 ## [sqlitebrowser-5.0.5](https://github.com/truecharts/charts/compare/sqlitebrowser-5.0.4...sqlitebrowser-5.0.5) (2022-12-25)
 
 ### Chore

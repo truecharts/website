@@ -2,6 +2,15 @@
 
 
 
+## [amule-2.1.5](https://github.com/truecharts/charts/compare/amule-2.1.4...amule-2.1.5) (2022-12-26)
+
+### Chore
+
+- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+  
+  
+
+
 ## [amule-2.1.4](https://github.com/truecharts/charts/compare/amule-2.1.3...amule-2.1.4) (2022-12-25)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [monica-6.0.16](https://github.com/truecharts/charts/compare/monica-6.0.15...monica-6.0.16) (2022-12-26)
+
+### Chore
+
+- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+  
+  
+
+
 ## [monica-6.0.15](https://github.com/truecharts/charts/compare/monica-6.0.14...monica-6.0.15) (2022-12-25)
 
 ### Chore

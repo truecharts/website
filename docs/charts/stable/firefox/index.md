@@ -1,6 +1,6 @@
 # firefox
 
-![Version: 4.0.6](https://img.shields.io/badge/Version-4.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "101.0.1"](https://img.shields.io/badge/AppVersion-"101.0.1"-informational?style=flat-square)
+![Version: 4.0.7](https://img.shields.io/badge/Version-4.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "101.0.1"](https://img.shields.io/badge/AppVersion-"101.0.1"-informational?style=flat-square)
 
 Firefox Browser, also known as Mozilla Firefox or simply Firefox,
 

@@ -2,6 +2,15 @@
 
 
 
+## [grist-7.0.15](https://github.com/truecharts/charts/compare/grist-7.0.14...grist-7.0.15) (2022-12-26)
+
+### Chore
+
+- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+  
+  
+
+
 ## [grist-7.0.14](https://github.com/truecharts/charts/compare/grist-7.0.13...grist-7.0.14) (2022-12-25)
 
 ### Chore

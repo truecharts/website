@@ -2,6 +2,15 @@
 
 
 
+## [bazarr-13.0.13](https://github.com/truecharts/charts/compare/bazarr-13.0.12...bazarr-13.0.13) (2022-12-26)
+
+### Chore
+
+- update helm general non-major ([#5839](https://github.com/truecharts/charts/issues/5839))
+  
+  
+
+
 ## [bazarr-13.0.12](https://github.com/truecharts/charts/compare/bazarr-13.0.11...bazarr-13.0.12) (2022-12-25)
 
 ### Chore
