@@ -2,6 +2,16 @@
 
 
 
+## [subchart-3.0.10](https://github.com/truecharts/charts/compare/subchart-3.0.9...subchart-3.0.10) (2022-12-26)
+
+### Chore
+
+- update helm chart common to 11.1.1
+  - pin dependencies ([#5688](https://github.com/truecharts/charts/issues/5688))
+  
+  
+
+
 ## [subchart-3.0.9](https://github.com/truecharts/charts/compare/subchart-3.0.8...subchart-3.0.9) (2022-12-24)
 
 ### Chore
