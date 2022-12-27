@@ -2,9 +2,8 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/cadquery-server:latest@sha256:8336efcea7ae6e9a377fd5761bd9b903644b98a23ea99cd008b84323d6a21ee2
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 

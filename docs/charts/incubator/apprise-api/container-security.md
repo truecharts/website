@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/apprise-api:latest@sha256:af849f1b85dc89a88177a807947908092e0ef74983d5faf0991dec008043bc3e
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/apprise-api:latest@sha256:61284eef42f0e777313716b1c09b103fac539ee177a0503f0f7c2b3031e26a0d
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/apprise-api:latest@sha256:af849f1b85dc89a88177a807947908092e0ef74983d5faf0991dec008043bc3e**
+**Container: tccr.io/truecharts/apprise-api:latest@sha256:61284eef42f0e777313716b1c09b103fac539ee177a0503f0f7c2b3031e26a0d**
 
-#### Container: tccr.io/truecharts/apprise-api:latest@sha256:af849f1b85dc89a88177a807947908092e0ef74983d5faf0991dec008043bc3e (alpine 3.16)
+#### Container: tccr.io/truecharts/apprise-api:latest@sha256:61284eef42f0e777313716b1c09b103fac539ee177a0503f0f7c2b3031e26a0d (alpine 3.16)
     
 
 **alpine**
@@ -20,6 +19,4 @@
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
 | curl         |    CVE-2022-43551   |   HIGH  |  7.83.1-r4 | 7.83.1-r5 |
 | curl         |    CVE-2022-43552   |   MEDIUM  |  7.83.1-r4 | 7.83.1-r5 |
-| libcurl         |    CVE-2022-43551   |   HIGH  |  7.83.1-r4 | 7.83.1-r5 |
-| libcurl         |    CVE-2022-43552   |   MEDIUM  |  7.83.1-r4 | 7.83.1-r5 |
 

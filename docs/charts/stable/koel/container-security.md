@@ -5,10 +5,9 @@
           tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           'tccr.io/truecharts/koel:latest@sha256:178d6fb44b4009b1ddb38555f1985f32f6346d165cb17d03dd9256030d2eb9c8'
           tccr.io/truecharts/koel:latest@sha256:178d6fb44b4009b1ddb38555f1985f32f6346d165cb17d03dd9256030d2eb9c8
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/mariadb:10.10.2@sha256:df9a0e20fc8371426eac28202164a996da644befdb7823c4d5749b5ee39b9ddb
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/mariadb:10.10.2@sha256:ce108313bfb68b0677f76154fe74d04e4c9f0d19a4b52ee04159040b532ba642
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
@@ -1475,9 +1474,9 @@
 | xxd         |    CVE-2022-4293   |   LOW  |  2:8.1.0875-5+deb10u4 |  |
 | zip         |    CVE-2018-13410   |   LOW  |  3.0-11 |  |
 
-**Container: tccr.io/truecharts/mariadb:10.10.2@sha256:df9a0e20fc8371426eac28202164a996da644befdb7823c4d5749b5ee39b9ddb**
+**Container: tccr.io/truecharts/mariadb:10.10.2@sha256:ce108313bfb68b0677f76154fe74d04e4c9f0d19a4b52ee04159040b532ba642**
 
-#### Container: tccr.io/truecharts/mariadb:10.10.2@sha256:df9a0e20fc8371426eac28202164a996da644befdb7823c4d5749b5ee39b9ddb (debian 11.5)
+#### Container: tccr.io/truecharts/mariadb:10.10.2@sha256:ce108313bfb68b0677f76154fe74d04e4c9f0d19a4b52ee04159040b532ba642 (debian 11.6)
     
 
 **debian**
@@ -1541,7 +1540,6 @@
 | libsystemd0         |    CVE-2022-4415   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2013-4392   |   LOW  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2020-13529   |   LOW  |  247.3-7+deb11u1 |  |
-| libtasn1-6         |    CVE-2021-46848   |   CRITICAL  |  4.16.0-2 | 4.16.0-2+deb11u1 |
 | libtinfo6         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
 | libtinfo6         |    CVE-2021-39537   |   LOW  |  6.2+20201114-2 |  |
 | libudev1         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
@@ -1572,8 +1570,6 @@
       
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
-| github.com/opencontainers/runc         |    CVE-2022-29162   |   HIGH  |  v1.0.1 | v1.1.2 |
-| github.com/opencontainers/runc         |    CVE-2021-43784   |   MEDIUM  |  v1.0.1 | 1.1.0 |
-| github.com/opencontainers/runc         |    CVE-2022-24769   |   MEDIUM  |  v1.0.1 | v1.1.2 |
-| golang.org/x/sys         |    CVE-2022-29526   |   MEDIUM  |  v0.0.0-20210817142637-7d9622a276b7 | 0.0.0-20220412211240-33da011f77ad |
+| github.com/opencontainers/runc         |    CVE-2022-29162   |   HIGH  |  v1.1.0 | v1.1.2 |
+| github.com/opencontainers/runc         |    CVE-2022-24769   |   MEDIUM  |  v1.1.0 | v1.1.2 |
 

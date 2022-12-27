@@ -2,12 +2,11 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/jitsi-web:8138@sha256:839443339eda77c350a98cba9ee4f2e148d1f33e3a51ab2b2fd3999978a1cef5
           'tccr.io/truecharts/jitsi-jicofo:8138@sha256:dcc59206ace0a870475848eba6ad7ca85ec692887fab94d4ce8c88e4a38daae0'
           'tccr.io/truecharts/jitsi-jvb:8138@sha256:e881c46467f59287df37ef1ba76e1467e8989328cee642840c06bf7cdff7864c'
           'tccr.io/truecharts/jitsi-prosody:8138@sha256:e50bf3e11dfdb705a3259fcce1f2b7ffe5e910556020cc0f4f76f9a2fbe731a4'
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 

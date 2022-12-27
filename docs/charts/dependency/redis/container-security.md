@@ -2,14 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/redis:7.0.7@sha256:0c1289e3344b2c3e2268c2d02989350e97dcaeaac937a2a5d058c120e5192276
+          tccr.io/truecharts/redis:7.0.7@sha256:a9c688ff993714c849d6132e7d78c078781202cc10c718441517e9e48b38a0a9
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/redis:7.0.7@sha256:0c1289e3344b2c3e2268c2d02989350e97dcaeaac937a2a5d058c120e5192276**
+**Container: tccr.io/truecharts/redis:7.0.7@sha256:a9c688ff993714c849d6132e7d78c078781202cc10c718441517e9e48b38a0a9**
 
-#### Container: tccr.io/truecharts/redis:7.0.7@sha256:0c1289e3344b2c3e2268c2d02989350e97dcaeaac937a2a5d058c120e5192276 (debian 11.6)
+#### Container: tccr.io/truecharts/redis:7.0.7@sha256:a9c688ff993714c849d6132e7d78c078781202cc10c718441517e9e48b38a0a9 (debian 11.6)
     
 
 **debian**

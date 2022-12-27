@@ -2,14 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/mongodb:6.0.3@sha256:5932d8e13ab744f6c3b1b365845963ace1ec707224bf22f83d5c1d09993cf8d1
+          tccr.io/truecharts/mongodb:6.0.3@sha256:36fa249ef35680d9397952668d1515fa9a08b40ca4c3eb5e6365fd7a6b1cccd2
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/mongodb:6.0.3@sha256:5932d8e13ab744f6c3b1b365845963ace1ec707224bf22f83d5c1d09993cf8d1**
+**Container: tccr.io/truecharts/mongodb:6.0.3@sha256:36fa249ef35680d9397952668d1515fa9a08b40ca4c3eb5e6365fd7a6b1cccd2**
 
-#### Container: tccr.io/truecharts/mongodb:6.0.3@sha256:5932d8e13ab744f6c3b1b365845963ace1ec707224bf22f83d5c1d09993cf8d1 (debian 11.6)
+#### Container: tccr.io/truecharts/mongodb:6.0.3@sha256:36fa249ef35680d9397952668d1515fa9a08b40ca4c3eb5e6365fd7a6b1cccd2 (debian 11.6)
     
 
 **debian**

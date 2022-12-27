@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/yourls:latest@sha256:80b0babca27e69f6573b7bbdaed8a113c8ca6cf8e30a99ffebfcd8de2e0ae6ed
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/yourls:latest@sha256:44f09aade51f607962e2f680ab1fd0321f3955fc2343d0a0b8ea5ca737d76502
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/yourls:latest@sha256:80b0babca27e69f6573b7bbdaed8a113c8ca6cf8e30a99ffebfcd8de2e0ae6ed**
+**Container: tccr.io/truecharts/yourls:latest@sha256:44f09aade51f607962e2f680ab1fd0321f3955fc2343d0a0b8ea5ca737d76502**
 
-#### Container: tccr.io/truecharts/yourls:latest@sha256:80b0babca27e69f6573b7bbdaed8a113c8ca6cf8e30a99ffebfcd8de2e0ae6ed (debian 11.5)
+#### Container: tccr.io/truecharts/yourls:latest@sha256:44f09aade51f607962e2f680ab1fd0321f3955fc2343d0a0b8ea5ca737d76502 (debian 11.6)
     
 
 **debian**
@@ -264,7 +263,6 @@
 | libsystemd0         |    CVE-2022-4415   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2013-4392   |   LOW  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2020-13529   |   LOW  |  247.3-7+deb11u1 |  |
-| libtasn1-6         |    CVE-2021-46848   |   CRITICAL  |  4.16.0-2 | 4.16.0-2+deb11u1 |
 | libtinfo6         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
 | libtinfo6         |    CVE-2021-39537   |   LOW  |  6.2+20201114-2 |  |
 | libudev1         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
@@ -273,139 +271,115 @@
 | libudev1         |    CVE-2020-13529   |   LOW  |  247.3-7+deb11u1 |  |
 | libuuid1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | libxml2         |    CVE-2016-3709   |   MEDIUM  |  2.9.10+dfsg-6.7+deb11u3 |  |
-| linux-libc-dev         |    CVE-2022-3643   |   CRITICAL  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2013-7445   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-19378   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-19449   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-19814   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-12362   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-3714   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-3847   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-3864   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-39686   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-4204   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-0400   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-0500   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-1247   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-2961   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3424   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3524   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-3545   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3564   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-3565   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-3566   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3567   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3594   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-3623   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3640   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-39189   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-4139   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-42896   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-4378   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-43945   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-45884   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-45885   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-45886   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-45919   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-45934   |   HIGH  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-47518   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-47519   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-47520   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-47521   |   HIGH  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2019-15213   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-15794   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-16089   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-20794   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-12363   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-12364   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-14304   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-15802   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-24504   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-26555   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-36516   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-33061   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-3669   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-3759   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2021-4023   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-4149   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-44879   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-0480   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-1280   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-23825   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-2873   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3108   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3114   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3169   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-3344   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3435   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-3523   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3628   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-36280   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3707   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-38096   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-38457   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-40133   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-41218   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-4129   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-41848   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-41849   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-41850   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-42328   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-42329   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-4269   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-42895   |   MEDIUM  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-44032   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-44033   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-44034   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-4543   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-45887   |   MEDIUM  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2004-0230   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2005-3660   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2007-3719   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2008-2544   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2008-4609   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2010-4563   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2010-5321   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2011-4915   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2011-4916   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2011-4917   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2012-4542   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2014-9892   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2014-9900   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2015-2877   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2016-10723   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2016-8660   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2017-0630   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2017-13693   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2017-13694   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2018-1121   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2018-12928   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2018-17977   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-11191   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-12378   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-12379   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-12380   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-12381   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-12382   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-12455   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-12456   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-16229   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-16230   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-16231   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-16232   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-16233   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-16234   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2019-19070   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-11725   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2020-35501   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-26934   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2021-32078   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-25265   |   LOW  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-3521   |   LOW  |  5.10.149-2 | 5.10.158-1 |
-| linux-libc-dev         |    CVE-2022-2196   |   UNKNOWN  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-4379   |   UNKNOWN  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-4382   |   UNKNOWN  |  5.10.149-2 |  |
-| linux-libc-dev         |    CVE-2022-47946   |   UNKNOWN  |  5.10.149-2 | 5.10.158-1 |
+| linux-libc-dev         |    CVE-2013-7445   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-19378   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-19449   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-19814   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-12362   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-3714   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-3847   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-3864   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-39686   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-4204   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-0400   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-0500   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-1247   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-2961   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3424   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3545   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3566   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3567   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3623   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-39189   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-43945   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-45884   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-45885   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-45886   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-45919   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-45934   |   HIGH  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-15213   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-15794   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-16089   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-20794   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-12363   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-12364   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-14304   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-15802   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-24504   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-26555   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-36516   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-33061   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-3669   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-4023   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-4149   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-44879   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-0480   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-1280   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-23825   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-2873   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3108   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3114   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3344   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3523   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-36280   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-3707   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-38096   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-38457   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-40133   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-41218   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-4129   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-41848   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-4269   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-44032   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-44033   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-44034   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-4543   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-45887   |   MEDIUM  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2004-0230   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2005-3660   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2007-3719   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2008-2544   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2008-4609   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2010-4563   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2010-5321   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2011-4915   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2011-4916   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2011-4917   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2012-4542   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2014-9892   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2014-9900   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2015-2877   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2016-10723   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2016-8660   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2017-0630   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2017-13693   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2017-13694   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2018-1121   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2018-12928   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2018-17977   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-11191   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-12378   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-12379   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-12380   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-12381   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-12382   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-12455   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-12456   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-16229   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-16230   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-16231   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-16232   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-16233   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-16234   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2019-19070   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-11725   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2020-35501   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-26934   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2021-32078   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-25265   |   LOW  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-2196   |   UNKNOWN  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-4379   |   UNKNOWN  |  5.10.158-2 |  |
+| linux-libc-dev         |    CVE-2022-4382   |   UNKNOWN  |  5.10.158-2 |  |
 | login         |    CVE-2007-5686   |   LOW  |  1:4.8.1-1 |  |
 | login         |    CVE-2013-4235   |   LOW  |  1:4.8.1-1 |  |
 | login         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |

@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/habridge:v5.4.1@sha256:45392ba4632ec0231ee059eb776d89f7c9a17731651a49044caabb675f1c409c
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/habridge:v5.4.1@sha256:507156bd814ab95984078aa278162eb80283b92f7017f45381f263fd1bc89a8a
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/habridge:v5.4.1@sha256:45392ba4632ec0231ee059eb776d89f7c9a17731651a49044caabb675f1c409c**
+**Container: tccr.io/truecharts/habridge:v5.4.1@sha256:507156bd814ab95984078aa278162eb80283b92f7017f45381f263fd1bc89a8a**
 
-#### Container: tccr.io/truecharts/habridge:v5.4.1@sha256:45392ba4632ec0231ee059eb776d89f7c9a17731651a49044caabb675f1c409c (alpine 3.17.0)
+#### Container: tccr.io/truecharts/habridge:v5.4.1@sha256:507156bd814ab95984078aa278162eb80283b92f7017f45381f263fd1bc89a8a (alpine 3.17.0)
     
 
 **alpine**

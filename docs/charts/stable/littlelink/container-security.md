@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/littlelink-server:latest@sha256:becf47d7391b8caf5c037328ab48c60bcecd72453be0810c1f9078d91ab400b4
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/littlelink-server:latest@sha256:4659f6d1fad47460750ae236b0a806b5e4a29ec60365f52e2e94ae90ddc45355
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/littlelink-server:latest@sha256:becf47d7391b8caf5c037328ab48c60bcecd72453be0810c1f9078d91ab400b4**
+**Container: tccr.io/truecharts/littlelink-server:latest@sha256:4659f6d1fad47460750ae236b0a806b5e4a29ec60365f52e2e94ae90ddc45355**
 
-#### Container: tccr.io/truecharts/littlelink-server:latest@sha256:becf47d7391b8caf5c037328ab48c60bcecd72453be0810c1f9078d91ab400b4 (alpine 3.17.0)
+#### Container: tccr.io/truecharts/littlelink-server:latest@sha256:4659f6d1fad47460750ae236b0a806b5e4a29ec60365f52e2e94ae90ddc45355 (alpine 3.17.0)
     
 
 **alpine**

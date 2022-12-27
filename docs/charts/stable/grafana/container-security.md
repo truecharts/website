@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/grafana:9.3.2@sha256:6cf16a25bceedc2667f32134db0e29d22dcb34c3dbb601fc8b06ab104685e357
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/grafana:9.3.2@sha256:87a5412b7d771aa0d9909c8ef8d386df8fdef1aedcef6778e5f60374e1ccee13
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/grafana:9.3.2@sha256:6cf16a25bceedc2667f32134db0e29d22dcb34c3dbb601fc8b06ab104685e357**
+**Container: tccr.io/truecharts/grafana:9.3.2@sha256:87a5412b7d771aa0d9909c8ef8d386df8fdef1aedcef6778e5f60374e1ccee13**
 
-#### Container: tccr.io/truecharts/grafana:9.3.2@sha256:6cf16a25bceedc2667f32134db0e29d22dcb34c3dbb601fc8b06ab104685e357 (debian 11.6)
+#### Container: tccr.io/truecharts/grafana:9.3.2@sha256:87a5412b7d771aa0d9909c8ef8d386df8fdef1aedcef6778e5f60374e1ccee13 (debian 11.6)
     
 
 **debian**

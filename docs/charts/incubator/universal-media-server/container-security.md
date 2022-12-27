@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/universal-media-server:latest@sha256:3a6ac3e4dc5c8018dee3b5a6566b956eb44614b68fc17326d39eea87b9a87e55
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/universal-media-server:latest@sha256:e71230b1e2b6e330de0ca59c3b64c991a1788ca1c67df3e91ae3a8269e1c22ea
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/universal-media-server:latest@sha256:3a6ac3e4dc5c8018dee3b5a6566b956eb44614b68fc17326d39eea87b9a87e55**
+**Container: tccr.io/truecharts/universal-media-server:latest@sha256:e71230b1e2b6e330de0ca59c3b64c991a1788ca1c67df3e91ae3a8269e1c22ea**
 
-#### Container: tccr.io/truecharts/universal-media-server:latest@sha256:3a6ac3e4dc5c8018dee3b5a6566b956eb44614b68fc17326d39eea87b9a87e55 (alpine 3.17.0)
+#### Container: tccr.io/truecharts/universal-media-server:latest@sha256:e71230b1e2b6e330de0ca59c3b64c991a1788ca1c67df3e91ae3a8269e1c22ea (alpine 3.17.0)
     
 
 **alpine**

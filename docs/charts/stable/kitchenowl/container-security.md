@@ -2,10 +2,9 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/kitchenowl-web:beta@sha256:e5607aaff9bfb24e6d784ecea6787a58e8006c2f1bc433f09e5ce7f30ec1e074
           'tccr.io/truecharts/kitchenowl-backend:beta@sha256:46dd7c36b28977c640e1edbba23a31c4d20b381eb9a73763f653ea59d19ac622'
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 

@@ -2,9 +2,8 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/krusader:latest@sha256:05c4f33ac1576a3aee97a7b06af23f370455af3f61b584c32c62932d2305a6ed
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
@@ -178,21 +177,18 @@
 | liblua5.2-0         |    CVE-2021-43519   |   MEDIUM  |  5.2.4-1.1 |  |
 | libmbedcrypto3         |    CVE-2021-44732   |   CRITICAL  |  2.16.9-0.1 |  |
 | libmbedcrypto3         |    CVE-2022-35409   |   CRITICAL  |  2.16.9-0.1 |  |
-| libmbedcrypto3         |    CVE-2022-46393   |   CRITICAL  |  2.16.9-0.1 |  |
 | libmbedcrypto3         |    CVE-2021-43666   |   HIGH  |  2.16.9-0.1 |  |
 | libmbedcrypto3         |    CVE-2021-24119   |   MEDIUM  |  2.16.9-0.1 |  |
 | libmbedcrypto3         |    CVE-2022-46392   |   MEDIUM  |  2.16.9-0.1 |  |
 | libmbedcrypto3         |    CVE-2018-1000520   |   LOW  |  2.16.9-0.1 |  |
 | libmbedtls12         |    CVE-2021-44732   |   CRITICAL  |  2.16.9-0.1 |  |
 | libmbedtls12         |    CVE-2022-35409   |   CRITICAL  |  2.16.9-0.1 |  |
-| libmbedtls12         |    CVE-2022-46393   |   CRITICAL  |  2.16.9-0.1 |  |
 | libmbedtls12         |    CVE-2021-43666   |   HIGH  |  2.16.9-0.1 |  |
 | libmbedtls12         |    CVE-2021-24119   |   MEDIUM  |  2.16.9-0.1 |  |
 | libmbedtls12         |    CVE-2022-46392   |   MEDIUM  |  2.16.9-0.1 |  |
 | libmbedtls12         |    CVE-2018-1000520   |   LOW  |  2.16.9-0.1 |  |
 | libmbedx509-0         |    CVE-2021-44732   |   CRITICAL  |  2.16.9-0.1 |  |
 | libmbedx509-0         |    CVE-2022-35409   |   CRITICAL  |  2.16.9-0.1 |  |
-| libmbedx509-0         |    CVE-2022-46393   |   CRITICAL  |  2.16.9-0.1 |  |
 | libmbedx509-0         |    CVE-2021-43666   |   HIGH  |  2.16.9-0.1 |  |
 | libmbedx509-0         |    CVE-2021-24119   |   MEDIUM  |  2.16.9-0.1 |  |
 | libmbedx509-0         |    CVE-2022-46392   |   MEDIUM  |  2.16.9-0.1 |  |

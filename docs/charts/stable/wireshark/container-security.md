@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/wireshark:3.6.5@sha256:d82c336eb520fef8e6aa2ab92ef736307bccb3ff68f751051d38875631d61f82
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/wireshark:3.6.5@sha256:f0c1029f689fd57fa6cf1d9ddb395cb386e4b33a540e9b11a3e63f013b5acb34
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/wireshark:3.6.5@sha256:d82c336eb520fef8e6aa2ab92ef736307bccb3ff68f751051d38875631d61f82**
+**Container: tccr.io/truecharts/wireshark:3.6.5@sha256:f0c1029f689fd57fa6cf1d9ddb395cb386e4b33a540e9b11a3e63f013b5acb34**
 
-#### Container: tccr.io/truecharts/wireshark:3.6.5@sha256:d82c336eb520fef8e6aa2ab92ef736307bccb3ff68f751051d38875631d61f82 (alpine 3.16)
+#### Container: tccr.io/truecharts/wireshark:3.6.5@sha256:f0c1029f689fd57fa6cf1d9ddb395cb386e4b33a540e9b11a3e63f013b5acb34 (alpine 3.16)
     
 
 **alpine**

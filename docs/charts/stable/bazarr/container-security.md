@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/bazarr:1.1.3@sha256:74eb73ba42d105504f0fbedfc68cadb09e0700f205cfe87cd80fa19fad13206e
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/bazarr:1.1.3@sha256:f1a56b156ea13ea53559e8a8f00b776c3122be0766b46b34dc16ca9a4f9252c3
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/bazarr:1.1.3@sha256:74eb73ba42d105504f0fbedfc68cadb09e0700f205cfe87cd80fa19fad13206e**
+**Container: tccr.io/truecharts/bazarr:1.1.3@sha256:f1a56b156ea13ea53559e8a8f00b776c3122be0766b46b34dc16ca9a4f9252c3**
 
-#### Container: tccr.io/truecharts/bazarr:1.1.3@sha256:74eb73ba42d105504f0fbedfc68cadb09e0700f205cfe87cd80fa19fad13206e (alpine 3.17.0)
+#### Container: tccr.io/truecharts/bazarr:1.1.3@sha256:f1a56b156ea13ea53559e8a8f00b776c3122be0766b46b34dc16ca9a4f9252c3 (alpine 3.17.0)
     
 
 **alpine**

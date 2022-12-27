@@ -2,9 +2,8 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/hyperion.ng:v2.0.13@sha256:3f19687b6735e9f5ba148bf97cfe68888f07c73d6350a8e04ad0e8ecb0364c7b
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
@@ -274,67 +273,64 @@
 | liblwres161         |    CVE-2022-38177   |   HIGH  |  1:9.11.5.P4+dfsg-5.1+deb10u7 | 1:9.11.5.P4+dfsg-5.1+deb10u8 |
 | liblwres161         |    CVE-2022-38178   |   HIGH  |  1:9.11.5.P4+dfsg-5.1+deb10u7 | 1:9.11.5.P4+dfsg-5.1+deb10u8 |
 | liblz4-1         |    CVE-2019-17543   |   LOW  |  1.8.3-1+deb10u1 |  |
-| libmbedcrypto3         |    CVE-2021-44732   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2022-35409   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2022-46393   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36423   |   HIGH  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36426   |   HIGH  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36475   |   HIGH  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36476   |   HIGH  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36478   |   HIGH  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2021-43666   |   HIGH  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2019-16910   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2019-18222   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-10932   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-10941   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-16150   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36421   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36422   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36424   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2020-36425   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedcrypto3         |    CVE-2021-24119   |   MEDIUM  |  2.16.0-1 |  |
+| libmbedcrypto3         |    CVE-2021-44732   |   CRITICAL  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2022-35409   |   CRITICAL  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36423   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36426   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36475   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36476   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36478   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2021-43666   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2019-16910   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2019-18222   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-10932   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-10941   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-16150   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36421   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36422   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36424   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2020-36425   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedcrypto3         |    CVE-2021-24119   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
 | libmbedcrypto3         |    CVE-2022-46392   |   MEDIUM  |  2.16.0-1 |  |
 | libmbedcrypto3         |    CVE-2018-1000520   |   LOW  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2021-44732   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2022-35409   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2022-46393   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36423   |   HIGH  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36426   |   HIGH  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36475   |   HIGH  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36476   |   HIGH  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36478   |   HIGH  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2021-43666   |   HIGH  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2019-16910   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2019-18222   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-10932   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-10941   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-16150   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36421   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36422   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36424   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2020-36425   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedtls12         |    CVE-2021-24119   |   MEDIUM  |  2.16.0-1 |  |
+| libmbedtls12         |    CVE-2021-44732   |   CRITICAL  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2022-35409   |   CRITICAL  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36423   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36426   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36475   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36476   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36478   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2021-43666   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2019-16910   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2019-18222   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-10932   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-10941   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-16150   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36421   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36422   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36424   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2020-36425   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedtls12         |    CVE-2021-24119   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
 | libmbedtls12         |    CVE-2022-46392   |   MEDIUM  |  2.16.0-1 |  |
 | libmbedtls12         |    CVE-2018-1000520   |   LOW  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2021-44732   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2022-35409   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2022-46393   |   CRITICAL  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36423   |   HIGH  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36426   |   HIGH  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36475   |   HIGH  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36476   |   HIGH  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36478   |   HIGH  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2021-43666   |   HIGH  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2019-16910   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2019-18222   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-10932   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-10941   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-16150   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36421   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36422   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36424   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2020-36425   |   MEDIUM  |  2.16.0-1 |  |
-| libmbedx509-0         |    CVE-2021-24119   |   MEDIUM  |  2.16.0-1 |  |
+| libmbedx509-0         |    CVE-2021-44732   |   CRITICAL  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2022-35409   |   CRITICAL  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36423   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36426   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36475   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36476   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36478   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2021-43666   |   HIGH  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2019-16910   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2019-18222   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-10932   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-10941   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-16150   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36421   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36422   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36424   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2020-36425   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
+| libmbedx509-0         |    CVE-2021-24119   |   MEDIUM  |  2.16.0-1 | 2.16.9-0~deb10u1 |
 | libmbedx509-0         |    CVE-2022-46392   |   MEDIUM  |  2.16.0-1 |  |
 | libmbedx509-0         |    CVE-2018-1000520   |   LOW  |  2.16.0-1 |  |
 | libmount1         |    CVE-2021-37600   |   LOW  |  2.33.1-0.1 |  |

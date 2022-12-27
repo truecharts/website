@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/sabnzbd:3.7.1@sha256:8cac9535a00a192d6e5d2125d4eed72485380b9709417af02c65e5b8dda332d6
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/sabnzbd:3.7.1@sha256:ef28fdb2c4d8e44ab2964fde8821dabed6c90d2f2b41bab25a28cbfb01ca6261
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/sabnzbd:3.7.1@sha256:8cac9535a00a192d6e5d2125d4eed72485380b9709417af02c65e5b8dda332d6**
+**Container: tccr.io/truecharts/sabnzbd:3.7.1@sha256:ef28fdb2c4d8e44ab2964fde8821dabed6c90d2f2b41bab25a28cbfb01ca6261**
 
-#### Container: tccr.io/truecharts/sabnzbd:3.7.1@sha256:8cac9535a00a192d6e5d2125d4eed72485380b9709417af02c65e5b8dda332d6 (alpine 3.17.0)
+#### Container: tccr.io/truecharts/sabnzbd:3.7.1@sha256:ef28fdb2c4d8e44ab2964fde8821dabed6c90d2f2b41bab25a28cbfb01ca6261 (alpine 3.17.0)
     
 
 **alpine**

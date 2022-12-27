@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/tautulli:2.11.1@sha256:90b7253046135688dd0aebcfc7fac31b3698f523cdd91b20995a48886428d41c
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/tautulli:2.11.1@sha256:4c4086b6b73a1558a92d4e4567e667c948357740436e8b75a27e94e50a514a66
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/tautulli:2.11.1@sha256:90b7253046135688dd0aebcfc7fac31b3698f523cdd91b20995a48886428d41c**
+**Container: tccr.io/truecharts/tautulli:2.11.1@sha256:4c4086b6b73a1558a92d4e4567e667c948357740436e8b75a27e94e50a514a66**
 
-#### Container: tccr.io/truecharts/tautulli:2.11.1@sha256:90b7253046135688dd0aebcfc7fac31b3698f523cdd91b20995a48886428d41c (alpine 3.17.0)
+#### Container: tccr.io/truecharts/tautulli:2.11.1@sha256:4c4086b6b73a1558a92d4e4567e667c948357740436e8b75a27e94e50a514a66 (alpine 3.17.0)
     
 
 **alpine**

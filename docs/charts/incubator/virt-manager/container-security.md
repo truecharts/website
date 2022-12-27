@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/virt-manager:latest@sha256:d69127f0c9e73a046f58d5abed3a86e9cce6c34d0aaf937cf5f080680c8d3191
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/virt-manager:latest@sha256:e583584d1787d32c659659e6c8d375470cbe863bf8f15023e5c1c2507afb13c0
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/virt-manager:latest@sha256:d69127f0c9e73a046f58d5abed3a86e9cce6c34d0aaf937cf5f080680c8d3191**
+**Container: tccr.io/truecharts/virt-manager:latest@sha256:e583584d1787d32c659659e6c8d375470cbe863bf8f15023e5c1c2507afb13c0**
 
-#### Container: tccr.io/truecharts/virt-manager:latest@sha256:d69127f0c9e73a046f58d5abed3a86e9cce6c34d0aaf937cf5f080680c8d3191 (ubuntu 20.04)
+#### Container: tccr.io/truecharts/virt-manager:latest@sha256:e583584d1787d32c659659e6c8d375470cbe863bf8f15023e5c1c2507afb13c0 (ubuntu 20.04)
     
 
 **ubuntu**

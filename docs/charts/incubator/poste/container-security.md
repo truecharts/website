@@ -2,9 +2,8 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/poste:latest@sha256:f1e8a2444d00a16d452ed34d35d18a545d0f3fa9b419f007dec860a525f42914
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
@@ -448,9 +447,9 @@
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
 | guzzlehttp/guzzle         |    CVE-2022-29248   |   HIGH  |  6.5.5 | 7.4.3, 6.5.6 |
 | guzzlehttp/guzzle         |    CVE-2022-31042   |   HIGH  |  6.5.5 | 7.4.4, 6.5.7 |
-| guzzlehttp/guzzle         |    CVE-2022-31043   |   HIGH  |  6.5.5 | 6.5.7, 7.4.4 |
-| guzzlehttp/guzzle         |    CVE-2022-31090   |   HIGH  |  6.5.5 | 7.4.5, 6.5.8 |
-| guzzlehttp/guzzle         |    CVE-2022-31091   |   HIGH  |  6.5.5 | 6.5.8, 7.4.5 |
-| guzzlehttp/psr7         |    CVE-2022-24775   |   HIGH  |  1.8.3 | 1.8.4, 2.1.1 |
+| guzzlehttp/guzzle         |    CVE-2022-31043   |   HIGH  |  6.5.5 | 7.4.4, 6.5.7 |
+| guzzlehttp/guzzle         |    CVE-2022-31090   |   HIGH  |  6.5.5 | 6.5.8, 7.4.5 |
+| guzzlehttp/guzzle         |    CVE-2022-31091   |   HIGH  |  6.5.5 | 7.4.5, 6.5.8 |
+| guzzlehttp/psr7         |    CVE-2022-24775   |   HIGH  |  1.8.3 | 2.1.1, 1.8.4 |
 | pear/crypt_gpg         |    CVE-2022-24953   |   MEDIUM  |  v1.6.6 | 1.6.7 |
 

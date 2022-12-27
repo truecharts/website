@@ -2,9 +2,8 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           splunk/splunk:9.0.3@sha256:fac6a28e63551cea2cb423ae9670d8ce8d043a6d1f00b842331310f6e9a21df7
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
@@ -312,9 +311,7 @@
 | vim-minimal         |    CVE-2022-3256   |   LOW  |  2:8.0.1763-19.el8_6.4 |  |
 | vim-minimal         |    CVE-2022-3296   |   LOW  |  2:8.0.1763-19.el8_6.4 |  |
 | vim-minimal         |    CVE-2022-3352   |   LOW  |  2:8.0.1763-19.el8_6.4 |  |
-| vim-minimal         |    CVE-2022-3491   |   LOW  |  2:8.0.1763-19.el8_6.4 |  |
 | vim-minimal         |    CVE-2022-3705   |   LOW  |  2:8.0.1763-19.el8_6.4 |  |
-| vim-minimal         |    CVE-2022-4141   |   LOW  |  2:8.0.1763-19.el8_6.4 |  |
 | vim-minimal         |    CVE-2022-4292   |   LOW  |  2:8.0.1763-19.el8_6.4 |  |
 | vim-minimal         |    CVE-2022-4293   |   LOW  |  2:8.0.1763-19.el8_6.4 |  |
 | wget         |    CVE-2021-31879   |   MEDIUM  |  1.19.5-10.el8 |  |

@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/emby:4.7.11.0@sha256:22b40520448a9cfdf34018b59c6bbbb16c2179e82655e52f7b9cab1732a01188
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/emby:4.7.11.0@sha256:8f0ed9b5bb7eb631bf518eacfd9c7051f7163957ca0b5ad6622fb0a673c54269
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/emby:4.7.11.0@sha256:22b40520448a9cfdf34018b59c6bbbb16c2179e82655e52f7b9cab1732a01188**
+**Container: tccr.io/truecharts/emby:4.7.11.0@sha256:8f0ed9b5bb7eb631bf518eacfd9c7051f7163957ca0b5ad6622fb0a673c54269**
 
-#### Container: tccr.io/truecharts/emby:4.7.11.0@sha256:22b40520448a9cfdf34018b59c6bbbb16c2179e82655e52f7b9cab1732a01188 (ubuntu 22.04)
+#### Container: tccr.io/truecharts/emby:4.7.11.0@sha256:8f0ed9b5bb7eb631bf518eacfd9c7051f7163957ca0b5ad6622fb0a673c54269 (ubuntu 22.04)
     
 
 **ubuntu**

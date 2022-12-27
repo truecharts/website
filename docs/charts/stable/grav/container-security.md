@@ -2,9 +2,8 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/grav:version-1.7.18@sha256:709e672ef2cbe1235d896ed9bac213d773abfe70b37925f5870a8a925a047e16
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
@@ -372,6 +371,6 @@
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
 | enshrined/svg-sanitize         |    CVE-2022-23638   |   MEDIUM  |  0.14.0 | 0.15.0 |
-| guzzlehttp/psr7         |    CVE-2022-24775   |   HIGH  |  1.8.2 | 1.8.4, 2.1.1 |
+| guzzlehttp/psr7         |    CVE-2022-24775   |   HIGH  |  1.8.2 | 2.1.1, 1.8.4 |
 | twig/twig         |    CVE-2022-39261   |   HIGH  |  v1.44.4 | 1.44.7, 2.15.3, 3.4.3 |
 

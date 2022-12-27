@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/neko-firefox:latest@sha256:b65378f979a5b4add8adcee221712119f9cde30d8c2e2fe78d0ab3793434534a
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/neko-firefox:latest@sha256:bacef249686500ad1d8e0a3871a14b4344d6944b0d3f3567adece2c6e7532b06
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/neko-firefox:latest@sha256:b65378f979a5b4add8adcee221712119f9cde30d8c2e2fe78d0ab3793434534a**
+**Container: tccr.io/truecharts/neko-firefox:latest@sha256:bacef249686500ad1d8e0a3871a14b4344d6944b0d3f3567adece2c6e7532b06**
 
-#### Container: tccr.io/truecharts/neko-firefox:latest@sha256:b65378f979a5b4add8adcee221712119f9cde30d8c2e2fe78d0ab3793434534a (debian 11.6)
+#### Container: tccr.io/truecharts/neko-firefox:latest@sha256:bacef249686500ad1d8e0a3871a14b4344d6944b0d3f3567adece2c6e7532b06 (debian 11.6)
     
 
 **debian**

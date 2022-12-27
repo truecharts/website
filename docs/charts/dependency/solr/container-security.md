@@ -2,14 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/solr:9.1.0@sha256:5bfe105d542b75254da3a52d652077e4fc19e75b5442d28383a83f33d3d3c18d
+          tccr.io/truecharts/solr:9.1.0@sha256:45f3be7460ffcf2bcd0e664232771cc774b666ba481d7d663d501459023c9c04
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/solr:9.1.0@sha256:5bfe105d542b75254da3a52d652077e4fc19e75b5442d28383a83f33d3d3c18d**
+**Container: tccr.io/truecharts/solr:9.1.0@sha256:45f3be7460ffcf2bcd0e664232771cc774b666ba481d7d663d501459023c9c04**
 
-#### Container: tccr.io/truecharts/solr:9.1.0@sha256:5bfe105d542b75254da3a52d652077e4fc19e75b5442d28383a83f33d3d3c18d (debian 11.6)
+#### Container: tccr.io/truecharts/solr:9.1.0@sha256:45f3be7460ffcf2bcd0e664232771cc774b666ba481d7d663d501459023c9c04 (debian 11.6)
     
 
 **debian**

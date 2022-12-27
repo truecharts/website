@@ -3,21 +3,19 @@
 ##### Detected Containers
 
           tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/wger:latest@sha256:3eaa793b8c1ab3cd64d42ae69ad08abf5cfa31f785ef79c2f0d3cca49f9fae74
+          tccr.io/truecharts/wger:latest@sha256:45069811e11d44be613f8f38dba461b4407681ddaa1de9e1c0e7e9f77fdb5f99
         - tccr.io/truecharts/nginx:1.23.3@sha256:89b30f1b0eecd4bd51a8b449503846c63cd85792bd3a14a7666a43c4dd8c0c82
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/postgresql:14.6.0@sha256:2237b01c47e58816542cf28b10aae909dd2f64540fcc2ee2ad3d6b5d9479b45c
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/redis:7.0.7@sha256:8b7cc9e93f1ac4d8b71164512013746b1348d5409ebb32dd79bbe586d76e5f78
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/postgresql:14.6.0@sha256:5f33a63266313d2456b0e3517aa8d27e5a0cc24c7e34c46c7c85b336ca4c2d68
+          tccr.io/truecharts/redis:7.0.7@sha256:0c1289e3344b2c3e2268c2d02989350e97dcaeaac937a2a5d058c120e5192276
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/postgresql:14.6.0@sha256:2237b01c47e58816542cf28b10aae909dd2f64540fcc2ee2ad3d6b5d9479b45c**
+**Container: tccr.io/truecharts/postgresql:14.6.0@sha256:5f33a63266313d2456b0e3517aa8d27e5a0cc24c7e34c46c7c85b336ca4c2d68**
 
-#### Container: tccr.io/truecharts/postgresql:14.6.0@sha256:2237b01c47e58816542cf28b10aae909dd2f64540fcc2ee2ad3d6b5d9479b45c (debian 11.5)
+#### Container: tccr.io/truecharts/postgresql:14.6.0@sha256:5f33a63266313d2456b0e3517aa8d27e5a0cc24c7e34c46c7c85b336ca4c2d68 (debian 11.6)
     
 
 **debian**
@@ -95,7 +93,6 @@
 | libsystemd0         |    CVE-2022-4415   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2013-4392   |   LOW  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2020-13529   |   LOW  |  247.3-7+deb11u1 |  |
-| libtasn1-6         |    CVE-2021-46848   |   CRITICAL  |  4.16.0-2 | 4.16.0-2+deb11u1 |
 | libtinfo6         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
 | libtinfo6         |    CVE-2021-39537   |   LOW  |  6.2+20201114-2 |  |
 | libudev1         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
@@ -134,14 +131,12 @@
       
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
-| github.com/opencontainers/runc         |    CVE-2022-29162   |   HIGH  |  v1.0.1 | v1.1.2 |
-| github.com/opencontainers/runc         |    CVE-2021-43784   |   MEDIUM  |  v1.0.1 | 1.1.0 |
-| github.com/opencontainers/runc         |    CVE-2022-24769   |   MEDIUM  |  v1.0.1 | v1.1.2 |
-| golang.org/x/sys         |    CVE-2022-29526   |   MEDIUM  |  v0.0.0-20210817142637-7d9622a276b7 | 0.0.0-20220412211240-33da011f77ad |
+| github.com/opencontainers/runc         |    CVE-2022-29162   |   HIGH  |  v1.1.0 | v1.1.2 |
+| github.com/opencontainers/runc         |    CVE-2022-24769   |   MEDIUM  |  v1.1.0 | v1.1.2 |
 
-**Container: tccr.io/truecharts/redis:7.0.7@sha256:8b7cc9e93f1ac4d8b71164512013746b1348d5409ebb32dd79bbe586d76e5f78**
+**Container: tccr.io/truecharts/redis:7.0.7@sha256:0c1289e3344b2c3e2268c2d02989350e97dcaeaac937a2a5d058c120e5192276**
 
-#### Container: tccr.io/truecharts/redis:7.0.7@sha256:8b7cc9e93f1ac4d8b71164512013746b1348d5409ebb32dd79bbe586d76e5f78 (debian 11.6)
+#### Container: tccr.io/truecharts/redis:7.0.7@sha256:0c1289e3344b2c3e2268c2d02989350e97dcaeaac937a2a5d058c120e5192276 (debian 11.6)
     
 
 **debian**
@@ -234,14 +229,12 @@
       
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
-| github.com/opencontainers/runc         |    CVE-2022-29162   |   HIGH  |  v1.0.1 | v1.1.2 |
-| github.com/opencontainers/runc         |    CVE-2021-43784   |   MEDIUM  |  v1.0.1 | 1.1.0 |
-| github.com/opencontainers/runc         |    CVE-2022-24769   |   MEDIUM  |  v1.0.1 | v1.1.2 |
-| golang.org/x/sys         |    CVE-2022-29526   |   MEDIUM  |  v0.0.0-20210817142637-7d9622a276b7 | 0.0.0-20220412211240-33da011f77ad |
+| github.com/opencontainers/runc         |    CVE-2022-29162   |   HIGH  |  v1.1.0 | v1.1.2 |
+| github.com/opencontainers/runc         |    CVE-2022-24769   |   MEDIUM  |  v1.1.0 | v1.1.2 |
 
-**Container: tccr.io/truecharts/wger:latest@sha256:3eaa793b8c1ab3cd64d42ae69ad08abf5cfa31f785ef79c2f0d3cca49f9fae74**
+**Container: tccr.io/truecharts/wger:latest@sha256:45069811e11d44be613f8f38dba461b4407681ddaa1de9e1c0e7e9f77fdb5f99**
 
-#### Container: tccr.io/truecharts/wger:latest@sha256:3eaa793b8c1ab3cd64d42ae69ad08abf5cfa31f785ef79c2f0d3cca49f9fae74 (ubuntu 22.04)
+#### Container: tccr.io/truecharts/wger:latest@sha256:45069811e11d44be613f8f38dba461b4407681ddaa1de9e1c0e7e9f77fdb5f99 (ubuntu 22.04)
     
 
 **ubuntu**
@@ -250,7 +243,6 @@
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
 | bash         |    CVE-2022-3715   |   LOW  |  5.1-6ubuntu1 |  |
-| ca-certificates         |    CVE-2022-23491   |   MEDIUM  |  20211016 | 20211016ubuntu0.22.04.1 |
 | coreutils         |    CVE-2016-2781   |   LOW  |  8.32-4.1ubuntu1 |  |
 | git         |    CVE-2018-1000021   |   LOW  |  1:2.34.1-1ubuntu1.5 |  |
 | git-man         |    CVE-2018-1000021   |   LOW  |  1:2.34.1-1ubuntu1.5 |  |
@@ -286,12 +278,8 @@
 | libnode72         |    CVE-2019-1563   |   LOW  |  12.22.9~dfsg-1ubuntu3 |  |
 | libnode72         |    CVE-2021-23840   |   LOW  |  12.22.9~dfsg-1ubuntu3 |  |
 | libpcre3         |    CVE-2017-11164   |   LOW  |  2:8.39-13ubuntu0.22.04.1 |  |
-| libpython3.10-minimal         |    CVE-2022-37454   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| libpython3.10-minimal         |    CVE-2022-45061   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| libpython3.10-minimal         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.1 |  |
-| libpython3.10-stdlib         |    CVE-2022-37454   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| libpython3.10-stdlib         |    CVE-2022-45061   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| libpython3.10-stdlib         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.1 |  |
+| libpython3.10-minimal         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.2 |  |
+| libpython3.10-stdlib         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.2 |  |
 | libsqlite3-0         |    CVE-2022-46908   |   MEDIUM  |  3.37.2-2ubuntu0.1 |  |
 | libssl-dev         |    CVE-2022-3996   |   LOW  |  3.0.2-0ubuntu1.7 |  |
 | libssl3         |    CVE-2022-3996   |   LOW  |  3.0.2-0ubuntu1.7 |  |
@@ -299,7 +287,6 @@
 | libtinfo6         |    CVE-2022-29458   |   LOW  |  6.3-2 |  |
 | libudev1         |    CVE-2022-3821   |   MEDIUM  |  249.11-0ubuntu3.6 |  |
 | locales         |    CVE-2016-20013   |   LOW  |  2.35-0ubuntu3.1 |  |
-| login         |    CVE-2013-4235   |   LOW  |  1:4.8.1-2ubuntu2 | 1:4.8.1-2ubuntu2.1 |
 | ncurses-base         |    CVE-2022-29458   |   LOW  |  6.3-2 |  |
 | ncurses-bin         |    CVE-2022-29458   |   LOW  |  6.3-2 |  |
 | node-ini         |    CVE-2020-7788   |   MEDIUM  |  2.0.1-1 |  |
@@ -318,16 +305,9 @@
 | nodejs         |    CVE-2021-23840   |   LOW  |  12.22.9~dfsg-1ubuntu3 |  |
 | npm         |    CVE-2021-43616   |   MEDIUM  |  8.5.1~ds-1 |  |
 | openssl         |    CVE-2022-3996   |   LOW  |  3.0.2-0ubuntu1.7 |  |
-| passwd         |    CVE-2013-4235   |   LOW  |  1:4.8.1-2ubuntu2 | 1:4.8.1-2ubuntu2.1 |
-| python3.10         |    CVE-2022-37454   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| python3.10         |    CVE-2022-45061   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| python3.10         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.1 |  |
-| python3.10-minimal         |    CVE-2022-37454   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| python3.10-minimal         |    CVE-2022-45061   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| python3.10-minimal         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.1 |  |
-| python3.10-venv         |    CVE-2022-37454   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| python3.10-venv         |    CVE-2022-45061   |   MEDIUM  |  3.10.6-1~22.04.1 | 3.10.6-1~22.04.2 |
-| python3.10-venv         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.1 |  |
+| python3.10         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.2 |  |
+| python3.10-minimal         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.2 |  |
+| python3.10-venv         |    CVE-2021-28861   |   LOW  |  3.10.6-1~22.04.2 |  |
 | sqlite3         |    CVE-2022-46908   |   MEDIUM  |  3.37.2-2ubuntu0.1 |  |
 | wget         |    CVE-2021-31879   |   MEDIUM  |  1.21.2-2ubuntu1 |  |
 

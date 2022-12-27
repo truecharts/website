@@ -2,15 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/firefox:101.0.1@sha256:66dce1e4f154b005ad696f1d22e122183fb505c8b302f8e865b093dec591cc0b
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/firefox:101.0.1@sha256:bda2fc42fdb62e8fabc7c4b03f175d5db4e27dad90d2cd79cab5d1d2a2a56e73
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/firefox:101.0.1@sha256:66dce1e4f154b005ad696f1d22e122183fb505c8b302f8e865b093dec591cc0b**
+**Container: tccr.io/truecharts/firefox:101.0.1@sha256:bda2fc42fdb62e8fabc7c4b03f175d5db4e27dad90d2cd79cab5d1d2a2a56e73**
 
-#### Container: tccr.io/truecharts/firefox:101.0.1@sha256:66dce1e4f154b005ad696f1d22e122183fb505c8b302f8e865b093dec591cc0b (alpine 3.16)
+#### Container: tccr.io/truecharts/firefox:101.0.1@sha256:bda2fc42fdb62e8fabc7c4b03f175d5db4e27dad90d2cd79cab5d1d2a2a56e73 (alpine 3.16)
     
 
 **alpine**

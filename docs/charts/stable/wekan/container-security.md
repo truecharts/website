@@ -4,16 +4,15 @@
 
           tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/wekan:6.46@sha256:a5c1fdd0dfdcab3d98531dc053540c57f52605bc4b7a24c44bbf3637df07e36d
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/mongodb:6.0.3@sha256:a37dde9e19174fe66e502d6e5e14e4313b00afb45b16dcab3da96aa876639f8c
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
-          tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
+          tccr.io/truecharts/mongodb:6.0.3@sha256:36fa249ef35680d9397952668d1515fa9a08b40ca4c3eb5e6365fd7a6b1cccd2
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
+          tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/mongodb:6.0.3@sha256:a37dde9e19174fe66e502d6e5e14e4313b00afb45b16dcab3da96aa876639f8c**
+**Container: tccr.io/truecharts/mongodb:6.0.3@sha256:36fa249ef35680d9397952668d1515fa9a08b40ca4c3eb5e6365fd7a6b1cccd2**
 
-#### Container: tccr.io/truecharts/mongodb:6.0.3@sha256:a37dde9e19174fe66e502d6e5e14e4313b00afb45b16dcab3da96aa876639f8c (debian 11.5)
+#### Container: tccr.io/truecharts/mongodb:6.0.3@sha256:36fa249ef35680d9397952668d1515fa9a08b40ca4c3eb5e6365fd7a6b1cccd2 (debian 11.6)
     
 
 **debian**
@@ -87,7 +86,6 @@
 | libsystemd0         |    CVE-2022-4415   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2013-4392   |   LOW  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2020-13529   |   LOW  |  247.3-7+deb11u1 |  |
-| libtasn1-6         |    CVE-2021-46848   |   CRITICAL  |  4.16.0-2 | 4.16.0-2+deb11u1 |
 | libtinfo6         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
 | libtinfo6         |    CVE-2021-39537   |   LOW  |  6.2+20201114-2 |  |
 | libudev1         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
@@ -117,19 +115,15 @@
       
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
-| github.com/opencontainers/runc         |    CVE-2022-29162   |   HIGH  |  v1.0.1 | v1.1.2 |
-| github.com/opencontainers/runc         |    CVE-2021-43784   |   MEDIUM  |  v1.0.1 | 1.1.0 |
-| github.com/opencontainers/runc         |    CVE-2022-24769   |   MEDIUM  |  v1.0.1 | v1.1.2 |
-| golang.org/x/sys         |    CVE-2022-29526   |   MEDIUM  |  v0.0.0-20210817142637-7d9622a276b7 | 0.0.0-20220412211240-33da011f77ad |
+| github.com/opencontainers/runc         |    CVE-2022-29162   |   HIGH  |  v1.1.0 | v1.1.2 |
+| github.com/opencontainers/runc         |    CVE-2022-24769   |   MEDIUM  |  v1.1.0 | v1.1.2 |
 
 **gobinary**
 
       
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
-| golang.org/x/net         |    CVE-2022-27664   |   HIGH  |  v0.0.0-20220708220712-1185a9018129 | 0.0.0-20220906165146-f3363e06e74c |
-| golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.0.0-20220708220712-1185a9018129 | 0.4.0 |
-| golang.org/x/text         |    CVE-2022-32149   |   HIGH  |  v0.3.7 | 0.3.8 |
+| golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.0.0-20220906165146-f3363e06e74c | 0.4.0 |
 
 **gobinary**
 
