@@ -438,6 +438,8 @@ The intro needs improvement ;)
 |papermerge                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |papermerge                |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |pasta                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|penpot                    |data                  |PVC      |-              |/opt/data                                            |Read/Write|Enabled                |
+|penpot                    |assets                |PVC      |-              |/opt/data/assets                                     |Read/Write|Enabled                |
 |pgadmin                   |config                |PVC      |-              |/var/lib/pgadmin                                     |Read/Write|Enabled                |
 |photoprism                |storage               |PVC      |-              |/assets                                              |Read/Write|Enabled                |
 |photoprism                |photoprismtemp        |emptyDir |-              |/photoprism_temp                                     |Read/Write|Enabled                |
@@ -1082,8 +1084,6 @@ The intro needs improvement ;)
 |pastey                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |pavlovvr                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |pavlovvr                       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|penpot                         |data                       |PVC      |-                |/opt/data                                        |Read/Write|Enabled                |
-|penpot                         |assets                     |PVC      |-                |/opt/data/assets                                 |Read/Write|Enabled                |
 |phoronix-test-suite            |appdata                    |PVC      |-                |/var/lib/phoronix-test-suite                     |Read/Write|Enabled                |
 |phoronix-test-suite            |results                    |PVC      |-                |/var/lib/phoronix-test-suite/test-results        |Read/Write|Enabled                |
 |photo-stream                   |storageimages              |PVC      |-                |/photo-stream/photos/original                    |Read/Write|Enabled                |
@@ -1110,6 +1110,8 @@ The intro needs improvement ;)
 |plexripper                     |moviedestinationfolder     |PVC      |-                |/movies                                          |Read/Write|Enabled                |
 |plexripper                     |tv-showdestinationfolder   |PVC      |-                |/tvshows                                         |Read/Write|Enabled                |
 |plextraktsync                  |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
+|plik                           |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|plik                           |plikd-config               |custom   |-                |/home/plik/server/plikd.cfg                      |Read Only |Enabled                |
 |post-recording                 |backupfolder               |PVC      |-                |/backup                                          |Read/Write|Enabled                |
 |post-recording                 |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |post-recording                 |watchfolder                |PVC      |-                |/watch                                           |Read/Write|Enabled                |
