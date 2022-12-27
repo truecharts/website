@@ -2,6 +2,15 @@
 
 
 
+## [omada-controller-8.0.17](https://github.com/truecharts/charts/compare/omada-controller-8.0.16...omada-controller-8.0.17) (2022-12-27)
+
+### Chore
+
+- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+  
+  
+
+
 ## [omada-controller-8.0.16](https://github.com/truecharts/charts/compare/omada-controller-8.0.15...omada-controller-8.0.16) (2022-12-26)
 
 ### Chore

@@ -1,6 +1,6 @@
 # verysync
 
-![Version: 4.0.6](https://img.shields.io/badge/Version-4.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.14.0"](https://img.shields.io/badge/AppVersion-"2.14.0"-informational?style=flat-square)
+![Version: 4.0.7](https://img.shields.io/badge/Version-4.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.14.0"](https://img.shields.io/badge/AppVersion-"2.14.0"-informational?style=flat-square)
 
 very sync is an easy-to-use multi-platform file synchronization software
 

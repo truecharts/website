@@ -2,6 +2,15 @@
 
 
 
+## [deepstack-6.0.7](https://github.com/truecharts/charts/compare/deepstack-6.0.6...deepstack-6.0.7) (2022-12-27)
+
+### Chore
+
+- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+  
+  
+
+
 ## [deepstack-6.0.6](https://github.com/truecharts/charts/compare/deepstack-6.0.5...deepstack-6.0.6) (2022-12-26)
 
 ### Chore

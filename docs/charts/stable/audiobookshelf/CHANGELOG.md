@@ -2,6 +2,15 @@
 
 
 
+## [audiobookshelf-4.0.14](https://github.com/truecharts/charts/compare/audiobookshelf-4.0.13...audiobookshelf-4.0.14) (2022-12-27)
+
+### Chore
+
+- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+  
+  
+
+
 ## [audiobookshelf-4.0.13](https://github.com/truecharts/charts/compare/audiobookshelf-4.0.12...audiobookshelf-4.0.13) (2022-12-26)
 
 ### Chore

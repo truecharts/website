@@ -2,6 +2,15 @@
 
 
 
+## [kasm-3.2.3](https://github.com/truecharts/charts/compare/kasm-3.2.2...kasm-3.2.3) (2022-12-27)
+
+### Chore
+
+- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+  
+  
+
+
 ## [kasm-3.2.2](https://github.com/truecharts/charts/compare/kasm-3.2.1...kasm-3.2.2) (2022-12-26)
 
 ### Chore

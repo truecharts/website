@@ -2,6 +2,15 @@
 
 
 
+## [lastoasis-2.0.8](https://github.com/truecharts/charts/compare/lastoasis-2.0.7...lastoasis-2.0.8) (2022-12-27)
+
+### Chore
+
+- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+  
+  
+
+
 ## [lastoasis-2.0.7](https://github.com/truecharts/charts/compare/lastoasis-2.0.6...lastoasis-2.0.7) (2022-12-26)
 
 ### Chore

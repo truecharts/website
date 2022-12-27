@@ -2,6 +2,15 @@
 
 
 
+## [xteve-8.0.7](https://github.com/truecharts/charts/compare/xteve-8.0.6...xteve-8.0.7) (2022-12-27)
+
+### Chore
+
+- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+  
+  
+
+
 ## [xteve-8.0.6](https://github.com/truecharts/charts/compare/xteve-8.0.5...xteve-8.0.6) (2022-12-26)
 
 ### Chore

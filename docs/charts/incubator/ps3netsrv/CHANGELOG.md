@@ -2,6 +2,15 @@
 
 
 
+## [ps3netsrv-2.0.7](https://github.com/truecharts/charts/compare/ps3netsrv-2.0.6...ps3netsrv-2.0.7) (2022-12-27)
+
+### Chore
+
+- update helm general non-major ([#5856](https://github.com/truecharts/charts/issues/5856))
+  
+  
+
+
 ## [ps3netsrv-2.0.6](https://github.com/truecharts/charts/compare/ps3netsrv-2.0.5...ps3netsrv-2.0.6) (2022-12-26)
 
 ### Chore
