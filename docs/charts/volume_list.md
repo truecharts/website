@@ -226,6 +226,7 @@ The intro needs improvement ;)
 |homarr                    |icons                 |PVC      |-              |/app/public/icons                                    |Read/Write|Enabled                |
 |home-assistant            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |home-assistant            |init                  |custom   |-              |/config/init                                         |Read Only |Enabled                |
+|homebox                   |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |homelablabelmaker         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |homepage                  |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |homer                     |config                |PVC      |-              |/www/assets                                          |Read/Write|Enabled                |
@@ -948,7 +949,6 @@ The intro needs improvement ;)
 |hetzner-ddns                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |hexchat                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |hexo-blog                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|homebox                        |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |homebridge                     |config                     |PVC      |-                |/homebridge                                      |Read/Write|Enabled                |
 |hoobs                          |applicationpath            |PVC      |-                |/hoobs                                           |Read/Write|Enabled                |
 |humhub                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -966,6 +966,8 @@ The intro needs improvement ;)
 |invidious                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |invitarr                       |config                     |PVC      |-                |/app/app/config                                  |Read/Write|Enabled                |
 |ipmi-tools                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|jackett2telegram               |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
+|jackett2telegram               |blackhole                  |PVC      |-                |/app/blackhole                                   |Read/Write|Enabled                |
 |jelu                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |jelu                           |databasepath               |PVC      |-                |/database                                        |Read/Write|Enabled                |
 |jelu                           |imagespath                 |PVC      |-                |/files/images                                    |Read/Write|Enabled                |
