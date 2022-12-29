@@ -1,6 +1,6 @@
 # n8n
 
-![Version: 7.0.28](https://img.shields.io/badge/Version-7.0.28-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.209.2"](https://img.shields.io/badge/AppVersion-"0.209.2"-informational?style=flat-square)
+![Version: 7.0.29](https://img.shields.io/badge/Version-7.0.29-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.209.4"](https://img.shields.io/badge/AppVersion-"0.209.4"-informational?style=flat-square)
 
 n8n is an extendable workflow automation tool.
 
@@ -8,7 +8,7 @@ n8n is an extendable workflow automation tool.
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
