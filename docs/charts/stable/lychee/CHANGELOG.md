@@ -2,6 +2,15 @@
 
 
 
+## [lychee-16.0.17](https://github.com/truecharts/charts/compare/lychee-16.0.16...lychee-16.0.17) (2022-12-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/lychee-laravel to v4.6.5
+  
+  
+
+
 ## [lychee-16.0.16](https://github.com/truecharts/charts/compare/lychee-16.0.15...lychee-16.0.16) (2022-12-27)
 
 ### Chore
