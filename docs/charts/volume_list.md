@@ -295,6 +295,7 @@ The intro needs improvement ;)
 |leaf2mqtt                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |leantime                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |libreddit                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|libremdb                  |config                |PVC      |-              |/opt/app                                             |Read/Write|Enabled                |
 |libreoffice               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |libreoffice               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |librephotos               |media                 |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -1003,7 +1004,6 @@ The intro needs improvement ;)
 |lemur-cfssl                    |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |lemur-cfssl                    |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |lenpaste                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|libremdb                       |config                     |PVC      |-                |/opt/app                                         |Read/Write|Enabled                |
 |lingva                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |linkwallet                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |livebook                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
@@ -1094,6 +1094,9 @@ The intro needs improvement ;)
 |photostructure                 |logs                       |PVC      |-                |/ps/logs                                         |Read/Write|Enabled                |
 |photostructure                 |tempscratchdisk            |PVC      |-                |/ps/tmp                                          |Read/Write|Enabled                |
 |phpmyadmin                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|pialert                        |config                     |PVC      |-                |/home/pi/pialert/config                          |Read/Write|Enabled                |
+|pialert                        |db                         |PVC      |-                |/home/pi/pialert/db                              |Read/Write|Enabled                |
+|pialert                        |pialert-config             |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
 |pigallery2                     |config                     |PVC      |-                |/app/data/config                                 |Read/Write|Enabled                |
 |pigallery2                     |db                         |PVC      |-                |/app/data/db                                     |Read/Write|Enabled                |
 |pigallery2                     |image                      |PVC      |-                |/app/data/images/                                |Read Only |Enabled                |
@@ -1222,6 +1225,9 @@ The intro needs improvement ;)
 |snippet-box                    |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |snowflake-proxy                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |socials                        |socials                    |PVC      |-                |/app/people                                      |Read/Write|Enabled                |
+|soft-serve                     |config                     |PVC      |-                |/soft-serve                                      |Read/Write|Enabled                |
+|soft-serve                     |ssh                        |PVC      |-                |/.ssh                                            |Read/Write|Enabled                |
+|soft-serve                     |repos                      |PVC      |-                |/repos                                           |Read/Write|Enabled                |
 |sonarqube                      |data                       |PVC      |-                |/opt/sonarqube/data                              |Read/Write|Enabled                |
 |sonarqube                      |extensions                 |PVC      |-                |/opt/sonarqube/extensions                        |Read/Write|Enabled                |
 |sonarqube                      |logs                       |PVC      |-                |/opt/sonarqube/logs                              |Read/Write|Enabled                |
