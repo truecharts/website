@@ -2,6 +2,15 @@
 
 
 
+## [prometheus-7.0.35](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-6.0.7...prometheus-7.0.35) (2023-01-01)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [prometheus-7.0.34](https://github.com/truecharts/charts/compare/prometheus-7.0.33...prometheus-7.0.34) (2022-12-27)
 
 ### Chore
