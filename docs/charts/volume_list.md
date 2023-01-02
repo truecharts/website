@@ -1062,6 +1062,7 @@ The intro needs improvement ;)
 |newyearcountdownclock          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |nexus-oss                      |data                       |PVC      |-                |/nexus-data                                      |Read/Write|Enabled                |
 |nightscout                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|nitter                         |nitter-conf                |secret   |-                |/src/nitter.conf                                 |Read/Write|Enabled                |
 |noisedash                      |db                         |PVC      |-                |/var/noisedash/db                                |Read/Write|Enabled                |
 |noisedash                      |samples                    |PVC      |-                |/var/noisedash/samples                           |Read/Write|Enabled                |
 |nosqlclient                    |appdata                    |PVC      |-                |/data/db                                         |Read/Write|Enabled                |
