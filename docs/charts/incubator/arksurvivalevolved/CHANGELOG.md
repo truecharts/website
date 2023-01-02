@@ -2,6 +2,11 @@
 
 
 
+## [arksurvivalevolved-3.0.7](https://github.com/truecharts/charts/compare/arksurvivalevolved-3.0.6...arksurvivalevolved-3.0.7) (2023-01-02)
+
+
+
+
 ## [arksurvivalevolved-3.0.6](https://github.com/truecharts/charts/compare/arksurvivalevolved-3.0.5...arksurvivalevolved-3.0.6) (2022-12-27)
 
 ### Chore
