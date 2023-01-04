@@ -1,6 +1,6 @@
 # invidious
 
-![Version: 1.0.7](https://img.shields.io/badge/Version-1.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 1.0.8](https://img.shields.io/badge/Version-1.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
 
 Open source alternative front-end to YouTube.
 
@@ -8,7 +8,7 @@ Open source alternative front-end to YouTube.
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
