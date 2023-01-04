@@ -2,6 +2,15 @@
 
 
 
+## [wireshark-4.0.11](https://github.com/truecharts/charts/compare/wireshark-4.0.10...wireshark-4.0.11) (2023-01-04)
+
+### Chore
+
+- update container image tccr.io/truecharts/wireshark to 3.6.5
+  
+  
+
+
 ## [wireshark-4.0.10](https://github.com/truecharts/charts/compare/wireshark-4.0.9...wireshark-4.0.10) (2022-12-27)
 
 ### Chore

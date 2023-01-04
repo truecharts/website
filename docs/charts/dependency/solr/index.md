@@ -1,6 +1,6 @@
 # solr
 
-![Version: 2.0.18](https://img.shields.io/badge/Version-2.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "9.1.0"](https://img.shields.io/badge/AppVersion-"9.1.0"-informational?style=flat-square)
+![Version: 2.0.19](https://img.shields.io/badge/Version-2.0.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "9.1.0"](https://img.shields.io/badge/AppVersion-"9.1.0"-informational?style=flat-square)
 
 Apache Solr
 
@@ -8,7 +8,7 @@ Apache Solr
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
