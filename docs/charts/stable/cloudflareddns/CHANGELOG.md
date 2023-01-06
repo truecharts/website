@@ -2,6 +2,15 @@
 
 
 
+## [cloudflareddns-4.0.0](https://github.com/truecharts/charts/compare/cloudflareddns-3.0.10...cloudflareddns-4.0.0) (2023-01-06)
+
+### Feat
+
+- BREAKING CHANGE - Rewrite GUI ([#5995](https://github.com/truecharts/charts/issues/5995))
+  
+  
+
+
 ## [cloudflareddns-3.0.10](https://github.com/truecharts/charts/compare/cloudflareddns-3.0.9...cloudflareddns-3.0.10) (2022-12-28)
 
 ### Chore

@@ -1,8 +1,8 @@
 # cloudflareddns
 
-![Version: 3.0.10](https://img.shields.io/badge/Version-3.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
 
-Update your Cloudflare DNS records automatically for those with a dynamic IP
+Automate Cloudflare DNS records for those with a dynamic IP.
 
 ## Available Documentation
 
@@ -13,4 +13,6 @@ Update your Cloudflare DNS records automatically for those with a dynamic IP
 - [**Helm Security**](helm-security)
 
 - [**How-To**](setup-guide)
+
+- [**Input Validation**](validation)
 
