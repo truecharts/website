@@ -2,6 +2,15 @@
 
 
 
+## [gotify-12.0.0](https://github.com/truecharts/charts/compare/gotify-11.0.17...gotify-12.0.0) (2023-01-06)
+
+### Fix
+
+- BREAKING CHANGE -  Rewrite app ([#5997](https://github.com/truecharts/charts/issues/5997))
+  
+  
+
+
 ## [gotify-11.0.17](https://github.com/truecharts/charts/compare/gotify-11.0.16...gotify-11.0.17) (2022-12-30)
 
 ### Chore
