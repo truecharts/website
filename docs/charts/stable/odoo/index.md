@@ -1,6 +1,6 @@
 # odoo
 
-![Version: 11.0.15](https://img.shields.io/badge/Version-11.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "15.0"](https://img.shields.io/badge/AppVersion-"15.0"-informational?style=flat-square)
+![Version: 11.0.16](https://img.shields.io/badge/Version-11.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "15.0"](https://img.shields.io/badge/AppVersion-"15.0"-informational?style=flat-square)
 
 All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, Procurement, Point of Sale, MRP, Marketing, etc.
 
@@ -8,7 +8,7 @@ All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, P
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

@@ -1,6 +1,6 @@
 # zabbix
 
-![Version: 4.0.18](https://img.shields.io/badge/Version-4.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "6.2.6"](https://img.shields.io/badge/AppVersion-"6.2.6"-informational?style=flat-square)
+![Version: 4.0.19](https://img.shields.io/badge/Version-4.0.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "6.2.6"](https://img.shields.io/badge/AppVersion-"6.2.6"-informational?style=flat-square)
 
 Zabbix is an enterprise-class open source distributed monitoring solution.
 
@@ -8,7 +8,7 @@ Zabbix is an enterprise-class open source distributed monitoring solution.
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

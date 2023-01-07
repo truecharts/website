@@ -1,6 +1,6 @@
 # redmine
 
-![Version: 6.0.22](https://img.shields.io/badge/Version-6.0.22-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.0.4"](https://img.shields.io/badge/AppVersion-"5.0.4"-informational?style=flat-square)
+![Version: 6.0.23](https://img.shields.io/badge/Version-6.0.23-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.0.4"](https://img.shields.io/badge/AppVersion-"5.0.4"-informational?style=flat-square)
 
 Redmine is a flexible project management web application written using Ruby on Rails framework.
 
@@ -8,7 +8,7 @@ Redmine is a flexible project management web application written using Ruby on R
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
