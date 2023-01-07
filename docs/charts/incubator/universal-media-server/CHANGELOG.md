@@ -2,6 +2,15 @@
 
 
 
+## [universal-media-server-2.0.11](https://github.com/truecharts/charts/compare/universal-media-server-2.0.10...universal-media-server-2.0.11) (2023-01-07)
+
+### Chore
+
+- update container image tccr.io/truecharts/universal-media-server to latest
+  
+  
+
+
 ## [universal-media-server-2.0.10](https://github.com/truecharts/charts/compare/universal-media-server-2.0.9...universal-media-server-2.0.10) (2022-12-27)
 
 ### Chore
