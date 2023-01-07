@@ -199,6 +199,7 @@ The intro needs improvement ;)
 |golinks                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |gonic                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |gotify                    |data                  |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
+|gotify                    |config-file           |secret   |-              |/etc/gotify/config.yml                               |Read Only |Enabled                |
 |grafana                   |config                |PVC      |-              |/opt/bitnami/grafana/data                            |Read/Write|Enabled                |
 |grafana                   |grafana-tmp           |emptyDir |-              |/opt/bitnami/grafana/tmp                             |Read/Write|Enabled                |
 |grav                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -1328,6 +1329,11 @@ The intro needs improvement ;)
 |yacreaderlibraryserver         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |yacy                           |appdata                    |PVC      |-                |/opt/yacy_search_server/DATA                     |Read/Write|Enabled                |
 |yourls                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|youtrack                       |data                       |PVC      |-                |/opt/youtrack/data                               |Read/Write|Enabled                |
+|youtrack                       |conf                       |PVC      |-                |/opt/youtrack/conf                               |Read/Write|Enabled                |
+|youtrack                       |logs                       |PVC      |-                |/opt/youtrack/logs                               |Read/Write|Enabled                |
+|youtrack                       |backups                    |PVC      |-                |/opt/youtrack/backups                            |Read/Write|Enabled                |
+|youtrack                       |youtracktemp               |emptyDir |-                |/opt/youtrack/temp                               |Read/Write|Enabled                |
 |z80pack                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zabbix                         |serveralertscripts         |PVC      |-                |/usr/lib/zabbix/alertscripts                     |Read/Write|Enabled                |
 |zabbix                         |serverexternalscripts      |PVC      |-                |/usr/lib/zabbix/externalscripts                  |Read/Write|Enabled                |
