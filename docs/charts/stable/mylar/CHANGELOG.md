@@ -2,6 +2,15 @@
 
 
 
+## [mylar-8.0.13](https://github.com/truecharts/charts/compare/mylar-8.0.12...mylar-8.0.13) (2023-01-07)
+
+### Chore
+
+- update container image tccr.io/truecharts/mylar3 to 0.7.0
+  
+  
+
+
 ## [mylar-8.0.12](https://github.com/truecharts/charts/compare/mylar-8.0.11...mylar-8.0.12) (2022-12-27)
 
 ### Chore
