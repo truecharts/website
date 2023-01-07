@@ -2,6 +2,15 @@
 
 
 
+## [calibre-web-13.0.12](https://github.com/truecharts/charts/compare/calibre-web-13.0.11...calibre-web-13.0.12) (2023-01-07)
+
+### Chore
+
+- update container image tccr.io/truecharts/calibre-web to 0.6.19
+  
+  
+
+
 ## [calibre-web-13.0.11](https://github.com/truecharts/charts/compare/calibre-web-13.0.10...calibre-web-13.0.11) (2022-12-27)
 
 ### Chore
