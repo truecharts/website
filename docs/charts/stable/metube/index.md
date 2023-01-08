@@ -1,14 +1,14 @@
 # metube
 
-![Version: 4.0.7](https://img.shields.io/badge/Version-4.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2022"](https://img.shields.io/badge/AppVersion-"2022"-informational?style=flat-square)
+![Version: 5.0.0](https://img.shields.io/badge/Version-5.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2022"](https://img.shields.io/badge/AppVersion-"2022"-informational?style=flat-square)
 
-Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. Allows you to download videos from YouTube and dozens of other sites
+Web GUI for youtube-dl.
 
 ## Available Documentation
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
