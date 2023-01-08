@@ -262,6 +262,7 @@ The intro needs improvement ;)
 |jellyfin                  |transcode             |emptyDir |-              |/config/transcodes                                   |Read/Write|Enabled                |
 |jellyseerr                |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |joplin-server             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|jupyter                   |data                  |PVC      |-              |/home/jovyan/work                                    |Read/Write|Enabled                |
 |k8s-gateway               |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |kanboard                  |data                  |PVC      |-              |/var/www/app/data                                    |Read/Write|Enabled                |
 |kanboard                  |ssl                   |PVC      |-              |/etc/nginx/ssl                                       |Read/Write|Enabled                |
@@ -986,7 +987,6 @@ The intro needs improvement ;)
 |jump                           |backgrounds                |PVC      |-                |/backgrounds                                     |Read/Write|Enabled                |
 |jump                           |search                     |PVC      |-                |/search                                          |Read/Write|Enabled                |
 |jump                           |sites                      |PVC      |-                |/sites                                           |Read/Write|Enabled                |
-|jupyter                        |data                       |PVC      |-                |/home/jovyan/work                                |Read/Write|Enabled                |
 |kavitaemail                    |config                     |PVC      |-                |-                                                |Read/Write|Persistence is Disabled|
 |kdenlive                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |kdenlive-vnc                   |content                    |PVC      |-                |/sharedContent                                   |Read/Write|Enabled                |
