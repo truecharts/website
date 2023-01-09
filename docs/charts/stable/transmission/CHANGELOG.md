@@ -2,6 +2,11 @@
 
 
 
+## [transmission-15.0.1](https://github.com/truecharts/charts/compare/transmission-15.0.0...transmission-15.0.1) (2023-01-09)
+
+
+
+
 ## [transmission-15.0.0](https://github.com/truecharts/charts/compare/transmission-14.0.7...transmission-15.0.0) (2023-01-09)
 
 ### Feat
