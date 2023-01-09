@@ -2,6 +2,11 @@
 
 
 
+## [shiori-11.0.0](https://github.com/truecharts/charts/compare/shiori-10.0.16...shiori-11.0.0) (2023-01-09)
+
+
+
+
 ## [shiori-10.0.16](https://github.com/truecharts/charts/compare/shiori-10.0.15...shiori-10.0.16) (2023-01-07)
 
 ### Chore
