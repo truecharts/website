@@ -2,6 +2,11 @@
 
 
 
+## [qbittorrent-14.0.1](https://github.com/truecharts/charts/compare/qbittorrent-14.0.0...qbittorrent-14.0.1) (2023-01-09)
+
+
+
+
 ## [qbittorrent-14.0.0](https://github.com/truecharts/charts/compare/qbittorrent-13.0.10...qbittorrent-14.0.0) (2023-01-09)
 
 ### Feat
