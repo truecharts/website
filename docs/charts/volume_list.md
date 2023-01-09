@@ -244,6 +244,7 @@ The intro needs improvement ;)
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |inventree                 |data                  |PVC      |-              |/home/inventree/data                                 |Read/Write|Enabled                |
 |inventree                 |inventree-nginx       |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
+|invidious                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |ipfs                      |data                  |PVC      |-              |/data/ipfs                                           |Read/Write|Enabled                |
 |ipfs                      |staging               |PVC      |-              |/export                                              |Read/Write|Enabled                |
 |ipfs                      |ipfs                  |PVC      |-              |/ipfs                                                |Read/Write|Enabled                |
@@ -337,6 +338,7 @@ The intro needs improvement ;)
 |meshcentral               |backups               |PVC      |-              |/opt/meshcentral/meshcentral-backup                  |Read/Write|Enabled                |
 |meshcentral               |configfile            |secret   |-              |/opt/meshcentral/meshcentral-data/config.json        |Read Only |Enabled                |
 |meshroom                  |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|metube                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |metube                    |downloads             |PVC      |-              |/downloads                                           |Read/Write|Enabled                |
 |minecraft-bedrock         |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |minecraft-bungeecord      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -762,6 +764,9 @@ The intro needs improvement ;)
 |cadquery-jupyter               |workdir                    |PVC      |-                |/home/cq                                         |Read/Write|Enabled                |
 |cadquery-server                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |channels-dvr                   |config                     |PVC      |-                |/channels-dvr                                    |Read/Write|Enabled                |
+|checkmk                        |config                     |PVC      |-                |/omd/sites                                       |Read/Write|Enabled                |
+|checkmk                        |cmk-temp                   |emptyDir |-                |/omd/sites/cmk/tmp                               |Read/Write|Enabled                |
+|checkmk                        |cmk-cron                   |emptyDir |-                |/var/spool/cron/crontabs                         |Read/Write|Enabled                |
 |cherry                         |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |chivalry-medievalwarfare       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |chivalry-medievalwarfare       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -966,7 +971,6 @@ The intro needs improvement ;)
 |inkscape-desktop-g3            |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |insurgencysandstorm            |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |insurgencysandstorm            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|invidious                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |invitarr                       |config                     |PVC      |-                |/app/app/config                                  |Read/Write|Enabled                |
 |ipmi-tools                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |jackett2telegram               |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
