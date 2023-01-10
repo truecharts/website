@@ -1154,6 +1154,7 @@ The intro needs improvement ;)
 |quake3                         |serverfiles                |PVC      |-                |/quake3                                          |Read/Write|Enabled                |
 |quickshare                     |storagedata                |PVC      |-                |/quickshare/root                                 |Read/Write|Enabled                |
 |quiz-game                      |config                     |PVC      |-                |/app                                             |Read/Write|Enabled                |
+|qwantify                       |games                      |PVC      |-                |/games                                           |Read/Write|Enabled                |
 |ra-rom-processor               |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |ra-rom-processor               |cache                      |PVC      |-                |/cache                                           |Read/Write|Enabled                |
 |ra-rom-processor               |input                      |PVC      |-                |/input                                           |Read/Write|Enabled                |
