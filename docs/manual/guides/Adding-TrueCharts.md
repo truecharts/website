@@ -7,8 +7,9 @@ Adding the TrueCharts Community App Catalog is relatively straight forward.
 
 ## Requirements
 
-- Make sure your storage-pool is created and working
-- Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
+- Make sure your SCALE installation has a working storage pool that you'd like to use for TrueCharts. [Read more](https://www.truenas.com/docs/scale/scaletutorials/storage/) in the SCALE tutorial. 
+- Make sure you have a working internet connection and can reach Github and truecharts.org from the host system.
+- Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings]().
 
 ## Adding TrueCharts
 
