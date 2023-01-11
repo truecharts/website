@@ -9,6 +9,9 @@ TrueNAS SCALE has a catalog system which you can use to add [3rd party catalogs]
 
 ## Requirements
 
+- SCALE apps share computing resources with your system. In addition to the [SCALE recommended system requirements](https://www.truenas.com/docs/scale/gettingstarted/install/installingscale/), you may want to consider additional RAM or computing power dpeneding on the apps you plan to run.
+- It's highly recommended to store your apps dataset on an SSD or NvMe based pool for optimal performance. 
+  - Note: If you wish to use other storage for your apps, you'll want to use an SSD or NvMe based pool for app metadata and caching. You can learn more on how to do this in [Editing Apps](https://truecharts.org/manual/guides/Edit-an-App).
 - Make sure your SCALE installation has a working storage pool that you'd like to use for TrueCharts. [Read more](https://www.truenas.com/docs/scale/scaletutorials/storage/) in the SCALE tutorial. 
 - Make sure you have a working Internet connection and can reach GitHub and truecharts.org from the host system.
 - Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization).
@@ -44,7 +47,7 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 - `stable` contains apps which have been thoroughly tested and expected to be stable and working. The `stable` version of an app is always the best available version.
 - `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch.
 - `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes.
-- `enterprise` contains apps which are intended for more advanced system configurations, such as load balancing.
+- `enterprise` contains apps which are intended for certain future support methods and configurations.
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
