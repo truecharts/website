@@ -2,6 +2,15 @@
 
 
 
+## [alist-4.0.12](https://github.com/truecharts/charts/compare/alist-4.0.11...alist-4.0.12) (2023-01-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/alist to v3.8.0
+  
+  
+
+
 ## [alist-4.0.11](https://github.com/truecharts/charts/compare/alist-4.0.10...alist-4.0.11) (2022-12-31)
 
 ### Chore
