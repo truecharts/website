@@ -2,6 +2,15 @@
 
 
 
+## [jdownloader2-10.0.12](https://github.com/truecharts/charts/compare/jdownloader2-10.0.11...jdownloader2-10.0.12) (2023-01-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/jdownloader-2 to v23.01.2
+  
+  
+
+
 ## [jdownloader2-10.0.11](https://github.com/truecharts/charts/compare/jdownloader2-10.0.10...jdownloader2-10.0.11) (2022-12-27)
 
 ### Chore
