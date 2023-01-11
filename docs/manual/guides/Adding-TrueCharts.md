@@ -1,4 +1,5 @@
 
+
 ---
 sidebar_position: 2
 ---
@@ -27,11 +28,11 @@ To add TrueCharts to your SCALE installation:
  1. Go to **Apps** page from the top level SCALE menu
  2. Select **Manage Catalogs** tab on the Apps page
  3. Click **Add Catalog**
- 4. After reading the iXsystems notice, click **Continue** and enter the required information:
-    Name: `truecharts`
-    Repository: `https://github.com/truecharts/catalog`
-    Preferred Train: `stable`
-    Branch: `main`
+ 4. After reading the iXsystems notice, click **Continue** and enter the required information:   
+ Name: `truecharts`   
+ Repository: `https://github.com/truecharts/catalog`   
+ Preferred Train: `stable`   
+ Branch: `main`
  5.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
 
