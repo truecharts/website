@@ -46,7 +46,7 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 - `stable` contains apps which have been thoroughly tested and expected to be stable and working. The `stable` version of an app is always the best available version.
 - `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch.
 - `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes.
-- `enterprise` contains apps which are intended for certain future support methods and configurations.
+- `enterprise` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional usecases.
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
