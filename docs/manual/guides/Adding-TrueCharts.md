@@ -11,7 +11,8 @@ TrueNAS SCALE has a catalog system which you can use to add [3rd party catalogs]
 
 - SCALE apps share computing resources with your system. We [recommend](https://truecharts.org/manual/systemrequirements) a four core system with at least 16GB of RAM to run apps, and you may want to consider additional RAM or computing power depending on your desired apps.
 - It's highly recommended to store your apps dataset on an SSD or NVMe based pool for optimal performance. We recommend at least 250GB of SSD storage, but you may need more depending on your use cases.
-  - Note: If you wish to use a HDD pool for your apps dataset, you'll want to use a SSD or NVMe based pool for app metadata and caching. **We can't provide support for installations using HDD app storage without a special 8k small block vdev for caching and metadata**.
+  - If you wish to use a HDD pool for your apps dataset, you'll want to use a SSD or NVMe based pool for app metadata and caching. **We can't provide support for installations using HDD app storage without a special 8k small block vdev for caching and metadata**.
+  - Your apps dataset needs to be large enough to store the containers, configuration files, snapshots, and other persistent volume (PVC) data. You can always configure additional storage using HDD pools (e.g. downloads folder) for specific apps later.
 - Make sure your SCALE installation has a working storage pool that you'd like to use for TrueCharts. [Read more](https://www.truenas.com/docs/scale/scaletutorials/storage/) in the SCALE tutorial. 
 - Make sure you have a working Internet connection and can reach GitHub and truecharts.org from the host system.
 - Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
