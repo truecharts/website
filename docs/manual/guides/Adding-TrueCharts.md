@@ -1,36 +1,54 @@
+
+
 ---
 sidebar_position: 2
 ---
 # Adding TrueCharts to SCALE
 
-Adding the TrueCharts Community App Catalog is relatively straight forward.
+TrueNAS SCALE has a catalog system which you can use to add [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog), such as TrueCharts, in just a few minutes. 
 
 ## Requirements
 
-- Make sure your storage-pool is created and working
-- Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
+- SCALE apps share computing resources with your system. We [recommend](https://truecharts.org/manual/systemrequirements) a four core system with at least 16GB of RAM to run apps, and you may want to consider additional RAM or computing power depending on your desired apps.
+- It's highly recommended to store your apps dataset on an SSD or NVMe based pool for optimal performance. We recommend at least 250GB of SSD storage, but you may need more depending on your use cases.
+  - If you wish to use a HDD pool for your apps dataset, you'll want to use a SSD or NVMe based pool for app metadata and caching. **We can't provide support for installations using HDD app storage without a special 8k small block vdev for caching and metadata**.
+  - Your apps dataset needs to be large enough to store the containers, configuration files, snapshots, and other persistent volume (PVC) data. You can always configure additional storage using HDD pools (e.g. downloads folder) for specific apps later.
+- Make sure your SCALE installation has a working storage pool that you'd like to use for TrueCharts. [Read more](https://www.truenas.com/docs/scale/scaletutorials/storage/) in the SCALE tutorial. 
+- Make sure you have a working Internet connection and can reach GitHub and truecharts.org from the host system.
+- Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
+
+## Configuring Your App Pool
+
+Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to choose a storage pool for your Apps. 
+- The pool you choose will create a new dataset called "ix-applications" which stores your docker containers and (by default) your application data.
+
+After creating your Apps pool, you'll be able to add the 3rd party TrueCharts catalog.
+ 
 
 ## Adding TrueCharts
 
-When opening the Apps menu item on TrueNAS SCALE for the first time, you get prompted to setup a new pool for Apps.
-This will create a new dataset on the selected pool called "ix-applications", which will contain all docker containers and most application data, unless specified otherwise.
+To add TrueCharts to your SCALE installation: 
 
-- Go to "Apps" in the left hand menu
-- Select the "Manage Catalogs" tab
-- Click "Add Catalog" and enter the required information:
+ 1. Go to **Apps** page from the top level SCALE menu
+ 2. Select **Manage Catalogs** tab on the Apps page
+ 3. Click **Add Catalog**
+ 4. After reading the iXsystems notice, click **Continue** and enter the required information:   
+ Name: `truecharts`   
+ Repository: `https://github.com/truecharts/catalog`   
+ Preferred Train: `stable`   
+ Branch: `main`
+ 5.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
-- Name: `truecharts`
-- Repository: `https://github.com/truecharts/catalog`
-- Preferred Trains: `stable`
-- Branch: `main`
+## TrueCharts Trains Overview
 
-## Description of TrueCharts Trains
+TrueCharts has multiple "trains", or branches of apps which you can choose to install. Below is a summary of each train and its intended use.
 
-TrueCharts has multiple "trains": All trains contain Apps that should work fine. However they have a slightly different meaning:
+- `stable` contains apps which have been thoroughly tested and expected to be stable and working. The `stable` version of an app is always the best available version.
+- `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch.
+- `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes.
+- `enterprise` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional usecases.
 
-- `stable` contains most of our Apps. These are considered stable and working.
-- `dependency` contains apps that are mostly used as dependencies. This train is not supported, besides from bug fixes.
-- `incubator` These Apps are still in development and/or are not considered to be of high-enough quality.
+[See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
 ## Video Guide
 
@@ -38,4 +56,5 @@ TrueCharts has multiple "trains": All trains contain Apps that should work fine.
 
 ## Notes
 
-- If this doesn't work right away, try clicking "Refresh Catalogs".
+- If an app is available in both the `stable` and `incubator` train, then you should always use the version in the `stable` train as the `incubator` train version will likely be out of date and no longer maintained.
+- After adding the TrueCharts Repository You should start seeing available apps doesn't work right away, try clicking **Refresh Catalogs** on the Apps page.
