@@ -28,7 +28,7 @@ const ProgressBar = (props) => {
   return (
     <div style={containerStyles}>
       <div style={fillerStyles}>
-        <span style={labelStyles}>{`Goal: €250`}</span>
+        <span style={labelStyles}>{`Goal: €500`}</span>
       </div>
     </div>
   );
