@@ -32,7 +32,7 @@ function HomepageHeader() {
           Monthly Funding goal:
           <br></br>
         </h3>
-        <ProgressBar bgcolor="#38b856" completed="60" />
+        <ProgressBar bgcolor="#38b856" completed="60" goal="500" />
         <br></br>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/sponsor">
