@@ -2,6 +2,15 @@
 
 
 
+## [valheim-5.0.11](https://github.com/truecharts/charts/compare/valheim-5.0.10...valheim-5.0.11) (2023-01-12)
+
+### Chore
+
+- update container image tccr.io/truecharts/valheim-server to latest
+  
+  
+
+
 ## [valheim-5.0.10](https://github.com/truecharts/charts/compare/valheim-5.0.9...valheim-5.0.10) (2022-12-27)
 
 ### Chore

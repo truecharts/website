@@ -1,6 +1,6 @@
 # factorio
 
-![Version: 2.0.11](https://img.shields.io/badge/Version-2.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "stable"](https://img.shields.io/badge/AppVersion-"stable"-informational?style=flat-square)
+![Version: 2.0.12](https://img.shields.io/badge/Version-2.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "stable"](https://img.shields.io/badge/AppVersion-"stable"-informational?style=flat-square)
 
 This Chart Chart will download the latest stable release of the game, generate the map and you're ready to play.
 
@@ -8,7 +8,7 @@ This Chart Chart will download the latest stable release of the game, generate t
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
