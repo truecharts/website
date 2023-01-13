@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 ---
-# Adding Storage & Host Path Validation
+# Adding Storage
 
 Apps in SCALE rely on several kinds of storage for core data:
 - [Persistent Volumes](https://docs.k3s.io/storage) (``PVC``), a specific volume which Kubernetes will not delete (i.e. persist) through upgrades, restarts, and rollbacks of your app/chart.
