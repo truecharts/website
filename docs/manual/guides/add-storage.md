@@ -6,7 +6,8 @@ sidebar_position: 6
 Apps in SCALE rely on several kinds of storage for core data:
 - [Persistent Volumes](https://docs.k3s.io/storage) (``PVC``), a specific volume which Kubernetes will not delete (i.e. persist) through upgrades, restarts, and rollbacks of your app/chart.
 - Hostpaths (``hostpath``), a path (/mnt/tank/pool/folder) to a data volume, typically a dataset within a pool on your SCALE installation, or a mounted folder to network attached storage. 
-- You can also use a folder mapped to the container or memory (``emptyDir``), or directly link an NFS share (``NFS Share``), but this is for more advanced users/use cases.
+- You can use a folder mapped to the container or memory (``emptyDir``).
+- You can directly link an NFS share (``NFS Share``) to your app storage.
 
 You can choose during [App Installation](https://truecharts.org/manual/guides/Installing-an-App/) to use a PVC to store all of your app's data, or manually assign a hostpath. Some apps will also let you specify hostpaths in its chart configuration for certain folders.
 
