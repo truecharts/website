@@ -17,7 +17,7 @@ TrueNAS SCALE has a catalog system which you can use to add [3rd party catalogs]
 
 Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/) for your Apps. 
 
-After creating your Apps pool, you'll be able to add the 3rd party TrueCharts catalog.
+After creating your Apps pool, you'll be able to add the TrueCharts Community Catalog.
  
 ## Adding TrueCharts
 
