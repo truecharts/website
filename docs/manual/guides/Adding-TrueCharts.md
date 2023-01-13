@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Adding TrueCharts to SCALE
 
-TrueNAS SCALE has a catalog system which you can use to add [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog), such as TrueCharts, in just a few minutes. 
+TrueNAS SCALE has a catalog system which you can use to add [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog), such as the TrueCharts community catalog, in just a few minutes. 
 
 ## Requirements
 
@@ -49,6 +49,4 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vomm8uvdCM0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Notes
-
-- If an app is available in both the `stable` and `incubator` train, then you should always use the version in the `stable` train as the `incubator` train version will likely be out of date and no longer maintained.
 - After adding the TrueCharts Repository You should start seeing available apps doesn't work right away, try clicking **Refresh Catalogs** on the Apps page.
