@@ -37,8 +37,7 @@ Give your app a few minutes to deploy. You can check its status in the SCALE tas
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9UDUMFiaXBM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
 ## Notes
-- You can view specific configuration information about your app in its [app-specific page](https://truecharts.org/charts/description_list), or by searching for threads about it on the TrueCharts Discord.
+- You can view specific configuration information about your app in its app-specific page by searching for it in the [charts list](https://truecharts.org/charts/description_list), searching our guides, or by searching for threads about it on the TrueCharts Discord.
 - If you see both a ```incubator``` and ```stable``` version of an app in the TrueCharts catalog, you should always use the ```stable``` version as it is the best maintained version.  
 - Some apps are available in both the TrueCharts catalog and iXsystems default catalog. We recommend the TrueCharts version for access to features and capability alignment.
 - Once an app is thoroughly tested and known to be stable, it can be moved from the ```incubator``` train to the ```stable``` train. You can let the TrueCharts team know if a particular app appears to be working well enough to be moved to the ```stable``` train.
-- When adding GPU support to an app, you can only configure a given GPU device (iGPU or dGPU) to a single app at a time.
