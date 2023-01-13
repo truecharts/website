@@ -9,13 +9,13 @@ Apps in SCALE rely on several kinds of storage for core data:
 - You can use a folder mapped to the container or memory (``emptyDir``).
 - You can directly link an NFS share (``NFS Share``) to your app storage.
 
-You can choose during [App Installation](https://truecharts.org/manual/guides/Installing-an-App/) to use a PVC to store all of your app's data, or manually assign a hostpath. Some apps will also let you specify hostpaths in its chart configuration for certain folders.
+You can choose during [App Installation](https://truecharts.org/manual/guides/Installing-an-App/) to use a PVC to store all of your app's data, or manually assign a hostpath.
 
-**Note:**  We only provide support for apps using **PVC** for core app storage, but you can always add additional hostpaths for other storage, such as your media.
+**Note:**  We only provide support for apps using **PVC** for core app storage, often named "config", but you can always add additional hostpaths for other storage, such as your media.
 
-## Adding app storage
+## Adding additional app storage
 
-Even if an app doesn't let you specify a hostpath in its chart config, you can always **add additional app storage** through hostpaths which are linked to a local path on the app (e.g linking ``/mnt/tank/pool/folder`` to ``/media/folder``).
+Even if an app doesn't let you specify a hostpath in its chart config, the TrueCharts config lets you **add additional app storage** through hostpaths which are linked to a local path on the app (e.g linking ``/mnt/tank/pool/folder`` to ``/media/folder``). This will allow the path on your SCALE installation to be available from your app, assuming permissions are correctly configured.
 
 From your SCALE App's configuration (during or after installation): 
 1. Scroll down to ``Storage and Persistence``
@@ -30,7 +30,7 @@ From your SCALE App's configuration (during or after installation):
 
 Permissions apply for app storage and are based on the app's fsGroup which you can configure during app installation. By default most apps will set this to the ``apps`` group (568).
 
-Apps also have a **Automatic Permissions** option for app storage and additional app storage. If you enable automatic permissions, the app will attempt to ``chown`` the hostpath and all subfolders within the hostpath during deployment. 
+Apps also have a **Automatic Permissions** option for app storage and additional app storage. If you enable automatic permissions, the app will attempt to ``chown`` the hostpath and all subfolders within the hostpath during deployment. **Note:** This may not work for large volumes.
 - Be careful with automatic permissions for shared datasets, especially if folders or subfolders carry different user/group owners.  Be sure that your permission changes will not break other apps/services.
 - The ``Automatic Permissions`` command for an app will only apply upon the installation or update of an app. 
 - It's not typically recommended to use automatic permissions for mounted shares (e.g. NFS shares on other external systems) since it will rewrite permissions for those folders which may be shared with multiple systems.
