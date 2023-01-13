@@ -21,7 +21,7 @@ To add a new TrueCharts app to your SCALE installation:
 2. Go to **Available Applications** at the top of the Apps page
 3. Find the app you wish to install using the search bar (or by scrolling through the catalog) and click **Install**
 4. [Configure your app](https://truecharts.org/manual/options/) for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**:  
-	**Application Name:](https://truecharts.org/manual/options/application-name/)** Configure a custom name for your app and select a version to install.  
+	**[Application Name:](https://truecharts.org/manual/options/application-name/)** Configure a custom name for your app and select a version to install.  
 	**General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.  
 	**[Networking & Services:](https://truecharts.org/manual/options/networking/)** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
 	**[Storage and Persistence:](https://truecharts.org/manual/options/storage/)** Configure core app storage and [add additional app storage](https://truecharts.org/manual/guides/add-storage-host-path-validation).  
