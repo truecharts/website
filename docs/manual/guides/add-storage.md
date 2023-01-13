@@ -27,20 +27,20 @@ From your SCALE App's configuration (during or after installation):
 
 ## Permissions
 
-Permissions apply for app storage and are based on the app's fsGroup or PUID which you can configure during app installation. By default most apps will set this to the ``apps`` user and group (568).
+Permissions apply for app storage and are based on the app's fsGroup which you can configure during app installation. By default most apps will set this to the ``apps`` group (568).
 
 Apps also have a **Automatic Permissions** option for app storage and additional app storage. If you enable automatic permissions, the app will attempt to ``chown`` the hostpath and all subfolders within the hostpath during deployment. 
 - Be careful with automatic permissions for shared datasets, especially if folders or subfolders carry different user/group owners.  Be sure that your permission changes will not break other apps/services.
 - The ``Automatic Permissions`` command for an app will only apply upon the installation or update of an app. 
 - It's not typically recommended to use automatic permissions for mounted shares (e.g. NFS shares on other external systems) since it will rewrite permissions for those folders which may be shared with multiple systems.
-- You can always add the apps fsGroup PUID (*default:* ``568``) 
-- ACLs are not recommended or supported for additional app storage as many apps have issues with accessing data managed by an ACL.
+- You can always add the apps fsGroup (*default:* ``568``) 
+- ACLs are not recommended or supported for app storage as many apps have issues with accessing data managed by an ACL.
 
 You can learn more about permissions and ACLs in the [TrueNAS SCALE Docs](https://www.truenas.com/docs/scale/scaleuireference/storage/datasets/editaclscreens/).
 
 ## Host Path Validation Safety
 
-Starting with SCALE Bluefin (22.12), there's a new safety check on apps called **Host Path Safety Checks** located in your SCALE installation's Apps **Advanced Settings** (the same place as your k3s network, GPU, and other settings). This check is intended to ensure datasets used by your apps (e.g. media datasets) are not in use by a network share (e.g. SMB, NFS, CIFS). We require this because shares often adjust/change the permissions for files being used simultaneously by an app with its own permissions and can cause data issues or data loss. **You can disable these checks, but it may lead to issues with your Apps depending on your permissions configuration**.
+Starting with SCALE Bluefin (22.12), there's a new safety check on apps called **Host Path Safety Checks** located in your SCALE installation's Apps **Advanced Settings** (the same place as your k3s network, GPU, and other settings). This check is intended to ensure datasets used by your apps (e.g. media datasets) are not in use by a network share (e.g. SMB, NFS, CIFS). We require this for security (Protect the system from container escape vulnerabilities using hostPath) and reliability (Prevent multiple services (shares for example) from using the same dataset.) reasons. **You can disable these checks, but it may lead to issues with your Apps depending on your permissions configuration**.
 
 To disable Host Path Safety Checks:
 1. From the SCALE Apps page, click **Settings** > **Advanced Settings** 
