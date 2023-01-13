@@ -2,6 +2,15 @@
 
 
 
+## [chronograf-2.0.12](https://github.com/truecharts/charts/compare/chronograf-2.0.11...chronograf-2.0.12) (2023-01-12)
+
+### Chore
+
+- update container image tccr.io/truecharts/chronograf to latest
+  
+  
+
+
 ## [chronograf-2.0.11](https://github.com/truecharts/charts/compare/chronograf-2.0.10...chronograf-2.0.11) (2022-12-27)
 
 ### Chore
