@@ -6,7 +6,7 @@ Traefik is a flexible reverse proxy and Ingress Provider.
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
+- [****](CHANGELOG)
 
 - [**Helm Security**](container-security)
 
