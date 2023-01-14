@@ -1116,6 +1116,7 @@ The intro needs improvement ;)
 |pixelserv-tls                  |certficatesdir             |PVC      |-                |/var/cache/pixelserv                             |Read/Write|Enabled                |
 |plausible                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |plex-meta-manager              |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|plexanisync                    |settings                   |secret   |-                |/plexanisync/settings.ini                        |Read Only |Enabled                |
 |plexripper                     |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |plexripper                     |downloadfolder             |PVC      |-                |/downloads                                       |Read/Write|Enabled                |
 |plexripper                     |moviedestinationfolder     |PVC      |-                |/movies                                          |Read/Write|Enabled                |
