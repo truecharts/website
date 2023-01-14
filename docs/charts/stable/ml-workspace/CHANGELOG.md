@@ -2,6 +2,15 @@
 
 
 
+## [ml-workspace-4.0.8](https://github.com/truecharts/charts/compare/ml-workspace-4.0.7...ml-workspace-4.0.8) (2023-01-14)
+
+### Chore
+
+- group more apps and fix some images ([#6356](https://github.com/truecharts/charts/issues/6356))
+  
+  
+
+
 ## [ml-workspace-4.0.7](https://github.com/truecharts/charts/compare/ml-workspace-4.0.6...ml-workspace-4.0.7) (2022-12-27)
 
 ### Chore
