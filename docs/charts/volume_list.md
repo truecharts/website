@@ -200,8 +200,6 @@ The intro needs improvement ;)
 |gonic                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |gotify                    |data                  |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |gotify                    |config-file           |secret   |-              |/etc/gotify/config.yml                               |Read Only |Enabled                |
-|grafana                   |config                |PVC      |-              |/opt/bitnami/grafana/data                            |Read/Write|Enabled                |
-|grafana                   |grafana-tmp           |emptyDir |-              |/opt/bitnami/grafana/tmp                             |Read/Write|Enabled                |
 |grav                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |grav                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |grist                     |persist               |PVC      |-              |/persist                                             |Read/Write|Enabled                |
@@ -479,7 +477,6 @@ The intro needs improvement ;)
 |projectsend               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |projectsend               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |promcord                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|prometheus                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |protonmail-bridge         |config                |PVC      |-              |/root                                                |Read/Write|Enabled                |
 |prowlarr                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |prusaslicer-novnc         |configsfolder         |PVC      |-              |/configs/                                            |Read/Write|Enabled                |
@@ -597,7 +594,6 @@ The intro needs improvement ;)
 |tinymediamanager          |movies                |PVC      |-              |/media/movies                                        |Read/Write|Enabled                |
 |tinymediamanager          |tvshows               |PVC      |-              |/media/tvshows                                       |Read/Write|Enabled                |
 |traccar                   |data                  |PVC      |-              |/opt/traccar/data                                    |Read/Write|Enabled                |
-|traefik                   |plugins               |emptyDir |-              |/plugins-storage                                     |Read/Write|Enabled                |
 |traggo                    |config                |PVC      |-              |/opt/traggo/data                                     |Read/Write|Enabled                |
 |transmission              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |trilium-notes             |config                |PVC      |-              |/home/node                                           |Read/Write|Enabled                |
@@ -1365,7 +1361,11 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|blocky  |-       |-   |-       |-        |-   |Persistence not Defined|
-|metallb |-       |-   |-       |-        |-   |Persistence not Defined|
+|blocky    |-          |-       |-       |-                        |-         |Persistence not Defined|
+|grafana   |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
+|grafana   |grafana-tmp|emptyDir|-       |/opt/bitnami/grafana/tmp |Read/Write|Enabled                |
+|metallb   |-          |-       |-       |-                        |-         |Persistence not Defined|
+|prometheus|-          |-       |-       |-                        |-         |Persistence not Defined|
+|traefik   |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
