@@ -120,6 +120,7 @@ The intro needs improvement ;)
 |digikam                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |dillinger                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |dillinger                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|discordgsm                |config                |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |dizquetv                  |config                |PVC      |-              |/home/node/app/.dizquetv                             |Read/Write|Enabled                |
 |docker-compose            |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |docker-compose            |docker-certs-ca       |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -632,6 +633,7 @@ The intro needs improvement ;)
 |vikunja                   |files                 |PVC      |-              |/app/vikunja/files                                   |Read/Write|Enabled                |
 |vikunja                   |vikunja-config        |custom   |-              |/etc/nginx/conf.d/default.conf                       |Read/Write|Enabled                |
 |watchyourlan              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|wbo                       |data                  |PVC      |-              |/opt/app/server-data                                 |Read/Write|Enabled                |
 |webgrabplus               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |webgrabplus               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |webgrabplus               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -832,7 +834,6 @@ The intro needs improvement ;)
 |debian-apt-mirror              |config                     |PVC      |-                |/debian-mirror/config                            |Read/Write|Enabled                |
 |debian-apt-mirror              |data                       |PVC      |-                |/debian-mirror/data                              |Read/Write|Enabled                |
 |debian-bullseye                |homedirectory              |PVC      |-                |/debian                                          |Read/Write|Enabled                |
-|discordgsm                     |config                     |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |dispatch                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |dns-doh-companion              |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |docker-hub-rss                 |-                          |-        |-                |-                                                |-         |Persistence not Defined|
@@ -1075,6 +1076,7 @@ The intro needs improvement ;)
 |obsidian                       |storagevaults              |PVC      |-                |/vaults                                          |Read/Write|Enabled                |
 |onlinecheckyourserver          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |openaudible                    |config                     |PVC      |-                |/config/OpenAudible                              |Read/Write|Enabled                |
+|openbooks                      |books                      |PVC      |-                |/books/books                                     |Read/Write|Enabled                |
 |opengl-desktop-g3              |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |openproject                    |assets                     |PVC      |-                |/var/openproject/assets                          |Read/Write|Enabled                |
 |openra                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
@@ -1319,7 +1321,6 @@ The intro needs improvement ;)
 |vorta                          |backupsfrom                |PVC      |-                |/data/bkp_from                                   |Read Only |Enabled                |
 |vorta                          |backupsto                  |PVC      |-                |/data/bkp_to                                     |Read/Write|Enabled                |
 |vorta                          |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|wbo                            |data                       |PVC      |-                |/opt/app/server-data                             |Read/Write|Enabled                |
 |webp-server                    |storagecache               |PVC      |-                |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC      |-                |/opt/pics                                        |Read Only |Enabled                |
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
