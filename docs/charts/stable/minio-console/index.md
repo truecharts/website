@@ -1,6 +1,6 @@
 # minio-console
 
-![Version: 5.0.12](https://img.shields.io/badge/Version-5.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.22.3"](https://img.shields.io/badge/AppVersion-"0.22.3"-informational?style=flat-square)
+![Version: 5.0.13](https://img.shields.io/badge/Version-5.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.22.5"](https://img.shields.io/badge/AppVersion-"0.22.5"-informational?style=flat-square)
 
 A management console for minio server and operator
 
@@ -8,7 +8,7 @@ A management console for minio server and operator
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
