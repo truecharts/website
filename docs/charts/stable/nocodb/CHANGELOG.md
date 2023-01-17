@@ -2,6 +2,15 @@
 
 
 
+## [nocodb-6.0.23](https://github.com/truecharts/charts/compare/nocodb-6.0.22...nocodb-6.0.23) (2023-01-17)
+
+### Chore
+
+- update container image tccr.io/truecharts/nocodb to v0.101.2
+  
+  
+
+
 ## [nocodb-6.0.22](https://github.com/truecharts/charts/compare/nocodb-6.0.21...nocodb-6.0.22) (2023-01-07)
 
 ### Chore
