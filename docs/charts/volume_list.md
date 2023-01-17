@@ -858,6 +858,8 @@ The intro needs improvement ;)
 |ecodms                         |scaninputpath              |PVC      |-                |/srv/scaninput                                   |Read/Write|Enabled                |
 |electrum                       |datapath                   |PVC      |-                |/electrum                                        |Read/Write|Enabled                |
 |emby-sync                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|ersatztv                       |config                     |PVC      |-                |/root/.local/share/ersatztv                      |Read/Write|Enabled                |
+|ersatztv                       |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |etesync                        |app                        |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |etesync                        |secret                     |custom   |-                |/data/secret.txt                                 |Read Only |Enabled                |
 |ethercalc                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
