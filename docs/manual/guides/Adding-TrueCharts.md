@@ -29,7 +29,7 @@ To add TrueCharts to your SCALE installation:
  4. After reading the iXsystems notice, click **Continue** and enter the required information:   
  Name: `truecharts`   
  Repository: `https://github.com/truecharts/catalog`   
- Preferred Train: `stable`   
+ Preferred Trains: `enterprise` and `stable`   
  Branch: `main`
  5.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
