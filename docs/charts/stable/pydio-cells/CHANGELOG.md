@@ -2,6 +2,15 @@
 
 
 
+## [pydio-cells-7.0.17](https://github.com/truecharts/charts/compare/pydio-cells-7.0.16...pydio-cells-7.0.17) (2023-01-17)
+
+### Chore
+
+- update helm general non-major ([#6430](https://github.com/truecharts/charts/issues/6430))
+  
+  
+
+
 ## [pydio-cells-7.0.16](https://github.com/truecharts/charts/compare/pydio-cells-7.0.15...pydio-cells-7.0.16) (2023-01-16)
 
 ### Chore

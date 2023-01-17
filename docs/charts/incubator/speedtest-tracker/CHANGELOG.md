@@ -2,6 +2,15 @@
 
 
 
+## [speedtest-tracker-3.0.23](https://github.com/truecharts/charts/compare/speedtest-tracker-3.0.22...speedtest-tracker-3.0.23) (2023-01-17)
+
+### Chore
+
+- update helm general non-major ([#6430](https://github.com/truecharts/charts/issues/6430))
+  
+  
+
+
 ## [speedtest-tracker-3.0.22](https://github.com/truecharts/charts/compare/speedtest-tracker-3.0.21...speedtest-tracker-3.0.22) (2023-01-12)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [zabbix-4.0.20](https://github.com/truecharts/charts/compare/zabbix-4.0.19...zabbix-4.0.20) (2023-01-17)
+
+### Chore
+
+- update helm general non-major ([#6430](https://github.com/truecharts/charts/issues/6430))
+  
+  
+
+
 ## [zabbix-4.0.19](https://github.com/truecharts/charts/compare/zabbix-4.0.18...zabbix-4.0.19) (2023-01-07)
 
 ### Chore
