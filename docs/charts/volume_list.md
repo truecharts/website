@@ -1364,11 +1364,12 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|blocky    |-          |-       |-       |-                        |-         |Persistence not Defined|
-|grafana   |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
-|grafana   |grafana-tmp|emptyDir|-       |/opt/bitnami/grafana/tmp |Read/Write|Enabled                |
-|metallb   |-          |-       |-       |-                        |-         |Persistence not Defined|
-|prometheus|-          |-       |-       |-                        |-         |Persistence not Defined|
-|traefik   |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
+|blocky      |-          |-       |-       |-                        |-         |Persistence not Defined|
+|cert-manager|-          |-       |-       |-                        |-         |Persistence not Defined|
+|grafana     |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
+|grafana     |grafana-tmp|emptyDir|-       |/opt/bitnami/grafana/tmp |Read/Write|Enabled                |
+|metallb     |-          |-       |-       |-                        |-         |Persistence not Defined|
+|prometheus  |-          |-       |-       |-                        |-         |Persistence not Defined|
+|traefik     |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script

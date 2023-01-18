@@ -1205,23 +1205,24 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|metallb   |main        |-           |-    |-       |Service is Disabled|-                                                                                                                      |
-|traefik   |udp         |-           |-    |-       |Service is Disabled|-                                                                                                                      |
-|blocky    |dnstcp      |dnstcp      |53   |TCP     |Active             |-                                                                                                                      |
-|blocky    |dnsudp      |dnsudp      |53   |UDP     |Active             |Potential conflict with: k8s-gateway mosdns adguard-home lancache-dns pihole ts-dnsserver dns-doh-companion technitium |
-|blocky    |dot         |dot         |853  |TCP     |Active             |-                                                                                                                      |
-|blocky    |http        |http        |4000 |HTTP    |Active             |-                                                                                                                      |
-|blocky    |https       |https       |4443 |HTTPS   |Active             |-                                                                                                                      |
-|blocky    |k8sgateway  |k8sgateway  |5353 |UDP     |Active             |-                                                                                                                      |
-|traefik   |main        |main        |9000 |HTTP    |Active             |-                                                                                                                      |
-|traefik   |tcp         |web         |9080 |HTTP    |Active             |-                                                                                                                      |
-|traefik   |metrics     |metrics     |9180 |HTTP    |Active             |-                                                                                                                      |
-|traefik   |tcp         |websecure   |9443 |HTTPS   |Active             |-                                                                                                                      |
-|grafana   |main        |main        |10038|HTTP    |Active             |-                                                                                                                      |
-|prometheus|main        |main        |10086|HTTP    |Active             |-                                                                                                                      |
-|prometheus|alertmanager|alertmanager|10087|HTTP    |Active             |-                                                                                                                      |
-|blocky    |main        |main        |10315|HTTP    |Active             |-                                                                                                                      |
-|prometheus|thanos      |thanos      |10901|HTTP    |Active             |-                                                                                                                      |
+|cert-manager|main        |-           |-    |-       |Service is Disabled|-                                                                                                                      |
+|metallb     |main        |-           |-    |-       |Service is Disabled|-                                                                                                                      |
+|traefik     |udp         |-           |-    |-       |Service is Disabled|-                                                                                                                      |
+|blocky      |dnstcp      |dnstcp      |53   |TCP     |Active             |-                                                                                                                      |
+|blocky      |dnsudp      |dnsudp      |53   |UDP     |Active             |Potential conflict with: k8s-gateway mosdns adguard-home lancache-dns pihole ts-dnsserver dns-doh-companion technitium |
+|blocky      |dot         |dot         |853  |TCP     |Active             |-                                                                                                                      |
+|blocky      |http        |http        |4000 |HTTP    |Active             |-                                                                                                                      |
+|blocky      |https       |https       |4443 |HTTPS   |Active             |-                                                                                                                      |
+|blocky      |k8sgateway  |k8sgateway  |5353 |UDP     |Active             |-                                                                                                                      |
+|traefik     |main        |main        |9000 |HTTP    |Active             |-                                                                                                                      |
+|traefik     |tcp         |web         |9080 |HTTP    |Active             |-                                                                                                                      |
+|traefik     |metrics     |metrics     |9180 |HTTP    |Active             |-                                                                                                                      |
+|traefik     |tcp         |websecure   |9443 |HTTPS   |Active             |-                                                                                                                      |
+|grafana     |main        |main        |10038|HTTP    |Active             |-                                                                                                                      |
+|prometheus  |main        |main        |10086|HTTP    |Active             |-                                                                                                                      |
+|prometheus  |alertmanager|alertmanager|10087|HTTP    |Active             |-                                                                                                                      |
+|blocky      |main        |main        |10315|HTTP    |Active             |-                                                                                                                      |
+|prometheus  |thanos      |thanos      |10901|HTTP    |Active             |-                                                                                                                      |
 
 ## Official Apps
 
