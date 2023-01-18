@@ -2,6 +2,15 @@
 
 
 
+## [searxng-2.0.15](https://github.com/truecharts/charts/compare/searxng-2.0.14...searxng-2.0.15) (2023-01-18)
+
+### Chore
+
+- update container image tccr.io/truecharts/searxng to latest
+  
+  
+
+
 ## [searxng-2.0.14](https://github.com/truecharts/charts/compare/searxng-2.0.13...searxng-2.0.14) (2023-01-12)
 
 ### Chore
