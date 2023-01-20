@@ -559,7 +559,7 @@ The intro needs improvement ;)
 |stash                     |config                |PVC      |-              |/root/.stash                                         |Read/Write|Enabled                |
 |static                    |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |static                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|statping                  |data                  |PVC      |-              |/app                                                 |Read/Write|Enabled                |
+|statping-ng               |data                  |PVC      |-              |/app                                                 |Read/Write|Enabled                |
 |storj-node                |identity              |PVC      |-              |/app/identity                                        |Read/Write|Enabled                |
 |storj-node                |storage               |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |strapi                    |data                  |PVC      |-              |/srv/app                                             |Read/Write|Enabled                |
@@ -1260,7 +1260,6 @@ The intro needs improvement ;)
 |starmade                       |serverfiles                |PVC      |-                |/starmade                                        |Read/Write|Enabled                |
 |stationeers                    |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |stationeers                    |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|statping-ng                    |config                     |PVC      |-                |/app                                             |Read/Write|Enabled                |
 |storm                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |stun-turn-server               |containerpath              |PVC      |-                |/stun-turn                                       |Read/Write|Enabled                |
 |suistartpage                   |appdata                    |PVC      |-                |/usr/share/nginx/html                            |Read/Write|Enabled                |
