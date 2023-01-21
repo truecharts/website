@@ -1,6 +1,6 @@
 # domoticz
 
-![Version: 4.0.14](https://img.shields.io/badge/Version-4.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2022.2.202"](https://img.shields.io/badge/AppVersion-"2022.2.202"-informational?style=flat-square)
+![Version: 4.0.15](https://img.shields.io/badge/Version-4.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2022.2.202"](https://img.shields.io/badge/AppVersion-"2022.2.202"-informational?style=flat-square)
 
 Domoticz is a Home Automation System that lets you monitor and configure various devices like Lights, Switches and much more.
 
