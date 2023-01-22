@@ -84,6 +84,8 @@ The intro needs improvement ;)
 |cloudflareddns            |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |code-server               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |commento-plusplus         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|cops                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|cops                      |books                 |PVC      |-              |/books                                               |Read/Write|Enabled                |
 |couchpotato               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |couchpotato               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |crafty-4                  |config                |PVC      |-              |/crafty/app/config                                   |Read/Write|Enabled                |
@@ -287,6 +289,8 @@ The intro needs improvement ;)
 |kopia                     |logs                  |PVC      |-              |/app/logs                                            |Read/Write|Enabled                |
 |kopia                     |rclone                |PVC      |-              |/app/rclone                                          |Read/Write|Enabled                |
 |kutt                      |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|lama-cleaner              |torch                 |PVC      |-              |/root/.cache/torch                                   |Read/Write|Enabled                |
+|lama-cleaner              |huggingface           |PVC      |-              |/root/.cache/huggingface                             |Read/Write|Enabled                |
 |lancache-dns              |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |lancache-monolithic       |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |lancache-monolithic       |logs                  |PVC      |-              |/data/logs                                           |Read/Write|Enabled                |
@@ -453,6 +457,9 @@ The intro needs improvement ;)
 |photoview                 |cache                 |PVC      |-              |/cache                                               |Read/Write|Enabled                |
 |photoview                 |photos                |PVC      |-              |/photos                                              |Read/Write|Enabled                |
 |phpldapadmin              |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
+|pialert                   |config                |PVC      |-              |/home/pi/pialert/config                              |Read/Write|Enabled                |
+|pialert                   |db                    |PVC      |-              |/home/pi/pialert/db                                  |Read/Write|Enabled                |
+|pialert                   |pialert-config        |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |piaware                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |picoshare                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |pidgin                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -551,6 +558,9 @@ The intro needs improvement ;)
 |snipe-it                  |logs                  |PVC      |-              |/var/www/html/storage/logs                           |Read/Write|Enabled                |
 |snipe-it                  |data                  |PVC      |-              |/var/lib/snipeit/data                                |Read/Write|Enabled                |
 |snipe-it                  |backups               |PVC      |-              |/var/lib/snipeit/dumps                               |Read/Write|Enabled                |
+|soft-serve                |config                |PVC      |-              |/soft-serve                                          |Read/Write|Enabled                |
+|soft-serve                |ssh                   |PVC      |-              |/.ssh                                                |Read/Write|Enabled                |
+|soft-serve                |repos                 |PVC      |-              |/repos                                               |Read/Write|Enabled                |
 |sonarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |speedtest-exporter        |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |spotweb                   |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -790,8 +800,6 @@ The intro needs improvement ;)
 |conanexiles                    |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |conreq                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |convos                         |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|cops                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|cops                           |pathbooks                  |PVC      |-                |/books                                           |Read/Write|Enabled                |
 |core-keeper-dedicated-server   |datafiles                  |PVC      |-                |/home/steam/core-keeper-data                     |Read/Write|Enabled                |
 |core-keeper-dedicated-server   |serverfiles                |PVC      |-                |/home/steam/core-keeper-dedicated                |Read/Write|Enabled                |
 |corekeeper                     |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -999,8 +1007,6 @@ The intro needs improvement ;)
 |kitana                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |krusader                       |containerpath              |PVC      |-                |/krusader                                        |Read/Write|Enabled                |
 |krusader                       |datapath                   |PVC      |-                |/mnt/user                                        |Read/Write|Enabled                |
-|lama-cleaner                   |torch                      |PVC      |-                |/root/.cache/torch                               |Read/Write|Enabled                |
-|lama-cleaner                   |huggingface                |PVC      |-                |/root/.cache/huggingface                         |Read/Write|Enabled                |
 |lastoasis                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |lastoasis                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |left4dead                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1100,9 +1106,6 @@ The intro needs improvement ;)
 |photostructure                 |logs                       |PVC      |-                |/ps/logs                                         |Read/Write|Enabled                |
 |photostructure                 |tempscratchdisk            |PVC      |-                |/ps/tmp                                          |Read/Write|Enabled                |
 |phpmyadmin                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|pialert                        |config                     |PVC      |-                |/home/pi/pialert/config                          |Read/Write|Enabled                |
-|pialert                        |db                         |PVC      |-                |/home/pi/pialert/db                              |Read/Write|Enabled                |
-|pialert                        |pialert-config             |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
 |pigallery2                     |config                     |PVC      |-                |/app/data/config                                 |Read/Write|Enabled                |
 |pigallery2                     |db                         |PVC      |-                |/app/data/db                                     |Read/Write|Enabled                |
 |pigallery2                     |image                      |PVC      |-                |/app/data/images/                                |Read Only |Enabled                |
@@ -1233,9 +1236,6 @@ The intro needs improvement ;)
 |snippet-box                    |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |snowflake-proxy                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |socials                        |socials                    |PVC      |-                |/app/people                                      |Read/Write|Enabled                |
-|soft-serve                     |config                     |PVC      |-                |/soft-serve                                      |Read/Write|Enabled                |
-|soft-serve                     |ssh                        |PVC      |-                |/.ssh                                            |Read/Write|Enabled                |
-|soft-serve                     |repos                      |PVC      |-                |/repos                                           |Read/Write|Enabled                |
 |sonarqube                      |data                       |PVC      |-                |/opt/sonarqube/data                              |Read/Write|Enabled                |
 |sonarqube                      |extensions                 |PVC      |-                |/opt/sonarqube/extensions                        |Read/Write|Enabled                |
 |sonarqube                      |logs                       |PVC      |-                |/opt/sonarqube/logs                              |Read/Write|Enabled                |
