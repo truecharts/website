@@ -669,6 +669,11 @@ The intro needs improvement ;)
 |xen-orchestra             |redis-data            |PVC      |-              |/var/lib/redis                                       |Read/Write|Enabled                |
 |xteve                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |xwiki                     |config                |PVC      |-              |/usr/local/xwiki                                     |Read/Write|Enabled                |
+|youtrack                  |data                  |PVC      |-              |/opt/youtrack/data                                   |Read/Write|Enabled                |
+|youtrack                  |conf                  |PVC      |-              |/opt/youtrack/conf                                   |Read/Write|Enabled                |
+|youtrack                  |logs                  |PVC      |-              |/opt/youtrack/logs                                   |Read/Write|Enabled                |
+|youtrack                  |backups               |PVC      |-              |/opt/youtrack/backups                                |Read/Write|Enabled                |
+|youtrack                  |youtracktemp          |emptyDir |-              |/opt/youtrack/temp                                   |Read/Write|Enabled                |
 |youtransfer               |config                |PVC      |-              |/opt/youtransfer/config                              |Read/Write|Enabled                |
 |youtransfer               |hostpath3             |PVC      |-              |/opt/youtransfer/uploads                             |Read/Write|Enabled                |
 |youtubedl-material        |appdata               |PVC      |-              |/app/appdata                                         |Read/Write|Enabled                |
@@ -1333,11 +1338,6 @@ The intro needs improvement ;)
 |yacreaderlibraryserver         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |yacy                           |appdata                    |PVC      |-                |/opt/yacy_search_server/DATA                     |Read/Write|Enabled                |
 |yourls                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|youtrack                       |data                       |PVC      |-                |/opt/youtrack/data                               |Read/Write|Enabled                |
-|youtrack                       |conf                       |PVC      |-                |/opt/youtrack/conf                               |Read/Write|Enabled                |
-|youtrack                       |logs                       |PVC      |-                |/opt/youtrack/logs                               |Read/Write|Enabled                |
-|youtrack                       |backups                    |PVC      |-                |/opt/youtrack/backups                            |Read/Write|Enabled                |
-|youtrack                       |youtracktemp               |emptyDir |-                |/opt/youtrack/temp                               |Read/Write|Enabled                |
 |z80pack                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zabbix                         |serveralertscripts         |PVC      |-                |/usr/lib/zabbix/alertscripts                     |Read/Write|Enabled                |
 |zabbix                         |serverexternalscripts      |PVC      |-                |/usr/lib/zabbix/externalscripts                  |Read/Write|Enabled                |
