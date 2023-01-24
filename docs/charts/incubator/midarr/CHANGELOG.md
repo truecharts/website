@@ -2,6 +2,15 @@
 
 
 
+## [midarr-3.0.19](https://github.com/truecharts/charts/compare/midarr-3.0.18...midarr-3.0.19) (2023-01-24)
+
+### Chore
+
+- update helm general non-major ([#6689](https://github.com/truecharts/charts/issues/6689))
+  
+  
+
+
 ## [midarr-3.0.18](https://github.com/truecharts/charts/compare/midarr-3.0.17...midarr-3.0.18) (2023-01-23)
 
 ### Chore
