@@ -2,6 +2,15 @@
 
 
 
+## [red-discordbot-2.0.10](https://github.com/truecharts/charts/compare/red-discordbot-2.0.9...red-discordbot-2.0.10) (2023-01-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/red-discordbot to vfull
+  
+  
+
+
 ## [red-discordbot-2.0.9](https://github.com/truecharts/charts/compare/red-discordbot-2.0.8...red-discordbot-2.0.9) (2023-01-16)
 
 ### Chore

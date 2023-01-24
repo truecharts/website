@@ -2,6 +2,15 @@
 
 
 
+## [plextraktsync-3.0.17](https://github.com/truecharts/charts/compare/plextraktsync-3.0.16...plextraktsync-3.0.17) (2023-01-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/plextraktsync to latest
+  
+  
+
+
 ## [plextraktsync-3.0.16](https://github.com/truecharts/charts/compare/plextraktsync-3.0.15...plextraktsync-3.0.16) (2023-01-18)
 
 ### Chore
