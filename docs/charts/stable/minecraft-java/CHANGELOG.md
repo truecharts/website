@@ -2,6 +2,15 @@
 
 
 
+## [minecraft-java-3.0.21](https://github.com/truecharts/charts/compare/minecraft-java-3.0.20...minecraft-java-3.0.21) (2023-01-24)
+
+### Chore
+
+- update minecraft-java
+  
+  
+
+
 ## [minecraft-java-3.0.20](https://github.com/truecharts/charts/compare/minecraft-java-3.0.19...minecraft-java-3.0.20) (2023-01-18)
 
 ### Chore
