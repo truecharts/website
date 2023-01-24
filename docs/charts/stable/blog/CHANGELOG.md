@@ -2,6 +2,15 @@
 
 
 
+## [blog-6.0.19](https://github.com/truecharts/charts/compare/blog-6.0.18...blog-6.0.19) (2023-01-23)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [blog-6.0.18](https://github.com/truecharts/charts/compare/blog-6.0.17...blog-6.0.18) (2023-01-17)
 
 ### Chore

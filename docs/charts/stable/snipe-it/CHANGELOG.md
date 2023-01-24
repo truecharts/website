@@ -2,6 +2,15 @@
 
 
 
+## [snipe-it-7.0.18](https://github.com/truecharts/charts/compare/snipe-it-7.0.17...snipe-it-7.0.18) (2023-01-23)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [snipe-it-7.0.17](https://github.com/truecharts/charts/compare/snipe-it-7.0.16...snipe-it-7.0.17) (2023-01-17)
 
 ### Chore

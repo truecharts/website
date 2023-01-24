@@ -2,6 +2,15 @@
 
 
 
+## [mealie-14.0.18](https://github.com/truecharts/charts/compare/mealie-14.0.17...mealie-14.0.18) (2023-01-23)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [mealie-14.0.17](https://github.com/truecharts/charts/compare/mealie-14.0.16...mealie-14.0.17) (2023-01-17)
 
 ### Chore

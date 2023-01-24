@@ -1,6 +1,6 @@
 # misskey
 
-![Version: 3.0.21](https://img.shields.io/badge/Version-3.0.21-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "13.0.0"](https://img.shields.io/badge/AppVersion-"13.0.0"-informational?style=flat-square)
+![Version: 3.0.22](https://img.shields.io/badge/Version-3.0.22-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "13.0.0"](https://img.shields.io/badge/AppVersion-"13.0.0"-informational?style=flat-square)
 
 Misskey is an open source, decentralized social media platform that's free forever!
 

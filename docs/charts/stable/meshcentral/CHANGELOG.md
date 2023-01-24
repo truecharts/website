@@ -2,6 +2,15 @@
 
 
 
+## [meshcentral-9.0.28](https://github.com/truecharts/charts/compare/meshcentral-9.0.27...meshcentral-9.0.28) (2023-01-23)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [meshcentral-9.0.27](https://github.com/truecharts/charts/compare/meshcentral-9.0.26...meshcentral-9.0.27) (2023-01-17)
 
 ### Chore

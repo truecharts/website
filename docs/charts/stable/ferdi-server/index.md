@@ -1,6 +1,6 @@
 # ferdi-server
 
-![Version: 6.0.17](https://img.shields.io/badge/Version-6.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.3.2"](https://img.shields.io/badge/AppVersion-"1.3.2"-informational?style=flat-square)
+![Version: 6.0.18](https://img.shields.io/badge/Version-6.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.3.2"](https://img.shields.io/badge/AppVersion-"1.3.2"-informational?style=flat-square)
 
 Server for Ferdi that you can re-use to run your own
 
