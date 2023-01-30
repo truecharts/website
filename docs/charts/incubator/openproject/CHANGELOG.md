@@ -2,6 +2,11 @@
 
 
 
+## [openproject-3.0.20](https://github.com/truecharts/charts/compare/openproject-3.0.19...openproject-3.0.20) (2023-01-30)
+
+
+
+
 ## [openproject-3.0.19](https://github.com/truecharts/charts/compare/openproject-3.0.18...openproject-3.0.19) (2023-01-24)
 
 ### Chore
