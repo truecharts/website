@@ -135,7 +135,6 @@ The intro needs improvement ;)
 |doublecommander           |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |doublecommander           |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |drawio                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|drone-runner              |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |dsmr-reader               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |duckdns                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |duckdns                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -857,6 +856,7 @@ The intro needs improvement ;)
 |dontstarvetogether             |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |dontstarvetogether             |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |dontstarvetogether             |token                      |PVC      |-                |/serverdata/.klei/DoNotStarveTogether            |Read/Write|Enabled                |
+|drone-runner                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |dropbox-by-otherguy            |dropboxsettings            |PVC      |-                |/opt/dropbox/.dropbox                            |Read/Write|Enabled                |
 |dropbox-by-otherguy            |dropboxuserfiles           |PVC      |-                |/opt/dropbox/Dropbox                             |Read/Write|Enabled                |
 |duplicacy                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
