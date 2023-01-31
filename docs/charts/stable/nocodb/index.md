@@ -1,6 +1,6 @@
 # nocodb
 
-![Version: 6.0.26](https://img.shields.io/badge/Version-6.0.26-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.101.2"](https://img.shields.io/badge/AppVersion-"0.101.2"-informational?style=flat-square)
+![Version: 6.0.27](https://img.shields.io/badge/Version-6.0.27-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.104.2"](https://img.shields.io/badge/AppVersion-"0.104.2"-informational?style=flat-square)
 
 Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
 
