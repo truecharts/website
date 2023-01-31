@@ -2,6 +2,15 @@
 
 
 
+## [jellyfin-13.0.10](https://github.com/truecharts/charts/compare/jellyfin-13.0.9...jellyfin-13.0.10) (2023-01-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/jellyfin to v10.8.9
+  
+  
+
+
 ## [jellyfin-13.0.9](https://github.com/truecharts/charts/compare/jellyfin-13.0.8...jellyfin-13.0.9) (2022-12-27)
 
 ### Chore
