@@ -379,6 +379,7 @@ The intro needs improvement ;)
 |n8n                       |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |nano-wallet               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |navidrome                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|navidrome                 |music                 |PVC      |-              |/music                                               |Read/Write|Enabled                |
 |netdata                   |config                |PVC      |-              |/etc/netdata                                         |Read/Write|Enabled                |
 |netdata                   |lib                   |PVC      |-              |/var/lib/netdata                                     |Read/Write|Enabled                |
 |netdata                   |cache                 |PVC      |-              |/var/cache/netdata                                   |Read/Write|Enabled                |
@@ -1230,9 +1231,7 @@ The intro needs improvement ;)
 |shadowsocks                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |shapeshifter-obfuscator        |config                     |PVC      |-                |/state                                           |Read/Write|Enabled                |
 |sheetable                      |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
-|shoko-server                   |animefolder                |PVC      |-                |/anime                                           |Read/Write|Enabled                |
 |shoko-server                   |appdata                    |PVC      |-                |/home/shoko/.shoko/                              |Read/Write|Enabled                |
-|shoko-server                   |importfolder               |PVC      |-                |/import                                          |Read/Write|Enabled                |
 |shortipy                       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |sia-daemon                     |datadirectory              |PVC      |-                |/sia-data                                        |Read/Write|Enabled                |
 |sinusbot                       |data                       |PVC      |-                |/opt/sinusbot/data                               |Read/Write|Enabled                |
