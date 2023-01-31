@@ -2,6 +2,15 @@
 
 
 
+## [plex-12.0.10](https://github.com/truecharts/charts/compare/plexripper-2.0.10...plex-12.0.10) (2023-01-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.30.2.6563
+  
+  
+
+
 ## [plex-12.0.9](https://github.com/truecharts/charts/compare/plex-meta-manager-2.0.11...plex-12.0.9) (2023-01-15)
 
 ### Chore
