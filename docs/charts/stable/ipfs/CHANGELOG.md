@@ -2,6 +2,15 @@
 
 
 
+## [ipfs-5.0.12](https://github.com/truecharts/charts/compare/ipfs-5.0.11...ipfs-5.0.12) (2023-01-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/ipfs to v0.18.1
+  
+  
+
+
 ## [ipfs-5.0.11](https://github.com/truecharts/charts/compare/ipfs-5.0.10...ipfs-5.0.11) (2022-12-27)
 
 ### Chore
