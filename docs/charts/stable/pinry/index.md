@@ -1,6 +1,6 @@
 # pinry
 
-![Version: 4.0.7](https://img.shields.io/badge/Version-4.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.1.12"](https://img.shields.io/badge/AppVersion-"2.1.12"-informational?style=flat-square)
+![Version: 4.0.8](https://img.shields.io/badge/Version-4.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.1.12"](https://img.shields.io/badge/AppVersion-"2.1.12"-informational?style=flat-square)
 
 The open-source core of Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format.
 
@@ -8,7 +8,7 @@ The open-source core of Pinry, a tiling image board system for people who want t
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

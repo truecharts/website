@@ -2,6 +2,15 @@
 
 
 
+## [strapi-8.0.27](https://github.com/truecharts/charts/compare/strapi-8.0.26...strapi-8.0.27) (2023-02-02)
+
+### Fix
+
+- remove non-link sources ([#6826](https://github.com/truecharts/charts/issues/6826))
+  
+  
+
+
 ## [strapi-8.0.26](https://github.com/truecharts/charts/compare/strapi-8.0.25...strapi-8.0.26) (2023-01-31)
 
 ### Chore

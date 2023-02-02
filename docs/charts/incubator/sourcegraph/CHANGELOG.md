@@ -2,6 +2,15 @@
 
 
 
+## [sourcegraph-2.0.13](https://github.com/truecharts/charts/compare/sourcegraph-2.0.12...sourcegraph-2.0.13) (2023-02-02)
+
+### Fix
+
+- remove non-link sources ([#6826](https://github.com/truecharts/charts/issues/6826))
+  
+  
+
+
 ## [sourcegraph-2.0.12](https://github.com/truecharts/charts/compare/sourcegraph-2.0.11...sourcegraph-2.0.12) (2023-01-31)
 
 ### Chore

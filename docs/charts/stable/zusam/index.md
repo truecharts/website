@@ -1,6 +1,6 @@
 # zusam
 
-![Version: 3.0.7](https://img.shields.io/badge/Version-3.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.5.3"](https://img.shields.io/badge/AppVersion-"0.5.3"-informational?style=flat-square)
+![Version: 3.0.8](https://img.shields.io/badge/Version-3.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.5.3"](https://img.shields.io/badge/AppVersion-"0.5.3"-informational?style=flat-square)
 
 Zusam is a free and open-source way to self-host private forums for groups of friends.
 
@@ -8,7 +8,7 @@ Zusam is a free and open-source way to self-host private forums for groups of fr
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

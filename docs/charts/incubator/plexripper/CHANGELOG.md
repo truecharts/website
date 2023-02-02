@@ -2,6 +2,15 @@
 
 
 
+## [plexripper-2.0.11](https://github.com/truecharts/charts/compare/plexripper-2.0.10...plexripper-2.0.11) (2023-02-02)
+
+### Fix
+
+- remove non-link sources ([#6826](https://github.com/truecharts/charts/issues/6826))
+  
+  
+
+
 ## [plexripper-2.0.10](https://github.com/truecharts/charts/compare/plexripper-2.0.9...plexripper-2.0.10) (2023-01-24)
 
 ### Chore
