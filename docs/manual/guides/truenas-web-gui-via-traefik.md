@@ -1,14 +1,14 @@
 # TrueNAS Web GUI via Traefik
 
-If you followed the instructions in `11 - Exposing Traefik on port 80/443` from the `Quick Start Guides`, your TrueNAS Web GUI will now be served on custom ports (port 81 and 444 in the video guide).
+If you followed the instructions in [Installing Traefik](/charts/enterprise/traefik/how-to/), your TrueNAS Web GUI will now be served on custom ports (port 81 and 444 in the video guide).
 
-If you don't want to access the TrueNAS Web GUI using these custom ports, you can follow the instructions in guide `16 - Setting up External-Services` to access the TrueNAS Web GUI via Traefik on port 443.
+If you don't want to access the TrueNAS Web GUI using these custom ports, you can follow the instructions in guide [Setting up External-Services](/manual/guides/external-services/) to access the TrueNAS Web GUI via Traefik on port 443.
 
 When setting up the `External Service`:
 
 - Set `External Service IP` to the ip address of your TrueNAS server
 - Set `Port Type` to `HTTPS`
-- Set `Service Port` to the same value as `Web Interface HTTPS Port` in the TrueNAS GUI Settings (`444` if you followed guide 11)
+- Set `Service Port` to the same value as `Web Interface HTTPS Port` in the TrueNAS GUI Settings (`444` if you followed [Installing Traefik](/charts/enterprise/traefik/how-to/))
 - Setup Ingress according to guide 12 (set the `Host` and `HostName` values to e.g. truenas.example.com)
 
 Now Traefik will serve the TrueNAS Web GUI over HTTPS on truenas.example.com. Ensure your DNS points truenas.example.com to the ip address of your TrueNAS server.

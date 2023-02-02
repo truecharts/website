@@ -9,9 +9,9 @@ This ensures upgrading the App always gives you the Latest-and-Greatest from Tru
 ## Requirements
 
 - Make sure your storage-pool is created and working
-- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to quick-start guide `01 - First time Apps setup`
+- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Adding TrueCharts to SCALE](/manual/guides/Adding-TrueCharts/)
 - Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
-- Make sure you already added the TrueCharts catalog from guide 02
+- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/manual/guides/Adding-TrueCharts/)
 - Make sure your App is installed and, preferably, working
 
 ## Upgrading
