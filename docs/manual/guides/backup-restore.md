@@ -54,7 +54,7 @@ Please setup your ZFS replication in accordance with the TrueNAS Documentation, 
 :::
 
 The above only creates only a backup of the kubernetes objects and a snapshot of the `PVC` and `ix_volume` storage.
-These backups are saved under the same ix_applications dataset.
+These backups are saved under the same ix-applications dataset.
 
 It does not protect these against, for example, deletion of datasets or save them on an external system.
 
