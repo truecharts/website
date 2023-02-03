@@ -2,6 +2,15 @@
 
 
 
+## [guide2go-2.0.9](https://github.com/truecharts/charts/compare/guide2go-2.0.8...guide2go-2.0.9) (2023-02-03)
+
+### Chore
+
+- update container image tccr.io/truecharts/guide2go to latest
+  
+  
+
+
 ## [guide2go-2.0.8](https://github.com/truecharts/charts/compare/guide2go-2.0.7...guide2go-2.0.8) (2023-02-03)
 
 ### Fix
