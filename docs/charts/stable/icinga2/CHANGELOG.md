@@ -2,6 +2,15 @@
 
 
 
+## [icinga2-6.0.19](https://github.com/truecharts/charts/compare/icinga2-6.0.18...icinga2-6.0.19) (2023-02-03)
+
+### Fix
+
+-  clean more non-link sources ([#6925](https://github.com/truecharts/charts/issues/6925))
+  
+  
+
+
 ## [icinga2-6.0.18](https://github.com/truecharts/charts/compare/icinga2-6.0.17...icinga2-6.0.18) (2023-01-30)
 
 ### Chore

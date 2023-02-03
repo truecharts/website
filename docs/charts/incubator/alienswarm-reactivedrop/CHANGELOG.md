@@ -2,6 +2,15 @@
 
 
 
+## [alienswarm-reactivedrop-2.0.8](https://github.com/truecharts/charts/compare/alienswarm-reactivedrop-2.0.7...alienswarm-reactivedrop-2.0.8) (2023-02-03)
+
+### Fix
+
+-  clean more non-link sources ([#6925](https://github.com/truecharts/charts/issues/6925))
+  
+  
+
+
 ## [alienswarm-reactivedrop-2.0.7](https://github.com/truecharts/charts/compare/alienswarm-reactivedrop-2.0.6...alienswarm-reactivedrop-2.0.7) (2022-12-27)
 
 ### Chore

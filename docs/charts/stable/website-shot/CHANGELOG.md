@@ -2,6 +2,15 @@
 
 
 
+## [website-shot-4.0.10](https://github.com/truecharts/charts/compare/website-shot-4.0.9...website-shot-4.0.10) (2023-02-03)
+
+### Fix
+
+-  clean more non-link sources ([#6925](https://github.com/truecharts/charts/issues/6925))
+  
+  
+
+
 ## [website-shot-4.0.9](https://github.com/truecharts/charts/compare/website-shot-4.0.8...website-shot-4.0.9) (2022-12-27)
 
 ### Chore
