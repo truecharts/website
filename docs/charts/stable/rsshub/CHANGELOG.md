@@ -2,6 +2,15 @@
 
 
 
+## [rsshub-6.0.31](https://github.com/truecharts/charts/compare/rsshub-6.0.30...rsshub-6.0.31) (2023-02-03)
+
+### Chore
+
+- update container image tccr.io/truecharts/rsshub to latest
+  
+  
+
+
 ## [rsshub-6.0.30](https://github.com/truecharts/charts/compare/rsshub-6.0.29...rsshub-6.0.30) (2023-02-02)
 
 ### Fix
