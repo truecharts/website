@@ -1,6 +1,6 @@
 # collabora-online
 
-![Version: 14.0.15](https://img.shields.io/badge/Version-14.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "22.05.9.3"](https://img.shields.io/badge/AppVersion-"22.05.9.3"-informational?style=flat-square)
+![Version: 14.0.16](https://img.shields.io/badge/Version-14.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "22.05.10.1"](https://img.shields.io/badge/AppVersion-"22.05.10.1"-informational?style=flat-square)
 
 An awesome Online Office suite.
 
