@@ -2,6 +2,15 @@
 
 
 
+## [invidious-2.0.6](https://github.com/truecharts/charts/compare/invidious-2.0.5...invidious-2.0.6) (2023-02-03)
+
+### Chore
+
+- update container image tccr.io/truecharts/invidious to latest
+  
+  
+
+
 ## [invidious-2.0.5](https://github.com/truecharts/charts/compare/invidious-2.0.4...invidious-2.0.5) (2023-01-24)
 
 ### Chore
