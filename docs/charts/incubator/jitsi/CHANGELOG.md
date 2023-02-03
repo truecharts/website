@@ -2,6 +2,15 @@
 
 
 
+## [jitsi-2.0.16](https://github.com/truecharts/charts/compare/jitsi-2.0.15...jitsi-2.0.16) (2023-02-03)
+
+### Chore
+
+- update jitsi to v8252
+  
+  
+
+
 ## [jitsi-2.0.15](https://github.com/truecharts/charts/compare/jitsi-2.0.14...jitsi-2.0.15) (2023-01-18)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [flexget-4.0.20](https://github.com/truecharts/charts/compare/flexget-4.0.19...flexget-4.0.20) (2023-02-03)
+
+### Chore
+
+- update container image tccr.io/truecharts/flexget to 3.5.21
+  
+  
+
+
 ## [flexget-4.0.19](https://github.com/truecharts/charts/compare/flexget-4.0.18...flexget-4.0.19) (2023-02-02)
 
 ### Fix
