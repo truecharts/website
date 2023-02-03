@@ -1126,10 +1126,7 @@ The intro needs improvement ;)
 |plausible                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |plex-meta-manager              |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |plexanisync                    |settings                   |secret   |-                |/plexanisync/settings.ini                        |Read Only |Enabled                |
-|plexripper                     |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|plexripper                     |downloadfolder             |PVC      |-                |/downloads                                       |Read/Write|Enabled                |
-|plexripper                     |moviedestinationfolder     |PVC      |-                |/movies                                          |Read/Write|Enabled                |
-|plexripper                     |tv-showdestinationfolder   |PVC      |-                |/tvshows                                         |Read/Write|Enabled                |
+|plexripper                     |config                     |PVC      |-                |/Config                                          |Read/Write|Enabled                |
 |plextraktsync                  |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
 |plik                           |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |plik                           |plikd-config               |custom   |-                |/home/plik/server/plikd.cfg                      |Read Only |Enabled                |
