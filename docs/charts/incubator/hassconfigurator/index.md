@@ -1,6 +1,6 @@
 # hassconfigurator
 
-![Version: 2.0.8](https://img.shields.io/badge/Version-2.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "x86_64"](https://img.shields.io/badge/AppVersion-"x86_64"-informational?style=flat-square)
+![Version: 2.0.9](https://img.shields.io/badge/Version-2.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "x86_64"](https://img.shields.io/badge/AppVersion-"x86_64"-informational?style=flat-square)
 
 Home Assistant online configurator Chart from https://github.com/danielperna84/hass-configurator
 
@@ -8,7 +8,7 @@ Home Assistant online configurator Chart from https://github.com/danielperna84/h
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

@@ -2,6 +2,11 @@
 
 
 
+## [calibre-web-13.0.14](https://github.com/truecharts/charts/compare/calibre-web-13.0.13...calibre-web-13.0.14) (2023-02-03)
+
+
+
+
 ## [calibre-web-13.0.13](https://github.com/truecharts/charts/compare/calibre-web-13.0.12...calibre-web-13.0.13) (2023-01-12)
 
 ### Chore

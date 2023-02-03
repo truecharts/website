@@ -2,6 +2,11 @@
 
 
 
+## [appsmith-5.0.28](https://github.com/truecharts/charts/compare/appsmith-5.0.27...appsmith-5.0.28) (2023-02-03)
+
+
+
+
 ## [appsmith-5.0.27](https://github.com/truecharts/charts/compare/appsmith-5.0.26...appsmith-5.0.27) (2023-01-31)
 
 ### Chore
