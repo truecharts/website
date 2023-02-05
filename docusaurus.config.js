@@ -95,7 +95,7 @@ const config = {
         title: "TrueCharts",
         logo: {
           alt: "TrueCharts logo",
-          src: "img/hotlink-ok/logo/Logo Export PNG Trans/32.png"
+          src: "img/hotlink-ok/logo/Logo Export PNG Trans/webp/32.webp"
         },
         items: [
           { to: "/news", label: "News", position: "left" },
