@@ -19,6 +19,14 @@ jobs:
       #    swap-size-gb: 10
           
       - uses: actions/checkout@v3
+
+      - name: Checkout
+        uses: actions/checkout@93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8 # tag=v3
+        with:
+          path: build
+          fetch-depth: 1
+          token: ${{ secrets.BOT_TOKEN }}
+          ref: gh-pages
       
       - uses: actions/setup-node@v3
         with:
@@ -35,24 +43,17 @@ jobs:
         
       - uses: borales/actions-yarn@v3.0.0
         with:
-          cmd: build --no-minify
+          cmd: build
         env: 
           NODE_OPTIONS: "--max-old-space-size=10000"
           DOCUSAURUS_SSR_CONCURRENCY: 3
           SKIP_HTML_MINIFICATION: false
 
-      # Popular action to deploy to GitHub Pages:
-      # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Create commit
+        uses: stefanzweifel/git-auto-commit-action@49620cd3ed21ee620a48530e81dba0d139c9cb80 # tag=v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Build output to publish to the `gh-pages` branch:
-          publish_dir: ./build
-          # The following lines assign commit authorship to the official
-          # GH-Actions bot for deploys to `gh-pages` branch:
-          # https://github.com/actions/checkout/issues/13#issuecomment-724415212
-          # The GH actions bot is used by default if you didn't specify the two fields.
-          # You can swap them out with your own user credentials.
-          user_name: truecharts-bot
-          user_email: bot@truecharts.org
+          commit_message: "chore: update docs"
+          commit_user_name: truecharts-bot
+          commit_user_email: bot@truecharts.org
+          commit_author: truecharts-bot <bot@truecharts.org>
+          repository: ./build
