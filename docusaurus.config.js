@@ -56,7 +56,18 @@ const config = {
     ]
   ],
   // https://gabrielcsapo.github.io/docusaurus-plugin-image-zoom/docs/getting-started/
-  plugins: [require.resolve("docusaurus-plugin-image-zoom"), require.resolve("docusaurus-plugin-google-adsense")],
+  plugins: [
+    require.resolve("docusaurus-plugin-image-zoom"), 
+    require.resolve("docusaurus-plugin-google-adsense"),
+    ['@docusaurus/plugin-ideal-image',
+    {
+      quality: 60,
+      max: 1030, // max resized image's size.
+      min: 640, // min resized image's size. if original is lower, use that size.
+      steps: 5, // the max number of images generated between min and max (inclusive)
+      disableInDev: false,
+    }],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
