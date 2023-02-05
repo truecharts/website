@@ -2,6 +2,15 @@
 
 
 
+## [meshcentral-9.0.29](https://github.com/truecharts/charts/compare/meshcentral-9.0.28...meshcentral-9.0.29) (2023-02-05)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.3
+  
+  
+
+
 ## [meshcentral-9.0.28](https://github.com/truecharts/charts/compare/meshcentral-9.0.27...meshcentral-9.0.28) (2023-01-23)
 
 ### Chore
