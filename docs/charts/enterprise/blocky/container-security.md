@@ -49,19 +49,19 @@
 | bind-libs         |    CVE-2022-2881   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
 | bind-libs         |    CVE-2022-2906   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
 | bind-libs         |    CVE-2022-3080   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
+| bind-libs         |    CVE-2022-3094   |   HIGH  |  9.16.29-r0 | 9.16.37-r0 |
+| bind-libs         |    CVE-2022-3736   |   HIGH  |  9.16.29-r0 | 9.16.37-r0 |
 | bind-libs         |    CVE-2022-38177   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
 | bind-libs         |    CVE-2022-38178   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
-| bind-libs         |    CVE-2022-3094   |   MEDIUM  |  9.16.29-r0 | 9.16.37-r0 |
-| bind-libs         |    CVE-2022-3736   |   MEDIUM  |  9.16.29-r0 | 9.16.37-r0 |
 | bind-libs         |    CVE-2022-3924   |   MEDIUM  |  9.16.29-r0 | 9.16.37-r0 |
 | bind-tools         |    CVE-2022-2795   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
 | bind-tools         |    CVE-2022-2881   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
 | bind-tools         |    CVE-2022-2906   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
 | bind-tools         |    CVE-2022-3080   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
+| bind-tools         |    CVE-2022-3094   |   HIGH  |  9.16.29-r0 | 9.16.37-r0 |
+| bind-tools         |    CVE-2022-3736   |   HIGH  |  9.16.29-r0 | 9.16.37-r0 |
 | bind-tools         |    CVE-2022-38177   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
 | bind-tools         |    CVE-2022-38178   |   HIGH  |  9.16.29-r0 | 9.16.33-r0 |
-| bind-tools         |    CVE-2022-3094   |   MEDIUM  |  9.16.29-r0 | 9.16.37-r0 |
-| bind-tools         |    CVE-2022-3736   |   MEDIUM  |  9.16.29-r0 | 9.16.37-r0 |
 | bind-tools         |    CVE-2022-3924   |   MEDIUM  |  9.16.29-r0 | 9.16.37-r0 |
 | busybox         |    CVE-2022-30065   |   HIGH  |  1.35.0-r13 | 1.35.0-r15 |
 | krb5-libs         |    CVE-2022-42898   |   HIGH  |  1.19.3-r0 | 1.19.4-r0 |
@@ -157,6 +157,7 @@
 | login         |    CVE-2007-5686   |   LOW  |  1:4.8.1-1 |  |
 | login         |    CVE-2013-4235   |   LOW  |  1:4.8.1-1 |  |
 | login         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |
+| login         |    CVE-2023-0634   |   UNKNOWN  |  1:4.8.1-1 |  |
 | mount         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | ncurses-base         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
 | openssl         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
@@ -165,6 +166,7 @@
 | passwd         |    CVE-2007-5686   |   LOW  |  1:4.8.1-1 |  |
 | passwd         |    CVE-2013-4235   |   LOW  |  1:4.8.1-1 |  |
 | passwd         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |
+| passwd         |    CVE-2023-0634   |   UNKNOWN  |  1:4.8.1-1 |  |
 | perl-base         |    CVE-2020-16156   |   HIGH  |  5.32.1-4+deb11u2 |  |
 | perl-base         |    CVE-2011-4116   |   LOW  |  5.32.1-4+deb11u2 |  |
 | tar         |    CVE-2005-2541   |   LOW  |  1.34+dfsg-1 |  |
