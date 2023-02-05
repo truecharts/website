@@ -36,7 +36,7 @@ function HomepageHeader() {
         <br></br>
         <div className={styles.buttons}>
           <Link to="https://www.patreon.com/edit/about">
-            <img src="./img/become_a_patron_button.png" alt="Become A Patron" style="border-radius: var(--ifm-button-border-radius)">
+            <img src="./img/become_a_patron_button.png" alt="Become A Patron" style="border-radius: var(--ifm-button-border-radius)" />
           </Link>
           <Link className="button button--secondary button--lg" to="/sponsor">
             Sponsor TrueCharts
