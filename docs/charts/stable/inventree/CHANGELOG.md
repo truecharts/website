@@ -2,6 +2,15 @@
 
 
 
+## [inventree-7.0.29](https://github.com/truecharts/charts/compare/inventree-7.0.28...inventree-7.0.29) (2023-02-06)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to 1.23.3
+  
+  
+
+
 ## [inventree-7.0.28](https://github.com/truecharts/charts/compare/inventree-7.0.27...inventree-7.0.28) (2023-02-02)
 
 ### Fix
