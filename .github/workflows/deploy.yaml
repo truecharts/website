@@ -52,7 +52,7 @@ jobs:
         continue-on-error: true
         run: npm list
           
-      - uses: borales/actions-yarn@v3.0.0
+      - uses: borales/actions-yarn@v4.2.0
         with:
           cmd: install --frozen-lockfile
         env:
@@ -61,7 +61,7 @@ jobs:
           SKIP_HTML_MINIFICATION: false
           
         
-      - uses: borales/actions-yarn@v3.0.0
+      - uses: borales/actions-yarn@v4.2.0
         with:
           cmd: build
         env: 
