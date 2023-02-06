@@ -2,6 +2,15 @@
 
 
 
+## [recipes-11.0.27](https://github.com/truecharts/charts/compare/recipes-11.0.26...recipes-11.0.27) (2023-02-06)
+
+### Chore
+
+- update container image tccr.io/truecharts/recipes to v1.4.6
+  
+  
+
+
 ## [recipes-11.0.26](https://github.com/truecharts/charts/compare/recipes-11.0.25...recipes-11.0.26) (2023-01-24)
 
 ### Chore
