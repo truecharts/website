@@ -28,3 +28,7 @@
   --ifm-color-primary-lightest: #90d1ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.chartscat > docSidebarMenu {
+  display: none;
+}
