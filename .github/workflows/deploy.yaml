@@ -1,16 +1,19 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy
 
 concurrency:
-  group: deploy-docs
+  group: ${{ github.workflow }}-${{ github.ref }}
 on:
-  #push:
-  #  branches:
-  #    - main
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
   deploy:
-    name: Deploy to GitHub Pages
+    name: Build & Deploy
     runs-on: ubuntu-latest
     steps:
       - name: Set Swap Space
@@ -51,7 +54,6 @@ jobs:
           NODE_OPTIONS: "--max-old-space-size=1500"
           DOCUSAURUS_SSR_CONCURRENCY: 3
           SKIP_HTML_MINIFICATION: false
-          
         
       - uses: borales/actions-yarn@v4.2.0
         with:
