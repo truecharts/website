@@ -71,6 +71,7 @@ jobs:
 
       - name: Create commit
         uses: stefanzweifel/git-auto-commit-action@3ea6ae190baf489ba007f7c92608f33ce20ef04a # tag=v4
+        if: github.event_name != 'pull_request'
         with:
           commit_message: "chore: update docs"
           commit_user_name: truecharts-bot
