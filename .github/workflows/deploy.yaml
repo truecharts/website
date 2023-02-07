@@ -51,7 +51,7 @@ jobs:
         with:
           cmd: install --frozen-lockfile
         env:
-          NODE_OPTIONS: "--max-old-space-size=1500"
+          NODE_OPTIONS: "--max-old-space-size=15000"
           DOCUSAURUS_SSR_CONCURRENCY: 3
           SKIP_HTML_MINIFICATION: false
         
@@ -59,7 +59,7 @@ jobs:
         with:
           cmd: build
         env: 
-          NODE_OPTIONS: "--max-old-space-size=1500"
+          NODE_OPTIONS: "--max-old-space-size=15000"
           DOCUSAURUS_SSR_CONCURRENCY: 3
           SKIP_HTML_MINIFICATION: false
 
