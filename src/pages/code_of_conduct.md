@@ -2,10 +2,9 @@
 
 ## Our Pledge
 
-In the interest of fostering a open and productive environment, we as
+In the interest of fostering a productive environment, we as
 contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender, level of experience,
+our community a productive and discrimination-free experience for everyone, regardless of age, disability, ethnicity, sex characteristics, gender,
 education, socio-economic status, nationality, personal appearance, race,
 religion, or sexual identity and orientation.
 
