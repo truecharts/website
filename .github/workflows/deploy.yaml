@@ -19,14 +19,6 @@ jobs:
           swap-size-gb: 10
           
       - uses: actions/checkout@v3
-
-      - name: Checkout
-        uses: actions/checkout@ac593985615ec2ede58e132d2e21d2b1cbd6127c # tag=v3
-        with:
-          path: build
-          fetch-depth: 1
-          token: ${{ secrets.BOT_TOKEN }}
-          ref: gh-pages
       
       - uses: actions/setup-node@v3
         with:
