@@ -160,15 +160,15 @@ const config = {
             items: [
               {
                 label: "Code of Conduct",
-                href: "https://github.com/codeofconduct"
+                href: "/code_of_conduct"
               },
               {
                 label: "License",
-                href: "https://github.com/LICENSE"
+                href: "/LICENSE"
               },
               {
                 label: "Apach2-license",
-                href: "https://github.com/Apach2-license"
+                href: "/Apach2-license"
               }
             ]
           }
