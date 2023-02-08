@@ -15,10 +15,16 @@
 **alpine**
 
       
-| No Vulnerabilities found         |
-|:---------------------------------|
-
-      
+| Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
+|:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
+| libcrypto1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1q-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1q-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1q-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1q-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1q-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1q-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1q-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1q-r0 | 1.1.1t-r0 |
 
 **gobinary**
 
