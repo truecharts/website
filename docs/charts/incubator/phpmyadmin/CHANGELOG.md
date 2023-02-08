@@ -2,6 +2,15 @@
 
 
 
+## [phpmyadmin-2.0.9](https://github.com/truecharts/charts/compare/phpmyadmin-2.0.8...phpmyadmin-2.0.9) (2023-02-08)
+
+### Chore
+
+- update container image tccr.io/truecharts/phpmyadmin to latest
+  
+  
+
+
 ## [phpmyadmin-2.0.8](https://github.com/truecharts/charts/compare/phpmyadmin-2.0.7...phpmyadmin-2.0.8) (2023-02-02)
 
 ### Fix
