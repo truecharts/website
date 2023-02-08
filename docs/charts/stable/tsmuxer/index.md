@@ -1,6 +1,6 @@
 # tsmuxer
 
-![Version: 3.0.11](https://img.shields.io/badge/Version-3.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "23.02.1"](https://img.shields.io/badge/AppVersion-"23.02.1"-informational?style=flat-square)
+![Version: 3.0.12](https://img.shields.io/badge/Version-3.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "23.02.2"](https://img.shields.io/badge/AppVersion-"23.02.2"-informational?style=flat-square)
 
 tsMuxer is a Transport Stream muxer.
 
