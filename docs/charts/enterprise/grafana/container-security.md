@@ -2,14 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/grafana:9.3.2@sha256:631cb131d086967d38a8b67457fc480997a5d9d376a59050403f42cac900d1c4
+          tccr.io/truecharts/grafana:9.3.6@sha256:28fc41d551307fa1d2e6295df4f487846156c30d0801e4cd6076e1c728621451
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/grafana:9.3.2@sha256:631cb131d086967d38a8b67457fc480997a5d9d376a59050403f42cac900d1c4**
+**Container: tccr.io/truecharts/grafana:9.3.6@sha256:28fc41d551307fa1d2e6295df4f487846156c30d0801e4cd6076e1c728621451**
 
-#### Container: tccr.io/truecharts/grafana:9.3.2@sha256:631cb131d086967d38a8b67457fc480997a5d9d376a59050403f42cac900d1c4 (debian 11.6)
+#### Container: tccr.io/truecharts/grafana:9.3.6@sha256:28fc41d551307fa1d2e6295df4f487846156c30d0801e4cd6076e1c728621451 (debian 11.6)
     
 
 **debian**
@@ -22,12 +22,10 @@
 | bsdutils         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | coreutils         |    CVE-2016-2781   |   LOW  |  8.32-4 |  |
 | coreutils         |    CVE-2017-18018   |   LOW  |  8.32-4 |  |
-| curl         |    CVE-2022-32221   |   CRITICAL  |  7.74.0-1.3+deb11u3 | 7.74.0-1.3+deb11u5 |
-| curl         |    CVE-2022-42916   |   HIGH  |  7.74.0-1.3+deb11u3 |  |
-| curl         |    CVE-2022-43551   |   HIGH  |  7.74.0-1.3+deb11u3 |  |
-| curl         |    CVE-2022-43552   |   MEDIUM  |  7.74.0-1.3+deb11u3 | 7.74.0-1.3+deb11u5 |
-| curl         |    CVE-2021-22922   |   LOW  |  7.74.0-1.3+deb11u3 |  |
-| curl         |    CVE-2021-22923   |   LOW  |  7.74.0-1.3+deb11u3 |  |
+| curl         |    CVE-2022-42916   |   HIGH  |  7.74.0-1.3+deb11u5 |  |
+| curl         |    CVE-2022-43551   |   HIGH  |  7.74.0-1.3+deb11u5 |  |
+| curl         |    CVE-2021-22922   |   LOW  |  7.74.0-1.3+deb11u5 |  |
+| curl         |    CVE-2021-22923   |   LOW  |  7.74.0-1.3+deb11u5 |  |
 | libapt-pkg6.0         |    CVE-2011-3374   |   LOW  |  2.2.4 |  |
 | libblkid1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | libc-bin         |    CVE-2010-4756   |   LOW  |  2.31-13+deb11u5 |  |
@@ -45,12 +43,10 @@
 | libc6         |    CVE-2019-1010025   |   LOW  |  2.31-13+deb11u5 |  |
 | libc6         |    CVE-2019-9192   |   LOW  |  2.31-13+deb11u5 |  |
 | libcom-err2         |    CVE-2022-1304   |   HIGH  |  1.46.2-2 |  |
-| libcurl4         |    CVE-2022-32221   |   CRITICAL  |  7.74.0-1.3+deb11u3 | 7.74.0-1.3+deb11u5 |
-| libcurl4         |    CVE-2022-42916   |   HIGH  |  7.74.0-1.3+deb11u3 |  |
-| libcurl4         |    CVE-2022-43551   |   HIGH  |  7.74.0-1.3+deb11u3 |  |
-| libcurl4         |    CVE-2022-43552   |   MEDIUM  |  7.74.0-1.3+deb11u3 | 7.74.0-1.3+deb11u5 |
-| libcurl4         |    CVE-2021-22922   |   LOW  |  7.74.0-1.3+deb11u3 |  |
-| libcurl4         |    CVE-2021-22923   |   LOW  |  7.74.0-1.3+deb11u3 |  |
+| libcurl4         |    CVE-2022-42916   |   HIGH  |  7.74.0-1.3+deb11u5 |  |
+| libcurl4         |    CVE-2022-43551   |   HIGH  |  7.74.0-1.3+deb11u5 |  |
+| libcurl4         |    CVE-2021-22922   |   LOW  |  7.74.0-1.3+deb11u5 |  |
+| libcurl4         |    CVE-2021-22923   |   LOW  |  7.74.0-1.3+deb11u5 |  |
 | libdb5.3         |    CVE-2019-8457   |   CRITICAL  |  5.3.28+dfsg1-0.8 |  |
 | libexpat1         |    CVE-2013-0340   |   LOW  |  2.2.10-2+deb11u5 |  |
 | libfreetype6         |    CVE-2022-31782   |   LOW  |  2.10.4+dfsg-1+deb11u1 |  |
@@ -84,13 +80,8 @@
 | libsepol1         |    CVE-2021-36086   |   LOW  |  3.1-1 |  |
 | libsepol1         |    CVE-2021-36087   |   LOW  |  3.1-1 |  |
 | libsmartcols1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
-| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
+| libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u4 |  |
+| libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u4 |  |
 | libsystemd0         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2022-4415   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2013-4392   |   LOW  |  247.3-7+deb11u1 |  |
@@ -107,13 +98,8 @@
 | login         |    CVE-2023-0634   |   LOW  |  1:4.8.1-1 |  |
 | mount         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | ncurses-base         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
-| openssl         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
+| openssl         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u4 |  |
+| openssl         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u4 |  |
 | passwd         |    CVE-2007-5686   |   LOW  |  1:4.8.1-1 |  |
 | passwd         |    CVE-2013-4235   |   LOW  |  1:4.8.1-1 |  |
 | passwd         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |

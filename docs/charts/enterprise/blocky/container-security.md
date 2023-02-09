@@ -157,11 +157,11 @@
 | libsepol1         |    CVE-2021-36086   |   LOW  |  3.1-1 |  |
 | libsepol1         |    CVE-2021-36087   |   LOW  |  3.1-1 |  |
 | libsmartcols1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
-| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
+| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
 | libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
 | libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
 | libsystemd0         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
@@ -180,11 +180,11 @@
 | login         |    CVE-2023-0634   |   LOW  |  1:4.8.1-1 |  |
 | mount         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | ncurses-base         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
-| openssl         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 |  |
+| openssl         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| openssl         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| openssl         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| openssl         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| openssl         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
 | openssl         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
 | openssl         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
 | passwd         |    CVE-2007-5686   |   LOW  |  1:4.8.1-1 |  |
