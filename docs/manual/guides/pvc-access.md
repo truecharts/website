@@ -20,11 +20,6 @@ If you plan on mounting PVC storage more than just a couple of times this may be
 2. Safely shut down your application before mounting
 3. Mount your PVC to /mnt/temporary/STORAGE-NAME
 
-The video will start at the mounting feature so you can see what it looks like.
-
-Afterwards, if you wish to install it, follow the video guide starting at 15:52.
-
-[![Heavy_Script](/img/pvc_access/video_thumbnail.jpg)](https://youtu.be/uZp4x_Susgo?t=616 "Heavy_Script")
 
 ### Manual Method - New User Guide
 
