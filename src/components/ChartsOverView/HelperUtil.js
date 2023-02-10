@@ -7,9 +7,9 @@
   }
   
   export const ViewOptions = [
-    { name: 'Table', value: 0, img: '/img/table.png' },
-    { name: 'Grid', value: 1, img: '/img/grid.png' },
-    { name: 'List', value: 2, img: '/img/list.png' }
+    { name: 'Table', value: 0 },
+    { name: 'Grid', value: 1 },
+    { name: 'List', value: 2 }
   ];
   export const TRAINS = [
     { name: 'stable', emoji: '✅' },
