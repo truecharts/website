@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "../css/grid.css";
+import "../../css/grid.css";
 
 const GridItem = ({chart,onClick}) => {
 

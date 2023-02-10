@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import '../css/searchbar.css';
+import '../../css/searchbar.css';
 import HelperUtil,{ViewOptions,TRAINS,countArrayLength} from './HelperUtil.js';
 import SearchBar from './SearchBar.js';
 import GridView from './GridView.js';
