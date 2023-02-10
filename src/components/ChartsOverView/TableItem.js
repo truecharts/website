@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "../css/table.css";
+import "../../css/table.css";
 
 const TableItem = ({chart}) => {
 
