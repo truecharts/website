@@ -2,6 +2,15 @@
 
 
 
+## [zerotier-4.0.9](https://github.com/truecharts/charts/compare/zerotier-4.0.8...zerotier-4.0.9) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [zerotier-4.0.8](https://github.com/truecharts/charts/compare/zerotier-4.0.7...zerotier-4.0.8) (2022-12-27)
 
 ### Chore

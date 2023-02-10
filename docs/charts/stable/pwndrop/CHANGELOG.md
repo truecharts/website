@@ -2,6 +2,15 @@
 
 
 
+## [pwndrop-4.0.10](https://github.com/truecharts/charts/compare/pwndrop-4.0.9...pwndrop-4.0.10) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [pwndrop-4.0.9](https://github.com/truecharts/charts/compare/pwndrop-4.0.8...pwndrop-4.0.9) (2022-12-31)
 
 ### Chore

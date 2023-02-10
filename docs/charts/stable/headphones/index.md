@@ -1,6 +1,6 @@
 # headphones
 
-![Version: 6.0.7](https://img.shields.io/badge/Version-6.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "58edc604"](https://img.shields.io/badge/AppVersion-"58edc604"-informational?style=flat-square)
+![Version: 6.0.8](https://img.shields.io/badge/Version-6.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "58edc604"](https://img.shields.io/badge/AppVersion-"58edc604"-informational?style=flat-square)
 
 An automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent and Blackhole.
 
@@ -8,7 +8,7 @@ An automated music downloader for NZB and Torrent, written in Python. It support
 
 - [**Changelog**](CHANGELOG)
 
-- [**Container Security**](container-security)
+- [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

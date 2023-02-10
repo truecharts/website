@@ -2,6 +2,15 @@
 
 
 
+## [blocky-4.0.21](https://github.com/truecharts/charts/compare/blocky-4.0.20...blocky-4.0.21) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [blocky-4.0.20](https://github.com/truecharts/charts/compare/blocky-4.0.19...blocky-4.0.20) (2023-02-03)
 
 ### Fix

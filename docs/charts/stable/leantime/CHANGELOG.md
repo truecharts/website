@@ -2,6 +2,15 @@
 
 
 
+## [leantime-7.0.24](https://github.com/truecharts/charts/compare/leantime-7.0.23...leantime-7.0.24) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [leantime-7.0.23](https://github.com/truecharts/charts/compare/leantime-7.0.22...leantime-7.0.23) (2023-02-02)
 
 ### Fix

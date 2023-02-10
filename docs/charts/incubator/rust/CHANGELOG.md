@@ -2,6 +2,15 @@
 
 
 
+## [rust-2.0.9](https://github.com/truecharts/charts/compare/rust-2.0.8...rust-2.0.9) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [rust-2.0.8](https://github.com/truecharts/charts/compare/rustpad-2.0.9...rust-2.0.8) (2023-02-06)
 
 ### Chore

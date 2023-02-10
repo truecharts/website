@@ -2,6 +2,15 @@
 
 
 
+## [webgrabplus-4.0.11](https://github.com/truecharts/charts/compare/webgrabplus-4.0.10...webgrabplus-4.0.11) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [webgrabplus-4.0.10](https://github.com/truecharts/charts/compare/webgrabplus-4.0.9...webgrabplus-4.0.10) (2022-12-30)
 
 ### Chore

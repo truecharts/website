@@ -2,6 +2,15 @@
 
 
 
+## [emulatorjs-4.0.11](https://github.com/truecharts/charts/compare/emulatorjs-4.0.10...emulatorjs-4.0.11) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [emulatorjs-4.0.10](https://github.com/truecharts/charts/compare/emulatorjs-4.0.9...emulatorjs-4.0.10) (2022-12-31)
 
 ### Chore

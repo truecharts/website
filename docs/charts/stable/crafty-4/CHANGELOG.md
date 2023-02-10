@@ -2,6 +2,15 @@
 
 
 
+## [crafty-4-2.1.11](https://github.com/truecharts/charts/compare/crafty-4-2.1.10...crafty-4-2.1.11) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [crafty-4-2.1.10](https://github.com/truecharts/charts/compare/crafty-4-2.1.9...crafty-4-2.1.10) (2023-01-31)
 
 ### Chore

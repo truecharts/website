@@ -2,6 +2,15 @@
 
 
 
+## [radarr-13.0.14](https://github.com/truecharts/charts/compare/radarr-13.0.13...radarr-13.0.14) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [radarr-13.0.13](https://github.com/truecharts/charts/compare/radarrsync-2.0.8...radarr-13.0.13) (2023-02-07)
 
 ### Chore

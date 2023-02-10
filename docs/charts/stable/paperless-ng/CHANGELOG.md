@@ -2,6 +2,15 @@
 
 
 
+## [paperless-ng-7.0.29](https://github.com/truecharts/charts/compare/paperless-ng-7.0.28...paperless-ng-7.0.29) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [paperless-ng-7.0.28](https://github.com/truecharts/charts/compare/paperless-ng-7.0.27...paperless-ng-7.0.28) (2023-01-31)
 
 ### Chore

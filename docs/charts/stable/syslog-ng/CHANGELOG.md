@@ -2,6 +2,15 @@
 
 
 
+## [syslog-ng-4.0.10](https://github.com/truecharts/charts/compare/syslog-ng-4.0.9...syslog-ng-4.0.10) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [syslog-ng-4.0.9](https://github.com/truecharts/charts/compare/syslog-ng-4.0.8...syslog-ng-4.0.9) (2023-02-03)
 
 

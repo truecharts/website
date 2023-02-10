@@ -2,6 +2,15 @@
 
 
 
+## [znc-4.0.10](https://github.com/truecharts/charts/compare/znc-4.0.9...znc-4.0.10) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [znc-4.0.9](https://github.com/truecharts/charts/compare/znc-4.0.8...znc-4.0.9) (2023-01-04)
 
 ### Chore

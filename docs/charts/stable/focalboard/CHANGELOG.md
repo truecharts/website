@@ -2,6 +2,15 @@
 
 
 
+## [focalboard-12.0.24](https://github.com/truecharts/charts/compare/focalboard-12.0.23...focalboard-12.0.24) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [focalboard-12.0.23](https://github.com/truecharts/charts/compare/focalboard-12.0.22...focalboard-12.0.23) (2023-02-05)
 
 ### Chore

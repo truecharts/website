@@ -2,6 +2,15 @@
 
 
 
+## [searx-2.0.11](https://github.com/truecharts/charts/compare/searxng-2.0.19...searx-2.0.11) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [searx-2.0.10](https://github.com/truecharts/charts/compare/searxng-2.0.18...searx-2.0.10) (2023-02-03)
 
 ### Chore

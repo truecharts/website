@@ -2,6 +2,15 @@
 
 
 
+## [meshcentral-9.0.31](https://github.com/truecharts/charts/compare/meshcentral-9.0.30...meshcentral-9.0.31) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [meshcentral-9.0.30](https://github.com/truecharts/charts/compare/meshcentral-9.0.29...meshcentral-9.0.30) (2023-02-08)
 
 ### Chore

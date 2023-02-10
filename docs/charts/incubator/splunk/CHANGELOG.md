@@ -2,6 +2,15 @@
 
 
 
+## [splunk-3.0.8](https://github.com/truecharts/charts/compare/splunk-3.0.7...splunk-3.0.8) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [splunk-3.0.7](https://github.com/truecharts/charts/compare/splunk-3.0.6...splunk-3.0.7) (2023-02-02)
 
 ### Fix

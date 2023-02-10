@@ -2,6 +2,15 @@
 
 
 
+## [handbrake-15.0.9](https://github.com/truecharts/charts/compare/handbrake-15.0.8...handbrake-15.0.9) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [handbrake-15.0.8](https://github.com/truecharts/charts/compare/handbrake-15.0.7...handbrake-15.0.8) (2023-02-02)
 
 ### Fix

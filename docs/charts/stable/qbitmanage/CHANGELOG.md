@@ -2,6 +2,15 @@
 
 
 
+## [qbitmanage-3.0.11](https://github.com/truecharts/charts/compare/qbitmanage-3.0.10...qbitmanage-3.0.11) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [qbitmanage-3.0.10](https://github.com/truecharts/charts/compare/qbitmanage-3.0.9...qbitmanage-3.0.10) (2022-12-27)
 
 ### Chore

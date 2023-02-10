@@ -2,6 +2,15 @@
 
 
 
+## [webp-server-2.0.14](https://github.com/truecharts/charts/compare/webp-server-2.0.13...webp-server-2.0.14) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [webp-server-2.0.13](https://github.com/truecharts/charts/compare/webp-server-2.0.12...webp-server-2.0.13) (2023-02-03)
 
 ### Chore

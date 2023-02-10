@@ -2,6 +2,15 @@
 
 
 
+## [mosquitto-8.0.9](https://github.com/truecharts/charts/compare/mosquitto-8.0.8...mosquitto-8.0.9) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [mosquitto-8.0.8](https://github.com/truecharts/charts/compare/mosquitto-8.0.7...mosquitto-8.0.8) (2022-12-27)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [double-take-4.0.8](https://github.com/truecharts/charts/compare/double-take-4.0.7...double-take-4.0.8) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [double-take-4.0.7](https://github.com/truecharts/charts/compare/double-take-4.0.6...double-take-4.0.7) (2022-12-27)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [custom-app-7.0.23](https://github.com/truecharts/charts/compare/custom-app-7.0.22...custom-app-7.0.23) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [custom-app-7.0.22](https://github.com/truecharts/charts/compare/custom-app-7.0.21...custom-app-7.0.22) (2022-12-27)
 
 ### Chore

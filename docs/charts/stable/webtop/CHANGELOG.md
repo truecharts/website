@@ -2,6 +2,15 @@
 
 
 
+## [webtop-4.0.9](https://github.com/truecharts/charts/compare/webtop-4.0.8...webtop-4.0.9) (2023-02-10)
+
+### Fix
+
+- ensure new helm deps repo is used in latest releases as well.
+  
+  
+
+
 ## [webtop-4.0.8](https://github.com/truecharts/charts/compare/webtop-4.0.7...webtop-4.0.8) (2023-02-06)
 
 ### Chore
