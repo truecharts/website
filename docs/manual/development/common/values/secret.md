@@ -1,66 +1,50 @@
 # Secret
 
-## key: secret
-
-Info:
-
-- Type: `dict`
-- Default: `{}`
-- Helm Template:
-  - secretType: ❌
-  - content.KEY: ❌
-  - content.KEY.value: ✅
-
-Can be defined in:
-
-- `.Values`.secret
+| Key                              |   Type    | Required |   Helm Template    | Default  | Description                       |
+| :------------------------------- | :-------: | :------: | :----------------: | :------: | :-------------------------------- |
+| secret                           |  `dict`   |    ❌    |         ❌         |   `{}`   | Define the secret as dicts        |
+| secret.[secret-name]             |  `dict`   |    ✅    |         ❌         |   `{}`   | Holds secret definition           |
+| secret.[secret-name].enabled     | `boolean` |    ✅    |         ❌         | `false`  | Enables or Disables the secret    |
+| secret.[secret-name].labels      |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional labels for secret      |
+| secret.[secret-name].annotations |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional annotations for secret |
+| secret.[secret-name].type        | `string`  |    ❌    |         ✅         | `Opaque` | Custom secret type                |
+| secret.[secret-name].data        |  `dict`   |    ✅    |         ✅         |   `{}`   | Define the data of the secret     |
 
 ---
-Creates a secret based on the `content`
 
-Options:
+Appears in:
 
-```yaml
-secret:
-  somename:
-    enabled: true
-    # Optional
-    labels: {}
-    # Optional
-    annotations: {}
-    # Optional
-    nameOverride: ""
-    # Optional - Defaults to Opaque
-    secretType: ""
-    # Tells to common library that this contains environment variables.
-    # So it wil be checked for duplicates among `env`, `envList`, `fixedEnvs`
-    # and other `secrets` / `configmaps` (with parseAsEnv set)
-    # Optional
-    parseAsEnv: true
-    # Key/Value
-    content:
-      key: value
-    # Or yaml scalar
-    content:
-      someKey: |
-        configmap content
-```
+- `.Values.secret`
+
+---
+
+Naming scheme:
+
+- `$FullName-$SecretName` (release-name-chart-name-SecretName)
+
+---
 
 Examples:
 
 ```yaml
 secret:
-  somename:
-    enabled: true
-    content:
-      somekey: value
-      otherkey: othervalue
 
-secret:
-  somename:
+  secret-name:
     enabled: true
-    content:
-      somekey: value
-      nginx.conf: |
-        listen {{ .Values.service.main.ports.main.port }}
+    type: CustomSecretType
+    labels:
+      key: value
+      keytpl: "{{ .Values.some.value }}"
+    annotations:
+      key: value
+      keytpl: "{{ .Values.some.value }}"
+      data:
+        key: value
+
+  other-secret-name:
+    enabled: true
+      data:
+        key: |
+          multi line
+          text value
 ```

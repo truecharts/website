@@ -1,64 +1,48 @@
 # ConfigMap
 
-## key: configmap
-
-Info:
-
-- Type: `dict`
-- Default: `{}`
-- Helm Template:
-  - content.KEY: ❌
-  - content.KEY.value: ✅
-
-Can be defined in:
-
-- `.Values`.configmap
+| Key                                    |   Type    | Required |   Helm Template    | Default | Description                          |
+| :------------------------------------- | :-------: | :------: | :----------------: | :-----: | :----------------------------------- |
+| configmap                              |  `dict`   |    ❌    |         ❌         |  `{}`   | Define the configMaps as dicts       |
+| configmap.[configmap-name]             |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds configMap definition           |
+| configmap.[configmap-name].enabled     | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the configMap    |
+| configmap.[configmap-name].labels      |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for configmap      |
+| configmap.[configmap-name].annotations |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for configmap |
+| configmap.[configmap-name].data        |  `dict`   |    ✅    |         ✅         |  `{}`   | Define the data of the configmap     |
 
 ---
 
-Creates a configmap based on the `content`
+Appears in:
 
-Options:
+- `.Values.configmap`
 
-```yaml
-configmap:
-  somename:
-    enabled: true
-    # Optional
-    labels: {}
-    # Optional
-    annotations: {}
-    # Optional
-    nameOverride: ""
-    # Tells to common library that this contains environment variables.
-    # So it wil be checked for duplicates among `env`, `envList`, `fixedEnvs`
-    # and other `secrets` / `configmaps` (with parseAsEnv set)
-    # Optional
-    parseAsEnv: true
-    # Key/Value
-    content:
-      key: value
-    # Or yaml scalar
-    content:
-      someKey: |
-        configmap content
-```
+---
+
+Naming scheme:
+
+- `$FullName-$ConfigmapName` (release-name-chart-name-configmapName)
+
+---
 
 Examples:
 
 ```yaml
 configmap:
-  somename:
-    enabled: true
-    content:
-      somekey: value
-      otherkey: othervalue
 
-configmap:
-  somename:
+  configmap-name:
     enabled: true
-    content:
-      somekey: value
-      nginx.conf: |
-        listen {{ .Values.service.main.ports.main.port }}
+    labels:
+      key: value
+      keytpl: "{{ .Values.some.value }}"
+    annotations:
+      key: value
+      keytpl: "{{ .Values.some.value }}"
+      data:
+        key: value
+
+  other-configmap-name:
+    enabled: true
+      data:
+        key: |
+          multi line
+          text value
 ```

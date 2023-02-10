@@ -1,87 +1,91 @@
 # RBAC
 
-## Key: rbac
+| Key                                      |   Type    | Required |   Helm Template    | Default | Description                                                               |
+| :--------------------------------------- | :-------: | :------: | :----------------: | :-----: | :------------------------------------------------------------------------ |
+| rbac                                     |  `dict`   |    ❌    |         ❌         |  `{}`   | Define the rbac as dicts                                                  |
+| rbac.[rbac-name]                         |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds rbac definition                                                     |
+| rbac.[rbac-name].enabled                 | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the rbac                                              |
+| rbac.[rbac-name].primary                 | `boolean` |    ❌    |         ❌         | `false` | Sets the rbac as primary                                                  |
+| rbac.[rbac-name].clusterWide             | `boolean` |    ❌    |         ❌         | `false` | Sets the rbac as cluster wide (ClusterRole, ClusterRoleBinding)           |
+| rbac.[rbac-name].labels                  |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for rbac                                                |
+| rbac.[rbac-name].annotations             |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for rbac                                           |
+| rbac.[rbac-name].allServiceAccounts      | `boolean` |    ❌    |         ❌         |         | Whether to assign all service accounts or not to the (Cluster)RoleBinding |
+| rbac.[rbac-name].serviceAccounts         |  `list`   |    ❌    |         ❌         |  `[]`   | Define the service account(s) to assign the (Cluster)RoleBinding          |
+| rbac.[rbac-name].rules                   |  `list`   |    ✅    |         ❌         |  `[]`   | Define the `rules` for the (Cluster)Role                                  |
+| rbac.[rbac-name].rules.apiGroups         |  `list`   |    ✅    |         ❌         |  `[]`   | Define the `apiGroups` list for the `rules` for the (Cluster)Role         |
+| rbac.[rbac-name].rules.apiGroups.[entry] | `string`  |    ✅    |         ✅         |         | Entry of the `apiGroups`                                                  |
+| rbac.[rbac-name].rules.resources         |  `list`   |    ✅    |         ❌         |  `[]`   | Define the `resources` list for the `rules` for the (Cluster)Role         |
+| rbac.[rbac-name].rules.resources.[entry] | `string`  |    ✅    |         ✅         |         | Entry of the `resources`                                                  |
+| rbac.[rbac-name].rules.verbs             |  `list`   |    ✅    |         ❌         |  `[]`   | Define the `verbs` list for the `rules` for the (Cluster)Role             |
+| rbac.[rbac-name].rules.verbs.[entry]     | `string`  |    ✅    |         ✅         |         | Entry of the `verbs`                                                      |
+| rbac.[rbac-name].subjects                |  `list`   |    ❌    |         ❌         |  `[]`   | Define `subjects` for (Cluster)RoleBinding                                |
+| rbac.[rbac-name].subjects.kind           | `string`  |    ✅    |         ✅         |  `""`   | Define the `kind` of `subjects` entry                                     |
+| rbac.[rbac-name].subjects.name           | `string`  |    ✅    |         ✅         |  `""`   | Define the `name` of `subjects` entry                                     |
+| rbac.[rbac-name].subjects.apiGroup       | `string`  |    ✅    |         ✅         |  `""`   | Define the `apiGroup` of `subjects` entry                                 |
 
-Info:
-
-- Type: `dict`
-- Default:
-
-  ```yaml
-  rbac:
-    main:
-      enabled: false
-      primary: true
-      clusterWide: false
-  ```
-
-- Helm Template:
-  - rbac.NAME.labels - keys ❌
-  - rbac.NAME.labels - values ✅
-  - rbac.NAME.annotations - keys ❌
-  - rbac.NAME.annotations - values ✅
-  - rbac.NAME.rules[].apiGroups - entries ✅
-  - rbac.NAME.rules[].resources - entries ✅
-  - rbac.NAME.rules[].verbs - entries ✅
-  - rbac.NAME.subjects[].kind ✅
-  - rbac.NAME.subjects[].name ✅
-  - rbac.NAME.subjects[].apiGroup ✅
-
-Can be defined in:
-
-- `.Values`.rbac
+> When `allServiceAccounts` is `true`, it will assign the all the serviceAccount(s) to the (Cluster)RoleBinding (`serviceAccounts` is ignored in this case)
+> When `serviceAccounts` is a list, each entry is a string, referencing the serviceAccount(s) name that will be assigned to the (Cluster)RoleBinding.
+> When `serviceAccounts` is a empty, it will assign the primary serviceAccount to the primary rbac
 
 ---
 
-For every `rbac.[NAME]` that is enabled it will create a `Role` and a `RoleBinding`
-or a `ClusterRole` and a `ClusterRoleBinding` if `clusterWide` flag is set.
+Appears in:
 
-You can define the rules under the `rules` key, the same way
-you would do in a normal kubernetes object.
-Rules will be pass to the `Role` or `ClusterRole` object.
+- `.Values.rbac`
 
-You can define the subjects under the `subjects` key, the same way
-you would do in a normal kubernetes object.
-Subjects will be pass to the `RoleBinding` or `ClusterRoleBinding` object.
+---
 
-`subjects` key is optional
+Naming scheme:
 
-The following subject is always assigned
+- Primary: `$FullName` (release-name-chart-name)
+- Non-Primary: `$FullName-$RBACName` (release-name-chart-name-RBACName)
 
-```yaml
-- kind: ServiceAccount
-  name: {{ $saName }}
-  namespace: {{ .Release.Namespace }}
-```
-
-`$saName` is calculated based on the `primary` serviceAccount
+---
 
 Examples:
 
 ```yaml
 rbac:
-  main:
+  rbac-name:
     enabled: true
+    primary: true
     clusterWide: true
     labels:
       key: value
+      keytpl: "{{ .Values.some.value }}"
     annotations:
       key: value
+      keytpl: "{{ .Values.some.value }}"
+    allServiceAccounts: true
     rules:
       - apiGroups:
           - ""
         resources:
-          - services
+          - "{{ .Values.some.value }}"
+        verbs:
+          - get
+          - "{{ .Values.some.value }}"
+          - watch
+    subjects:
+      - kind: my-kind
+        name: "{{ .Values.some.value }}"
+        apiGroup: my-api-group
+
+  other-rbac-name:
+    enabled: true
+    serviceAccounts:
+      - service-account-name
+    rules:
+      - apiGroups:
+          - ""
+        resources:
           - pods
         verbs:
           - get
           - list
+          - watch
     subjects:
-      - kind: something
-        name: something
-        apiGroup: something
+      - kind: my-kind
+        name: my-name
+        apiGroup: my-api-group
 ```
-
-Kubernetes Documentation:
-
-- [RBAC](https://kubernetes.io/docs/reference/access-authn-authz/rbac)
