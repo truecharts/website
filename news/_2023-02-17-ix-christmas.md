@@ -1,10 +1,10 @@
 ---
 slug: "ix-christmas"
-title: "Our Christmas with iX-Systems"
+title: "Our Christmas with iXsystems"
 authors: [ornias]
 ---
-At TrueCharts, we are grateful for the support of our partners, especially during the festive season. We were thrilled when iX-Systems reached out to us during the holiday season to show their appreciation for the hard work and dedication of our staff to both the TrueNAS SCALE and TrueCharts projects in 2022.
+At TrueCharts, we are grateful for the support of our partners, especially during the festive season. We were thrilled when iXsystems reached out to us during the holiday season to show their appreciation for the hard work and dedication of our staff to both the TrueNAS SCALE and TrueCharts projects in 2022.
 
 In the past month and a half, packages started to arrive, and they were as amazing as we had expected. Our team was grateful for this extra gesture, which added to the holiday cheer and served as a recognition of the efforts they put into both projects.
 
-We would like to extend our heartfelt thanks to iX-Systems for their generosity and support. We wish them all the best for 2023 and look forward to working on some exciting projects together in the future.
+We would like to extend our heartfelt thanks to iXsystems for their generosity and support. We wish them all the best for 2023 and look forward to working on some exciting projects together in the future.
