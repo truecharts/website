@@ -198,6 +198,9 @@ jobs:
               }
            export -f generate_index_files
           generate_index_files
+          mv -f docs/charts/description_list.md docs/charts/_description_list.md || echo "disabling description list failed"
+          mv -f docs/charts/default_port_list.md docs/charts/_default_port_list.md || echo "disabling ports list failed"
+          mv -f docs/charts/volume_list.md docs/charts/_volume_list.md || echo "disabling volume list failed"
           ls -l /__w/website/website/website/docs/charts/
 
       - name: Create commit
