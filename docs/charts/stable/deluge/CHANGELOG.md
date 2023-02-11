@@ -2,6 +2,33 @@
 
 
 
+## [deluge-13.0.11](https://github.com/truecharts/charts/compare/deluge-13.0.10...deluge-13.0.11) (2023-02-11)
+
+### Fix
+
+- fix tag
+  
+  
+
+
+## [deluge-13.0.10](https://github.com/truecharts/charts/compare/deluge-13.0.9...deluge-13.0.10) (2023-02-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/deluge to v18.04.1
+  
+  
+
+
+## [deluge-13.0.9](https://github.com/truecharts/charts/compare/deluge-13.0.8...deluge-13.0.9) (2023-02-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/deluge to v2.1.1
+  
+  
+
+
 ## [deluge-13.0.8](https://github.com/truecharts/charts/compare/deluge-13.0.7...deluge-13.0.8) (2023-02-10)
 
 ### Fix
