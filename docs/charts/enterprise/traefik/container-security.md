@@ -2,14 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/traefik:2.9.6@sha256:a4f065a7a34902e7d8179680b8c344e70cf90ed80c7a396b5f42ecabfa3c0321
+          tccr.io/truecharts/traefik:2.9.6@sha256:908a3dd69479f9430c0b55a97bbdbebd3055b6c99c7fc222e96a5edf663c9312
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/traefik:2.9.6@sha256:a4f065a7a34902e7d8179680b8c344e70cf90ed80c7a396b5f42ecabfa3c0321**
+**Container: tccr.io/truecharts/traefik:2.9.6@sha256:908a3dd69479f9430c0b55a97bbdbebd3055b6c99c7fc222e96a5edf663c9312**
 
-#### Container: tccr.io/truecharts/traefik:2.9.6@sha256:a4f065a7a34902e7d8179680b8c344e70cf90ed80c7a396b5f42ecabfa3c0321 (alpine 3.15.6)
+#### Container: tccr.io/truecharts/traefik:2.9.6@sha256:908a3dd69479f9430c0b55a97bbdbebd3055b6c99c7fc222e96a5edf663c9312 (alpine 3.15.6)
     
 
 **alpine**
