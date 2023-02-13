@@ -163,7 +163,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/autobrr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/autobrr.png",
-                    "version": "3.0.15"
+                    "version": "3.0.16"
                 },
                 {
                     "name": "automatic-music-downloader",
@@ -1339,7 +1339,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/leantime",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/leantime.png",
-                    "version": "7.0.26"
+                    "version": "7.0.28"
                 },
                 {
                     "name": "libreddit",
@@ -1443,7 +1443,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/makemkv",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/makemkv.png",
-                    "version": "4.0.10"
+                    "version": "4.0.11"
                 },
                 {
                     "name": "matomo",
@@ -1483,7 +1483,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/medusa",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/medusa.png",
-                    "version": "5.0.14"
+                    "version": "5.0.15"
                 },
                 {
                     "name": "meshcentral",
@@ -1835,7 +1835,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/openhab",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/openhab.png",
-                    "version": "4.0.11"
+                    "version": "4.0.12"
                 },
                 {
                     "name": "openkm",
@@ -2027,7 +2027,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pihole",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png",
-                    "version": "8.0.17"
+                    "version": "8.0.18"
                 },
                 {
                     "name": "pinry",
@@ -2203,7 +2203,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/qbittorrent",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png",
-                    "version": "14.0.4"
+                    "version": "14.0.5"
                 },
                 {
                     "name": "qdirstat",
@@ -2219,7 +2219,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/qinglong",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qinglong.png",
-                    "version": "4.0.18"
+                    "version": "4.0.19"
                 },
                 {
                     "name": "quassel-core",
@@ -2275,7 +2275,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/recipes",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/recipes.png",
-                    "version": "11.0.29"
+                    "version": "11.0.31"
                 },
                 {
                     "name": "recyclarr",
@@ -2371,7 +2371,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/sabnzbd",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sabnzbd.png",
-                    "version": "13.0.16"
+                    "version": "13.0.17"
                 },
                 {
                     "name": "satisfactory",
@@ -2803,7 +2803,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/uptime-kuma",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png",
-                    "version": "5.0.17"
+                    "version": "5.0.18"
                 },
                 {
                     "name": "uptimerobot-prometheus",
@@ -3287,7 +3287,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/artifactory-oss",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/artifactory-oss.png",
-                    "version": "2.0.17"
+                    "version": "2.0.18"
                 },
                 {
                     "name": "assettocorsa",
@@ -3927,7 +3927,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/ersatztv",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ersatztv.png",
-                    "version": "0.0.4"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "etesync",
@@ -5143,7 +5143,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/pingvin-share",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pingvin-share.png",
-                    "version": "0.0.21"
+                    "version": "0.0.22"
                 },
                 {
                     "name": "piwigo",
@@ -5887,7 +5887,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/tachidesk-docker",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tachidesk-docker.png",
-                    "version": "2.0.11"
+                    "version": "2.0.12"
                 },
                 {
                     "name": "tanoshi",
@@ -6357,7 +6357,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/postgresql",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/postgresql.png",
-                    "version": "11.0.28"
+                    "version": "11.0.29"
                 },
                 {
                     "name": "promtail",
