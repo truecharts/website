@@ -2,6 +2,11 @@
 
 
 
+## [tasmoadmin-3.0.0](https://github.com/truecharts/charts/compare/tasmoadmin-2.0.10...tasmoadmin-3.0.0) (2023-02-15)
+
+
+
+
 ## [tasmoadmin-2.0.10](https://github.com/truecharts/charts/compare/tasmoadmin-2.0.9...tasmoadmin-2.0.10) (2023-02-15)
 
 ### Chore

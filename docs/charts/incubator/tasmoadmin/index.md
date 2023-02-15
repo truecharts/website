@@ -1,8 +1,8 @@
 # tasmoadmin
 
-![Version: 2.0.10](https://img.shields.io/badge/Version-2.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.4.2"](https://img.shields.io/badge/AppVersion-"2.4.2"-informational?style=flat-square)
 
-TasmoAdmin is an administrative Website for Home Automation Devices flashed with Tasmota
+A administrative platform for devices flashed with Tasmota.
 
 ## Available Documentation
 
