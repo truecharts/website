@@ -2,6 +2,15 @@
 
 
 
+## [nextcloud-19.0.47](https://github.com/truecharts/charts/compare/nextcloud-19.0.46...nextcloud-19.0.47) (2023-02-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx-unprivileged to 1.23.3
+  
+  
+
+
 ## [nextcloud-19.0.46](https://github.com/truecharts/charts/compare/nextcloud-19.0.45...nextcloud-19.0.46) (2023-02-10)
 
 ### Fix
