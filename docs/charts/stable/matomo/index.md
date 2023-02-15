@@ -1,6 +1,6 @@
 # matomo
 
-![Version: 6.0.38](https://img.shields.io/badge/Version-6.0.38-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "4.13.3"](https://img.shields.io/badge/AppVersion-"4.13.3"-informational?style=flat-square)
+![Version: 6.0.39](https://img.shields.io/badge/Version-6.0.39-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "4.13.3"](https://img.shields.io/badge/AppVersion-"4.13.3"-informational?style=flat-square)
 
 Matomo is the leading Free/Libre open analytics platform
 
