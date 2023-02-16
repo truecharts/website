@@ -720,9 +720,6 @@ The intro needs improvement ;)
 |alienswarm-reactivedrop        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |americasarmy-pg                |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |americasarmy-pg                |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|amtd                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|amvd                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|amvd                           |hostpathfordownloads-amvd  |PVC      |-                |/downloads-amvd                                  |Read/Write|Enabled                |
 |android-8-0                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |androiddebugbridge             |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |anki-sync-server               |config                     |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
