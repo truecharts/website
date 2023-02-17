@@ -532,6 +532,8 @@ The intro needs improvement ;)
 |rsnapshot                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |rss-bridge                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |rsshub                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|rtmpserver                |dash                  |PVC      |-              |/mnt/dash                                            |Read/Write|Enabled                |
+|rtmpserver                |hls                   |PVC      |-              |/mnt/hls                                             |Read/Write|Enabled                |
 |sabnzbd                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |satisfactory              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |scrutiny                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -1195,7 +1197,6 @@ The intro needs improvement ;)
 |rss-to-telegram                |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |rstudio                        |config                     |PVC      |-                |/home/rstudio/.config/rstudio                    |Read/Write|Enabled                |
 |rstudio                        |workspace                  |PVC      |-                |/home/rstudio/workspace                          |Read/Write|Enabled                |
-|rtmpserver                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rust                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |rust                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |rustpad                        |storagedatabase            |PVC      |-                |/persist                                         |Read/Write|Enabled                |
