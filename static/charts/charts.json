@@ -3,7 +3,7 @@
     "trains": [
         {
             "name": "stable",
-            "count": 384,
+            "count": 385,
             "charts": [
                 {
                     "name": "actualserver",
@@ -2366,6 +2366,14 @@
                     "version": "6.0.34"
                 },
                 {
+                    "name": "rtmpserver",
+                    "description": "A video streaming server that supports RTMP, HLS, DASH out of the box.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/rtmpserver",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rtmpserver.png",
+                    "version": "3.0.0"
+                },
+                {
                     "name": "sabnzbd",
                     "description": "Free and easy binary newsreader",
                     "train": "stable",
@@ -3135,7 +3143,7 @@
         },
         {
             "name": "incubator",
-            "count": 394,
+            "count": 393,
             "charts": [
                 {
                     "name": "acestream",
@@ -5520,14 +5528,6 @@
                     "link": "https://truecharts.org/charts/incubator/rstudio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rstudio.png",
                     "version": "3.0.6"
-                },
-                {
-                    "name": "rtmpserver",
-                    "description": "This Chart can be used to create a video streaming server that supports RTMP, HLS, DASH out of the box. It also allows adaptive streaming and custom transcoding of video streams. All modules are built from source on Debian and Alpine Linux base images.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/rtmpserver",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rtmpserver.png",
-                    "version": "2.0.9"
                 },
                 {
                     "name": "rust",
