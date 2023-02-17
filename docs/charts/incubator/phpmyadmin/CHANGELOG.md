@@ -2,6 +2,11 @@
 
 
 
+## [phpmyadmin-2.0.11](https://github.com/truecharts/charts/compare/phpmyadmin-2.0.10...phpmyadmin-2.0.11) (2023-02-17)
+
+
+
+
 ## [phpmyadmin-2.0.10](https://github.com/truecharts/charts/compare/phpmyadmin-2.0.9...phpmyadmin-2.0.10) (2023-02-10)
 
 ### Fix
