@@ -40,6 +40,7 @@
 | golang.org/x/crypto         |    CVE-2022-27191   |   HIGH  |  v0.0.0-20220210151621-f4118a5b28e2 | 0.0.0-20220314234659-1baeb1ce4c0b |
 | golang.org/x/net         |    CVE-2022-27664   |   HIGH  |  v0.0.0-20220127200216-cd36cc0744dd | 0.0.0-20220906165146-f3363e06e74c |
 | golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.0.0-20220127200216-cd36cc0744dd | 0.4.0 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.0.0-20220127200216-cd36cc0744dd | 0.7.0 |
 | golang.org/x/sys         |    CVE-2022-29526   |   MEDIUM  |  v0.0.0-20220209214540-3681064d5158 | 0.0.0-20220412211240-33da011f77ad |
 | golang.org/x/text         |    CVE-2022-32149   |   HIGH  |  v0.3.8-0.20211004125949-5bd84dd9b33b | 0.3.8 |
 
@@ -97,6 +98,7 @@
 | golang.org/x/crypto         |    CVE-2022-27191   |   HIGH  |  v0.0.0-20211209193657-4570a0811e8b | 0.0.0-20220314234659-1baeb1ce4c0b |
 | golang.org/x/net         |    CVE-2022-27664   |   HIGH  |  v0.0.0-20220425223048-2871e0cb64e4 | 0.0.0-20220906165146-f3363e06e74c |
 | golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.0.0-20220425223048-2871e0cb64e4 | 0.4.0 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.0.0-20220425223048-2871e0cb64e4 | 0.7.0 |
 | golang.org/x/sys         |    CVE-2022-29526   |   MEDIUM  |  v0.0.0-20220319134239-a9b59b0215f8 | 0.0.0-20220412211240-33da011f77ad |
 | golang.org/x/text         |    CVE-2022-32149   |   HIGH  |  v0.3.7 | 0.3.8 |
 
@@ -137,13 +139,9 @@
 | libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.7-6 |  |
 | libgnutls30         |    CVE-2023-0361   |   MEDIUM  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
 | libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u2 |  |
-| libgssapi-krb5-2         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libk5crypto3         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libkrb5-3         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5-3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libkrb5support0         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5support0         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libmount1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | libncurses6         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |

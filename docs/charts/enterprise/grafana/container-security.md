@@ -60,13 +60,9 @@
 | libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.7-6 |  |
 | libgnutls30         |    CVE-2023-0361   |   MEDIUM  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
 | libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u2 |  |
-| libgssapi-krb5-2         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libk5crypto3         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libkrb5-3         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5-3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libkrb5support0         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5support0         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libldap-2.4-2         |    CVE-2015-3276   |   LOW  |  2.4.57+dfsg-3+deb11u1 |  |
 | libldap-2.4-2         |    CVE-2017-14159   |   LOW  |  2.4.57+dfsg-3+deb11u1 |  |
@@ -134,6 +130,7 @@
 | github.com/prometheus/prometheus         |    CVE-2019-3826   |   MEDIUM  |  v1.8.2-0.20211011171444-354d8d2ecfac | v2.7.1 |
 | golang.org/x/net         |    CVE-2022-41721   |   HIGH  |  v0.1.0 | 0.1.1-0.20221104162952-702349b0e862 |
 | golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.1.0 | 0.4.0 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.1.0 | 0.7.0 |
 
 **gobinary**
 
@@ -146,4 +143,5 @@
 | github.com/prometheus/prometheus         |    CVE-2019-3826   |   MEDIUM  |  v1.8.2-0.20211011171444-354d8d2ecfac | v2.7.1 |
 | golang.org/x/net         |    CVE-2022-41721   |   HIGH  |  v0.1.0 | 0.1.1-0.20221104162952-702349b0e862 |
 | golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.1.0 | 0.4.0 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.1.0 | 0.7.0 |
 

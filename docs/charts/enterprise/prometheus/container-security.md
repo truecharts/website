@@ -45,13 +45,9 @@
 | libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.7-6 |  |
 | libgnutls30         |    CVE-2023-0361   |   MEDIUM  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
 | libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u2 |  |
-| libgssapi-krb5-2         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libk5crypto3         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libkrb5-3         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5-3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libkrb5support0         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5support0         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libmount1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | libncurses6         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
@@ -112,6 +108,7 @@
 | github.com/prometheus/exporter-toolkit         |    CVE-2022-46146   |   MEDIUM  |  v0.8.1 | 0.7.2, 0.8.2 |
 | golang.org/x/net         |    CVE-2022-41721   |   HIGH  |  v0.0.0-20221014081412-f15817d10f9b | 0.1.1-0.20221104162952-702349b0e862 |
 | golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.0.0-20221014081412-f15817d10f9b | 0.4.0 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.0.0-20221014081412-f15817d10f9b | 0.7.0 |
 
 **Container: docker.io/bitnami/node-exporter:1.5.0-debian-11-r21**
 
@@ -150,13 +147,9 @@
 | libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.7-6 |  |
 | libgnutls30         |    CVE-2023-0361   |   MEDIUM  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
 | libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u2 |  |
-| libgssapi-krb5-2         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libk5crypto3         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libkrb5-3         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5-3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
-| libkrb5support0         |    CVE-2004-0971   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5support0         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libmount1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | libncurses6         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
@@ -215,6 +208,7 @@
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
 | golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.2.0 | 0.4.0 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.2.0 | 0.7.0 |
 
 **gobinary**
 
@@ -222,4 +216,5 @@
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
 | golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.2.0 | 0.4.0 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.2.0 | 0.7.0 |
 

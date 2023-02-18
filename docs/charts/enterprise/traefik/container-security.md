@@ -29,4 +29,5 @@
 | github.com/aws/aws-sdk-go         |    CVE-2020-8912   |   LOW  |  v1.44.47 |  |
 | github.com/hashicorp/consul         |    CVE-2021-41803   |   HIGH  |  v1.10.12 | 1.11.9 |
 | github.com/hashicorp/consul         |    CVE-2022-40716   |   MEDIUM  |  v1.10.12 | 1.11.9, 1.12.5, 1.13.2 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.5.0 | 0.7.0 |
 
