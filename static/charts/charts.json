@@ -5119,7 +5119,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/phpmyadmin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/phpmyadmin.png",
-                    "version": "2.0.10"
+                    "version": "2.0.11"
                 },
                 {
                     "name": "pigallery2",
@@ -5391,7 +5391,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/raneto",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/raneto.png",
-                    "version": "2.0.12"
+                    "version": "2.0.13"
                 },
                 {
                     "name": "rapidphotodownloader",
