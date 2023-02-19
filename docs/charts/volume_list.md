@@ -1064,6 +1064,7 @@ The intro needs improvement ;)
 |moviegrabber                   |moviegrabber               |PVC      |-                |/media                                           |Read/Write|Enabled                |
 |multi-scrobbler                |config                     |PVC      |-                |/home/node/config                                |Read/Write|Enabled                |
 |multi-scrobbler                |logs                       |PVC      |-                |/home/node/app/logs                              |Read/Write|Enabled                |
+|muse                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |namecheap-ddns                 |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |necesse                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |necesse                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -1204,6 +1205,8 @@ The intro needs improvement ;)
 |s3sync                         |backupsourceexample        |PVC      |-                |/data/example                                    |Read Only |Enabled                |
 |scprime                        |metadata                   |PVC      |-                |/scp-data                                        |Read/Write|Enabled                |
 |scprime                        |storage                    |PVC      |-                |/storage                                         |Read/Write|Enabled                |
+|scrypted                       |server                     |PVC      |-                |/server/volume                                   |Read/Write|Enabled                |
+|scrypted                       |media                      |PVC      |-                |/media/external                                  |Read/Write|Enabled                |
 |searx                          |config                     |PVC      |-                |/etc/searx                                       |Read/Write|Enabled                |
 |searxng                        |config                     |PVC      |-                |/etc/searxng                                     |Read/Write|Enabled                |
 |seedsync                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
