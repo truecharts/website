@@ -1,5 +1,5 @@
 {
-    "totalCount": 794,
+    "totalCount": 796,
     "trains": [
         {
             "name": "stable",
@@ -2571,7 +2571,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/strapi",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png",
-                    "version": "8.0.29"
+                    "version": "8.0.30"
                 },
                 {
                     "name": "synapse",
@@ -3143,7 +3143,7 @@
         },
         {
             "name": "incubator",
-            "count": 393,
+            "count": 395,
             "charts": [
                 {
                     "name": "acestream",
@@ -4858,6 +4858,14 @@
                     "version": "2.0.9"
                 },
                 {
+                    "name": "muse",
+                    "description": "A self-hosted midwestern Discord music bot that doesn't suck.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/muse",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/muse.png",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "namecheap-ddns",
                     "description": "This simple Chart will update a namecheap dynamic dns domain. You must set an 'A + Dynamic DNS Record' for the host and enable Dynamic DNS in the manage page for your domain.",
                     "train": "incubator",
@@ -5568,6 +5576,14 @@
                     "link": "https://truecharts.org/charts/incubator/scprime",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/scprime.png",
                     "version": "2.0.11"
+                },
+                {
+                    "name": "scrypted",
+                    "description": "Scrypted is a high performance home video integration and automation platform.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/scrypted",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/scrypted.png",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "searx",
