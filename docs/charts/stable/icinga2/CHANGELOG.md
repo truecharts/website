@@ -2,6 +2,15 @@
 
 
 
+## [icinga2-6.0.21](https://github.com/truecharts/charts/compare/icinga2-6.0.20...icinga2-6.0.21) (2023-02-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [icinga2-6.0.20](https://github.com/truecharts/charts/compare/icinga2-6.0.19...icinga2-6.0.20) (2023-02-10)
 
 ### Fix

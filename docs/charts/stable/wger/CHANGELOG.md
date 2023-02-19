@@ -2,6 +2,15 @@
 
 
 
+## [wger-4.0.39](https://github.com/truecharts/charts/compare/wger-4.0.38...wger-4.0.39) (2023-02-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [wger-4.0.38](https://github.com/truecharts/charts/compare/wger-4.0.37...wger-4.0.38) (2023-02-15)
 
 ### Chore

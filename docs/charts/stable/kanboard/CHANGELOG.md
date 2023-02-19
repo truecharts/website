@@ -2,6 +2,15 @@
 
 
 
+## [kanboard-11.0.23](https://github.com/truecharts/charts/compare/kanboard-11.0.22...kanboard-11.0.23) (2023-02-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [kanboard-11.0.22](https://github.com/truecharts/charts/compare/kanboard-11.0.21...kanboard-11.0.22) (2023-02-10)
 
 ### Fix

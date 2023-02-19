@@ -2,6 +2,15 @@
 
 
 
+## [teedy-10.0.22](https://github.com/truecharts/charts/compare/teedy-10.0.21...teedy-10.0.22) (2023-02-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [teedy-10.0.21](https://github.com/truecharts/charts/compare/teedy-docs-2.0.8...teedy-10.0.21) (2023-02-10)
 
 ### Fix

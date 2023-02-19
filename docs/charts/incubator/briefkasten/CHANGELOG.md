@@ -2,6 +2,15 @@
 
 
 
+## [briefkasten-0.0.15](https://github.com/truecharts/charts/compare/briefkasten-0.0.14...briefkasten-0.0.15) (2023-02-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [briefkasten-0.0.14](https://github.com/truecharts/charts/compare/briefkasten-0.0.13...briefkasten-0.0.14) (2023-02-10)
 
 ### Fix

@@ -2,6 +2,15 @@
 
 
 
+## [paperless-ng-7.0.30](https://github.com/truecharts/charts/compare/paperless-ng-7.0.29...paperless-ng-7.0.30) (2023-02-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [paperless-ng-7.0.29](https://github.com/truecharts/charts/compare/paperless-ng-7.0.28...paperless-ng-7.0.29) (2023-02-10)
 
 ### Fix

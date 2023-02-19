@@ -2,6 +2,15 @@
 
 
 
+## [shiori-11.0.6](https://github.com/truecharts/charts/compare/shiori-11.0.5...shiori-11.0.6) (2023-02-19)
+
+### Chore
+
+- update helm general non-major
+  
+  
+
+
 ## [shiori-11.0.5](https://github.com/truecharts/charts/compare/shiori-11.0.4...shiori-11.0.5) (2023-02-10)
 
 ### Fix
