@@ -5,7 +5,7 @@
           tccr.io/truecharts/ubuntu:jammy-20221101@sha256:4b9475e08c5180d4e7417dc6a18a26dcce7691e4311e5353dbb952645c5ff43f
           tccr.io/truecharts/blocky:v0.19@sha256:77a474542f12f480deca33ff0a6375846918b86988c13f858620839d8818ca84
           tccr.io/truecharts/blocky-frontend:v0.0.3@sha256:81058f20520dcdb80c9883b6f21b338446fefc333e3ca8bd7d17336a24a5d842
-          tccr.io/truecharts/redis:7.0.8@sha256:b762d1eb8579cdb3543f5da78561d2ce9936667e79db2af2f8d94c95bf095209
+          tccr.io/truecharts/redis:7.0.8@sha256:765cfd6086d4b34f0d2879e6295229ca2e56ee99d7761eadf93f3b62b299bb03
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
@@ -20,16 +20,16 @@
       
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
-| libcrypto1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1n-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2023-0286   |   CRITICAL  |  1.1.1n-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2022-4450   |   HIGH  |  1.1.1n-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2023-0215   |   HIGH  |  1.1.1n-r0 | 1.1.1t-r0 |
 | libcrypto1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-r0 | 1.1.1q-r0 |
 | libcrypto1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-r0 | 1.1.1t-r0 |
-| libcrypto1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-r0 | 1.1.1t-r0 |
-| libcrypto1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-r0 | 1.1.1t-r0 |
-| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1n-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2023-0286   |   CRITICAL  |  1.1.1n-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2022-4450   |   HIGH  |  1.1.1n-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2023-0215   |   HIGH  |  1.1.1n-r0 | 1.1.1t-r0 |
 | libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-r0 | 1.1.1q-r0 |
 | libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-r0 | 1.1.1t-r0 |
-| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-r0 | 1.1.1t-r0 |
-| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-r0 | 1.1.1t-r0 |
 | zlib         |    CVE-2022-37434   |   CRITICAL  |  1.2.12-r0 | 1.2.12-r2 |
 
 **gobinary**
@@ -74,16 +74,16 @@
 | bind-tools         |    CVE-2022-3924   |   HIGH  |  9.16.29-r0 | 9.16.37-r0 |
 | busybox         |    CVE-2022-30065   |   HIGH  |  1.35.0-r13 | 1.35.0-r15 |
 | krb5-libs         |    CVE-2022-42898   |   HIGH  |  1.19.3-r0 | 1.19.4-r0 |
-| libcrypto1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1o-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2023-0286   |   CRITICAL  |  1.1.1o-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2022-4450   |   HIGH  |  1.1.1o-r0 | 1.1.1t-r0 |
+| libcrypto1.1         |    CVE-2023-0215   |   HIGH  |  1.1.1o-r0 | 1.1.1t-r0 |
 | libcrypto1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1o-r0 | 1.1.1q-r0 |
 | libcrypto1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1o-r0 | 1.1.1t-r0 |
-| libcrypto1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1o-r0 | 1.1.1t-r0 |
-| libcrypto1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1o-r0 | 1.1.1t-r0 |
-| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1o-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2023-0286   |   CRITICAL  |  1.1.1o-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2022-4450   |   HIGH  |  1.1.1o-r0 | 1.1.1t-r0 |
+| libssl1.1         |    CVE-2023-0215   |   HIGH  |  1.1.1o-r0 | 1.1.1t-r0 |
 | libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1o-r0 | 1.1.1q-r0 |
 | libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1o-r0 | 1.1.1t-r0 |
-| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1o-r0 | 1.1.1t-r0 |
-| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1o-r0 | 1.1.1t-r0 |
 | libxml2         |    CVE-2022-2309   |   HIGH  |  2.9.14-r0 | 2.9.14-r1 |
 | libxml2         |    CVE-2022-40303   |   HIGH  |  2.9.14-r0 | 2.9.14-r2 |
 | libxml2         |    CVE-2022-40304   |   HIGH  |  2.9.14-r0 | 2.9.14-r2 |
@@ -102,9 +102,9 @@
 | golang.org/x/sys         |    CVE-2022-29526   |   MEDIUM  |  v0.0.0-20220319134239-a9b59b0215f8 | 0.0.0-20220412211240-33da011f77ad |
 | golang.org/x/text         |    CVE-2022-32149   |   HIGH  |  v0.3.7 | 0.3.8 |
 
-**Container: tccr.io/truecharts/redis:7.0.8@sha256:b762d1eb8579cdb3543f5da78561d2ce9936667e79db2af2f8d94c95bf095209**
+**Container: tccr.io/truecharts/redis:7.0.8@sha256:765cfd6086d4b34f0d2879e6295229ca2e56ee99d7761eadf93f3b62b299bb03**
 
-#### Container: tccr.io/truecharts/redis:7.0.8@sha256:b762d1eb8579cdb3543f5da78561d2ce9936667e79db2af2f8d94c95bf095209 (debian 11.6)
+#### Container: tccr.io/truecharts/redis:7.0.8@sha256:765cfd6086d4b34f0d2879e6295229ca2e56ee99d7761eadf93f3b62b299bb03 (debian 11.6)
     
 
 **debian**
@@ -156,11 +156,11 @@
 | libsepol1         |    CVE-2021-36086   |   LOW  |  3.1-1 |  |
 | libsepol1         |    CVE-2021-36087   |   LOW  |  3.1-1 |  |
 | libsmartcols1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
-| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| libssl1.1         |    CVE-2023-0286   |   CRITICAL  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| libssl1.1         |    CVE-2022-4450   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| libssl1.1         |    CVE-2023-0215   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
 | libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
 | libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
 | libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
 | libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
 | libsystemd0         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
@@ -178,11 +178,11 @@
 | login         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |
 | mount         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | ncurses-base         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
-| openssl         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| openssl         |    CVE-2023-0286   |   CRITICAL  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| openssl         |    CVE-2022-4450   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
+| openssl         |    CVE-2023-0215   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
 | openssl         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
 | openssl         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
 | openssl         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
 | openssl         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
 | passwd         |    CVE-2007-5686   |   LOW  |  1:4.8.1-1 |  |

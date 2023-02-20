@@ -2,15 +2,15 @@
 
 ##### Detected Containers
 
-          docker.io/bitnami/node-exporter:1.5.0-debian-11-r21
-          docker.io/bitnami/kube-state-metrics:2.7.0-debian-11-r21
+          docker.io/bitnami/node-exporter:1.5.0-debian-11-r28
+          docker.io/bitnami/kube-state-metrics:2.8.0-debian-11-r1
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: docker.io/bitnami/kube-state-metrics:2.7.0-debian-11-r21**
+**Container: docker.io/bitnami/kube-state-metrics:2.8.0-debian-11-r1**
 
-#### Container: docker.io/bitnami/kube-state-metrics:2.7.0-debian-11-r21 (debian 11.6)
+#### Container: docker.io/bitnami/kube-state-metrics:2.8.0-debian-11-r1 (debian 11.6)
     
 
 **debian**
@@ -43,8 +43,7 @@
 | libdb5.3         |    CVE-2019-8457   |   CRITICAL  |  5.3.28+dfsg1-0.8 |  |
 | libgcrypt20         |    CVE-2021-33560   |   HIGH  |  1.8.7-6 |  |
 | libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.7-6 |  |
-| libgnutls30         |    CVE-2023-0361   |   MEDIUM  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
-| libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u2 |  |
+| libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u3 |  |
 | libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5-3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
@@ -62,13 +61,8 @@
 | libsepol1         |    CVE-2021-36086   |   LOW  |  3.1-1 |  |
 | libsepol1         |    CVE-2021-36087   |   LOW  |  3.1-1 |  |
 | libsmartcols1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
-| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
+| libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u4 |  |
+| libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u4 |  |
 | libsystemd0         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2022-4415   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2013-4392   |   LOW  |  247.3-7+deb11u1 |  |
@@ -84,13 +78,8 @@
 | login         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |
 | mount         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | ncurses-base         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
-| openssl         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
+| openssl         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u4 |  |
+| openssl         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u4 |  |
 | passwd         |    CVE-2007-5686   |   LOW  |  1:4.8.1-1 |  |
 | passwd         |    CVE-2013-4235   |   LOW  |  1:4.8.1-1 |  |
 | passwd         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |
@@ -105,14 +94,11 @@
       
 | Package         |    Vulnerability   |   Severity  |  Installed Version | Fixed Version |
 |:----------------|:------------------:|:-----------:|:------------------:|:-------------:|
-| github.com/prometheus/exporter-toolkit         |    CVE-2022-46146   |   MEDIUM  |  v0.8.1 | 0.7.2, 0.8.2 |
-| golang.org/x/net         |    CVE-2022-41721   |   HIGH  |  v0.0.0-20221014081412-f15817d10f9b | 0.1.1-0.20221104162952-702349b0e862 |
-| golang.org/x/net         |    CVE-2022-41717   |   MEDIUM  |  v0.0.0-20221014081412-f15817d10f9b | 0.4.0 |
-| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.0.0-20221014081412-f15817d10f9b | 0.7.0 |
+| golang.org/x/net         |    CVE-2022-41723   |   LOW  |  v0.4.0 | 0.7.0 |
 
-**Container: docker.io/bitnami/node-exporter:1.5.0-debian-11-r21**
+**Container: docker.io/bitnami/node-exporter:1.5.0-debian-11-r28**
 
-#### Container: docker.io/bitnami/node-exporter:1.5.0-debian-11-r21 (debian 11.6)
+#### Container: docker.io/bitnami/node-exporter:1.5.0-debian-11-r28 (debian 11.6)
     
 
 **debian**
@@ -145,8 +131,7 @@
 | libdb5.3         |    CVE-2019-8457   |   CRITICAL  |  5.3.28+dfsg1-0.8 |  |
 | libgcrypt20         |    CVE-2021-33560   |   HIGH  |  1.8.7-6 |  |
 | libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.7-6 |  |
-| libgnutls30         |    CVE-2023-0361   |   MEDIUM  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
-| libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u2 |  |
+| libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u3 |  |
 | libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5-3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
@@ -164,13 +149,8 @@
 | libsepol1         |    CVE-2021-36086   |   LOW  |  3.1-1 |  |
 | libsepol1         |    CVE-2021-36087   |   LOW  |  3.1-1 |  |
 | libsmartcols1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
-| libssl1.1         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
-| libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
+| libssl1.1         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u4 |  |
+| libssl1.1         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u4 |  |
 | libsystemd0         |    CVE-2022-3821   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2022-4415   |   MEDIUM  |  247.3-7+deb11u1 |  |
 | libsystemd0         |    CVE-2013-4392   |   LOW  |  247.3-7+deb11u1 |  |
@@ -186,13 +166,8 @@
 | login         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |
 | mount         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | ncurses-base         |    CVE-2022-29458   |   HIGH  |  6.2+20201114-2 |  |
-| openssl         |    CVE-2023-0286   |   HIGH  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2022-2097   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2022-4304   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2022-4450   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2023-0215   |   MEDIUM  |  1.1.1n-0+deb11u3 | 1.1.1n-0+deb11u4 |
-| openssl         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u3 |  |
-| openssl         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u3 |  |
+| openssl         |    CVE-2007-6755   |   LOW  |  1.1.1n-0+deb11u4 |  |
+| openssl         |    CVE-2010-0928   |   LOW  |  1.1.1n-0+deb11u4 |  |
 | passwd         |    CVE-2007-5686   |   LOW  |  1:4.8.1-1 |  |
 | passwd         |    CVE-2013-4235   |   LOW  |  1:4.8.1-1 |  |
 | passwd         |    CVE-2019-19882   |   LOW  |  1:4.8.1-1 |  |
