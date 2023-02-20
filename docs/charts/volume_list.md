@@ -206,9 +206,7 @@ The intro needs improvement ;)
 |grav                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |grist                     |persist               |PVC      |-              |/persist                                             |Read/Write|Enabled                |
 |grocy                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|guacamole-client          |initdbdata            |PVC      |-              |/initdbdata                                          |Read/Write|Enabled                |
-|guacamole-client          |temphack              |PVC      |-              |/opt/guacamole/postgresql-hack                       |Read/Write|Enabled                |
-|guacamole-client          |temphackalso          |PVC      |-              |/opt/guacamole/postgresql                            |Read/Write|Enabled                |
+|guacamole-client          |initdbdata            |emptyDir |-              |/initdbdata                                          |Read/Write|Enabled                |
 |guacd                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |habridge                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |habridge                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -715,7 +713,7 @@ The intro needs improvement ;)
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
 |acestream                      |acestreamcache             |PVC      |-                |/srv/acestream/.ACEStream                        |Read/Write|Enabled                |
-|adguardhome-sync               |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|adguardhome-sync               |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |alienswarm                     |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |alienswarm                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |alienswarm-reactivedrop        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1289,6 +1287,7 @@ The intro needs improvement ;)
 |timetagger                     |config                     |PVC      |-                |/root/_timetagger                                |Read/Write|Enabled                |
 |tonido                         |tonido                     |PVC      |-                |/unRAID                                          |Read/Write|Enabled                |
 |tracks                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|traefik-forward-auth           |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |traktarr                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |trango                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |troddit                        |-                          |-        |-                |-                                                |-         |Persistence not Defined|
@@ -1308,6 +1307,7 @@ The intro needs improvement ;)
 |universal-media-server         |media                      |PVC      |-                |/media                                           |Read/Write|Enabled                |
 |unturned                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |unturned                       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|upsnap                         |data                       |PVC      |-                |/app/pb_data                                     |Read/Write|Enabled                |
 |urban-terror                   |datadir                    |PVC      |-                |/urbanterror                                     |Read/Write|Enabled                |
 |v-rising                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |v-rising                       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
