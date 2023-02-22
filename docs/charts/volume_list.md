@@ -545,6 +545,7 @@ The intro needs improvement ;)
 |shiori                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |shlink                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |shlink-web-client         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|shoko-server              |appdata               |PVC      |-              |/home/shoko/.shoko/                                  |Read/Write|Enabled                |
 |shorturl                  |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |shorturl                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |sickchill                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -1227,7 +1228,6 @@ The intro needs improvement ;)
 |shadowsocks                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |shapeshifter-obfuscator        |config                     |PVC      |-                |/state                                           |Read/Write|Enabled                |
 |sheetable                      |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
-|shoko-server                   |appdata                    |PVC      |-                |/home/shoko/.shoko/                              |Read/Write|Enabled                |
 |shortipy                       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |sia-daemon                     |datadirectory              |PVC      |-                |/sia-data                                        |Read/Write|Enabled                |
 |sinusbot                       |data                       |PVC      |-                |/opt/sinusbot/data                               |Read/Write|Enabled                |
