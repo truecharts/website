@@ -1,9 +1,8 @@
 # apprise-api
 
-![Version: 2.0.13](https://img.shields.io/badge/Version-2.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.8.3"](https://img.shields.io/badge/AppVersion-"0.8.3"-informational?style=flat-square)
 
-Apprise-api(https://github.com/caronc/apprise-api) Takes advantage of Apprise(https://github.com/caronc/apprise) through your network with a user-friendly API.
-
+Push notifications that work with just about every platform!
 
 ## Available Documentation
 
