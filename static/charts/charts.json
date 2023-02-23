@@ -1,5 +1,5 @@
 {
-    "totalCount": 798,
+    "totalCount": 799,
     "trains": [
         {
             "name": "stable",
@@ -435,7 +435,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dashdot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dashdot.png",
-                    "version": "3.0.16"
+                    "version": "3.0.17"
                 },
                 {
                     "name": "davos",
@@ -667,7 +667,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/esphome",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/esphome.png",
-                    "version": "13.0.21"
+                    "version": "13.0.22"
                 },
                 {
                     "name": "etherpad",
@@ -1947,7 +1947,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/penpot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/penpot.png",
-                    "version": "2.0.9"
+                    "version": "2.0.10"
                 },
                 {
                     "name": "pgadmin",
@@ -2091,7 +2091,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/portainer-ce",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/portainer-ce.png",
-                    "version": "3.0.12"
+                    "version": "3.0.13"
                 },
                 {
                     "name": "posterr",
@@ -2139,7 +2139,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prowlarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png",
-                    "version": "8.0.25"
+                    "version": "8.0.26"
                 },
                 {
                     "name": "prusaslicer-novnc",
@@ -2579,7 +2579,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/strapi",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/strapi.png",
-                    "version": "8.0.31"
+                    "version": "8.0.32"
                 },
                 {
                     "name": "synapse",
@@ -2627,7 +2627,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tailscale",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png",
-                    "version": "3.0.16"
+                    "version": "3.0.17"
                 },
                 {
                     "name": "tautulli",
@@ -2851,7 +2851,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/verysync",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/verysync.png",
-                    "version": "4.0.9"
+                    "version": "4.0.10"
                 },
                 {
                     "name": "vikunja",
@@ -3027,7 +3027,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/youtrack",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/youtrack.png",
-                    "version": "1.0.4"
+                    "version": "1.0.5"
                 },
                 {
                     "name": "youtransfer",
@@ -3151,7 +3151,7 @@
         },
         {
             "name": "incubator",
-            "count": 396,
+            "count": 397,
             "charts": [
                 {
                     "name": "acestream",
@@ -4511,7 +4511,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/jenkins",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jenkins.png",
-                    "version": "3.0.14"
+                    "version": "3.0.15"
                 },
                 {
                     "name": "jitsi",
@@ -4807,7 +4807,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/misskey",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/misskey.png",
-                    "version": "3.0.35"
+                    "version": "3.0.37"
                 },
                 {
                     "name": "mocodo-mcd",
@@ -4863,7 +4863,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/multi-scrobbler",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/multi-scrobbler.png",
-                    "version": "2.0.9"
+                    "version": "2.0.10"
                 },
                 {
                     "name": "muse",
@@ -4903,7 +4903,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/netbox",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/netbox.png",
-                    "version": "3.0.35"
+                    "version": "3.0.36"
                 },
                 {
                     "name": "neverwinternights-ee",
@@ -5399,7 +5399,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/radicale",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/radicale.png",
-                    "version": "2.0.9"
+                    "version": "2.0.10"
                 },
                 {
                     "name": "raneto",
@@ -5752,6 +5752,14 @@
                     "link": "https://truecharts.org/charts/incubator/socials",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/socials.png",
                     "version": "2.0.9"
+                },
+                {
+                    "name": "somfyprotect2mqtt",
+                    "description": "Somfy Protect to MQTT",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/somfyprotect2mqtt",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/somfyprotect2mqtt.png",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "sonarqube",
@@ -6247,7 +6255,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/wizarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wizarr.png",
-                    "version": "1.0.2"
+                    "version": "1.0.3"
                 },
                 {
                     "name": "xmrig",
