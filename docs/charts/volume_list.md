@@ -1236,6 +1236,7 @@ The intro needs improvement ;)
 |snippet-box                    |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |snowflake-proxy                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |socials                        |socials                    |PVC      |-                |/app/people                                      |Read/Write|Enabled                |
+|somfyprotect2mqtt              |configfile                 |secret   |-                |/config/config.yaml                              |Read Only |Enabled                |
 |sonarqube                      |data                       |PVC      |-                |/opt/sonarqube/data                              |Read/Write|Enabled                |
 |sonarqube                      |extensions                 |PVC      |-                |/opt/sonarqube/extensions                        |Read/Write|Enabled                |
 |sonarqube                      |logs                       |PVC      |-                |/opt/sonarqube/logs                              |Read/Write|Enabled                |
