@@ -239,6 +239,7 @@ The intro needs improvement ;)
 |icinga2                   |web                   |PVC      |-              |/etc/icingaweb2                                      |Read/Write|Enabled                |
 |icinga2                   |ssmtp                 |PVC      |-              |/etc/ssmtp                                           |Read/Write|Enabled                |
 |immich                    |uploads               |PVC      |-              |/usr/src/app/upload                                  |Read/Write|Enabled                |
+|immich                    |modelcache            |emptyDir |-              |/cache                                               |Read/Write|Enabled                |
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |inventree                 |data                  |PVC      |-              |/home/inventree/data                                 |Read/Write|Enabled                |
 |inventree                 |inventree-nginx       |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
@@ -473,6 +474,7 @@ The intro needs improvement ;)
 |plex-utills               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |plex-utills               |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
 |plex-utills               |plexlibrary           |PVC      |-              |/films                                               |Read/Write|Enabled                |
+|plexanisync               |settings              |secret   |-              |/plexanisync/settings.ini                            |Read Only |Enabled                |
 |podgrab                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |portainer-ce              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |portainer-ce              |cache                 |emptyDir |-              |/.cache                                              |Read/Write|Enabled                |
@@ -1124,7 +1126,6 @@ The intro needs improvement ;)
 |pixelserv-tls                  |certficatesdir             |PVC      |-                |/var/cache/pixelserv                             |Read/Write|Enabled                |
 |plausible                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |plex-meta-manager              |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|plexanisync                    |settings                   |secret   |-                |/plexanisync/settings.ini                        |Read Only |Enabled                |
 |plexripper                     |config                     |PVC      |-                |/Config                                          |Read/Write|Enabled                |
 |plextraktsync                  |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
 |plik                           |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
