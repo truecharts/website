@@ -2,6 +2,15 @@
 
 
 
+## [raspberrymatic-2.0.11](https://github.com/truecharts/charts/compare/raspberrymatic-2.0.10...raspberrymatic-2.0.11) (2023-02-25)
+
+### Chore
+
+- update container image ghcr.io/jens-maus/raspberrymatic to latest
+  
+  
+
+
 ## [raspberrymatic-2.0.10](https://github.com/truecharts/charts/compare/raspberrymatic-2.0.9...raspberrymatic-2.0.10) (2023-02-10)
 
 ### Fix
