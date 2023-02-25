@@ -3,7 +3,7 @@
     "trains": [
         {
             "name": "stable",
-            "count": 386,
+            "count": 387,
             "charts": [
                 {
                     "name": "actualserver",
@@ -59,7 +59,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/alist",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/alist.png",
-                    "version": "4.0.19"
+                    "version": "4.0.20"
                 },
                 {
                     "name": "amcrest2mqtt",
@@ -459,7 +459,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ddns-go",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ddns-go.png",
-                    "version": "4.0.20"
+                    "version": "4.0.21"
                 },
                 {
                     "name": "ddns-updater",
@@ -787,7 +787,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/flexget",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/flexget.png",
-                    "version": "4.0.24"
+                    "version": "4.0.25"
                 },
                 {
                     "name": "flood",
@@ -1003,7 +1003,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/homarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/homarr.png",
-                    "version": "4.0.12"
+                    "version": "4.0.13"
                 },
                 {
                     "name": "home-assistant",
@@ -1019,7 +1019,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/homebox",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/homebox.png",
-                    "version": "1.0.5"
+                    "version": "1.0.6"
                 },
                 {
                     "name": "homelablabelmaker",
@@ -1083,7 +1083,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/immich",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/immich.png",
-                    "version": "5.0.14"
+                    "version": "5.0.15"
                 },
                 {
                     "name": "impostor-server",
@@ -1123,7 +1123,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ispy-agent-dvr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ispy-agent-dvr.png",
-                    "version": "4.0.18"
+                    "version": "4.0.19"
                 },
                 {
                     "name": "iyuuplus",
@@ -1211,7 +1211,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/kavita",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kavita.png",
-                    "version": "4.0.9"
+                    "version": "4.0.10"
                 },
                 {
                     "name": "kimai",
@@ -1427,7 +1427,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/loki",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/loki.png",
-                    "version": "10.0.1"
+                    "version": "10.0.3"
                 },
                 {
                     "name": "lychee",
@@ -1611,7 +1611,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mosdns",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mosdns.png",
-                    "version": "4.0.14"
+                    "version": "4.0.15"
                 },
                 {
                     "name": "mosquitto",
@@ -1667,7 +1667,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/n8n",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png",
-                    "version": "7.0.49"
+                    "version": "7.0.50"
                 },
                 {
                     "name": "nano-wallet",
@@ -2076,6 +2076,14 @@
                     "link": "https://truecharts.org/charts/stable/plex",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/plex.png",
                     "version": "12.0.14"
+                },
+                {
+                    "name": "plexanisync",
+                    "description": "Plex to AniList Sync.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/plexanisync",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/plexanisync.png",
+                    "version": "1.0.0"
                 },
                 {
                     "name": "podgrab",
@@ -3091,7 +3099,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/zwavejs2mqtt",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/zwavejs2mqtt.png",
-                    "version": "14.0.19"
+                    "version": "14.0.20"
                 }
             ]
         },
@@ -3151,7 +3159,7 @@
         },
         {
             "name": "incubator",
-            "count": 397,
+            "count": 396,
             "charts": [
                 {
                     "name": "acestream",
@@ -3351,7 +3359,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/barcodebuddy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/barcodebuddy.png",
-                    "version": "2.0.9"
+                    "version": "2.0.10"
                 },
                 {
                     "name": "barotrauma",
@@ -5194,14 +5202,6 @@
                     "version": "2.0.14"
                 },
                 {
-                    "name": "plexanisync",
-                    "description": "Plex to AniList Sync.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/plexanisync",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/plexanisync.png",
-                    "version": "0.0.5"
-                },
-                {
                     "name": "plexripper",
                     "description": "PlexRipper is a cross-platform media downloader that indexes the Plex servers you have access to and allows you to download everything while adding it to your own Plex server.",
                     "train": "incubator",
@@ -5591,7 +5591,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/scrypted",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/scrypted.png",
-                    "version": "0.0.2"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "searx",
@@ -5783,7 +5783,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/sourcegraph",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sourcegraph.png",
-                    "version": "2.0.16"
+                    "version": "2.0.17"
                 },
                 {
                     "name": "spaceengineers",
@@ -6255,7 +6255,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/wizarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wizarr.png",
-                    "version": "1.0.4"
+                    "version": "1.0.5"
                 },
                 {
                     "name": "xmrig",
@@ -6389,7 +6389,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/promtail",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/promtail.png",
-                    "version": "6.0.15"
+                    "version": "6.0.17"
                 },
                 {
                     "name": "redis",
