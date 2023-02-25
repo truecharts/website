@@ -23,6 +23,7 @@
 | bsdutils         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | coreutils         |    CVE-2016-2781   |   LOW  |  8.32-4 |  |
 | coreutils         |    CVE-2017-18018   |   LOW  |  8.32-4 |  |
+| gpgv         |    CVE-2022-3219   |   LOW  |  2.2.27-2+deb11u2 |  |
 | libapt-pkg6.0         |    CVE-2011-3374   |   LOW  |  2.2.4 |  |
 | libblkid1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | libc-bin         |    CVE-2010-4756   |   LOW  |  2.31-13+deb11u5 |  |
@@ -111,6 +112,7 @@
 | bsdutils         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | coreutils         |    CVE-2016-2781   |   LOW  |  8.32-4 |  |
 | coreutils         |    CVE-2017-18018   |   LOW  |  8.32-4 |  |
+| gpgv         |    CVE-2022-3219   |   LOW  |  2.2.27-2+deb11u2 |  |
 | libapt-pkg6.0         |    CVE-2011-3374   |   LOW  |  2.2.4 |  |
 | libblkid1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
 | libc-bin         |    CVE-2010-4756   |   LOW  |  2.31-13+deb11u5 |  |
