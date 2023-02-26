@@ -1,6 +1,6 @@
 # netbox
 
-![Version: 3.0.36](https://img.shields.io/badge/Version-3.0.36-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "3.4.5"](https://img.shields.io/badge/AppVersion-"3.4.5"-informational?style=flat-square)
+![Version: 3.0.37](https://img.shields.io/badge/Version-3.0.37-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "3.4.5"](https://img.shields.io/badge/AppVersion-"3.4.5"-informational?style=flat-square)
 
 NetBox is the leading solution for modeling and documenting modern networks.
 
