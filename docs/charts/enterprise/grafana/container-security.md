@@ -59,7 +59,7 @@
 | libfreetype6         |    CVE-2022-31782   |   LOW  |  2.10.4+dfsg-1+deb11u1 |  |
 | libgcrypt20         |    CVE-2021-33560   |   HIGH  |  1.8.7-6 |  |
 | libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.7-6 |  |
-| libgnutls30         |    CVE-2023-0361   |   MEDIUM  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
+| libgnutls30         |    CVE-2023-0361   |   HIGH  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
 | libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u2 |  |
 | libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
