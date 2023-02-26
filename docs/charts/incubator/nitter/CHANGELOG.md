@@ -2,6 +2,15 @@
 
 
 
+## [nitter-1.0.11](https://github.com/truecharts/charts/compare/nitter-1.0.10...nitter-1.0.11) (2023-02-26)
+
+### Chore
+
+- update container image tccr.io/truecharts/nitter to latest
+  
+  
+
+
 ## [nitter-1.0.10](https://github.com/truecharts/charts/compare/nitter-1.0.9...nitter-1.0.10) (2023-02-19)
 
 ### Chore

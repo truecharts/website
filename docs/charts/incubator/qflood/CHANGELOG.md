@@ -2,6 +2,15 @@
 
 
 
+## [qflood-2.0.12](https://github.com/truecharts/charts/compare/qflood-2.0.11...qflood-2.0.12) (2023-02-26)
+
+### Chore
+
+- update container image tccr.io/truecharts/qflood to latest
+  
+  
+
+
 ## [qflood-2.0.11](https://github.com/truecharts/charts/compare/qflood-2.0.10...qflood-2.0.11) (2023-02-10)
 
 ### Fix
