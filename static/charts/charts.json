@@ -59,7 +59,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/alist",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/alist.png",
-                    "version": "4.0.20"
+                    "version": "4.0.21"
                 },
                 {
                     "name": "amcrest2mqtt",
@@ -283,7 +283,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "9.0.20"
+                    "version": "9.0.21"
                 },
                 {
                     "name": "chevereto",
@@ -459,7 +459,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ddns-go",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ddns-go.png",
-                    "version": "4.0.21"
+                    "version": "4.0.22"
                 },
                 {
                     "name": "ddns-updater",
@@ -1763,7 +1763,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ntfy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ntfy.png",
-                    "version": "4.0.13"
+                    "version": "4.0.14"
                 },
                 {
                     "name": "nullserv",
@@ -2147,7 +2147,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prowlarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png",
-                    "version": "8.0.26"
+                    "version": "8.0.27"
                 },
                 {
                     "name": "prusaslicer-novnc",
@@ -2275,7 +2275,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/readarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/readarr.png",
-                    "version": "13.0.14"
+                    "version": "13.0.15"
                 },
                 {
                     "name": "recipes",
@@ -2827,7 +2827,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/uptime-kuma",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/uptime-kuma.png",
-                    "version": "5.0.20"
+                    "version": "5.0.21"
                 },
                 {
                     "name": "uptimerobot-prometheus",
@@ -3083,7 +3083,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ztcuui-aio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ztcuui-aio.png",
-                    "version": "3.0.9"
+                    "version": "3.0.10"
                 },
                 {
                     "name": "zusam",
@@ -5423,7 +5423,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/raspberrymatic",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/raspberrymatic.png",
-                    "version": "2.0.10"
+                    "version": "2.0.11"
                 },
                 {
                     "name": "reactive-resume",
@@ -5591,7 +5591,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/scrypted",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/scrypted.png",
-                    "version": "0.0.4"
+                    "version": "0.0.6"
                 },
                 {
                     "name": "searx",
@@ -6255,7 +6255,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/wizarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wizarr.png",
-                    "version": "1.0.5"
+                    "version": "1.0.7"
                 },
                 {
                     "name": "xmrig",
