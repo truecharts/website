@@ -2,6 +2,15 @@
 
 
 
+## [webtop-4.0.10](https://github.com/truecharts/charts/compare/webtop-4.0.9...webtop-4.0.10) (2023-02-26)
+
+### Chore
+
+- update webtop
+  
+  
+
+
 ## [webtop-4.0.9](https://github.com/truecharts/charts/compare/webtop-4.0.8...webtop-4.0.9) (2023-02-10)
 
 ### Fix
