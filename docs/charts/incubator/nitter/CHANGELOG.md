@@ -2,6 +2,15 @@
 
 
 
+## [nitter-1.0.12](https://github.com/truecharts/charts/compare/nitter-1.0.11...nitter-1.0.12) (2023-02-27)
+
+### Chore
+
+- update helm general non-major ([#7725](https://github.com/truecharts/charts/issues/7725))
+  
+  
+
+
 ## [nitter-1.0.11](https://github.com/truecharts/charts/compare/nitter-1.0.10...nitter-1.0.11) (2023-02-26)
 
 ### Chore

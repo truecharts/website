@@ -2,6 +2,15 @@
 
 
 
+## [statping-ng-11.0.6](https://github.com/truecharts/charts/compare/statping-ng-11.0.5...statping-ng-11.0.6) (2023-02-27)
+
+### Chore
+
+- update helm general non-major ([#7725](https://github.com/truecharts/charts/issues/7725))
+  
+  
+
+
 ## [statping-ng-11.0.5](https://github.com/truecharts/charts/compare/statping-ng-11.0.4...statping-ng-11.0.5) (2023-02-19)
 
 ### Chore

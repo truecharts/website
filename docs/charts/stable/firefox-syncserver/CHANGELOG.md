@@ -2,6 +2,15 @@
 
 
 
+## [firefox-syncserver-12.0.22](https://github.com/truecharts/charts/compare/firefox-syncserver-12.0.21...firefox-syncserver-12.0.22) (2023-02-27)
+
+### Chore
+
+- update helm general non-major ([#7725](https://github.com/truecharts/charts/issues/7725))
+  
+  
+
+
 ## [firefox-syncserver-12.0.21](https://github.com/truecharts/charts/compare/firefox-syncserver-12.0.20...firefox-syncserver-12.0.21) (2023-02-19)
 
 ### Chore
