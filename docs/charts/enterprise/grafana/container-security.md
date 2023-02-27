@@ -2,14 +2,14 @@
 
 ##### Detected Containers
 
-          tccr.io/truecharts/grafana:9.3.6@sha256:268c6a4b2da162f7471321821b88bcf4a5e0f782836fd9129d3fcfc2d7571abf
+          tccr.io/truecharts/grafana:9.3.6@sha256:d8bf3bb566deabe71269c0ebacc6c3af82e374161d9513c7a4891c8c6fbc9d74
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: tccr.io/truecharts/grafana:9.3.6@sha256:268c6a4b2da162f7471321821b88bcf4a5e0f782836fd9129d3fcfc2d7571abf**
+**Container: tccr.io/truecharts/grafana:9.3.6@sha256:d8bf3bb566deabe71269c0ebacc6c3af82e374161d9513c7a4891c8c6fbc9d74**
 
-#### Container: tccr.io/truecharts/grafana:9.3.6@sha256:268c6a4b2da162f7471321821b88bcf4a5e0f782836fd9129d3fcfc2d7571abf (debian 11.6)
+#### Container: tccr.io/truecharts/grafana:9.3.6@sha256:d8bf3bb566deabe71269c0ebacc6c3af82e374161d9513c7a4891c8c6fbc9d74 (debian 11.6)
     
 
 **debian**
@@ -59,8 +59,7 @@
 | libfreetype6         |    CVE-2022-31782   |   LOW  |  2.10.4+dfsg-1+deb11u1 |  |
 | libgcrypt20         |    CVE-2021-33560   |   HIGH  |  1.8.7-6 |  |
 | libgcrypt20         |    CVE-2018-6829   |   LOW  |  1.8.7-6 |  |
-| libgnutls30         |    CVE-2023-0361   |   HIGH  |  3.7.1-5+deb11u2 | 3.7.1-5+deb11u3 |
-| libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u2 |  |
+| libgnutls30         |    CVE-2011-3389   |   LOW  |  3.7.1-5+deb11u3 |  |
 | libgssapi-krb5-2         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libk5crypto3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
 | libkrb5-3         |    CVE-2018-5709   |   LOW  |  1.18.3-6+deb11u3 |  |
