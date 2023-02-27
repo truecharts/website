@@ -2,6 +2,15 @@
 
 
 
+## [debian-bullseye-2.1.8](https://github.com/truecharts/charts/compare/debian-bullseye-2.1.7...debian-bullseye-2.1.8) (2023-02-27)
+
+### Chore
+
+- update container image tccr.io/truecharts/debian-bullseye to latest
+  
+  
+
+
 ## [debian-bullseye-2.1.7](https://github.com/truecharts/charts/compare/debian-bullseye-2.1.6...debian-bullseye-2.1.7) (2023-02-10)
 
 ### Fix
