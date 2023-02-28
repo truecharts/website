@@ -2,6 +2,11 @@
 
 
 
+## [prowlarr-9.0.0](https://github.com/truecharts/charts/compare/prowlarr-8.0.27...prowlarr-9.0.0) (2023-02-28)
+
+
+
+
 ## [prowlarr-8.0.27](https://github.com/truecharts/charts/compare/prowlarr-8.0.26...prowlarr-8.0.27) (2023-02-26)
 
 ### Chore
