@@ -3,14 +3,14 @@
 ##### Detected Containers
 
           docker.io/bitnami/node-exporter:1.5.0-debian-11-r28
-          docker.io/bitnami/kube-state-metrics:2.8.0-debian-11-r1
+          docker.io/bitnami/kube-state-metrics:2.8.1-debian-11-r0
           tccr.io/truecharts/kubectl:v1.26.0@sha256:6d6e0e50f28b961ed1c1c6a9c140553238641591fbdc9ac7c1a348636f78c552
 
 ##### Scan Results
 
-**Container: docker.io/bitnami/kube-state-metrics:2.8.0-debian-11-r1**
+**Container: docker.io/bitnami/kube-state-metrics:2.8.1-debian-11-r0**
 
-#### Container: docker.io/bitnami/kube-state-metrics:2.8.0-debian-11-r1 (debian 11.6)
+#### Container: docker.io/bitnami/kube-state-metrics:2.8.1-debian-11-r0 (debian 11.6)
     
 
 **debian**
