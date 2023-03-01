@@ -24,11 +24,11 @@
 | coreutils         |    CVE-2017-18018   |   LOW  |  8.32-4 |  |
 | curl         |    CVE-2022-42916   |   HIGH  |  7.74.0-1.3+deb11u5 |  |
 | curl         |    CVE-2022-43551   |   HIGH  |  7.74.0-1.3+deb11u5 |  |
-| curl         |    CVE-2023-23916   |   MEDIUM  |  7.74.0-1.3+deb11u5 |  |
+| curl         |    CVE-2023-23914   |   MEDIUM  |  7.74.0-1.3+deb11u5 |  |
+| curl         |    CVE-2023-23915   |   MEDIUM  |  7.74.0-1.3+deb11u5 |  |
+| curl         |    CVE-2023-23916   |   MEDIUM  |  7.74.0-1.3+deb11u5 | 7.74.0-1.3+deb11u7 |
 | curl         |    CVE-2021-22922   |   LOW  |  7.74.0-1.3+deb11u5 |  |
 | curl         |    CVE-2021-22923   |   LOW  |  7.74.0-1.3+deb11u5 |  |
-| curl         |    CVE-2023-23914   |   LOW  |  7.74.0-1.3+deb11u5 |  |
-| curl         |    CVE-2023-23915   |   LOW  |  7.74.0-1.3+deb11u5 |  |
 | gpgv         |    CVE-2022-3219   |   LOW  |  2.2.27-2+deb11u2 |  |
 | libapt-pkg6.0         |    CVE-2011-3374   |   LOW  |  2.2.4 |  |
 | libblkid1         |    CVE-2022-0563   |   LOW  |  2.36.1-8+deb11u1 |  |
@@ -49,11 +49,11 @@
 | libcom-err2         |    CVE-2022-1304   |   HIGH  |  1.46.2-2 |  |
 | libcurl4         |    CVE-2022-42916   |   HIGH  |  7.74.0-1.3+deb11u5 |  |
 | libcurl4         |    CVE-2022-43551   |   HIGH  |  7.74.0-1.3+deb11u5 |  |
-| libcurl4         |    CVE-2023-23916   |   MEDIUM  |  7.74.0-1.3+deb11u5 |  |
+| libcurl4         |    CVE-2023-23914   |   MEDIUM  |  7.74.0-1.3+deb11u5 |  |
+| libcurl4         |    CVE-2023-23915   |   MEDIUM  |  7.74.0-1.3+deb11u5 |  |
+| libcurl4         |    CVE-2023-23916   |   MEDIUM  |  7.74.0-1.3+deb11u5 | 7.74.0-1.3+deb11u7 |
 | libcurl4         |    CVE-2021-22922   |   LOW  |  7.74.0-1.3+deb11u5 |  |
 | libcurl4         |    CVE-2021-22923   |   LOW  |  7.74.0-1.3+deb11u5 |  |
-| libcurl4         |    CVE-2023-23914   |   LOW  |  7.74.0-1.3+deb11u5 |  |
-| libcurl4         |    CVE-2023-23915   |   LOW  |  7.74.0-1.3+deb11u5 |  |
 | libdb5.3         |    CVE-2019-8457   |   CRITICAL  |  5.3.28+dfsg1-0.8 |  |
 | libexpat1         |    CVE-2013-0340   |   LOW  |  2.2.10-2+deb11u5 |  |
 | libfreetype6         |    CVE-2022-31782   |   LOW  |  2.10.4+dfsg-1+deb11u1 |  |
