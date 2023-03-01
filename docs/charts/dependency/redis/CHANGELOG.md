@@ -2,6 +2,15 @@
 
 
 
+## [redis-6.0.1](https://github.com/truecharts/charts/compare/redis-6.0.0...redis-6.0.1) (2023-03-01)
+
+### Fix
+
+- disable manifestmanager
+  
+  
+
+
 ## [redis-6.0.0](https://github.com/truecharts/charts/compare/redis-5.0.33...redis-6.0.0) (2023-03-01)
 
 
