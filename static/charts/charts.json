@@ -1,6 +1,20 @@
 {
-    "totalCount": 799,
+    "totalCount": 800,
     "trains": [
+        {
+            "name": "dev",
+            "count": 1,
+            "charts": [
+                {
+                    "name": "testapp",
+                    "description": "testing app for truecharts",
+                    "train": "dev",
+                    "link": "https://truecharts.org/charts/stable/jackett",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
+                    "version": "0.0.1"
+                }
+            ]
+        },
         {
             "name": "stable",
             "count": 387,
