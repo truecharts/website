@@ -644,7 +644,8 @@ The intro needs improvement ;)
 |verysync                  |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |verysync                  |sync                  |PVC      |-              |/Sync                                                |Read/Write|Enabled                |
 |vikunja                   |files                 |PVC      |-              |/app/vikunja/files                                   |Read/Write|Enabled                |
-|vikunja                   |vikunja-config        |custom   |-              |/etc/nginx/conf.d/default.conf                       |Read/Write|Enabled                |
+|vikunja                   |vikunja-nginx         |configMap|-              |/etc/nginx/conf.d/default.conf                       |Read/Write|Enabled                |
+|vikunja                   |vikunja-config        |secret   |-              |/etc/vikunja                                         |Read/Write|Enabled                |
 |watchyourlan              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |wbo                       |data                  |PVC      |-              |/opt/app/server-data                                 |Read/Write|Enabled                |
 |webgrabplus               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -1369,5 +1370,11 @@ The intro needs improvement ;)
 |metallb     |-          |-       |-       |-                        |-         |Persistence not Defined|
 |prometheus  |-          |-       |-       |-                        |-         |Persistence not Defined|
 |traefik     |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
+
+## Dev
+
+| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
+|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|testapp |config  |PVC |-       |/config  |Read/Write|Enabled|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script

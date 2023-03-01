@@ -1230,6 +1230,12 @@ they should provide no or minimal conflicts without being changed.
 |blocky      |main        |main        |10315|HTTP    |Active             |-                                                                                             |
 |prometheus  |thanos      |thanos      |10901|HTTP    |Active             |-                                                                                             |
 
+## Dev
+
+| App | Service | Port Name | Port | Protocol | Status | Note |
+|:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
+|testapp |main    |main     |9117|http    |Active|-   |
+
 ## Official Apps
 
 > Please keep mind that this list is not updated automatically like the rest of this doc

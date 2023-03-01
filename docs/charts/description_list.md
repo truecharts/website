@@ -840,6 +840,16 @@ sidebar_position: 1
 
 ---
 
-> Total charts: **799**
+## Dev
+
+| App | Container Source | Description |
+|:----|:-----------------|:------------|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" align="top" width="25" height="25" /> [testapp](https://truecharts.org/charts/stable/jackett)|Not Found|testing app for truecharts|
+
+> Charts in this train: **1**
+
+---
+
+> Total charts: **800**
 
 > If you notice something wrong in the above info, you are more than welcome to submit a PR, updating Chart.yaml for the app in question
