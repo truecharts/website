@@ -1,5 +1,5 @@
 {
-    "totalCount": 800,
+    "totalCount": 799,
     "trains": [
         {
             "name": "dev",
@@ -17,7 +17,7 @@
         },
         {
             "name": "stable",
-            "count": 387,
+            "count": 388,
             "charts": [
                 {
                     "name": "actualserver",
@@ -2122,6 +2122,14 @@
                     "link": "https://truecharts.org/charts/stable/posterr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/posterr.png",
                     "version": "3.0.13"
+                },
+                {
+                    "name": "postgresql",
+                    "description": "PostgresSQL",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/postgresql",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/postgresql.png",
+                    "version": "12.0.0"
                 },
                 {
                     "name": "pretend-youre-xyzzy",
@@ -6347,7 +6355,7 @@
         },
         {
             "name": "dependency",
-            "count": 10,
+            "count": 8,
             "charts": [
                 {
                     "name": "clickhouse",
@@ -6355,7 +6363,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/clickhouse",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clickhouse.png",
-                    "version": "3.0.21"
+                    "version": "4.0.0"
                 },
                 {
                     "name": "collabora-online",
@@ -6363,7 +6371,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/collabora-online",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/collabora-online.png",
-                    "version": "14.0.18"
+                    "version": "15.0.0"
                 },
                 {
                     "name": "mariadb",
@@ -6371,7 +6379,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "5.0.35"
+                    "version": "6.0.0"
                 },
                 {
                     "name": "memcached",
@@ -6379,7 +6387,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "5.0.31"
+                    "version": "6.0.0"
                 },
                 {
                     "name": "mongodb",
@@ -6387,23 +6395,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "4.0.33"
-                },
-                {
-                    "name": "postgresql",
-                    "description": "PostgresSQL",
-                    "train": "dependency",
-                    "link": "https://truecharts.org/charts/dependency/postgresql",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/postgresql.png",
-                    "version": "11.0.31"
-                },
-                {
-                    "name": "promtail",
-                    "description": "Promtail is an agent which ships the contents of local logs to a Loki instance",
-                    "train": "dependency",
-                    "link": "https://truecharts.org/charts/dependency/promtail",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/promtail.png",
-                    "version": "6.0.17"
+                    "version": "5.0.0"
                 },
                 {
                     "name": "redis",
@@ -6411,7 +6403,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "5.0.33"
+                    "version": "6.0.3"
                 },
                 {
                     "name": "solr",
@@ -6427,7 +6419,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/subchart",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/subchart.png",
-                    "version": "3.0.12"
+                    "version": "4.0.0"
                 }
             ]
         }
