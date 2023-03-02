@@ -480,6 +480,7 @@ The intro needs improvement ;)
 |portainer-ce              |cache                 |emptyDir |-              |/.cache                                              |Read/Write|Enabled                |
 |posterr                   |config                |PVC      |-              |/usr/src/app/config                                  |Read/Write|Enabled                |
 |posterr                   |custom                |PVC      |-              |/usr/src/app/public/custom                           |Read/Write|Enabled                |
+|postgresql                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |pretend-youre-xyzzy       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |projectsend               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |projectsend               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -699,18 +700,14 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|clickhouse      |-           |-       |-            |-            |-         |Persistence not Defined|
-|collabora-online|-           |-       |-            |-            |-         |Persistence not Defined|
-|mariadb         |-           |-       |-            |-            |-         |Persistence not Defined|
-|memcached       |-           |-       |-            |-            |-         |Persistence not Defined|
-|mongodb         |-           |-       |-            |-            |-         |Persistence not Defined|
-|postgresql      |-           |-       |-            |-            |-         |Persistence not Defined|
-|promtail        |pods        |hostPath|/var/log/pods|/var/log/pods|Read Only |Enabled                |
-|promtail        |run         |hostPath|/run/promtail|/run/promtail|Read/Write|Enabled                |
-|promtail        |config      |secret  |-            |/etc/promtail|Read/Write|Enabled                |
-|redis           |redis-health|custom  |-            |/health      |Read/Write|Enabled                |
-|solr            |-           |-       |-            |-            |-         |Persistence not Defined|
-|subchart        |-           |-       |-            |-            |-         |Persistence not Defined|
+|clickhouse      |-           |-        |-       |-        |-         |Persistence not Defined|
+|collabora-online|-           |-        |-       |-        |-         |Persistence not Defined|
+|mariadb         |-           |-        |-       |-        |-         |Persistence not Defined|
+|memcached       |-           |-        |-       |-        |-         |Persistence not Defined|
+|mongodb         |-           |-        |-       |-        |-         |Persistence not Defined|
+|redis           |redis-health|configmap|-       |/health  |Read/Write|Enabled                |
+|solr            |-           |-        |-       |-        |-         |Persistence not Defined|
+|subchart        |-           |-        |-       |-        |-         |Persistence not Defined|
 
 ## Incubator
 
