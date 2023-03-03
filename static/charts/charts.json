@@ -6403,7 +6403,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "6.0.3"
+                    "version": "6.0.4"
                 },
                 {
                     "name": "solr",
