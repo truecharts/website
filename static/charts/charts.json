@@ -1,5 +1,5 @@
 {
-    "totalCount": 799,
+    "totalCount": 801,
     "trains": [
         {
             "name": "dev",
@@ -3127,15 +3127,23 @@
         },
         {
             "name": "enterprise",
-            "count": 6,
+            "count": 8,
             "charts": [
+                {
+                    "name": "authelia",
+                    "description": "Authelia is a Single Sign-On Multi-Factor portal for web apps",
+                    "train": "enterprise",
+                    "link": "https://truecharts.org/charts/enterprise/authelia",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
+                    "version": "15.0.0"
+                },
                 {
                     "name": "blocky",
                     "description": "Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written in Go",
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/blocky",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/blocky.png",
-                    "version": "4.0.24"
+                    "version": "5.0.0"
                 },
                 {
                     "name": "cert-manager",
@@ -3143,7 +3151,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/cert-manager",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png",
-                    "version": "0.0.7"
+                    "version": "1.0.0"
                 },
                 {
                     "name": "grafana",
@@ -3151,7 +3159,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "6.0.31"
+                    "version": "7.0.0"
                 },
                 {
                     "name": "metallb",
@@ -3159,7 +3167,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/metallb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png",
-                    "version": "7.0.12"
+                    "version": "8.0.0"
                 },
                 {
                     "name": "prometheus",
@@ -3167,7 +3175,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/prometheus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png",
-                    "version": "7.0.60"
+                    "version": "8.0.0"
                 },
                 {
                     "name": "traefik",
@@ -3175,7 +3183,15 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/traefik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
-                    "version": "16.0.16"
+                    "version": "17.0.0"
+                },
+                {
+                    "name": "vaultwarden",
+                    "description": "Unofficial Bitwarden compatible server written in Rust",
+                    "train": "enterprise",
+                    "link": "https://truecharts.org/charts/enterprise/vaultwarden",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png",
+                    "version": "20.0.0"
                 }
             ]
         },
