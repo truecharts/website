@@ -1360,6 +1360,7 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|authelia    |config     |PVC     |-       |/config                  |Read/Write|Enabled                |
 |blocky      |-          |-       |-       |-                        |-         |Persistence not Defined|
 |cert-manager|-          |-       |-       |-                        |-         |Persistence not Defined|
 |grafana     |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
@@ -1367,6 +1368,7 @@ The intro needs improvement ;)
 |metallb     |-          |-       |-       |-                        |-         |Persistence not Defined|
 |prometheus  |-          |-       |-       |-                        |-         |Persistence not Defined|
 |traefik     |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
+|vaultwarden |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
 
 ## Dev
 
