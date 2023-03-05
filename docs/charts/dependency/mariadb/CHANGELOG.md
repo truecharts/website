@@ -2,6 +2,16 @@
 
 
 
+## [mariadb-6.0.1](https://github.com/truecharts/charts/compare/mariadb-6.0.0...mariadb-6.0.1) (2023-03-05)
+
+### Fix
+
+- update dependency common linking ([#7746](https://github.com/truecharts/charts/issues/7746))
+  - disable manifestmanager
+  
+  
+
+
 ## [mariadb-6.0.0](https://github.com/truecharts/charts/compare/mariadb-5.0.35...mariadb-6.0.0) (2023-03-01)
 
 

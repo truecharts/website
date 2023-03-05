@@ -2,6 +2,16 @@
 
 
 
+## [subchart-4.0.1](https://github.com/truecharts/charts/compare/subchart-4.0.0...subchart-4.0.1) (2023-03-05)
+
+### Fix
+
+- update dependency common linking ([#7746](https://github.com/truecharts/charts/issues/7746))
+  - disable manifestmanager
+  
+  
+
+
 ## [subchart-4.0.0](https://github.com/truecharts/charts/compare/subchart-3.0.12...subchart-4.0.0) (2023-03-01)
 
 
