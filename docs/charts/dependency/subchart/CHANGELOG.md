@@ -2,6 +2,16 @@
 
 
 
+## [subchart-4.0.2](https://github.com/truecharts/charts/compare/subchart-4.0.1...subchart-4.0.2) (2023-03-05)
+
+### Fix
+
+- bump dependency train
+  - bump common on dependency train
+  
+  
+
+
 ## [subchart-4.0.1](https://github.com/truecharts/charts/compare/subchart-4.0.0...subchart-4.0.1) (2023-03-05)
 
 ### Fix
