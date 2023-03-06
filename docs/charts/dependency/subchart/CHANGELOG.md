@@ -2,6 +2,20 @@
 
 
 
+## [subchart-4.0.4](https://github.com/truecharts/charts/compare/subchart-4.0.3...subchart-4.0.4) (2023-03-06)
+
+### Chore
+
+- bump common
+  - bump dependency train ([#7748](https://github.com/truecharts/charts/issues/7748))
+  
+  ### Fix
+
+- update common with vct label fix ([#7750](https://github.com/truecharts/charts/issues/7750))
+  
+  
+
+
 ## [subchart-4.0.3](https://github.com/truecharts/charts/compare/subchart-4.0.2...subchart-4.0.3) (2023-03-05)
 
 ### Fix
