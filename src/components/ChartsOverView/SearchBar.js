@@ -7,7 +7,7 @@ const SearchBar = ({ placeHolder,searchTerm,handleSearch, setSelectedOption, vie
   return (
     <div style={{ display: 'flex', alignItems: 'center', padding: '16px' }}>
       <img
-        src={require('@site/static/img/favicon/android-chrome-512x512.png').default}
+        src={require('@site/static/img/1024.png').default}
         alt="TrueCharts logo"
         width="24"
         height="24"
