@@ -406,16 +406,15 @@ sidebar_position: 1
 
 | App | Container Source | Description |
 |:----|:-----------------|:------------|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/clickhouse.png" align="top" width="25" height="25" /> [clickhouse](https://truecharts.org/charts/dependency/clickhouse)                  |clickhouse/clickhouse-server|ClickHouse is a column-oriented database management system (DBMS) for online<br />analytical processing of queries (OLAP).|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/collabora-online.png" align="top" width="25" height="25" /> [collabora-online](https://truecharts.org/charts/dependency/collabora-online)|Not Found                   |An awesome Online Office suite.                                                                                           |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png" align="top" width="25" height="25" /> [mariadb](https://truecharts.org/charts/dependency/mariadb)                           |bitnami/mariadb             |Fast, reliable, scalable, and easy to use open-source relational database<br />system.                                    |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png" align="top" width="25" height="25" /> [memcached](https://truecharts.org/charts/dependency/memcached)                     |bitnami/memcached           |Memcached is a memory-backed database caching solution                                                                    |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png" align="top" width="25" height="25" /> [mongodb](https://truecharts.org/charts/dependency/mongodb)                           |bitnami/mongodb             |Fast, reliable, scalable, and easy to use open-source no-sql database system.                                             |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/redis.png" align="top" width="25" height="25" /> [redis](https://truecharts.org/charts/dependency/redis)                                 |bitnami/redis               |Open source, advanced key-value store.                                                                                    |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/solr.png" align="top" width="25" height="25" /> [solr](https://truecharts.org/charts/dependency/solr)                                    |bitnami/solr                |Apache Solr                                                                                                               |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/subchart.png" align="top" width="25" height="25" /> [subchart](https://truecharts.org/charts/dependency/subchart)                        |Not Found                   |This is only used as a subchart.                                                                                          |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/clickhouse.png" align="top" width="25" height="25" /> [clickhouse](https://truecharts.org/charts/dependency/clickhouse)|clickhouse/clickhouse-server|ClickHouse is a column-oriented database management system (DBMS) for online<br />analytical processing of queries (OLAP).|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png" align="top" width="25" height="25" /> [mariadb](https://truecharts.org/charts/dependency/mariadb)         |bitnami/mariadb             |Fast, reliable, scalable, and easy to use open-source relational database<br />system.                                    |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png" align="top" width="25" height="25" /> [memcached](https://truecharts.org/charts/dependency/memcached)   |bitnami/memcached           |Memcached is a memory-backed database caching solution                                                                    |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png" align="top" width="25" height="25" /> [mongodb](https://truecharts.org/charts/dependency/mongodb)         |bitnami/mongodb             |Fast, reliable, scalable, and easy to use open-source no-sql database system.                                             |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/redis.png" align="top" width="25" height="25" /> [redis](https://truecharts.org/charts/dependency/redis)               |bitnami/redis               |Open source, advanced key-value store.                                                                                    |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/solr.png" align="top" width="25" height="25" /> [solr](https://truecharts.org/charts/dependency/solr)                  |bitnami/solr                |Apache Solr                                                                                                               |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/subchart.png" align="top" width="25" height="25" /> [subchart](https://truecharts.org/charts/dependency/subchart)      |Not Found                   |This is only used as a subchart.                                                                                          |
 
-> Charts in this train: **8**
+> Charts in this train: **7**
 
 ---
 
@@ -851,6 +850,6 @@ sidebar_position: 1
 
 ---
 
-> Total charts: **801**
+> Total charts: **800**
 
 > If you notice something wrong in the above info, you are more than welcome to submit a PR, updating Chart.yaml for the app in question

@@ -579,14 +579,13 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|subchart        |main    |-        |-    |-       |Service is Disabled|-                                                |
-|mariadb         |main    |main     |3306 |TCP     |Active             |Potential conflict with: arma3exilemod           |
-|redis           |main    |main     |6379 |TCP     |Active             |Potential conflict with: tubearchivist-redisjson |
-|clickhouse      |main    |main     |8123 |http    |Active             |-                                                |
-|solr            |main    |main     |8983 |TCP     |Active             |-                                                |
-|collabora-online|main    |main     |10105|TCP     |Active             |-                                                |
-|memcached       |main    |main     |11211|TCP     |Active             |-                                                |
-|mongodb         |main    |main     |27017|TCP     |Active             |-                                                |
+|subchart  |main    |-        |-    |-       |Service is Disabled|-                                                |
+|mariadb   |main    |main     |3306 |TCP     |Active             |Potential conflict with: arma3exilemod           |
+|redis     |main    |main     |6379 |TCP     |Active             |Potential conflict with: tubearchivist-redisjson |
+|clickhouse|main    |main     |8123 |http    |Active             |-                                                |
+|solr      |main    |main     |8983 |TCP     |Active             |-                                                |
+|memcached |main    |main     |11211|tcp     |Active             |-                                                |
+|mongodb   |main    |main     |27017|TCP     |Active             |-                                                |
 
 ## Incubator
 
