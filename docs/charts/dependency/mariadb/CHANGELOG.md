@@ -2,6 +2,15 @@
 
 
 
+## [mariadb-6.0.4](https://github.com/truecharts/charts/compare/mariadb-6.0.3...mariadb-6.0.4) (2023-03-06)
+
+### Chore
+
+- bump dependency train ([#7748](https://github.com/truecharts/charts/issues/7748))
+  
+  
+
+
 ## [mariadb-6.0.3](https://github.com/truecharts/charts/compare/mariadb-6.0.2...mariadb-6.0.3) (2023-03-05)
 
 ### Fix
