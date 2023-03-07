@@ -2,6 +2,15 @@
 
 
 
+## [solr-3.0.6](https://github.com/truecharts/charts/compare/solr-3.0.5...solr-3.0.6) (2023-03-07)
+
+### Chore
+
+- bump common
+  
+  
+
+
 ## [solr-3.0.5](https://github.com/truecharts/charts/compare/solr-3.0.4...solr-3.0.5) (2023-03-07)
 
 ### Chore
