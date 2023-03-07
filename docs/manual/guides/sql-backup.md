@@ -14,16 +14,20 @@ You can use these details to login to e.g. `pgadmin`, one of the TC apps that le
 #!/bin/bash
 
 # get namespaces
-namespaces=$(k3s kubectl get pods -A | grep postgres | awk '{print $1}')
+namespaces=$(k3s kubectl get secrets -A | grep -E "dbcreds|cnpg-main-urls" | awk '{print $1, $2}')
 
 # iterate over namespaces
 ( printf "Application | Username | Password | Address | Port\n"
-for ns in $namespaces; do
+echo "$namespaces" | while read ns secret; do
     # extract application name
     app_name=$(echo "$ns" | sed 's/^ix-//')
-
+    if [ "$secret" = "dbcreds" ]; then
+        creds=$(k3s kubectl get secret/$secret --namespace "$ns" -o jsonpath='{.data.url}' | base64 -d)
+    else
+        creds=$(k3s kubectl get secret/$secret --namespace "$ns" -o jsonpath='{.data.std}' | base64 -d)
+    fi
+    
     # get username, password, addresspart, and port
-    creds=$(k3s kubectl get secret/dbcreds --namespace "$ns" -o jsonpath='{.data.url}' | base64 --decode)
     username=$(echo "$creds" | awk -F '//' '{print $2}' | awk -F ':' '{print $1}')
     password=$(echo "$creds" | awk -F ':' '{print $3}' | awk -F '@' '{print $1}')
     addresspart=$(echo "$creds" | awk -F '@' '{print $2}' | awk -F ':' '{print $1}')
@@ -83,7 +87,7 @@ In Truenas Scale, create a dataset that can house the script files. Put the `.sh
 
 ```bash
 cd /mnt/tank/scripts/databases
-chmod +x tcdbinfo.sh tcdbbackup.sh tcdbrestore.sh
+chmod +x tcdbinfo.sh tcdbbackup.sh
 ```
 
 ## Creating a database backup
