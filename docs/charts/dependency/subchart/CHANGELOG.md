@@ -2,6 +2,15 @@
 
 
 
+## [subchart-4.0.9](https://github.com/truecharts/charts/compare/subchart-4.0.5...subchart-4.0.9) (2023-03-07)
+
+### Fix
+
+- apply new common fixes to dependency train
+  
+  
+
+
 ## [subchart-4.0.5](https://github.com/truecharts/charts/compare/subchart-4.0.4...subchart-4.0.5) (2023-03-07)
 
 ### Chore
