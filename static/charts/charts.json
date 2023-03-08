@@ -3135,7 +3135,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/authelia",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
-                    "version": "15.0.5"
+                    "version": "15.0.8"
                 },
                 {
                     "name": "blocky",
@@ -3143,7 +3143,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/blocky",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/blocky.png",
-                    "version": "5.0.6"
+                    "version": "5.0.9"
                 },
                 {
                     "name": "cert-manager",
@@ -3151,7 +3151,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/cert-manager",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png",
-                    "version": "1.0.5"
+                    "version": "1.0.7"
                 },
                 {
                     "name": "grafana",
@@ -3159,7 +3159,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "7.0.6"
+                    "version": "7.0.8"
                 },
                 {
                     "name": "metallb",
@@ -3167,7 +3167,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/metallb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png",
-                    "version": "8.0.4"
+                    "version": "8.0.5"
                 },
                 {
                     "name": "prometheus",
@@ -3175,7 +3175,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/prometheus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png",
-                    "version": "8.0.5"
+                    "version": "8.0.6"
                 },
                 {
                     "name": "traefik",
@@ -3183,7 +3183,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/traefik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
-                    "version": "17.0.5"
+                    "version": "17.0.7"
                 },
                 {
                     "name": "vaultwarden",
@@ -3191,7 +3191,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/vaultwarden",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png",
-                    "version": "20.0.5"
+                    "version": "20.0.6"
                 }
             ]
         },
@@ -6379,7 +6379,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/clickhouse",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clickhouse.png",
-                    "version": "4.0.7"
+                    "version": "4.0.9"
                 },
                 {
                     "name": "mariadb",
@@ -6387,7 +6387,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "6.0.7"
+                    "version": "6.0.9"
                 },
                 {
                     "name": "memcached",
@@ -6395,7 +6395,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "6.0.7"
+                    "version": "6.0.9"
                 },
                 {
                     "name": "mongodb",
@@ -6403,7 +6403,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "5.0.7"
+                    "version": "5.0.9"
                 },
                 {
                     "name": "redis",
@@ -6411,7 +6411,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "6.0.13"
+                    "version": "6.0.14"
                 },
                 {
                     "name": "solr",
@@ -6419,7 +6419,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/solr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png",
-                    "version": "3.0.5"
+                    "version": "3.0.7"
                 },
                 {
                     "name": "subchart",
@@ -6427,7 +6427,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/subchart",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/subchart.png",
-                    "version": "4.0.4"
+                    "version": "4.0.9"
                 }
             ]
         }
