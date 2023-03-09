@@ -40,7 +40,6 @@ The intro needs improvement ;)
 |audiobookshelf            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |audiobookshelf            |audiobooks            |PVC      |-              |/audiobooks                                          |Read/Write|Enabled                |
 |audiobookshelf            |metadata              |PVC      |-              |/metadata                                            |Read/Write|Enabled                |
-|authelia                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |authentik                 |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
 |authentik                 |templates             |PVC      |-              |/templates                                           |Read/Write|Enabled                |
 |authentik                 |certs                 |PVC      |-              |/certs                                               |Read/Write|Enabled                |
@@ -641,7 +640,6 @@ The intro needs improvement ;)
 |uptimerobot-prometheus    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |valheim                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |valheim                   |backups               |PVC      |-              |/backups                                             |Read/Write|Enabled                |
-|vaultwarden               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |verysync                  |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |verysync                  |sync                  |PVC      |-              |/Sync                                                |Read/Write|Enabled                |
 |vikunja                   |files                 |PVC      |-              |/app/vikunja/files                                   |Read/Write|Enabled                |
