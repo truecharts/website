@@ -1,5 +1,5 @@
 {
-    "totalCount": 800,
+    "totalCount": 798,
     "trains": [
         {
             "name": "dev",
@@ -17,7 +17,7 @@
         },
         {
             "name": "stable",
-            "count": 388,
+            "count": 386,
             "charts": [
                 {
                     "name": "actualserver",
@@ -154,14 +154,6 @@
                     "link": "https://truecharts.org/charts/stable/audiobookshelf",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/audiobookshelf.png",
                     "version": "4.0.19"
-                },
-                {
-                    "name": "authelia",
-                    "description": "Authelia is a Single Sign-On Multi-Factor portal for web apps",
-                    "train": "stable",
-                    "link": "https://truecharts.org/charts/stable/authelia",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
-                    "version": "14.0.29"
                 },
                 {
                     "name": "authentik",
@@ -2868,14 +2860,6 @@
                     "version": "5.0.14"
                 },
                 {
-                    "name": "vaultwarden",
-                    "description": "Unofficial Bitwarden compatible server written in Rust",
-                    "train": "stable",
-                    "link": "https://truecharts.org/charts/stable/vaultwarden",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png",
-                    "version": "19.0.23"
-                },
-                {
                     "name": "verysync",
                     "description": "very sync is an easy-to-use multi-platform file synchronization software",
                     "train": "stable",
@@ -3135,7 +3119,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/authelia",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
-                    "version": "15.0.8"
+                    "version": "15.0.12"
                 },
                 {
                     "name": "blocky",
@@ -6411,7 +6395,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "6.0.14"
+                    "version": "6.0.15"
                 },
                 {
                     "name": "solr",
