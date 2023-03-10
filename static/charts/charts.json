@@ -3135,7 +3135,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/cert-manager",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png",
-                    "version": "1.0.7"
+                    "version": "1.0.8"
                 },
                 {
                     "name": "grafana",
