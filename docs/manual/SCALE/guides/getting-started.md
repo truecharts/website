@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Adding TrueCharts to SCALE
+# Getting Started
 
 TrueNAS SCALE has a catalog system which you can use to add [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog), such as the TrueCharts community catalog, in just a few minutes. 
 
@@ -13,7 +13,7 @@ TrueNAS SCALE has a catalog system which you can use to add [3rd party catalogs]
 - Make sure you have a working Internet connection and can reach `https://github.com`, `https://truecharts.org`, and `https://tccr.io` from the host system.
 - Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
 
-## Configuring Your App Pool
+### Configuring Your App Pool
 
 Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/) for your Apps. 
 
@@ -33,7 +33,7 @@ To add TrueCharts to your SCALE installation:
  Branch: `main`
  5.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
-## TrueCharts Trains Overview
+### TrueCharts Trains Overview
 
 TrueCharts has multiple "trains", or branches of apps which you can choose to install. Below is a summary of each train and its intended use.
 
@@ -44,9 +44,9 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
-## Video Guide
+### Video Guide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vomm8uvdCM0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
-## Notes
+### Notes
 - After adding the TrueCharts Repository You should start seeing available apps doesn't work right away, try clicking **Refresh Catalogs** on the Apps page.

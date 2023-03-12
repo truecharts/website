@@ -1,4 +1,4 @@
-# Postgres Database Info and Backup
+# Postgres Database Info and Export
 
 The information below is to help with current or future migration of the Postgres databases on your system running TrueCharts apps.
 
