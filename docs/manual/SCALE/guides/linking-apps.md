@@ -32,11 +32,11 @@ If you need to reach a different service (which is not often the case!), you nee
 
 - `$NAME-$APPNAME-$SVCNAME.ix-$NAME.svc.cluster.local`
 
-## List Internal Domain Names using TrueTool
+## List Internal Domain Names using HeavyScript
 
-TrueTool, a command-line utility, can list the internal DNS names of your apps using the command `./truetool.sh --dns`
+HeavyScript, a command-line utility, can list the internal DNS names of your apps using the command `./heavy_script.sh --dns`
 
-Follow the installation instructions on the github repo: https://github.com/truecharts/truetool
+Follow the installation instructions on the github repo: https://github.com/Heavybullets8/heavy_script
 
 ### Example
 

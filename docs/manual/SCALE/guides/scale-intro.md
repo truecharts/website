@@ -20,8 +20,7 @@ More specifically we have no control **AT ALL** about the following:
 Even if we made some tools and guides to make the above easier to use, we cannot provide **any** support for these features.
 
 More specifically:
-Anything related to TrueTool, is considered a "stop gap"-measure, to cover for inherent lacking functionality on TrueNAS SCALE.
-We understand some things are shit, but we do not have the manpower to go into endless support and feedback loops about those features.
+Anything related to TrueTool has been deprecated and is now referred to [HeavyScript](https://github.com/Heavybullets8/heavy_script), any guides still referring to TrueTool will be updated or replaced.
 
 
 ## Installing Apps

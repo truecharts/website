@@ -9,7 +9,7 @@ Apps in SCALE rely on several kinds of storage for core data:
 - You can use a folder mapped to the container or memory (``emptyDir``).
 - You can directly link an NFS share (``NFS Share``) to your app storage.
 
-You can choose during [App Installation](https://truecharts.org/manual/guides/Installing-an-App/) to use a PVC to store all of your app's data, or manually assign a hostpath.
+You can choose during [App Installation](https://truecharts.org/manual/SCALE/guides/Installing-an-App/) to use a PVC to store all of your app's data, or manually assign a hostpath.
 
 **Note:**  We only provide support for apps using **PVC** for core app storage, often named "config", but you can always add additional hostpaths for other storage, such as your media.
 
