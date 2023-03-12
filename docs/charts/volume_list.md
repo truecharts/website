@@ -704,7 +704,6 @@ The intro needs improvement ;)
 |mongodb   |-           |-        |-       |-        |-         |Persistence not Defined|
 |redis     |redis-health|configmap|-       |/health  |Read/Write|Enabled                |
 |solr      |-           |-        |-       |-        |-         |Persistence not Defined|
-|subchart  |-           |-        |-       |-        |-         |Persistence not Defined|
 
 ## Incubator
 

@@ -410,9 +410,8 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png" align="top" width="25" height="25" /> [mongodb](https://truecharts.org/charts/dependency/mongodb)         |bitnami/mongodb             |Fast, reliable, scalable, and easy to use open-source no-sql database system.                                             |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/redis.png" align="top" width="25" height="25" /> [redis](https://truecharts.org/charts/dependency/redis)               |bitnami/redis               |Open source, advanced key-value store.                                                                                    |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/solr.png" align="top" width="25" height="25" /> [solr](https://truecharts.org/charts/dependency/solr)                  |bitnami/solr                |Apache Solr                                                                                                               |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/subchart.png" align="top" width="25" height="25" /> [subchart](https://truecharts.org/charts/dependency/subchart)      |Not Found                   |This is only used as a subchart.                                                                                          |
 
-> Charts in this train: **7**
+> Charts in this train: **6**
 
 ---
 
@@ -848,6 +847,6 @@ sidebar_position: 1
 
 ---
 
-> Total charts: **798**
+> Total charts: **797**
 
 > If you notice something wrong in the above info, you are more than welcome to submit a PR, updating Chart.yaml for the app in question
