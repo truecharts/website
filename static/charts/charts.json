@@ -1,5 +1,5 @@
 {
-    "totalCount": 798,
+    "totalCount": 797,
     "trains": [
         {
             "name": "dev",
@@ -2105,7 +2105,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/portainer-ce",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/portainer-ce.png",
-                    "version": "3.0.13"
+                    "version": "3.0.14"
                 },
                 {
                     "name": "posterr",
@@ -3135,7 +3135,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/cert-manager",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png",
-                    "version": "1.0.8"
+                    "version": "1.0.10"
                 },
                 {
                     "name": "grafana",
@@ -3167,7 +3167,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/traefik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
-                    "version": "17.0.7"
+                    "version": "17.0.10"
                 },
                 {
                     "name": "vaultwarden",
@@ -6355,7 +6355,7 @@
         },
         {
             "name": "dependency",
-            "count": 7,
+            "count": 6,
             "charts": [
                 {
                     "name": "clickhouse",
@@ -6363,7 +6363,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/clickhouse",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clickhouse.png",
-                    "version": "4.0.9"
+                    "version": "4.0.10"
                 },
                 {
                     "name": "mariadb",
@@ -6371,7 +6371,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "6.0.9"
+                    "version": "7.0.0"
                 },
                 {
                     "name": "memcached",
@@ -6379,7 +6379,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "6.0.9"
+                    "version": "6.0.10"
                 },
                 {
                     "name": "mongodb",
@@ -6387,7 +6387,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "5.0.9"
+                    "version": "5.0.10"
                 },
                 {
                     "name": "redis",
@@ -6395,7 +6395,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "6.0.15"
+                    "version": "6.0.16"
                 },
                 {
                     "name": "solr",
@@ -6403,15 +6403,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/solr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png",
-                    "version": "3.0.7"
-                },
-                {
-                    "name": "subchart",
-                    "description": "This is only used as a subchart.",
-                    "train": "dependency",
-                    "link": "https://truecharts.org/charts/dependency/subchart",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/subchart.png",
-                    "version": "4.0.9"
+                    "version": "3.0.8"
                 }
             ]
         }
