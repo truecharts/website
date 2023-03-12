@@ -71,7 +71,7 @@ If the app uses a Postgresql database, we need to make a backup and restore that
 
 Make sure you have `pgAdmin` installed, as we'll be using it to make a backup and to restore the database. It's a TrueCharts app from the stable train. You can install it with all default settings, and it will work.
 
-Also make sure you have the database info script (`tcdbinfo.sh`) available on your server. Check the [Postgres DB info and restore](/docs/manual/guides/sql-backup.md) for these files.
+Also make sure you have the database info script (`tcdbinfo.sh`) available on your server. Check the [Postgres DB info and restore](/docs/manual/SCALE/guides/sql-backup.md) for these files.
 
 :::
 
@@ -95,15 +95,30 @@ Also make sure you have the database info script (`tcdbinfo.sh`) available on yo
 
 run the tcdbinfo.sh script to see the connection details for both the old and the new database, and set them up in pgAdmin.
 
+![tcdbinfo](/docs/manual/SCALE/guides/img/tcdbinfo.png)
+![PG Admin Connect](/docs/manual/SCALE/guides/img/pgadminconnect.png)
+
 ### Create database Backup
 
 In `pgAdmin`, right click `vaultwarden->Databases->vaultwarden` and click `Backup...`. Give the file a name (e.g. `vaultwarden.sql`) and click `Backup`.
+
+![PG Admin Select Backup](/docs/manual/SCALE/guides/img/pgadminbackupselect.png)
+![PG Admin Backuo](/docs/manual/SCALE/guides/img/pgadminbackup.png)
 
 ### Restore database backup
 
 In `pgAdmin`, right click `testwarden->Databases->vaultwarden` and click `Restore...`. Select the sql file (`vaultwarden.sql`).
 
+![PG Admin Restore](/docs/manual/SCALE/guides/img/pgadminrestore.png)
+![PG Admin Restore](/docs/manual/SCALE/guides/img/pgadminrestorepage1.png)
+
+
 On the 2nd tab page, select the first 3 options (`Pre-data`, `Data` and `Post-data`). On the last tab, select `Clean before restore`. Now click `Restore`.
+
+![PG Admin Restore](/docs/manual/SCALE/guides/img/pgadminrestorepage2.png)
+![PG Admin Restore](/docs/manual/SCALE/guides/img/pgadminrestorepage3.png)
+
+
 
 ## Migrate the PVCs
 

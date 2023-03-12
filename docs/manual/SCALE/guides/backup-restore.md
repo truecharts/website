@@ -3,11 +3,18 @@ sidebar_position: 15
 ---
 # Backup, Migrations and Restore
 
+:::warning Truetool deprecated in favor of HeavyScripts
+
+Please refer to [HeavyScript](https://github.com/Heavybullets8/heavy_script) for updates to TrueTool.
+
+:::
+
 :::caution Best Effort Policy
 
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation. 
 This guide has been thoroughly tested with TrueNAS SCALE 22.02.4.
 
+:::
 
 ## Requirements
 
