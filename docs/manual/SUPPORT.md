@@ -1,10 +1,26 @@
 # Support Policy
 
-## Platform Specific Support Policies
+## TrueCharts on TrueNAS SCALE
 
-Please check the additional support policy for your platform of choice, under its respective catagory on the website.
+TrueCharts aims to always support the latest version of TrueNAS SCALE.
+However, sometimes new versions of either TrueNAS or TrueCharts introduces breaking changes.
+This document highlights which versions of TrueCharts (or rather branches), support which versions of TrueNAS SCALE.
 
-### Train Specific Support Policy
+We also document which versions of TrueNAS will receive TrueCharts updates and for which versions we are accepting bug reports.
+
+### Supported Versions
+
+| TrueNAS version  | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes                                                                                                          |
+| ---------------- | -------- | ---------------------- | ------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------- | --- |
+| 22.02.4 or prior | `master` | :white_check_mark:     | :x:                       | :x:                   | Advised to update to 22.12.0 release of [TrueNAS SCALE](https://www.truenas.com/docs/scale/scalereleasenotes/) |     |
+| 22.12.0          | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Most Stable Release as of 2022-12-13                                                                           |
+| Nightly          | `master` | :white_check_mark:     | :x:                       | :white_check_mark:    | Please only submit bug reports during codefreeze                                                               |
+
+::: warning Support Guidelines
+
+Our [Discord](https://discord.gg/tVsPTHWTtr) support (the ticketing system inside #support) is primarily limited to what is covered by our written guides. This includes installing, linking and editing apps. This doesn't mean the actual setup of the application. All #support tickets covered by the staff are done so in a **best effort** policy.
+
+:::
 
 ## Stable Train Charts
 
@@ -20,7 +36,3 @@ may break at anytime and we're still going through many of the charts from unRAI
 charts on our [discord](https://discord.gg/tVsPTHWTtr). However we have an **#incubator-chat** channel for these apps to help get them running and/or receive feedback.
 With enough posivite feedback a chart can be promoted to `stable` train. Feedback about bugs is also accepted there which can be used to fix them.
 Assume anything in the `incubator` train is in beta and you're testing it. As well, anything installed in `incubator` will have to be REINSTALLED once it moves to the `stable` train.
-
-## Enterprise Train Charts
-
-To Be Done

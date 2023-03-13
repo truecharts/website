@@ -698,12 +698,12 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|clickhouse|-           |-        |-       |-        |-         |Persistence not Defined|
-|mariadb   |-           |-        |-       |-        |-         |Persistence not Defined|
-|memcached |-           |-        |-       |-        |-         |Persistence not Defined|
-|mongodb   |-           |-        |-       |-        |-         |Persistence not Defined|
-|redis     |redis-health|configmap|-       |/health  |Read/Write|Enabled                |
-|solr      |-           |-        |-       |-        |-         |Persistence not Defined|
+|clickhouse|-           |-        |-       |-               |-         |Persistence not Defined|
+|mariadb   |data        |PVC      |-       |/bitnami/mariadb|Read/Write|Enabled                |
+|memcached |-           |-        |-       |-               |-         |Persistence not Defined|
+|mongodb   |-           |-        |-       |-               |-         |Persistence not Defined|
+|redis     |redis-health|configmap|-       |/health         |Read/Write|Enabled                |
+|solr      |-           |-        |-       |-               |-         |Persistence not Defined|
 
 ## Incubator
 
