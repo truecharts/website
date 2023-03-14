@@ -80,14 +80,14 @@ Also make sure you have the database info script (`tcdbinfo.sh`) available on yo
   <div>
     <div>Some images in the right order, text details below.</div>
     <br/>
-    <img src="/img/tcdbinfo.png" alt="tcdbinfo" />
-    <img src="/img/pgadminconnect.png" alt="pgadmin" />
-    <img src="/img/pgadminbackupselect.png" alt="backupselect" />
-    <img src="/img/pgadminbackup.png" alt="backup" />
-    <img src="/img/pgadminrestore.png" alt="restore" />
-    <img src="/img/pgadminrestorepage1.png" alt="restorepage1" />
-    <img src="/img/pgadminrestorepage2.png" alt="restorepage2" />
-    <img src="/img/pgadminrestorepage3.png" alt="restorepage3" />
+    <img src="img/tcdbinfo.png" alt="tcdbinfo" />
+    <img src="img/pgadminconnect.png" alt="pgadmin" />
+    <img src="img/pgadminbackupselect.png" alt="backupselect" />
+    <img src="img/pgadminbackup.png" alt="backup" />
+    <img src="img/pgadminrestore.png" alt="restore" />
+    <img src="img/pgadminrestorepage1.png" alt="restorepage1" />
+    <img src="img/pgadminrestorepage2.png" alt="restorepage2" />
+    <img src="img/pgadminrestorepage3.png" alt="restorepage3" />
   </div>
 </details>
 
