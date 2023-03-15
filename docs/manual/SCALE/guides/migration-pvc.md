@@ -102,21 +102,18 @@ run the tcdbinfo.sh script to see the connection details for both the old and th
 
 In `pgAdmin`, right click `vaultwarden->Databases->vaultwarden` and click `Backup...`. Give the file a name (e.g. `vaultwarden.sql`) and click `Backup`.
 
-![PG Admin Select Backup](/docs/manual/SCALE/guides/img/pgadminbackupselect.png)
-![PG Admin Backuo](/docs/manual/SCALE/guides/img/pgadminbackup.png)
+
 
 ### Restore database backup
 
 In `pgAdmin`, right click `testwarden->Databases->vaultwarden` and click `Restore...`. Select the sql file (`vaultwarden.sql`).
 
-![PG Admin Restore](/docs/manual/SCALE/guides/img/pgadminrestore.png)
-![PG Admin Restore](/docs/manual/SCALE/guides/img/pgadminrestorepage1.png)
+
 
 
 On the 2nd tab page, select the first 3 options (`Pre-data`, `Data` and `Post-data`). On the last tab, select `Clean before restore`. Now click `Restore`.
 
-![PG Admin Restore](/docs/manual/SCALE/guides/img/pgadminrestorepage2.png)
-![PG Admin Restore](/docs/manual/SCALE/guides/img/pgadminrestorepage3.png)
+
 
 
 
