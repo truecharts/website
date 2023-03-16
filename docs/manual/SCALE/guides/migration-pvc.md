@@ -75,47 +75,31 @@ Also make sure you have the database info script (`tcdbinfo.sh`) available on yo
 
 :::
 
-<details>
-  <summary>See example images for this section</summary>
-  <div>
-    <div>Some images in the right order, text details below.</div>
-    <br/>
-    <img src="img/tcdbinfo.png" alt="tcdbinfo" />
-    <img src="img/pgadminconnect.png" alt="pgadmin" />
-    <img src="img/pgadminbackupselect.png" alt="backupselect" />
-    <img src="img/pgadminbackup.png" alt="backup" />
-    <img src="img/pgadminrestore.png" alt="restore" />
-    <img src="img/pgadminrestorepage1.png" alt="restorepage1" />
-    <img src="img/pgadminrestorepage2.png" alt="restorepage2" />
-    <img src="img/pgadminrestorepage3.png" alt="restorepage3" />
-  </div>
-</details>
-
 ### Configure database connections in pgAdmin
 
 run the tcdbinfo.sh script to see the connection details for both the old and the new database, and set them up in pgAdmin.
 
-![tcdbinfo](/docs/manual/SCALE/guides/img/tcdbinfo.png)
-![PG Admin Connect](/docs/manual/SCALE/guides/img/pgadminconnect.png)
+![tcdbinfo](img/tcdbinfo.png)
+![PG Admin Connect](img/pgadminconnect.png)
 
 ### Create database Backup
 
 In `pgAdmin`, right click `vaultwarden->Databases->vaultwarden` and click `Backup...`. Give the file a name (e.g. `vaultwarden.sql`) and click `Backup`.
 
-
+![PG Admin Select Backup](img/pgadminbackupselect.png)
+![PG Admin Backuo](img/pgadminbackup.png)
 
 ### Restore database backup
 
 In `pgAdmin`, right click `testwarden->Databases->vaultwarden` and click `Restore...`. Select the sql file (`vaultwarden.sql`).
 
-
-
+![PG Admin Restore](img/pgadminrestore.png)
+![PG Admin Restore](img/pgadminrestorepage1.png)
 
 On the 2nd tab page, select the first 3 options (`Pre-data`, `Data` and `Post-data`). On the last tab, select `Clean before restore`. Now click `Restore`.
 
-
-
-
+![PG Admin Restore](img/pgadminrestorepage2.png)
+![PG Admin Restore](img/pgadminrestorepage3.png)
 
 ## Migrate the PVCs
 
