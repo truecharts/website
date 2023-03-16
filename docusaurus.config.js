@@ -31,6 +31,8 @@ const config = {
       }
     }
   },
+  
+  scripts: [{src: 'https://etsy360.io/widgets/js/etsy360.js', defer: true, 'data-token': 'Hp7AsqZ186QdXVyxI1orK3BLvazTLeElZzdzPsMMnB1DacyhyjXNK5i14pFKRE8A'}],
 
   presets: [
     [
