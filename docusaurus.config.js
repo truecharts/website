@@ -19,6 +19,15 @@ const config = {
   organizationName: "truecharts", // Usually your GitHub org/user name.
   projectName: "website", // Usually your repo name.
 
+  scripts: [
+    {
+      src: "https://etsy360.io/widgets/js/etsy360.js",
+      defer: true,
+      "data-token":
+        "Hp7AsqZ186QdXVyxI1orK3BLvazTLeElZzdzPsMMnB1DacyhyjXNK5i14pFKRE8A",
+    },
+  ],
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -31,8 +40,6 @@ const config = {
       }
     }
   },
-  
-  scripts: [{src: 'https://etsy360.io/widgets/js/etsy360.js', defer: true, 'data-token': 'Hp7AsqZ186QdXVyxI1orK3BLvazTLeElZzdzPsMMnB1DacyhyjXNK5i14pFKRE8A'}],
 
   presets: [
     [
