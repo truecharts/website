@@ -22,4 +22,139 @@
   gap: 2em;
   align-items: center;
   justify-content: center;
+  flex-direction: row !important;
+}
+
+.container {
+  padding: 48px 64px;
+}
+.container > header > h1 {
+  font-weight: bolder !important;
+  font-size: 3.2rem !important;
+  line-height: 3rem;
+}
+.container p {
+  width: 85%;
+  font-size: 1.2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 36px;
+  width: 100%;
+  margin-top: 48px;
+}
+
+@media screen and (max-width: 900px) {
+  .grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.container h1 {
+  font-size: 3.5rem;
+}
+
+.animated_button {
+  background-color: transparent;
+  border-radius: 20px;
+  width: fit-content;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 64px;
+}
+
+@media screen and (max-width: 966px) {
+  .animated_button {
+    width: 100%;
+  }
+  .container p {
+    width: 100%;
+  }
+}
+
+.animated_button::before {
+  content: "";
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: conic-gradient(
+    transparent,
+    transparent,
+    transparent,
+    #326ee6
+  );
+  animation: animate 4s linear infinite;
+}
+.animated_button::after {
+  content: "";
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: conic-gradient(
+    transparent,
+    transparent,
+    transparent,
+    #d400df
+  );
+  animation: animate 4s linear infinite;
+  animation-delay: -2s;
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animated_button span {
+  position: absolute;
+  inset: 5px;
+  border-radius: 16px;
+  background-color: #0a1529;
+  z-index: 1;
+}
+
+.animated_button h2 {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+  font-size: 1.7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 32px 20px;
+}
+
+[data-theme="light"] .animated_button h2 {
+  color: #000;
+}
+
+[data-theme="light"] .animated_button span {
+  background-color: #fff;
+}
+
+.header__container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+.animated__lottie {
+  width: 100%;
+padding: 0px 120px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+
 }

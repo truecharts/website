@@ -1,0 +1,22 @@
+.link_item::before {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  height: 3px;
+  width: 100%;
+  background-color: var(--underline-navbar-item-color) !important;
+  transform: scaleX(0); /* Hide the underline initially */
+  transform-origin: left; /* Start the animation from the left */
+  transition: transform 0.3s ease-out;
+}
+
+.link_item:hover::before {
+  visibility: visible !important;
+  transform: scaleX(1) !important;
+}
+.link_item {
+  position: relative;
+  text-decoration: none !important;
+  color: var(--underline-navbar-item-color) !important;
+}

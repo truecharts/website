@@ -12,21 +12,12 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon/favicon.ico",
+  favicon: "svg/favicon.svg",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "truecharts", // Usually your GitHub org/user name.
   projectName: "website", // Usually your repo name.
-
-  scripts: [
-    {
-      src: "https://etsy360.io/widgets/js/etsy360.js",
-      defer: true,
-      "data-token":
-        "Hp7AsqZ186QdXVyxI1orK3BLvazTLeElZzdzPsMMnB1DacyhyjXNK5i14pFKRE8A",
-    },
-  ],
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -36,9 +27,9 @@ const config = {
     locales: ["en"],
     localeConfigs: {
       en: {
-        htmlLang: "en-GB"
-      }
-    }
+        htmlLang: "en-GB",
+      },
+    },
   },
 
   presets: [
@@ -47,47 +38,49 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl: "https://github.com/truecharts/website/tree/master/"
         },
         blog: {
-          routeBasePath: 'news',
+          routeBasePath: "news",
           editUrl: "https://github.com/truecharts/website/tree/master/",
-          path: 'news'
+          path: "news",
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css")
-        }
-      })
-    ]
+          customCss: require.resolve("./src/css/custom.css"),
+        },
+      }),
+    ],
   ],
   // https://gabrielcsapo.github.io/docusaurus-plugin-image-zoom/docs/getting-started/
   plugins: [
-    require.resolve("docusaurus-plugin-image-zoom"), 
+    require.resolve("docusaurus-plugin-image-zoom"),
     require.resolve("docusaurus-plugin-google-adsense"),
-    ['@docusaurus/plugin-ideal-image',
-    {
-      quality: 60,
-      max: 1030, // max resized image's size.
-      min: 640, // min resized image's size. if original is lower, use that size.
-      steps: 5, // the max number of images generated between min and max (inclusive)
-      disableInDev: false,
-    }],
+    [
+      "@docusaurus/plugin-ideal-image",
+      {
+        quality: 60,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 5, // the max number of images generated between min and max (inclusive)
+        disableInDev: false,
+      },
+    ],
   ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       googleAdsense: {
-        dataAdClient: "ca-pub-9270569596814796"
+        dataAdClient: "ca-pub-9270569596814796",
       },
       docs: {
         sidebar: {
           autoCollapseCategories: true,
-          hideable: true
-        }
+          hideable: true,
+        },
       },
       zoom: {
         selector: ".markdown :not(em) > img",
@@ -96,15 +89,19 @@ const config = {
           margin: 100,
           background: {
             light: "rgb(255, 255, 255)",
-            dark: "rgb(50, 50, 50)"
-          }
-        }
+            dark: "rgb(50, 50, 50)",
+          },
+        },
       },
       navbar: {
-        title: "TrueCharts",
+        title: "",
         logo: {
           alt: "TrueCharts logo",
-          src: "img/hotlink-ok/logo/Logo Export PNG Trans/webp/32.webp"
+          src: "svg/logo.svg",
+          style: {
+            marginLeft: "1.5rem",
+            marginRight: "1.5rem",
+          },
         },
         items: [
           { to: "/news", label: "News", position: "left" },
@@ -112,47 +109,37 @@ const config = {
             type: "doc",
             docId: "manual/intro",
             position: "left",
-            label: "Docs"
+            label: "Docs",
           },
-          {
-            type: "doc",
-            docId: "charts/description_list",
-            position: "left",
-            label: "Charts"
-          },
+
           {
             type: "localeDropdown",
-            position: "right"
+            position: "right",
           },
-          {
-            href: "https://github.com/truecharts/apps",
-            label: "GitHub",
-            position: "right"
-          }
-        ]
+        ],
       },
       footer: {
-        style: "dark",
+        style: "light",
         links: [
-			{
+          {
             title: "Other",
             items: [
               {
                 label: "FAQ",
-                href: "/manual/FAQ"
-              }
-            ]
+                href: "/manual/FAQ",
+              },
+            ],
           },
           {
             title: "Community",
             items: [
               {
                 label: "Twitter",
-                href: "https://twitter.com/useTrueCharts"
+                href: "https://twitter.com/useTrueCharts",
               },
               {
                 label: "Discord",
-                href: "https://discord.gg/tVsPTHWTtr"
+                href: "https://discord.gg/tVsPTHWTtr",
               },
               {
                 label: "Facebook",
@@ -160,33 +147,33 @@ const config = {
               },
               {
                 label: "Telegram",
-                href: "https://t.me/s/truecharts"
-              }
-            ]
+                href: "https://t.me/s/truecharts",
+              },
+            ],
           },
           {
             title: "Legal",
             items: [
               {
                 label: "Code of Conduct",
-                href: "/code_of_conduct"
+                href: "/code_of_conduct",
               },
               {
                 label: "License",
-                href: "/LICENSE"
+                href: "/LICENSE",
               },
               {
                 label: "Apach2-license",
-                href: "/Apach2-license"
-              }
-            ]
-          }
+                href: "/Apach2-license",
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TrueCharts`
+        copyright: `Copyright © ${new Date().getFullYear()} TrueCharts`,
       },
       prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme
+        darkTheme: darkCodeTheme,
       },
       algolia: {
         // The application ID provided by Algolia
@@ -195,10 +182,10 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: "996ff61cece86950829f65416b941711",
 
-        indexName: "truecharts"
+        indexName: "truecharts",
 
         //... other Algolia params
-      }
+      },
     }),
   webpack: {
     jsLoader: (isServer) => ({
@@ -219,9 +206,9 @@ const config = {
         module: {
           type: isServer ? "commonjs" : "es6",
         },
-	  },
-	  }),
-	  },
+      },
+    }),
+  },
 };
 
 module.exports = config;
