@@ -1,0 +1,73 @@
+.container {
+  padding: 48px 64px;
+}
+.container > header > h1 {
+  font-weight: bolder !important;
+  font-size: 3.2rem !important;
+  line-height: 3rem;
+}
+.container p {
+  width: 45%;
+  font-size: 1.2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 36px;
+  width: 100%;
+  margin-top: 48px;
+}
+
+.card {
+  width: 100%;
+  border-radius: 12px;
+  padding: 16px;
+  height: 100%;
+  text-align: left;
+  transition: 0.3s box-shadow ease-in-out;
+}
+
+.card > div {
+  border: 1px solid #9f9f9f;
+  width: 100%;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 0px;
+  justify-content: center;
+  transition: 0.3s border ease-in-out;
+}
+
+.card .img {
+  height: 100px;
+  object-fit: contain;
+  fill: #9f9f9f;
+  transition: 0.3s fill ease-in-out;
+}
+
+.card h2 {
+  margin-top: 12px;
+  margin-bottom: 14px;
+}
+.card p {
+  width: 100%;
+}
+.card:hover {
+  box-shadow: 0px 8px 24px rgba(192, 197, 203, 0.12),
+    0px 1px 3px rgba(180, 183, 187, 0.12);
+}
+
+.card:hover > div > .img {
+  fill: #326ee6;
+}
+.card:hover > div {
+  border: 1px solid #d400df;
+}
+
+@media screen and (max-width: 900px) {
+  .grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
