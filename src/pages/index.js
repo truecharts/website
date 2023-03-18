@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/manual/guides/Important-MUST-READ"
+            to="/manual/SCALE/guides/scale-intro"
           >
             TrueNAS SCALE - 5min ⏱️
           </Link>
