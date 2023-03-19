@@ -111,15 +111,10 @@ const config = {
             position: "left",
             label: "Docs",
           },
-
           {
             href: "https://www.etsy.com/shop/TrueCharts",
             label: "Merch/Store",
             position: "left"
-          },
-          {
-            type: "localeDropdown",
-            position: "right",
           },
         ],
       },
