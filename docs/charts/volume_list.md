@@ -1023,6 +1023,7 @@ The intro needs improvement ;)
 |livestreamdvr                  |hostpath4                  |PVC      |-                |/usr/local/share/twitchautomator/data/logs       |Read/Write|Enabled                |
 |llalon-github-backup           |backuplocation             |PVC      |-                |/home/docker/backups                             |Read/Write|Enabled                |
 |llalon-github-backup           |config                     |PVC      |-                |/home/docker/github-backup/config/               |Read/Write|Enabled                |
+|lldap                          |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |longvinter                     |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |longvinter                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |magicmirror2                   |config                     |PVC      |-                |/magicmirror2                                    |Read/Write|Enabled                |
