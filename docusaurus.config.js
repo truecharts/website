@@ -109,7 +109,13 @@ const config = {
             type: "doc",
             docId: "manual/intro",
             position: "left",
-            label: "Docs",
+            label: "Docs"
+          },
+          {
+            type: "doc",
+            docId: "charts/description_list",
+            position: "left",
+            label: "Charts"
           },
           {
             href: "https://www.etsy.com/shop/TrueCharts",
