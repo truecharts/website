@@ -3119,7 +3119,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/authelia",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
-                    "version": "15.0.13"
+                    "version": "15.1.0"
                 },
                 {
                     "name": "blocky",
