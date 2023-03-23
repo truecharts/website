@@ -1,13 +1,14 @@
 import React, { useState } from "react";
 import HelperUtil,{ViewOptions} from './HelperUtil.js';
 import DropDown from './DropDown.js';
+import logo from '@site/static/img/1024.png';
 
 const SearchBar = ({ placeHolder,searchTerm,handleSearch, setSelectedOption, view}) => {
 
   return (
     <div style={{ display: 'flex', alignItems: 'center', padding: '16px' }}>
       <img
-        src={require('@site/static/img/1024.png').default}
+        src={logo}
         alt="TrueCharts logo"
         width="24"
         height="24"

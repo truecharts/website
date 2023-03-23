@@ -12,8 +12,8 @@
     { name: 'List', value: 2 }
   ];
   export const TRAINS = [
-    { name: 'stable', emoji: '✅' },
     { name: 'enterprise', emoji: '👔'},
+    { name: 'stable', emoji: '✅' },
     { name: 'incubator', emoji: '⚠️' },
     { name: 'dependency', emoji: '🔨' }
   ];
