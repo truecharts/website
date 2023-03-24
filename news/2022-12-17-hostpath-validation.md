@@ -19,7 +19,7 @@ Keeping "hostPath validation" enabled and disable shares on any datasets that ar
 
 
 3. 
-Keeping "hostPath validation" enabled and keep shares enabled on any datasets that are also used with apps. Instead of hostPath, you can mount the dataset using the NFS option available on all TrueCharts apps.
+Keeping "hostPath validation" enabled and keep shares enabled on any datasets that are also used with apps. Instead of hostPath, you can mount the dataset using the [NFS option on all TrueCharts apps](https://truecharts.org/manual/SCALE/guides/nfs-share).
 
 
 The Option to disable "hostPath validation" can be found in Apps -> Settings -> Advanced Settings -> Enable Host Path Safety Checks

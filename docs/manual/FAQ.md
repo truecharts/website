@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 # F.A.Q. (Frequently Asked Questions)
+TrueCharts Frequently Asked Questions
 
 ## Why PVC is recommended over HostPath?
 
@@ -137,6 +138,6 @@ This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced S
 - Option 3.
 
   Validation *enabled*, ANY sharing service *enabled*.
-  You can mount paths on the host using the NFS option on all TrueCharts apps.
+  You can mount paths on the host using the [NFS option on all TrueCharts apps](https://truecharts.org/manual/SCALE/guides/nfs-share).
   With the caveat that if any app stores SQLite db file in the NFS, It's a matter of time to have it corrupted
   and the NFS overhead.
