@@ -25,16 +25,16 @@ Anything related to TrueTool has been deprecated and is now referred to [HeavySc
 
 ## Installing Apps
 
-Once you've added the TrueCharts Catalog to your SCALE installation, you can choose from [100s of apps](https://truecharts.org/charts/description_list) to install through the catalog user interface. 
+Once you've added the TrueCharts Catalog to your SCALE installation, you can choose from [100s of apps](https://truecharts.org/charts/description_list) to install through the catalog user interface.
 
 - Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to choose a storage pool for your Apps.
 - After creating your Apps pool, you'll be able to add the 3rd party TrueCharts catalog.
 
 ### Requirements
 
-- Your SCALE Apps has the [TrueCharts catalog](https://truecharts.org/manual/guides/Adding-TrueCharts/) added and meets the minimum system requirements.
+- Your SCALE Apps has the [TrueCharts catalog](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts) added and meets the [minimum system requirements](https://truecharts.org/manual/systemrequirements).
 - You have a working Internet connection and can reach GitHub and truecharts.org from the host system.
-- If you plan to add additional app storage to your app, review important information about [adding apps and host path validation](https://truecharts.org/manual/guides/add-storage-host-path-validation).
+- If you plan to add additional app storage to your app, review important information about [app storage and host path validation](https://truecharts.org/manual/SCALE/guides/add-storage).
 
 ### Adding the App
 
@@ -42,12 +42,12 @@ To add a new TrueCharts app to your SCALE installation:
 1. Click **Apps** from the SCALE menu
 2. Go to **Available Applications** at the top of the Apps page
 3. Find the app you wish to install using the search bar (or by scrolling through the catalog) and click **Install**
-4. [Configure your app](https://truecharts.org/manual/options/) for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**:  
-	**[Application Name:](https://truecharts.org/manual/options/application-name/)** Configure a custom name for your app and select a version to install.  
+4. [Configure your app](https://truecharts.org/manual/SCALE/options/) for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**:  
+	**[Application Name:](https://truecharts.org/manual/SCALE/options/application-name/)** Configure a custom name for your app and select a version to install.  
 	**General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.  
-	**[Networking & Services:](https://truecharts.org/manual/options/networking/)** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
-	**[Storage and Persistence:](https://truecharts.org/manual/options/storage/)** Configure core app storage and [add additional app storage](https://truecharts.org/manual/guides/add-storage-host-path-validation).  
-	**[Ingress:](https://truecharts.org/manual/options/ingress/)** For TrueCharts apps you can configure [Ingress with Traefik](https://truecharts.org/manual/guides/add-ingress) to easily proxy Internet traffic to your app.  
+	**[Networking & Services:](https://truecharts.org/manual/SCALE/options/networking/)** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
+	**[Storage and Persistence:](https://truecharts.org/manual/SCALE/options/storage/)** Configure core app storage and [add additional app storage](https://truecharts.org/manual/SCALE/guides/add-storage).  
+	**[Ingress:](https://truecharts.org/manual/SCALE/options/ingress/)** For TrueCharts apps you can configure [Ingress with Traefik](https://truecharts.org/charts/enterprise/traefik/how-to) to easily proxy Internet traffic to your app.  
 	**Security & Permissions:** Configure PUID, fsGroup, and other security and file permissions for your app.
 	**Other Options:** You can also configure GPU support, addons (such as adding a CodeServer for easy file editing), and advanced app settings.
 5. Once you've finished configuring your app, click **Install** to start the deployment process.
@@ -71,9 +71,9 @@ Editing Apps is possible since 21.08, although it has a slightly different GUI i
 ### Requirements
 
 - Make sure your storage-pool is created and working
-- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Adding TrueCharts to SCALE](/manual/guides/Adding-TrueCharts/)
+- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](https://truecharts.org/manual/SCALE/guides/getting-started#configuring-your-app-pool)
 - Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
-- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/manual/guides/Adding-TrueCharts/)
+- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts)
 - Make sure your App is installed and, preferably, working
 
 ### Editing the App

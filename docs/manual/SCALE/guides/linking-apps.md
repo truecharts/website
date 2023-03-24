@@ -34,7 +34,7 @@ If you need to reach a different service (which is not often the case!), you nee
 
 ## List Internal Domain Names using HeavyScript
 
-HeavyScript, a command-line utility, can list the internal DNS names of your apps using the command `./heavy_script.sh --dns`
+HeavyScript, a command-line utility, can list the internal DNS names of your apps using the command `heavyscript --dns`
 
 Follow the installation instructions on the github repo: https://github.com/Heavybullets8/heavy_script
 

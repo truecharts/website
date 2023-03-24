@@ -12,8 +12,8 @@ we can offer active support at the time. You can of course use host path for you
 
 ## How can I access data inside PVC?
 
-You can use [truetool](https://github.com/truecharts/truetool) and mount the PVC and un-mount once you finish.
-Use your prefered editor/explorer to do any changes you want.
+You can use [HeavyScript](https://github.com/Heavybullets8/heavy_script) to mount the PVC and un-mount once you finish.
+Use your preferred editor/explorer to do any changes you want.
 You need to make sure permissions stay the same, or the app might not be able to access the files.
 
 ## Do we support ACL's for HostPath storage?
