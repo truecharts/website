@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 # F.A.Q. (Frequently Asked Questions)
+TrueCharts Frequently Asked Questions
 
 ## Why PVC is recommended over HostPath?
 
@@ -11,8 +12,8 @@ we can offer active support at the time. You can of course use host path for you
 
 ## How can I access data inside PVC?
 
-You can use [truetool](https://github.com/truecharts/truetool) and mount the PVC and un-mount once you finish.
-Use your prefered editor/explorer to do any changes you want.
+You can use [HeavyScript](https://github.com/Heavybullets8/heavy_script) to mount the PVC and un-mount once you finish.
+Use your preferred editor/explorer to do any changes you want.
 You need to make sure permissions stay the same, or the app might not be able to access the files.
 
 ## Do we support ACL's for HostPath storage?
@@ -137,6 +138,6 @@ This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced S
 - Option 3.
 
   Validation *enabled*, ANY sharing service *enabled*.
-  You can mount paths on the host using the NFS option on all TrueCharts apps.
+  You can mount paths on the host using the [NFS option on all TrueCharts apps](https://truecharts.org/manual/SCALE/guides/nfs-share).
   With the caveat that if any app stores SQLite db file in the NFS, It's a matter of time to have it corrupted
   and the NFS overhead.
