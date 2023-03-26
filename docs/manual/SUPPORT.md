@@ -34,5 +34,5 @@ please report them to our [github](https://github.com/truecharts/charts/issues/n
 Our support policy for `incubator` train charts is different for those on the `stable` train. Those charts are work in progress,
 may break at anytime and we're still going through many of the charts from unRAID. We won't accept support tickets on our discord for `incubator` train
 charts on our [discord](https://discord.gg/tVsPTHWTtr). However we have an **#incubator-chat** channel for these apps to help get them running and/or receive feedback.
-With enough positive feedback a chart can be promoted to `stable` train. Feedback about bugs is also accepted there which can be used to fix them.
+With enough posivite feedback a chart can be promoted to `stable` train. Feedback about bugs is also accepted there which can be used to fix them.
 Assume anything in the `incubator` train is in beta and you're testing it. As well, anything installed in `incubator` will have to be REINSTALLED once it moves to the `stable` train.
