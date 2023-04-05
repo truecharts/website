@@ -2,6 +2,15 @@
 
 
 
+## [mongodb-6.0.1](https://github.com/truecharts/charts/compare/mongodb-6.0.0...mongodb-6.0.1) (2023-04-05)
+
+### Chore
+
+- common bump to .32
+  
+  
+
+
 ## [mongodb-6.0.0](https://github.com/truecharts/charts/compare/mongodb-5.0.10...mongodb-6.0.0) (2023-03-19)
 
 ### Feat

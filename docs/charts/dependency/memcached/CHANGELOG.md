@@ -2,6 +2,15 @@
 
 
 
+## [memcached-6.0.12](https://github.com/truecharts/charts/compare/memcached-6.0.11...memcached-6.0.12) (2023-04-05)
+
+### Chore
+
+- common bump to .32
+  
+  
+
+
 ## [memcached-6.0.11](https://github.com/truecharts/charts/compare/memcached-6.0.10...memcached-6.0.11) (2023-03-19)
 
 ### Feat
