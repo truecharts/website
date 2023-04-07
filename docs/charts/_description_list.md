@@ -821,6 +821,16 @@ sidebar_position: 1
 
 ---
 
+## Dev
+
+| App | Container Source | Description |
+|:----|:-----------------|:------------|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" align="top" width="25" height="25" /> [testapp](https://truecharts.org/charts/stable/jackett)|Not Found|testing app for truecharts|
+
+> Charts in this train: **1**
+
+---
+
 ## Enterprise
 
 | App | Container Source | Description |
@@ -835,16 +845,6 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" align="top" width="25" height="25" /> [vaultwarden](https://truecharts.org/charts/enterprise/vaultwarden)   |docker.io/vaultwarden/server|Unofficial Bitwarden compatible server written in Rust                                                                                                                                                                                                                 |
 
 > Charts in this train: **8**
-
----
-
-## Dev
-
-| App | Container Source | Description |
-|:----|:-----------------|:------------|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png" align="top" width="25" height="25" /> [testapp](https://truecharts.org/charts/stable/jackett)|Not Found|testing app for truecharts|
-
-> Charts in this train: **1**
 
 ---
 

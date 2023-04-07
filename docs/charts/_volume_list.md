@@ -1353,6 +1353,12 @@ The intro needs improvement ;)
 |zoneminder                     |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zoneminder                     |datapath                   |PVC      |-                |/var/cache/zoneminder                            |Read/Write|Enabled                |
 
+## Dev
+
+| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
+|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|testapp |config  |PVC |-       |/config  |Read/Write|Enabled|
+
 ## Enterprise
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
@@ -1366,11 +1372,5 @@ The intro needs improvement ;)
 |prometheus  |-          |-       |-       |-                        |-         |Persistence not Defined|
 |traefik     |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
 |vaultwarden |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
-
-## Dev
-
-| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
-|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|testapp |config  |PVC |-       |/config  |Read/Write|Enabled|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
