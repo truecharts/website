@@ -3119,7 +3119,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/authelia",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
-                    "version": "15.1.1"
+                    "version": "15.1.2"
                 },
                 {
                     "name": "blocky",
@@ -3127,7 +3127,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/blocky",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/blocky.png",
-                    "version": "5.0.11"
+                    "version": "5.0.12"
                 },
                 {
                     "name": "cert-manager",
@@ -3135,7 +3135,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/cert-manager",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png",
-                    "version": "1.0.15"
+                    "version": "1.0.16"
                 },
                 {
                     "name": "grafana",
@@ -3143,7 +3143,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "7.0.12"
+                    "version": "7.0.13"
                 },
                 {
                     "name": "metallb",
@@ -3151,7 +3151,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/metallb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png",
-                    "version": "8.0.8"
+                    "version": "8.0.9"
                 },
                 {
                     "name": "prometheus",
@@ -3159,7 +3159,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/prometheus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png",
-                    "version": "8.0.10"
+                    "version": "8.0.11"
                 },
                 {
                     "name": "traefik",
@@ -3167,7 +3167,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/traefik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
-                    "version": "17.0.15"
+                    "version": "17.0.16"
                 },
                 {
                     "name": "vaultwarden",
@@ -3175,7 +3175,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/vaultwarden",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png",
-                    "version": "20.0.8"
+                    "version": "20.0.9"
                 }
             ]
         },
