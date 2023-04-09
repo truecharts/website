@@ -59,22 +59,17 @@ Please only report missed updates when 7 days have passed after the new *contain
 
 ## Isn't there more documentation for a chart?
 
-If it's not on our website or the discord, we (sadly) do not.
-There might be other sources for documentation however!
-It's of no value to ask about it, because if we had, it would already be there...
+If it's not on our website or the discord, we (sadly) do not. There might be other sources for documentation however! If you'd like to create a guide for the website, please submit a PR on [this](https://github.com/truecharts/website/tree/main/docs/charts) repo!
 
 ## I would like another application to be added, how do I get it?
 
-Please file an issue on [Github](https://github.com/truecharts/charts) about it,
-after checking to make sure it isn't requested already.
-Keep in mind, that a request for an app is not guaranteed to be added.
-Request is only there for developers to know what people would like to see added.
+First, please verify that an issue on [GitHub](https://github.com/truecharts/charts) for this same application hasn't already been created. If there's no request for the application, please create a [new issue]([url](https://github.com/truecharts/charts/issues/new?assignees=&labels=New-App&template=app_request.yaml&title=%5BAdd%5D%3A+)).
+Keep in mind, that a request for an app is not guaranteed to be added. The requests are only tracked so developers know what people would like to see added. Upvote applications that you'd like to added!
 
 ## How do I know if there are Breaking Changes?
 
 TrueCharts uses Semantic Versioning on the aspects of the chart that TrueCharts has changed.
-Some upstream **containers** use `latest` tags or poor versioning schemes so updates aren't always
-clear if they contain breaking changes, but be sure to check the **changelog** for each chart before updating.
+Some upstream **containers** use `latest` tags or poor versioning schemes so updates aren't always clear if they contain breaking changes. Be sure to check the **changelog** for each chart before updating.
 
 ## How do I tell that this update is a Major and potentially breaking change?
 
@@ -84,9 +79,9 @@ Major changes are marked by a change in the first digit of the version. eg. 13.2
 
 ## What to do before trying a breaking change update?
 
-Take backups beforehand with Truetool.
+Take backups beforehand with [HeavyScript](https://github.com/Heavybullets8/heavy_script).
 
-## Does truetool auto-updates major changes?
+## Does HeavyScript auto-updates major changes?
 
 Depending on the flags you used. We recommend to **NOT** use the `-U` flag.
 If you use it, it will update to major version changes.
@@ -106,8 +101,7 @@ You most likely will have to reach to the upstream support channels for that.
 
 ## Why is my OpenVPN password not working?
 
-Don't use $ in your passwords, it won't work due to an upstream
-[bug](https://github.com/dperson/openvpn-client/issues/376) in OpenVPN container.
+Don't use `$` in your passwords, it won't work due to an upstream [bug](https://github.com/dperson/openvpn-client/issues/376) in the OpenVPN container.
 
 ## Why does an beta-only container is in stable train?
 
