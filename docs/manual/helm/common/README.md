@@ -161,32 +161,29 @@ All of the below values are applied on all pods/containers, but can be overridde
 This is so, you can have a single point to define the values from the scale UI,
 but still have the ability to override them on the pod/container level, in case you need to.
 
-| Key                                                                 |   Type    | Required | Helm Template |  Default  | Description                              |
-| :------------------------------------------------------------------ | :-------: | :------: | :-----------: | :-------: | :--------------------------------------- |
-| .Values.securityContext                                             |  `dict`   |    ✅    |      ❌       | See below | Security Context                         |
-| .Values.securityContext.container                                   |  `dict`   |    ✅    |      ❌       | See below | Security Context for containers          |
-| .Values.securityContext.container.PUID                              |   `int`   |    ✅    |      ❌       | See below | PUID (Only applied when running as root) |
-| .Values.securityContext.container.UMASK                             | `string`  |    ✅    |      ❌       | See below | UMASK                                    |
-| .Values.securityContext.container.runAsNonRoot                      | `boolean` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.runAsUser                         |   `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.runAsGroup                        |   `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.readOnlyRootFilesystem            | `boolean` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.allowPrivilegeEscalation          | `boolean` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.privileged                        | `boolean` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile                    |  `dict`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile.type               | `string`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile.profile            | `string`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities                      |  `dict`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities.add                  |  `list`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities.drop                 |  `list`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities.disableAutoCapCHOWN  | `boolean` |    ❌    |      ❌       | See below | Check (container/securityContext.md)     |
-| .Values.securityContext.container.capabilities.disableAutoCapSETUID | `boolean` |    ❌    |      ❌       | See below | Check (container/securityContext.md)     |
-| .Values.securityContext.container.capabilities.disableAutoCapSETGID | `boolean` |    ❌    |      ❌       | See below | Check (container/securityContext.md)     |
-| .Values.securityContext.pod                                         |  `dict`   |    ✅    |      ❌       | See below | Security Context for pods                |
-| .Values.securityContext.pod.fsGroup                                 |   `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.fsGroupChangePolicy                     | `string`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.supplementalGroup                       |  `list`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.sysctls                                 |  `list`   |    ✅    |      ❌       | See below |                                          |
+| Key                                                        |   Type    | Required | Helm Template |  Default  | Description                              |
+| :--------------------------------------------------------- | :-------: | :------: | :-----------: | :-------: | :--------------------------------------- |
+| .Values.securityContext                                    |  `dict`   |    ✅    |      ❌       | See below | Security Context                         |
+| .Values.securityContext.container                          |  `dict`   |    ✅    |      ❌       | See below | Security Context for containers          |
+| .Values.securityContext.container.PUID                     |   `int`   |    ✅    |      ❌       | See below | PUID (Only applied when running as root) |
+| .Values.securityContext.container.UMASK                    | `string`  |    ✅    |      ❌       | See below | UMASK                                    |
+| .Values.securityContext.container.runAsNonRoot             | `boolean` |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.runAsUser                |   `int`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.runAsGroup               |   `int`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.readOnlyRootFilesystem   | `boolean` |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.allowPrivilegeEscalation | `boolean` |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.privileged               | `boolean` |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.seccompProfile           |  `dict`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.seccompProfile.type      | `string`  |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.seccompProfile.profile   | `string`  |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.capabilities             |  `dict`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.capabilities.add         |  `list`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.capabilities.drop        |  `list`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.pod                                |  `dict`   |    ✅    |      ❌       | See below | Security Context for pods                |
+| .Values.securityContext.pod.fsGroup                        |   `int`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.pod.fsGroupChangePolicy            | `string`  |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.pod.supplementalGroup              |  `list`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.pod.sysctls                        |  `list`   |    ✅    |      ❌       | See below |                                          |
 
 <!-- TODO: Improve descriptions -->
 
@@ -211,9 +208,6 @@ securityContext:
       add: []
       drop:
         - ALL
-      disableAutoCapCHOWN: false
-      disableAutoCapSETUID: false
-      disableAutoCapSETGID: false
   # -- Pod security context for all pods
   # Can be overruled per pod
   pod:
