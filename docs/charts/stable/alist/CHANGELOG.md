@@ -2,6 +2,15 @@
 
 
 
+## [alist-5.0.0](https://github.com/truecharts/charts/compare/alist-4.0.21...alist-5.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [alist-4.0.21](https://github.com/truecharts/charts/compare/alist-4.0.20...alist-4.0.21) (2023-02-25)
 
 ### Chore

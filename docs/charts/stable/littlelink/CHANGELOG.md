@@ -2,6 +2,15 @@
 
 
 
+## [littlelink-9.0.0](https://github.com/truecharts/charts/compare/littlelink-8.0.23...littlelink-9.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [littlelink-8.0.23](https://github.com/truecharts/charts/compare/littlelink-8.0.22...littlelink-8.0.23) (2023-02-26)
 
 ### Chore

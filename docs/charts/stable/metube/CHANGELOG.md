@@ -2,6 +2,15 @@
 
 
 
+## [metube-7.0.0](https://github.com/truecharts/charts/compare/metube-6.0.0...metube-7.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [metube-6.0.0](https://github.com/truecharts/charts/compare/metube-5.0.2...metube-6.0.0) (2023-02-20)
 
 

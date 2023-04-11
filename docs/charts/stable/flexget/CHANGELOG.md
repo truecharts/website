@@ -2,6 +2,15 @@
 
 
 
+## [flexget-5.0.0](https://github.com/truecharts/charts/compare/flexget-4.0.25...flexget-5.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [flexget-4.0.25](https://github.com/truecharts/charts/compare/flexget-4.0.24...flexget-4.0.25) (2023-02-24)
 
 ### Chore

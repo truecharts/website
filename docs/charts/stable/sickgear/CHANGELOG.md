@@ -2,6 +2,15 @@
 
 
 
+## [sickgear-7.0.0](https://github.com/truecharts/charts/compare/sickgear-6.0.4...sickgear-7.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [sickgear-6.0.4](https://github.com/truecharts/charts/compare/sickgear-6.0.3...sickgear-6.0.4) (2023-02-27)
 
 ### Chore
