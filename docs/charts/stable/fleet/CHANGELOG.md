@@ -2,6 +2,15 @@
 
 
 
+## [fleet-7.0.1](https://github.com/truecharts/charts/compare/fleet-7.0.0...fleet-7.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [fleet-7.0.0](https://github.com/truecharts/charts/compare/fleet-6.0.25...fleet-7.0.0) (2023-04-11)
 
 ### Feat

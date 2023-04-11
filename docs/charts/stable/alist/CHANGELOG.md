@@ -2,6 +2,15 @@
 
 
 
+## [alist-5.0.1](https://github.com/truecharts/charts/compare/alist-5.0.0...alist-5.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [alist-5.0.0](https://github.com/truecharts/charts/compare/alist-4.0.21...alist-5.0.0) (2023-04-11)
 
 ### Feat

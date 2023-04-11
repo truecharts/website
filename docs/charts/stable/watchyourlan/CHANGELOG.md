@@ -2,6 +2,15 @@
 
 
 
+## [watchyourlan-4.0.1](https://github.com/truecharts/charts/compare/watchyourlan-4.0.0...watchyourlan-4.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [watchyourlan-4.0.0](https://github.com/truecharts/charts/compare/watchyourlan-3.1.11...watchyourlan-4.0.0) (2023-04-11)
 
 ### Feat

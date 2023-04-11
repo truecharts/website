@@ -2,6 +2,15 @@
 
 
 
+## [plex-auto-languages-4.0.1](https://github.com/truecharts/charts/compare/plex-auto-languages-4.0.0...plex-auto-languages-4.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [plex-auto-languages-4.0.0](https://github.com/truecharts/charts/compare/plex-auto-languages-3.0.9...plex-auto-languages-4.0.0) (2023-04-11)
 
 ### Feat

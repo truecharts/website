@@ -2,6 +2,15 @@
 
 
 
+## [hedgedoc-8.0.1](https://github.com/truecharts/charts/compare/hedgedoc-8.0.0...hedgedoc-8.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [hedgedoc-8.0.0](https://github.com/truecharts/charts/compare/hedgedoc-7.0.31...hedgedoc-8.0.0) (2023-04-11)
 
 ### Feat

@@ -2,6 +2,15 @@
 
 
 
+## [trilium-notes-8.0.1](https://github.com/truecharts/charts/compare/trilium-notes-8.0.0...trilium-notes-8.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [trilium-notes-8.0.0](https://github.com/truecharts/charts/compare/trilium-notes-7.0.13...trilium-notes-8.0.0) (2023-04-11)
 
 ### Feat

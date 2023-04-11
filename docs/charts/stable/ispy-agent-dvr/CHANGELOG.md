@@ -2,6 +2,15 @@
 
 
 
+## [ispy-agent-dvr-5.0.1](https://github.com/truecharts/charts/compare/ispy-agent-dvr-5.0.0...ispy-agent-dvr-5.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [ispy-agent-dvr-5.0.0](https://github.com/truecharts/charts/compare/ispy-agent-dvr-4.0.19...ispy-agent-dvr-5.0.0) (2023-04-11)
 
 ### Feat

@@ -2,6 +2,15 @@
 
 
 
+## [minio-6.0.1](https://github.com/truecharts/charts/compare/minio-6.0.0...minio-6.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [minio-6.0.0](https://github.com/truecharts/charts/compare/minio-5.0.21...minio-6.0.0) (2023-04-11)
 
 ### Feat

@@ -2,6 +2,15 @@
 
 
 
+## [kitchenowl-4.0.1](https://github.com/truecharts/charts/compare/kitchenowl-4.0.0...kitchenowl-4.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [kitchenowl-4.0.0](https://github.com/truecharts/charts/compare/kitchenowl-3.1.3...kitchenowl-4.0.0) (2023-04-11)
 
 ### Feat

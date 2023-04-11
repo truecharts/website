@@ -2,6 +2,15 @@
 
 
 
+## [appdaemon-12.0.1](https://github.com/truecharts/charts/compare/appdaemon-12.0.0...appdaemon-12.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [appdaemon-12.0.0](https://github.com/truecharts/charts/compare/appdaemon-11.0.11...appdaemon-12.0.0) (2023-04-11)
 
 ### Feat

@@ -2,6 +2,15 @@
 
 
 
+## [discordgsm-2.0.1](https://github.com/truecharts/charts/compare/discordgsm-2.0.0...discordgsm-2.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [discordgsm-2.0.0](https://github.com/truecharts/charts/compare/discordgsm-1.0.7...discordgsm-2.0.0) (2023-04-11)
 
 ### Feat

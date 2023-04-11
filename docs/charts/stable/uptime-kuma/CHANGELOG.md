@@ -2,6 +2,15 @@
 
 
 
+## [uptime-kuma-6.0.1](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.0...uptime-kuma-6.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [uptime-kuma-6.0.0](https://github.com/truecharts/charts/compare/uptime-kuma-5.0.21...uptime-kuma-6.0.0) (2023-04-11)
 
 ### Feat

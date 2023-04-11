@@ -2,6 +2,15 @@
 
 
 
+## [komga-9.0.1](https://github.com/truecharts/charts/compare/komga-9.0.0...komga-9.0.1) (2023-04-11)
+
+### Fix
+
+- bump common on the 222 ([#7927](https://github.com/truecharts/charts/issues/7927))
+  
+  
+
+
 ## [komga-9.0.0](https://github.com/truecharts/charts/compare/komga-8.0.12...komga-9.0.0) (2023-04-11)
 
 ### Feat
