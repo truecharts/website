@@ -2,6 +2,15 @@
 
 
 
+## [minisatip-5.0.0](https://github.com/truecharts/charts/compare/minisatip-4.0.9...minisatip-5.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [minisatip-4.0.9](https://github.com/truecharts/charts/compare/minisatip-4.0.8...minisatip-4.0.9) (2023-02-10)
 
 ### Fix

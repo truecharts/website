@@ -2,6 +2,15 @@
 
 
 
+## [podgrab-13.0.0](https://github.com/truecharts/charts/compare/podgrab-12.0.9...podgrab-13.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [podgrab-12.0.9](https://github.com/truecharts/charts/compare/podgrab-12.0.8...podgrab-12.0.9) (2023-02-10)
 
 ### Fix

@@ -2,6 +2,15 @@
 
 
 
+## [fireflyiii-20.0.0](https://github.com/truecharts/charts/compare/fireflyiii-19.0.26...fireflyiii-20.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [fireflyiii-19.0.26](https://github.com/truecharts/charts/compare/fireflyiii-19.0.25...fireflyiii-19.0.26) (2023-02-27)
 
 ### Chore

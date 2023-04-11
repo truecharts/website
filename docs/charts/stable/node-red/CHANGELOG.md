@@ -2,6 +2,15 @@
 
 
 
+## [node-red-14.0.0](https://github.com/truecharts/charts/compare/node-red-13.0.8...node-red-14.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [node-red-13.0.8](https://github.com/truecharts/charts/compare/node-red-13.0.7...node-red-13.0.8) (2023-02-10)
 
 ### Fix

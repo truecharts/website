@@ -2,6 +2,15 @@
 
 
 
+## [soft-serve-2.0.0](https://github.com/truecharts/charts/compare/soft-serve-1.0.4...soft-serve-2.0.0) (2023-04-11)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 1 ([#7900](https://github.com/truecharts/charts/issues/7900))
+  
+  
+
+
 ## [soft-serve-1.0.4](https://github.com/truecharts/charts/compare/soft-serve-1.0.3...soft-serve-1.0.4) (2023-02-22)
 
 ### Chore
