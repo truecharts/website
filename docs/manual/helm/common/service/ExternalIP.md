@@ -4,6 +4,7 @@
 | :------------------------------------------------------------------- | :-------: | :------: | :-----------: | :-----: | :--------------------------------------------------------- |
 | service.[service-name].externalIP                                    | `string`  |    ✅    |      ✅       |         | Define External IP for headless service                    |
 | service.[service-name].addressType                                   | `string`  |    ❌    |      ✅       | `IPv4`  | Define the addressType for External IP                     |
+| service.[service-name].appProtocol                                   | `string`  |    ❌    |      ✅       |  `""`   | Define the appProtocol for External IP                     |
 | service.[service-name].sessionAffinity                               | `string`  |    ❌    |      ✅       |         | Define the session affinity (ClientIP, None)               |
 | service.[service-name].sessionAffinityConfig.clientIP.timeoutSeconds |   `int`   |    ❌    |      ✅       |         | Define the timeout for ClientIP session affinity (0-86400) |
 | service.[service-name].externalIPs                                   |  `list`   |    ❌    |      ❌       |         | Define externalIPs                                         |
@@ -29,6 +30,7 @@ service:
     type: ExternalIP
     externalIP: 1.1.1.1
     addressType: IPv4
+    appProtocol: http
     publishNotReadyAddresses: true
     externalIPs:
       - 10.200.230.34
