@@ -2,6 +2,11 @@
 
 
 
+## [kms-14.0.2](https://github.com/truecharts/charts/compare/kms-14.0.1...kms-14.0.2) (2023-04-12)
+
+
+
+
 ## [kms-14.0.1](https://github.com/truecharts/charts/compare/kms-14.0.0...kms-14.0.1) (2023-04-11)
 
 ### Fix
