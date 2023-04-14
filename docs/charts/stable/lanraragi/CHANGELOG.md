@@ -2,6 +2,15 @@
 
 
 
+## [lanraragi-5.0.0](https://github.com/truecharts/charts/compare/lanraragi-4.0.11...lanraragi-5.0.0) (2023-04-14)
+
+### Chore
+
+- BREAKING CHANGE migrate to new common part 2 ([#7992](https://github.com/truecharts/charts/issues/7992))
+  
+  
+
+
 ## [lanraragi-4.0.11](https://github.com/truecharts/charts/compare/lanraragi-4.0.10...lanraragi-4.0.11) (2023-02-10)
 
 ### Fix

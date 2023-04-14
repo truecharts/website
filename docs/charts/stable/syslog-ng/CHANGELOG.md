@@ -2,6 +2,15 @@
 
 
 
+## [syslog-ng-5.0.0](https://github.com/truecharts/charts/compare/syslog-ng-4.0.10...syslog-ng-5.0.0) (2023-04-14)
+
+### Chore
+
+- BREAKING CHANGE migrate to new common part 2 ([#7992](https://github.com/truecharts/charts/issues/7992))
+  
+  
+
+
 ## [syslog-ng-4.0.10](https://github.com/truecharts/charts/compare/syslog-ng-4.0.9...syslog-ng-4.0.10) (2023-02-10)
 
 ### Fix

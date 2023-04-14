@@ -2,6 +2,15 @@
 
 
 
+## [rsnapshot-5.0.0](https://github.com/truecharts/charts/compare/rsnapshot-4.0.15...rsnapshot-5.0.0) (2023-04-14)
+
+### Chore
+
+- BREAKING CHANGE migrate to new common part 2 ([#7992](https://github.com/truecharts/charts/issues/7992))
+  
+  
+
+
 ## [rsnapshot-4.0.15](https://github.com/truecharts/charts/compare/rsnapshot-4.0.14...rsnapshot-4.0.15) (2023-02-26)
 
 ### Chore

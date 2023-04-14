@@ -2,6 +2,15 @@
 
 
 
+## [nano-wallet-5.0.0](https://github.com/truecharts/charts/compare/nano-wallet-4.0.9...nano-wallet-5.0.0) (2023-04-14)
+
+### Chore
+
+- BREAKING CHANGE migrate to new common part 2 ([#7992](https://github.com/truecharts/charts/issues/7992))
+  
+  
+
+
 ## [nano-wallet-4.0.9](https://github.com/truecharts/charts/compare/nano-wallet-4.0.8...nano-wallet-4.0.9) (2023-02-10)
 
 ### Fix
