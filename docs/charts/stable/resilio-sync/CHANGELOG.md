@@ -2,6 +2,11 @@
 
 
 
+## [resilio-sync-9.0.3](https://github.com/truecharts/charts/compare/resilio-sync-9.0.2...resilio-sync-9.0.3) (2023-04-14)
+
+
+
+
 ## [resilio-sync-9.0.2](https://github.com/truecharts/charts/compare/resilio-sync-9.0.1...resilio-sync-9.0.2) (2023-04-12)
 
 ### Chore

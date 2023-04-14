@@ -2,6 +2,11 @@
 
 
 
+## [automatic-music-downloader-5.0.3](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.2...automatic-music-downloader-5.0.3) (2023-04-14)
+
+
+
+
 ## [automatic-music-downloader-5.0.2](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.1...automatic-music-downloader-5.0.2) (2023-04-12)
 
 ### Chore

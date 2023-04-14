@@ -2,6 +2,11 @@
 
 
 
+## [discordgsm-2.0.3](https://github.com/truecharts/charts/compare/discordgsm-2.0.2...discordgsm-2.0.3) (2023-04-14)
+
+
+
+
 ## [discordgsm-2.0.2](https://github.com/truecharts/charts/compare/discordgsm-2.0.1...discordgsm-2.0.2) (2023-04-12)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [haste-server-9.0.3](https://github.com/truecharts/charts/compare/haste-server-9.0.2...haste-server-9.0.3) (2023-04-14)
+
+
+
+
 ## [haste-server-9.0.2](https://github.com/truecharts/charts/compare/haste-server-9.0.1...haste-server-9.0.2) (2023-04-12)
 
 ### Chore

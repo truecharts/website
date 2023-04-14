@@ -2,6 +2,11 @@
 
 
 
+## [kanboard-12.0.1](https://github.com/truecharts/charts/compare/kanboard-12.0.0...kanboard-12.0.1) (2023-04-14)
+
+
+
+
 ## [kanboard-12.0.0](https://github.com/truecharts/charts/compare/kanboard-11.0.24...kanboard-12.0.0) (2023-04-14)
 
 ### Chore

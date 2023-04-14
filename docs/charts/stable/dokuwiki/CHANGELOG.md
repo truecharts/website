@@ -2,6 +2,11 @@
 
 
 
+## [dokuwiki-6.0.3](https://github.com/truecharts/charts/compare/dokuwiki-6.0.2...dokuwiki-6.0.3) (2023-04-14)
+
+
+
+
 ## [dokuwiki-6.0.2](https://github.com/truecharts/charts/compare/dokuwiki-6.0.1...dokuwiki-6.0.2) (2023-04-12)
 
 ### Chore

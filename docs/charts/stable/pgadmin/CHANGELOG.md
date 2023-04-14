@@ -2,6 +2,11 @@
 
 
 
+## [pgadmin-10.0.3](https://github.com/truecharts/charts/compare/pgadmin-10.0.2...pgadmin-10.0.3) (2023-04-14)
+
+
+
+
 ## [pgadmin-10.0.2](https://github.com/truecharts/charts/compare/pgadmin-10.0.1...pgadmin-10.0.2) (2023-04-12)
 
 ### Chore

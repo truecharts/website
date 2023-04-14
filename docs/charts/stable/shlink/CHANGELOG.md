@@ -2,6 +2,11 @@
 
 
 
+## [shlink-8.0.3](https://github.com/truecharts/charts/compare/shlink-8.0.2...shlink-8.0.3) (2023-04-14)
+
+
+
+
 ## [shlink-8.0.2](https://github.com/truecharts/charts/compare/shlink-8.0.1...shlink-8.0.2) (2023-04-12)
 
 ### Chore

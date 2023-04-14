@@ -2,6 +2,11 @@
 
 
 
+## [nginx-proxy-manager-4.0.3](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.2...nginx-proxy-manager-4.0.3) (2023-04-14)
+
+
+
+
 ## [nginx-proxy-manager-4.0.2](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.1...nginx-proxy-manager-4.0.2) (2023-04-12)
 
 ### Chore

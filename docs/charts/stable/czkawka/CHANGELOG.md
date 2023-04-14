@@ -2,6 +2,11 @@
 
 
 
+## [czkawka-4.0.3](https://github.com/truecharts/charts/compare/czkawka-4.0.2...czkawka-4.0.3) (2023-04-14)
+
+
+
+
 ## [czkawka-4.0.2](https://github.com/truecharts/charts/compare/czkawka-4.0.1...czkawka-4.0.2) (2023-04-12)
 
 ### Chore

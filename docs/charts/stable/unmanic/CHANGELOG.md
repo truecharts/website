@@ -2,6 +2,11 @@
 
 
 
+## [unmanic-6.0.1](https://github.com/truecharts/charts/compare/unmanic-6.0.0...unmanic-6.0.1) (2023-04-14)
+
+
+
+
 ## [unmanic-6.0.0](https://github.com/truecharts/charts/compare/unmanic-5.0.9...unmanic-6.0.0) (2023-04-14)
 
 ### Chore

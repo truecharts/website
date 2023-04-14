@@ -2,6 +2,11 @@
 
 
 
+## [headphones-7.0.3](https://github.com/truecharts/charts/compare/headphones-7.0.2...headphones-7.0.3) (2023-04-14)
+
+
+
+
 ## [headphones-7.0.2](https://github.com/truecharts/charts/compare/headphones-7.0.1...headphones-7.0.2) (2023-04-12)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [autoscan-4.0.3](https://github.com/truecharts/charts/compare/autoscan-4.0.2...autoscan-4.0.3) (2023-04-14)
+
+
+
+
 ## [autoscan-4.0.2](https://github.com/truecharts/charts/compare/autoscan-4.0.1...autoscan-4.0.2) (2023-04-12)
 
 ### Chore

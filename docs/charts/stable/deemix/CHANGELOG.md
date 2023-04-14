@@ -2,6 +2,11 @@
 
 
 
+## [deemix-6.0.3](https://github.com/truecharts/charts/compare/deemix-6.0.2...deemix-6.0.3) (2023-04-14)
+
+
+
+
 ## [deemix-6.0.2](https://github.com/truecharts/charts/compare/deemix-6.0.1...deemix-6.0.2) (2023-04-12)
 
 ### Chore

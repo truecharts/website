@@ -2,6 +2,11 @@
 
 
 
+## [adminer-4.0.3](https://github.com/truecharts/charts/compare/adminer-4.0.2...adminer-4.0.3) (2023-04-14)
+
+
+
+
 ## [adminer-4.0.2](https://github.com/truecharts/charts/compare/adminer-4.0.1...adminer-4.0.2) (2023-04-12)
 
 ### Chore

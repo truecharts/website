@@ -2,6 +2,11 @@
 
 
 
+## [mosdns-5.0.1](https://github.com/truecharts/charts/compare/mosdns-5.0.0...mosdns-5.0.1) (2023-04-14)
+
+
+
+
 ## [mosdns-5.0.0](https://github.com/truecharts/charts/compare/mosdns-4.0.15...mosdns-5.0.0) (2023-04-14)
 
 ### Chore

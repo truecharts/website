@@ -2,6 +2,11 @@
 
 
 
+## [phpldapadmin-9.0.1](https://github.com/truecharts/charts/compare/phpldapadmin-9.0.0...phpldapadmin-9.0.1) (2023-04-14)
+
+
+
+
 ## [phpldapadmin-9.0.0](https://github.com/truecharts/charts/compare/phpldapadmin-8.0.9...phpldapadmin-9.0.0) (2023-04-14)
 
 ### Chore

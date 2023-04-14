@@ -2,6 +2,11 @@
 
 
 
+## [apt-cacher-ng-4.0.1](https://github.com/truecharts/charts/compare/apt-cacher-ng-4.0.0...apt-cacher-ng-4.0.1) (2023-04-14)
+
+
+
+
 ## [apt-cacher-ng-4.0.0](https://github.com/truecharts/charts/compare/apt-cacher-ng-3.0.9...apt-cacher-ng-4.0.0) (2023-04-14)
 
 ### Chore

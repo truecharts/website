@@ -2,6 +2,11 @@
 
 
 
+## [audiobookshelf-5.0.1](https://github.com/truecharts/charts/compare/audiobookshelf-5.0.0...audiobookshelf-5.0.1) (2023-04-14)
+
+
+
+
 ## [audiobookshelf-5.0.0](https://github.com/truecharts/charts/compare/audiobookshelf-4.0.19...audiobookshelf-5.0.0) (2023-04-14)
 
 ### Chore

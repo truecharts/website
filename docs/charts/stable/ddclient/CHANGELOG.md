@@ -2,6 +2,11 @@
 
 
 
+## [ddclient-5.0.3](https://github.com/truecharts/charts/compare/ddclient-5.0.2...ddclient-5.0.3) (2023-04-14)
+
+
+
+
 ## [ddclient-5.0.2](https://github.com/truecharts/charts/compare/ddclient-5.0.1...ddclient-5.0.2) (2023-04-12)
 
 ### Chore

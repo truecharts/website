@@ -2,6 +2,11 @@
 
 
 
+## [lancache-dns-4.0.1](https://github.com/truecharts/charts/compare/lancache-dns-4.0.0...lancache-dns-4.0.1) (2023-04-14)
+
+
+
+
 ## [lancache-dns-4.0.0](https://github.com/truecharts/charts/compare/lancache-dns-3.0.11...lancache-dns-4.0.0) (2023-04-14)
 
 ### Chore

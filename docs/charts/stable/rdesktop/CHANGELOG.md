@@ -2,6 +2,11 @@
 
 
 
+## [rdesktop-4.0.3](https://github.com/truecharts/charts/compare/rdesktop-4.0.2...rdesktop-4.0.3) (2023-04-14)
+
+
+
+
 ## [rdesktop-4.0.2](https://github.com/truecharts/charts/compare/rdesktop-4.0.1...rdesktop-4.0.2) (2023-04-12)
 
 ### Chore

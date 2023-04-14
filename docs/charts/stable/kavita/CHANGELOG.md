@@ -2,6 +2,11 @@
 
 
 
+## [kavita-5.0.3](https://github.com/truecharts/charts/compare/kavita-5.0.2...kavita-5.0.3) (2023-04-14)
+
+
+
+
 ## [kavita-5.0.2](https://github.com/truecharts/charts/compare/kavita-5.0.1...kavita-5.0.2) (2023-04-12)
 
 ### Chore

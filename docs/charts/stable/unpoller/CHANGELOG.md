@@ -2,6 +2,11 @@
 
 
 
+## [unpoller-6.0.1](https://github.com/truecharts/charts/compare/unpoller-6.0.0...unpoller-6.0.1) (2023-04-14)
+
+
+
+
 ## [unpoller-6.0.0](https://github.com/truecharts/charts/compare/unpoller-5.1.0...unpoller-6.0.0) (2023-04-14)
 
 ### Chore

@@ -1,6 +1,6 @@
 # tinymediamanager
 
-![Version: 5.0.2](https://img.shields.io/badge/Version-5.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "4.3.7"](https://img.shields.io/badge/AppVersion-"4.3.7"-informational?style=flat-square)
+![Version: 5.0.3](https://img.shields.io/badge/Version-5.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "4.3.7"](https://img.shields.io/badge/AppVersion-"4.3.7"-informational?style=flat-square)
 
 TinyMediaManager is a full featured media manager to organize and clean up your media library.
 
