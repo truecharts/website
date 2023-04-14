@@ -2649,7 +2649,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tailscale",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png",
-                    "version": "4.0.4"
+                    "version": "4.0.5"
                 },
                 {
                     "name": "tautulli",
@@ -3057,7 +3057,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/youtubedl-material",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/youtubedl-material.png",
-                    "version": "5.0.2"
+                    "version": "5.0.3"
                 },
                 {
                     "name": "zerotier",
@@ -4709,7 +4709,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/lldap",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lldap.png",
-                    "version": "0.1.0"
+                    "version": "0.1.1"
                 },
                 {
                     "name": "longvinter",
