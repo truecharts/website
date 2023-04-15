@@ -2,6 +2,15 @@
 
 
 
+## [solr-4.0.10](https://github.com/truecharts/charts/compare/solr-4.0.9...solr-4.0.10) (2023-04-15)
+
+### Chore
+
+- update helm chart common to 12.4.15 ([#8050](https://github.com/truecharts/charts/issues/8050))
+  
+  
+
+
 ## [solr-4.0.9](https://github.com/truecharts/charts/compare/solr-4.0.8...solr-4.0.9) (2023-04-15)
 
 ### Chore
