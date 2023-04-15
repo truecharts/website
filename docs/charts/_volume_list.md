@@ -32,7 +32,6 @@ The intro needs improvement ;)
 |appdaemon                 |conf                  |PVC      |-              |/conf                                                |Read/Write|Enabled                |
 |apt-cacher-ng             |apt-cacher-ng         |PVC      |-              |/var/cache/apt-cacher-ng                             |Read/Write|Enabled                |
 |aria2                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|aria2                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |ariang                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |audacity                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |audiobookshelf            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -49,22 +48,17 @@ The intro needs improvement ;)
 |avidemux                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |avidemux                  |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |babybuddy                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|babybuddy                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |baserow                   |data                  |PVC      |-              |/baserow/data                                        |Read/Write|Enabled                |
 |bazarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |beets                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |blog                      |data                  |PVC      |-              |/var/www/html/data                                   |Read/Write|Enabled                |
 |boinc                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|boinc                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |booksonic-air             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|bookstack                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |bookstack                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |browserless-chrome        |downloads             |PVC      |-              |/downloads                                           |Read/Write|Enabled                |
 |browserless-chrome        |metrics               |PVC      |-              |/metrics                                             |Read/Write|Enabled                |
-|budge                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |budge                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |calibre                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|calibre                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |calibre-web               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |chevereto                 |storage               |PVC      |-              |/var/www/html/images/                                |Read/Write|Enabled                |
 |chevereto                 |content               |PVC      |-              |/var/www/html/content/                               |Read/Write|Enabled                |
@@ -72,7 +66,7 @@ The intro needs improvement ;)
 |clamav                    |sigdatabase           |PVC      |-              |/var/lib/clamav                                      |Read/Write|Enabled                |
 |clamav                    |scandir               |PVC      |-              |/scandir                                             |Read Only |Enabled                |
 |clamav                    |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
-|clarkson                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|clarkson                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |cloud9                    |code                  |PVC      |-              |/code                                                |Read/Write|Enabled                |
 |cloudflared               |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |cloudflareddns            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -109,7 +103,6 @@ The intro needs improvement ;)
 |deepstack                 |modelstore            |PVC      |-              |/modelstore/detection                                |Read/Write|Enabled                |
 |deluge                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |digikam                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|digikam                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |dillinger                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |discordgsm                |config                |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |dizquetv                  |config                |PVC      |-              |/home/node/app/.dizquetv                             |Read/Write|Enabled                |
@@ -1337,12 +1330,6 @@ The intro needs improvement ;)
 |zabbix                         |javagatewaylibs            |PVC      |-                |/usr/sbin/zabbix_java/ext_lib                    |Read/Write|Enabled                |
 |zoneminder                     |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zoneminder                     |datapath                   |PVC      |-                |/var/cache/zoneminder                            |Read/Write|Enabled                |
-
-## Dev
-
-| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
-|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|testapp |config  |PVC |-       |/config  |Read/Write|Enabled|
 
 ## Enterprise
 
