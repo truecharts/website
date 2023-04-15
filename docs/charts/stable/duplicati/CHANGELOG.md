@@ -2,6 +2,15 @@
 
 
 
+## [duplicati-9.0.4](https://github.com/truecharts/charts/compare/duplicati-9.0.3...duplicati-9.0.4) (2023-04-15)
+
+### Chore
+
+- update helm general non-major ([#7998](https://github.com/truecharts/charts/issues/7998))
+  
+  
+
+
 ## [duplicati-9.0.3](https://github.com/truecharts/charts/compare/duplicati-9.0.2...duplicati-9.0.3) (2023-04-14)
 
 

@@ -2,6 +2,15 @@
 
 
 
+## [flood-9.0.4](https://github.com/truecharts/charts/compare/flood-9.0.3...flood-9.0.4) (2023-04-15)
+
+### Chore
+
+- update helm general non-major ([#7998](https://github.com/truecharts/charts/issues/7998))
+  
+  
+
+
 ## [flood-9.0.3](https://github.com/truecharts/charts/compare/flood-9.0.2...flood-9.0.3) (2023-04-14)
 
 

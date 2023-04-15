@@ -2,6 +2,15 @@
 
 
 
+## [synctube-3.0.4](https://github.com/truecharts/charts/compare/synctube-3.0.3...synctube-3.0.4) (2023-04-15)
+
+### Chore
+
+- update helm general non-major ([#7998](https://github.com/truecharts/charts/issues/7998))
+  
+  
+
+
 ## [synctube-3.0.3](https://github.com/truecharts/charts/compare/synctube-3.0.2...synctube-3.0.3) (2023-04-14)
 
 
