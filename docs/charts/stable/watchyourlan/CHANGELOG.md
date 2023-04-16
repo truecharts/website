@@ -2,6 +2,15 @@
 
 
 
+## [watchyourlan-4.0.5](https://github.com/truecharts/charts/compare/watchyourlan-4.0.4...watchyourlan-4.0.5) (2023-04-16)
+
+### Chore
+
+- update helm general non-major ([#8061](https://github.com/truecharts/charts/issues/8061))
+  
+  
+
+
 ## [watchyourlan-4.0.4](https://github.com/truecharts/charts/compare/watchyourlan-4.0.3...watchyourlan-4.0.4) (2023-04-15)
 
 ### Chore

@@ -1,6 +1,6 @@
 # kiwix-serve
 
-![Version: 4.0.4](https://img.shields.io/badge/Version-4.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "3.4.0"](https://img.shields.io/badge/AppVersion-"3.4.0"-informational?style=flat-square)
+![Version: 4.0.5](https://img.shields.io/badge/Version-4.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "3.4.0"](https://img.shields.io/badge/AppVersion-"3.4.0"-informational?style=flat-square)
 
 Kiwix enables you to have the whole Wikipedia at hand wherever you go!
 

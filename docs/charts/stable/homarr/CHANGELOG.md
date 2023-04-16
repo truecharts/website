@@ -2,6 +2,15 @@
 
 
 
+## [homarr-5.0.5](https://github.com/truecharts/charts/compare/homarr-5.0.4...homarr-5.0.5) (2023-04-16)
+
+### Chore
+
+- update helm general non-major ([#8061](https://github.com/truecharts/charts/issues/8061))
+  
+  
+
+
 ## [homarr-5.0.4](https://github.com/truecharts/charts/compare/homarr-5.0.3...homarr-5.0.4) (2023-04-15)
 
 ### Chore
