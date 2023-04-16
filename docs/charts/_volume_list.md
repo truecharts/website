@@ -290,6 +290,7 @@ The intro needs improvement ;)
 |linkace                   |backups               |PVC      |-              |/app/storage/app/backups                             |Read/Write|Enabled                |
 |linkding                  |data                  |PVC      |-              |/etc/linkding/data                                   |Read/Write|Enabled                |
 |littlelink                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|lldap                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |logitech-media-server     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |loki                      |config                |secret   |-              |/etc/loki                                            |Read/Write|Enabled                |
 |lychee                    |conf                  |PVC      |-              |/conf                                                |Read/Write|Enabled                |
@@ -420,6 +421,7 @@ The intro needs improvement ;)
 |paperless-ngx             |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |paperless-ngx             |consume               |PVC      |-              |/consume                                             |Read/Write|Enabled                |
 |paperless-ngx             |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
+|paperless-ngx             |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |papermerge                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |papermerge                |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |pasta                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -1001,7 +1003,6 @@ The intro needs improvement ;)
 |livestreamdvr                  |hostpath4                  |PVC      |-                |/usr/local/share/twitchautomator/data/logs       |Read/Write|Enabled                |
 |llalon-github-backup           |backuplocation             |PVC      |-                |/home/docker/backups                             |Read/Write|Enabled                |
 |llalon-github-backup           |config                     |PVC      |-                |/home/docker/github-backup/config/               |Read/Write|Enabled                |
-|lldap                          |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |longvinter                     |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |longvinter                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |magicmirror2                   |config                     |PVC      |-                |/magicmirror2                                    |Read/Write|Enabled                |
