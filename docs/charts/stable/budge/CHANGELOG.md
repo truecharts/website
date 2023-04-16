@@ -2,6 +2,15 @@
 
 
 
+## [budge-5.0.4](https://github.com/truecharts/charts/compare/budge-5.0.3...budge-5.0.4) (2023-04-16)
+
+### Chore
+
+- update helm general non-major ([#8071](https://github.com/truecharts/charts/issues/8071))
+  
+  
+
+
 ## [budge-5.0.3](https://github.com/truecharts/charts/compare/budge-5.0.2...budge-5.0.3) (2023-04-16)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [meshcentral-10.0.1](https://github.com/truecharts/charts/compare/meshcentral-10.0.0...meshcentral-10.0.1) (2023-04-16)
+
+### Chore
+
+- update helm general non-major ([#8071](https://github.com/truecharts/charts/issues/8071))
+  
+  
+
+
 ## [meshcentral-10.0.0](https://github.com/truecharts/charts/compare/meshcentral-9.0.33...meshcentral-10.0.0) (2023-04-16)
 
 ### Fix
