@@ -2539,7 +2539,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/speedtest-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/speedtest-exporter.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "spotweb",
@@ -2827,7 +2827,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/unpoller",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/unpoller.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "uptime-kuma",
@@ -2891,7 +2891,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webgrabplus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webgrabplus.png",
-                    "version": "5.0.6"
+                    "version": "5.0.7"
                 },
                 {
                     "name": "weblate",
