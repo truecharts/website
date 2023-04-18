@@ -1,7 +1,7 @@
 # Chart.yaml layout
 
 At TrueCharts we try to keep some files standardized, this enables us to make changes to these charts in bulk with less risk of mistakes. Chart.yaml is one of these files.
-In this documentation we will explain the standardized layout options. For an example layout, please see our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml)
+In this documentation we will explain the standardized layout options. For an example layout, please see our standard Chart.yaml [template](https://github.com/truecharts/charts/blob/master/templates/chart/Chart.yaml)
 
 ## Layout Explained
 
