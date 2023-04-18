@@ -6,9 +6,7 @@ Every App needs to be exposed to something, either an UI, API or other container
 
 ### Main Service
 
-Every App is required to have a main service, the primary thing that users (or other Apps!) connect with. No mater if it's a webUI, an API, a database connection or something totally else, A service is always required.
-
-Please keep in mind that every App is different, some just have one service (which *ALWAYS* has to be called `main`) and others need more (which each has to have an unique name). Every App also uses different ports, so please alter accordingly.
+Every App **must** have a `main` service, the primary connection for users or other apps, whether it's a webUI, an API, a database connection or something else. Keep in mind that every App is unique, some may have one service called `main`, while others may need multiple services with **distinct** names. Also, every App uses different ports, so make sure to alter accordingly.
 
 ```yaml
   - variable: service
