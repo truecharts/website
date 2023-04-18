@@ -88,7 +88,7 @@ For (2), system will normalize values or perform some actions as discussed above
 #### Standardized questions.yaml sections
 
 To minimize the maintenance load of our App collection, we always aim to standardize as much as possible. The same goes for questions.yaml. Included here are some code standardized code-snippets that are expected to be included in every App.
-Be aware that sometimes specific functions might or might not completely function. Leaving them out would, however, everely increase the maintenance load and often said functionality will be added in the common-chart later on anyway.
+Be aware that sometimes specific functions might or might not completely function. However, omitting them would significantly increase the maintenance burden and this functionality is often incorporated into the common-chart anyway.
 
 #### Groups
 
