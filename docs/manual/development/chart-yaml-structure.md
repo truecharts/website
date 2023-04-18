@@ -43,7 +43,7 @@ annotations:
 
 In the above description there are a lot of values that are not actually used. Some of those, like `deprecated`, we just set to false. While others, like `annotations` get commented out.
 
-Please refer to our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml) to see which unused values needs which treatment.
+Please refer to our standard Chart.yaml [template](https://github.com/truecharts/charts/blob/master/templates/chart/Chart.yaml) to see which unused values needs which treatment.
 
 ### Dependencies
 
@@ -54,4 +54,4 @@ All other dependencies are expected to be listed in alphabetical order.
 ### Maintainers
 
 The only maintainer should always be TrueCharts, as the TrueCharts core team is expected to step in if the other maintainers fail to maintain their work.
-An example of how to list TrueCharts as a maintainer is available in our standard Chart.yaml [template](https://github.com/truecharts/apps/blob/master/templates/app/Chart.yaml).
+An example of how to list TrueCharts as a maintainer is available in our standard Chart.yaml [template](https://github.com/truecharts/charts/blob/master/templates/chart/Chart.yaml).
