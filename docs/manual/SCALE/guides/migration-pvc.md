@@ -101,6 +101,54 @@ On the 2nd tab page, select the first 3 options (`Pre-data`, `Data` and `Post-da
 ![PG Admin Restore](img/pgadminrestorepage2.png)
 ![PG Admin Restore](img/pgadminrestorepage3.png)
 
+## MariaDB Databases
+
+<details>
+  <summary>MariaDB Database Migration</summary>
+  <div>
+    <div>View MariaDB export and import instructions</div>
+    <br/>
+If the app uses a MariaDB database, we need to make a backup and restore that backup to the new app's database.
+
+:::note Requirements
+
+Make sure you have `adminer` installed, as we'll be using it to make a backup and to restore the database. It's a TrueCharts app from the stable train. You can install it with all default settings, and it will work.
+
+:::
+
+### Configure database connections in adminer
+
+To get the MariaDB credentials from each install the easiest way (until a script does this) is logging into the main container shell and typing `env`, which pulls down the list of `environment variables` used by the container, including the `database credentials`.
+
+![MariaDB](img/MariaDBenv1.png)
+
+Repeat the same for the "new" app
+
+![MariaDB2](img/MariaDBenv2.png)
+
+### Create database Backup
+
+Login to `adminer` using the 4 values highlighted in red above. For most users it'll be `appname-mariadb.ix-appname.svc.cluster.local:3306` or in this case `photoprism-mariadb.ix-photoprism.svc.cluster.local:3306`
+
+![AdminerLogin](img/Adminer-Login.png)
+
+Click `Export`, choose a compression output (gzip) and press `export`
+
+![AdminerExport](img/Adminer-Export.png)
+
+### Restore database backup
+
+Now you login to `adminer` with the "new" app
+
+![AdminerLogin2](img/Adminer-Login2.png)
+
+Click `Import`, then `Choose Files`, upload your backup and then click `Execute`
+
+![AdminerImport](img/Adminer-Import.png)
+
+  </div>
+</details>
+
 ## Migrate the PVCs
 
 ### Get the PVCs names and paths
