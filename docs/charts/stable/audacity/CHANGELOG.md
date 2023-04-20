@@ -2,6 +2,15 @@
 
 
 
+## [audacity-8.0.7](https://github.com/truecharts/charts/compare/audacity-8.0.6...audacity-8.0.7) (2023-04-20)
+
+### Chore
+
+- update helm general non-major ([#8087](https://github.com/truecharts/charts/issues/8087))
+  
+  
+
+
 ## [audacity-8.0.6](https://github.com/truecharts/charts/compare/audacity-8.0.5...audacity-8.0.6) (2023-04-16)
 
 ### Chore
