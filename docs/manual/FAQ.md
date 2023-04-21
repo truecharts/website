@@ -24,12 +24,9 @@ You can use [HeavyScript](https://github.com/Heavybullets8/heavy_script) to moun
 Use your preferred editor/explorer to do any changes you want.
 You need to make sure permissions stay the same, or the app might not be able to access the files.
 
-## Do we support ACL's for HostPath storage?
+## Do we support ACLs for HostPath storage?
 
-While it technically is perfectly possible for *most* Charts/Apps,
-We currently advise people to NOT use ACL's for host path storage.
-We cannot guide each user through setting up their ACL's for each chart.
-Apart from a few exceptions, user 568 (apps) must have access to their host path storage.
+While it is technically feasible to use Access Control Lists (ACLs) for host path storage in ***most*** Charts/Apps, we strongly advise against it. We are unable to provide individual guidance to every user for setting up their ACLs for each chart. Apart from a few exceptions, user 568 (apps) must have access to their host path storage.
 
 ## Are there Ingress requirement for certain apps?
 
