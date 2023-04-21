@@ -2,6 +2,11 @@
 
 
 
+## [mongodb-6.0.13](https://github.com/truecharts/charts/compare/mongodb-6.0.12...mongodb-6.0.13) (2023-04-21)
+
+
+
+
 ## [mongodb-6.0.12](https://github.com/truecharts/charts/compare/mongodb-6.0.11...mongodb-6.0.12) (2023-04-18)
 
 ### Chore

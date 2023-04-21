@@ -2,6 +2,11 @@
 
 
 
+## [prometheus-8.0.19](https://github.com/truecharts/charts/compare/prometheus-8.0.18...prometheus-8.0.19) (2023-04-21)
+
+
+
+
 ## [prometheus-8.0.18](https://github.com/truecharts/charts/compare/prometheus-8.0.17...prometheus-8.0.18) (2023-04-20)
 
 ### Chore

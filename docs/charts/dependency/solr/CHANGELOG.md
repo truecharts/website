@@ -2,6 +2,11 @@
 
 
 
+## [solr-4.0.13](https://github.com/truecharts/charts/compare/solr-4.0.12...solr-4.0.13) (2023-04-21)
+
+
+
+
 ## [solr-4.0.12](https://github.com/truecharts/charts/compare/solr-4.0.11...solr-4.0.12) (2023-04-18)
 
 ### Chore
