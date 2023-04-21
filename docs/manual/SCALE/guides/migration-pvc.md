@@ -71,7 +71,7 @@ If the app uses a Postgresql database, we need to make a backup and restore that
 
 Make sure you have `pgAdmin` installed, as we'll be using it to make a backup and to restore the database. It's a TrueCharts app from the stable train. You can install it with all default settings, and it will work.
 
-Also make sure you have the database info script (`tcdbinfo.sh`) available on your server. Check the [Postgres DB info and restore](/docs/manual/SCALE/guides/sql-backup.md) for these files.
+Also make sure you have the database info script (`tcdbinfo.sh`) available on your server. Check the [Postgres DB info and restore](https://truecharts.org/manual/SCALE/guides/sql-export) for these files.
 
 :::
 
