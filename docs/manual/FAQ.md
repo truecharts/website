@@ -94,10 +94,9 @@ Major changes are marked by a change in the first digit of the version. eg. 13.2
 
 Take backups beforehand with [HeavyScript](https://github.com/Heavybullets8/heavy_script).
 
-## Does HeavyScript auto-updates major changes?
+## Does HeavyScript auto-update major changes?
 
-Depending on the flags you used. We recommend to **NOT** use the `-U` flag.
-If you use it, it will update to major version changes.
+It depends on the flags you used. We recommend **NOT** using the `-U` flag, as this will update to major version changes.
 
 ## Do you offer support for breaking changes?
 
