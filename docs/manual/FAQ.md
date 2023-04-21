@@ -7,9 +7,16 @@ TrueCharts Frequently Asked Questions
 
 ## Why PVC is recommended over HostPath?
 
-We recommend using PVC for `config` storage, because it allows easily to rollback your app
-in case of a failed update. Also it's worth mentioning that is the only storage option for `config`
-we can offer active support at the time. You can of course use host path for your `media` files.
+We recommend using PVC for `config` storage, as it provides an easy way to roll back your application in case of a failed update. Furthermore, we currently only offer active support for this storage option. You can still use host path for your `media` files.
+
+> ⚠️ **WARNING**
+> 
+> Using host path is **not** compatible with shares!
+
+> ℹ️ **INFO**
+> 
+> To share data, create an `NFS` share and select `NFS Share` for the `Type of Storage` in the `Additional App Storage` settings.  
+> You can create an `SMB` share on the same mount point if needed.
 
 ## How can I access data inside PVC?
 
