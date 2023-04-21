@@ -48,9 +48,7 @@ Not supported for standard support channels. This includes cloudflare proxy.
 
 ## What is the meaning of Advanced/Expert Checkboxes (Networking, Storage, etc)?
 
-This options are only there for experienced people and out of basic support realm.
-Checking those boxes and/or enabling things such as host-networking may break your app
-and require a reinstall for it to work properly.
+These options are intended for experienced individuals and are beyond the scope of basic support. If you select these checkboxes or enable features such as host networking, it could potentially break your app and require a reinstall to restore functionality.
 
 ## My Chart is asking for a default Password, what is it?
 
