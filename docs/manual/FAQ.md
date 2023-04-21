@@ -28,10 +28,10 @@ You need to make sure permissions stay the same, or the app might not be able to
 
 While it is technically feasible to use Access Control Lists (ACLs) for host path storage in ***most*** Charts/Apps, we strongly advise against it. We are unable to provide individual guidance to every user for setting up their ACLs for each chart. Apart from a few exceptions, user 568 (apps) must have access to their host path storage.
 
-## Are there Ingress requirement for certain apps?
+## Are there Ingress requirements for certain apps?
 
-Certain applications require ingress to work correctly due to security reasons.
-Few example are:
+Certain applications require ingress to work correctly for security reasons.
+Some examples are:
 
 - Vaultwarden
 - Nextcloud
