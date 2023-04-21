@@ -16,7 +16,8 @@ We recommend using PVC for `config` storage, as it provides an easy way to roll 
 > ℹ️ **INFO**
 > 
 > To share data, create an `NFS` share and select `NFS Share` for the `Type of Storage` in the `Additional App Storage` settings.  
-> You can create an `SMB` share on the same mount point if needed.
+> You can create an `SMB` share on the same mount point if needed.  
+> See [Why I can't use host path on both my apps and sharing services?](#why-i-cant-use-host-path-on-both-my-apps-and-sharing-services) for further details.
 
 ## How can I access data inside PVC?
 
@@ -116,11 +117,9 @@ You most likely will have to reach to the upstream support channels for that.
 Don't use `$` in your passwords, it won't work due to an upstream
 [bug](https://github.com/dperson/openvpn-client/issues/376) in the OpenVPN container.
 
-## Why does an beta-only container is in stable train?
+## Why is a beta-only container in the stable train?
 
-Stable train means that our **chart** is stable, not the container.
-But if container is very buggy and/or constantly pushing breaking changes,
-our chart will move back to incubator until this is changed.
+The `stable` train refers to the stability of our chart, not the container itself. However, if the container exhibits significant bugs or regularly introduces breaking changes, our chart may be reverted back to `incubator` until these issues are resolved.
 
 ## Why I can't use host path on both my apps and sharing services?
 
