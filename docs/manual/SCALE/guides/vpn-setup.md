@@ -1,119 +1,39 @@
 ---
 sidebar_position: 13
 ---
-# VPN Addon Setup
+# Gluetun VPN Add-on Setup Guide
+
+Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN addon
 
 ## Prerequisites
 
-1. Ensure internet for the container is working PRIOR to adding the VPN connection
-2. Obtain either a Wireguard Configuration or a OpenVPN configuration file
-    - Wireguard ends in a .conf
-    - OpenVPN ends in a .ovpn
-3. Know both your kubernetes LAN and your personal LAN
+- Anything migrated to the new common chart that features Gluetun
+- Ideally a VPN provider supported by Gluetun, check the [Wiki](https://github.com/qdm12/gluetun/wiki) on the [Gluetun](https://github.com/qdm12/gluetun/) site for more info. There are custom providers but that is beyond the scope of this guide.
 
-## Preparing Configuration Files
+## Gluetun VPN Addon Setup
 
-### Wireguard
+- Install app as per usual and scroll down the to the `Addons` section
+- Click on `VPN` and select `Gluetun`
 
-1. Delete the entire line that contains "DNS"
-2. Remove ALL mentions of IPv6
-    - Usually after the IPv4 addresses
-    - ```::/0``` is the IPv6 syntax.
+![VPN Gluetun 1](img/Gluetun-VPN1.png)
 
-Here is an example Wireguard configuration.
-Note the Deleted IPv6 addresses, and Deleted DNS line.
+`Gluetun` works with Environment Variables so we need to configure them below. Enter your `VPN Provider` specific ones (see blow)
 
-```text
-[Interface]
-PrivateKey = cFuYkobFFgdfghdffdghdfghdfghdfgh
-Address = 10.64.48.226/32
+### OpenVPN Example
 
-[Peer]
-PublicKey = Casdfgsdfghsdfghsdfghsdfghs
-AllowedIPs = 0.0.0.0/0
-Endpoint = 198.54.128.58:51820
-```
+![VPN Gluetun 2](img/Gluetun-VPN2.png)
 
-#### Additional Information
+- All providers will generally need `VPN_SERVICE_PROVIDER` and `VPN_TYPE`, for me it's `Windscribe` and `openvpn` but I could easily choose `Wireguard`
+- Scroll to the [Gluetun Wiki](https://github.com/qdm12/gluetun/wiki) and find your specific provider and enter their info, eg [Windscribe Wiki Page](
+https://github.com/qdm12/gluetun/wiki/Windscribe)
 
-Ignore any keys, public private, psk etc.
-We have not had any issue keeping all keys within a configuration.
+### Wireguard Example
 
-### OpenVPN
+![VPN Gluetun 4](img/Gluetun-VPN4.png)
 
-1. Add the two following lines to your configuration
-    - `pull-filter ignore "ifconfig-ipv6"`
+- Basically same as above but needs the `VPN_TYPE` switched to `wireguard`, `WIREGUARD_PRIVATE_KEY` and `WIREGUARD_ADDRESSES`
+## Verify it works
 
-    - `pull-filter ignore "route-ipv6"`
+Easiest way to verify after it deploys (the app will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
 
-    These two lines will ensure IPv6 is ignored, which is vital for a stable VPN connection.
-
-Note The two added lines
-Here is an example OpenVPN configuration
-
-```text
-client
-dev tun
-proto udp
-remote us-denver.privacy.network 1198
-resolv-retry infinite
-nobind
-persist-key
-persist-tun
-cipher aes-128-cbc
-auth sha1
-tls-client
-remote-cert-tls server
-pull-filter ignore "ifconfig-ipv6 "
-pull-filter ignore "route-ipv6 "
-
-auth-user-pass
-compress
-verb 1
-reneg-sec 0
-<crl-verify>
------BEGIN X509 CRL-----
-MIIFqzCCBJOgAwIBAgIJAKZ7D5Yv87qDMA0GCSqGSIb3DQEBDQUAMIHoMQswCQYD
-YDQ8z9v+DMO6iwyIDRiU
-
------END X509 CRL-----
-</crl-verify>
-
-<ca>
------BEGIN CERTIFICATE-----
-MIIFqzCCBJOgAwIBAgIJAKZ7D5Yv87qDMA0GCSqGSIb3DQEBDQUAMIHoMQswCQYD
-YDQ8z9v+DMO6iwyIDRiU
------END CERTIFICATE-----
-</ca>
-
-disable-occ
-```
-
-## Edit Configuration
-
-The next step enable the addon in our edit configuration
-
-1. Scale GUI
-    1. Apps
-    2. Installed Applications
-2. Find the app you want, Click the top 3 dots to the right of your application
-    1. Click ```Edit```
-    2. Scroll to the bottom until you see ```Addons```
-    3. Click the dropdown under ```Type```
-    4. Choose Wireguard or OpenVPN
-        1. OpenVPN
-            - Type in your Credentials for your vpn provider.
-    5. Check "Enable Killswitch"
-        - Click ```Add``` Next to ```Configure Killswitch Excluded IPv4 networks```
-        - Click ```Add``` For EACH network.
-        - ```192.168.0.0/24``` is my personal LAN, this needs to be in there so YOU can communicate with the container
-    6. Finally, Add the filepath where you saved your modified configuration file
-        - EX: ```/mnt/speed/vpn/wireguard/jackett2.conf```
-
-By now your screen should look somewhat like this:
-
-![vpn1](/img/vpn/vpn1.png)
-
-## Video Guide
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZAwEEy7mHoo" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+![VPN Gluetun 3](img/Gluetun-VPN3.png)
