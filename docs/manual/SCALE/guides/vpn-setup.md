@@ -65,7 +65,6 @@ Now we can enter the Env Vars
 ![WG ENV Vars 4](img/Gluetun-VPN8.png)
 
 - `SERVER_CITIES` is the Mullvad server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port. In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`.
-
 - `VPN_ENDPOINT_PORT` is the Mullvad endpoint port, found in the Mullvad config file above
 
 ## Verify it works
