@@ -8,7 +8,8 @@ Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN a
 ## Prerequisites
 
 - Anything migrated to the new common chart that features `Gluetun`
-- Ideally a VPN provider supported by `Gluetun`, check the [Wiki](https://github.com/qdm12/gluetun/wiki) on the [Gluetun](https://github.com/qdm12/gluetun/) site for more info. There are custom providers but that is beyond the scope of this guide.
+- Ideally a VPN provider supported by `Gluetun`, check the [Wiki](https://github.com/qdm12/gluetun/wiki) on the [Gluetun](https://github.com/qdm12/gluetun/) site for more info.
+  There are custom providers but that is beyond the scope of this guide.
 
 ## Gluetun VPN Addon Setup
 
