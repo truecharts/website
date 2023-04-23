@@ -32,23 +32,16 @@ https://github.com/qdm12/gluetun/wiki/Windscribe)
 I will demonstrate using 'Mullvad' as the provider. 
 
 - I pull my private key, endpoint port and Wireguard Addresses from a Mullvad wireguard config file.
-
-![Mullvad Config File](img/Gluetun-VPN4.png)
-
+  ![Mullvad Config File](img/Gluetun-VPN4.png)
 - You can generate a new config file from the Mullvad website, here is the [Mullvad Config Generator](https://mullvad.net/en/account/#/wireguard-config/)
 
 Now we can enter the Env Vars
 
 - Install app as per usual and scroll down the to the `Addons` section, click `Add` for each new environment variable
-
-![WG ENV Vars 1](img/Gluetun-VPN5.png)
-
+  ![WG ENV Vars 1](img/Gluetun-VPN5.png)
 - Enable the killswitch by ticking `Enable Killswitch` box
-
 - Click `Add` for every subnet you would like to exclude from the VPN tunnel. I have added my local subnet.
-
-> Specifying the kubernetes subnet is not necessary as it is automatically excluded from the VPN tunnel
-
+  > Specifying the kubernetes subnet is not necessary as it is automatically excluded from the VPN tunnel
 - VPN Config File Location is not necessary, we will be using environment variables instead, so leave it blank
 
 ![WG ENV Vars 2](img/Gluetun-VPN6.png)
