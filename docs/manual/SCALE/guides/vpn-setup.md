@@ -63,3 +63,63 @@ Easiest way to verify after it deploys (the app will fail if your credentials do
 can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
 
 ![VPN Gluetun 3](img/Gluetun-VPN3.png)
+
+## Additional Gluetun Options
+
+### Proxy Example
+
+Gluetun offers HTTP (and Shadowsocks) proxy support. This is useful in scenarios when a private tracker requires the same IP address for both indexing _and_ downloading torrents. It is also generally useful if you want to route some HTTP traffic through your VPN from another container.
+
+#### Step 1: Set the HTTP Proxy VPN Environment Variables
+
+- `HTTPPROXY`: `on`
+- `HTTPPROXY_LOG`: `on` (optional, but useful to verify initial setup)
+
+![VPN Gluetun Proxy Env Var](img/Gluetun-Proxy1.png)
+
+Gluetun's default HTTP proxy port is `8888`. If you wish to change the port, then change it by adding the `HTTPPROXY_LISTENING_ADDRESS` environment variable.
+
+See Gluetun's website for more proxy configuration options (like setting a username/password):
+https://github.com/qdm12/gluetun/wiki/HTTP-proxy-options
+https://github.com/qdm12/gluetun/wiki/Shadowsocks-options
+
+#### Step 2: Add a new service for the proxy
+
+On the same app where you configured the Gluetun VPN addon proxy environment variables, add the following:
+
+1. Under `Networking and Services` section, check `Show Expert Config`
+2. Click Add for `Manual Custom Services`
+    - Name: `proxy`
+    - Service Type: `ClusterIP` (if you plan to use the proxy external to SCALE Apps, then set `LoadBalancer`)
+    - Port Name: `proxy`
+    - Port Type: `HTTP`
+    - Target and Container Port: `8888` (Gluetun default for HTTP proxy)
+3. Click Save
+
+![VPN Gluetun Proxy Manual Custom Service](img/Gluetun-Proxy2.png)
+
+#### Step 3: Determine the proxy internal DNS name
+
+The service name will end in `-proxy`. For an app named `qbittorrent` it will be:\
+`qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`.
+
+If your app is named something different, you can look it up using 
+
+- `k3s kubectl get svc -A` or
+- the DNS command in heavyscript (`heavyscript dns --all` or `heavyscript --dns -v`)
+
+#### Step 4: Configure the proxy in your indexer app (Prowlarr)
+
+1. In Prowlarr, under `Settings -> Indexers -> Add [Indexer Proxies]`, select `Http`
+    - Name: `GluetunProxy` (or whatever name you prefer)
+    - Tags: `proxy` (set this if you only want the proxy to be used on certain trackers/indexers, otherwise leave blank)
+    - Host: `qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`
+    - Port: `8888` (or whatever port you configured)
+    - Username & Password: leave blank (unless you added those env variables).
+    - Click Test to confirm connection, then Save.
+
+![VPN Gluetun Proxy Prowlarr Config](img/Gluetun-Proxy3.png)
+
+If you added a `proxy` tag, make sure to also add that to the desired Indexers, under `Indexers -> Edit Indexer -> Tags`.
+
+Your indexer traffic will now be routed through the Gluetun HTTP proxy. Check the `qbittorrent-vpn` container logs to confirm.
