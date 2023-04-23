@@ -3,6 +3,7 @@
 | Key                                                                  |   Type    | Required | Helm Template | Default | Description                                                |
 | :------------------------------------------------------------------- | :-------: | :------: | :-----------: | :-----: | :--------------------------------------------------------- |
 | service.[service-name].externalIP                                    | `string`  |    ✅    |      ✅       |         | Define External IP for headless service                    |
+| service.[service-name].useSlice                                      | `boolean` |    ✅    |      ❌       | `true`  | Define whether to use EndpointSlice or Endpoint            |
 | service.[service-name].addressType                                   | `string`  |    ❌    |      ✅       | `IPv4`  | Define the addressType for External IP                     |
 | service.[service-name].appProtocol                                   | `string`  |    ❌    |      ✅       |  `""`   | Define the appProtocol for External IP                     |
 | service.[service-name].sessionAffinity                               | `string`  |    ❌    |      ✅       |         | Define the session affinity (ClientIP, None)               |
@@ -28,6 +29,7 @@ service:
     enabled: true
     primary: true
     type: ExternalIP
+    useSlice: true
     externalIP: 1.1.1.1
     addressType: IPv4
     appProtocol: http
