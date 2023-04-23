@@ -51,17 +51,17 @@ Now we can enter the Env Vars
 - `FIREWALL_VPN_INPUT_PORTS` is the *port forward* port, to forward a port with `Mullvad`, follow steps 2 and 3 from here: [Mullvad Port Forwarding](https://mullvad.net/en/help/port-forwarding-and-mullvad/)
 - `WIREGUARD_ADDRESSES` is the `Mullvad` endpoint IP address, found in the `Mullvad` config file above
   ![WG ENV Vars 4](img/Gluetun-VPN8.png)
-- `SERVER_CITIES` is the `Mullvad` server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port. In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`.
+- `SERVER_CITIES` is the `Mullvad` server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port.
+  In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`.
 - `VPN_ENDPOINT_PORT` is the `Mullvad` endpoint port, found in the `Mullvad` config file above
 
 ## Verify it works
 
-Easiest way to verify after it deploys (the app will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
+Easiest way to verify after it deploys (the app will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces
+can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
 
-![VPN Gluetun 4](img/Gluetun-VPN4.png)
+![VPN Gluetun 3](img/Gluetun-VPN3.png)
 
 - Basically same as above but needs the `VPN_TYPE` switched to `wireguard`, `WIREGUARD_PRIVATE_KEY` and `WIREGUARD_ADDRESSES`
 
-Easiest way to verify after it deploys (the app will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
-
-![VPN Gluetun 3](img/Gluetun-VPN3.png)
+![VPN Gluetun 4](img/Gluetun-VPN4.png)
