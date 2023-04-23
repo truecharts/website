@@ -1,6 +1,7 @@
 ---
 sidebar_position: 13
 ---
+
 # Gluetun VPN Add-on Setup Guide
 
 Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN addon
@@ -48,7 +49,7 @@ Now we can enter the Env Vars
 - `VPN_SERVICE_PROVIDER` is `mullvad` in my case
   ![WG ENV Vars 3](img/Gluetun-VPN7.png)
 - `WIREGUARD_PRIVATE_KEY` is the private key from the `Mullvad` config file above
-- `FIREWALL_VPN_INPUT_PORTS` is the *port forward* port, to forward a port with `Mullvad`, follow steps 2 and 3 from here: [Mullvad Port Forwarding](https://mullvad.net/en/help/port-forwarding-and-mullvad/)
+- `FIREWALL_VPN_INPUT_PORTS` is the _port forward_ port, to forward a port with `Mullvad`, follow steps 2 and 3 from here: [Mullvad Port Forwarding](https://mullvad.net/en/help/port-forwarding-and-mullvad/)
 - `WIREGUARD_ADDRESSES` is the `Mullvad` endpoint IP address, found in the `Mullvad` config file above
   ![WG ENV Vars 4](img/Gluetun-VPN8.png)
 - `SERVER_CITIES` is the `Mullvad` server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port.
@@ -89,11 +90,11 @@ On the same app where you configured the Gluetun VPN addon proxy environment var
 
 1. Under `Networking and Services` section, check `Show Expert Config`
 2. Click Add for `Manual Custom Services`
-    - Name: `proxy`
-    - Service Type: `ClusterIP` (if you plan to use the proxy external to SCALE Apps, then set `LoadBalancer`)
-    - Port Name: `proxy`
-    - Port Type: `HTTP`
-    - Target and Container Port: `8888` (Gluetun default for HTTP proxy)
+   - Name: `proxy`
+   - Service Type: `ClusterIP` (if you plan to use the proxy external to SCALE Apps, then set `LoadBalancer`)
+   - Port Name: `proxy`
+   - Port Type: `HTTP`
+   - Target and Container Port: `8888` (Gluetun default for HTTP proxy)
 3. Click Save
 
 ![VPN Gluetun Proxy Manual Custom Service](img/Gluetun-Proxy2.png)
@@ -103,7 +104,7 @@ On the same app where you configured the Gluetun VPN addon proxy environment var
 The service name will end in `-proxy`. For an app named `qbittorrent` it will be:\
 `qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`.
 
-If your app is named something different, you can look it up using 
+If your app is named something different, you can look it up using
 
 - `k3s kubectl get svc -A` or
 - the DNS command in heavyscript (`heavyscript dns --all` or `heavyscript --dns -v`)
@@ -111,12 +112,12 @@ If your app is named something different, you can look it up using
 #### Step 4: Configure the proxy in your indexer app (Prowlarr)
 
 1. In Prowlarr, under `Settings -> Indexers -> Add [Indexer Proxies]`, select `Http`
-    - Name: `GluetunProxy` (or whatever name you prefer)
-    - Tags: `proxy` (set this if you only want the proxy to be used on certain trackers/indexers, otherwise leave blank)
-    - Host: `qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`
-    - Port: `8888` (or whatever port you configured)
-    - Username & Password: leave blank (unless you added those env variables).
-    - Click Test to confirm connection, then Save.
+   - Name: `GluetunProxy` (or whatever name you prefer)
+   - Tags: `proxy` (set this if you only want the proxy to be used on certain trackers/indexers, otherwise leave blank)
+   - Host: `qbittorrent-proxy.ix-qbittorrent.svc.cluster.local`
+   - Port: `8888` (or whatever port you configured)
+   - Username & Password: leave blank (unless you added those env variables).
+   - Click Test to confirm connection, then Save.
 
 ![VPN Gluetun Proxy Prowlarr Config](img/Gluetun-Proxy3.png)
 
