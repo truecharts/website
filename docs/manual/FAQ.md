@@ -7,9 +7,21 @@ TrueCharts Frequently Asked Questions
 
 ## Why PVC is recommended over HostPath?
 
-We recommend using PVC for `config` storage, because it allows easily to rollback your app
-in case of a failed update. Also it's worth mentioning that is the only storage option for `config`
-we can offer active support at the time. You can of course use host path for your `media` files.
+We recommend using PVC for `config` storage, as it provides an easy way to roll back your application in case of a failed update. Furthermore, we currently only offer active support for this storage option. You can still use host path for your `media` files.
+
+:::caution
+
+Using host path is **not** compatible with shares!
+
+:::
+
+:::tip
+ 
+To share data, create an `NFS` share and select `NFS Share` for the `Type of Storage` in the `Additional App Storage` settings.  
+You can create an `SMB` share on the same mount point if needed.  
+See [Why I can't use host path on both my apps and sharing services?](#why-i-cant-use-host-path-on-both-my-apps-and-sharing-services) for further details.
+
+:::
 
 ## How can I access data inside PVC?
 
@@ -17,17 +29,14 @@ You can use [HeavyScript](https://github.com/Heavybullets8/heavy_script) to moun
 Use your preferred editor/explorer to do any changes you want.
 You need to make sure permissions stay the same, or the app might not be able to access the files.
 
-## Do we support ACL's for HostPath storage?
+## Do we support ACLs for HostPath storage?
 
-While it technically is perfectly possible for *most* Charts/Apps,
-We currently advise people to NOT use ACL's for host path storage.
-We cannot guide each user through setting up their ACL's for each chart.
-Apart from a few exceptions, user 568 (apps) must have access to their host path storage.
+While it is technically feasible to use Access Control Lists (ACLs) for host path storage in ***most*** Charts/Apps, we strongly advise against it. We are unable to provide individual guidance to every user for setting up their ACLs for each chart. Apart from a few exceptions, user 568 (apps) must have access to their host path storage.
 
-## Are there Ingress requirement for certain apps?
+## Are there Ingress requirements for certain apps?
 
-Certain applications require ingress to work correctly due to security reasons.
-Few example are:
+Certain applications require ingress to work correctly for security reasons.
+Some examples are:
 
 - Vaultwarden
 - Nextcloud
@@ -44,9 +53,7 @@ Not supported for standard support channels. This includes cloudflare proxy.
 
 ## What is the meaning of Advanced/Expert Checkboxes (Networking, Storage, etc)?
 
-This options are only there for experienced people and out of basic support realm.
-Checking those boxes and/or enabling things such as host-networking may break your app
-and require a reinstall for it to work properly.
+These options are intended for experienced individuals and are beyond the scope of basic support. If you select these checkboxes or enable features such as host networking, it could potentially break your app and require a reinstall to restore functionality.
 
 ## My Chart is asking for a default Password, what is it?
 
@@ -92,10 +99,9 @@ Major changes are marked by a change in the first digit of the version. eg. 13.2
 
 Take backups beforehand with [HeavyScript](https://github.com/Heavybullets8/heavy_script).
 
-## Does HeavyScript auto-updates major changes?
+## Does HeavyScript auto-update major changes?
 
-Depending on the flags you used. We recommend to **NOT** use the `-U` flag.
-If you use it, it will update to major version changes.
+It depends on the flags you used. We recommend **NOT** using the `-U` flag, as this will update to major version changes.
 
 ## Do you offer support for breaking changes?
 
@@ -115,11 +121,9 @@ You most likely will have to reach to the upstream support channels for that.
 Don't use `$` in your passwords, it won't work due to an upstream
 [bug](https://github.com/dperson/openvpn-client/issues/376) in the OpenVPN container.
 
-## Why does an beta-only container is in stable train?
+## Why is a beta-only container in the stable train?
 
-Stable train means that our **chart** is stable, not the container.
-But if container is very buggy and/or constantly pushing breaking changes,
-our chart will move back to incubator until this is changed.
+The `stable` train refers to the stability of our chart, not the container itself. However, if the container exhibits significant bugs or regularly introduces breaking changes, our chart may be reverted back to `incubator` until these issues are resolved.
 
 ## Why I can't use host path on both my apps and sharing services?
 

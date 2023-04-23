@@ -29,7 +29,7 @@ https://github.com/qdm12/gluetun/wiki/Windscribe)
 
 ### Wireguard Example
 
-I will demonstrate using 'Mullvad' as the provider. 
+I will demonstrate using 'Mullvad' as the provider.
 
 - I pull my private key, endpoint port and Wireguard Addresses from a Mullvad wireguard config file.
   ![Mullvad Config File](img/Gluetun-VPN4.png)
@@ -61,6 +61,12 @@ Now we can enter the Env Vars
 - `VPN_ENDPOINT_PORT` is the Mullvad endpoint port, found in the Mullvad config file above
 
 ## Verify it works
+
+Easiest way to verify after it deploys (the app will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
+
+![VPN Gluetun 4](img/Gluetun-VPN4.png)
+
+- Basically same as above but needs the `VPN_TYPE` switched to `wireguard`, `WIREGUARD_PRIVATE_KEY` and `WIREGUARD_ADDRESSES`
 
 Easiest way to verify after it deploys (the app will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
 

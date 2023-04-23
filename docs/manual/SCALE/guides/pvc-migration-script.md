@@ -2,7 +2,7 @@
 
 **Credit**
 
-This guide uses the [HeavyBullets Migration Guide for PVCs](https://github.com/Heavybullets8/TT-MigrationAll) so credit for this one goes there, also to [Zasx](https://github.com/ZasX) from the [TrueCharts](https://www.truecharts.org) team for the steps used to create these guides/scripts
+This guide uses the [HeavyBullets Migration Guide for PVCs](https://github.com/Heavybullets8/TT-Migration) so credit for this one goes there, also to [Zasx](https://github.com/ZasX) from the [TrueCharts](https://www.truecharts.org) team for the steps used to create these guides/scripts
 
 ## Warnings
 

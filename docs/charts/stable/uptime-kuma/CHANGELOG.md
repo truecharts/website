@@ -2,6 +2,15 @@
 
 
 
+## [uptime-kuma-6.0.7](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.6...uptime-kuma-6.0.7) (2023-04-20)
+
+### Chore
+
+- update helm general non-major ([#8087](https://github.com/truecharts/charts/issues/8087))
+  
+  
+
+
 ## [uptime-kuma-6.0.6](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.5...uptime-kuma-6.0.6) (2023-04-16)
 
 ### Chore

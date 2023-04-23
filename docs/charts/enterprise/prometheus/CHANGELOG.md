@@ -2,6 +2,38 @@
 
 
 
+## [prometheus-8.0.21](https://github.com/truecharts/charts/compare/prometheus-8.0.20...prometheus-8.0.21) (2023-04-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/thanos to 0.31.0 ([#8121](https://github.com/truecharts/charts/issues/8121))
+  
+  
+
+
+## [prometheus-8.0.20](https://github.com/truecharts/charts/compare/prometheus-8.0.19...prometheus-8.0.20) (2023-04-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/prometheus to 2.43.0 ([#8120](https://github.com/truecharts/charts/issues/8120))
+  
+  
+
+
+## [prometheus-8.0.19](https://github.com/truecharts/charts/compare/prometheus-8.0.18...prometheus-8.0.19) (2023-04-21)
+
+
+
+
+## [prometheus-8.0.18](https://github.com/truecharts/charts/compare/prometheus-8.0.17...prometheus-8.0.18) (2023-04-20)
+
+### Chore
+
+- update helm general non-major ([#8087](https://github.com/truecharts/charts/issues/8087))
+  
+  
+
+
 ## [prometheus-8.0.17](https://github.com/truecharts/charts/compare/prometheus-8.0.16...prometheus-8.0.17) (2023-04-16)
 
 ### Chore
