@@ -41,6 +41,7 @@ words:
   - hapi
   - healthcheck
   - healthchecks
+  - heavyscript
   - helmv
   - hoek
   - hostpath
@@ -98,6 +99,7 @@ words:
   - preconfigured
   - prismjs
   - proto
+  - Prowlarr
   - puid
   - pvcname
   - pvcpath
