@@ -54,6 +54,8 @@ Now we can enter the Env Vars
 - `SERVER_CITIES` is the `Mullvad` server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port.
   In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`.
 - `VPN_ENDPOINT_PORT` is the `Mullvad` endpoint port, found in the `Mullvad` config file above
+- Basically same as above but needs the `VPN_TYPE` switched to `wireguard`, `WIREGUARD_PRIVATE_KEY` and `WIREGUARD_ADDRESSES`
+  ![VPN Gluetun 4](img/Gluetun-VPN4.png)
 
 ## Verify it works
 
@@ -61,7 +63,3 @@ Easiest way to verify after it deploys (the app will fail if your credentials do
 can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
 
 ![VPN Gluetun 3](img/Gluetun-VPN3.png)
-
-- Basically same as above but needs the `VPN_TYPE` switched to `wireguard`, `WIREGUARD_PRIVATE_KEY` and `WIREGUARD_ADDRESSES`
-
-![VPN Gluetun 4](img/Gluetun-VPN4.png)
