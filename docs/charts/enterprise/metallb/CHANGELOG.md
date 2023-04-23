@@ -2,6 +2,15 @@
 
 
 
+## [metallb-8.0.18](https://github.com/truecharts/charts/compare/metallb-8.0.17...metallb-8.0.18) (2023-04-23)
+
+### Fix
+
+- Update setup-guide ([#8123](https://github.com/truecharts/charts/issues/8123))
+  
+  
+
+
 ## [metallb-8.0.17](https://github.com/truecharts/charts/compare/metallb-8.0.16...metallb-8.0.17) (2023-04-21)
 
 
