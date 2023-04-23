@@ -2315,7 +2315,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/reg",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/reg.png",
-                    "version": "9.0.7"
+                    "version": "9.0.8"
                 },
                 {
                     "name": "remmina",
@@ -3137,7 +3137,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "7.0.21"
+                    "version": "7.0.22"
                 },
                 {
                     "name": "metallb",
@@ -3145,7 +3145,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/metallb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png",
-                    "version": "8.0.17"
+                    "version": "8.0.18"
                 },
                 {
                     "name": "prometheus",
@@ -3153,7 +3153,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/prometheus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png",
-                    "version": "8.0.19"
+                    "version": "8.0.21"
                 },
                 {
                     "name": "traefik",
