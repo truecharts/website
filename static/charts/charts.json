@@ -675,7 +675,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/external-service",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png",
-                    "version": "9.0.7"
+                    "version": "9.0.8"
                 },
                 {
                     "name": "ferdi-server",
@@ -1147,7 +1147,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jellyfin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png",
-                    "version": "14.0.8"
+                    "version": "14.0.9"
                 },
                 {
                     "name": "jellyseerr",
@@ -3121,7 +3121,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/blocky",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/blocky.png",
-                    "version": "5.0.23"
+                    "version": "5.0.24"
                 },
                 {
                     "name": "cert-manager",
@@ -3161,7 +3161,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/traefik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
-                    "version": "17.0.25"
+                    "version": "17.0.26"
                 },
                 {
                     "name": "vaultwarden",
@@ -6357,7 +6357,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/clickhouse",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clickhouse.png",
-                    "version": "5.0.13"
+                    "version": "5.0.14"
                 },
                 {
                     "name": "mariadb",
@@ -6365,7 +6365,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "7.0.14"
+                    "version": "7.0.15"
                 },
                 {
                     "name": "memcached",
@@ -6373,7 +6373,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "6.0.24"
+                    "version": "6.0.25"
                 },
                 {
                     "name": "mongodb",
@@ -6381,7 +6381,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "6.0.13"
+                    "version": "6.0.14"
                 },
                 {
                     "name": "redis",
@@ -6389,7 +6389,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "6.0.30"
+                    "version": "6.0.31"
                 },
                 {
                     "name": "solr",
@@ -6397,7 +6397,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/solr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png",
-                    "version": "4.0.13"
+                    "version": "4.0.14"
                 }
             ]
         }

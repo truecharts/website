@@ -152,3 +152,11 @@ This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced S
   You can mount paths on the host using the [NFS option on all TrueCharts apps](https://truecharts.org/manual/SCALE/guides/nfs-share).
   With the caveat that if any app stores SQLite db file in the NFS, It's a matter of time to have it corrupted
   and the NFS overhead.
+
+## My app stays stopped even after clicking the start button multiple times.
+
+The following apps do not have active services running under an `ix` namespace, and as a result, they will always appear as "Stopped" in the SCALE UI:
+- `external-service`
+- `metallb`
+- `cert-manager`
+- `postgresql`

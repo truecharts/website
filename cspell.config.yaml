@@ -1,38 +1,62 @@
 version: "0.2"
 words:
+  - algoliasearch
   - aliasgroup
   - allowtransparency
+  - ampproject
   - appname
+  - autoprefixer
   - backupname
   - bazarr
   - bitnami
+  - browserslist
   - bugfixer's
+  - camelcase
   - chartname
   - cheatsheet
+  - chokidar
+  - clsx
   - collabora
   - compat
   - configmap
+  - corejs
+  - cssnano
   - daemonset
+  - detab
   - devcontainer
   - dockerized
+  - docsearch
+  - dotall
   - duplicati
   - eptgmk
+  - esutils
+  - fastq
+  - gensync
   - gibibyte
+  - globby
+  - Gluetun
   - gluster
   - grafana
+  - gtag
+  - hapi
   - healthcheck
   - healthchecks
+  - heavyscript
   - helmv
+  - hoek
   - hostpath
   - hyperconverged
   - hyperthread
   - iban
+  - infima
   - ipaddr
   - ixcert
   - ixsystems
   - jackett
   - jacobalberty
   - jailman
+  - jridgewell
+  - jsesc
   - killswitch
   - kjeld
   - kube
@@ -40,45 +64,62 @@ words:
   - kubectl
   - kubernetes
   - lebbing
+  - leichtgewicht
   - letsencrypt
   - lidarr
   - loadbalancer
   - loolwsd
+  - mdast
   - meshroom
   - metallb
   - milicpu
   - minecraft
+  - minifier
   - minio
   - mkdir
   - modelstore
   - mountpoint
+  - Mullvad
   - nextcloud
   - nobind
+  - nodelib
   - nodeport
   - nodeports
   - notebookbar
+  - nprogress
   - NSFL
+  - optimise
   - ornias
   - ovpn
   - pgid
   - photoprism
   - pihole
   - plex
+  - postcss
   - preconfigured
+  - prismjs
   - proto
+  - Prowlarr
   - puid
   - pvcname
   - pvcpath
+  - qbittorrent
   - quotum
   - radarr
   - ramdisk
+  - regexpu
   - reneg
   - resolv
+  - rtlcss
   - sabnzbd
+  - scandir
   - schouten
   - selfsigned
   - serviceexpert
+  - shelljs
   - shitposting
+  - sindresorhus
+  - slorber
   - smallblock
   - sonarr
   - sonarrsabnzbd
@@ -89,63 +130,28 @@ words:
   - subquestion
   - subquestions
   - svcname
+  - svgr
   - syncthing
   - systemjs
   - targetport
   - tccr
   - templating
+  - topo
   - traefik
   - trivy
   - truecharts
   - truenas
   - truetool
+  - typeof
   - unifi
+  - unist
   - valheim
   - vaultwarden
   - vdev
   - vm's
+  - webpackbar
   - websecure
+  - Windscribe
   - xsystems
   - yokawasa
   - zwavejs
-  - ampproject
-  - jridgewell
-  - gensync
-  - jsesc
-  - browserslist
-  - optimise
-  - regexpu
-  - dotall
-  - corejs
-  - typeof
-  - esutils
-  - docsearch
-  - algoliasearch
-  - cssnano
-  - slorber
-  - svgr
-  - autoprefixer
-  - chokidar
-  - minifier
-  - postcss
-  - shelljs
-  - webpackbar
-  - mdast
-  - unist
-  - gtag
-  - clsx
-  - infima
-  - nprogress
-  - prismjs
-  - rtlcss
-  - globby
-  - hapi
-  - hoek
-  - topo
-  - leichtgewicht
-  - camelcase
-  - detab
-  - nodelib
-  - scandir
-  - fastq
-  - sindresorhus

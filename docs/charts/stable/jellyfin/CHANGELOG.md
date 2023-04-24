@@ -2,6 +2,19 @@
 
 
 
+## [jellyfin-14.0.9](https://github.com/truecharts/charts/compare/jellyfin-14.0.8...jellyfin-14.0.9) (2023-04-24)
+
+### Chore
+
+- bump version on jellyfin
+  
+  ### Security
+
+- update jellyfin container for critical CVE
+  
+  
+
+
 ## [jellyfin-14.0.8](https://github.com/truecharts/charts/compare/jellyfin-14.0.7...jellyfin-14.0.8) (2023-04-20)
 
 ### Chore
