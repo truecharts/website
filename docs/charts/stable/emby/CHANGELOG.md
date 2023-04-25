@@ -2,6 +2,15 @@
 
 
 
+## [emby-14.0.8](https://github.com/truecharts/charts/compare/emby-14.0.7...emby-14.0.8) (2023-04-25)
+
+### Chore
+
+- update helm general non-major ([#8145](https://github.com/truecharts/charts/issues/8145))
+  
+  
+
+
 ## [emby-14.0.7](https://github.com/truecharts/charts/compare/emby-14.0.6...emby-14.0.7) (2023-04-20)
 
 ### Chore

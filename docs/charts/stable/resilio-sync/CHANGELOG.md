@@ -2,6 +2,15 @@
 
 
 
+## [resilio-sync-9.0.9](https://github.com/truecharts/charts/compare/resilio-sync-9.0.8...resilio-sync-9.0.9) (2023-04-25)
+
+### Chore
+
+- update helm general non-major ([#8145](https://github.com/truecharts/charts/issues/8145))
+  
+  
+
+
 ## [resilio-sync-9.0.8](https://github.com/truecharts/charts/compare/resilio-sync-9.0.7...resilio-sync-9.0.8) (2023-04-22)
 
 ### Fix
