@@ -1,6 +1,6 @@
 # quassel-core
 
-![Version: 7.0.6](https://img.shields.io/badge/Version-7.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.14.0"](https://img.shields.io/badge/AppVersion-"0.14.0"-informational?style=flat-square)
+![Version: 7.0.7](https://img.shields.io/badge/Version-7.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.14.0"](https://img.shields.io/badge/AppVersion-"0.14.0"-informational?style=flat-square)
 
 Quassel-core is a modern, cross-platform, distributed IRC client.
 
