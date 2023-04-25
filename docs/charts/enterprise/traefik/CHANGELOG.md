@@ -2,6 +2,15 @@
 
 
 
+## [traefik-17.0.29](https://github.com/truecharts/charts/compare/traefik-17.0.28...traefik-17.0.29) (2023-04-25)
+
+### Fix
+
+- revert last container update and update cluster role
+  
+  
+
+
 ## [traefik-17.0.28](https://github.com/truecharts/charts/compare/traefik-17.0.27...traefik-17.0.28) (2023-04-25)
 
 ### Chore
