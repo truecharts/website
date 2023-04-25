@@ -3145,7 +3145,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/metallb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png",
-                    "version": "8.0.18"
+                    "version": "8.0.19"
                 },
                 {
                     "name": "prometheus",
@@ -3161,7 +3161,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/traefik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
-                    "version": "17.0.26"
+                    "version": "17.0.29"
                 },
                 {
                     "name": "vaultwarden",
@@ -3169,7 +3169,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/vaultwarden",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png",
-                    "version": "20.0.17"
+                    "version": "20.0.18"
                 }
             ]
         },
