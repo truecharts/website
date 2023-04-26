@@ -134,6 +134,10 @@ const config = {
                 label: "FAQ",
                 href: "/manual/FAQ",
               },
+              {
+                label: "Support Policy",
+                href: "/manual/SUPPORT"
+              }
             ],
           },
           {
