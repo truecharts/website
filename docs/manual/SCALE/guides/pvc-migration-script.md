@@ -16,28 +16,55 @@ Really make sure you have a backup/replication ready in case something goes wron
 
 :::
 
-Here's an incomplete list of tested apps
+Anything that doesn't have a database *should* succeed. Here's an incomplete list of tested apps:
 
-filebrowser
-custom-app created apps
-Komga
-emulatorjs
-homarr
-freshrss
-mysql-workbench
-bazarr
-flaresolverr
-phpldapadmin
-podgrab
-sabnzb
-uptime-kuma
-unpackerr
-autoscan
-tautulli
-overseerr
-code-server
-Jellyseerr
-adguard-home
+`adguard-home`
+`audiobookshelf`
+`autoscan`
+`bazarr`
+`calibre`
+`code-server`
+`Custom-app Apps`
+`deluge`
+`emulatorjs`
+`fileflows`
+`filebrowser`
+`flaresolverr`
+`freshrss`
+`heimdall`
+`homarr`
+`homepage`
+`jellyfin`
+`jellyseerr`
+`Komga`
+`mkvcleaver`
+`mymediaforalexa`
+`mysql-workbench`
+`organizr`
+`overseerr`
+`phpldapadmin`
+`plex`
+`podgrab`
+`prowlarr`
+`qBittorrent`
+`radarr`
+`readarr`
+`recyclarr`
+`sabnzb`
+`scrutiny`
+`sonarr`
+`syncthing`
+`tautulli`
+`transmission`
+`unifi`
+`unpackerr`
+`uptime-kuma`
+
+:::warning Not Working
+
+This script does **not** work with Prometheus, so please follow our more extensive [PVC Migration Guide with Postgres support](https://truecharts.org/manual/SCALE/guides/migration-pvc/) guide.
+
+:::
 
 ## Migration Steps
 
