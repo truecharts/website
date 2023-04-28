@@ -1,6 +1,6 @@
 # rss-bridge
 
-![Version: 5.0.7](https://img.shields.io/badge/Version-5.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2022"](https://img.shields.io/badge/AppVersion-"2022"-informational?style=flat-square)
+![Version: 5.0.8](https://img.shields.io/badge/Version-5.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2023"](https://img.shields.io/badge/AppVersion-"2023"-informational?style=flat-square)
 
 RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for websites that don't have one.
 
