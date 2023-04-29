@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Input Validation
 
 Validation makes sure that your input is in the desired format, so the application can parse it without problems.
