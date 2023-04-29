@@ -1,6 +1,6 @@
 # kodi-headless
 
-![Version: 4.0.11](https://img.shields.io/badge/Version-4.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "190"](https://img.shields.io/badge/AppVersion-"190"-informational?style=flat-square)
+![Version: 5.0.0](https://img.shields.io/badge/Version-5.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "190"](https://img.shields.io/badge/AppVersion-"190"-informational?style=flat-square)
 
 A headless install of kodi in a docker container.
 

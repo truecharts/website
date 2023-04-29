@@ -2,6 +2,15 @@
 
 
 
+## [airsonic-advanced-9.0.0](https://github.com/truecharts/charts/compare/airsonic-advanced-7.0.23...airsonic-advanced-9.0.0) (2023-04-29)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 3 ([#8151](https://github.com/truecharts/charts/issues/8151))
+  
+  
+
+
 ## [airsonic-advanced-7.0.23](https://github.com/truecharts/charts/compare/airsonic-advanced-7.0.22...airsonic-advanced-7.0.23) (2023-02-27)
 
 ### Chore
