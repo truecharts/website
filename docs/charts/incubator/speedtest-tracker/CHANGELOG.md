@@ -2,6 +2,15 @@
 
 
 
+## [speedtest-tracker-4.0.0](https://github.com/truecharts/charts/compare/speedtest-tracker-3.0.31...speedtest-tracker-4.0.0) (2023-04-30)
+
+### Fix
+
+- Port speedtest-tracker ([#8122](https://github.com/truecharts/charts/issues/8122))
+  
+  
+
+
 ## [speedtest-tracker-3.0.31](https://github.com/truecharts/charts/compare/speedtest-tracker-3.0.30...speedtest-tracker-3.0.31) (2023-02-27)
 
 ### Chore
