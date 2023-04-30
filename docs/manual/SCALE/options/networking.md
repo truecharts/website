@@ -33,6 +33,7 @@ Please refer to the documentation of individual Apps or the Support-Discussions 
 
 "When using host networking, a port is linked to the pod. Sadly enough, those ports are NOT correctly freed when hostNetworking is disabled in the future". This is an upstream/kubernetes limitation that's being actively discussed [here](https://github.com/k3s-io/k3s/discussions/7382).
 
+:::
 
 ## `Networking and Services`
 
