@@ -26,7 +26,6 @@ The intro needs improvement ;)
 |amule                     |complete              |PVC      |-              |/incoming                                            |Read/Write|Enabled                |
 |amule                     |config                |PVC      |-              |/home/amule/.aMule                                   |Read/Write|Enabled                |
 |amule                     |incomplete            |PVC      |-              |/temp                                                |Read/Write|Enabled                |
-|anonaddy                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |anonaddy                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |apache-musicindex         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |appdaemon                 |conf                  |PVC      |-              |/conf                                                |Read/Write|Enabled                |
@@ -111,7 +110,6 @@ The intro needs improvement ;)
 |docusaurus                |config                |PVC      |-              |/docusaurus                                          |Read/Write|Enabled                |
 |dokuwiki                  |config                |PVC      |-              |/bitnami/dokuwiki                                    |Read/Write|Enabled                |
 |domoticz                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|domoticz                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |doplarr                   |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |double-take               |data                  |PVC      |-              |/.storage                                            |Read/Write|Enabled                |
 |doublecommander           |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
