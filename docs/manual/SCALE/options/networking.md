@@ -27,7 +27,11 @@ This option is considered to be an advanced option and is rarely needed. It conn
 
 The reason this is not needed in most Apps, is because we already have great options to deal with most forms of network traffic and every maintainer has the goal to make sure you don't need this setting.
 
-Please refer to the documentation of individual Apps or the Support-Discussions section on github, if you think you might need this setting in your specific use case
+Please refer to the documentation of individual Apps or the Support-Discussions section on github, if you think you might need this setting in your specific use case.
+
+:::info
+
+"When using host networking, a port is linked to the pod. Sadly enough, those ports are NOT correctly freed when hostNetworking is disabled in the future". This is an upstream/kubernetes limitation that's being actively discussed [here](https://github.com/k3s-io/k3s/discussions/7382).
 
 
 ## `Networking and Services`

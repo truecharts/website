@@ -55,6 +55,10 @@ Not supported for standard support channels. This includes cloudflare proxy.
 
 These options are intended for experienced individuals and are beyond the scope of basic support. If you select these checkboxes or enable features such as host networking, it could potentially break your app and require a reinstall to restore functionality.
 
+### Why don't you advise users to enable `Host-Networking`?
+
+"When using host networking, a port is linked to the pod. Sadly enough, those ports are NOT correctly freed when hostNetworking is disabled in the future", see [discussion](https://github.com/k3s-io/k3s/discussions/7382).
+
 ## My Chart is asking for a default Password, what is it?
 
 We use upstream containers. If the password is not on our website,
