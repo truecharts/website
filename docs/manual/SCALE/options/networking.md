@@ -48,9 +48,9 @@ If shown, one may choose the `Service Type` for their application. Might be mult
   - This port exposes the container port on the service. This port is the `external` port to reach the application.
   - To change the `interal` / Target Port or `Port Type` one must click on the `Show Advanced Settings` box.
 
-:::warning Show Export Config
+:::warning Show Expert Config
 
-Checking the `Show Export Config` box enables one to change many expert or advanced options not described here. Enabling them may render you application unable to deploy and is advised for advanced Kubernetes users only.
+Checking the `Show Expert Config` box enables one to change many expert or advanced options not described here. Enabling them may render you application unable to deploy and is advised for advanced Kubernetes users only.
 
 :::
 
