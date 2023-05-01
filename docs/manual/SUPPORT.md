@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 ---
+
 # Support Policy
 
 ## TrueCharts on TrueNAS SCALE

@@ -105,7 +105,6 @@ The intro needs improvement ;)
 |dillinger                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |discordgsm                |config                |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |dizquetv                  |config                |PVC      |-              |/home/node/app/.dizquetv                             |Read/Write|Enabled                |
-|docker-compose            |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |docker-compose            |docker-certs-ca       |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |docusaurus                |config                |PVC      |-              |/docusaurus                                          |Read/Write|Enabled                |
 |dokuwiki                  |config                |PVC      |-              |/bitnami/dokuwiki                                    |Read/Write|Enabled                |
@@ -170,7 +169,6 @@ The intro needs improvement ;)
 |friendica                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |gaps                      |data                  |PVC      |-              |/usr/data                                            |Read/Write|Enabled                |
 |gitea                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|gitea                     |temp                  |emptyDir |-              |/tmp                                                 |Read/Write|Enabled                |
 |gitea                     |varlib                |emptyDir |-              |/var/lib/gitea                                       |Read/Write|Enabled                |
 |golinks                   |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |golinks                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -400,7 +398,7 @@ The intro needs improvement ;)
 |openhab                   |config                |PVC      |-              |/openhab/conf                                        |Read/Write|Enabled                |
 |openhab                   |addons                |PVC      |-              |/openhab/addons                                      |Read/Write|Enabled                |
 |openhab                   |userdata              |PVC      |-              |/openhab/userdata                                    |Read/Write|Enabled                |
-|openhab                   |init                  |custom   |-              |/etc/cont-init.d/enable-console-logging.sh           |Read/Write|Enabled                |
+|openhab                   |init                  |configmap|-              |/etc/cont-init.d/enable-console-logging.sh           |Read/Write|Enabled                |
 |openkm                    |config                |PVC      |-              |/opt/tomcat/repository                               |Read/Write|Enabled                |
 |openkm                    |init                  |custom   |-              |/config/init                                         |Read Only |Enabled                |
 |openldap                  |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
@@ -618,11 +616,12 @@ The intro needs improvement ;)
 |uptimerobot-prometheus    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |valheim                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |valheim                   |backups               |PVC      |-              |/backups                                             |Read/Write|Enabled                |
+|valheim                   |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |verysync                  |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |verysync                  |sync                  |PVC      |-              |/Sync                                                |Read/Write|Enabled                |
 |vikunja                   |files                 |PVC      |-              |/app/vikunja/files                                   |Read/Write|Enabled                |
-|vikunja                   |vikunja-nginx         |configMap|-              |/etc/nginx/conf.d/default.conf                       |Read/Write|Enabled                |
-|vikunja                   |vikunja-config        |secret   |-              |/etc/vikunja                                         |Read/Write|Enabled                |
+|vikunja                   |vikunja-nginx         |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|vikunja                   |vikunja-config        |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |watchyourlan              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |wbo                       |data                  |PVC      |-              |/opt/app/server-data                                 |Read/Write|Enabled                |
 |webgrabplus               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -1032,6 +1031,7 @@ The intro needs improvement ;)
 |monero-node                    |containerdir1              |PVC      |-                |/usr/local                                       |Read/Write|Enabled                |
 |monero-node                    |containerdir2              |PVC      |-                |/src                                             |Read/Write|Enabled                |
 |money-balancer                 |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|mongo-express                  |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |mordhau                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |mordhau                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |moviegrabber                   |moviegrabber               |PVC      |-                |/media                                           |Read/Write|Enabled                |
@@ -1226,6 +1226,7 @@ The intro needs improvement ;)
 |splunk                         |config                     |PVC      |-                |/opt/splunk/var                                  |Read/Write|Enabled                |
 |splunk                         |datap                      |PVC      |-                |/splunkdata                                      |Read/Write|Enabled                |
 |sqlite-web                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|sshwifty                       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |st-reborn-server               |config                     |PVC      |-                |/home/server/config                              |Read/Write|Enabled                |
 |st-reborn-server               |logs                       |PVC      |-                |/home/server/logs                                |Read/Write|Enabled                |
 |st-reborn-server               |data                       |PVC      |-                |/home/server/Data                                |Read/Write|Enabled                |
