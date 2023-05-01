@@ -24,7 +24,7 @@ These issues are reported to the folks over at CNPG and we've also thrown them a
 
 3. hostNetworking changes
 
-After much R&D, our staff have discovered quite a few nasty kubernetes-level bugs with hostNetworking. As a result, we've decided to never disable it by default anymore on any of our charts/apps, as we cannot guarantee its stability.
+After much R&D, our staff have discovered quite a few nasty kubernetes-level bugs with hostNetworking. As a result, we've decided to never enable it by default anymore on any of our charts/apps, as we cannot guarantee its stability.
 For some charts that, often, require this setting (like tailscale), users would have to manually and explicitly enable it from now on.
 
 The setting has also moved in the GUI.
