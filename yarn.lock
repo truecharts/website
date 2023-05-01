@@ -4501,10 +4501,10 @@ docusaurus-plugin-google-adsense@0.3.1:
   resolved "https://registry.yarnpkg.com/docusaurus-plugin-google-adsense/-/docusaurus-plugin-google-adsense-0.3.1.tgz#c6f38d748a6b1e441cc66391e00bf6ad079017f4"
   integrity sha512-9bLBilWUJjtNouZnYdpLeG+KAvIUNNg00HAdfsTAQpbLNaF3wCt3fbRVmZqNni0OUnq6BzzYSv8HaJEfDX/IXA==
 
-docusaurus-plugin-image-zoom@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/docusaurus-plugin-image-zoom/-/docusaurus-plugin-image-zoom-0.1.1.tgz#f5e16ae568f7b74e8a357ee67ea7922521f64539"
-  integrity sha512-cJXo5TKh9OR1gE4B5iS5ovLWYYDFwatqRm00iXFPOaShZG99l5tgkDKgbQPAwSL9wg4I+wz3aMwkOtDhMIpKDQ==
+docusaurus-plugin-image-zoom@0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/docusaurus-plugin-image-zoom/-/docusaurus-plugin-image-zoom-0.1.4.tgz#9b5fd06e3a79d84979265b7e74881a65bb3e1872"
+  integrity sha512-Fc16FUUVKgvF0OuMapsau0GFopSAH99t+FCRtTpF8n2Wt8toi5Et3xHKPNvuCb85PTtDuNfFUp5m9eCij0dXlw==
   dependencies:
     medium-zoom "^1.0.6"
 
