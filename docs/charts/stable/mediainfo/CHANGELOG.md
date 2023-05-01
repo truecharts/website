@@ -2,6 +2,19 @@
 
 
 
+## [mediainfo-4.0.0](https://github.com/truecharts/charts/compare/mediainfo-3.0.14...mediainfo-4.0.0) (2023-05-01)
+
+### Feat
+
+- BREAKING CHANGE migrate to new common part 6 ([#8664](https://github.com/truecharts/charts/issues/8664))
+  
+  ### Fix
+
+- fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  
+
+
 ## [mediainfo-3.0.14](https://github.com/truecharts/charts/compare/mediainfo-3.0.13...mediainfo-3.0.14) (2023-02-10)
 
 ### Fix
