@@ -818,6 +818,7 @@ The intro needs improvement ;)
 |debian-apt-mirror              |config                     |PVC      |-                |/debian-mirror/config                            |Read/Write|Enabled                |
 |debian-apt-mirror              |data                       |PVC      |-                |/debian-mirror/data                              |Read/Write|Enabled                |
 |debian-bullseye                |homedirectory              |PVC      |-                |/debian                                          |Read/Write|Enabled                |
+|dell-idrac-fan-controller      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |dispatch                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |dns-doh-companion              |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |docker-hub-rss                 |-                          |-        |-                |-                                                |-         |Persistence not Defined|
