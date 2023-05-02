@@ -1,5 +1,5 @@
 {
-    "totalCount": 799,
+    "totalCount": 800,
     "trains": [
         {
             "name": "stable",
@@ -395,7 +395,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "8.0.0"
+                    "version": "8.0.1"
                 },
                 {
                     "name": "cyberchef",
@@ -1443,7 +1443,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/makemkv",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/makemkv.png",
-                    "version": "5.0.0"
+                    "version": "5.0.2"
                 },
                 {
                     "name": "matomo",
@@ -1475,7 +1475,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mediainfo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mediainfo.png",
-                    "version": "4.0.0"
+                    "version": "4.0.1"
                 },
                 {
                     "name": "medusa",
@@ -1587,7 +1587,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mkvtoolnix",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mkvtoolnix.png",
-                    "version": "5.0.0"
+                    "version": "5.0.1"
                 },
                 {
                     "name": "ml-workspace",
@@ -1739,7 +1739,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nocodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nocodb.png",
-                    "version": "7.0.0"
+                    "version": "7.0.1"
                 },
                 {
                     "name": "node-red",
@@ -1891,7 +1891,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/outline",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/outline.png",
-                    "version": "7.0.9"
+                    "version": "7.0.10"
                 },
                 {
                     "name": "overseerr",
@@ -2923,7 +2923,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "5.0.11"
+                    "version": "5.0.12"
                 },
                 {
                     "name": "wekan",
@@ -3175,7 +3175,7 @@
         },
         {
             "name": "incubator",
-            "count": 398,
+            "count": 399,
             "charts": [
                 {
                     "name": "acestream",
@@ -3832,6 +3832,14 @@
                     "link": "https://truecharts.org/charts/incubator/debian-bullseye",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/debian-bullseye.png",
                     "version": "2.1.9"
+                },
+                {
+                    "name": "dell-idrac-fan-controller",
+                    "description": "Control your Dell PowerEdge fans via IPMI",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/dell-idrac-fan-controller",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dell-idrac-fan-controller.png",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "dispatch",
