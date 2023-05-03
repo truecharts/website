@@ -2,6 +2,15 @@
 
 
 
+## [plex-13.0.15](https://github.com/truecharts/charts/compare/plex-13.0.14...plex-13.0.15) (2023-05-03)
+
+### Chore
+
+- update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
+  
+  
+
+
 ## [plex-13.0.14](https://github.com/truecharts/charts/compare/plex-13.0.13...plex-13.0.14) (2023-04-30)
 
 ### Chore

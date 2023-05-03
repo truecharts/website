@@ -2,6 +2,15 @@
 
 
 
+## [qbittorrent-15.0.12](https://github.com/truecharts/charts/compare/qbittorrent-15.0.11...qbittorrent-15.0.12) (2023-05-03)
+
+### Chore
+
+- update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
+  
+  
+
+
 ## [qbittorrent-15.0.11](https://github.com/truecharts/charts/compare/qbittorrent-15.0.10...qbittorrent-15.0.11) (2023-04-29)
 
 ### Chore

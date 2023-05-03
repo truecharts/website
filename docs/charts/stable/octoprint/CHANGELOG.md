@@ -2,6 +2,15 @@
 
 
 
+## [octoprint-9.0.11](https://github.com/truecharts/charts/compare/octoprint-9.0.10...octoprint-9.0.11) (2023-05-03)
+
+### Chore
+
+- update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
+  
+  
+
+
 ## [octoprint-9.0.10](https://github.com/truecharts/charts/compare/octoprint-9.0.9...octoprint-9.0.10) (2023-04-29)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [commento-plusplus-7.0.1](https://github.com/truecharts/charts/compare/commento-plusplus-7.0.0...commento-plusplus-7.0.1) (2023-05-03)
+
+### Chore
+
+- update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
+  
+  
+
+
 ## [commento-plusplus-7.0.0](https://github.com/truecharts/charts/compare/commento-plusplus-6.0.23...commento-plusplus-7.0.0) (2023-04-30)
 
 ### Feat

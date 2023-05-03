@@ -1,6 +1,6 @@
 # metallb
 
-![Version: 8.0.22](https://img.shields.io/badge/Version-8.0.22-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 8.0.23](https://img.shields.io/badge/Version-8.0.23-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
 
 A network load-balancer implementation for Kubernetes using standard routing protocols
 

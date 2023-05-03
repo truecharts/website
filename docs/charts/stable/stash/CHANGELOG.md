@@ -2,6 +2,15 @@
 
 
 
+## [stash-10.0.11](https://github.com/truecharts/charts/compare/stash-10.0.10...stash-10.0.11) (2023-05-03)
+
+### Chore
+
+- update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
+  
+  
+
+
 ## [stash-10.0.10](https://github.com/truecharts/charts/compare/stash-10.0.9...stash-10.0.10) (2023-04-28)
 
 ### Chore

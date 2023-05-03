@@ -2,6 +2,15 @@
 
 
 
+## [redmine-7.0.12](https://github.com/truecharts/charts/compare/redmine-7.0.11...redmine-7.0.12) (2023-05-03)
+
+### Chore
+
+- update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
+  
+  
+
+
 ## [redmine-7.0.11](https://github.com/truecharts/charts/compare/redmine-7.0.10...redmine-7.0.11) (2023-04-30)
 
 ### Chore

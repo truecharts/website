@@ -2,6 +2,15 @@
 
 
 
+## [kodi-headless-5.0.1](https://github.com/truecharts/charts/compare/kodi-headless-5.0.0...kodi-headless-5.0.1) (2023-05-03)
+
+### Chore
+
+- update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
+  
+  
+
+
 ## [kodi-headless-5.0.0](https://github.com/truecharts/charts/compare/kodi-headless-4.0.11...kodi-headless-5.0.0) (2023-04-29)
 
 ### Feat

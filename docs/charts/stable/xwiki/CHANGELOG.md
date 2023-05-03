@@ -2,6 +2,15 @@
 
 
 
+## [xwiki-7.0.11](https://github.com/truecharts/charts/compare/xwiki-7.0.10...xwiki-7.0.11) (2023-05-03)
+
+### Chore
+
+- update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
+  
+  
+
+
 ## [xwiki-7.0.10](https://github.com/truecharts/charts/compare/xwiki-7.0.9...xwiki-7.0.10) (2023-04-28)
 
 ### Chore
