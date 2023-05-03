@@ -1,6 +1,6 @@
 # youtrack
 
-![Version: 1.0.6](https://img.shields.io/badge/Version-1.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2022.3.653"](https://img.shields.io/badge/AppVersion-"2022.3.653"-informational?style=flat-square)
+![Version: 1.0.7](https://img.shields.io/badge/Version-1.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2023.1.903"](https://img.shields.io/badge/AppVersion-"2023.1.903"-informational?style=flat-square)
 
 YouTrack is a project management tool that can be adapted to your processes to help you deliver great products.
 
