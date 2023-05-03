@@ -1,6 +1,6 @@
 # synapse
 
-![Version: 7.0.29](https://img.shields.io/badge/Version-7.0.29-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.77.0"](https://img.shields.io/badge/AppVersion-"1.77.0"-informational?style=flat-square)
+![Version: 7.0.30](https://img.shields.io/badge/Version-7.0.30-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.77.0"](https://img.shields.io/badge/AppVersion-"1.77.0"-informational?style=flat-square)
 
 A Helm chart to deploy a Matrix homeserver stack into Kubernetes
 

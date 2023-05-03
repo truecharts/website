@@ -2,6 +2,16 @@
 
 
 
+## [traefik-forward-auth-0.1.1](https://github.com/truecharts/charts/compare/traefik-forward-auth-0.1.0...traefik-forward-auth-0.1.1) (2023-05-03)
+
+### Fix
+
+- fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  - fix some duplicate entries ([#8713](https://github.com/truecharts/charts/issues/8713))
+  
+  
+
+
 ## [traefik-forward-auth-0.1.0]traefik-forward-auth-0.1.0 (2023-02-19)
 
 ### Feat
