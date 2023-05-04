@@ -165,11 +165,10 @@ The following apps do not have active services running under an `ix` namespace, 
 - `cert-manager`
 - `postgresql`
 
-## How do I stop a TrueCharts App?
+## How do I stop a TrueCharts App? (**TrueNAS SCALE Only**)
 
 :::note
 
-This FAQ relates to our charts used on TrueNAS Scale.
 For reasons why this is necessary please see [Known Issues](https://truecharts.org/news/updates-recontinued#known-issues)
 
 :::
@@ -222,7 +221,7 @@ Here's a list of Apps in the Stable and Enterprise trains that use CNPG (up to d
 `onlyoffice-document-server`
 `openkm`
 `outline`
-`paperless-ng`
+`paperless-ngx`
 `penpot`
 `pgadmin`
 `photoview`
