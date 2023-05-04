@@ -164,3 +164,137 @@ The following apps do not have active services running under an `ix` namespace, 
 - `metallb`
 - `cert-manager`
 - `postgresql`
+
+## How do I stop a TrueCharts App?
+
+:::note
+
+This FAQ relates to our charts used on TrueNAS Scale.
+For reasons why this is necessary please see [Known Issues](https://truecharts.org/news/updates-recontinued#known-issues)
+
+:::
+
+:::caution
+
+Do **NOT** hit the Stop Button ***UNLESS*** you are certain the App does not use [CloudNativePG (CNPG)](https://cloudnative-pg.io/).
+
+:::
+
+### How Do I know if an App uses CNPG?
+
+Here's a list of Apps in the Stable and Enterprise trains that use CNPG (up to date as of 3rd May 2023):
+  
+`airsonic-advanced`
+`authelia`
+`authentik`
+`babybuddy`
+`baserow`
+`blog`
+`commento-plusplus`
+`discordgsm`
+`dsmr-reader`
+`etherpad`
+`ferdi-server`
+`fireflyiii`
+`firefox-syncserver`
+`focalboard`
+`gitea`
+`gotify`
+`grist`
+`guacamole-client`
+`hedgedoc`
+`home-assistant`
+`immich`
+`inventree`
+`invidious`
+`joplin-server`
+`kanboard`
+`kutt`
+`librephotos`
+`lychee`
+`mattermost`
+`mealie`
+`miniflux`
+`n8n`
+`nextcloud`
+`nocodb`
+`odoo`
+`onlyoffice-document-server`
+`openkm`
+`outline`
+`paperless-ng`
+`penpot`
+`pgadmin`
+`photoview`
+`postgresql`
+`quassel-core`
+`recipes`
+`redmine`
+`shiori`
+`shlink`
+`spotweb`
+`statping-ng`
+`strapi`
+`synapse`
+`teedy`
+`traccar`
+`tt-rss`
+`vaultwarden`
+`vikunja`
+`weblate`
+`wger`
+`wikijs`
+`xwiki`
+
+:::tip
+
+You can also click the App and check the Container Images for references to either `tccr.io/truecharts/postgresql` or `ghcr.io/cloudnative-pg`.
+
+:::
+
+If the App does not use CNPG, you have several options to stop an App:
+
+- 1. Press the Stop button in the Scale GUI.
+
+- 2. Enter the following command in the Shell (replace `<app-name>` with the name of the App):
+```k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0```
+
+- 3. Use [HeavyScript](https://github.com/Heavybullets8/heavy_script).
+
+
+### What If I've already pressed the Stop button on an App that uses CNPG?
+
+:::danger
+
+DO NOT REBOOT
+
+:::
+
+To recover from the App being in an unstable state enter this command in the Shell to restart the middleware service:
+```sudo service middlewared restart``` OR ```sudo systemctl restart middlewared```
+
+### So, how do I stop an App that uses CNPG?
+
+**NEVER** use the Stop button!
+
+Use option ii above or use the Heavyscript `args` branch
+
+to stop:
+
+heavyscript app --stop APPNAME
+
+to start:
+
+heavyscript app --start APPNAME
+
+:::note
+
+The application state in the web GUI will be `Started` since there is still a CNPG deployment running.
+
+:::
+
+:::danger
+
+**NEVER EVER** try to stop any CNPG related pods.
+
+:::
