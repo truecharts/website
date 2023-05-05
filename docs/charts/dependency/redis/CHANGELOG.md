@@ -2,6 +2,11 @@
 
 
 
+## [redis-6.0.39](https://github.com/truecharts/charts/compare/redis-6.0.38...redis-6.0.39) (2023-05-05)
+
+
+
+
 ## [redis-6.0.38](https://github.com/truecharts/charts/compare/redis-6.0.37...redis-6.0.38) (2023-05-05)
 
 ### Chore
