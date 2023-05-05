@@ -26,6 +26,9 @@ This also means that our industry-leading community support, is now also availab
 While previously we've seen great effort and interest from the developers of TrueNAS SCALE, iXsystems, we've seen a shift in priorities towards limiting kubernetes support and prioritising their own catalogs at the cost of third-parties like TrueCharts.
 We've also seen a shift in the fact they do not want to support multi-node clusters, due to gross design mistakes in earlier stages which would require massive refactor on their end and their severe lack of priority towards the fact they lack ANY decent backup utility for their platform while symultainiously preventing industry-standard kubernetes backup solutions from working correctly.
 
+At the same time, we're working hard on hardening our pipelines by signing both our container builds, as well as Helm Charts. Sadly enough TrueNAS SCALE, due to explicit design choices by iXsystems, does not offer any tooling to ensure Helm Charts have their signatures validated before installation.
+This leads us to conclude that TrueNAS SCALE Apps are inherently less secure than our Helm Charts, as they will be more prone to supply chain attacks.
+
 All-in-all and After long deliberation, this has lead us to decide to move TrueNAS SCALE to a "Second Tier" platform, as we cannot fully guarantee the same stability and reliability normal Helm offers.
 This, however, does *not* mean a decrease in development efforts. We're still planning to completely support the platform where we can and expand both the catalog and our featureset on there in the future.
 
