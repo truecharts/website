@@ -2,6 +2,15 @@
 
 
 
+## [home-assistant-19.0.15](https://github.com/truecharts/charts/compare/home-assistant-19.0.14...home-assistant-19.0.15) (2023-05-06)
+
+### Feat
+
+- Add podOptions in questions.yaml ([#8792](https://github.com/truecharts/charts/issues/8792))
+  
+  
+
+
 ## [home-assistant-19.0.14](https://github.com/truecharts/charts/compare/home-assistant-19.0.13...home-assistant-19.0.14) (2023-05-05)
 
 ### Chore
