@@ -70,10 +70,11 @@ To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager
   - `Host`: (required) Enter FQDN for HTTPS (app.mydomain.com)
   - `Select TrueNAS SCALE Certificate`: Choose the Certificate created for your domain, see <a href="https://www.truenas.com/docs/scale/scaletutorials/credentials/certificates/certificatesscale/" target="_blank">TrueNAS Scale Managing Certificates documentation</a>
 
+## Advanced Settings
+
 - `Traefik Middlewares`: Any `Traefik` middlewares may be added here
 
 - `Add Manual Custom Ingresses` (expert): Enables advanced custom Ingress settings that may be used by expert users.
-
 
 ## Networking Main Service Type
 
