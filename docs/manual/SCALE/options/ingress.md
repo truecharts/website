@@ -94,7 +94,7 @@ Traefik requires your certificate to match the domain used for Ingress. This is 
 
 :::note
 
-This video guide is for old common Apps only as it was made before the cert-manager App was introduced, however you still may find it useful.
+This video guide is for old common Apps only as it was made before the cert-manager App was introduced, however you may still find it useful.
 
 :::
 
