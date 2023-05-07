@@ -124,3 +124,11 @@ If your app is named something different, you can look it up using
 If you added a `proxy` tag, make sure to also add that to the desired Indexers, under `Indexers -> Edit Indexer -> Tags`.
 
 Your indexer traffic will now be routed through the Gluetun HTTP proxy. Check the `qbittorrent-vpn` container logs to confirm.
+
+### Custom Provider Example
+
+If your provider isn't supported by `Gluetun` then you can use a [custom provider](https://github.com/qdm12/gluetun/wiki/Custom-provider) and configure as below, for example here's a provider with `OpenVPN`
+
+  - Note: use `/gluetun/vpn.conf` for `OPENVPN_CUSTOM_CONFIG` and not the path specified inside the `VPN config file location` above
+
+![Custom Provider Example](img/CustomVPNprovider.png)
