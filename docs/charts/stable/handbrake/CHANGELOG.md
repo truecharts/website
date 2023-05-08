@@ -2,6 +2,15 @@
 
 
 
+## [handbrake-16.0.4](https://github.com/truecharts/charts/compare/handbrake-16.0.3...handbrake-16.0.4) (2023-05-08)
+
+### Chore
+
+- update container image tccr.io/truecharts/handbrake to v23.04.1 ([#8853](https://github.com/truecharts/charts/issues/8853))
+  
+  
+
+
 ## [handbrake-16.0.3](https://github.com/truecharts/charts/compare/handbrake-16.0.2...handbrake-16.0.3) (2023-05-05)
 
 ### Chore
