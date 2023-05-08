@@ -49,7 +49,7 @@ Apps may not install and throw errors if you do not add a host and path.
 
 :::
 
-### Certificate Settings:
+### Certificate Settings
 
 #### Single Domain
 
