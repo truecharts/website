@@ -82,4 +82,4 @@ We recommend that in `Networking and Services` that the `Service Type` for the `
 ## Traefik Certificate Issues
 
 Sometimes you might notice Traefik ignores your certificate. This is most likely due to the domain on your certificate being different from the domain you entered into the `HostName` entry.
-Traefik requires your certificate to match the domain used for Ingress. This is an upstream design decision and something we can easily and safely disable.
+Traefik requires your certificate to match the domain used for Ingress.
