@@ -63,7 +63,7 @@ To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager
 
 ![Ingress Example using cert-manager with multiple domains](./img/ingress-example2.png)
 
-## Advanced Settings
+### Advanced Settings
 
 - `Traefik Middlewares`: Any `Traefik` middlewares may be added here
 
