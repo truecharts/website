@@ -49,7 +49,7 @@ Apps may not install and throw errors if you do not add a host and path.
 
 :::
 
-### Apps on New Common (v12+):
+### Certificate Settings:
 
 #### Single Domain
 
@@ -62,13 +62,6 @@ Apps may not install and throw errors if you do not add a host and path.
 To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager clusterIssuer` is blank for the TLS-Settings to be displayed.
 
 ![Ingress Example using cert-manager with multiple domains](./img/ingress-example2.png)
-
-### Apps on Old Common (-v11):
-
-- `TLS-Settings`
-  - `Certificate Hosts`: Must have one but multiple may be used.
-  - `Host`: (required) Enter FQDN for HTTPS (app.mydomain.com)
-  - `Select TrueNAS SCALE Certificate`: Choose the Certificate created for your domain, see <a href="https://www.truenas.com/docs/scale/scaletutorials/credentials/certificates/certificatesscale/" target="_blank">TrueNAS Scale Managing Certificates documentation</a>
 
 ## Advanced Settings
 
@@ -90,13 +83,3 @@ We recommend that in `Networking and Services` that the `Service Type` for the `
 
 Sometimes you might notice Traefik ignores your certificate. This is most likely due to the domain on your certificate being different from the domain you entered into the `HostName` entry.
 Traefik requires your certificate to match the domain used for Ingress. This is an upstream design decision and something we can easily and safely disable.
-
-## Video Guide
-
-:::note
-
-This video guide is for old common Apps only as it was made before the cert-manager App was introduced, however you may still find it useful.
-
-:::
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Rmav5gyAwI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
