@@ -65,7 +65,7 @@ To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager
 
 ### Advanced Settings
 
-- `Traefik Middlewares`: Any `Traefik` middlewares may be added here
+- `Traefik Middlewares`: Any `Traefik` middlewares can be added here, see how to [Add Basic Auth to Apps](/docs/charts/enterprise/traefik/traefik-basicAuth-middleware.md) for an example of a Traefik middleware.
 
 - `Add Manual Custom Ingresses` (expert): Enables advanced custom Ingress settings that may be used by expert users.
 
