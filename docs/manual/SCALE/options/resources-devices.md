@@ -7,12 +7,12 @@ Resources limits that have been defined by each application are in this section.
 
 ## `Resources and Devices`
 
-- `Set Custom Resources Limits/Requests`: (Unchecked by default) Enables advanced uses to change the allocation of resources such as CPU and RAM to the application. See the [validation page](https://truecharts.org/docs/manual/SCALE%20Apps/validation) for more info.
+- `Resources Limits/Advanced Limit Resource Consumption`: Enables changing the allocation of resources such as CPU and RAM to the application. See [Input Validation](/docs/manual/SCALE/validation.md) for more information.
   - `CPU` : Default is `4000m` for maximum and `10m` for minimum.
-  - `RAM` : Default is `8 GiB` for maximum and `50 Mi` for minimum.
+  - `RAM` : Default is `8 Gi` for maximum and `50 Mi` for minimum.
 - `Mount USB Devices`: Clicking `Add` enables the options below
-  - `Enable the Storage`: (Default) Enables the USB device storage
-  - `readOnly`: Unchchecked by default by may be enabled.
+  - `Enable the Storage`: Checked (default). Enables the USB device storage
+  - `readOnly`: Unchecked (default). Readonly Access.
   - `Host Device Path`: Path to the device on the host system
   - `Container Device Path`: Path inside the container the device is mounted
 
