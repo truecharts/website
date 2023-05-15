@@ -78,4 +78,4 @@ questions:
 ```
 
 The above will prompt the user with 2 text fields and a dropdown in the UI getting details for image configuration in a helm chart.
-*More information about questions.yaml is available [here](https://wiki.truecharts.org/development/questions-yaml/)*
+[*Read more information about questions.yaml*](./questions-yaml)
