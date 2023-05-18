@@ -3,24 +3,18 @@ sidebar_position: 15
 ---
 # Backup, Migrations and Restore
 
-:::warning Truetool deprecated in favor of HeavyScripts
-
-Please refer to [HeavyScript](https://github.com/Heavybullets8/heavy_script) for updates to TrueTool.
-
-:::
-
 :::caution Best Effort Policy
 
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation. 
-This guide has been thoroughly tested with TrueNAS SCALE 22.02.4.
+This guide has been thoroughly tested with TrueNAS SCALE 22.12.2.
 
 :::
 
 ## Requirements
 
-This guide makes use of our command-line tool, called `TrueTool` and assumes you've already created backups using the BASH TrueTool.
+This guide makes use of our command-line tool, called `HeavyScript` and assumes you've already created backups using the BASH HeavyScript.
 
-Please refer to the GitHub page for [Truetool](https://github.com/truecharts/truetool) to follow the commands and instructions below.
+Please refer to the GitHub page for [HeavyScript](https://github.com/Heavybullets8/heavy_script) to follow the commands and instructions below.
 
 ### ZFS replication
 
@@ -30,25 +24,19 @@ However, whilst zfs replication CAN be done to an archive file, which can be sav
 
 ## Backup
 
-If you haven't created a manual backup yet using `truetool` one must be created before any of the following steps below.
+If you haven't created a manual backup yet using `HeavyScript` one must be created before any of the following steps below.
 
 ```bash
-bash /PATH/TO/truetool_DIRECTORY/truetool.sh -b
+bash heavyscript backup
 ```
 
 It automatically deletes excessive backups, which defaults to a max. of 14 backups. To increase this, to 31 for example, use:
 
 ```bash
-bash /PATH/TO/truetool_DIRECTORY/truetool.sh -b 31
+bash heavyscript backup -c 31
 ```
 
-This can also easily be combined with other `truetool` options, such as update, sync, prune etc. like this:
-
-```bash
-bash /PATH/TO/truetool_DIRECTORY/truetool.sh -b 10 -sup
-```
-
->As mentioned above, all the commands and the various options for `truetool` are available on the [Truetool GitHub](https://github.com/truecharts/truetool) page
+>As mentioned above, all the commands and the various options for `HeavyScript` are available on the [HeavyScript GitHub](https://github.com/Heavybullets8/heavy_script) page
 
 ### Exporting Backups
 
@@ -78,13 +66,17 @@ However this is not part of this guide and we will assume you've done so yoursel
 
 ### Checking Backups
 
-To make which backups are present, one can use `truetool` command and select the 3rd option to get a list of backups
+To make which backups are present, one can use `HeavyScript` command and select the 3rd option.
 
-![TrueTool-Main](img/TrueTool-Main.png)
+![HeavyScript-Main](img/HeavyScript-Main.png)
 
 Which results in
 
-![TrueTool-BackupList](img/TrueTool-Backup-List.png)
+![HeavyScript-Backup](img/HeavyScript-Backup.png)
+
+To list which backups are present select the 3rd option to get a list of backups.
+
+![HeavyScript-RestoreList](img/HeavyScript-Restore-List.png)
 
 ## Restore
 
@@ -104,13 +96,13 @@ Reverting a running system is rather trivial. But there are a few caveats:
 
 To revert an existing system, the process is as follows:
 
-1. List your current backups using `truetool`
+1. List your current backups using `HeavyScript`
 
-2. Select option 5 `Restore a Backup`
+2. Select option 3 `Backup Options` and then option 3 `Restore Backup`
 
 3. Choose Backup and answer the prompt
 
-![TrueTool-RestoreList](img/TrueTool-Restore-List.png)
+![TrueTool-RestoreList](img/HeavyScript-Restore-List.png)
 
 Please keep in mind this can take a LONG time, so be sure to wait a few hours before touching the system again.
 When done, a reboot might be adviceable
