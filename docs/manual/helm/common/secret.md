@@ -4,6 +4,7 @@
 | :------------------------------- | :-------: | :------: | :----------------: | :------: | :-------------------------------- |
 | secret                           |  `dict`   |    ❌    |         ❌         |   `{}`   | Define the secret as dicts        |
 | secret.[secret-name]             |  `dict`   |    ✅    |         ❌         |   `{}`   | Holds secret definition           |
+| secret.[secret-name].namespace   | `string`  |    ❌    |         ✅         |   `""`   | Explicitly define the namespace   |
 | secret.[secret-name].enabled     | `boolean` |    ✅    |         ❌         | `false`  | Enables or Disables the secret    |
 | secret.[secret-name].labels      |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional labels for secret      |
 | secret.[secret-name].annotations |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional annotations for secret |
@@ -42,6 +43,7 @@ secret:
       key: value
 
   other-secret-name:
+    namespace: some-namespace
     enabled: true
     data:
       key: |
