@@ -4,6 +4,7 @@
 | :------------------------------------- | :-------: | :------: | :----------------: | :-----: | :----------------------------------- |
 | configmap                              |  `dict`   |    ❌    |         ❌         |  `{}`   | Define the configMaps as dicts       |
 | configmap.[configmap-name]             |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds configMap definition           |
+| configmap.[configmap-name].namespace   | `string`  |    ❌    |         ✅         |  `""`   | Explicitly define the namespace      |
 | configmap.[configmap-name].enabled     | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the configMap    |
 | configmap.[configmap-name].labels      |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for configmap      |
 | configmap.[configmap-name].annotations |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for configmap |
@@ -41,6 +42,7 @@ configmap:
 
   other-configmap-name:
     enabled: true
+    namespace: some-namespace
     data:
       key: |
         multi line
