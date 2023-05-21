@@ -33,7 +33,7 @@
     "swc-loader": "0.2.3"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.4.0"
+    "@docusaurus/module-type-aliases": "2.4.1"
   },
   "browserslist": {
     "production": [
