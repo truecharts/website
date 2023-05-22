@@ -2,6 +2,15 @@
 
 
 
+## [promcord-7.0.14](https://github.com/truecharts/charts/compare/promcord-7.0.13...promcord-7.0.14) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [promcord-7.0.13](https://github.com/truecharts/charts/compare/promcord-7.0.12...promcord-7.0.13) (2023-05-16)
 
 ### Chore

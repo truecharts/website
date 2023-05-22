@@ -2,6 +2,15 @@
 
 
 
+## [ser2sock-9.0.13](https://github.com/truecharts/charts/compare/ser2sock-9.0.12...ser2sock-9.0.13) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [ser2sock-9.0.12](https://github.com/truecharts/charts/compare/ser2sock-9.0.11...ser2sock-9.0.12) (2023-05-16)
 
 ### Chore

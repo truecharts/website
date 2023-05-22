@@ -2,6 +2,15 @@
 
 
 
+## [photoshow-6.0.11](https://github.com/truecharts/charts/compare/photoshow-6.0.10...photoshow-6.0.11) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [photoshow-6.0.10](https://github.com/truecharts/charts/compare/photoshow-6.0.9...photoshow-6.0.10) (2023-05-16)
 
 ### Chore

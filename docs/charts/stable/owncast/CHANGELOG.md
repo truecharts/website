@@ -2,6 +2,15 @@
 
 
 
+## [owncast-9.0.13](https://github.com/truecharts/charts/compare/owncast-9.0.12...owncast-9.0.13) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [owncast-9.0.12](https://github.com/truecharts/charts/compare/owncast-9.0.11...owncast-9.0.12) (2023-05-16)
 
 ### Chore

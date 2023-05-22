@@ -2,6 +2,15 @@
 
 
 
+## [hammond-5.0.4](https://github.com/truecharts/charts/compare/hammond-5.0.3...hammond-5.0.4) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [hammond-5.0.3](https://github.com/truecharts/charts/compare/hammond-5.0.2...hammond-5.0.3) (2023-05-16)
 
 ### Chore
