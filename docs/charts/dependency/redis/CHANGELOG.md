@@ -2,6 +2,19 @@
 
 
 
+## [redis-6.0.43](https://github.com/truecharts/charts/compare/redis-6.0.42...redis-6.0.43) (2023-05-22)
+
+### Chore
+
+- update helm chart common to 12.9.2 ([#9064](https://github.com/truecharts/charts/issues/9064))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [redis-6.0.42](https://github.com/truecharts/charts/compare/redis-6.0.41...redis-6.0.42) (2023-05-21)
 
 ### Chore
