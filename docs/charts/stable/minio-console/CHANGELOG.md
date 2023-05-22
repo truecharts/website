@@ -2,6 +2,15 @@
 
 
 
+## [minio-console-6.0.17](https://github.com/truecharts/charts/compare/minio-console-6.0.16...minio-console-6.0.17) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
 ## [minio-console-6.0.16](https://github.com/truecharts/charts/compare/minio-console-6.0.15...minio-console-6.0.16) (2023-05-22)
 
 ### Chore

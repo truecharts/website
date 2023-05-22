@@ -2,6 +2,15 @@
 
 
 
+## [tvheadend-15.0.20](https://github.com/truecharts/charts/compare/tvheadend-15.0.19...tvheadend-15.0.20) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
 ## [tvheadend-15.0.19](https://github.com/truecharts/charts/compare/tvheadend-15.0.18...tvheadend-15.0.19) (2023-05-22)
 
 ### Chore

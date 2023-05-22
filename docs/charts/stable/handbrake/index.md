@@ -1,6 +1,6 @@
 # handbrake
 
-![Version: 16.0.6](https://img.shields.io/badge/Version-16.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "23.04.1"](https://img.shields.io/badge/AppVersion-"23.04.1"-informational?style=flat-square)
+![Version: 16.0.7](https://img.shields.io/badge/Version-16.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "23.04.1"](https://img.shields.io/badge/AppVersion-"23.04.1"-informational?style=flat-square)
 
 HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 

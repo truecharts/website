@@ -2,6 +2,15 @@
 
 
 
+## [radarr-16.0.10](https://github.com/truecharts/charts/compare/radarr-16.0.9...radarr-16.0.10) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
 ## [radarr-16.0.9](https://github.com/truecharts/charts/compare/radarr-16.0.8...radarr-16.0.9) (2023-05-22)
 
 ### Feat

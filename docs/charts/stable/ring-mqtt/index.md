@@ -1,6 +1,6 @@
 # ring-mqtt
 
-![Version: 4.0.14](https://img.shields.io/badge/Version-4.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.2.2"](https://img.shields.io/badge/AppVersion-"5.2.2"-informational?style=flat-square)
+![Version: 4.0.15](https://img.shields.io/badge/Version-4.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.2.2"](https://img.shields.io/badge/AppVersion-"5.2.2"-informational?style=flat-square)
 
 Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.
 

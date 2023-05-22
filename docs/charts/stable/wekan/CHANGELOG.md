@@ -2,6 +2,15 @@
 
 
 
+## [wekan-9.0.12](https://github.com/truecharts/charts/compare/wekan-9.0.11...wekan-9.0.12) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
 ## [wekan-9.0.11](https://github.com/truecharts/charts/compare/wekan-9.0.10...wekan-9.0.11) (2023-05-22)
 
 ### Feat

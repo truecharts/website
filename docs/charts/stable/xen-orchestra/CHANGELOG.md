@@ -2,6 +2,15 @@
 
 
 
+## [xen-orchestra-4.0.14](https://github.com/truecharts/charts/compare/xen-orchestra-4.0.13...xen-orchestra-4.0.14) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
 ## [xen-orchestra-4.0.13](https://github.com/truecharts/charts/compare/xen-orchestra-4.0.12...xen-orchestra-4.0.13) (2023-05-22)
 
 ### Feat

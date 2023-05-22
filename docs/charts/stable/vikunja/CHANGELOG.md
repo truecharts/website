@@ -2,6 +2,15 @@
 
 
 
+## [vikunja-8.0.8](https://github.com/truecharts/charts/compare/vikunja-8.0.7...vikunja-8.0.8) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
 ## [vikunja-8.0.7](https://github.com/truecharts/charts/compare/vikunja-8.0.6...vikunja-8.0.7) (2023-05-22)
 
 ### Feat

@@ -2,6 +2,15 @@
 
 
 
+## [minetest-4.0.17](https://github.com/truecharts/charts/compare/minetest-4.0.16...minetest-4.0.17) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
 ## [minetest-4.0.16](https://github.com/truecharts/charts/compare/minetest-4.0.15...minetest-4.0.16) (2023-05-22)
 
 ### Feat
