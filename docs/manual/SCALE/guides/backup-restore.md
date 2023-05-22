@@ -114,6 +114,10 @@ To revert an existing system, the process is as follows:
 Please keep in mind this can take a LONG time, so be sure to wait a few hours before touching the system again.
 When done, a reboot might be adviseable
 
+### Postgresql Database Restore
+
+TBD
+
 ### Total System restore and Migration to new system
 
 >Sometimes you either need to wipe your system, Migrate to a new system or restore a system completely.
@@ -168,6 +172,3 @@ To fix this issue manually, run:
 ```bash
 zfs set mountpoint=legacy "$(zfs list -t filesystem -r "$(cli -c 'app kubernetes config' | grep -E "pool\s\|" | awk -F '|' '{print $3}' | tr -d " \t\n\r")" -o name -H | grep "volumes/pvc")" 
 ```
-
-Jira Ticket:
-https://ixsystems.atlassian.net/browse/NAS-118570
