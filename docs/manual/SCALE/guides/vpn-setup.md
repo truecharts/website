@@ -55,7 +55,7 @@ Now we can enter the Env Vars
 
 :::caution Killswitch Entry
 
-The Killswitch entry uses the Network ID and CIDR. Please note the example above is 192.168.1.0/24. This is never your default gateway or router IP address. If you fill this entry out incorrectly Gluetun will fail to start and the application it is attached to will fail to start. In almost all situations the Network ID will end in a .0 (ie. 192.168.0.0, 10.0.0.0, 172.16.0.0) and the CIDR will be /24. If you are unsure of what your Network ID and CIDR are please ask in [Networking](https://discord.com/channels/830763548678291466/967864860819988561)
+The Killswitch entry uses the Network ID and CIDR. Please note the example above is 192.168.1.0/24. This is never your default gateway or router IP address. If you fill this entry out incorrectly Gluetun will fail to start and the application it is attached to will fail to start. In almost all situations the Network ID will end in a .0 (ie. 192.168.0.0, 10.0.0.0, 172.16.0.0) and the CIDR will be /24.
 
   > Specifying the kubernetes subnet is not necessary as it is automatically excluded from the VPN tunnel
 
@@ -157,3 +157,15 @@ If your provider isn't supported by `Gluetun` then you can use a [custom provide
   - Note: use `/gluetun/vpn.conf` for `OPENVPN_CUSTOM_CONFIG` and not the path specified inside the `VPN config file location` above
 
 ![Custom Provider Example](img/CustomVPNprovider.png)
+
+## Troubleshooting
+
+To access the Gluetun logs do the following.
+
+1. Click the 3 dots on the app you are using with Gluetun.
+
+2. Select logs.
+
+3. In the Containers dropdown select the log that ends with "-vpn".
+
+![Gluteun VPN Log](img/Gluetun-vpn-log.png)
