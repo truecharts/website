@@ -2,6 +2,15 @@
 
 
 
+## [lidarr-16.0.11](https://github.com/truecharts/charts/compare/lidarr-16.0.10...lidarr-16.0.11) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
 ## [lidarr-16.0.10](https://github.com/truecharts/charts/compare/lidarr-16.0.9...lidarr-16.0.10) (2023-05-22)
 
 ### Chore

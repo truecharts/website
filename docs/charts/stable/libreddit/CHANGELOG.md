@@ -2,6 +2,15 @@
 
 
 
+## [libreddit-4.0.17](https://github.com/truecharts/charts/compare/libreddit-4.0.16...libreddit-4.0.17) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
 ## [libreddit-4.0.16](https://github.com/truecharts/charts/compare/libreddit-4.0.15...libreddit-4.0.16) (2023-05-22)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [lldap-1.1.7](https://github.com/truecharts/charts/compare/lldap-1.1.6...lldap-1.1.7) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
 ## [lldap-1.1.6](https://github.com/truecharts/charts/compare/lldap-1.1.5...lldap-1.1.6) (2023-05-23)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [automatic-music-downloader-5.0.14](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.13...automatic-music-downloader-5.0.14) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
 ## [automatic-music-downloader-5.0.13](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.12...automatic-music-downloader-5.0.13) (2023-05-22)
 
 ### Chore
