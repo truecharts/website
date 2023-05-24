@@ -2,6 +2,33 @@
 
 
 
+## [spotweb-8.0.13](https://github.com/truecharts/charts/compare/spotweb-8.0.12...spotweb-8.0.13) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [spotweb-8.0.12](https://github.com/truecharts/charts/compare/spotweb-8.0.11...spotweb-8.0.12) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [spotweb-8.0.11](https://github.com/truecharts/charts/compare/spotweb-8.0.10...spotweb-8.0.11) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [spotweb-8.0.10](https://github.com/truecharts/charts/compare/spotweb-8.0.9...spotweb-8.0.10) (2023-05-16)
 
 ### Chore

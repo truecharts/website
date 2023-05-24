@@ -2,6 +2,42 @@
 
 
 
+## [webtop-5.0.24](https://github.com/truecharts/charts/compare/webtop-5.0.23...webtop-5.0.24) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [webtop-5.0.23](https://github.com/truecharts/charts/compare/webtop-5.0.22...webtop-5.0.23) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [webtop-5.0.22](https://github.com/truecharts/charts/compare/webtop-5.0.21...webtop-5.0.22) (2023-05-22)
+
+### Chore
+
+- update webtop ([#9088](https://github.com/truecharts/charts/issues/9088))
+  
+  
+
+
+## [webtop-5.0.21](https://github.com/truecharts/charts/compare/webtop-5.0.20...webtop-5.0.21) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [webtop-5.0.20](https://github.com/truecharts/charts/compare/webtop-5.0.19...webtop-5.0.20) (2023-05-16)
 
 ### Chore

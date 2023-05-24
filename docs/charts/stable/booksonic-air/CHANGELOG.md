@@ -2,6 +2,42 @@
 
 
 
+## [booksonic-air-9.0.17](https://github.com/truecharts/charts/compare/booksonic-air-9.0.16...booksonic-air-9.0.17) (2023-05-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/booksonic-air to v2201.1.0 ([#9135](https://github.com/truecharts/charts/issues/9135))
+  
+  
+
+
+## [booksonic-air-9.0.16](https://github.com/truecharts/charts/compare/booksonic-air-9.0.15...booksonic-air-9.0.16) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [booksonic-air-9.0.15](https://github.com/truecharts/charts/compare/booksonic-air-9.0.14...booksonic-air-9.0.15) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [booksonic-air-9.0.14](https://github.com/truecharts/charts/compare/booksonic-air-9.0.13...booksonic-air-9.0.14) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [booksonic-air-9.0.13](https://github.com/truecharts/charts/compare/booksonic-air-9.0.12...booksonic-air-9.0.13) (2023-05-16)
 
 ### Chore

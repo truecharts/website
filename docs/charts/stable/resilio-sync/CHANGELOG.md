@@ -2,6 +2,33 @@
 
 
 
+## [resilio-sync-9.0.16](https://github.com/truecharts/charts/compare/resilio-sync-9.0.15...resilio-sync-9.0.16) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [resilio-sync-9.0.15](https://github.com/truecharts/charts/compare/resilio-sync-9.0.14...resilio-sync-9.0.15) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [resilio-sync-9.0.14](https://github.com/truecharts/charts/compare/resilio-sync-9.0.13...resilio-sync-9.0.14) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [resilio-sync-9.0.13](https://github.com/truecharts/charts/compare/resilio-sync-9.0.12...resilio-sync-9.0.13) (2023-05-16)
 
 ### Chore

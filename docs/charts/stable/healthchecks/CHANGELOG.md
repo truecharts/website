@@ -2,6 +2,33 @@
 
 
 
+## [healthchecks-10.0.6](https://github.com/truecharts/charts/compare/healthchecks-10.0.5...healthchecks-10.0.6) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [healthchecks-10.0.5](https://github.com/truecharts/charts/compare/healthchecks-10.0.4...healthchecks-10.0.5) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [healthchecks-10.0.4](https://github.com/truecharts/charts/compare/healthchecks-10.0.3...healthchecks-10.0.4) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [healthchecks-10.0.3](https://github.com/truecharts/charts/compare/healthchecks-10.0.2...healthchecks-10.0.3) (2023-05-16)
 
 ### Chore

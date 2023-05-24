@@ -2,6 +2,51 @@
 
 
 
+## [littlelink-9.0.22](https://github.com/truecharts/charts/compare/littlelink-9.0.21...littlelink-9.0.22) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [littlelink-9.0.21](https://github.com/truecharts/charts/compare/littlelink-9.0.20...littlelink-9.0.21) (2023-05-23)
+
+### Chore
+
+- update container image tccr.io/truecharts/littlelink-server to latest ([#9105](https://github.com/truecharts/charts/issues/9105))
+  
+  
+
+
+## [littlelink-9.0.20](https://github.com/truecharts/charts/compare/littlelink-9.0.19...littlelink-9.0.20) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [littlelink-9.0.19](https://github.com/truecharts/charts/compare/littlelink-9.0.18...littlelink-9.0.19) (2023-05-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/littlelink-server to latest ([#9074](https://github.com/truecharts/charts/issues/9074))
+  
+  
+
+
+## [littlelink-9.0.18](https://github.com/truecharts/charts/compare/littlelink-9.0.17...littlelink-9.0.18) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [littlelink-9.0.17](https://github.com/truecharts/charts/compare/littlelink-9.0.16...littlelink-9.0.17) (2023-05-16)
 
 ### Chore

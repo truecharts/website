@@ -2,6 +2,33 @@
 
 
 
+## [meshcentral-10.0.10](https://github.com/truecharts/charts/compare/meshcentral-10.0.9...meshcentral-10.0.10) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [meshcentral-10.0.9](https://github.com/truecharts/charts/compare/meshcentral-10.0.8...meshcentral-10.0.9) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [meshcentral-10.0.8](https://github.com/truecharts/charts/compare/meshcentral-10.0.7...meshcentral-10.0.8) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [meshcentral-10.0.7](https://github.com/truecharts/charts/compare/meshcentral-10.0.6...meshcentral-10.0.7) (2023-05-16)
 
 ### Chore

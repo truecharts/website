@@ -2,6 +2,60 @@
 
 
 
+## [rdesktop-4.0.26](https://github.com/truecharts/charts/compare/rdesktop-4.0.25...rdesktop-4.0.26) (2023-05-24)
+
+### Chore
+
+- update rdesktop ([#9123](https://github.com/truecharts/charts/issues/9123))
+  
+  
+
+
+## [rdesktop-4.0.26](https://github.com/truecharts/charts/compare/rdesktop-4.0.25...rdesktop-4.0.26) (2023-05-24)
+
+### Chore
+
+- update rdesktop ([#9123](https://github.com/truecharts/charts/issues/9123))
+  
+  
+
+
+## [rdesktop-4.0.25](https://github.com/truecharts/charts/compare/rdesktop-4.0.24...rdesktop-4.0.25) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [rdesktop-4.0.24](https://github.com/truecharts/charts/compare/rdesktop-4.0.23...rdesktop-4.0.24) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [rdesktop-4.0.23](https://github.com/truecharts/charts/compare/rdesktop-4.0.22...rdesktop-4.0.23) (2023-05-22)
+
+### Chore
+
+- update rdesktop ([#9087](https://github.com/truecharts/charts/issues/9087))
+  
+  
+
+
+## [rdesktop-4.0.22](https://github.com/truecharts/charts/compare/rdesktop-4.0.21...rdesktop-4.0.22) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [rdesktop-4.0.21](https://github.com/truecharts/charts/compare/rdesktop-4.0.20...rdesktop-4.0.21) (2023-05-16)
 
 ### Chore

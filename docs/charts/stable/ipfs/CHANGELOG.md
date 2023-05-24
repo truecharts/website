@@ -2,6 +2,37 @@
 
 
 
+## [ipfs-6.0.17](https://github.com/truecharts/charts/compare/ipfs-6.0.16...ipfs-6.0.17) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [ipfs-6.0.16](https://github.com/truecharts/charts/compare/ipfs-6.0.15...ipfs-6.0.16) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  ### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
+## [ipfs-6.0.15](https://github.com/truecharts/charts/compare/ipfs-6.0.14...ipfs-6.0.15) (2023-05-21)
+
+### Chore
+
+- update container image tccr.io/truecharts/ipfs to v0.20.0 ([#9047](https://github.com/truecharts/charts/issues/9047))
+  
+  
+
+
 ## [ipfs-6.0.14](https://github.com/truecharts/charts/compare/ipfs-6.0.13...ipfs-6.0.14) (2023-05-16)
 
 ### Chore

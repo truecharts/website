@@ -2,6 +2,37 @@
 
 
 
+## [grafana-7.0.38](https://github.com/truecharts/charts/compare/grafana-7.0.37...grafana-7.0.38) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [grafana-7.0.37](https://github.com/truecharts/charts/compare/grafana-7.0.36...grafana-7.0.37) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [grafana-7.0.36](https://github.com/truecharts/charts/compare/grafana-7.0.35...grafana-7.0.36) (2023-05-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/grafana to v9.5.2 ([#9071](https://github.com/truecharts/charts/issues/9071))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [grafana-7.0.35](https://github.com/truecharts/charts/compare/grafana-7.0.34...grafana-7.0.35) (2023-05-16)
 
 ### Chore

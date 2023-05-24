@@ -2,6 +2,64 @@
 
 
 
+## [redis-6.0.45](https://github.com/truecharts/charts/compare/redis-6.0.44...redis-6.0.45) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [redis-6.0.45](https://github.com/truecharts/charts/compare/redis-6.0.44...redis-6.0.45) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [redis-6.0.45](https://github.com/truecharts/charts/compare/redis-6.0.44...redis-6.0.45) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [redis-6.0.44](https://github.com/truecharts/charts/compare/redis-6.0.43...redis-6.0.44) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.9.5 ([#9118](https://github.com/truecharts/charts/issues/9118))
+  
+  
+
+
+## [redis-6.0.43](https://github.com/truecharts/charts/compare/redis-6.0.42...redis-6.0.43) (2023-05-22)
+
+### Chore
+
+- update helm chart common to 12.9.2 ([#9064](https://github.com/truecharts/charts/issues/9064))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
+## [redis-6.0.42](https://github.com/truecharts/charts/compare/redis-6.0.41...redis-6.0.42) (2023-05-21)
+
+### Chore
+
+- update helm chart common to 12.8.2 ([#9028](https://github.com/truecharts/charts/issues/9028))
+  
+  
+
+
 ## [redis-6.0.41](https://github.com/truecharts/charts/compare/redis-6.0.40...redis-6.0.41) (2023-05-15)
 
 ### Chore

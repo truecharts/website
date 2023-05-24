@@ -2,6 +2,33 @@
 
 
 
+## [ngircd-5.0.4000002](https://github.com/truecharts/charts/compare/ngircd-5.0.4000001...ngircd-5.0.4000002) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [ngircd-5.0.4000001](https://github.com/truecharts/charts/compare/ngircd-5.0.4000000...ngircd-5.0.4000001) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [ngircd-5.0.4000000](https://github.com/truecharts/charts/compare/ngircd-5.0.3...ngircd-5.0.4000000) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [ngircd-5.0.3](https://github.com/truecharts/charts/compare/ngircd-5.0.2...ngircd-5.0.3) (2023-05-16)
 
 ### Chore

@@ -2,6 +2,60 @@
 
 
 
+## [rsshub-7.0.28](https://github.com/truecharts/charts/compare/rsshub-7.0.27...rsshub-7.0.28) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [rsshub-7.0.27](https://github.com/truecharts/charts/compare/rsshub-7.0.26...rsshub-7.0.27) (2023-05-23)
+
+### Chore
+
+- update container image tccr.io/truecharts/rsshub to latest ([#9108](https://github.com/truecharts/charts/issues/9108))
+  
+  
+
+
+## [rsshub-7.0.26](https://github.com/truecharts/charts/compare/rsshub-7.0.25...rsshub-7.0.26) (2023-05-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/rsshub to latest ([#9094](https://github.com/truecharts/charts/issues/9094))
+  
+  
+
+
+## [rsshub-7.0.25](https://github.com/truecharts/charts/compare/rsshub-7.0.24...rsshub-7.0.25) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [rsshub-7.0.24](https://github.com/truecharts/charts/compare/rsshub-7.0.23...rsshub-7.0.24) (2023-05-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/rsshub to latest ([#9080](https://github.com/truecharts/charts/issues/9080))
+  
+  
+
+
+## [rsshub-7.0.23](https://github.com/truecharts/charts/compare/rsshub-7.0.22...rsshub-7.0.23) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [rsshub-7.0.22](https://github.com/truecharts/charts/compare/rsshub-7.0.21...rsshub-7.0.22) (2023-05-16)
 
 ### Chore

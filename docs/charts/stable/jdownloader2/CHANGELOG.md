@@ -2,6 +2,33 @@
 
 
 
+## [jdownloader2-11.0.8](https://github.com/truecharts/charts/compare/jdownloader2-11.0.7...jdownloader2-11.0.8) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [jdownloader2-11.0.7](https://github.com/truecharts/charts/compare/jdownloader2-11.0.6...jdownloader2-11.0.7) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [jdownloader2-11.0.6](https://github.com/truecharts/charts/compare/jdownloader2-11.0.5...jdownloader2-11.0.6) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [jdownloader2-11.0.5](https://github.com/truecharts/charts/compare/jdownloader2-11.0.4...jdownloader2-11.0.5) (2023-05-16)
 
 ### Chore

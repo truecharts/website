@@ -2,6 +2,37 @@
 
 
 
+## [lidarr-16.0.11](https://github.com/truecharts/charts/compare/lidarr-16.0.10...lidarr-16.0.11) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [lidarr-16.0.10](https://github.com/truecharts/charts/compare/lidarr-16.0.9...lidarr-16.0.10) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  ### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
+## [lidarr-16.0.9](https://github.com/truecharts/charts/compare/lidarr-16.0.8...lidarr-16.0.9) (2023-05-21)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.0.3183 ([#9045](https://github.com/truecharts/charts/issues/9045))
+  
+  
+
+
 ## [lidarr-16.0.8](https://github.com/truecharts/charts/compare/lidarr-16.0.7...lidarr-16.0.8) (2023-05-16)
 
 ### Chore

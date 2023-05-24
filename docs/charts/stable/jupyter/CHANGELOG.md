@@ -2,6 +2,42 @@
 
 
 
+## [jupyter-4.0.23](https://github.com/truecharts/charts/compare/jupyter-4.0.22...jupyter-4.0.23) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [jupyter-4.0.22](https://github.com/truecharts/charts/compare/jupyter-4.0.21...jupyter-4.0.22) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [jupyter-4.0.21](https://github.com/truecharts/charts/compare/jupyter-4.0.20...jupyter-4.0.21) (2023-05-22)
+
+### Chore
+
+- update jupyter ([#9085](https://github.com/truecharts/charts/issues/9085))
+  
+  
+
+
+## [jupyter-4.0.20](https://github.com/truecharts/charts/compare/jupyter-4.0.19...jupyter-4.0.20) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [jupyter-4.0.19](https://github.com/truecharts/charts/compare/jupyter-4.0.18...jupyter-4.0.19) (2023-05-16)
 
 ### Chore

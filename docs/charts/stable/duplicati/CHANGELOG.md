@@ -2,6 +2,33 @@
 
 
 
+## [duplicati-9.0.15](https://github.com/truecharts/charts/compare/duplicati-9.0.14...duplicati-9.0.15) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [duplicati-9.0.14](https://github.com/truecharts/charts/compare/duplicati-9.0.13...duplicati-9.0.14) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [duplicati-9.0.13](https://github.com/truecharts/charts/compare/duplicati-9.0.12...duplicati-9.0.13) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [duplicati-9.0.12](https://github.com/truecharts/charts/compare/duplicati-9.0.11...duplicati-9.0.12) (2023-05-16)
 
 ### Chore

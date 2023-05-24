@@ -2,6 +2,38 @@
 
 
 
+## [baserow-7.0.16](https://github.com/truecharts/charts/compare/baserow-7.0.15...baserow-7.0.16) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [baserow-7.0.15](https://github.com/truecharts/charts/compare/baserow-7.0.14...baserow-7.0.15) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  - update container image tccr.io/truecharts/baserow to v1.17.1 ([#9036](https://github.com/truecharts/charts/issues/9036))
+  
+  
+
+
+## [baserow-7.0.14](https://github.com/truecharts/charts/compare/baserow-7.0.13...baserow-7.0.14) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  ### Fix
+
+- Fix DATABASE_HOST env var ([#8872](https://github.com/truecharts/charts/issues/8872))
+  
+  
+
+
 ## [baserow-7.0.13](https://github.com/truecharts/charts/compare/baserow-7.0.12...baserow-7.0.13) (2023-05-16)
 
 ### Chore

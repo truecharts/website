@@ -4,22 +4,29 @@
 
 This options should not need to be changed per chart.
 
-| Key                                                                |   Type   | Required |   Helm Template    |   Default   | Description                                                  |
-| :----------------------------------------------------------------- | :------: | :------: | :----------------: | :---------: | :----------------------------------------------------------- |
-| .Values.global.labels                                              |  `dict`  |    ❌    | ✅ (On value only) |    `{}`     | Additional Labels that apply to all objects                  |
-| .Values.global.annotations                                         |  `dict`  |    ❌    | ✅ (On value only) |    `{}`     | Additional Annotations that apply to all objects             |
-| .Values.global.minNodePort                                         |  `int`   |    ✅    |         ❌         |   `9000`    | Minimum Node Port Allowed                                    |
-| .Values.fallbackDefaults.probeType                                 | `string` |    ✅    |         ❌         |   `http`    | Default probe type when not defined in the container level   |
-| .Values.fallbackDefaults.serviceProtocol                           | `string` |    ✅    |         ❌         |    `tcp`    | Default service protocol when not defined in the service     |
-| .Values.fallbackDefaults.serviceType                               | `string` |    ✅    |         ❌         | `ClusterIP` | Default service type when not defined in the service         |
-| .Values.fallbackDefaults.persistenceType                           | `string` |    ✅    |         ❌         | `emptyDir`  | Default persistence type when not defined in the persistence |
-| .Values.fallbackDefaults.probeTimeouts                             |  `dict`  |    ✅    |         ❌         |  See below  | Default probe timeouts if not defined in the container       |
-| .Values.fallbackDefaults.probeTimeouts.[probe]                     |  `dict`  |    ✅    |         ❌         |  See below  | Default probe timeouts if not defined in the container       |
-| .Values.fallbackDefaults.probeTimeouts.[probe].initialDelaySeconds |  `int`   |    ✅    |         ❌         |  See below  | Default initialDelaySeconds if not defined in the container  |
-| .Values.fallbackDefaults.probeTimeouts.[probe].periodSeconds       |  `int`   |    ✅    |         ❌         |  See below  | Default periodSeconds if not defined in the container        |
-| .Values.fallbackDefaults.probeTimeouts.[probe].timeoutSeconds      |  `int`   |    ✅    |         ❌         |  See below  | Default timeoutSeconds if not defined in the container       |
-| .Values.fallbackDefaults.probeTimeouts.[probe].failureThreshold    |  `int`   |    ✅    |         ❌         |  See below  | Default failureThreshold if not defined in the container     |
-| .Values.fallbackDefaults.probeTimeouts.[probe].successThreshold    |  `int`   |    ✅    |         ❌         |  See below  | Default successThreshold if not defined in the container     |
+| Key                                                                |   Type    | Required |   Helm Template    |   Default   | Description                                                                    |
+| :----------------------------------------------------------------- | :-------: | :------: | :----------------: | :---------: | :----------------------------------------------------------------------------- |
+| .Values.global.labels                                              |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Labels that apply to all objects                                    |
+| .Values.global.annotations                                         |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Annotations that apply to all objects                               |
+| .Values.global.minNodePort                                         |   `int`   |    ✅    |         ❌         |   `9000`    | Minimum Node Port Allowed                                                      |
+| .Values.global.createTCNamespace                                   | `boolean` |    ❌    |         ❌         |   `true`    | Whether to create tc-system namespace                                          |
+| .Values.fallbackDefaults.probeType                                 | `string`  |    ✅    |         ❌         |   `http`    | Default probe type when not defined in the container level                     |
+| .Values.fallbackDefaults.serviceProtocol                           | `string`  |    ✅    |         ❌         |    `tcp`    | Default service protocol when not defined in the service                       |
+| .Values.fallbackDefaults.serviceType                               | `string`  |    ✅    |         ❌         | `ClusterIP` | Default service type when not defined in the service                           |
+| .Values.fallbackDefaults.persistenceType                           | `string`  |    ✅    |         ❌         | `emptyDir`  | Default persistence type when not defined in the persistence                   |
+| .Values.fallbackDefaults.probeTimeouts                             |  `dict`   |    ✅    |         ❌         |  See below  | Default probe timeouts if not defined in the container                         |
+| .Values.fallbackDefaults.probeTimeouts.[probe]                     |  `dict`   |    ✅    |         ❌         |  See below  | Default probe timeouts if not defined in the container                         |
+| .Values.fallbackDefaults.probeTimeouts.[probe].initialDelaySeconds |   `int`   |    ✅    |         ❌         |  See below  | Default initialDelaySeconds if not defined in the container                    |
+| .Values.fallbackDefaults.probeTimeouts.[probe].periodSeconds       |   `int`   |    ✅    |         ❌         |  See below  | Default periodSeconds if not defined in the container                          |
+| .Values.fallbackDefaults.probeTimeouts.[probe].timeoutSeconds      |   `int`   |    ✅    |         ❌         |  See below  | Default timeoutSeconds if not defined in the container                         |
+| .Values.fallbackDefaults.probeTimeouts.[probe].failureThreshold    |   `int`   |    ✅    |         ❌         |  See below  | Default failureThreshold if not defined in the container                       |
+| .Values.fallbackDefaults.probeTimeouts.[probe].successThreshold    |   `int`   |    ✅    |         ❌         |  See below  | Default successThreshold if not defined in the container                       |
+| .Values.operator                                                   |  `dict`   |    ❌    |         ❌         |  See below  | Contains specific settings for helm charts containing or using operators       |
+| .Values.operator.register                                          | `boolean` |    ❌    |         ❌         |   `false`   | Adds a configmap in `tc-system` namespace to register the chart as an operator |
+| .Values.operator.verify                                            |  `dict`   |    ❌    |         ❌         |  See below  | Contains specific settings for verifying operators                             |
+| .Values.operator.verify.enabled                                    | `boolean` |    ❌    |         ❌         |   `true`    | Enables or disables the verification of operators                              |
+| .Values.operator.verify.additionalOperators                        |  `list`   |    ❌    |         ❌         |    `[]`     | Additional operators to verify                                                 |
+| .Values.operator.verify.additionalOperators.[operator]             | `string`  |    ❌    |         ❌         |    `""`     | Operator to verify                                                             |
 
 ---
 
@@ -60,6 +67,7 @@ global:
     key: value
     keytpl: "{{ .Values.some.value }}"
   minNodePort: 9000
+  createTCNamespace: true
 
 faillbackDefaults:
   probeType: http
@@ -85,6 +93,14 @@ faillbackDefaults:
       timeoutSeconds: 2
       failureThreshold: 60
       successThreshold: 1
+
+operator:
+  register: false
+  verify:
+    enabled: true
+    additionalOperators:
+      - operator1
+      - operator2
 ```
 
 ---

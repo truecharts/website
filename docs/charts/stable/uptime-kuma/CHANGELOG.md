@@ -2,6 +2,42 @@
 
 
 
+## [uptime-kuma-6.0.17](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.16...uptime-kuma-6.0.17) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [uptime-kuma-6.0.16](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.15...uptime-kuma-6.0.16) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [uptime-kuma-6.0.15](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.14...uptime-kuma-6.0.15) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
+## [uptime-kuma-6.0.14](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.13...uptime-kuma-6.0.14) (2023-05-20)
+
+### Chore
+
+- update container image tccr.io/truecharts/uptime-kuma to v1.21.3 ([#9021](https://github.com/truecharts/charts/issues/9021))
+  
+  
+
+
 ## [uptime-kuma-6.0.13](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.12...uptime-kuma-6.0.13) (2023-05-16)
 
 ### Chore

@@ -2,6 +2,51 @@
 
 
 
+## [photoprism-14.0.18](https://github.com/truecharts/charts/compare/photoprism-14.0.17...photoprism-14.0.18) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [photoprism-14.0.17](https://github.com/truecharts/charts/compare/photoprism-14.0.16...photoprism-14.0.17) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [photoprism-14.0.16](https://github.com/truecharts/charts/compare/photoprism-14.0.15...photoprism-14.0.16) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
+## [photoprism-14.0.15](https://github.com/truecharts/charts/compare/photoprism-14.0.14...photoprism-14.0.15) (2023-05-20)
+
+### Chore
+
+- update container image tccr.io/truecharts/photoprism to v230514 ([#9018](https://github.com/truecharts/charts/issues/9018))
+  
+  
+
+
+## [photoprism-14.0.14](https://github.com/truecharts/charts/compare/photoprism-14.0.13...photoprism-14.0.14) (2023-05-19)
+
+### Chore
+
+- update helm general non-major ([#8994](https://github.com/truecharts/charts/issues/8994))
+  
+  
+
+
 ## [photoprism-14.0.13](https://github.com/truecharts/charts/compare/photoprism-14.0.12...photoprism-14.0.13) (2023-05-16)
 
 ### Chore

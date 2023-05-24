@@ -2,6 +2,37 @@
 
 
 
+## [jackett-14.0.20](https://github.com/truecharts/charts/compare/jackett-14.0.19...jackett-14.0.20) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [jackett-14.0.19](https://github.com/truecharts/charts/compare/jackett-14.0.18...jackett-14.0.19) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  ### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
+## [jackett-14.0.18](https://github.com/truecharts/charts/compare/jackett-14.0.17...jackett-14.0.18) (2023-05-20)
+
+### Chore
+
+- update container image tccr.io/truecharts/jackett to v0.20.4145 ([#9011](https://github.com/truecharts/charts/issues/9011))
+  
+  
+
+
 ## [jackett-14.0.17](https://github.com/truecharts/charts/compare/jackett-14.0.16...jackett-14.0.17) (2023-05-16)
 
 ### Chore

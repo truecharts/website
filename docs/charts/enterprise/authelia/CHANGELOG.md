@@ -2,6 +2,37 @@
 
 
 
+## [authelia-15.1.20](https://github.com/truecharts/charts/compare/authelia-15.1.19...authelia-15.1.20) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [authelia-15.1.19](https://github.com/truecharts/charts/compare/authelia-15.1.17...authelia-15.1.19) (2023-05-23)
+
+### Chore
+
+- Improved lint speed ([#8809](https://github.com/truecharts/charts/issues/8809))
+  
+  
+
+
+## [authelia-15.1.17](https://github.com/truecharts/charts/compare/authelia-15.1.16...authelia-15.1.17) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [authelia-15.1.16](https://github.com/truecharts/charts/compare/authelia-15.1.15...authelia-15.1.16) (2023-05-16)
 
 ### Chore

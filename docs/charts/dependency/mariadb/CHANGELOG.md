@@ -2,6 +2,73 @@
 
 
 
+## [mariadb-7.0.32](https://github.com/truecharts/charts/compare/mariadb-7.0.31...mariadb-7.0.32) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mariadb-7.0.32](https://github.com/truecharts/charts/compare/mariadb-7.0.31...mariadb-7.0.32) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mariadb-7.0.32](https://github.com/truecharts/charts/compare/mariadb-7.0.31...mariadb-7.0.32) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mariadb-7.0.31](https://github.com/truecharts/charts/compare/mariadb-7.0.30...mariadb-7.0.31) (2023-05-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/mariadb to v10.11.3 ([#9075](https://github.com/truecharts/charts/issues/9075))
+  
+  
+
+
+## [mariadb-7.0.30](https://github.com/truecharts/charts/compare/mariadb-7.0.29...mariadb-7.0.30) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.9.5 ([#9118](https://github.com/truecharts/charts/issues/9118))
+  
+  
+
+
+## [mariadb-7.0.29](https://github.com/truecharts/charts/compare/mariadb-7.0.28...mariadb-7.0.29) (2023-05-22)
+
+### Chore
+
+- update helm chart common to 12.9.2 ([#9064](https://github.com/truecharts/charts/issues/9064))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
+## [mariadb-7.0.28](https://github.com/truecharts/charts/compare/mariadb-7.0.27...mariadb-7.0.28) (2023-05-21)
+
+### Chore
+
+- update helm chart common to 12.8.2 ([#9028](https://github.com/truecharts/charts/issues/9028))
+  
+  
+
+
 ## [mariadb-7.0.27](https://github.com/truecharts/charts/compare/mariadb-7.0.26...mariadb-7.0.27) (2023-05-16)
 
 ### Chore

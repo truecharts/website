@@ -2,6 +2,37 @@
 
 
 
+## [dashy-3.0.3](https://github.com/truecharts/charts/compare/dashy-3.0.2...dashy-3.0.3) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [dashy-3.0.2](https://github.com/truecharts/charts/compare/dashy-3.0.1...dashy-3.0.2) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
+## [dashy-3.0.1](https://github.com/truecharts/charts/compare/dashy-3.0.0...dashy-3.0.1) (2023-05-19)
+
+### Chore
+
+- update helm general non-major ([#8994](https://github.com/truecharts/charts/issues/8994))
+  
+  
+
+
 ## [dashy-3.0.0](https://github.com/truecharts/charts/compare/dashy-2.0.20...dashy-3.0.0) (2023-05-18)
 
 ### Fix

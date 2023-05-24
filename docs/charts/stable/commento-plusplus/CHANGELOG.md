@@ -2,6 +2,33 @@
 
 
 
+## [commento-plusplus-7.0.6](https://github.com/truecharts/charts/compare/commento-plusplus-7.0.5...commento-plusplus-7.0.6) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [commento-plusplus-7.0.5](https://github.com/truecharts/charts/compare/commento-plusplus-7.0.4...commento-plusplus-7.0.5) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [commento-plusplus-7.0.4](https://github.com/truecharts/charts/compare/commento-plusplus-7.0.3...commento-plusplus-7.0.4) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [commento-plusplus-7.0.3](https://github.com/truecharts/charts/compare/commento-plusplus-7.0.2...commento-plusplus-7.0.3) (2023-05-16)
 
 ### Chore

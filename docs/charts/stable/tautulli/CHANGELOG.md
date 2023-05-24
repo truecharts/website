@@ -2,6 +2,33 @@
 
 
 
+## [tautulli-14.0.16](https://github.com/truecharts/charts/compare/tautulli-14.0.15...tautulli-14.0.16) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [tautulli-14.0.15](https://github.com/truecharts/charts/compare/tautulli-14.0.14...tautulli-14.0.15) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [tautulli-14.0.14](https://github.com/truecharts/charts/compare/tautulli-14.0.13...tautulli-14.0.14) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [tautulli-14.0.13](https://github.com/truecharts/charts/compare/tautulli-14.0.12...tautulli-14.0.13) (2023-05-16)
 
 ### Chore
