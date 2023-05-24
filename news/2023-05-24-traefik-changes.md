@@ -10,9 +10,12 @@ By now we've fixed the remaining issues and will soon release a breaking-change 
 
 In short we've ensured that we only use our signature "tc-system" namespace for storing configuration and middlewares for traefik. This ensures consistent behavior for users using ingressClasses and allowed us to, cleanly, fix the known bug where a port got appended to the TrueNAS SCALE "portal" button.
 
-We also got the request from iX-systems staff a while ago to limit our use of non-ix-prefixed namespaces on kubernetes. While the other work to do so, requires a **lot** of work building our own operator helm-charts, these Traefik changes are the initial step to comply to those wishes. The "low hanging fruit".
+This also means that charts that do not get patches because they are not ported to new common, most notably: Nextcloud
+Will inherently not work anymore. Though, users would've been ill-adviced using it at all currently... due to the big ongoing nextcloud rework.
 
 **Unrelated new issue**
 
-There is also an unrelated temporary issue, which has been created on purpose: CNPG will currently only be installed on new systems, if one of our "enterprise" charts is being installed.
-The reason behind this, is the fact we're working hard on building seperate operator helm-charts, instead of handling it in the background. More news about this will be released later.
+We also got the request from iX-systems staff a while ago to limit our use of non-ix-prefixed namespaces on kubernetes. While the other work to do so, requires a **lot** of work building our own operator helm-charts, these Traefik changes are the initial step to comply to those wishes. The "low hanging fruit".
+
+As we're working hard on building seperate operator helm-charts, instead of handling it in the background.This work leads to a unrelated temporary issue, which has been created on purpose: CNPG will currently only be installed on new systems, if one of our "enterprise" charts is being installed.
+More news about this will be released later.
