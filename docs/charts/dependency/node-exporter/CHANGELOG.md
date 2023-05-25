@@ -29,6 +29,15 @@
   
 
 
+## [node-exporter-1.0.4](https://github.com/truecharts/charts/compare/node-exporter-1.0.3...node-exporter-1.0.4) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
 ## [node-exporter-1.0.3](https://github.com/truecharts/charts/compare/node-exporter-1.0.2...node-exporter-1.0.3) (2023-05-24)
 
 ### Chore

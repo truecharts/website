@@ -29,6 +29,15 @@
   
 
 
+## [mongodb-6.0.31](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.31) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
 ## [mongodb-6.0.30](https://github.com/truecharts/charts/compare/mongodb-6.0.29...mongodb-6.0.30) (2023-05-24)
 
 ### Chore
