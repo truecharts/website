@@ -2,6 +2,15 @@
 
 
 
+## [airsonic-9.0.17](https://github.com/truecharts/charts/compare/airsonic-9.0.16...airsonic-9.0.17) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
 ## [airsonic-9.0.16](https://github.com/truecharts/charts/compare/airsonic-9.0.15...airsonic-9.0.16) (2023-05-24)
 
 ### Chore

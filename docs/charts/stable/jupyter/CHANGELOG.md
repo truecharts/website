@@ -2,6 +2,15 @@
 
 
 
+## [jupyter-4.0.24](https://github.com/truecharts/charts/compare/jupyter-4.0.23...jupyter-4.0.24) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
 ## [jupyter-4.0.23](https://github.com/truecharts/charts/compare/jupyter-4.0.22...jupyter-4.0.23) (2023-05-24)
 
 ### Chore

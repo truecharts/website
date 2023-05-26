@@ -2,6 +2,15 @@
 
 
 
+## [portainer-4.0.10](https://github.com/truecharts/charts/compare/portainer-4.0.9...portainer-4.0.10) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
 ## [portainer-4.0.9](https://github.com/truecharts/charts/compare/portainer-4.0.8...portainer-4.0.9) (2023-05-24)
 
 ### Chore

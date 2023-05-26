@@ -2,6 +2,15 @@
 
 
 
+## [traggo-2.0.16](https://github.com/truecharts/charts/compare/traggo-2.0.15...traggo-2.0.16) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
 ## [traggo-2.0.15](https://github.com/truecharts/charts/compare/traggo-2.0.14...traggo-2.0.15) (2023-05-24)
 
 ### Chore
