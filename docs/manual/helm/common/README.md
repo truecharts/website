@@ -126,6 +126,8 @@ but still have the ability to override them on the pod/container level, in case 
 | .Values.podOptions                               |  `dict`   |    ✅    |      ❌       | See below | Options that apply to all pods                                         |
 | .Values.podOptions.enableServiceLinks            | `boolean` |    ✅    |      ❌       | See below | enableServiceLinks                                                     |
 | .Values.podOptions.hostNetwork                   | `boolean` |    ✅    |      ❌       | See below | hostNetwork                                                            |
+| .Values.podOptions.hostPID                       | `boolean` |    ✅    |      ❌       | See below | hostPID                                                                |
+| .Values.podOptions.shareProcessNamespace         | `boolean` |    ✅    |      ❌       | See below | shareProcessNamespace                                                  |
 | .Values.podOptions.restartPolicy                 | `string`  |    ✅    |      ❌       | See below | restartPolicy                                                          |
 | .Values.podOptions.dnsPolicy                     | `string`  |    ✅    |      ❌       | See below | dnsPolicy                                                              |
 | .Values.podOptions.dnsConfig                     |  `list`   |    ✅    |      ❌       | See below | dnsConfig                                                              |
@@ -156,6 +158,8 @@ resources:
 podOptions:
   enableServiceLinks: false
   hostNetwork: false
+  hostPID: false
+  shareProcessNamespace: false
   restartPolicy: Always
   dnsPolicy: ClusterFirst
   dnsConfig:

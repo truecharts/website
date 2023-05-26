@@ -12,8 +12,10 @@
 | workload.[workload-name].podSpec                                     |  `dict`   |    ✅    |         ❌         |                              `{}`                               | Holds the pod definition                                                 |
 | workload.[workload-name].podSpec.labels                              |  `dict`   |    ❌    | ✅ (On value only) |                              `{}`                               | Additional Pod Labels                                                    |
 | workload.[workload-name].podSpec.annotations                         |  `dict`   |    ❌    | ✅ (On value only) |                              `{}`                               | Pod Annotations                                                          |
-| workload.[workload-name].podSpec.automountServiceAccountToken        | `boolean` |    ❌    |         ❌         | `{{ .Values.podOptions.automountServiceAccoutnToken }}` (false) | Pod's automountServiceAccountToken                                       |
-| workload.[workload-name].podSpec.hostNetwork                         | `boolean` |    ❌    |         ❌         |         `{{ .Values.podOptions.hostNetwork }}` (false)          | Pod's hostNetwork                                                        |
+| workload.[workload-name].podSpec.automountServiceAccountToken        | `boolean` |    ❌    |         ❌         | `{{ .Values.podOptions.automountServiceAccountToken }}` (false) | Pod's automountServiceAccountToken                                       |
+| workload.[workload-name].podSpec.hostNetwork                         | `boolean` |    ❌    |         ❌         |         `{{ .Values.podOptions.hostNetwork }}` (false)          | Bind pod to host's network                                               |
+| workload.[workload-name].podSpec.hostPID                             | `boolean` |    ❌    |         ❌         |           `{{ .Values.podOptions.hostPID }}` (false)            | Allow pod to access host's PID namespace                                 |
+| workload.[workload-name].podSpec.shareProcessNamespace               | `boolean` |    ❌    |         ❌         |    `{{ .Values.podOptions.shareProcessNamespace }}` (false)     | Share Process Namespace with other containers in the pod                 |
 | workload.[workload-name].podSpec.enableServiceLinks                  | `boolean` |    ❌    |         ❌         |      `{{ .Values.podOptions.enableServiceLinks }}` (false)      | Pod's enableServiceLinks                                                 |
 | workload.[workload-name].podSpec.restartPolicy                       | `string`  |    ❌    |         ✅         |        `{{ .Values.podOptions.restartPolicy }}` (Always)        | Pod's restartPolicy. (Always, Never, OnFailure)                          |
 | workload.[workload-name].podSpec.schedulerName                       | `string`  |    ❌    |         ✅         |          `{{ .Values.podOptions.schedulerName }}` ("")          | Pod's schedulerName                                                      |
@@ -109,6 +111,8 @@ workload:
         key: value
       automountServiceAccountToken: true
       hostNetwork: false
+      hostPID: false
+      shareProcessNamespace: false
       enableServiceLinks: false
       schedulerName: some-scheduler
       priorityClassName: some-priority-class-name
