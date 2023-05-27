@@ -2689,7 +2689,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/traefik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
-                    "version": "18.0.4"
+                    "version": "18.0.5"
                 },
                 {
                     "name": "vaultwarden",
