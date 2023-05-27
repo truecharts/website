@@ -165,7 +165,7 @@ podOptions:
   dnsConfig:
     options:
       - name: ndots
-        value: "2"
+        value: "1"
   hostAliases: []
   tolerations: []
   runtimeClassName: ""
