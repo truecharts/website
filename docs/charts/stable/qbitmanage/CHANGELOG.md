@@ -2,6 +2,15 @@
 
 
 
+## [qbitmanage-4.0.19](https://github.com/truecharts/charts/compare/qbitmanage-4.0.18...qbitmanage-4.0.19) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
 ## [qbitmanage-4.0.18](https://github.com/truecharts/charts/compare/qbitmanage-4.0.17...qbitmanage-4.0.18) (2023-05-26)
 
 ### Chore

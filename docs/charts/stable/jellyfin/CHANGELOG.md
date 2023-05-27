@@ -2,6 +2,15 @@
 
 
 
+## [jellyfin-14.0.19](https://github.com/truecharts/charts/compare/jellyfin-14.0.18...jellyfin-14.0.19) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
 ## [jellyfin-14.0.18](https://github.com/truecharts/charts/compare/jellyfin-14.0.17...jellyfin-14.0.18) (2023-05-26)
 
 ### Chore

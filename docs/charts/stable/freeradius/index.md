@@ -1,6 +1,6 @@
 # freeradius
 
-![Version: 9.0.14](https://img.shields.io/badge/Version-9.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "3.2.0"](https://img.shields.io/badge/AppVersion-"3.2.0"-informational?style=flat-square)
+![Version: 9.0.15](https://img.shields.io/badge/Version-9.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "3.2.0"](https://img.shields.io/badge/AppVersion-"3.2.0"-informational?style=flat-square)
 
 OpenSource Radius implementation
 

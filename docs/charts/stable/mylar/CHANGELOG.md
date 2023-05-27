@@ -2,6 +2,15 @@
 
 
 
+## [mylar-9.0.21](https://github.com/truecharts/charts/compare/mylar-9.0.20...mylar-9.0.21) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
 ## [mylar-9.0.20](https://github.com/truecharts/charts/compare/mylar-9.0.19...mylar-9.0.20) (2023-05-26)
 
 ### Chore

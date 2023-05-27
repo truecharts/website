@@ -2,6 +2,15 @@
 
 
 
+## [papermerge-7.0.18](https://github.com/truecharts/charts/compare/papermerge-7.0.17...papermerge-7.0.18) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
 ## [papermerge-7.0.17](https://github.com/truecharts/charts/compare/papermerge-7.0.16...papermerge-7.0.17) (2023-05-26)
 
 ### Chore
