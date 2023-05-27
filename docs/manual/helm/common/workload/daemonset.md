@@ -2,6 +2,7 @@
 
 | Key                                                   |   Type   | Required | Helm Template |     Default     | Description                                                          |
 | :---------------------------------------------------- | :------: | :------: | :-----------: | :-------------: | :------------------------------------------------------------------- |
+| workload.[workload-name].revisionHistoryLimit         |  `int`   |    ❌    |      ❌       |       `3`       | The number of history revisions                                      |
 | workload.[workload-name].strategy                     | `string` |    ❌    |      ❌       | `RollingUpdate` | Define the strategy of the workload (OnDelete, RollingUpdate)        |
 | workload.[workload-name].rollingUpdate                |  `dict`  |    ❌    |      ❌       |      `{}`       | Holds the rollingUpdate options, Only when strategy is RollingUpdate |
 | workload.[workload-name].rollingUpdate.maxUnavailable |  `int`   |    ❌    |      ❌       |                 | Define the maxUnavailable, Only when strategy is RollingUpdate       |
@@ -25,7 +26,6 @@ workload:
     enabled: true
     primary: true
     type: DaemonSet
-    replicas: 1
     revisionHistoryLimit: 3
     strategy: RollingUpdate
     rollingUpdate:
