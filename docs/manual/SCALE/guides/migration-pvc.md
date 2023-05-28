@@ -65,7 +65,7 @@ You can skip this section if the app in question doesn't have a Postgresql datab
 
 :::
 
-If the app uses a Postgresql database, we need to make a backup and restore that backup to the new app's database.
+If the app uses a Postgresql database, we need to make a backup and restore that backup to the new app's database. To access the database, the app must be running.
 
 :::note Requirements
 
