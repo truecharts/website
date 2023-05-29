@@ -40,7 +40,7 @@ For apps installed with a different name, it will be `<app-name>-<default-name>`
 So for `vaultwarden` (the default name), it will be `vaultwarden`. But for the vaultwarden app that was installed with the name `testwarden`, it will be `testwarden-vaultwarden`.
 
 :::caution Replace the names in the angle brackets before executing commands
-
+Alternatively, you can use [HeavyScript]([url](https://github.com/Heavybullets8/heavy_script)) (ver 2.0.0+) to stop the new CNPG-enabled app.
 ```bash
 k3s kubectl scale deploy <app-name>-<default-name> -n ix-<app-name> --replicas=0
 k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0
@@ -49,7 +49,7 @@ k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0
 :::
 
 :::caution Example commands for apps with name vaultwarden and testwarden
-
+Alternatively, you can use [HeavyScript]([url](https://github.com/Heavybullets8/heavy_script)) (ver 2.0.0+) to stop the new CNPG-enabled app.
 ```bash
 k3s kubectl scale deploy testwarden-vaultwarden -n ix-testwarden --replicas=0
 k3s kubectl scale deploy vaultwarden -n ix-vaultwarden --replicas=0
@@ -65,7 +65,7 @@ You can skip this section if the app in question doesn't have a Postgresql datab
 
 :::
 
-If the app uses a Postgresql database, we need to make a backup and restore that backup to the new app's database.
+If the app uses a Postgresql database, we need to make a backup and restore that backup to the new app's database. To access the database, the app must be running.
 
 :::note Requirements
 
