@@ -36,10 +36,6 @@ The intro needs improvement ;)
 |audiobookshelf            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |audiobookshelf            |audiobooks            |PVC      |-              |/audiobooks                                          |Read/Write|Enabled                |
 |audiobookshelf            |metadata              |PVC      |-              |/metadata                                            |Read/Write|Enabled                |
-|authentik                 |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
-|authentik                 |templates             |PVC      |-              |/templates                                           |Read/Write|Enabled                |
-|authentik                 |certs                 |PVC      |-              |/certs                                               |Read/Write|Enabled                |
-|authentik                 |geoip                 |PVC      |-              |/geoip                                               |Read/Write|Enabled                |
 |autobrr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |automatic-music-downloader|config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |automatic-music-downloader|data                  |PVC      |-              |/downloads-amd                                       |Read/Write|Enabled                |
@@ -67,7 +63,6 @@ The intro needs improvement ;)
 |clamav                    |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
 |clarkson                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |cloud9                    |code                  |PVC      |-              |/code                                                |Read/Write|Enabled                |
-|cloudflared               |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |cloudflareddns            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |code-server               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |commento-plusplus         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -87,8 +82,6 @@ The intro needs improvement ;)
 |czkawka                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |czkawka                   |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |czkawka                   |trash                 |PVC      |-              |/trash                                               |Read/Write|Enabled                |
-|darktable                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|darktable                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |dashdot                   |host-mnt              |hostPath |/              |/mnt/host                                            |Read Only |Enabled                |
 |dashdot                   |mem                   |hostPath |/dev/mem       |/dev/mem                                             |Read Only |Enabled                |
 |davos                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -100,6 +93,7 @@ The intro needs improvement ;)
 |deemix                    |data                  |PVC      |-              |/downloads                                           |Read/Write|Enabled                |
 |deepstack                 |data                  |PVC      |-              |/datastore                                           |Read/Write|Enabled                |
 |deepstack                 |modelstore            |PVC      |-              |/modelstore/detection                                |Read/Write|Enabled                |
+|dell-idrac-fan-controller |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |deluge                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |digikam                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |dillinger                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -113,11 +107,7 @@ The intro needs improvement ;)
 |double-take               |data                  |PVC      |-              |/.storage                                            |Read/Write|Enabled                |
 |doublecommander           |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |drawio                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|dsmr-reader               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |duckdns                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|dupeguru                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|dupeguru                  |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
-|dupeguru                  |trash                 |PVC      |-              |/trash                                               |Read/Write|Enabled                |
 |duplicati                 |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |emby                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |embystat                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -142,23 +132,15 @@ The intro needs improvement ;)
 |fileflows                 |logs                  |PVC      |-              |/app/Logs                                            |Read/Write|Enabled                |
 |fileflows                 |temp                  |PVC      |-              |/temp                                                |Read/Write|Enabled                |
 |fileflows                 |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
-|filerun                   |config                |PVC      |-              |/var/www/html                                        |Read/Write|Enabled                |
-|filerun                   |userfile              |PVC      |-              |/user-files                                          |Read/Write|Enabled                |
-|filezilla                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|filezilla                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |fireflyiii                |data                  |PVC      |-              |/var/www/html/storage/upload                         |Read/Write|Enabled                |
-|firefox                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|firefox                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |firefox-syncserver        |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |flaresolverr              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|flashpaper                |data                  |PVC      |-              |/var/www/html/data                                   |Read/Write|Enabled                |
 |fleet                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |fleet                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |flexget                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |flexget                   |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |flood                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |fluidd                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|focalboard                |uploads               |PVC      |-              |/uploads                                             |Read/Write|Enabled                |
 |foldingathome             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |foldingathome             |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |fossil                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -173,16 +155,10 @@ The intro needs improvement ;)
 |golinks                   |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |golinks                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |gonic                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|gotify                    |data                  |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
-|gotify                    |config-file           |secret   |-              |/etc/gotify/config.yml                               |Read Only |Enabled                |
 |grav                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |grav                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|grist                     |persist               |PVC      |-              |/persist                                             |Read/Write|Enabled                |
 |grocy                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|guacamole-client          |initdbdata            |emptyDir |-              |/initdbdata                                          |Read/Write|Enabled                |
 |guacd                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|habridge                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|habridge                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |hammond                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |hammond                   |assets                |PVC      |-              |/assets                                              |Read/Write|Enabled                |
 |handbrake                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -205,18 +181,15 @@ The intro needs improvement ;)
 |htpcmanager               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |htpcmanager               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |hyperion-ng               |config                |PVC      |-              |/root/.hyperion                                      |Read/Write|Enabled                |
-|icantbelieveitsnotvaletudo|config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|icantbelieveitsnotvaletudo|settings              |custom   |-              |/app/config.json                                     |Read/Write|Enabled                |
-|icinga2                   |config                |PVC      |-              |/etc/icinga2                                         |Read/Write|Enabled                |
-|icinga2                   |data                  |PVC      |-              |/var/lib/icinga2                                     |Read/Write|Enabled                |
-|icinga2                   |web                   |PVC      |-              |/etc/icingaweb2                                      |Read/Write|Enabled                |
-|icinga2                   |ssmtp                 |PVC      |-              |/etc/ssmtp                                           |Read/Write|Enabled                |
-|immich                    |uploads               |PVC      |-              |/usr/src/app/upload                                  |Read/Write|Enabled                |
-|immich                    |modelcache            |emptyDir |-              |/cache                                               |Read/Write|Enabled                |
+|immich                    |mlcache               |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|immich                    |microcache            |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|immich                    |typesense             |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|immich                    |library               |PVC      |-              |/usr/src/app/upload/library                          |Read/Write|Enabled                |
+|immich                    |uploads               |PVC      |-              |/usr/src/app/upload/upload                           |Read/Write|Enabled                |
+|immich                    |thumbs                |PVC      |-              |/usr/src/app/upload/thumbs                           |Read/Write|Enabled                |
+|immich                    |profile               |PVC      |-              |/usr/src/app/upload/profile                          |Read/Write|Enabled                |
+|immich                    |video                 |PVC      |-              |/usr/src/app/upload/encoded-video                    |Read/Write|Enabled                |
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|inventree                 |data                  |PVC      |-              |/home/inventree/data                                 |Read/Write|Enabled                |
-|inventree                 |inventree-nginx       |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
-|invidious                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |ipfs                      |data                  |PVC      |-              |/data/ipfs                                           |Read/Write|Enabled                |
 |ipfs                      |staging               |PVC      |-              |/export                                              |Read/Write|Enabled                |
 |ipfs                      |ipfs                  |PVC      |-              |/ipfs                                                |Read/Write|Enabled                |
@@ -234,32 +207,20 @@ The intro needs improvement ;)
 |jellyfin                  |cache                 |emptyDir |-              |/cache                                               |Read/Write|Enabled                |
 |jellyfin                  |transcode             |emptyDir |-              |/config/transcodes                                   |Read/Write|Enabled                |
 |jellyseerr                |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
-|joplin-server             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |jupyter                   |data                  |PVC      |-              |/home/jovyan/work                                    |Read/Write|Enabled                |
-|k8s-gateway               |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |kanboard                  |data                  |PVC      |-              |/var/www/app/data                                    |Read/Write|Enabled                |
 |kanboard                  |ssl                   |PVC      |-              |/etc/nginx/ssl                                       |Read/Write|Enabled                |
 |kasm                      |data                  |PVC      |-              |/opt                                                 |Read/Write|Enabled                |
 |kasm                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |kavita                    |config                |PVC      |-              |/kavita/config                                       |Read/Write|Enabled                |
 |kavita                    |manga                 |PVC      |-              |/manga                                               |Read/Write|Enabled                |
-|kimai                     |data                  |PVC      |-              |/opt/kimai/var/data                                  |Read/Write|Enabled                |
-|kimai                     |plugins               |PVC      |-              |/opt/kimai/var/plugins                               |Read/Write|Enabled                |
 |kitchenowl                |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |kiwix-serve               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |kms                       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |kodi-headless             |config                |PVC      |-              |/config/.kodi                                        |Read/Write|Enabled                |
 |kodi-headless             |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|koel                      |music                 |PVC      |-              |/music                                               |Read/Write|Enabled                |
-|koel                      |covers                |PVC      |-              |/var/www/html/public/img/covers                      |Read/Write|Enabled                |
-|koel                      |searchindex           |PVC      |-              |/var/www/html/storage/search-indexes                 |Read/Write|Enabled                |
 |komga                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |komga                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|kopia                     |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
-|kopia                     |cache                 |PVC      |-              |/app/cache                                           |Read/Write|Enabled                |
-|kopia                     |logs                  |PVC      |-              |/app/logs                                            |Read/Write|Enabled                |
-|kopia                     |rclone                |PVC      |-              |/app/rclone                                          |Read/Write|Enabled                |
-|kutt                      |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |lama-cleaner              |torch                 |PVC      |-              |/root/.cache/torch                                   |Read/Write|Enabled                |
 |lama-cleaner              |huggingface           |PVC      |-              |/root/.cache/huggingface                             |Read/Write|Enabled                |
 |lancache-dns              |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -270,39 +231,18 @@ The intro needs improvement ;)
 |lazylibrarian             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |lazylibrarian             |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |leaf2mqtt                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|leantime                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |libreddit                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |libremdb                  |config                |PVC      |-              |/opt/app                                             |Read/Write|Enabled                |
-|libreoffice               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|libreoffice               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|librephotos               |media                 |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|librephotos               |protected-media       |PVC      |-              |/protected_media                                     |Read/Write|Enabled                |
-|librephotos               |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
-|librephotos               |cache                 |PVC      |-              |/root/.cache                                         |Read/Write|Enabled                |
-|librephotos               |librephotos-config    |custom   |-              |/etc/nginx/nginx.conf                                |Read/Write|Enabled                |
 |librespeed                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |lidarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|linkace                   |logs                  |PVC      |-              |/app/storage/logs                                    |Read/Write|Enabled                |
-|linkace                   |backups               |PVC      |-              |/app/storage/app/backups                             |Read/Write|Enabled                |
 |linkding                  |data                  |PVC      |-              |/etc/linkding/data                                   |Read/Write|Enabled                |
 |littlelink                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |lldap                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |logitech-media-server     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|loki                      |config                |secret   |-              |/etc/loki                                            |Read/Write|Enabled                |
-|lychee                    |conf                  |PVC      |-              |/conf                                                |Read/Write|Enabled                |
-|lychee                    |sym                   |PVC      |-              |/sym                                                 |Read/Write|Enabled                |
-|lychee                    |uploads               |PVC      |-              |/uploads                                             |Read/Write|Enabled                |
 |makemkv                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |makemkv                   |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |makemkv                   |output                |PVC      |-              |/output                                              |Read/Write|Enabled                |
 |matomo                    |data                  |PVC      |-              |/bitnami/matomo                                      |Read/Write|Enabled                |
-|mattermost                |config                |PVC      |-              |/mattermost/config                                   |Read/Write|Enabled                |
-|mattermost                |data                  |PVC      |-              |/mattermost/data                                     |Read/Write|Enabled                |
-|mattermost                |logs                  |PVC      |-              |/mattermost/logs                                     |Read/Write|Enabled                |
-|mattermost                |plugins               |PVC      |-              |/mattermost/plugins                                  |Read/Write|Enabled                |
-|mattermost                |clientplugins         |PVC      |-              |/mattermost/client/plugins                           |Read/Write|Enabled                |
-|mattermost                |bleveindexes          |PVC      |-              |/mattermost/bleve-indexes                            |Read/Write|Enabled                |
-|mealie                    |data                  |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |mediainfo                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mediainfo                 |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |medusa                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -322,7 +262,6 @@ The intro needs improvement ;)
 |minecraft-java            |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |minetest                  |config                |PVC      |-              |/config/.minetest                                    |Read/Write|Enabled                |
 |minetest                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|miniflux                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |minio                     |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |minio-console             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |minio-console             |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -332,15 +271,12 @@ The intro needs improvement ;)
 |mkvcleaver                |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |mkvtoolnix                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mkvtoolnix                |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
-|ml-workspace              |workspace             |PVC      |-              |/workspace                                           |Read/Write|Enabled                |
-|ml-workspace              |shm                   |emptyDir |-              |/dev/shm                                             |Read/Write|Enabled                |
+|mongo-express             |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |monica                    |config                |PVC      |-              |/var/www/html/storage                                |Read/Write|Enabled                |
 |mosdns                    |data                  |PVC      |-              |/etc/mosdns                                          |Read/Write|Enabled                |
-|mosquitto                 |data                  |PVC      |-              |/mosquitto/data                                      |Read/Write|Enabled                |
-|mosquitto                 |configinc             |PVC      |-              |/mosquitto/configinc                                 |Read/Write|Enabled                |
-|mosquitto                 |mosquitto-config      |custom   |-              |/mosquitto/config/mosquitto.conf                     |Read/Write|Enabled                |
 |mstream                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mstream                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|muse                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |muximux                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |muximux                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |mylar                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -365,11 +301,6 @@ The intro needs improvement ;)
 |netdata                   |netdata-configs       |configmap|-              |/etc/netdata/truecharts-defaults/.netdata.conf       |Read/Write|Enabled                |
 |netdata                   |go-d-configs          |configmap|-              |/etc/netdata/truecharts-defaults/.go.d.conf          |Read/Write|Enabled                |
 |netdata                   |go-d-k8s-state-configs|configmap|-              |/etc/netdata/truecharts-defaults/go.d/.k8s_state.conf|Read/Write|Enabled                |
-|nextcloud                 |html                  |PVC      |-              |/var/www/html                                        |Read/Write|Enabled                |
-|nextcloud                 |data                  |PVC      |-              |/var/www/html/data                                   |Read/Write|Enabled                |
-|nextcloud                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|nextcloud                 |cache                 |emptyDir |-              |/var/cache/nginx                                     |Read/Write|Enabled                |
-|nextcloud                 |nginx                 |custom   |-              |/etc/nginx                                           |Read Only |Enabled                |
 |nextpvr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |nextpvr                   |recordings            |PVC      |-              |/recordings                                          |Read/Write|Enabled                |
 |nextpvr                   |buffer                |PVC      |-              |/buffer                                              |Read/Write|Enabled                |
@@ -399,9 +330,6 @@ The intro needs improvement ;)
 |openhab                   |addons                |PVC      |-              |/openhab/addons                                      |Read/Write|Enabled                |
 |openhab                   |userdata              |PVC      |-              |/openhab/userdata                                    |Read/Write|Enabled                |
 |openhab                   |init                  |configmap|-              |/etc/cont-init.d/enable-console-logging.sh           |Read/Write|Enabled                |
-|openkm                    |config                |PVC      |-              |/opt/tomcat/repository                               |Read/Write|Enabled                |
-|openkm                    |init                  |custom   |-              |/config/init                                         |Read Only |Enabled                |
-|openldap                  |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |openspeedtest             |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |openvscode-server         |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |openvscode-server         |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -421,25 +349,13 @@ The intro needs improvement ;)
 |papermerge                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |papermerge                |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |pasta                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|penpot                    |data                  |PVC      |-              |/opt/data                                            |Read/Write|Enabled                |
-|penpot                    |assets                |PVC      |-              |/opt/data/assets                                     |Read/Write|Enabled                |
 |pgadmin                   |config                |PVC      |-              |/var/lib/pgadmin                                     |Read/Write|Enabled                |
 |photoprism                |storage               |PVC      |-              |/assets                                              |Read/Write|Enabled                |
 |photoprism                |photoprismtemp        |emptyDir |-              |/photoprism_temp                                     |Read/Write|Enabled                |
 |photoshow                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |photoshow                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|photoview                 |cache                 |PVC      |-              |/cache                                               |Read/Write|Enabled                |
-|photoview                 |photos                |PVC      |-              |/photos                                              |Read/Write|Enabled                |
 |phpldapadmin              |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
-|pialert                   |config                |PVC      |-              |/home/pi/pialert/config                              |Read/Write|Enabled                |
-|pialert                   |db                    |PVC      |-              |/home/pi/pialert/db                                  |Read/Write|Enabled                |
-|pialert                   |pialert-config        |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
-|piaware                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |picoshare                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|pidgin                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|pidgin                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|pihole                    |config                |PVC      |-              |/etc/pihole                                          |Read/Write|Enabled                |
-|pihole                    |dnsmasq               |PVC      |-              |/etc/dnsmasq.d                                       |Read/Write|Enabled                |
 |pinry                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |pixapop                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pixapop                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -449,10 +365,9 @@ The intro needs improvement ;)
 |plex-utills               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |plex-utills               |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
 |plex-utills               |plexlibrary           |PVC      |-              |/films                                               |Read/Write|Enabled                |
-|plexanisync               |settings              |secret   |-              |/plexanisync/settings.ini                            |Read Only |Enabled                |
 |podgrab                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|portainer-ce              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|portainer-ce              |cache                 |emptyDir |-              |/.cache                                              |Read/Write|Enabled                |
+|portainer                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|portainer                 |cache                 |emptyDir |-              |/.cache                                              |Read/Write|Enabled                |
 |posterr                   |config                |PVC      |-              |/usr/src/app/config                                  |Read/Write|Enabled                |
 |posterr                   |custom                |PVC      |-              |/usr/src/app/public/custom                           |Read/Write|Enabled                |
 |postgresql                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -461,18 +376,12 @@ The intro needs improvement ;)
 |projectsend               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |projectsend               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |promcord                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|protonmail-bridge         |config                |PVC      |-              |/root                                                |Read/Write|Enabled                |
 |prowlarr                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |prusaslicer-novnc         |configsfolder         |PVC      |-              |/configs/                                            |Read/Write|Enabled                |
 |prusaslicer-novnc         |prints                |PVC      |-              |/prints/                                             |Read/Write|Enabled                |
 |putty                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pwndrop                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pwndrop                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|pydio-cells               |cells                 |PVC      |-              |/cells                                               |Read/Write|Enabled                |
-|pydio-cells               |data                  |PVC      |-              |/cells/data                                          |Read/Write|Enabled                |
-|pydio-cells               |logs                  |PVC      |-              |/cells/logs                                          |Read/Write|Enabled                |
-|pydio-cells               |services              |PVC      |-              |/cells/services                                      |Read/Write|Enabled                |
-|pydio-cells               |pydiocells-install    |custom   |-              |/cells/install.yml                                   |Read/Write|Enabled                |
 |pyload                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pyload                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |pylon                     |code                  |PVC      |-              |/code                                                |Read/Write|Enabled                |
@@ -490,9 +399,6 @@ The intro needs improvement ;)
 |rcon-webadmin             |db                    |PVC      |-              |/opt/rcon-web-admin/db                               |Read/Write|Enabled                |
 |rdesktop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |readarr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|recipes                   |media                 |PVC      |-              |/opt/recipes/mediafiles                              |Read/Write|Enabled                |
-|recipes                   |static                |emptyDir |-              |/opt/recipes/staticfiles                             |Read/Write|Enabled                |
-|recipes                   |recipes-config        |custom   |-              |/etc/nginx/nginx.conf                                |Read/Write|Enabled                |
 |recyclarr                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |redmine                   |data                  |PVC      |-              |/usr/src/redmine/files                               |Read/Write|Enabled                |
 |reg                       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -508,19 +414,13 @@ The intro needs improvement ;)
 |rsnapshot                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |rss-bridge                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |rsshub                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|rtmpserver                |dash                  |PVC      |-              |/mnt/dash                                            |Read/Write|Enabled                |
-|rtmpserver                |hls                   |PVC      |-              |/mnt/hls                                             |Read/Write|Enabled                |
 |sabnzbd                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |satisfactory              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |scrutiny                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |scrutiny                  |config                |PVC      |-              |/opt/scrutiny/config                                 |Read/Write|Enabled                |
 |scrutiny                  |influxdb              |PVC      |-              |/opt/scrutiny/influxdb                               |Read/Write|Enabled                |
 |scrutiny                  |udev                  |hostPath |/run/udev      |/run/udev                                            |Read Only |Enabled                |
-|sdtd                      |serverfiles           |PVC      |-              |/serverdata/serverfiles                              |Read/Write|Enabled                |
-|sdtd                      |steamcmd              |PVC      |-              |/serverdata/steamcmd                                 |Read/Write|Enabled                |
 |ser2sock                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|shiori                    |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|shiori                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |shlink                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |shlink-web-client         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |shoko-server              |appdata               |PVC      |-              |/home/shoko/.shoko/                                  |Read/Write|Enabled                |
@@ -534,9 +434,6 @@ The intro needs improvement ;)
 |smokeping                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |smokeping                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |snapdrop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|snipe-it                  |logs                  |PVC      |-              |/var/www/html/storage/logs                           |Read/Write|Enabled                |
-|snipe-it                  |data                  |PVC      |-              |/var/lib/snipeit/data                                |Read/Write|Enabled                |
-|snipe-it                  |backups               |PVC      |-              |/var/lib/snipeit/dumps                               |Read/Write|Enabled                |
 |soft-serve                |config                |PVC      |-              |/soft-serve                                          |Read/Write|Enabled                |
 |soft-serve                |ssh                   |PVC      |-              |/.ssh                                                |Read/Write|Enabled                |
 |soft-serve                |repos                 |PVC      |-              |/repos                                               |Read/Write|Enabled                |
@@ -548,15 +445,9 @@ The intro needs improvement ;)
 |stash                     |config                |PVC      |-              |/root/.stash                                         |Read/Write|Enabled                |
 |static                    |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |static                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|statping-ng               |data                  |PVC      |-              |/app                                                 |Read/Write|Enabled                |
 |storj-node                |identity              |PVC      |-              |/app/identity                                        |Read/Write|Enabled                |
 |storj-node                |storage               |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |strapi                    |data                  |PVC      |-              |/srv/app                                             |Read/Write|Enabled                |
-|synapse                   |config                |configMap|-              |/data                                                |Read/Write|Enabled                |
-|synapse                   |secret                |secret   |-              |/data/secret                                         |Read/Write|Enabled                |
-|synapse                   |key                   |PVC      |-              |/data/keys                                           |Read/Write|Enabled                |
-|synapse                   |media                 |PVC      |-              |/data/media_store                                    |Read/Write|Enabled                |
-|synapse                   |uploads               |PVC      |-              |/uploads                                             |Read/Write|Enabled                |
 |synclounge                |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |syncthing                 |config                |PVC      |-              |/var/syncthing                                       |Read/Write|Enabled                |
 |synctube                  |storageconfig         |PVC      |-              |/usr/src/app/user                                    |Read/Write|Enabled                |
@@ -576,7 +467,6 @@ The intro needs improvement ;)
 |tdarr-node                |transcode-cache       |PVC      |-              |/temp                                                |Read/Write|Enabled                |
 |tdarr-node                |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
 |tdarr-node                |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|teamspeak3                |data                  |PVC      |-              |/var/ts3server                                       |Read/Write|Enabled                |
 |teedy                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |thelounge                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |theme-park                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -598,7 +488,6 @@ The intro needs improvement ;)
 |twtxt                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |twtxt                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |twtxt                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|typecho                   |config                |PVC      |-              |/app/usr                                             |Read/Write|Enabled                |
 |ubooquity                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |ubooquity                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |ubooquity                 |books                 |PVC      |-              |/books                                               |Read/Write|Enabled                |
@@ -623,7 +512,6 @@ The intro needs improvement ;)
 |vikunja                   |vikunja-nginx         |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |vikunja                   |vikunja-config        |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |watchyourlan              |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
-|wbo                       |data                  |PVC      |-              |/opt/app/server-data                                 |Read/Write|Enabled                |
 |webgrabplus               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |webgrabplus               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |webgrabplus               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -634,26 +522,15 @@ The intro needs improvement ;)
 |webtop                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wekan                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |wg-easy                   |config                |PVC      |-              |/etc/wireguard                                       |Read/Write|Enabled                |
-|wger                      |media                 |PVC      |-              |/home/wger/media                                     |Read/Write|Enabled                |
-|wger                      |static                |emptyDir |-              |/home/wger/static                                    |Read/Write|Enabled                |
-|wger                      |wger-config           |custom   |-              |/etc/nginx/conf.d                                    |Read/Write|Enabled                |
 |whisparr                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |whoogle                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wikijs                    |wikicache             |emptyDir |-              |/wiki/data/                                          |Read/Write|Enabled                |
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|wireshark                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|wireshark                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wordpress                 |config                |PVC      |-              |/bitnami/wordpress                                   |Read/Write|Enabled                |
-|xbackbone                 |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |xen-orchestra             |xo-data               |PVC      |-              |/var/lib/xo-server                                   |Read/Write|Enabled                |
 |xen-orchestra             |redis-data            |PVC      |-              |/var/lib/redis                                       |Read/Write|Enabled                |
 |xteve                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |xwiki                     |config                |PVC      |-              |/usr/local/xwiki                                     |Read/Write|Enabled                |
-|youtrack                  |data                  |PVC      |-              |/opt/youtrack/data                                   |Read/Write|Enabled                |
-|youtrack                  |conf                  |PVC      |-              |/opt/youtrack/conf                                   |Read/Write|Enabled                |
-|youtrack                  |logs                  |PVC      |-              |/opt/youtrack/logs                                   |Read/Write|Enabled                |
-|youtrack                  |backups               |PVC      |-              |/opt/youtrack/backups                                |Read/Write|Enabled                |
-|youtrack                  |youtracktemp          |emptyDir |-              |/opt/youtrack/temp                                   |Read/Write|Enabled                |
 |youtransfer               |config                |PVC      |-              |/opt/youtransfer/config                              |Read/Write|Enabled                |
 |youtransfer               |hostpath3             |PVC      |-              |/opt/youtransfer/uploads                             |Read/Write|Enabled                |
 |youtubedl-material        |appdata               |PVC      |-              |/app/appdata                                         |Read/Write|Enabled                |
@@ -668,19 +545,22 @@ The intro needs improvement ;)
 |znc                       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |ztcuui-aio                |config                |PVC      |-              |/opt/key-networks/ztncui/etc                         |Read/Write|Enabled                |
 |ztcuui-aio                |zerotier              |PVC      |-              |/var/lib/zerotier-one                                |Read/Write|Enabled                |
-|zusam                     |data                  |PVC      |-              |/zusam/data                                          |Read/Write|Enabled                |
 |zwavejs2mqtt              |config                |PVC      |-              |/usr/src/app/store                                   |Read/Write|Enabled                |
 
 ## Dependency
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|clickhouse|data        |PVC      |-       |/var/lib/clickhouse|Read/Write|Enabled                |
-|mariadb   |data        |PVC      |-       |/bitnami/mariadb   |Read/Write|Enabled                |
-|memcached |-           |-        |-       |-                  |-         |Persistence not Defined|
-|mongodb   |data        |PVC      |-       |/bitnami/mongodb   |Read/Write|Enabled                |
-|redis     |redis-health|configmap|-       |/health            |Read/Write|Enabled                |
-|solr      |db          |PVC      |-       |/bitnami/solr      |Read/Write|Enabled                |
+|clickhouse        |data        |PVC      |-       |/var/lib/clickhouse|Read/Write|Enabled                |
+|kube-state-metrics|-           |-        |-       |-                  |-         |Persistence not Defined|
+|mariadb           |data        |PVC      |-       |/bitnami/mariadb   |Read/Write|Enabled                |
+|memcached         |-           |-        |-       |-                  |-         |Persistence not Defined|
+|mongodb           |data        |PVC      |-       |/bitnami/mongodb   |Read/Write|Enabled                |
+|node-exporter     |host        |PVC      |/       |/host              |Read Only |Enabled                |
+|node-exporter     |proc        |PVC      |/proc   |/host/proc         |Read Only |Enabled                |
+|node-exporter     |sys         |PVC      |/sys    |/host/sys          |Read Only |Enabled                |
+|redis             |redis-health|configmap|-       |/health            |Read/Write|Enabled                |
+|solr              |db          |PVC      |-       |/bitnami/solr      |Read/Write|Enabled                |
 
 ## Incubator
 
@@ -715,6 +595,10 @@ The intro needs improvement ;)
 |assettocorsa                   |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |assettocorsa                   |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |aurora-files                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|authentik                      |media                      |PVC      |-                |/media                                           |Read/Write|Enabled                |
+|authentik                      |templates                  |PVC      |-                |/templates                                       |Read/Write|Enabled                |
+|authentik                      |certs                      |PVC      |-                |/certs                                           |Read/Write|Enabled                |
+|authentik                      |geoip                      |PVC      |-                |/geoip                                           |Read/Write|Enabled                |
 |auto-yt-dl                     |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |auto-yt-dl                     |hostpath1                  |PVC      |-                |/app/Downloads                                   |Read/Write|Enabled                |
 |avorion                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -766,6 +650,7 @@ The intro needs improvement ;)
 |cloudbeaver                    |appdata                    |PVC      |-                |/opt/cloudbeaver/workspace                       |Read/Write|Enabled                |
 |cloudcommander                 |appdata                    |PVC      |-                |/root                                            |Read/Write|Enabled                |
 |cloudcommander                 |mountpath                  |PVC      |-                |/UNRAID                                          |Read/Write|Enabled                |
+|cloudflared                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |cloudreve                      |avatarpath                 |PVC      |-                |/cloudreve/avatar                                |Read/Write|Enabled                |
 |cloudreve                      |config                     |PVC      |-                |/cloudreve/config                                |Read/Write|Enabled                |
 |cloudreve                      |databasepath               |PVC      |-                |/cloudreve/db                                    |Read/Write|Enabled                |
@@ -806,6 +691,8 @@ The intro needs improvement ;)
 |damselfly                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |damselfly                      |pictures                   |PVC      |-                |/pictures                                        |Read/Write|Enabled                |
 |damselfly                      |thumbs                     |PVC      |-                |/thumbs                                          |Read/Write|Enabled                |
+|darktable                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|darktable                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |dashmachine                    |appdata                    |PVC      |-                |/dashmachine/dashmachine/user_data               |Read/Write|Enabled                |
 |dashy                          |icons                      |PVC      |-                |/app/public/item-icons                           |Read/Write|Enabled                |
 |dayofdefeatsource              |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -818,7 +705,6 @@ The intro needs improvement ;)
 |debian-apt-mirror              |config                     |PVC      |-                |/debian-mirror/config                            |Read/Write|Enabled                |
 |debian-apt-mirror              |data                       |PVC      |-                |/debian-mirror/data                              |Read/Write|Enabled                |
 |debian-bullseye                |homedirectory              |PVC      |-                |/debian                                          |Read/Write|Enabled                |
-|dell-idrac-fan-controller      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |dispatch                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |dns-doh-companion              |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |docker-hub-rss                 |-                          |-        |-                |-                                                |-         |Persistence not Defined|
@@ -832,6 +718,10 @@ The intro needs improvement ;)
 |drone-runner                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |dropbox-by-otherguy            |dropboxsettings            |PVC      |-                |/opt/dropbox/.dropbox                            |Read/Write|Enabled                |
 |dropbox-by-otherguy            |dropboxuserfiles           |PVC      |-                |/opt/dropbox/Dropbox                             |Read/Write|Enabled                |
+|dsmr-reader                    |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|dupeguru                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|dupeguru                       |storage                    |PVC      |-                |/storage                                         |Read/Write|Enabled                |
+|dupeguru                       |trash                      |PVC      |-                |/trash                                           |Read/Write|Enabled                |
 |duplicacy                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |duplicacy                      |cache                      |PVC      |-                |/cache                                           |Read/Write|Enabled                |
 |duplicacy                      |logs                       |PVC      |-                |/logs                                            |Read/Write|Enabled                |
@@ -847,7 +737,7 @@ The intro needs improvement ;)
 |ersatztv                       |config                     |PVC      |-                |/root/.local/share/ersatztv                      |Read/Write|Enabled                |
 |ersatztv                       |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |etesync                        |app                        |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|etesync                        |secret                     |custom   |-                |/data/secret.txt                                 |Read Only |Enabled                |
+|etesync                        |secret                     |secret   |-                |/data/secret.txt                                 |Read Only |Enabled                |
 |ethercalc                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |euterpe                        |music                      |PVC      |-                |/root/Music                                      |Read/Write|Enabled                |
 |euterpe                        |configfile                 |secret   |-                |/root/.euterpe/config.json                       |Read Only |Enabled                |
@@ -871,9 +761,15 @@ The intro needs improvement ;)
 |filegator                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |filegator                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |filegator                      |storageconfigfile          |PVC      |-                |/var/www/localhost/filegator/configuration.php   |Read Only |Enabled                |
+|filerun                        |config                     |PVC      |-                |/var/www/html                                    |Read/Write|Enabled                |
+|filerun                        |userfile                   |PVC      |-                |/user-files                                      |Read/Write|Enabled                |
 |fileshelter                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |filestash                      |appdata                    |PVC      |-                |/app/data/state/                                 |Read/Write|Enabled                |
+|filezilla                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|filezilla                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |fireflyiii-data-importer       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|firefox                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|firefox                        |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |firefox-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |fireshare                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |fireshare                      |processeddata              |PVC      |-                |/processed                                       |Read/Write|Enabled                |
@@ -882,6 +778,7 @@ The intro needs improvement ;)
 |fistfuloffrags                 |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |fivem                          |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |flame                          |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
+|flashpaper                     |data                       |PVC      |-                |/var/www/html/data                               |Read/Write|Enabled                |
 |flatnotes                      |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |flemarr                        |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |flextv                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -891,6 +788,7 @@ The intro needs improvement ;)
 |fmd2-wine                      |appwineconfig              |PVC      |-                |/config/.wine                                    |Read/Write|Enabled                |
 |fmd2-wine                      |data                       |PVC      |-                |/app/FMD2/data                                   |Read/Write|Enabled                |
 |fmd2-wine                      |downloaddirectory          |PVC      |-                |/downloads                                       |Read/Write|Enabled                |
+|focalboard                     |uploads                    |PVC      |-                |/uploads                                         |Read/Write|Enabled                |
 |fogproject                     |images                     |PVC      |-                |/images                                          |Read/Write|Enabled                |
 |fogproject                     |mysql                      |PVC      |-                |/var/lib/mysql                                   |Read/Write|Enabled                |
 |fotosho                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -923,16 +821,22 @@ The intro needs improvement ;)
 |google-cloud-storage-backup    |google-cloud-storage-backup|PVC      |-                |/data/backup                                     |Read Only |Enabled                |
 |googlephotossync               |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |googlephotossync               |hostpath1                  |PVC      |-                |/storage                                         |Read/Write|Enabled                |
+|gotify                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
+|gotify                         |config-file                |secret   |-                |/etc/gotify/config.yml                           |Read Only |Enabled                |
 |gpodder                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |gpodder                        |downloadspath              |PVC      |-                |/downloads                                       |Read/Write|Enabled                |
 |grafana-image-renderer         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |gridcoinwalletgui              |appdataconfigpath          |PVC      |-                |/headless/.GridcoinResearch/                     |Read/Write|Enabled                |
 |gridcoinwalletgui              |boincdatadir               |PVC      |-                |/var/lib/boinc-client/                           |Read/Write|Enabled                |
+|grist                          |persist                    |PVC      |-                |/persist                                         |Read/Write|Enabled                |
+|guacamole-client               |initdbdata                 |emptyDir |-                |/initdbdata                                      |Read/Write|Enabled                |
 |guide2go                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |guide2go                       |guide2go                   |PVC      |-                |/guide2go                                        |Read/Write|Enabled                |
 |guide2go                       |tvh                        |PVC      |-                |/TVH                                             |Read/Write|Enabled                |
 |h5ai                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |h5ai                           |directorystorage           |PVC      |-                |/h5ai                                            |Read Only |Enabled                |
+|habridge                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|habridge                       |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |halflife2deathmatch            |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |halflife2deathmatch            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |hassconfigurator               |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -947,6 +851,12 @@ The intro needs improvement ;)
 |humhub                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |hurtworld                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |hurtworld                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|icantbelieveitsnotvaletudo     |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|icantbelieveitsnotvaletudo     |settings                   |custom   |-                |/app/config.json                                 |Read/Write|Enabled                |
+|icinga2                        |config                     |PVC      |-                |/etc/icinga2                                     |Read/Write|Enabled                |
+|icinga2                        |data                       |PVC      |-                |/var/lib/icinga2                                 |Read/Write|Enabled                |
+|icinga2                        |web                        |PVC      |-                |/etc/icingaweb2                                  |Read/Write|Enabled                |
+|icinga2                        |ssmtp                      |PVC      |-                |/etc/ssmtp                                       |Read/Write|Enabled                |
 |icloudpd                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |icloudpd                       |data                       |PVC      |-                |/home/apps/iCloud                                |Read/Write|Enabled                |
 |imgpush                        |storagecache               |PVC      |-                |/cache                                           |Read/Write|Enabled                |
@@ -956,6 +866,9 @@ The intro needs improvement ;)
 |inkscape-desktop-g3            |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |insurgencysandstorm            |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |insurgencysandstorm            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|inventree                      |data                       |PVC      |-                |/home/inventree/data                             |Read/Write|Enabled                |
+|inventree                      |inventree-nginx            |custom   |-                |/etc/nginx/conf.d                                |Read/Write|Enabled                |
+|invidious                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |invitarr                       |config                     |PVC      |-                |/app/app/config                                  |Read/Write|Enabled                |
 |ipmi-tools                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |jackett2telegram               |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
@@ -973,6 +886,7 @@ The intro needs improvement ;)
 |jitsi                          |jicofoconfig               |PVC      |-                |/jicofoconfig/config                             |Read/Write|Enabled                |
 |jitsi                          |jvbconfig                  |PVC      |-                |/jvbconfig/config                                |Read/Write|Enabled                |
 |jmzhomeproxy                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|joplin-server                  |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |jump                           |backgrounds                |PVC      |-                |/backgrounds                                     |Read/Write|Enabled                |
 |jump                           |search                     |PVC      |-                |/search                                          |Read/Write|Enabled                |
 |jump                           |sites                      |PVC      |-                |/sites                                           |Read/Write|Enabled                |
@@ -982,17 +896,37 @@ The intro needs improvement ;)
 |keeweb                         |nginx                      |PVC      |-                |/etc/nginx/external                              |Read/Write|Enabled                |
 |kerbalspaceprogram-lmp         |serverfiles                |PVC      |-                |/lunamultiplayer                                 |Read/Write|Enabled                |
 |kerio-connect                  |kerio-connect              |PVC      |-                |/backup                                          |Read/Write|Enabled                |
+|kimai                          |data                       |PVC      |-                |/opt/kimai/var/data                              |Read/Write|Enabled                |
+|kimai                          |plugins                    |PVC      |-                |/opt/kimai/var/plugins                           |Read/Write|Enabled                |
 |kitana                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
+|koel                           |music                      |PVC      |-                |/music                                           |Read/Write|Enabled                |
+|koel                           |covers                     |PVC      |-                |/var/www/html/public/img/covers                  |Read/Write|Enabled                |
+|koel                           |searchindex                |PVC      |-                |/var/www/html/storage/search-indexes             |Read/Write|Enabled                |
+|kopia                          |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
+|kopia                          |cache                      |PVC      |-                |/app/cache                                       |Read/Write|Enabled                |
+|kopia                          |logs                       |PVC      |-                |/app/logs                                        |Read/Write|Enabled                |
+|kopia                          |rclone                     |PVC      |-                |/app/rclone                                      |Read/Write|Enabled                |
 |krusader                       |containerpath              |PVC      |-                |/krusader                                        |Read/Write|Enabled                |
 |krusader                       |datapath                   |PVC      |-                |/mnt/user                                        |Read/Write|Enabled                |
+|kutt                           |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |lastoasis                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |lastoasis                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|leantime                       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |left4dead                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |left4dead                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |lemur-cfssl                    |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |lemur-cfssl                    |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |lenpaste                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|libreoffice                    |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|libreoffice                    |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
+|librephotos                    |media                      |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|librephotos                    |protected-media            |PVC      |-                |/protected_media                                 |Read/Write|Enabled                |
+|librephotos                    |logs                       |PVC      |-                |/logs                                            |Read/Write|Enabled                |
+|librephotos                    |cache                      |PVC      |-                |/root/.cache                                     |Read/Write|Enabled                |
+|librephotos                    |librephotos-config         |custom   |-                |/etc/nginx/nginx.conf                            |Read/Write|Enabled                |
 |lingva                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|linkace                        |logs                       |PVC      |-                |/app/storage/logs                                |Read/Write|Enabled                |
+|linkace                        |backups                    |PVC      |-                |/app/storage/app/backups                         |Read/Write|Enabled                |
 |linkwallet                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |livebook                       |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |livestreamdvr                  |config                     |PVC      |-                |/usr/local/share/twitchautomator/data/config     |Read/Write|Enabled                |
@@ -1001,8 +935,12 @@ The intro needs improvement ;)
 |livestreamdvr                  |hostpath4                  |PVC      |-                |/usr/local/share/twitchautomator/data/logs       |Read/Write|Enabled                |
 |llalon-github-backup           |backuplocation             |PVC      |-                |/home/docker/backups                             |Read/Write|Enabled                |
 |llalon-github-backup           |config                     |PVC      |-                |/home/docker/github-backup/config/               |Read/Write|Enabled                |
+|loki                           |config                     |secret   |-                |/etc/loki                                        |Read/Write|Enabled                |
 |longvinter                     |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |longvinter                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|lychee                         |conf                       |PVC      |-                |/conf                                            |Read/Write|Enabled                |
+|lychee                         |sym                        |PVC      |-                |/sym                                             |Read/Write|Enabled                |
+|lychee                         |uploads                    |PVC      |-                |/uploads                                         |Read/Write|Enabled                |
 |magicmirror2                   |config                     |PVC      |-                |/magicmirror2                                    |Read/Write|Enabled                |
 |magicmirror2                   |configfile                 |configMap|-                |/tmp/config.js                                   |Read/Write|Enabled                |
 |mailpile                       |path1                      |PVC      |-                |/root/.local/share/Mailpile                      |Read/Write|Enabled                |
@@ -1010,6 +948,13 @@ The intro needs improvement ;)
 |maloja                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |mango                          |config                     |PVC      |-                |/root/.config/mango                              |Read/Write|Enabled                |
 |mango                          |data                       |PVC      |-                |/root/mango                                      |Read/Write|Enabled                |
+|mattermost                     |config                     |PVC      |-                |/mattermost/config                               |Read/Write|Enabled                |
+|mattermost                     |data                       |PVC      |-                |/mattermost/data                                 |Read/Write|Enabled                |
+|mattermost                     |logs                       |PVC      |-                |/mattermost/logs                                 |Read/Write|Enabled                |
+|mattermost                     |plugins                    |PVC      |-                |/mattermost/plugins                              |Read/Write|Enabled                |
+|mattermost                     |clientplugins              |PVC      |-                |/mattermost/client/plugins                       |Read/Write|Enabled                |
+|mattermost                     |bleveindexes               |PVC      |-                |/mattermost/bleve-indexes                        |Read/Write|Enabled                |
+|mealie                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |media-roller                   |download                   |PVC      |-                |/download                                        |Read/Write|Enabled                |
 |mediaelch                      |mediaelch                  |PVC      |-                |/shows                                           |Read/Write|Enabled                |
 |mediagoblin                    |appdata                    |PVC      |-                |/var/lib/mediagoblin                             |Read/Write|Enabled                |
@@ -1023,22 +968,26 @@ The intro needs improvement ;)
 |midarr                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |mindustry                      |serverfiles                |PVC      |-                |/mindustry                                       |Read/Write|Enabled                |
 |mineos                         |config                     |PVC      |-                |/var/games/minecraft                             |Read/Write|Enabled                |
+|miniflux                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |mininote                       |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |misskey                        |misskeyconfig              |configMap|-                |/misskey/.config                                 |Read/Write|Enabled                |
 |misskey                        |files                      |PVC      |-                |/misskey/files                                   |Read/Write|Enabled                |
+|ml-workspace                   |workspace                  |PVC      |-                |/workspace                                       |Read/Write|Enabled                |
+|ml-workspace                   |shm                        |emptyDir |-                |/dev/shm                                         |Read/Write|Enabled                |
 |mocodo-mcd                     |path                       |PVC      |-                |/root/mocodo                                     |Read/Write|Enabled                |
 |mojopaste                      |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |monero-node                    |blockchainstorage          |PVC      |-                |/home/monero/.bitmonero                          |Read/Write|Enabled                |
 |monero-node                    |containerdir1              |PVC      |-                |/usr/local                                       |Read/Write|Enabled                |
 |monero-node                    |containerdir2              |PVC      |-                |/src                                             |Read/Write|Enabled                |
 |money-balancer                 |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|mongo-express                  |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |mordhau                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |mordhau                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|mosquitto                      |data                       |PVC      |-                |/mosquitto/data                                  |Read/Write|Enabled                |
+|mosquitto                      |configinc                  |PVC      |-                |/mosquitto/configinc                             |Read/Write|Enabled                |
+|mosquitto                      |mosquitto-config           |custom   |-                |/mosquitto/config/mosquitto.conf                 |Read/Write|Enabled                |
 |moviegrabber                   |moviegrabber               |PVC      |-                |/media                                           |Read/Write|Enabled                |
 |multi-scrobbler                |config                     |PVC      |-                |/home/node/config                                |Read/Write|Enabled                |
 |multi-scrobbler                |logs                       |PVC      |-                |/home/node/app/logs                              |Read/Write|Enabled                |
-|muse                           |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |namecheap-ddns                 |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |necesse                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |necesse                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
@@ -1066,6 +1015,9 @@ The intro needs improvement ;)
 |openaudible                    |config                     |PVC      |-                |/config/OpenAudible                              |Read/Write|Enabled                |
 |openbooks                      |books                      |PVC      |-                |/books/books                                     |Read/Write|Enabled                |
 |opengl-desktop-g3              |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
+|openkm                         |config                     |PVC      |-                |/opt/tomcat/repository                           |Read/Write|Enabled                |
+|openkm                         |init                       |custom   |-                |/config/init                                     |Read Only |Enabled                |
+|openldap                       |varrun                     |emptyDir |-                |-                                                |Read/Write|Persistence is Disabled|
 |openproject                    |assets                     |PVC      |-                |/var/openproject/assets                          |Read/Write|Enabled                |
 |openra                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |openttd                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1078,6 +1030,8 @@ The intro needs improvement ;)
 |pastey                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |pavlovvr                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |pavlovvr                       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|penpot                         |data                       |PVC      |-                |/opt/data                                        |Read/Write|Enabled                |
+|penpot                         |assets                     |PVC      |-                |/opt/data/assets                                 |Read/Write|Enabled                |
 |phoronix-test-suite            |appdata                    |PVC      |-                |/var/lib/phoronix-test-suite                     |Read/Write|Enabled                |
 |phoronix-test-suite            |results                    |PVC      |-                |/var/lib/phoronix-test-suite/test-results        |Read/Write|Enabled                |
 |photo-stream                   |storageimages              |PVC      |-                |/photo-stream/photos/original                    |Read/Write|Enabled                |
@@ -1085,11 +1039,21 @@ The intro needs improvement ;)
 |photostructure                 |library                    |PVC      |-                |/ps/library                                      |Read/Write|Enabled                |
 |photostructure                 |logs                       |PVC      |-                |/ps/logs                                         |Read/Write|Enabled                |
 |photostructure                 |tempscratchdisk            |PVC      |-                |/ps/tmp                                          |Read/Write|Enabled                |
+|photoview                      |cache                      |PVC      |-                |/cache                                           |Read/Write|Enabled                |
+|photoview                      |photos                     |PVC      |-                |/photos                                          |Read/Write|Enabled                |
 |phpmyadmin                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|pialert                        |config                     |PVC      |-                |/home/pi/pialert/config                          |Read/Write|Enabled                |
+|pialert                        |db                         |PVC      |-                |/home/pi/pialert/db                              |Read/Write|Enabled                |
+|pialert                        |pialert-config             |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
+|piaware                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|pidgin                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|pidgin                         |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |pigallery2                     |config                     |PVC      |-                |/app/data/config                                 |Read/Write|Enabled                |
 |pigallery2                     |db                         |PVC      |-                |/app/data/db                                     |Read/Write|Enabled                |
 |pigallery2                     |image                      |PVC      |-                |/app/data/images/                                |Read Only |Enabled                |
 |pigallery2                     |tmp                        |PVC      |-                |/app/data/tmp                                    |Read/Write|Enabled                |
+|pihole                         |config                     |PVC      |-                |/etc/pihole                                      |Read/Write|Enabled                |
+|pihole                         |dnsmasq                    |PVC      |-                |/etc/dnsmasq.d                                   |Read/Write|Enabled                |
 |pingvin-share                  |data                       |PVC      |-                |/opt/app/backend/data                            |Read/Write|Enabled                |
 |piwigo                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |piwigo                         |gallery                    |PVC      |-                |/gallery                                         |Read/Write|Enabled                |
@@ -1099,6 +1063,7 @@ The intro needs improvement ;)
 |pixelserv-tls                  |certficatesdir             |PVC      |-                |/var/cache/pixelserv                             |Read/Write|Enabled                |
 |plausible                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |plex-meta-manager              |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|plexanisync                    |settings                   |secret   |-                |/plexanisync/settings.ini                        |Read Only |Enabled                |
 |plexripper                     |config                     |PVC      |-                |/Config                                          |Read/Write|Enabled                |
 |plextraktsync                  |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
 |plik                           |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
@@ -1117,6 +1082,7 @@ The intro needs improvement ;)
 |privatebin                     |conf-php                   |custom   |-                |/etc/php8/conf.d/10-sizelimits.ini               |Read Only |Enabled                |
 |privatebin                     |conf-nginx                 |custom   |-                |/etc/nginx/conf.d/sizelimits.conf                |Read Only |Enabled                |
 |projectzomboidreporter-frontend|-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|protonmail-bridge              |config                     |PVC      |-                |/root                                            |Read/Write|Enabled                |
 |prpdf                          |config                     |PVC      |-                |/source/config                                   |Read/Write|Enabled                |
 |prpdf                          |files                      |PVC      |-                |/Archiv/                                         |Read/Write|Enabled                |
 |prpdf                          |hostpath2                  |PVC      |-                |/source/static/pdf/                              |Read/Write|Enabled                |
@@ -1128,6 +1094,11 @@ The intro needs improvement ;)
 |pvk-ii                         |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |pvk-ii                         |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |pwm                            |appdata                    |PVC      |-                |/usr/share/pwm                                   |Read/Write|Enabled                |
+|pydio-cells                    |cells                      |PVC      |-                |/cells                                           |Read/Write|Enabled                |
+|pydio-cells                    |data                       |PVC      |-                |/cells/data                                      |Read/Write|Enabled                |
+|pydio-cells                    |logs                       |PVC      |-                |/cells/logs                                      |Read/Write|Enabled                |
+|pydio-cells                    |services                   |PVC      |-                |/cells/services                                  |Read/Write|Enabled                |
+|pydio-cells                    |pydiocells-install         |custom   |-                |/cells/install.yml                               |Read/Write|Enabled                |
 |pyload-ng                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |pyload-ng                      |pathdownloads              |PVC      |-                |/downloads                                       |Read/Write|Enabled                |
 |qflood                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1153,6 +1124,9 @@ The intro needs improvement ;)
 |raspberrymatic                 |sys                        |hostPath |/sys             |/sys                                             |Read/Write|Enabled                |
 |raspberrymatic                 |control                    |hostPath |/run/udev/control|/run/udev/control                                |Read/Write|Enabled                |
 |reactive-resume                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|recipes                        |media                      |PVC      |-                |/opt/recipes/mediafiles                          |Read/Write|Enabled                |
+|recipes                        |static                     |emptyDir |-                |/opt/recipes/staticfiles                         |Read/Write|Enabled                |
+|recipes                        |recipes-config             |custom   |-                |/etc/nginx/nginx.conf                            |Read/Write|Enabled                |
 |red-discordbot                 |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |redisinsight                   |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |redisinsight                   |logs                       |PVC      |-                |/logs                                            |Read/Write|Enabled                |
@@ -1166,11 +1140,15 @@ The intro needs improvement ;)
 |rimgo                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rmlint                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |rmlint                         |searchlocation             |PVC      |-                |/root                                            |Read/Write|Enabled                |
+|romm                           |library                    |PVC      |-                |/romm/library                                    |Read/Write|Enabled                |
+|romm                           |resources                  |PVC      |-                |/romm/resources                                  |Read/Write|Enabled                |
 |root                           |appdata                    |PVC      |-                |/appdata                                         |Read/Write|Enabled                |
 |rss-proxy                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rss-to-telegram                |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |rstudio                        |config                     |PVC      |-                |/home/rstudio/.config/rstudio                    |Read/Write|Enabled                |
 |rstudio                        |workspace                  |PVC      |-                |/home/rstudio/workspace                          |Read/Write|Enabled                |
+|rtmpserver                     |dash                       |PVC      |-                |/mnt/dash                                        |Read/Write|Enabled                |
+|rtmpserver                     |hls                        |PVC      |-                |/mnt/hls                                         |Read/Write|Enabled                |
 |rust                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |rust                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |rustpad                        |storagedatabase            |PVC      |-                |/persist                                         |Read/Write|Enabled                |
@@ -1180,6 +1158,8 @@ The intro needs improvement ;)
 |scprime                        |storage                    |PVC      |-                |/storage                                         |Read/Write|Enabled                |
 |scrypted                       |server                     |PVC      |-                |/server/volume                                   |Read/Write|Enabled                |
 |scrypted                       |media                      |PVC      |-                |/media/external                                  |Read/Write|Enabled                |
+|sdtd                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
+|sdtd                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |searx                          |config                     |PVC      |-                |/etc/searx                                       |Read/Write|Enabled                |
 |searxng                        |config                     |PVC      |-                |/etc/searxng                                     |Read/Write|Enabled                |
 |seedsync                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1189,6 +1169,7 @@ The intro needs improvement ;)
 |send                           |uploadpath                 |PVC      |-                |/uploads                                         |Read/Write|Enabled                |
 |senseai-server                 |data                       |PVC      |-                |/usr/share/CodeProject/SenseAI                   |Read/Write|Enabled                |
 |serpbear                       |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
+|servas                         |nginx                      |PVC      |-                |/var/run/nginx                                   |Read/Write|Enabled                |
 |serviio                        |hostpath2                  |PVC      |-                |/opt/serviio/library                             |Read/Write|Enabled                |
 |serviio                        |hostpath3                  |PVC      |-                |/opt/serviio/plugins                             |Read/Write|Enabled                |
 |serviio                        |hostpath4                  |PVC      |-                |/opt/serviio/log                                 |Read/Write|Enabled                |
@@ -1202,11 +1183,16 @@ The intro needs improvement ;)
 |shadowsocks                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |shapeshifter-obfuscator        |config                     |PVC      |-                |/state                                           |Read/Write|Enabled                |
 |sheetable                      |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
+|shiori                         |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|shiori                         |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |shortipy                       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |sia-daemon                     |datadirectory              |PVC      |-                |/sia-data                                        |Read/Write|Enabled                |
 |sinusbot                       |data                       |PVC      |-                |/opt/sinusbot/data                               |Read/Write|Enabled                |
 |sinusbot                       |scriptspath                |PVC      |-                |/opt/sinusbot/scripts                            |Read/Write|Enabled                |
 |slack-invite                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|snipe-it                       |logs                       |PVC      |-                |/var/www/html/storage/logs                       |Read/Write|Enabled                |
+|snipe-it                       |data                       |PVC      |-                |/var/lib/snipeit/data                            |Read/Write|Enabled                |
+|snipe-it                       |backups                    |PVC      |-                |/var/lib/snipeit/dumps                           |Read/Write|Enabled                |
 |snippet-box                    |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |snowflake-proxy                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |socials                        |socials                    |PVC      |-                |/app/people                                      |Read/Write|Enabled                |
@@ -1236,11 +1222,17 @@ The intro needs improvement ;)
 |starmade                       |serverfiles                |PVC      |-                |/starmade                                        |Read/Write|Enabled                |
 |stationeers                    |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |stationeers                    |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|statping-ng                    |data                       |PVC      |-                |/app                                             |Read/Write|Enabled                |
 |storm                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |stun-turn-server               |containerpath              |PVC      |-                |/stun-turn                                       |Read/Write|Enabled                |
 |suistartpage                   |appdata                    |PVC      |-                |/usr/share/nginx/html                            |Read/Write|Enabled                |
 |survivethenights               |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |survivethenights               |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|synapse                        |config                     |configMap|-                |/data                                            |Read/Write|Enabled                |
+|synapse                        |secret                     |secret   |-                |/data/secret                                     |Read/Write|Enabled                |
+|synapse                        |key                        |PVC      |-                |/data/keys                                       |Read/Write|Enabled                |
+|synapse                        |media                      |PVC      |-                |/data/media_store                                |Read/Write|Enabled                |
+|synapse                        |uploads                    |PVC      |-                |/uploads                                         |Read/Write|Enabled                |
 |tachidesk-docker               |appdata                    |PVC      |-                |/home/suwayomi/.local/share/Tachidesk            |Read/Write|Enabled                |
 |tachidesk-docker               |library                    |PVC      |-                |/home/suwayomi/.local/share/Tachidesk/downloads  |Read/Write|Enabled                |
 |tachidesk-docker               |local-library              |PVC      |-                |/home/suwayomi/.local/share/Tachidesk/local      |Read/Write|Enabled                |
@@ -1249,6 +1241,7 @@ The intro needs improvement ;)
 |tasmoadmin                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |tasmobackup                    |data                       |PVC      |-                |/var/www/html/data                               |Read/Write|Enabled                |
 |tasmocompiler                  |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|teamspeak3                     |data                       |PVC      |-                |/var/ts3server                                   |Read/Write|Enabled                |
 |technitium                     |config                     |PVC      |-                |/etc/dns/config                                  |Read/Write|Enabled                |
 |teedy-docs                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |telethon-downloader            |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1276,6 +1269,7 @@ The intro needs improvement ;)
 |tvhproxy                       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |twonky-server                  |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |twonky-server                  |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
+|typecho                        |config                     |PVC      |-                |/app/usr                                         |Read/Write|Enabled                |
 |ubuntu-xrdp                    |ubuntu-xrdp                |PVC      |-                |/home/ubuntu/unraid                              |Read/Write|Enabled                |
 |umami                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |ungoogled-chromium             |datadir                    |PVC      |-                |/ungoogledchromium                               |Read/Write|Enabled                |
@@ -1300,10 +1294,17 @@ The intro needs improvement ;)
 |vorta                          |backupsfrom                |PVC      |-                |/data/bkp_from                                   |Read Only |Enabled                |
 |vorta                          |backupsto                  |PVC      |-                |/data/bkp_to                                     |Read/Write|Enabled                |
 |vorta                          |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|wbo                            |data                       |PVC      |-                |/opt/app/server-data                             |Read/Write|Enabled                |
 |webp-server                    |storagecache               |PVC      |-                |/opt/exhaust                                     |Read/Write|Enabled                |
 |webp-server                    |storagepics                |PVC      |-                |/opt/pics                                        |Read Only |Enabled                |
+|wger                           |media                      |PVC      |-                |/home/wger/media                                 |Read/Write|Enabled                |
+|wger                           |static                     |emptyDir |-                |/home/wger/static                                |Read/Write|Enabled                |
+|wger                           |wger-config                |custom   |-                |/etc/nginx/conf.d                                |Read/Write|Enabled                |
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|wireshark                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
+|wireshark                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |wizarr                         |database                   |PVC      |-                |/data/database                                   |Read/Write|Enabled                |
+|xbackbone                      |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
 |xmrig                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |xware                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
@@ -1311,6 +1312,11 @@ The intro needs improvement ;)
 |yacreaderlibraryserver         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |yacy                           |appdata                    |PVC      |-                |/opt/yacy_search_server/DATA                     |Read/Write|Enabled                |
 |yourls                         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|youtrack                       |data                       |PVC      |-                |/opt/youtrack/data                               |Read/Write|Enabled                |
+|youtrack                       |conf                       |PVC      |-                |/opt/youtrack/conf                               |Read/Write|Enabled                |
+|youtrack                       |logs                       |PVC      |-                |/opt/youtrack/logs                               |Read/Write|Enabled                |
+|youtrack                       |backups                    |PVC      |-                |/opt/youtrack/backups                            |Read/Write|Enabled                |
+|youtrack                       |youtracktemp               |emptyDir |-                |/opt/youtrack/temp                               |Read/Write|Enabled                |
 |z80pack                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zabbix                         |serveralertscripts         |PVC      |-                |/usr/lib/zabbix/alertscripts                     |Read/Write|Enabled                |
 |zabbix                         |serverexternalscripts      |PVC      |-                |/usr/lib/zabbix/externalscripts                  |Read/Write|Enabled                |
@@ -1331,19 +1337,20 @@ The intro needs improvement ;)
 |zabbix                         |javagatewaylibs            |PVC      |-                |/usr/sbin/zabbix_java/ext_lib                    |Read/Write|Enabled                |
 |zoneminder                     |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zoneminder                     |datapath                   |PVC      |-                |/var/cache/zoneminder                            |Read/Write|Enabled                |
+|zusam                          |data                       |PVC      |-                |/zusam/data                                      |Read/Write|Enabled                |
 
 ## Enterprise
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|authelia    |config     |PVC     |-       |/config                  |Read/Write|Enabled                |
-|blocky      |-          |-       |-       |-                        |-         |Persistence not Defined|
-|cert-manager|-          |-       |-       |-                        |-         |Persistence not Defined|
-|grafana     |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
-|grafana     |grafana-tmp|emptyDir|-       |/opt/bitnami/grafana/tmp |Read/Write|Enabled                |
-|metallb     |-          |-       |-       |-                        |-         |Persistence not Defined|
-|prometheus  |-          |-       |-       |-                        |-         |Persistence not Defined|
-|traefik     |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
-|vaultwarden |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
+|authelia      |config     |PVC     |-       |/config                  |Read/Write|Enabled                |
+|blocky        |-          |-       |-       |-                        |-         |Persistence not Defined|
+|clusterissuer |-          |-       |-       |-                        |-         |Persistence not Defined|
+|grafana       |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
+|grafana       |grafana-tmp|emptyDir|-       |/opt/bitnami/grafana/tmp |Read/Write|Enabled                |
+|metallb-config|-          |-       |-       |-                        |-         |Persistence not Defined|
+|prometheus    |-          |-       |-       |-                        |-         |Persistence not Defined|
+|traefik       |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
+|vaultwarden   |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
