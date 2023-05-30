@@ -2,6 +2,201 @@
 
 
 
+## [traefik-18.0.7](https://github.com/truecharts/charts/compare/traefik-18.0.6...traefik-18.0.7) (2023-05-28)
+
+### Chore
+
+- move ingressclass under ingress section and hide behind expert button ([#9225](https://github.com/truecharts/charts/issues/9225))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
+## [traefik-18.0.6](https://github.com/truecharts/charts/compare/traefik-18.0.5...traefik-18.0.6) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
+## [traefik-18.0.5](https://github.com/truecharts/charts/compare/traefik-18.0.4...traefik-18.0.5) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  - bump traefik version
+  
+  
+
+
+## [traefik-18.0.4](https://github.com/truecharts/charts/compare/traefik-18.0.3...traefik-18.0.4) (2023-05-26)
+
+### Fix
+
+- fix context on middlewares ([#9174](https://github.com/truecharts/charts/issues/9174))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.3](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.3) (2023-05-25)
+
+### Fix
+
+- remove duplicate `-Release.Name` when ingressClass is enabled ([#9145](https://github.com/truecharts/charts/issues/9145))
+  
+  
+
+
+## [traefik-18.0.2](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.2) (2023-05-24)
+
+
+
+
+## [traefik-18.0.2](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.2) (2023-05-24)
+
+
+
+
+## [traefik-18.0.2](https://github.com/truecharts/charts/compare/traefik-18.0.1...traefik-18.0.2) (2023-05-24)
+
+
+
+
+## [traefik-18.0.1](https://github.com/truecharts/charts/compare/traefik-18.0.0...traefik-18.0.1) (2023-05-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/traefik to 2.10.1 ([#9117](https://github.com/truecharts/charts/issues/9117))
+  
+  ### Fix
+
+- ensure ingressclass state is fetched from global scope
+  
+  
+
+
+## [traefik-18.0.0](https://github.com/truecharts/charts/compare/traefik-17.0.39...traefik-18.0.0) (2023-05-24)
+
+### Refactor
+
+- BREAKING CHANGE move traefik to new CRD's and move config to tc-system ([#9116](https://github.com/truecharts/charts/issues/9116))
+  
+  
+
+
+## [traefik-17.0.39](https://github.com/truecharts/charts/compare/traefik-17.0.38...traefik-17.0.39) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
 ## [traefik-17.0.38](https://github.com/truecharts/charts/compare/traefik-17.0.37...traefik-17.0.38) (2023-05-16)
 
 ### Chore

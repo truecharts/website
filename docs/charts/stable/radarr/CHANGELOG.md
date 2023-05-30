@@ -2,6 +2,51 @@
 
 
 
+## [radarr-16.0.13](https://github.com/truecharts/charts/compare/radarr-16.0.12...radarr-16.0.13) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
+## [radarr-16.0.12](https://github.com/truecharts/charts/compare/radarr-16.0.11...radarr-16.0.12) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
+## [radarr-16.0.11](https://github.com/truecharts/charts/compare/radarr-16.0.10...radarr-16.0.11) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [radarr-16.0.10](https://github.com/truecharts/charts/compare/radarr-16.0.9...radarr-16.0.10) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [radarr-16.0.9](https://github.com/truecharts/charts/compare/radarr-16.0.8...radarr-16.0.9) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [radarr-16.0.8](https://github.com/truecharts/charts/compare/radarr-16.0.7...radarr-16.0.8) (2023-05-16)
 
 ### Chore

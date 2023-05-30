@@ -6,6 +6,7 @@ words:
   - ampproject
   - appname
   - autoprefixer
+  - backoff
   - backupname
   - bazarr
   - bitnami

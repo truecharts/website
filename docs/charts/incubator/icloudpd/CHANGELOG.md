@@ -2,6 +2,25 @@
 
 
 
+## [icloudpd-2.0.16](https://github.com/truecharts/charts/compare/icloudpd-2.0.15...icloudpd-2.0.16) (2023-05-28)
+
+### Fix
+
+- Fix broken questions ([#9222](https://github.com/truecharts/charts/issues/9222))
+  
+  
+
+
+## [icloudpd-2.0.15](https://github.com/truecharts/charts/compare/icloudpd-2.0.14...icloudpd-2.0.15) (2023-05-26)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  - set correct value for china, sync time ([#7745](https://github.com/truecharts/charts/issues/7745))
+  
+  
+
+
 ## [icloudpd-2.0.14](https://github.com/truecharts/charts/compare/icloudpd-2.0.13...icloudpd-2.0.14) (2023-02-10)
 
 ### Fix

@@ -2,6 +2,51 @@
 
 
 
+## [cyberchef-5.0.22](https://github.com/truecharts/charts/compare/cyberchef-5.0.21...cyberchef-5.0.22) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
+## [cyberchef-5.0.21](https://github.com/truecharts/charts/compare/cyberchef-5.0.20...cyberchef-5.0.21) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
+## [cyberchef-5.0.20](https://github.com/truecharts/charts/compare/cyberchef-5.0.19...cyberchef-5.0.20) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [cyberchef-5.0.19](https://github.com/truecharts/charts/compare/cyberchef-5.0.18...cyberchef-5.0.19) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [cyberchef-5.0.18](https://github.com/truecharts/charts/compare/cyberchef-5.0.17...cyberchef-5.0.18) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [cyberchef-5.0.17](https://github.com/truecharts/charts/compare/cyberchef-5.0.16...cyberchef-5.0.17) (2023-05-16)
 
 ### Chore

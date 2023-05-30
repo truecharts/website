@@ -2,6 +2,51 @@
 
 
 
+## [leaf2mqtt-7.0.17](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.16...leaf2mqtt-7.0.17) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
+## [leaf2mqtt-7.0.16](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.15...leaf2mqtt-7.0.16) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
+## [leaf2mqtt-7.0.15](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.14...leaf2mqtt-7.0.15) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [leaf2mqtt-7.0.14](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.13...leaf2mqtt-7.0.14) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [leaf2mqtt-7.0.13](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.12...leaf2mqtt-7.0.13) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [leaf2mqtt-7.0.12](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.11...leaf2mqtt-7.0.12) (2023-05-16)
 
 ### Chore

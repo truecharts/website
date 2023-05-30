@@ -2,6 +2,46 @@
 
 
 
+## [vaultwarden-20.0.28](https://github.com/truecharts/charts/compare/vaultwarden-20.0.27...vaultwarden-20.0.28) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
+## [vaultwarden-20.0.27](https://github.com/truecharts/charts/compare/vaultwarden-20.0.26...vaultwarden-20.0.27) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
+## [vaultwarden-20.0.26](https://github.com/truecharts/charts/compare/vaultwarden-20.0.25...vaultwarden-20.0.26) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [vaultwarden-20.0.25](https://github.com/truecharts/charts/compare/vaultwarden-20.0.24...vaultwarden-20.0.25) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [vaultwarden-20.0.24](https://github.com/truecharts/charts/compare/vaultwarden-20.0.23...vaultwarden-20.0.24) (2023-05-16)
 
 ### Chore

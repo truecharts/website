@@ -2,6 +2,51 @@
 
 
 
+## [uptimerobot-prometheus-7.0.8](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-7.0.7...uptimerobot-prometheus-7.0.8) (2023-05-27)
+
+### Chore
+
+- update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
+  
+  
+
+
+## [uptimerobot-prometheus-7.0.7](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-7.0.6...uptimerobot-prometheus-7.0.7) (2023-05-26)
+
+### Chore
+
+- update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
+  
+  
+
+
+## [uptimerobot-prometheus-7.0.6](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-7.0.5...uptimerobot-prometheus-7.0.6) (2023-05-24)
+
+### Chore
+
+- update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
+  
+  
+
+
+## [uptimerobot-prometheus-7.0.5](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-7.0.4...uptimerobot-prometheus-7.0.5) (2023-05-22)
+
+### Chore
+
+- update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
+  
+  
+
+
+## [uptimerobot-prometheus-7.0.4](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-7.0.3...uptimerobot-prometheus-7.0.4) (2023-05-22)
+
+### Feat
+
+- Add Global Pod Options ([#9007](https://github.com/truecharts/charts/issues/9007))
+  
+  
+
+
 ## [uptimerobot-prometheus-7.0.3](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-7.0.2...uptimerobot-prometheus-7.0.3) (2023-05-16)
 
 ### Chore

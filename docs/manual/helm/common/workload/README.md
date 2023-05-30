@@ -1,4 +1,4 @@
-# workload
+# Workload
 
 | Key                                                                  |   Type    | Required |   Helm Template    |                             Default                             | Description                                                              |
 | :------------------------------------------------------------------- | :-------: | :------: | :----------------: | :-------------------------------------------------------------: | :----------------------------------------------------------------------- |
@@ -12,8 +12,10 @@
 | workload.[workload-name].podSpec                                     |  `dict`   |    ✅    |         ❌         |                              `{}`                               | Holds the pod definition                                                 |
 | workload.[workload-name].podSpec.labels                              |  `dict`   |    ❌    | ✅ (On value only) |                              `{}`                               | Additional Pod Labels                                                    |
 | workload.[workload-name].podSpec.annotations                         |  `dict`   |    ❌    | ✅ (On value only) |                              `{}`                               | Pod Annotations                                                          |
-| workload.[workload-name].podSpec.automountServiceAccountToken        | `boolean` |    ❌    |         ❌         | `{{ .Values.podOptions.automountServiceAccoutnToken }}` (false) | Pod's automountServiceAccountToken                                       |
-| workload.[workload-name].podSpec.hostNetwork                         | `boolean` |    ❌    |         ❌         |         `{{ .Values.podOptions.hostNetwork }}` (false)          | Pod's hostNetwork                                                        |
+| workload.[workload-name].podSpec.automountServiceAccountToken        | `boolean` |    ❌    |         ❌         | `{{ .Values.podOptions.automountServiceAccountToken }}` (false) | Pod's automountServiceAccountToken                                       |
+| workload.[workload-name].podSpec.hostNetwork                         | `boolean` |    ❌    |         ❌         |         `{{ .Values.podOptions.hostNetwork }}` (false)          | Bind pod to host's network                                               |
+| workload.[workload-name].podSpec.hostPID                             | `boolean` |    ❌    |         ❌         |           `{{ .Values.podOptions.hostPID }}` (false)            | Allow pod to access host's PID namespace                                 |
+| workload.[workload-name].podSpec.shareProcessNamespace               | `boolean` |    ❌    |         ❌         |    `{{ .Values.podOptions.shareProcessNamespace }}` (false)     | Share Process Namespace with other containers in the pod                 |
 | workload.[workload-name].podSpec.enableServiceLinks                  | `boolean` |    ❌    |         ❌         |      `{{ .Values.podOptions.enableServiceLinks }}` (false)      | Pod's enableServiceLinks                                                 |
 | workload.[workload-name].podSpec.restartPolicy                       | `string`  |    ❌    |         ✅         |        `{{ .Values.podOptions.restartPolicy }}` (Always)        | Pod's restartPolicy. (Always, Never, OnFailure)                          |
 | workload.[workload-name].podSpec.schedulerName                       | `string`  |    ❌    |         ✅         |          `{{ .Values.podOptions.schedulerName }}` ("")          | Pod's schedulerName                                                      |
@@ -31,7 +33,7 @@
 | workload.[workload-name].podSpec.dnsConfig.nameservers.nameserver    | `string`  |    ✅    |         ✅         |                              `""`                               | Pod's DNS Config - Nameserver                                            |
 | workload.[workload-name].podSpec.dnsConfig.searches                  |  `list`   |    ❌    |         ✅         |                              `[]`                               | Pod's DNS Config - Searches (Max 6)                                      |
 | workload.[workload-name].podSpec.dnsConfig.searches.[search]         | `string`  |    ✅    |         ✅         |                              `""`                               | Pod's DNS Config - Search                                                |
-| workload.[workload-name].podSpec.dnsConfig.options                   |  `dict`   |    ❌    |         ❌         |                              `{}`                               | Pod's DNS Config - Options                                               |
+| workload.[workload-name].podSpec.dnsConfig.options                   |  `dict`   |    ❌    |         ❌         |                        `{"ndots": "1"}`                         | Pod's DNS Config - Options                                               |
 | workload.[workload-name].podSpec.dnsConfig.options.name              | `string`  |    ✅    |         ✅         |                              `""`                               | Pod's DNS Config - Option name                                           |
 | workload.[workload-name].podSpec.dnsConfig.options.value             | `string`  |    ❌    |         ✅         |                              `""`                               | Pod's DNS Config - Option value                                          |
 | workload.[workload-name].podSpec.tolerations                         |  `list`   |    ❌    |         ❌         |           `{{ .Values.podOptions.tolerations }}` ([])           | Pod's Tolerations                                                        |
@@ -59,7 +61,7 @@ Notes
 > if a GPU is assigned to a container and Scale Middleware sets `.Values.global.ixChartContext.addNvidiaRuntimeClass` to `true`.
 > Note that it will only set the `runtimeClassName` on the pod that this container belongs to.
 > **sysctl** `net.ipv4.ip_unprivileged_port_start` will be automatically set to the lowest `targetPort` (or `port` if targetPort is not defined) number assigned to the pod.
-> **sysctl** `net.ipv4.ping_group_range` will be automatically set to the lowest and highest `targetPort` (or `port` if targetPort is not defined) number assigned to the pod.
+> When hostNetwork is enabled the above **sysctl** (`net.ipv4.ip_unprivileged_port_start`) will not be added.
 
 ---
 
@@ -109,6 +111,8 @@ workload:
         key: value
       automountServiceAccountToken: true
       hostNetwork: false
+      hostPID: false
+      shareProcessNamespace: false
       enableServiceLinks: false
       schedulerName: some-scheduler
       priorityClassName: some-priority-class-name
@@ -135,7 +139,7 @@ workload:
           - my.dns.search.suffix
         options:
           - name: ndots
-            value: "2"
+            value: "1"
           - name: edns0
       tolerations:
         - operator: Exists

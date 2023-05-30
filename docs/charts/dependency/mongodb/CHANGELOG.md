@@ -2,6 +2,233 @@
 
 
 
+## [mongodb-6.0.36](https://github.com/truecharts/charts/compare/mongodb-6.0.35...mongodb-6.0.36) (2023-05-29)
+
+### Chore
+
+- update helm chart common to 12.10.8 ([#9216](https://github.com/truecharts/charts/issues/9216))
+  
+  
+
+
+## [mongodb-6.0.35](https://github.com/truecharts/charts/compare/mongodb-6.0.34...mongodb-6.0.35) (2023-05-28)
+
+### Chore
+
+- update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9211](https://github.com/truecharts/charts/issues/9211))
+  
+  
+
+
+## [mongodb-6.0.34](https://github.com/truecharts/charts/compare/mongodb-6.0.33...mongodb-6.0.34) (2023-05-27)
+
+### Chore
+
+- update helm chart common to 12.10.4 ([#9195](https://github.com/truecharts/charts/issues/9195))
+  
+  
+
+
+## [mongodb-6.0.33](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.33) (2023-05-25)
+
+### Chore
+
+- update helm chart common to 12.10.2 ([#9158](https://github.com/truecharts/charts/issues/9158))
+  - update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.33](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.33) (2023-05-25)
+
+### Chore
+
+- update helm chart common to 12.10.2 ([#9158](https://github.com/truecharts/charts/issues/9158))
+  - update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.33](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.33) (2023-05-25)
+
+### Chore
+
+- update helm chart common to 12.10.2 ([#9158](https://github.com/truecharts/charts/issues/9158))
+  - update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.33](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.33) (2023-05-25)
+
+### Chore
+
+- update helm chart common to 12.10.2 ([#9158](https://github.com/truecharts/charts/issues/9158))
+  - update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.33](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.33) (2023-05-25)
+
+### Chore
+
+- update helm chart common to 12.10.2 ([#9158](https://github.com/truecharts/charts/issues/9158))
+  - update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.33](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.33) (2023-05-25)
+
+### Chore
+
+- update helm chart common to 12.10.2 ([#9158](https://github.com/truecharts/charts/issues/9158))
+  - update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.33](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.33) (2023-05-25)
+
+### Chore
+
+- update helm chart common to 12.10.2 ([#9158](https://github.com/truecharts/charts/issues/9158))
+  - update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.32](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.32) (2023-05-25)
+
+### Chore
+
+- update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.32](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.32) (2023-05-25)
+
+### Chore
+
+- update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9150](https://github.com/truecharts/charts/issues/9150))
+  - update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.31](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.31) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.31](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.31) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.31](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.31) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.31](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.31) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.31](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.31) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.31](https://github.com/truecharts/charts/compare/mongodb-6.0.30...mongodb-6.0.31) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.10.0 ([#9129](https://github.com/truecharts/charts/issues/9129))
+  
+  
+
+
+## [mongodb-6.0.30](https://github.com/truecharts/charts/compare/mongodb-6.0.29...mongodb-6.0.30) (2023-05-24)
+
+### Chore
+
+- update helm chart common to 12.9.5 ([#9118](https://github.com/truecharts/charts/issues/9118))
+  
+  
+
+
+## [mongodb-6.0.29](https://github.com/truecharts/charts/compare/mongodb-6.0.28...mongodb-6.0.29) (2023-05-22)
+
+### Chore
+
+- update helm chart common to 12.9.2 ([#9064](https://github.com/truecharts/charts/issues/9064))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
+## [mongodb-6.0.28](https://github.com/truecharts/charts/compare/mongodb-6.0.27...mongodb-6.0.28) (2023-05-22)
+
+### Chore
+
+- update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9056](https://github.com/truecharts/charts/issues/9056))
+  
+  
+
+
+## [mongodb-6.0.27](https://github.com/truecharts/charts/compare/mongodb-6.0.26...mongodb-6.0.27) (2023-05-21)
+
+### Chore
+
+- update helm chart common to 12.8.2 ([#9028](https://github.com/truecharts/charts/issues/9028))
+  
+  
+
+
+## [mongodb-6.0.26](https://github.com/truecharts/charts/compare/mongodb-6.0.25...mongodb-6.0.26) (2023-05-20)
+
+### Chore
+
+- update container image tccr.io/truecharts/mongodb to v6.0.6 ([#9015](https://github.com/truecharts/charts/issues/9015))
+  
+  
+
+
 ## [mongodb-6.0.25](https://github.com/truecharts/charts/compare/mongodb-6.0.24...mongodb-6.0.25) (2023-05-15)
 
 ### Chore

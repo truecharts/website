@@ -6,6 +6,12 @@ sidebar_position: 13
 
 Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN addon
 
+:::caution Unique VPN Environmental Variables
+
+The guide below uses Mullvad and Windscribe as examples. You must visit the [Gluetun Wiki](https://github.com/qdm12/gluetun/wiki) and use the environmental variables listed for your VPN provider. Attempting to use the variables listed below will not work with any other providers and will cause Gluetun to fail during start up and the app it is attached to not to start.
+
+:::
+
 ## Prerequisites
 
 - Anything migrated to the new common chart that features `Gluetun`
@@ -19,7 +25,7 @@ Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN a
 
 ![VPN Gluetun 1](img/Gluetun-VPN1.png)
 
-`Gluetun` works with Environment Variables so we need to configure them below. Enter your `VPN Provider` specific ones (see blow)
+`Gluetun` works with Environment Variables so we need to configure them below. Enter your `VPN Provider` specific ones (see below)
 
 ### OpenVPN Example
 
@@ -33,35 +39,54 @@ Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN a
 I will demonstrate using `Mullvad` as the provider.
 
 - I pull my private key, endpoint port and Wireguard Addresses from a `Mullvad` wireguard config file.
+
   ![Mullvad Config File](img/Gluetun-VPN4.png)
+
 - You can generate a new config file from the `Mullvad` website, here is the [Mullvad Config Generator](https://mullvad.net/en/account/#/wireguard-config/)
 
 Now we can enter the Env Vars
 
 - Install app as per usual and scroll down the to the `Addons` section, click `Add` for each new environment variable
+
   ![WG ENV Vars 1](img/Gluetun-VPN5.png)
+
 - Enable the killswitch by ticking `Enable Killswitch` box
 - Click `Add` for every subnet you would like to exclude from the VPN tunnel. I have added my local subnet.
+
+:::caution Killswitch Entry
+
+The Killswitch entry uses the Network ID and CIDR. Please note the example above is 192.168.1.0/24. This is never your default gateway or router IP address. If you fill this entry out incorrectly Gluetun will fail to start and the application it is attached to will fail to start. In almost all situations the Network ID will end in a .0 (ie. 192.168.0.0, 10.0.0.0, 172.16.0.0) and the CIDR will be /24.
+
   > Specifying the kubernetes subnet is not necessary as it is automatically excluded from the VPN tunnel
+
+:::
+
 - VPN Config File Location is not necessary, we will be using environment variables instead, so leave it blank
+
   ![WG ENV Vars 2](img/Gluetun-VPN6.png)
+
 - `VPN_TYPE` is `wireguard`
 - `VPN_SERVICE_PROVIDER` is `mullvad` in my case
+
   ![WG ENV Vars 3](img/Gluetun-VPN7.png)
+
 - `WIREGUARD_PRIVATE_KEY` is the private key from the `Mullvad` config file above
 - `FIREWALL_VPN_INPUT_PORTS` is the _port forward_ port, to forward a port with `Mullvad`, follow steps 2 and 3 from here: [Mullvad Port Forwarding](https://mullvad.net/en/help/port-forwarding-and-mullvad/)
 - `WIREGUARD_ADDRESSES` is the `Mullvad` endpoint IP address, found in the `Mullvad` config file above
+
   ![WG ENV Vars 4](img/Gluetun-VPN8.png)
+
 - `SERVER_CITIES` is the `Mullvad` server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port.
   In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`.
 - `VPN_ENDPOINT_PORT` is the `Mullvad` endpoint port, found in the `Mullvad` config file above
 - Basically same as above but needs the `VPN_TYPE` switched to `wireguard`, `WIREGUARD_PRIVATE_KEY` and `WIREGUARD_ADDRESSES`
+
   ![VPN Gluetun 4](img/Gluetun-VPN4.png)
 
 ## Verify it works
 
 Easiest way to verify after it deploys (the app will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces
-can be shown quickly (or check the logs), `tun0` for `OpenVPN` or `wg0` for `Wireguard`.
+can be shown quickly (or check the logs), the interface will be `tun0`.
 
 ![VPN Gluetun 3](img/Gluetun-VPN3.png)
 
@@ -132,3 +157,15 @@ If your provider isn't supported by `Gluetun` then you can use a [custom provide
   - Note: use `/gluetun/vpn.conf` for `OPENVPN_CUSTOM_CONFIG` and not the path specified inside the `VPN config file location` above
 
 ![Custom Provider Example](img/CustomVPNprovider.png)
+
+## Troubleshooting
+
+To access the Gluetun logs do the following.
+
+1. Click the 3 dots on the app you are using with Gluetun.
+
+2. Select logs.
+
+3. In the Containers dropdown select the log that ends with "-vpn".
+
+![Gluteun VPN Log](img/Gluetun-vpn-log.png)
