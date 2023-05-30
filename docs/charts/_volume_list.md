@@ -356,6 +356,8 @@ The intro needs improvement ;)
 |photoshow                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |phpldapadmin              |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |picoshare                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|pihole                    |config                |PVC      |-              |/etc/pihole                                          |Read/Write|Enabled                |
+|pihole                    |dnsmasq               |PVC      |-              |/etc/dnsmasq.d                                       |Read/Write|Enabled                |
 |pinry                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |pixapop                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pixapop                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -1052,8 +1054,6 @@ The intro needs improvement ;)
 |pigallery2                     |db                         |PVC      |-                |/app/data/db                                     |Read/Write|Enabled                |
 |pigallery2                     |image                      |PVC      |-                |/app/data/images/                                |Read Only |Enabled                |
 |pigallery2                     |tmp                        |PVC      |-                |/app/data/tmp                                    |Read/Write|Enabled                |
-|pihole                         |config                     |PVC      |-                |/etc/pihole                                      |Read/Write|Enabled                |
-|pihole                         |dnsmasq                    |PVC      |-                |/etc/dnsmasq.d                                   |Read/Write|Enabled                |
 |pingvin-share                  |data                       |PVC      |-                |/opt/app/backend/data                            |Read/Write|Enabled                |
 |piwigo                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |piwigo                         |gallery                    |PVC      |-                |/gallery                                         |Read/Write|Enabled                |
@@ -1338,6 +1338,14 @@ The intro needs improvement ;)
 |zoneminder                     |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |zoneminder                     |datapath                   |PVC      |-                |/var/cache/zoneminder                            |Read/Write|Enabled                |
 |zusam                          |data                       |PVC      |-                |/zusam/data                                      |Read/Write|Enabled                |
+
+## Operators
+
+| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
+|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|metallb |webhook-server-cert|PVC |-       |-        |Read/Write|Mount Path not Defined|
+|metallb |metallb-excludel2  |PVC |-       |-        |Read/Write|Mount Path not Defined|
+|metallb |memberlist         |PVC |-       |-        |Read/Write|Mount Path not Defined|
 
 ## Enterprise
 
