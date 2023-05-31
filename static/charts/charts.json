@@ -1,5 +1,5 @@
 {
-    "totalCount": 803,
+    "totalCount": 804,
     "trains": [
         {
             "name": "operators",
@@ -11,7 +11,7 @@
                     "train": "operators",
                     "link": "https://truecharts.org/charts/operators/metallb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png",
-                    "version": "9.0.0"
+                    "version": "9.0.5"
                 }
             ]
         },
@@ -1009,7 +1009,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "14.0.28"
+                    "version": "14.0.29"
                 },
                 {
                     "name": "jdownloader2",
@@ -1721,7 +1721,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pihole",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pihole.png",
-                    "version": "10.0.3"
+                    "version": "10.0.5"
                 },
                 {
                     "name": "pinry",
@@ -2161,7 +2161,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/sonarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png",
-                    "version": "15.0.21"
+                    "version": "15.0.22"
                 },
                 {
                     "name": "speedtest-exporter",
@@ -2695,7 +2695,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/metallb-config",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.png",
-                    "version": "1.0.0"
+                    "version": "1.1.2"
                 },
                 {
                     "name": "prometheus",
@@ -2725,7 +2725,7 @@
         },
         {
             "name": "incubator",
-            "count": 457,
+            "count": 458,
             "charts": [
                 {
                     "name": "acestream",
@@ -4736,6 +4736,14 @@
                     "version": "2.0.27"
                 },
                 {
+                    "name": "netbootxyz",
+                    "description": "Your favorite operating systems in one place!",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/netbootxyz",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/netbootxyz.png",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "netbox",
                     "description": "NetBox is the leading solution for modeling and documenting modern networks.",
                     "train": "incubator",
@@ -5697,11 +5705,11 @@
                 },
                 {
                     "name": "snippet-box",
-                    "description": "Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.",
+                    "description": "Snippet Box is a simple self-hosted app for organizing your code snippets.",
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/snippet-box",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/snippet-box.png",
-                    "version": "2.0.9"
+                    "version": "3.0.0"
                 },
                 {
                     "name": "snowflake-proxy",
@@ -5789,7 +5797,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/sshwifty",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sshwifty.png",
-                    "version": "0.0.8"
+                    "version": "0.0.9"
                 },
                 {
                     "name": "st-reborn-server",
