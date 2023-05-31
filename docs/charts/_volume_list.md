@@ -994,6 +994,8 @@ The intro needs improvement ;)
 |necesse                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |necesse                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |neko                           |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|netbootxyz                     |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
+|netbootxyz                     |assets                     |PVC      |-                |/assets                                          |Read/Write|Enabled                |
 |netbox                         |config                     |PVC      |-                |/etc/netbox/config                               |Read/Write|Enabled                |
 |netbox                         |reports                    |PVC      |-                |/etc/netbox/reports                              |Read/Write|Enabled                |
 |netbox                         |scripts                    |PVC      |-                |/etc/netbox/scripts                              |Read/Write|Enabled                |
