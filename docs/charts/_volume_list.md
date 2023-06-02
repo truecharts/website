@@ -55,6 +55,7 @@ The intro needs improvement ;)
 |budge                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |calibre                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |calibre-web               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|channels-dvr              |config                |PVC      |-              |/channels-dvr                                        |Read/Write|Enabled                |
 |chevereto                 |storage               |PVC      |-              |/var/www/html/images/                                |Read/Write|Enabled                |
 |chevereto                 |content               |PVC      |-              |/var/www/html/content/                               |Read/Write|Enabled                |
 |chronos                   |chronos               |PVC      |-              |/chronos                                             |Read/Write|Enabled                |
@@ -412,6 +413,8 @@ The intro needs improvement ;)
 |resilio-sync              |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |retrobot                  |data                  |PVC      |-              |/retrobot/data                                       |Read/Write|Enabled                |
 |ring-mqtt                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|romm                      |library               |PVC      |-              |/romm/library                                        |Read/Write|Enabled                |
+|romm                      |resources             |PVC      |-              |/romm/resources                                      |Read/Write|Enabled                |
 |rsnapshot                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |rsnapshot                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |rss-bridge                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -444,6 +447,7 @@ The intro needs improvement ;)
 |spotweb                   |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |sqlitebrowser             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |sqlitebrowser             |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|sshwifty                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |stash                     |config                |PVC      |-              |/root/.stash                                         |Read/Write|Enabled                |
 |static                    |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |static                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -633,7 +637,6 @@ The intro needs improvement ;)
 |bwapp                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |cadquery-jupyter               |workdir                    |PVC      |-                |/home/cq                                         |Read/Write|Enabled                |
 |cadquery-server                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|channels-dvr                   |config                     |PVC      |-                |/channels-dvr                                    |Read/Write|Enabled                |
 |checkmk                        |config                     |PVC      |-                |/omd/sites                                       |Read/Write|Enabled                |
 |checkmk                        |cmk-temp                   |emptyDir |-                |/omd/sites/cmk/tmp                               |Read/Write|Enabled                |
 |checkmk                        |cmk-cron                   |emptyDir |-                |/var/spool/cron/crontabs                         |Read/Write|Enabled                |
@@ -801,7 +804,7 @@ The intro needs improvement ;)
 |frigate                        |db                         |emptyDir |-                |/db                                              |Read/Write|Enabled                |
 |frigate                        |cache                      |emptyDir |-                |/tmp/cache                                       |Read/Write|Enabled                |
 |frigate                        |shm                        |emptyDir |-                |/dev/shm                                         |Read/Write|Enabled                |
-|frigate                        |frigate-config             |configMap|-                |/config                                          |Read/Write|Enabled                |
+|frigate                        |frigate-config             |configmap|-                |/config                                          |Read/Write|Enabled                |
 |fsm                            |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |funkwhale                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |funkwhale                      |musicpath                  |PVC      |-                |/music                                           |Read Only |Enabled                |
@@ -1142,8 +1145,6 @@ The intro needs improvement ;)
 |rimgo                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rmlint                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |rmlint                         |searchlocation             |PVC      |-                |/root                                            |Read/Write|Enabled                |
-|romm                           |library                    |PVC      |-                |/romm/library                                    |Read/Write|Enabled                |
-|romm                           |resources                  |PVC      |-                |/romm/resources                                  |Read/Write|Enabled                |
 |root                           |appdata                    |PVC      |-                |/appdata                                         |Read/Write|Enabled                |
 |rss-proxy                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |rss-to-telegram                |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1215,7 +1216,6 @@ The intro needs improvement ;)
 |splunk                         |config                     |PVC      |-                |/opt/splunk/var                                  |Read/Write|Enabled                |
 |splunk                         |datap                      |PVC      |-                |/splunkdata                                      |Read/Write|Enabled                |
 |sqlite-web                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|sshwifty                       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |st-reborn-server               |config                     |PVC      |-                |/home/server/config                              |Read/Write|Enabled                |
 |st-reborn-server               |logs                       |PVC      |-                |/home/server/logs                                |Read/Write|Enabled                |
 |st-reborn-server               |data                       |PVC      |-                |/home/server/Data                                |Read/Write|Enabled                |
@@ -1302,6 +1302,10 @@ The intro needs improvement ;)
 |wger                           |media                      |PVC      |-                |/home/wger/media                                 |Read/Write|Enabled                |
 |wger                           |static                     |emptyDir |-                |/home/wger/static                                |Read/Write|Enabled                |
 |wger                           |wger-config                |custom   |-                |/etc/nginx/conf.d                                |Read/Write|Enabled                |
+|whisper-asr-webservice         |pip                        |PVC      |-                |/root/.cache/pip                                 |Read/Write|Enabled                |
+|whisper-asr-webservice         |poetry                     |PVC      |-                |/root/.cache/poetry                              |Read/Write|Enabled                |
+|whisper-asr-webservice         |whisper                    |PVC      |-                |/root/.cache/whisper                             |Read/Write|Enabled                |
+|whisper-asr-webservice         |faster-whisper             |PVC      |-                |/root/.cache/faster_whisper                      |Read/Write|Enabled                |
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |wireshark                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |wireshark                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
