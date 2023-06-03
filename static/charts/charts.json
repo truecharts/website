@@ -17,7 +17,7 @@
         },
         {
             "name": "stable",
-            "count": 332,
+            "count": 333,
             "charts": [
                 {
                     "name": "actualserver",
@@ -988,6 +988,14 @@
                     "version": "4.0.19"
                 },
                 {
+                    "name": "invidious",
+                    "description": "Open source alternative front-end to YouTube.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/incubator/invidious",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png",
+                    "version": "5.0.0"
+                },
+                {
                     "name": "ipfs",
                     "description": "IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.",
                     "train": "stable",
@@ -1169,7 +1177,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libreddit",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libreddit.png",
-                    "version": "4.0.19"
+                    "version": "4.0.20"
                 },
                 {
                     "name": "libremdb",
@@ -1609,7 +1617,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/openvscode-server",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.png",
-                    "version": "5.0.21"
+                    "version": "5.0.22"
                 },
                 {
                     "name": "organizr",
@@ -2749,7 +2757,7 @@
         },
         {
             "name": "incubator",
-            "count": 456,
+            "count": 455,
             "charts": [
                 {
                     "name": "acestream",
@@ -4198,14 +4206,6 @@
                     "link": "https://truecharts.org/charts/incubator/inventree",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/inventree.png",
                     "version": "8.0.0"
-                },
-                {
-                    "name": "invidious",
-                    "description": "Open source alternative front-end to YouTube.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/invidious",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png",
-                    "version": "4.0.0"
                 },
                 {
                     "name": "invitarr",
@@ -6451,7 +6451,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "1.0.10"
+                    "version": "1.0.11"
                 },
                 {
                     "name": "redis",
