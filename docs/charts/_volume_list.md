@@ -191,6 +191,7 @@ The intro needs improvement ;)
 |immich                    |profile               |PVC      |-              |/usr/src/app/upload/profile                          |Read/Write|Enabled                |
 |immich                    |video                 |PVC      |-              |/usr/src/app/upload/encoded-video                    |Read/Write|Enabled                |
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|invidious                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |ipfs                      |data                  |PVC      |-              |/data/ipfs                                           |Read/Write|Enabled                |
 |ipfs                      |staging               |PVC      |-              |/export                                              |Read/Write|Enabled                |
 |ipfs                      |ipfs                  |PVC      |-              |/ipfs                                                |Read/Write|Enabled                |
@@ -748,7 +749,7 @@ The intro needs improvement ;)
 |euterpe                        |configfile                 |secret   |-                |/root/.euterpe/config.json                       |Read Only |Enabled                |
 |explainshell                   |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |external-ip                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|factorio                       |path                       |PVC      |-                |/factorio                                        |Read/Write|Enabled                |
+|factorio                       |config                     |PVC      |-                |/factorio                                        |Read/Write|Enabled                |
 |factorioservermanager          |config                     |PVC      |-                |/opt/factorio/config                             |Read/Write|Enabled                |
 |factorioservermanager          |fsmmods                    |PVC      |-                |/opt/factorio/mods                               |Read/Write|Enabled                |
 |factorioservermanager          |fsmsaves                   |PVC      |-                |/opt/factorio/saves                              |Read/Write|Enabled                |
@@ -873,7 +874,6 @@ The intro needs improvement ;)
 |insurgencysandstorm            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |inventree                      |data                       |PVC      |-                |/home/inventree/data                             |Read/Write|Enabled                |
 |inventree                      |inventree-nginx            |custom   |-                |/etc/nginx/conf.d                                |Read/Write|Enabled                |
-|invidious                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |invitarr                       |config                     |PVC      |-                |/app/app/config                                  |Read/Write|Enabled                |
 |ipmi-tools                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |jackett2telegram               |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
@@ -1349,9 +1349,11 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|metallb |webhook-server-cert|PVC |-       |-        |Read/Write|Mount Path not Defined|
-|metallb |metallb-excludel2  |PVC |-       |-        |Read/Write|Mount Path not Defined|
-|metallb |memberlist         |PVC |-       |-        |Read/Write|Mount Path not Defined|
+|cloudnative-pg|scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled               |
+|cloudnative-pg|webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined|
+|metallb       |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined|
+|metallb       |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined|
+|metallb       |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined|
 
 ## Enterprise
 
