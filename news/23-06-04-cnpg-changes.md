@@ -18,7 +18,7 @@ It's absolutely crucial to export your databases manually beforehand.
 We're currently working on automated tooling to make this process easier, in the mean time you can safely continue to use the old database system.
 
 - export all your databases manually (do **not** rely on heavyscript backups for this!)
-- run this in a **root** shell: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete`
+- run this in a **root** shell: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete2`
 - install the new `cloudnative-pg` chart from the `operators` train
 - wait a few minutes
 - Hit `edit` and save without changes on all applications using postgresql databases.
