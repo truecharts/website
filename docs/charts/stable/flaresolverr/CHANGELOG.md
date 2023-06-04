@@ -2,6 +2,15 @@
 
 
 
+## [flaresolverr-9.0.19](https://github.com/truecharts/charts/compare/flaresolverr-9.0.18...flaresolverr-9.0.19) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [flaresolverr-9.0.18](https://github.com/truecharts/charts/compare/flaresolverr-9.0.17...flaresolverr-9.0.18) (2023-06-02)
 
 ### Chore

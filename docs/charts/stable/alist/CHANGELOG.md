@@ -2,6 +2,15 @@
 
 
 
+## [alist-5.0.21](https://github.com/truecharts/charts/compare/alist-5.0.20...alist-5.0.21) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [alist-5.0.20](https://github.com/truecharts/charts/compare/alist-5.0.19...alist-5.0.20) (2023-05-29)
 
 ### Chore
