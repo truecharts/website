@@ -440,6 +440,7 @@ The intro needs improvement ;)
 |smokeping                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |smokeping                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |snapdrop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|snippet-box               |data                  |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |soft-serve                |config                |PVC      |-              |/soft-serve                                          |Read/Write|Enabled                |
 |soft-serve                |ssh                   |PVC      |-              |/.ssh                                                |Read/Write|Enabled                |
 |soft-serve                |repos                 |PVC      |-              |/repos                                               |Read/Write|Enabled                |
@@ -775,7 +776,7 @@ The intro needs improvement ;)
 |filezilla                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |fireflyiii-data-importer       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |firefox                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|firefox                        |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
+|firefox                        |varrun                     |emptyDir |-                |-                                                |Read/Write|Persistence is Disabled|
 |firefox-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |fireshare                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |fireshare                      |processeddata              |PVC      |-                |/processed                                       |Read/Write|Enabled                |
@@ -802,9 +803,7 @@ The intro needs improvement ;)
 |fotosho                        |thumbs                     |PVC      |-                |/thumbnails                                      |Read/Write|Enabled                |
 |freecad-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |frigate                        |media                      |PVC      |-                |/media                                           |Read/Write|Enabled                |
-|frigate                        |db                         |emptyDir |-                |/db                                              |Read/Write|Enabled                |
-|frigate                        |cache                      |emptyDir |-                |/tmp/cache                                       |Read/Write|Enabled                |
-|frigate                        |shm                        |emptyDir |-                |/dev/shm                                         |Read/Write|Enabled                |
+|frigate                        |db                         |PVC      |-                |/db                                              |Read/Write|Enabled                |
 |frigate                        |frigate-config             |configmap|-                |/config                                          |Read/Write|Enabled                |
 |fsm                            |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |funkwhale                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
@@ -1196,7 +1195,6 @@ The intro needs improvement ;)
 |snipe-it                       |logs                       |PVC      |-                |/var/www/html/storage/logs                       |Read/Write|Enabled                |
 |snipe-it                       |data                       |PVC      |-                |/var/lib/snipeit/data                            |Read/Write|Enabled                |
 |snipe-it                       |backups                    |PVC      |-                |/var/lib/snipeit/dumps                           |Read/Write|Enabled                |
-|snippet-box                    |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |snowflake-proxy                |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |socials                        |socials                    |PVC      |-                |/app/people                                      |Read/Write|Enabled                |
 |somfyprotect2mqtt              |configfile                 |secret   |-                |/config/config.yaml                              |Read Only |Enabled                |
