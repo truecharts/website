@@ -2,6 +2,15 @@
 
 
 
+## [jupyter-4.0.27](https://github.com/truecharts/charts/compare/jupyter-4.0.26...jupyter-4.0.27) (2023-06-04)
+
+### Chore
+
+- update jupyter ([#9391](https://github.com/truecharts/charts/issues/9391))
+  
+  
+
+
 ## [jupyter-4.0.26](https://github.com/truecharts/charts/compare/jupyter-4.0.25...jupyter-4.0.26) (2023-05-29)
 
 ### Chore

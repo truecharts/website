@@ -2,6 +2,29 @@
 
 
 
+## [rdesktop-4.0.33](https://github.com/truecharts/charts/compare/rdesktop-4.0.32...rdesktop-4.0.33) (2023-06-05)
+
+### Chore
+
+- update rdesktop ([#9412](https://github.com/truecharts/charts/issues/9412))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [rdesktop-4.0.32](https://github.com/truecharts/charts/compare/rdesktop-4.0.31...rdesktop-4.0.32) (2023-06-04)
+
+### Chore
+
+- update rdesktop ([#9392](https://github.com/truecharts/charts/issues/9392))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [rdesktop-4.0.31](https://github.com/truecharts/charts/compare/rdesktop-4.0.30...rdesktop-4.0.31) (2023-05-27)
 
 ### Chore

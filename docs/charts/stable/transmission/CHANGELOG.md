@@ -2,6 +2,24 @@
 
 
 
+## [transmission-16.0.21](https://github.com/truecharts/charts/compare/transmission-16.0.20...transmission-16.0.21) (2023-06-05)
+
+
+
+
+## [transmission-16.0.20](https://github.com/truecharts/charts/compare/transmission-16.0.19...transmission-16.0.20) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [transmission-16.0.19](https://github.com/truecharts/charts/compare/transmission-16.0.18...transmission-16.0.19) (2023-05-27)
 
 ### Chore

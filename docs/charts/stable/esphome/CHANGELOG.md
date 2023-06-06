@@ -2,6 +2,24 @@
 
 
 
+## [esphome-14.0.22](https://github.com/truecharts/charts/compare/esphome-14.0.21...esphome-14.0.22) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [esphome-14.0.21](https://github.com/truecharts/charts/compare/esphome-14.0.20...esphome-14.0.21) (2023-06-01)
+
+### Chore
+
+- update container image tccr.io/truecharts/esphome to v2023.5.5 ([#9324](https://github.com/truecharts/charts/issues/9324))
+  
+  
+
+
 ## [esphome-14.0.20](https://github.com/truecharts/charts/compare/esphome-14.0.19...esphome-14.0.20) (2023-05-29)
 
 ### Chore

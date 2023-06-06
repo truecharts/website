@@ -2,6 +2,43 @@
 
 
 
+## [rsshub-7.0.38](https://github.com/truecharts/charts/compare/rsshub-7.0.37...rsshub-7.0.38) (2023-06-05)
+
+### Chore
+
+- update container image tccr.io/truecharts/rsshub to latest ([#9411](https://github.com/truecharts/charts/issues/9411))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [rsshub-7.0.37](https://github.com/truecharts/charts/compare/rsshub-7.0.36...rsshub-7.0.37) (2023-06-04)
+
+### Chore
+
+- update container image tccr.io/truecharts/rsshub to latest ([#9383](https://github.com/truecharts/charts/issues/9383))
+  
+  
+
+
+## [rsshub-7.0.36](https://github.com/truecharts/charts/compare/rsshub-7.0.35...rsshub-7.0.36) (2023-05-31)
+
+### Chore
+
+- update helm general non-major ([#9290](https://github.com/truecharts/charts/issues/9290))
+  
+  
+
+
+## [rsshub-7.0.35](https://github.com/truecharts/charts/compare/rsshub-7.0.34...rsshub-7.0.35) (2023-05-31)
+
+### Chore
+
+- update container image tccr.io/truecharts/browserless-chrome to v1.59.0 ([#9310](https://github.com/truecharts/charts/issues/9310))
+  
+  
+
+
 ## [rsshub-7.0.34](https://github.com/truecharts/charts/compare/rsshub-7.0.33...rsshub-7.0.34) (2023-05-29)
 
 ### Chore

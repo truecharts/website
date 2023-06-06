@@ -2,6 +2,39 @@
 
 
 
+## [frigate-8.0.1](https://github.com/truecharts/charts/compare/frigate-8.0.0...frigate-8.0.1) (2023-06-04)
+
+
+
+
+## [frigate-8.0.0](https://github.com/truecharts/charts/compare/frigate-7.0.1...frigate-8.0.0) (2023-06-04)
+
+
+
+
+## [frigate-7.0.1](https://github.com/truecharts/charts/compare/frigate-7.0.0...frigate-7.0.1) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [frigate-7.0.0](https://github.com/truecharts/charts/compare/frigate-6.0.2...frigate-7.0.0) (2023-06-01)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  - port to new common ([#9141](https://github.com/truecharts/charts/issues/9141))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [frigate-6.0.2](https://github.com/truecharts/charts/compare/frigate-6.0.1...frigate-6.0.2) (2023-02-10)
 
 ### Fix

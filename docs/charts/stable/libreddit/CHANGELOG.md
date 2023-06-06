@@ -2,6 +2,38 @@
 
 
 
+## [libreddit-4.0.22](https://github.com/truecharts/charts/compare/libreddit-4.0.21...libreddit-4.0.22) (2023-06-05)
+
+### Chore
+
+- update container image tccr.io/truecharts/libreddit to latest ([#9408](https://github.com/truecharts/charts/issues/9408))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [libreddit-4.0.21](https://github.com/truecharts/charts/compare/libreddit-4.0.20...libreddit-4.0.21) (2023-06-04)
+
+### Chore
+
+- update container image tccr.io/truecharts/libreddit to latest ([#9370](https://github.com/truecharts/charts/issues/9370))
+  
+  
+
+
+## [libreddit-4.0.20](https://github.com/truecharts/charts/compare/libreddit-4.0.19...libreddit-4.0.20) (2023-06-02)
+
+### Chore
+
+- update container image tccr.io/truecharts/libreddit to latest ([#9335](https://github.com/truecharts/charts/issues/9335))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [libreddit-4.0.19](https://github.com/truecharts/charts/compare/libreddit-4.0.18...libreddit-4.0.19) (2023-05-27)
 
 ### Chore

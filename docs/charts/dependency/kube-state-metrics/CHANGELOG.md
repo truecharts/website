@@ -2,6 +2,33 @@
 
 
 
+## [kube-state-metrics-1.0.12](https://github.com/truecharts/charts/compare/kube-state-metrics-1.0.11...kube-state-metrics-1.0.12) (2023-06-04)
+
+### Chore
+
+- update helm chart common to 12.12.2 ([#9394](https://github.com/truecharts/charts/issues/9394))
+  
+  
+
+
+## [kube-state-metrics-1.0.11](https://github.com/truecharts/charts/compare/kube-state-metrics-1.0.10...kube-state-metrics-1.0.11) (2023-06-04)
+
+### Chore
+
+- update helm chart common to 12.12.1 ([#9348](https://github.com/truecharts/charts/issues/9348))
+  
+  
+
+
+## [kube-state-metrics-1.0.10](https://github.com/truecharts/charts/compare/kube-state-metrics-1.0.9...kube-state-metrics-1.0.10) (2023-06-03)
+
+### Chore
+
+- update helm chart common to 12.12.0 ([#9333](https://github.com/truecharts/charts/issues/9333))
+  
+  
+
+
 ## [kube-state-metrics-1.0.9](https://github.com/truecharts/charts/compare/kube-state-metrics-1.0.8...kube-state-metrics-1.0.9) (2023-05-29)
 
 ### Chore
