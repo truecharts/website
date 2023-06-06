@@ -25,7 +25,7 @@
         },
         {
             "name": "stable",
-            "count": 334,
+            "count": 335,
             "charts": [
                 {
                     "name": "actualserver",
@@ -338,6 +338,14 @@
                     "link": "https://truecharts.org/charts/stable/cloud9",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cloud9.png",
                     "version": "7.0.18"
+                },
+                {
+                    "name": "cloudflared",
+                    "description": "Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/cloudflared",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png",
+                    "version": "5.0.3"
                 },
                 {
                     "name": "cloudflareddns",
@@ -769,7 +777,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/foldingathome",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/foldingathome.png",
-                    "version": "5.0.21"
+                    "version": "5.0.22"
                 },
                 {
                     "name": "fossil",
@@ -1225,7 +1233,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "9.0.27"
+                    "version": "9.0.28"
                 },
                 {
                     "name": "lldap",
@@ -1881,7 +1889,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pwndrop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pwndrop.png",
-                    "version": "5.0.22"
+                    "version": "5.0.23"
                 },
                 {
                     "name": "pyload",
@@ -1969,7 +1977,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "4.0.33"
+                    "version": "4.0.34"
                 },
                 {
                     "name": "readarr",
@@ -2073,7 +2081,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.38"
+                    "version": "7.0.39"
                 },
                 {
                     "name": "sabnzbd",
@@ -2561,7 +2569,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "5.0.29"
+                    "version": "5.0.31"
                 },
                 {
                     "name": "wekan",
@@ -2617,7 +2625,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "2.0.9"
+                    "version": "2.0.10"
                 },
                 {
                     "name": "xen-orchestra",
@@ -2735,7 +2743,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "7.0.43"
+                    "version": "7.0.44"
                 },
                 {
                     "name": "metallb-config",
@@ -2773,7 +2781,7 @@
         },
         {
             "name": "incubator",
-            "count": 454,
+            "count": 453,
             "charts": [
                 {
                     "name": "acestream",
@@ -3206,14 +3214,6 @@
                     "link": "https://truecharts.org/charts/incubator/cloudcommander",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cloudcommander.png",
                     "version": "2.0.13"
-                },
-                {
-                    "name": "cloudflared",
-                    "description": "Client for Cloudflare Tunnel, a daemon that exposes private services through the Cloudflare edge.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/cloudflared",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png",
-                    "version": "5.0.0"
                 },
                 {
                     "name": "cloudreve",
@@ -3877,7 +3877,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/frigate",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/frigate.png",
-                    "version": "8.0.1"
+                    "version": "8.0.2"
                 },
                 {
                     "name": "fsm",
@@ -5925,7 +5925,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/tasmoadmin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tasmoadmin.png",
-                    "version": "4.0.1"
+                    "version": "4.0.2"
                 },
                 {
                     "name": "tasmobackup",
@@ -6435,7 +6435,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "7.0.41"
+                    "version": "7.0.42"
                 },
                 {
                     "name": "memcached",
@@ -6443,7 +6443,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "6.0.51"
+                    "version": "6.0.52"
                 },
                 {
                     "name": "mongodb",
@@ -6451,7 +6451,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "6.0.40"
+                    "version": "6.0.41"
                 },
                 {
                     "name": "node-exporter",
@@ -6459,7 +6459,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "1.0.14"
+                    "version": "1.0.15"
                 },
                 {
                     "name": "redis",
@@ -6475,7 +6475,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/solr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png",
-                    "version": "4.0.40"
+                    "version": "4.0.41"
                 }
             ]
         }
