@@ -14,6 +14,7 @@ they should provide no or minimal conflicts without being changed.
 |custom-app                |-              |-              |-    |-       |Service not Defined|-                                                                                                                                                                                                   |
 |amcrest2mqtt              |main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                   |
 |automatic-music-downloader|main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                   |
+|cloudflared               |main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                   |
 |cloudflareddns            |main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                   |
 |ddclient                  |main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                   |
 |dell-idrac-fan-controller |main           |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                   |
@@ -506,7 +507,6 @@ they should provide no or minimal conflicts without being changed.
 |breitbandmessung-de            |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
 |bwapp                          |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
 |cadquery-server                |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
-|cloudflared                    |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
 |core-keeper-dedicated-server   |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
 |corekeeper                     |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
 |ddns-route53                   |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                                                                                                                                                                                            |
@@ -1211,13 +1211,13 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|cloudnative-pg|main         |main         |443 |https   |Active|-   |
-|metallb       |main         |main         |443 |TCP     |Active|-   |
-|metallb       |controllermon|controllermon|7472|TCP     |Active|-   |
-|metallb       |speakermon   |speakermon   |7473|TCP     |Active|-   |
-|metallb       |memberlist   |memberlisttcp|7946|tcp     |Active|-   |
-|metallb       |memberlist   |memberlistudp|7946|udp     |Active|-   |
-|cloudnative-pg|metrics      |metrics      |8080|http    |Active|-   |
+|cloudnative-pg|cnpg-webhook-service|webhook      |443 |https   |Active|-   |
+|metallb       |main                |main         |443 |TCP     |Active|-   |
+|metallb       |controllermon       |controllermon|7472|TCP     |Active|-   |
+|metallb       |speakermon          |speakermon   |7473|TCP     |Active|-   |
+|metallb       |memberlist          |memberlisttcp|7946|tcp     |Active|-   |
+|metallb       |memberlist          |memberlistudp|7946|udp     |Active|-   |
+|cloudnative-pg|main                |main         |8080|http    |Active|-   |
 
 ## Enterprise
 

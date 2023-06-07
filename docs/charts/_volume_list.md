@@ -64,6 +64,7 @@ The intro needs improvement ;)
 |clamav                    |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
 |clarkson                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |cloud9                    |code                  |PVC      |-              |/code                                                |Read/Write|Enabled                |
+|cloudflared               |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |cloudflareddns            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |code-server               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |commento-plusplus         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -657,7 +658,6 @@ The intro needs improvement ;)
 |cloudbeaver                    |appdata                    |PVC      |-                |/opt/cloudbeaver/workspace                       |Read/Write|Enabled                |
 |cloudcommander                 |appdata                    |PVC      |-                |/root                                            |Read/Write|Enabled                |
 |cloudcommander                 |mountpath                  |PVC      |-                |/UNRAID                                          |Read/Write|Enabled                |
-|cloudflared                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |cloudreve                      |avatarpath                 |PVC      |-                |/cloudreve/avatar                                |Read/Write|Enabled                |
 |cloudreve                      |config                     |PVC      |-                |/cloudreve/config                                |Read/Write|Enabled                |
 |cloudreve                      |databasepath               |PVC      |-                |/cloudreve/db                                    |Read/Write|Enabled                |
