@@ -27,4 +27,4 @@ We also got the request from iX-systems staff a while ago to limit our use of no
 As we're working hard on building seperate operator helm-charts, instead of handling it in the background.This work leads to a unrelated temporary issue, which has been created on purpose: CNPG will currently only be installed on new systems, if one of our "enterprise" charts is being installed.
 More news about this will be released later.
 
-More troubleshooting steps can be found on discord: https://discord.com/channels/830763548678291466/1014121707587522590/1111677879839895562
+For more help, please file a ticket with our support staff on Discord
