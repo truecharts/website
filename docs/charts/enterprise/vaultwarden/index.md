@@ -1,6 +1,6 @@
 # vaultwarden
 
-![Version: 20.0.29](https://img.shields.io/badge/Version-20.0.29-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.28.1"](https://img.shields.io/badge/AppVersion-"1.28.1"-informational?style=flat-square)
+![Version: 20.0.30](https://img.shields.io/badge/Version-20.0.30-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.28.1"](https://img.shields.io/badge/AppVersion-"1.28.1"-informational?style=flat-square)
 
 Unofficial Bitwarden compatible server written in Rust
 

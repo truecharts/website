@@ -2,6 +2,15 @@
 
 
 
+## [zwavejs2mqtt-15.0.22](https://github.com/truecharts/charts/compare/zwavejs2mqtt-15.0.21...zwavejs2mqtt-15.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [zwavejs2mqtt-15.0.21](https://github.com/truecharts/charts/compare/zwavejs2mqtt-15.0.20...zwavejs2mqtt-15.0.21) (2023-06-04)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [littlelink-9.0.29](https://github.com/truecharts/charts/compare/littlelink-9.0.28...littlelink-9.0.29) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [littlelink-9.0.28](https://github.com/truecharts/charts/compare/littlelink-9.0.27...littlelink-9.0.28) (2023-06-06)
 
 ### Chore
