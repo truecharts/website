@@ -4,6 +4,8 @@
 
 Certificate management for Kubernetes
 
+***Deprecation note:  cert-manager has been replaced by clusterissuer***
+
 ## Available Documentation
 
 - [**Changelog**](CHANGELOG)
