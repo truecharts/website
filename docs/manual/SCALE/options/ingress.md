@@ -16,7 +16,7 @@ Currently the `Reverse Proxy` of choice for `TrueCharts` is `Traefik`. Enabling 
 - A working Internet connection that can reach github and truecharts.org from the host system.
 - A configured Apps pool, ensure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Adding TrueCharts to SCALE](/docs/manual/SCALE/guides/getting-started.md)
 - You've added the TrueCharts catalog from [Adding TrueCharts to SCALE](/docs/manual/SCALE/guides/getting-started.md)
-- cert-manager is installed (**recommended** for new common Apps), see [Installing cert-manager](/docs/charts/enterprise/cert-manager/how-to.md)
+- clusterissuer is installed (**recommended** for new common Apps), see [Installing clusterissuer](/docs/charts/enterprise/clusterissuer/how-to.md)
 - Traefik is installed, see [Installing Traefik](/docs/charts/enterprise/traefik/how-to.md)
 
 :::tip
@@ -53,15 +53,15 @@ Apps may not install and throw errors if you do not add a host and path.
 
 #### Single Domain
 
-- `Cert-Manager clusterIssuer` : Enter the name of an ACME Issuer configured in cert-manager.
+- `Cert-Manager clusterIssuer` : Enter the name of an ACME Issuer configured in clusterissuer.
 
-![Ingress Example using cert-manager with single domain](./img/ingress-example1.png)
+![Ingress Example using clusterissuer with single domain](./img/ingress-example1.png)
 
 #### Multiple Domains
 
 To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager clusterIssuer` is blank for the TLS-Settings to be displayed.
 
-![Ingress Example using cert-manager with multiple domains](./img/ingress-example2.png)
+![Ingress Example using clusterissuer with multiple domains](./img/ingress-example2.png)
 
 ### Advanced Settings
 

@@ -160,9 +160,10 @@ This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced S
 ## My app stays stopped even after clicking the start button multiple times.
 
 The following apps do not have active services running under an `ix` namespace, and as a result, they will always appear as "Stopped" in the SCALE UI:
+
 - `external-service`
 - `metallb`
-- `cert-manager`
+- `clusterissuer`
 - `postgresql`
 
 ## How do I stop a TrueCharts App? (**TrueNAS SCALE Only**)
