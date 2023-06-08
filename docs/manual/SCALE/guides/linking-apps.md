@@ -79,7 +79,7 @@ This is a HeavyScript output for Traefik, showing it's services and the publishe
 - `traefik-metrics.ix-traefik.svc.cluster.local                9180/TCP`
 - `traefik-tcp.ix-traefik.svc.cluster.local                    80/TCP,443/TCP`
 
-So. i you wanted to reach the metrics port, you should use `traefik-metrics.ix-traefik.svc.cluster.local` as the name as that port would not be available on other services.
+So, if you wanted to reach the metrics port, you should use `traefik-metrics.ix-traefik.svc.cluster.local` as the name as that port would not be available on other services.
 
 ## Video Guide
 
