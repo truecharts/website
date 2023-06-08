@@ -2,6 +2,33 @@
 
 
 
+## [dell-idrac-fan-controller-1.0.9](https://github.com/truecharts/charts/compare/dell-idrac-fan-controller-1.0.8...dell-idrac-fan-controller-1.0.9) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [dell-idrac-fan-controller-1.0.8](https://github.com/truecharts/charts/compare/dell-idrac-fan-controller-1.0.7...dell-idrac-fan-controller-1.0.8) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [dell-idrac-fan-controller-1.0.7](https://github.com/truecharts/charts/compare/dell-idrac-fan-controller-1.0.6...dell-idrac-fan-controller-1.0.7) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [dell-idrac-fan-controller-1.0.6](https://github.com/truecharts/charts/compare/dell-idrac-fan-controller-1.0.5...dell-idrac-fan-controller-1.0.6) (2023-05-27)
 
 ### Chore

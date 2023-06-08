@@ -4,6 +4,7 @@
 | :----------------------------------------- | :-------: | :------: | :-----------: | :-----: | :------------------------------------------------------------------- |
 | persistence.[volume-name].objectName       | `string`  |    ✅    |      ✅       |  `""`   | Define the secret volume name                                     |
 | persistence.[volume-name].expandObjectName | `boolean` |    ❌    |      ❌       | `true`  | Whether to expand (adding the fullname as prefix) the secret name |
+| persistence.[volume-name].optional         | `boolean` |    ❌    |      ❌       | `false` | Whether the secret should be required or not                       |
 | persistence.[volume-name].defaultMode      | `string`  |    ❌    |      ✅       |  `""`   | Define the defaultMode (must be a string in format of "0777")        |
 | persistence.[volume-name].items            |  `list`   |    ❌    |      ❌       |  `[]`   | Define a list of items for secret                                 |
 | persistence.[volume-name].items.key        | `string`  |    ✅    |      ✅       |  `""`   | Define the key of the secret                                      |
@@ -26,6 +27,7 @@ persistence:
     type: secret
     objectName: secret-name
     expandObjectName: false
+    optional: false
     defaultMode: "0777"
     items:
       - key: key1

@@ -2,6 +2,33 @@
 
 
 
+## [plex-auto-languages-4.0.21](https://github.com/truecharts/charts/compare/plex-auto-languages-4.0.20...plex-auto-languages-4.0.21) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [plex-auto-languages-4.0.20](https://github.com/truecharts/charts/compare/plex-auto-languages-4.0.19...plex-auto-languages-4.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [plex-auto-languages-4.0.19](https://github.com/truecharts/charts/compare/plex-auto-languages-4.0.18...plex-auto-languages-4.0.19) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [plex-auto-languages-4.0.18](https://github.com/truecharts/charts/compare/plex-auto-languages-4.0.17...plex-auto-languages-4.0.18) (2023-05-27)
 
 ### Chore

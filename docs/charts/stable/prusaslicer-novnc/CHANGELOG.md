@@ -2,6 +2,38 @@
 
 
 
+## [prusaslicer-novnc-4.0.25](https://github.com/truecharts/charts/compare/prusaslicer-novnc-4.0.24...prusaslicer-novnc-4.0.25) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [prusaslicer-novnc-4.0.24](https://github.com/truecharts/charts/compare/prusaslicer-novnc-4.0.23...prusaslicer-novnc-4.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [prusaslicer-novnc-4.0.23](https://github.com/truecharts/charts/compare/prusaslicer-novnc-4.0.22...prusaslicer-novnc-4.0.23) (2023-06-04)
+
+### Chore
+
+- update container image tccr.io/truecharts/prusaslicer-novnc to latest ([#9380](https://github.com/truecharts/charts/issues/9380))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [prusaslicer-novnc-4.0.22](https://github.com/truecharts/charts/compare/prusaslicer-novnc-4.0.21...prusaslicer-novnc-4.0.22) (2023-05-27)
 
 ### Chore

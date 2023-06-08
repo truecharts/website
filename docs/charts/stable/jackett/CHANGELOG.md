@@ -2,6 +2,42 @@
 
 
 
+## [jackett-14.0.32](https://github.com/truecharts/charts/compare/jackett-14.0.31...jackett-14.0.32) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [jackett-14.0.31](https://github.com/truecharts/charts/compare/jackett-14.0.30...jackett-14.0.31) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [jackett-14.0.30](https://github.com/truecharts/charts/compare/jackett-14.0.29...jackett-14.0.30) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [jackett-14.0.29](https://github.com/truecharts/charts/compare/jackett-14.0.28...jackett-14.0.29) (2023-05-30)
+
+### Chore
+
+- Add some checks to tc-lint.sh and update chart-tests to GITHUB_OUTPUT ([#9289](https://github.com/truecharts/charts/issues/9289))
+  
+  
+
+
 ## [jackett-14.0.28](https://github.com/truecharts/charts/compare/jackett-14.0.27...jackett-14.0.28) (2023-05-29)
 
 ### Chore

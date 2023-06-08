@@ -2,6 +2,51 @@
 
 
 
+## [immich-7.0.12](https://github.com/truecharts/charts/compare/immich-7.0.11...immich-7.0.12) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
+  
+  
+
+
+## [immich-7.0.11](https://github.com/truecharts/charts/compare/immich-7.0.10...immich-7.0.11) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [immich-7.0.10](https://github.com/truecharts/charts/compare/immich-7.0.9...immich-7.0.10) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [immich-7.0.9](https://github.com/truecharts/charts/compare/immich-7.0.8...immich-7.0.9) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [immich-7.0.8](https://github.com/truecharts/charts/compare/immich-7.0.7...immich-7.0.8) (2023-06-02)
+
+### Chore
+
+- update immich to v1.59.1 (minor) ([#9315](https://github.com/truecharts/charts/issues/9315))
+  
+  
+
+
 ## [immich-7.0.7](https://github.com/truecharts/charts/compare/immich-7.0.6...immich-7.0.7) (2023-05-29)
 
 ### Chore

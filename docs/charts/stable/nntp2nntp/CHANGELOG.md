@@ -2,6 +2,37 @@
 
 
 
+## [nntp2nntp-5.0.11](https://github.com/truecharts/charts/compare/nntp2nntp-5.0.10...nntp2nntp-5.0.11) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [nntp2nntp-5.0.10](https://github.com/truecharts/charts/compare/nntp2nntp-5.0.9...nntp2nntp-5.0.10) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [nntp2nntp-5.0.9](https://github.com/truecharts/charts/compare/nntp2nntp-5.0.8...nntp2nntp-5.0.9) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [nntp2nntp-5.0.8](https://github.com/truecharts/charts/compare/nntp2nntp-5.0.7...nntp2nntp-5.0.8) (2023-05-27)
 
 ### Chore

@@ -27,6 +27,7 @@ This options should not need to be changed per chart.
 | .Values.operator.verify.enabled                                    | `boolean` |    ❌    |         ❌         |   `true`    | Enables or disables the verification of operators                              |
 | .Values.operator.verify.additionalOperators                        |  `list`   |    ❌    |         ❌         |    `[]`     | Additional operators to verify                                                 |
 | .Values.operator.verify.additionalOperators.[operator]             | `string`  |    ❌    |         ❌         |    `""`     | Operator to verify                                                             |
+| .Values.extraTpl                                                   |  `list`   |    ❌    |         ✅         |    `[]`     | Define kubernetes resources, 1 per list item, tpl will be resolved             |
 
 ---
 
@@ -101,6 +102,11 @@ operator:
     additionalOperators:
       - operator1
       - operator2
+extraTpl:
+  - |
+    apiVersion: v1
+    kind: Deployment
+    ...
 ```
 
 ---

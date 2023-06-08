@@ -2,6 +2,37 @@
 
 
 
+## [heimdall-15.0.22](https://github.com/truecharts/charts/compare/heimdall-15.0.21...heimdall-15.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [heimdall-15.0.21](https://github.com/truecharts/charts/compare/heimdall-15.0.20...heimdall-15.0.21) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [heimdall-15.0.20](https://github.com/truecharts/charts/compare/heimdall-15.0.19...heimdall-15.0.20) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [heimdall-15.0.19](https://github.com/truecharts/charts/compare/heimdall-15.0.18...heimdall-15.0.19) (2023-05-27)
 
 ### Chore

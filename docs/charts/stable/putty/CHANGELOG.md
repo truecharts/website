@@ -2,6 +2,37 @@
 
 
 
+## [putty-4.0.12](https://github.com/truecharts/charts/compare/putty-4.0.11...putty-4.0.12) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [putty-4.0.11](https://github.com/truecharts/charts/compare/putty-4.0.10...putty-4.0.11) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [putty-4.0.10](https://github.com/truecharts/charts/compare/putty-4.0.9...putty-4.0.10) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [putty-4.0.9](https://github.com/truecharts/charts/compare/putty-4.0.8...putty-4.0.9) (2023-05-27)
 
 ### Chore

@@ -2,6 +2,34 @@
 
 
 
+## [kitchenowl-4.0.23](https://github.com/truecharts/charts/compare/kitchenowl-4.0.22...kitchenowl-4.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [kitchenowl-4.0.22](https://github.com/truecharts/charts/compare/kitchenowl-4.0.21...kitchenowl-4.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [kitchenowl-4.0.21](https://github.com/truecharts/charts/compare/kitchenowl-4.0.20...kitchenowl-4.0.21) (2023-06-04)
+
+### Chore
+
+- update container image tccr.io/truecharts/kitchenowl-backend to latest ([#9368](https://github.com/truecharts/charts/issues/9368))
+  
+  
+
+
 ## [kitchenowl-4.0.20](https://github.com/truecharts/charts/compare/kitchenowl-4.0.19...kitchenowl-4.0.20) (2023-05-28)
 
 ### Chore

@@ -2,6 +2,37 @@
 
 
 
+## [homepage-3.0.22](https://github.com/truecharts/charts/compare/homepage-3.0.21...homepage-3.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [homepage-3.0.21](https://github.com/truecharts/charts/compare/homepage-3.0.20...homepage-3.0.21) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [homepage-3.0.20](https://github.com/truecharts/charts/compare/homepage-3.0.19...homepage-3.0.20) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [homepage-3.0.19](https://github.com/truecharts/charts/compare/homepage-3.0.18...homepage-3.0.19) (2023-05-27)
 
 ### Chore

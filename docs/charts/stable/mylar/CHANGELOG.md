@@ -2,6 +2,38 @@
 
 
 
+## [mylar-9.0.24](https://github.com/truecharts/charts/compare/mylar-9.0.23...mylar-9.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [mylar-9.0.23](https://github.com/truecharts/charts/compare/mylar-9.0.22...mylar-9.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [mylar-9.0.22](https://github.com/truecharts/charts/compare/mylar-9.0.21...mylar-9.0.22) (2023-06-04)
+
+### Chore
+
+- update container image tccr.io/truecharts/mylar3 to v0.7.2 ([#9378](https://github.com/truecharts/charts/issues/9378))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [mylar-9.0.21](https://github.com/truecharts/charts/compare/mylar-9.0.20...mylar-9.0.21) (2023-05-27)
 
 ### Chore

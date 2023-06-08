@@ -2,6 +2,37 @@
 
 
 
+## [lldap-1.1.12](https://github.com/truecharts/charts/compare/lldap-1.1.11...lldap-1.1.12) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [lldap-1.1.11](https://github.com/truecharts/charts/compare/lldap-1.1.10...lldap-1.1.11) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [lldap-1.1.10](https://github.com/truecharts/charts/compare/lldap-1.1.9...lldap-1.1.10) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [lldap-1.1.9](https://github.com/truecharts/charts/compare/lldap-1.1.8...lldap-1.1.9) (2023-05-27)
 
 ### Chore

@@ -2,6 +2,34 @@
 
 
 
+## [jupyter-4.0.29](https://github.com/truecharts/charts/compare/jupyter-4.0.28...jupyter-4.0.29) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [jupyter-4.0.28](https://github.com/truecharts/charts/compare/jupyter-4.0.27...jupyter-4.0.28) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [jupyter-4.0.27](https://github.com/truecharts/charts/compare/jupyter-4.0.26...jupyter-4.0.27) (2023-06-04)
+
+### Chore
+
+- update jupyter ([#9391](https://github.com/truecharts/charts/issues/9391))
+  
+  
+
+
 ## [jupyter-4.0.26](https://github.com/truecharts/charts/compare/jupyter-4.0.25...jupyter-4.0.26) (2023-05-29)
 
 ### Chore

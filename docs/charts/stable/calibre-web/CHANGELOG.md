@@ -2,6 +2,37 @@
 
 
 
+## [calibre-web-14.0.24](https://github.com/truecharts/charts/compare/calibre-web-14.0.23...calibre-web-14.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [calibre-web-14.0.23](https://github.com/truecharts/charts/compare/calibre-web-14.0.22...calibre-web-14.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [calibre-web-14.0.22](https://github.com/truecharts/charts/compare/calibre-web-14.0.21...calibre-web-14.0.22) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [calibre-web-14.0.21](https://github.com/truecharts/charts/compare/calibre-web-14.0.20...calibre-web-14.0.21) (2023-05-27)
 
 ### Chore

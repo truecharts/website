@@ -2,6 +2,42 @@
 
 
 
+## [fireflyiii-20.0.24](https://github.com/truecharts/charts/compare/fireflyiii-20.0.23...fireflyiii-20.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
+  
+  
+
+
+## [fireflyiii-20.0.23](https://github.com/truecharts/charts/compare/fireflyiii-20.0.22...fireflyiii-20.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [fireflyiii-20.0.22](https://github.com/truecharts/charts/compare/fireflyiii-20.0.21...fireflyiii-20.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [fireflyiii-20.0.21](https://github.com/truecharts/charts/compare/fireflyiii-20.0.20...fireflyiii-20.0.21) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [fireflyiii-20.0.20](https://github.com/truecharts/charts/compare/fireflyiii-20.0.19...fireflyiii-20.0.20) (2023-05-28)
 
 ### Chore

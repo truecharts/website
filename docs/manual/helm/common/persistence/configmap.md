@@ -4,6 +4,7 @@
 | :----------------------------------------- | :-------: | :------: | :-----------: | :-----: | :------------------------------------------------------------------- |
 | persistence.[volume-name].objectName       | `string`  |    ✅    |      ✅       |  `""`   | Define the configmap volume name                                     |
 | persistence.[volume-name].expandObjectName | `boolean` |    ❌    |      ❌       | `true`  | Whether to expand (adding the fullname as prefix) the configmap name |
+| persistence.[volume-name].optional         | `boolean` |    ❌    |      ❌       | `false` | Whether the confimap should be required or not                       |
 | persistence.[volume-name].defaultMode      | `string`  |    ❌    |      ✅       |  `""`   | Define the defaultMode (must be a string in format of "0777")        |
 | persistence.[volume-name].items            |  `list`   |    ❌    |      ❌       |  `[]`   | Define a list of items for configmap                                 |
 | persistence.[volume-name].items.key        | `string`  |    ✅    |      ✅       |  `""`   | Define the key of the configmap                                      |
@@ -26,6 +27,7 @@ persistence:
     type: configmap
     objectName: configmap-name
     expandObjectName: false
+    optional: false
     defaultMode: "0777"
     items:
       - key: key1

@@ -2,6 +2,34 @@
 
 
 
+## [docker-compose-6.0.17](https://github.com/truecharts/charts/compare/docker-compose-6.0.16...docker-compose-6.0.17) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [docker-compose-6.0.16](https://github.com/truecharts/charts/compare/docker-compose-6.0.15...docker-compose-6.0.16) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [docker-compose-6.0.15](https://github.com/truecharts/charts/compare/docker-compose-6.0.14...docker-compose-6.0.15) (2023-06-04)
+
+### Chore
+
+- update container image tccr.io/truecharts/docker-in-docker to v23.0.6 ([#9363](https://github.com/truecharts/charts/issues/9363))
+  
+  
+
+
 ## [docker-compose-6.0.14](https://github.com/truecharts/charts/compare/docker-compose-6.0.13...docker-compose-6.0.14) (2023-05-27)
 
 ### Chore

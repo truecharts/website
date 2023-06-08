@@ -2,6 +2,42 @@
 
 
 
+## [qbitmanage-4.0.24](https://github.com/truecharts/charts/compare/qbitmanage-4.0.23...qbitmanage-4.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [qbitmanage-4.0.23](https://github.com/truecharts/charts/compare/qbitmanage-4.0.22...qbitmanage-4.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [qbitmanage-4.0.22](https://github.com/truecharts/charts/compare/qbitmanage-4.0.21...qbitmanage-4.0.22) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [qbitmanage-4.0.21](https://github.com/truecharts/charts/compare/qbitmanage-4.0.20...qbitmanage-4.0.21) (2023-06-01)
+
+### Chore
+
+- update container image tccr.io/truecharts/qbitmanage to v3.6.4 ([#9323](https://github.com/truecharts/charts/issues/9323))
+  
+  
+
+
 ## [qbitmanage-4.0.20](https://github.com/truecharts/charts/compare/qbitmanage-4.0.19...qbitmanage-4.0.20) (2023-05-29)
 
 ### Chore

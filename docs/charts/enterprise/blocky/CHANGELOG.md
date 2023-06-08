@@ -2,6 +2,51 @@
 
 
 
+## [blocky-5.0.40](https://github.com/truecharts/charts/compare/blocky-5.0.39...blocky-5.0.40) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
+  
+  
+
+
+## [blocky-5.0.39](https://github.com/truecharts/charts/compare/blocky-5.0.38...blocky-5.0.39) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [blocky-5.0.38](https://github.com/truecharts/charts/compare/blocky-5.0.37...blocky-5.0.38) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [blocky-5.0.37](https://github.com/truecharts/charts/compare/blocky-5.0.36...blocky-5.0.37) (2023-06-05)
+
+### Fix
+
+- fix tpl ([#9396](https://github.com/truecharts/charts/issues/9396))
+  
+  
+
+
+## [blocky-5.0.36](https://github.com/truecharts/charts/compare/blocky-5.0.35...blocky-5.0.36) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [blocky-5.0.35](https://github.com/truecharts/charts/compare/blocky-5.0.34...blocky-5.0.35) (2023-05-28)
 
 ### Feat

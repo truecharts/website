@@ -2,6 +2,47 @@
 
 
 
+## [embystat-5.0.24](https://github.com/truecharts/charts/compare/embystat-5.0.23...embystat-5.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [embystat-5.0.23](https://github.com/truecharts/charts/compare/embystat-5.0.22...embystat-5.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [embystat-5.0.22](https://github.com/truecharts/charts/compare/embystat-5.0.21...embystat-5.0.22) (2023-06-05)
+
+### Chore
+
+- update container image tccr.io/truecharts/embystat to v0.2.0 ([#9406](https://github.com/truecharts/charts/issues/9406))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [embystat-5.0.21](https://github.com/truecharts/charts/compare/embystat-5.0.20...embystat-5.0.21) (2023-06-04)
+
+### Chore
+
+- update container image tccr.io/truecharts/embystat to v0.2.0 ([#9364](https://github.com/truecharts/charts/issues/9364))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [embystat-5.0.20](https://github.com/truecharts/charts/compare/embystat-5.0.19...embystat-5.0.20) (2023-05-27)
 
 ### Chore

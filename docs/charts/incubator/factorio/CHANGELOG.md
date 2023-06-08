@@ -2,6 +2,46 @@
 
 
 
+## [factorio-4.0.3](https://github.com/truecharts/charts/compare/factorio-4.0.2...factorio-4.0.3) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [factorio-4.0.2](https://github.com/truecharts/charts/compare/factorio-4.0.1...factorio-4.0.2) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [factorio-4.0.1](https://github.com/truecharts/charts/compare/factorio-4.0.0...factorio-4.0.1) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
+## [factorio-4.0.0](https://github.com/truecharts/charts/compare/factorio-3.0.2...factorio-4.0.0) (2023-06-03)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [factorio-3.0.2](https://github.com/truecharts/charts/compare/factorio-3.0.1...factorio-3.0.2) (2023-02-10)
 
 ### Fix

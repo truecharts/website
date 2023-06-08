@@ -2,6 +2,33 @@
 
 
 
+## [minecraft-bedrock-4.0.20](https://github.com/truecharts/charts/compare/minecraft-bedrock-4.0.19...minecraft-bedrock-4.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [minecraft-bedrock-4.0.19](https://github.com/truecharts/charts/compare/minecraft-bedrock-4.0.18...minecraft-bedrock-4.0.19) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [minecraft-bedrock-4.0.18](https://github.com/truecharts/charts/compare/minecraft-bedrock-4.0.17...minecraft-bedrock-4.0.18) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [minecraft-bedrock-4.0.17](https://github.com/truecharts/charts/compare/minecraft-bedrock-4.0.16...minecraft-bedrock-4.0.17) (2023-05-27)
 
 ### Chore

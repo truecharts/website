@@ -2,6 +2,46 @@
 
 
 
+## [anonaddy-13.0.14](https://github.com/truecharts/charts/compare/anonaddy-13.0.13...anonaddy-13.0.14) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
+  
+  
+
+
+## [anonaddy-13.0.13](https://github.com/truecharts/charts/compare/anonaddy-13.0.12...anonaddy-13.0.13) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [anonaddy-13.0.12](https://github.com/truecharts/charts/compare/anonaddy-13.0.11...anonaddy-13.0.12) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [anonaddy-13.0.11](https://github.com/truecharts/charts/compare/anonaddy-13.0.10...anonaddy-13.0.11) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [anonaddy-13.0.10](https://github.com/truecharts/charts/compare/anonaddy-13.0.9...anonaddy-13.0.10) (2023-05-27)
 
 ### Chore

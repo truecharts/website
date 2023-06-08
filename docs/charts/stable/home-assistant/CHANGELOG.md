@@ -2,6 +2,33 @@
 
 
 
+## [home-assistant-19.0.28](https://github.com/truecharts/charts/compare/home-assistant-19.0.27...home-assistant-19.0.28) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [home-assistant-19.0.27](https://github.com/truecharts/charts/compare/home-assistant-19.0.26...home-assistant-19.0.27) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [home-assistant-19.0.26](https://github.com/truecharts/charts/compare/home-assistant-19.0.25...home-assistant-19.0.26) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [home-assistant-19.0.25](https://github.com/truecharts/charts/compare/home-assistant-19.0.24...home-assistant-19.0.25) (2023-05-28)
 
 ### Chore

@@ -2,6 +2,42 @@
 
 
 
+## [nginx-proxy-manager-4.0.168](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.167...nginx-proxy-manager-4.0.168) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
+  
+  
+
+
+## [nginx-proxy-manager-4.0.167](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.166...nginx-proxy-manager-4.0.167) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [nginx-proxy-manager-4.0.166](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.165...nginx-proxy-manager-4.0.166) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [nginx-proxy-manager-4.0.165](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.164...nginx-proxy-manager-4.0.165) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [nginx-proxy-manager-4.0.164](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.163...nginx-proxy-manager-4.0.164) (2023-05-27)
 
 ### Chore

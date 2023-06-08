@@ -2,6 +2,37 @@
 
 
 
+## [podgrab-13.0.20](https://github.com/truecharts/charts/compare/podgrab-13.0.19...podgrab-13.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [podgrab-13.0.19](https://github.com/truecharts/charts/compare/podgrab-13.0.18...podgrab-13.0.19) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [podgrab-13.0.18](https://github.com/truecharts/charts/compare/podgrab-13.0.17...podgrab-13.0.18) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [podgrab-13.0.17](https://github.com/truecharts/charts/compare/podgrab-13.0.16...podgrab-13.0.17) (2023-05-27)
 
 ### Chore

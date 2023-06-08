@@ -2,6 +2,37 @@
 
 
 
+## [ngircd-5.0.4000007](https://github.com/truecharts/charts/compare/ngircd-5.0.4000006...ngircd-5.0.4000007) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [ngircd-5.0.4000006](https://github.com/truecharts/charts/compare/ngircd-5.0.4000005...ngircd-5.0.4000006) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [ngircd-5.0.4000005](https://github.com/truecharts/charts/compare/ngircd-5.0.4000004...ngircd-5.0.4000005) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  ### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  
+
+
 ## [ngircd-5.0.4000004](https://github.com/truecharts/charts/compare/ngircd-5.0.4000003...ngircd-5.0.4000004) (2023-05-27)
 
 ### Chore

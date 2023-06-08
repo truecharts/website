@@ -2,6 +2,33 @@
 
 
 
+## [automatic-music-downloader-5.0.19](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.18...automatic-music-downloader-5.0.19) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [automatic-music-downloader-5.0.18](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.17...automatic-music-downloader-5.0.18) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [automatic-music-downloader-5.0.17](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.16...automatic-music-downloader-5.0.17) (2023-06-04)
+
+### Chore
+
+- update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [automatic-music-downloader-5.0.16](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.15...automatic-music-downloader-5.0.16) (2023-05-27)
 
 ### Chore
