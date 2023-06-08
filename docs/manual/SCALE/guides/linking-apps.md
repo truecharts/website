@@ -9,7 +9,7 @@ The backend for TrueNAS SCALE Apps is Kubernetes.  As you can't point directly t
 
 Please beware: this name is only available between Apps and cannot be reached from the host/node or your own PC.
 
-### Main service
+## Main service
 For most apps, you'll want to contact the main service (usually the web interface or primary way you interact with the app)
 
 Please replace `$NAME` with the name you gave your App when installing it, and `$APP` with the name the app has on the catalog as needed.
