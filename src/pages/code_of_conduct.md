@@ -10,7 +10,7 @@ religion, or sexual identity and orientation.
 
 ## Our Rules
 
-We are a dedicated bunch of people, working on Helm Charts and community Apps for TrueNAS SCALE.
+We are a dedicated bunch of people, working on Helm Charts and Apps for multiple platforms
 
 1. Don’t be a jerk – Try to be nice, the TrueCharts staff are trying to help, if something doesn’t work or is broken we will help or point you in the right direction. Keep personal feedback private. Got issues with someone? Send them a private message instead!
 2. Read Channel Descriptions - Keep things on-topic and arguments to designated channels I.e. Check channel descriptions and pins for channel-specific rules
