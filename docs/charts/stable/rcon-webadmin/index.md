@@ -1,6 +1,6 @@
 # rcon-webadmin
 
-![Version: 4.0.19](https://img.shields.io/badge/Version-4.0.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.14.1"](https://img.shields.io/badge/AppVersion-"0.14.1"-informational?style=flat-square)
+![Version: 4.0.20](https://img.shields.io/badge/Version-4.0.20-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.14.1"](https://img.shields.io/badge/AppVersion-"0.14.1"-informational?style=flat-square)
 
 Out of the box, RCON Web Admin can check users for high ping, VAC status, or filter the chat for you around the clock.
 
