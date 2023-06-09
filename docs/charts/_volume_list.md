@@ -135,6 +135,8 @@ The intro needs improvement ;)
 |fileflows                 |temp                  |PVC      |-              |/temp                                                |Read/Write|Enabled                |
 |fileflows                 |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
 |fireflyiii                |data                  |PVC      |-              |/var/www/html/storage/upload                         |Read/Write|Enabled                |
+|firefox                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|firefox                   |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |firefox-syncserver        |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |flaresolverr              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |fleet                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -775,8 +777,6 @@ The intro needs improvement ;)
 |filezilla                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |filezilla                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |fireflyiii-data-importer       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|firefox                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|firefox                        |varrun                     |emptyDir |-                |-                                                |Read/Write|Persistence is Disabled|
 |firefox-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |fireshare                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |fireshare                      |processeddata              |PVC      |-                |/processed                                       |Read/Write|Enabled                |
@@ -988,7 +988,7 @@ The intro needs improvement ;)
 |mordhau                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |mosquitto                      |data                       |PVC      |-                |/mosquitto/data                                  |Read/Write|Enabled                |
 |mosquitto                      |configinc                  |PVC      |-                |/mosquitto/configinc                             |Read/Write|Enabled                |
-|mosquitto                      |mosquitto-config           |custom   |-                |/mosquitto/config/mosquitto.conf                 |Read/Write|Enabled                |
+|mosquitto                      |mosquitto-config           |configmap|-                |/mosquitto/config/mosquitto.conf                 |Read/Write|Enabled                |
 |moviegrabber                   |moviegrabber               |PVC      |-                |/media                                           |Read/Write|Enabled                |
 |multi-scrobbler                |config                     |PVC      |-                |/home/node/config                                |Read/Write|Enabled                |
 |multi-scrobbler                |logs                       |PVC      |-                |/home/node/app/logs                              |Read/Write|Enabled                |
@@ -1347,11 +1347,12 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|cloudnative-pg|scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled               |
-|cloudnative-pg|webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined|
-|metallb       |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined|
-|metallb       |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined|
-|metallb       |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined|
+|cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
+|cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|prometheus-operator|-                   |-       |-       |-          |-         |Persistence not Defined|
 
 ## Enterprise
 

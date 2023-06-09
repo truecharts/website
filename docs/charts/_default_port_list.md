@@ -116,6 +116,7 @@ they should provide no or minimal conflicts without being changed.
 |aria2                     |listen         |listen         |6888 |tcp     |Active             |-                                                                                                                                                                                                   |
 |whisparr                  |main           |main           |6969 |http    |Active             |-                                                                                                                                                                                                   |
 |clamav                    |milter         |milter         |7357 |http    |Active             |-                                                                                                                                                                                                   |
+|jellyfin                  |autodiscovery  |autodiscovery  |7359 |udp     |Active             |-                                                                                                                                                                                                   |
 |foldingathome             |main           |main           |7396 |TCP     |Active             |-                                                                                                                                                                                                   |
 |autobrr                   |main           |main           |7474 |http    |Active             |-                                                                                                                                                                                                   |
 |haste-server              |main           |main           |7777 |TCP     |Active             |-                                                                                                                                                                                                   |
@@ -278,6 +279,7 @@ they should provide no or minimal conflicts without being changed.
 |projectsend               |main           |main           |10127|TCP     |Active             |-                                                                                                                                                                                                   |
 |endlessh                  |main           |main           |10128|tcp     |Active             |-                                                                                                                                                                                                   |
 |emulatorjs                |main           |main           |10130|TCP     |Active             |-                                                                                                                                                                                                   |
+|firefox                   |main           |main           |10131|http    |Active             |-                                                                                                                                                                                                   |
 |hedgedoc                  |main           |main           |10132|TCP     |Active             |-                                                                                                                                                                                                   |
 |mysql-workbench           |main           |main           |10134|http    |Active             |-                                                                                                                                                                                                   |
 |openvscode-server         |main           |main           |10135|TCP     |Active             |-                                                                                                                                                                                                   |
@@ -949,7 +951,6 @@ they should provide no or minimal conflicts without being changed.
 |snipe-it                       |main              |main           |10120|TCP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |xbackbone                      |main              |main           |10121|TCP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |darktable                      |main              |main           |10129|TCP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
-|firefox                        |main              |main           |10131|http    |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |libreoffice                    |main              |main           |10133|TCP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |pidgin                         |main              |main           |10136|TCP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |habridge                       |main              |main           |10146|TCP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
@@ -1211,13 +1212,14 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|cloudnative-pg|cnpg-webhook-service|webhook      |443 |https   |Active|-   |
-|metallb       |main                |main         |443 |TCP     |Active|-   |
-|metallb       |controllermon       |controllermon|7472|TCP     |Active|-   |
-|metallb       |speakermon          |speakermon   |7473|TCP     |Active|-   |
-|metallb       |memberlist          |memberlisttcp|7946|tcp     |Active|-   |
-|metallb       |memberlist          |memberlistudp|7946|udp     |Active|-   |
-|cloudnative-pg|main                |main         |8080|http    |Active|-   |
+|cloudnative-pg     |cnpg-webhook-service|webhook      |443 |https   |Active|-   |
+|metallb            |main                |main         |443 |TCP     |Active|-   |
+|metallb            |controllermon       |controllermon|7472|TCP     |Active|-   |
+|metallb            |speakermon          |speakermon   |7473|TCP     |Active|-   |
+|metallb            |memberlist          |memberlisttcp|7946|tcp     |Active|-   |
+|metallb            |memberlist          |memberlistudp|7946|udp     |Active|-   |
+|cloudnative-pg     |main                |main         |8080|http    |Active|-   |
+|prometheus-operator|main                |main         |8080|http    |Active|-   |
 
 ## Enterprise
 
