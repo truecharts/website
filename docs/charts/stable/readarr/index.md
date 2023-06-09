@@ -1,6 +1,6 @@
 # readarr
 
-![Version: 16.0.17](https://img.shields.io/badge/Version-16.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.1.6.1867"](https://img.shields.io/badge/AppVersion-"0.1.6.1867"-informational?style=flat-square)
+![Version: 16.0.18](https://img.shields.io/badge/Version-16.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.1.7.1882"](https://img.shields.io/badge/AppVersion-"0.1.7.1882"-informational?style=flat-square)
 
 A fork of Radarr to work with Books & AudioBooks
 
