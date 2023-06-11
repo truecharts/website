@@ -2,6 +2,15 @@
 
 
 
+## [mkvtoolnix-5.0.15](https://github.com/truecharts/charts/compare/mkvtoolnix-5.0.14...mkvtoolnix-5.0.15) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
 ## [mkvtoolnix-5.0.14](https://github.com/truecharts/charts/compare/mkvtoolnix-5.0.13...mkvtoolnix-5.0.14) (2023-06-09)
 
 ### Chore

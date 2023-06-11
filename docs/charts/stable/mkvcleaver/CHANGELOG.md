@@ -2,6 +2,15 @@
 
 
 
+## [mkvcleaver-4.0.19](https://github.com/truecharts/charts/compare/mkvcleaver-4.0.18...mkvcleaver-4.0.19) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
 ## [mkvcleaver-4.0.18](https://github.com/truecharts/charts/compare/mkvcleaver-4.0.17...mkvcleaver-4.0.18) (2023-06-07)
 
 ### Chore

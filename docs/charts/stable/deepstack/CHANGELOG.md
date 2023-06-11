@@ -2,6 +2,15 @@
 
 
 
+## [deepstack-7.0.23](https://github.com/truecharts/charts/compare/deepstack-7.0.22...deepstack-7.0.23) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
 ## [deepstack-7.0.22](https://github.com/truecharts/charts/compare/deepstack-7.0.21...deepstack-7.0.22) (2023-06-07)
 
 ### Chore

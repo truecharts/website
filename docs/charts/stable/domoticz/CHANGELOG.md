@@ -2,6 +2,15 @@
 
 
 
+## [domoticz-5.0.16](https://github.com/truecharts/charts/compare/domoticz-5.0.15...domoticz-5.0.16) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
 ## [domoticz-5.0.15](https://github.com/truecharts/charts/compare/domoticz-5.0.14...domoticz-5.0.15) (2023-06-09)
 
 ### Chore

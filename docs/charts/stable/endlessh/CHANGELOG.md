@@ -2,6 +2,15 @@
 
 
 
+## [endlessh-5.0.21](https://github.com/truecharts/charts/compare/endlessh-5.0.20...endlessh-5.0.21) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
 ## [endlessh-5.0.20](https://github.com/truecharts/charts/compare/endlessh-5.0.19...endlessh-5.0.20) (2023-06-07)
 
 ### Chore

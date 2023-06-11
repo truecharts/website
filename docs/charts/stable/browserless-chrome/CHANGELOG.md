@@ -2,6 +2,15 @@
 
 
 
+## [browserless-chrome-5.0.25](https://github.com/truecharts/charts/compare/browserless-chrome-5.0.24...browserless-chrome-5.0.25) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
 ## [browserless-chrome-5.0.24](https://github.com/truecharts/charts/compare/browserless-chrome-5.0.23...browserless-chrome-5.0.24) (2023-06-07)
 
 ### Chore

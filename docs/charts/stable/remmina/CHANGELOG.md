@@ -2,6 +2,15 @@
 
 
 
+## [remmina-6.0.21](https://github.com/truecharts/charts/compare/remmina-6.0.20...remmina-6.0.21) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
 ## [remmina-6.0.20](https://github.com/truecharts/charts/compare/remmina-6.0.19...remmina-6.0.20) (2023-06-07)
 
 ### Chore

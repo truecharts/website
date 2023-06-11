@@ -2,6 +2,15 @@
 
 
 
+## [postgresql-13.0.25](https://github.com/truecharts/charts/compare/postgresql-13.0.24...postgresql-13.0.25) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
 ## [postgresql-13.0.24](https://github.com/truecharts/charts/compare/postgresql-13.0.23...postgresql-13.0.24) (2023-06-07)
 
 ### Chore
