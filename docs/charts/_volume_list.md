@@ -279,6 +279,9 @@ The intro needs improvement ;)
 |mongo-express             |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |monica                    |config                |PVC      |-              |/var/www/html/storage                                |Read/Write|Enabled                |
 |mosdns                    |data                  |PVC      |-              |/etc/mosdns                                          |Read/Write|Enabled                |
+|mosquitto                 |data                  |PVC      |-              |/mosquitto/data                                      |Read/Write|Enabled                |
+|mosquitto                 |configinc             |PVC      |-              |/mosquitto/configinc                                 |Read/Write|Enabled                |
+|mosquitto                 |mosquitto-config      |configmap|-              |/mosquitto/config/mosquitto.conf                     |Read/Write|Enabled                |
 |mstream                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mstream                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |muse                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -609,7 +612,7 @@ The intro needs improvement ;)
 |authentik                      |media                      |PVC      |-                |/media                                           |Read/Write|Enabled                |
 |authentik                      |templates                  |PVC      |-                |/templates                                       |Read/Write|Enabled                |
 |authentik                      |certs                      |PVC      |-                |/certs                                           |Read/Write|Enabled                |
-|authentik                      |geoip                      |PVC      |-                |/geoip                                           |Read/Write|Enabled                |
+|authentik                      |geoip                      |PVC      |-                |/usr/share/GeoIP                                 |Read/Write|Enabled                |
 |auto-yt-dl                     |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |auto-yt-dl                     |hostpath1                  |PVC      |-                |/app/Downloads                                   |Read/Write|Enabled                |
 |avorion                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -803,8 +806,7 @@ The intro needs improvement ;)
 |fotosho                        |thumbs                     |PVC      |-                |/thumbnails                                      |Read/Write|Enabled                |
 |freecad-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |frigate                        |media                      |PVC      |-                |/media                                           |Read/Write|Enabled                |
-|frigate                        |db                         |PVC      |-                |/db                                              |Read/Write|Enabled                |
-|frigate                        |frigate-config             |configmap|-                |/config                                          |Read/Write|Enabled                |
+|frigate                        |config                     |PVC      |-                |-                                                |Read/Write|Persistence is Disabled|
 |fsm                            |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |funkwhale                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |funkwhale                      |musicpath                  |PVC      |-                |/music                                           |Read Only |Enabled                |
@@ -986,9 +988,6 @@ The intro needs improvement ;)
 |money-balancer                 |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |mordhau                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |mordhau                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|mosquitto                      |data                       |PVC      |-                |/mosquitto/data                                  |Read/Write|Enabled                |
-|mosquitto                      |configinc                  |PVC      |-                |/mosquitto/configinc                             |Read/Write|Enabled                |
-|mosquitto                      |mosquitto-config           |configmap|-                |/mosquitto/config/mosquitto.conf                 |Read/Write|Enabled                |
 |moviegrabber                   |moviegrabber               |PVC      |-                |/media                                           |Read/Write|Enabled                |
 |multi-scrobbler                |config                     |PVC      |-                |/home/node/config                                |Read/Write|Enabled                |
 |multi-scrobbler                |logs                       |PVC      |-                |/home/node/app/logs                              |Read/Write|Enabled                |
