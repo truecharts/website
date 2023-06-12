@@ -29,7 +29,7 @@ To add TrueCharts to your SCALE installation:
  4. After reading the iXsystems notice, click **Continue** and enter the required information:
  Name: `truecharts`
  Repository: `https://github.com/truecharts/catalog`
- Preferred Trains: `enterprise`,`stable` and `operators`
+ Preferred Trains: `enterprise`,`stable` and `operators` (type each one manually)
  Branch: `main`
  5.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
@@ -65,7 +65,13 @@ TrueCharts only supports the usage of `clusterissuer` for certificate management
 
 Missing guide to link to
 
-##
+## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
+
+`Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/enterprise/traefik/how-to) for basic instructions and a video as well.
+
+## Authelia Installation
+
+Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info.
 ### Video Guide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vomm8uvdCM0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
