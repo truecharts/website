@@ -2,6 +2,15 @@
 
 
 
+## [calibre-web-14.0.26](https://github.com/truecharts/charts/compare/calibre-web-14.0.25...calibre-web-14.0.26) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
 ## [calibre-web-14.0.25](https://github.com/truecharts/charts/compare/calibre-web-14.0.24...calibre-web-14.0.25) (2023-06-11)
 
 ### Chore
