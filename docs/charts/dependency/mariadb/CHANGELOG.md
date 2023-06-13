@@ -2,6 +2,15 @@
 
 
 
+## [mariadb-7.0.51](https://github.com/truecharts/charts/compare/mariadb-7.0.50...mariadb-7.0.51) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
 ## [mariadb-7.0.50](https://github.com/truecharts/charts/compare/mariadb-7.0.49...mariadb-7.0.50) (2023-06-10)
 
 ### Chore

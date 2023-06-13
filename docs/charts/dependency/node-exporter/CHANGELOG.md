@@ -2,6 +2,15 @@
 
 
 
+## [node-exporter-1.0.23](https://github.com/truecharts/charts/compare/node-exporter-1.0.22...node-exporter-1.0.23) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
 ## [node-exporter-1.0.22](https://github.com/truecharts/charts/compare/node-exporter-1.0.21...node-exporter-1.0.22) (2023-06-10)
 
 ### Chore
