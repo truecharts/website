@@ -2,6 +2,15 @@
 
 
 
+## [clamav-6.0.15](https://github.com/truecharts/charts/compare/clamav-6.0.14...clamav-6.0.15) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/clamav to v1.1.0 ([#9603](https://github.com/truecharts/charts/issues/9603))
+  
+  
+
+
 ## [clamav-6.0.14](https://github.com/truecharts/charts/compare/clamav-6.0.13...clamav-6.0.14) (2023-06-13)
 
 ### Chore
