@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Getting Started with TrueCharts inside TrueNAS SCALE
 
-Below you'll find a listing of all the steps needed to add TrueCharts to your TrueNAS SCALE installation. You'll find the recommended steps to go from a blank or fresh TrueNAS installation to using our apps with the recommendation setup procedure or "best practices" from the team.
+Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. This is an overview with links to specific apps and/or other guides but will help you get started if you haven't used any TrueCharts before. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website.
 
 ## Requirements
 
@@ -35,6 +35,12 @@ To add TrueCharts to your SCALE installation:
 
 Please view this video from the TrueNAS documentation webiste on adding [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog) if you need more info on the process.
 
+:::info Introduction to TrueNAS SCALE Guide
+
+Please free to check out our [Introduction to TrueNAS SCALE](https://truecharts.org/manual/SCALE/guides/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
+
+:::
+
 ### TrueCharts Trains Overview
 
 TrueCharts has multiple "trains", or branches of apps which you can choose to install. Below is a summary of each train and its intended use.
@@ -42,7 +48,7 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 - `stable` contains apps which have been thoroughly tested and expected to be stable and working. The `stable` version of an app is always the best available version.
 - `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch.
 - `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes.
-- `enterprise` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional usecases.
+- `enterprise` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional use cases.
 - `operators` contains operators for certain apps and may be required for specific apps to function at all, recommended leaving this `enabled`
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
@@ -53,25 +59,37 @@ We also recommend installing [Heavyscript](https://github.com/Heavybullets8/heav
 
 ## MetalLB installation and disabling integrated LoadBalancer
 
-This step may be optional but is recommended for avanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
+<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="150" height="150" />
+
+This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
 
 ## CNPG Operator installation and migration guide for older users
+
+<img src="https://cloudnative-pg.io/images/hero_image.svg" width="150" height="150">
 
 Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `Cloudnative-PG Operator` first before attempting to install apps. Please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing this Operator and migrating for those not using the CNPG operator.
 
 ## Clusterissuer (formerly called Cert-Manager) installation for certificate management
 
+<img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png" width="150" height="150" />
+
 TrueCharts only supports the usage of `clusterissuer` for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to) before adding `Ingress` to you applications.
 
-## Blocky Guide
+## Blocky DNS provider for split-DNS installation and guide
+
+<img src="https://truecharts.org/img/hotlink-ok/chart-icons/blocky.png" width="150" height="150" />
 
 Blocky is the preferred DNS solution for TrueCharts, it's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [BlockySetup-Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
 ## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
 
+<img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="150" height="150" />
+
 `Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/enterprise/traefik/how-to) for basic instructions and a video as well.
 
 ## Authelia Installation
+
+<img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="150" height="150" />
 
 Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info.
 
