@@ -2,6 +2,96 @@
 
 
 
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.44](https://github.com/truecharts/charts/compare/rdesktop-4.0.43...rdesktop-4.0.44) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [rdesktop-4.0.43](https://github.com/truecharts/charts/compare/rdesktop-4.0.42...rdesktop-4.0.43) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-xfce to latest ([#9589](https://github.com/truecharts/charts/issues/9589))
+  
+  
+
+
+## [rdesktop-4.0.42](https://github.com/truecharts/charts/compare/rdesktop-4.0.41...rdesktop-4.0.42) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-openbox to latest ([#9586](https://github.com/truecharts/charts/issues/9586))
+  
+  
+
+
+## [rdesktop-4.0.41](https://github.com/truecharts/charts/compare/rdesktop-4.0.40...rdesktop-4.0.41) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-mate to latest ([#9585](https://github.com/truecharts/charts/issues/9585))
+  
+  
+
+
+## [rdesktop-4.0.40](https://github.com/truecharts/charts/compare/rdesktop-4.0.39...rdesktop-4.0.40) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-kde to latest ([#9584](https://github.com/truecharts/charts/issues/9584))
+  
+  
+
+
 ## [rdesktop-4.0.39](https://github.com/truecharts/charts/compare/rdesktop-4.0.38...rdesktop-4.0.39) (2023-06-11)
 
 ### Chore
