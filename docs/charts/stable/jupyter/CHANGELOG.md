@@ -2,6 +2,16 @@
 
 
 
+## [jupyter-4.0.34](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.34) (2023-06-15)
+
+### Chore
+
+- update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
 ## [jupyter-4.0.33](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.33) (2023-06-15)
 
 ### Chore
