@@ -2,6 +2,15 @@
 
 
 
+## [projectsend-7.0.23](https://github.com/truecharts/charts/compare/projectsend-7.0.22...projectsend-7.0.23) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
 ## [projectsend-7.0.22](https://github.com/truecharts/charts/compare/projectsend-7.0.21...projectsend-7.0.22) (2023-06-11)
 
 ### Chore

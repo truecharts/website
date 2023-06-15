@@ -2,6 +2,15 @@
 
 
 
+## [blocky-5.0.42](https://github.com/truecharts/charts/compare/blocky-5.0.41...blocky-5.0.42) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
 ## [blocky-5.0.41](https://github.com/truecharts/charts/compare/blocky-5.0.40...blocky-5.0.41) (2023-06-11)
 
 ### Chore

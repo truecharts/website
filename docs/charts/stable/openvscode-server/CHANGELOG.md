@@ -2,6 +2,132 @@
 
 
 
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.28](https://github.com/truecharts/charts/compare/openvscode-server-5.0.27...openvscode-server-5.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/openvscode-server to v1.78.2 ([#9627](https://github.com/truecharts/charts/issues/9627))
+  
+  
+
+
+## [openvscode-server-5.0.27](https://github.com/truecharts/charts/compare/openvscode-server-5.0.26...openvscode-server-5.0.27) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
 ## [openvscode-server-5.0.26](https://github.com/truecharts/charts/compare/openvscode-server-5.0.25...openvscode-server-5.0.26) (2023-06-11)
 
 ### Chore
