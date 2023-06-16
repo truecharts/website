@@ -65,6 +65,15 @@
   
 
 
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
 ## [unifi-14.0.23](https://github.com/truecharts/charts/compare/unifi-14.0.22...unifi-14.0.23) (2023-06-13)
 
 ### Chore
