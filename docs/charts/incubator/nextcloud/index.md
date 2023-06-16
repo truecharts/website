@@ -12,11 +12,3 @@ A private cloud server that puts the control and security of your own data back 
 
 - [**Helm Security**](helm-security)
 
-- [**Installation Guide**](installation)
-
-- [**Important Notes**](installation_notes)
-
-- [**Migration Notes**](migration_guide)
-
-- [**Input Validation**](validation)
-
