@@ -59,44 +59,40 @@ We also recommend installing [Heavyscript](https://github.com/Heavybullets8/heav
 
 ## MetalLB installation and disabling integrated LoadBalancer
 
-<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" width="150" height="150" />
+<img src="./img/icons/metallb.png" width="150" height="150">
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
 
 ## CNPG Operator installation and migration guide for older users
 
-<img src="https://cloudnative-pg.io/images/hero_image.svg" width="150" height="150">
+<img src="./img/icons/cnpg.svg" width="150" height="150">
 
 Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `Cloudnative-PG Operator` first before attempting to install apps. Please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing this Operator and migrating for those not using the CNPG operator.
 
 ## Clusterissuer (formerly called Cert-Manager) installation for certificate management
 
-<img src="https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png" width="150" height="150" />
+<img src="./img/icons/clusterissuer.png" width="150" height="150">
 
 TrueCharts only supports the usage of `clusterissuer` for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to) before adding `Ingress` to you applications.
 
 ## Blocky DNS provider for split-DNS installation and guide
 
-<img src="https://truecharts.org/img/hotlink-ok/chart-icons/blocky.png" width="150" height="150" />
+<img src="./img/icons/blocky.png" width="150" height="150">
 
 Blocky is the preferred DNS solution for TrueCharts, it's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [BlockySetup-Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
 ## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
 
-<img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="150" height="150" />
+<img src="./img/icons/traefik.webp" width="150" height="150">
 
 `Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/enterprise/traefik/how-to) for basic instructions and a video as well.
 
 ## Authelia Installation
 
-<img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="150" height="150" />
+<img src="./img/icons/authelia.png" width="150" height="150">
 
 Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info.
 
 ### Video Guide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vomm8uvdCM0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-
-### Notes
-
-- After adding the TrueCharts Repository You should start seeing available apps doesn't work right away, try clicking **Refresh Catalogs** on the Apps page.
