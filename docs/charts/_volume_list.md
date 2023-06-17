@@ -785,6 +785,7 @@ The intro needs improvement ;)
 |fireshare                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |fireshare                      |processeddata              |PVC      |-                |/processed                                       |Read/Write|Enabled                |
 |fireshare                      |videos                     |PVC      |-                |/videos                                          |Read/Write|Enabled                |
+|firezone                       |config                     |PVC      |-                |/var/firezone                                    |Read/Write|Enabled                |
 |fistfuloffrags                 |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |fistfuloffrags                 |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |fivem                          |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
@@ -1005,6 +1006,13 @@ The intro needs improvement ;)
 |netbox                         |configfile                 |secret   |-                |/etc/netbox/config/01-config.py                  |Read/Write|Enabled                |
 |neverwinternights-ee           |serverfiles                |PVC      |-                |/nwnee                                           |Read/Write|Enabled                |
 |newyearcountdownclock          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|nextcloud                      |php-tune                   |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
+|nextcloud                      |redis-session              |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
+|nextcloud                      |nginx                      |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
+|nextcloud                      |nginx-temp                 |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
+|nextcloud                      |html                       |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
+|nextcloud                      |config                     |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
+|nextcloud                      |data                       |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
 |nexus-oss                      |data                       |PVC      |-                |/nexus-data                                      |Read/Write|Enabled                |
 |nightscout                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |nitter                         |nitter-conf                |secret   |-                |/src/nitter.conf                                 |Read/Write|Enabled                |
