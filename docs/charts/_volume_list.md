@@ -118,6 +118,8 @@ The intro needs improvement ;)
 |endlessh                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |esphome                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |esphome                   |platformio            |PVC      |-              |/.platformio                                         |Read/Write|Enabled                |
+|etesync                   |app                   |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|etesync                   |secret                |secret   |-              |/data/secret.txt                                     |Read Only |Enabled                |
 |etherpad                  |data                  |PVC      |-              |/opt/etherpad-lite/var                               |Read/Write|Enabled                |
 |etherpad                  |app                   |PVC      |-              |/opt/etherpad-lite/app                               |Read/Write|Enabled                |
 |external-service          |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -417,6 +419,7 @@ The intro needs improvement ;)
 |requestrr                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |requestrr                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |resilio-sync              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|resilio-sync              |data                  |PVC      |-              |/sync                                                |Read/Write|Enabled                |
 |resilio-sync              |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |retrobot                  |data                  |PVC      |-              |/retrobot/data                                       |Read/Write|Enabled                |
 |ring-mqtt                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -749,8 +752,6 @@ The intro needs improvement ;)
 |emby-sync                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |ersatztv                       |config                     |PVC      |-                |/root/.local/share/ersatztv                      |Read/Write|Enabled                |
 |ersatztv                       |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
-|etesync                        |app                        |PVC      |-                |/data                                            |Read/Write|Enabled                |
-|etesync                        |secret                     |secret   |-                |/data/secret.txt                                 |Read Only |Enabled                |
 |ethercalc                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |euterpe                        |music                      |PVC      |-                |/root/Music                                      |Read/Write|Enabled                |
 |euterpe                        |configfile                 |secret   |-                |/root/.euterpe/config.json                       |Read Only |Enabled                |
