@@ -65,7 +65,7 @@ This step may be optional but is recommended for advanced users and/or those who
 
 ## CNPG Operator installation and migration guide for older users
 
-<img src={require('./img/icons/cnpg.svg').default} alt="CloudNative-PG"  width="150" height="150" />
+<img src={require('./img/icons/cnpg.png').default} alt="CloudNative-PG"  width="150" height="150" />
 
 Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `Cloudnative-PG Operator` first before attempting to install apps. Please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing this Operator and migrating for those not using the CNPG operator.
 
