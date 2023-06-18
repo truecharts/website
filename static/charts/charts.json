@@ -281,7 +281,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/budge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/budge.png",
-                    "version": "5.0.26"
+                    "version": "5.0.27"
                 },
                 {
                     "name": "calibre-web",
@@ -679,7 +679,7 @@
                     "name": "etesync",
                     "description": "Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.",
                     "train": "stable",
-                    "link": "https://truecharts.org/charts/incubator/etesync",
+                    "link": "https://truecharts.org/charts/stable/etesync",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/etesync.png",
                     "version": "4.0.10"
                 },
@@ -1225,7 +1225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "2.0.36"
+                    "version": "2.0.37"
                 },
                 {
                     "name": "librespeed",
@@ -1257,7 +1257,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "9.0.33"
+                    "version": "9.0.34"
                 },
                 {
                     "name": "lldap",
@@ -2065,7 +2065,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/resilio-sync",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/resilio-sync.png",
-                    "version": "9.0.23"
+                    "version": "10.0.0"
                 },
                 {
                     "name": "retrobot",
@@ -2425,7 +2425,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/transmission",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/transmission.png",
-                    "version": "16.0.26"
+                    "version": "16.0.27"
                 },
                 {
                     "name": "trilium-notes",
@@ -2465,7 +2465,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tvheadend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tvheadend.png",
-                    "version": "15.0.31"
+                    "version": "15.0.32"
                 },
                 {
                     "name": "twtxt",
@@ -2657,7 +2657,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "2.0.19"
+                    "version": "2.0.20"
                 },
                 {
                     "name": "xen-orchestra",
@@ -2751,7 +2751,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/authelia",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
-                    "version": "15.1.28"
+                    "version": "15.1.29"
                 },
                 {
                     "name": "blocky",
@@ -2767,7 +2767,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/clusterissuer",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png",
-                    "version": "1.0.6"
+                    "version": "1.0.7"
                 },
                 {
                     "name": "grafana",
@@ -2783,7 +2783,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/metallb-config",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.png",
-                    "version": "1.1.8"
+                    "version": "1.1.9"
                 },
                 {
                     "name": "prometheus",
@@ -2973,7 +2973,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/authentik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png",
-                    "version": "13.0.3"
+                    "version": "13.0.4"
                 },
                 {
                     "name": "auto-yt-dl",
@@ -3789,7 +3789,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/firezone",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/firezone.png",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "fistfuloffrags",
@@ -4821,7 +4821,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "20.0.0"
+                    "version": "20.0.4"
                 },
                 {
                     "name": "nexus-oss",
@@ -6475,7 +6475,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "6.0.52"
+                    "version": "6.0.53"
                 },
                 {
                     "name": "node-exporter",
@@ -6499,7 +6499,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/solr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png",
-                    "version": "4.0.52"
+                    "version": "4.0.53"
                 }
             ]
         }
