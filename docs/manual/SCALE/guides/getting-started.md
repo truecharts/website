@@ -59,7 +59,7 @@ We also recommend installing [Heavyscript](https://github.com/Heavybullets8/heav
 
 ## MetalLB installation and disabling integrated LoadBalancer
 
-<img src={require('./img/icons/netalb.png').default} alt="MetalLb"  width="150" height="150" />
+<img src={require('./img/icons/metallb.png').default} alt="MetalLb"  width="150" height="150" />
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
 
