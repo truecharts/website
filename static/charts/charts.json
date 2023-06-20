@@ -1257,7 +1257,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "9.0.34"
+                    "version": "9.0.37"
                 },
                 {
                     "name": "lldap",
@@ -1921,7 +1921,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pwndrop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pwndrop.png",
-                    "version": "5.0.27"
+                    "version": "5.0.28"
                 },
                 {
                     "name": "pyload",
@@ -1977,7 +1977,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/quassel-core",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/quassel-core.png",
-                    "version": "7.0.27"
+                    "version": "7.0.28"
                 },
                 {
                     "name": "quassel-web",
@@ -2009,7 +2009,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "4.0.52"
+                    "version": "4.0.60"
                 },
                 {
                     "name": "readarr",
@@ -2601,7 +2601,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "5.0.37"
+                    "version": "5.0.41"
                 },
                 {
                     "name": "wekan",
@@ -2657,7 +2657,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "2.0.20"
+                    "version": "2.0.22"
                 },
                 {
                     "name": "xen-orchestra",
@@ -2791,7 +2791,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/prometheus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png",
-                    "version": "9.0.23"
+                    "version": "9.0.24"
                 },
                 {
                     "name": "traefik",
@@ -6483,7 +6483,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "1.0.26"
+                    "version": "1.0.27"
                 },
                 {
                     "name": "redis",
