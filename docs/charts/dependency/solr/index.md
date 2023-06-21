@@ -1,6 +1,6 @@
 # solr
 
-![Version: 4.0.53](https://img.shields.io/badge/Version-4.0.53-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "9.2.1"](https://img.shields.io/badge/AppVersion-"9.2.1"-informational?style=flat-square)
+![Version: 4.0.54](https://img.shields.io/badge/Version-4.0.54-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "9.2.1"](https://img.shields.io/badge/AppVersion-"9.2.1"-informational?style=flat-square)
 
 Apache Solr
 
