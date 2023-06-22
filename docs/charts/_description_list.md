@@ -51,6 +51,7 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflared.png" align="top" width="25" height="25" /> [cloudflared](https://truecharts.org/charts/stable/cloudflared)                                             |cloudflare/cloudflared                        |Client for Cloudflare Tunnel, a daemon that exposes private services through<br />the Cloudflare edge.                                                                                                                                                           |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudflareddns.png" align="top" width="25" height="25" /> [cloudflareddns](https://truecharts.org/charts/stable/cloudflareddns)                                    |ghcr.io/hotio/cloudflareddns                  |Automate Cloudflare DNS records for those with a dynamic IP.                                                                                                                                                                                                     |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/code-server.png" align="top" width="25" height="25" /> [code-server](https://truecharts.org/charts/stable/code-server)                                             |docker.io/codercom/code-server                |Run VS Code on any machine anywhere and access it in the browser.                                                                                                                                                                                                |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/collabora.png" align="top" width="25" height="25" /> [collabora](https://truecharts.org/charts/stable/collabora)                                                   |collabora/code                                |An awesome, Online Office suite image suitable for home use.                                                                                                                                                                                                     |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/commento-plusplus.png" align="top" width="25" height="25" /> [commento-plusplus](https://truecharts.org/charts/stable/commento-plusplus)                           |caroga/commentoplusplus                       |Commento++ is a free, open source, fast & lightweight comments box that<br />you can embed in your static website instead of Disqus.                                                                                                                             |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cops.png" align="top" width="25" height="25" /> [cops](https://truecharts.org/charts/stable/cops)                                                                  |lscr.io/linuxserver/cops                      |Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien<br />Lucas, stands for Calibre OPDS (and HTML) Php Server.                                                                                                                               |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/couchpotato.png" align="top" width="25" height="25" /> [couchpotato](https://truecharts.org/charts/stable/couchpotato)                                             |ghcr.io/linuxserver/couchpotato               |Couchpotato is an automatic NZB and torrent downloader.                                                                                                                                                                                                          |
@@ -348,7 +349,7 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/ztcuui-aio.png" align="top" width="25" height="25" /> [ztcuui-aio](https://truecharts.org/charts/stable/ztcuui-aio)                                                |keynetworks/ztncui                            |ZeroTier network controller user interface in a Docker container                                                                                                                                                                                                 |
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/zwavejs2mqtt.png" align="top" width="25" height="25" /> [zwavejs2mqtt](https://truecharts.org/charts/stable/zwavejs2mqtt)                                          |Not Found                                     |Fully configurable Zwave to MQTT gateway and Control Panel using NodeJS<br />and Vue                                                                                                                                                                             |
 
-> Charts in this train: **338**
+> Charts in this train: **339**
 
 ---
 
@@ -830,18 +831,6 @@ sidebar_position: 1
 
 ---
 
-## Operators
-
-| App | Container Source | Description |
-|:----|:-----------------|:------------|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png" align="top" width="25" height="25" /> [cloudnative-pg](https://truecharts.org/charts/operators/cloudnative-pg)               |ghcr.io/cloudnative-pg/cloudnative-pg          |CloudNativePG is a clustered postgresql database operator                                  |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" align="top" width="25" height="25" /> [metallb](https://truecharts.org/charts/operators/metallb)                                    |Not Found                                      |A network load-balancer implementation for Kubernetes using standard routing<br />protocols|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.png" align="top" width="25" height="25" /> [prometheus-operator](https://truecharts.org/charts/operators/prometheus-operator)|quay.io/prometheus-operator/prometheus-operator|Prometheus Operator is an operator for prometheus                                          |
-
-> Charts in this train: **3**
-
----
-
 ## Enterprise
 
 | App | Container Source | Description |
@@ -859,6 +848,18 @@ sidebar_position: 1
 
 ---
 
-> Total charts: **809**
+## Operators
+
+| App | Container Source | Description |
+|:----|:-----------------|:------------|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png" align="top" width="25" height="25" /> [cloudnative-pg](https://truecharts.org/charts/operators/cloudnative-pg)               |ghcr.io/cloudnative-pg/cloudnative-pg          |CloudNativePG is a clustered postgresql database operator                                  |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" align="top" width="25" height="25" /> [metallb](https://truecharts.org/charts/operators/metallb)                                    |Not Found                                      |A network load-balancer implementation for Kubernetes using standard routing<br />protocols|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.png" align="top" width="25" height="25" /> [prometheus-operator](https://truecharts.org/charts/operators/prometheus-operator)|quay.io/prometheus-operator/prometheus-operator|Prometheus Operator is an operator for prometheus                                          |
+
+> Charts in this train: **3**
+
+---
+
+> Total charts: **810**
 
 > If you notice something wrong in the above info, you are more than welcome to submit a PR, updating Chart.yaml for the app in question
