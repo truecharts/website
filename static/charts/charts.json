@@ -257,7 +257,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/booksonic-air",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/booksonic-air.png",
-                    "version": "9.0.25"
+                    "version": "9.0.26"
                 },
                 {
                     "name": "bookstack",
@@ -569,7 +569,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/docker-compose",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/docker-compose.png",
-                    "version": "6.0.20"
+                    "version": "6.0.21"
                 },
                 {
                     "name": "docusaurus",
@@ -1265,7 +1265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "9.0.37"
+                    "version": "9.0.38"
                 },
                 {
                     "name": "lldap",
@@ -1913,7 +1913,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prusaslicer-novnc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prusaslicer-novnc.png",
-                    "version": "4.0.28"
+                    "version": "4.0.29"
                 },
                 {
                     "name": "putty",
@@ -2105,7 +2105,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsnapshot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsnapshot.png",
-                    "version": "5.0.23"
+                    "version": "5.0.24"
                 },
                 {
                     "name": "rss-bridge",
@@ -2121,7 +2121,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.55"
+                    "version": "7.0.58"
                 },
                 {
                     "name": "sabnzbd",
@@ -2193,7 +2193,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/sickchill",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sickchill.png",
-                    "version": "6.0.26"
+                    "version": "6.0.27"
                 },
                 {
                     "name": "sickgear",
@@ -2225,7 +2225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/snapdrop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/snapdrop.png",
-                    "version": "5.0.26"
+                    "version": "5.0.27"
                 },
                 {
                     "name": "snippet-box",
@@ -2353,7 +2353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tailscale",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png",
-                    "version": "4.0.29"
+                    "version": "4.0.31"
                 },
                 {
                     "name": "tautulli",
@@ -2665,7 +2665,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "2.0.23"
+                    "version": "2.0.24"
                 },
                 {
                     "name": "xen-orchestra",
@@ -2783,7 +2783,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "7.0.53"
+                    "version": "7.0.54"
                 },
                 {
                     "name": "metallb-config",
@@ -4829,7 +4829,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "20.1.1"
+                    "version": "20.1.2"
                 },
                 {
                     "name": "nexus-oss",
@@ -6459,7 +6459,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/kube-state-metrics",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kube-state-metrics.png",
-                    "version": "1.0.25"
+                    "version": "1.0.26"
                 },
                 {
                     "name": "mariadb",
@@ -6467,7 +6467,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "7.0.55"
+                    "version": "7.0.56"
                 },
                 {
                     "name": "memcached",
