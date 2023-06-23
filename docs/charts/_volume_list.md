@@ -312,6 +312,13 @@ The intro needs improvement ;)
 |netdata                   |netdata-configs       |configmap|-              |/etc/netdata/truecharts-defaults/.netdata.conf       |Read/Write|Enabled                |
 |netdata                   |go-d-configs          |configmap|-              |/etc/netdata/truecharts-defaults/.go.d.conf          |Read/Write|Enabled                |
 |netdata                   |go-d-k8s-state-configs|configmap|-              |/etc/netdata/truecharts-defaults/go.d/.k8s_state.conf|Read/Write|Enabled                |
+|nextcloud                 |php-tune              |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|nextcloud                 |redis-session         |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|nextcloud                 |nginx                 |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|nextcloud                 |nginx-temp            |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|nextcloud                 |html                  |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|nextcloud                 |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|nextcloud                 |data                  |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |nextpvr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |nextpvr                   |recordings            |PVC      |-              |/recordings                                          |Read/Write|Enabled                |
 |nextpvr                   |buffer                |PVC      |-              |/buffer                                              |Read/Write|Enabled                |
@@ -1008,13 +1015,6 @@ The intro needs improvement ;)
 |netbox                         |configfile                 |secret   |-                |/etc/netbox/config/01-config.py                  |Read/Write|Enabled                |
 |neverwinternights-ee           |serverfiles                |PVC      |-                |/nwnee                                           |Read/Write|Enabled                |
 |newyearcountdownclock          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
-|nextcloud                      |php-tune                   |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
-|nextcloud                      |redis-session              |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
-|nextcloud                      |nginx                      |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
-|nextcloud                      |nginx-temp                 |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
-|nextcloud                      |html                       |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
-|nextcloud                      |config                     |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
-|nextcloud                      |data                       |PVC      |-                |-                                                |Read/Write|Mount Path not Defined |
 |nexus-oss                      |data                       |PVC      |-                |/nexus-data                                      |Read/Write|Enabled                |
 |nightscout                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |nitter                         |nitter-conf                |secret   |-                |/src/nitter.conf                                 |Read/Write|Enabled                |
