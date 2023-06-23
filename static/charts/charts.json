@@ -33,7 +33,7 @@
         },
         {
             "name": "stable",
-            "count": 339,
+            "count": 340,
             "charts": [
                 {
                     "name": "actualserver",
@@ -945,7 +945,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/hedgedoc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/hedgedoc.png",
-                    "version": "8.0.25"
+                    "version": "8.0.26"
                 },
                 {
                     "name": "heimdall",
@@ -1041,7 +1041,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/invidious",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png",
-                    "version": "5.0.9"
+                    "version": "5.0.10"
                 },
                 {
                     "name": "ipfs",
@@ -1233,7 +1233,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "2.0.37"
+                    "version": "2.0.38"
                 },
                 {
                     "name": "librespeed",
@@ -1313,7 +1313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/medusa",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/medusa.png",
-                    "version": "6.0.27"
+                    "version": "6.0.28"
                 },
                 {
                     "name": "meshcentral",
@@ -1473,7 +1473,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mylar",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mylar.png",
-                    "version": "9.0.28"
+                    "version": "9.0.29"
                 },
                 {
                     "name": "mymediaforalexa",
@@ -1522,6 +1522,14 @@
                     "link": "https://truecharts.org/charts/stable/netdata",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/netdata.png",
                     "version": "5.0.24"
+                },
+                {
+                    "name": "nextcloud",
+                    "description": "A private cloud server that puts the control and security of your own data back into your hands.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/nextcloud",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
+                    "version": "21.0.1"
                 },
                 {
                     "name": "nextpvr",
@@ -1665,7 +1673,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/openspeedtest",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/openspeedtest.png",
-                    "version": "4.0.22"
+                    "version": "4.0.23"
                 },
                 {
                     "name": "openvscode-server",
@@ -1913,7 +1921,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prusaslicer-novnc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prusaslicer-novnc.png",
-                    "version": "4.0.29"
+                    "version": "4.0.30"
                 },
                 {
                     "name": "putty",
@@ -2121,7 +2129,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.58"
+                    "version": "7.0.61"
                 },
                 {
                     "name": "sabnzbd",
@@ -2729,7 +2737,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/znc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/znc.png",
-                    "version": "5.0.26"
+                    "version": "5.0.27"
                 },
                 {
                     "name": "ztcuui-aio",
@@ -2799,7 +2807,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/prometheus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png",
-                    "version": "9.0.24"
+                    "version": "9.0.25"
                 },
                 {
                     "name": "traefik",
@@ -2821,7 +2829,7 @@
         },
         {
             "name": "incubator",
-            "count": 452,
+            "count": 451,
             "charts": [
                 {
                     "name": "acestream",
@@ -4824,14 +4832,6 @@
                     "version": "2.0.11"
                 },
                 {
-                    "name": "nextcloud",
-                    "description": "A private cloud server that puts the control and security of your own data back into your hands.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/nextcloud",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "20.1.2"
-                },
-                {
                     "name": "nexus-oss",
                     "description": "Sonatype Nexus open source is a artifact repository manager",
                     "train": "incubator",
@@ -6459,7 +6459,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/kube-state-metrics",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kube-state-metrics.png",
-                    "version": "1.0.26"
+                    "version": "1.0.27"
                 },
                 {
                     "name": "mariadb",
@@ -6491,7 +6491,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "1.0.27"
+                    "version": "1.0.28"
                 },
                 {
                     "name": "redis",
