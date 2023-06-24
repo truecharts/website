@@ -582,8 +582,8 @@ The intro needs improvement ;)
 |memcached         |-           |-        |-       |-                  |-         |Persistence not Defined|
 |mongodb           |data        |PVC      |-       |/bitnami/mongodb   |Read/Write|Enabled                |
 |node-exporter     |host        |PVC      |/       |/host              |Read Only |Enabled                |
-|node-exporter     |proc        |PVC      |/proc   |/host/proc         |Read Only |Enabled                |
-|node-exporter     |sys         |PVC      |/sys    |/host/sys          |Read Only |Enabled                |
+|node-exporter     |proc        |PVC      |/proc   |/hostproc          |Read Only |Enabled                |
+|node-exporter     |sys         |PVC      |/sys    |/hostsys           |Read Only |Enabled                |
 |redis             |redis-health|configmap|-       |/health            |Read/Write|Enabled                |
 |solr              |db          |PVC      |-       |/bitnami/solr      |Read/Write|Enabled                |
 
