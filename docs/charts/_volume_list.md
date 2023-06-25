@@ -581,9 +581,9 @@ The intro needs improvement ;)
 |mariadb           |data        |PVC      |-       |/bitnami/mariadb   |Read/Write|Enabled                |
 |memcached         |-           |-        |-       |-                  |-         |Persistence not Defined|
 |mongodb           |data        |PVC      |-       |/bitnami/mongodb   |Read/Write|Enabled                |
-|node-exporter     |host        |PVC      |/       |/host              |Read Only |Enabled                |
-|node-exporter     |proc        |PVC      |/proc   |/hostproc          |Read Only |Enabled                |
-|node-exporter     |sys         |PVC      |/sys    |/hostsys           |Read Only |Enabled                |
+|node-exporter     |host        |hostPath |/       |/host              |Read Only |Enabled                |
+|node-exporter     |proc        |hostPath |/proc   |/hostproc          |Read Only |Enabled                |
+|node-exporter     |sys         |hostPath |/sys    |/hostsys           |Read Only |Enabled                |
 |redis             |redis-health|configmap|-       |/health            |Read/Write|Enabled                |
 |solr              |db          |PVC      |-       |/bitnami/solr      |Read/Write|Enabled                |
 
