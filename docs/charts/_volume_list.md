@@ -156,6 +156,8 @@ The intro needs improvement ;)
 |friendica                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |friendica                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |friendica                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|frigate                   |media                 |PVC      |-              |/media                                               |Read/Write|Enabled                |
+|frigate                   |config                |PVC      |-              |-                                                    |Read/Write|Persistence is Disabled|
 |gaps                      |data                  |PVC      |-              |/usr/data                                            |Read/Write|Enabled                |
 |gitea                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |gitea                     |varlib                |emptyDir |-              |/var/lib/gitea                                       |Read/Write|Enabled                |
@@ -816,8 +818,6 @@ The intro needs improvement ;)
 |fotosho                        |photos                     |PVC      |-                |/photos                                          |Read/Write|Enabled                |
 |fotosho                        |thumbs                     |PVC      |-                |/thumbnails                                      |Read/Write|Enabled                |
 |freecad-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
-|frigate                        |media                      |PVC      |-                |/media                                           |Read/Write|Enabled                |
-|frigate                        |config                     |PVC      |-                |-                                                |Read/Write|Persistence is Disabled|
 |fsm                            |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |funkwhale                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |funkwhale                      |musicpath                  |PVC      |-                |/music                                           |Read Only |Enabled                |
