@@ -2,6 +2,11 @@
 
 
 
+## [plexripper-4.0.1](https://github.com/truecharts/charts/compare/plexripper-4.0.0...plexripper-4.0.1) (2023-06-27)
+
+
+
+
 ## [plexripper-4.0.0](https://github.com/truecharts/charts/compare/plexripper-3.0.1...plexripper-4.0.0) (2023-06-17)
 
 ### Feat
