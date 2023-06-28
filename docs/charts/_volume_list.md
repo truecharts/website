@@ -971,6 +971,7 @@ The intro needs improvement ;)
 |mattermost                     |plugins                    |PVC      |-                |/mattermost/plugins                              |Read/Write|Enabled                |
 |mattermost                     |clientplugins              |PVC      |-                |/mattermost/client/plugins                       |Read/Write|Enabled                |
 |mattermost                     |bleveindexes               |PVC      |-                |/mattermost/bleve-indexes                        |Read/Write|Enabled                |
+|mc-router                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |mealie                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |media-roller                   |download                   |PVC      |-                |/download                                        |Read/Write|Enabled                |
 |mediaelch                      |mediaelch                  |PVC      |-                |/shows                                           |Read/Write|Enabled                |
