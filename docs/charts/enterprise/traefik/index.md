@@ -1,6 +1,6 @@
 # traefik
 
-![Version: 18.0.16](https://img.shields.io/badge/Version-18.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.10.1"](https://img.shields.io/badge/AppVersion-"2.10.1"-informational?style=flat-square)
+![Version: 18.0.17](https://img.shields.io/badge/Version-18.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.10.1"](https://img.shields.io/badge/AppVersion-"2.10.1"-informational?style=flat-square)
 
 Traefik is a flexible reverse proxy and Ingress Provider.
 
@@ -14,7 +14,7 @@ Traefik is a flexible reverse proxy and Ingress Provider.
 
 - [**Helm Security**](helm-security)
 
-- [**---**](how-to)
+- [**Installing Traefik**](how-to)
 
 - [**Redirect Regex**](redirect-regex-middleware)
 
