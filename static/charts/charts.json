@@ -1665,7 +1665,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/onlyoffice-document-server",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/onlyoffice-document-server.png",
-                    "version": "10.0.22"
+                    "version": "10.0.23"
                 },
                 {
                     "name": "openhab",
@@ -2137,7 +2137,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.66"
+                    "version": "7.0.67"
                 },
                 {
                     "name": "sabnzbd",
@@ -2241,7 +2241,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/snapdrop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/snapdrop.png",
-                    "version": "5.0.27"
+                    "version": "5.0.28"
                 },
                 {
                     "name": "snippet-box",
@@ -2625,7 +2625,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "5.0.50"
+                    "version": "5.0.61"
                 },
                 {
                     "name": "wekan",
@@ -2775,7 +2775,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/authelia",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
-                    "version": "15.1.29"
+                    "version": "15.1.30"
                 },
                 {
                     "name": "blocky",
@@ -2799,7 +2799,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "7.0.55"
+                    "version": "7.0.56"
                 },
                 {
                     "name": "metallb-config",
@@ -6467,7 +6467,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/kube-state-metrics",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kube-state-metrics.png",
-                    "version": "1.0.30"
+                    "version": "1.0.31"
                 },
                 {
                     "name": "mariadb",
@@ -6499,7 +6499,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "1.0.33"
+                    "version": "1.0.34"
                 },
                 {
                     "name": "redis",
