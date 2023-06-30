@@ -1,5 +1,5 @@
 {
-    "totalCount": 811,
+    "totalCount": 812,
     "trains": [
         {
             "name": "operators",
@@ -33,7 +33,7 @@
         },
         {
             "name": "stable",
-            "count": 341,
+            "count": 342,
             "charts": [
                 {
                     "name": "actualserver",
@@ -953,7 +953,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/hedgedoc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/hedgedoc.png",
-                    "version": "8.0.26"
+                    "version": "8.0.27"
                 },
                 {
                     "name": "heimdall",
@@ -1241,7 +1241,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "2.0.46"
+                    "version": "2.0.49"
                 },
                 {
                     "name": "librespeed",
@@ -1273,7 +1273,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "9.0.40"
+                    "version": "9.0.41"
                 },
                 {
                     "name": "lldap",
@@ -1306,6 +1306,14 @@
                     "link": "https://truecharts.org/charts/stable/matomo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/matomo.png",
                     "version": "7.0.27"
+                },
+                {
+                    "name": "mc-router",
+                    "description": "Lightweight multiplexer/proxy for Minecraft-Java servers.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/mc-router",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mc-router.png",
+                    "version": "0.0.2"
                 },
                 {
                     "name": "mediainfo",
@@ -1481,7 +1489,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mylar",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mylar.png",
-                    "version": "9.0.29"
+                    "version": "9.0.30"
                 },
                 {
                     "name": "mymediaforalexa",
@@ -1521,7 +1529,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/navidrome",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/navidrome.png",
-                    "version": "15.0.22"
+                    "version": "15.1.0"
                 },
                 {
                     "name": "netdata",
@@ -1929,7 +1937,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prusaslicer-novnc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prusaslicer-novnc.png",
-                    "version": "4.0.30"
+                    "version": "4.0.31"
                 },
                 {
                     "name": "putty",
@@ -2137,7 +2145,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.67"
+                    "version": "7.0.68"
                 },
                 {
                     "name": "sabnzbd",
@@ -2681,7 +2689,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "2.0.26"
+                    "version": "2.0.27"
                 },
                 {
                     "name": "xen-orchestra",
@@ -4600,14 +4608,6 @@
                     "version": "7.0.0"
                 },
                 {
-                    "name": "mc-router",
-                    "description": "Routes Minecraft client connections to backend servers.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/mc-router",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mc-router.png",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "mealie",
                     "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend",
                     "train": "incubator",
@@ -5982,6 +5982,14 @@
                     "link": "https://truecharts.org/charts/incubator/tasmocompiler",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tasmocompiler.png",
                     "version": "2.0.14"
+                },
+                {
+                    "name": "tauticord",
+                    "description": "A Discord bot that displays live data from Tautulli.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/tauticord",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tauticord.png",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "teamspeak3",
