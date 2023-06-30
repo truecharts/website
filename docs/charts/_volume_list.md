@@ -253,6 +253,7 @@ The intro needs improvement ;)
 |makemkv                   |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |makemkv                   |output                |PVC      |-              |/output                                              |Read/Write|Enabled                |
 |matomo                    |data                  |PVC      |-              |/bitnami/matomo                                      |Read/Write|Enabled                |
+|mc-router                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |mediainfo                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mediainfo                 |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |medusa                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -971,7 +972,6 @@ The intro needs improvement ;)
 |mattermost                     |plugins                    |PVC      |-                |/mattermost/plugins                              |Read/Write|Enabled                |
 |mattermost                     |clientplugins              |PVC      |-                |/mattermost/client/plugins                       |Read/Write|Enabled                |
 |mattermost                     |bleveindexes               |PVC      |-                |/mattermost/bleve-indexes                        |Read/Write|Enabled                |
-|mc-router                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |mealie                         |data                       |PVC      |-                |/app/data                                        |Read/Write|Enabled                |
 |media-roller                   |download                   |PVC      |-                |/download                                        |Read/Write|Enabled                |
 |mediaelch                      |mediaelch                  |PVC      |-                |/shows                                           |Read/Write|Enabled                |
@@ -1354,6 +1354,17 @@ The intro needs improvement ;)
 |zoneminder                     |datapath                   |PVC      |-                |/var/cache/zoneminder                            |Read/Write|Enabled                |
 |zusam                          |data                       |PVC      |-                |/zusam/data                                      |Read/Write|Enabled                |
 
+## Operators
+
+| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
+|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
+|cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|prometheus-operator|-                   |-       |-       |-          |-         |Persistence not Defined|
+
 ## Enterprise
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
@@ -1367,16 +1378,5 @@ The intro needs improvement ;)
 |prometheus    |-          |-       |-       |-                        |-         |Persistence not Defined|
 |traefik       |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
 |vaultwarden   |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
-
-## Operators
-
-| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
-|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
-|cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|prometheus-operator|-                   |-       |-       |-          |-         |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
