@@ -1252,6 +1252,7 @@ The intro needs improvement ;)
 |tasmoadmin                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |tasmobackup                    |data                       |PVC      |-                |/var/www/html/data                               |Read/Write|Enabled                |
 |tasmocompiler                  |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|tauticord                      |logs                       |PVC      |-                |/logs                                            |Read/Write|Enabled                |
 |teamspeak3                     |data                       |PVC      |-                |/var/ts3server                                   |Read/Write|Enabled                |
 |technitium                     |config                     |PVC      |-                |/etc/dns/config                                  |Read/Write|Enabled                |
 |teedy-docs                     |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
