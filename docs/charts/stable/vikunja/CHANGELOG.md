@@ -2,6 +2,699 @@
 
 
 
+## [vikunja-8.0.21](https://github.com/truecharts/charts/compare/vikunja-8.0.20...vikunja-8.0.21) (2023-06-26)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.1 ([#9928](https://github.com/truecharts/charts/issues/9928))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.20](https://github.com/truecharts/charts/compare/vikunja-8.0.19...vikunja-8.0.20) (2023-06-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/nginx to v1.25.0 ([#9606](https://github.com/truecharts/charts/issues/9606))
+  
+  
+
+
+## [vikunja-8.0.19](https://github.com/truecharts/charts/compare/vikunja-8.0.18...vikunja-8.0.19) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [vikunja-8.0.18](https://github.com/truecharts/charts/compare/vikunja-8.0.17...vikunja-8.0.18) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [vikunja-8.0.17](https://github.com/truecharts/charts/compare/vikunja-8.0.16...vikunja-8.0.17) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
+  
+  
+
+
+## [vikunja-8.0.16](https://github.com/truecharts/charts/compare/vikunja-8.0.15...vikunja-8.0.16) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [vikunja-8.0.15](https://github.com/truecharts/charts/compare/vikunja-8.0.14...vikunja-8.0.15) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [vikunja-8.0.14](https://github.com/truecharts/charts/compare/vikunja-8.0.13...vikunja-8.0.14) (2023-06-04)
 
 ### Chore

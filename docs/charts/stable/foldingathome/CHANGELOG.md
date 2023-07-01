@@ -2,6 +2,627 @@
 
 
 
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.27](https://github.com/truecharts/charts/compare/foldingathome-5.0.26...foldingathome-5.0.27) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9615](https://github.com/truecharts/charts/issues/9615))
+  
+  
+
+
+## [foldingathome-5.0.26](https://github.com/truecharts/charts/compare/foldingathome-5.0.25...foldingathome-5.0.26) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [foldingathome-5.0.25](https://github.com/truecharts/charts/compare/foldingathome-5.0.24...foldingathome-5.0.25) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [foldingathome-5.0.24](https://github.com/truecharts/charts/compare/foldingathome-5.0.23...foldingathome-5.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [foldingathome-5.0.23](https://github.com/truecharts/charts/compare/foldingathome-5.0.22...foldingathome-5.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [foldingathome-5.0.22](https://github.com/truecharts/charts/compare/foldingathome-5.0.21...foldingathome-5.0.22) (2023-06-06)
+
+### Chore
+
+- update container image tccr.io/truecharts/foldingathome to v7.6.21 ([#9430](https://github.com/truecharts/charts/issues/9430))
+  
+  
+
+
 ## [foldingathome-5.0.21](https://github.com/truecharts/charts/compare/foldingathome-5.0.20...foldingathome-5.0.21) (2023-06-04)
 
 ### Chore

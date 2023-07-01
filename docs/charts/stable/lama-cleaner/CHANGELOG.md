@@ -2,6 +2,42 @@
 
 
 
+## [lama-cleaner-2.0.25](https://github.com/truecharts/charts/compare/lama-cleaner-2.0.24...lama-cleaner-2.0.25) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [lama-cleaner-2.0.24](https://github.com/truecharts/charts/compare/lama-cleaner-2.0.23...lama-cleaner-2.0.24) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [lama-cleaner-2.0.23](https://github.com/truecharts/charts/compare/lama-cleaner-2.0.22...lama-cleaner-2.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [lama-cleaner-2.0.22](https://github.com/truecharts/charts/compare/lama-cleaner-2.0.21...lama-cleaner-2.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [lama-cleaner-2.0.21](https://github.com/truecharts/charts/compare/lama-cleaner-2.0.20...lama-cleaner-2.0.21) (2023-06-04)
 
 ### Chore

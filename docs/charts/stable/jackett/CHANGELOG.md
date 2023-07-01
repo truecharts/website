@@ -2,6 +2,42 @@
 
 
 
+## [jackett-14.0.34](https://github.com/truecharts/charts/compare/jackett-14.0.33...jackett-14.0.34) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [jackett-14.0.33](https://github.com/truecharts/charts/compare/jackett-14.0.32...jackett-14.0.33) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [jackett-14.0.32](https://github.com/truecharts/charts/compare/jackett-14.0.31...jackett-14.0.32) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [jackett-14.0.31](https://github.com/truecharts/charts/compare/jackett-14.0.30...jackett-14.0.31) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [jackett-14.0.30](https://github.com/truecharts/charts/compare/jackett-14.0.29...jackett-14.0.30) (2023-06-04)
 
 ### Chore

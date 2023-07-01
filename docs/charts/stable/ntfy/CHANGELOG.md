@@ -2,6 +2,42 @@
 
 
 
+## [ntfy-5.0.17](https://github.com/truecharts/charts/compare/ntfy-5.0.16...ntfy-5.0.17) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [ntfy-5.0.16](https://github.com/truecharts/charts/compare/ntfy-5.0.15...ntfy-5.0.16) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [ntfy-5.0.15](https://github.com/truecharts/charts/compare/ntfy-5.0.14...ntfy-5.0.15) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [ntfy-5.0.14](https://github.com/truecharts/charts/compare/ntfy-5.0.13...ntfy-5.0.14) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [ntfy-5.0.13](https://github.com/truecharts/charts/compare/ntfy-5.0.12...ntfy-5.0.13) (2023-06-04)
 
 ### Chore

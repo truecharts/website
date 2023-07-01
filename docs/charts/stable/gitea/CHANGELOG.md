@@ -2,6 +2,51 @@
 
 
 
+## [gitea-13.0.17](https://github.com/truecharts/charts/compare/gitea-13.0.16...gitea-13.0.17) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [gitea-13.0.16](https://github.com/truecharts/charts/compare/gitea-13.0.15...gitea-13.0.16) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [gitea-13.0.15](https://github.com/truecharts/charts/compare/gitea-13.0.14...gitea-13.0.15) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
+  
+  
+
+
+## [gitea-13.0.14](https://github.com/truecharts/charts/compare/gitea-13.0.13...gitea-13.0.14) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [gitea-13.0.13](https://github.com/truecharts/charts/compare/gitea-13.0.12...gitea-13.0.13) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [gitea-13.0.12](https://github.com/truecharts/charts/compare/gitea-13.0.11...gitea-13.0.12) (2023-06-04)
 
 ### Chore

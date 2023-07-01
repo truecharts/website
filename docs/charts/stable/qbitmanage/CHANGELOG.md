@@ -2,6 +2,42 @@
 
 
 
+## [qbitmanage-4.0.26](https://github.com/truecharts/charts/compare/qbitmanage-4.0.25...qbitmanage-4.0.26) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [qbitmanage-4.0.25](https://github.com/truecharts/charts/compare/qbitmanage-4.0.24...qbitmanage-4.0.25) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [qbitmanage-4.0.24](https://github.com/truecharts/charts/compare/qbitmanage-4.0.23...qbitmanage-4.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [qbitmanage-4.0.23](https://github.com/truecharts/charts/compare/qbitmanage-4.0.22...qbitmanage-4.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [qbitmanage-4.0.22](https://github.com/truecharts/charts/compare/qbitmanage-4.0.21...qbitmanage-4.0.22) (2023-06-04)
 
 ### Chore

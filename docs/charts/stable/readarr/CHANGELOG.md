@@ -2,6 +2,330 @@
 
 
 
+## [readarr-16.0.24](https://github.com/truecharts/charts/compare/readarr-16.0.23...readarr-16.0.24) (2023-06-25)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.9.1905 ([#9908](https://github.com/truecharts/charts/issues/9908))
+  
+  
+
+
+## [readarr-16.0.23](https://github.com/truecharts/charts/compare/readarr-16.0.22...readarr-16.0.23) (2023-06-17)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9717](https://github.com/truecharts/charts/issues/9717))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.22](https://github.com/truecharts/charts/compare/readarr-16.0.21...readarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.8.1889 ([#9663](https://github.com/truecharts/charts/issues/9663))
+  
+  
+
+
+## [readarr-16.0.21](https://github.com/truecharts/charts/compare/readarr-16.0.20...readarr-16.0.21) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [readarr-16.0.20](https://github.com/truecharts/charts/compare/readarr-16.0.19...readarr-16.0.20) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [readarr-16.0.19](https://github.com/truecharts/charts/compare/readarr-16.0.18...readarr-16.0.19) (2023-06-10)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.7.1882 ([#9574](https://github.com/truecharts/charts/issues/9574))
+  
+  
+
+
+## [readarr-16.0.18](https://github.com/truecharts/charts/compare/readarr-16.0.17...readarr-16.0.18) (2023-06-09)
+
+### Chore
+
+- update container image tccr.io/truecharts/readarr to v0.1.7.1882 ([#9530](https://github.com/truecharts/charts/issues/9530))
+  
+  
+
+
+## [readarr-16.0.17](https://github.com/truecharts/charts/compare/readarr-16.0.16...readarr-16.0.17) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [readarr-16.0.16](https://github.com/truecharts/charts/compare/readarr-16.0.15...readarr-16.0.16) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [readarr-16.0.15](https://github.com/truecharts/charts/compare/readarr-16.0.14...readarr-16.0.15) (2023-06-04)
 
 ### Chore

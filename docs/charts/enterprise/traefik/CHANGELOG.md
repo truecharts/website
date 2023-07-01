@@ -2,6 +2,145 @@
 
 
 
+## [traefik-18.0.18](https://github.com/truecharts/charts/compare/traefik-18.0.17...traefik-18.0.18) (2023-06-28)
+
+### Chore
+
+- update helm general non-major ([#10000](https://github.com/truecharts/charts/issues/10000))
+  
+  
+
+
+## [traefik-18.0.17](https://github.com/truecharts/charts/compare/traefik-18.0.16...traefik-18.0.17) (2023-06-28)
+
+### Docs
+
+- fix title for install guide title ([#9874](https://github.com/truecharts/charts/issues/9874))
+  
+  ### Fix
+
+- fix portalhook name ([#9958](https://github.com/truecharts/charts/issues/9958))
+  
+  
+
+
+## [traefik-18.0.16](https://github.com/truecharts/charts/compare/traefik-18.0.15...traefik-18.0.16) (2023-06-16)
+
+### Fix
+
+- Default metrics to off ([#9647](https://github.com/truecharts/charts/issues/9647))
+  - add missing `additional_attrs: true` ([#9581](https://github.com/truecharts/charts/issues/9581))
+  
+  
+
+
+## [traefik-18.0.16](https://github.com/truecharts/charts/compare/traefik-18.0.15...traefik-18.0.16) (2023-06-16)
+
+### Fix
+
+- Default metrics to off ([#9647](https://github.com/truecharts/charts/issues/9647))
+  - add missing `additional_attrs: true` ([#9581](https://github.com/truecharts/charts/issues/9581))
+  
+  
+
+
+## [traefik-18.0.16](https://github.com/truecharts/charts/compare/traefik-18.0.15...traefik-18.0.16) (2023-06-16)
+
+### Fix
+
+- Default metrics to off ([#9647](https://github.com/truecharts/charts/issues/9647))
+  - add missing `additional_attrs: true` ([#9581](https://github.com/truecharts/charts/issues/9581))
+  
+  
+
+
+## [traefik-18.0.16](https://github.com/truecharts/charts/compare/traefik-18.0.15...traefik-18.0.16) (2023-06-16)
+
+### Fix
+
+- Default metrics to off ([#9647](https://github.com/truecharts/charts/issues/9647))
+  - add missing `additional_attrs: true` ([#9581](https://github.com/truecharts/charts/issues/9581))
+  
+  
+
+
+## [traefik-18.0.16](https://github.com/truecharts/charts/compare/traefik-18.0.15...traefik-18.0.16) (2023-06-16)
+
+### Fix
+
+- Default metrics to off ([#9647](https://github.com/truecharts/charts/issues/9647))
+  - add missing `additional_attrs: true` ([#9581](https://github.com/truecharts/charts/issues/9581))
+  
+  
+
+
+## [traefik-18.0.15](https://github.com/truecharts/charts/compare/traefik-18.0.14...traefik-18.0.15) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  ### Docs
+
+- Guide for Authelia+LLDAP+Traefik ([#9577](https://github.com/truecharts/charts/issues/9577))
+  
+  
+
+
+## [traefik-18.0.14](https://github.com/truecharts/charts/compare/traefik-18.0.13...traefik-18.0.14) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [traefik-18.0.13](https://github.com/truecharts/charts/compare/traefik-18.0.12...traefik-18.0.13) (2023-06-10)
+
+### Chore
+
+- bump traefik
+  
+  ### Fix
+
+- add old traefik crds
+  
+  
+
+
+## [traefik-18.0.12](https://github.com/truecharts/charts/compare/traefik-18.0.11...traefik-18.0.12) (2023-06-09)
+
+
+
+
+## [traefik-18.0.11](https://github.com/truecharts/charts/compare/traefik-18.0.10...traefik-18.0.11) (2023-06-09)
+
+### Fix
+
+- ensure CRDs are correctly added to traefik
+  
+  
+
+
+## [traefik-18.0.10](https://github.com/truecharts/charts/compare/traefik-18.0.9...traefik-18.0.10) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [traefik-18.0.9](https://github.com/truecharts/charts/compare/traefik-18.0.8...traefik-18.0.9) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [traefik-18.0.8](https://github.com/truecharts/charts/compare/traefik-18.0.7...traefik-18.0.8) (2023-06-04)
 
 ### Chore

@@ -2,6 +2,42 @@
 
 
 
+## [muse-1.0.11](https://github.com/truecharts/charts/compare/muse-1.0.10...muse-1.0.11) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [muse-1.0.10](https://github.com/truecharts/charts/compare/muse-1.0.9...muse-1.0.10) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [muse-1.0.9](https://github.com/truecharts/charts/compare/muse-1.0.8...muse-1.0.9) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [muse-1.0.8](https://github.com/truecharts/charts/compare/muse-1.0.7...muse-1.0.8) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [muse-1.0.7](https://github.com/truecharts/charts/compare/muse-1.0.6...muse-1.0.7) (2023-06-04)
 
 ### Chore

@@ -2,6 +2,42 @@
 
 
 
+## [unmanic-6.0.20](https://github.com/truecharts/charts/compare/unmanic-6.0.19...unmanic-6.0.20) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [unmanic-6.0.19](https://github.com/truecharts/charts/compare/unmanic-6.0.18...unmanic-6.0.19) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [unmanic-6.0.18](https://github.com/truecharts/charts/compare/unmanic-6.0.17...unmanic-6.0.18) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [unmanic-6.0.17](https://github.com/truecharts/charts/compare/unmanic-6.0.16...unmanic-6.0.17) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [unmanic-6.0.16](https://github.com/truecharts/charts/compare/unmanic-6.0.15...unmanic-6.0.16) (2023-06-04)
 
 ### Chore

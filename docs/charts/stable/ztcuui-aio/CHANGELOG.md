@@ -2,6 +2,42 @@
 
 
 
+## [ztcuui-aio-4.0.24](https://github.com/truecharts/charts/compare/ztcuui-aio-4.0.23...ztcuui-aio-4.0.24) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [ztcuui-aio-4.0.23](https://github.com/truecharts/charts/compare/ztcuui-aio-4.0.22...ztcuui-aio-4.0.23) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [ztcuui-aio-4.0.22](https://github.com/truecharts/charts/compare/ztcuui-aio-4.0.21...ztcuui-aio-4.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [ztcuui-aio-4.0.21](https://github.com/truecharts/charts/compare/ztcuui-aio-4.0.20...ztcuui-aio-4.0.21) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [ztcuui-aio-4.0.20](https://github.com/truecharts/charts/compare/ztcuui-aio-4.0.19...ztcuui-aio-4.0.20) (2023-06-04)
 
 ### Chore

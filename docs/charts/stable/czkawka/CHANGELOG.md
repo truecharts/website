@@ -2,6 +2,285 @@
 
 
 
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.27](https://github.com/truecharts/charts/compare/czkawka-4.0.26...czkawka-4.0.27) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.2 ([#9666](https://github.com/truecharts/charts/issues/9666))
+  
+  
+
+
+## [czkawka-4.0.26](https://github.com/truecharts/charts/compare/czkawka-4.0.25...czkawka-4.0.26) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [czkawka-4.0.25](https://github.com/truecharts/charts/compare/czkawka-4.0.24...czkawka-4.0.25) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [czkawka-4.0.24](https://github.com/truecharts/charts/compare/czkawka-4.0.23...czkawka-4.0.24) (2023-06-09)
+
+### Chore
+
+- update container image tccr.io/truecharts/czkawka to v23.06.1 ([#9536](https://github.com/truecharts/charts/issues/9536))
+  
+  
+
+
+## [czkawka-4.0.23](https://github.com/truecharts/charts/compare/czkawka-4.0.22...czkawka-4.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [czkawka-4.0.22](https://github.com/truecharts/charts/compare/czkawka-4.0.21...czkawka-4.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [czkawka-4.0.21](https://github.com/truecharts/charts/compare/czkawka-4.0.20...czkawka-4.0.21) (2023-06-04)
 
 ### Chore

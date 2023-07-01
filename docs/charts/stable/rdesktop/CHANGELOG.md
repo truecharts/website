@@ -2,6 +2,807 @@
 
 
 
+## [rdesktop-4.0.79](https://github.com/truecharts/charts/compare/rdesktop-4.0.78...rdesktop-4.0.79) (2023-06-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-xfce to latest ([#10056](https://github.com/truecharts/charts/issues/10056))
+  
+  
+
+
+## [rdesktop-4.0.78](https://github.com/truecharts/charts/compare/rdesktop-4.0.77...rdesktop-4.0.78) (2023-06-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-openbox to latest ([#10054](https://github.com/truecharts/charts/issues/10054))
+  
+  
+
+
+## [rdesktop-4.0.77](https://github.com/truecharts/charts/compare/rdesktop-4.0.76...rdesktop-4.0.77) (2023-06-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-mate to latest ([#10050](https://github.com/truecharts/charts/issues/10050))
+  
+  
+
+
+## [rdesktop-4.0.76](https://github.com/truecharts/charts/compare/rdesktop-4.0.75...rdesktop-4.0.76) (2023-06-30)
+
+### Chore
+
+- update rdesktop ([#10047](https://github.com/truecharts/charts/issues/10047))
+  
+  
+
+
+## [rdesktop-4.0.75](https://github.com/truecharts/charts/compare/rdesktop-4.0.74...rdesktop-4.0.75) (2023-06-28)
+
+### Chore
+
+- update rdesktop ([#10004](https://github.com/truecharts/charts/issues/10004))
+  
+  
+
+
+## [rdesktop-4.0.74](https://github.com/truecharts/charts/compare/rdesktop-4.0.73...rdesktop-4.0.74) (2023-06-28)
+
+### Chore
+
+- update rdesktop ([#9999](https://github.com/truecharts/charts/issues/9999))
+  
+  
+
+
+## [rdesktop-4.0.73](https://github.com/truecharts/charts/compare/rdesktop-4.0.72...rdesktop-4.0.73) (2023-06-28)
+
+### Chore
+
+- update rdesktop ([#9998](https://github.com/truecharts/charts/issues/9998))
+  
+  
+
+
+## [rdesktop-4.0.72](https://github.com/truecharts/charts/compare/rdesktop-4.0.71...rdesktop-4.0.72) (2023-06-28)
+
+### Chore
+
+- update rdesktop ([#9996](https://github.com/truecharts/charts/issues/9996))
+  
+  
+
+
+## [rdesktop-4.0.71](https://github.com/truecharts/charts/compare/rdesktop-4.0.70...rdesktop-4.0.71) (2023-06-28)
+
+### Chore
+
+- update rdesktop ([#9995](https://github.com/truecharts/charts/issues/9995))
+  
+  
+
+
+## [rdesktop-4.0.70](https://github.com/truecharts/charts/compare/rdesktop-4.0.69...rdesktop-4.0.70) (2023-06-28)
+
+### Chore
+
+- update rdesktop ([#9994](https://github.com/truecharts/charts/issues/9994))
+  
+  
+
+
+## [rdesktop-4.0.69](https://github.com/truecharts/charts/compare/rdesktop-4.0.68...rdesktop-4.0.69) (2023-06-28)
+
+### Chore
+
+- update rdesktop ([#9992](https://github.com/truecharts/charts/issues/9992))
+  
+  
+
+
+## [rdesktop-4.0.68](https://github.com/truecharts/charts/compare/rdesktop-4.0.67...rdesktop-4.0.68) (2023-06-27)
+
+### Chore
+
+- update rdesktop ([#9991](https://github.com/truecharts/charts/issues/9991))
+  
+  
+
+
+## [rdesktop-4.0.67](https://github.com/truecharts/charts/compare/rdesktop-4.0.66...rdesktop-4.0.67) (2023-06-27)
+
+### Chore
+
+- update helm general non-major ([#9985](https://github.com/truecharts/charts/issues/9985))
+  
+  
+
+
+## [rdesktop-4.0.66](https://github.com/truecharts/charts/compare/rdesktop-4.0.65...rdesktop-4.0.66) (2023-06-27)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-alpine-icewm to latest ([#9988](https://github.com/truecharts/charts/issues/9988))
+  
+  
+
+
+## [rdesktop-4.0.65](https://github.com/truecharts/charts/compare/rdesktop-4.0.64...rdesktop-4.0.65) (2023-06-27)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-alpine-i3 to latest ([#9987](https://github.com/truecharts/charts/issues/9987))
+  
+  
+
+
+## [rdesktop-4.0.64](https://github.com/truecharts/charts/compare/rdesktop-4.0.63...rdesktop-4.0.64) (2023-06-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-xfce to latest ([#9867](https://github.com/truecharts/charts/issues/9867))
+  
+  
+
+
+## [rdesktop-4.0.63](https://github.com/truecharts/charts/compare/rdesktop-4.0.62...rdesktop-4.0.63) (2023-06-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-openbox to latest ([#9865](https://github.com/truecharts/charts/issues/9865))
+  
+  
+
+
+## [rdesktop-4.0.62](https://github.com/truecharts/charts/compare/rdesktop-4.0.61...rdesktop-4.0.62) (2023-06-24)
+
+### Chore
+
+- update rdesktop ([#9864](https://github.com/truecharts/charts/issues/9864))
+  
+  
+
+
+## [rdesktop-4.0.61](https://github.com/truecharts/charts/compare/rdesktop-4.0.60...rdesktop-4.0.61) (2023-06-24)
+
+### Chore
+
+- update rdesktop ([#9862](https://github.com/truecharts/charts/issues/9862))
+  
+  
+
+
+## [rdesktop-4.0.60](https://github.com/truecharts/charts/compare/rdesktop-4.0.59...rdesktop-4.0.60) (2023-06-19)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-ubuntu-xfce to latest ([#9775](https://github.com/truecharts/charts/issues/9775))
+  
+  
+
+
+## [rdesktop-4.0.59](https://github.com/truecharts/charts/compare/rdesktop-4.0.58...rdesktop-4.0.59) (2023-06-19)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-ubuntu-openbox to latest ([#9773](https://github.com/truecharts/charts/issues/9773))
+  
+  
+
+
+## [rdesktop-4.0.58](https://github.com/truecharts/charts/compare/rdesktop-4.0.57...rdesktop-4.0.58) (2023-06-19)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-ubuntu-mate to latest ([#9771](https://github.com/truecharts/charts/issues/9771))
+  
+  
+
+
+## [rdesktop-4.0.57](https://github.com/truecharts/charts/compare/rdesktop-4.0.56...rdesktop-4.0.57) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9770](https://github.com/truecharts/charts/issues/9770))
+  
+  
+
+
+## [rdesktop-4.0.56](https://github.com/truecharts/charts/compare/rdesktop-4.0.55...rdesktop-4.0.56) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9769](https://github.com/truecharts/charts/issues/9769))
+  
+  
+
+
+## [rdesktop-4.0.55](https://github.com/truecharts/charts/compare/rdesktop-4.0.54...rdesktop-4.0.55) (2023-06-19)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest ([#9767](https://github.com/truecharts/charts/issues/9767))
+  
+  
+
+
+## [rdesktop-4.0.54](https://github.com/truecharts/charts/compare/rdesktop-4.0.53...rdesktop-4.0.54) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9766](https://github.com/truecharts/charts/issues/9766))
+  
+  
+
+
+## [rdesktop-4.0.53](https://github.com/truecharts/charts/compare/rdesktop-4.0.52...rdesktop-4.0.53) (2023-06-19)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-fedora-kde to latest ([#9764](https://github.com/truecharts/charts/issues/9764))
+  
+  
+
+
+## [rdesktop-4.0.52](https://github.com/truecharts/charts/compare/rdesktop-4.0.51...rdesktop-4.0.52) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9762](https://github.com/truecharts/charts/issues/9762))
+  
+  
+
+
+## [rdesktop-4.0.51](https://github.com/truecharts/charts/compare/rdesktop-4.0.50...rdesktop-4.0.51) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9761](https://github.com/truecharts/charts/issues/9761))
+  
+  
+
+
+## [rdesktop-4.0.50](https://github.com/truecharts/charts/compare/rdesktop-4.0.49...rdesktop-4.0.50) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9760](https://github.com/truecharts/charts/issues/9760))
+  
+  
+
+
+## [rdesktop-4.0.49](https://github.com/truecharts/charts/compare/rdesktop-4.0.48...rdesktop-4.0.49) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9759](https://github.com/truecharts/charts/issues/9759))
+  
+  
+
+
+## [rdesktop-4.0.48](https://github.com/truecharts/charts/compare/rdesktop-4.0.47...rdesktop-4.0.48) (2023-06-19)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-alpine-openbox to latest ([#9758](https://github.com/truecharts/charts/issues/9758))
+  
+  
+
+
+## [rdesktop-4.0.47](https://github.com/truecharts/charts/compare/rdesktop-4.0.46...rdesktop-4.0.47) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9756](https://github.com/truecharts/charts/issues/9756))
+  
+  
+
+
+## [rdesktop-4.0.46](https://github.com/truecharts/charts/compare/rdesktop-4.0.45...rdesktop-4.0.46) (2023-06-19)
+
+### Chore
+
+- update rdesktop ([#9755](https://github.com/truecharts/charts/issues/9755))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.45](https://github.com/truecharts/charts/compare/rdesktop-4.0.44...rdesktop-4.0.45) (2023-06-14)
+
+### Chore
+
+- update rdesktop ([#9636](https://github.com/truecharts/charts/issues/9636))
+  
+  
+
+
+## [rdesktop-4.0.44](https://github.com/truecharts/charts/compare/rdesktop-4.0.43...rdesktop-4.0.44) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [rdesktop-4.0.43](https://github.com/truecharts/charts/compare/rdesktop-4.0.42...rdesktop-4.0.43) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-xfce to latest ([#9589](https://github.com/truecharts/charts/issues/9589))
+  
+  
+
+
+## [rdesktop-4.0.42](https://github.com/truecharts/charts/compare/rdesktop-4.0.41...rdesktop-4.0.42) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-openbox to latest ([#9586](https://github.com/truecharts/charts/issues/9586))
+  
+  
+
+
+## [rdesktop-4.0.41](https://github.com/truecharts/charts/compare/rdesktop-4.0.40...rdesktop-4.0.41) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-mate to latest ([#9585](https://github.com/truecharts/charts/issues/9585))
+  
+  
+
+
+## [rdesktop-4.0.40](https://github.com/truecharts/charts/compare/rdesktop-4.0.39...rdesktop-4.0.40) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-kde to latest ([#9584](https://github.com/truecharts/charts/issues/9584))
+  
+  
+
+
+## [rdesktop-4.0.39](https://github.com/truecharts/charts/compare/rdesktop-4.0.38...rdesktop-4.0.39) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-icewm to latest ([#9580](https://github.com/truecharts/charts/issues/9580))
+  
+  
+
+
+## [rdesktop-4.0.38](https://github.com/truecharts/charts/compare/rdesktop-4.0.37...rdesktop-4.0.38) (2023-06-11)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-i3 to latest ([#9578](https://github.com/truecharts/charts/issues/9578))
+  
+  
+
+
+## [rdesktop-4.0.37](https://github.com/truecharts/charts/compare/rdesktop-4.0.36...rdesktop-4.0.37) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [rdesktop-4.0.36](https://github.com/truecharts/charts/compare/rdesktop-4.0.35...rdesktop-4.0.36) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [rdesktop-4.0.35](https://github.com/truecharts/charts/compare/rdesktop-4.0.34...rdesktop-4.0.35) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
+## [rdesktop-4.0.34](https://github.com/truecharts/charts/compare/rdesktop-4.0.33...rdesktop-4.0.34) (2023-06-06)
+
+### Chore
+
+- update rdesktop ([#9442](https://github.com/truecharts/charts/issues/9442))
+  
+  
+
+
 ## [rdesktop-4.0.33](https://github.com/truecharts/charts/compare/rdesktop-4.0.32...rdesktop-4.0.33) (2023-06-05)
 
 ### Chore

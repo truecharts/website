@@ -2,6 +2,42 @@
 
 
 
+## [cyberchef-5.0.27](https://github.com/truecharts/charts/compare/cyberchef-5.0.26...cyberchef-5.0.27) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [cyberchef-5.0.26](https://github.com/truecharts/charts/compare/cyberchef-5.0.25...cyberchef-5.0.26) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [cyberchef-5.0.25](https://github.com/truecharts/charts/compare/cyberchef-5.0.24...cyberchef-5.0.25) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [cyberchef-5.0.24](https://github.com/truecharts/charts/compare/cyberchef-5.0.23...cyberchef-5.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [cyberchef-5.0.23](https://github.com/truecharts/charts/compare/cyberchef-5.0.22...cyberchef-5.0.23) (2023-06-04)
 
 ### Chore

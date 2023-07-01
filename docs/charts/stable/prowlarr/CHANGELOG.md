@@ -2,6 +2,318 @@
 
 
 
+## [prowlarr-11.0.28](https://github.com/truecharts/charts/compare/prowlarr-11.0.27...prowlarr-11.0.28) (2023-06-25)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.1.3564 ([#9906](https://github.com/truecharts/charts/issues/9906))
+  
+  
+
+
+## [prowlarr-11.0.27](https://github.com/truecharts/charts/compare/prowlarr-11.0.26...prowlarr-11.0.27) (2023-06-17)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9713](https://github.com/truecharts/charts/issues/9713))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.26](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.26) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.6.0.3527 ([#9675](https://github.com/truecharts/charts/issues/9675))
+  
+  ### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.25](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.25) (2023-06-15)
+
+### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.25](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.25) (2023-06-15)
+
+### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.25](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.25) (2023-06-15)
+
+### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.25](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.25) (2023-06-15)
+
+### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.25](https://github.com/truecharts/charts/compare/prowlarr-11.0.24...prowlarr-11.0.25) (2023-06-15)
+
+### Fix
+
+- switch from nested show_subquestions_if to show_if ([#9604](https://github.com/truecharts/charts/issues/9604))
+  
+  
+
+
+## [prowlarr-11.0.24](https://github.com/truecharts/charts/compare/prowlarr-11.0.23...prowlarr-11.0.24) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [prowlarr-11.0.23](https://github.com/truecharts/charts/compare/prowlarr-11.0.22...prowlarr-11.0.23) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [prowlarr-11.0.22](https://github.com/truecharts/charts/compare/prowlarr-11.0.21...prowlarr-11.0.22) (2023-06-10)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.5.2.3484 ([#9573](https://github.com/truecharts/charts/issues/9573))
+  
+  
+
+
+## [prowlarr-11.0.21](https://github.com/truecharts/charts/compare/prowlarr-11.0.20...prowlarr-11.0.21) (2023-06-09)
+
+### Chore
+
+- update container image tccr.io/truecharts/prowlarr to v1.5.2.3484 ([#9529](https://github.com/truecharts/charts/issues/9529))
+  
+  
+
+
+## [prowlarr-11.0.20](https://github.com/truecharts/charts/compare/prowlarr-11.0.19...prowlarr-11.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [prowlarr-11.0.19](https://github.com/truecharts/charts/compare/prowlarr-11.0.18...prowlarr-11.0.19) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [prowlarr-11.0.18](https://github.com/truecharts/charts/compare/prowlarr-11.0.17...prowlarr-11.0.18) (2023-06-04)
 
 ### Chore

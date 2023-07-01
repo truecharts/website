@@ -2,6 +2,42 @@
 
 
 
+## [lancache-monolithic-4.0.14](https://github.com/truecharts/charts/compare/lancache-monolithic-4.0.13...lancache-monolithic-4.0.14) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [lancache-monolithic-4.0.13](https://github.com/truecharts/charts/compare/lancache-monolithic-4.0.12...lancache-monolithic-4.0.13) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [lancache-monolithic-4.0.12](https://github.com/truecharts/charts/compare/lancache-monolithic-4.0.11...lancache-monolithic-4.0.12) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [lancache-monolithic-4.0.11](https://github.com/truecharts/charts/compare/lancache-monolithic-4.0.10...lancache-monolithic-4.0.11) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [lancache-monolithic-4.0.10](https://github.com/truecharts/charts/compare/lancache-monolithic-4.0.9...lancache-monolithic-4.0.10) (2023-06-04)
 
 ### Chore

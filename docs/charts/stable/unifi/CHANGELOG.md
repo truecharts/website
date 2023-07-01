@@ -2,6 +2,159 @@
 
 
 
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.24](https://github.com/truecharts/charts/compare/unifi-14.0.23...unifi-14.0.24) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/unifi to v7.4.156 ([#9677](https://github.com/truecharts/charts/issues/9677))
+  
+  
+
+
+## [unifi-14.0.23](https://github.com/truecharts/charts/compare/unifi-14.0.22...unifi-14.0.23) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [unifi-14.0.22](https://github.com/truecharts/charts/compare/unifi-14.0.21...unifi-14.0.22) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [unifi-14.0.21](https://github.com/truecharts/charts/compare/unifi-14.0.20...unifi-14.0.21) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [unifi-14.0.20](https://github.com/truecharts/charts/compare/unifi-14.0.19...unifi-14.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [unifi-14.0.19](https://github.com/truecharts/charts/compare/unifi-14.0.18...unifi-14.0.19) (2023-06-04)
 
 ### Chore

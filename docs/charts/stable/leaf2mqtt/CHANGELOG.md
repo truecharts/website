@@ -2,6 +2,42 @@
 
 
 
+## [leaf2mqtt-7.0.22](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.21...leaf2mqtt-7.0.22) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [leaf2mqtt-7.0.21](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.20...leaf2mqtt-7.0.21) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [leaf2mqtt-7.0.20](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.19...leaf2mqtt-7.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [leaf2mqtt-7.0.19](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.18...leaf2mqtt-7.0.19) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [leaf2mqtt-7.0.18](https://github.com/truecharts/charts/compare/leaf2mqtt-7.0.17...leaf2mqtt-7.0.18) (2023-06-04)
 
 ### Chore

@@ -2,6 +2,51 @@
 
 
 
+## [autobrr-4.0.24](https://github.com/truecharts/charts/compare/autobrr-4.0.23...autobrr-4.0.24) (2023-06-26)
+
+### Chore
+
+- update container image tccr.io/truecharts/autobrr to v1.27.1 ([#9943](https://github.com/truecharts/charts/issues/9943))
+  
+  
+
+
+## [autobrr-4.0.23](https://github.com/truecharts/charts/compare/autobrr-4.0.22...autobrr-4.0.23) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [autobrr-4.0.22](https://github.com/truecharts/charts/compare/autobrr-4.0.21...autobrr-4.0.22) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [autobrr-4.0.21](https://github.com/truecharts/charts/compare/autobrr-4.0.20...autobrr-4.0.21) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [autobrr-4.0.20](https://github.com/truecharts/charts/compare/autobrr-4.0.19...autobrr-4.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [autobrr-4.0.19](https://github.com/truecharts/charts/compare/autobrr-4.0.18...autobrr-4.0.19) (2023-06-04)
 
 ### Chore

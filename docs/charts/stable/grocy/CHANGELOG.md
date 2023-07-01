@@ -2,6 +2,42 @@
 
 
 
+## [grocy-14.0.22](https://github.com/truecharts/charts/compare/grocy-14.0.21...grocy-14.0.22) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [grocy-14.0.21](https://github.com/truecharts/charts/compare/grocy-14.0.20...grocy-14.0.21) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [grocy-14.0.20](https://github.com/truecharts/charts/compare/grocy-14.0.19...grocy-14.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [grocy-14.0.19](https://github.com/truecharts/charts/compare/grocy-14.0.18...grocy-14.0.19) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [grocy-14.0.18](https://github.com/truecharts/charts/compare/grocy-14.0.17...grocy-14.0.18) (2023-06-04)
 
 ### Chore

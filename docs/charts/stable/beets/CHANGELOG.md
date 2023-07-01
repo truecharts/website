@@ -2,6 +2,682 @@
 
 
 
+## [beets-7.0.31](https://github.com/truecharts/charts/compare/beets-7.0.30...beets-7.0.31) (2023-06-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#10051](https://github.com/truecharts/charts/issues/10051))
+  
+  
+
+
+## [beets-7.0.30](https://github.com/truecharts/charts/compare/beets-7.0.29...beets-7.0.30) (2023-06-23)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9860](https://github.com/truecharts/charts/issues/9860))
+  
+  
+
+
+## [beets-7.0.29](https://github.com/truecharts/charts/compare/beets-7.0.28...beets-7.0.29) (2023-06-16)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9701](https://github.com/truecharts/charts/issues/9701))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.28](https://github.com/truecharts/charts/compare/beets-7.0.27...beets-7.0.28) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/beets to v1.6.0 ([#9609](https://github.com/truecharts/charts/issues/9609))
+  
+  
+
+
+## [beets-7.0.27](https://github.com/truecharts/charts/compare/beets-7.0.26...beets-7.0.27) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [beets-7.0.26](https://github.com/truecharts/charts/compare/beets-7.0.25...beets-7.0.26) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [beets-7.0.25](https://github.com/truecharts/charts/compare/beets-7.0.24...beets-7.0.25) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [beets-7.0.24](https://github.com/truecharts/charts/compare/beets-7.0.23...beets-7.0.24) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [beets-7.0.23](https://github.com/truecharts/charts/compare/beets-7.0.22...beets-7.0.23) (2023-06-04)
 
 ### Chore

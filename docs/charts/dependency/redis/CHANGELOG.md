@@ -2,6 +2,836 @@
 
 
 
+## [redis-6.0.62](https://github.com/truecharts/charts/compare/redis-6.0.61...redis-6.0.62) (2023-06-27)
+
+### Chore
+
+- update helm chart common to 12.14.6 ([#9942](https://github.com/truecharts/charts/issues/9942))
+  
+  
+
+
+## [redis-6.0.61](https://github.com/truecharts/charts/compare/redis-6.0.60...redis-6.0.61) (2023-06-25)
+
+### Chore
+
+- update helm chart common to 12.14.4 ([#9898](https://github.com/truecharts/charts/issues/9898))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.60](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.60) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.3 ([#9601](https://github.com/truecharts/charts/issues/9601))
+  - update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.59](https://github.com/truecharts/charts/compare/redis-6.0.58...redis-6.0.59) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9579](https://github.com/truecharts/charts/issues/9579))
+  
+  
+
+
+## [redis-6.0.58](https://github.com/truecharts/charts/compare/redis-6.0.57...redis-6.0.58) (2023-06-10)
+
+### Chore
+
+- update helm chart common to 12.14.1 ([#9568](https://github.com/truecharts/charts/issues/9568))
+  
+  
+
+
+## [redis-6.0.57](https://github.com/truecharts/charts/compare/redis-6.0.56...redis-6.0.57) (2023-06-10)
+
+### Chore
+
+- update helm chart common to 12.14.0 ([#9560](https://github.com/truecharts/charts/issues/9560))
+  
+  
+
+
+## [redis-6.0.56](https://github.com/truecharts/charts/compare/redis-6.0.55...redis-6.0.56) (2023-06-10)
+
+### Chore
+
+- update helm chart common to 12.13.2 ([#9555](https://github.com/truecharts/charts/issues/9555))
+  
+  
+
+
+## [redis-6.0.55](https://github.com/truecharts/charts/compare/redis-6.0.54...redis-6.0.55) (2023-06-09)
+
+### Chore
+
+- update helm chart common to 12.13.1 ([#9500](https://github.com/truecharts/charts/issues/9500))
+  
+  
+
+
+## [redis-6.0.54](https://github.com/truecharts/charts/compare/redis-6.0.53...redis-6.0.54) (2023-06-07)
+
+### Chore
+
+- update helm chart common to 12.13.0 ([#9456](https://github.com/truecharts/charts/issues/9456))
+  
+  
+
+
+## [redis-6.0.53](https://github.com/truecharts/charts/compare/redis-6.0.52...redis-6.0.53) (2023-06-07)
+
+### Chore
+
+- update helm chart common to 12.12.4 ([#9454](https://github.com/truecharts/charts/issues/9454))
+  
+  
+
+
+## [redis-6.0.52](https://github.com/truecharts/charts/compare/redis-6.0.51...redis-6.0.52) (2023-06-07)
+
+### Chore
+
+- update helm chart common to 12.12.3 ([#9444](https://github.com/truecharts/charts/issues/9444))
+  
+  
+
+
 ## [redis-6.0.51](https://github.com/truecharts/charts/compare/redis-6.0.50...redis-6.0.51) (2023-06-04)
 
 ### Chore

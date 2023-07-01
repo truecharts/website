@@ -2,6 +2,42 @@
 
 
 
+## [pihole-10.0.11](https://github.com/truecharts/charts/compare/pihole-10.0.10...pihole-10.0.11) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [pihole-10.0.10](https://github.com/truecharts/charts/compare/pihole-10.0.9...pihole-10.0.10) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [pihole-10.0.9](https://github.com/truecharts/charts/compare/pihole-10.0.8...pihole-10.0.9) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [pihole-10.0.8](https://github.com/truecharts/charts/compare/pihole-10.0.7...pihole-10.0.8) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [pihole-10.0.7](https://github.com/truecharts/charts/compare/pihole-10.0.6...pihole-10.0.7) (2023-06-04)
 
 ### Chore

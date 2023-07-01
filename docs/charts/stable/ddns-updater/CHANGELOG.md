@@ -2,6 +2,51 @@
 
 
 
+## [ddns-updater-5.0.23](https://github.com/truecharts/charts/compare/ddns-updater-5.0.22...ddns-updater-5.0.23) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [ddns-updater-5.0.22](https://github.com/truecharts/charts/compare/ddns-updater-5.0.21...ddns-updater-5.0.22) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [ddns-updater-5.0.21](https://github.com/truecharts/charts/compare/ddns-updater-5.0.20...ddns-updater-5.0.21) (2023-06-09)
+
+### Chore
+
+- update container image tccr.io/truecharts/ddns-updater to v2.5.0 ([#9501](https://github.com/truecharts/charts/issues/9501))
+  
+  
+
+
+## [ddns-updater-5.0.20](https://github.com/truecharts/charts/compare/ddns-updater-5.0.19...ddns-updater-5.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [ddns-updater-5.0.19](https://github.com/truecharts/charts/compare/ddns-updater-5.0.18...ddns-updater-5.0.19) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [ddns-updater-5.0.18](https://github.com/truecharts/charts/compare/ddns-updater-5.0.17...ddns-updater-5.0.18) (2023-06-04)
 
 ### Chore
