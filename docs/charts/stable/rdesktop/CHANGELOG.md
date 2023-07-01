@@ -2,6 +2,42 @@
 
 
 
+## [rdesktop-4.0.79](https://github.com/truecharts/charts/compare/rdesktop-4.0.78...rdesktop-4.0.79) (2023-06-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-xfce to latest ([#10056](https://github.com/truecharts/charts/issues/10056))
+  
+  
+
+
+## [rdesktop-4.0.78](https://github.com/truecharts/charts/compare/rdesktop-4.0.77...rdesktop-4.0.78) (2023-06-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-openbox to latest ([#10054](https://github.com/truecharts/charts/issues/10054))
+  
+  
+
+
+## [rdesktop-4.0.77](https://github.com/truecharts/charts/compare/rdesktop-4.0.76...rdesktop-4.0.77) (2023-06-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/rdesktop-arch-mate to latest ([#10050](https://github.com/truecharts/charts/issues/10050))
+  
+  
+
+
+## [rdesktop-4.0.76](https://github.com/truecharts/charts/compare/rdesktop-4.0.75...rdesktop-4.0.76) (2023-06-30)
+
+### Chore
+
+- update rdesktop ([#10047](https://github.com/truecharts/charts/issues/10047))
+  
+  
+
+
 ## [rdesktop-4.0.75](https://github.com/truecharts/charts/compare/rdesktop-4.0.74...rdesktop-4.0.75) (2023-06-28)
 
 ### Chore
