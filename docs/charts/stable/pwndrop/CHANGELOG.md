@@ -2,6 +2,15 @@
 
 
 
+## [pwndrop-5.0.29](https://github.com/truecharts/charts/compare/pwndrop-5.0.28...pwndrop-5.0.29) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
 ## [pwndrop-5.0.28](https://github.com/truecharts/charts/compare/pwndrop-5.0.27...pwndrop-5.0.28) (2023-06-19)
 
 ### Chore

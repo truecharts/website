@@ -2,6 +2,15 @@
 
 
 
+## [rss-bridge-5.0.22](https://github.com/truecharts/charts/compare/rss-bridge-5.0.21...rss-bridge-5.0.22) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
 ## [rss-bridge-5.0.21](https://github.com/truecharts/charts/compare/rss-bridge-5.0.20...rss-bridge-5.0.21) (2023-06-13)
 
 ### Chore
