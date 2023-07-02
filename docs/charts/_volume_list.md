@@ -56,6 +56,7 @@ The intro needs improvement ;)
 |calibre                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |calibre-web               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |channels-dvr              |config                |PVC      |-              |/channels-dvr                                        |Read/Write|Enabled                |
+|channels-dvr              |recordings            |PVC      |-              |/shares/DVR                                          |Read/Write|Enabled                |
 |chevereto                 |storage               |PVC      |-              |/var/www/html/images/                                |Read/Write|Enabled                |
 |chevereto                 |content               |PVC      |-              |/var/www/html/content/                               |Read/Write|Enabled                |
 |chronos                   |chronos               |PVC      |-              |/chronos                                             |Read/Write|Enabled                |
@@ -826,6 +827,7 @@ The intro needs improvement ;)
 |garrysmod                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |genea                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |ghost                          |content                    |PVC      |-                |/var/lib/ghost/content                           |Read/Write|Enabled                |
+|ghostfolio                     |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |github-backup                  |backuplocation             |PVC      |-                |/home/docker/backups                             |Read/Write|Enabled                |
 |github-backup                  |config                     |PVC      |-                |/home/docker/github-backup/config/               |Read/Write|Enabled                |
 |glauth                         |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
