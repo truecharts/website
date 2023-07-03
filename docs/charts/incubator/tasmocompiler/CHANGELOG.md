@@ -2,6 +2,15 @@
 
 
 
+## [tasmocompiler-3.0.0](https://github.com/truecharts/charts/compare/tasmocompiler-2.0.14...tasmocompiler-3.0.0) (2023-07-03)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [tasmocompiler-2.0.14](https://github.com/truecharts/charts/compare/tasmocompiler-2.0.13...tasmocompiler-2.0.14) (2023-04-30)
 
 ### Chore
