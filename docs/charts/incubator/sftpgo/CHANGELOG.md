@@ -2,6 +2,11 @@
 
 
 
+## [sftpgo-3.0.1](https://github.com/truecharts/charts/compare/sftpgo-3.0.0...sftpgo-3.0.1) (2023-07-03)
+
+
+
+
 ## [sftpgo-3.0.0](https://github.com/truecharts/charts/compare/sftpgo-2.0.13...sftpgo-3.0.0) (2023-07-02)
 
 ### Feat
