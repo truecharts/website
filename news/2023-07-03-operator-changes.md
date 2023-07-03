@@ -1,6 +1,7 @@
 ---
 slug: "operator-changes"
 title: "Deprecating Old Operators"
+authors: [kqmaverick]
 ---
 
 As part of limiting our promise not to introduce breaking changes to the charts within our Enterprise train, we've ensured both the new and old way of dealing with "operators" where both supported.
