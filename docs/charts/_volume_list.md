@@ -1192,7 +1192,7 @@ The intro needs improvement ;)
 |sftpgo                         |backupdirectory            |PVC      |-                |/srv/sftpgo/backups                              |Read/Write|Enabled                |
 |sftpgo                         |configpath                 |PVC      |-                |/var/lib/sftpgo                                  |Read/Write|Enabled                |
 |sftpgo                         |data                       |PVC      |-                |/srv/sftpgo/data                                 |Read/Write|Enabled                |
-|sftpgo                         |shareaccess                |PVC      |-                |/unraid                                          |Read/Write|Enabled                |
+|sftpgo                         |shareaccess                |PVC      |-                |/shareaccess                                     |Read/Write|Enabled                |
 |shaarli                        |cache                      |PVC      |-                |/var/www/shaarli/cache                           |Read/Write|Enabled                |
 |shaarli                        |data                       |PVC      |-                |/var/www/shaarli/data                            |Read/Write|Enabled                |
 |shadowsocks                    |-                          |-        |-                |-                                                |-         |Persistence not Defined|
