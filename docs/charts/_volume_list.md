@@ -555,6 +555,7 @@ The intro needs improvement ;)
 |whoogle                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wikijs                    |wikicache             |emptyDir |-              |/wiki/data/                                          |Read/Write|Enabled                |
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|wizarr                    |database              |PVC      |-              |/data/database                                       |Read/Write|Enabled                |
 |wordpress                 |config                |PVC      |-              |/bitnami/wordpress                                   |Read/Write|Enabled                |
 |xen-orchestra             |xo-data               |PVC      |-              |/var/lib/xo-server                                   |Read/Write|Enabled                |
 |xen-orchestra             |redis-data            |PVC      |-              |/var/lib/redis                                       |Read/Write|Enabled                |
@@ -1033,6 +1034,7 @@ The intro needs improvement ;)
 |onlinecheckyourserver          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |openaudible                    |config                     |PVC      |-                |/config/OpenAudible                              |Read/Write|Enabled                |
 |openbooks                      |books                      |PVC      |-                |/books/books                                     |Read/Write|Enabled                |
+|openbooks                      |logs                       |PVC      |-                |/books/logs                                      |Read/Write|Enabled                |
 |opengl-desktop-g3              |internalshare              |PVC      |-                |/UNRAID_SHARE                                    |Read/Write|Enabled                |
 |openkm                         |config                     |PVC      |-                |/opt/tomcat/repository                           |Read/Write|Enabled                |
 |openkm                         |init                       |custom   |-                |/config/init                                     |Read Only |Enabled                |
@@ -1281,6 +1283,7 @@ The intro needs improvement ;)
 |tubesync                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |tubesync                       |downloads                  |PVC      |-                |/downloads                                       |Read/Write|Enabled                |
 |tvhproxy                       |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|twingate-connector             |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |twonky-server                  |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |twonky-server                  |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |typecho                        |config                     |PVC      |-                |/app/usr                                         |Read/Write|Enabled                |
@@ -1321,7 +1324,6 @@ The intro needs improvement ;)
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |wireshark                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |wireshark                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|wizarr                         |database                   |PVC      |-                |/data/database                                   |Read/Write|Enabled                |
 |xbackbone                      |config                     |PVC      |-                |/app/config                                      |Read/Write|Enabled                |
 |xmrig                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
