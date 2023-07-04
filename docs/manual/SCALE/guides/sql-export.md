@@ -49,7 +49,7 @@ folder="./dumps/"
 mkdir -p "$folder"
 
 # get namespaces with postgres database pod
-namespaces=$(k3s kubectl get pods -A | grep postgres | awk '{print $1}')
+namespaces=$(k3s kubectl get pods -A | grep cnpg | awk '{print $1}') | sort -nu
 
 for ns in $namespaces; do
   # extract application name
