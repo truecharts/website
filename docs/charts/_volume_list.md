@@ -552,6 +552,10 @@ The intro needs improvement ;)
 |wekan                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |wg-easy                   |config                |PVC      |-              |/etc/wireguard                                       |Read/Write|Enabled                |
 |whisparr                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|whisper-asr-webservice    |pip                   |PVC      |-              |/root/.cache/pip                                     |Read/Write|Enabled                |
+|whisper-asr-webservice    |poetry                |PVC      |-              |/root/.cache/poetry                                  |Read/Write|Enabled                |
+|whisper-asr-webservice    |whisper               |PVC      |-              |/root/.cache/whisper                                 |Read/Write|Enabled                |
+|whisper-asr-webservice    |faster-whisper        |PVC      |-              |/root/.cache/faster_whisper                          |Read/Write|Enabled                |
 |whoogle                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |wikijs                    |wikicache             |emptyDir |-              |/wiki/data/                                          |Read/Write|Enabled                |
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -1317,10 +1321,6 @@ The intro needs improvement ;)
 |wger                           |media                      |PVC      |-                |/home/wger/media                                 |Read/Write|Enabled                |
 |wger                           |static                     |emptyDir |-                |/home/wger/static                                |Read/Write|Enabled                |
 |wger                           |wger-config                |custom   |-                |/etc/nginx/conf.d                                |Read/Write|Enabled                |
-|whisper-asr-webservice         |pip                        |PVC      |-                |/root/.cache/pip                                 |Read/Write|Enabled                |
-|whisper-asr-webservice         |poetry                     |PVC      |-                |/root/.cache/poetry                              |Read/Write|Enabled                |
-|whisper-asr-webservice         |whisper                    |PVC      |-                |/root/.cache/whisper                             |Read/Write|Enabled                |
-|whisper-asr-webservice         |faster-whisper             |PVC      |-                |/root/.cache/faster_whisper                      |Read/Write|Enabled                |
 |wifi-card                      |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |wireshark                      |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |wireshark                      |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1359,17 +1359,6 @@ The intro needs improvement ;)
 |zoneminder                     |datapath                   |PVC      |-                |/var/cache/zoneminder                            |Read/Write|Enabled                |
 |zusam                          |data                       |PVC      |-                |/zusam/data                                      |Read/Write|Enabled                |
 
-## Operators
-
-| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
-|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
-|cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|prometheus-operator|-                   |-       |-       |-          |-         |Persistence not Defined|
-
 ## Enterprise
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
@@ -1383,5 +1372,16 @@ The intro needs improvement ;)
 |prometheus    |-          |-       |-       |-                        |-         |Persistence not Defined|
 |traefik       |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
 |vaultwarden   |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
+
+## Operators
+
+| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
+|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
+|cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|prometheus-operator|-                   |-       |-       |-          |-         |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
