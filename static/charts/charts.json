@@ -33,7 +33,7 @@
         },
         {
             "name": "stable",
-            "count": 344,
+            "count": 343,
             "charts": [
                 {
                     "name": "actualserver",
@@ -209,7 +209,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/babybuddy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/babybuddy.png",
-                    "version": "12.0.30"
+                    "version": "12.0.31"
                 },
                 {
                     "name": "baserow",
@@ -257,7 +257,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/booksonic-air",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/booksonic-air.png",
-                    "version": "9.0.27"
+                    "version": "9.0.28"
                 },
                 {
                     "name": "bookstack",
@@ -361,7 +361,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cloudflareddns",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cloudflareddns.png",
-                    "version": "5.0.27"
+                    "version": "5.0.28"
                 },
                 {
                     "name": "code-server",
@@ -1097,7 +1097,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jellyfin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png",
-                    "version": "14.1.6"
+                    "version": "14.1.8"
                 },
                 {
                     "name": "jellyseerr",
@@ -1740,14 +1740,6 @@
                     "version": "9.0.24"
                 },
                 {
-                    "name": "owncloud-ocis",
-                    "description": "ownCloud Infinite Scale is a self-hosted file sync and share server.",
-                    "train": "stable",
-                    "link": "https://truecharts.org/charts/stable/owncloud-ocis",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/owncloud-ocis.png",
-                    "version": "11.0.15"
-                },
-                {
                     "name": "paperless-ngx",
                     "description": "Paperless-ngx is an application by Daniel Quinn and contributors that indexes your scanned documents.",
                     "train": "stable",
@@ -2041,7 +2033,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "4.0.94"
+                    "version": "4.0.95"
                 },
                 {
                     "name": "readarr",
@@ -2129,7 +2121,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsnapshot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsnapshot.png",
-                    "version": "5.0.25"
+                    "version": "5.0.26"
                 },
                 {
                     "name": "rss-bridge",
@@ -2145,7 +2137,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.78"
+                    "version": "7.0.79"
                 },
                 {
                     "name": "sabnzbd",
@@ -2633,7 +2625,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "5.0.65"
+                    "version": "5.0.75"
                 },
                 {
                     "name": "wekan",
@@ -2705,7 +2697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "2.0.33"
+                    "version": "2.0.34"
                 },
                 {
                     "name": "xen-orchestra",
@@ -2861,7 +2853,7 @@
         },
         {
             "name": "incubator",
-            "count": 451,
+            "count": 452,
             "charts": [
                 {
                     "name": "acestream",
@@ -5030,6 +5022,14 @@
                     "link": "https://truecharts.org/charts/incubator/owi2plex",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/owi2plex.png",
                     "version": "2.0.9"
+                },
+                {
+                    "name": "owncloud-ocis",
+                    "description": "ownCloud Infinite Scale is a self-hosted file sync and share server.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/owncloud-ocis",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/owncloud-ocis.png",
+                    "version": "11.0.16"
                 },
                 {
                     "name": "owntracks",
