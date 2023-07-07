@@ -1,6 +1,6 @@
 # littlelink
 
-![Version: 9.0.43](https://img.shields.io/badge/Version-9.0.43-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 9.0.44](https://img.shields.io/badge/Version-9.0.44-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
 
 Easy platform to combine all your social links
 
