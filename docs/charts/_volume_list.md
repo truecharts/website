@@ -850,6 +850,7 @@ The intro needs improvement ;)
 |gpodder                        |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
 |gpodder                        |downloadspath              |PVC      |-                |/downloads                                       |Read/Write|Enabled                |
 |grafana-image-renderer         |-                          |-        |-                |-                                                |-         |Persistence not Defined|
+|gravity                        |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |gridcoinwalletgui              |appdataconfigpath          |PVC      |-                |/headless/.GridcoinResearch/                     |Read/Write|Enabled                |
 |gridcoinwalletgui              |boincdatadir               |PVC      |-                |/var/lib/boinc-client/                           |Read/Write|Enabled                |
 |grist                          |persist                    |PVC      |-                |/persist                                         |Read/Write|Enabled                |
@@ -1359,17 +1360,6 @@ The intro needs improvement ;)
 |zoneminder                     |datapath                   |PVC      |-                |/var/cache/zoneminder                            |Read/Write|Enabled                |
 |zusam                          |data                       |PVC      |-                |/zusam/data                                      |Read/Write|Enabled                |
 
-## Operators
-
-| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
-|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
-|cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|prometheus-operator|-                   |-       |-       |-          |-         |Persistence not Defined|
-
 ## Enterprise
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
@@ -1383,5 +1373,16 @@ The intro needs improvement ;)
 |prometheus    |-          |-       |-       |-                        |-         |Persistence not Defined|
 |traefik       |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
 |vaultwarden   |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
+
+## Operators
+
+| App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
+|:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
+|cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|metallb            |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined |
+|prometheus-operator|-                   |-       |-       |-          |-         |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script
