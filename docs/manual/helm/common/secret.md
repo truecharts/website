@@ -1,15 +1,15 @@
 # Secret
 
-| Key                              |   Type    | Required |   Helm Template    | Default  | Description                       |
-| :------------------------------- | :-------: | :------: | :----------------: | :------: | :-------------------------------- |
-| secret                           |  `dict`   |    ❌    |         ❌         |   `{}`   | Define the secret as dicts        |
-| secret.[secret-name]             |  `dict`   |    ✅    |         ❌         |   `{}`   | Holds secret definition           |
-| secret.[secret-name].namespace   | `string`  |    ❌    |         ✅         |   `""`   | Explicitly define the namespace   |
-| secret.[secret-name].enabled     | `boolean` |    ✅    |         ❌         | `false`  | Enables or Disables the secret    |
-| secret.[secret-name].labels      |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional labels for secret      |
-| secret.[secret-name].annotations |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional annotations for secret |
-| secret.[secret-name].type        | `string`  |    ❌    |         ✅         | `Opaque` | Custom secret type                |
-| secret.[secret-name].data        |  `dict`   |    ✅    |         ✅         |   `{}`   | Define the data of the secret     |
+| Key                              |   Type    | Required |   Helm Template    | Default  | Description                          |
+| :------------------------------- | :-------: | :------: | :----------------: | :------: | :----------------------------------- |
+| secret                           |  `dict`   |    ❌    |         ❌         |   `{}`   | Define the secret as dicts           |
+| secret.[secret-name]             |  `dict`   |    ✅    |         ❌         |   `{}`   | Holds secret definition              |
+| secret.[secret-name].namespace   | `string`  |    ❌    |         ✅         |   `""`   | Define the namespace for this object |
+| secret.[secret-name].enabled     | `boolean` |    ✅    |         ❌         | `false`  | Enables or Disables the secret       |
+| secret.[secret-name].labels      |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional labels for secret         |
+| secret.[secret-name].annotations |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional annotations for secret    |
+| secret.[secret-name].type        | `string`  |    ❌    |         ✅         | `Opaque` | Custom secret type                   |
+| secret.[secret-name].data        |  `dict`   |    ✅    |         ✅         |   `{}`   | Define the data of the secret        |
 
 ---
 
@@ -29,7 +29,6 @@ Examples:
 
 ```yaml
 secret:
-
   secret-name:
     enabled: true
     type: CustomSecretType
