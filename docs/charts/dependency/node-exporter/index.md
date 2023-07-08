@@ -1,6 +1,6 @@
 # node-exporter
 
-![Version: 1.0.38](https://img.shields.io/badge/Version-1.0.38-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.6.0"](https://img.shields.io/badge/AppVersion-"1.6.0"-informational?style=flat-square)
+![Version: 1.0.39](https://img.shields.io/badge/Version-1.0.39-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.6.0"](https://img.shields.io/badge/AppVersion-"1.6.0"-informational?style=flat-square)
 
 Prometheus exporter for hardware and OS metrics exposed by UNIX kernels, with pluggable metric collectors.
 
