@@ -2,6 +2,11 @@
 
 
 
+## [pastey-3.0.1](https://github.com/truecharts/charts/compare/pastey-3.0.0...pastey-3.0.1) (2023-07-09)
+
+
+
+
 ## [pastey-3.0.0](https://github.com/truecharts/charts/compare/pastey-2.0.9...pastey-3.0.0) (2023-07-08)
 
 ### Feat
