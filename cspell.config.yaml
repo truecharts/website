@@ -5,6 +5,7 @@ words:
   - allowtransparency
   - ampproject
   - appname
+  - Authelia
   - autoprefixer
   - backoff
   - backupname
@@ -16,6 +17,7 @@ words:
   - chartname
   - cheatsheet
   - chokidar
+  - Cloudnative
   - clsx
   - clusterissuer
   - collabora
