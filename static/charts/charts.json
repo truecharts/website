@@ -585,7 +585,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dokuwiki",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dokuwiki.png",
-                    "version": "6.0.25"
+                    "version": "6.0.26"
                 },
                 {
                     "name": "domoticz",
@@ -633,7 +633,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/duckdns",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/duckdns.png",
-                    "version": "5.0.31"
+                    "version": "5.0.32"
                 },
                 {
                     "name": "duplicati",
@@ -1241,7 +1241,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "2.0.64"
+                    "version": "2.0.66"
                 },
                 {
                     "name": "librespeed",
@@ -2033,7 +2033,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "4.0.96"
+                    "version": "4.0.103"
                 },
                 {
                     "name": "readarr",
@@ -2137,7 +2137,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.82"
+                    "version": "7.0.83"
                 },
                 {
                     "name": "sabnzbd",
@@ -2697,7 +2697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "2.0.35"
+                    "version": "2.0.36"
                 },
                 {
                     "name": "xen-orchestra",
@@ -4445,7 +4445,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/kopia",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kopia.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "krusader",
@@ -5061,7 +5061,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/pastey",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pastey.png",
-                    "version": "3.0.0"
+                    "version": "3.0.1"
                 },
                 {
                     "name": "pavlovvr",
@@ -6507,7 +6507,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "7.0.65"
+                    "version": "7.0.66"
                 },
                 {
                     "name": "memcached",
@@ -6515,7 +6515,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "6.0.72"
+                    "version": "6.0.73"
                 },
                 {
                     "name": "mongodb",
@@ -6523,7 +6523,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "6.0.63"
+                    "version": "6.0.64"
                 },
                 {
                     "name": "node-exporter",
@@ -6547,7 +6547,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/solr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png",
-                    "version": "4.0.63"
+                    "version": "4.0.64"
                 }
             ]
         }
