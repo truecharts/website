@@ -257,7 +257,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/booksonic-air",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/booksonic-air.png",
-                    "version": "9.0.28"
+                    "version": "9.0.29"
                 },
                 {
                     "name": "bookstack",
@@ -1217,7 +1217,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lazylibrarian",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.png",
-                    "version": "14.0.34"
+                    "version": "14.0.35"
                 },
                 {
                     "name": "leaf2mqtt",
@@ -1305,7 +1305,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/matomo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/matomo.png",
-                    "version": "7.0.30"
+                    "version": "7.0.31"
                 },
                 {
                     "name": "mc-router",
@@ -2033,7 +2033,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "4.0.103"
+                    "version": "4.0.106"
                 },
                 {
                     "name": "readarr",
@@ -2137,7 +2137,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.83"
+                    "version": "7.0.86"
                 },
                 {
                     "name": "sabnzbd",
@@ -2625,7 +2625,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "5.0.75"
+                    "version": "5.0.80"
                 },
                 {
                     "name": "wekan",
@@ -6499,7 +6499,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/kube-state-metrics",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kube-state-metrics.png",
-                    "version": "1.0.35"
+                    "version": "1.0.36"
                 },
                 {
                     "name": "mariadb",
@@ -6531,7 +6531,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "1.0.39"
+                    "version": "1.0.40"
                 },
                 {
                     "name": "redis",
