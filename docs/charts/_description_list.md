@@ -836,6 +836,18 @@ sidebar_position: 1
 
 ---
 
+## Operators
+
+| App | Container Source | Description |
+|:----|:-----------------|:------------|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png" align="top" width="25" height="25" /> [cloudnative-pg](https://truecharts.org/charts/operators/cloudnative-pg)               |ghcr.io/cloudnative-pg/cloudnative-pg          |CloudNativePG is a clustered postgresql database operator                                  |
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" align="top" width="25" height="25" /> [metallb](https://truecharts.org/charts/operators/metallb)                                    |Not Found                                      |A network load-balancer implementation for Kubernetes using standard routing<br />protocols|
+|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.png" align="top" width="25" height="25" /> [prometheus-operator](https://truecharts.org/charts/operators/prometheus-operator)|quay.io/prometheus-operator/prometheus-operator|Prometheus Operator is an operator for prometheus                                          |
+
+> Charts in this train: **3**
+
+---
+
 ## Enterprise
 
 | App | Container Source | Description |
@@ -850,18 +862,6 @@ sidebar_position: 1
 |<img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" align="top" width="25" height="25" /> [vaultwarden](https://truecharts.org/charts/enterprise/vaultwarden)         |docker.io/vaultwarden/server|Unofficial Bitwarden compatible server written in Rust                                                                                                                                                                                                                 |
 
 > Charts in this train: **8**
-
----
-
-## Operators
-
-| App | Container Source | Description |
-|:----|:-----------------|:------------|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png" align="top" width="25" height="25" /> [cloudnative-pg](https://truecharts.org/charts/operators/cloudnative-pg)               |ghcr.io/cloudnative-pg/cloudnative-pg          |CloudNativePG is a clustered postgresql database operator                                  |
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png" align="top" width="25" height="25" /> [metallb](https://truecharts.org/charts/operators/metallb)                                    |Not Found                                      |A network load-balancer implementation for Kubernetes using standard routing<br />protocols|
-|<img src="https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.png" align="top" width="25" height="25" /> [prometheus-operator](https://truecharts.org/charts/operators/prometheus-operator)|quay.io/prometheus-operator/prometheus-operator|Prometheus Operator is an operator for prometheus                                          |
-
-> Charts in this train: **3**
 
 ---
 
