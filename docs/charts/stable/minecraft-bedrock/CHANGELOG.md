@@ -2,6 +2,11 @@
 
 
 
+## [minecraft-bedrock-4.0.24](https://github.com/truecharts/charts/compare/minecraft-bedrock-4.0.23...minecraft-bedrock-4.0.24) (2023-07-14)
+
+
+
+
 ## [minecraft-bedrock-4.0.23](https://github.com/truecharts/charts/compare/minecraft-bedrock-4.0.22...minecraft-bedrock-4.0.23) (2023-07-01)
 
 ### Chore
