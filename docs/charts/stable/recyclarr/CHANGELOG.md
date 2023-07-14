@@ -2,6 +2,11 @@
 
 
 
+## [recyclarr-5.0.0](https://github.com/truecharts/charts/compare/recyclarr-4.0.25...recyclarr-5.0.0) (2023-07-14)
+
+
+
+
 ## [recyclarr-4.0.25](https://github.com/truecharts/charts/compare/recyclarr-4.0.24...recyclarr-4.0.25) (2023-07-01)
 
 ### Chore
