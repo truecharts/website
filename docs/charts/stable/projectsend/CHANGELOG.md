@@ -2,6 +2,11 @@
 
 
 
+## [projectsend-7.1.0](https://github.com/truecharts/charts/compare/projectsend-7.0.25...projectsend-7.1.0) (2023-07-14)
+
+
+
+
 ## [projectsend-7.0.25](https://github.com/truecharts/charts/compare/projectsend-7.0.24...projectsend-7.0.25) (2023-07-04)
 
 ### Chore
