@@ -4,6 +4,7 @@
 | :----------------------------------------- | :-----------: | :------: | :----------------: | :----------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------- |
 | persistence.[volume-name].labels           |    `dict`     |    ❌    | ✅ (On value only) |                          `{}`                          | Additional labels for persistence                                                                                                |
 | persistence.[volume-name].annotations      |    `dict`     |    ❌    | ✅ (On value only) |                          `{}`                          | Additional annotations for persistence                                                                                           |
+| persistence.[volume-name].namespace        |   `string`    |    ❌    |         ✅         |                                                        | Define the namespace for the PVC                                                                                                 |
 | persistence.[volume-name].retain           |   `boolean`   |    ❌    |         ❌         |   `{{ .Values.global.fallbackDefaults.pvcRetain }}`    | Define wether the to add helm annotation to retain resource on uninstall (Middleware should also retain it when deleting the NS) |
 | persistence.[volume-name].accessModes      | `string/list` |    ❌    |         ✅         | `{{ .Values.global.fallbackDefaults.pvcAccessModes }}` | Define the accessModes of the PVC, if it's single can be defined as a string, multiple as a list                                 |
 | persistence.[volume-name].volumeName       |   `string`    |    ❌    |         ✅         |                                                        | Define the volumeName of a PV, backing the claim                                                                                 |
@@ -35,6 +36,7 @@ persistence:
   pvc-vol:
     enabled: true
     type: pvc
+    namespace: some-namespace
     labels:
       label1: value1
     annotations:
