@@ -2,6 +2,24 @@
 
 
 
+## [thelounge-9.0.34](https://github.com/truecharts/charts/compare/thelounge-9.0.33...thelounge-9.0.34) (2023-07-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/thelounge to v4.4.1 ([#10462](https://github.com/truecharts/charts/issues/10462))
+  
+  
+
+
+## [thelounge-9.0.33](https://github.com/truecharts/charts/compare/thelounge-9.0.32...thelounge-9.0.33) (2023-07-13)
+
+### Chore
+
+- update container image tccr.io/truecharts/thelounge to v4.4.1 ([#10438](https://github.com/truecharts/charts/issues/10438))
+  
+  
+
+
 ## [thelounge-9.0.32](https://github.com/truecharts/charts/compare/thelounge-9.0.31...thelounge-9.0.32) (2023-07-06)
 
 ### Chore

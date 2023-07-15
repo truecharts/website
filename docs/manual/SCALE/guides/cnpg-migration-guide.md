@@ -32,7 +32,7 @@ bash tcdbinfo.sh
 
 ![cnpg-pgadmin-name](./img/cnpg-pgadmin-name.png)
 
-3. Enter database server and credentials previosly acquired from tcdbinfo.sh script and save.
+3. Enter database server and credentials previously acquired from tcdbinfo.sh script and save.
 
 ![cnpg-pgadmin-creds](./img/cnpg-pgadmin-creds.png)
 
@@ -80,7 +80,7 @@ k3s kubectl scale deploy <app> -n ix-<app> --replicas=0
 
 ## Restore CNPG Databases
 
-1. Right click on the database and select resotre as shown below in PGAdmin.
+1. Right click on the database and select restore as shown below in PGAdmin.
 
 ![cnpg-pgadmin-restore](./img/cnpg-pgadmin-restore.png)
 

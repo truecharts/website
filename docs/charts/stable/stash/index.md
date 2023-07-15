@@ -1,6 +1,6 @@
 # stash
 
-![Version: 10.0.24](https://img.shields.io/badge/Version-10.0.24-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.20.2"](https://img.shields.io/badge/AppVersion-"0.20.2"-informational?style=flat-square)
+![Version: 10.0.25](https://img.shields.io/badge/Version-10.0.25-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.21.0"](https://img.shields.io/badge/AppVersion-"0.21.0"-informational?style=flat-square)
 
 An organizer for your porn, written in Go
 

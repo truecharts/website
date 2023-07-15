@@ -63,11 +63,11 @@ We also recommend installing [Heavyscript](https://github.com/Heavybullets8/heav
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
 
-## CNPG Operator installation and migration guide for older users
+## CNPG and Prometheus Operators installation and migration guide for older users
 
 <img src={require('./img/icons/cnpg.png').default} alt="CloudNative-PG"  width="150" height="150" />
 
-Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `Cloudnative-PG Operator` first before attempting to install apps. Please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing this Operator and migrating for those not using the CNPG operator.
+Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `Cloudnative-PG`/`Prometheus` operators first before attempting to install apps. Please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing this Operator and migrating for those not using the CNPG operator. As well, see this [News artcile](https://truecharts.org/news#prometheus) on removing the old built-in prometheus operator
 
 ## Clusterissuer (formerly called Cert-Manager) installation for certificate management
 
@@ -77,13 +77,13 @@ TrueCharts only supports the usage of `clusterissuer` for certificate management
 
 ## Blocky DNS provider for split-DNS installation and guide
 
-<img src={require('./img/icons/blocky.png').default} alt="Example banner"  width="150" height="150" />
+<img src={require('./img/icons/blocky.png').default} alt="Blocky"  width="150" height="150" />
 
 Blocky is the preferred DNS solution for TrueCharts, it's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [BlockySetup-Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
 ## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
 
-<img src={require('./img/icons/traefik.webp').default} alt="Example banner"  width="150" height="150" />
+<img src={require('./img/icons/traefik.webp').default} alt="Traefik"  width="150" height="150" />
 
 `Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/enterprise/traefik/how-to) for basic instructions and a video as well.
 

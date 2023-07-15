@@ -2,6 +2,11 @@
 
 
 
+## [grafana-7.0.58](https://github.com/truecharts/charts/compare/grafana-7.0.57...grafana-7.0.58) (2023-07-12)
+
+
+
+
 ## [grafana-7.0.57](https://github.com/truecharts/charts/compare/grafana-7.0.56...grafana-7.0.57) (2023-07-01)
 
 ### Chore
