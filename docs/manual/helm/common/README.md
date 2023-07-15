@@ -8,6 +8,7 @@ This options should not need to be changed per chart.
 | :----------------------------------------------------------------- | :-------: | :------: | :----------------: | :---------: | :----------------------------------------------------------------------------- |
 | .Values.global.labels                                              |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Labels that apply to all objects                                    |
 | .Values.global.annotations                                         |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Annotations that apply to all objects                               |
+| .Values.global.namespace                                           | `string`  |    ❌    |         ✅         |    `""`     | Namespace to apply to all objects, also applies to chart deps                    |
 | .Values.global.minNodePort                                         |   `int`   |    ✅    |         ❌         |   `9000`    | Minimum Node Port Allowed                                                      |
 | .Values.global.namespace                                           | `string`  |    ❌    |         ✅         |    `""`     | Define the namespace to use for all objects, including dependencies            |
 | .Values.global.createTCNamespace                                   | `boolean` |    ❌    |         ❌         |   `true`    | Whether to create tc-system namespace                                          |
@@ -68,6 +69,7 @@ global:
   annotations:
     key: value
     keytpl: "{{ .Values.some.value }}"
+  namespace: ""
   minNodePort: 9000
   namespace: some-namespace
   createTCNamespace: true
@@ -122,7 +124,7 @@ but still have the ability to override them on the pod/container level, in case 
 | Key                                              |   Type    | Required | Helm Template |  Default  | Description                                                            |
 | :----------------------------------------------- | :-------: | :------: | :-----------: | :-------: | :--------------------------------------------------------------------- |
 | .Values.TZ                                       | `string`  |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                            |
-| .Values.namespace                                | `string`  |    ❌    |      ✅       |   `""`    | Define the namespace to use for all objects, excluding dependencies    |
+| .Values.namespace                                | `string`  |    ❌    |      ✅       |    `""`   | Namespace to apply to all objects, does not apply to chart deps        |
 | .Values.containerOptions                         |  `dict`   |    ✅    |      ❌       | See below | Container options that apply to all containers                         |
 | .Values.containerOptions.NVIDIA_CAPS             |  `list`   |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)                     |
 | .Values.resources                                |  `dict`   |    ✅    |      ❌       | See below | Resources                                                              |
@@ -153,6 +155,7 @@ but still have the ability to override them on the pod/container level, in case 
 Defaults:
 
 ```yaml
+namespace: ""
 TZ: UTC
 namespace: ""
 containerOptions:

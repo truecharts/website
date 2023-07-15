@@ -6,7 +6,7 @@
 | rbac.[rbac-name]                         |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds rbac definition                                                     |
 | rbac.[rbac-name].enabled                 | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the rbac                                              |
 | rbac.[rbac-name].primary                 | `boolean` |    ❌    |         ❌         | `false` | Sets the rbac as primary                                                  |
-| rbac.[rbac-name].namespace               | `string`  |    ✅    |         ❌         |  `""`   | Sets the namespace for the rbac                                           |
+| rbac.[rbac-name].namespace               | `string`  |    ❌    |         ✅         |  `""`   | Define the namespace for this object (Only when clusterWide is false)     |
 | rbac.[rbac-name].clusterWide             | `boolean` |    ❌    |         ❌         | `false` | Sets the rbac as cluster wide (ClusterRole, ClusterRoleBinding)           |
 | rbac.[rbac-name].labels                  |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for rbac                                                |
 | rbac.[rbac-name].annotations             |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for rbac                                           |
