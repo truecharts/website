@@ -78,7 +78,7 @@ The intro needs improvement ;)
 |crafty-4                  |logs                  |PVC      |-              |/crafty/logs                                         |Read/Write|Enabled                |
 |crafty-4                  |import                |PVC      |-              |/crafty/import                                       |Read/Write|Enabled                |
 |crafty-4                  |backups               |PVC      |-              |/crafty/backups                                      |Read/Write|Enabled                |
-|cryptofolio               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|cryptofolio               |data                  |PVC      |-              |/var/www/html/api/data                               |Read/Write|Enabled                |
 |cura-novnc                |homefolder            |PVC      |-              |/home/cura/                                          |Read/Write|Enabled                |
 |cura-novnc                |prints                |PVC      |-              |/prints/                                             |Read/Write|Enabled                |
 |custom-app                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -1243,6 +1243,9 @@ The intro needs improvement ;)
 |stationeers                    |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |stationeers                    |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |statping-ng                    |data                       |PVC      |-                |/app                                             |Read/Write|Enabled                |
+|steam-headless                 |home                       |PVC      |-                |/home/default                                    |Read/Write|Enabled                |
+|steam-headless                 |games                      |PVC      |-                |/mnt/games                                       |Read/Write|Enabled                |
+|steam-headless                 |flatpak                    |PVC      |-                |/var/lib/flatpak                                 |Read/Write|Enabled                |
 |storm                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |stun-turn-server               |containerpath              |PVC      |-                |/stun-turn                                       |Read/Write|Enabled                |
 |suistartpage                   |appdata                    |PVC      |-                |/usr/share/nginx/html                            |Read/Write|Enabled                |
