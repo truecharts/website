@@ -4,7 +4,7 @@
 | :-------------------------------------------------------- | :---------------: | :------: | :----------------: | :-----: | :--------------------------------------------------------------------------------- |
 | podDisruptionBudget                                       |      `dict`       |    ❌    |         ❌         |  `{}`   | Define the PDBs as dicts                                                           |
 | podDisruptionBudget.[pdb-name]                            |      `dict`       |    ✅    |         ❌         |  `{}`   | Holds PDB definition                                                               |
-| podDisruptionBudget.[pdb-name].namespace                  |     `string`      |    ❌    |         ✅         |  `""`   | Explicitly define the namespace                                                    |
+| podDisruptionBudget.[pdb-name].namespace                  |     `string`      |    ❌    |         ✅         |  `""`   | Define the namespace for this object                                               |
 | podDisruptionBudget.[pdb-name].enabled                    |     `boolean`     |    ✅    |         ❌         | `false` | Enables or Disables the PDB                                                        |
 | podDisruptionBudget.[pdb-name].labels                     |      `dict`       |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for PDB                                                          |
 | podDisruptionBudget.[pdb-name].annotations                |      `dict`       |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for PDB                                                     |
