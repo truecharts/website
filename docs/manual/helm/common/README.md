@@ -10,7 +10,6 @@ This options should not need to be changed per chart.
 | .Values.global.annotations                                         |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Annotations that apply to all objects                               |
 | .Values.global.namespace                                           | `string`  |    ❌    |         ✅         |    `""`     | Namespace to apply to all objects, also applies to chart deps                    |
 | .Values.global.minNodePort                                         |   `int`   |    ✅    |         ❌         |   `9000`    | Minimum Node Port Allowed                                                      |
-| .Values.global.namespace                                           | `string`  |    ❌    |         ✅         |    `""`     | Define the namespace to use for all objects, including dependencies            |
 | .Values.global.createTCNamespace                                   | `boolean` |    ❌    |         ❌         |   `true`    | Whether to create tc-system namespace                                          |
 | .Values.fallbackDefaults.probeType                                 | `string`  |    ✅    |         ❌         |   `http`    | Default probe type when not defined in the container level                     |
 | .Values.fallbackDefaults.serviceProtocol                           | `string`  |    ✅    |         ❌         |    `tcp`    | Default service protocol when not defined in the service                       |
@@ -71,7 +70,6 @@ global:
     keytpl: "{{ .Values.some.value }}"
   namespace: ""
   minNodePort: 9000
-  namespace: some-namespace
   createTCNamespace: true
 
 faillbackDefaults:
@@ -155,7 +153,6 @@ but still have the ability to override them on the pod/container level, in case 
 Defaults:
 
 ```yaml
-namespace: ""
 TZ: UTC
 namespace: ""
 containerOptions:
