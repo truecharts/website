@@ -6,6 +6,7 @@
 | serviceAccount.[sa-name]                 |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds service account definition                        |
 | serviceAccount.[sa-name].enabled         | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the service account                 |
 | serviceAccount.[sa-name].primary         | `boolean` |    ❌    |         ❌         | `false` | Sets the service account as primary                     |
+| serviceAccount.[sa-name].namespace       | `string`  |    ❌    |         ✅         |  `""`   | Define the namespace for this object                    |
 | serviceAccount.[sa-name].labels          |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for service account                   |
 | serviceAccount.[sa-name].annotations     |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for service account              |
 | serviceAccount.[sa-name].targetSelectAll | `boolean` |    ❌    |         ❌         |         | Whether to assign the serviceAccount to all pods or not |
@@ -37,6 +38,7 @@ serviceAccount:
   sa-name:
     enabled: true
     primary: true
+    namespace: some-namespace
     labels:
       key: value
       keytpl: "{{ .Values.some.value }}"
