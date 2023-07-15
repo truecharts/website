@@ -101,6 +101,7 @@ workload:
   workload-name:
     enabled: true
     primary: true
+    namespace: some-namespace
     labels:
       key: value
     annotations:

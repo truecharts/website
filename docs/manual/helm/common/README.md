@@ -153,8 +153,8 @@ but still have the ability to override them on the pod/container level, in case 
 Defaults:
 
 ```yaml
-namespace: ""
 TZ: UTC
+namespace: ""
 containerOptions:
   NVIDIA_CAPS:
     - all

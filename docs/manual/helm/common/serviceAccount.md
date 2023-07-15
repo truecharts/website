@@ -49,6 +49,7 @@ serviceAccount:
 
   other-sa-name:
     enabled: true
+    namespace: some-namespace
     targetSelector:
       - pod-name
       - other-pod-name
