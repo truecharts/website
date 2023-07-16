@@ -435,7 +435,7 @@ they should provide no or minimal conflicts without being changed.
 |cops                      |main           |main           |10609|http    |Active             |-                                                                                                                                                                                                             |
 |romm                      |main           |main           |10680|http    |Active             |-                                                                                                                                                                                                             |
 |traggo                    |main           |main           |12117|http    |Active             |-                                                                                                                                                                                                             |
-|docusaurus                |main           |main           |13080|http    |Active             |-                                                                                                                                                                                                             |
+|docusaurus                |main           |main           |13080|http    |Active             |Potential conflict with: seafile                                                                                                                                                                              |
 |storj-node                |main           |main           |14002|TCP     |Active             |-                                                                                                                                                                                                             |
 |satisfactory              |beacon         |beacon         |15000|udp     |Active             |-                                                                                                                                                                                                             |
 |satisfactory              |query          |query          |15777|udp     |Active             |-                                                                                                                                                                                                             |
@@ -1093,6 +1093,7 @@ they should provide no or minimal conflicts without being changed.
 |hurtworld                      |main              |main           |12871|UDP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |hurtworld                      |queryport         |queryport      |12881|UDP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |firezone                       |main              |main           |13000|http    |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
+|seafile                        |main              |main           |13080|http    |Active             |Potential conflict with: docusaurus                                                                                                                                                                                                                                                                                                                          |
 |fotosho                        |main              |main           |13377|TCP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |tasmocompiler                  |main              |main           |14003|http    |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
 |necesse                        |udpgameport       |udpgameport    |14159|UDP     |Active             |-                                                                                                                                                                                                                                                                                                                                                            |
@@ -1247,7 +1248,6 @@ they should provide no or minimal conflicts without being changed.
 |blocky        |dnstcp      |dnstcp      |53   |TCP     |Active             |Potential conflict with: adguard-home mosdns lancache-dns pihole technitium dns-doh-companion gravity |
 |blocky        |dnsudp      |dnsudp      |53   |udp     |Active             |-                                                                                                     |
 |blocky        |dot         |dot         |853  |tcp     |Active             |-                                                                                                     |
-|vaultwarden   |ws          |ws          |3012 |TCP     |Active             |-                                                                                                     |
 |blocky        |main        |main        |4000 |http    |Active             |-                                                                                                     |
 |blocky        |https       |https       |4443 |https   |Active             |-                                                                                                     |
 |blocky        |k8sgateway  |k8sgateway  |5353 |udp     |Active             |-                                                                                                     |
@@ -1266,14 +1266,15 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|cloudnative-pg     |cnpg-webhook-service|webhook      |443 |https   |Active|-   |
-|metallb            |main                |main         |443 |TCP     |Active|-   |
-|metallb            |controllermon       |controllermon|7472|TCP     |Active|-   |
-|metallb            |speakermon          |speakermon   |7473|TCP     |Active|-   |
-|metallb            |memberlist          |memberlisttcp|7946|tcp     |Active|-   |
-|metallb            |memberlist          |memberlistudp|7946|udp     |Active|-   |
-|cloudnative-pg     |main                |main         |8080|http    |Active|-   |
-|prometheus-operator|main                |main         |8080|http    |Active|-   |
+|cert-manager       |main                |-            |-   |-       |Service is Disabled|-   |
+|cloudnative-pg     |cnpg-webhook-service|webhook      |443 |https   |Active             |-   |
+|metallb            |main                |main         |443 |TCP     |Active             |-   |
+|metallb            |controllermon       |controllermon|7472|TCP     |Active             |-   |
+|metallb            |speakermon          |speakermon   |7473|TCP     |Active             |-   |
+|metallb            |memberlist          |memberlisttcp|7946|tcp     |Active             |-   |
+|metallb            |memberlist          |memberlistudp|7946|udp     |Active             |-   |
+|cloudnative-pg     |main                |main         |8080|http    |Active             |-   |
+|prometheus-operator|main                |main         |8080|http    |Active             |-   |
 
 ## Official Apps
 

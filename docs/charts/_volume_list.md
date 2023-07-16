@@ -1182,6 +1182,7 @@ The intro needs improvement ;)
 |scrypted                       |media                      |PVC      |-                |/media/external                                  |Read/Write|Enabled                |
 |sdtd                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |sdtd                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
+|seafile                        |config                     |PVC      |-                |/shared/seafile                                  |Read/Write|Enabled                |
 |searx                          |config                     |PVC      |-                |/etc/searx                                       |Read/Write|Enabled                |
 |searxng                        |config                     |PVC      |-                |/etc/searxng                                     |Read/Write|Enabled                |
 |seedsync                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
@@ -1381,6 +1382,7 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
+|cert-manager       |-                   |-       |-       |-          |-         |Persistence not Defined|
 |cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
 |cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
 |metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
