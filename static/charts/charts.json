@@ -1,10 +1,18 @@
 {
-    "totalCount": 817,
+    "totalCount": 818,
     "trains": [
         {
             "name": "operators",
-            "count": 3,
+            "count": 4,
             "charts": [
+                {
+                    "name": "cert-manager",
+                    "description": "Cert-Manager is a kubernetes-aware certificate manager",
+                    "train": "operators",
+                    "link": "https://truecharts.org/charts/operators/cert-manager",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png",
+                    "version": "0.0.1"
+                },
                 {
                     "name": "cloudnative-pg",
                     "description": "CloudNativePG is a clustered postgresql database operator",
@@ -33,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 343,
+            "count": 344,
             "charts": [
                 {
                     "name": "actualserver",
@@ -281,7 +289,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/budge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/budge.png",
-                    "version": "5.0.32"
+                    "version": "5.0.33"
                 },
                 {
                     "name": "calibre-web",
@@ -889,7 +897,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/grav",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grav.png",
-                    "version": "7.0.30"
+                    "version": "7.0.31"
                 },
                 {
                     "name": "grocy",
@@ -1033,7 +1041,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/immich",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/immich.png",
-                    "version": "7.1.5"
+                    "version": "7.1.6"
                 },
                 {
                     "name": "impostor-server",
@@ -1217,7 +1225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lazylibrarian",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.png",
-                    "version": "14.0.35"
+                    "version": "14.0.36"
                 },
                 {
                     "name": "leaf2mqtt",
@@ -1241,7 +1249,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "2.0.77"
+                    "version": "2.0.81"
                 },
                 {
                     "name": "librespeed",
@@ -1820,6 +1828,14 @@
                     "version": "5.0.22"
                 },
                 {
+                    "name": "piwigo",
+                    "description": "A photo gallery software for the web.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/incubator/piwigo",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/piwigo.png",
+                    "version": "6.1.1"
+                },
+                {
                     "name": "pixapop",
                     "description": "An open-source single page application to view your photos in the easiest way possible.",
                     "train": "stable",
@@ -2137,7 +2153,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.97"
+                    "version": "7.0.102"
                 },
                 {
                     "name": "sabnzbd",
@@ -2489,7 +2505,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tvheadend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tvheadend.png",
-                    "version": "15.0.36"
+                    "version": "15.0.37"
                 },
                 {
                     "name": "twtxt",
@@ -2705,7 +2721,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/xen-orchestra",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/xen-orchestra.png",
-                    "version": "4.0.29"
+                    "version": "4.0.30"
                 },
                 {
                     "name": "xteve",
@@ -2839,7 +2855,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/traefik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png",
-                    "version": "18.1.0"
+                    "version": "18.1.1"
                 },
                 {
                     "name": "vaultwarden",
@@ -2847,13 +2863,13 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/vaultwarden",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png",
-                    "version": "20.0.34"
+                    "version": "20.2.0"
                 }
             ]
         },
         {
             "name": "incubator",
-            "count": 455,
+            "count": 454,
             "charts": [
                 {
                     "name": "acestream",
@@ -5158,14 +5174,6 @@
                     "link": "https://truecharts.org/charts/incubator/pingvin-share",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pingvin-share.png",
                     "version": "0.0.23"
-                },
-                {
-                    "name": "piwigo",
-                    "description": "A photo gallery software for the web.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/piwigo",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/piwigo.png",
-                    "version": "6.0.0"
                 },
                 {
                     "name": "pixark",
