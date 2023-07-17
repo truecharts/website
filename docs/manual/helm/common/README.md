@@ -297,6 +297,8 @@ Additional Documentation:
 - [imagePullSecrets](imagePullSecrets.md)
 - [serviceAccount](serviceAccount.md)
 - [rbac](rbac.md)
+- [podDisruptionBudget](podDisruptionBudget.md)
+- [webhook](webhook.md)
 - [scaleGPU](scaleGPU.md)
 - [scaleCertificate](scaleCertificate.md)
 - [scaleExternalInterface](scaleExternalInterface.md)
