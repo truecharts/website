@@ -379,6 +379,9 @@ The intro needs improvement ;)
 |pihole                    |config                |PVC      |-              |/etc/pihole                                          |Read/Write|Enabled                |
 |pihole                    |dnsmasq               |PVC      |-              |/etc/dnsmasq.d                                       |Read/Write|Enabled                |
 |pinry                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|piwigo                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|piwigo                    |gallery               |PVC      |-              |/gallery                                             |Read/Write|Enabled                |
+|piwigo                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |pixapop                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pixapop                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |plaxt                     |config                |PVC      |-              |/app/keystore                                        |Read/Write|Enabled                |
@@ -1079,9 +1082,6 @@ The intro needs improvement ;)
 |pigallery2                     |image                      |PVC      |-                |/app/data/images/                                |Read Only |Enabled                |
 |pigallery2                     |tmp                        |PVC      |-                |/app/data/tmp                                    |Read/Write|Enabled                |
 |pingvin-share                  |data                       |PVC      |-                |/opt/app/backend/data                            |Read/Write|Enabled                |
-|piwigo                         |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
-|piwigo                         |gallery                    |PVC      |-                |/gallery                                         |Read/Write|Enabled                |
-|piwigo                         |varrun                     |emptyDir |-                |/var/run                                         |Read/Write|Enabled                |
 |pixark                         |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |pixark                         |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |pixelserv-tls                  |certficatesdir             |PVC      |-                |/var/cache/pixelserv                             |Read/Write|Enabled                |
@@ -1182,7 +1182,7 @@ The intro needs improvement ;)
 |scrypted                       |media                      |PVC      |-                |/media/external                                  |Read/Write|Enabled                |
 |sdtd                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |sdtd                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
-|seafile                        |config                     |PVC      |-                |/shared/seafile                                  |Read/Write|Enabled                |
+|seafile                        |storage                    |PVC      |-                |/shared/seafile                                  |Read/Write|Enabled                |
 |searx                          |config                     |PVC      |-                |/etc/searx                                       |Read/Write|Enabled                |
 |searxng                        |config                     |PVC      |-                |/etc/searxng                                     |Read/Write|Enabled                |
 |seedsync                       |config                     |PVC      |-                |/config                                          |Read/Write|Enabled                |
