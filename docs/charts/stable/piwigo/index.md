@@ -1,6 +1,6 @@
 # piwigo
 
-![Version: 6.1.1](https://img.shields.io/badge/Version-6.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "13.7.0"](https://img.shields.io/badge/AppVersion-"13.7.0"-informational?style=flat-square)
+![Version: 6.1.2](https://img.shields.io/badge/Version-6.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "13.8.0"](https://img.shields.io/badge/AppVersion-"13.8.0"-informational?style=flat-square)
 
 A photo gallery software for the web.
 
