@@ -829,6 +829,9 @@ The intro needs improvement ;)
 |fsm                            |-                          |-        |-                |-                                                |-         |Persistence not Defined|
 |funkwhale                      |data                       |PVC      |-                |/data                                            |Read/Write|Enabled                |
 |funkwhale                      |musicpath                  |PVC      |-                |/music                                           |Read Only |Enabled                |
+|gamevault-backend              |logs                       |PVC      |-                |/logs                                            |Read/Write|Enabled                |
+|gamevault-backend              |images                     |PVC      |-                |/images                                          |Read/Write|Enabled                |
+|gamevault-backend              |games                      |PVC      |-                |/games                                           |Read/Write|Enabled                |
 |garrysmod                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                          |Read/Write|Enabled                |
 |garrysmod                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                             |Read/Write|Enabled                |
 |genea                          |-                          |-        |-                |-                                                |-         |Persistence not Defined|
