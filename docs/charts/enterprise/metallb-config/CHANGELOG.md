@@ -2,6 +2,15 @@
 
 
 
+## [metallb-config-2.0.0](https://github.com/truecharts/charts/compare/metallb-config-1.1.12...metallb-config-2.0.0) (2023-07-19)
+
+### Chore
+
+- update helm chart common to 13.2.0 ([#10555](https://github.com/truecharts/charts/issues/10555))
+  
+  
+
+
 ## [metallb-config-1.1.12](https://github.com/truecharts/charts/compare/metallb-config-1.1.11...metallb-config-1.1.12) (2023-07-14)
 
 ### Chore

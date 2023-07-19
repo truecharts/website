@@ -2,6 +2,15 @@
 
 
 
+## [vaultwarden-21.0.0](https://github.com/truecharts/charts/compare/vaultwarden-20.2.0...vaultwarden-21.0.0) (2023-07-19)
+
+### Chore
+
+- update helm chart common to 13.2.0 ([#10555](https://github.com/truecharts/charts/issues/10555))
+  
+  
+
+
 ## [vaultwarden-20.2.0](https://github.com/truecharts/charts/compare/vaultwarden-20.1.0...vaultwarden-20.2.0) (2023-07-15)
 
 ### Feat
