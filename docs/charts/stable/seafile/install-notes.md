@@ -1,4 +1,4 @@
-# Seafile installation notes and guidelines
+# Seaile installation notes and guidelines
 
 ## Ingress
 
