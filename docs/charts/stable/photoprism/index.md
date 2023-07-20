@@ -1,6 +1,6 @@
 # photoprism
 
-![Version: 14.0.30](https://img.shields.io/badge/Version-14.0.30-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "230625"](https://img.shields.io/badge/AppVersion-"230625"-informational?style=flat-square)
+![Version: 14.0.31](https://img.shields.io/badge/Version-14.0.31-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "230719"](https://img.shields.io/badge/AppVersion-"230719"-informational?style=flat-square)
 
 PhotoPrismÂ® is a server-based application for browsing, organizing and sharing your personal photo collection
 
