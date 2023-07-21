@@ -1,5 +1,9 @@
 # Plex Installation Notes
 
+## Public Port
+
+- The LAN port used by Plex (32400) is hardcoded and cannot be changed. Because of this do not change the port in the Plex app config from 32400. If you need to run Plex on a different public port you will need to setup port forwarding on a router from the public port to 32400 on your server IP. You will also need to change the public port in the remote access section of Plex settings.
+
 ## Transcode Folder
 
 - By default the Plex transcode folder is not configured. The recommend setup is emptyDir.
