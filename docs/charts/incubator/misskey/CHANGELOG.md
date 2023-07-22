@@ -2,6 +2,11 @@
 
 
 
+## [misskey-4.0.1](https://github.com/truecharts/charts/compare/misskey-4.0.0...misskey-4.0.1) (2023-07-22)
+
+
+
+
 ## [misskey-4.0.0](https://github.com/truecharts/charts/compare/misskey-3.0.43...misskey-4.0.0) (2023-07-22)
 
 ### Feat
