@@ -248,7 +248,7 @@ The intro needs improvement ;)
 |libreddit                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |libremdb                  |config                |PVC      |-              |/opt/app                                             |Read/Write|Enabled                |
 |librespeed                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|lidarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|lidarr                    |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |linkding                  |data                  |PVC      |-              |/etc/linkding/data                                   |Read/Write|Enabled                |
 |littlelink                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |lldap                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -410,7 +410,7 @@ The intro needs improvement ;)
 |projectsend               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |projectsend               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |promcord                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|prowlarr                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|prowlarr                  |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |prusaslicer-novnc         |configsfolder         |PVC      |-              |/configs/                                            |Read/Write|Enabled                |
 |prusaslicer-novnc         |prints                |PVC      |-              |/prints/                                             |Read/Write|Enabled                |
 |putty                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -429,10 +429,10 @@ The intro needs improvement ;)
 |quassel-core              |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |quassel-web               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |quassel-web               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|radarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|radarr                    |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |rcon-webadmin             |db                    |PVC      |-              |/opt/rcon-web-admin/db                               |Read/Write|Enabled                |
 |rdesktop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|readarr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|readarr                   |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |recyclarr                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |redmine                   |data                  |PVC      |-              |/usr/src/redmine/files                               |Read/Write|Enabled                |
 |reg                       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -476,7 +476,7 @@ The intro needs improvement ;)
 |soft-serve                |config                |PVC      |-              |/soft-serve                                          |Read/Write|Enabled                |
 |soft-serve                |ssh                   |PVC      |-              |/.ssh                                                |Read/Write|Enabled                |
 |soft-serve                |repos                 |PVC      |-              |/repos                                               |Read/Write|Enabled                |
-|sonarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|sonarr                    |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |speedtest-exporter        |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |spotweb                   |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |sqlitebrowser             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
