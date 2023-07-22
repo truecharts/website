@@ -2,6 +2,11 @@
 
 
 
+## [photostructure-3.0.1](https://github.com/truecharts/charts/compare/photostructure-3.0.0...photostructure-3.0.1) (2023-07-22)
+
+
+
+
 ## [photostructure-3.0.0](https://github.com/truecharts/charts/compare/photostructure-2.0.9...photostructure-3.0.0) (2023-07-08)
 
 ### Feat
