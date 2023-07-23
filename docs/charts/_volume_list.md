@@ -264,6 +264,7 @@ The intro needs improvement ;)
 |mattermost                |clientplugins         |PVC      |-              |/mattermost/client/plugins                           |Read/Write|Enabled                |
 |mattermost                |bleveindexes          |PVC      |-              |/mattermost/bleve-indexes                            |Read/Write|Enabled                |
 |mc-router                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|mealie                    |data                  |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |mediainfo                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mediainfo                 |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |medusa                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -989,7 +990,6 @@ The intro needs improvement ;)
 |maloja                         |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |mango                          |config                     |PVC      |-                |/root/.config/mango                             |Read/Write|Enabled                |
 |mango                          |data                       |PVC      |-                |/root/mango                                     |Read/Write|Enabled                |
-|mealie                         |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |media-roller                   |download                   |PVC      |-                |/download                                       |Read/Write|Enabled                |
 |mediaelch                      |mediaelch                  |PVC      |-                |/shows                                          |Read/Write|Enabled                |
 |mediagoblin                    |appdata                    |PVC      |-                |/var/lib/mediagoblin                            |Read/Write|Enabled                |
@@ -1005,7 +1005,7 @@ The intro needs improvement ;)
 |mineos                         |config                     |PVC      |-                |/var/games/minecraft                            |Read/Write|Enabled                |
 |miniflux                       |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |mininote                       |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
-|misskey                        |misskeyconfig              |configMap|-                |/misskey/.config                                |Read/Write|Enabled                |
+|misskey                        |misskeyconfig              |configmap|-                |/misskey/.config                                |Read/Write|Enabled                |
 |misskey                        |files                      |PVC      |-                |/misskey/files                                  |Read/Write|Enabled                |
 |ml-workspace                   |workspace                  |PVC      |-                |/workspace                                      |Read/Write|Enabled                |
 |ml-workspace                   |shm                        |emptyDir |-                |/dev/shm                                        |Read/Write|Enabled                |
