@@ -6,9 +6,9 @@ authors: [kqmaverick]
 
 As part of limiting our promise not to introduce breaking changes to the charts within our Enterprise train, we've ensured both the new and old way of dealing with "operators" where both supported.
 
-Starting 01-08-2023, we will completely drop support for the old (pre-juli installs only, internal not user controlled) way of handling operators.
+Starting August 1, 2023, we will completely drop support for the old (pre-juli installs only, internal not user controlled) way of handling operators.
 
-After 01-08-2023, additional checks for operators will be enabled, preventing users from making the mistake of installing charts without the right operator from the operator train present. This means that charts would prevent themselves from being updated when you're still using the old operators at that time.
+After August 1, 2023, additional checks for operators will be enabled, preventing users from making the mistake of installing charts without the right operator from the operator train present. This means that charts would prevent themselves from being updated when you're still using the old operators at that time.
 
 If you have already installed the metallb, prometheus-operator, and cloudnative-pg operators then no further action is required.
 
