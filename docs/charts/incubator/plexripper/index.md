@@ -1,6 +1,6 @@
 # plexripper
 
-![Version: 4.0.2](https://img.shields.io/badge/Version-4.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.14.0"](https://img.shields.io/badge/AppVersion-"0.14.0"-informational?style=flat-square)
+![Version: 4.0.3](https://img.shields.io/badge/Version-4.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.14.0"](https://img.shields.io/badge/AppVersion-"0.14.0"-informational?style=flat-square)
 
 PlexRipper is a cross-platform media downloader that indexes the Plex servers you have access to and allows you to download everything while adding it to your own Plex server.
 

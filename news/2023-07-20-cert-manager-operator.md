@@ -4,7 +4,7 @@ title: "Cert-Manager Operator"
 authors: [kqmaverick]
 ---
 
-After building our own MetalLB, CNPG and Prometheus operator charts, we've also now finished the work on building our own Cert-Manager operator chart. As of today this chart will be a requirement for new users if they want to use Cert-Manager and required for all users starting 01-08-2023.
+After building our own MetalLB, CNPG and Prometheus operator charts, we've also now finished the work on building our own Cert-Manager operator chart. As of today this chart will be a requirement for new users if they want to use Cert-Manager and required for all users starting August 1, 2023.
 
 If you have already installed clusterissuer follow the below guidance for installation of the Cert-Manager operator chart.
 

@@ -248,7 +248,7 @@ The intro needs improvement ;)
 |libreddit                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |libremdb                  |config                |PVC      |-              |/opt/app                                             |Read/Write|Enabled                |
 |librespeed                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|lidarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|lidarr                    |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |linkding                  |data                  |PVC      |-              |/etc/linkding/data                                   |Read/Write|Enabled                |
 |littlelink                |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |lldap                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -264,6 +264,7 @@ The intro needs improvement ;)
 |mattermost                |clientplugins         |PVC      |-              |/mattermost/client/plugins                           |Read/Write|Enabled                |
 |mattermost                |bleveindexes          |PVC      |-              |/mattermost/bleve-indexes                            |Read/Write|Enabled                |
 |mc-router                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|mealie                    |data                  |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |mediainfo                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mediainfo                 |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |medusa                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -410,7 +411,7 @@ The intro needs improvement ;)
 |projectsend               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |projectsend               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |promcord                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|prowlarr                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|prowlarr                  |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |prusaslicer-novnc         |configsfolder         |PVC      |-              |/configs/                                            |Read/Write|Enabled                |
 |prusaslicer-novnc         |prints                |PVC      |-              |/prints/                                             |Read/Write|Enabled                |
 |putty                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -429,10 +430,10 @@ The intro needs improvement ;)
 |quassel-core              |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |quassel-web               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |quassel-web               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|radarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|radarr                    |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |rcon-webadmin             |db                    |PVC      |-              |/opt/rcon-web-admin/db                               |Read/Write|Enabled                |
 |rdesktop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
-|readarr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|readarr                   |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |recyclarr                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |redmine                   |data                  |PVC      |-              |/usr/src/redmine/files                               |Read/Write|Enabled                |
 |reg                       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -476,7 +477,7 @@ The intro needs improvement ;)
 |soft-serve                |config                |PVC      |-              |/soft-serve                                          |Read/Write|Enabled                |
 |soft-serve                |ssh                   |PVC      |-              |/.ssh                                                |Read/Write|Enabled                |
 |soft-serve                |repos                 |PVC      |-              |/repos                                               |Read/Write|Enabled                |
-|sonarr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|sonarr                    |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |speedtest-exporter        |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |spotweb                   |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |sqlitebrowser             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -989,7 +990,6 @@ The intro needs improvement ;)
 |maloja                         |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |mango                          |config                     |PVC      |-                |/root/.config/mango                             |Read/Write|Enabled                |
 |mango                          |data                       |PVC      |-                |/root/mango                                     |Read/Write|Enabled                |
-|mealie                         |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |media-roller                   |download                   |PVC      |-                |/download                                       |Read/Write|Enabled                |
 |mediaelch                      |mediaelch                  |PVC      |-                |/shows                                          |Read/Write|Enabled                |
 |mediagoblin                    |appdata                    |PVC      |-                |/var/lib/mediagoblin                            |Read/Write|Enabled                |
@@ -1005,7 +1005,7 @@ The intro needs improvement ;)
 |mineos                         |config                     |PVC      |-                |/var/games/minecraft                            |Read/Write|Enabled                |
 |miniflux                       |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |mininote                       |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
-|misskey                        |misskeyconfig              |configMap|-                |/misskey/.config                                |Read/Write|Enabled                |
+|misskey                        |misskeyconfig              |configmap|-                |/misskey/.config                                |Read/Write|Enabled                |
 |misskey                        |files                      |PVC      |-                |/misskey/files                                  |Read/Write|Enabled                |
 |ml-workspace                   |workspace                  |PVC      |-                |/workspace                                      |Read/Write|Enabled                |
 |ml-workspace                   |shm                        |emptyDir |-                |/dev/shm                                        |Read/Write|Enabled                |

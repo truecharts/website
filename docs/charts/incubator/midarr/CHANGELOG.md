@@ -2,6 +2,11 @@
 
 
 
+## [midarr-4.0.1](https://github.com/truecharts/charts/compare/midarr-4.0.0...midarr-4.0.1) (2023-07-22)
+
+
+
+
 ## [midarr-4.0.0](https://github.com/truecharts/charts/compare/midarr-3.0.22...midarr-4.0.0) (2023-07-14)
 
 ### Feat
