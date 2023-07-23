@@ -8,7 +8,7 @@ TrueCharts applications are designed to use the `apps` (568) user for data permi
 
 :::info ACL
 
-If your existing dataset shows `Edit ACL`then you need to `Strip ACL`before continuing.
+If your existing dataset shows `Edit ACL` then you need to `Strip ACL` before continuing.
 
 :::
 
