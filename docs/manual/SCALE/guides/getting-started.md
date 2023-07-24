@@ -59,25 +59,25 @@ We also recommend installing [Heavyscript](https://github.com/Heavybullets8/heav
 
 ## MetalLB installation and disabling integrated LoadBalancer
 
-<img src={require('./img/icons/metallb.png').default} alt="MetalLb"  width="150" height="150" />
+![metallb](img/icons/metallb.png)
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
 
 ## CNPG and Prometheus Operators installation and migration guide for older users
 
-<img src={require('./img/icons/cnpg.png').default} alt="CloudNative-PG"  width="150" height="150" />
+![CNPG](img/icons/cnpg.png) ![Prometheus](img/icons/prometheus-operator.png)
 
 Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `Cloudnative-PG`/`Prometheus` operators first before attempting to install apps. Please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing this Operator and migrating for those not using the CNPG operator. As well, see this [News artcile](https://truecharts.org/news#prometheus) on removing the old built-in prometheus operator
 
-## Clusterissuer (formerly called Cert-Manager) installation for certificate management
+## Cert-Manager (operator) and Clusterissuer installation for certificate management
 
-<img src={require('./img/icons/clusterissuer.png').default} alt="Cert-Manager"  width="150" height="150" />
+![Cert-Manager](img/icons/cert-manager.png)
 
-TrueCharts only supports the usage of `clusterissuer` for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to) before adding `Ingress` to you applications.
+TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to) before adding `Ingress` to you applications.
 
 ## Blocky DNS provider for split-DNS installation and guide
 
-<img src={require('./img/icons/blocky.png').default} alt="Blocky"  width="150" height="150" />
+![Blocky](img/icons/blocky.png)
 
 Blocky is the preferred DNS solution for TrueCharts, it's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [BlockySetup-Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
@@ -89,7 +89,7 @@ Blocky is the preferred DNS solution for TrueCharts, it's a DNS proxy, DNS enhan
 
 ## Authelia Installation
 
-<img src={require('./img/icons/authelia.png').default} alt="Authelia"  width="150" height="150" />
+![Authelia](img/icons/authelia.png)
 
 Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info.
 
