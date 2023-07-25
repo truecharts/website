@@ -1,5 +1,5 @@
 {
-    "totalCount": 821,
+    "totalCount": 824,
     "trains": [
         {
             "name": "operators",
@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 348,
+            "count": 349,
             "charts": [
                 {
                     "name": "actualserver",
@@ -313,7 +313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/channels-dvr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/channels-dvr.png",
-                    "version": "2.1.1"
+                    "version": "2.1.2"
                 },
                 {
                     "name": "chevereto",
@@ -593,7 +593,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dokuwiki",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dokuwiki.png",
-                    "version": "6.0.31"
+                    "version": "6.0.32"
                 },
                 {
                     "name": "domoticz",
@@ -916,6 +916,14 @@
                     "version": "14.0.23"
                 },
                 {
+                    "name": "guacamole",
+                    "description": "Apache Guacamole is a clientless remote desktop gateway.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/guacamole",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/guacamole.png",
+                    "version": "9.0.0"
+                },
+                {
                     "name": "guacd",
                     "description": "Guacd - Apache Guacamole is a clientless remote desktop gateway.",
                     "train": "stable",
@@ -1217,7 +1225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lancache-monolithic",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lancache-monolithic.png",
-                    "version": "4.0.15"
+                    "version": "4.0.16"
                 },
                 {
                     "name": "lanraragi",
@@ -1945,7 +1953,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/projectsend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.png",
-                    "version": "7.1.2"
+                    "version": "7.1.3"
                 },
                 {
                     "name": "promcord",
@@ -1985,7 +1993,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pwndrop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pwndrop.png",
-                    "version": "5.0.31"
+                    "version": "5.0.32"
                 },
                 {
                     "name": "pyload",
@@ -2041,7 +2049,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/quassel-core",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/quassel-core.png",
-                    "version": "7.0.32"
+                    "version": "7.0.33"
                 },
                 {
                     "name": "quassel-web",
@@ -2073,7 +2081,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "4.0.131"
+                    "version": "4.0.140"
                 },
                 {
                     "name": "readarr",
@@ -2177,7 +2185,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "7.0.112"
+                    "version": "7.0.114"
                 },
                 {
                     "name": "sabnzbd",
@@ -2673,7 +2681,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "5.0.90"
+                    "version": "5.0.95"
                 },
                 {
                     "name": "wekan",
@@ -2901,7 +2909,7 @@
         },
         {
             "name": "incubator",
-            "count": 453,
+            "count": 455,
             "charts": [
                 {
                     "name": "acestream",
@@ -4160,14 +4168,6 @@
                     "version": "8.0.0"
                 },
                 {
-                    "name": "guacamole-client",
-                    "description": "Apache Guacamole is a clientless remote desktop gateway.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/guacamole-client",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/guacamole-client.png",
-                    "version": "8.0.0"
-                },
-                {
                     "name": "guide2go",
                     "description": "a xml grabber from schedule direct service",
                     "train": "incubator",
@@ -4614,6 +4614,14 @@
                     "link": "https://truecharts.org/charts/incubator/llalon-github-backup",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/llalon-github-backup.png",
                     "version": "2.0.8"
+                },
+                {
+                    "name": "local-ai",
+                    "description": "Self-hosted, community-driven, local OpenAI-compatible API.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/local-ai",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/local-ai.png",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "loki",
@@ -5472,6 +5480,14 @@
                     "version": "2.0.12"
                 },
                 {
+                    "name": "rdtclient",
+                    "description": "This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Premiumize.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/rdtclient",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdtclient.png",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "reactive-resume",
                     "description": "A one-of-a-kind resume builder that keeps your privacy in mind.",
                     "train": "incubator",
@@ -5814,6 +5830,14 @@
                     "link": "https://truecharts.org/charts/incubator/slack-invite",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/slack-invite.png",
                     "version": "2.0.9"
+                },
+                {
+                    "name": "slash",
+                    "description": "A bookmarking and link shortening service that enables easy saving and sharing of links.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/slash",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/slash.png",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "snipe-it",
