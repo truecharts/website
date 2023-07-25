@@ -171,6 +171,9 @@ The intro needs improvement ;)
 |grav                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |grav                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |grocy                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|guacamole                 |recordings            |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|guacamole                 |tc-init               |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|guacamole                 |db-seed               |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |guacd                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |hammond                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |hammond                   |assets                |PVC      |-              |/assets                                              |Read/Write|Enabled                |
@@ -872,7 +875,6 @@ The intro needs improvement ;)
 |gridcoinwalletgui              |appdataconfigpath          |PVC      |-                |/headless/.GridcoinResearch/                    |Read/Write|Enabled                |
 |gridcoinwalletgui              |boincdatadir               |PVC      |-                |/var/lib/boinc-client/                          |Read/Write|Enabled                |
 |grist                          |persist                    |PVC      |-                |/persist                                        |Read/Write|Enabled                |
-|guacamole-client               |initdbdata                 |emptyDir |-                |/initdbdata                                     |Read/Write|Enabled                |
 |guide2go                       |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |guide2go                       |guide2go                   |PVC      |-                |/guide2go                                       |Read/Write|Enabled                |
 |guide2go                       |tvh                        |PVC      |-                |/TVH                                            |Read/Write|Enabled                |
@@ -977,6 +979,8 @@ The intro needs improvement ;)
 |livestreamdvr                  |hostpath4                  |PVC      |-                |/usr/local/share/twitchautomator/data/logs      |Read/Write|Enabled                |
 |llalon-github-backup           |backuplocation             |PVC      |-                |/home/docker/backups                            |Read/Write|Enabled                |
 |llalon-github-backup           |config                     |PVC      |-                |/home/docker/github-backup/config/              |Read/Write|Enabled                |
+|local-ai                       |models                     |PVC      |-                |/models                                         |Read/Write|Enabled                |
+|local-ai                       |images                     |PVC      |-                |/images                                         |Read/Write|Enabled                |
 |loki                           |config                     |secret   |-                |/etc/loki                                       |Read/Write|Enabled                |
 |longvinter                     |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |longvinter                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
