@@ -28,6 +28,12 @@ Create a user and assign it to the `apps` group under `Auxiliary Groups` as show
 
 Create an SMB Share as shown below. All settings should remain default except for `Auxiliary Parameters`.
 
+:::warning ACL
+
+After saving SMB settings TrueNAS Scale will launch an `Edit ACL` screen. Do **NOT** `Save Access Control List` as this will overwrite the previously configured permissions. You can make any selection from the TrueNAS GUI to exit this screen, SMB Share will still be configured.
+
+:::
+
 ![share-smb](./img/share-smb.png)
 
 ```bash
