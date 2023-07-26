@@ -1159,6 +1159,8 @@ The intro needs improvement ;)
 |raspberrymatic                 |modules                    |hostPath |/lib/modules     |/lib/modules                                    |Read Only |Enabled                |
 |raspberrymatic                 |sys                        |hostPath |/sys             |/sys                                            |Read/Write|Enabled                |
 |raspberrymatic                 |control                    |hostPath |/run/udev/control|/run/udev/control                               |Read/Write|Enabled                |
+|rdtclient                      |db                         |PVC      |-                |/data/db                                        |Read/Write|Enabled                |
+|rdtclient                      |config                     |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
 |reactive-resume                |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |recipes                        |media                      |PVC      |-                |/opt/recipes/mediafiles                         |Read/Write|Enabled                |
 |recipes                        |static                     |emptyDir |-                |/opt/recipes/staticfiles                        |Read/Write|Enabled                |
@@ -1224,6 +1226,7 @@ The intro needs improvement ;)
 |sinusbot                       |data                       |PVC      |-                |/opt/sinusbot/data                              |Read/Write|Enabled                |
 |sinusbot                       |scriptspath                |PVC      |-                |/opt/sinusbot/scripts                           |Read/Write|Enabled                |
 |slack-invite                   |-                          |-        |-                |-                                               |-         |Persistence not Defined|
+|slash                          |config                     |PVC      |-                |/var/opt/slash                                  |Read/Write|Enabled                |
 |snipe-it                       |logs                       |PVC      |-                |/var/www/html/storage/logs                      |Read/Write|Enabled                |
 |snipe-it                       |data                       |PVC      |-                |/var/lib/snipeit/data                           |Read/Write|Enabled                |
 |snipe-it                       |backups                    |PVC      |-                |/var/lib/snipeit/dumps                          |Read/Write|Enabled                |
