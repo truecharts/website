@@ -1,5 +1,5 @@
 {
-    "totalCount": 824,
+    "totalCount": 825,
     "trains": [
         {
             "name": "operators",
@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 349,
+            "count": 351,
             "charts": [
                 {
                     "name": "actualserver",
@@ -265,7 +265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/booksonic-air",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/booksonic-air.png",
-                    "version": "9.0.30"
+                    "version": "9.0.31"
                 },
                 {
                     "name": "bookstack",
@@ -449,7 +449,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cyberchef",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cyberchef.png",
-                    "version": "5.0.32"
+                    "version": "5.0.34"
                 },
                 {
                     "name": "czkawka",
@@ -921,7 +921,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/guacamole",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/guacamole.png",
-                    "version": "9.0.0"
+                    "version": "9.0.1"
                 },
                 {
                     "name": "guacd",
@@ -1265,7 +1265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "2.0.93"
+                    "version": "2.0.95"
                 },
                 {
                     "name": "librespeed",
@@ -1337,7 +1337,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mattermost",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mattermost.png",
-                    "version": "8.0.4"
+                    "version": "8.0.5"
                 },
                 {
                     "name": "mc-router",
@@ -1828,6 +1828,14 @@
                     "version": "6.0.21"
                 },
                 {
+                    "name": "photoview",
+                    "description": "Photoview is a simple and user-friendly photo gallery.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/photoview",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/photoview.png",
+                    "version": "9.0.2"
+                },
+                {
                     "name": "phpldapadmin",
                     "description": "Web-based LDAP browser to manage your LDAP server",
                     "train": "stable",
@@ -2169,7 +2177,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsnapshot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsnapshot.png",
-                    "version": "5.0.28"
+                    "version": "5.0.29"
                 },
                 {
                     "name": "rss-bridge",
@@ -2220,6 +2228,14 @@
                     "version": "0.0.7"
                 },
                 {
+                    "name": "seedsync",
+                    "description": "SeedSync is a tool to sync the files on a remote Linux server (like your seedbox, for example). It uses LFTP to transfer files fast!",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/incubator/seedsync",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/seedsync.png",
+                    "version": "3.0.1"
+                },
+                {
                     "name": "ser2sock",
                     "description": "Serial to Socket Redirector",
                     "train": "stable",
@@ -2265,7 +2281,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/sickchill",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sickchill.png",
-                    "version": "6.0.31"
+                    "version": "6.0.33"
                 },
                 {
                     "name": "sickgear",
@@ -2361,7 +2377,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/stash",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/stash.png",
-                    "version": "11.0.0"
+                    "version": "11.0.1"
                 },
                 {
                     "name": "static",
@@ -2681,7 +2697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "5.0.102"
+                    "version": "5.0.106"
                 },
                 {
                     "name": "wekan",
@@ -2753,7 +2769,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "2.0.45"
+                    "version": "2.0.46"
                 },
                 {
                     "name": "xen-orchestra",
@@ -2863,7 +2879,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/clusterissuer",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png",
-                    "version": "3.0.0"
+                    "version": "3.0.1"
                 },
                 {
                     "name": "grafana",
@@ -2909,7 +2925,7 @@
         },
         {
             "name": "incubator",
-            "count": 455,
+            "count": 454,
             "charts": [
                 {
                     "name": "acestream",
@@ -3944,6 +3960,14 @@
                     "version": "2.0.9"
                 },
                 {
+                    "name": "flowise",
+                    "description": "Drag & drop UI to build your customized LLM flow.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/flowise",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/flowise.png",
+                    "version": "0.0.2"
+                },
+                {
                     "name": "fluttercoin-wallet",
                     "description": "FlutterCoin may be a coin with the tried and true algorithm of scrypt, but it's definitely anything but ordinary.",
                     "train": "incubator",
@@ -4353,11 +4377,11 @@
                 },
                 {
                     "name": "ipmi-tools",
-                    "description": "This is a Chart with a webGUI to manage a Dell servers fan speeds using IPMI. You must enable IPMI from iDRAC. You can pass credentials through environment variables or enter them in the webGUI at runtime.",
+                    "description": "A simple WebGUI Fan controller for IPMI.",
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/ipmi-tools",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ipmi-tools.png",
-                    "version": "2.0.9"
+                    "version": "3.0.0"
                 },
                 {
                     "name": "jackett2telegram",
@@ -5144,14 +5168,6 @@
                     "version": "3.0.1"
                 },
                 {
-                    "name": "photoview",
-                    "description": "Photoview is a simple and user-friendly photo gallery.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/photoview",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/photoview.png",
-                    "version": "9.0.1"
-                },
-                {
                     "name": "phpmyadmin",
                     "description": "A web interface for MySQL and MariaDB.",
                     "train": "incubator",
@@ -5694,14 +5710,6 @@
                     "link": "https://truecharts.org/charts/incubator/searxng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
                     "version": "2.0.21"
-                },
-                {
-                    "name": "seedsync",
-                    "description": "SeedSync is a tool to sync the files on a remote Linux server (like your seedbox, for example). It uses LFTP to transfer files fast!",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/seedsync",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/seedsync.png",
-                    "version": "3.0.0"
                 },
                 {
                     "name": "self-service-password",
@@ -6611,7 +6619,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "7.0.3"
+                    "version": "7.0.4"
                 },
                 {
                     "name": "solr",
