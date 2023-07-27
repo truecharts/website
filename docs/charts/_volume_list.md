@@ -490,6 +490,7 @@ The intro needs improvement ;)
 |stash                     |cache                 |PVC      |-              |/cache                                               |Read/Write|Enabled                |
 |stash                     |generated             |PVC      |-              |/generated                                           |Read/Write|Enabled                |
 |stash                     |metadata              |PVC      |-              |/metadata                                            |Read/Write|Enabled                |
+|stash                     |blobs                 |PVC      |-              |/blobs                                               |Read/Write|Enabled                |
 |stash                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |static                    |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |static                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -831,6 +832,8 @@ The intro needs improvement ;)
 |flatnotes                      |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |flemarr                        |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |flextv                         |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
+|flowise                        |api                        |PVC      |-                |/config/api                                     |Read/Write|Enabled                |
+|flowise                        |logs                       |PVC      |-                |/config/logs                                    |Read/Write|Enabled                |
 |fluttercoin-wallet             |datapath                   |PVC      |-                |/fluttercoin                                    |Read/Write|Enabled                |
 |fmd2-wine                      |appluamodulespath          |PVC      |-                |/app/FMD2/lua                                   |Read/Write|Enabled                |
 |fmd2-wine                      |appuserdata                |PVC      |-                |/app/FMD2/userdata                              |Read/Write|Enabled                |
