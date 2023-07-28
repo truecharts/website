@@ -387,6 +387,8 @@ The intro needs improvement ;)
 |photoprism                |photoprismtemp        |emptyDir |-              |/photoprism_temp                                     |Read/Write|Enabled                |
 |photoshow                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |photoshow                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|photoview                 |cache                 |PVC      |-              |/cache                                               |Read/Write|Enabled                |
+|photoview                 |photos                |PVC      |-              |/photos                                              |Read/Write|Enabled                |
 |phpldapadmin              |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |picoshare                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |pihole                    |config                |PVC      |-              |/etc/pihole                                          |Read/Write|Enabled                |
@@ -462,6 +464,8 @@ The intro needs improvement ;)
 |scrutiny                  |influxdb              |PVC      |-              |/opt/scrutiny/influxdb                               |Read/Write|Enabled                |
 |scrutiny                  |udev                  |hostPath |/run/udev      |/run/udev                                            |Read Only |Enabled                |
 |seafile                   |storage               |PVC      |-              |/shared/seafile                                      |Read/Write|Enabled                |
+|seedsync                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|seedsync                  |downloads             |PVC      |-              |/downloads                                           |Read/Write|Enabled                |
 |ser2sock                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |shlink                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |shlink-web-client         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -1083,8 +1087,6 @@ The intro needs improvement ;)
 |photostructure                 |library                    |PVC      |-                |/ps/library                                     |Read/Write|Enabled                |
 |photostructure                 |logs                       |PVC      |-                |/ps/logs                                        |Read/Write|Enabled                |
 |photostructure                 |tempscratchdisk            |PVC      |-                |/ps/tmp                                         |Read/Write|Enabled                |
-|photoview                      |cache                      |PVC      |-                |/cache                                          |Read/Write|Enabled                |
-|photoview                      |photos                     |PVC      |-                |/photos                                         |Read/Write|Enabled                |
 |phpmyadmin                     |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |pialert                        |config                     |PVC      |-                |/home/pi/pialert/config                         |Read/Write|Enabled                |
 |pialert                        |db                         |PVC      |-                |/home/pi/pialert/db                             |Read/Write|Enabled                |
@@ -1201,8 +1203,6 @@ The intro needs improvement ;)
 |sdtd                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |searx                          |config                     |PVC      |-                |/etc/searx                                      |Read/Write|Enabled                |
 |searxng                        |config                     |PVC      |-                |/etc/searxng                                    |Read/Write|Enabled                |
-|seedsync                       |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
-|seedsync                       |downloads                  |PVC      |-                |/downloads                                      |Read/Write|Enabled                |
 |self-service-password          |config                     |PVC      |-                |/assets/custom                                  |Read/Write|Enabled                |
 |self-service-password          |logs                       |PVC      |-                |/www/logs                                       |Read/Write|Enabled                |
 |send                           |uploadpath                 |PVC      |-                |/uploads                                        |Read/Write|Enabled                |
