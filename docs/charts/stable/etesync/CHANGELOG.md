@@ -2,6 +2,15 @@
 
 
 
+## [etesync-4.0.12](https://github.com/truecharts/charts/compare/etesync-4.0.11...etesync-4.0.12) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [etesync-4.0.11](https://github.com/truecharts/charts/compare/etesync-4.0.10...etesync-4.0.11) (2023-07-01)
 
 ### Chore

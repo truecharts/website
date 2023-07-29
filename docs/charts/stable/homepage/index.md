@@ -1,6 +1,6 @@
 # homepage
 
-![Version: 3.0.28](https://img.shields.io/badge/Version-3.0.28-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.6.23"](https://img.shields.io/badge/AppVersion-"0.6.23"-informational?style=flat-square)
+![Version: 3.0.29](https://img.shields.io/badge/Version-3.0.29-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.6.23"](https://img.shields.io/badge/AppVersion-"0.6.23"-informational?style=flat-square)
 
 A highly customizable homepage
 

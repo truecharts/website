@@ -1,6 +1,6 @@
 # jupyter
 
-![Version: 4.0.50](https://img.shields.io/badge/Version-4.0.50-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2023"](https://img.shields.io/badge/AppVersion-"2023"-informational?style=flat-square)
+![Version: 4.0.51](https://img.shields.io/badge/Version-4.0.51-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2023"](https://img.shields.io/badge/AppVersion-"2023"-informational?style=flat-square)
 
 Jupyter a web based IDE
 

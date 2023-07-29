@@ -2,6 +2,15 @@
 
 
 
+## [rdesktop-4.0.144](https://github.com/truecharts/charts/compare/rdesktop-4.0.143...rdesktop-4.0.144) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [rdesktop-4.0.143](https://github.com/truecharts/charts/compare/rdesktop-4.0.142...rdesktop-4.0.143) (2023-07-29)
 
 ### Chore

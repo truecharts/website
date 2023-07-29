@@ -2,6 +2,15 @@
 
 
 
+## [doublecommander-7.0.26](https://github.com/truecharts/charts/compare/doublecommander-7.0.25...doublecommander-7.0.26) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [doublecommander-7.0.25](https://github.com/truecharts/charts/compare/doublecommander-7.0.24...doublecommander-7.0.25) (2023-07-01)
 
 ### Chore

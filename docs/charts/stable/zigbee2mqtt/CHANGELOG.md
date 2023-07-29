@@ -2,6 +2,15 @@
 
 
 
+## [zigbee2mqtt-7.0.31](https://github.com/truecharts/charts/compare/zigbee2mqtt-7.0.30...zigbee2mqtt-7.0.31) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [zigbee2mqtt-7.0.30](https://github.com/truecharts/charts/compare/zigbee2mqtt-7.0.29...zigbee2mqtt-7.0.30) (2023-07-08)
 
 ### Chore

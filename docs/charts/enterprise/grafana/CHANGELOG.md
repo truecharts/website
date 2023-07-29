@@ -2,6 +2,15 @@
 
 
 
+## [grafana-8.0.5](https://github.com/truecharts/charts/compare/grafana-8.0.4...grafana-8.0.5) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [grafana-8.0.4](https://github.com/truecharts/charts/compare/grafana-8.0.3...grafana-8.0.4) (2023-07-28)
 
 ### Chore

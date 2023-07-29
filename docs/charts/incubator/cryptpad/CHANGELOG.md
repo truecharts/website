@@ -2,6 +2,15 @@
 
 
 
+## [cryptpad-3.0.8](https://github.com/truecharts/charts/compare/cryptpad-3.0.7...cryptpad-3.0.8) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [cryptpad-3.0.7](https://github.com/truecharts/charts/compare/cryptpad-3.0.6...cryptpad-3.0.7) (2023-07-22)
 
 

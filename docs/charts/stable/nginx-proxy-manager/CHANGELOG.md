@@ -2,6 +2,15 @@
 
 
 
+## [nginx-proxy-manager-4.0.173](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.172...nginx-proxy-manager-4.0.173) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [nginx-proxy-manager-4.0.172](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.171...nginx-proxy-manager-4.0.172) (2023-07-04)
 
 ### Chore

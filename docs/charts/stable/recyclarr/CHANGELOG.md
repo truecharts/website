@@ -2,6 +2,15 @@
 
 
 
+## [recyclarr-5.0.1](https://github.com/truecharts/charts/compare/recyclarr-5.0.0...recyclarr-5.0.1) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [recyclarr-5.0.0](https://github.com/truecharts/charts/compare/recyclarr-4.0.25...recyclarr-5.0.0) (2023-07-14)
 
 

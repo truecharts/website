@@ -2,6 +2,15 @@
 
 
 
+## [paperless-ngx-1.0.32](https://github.com/truecharts/charts/compare/paperless-ngx-1.0.31...paperless-ngx-1.0.32) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [paperless-ngx-1.0.31](https://github.com/truecharts/charts/compare/paperless-ngx-1.0.30...paperless-ngx-1.0.31) (2023-07-07)
 
 ### Chore
