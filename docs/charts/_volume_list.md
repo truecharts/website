@@ -821,7 +821,6 @@ The intro needs improvement ;)
 |fileshelter                    |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |filestash                      |appdata                    |PVC      |-                |/app/data/state/                                |Read/Write|Enabled                |
 |filezilla                      |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
-|filezilla                      |varrun                     |emptyDir |-                |/var/run                                        |Read/Write|Enabled                |
 |fireflyiii-data-importer       |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |firefox-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                   |Read/Write|Enabled                |
 |fireshare                      |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
