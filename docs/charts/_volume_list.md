@@ -464,6 +464,7 @@ The intro needs improvement ;)
 |scrutiny                  |influxdb              |PVC      |-              |/opt/scrutiny/influxdb                               |Read/Write|Enabled                |
 |scrutiny                  |udev                  |hostPath |/run/udev      |/run/udev                                            |Read Only |Enabled                |
 |seafile                   |storage               |PVC      |-              |/shared/seafile                                      |Read/Write|Enabled                |
+|searxng                   |config                |PVC      |-              |/etc/searxng                                         |Read/Write|Enabled                |
 |seedsync                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |seedsync                  |downloads             |PVC      |-              |/downloads                                           |Read/Write|Enabled                |
 |ser2sock                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -1200,8 +1201,6 @@ The intro needs improvement ;)
 |scrypted                       |media                      |PVC      |-                |/media/external                                 |Read/Write|Enabled                |
 |sdtd                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |sdtd                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
-|searx                          |config                     |PVC      |-                |/etc/searx                                      |Read/Write|Enabled                |
-|searxng                        |config                     |PVC      |-                |/etc/searxng                                    |Read/Write|Enabled                |
 |self-service-password          |config                     |PVC      |-                |/assets/custom                                  |Read/Write|Enabled                |
 |self-service-password          |logs                       |PVC      |-                |/www/logs                                       |Read/Write|Enabled                |
 |send                           |uploadpath                 |PVC      |-                |/uploads                                        |Read/Write|Enabled                |
