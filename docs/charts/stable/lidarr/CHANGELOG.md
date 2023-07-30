@@ -2,6 +2,15 @@
 
 
 
+## [lidarr-16.1.4](https://github.com/truecharts/charts/compare/lidarr-16.1.3...lidarr-16.1.4) (2023-07-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.3.3.3432 ([#11032](https://github.com/truecharts/charts/issues/11032))
+  
+  
+
+
 ## [lidarr-16.1.3](https://github.com/truecharts/charts/compare/lidarr-16.1.2...lidarr-16.1.3) (2023-07-29)
 
 ### Chore
