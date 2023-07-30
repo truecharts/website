@@ -2,6 +2,15 @@
 
 
 
+## [unturned-3.0.4](https://github.com/truecharts/charts/compare/unturned-3.0.3...unturned-3.0.4) (2023-07-30)
+
+### Chore
+
+- update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
+  
+  
+
+
 ## [unturned-3.0.3](https://github.com/truecharts/charts/compare/unturned-3.0.2...unturned-3.0.3) (2023-07-29)
 
 ### Chore
