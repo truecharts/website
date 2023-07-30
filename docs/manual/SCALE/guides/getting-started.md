@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
 ---
-# Getting Started with TrueCharts inside TrueNAS SCALE
+# Getting Started with TrueCharts
 
-Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. This is an overview with links to specific apps and/or other guides but will help you get started if you haven't used any TrueCharts before. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website.
+Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](https://truecharts.org/manual/SCALE/guides/scale-intro) page.
 
 ## Requirements
 
@@ -13,12 +13,32 @@ Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE in
 - Make sure you have a working Internet connection and can reach `https://github.com`, `https://truecharts.org`, and `https://tccr.io` from the host system.
 - Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
 - You are signed into your TrueNAS SCALE WebUI as `root`.
+- Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/) for your Apps.
 
-### Configuring Your App Pool
+:::info Quick start guides
 
-Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/) for your Apps. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](https://truecharts.org/manual/SCALE/guides/scale-intro) page.
+Below are the tl;dr versions of the full setup for certain usecases, scroll down for short blurbs on each step and why they're recommended.
 
-After creating your Apps pool, you'll be able to add the TrueCharts Community Catalog.
+:::
+
+## Minimal Getting Started Setup with SCALE
+
+- Add catalog with the following trains: `stable`, `enterprise`, `operators` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
+- Add the following operators from the `operators` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager` -> [Operations Installation Guide](https://truecharts.org/manual/SCALE/guides/getting-started/#cnpg-and-prometheus-operators-installation-and-migration-guide-for-older-users)
+
+## Getting started using Charts with your own Domain
+
+- Steps Above -> [Minimal Getting Started with SCALE](link)
+- Use Cloudflare for DNS and create API token -> [Guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to#configure-acme-issuer)
+- Add ClusterIssuer -> [Clusterissuer How-to](https://truecharts.org/charts/enterprise/clusterissuer/how-to)
+- Move TrueNAS Port to 81,444 -> [TrueNAS WebUI Instructions](https://truecharts.org/charts/enterprise/traefik/how-to#truenas-webui)
+- Add Traefik -> [Traefik How-To](https://truecharts.org/charts/enterprise/traefik/how-to)
+- Add Blocky -> [Block Setup Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide)
+- Setup ingress on each Chart you want to expose ->[Configure Ingress using Clusterissuer certs](https://truecharts.org/charts/enterprise/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
+
+## Full TrueCharts Setup on TrueNAS SCALE
+
+- Everything below (includes the steps listed above and extras like [Heavyscript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript), [MetalLB](https://truecharts.org/manual/SCALE/guides/getting-started/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](https://truecharts.org/manual/SCALE/guides/getting-started/#authelia-installation))
 
 ## Adding TrueCharts
 
@@ -64,7 +84,7 @@ Once you've added the TrueCharts catalog, we also recommend installing [Heavyscr
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
 
-## CNPG and Prometheus Operators installation and migration guide for older users
+## CNPG/Prometheus Operators installation and migration guide for older users
 
 ![CNPG](img/icons/cnpg.png) ![Prometheus](img/icons/prometheus-operator.png)
 
@@ -74,7 +94,7 @@ For new users just starting out with TrueNAS SCALE, you may simply install `clou
 
 ## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
 
-<img src={require('./img/icons/traefik.webp').default} alt="Traefik"  width="150" height="150" />
+![Traefik](img/icons/traefik.png)
 
 `Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/enterprise/traefik/how-to) for basic instructions and a video as well.
 
