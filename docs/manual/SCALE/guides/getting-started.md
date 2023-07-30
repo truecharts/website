@@ -20,11 +20,14 @@ Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE in
 Below are the tl;dr versions of the full setup for certain usecases, scroll down for short blurbs on each step and why they're recommended.
 
 :::
+
 ## Minimal Getting Started Setup with SCALE
+
 - Add catalog with the following trains: `stable`, `enterprise`, `operators` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
 - Add the following operators from the `operators` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager` -> [Operations Installation Guide](https://truecharts.org/manual/SCALE/guides/getting-started/#cnpg-and-prometheus-operators-installation-and-migration-guide-for-older-users)
 
 ## Getting started using Charts with your own Domain
+
 - Steps Above -> [Minimal Getting Started with SCALE](link)
 - Use Cloudflare for DNS and create API token -> [Guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to#configure-acme-issuer)
 - Add ClusterIssuer -> [Clusterissuer How-to](https://truecharts.org/charts/enterprise/clusterissuer/how-to)
@@ -36,6 +39,7 @@ Below are the tl;dr versions of the full setup for certain usecases, scroll down
 ## Full TrueCharts Setup on TrueNAS SCALE
 
 - Everything below (includes the steps listed above and extras like [Heavyscript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript), [MetalLB](https://truecharts.org/manual/SCALE/guides/getting-started/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](https://truecharts.org/manual/SCALE/guides/getting-started/#authelia-installation))
+
 ## Adding TrueCharts
 
 To add TrueCharts to your SCALE installation:
