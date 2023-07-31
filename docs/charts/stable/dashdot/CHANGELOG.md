@@ -2,6 +2,11 @@
 
 
 
+## [dashdot-5.0.0](https://github.com/truecharts/charts/compare/dashdot-4.0.26...dashdot-5.0.0) (2023-07-31)
+
+
+
+
 ## [dashdot-4.0.26](https://github.com/truecharts/charts/compare/dashdot-4.0.25...dashdot-4.0.26) (2023-07-29)
 
 ### Chore

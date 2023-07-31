@@ -2,6 +2,11 @@
 
 
 
+## [kube-state-metrics-3.0.0](https://github.com/truecharts/charts/compare/kube-state-metrics-2.0.6...kube-state-metrics-3.0.0) (2023-07-31)
+
+
+
+
 ## [kube-state-metrics-2.0.6](https://github.com/truecharts/charts/compare/kube-state-metrics-2.0.5...kube-state-metrics-2.0.6) (2023-07-30)
 
 ### Chore

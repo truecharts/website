@@ -2,6 +2,11 @@
 
 
 
+## [appdaemon-13.0.0](https://github.com/truecharts/charts/compare/appdaemon-12.0.25...appdaemon-13.0.0) (2023-07-31)
+
+
+
+
 ## [appdaemon-12.0.25](https://github.com/truecharts/charts/compare/appdaemon-12.0.24...appdaemon-12.0.25) (2023-07-29)
 
 ### Chore

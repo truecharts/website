@@ -2,6 +2,11 @@
 
 
 
+## [libreddit-5.0.0](https://github.com/truecharts/charts/compare/libreddit-4.0.29...libreddit-5.0.0) (2023-07-31)
+
+
+
+
 ## [libreddit-4.0.29](https://github.com/truecharts/charts/compare/libreddit-4.0.28...libreddit-4.0.29) (2023-07-29)
 
 ### Chore

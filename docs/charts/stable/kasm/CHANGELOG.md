@@ -2,6 +2,11 @@
 
 
 
+## [kasm-5.0.0](https://github.com/truecharts/charts/compare/kasm-4.0.25...kasm-5.0.0) (2023-07-31)
+
+
+
+
 ## [kasm-4.0.25](https://github.com/truecharts/charts/compare/kasm-4.0.24...kasm-4.0.25) (2023-07-29)
 
 ### Chore

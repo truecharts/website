@@ -2,6 +2,11 @@
 
 
 
+## [tasmocompiler-4.0.0](https://github.com/truecharts/charts/compare/tasmocompiler-3.0.4...tasmocompiler-4.0.0) (2023-07-31)
+
+
+
+
 ## [tasmocompiler-3.0.4](https://github.com/truecharts/charts/compare/tasmocompiler-3.0.3...tasmocompiler-3.0.4) (2023-07-30)
 
 ### Chore

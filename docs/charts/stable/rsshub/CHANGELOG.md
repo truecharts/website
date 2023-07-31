@@ -2,6 +2,11 @@
 
 
 
+## [rsshub-8.0.0](https://github.com/truecharts/charts/compare/rsshub-7.0.131...rsshub-8.0.0) (2023-07-31)
+
+
+
+
 ## [rsshub-7.0.131](https://github.com/truecharts/charts/compare/rsshub-7.0.130...rsshub-7.0.131) (2023-07-30)
 
 ### Chore

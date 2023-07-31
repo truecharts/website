@@ -2,6 +2,11 @@
 
 
 
+## [freeradius-10.0.0](https://github.com/truecharts/charts/compare/freeradius-9.0.22...freeradius-10.0.0) (2023-07-31)
+
+
+
+
 ## [freeradius-9.0.22](https://github.com/truecharts/charts/compare/freeradius-9.0.21...freeradius-9.0.22) (2023-07-29)
 
 ### Chore

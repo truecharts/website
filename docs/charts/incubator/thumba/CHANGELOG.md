@@ -2,6 +2,19 @@
 
 
 
+## [thumba-1.0.0](https://github.com/truecharts/charts/compare/thumba-0.0.7...thumba-1.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [thumba-0.0.7](https://github.com/truecharts/charts/compare/thumba-0.0.6...thumba-0.0.7) (2023-02-10)
 
 ### Fix

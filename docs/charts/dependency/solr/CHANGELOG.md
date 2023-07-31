@@ -2,6 +2,11 @@
 
 
 
+## [solr-6.0.0](https://github.com/truecharts/charts/compare/solr-5.0.6...solr-6.0.0) (2023-07-31)
+
+
+
+
 ## [solr-5.0.6](https://github.com/truecharts/charts/compare/solr-5.0.5...solr-5.0.6) (2023-07-30)
 
 ### Chore

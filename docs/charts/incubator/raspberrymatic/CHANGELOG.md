@@ -2,6 +2,11 @@
 
 
 
+## [raspberrymatic-3.0.0](https://github.com/truecharts/charts/compare/raspberrymatic-2.0.12...raspberrymatic-3.0.0) (2023-07-31)
+
+
+
+
 ## [raspberrymatic-2.0.12](https://github.com/truecharts/charts/compare/raspberrymatic-2.0.11...raspberrymatic-2.0.12) (2023-04-26)
 
 ### Chore

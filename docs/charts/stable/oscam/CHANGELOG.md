@@ -2,6 +2,11 @@
 
 
 
+## [oscam-10.0.0](https://github.com/truecharts/charts/compare/oscam-9.0.25...oscam-10.0.0) (2023-07-31)
+
+
+
+
 ## [oscam-9.0.25](https://github.com/truecharts/charts/compare/oscam-9.0.24...oscam-9.0.25) (2023-07-29)
 
 ### Chore

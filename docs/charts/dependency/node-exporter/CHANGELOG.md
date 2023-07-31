@@ -2,6 +2,11 @@
 
 
 
+## [node-exporter-3.0.0](https://github.com/truecharts/charts/compare/node-exporter-2.0.7...node-exporter-3.0.0) (2023-07-31)
+
+
+
+
 ## [node-exporter-2.0.7](https://github.com/truecharts/charts/compare/node-exporter-2.0.6...node-exporter-2.0.7) (2023-07-30)
 
 ### Chore

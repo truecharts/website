@@ -2,6 +2,11 @@
 
 
 
+## [weblate-9.0.0](https://github.com/truecharts/charts/compare/weblate-8.0.27...weblate-9.0.0) (2023-07-31)
+
+
+
+
 ## [weblate-8.0.27](https://github.com/truecharts/charts/compare/weblate-8.0.26...weblate-8.0.27) (2023-07-29)
 
 ### Chore

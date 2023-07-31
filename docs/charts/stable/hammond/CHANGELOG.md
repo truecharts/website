@@ -2,6 +2,11 @@
 
 
 
+## [hammond-6.0.0](https://github.com/truecharts/charts/compare/hammond-5.0.15...hammond-6.0.0) (2023-07-31)
+
+
+
+
 ## [hammond-5.0.15](https://github.com/truecharts/charts/compare/hammond-5.0.14...hammond-5.0.15) (2023-07-29)
 
 ### Chore

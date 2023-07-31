@@ -2,6 +2,11 @@
 
 
 
+## [mediainfo-5.0.0](https://github.com/truecharts/charts/compare/mediainfo-4.0.20...mediainfo-5.0.0) (2023-07-31)
+
+
+
+
 ## [mediainfo-4.0.20](https://github.com/truecharts/charts/compare/mediainfo-4.0.19...mediainfo-4.0.20) (2023-07-29)
 
 ### Chore

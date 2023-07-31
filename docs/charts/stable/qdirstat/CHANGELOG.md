@@ -2,6 +2,11 @@
 
 
 
+## [qdirstat-5.0.0](https://github.com/truecharts/charts/compare/qdirstat-4.0.18...qdirstat-5.0.0) (2023-07-31)
+
+
+
+
 ## [qdirstat-4.0.18](https://github.com/truecharts/charts/compare/qdirstat-4.0.17...qdirstat-4.0.18) (2023-07-29)
 
 ### Chore

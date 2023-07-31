@@ -2,6 +2,11 @@
 
 
 
+## [flaresolverr-10.0.0](https://github.com/truecharts/charts/compare/flaresolverr-9.0.29...flaresolverr-10.0.0) (2023-07-31)
+
+
+
+
 ## [flaresolverr-9.0.29](https://github.com/truecharts/charts/compare/flaresolverr-9.0.28...flaresolverr-9.0.29) (2023-07-29)
 
 ### Chore

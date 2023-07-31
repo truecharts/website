@@ -2,6 +2,11 @@
 
 
 
+## [alist-6.0.0](https://github.com/truecharts/charts/compare/alist-5.0.31...alist-6.0.0) (2023-07-31)
+
+
+
+
 ## [alist-5.0.31](https://github.com/truecharts/charts/compare/alist-5.0.30...alist-5.0.31) (2023-07-30)
 
 ### Chore

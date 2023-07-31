@@ -2,6 +2,11 @@
 
 
 
+## [netbootxyz-1.0.0](https://github.com/truecharts/charts/compare/netbootxyz-0.0.10...netbootxyz-1.0.0) (2023-07-31)
+
+
+
+
 ## [netbootxyz-0.0.10](https://github.com/truecharts/charts/compare/netbootxyz-0.0.9...netbootxyz-0.0.10) (2023-07-30)
 
 ### Chore

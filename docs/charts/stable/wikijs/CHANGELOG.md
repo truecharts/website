@@ -2,6 +2,11 @@
 
 
 
+## [wikijs-12.0.0](https://github.com/truecharts/charts/compare/wikijs-11.0.26...wikijs-12.0.0) (2023-07-31)
+
+
+
+
 ## [wikijs-11.0.26](https://github.com/truecharts/charts/compare/wikijs-11.0.25...wikijs-11.0.26) (2023-07-29)
 
 ### Chore

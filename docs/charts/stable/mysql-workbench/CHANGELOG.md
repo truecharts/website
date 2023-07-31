@@ -2,6 +2,15 @@
 
 
 
+## [mysql-workbench-6.0.0](https://github.com/truecharts/charts/compare/mysql-workbench-5.0.25...mysql-workbench-6.0.0) (2023-07-31)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [mysql-workbench-5.0.25](https://github.com/truecharts/charts/compare/mysql-workbench-5.0.24...mysql-workbench-5.0.25) (2023-07-29)
 
 ### Chore

@@ -2,6 +2,19 @@
 
 
 
+## [fluttercoin-wallet-3.0.0](https://github.com/truecharts/charts/compare/fluttercoin-wallet-2.0.10...fluttercoin-wallet-3.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [fluttercoin-wallet-2.0.10](https://github.com/truecharts/charts/compare/fluttercoin-wallet-2.0.9...fluttercoin-wallet-2.0.10) (2023-04-30)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [mealie-17.0.0](https://github.com/truecharts/charts/compare/mealie-16.0.6...mealie-17.0.0) (2023-07-31)
+
+
+
+
 ## [mealie-16.0.6](https://github.com/truecharts/charts/compare/mealie-16.0.5...mealie-16.0.6) (2023-07-30)
 
 ### Chore

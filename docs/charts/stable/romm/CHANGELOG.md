@@ -2,6 +2,11 @@
 
 
 
+## [romm-2.0.0](https://github.com/truecharts/charts/compare/romm-1.0.9...romm-2.0.0) (2023-07-31)
+
+
+
+
 ## [romm-1.0.9](https://github.com/truecharts/charts/compare/romm-1.0.8...romm-1.0.9) (2023-07-29)
 
 ### Chore

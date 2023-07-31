@@ -2,6 +2,11 @@
 
 
 
+## [mc-router-1.0.0](https://github.com/truecharts/charts/compare/mc-router-0.0.3...mc-router-1.0.0) (2023-07-31)
+
+
+
+
 ## [mc-router-0.0.3](https://github.com/truecharts/charts/compare/mc-router-0.0.2...mc-router-0.0.3) (2023-07-29)
 
 ### Chore

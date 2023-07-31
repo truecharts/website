@@ -2,6 +2,11 @@
 
 
 
+## [embystat-6.0.0](https://github.com/truecharts/charts/compare/embystat-5.0.31...embystat-6.0.0) (2023-07-31)
+
+
+
+
 ## [embystat-5.0.31](https://github.com/truecharts/charts/compare/embystat-5.0.30...embystat-5.0.31) (2023-07-31)
 
 ### Chore

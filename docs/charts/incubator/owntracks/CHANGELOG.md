@@ -2,6 +2,11 @@
 
 
 
+## [owntracks-2.0.0](https://github.com/truecharts/charts/compare/owntracks-1.0.0...owntracks-2.0.0) (2023-07-31)
+
+
+
+
 ## [owntracks-1.0.0](https://github.com/truecharts/charts/compare/owntracks-0.0.7...owntracks-1.0.0) (2023-07-30)
 
 ### Feat

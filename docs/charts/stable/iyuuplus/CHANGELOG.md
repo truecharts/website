@@ -2,6 +2,11 @@
 
 
 
+## [iyuuplus-6.0.0](https://github.com/truecharts/charts/compare/iyuuplus-5.0.24...iyuuplus-6.0.0) (2023-07-31)
+
+
+
+
 ## [iyuuplus-5.0.24](https://github.com/truecharts/charts/compare/iyuuplus-5.0.23...iyuuplus-5.0.24) (2023-07-29)
 
 ### Chore

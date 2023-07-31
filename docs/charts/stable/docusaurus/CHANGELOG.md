@@ -2,6 +2,11 @@
 
 
 
+## [docusaurus-5.0.0](https://github.com/truecharts/charts/compare/docusaurus-4.0.23...docusaurus-5.0.0) (2023-07-31)
+
+
+
+
 ## [docusaurus-4.0.23](https://github.com/truecharts/charts/compare/docusaurus-4.0.22...docusaurus-4.0.23) (2023-07-29)
 
 ### Chore

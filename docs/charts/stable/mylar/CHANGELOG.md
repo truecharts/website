@@ -2,6 +2,11 @@
 
 
 
+## [mylar-10.0.0](https://github.com/truecharts/charts/compare/mylar-9.0.37...mylar-10.0.0) (2023-07-31)
+
+
+
+
 ## [mylar-9.0.37](https://github.com/truecharts/charts/compare/mylar-9.0.36...mylar-9.0.37) (2023-07-29)
 
 ### Chore

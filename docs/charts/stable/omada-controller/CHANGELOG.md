@@ -2,6 +2,11 @@
 
 
 
+## [omada-controller-10.0.0](https://github.com/truecharts/charts/compare/omada-controller-9.0.28...omada-controller-10.0.0) (2023-07-31)
+
+
+
+
 ## [omada-controller-9.0.28](https://github.com/truecharts/charts/compare/omada-controller-9.0.27...omada-controller-9.0.28) (2023-07-29)
 
 ### Chore

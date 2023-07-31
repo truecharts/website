@@ -2,6 +2,11 @@
 
 
 
+## [searxng-4.0.0](https://github.com/truecharts/charts/compare/searxng-3.0.4...searxng-4.0.0) (2023-07-31)
+
+
+
+
 ## [searxng-3.0.4](https://github.com/truecharts/charts/compare/searxng-3.0.3...searxng-3.0.4) (2023-07-30)
 
 ### Chore

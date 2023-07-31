@@ -2,6 +2,11 @@
 
 
 
+## [bookstack-8.0.0](https://github.com/truecharts/charts/compare/bookstack-7.0.25...bookstack-8.0.0) (2023-07-31)
+
+
+
+
 ## [bookstack-7.0.25](https://github.com/truecharts/charts/compare/bookstack-7.0.24...bookstack-7.0.25) (2023-07-29)
 
 ### Chore

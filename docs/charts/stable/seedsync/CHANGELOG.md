@@ -2,6 +2,11 @@
 
 
 
+## [seedsync-4.0.0](https://github.com/truecharts/charts/compare/seedsync-3.0.2...seedsync-4.0.0) (2023-07-31)
+
+
+
+
 ## [seedsync-3.0.2](https://github.com/truecharts/charts/compare/seedsync-3.0.1...seedsync-3.0.2) (2023-07-30)
 
 ### Chore

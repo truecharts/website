@@ -2,6 +2,11 @@
 
 
 
+## [nntp2nntp-6.0.0](https://github.com/truecharts/charts/compare/nntp2nntp-5.0.16...nntp2nntp-6.0.0) (2023-07-31)
+
+
+
+
 ## [nntp2nntp-5.0.16](https://github.com/truecharts/charts/compare/nntp2nntp-5.0.15...nntp2nntp-5.0.16) (2023-07-29)
 
 ### Chore

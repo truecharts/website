@@ -2,6 +2,11 @@
 
 
 
+## [snippet-box-4.0.0](https://github.com/truecharts/charts/compare/snippet-box-3.0.7...snippet-box-4.0.0) (2023-07-31)
+
+
+
+
 ## [snippet-box-3.0.7](https://github.com/truecharts/charts/compare/snippet-box-3.0.6...snippet-box-3.0.7) (2023-07-29)
 
 ### Chore

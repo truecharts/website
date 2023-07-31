@@ -2,6 +2,11 @@
 
 
 
+## [dashy-4.0.0](https://github.com/truecharts/charts/compare/dashy-3.0.14...dashy-4.0.0) (2023-07-31)
+
+
+
+
 ## [dashy-3.0.14](https://github.com/truecharts/charts/compare/dashy-3.0.13...dashy-3.0.14) (2023-07-30)
 
 ### Chore

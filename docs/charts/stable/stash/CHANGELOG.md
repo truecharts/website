@@ -2,6 +2,11 @@
 
 
 
+## [stash-12.0.0](https://github.com/truecharts/charts/compare/stash-11.0.2...stash-12.0.0) (2023-07-31)
+
+
+
+
 ## [stash-11.0.2](https://github.com/truecharts/charts/compare/stash-11.0.1...stash-11.0.2) (2023-07-29)
 
 ### Chore

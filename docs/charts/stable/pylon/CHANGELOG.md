@@ -2,6 +2,11 @@
 
 
 
+## [pylon-6.0.0](https://github.com/truecharts/charts/compare/pylon-5.0.25...pylon-6.0.0) (2023-07-31)
+
+
+
+
 ## [pylon-5.0.25](https://github.com/truecharts/charts/compare/pylon-5.0.24...pylon-5.0.25) (2023-07-29)
 
 ### Chore

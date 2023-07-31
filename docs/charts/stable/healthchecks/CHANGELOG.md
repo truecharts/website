@@ -2,6 +2,11 @@
 
 
 
+## [healthchecks-11.0.0](https://github.com/truecharts/charts/compare/healthchecks-10.0.15...healthchecks-11.0.0) (2023-07-31)
+
+
+
+
 ## [healthchecks-10.0.15](https://github.com/truecharts/charts/compare/healthchecks-10.0.14...healthchecks-10.0.15) (2023-07-29)
 
 ### Chore

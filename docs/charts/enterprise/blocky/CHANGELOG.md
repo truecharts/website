@@ -2,6 +2,11 @@
 
 
 
+## [blocky-8.0.0](https://github.com/truecharts/charts/compare/blocky-7.0.2...blocky-8.0.0) (2023-07-31)
+
+
+
+
 ## [blocky-7.0.2](https://github.com/truecharts/charts/compare/blocky-7.0.1...blocky-7.0.2) (2023-07-30)
 
 ### Chore

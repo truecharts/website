@@ -2,6 +2,11 @@
 
 
 
+## [synclounge-6.0.0](https://github.com/truecharts/charts/compare/synclounge-5.0.26...synclounge-6.0.0) (2023-07-31)
+
+
+
+
 ## [synclounge-5.0.26](https://github.com/truecharts/charts/compare/synclounge-5.0.25...synclounge-5.0.26) (2023-07-29)
 
 ### Chore

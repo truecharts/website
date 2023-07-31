@@ -2,6 +2,11 @@
 
 
 
+## [strapi-10.0.0](https://github.com/truecharts/charts/compare/strapi-9.0.33...strapi-10.0.0) (2023-07-31)
+
+
+
+
 ## [strapi-9.0.33](https://github.com/truecharts/charts/compare/strapi-9.0.32...strapi-9.0.33) (2023-07-30)
 
 ### Chore

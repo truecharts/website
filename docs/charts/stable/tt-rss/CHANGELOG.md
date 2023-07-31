@@ -2,6 +2,11 @@
 
 
 
+## [tt-rss-12.0.0](https://github.com/truecharts/charts/compare/tt-rss-11.0.15...tt-rss-12.0.0) (2023-07-31)
+
+
+
+
 ## [tt-rss-11.0.15](https://github.com/truecharts/charts/compare/tt-rss-11.0.14...tt-rss-11.0.15) (2023-07-29)
 
 ### Chore

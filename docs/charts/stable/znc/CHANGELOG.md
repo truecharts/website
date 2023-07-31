@@ -2,6 +2,11 @@
 
 
 
+## [znc-6.0.0](https://github.com/truecharts/charts/compare/znc-5.0.34...znc-6.0.0) (2023-07-31)
+
+
+
+
 ## [znc-5.0.34](https://github.com/truecharts/charts/compare/znc-5.0.33...znc-5.0.34) (2023-07-29)
 
 ### Chore

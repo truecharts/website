@@ -2,6 +2,15 @@
 
 
 
+## [dillinger-6.0.0](https://github.com/truecharts/charts/compare/dillinger-5.0.35...dillinger-6.0.0) (2023-07-31)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
 ## [dillinger-5.0.35](https://github.com/truecharts/charts/compare/dillinger-5.0.34...dillinger-5.0.35) (2023-07-29)
 
 ### Chore

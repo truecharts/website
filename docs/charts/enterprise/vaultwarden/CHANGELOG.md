@@ -2,6 +2,11 @@
 
 
 
+## [vaultwarden-22.0.0](https://github.com/truecharts/charts/compare/vaultwarden-21.0.3...vaultwarden-22.0.0) (2023-07-31)
+
+
+
+
 ## [vaultwarden-21.0.3](https://github.com/truecharts/charts/compare/vaultwarden-21.0.2...vaultwarden-21.0.3) (2023-07-30)
 
 ### Chore

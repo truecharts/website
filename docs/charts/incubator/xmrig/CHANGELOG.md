@@ -2,6 +2,16 @@
 
 
 
+## [xmrig-3.0.0](https://github.com/truecharts/charts/compare/xmrig-2.0.9...xmrig-3.0.0) (2023-07-31)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  
+
+
 ## [xmrig-2.0.9](https://github.com/truecharts/charts/compare/xmrig-2.0.8...xmrig-2.0.9) (2023-02-10)
 
 ### Fix

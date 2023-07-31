@@ -2,6 +2,11 @@
 
 
 
+## [wordpress-3.0.0](https://github.com/truecharts/charts/compare/wordpress-2.0.48...wordpress-3.0.0) (2023-07-31)
+
+
+
+
 ## [wordpress-2.0.48](https://github.com/truecharts/charts/compare/wordpress-2.0.47...wordpress-2.0.48) (2023-07-29)
 
 ### Chore

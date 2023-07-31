@@ -2,6 +2,16 @@
 
 
 
+## [corekeeper-3.0.0](https://github.com/truecharts/charts/compare/corekeeper-2.0.11...corekeeper-3.0.0) (2023-07-31)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  
+
+
 ## [corekeeper-2.0.11](https://github.com/truecharts/charts/compare/corekeeper-2.0.10...corekeeper-2.0.11) (2023-02-26)
 
 ### Chore

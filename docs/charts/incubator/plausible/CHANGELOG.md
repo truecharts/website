@@ -2,6 +2,20 @@
 
 
 
+## [plausible-5.0.0](https://github.com/truecharts/charts/compare/plausible-4.0.25...plausible-5.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  
+
+
 ## [plausible-4.0.25](https://github.com/truecharts/charts/compare/plausible-4.0.24...plausible-4.0.25) (2023-02-27)
 
 ### Chore

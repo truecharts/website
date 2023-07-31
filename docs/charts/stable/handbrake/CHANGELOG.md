@@ -2,6 +2,11 @@
 
 
 
+## [handbrake-17.0.0](https://github.com/truecharts/charts/compare/handbrake-16.0.18...handbrake-17.0.0) (2023-07-31)
+
+
+
+
 ## [handbrake-16.0.18](https://github.com/truecharts/charts/compare/handbrake-16.0.17...handbrake-16.0.18) (2023-07-29)
 
 ### Chore

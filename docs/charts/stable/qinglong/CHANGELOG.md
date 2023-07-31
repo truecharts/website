@@ -2,6 +2,11 @@
 
 
 
+## [qinglong-6.0.0](https://github.com/truecharts/charts/compare/qinglong-5.0.33...qinglong-6.0.0) (2023-07-31)
+
+
+
+
 ## [qinglong-5.0.33](https://github.com/truecharts/charts/compare/qinglong-5.0.32...qinglong-5.0.33) (2023-07-29)
 
 ### Chore

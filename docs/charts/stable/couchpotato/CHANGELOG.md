@@ -2,6 +2,11 @@
 
 
 
+## [couchpotato-6.0.0](https://github.com/truecharts/charts/compare/couchpotato-5.0.23...couchpotato-6.0.0) (2023-07-31)
+
+
+
+
 ## [couchpotato-5.0.23](https://github.com/truecharts/charts/compare/couchpotato-5.0.22...couchpotato-5.0.23) (2023-07-29)
 
 ### Chore

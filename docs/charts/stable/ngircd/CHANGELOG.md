@@ -2,6 +2,11 @@
 
 
 
+## [ngircd-6.0.0](https://github.com/truecharts/charts/compare/ngircd-5.0.4000011...ngircd-6.0.0) (2023-07-31)
+
+
+
+
 ## [ngircd-5.0.4000011](https://github.com/truecharts/charts/compare/ngircd-5.0.4000010...ngircd-5.0.4000011) (2023-07-29)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [passwordpusherephemeral-3.0.0](https://github.com/truecharts/charts/compare/passwordpusherephemeral-2.0.27...passwordpusherephemeral-3.0.0) (2023-07-31)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [passwordpusherephemeral-2.0.27](https://github.com/truecharts/charts/compare/passwordpusherephemeral-2.0.26...passwordpusherephemeral-2.0.27) (2023-05-01)
 
 ### Chore

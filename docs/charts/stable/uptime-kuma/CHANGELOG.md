@@ -2,6 +2,11 @@
 
 
 
+## [uptime-kuma-7.0.0](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.27...uptime-kuma-7.0.0) (2023-07-31)
+
+
+
+
 ## [uptime-kuma-6.0.27](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.26...uptime-kuma-6.0.27) (2023-07-29)
 
 ### Chore

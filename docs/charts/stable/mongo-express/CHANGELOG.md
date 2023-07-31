@@ -2,6 +2,11 @@
 
 
 
+## [mongo-express-2.0.0](https://github.com/truecharts/charts/compare/mongo-express-1.0.11...mongo-express-2.0.0) (2023-07-31)
+
+
+
+
 ## [mongo-express-1.0.11](https://github.com/truecharts/charts/compare/mongo-express-1.0.10...mongo-express-1.0.11) (2023-07-29)
 
 ### Chore

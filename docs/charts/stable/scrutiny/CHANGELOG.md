@@ -2,6 +2,11 @@
 
 
 
+## [scrutiny-7.0.0](https://github.com/truecharts/charts/compare/scrutiny-6.0.25...scrutiny-7.0.0) (2023-07-31)
+
+
+
+
 ## [scrutiny-6.0.25](https://github.com/truecharts/charts/compare/scrutiny-6.0.24...scrutiny-6.0.25) (2023-07-29)
 
 ### Chore

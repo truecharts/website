@@ -2,6 +2,11 @@
 
 
 
+## [matomo-8.0.0](https://github.com/truecharts/charts/compare/matomo-7.0.34...matomo-8.0.0) (2023-07-31)
+
+
+
+
 ## [matomo-7.0.34](https://github.com/truecharts/charts/compare/matomo-7.0.33...matomo-7.0.34) (2023-07-29)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [code-server-8.0.0](https://github.com/truecharts/charts/compare/code-server-7.0.31...code-server-8.0.0) (2023-07-31)
+
+
+
+
 ## [code-server-7.0.31](https://github.com/truecharts/charts/compare/code-server-7.0.30...code-server-7.0.31) (2023-07-29)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [funkwhale-4.0.0](https://github.com/truecharts/charts/compare/funkwhale-3.0.1...funkwhale-4.0.0) (2023-07-31)
+
+
+
+
 ## [funkwhale-3.0.1](https://github.com/truecharts/charts/compare/funkwhale-3.0.0...funkwhale-3.0.1) (2023-07-30)
 
 ### Fix

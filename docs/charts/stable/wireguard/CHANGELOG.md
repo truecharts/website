@@ -2,6 +2,11 @@
 
 
 
+## [wireguard-5.0.0](https://github.com/truecharts/charts/compare/wireguard-4.0.25...wireguard-5.0.0) (2023-07-31)
+
+
+
+
 ## [wireguard-4.0.25](https://github.com/truecharts/charts/compare/wireguard-4.0.24...wireguard-4.0.25) (2023-07-29)
 
 ### Chore

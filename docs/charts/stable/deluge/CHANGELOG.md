@@ -2,6 +2,11 @@
 
 
 
+## [deluge-15.0.0](https://github.com/truecharts/charts/compare/deluge-14.0.25...deluge-15.0.0) (2023-07-31)
+
+
+
+
 ## [deluge-14.0.25](https://github.com/truecharts/charts/compare/deluge-14.0.24...deluge-14.0.25) (2023-07-29)
 
 ### Chore

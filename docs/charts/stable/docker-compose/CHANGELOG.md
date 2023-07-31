@@ -2,6 +2,11 @@
 
 
 
+## [docker-compose-7.0.0](https://github.com/truecharts/charts/compare/docker-compose-6.0.31...docker-compose-7.0.0) (2023-07-31)
+
+
+
+
 ## [docker-compose-6.0.31](https://github.com/truecharts/charts/compare/docker-compose-6.0.30...docker-compose-6.0.31) (2023-07-28)
 
 ### Chore

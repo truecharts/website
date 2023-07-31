@@ -2,6 +2,11 @@
 
 
 
+## [tsmuxer-5.0.0](https://github.com/truecharts/charts/compare/tsmuxer-4.0.19...tsmuxer-5.0.0) (2023-07-31)
+
+
+
+
 ## [tsmuxer-4.0.19](https://github.com/truecharts/charts/compare/tsmuxer-4.0.18...tsmuxer-4.0.19) (2023-07-29)
 
 ### Chore

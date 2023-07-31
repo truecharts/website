@@ -2,6 +2,11 @@
 
 
 
+## [whoogle-7.0.0](https://github.com/truecharts/charts/compare/whoogle-6.0.23...whoogle-7.0.0) (2023-07-31)
+
+
+
+
 ## [whoogle-6.0.23](https://github.com/truecharts/charts/compare/whoogle-6.0.22...whoogle-6.0.23) (2023-07-29)
 
 ### Chore

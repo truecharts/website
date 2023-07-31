@@ -2,6 +2,11 @@
 
 
 
+## [putty-5.0.0](https://github.com/truecharts/charts/compare/putty-4.0.17...putty-5.0.0) (2023-07-31)
+
+
+
+
 ## [putty-4.0.17](https://github.com/truecharts/charts/compare/putty-4.0.16...putty-4.0.17) (2023-07-29)
 
 ### Chore

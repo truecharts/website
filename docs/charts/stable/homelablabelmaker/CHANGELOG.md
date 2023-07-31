@@ -2,6 +2,11 @@
 
 
 
+## [homelablabelmaker-5.0.0](https://github.com/truecharts/charts/compare/homelablabelmaker-4.0.24...homelablabelmaker-5.0.0) (2023-07-31)
+
+
+
+
 ## [homelablabelmaker-4.0.24](https://github.com/truecharts/charts/compare/homelablabelmaker-4.0.23...homelablabelmaker-4.0.24) (2023-07-29)
 
 ### Chore

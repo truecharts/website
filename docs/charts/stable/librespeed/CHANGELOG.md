@@ -2,6 +2,11 @@
 
 
 
+## [librespeed-10.0.0](https://github.com/truecharts/charts/compare/librespeed-9.0.22...librespeed-10.0.0) (2023-07-31)
+
+
+
+
 ## [librespeed-9.0.22](https://github.com/truecharts/charts/compare/librespeed-9.0.21...librespeed-9.0.22) (2023-07-29)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [photoview-10.0.0](https://github.com/truecharts/charts/compare/photoview-9.0.3...photoview-10.0.0) (2023-07-31)
+
+
+
+
 ## [photoview-9.0.3](https://github.com/truecharts/charts/compare/photoview-9.0.2...photoview-9.0.3) (2023-07-30)
 
 ### Chore

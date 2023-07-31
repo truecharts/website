@@ -2,6 +2,11 @@
 
 
 
+## [servas-1.0.0](https://github.com/truecharts/charts/compare/servas-0.0.12...servas-1.0.0) (2023-07-31)
+
+
+
+
 ## [servas-0.0.12](https://github.com/truecharts/charts/compare/servas-0.0.11...servas-0.0.12) (2023-07-30)
 
 ### Chore

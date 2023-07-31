@@ -2,6 +2,11 @@
 
 
 
+## [mosquitto-11.0.0](https://github.com/truecharts/charts/compare/mosquitto-10.0.5...mosquitto-11.0.0) (2023-07-31)
+
+
+
+
 ## [mosquitto-10.0.5](https://github.com/truecharts/charts/compare/mosquitto-10.0.4...mosquitto-10.0.5) (2023-07-29)
 
 ### Chore

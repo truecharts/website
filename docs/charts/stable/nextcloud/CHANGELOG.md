@@ -2,6 +2,15 @@
 
 
 
+## [nextcloud-22.0.0](https://github.com/truecharts/charts/compare/nextcloud-21.0.21...nextcloud-22.0.0) (2023-07-31)
+
+### Chore
+
+- update container image tccr.io/truecharts/collabora to v23.05.2.2.1 ([#10936](https://github.com/truecharts/charts/issues/10936))
+  
+  
+
+
 ## [nextcloud-21.0.21](https://github.com/truecharts/charts/compare/nextcloud-21.0.20...nextcloud-21.0.21) (2023-07-28)
 
 ### Chore

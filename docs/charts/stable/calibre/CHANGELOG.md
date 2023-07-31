@@ -2,6 +2,11 @@
 
 
 
+## [calibre-11.0.0](https://github.com/truecharts/charts/compare/calibre-10.0.34...calibre-11.0.0) (2023-07-31)
+
+
+
+
 ## [calibre-10.0.34](https://github.com/truecharts/charts/compare/calibre-10.0.33...calibre-10.0.34) (2023-07-29)
 
 ### Chore

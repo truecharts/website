@@ -2,6 +2,11 @@
 
 
 
+## [thelounge-10.0.0](https://github.com/truecharts/charts/compare/thelounge-9.0.37...thelounge-10.0.0) (2023-07-31)
+
+
+
+
 ## [thelounge-9.0.37](https://github.com/truecharts/charts/compare/thelounge-9.0.36...thelounge-9.0.37) (2023-07-29)
 
 ### Chore

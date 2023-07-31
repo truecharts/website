@@ -2,6 +2,11 @@
 
 
 
+## [portainer-5.0.0](https://github.com/truecharts/charts/compare/portainer-4.0.22...portainer-5.0.0) (2023-07-31)
+
+
+
+
 ## [portainer-4.0.22](https://github.com/truecharts/charts/compare/portainer-4.0.21...portainer-4.0.22) (2023-07-30)
 
 ### Chore

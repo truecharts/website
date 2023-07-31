@@ -2,6 +2,11 @@
 
 
 
+## [webnut-5.0.0](https://github.com/truecharts/charts/compare/webnut-4.0.25...webnut-5.0.0) (2023-07-31)
+
+
+
+
 ## [webnut-4.0.25](https://github.com/truecharts/charts/compare/webnut-4.0.24...webnut-4.0.25) (2023-07-29)
 
 ### Chore

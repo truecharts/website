@@ -2,6 +2,19 @@
 
 
 
+## [traefik-forward-auth-1.0.0](https://github.com/truecharts/charts/compare/traefik-forward-auth-0.1.3...traefik-forward-auth-1.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [traefik-forward-auth-0.1.3](https://github.com/truecharts/charts/compare/traefik-forward-auth-0.1.2...traefik-forward-auth-0.1.3) (2023-05-03)
 
 ### Fix

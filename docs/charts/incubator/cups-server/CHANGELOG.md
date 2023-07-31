@@ -2,6 +2,20 @@
 
 
 
+## [cups-server-4.0.0](https://github.com/truecharts/charts/compare/cups-server-3.0.21...cups-server-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  
+
+
 ## [cups-server-3.0.21](https://github.com/truecharts/charts/compare/cups-server-3.0.20...cups-server-3.0.21) (2023-02-26)
 
 ### Chore

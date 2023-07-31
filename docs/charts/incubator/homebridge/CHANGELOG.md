@@ -2,6 +2,19 @@
 
 
 
+## [homebridge-4.0.0](https://github.com/truecharts/charts/compare/homebridge-3.1.0...homebridge-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [homebridge-3.1.0](https://github.com/truecharts/charts/compare/homebridge-3.0.8...homebridge-3.1.0) (2023-02-21)
 
 

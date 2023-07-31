@@ -2,6 +2,11 @@
 
 
 
+## [cyberchef-6.0.0](https://github.com/truecharts/charts/compare/cyberchef-5.0.38...cyberchef-6.0.0) (2023-07-31)
+
+
+
+
 ## [cyberchef-5.0.38](https://github.com/truecharts/charts/compare/cyberchef-5.0.37...cyberchef-5.0.38) (2023-07-30)
 
 ### Chore

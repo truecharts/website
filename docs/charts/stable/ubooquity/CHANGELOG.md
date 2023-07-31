@@ -2,6 +2,11 @@
 
 
 
+## [ubooquity-7.0.0](https://github.com/truecharts/charts/compare/ubooquity-6.0.23...ubooquity-7.0.0) (2023-07-31)
+
+
+
+
 ## [ubooquity-6.0.23](https://github.com/truecharts/charts/compare/ubooquity-6.0.22...ubooquity-6.0.23) (2023-07-29)
 
 ### Chore

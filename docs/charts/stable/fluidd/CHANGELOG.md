@@ -2,6 +2,11 @@
 
 
 
+## [fluidd-6.0.0](https://github.com/truecharts/charts/compare/fluidd-5.0.27...fluidd-6.0.0) (2023-07-31)
+
+
+
+
 ## [fluidd-5.0.27](https://github.com/truecharts/charts/compare/fluidd-5.0.26...fluidd-5.0.27) (2023-07-29)
 
 ### Chore

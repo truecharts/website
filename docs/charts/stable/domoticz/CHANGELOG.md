@@ -2,6 +2,11 @@
 
 
 
+## [domoticz-6.0.0](https://github.com/truecharts/charts/compare/domoticz-5.0.23...domoticz-6.0.0) (2023-07-31)
+
+
+
+
 ## [domoticz-5.0.23](https://github.com/truecharts/charts/compare/domoticz-5.0.22...domoticz-5.0.23) (2023-07-22)
 
 ### Chore

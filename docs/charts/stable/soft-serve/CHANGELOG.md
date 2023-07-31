@@ -2,6 +2,11 @@
 
 
 
+## [soft-serve-3.0.0](https://github.com/truecharts/charts/compare/soft-serve-2.0.27...soft-serve-3.0.0) (2023-07-31)
+
+
+
+
 ## [soft-serve-2.0.27](https://github.com/truecharts/charts/compare/soft-serve-2.0.26...soft-serve-2.0.27) (2023-07-29)
 
 ### Chore

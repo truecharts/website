@@ -2,6 +2,11 @@
 
 
 
+## [homer-6.0.0](https://github.com/truecharts/charts/compare/homer-5.0.24...homer-6.0.0) (2023-07-31)
+
+
+
+
 ## [homer-5.0.24](https://github.com/truecharts/charts/compare/homer-5.0.23...homer-5.0.24) (2023-07-29)
 
 ### Chore

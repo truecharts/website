@@ -2,6 +2,11 @@
 
 
 
+## [trilium-notes-9.0.0](https://github.com/truecharts/charts/compare/trilium-notes-8.0.26...trilium-notes-9.0.0) (2023-07-31)
+
+
+
+
 ## [trilium-notes-8.0.26](https://github.com/truecharts/charts/compare/trilium-notes-8.0.25...trilium-notes-8.0.26) (2023-07-29)
 
 ### Chore

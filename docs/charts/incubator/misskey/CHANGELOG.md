@@ -2,6 +2,11 @@
 
 
 
+## [misskey-5.0.0](https://github.com/truecharts/charts/compare/misskey-4.0.3...misskey-5.0.0) (2023-07-31)
+
+
+
+
 ## [misskey-4.0.3](https://github.com/truecharts/charts/compare/misskey-4.0.2...misskey-4.0.3) (2023-07-30)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [frigate-10.0.0](https://github.com/truecharts/charts/compare/frigate-9.0.7...frigate-10.0.0) (2023-07-31)
+
+
+
+
 ## [frigate-9.0.7](https://github.com/truecharts/charts/compare/frigate-9.0.6...frigate-9.0.7) (2023-07-29)
 
 ### Chore

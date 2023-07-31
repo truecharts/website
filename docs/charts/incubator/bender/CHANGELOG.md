@@ -2,6 +2,19 @@
 
 
 
+## [bender-3.0.0](https://github.com/truecharts/charts/compare/bender-2.0.9...bender-3.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [bender-2.0.9](https://github.com/truecharts/charts/compare/bender-2.0.8...bender-2.0.9) (2023-02-10)
 
 ### Fix

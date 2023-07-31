@@ -2,6 +2,11 @@
 
 
 
+## [openbooks-2.0.0](https://github.com/truecharts/charts/compare/openbooks-1.0.4...openbooks-2.0.0) (2023-07-31)
+
+
+
+
 ## [openbooks-1.0.4](https://github.com/truecharts/charts/compare/openbooks-1.0.3...openbooks-1.0.4) (2023-07-30)
 
 ### Chore

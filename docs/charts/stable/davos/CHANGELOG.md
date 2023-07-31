@@ -2,6 +2,11 @@
 
 
 
+## [davos-8.0.0](https://github.com/truecharts/charts/compare/davos-7.0.24...davos-8.0.0) (2023-07-31)
+
+
+
+
 ## [davos-7.0.24](https://github.com/truecharts/charts/compare/davos-7.0.23...davos-7.0.24) (2023-07-29)
 
 ### Chore

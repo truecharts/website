@@ -2,6 +2,11 @@
 
 
 
+## [redisinsight-4.0.0](https://github.com/truecharts/charts/compare/redisinsight-3.0.4...redisinsight-4.0.0) (2023-07-31)
+
+
+
+
 ## [redisinsight-3.0.4](https://github.com/truecharts/charts/compare/redisinsight-3.0.3...redisinsight-3.0.4) (2023-07-30)
 
 ### Chore

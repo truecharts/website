@@ -2,6 +2,11 @@
 
 
 
+## [avidemux-5.0.0](https://github.com/truecharts/charts/compare/avidemux-4.0.26...avidemux-5.0.0) (2023-07-31)
+
+
+
+
 ## [avidemux-4.0.26](https://github.com/truecharts/charts/compare/avidemux-4.0.25...avidemux-4.0.26) (2023-07-29)
 
 ### Chore

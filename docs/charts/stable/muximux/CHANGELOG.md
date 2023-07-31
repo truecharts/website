@@ -2,6 +2,11 @@
 
 
 
+## [muximux-7.0.0](https://github.com/truecharts/charts/compare/muximux-6.0.22...muximux-7.0.0) (2023-07-31)
+
+
+
+
 ## [muximux-6.0.22](https://github.com/truecharts/charts/compare/muximux-6.0.21...muximux-6.0.22) (2023-07-29)
 
 ### Chore

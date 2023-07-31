@@ -2,6 +2,11 @@
 
 
 
+## [immich-8.0.0](https://github.com/truecharts/charts/compare/immich-7.1.10...immich-8.0.0) (2023-07-31)
+
+
+
+
 ## [immich-7.1.10](https://github.com/truecharts/charts/compare/immich-7.1.9...immich-7.1.10) (2023-07-30)
 
 ### Chore

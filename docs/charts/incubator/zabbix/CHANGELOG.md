@@ -2,6 +2,19 @@
 
 
 
+## [zabbix-5.0.0](https://github.com/truecharts/charts/compare/zabbix-4.0.28...zabbix-5.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [zabbix-4.0.28](https://github.com/truecharts/charts/compare/zabbix-4.0.27...zabbix-4.0.28) (2023-02-27)
 
 ### Chore

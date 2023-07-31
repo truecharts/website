@@ -2,6 +2,19 @@
 
 
 
+## [docspell-4.0.0](https://github.com/truecharts/charts/compare/docspell-3.0.26...docspell-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [docspell-3.0.26](https://github.com/truecharts/charts/compare/docspell-3.0.25...docspell-3.0.26) (2023-02-27)
 
 ### Chore

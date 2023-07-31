@@ -2,6 +2,11 @@
 
 
 
+## [plexanisync-4.0.0](https://github.com/truecharts/charts/compare/plexanisync-3.0.3...plexanisync-4.0.0) (2023-07-31)
+
+
+
+
 ## [plexanisync-3.0.3](https://github.com/truecharts/charts/compare/plexanisync-3.0.2...plexanisync-3.0.3) (2023-07-30)
 
 ### Chore

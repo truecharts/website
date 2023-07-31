@@ -2,6 +2,11 @@
 
 
 
+## [kiwix-serve-5.0.0](https://github.com/truecharts/charts/compare/kiwix-serve-4.0.27...kiwix-serve-5.0.0) (2023-07-31)
+
+
+
+
 ## [kiwix-serve-4.0.27](https://github.com/truecharts/charts/compare/kiwix-serve-4.0.26...kiwix-serve-4.0.27) (2023-07-29)
 
 ### Chore

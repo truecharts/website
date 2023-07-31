@@ -2,6 +2,11 @@
 
 
 
+## [grafana-9.0.0](https://github.com/truecharts/charts/compare/grafana-8.0.7...grafana-9.0.0) (2023-07-31)
+
+
+
+
 ## [grafana-8.0.7](https://github.com/truecharts/charts/compare/grafana-8.0.6...grafana-8.0.7) (2023-07-30)
 
 ### Chore

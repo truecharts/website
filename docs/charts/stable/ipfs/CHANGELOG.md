@@ -2,6 +2,11 @@
 
 
 
+## [ipfs-7.0.0](https://github.com/truecharts/charts/compare/ipfs-6.0.27...ipfs-7.0.0) (2023-07-31)
+
+
+
+
 ## [ipfs-6.0.27](https://github.com/truecharts/charts/compare/ipfs-6.0.26...ipfs-6.0.27) (2023-07-29)
 
 ### Chore

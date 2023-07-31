@@ -2,6 +2,15 @@
 
 
 
+## [jackett2telegram-1.0.0](https://github.com/truecharts/charts/compare/jackett2telegram-0.0.5...jackett2telegram-1.0.0) (2023-07-31)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [jackett2telegram-0.0.5](https://github.com/truecharts/charts/compare/jackett2telegram-0.0.4...jackett2telegram-0.0.5) (2023-02-10)
 
 ### Fix

@@ -2,6 +2,11 @@
 
 
 
+## [tdarr-node-6.0.0](https://github.com/truecharts/charts/compare/tdarr-node-5.0.25...tdarr-node-6.0.0) (2023-07-31)
+
+
+
+
 ## [tdarr-node-5.0.25](https://github.com/truecharts/charts/compare/tdarr-node-5.0.24...tdarr-node-5.0.25) (2023-07-30)
 
 ### Feat

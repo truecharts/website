@@ -2,6 +2,11 @@
 
 
 
+## [technitium-5.0.0](https://github.com/truecharts/charts/compare/technitium-4.0.4...technitium-5.0.0) (2023-07-31)
+
+
+
+
 ## [technitium-4.0.4](https://github.com/truecharts/charts/compare/technitium-4.0.3...technitium-4.0.4) (2023-07-30)
 
 ### Chore

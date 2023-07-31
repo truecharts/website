@@ -2,6 +2,11 @@
 
 
 
+## [hyperion-ng-10.0.0](https://github.com/truecharts/charts/compare/hyperion-ng-9.0.25...hyperion-ng-10.0.0) (2023-07-31)
+
+
+
+
 ## [hyperion-ng-9.0.25](https://github.com/truecharts/charts/compare/hyperion-ng-9.0.24...hyperion-ng-9.0.25) (2023-07-29)
 
 ### Chore

@@ -2,6 +2,19 @@
 
 
 
+## [plik-1.0.0](https://github.com/truecharts/charts/compare/plik-0.0.11...plik-1.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [plik-0.0.11](https://github.com/truecharts/charts/compare/plik-0.0.10...plik-0.0.11) (2023-02-27)
 
 ### Chore

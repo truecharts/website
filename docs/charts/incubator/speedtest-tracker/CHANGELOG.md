@@ -2,6 +2,11 @@
 
 
 
+## [speedtest-tracker-5.0.0](https://github.com/truecharts/charts/compare/speedtest-tracker-4.0.18...speedtest-tracker-5.0.0) (2023-07-31)
+
+
+
+
 ## [speedtest-tracker-4.0.18](https://github.com/truecharts/charts/compare/speedtest-tracker-4.0.17...speedtest-tracker-4.0.18) (2023-07-30)
 
 ### Chore

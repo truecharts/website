@@ -2,6 +2,11 @@
 
 
 
+## [pihole-11.0.0](https://github.com/truecharts/charts/compare/pihole-10.0.13...pihole-11.0.0) (2023-07-31)
+
+
+
+
 ## [pihole-10.0.13](https://github.com/truecharts/charts/compare/pihole-10.0.12...pihole-10.0.13) (2023-07-29)
 
 ### Chore

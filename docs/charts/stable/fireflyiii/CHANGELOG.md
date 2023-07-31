@@ -2,6 +2,11 @@
 
 
 
+## [fireflyiii-21.0.0](https://github.com/truecharts/charts/compare/fireflyiii-20.0.33...fireflyiii-21.0.0) (2023-07-31)
+
+
+
+
 ## [fireflyiii-20.0.33](https://github.com/truecharts/charts/compare/fireflyiii-20.0.32...fireflyiii-20.0.33) (2023-07-29)
 
 ### Chore

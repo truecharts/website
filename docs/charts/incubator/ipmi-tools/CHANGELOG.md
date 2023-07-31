@@ -2,6 +2,11 @@
 
 
 
+## [ipmi-tools-4.0.0](https://github.com/truecharts/charts/compare/ipmi-tools-3.0.1...ipmi-tools-4.0.0) (2023-07-31)
+
+
+
+
 ## [ipmi-tools-3.0.1](https://github.com/truecharts/charts/compare/ipmi-tools-3.0.0...ipmi-tools-3.0.1) (2023-07-30)
 
 ### Chore

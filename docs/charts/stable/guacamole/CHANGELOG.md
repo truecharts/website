@@ -2,6 +2,11 @@
 
 
 
+## [guacamole-10.0.0](https://github.com/truecharts/charts/compare/guacamole-9.0.4...guacamole-10.0.0) (2023-07-31)
+
+
+
+
 ## [guacamole-9.0.4](https://github.com/truecharts/charts/compare/guacamole-9.0.3...guacamole-9.0.4) (2023-07-30)
 
 ### Chore

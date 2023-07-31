@@ -2,6 +2,11 @@
 
 
 
+## [reg-10.0.0](https://github.com/truecharts/charts/compare/reg-9.0.28...reg-10.0.0) (2023-07-31)
+
+
+
+
 ## [reg-9.0.28](https://github.com/truecharts/charts/compare/reg-9.0.27...reg-9.0.28) (2023-07-29)
 
 ### Chore

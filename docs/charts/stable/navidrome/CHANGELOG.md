@@ -2,6 +2,11 @@
 
 
 
+## [navidrome-16.0.0](https://github.com/truecharts/charts/compare/navidrome-15.1.2...navidrome-16.0.0) (2023-07-31)
+
+
+
+
 ## [navidrome-15.1.2](https://github.com/truecharts/charts/compare/navidrome-15.1.1...navidrome-15.1.2) (2023-07-29)
 
 ### Chore

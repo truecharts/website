@@ -2,6 +2,11 @@
 
 
 
+## [fleet-8.0.0](https://github.com/truecharts/charts/compare/fleet-7.0.28...fleet-8.0.0) (2023-07-31)
+
+
+
+
 ## [fleet-7.0.28](https://github.com/truecharts/charts/compare/fleet-7.0.27...fleet-7.0.28) (2023-07-29)
 
 ### Chore

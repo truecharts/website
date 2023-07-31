@@ -2,6 +2,11 @@
 
 
 
+## [wekan-10.0.0](https://github.com/truecharts/charts/compare/wekan-9.0.23...wekan-10.0.0) (2023-07-31)
+
+
+
+
 ## [wekan-9.0.23](https://github.com/truecharts/charts/compare/wekan-9.0.22...wekan-9.0.23) (2023-07-29)
 
 ### Chore

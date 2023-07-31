@@ -2,6 +2,11 @@
 
 
 
+## [meshroom-6.0.0](https://github.com/truecharts/charts/compare/meshroom-5.0.24...meshroom-6.0.0) (2023-07-31)
+
+
+
+
 ## [meshroom-5.0.24](https://github.com/truecharts/charts/compare/meshroom-5.0.23...meshroom-5.0.24) (2023-07-29)
 
 ### Chore

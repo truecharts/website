@@ -2,6 +2,11 @@
 
 
 
+## [airsonic-10.0.0](https://github.com/truecharts/charts/compare/airsonic-9.0.25...airsonic-10.0.0) (2023-07-31)
+
+
+
+
 ## [airsonic-9.0.25](https://github.com/truecharts/charts/compare/airsonic-9.0.24...airsonic-9.0.25) (2023-07-29)
 
 ### Chore
