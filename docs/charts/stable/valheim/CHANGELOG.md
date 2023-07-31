@@ -2,6 +2,15 @@
 
 
 
+## [valheim-7.0.1](https://github.com/truecharts/charts/compare/valheim-7.0.0...valheim-7.0.1) (2023-07-31)
+
+### Chore
+
+- update container image tccr.io/truecharts/valheim-server to latest ([#9633](https://github.com/truecharts/charts/issues/9633))
+  
+  
+
+
 ## [valheim-7.0.0](https://github.com/truecharts/charts/compare/valheim-6.0.18...valheim-7.0.0) (2023-07-31)
 
 
