@@ -1,6 +1,6 @@
 # flowise
 
-![Version: 0.0.4](https://img.shields.io/badge/Version-0.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.3.1"](https://img.shields.io/badge/AppVersion-"1.3.1"-informational?style=flat-square)
+![Version: 0.0.5](https://img.shields.io/badge/Version-0.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.3.2"](https://img.shields.io/badge/AppVersion-"1.3.2"-informational?style=flat-square)
 
 Drag & drop UI to build your customized LLM flow.
 
