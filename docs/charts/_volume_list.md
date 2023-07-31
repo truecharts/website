@@ -853,7 +853,7 @@ The intro needs improvement ;)
 |freecad-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                   |Read/Write|Enabled                |
 |fsm                            |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |funkwhale                      |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
-|funkwhale                      |musicpath                  |PVC      |-                |/music                                          |Read Only |Enabled                |
+|funkwhale                      |musicpath                  |PVC      |-                |/music                                          |Read/Write|Enabled                |
 |garrysmod                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |garrysmod                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |genea                          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
@@ -1074,6 +1074,7 @@ The intro needs improvement ;)
 |owncloud-ocis                  |data                       |PVC      |-                |/var/lib/ocis                                   |Read/Write|Enabled                |
 |owncloud-ocis                  |config                     |PVC      |-                |/etc/ocis                                       |Read/Write|Enabled                |
 |owntracks                      |store                      |PVC      |-                |/store                                          |Read/Write|Enabled                |
+|owntracks                      |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |passwordpusherephemeral        |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |pastey                         |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |pavlovvr                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
