@@ -2,6 +2,7 @@
 
 
 
+
 ## [kavitaemail-3.0.0](https://github.com/truecharts/charts/compare/kavitaemail-2.0.12...kavitaemail-3.0.0) (2023-07-31)
 
 ### Feat

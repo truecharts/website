@@ -2,6 +2,7 @@
 
 
 
+
 ## [fancyindex-4.0.0](https://github.com/truecharts/charts/compare/fancyindex-3.0.8...fancyindex-4.0.0) (2023-07-31)
 
 ### Feat

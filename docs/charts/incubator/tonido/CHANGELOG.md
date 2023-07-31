@@ -2,6 +2,7 @@
 
 
 
+
 ## [tonido-3.0.0](https://github.com/truecharts/charts/compare/tonido-2.0.9...tonido-3.0.0) (2023-07-31)
 
 ### Feat

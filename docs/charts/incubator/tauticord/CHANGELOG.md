@@ -2,6 +2,7 @@
 
 
 
+
 ## [tauticord-1.0.0](https://github.com/truecharts/charts/compare/tauticord-0.0.4...tauticord-1.0.0) (2023-07-31)
 
 

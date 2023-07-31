@@ -2,6 +2,7 @@
 
 
 
+
 ## [megasync-4.0.0](https://github.com/truecharts/charts/compare/megasync-3.0.3...megasync-4.0.0) (2023-07-31)
 
 

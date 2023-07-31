@@ -2,6 +2,7 @@
 
 
 
+
 ## [traefik-forward-auth-1.0.0](https://github.com/truecharts/charts/compare/traefik-forward-auth-0.1.3...traefik-forward-auth-1.0.0) (2023-07-31)
 
 ### Feat

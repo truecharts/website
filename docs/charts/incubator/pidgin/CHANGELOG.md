@@ -2,6 +2,7 @@
 
 
 
+
 ## [pidgin-6.0.0](https://github.com/truecharts/charts/compare/pidgin-5.0.0...pidgin-6.0.0) (2023-07-31)
 
 ### Feat

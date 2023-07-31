@@ -2,6 +2,7 @@
 
 
 
+
 ## [cups-server-4.0.0](https://github.com/truecharts/charts/compare/cups-server-3.0.21...cups-server-4.0.0) (2023-07-31)
 
 ### Feat

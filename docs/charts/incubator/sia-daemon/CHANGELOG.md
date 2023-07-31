@@ -2,6 +2,7 @@
 
 
 
+
 ## [sia-daemon-3.0.0](https://github.com/truecharts/charts/compare/sia-daemon-2.0.13...sia-daemon-3.0.0) (2023-07-31)
 
 ### Feat

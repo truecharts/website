@@ -2,6 +2,7 @@
 
 
 
+
 ## [libreoffice-6.0.0](https://github.com/truecharts/charts/compare/libreoffice-5.0.0...libreoffice-6.0.0) (2023-07-31)
 
 ### Feat

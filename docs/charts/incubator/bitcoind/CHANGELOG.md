@@ -2,6 +2,7 @@
 
 
 
+
 ## [bitcoind-3.0.0](https://github.com/truecharts/charts/compare/bitcoind-2.0.8...bitcoind-3.0.0) (2023-07-31)
 
 ### Feat

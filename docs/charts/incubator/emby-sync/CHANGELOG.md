@@ -2,6 +2,7 @@
 
 
 
+
 ## [emby-sync-3.0.0](https://github.com/truecharts/charts/compare/emby-sync-2.0.9...emby-sync-3.0.0) (2023-07-31)
 
 ### Feat

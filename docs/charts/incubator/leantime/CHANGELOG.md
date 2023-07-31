@@ -2,6 +2,7 @@
 
 
 
+
 ## [leantime-9.0.0](https://github.com/truecharts/charts/compare/leantime-8.0.0...leantime-9.0.0) (2023-07-31)
 
 ### Feat

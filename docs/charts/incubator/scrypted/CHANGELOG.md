@@ -2,6 +2,7 @@
 
 
 
+
 ## [scrypted-1.0.0](https://github.com/truecharts/charts/compare/scrypted-0.0.6...scrypted-1.0.0) (2023-07-31)
 
 ### Feat

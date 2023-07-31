@@ -2,6 +2,7 @@
 
 
 
+
 ## [synapse-9.0.0](https://github.com/truecharts/charts/compare/synapse-8.0.0...synapse-9.0.0) (2023-07-31)
 
 ### Feat

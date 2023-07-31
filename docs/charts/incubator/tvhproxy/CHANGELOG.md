@@ -2,6 +2,7 @@
 
 
 
+
 ## [tvhproxy-3.0.0](https://github.com/truecharts/charts/compare/tvhproxy-2.0.9...tvhproxy-3.0.0) (2023-07-31)
 
 ### Fix

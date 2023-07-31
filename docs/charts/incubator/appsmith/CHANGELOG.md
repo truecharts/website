@@ -2,6 +2,7 @@
 
 
 
+
 ## [appsmith-6.0.0](https://github.com/truecharts/charts/compare/appsmith-5.0.34...appsmith-6.0.0) (2023-07-31)
 
 ### Feat

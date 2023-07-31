@@ -2,6 +2,7 @@
 
 
 
+
 ## [nightscout-3.0.0](https://github.com/truecharts/charts/compare/nightscout-2.0.9...nightscout-3.0.0) (2023-07-31)
 
 ### Feat

@@ -2,6 +2,7 @@
 
 
 
+
 ## [statping-ng-13.0.0](https://github.com/truecharts/charts/compare/statping-ng-12.0.0...statping-ng-13.0.0) (2023-07-31)
 
 ### Feat

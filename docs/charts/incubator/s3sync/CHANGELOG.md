@@ -2,6 +2,7 @@
 
 
 
+
 ## [s3sync-3.0.0](https://github.com/truecharts/charts/compare/s3sync-2.0.9...s3sync-3.0.0) (2023-07-31)
 
 ### Fix

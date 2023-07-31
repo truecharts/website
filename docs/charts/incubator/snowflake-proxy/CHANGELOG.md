@@ -2,6 +2,7 @@
 
 
 
+
 ## [snowflake-proxy-1.0.0](https://github.com/truecharts/charts/compare/snowflake-proxy-0.0.12...snowflake-proxy-1.0.0) (2023-07-31)
 
 

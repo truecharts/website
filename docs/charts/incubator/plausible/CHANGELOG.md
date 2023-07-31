@@ -2,6 +2,7 @@
 
 
 
+
 ## [plausible-5.0.0](https://github.com/truecharts/charts/compare/plausible-4.0.25...plausible-5.0.0) (2023-07-31)
 
 ### Feat

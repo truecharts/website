@@ -2,6 +2,7 @@
 
 
 
+
 ## [flashpaper-5.0.0](https://github.com/truecharts/charts/compare/flashpaper-4.0.0...flashpaper-5.0.0) (2023-07-31)
 
 ### Feat

@@ -2,6 +2,7 @@
 
 
 
+
 ## [netbox-4.0.0](https://github.com/truecharts/charts/compare/netbox-3.0.39...netbox-4.0.0) (2023-07-31)
 
 ### Feat

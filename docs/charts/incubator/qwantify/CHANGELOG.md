@@ -2,6 +2,7 @@
 
 
 
+
 ## [qwantify-1.0.0](https://github.com/truecharts/charts/compare/qwantify-0.0.4...qwantify-1.0.0) (2023-07-31)
 
 ### Feat

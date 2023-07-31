@@ -2,6 +2,7 @@
 
 
 
+
 ## [factorio-5.0.0](https://github.com/truecharts/charts/compare/factorio-4.0.9...factorio-5.0.0) (2023-07-31)
 
 

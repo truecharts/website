@@ -2,6 +2,7 @@
 
 
 
+
 ## [hasty-paste-1.0.0](https://github.com/truecharts/charts/compare/hasty-paste-0.0.12...hasty-paste-1.0.0) (2023-07-31)
 
 ### Feat

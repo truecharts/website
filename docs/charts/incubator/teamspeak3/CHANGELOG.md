@@ -2,6 +2,7 @@
 
 
 
+
 ## [teamspeak3-8.0.0](https://github.com/truecharts/charts/compare/teamspeak3-7.0.0...teamspeak3-8.0.0) (2023-07-31)
 
 

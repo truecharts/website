@@ -2,6 +2,7 @@
 
 
 
+
 ## [ts3-manager-3.0.0](https://github.com/truecharts/charts/compare/ts3-manager-2.0.9...ts3-manager-3.0.0) (2023-07-31)
 
 ### Feat

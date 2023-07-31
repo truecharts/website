@@ -2,6 +2,7 @@
 
 
 
+
 ## [red-discordbot-3.0.0](https://github.com/truecharts/charts/compare/red-discordbot-2.0.16...red-discordbot-3.0.0) (2023-07-31)
 
 ### Fix

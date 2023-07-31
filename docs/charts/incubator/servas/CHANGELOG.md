@@ -2,6 +2,7 @@
 
 
 
+
 ## [servas-1.0.0](https://github.com/truecharts/charts/compare/servas-0.0.12...servas-1.0.0) (2023-07-31)
 
 

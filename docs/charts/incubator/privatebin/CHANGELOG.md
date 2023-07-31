@@ -2,6 +2,7 @@
 
 
 
+
 ## [privatebin-4.0.0](https://github.com/truecharts/charts/compare/privatebin-3.0.30...privatebin-4.0.0) (2023-07-31)
 
 ### Feat

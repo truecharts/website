@@ -2,6 +2,7 @@
 
 
 
+
 ## [openldap-11.0.0](https://github.com/truecharts/charts/compare/openldap-10.0.0...openldap-11.0.0) (2023-07-31)
 
 

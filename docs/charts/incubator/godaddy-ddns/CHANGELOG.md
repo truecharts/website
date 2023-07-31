@@ -2,6 +2,7 @@
 
 
 
+
 ## [godaddy-ddns-3.0.0](https://github.com/truecharts/charts/compare/godaddy-ddns-2.0.9...godaddy-ddns-3.0.0) (2023-07-31)
 
 ### Fix

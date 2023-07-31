@@ -2,6 +2,7 @@
 
 
 
+
 ## [valetudo-mapper-3.0.0](https://github.com/truecharts/charts/compare/valetudo-mapper-2.0.9...valetudo-mapper-3.0.0) (2023-07-31)
 
 ### Fix

@@ -2,6 +2,7 @@
 
 
 
+
 ## [explainshell-3.0.0](https://github.com/truecharts/charts/compare/explainshell-2.0.9...explainshell-3.0.0) (2023-07-31)
 
 ### Fix

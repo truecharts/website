@@ -2,6 +2,7 @@
 
 
 
+
 ## [raneto-3.0.0](https://github.com/truecharts/charts/compare/raneto-2.0.15...raneto-3.0.0) (2023-07-31)
 
 ### Feat

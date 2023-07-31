@@ -2,6 +2,7 @@
 
 
 
+
 ## [koel-8.0.0](https://github.com/truecharts/charts/compare/koel-7.0.0...koel-8.0.0) (2023-07-31)
 
 ### Feat

@@ -2,6 +2,7 @@
 
 
 
+
 ## [anope-3.0.0](https://github.com/truecharts/charts/compare/anope-2.0.9...anope-3.0.0) (2023-07-31)
 
 ### Fix

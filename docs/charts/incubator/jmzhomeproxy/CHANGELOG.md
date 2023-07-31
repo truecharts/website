@@ -2,6 +2,7 @@
 
 
 
+
 ## [jmzhomeproxy-3.0.0](https://github.com/truecharts/charts/compare/jmzhomeproxy-2.0.9...jmzhomeproxy-3.0.0) (2023-07-31)
 
 ### Feat

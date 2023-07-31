@@ -2,6 +2,7 @@
 
 
 
+
 ## [artifactory-oss-3.0.0](https://github.com/truecharts/charts/compare/artifactory-oss-2.0.19...artifactory-oss-3.0.0) (2023-07-31)
 
 ### Feat

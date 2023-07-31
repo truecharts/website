@@ -2,6 +2,7 @@
 
 
 
+
 ## [goaccess-3.0.0](https://github.com/truecharts/charts/compare/goaccess-2.0.8...goaccess-3.0.0) (2023-07-31)
 
 ### Feat

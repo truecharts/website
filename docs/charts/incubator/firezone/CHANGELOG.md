@@ -2,6 +2,7 @@
 
 
 
+
 ## [firezone-1.0.0](https://github.com/truecharts/charts/compare/firezone-0.0.7...firezone-1.0.0) (2023-07-31)
 
 

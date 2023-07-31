@@ -2,6 +2,7 @@
 
 
 
+
 ## [miniflux-12.0.0](https://github.com/truecharts/charts/compare/miniflux-11.0.0...miniflux-12.0.0) (2023-07-31)
 
 ### Feat

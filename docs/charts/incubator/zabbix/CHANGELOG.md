@@ -2,6 +2,7 @@
 
 
 
+
 ## [zabbix-5.0.0](https://github.com/truecharts/charts/compare/zabbix-4.0.28...zabbix-5.0.0) (2023-07-31)
 
 ### Feat

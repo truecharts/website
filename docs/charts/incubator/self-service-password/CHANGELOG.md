@@ -2,6 +2,7 @@
 
 
 
+
 ## [self-service-password-4.0.0](https://github.com/truecharts/charts/compare/self-service-password-3.0.9...self-service-password-4.0.0) (2023-07-31)
 
 ### Feat

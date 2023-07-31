@@ -2,6 +2,7 @@
 
 
 
+
 ## [ipmi-tools-4.0.0](https://github.com/truecharts/charts/compare/ipmi-tools-3.0.1...ipmi-tools-4.0.0) (2023-07-31)
 
 

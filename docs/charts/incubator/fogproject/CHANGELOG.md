@@ -2,6 +2,7 @@
 
 
 
+
 ## [fogproject-3.0.0](https://github.com/truecharts/charts/compare/fogproject-2.0.9...fogproject-3.0.0) (2023-07-31)
 
 ### Fix

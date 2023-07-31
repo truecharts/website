@@ -2,6 +2,7 @@
 
 
 
+
 ## [clipplex-1.0.0](https://github.com/truecharts/charts/compare/clipplex-0.0.6...clipplex-1.0.0) (2023-07-31)
 
 ### Feat

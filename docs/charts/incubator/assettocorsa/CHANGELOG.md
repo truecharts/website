@@ -2,6 +2,7 @@
 
 
 
+
 ## [assettocorsa-3.0.0](https://github.com/truecharts/charts/compare/assettocorsa-2.0.9...assettocorsa-3.0.0) (2023-07-31)
 
 ### Feat

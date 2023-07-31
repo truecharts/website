@@ -2,6 +2,7 @@
 
 
 
+
 ## [trango-3.0.0](https://github.com/truecharts/charts/compare/trango-2.0.9...trango-3.0.0) (2023-07-31)
 
 ### Feat

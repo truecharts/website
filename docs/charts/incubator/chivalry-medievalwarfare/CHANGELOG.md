@@ -2,6 +2,7 @@
 
 
 
+
 ## [chivalry-medievalwarfare-3.0.0](https://github.com/truecharts/charts/compare/chivalry-medievalwarfare-2.0.9...chivalry-medievalwarfare-3.0.0) (2023-07-31)
 
 ### Feat

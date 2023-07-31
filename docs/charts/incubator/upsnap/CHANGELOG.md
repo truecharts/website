@@ -2,6 +2,7 @@
 
 
 
+
 ## [upsnap-1.0.0](https://github.com/truecharts/charts/compare/upsnap-0.0.2...upsnap-1.0.0) (2023-07-31)
 
 ### Feat

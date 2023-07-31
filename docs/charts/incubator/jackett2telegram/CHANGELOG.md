@@ -2,6 +2,7 @@
 
 
 
+
 ## [jackett2telegram-1.0.0](https://github.com/truecharts/charts/compare/jackett2telegram-0.0.5...jackett2telegram-1.0.0) (2023-07-31)
 
 ### Fix
