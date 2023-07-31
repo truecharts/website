@@ -2,6 +2,7 @@
 
 
 
+
 ## [zwavejs2mqtt-16.0.0](https://github.com/truecharts/charts/compare/zwavejs2mqtt-15.0.32...zwavejs2mqtt-16.0.0) (2023-07-31)
 
 

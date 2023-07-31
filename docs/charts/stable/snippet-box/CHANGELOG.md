@@ -2,6 +2,7 @@
 
 
 
+
 ## [snippet-box-4.0.0](https://github.com/truecharts/charts/compare/snippet-box-3.0.7...snippet-box-4.0.0) (2023-07-31)
 
 

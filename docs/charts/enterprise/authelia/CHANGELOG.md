@@ -2,6 +2,7 @@
 
 
 
+
 ## [authelia-18.0.0](https://github.com/truecharts/charts/compare/authelia-17.0.2...authelia-18.0.0) (2023-07-31)
 
 

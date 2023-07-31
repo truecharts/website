@@ -2,6 +2,7 @@
 
 
 
+
 ## [jackett-15.0.0](https://github.com/truecharts/charts/compare/jackett-14.0.38...jackett-15.0.0) (2023-07-31)
 
 

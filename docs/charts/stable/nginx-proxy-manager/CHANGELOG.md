@@ -2,6 +2,7 @@
 
 
 
+
 ## [nginx-proxy-manager-5.0.0](https://github.com/truecharts/charts/compare/nginx-proxy-manager-4.0.173...nginx-proxy-manager-5.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [adguard-home-6.0.0](https://github.com/truecharts/charts/compare/adguard-home-5.0.31...adguard-home-6.0.0) (2023-07-31)
 
 

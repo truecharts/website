@@ -2,6 +2,7 @@
 
 
 
+
 ## [prowlarr-12.0.0](https://github.com/truecharts/charts/compare/prowlarr-11.1.4...prowlarr-12.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [mariadb-9.0.0](https://github.com/truecharts/charts/compare/mariadb-8.0.7...mariadb-9.0.0) (2023-07-31)
 
 

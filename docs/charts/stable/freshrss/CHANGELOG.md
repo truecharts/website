@@ -2,6 +2,7 @@
 
 
 
+
 ## [freshrss-15.0.0](https://github.com/truecharts/charts/compare/freshrss-14.0.26...freshrss-15.0.0) (2023-07-31)
 
 

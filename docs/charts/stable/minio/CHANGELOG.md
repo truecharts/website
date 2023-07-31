@@ -2,6 +2,7 @@
 
 
 
+
 ## [minio-7.0.0](https://github.com/truecharts/charts/compare/minio-6.0.38...minio-7.0.0) (2023-07-31)
 
 

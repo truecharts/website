@@ -2,6 +2,7 @@
 
 
 
+
 ## [navidrome-16.0.0](https://github.com/truecharts/charts/compare/navidrome-15.1.2...navidrome-16.0.0) (2023-07-31)
 
 

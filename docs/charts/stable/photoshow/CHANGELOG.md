@@ -2,6 +2,7 @@
 
 
 
+
 ## [photoshow-7.0.0](https://github.com/truecharts/charts/compare/photoshow-6.0.22...photoshow-7.0.0) (2023-07-31)
 
 

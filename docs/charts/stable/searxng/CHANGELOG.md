@@ -2,6 +2,7 @@
 
 
 
+
 ## [searxng-4.0.0](https://github.com/truecharts/charts/compare/searxng-3.0.4...searxng-4.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [odoo-13.0.0](https://github.com/truecharts/charts/compare/odoo-12.0.24...odoo-13.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [firefox-7.0.0](https://github.com/truecharts/charts/compare/firefox-6.0.13...firefox-7.0.0) (2023-07-31)
 
 

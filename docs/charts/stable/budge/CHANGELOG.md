@@ -2,6 +2,7 @@
 
 
 
+
 ## [budge-6.0.0](https://github.com/truecharts/charts/compare/budge-5.0.36...budge-6.0.0) (2023-07-31)
 
 

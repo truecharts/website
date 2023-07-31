@@ -2,6 +2,7 @@
 
 
 
+
 ## [sickgear-8.0.0](https://github.com/truecharts/charts/compare/sickgear-7.0.27...sickgear-8.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [automatic-music-downloader-6.0.0](https://github.com/truecharts/charts/compare/automatic-music-downloader-5.0.23...automatic-music-downloader-6.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [traefik-21.0.0](https://github.com/truecharts/charts/compare/traefik-20.0.0...traefik-21.0.0) (2023-07-31)
 
 

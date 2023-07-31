@@ -2,6 +2,7 @@
 
 
 
+
 ## [chevereto-8.0.0](https://github.com/truecharts/charts/compare/chevereto-7.0.27...chevereto-8.0.0) (2023-07-31)
 
 

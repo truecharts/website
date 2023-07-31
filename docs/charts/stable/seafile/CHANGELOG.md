@@ -2,6 +2,7 @@
 
 
 
+
 ## [seafile-1.0.0](https://github.com/truecharts/charts/compare/seafile-0.0.8...seafile-1.0.0) (2023-07-31)
 
 

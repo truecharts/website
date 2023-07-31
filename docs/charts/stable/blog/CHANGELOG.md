@@ -2,6 +2,7 @@
 
 
 
+
 ## [blog-8.0.0](https://github.com/truecharts/charts/compare/blog-7.0.24...blog-8.0.0) (2023-07-31)
 
 

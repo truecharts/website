@@ -2,6 +2,7 @@
 
 
 
+
 ## [prometheus-12.0.0](https://github.com/truecharts/charts/compare/prometheus-11.0.4...prometheus-12.0.0) (2023-07-31)
 
 

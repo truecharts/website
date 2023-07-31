@@ -2,6 +2,7 @@
 
 
 
+
 ## [jellyseerr-6.0.0](https://github.com/truecharts/charts/compare/jellyseerr-5.0.25...jellyseerr-6.0.0) (2023-07-31)
 
 

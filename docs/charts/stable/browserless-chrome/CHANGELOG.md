@@ -2,6 +2,7 @@
 
 
 
+
 ## [browserless-chrome-6.0.0](https://github.com/truecharts/charts/compare/browserless-chrome-5.0.28...browserless-chrome-6.0.0) (2023-07-31)
 
 

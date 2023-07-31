@@ -2,6 +2,7 @@
 
 
 
+
 ## [muximux-7.0.0](https://github.com/truecharts/charts/compare/muximux-6.0.22...muximux-7.0.0) (2023-07-31)
 
 

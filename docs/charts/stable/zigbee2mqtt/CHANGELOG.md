@@ -2,6 +2,7 @@
 
 
 
+
 ## [zigbee2mqtt-8.0.0](https://github.com/truecharts/charts/compare/zigbee2mqtt-7.0.31...zigbee2mqtt-8.0.0) (2023-07-31)
 
 

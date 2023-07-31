@@ -2,6 +2,7 @@
 
 
 
+
 ## [kitchenowl-5.0.0](https://github.com/truecharts/charts/compare/kitchenowl-4.0.32...kitchenowl-5.0.0) (2023-07-31)
 
 

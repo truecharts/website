@@ -2,6 +2,7 @@
 
 
 
+
 ## [baserow-8.0.0](https://github.com/truecharts/charts/compare/baserow-7.0.30...baserow-8.0.0) (2023-07-31)
 
 

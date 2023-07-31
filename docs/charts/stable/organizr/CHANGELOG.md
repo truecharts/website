@@ -2,6 +2,7 @@
 
 
 
+
 ## [organizr-15.0.0](https://github.com/truecharts/charts/compare/organizr-14.0.22...organizr-15.0.0) (2023-07-31)
 
 

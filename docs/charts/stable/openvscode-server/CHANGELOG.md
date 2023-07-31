@@ -2,6 +2,7 @@
 
 
 
+
 ## [openvscode-server-6.0.0](https://github.com/truecharts/charts/compare/openvscode-server-5.0.36...openvscode-server-6.0.0) (2023-07-31)
 
 

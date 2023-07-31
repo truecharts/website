@@ -2,6 +2,7 @@
 
 
 
+
 ## [alist-6.0.0](https://github.com/truecharts/charts/compare/alist-5.0.31...alist-6.0.0) (2023-07-31)
 
 

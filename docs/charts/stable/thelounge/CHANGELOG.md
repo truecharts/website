@@ -2,6 +2,7 @@
 
 
 
+
 ## [thelounge-10.0.0](https://github.com/truecharts/charts/compare/thelounge-9.0.37...thelounge-10.0.0) (2023-07-31)
 
 

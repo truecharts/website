@@ -2,6 +2,7 @@
 
 
 
+
 ## [airsonic-10.0.0](https://github.com/truecharts/charts/compare/airsonic-9.0.25...airsonic-10.0.0) (2023-07-31)
 
 

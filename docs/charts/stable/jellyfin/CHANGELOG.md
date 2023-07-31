@@ -2,6 +2,7 @@
 
 
 
+
 ## [jellyfin-15.0.0](https://github.com/truecharts/charts/compare/jellyfin-14.1.13...jellyfin-15.0.0) (2023-07-31)
 
 

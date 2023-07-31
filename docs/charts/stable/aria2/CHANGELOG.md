@@ -2,6 +2,7 @@
 
 
 
+
 ## [aria2-9.0.0](https://github.com/truecharts/charts/compare/aria2-8.0.22...aria2-9.0.0) (2023-07-31)
 
 

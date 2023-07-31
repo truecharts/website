@@ -2,6 +2,7 @@
 
 
 
+
 ## [pihole-11.0.0](https://github.com/truecharts/charts/compare/pihole-10.0.13...pihole-11.0.0) (2023-07-31)
 
 

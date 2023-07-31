@@ -2,6 +2,7 @@
 
 
 
+
 ## [metallb-config-3.0.0](https://github.com/truecharts/charts/compare/metallb-config-2.0.2...metallb-config-3.0.0) (2023-07-31)
 
 

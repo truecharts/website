@@ -2,6 +2,7 @@
 
 
 
+
 ## [minisatip-6.0.0](https://github.com/truecharts/charts/compare/minisatip-5.0.24...minisatip-6.0.0) (2023-07-31)
 
 

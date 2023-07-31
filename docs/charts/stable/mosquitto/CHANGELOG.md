@@ -2,6 +2,7 @@
 
 
 
+
 ## [mosquitto-11.0.0](https://github.com/truecharts/charts/compare/mosquitto-10.0.5...mosquitto-11.0.0) (2023-07-31)
 
 

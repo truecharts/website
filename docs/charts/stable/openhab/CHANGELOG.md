@@ -2,6 +2,7 @@
 
 
 
+
 ## [openhab-6.0.0](https://github.com/truecharts/charts/compare/openhab-5.0.20...openhab-6.0.0) (2023-07-31)
 
 

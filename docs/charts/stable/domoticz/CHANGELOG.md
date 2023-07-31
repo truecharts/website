@@ -2,6 +2,7 @@
 
 
 
+
 ## [domoticz-6.0.0](https://github.com/truecharts/charts/compare/domoticz-5.0.23...domoticz-6.0.0) (2023-07-31)
 
 

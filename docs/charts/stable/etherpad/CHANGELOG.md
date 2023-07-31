@@ -2,6 +2,7 @@
 
 
 
+
 ## [etherpad-13.0.0](https://github.com/truecharts/charts/compare/etherpad-12.0.24...etherpad-13.0.0) (2023-07-31)
 
 

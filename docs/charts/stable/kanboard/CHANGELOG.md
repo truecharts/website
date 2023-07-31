@@ -2,6 +2,7 @@
 
 
 
+
 ## [kanboard-13.0.0](https://github.com/truecharts/charts/compare/kanboard-12.0.27...kanboard-13.0.0) (2023-07-31)
 
 

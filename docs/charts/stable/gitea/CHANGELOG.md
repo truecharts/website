@@ -2,6 +2,7 @@
 
 
 
+
 ## [gitea-14.0.0](https://github.com/truecharts/charts/compare/gitea-13.0.24...gitea-14.0.0) (2023-07-31)
 
 

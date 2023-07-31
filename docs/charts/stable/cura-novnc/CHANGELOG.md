@@ -2,6 +2,7 @@
 
 
 
+
 ## [cura-novnc-5.0.0](https://github.com/truecharts/charts/compare/cura-novnc-4.0.26...cura-novnc-5.0.0) (2023-07-31)
 
 

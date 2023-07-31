@@ -2,6 +2,7 @@
 
 
 
+
 ## [mysql-workbench-6.0.0](https://github.com/truecharts/charts/compare/mysql-workbench-5.0.25...mysql-workbench-6.0.0) (2023-07-31)
 
 ### Chore

@@ -2,6 +2,7 @@
 
 
 
+
 ## [xwiki-8.0.0](https://github.com/truecharts/charts/compare/xwiki-7.0.31...xwiki-8.0.0) (2023-07-31)
 
 

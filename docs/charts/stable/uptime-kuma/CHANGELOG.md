@@ -2,6 +2,7 @@
 
 
 
+
 ## [uptime-kuma-7.0.0](https://github.com/truecharts/charts/compare/uptime-kuma-6.0.27...uptime-kuma-7.0.0) (2023-07-31)
 
 

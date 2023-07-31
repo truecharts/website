@@ -2,6 +2,7 @@
 
 
 
+
 ## [invidious-6.0.0](https://github.com/truecharts/charts/compare/invidious-5.1.5...invidious-6.0.0) (2023-07-31)
 
 

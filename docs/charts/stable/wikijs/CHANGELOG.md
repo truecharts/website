@@ -2,6 +2,7 @@
 
 
 
+
 ## [wikijs-12.0.0](https://github.com/truecharts/charts/compare/wikijs-11.0.26...wikijs-12.0.0) (2023-07-31)
 
 

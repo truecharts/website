@@ -2,6 +2,7 @@
 
 
 
+
 ## [librespeed-10.0.0](https://github.com/truecharts/charts/compare/librespeed-9.0.22...librespeed-10.0.0) (2023-07-31)
 
 

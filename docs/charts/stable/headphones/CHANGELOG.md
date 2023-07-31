@@ -2,6 +2,7 @@
 
 
 
+
 ## [headphones-8.0.0](https://github.com/truecharts/charts/compare/headphones-7.0.24...headphones-8.0.0) (2023-07-31)
 
 

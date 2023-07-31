@@ -2,6 +2,7 @@
 
 
 
+
 ## [traccar-12.0.0](https://github.com/truecharts/charts/compare/traccar-11.0.23...traccar-12.0.0) (2023-07-31)
 
 

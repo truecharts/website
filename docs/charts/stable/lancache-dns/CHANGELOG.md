@@ -2,6 +2,7 @@
 
 
 
+
 ## [lancache-dns-5.0.0](https://github.com/truecharts/charts/compare/lancache-dns-4.0.24...lancache-dns-5.0.0) (2023-07-31)
 
 

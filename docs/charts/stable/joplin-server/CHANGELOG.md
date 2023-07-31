@@ -2,6 +2,7 @@
 
 
 
+
 ## [joplin-server-14.0.0](https://github.com/truecharts/charts/compare/joplin-server-13.0.4...joplin-server-14.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [wg-easy-5.0.0](https://github.com/truecharts/charts/compare/wg-easy-4.0.18...wg-easy-5.0.0) (2023-07-31)
 
 

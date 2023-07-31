@@ -2,6 +2,7 @@
 
 
 
+
 ## [lanraragi-6.0.0](https://github.com/truecharts/charts/compare/lanraragi-5.0.23...lanraragi-6.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [overseerr-10.0.0](https://github.com/truecharts/charts/compare/overseerr-9.0.26...overseerr-10.0.0) (2023-07-31)
 
 

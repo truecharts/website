@@ -2,6 +2,7 @@
 
 
 
+
 ## [cyberchef-6.0.0](https://github.com/truecharts/charts/compare/cyberchef-5.0.38...cyberchef-6.0.0) (2023-07-31)
 
 

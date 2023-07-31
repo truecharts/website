@@ -2,6 +2,7 @@
 
 
 
+
 ## [vikunja-9.0.0](https://github.com/truecharts/charts/compare/vikunja-8.0.27...vikunja-9.0.0) (2023-07-31)
 
 

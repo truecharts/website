@@ -2,6 +2,7 @@
 
 
 
+
 ## [friendica-9.0.0](https://github.com/truecharts/charts/compare/friendica-8.0.24...friendica-9.0.0) (2023-07-31)
 
 

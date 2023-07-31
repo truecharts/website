@@ -2,6 +2,7 @@
 
 
 
+
 ## [clickhouse-7.0.0](https://github.com/truecharts/charts/compare/clickhouse-6.0.3...clickhouse-7.0.0) (2023-07-31)
 
 

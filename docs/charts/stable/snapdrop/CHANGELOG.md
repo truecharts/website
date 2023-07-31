@@ -2,6 +2,7 @@
 
 
 
+
 ## [snapdrop-6.0.0](https://github.com/truecharts/charts/compare/snapdrop-5.0.34...snapdrop-6.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [teedy-12.0.0](https://github.com/truecharts/charts/compare/teedy-11.0.23...teedy-12.0.0) (2023-07-31)
 
 

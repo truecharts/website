@@ -2,6 +2,7 @@
 
 
 
+
 ## [uptimerobot-prometheus-8.0.0](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-7.0.15...uptimerobot-prometheus-8.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [custom-app-9.0.0](https://github.com/truecharts/charts/compare/custom-app-8.0.24...custom-app-9.0.0) (2023-07-31)
 
 

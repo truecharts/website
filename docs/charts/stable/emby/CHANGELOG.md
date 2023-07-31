@@ -2,6 +2,7 @@
 
 
 
+
 ## [emby-15.0.0](https://github.com/truecharts/charts/compare/emby-14.0.27...emby-15.0.0) (2023-07-31)
 
 

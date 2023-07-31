@@ -2,6 +2,7 @@
 
 
 
+
 ## [memcached-8.0.0](https://github.com/truecharts/charts/compare/memcached-7.0.6...memcached-8.0.0) (2023-07-31)
 
 

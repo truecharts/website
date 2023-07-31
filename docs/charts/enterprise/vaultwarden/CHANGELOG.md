@@ -2,6 +2,7 @@
 
 
 
+
 ## [vaultwarden-22.0.0](https://github.com/truecharts/charts/compare/vaultwarden-21.0.3...vaultwarden-22.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [papermerge-8.0.0](https://github.com/truecharts/charts/compare/papermerge-7.0.26...papermerge-8.0.0) (2023-07-31)
 
 

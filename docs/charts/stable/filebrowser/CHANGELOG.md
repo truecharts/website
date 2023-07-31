@@ -2,6 +2,7 @@
 
 
 
+
 ## [filebrowser-6.0.0](https://github.com/truecharts/charts/compare/filebrowser-5.0.25...filebrowser-6.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [omada-controller-10.0.0](https://github.com/truecharts/charts/compare/omada-controller-9.0.28...omada-controller-10.0.0) (2023-07-31)
 
 

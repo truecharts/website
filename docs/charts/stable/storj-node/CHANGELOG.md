@@ -2,6 +2,7 @@
 
 
 
+
 ## [storj-node-6.0.0](https://github.com/truecharts/charts/compare/storj-node-5.0.24...storj-node-6.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [novnc-7.0.0](https://github.com/truecharts/charts/compare/novnc-6.0.24...novnc-7.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [hedgedoc-9.0.0](https://github.com/truecharts/charts/compare/hedgedoc-8.0.36...hedgedoc-9.0.0) (2023-07-31)
 
 

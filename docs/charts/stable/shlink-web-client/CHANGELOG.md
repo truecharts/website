@@ -2,6 +2,7 @@
 
 
 
+
 ## [shlink-web-client-7.0.0](https://github.com/truecharts/charts/compare/shlink-web-client-6.0.26...shlink-web-client-7.0.0) (2023-07-31)
 
 

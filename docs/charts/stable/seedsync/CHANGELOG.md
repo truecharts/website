@@ -2,6 +2,7 @@
 
 
 
+
 ## [seedsync-4.0.0](https://github.com/truecharts/charts/compare/seedsync-3.0.2...seedsync-4.0.0) (2023-07-31)
 
 

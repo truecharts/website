@@ -2,6 +2,7 @@
 
 
 
+
 ## [ddns-updater-6.0.0](https://github.com/truecharts/charts/compare/ddns-updater-5.0.25...ddns-updater-6.0.0) (2023-07-31)
 
 

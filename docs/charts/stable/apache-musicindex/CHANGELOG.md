@@ -2,6 +2,7 @@
 
 
 
+
 ## [apache-musicindex-8.0.0](https://github.com/truecharts/charts/compare/apache-musicindex-7.0.22...apache-musicindex-8.0.0) (2023-07-31)
 
 

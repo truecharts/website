@@ -2,6 +2,7 @@
 
 
 
+
 ## [etesync-5.0.0](https://github.com/truecharts/charts/compare/etesync-4.0.12...etesync-5.0.0) (2023-07-31)
 
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [duckdns-6.0.0](https://github.com/truecharts/charts/compare/duckdns-5.0.36...duckdns-6.0.0) (2023-07-31)
 
 

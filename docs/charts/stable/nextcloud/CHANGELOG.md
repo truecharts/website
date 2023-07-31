@@ -2,6 +2,7 @@
 
 
 
+
 ## [nextcloud-22.0.0](https://github.com/truecharts/charts/compare/nextcloud-21.0.21...nextcloud-22.0.0) (2023-07-31)
 
 ### Chore
