@@ -148,6 +148,8 @@ The intro needs improvement ;)
 |flexget                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |flexget                   |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |flood                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|flowise                   |api                   |PVC      |-              |/config/api                                          |Read/Write|Enabled                |
+|flowise                   |logs                  |PVC      |-              |/config/logs                                         |Read/Write|Enabled                |
 |fluidd                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |foldingathome             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |foldingathome             |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -224,6 +226,7 @@ The intro needs improvement ;)
 |jellyfin                  |cache                 |emptyDir |-              |/cache                                               |Read/Write|Enabled                |
 |jellyfin                  |transcode             |emptyDir |-              |/config/transcodes                                   |Read/Write|Enabled                |
 |jellyseerr                |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
+|joplin-server             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |jupyter                   |data                  |PVC      |-              |/home/jovyan/work                                    |Read/Write|Enabled                |
 |kanboard                  |data                  |PVC      |-              |/var/www/app/data                                    |Read/Write|Enabled                |
 |kanboard                  |ssl                   |PVC      |-              |/etc/nginx/ssl                                       |Read/Write|Enabled                |
@@ -836,8 +839,6 @@ The intro needs improvement ;)
 |flatnotes                      |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |flemarr                        |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |flextv                         |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
-|flowise                        |api                        |PVC      |-                |/config/api                                     |Read/Write|Enabled                |
-|flowise                        |logs                       |PVC      |-                |/config/logs                                    |Read/Write|Enabled                |
 |fluttercoin-wallet             |datapath                   |PVC      |-                |/fluttercoin                                    |Read/Write|Enabled                |
 |fmd2-wine                      |appluamodulespath          |PVC      |-                |/app/FMD2/lua                                   |Read/Write|Enabled                |
 |fmd2-wine                      |appuserdata                |PVC      |-                |/app/FMD2/userdata                              |Read/Write|Enabled                |
@@ -937,7 +938,6 @@ The intro needs improvement ;)
 |jitsi                          |jicofoconfig               |PVC      |-                |/jicofoconfig/config                            |Read/Write|Enabled                |
 |jitsi                          |jvbconfig                  |PVC      |-                |/jvbconfig/config                               |Read/Write|Enabled                |
 |jmzhomeproxy                   |-                          |-        |-                |-                                               |-         |Persistence not Defined|
-|joplin-server                  |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |jump                           |backgrounds                |PVC      |-                |/backgrounds                                    |Read/Write|Enabled                |
 |jump                           |search                     |PVC      |-                |/search                                         |Read/Write|Enabled                |
 |jump                           |sites                      |PVC      |-                |/sites                                          |Read/Write|Enabled                |
@@ -1021,6 +1021,9 @@ The intro needs improvement ;)
 |ml-workspace                   |workspace                  |PVC      |-                |/workspace                                      |Read/Write|Enabled                |
 |ml-workspace                   |shm                        |emptyDir |-                |/dev/shm                                        |Read/Write|Enabled                |
 |mocodo-mcd                     |path                       |PVC      |-                |/root/mocodo                                    |Read/Write|Enabled                |
+|modsecurity-crs                |data                       |emptyDir |-                |/modsecurity/data                               |Read/Write|Enabled                |
+|modsecurity-crs                |temp                       |emptyDir |-                |/modsecurity/temp                               |Read/Write|Enabled                |
+|modsecurity-crs                |upload                     |emptyDir |-                |/modsecurity/upload                             |Read/Write|Enabled                |
 |mojopaste                      |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |monero-node                    |blockchainstorage          |PVC      |-                |/home/monero/.bitmonero                         |Read/Write|Enabled                |
 |monero-node                    |containerdir1              |PVC      |-                |/usr/local                                      |Read/Write|Enabled                |
