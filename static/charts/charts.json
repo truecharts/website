@@ -185,7 +185,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/authentik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png",
-                    "version": "14.0.1"
+                    "version": "14.0.2"
                 },
                 {
                     "name": "autobrr",
@@ -265,7 +265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/boinc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/boinc.png",
-                    "version": "6.0.0"
+                    "version": "6.0.1"
                 },
                 {
                     "name": "booksonic-air",
@@ -313,7 +313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.0.0"
+                    "version": "11.0.1"
                 },
                 {
                     "name": "channels-dvr",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cyberchef",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cyberchef.png",
-                    "version": "6.0.0"
+                    "version": "6.0.2"
                 },
                 {
                     "name": "czkawka",
@@ -1289,7 +1289,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.0"
+                    "version": "3.0.1"
                 },
                 {
                     "name": "librespeed",
@@ -1529,7 +1529,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mstream",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mstream.png",
-                    "version": "7.0.0"
+                    "version": "7.0.1"
                 },
                 {
                     "name": "muse",
@@ -2041,7 +2041,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pylon",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pylon.png",
-                    "version": "6.0.0"
+                    "version": "6.0.1"
                 },
                 {
                     "name": "qbitmanage",
@@ -2217,7 +2217,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.1"
+                    "version": "8.0.2"
                 },
                 {
                     "name": "sabnzbd",
@@ -2609,7 +2609,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ubooquity",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ubooquity.png",
-                    "version": "7.0.0"
+                    "version": "7.0.1"
                 },
                 {
                     "name": "unifi",
@@ -2729,7 +2729,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.3"
+                    "version": "6.0.11"
                 },
                 {
                     "name": "wekan",
@@ -2801,7 +2801,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "3.0.0"
+                    "version": "3.0.1"
                 },
                 {
                     "name": "wyoming-piper",
@@ -2809,7 +2809,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wyoming-piper",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wyoming-piper.png",
-                    "version": "1.0.0"
+                    "version": "1.0.1"
                 },
                 {
                     "name": "wyoming-whisper",
@@ -6619,7 +6619,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "8.0.1"
+                    "version": "8.0.2"
                 },
                 {
                     "name": "solr",
