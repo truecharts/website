@@ -36,6 +36,11 @@ The intro needs improvement ;)
 |audiobookshelf            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |audiobookshelf            |audiobooks            |PVC      |-              |/audiobooks                                          |Read/Write|Enabled                |
 |audiobookshelf            |metadata              |PVC      |-              |/metadata                                            |Read/Write|Enabled                |
+|authentik                 |media                 |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|authentik                 |templates             |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|authentik                 |blueprints            |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|authentik                 |certs                 |PVC      |-              |/certs                                               |Read/Write|Enabled                |
+|authentik                 |geoip                 |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |autobrr                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |automatic-music-downloader|config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |automatic-music-downloader|data                  |PVC      |-              |/downloads-amd                                       |Read/Write|Enabled                |
@@ -589,6 +594,8 @@ The intro needs improvement ;)
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |wizarr                    |database              |PVC      |-              |/data/database                                       |Read/Write|Enabled                |
 |wordpress                 |config                |PVC      |-              |/bitnami/wordpress                                   |Read/Write|Enabled                |
+|wyoming-piper             |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|wyoming-whisper           |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |xen-orchestra             |xo-data               |PVC      |-              |/var/lib/xo-server                                   |Read/Write|Enabled                |
 |xen-orchestra             |redis-data            |PVC      |-              |/var/lib/redis                                       |Read/Write|Enabled                |
 |xteve                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -657,11 +664,6 @@ The intro needs improvement ;)
 |assettocorsa                   |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |assettocorsa                   |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |aurora-files                   |-                          |-        |-                |-                                               |-         |Persistence not Defined|
-|authentik                      |media                      |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
-|authentik                      |templates                  |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
-|authentik                      |blueprints                 |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
-|authentik                      |certs                      |PVC      |-                |/certs                                          |Read/Write|Enabled                |
-|authentik                      |geoip                      |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
 |auto-yt-dl                     |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |auto-yt-dl                     |hostpath1                  |PVC      |-                |/app/Downloads                                  |Read/Write|Enabled                |
 |avorion                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
@@ -1348,8 +1350,6 @@ The intro needs improvement ;)
 |wifi-card                      |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |wireshark                      |varrun                     |emptyDir |-                |/var/run                                        |Read/Write|Enabled                |
 |wireshark                      |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
-|wyoming-piper                  |config                     |PVC      |-                |/data                                           |Read/Write|Enabled                |
-|wyoming-whisper                |config                     |PVC      |-                |/data                                           |Read/Write|Enabled                |
 |xbackbone                      |config                     |PVC      |-                |/app/config                                     |Read/Write|Enabled                |
 |xmrig                          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |xonotic                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
