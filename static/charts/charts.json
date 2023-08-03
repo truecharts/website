@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 357,
+            "count": 358,
             "charts": [
                 {
                     "name": "actualserver",
@@ -185,7 +185,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/authentik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png",
-                    "version": "14.0.2"
+                    "version": "15.0.0"
                 },
                 {
                     "name": "autobrr",
@@ -273,7 +273,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/booksonic-air",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/booksonic-air.png",
-                    "version": "10.0.0"
+                    "version": "10.0.1"
                 },
                 {
                     "name": "bookstack",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cyberchef",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cyberchef.png",
-                    "version": "6.0.2"
+                    "version": "6.0.3"
                 },
                 {
                     "name": "czkawka",
@@ -601,7 +601,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dokuwiki",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dokuwiki.png",
-                    "version": "7.0.0"
+                    "version": "7.0.1"
                 },
                 {
                     "name": "domoticz",
@@ -633,7 +633,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/doublecommander",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/doublecommander.png",
-                    "version": "9.0.0"
+                    "version": "9.0.1"
                 },
                 {
                     "name": "drawio",
@@ -937,7 +937,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/guacamole",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/guacamole.png",
-                    "version": "10.0.0"
+                    "version": "10.0.1"
                 },
                 {
                     "name": "guacd",
@@ -1289,7 +1289,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.1"
+                    "version": "3.0.3"
                 },
                 {
                     "name": "librespeed",
@@ -1609,7 +1609,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "22.0.0"
+                    "version": "22.0.1"
                 },
                 {
                     "name": "nextpvr",
@@ -2201,7 +2201,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsnapshot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsnapshot.png",
-                    "version": "6.0.0"
+                    "version": "6.0.1"
                 },
                 {
                     "name": "rss-bridge",
@@ -2265,7 +2265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/seedsync",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/seedsync.png",
-                    "version": "4.0.0"
+                    "version": "4.0.1"
                 },
                 {
                     "name": "ser2sock",
@@ -2274,6 +2274,14 @@
                     "link": "https://truecharts.org/charts/stable/ser2sock",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ser2sock.png",
                     "version": "10.0.0"
+                },
+                {
+                    "name": "sftpgo",
+                    "description": "Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FTPS and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/sftpgo",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sftpgo.png",
+                    "version": "3.0.6"
                 },
                 {
                     "name": "shlink-web-client",
@@ -2801,7 +2809,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "3.0.1"
+                    "version": "3.0.2"
                 },
                 {
                     "name": "wyoming-piper",
@@ -2817,7 +2825,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wyoming-whisper",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wyoming-whisper.png",
-                    "version": "1.0.0"
+                    "version": "1.0.1"
                 },
                 {
                     "name": "xen-orchestra",
@@ -2973,7 +2981,7 @@
         },
         {
             "name": "incubator",
-            "count": 448,
+            "count": 447,
             "charts": [
                 {
                     "name": "acestream",
@@ -5776,14 +5784,6 @@
                     "version": "2.0.9"
                 },
                 {
-                    "name": "sftpgo",
-                    "description": "Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FTPS and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/sftpgo",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sftpgo.png",
-                    "version": "3.0.4"
-                },
-                {
                     "name": "shaarli",
                     "description": "The personal, minimalist, super-fast, database free, bookmarking service.",
                     "train": "incubator",
@@ -6587,7 +6587,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "9.0.0"
+                    "version": "9.0.1"
                 },
                 {
                     "name": "memcached",
