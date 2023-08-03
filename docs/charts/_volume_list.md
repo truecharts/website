@@ -179,6 +179,7 @@ The intro needs improvement ;)
 |grav                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |grocy                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |guacamole                 |recordings            |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|guacamole                 |drive                 |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |guacamole                 |tc-init               |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |guacamole                 |db-seed               |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |guacd                     |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -476,6 +477,10 @@ The intro needs improvement ;)
 |seedsync                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |seedsync                  |downloads             |PVC      |-              |/downloads                                           |Read/Write|Enabled                |
 |ser2sock                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|sftpgo                    |backupdirectory       |PVC      |-              |/srv/sftpgo/backups                                  |Read/Write|Enabled                |
+|sftpgo                    |configpath            |PVC      |-              |/var/lib/sftpgo                                      |Read/Write|Enabled                |
+|sftpgo                    |data                  |PVC      |-              |/srv/sftpgo/data                                     |Read/Write|Enabled                |
+|sftpgo                    |shareaccess           |PVC      |-              |/shareaccess                                         |Read/Write|Enabled                |
 |shlink                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |shlink-web-client         |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |shoko-server              |appdata               |PVC      |-              |/home/shoko/.shoko/                                  |Read/Write|Enabled                |
@@ -1217,10 +1222,6 @@ The intro needs improvement ;)
 |serviio                        |hostpath3                  |PVC      |-                |/opt/serviio/plugins                            |Read/Write|Enabled                |
 |serviio                        |hostpath4                  |PVC      |-                |/opt/serviio/log                                |Read/Write|Enabled                |
 |serviio                        |hostpath5                  |PVC      |-                |/media/serviio                                  |Read/Write|Enabled                |
-|sftpgo                         |backupdirectory            |PVC      |-                |/srv/sftpgo/backups                             |Read/Write|Enabled                |
-|sftpgo                         |configpath                 |PVC      |-                |/var/lib/sftpgo                                 |Read/Write|Enabled                |
-|sftpgo                         |data                       |PVC      |-                |/srv/sftpgo/data                                |Read/Write|Enabled                |
-|sftpgo                         |shareaccess                |PVC      |-                |/shareaccess                                    |Read/Write|Enabled                |
 |shaarli                        |cache                      |PVC      |-                |/var/www/shaarli/cache                          |Read/Write|Enabled                |
 |shaarli                        |data                       |PVC      |-                |/var/www/shaarli/data                           |Read/Write|Enabled                |
 |shadowsocks                    |-                          |-        |-                |-                                               |-         |Persistence not Defined|
