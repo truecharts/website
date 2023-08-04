@@ -2,6 +2,751 @@
 
 
 
+
+## [babybuddy-13.0.0](https://github.com/truecharts/charts/compare/babybuddy-12.0.35...babybuddy-13.0.0) (2023-07-31)
+
+
+
+
+## [babybuddy-12.0.35](https://github.com/truecharts/charts/compare/babybuddy-12.0.34...babybuddy-12.0.35) (2023-07-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v2.0.4 ([#11031](https://github.com/truecharts/charts/issues/11031))
+  
+  
+
+
+## [babybuddy-12.0.34](https://github.com/truecharts/charts/compare/babybuddy-12.0.33...babybuddy-12.0.34) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [babybuddy-12.0.33](https://github.com/truecharts/charts/compare/babybuddy-12.0.32...babybuddy-12.0.33) (2023-07-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v2.0.2 ([#10786](https://github.com/truecharts/charts/issues/10786))
+  
+  
+
+
+## [babybuddy-12.0.32](https://github.com/truecharts/charts/compare/babybuddy-12.0.31...babybuddy-12.0.32) (2023-07-20)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v2.0.2 ([#10667](https://github.com/truecharts/charts/issues/10667))
+  
+  
+
+
+## [babybuddy-12.0.31](https://github.com/truecharts/charts/compare/babybuddy-12.0.30...babybuddy-12.0.31) (2023-07-05)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#10184](https://github.com/truecharts/charts/issues/10184))
+  
+  
+
+
+## [babybuddy-12.0.30](https://github.com/truecharts/charts/compare/babybuddy-12.0.29...babybuddy-12.0.30) (2023-07-02)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#10099](https://github.com/truecharts/charts/issues/10099))
+  
+  
+
+
+## [babybuddy-12.0.29](https://github.com/truecharts/charts/compare/babybuddy-12.0.28...babybuddy-12.0.29) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
+## [babybuddy-12.0.28](https://github.com/truecharts/charts/compare/babybuddy-12.0.27...babybuddy-12.0.28) (2023-06-25)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9902](https://github.com/truecharts/charts/issues/9902))
+  
+  
+
+
+## [babybuddy-12.0.27](https://github.com/truecharts/charts/compare/babybuddy-12.0.26...babybuddy-12.0.27) (2023-06-18)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9752](https://github.com/truecharts/charts/issues/9752))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.26](https://github.com/truecharts/charts/compare/babybuddy-12.0.25...babybuddy-12.0.26) (2023-06-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/babybuddy to v1.16.0 ([#9608](https://github.com/truecharts/charts/issues/9608))
+  
+  
+
+
+## [babybuddy-12.0.25](https://github.com/truecharts/charts/compare/babybuddy-12.0.24...babybuddy-12.0.25) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [babybuddy-12.0.24](https://github.com/truecharts/charts/compare/babybuddy-12.0.23...babybuddy-12.0.24) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [babybuddy-12.0.23](https://github.com/truecharts/charts/compare/babybuddy-12.0.22...babybuddy-12.0.23) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [babybuddy-12.0.22](https://github.com/truecharts/charts/compare/babybuddy-12.0.21...babybuddy-12.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [babybuddy-12.0.21](https://github.com/truecharts/charts/compare/babybuddy-12.0.20...babybuddy-12.0.21) (2023-06-04)
 
 ### Chore

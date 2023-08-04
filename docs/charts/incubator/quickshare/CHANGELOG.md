@@ -2,6 +2,20 @@
 
 
 
+
+## [quickshare-3.0.0](https://github.com/truecharts/charts/compare/quickshare-2.0.11...quickshare-3.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [quickshare-2.0.11](https://github.com/truecharts/charts/compare/quickshare-2.0.10...quickshare-2.0.11) (2023-04-30)
 
 ### Chore

@@ -5,9 +5,11 @@
 | imagePullSecret                                    |  `dict`   |    ❌    |         ❌         |  `{}`   | Define the image pull secret as dicts           |
 | imagePullSecret.[pull-secret-name]                 |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds configMap definition                      |
 | imagePullSecret.[pull-secret-name].enabled         | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the image pull secret       |
+| imagePullSecret.[pull-secret-name].namespace       | `string`  |    ❌    |         ✅         |  `""`   | Define the namespace for this object            |
 | imagePullSecret.[pull-secret-name].labels          |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for image pull secret         |
 | imagePullSecret.[pull-secret-name].annotations     |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for image pull secret    |
 | imagePullSecret.[pull-secret-name].data            |  `dict`   |    ✅    |         ✅         |  `{}`   | Define the data of the image pull secret        |
+| imagePullSecret.[pull-secret-name].namespace       | `string`  |    ❌    |         ✅         |  `""`   | Define the namespace for this object            |
 | imagePullSecret.[pull-secret-name].data.registry   | `string`  |    ✅    |         ✅         |  `""`   | Define the registry of the image pull secret    |
 | imagePullSecret.[pull-secret-name].data.username   | `string`  |    ✅    |         ✅         |  `""`   | Define the username of the image pull secret    |
 | imagePullSecret.[pull-secret-name].data.password   | `string`  |    ✅    |         ✅         |  `""`   | Define the password of the image pull secret    |
@@ -40,6 +42,7 @@ imagePullSecret:
 
   pull-secret-name:
     enabled: true
+    namespace: some-namespace
     labels:
       key: value
       keytpl: "{{ .Values.some.value }}"
@@ -55,6 +58,7 @@ imagePullSecret:
 
   other-pull-secret-name:
     enabled: true
+    namespace: some-namespace
       data:
         registry: "{{ .Values.my_registry }}"
         username: "{{ .Values.my_user }}"

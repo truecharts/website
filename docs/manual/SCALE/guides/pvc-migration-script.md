@@ -68,21 +68,19 @@ This script does **not** work with Prometheus, so please follow our more extensi
 
 ## Migration Steps
 
-1. First things first create a directory inside a dataset that's NOT `ix-applications`, for this guide I used `migration`
-
-2. Clone the `Heavybullets Migration Git Repo`
+1. Clone the `Heavybullets TT Migration Git Repo`
 
 ```bash
 git clone https://github.com/Heavybullets8/TT-Migration.git
 ```
 
-3. Go to the `TT-Migration` sub-directory and excute
+2. Go to the `TT-Migration` sub-directory and excute
 
 ```bash
 bash migrate.sh
 ```
 
-4. Follow prompts 
+3. Follow prompts 
 
     a. Choose Application (for example `filebrowser`)
 ![Copy Config](img/Copy-App-Config.png)
@@ -93,7 +91,7 @@ bash migrate.sh
     c. Watch the app finish
     ![New App Finish](img/New-App-Finish.png)
 
-5. Enjoy new app
+4. Enjoy new app
 
 ### Note
 

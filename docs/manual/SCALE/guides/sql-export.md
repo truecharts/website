@@ -1,4 +1,4 @@
-# Postgres Database Info and Export
+# Postgres Database Info
 
 The information below is to help with current or future migration of the Postgres databases on your system running TrueCharts apps.
 
@@ -40,46 +40,6 @@ echo "$namespaces" | while read ns secret; do
     printf "%s | %s | %s | %s | %s\n" "$app_name" "$username" "$password" "$full_address" "$port"
 done ) | column -t -s "|"
 ```
-## Backing up databases from TrueCharts apps
-
-```bash title="tcdbbackup.sh"
-#!/bin/bash
-# create backup folder
-folder="./dumps/"
-mkdir -p "$folder"
-
-# get namespaces with postgres database pod
-namespaces=$(k3s kubectl get pods -A | grep postgres | awk '{print $1}')
-
-for ns in $namespaces; do
-  # extract application name
-  app=$(echo "$ns" | sed 's/^ix-//')
-
-  echo "Creating database backup for $app."
-
-  file="$app.sql"
-  
-  # Scale down deployment to avoid inconsistencies in DB
-  k3s kubectl scale deploy "$app" -n "$ns" --replicas=0
-  while true; do k3s kubectl get pods -n "$ns" | grep -i -q terminating || break; done;
-
-  k3s kubectl exec -n "$ns" -c "$app"-postgresql "$app"-postgresql-0 -- bash -c 'PGPASSWORD=$POSTGRES_PASSWORD pg_dump -Fc -U $POSTGRES_USER -d $POSTGRES_DB -f /tmp/'$file
-  k3s kubectl cp -n "$ns" -c "$app"-postgresql "$app-postgresql-0:tmp/$file" $folder$file
-
-  # Scale deployment back up
-  k3s kubectl scale deploy "$app" -n "$ns" --replicas=1
-  
-  if [ ! -f "$folder$file" ]; then
-    >&2 echo "$folder$file does not exist."
-    exit 1
-  fi
-
-  echo "File $file created."
-
-done
-
-exit 0
-```
 
 ## Setting up the files
 
@@ -87,17 +47,6 @@ In Truenas Scale, create a dataset that can house the script files. Put the `.sh
 
 ```bash
 cd /mnt/tank/scripts/databases
-chmod +x tcdbinfo.sh tcdbbackup.sh
+chmod +x tcdbinfo.sh
 ```
-
-## Creating a database backup
-
-To create a backup of a database, run the `tcdbbackup.sh` script. This script will create a backup of all databases running in Truenas Scale.
-
-```bash
-./tcdbbackup.sh
-```
-
-This script will create a `.sql` file for each database, and store them in the `./dumps` directory.
-
 

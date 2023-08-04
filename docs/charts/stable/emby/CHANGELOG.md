@@ -2,6 +2,75 @@
 
 
 
+
+## [emby-15.0.0](https://github.com/truecharts/charts/compare/emby-14.0.27...emby-15.0.0) (2023-07-31)
+
+
+
+
+## [emby-14.0.27](https://github.com/truecharts/charts/compare/emby-14.0.26...emby-14.0.27) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [emby-14.0.26](https://github.com/truecharts/charts/compare/emby-14.0.25...emby-14.0.26) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
+## [emby-14.0.25](https://github.com/truecharts/charts/compare/emby-14.0.24...emby-14.0.25) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [emby-14.0.24](https://github.com/truecharts/charts/compare/emby-14.0.23...emby-14.0.24) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [emby-14.0.23](https://github.com/truecharts/charts/compare/emby-14.0.22...emby-14.0.23) (2023-06-09)
+
+### Chore
+
+- update container image tccr.io/truecharts/emby to v4.7.13.0 ([#9544](https://github.com/truecharts/charts/issues/9544))
+  
+  
+
+
+## [emby-14.0.22](https://github.com/truecharts/charts/compare/emby-14.0.21...emby-14.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [emby-14.0.21](https://github.com/truecharts/charts/compare/emby-14.0.20...emby-14.0.21) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [emby-14.0.20](https://github.com/truecharts/charts/compare/emby-14.0.19...emby-14.0.20) (2023-06-04)
 
 ### Chore

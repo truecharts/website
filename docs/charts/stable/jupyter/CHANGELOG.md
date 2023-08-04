@@ -2,6 +2,492 @@
 
 
 
+
+## [jupyter-5.0.0](https://github.com/truecharts/charts/compare/jupyter-4.0.53...jupyter-5.0.0) (2023-07-31)
+
+
+
+
+## [jupyter-4.0.53](https://github.com/truecharts/charts/compare/jupyter-4.0.52...jupyter-4.0.53) (2023-07-29)
+
+### Chore
+
+- update jupyter ([#11010](https://github.com/truecharts/charts/issues/11010))
+  
+  
+
+
+## [jupyter-4.0.52](https://github.com/truecharts/charts/compare/jupyter-4.0.51...jupyter-4.0.52) (2023-07-29)
+
+### Chore
+
+- update jupyter ([#10993](https://github.com/truecharts/charts/issues/10993))
+  
+  
+
+
+## [jupyter-4.0.51](https://github.com/truecharts/charts/compare/jupyter-4.0.50...jupyter-4.0.51) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [jupyter-4.0.50](https://github.com/truecharts/charts/compare/jupyter-4.0.49...jupyter-4.0.50) (2023-07-28)
+
+### Chore
+
+- update jupyter ([#10969](https://github.com/truecharts/charts/issues/10969))
+  
+  
+
+
+## [jupyter-4.0.49](https://github.com/truecharts/charts/compare/jupyter-4.0.48...jupyter-4.0.49) (2023-07-28)
+
+### Chore
+
+- update jupyter ([#10925](https://github.com/truecharts/charts/issues/10925))
+  
+  
+
+
+## [jupyter-4.0.48](https://github.com/truecharts/charts/compare/jupyter-4.0.47...jupyter-4.0.48) (2023-07-18)
+
+### Chore
+
+- update jupyter ([#10564](https://github.com/truecharts/charts/issues/10564))
+  
+  
+
+
+## [jupyter-4.0.47](https://github.com/truecharts/charts/compare/jupyter-4.0.46...jupyter-4.0.47) (2023-07-08)
+
+### Chore
+
+- update jupyter to v2023-07 (minor) ([#10289](https://github.com/truecharts/charts/issues/10289))
+  
+  
+
+
+## [jupyter-4.0.46](https://github.com/truecharts/charts/compare/jupyter-4.0.45...jupyter-4.0.46) (2023-07-08)
+
+### Chore
+
+- update jupyter to v2023-07 (minor) ([#10288](https://github.com/truecharts/charts/issues/10288))
+  
+  
+
+
+## [jupyter-4.0.45](https://github.com/truecharts/charts/compare/jupyter-4.0.44...jupyter-4.0.45) (2023-07-08)
+
+### Chore
+
+- update jupyter to v2023-07 (minor) ([#10287](https://github.com/truecharts/charts/issues/10287))
+  
+  
+
+
+## [jupyter-4.0.44](https://github.com/truecharts/charts/compare/jupyter-4.0.43...jupyter-4.0.44) (2023-07-08)
+
+### Chore
+
+- update jupyter to v2023-07 (minor) ([#10286](https://github.com/truecharts/charts/issues/10286))
+  
+  
+
+
+## [jupyter-4.0.43](https://github.com/truecharts/charts/compare/jupyter-4.0.42...jupyter-4.0.43) (2023-07-07)
+
+### Chore
+
+- update jupyter ([#10249](https://github.com/truecharts/charts/issues/10249))
+  
+  
+
+
+## [jupyter-4.0.42](https://github.com/truecharts/charts/compare/jupyter-4.0.41...jupyter-4.0.42) (2023-07-07)
+
+### Chore
+
+- update jupyter ([#10227](https://github.com/truecharts/charts/issues/10227))
+  
+  
+
+
+## [jupyter-4.0.41](https://github.com/truecharts/charts/compare/jupyter-4.0.40...jupyter-4.0.41) (2023-07-07)
+
+### Chore
+
+- update jupyter ([#10225](https://github.com/truecharts/charts/issues/10225))
+  
+  
+
+
+## [jupyter-4.0.40](https://github.com/truecharts/charts/compare/jupyter-4.0.39...jupyter-4.0.40) (2023-07-07)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-base to v2023-06 ([#10223](https://github.com/truecharts/charts/issues/10223))
+  
+  
+
+
+## [jupyter-4.0.39](https://github.com/truecharts/charts/compare/jupyter-4.0.38...jupyter-4.0.39) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
+## [jupyter-4.0.38](https://github.com/truecharts/charts/compare/jupyter-4.0.37...jupyter-4.0.38) (2023-06-26)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-minimal to v2023-06 ([#9956](https://github.com/truecharts/charts/issues/9956))
+  
+  
+
+
+## [jupyter-4.0.37](https://github.com/truecharts/charts/compare/jupyter-4.0.36...jupyter-4.0.37) (2023-06-26)
+
+### Chore
+
+- update jupyter to v2023-06 (minor) ([#9954](https://github.com/truecharts/charts/issues/9954))
+  
+  
+
+
+## [jupyter-4.0.36](https://github.com/truecharts/charts/compare/jupyter-4.0.35...jupyter-4.0.36) (2023-06-26)
+
+### Chore
+
+- update jupyter ([#9912](https://github.com/truecharts/charts/issues/9912))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.35](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.35) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-tensorflow to v2023-06 ([#9668](https://github.com/truecharts/charts/issues/9668))
+  - update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.34](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.34) (2023-06-15)
+
+### Chore
+
+- update jupyter ([#9667](https://github.com/truecharts/charts/issues/9667))
+  - update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.33](https://github.com/truecharts/charts/compare/jupyter-4.0.32...jupyter-4.0.33) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/jupyter-pyspark to v2023-06 ([#9665](https://github.com/truecharts/charts/issues/9665))
+  
+  
+
+
+## [jupyter-4.0.32](https://github.com/truecharts/charts/compare/jupyter-4.0.31...jupyter-4.0.32) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [jupyter-4.0.31](https://github.com/truecharts/charts/compare/jupyter-4.0.30...jupyter-4.0.31) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [jupyter-4.0.30](https://github.com/truecharts/charts/compare/jupyter-4.0.29...jupyter-4.0.30) (2023-06-09)
+
+### Chore
+
+- update jupyter to v2023-06 (minor) ([#9518](https://github.com/truecharts/charts/issues/9518))
+  
+  
+
+
+## [jupyter-4.0.29](https://github.com/truecharts/charts/compare/jupyter-4.0.28...jupyter-4.0.29) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [jupyter-4.0.28](https://github.com/truecharts/charts/compare/jupyter-4.0.27...jupyter-4.0.28) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
+  
+  
+
+
 ## [jupyter-4.0.27](https://github.com/truecharts/charts/compare/jupyter-4.0.26...jupyter-4.0.27) (2023-06-04)
 
 ### Chore

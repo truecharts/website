@@ -2,6 +2,39 @@
 
 
 
+
+## [ipmi-tools-4.0.0](https://github.com/truecharts/charts/compare/ipmi-tools-3.0.1...ipmi-tools-4.0.0) (2023-07-31)
+
+
+
+
+## [ipmi-tools-3.0.1](https://github.com/truecharts/charts/compare/ipmi-tools-3.0.0...ipmi-tools-3.0.1) (2023-07-30)
+
+### Chore
+
+- update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
+  
+  
+
+
+## [ipmi-tools-3.0.0](https://github.com/truecharts/charts/compare/ipmi-tools-2.0.9...ipmi-tools-3.0.0) (2023-07-27)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  ### Migrate
+
+- Migrate to New Common ([#10880](https://github.com/truecharts/charts/issues/10880))
+  
+  
+
+
 ## [ipmi-tools-2.0.9](https://github.com/truecharts/charts/compare/ipmi-tools-2.0.8...ipmi-tools-2.0.9) (2023-02-10)
 
 ### Fix

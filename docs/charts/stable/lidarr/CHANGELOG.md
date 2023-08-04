@@ -2,6 +2,418 @@
 
 
 
+
+## [lidarr-17.0.0](https://github.com/truecharts/charts/compare/lidarr-16.1.4...lidarr-17.0.0) (2023-07-31)
+
+
+
+
+## [lidarr-16.1.4](https://github.com/truecharts/charts/compare/lidarr-16.1.3...lidarr-16.1.4) (2023-07-30)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.3.3.3432 ([#11032](https://github.com/truecharts/charts/issues/11032))
+  
+  
+
+
+## [lidarr-16.1.3](https://github.com/truecharts/charts/compare/lidarr-16.1.2...lidarr-16.1.3) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [lidarr-16.1.2](https://github.com/truecharts/charts/compare/lidarr-16.1.1...lidarr-16.1.2) (2023-07-24)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.3.1.3371 ([#10792](https://github.com/truecharts/charts/issues/10792))
+  
+  
+
+
+## [lidarr-16.1.1](https://github.com/truecharts/charts/compare/lidarr-16.1.0...lidarr-16.1.1) (2023-07-23)
+
+
+
+
+## [lidarr-16.1.0](https://github.com/truecharts/charts/compare/lidarr-16.0.27...lidarr-16.1.0) (2023-07-21)
+
+
+
+
+## [lidarr-16.0.27](https://github.com/truecharts/charts/compare/lidarr-16.0.26...lidarr-16.0.27) (2023-07-19)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.3.1.3371 ([#10609](https://github.com/truecharts/charts/issues/10609))
+  
+  
+
+
+## [lidarr-16.0.26](https://github.com/truecharts/charts/compare/lidarr-16.0.25...lidarr-16.0.26) (2023-07-07)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.6.3313 ([#10219](https://github.com/truecharts/charts/issues/10219))
+  
+  
+
+
+## [lidarr-16.0.25](https://github.com/truecharts/charts/compare/lidarr-16.0.24...lidarr-16.0.25) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
+## [lidarr-16.0.24](https://github.com/truecharts/charts/compare/lidarr-16.0.23...lidarr-16.0.24) (2023-06-25)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.5.3288 ([#9904](https://github.com/truecharts/charts/issues/9904))
+  
+  
+
+
+## [lidarr-16.0.23](https://github.com/truecharts/charts/compare/lidarr-16.0.22...lidarr-16.0.23) (2023-06-17)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9712](https://github.com/truecharts/charts/issues/9712))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.22](https://github.com/truecharts/charts/compare/lidarr-16.0.21...lidarr-16.0.22) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.4.3273 ([#9660](https://github.com/truecharts/charts/issues/9660))
+  
+  
+
+
+## [lidarr-16.0.21](https://github.com/truecharts/charts/compare/lidarr-16.0.20...lidarr-16.0.21) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [lidarr-16.0.20](https://github.com/truecharts/charts/compare/lidarr-16.0.19...lidarr-16.0.20) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [lidarr-16.0.19](https://github.com/truecharts/charts/compare/lidarr-16.0.18...lidarr-16.0.19) (2023-06-10)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.3.3267 ([#9571](https://github.com/truecharts/charts/issues/9571))
+  
+  
+
+
+## [lidarr-16.0.18](https://github.com/truecharts/charts/compare/lidarr-16.0.17...lidarr-16.0.18) (2023-06-09)
+
+### Chore
+
+- update container image tccr.io/truecharts/lidarr to v1.2.3.3267 ([#9525](https://github.com/truecharts/charts/issues/9525))
+  
+  
+
+
+## [lidarr-16.0.17](https://github.com/truecharts/charts/compare/lidarr-16.0.16...lidarr-16.0.17) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [lidarr-16.0.16](https://github.com/truecharts/charts/compare/lidarr-16.0.15...lidarr-16.0.16) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [lidarr-16.0.15](https://github.com/truecharts/charts/compare/lidarr-16.0.14...lidarr-16.0.15) (2023-06-04)
 
 ### Chore

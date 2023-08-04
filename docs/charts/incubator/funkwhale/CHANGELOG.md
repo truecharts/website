@@ -2,6 +2,38 @@
 
 
 
+
+## [funkwhale-4.0.0](https://github.com/truecharts/charts/compare/funkwhale-3.0.1...funkwhale-4.0.0) (2023-07-31)
+
+
+
+
+## [funkwhale-3.0.1](https://github.com/truecharts/charts/compare/funkwhale-3.0.0...funkwhale-3.0.1) (2023-07-30)
+
+### Fix
+
+- fix port ([#11062](https://github.com/truecharts/charts/issues/11062))
+  
+  
+
+
+## [funkwhale-3.0.0](https://github.com/truecharts/charts/compare/funkwhale-2.1.10...funkwhale-3.0.0) (2023-07-30)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  ### Migrate
+
+- Migrate to new common ([#11004](https://github.com/truecharts/charts/issues/11004))
+  
+  
+
+
 ## [funkwhale-2.1.10](https://github.com/truecharts/charts/compare/funkwhale-2.1.9...funkwhale-2.1.10) (2023-04-30)
 
 ### Chore

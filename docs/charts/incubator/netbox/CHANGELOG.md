@@ -2,6 +2,20 @@
 
 
 
+
+## [netbox-4.0.0](https://github.com/truecharts/charts/compare/netbox-3.0.39...netbox-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [netbox-3.0.39](https://github.com/truecharts/charts/compare/netbox-3.0.38...netbox-3.0.39) (2023-04-29)
 
 ### Chore

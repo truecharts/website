@@ -2,6 +2,16 @@
 
 
 
+
+## [invitarr-3.0.0](https://github.com/truecharts/charts/compare/invitarr-2.0.9...invitarr-3.0.0) (2023-07-31)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [invitarr-2.0.9](https://github.com/truecharts/charts/compare/invitarr-2.0.8...invitarr-2.0.9) (2023-02-10)
 
 ### Fix

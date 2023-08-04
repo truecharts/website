@@ -1,12 +1,16 @@
 # Channels DVR Installation Notes
 
-:::danger Ingress
+:::danger TV Everywhere Permissions
+
+If using TV Everywhere, `runAsUser` and `runAsGroup` must both be changed to `0` and `readOnlyRootFilesystem` must be changed to `false`.
+
+:::
+
+## Ingress
 
 You cannot use Ingress during the initial setup. The Channels DVR Server web interface must be accessed using the TrueNAS server IP and Channels DVR Server port (defaults to 8089).
 
 After initial setup, ingress can be used to access the Channels DVR Server web interface.
-
-:::
 
 ## Login
 

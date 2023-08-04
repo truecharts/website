@@ -2,6 +2,20 @@
 
 
 
+
+## [jenkins-4.0.0](https://github.com/truecharts/charts/compare/jenkins-3.0.15...jenkins-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [jenkins-3.0.15](https://github.com/truecharts/charts/compare/jenkins-3.0.14...jenkins-3.0.15) (2023-02-22)
 
 ### Chore

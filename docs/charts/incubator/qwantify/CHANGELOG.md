@@ -2,6 +2,20 @@
 
 
 
+
+## [qwantify-1.0.0](https://github.com/truecharts/charts/compare/qwantify-0.0.4...qwantify-1.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [qwantify-0.0.4](https://github.com/truecharts/charts/compare/qwantify-0.0.3...qwantify-0.0.4) (2023-02-10)
 
 ### Fix

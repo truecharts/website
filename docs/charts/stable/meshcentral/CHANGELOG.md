@@ -2,6 +2,318 @@
 
 
 
+
+## [meshcentral-11.0.0](https://github.com/truecharts/charts/compare/meshcentral-10.0.21...meshcentral-11.0.0) (2023-07-31)
+
+
+
+
+## [meshcentral-10.0.21](https://github.com/truecharts/charts/compare/meshcentral-10.0.20...meshcentral-10.0.21) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [meshcentral-10.0.20](https://github.com/truecharts/charts/compare/meshcentral-10.0.19...meshcentral-10.0.20) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.19](https://github.com/truecharts/charts/compare/meshcentral-10.0.18...meshcentral-10.0.19) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/meshcentral to v1.1.6 ([#9664](https://github.com/truecharts/charts/issues/9664))
+  
+  
+
+
+## [meshcentral-10.0.18](https://github.com/truecharts/charts/compare/meshcentral-10.0.17...meshcentral-10.0.18) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [meshcentral-10.0.17](https://github.com/truecharts/charts/compare/meshcentral-10.0.16...meshcentral-10.0.17) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [meshcentral-10.0.16](https://github.com/truecharts/charts/compare/meshcentral-10.0.15...meshcentral-10.0.16) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
+  
+  
+
+
+## [meshcentral-10.0.15](https://github.com/truecharts/charts/compare/meshcentral-10.0.14...meshcentral-10.0.15) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [meshcentral-10.0.14](https://github.com/truecharts/charts/compare/meshcentral-10.0.13...meshcentral-10.0.14) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [meshcentral-10.0.13](https://github.com/truecharts/charts/compare/meshcentral-10.0.12...meshcentral-10.0.13) (2023-06-04)
 
 ### Chore

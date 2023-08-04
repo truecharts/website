@@ -2,6 +2,66 @@
 
 
 
+
+## [etherpad-13.0.0](https://github.com/truecharts/charts/compare/etherpad-12.0.24...etherpad-13.0.0) (2023-07-31)
+
+
+
+
+## [etherpad-12.0.24](https://github.com/truecharts/charts/compare/etherpad-12.0.23...etherpad-12.0.24) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [etherpad-12.0.23](https://github.com/truecharts/charts/compare/etherpad-12.0.22...etherpad-12.0.23) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
+## [etherpad-12.0.22](https://github.com/truecharts/charts/compare/etherpad-12.0.21...etherpad-12.0.22) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [etherpad-12.0.21](https://github.com/truecharts/charts/compare/etherpad-12.0.20...etherpad-12.0.21) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [etherpad-12.0.20](https://github.com/truecharts/charts/compare/etherpad-12.0.19...etherpad-12.0.20) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [etherpad-12.0.19](https://github.com/truecharts/charts/compare/etherpad-12.0.18...etherpad-12.0.19) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [etherpad-12.0.18](https://github.com/truecharts/charts/compare/etherpad-12.0.17...etherpad-12.0.18) (2023-06-04)
 
 ### Chore

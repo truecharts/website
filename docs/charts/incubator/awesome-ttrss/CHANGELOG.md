@@ -2,6 +2,21 @@
 
 
 
+
+## [awesome-ttrss-4.0.0](https://github.com/truecharts/charts/compare/awesome-ttrss-3.0.23...awesome-ttrss-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  
+
+
 ## [awesome-ttrss-3.0.23](https://github.com/truecharts/charts/compare/awesome-ttrss-3.0.22...awesome-ttrss-3.0.23) (2023-02-27)
 
 ### Chore

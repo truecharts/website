@@ -2,6 +2,17 @@
 
 
 
+
+## [vlmcsd-kms-server-3.0.0](https://github.com/truecharts/charts/compare/vlmcsd-kms-server-2.0.9...vlmcsd-kms-server-3.0.0) (2023-07-31)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  
+
+
 ## [vlmcsd-kms-server-2.0.9](https://github.com/truecharts/charts/compare/vlmcsd-kms-server-2.0.8...vlmcsd-kms-server-2.0.9) (2023-02-10)
 
 ### Fix

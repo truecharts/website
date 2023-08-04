@@ -2,6 +2,20 @@
 
 
 
+
+## [apprise-api-4.0.0](https://github.com/truecharts/charts/compare/apprise-api-3.0.1...apprise-api-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [apprise-api-3.0.1](https://github.com/truecharts/charts/compare/apprise-api-3.0.0...apprise-api-3.0.1) (2023-02-24)
 
 ### Chore

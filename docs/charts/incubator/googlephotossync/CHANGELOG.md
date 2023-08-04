@@ -2,6 +2,21 @@
 
 
 
+
+## [googlephotossync-3.0.0](https://github.com/truecharts/charts/compare/googlephotossync-2.0.15...googlephotossync-3.0.0) (2023-07-31)
+
+### Chore
+
+- update container image tccr.io/truecharts/googlephotossync to latest ([#8231](https://github.com/truecharts/charts/issues/8231))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  - fix indentation ([#8536](https://github.com/truecharts/charts/issues/8536))
+  
+  
+
+
 ## [googlephotossync-2.0.15](https://github.com/truecharts/charts/compare/googlephotossync-2.0.14...googlephotossync-2.0.15) (2023-02-26)
 
 ### Chore

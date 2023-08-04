@@ -2,6 +2,49 @@
 
 
 
+
+## [tasmocompiler-4.0.0](https://github.com/truecharts/charts/compare/tasmocompiler-3.0.4...tasmocompiler-4.0.0) (2023-07-31)
+
+
+
+
+## [tasmocompiler-3.0.4](https://github.com/truecharts/charts/compare/tasmocompiler-3.0.3...tasmocompiler-3.0.4) (2023-07-30)
+
+### Chore
+
+- update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
+  
+  
+
+
+## [tasmocompiler-3.0.3](https://github.com/truecharts/charts/compare/tasmocompiler-3.0.2...tasmocompiler-3.0.3) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [tasmocompiler-3.0.2](https://github.com/truecharts/charts/compare/tasmocompiler-3.0.1...tasmocompiler-3.0.2) (2023-07-22)
+
+
+
+
+## [tasmocompiler-3.0.1](https://github.com/truecharts/charts/compare/tasmocompiler-3.0.0...tasmocompiler-3.0.1) (2023-07-04)
+
+
+
+
+## [tasmocompiler-3.0.0](https://github.com/truecharts/charts/compare/tasmocompiler-2.0.14...tasmocompiler-3.0.0) (2023-07-03)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [tasmocompiler-2.0.14](https://github.com/truecharts/charts/compare/tasmocompiler-2.0.13...tasmocompiler-2.0.14) (2023-04-30)
 
 ### Chore

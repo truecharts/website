@@ -2,6 +2,371 @@
 
 
 
+
+## [plex-14.0.0](https://github.com/truecharts/charts/compare/plex-13.0.37...plex-14.0.0) (2023-07-31)
+
+### Docs
+
+- plug-ins codeserver notes update ([#11068](https://github.com/truecharts/charts/issues/11068))
+  
+  
+
+
+## [plex-13.0.37](https://github.com/truecharts/charts/compare/plex-13.0.36...plex-13.0.37) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [plex-13.0.36](https://github.com/truecharts/charts/compare/plex-13.0.35...plex-13.0.36) (2023-07-28)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.5.7349 ([#10949](https://github.com/truecharts/charts/issues/10949))
+  
+  
+
+
+## [plex-13.0.35](https://github.com/truecharts/charts/compare/plex-13.0.34...plex-13.0.35) (2023-07-21)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.5.7328 ([#10706](https://github.com/truecharts/charts/issues/10706))
+  
+  ### Docs
+
+- update install notes ([#10556](https://github.com/truecharts/charts/issues/10556))
+  
+  
+
+
+## [plex-13.0.34](https://github.com/truecharts/charts/compare/plex-13.0.33...plex-13.0.34) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
+## [plex-13.0.33](https://github.com/truecharts/charts/compare/plex-13.0.32...plex-13.0.33) (2023-06-25)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.4.7195 ([#9894](https://github.com/truecharts/charts/issues/9894))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.32](https://github.com/truecharts/charts/compare/plex-13.0.31...plex-13.0.32) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7192 ([#9661](https://github.com/truecharts/charts/issues/9661))
+  
+  
+
+
+## [plex-13.0.31](https://github.com/truecharts/charts/compare/plex-13.0.30...plex-13.0.31) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [plex-13.0.30](https://github.com/truecharts/charts/compare/plex-13.0.29...plex-13.0.30) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [plex-13.0.29](https://github.com/truecharts/charts/compare/plex-13.0.28...plex-13.0.29) (2023-06-09)
+
+### Chore
+
+- update container image tccr.io/truecharts/plex to v1.32.3.7162 ([#9528](https://github.com/truecharts/charts/issues/9528))
+  
+  
+
+
+## [plex-13.0.28](https://github.com/truecharts/charts/compare/plex-13.0.27...plex-13.0.28) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [plex-13.0.27](https://github.com/truecharts/charts/compare/plex-13.0.26...plex-13.0.27) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [plex-13.0.26](https://github.com/truecharts/charts/compare/plex-13.0.25...plex-13.0.26) (2023-06-04)
 
 ### Chore

@@ -2,6 +2,53 @@
 
 
 
+
+## [technitium-5.0.0](https://github.com/truecharts/charts/compare/technitium-4.0.4...technitium-5.0.0) (2023-07-31)
+
+
+
+
+## [technitium-4.0.4](https://github.com/truecharts/charts/compare/technitium-4.0.3...technitium-4.0.4) (2023-07-30)
+
+### Chore
+
+- update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
+  
+  
+
+
+## [technitium-4.0.3](https://github.com/truecharts/charts/compare/technitium-4.0.2...technitium-4.0.3) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [technitium-4.0.2](https://github.com/truecharts/charts/compare/technitium-4.0.1...technitium-4.0.2) (2023-07-22)
+
+
+
+
+## [technitium-4.0.1](https://github.com/truecharts/charts/compare/technitium-4.0.0...technitium-4.0.1) (2023-07-14)
+
+
+
+
+## [technitium-4.0.0](https://github.com/truecharts/charts/compare/technitium-3.0.11...technitium-4.0.0) (2023-07-03)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [technitium-3.0.11](https://github.com/truecharts/charts/compare/technitium-3.0.10...technitium-3.0.11) (2023-05-03)
 
 ### Fix

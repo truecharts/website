@@ -2,6 +2,381 @@
 
 
 
+
+## [homarr-6.0.0](https://github.com/truecharts/charts/compare/homarr-5.0.28...homarr-6.0.0) (2023-07-31)
+
+
+
+
+## [homarr-5.0.28](https://github.com/truecharts/charts/compare/homarr-5.0.27...homarr-5.0.28) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [homarr-5.0.27](https://github.com/truecharts/charts/compare/homarr-5.0.26...homarr-5.0.27) (2023-07-19)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.13.0 ([#10602](https://github.com/truecharts/charts/issues/10602))
+  
+  
+
+
+## [homarr-5.0.26](https://github.com/truecharts/charts/compare/homarr-5.0.25...homarr-5.0.26) (2023-07-01)
+
+### Chore
+
+- update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.25](https://github.com/truecharts/charts/compare/homarr-5.0.24...homarr-5.0.25) (2023-06-15)
+
+### Chore
+
+- update container image tccr.io/truecharts/homarr to v0.12.3 ([#9655](https://github.com/truecharts/charts/issues/9655))
+  
+  
+
+
+## [homarr-5.0.24](https://github.com/truecharts/charts/compare/homarr-5.0.23...homarr-5.0.24) (2023-06-13)
+
+### Chore
+
+- update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
+  
+  
+
+
+## [homarr-5.0.23](https://github.com/truecharts/charts/compare/homarr-5.0.22...homarr-5.0.23) (2023-06-11)
+
+### Chore
+
+- update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
+  
+  
+
+
+## [homarr-5.0.22](https://github.com/truecharts/charts/compare/homarr-5.0.21...homarr-5.0.22) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
+  
+  
+
+
+## [homarr-5.0.21](https://github.com/truecharts/charts/compare/homarr-5.0.20...homarr-5.0.21) (2023-06-07)
+
+### Chore
+
+- update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
+  
+  
+
+
 ## [homarr-5.0.20](https://github.com/truecharts/charts/compare/homarr-5.0.19...homarr-5.0.20) (2023-06-04)
 
 ### Chore

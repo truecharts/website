@@ -2,6 +2,20 @@
 
 
 
+
+## [lenpaste-4.0.0](https://github.com/truecharts/charts/compare/lenpaste-3.0.22...lenpaste-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [lenpaste-3.0.22](https://github.com/truecharts/charts/compare/lenpaste-3.0.21...lenpaste-3.0.22) (2023-02-27)
 
 ### Chore

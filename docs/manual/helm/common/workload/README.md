@@ -8,6 +8,7 @@
 | workload.[workload-name].primary                                     | `boolean` |    ✅    |         ❌         |                             `false`                             | Sets the workload as primary                                             |
 | workload.[workload-name].labels                                      |  `dict`   |    ❌    | ✅ (On value only) |                              `{}`                               | Additional labels for workload                                           |
 | workload.[workload-name].annotations                                 |  `dict`   |    ❌    | ✅ (On value only) |                              `{}`                               | Additional annotations for workload                                      |
+| workload.[workload-name].namespace                                   | `string`  |    ❌    |         ✅         |                              `""`                               | Define the namespace for this object                                     |
 | workload.[workload-name].type                                        | `string`  |    ✅    |         ❌         |                              `""`                               | Define the kind of the workload (Deployment, CronJob, Job)               |
 | workload.[workload-name].podSpec                                     |  `dict`   |    ✅    |         ❌         |                              `{}`                               | Holds the pod definition                                                 |
 | workload.[workload-name].podSpec.labels                              |  `dict`   |    ❌    | ✅ (On value only) |                              `{}`                               | Additional Pod Labels                                                    |
@@ -100,6 +101,7 @@ workload:
   workload-name:
     enabled: true
     primary: true
+    namespace: some-namespace
     labels:
       key: value
     annotations:

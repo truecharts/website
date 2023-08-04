@@ -2,6 +2,48 @@
 
 
 
+
+## [midarr-5.0.0](https://github.com/truecharts/charts/compare/midarr-4.0.3...midarr-5.0.0) (2023-07-31)
+
+
+
+
+## [midarr-4.0.3](https://github.com/truecharts/charts/compare/midarr-4.0.2...midarr-4.0.3) (2023-07-30)
+
+### Chore
+
+- update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
+  
+  
+
+
+## [midarr-4.0.2](https://github.com/truecharts/charts/compare/midarr-4.0.1...midarr-4.0.2) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [midarr-4.0.1](https://github.com/truecharts/charts/compare/midarr-4.0.0...midarr-4.0.1) (2023-07-22)
+
+
+
+
+## [midarr-4.0.0](https://github.com/truecharts/charts/compare/midarr-3.0.22...midarr-4.0.0) (2023-07-14)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [midarr-3.0.22](https://github.com/truecharts/charts/compare/midarr-3.0.21...midarr-3.0.22) (2023-02-27)
 
 ### Chore

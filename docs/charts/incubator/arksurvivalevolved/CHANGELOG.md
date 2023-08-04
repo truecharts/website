@@ -2,6 +2,20 @@
 
 
 
+
+## [arksurvivalevolved-4.0.0](https://github.com/truecharts/charts/compare/arksurvivalevolved-3.0.9...arksurvivalevolved-4.0.0) (2023-07-31)
+
+### Feat
+
+- hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
+  
+  ### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [arksurvivalevolved-3.0.9](https://github.com/truecharts/charts/compare/arksurvivalevolved-3.0.8...arksurvivalevolved-3.0.9) (2023-02-10)
 
 ### Fix

@@ -16,7 +16,7 @@ Using host path is **not** compatible with shares!
 :::
 
 :::tip
- 
+
 To share data, create an `NFS` share and select `NFS Share` for the `Type of Storage` in the `Additional App Storage` settings.  
 You can create an `SMB` share on the same mount point if needed.  
 See [Why I can't use host path on both my apps and sharing services?](#why-i-cant-use-host-path-on-both-my-apps-and-sharing-services) for further details.
@@ -160,9 +160,10 @@ This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced S
 ## My app stays stopped even after clicking the start button multiple times.
 
 The following apps do not have active services running under an `ix` namespace, and as a result, they will always appear as "Stopped" in the SCALE UI:
+
 - `external-service`
-- `metallb`
-- `cert-manager`
+- `metallb-config`
+- `clusterissuer`
 - `postgresql`
 
 ## How do I stop a TrueCharts App? (**TrueNAS SCALE Only**)
@@ -259,7 +260,6 @@ If the App does not use CNPG, you have several options to stop an App:
 ```k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0```
 
 - 3. Use [HeavyScript](https://github.com/Heavybullets8/heavy_script).
-
 
 ### What If I've already pressed the Stop button on an App that uses CNPG?
 

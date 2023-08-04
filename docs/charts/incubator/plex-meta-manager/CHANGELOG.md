@@ -2,6 +2,44 @@
 
 
 
+
+## [plex-meta-manager-4.0.0](https://github.com/truecharts/charts/compare/plex-meta-manager-3.0.3...plex-meta-manager-4.0.0) (2023-07-31)
+
+
+
+
+## [plex-meta-manager-3.0.3](https://github.com/truecharts/charts/compare/plex-meta-manager-3.0.2...plex-meta-manager-3.0.3) (2023-07-30)
+
+### Chore
+
+- update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
+  
+  
+
+
+## [plex-meta-manager-3.0.2](https://github.com/truecharts/charts/compare/plex-meta-manager-3.0.1...plex-meta-manager-3.0.2) (2023-07-29)
+
+### Chore
+
+- update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
+  
+  
+
+
+## [plex-meta-manager-3.0.1](https://github.com/truecharts/charts/compare/plex-meta-manager-3.0.0...plex-meta-manager-3.0.1) (2023-07-22)
+
+
+
+
+## [plex-meta-manager-3.0.0](https://github.com/truecharts/charts/compare/plex-meta-manager-2.0.14...plex-meta-manager-3.0.0) (2023-07-03)
+
+### Fix
+
+- fix mistakes on questions.yaml
+  
+  
+
+
 ## [plex-meta-manager-2.0.14](https://github.com/truecharts/charts/compare/plex-meta-manager-2.0.13...plex-meta-manager-2.0.14) (2023-02-10)
 
 ### Fix
