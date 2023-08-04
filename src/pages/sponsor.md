@@ -8,7 +8,7 @@ A sponsor gets a more-or-less little reward for their investment into our projec
 
 We currently offer multiple recurring sponsor tiers:
 
-[TrueCharts on Open Collective](https://patreon.com/truecharts)
+[TrueCharts on Open Collective](https://opencollective.com/truecharts)
 
 -----
 
@@ -20,7 +20,7 @@ Donations are gifts that do not cover a reward and can be both aimed out our pro
 
 Project Donations can be made using one of the following channels:
 
-[Open Collective](https://patreon.com/truecharts)
+[Open Collective](https://opencollective.com/truecharts)
 
 ---
 
