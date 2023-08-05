@@ -89,9 +89,9 @@ Commenting `+1` just pings everyone following this request without an actual upd
 
 ## How do I know if there are Breaking Changes?
 
-TrueCharts uses Semantic Versioning on the aspects of the chart that TrueCharts has changed.
+TrueCharts uses Semantic Versioning on the aspects of the chart that TrueCharts has changed.
 Some upstream **containers** use `latest` tags or poor versioning schemes so updates aren't always
- clear if they contain breaking changes. Be sure to check the **changelog** for each chart before updating.
+ clear if they contain breaking changes. Be sure to check the **changelog** for each chart before updating.
 
 ## How do I tell that this update is a Major and potentially breaking change?
 
@@ -297,3 +297,48 @@ The application state in the web GUI will be `Started` since there is still a CN
 **NEVER EVER** try to stop any CNPG related pods.
 
 :::
+
+## Operators
+
+TrueCharts has always required operators for many charts to work. Previously these operators were installed automatically and were not visible to the end user. TrueCharts now requires that these operators to be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [Operators TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts).
+
+### Prometheus-Operator
+
+This operator is required for the use of Prometheus metrics and for any charts that utilize CloudNative Postgresql (CNPG).
+
+To remove the previous automatically installed operator run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete3`
+
+### Cloudnative-PG
+
+This operator is required for the use of any charts that utilize CloudNative Postgresql (CNPG).
+
+:::warning DATA LOSS
+
+The following command is destructive and will delete any existing CNPG databases. Follow [this guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+
+:::
+
+To remove the previous automatically installed operator run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete2`
+
+### Cert-Manager
+
+This operator is required for the use of Cert-Manager (Clusterissuer) to issue certificates for chart ingress.
+
+To remove the previous automatically installed operator run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete4`
+
+### MetalLB
+
+This operator is required for the use of MetalLB to have each chart utilize a unique IP address.
+
+:::warning LOSS OF CONNECTIVITY
+
+Installing the MetalLB operator will prevent the use of the TrueNAS Scale integrated load balancer. Only install this operator if you intend to use MetalLB.
+
+:::
+
+To remove the previous automatically installed operator run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete`
+
+### Traefik
+
+This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [Enterprise TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts).
+
