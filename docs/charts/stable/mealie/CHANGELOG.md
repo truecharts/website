@@ -2,6 +2,15 @@
 
 
 
+## [mealie-17.0.1](https://github.com/truecharts/charts/compare/mealie-17.0.0...mealie-17.0.1) (2023-08-06)
+
+### Chore
+
+- update mealie ([#11099](https://github.com/truecharts/charts/issues/11099))
+  
+  
+
+
 
 ## [mealie-17.0.0](https://github.com/truecharts/charts/compare/mealie-16.0.6...mealie-17.0.0) (2023-07-31)
 
