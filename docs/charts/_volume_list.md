@@ -340,6 +340,7 @@ The intro needs improvement ;)
 |netdata                   |go-d-k8s-state-configs|configmap|-              |/etc/netdata/truecharts-defaults/go.d/.k8s_state.conf|Read/Write|Enabled                |
 |nextcloud                 |php-tune              |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |nextcloud                 |redis-session         |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
+|nextcloud                 |opcache-recommended   |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |nextcloud                 |nginx                 |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |nextcloud                 |nginx-temp            |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |nextcloud                 |html                  |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
@@ -493,6 +494,7 @@ The intro needs improvement ;)
 |simply-shorten            |config                |PVC      |-              |/config/db                                           |Read/Write|Enabled                |
 |smokeping                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |smokeping                 |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|smokeping                 |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |snapdrop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |snippet-box               |data                  |PVC      |-              |/app/data                                            |Read/Write|Enabled                |
 |soft-serve                |config                |PVC      |-              |/soft-serve                                          |Read/Write|Enabled                |
@@ -753,6 +755,8 @@ The intro needs improvement ;)
 |cstrike1-6                     |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |cstrikeconditionzero           |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |cstrikeconditionzero           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
+|ctfd                           |uploads                    |PVC      |-                |/uploads                                        |Read/Write|Enabled                |
+|ctfd                           |logs                       |PVC      |-                |/logs                                           |Read/Write|Enabled                |
 |cups-server                    |config                     |PVC      |-                |/etc/cups                                       |Read/Write|Enabled                |
 |cups-server                    |dbus                       |hostPath |/var/run/dbus    |/var/run/dbus                                   |Read/Write|Enabled                |
 |dailynotes                     |config                     |PVC      |-                |/app/config                                     |Read/Write|Enabled                |
@@ -1263,6 +1267,7 @@ The intro needs improvement ;)
 |stackedit                      |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |standardnotes-web              |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |starmade                       |serverfiles                |PVC      |-                |/starmade                                       |Read/Write|Enabled                |
+|static-web-server              |config                     |PVC      |-                |/public                                         |Read/Write|Enabled                |
 |stationeers                    |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |stationeers                    |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |statping-ng                    |data                       |PVC      |-                |/app                                            |Read/Write|Enabled                |
