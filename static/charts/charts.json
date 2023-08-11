@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 358,
+            "count": 357,
             "charts": [
                 {
                     "name": "actualserver",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cyberchef",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cyberchef.png",
-                    "version": "6.0.7"
+                    "version": "6.0.8"
                 },
                 {
                     "name": "czkawka",
@@ -993,7 +993,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/hedgedoc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/hedgedoc.png",
-                    "version": "9.0.0"
+                    "version": "9.0.1"
                 },
                 {
                     "name": "heimdall",
@@ -1089,7 +1089,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/invidious",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png",
-                    "version": "6.0.1"
+                    "version": "6.0.2"
                 },
                 {
                     "name": "ipfs",
@@ -1265,7 +1265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lazylibrarian",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.png",
-                    "version": "15.0.1"
+                    "version": "15.0.2"
                 },
                 {
                     "name": "leaf2mqtt",
@@ -1289,7 +1289,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.13"
+                    "version": "3.0.14"
                 },
                 {
                     "name": "librespeed",
@@ -1361,7 +1361,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mattermost",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mattermost.png",
-                    "version": "9.0.1"
+                    "version": "9.0.2"
                 },
                 {
                     "name": "mc-router",
@@ -1393,7 +1393,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/medusa",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/medusa.png",
-                    "version": "7.0.1"
+                    "version": "7.0.2"
                 },
                 {
                     "name": "meshcentral",
@@ -1553,7 +1553,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mylar",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mylar.png",
-                    "version": "10.0.1"
+                    "version": "10.0.2"
                 },
                 {
                     "name": "mymediaforalexa",
@@ -1706,14 +1706,6 @@
                     "link": "https://truecharts.org/charts/stable/octoprint",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/octoprint.png",
                     "version": "10.0.0"
-                },
-                {
-                    "name": "odoo",
-                    "description": "All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, Procurement, Point of Sale, MRP, Marketing, etc.",
-                    "train": "stable",
-                    "link": "https://truecharts.org/charts/stable/odoo",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/odoo.png",
-                    "version": "13.0.0"
                 },
                 {
                     "name": "omada-controller",
@@ -2009,7 +2001,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prusaslicer-novnc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prusaslicer-novnc.png",
-                    "version": "5.0.1"
+                    "version": "5.0.2"
                 },
                 {
                     "name": "putty",
@@ -2217,7 +2209,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.14"
+                    "version": "8.0.21"
                 },
                 {
                     "name": "sabnzbd",
@@ -2321,7 +2313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/sickchill",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sickchill.png",
-                    "version": "7.0.2"
+                    "version": "7.0.3"
                 },
                 {
                     "name": "sickgear",
@@ -2481,7 +2473,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tailscale",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png",
-                    "version": "5.0.0"
+                    "version": "5.0.1"
                 },
                 {
                     "name": "tautulli",
@@ -2889,7 +2881,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/znc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/znc.png",
-                    "version": "6.0.1"
+                    "version": "6.0.2"
                 },
                 {
                     "name": "ztcuui-aio",
@@ -2943,7 +2935,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "9.0.2"
+                    "version": "9.0.3"
                 },
                 {
                     "name": "metallb-config",
@@ -2981,7 +2973,7 @@
         },
         {
             "name": "incubator",
-            "count": 449,
+            "count": 450,
             "charts": [
                 {
                     "name": "acestream",
@@ -5056,6 +5048,14 @@
                     "version": "2.0.8"
                 },
                 {
+                    "name": "odoo",
+                    "description": "All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, Procurement, Point of Sale, MRP, Marketing, etc.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/odoo",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/odoo.png",
+                    "version": "13.0.1"
+                },
+                {
                     "name": "onlinecheckyourserver",
                     "description": "This is a simple Chart that will check if a domain name or IP address is pingable and send you a message with Pushover if it goes offline.",
                     "train": "incubator",
@@ -6635,7 +6635,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "8.0.4"
+                    "version": "8.0.5"
                 },
                 {
                     "name": "solr",
