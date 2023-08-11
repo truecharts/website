@@ -240,7 +240,7 @@ The intro needs improvement ;)
 |kasm                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |kavita                    |config                |PVC      |-              |/kavita/config                                       |Read/Write|Enabled                |
 |kavita                    |manga                 |PVC      |-              |/manga                                               |Read/Write|Enabled                |
-|kitchenowl                |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|kitchenowl                |data                  |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |kiwix-serve               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |kms                       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |kodi-headless             |config                |PVC      |-              |/config/.kodi                                        |Read/Write|Enabled                |
