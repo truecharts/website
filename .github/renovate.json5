@@ -16,17 +16,17 @@
   "dependencyDashboard": true,
   "packageRules": [
     {
-      "packagePatterns": ["^@docusaurus"],
+      "matchPackagePatterns": ["^@docusaurus"],
       "groupName": "Docusaurus  Major",
       "matchUpdateTypes": ["major"]
     },
     {
-      "packagePatterns": ["^@swc"],
+      "matchPackagePatterns": ["^@swc"],
       "groupName": "SWC  Major",
       "matchUpdateTypes": ["major"]
     },
     {
-      "packagePatterns": ["^@react"],
+      "matchPackagePatterns": ["^@react"],
       "groupName": "React Major",
       "matchUpdateTypes": ["major"]
     },
@@ -36,19 +36,19 @@
       "matchUpdateTypes": ["major"]
     },
     {
-      "packagePatterns": ["^@docusaurus"],
+      "matchPackagePatterns": ["^@docusaurus"],
       "groupName": "Docusaurus",
       "automerge": true,
       "matchUpdateTypes": ["minor", "patch", "digest"]
     },
     {
-      "packagePatterns": ["^@swc"],
+      "matchPackagePatterns": ["^@swc"],
       "groupName": "SWC",
       "automerge": true,
       "matchUpdateTypes": ["minor", "patch", "digest"]
     },
     {
-      "packagePatterns": ["^@react"],
+      "matchPackagePatterns": ["^@react"],
       "groupName": "React",
       "automerge": true,
       "matchUpdateTypes": ["minor", "patch", "digest"]
