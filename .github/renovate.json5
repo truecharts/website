@@ -10,6 +10,7 @@
   "automerge": true,
   "gitAuthor": "TrueCharts-Admin <bot@truecharts.org>",
   "extends": ["config:base", ":label(dependencies)"],
+  "dependencyDashboardApproval": false,
   "lockFileMaintenance": {
     "enabled": true
   },
