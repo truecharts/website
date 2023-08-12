@@ -17,7 +17,11 @@
   "packageRules": [
     {
       "packagePatterns": ["^@docusaurus"],
-      "groupName": "docusaurus monorepo"
+      "groupName": "docusaurus"
+    },
+    {
+      "packagePatterns": ["^@swc"],
+      "groupName": "swc"
     }
   ]
 }
