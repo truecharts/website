@@ -16,17 +16,17 @@
   "dependencyDashboard": true,
   "packageRules": [
     {
-      "matchPackagePatterns": ["^@docusaurus"],
+      "matchPackagePatterns": ["^@docusaurus", "^^docusaurus"],
       "groupName": "Docusaurus  Major",
       "matchUpdateTypes": ["major"]
     },
     {
-      "matchPackagePatterns": ["^@swc"],
+      "matchPackagePatterns": ["^@swc", "^swc"],
       "groupName": "SWC  Major",
       "matchUpdateTypes": ["major"]
     },
     {
-      "matchPackagePatterns": ["^@react"],
+      "matchPackagePatterns": ["^@react", "^react"],
       "groupName": "React Major",
       "matchUpdateTypes": ["major"]
     },
@@ -36,19 +36,19 @@
       "matchUpdateTypes": ["major"]
     },
     {
-      "matchPackagePatterns": ["^@docusaurus"],
+      "matchPackagePatterns": ["^@docusaurus", "^docusaurus"],
       "groupName": "Docusaurus",
       "automerge": true,
       "matchUpdateTypes": ["minor", "patch", "digest"]
     },
     {
-      "matchPackagePatterns": ["^@swc"],
+      "matchPackagePatterns": ["^@swc", "^swc"],
       "groupName": "SWC",
       "automerge": true,
       "matchUpdateTypes": ["minor", "patch", "digest"]
     },
     {
-      "matchPackagePatterns": ["^@react"],
+      "matchPackagePatterns": ["^@react", "^react"],
       "groupName": "React",
       "automerge": true,
       "matchUpdateTypes": ["minor", "patch", "digest"]
