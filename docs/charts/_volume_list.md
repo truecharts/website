@@ -365,8 +365,6 @@ The intro needs improvement ;)
 |nzbhydra                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |octoprint                 |data                  |PVC      |-              |/octoprint                                           |Read/Write|Enabled                |
 |octoprint                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
-|odoo                      |odoo                  |PVC      |-              |/var/lib/odoo                                        |Read/Write|Enabled                |
-|odoo                      |addons                |PVC      |-              |/mnt/extra-addons                                    |Read/Write|Enabled                |
 |omada-controller          |data                  |PVC      |-              |/opt/tplink/EAPController/data                       |Read/Write|Enabled                |
 |omada-controller          |work                  |PVC      |-              |/opt/tplink/EAPController/work                       |Read/Write|Enabled                |
 |ombi                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -1070,6 +1068,8 @@ The intro needs improvement ;)
 |observium                      |observium                  |PVC      |-                |/opt/observium/rrd                              |Read/Write|Enabled                |
 |obsidian                       |storageconfig              |PVC      |-                |/config/.config/obsidian                        |Read/Write|Enabled                |
 |obsidian                       |storagevaults              |PVC      |-                |/vaults                                         |Read/Write|Enabled                |
+|odoo                           |odoo                       |PVC      |-                |/var/lib/odoo                                   |Read/Write|Enabled                |
+|odoo                           |addons                     |PVC      |-                |/mnt/extra-addons                               |Read/Write|Enabled                |
 |onlinecheckyourserver          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |openaudible                    |config                     |PVC      |-                |/config/OpenAudible                             |Read/Write|Enabled                |
 |openbooks                      |books                      |PVC      |-                |/books/books                                    |Read/Write|Enabled                |
