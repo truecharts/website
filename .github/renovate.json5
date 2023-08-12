@@ -1,0 +1,23 @@
+{
+  "semanticCommits": "enabled",
+  "extends": ["helpers:pinGitHubActionDigests"],
+  "dependencyDashboard": true,
+  "dependencyDashboardTitle": "Renovate Dashboard 🤖",
+  "rebaseWhen": "conflicted",
+  "prConcurrentLimit": 25,
+  "timezone":"Europe/Amsterdam",
+  "pinDigests": true,
+  "automerge": false,
+  "gitAuthor": "TrueCharts-Admin <bot@truecharts.org>",
+  "extends": ["config:base", ":label(dependencies)"],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "dependencyDashboard": true,
+  "packageRules": [
+    {
+      "packagePatterns": ["^@docusaurus"],
+      "groupName": "docusaurus monorepo"
+    }
+  ]
+}
