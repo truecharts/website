@@ -17,20 +17,47 @@
   "packageRules": [
     {
       "packagePatterns": ["^@docusaurus"],
-      "groupName": "docusaurus"
+      "groupName": "Docusaurus  Major",
+      "matchUpdateTypes": ["major"]
     },
     {
       "packagePatterns": ["^@swc"],
-      "groupName": "swc"
+      "groupName": "SWC  Major",
+      "matchUpdateTypes": ["major"]
     },
     {
       "packagePatterns": ["^@react"],
-      "groupName": "react"
+      "groupName": "React Major",
+      "matchUpdateTypes": ["major"]
+    },
+    {
+      "matchManagers": ["github-actions"],
+      "groupName": "Github-Actions Major",
+      "matchUpdateTypes": ["major"]
+    },
+    {
+      "packagePatterns": ["^@docusaurus"],
+      "groupName": "Docusaurus",
+      "automerge": true,
+      "matchUpdateTypes": ["minor", "patch", "digest"],
+    },
+    {
+      "packagePatterns": ["^@swc"],
+      "groupName": "SWC",
+      "automerge": true,
+      "matchUpdateTypes": ["minor", "patch", "digest"],
+    },
+    {
+      "packagePatterns": ["^@react"],
+      "groupName": "React",
+      "automerge": true,
+      "matchUpdateTypes": ["minor", "patch", "digest"],
     },
     {
       "matchManagers": ["github-actions"],
       "groupName": "Github-Actions",
-      "automerge": true
+      "automerge": true,
+      "matchUpdateTypes": ["minor", "patch", "digest"],
     }
   ]
 }
