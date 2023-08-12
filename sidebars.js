@@ -16,6 +16,7 @@
 module.exports = {
   manualSidebar: [
     'manual/intro',
+    'manual/scope',
     'manual/systemrequirements',
     'manual/SUPPORT',
     'manual/FAQ',
