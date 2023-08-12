@@ -21,16 +21,16 @@ jobs:
         with:
           swap-size-gb: 10
           
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3
       
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@e33196f7422957bea03ed53f6fbb155025ffc7b8 # v3
         with:
           node-version: 18
           cache: yarn
           
       - name: Cache node modules
         id: cache-npm
-        uses: actions/cache@v3
+        uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3
         env:
           cache-name: cache-node-modules
         with:
@@ -47,7 +47,7 @@ jobs:
         continue-on-error: true
         run: npm list
           
-      - uses: borales/actions-yarn@v4.2.0
+      - uses: borales/actions-yarn@97ba8bebfe5b549bb7999261698a52a81fd62f1b # v4.2.0
         with:
           cmd: install --frozen-lockfile
         env:
@@ -55,7 +55,7 @@ jobs:
           DOCUSAURUS_SSR_CONCURRENCY: 3
           SKIP_HTML_MINIFICATION: false
         
-      - uses: borales/actions-yarn@v4.2.0
+      - uses: borales/actions-yarn@97ba8bebfe5b549bb7999261698a52a81fd62f1b # v4.2.0
         with:
           cmd: build
         env: 
@@ -64,7 +64,7 @@ jobs:
           SKIP_HTML_MINIFICATION: false
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
         if: github.event_name != 'pull_request'
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
