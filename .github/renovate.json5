@@ -39,25 +39,25 @@
       "packagePatterns": ["^@docusaurus"],
       "groupName": "Docusaurus",
       "automerge": true,
-      "matchUpdateTypes": ["minor", "patch", "digest"],
+      "matchUpdateTypes": ["minor", "patch", "digest"]
     },
     {
       "packagePatterns": ["^@swc"],
       "groupName": "SWC",
       "automerge": true,
-      "matchUpdateTypes": ["minor", "patch", "digest"],
+      "matchUpdateTypes": ["minor", "patch", "digest"]
     },
     {
       "packagePatterns": ["^@react"],
       "groupName": "React",
       "automerge": true,
-      "matchUpdateTypes": ["minor", "patch", "digest"],
+      "matchUpdateTypes": ["minor", "patch", "digest"]
     },
     {
       "matchManagers": ["github-actions"],
       "groupName": "Github-Actions",
       "automerge": true,
-      "matchUpdateTypes": ["minor", "patch", "digest"],
+      "matchUpdateTypes": ["minor", "patch", "digest"]
     }
   ]
 }
