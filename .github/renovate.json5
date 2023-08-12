@@ -26,6 +26,10 @@
     {
       "packagePatterns": ["^@react"],
       "groupName": "react"
+    },
+    {
+      "matchManagers": ["github-actions"]
+      "groupName": "Github-Actions"
     }
   ]
 }
