@@ -7,7 +7,7 @@
   "prConcurrentLimit": 25,
   "timezone":"Europe/Amsterdam",
   "pinDigests": true,
-  "automerge": false,
+  "automerge": true,
   "gitAuthor": "TrueCharts-Admin <bot@truecharts.org>",
   "extends": ["config:base", ":label(dependencies)"],
   "lockFileMaintenance": {
@@ -18,21 +18,25 @@
     {
       "matchPackagePatterns": ["^@docusaurus", "^^docusaurus"],
       "groupName": "Docusaurus  Major",
+      "automerge": false,
       "matchUpdateTypes": ["major"]
     },
     {
       "matchPackagePatterns": ["^@swc", "^swc"],
       "groupName": "SWC  Major",
+      "automerge": false,
       "matchUpdateTypes": ["major"]
     },
     {
       "matchPackagePatterns": ["^@react", "^react"],
       "groupName": "React Major",
+      "automerge": false,
       "matchUpdateTypes": ["major"]
     },
     {
       "matchManagers": ["github-actions"],
       "groupName": "Github-Actions Major",
+      "automerge": false,
       "matchUpdateTypes": ["major"]
     },
     {
