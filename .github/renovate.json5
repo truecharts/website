@@ -28,8 +28,9 @@
       "groupName": "react"
     },
     {
-      "matchManagers": ["github-actions"]
-      "groupName": "Github-Actions"
+      "matchManagers": ["github-actions"],
+      "groupName": "Github-Actions",
+      "automerge": true
     }
   ]
 }
