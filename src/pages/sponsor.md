@@ -1,62 +1,19 @@
-# Sponsors Us
+# Sponsor Us
 
-Opensource projects live and die with community support. To ensure TrueCharts can continue it's great effort to become the best resource for Helm Charts and TrueNAS SCALE Apps, we aim to become fully self-funding in the future.
+Opensource projects live and die with community support. To ensure TrueCharts can continue it's great effort to become the best resource for Helm Charts and TrueNAS SCALE Apps, we aim to become fully self-funding in the future. TrueCharts manages it's finances through our [Open Collective](https://opencollective.com/truecharts) page, in order to make our finances transparent and visible for all.
 
-## Project Sponsorship
+## Project Sponsorship and donations
 
-A sponsor gets a more-or-less little reward for their investment into our project. In the future we're also planning to add unique actions and rewards for existing sponsors, on-top-off the already great rewards! As well we've recently moved to [Open Collective](https://opencollective.com/truecharts) in order to make our finances and transactions more transparent.
+A sponsor gets a more-or-less little reward for their investment into our project. In the future we're also planning to add unique actions and rewards for existing sponsors, on-top-off the already great rewards! Donations are gifts that do not cover a reward and can be used by the project to cover expenses or expand our project.
 
-We currently offer multiple recurring sponsor tiers:
+### Project Sponsorship and Donations Links
 
-[TrueCharts on Open Collective](https://opencollective.com/truecharts)
-
------
-
-## Donations
-
-Donations are gifts that do not cover a reward and can be both aimed out our project or as a thank-you to one of our core-team members directly
-
-### Project Donations
-
-Project Donations can be made using one of the following channels:
+You can become a sponsor of TrueCharts or make a project donation using one of the following channels:
 
 [Open Collective](https://opencollective.com/truecharts)
 
----
+[Patreon](https://patreon.com/truecharts)
 
-## Personal Donations
+[Github Sponsors](https://github.com/sponsors/truecharts)
 
-### Founder/Maintainer: Ornias
-
-One can use the following options to donate to the project maintainer, Ornias, directly:
-
-[Github Sponsors](https://github.com/sponsors/Ornias1993)
-
-[Ko-Fi](https://ko-fi.com/ornias)
-
-[Dutch IDEAL](https://bunq.me/ornias)
-
-
-### Co-Maintainer: Stavros
-
-[Github Sponsors](https://github.com/stavros-k)
-
-[PayPal](https://www.paypal.com/donate?hosted_button_id=FAC92A294YPRS)
-
-### Other contributors (Core Team)
-
-#### Xstar97TheNoob (Maintainer of Incubator Train and Support Manager)
-
-[Paypal](https://s.xstar97thenoob.com/paypal)
-
-[Patreon](https://www.patreon.com/Xstar97TheNoob)
-
-[Venmo](https://account.venmo.com/u/xstar97thenoob)
-
-[Cash App](https://cash.app/$Xstar97TheNoob)
-
-#### Jagrbombs (Steven) (Docs Maintainer and Head Moderator)
-
-[Paypal](https://paypal.me/stevenmcelligott)
-
-Check out their specific github profiles and/or website to find if you can support more of our frequent contributors!
+If you have a choice we prefer [Open Collective](https://opencollective.com/truecharts) or [Github Sponsors](https://github.com/sponsors/truecharts) since [Patreon](https://patreon.com/truecharts) has more fees for everyone, however nothing is discouraged.
