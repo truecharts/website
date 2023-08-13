@@ -393,6 +393,8 @@ The intro needs improvement ;)
 |pgadmin                   |config                |PVC      |-              |/var/lib/pgadmin                                     |Read/Write|Enabled                |
 |photoprism                |storage               |PVC      |-              |/assets                                              |Read/Write|Enabled                |
 |photoprism                |photoprismtemp        |emptyDir |-              |/photoprism_temp                                     |Read/Write|Enabled                |
+|photoprism                |originals             |PVC      |-              |/photoprism/originals                                |Read/Write|Enabled                |
+|photoprism                |import                |PVC      |-              |/photoprism/import                                   |Read/Write|Enabled                |
 |photoshow                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |photoshow                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |photoview                 |cache                 |PVC      |-              |/cache                                               |Read/Write|Enabled                |
@@ -512,6 +514,7 @@ The intro needs improvement ;)
 |stash                     |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |static                    |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |static                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|static-web-server         |config                |PVC      |-              |/public                                              |Read/Write|Enabled                |
 |storj-node                |identity              |PVC      |-              |/app/identity                                        |Read/Write|Enabled                |
 |storj-node                |storage               |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |strapi                    |data                  |PVC      |-              |/srv/app                                             |Read/Write|Enabled                |
@@ -1064,6 +1067,9 @@ The intro needs improvement ;)
 |nosqlclient                    |appdata                    |PVC      |-                |/data/db                                        |Read/Write|Enabled                |
 |notarius                       |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |notea                          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
+|notifiarr                      |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
+|notifiarr                      |machine-id                 |hostPath |/etc/machine-id  |/etc/machine-id                                 |Read Only |Enabled                |
+|notifiarr                      |tmpdir                     |emptyDir |-                |/tmpdir                                         |Read/Write|Enabled                |
 |obs-ndi                        |configpath                 |PVC      |-                |/config/obs-studio                              |Read/Write|Enabled                |
 |observium                      |observium                  |PVC      |-                |/opt/observium/rrd                              |Read/Write|Enabled                |
 |obsidian                       |storageconfig              |PVC      |-                |/config/.config/obsidian                        |Read/Write|Enabled                |
@@ -1267,7 +1273,6 @@ The intro needs improvement ;)
 |stackedit                      |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |standardnotes-web              |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |starmade                       |serverfiles                |PVC      |-                |/starmade                                       |Read/Write|Enabled                |
-|static-web-server              |config                     |PVC      |-                |/public                                         |Read/Write|Enabled                |
 |stationeers                    |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |stationeers                    |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |statping-ng                    |data                       |PVC      |-                |/app                                            |Read/Write|Enabled                |
@@ -1275,7 +1280,7 @@ The intro needs improvement ;)
 |steam-headless                 |games                      |PVC      |-                |/mnt/games                                      |Read/Write|Enabled                |
 |steam-headless                 |flatpak                    |PVC      |-                |/var/lib/flatpak                                |Read/Write|Enabled                |
 |storm                          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
-|stun-turn-server               |containerpath              |PVC      |-                |/stun-turn                                      |Read/Write|Enabled                |
+|stun-turn-server               |config                     |PVC      |-                |/stun-turn                                      |Read/Write|Enabled                |
 |suistartpage                   |appdata                    |PVC      |-                |/usr/share/nginx/html                           |Read/Write|Enabled                |
 |survivethenights               |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |survivethenights               |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
