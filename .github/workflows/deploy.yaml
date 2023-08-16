@@ -28,11 +28,11 @@ jobs:
           node-version: 18
           cache: yarn
           
-      - name: Cache node modules
-        id: cache-npm
+      - name: Cache docusaurus cache
+        id: cache-ds
         uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3
         env:
-          cache-name: cache-dot-cache
+          cache-name: cache-ds-cache
         with:
           path: node_modules/.cache
           key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package.json') }}
@@ -41,7 +41,7 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
 
-      - if: ${{ steps.cache-npm.outputs.cache-hit != 'true' }}
+      - if: ${{ steps.cache-ds.outputs.cache-hit != 'true' }}
         name: List the state of node modules
         continue-on-error: true
         run: npm list
