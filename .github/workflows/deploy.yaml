@@ -45,11 +45,6 @@ jobs:
             ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json', '**/npm-shrinkwrap.json', '**/yarn.lock', '**/pnpm-lock.yaml)') }}-
             ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json', '**/npm-shrinkwrap.json', '**/yarn.lock', '**/pnpm-lock.yaml)') }}
             ${{ runner.os }}-docusaurus-
-
-      - if: ${{ steps.cache-ds.outputs.cache-hit != 'true' }}
-        name: List the state of node modules
-        continue-on-error: true
-        run: npm list
           
       - uses: borales/actions-yarn@97ba8bebfe5b549bb7999261698a52a81fd62f1b # v4.2.0
         with:
