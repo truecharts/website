@@ -2,6 +2,15 @@
 
 
 
+## [fireflyiii-21.0.1](https://github.com/truecharts/charts/compare/fireflyiii-21.0.0...fireflyiii-21.0.1) (2023-08-16)
+
+### Chore
+
+- update container image tccr.io/truecharts/fireflyiii-core to v6.0.20 ([#11610](https://github.com/truecharts/charts/issues/11610))
+  
+  
+
+
 
 ## [fireflyiii-21.0.0](https://github.com/truecharts/charts/compare/fireflyiii-20.0.33...fireflyiii-21.0.0) (2023-07-31)
 
