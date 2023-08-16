@@ -29,10 +29,26 @@ jobs:
           cache: yarn
           
       - name: Cache docusaurus cache
+        if: github.event_name != 'pull_request'
         id: cache-ds
         uses: actions/cache@88522ab9f39a2ea568f7027eddc7d8d8bc9d59c8 # v3
-        env:
-          cache-name: cache-ds-cache
+        with:
+          path: |
+            node_modules/.cache
+            ${{ github.workspace }}/.docusaurus
+            ${{ github.workspace }}/**/.cache
+          key: |
+            ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json', '**/npm-shrinkwrap.json', '**/yarn.lock', '**/pnpm-lock.yaml)') }}-${{ hashFiles('**.[jt]s', '**.[jt]sx') }}
+          restore-keys: |
+            ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json', '**/npm-shrinkwrap.json', '**/yarn.lock', '**/pnpm-lock.yaml)') }}-${{ hashFiles('**.[jt]s', '**.[jt]sx') }}
+            ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json', '**/npm-shrinkwrap.json', '**/yarn.lock', '**/pnpm-lock.yaml)') }}-
+            ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json', '**/npm-shrinkwrap.json', '**/yarn.lock', '**/pnpm-lock.yaml)') }}
+            ${{ runner.os }}-docusaurus-
+            
+      - uses: actions/cache/restore@v3
+        if: github.event_name == 'pull_request'
+        name: Read docusaurus cache
+        id: cache-ds-read
         with:
           path: |
             node_modules/.cache
