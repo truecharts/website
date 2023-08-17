@@ -20,11 +20,6 @@ jobs:
         uses: easimon/maximize-build-space@master
         with:
           swap-size-mb: 15360
-          remove-dotnet: 'true'
-          remove-android: 'true'
-          remove-haskell: 'true'
-          remove-codeql: 'true'
-          remove-docker-images: 'true'
           
       - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3
       
