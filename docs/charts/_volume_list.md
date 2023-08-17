@@ -935,6 +935,7 @@ The intro needs improvement ;)
 |inventree                      |inventree-nginx            |custom   |-                |/etc/nginx/conf.d                               |Read/Write|Enabled                |
 |invitarr                       |config                     |PVC      |-                |/app/app/config                                 |Read/Write|Enabled                |
 |ipmi-tools                     |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
+|it-tools                       |cache                      |emptyDir |-                |/var/cache/nginx                                |Read/Write|Enabled                |
 |jackett2telegram               |config                     |PVC      |-                |/app/config                                     |Read/Write|Enabled                |
 |jackett2telegram               |blackhole                  |PVC      |-                |/app/blackhole                                  |Read/Write|Enabled                |
 |jelu                           |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
