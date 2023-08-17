@@ -16,10 +16,10 @@ jobs:
     name: Build & Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Maximize build space
-        uses: easimon/maximize-build-space@master
+      - name: Set Swap Space
+        uses: pierotofy/set-swap-space@master
         with:
-          swap-size-mb: 15360
+          swap-size-gb: 10
           
       - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3
       
