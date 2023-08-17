@@ -16,10 +16,15 @@ jobs:
     name: Build & Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Set Swap Space
-        uses: pierotofy/set-swap-space@master
+      - name: Maximize build space
+        uses: easimon/maximize-build-space@master
         with:
-          swap-size-gb: 10
+          swap-size-mb: 15360
+          remove-dotnet: 'true'
+          remove-android: 'true'
+          remove-haskell: 'true'
+          remove-codeql: 'true'
+          remove-docker-images: 'true'
           
       - uses: actions/checkout@c85c95e3d7251135ab7dc9ce3241c5835cc595a9 # v3
       
@@ -68,7 +73,7 @@ jobs:
         env:
           NODE_OPTIONS: "--max-old-space-size=15000"
           DOCUSAURUS_SSR_CONCURRENCY: 3
-          SKIP_HTML_MINIFICATION: false
+          SKIP_HTML_MINIFICATION: true
         
       - uses: borales/actions-yarn@97ba8bebfe5b549bb7999261698a52a81fd62f1b # v4.2.0
         with:
@@ -76,7 +81,7 @@ jobs:
         env: 
           NODE_OPTIONS: "--max-old-space-size=15000"
           DOCUSAURUS_SSR_CONCURRENCY: 3
-          SKIP_HTML_MINIFICATION: false
+          SKIP_HTML_MINIFICATION: true
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1

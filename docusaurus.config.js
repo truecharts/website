@@ -85,12 +85,13 @@ const config = {
       return {
         name: 'webpack-docusaurus-plugin',
         configureWebpack(config, isServer, utils) {
-          // Disable cache in CI since it gets evicted too quickly from github actions limits
           const isCI = process.env.CI;
-          const cacheOptions = isCI ? { cache: false } : {};
-        
+		  
+          // Disable cache in CI since it gets evicted too quickly from github actions limits
+          // const cacheOptions = isCI ? { cache: false } : {};
+
           // Or compress the cache w/ gzip or brotli
-          // const cacheOptions = isCI ? { cache: { compression: 'brotli' } } : {};
+          const cacheOptions = isCI ? { cache: { compression: 'brotli' } } : {};
         
           // Replace terser with esbuild minify, but only if terser would have been used
           // This still respects the --no-minify flag
