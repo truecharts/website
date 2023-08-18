@@ -2,6 +2,11 @@
 
 
 
+## [lldap-2.0.1](https://github.com/truecharts/charts/compare/lldap-2.0.0...lldap-2.0.1) (2023-08-18)
+
+
+
+
 
 ## [lldap-2.0.0](https://github.com/truecharts/charts/compare/lldap-1.2.2...lldap-2.0.0) (2023-07-31)
 
