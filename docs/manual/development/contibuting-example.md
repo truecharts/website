@@ -1,4 +1,4 @@
-# Contribution Example
+# Contribution Guide
 
 Git, GitHub, and other tooling utilized by the TrueCharts repository can be intimating if you've never used them before. In order to encourage contributions from the community, this guide acts as a start-to-finish practical example of contributing content to TrueCharts, and incidentally a crash course in using Git.
 
