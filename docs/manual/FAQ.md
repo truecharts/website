@@ -74,7 +74,7 @@ Please only report missed updates when 7 days have passed after the new *contain
 If it's not on our website or the discord, we (sadly) do not.
 There might be other sources for documentation however!
 If you'd like to create a guide for the website,
-please submit a PR on [this](https://github.com/truecharts/website/tree/main/docs/charts) repo!
+please submit a PR as demonstrated in the [Contribution Example](https://truecharts.org/manual/development/contributing-example).
 
 ## I would like another application to be added, how do I get it?
 
