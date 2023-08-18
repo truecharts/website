@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const TerserPlugin = require('terser-webpack-plugin');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -31,7 +32,27 @@ const config = {
       },
     },
   },
+  markdown: {
+    // By default we compile all files as MDX (allow JSX), but you can opt-in for CommonMark if you want
+    // See https://github.com/facebook/docusaurus/pull/9097
+	// TODO: uncomment on next release
+    // format: 'detect', 
 
+    mdx1Compat: {
+      // Allow html comments in MDX files like blog `<!-- truncate -->` markers
+      comments: true,
+      // Allow former admonition title syntax :::note Title instead of new syntax :::note[Title]
+      admonitions: true,
+      // Allow usage of unescaped {#headingId} syntax instead of \{#headingId}
+      headingIds: true
+    },
+
+    // Gives you opportunity to apply your own string processing before the MDX compilation
+    // Usage is NOT recommended, use this as a last resort escape hatch or temporarily)
+    // preprocessor: ({ filePath, fileContent }) => {
+    //   return fileContent;
+    // }
+  },
   presets: [
     [
       "classic",
@@ -59,6 +80,38 @@ const config = {
   plugins: [
     require.resolve("docusaurus-plugin-image-zoom"),
     require.resolve("docusaurus-plugin-google-adsense"),
+    async function WebpackDocusaurusPlugin(context, options) {
+      // ...
+      return {
+        name: 'webpack-docusaurus-plugin',
+        configureWebpack(config, isServer, utils) {
+          const isCI = process.env.CI;
+		  
+          // Disable cache in CI since it gets evicted too quickly from github actions limits
+          // const cacheOptions = isCI ? { cache: false } : {};
+
+          // Or compress the cache w/ gzip or brotli
+          const cacheOptions = isCI ? { cache: { compression: 'brotli' } } : {};
+        
+          // Replace terser with esbuild minify, but only if terser would have been used
+          // This still respects the --no-minify flag
+          const minimizer = new TerserPlugin({
+            minify: TerserPlugin.esbuildMinify,
+          });
+          const minimizers = config.optimization.minimizer?.map((m) =>
+            m instanceof TerserPlugin ? minimizer : m
+          );
+        
+          return {
+            mergeStrategy: { 'optimization.minimizer': 'replace' },
+            optimization: {
+              minimizer: minimizers,
+            },
+            ...cacheOptions
+          };
+        },
+      };
+    },
     [
       "@docusaurus/plugin-ideal-image",
       {
@@ -219,6 +272,7 @@ const config = {
       },
     }),
   },
+  
 };
 
 module.exports = config;
