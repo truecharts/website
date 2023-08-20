@@ -469,6 +469,7 @@ The intro needs improvement ;)
 |rsshub                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |sabnzbd                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |satisfactory              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|satisfactory              |tmp-dumps             |emptyDir |-              |/tmp/dumps                                           |Read/Write|Enabled                |
 |scrutiny                  |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |scrutiny                  |config                |PVC      |-              |/opt/scrutiny/config                                 |Read/Write|Enabled                |
 |scrutiny                  |influxdb              |PVC      |-              |/opt/scrutiny/influxdb                               |Read/Write|Enabled                |
