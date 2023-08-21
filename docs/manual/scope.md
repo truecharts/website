@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 # Project Scope
 
-Truecharts a comprehensive project that focuses on providing Helm charts for applications to run on Kubernetes-based platforms. This documentation article aims to describe the project's scope, highlighting its key principles and areas of focus.
+Truecharts is a comprehensive project that focuses on providing Helm charts for applications to run on Kubernetes-based platforms. This documentation article aims to describe the project's scope, highlighting its key principles and areas of focus.
 
 ## Overview
 

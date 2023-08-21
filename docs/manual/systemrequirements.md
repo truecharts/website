@@ -19,7 +19,7 @@ Experiences in terms of performance and which Apps work may vary.
 
 **Storage:** 250GB HDD Apps Pool with SSD metadata/8K-smallblocks special VDEV or 250GB SSD Apps Pool
 
-<u><b>To be 100% clear: HDD apps pool without small-blocks/metadata, is not supported.</b></u>
+<u><b>To be 100% clear: HDD apps pool without small-blocks/metadata are NOT supported.</b></u>
 
 ## Recommended System Specifications
 
