@@ -47,7 +47,7 @@ Some examples are:
 
 Technically, yes you can. But keep in mind this is out of our support scope.
 
-## Do we support other proxies and LoadBalancers in front of Traefik?
+## Do we support other proxies and Load Balancers in front of Traefik?
 
 Not supported for standard support channels. This includes cloudflare proxy.
 
@@ -59,7 +59,7 @@ These options are intended for experienced individuals and are beyond the scope 
 
 "When using host networking, a port is linked to the pod. Sadly enough, those ports are NOT correctly freed when hostNetworking is disabled in the future", see [discussion](https://github.com/k3s-io/k3s/discussions/7382).
 
-## My Chart is asking for a default Password, what is it?
+## My Chart is asking for a default password, what is it?
 
 We use upstream containers. If the password is not on our website,
 please refer to the upstream container sources we list on the website instead.
@@ -71,21 +71,20 @@ Please only report missed updates when 7 days have passed after the new *contain
 
 ## Isn't there more documentation for a chart?
 
-If it's not on our website or the discord, we (sadly) do not.
+If it's not on our website or the discord, we (sadly) do not have documentation available.
 There might be other sources for documentation however!
 If you'd like to create a guide for the website,
-please submit a PR as demonstrated in the [Contribution Example](https://truecharts.org/manual/development/contributing-example).
+please submit a PR as demonstrated in the [Contribution Example](https://truecharts.org/manual/development/contibuting-example/).
 
-## I would like another application to be added, how do I get it?
+## I would like another application to be added, how do I do this?
 
-First, please verify that an issue on [GitHub](https://github.com/truecharts/charts)
-for this same application hasn't already been created.
-If there's no request for the application, please create a
-[new issue](https://github.com/truecharts/charts/issues/new?assignees=&labels=New-App&template=app_request.yaml&title=%5BAdd%5D%3A+).
-Keep in mind, that a request for an app is not guaranteed to be added. The requests are only
-tracked so developers know what people would like to see added. It does not guarantee that the
-request will be completed. Upvote requests that you'd like to see completed with github reactions!
-Commenting `+1` just pings everyone following this request without an actual update.
+There are two ways to do this:
+
+1. Submit an order for a chart request using the page on [Open Collective](https://opencollective.com/truecharts/contribute/order-a-chart-60271). More information can be found in the **#chart-requests** channel of our [discord](https://discord.gg/tVsPTHWTtr) or by emailing orders@truecharts.org if you'd like to discuss further.
+
+2. Build the app yourself (or have someone you know build it for you) and request to have it added to the project via a github PR. You can check the **#development** channel of our [discord](https://discord.gg/tVsPTHWTtr) and create a thread if you'd like information about this.
+
+The exception to the above are more complex Kubernetes ecosystem changes e.g. Kubernetes extensions, new metrics opens, databases, etc. You're still free to discuss these in the **#development** channel of our discord linked above.
 
 ## How do I know if there are Breaking Changes?
 
@@ -93,7 +92,7 @@ TrueCharts uses Semantic Versioning on the aspects of the chart that TrueCharts 
 Some upstream **containers** use `latest` tags or poor versioning schemes so updates aren't always
  clear if they contain breaking changes. Be sure to check the **changelog** for each chart before updating.
 
-## How do I tell that this update is a Major and potentially breaking change?
+## How do I tell that this update is a major and potentially breaking change?
 
 You should always check **BOTH** `chart` version **AND** `container` version.
 As both could have breaking changes on major updates independently.

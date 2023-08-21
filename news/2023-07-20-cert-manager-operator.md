@@ -17,4 +17,4 @@ If you have not already done so add the operator train to TrueCharts [as outline
 
 - If you are already on the latest version perform an empty edit of clusterissuer (Edit app and save without making any changes).
 
-*If you run into any more issues, please file a ticket with our dedicated support staff on Discord like normal**
+*If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](https://discord.gg/tVsPTHWTtr) as normal.*
