@@ -7,14 +7,14 @@ sidebar_position: 3
 ## TrueCharts on TrueNAS SCALE
 
 TrueCharts aims to always support the latest version of TrueNAS SCALE.
-However, sometimes new versions of either TrueNAS or TrueCharts introduces breaking changes.
+However, sometimes new versions of either TrueNAS or TrueCharts introduce breaking changes.
 This document highlights which versions of TrueCharts (or rather branches), support which versions of TrueNAS SCALE.
 
 We also document which versions of TrueNAS will receive TrueCharts updates and for which versions we are accepting bug reports.
 
 ### Supported Versions
 
-| TrueNAS version  | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes                                                                                                          |
+| TrueNAS Version  | Branch   | Supported With Updates | Accepting Support Tickets | Accepting Bug Reports | Notes                                                                                                          |
 | ---------------- | -------- | ---------------------- | ------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
 | 22.02.4 or prior | `master` | :x:                    | :x:                       | :x:                   | Advised to update to 22.12.2 release of [TrueNAS SCALE](https://www.truenas.com/docs/scale/scalereleasenotes/) |
 | 22.12.0          | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2022-12-13                                                                                |
@@ -28,15 +28,15 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 :::warning Support Guidelines
 
-Our [Discord](https://discord.gg/tVsPTHWTtr) support (the ticketing system inside #support) is primarily limited to what is covered by our written guides. This includes installing, linking and editing apps. This doesn't mean the actual setup of the application. All #support tickets covered by the staff are done so in a **best effort** policy.
+Our [Discord](https://discord.gg/tVsPTHWTtr) support (the ticketing system inside #support) is primarily limited to what is covered by our written guides. This includes installing, linking and editing apps. This doesn't mean the actual setup of the application. All #support tickets covered by the staff are done so on a **best effort** policy.
 
 :::
 
 ## Stable Train Charts
 
 We provide direct support for getting `stable` train charts working on our [discord](https://discord.gg/tVsPTHWTtr) inside the **#support** channel.
-That includes installation and guidance on getting it working with defaults or basic settings (not advanced customisations or remote smb shares, etc).
-Bug reports aren't accepted on [discord](https://discord.gg/tVsPTHWTtr) so if you spot a bug (Charts in the stable train should work with mostly defaults configuration)
+That includes installation and guidance on getting it working with defaults or basic settings (not advanced customisations or remote SMB shares, etc).
+Bug reports aren't accepted on [discord](https://discord.gg/tVsPTHWTtr) so if you spot a bug (Charts in the stable train should work with mostly default configurations)
 please report them to our [github](https://github.com/truecharts/charts/issues/new/choose). Bug reports that state something doesn't work without supporting items may be closed.
 
 ## Incubator Train Charts

@@ -4,11 +4,11 @@ title: "Deprecating Old Operators"
 authors: [kqmaverick]
 ---
 
-As part of limiting our promise not to introduce breaking changes to the charts within our Enterprise train, we've ensured both the new and old way of dealing with "operators" where both supported.
+As part of limiting our promise not to introduce breaking changes to the charts within our Enterprise train, we've ensured both the new and old way of dealing with "operators" were both supported.
 
-Starting August 1, 2023, we will completely drop support for the old (pre-juli installs only, internal not user controlled) way of handling operators.
+Starting August 1, 2023, we will completely drop support for the old (pre-July installs only, internal not user controlled) way of handling operators.
 
-After August 1, 2023, additional checks for operators will be enabled, preventing users from making the mistake of installing charts without the right operator from the operator train present. This means that charts would prevent themselves from being updated when you're still using the old operators at that time.
+After August 1, 2023, additional checks for operators will be enabled, preventing users from making the mistake of installing charts without the right operator from the operator train present. This means that charts will prevent themselves from being updated when you're still using the old operators at that time.
 
 If you have already installed the metallb, prometheus-operator, and cloudnative-pg operators then no further action is required.
 
@@ -33,9 +33,9 @@ The Prometheus operator is required for the use of app metrics. Its installation
 
 ## CNPG
 
-The cloudnative-pg operator is required for any applications that utilize postgres. Its installation is recommended. 
+The cloudnative-pg operator is required for any applications that utilize postgres. Its installation is recommended.
 
 1. Follow the [CNPG Operator Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) to migrate to the new CNPG operator. Ensure you follow the guide carefully as data loss can occur with this migration if proper steps are not followed.
 
-*If you run into any more issues, please file a ticket with our dedicated support staff on Discord like normal**
+*If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](https://discord.gg/tVsPTHWTtr) as normal.*
 

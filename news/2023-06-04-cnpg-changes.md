@@ -23,4 +23,4 @@ It's absolutely crucial to export your databases manually beforehand.
 - wait a few minutes
 - Restore all your databases manually, on SCALE using the following guide: https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide (do **not** rely on heavyscript backups for this!)
 
-*If you run into any more issues, please file a ticket with our dedicated support staff on Discord like normal**
+*If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](https://discord.gg/tVsPTHWTtr) as normal.*

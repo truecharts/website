@@ -53,4 +53,4 @@ To update a current install using MetalLB to the new system, the following proce
 - Hit `edit` on `metallb-config` and save without changes if you where already on the latest version or it isn't working yet
 - wait a few minutes
 
-*If you run into any more issues, please file a ticket with our dedicated support staff on Discord like normal**
+*If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](https://discord.gg/tVsPTHWTtr) as normal.*
