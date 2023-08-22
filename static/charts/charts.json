@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 358,
+            "count": 360,
             "charts": [
                 {
                     "name": "actualserver",
@@ -249,7 +249,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/beets",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/beets.png",
-                    "version": "8.0.3"
+                    "version": "8.0.4"
                 },
                 {
                     "name": "blog",
@@ -833,7 +833,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/foldingathome",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/foldingathome.png",
-                    "version": "6.0.2"
+                    "version": "6.0.3"
                 },
                 {
                     "name": "fossil",
@@ -1377,7 +1377,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mealie",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mealie.png",
-                    "version": "17.0.10"
+                    "version": "17.0.16"
                 },
                 {
                     "name": "mediainfo",
@@ -1490,6 +1490,14 @@
                     "link": "https://truecharts.org/charts/stable/mkvtoolnix",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mkvtoolnix.png",
                     "version": "6.0.0"
+                },
+                {
+                    "name": "modsecurity-crs",
+                    "description": "ModSecurity is an open source, cross platform Web Application Firewall (WAF) engine.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/incubator/modsecurity-crs",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/modsecurity-crs.png",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "mongo-express",
@@ -1977,7 +1985,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/projectsend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.png",
-                    "version": "8.0.2"
+                    "version": "8.0.3"
                 },
                 {
                     "name": "promcord",
@@ -2017,7 +2025,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pwndrop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pwndrop.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "pyload",
@@ -2073,7 +2081,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/quassel-core",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/quassel-core.png",
-                    "version": "8.0.2"
+                    "version": "8.0.3"
                 },
                 {
                     "name": "quassel-web",
@@ -2105,7 +2113,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.35"
+                    "version": "5.0.42"
                 },
                 {
                     "name": "readarr",
@@ -2209,7 +2217,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.56"
+                    "version": "8.0.58"
                 },
                 {
                     "name": "sabnzbd",
@@ -2476,6 +2484,14 @@
                     "version": "6.0.0"
                 },
                 {
+                    "name": "tagspaces",
+                    "description": "TagSpaces is an offline, open source, document manager with tagging support.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/tagspaces",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tagspaces.png",
+                    "version": "0.0.2"
+                },
+                {
                     "name": "tailscale",
                     "description": "Tailscale lets you connect your devices and users together in your own secure virtual private network",
                     "train": "stable",
@@ -2737,7 +2753,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.47"
+                    "version": "6.0.52"
                 },
                 {
                     "name": "wekan",
@@ -2981,7 +2997,7 @@
         },
         {
             "name": "incubator",
-            "count": 452,
+            "count": 450,
             "charts": [
                 {
                     "name": "acestream",
@@ -4872,14 +4888,6 @@
                     "version": "2.0.11"
                 },
                 {
-                    "name": "modsecurity-crs",
-                    "description": "ModSecurity is an open source, cross platform Web Application Firewall (WAF) engine.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/modsecurity-crs",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/modsecurity-crs.png",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "mojopaste",
                     "description": "Mojopaste is a pastebin application. There's about one million of these out there, but if you have the need to run something internally at work or you just fancy having your own pastebin, this is your application.",
                     "train": "incubator",
@@ -5053,7 +5061,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/obs-ndi",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/obs-ndi.png",
-                    "version": "2.0.15"
+                    "version": "3.0.0"
                 },
                 {
                     "name": "observium",
@@ -6086,14 +6094,6 @@
                     "link": "https://truecharts.org/charts/incubator/tachidesk-docker",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tachidesk-docker.png",
                     "version": "2.0.12"
-                },
-                {
-                    "name": "tagspaces",
-                    "description": "TagSpaces is an offline, open source, document manager with tagging support.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/tagspaces",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tagspaces.png",
-                    "version": "0.0.1"
                 },
                 {
                     "name": "tanoshi",
