@@ -6,7 +6,7 @@ ModSecurity is an open source, cross platform Web Application Firewall (WAF) eng
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
+- [****](CHANGELOG)
 
 - [**Helm Security**](container-security)
 
