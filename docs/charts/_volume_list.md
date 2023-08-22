@@ -524,6 +524,7 @@ The intro needs improvement ;)
 |synctube                  |storageconfig         |PVC      |-              |/usr/src/app/user                                    |Read/Write|Enabled                |
 |syslog-ng                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |syslog-ng                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|tagspaces                 |nginx                 |emptyDir |-              |/var/cache/nginx                                     |Read/Write|Enabled                |
 |tailscale                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |tailscale                 |tun                   |hostPath |/dev/net/tun   |/dev/net/tun                                         |Read/Write|Enabled                |
 |tautulli                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -1293,7 +1294,6 @@ The intro needs improvement ;)
 |tachidesk-docker               |appdata                    |PVC      |-                |/home/suwayomi/.local/share/Tachidesk           |Read/Write|Enabled                |
 |tachidesk-docker               |library                    |PVC      |-                |/home/suwayomi/.local/share/Tachidesk/downloads |Read/Write|Enabled                |
 |tachidesk-docker               |local-library              |PVC      |-                |/home/suwayomi/.local/share/Tachidesk/local     |Read/Write|Enabled                |
-|tagspaces                      |nginx                      |emptyDir |-                |/var/cache/nginx                                |Read/Write|Enabled                |
 |tanoshi                        |directoryconfig            |PVC      |-                |/tanoshi                                        |Read/Write|Enabled                |
 |tar1090                        |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |tasmoadmin                     |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
