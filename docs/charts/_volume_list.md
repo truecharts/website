@@ -305,6 +305,9 @@ The intro needs improvement ;)
 |mkvcleaver                |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
 |mkvtoolnix                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |mkvtoolnix                |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
+|modsecurity-crs           |data                  |emptyDir |-              |/modsecurity/data                                    |Read/Write|Enabled                |
+|modsecurity-crs           |temp                  |emptyDir |-              |/modsecurity/temp                                    |Read/Write|Enabled                |
+|modsecurity-crs           |upload                |emptyDir |-              |/modsecurity/upload                                  |Read/Write|Enabled                |
 |mongo-express             |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |monica                    |config                |PVC      |-              |/var/www/html/storage                                |Read/Write|Enabled                |
 |mosdns                    |data                  |PVC      |-              |/etc/mosdns                                          |Read/Write|Enabled                |
@@ -1023,6 +1026,7 @@ The intro needs improvement ;)
 |megasync                       |hostpath                   |PVC      |-                |/mnt/host                                       |Read Only |Enabled                |
 |memories-of-mars               |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |memories-of-mars               |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
+|metabase                       |plugins                    |PVC      |-                |/plugins                                        |Read/Write|Enabled                |
 |metatube                       |storagedatabase            |PVC      |-                |/database                                       |Read/Write|Enabled                |
 |metatube                       |storagedownloads           |PVC      |-                |/downloads                                      |Read/Write|Enabled                |
 |microbin                       |data                       |PVC      |-                |/app/pasta_data                                 |Read/Write|Enabled                |
@@ -1036,9 +1040,6 @@ The intro needs improvement ;)
 |ml-workspace                   |workspace                  |PVC      |-                |/workspace                                      |Read/Write|Enabled                |
 |ml-workspace                   |shm                        |emptyDir |-                |/dev/shm                                        |Read/Write|Enabled                |
 |mocodo-mcd                     |path                       |PVC      |-                |/root/mocodo                                    |Read/Write|Enabled                |
-|modsecurity-crs                |data                       |emptyDir |-                |/modsecurity/data                               |Read/Write|Enabled                |
-|modsecurity-crs                |temp                       |emptyDir |-                |/modsecurity/temp                               |Read/Write|Enabled                |
-|modsecurity-crs                |upload                     |emptyDir |-                |/modsecurity/upload                             |Read/Write|Enabled                |
 |mojopaste                      |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |monero-node                    |blockchainstorage          |PVC      |-                |/home/monero/.bitmonero                         |Read/Write|Enabled                |
 |monero-node                    |containerdir1              |PVC      |-                |/usr/local                                      |Read/Write|Enabled                |
@@ -1214,6 +1215,9 @@ The intro needs improvement ;)
 |rstudio                        |workspace                  |PVC      |-                |/home/rstudio/workspace                         |Read/Write|Enabled                |
 |rtmpserver                     |dash                       |PVC      |-                |/mnt/dash                                       |Read/Write|Enabled                |
 |rtmpserver                     |hls                        |PVC      |-                |/mnt/hls                                        |Read/Write|Enabled                |
+|rtorrent-rutorrent             |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
+|rtorrent-rutorrent             |downloads                  |PVC      |-                |/downloads                                      |Read/Write|Enabled                |
+|rtorrent-rutorrent             |passwd                     |PVC      |-                |/passwd                                         |Read/Write|Enabled                |
 |rust                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |rust                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |rustpad                        |storagedatabase            |PVC      |-                |/persist                                        |Read/Write|Enabled                |
