@@ -1,5 +1,5 @@
 {
-    "totalCount": 830,
+    "totalCount": 832,
     "trains": [
         {
             "name": "operators",
@@ -265,7 +265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/boinc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/boinc.png",
-                    "version": "6.0.3"
+                    "version": "6.0.4"
                 },
                 {
                     "name": "booksonic-air",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cyberchef",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cyberchef.png",
-                    "version": "6.0.17"
+                    "version": "6.0.18"
                 },
                 {
                     "name": "czkawka",
@@ -601,7 +601,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dokuwiki",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dokuwiki.png",
-                    "version": "7.0.7"
+                    "version": "7.0.8"
                 },
                 {
                     "name": "domoticz",
@@ -1377,7 +1377,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mealie",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mealie.png",
-                    "version": "17.0.16"
+                    "version": "17.0.18"
                 },
                 {
                     "name": "mediainfo",
@@ -1495,7 +1495,7 @@
                     "name": "modsecurity-crs",
                     "description": "ModSecurity is an open source, cross platform Web Application Firewall (WAF) engine.",
                     "train": "stable",
-                    "link": "https://truecharts.org/charts/incubator/modsecurity-crs",
+                    "link": "https://truecharts.org/charts/stable/modsecurity-crs",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/modsecurity-crs.png",
                     "version": "0.0.1"
                 },
@@ -1537,7 +1537,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mstream",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mstream.png",
-                    "version": "7.0.3"
+                    "version": "7.0.4"
                 },
                 {
                     "name": "muse",
@@ -2041,7 +2041,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pylon",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pylon.png",
-                    "version": "6.0.3"
+                    "version": "6.0.4"
                 },
                 {
                     "name": "qbitmanage",
@@ -2217,7 +2217,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.58"
+                    "version": "8.0.64"
                 },
                 {
                     "name": "sabnzbd",
@@ -2497,7 +2497,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tailscale",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tailscale.png",
-                    "version": "5.0.1"
+                    "version": "5.0.3"
                 },
                 {
                     "name": "tautulli",
@@ -2633,7 +2633,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ubooquity",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ubooquity.png",
-                    "version": "7.0.3"
+                    "version": "7.0.4"
                 },
                 {
                     "name": "unifi",
@@ -2753,7 +2753,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.52"
+                    "version": "6.0.60"
                 },
                 {
                     "name": "wekan",
@@ -2959,7 +2959,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "9.0.7"
+                    "version": "9.0.8"
                 },
                 {
                     "name": "metallb-config",
@@ -2997,7 +2997,7 @@
         },
         {
             "name": "incubator",
-            "count": 450,
+            "count": 452,
             "charts": [
                 {
                     "name": "acestream",
@@ -4808,6 +4808,14 @@
                     "version": "2.0.9"
                 },
                 {
+                    "name": "metabase",
+                    "description": "Business intelligence, dashboards, and data visualization tools",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/metabase",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metabase.png",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "metatube",
                     "description": "MetaTube downloads video from YouTube and can add metadata from a specified metadata provider on the downloaded file.",
                     "train": "incubator",
@@ -5720,6 +5728,14 @@
                     "version": "4.0.0"
                 },
                 {
+                    "name": "rtorrent-rutorrent",
+                    "description": "rTorrent and ruTorrent chart.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/rtorrent-rutorrent",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rtorrent-rutorrent.png",
+                    "version": "0.0.3"
+                },
+                {
                     "name": "rust",
                     "description": "This Chart will download and install SteamCMD. It will also install RUST and run it.",
                     "train": "incubator",
@@ -6627,7 +6643,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "9.0.8"
+                    "version": "9.0.9"
                 },
                 {
                     "name": "memcached",
@@ -6635,7 +6651,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "8.0.9"
+                    "version": "8.0.10"
                 },
                 {
                     "name": "mongodb",
