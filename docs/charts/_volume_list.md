@@ -943,6 +943,7 @@ The intro needs improvement ;)
 |it-tools                       |cache                      |emptyDir |-                |/var/cache/nginx                                |Read/Write|Enabled                |
 |jackett2telegram               |config                     |PVC      |-                |/app/config                                     |Read/Write|Enabled                |
 |jackett2telegram               |blackhole                  |PVC      |-                |/app/blackhole                                  |Read/Write|Enabled                |
+|jellystat                      |backup                     |PVC      |-                |/app/backend/backup-data                        |Read/Write|Enabled                |
 |jelu                           |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |jelu                           |databasepath               |PVC      |-                |/database                                       |Read/Write|Enabled                |
 |jelu                           |imagespath                 |PVC      |-                |/files/images                                   |Read/Write|Enabled                |
