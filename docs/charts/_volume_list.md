@@ -1081,6 +1081,7 @@ The intro needs improvement ;)
 |obsidian                       |storagevaults              |PVC      |-                |/vaults                                         |Read/Write|Enabled                |
 |odoo                           |odoo                       |PVC      |-                |/var/lib/odoo                                   |Read/Write|Enabled                |
 |odoo                           |addons                     |PVC      |-                |/mnt/extra-addons                               |Read/Write|Enabled                |
+|odoo                           |odoo-config                |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
 |onlinecheckyourserver          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |openaudible                    |config                     |PVC      |-                |/config/OpenAudible                             |Read/Write|Enabled                |
 |openbooks                      |books                      |PVC      |-                |/books/books                                    |Read/Write|Enabled                |
