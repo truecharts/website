@@ -2,6 +2,15 @@
 
 
 
+## [jupyter-5.0.9](https://github.com/truecharts/charts/compare/jupyter-5.0.8...jupyter-5.0.9) (2023-08-26)
+
+### Chore
+
+- update jupyter ([#11878](https://github.com/truecharts/charts/issues/11878))
+  
+  
+
+
 ## [jupyter-5.0.8](https://github.com/truecharts/charts/compare/jupyter-5.0.7...jupyter-5.0.8) (2023-08-18)
 
 ### Chore
