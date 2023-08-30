@@ -1,5 +1,5 @@
 {
-    "totalCount": 833,
+    "totalCount": 834,
     "trains": [
         {
             "name": "operators",
@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 360,
+            "count": 375,
             "charts": [
                 {
                     "name": "actualserver",
@@ -185,7 +185,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/authentik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png",
-                    "version": "15.0.0"
+                    "version": "15.0.2"
                 },
                 {
                     "name": "autobrr",
@@ -265,7 +265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/boinc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/boinc.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "booksonic-air",
@@ -313,7 +313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.0.6"
+                    "version": "11.0.7"
                 },
                 {
                     "name": "channels-dvr",
@@ -474,6 +474,14 @@
                     "link": "https://truecharts.org/charts/stable/dashdot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dashdot.png",
                     "version": "5.0.1"
+                },
+                {
+                    "name": "dashy",
+                    "description": "Dashy helps you organize your self-hosted services by making them accessible from a single place",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/dashy",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dashy.png",
+                    "version": "3.0.15"
                 },
                 {
                     "name": "davos",
@@ -881,7 +889,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/gamevault-backend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/gamevault-backend.png",
-                    "version": "1.1.1"
+                    "version": "1.1.2"
                 },
                 {
                     "name": "gaps",
@@ -890,6 +898,14 @@
                     "link": "https://truecharts.org/charts/stable/gaps",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/gaps.png",
                     "version": "15.0.0"
+                },
+                {
+                    "name": "ghostfolio",
+                    "description": "Ghostfolio is a privacy-first, open source dashboard for your personal finances. Break down your asset allocation, know your net worth and make solid, data-driven investment decisions.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/ghostfolio",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.png",
+                    "version": "0.0.8"
                 },
                 {
                     "name": "gitea",
@@ -1073,7 +1089,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/immich",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/immich.png",
-                    "version": "8.0.4"
+                    "version": "8.0.5"
                 },
                 {
                     "name": "impostor-server",
@@ -1100,12 +1116,28 @@
                     "version": "7.0.3"
                 },
                 {
+                    "name": "ipmi-tools",
+                    "description": "A simple WebGUI Fan controller for IPMI.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/ipmi-tools",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ipmi-tools.png",
+                    "version": "3.0.2"
+                },
+                {
                     "name": "ispy-agent-dvr",
                     "description": "iSpy's Agent DVR, a standalone DVR service to manage IP cameras.",
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ispy-agent-dvr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ispy-agent-dvr.png",
                     "version": "6.0.4"
+                },
+                {
+                    "name": "it-tools",
+                    "description": "Useful tools for developer and people working in IT.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/it-tools",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/it-tools.png",
+                    "version": "1.0.1"
                 },
                 {
                     "name": "iyuuplus",
@@ -1146,6 +1178,14 @@
                     "link": "https://truecharts.org/charts/stable/jellyseerr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyseerr.png",
                     "version": "6.0.1"
+                },
+                {
+                    "name": "jellystat",
+                    "description": "A free and open source Statistics App for Jellyfin.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/jellystat",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellystat.png",
+                    "version": "0.0.2"
                 },
                 {
                     "name": "joplin-server",
@@ -1265,7 +1305,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lazylibrarian",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.png",
-                    "version": "15.0.6"
+                    "version": "15.0.7"
                 },
                 {
                     "name": "leaf2mqtt",
@@ -1321,7 +1361,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "10.0.12"
+                    "version": "10.0.13"
                 },
                 {
                     "name": "lldap",
@@ -1410,6 +1450,14 @@
                     "link": "https://truecharts.org/charts/stable/meshroom",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/meshroom.png",
                     "version": "6.0.0"
+                },
+                {
+                    "name": "metabase",
+                    "description": "Business intelligence, dashboards, and data visualization tools",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/metabase",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metabase.png",
+                    "version": "0.0.2"
                 },
                 {
                     "name": "metube",
@@ -1537,7 +1585,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mstream",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mstream.png",
-                    "version": "7.0.4"
+                    "version": "7.0.5"
                 },
                 {
                     "name": "muse",
@@ -1706,6 +1754,14 @@
                     "link": "https://truecharts.org/charts/stable/nzbhydra",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nzbhydra.png",
                     "version": "15.0.0"
+                },
+                {
+                    "name": "obs-ndi",
+                    "description": "Docker Open Broadcaster Software (obs).",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/obs-ndi",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/obs-ndi.png",
+                    "version": "3.0.3"
                 },
                 {
                     "name": "octoprint",
@@ -1940,6 +1996,22 @@
                     "version": "14.0.0"
                 },
                 {
+                    "name": "plexanisync",
+                    "description": "Plex to AniList Sync.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/plexanisync",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/plexanisync.png",
+                    "version": "3.0.4"
+                },
+                {
+                    "name": "plexripper",
+                    "description": "A multi-platform media downloader that indexes and downloads content from your accessible Plex servers.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/plexripper",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/plexripper.png",
+                    "version": "4.0.6"
+                },
+                {
                     "name": "podgrab",
                     "description": "A self-hosted podcast manager to download episodes as soon as they become live.",
                     "train": "stable",
@@ -1996,6 +2068,14 @@
                     "version": "8.0.0"
                 },
                 {
+                    "name": "protonmail-bridge",
+                    "description": "ProtonMail IMAP/SMTP Bridge to work on the network.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/protonmail-bridge",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/protonmail-bridge.png",
+                    "version": "11.0.1"
+                },
+                {
                     "name": "prowlarr",
                     "description": "Indexer manager/proxy built on the popular arr net base stack to integrate with your various PVR apps.",
                     "train": "stable",
@@ -2041,7 +2121,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pylon",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pylon.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "qbitmanage",
@@ -2113,7 +2193,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.54"
+                    "version": "5.0.55"
                 },
                 {
                     "name": "readarr",
@@ -2130,6 +2210,14 @@
                     "link": "https://truecharts.org/charts/stable/recyclarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/recyclarr.png",
                     "version": "6.0.2"
+                },
+                {
+                    "name": "redisinsight",
+                    "description": "GUI for Redis.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/redisinsight",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redisinsight.png",
+                    "version": "3.0.5"
                 },
                 {
                     "name": "redmine",
@@ -2180,12 +2268,20 @@
                     "version": "5.0.0"
                 },
                 {
+                    "name": "rickroll",
+                    "description": "Self-hosted Rick Roll chart.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/rickroll",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rickroll.png",
+                    "version": "3.0.10"
+                },
+                {
                     "name": "ring-mqtt",
                     "description": "Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.",
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ring-mqtt",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ring-mqtt.png",
-                    "version": "5.0.0"
+                    "version": "5.1.0"
                 },
                 {
                     "name": "romm",
@@ -2193,7 +2289,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/romm",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/romm.png",
-                    "version": "2.0.2"
+                    "version": "2.0.3"
                 },
                 {
                     "name": "rsnapshot",
@@ -2217,7 +2313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.81"
+                    "version": "8.0.85"
                 },
                 {
                     "name": "sabnzbd",
@@ -2276,12 +2372,28 @@
                     "version": "10.0.0"
                 },
                 {
+                    "name": "servas",
+                    "description": "A self-hosted bookmark management tool.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/servas",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/servas.png",
+                    "version": "0.0.13"
+                },
+                {
                     "name": "sftpgo",
                     "description": "Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FTPS and WebDAV support. Several storage backends are supported: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, SFTP.",
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/sftpgo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/sftpgo.png",
                     "version": "3.0.6"
+                },
+                {
+                    "name": "shiori",
+                    "description": "A simple bookmark manager built with Go.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/shiori",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/shiori.png",
+                    "version": "13.0.1"
                 },
                 {
                     "name": "shlink-web-client",
@@ -2338,6 +2450,14 @@
                     "link": "https://truecharts.org/charts/stable/simply-shorten",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/simply-shorten.png",
                     "version": "5.0.0"
+                },
+                {
+                    "name": "slash",
+                    "description": "A bookmarking and link shortening service that enables easy saving and sharing of links.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/slash",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/slash.png",
+                    "version": "0.0.3"
                 },
                 {
                     "name": "smokeping",
@@ -2753,7 +2873,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.61"
+                    "version": "6.0.73"
                 },
                 {
                     "name": "wekan",
@@ -2825,7 +2945,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "3.0.14"
+                    "version": "3.0.15"
                 },
                 {
                     "name": "wyoming-piper",
@@ -2959,7 +3079,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "9.0.8"
+                    "version": "9.0.10"
                 },
                 {
                     "name": "metallb-config",
@@ -2997,7 +3117,7 @@
         },
         {
             "name": "incubator",
-            "count": 453,
+            "count": 439,
             "charts": [
                 {
                     "name": "acestream",
@@ -3608,14 +3728,6 @@
                     "version": "2.0.9"
                 },
                 {
-                    "name": "dashy",
-                    "description": "Dashy helps you organize your self-hosted services by making them accessible from a single place",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/dashy",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dashy.png",
-                    "version": "3.0.14"
-                },
-                {
                     "name": "dayofdefeatsource",
                     "description": "This Chart will download and install SteamCMD. It will also install Day of Defeat: Source and run it.",
                     "train": "incubator",
@@ -4120,14 +4232,6 @@
                     "version": "6.0.59"
                 },
                 {
-                    "name": "ghostfolio",
-                    "description": "Ghostfolio is a privacy-first, open source dashboard for your personal finances. Break down your asset allocation, know your net worth and make solid, data-driven investment decisions.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/ghostfolio",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.png",
-                    "version": "0.0.7"
-                },
-                {
                     "name": "github-backup",
                     "description": "Like to maintain your own data? Automatically backup your github account to your Unraid server on a schedule.",
                     "train": "incubator",
@@ -4440,36 +4544,12 @@
                     "version": "2.0.9"
                 },
                 {
-                    "name": "ipmi-tools",
-                    "description": "A simple WebGUI Fan controller for IPMI.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/ipmi-tools",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ipmi-tools.png",
-                    "version": "3.0.1"
-                },
-                {
-                    "name": "it-tools",
-                    "description": "Useful tools for developer and people working in IT.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/it-tools",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/it-tools.png",
-                    "version": "1.0.0"
-                },
-                {
                     "name": "jackett2telegram",
                     "description": "Self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Telegram chat.",
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/jackett2telegram",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett2telegram.png",
                     "version": "0.0.5"
-                },
-                {
-                    "name": "jellystat",
-                    "description": "A free and open source Statistics App for Jellyfin.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/jellystat",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellystat.png",
-                    "version": "0.0.1"
                 },
                 {
                     "name": "jelu",
@@ -4510,6 +4590,14 @@
                     "link": "https://truecharts.org/charts/incubator/jump",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jump.png",
                     "version": "2.0.9"
+                },
+                {
+                    "name": "kaizoku",
+                    "description": "Kaizoku is self-hosted manga downloader.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/kaizoku",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kaizoku.png",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "kavitaemail",
@@ -4816,14 +4904,6 @@
                     "version": "2.0.9"
                 },
                 {
-                    "name": "metabase",
-                    "description": "Business intelligence, dashboards, and data visualization tools",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/metabase",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metabase.png",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "metatube",
                     "description": "MetaTube downloads video from YouTube and can add metadata from a specified metadata provider on the downloaded file.",
                     "train": "incubator",
@@ -5070,14 +5150,6 @@
                     "link": "https://truecharts.org/charts/incubator/notifiarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/notifiarr.png",
                     "version": "0.0.1"
-                },
-                {
-                    "name": "obs-ndi",
-                    "description": "Docker Open Broadcaster Software (obs).",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/obs-ndi",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/obs-ndi.png",
-                    "version": "3.0.2"
                 },
                 {
                     "name": "observium",
@@ -5344,22 +5416,6 @@
                     "version": "3.0.3"
                 },
                 {
-                    "name": "plexanisync",
-                    "description": "Plex to AniList Sync.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/plexanisync",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/plexanisync.png",
-                    "version": "3.0.3"
-                },
-                {
-                    "name": "plexripper",
-                    "description": "PlexRipper is a cross-platform media downloader that indexes the Plex servers you have access to and allows you to download everything while adding it to your own Plex server.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/plexripper",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/plexripper.png",
-                    "version": "4.0.5"
-                },
-                {
                     "name": "plextraktsync",
                     "description": "Two-way-sync between trakt.tv and Plex Media Server.",
                     "train": "incubator",
@@ -5430,14 +5486,6 @@
                     "link": "https://truecharts.org/charts/incubator/projectzomboidreporter-frontend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/projectzomboidreporter-frontend.png",
                     "version": "2.0.9"
-                },
-                {
-                    "name": "protonmail-bridge",
-                    "description": "Container for protonmail bridge to work on the network.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/protonmail-bridge",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/protonmail-bridge.png",
-                    "version": "11.0.0"
                 },
                 {
                     "name": "prpdf",
@@ -5624,14 +5672,6 @@
                     "version": "2.0.16"
                 },
                 {
-                    "name": "redisinsight",
-                    "description": "GUI for Redis.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/redisinsight",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redisinsight.png",
-                    "version": "3.0.4"
-                },
-                {
                     "name": "redm",
                     "description": "With this Chart you can run RedM (Red Dead Redemption 2 MOD SERVER) it will automatically download the latest version or if you want to updated it yourself set the Manual Updates (in the 'Show more settings' tab down below) to true (without quotes). The Chart will automatically extract it and download all other required files (resources, server.cfg). You can get fx.tar.xz from here: https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/ To run this Chart you must provide a valid Server Key (you can get them from here: https://keymaster.fivem.net/) and your prefered Server Name.",
                     "train": "incubator",
@@ -5670,14 +5710,6 @@
                     "link": "https://truecharts.org/charts/incubator/rflood",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rflood.png",
                     "version": "2.0.11"
-                },
-                {
-                    "name": "rickroll",
-                    "description": "Self-hosted Rick Roll chart.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/rickroll",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rickroll.png",
-                    "version": "3.0.9"
                 },
                 {
                     "name": "rimgo",
@@ -5789,7 +5821,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/scrypted",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/scrypted.png",
-                    "version": "0.0.6"
+                    "version": "1.0.0"
                 },
                 {
                     "name": "sdtd",
@@ -5832,14 +5864,6 @@
                     "version": "0.0.10"
                 },
                 {
-                    "name": "servas",
-                    "description": "A self-hosted bookmark management tool.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/servas",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/servas.png",
-                    "version": "0.0.12"
-                },
-                {
                     "name": "serviio",
                     "description": "Serviio is a freeware media server designed to let users stream music, video, or image files to DLNA compliant televisions, Blu-ray players, game consoles, and Android or Windows Mobile devices on a home network.",
                     "train": "incubator",
@@ -5880,14 +5904,6 @@
                     "version": "3.0.23"
                 },
                 {
-                    "name": "shiori",
-                    "description": "A simple bookmark manager built with Go.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/shiori",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/shiori.png",
-                    "version": "13.0.0"
-                },
-                {
                     "name": "shortipy",
                     "description": "URL Shortener in python based on flask",
                     "train": "incubator",
@@ -5918,14 +5934,6 @@
                     "link": "https://truecharts.org/charts/incubator/slack-invite",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/slack-invite.png",
                     "version": "2.0.9"
-                },
-                {
-                    "name": "slash",
-                    "description": "A bookmarking and link shortening service that enables easy saving and sharing of links.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/slash",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/slash.png",
-                    "version": "0.0.2"
                 },
                 {
                     "name": "snipe-it",
@@ -6675,7 +6683,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "3.0.9"
+                    "version": "3.0.10"
                 },
                 {
                     "name": "redis",
@@ -6691,7 +6699,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/solr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png",
-                    "version": "6.0.11"
+                    "version": "6.0.12"
                 }
             ]
         }
