@@ -419,6 +419,7 @@ The intro needs improvement ;)
 |piwigo                    |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |pixapop                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |pixapop                   |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
+|plausible                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |plaxt                     |config                |PVC      |-              |/app/keystore                                        |Read/Write|Enabled                |
 |plex                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |plex-auto-languages       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -464,6 +465,8 @@ The intro needs improvement ;)
 |rdesktop                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |readarr                   |config                |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |recyclarr                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|redisinsight              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|redisinsight              |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
 |redmine                   |data                  |PVC      |-              |/usr/src/redmine/files                               |Read/Write|Enabled                |
 |reg                       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |remmina                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -547,6 +550,7 @@ The intro needs improvement ;)
 |tagspaces                 |nginx                 |emptyDir |-              |/var/cache/nginx                                     |Read/Write|Enabled                |
 |tailscale                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |tailscale                 |tun                   |hostPath |/dev/net/tun   |/dev/net/tun                                         |Read/Write|Enabled                |
+|tauticord                 |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
 |tautulli                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |tdarr                     |configs               |PVC      |-              |/app/configs                                         |Read/Write|Enabled                |
 |tdarr                     |server                |PVC      |-              |/app/server                                          |Read/Write|Enabled                |
@@ -696,6 +700,8 @@ The intro needs improvement ;)
 |aurora-files                   |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |auto-yt-dl                     |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |auto-yt-dl                     |hostpath1                  |PVC      |-                |/app/Downloads                                  |Read/Write|Enabled                |
+|automatic-ripping-machine      |config                     |PVC      |-                |/etc/arm/config                                 |Read/Write|Enabled                |
+|automatic-ripping-machine      |arm                        |PVC      |-                |/home/arm                                       |Read/Write|Enabled                |
 |avorion                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |avorion                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |awesome-ttrss                  |icons                      |PVC      |-                |/var/www/feed-icons                             |Read/Write|Enabled                |
@@ -820,8 +826,8 @@ The intro needs improvement ;)
 |duplicacy                      |cache                      |PVC      |-                |/cache                                          |Read/Write|Enabled                |
 |duplicacy                      |logs                       |PVC      |-                |/logs                                           |Read/Write|Enabled                |
 |dvblink                        |dvblink                    |PVC      |-                |/opt/DVBLink                                    |Read/Write|Enabled                |
-|eco                            |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |eco                            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
+|eco                            |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |ecodms                         |backuppath                 |PVC      |-                |/srv/backup                                     |Read/Write|Enabled                |
 |ecodms                         |data                       |PVC      |-                |/srv/data                                       |Read/Write|Enabled                |
 |ecodms                         |restorepath                |PVC      |-                |/srv/restore                                    |Read/Write|Enabled                |
@@ -1142,7 +1148,6 @@ The intro needs improvement ;)
 |pixark                         |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |pixark                         |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |pixelserv-tls                  |certficatesdir             |PVC      |-                |/var/cache/pixelserv                            |Read/Write|Enabled                |
-|plausible                      |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |plex-meta-manager              |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |plextraktsync                  |config                     |PVC      |-                |/app/config                                     |Read/Write|Enabled                |
 |plik                           |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
@@ -1208,8 +1213,6 @@ The intro needs improvement ;)
 |recipes                        |static                     |emptyDir |-                |/opt/recipes/staticfiles                        |Read/Write|Enabled                |
 |recipes                        |recipes-config             |custom   |-                |/etc/nginx/nginx.conf                           |Read/Write|Enabled                |
 |red-discordbot                 |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
-|redisinsight                   |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
-|redisinsight                   |logs                       |PVC      |-                |/logs                                           |Read/Write|Enabled                |
 |redm                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |remotely                       |data                       |PVC      |-                |/remotely-data                                  |Read/Write|Enabled                |
 |restic-rest-server             |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
@@ -1311,7 +1314,6 @@ The intro needs improvement ;)
 |tasmoadmin                     |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
 |tasmobackup                    |data                       |PVC      |-                |/var/www/html/data                              |Read/Write|Enabled                |
 |tasmocompiler                  |-                          |-        |-                |-                                               |-         |Persistence not Defined|
-|tauticord                      |logs                       |PVC      |-                |/logs                                           |Read/Write|Enabled                |
 |teamspeak3                     |data                       |PVC      |-                |/var/ts3server                                  |Read/Write|Enabled                |
 |technitium                     |config                     |PVC      |-                |/etc/dns/config                                 |Read/Write|Enabled                |
 |teedy-docs                     |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
