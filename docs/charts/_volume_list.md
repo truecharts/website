@@ -1149,6 +1149,7 @@ The intro needs improvement ;)
 |pixark                         |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |pixelserv-tls                  |certficatesdir             |PVC      |-                |/var/cache/pixelserv                            |Read/Write|Enabled                |
 |plex-meta-manager              |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
+|plex-playlist-sync             |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
 |plextraktsync                  |config                     |PVC      |-                |/app/config                                     |Read/Write|Enabled                |
 |plik                           |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
 |plik                           |plikd-config               |custom   |-                |/home/plik/server/plikd.cfg                     |Read Only |Enabled                |
@@ -1184,6 +1185,8 @@ The intro needs improvement ;)
 |pydio-cells                    |pydiocells-install         |custom   |-                |/cells/install.yml                              |Read/Write|Enabled                |
 |pyload-ng                      |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |pyload-ng                      |pathdownloads              |PVC      |-                |/downloads                                      |Read/Write|Enabled                |
+|qbitrr                         |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
+|qbitrr                         |downloads                  |PVC      |-                |/completed_downloads                            |Read/Write|Enabled                |
 |qflood                         |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |quake3                         |serverfiles                |PVC      |-                |/quake3                                         |Read/Write|Enabled                |
 |quickshare                     |storagedata                |PVC      |-                |/quickshare/root                                |Read/Write|Enabled                |
