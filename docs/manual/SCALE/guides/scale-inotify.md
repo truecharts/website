@@ -20,4 +20,4 @@ it should be noted this is not a magic fix all
  fs.inotify.max_user_instances = 512
 
 **Example**
-![](/img/inotify.png)
+![](./img/inotify.png)
