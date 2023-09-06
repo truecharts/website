@@ -828,6 +828,7 @@ The intro needs improvement ;)
 |dvblink                        |dvblink                    |PVC      |-                |/opt/DVBLink                                    |Read/Write|Enabled                |
 |eco                            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |eco                            |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
+|eco                            |network-config             |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
 |ecodms                         |backuppath                 |PVC      |-                |/srv/backup                                     |Read/Write|Enabled                |
 |ecodms                         |data                       |PVC      |-                |/srv/data                                       |Read/Write|Enabled                |
 |ecodms                         |restorepath                |PVC      |-                |/srv/restore                                    |Read/Write|Enabled                |
