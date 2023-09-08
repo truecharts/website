@@ -1360,6 +1360,7 @@ The intro needs improvement ;)
 |v-rising                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |v-rising                       |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |valetudo-mapper                |-                          |-        |-                |-                                               |-         |Persistence not Defined|
+|van-dam                        |libraries                  |PVC      |-                |/libraries                                      |Read/Write|Enabled                |
 |vaulthunters                   |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
 |venstar2mqtt                   |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |vertex                         |config                     |PVC      |-                |/vertex                                         |Read/Write|Enabled                |
