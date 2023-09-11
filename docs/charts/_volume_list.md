@@ -255,8 +255,9 @@ The intro needs improvement ;)
 |lama-cleaner              |torch                 |PVC      |-              |/root/.cache/torch                                   |Read/Write|Enabled                |
 |lama-cleaner              |huggingface           |PVC      |-              |/root/.cache/huggingface                             |Read/Write|Enabled                |
 |lancache-dns              |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
-|lancache-monolithic       |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|lancache-monolithic       |config                |PVC      |-              |/data/cache                                          |Read/Write|Enabled                |
 |lancache-monolithic       |logs                  |PVC      |-              |/data/logs                                           |Read/Write|Enabled                |
+|lancache-monolithic       |prefill               |PVC      |-              |/data/prefill                                        |Read/Write|Enabled                |
 |lanraragi                 |config                |PVC      |-              |/home/koyomi/lanraragi/database                      |Read/Write|Enabled                |
 |lanraragi                 |content               |PVC      |-              |/home/koyomi/lanraragi/content                       |Read/Write|Enabled                |
 |lazylibrarian             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
@@ -828,7 +829,7 @@ The intro needs improvement ;)
 |dvblink                        |dvblink                    |PVC      |-                |/opt/DVBLink                                    |Read/Write|Enabled                |
 |eco                            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |eco                            |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
-|eco                            |network-config             |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
+|eco                            |network-config             |configmap|-                |/serverdata/serverfiles/Configs/Network.eco     |Read Only |Enabled                |
 |ecodms                         |backuppath                 |PVC      |-                |/srv/backup                                     |Read/Write|Enabled                |
 |ecodms                         |data                       |PVC      |-                |/srv/data                                       |Read/Write|Enabled                |
 |ecodms                         |restorepath                |PVC      |-                |/srv/restore                                    |Read/Write|Enabled                |
