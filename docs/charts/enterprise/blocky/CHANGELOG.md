@@ -2,6 +2,15 @@
 
 
 
+## [blocky-8.0.1](https://github.com/truecharts/charts/compare/blocky-8.0.0...blocky-8.0.1) (2023-09-16)
+
+### Chore
+
+- update container image tccr.io/truecharts/blocky to v0.22.0 ([#12084](https://github.com/truecharts/charts/issues/12084))
+  
+  
+
+
 
 ## [blocky-8.0.0](https://github.com/truecharts/charts/compare/blocky-7.0.2...blocky-8.0.0) (2023-07-31)
 
