@@ -2,6 +2,15 @@
 
 
 
+## [vaultwarden-23.0.1](https://github.com/truecharts/charts/compare/vaultwarden-23.0.0...vaultwarden-23.0.1) (2023-09-16)
+
+### Chore
+
+- update container image tccr.io/truecharts/vaultwarden to v1.29.2 ([#12227](https://github.com/truecharts/charts/issues/12227))
+  
+  
+
+
 ## [vaultwarden-23.0.0](https://github.com/truecharts/charts/compare/vaultwarden-22.0.0...vaultwarden-23.0.0) (2023-09-16)
 
 ### Fix
