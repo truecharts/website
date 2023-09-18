@@ -409,7 +409,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cops",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cops.png",
-                    "version": "5.0.9"
+                    "version": "5.0.10"
                 },
                 {
                     "name": "couchpotato",
@@ -521,7 +521,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/deconz",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/deconz.png",
-                    "version": "12.0.2"
+                    "version": "12.0.3"
                 },
                 {
                     "name": "deemix",
@@ -905,7 +905,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ghostfolio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.png",
-                    "version": "0.0.12"
+                    "version": "0.0.14"
                 },
                 {
                     "name": "gitea",
@@ -1329,7 +1329,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.87"
+                    "version": "3.0.89"
                 },
                 {
                     "name": "librespeed",
@@ -2089,7 +2089,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prowlarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png",
-                    "version": "12.0.7"
+                    "version": "12.0.8"
                 },
                 {
                     "name": "prusaslicer-novnc",
@@ -2201,7 +2201,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.79"
+                    "version": "5.0.83"
                 },
                 {
                     "name": "readarr",
@@ -2321,7 +2321,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.144"
+                    "version": "8.0.146"
                 },
                 {
                     "name": "sabnzbd",
@@ -2337,7 +2337,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/satisfactory",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/satisfactory.png",
-                    "version": "6.0.1"
+                    "version": "6.0.2"
                 },
                 {
                     "name": "scrutiny",
@@ -2361,7 +2361,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/searxng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
-                    "version": "4.0.26"
+                    "version": "4.0.27"
                 },
                 {
                     "name": "seedsync",
@@ -4589,7 +4589,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/jenkins",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jenkins.png",
-                    "version": "3.0.15"
+                    "version": "4.0.0"
                 },
                 {
                     "name": "jitsi",
@@ -5581,7 +5581,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/qbitrr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qbitrr.png",
-                    "version": "0.0.4"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "qflood",
@@ -6715,7 +6715,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "8.0.20"
+                    "version": "8.0.21"
                 },
                 {
                     "name": "mongodb",
@@ -6747,7 +6747,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/solr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/solr.png",
-                    "version": "6.0.20"
+                    "version": "6.0.21"
                 }
             ]
         }
