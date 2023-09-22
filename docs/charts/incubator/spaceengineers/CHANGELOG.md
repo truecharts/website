@@ -2,6 +2,11 @@
 
 
 
+## [spaceengineers-3.0.1](https://github.com/truecharts/charts/compare/spaceengineers-3.0.0...spaceengineers-3.0.1) (2023-09-22)
+
+
+
+
 
 
 ## [spaceengineers-3.0.0](https://github.com/truecharts/charts/compare/spaceengineers-2.0.11...spaceengineers-3.0.0) (2023-07-31)
