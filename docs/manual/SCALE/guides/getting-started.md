@@ -100,7 +100,7 @@ For new users just starting out with TrueNAS SCALE, you may simply install `clou
 
 In exceptionally rare cases, if your Trafik install fails, you may need to run `k3s kubectl apply --server-side --force-conflicts -k https://github.com/truecharts/manifests/manifests` in shell as root before trying again.
 
-An optiona but extra function enabled by Traefik and supported by many Truecharts Community Catalog apps like `Nextcloud`, is the ability to use a `middleware` to use your apps remotely. You can setup a basicAuth middleware using our guide [Add Traefik Basic Auth to Apps](https://truecharts.org/charts/enterprise/traefik/traefik-basicAuth-middleware/).
+An optional but extra function enabled by Traefik and supported by many Truecharts Community Catalog apps like `Nextcloud`, is the ability to use a `middleware` to use your apps remotely. You can setup a basicAuth middleware using our guide [Add Traefik Basic Auth to Apps](https://truecharts.org/charts/enterprise/traefik/traefik-basicAuth-middleware/).
 
 ## Cert-Manager (operator) and Clusterissuer installation for certificate management
 
@@ -118,7 +118,7 @@ Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS pr
 
 ![Authelia](img/icons/authelia.png)
 
-Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info. It is not stricktly required, however you are otherwise encouraged to set a very stong password in your previous steps.
+Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very stong password in your previous steps.
 
 ### Video Guide
 
