@@ -2,6 +2,15 @@
 
 
 
+## [photoprism-16.0.1](https://github.com/truecharts/charts/compare/photoprism-16.0.0...photoprism-16.0.1) (2023-09-23)
+
+### Chore
+
+- update container image tccr.io/truecharts/photoprism to v230923 ([#12894](https://github.com/truecharts/charts/issues/12894))
+  
+  
+
+
 ## [photoprism-16.0.0](https://github.com/truecharts/charts/compare/photoprism-15.0.0...photoprism-16.0.0) (2023-08-12)
 
 
