@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 377,
+            "count": 380,
             "charts": [
                 {
                     "name": "actualserver",
@@ -97,7 +97,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/alist",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/alist.png",
-                    "version": "6.0.3"
+                    "version": "6.0.4"
                 },
                 {
                     "name": "amcrest2mqtt",
@@ -249,7 +249,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/beets",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/beets.png",
-                    "version": "8.0.8"
+                    "version": "8.0.9"
                 },
                 {
                     "name": "blog",
@@ -313,7 +313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.0.12"
+                    "version": "11.0.13"
                 },
                 {
                     "name": "channels-dvr",
@@ -569,7 +569,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dillinger",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dillinger.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "discordgsm",
@@ -786,6 +786,14 @@
                     "link": "https://truecharts.org/charts/stable/firefox",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/firefox.png",
                     "version": "7.0.6"
+                },
+                {
+                    "name": "firezone",
+                    "description": "WireGuard-based VPN server and egress firewall",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/firezone",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/firezone.png",
+                    "version": "0.2.2"
                 },
                 {
                     "name": "flaresolverr",
@@ -1057,7 +1065,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/homepage",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png",
-                    "version": "4.0.7"
+                    "version": "4.0.8"
                 },
                 {
                     "name": "homer",
@@ -1169,7 +1177,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jellyfin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png",
-                    "version": "15.0.6"
+                    "version": "15.0.7"
                 },
                 {
                     "name": "jellyseerr",
@@ -1193,7 +1201,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/joplin-server",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/joplin-server.png",
-                    "version": "14.0.0"
+                    "version": "14.0.1"
                 },
                 {
                     "name": "jupyter",
@@ -1289,7 +1297,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lancache-monolithic",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lancache-monolithic.png",
-                    "version": "5.1.0"
+                    "version": "5.1.1"
                 },
                 {
                     "name": "lanraragi",
@@ -1329,7 +1337,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.103"
+                    "version": "3.0.106"
                 },
                 {
                     "name": "librespeed",
@@ -1433,7 +1441,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mediainfo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mediainfo.png",
-                    "version": "5.0.0"
+                    "version": "5.0.1"
                 },
                 {
                     "name": "medusa",
@@ -1633,7 +1641,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mysql-workbench",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mysql-workbench.png",
-                    "version": "6.0.7"
+                    "version": "6.0.8"
                 },
                 {
                     "name": "n8n",
@@ -1641,7 +1649,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/n8n",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png",
-                    "version": "9.0.7"
+                    "version": "9.0.8"
                 },
                 {
                     "name": "nano-wallet",
@@ -1673,7 +1681,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "22.0.24"
+                    "version": "22.0.25"
                 },
                 {
                     "name": "nextpvr",
@@ -1722,6 +1730,14 @@
                     "link": "https://truecharts.org/charts/stable/node-red",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-red.png",
                     "version": "15.0.1"
+                },
+                {
+                    "name": "notifiarr",
+                    "description": "This is the unified client for Notifiarr.com. The client enables content requests from Media Bot in your Discord Server and also provides reports for Plex usage and system health among many other features.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/notifiarr",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/notifiarr.png",
+                    "version": "1.0.0"
                 },
                 {
                     "name": "novnc",
@@ -1785,7 +1801,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/omada-controller",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png",
-                    "version": "10.0.0"
+                    "version": "10.0.2"
                 },
                 {
                     "name": "ombi",
@@ -2065,7 +2081,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/projectsend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.png",
-                    "version": "8.0.7"
+                    "version": "8.0.8"
                 },
                 {
                     "name": "promcord",
@@ -2140,6 +2156,14 @@
                     "version": "5.0.2"
                 },
                 {
+                    "name": "qbitrr",
+                    "description": "A simple script to monitor qBit and communicate with Radarr and Sonarr.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/qbitrr",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qbitrr.png",
+                    "version": "0.0.7"
+                },
+                {
                     "name": "qbittorrent",
                     "description": "qBittorrent is a cross-platform free and open-source BitTorrent client",
                     "train": "stable",
@@ -2201,7 +2225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.84"
+                    "version": "5.0.86"
                 },
                 {
                     "name": "readarr",
@@ -2321,7 +2345,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.155"
+                    "version": "8.0.159"
                 },
                 {
                     "name": "sabnzbd",
@@ -2361,7 +2385,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/searxng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
-                    "version": "4.0.32"
+                    "version": "4.0.35"
                 },
                 {
                     "name": "seedsync",
@@ -2673,7 +2697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/thelounge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/thelounge.png",
-                    "version": "10.0.7"
+                    "version": "10.0.8"
                 },
                 {
                     "name": "theme-park",
@@ -2889,7 +2913,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.99"
+                    "version": "6.0.101"
                 },
                 {
                     "name": "wekan",
@@ -2961,7 +2985,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "3.0.27"
+                    "version": "3.0.28"
                 },
                 {
                     "name": "wyoming-piper",
@@ -2985,7 +3009,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/xen-orchestra",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/xen-orchestra.png",
-                    "version": "5.0.8"
+                    "version": "5.0.9"
                 },
                 {
                     "name": "xteve",
@@ -3095,7 +3119,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "9.0.18"
+                    "version": "9.0.19"
                 },
                 {
                     "name": "metallb-config",
@@ -3103,7 +3127,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/metallb-config",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb-config.png",
-                    "version": "3.0.0"
+                    "version": "3.0.1"
                 },
                 {
                     "name": "prometheus",
@@ -3133,7 +3157,7 @@
         },
         {
             "name": "incubator",
-            "count": 443,
+            "count": 440,
             "charts": [
                 {
                     "name": "acestream",
@@ -3241,11 +3265,11 @@
                 },
                 {
                     "name": "arksurvivalevolved",
-                    "description": "This Chart will download and install SteamCMD. It will also install ARK:SurvivalEvolved and run it (Normal server startup of ARK can take a long time!).",
+                    "description": "A custom SteamCMD chart that runs ArkSE.",
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/arksurvivalevolved",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/arksurvivalevolved.png",
-                    "version": "3.0.9"
+                    "version": "4.0.0"
                 },
                 {
                     "name": "arma3",
@@ -4102,14 +4126,6 @@
                     "link": "https://truecharts.org/charts/incubator/fireshare",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/fireshare.png",
                     "version": "2.0.11"
-                },
-                {
-                    "name": "firezone",
-                    "description": "WireGuard-based VPN server and egress firewall",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/firezone",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/firezone.png",
-                    "version": "0.2.1"
                 },
                 {
                     "name": "fistfuloffrags",
@@ -5160,14 +5176,6 @@
                     "version": "2.0.9"
                 },
                 {
-                    "name": "notifiarr",
-                    "description": "This is the unified client for Notifiarr.com. The client enables content requests from Media Bot in your Discord Server and also provides reports for Plex usage and system health among many other features.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/notifiarr",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/notifiarr.png",
-                    "version": "0.0.5"
-                },
-                {
                     "name": "observium",
                     "description": "Observium is an autodiscovering network monitoring platform supporting a wide range of hardware platforms and operating systems.[br][br]",
                     "train": "incubator",
@@ -5189,7 +5197,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/odoo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/odoo.png",
-                    "version": "14.0.1"
+                    "version": "14.0.2"
                 },
                 {
                     "name": "onlinecheckyourserver",
@@ -5574,14 +5582,6 @@
                     "link": "https://truecharts.org/charts/incubator/pyload-ng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pyload-ng.png",
                     "version": "2.0.21"
-                },
-                {
-                    "name": "qbitrr",
-                    "description": "A simple script to monitor qBit and communicate with Radarr and Sonarr.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/qbitrr",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qbitrr.png",
-                    "version": "0.0.5"
                 },
                 {
                     "name": "qflood",
@@ -6037,7 +6037,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/spaceengineers",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/spaceengineers.png",
-                    "version": "3.0.0"
+                    "version": "3.0.1"
                 },
                 {
                     "name": "speedtest-tracker",
@@ -6707,7 +6707,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "9.0.20"
+                    "version": "9.0.21"
                 },
                 {
                     "name": "memcached",
@@ -6723,7 +6723,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "8.0.17"
+                    "version": "8.0.18"
                 },
                 {
                     "name": "node-exporter",
@@ -6731,7 +6731,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "3.0.19"
+                    "version": "3.0.20"
                 },
                 {
                     "name": "redis",
