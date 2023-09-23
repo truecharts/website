@@ -148,6 +148,7 @@ The intro needs improvement ;)
 |firefox                   |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |firefox                   |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
 |firefox-syncserver        |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|firezone                  |config                |PVC      |-              |/var/firezone                                        |Read/Write|Enabled                |
 |flaresolverr              |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |fleet                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |fleet                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
@@ -369,6 +370,9 @@ The intro needs improvement ;)
 |nntp2nntp                 |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |nocodb                    |data                  |PVC      |-              |/usr/app/data                                        |Read/Write|Enabled                |
 |node-red                  |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|notifiarr                 |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|notifiarr                 |machine-id            |hostPath |/etc/machine-id|/etc/machine-id                                      |Read Only |Enabled                |
+|notifiarr                 |tmpdir                |emptyDir |-              |/tmpdir                                              |Read/Write|Enabled                |
 |novnc                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |ntfy                      |config                |PVC      |-              |/etc/ntfy                                            |Read/Write|Enabled                |
 |ntfy                      |cache                 |PVC      |-              |/var/cache/ntfy                                      |Read/Write|Enabled                |
@@ -455,6 +459,8 @@ The intro needs improvement ;)
 |pylon                     |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |qbitmanage                |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |qbitmanage                |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
+|qbitrr                    |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|qbitrr                    |downloads             |PVC      |-              |/completed_downloads                                 |Read/Write|Enabled                |
 |qbittorrent               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |qdirstat                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |qdirstat                  |storage               |PVC      |-              |/storage                                             |Read/Write|Enabled                |
@@ -688,8 +694,8 @@ The intro needs improvement ;)
 |apprise-api                    |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |appsmith                       |appsmithstacks             |PVC      |-                |/appsmith-stacks                                |Read/Write|Enabled                |
 |archiveteam-warrior            |-                          |-        |-                |-                                               |-         |Persistence not Defined|
-|arksurvivalevolved             |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |arksurvivalevolved             |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
+|arksurvivalevolved             |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |arma3                          |profiles                   |PVC      |-                |/serverdata/.local/share                        |Read/Write|Enabled                |
 |arma3                          |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |arma3                          |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
@@ -872,7 +878,6 @@ The intro needs improvement ;)
 |fireshare                      |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
 |fireshare                      |processeddata              |PVC      |-                |/processed                                      |Read/Write|Enabled                |
 |fireshare                      |videos                     |PVC      |-                |/videos                                         |Read/Write|Enabled                |
-|firezone                       |config                     |PVC      |-                |/var/firezone                                   |Read/Write|Enabled                |
 |fistfuloffrags                 |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |fistfuloffrags                 |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
 |fivem                          |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
@@ -1093,15 +1098,12 @@ The intro needs improvement ;)
 |nosqlclient                    |appdata                    |PVC      |-                |/data/db                                        |Read/Write|Enabled                |
 |notarius                       |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |notea                          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
-|notifiarr                      |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
-|notifiarr                      |machine-id                 |hostPath |/etc/machine-id  |/etc/machine-id                                 |Read Only |Enabled                |
-|notifiarr                      |tmpdir                     |emptyDir |-                |/tmpdir                                         |Read/Write|Enabled                |
 |observium                      |observium                  |PVC      |-                |/opt/observium/rrd                              |Read/Write|Enabled                |
 |obsidian                       |storageconfig              |PVC      |-                |/config/.config/obsidian                        |Read/Write|Enabled                |
 |obsidian                       |storagevaults              |PVC      |-                |/vaults                                         |Read/Write|Enabled                |
 |odoo                           |odoo                       |PVC      |-                |/var/lib/odoo                                   |Read/Write|Enabled                |
 |odoo                           |addons                     |PVC      |-                |/mnt/extra-addons                               |Read/Write|Enabled                |
-|odoo                           |odoo-config                |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
+|odoo                           |odoo-config                |configmap|-                |/etc/odoo/odoo.conf                             |Read Only |Enabled                |
 |onlinecheckyourserver          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |openaudible                    |config                     |PVC      |-                |/config/OpenAudible                             |Read/Write|Enabled                |
 |openbooks                      |books                      |PVC      |-                |/books/books                                    |Read/Write|Enabled                |
@@ -1187,8 +1189,6 @@ The intro needs improvement ;)
 |pydio-cells                    |pydiocells-install         |custom   |-                |/cells/install.yml                              |Read/Write|Enabled                |
 |pyload-ng                      |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |pyload-ng                      |pathdownloads              |PVC      |-                |/downloads                                      |Read/Write|Enabled                |
-|qbitrr                         |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
-|qbitrr                         |downloads                  |PVC      |-                |/completed_downloads                            |Read/Write|Enabled                |
 |qflood                         |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |quake3                         |serverfiles                |PVC      |-                |/quake3                                         |Read/Write|Enabled                |
 |quickshare                     |storagedata                |PVC      |-                |/quickshare/root                                |Read/Write|Enabled                |
