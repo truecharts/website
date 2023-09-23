@@ -2,6 +2,15 @@
 
 
 
+## [shlink-9.0.1](https://github.com/truecharts/charts/compare/shlink-9.0.0...shlink-9.0.1) (2023-09-23)
+
+### Chore
+
+- update container image tccr.io/truecharts/shlink to v3.6.4 ([#12877](https://github.com/truecharts/charts/issues/12877))
+  
+  
+
+
 
 ## [shlink-9.0.0](https://github.com/truecharts/charts/compare/shlink-8.0.29...shlink-9.0.0) (2023-07-31)
 
