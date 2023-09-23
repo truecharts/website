@@ -17,7 +17,7 @@ Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE in
 
 :::info Quick start guides
 
-Below are the tl;dr versions of the full setup for certain usecases, scroll down for short blurbs on each step and why they're recommended.
+Below are the tl;dr versions of the full setup for certain use cases, scroll down for short blurbs on each step and why they're recommended.
 
 :::
 
@@ -54,7 +54,7 @@ To add TrueCharts to your SCALE installation:
  Branch: `main`
  5. Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
-Please view this video from the TrueNAS documentation webiste on adding [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog) if you need more info on the process.
+Please view this video from the TrueNAS documentation website on adding [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog) if you need more info on the process.
 
 :::info Introduction to TrueNAS SCALE Guide
 
@@ -88,7 +88,7 @@ This step may be optional but is recommended for advanced users and/or those who
 
 ![CNPG](img/icons/cnpg.png) ![Prometheus](img/icons/prometheus-operator.png)
 
-Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` operators first before attempting to install apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [News artcile](https://truecharts.org/news#prometheus) on removing the old built-in prometheus operator
+Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` operators first before attempting to install apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [News article](https://truecharts.org/news#prometheus) on removing the old built-in prometheus operator
 
 For new users just starting out with TrueNAS SCALE, you may simply install `cloudnative-pg` and `prometheus-operator` from the TrueCharts Community Catalog before continuing.
 
@@ -98,7 +98,7 @@ For new users just starting out with TrueNAS SCALE, you may simply install `clou
 
 `Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/enterprise/traefik/how-to) for basic instructions and a video as well.
 
-In exceptionally rare cases, if your Trafik install fails, you may need to run `k3s kubectl apply --server-side --force-conflicts -k https://github.com/truecharts/manifests/manifests` in shell as root before trying again.
+In exceptionally rare cases, if your Traefik install fails, you may need to run `k3s kubectl apply --server-side --force-conflicts -k https://github.com/truecharts/manifests/manifests` in shell as root before trying again.
 
 An optional but extra function enabled by Traefik and supported by many Truecharts Community Catalog apps like `Nextcloud`, is the ability to use a `middleware` to use your apps remotely. You can setup a basicAuth middleware using our guide [Add Traefik Basic Auth to Apps](https://truecharts.org/charts/enterprise/traefik/traefik-basicAuth-middleware/).
 
@@ -106,7 +106,7 @@ An optional but extra function enabled by Traefik and supported by many Truechar
 
 ![Cert-Manager](img/icons/cert-manager.png)
 
-TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to) before adding `Ingress` to you applications.
+TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to) before adding `Ingress` to your applications.
 
 ## Blocky DNS provider for split-DNS installation and guide
 
@@ -118,7 +118,7 @@ Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS pr
 
 ![Authelia](img/icons/authelia.png)
 
-Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very stong password in your previous steps.
+Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very strong password in your previous steps.
 
 ### Video Guide
 
