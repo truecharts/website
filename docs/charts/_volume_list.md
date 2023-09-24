@@ -715,10 +715,10 @@ The intro needs improvement ;)
 |awesome-ttrss                  |icons                      |PVC      |-                |/var/www/feed-icons                             |Read/Write|Enabled                |
 |awesome-ttrss                  |plugins                    |PVC      |-                |/var/www/plugins.local                          |Read/Write|Enabled                |
 |awesome-ttrss                  |themes                     |PVC      |-                |/var/www/themes.local                           |Read/Write|Enabled                |
-|backuppc                       |backuplocation             |PVC      |-                |/var/lib/backuppc                               |Read/Write|Enabled                |
-|backuppc                       |configurationfiles         |PVC      |-                |/etc/backuppc                                   |Read/Write|Enabled                |
-|backuppc                       |homedirectory              |PVC      |-                |/home/backuppc                                  |Read/Write|Enabled                |
-|backuppc                       |logs                       |PVC      |-                |/www/logs                                       |Read/Write|Enabled                |
+|backuppc                       |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
+|backuppc                       |ssh                        |PVC      |-                |/.ssh                                           |Read/Write|Enabled                |
+|backuppc                       |logs                       |PVC      |-                |/logs                                           |Read/Write|Enabled                |
+|backuppc                       |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
 |baikal                         |config                     |PVC      |-                |/var/www/baikal/config                          |Read/Write|Enabled                |
 |baikal                         |specific                   |PVC      |-                |/var/www/baikal/Specific                        |Read/Write|Enabled                |
 |barcodebuddy                   |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
