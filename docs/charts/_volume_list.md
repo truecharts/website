@@ -216,6 +216,7 @@ The intro needs improvement ;)
 |immich                    |thumbs                |PVC      |-              |/usr/src/app/upload/thumbs                           |Read/Write|Enabled                |
 |immich                    |profile               |PVC      |-              |/usr/src/app/upload/profile                          |Read/Write|Enabled                |
 |immich                    |video                 |PVC      |-              |/usr/src/app/upload/encoded-video                    |Read/Write|Enabled                |
+|immich                    |externallibrary       |PVC      |-              |/media                                               |Read/Write|Enabled                |
 |impostor-server           |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |invidious                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |ipfs                      |data                  |PVC      |-              |/data/ipfs                                           |Read/Write|Enabled                |
@@ -238,6 +239,7 @@ The intro needs improvement ;)
 |jellyfin                  |transcode             |emptyDir |-              |/config/transcodes                                   |Read/Write|Enabled                |
 |jellyseerr                |config                |PVC      |-              |/app/config                                          |Read/Write|Enabled                |
 |jellystat                 |backup                |PVC      |-              |/app/backend/backup-data                             |Read/Write|Enabled                |
+|jenkins                   |data                  |PVC      |-              |/var/jenkins_home                                    |Read/Write|Enabled                |
 |joplin-server             |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |jupyter                   |data                  |PVC      |-              |/home/jovyan/work                                    |Read/Write|Enabled                |
 |kanboard                  |data                  |PVC      |-              |/var/www/app/data                                    |Read/Write|Enabled                |
@@ -974,7 +976,6 @@ The intro needs improvement ;)
 |jelu                           |databasepath               |PVC      |-                |/database                                       |Read/Write|Enabled                |
 |jelu                           |imagespath                 |PVC      |-                |/files/images                                   |Read/Write|Enabled                |
 |jelu                           |importspath                |PVC      |-                |/files/imports                                  |Read/Write|Enabled                |
-|jenkins                        |data                       |PVC      |-                |/var/jenkins_home                               |Read/Write|Enabled                |
 |jitsi                          |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |jitsi                          |crontabs                   |PVC      |-                |/var/spool/cron/crontabs                        |Read/Write|Enabled                |
 |jitsi                          |transcripts                |PVC      |-                |/usr/share/jitsi-meet/transcripts               |Read/Write|Enabled                |
@@ -1374,6 +1375,7 @@ The intro needs improvement ;)
 |virt-manager                   |libvirt-sock               |PVC      |-                |/var/run/libvirt/libvirt-sock                   |Read/Write|Enabled                |
 |virt-manager                   |rootfolder                 |PVC      |-                |/root                                           |Read/Write|Enabled                |
 |vlmcsd-kms-server              |-                          |-        |-                |-                                               |-         |Persistence not Defined|
+|vocechat-server                |data                       |PVC      |-                |/home/vocechat-server/data                      |Read/Write|Enabled                |
 |vorta                          |backupsfrom                |PVC      |-                |/data/bkp_from                                  |Read Only |Enabled                |
 |vorta                          |backupsto                  |PVC      |-                |/data/bkp_to                                    |Read/Write|Enabled                |
 |vorta                          |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
