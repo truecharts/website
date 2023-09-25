@@ -1,5 +1,5 @@
 {
-    "totalCount": 840,
+    "totalCount": 841,
     "trains": [
         {
             "name": "operators",
@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 380,
+            "count": 381,
             "charts": [
                 {
                     "name": "actualserver",
@@ -225,7 +225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/babybuddy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/babybuddy.png",
-                    "version": "13.0.6"
+                    "version": "13.0.7"
                 },
                 {
                     "name": "baserow",
@@ -409,7 +409,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cops",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cops.png",
-                    "version": "5.0.10"
+                    "version": "5.0.11"
                 },
                 {
                     "name": "couchpotato",
@@ -609,7 +609,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dokuwiki",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dokuwiki.png",
-                    "version": "7.0.18"
+                    "version": "7.0.19"
                 },
                 {
                     "name": "domoticz",
@@ -649,7 +649,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/drawio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png",
-                    "version": "6.0.6"
+                    "version": "6.0.7"
                 },
                 {
                     "name": "duckdns",
@@ -657,7 +657,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/duckdns",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/duckdns.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "duplicati",
@@ -769,7 +769,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/fireflyiii",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/fireflyiii.png",
-                    "version": "21.0.5"
+                    "version": "21.0.6"
                 },
                 {
                     "name": "firefox-syncserver",
@@ -1097,7 +1097,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/immich",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/immich.png",
-                    "version": "8.0.16"
+                    "version": "8.1.16"
                 },
                 {
                     "name": "impostor-server",
@@ -1177,7 +1177,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jellyfin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png",
-                    "version": "15.0.7"
+                    "version": "15.0.8"
                 },
                 {
                     "name": "jellyseerr",
@@ -1194,6 +1194,14 @@
                     "link": "https://truecharts.org/charts/stable/jellystat",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellystat.png",
                     "version": "0.0.2"
+                },
+                {
+                    "name": "jenkins",
+                    "description": "The gold standard in devops tools for running CI/CD pipelines.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/jenkins",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jenkins.png",
+                    "version": "4.0.2"
                 },
                 {
                     "name": "joplin-server",
@@ -1337,7 +1345,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.110"
+                    "version": "3.0.112"
                 },
                 {
                     "name": "librespeed",
@@ -1353,7 +1361,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lidarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png",
-                    "version": "17.0.5"
+                    "version": "17.0.6"
                 },
                 {
                     "name": "linkding",
@@ -2081,7 +2089,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/projectsend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.png",
-                    "version": "8.0.8"
+                    "version": "8.0.9"
                 },
                 {
                     "name": "promcord",
@@ -2105,7 +2113,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prowlarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png",
-                    "version": "12.0.8"
+                    "version": "12.0.9"
                 },
                 {
                     "name": "prusaslicer-novnc",
@@ -2185,7 +2193,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/qinglong",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qinglong.png",
-                    "version": "6.0.6"
+                    "version": "6.0.7"
                 },
                 {
                     "name": "quassel-core",
@@ -2225,7 +2233,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.86"
+                    "version": "5.0.92"
                 },
                 {
                     "name": "readarr",
@@ -2233,7 +2241,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/readarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/readarr.png",
-                    "version": "17.0.4"
+                    "version": "17.0.5"
                 },
                 {
                     "name": "recyclarr",
@@ -2345,7 +2353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.161"
+                    "version": "8.0.163"
                 },
                 {
                     "name": "sabnzbd",
@@ -2385,7 +2393,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/searxng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
-                    "version": "4.0.37"
+                    "version": "4.0.38"
                 },
                 {
                     "name": "seedsync",
@@ -2489,7 +2497,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/slash",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/slash.png",
-                    "version": "0.0.3"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "smokeping",
@@ -2673,7 +2681,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tdarr-node",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tdarr-node.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "tdarr",
@@ -4600,14 +4608,6 @@
                     "version": "2.0.16"
                 },
                 {
-                    "name": "jenkins",
-                    "description": "The gold standard in devops tools for running CI/CD pipelines.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/jenkins",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jenkins.png",
-                    "version": "4.0.0"
-                },
-                {
                     "name": "jitsi",
                     "description": "Jitsi is a set of open-source projects that allows you to easily build and deploy secure video conferencing solutions",
                     "train": "incubator",
@@ -5445,7 +5445,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/plextraktsync",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/plextraktsync.png",
-                    "version": "3.0.19"
+                    "version": "4.0.0"
                 },
                 {
                     "name": "plik",
@@ -5685,7 +5685,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/reactive-resume",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/reactive-resume.png",
-                    "version": "2.0.10"
+                    "version": "3.0.0"
                 },
                 {
                     "name": "recipes",
@@ -6528,6 +6528,14 @@
                     "version": "2.0.9"
                 },
                 {
+                    "name": "vocechat-server",
+                    "description": "A superlight rust written social server.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/vocechat-server",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/vocechat-server.png",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "vorta",
                     "description": "Vorta is a backup client for macOS and Linux desktops. It integrates the mighty BorgBackup with your desktop environment to protect your data from disk failure, ransomware and theft.",
                     "train": "incubator",
@@ -6699,7 +6707,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/kube-state-metrics",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kube-state-metrics.png",
-                    "version": "3.0.18"
+                    "version": "3.0.19"
                 },
                 {
                     "name": "mariadb",
@@ -6739,7 +6747,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/redis",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redis.png",
-                    "version": "8.0.24"
+                    "version": "8.0.25"
                 },
                 {
                     "name": "solr",
