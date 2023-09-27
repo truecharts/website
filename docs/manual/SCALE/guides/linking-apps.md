@@ -35,11 +35,11 @@ As well as the above naming, replace `$SVCNAME` with the name of the service you
 
 - `$NAME-$APPNAME-$SVCNAME.ix-$NAME.svc.cluster.local`
 
-Be aware: you'll only be able to reach ports published on the service they are published to - see the Mulitple Services example below for a demonstration of this.
+Be aware: you'll only be able to reach ports published on the service they are published to - see the Multiple Services example below for a demonstration of this.
 
 ## List Internal Domain Names using HeavyScript
 
-HeavyScript is a very useful command-line utility built to help simplify administration of TrueNAS Scale apps.  One of it's many features is being able to list the internal DNS names and ports of your apps. If you are unsure of how names are "built" - then this is by far the easist way to be sure you are using the correct name.
+HeavyScript is a very useful command-line utility built to help simplify administration of TrueNAS Scale apps.  One of it's many features is being able to list the internal DNS names and ports of your apps. If you are unsure of how names are "built" - then this is by far the easist and recommended way to be sure you are using the correct name.
 
 Firstly, install HeavyScript or update your current installation to at least version 2.0.0.  Visit their GitHub repo to find out how: https://github.com/Heavybullets8/heavy_script
 
@@ -93,93 +93,3 @@ So, if you wanted to reach the metrics port, you should use `traefik-metrics.ix-
   allowFullScreen
 ></iframe>
 
-## Internal Domain Name generator
-
-<!-- Start - Link Generator Leave empty line after-->
-
-import { useState, useEffect } from "react";
-export const LinkGenerator = ({ children, color }) => {
-  const [name, setName] = useState("");
-  const [app, setApp] = useState("");
-  const [service, setService] = useState("");
-  const [dns, setDNS] = useState("");
-  const handleSubmit = (event) => {
-    event.preventDefault();
-  };
-  const handleNameChange = (event) => {
-    setName(event.target.value);
-  };
-  const handleAppChange = (event) => {
-    setApp(event.target.value);
-  };
-  const handleServiceChange = (event) => {
-    setService(event.target.value);
-  };
-  useEffect(() => {
-    let svcname = "";
-    if (name.includes(app)) {
-      svcname = name;
-    } else {
-      svcname = name + "-" + app;
-    }
-    if (service) {
-      svcname = svcname + "-" + service;
-    }
-    if (name && app) {
-      let svcdns = svcname + ".ix-" + name + ".svc.cluster.local";
-      setDNS(svcdns);
-    } else {
-      setDNS("");
-    }
-  }, [name, app, service]);
-  function copyToClipboard() {
-    navigator.clipboard.writeText(dns);
-  }
-  return (
-    <div>
-      <div>
-        <span>Internal DNS Generator</span>
-      </div>
-      <form onSubmit={handleSubmit}>
-        <div>
-          <label>App Name</label>
-          <input
-            required
-            id="name"
-            value={name}
-            onChange={handleNameChange}
-            type="text"
-            placeholder="my-plex-app"
-          />
-        </div>
-        <div>
-          <label>Application</label>
-          <input
-            required
-            id="app"
-            value={app}
-            onChange={handleAppChange}
-            type="text"
-            placeholder="plex"
-          />
-        </div>
-        <div>
-          <label>Service (Optional)</label>
-          <input
-            id="service"
-            value={service}
-            onChange={handleServiceChange}
-            type="text"
-            placeholder=""
-          />
-        </div>
-      </form>
-      <span>Internal DNS: {dns} </span>
-      {dns ? <button onClick={copyToClipboard}>Copy</button> : ""}
-    </div>
-  );
-};
-
-<LinkGenerator />
-
-<!-- End - Link Generator Leave empty line before-->
