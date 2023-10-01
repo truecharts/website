@@ -1,8 +1,15 @@
 # searxng
 
-![Version: 4.0.45](https://img.shields.io/badge/Version-4.0.45-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 4.0.46](https://img.shields.io/badge/Version-4.0.46-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
 
 Meta search engine which aggregates results from more than 70 search services.
+
+## Chart Sources
+
+[
+  "https://github.com/truecharts/charts/tree/master/charts/stable/searxng",
+  "https://github.com/searxng/searxng"
+]
 
 ## Available Documentation
 
