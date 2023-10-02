@@ -1,5 +1,5 @@
 {
-    "totalCount": 841,
+    "totalCount": 842,
     "trains": [
         {
             "name": "operators",
@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 381,
+            "count": 382,
             "charts": [
                 {
                     "name": "actualserver",
@@ -164,6 +164,14 @@
                     "version": "5.0.0"
                 },
                 {
+                    "name": "arksurvivalevolved",
+                    "description": "A custom SteamCMD chart that runs ArkSE.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/arksurvivalevolved",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/arksurvivalevolved.png",
+                    "version": "4.0.1"
+                },
+                {
                     "name": "audacity",
                     "description": "An easy-to-use, multi-track audio editor and recorder",
                     "train": "stable",
@@ -177,7 +185,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/audiobookshelf",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/audiobookshelf.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "authentik",
@@ -225,7 +233,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/babybuddy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/babybuddy.png",
-                    "version": "13.0.7"
+                    "version": "13.0.8"
                 },
                 {
                     "name": "baserow",
@@ -345,7 +353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/clamav",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clamav.png",
-                    "version": "7.0.3"
+                    "version": "7.0.4"
                 },
                 {
                     "name": "clarkson",
@@ -409,7 +417,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cops",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cops.png",
-                    "version": "5.0.12"
+                    "version": "5.0.13"
                 },
                 {
                     "name": "couchpotato",
@@ -657,7 +665,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/duckdns",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/duckdns.png",
-                    "version": "6.0.5"
+                    "version": "6.0.6"
                 },
                 {
                     "name": "duplicati",
@@ -793,7 +801,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/firezone",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/firezone.png",
-                    "version": "0.2.2"
+                    "version": "0.2.3"
                 },
                 {
                     "name": "flaresolverr",
@@ -913,7 +921,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ghostfolio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.png",
-                    "version": "0.0.17"
+                    "version": "0.0.18"
                 },
                 {
                     "name": "gitea",
@@ -1345,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.132"
+                    "version": "3.0.134"
                 },
                 {
                     "name": "librespeed",
@@ -1369,7 +1377,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/linkding",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/linkding.png",
-                    "version": "6.0.3"
+                    "version": "6.0.4"
                 },
                 {
                     "name": "littlelink",
@@ -1689,7 +1697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "22.0.29"
+                    "version": "22.0.32"
                 },
                 {
                     "name": "nextpvr",
@@ -1961,7 +1969,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/picoshare",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/picoshare.png",
-                    "version": "6.0.2"
+                    "version": "6.0.3"
                 },
                 {
                     "name": "pihole",
@@ -2089,7 +2097,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/projectsend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.png",
-                    "version": "8.0.10"
+                    "version": "8.0.11"
                 },
                 {
                     "name": "promcord",
@@ -2233,7 +2241,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.94"
+                    "version": "5.0.99"
                 },
                 {
                     "name": "readarr",
@@ -2353,7 +2361,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.178"
+                    "version": "8.0.179"
                 },
                 {
                     "name": "sabnzbd",
@@ -2393,7 +2401,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/searxng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
-                    "version": "4.0.45"
+                    "version": "4.0.47"
                 },
                 {
                     "name": "seedsync",
@@ -2953,7 +2961,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/whisper-asr-webservice",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/whisper-asr-webservice.png",
-                    "version": "1.0.0"
+                    "version": "1.0.2"
                 },
                 {
                     "name": "whoogle",
@@ -3270,14 +3278,6 @@
                     "link": "https://truecharts.org/charts/incubator/archiveteam-warrior",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/archiveteam-warrior.png",
                     "version": "2.0.12"
-                },
-                {
-                    "name": "arksurvivalevolved",
-                    "description": "A custom SteamCMD chart that runs ArkSE.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/arksurvivalevolved",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/arksurvivalevolved.png",
-                    "version": "4.0.0"
                 },
                 {
                     "name": "arma3",
@@ -6232,6 +6232,14 @@
                     "version": "2.0.11"
                 },
                 {
+                    "name": "telepush",
+                    "description": "A simple bot to translate JSON HTTP requests into Telegram push messages.",
+                    "train": "incubator",
+                    "link": "https://truecharts.org/charts/incubator/telepush",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/telepush.png",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "telethon-downloader",
                     "description": "This is a simple Chart that downloads files sent to a telegram bot up to 2000mb using the Telethon library.",
                     "train": "incubator",
@@ -6715,7 +6723,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "9.0.23"
+                    "version": "9.0.24"
                 },
                 {
                     "name": "memcached",
@@ -6739,7 +6747,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/node-exporter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/node-exporter.png",
-                    "version": "3.0.22"
+                    "version": "3.0.23"
                 },
                 {
                     "name": "redis",
