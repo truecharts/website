@@ -32,6 +32,8 @@ The intro needs improvement ;)
 |apt-cacher-ng             |apt-cacher-ng         |PVC      |-              |/var/cache/apt-cacher-ng                             |Read/Write|Enabled                |
 |aria2                     |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |ariang                    |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
+|arksurvivalevolved        |steamcmd              |PVC      |-              |/serverdata/steamcmd                                 |Read/Write|Enabled                |
+|arksurvivalevolved        |serverfiles           |PVC      |-              |/serverdata/serverfiles                              |Read/Write|Enabled                |
 |audacity                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |audiobookshelf            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |audiobookshelf            |audiobooks            |PVC      |-              |/audiobooks                                          |Read/Write|Enabled                |
@@ -445,6 +447,7 @@ The intro needs improvement ;)
 |posterr                   |custom                |PVC      |-              |/usr/src/app/public/custom                           |Read/Write|Enabled                |
 |pretend-youre-xyzzy       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |projectsend               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|projectsend               |projectsend-config    |configmap|-              |/config/projectsend/sys.config.php                   |Read Only |Enabled                |
 |projectsend               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |projectsend               |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |promcord                  |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -696,8 +699,6 @@ The intro needs improvement ;)
 |apprise-api                    |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |appsmith                       |appsmithstacks             |PVC      |-                |/appsmith-stacks                                |Read/Write|Enabled                |
 |archiveteam-warrior            |-                          |-        |-                |-                                               |-         |Persistence not Defined|
-|arksurvivalevolved             |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
-|arksurvivalevolved             |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |arma3                          |profiles                   |PVC      |-                |/serverdata/.local/share                        |Read/Write|Enabled                |
 |arma3                          |serverfiles                |PVC      |-                |/serverdata/serverfiles                         |Read/Write|Enabled                |
 |arma3                          |steamcmd                   |PVC      |-                |/serverdata/steamcmd                            |Read/Write|Enabled                |
@@ -1326,6 +1327,7 @@ The intro needs improvement ;)
 |teamspeak3                     |data                       |PVC      |-                |/var/ts3server                                  |Read/Write|Enabled                |
 |technitium                     |config                     |PVC      |-                |/etc/dns/config                                 |Read/Write|Enabled                |
 |teedy-docs                     |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
+|telepush                       |data                       |PVC      |-                |/srv/data                                       |Read/Write|Enabled                |
 |telethon-downloader            |config                     |PVC      |-                |/config                                         |Read/Write|Enabled                |
 |telethon-downloader            |pathdownload               |PVC      |-                |/download                                       |Read/Write|Enabled                |
 |telethon-downloader            |pathwatch                  |PVC      |-                |/watch                                          |Read/Write|Enabled                |
