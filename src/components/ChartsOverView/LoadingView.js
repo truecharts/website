@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 
-const LoadingView = () => (
+const LoadingView = ({src,msg}) => (
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
-      <img src="/img/loading-aesthetic.gif" alt="Loading" />
-      <p style={{ marginTop: '10px' }}>Loading...</p>
+      <img src={src} alt="loading" />
+      <p style={{ marginTop: '10px' }}>{msg}</p>
     </div>
   );
 export default LoadingView;

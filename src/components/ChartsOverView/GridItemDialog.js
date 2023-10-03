@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-import "../../css/grid.css";
+import './grid.css';
+import HelperUtil, { isLink, getSourceName }  from './HelperUtil.js';
 
 const GridItemDialog = ({selectedChart,onClick}) => {
 
@@ -10,7 +11,7 @@ const GridItemDialog = ({selectedChart,onClick}) => {
             <h3><a href={selectedChart.link} target="_blank" rel="noopener noreferrer">{selectedChart.name}</a></h3>
         </div>
           <div className="card-body" style={{ padding: "1rem" }}>
-            <p class="description">{selectedChart.description}</p>
+            <p class="{gridCss.description}">{selectedChart.description}</p>
             <p>Chart Version: <strong>{selectedChart.version}</strong></p>
           </div>
           <div className="text-center" style={{ padding: "1rem", display: "flex", justifyContent: "flex-end" }}>
