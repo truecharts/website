@@ -6,7 +6,6 @@ const SearchBar = ({ placeHolder,searchTerm,handleSearch, setSelectedOption, vie
 
   return (
     <div style={{ display: 'flex', alignItems: 'center', padding: '16px' }}>
-      
       <input
         id="search-input"
         type="text"

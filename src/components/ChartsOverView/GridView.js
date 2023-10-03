@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 
 import HelperUtil, {capitalizeWords }  from './HelperUtil.js';
 
-import "../../css/grid.css";
+import './grid.css';
 import GridItem from './GridItem.js';
 import GridItemDialog from './GridItemDialog.js';
 import FootCountView from './FootCountView.js';
@@ -26,7 +26,7 @@ let getTrainName = capitalizeWords(train.name);
 return (
         <> 
         <a href={`#${getTrainName}`} id={getTrainName}><h2>{getTrainName}</h2></a><hr />
-        <div className="grid">
+        <div className=".grid">
         {train.charts.map(chart => (
         <GridItem chart={chart} onClick={()=> handleOpenDialog(chart)}/>                
         ))}

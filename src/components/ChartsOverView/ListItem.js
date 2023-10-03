@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import HelperUtil, { isLink, getSourceName } from './HelperUtil.js';
 
 const cardStyles = {
   border: '1px solid #ccc',
@@ -43,14 +44,22 @@ const sourceStyles = {
   margin: '0',
   };
   
-const ListItem = ({ chart }) => (
-  <div style={cardStyles}>
-  <div style={headerStyles}>
-  <h3 style={titleStyles}><a href={chart.link} target="_blank" rel="noopener noreferrer">{chart.name}</a></h3>
-  <img src={chart.icon} alt={chart.name} style={iconStyles} />
-  </div>
-  <p style={descriptionStyles}>{chart.description}</p>
-  <span style={appVersionStyles}>Chart Version: <strong>{chart.version}</strong></span>
-  </div>
+  const ListItem = ({ chart }) => (
+    <div style={cardStyles}>
+      <div style={headerStyles}>
+        <h3 style={titleStyles}>
+          <a href={chart.link} target="_blank" rel="noopener noreferrer">
+            {chart.name}
+          </a>
+        </h3>
+        <img src={chart.icon} alt={chart.name} style={iconStyles} />
+      </div>
+      <p style={descriptionStyles}>{chart.description}</p>
+      <span style={appVersionStyles}>
+        Chart Version: <strong>{chart.version}</strong>
+      </span>
+    </div>
   );
+  
   export default ListItem;
+  
