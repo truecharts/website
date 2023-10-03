@@ -1,8 +1,13 @@
 # jellyfin
 
-![Version: 15.0.9](https://img.shields.io/badge/Version-15.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "10.8.11"](https://img.shields.io/badge/AppVersion-"10.8.11"-informational?style=flat-square)
+![Version: 15.0.10](https://img.shields.io/badge/Version-15.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "10.8.11"](https://img.shields.io/badge/AppVersion-"10.8.11"-informational?style=flat-square)
 
 Jellyfin is a Free Software Media System
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/stable/jellyfin
+- https://github.com/jellyfin/jellyfin
 
 ## Available Documentation
 
