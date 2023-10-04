@@ -818,6 +818,11 @@ The intro needs improvement ;)
 |debian-bullseye                |homedirectory              |PVC      |-                |/debian                                         |Read/Write|Enabled                |
 |dispatch                       |data                       |PVC      |-                |/data                                           |Read/Write|Enabled                |
 |dns-doh-companion              |-                          |-        |-                |-                                               |-         |Persistence not Defined|
+|docassemble                    |config                     |PVC      |-                |/usr/share/docassemble/config                   |Read/Write|Enabled                |
+|docassemble                    |webapp                     |PVC      |-                |/usr/share/docassemble/webapp                   |Read/Write|Enabled                |
+|docassemble                    |log                        |PVC      |-                |/usr/share/docassemble/log                      |Read/Write|Enabled                |
+|docassemble                    |backup                     |PVC      |-                |/usr/share/docassemble/backup                   |Read/Write|Enabled                |
+|docassemble                    |files                      |PVC      |-                |/usr/share/docassemble/files                    |Read/Write|Enabled                |
 |docker-hub-rss                 |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |dockerregistry                 |datastoragepath            |PVC      |-                |/var/lib/registry                               |Read/Write|Enabled                |
 |docspell                       |server                     |secret   |-                |/opt/server.conf                                |Read Only |Enabled                |
