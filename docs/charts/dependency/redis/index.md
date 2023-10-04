@@ -1,8 +1,14 @@
 # redis
 
-![Version: 8.0.27](https://img.shields.io/badge/Version-8.0.27-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "7.2.1"](https://img.shields.io/badge/AppVersion-"7.2.1"-informational?style=flat-square)
+![Version: 8.0.28](https://img.shields.io/badge/Version-8.0.28-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "7.2.1"](https://img.shields.io/badge/AppVersion-"7.2.1"-informational?style=flat-square)
 
 Open source, advanced key-value store.
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/dependency/redis
+- https://github.com/bitnami/bitnami-docker-redis
+- http://redis.io/
 
 ## Available Documentation
 
