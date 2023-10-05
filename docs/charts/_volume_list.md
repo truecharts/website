@@ -1274,6 +1274,7 @@ The intro needs improvement ;)
 |sinusbot                       |data                       |PVC      |-                |/opt/sinusbot/data                              |Read/Write|Enabled                |
 |sinusbot                       |scriptspath                |PVC      |-                |/opt/sinusbot/scripts                           |Read/Write|Enabled                |
 |slack-invite                   |-                          |-        |-                |-                                               |-         |Persistence not Defined|
+|smtp-relay                     |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |snipe-it                       |logs                       |PVC      |-                |/var/www/html/storage/logs                      |Read/Write|Enabled                |
 |snipe-it                       |data                       |PVC      |-                |/var/lib/snipeit/data                           |Read/Write|Enabled                |
 |snipe-it                       |backups                    |PVC      |-                |/var/lib/snipeit/dumps                          |Read/Write|Enabled                |
