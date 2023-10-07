@@ -1,8 +1,13 @@
 # romm
 
-![Version: 2.0.4](https://img.shields.io/badge/Version-2.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.10.0"](https://img.shields.io/badge/AppVersion-"1.10.0"-informational?style=flat-square)
+![Version: 2.0.5](https://img.shields.io/badge/Version-2.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.10.0"](https://img.shields.io/badge/AppVersion-"1.10.0"-informational?style=flat-square)
 
 game library manager focused in retro gaming
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/stable/romm
+- https://github.com/zurdi15/romm
 
 ## Available Documentation
 

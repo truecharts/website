@@ -2,6 +2,15 @@
 
 
 
+## [retrobot-5.0.1](https://github.com/truecharts/charts/compare/retrobot-5.0.0...retrobot-5.0.1) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 
 ## [retrobot-5.0.0](https://github.com/truecharts/charts/compare/retrobot-4.0.25...retrobot-5.0.0) (2023-07-31)
 

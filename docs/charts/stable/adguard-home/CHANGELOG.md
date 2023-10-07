@@ -2,6 +2,15 @@
 
 
 
+## [adguard-home-6.0.4](https://github.com/truecharts/charts/compare/adguard-home-6.0.3...adguard-home-6.0.4) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 ## [adguard-home-6.0.3](https://github.com/truecharts/charts/compare/adguard-home-6.0.2...adguard-home-6.0.3) (2023-09-12)
 
 ### Chore

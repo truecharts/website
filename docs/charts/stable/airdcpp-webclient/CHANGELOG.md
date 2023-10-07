@@ -2,6 +2,15 @@
 
 
 
+## [airdcpp-webclient-7.0.1](https://github.com/truecharts/charts/compare/airdcpp-webclient-7.0.0...airdcpp-webclient-7.0.1) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 
 ## [airdcpp-webclient-7.0.0](https://github.com/truecharts/charts/compare/airdcpp-webclient-6.0.26...airdcpp-webclient-7.0.0) (2023-07-31)
 

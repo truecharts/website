@@ -2,6 +2,15 @@
 
 
 
+## [golinks-8.0.1](https://github.com/truecharts/charts/compare/golinks-8.0.0...golinks-8.0.1) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 
 ## [golinks-8.0.0](https://github.com/truecharts/charts/compare/golinks-7.0.24...golinks-8.0.0) (2023-07-31)
 

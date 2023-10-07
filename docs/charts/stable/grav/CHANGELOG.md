@@ -2,6 +2,15 @@
 
 
 
+## [grav-8.0.12](https://github.com/truecharts/charts/compare/grav-8.0.11...grav-8.0.12) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 ## [grav-8.0.11](https://github.com/truecharts/charts/compare/grav-8.0.10...grav-8.0.11) (2023-10-07)
 
 ### Chore

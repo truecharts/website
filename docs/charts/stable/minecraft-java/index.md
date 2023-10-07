@@ -1,8 +1,13 @@
 # minecraft-java
 
-![Version: 5.0.1](https://img.shields.io/badge/Version-5.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2023.8.3"](https://img.shields.io/badge/AppVersion-"2023.8.3"-informational?style=flat-square)
+![Version: 5.0.2](https://img.shields.io/badge/Version-5.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2023.8.3"](https://img.shields.io/badge/AppVersion-"2023.8.3"-informational?style=flat-square)
 
 Minecraft Java Dedicated Server
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-java
+- https://github.com/itzg/docker-minecraft-server
 
 ## Available Documentation
 

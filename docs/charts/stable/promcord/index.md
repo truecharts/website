@@ -1,8 +1,13 @@
 # promcord
 
-![Version: 8.0.0](https://img.shields.io/badge/Version-8.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 8.0.1](https://img.shields.io/badge/Version-8.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
 
 Discord bot that provides metrics from a Discord server
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/stable/promcord
+- https://github.com/nimarion/promcord
 
 ## Available Documentation
 

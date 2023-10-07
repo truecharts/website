@@ -1,8 +1,13 @@
 # frigate
 
-![Version: 10.0.0](https://img.shields.io/badge/Version-10.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.12.1"](https://img.shields.io/badge/AppVersion-"0.12.1"-informational?style=flat-square)
+![Version: 10.0.1](https://img.shields.io/badge/Version-10.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.12.1"](https://img.shields.io/badge/AppVersion-"0.12.1"-informational?style=flat-square)
 
 NVR With Realtime Object Detection for IP Cameras
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/stable/frigate
+- https://github.com/blakeblackshear/frigate
 
 ## Available Documentation
 

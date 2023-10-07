@@ -2,6 +2,15 @@
 
 
 
+## [hyperion-ng-10.0.1](https://github.com/truecharts/charts/compare/hyperion-ng-10.0.0...hyperion-ng-10.0.1) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 
 ## [hyperion-ng-10.0.0](https://github.com/truecharts/charts/compare/hyperion-ng-9.0.25...hyperion-ng-10.0.0) (2023-07-31)
 

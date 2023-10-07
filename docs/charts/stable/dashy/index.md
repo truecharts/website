@@ -1,8 +1,13 @@
 # dashy
 
-![Version: 3.0.16](https://img.shields.io/badge/Version-3.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.1.1"](https://img.shields.io/badge/AppVersion-"2.1.1"-informational?style=flat-square)
+![Version: 3.0.17](https://img.shields.io/badge/Version-3.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.1.1"](https://img.shields.io/badge/AppVersion-"2.1.1"-informational?style=flat-square)
 
 Dashy helps you organize your self-hosted services by making them accessible from a single place
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/stable/dashy
+- https://github.com/Lissy93/dashy
 
 ## Available Documentation
 

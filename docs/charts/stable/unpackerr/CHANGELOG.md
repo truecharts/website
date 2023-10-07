@@ -2,6 +2,15 @@
 
 
 
+## [unpackerr-10.0.1](https://github.com/truecharts/charts/compare/unpackerr-10.0.0...unpackerr-10.0.1) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 
 ## [unpackerr-10.0.0](https://github.com/truecharts/charts/compare/unpackerr-9.0.26...unpackerr-10.0.0) (2023-07-31)
 

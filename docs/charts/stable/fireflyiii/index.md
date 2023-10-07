@@ -1,8 +1,13 @@
 # fireflyiii
 
-![Version: 21.0.6](https://img.shields.io/badge/Version-21.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "6.0.26"](https://img.shields.io/badge/AppVersion-"6.0.26"-informational?style=flat-square)
+![Version: 21.0.7](https://img.shields.io/badge/Version-21.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "6.0.26"](https://img.shields.io/badge/AppVersion-"6.0.26"-informational?style=flat-square)
 
 A free and open source personal finance manager
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/stable/fireflyiii
+- https://github.com/firefly-iii/firefly-iii/
 
 ## Available Documentation
 

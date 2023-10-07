@@ -2,6 +2,15 @@
 
 
 
+## [wizarr-3.0.1](https://github.com/truecharts/charts/compare/wizarr-3.0.0...wizarr-3.0.1) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 
 ## [wizarr-3.0.0](https://github.com/truecharts/charts/compare/wizarr-2.0.2...wizarr-3.0.0) (2023-07-31)
 

@@ -1,8 +1,13 @@
 # discordgsm
 
-![Version: 4.0.1](https://img.shields.io/badge/Version-4.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.14.0"](https://img.shields.io/badge/AppVersion-"2.14.0"-informational?style=flat-square)
+![Version: 4.0.2](https://img.shields.io/badge/Version-4.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.14.0"](https://img.shields.io/badge/AppVersion-"2.14.0"-informational?style=flat-square)
 
 A discord bot that monitors your game server and tracks the live data of your game servers.
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/stable/discordgsm
+- https://github.com/DiscordGSM/GameServerMonitor
 
 ## Available Documentation
 

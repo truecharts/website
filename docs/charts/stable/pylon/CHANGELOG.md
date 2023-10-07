@@ -2,6 +2,15 @@
 
 
 
+## [pylon-6.0.9](https://github.com/truecharts/charts/compare/pylon-6.0.8...pylon-6.0.9) (2023-10-07)
+
+### Chore
+
+- update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
+  
+  
+
+
 ## [pylon-6.0.8](https://github.com/truecharts/charts/compare/pylon-6.0.7...pylon-6.0.8) (2023-10-03)
 
 ### Chore
