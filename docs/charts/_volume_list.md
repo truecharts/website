@@ -250,6 +250,7 @@ The intro needs improvement ;)
 |kasm                      |varrun                |emptyDir |-              |/var/run                                             |Read/Write|Enabled                |
 |kavita                    |config                |PVC      |-              |/kavita/config                                       |Read/Write|Enabled                |
 |kavita                    |manga                 |PVC      |-              |/manga                                               |Read/Write|Enabled                |
+|kavita                    |tmp                   |PVC      |-              |-                                                    |Read/Write|Persistence is Disabled|
 |kitchenowl                |data                  |PVC      |-              |-                                                    |Read/Write|Mount Path not Defined |
 |kiwix-serve               |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |kms                       |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
@@ -1004,6 +1005,7 @@ The intro needs improvement ;)
 |kerio-connect                  |kerio-connect              |PVC      |-                |/backup                                         |Read/Write|Enabled                |
 |kimai                          |data                       |PVC      |-                |/opt/kimai/var/data                             |Read/Write|Enabled                |
 |kimai                          |plugins                    |PVC      |-                |/opt/kimai/var/plugins                          |Read/Write|Enabled                |
+|kimai                          |varlock                    |emptyDir |-                |/var/lock                                       |Read/Write|Enabled                |
 |kitana                         |data                       |PVC      |-                |/app/data                                       |Read/Write|Enabled                |
 |koel                           |music                      |PVC      |-                |/music                                          |Read/Write|Enabled                |
 |koel                           |covers                     |PVC      |-                |/var/www/html/public/img/covers                 |Read/Write|Enabled                |
@@ -1108,9 +1110,9 @@ The intro needs improvement ;)
 |observium                      |observium                  |PVC      |-                |/opt/observium/rrd                              |Read/Write|Enabled                |
 |obsidian                       |storageconfig              |PVC      |-                |/config/.config/obsidian                        |Read/Write|Enabled                |
 |obsidian                       |storagevaults              |PVC      |-                |/vaults                                         |Read/Write|Enabled                |
-|odoo                           |odoo                       |PVC      |-                |/var/lib/odoo                                   |Read/Write|Enabled                |
-|odoo                           |addons                     |PVC      |-                |/mnt/extra-addons                               |Read/Write|Enabled                |
-|odoo                           |odoo-config                |configmap|-                |/etc/odoo/odoo.conf                             |Read Only |Enabled                |
+|odoo                           |odoo                       |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
+|odoo                           |addons                     |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
+|odoo                           |odoo-config                |PVC      |-                |-                                               |Read/Write|Mount Path not Defined |
 |onlinecheckyourserver          |-                          |-        |-                |-                                               |-         |Persistence not Defined|
 |openaudible                    |config                     |PVC      |-                |/config/OpenAudible                             |Read/Write|Enabled                |
 |openbooks                      |books                      |PVC      |-                |/books/books                                    |Read/Write|Enabled                |
@@ -1178,6 +1180,10 @@ The intro needs improvement ;)
 |privatebin                     |conf-php                   |custom   |-                |/etc/php8/conf.d/10-sizelimits.ini              |Read Only |Enabled                |
 |privatebin                     |conf-nginx                 |custom   |-                |/etc/nginx/conf.d/sizelimits.conf               |Read Only |Enabled                |
 |projectzomboidreporter-frontend|-                          |-        |-                |-                                               |-         |Persistence not Defined|
+|proxmox-backup-server          |config                     |PVC      |-                |/etc/proxmox-backup                             |Read/Write|Enabled                |
+|proxmox-backup-server          |lib                        |emptyDir |-                |/var/lib/proxmox-backup                         |Read/Write|Enabled                |
+|proxmox-backup-server          |log                        |emptyDir |-                |/var/log/proxmox-backup                         |Read/Write|Enabled                |
+|proxmox-backup-server          |run                        |emptyDir |-                |/run                                            |Read/Write|Enabled                |
 |prpdf                          |config                     |PVC      |-                |/source/config                                  |Read/Write|Enabled                |
 |prpdf                          |files                      |PVC      |-                |/Archiv/                                        |Read/Write|Enabled                |
 |prpdf                          |hostpath2                  |PVC      |-                |/source/static/pdf/                             |Read/Write|Enabled                |
