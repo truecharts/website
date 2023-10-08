@@ -2,6 +2,15 @@
 
 
 
+## [redis-8.0.31](https://github.com/truecharts/charts/compare/redis-8.0.30...redis-8.0.31) (2023-10-08)
+
+### Chore
+
+- update helm chart common to 14.0.12 ([#13395](https://github.com/truecharts/charts/issues/13395))
+  
+  
+
+
 ## [redis-8.0.30](https://github.com/truecharts/charts/compare/redis-8.0.29...redis-8.0.30) (2023-10-07)
 
 ### Chore
