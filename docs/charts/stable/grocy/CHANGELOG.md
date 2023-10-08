@@ -2,6 +2,15 @@
 
 
 
+## [grocy-15.0.12](https://github.com/truecharts/charts/compare/grocy-15.0.11...grocy-15.0.12) (2023-10-08)
+
+### Chore
+
+- update container image tccr.io/truecharts/grocy to v4.0.3 ([#13405](https://github.com/truecharts/charts/issues/13405))
+  
+  
+
+
 ## [grocy-15.0.11](https://github.com/truecharts/charts/compare/grocy-15.0.10...grocy-15.0.11) (2023-10-07)
 
 ### Chore
