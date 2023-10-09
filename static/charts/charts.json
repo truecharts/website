@@ -233,7 +233,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/babybuddy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/babybuddy.png",
-                    "version": "13.0.9"
+                    "version": "13.0.10"
                 },
                 {
                     "name": "baserow",
@@ -417,7 +417,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cops",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cops.png",
-                    "version": "5.0.14"
+                    "version": "5.0.15"
                 },
                 {
                     "name": "couchpotato",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.7"
+                    "version": "9.0.9"
                 },
                 {
                     "name": "cyberchef",
@@ -665,7 +665,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/duckdns",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/duckdns.png",
-                    "version": "6.0.7"
+                    "version": "6.0.8"
                 },
                 {
                     "name": "duplicati",
@@ -689,7 +689,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/embystat",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/embystat.png",
-                    "version": "6.0.5"
+                    "version": "6.0.6"
                 },
                 {
                     "name": "emulatorjs",
@@ -921,7 +921,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ghostfolio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.png",
-                    "version": "0.0.20"
+                    "version": "0.0.21"
                 },
                 {
                     "name": "gitea",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.8"
+                    "version": "15.0.10"
                 },
                 {
                     "name": "jdownloader2",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.159"
+                    "version": "3.0.161"
                 },
                 {
                     "name": "librespeed",
@@ -1545,7 +1545,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/minio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/minio.png",
-                    "version": "7.0.15"
+                    "version": "7.0.16"
                 },
                 {
                     "name": "minisatip",
@@ -1697,7 +1697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "22.0.36"
+                    "version": "22.0.37"
                 },
                 {
                     "name": "nextpvr",
@@ -2241,7 +2241,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.103"
+                    "version": "5.0.108"
                 },
                 {
                     "name": "readarr",
@@ -2753,7 +2753,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/transmission",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/transmission.png",
-                    "version": "17.0.1"
+                    "version": "17.0.2"
                 },
                 {
                     "name": "trilium-notes",
@@ -2929,7 +2929,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.119"
+                    "version": "6.0.120"
                 },
                 {
                     "name": "wekan",
@@ -2993,7 +2993,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wizarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wizarr.png",
-                    "version": "3.0.1"
+                    "version": "3.0.2"
                 },
                 {
                     "name": "wordpress",
@@ -3111,7 +3111,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/authelia",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png",
-                    "version": "19.0.1"
+                    "version": "19.0.3"
                 },
                 {
                     "name": "blocky",
@@ -5532,7 +5532,7 @@
                     "description": "Container for proxmox backup server",
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/proxmox-backup-server",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pbs",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/proxmox-backup-server.png",
                     "version": "0.0.1"
                 },
                 {
