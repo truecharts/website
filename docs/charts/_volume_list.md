@@ -641,6 +641,8 @@ The intro needs improvement ;)
 |wikijs                    |wikicache             |emptyDir |-              |/wiki/data/                                          |Read/Write|Enabled                |
 |wireguard                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |wizarr                    |database              |PVC      |-              |/data/database                                       |Read/Write|Enabled                |
+|wizarr                    |varrun                |emptyDir |-              |-                                                    |Read/Write|Persistence is Disabled|
+|wizarr                    |nginxrun              |emptyDir |-              |/run/nginx                                           |Read/Write|Enabled                |
 |wordpress                 |config                |PVC      |-              |/bitnami/wordpress                                   |Read/Write|Enabled                |
 |wyoming-piper             |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |wyoming-whisper           |config                |PVC      |-              |/data                                                |Read/Write|Enabled                |
