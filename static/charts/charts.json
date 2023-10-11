@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 382,
+            "count": 383,
             "charts": [
                 {
                     "name": "actualserver",
@@ -273,7 +273,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/boinc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/boinc.png",
-                    "version": "6.0.11"
+                    "version": "6.0.12"
                 },
                 {
                     "name": "booksonic-air",
@@ -321,7 +321,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.0.18"
+                    "version": "11.0.19"
                 },
                 {
                     "name": "channels-dvr",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.11"
+                    "version": "9.0.12"
                 },
                 {
                     "name": "cyberchef",
@@ -513,7 +513,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ddns-go",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ddns-go.png",
-                    "version": "6.0.5"
+                    "version": "6.0.6"
                 },
                 {
                     "name": "ddns-updater",
@@ -1121,7 +1121,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/invidious",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png",
-                    "version": "6.0.8"
+                    "version": "6.0.9"
                 },
                 {
                     "name": "ipfs",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.12"
+                    "version": "15.0.13"
                 },
                 {
                     "name": "jdownloader2",
@@ -1225,7 +1225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jupyter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jupyter.png",
-                    "version": "5.0.33"
+                    "version": "5.0.34"
                 },
                 {
                     "name": "kanboard",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.163"
+                    "version": "3.0.167"
                 },
                 {
                     "name": "librespeed",
@@ -1617,7 +1617,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mstream",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mstream.png",
-                    "version": "7.0.11"
+                    "version": "7.0.12"
                 },
                 {
                     "name": "muse",
@@ -1817,7 +1817,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/omada-controller",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png",
-                    "version": "10.0.14"
+                    "version": "10.0.15"
                 },
                 {
                     "name": "ombi",
@@ -2161,7 +2161,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pylon",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pylon.png",
-                    "version": "6.0.9"
+                    "version": "6.0.10"
                 },
                 {
                     "name": "qbitmanage",
@@ -2177,7 +2177,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/qbitrr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qbitrr.png",
-                    "version": "0.0.10"
+                    "version": "0.0.11"
                 },
                 {
                     "name": "qbittorrent",
@@ -2361,7 +2361,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.192"
+                    "version": "8.0.193"
                 },
                 {
                     "name": "sabnzbd",
@@ -2401,7 +2401,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/searxng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
-                    "version": "4.0.52"
+                    "version": "4.0.54"
                 },
                 {
                     "name": "seedsync",
@@ -2548,6 +2548,14 @@
                     "version": "16.0.3"
                 },
                 {
+                    "name": "spaceengineers",
+                    "description": "Space Engineers Dedicated Server.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/spaceengineers",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/spaceengineers.png",
+                    "version": "3.0.3"
+                },
+                {
                     "name": "speedtest-exporter",
                     "description": "Speedtest Exporter made in python using the official speedtest bin",
                     "train": "stable",
@@ -2625,7 +2633,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/synclounge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/synclounge.png",
-                    "version": "6.0.4"
+                    "version": "6.0.5"
                 },
                 {
                     "name": "syncthing",
@@ -2809,7 +2817,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ubooquity",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ubooquity.png",
-                    "version": "7.0.8"
+                    "version": "7.0.9"
                 },
                 {
                     "name": "unifi",
@@ -2929,7 +2937,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.124"
+                    "version": "6.0.127"
                 },
                 {
                     "name": "wekan",
@@ -3135,7 +3143,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "9.0.25"
+                    "version": "9.0.26"
                 },
                 {
                     "name": "metallb-config",
@@ -3151,7 +3159,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/prometheus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png",
-                    "version": "13.0.5"
+                    "version": "13.0.6"
                 },
                 {
                     "name": "traefik",
@@ -3173,7 +3181,7 @@
         },
         {
             "name": "incubator",
-            "count": 443,
+            "count": 442,
             "charts": [
                 {
                     "name": "acestream",
@@ -4105,11 +4113,11 @@
                 },
                 {
                     "name": "filestash",
-                    "description": "A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...",
+                    "description": "A Dropbox-like file manager that let you manage your data anywhere it is located.",
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/filestash",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/filestash.png",
-                    "version": "2.0.17"
+                    "version": "3.0.0"
                 },
                 {
                     "name": "filezilla",
@@ -6056,14 +6064,6 @@
                     "version": "2.0.18"
                 },
                 {
-                    "name": "spaceengineers",
-                    "description": "Space Engineers Dedicated Server.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/spaceengineers",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/spaceengineers.png",
-                    "version": "3.0.2"
-                },
-                {
                     "name": "speedtest-tracker",
                     "description": "A self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.",
                     "train": "incubator",
@@ -6739,7 +6739,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/kube-state-metrics",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kube-state-metrics.png",
-                    "version": "3.0.25"
+                    "version": "3.0.26"
                 },
                 {
                     "name": "mariadb",
