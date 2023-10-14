@@ -2,6 +2,15 @@
 
 
 
+## [firefox-7.0.11](https://github.com/truecharts/charts/compare/firefox-7.0.10...firefox-7.0.11) (2023-10-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/firefox to v116.0.3 ([#13627](https://github.com/truecharts/charts/issues/13627))
+  
+  
+
+
 ## [firefox-7.0.10](https://github.com/truecharts/charts/compare/firefox-7.0.9...firefox-7.0.10) (2023-10-07)
 
 ### Chore
