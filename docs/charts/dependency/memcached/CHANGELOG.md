@@ -2,6 +2,15 @@
 
 
 
+## [memcached-8.0.31](https://github.com/truecharts/charts/compare/memcached-8.0.30...memcached-8.0.31) (2023-10-15)
+
+### Chore
+
+- update helm chart common to 14.0.14 ([#13628](https://github.com/truecharts/charts/issues/13628))
+  
+  
+
+
 ## [memcached-8.0.30](https://github.com/truecharts/charts/compare/memcached-8.0.29...memcached-8.0.30) (2023-10-09)
 
 ### Chore
