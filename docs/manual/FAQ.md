@@ -80,9 +80,9 @@ please submit a PR as demonstrated in the [Contribution Example](https://truecha
 
 There are two ways to do this:
 
-1. Submit an order for a chart request using the page on [Open Collective](https://opencollective.com/truecharts/contribute/order-a-chart-60271). More information can be found in the **#chart-requests** channel of our [discord](/s/discord) or by emailing orders@truecharts.org if you'd like to discuss further.
+1. Submit an order for a chart request using the page on [Open Collective](https://opencollective.com/truecharts/contribute/order-a-chart-60271). More information can be found in the **#chart-requests** channel of our [discord](https://truecharts.org/s/discord) or by emailing orders@truecharts.org if you'd like to discuss further.
 
-2. Build the app yourself (or have someone you know build it for you) and request to have it added to the project via a github PR. You can check the **#development** channel of our [discord](/s/discord) and create a thread if you'd like information about this.
+2. Build the app yourself (or have someone you know build it for you) and request to have it added to the project via a github PR. You can check the **#development** channel of our [discord](https://truecharts.org/s/discord) and create a thread if you'd like information about this.
 
 The exception to the above are more complex Kubernetes ecosystem changes e.g. Kubernetes extensions, new metrics opens, databases, etc. You're still free to discuss these in the **#development** channel of our discord linked above.
 

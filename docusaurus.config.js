@@ -171,7 +171,7 @@ const config = {
             label: "Charts"
           },
           {
-            href: "/s/shop",
+            href: "https://truecharts.org/s/shop",
             label: "Merch/Store",
             position: "left"
           },
@@ -198,19 +198,19 @@ const config = {
             items: [
               {
                 label: "Twitter",
-                href: "/s/twitter",
+                href: "https://truecharts.org/s/twitter",
               },
               {
                 label: "Discord",
-                href: "/s/discord",
+                href: "https://truecharts.org/s/discord",
               },
               {
                 label: "Facebook",
-                href: "/s/fb",
+                href: "https://truecharts.org/s/fb",
               },
               {
                 label: "Telegram",
-                href: "/s/tg",
+                href: "https://truecharts.org/s/tg",
               },
             ],
           },

@@ -37,5 +37,5 @@ The cloudnative-pg operator is required for any applications that utilize postgr
 
 1. Follow the [CNPG Operator Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) to migrate to the new CNPG operator. Ensure you follow the guide carefully as data loss can occur with this migration if proper steps are not followed.
 
-*If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](/s/discord) as normal.*
+*If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](https://truecharts.org/s/discord) as normal.*
 
