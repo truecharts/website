@@ -44,27 +44,27 @@ const socialMediaData = [
   {
     title: "twitter",
     icon: BsTwitter,
-    href: "https://twitter.com/useTrueCharts",
+    href: "/s/twitter",
   },
   {
     title: "discord",
     icon: BsDiscord,
-    href: "https://discord.gg/tVsPTHWTtr",
+    href: "/s/discord",
   },
   {
     title: "telegram",
     icon: BsTelegram,
-    href: "https://t.me/s/truecharts",
+    href: "/s/tg",
   },
   {
     title: "facebook",
     icon: BsFacebook,
-    href: "https://www.facebook.com/truecharts",
+    href: "s/fb",
   },
   {
     title: "github",
     icon: BsGithub,
-    href: "https://github.com/truecharts/apps",
+    href: "https://github.com/truecharts/charts",
   },
 ];
 
