@@ -23,7 +23,7 @@ WARNING: THIS CHART IS NOT MEANT TO BE INSTALLED DIRECTLY
 
 - Please check our [quick-start guides](https://truecharts.org/manual/Quick-Start%20Guides/01-Adding-TrueCharts/) first.
 - See the [Wiki](https://truecharts.org)
-- Check our [Discord](/s/discord)
+- Check our [Discord](https://truecharts.org//s/discord)
 - Open a [issue](https://github.com/truecharts/apps/issues/new/choose)
 
 ---
