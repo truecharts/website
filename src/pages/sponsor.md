@@ -1,6 +1,6 @@
 # Sponsor Us
 
-Opensource projects live and die with community support. To ensure TrueCharts can continue it's great effort to become the best resource for Helm Charts and TrueNAS SCALE Apps, we aim to become fully self-funding in the future. TrueCharts manages it's finances through our [Open Collective](https://opencollective.com/truecharts) page, in order to make our finances transparent and visible for all.
+Opensource projects live and die with community support. To ensure TrueCharts can continue it's great effort to become the best resource for Helm Charts and TrueNAS SCALE Apps, we aim to become fully self-funding in the future. TrueCharts manages it's finances through our [Open Collective](https://truecharts.org/s/oc) page, in order to make our finances transparent and visible for all.
 
 ## Project Sponsorship and donations
 
@@ -10,10 +10,10 @@ A sponsor gets a more-or-less little reward for their investment into our projec
 
 You can become a sponsor of TrueCharts or make a project donation using one of the following channels:
 
-[Open Collective](https://opencollective.com/truecharts)
+[Open Collective](https://truecharts.org/s/oc)
 
-[Patreon](https://patreon.com/truecharts)
+[Patreon](https://truecharts.org/s/patreon)
 
-[Github Sponsors](https://github.com/sponsors/truecharts)
+[Github Sponsors](https://truecharts.org/s/ghs)
 
-If you have a choice we prefer [Open Collective](https://opencollective.com/truecharts) or [Github Sponsors](https://github.com/sponsors/truecharts) since [Patreon](https://patreon.com/truecharts) has more fees for everyone, however nothing is discouraged.
+If you have a choice we prefer [Open Collective](https://truecharts.org/s/oc) or [Github Sponsors](https://truecharts.org/s/ghs) since [Patreon](https://truecharts.org/s/patreon) has more fees for everyone, however nothing is discouraged.
