@@ -273,7 +273,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/boinc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/boinc.png",
-                    "version": "6.0.12"
+                    "version": "6.0.13"
                 },
                 {
                     "name": "booksonic-air",
@@ -321,7 +321,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.0.20"
+                    "version": "11.0.21"
                 },
                 {
                     "name": "channels-dvr",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.17"
+                    "version": "9.0.18"
                 },
                 {
                     "name": "cyberchef",
@@ -489,7 +489,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dashy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dashy.png",
-                    "version": "3.0.18"
+                    "version": "3.0.19"
                 },
                 {
                     "name": "davos",
@@ -601,7 +601,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/docker-compose",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/docker-compose.png",
-                    "version": "7.0.14"
+                    "version": "7.0.15"
                 },
                 {
                     "name": "docusaurus",
@@ -713,7 +713,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/esphome",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/esphome.png",
-                    "version": "15.0.8"
+                    "version": "15.0.9"
                 },
                 {
                     "name": "etesync",
@@ -1145,7 +1145,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ispy-agent-dvr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ispy-agent-dvr.png",
-                    "version": "6.0.12"
+                    "version": "6.0.14"
                 },
                 {
                     "name": "it-tools",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.18"
+                    "version": "15.0.19"
                 },
                 {
                     "name": "jdownloader2",
@@ -1225,7 +1225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jupyter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jupyter.png",
-                    "version": "5.0.35"
+                    "version": "5.0.38"
                 },
                 {
                     "name": "kanboard",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.184"
+                    "version": "3.0.190"
                 },
                 {
                     "name": "librespeed",
@@ -1385,7 +1385,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "10.0.25"
+                    "version": "10.0.26"
                 },
                 {
                     "name": "lldap",
@@ -1545,7 +1545,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/minio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/minio.png",
-                    "version": "7.0.17"
+                    "version": "7.0.18"
                 },
                 {
                     "name": "minisatip",
@@ -1617,7 +1617,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mstream",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mstream.png",
-                    "version": "7.0.12"
+                    "version": "7.0.13"
                 },
                 {
                     "name": "muse",
@@ -2161,7 +2161,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pylon",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pylon.png",
-                    "version": "6.0.10"
+                    "version": "6.0.11"
                 },
                 {
                     "name": "qbitmanage",
@@ -2361,7 +2361,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.204"
+                    "version": "8.0.208"
                 },
                 {
                     "name": "sabnzbd",
@@ -2385,7 +2385,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/scrutiny",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png",
-                    "version": "7.0.1"
+                    "version": "7.0.2"
                 },
                 {
                     "name": "seafile",
@@ -2633,7 +2633,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/synclounge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/synclounge.png",
-                    "version": "6.0.5"
+                    "version": "6.0.6"
                 },
                 {
                     "name": "syncthing",
@@ -2817,7 +2817,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ubooquity",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ubooquity.png",
-                    "version": "7.0.9"
+                    "version": "7.0.10"
                 },
                 {
                     "name": "unifi",
@@ -2937,7 +2937,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.139"
+                    "version": "6.0.141"
                 },
                 {
                     "name": "wekan",
@@ -6755,7 +6755,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/memcached",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/memcached.png",
-                    "version": "8.0.31"
+                    "version": "8.0.32"
                 },
                 {
                     "name": "mongodb",
