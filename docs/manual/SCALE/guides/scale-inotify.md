@@ -1,6 +1,6 @@
-# Setting Inotify in Scale
+# Setting Inotify in SCALE
 
-Setting the inotify settings in Scale can help assist with some app deployment issues and performance problems.
+Setting the inotify settings in SCALE can help assist with some app deployment issues and performance problems.
 It should be noted this is not a magic fix all.
 
   **To check your current values you can do the following**
@@ -8,7 +8,7 @@ It should be noted this is not a magic fix all.
     cat /proc/sys/fs/inotify/max_user_watches
     cat /proc/sys/fs/inotify/max_user_instances
 
-By default on Scale BlueFin these will likely return **8129** and **128** respectively. This will be too low for most users.
+By default on SCALE BlueFin these will likely return **8129** and **128** respectively. This will be too low for most users.
 
 **To change these values head to system settings**
 
