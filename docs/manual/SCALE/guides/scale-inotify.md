@@ -14,7 +14,7 @@ By default on Scale BlueFin these will likely return **8129** and **128** respec
 
 system settings > advanced Settings > sysctl section.
 
-It Should be noted that adjusting these values will slightly increase ram usage.
+It should be noted that adjusting these values will slightly increase ram usage.
   
 Good values to start with would be:
 
