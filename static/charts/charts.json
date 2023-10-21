@@ -257,7 +257,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/beets",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/beets.png",
-                    "version": "8.0.13"
+                    "version": "8.0.14"
                 },
                 {
                     "name": "blog",
@@ -321,7 +321,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.0.21"
+                    "version": "11.0.22"
                 },
                 {
                     "name": "channels-dvr",
@@ -433,7 +433,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/crafty-4",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/crafty-4.png",
-                    "version": "4.0.1"
+                    "version": "4.0.2"
                 },
                 {
                     "name": "cryptofolio",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.20"
+                    "version": "9.0.21"
                 },
                 {
                     "name": "cyberchef",
@@ -577,7 +577,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/dillinger",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/dillinger.png",
-                    "version": "6.0.9"
+                    "version": "6.0.10"
                 },
                 {
                     "name": "discordgsm",
@@ -657,7 +657,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/drawio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/drawio.png",
-                    "version": "6.0.13"
+                    "version": "6.0.14"
                 },
                 {
                     "name": "duckdns",
@@ -753,7 +753,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/filebot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/filebot.png",
-                    "version": "5.0.1"
+                    "version": "5.0.2"
                 },
                 {
                     "name": "filebrowser",
@@ -769,7 +769,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/fileflows",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/fileflows.png",
-                    "version": "6.0.2"
+                    "version": "6.0.3"
                 },
                 {
                     "name": "fireflyiii",
@@ -921,7 +921,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ghostfolio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.png",
-                    "version": "0.0.24"
+                    "version": "0.0.25"
                 },
                 {
                     "name": "gitea",
@@ -1073,7 +1073,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/homepage",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/homepage.png",
-                    "version": "4.0.11"
+                    "version": "4.0.13"
                 },
                 {
                     "name": "homer",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.21"
+                    "version": "15.0.22"
                 },
                 {
                     "name": "jdownloader2",
@@ -1185,7 +1185,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jellyfin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png",
-                    "version": "15.0.15"
+                    "version": "15.0.16"
                 },
                 {
                     "name": "jellyseerr",
@@ -1225,7 +1225,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jupyter",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jupyter.png",
-                    "version": "5.0.40"
+                    "version": "5.0.41"
                 },
                 {
                     "name": "kanboard",
@@ -1289,7 +1289,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/komga",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/komga.png",
-                    "version": "10.0.8"
+                    "version": "10.0.9"
                 },
                 {
                     "name": "lama-cleaner",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.198"
+                    "version": "3.0.202"
                 },
                 {
                     "name": "librespeed",
@@ -1385,7 +1385,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "10.0.26"
+                    "version": "10.0.27"
                 },
                 {
                     "name": "lldap",
@@ -1609,7 +1609,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mosquitto",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png",
-                    "version": "11.0.7"
+                    "version": "11.0.8"
                 },
                 {
                     "name": "mstream",
@@ -1657,7 +1657,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mysql-workbench",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mysql-workbench.png",
-                    "version": "6.0.12"
+                    "version": "6.0.13"
                 },
                 {
                     "name": "n8n",
@@ -1737,7 +1737,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nocodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nocodb.png",
-                    "version": "9.0.2"
+                    "version": "9.0.3"
                 },
                 {
                     "name": "node-red",
@@ -1825,7 +1825,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/omada-controller",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png",
-                    "version": "10.0.17"
+                    "version": "10.0.18"
                 },
                 {
                     "name": "ombi",
@@ -1865,7 +1865,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/openvscode-server",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/openvscode-server.png",
-                    "version": "6.0.11"
+                    "version": "6.0.12"
                 },
                 {
                     "name": "organizr",
@@ -1937,7 +1937,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pgadmin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pgadmin.png",
-                    "version": "11.0.4"
+                    "version": "11.0.5"
                 },
                 {
                     "name": "photoprism",
@@ -2249,7 +2249,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.114"
+                    "version": "5.0.116"
                 },
                 {
                     "name": "readarr",
@@ -2265,7 +2265,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/recyclarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/recyclarr.png",
-                    "version": "6.0.10"
+                    "version": "6.0.11"
                 },
                 {
                     "name": "redisinsight",
@@ -2281,7 +2281,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/redmine",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/redmine.png",
-                    "version": "8.0.5"
+                    "version": "8.0.7"
                 },
                 {
                     "name": "reg",
@@ -2289,7 +2289,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/reg",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/reg.png",
-                    "version": "10.0.5"
+                    "version": "10.0.6"
                 },
                 {
                     "name": "remmina",
@@ -2369,7 +2369,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.210"
+                    "version": "8.0.212"
                 },
                 {
                     "name": "sabnzbd",
@@ -2729,7 +2729,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/thelounge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/thelounge.png",
-                    "version": "10.0.12"
+                    "version": "10.0.13"
                 },
                 {
                     "name": "theme-park",
@@ -2945,7 +2945,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.141"
+                    "version": "6.0.142"
                 },
                 {
                     "name": "wekan",
@@ -6747,7 +6747,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mariadb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mariadb.png",
-                    "version": "9.0.30"
+                    "version": "9.0.31"
                 },
                 {
                     "name": "memcached",
@@ -6763,7 +6763,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/mongodb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mongodb.png",
-                    "version": "8.0.28"
+                    "version": "8.0.29"
                 },
                 {
                     "name": "node-exporter",
