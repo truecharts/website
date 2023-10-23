@@ -233,7 +233,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/babybuddy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/babybuddy.png",
-                    "version": "13.0.13"
+                    "version": "13.0.14"
                 },
                 {
                     "name": "baserow",
@@ -417,7 +417,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/cops",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cops.png",
-                    "version": "5.0.16"
+                    "version": "5.0.17"
                 },
                 {
                     "name": "couchpotato",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.22"
+                    "version": "9.0.23"
                 },
                 {
                     "name": "cyberchef",
@@ -689,7 +689,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/embystat",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/embystat.png",
-                    "version": "6.0.6"
+                    "version": "6.0.7"
                 },
                 {
                     "name": "emulatorjs",
@@ -1049,7 +1049,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/home-assistant",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png",
-                    "version": "20.0.13"
+                    "version": "20.0.14"
                 },
                 {
                     "name": "homebox",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.23"
+                    "version": "15.0.24"
                 },
                 {
                     "name": "jdownloader2",
@@ -1329,7 +1329,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lazylibrarian",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.png",
-                    "version": "15.0.19"
+                    "version": "15.0.20"
                 },
                 {
                     "name": "leaf2mqtt",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.206"
+                    "version": "3.0.210"
                 },
                 {
                     "name": "librespeed",
@@ -1401,7 +1401,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/local-ai",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/local-ai.png",
-                    "version": "0.0.7"
+                    "version": "0.0.8"
                 },
                 {
                     "name": "logitech-media-server",
@@ -2129,7 +2129,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prowlarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prowlarr.png",
-                    "version": "12.0.16"
+                    "version": "12.0.17"
                 },
                 {
                     "name": "prusaslicer-novnc",
@@ -2193,7 +2193,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/qbittorrent",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png",
-                    "version": "16.0.5"
+                    "version": "16.0.6"
                 },
                 {
                     "name": "qdirstat",
@@ -2249,7 +2249,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.116"
+                    "version": "5.0.121"
                 },
                 {
                     "name": "readarr",
@@ -2369,7 +2369,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.215"
+                    "version": "8.0.216"
                 },
                 {
                     "name": "sabnzbd",
@@ -2409,7 +2409,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/searxng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
-                    "version": "4.0.57"
+                    "version": "4.0.58"
                 },
                 {
                     "name": "seedsync",
@@ -2705,7 +2705,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tdarr-node",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tdarr-node.png",
-                    "version": "6.0.8"
+                    "version": "6.0.9"
                 },
                 {
                     "name": "tdarr",
@@ -6739,7 +6739,7 @@
                     "train": "dependency",
                     "link": "https://truecharts.org/charts/dependency/kube-state-metrics",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/kube-state-metrics.png",
-                    "version": "3.0.27"
+                    "version": "3.0.28"
                 },
                 {
                     "name": "mariadb",
