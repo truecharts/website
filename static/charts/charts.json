@@ -27,7 +27,7 @@
                     "train": "operators",
                     "link": "https://truecharts.org/charts/operators/metallb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metallb.png",
-                    "version": "10.0.4"
+                    "version": "10.0.5"
                 },
                 {
                     "name": "prometheus-operator",
@@ -35,7 +35,7 @@
                     "train": "operators",
                     "link": "https://truecharts.org/charts/operators/prometheus-operator",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.png",
-                    "version": "1.0.5"
+                    "version": "1.0.6"
                 }
             ]
         },
@@ -169,7 +169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/arksurvivalevolved",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/arksurvivalevolved.png",
-                    "version": "4.0.2"
+                    "version": "4.0.4"
                 },
                 {
                     "name": "audacity",
@@ -273,7 +273,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/boinc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/boinc.png",
-                    "version": "6.0.13"
+                    "version": "6.0.14"
                 },
                 {
                     "name": "booksonic-air",
@@ -321,7 +321,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.0.22"
+                    "version": "11.0.23"
                 },
                 {
                     "name": "channels-dvr",
@@ -353,7 +353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/clamav",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clamav.png",
-                    "version": "7.0.5"
+                    "version": "7.0.6"
                 },
                 {
                     "name": "clarkson",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.24"
+                    "version": "9.0.25"
                 },
                 {
                     "name": "cyberchef",
@@ -665,7 +665,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/duckdns",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/duckdns.png",
-                    "version": "6.0.9"
+                    "version": "6.0.10"
                 },
                 {
                     "name": "duplicati",
@@ -713,7 +713,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/esphome",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/esphome.png",
-                    "version": "15.0.12"
+                    "version": "15.0.13"
                 },
                 {
                     "name": "etesync",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.25"
+                    "version": "15.0.26"
                 },
                 {
                     "name": "jdownloader2",
@@ -1313,7 +1313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lancache-monolithic",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lancache-monolithic.png",
-                    "version": "5.1.2"
+                    "version": "5.1.3"
                 },
                 {
                     "name": "lanraragi",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.214"
+                    "version": "3.0.215"
                 },
                 {
                     "name": "librespeed",
@@ -1385,7 +1385,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "10.0.27"
+                    "version": "10.0.28"
                 },
                 {
                     "name": "lldap",
@@ -1545,7 +1545,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/minio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/minio.png",
-                    "version": "7.0.18"
+                    "version": "7.0.20"
                 },
                 {
                     "name": "minisatip",
@@ -1617,7 +1617,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mstream",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mstream.png",
-                    "version": "7.0.13"
+                    "version": "7.0.14"
                 },
                 {
                     "name": "muse",
@@ -1697,7 +1697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "22.0.44"
+                    "version": "22.0.45"
                 },
                 {
                     "name": "nextpvr",
@@ -2369,7 +2369,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.217"
+                    "version": "8.0.219"
                 },
                 {
                     "name": "sabnzbd",
@@ -2641,7 +2641,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/synclounge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/synclounge.png",
-                    "version": "6.0.7"
+                    "version": "6.0.8"
                 },
                 {
                     "name": "syncthing",
@@ -2937,7 +2937,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/website-shot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/website-shot.png",
-                    "version": "6.0.1"
+                    "version": "7.0.0"
                 },
                 {
                     "name": "webtop",
@@ -2945,7 +2945,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.146"
+                    "version": "6.0.148"
                 },
                 {
                     "name": "wekan",
@@ -3167,7 +3167,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/prometheus",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus.png",
-                    "version": "13.0.8"
+                    "version": "13.0.9"
                 },
                 {
                     "name": "traefik",
