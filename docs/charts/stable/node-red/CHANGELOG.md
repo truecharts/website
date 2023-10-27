@@ -2,6 +2,15 @@
 
 
 
+## [node-red-15.0.3](https://github.com/truecharts/charts/compare/node-red-15.0.2...node-red-15.0.3) (2023-10-27)
+
+### Chore
+
+- update container image tccr.io/truecharts/node-red to v3.1.0 ([#14023](https://github.com/truecharts/charts/issues/14023))
+  
+  
+
+
 ## [node-red-15.0.2](https://github.com/truecharts/charts/compare/node-red-15.0.1...node-red-15.0.2) (2023-10-07)
 
 ### Chore
