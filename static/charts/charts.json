@@ -193,7 +193,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/authentik",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/authentik.png",
-                    "version": "15.0.7"
+                    "version": "15.0.8"
                 },
                 {
                     "name": "autobrr",
@@ -241,7 +241,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/baserow",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/baserow.png",
-                    "version": "8.0.5"
+                    "version": "8.0.6"
                 },
                 {
                     "name": "bazarr",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.26"
+                    "version": "9.0.27"
                 },
                 {
                     "name": "cyberchef",
@@ -905,7 +905,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/gamevault-backend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/gamevault-backend.png",
-                    "version": "1.1.13"
+                    "version": "1.1.14"
                 },
                 {
                     "name": "gaps",
@@ -921,7 +921,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ghostfolio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.png",
-                    "version": "0.0.26"
+                    "version": "0.0.27"
                 },
                 {
                     "name": "gitea",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.27"
+                    "version": "15.0.28"
                 },
                 {
                     "name": "jdownloader2",
@@ -1289,7 +1289,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/komga",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/komga.png",
-                    "version": "10.0.9"
+                    "version": "10.0.10"
                 },
                 {
                     "name": "lama-cleaner",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.219"
+                    "version": "3.0.224"
                 },
                 {
                     "name": "librespeed",
@@ -1465,7 +1465,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/medusa",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/medusa.png",
-                    "version": "7.0.14"
+                    "version": "7.0.15"
                 },
                 {
                     "name": "meshcentral",
@@ -1489,7 +1489,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/metabase",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metabase.png",
-                    "version": "0.0.8"
+                    "version": "0.0.9"
                 },
                 {
                     "name": "metube",
@@ -1641,7 +1641,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mylar",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mylar.png",
-                    "version": "10.0.14"
+                    "version": "10.0.15"
                 },
                 {
                     "name": "mymediaforalexa",
@@ -1665,7 +1665,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/n8n",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png",
-                    "version": "9.0.19"
+                    "version": "9.0.20"
                 },
                 {
                     "name": "nano-wallet",
@@ -1689,7 +1689,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/netdata",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/netdata.png",
-                    "version": "6.0.7"
+                    "version": "6.0.8"
                 },
                 {
                     "name": "nextcloud",
@@ -2137,7 +2137,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/prusaslicer-novnc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prusaslicer-novnc.png",
-                    "version": "5.0.13"
+                    "version": "5.0.14"
                 },
                 {
                     "name": "putty",
@@ -2369,7 +2369,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.221"
+                    "version": "8.0.222"
                 },
                 {
                     "name": "sabnzbd",
@@ -2409,7 +2409,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/searxng",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/searxng.png",
-                    "version": "4.0.58"
+                    "version": "4.0.60"
                 },
                 {
                     "name": "seedsync",
@@ -2641,7 +2641,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/synclounge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/synclounge.png",
-                    "version": "6.0.8"
+                    "version": "6.0.9"
                 },
                 {
                     "name": "syncthing",
@@ -2697,7 +2697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tautulli",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tautulli.png",
-                    "version": "15.0.5"
+                    "version": "15.0.6"
                 },
                 {
                     "name": "tdarr-node",
@@ -3017,7 +3017,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "3.0.47"
+                    "version": "3.0.48"
                 },
                 {
                     "name": "wyoming-piper",
@@ -3113,7 +3113,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/zwavejs2mqtt",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/zwavejs2mqtt.png",
-                    "version": "16.0.17"
+                    "version": "16.0.18"
                 }
             ]
         },
