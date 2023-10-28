@@ -2,6 +2,15 @@
 
 
 
+## [youtransfer-4.0.3](https://github.com/truecharts/charts/compare/youtransfer-4.0.1...youtransfer-4.0.3) (2023-10-28)
+
+### Chore
+
+- Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
+  
+  
+
+
 ## [youtransfer-4.0.1](https://github.com/truecharts/charts/compare/youtransfer-4.0.0...youtransfer-4.0.1) (2023-10-07)
 
 ### Chore

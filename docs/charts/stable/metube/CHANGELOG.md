@@ -2,6 +2,15 @@
 
 
 
+## [metube-8.0.4](https://github.com/truecharts/charts/compare/metube-8.0.2...metube-8.0.4) (2023-10-28)
+
+### Chore
+
+- Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
+  
+  
+
+
 ## [metube-8.0.2](https://github.com/truecharts/charts/compare/metube-8.0.1...metube-8.0.2) (2023-10-07)
 
 ### Chore

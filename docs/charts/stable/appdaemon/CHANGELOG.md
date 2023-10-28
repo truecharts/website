@@ -2,6 +2,15 @@
 
 
 
+## [appdaemon-13.0.3](https://github.com/truecharts/charts/compare/appdaemon-13.0.1...appdaemon-13.0.3) (2023-10-28)
+
+### Chore
+
+- Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
+  
+  
+
+
 ## [appdaemon-13.0.1](https://github.com/truecharts/charts/compare/appdaemon-13.0.0...appdaemon-13.0.1) (2023-10-07)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [adminer-5.0.23](https://github.com/truecharts/charts/compare/adminer-5.0.21...adminer-5.0.23) (2023-10-28)
+
+### Chore
+
+- Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
+  
+  
+
+
 ## [adminer-5.0.21](https://github.com/truecharts/charts/compare/adminer-5.0.20...adminer-5.0.21) (2023-10-12)
 
 ### Chore

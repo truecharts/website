@@ -2,6 +2,15 @@
 
 
 
+## [tailscale-5.0.10](https://github.com/truecharts/charts/compare/tailscale-5.0.8...tailscale-5.0.10) (2023-10-28)
+
+### Chore
+
+- Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
+  
+  
+
+
 ## [tailscale-5.0.8](https://github.com/truecharts/charts/compare/tailscale-5.0.7...tailscale-5.0.8) (2023-10-07)
 
 ### Chore
