@@ -1025,6 +1025,7 @@ The intro needs improvement ;)
 |kopia                          |rclone                     |PVC      |-                |/app/rclone                                    |Read/Write|Enabled                |
 |krusader                       |containerpath              |PVC      |-                |/krusader                                      |Read/Write|Enabled                |
 |krusader                       |datapath                   |PVC      |-                |/mnt/user                                      |Read/Write|Enabled                |
+|kubernetes-reflector           |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |kutt                           |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |lastoasis                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                        |Read/Write|Enabled                |
 |lastoasis                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                           |Read/Write|Enabled                |
