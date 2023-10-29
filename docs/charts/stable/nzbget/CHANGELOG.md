@@ -2,6 +2,11 @@
 
 
 
+## [nzbget-15.0.4](https://github.com/truecharts/charts/compare/nzbget-15.0.3...nzbget-15.0.4) (2023-10-29)
+
+
+
+
 ## [nzbget-15.0.3](https://github.com/truecharts/charts/compare/nzbget-15.0.1...nzbget-15.0.3) (2023-10-28)
 
 ### Chore
