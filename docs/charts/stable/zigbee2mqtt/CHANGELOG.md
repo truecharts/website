@@ -2,6 +2,15 @@
 
 
 
+## [zigbee2mqtt-8.0.8](https://github.com/truecharts/charts/compare/zigbee2mqtt-8.0.7...zigbee2mqtt-8.0.8) (2023-10-29)
+
+### Chore
+
+- update helm general non-major ([#14094](https://github.com/truecharts/charts/issues/14094))
+  
+  
+
+
 ## [zigbee2mqtt-8.0.7](https://github.com/truecharts/charts/compare/zigbee2mqtt-8.0.6...zigbee2mqtt-8.0.7) (2023-10-28)
 
 ### Chore

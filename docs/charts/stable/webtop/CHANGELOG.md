@@ -2,6 +2,16 @@
 
 
 
+## [webtop-6.0.150](https://github.com/truecharts/charts/compare/webtop-6.0.149...webtop-6.0.150) (2023-10-29)
+
+### Chore
+
+- Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
+  - update helm general non-major ([#14094](https://github.com/truecharts/charts/issues/14094))
+  
+  
+
+
 ## [webtop-6.0.149](https://github.com/truecharts/charts/compare/webtop-6.0.148...webtop-6.0.149) (2023-10-27)
 
 ### Chore

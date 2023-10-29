@@ -2,6 +2,16 @@
 
 
 
+## [jupyter-5.0.42](https://github.com/truecharts/charts/compare/jupyter-5.0.41...jupyter-5.0.42) (2023-10-29)
+
+### Chore
+
+- Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
+  - update helm general non-major ([#14094](https://github.com/truecharts/charts/issues/14094))
+  
+  
+
+
 ## [jupyter-5.0.41](https://github.com/truecharts/charts/compare/jupyter-5.0.40...jupyter-5.0.41) (2023-10-20)
 
 ### Chore
