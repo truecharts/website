@@ -8,7 +8,7 @@ Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN a
 
 :::caution Unique VPN Environmental Variables
 
-The guide below uses Mullvad and Windscribe as examples. You must visit the [Gluetun Wiki](https://github.com/qdm12/gluetun/wiki) and use the environmental variables listed for your VPN provider. Attempting to use the variables listed below will not work with any other providers and will cause Gluetun to fail during start up and the app it is attached to not to start.
+The guide below uses Mullvad and Windscribe as examples. You must visit the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) and use the environmental variables listed for your VPN provider. Attempting to use the variables listed below will not work with any other providers and will cause Gluetun to fail during start up and the app it is attached to not to start.
 
 :::
 
