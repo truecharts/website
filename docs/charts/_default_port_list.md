@@ -632,7 +632,6 @@ they should provide no or minimal conflicts without being changed.
 |import-ics                     |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                       |
 |invitarr                       |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                       |
 |jackett2telegram               |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                       |
-|kubernetes-reflector           |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                       |
 |lemur-cfssl                    |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                       |
 |llalon-github-backup           |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                       |
 |namecheap-ddns                 |main              |-              |-    |-       |Service is Disabled|-                                                                                                                                                                                       |
@@ -1293,24 +1292,25 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|clusterissuer |main        |-           |-    |-       |Service is Disabled|-                                                                                                     |
-|metallb-config|main        |-           |-    |-       |Service is Disabled|-                                                                                                     |
-|blocky        |dnstcp      |dnstcp      |53   |TCP     |Active             |Potential conflict with: mosdns adguard-home pihole lancache-dns dns-doh-companion technitium gravity |
-|blocky        |dnsudp      |dnsudp      |53   |udp     |Active             |-                                                                                                     |
-|blocky        |dot         |dot         |853  |tcp     |Active             |-                                                                                                     |
-|blocky        |main        |main        |4000 |http    |Active             |-                                                                                                     |
-|blocky        |https       |https       |4443 |https   |Active             |-                                                                                                     |
-|blocky        |k8sgateway  |k8sgateway  |5353 |udp     |Active             |-                                                                                                     |
-|traefik       |main        |main        |9000 |http    |Active             |-                                                                                                     |
-|traefik       |tcp         |web         |9080 |http    |Active             |-                                                                                                     |
-|authelia      |main        |main        |9091 |TCP     |Active             |-                                                                                                     |
-|traefik       |metrics     |metrics     |9180 |http    |Active             |-                                                                                                     |
-|traefik       |tcp         |websecure   |9443 |https   |Active             |-                                                                                                     |
-|grafana       |main        |main        |10038|http    |Active             |-                                                                                                     |
-|prometheus    |main        |main        |10086|http    |Active             |-                                                                                                     |
-|prometheus    |alertmanager|alertmanager|10087|http    |Active             |-                                                                                                     |
-|vaultwarden   |main        |main        |10102|TCP     |Active             |-                                                                                                     |
-|prometheus    |thanos      |thanos      |10901|http    |Active             |-                                                                                                     |
+|clusterissuer       |main        |-           |-    |-       |Service is Disabled|-                                                                                                     |
+|kubernetes-reflector|main        |-           |-    |-       |Service is Disabled|-                                                                                                     |
+|metallb-config      |main        |-           |-    |-       |Service is Disabled|-                                                                                                     |
+|blocky              |dnstcp      |dnstcp      |53   |TCP     |Active             |Potential conflict with: mosdns adguard-home pihole lancache-dns dns-doh-companion technitium gravity |
+|blocky              |dnsudp      |dnsudp      |53   |udp     |Active             |-                                                                                                     |
+|blocky              |dot         |dot         |853  |tcp     |Active             |-                                                                                                     |
+|blocky              |main        |main        |4000 |http    |Active             |-                                                                                                     |
+|blocky              |https       |https       |4443 |https   |Active             |-                                                                                                     |
+|blocky              |k8sgateway  |k8sgateway  |5353 |udp     |Active             |-                                                                                                     |
+|traefik             |main        |main        |9000 |http    |Active             |-                                                                                                     |
+|traefik             |tcp         |web         |9080 |http    |Active             |-                                                                                                     |
+|authelia            |main        |main        |9091 |TCP     |Active             |-                                                                                                     |
+|traefik             |metrics     |metrics     |9180 |http    |Active             |-                                                                                                     |
+|traefik             |tcp         |websecure   |9443 |https   |Active             |-                                                                                                     |
+|grafana             |main        |main        |10038|http    |Active             |-                                                                                                     |
+|prometheus          |main        |main        |10086|http    |Active             |-                                                                                                     |
+|prometheus          |alertmanager|alertmanager|10087|http    |Active             |-                                                                                                     |
+|vaultwarden         |main        |main        |10102|TCP     |Active             |-                                                                                                     |
+|prometheus          |thanos      |thanos      |10901|http    |Active             |-                                                                                                     |
 
 ## Operators
 

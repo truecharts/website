@@ -1025,7 +1025,6 @@ The intro needs improvement ;)
 |kopia                          |rclone                     |PVC      |-                |/app/rclone                                    |Read/Write|Enabled                |
 |krusader                       |containerpath              |PVC      |-                |/krusader                                      |Read/Write|Enabled                |
 |krusader                       |datapath                   |PVC      |-                |/mnt/user                                      |Read/Write|Enabled                |
-|kubernetes-reflector           |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |kutt                           |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |lastoasis                      |serverfiles                |PVC      |-                |/serverdata/serverfiles                        |Read/Write|Enabled                |
 |lastoasis                      |steamcmd                   |PVC      |-                |/serverdata/steamcmd                           |Read/Write|Enabled                |
@@ -1445,15 +1444,16 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|authelia      |config     |PVC     |-       |/config                  |Read/Write|Enabled                |
-|blocky        |-          |-       |-       |-                        |-         |Persistence not Defined|
-|clusterissuer |-          |-       |-       |-                        |-         |Persistence not Defined|
-|grafana       |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
-|grafana       |grafana-tmp|emptyDir|-       |/opt/bitnami/grafana/tmp |Read/Write|Enabled                |
-|metallb-config|-          |-       |-       |-                        |-         |Persistence not Defined|
-|prometheus    |-          |-       |-       |-                        |-         |Persistence not Defined|
-|traefik       |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
-|vaultwarden   |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
+|authelia            |config     |PVC     |-       |/config                  |Read/Write|Enabled                |
+|blocky              |-          |-       |-       |-                        |-         |Persistence not Defined|
+|clusterissuer       |-          |-       |-       |-                        |-         |Persistence not Defined|
+|grafana             |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
+|grafana             |grafana-tmp|emptyDir|-       |/opt/bitnami/grafana/tmp |Read/Write|Enabled                |
+|kubernetes-reflector|-          |-       |-       |-                        |-         |Persistence not Defined|
+|metallb-config      |-          |-       |-       |-                        |-         |Persistence not Defined|
+|prometheus          |-          |-       |-       |-                        |-         |Persistence not Defined|
+|traefik             |plugins    |emptyDir|-       |/plugins-storage         |Read/Write|Enabled                |
+|vaultwarden         |data       |PVC     |-       |/data                    |Read/Write|Enabled                |
 
 ## Operators
 
