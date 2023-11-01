@@ -704,6 +704,7 @@ The intro needs improvement ;)
 |androiddebugbridge             |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |anki-sync-server               |config                     |PVC      |-                |/app/data                                      |Read/Write|Enabled                |
 |anope                          |datapath                   |PVC      |-                |/anope                                         |Read/Write|Enabled                |
+|answer                         |data                       |PVC      |-                |/data                                          |Read/Write|Enabled                |
 |apache-webdav                  |config                     |PVC      |-                |/var/lib/dav                                   |Read/Write|Enabled                |
 |apache-webdav                  |data                       |PVC      |-                |/var/lib/dav/data                              |Read/Write|Enabled                |
 |apprise-api                    |config                     |PVC      |-                |/config                                        |Read/Write|Enabled                |
