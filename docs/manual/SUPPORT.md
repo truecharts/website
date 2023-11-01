@@ -16,14 +16,11 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 | TrueNAS version  | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes                                                                                                          |
 | ---------------- | -------- | ---------------------- | ------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 22.02.4 or prior | `master` | :x:                    | :x:                       | :x:                   | Advised to update to 22.12.2 release of [TrueNAS SCALE](https://www.truenas.com/docs/scale/scalereleasenotes/) |
-| 22.12.0          | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2022-12-13                                                                                |
-| 22.12.1          | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2023-02-21                                                                                |
-| 22.12.2          | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2023-04-11                                                                                |
-| 22.12.3          | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2023-06-13                                                                                |
-| 22.12.3.1        | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2023-06-20                                                                                |
-| 22.12.3.2        | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2023-07-05                                                                                |
-| 22.12.3.3        | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2023-07-25                                                                                |
+| 22.02.4 or prior | `master` | :x:                    | :x:                       | :x:                   | update to 23.10.X Supported Version [TrueNAS SCALE](https://www.truenas.com/docs/scale/23.10/)                 |
+| 22.12.3 or prior | `master` | :x:                    | :x:                       | :x:                   | Stable Release as of 2022-12-13                                                                                |
+| 22.12.4.x        | `master` | :x:                    | :x:                       | :x:                   | Stable Release as of 2023-10-13  Supported till   2023-12-01                                                   |
+| 23.10.0          | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2023-10-24                                                                                |
+| 23.10.0.1        | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable Release as of 2023-10-31                                                                                |
 | Nightly          | `master` | :white_check_mark:     | :x:                       | :white_check_mark:    | Please only submit bug reports during codefreeze                                                               |
 
 :::warning Support Guidelines
