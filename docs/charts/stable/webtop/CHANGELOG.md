@@ -2,6 +2,15 @@
 
 
 
+## [webtop-6.0.160](https://github.com/truecharts/charts/compare/webtop-6.0.159...webtop-6.0.160) (2023-11-02)
+
+### Chore
+
+- update container image tccr.io/truecharts/webtop-arch-i3 to latest ([#14268](https://github.com/truecharts/charts/issues/14268))
+  
+  
+
+
 ## [webtop-6.0.159](https://github.com/truecharts/charts/compare/webtop-6.0.158...webtop-6.0.159) (2023-10-31)
 
 ### Chore
