@@ -2,6 +2,15 @@
 
 
 
+## [znc-6.0.11](https://github.com/truecharts/charts/compare/znc-6.0.10...znc-6.0.11) (2023-11-03)
+
+### Chore
+
+- update container image tccr.io/truecharts/znc to v1.8.2 ([#14277](https://github.com/truecharts/charts/issues/14277))
+  
+  
+
+
 ## [znc-6.0.10](https://github.com/truecharts/charts/compare/znc-6.0.9...znc-6.0.10) (2023-10-29)
 
 ### Chore
