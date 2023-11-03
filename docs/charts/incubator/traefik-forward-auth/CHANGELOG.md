@@ -2,6 +2,15 @@
 
 
 
+## [traefik-forward-auth-0.2.3](https://github.com/truecharts/charts/compare/traefik-forward-auth-0.2.2...traefik-forward-auth-0.2.3) (2023-11-03)
+
+### Chore
+
+- update helm general non-major ([#14287](https://github.com/truecharts/charts/issues/14287))
+  
+  
+
+
 ## [traefik-forward-auth-0.2.2](https://github.com/truecharts/charts/compare/traefik-forward-auth-0.2.1...traefik-forward-auth-0.2.2) (2023-10-29)
 
 ### Chore

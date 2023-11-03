@@ -2,6 +2,15 @@
 
 
 
+## [wordpress-3.0.54](https://github.com/truecharts/charts/compare/wordpress-3.0.53...wordpress-3.0.54) (2023-11-03)
+
+### Chore
+
+- update helm general non-major ([#14287](https://github.com/truecharts/charts/issues/14287))
+  
+  
+
+
 ## [wordpress-3.0.53](https://github.com/truecharts/charts/compare/wordpress-3.0.52...wordpress-3.0.53) (2023-11-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [immich-8.1.30](https://github.com/truecharts/charts/compare/immich-8.1.29...immich-8.1.30) (2023-11-03)
+
+### Chore
+
+- update helm general non-major ([#14287](https://github.com/truecharts/charts/issues/14287))
+  
+  
+
+
 ## [immich-8.1.29](https://github.com/truecharts/charts/compare/immich-8.1.28...immich-8.1.29) (2023-11-01)
 
 ### Chore

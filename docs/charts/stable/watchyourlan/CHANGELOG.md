@@ -2,6 +2,15 @@
 
 
 
+## [watchyourlan-5.1.2](https://github.com/truecharts/charts/compare/watchyourlan-5.1.1...watchyourlan-5.1.2) (2023-11-03)
+
+### Chore
+
+- update helm general non-major ([#14287](https://github.com/truecharts/charts/issues/14287))
+  
+  
+
+
 ## [watchyourlan-5.1.1](https://github.com/truecharts/charts/compare/watchyourlan-5.1.0...watchyourlan-5.1.1) (2023-10-29)
 
 ### Chore

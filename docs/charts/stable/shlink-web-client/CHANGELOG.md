@@ -2,6 +2,15 @@
 
 
 
+## [shlink-web-client-7.0.5](https://github.com/truecharts/charts/compare/shlink-web-client-7.0.4...shlink-web-client-7.0.5) (2023-11-03)
+
+### Chore
+
+- update helm general non-major ([#14287](https://github.com/truecharts/charts/issues/14287))
+  
+  
+
+
 ## [shlink-web-client-7.0.4](https://github.com/truecharts/charts/compare/shlink-web-client-7.0.3...shlink-web-client-7.0.4) (2023-10-29)
 
 ### Chore
