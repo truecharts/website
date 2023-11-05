@@ -2,6 +2,15 @@
 
 
 
+## [gitea-14.0.8](https://github.com/truecharts/charts/compare/gitea-14.0.7...gitea-14.0.8) (2023-11-05)
+
+### Chore
+
+- update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
+  
+  
+
+
 ## [gitea-14.0.7](https://github.com/truecharts/charts/compare/gitea-14.0.6...gitea-14.0.7) (2023-11-03)
 
 ### Chore

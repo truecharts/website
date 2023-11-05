@@ -2,6 +2,15 @@
 
 
 
+## [homer-6.0.6](https://github.com/truecharts/charts/compare/homer-6.0.5...homer-6.0.6) (2023-11-05)
+
+### Chore
+
+- update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
+  
+  
+
+
 ## [homer-6.0.5](https://github.com/truecharts/charts/compare/homer-6.0.4...homer-6.0.5) (2023-11-03)
 
 ### Chore

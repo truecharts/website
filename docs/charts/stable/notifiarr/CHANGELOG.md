@@ -2,6 +2,15 @@
 
 
 
+## [notifiarr-1.0.7](https://github.com/truecharts/charts/compare/notifiarr-1.0.6...notifiarr-1.0.7) (2023-11-05)
+
+### Chore
+
+- update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
+  
+  
+
+
 ## [notifiarr-1.0.6](https://github.com/truecharts/charts/compare/notifiarr-1.0.5...notifiarr-1.0.6) (2023-11-05)
 
 ### Chore

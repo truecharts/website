@@ -2,6 +2,15 @@
 
 
 
+## [pyload-10.0.6](https://github.com/truecharts/charts/compare/pyload-10.0.5...pyload-10.0.6) (2023-11-05)
+
+### Chore
+
+- update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
+  
+  
+
+
 ## [pyload-10.0.5](https://github.com/truecharts/charts/compare/pyload-10.0.4...pyload-10.0.5) (2023-11-03)
 
 ### Chore

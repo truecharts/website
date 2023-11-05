@@ -2,6 +2,15 @@
 
 
 
+## [openspeedtest-5.0.8](https://github.com/truecharts/charts/compare/openspeedtest-5.0.7...openspeedtest-5.0.8) (2023-11-05)
+
+### Chore
+
+- update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
+  
+  
+
+
 ## [openspeedtest-5.0.7](https://github.com/truecharts/charts/compare/openspeedtest-5.0.6...openspeedtest-5.0.7) (2023-11-03)
 
 ### Chore

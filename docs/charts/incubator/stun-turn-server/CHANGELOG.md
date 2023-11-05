@@ -2,6 +2,15 @@
 
 
 
+## [stun-turn-server-3.0.4](https://github.com/truecharts/charts/compare/stun-turn-server-3.0.3...stun-turn-server-3.0.4) (2023-11-05)
+
+### Chore
+
+- update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
+  
+  
+
+
 ## [stun-turn-server-3.0.3](https://github.com/truecharts/charts/compare/stun-turn-server-3.0.2...stun-turn-server-3.0.3) (2023-11-03)
 
 ### Chore

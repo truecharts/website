@@ -2,6 +2,15 @@
 
 
 
+## [sftpgo-3.0.12](https://github.com/truecharts/charts/compare/sftpgo-3.0.11...sftpgo-3.0.12) (2023-11-05)
+
+### Chore
+
+- update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
+  
+  
+
+
 ## [sftpgo-3.0.11](https://github.com/truecharts/charts/compare/sftpgo-3.0.10...sftpgo-3.0.11) (2023-11-03)
 
 ### Chore

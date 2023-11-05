@@ -2,6 +2,15 @@
 
 
 
+## [nano-wallet-6.0.6](https://github.com/truecharts/charts/compare/nano-wallet-6.0.5...nano-wallet-6.0.6) (2023-11-05)
+
+### Chore
+
+- update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
+  
+  
+
+
 ## [nano-wallet-6.0.5](https://github.com/truecharts/charts/compare/nano-wallet-6.0.4...nano-wallet-6.0.5) (2023-11-03)
 
 ### Chore
