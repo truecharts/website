@@ -2,6 +2,12 @@
 
 This guide will walk you through setting up and using `cluster certificates`.
 
+:::note
+
+Since this is an advanced feature, it is not covered by Truecharts support.
+
+:::
+
 ## Prerequisites
 
 - Ensure you have completed the [clusterissuer Setup Guide](how-to)
