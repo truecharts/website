@@ -19,5 +19,7 @@ Certificate management for Kubernetes
 
 - [**clusterissuer Setup Guide**](how-to)
 
+- [**Cluster Certificates Setup Guide**](cluster-certificates)
+
 - [**Input Validation**](validation)
 
