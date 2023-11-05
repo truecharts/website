@@ -299,7 +299,7 @@ The application state in the web GUI will be `Started` since there is still a CN
 
 ## Operators
 
-TrueCharts has always required operators for many charts to work. Previously these operators were installed automatically and were not visible to the end user. TrueCharts now requires that these operators to be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [Operators TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts).
+TrueCharts has always required operators for many charts to work. Prior to 01 July 2023 these operators were installed automatically and were not visible to the end user. TrueCharts now requires that these operators to be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [Operators TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old operators and can proceed with the installation from the operator train.
 
 ### Prometheus-Operator
 
@@ -313,7 +313,11 @@ This operator is required for the use of any charts that utilize CloudNative Pos
 
 :::warning DATA LOSS
 
-The following command is destructive and will delete any existing CNPG databases. Follow [this guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+The following command is destructive and will delete any existing CNPG databases.
+
+Run the following command in system shell as **root** to see if you have any current CNPG databases to migrate: `k3s kubectl get pods -A | grep cnpg`
+
+Follow [this guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
 
 :::
 
