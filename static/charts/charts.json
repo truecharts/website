@@ -313,7 +313,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre-web",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre-web.png",
-                    "version": "15.0.5"
+                    "version": "15.0.6"
                 },
                 {
                     "name": "calibre",
@@ -953,7 +953,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/grav",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grav.png",
-                    "version": "8.0.17"
+                    "version": "8.0.18"
                 },
                 {
                     "name": "grocy",
@@ -961,7 +961,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/grocy",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grocy.png",
-                    "version": "15.0.17"
+                    "version": "15.0.18"
                 },
                 {
                     "name": "guacamole",
@@ -1049,7 +1049,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/home-assistant",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/home-assistant.png",
-                    "version": "20.0.17"
+                    "version": "20.0.18"
                 },
                 {
                     "name": "homebox",
@@ -1121,7 +1121,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/invidious",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png",
-                    "version": "6.0.15"
+                    "version": "6.0.16"
                 },
                 {
                     "name": "ipfs",
@@ -1185,7 +1185,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jellyfin",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jellyfin.png",
-                    "version": "15.0.18"
+                    "version": "15.0.19"
                 },
                 {
                     "name": "jellyseerr",
@@ -1329,7 +1329,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lazylibrarian",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lazylibrarian.png",
-                    "version": "15.0.23"
+                    "version": "15.0.24"
                 },
                 {
                     "name": "leaf2mqtt",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.254"
+                    "version": "3.0.258"
                 },
                 {
                     "name": "librespeed",
@@ -1369,7 +1369,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/lidarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/lidarr.png",
-                    "version": "17.0.16"
+                    "version": "17.0.17"
                 },
                 {
                     "name": "linkding",
@@ -1753,7 +1753,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/notifiarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/notifiarr.png",
-                    "version": "1.0.5"
+                    "version": "1.0.6"
                 },
                 {
                     "name": "novnc",
@@ -2001,7 +2001,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/piwigo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/piwigo.png",
-                    "version": "7.0.12"
+                    "version": "7.0.13"
                 },
                 {
                     "name": "pixapop",
@@ -2257,7 +2257,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/readarr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/readarr.png",
-                    "version": "17.0.15"
+                    "version": "17.0.16"
                 },
                 {
                     "name": "recyclarr",
@@ -2809,7 +2809,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/tvheadend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/tvheadend.png",
-                    "version": "16.0.17"
+                    "version": "16.0.18"
                 },
                 {
                     "name": "twtxt",
@@ -2977,7 +2977,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/whisper-asr-webservice",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/whisper-asr-webservice.png",
-                    "version": "1.0.9"
+                    "version": "1.0.10"
                 },
                 {
                     "name": "whoogle",
