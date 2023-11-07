@@ -868,6 +868,7 @@ The intro needs improvement ;)
 |euterpe                        |music                      |PVC      |-                |/root/Music                                    |Read/Write|Enabled                |
 |euterpe                        |configfile                 |secret   |-                |/root/.euterpe/config.json                     |Read Only |Enabled                |
 |explainshell                   |-                          |-        |-                |-                                              |-         |Persistence not Defined|
+|external-dns                   |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |external-ip                    |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |factorio                       |config                     |PVC      |-                |/factorio                                      |Read/Write|Enabled                |
 |factorioservermanager          |config                     |PVC      |-                |/opt/factorio/config                           |Read/Write|Enabled                |
