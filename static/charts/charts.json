@@ -11,7 +11,7 @@
                     "train": "operators",
                     "link": "https://truecharts.org/charts/operators/cert-manager",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png",
-                    "version": "1.1.3"
+                    "version": "1.1.4"
                 },
                 {
                     "name": "cloudnative-pg",
@@ -19,7 +19,7 @@
                     "train": "operators",
                     "link": "https://truecharts.org/charts/operators/cloudnative-pg",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png",
-                    "version": "2.0.6"
+                    "version": "2.0.8"
                 },
                 {
                     "name": "metallb",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.40"
+                    "version": "9.0.41"
                 },
                 {
                     "name": "cyberchef",
@@ -857,7 +857,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/foldingathome",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/foldingathome.png",
-                    "version": "6.0.12"
+                    "version": "6.0.13"
                 },
                 {
                     "name": "fossil",
@@ -921,7 +921,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ghostfolio",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ghostfolio.png",
-                    "version": "0.0.32"
+                    "version": "0.0.33"
                 },
                 {
                     "name": "gitea",
@@ -1145,7 +1145,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/ispy-agent-dvr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/ispy-agent-dvr.png",
-                    "version": "6.0.20"
+                    "version": "6.0.21"
                 },
                 {
                     "name": "it-tools",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.41"
+                    "version": "15.0.42"
                 },
                 {
                     "name": "jdownloader2",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.262"
+                    "version": "3.0.266"
                 },
                 {
                     "name": "librespeed",
@@ -1433,7 +1433,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mattermost",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mattermost.png",
-                    "version": "9.0.42"
+                    "version": "9.0.43"
                 },
                 {
                     "name": "mc-router",
@@ -1825,7 +1825,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/omada-controller",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png",
-                    "version": "10.0.26"
+                    "version": "10.0.27"
                 },
                 {
                     "name": "ombi",
@@ -2105,7 +2105,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/projectsend",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/projectsend.png",
-                    "version": "8.0.20"
+                    "version": "8.0.21"
                 },
                 {
                     "name": "promcord",
@@ -2185,7 +2185,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/qbitrr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/qbitrr.png",
-                    "version": "0.0.18"
+                    "version": "0.0.19"
                 },
                 {
                     "name": "qbittorrent",
@@ -2369,7 +2369,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.242"
+                    "version": "8.0.246"
                 },
                 {
                     "name": "sabnzbd",
@@ -2649,7 +2649,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/syncthing",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/syncthing.png",
-                    "version": "15.0.9"
+                    "version": "15.0.10"
                 },
                 {
                     "name": "synctube",
@@ -2857,7 +2857,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/unpoller",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/unpoller.png",
-                    "version": "7.0.11"
+                    "version": "7.0.12"
                 },
                 {
                     "name": "uptime-kuma",
@@ -2945,7 +2945,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.166"
+                    "version": "6.0.169"
                 },
                 {
                     "name": "wekan",
@@ -2977,7 +2977,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/whisper-asr-webservice",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/whisper-asr-webservice.png",
-                    "version": "1.0.11"
+                    "version": "1.0.13"
                 },
                 {
                     "name": "whoogle",
@@ -3017,7 +3017,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/wordpress",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wordpress.png",
-                    "version": "3.0.55"
+                    "version": "3.0.57"
                 },
                 {
                     "name": "wyoming-piper",
@@ -3057,7 +3057,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/xwiki",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/xwiki.png",
-                    "version": "8.0.19"
+                    "version": "8.0.20"
                 },
                 {
                     "name": "youtransfer",
@@ -3151,7 +3151,7 @@
                     "train": "enterprise",
                     "link": "https://truecharts.org/charts/enterprise/grafana",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/grafana.png",
-                    "version": "9.0.32"
+                    "version": "9.0.33"
                 },
                 {
                     "name": "kubernetes-reflector",
@@ -4033,11 +4033,11 @@
                 },
                 {
                     "name": "external-dns",
-                    "description": "API Support for your favorite torrent trackers.",
+                    "description": "ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.",
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/external-dns",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/external-dns.png",
-                    "version": "0.0.2"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "external-ip",
