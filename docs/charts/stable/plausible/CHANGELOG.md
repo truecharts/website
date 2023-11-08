@@ -2,6 +2,15 @@
 
 
 
+## [plausible-5.0.10](https://github.com/truecharts/charts/compare/plausible-5.0.9...plausible-5.0.10) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14465](https://github.com/truecharts/charts/issues/14465))
+  
+  
+
+
 ## [plausible-5.0.9](https://github.com/truecharts/charts/compare/plausible-5.0.8...plausible-5.0.9) (2023-11-08)
 
 ### Chore

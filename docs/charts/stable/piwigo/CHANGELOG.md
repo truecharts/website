@@ -2,6 +2,15 @@
 
 
 
+## [piwigo-7.0.16](https://github.com/truecharts/charts/compare/piwigo-7.0.15...piwigo-7.0.16) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14465](https://github.com/truecharts/charts/issues/14465))
+  
+  
+
+
 ## [piwigo-7.0.15](https://github.com/truecharts/charts/compare/piwigo-7.0.14...piwigo-7.0.15) (2023-11-08)
 
 ### Chore

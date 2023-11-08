@@ -2,6 +2,15 @@
 
 
 
+## [gamevault-backend-1.1.21](https://github.com/truecharts/charts/compare/gamevault-backend-1.1.20...gamevault-backend-1.1.21) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14465](https://github.com/truecharts/charts/issues/14465))
+  
+  
+
+
 ## [gamevault-backend-1.1.20](https://github.com/truecharts/charts/compare/gamevault-backend-1.1.19...gamevault-backend-1.1.20) (2023-11-08)
 
 ### Chore

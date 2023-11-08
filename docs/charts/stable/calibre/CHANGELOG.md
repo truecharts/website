@@ -2,6 +2,15 @@
 
 
 
+## [calibre-11.0.30](https://github.com/truecharts/charts/compare/calibre-11.0.29...calibre-11.0.30) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14465](https://github.com/truecharts/charts/issues/14465))
+  
+  
+
+
 ## [calibre-11.0.29](https://github.com/truecharts/charts/compare/calibre-11.0.28...calibre-11.0.29) (2023-11-08)
 
 ### Chore

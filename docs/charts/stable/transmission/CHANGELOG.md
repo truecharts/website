@@ -2,6 +2,15 @@
 
 
 
+## [transmission-17.0.11](https://github.com/truecharts/charts/compare/transmission-17.0.10...transmission-17.0.11) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14465](https://github.com/truecharts/charts/issues/14465))
+  
+  
+
+
 ## [transmission-17.0.10](https://github.com/truecharts/charts/compare/transmission-17.0.9...transmission-17.0.10) (2023-11-08)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [filebrowser-6.0.11](https://github.com/truecharts/charts/compare/filebrowser-6.0.10...filebrowser-6.0.11) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14465](https://github.com/truecharts/charts/issues/14465))
+  
+  
+
+
 ## [filebrowser-6.0.10](https://github.com/truecharts/charts/compare/filebrowser-6.0.9...filebrowser-6.0.10) (2023-11-08)
 
 ### Chore

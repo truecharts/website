@@ -2,6 +2,15 @@
 
 
 
+## [putty-5.0.9](https://github.com/truecharts/charts/compare/putty-5.0.8...putty-5.0.9) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14465](https://github.com/truecharts/charts/issues/14465))
+  
+  
+
+
 ## [putty-5.0.8](https://github.com/truecharts/charts/compare/putty-5.0.7...putty-5.0.8) (2023-11-08)
 
 ### Chore
