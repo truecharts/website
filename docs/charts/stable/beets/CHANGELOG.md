@@ -2,6 +2,15 @@
 
 
 
+## [beets-8.0.20](https://github.com/truecharts/charts/compare/beets-8.0.19...beets-8.0.20) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14454](https://github.com/truecharts/charts/issues/14454))
+  
+  
+
+
 ## [beets-8.0.19](https://github.com/truecharts/charts/compare/beets-8.0.18...beets-8.0.19) (2023-11-05)
 
 ### Chore

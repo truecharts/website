@@ -2,6 +2,15 @@
 
 
 
+## [tdarr-6.0.8](https://github.com/truecharts/charts/compare/tdarr-6.0.7...tdarr-6.0.8) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14454](https://github.com/truecharts/charts/issues/14454))
+  
+  
+
+
 ## [tdarr-6.0.7](https://github.com/truecharts/charts/compare/tdarr-6.0.6...tdarr-6.0.7) (2023-11-05)
 
 ### Chore

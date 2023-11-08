@@ -2,6 +2,15 @@
 
 
 
+## [openvscode-server-6.0.18](https://github.com/truecharts/charts/compare/openvscode-server-6.0.17...openvscode-server-6.0.18) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14454](https://github.com/truecharts/charts/issues/14454))
+  
+  
+
+
 ## [openvscode-server-6.0.17](https://github.com/truecharts/charts/compare/openvscode-server-6.0.16...openvscode-server-6.0.17) (2023-11-05)
 
 ### Chore

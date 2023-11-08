@@ -2,6 +2,15 @@
 
 
 
+## [ddns-go-6.0.12](https://github.com/truecharts/charts/compare/ddns-go-6.0.11...ddns-go-6.0.12) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14454](https://github.com/truecharts/charts/issues/14454))
+  
+  
+
+
 ## [ddns-go-6.0.11](https://github.com/truecharts/charts/compare/ddns-go-6.0.10...ddns-go-6.0.11) (2023-11-05)
 
 ### Chore

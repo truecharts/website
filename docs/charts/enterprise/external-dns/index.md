@@ -1,6 +1,6 @@
 # external-dns
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.13.6"](https://img.shields.io/badge/AppVersion-"0.13.6"-informational?style=flat-square)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.13.6"](https://img.shields.io/badge/AppVersion-"0.13.6"-informational?style=flat-square)
 
 ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
 
@@ -13,7 +13,7 @@ ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS prov
 
 - [**Changelog**](CHANGELOG)
 
-- [**Helm Security**](container-security)
+- [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

@@ -1,6 +1,6 @@
 # recyclarr
 
-![Version: 6.0.14](https://img.shields.io/badge/Version-6.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "6.0.2"](https://img.shields.io/badge/AppVersion-"6.0.2"-informational?style=flat-square)
+![Version: 6.0.15](https://img.shields.io/badge/Version-6.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "6.0.2"](https://img.shields.io/badge/AppVersion-"6.0.2"-informational?style=flat-square)
 
 A command-line application that will automatically synchronize recommended settings from TRaSH guides to your Sonarr/Radarr instances.
 

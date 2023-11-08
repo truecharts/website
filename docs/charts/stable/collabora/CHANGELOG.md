@@ -2,6 +2,15 @@
 
 
 
+## [collabora-2.0.12](https://github.com/truecharts/charts/compare/collabora-2.0.11...collabora-2.0.12) (2023-11-08)
+
+### Chore
+
+- update helm general non-major ([#14454](https://github.com/truecharts/charts/issues/14454))
+  
+  
+
+
 ## [collabora-2.0.11](https://github.com/truecharts/charts/compare/collabora-2.0.10...collabora-2.0.11) (2023-11-05)
 
 ### Chore
