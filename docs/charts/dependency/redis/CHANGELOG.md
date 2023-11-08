@@ -2,6 +2,15 @@
 
 
 
+## [redis-8.0.43](https://github.com/truecharts/charts/compare/redis-8.0.42...redis-8.0.43) (2023-11-08)
+
+### Fix
+
+- emergency portalhook hotpatch
+  
+  
+
+
 ## [redis-8.0.42](https://github.com/truecharts/charts/compare/redis-8.0.41...redis-8.0.42) (2023-11-08)
 
 ### Chore
