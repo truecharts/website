@@ -19,7 +19,7 @@
                     "train": "operators",
                     "link": "https://truecharts.org/charts/operators/cloudnative-pg",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cloudnative-pg.png",
-                    "version": "2.0.8"
+                    "version": "2.0.9"
                 },
                 {
                     "name": "metallb",
@@ -35,7 +35,7 @@
                     "train": "operators",
                     "link": "https://truecharts.org/charts/operators/prometheus-operator",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/prometheus-operator.png",
-                    "version": "1.0.9"
+                    "version": "1.0.10"
                 }
             ]
         },
@@ -321,7 +321,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.0.27"
+                    "version": "11.0.28"
                 },
                 {
                     "name": "channels-dvr",
@@ -457,7 +457,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/custom-app",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png",
-                    "version": "9.0.41"
+                    "version": "9.0.42"
                 },
                 {
                     "name": "cyberchef",
@@ -1105,7 +1105,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/immich",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/immich.png",
-                    "version": "8.1.32"
+                    "version": "8.1.33"
                 },
                 {
                     "name": "impostor-server",
@@ -1169,7 +1169,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jackett",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jackett.png",
-                    "version": "15.0.42"
+                    "version": "15.0.43"
                 },
                 {
                     "name": "jdownloader2",
@@ -1209,7 +1209,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/jenkins",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/jenkins.png",
-                    "version": "4.0.12"
+                    "version": "4.0.13"
                 },
                 {
                     "name": "joplin-server",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.266"
+                    "version": "3.0.270"
                 },
                 {
                     "name": "librespeed",
@@ -1433,7 +1433,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mattermost",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mattermost.png",
-                    "version": "9.0.43"
+                    "version": "9.0.44"
                 },
                 {
                     "name": "mc-router",
@@ -1489,7 +1489,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/metabase",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metabase.png",
-                    "version": "0.0.12"
+                    "version": "0.0.13"
                 },
                 {
                     "name": "metube",
@@ -1617,7 +1617,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mstream",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mstream.png",
-                    "version": "7.0.18"
+                    "version": "7.0.19"
                 },
                 {
                     "name": "muse",
@@ -1665,7 +1665,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/n8n",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png",
-                    "version": "9.0.23"
+                    "version": "9.0.24"
                 },
                 {
                     "name": "nano-wallet",
@@ -1697,7 +1697,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "22.1.5"
+                    "version": "22.1.8"
                 },
                 {
                     "name": "nextpvr",
@@ -1817,7 +1817,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/odoo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/odoo.png",
-                    "version": "14.0.10"
+                    "version": "14.0.12"
                 },
                 {
                     "name": "omada-controller",
@@ -1825,7 +1825,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/omada-controller",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/omada-controller.png",
-                    "version": "10.0.27"
+                    "version": "10.0.28"
                 },
                 {
                     "name": "ombi",
@@ -2369,7 +2369,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.246"
+                    "version": "8.0.249"
                 },
                 {
                     "name": "sabnzbd",
@@ -2641,7 +2641,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/synclounge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/synclounge.png",
-                    "version": "6.0.13"
+                    "version": "6.0.14"
                 },
                 {
                     "name": "syncthing",
@@ -3119,7 +3119,7 @@
         },
         {
             "name": "enterprise",
-            "count": 9,
+            "count": 10,
             "charts": [
                 {
                     "name": "authelia",
@@ -3144,6 +3144,14 @@
                     "link": "https://truecharts.org/charts/enterprise/clusterissuer",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png",
                     "version": "4.2.6"
+                },
+                {
+                    "name": "external-dns",
+                    "description": "ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.",
+                    "train": "enterprise",
+                    "link": "https://truecharts.org/charts/enterprise/external-dns",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/external-dns.png",
+                    "version": "1.0.0"
                 },
                 {
                     "name": "grafana",
@@ -3197,7 +3205,7 @@
         },
         {
             "name": "incubator",
-            "count": 443,
+            "count": 442,
             "charts": [
                 {
                     "name": "acestream",
@@ -4030,14 +4038,6 @@
                     "link": "https://truecharts.org/charts/incubator/explainshell",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/explainshell.png",
                     "version": "2.0.9"
-                },
-                {
-                    "name": "external-dns",
-                    "description": "ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/external-dns",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/external-dns.png",
-                    "version": "0.0.5"
                 },
                 {
                     "name": "external-ip",
