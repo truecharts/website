@@ -2,6 +2,11 @@
 
 
 
+## [external-dns-1.0.2](https://github.com/truecharts/charts/compare/external-dns-1.0.1...external-dns-1.0.2) (2023-11-08)
+
+
+
+
 ## [external-dns-1.0.1](https://github.com/truecharts/charts/compare/external-dns-1.0.0...external-dns-1.0.1) (2023-11-08)
 
 ### Chore

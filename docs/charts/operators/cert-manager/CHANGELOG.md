@@ -2,6 +2,11 @@
 
 
 
+## [cert-manager-1.1.6](https://github.com/truecharts/charts/compare/cert-manager-1.1.5...cert-manager-1.1.6) (2023-11-08)
+
+
+
+
 ## [cert-manager-1.1.5](https://github.com/truecharts/charts/compare/cert-manager-1.1.4...cert-manager-1.1.5) (2023-11-08)
 
 ### Chore
