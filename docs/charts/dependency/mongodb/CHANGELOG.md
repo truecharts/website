@@ -2,6 +2,11 @@
 
 
 
+## [mongodb-8.0.38](https://github.com/truecharts/charts/compare/mongodb-8.0.37...mongodb-8.0.38) (2023-11-08)
+
+
+
+
 ## [mongodb-8.0.37](https://github.com/truecharts/charts/compare/mongodb-8.0.36...mongodb-8.0.37) (2023-11-08)
 
 ### Fix
