@@ -868,7 +868,6 @@ The intro needs improvement ;)
 |euterpe                        |music                      |PVC      |-                |/root/Music                                    |Read/Write|Enabled                |
 |euterpe                        |configfile                 |secret   |-                |/root/.euterpe/config.json                     |Read Only |Enabled                |
 |explainshell                   |-                          |-        |-                |-                                              |-         |Persistence not Defined|
-|external-dns                   |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |external-ip                    |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |factorio                       |config                     |PVC      |-                |/factorio                                      |Read/Write|Enabled                |
 |factorioservermanager          |config                     |PVC      |-                |/opt/factorio/config                           |Read/Write|Enabled                |
@@ -1449,6 +1448,7 @@ The intro needs improvement ;)
 |authelia            |config     |PVC     |-       |/config                  |Read/Write|Enabled                |
 |blocky              |-          |-       |-       |-                        |-         |Persistence not Defined|
 |clusterissuer       |-          |-       |-       |-                        |-         |Persistence not Defined|
+|external-dns        |-          |-       |-       |-                        |-         |Persistence not Defined|
 |grafana             |config     |PVC     |-       |/opt/bitnami/grafana/data|Read/Write|Enabled                |
 |grafana             |grafana-tmp|emptyDir|-       |/opt/bitnami/grafana/tmp |Read/Write|Enabled                |
 |kubernetes-reflector|-          |-       |-       |-                        |-         |Persistence not Defined|
