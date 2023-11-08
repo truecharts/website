@@ -294,7 +294,7 @@ Additional Documentation:
 - [persistence](persistence/README.md)
 - [configmap](configmap.md)
 - [secret](secret.md)
-- [imagePullSecrets](imagePullSecrets.md)
+- [imagePullSecret](imagePullSecret.md)
 - [serviceAccount](serviceAccount.md)
 - [rbac](rbac.md)
 - [podDisruptionBudget](podDisruptionBudget.md)
