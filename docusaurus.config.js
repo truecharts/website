@@ -35,8 +35,7 @@ const config = {
   markdown: {
     // By default we compile all files as MDX (allow JSX), but you can opt-in for CommonMark if you want
     // See https://github.com/facebook/docusaurus/pull/9097
-	// TODO: uncomment on next release
-    // format: 'detect', 
+    format: 'detect', 
 
     mdx1Compat: {
       // Allow html comments in MDX files like blog `<!-- truncate -->` markers
