@@ -798,6 +798,8 @@ The intro needs improvement ;)
 |cryptpad                       |customizepath              |PVC      |-                |/cryptpad/customize                            |Read/Write|Enabled                |
 |cryptpad                       |data                       |PVC      |-                |/cryptpad/data                                 |Read/Write|Enabled                |
 |cryptpad                       |datastorepath              |PVC      |-                |/cryptpad/datastore                            |Read/Write|Enabled                |
+|cs2                            |steamcmd                   |PVC      |-                |/serverdata/steamcmd                           |Read/Write|Enabled                |
+|cs2                            |serverfiles                |PVC      |-                |/serverdata/serverfiles                        |Read/Write|Enabled                |
 |csgo                           |serverfiles                |PVC      |-                |/serverdata/serverfiles                        |Read/Write|Enabled                |
 |csgo                           |steamcmd                   |PVC      |-                |/serverdata/steamcmd                           |Read/Write|Enabled                |
 |cssource                       |serverfiles                |PVC      |-                |/serverdata/serverfiles                        |Read/Write|Enabled                |
@@ -1172,6 +1174,8 @@ The intro needs improvement ;)
 |plextraktsync                  |config                     |PVC      |-                |/app/config                                    |Read/Write|Enabled                |
 |plik                           |data                       |PVC      |-                |/data                                          |Read/Write|Enabled                |
 |plik                           |plikd-config               |custom   |-                |/home/plik/server/plikd.cfg                    |Read Only |Enabled                |
+|pocketmine-mp                  |data                       |PVC      |-                |/data                                          |Read/Write|Enabled                |
+|pocketmine-mp                  |plugins                    |PVC      |-                |/plugins                                       |Read/Write|Enabled                |
 |post-recording                 |backupfolder               |PVC      |-                |/backup                                        |Read/Write|Enabled                |
 |post-recording                 |config                     |PVC      |-                |/config                                        |Read/Write|Enabled                |
 |post-recording                 |watchfolder                |PVC      |-                |/watch                                         |Read/Write|Enabled                |
