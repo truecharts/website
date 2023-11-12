@@ -1096,8 +1096,7 @@ The intro needs improvement ;)
 |mordhau                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                        |Read/Write|Enabled                |
 |mordhau                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                           |Read/Write|Enabled                |
 |moviegrabber                   |moviegrabber               |PVC      |-                |/media                                         |Read/Write|Enabled                |
-|multi-scrobbler                |config                     |PVC      |-                |/home/node/config                              |Read/Write|Enabled                |
-|multi-scrobbler                |logs                       |PVC      |-                |/home/node/app/logs                            |Read/Write|Enabled                |
+|multi-scrobbler                |config                     |PVC      |-                |/config                                        |Read/Write|Enabled                |
 |namecheap-ddns                 |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |necesse                        |serverfiles                |PVC      |-                |/serverdata/serverfiles                        |Read/Write|Enabled                |
 |necesse                        |steamcmd                   |PVC      |-                |/serverdata/steamcmd                           |Read/Write|Enabled                |
