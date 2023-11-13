@@ -9,13 +9,12 @@
 | persistence.[volume-name].accessModes      | `string/list` |    ❌    |         ✅         | `{{ .Values.global.fallbackDefaults.pvcAccessModes }}` | Define the accessModes of the PVC, if it's single can be defined as a string, multiple as a list                                 |
 | persistence.[volume-name].volumeName       |   `string`    |    ❌    |         ✅         |                                                        | Define the volumeName of a PV, backing the claim                                                                                 |
 | persistence.[volume-name].existingClaim    |   `string`    |    ❌    |         ✅         |                                                        | Define an existing claim to use                                                                                                  |
-| persistence.[volume-name].storageClassName |   `string`    |    ❌    |         ✅         |                       See bellow                       | Define an existing claim to use                                                                                                  |
+| persistence.[volume-name].storageClass     |   `string`    |    ❌    |         ✅         |                       See bellow                       | Define the storageClass to use                                                                                                   |
 | persistence.[volume-name].size             |   `string`    |    ❌    |         ✅         |    `{{ .Values.global.fallbackDefaults.pvcSize }}`     | Define the size of the PVC                                                                                                       |
 
 > - If storageClass is defined on the `persistence`:
 >   - "-" **->** returns `""`, which means requesting a PV without class
 >   - "SCALE-ZFS" **->** returns the value set on `{{ .Values.global.ixChartContext.storageClassName }}`
->   - (\*)"SCALE-SMB" **->** returns the value set on `{{ .Values.global.ixChartContext.smbStorageClassName }}` (Example for the future, not implemented yet)
 >   - Else **->** return the original defined `storageClass`
 > - Else if we are in an **ixChartContext**, always return `{{ .Values.global.ixChartContext.storageClassName }}`.
 > - Else if there is a storageClass defined in `{{ .Values.fallbackDefaults.storageClass }}`, return this
