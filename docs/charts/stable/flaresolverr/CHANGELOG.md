@@ -2,6 +2,15 @@
 
 
 
+## [flaresolverr-10.0.16](https://github.com/truecharts/charts/compare/flaresolverr-10.0.15...flaresolverr-10.0.16) (2023-11-14)
+
+### Chore
+
+- update container image tccr.io/truecharts/flaresolverr to v3.3.10 ([#14641](https://github.com/truecharts/charts/issues/14641))
+  
+  
+
+
 ## [flaresolverr-10.0.15](https://github.com/truecharts/charts/compare/flaresolverr-10.0.14...flaresolverr-10.0.15) (2023-11-13)
 
 ### Chore
