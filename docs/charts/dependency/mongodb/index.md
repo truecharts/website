@@ -1,6 +1,6 @@
 # mongodb
 
-![Version: 8.0.42](https://img.shields.io/badge/Version-8.0.42-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "7.0.3"](https://img.shields.io/badge/AppVersion-"7.0.3"-informational?style=flat-square)
+![Version: 8.0.43](https://img.shields.io/badge/Version-8.0.43-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "7.0.3"](https://img.shields.io/badge/AppVersion-"7.0.3"-informational?style=flat-square)
 
 Fast, reliable, scalable, and easy to use open-source no-sql database system.
 

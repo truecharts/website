@@ -2,6 +2,15 @@
 
 
 
+## [kube-state-metrics-3.0.40](https://github.com/truecharts/charts/compare/kube-state-metrics-3.0.39...kube-state-metrics-3.0.40) (2023-11-14)
+
+### Chore
+
+- update helm chart common to 14.5.0 ([#14466](https://github.com/truecharts/charts/issues/14466))
+  
+  
+
+
 ## [kube-state-metrics-3.0.39](https://github.com/truecharts/charts/compare/kube-state-metrics-3.0.38...kube-state-metrics-3.0.39) (2023-11-10)
 
 ### Chore
