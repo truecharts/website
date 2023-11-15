@@ -1387,6 +1387,7 @@ The intro needs improvement ;)
 |valetudo-mapper                |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |van-dam                        |libraries                  |PVC      |-                |/libraries                                     |Read/Write|Enabled                |
 |vaulthunters                   |data                       |PVC      |-                |/data                                          |Read/Write|Enabled                |
+|velero                         |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |venstar2mqtt                   |-                          |-        |-                |-                                              |-         |Persistence not Defined|
 |vertex                         |config                     |PVC      |-                |/vertex                                        |Read/Write|Enabled                |
 |vintage-story                  |serverfiles                |PVC      |-                |/vintagestory                                  |Read/Write|Enabled                |
