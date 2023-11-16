@@ -1465,12 +1465,9 @@ The intro needs improvement ;)
 
 | App | Volume Name | Type | Host Path | Mount Path | Mode | Status |
 |:----|:-----------:|:----:|:----------|:-----------|:----:|:------:|
-|cert-manager       |-                   |-       |-       |-          |-         |Persistence not Defined|
-|cloudnative-pg     |scratch-data        |emptyDir|-       |/controller|Read/Write|Enabled                |
-|cloudnative-pg     |webhook-certificates|PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |webhook-server-cert |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |metallb-excludel2   |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|metallb            |memberlist          |PVC     |-       |-          |Read/Write|Mount Path not Defined |
-|prometheus-operator|-                   |-       |-       |-          |-         |Persistence not Defined|
+|cert-manager       |-       |-   |-       |-        |-   |Persistence not Defined|
+|cloudnative-pg     |-       |-   |-       |-        |-   |Persistence not Defined|
+|metallb            |-       |-   |-       |-        |-   |Persistence not Defined|
+|prometheus-operator|-       |-   |-       |-        |-   |Persistence not Defined|
 
 > If you notice something wrong in the above info, please notify us so we can update the generator script

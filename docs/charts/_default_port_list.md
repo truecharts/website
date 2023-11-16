@@ -1320,15 +1320,10 @@ they should provide no or minimal conflicts without being changed.
 
 | App | Service | Port Name | Port | Protocol | Status | Note |
 |:----|:-------:|:---------:|:----:|:--------:|:------:|:-----|
-|cert-manager       |main                |-            |-   |-       |Service is Disabled|-   |
-|cloudnative-pg     |cnpg-webhook-service|webhook      |443 |https   |Active             |-   |
-|metallb            |main                |main         |443 |TCP     |Active             |-   |
-|metallb            |controllermon       |controllermon|7472|TCP     |Active             |-   |
-|metallb            |speakermon          |speakermon   |7473|TCP     |Active             |-   |
-|metallb            |memberlist          |memberlisttcp|7946|tcp     |Active             |-   |
-|metallb            |memberlist          |memberlistudp|7946|udp     |Active             |-   |
-|cloudnative-pg     |main                |main         |8080|http    |Active             |-   |
-|prometheus-operator|main                |main         |8080|http    |Active             |-   |
+|cert-manager       |main    |-        |-   |-       |Service is Disabled|-   |
+|cloudnative-pg     |main    |-        |-   |-       |Service is Disabled|-   |
+|metallb            |main    |-        |-   |-       |Service is Disabled|-   |
+|prometheus-operator|main    |main     |8080|http    |Active             |-   |
 
 ## Official Apps
 
