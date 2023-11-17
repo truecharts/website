@@ -2,6 +2,11 @@
 
 
 
+## [hedgedoc-9.0.20](https://github.com/truecharts/charts/compare/hedgedoc-9.0.19...hedgedoc-9.0.20) (2023-11-17)
+
+
+
+
 ## [hedgedoc-9.0.19](https://github.com/truecharts/charts/compare/hedgedoc-9.0.18...hedgedoc-9.0.19) (2023-11-08)
 
 ### Chore

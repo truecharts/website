@@ -2,6 +2,11 @@
 
 
 
+## [firezone-0.2.13](https://github.com/truecharts/charts/compare/firezone-0.2.12...firezone-0.2.13) (2023-11-17)
+
+
+
+
 ## [firezone-0.2.12](https://github.com/truecharts/charts/compare/firezone-0.2.11...firezone-0.2.12) (2023-11-10)
 
 ### Chore

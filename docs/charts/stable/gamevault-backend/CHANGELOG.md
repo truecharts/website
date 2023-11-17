@@ -2,6 +2,11 @@
 
 
 
+## [gamevault-backend-1.1.22](https://github.com/truecharts/charts/compare/gamevault-backend-1.1.21...gamevault-backend-1.1.22) (2023-11-17)
+
+
+
+
 ## [gamevault-backend-1.1.21](https://github.com/truecharts/charts/compare/gamevault-backend-1.1.20...gamevault-backend-1.1.21) (2023-11-08)
 
 ### Chore

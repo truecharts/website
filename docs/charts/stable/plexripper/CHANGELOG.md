@@ -2,6 +2,11 @@
 
 
 
+## [plexripper-5.0.4](https://github.com/truecharts/charts/compare/plexripper-5.0.3...plexripper-5.0.4) (2023-11-17)
+
+
+
+
 ## [plexripper-5.0.3](https://github.com/truecharts/charts/compare/plexripper-5.0.2...plexripper-5.0.3) (2023-11-12)
 
 ### Chore

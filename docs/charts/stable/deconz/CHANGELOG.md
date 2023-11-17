@@ -2,6 +2,11 @@
 
 
 
+## [deconz-12.0.13](https://github.com/truecharts/charts/compare/deconz-12.0.12...deconz-12.0.13) (2023-11-17)
+
+
+
+
 ## [deconz-12.0.12](https://github.com/truecharts/charts/compare/deconz-12.0.11...deconz-12.0.12) (2023-11-15)
 
 ### Chore

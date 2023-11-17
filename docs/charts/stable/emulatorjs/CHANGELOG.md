@@ -2,6 +2,11 @@
 
 
 
+## [emulatorjs-6.0.17](https://github.com/truecharts/charts/compare/emulatorjs-6.0.16...emulatorjs-6.0.17) (2023-11-17)
+
+
+
+
 ## [emulatorjs-6.0.16](https://github.com/truecharts/charts/compare/emulatorjs-6.0.15...emulatorjs-6.0.16) (2023-11-16)
 
 ### Chore

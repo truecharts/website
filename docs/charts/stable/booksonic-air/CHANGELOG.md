@@ -2,6 +2,11 @@
 
 
 
+## [booksonic-air-10.0.21](https://github.com/truecharts/charts/compare/booksonic-air-10.0.20...booksonic-air-10.0.21) (2023-11-17)
+
+
+
+
 ## [booksonic-air-10.0.20](https://github.com/truecharts/charts/compare/booksonic-air-10.0.19...booksonic-air-10.0.20) (2023-11-15)
 
 ### Chore

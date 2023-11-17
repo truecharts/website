@@ -2,6 +2,11 @@
 
 
 
+## [external-service-10.0.10](https://github.com/truecharts/charts/compare/external-service-10.0.9...external-service-10.0.10) (2023-11-17)
+
+
+
+
 ## [external-service-10.0.9](https://github.com/truecharts/charts/compare/external-service-10.0.8...external-service-10.0.9) (2023-11-08)
 
 ### Chore

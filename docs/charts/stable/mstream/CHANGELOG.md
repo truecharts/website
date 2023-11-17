@@ -2,6 +2,11 @@
 
 
 
+## [mstream-7.0.23](https://github.com/truecharts/charts/compare/mstream-7.0.22...mstream-7.0.23) (2023-11-17)
+
+
+
+
 ## [mstream-7.0.22](https://github.com/truecharts/charts/compare/mstream-7.0.21...mstream-7.0.22) (2023-11-15)
 
 ### Chore

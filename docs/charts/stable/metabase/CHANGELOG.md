@@ -2,6 +2,11 @@
 
 
 
+## [metabase-0.0.16](https://github.com/truecharts/charts/compare/metabase-0.0.15...metabase-0.0.16) (2023-11-17)
+
+
+
+
 ## [metabase-0.0.15](https://github.com/truecharts/charts/compare/metabase-0.0.14...metabase-0.0.15) (2023-11-08)
 
 ### Chore

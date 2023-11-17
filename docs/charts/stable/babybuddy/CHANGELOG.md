@@ -2,6 +2,11 @@
 
 
 
+## [babybuddy-13.0.22](https://github.com/truecharts/charts/compare/babybuddy-13.0.21...babybuddy-13.0.22) (2023-11-17)
+
+
+
+
 ## [babybuddy-13.0.21](https://github.com/truecharts/charts/compare/babybuddy-13.0.20...babybuddy-13.0.21) (2023-11-08)
 
 ### Chore

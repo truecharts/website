@@ -2,6 +2,11 @@
 
 
 
+## [drawio-6.0.24](https://github.com/truecharts/charts/compare/drawio-6.0.23...drawio-6.0.24) (2023-11-17)
+
+
+
+
 ## [drawio-6.0.23](https://github.com/truecharts/charts/compare/drawio-6.0.22...drawio-6.0.23) (2023-11-15)
 
 ### Chore

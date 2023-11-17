@@ -2,6 +2,11 @@
 
 
 
+## [jackett-16.0.4](https://github.com/truecharts/charts/compare/jackett-16.0.3...jackett-16.0.4) (2023-11-17)
+
+
+
+
 ## [jackett-16.0.3](https://github.com/truecharts/charts/compare/jackett-16.0.2...jackett-16.0.3) (2023-11-09)
 
 ### Fix

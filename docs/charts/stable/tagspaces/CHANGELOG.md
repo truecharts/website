@@ -2,6 +2,11 @@
 
 
 
+## [tagspaces-0.0.12](https://github.com/truecharts/charts/compare/tagspaces-0.0.11...tagspaces-0.0.12) (2023-11-17)
+
+
+
+
 ## [tagspaces-0.0.11](https://github.com/truecharts/charts/compare/tagspaces-0.0.10...tagspaces-0.0.11) (2023-11-08)
 
 ### Chore

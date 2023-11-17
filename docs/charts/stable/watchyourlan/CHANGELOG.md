@@ -2,6 +2,11 @@
 
 
 
+## [watchyourlan-5.1.6](https://github.com/truecharts/charts/compare/watchyourlan-5.1.5...watchyourlan-5.1.6) (2023-11-17)
+
+
+
+
 ## [watchyourlan-5.1.5](https://github.com/truecharts/charts/compare/watchyourlan-5.1.4...watchyourlan-5.1.5) (2023-11-08)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [qbitrr-0.0.24](https://github.com/truecharts/charts/compare/qbitrr-0.0.23...qbitrr-0.0.24) (2023-11-17)
+
+
+
+
 ## [qbitrr-0.0.23](https://github.com/truecharts/charts/compare/qbitrr-0.0.22...qbitrr-0.0.23) (2023-11-16)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [kms-15.0.9](https://github.com/truecharts/charts/compare/kms-15.0.8...kms-15.0.9) (2023-11-17)
+
+
+
+
 ## [kms-15.0.8](https://github.com/truecharts/charts/compare/kms-15.0.7...kms-15.0.8) (2023-11-08)
 
 ### Chore
