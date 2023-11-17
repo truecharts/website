@@ -201,6 +201,7 @@ The intro needs improvement ;)
 |heimdall                  |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |homarr                    |config                |PVC      |-              |/app/data/configs                                    |Read/Write|Enabled                |
 |homarr                    |icons                 |PVC      |-              |/app/public/icons                                    |Read/Write|Enabled                |
+|homarr                    |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
 |home-assistant            |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |home-assistant            |init                  |configmap|-              |/config/init                                         |Read Only |Enabled                |
 |homebox                   |data                  |PVC      |-              |/data                                                |Read/Write|Enabled                |
@@ -437,6 +438,7 @@ The intro needs improvement ;)
 |plausible                 |-                     |-        |-              |-                                                    |-         |Persistence not Defined|
 |plaxt                     |config                |PVC      |-              |/app/keystore                                        |Read/Write|Enabled                |
 |plex                      |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
+|plex                      |transcode             |emptyDir |-              |/transcode                                           |Read/Write|Enabled                |
 |plex-auto-languages       |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |plex-utills               |config                |PVC      |-              |/config                                              |Read/Write|Enabled                |
 |plex-utills               |logs                  |PVC      |-              |/logs                                                |Read/Write|Enabled                |
@@ -747,6 +749,9 @@ The intro needs improvement ;)
 |blender                        |config                     |PVC      |-                |/config                                        |Read/Write|Enabled                |
 |blender-desktop-g3             |internalshare              |PVC      |-                |/UNRAID_SHARE                                  |Read/Write|Enabled                |
 |blender-desktop-g3             |storageprojects            |PVC      |-                |/srv/projects                                  |Read/Write|Enabled                |
+|borg-server                    |borg                       |PVC      |-                |/var/lib/docker-borg                           |Read/Write|Enabled                |
+|borg-server                    |backups                    |PVC      |-                |/home/borg/backups                             |Read/Write|Enabled                |
+|borg-server                    |ssh                        |PVC      |-                |/home/borg/.ssh                                |Read/Write|Enabled                |
 |breitbandmessung-de            |config                     |PVC      |-                |/usr/src/app/config                            |Read/Write|Enabled                |
 |breitbandmessung-de            |messurementlogs            |PVC      |-                |/export/                                       |Read/Write|Enabled                |
 |briefkasten                    |-                          |-        |-                |-                                              |-         |Persistence not Defined|
@@ -1400,6 +1405,8 @@ The intro needs improvement ;)
 |vorta                          |backupsfrom                |PVC      |-                |/data/bkp_from                                 |Read Only |Enabled                |
 |vorta                          |backupsto                  |PVC      |-                |/data/bkp_to                                   |Read/Write|Enabled                |
 |vorta                          |config                     |PVC      |-                |/config                                        |Read/Write|Enabled                |
+|wallos                         |database                   |PVC      |-                |/var/www/html/db                               |Read/Write|Enabled                |
+|wallos                         |logos                      |PVC      |-                |/var/www/html/images/uploads/logos             |Read/Write|Enabled                |
 |watcharr                       |data                       |PVC      |-                |/data                                          |Read/Write|Enabled                |
 |wbo                            |data                       |PVC      |-                |/opt/app/server-data                           |Read/Write|Enabled                |
 |webp-server                    |storagecache               |PVC      |-                |/opt/exhaust                                   |Read/Write|Enabled                |
