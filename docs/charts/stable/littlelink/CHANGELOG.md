@@ -2,6 +2,15 @@
 
 
 
+## [littlelink-10.0.41](https://github.com/truecharts/charts/compare/littlelink-10.0.40...littlelink-10.0.41) (2023-11-17)
+
+### Fix
+
+- update container image ghcr.io/techno-tim/littlelink-server to latest ([#14773](https://github.com/truecharts/charts/issues/14773))
+  
+  
+
+
 ## [littlelink-10.0.40](https://github.com/truecharts/charts/compare/littlelink-10.0.39...littlelink-10.0.40) (2023-11-17)
 
 
