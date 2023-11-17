@@ -2,6 +2,11 @@
 
 
 
+## [mariadb-9.0.43](https://github.com/truecharts/charts/compare/mariadb-9.0.42...mariadb-9.0.43) (2023-11-17)
+
+
+
+
 ## [mariadb-9.0.42](https://github.com/truecharts/charts/compare/mariadb-9.0.41...mariadb-9.0.42) (2023-11-15)
 
 ### Chore
