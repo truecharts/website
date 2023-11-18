@@ -2,6 +2,11 @@
 
 
 
+## [prometheus-13.0.22](https://github.com/truecharts/charts/compare/prometheus-13.0.21...prometheus-13.0.22) (2023-11-18)
+
+
+
+
 ## [prometheus-13.0.21](https://github.com/truecharts/charts/compare/prometheus-13.0.20...prometheus-13.0.21) (2023-11-17)
 
 ### Feat

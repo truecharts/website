@@ -2,6 +2,11 @@
 
 
 
+## [nextcloud-22.1.16](https://github.com/truecharts/charts/compare/nextcloud-22.1.15...nextcloud-22.1.16) (2023-11-18)
+
+
+
+
 ## [nextcloud-22.1.15](https://github.com/truecharts/charts/compare/nextcloud-22.1.14...nextcloud-22.1.15) (2023-11-17)
 
 

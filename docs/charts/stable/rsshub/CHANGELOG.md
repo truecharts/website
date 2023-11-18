@@ -2,6 +2,11 @@
 
 
 
+## [rsshub-8.0.267](https://github.com/truecharts/charts/compare/rsshub-8.0.266...rsshub-8.0.267) (2023-11-18)
+
+
+
+
 ## [rsshub-8.0.266](https://github.com/truecharts/charts/compare/rsshub-8.0.265...rsshub-8.0.266) (2023-11-17)
 
 ### Fix

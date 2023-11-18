@@ -1,6 +1,6 @@
 # whisper-asr-webservice
 
-![Version: 1.0.16](https://img.shields.io/badge/Version-1.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.2.3"](https://img.shields.io/badge/AppVersion-"1.2.3"-informational?style=flat-square)
+![Version: 1.0.17](https://img.shields.io/badge/Version-1.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.2.3"](https://img.shields.io/badge/AppVersion-"1.2.3"-informational?style=flat-square)
 
 Whisper is a general-purpose speech recognition model.
 
