@@ -15,7 +15,7 @@ The decision to cease container mirroring brings increased transparency for True
  **Faster and more Efficient processing**:
 Our current automated testing, takes a lot of processing time. Part of this is seperated testing and releasing of the the container mirror. By removing the container mirror, we can lower the amount of tests run seperately by 20%, significantly increasing the speed at which we can follow upstream releases of new versions.
 
-As well, we would like to highlight these two important aspects of this transition below:
+## As well, we would like to highlight these two important aspects of this transition below:
 
 - **DockerHub Rate Limits**:
 In a world where some container registries are subject to rate limits, this change does mean users might hit rate-limits when pulling certain containers. Especially those from dockerhub. If this is the case, please contact the container creator and request they use a different container registry.
