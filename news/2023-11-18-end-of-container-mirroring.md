@@ -12,10 +12,11 @@ TrueCharts has always been committed to delivering high-quality Helm charts that
 - **Enhanced Clarity for Chart Users**:
 The decision to cease container mirroring brings increased transparency for TrueCharts users. With a clear distinction between containers provided by TrueCharts and those hosted elsewhere, users can easily identify which containers are in use within their deployments. This added clarity fosters a better understanding of the components powering their applications and promotes a more informed and empowered user community.
 
-- **Mitigating DockerHub Limits**:
-In a world where container registries are subject to rate limits, discontinuing mirroring aligns with TrueCharts' commitment to user convenience. By relying on users to pull containers directly from their original sources, TrueCharts mitigates the risk of users hitting DockerHub rate limits. This proactive approach ensures a smoother user experience and prevents potential disruptions caused by exceeding container registry limits.
 
 As well, we would like to highlight these two important aspects of this transition below:
+
+- **DockerHub Rate Limits**:
+In a world where some container registries are subject to rate limits, this change does mean users might hit rate-limits when pulling certain containers. Especially those from dockerhub. If this is the case, please contact the container creator and request they use a different container registry.
 
 - **Gradual Transition for Current Users:**
 Change can be daunting, especially for existing users accustomed to a certain workflow. Therefore, the discontinuation of container mirroring will not impact current users for at least a year. During this transition period, users can continue to benefit from mirrored images while TrueCharts prepares them for the upcoming change through clear communication and support.
