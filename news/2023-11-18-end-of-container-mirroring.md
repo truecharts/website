@@ -1,7 +1,7 @@
 ---
 slug: "stability-tiers-and-helm"
 title: "The End of Container Mirroring"
-authors: [ornias]
+authors: [jagrbombs]
 ---
 
 In the ever-evolving landscape of containerization and application deployment, TrueCharts has been at the forefront of providing users with streamlined and efficient Helm charts. As TrueCharts continues to prioritize user experience and development efficiency, a notable change is on the horizon – the decision to discontinue mirroring containers. We've highlighted below the main reasons for this change.
