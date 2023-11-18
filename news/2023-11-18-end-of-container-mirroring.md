@@ -26,6 +26,6 @@ Change can be daunting, especially for existing users accustomed to a certain wo
 - **Seamless and Non-Breaking Change:**
 TrueCharts is committed to making this transition as seamless as possible. Users can expect a non-disruptive experience, with no breaking changes to their current deployments. TrueCharts will provide comprehensive documentation and support to guide users through the transition, ensuring that the shift away from mirroring is a smooth and hassle-free process.
 
-Conclusion:
+## Conclusion:
 
 As TrueCharts takes this strategic step towards discontinuing container mirroring, the focus remains on user experience, transparency, and efficient development. By embracing this change, TrueCharts aims to provide users with an even more robust platform for deploying applications on Kubernetes. As the containerization landscape continues to evolve, TrueCharts remains dedicated to simplifying the deployment process and empowering users with the tools they need for success.
