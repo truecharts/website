@@ -1,0 +1,28 @@
+---
+slug: "stability-tiers-and-helm"
+title: "The End of Container Mirroring"
+authors: [ornias]
+---
+
+In the ever-evolving landscape of containerization and application deployment, TrueCharts has been at the forefront of providing users with streamlined and efficient Helm charts. As TrueCharts continues to prioritize user experience and development efficiency, a notable change is on the horizon – the decision to discontinue mirroring containers. We've highlighted below the main reasons for this change.
+
+- **Focusing Dev Time on Innovation**:
+TrueCharts has always been committed to delivering high-quality Helm charts that simplify the deployment of applications on Kubernetes. By discontinuing container mirroring, the development team can now redirect their efforts and time towards enhancing existing charts, introducing new features, and ensuring the overall improvement of the TrueCharts ecosystem. This shift in focus aims to bring users an even more polished and feature-rich experience.
+
+- **Enhanced Clarity for Chart Users**:
+The decision to cease container mirroring brings increased transparency for TrueCharts users. With a clear distinction between containers provided by TrueCharts and those hosted elsewhere, users can easily identify which containers are in use within their deployments. This added clarity fosters a better understanding of the components powering their applications and promotes a more informed and empowered user community.
+
+- **Mitigating DockerHub Limits**:
+In a world where container registries are subject to rate limits, discontinuing mirroring aligns with TrueCharts' commitment to user convenience. By relying on users to pull containers directly from their original sources, TrueCharts mitigates the risk of users hitting DockerHub rate limits. This proactive approach ensures a smoother user experience and prevents potential disruptions caused by exceeding container registry limits.
+
+As well, we would like to highlight these two important aspects of this transition below:
+
+- **Gradual Transition for Current Users:**
+Change can be daunting, especially for existing users accustomed to a certain workflow. Therefore, the discontinuation of container mirroring will not impact current users for at least a year. During this transition period, users can continue to benefit from mirrored images while TrueCharts prepares them for the upcoming change through clear communication and support.
+
+- **Seamless and Non-Breaking Change:**
+TrueCharts is committed to making this transition as seamless as possible. Users can expect a non-disruptive experience, with no breaking changes to their current deployments. TrueCharts will provide comprehensive documentation and support to guide users through the transition, ensuring that the shift away from mirroring is a smooth and hassle-free process.
+
+Conclusion:
+
+As TrueCharts takes this strategic step towards discontinuing container mirroring, the focus remains on user experience, transparency, and efficient development. By embracing this change, TrueCharts aims to provide users with an even more robust platform for deploying applications on Kubernetes. As the containerization landscape continues to evolve, TrueCharts remains dedicated to simplifying the deployment process and empowering users with the tools they need for success.
