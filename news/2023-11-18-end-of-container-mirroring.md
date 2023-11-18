@@ -12,8 +12,8 @@ TrueCharts has always been committed to delivering high-quality Helm charts that
 - **Enhanced Clarity for Chart Users**:
 The decision to cease container mirroring brings increased transparency for TrueCharts users. With a clear distinction between containers provided by TrueCharts and those hosted elsewhere, users can easily identify which containers are in use within their deployments. This added clarity fosters a better understanding of the components powering their applications and promotes a more informed and empowered user community.
 
- **Faster and more Efficient processing**:
-Our current automated testing, takes a lot of processing time. Part of this is seperated testing and releasing of the the container mirror. By removing the container mirror, we can lower the amount of tests run seperately by 20%, significantly increasing the speed at which we can follow upstream releases of new versions.
+- **Faster and More Efficient Processing**:
+Our current automated testing, takes a lot of processing time. Part of this is separated testing and releasing of the the container mirror. By removing the container mirror, we can lower the amount of tests run separately by 20%, significantly increasing the speed at which we can follow upstream releases of new versions.
 
 ## As well, we would like to highlight these two important aspects of this transition below:
 
@@ -24,7 +24,7 @@ In a world where some container registries are subject to rate limits, this chan
 Change can be daunting, especially for existing users accustomed to a certain workflow. Therefore, the discontinuation of container mirroring will not impact current users for at least a year. During this transition period, users can continue to benefit from mirrored images while TrueCharts prepares them for the upcoming change through clear communication and support.
 
 - **Seamless and Non-Breaking Change:**
-TrueCharts is committed to making this transition as seamless as possible. Users can expect a non-disruptive experience, with no breaking changes to their current deployments. TrueCharts will provide comprehensive documentation and support to guide users through the transition, ensuring that the shift away from mirroring is a smooth and hassle-free process.
+TrueCharts is committed to making this transition as seamless as possible. Users can expect a non-disruptive experience, with no breaking changes to their current deployments. TrueCharts will provide comprehensive support to guide users through the transition, ensuring that the shift away from mirroring is a smooth and hassle-free process.
 
 ## Conclusion:
 
