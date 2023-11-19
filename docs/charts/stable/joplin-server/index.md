@@ -1,6 +1,6 @@
 # joplin-server
 
-![Version: 14.0.11](https://img.shields.io/badge/Version-14.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.13.4"](https://img.shields.io/badge/AppVersion-"2.13.4"-informational?style=flat-square)
+![Version: 14.0.12](https://img.shields.io/badge/Version-14.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.13.5-bet](https://img.shields.io/badge/AppVersion-2.13.5-bet-informational?style=flat-square)
 
 Allows you to sync any Joplin client.
 
