@@ -1,5 +1,5 @@
 ---
-slug: "stability-tiers-and-helm"
+slug: "the-end-of-container-mirroring"
 title: "The End of Container Mirroring"
 authors: [jagrbombs]
 ---
