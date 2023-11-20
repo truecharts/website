@@ -1053,6 +1053,7 @@ The intro needs improvement ;)
 |linkace                        |logs                       |PVC      |-                |/app/storage/logs                              |Read/Write|Enabled                |
 |linkace                        |backups                    |PVC      |-                |/app/storage/app/backups                       |Read/Write|Enabled                |
 |linkwallet                     |data                       |PVC      |-                |/data                                          |Read/Write|Enabled                |
+|linkwarden                     |data                       |PVC      |-                |/data/data                                     |Read/Write|Enabled                |
 |livebook                       |data                       |PVC      |-                |/data                                          |Read/Write|Enabled                |
 |livestreamdvr                  |config                     |PVC      |-                |/usr/local/share/twitchautomator/data/config   |Read/Write|Enabled                |
 |livestreamdvr                  |hostpath1                  |PVC      |-                |/usr/local/share/twitchautomator/data/storage  |Read/Write|Enabled                |
