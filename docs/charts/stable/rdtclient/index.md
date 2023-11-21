@@ -6,7 +6,7 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/rdtclient
+- https://github.com/truecharts/charts/tree/master/charts/stable/rdtclient
 - https://github.com/rogerfar/rdt-client
 
 ## Available Documentation
