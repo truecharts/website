@@ -2,6 +2,11 @@
 
 
 
+## [libremdb-3.0.301](https://github.com/truecharts/charts/compare/libremdb-3.0.300...libremdb-3.0.301) (2023-11-21)
+
+
+
+
 ## [libremdb-3.0.300](https://github.com/truecharts/charts/compare/libremdb-3.0.299...libremdb-3.0.300) (2023-11-19)
 
 ### Fix
