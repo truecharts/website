@@ -2,6 +2,11 @@
 
 
 
+## [unifi-16.0.1](https://github.com/truecharts/charts/compare/unifi-16.0.0...unifi-16.0.1) (2023-11-22)
+
+
+
+
 ## [unifi-16.0.0](https://github.com/truecharts/charts/compare/unifi-15.0.11...unifi-16.0.0) (2023-11-22)
 
 ### Fix
