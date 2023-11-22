@@ -2,6 +2,15 @@
 
 
 
+## [adminer-5.0.36](https://github.com/truecharts/charts/compare/adminer-5.0.35...adminer-5.0.36) (2023-11-22)
+
+### Chore
+
+- update container image adminer to latest[@0ce7583](https://github.com/0ce7583) ([#15224](https://github.com/truecharts/charts/issues/15224))
+  
+  
+
+
 ## [adminer-5.0.35](https://github.com/truecharts/charts/compare/adminer-5.0.34...adminer-5.0.35) (2023-11-21)
 
 ### Chore
