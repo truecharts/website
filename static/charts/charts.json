@@ -1,5 +1,5 @@
 {
-    "totalCount": 854,
+    "totalCount": 855,
     "trains": [
         {
             "name": "operators",
@@ -41,7 +41,7 @@
         },
         {
             "name": "stable",
-            "count": 385,
+            "count": 388,
             "charts": [
                 {
                     "name": "actualserver",
@@ -65,7 +65,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/adminer",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/adminer.png",
-                    "version": "5.0.34"
+                    "version": "5.0.36"
                 },
                 {
                     "name": "airdcpp-webclient",
@@ -273,7 +273,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/boinc",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/boinc.png",
-                    "version": "6.0.23"
+                    "version": "6.0.24"
                 },
                 {
                     "name": "booksonic-air",
@@ -1353,7 +1353,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.300"
+                    "version": "3.0.301"
                 },
                 {
                     "name": "librespeed",
@@ -1378,6 +1378,14 @@
                     "link": "https://truecharts.org/charts/stable/linkding",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/linkding.png",
                     "version": "6.0.14"
+                },
+                {
+                    "name": "linkwarden",
+                    "description": "Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/linkwarden",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/linkwarden.png",
+                    "version": "1.0.0"
                 },
                 {
                     "name": "littlelink",
@@ -1409,7 +1417,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/logitech-media-server",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/logitech-media-server.png",
-                    "version": "8.0.12"
+                    "version": "8.0.13"
                 },
                 {
                     "name": "makemkv",
@@ -1697,7 +1705,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "22.2.3"
+                    "version": "22.2.6"
                 },
                 {
                     "name": "nextpvr",
@@ -2169,7 +2177,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/pylon",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/pylon.png",
-                    "version": "6.0.19"
+                    "version": "6.0.20"
                 },
                 {
                     "name": "qbitmanage",
@@ -2250,6 +2258,14 @@
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
                     "version": "5.0.150"
+                },
+                {
+                    "name": "rdtclient",
+                    "description": "This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Premiumize.",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/rdtclient",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdtclient.png",
+                    "version": "1.0.0"
                 },
                 {
                     "name": "readarr",
@@ -2353,7 +2369,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsnapshot",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsnapshot.png",
-                    "version": "6.0.19"
+                    "version": "6.0.20"
                 },
                 {
                     "name": "rss-bridge",
@@ -2649,7 +2665,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/synclounge",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/synclounge.png",
-                    "version": "6.0.20"
+                    "version": "6.0.21"
                 },
                 {
                     "name": "syncthing",
@@ -2908,6 +2924,14 @@
                     "version": "9.0.25"
                 },
                 {
+                    "name": "wallos",
+                    "description": "Wallos - Self Hosted Subscription tracker",
+                    "train": "stable",
+                    "link": "https://truecharts.org/charts/stable/wallos",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wallos.png",
+                    "version": "1.0.1"
+                },
+                {
                     "name": "watchyourlan",
                     "description": "Lightweight network IP scanner with web GUI",
                     "train": "stable",
@@ -2953,7 +2977,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.185"
+                    "version": "6.0.187"
                 },
                 {
                     "name": "wekan",
@@ -3213,7 +3237,7 @@
         },
         {
             "name": "incubator",
-            "count": 447,
+            "count": 445,
             "charts": [
                 {
                     "name": "acestream",
@@ -3757,7 +3781,7 @@
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/cryptpad",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/cryptpad.png",
-                    "version": "3.0.9"
+                    "version": "4.0.0"
                 },
                 {
                     "name": "cs2",
@@ -4892,7 +4916,7 @@
                     "description": "Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.",
                     "train": "incubator",
                     "link": "https://truecharts.org/charts/incubator/linkwarden",
-                    "icon": "https://github.com/linkwarden/linkwarden/raw/main/assets/logo.png",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/linkwarden.png",
                     "version": "0.0.1"
                 },
                 {
@@ -5758,14 +5782,6 @@
                     "link": "https://truecharts.org/charts/incubator/raspberrymatic",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/raspberrymatic.png",
                     "version": "2.0.12"
-                },
-                {
-                    "name": "rdtclient",
-                    "description": "This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Premiumize.",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/rdtclient",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdtclient.png",
-                    "version": "0.0.4"
                 },
                 {
                     "name": "reactive-resume",
@@ -6638,14 +6654,6 @@
                     "link": "https://truecharts.org/charts/incubator/vorta",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/vorta.png",
                     "version": "2.0.9"
-                },
-                {
-                    "name": "wallos",
-                    "description": "Wallos - Self Hosted Subscription tracker",
-                    "train": "incubator",
-                    "link": "https://truecharts.org/charts/incubator/wallos",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/wallos.png",
-                    "version": "0.0.3"
                 },
                 {
                     "name": "watcharr",
