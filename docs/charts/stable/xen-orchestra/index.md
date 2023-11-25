@@ -1,6 +1,6 @@
 # xen-orchestra
 
-![Version: 5.1.24](https://img.shields.io/badge/Version-5.1.24-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.126.0](https://img.shields.io/badge/AppVersion-5.126.0-informational?style=flat-square)
+![Version: 5.1.25](https://img.shields.io/badge/Version-5.1.25-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.126.0](https://img.shields.io/badge/AppVersion-5.126.0-informational?style=flat-square)
 
 Xen-Orchestra is a Web-UI for managing your existing XenServer infrastructure.
 
