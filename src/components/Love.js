@@ -47,11 +47,6 @@ export default function Love() {
   }, []);
   return (
     <div className="container">
-      <SectionTitle
-        coloredTitle="Awesome"
-        firstTitle="Why Truecharts is"
-        secondTitle=":"
-      />
       <div className="container">
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/sponsor">
