@@ -5,6 +5,8 @@ import clickAnimation from "../animations/113140-hand-cursor-click-here.json";
 import systemAnimation from "../animations/94703-system.json";
 import stabilityAnimation from "../animations/119697-icon-stability.json";
 import SectionTitle from "./SectionTitle";
+import Link from "@docusaurus/Link";
+import styles from "../pages/index.module.css";
 
 const clickAnimationOptions = {
   loop: true,
@@ -44,12 +46,19 @@ export default function Love() {
     }
   }, []);
   return (
-    <div className="container md:mt-24 mt-16">
+    <div className="container">
       <SectionTitle
-        coloredTitle="Loves"
-        firstTitle="Why Everyone"
-        secondTitle="TrueCharts"
+        coloredTitle="Awesome"
+        firstTitle="Why Truecharts is"
+        secondTitle=":"
       />
+      <div className="container">
+        <div className={styles.buttons}>
+          <Link className="button button--secondary button--lg" to="/sponsor">
+            Sponsor TrueCharts
+          </Link>
+        </div>
+      </div>
       <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-[30px]">
         <div
           className="!relative items-center justify-center flex flex-col wow animate__animated animate__fadeInLeft"
@@ -66,6 +75,7 @@ export default function Love() {
           className="lg:ml-8 wow animate__animated animate__fadeInRight"
           data-wow-delay=".3s"
         >
+          <br />
           <h3 className="mb-4 text-3xl leading-normal font-bold">
             Easy To Deploy
           </h3>
@@ -107,14 +117,11 @@ export default function Love() {
           </ul>
 
           <div className="mt-4">
-            <a
-              href="https://discord.gg/tVsPTHWTtr"
-              target="_blank"
-              className="btn flex flex-row items-center w-fit btn-link !no-underline link-underline link-underline-black text-indigo-600 hover:text-indigo-600 after:bg-indigo-600 duration-500 ease-in-out"
-            >
-              Join Us On Discord{" "}
+        <br />
+          <Link className="button button--secondary button--lg" to="https://discord.gg/tVsPTHWTtr">
+          Join Us On Discord
+          </Link>
               <Icon icon="uim:angle-right-b" className="align-middle" />
-            </a>
           </div>
         </div>
       </div>
