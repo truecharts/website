@@ -1,58 +1,57 @@
-import React from "react";
-import clsx from "clsx";
+import React, { useEffect, useRef, useState } from "react";
+import { AiOutlineDoubleRight } from "react-icons/ai";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./index.module.css";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import ProgressBar from "@site/src/components/ProgressBar";
+import HomepageCard from "@site/src/components/HomepageCard";
+import clsx from "clsx";
+import Lottie from "react-lottie";
+import animationLogoData from "../animations/logo-animation-1.json";
+import animationData from "../animations/animation-1.json";
+import Users from "../components/Users";
+import Love from "../components/Love";
+import BackToTop from "../components/BackToTop";
+
+const defaultLogoOptions = {
+  loop: true,
+  autoplay: true,
+  animationData: animationLogoData,
+  rendererSettings: {
+    preserveAspectRatio: "xMidYMid slice",
+  },
+};
+const defaultOptions = {
+  loop: true,
+  autoplay: true,
+  animationData: animationData,
+  rendererSettings: {
+    preserveAspectRatio: "xMidYMid slice",
+  },
+};
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <br></br>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/manual/SCALE/guides/scale-intro"
-          >
-            TrueNAS SCALE - 5min ⏱️
-          </Link>
-        </div>
-        <h3>
-          <br></br>
-          <b>---</b>
-          <br></br>
-          <br></br>
-          <br></br>
-          Monthly Funding goal:
-          <br></br>
-        </h3>
-        <ProgressBar bgcolor="#38b856" completed="70" goal="500" />
-        <br></br>
-        <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/sponsor">
-            Sponsor TrueCharts
-          </Link>
-        </div>
-      </div>
+    <header className={ styles.heroBanner}>
+      <img className={ styles.headerSmall} src="/img/header-smaller.jpg"/>
+      <img className={ styles.headerLarge} src="/img/header-long.jpg"/>
     </header>
   );
 }
 
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`TrueCharts`}
-      description="Your source For TrueNAS SCALE Apps<head />"
+      description="TrueCharts - Your source for Helm Charts"
     >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <Love />
+        <br />
+        <br />
+        <BackToTop />
       </main>
     </Layout>
   );
