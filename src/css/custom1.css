@@ -52,8 +52,3 @@
   content: "head";
   background-color: var(--ifm-color-secondary-darkest);
 }
-
-/* For sidebar item <hr> */
-li.theme-doc-sidebar-item-link > hr {
-  margin: 0;
-}
