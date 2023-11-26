@@ -1,10 +1,8 @@
 @import "custom1.css";
 @import "variables.css";
 
-
 @tailwind utilities;
 @tailwind components;
-
 
 @font-face {
   font-family: "ADAM-CG-PRO" !important;
@@ -531,15 +529,17 @@ a.navbar__item.navbar__link:hover::before {
 
 .link-underline {
   border-bottom-width: 0;
-  background-image: linear-gradient(transparent, transparent), linear-gradient(#4f46E5, #4f46E5);
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(#4f46e5, #4f46e5);
   background-size: 0 2px;
   background-position: 0 100%;
   background-repeat: no-repeat;
-  transition: background-size .5s ease-in-out;
+  transition: background-size 0.5s ease-in-out;
 }
 
 .link-underline-black {
-  background-image: linear-gradient(transparent, transparent), linear-gradient(#4f46E5, #4f46E5);
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(#4f46e5, #4f46e5);
 }
 
 .link-underline:hover {
