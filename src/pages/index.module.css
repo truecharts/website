@@ -4,15 +4,32 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  background-repeat: no-repeat;
+  background-size-height: 100% auto;
+  background-attachment: fixed;
+  background-position: center top;
+  padding: 0 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+
+  width: 100%;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 0rem;
+  }
+}
+
+@media screen and (max-width: 1600px) {
+  .headerLarge {
+    display: none;
+  }
+}
+@media screen and (min-width: 1600px) {
+  .headerSmall {
+    display: none;
   }
 }
 
@@ -151,10 +168,9 @@
 }
 .animated__lottie {
   width: 100%;
-padding: 0px 120px;
+  padding: 0px 120px;
   align-items: center;
   justify-content: center;
   display: flex;
   flex-direction: column;
-
 }

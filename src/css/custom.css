@@ -1,6 +1,26 @@
 @import "custom1.css";
 @import "variables.css";
 
+
+@tailwind utilities;
+@tailwind components;
+
+
+@font-face {
+  font-family: "ADAM-CG-PRO" !important;
+  src: url("/static/ADAM-CG\ PRO.woff") format("woff") !important;
+}
+
+:root {
+  --ifm-font-family-monospace: "ADAM-CG-PRO";
+  --ifm-font-family-base: "ADAM-CG-PRO";
+}
+
+*,
+html {
+  font-family: "ADAM-CG-PRO" !important;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -120,7 +140,7 @@ html {
   gap: 2rem;
 }
 
-@media (max-width: 966px) {
+@media (max-width: 996px) {
   .footer__links {
     justify-content: left;
   }
@@ -214,7 +234,7 @@ html {
     var(--ifm-color-emphasis-200);
   padding-top: 0px !important;
   padding-bottom: 0px !important;
-  height: auto; 
+  height: auto;
 }
 
 .navbar__brand {
@@ -239,10 +259,9 @@ html {
   }
   .navbar {
     padding: 1.5rem !important;
-   
   }
   .navbar__logo {
-     margin-top: 0px !important;
+    margin-top: 0px !important;
   }
 }
 
@@ -410,8 +429,8 @@ ul ul .table-of-contents__link {
 a.navbar__item.navbar__link {
   position: relative;
   height: 100% !important;
-  padding: 1.5rem ;
-  margin: 0 ;
+  padding: 1.5rem;
+  margin: 0;
   /* display: inline-block; */
 }
 
@@ -508,4 +527,22 @@ a.navbar__item.navbar__link:hover::before {
 
 .footer__item {
   margin-top: 10px !important;
+}
+
+.link-underline {
+  border-bottom-width: 0;
+  background-image: linear-gradient(transparent, transparent), linear-gradient(#4f46E5, #4f46E5);
+  background-size: 0 2px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size .5s ease-in-out;
+}
+
+.link-underline-black {
+  background-image: linear-gradient(transparent, transparent), linear-gradient(#4f46E5, #4f46E5);
+}
+
+.link-underline:hover {
+  background-size: 100% 2px;
+  background-position: 0px 100%;
 }
