@@ -35,7 +35,7 @@
     "react-lottie": "1.2.3",
     "swc-loader": "0.2.3",
     "feather-icons": "4.29.1",
-    "keen-slider": "6.8.5",
+    "keen-slider": "6.8.6",
     "wow.js": "1.2.2"
   },
   "devDependencies": {
