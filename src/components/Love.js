@@ -50,7 +50,11 @@ export default function Love() {
       <div className="container">
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/sponsor">
-            Sponsor TrueCharts
+          Sponsor TrueCharts
+          </Link>
+          <Icon icon="uim:discord" className="align-middle" />
+          <Link className="button button--secondary button--lg" to="https://discord.gg/tVsPTHWTtr">
+          Join Us On Discord
           </Link>
         </div>
       </div>
@@ -110,14 +114,6 @@ export default function Love() {
               Active development
             </li>
           </ul>
-
-          <div className="mt-4">
-        <br />
-          <Link className="button button--secondary button--lg" to="https://discord.gg/tVsPTHWTtr">
-          Join Us On Discord
-          </Link>
-              <Icon icon="uim:angle-right-b" className="align-middle" />
-          </div>
         </div>
       </div>
 
