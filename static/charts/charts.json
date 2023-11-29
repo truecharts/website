@@ -605,11 +605,11 @@
                 },
                 {
                     "name": "docker-compose",
-                    "description": "Dedicated App for using Docker-Compose on TrueNAS SCALE",
+                    "description": "Dedicated App for using Docker-in-Docker",
                     "train": "stable",
-                    "link": "https://truecharts.org/charts/stable/docker-compose",
-                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/docker-compose.png",
-                    "version": "7.0.25"
+                    "link": "https://truecharts.org/charts/stable/docker",
+                    "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/docker.png",
+                    "version": "1.0.0"
                 },
                 {
                     "name": "docusaurus",
