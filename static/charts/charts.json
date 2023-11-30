@@ -329,7 +329,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/calibre",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/calibre.png",
-                    "version": "11.1.34"
+                    "version": "11.1.35"
                 },
                 {
                     "name": "channels-dvr",
@@ -604,12 +604,12 @@
                     "version": "11.0.10"
                 },
                 {
-                    "name": "docker-compose",
+                    "name": "docker",
                     "description": "Dedicated App for using Docker-in-Docker",
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/docker",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/docker.png",
-                    "version": "1.0.0"
+                    "version": "1.0.1"
                 },
                 {
                     "name": "docusaurus",
@@ -2129,7 +2129,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/posterr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/posterr.png",
-                    "version": "5.0.10"
+                    "version": "5.0.11"
                 },
                 {
                     "name": "pretend-youre-xyzzy",
@@ -2417,7 +2417,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.276"
+                    "version": "8.0.277"
                 },
                 {
                     "name": "rtorrent-rutorrent",
