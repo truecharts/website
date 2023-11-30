@@ -2,6 +2,15 @@
 
 
 
+## [synclounge-6.0.22](https://github.com/truecharts/charts/compare/synclounge-6.0.21...synclounge-6.0.22) (2023-11-30)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/synclounge to 5.2.23[@622167e](https://github.com/622167e) ([#15475](https://github.com/truecharts/charts/issues/15475))
+  
+  
+
+
 ## [synclounge-6.0.21](https://github.com/truecharts/charts/compare/synclounge-6.0.20...synclounge-6.0.21) (2023-11-22)
 
 ### Chore
