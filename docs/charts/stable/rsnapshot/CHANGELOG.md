@@ -2,6 +2,7 @@
 
 
 
+
 ## [rsnapshot-6.0.21](https://github.com/truecharts/charts/compare/rsnapshot-6.0.20...rsnapshot-6.0.21) (2023-11-30)
 
 ### Chore

@@ -2,6 +2,7 @@
 
 
 
+
 ## [pwndrop-6.0.22](https://github.com/truecharts/charts/compare/pwndrop-6.0.21...pwndrop-6.0.22) (2023-11-20)
 
 ### Fix

@@ -2,6 +2,7 @@
 
 
 
+
 ## [foldingathome-6.0.17](https://github.com/truecharts/charts/compare/foldingathome-6.0.16...foldingathome-6.0.17) (2023-11-21)
 
 ### Chore

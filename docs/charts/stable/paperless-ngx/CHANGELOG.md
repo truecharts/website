@@ -2,6 +2,7 @@
 
 
 
+
 ## [paperless-ngx-3.0.1](https://github.com/truecharts/charts/compare/paperless-ngx-3.0.0...paperless-ngx-3.0.1) (2023-11-30)
 
 ### Chore

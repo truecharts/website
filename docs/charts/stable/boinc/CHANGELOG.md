@@ -2,6 +2,7 @@
 
 
 
+
 ## [boinc-6.0.25](https://github.com/truecharts/charts/compare/boinc-6.0.24...boinc-6.0.25) (2023-11-30)
 
 ### Chore

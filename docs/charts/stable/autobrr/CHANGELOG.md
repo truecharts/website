@@ -2,6 +2,7 @@
 
 
 
+
 ## [autobrr-5.1.0](https://github.com/truecharts/charts/compare/autobrr-5.0.12...autobrr-5.1.0) (2023-12-01)
 
 ### Chore
