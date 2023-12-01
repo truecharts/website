@@ -6,6 +6,7 @@ A cross-platform Anki sync server.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirroranki-sync-server
 - https://github.com/truecharts/charts/tree/master/charts/incubator/anki-sync-server
 - https://github.com/ankicommunity/anki-devops-services
 - https://github.com/truecharts/containers/tree/master/mirroranki-sync-server/charts/tree/master/charts/incubator/anki-sync-server

@@ -6,6 +6,7 @@ Photoview is a simple and user-friendly photo gallery.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/viktorstrate/photoview
 - https://github.com/truecharts/charts/tree/master/charts/stable/photoview
 - https://github.com/photoview/photoview
 - https://hub.docker.com/r/viktorstrate/photoview/charts/tree/master/charts/stable/photoview

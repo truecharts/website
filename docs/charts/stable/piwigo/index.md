@@ -10,6 +10,7 @@ A photo gallery software for the web.
 - https://ghcr.io/linuxserver/piwigo/charts/tree/master/charts/stable/piwigo
 - https://github.com/truecharts/charts/tree/master/charts/stable/piwigo
 - http://piwigo.org/
+- https://ghcr.io/linuxserver/piwigo
 
 ## Available Documentation
 

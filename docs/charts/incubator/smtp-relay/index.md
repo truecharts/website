@@ -9,6 +9,7 @@ A SMTP service for relaying emails.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/smtp-relay
 - https://github.com/ix-ai/smtp
 - https://github.com/truecharts/containers/tree/master/mirrorsmtp-relay/charts/tree/master/charts/incubator/smtp-relay
+- https://github.com/truecharts/containers/tree/master/mirrorsmtp-relay
 
 ## Available Documentation
 

@@ -6,10 +6,11 @@ Self hosted web app for shortening urls (URL shortener)
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/shorturl
-- https://github.com/prologic/shorturl
 - https://github.com/nicholaswilde/docker-shorturl
 - https://ghcr.io/nicholaswilde/shorturl/charts/tree/master/charts/stable/shorturl
+- https://ghcr.io/nicholaswilde/shorturl
+- https://github.com/truecharts/charts/tree/master/charts/stable/shorturl
+- https://github.com/prologic/shorturl
 
 ## Available Documentation
 

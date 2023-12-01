@@ -9,6 +9,7 @@ Audiobookshelf is a self-hosted audiobook server for managing and playing your a
 - https://github.com/truecharts/charts/tree/master/charts/stable/audiobookshelf
 - https://github.com/advplyr/audiobookshelf
 - https://hub.docker.com/r/advplyr/audiobookshelf/charts/tree/master/charts/stable/audiobookshelf
+- https://hub.docker.com/r/advplyr/audiobookshelf
 
 ## Available Documentation
 

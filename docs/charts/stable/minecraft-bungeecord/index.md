@@ -6,6 +6,7 @@ the front-end of a cluster of minecraft-java containers.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/itzg/bungeecord
 - https://github.com/itzg/docker-bungeecord
 - https://hub.docker.com/r/itzg/bungeecord/charts/tree/master/charts/stable/minecraft-bungeecord
 - https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-bungeecord

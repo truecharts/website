@@ -9,6 +9,7 @@ An *arr Request Bot for Discord
 - https://github.com/truecharts/charts/tree/master/charts/stable/doplarr
 - https://github.com/kiranshila/Doplarr
 - https://ghcr.io/kiranshila/doplarr/charts/tree/master/charts/stable/doplarr
+- https://ghcr.io/kiranshila/doplarr
 
 ## Available Documentation
 

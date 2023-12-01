@@ -9,6 +9,7 @@ The Archive Team Warrior is a virtual archiving appliance. You can run it to hel
 - https://github.com/truecharts/containers/tree/master/mirrorarchiveteam-warrior/charts/tree/master/charts/incubator/archiveteam-warrior
 - https://github.com/truecharts/charts/tree/master/charts/incubator/archiveteam-warrior
 - https://wiki.archiveteam.org/index.php/ArchiveTeam_Warrior
+- https://github.com/truecharts/containers/tree/master/mirrorarchiveteam-warrior
 
 ## Available Documentation
 

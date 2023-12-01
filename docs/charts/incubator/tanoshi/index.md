@@ -9,6 +9,7 @@ Selfhosted web manga reader.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tanoshi
 - https://github.com/faldez/tanoshi
 - https://github.com/truecharts/containers/tree/master/mirrortanoshi/charts/tree/master/charts/incubator/tanoshi
+- https://github.com/truecharts/containers/tree/master/mirrortanoshi
 
 ## Available Documentation
 

@@ -6,9 +6,10 @@ Chronos is a small container to run and schedule Python 3.7 scripts. You can cre
 
 ## Chart Sources
 
+- https://hub.docker.com/r/simsemand/chronos/charts/tree/master/charts/stable/chronos
+- https://hub.docker.com/r/simsemand/chronos
 - https://github.com/truecharts/charts/tree/master/charts/stable/chronos
 - https://github.com/simse/chronos
-- https://hub.docker.com/r/simsemand/chronos/charts/tree/master/charts/stable/chronos
 
 ## Available Documentation
 

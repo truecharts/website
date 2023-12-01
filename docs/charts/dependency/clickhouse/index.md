@@ -9,6 +9,7 @@ ClickHouse is a column-oriented database management system (DBMS) for online ana
 - https://github.com/truecharts/charts/tree/master/charts/dependency/clickhouse
 - https://clickhouse.com/
 - https://hub.docker.com/r/clickhouse/clickhouse-server/charts/tree/master/charts/dependency/clickhouse
+- https://hub.docker.com/r/clickhouse/clickhouse-server
 
 ## Available Documentation
 

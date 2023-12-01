@@ -6,6 +6,7 @@ StackEdits Markdown syntax highlighting is unique. The refined text formatting o
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorstackedit
 - https://github.com/truecharts/charts/tree/master/charts/incubator/stackedit
 - https://stackedit.io/
 - https://github.com/truecharts/containers/tree/master/mirrorstackedit/charts/tree/master/charts/incubator/stackedit

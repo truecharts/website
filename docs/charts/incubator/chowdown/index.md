@@ -8,6 +8,7 @@ Simple recipes in Markdown format.
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/chowdown
 - https://github.com/truecharts/containers/tree/master/mirrorchowdown/charts/tree/master/charts/incubator/chowdown
+- https://github.com/truecharts/containers/tree/master/mirrorchowdown
 
 ## Available Documentation
 

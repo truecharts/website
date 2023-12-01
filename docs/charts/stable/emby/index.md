@@ -6,9 +6,10 @@ Emby Server is a home media server
 
 ## Chart Sources
 
+- https://ghcr.io/onedr0p/emby/charts/tree/master/charts/stable/emby
+- https://ghcr.io/onedr0p/emby
 - https://github.com/truecharts/charts/tree/master/charts/stable/emby
 - https://github.com/linuxserver/docker-emby.git
-- https://ghcr.io/onedr0p/emby/charts/tree/master/charts/stable/emby
 
 ## Available Documentation
 

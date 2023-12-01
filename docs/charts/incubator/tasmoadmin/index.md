@@ -9,6 +9,7 @@ A administrative platform for devices flashed with Tasmota.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tasmoadmin
 - https://github.com/TasmoAdmin/TasmoAdmin
 - https://github.com/truecharts/containers/tree/master/mirrortasmoadmin/charts/tree/master/charts/incubator/tasmoadmin
+- https://github.com/truecharts/containers/tree/master/mirrortasmoadmin
 
 ## Available Documentation
 

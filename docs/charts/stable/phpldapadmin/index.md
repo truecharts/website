@@ -9,6 +9,7 @@ Web-based LDAP browser to manage your LDAP server
 - https://hub.docker.com/r/osixia/phpldapadmin/charts/tree/master/charts/stable/phpldapadmin
 - https://github.com/truecharts/charts/tree/master/charts/stable/phpldapadmin
 - https://gitlab.v2.rancher.geohub.space/g3s/i3s/i3s-helm-catalog
+- https://hub.docker.com/r/osixia/phpldapadmin
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ This is a Basic Mindustry Server. It will download the preferred version of Mind
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mindustry
 - https://anuke.itch.io/mindustry
 - https://github.com/truecharts/containers/tree/master/mirrormindustry/charts/tree/master/charts/incubator/mindustry
+- https://github.com/truecharts/containers/tree/master/mirrormindustry
 
 ## Available Documentation
 

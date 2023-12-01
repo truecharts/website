@@ -6,9 +6,10 @@ This Tools provides a way to keep your watched history synced FROM Plex Server T
 
 ## Chart Sources
 
+- https://hub.docker.com/r/xanderstrike/goplaxt/charts/tree/master/charts/stable/plaxt
+- https://hub.docker.com/r/xanderstrike/goplaxt
 - https://github.com/truecharts/charts/tree/master/charts/stable/plaxt
 - https://github.com/XanderStrike/goplaxt
-- https://hub.docker.com/r/xanderstrike/goplaxt/charts/tree/master/charts/stable/plaxt
 
 ## Available Documentation
 

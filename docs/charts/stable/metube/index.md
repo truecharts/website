@@ -6,9 +6,10 @@ Web GUI for youtube-dl.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/metube
 - https://github.com/alexta69/metube
 - https://hub.docker.com/r/alexta69/metube/charts/tree/master/charts/stable/metube
+- https://hub.docker.com/r/alexta69/metube
+- https://github.com/truecharts/charts/tree/master/charts/stable/metube
 
 ## Available Documentation
 

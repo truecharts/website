@@ -6,10 +6,11 @@ Download / Orgainze / Process / Verify / Dedupe / Scrape a ROMs library automati
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/incubator/ra-rom-processor
+- https://github.com/truecharts/containers/tree/master/mirrorra-rom-processor
 - https://github.com/RandomNinjaAtk/docker-raromprocessor
 - https://github.com/RandomNinjaAtk/docker-raromprocessor#instructionsusage-guidelines
 - https://github.com/truecharts/containers/tree/master/mirrorra-rom-processor/charts/tree/master/charts/incubator/ra-rom-processor
-- https://github.com/truecharts/charts/tree/master/charts/incubator/ra-rom-processor
 
 ## Available Documentation
 

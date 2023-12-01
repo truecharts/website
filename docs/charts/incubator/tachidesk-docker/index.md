@@ -6,6 +6,7 @@ The official Tachidesk Chart-Chart.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrortachidesk-docker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tachidesk-docker
 - https://github.com/Suwayomi/Tachidesk-Server
 - https://github.com/suwayomi/docker-tachidesk

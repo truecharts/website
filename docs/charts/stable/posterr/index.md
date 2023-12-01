@@ -9,6 +9,7 @@ Media display for Plex, Sonarr and Radarr.
 - https://github.com/truecharts/charts/tree/master/charts/stable/posterr
 - https://github.com/petersem/posterr
 - https://hub.docker.com/r/petersem/posterr/charts/tree/master/charts/stable/posterr
+- https://hub.docker.com/r/petersem/posterr
 
 ## Available Documentation
 

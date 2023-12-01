@@ -6,9 +6,10 @@ Useful tools for developer and people working in IT.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/corentinth/it-tools/charts/tree/master/charts/stable/it-tools
 - https://github.com/truecharts/charts/tree/master/charts/stable/it-tools
 - https://github.com/CorentinTh/it-tools
+- https://hub.docker.com/r/corentinth/it-tools
+- https://hub.docker.com/r/corentinth/it-tools/charts/tree/master/charts/stable/it-tools
 
 ## Available Documentation
 

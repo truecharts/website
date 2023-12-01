@@ -7,6 +7,7 @@ Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien Lucas, 
 
 ## Chart Sources
 
+- https://fleet.linuxserver.io/image?name=linuxserver/cops
 - https://github.com/truecharts/charts/tree/master/charts/stable/cops
 - http://blog.slucas.fr/en/oss/calibre-opds-php-server
 - https://github.com/orgs/linuxserver/packages/container/package/cops

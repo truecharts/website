@@ -10,6 +10,7 @@ Velero is a kubernetes-native backup solution
 - https://github.com/truecharts/charts/tree/master/charts/incubator/velero
 - https://github.com/cert-manager
 - https://cert-manager.io/
+- https://github.com/truecharts/containers/tree/master/mirroralpine
 
 ## Available Documentation
 

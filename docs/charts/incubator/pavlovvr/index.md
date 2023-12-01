@@ -6,9 +6,10 @@ This Chart will download and install SteamCMD. It will also install Pavlov VR an
 
 ## Chart Sources
 
+- https://www.steampowered.com/
+- https://github.com/truecharts/containers/tree/master/mirrorpavlovvr
 - https://github.com/truecharts/containers/tree/master/mirrorpavlovvr/charts/tree/master/charts/incubator/pavlovvr
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pavlovvr
-- https://www.steampowered.com/
 
 ## Available Documentation
 

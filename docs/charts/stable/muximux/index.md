@@ -10,6 +10,7 @@ A lightweight portal to view & manage your HTPC apps without having to run anyth
 - https://ghcr.io/linuxserver/muximux/charts/tree/master/charts/stable/muximux
 - https://github.com/truecharts/charts/tree/master/charts/stable/muximux
 - https://github.com/linuxserver/docker-muximux
+- https://ghcr.io/linuxserver/muximux
 
 ## Available Documentation
 

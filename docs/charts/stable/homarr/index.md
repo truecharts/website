@@ -6,9 +6,10 @@ Homarr is a simple and lightweight homepage for your server, that helps you easi
 
 ## Chart Sources
 
+- https://ghcr.io/ajnart/homarr/charts/tree/master/charts/stable/homarr
+- https://ghcr.io/ajnart/homarr
 - https://github.com/truecharts/charts/tree/master/charts/stable/homarr
 - https://github.com/ajnart/homarr
-- https://ghcr.io/ajnart/homarr/charts/tree/master/charts/stable/homarr
 
 ## Available Documentation
 

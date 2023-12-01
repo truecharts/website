@@ -11,6 +11,7 @@ Traefik is a flexible reverse proxy and Ingress Provider.
 - https://github.com/traefik/traefik
 - https://github.com/traefik/traefik-helm-chart
 - https://traefik.io/
+- https://github.com/truecharts/containers/tree/master/mirrortraefik
 
 ## Available Documentation
 

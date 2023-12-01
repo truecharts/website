@@ -9,6 +9,7 @@ Create live TV channel streams from media on your Plex servers.
 - https://hub.docker.com/r/vexorian/dizquetv/charts/tree/master/charts/stable/dizquetv
 - https://github.com/truecharts/charts/tree/master/charts/stable/dizquetv
 - https://github.com/vexorian/dizquetv
+- https://hub.docker.com/r/vexorian/dizquetv
 
 ## Available Documentation
 

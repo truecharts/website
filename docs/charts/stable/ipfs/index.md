@@ -9,6 +9,7 @@ IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.
 - https://github.com/truecharts/charts/tree/master/charts/stable/ipfs
 - https://github.com/ipfs/kubo
 - https://hub.docker.com/r/ipfs/kubo/charts/tree/master/charts/stable/ipfs
+- https://hub.docker.com/r/ipfs/kubo
 
 ## Available Documentation
 

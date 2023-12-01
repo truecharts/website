@@ -9,6 +9,7 @@ This is a Chartfile for Splunk designed for OpenShift and TrueNAS based on Alpin
 - https://splunk.github.io/docker-splunk
 - https://hub.docker.com/r/splunk/splunk/charts/tree/master/charts/incubator/splunk
 - https://github.com/truecharts/charts/tree/master/charts/incubator/splunk
+- https://hub.docker.com/r/splunk/splunk
 
 ## Available Documentation
 

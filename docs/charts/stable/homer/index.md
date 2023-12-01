@@ -9,6 +9,7 @@ A dead simple static homepage for your server to keep your services on hand.
 - https://hub.docker.com/r/b4bz/homer/charts/tree/master/charts/stable/homer
 - https://github.com/truecharts/charts/tree/master/charts/stable/homer
 - https://github.com/bastienwirtz/homer
+- https://hub.docker.com/r/b4bz/homer
 
 ## Available Documentation
 

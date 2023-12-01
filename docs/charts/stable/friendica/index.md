@@ -9,6 +9,7 @@ Welcome to the free social web
 - https://friendi.ca/
 - https://hub.docker.com/_/friendica/charts/tree/master/charts/stable/friendica
 - https://github.com/truecharts/charts/tree/master/charts/stable/friendica
+- https://hub.docker.com/_/friendica
 
 ## Available Documentation
 

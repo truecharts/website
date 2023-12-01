@@ -8,6 +8,7 @@ Container for proxmox backup server
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/proxmox-backup-server
 - https://github.com/truecharts/containers/tree/master/mirrorproxmox-backup-server/charts/tree/master/charts/incubator/proxmox-backup-server
+- https://github.com/truecharts/containers/tree/master/mirrorproxmox-backup-server
 
 ## Available Documentation
 

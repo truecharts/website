@@ -9,6 +9,7 @@ SinusBot is a MusicBot that will let you listen to music together with your frie
 - https://github.com/truecharts/charts/tree/master/charts/incubator/sinusbot
 - https://forum.sinusbot.com
 - https://github.com/truecharts/containers/tree/master/mirrorsinusbot/charts/tree/master/charts/incubator/sinusbot
+- https://github.com/truecharts/containers/tree/master/mirrorsinusbot
 
 ## Available Documentation
 

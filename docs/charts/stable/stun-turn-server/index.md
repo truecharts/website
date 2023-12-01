@@ -8,6 +8,7 @@ This is a Basic STUN & TURN server that was mainly created for Nextcloud Talk.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/stun-turn-server
 - https://github.com/truecharts/containers/tree/master/mirrorstun-turn-server/charts/tree/master/charts/stable/stun-turn-server
+- https://github.com/truecharts/containers/tree/master/mirrorstun-turn-server
 
 ## Available Documentation
 

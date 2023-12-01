@@ -8,6 +8,7 @@ YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/yourls
 - https://github.com/truecharts/containers/tree/master/mirroryourls/charts/tree/master/charts/incubator/yourls
+- https://github.com/truecharts/containers/tree/master/mirroryourls
 
 ## Available Documentation
 

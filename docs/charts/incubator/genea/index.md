@@ -9,6 +9,7 @@ Genea allows visually building and editing a family tree online. It consumes and
 - https://github.com/truecharts/charts/tree/master/charts/incubator/genea
 - https://github.com/genea-app/genea-app
 - https://github.com/truecharts/containers/tree/master/mirrorgenea/charts/tree/master/charts/incubator/genea
+- https://github.com/truecharts/containers/tree/master/mirrorgenea
 
 ## Available Documentation
 

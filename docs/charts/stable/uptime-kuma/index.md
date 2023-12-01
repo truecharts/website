@@ -9,6 +9,7 @@ A fancy self-hosted monitoring tool
 - https://github.com/louislam/uptime-kuma
 - https://hub.docker.com/r/louislam/uptime-kuma/charts/tree/master/charts/stable/uptime-kuma
 - https://github.com/truecharts/charts/tree/master/charts/stable/uptime-kuma
+- https://hub.docker.com/r/louislam/uptime-kuma
 
 ## Available Documentation
 

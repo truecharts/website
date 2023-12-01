@@ -6,9 +6,10 @@ Python script to update metadata and automatically build collections.
 
 ## Chart Sources
 
+- https://github.com/meisnate12/Plex-Meta-Manager
+- https://github.com/truecharts/containers/tree/master/mirrorplex-meta-manager
 - https://github.com/truecharts/containers/tree/master/mirrorplex-meta-manager/charts/tree/master/charts/incubator/plex-meta-manager
 - https://github.com/truecharts/charts/tree/master/charts/incubator/plex-meta-manager
-- https://github.com/meisnate12/Plex-Meta-Manager
 
 ## Available Documentation
 

@@ -6,9 +6,10 @@ This Chart will download and install SteamCMD. It will also install Chivalry: Me
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorchivalry-medievalwarfare/charts/tree/master/charts/incubator/chivalry-medievalwarfare
+- https://github.com/truecharts/containers/tree/master/mirrorchivalry-medievalwarfare
 - https://github.com/truecharts/charts/tree/master/charts/incubator/chivalry-medievalwarfare
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorchivalry-medievalwarfare/charts/tree/master/charts/incubator/chivalry-medievalwarfare
 
 ## Available Documentation
 

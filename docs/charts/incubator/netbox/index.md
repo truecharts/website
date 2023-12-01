@@ -9,6 +9,7 @@ NetBox is the leading solution for modeling and documenting modern networks.
 - https://github.com/truecharts/containers/tree/master/mirrornetbox/charts/tree/master/charts/incubator/netbox
 - https://github.com/truecharts/charts/tree/master/charts/incubator/netbox
 - https://github.com/netbox-community/netbox-docker
+- https://github.com/truecharts/containers/tree/master/mirrornetbox
 
 ## Available Documentation
 

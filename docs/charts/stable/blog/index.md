@@ -6,6 +6,7 @@ Lightweight self-hosted facebook-styled PHP blog.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/m1k1o/blog
 - https://github.com/truecharts/charts/tree/master/charts/stable/blog
 - https://github.com/m1k1o/blog
 - https://github.com/nicholaswilde/docker-blog

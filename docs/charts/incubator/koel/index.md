@@ -6,10 +6,11 @@ Koel is a simple web-based personal audio streaming service written in Vue on th
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/koel
-- https://github.com/koel/docker
 - https://github.com/koel/koel
 - https://github.com/truecharts/containers/tree/master/mirrorkoel/charts/tree/master/charts/incubator/koel
+- https://github.com/truecharts/containers/tree/master/mirrorkoel
+- https://github.com/truecharts/charts/tree/master/charts/incubator/koel
+- https://github.com/koel/docker
 
 ## Available Documentation
 

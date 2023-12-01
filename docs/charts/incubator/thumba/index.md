@@ -6,6 +6,7 @@ A self hosted Thumbnail generator/finder which creates thumbnails based on folde
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorthumba
 - https://github.com/truecharts/charts/tree/master/charts/incubator/thumba
 - https://github.com/BoKKeR/thumba
 - https://github.com/truecharts/containers/tree/master/mirrorthumba/charts/tree/master/charts/incubator/thumba

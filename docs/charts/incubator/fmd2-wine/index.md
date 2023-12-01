@@ -6,9 +6,10 @@
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorfmd2-wine/charts/tree/master/charts/incubator/fmd2-wine
+- https://github.com/truecharts/containers/tree/master/mirrorfmd2-wine
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fmd2-wine
 - https://github.com/Banh-Canh/docker-FMD2
-- https://github.com/truecharts/containers/tree/master/mirrorfmd2-wine/charts/tree/master/charts/incubator/fmd2-wine
 
 ## Available Documentation
 

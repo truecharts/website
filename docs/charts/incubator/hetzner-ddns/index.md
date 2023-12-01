@@ -9,6 +9,7 @@ This Chart will allow you to use the Hetzner DNS Service (https://www.hetzner.co
 - https://github.com/truecharts/charts/tree/master/charts/incubator/hetzner-ddns
 - https://github.com/kutzilla/docker-hetzner-ddns
 - https://github.com/truecharts/containers/tree/master/mirrorhetzner-ddns/charts/tree/master/charts/incubator/hetzner-ddns
+- https://github.com/truecharts/containers/tree/master/mirrorhetzner-ddns
 
 ## Available Documentation
 

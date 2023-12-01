@@ -4,6 +4,7 @@
 
 
 
+
 ## [photostructure-4.0.0](https://github.com/truecharts/charts/compare/photostructure-3.0.3...photostructure-4.0.0) (2023-07-31)
 
 

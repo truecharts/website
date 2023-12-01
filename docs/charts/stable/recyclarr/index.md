@@ -6,10 +6,11 @@ A command-line application that will automatically synchronize recommended setti
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/recyclarr
-- https://github.com/recyclarr/recyclarr
 - https://github.com/recyclarr/recyclarr/pkgs/container/recyclarr
 - https://ghcr.io/recyclarr/recyclarr/charts/tree/master/charts/stable/recyclarr
+- https://ghcr.io/recyclarr/recyclarr
+- https://github.com/truecharts/charts/tree/master/charts/stable/recyclarr
+- https://github.com/recyclarr/recyclarr
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ Headless Ubuntu/Xfce Charts with VNC/noVNC for diagramming, image editing and 2D
 - https://github.com/truecharts/charts/tree/master/charts/incubator/firefox-desktop-g3
 - https://github.com/accetto/headless-drawing-g3/
 - https://github.com/truecharts/containers/tree/master/mirrorfirefox-desktop-g3/charts/tree/master/charts/incubator/firefox-desktop-g3
+- https://github.com/truecharts/containers/tree/master/mirrorfirefox-desktop-g3
 
 ## Available Documentation
 

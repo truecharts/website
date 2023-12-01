@@ -9,6 +9,7 @@ Alternative front-end for Google Translate, serving as a Free and Open Source tr
 - https://github.com/truecharts/charts/tree/master/charts/incubator/lingva
 - https://github.com/TheDavidDelta/lingva-translate
 - https://github.com/truecharts/containers/tree/master/mirrorlingva/charts/tree/master/charts/incubator/lingva
+- https://github.com/truecharts/containers/tree/master/mirrorlingva
 
 ## Available Documentation
 

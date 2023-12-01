@@ -9,6 +9,7 @@ This Chart will download and install SteamCMD. It will also install Conan Exiles
 - https://github.com/truecharts/charts/tree/master/charts/incubator/conanexiles
 - https://www.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirrorconanexiles/charts/tree/master/charts/incubator/conanexiles
+- https://github.com/truecharts/containers/tree/master/mirrorconanexiles
 
 ## Available Documentation
 

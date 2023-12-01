@@ -9,6 +9,7 @@ A Digital Asset Manager (DAM), specifically designed for 3D print files.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/van-dam
 - https://github.com/Floppy/van_dam
 - https://github.com/truecharts/containers/tree/master/mirrorvan-dam/charts/tree/master/charts/incubator/van-dam
+- https://github.com/truecharts/containers/tree/master/mirrorvan-dam
 
 ## Available Documentation
 

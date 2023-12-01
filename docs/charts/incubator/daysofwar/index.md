@@ -9,6 +9,7 @@ This Chart will download and install SteamCMD. It will also install Days of War 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/daysofwar
 - https://www.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirrordaysofwar/charts/tree/master/charts/incubator/daysofwar
+- https://github.com/truecharts/containers/tree/master/mirrordaysofwar
 
 ## Available Documentation
 

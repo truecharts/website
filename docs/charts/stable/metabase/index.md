@@ -9,6 +9,7 @@ Business intelligence, dashboards, and data visualization tools
 - https://github.com/truecharts/charts/tree/master/charts/stable/metabase
 - https://github.com/metabase/metabase
 - https://hub.docker.com/r/metabase/metabase/charts/tree/master/charts/stable/metabase
+- https://hub.docker.com/r/metabase/metabase
 
 ## Available Documentation
 

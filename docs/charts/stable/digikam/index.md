@@ -10,6 +10,7 @@ Professional Photo Management with the Power of Open Source
 - https://github.com/linuxserver/docker-digikam
 - https://www.digikam.org/
 - https://ghcr.io/linuxserver/digikam/charts/tree/master/charts/stable/digikam
+- https://ghcr.io/linuxserver/digikam
 
 ## Available Documentation
 

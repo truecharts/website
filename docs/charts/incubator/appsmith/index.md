@@ -9,6 +9,7 @@ Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-
 - https://github.com/truecharts/charts/tree/master/charts/incubator/appsmith
 - https://github.com/appsmithorg/appsmith
 - https://github.com/truecharts/containers/tree/master/mirrorappsmith/charts/tree/master/charts/incubator/appsmith
+- https://github.com/truecharts/containers/tree/master/mirrorappsmith
 
 ## Available Documentation
 

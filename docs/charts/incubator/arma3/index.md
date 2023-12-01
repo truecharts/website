@@ -9,6 +9,7 @@ This Chart will download and install SteamCMD. It will also install ArmA III and
 - https://github.com/truecharts/charts/tree/master/charts/incubator/arma3
 - https://arma3.com/
 - https://github.com/truecharts/containers/tree/master/mirrorarma3/charts/tree/master/charts/incubator/arma3
+- https://github.com/truecharts/containers/tree/master/mirrorarma3
 
 ## Available Documentation
 

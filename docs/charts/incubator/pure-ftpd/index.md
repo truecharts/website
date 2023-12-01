@@ -9,6 +9,7 @@ Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FT
 - https://github.com/truecharts/containers/tree/master/mirrorpure-ftpd/charts/tree/master/charts/incubator/pure-ftpd
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pure-ftpd
 - https://www.pureftpd.org/project/pure-ftpd/
+- https://github.com/truecharts/containers/tree/master/mirrorpure-ftpd
 
 ## Available Documentation
 

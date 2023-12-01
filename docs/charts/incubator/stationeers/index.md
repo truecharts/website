@@ -6,6 +6,7 @@ This Chart will download and install SteamCMD. It will also install Stationeers 
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorstationeers
 - https://github.com/truecharts/charts/tree/master/charts/incubator/stationeers
 - https://www.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirrorstationeers/charts/tree/master/charts/incubator/stationeers

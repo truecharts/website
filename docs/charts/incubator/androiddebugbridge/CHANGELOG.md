@@ -4,6 +4,7 @@
 
 
 
+
 ## [androiddebugbridge-3.0.0](https://github.com/truecharts/charts/compare/androiddebugbridge-2.0.9...androiddebugbridge-3.0.0) (2023-07-31)
 
 ### Feat

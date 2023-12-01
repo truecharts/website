@@ -10,6 +10,7 @@ An automated music downloader for NZB and Torrent, written in Python. It support
 - https://github.com/linuxserver/docker-headphones
 - https://github.com/rembo10/headphones
 - https://ghcr.io/linuxserver/headphones/charts/tree/master/charts/stable/headphones
+- https://ghcr.io/linuxserver/headphones
 
 ## Available Documentation
 

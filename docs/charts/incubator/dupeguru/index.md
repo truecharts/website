@@ -9,6 +9,7 @@ dupeGuru is a tool to find duplicate files on your computer. It can scan either 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dupeguru
 - https://github.com/jlesage/docker-dupeguru
 - https://github.com/truecharts/containers/tree/master/mirrordupeguru/charts/tree/master/charts/incubator/dupeguru
+- https://github.com/truecharts/containers/tree/master/mirrordupeguru
 
 ## Available Documentation
 

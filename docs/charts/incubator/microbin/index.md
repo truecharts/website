@@ -9,6 +9,7 @@ MicroBin is a super tiny, feature rich, configurable, self-contained and self-ho
 - https://github.com/szabodanika/microbin
 - https://github.com/truecharts/containers/tree/master/mirrormicrobin/charts/tree/master/charts/incubator/microbin
 - https://github.com/truecharts/charts/tree/master/charts/incubator/microbin
+- https://github.com/truecharts/containers/tree/master/mirrormicrobin
 
 ## Available Documentation
 

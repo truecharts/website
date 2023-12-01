@@ -9,6 +9,7 @@ This Chart will download and install SteamCMD. It will also install Colony Survi
 - https://github.com/truecharts/charts/tree/master/charts/incubator/colonysurvival
 - https://www.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirrorcolonysurvival/charts/tree/master/charts/incubator/colonysurvival
+- https://github.com/truecharts/containers/tree/master/mirrorcolonysurvival
 
 ## Available Documentation
 

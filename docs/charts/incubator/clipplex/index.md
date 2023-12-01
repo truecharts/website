@@ -9,6 +9,7 @@ Clip your plex media to share.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/clipplex
 - https://github.com/jo-nike/clipplex
 - https://github.com/truecharts/containers/tree/master/mirrorclipplex/charts/tree/master/charts/incubator/clipplex
+- https://github.com/truecharts/containers/tree/master/mirrorclipplex
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ YouTrack is a project management tool that can be adapted to your processes to h
 - https://github.com/truecharts/charts/tree/master/charts/incubator/youtrack
 - https://www.jetbrains.com/youtrack/
 - https://github.com/truecharts/containers/tree/master/mirroryoutrack/charts/tree/master/charts/incubator/youtrack
+- https://github.com/truecharts/containers/tree/master/mirroryoutrack
 
 ## Available Documentation
 

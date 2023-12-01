@@ -9,6 +9,7 @@ backup all your tasmota devices in one place.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tasmobackup
 - https://github.com/danmed/TasmoBackupV1
 - https://github.com/truecharts/containers/tree/master/mirrortasmobackup/charts/tree/master/charts/incubator/tasmobackup
+- https://github.com/truecharts/containers/tree/master/mirrortasmobackup
 
 ## Available Documentation
 

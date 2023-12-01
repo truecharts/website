@@ -10,6 +10,7 @@ Prometheus Exporter for the official uptimerobot CLI
 - https://hub.docker.com/r/billimek/prometheus-uptimerobot-exporter/charts/tree/master/charts/stable/uptimerobot-prometheus
 - https://github.com/truecharts/charts/tree/master/charts/stable/uptimerobot-prometheus
 - https://github.com/lekpamartin/uptimerobot_exporter
+- https://hub.docker.com/r/billimek/prometheus-uptimerobot-exporter
 
 ## Available Documentation
 

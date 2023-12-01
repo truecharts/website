@@ -9,6 +9,7 @@ A self-hosted vehicle expense tracking system with support for multiple users.
 - https://github.com/truecharts/charts/tree/master/charts/stable/hammond
 - https://github.com/akhilrex/hammond
 - https://hub.docker.com/r/akhilrex/hammond/charts/tree/master/charts/stable/hammond
+- https://hub.docker.com/r/akhilrex/hammond
 
 ## Available Documentation
 

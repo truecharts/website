@@ -9,6 +9,7 @@ A tasty, self-hostable Git server for the command line.
 - https://github.com/truecharts/charts/tree/master/charts/stable/soft-serve
 - https://github.com/charmbracelet/soft-serve
 - https://hub.docker.com/r/charmcli/soft-serve/charts/tree/master/charts/stable/soft-serve
+- https://hub.docker.com/r/charmcli/soft-serve
 
 ## Available Documentation
 

@@ -8,6 +8,7 @@ Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/adguard-home
 - https://hub.docker.com/r/adguard/adguardhome/charts/tree/master/charts/stable/adguard-home
+- https://hub.docker.com/r/adguard/adguardhome
 
 ## Available Documentation
 

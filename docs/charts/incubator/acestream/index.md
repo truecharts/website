@@ -6,9 +6,10 @@ IPTV service providing streaming, playlist, search engine and epg.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirroracestream/charts/tree/master/charts/incubator/acestream
+- https://github.com/truecharts/containers/tree/master/mirroracestream
 - https://github.com/truecharts/charts/tree/master/charts/incubator/acestream
 - https://github.com/vstavrinov/acestream-service
-- https://github.com/truecharts/containers/tree/master/mirroracestream/charts/tree/master/charts/incubator/acestream
 
 ## Available Documentation
 

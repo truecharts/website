@@ -10,6 +10,7 @@ Open source alternative front-end to YouTube.
 - https://github.com/iv-org/invidious
 - https://docs.invidious.io/installation/#docker
 - https://quay.io/invidious/invidious/charts/tree/master/charts/stable/invidious
+- https://quay.io/invidious/invidious
 
 ## Available Documentation
 

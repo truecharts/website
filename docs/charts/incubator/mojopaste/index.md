@@ -9,6 +9,7 @@ Mojopaste is a pastebin application. There's about one million of these out ther
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mojopaste
 - https://github.com/jhthorsen/app-mojopaste
 - https://github.com/truecharts/containers/tree/master/mirrormojopaste/charts/tree/master/charts/incubator/mojopaste
+- https://github.com/truecharts/containers/tree/master/mirrormojopaste
 
 ## Available Documentation
 

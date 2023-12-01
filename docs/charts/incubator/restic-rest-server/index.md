@@ -9,6 +9,7 @@ Rest Server is a high performance HTTP server that implements restic's REST back
 - https://github.com/truecharts/charts/tree/master/charts/incubator/restic-rest-server
 - https://github.com/restic/rest-server
 - https://github.com/truecharts/containers/tree/master/mirrorrestic-rest-server/charts/tree/master/charts/incubator/restic-rest-server
+- https://github.com/truecharts/containers/tree/master/mirrorrestic-rest-server
 
 ## Available Documentation
 

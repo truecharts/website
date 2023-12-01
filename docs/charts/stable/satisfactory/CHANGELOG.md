@@ -3,6 +3,7 @@
 
 
 
+
 ## [satisfactory-6.0.14](https://github.com/truecharts/charts/compare/satisfactory-6.0.13...satisfactory-6.0.14) (2023-11-25)
 
 ### Chore

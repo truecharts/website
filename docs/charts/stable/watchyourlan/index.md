@@ -6,9 +6,10 @@ Lightweight network IP scanner with web GUI
 
 ## Chart Sources
 
-- https://github.com/aceberg/WatchYourLAN
 - https://hub.docker.com/r/aceberg/watchyourlan/charts/tree/master/charts/stable/watchyourlan
 - https://github.com/truecharts/charts/tree/master/charts/stable/watchyourlan
+- https://hub.docker.com/r/aceberg/watchyourlan
+- https://github.com/aceberg/WatchYourLAN
 
 ## Available Documentation
 

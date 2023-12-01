@@ -9,6 +9,7 @@ Apt-Cacher NG is a caching proxy, specialized for package files from Linux distr
 - https://github.com/truecharts/charts/tree/master/charts/stable/apt-cacher-ng
 - https://www.unix-ag.uni-kl.de/~bloch/acng/
 - https://hub.docker.com/r/sameersbn/apt-cacher-ng/charts/tree/master/charts/stable/apt-cacher-ng
+- https://hub.docker.com/r/sameersbn/apt-cacher-ng
 
 ## Available Documentation
 

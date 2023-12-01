@@ -6,9 +6,10 @@ This is a Docker Chart for BTDEX based on jlesage/Chart-baseimage-gui Chart.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/btdex
 - https://btdex.trade/
 - https://github.com/truecharts/containers/tree/master/mirrorbtdex/charts/tree/master/charts/incubator/btdex
+- https://github.com/truecharts/containers/tree/master/mirrorbtdex
+- https://github.com/truecharts/charts/tree/master/charts/incubator/btdex
 
 ## Available Documentation
 

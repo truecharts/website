@@ -6,9 +6,10 @@ FileBot is the ultimate tool for organizing and renaming your movies, tv shows o
 
 ## Chart Sources
 
+- https://hub.docker.com/r/jlesage/filebot/charts/tree/master/charts/stable/filebot
+- https://hub.docker.com/r/jlesage/filebot
 - https://github.com/truecharts/charts/tree/master/charts/stable/filebot
 - https://github.com/jlesage/docker-filebot
-- https://hub.docker.com/r/jlesage/filebot/charts/tree/master/charts/stable/filebot
 
 ## Available Documentation
 

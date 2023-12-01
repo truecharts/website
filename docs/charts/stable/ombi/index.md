@@ -9,6 +9,7 @@ Want a Movie or TV Show on Plex or Emby? Use Ombi!
 - https://github.com/truecharts/charts/tree/master/charts/stable/ombi
 - https://github.com/tidusjar/Ombi
 - https://github.com/truecharts/containers/tree/master/mirrorombi/charts/tree/master/charts/stable/ombi
+- https://github.com/truecharts/containers/tree/master/mirrorombi
 
 ## Available Documentation
 

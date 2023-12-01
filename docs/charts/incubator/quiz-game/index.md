@@ -6,6 +6,7 @@ Test your General Knowledge in different types of topics.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorquiz-game
 - https://github.com/truecharts/charts/tree/master/charts/incubator/quiz-game
 - https://github.com/ASKJR/quiz-game
 - https://registry.hub.docker.com/r/patrickstigler/quiz-game

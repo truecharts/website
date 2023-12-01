@@ -6,6 +6,7 @@ Web-Based postgresql database management utility
 
 ## Chart Sources
 
+- https://hub.docker.com/r/dpage/pgadmin4
 - https://github.com/truecharts/charts/tree/master/charts/stable/pgadmin
 - https://www.pgadmin.org/
 - https://hub.docker.com/r/dpage/pgadmin4/charts/tree/master/charts/stable/pgadmin

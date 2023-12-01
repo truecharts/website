@@ -10,6 +10,7 @@ Open source server for archival of comics/manga.
 - https://github.com/Difegue/LANraragi
 - https://sugoi.gitbook.io/lanraragi/
 - https://hub.docker.com/r/difegue/lanraragi/charts/tree/master/charts/stable/lanraragi
+- https://hub.docker.com/r/difegue/lanraragi
 
 ## Available Documentation
 

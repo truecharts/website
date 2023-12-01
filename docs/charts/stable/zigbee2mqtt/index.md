@@ -9,6 +9,7 @@ Bridges events and allows you to control your Zigbee devices via MQTT
 - https://github.com/truecharts/charts/tree/master/charts/stable/zigbee2mqtt
 - https://github.com/Koenkk/zigbee2mqtt
 - https://hub.docker.com/r/koenkk/zigbee2mqtt/charts/tree/master/charts/stable/zigbee2mqtt
+- https://hub.docker.com/r/koenkk/zigbee2mqtt
 
 ## Available Documentation
 

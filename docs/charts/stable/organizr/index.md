@@ -9,6 +9,7 @@ HTPC/Homelab Services Organizer
 - https://github.com/causefx/Organizr
 - https://hub.docker.com/r/organizr/organizr/charts/tree/master/charts/stable/organizr
 - https://github.com/truecharts/charts/tree/master/charts/stable/organizr
+- https://hub.docker.com/r/organizr/organizr
 
 ## Available Documentation
 

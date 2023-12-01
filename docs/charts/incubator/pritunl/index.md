@@ -10,6 +10,7 @@ Run a Pritunl VPN Server [br][br]
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pritunl
 - https://pritunl.com/
 - https://github.com/truecharts/containers/tree/master/mirrorpritunl/charts/tree/master/charts/incubator/pritunl
+- https://github.com/truecharts/containers/tree/master/mirrorpritunl
 
 ## Available Documentation
 

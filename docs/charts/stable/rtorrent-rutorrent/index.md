@@ -10,6 +10,7 @@ rTorrent and ruTorrent chart.
 - https://truecharts.org/charts/stable/rtorrent-rutorrent
 - https://github.com/crazy-max/docker-rtorrent-rutorrent
 - https://ghcr.io/crazy-max/rtorrent-rutorrent/charts/tree/master/charts/stable/rtorrent-rutorrent
+- https://ghcr.io/crazy-max/rtorrent-rutorrent
 
 ## Available Documentation
 

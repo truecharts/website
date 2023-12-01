@@ -6,6 +6,7 @@ This Docker will download and install SteamCMD. It will also install The Forest 
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrortheforest
 - https://github.com/truecharts/charts/tree/master/charts/incubator/theforest
 - https://www.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirrortheforest/charts/tree/master/charts/incubator/theforest

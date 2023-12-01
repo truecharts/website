@@ -6,9 +6,10 @@ Audio/Video library transcoding automation
 
 ## Chart Sources
 
+- https://hub.docker.com/r/haveagitgat/tdarr/charts/tree/master/charts/stable/tdarr
+- https://hub.docker.com/r/haveagitgat/tdarr
 - https://github.com/truecharts/charts/tree/master/charts/stable/tdarr
 - https://github.com/HaveAGitGat/Tdarr
-- https://hub.docker.com/r/haveagitgat/tdarr/charts/tree/master/charts/stable/tdarr
 
 ## Available Documentation
 

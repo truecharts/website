@@ -9,6 +9,7 @@ Snowflake's Proxy component to help users in the censored regions.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/snowflake-proxy
 - https://gitlab.torproject.org/tpo/anti-censorship/docker-snowflake-proxy
 - https://github.com/truecharts/containers/tree/master/mirrorsnowflake-proxy/charts/tree/master/charts/incubator/snowflake-proxy
+- https://github.com/truecharts/containers/tree/master/mirrorsnowflake-proxy
 
 ## Available Documentation
 

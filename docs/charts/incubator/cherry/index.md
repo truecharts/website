@@ -10,6 +10,7 @@ An open source self-hosted bookmark service
 - https://cherry.haishan.me/
 - https://github.com/haishanh/cherry
 - https://github.com/truecharts/containers/tree/master/mirrorcherry/charts/tree/master/charts/incubator/cherry
+- https://github.com/truecharts/containers/tree/master/mirrorcherry
 
 ## Available Documentation
 

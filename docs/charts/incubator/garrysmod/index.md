@@ -9,6 +9,7 @@ This Chart will download and install SteamCMD. It will also install Garry's Mod 
 - https://github.com/truecharts/containers/tree/master/mirrorgarrysmod/charts/tree/master/charts/incubator/garrysmod
 - https://github.com/truecharts/charts/tree/master/charts/incubator/garrysmod
 - https://www.steampowered.com/
+- https://github.com/truecharts/containers/tree/master/mirrorgarrysmod
 
 ## Available Documentation
 

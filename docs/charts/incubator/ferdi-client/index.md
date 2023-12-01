@@ -6,6 +6,7 @@ Ferdi is a destkop app that helps you organize how you use your favourite apps b
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorferdi-client
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ferdi-client
 - https://getferdi.com/
 - https://github.com/truecharts/containers/tree/master/mirrorferdi-client/charts/tree/master/charts/incubator/ferdi-client

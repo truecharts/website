@@ -6,9 +6,10 @@ This Chart will download and install SteamCMD. It will also install Last Oasis a
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/lastoasis
 - https://store.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirrorlastoasis/charts/tree/master/charts/incubator/lastoasis
+- https://github.com/truecharts/containers/tree/master/mirrorlastoasis
+- https://github.com/truecharts/charts/tree/master/charts/incubator/lastoasis
 
 ## Available Documentation
 

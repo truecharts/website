@@ -3,6 +3,7 @@
 
 
 
+
 ## [ghostfolio-0.3.1](https://github.com/truecharts/charts/compare/ghostfolio-0.3.0...ghostfolio-0.3.1) (2023-11-30)
 
 ### Chore

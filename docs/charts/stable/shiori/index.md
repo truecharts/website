@@ -10,6 +10,7 @@ A simple bookmark manager built with Go.
 - https://github.com/go-shiori/shiori
 - https://github.com/go-shiori/shiori/pkgs/container/shiori
 - https://ghcr.io/go-shiori/shiori/charts/tree/master/charts/stable/shiori
+- https://ghcr.io/go-shiori/shiori
 
 ## Available Documentation
 

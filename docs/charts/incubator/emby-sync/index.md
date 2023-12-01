@@ -9,6 +9,7 @@ A small flask based service to sync up Emby clients
 - https://github.com/truecharts/charts/tree/master/charts/incubator/emby-sync
 - https://github.com/cameronurnes/emby-sync
 - https://github.com/truecharts/containers/tree/master/mirroremby-sync/charts/tree/master/charts/incubator/emby-sync
+- https://github.com/truecharts/containers/tree/master/mirroremby-sync
 
 ## Available Documentation
 

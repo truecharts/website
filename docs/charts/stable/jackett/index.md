@@ -9,6 +9,7 @@ API Support for your favorite torrent trackers.
 - https://ghcr.io/linuxserver/jackett/charts/tree/master/charts/stable/jackett
 - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
 - https://github.com/Jackett/Jackett
+- https://ghcr.io/linuxserver/jackett
 
 ## Available Documentation
 

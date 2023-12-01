@@ -9,6 +9,7 @@ Unmanic is a simple tool for optimising your file library.
 - https://github.com/Unmanic/unmanic
 - https://hub.docker.com/r/josh5/unmanic/charts/tree/master/charts/stable/unmanic
 - https://github.com/truecharts/charts/tree/master/charts/stable/unmanic
+- https://hub.docker.com/r/josh5/unmanic
 
 ## Available Documentation
 

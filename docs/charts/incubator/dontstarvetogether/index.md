@@ -6,9 +6,10 @@ This Chart will download and install SteamCMD. It will also install Don't Starve
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/dontstarvetogether
 - https://www.klei.com/games/dont-starve-together
 - https://github.com/truecharts/containers/tree/master/mirrordontstarvetogether/charts/tree/master/charts/incubator/dontstarvetogether
+- https://github.com/truecharts/containers/tree/master/mirrordontstarvetogether
+- https://github.com/truecharts/charts/tree/master/charts/incubator/dontstarvetogether
 
 ## Available Documentation
 

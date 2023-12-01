@@ -6,9 +6,10 @@ Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FT
 
 ## Chart Sources
 
+- https://ghcr.io/drakkan/sftpgo/charts/tree/master/charts/stable/sftpgo
+- https://ghcr.io/drakkan/sftpgo
 - https://github.com/truecharts/charts/tree/master/charts/stable/sftpgo
 - https://github.com/drakkan/sftpgo
-- https://ghcr.io/drakkan/sftpgo/charts/tree/master/charts/stable/sftpgo
 
 ## Available Documentation
 

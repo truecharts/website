@@ -10,6 +10,7 @@ A Fast, Simple, and Flexible, file-based Web-platform.
 - https://github.com/linuxserver/docker-grav
 - https://github.com/getgrav/grav/
 - https://ghcr.io/linuxserver/grav/charts/tree/master/charts/stable/grav
+- https://ghcr.io/linuxserver/grav
 
 ## Available Documentation
 

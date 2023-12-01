@@ -9,6 +9,7 @@ A self-hosted bookmark database with full-text page content search.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/linkwallet
 - https://github.com/tardisx/linkwallet
 - https://github.com/truecharts/containers/tree/master/mirrorlinkwallet/charts/tree/master/charts/incubator/linkwallet
+- https://github.com/truecharts/containers/tree/master/mirrorlinkwallet
 
 ## Available Documentation
 

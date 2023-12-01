@@ -6,9 +6,10 @@ This is a simple Chart that downloads files sent to a telegram bot up to 2000mb 
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrortelethon-downloader/charts/tree/master/charts/incubator/telethon-downloader
+- https://github.com/truecharts/containers/tree/master/mirrortelethon-downloader
 - https://github.com/truecharts/charts/tree/master/charts/incubator/telethon-downloader
 - https://docs.telethon.dev/
-- https://github.com/truecharts/containers/tree/master/mirrortelethon-downloader/charts/tree/master/charts/incubator/telethon-downloader
 
 ## Available Documentation
 

@@ -6,10 +6,11 @@ Matomo is the leading Free/Libre open analytics platform
 
 ## Chart Sources
 
+- https://hub.docker.com/r/bitnami/matomo/charts/tree/master/charts/stable/matomo
+- https://hub.docker.com/r/bitnami/matomo
 - https://github.com/truecharts/charts/tree/master/charts/stable/matomo
 - https://github.com/bitnami/bitnami-docker-matomo
 - https://github.com/matomo-org/matomo
-- https://hub.docker.com/r/bitnami/matomo/charts/tree/master/charts/stable/matomo
 
 ## Available Documentation
 

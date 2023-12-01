@@ -6,9 +6,10 @@ Baikal is a lightweight CalDAV+CardDAV server
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/baikal
 - https://github.com/ckulka/baikal-docker
 - https://github.com/truecharts/containers/tree/master/mirrorbaikal/charts/tree/master/charts/incubator/baikal
+- https://github.com/truecharts/containers/tree/master/mirrorbaikal
+- https://github.com/truecharts/charts/tree/master/charts/incubator/baikal
 
 ## Available Documentation
 

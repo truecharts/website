@@ -10,6 +10,7 @@ A monitoring system which checks the availability of your network resources, not
 - https://github.com/jjethwa/icinga2
 - https://icinga.com/
 - https://github.com/truecharts/containers/tree/master/mirroricinga2/charts/tree/master/charts/incubator/icinga2
+- https://github.com/truecharts/containers/tree/master/mirroricinga2
 
 ## Available Documentation
 

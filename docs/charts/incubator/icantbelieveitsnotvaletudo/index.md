@@ -9,6 +9,7 @@ Create live map data from Valetudo powered robots
 - https://github.com/truecharts/charts/tree/master/charts/incubator/icantbelieveitsnotvaletudo
 - https://github.com/Hypfer/ICantBelieveItsNotValetudo
 - https://github.com/truecharts/containers/tree/master/mirroricantbelieveitsnotvaletudo/charts/tree/master/charts/incubator/icantbelieveitsnotvaletudo
+- https://github.com/truecharts/containers/tree/master/mirroricantbelieveitsnotvaletudo
 
 ## Available Documentation
 

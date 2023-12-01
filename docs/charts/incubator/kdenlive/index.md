@@ -6,11 +6,12 @@ Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platfor
 
 ## Chart Sources
 
-- https://github.com/orgs/linuxserver/packages/container/package/kdenlive
-- https://github.com/linuxserver/docker-kdenlive#readme
 - https://github.com/truecharts/containers/tree/master/mirrorkdenlive/charts/tree/master/charts/incubator/kdenlive
 - https://github.com/truecharts/charts/tree/master/charts/incubator/kdenlive
 - https://kdenlive.org/
+- https://github.com/truecharts/containers/tree/master/mirrorkdenlive
+- https://github.com/orgs/linuxserver/packages/container/package/kdenlive
+- https://github.com/linuxserver/docker-kdenlive#readme
 
 ## Available Documentation
 

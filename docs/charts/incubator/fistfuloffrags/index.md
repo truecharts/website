@@ -6,9 +6,10 @@ This Chart will download and install SteamCMD. It will also install Fistful of F
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorfistfuloffrags/charts/tree/master/charts/incubator/fistfuloffrags
+- https://github.com/truecharts/containers/tree/master/mirrorfistfuloffrags
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fistfuloffrags
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorfistfuloffrags/charts/tree/master/charts/incubator/fistfuloffrags
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ Anime cataloging program designed to automate the cataloging of your collection.
 - https://github.com/truecharts/charts/tree/master/charts/stable/shoko-server
 - https://github.com/ShokoAnime/ShokoServer
 - https://hub.docker.com/r/shokoanime/server/charts/tree/master/charts/stable/shoko-server
+- https://hub.docker.com/r/shokoanime/server
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ This chart will download and install SteamCMD. It will also install 7 Days to Di
 - https://github.com/truecharts/charts/tree/master/charts/incubator/sdtd
 - https://www.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirror7daystodie/charts/tree/master/charts/incubator/sdtd
+- https://github.com/truecharts/containers/tree/master/mirror7daystodie
 
 ## Available Documentation
 

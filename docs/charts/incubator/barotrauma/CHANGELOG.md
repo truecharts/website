@@ -3,6 +3,7 @@
 
 
 
+
 ## [barotrauma-2.0.10](https://github.com/truecharts/charts/compare/barotrauma-3.0.0...barotrauma-2.0.10) (2023-11-18)
 
 ### Chore

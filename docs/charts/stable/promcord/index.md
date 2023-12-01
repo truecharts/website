@@ -9,6 +9,7 @@ Discord bot that provides metrics from a Discord server
 - https://github.com/truecharts/charts/tree/master/charts/stable/promcord
 - https://github.com/nimarion/promcord
 - https://hub.docker.com/r/biospheere/promcord/charts/tree/master/charts/stable/promcord
+- https://hub.docker.com/r/biospheere/promcord
 
 ## Available Documentation
 

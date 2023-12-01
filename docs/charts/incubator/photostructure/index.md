@@ -9,6 +9,7 @@ PhotoStructure is your new home for all your photos and videos.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/photostructure
 - https://github.com/photostructure/photostructure-for-servers
 - https://github.com/truecharts/containers/tree/master/mirrorphotostructure/charts/tree/master/charts/incubator/photostructure
+- https://github.com/truecharts/containers/tree/master/mirrorphotostructure
 
 ## Available Documentation
 

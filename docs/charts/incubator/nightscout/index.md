@@ -10,6 +10,7 @@ Allows the installation of Nightscout, a remote CGM monitoring system. It allows
 - https://github.com/truecharts/containers/tree/master/mirrornightscout/charts/tree/master/charts/incubator/nightscout
 - https://github.com/truecharts/charts/tree/master/charts/incubator/nightscout
 - https://github.com/nightscout/cgm-remote-monitor
+- https://github.com/truecharts/containers/tree/master/mirrornightscout
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ Homepage: http://bpatrik.github.io/pigallery2/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pigallery2
 - https://github.com/bpatrik/pigallery2
 - https://github.com/truecharts/containers/tree/master/mirrorpigallery2/charts/tree/master/charts/incubator/pigallery2
+- https://github.com/truecharts/containers/tree/master/mirrorpigallery2
 
 ## Available Documentation
 

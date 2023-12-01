@@ -9,6 +9,7 @@ Integrated development environment for R, a programming language for statistical
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rstudio
 - https://github.com/rocker-org/rocker-versioned2
 - https://github.com/truecharts/containers/tree/master/mirrorrstudio/charts/tree/master/charts/incubator/rstudio
+- https://github.com/truecharts/containers/tree/master/mirrorrstudio
 
 ## Available Documentation
 

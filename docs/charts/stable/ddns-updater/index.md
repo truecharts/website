@@ -6,6 +6,7 @@ Light container updating DNS A and/or AAAA records periodically for multiple DNS
 
 ## Chart Sources
 
+- https://hub.docker.com/r/qmcgaw/ddns-updater
 - https://github.com/truecharts/charts/tree/master/charts/stable/ddns-updater
 - https://github.com/qdm12/ddns-updater
 - https://hub.docker.com/r/qmcgaw/ddns-updater/charts/tree/master/charts/stable/ddns-updater

@@ -9,6 +9,7 @@ A automatic user invitation system for Plex.
 - https://github.com/truecharts/charts/tree/master/charts/stable/wizarr
 - https://github.com/Wizarrrr/wizarr
 - https://ghcr.io/wizarrrr/wizarr/charts/tree/master/charts/stable/wizarr
+- https://ghcr.io/wizarrrr/wizarr
 
 ## Available Documentation
 

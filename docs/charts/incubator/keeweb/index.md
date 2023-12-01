@@ -9,6 +9,7 @@ This webapp is a browser and desktop password manager compatible with KeePass da
 - https://github.com/truecharts/charts/tree/master/charts/incubator/keeweb
 - https://github.com/keeweb/keeweb
 - https://github.com/truecharts/containers/tree/master/mirrorkeeweb/charts/tree/master/charts/incubator/keeweb
+- https://github.com/truecharts/containers/tree/master/mirrorkeeweb
 
 ## Available Documentation
 

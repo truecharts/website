@@ -9,6 +9,7 @@ This application backs up every folder mounted at `/data/` to a given AWS S3 pat
 - https://github.com/truecharts/charts/tree/master/charts/incubator/s3sync
 - https://github.com/what-name/docker-s3sync
 - https://github.com/truecharts/containers/tree/master/mirrors3sync/charts/tree/master/charts/incubator/s3sync
+- https://github.com/truecharts/containers/tree/master/mirrors3sync
 
 ## Available Documentation
 

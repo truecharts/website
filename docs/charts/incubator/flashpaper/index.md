@@ -6,9 +6,10 @@ One-time encrypted password/secret sharing
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/flashpaper
 - https://github.com/AndrewPaglusch/FlashPaper
 - https://github.com/truecharts/containers/tree/master/mirrorflashpaper/charts/tree/master/charts/incubator/flashpaper
+- https://github.com/truecharts/containers/tree/master/mirrorflashpaper
+- https://github.com/truecharts/charts/tree/master/charts/incubator/flashpaper
 
 ## Available Documentation
 

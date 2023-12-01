@@ -9,6 +9,7 @@ A tool for managing Factorio servers
 - https://github.com/truecharts/charts/tree/master/charts/incubator/factorioservermanager
 - https://github.com/OpenFactorioServerManager/factorio-server-manager
 - https://github.com/truecharts/containers/tree/master/mirrorfactorioservermanager/charts/tree/master/charts/incubator/factorioservermanager
+- https://github.com/truecharts/containers/tree/master/mirrorfactorioservermanager
 
 ## Available Documentation
 

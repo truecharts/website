@@ -8,6 +8,7 @@ CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" 
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/cyberchef
 - https://hub.docker.com/r/mpepping/cyberchef/charts/tree/master/charts/stable/cyberchef
+- https://hub.docker.com/r/mpepping/cyberchef
 
 ## Available Documentation
 

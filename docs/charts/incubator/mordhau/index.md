@@ -9,6 +9,7 @@ This Docker will download and install SteamCMD. It will also install Mordhau and
 - https://www.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirrormordhau/charts/tree/master/charts/incubator/mordhau
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mordhau
+- https://github.com/truecharts/containers/tree/master/mirrormordhau
 
 ## Available Documentation
 

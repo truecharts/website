@@ -6,6 +6,7 @@ A tool that can automatically download free seeds and delete them after the free
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorpt-helper
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pt-helper
 - https://github.com/truecharts/containers/tree/master/mirrorpt-helper/charts/tree/master/charts/incubator/pt-helper
 

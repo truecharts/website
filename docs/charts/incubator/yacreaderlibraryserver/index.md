@@ -6,6 +6,7 @@ Headless version of the YACReaderLibraryServer.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirroryacreaderlibraryserver
 - https://github.com/truecharts/charts/tree/master/charts/incubator/yacreaderlibraryserver
 - https://www.yacreader.com
 - https://github.com/truecharts/containers/tree/master/mirroryacreaderlibraryserver/charts/tree/master/charts/incubator/yacreaderlibraryserver

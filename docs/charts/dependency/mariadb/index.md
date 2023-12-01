@@ -11,6 +11,7 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 - https://hub.docker.com/r/bitnami/mariadb/charts/tree/master/charts/dependency/mariadb
 - https://github.com/truecharts/charts/tree/master/charts/dependency/mariadb
 - https://github.com/bitnami/bitnami-docker-mariadb
+- https://hub.docker.com/r/bitnami/mariadb
 
 ## Available Documentation
 

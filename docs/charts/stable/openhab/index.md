@@ -6,8 +6,9 @@ OpenHab is a home-automation application
 
 ## Chart Sources
 
-- https://hub.docker.com/r/openhab/openhab/charts/tree/master/charts/stable/openhab
 - https://github.com/truecharts/charts/tree/master/charts/stable/openhab
+- https://hub.docker.com/r/openhab/openhab
+- https://hub.docker.com/r/openhab/openhab/charts/tree/master/charts/stable/openhab
 
 ## Available Documentation
 

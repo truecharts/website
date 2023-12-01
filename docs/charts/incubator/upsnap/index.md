@@ -9,6 +9,7 @@ A simple wake on lan app written with SvelteKit, Go, PocketBase and nmap.
 - https://github.com/truecharts/containers/tree/master/mirrorupsnap/charts/tree/master/charts/incubator/upsnap
 - https://github.com/truecharts/charts/tree/master/charts/incubator/upsnap
 - https://github.com/seriousm4x/UpSnap
+- https://github.com/truecharts/containers/tree/master/mirrorupsnap
 
 ## Available Documentation
 

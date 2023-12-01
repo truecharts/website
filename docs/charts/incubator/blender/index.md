@@ -11,6 +11,7 @@ Blender(https://www.blender.org/) is a free and open-source 3D computer graphics
 - https://github.com/truecharts/containers/tree/master/mirrorblender/charts/tree/master/charts/incubator/blender
 - https://github.com/truecharts/charts/tree/master/charts/incubator/blender
 - https://www.blender.org/
+- https://github.com/truecharts/containers/tree/master/mirrorblender
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ Navidrome is an open source web-based music collection server and streamer
 - https://github.com/deluan/navidrome
 - https://hub.docker.com/r/deluan/navidrome/charts/tree/master/charts/stable/navidrome
 - https://github.com/truecharts/charts/tree/master/charts/stable/navidrome
+- https://hub.docker.com/r/deluan/navidrome
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ Your favorite operating systems in one place!
 - https://github.com/truecharts/charts/tree/master/charts/incubator/netbootxyz
 - https://github.com/netbootxyz/netboot.xyz
 - https://github.com/truecharts/containers/tree/master/mirrornetbootxyz/charts/tree/master/charts/incubator/netbootxyz
+- https://github.com/truecharts/containers/tree/master/mirrornetbootxyz
 
 ## Available Documentation
 

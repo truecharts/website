@@ -6,9 +6,10 @@ Lemur manages TLS certificate creation. While not able to issue certificates its
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorlemur-cfssl/charts/tree/master/charts/incubator/lemur-cfssl
+- https://github.com/truecharts/containers/tree/master/mirrorlemur-cfssl
 - https://github.com/truecharts/charts/tree/master/charts/incubator/lemur-cfssl
 - https://github.com/Netflix/lemur
-- https://github.com/truecharts/containers/tree/master/mirrorlemur-cfssl/charts/tree/master/charts/incubator/lemur-cfssl
 
 ## Available Documentation
 

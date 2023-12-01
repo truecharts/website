@@ -9,6 +9,7 @@ iCloudPD, syncs photos from iDevices to a single directory on TrueNAS.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/icloudpd
 - https://github.com/Womabre/-TrueNAS-docker-templates
 - https://github.com/truecharts/containers/tree/master/mirroricloudpd/charts/tree/master/charts/incubator/icloudpd
+- https://github.com/truecharts/containers/tree/master/mirroricloudpd
 
 ## Available Documentation
 

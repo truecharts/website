@@ -9,6 +9,7 @@ A web client for Reddit
 - https://github.com/truecharts/charts/tree/master/charts/incubator/troddit
 - https://github.com/burhan-syed/troddit
 - https://github.com/truecharts/containers/tree/master/mirrortroddit/charts/tree/master/charts/incubator/troddit
+- https://github.com/truecharts/containers/tree/master/mirrortroddit
 
 ## Available Documentation
 

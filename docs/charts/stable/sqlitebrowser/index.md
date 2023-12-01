@@ -10,6 +10,7 @@ A high quality, visual, open source tool to create, design, and edit database fi
 - https://github.com/truecharts/charts/tree/master/charts/stable/sqlitebrowser
 - https://github.com/linuxserver/docker-sqlitebrowser
 - https://sqlitebrowser.org/
+- https://ghcr.io/linuxserver/sqlitebrowser
 
 ## Available Documentation
 

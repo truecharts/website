@@ -9,6 +9,7 @@ The open-source core of Pinry, a tiling image board system for people who want t
 - https://github.com/truecharts/charts/tree/master/charts/stable/pinry
 - https://github.com/pinry/pinry/
 - https://hub.docker.com/r/getpinry/pinry/charts/tree/master/charts/stable/pinry
+- https://hub.docker.com/r/getpinry/pinry
 
 ## Available Documentation
 

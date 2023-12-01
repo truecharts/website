@@ -6,9 +6,10 @@ PhotoPrismÂ® is a server-based application for browsing, organizing and sharin
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/photoprism
 - https://github.com/photoprism/photoprism
 - https://hub.docker.com/r/photoprism/photoprism/charts/tree/master/charts/stable/photoprism
+- https://hub.docker.com/r/photoprism/photoprism
+- https://github.com/truecharts/charts/tree/master/charts/stable/photoprism
 
 ## Available Documentation
 

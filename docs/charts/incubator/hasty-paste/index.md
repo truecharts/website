@@ -6,10 +6,11 @@ A fast and minimal paste bin, written in Python using Quart.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/hasty-paste
 - https://github.com/enchant97/hasty-paste
 - https://github.com/enchant97/hasty-paste/blob/main/docs/install.md
 - https://github.com/truecharts/containers/tree/master/mirrorhasty-paste/charts/tree/master/charts/incubator/hasty-paste
+- https://github.com/truecharts/containers/tree/master/mirrorhasty-paste
+- https://github.com/truecharts/charts/tree/master/charts/incubator/hasty-paste
 
 ## Available Documentation
 

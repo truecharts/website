@@ -10,6 +10,7 @@ Open source asset management
 - https://snipeitapp.com/
 - https://github.com/snipe/snipe-it
 - https://github.com/truecharts/containers/tree/master/mirrorsnipe-it/charts/tree/master/charts/incubator/snipe-it
+- https://github.com/truecharts/containers/tree/master/mirrorsnipe-it
 
 ## Available Documentation
 

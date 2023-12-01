@@ -9,6 +9,7 @@ RadarrSync Syncs two Radarr servers through web API. This is a modified version 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/radarrsync
 - https://github.com/dairefinn/RadarrSync
 - https://github.com/truecharts/containers/tree/master/mirrorradarrsync/charts/tree/master/charts/incubator/radarrsync
+- https://github.com/truecharts/containers/tree/master/mirrorradarrsync
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ FileShelter is a self-hosted software that allows you to easily share files over
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fileshelter
 - https://github.com/epoupon/fileshelter
 - https://github.com/truecharts/containers/tree/master/mirrorfileshelter/charts/tree/master/charts/incubator/fileshelter
+- https://github.com/truecharts/containers/tree/master/mirrorfileshelter
 
 ## Available Documentation
 

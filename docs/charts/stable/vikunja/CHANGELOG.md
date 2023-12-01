@@ -2,6 +2,7 @@
 
 
 
+
 ## [vikunja-9.0.26](https://github.com/truecharts/charts/compare/vikunja-9.0.25...vikunja-9.0.26) (2023-11-24)
 
 ### Chore

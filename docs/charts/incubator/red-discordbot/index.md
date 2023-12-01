@@ -6,9 +6,10 @@ The newest Red-Discordbot in a convenient multi-arch Chart
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/red-discordbot
 - https://github.com/PhasecoreX/docker-red-discordbot
 - https://github.com/truecharts/containers/tree/master/mirrorred-discordbot/charts/tree/master/charts/incubator/red-discordbot
+- https://github.com/truecharts/containers/tree/master/mirrorred-discordbot
+- https://github.com/truecharts/charts/tree/master/charts/incubator/red-discordbot
 
 ## Available Documentation
 

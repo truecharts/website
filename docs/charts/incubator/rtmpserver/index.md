@@ -9,6 +9,7 @@ A video streaming server that supports RTMP, HLS, DASH out of the box.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rtmpserver
 - https://github.com/TareqAlqutami/rtmp-hls-server
 - https://github.com/truecharts/containers/tree/master/mirrorrtmpserver/charts/tree/master/charts/incubator/rtmpserver
+- https://github.com/truecharts/containers/tree/master/mirrorrtmpserver
 
 ## Available Documentation
 

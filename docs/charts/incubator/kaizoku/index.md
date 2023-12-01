@@ -9,6 +9,7 @@ A self-hosted manga downloader.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/kaizoku
 - https://github.com/oae/kaizoku
 - https://github.com/truecharts/containers/tree/master/mirrorkaizoku/charts/tree/master/charts/incubator/kaizoku
+- https://github.com/truecharts/containers/tree/master/mirrorkaizoku
 
 ## Available Documentation
 

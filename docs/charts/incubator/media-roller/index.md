@@ -9,6 +9,7 @@ Mobile friendly tool for downloading videos from social media.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/media-roller
 - https://github.com/rroller/media-roller
 - https://github.com/truecharts/containers/tree/master/mirrormedia-roller/charts/tree/master/charts/incubator/media-roller
+- https://github.com/truecharts/containers/tree/master/mirrormedia-roller
 
 ## Available Documentation
 

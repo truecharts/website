@@ -9,6 +9,7 @@ Quick and simple file sharing between different devices.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/quickshare
 - https://github.com/ihexxa/quickshare
 - https://github.com/truecharts/containers/tree/master/mirrorquickshare/charts/tree/master/charts/incubator/quickshare
+- https://github.com/truecharts/containers/tree/master/mirrorquickshare
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ A utility to help manage your library.
 - https://github.com/truecharts/charts/tree/master/charts/stable/plex-utills
 - https://github.com/jkirkcaldy/plex-utills
 - https://hub.docker.com/r/jkirkcaldy/plex-utills/charts/tree/master/charts/stable/plex-utills
+- https://hub.docker.com/r/jkirkcaldy/plex-utills
 
 ## Available Documentation
 

@@ -10,6 +10,7 @@ InvenTree is an open-source Inventory Management System which provides powerful 
 - https://github.com/inventree/InvenTree
 - https://github.com/truecharts/containers/tree/master/mirrorinventree/charts/tree/master/charts/incubator/inventree
 - https://github.com/truecharts/charts/tree/master/charts/incubator/inventree
+- https://github.com/truecharts/containers/tree/master/mirrorinventree
 
 ## Available Documentation
 

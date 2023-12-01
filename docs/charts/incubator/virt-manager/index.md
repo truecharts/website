@@ -8,6 +8,7 @@ The virt-manager application is a desktop user interface for managing virtual ma
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/virt-manager
 - https://github.com/truecharts/containers/tree/master/mirrorvirt-manager/charts/tree/master/charts/incubator/virt-manager
+- https://github.com/truecharts/containers/tree/master/mirrorvirt-manager
 
 ## Available Documentation
 

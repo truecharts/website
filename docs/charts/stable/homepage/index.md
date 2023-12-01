@@ -6,9 +6,10 @@ A highly customizable homepage
 
 ## Chart Sources
 
+- https://github.com/benphelps/homepage
+- https://ghcr.io/gethomepage/homepage
 - https://ghcr.io/gethomepage/homepage/charts/tree/master/charts/stable/homepage
 - https://github.com/truecharts/charts/tree/master/charts/stable/homepage
-- https://github.com/benphelps/homepage
 
 ## Available Documentation
 

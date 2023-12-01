@@ -10,6 +10,7 @@ Kimai is a free, open source and online time-tracking software designed for smal
 - https://github.com/truecharts/containers/tree/master/mirrorkimai/charts/tree/master/charts/incubator/kimai
 - https://github.com/truecharts/charts/tree/master/charts/incubator/kimai
 - https://github.com/kevinpapst/kimai2
+- https://github.com/truecharts/containers/tree/master/mirrorkimai
 
 ## Available Documentation
 

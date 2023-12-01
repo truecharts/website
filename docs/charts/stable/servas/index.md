@@ -6,6 +6,7 @@ A self-hosted bookmark management tool.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/beromir/servas
 - https://github.com/truecharts/charts/tree/master/charts/stable/servas
 - https://github.com/beromir/Servas
 - https://hub.docker.com/r/beromir/servas/charts/tree/master/charts/stable/servas

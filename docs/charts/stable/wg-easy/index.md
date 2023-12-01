@@ -9,6 +9,7 @@ The easiest way to run WireGuard VPN + Web-based Admin UI.
 - https://github.com/truecharts/charts/tree/master/charts/stable/wg-easy
 - https://github.com/WeeJeWel/wg-easy
 - https://hub.docker.com/r/weejewel/wg-easy/charts/tree/master/charts/stable/wg-easy
+- https://hub.docker.com/r/weejewel/wg-easy
 
 ## Available Documentation
 

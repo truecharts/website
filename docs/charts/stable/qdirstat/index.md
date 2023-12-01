@@ -9,6 +9,7 @@ QDirStat is a graphical application to show where your disk space has gone and t
 - https://github.com/truecharts/charts/tree/master/charts/stable/qdirstat
 - https://github.com/jlesage/docker-qdirstat
 - https://hub.docker.com/r/jlesage/qdirstat/charts/tree/master/charts/stable/qdirstat
+- https://hub.docker.com/r/jlesage/qdirstat
 
 ## Available Documentation
 

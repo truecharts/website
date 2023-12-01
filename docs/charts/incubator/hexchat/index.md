@@ -11,6 +11,7 @@ HexChat is an IRC client based on XChat, but unlike XChat it’s completely free
 - https://github.com/truecharts/charts/tree/master/charts/incubator/hexchat
 - https://hexchat.github.io/
 - https://registry.hub.docker.com/r/binhex/arch-hexchat/
+- https://github.com/truecharts/containers/tree/master/mirrorhexchat
 
 ## Available Documentation
 

@@ -6,9 +6,10 @@ All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, P
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/odoo
 - https://github.com/odoo/docker
 - https://hub.docker.com/_/odoo/charts/tree/master/charts/stable/odoo
+- https://hub.docker.com/_/odoo
+- https://github.com/truecharts/charts/tree/master/charts/stable/odoo
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ GoAutoYT makes it easy for you to automatically download videos from as many You
 - https://github.com/truecharts/charts/tree/master/charts/incubator/go-auto-yt
 - https://github.com/XiovV/go-auto-yt
 - https://github.com/truecharts/containers/tree/master/mirrorgo-auto-yt/charts/tree/master/charts/incubator/go-auto-yt
+- https://github.com/truecharts/containers/tree/master/mirrorgo-auto-yt
 
 ## Available Documentation
 

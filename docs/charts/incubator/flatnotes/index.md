@@ -9,6 +9,7 @@ A database-less note taking web app that utilizes a flat folder of markdown file
 - https://github.com/truecharts/charts/tree/master/charts/incubator/flatnotes
 - https://github.com/Dullage/flatnotes
 - https://github.com/truecharts/containers/tree/master/mirrorflatnotes/charts/tree/master/charts/incubator/flatnotes
+- https://github.com/truecharts/containers/tree/master/mirrorflatnotes
 
 ## Available Documentation
 

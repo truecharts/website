@@ -9,6 +9,7 @@ Baserow is an open source no-code database tool and Airtable alternative.
 - https://github.com/truecharts/charts/tree/master/charts/stable/baserow
 - https://gitlab.com/bramw/baserow/
 - https://hub.docker.com/r/baserow/baserow/charts/tree/master/charts/stable/baserow
+- https://hub.docker.com/r/baserow/baserow
 
 ## Available Documentation
 

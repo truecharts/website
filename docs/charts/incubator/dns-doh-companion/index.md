@@ -9,6 +9,7 @@ A very simple DNS server to connect to DNS-over-HTTPS service. This is similar t
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dns-doh-companion
 - https://developers.cloudflare.com/1.1.1.1/dns-over-https/cloudflared-proxy/
 - https://github.com/truecharts/containers/tree/master/mirrordns-doh-companion/charts/tree/master/charts/incubator/dns-doh-companion
+- https://github.com/truecharts/containers/tree/master/mirrordns-doh-companion
 
 ## Available Documentation
 

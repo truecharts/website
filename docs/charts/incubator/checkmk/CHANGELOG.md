@@ -4,6 +4,7 @@
 
 
 
+
 ## [checkmk-1.0.0](https://github.com/truecharts/charts/compare/checkmk-0.0.7...checkmk-1.0.0) (2023-07-31)
 
 ### Feat

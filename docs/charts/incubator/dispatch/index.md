@@ -6,6 +6,7 @@ Web-based IRC client in Go.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrordispatch
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dispatch
 - https://github.com/khlieng/dispatch
 - https://github.com/truecharts/containers/tree/master/mirrordispatch/charts/tree/master/charts/incubator/dispatch

@@ -9,6 +9,7 @@ Script to add new series and movies to Sonarr/Radarr based on Trakt lists.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/traktarr
 - https://github.com/l3uddz/traktarr
 - https://github.com/truecharts/containers/tree/master/mirrortraktarr/charts/tree/master/charts/incubator/traktarr
+- https://github.com/truecharts/containers/tree/master/mirrortraktarr
 
 ## Available Documentation
 

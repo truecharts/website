@@ -9,6 +9,7 @@ Gokapi is a lightweight server to share files, which expire after a set amount o
 - https://github.com/truecharts/charts/tree/master/charts/incubator/gokapi
 - https://github.com/Forceu/gokapi
 - https://github.com/truecharts/containers/tree/master/mirrorgokapi/charts/tree/master/charts/incubator/gokapi
+- https://github.com/truecharts/containers/tree/master/mirrorgokapi
 
 ## Available Documentation
 

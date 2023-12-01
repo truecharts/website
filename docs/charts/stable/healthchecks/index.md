@@ -9,6 +9,7 @@ Healthchecks is a cron job monitoring service. It listens for HTTP requests and 
 - https://github.com/truecharts/charts/tree/master/charts/stable/healthchecks
 - https://github.com/healthchecks/healthchecks
 - https://ghcr.io/linuxserver/healthchecks/charts/tree/master/charts/stable/healthchecks
+- https://ghcr.io/linuxserver/healthchecks
 
 ## Available Documentation
 

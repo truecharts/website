@@ -6,9 +6,10 @@ A management console for minio server and operator
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/minio-console
+- https://hub.docker.com/r/minio/console
 - https://github.com/minio/console
 - https://hub.docker.com/r/minio/console/charts/tree/master/charts/stable/minio-console
-- https://github.com/truecharts/charts/tree/master/charts/stable/minio-console
 
 ## Available Documentation
 

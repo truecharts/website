@@ -9,6 +9,7 @@ Space Engineers Dedicated Server.
 - https://github.com/truecharts/charts/tree/master/charts/stable/spaceengineers
 - https://github.com/Devidian/docker-spaceengineers
 - https://hub.docker.com/r/devidian/spaceengineers/charts/tree/master/charts/stable/spaceengineers
+- https://hub.docker.com/r/devidian/spaceengineers
 
 ## Available Documentation
 

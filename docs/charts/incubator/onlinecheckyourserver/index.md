@@ -8,6 +8,7 @@ This is a simple Chart that will check if a domain name or IP address is pingabl
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/onlinecheckyourserver
 - https://github.com/truecharts/containers/tree/master/mirroronlinecheckyourserver/charts/tree/master/charts/incubator/onlinecheckyourserver
+- https://github.com/truecharts/containers/tree/master/mirroronlinecheckyourserver
 
 ## Available Documentation
 

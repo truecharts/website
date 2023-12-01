@@ -6,9 +6,10 @@ Meta search engine which aggregates results from more than 70 search services.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/searxng/searxng/charts/tree/master/charts/stable/searxng
+- https://hub.docker.com/r/searxng/searxng
 - https://github.com/truecharts/charts/tree/master/charts/stable/searxng
 - https://github.com/searxng/searxng
-- https://hub.docker.com/r/searxng/searxng/charts/tree/master/charts/stable/searxng
 
 ## Available Documentation
 

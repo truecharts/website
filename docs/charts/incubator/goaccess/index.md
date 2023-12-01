@@ -8,6 +8,7 @@ GoAccess is an open source real-time web log analyzer and interactive viewer tha
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/goaccess
 - https://github.com/truecharts/containers/tree/master/mirrorgoaccess/charts/tree/master/charts/incubator/goaccess
+- https://github.com/truecharts/containers/tree/master/mirrorgoaccess
 
 ## Available Documentation
 

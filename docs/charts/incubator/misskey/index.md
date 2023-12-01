@@ -9,6 +9,7 @@ Open source decentralized social media platform that's free forever!
 - https://github.com/truecharts/charts/tree/master/charts/incubator/misskey
 - https://github.com/misskey-dev/misskey/
 - https://github.com/truecharts/containers/tree/master/mirrormisskey/charts/tree/master/charts/incubator/misskey
+- https://github.com/truecharts/containers/tree/master/mirrormisskey
 
 ## Available Documentation
 

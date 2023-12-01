@@ -6,6 +6,7 @@ Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorumami
 - https://github.com/truecharts/charts/tree/master/charts/incubator/umami
 - https://github.com/umami-software/umami
 - https://github.com/truecharts/containers/tree/master/mirrorumami/charts/tree/master/charts/incubator/umami

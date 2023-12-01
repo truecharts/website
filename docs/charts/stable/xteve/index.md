@@ -10,6 +10,7 @@ M3U Proxy for Plex DVR and Emby Live TV.
 - https://github.com/k8s-at-home/container-images
 - https://ghcr.io/k8s-at-home/xteve/charts/tree/master/charts/stable/xteve
 - https://github.com/truecharts/charts/tree/master/charts/stable/xteve
+- https://ghcr.io/k8s-at-home/xteve
 
 ## Available Documentation
 

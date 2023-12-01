@@ -9,6 +9,7 @@ Dynamic DNS for Amazon Route 53‎ on a time-based schedule
 - https://github.com/crazy-max/ddns-route53
 - https://github.com/truecharts/containers/tree/master/mirrorddns-route53/charts/tree/master/charts/incubator/ddns-route53
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ddns-route53
+- https://github.com/truecharts/containers/tree/master/mirrorddns-route53
 
 ## Available Documentation
 

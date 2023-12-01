@@ -9,6 +9,7 @@ MetaTube downloads video from YouTube and can add metadata from a specified meta
 - https://github.com/truecharts/charts/tree/master/charts/incubator/metatube
 - https://github.com/JVT038/MetaTube
 - https://github.com/truecharts/containers/tree/master/mirrormetatube/charts/tree/master/charts/incubator/metatube
+- https://github.com/truecharts/containers/tree/master/mirrormetatube
 
 ## Available Documentation
 

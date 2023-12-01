@@ -10,6 +10,7 @@ Plex to AniList Sync.
 - https://github.com/RickDB/PlexAniSync
 - https://github.com/RickDB/PlexAniSync/pkgs/container/plexanisync
 - https://ghcr.io/rickdb/plexanisync/charts/tree/master/charts/stable/plexanisync
+- https://ghcr.io/rickdb/plexanisync
 
 ## Available Documentation
 

@@ -10,6 +10,7 @@ A high-performance, enterprise-grade system for backing up Linux, Windows and ma
 - https://github.com/tiredofit/docker-backuppc
 - https://backuppc.github.io/backuppc/index.html
 - https://github.com/truecharts/containers/tree/master/mirrorbackuppc/charts/tree/master/charts/incubator/backuppc
+- https://github.com/truecharts/containers/tree/master/mirrorbackuppc
 
 ## Available Documentation
 

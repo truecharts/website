@@ -6,6 +6,7 @@ FileRun is a full featured web based file manager with an easy to use user inter
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorfilerun
 - https://github.com/truecharts/charts/tree/master/charts/incubator/filerun
 - https://github.com/filerun/docker
 - https://github.com/truecharts/containers/tree/master/mirrorfilerun/charts/tree/master/charts/incubator/filerun

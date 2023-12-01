@@ -9,6 +9,7 @@ This Chart will download and run Luna Multiplayer for Kerbal Space Program (KSP)
 - https://github.com/truecharts/charts/tree/master/charts/incubator/kerbalspaceprogram-lmp
 - https://github.com/LunaMultiplayer/LunaMultiplayer
 - https://github.com/truecharts/containers/tree/master/mirrorkerbalspaceprogram-lmp/charts/tree/master/charts/incubator/kerbalspaceprogram-lmp
+- https://github.com/truecharts/containers/tree/master/mirrorkerbalspaceprogram-lmp
 
 ## Available Documentation
 

@@ -6,9 +6,10 @@ ntfy is a simple HTTP-based pub-sub notification service. It allows you to send 
 
 ## Chart Sources
 
+- https://hub.docker.com/r/binwiederhier/ntfy/charts/tree/master/charts/stable/ntfy
+- https://hub.docker.com/r/binwiederhier/ntfy
 - https://github.com/truecharts/charts/tree/master/charts/stable/ntfy
 - https://github.com/binwiederhier/ntfy/
-- https://hub.docker.com/r/binwiederhier/ntfy/charts/tree/master/charts/stable/ntfy
 
 ## Available Documentation
 

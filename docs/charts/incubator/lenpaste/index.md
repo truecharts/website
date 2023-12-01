@@ -6,6 +6,7 @@ Lenpaste is a web service that allows you to share notes anonymously
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorlenpaste
 - https://github.com/truecharts/charts/tree/master/charts/incubator/lenpaste
 - https://git.lcomrade.su/root/lenpaste
 - https://github.com/truecharts/containers/tree/master/mirrorlenpaste/charts/tree/master/charts/incubator/lenpaste

@@ -6,6 +6,7 @@ An adult media thingy.
 
 ## Chart Sources
 
+- https://ghcr.io/hotio/whisparr
 - https://github.com/onedr0p/containers/tree/main/apps/whisparr
 - https://ghcr.io/hotio/whisparr/charts/tree/master/charts/stable/whisparr
 - https://github.com/truecharts/charts/tree/master/charts/stable/whisparr

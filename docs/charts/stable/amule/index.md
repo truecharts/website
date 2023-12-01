@@ -9,6 +9,7 @@ aMule is an eMule-like client for the eDonkey and Kademlia networks.
 - https://github.com/truecharts/charts/tree/master/charts/stable/amule
 - https://github.com/t-chab/dockerfiles
 - https://hub.docker.com/r/tchabaud/amule/charts/tree/master/charts/stable/amule
+- https://hub.docker.com/r/tchabaud/amule
 
 ## Available Documentation
 

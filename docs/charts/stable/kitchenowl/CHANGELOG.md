@@ -3,6 +3,7 @@
 
 
 
+
 ## [kitchenowl-6.0.26](https://github.com/truecharts/charts/compare/kitchenowl-6.0.25...kitchenowl-6.0.26) (2023-11-30)
 
 ### Chore

@@ -9,6 +9,7 @@ Self-hosted bookmarking application.
 - https://github.com/truecharts/charts/tree/master/charts/incubator/briefkasten
 - https://github.com/ndom91/briefkasten
 - https://github.com/truecharts/containers/tree/master/mirrorbriefkasten/charts/tree/master/charts/incubator/briefkasten
+- https://github.com/truecharts/containers/tree/master/mirrorbriefkasten
 
 ## Available Documentation
 

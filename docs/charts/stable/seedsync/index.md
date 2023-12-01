@@ -9,6 +9,7 @@ SeedSync is a tool to sync the files on a remote Linux server (like your seedbox
 - https://github.com/truecharts/charts/tree/master/charts/stable/seedsync
 - https://github.com/ipsingh06/seedsync
 - https://hub.docker.com/r/ipsingh06/seedsync/charts/tree/master/charts/stable/seedsync
+- https://hub.docker.com/r/ipsingh06/seedsync
 
 ## Available Documentation
 

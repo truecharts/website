@@ -10,6 +10,7 @@ A knowledge base that works on local Markdown files.
 - https://github.com/sytone/obsidian-remote
 - https://github.com/sytone/obsidian-remote/pkgs/container/obsidian-remote
 - https://github.com/truecharts/containers/tree/master/mirrorobsidian/charts/tree/master/charts/incubator/obsidian
+- https://github.com/truecharts/containers/tree/master/mirrorobsidian
 
 ## Available Documentation
 

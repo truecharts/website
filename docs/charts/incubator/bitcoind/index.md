@@ -10,6 +10,7 @@ Support the Bitcoin network by hosting your own node! This template provides a f
 - https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoind
 - https://bitcoin.org/
 - https://github.com/truecharts/containers/tree/master/mirrorbitcoind/charts/tree/master/charts/incubator/bitcoind
+- https://github.com/truecharts/containers/tree/master/mirrorbitcoind
 
 ## Available Documentation
 

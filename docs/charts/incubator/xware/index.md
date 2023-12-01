@@ -6,8 +6,9 @@ This is a Chart of Thunder downloader.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/xware
 - https://github.com/truecharts/containers/tree/master/mirrorxware/charts/tree/master/charts/incubator/xware
+- https://github.com/truecharts/containers/tree/master/mirrorxware
+- https://github.com/truecharts/charts/tree/master/charts/incubator/xware
 
 ## Available Documentation
 

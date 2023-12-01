@@ -10,6 +10,7 @@ Your self-hosted bookmark archive. Free and open source.
 - https://www.linkace.org/docs/
 - https://github.com/linkace/linkace
 - https://github.com/truecharts/containers/tree/master/mirrorlinkace/charts/tree/master/charts/incubator/linkace
+- https://github.com/truecharts/containers/tree/master/mirrorlinkace
 
 ## Available Documentation
 

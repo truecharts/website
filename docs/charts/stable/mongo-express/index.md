@@ -9,6 +9,7 @@ mongo-express is a web-based MongoDB admin interface written in Node.js, Express
 - https://hub.docker.com/_/mongo-express/charts/tree/master/charts/stable/mongo-express
 - https://github.com/truecharts/charts/tree/master/charts/stable/mongo-express
 - https://github.com/mongo-express/mongo-express
+- https://hub.docker.com/_/mongo-express
 
 ## Available Documentation
 

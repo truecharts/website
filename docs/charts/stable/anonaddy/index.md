@@ -9,6 +9,7 @@ Protect your email from spam using disposable addresses.
 - https://hub.docker.com/r/anonaddy/anonaddy/charts/tree/master/charts/stable/anonaddy
 - https://github.com/truecharts/charts/tree/master/charts/stable/anonaddy
 - https://github.com/anonaddy/docker
+- https://hub.docker.com/r/anonaddy/anonaddy
 
 ## Available Documentation
 

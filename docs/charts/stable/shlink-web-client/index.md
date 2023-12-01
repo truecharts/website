@@ -9,6 +9,7 @@ A ReactJS-based progressive web application for Shlink.
 - https://github.com/truecharts/charts/tree/master/charts/stable/shlink-web-client
 - https://github.com/shlinkio/shlink-web-client
 - https://hub.docker.com/r/shlinkio/shlink-web-client/charts/tree/master/charts/stable/shlink-web-client
+- https://hub.docker.com/r/shlinkio/shlink-web-client
 
 ## Available Documentation
 

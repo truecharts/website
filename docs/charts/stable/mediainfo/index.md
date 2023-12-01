@@ -6,9 +6,10 @@ MediaInfo is a convenient unified display of the most relevant technical and tag
 
 ## Chart Sources
 
-- https://hub.docker.com/r/jlesage/mediainfo/charts/tree/master/charts/stable/mediainfo
 - https://github.com/truecharts/charts/tree/master/charts/stable/mediainfo
 - https://github.com/jlesage/docker-mediainfo
+- https://hub.docker.com/r/jlesage/mediainfo
+- https://hub.docker.com/r/jlesage/mediainfo/charts/tree/master/charts/stable/mediainfo
 
 ## Available Documentation
 

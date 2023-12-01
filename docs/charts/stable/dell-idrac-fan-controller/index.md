@@ -6,9 +6,10 @@ Control your Dell PowerEdge fans via IPMI
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/dell-idrac-fan-controller
 - https://github.com/tigerblue77/Dell_iDRAC_fan_controller_Docker
 - https://ghcr.io/tigerblue77/dell_idrac_fan_controller/charts/tree/master/charts/stable/dell-idrac-fan-controller
+- https://ghcr.io/tigerblue77/dell_idrac_fan_controller
+- https://github.com/truecharts/charts/tree/master/charts/stable/dell-idrac-fan-controller
 
 ## Available Documentation
 

@@ -6,9 +6,10 @@ Enjoy Cura directly in your browser with this easy to use Chart
 
 ## Chart Sources
 
-- https://hub.docker.com/r/mikeah/cura-novnc/charts/tree/master/charts/stable/cura-novnc
 - https://github.com/truecharts/charts/tree/master/charts/stable/cura-novnc
 - https://ultimaker.com/software/ultimaker-cura
+- https://hub.docker.com/r/mikeah/cura-novnc
+- https://hub.docker.com/r/mikeah/cura-novnc/charts/tree/master/charts/stable/cura-novnc
 
 ## Available Documentation
 

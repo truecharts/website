@@ -9,6 +9,7 @@ Monitoring your WIFI/LAN network and alerting of new (intruder or hacker) device
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pialert
 - https://github.com/jokob-sk/Pi.Alert
 - https://github.com/truecharts/containers/tree/master/mirrorpialert/charts/tree/master/charts/incubator/pialert
+- https://github.com/truecharts/containers/tree/master/mirrorpialert
 
 ## Available Documentation
 

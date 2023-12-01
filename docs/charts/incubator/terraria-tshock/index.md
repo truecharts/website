@@ -6,6 +6,7 @@ SteamCMD Terraria and the TShock MOD.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorterraria-tshock
 - https://github.com/truecharts/charts/tree/master/charts/incubator/terraria-tshock
 - https://tshock.co/
 - https://github.com/truecharts/containers/tree/master/mirrorterraria-tshock/charts/tree/master/charts/incubator/terraria-tshock

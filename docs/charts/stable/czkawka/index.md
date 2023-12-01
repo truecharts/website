@@ -10,6 +10,7 @@ Czkawka is a simple, fast and free app to remove unnecessary files from your com
 - https://github.com/jlesage/docker-czkawka
 - https://github.com/qarmin/czkawka
 - https://hub.docker.com/r/jlesage/czkawka/charts/tree/master/charts/stable/czkawka
+- https://hub.docker.com/r/jlesage/czkawka
 
 ## Available Documentation
 

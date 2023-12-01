@@ -6,6 +6,7 @@ An open source time-tracker with an interactive user experience and powerful rep
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrortimetagger
 - https://github.com/almarklein/timetagger
 - https://github.com/truecharts/containers/tree/master/mirrortimetagger/charts/tree/master/charts/incubator/timetagger
 - https://github.com/truecharts/charts/tree/master/charts/incubator/timetagger

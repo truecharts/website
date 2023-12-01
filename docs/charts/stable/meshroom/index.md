@@ -9,6 +9,7 @@ Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVis
 - https://github.com/truecharts/charts/tree/master/charts/stable/meshroom
 - https://github.com/alicevision/meshroom
 - https://hub.docker.com/r/alicevision/meshroom/charts/tree/master/charts/stable/meshroom
+- https://hub.docker.com/r/alicevision/meshroom
 
 ## Available Documentation
 

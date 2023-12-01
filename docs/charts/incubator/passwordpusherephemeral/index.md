@@ -9,6 +9,7 @@ Ephemeral version requires no other database Chart! PasswordPusher or PWPush is 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/passwordpusherephemeral
 - https://github.com/pglombardo/PasswordPusher
 - https://github.com/truecharts/containers/tree/master/mirrorpasswordpusherephemeral/charts/tree/master/charts/incubator/passwordpusherephemeral
+- https://github.com/truecharts/containers/tree/master/mirrorpasswordpusherephemeral
 
 ## Available Documentation
 

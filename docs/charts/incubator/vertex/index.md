@@ -9,6 +9,7 @@ Vertex
 - https://github.com/truecharts/charts/tree/master/charts/incubator/vertex
 - https://gitlab.lswl.in/lswl/vertex
 - https://github.com/truecharts/containers/tree/master/mirrorvertex/charts/tree/master/charts/incubator/vertex
+- https://github.com/truecharts/containers/tree/master/mirrorvertex
 
 ## Available Documentation
 

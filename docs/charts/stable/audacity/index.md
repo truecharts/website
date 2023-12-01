@@ -10,6 +10,7 @@ An easy-to-use, multi-track audio editor and recorder
 - https://github.com/linuxserver/docker-audacity
 - https://www.audacityteam.org/
 - https://ghcr.io/linuxserver/audacity/charts/tree/master/charts/stable/audacity
+- https://ghcr.io/linuxserver/audacity
 
 ## Available Documentation
 

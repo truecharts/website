@@ -9,6 +9,7 @@ This Chart will download and install SteamCMD. It will also install AssettoCorsa
 - https://github.com/truecharts/charts/tree/master/charts/incubator/assettocorsa
 - https://www.assettocorsa.net/
 - https://github.com/truecharts/containers/tree/master/mirrorassettocorsa/charts/tree/master/charts/incubator/assettocorsa
+- https://github.com/truecharts/containers/tree/master/mirrorassettocorsa
 
 ## Available Documentation
 

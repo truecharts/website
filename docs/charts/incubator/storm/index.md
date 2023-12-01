@@ -6,6 +6,7 @@ Introducing Storm
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorstorm
 - https://github.com/relvacode/storm
 - https://github.com/relvacode/storm/pkgs/container/storm
 - https://github.com/truecharts/containers/tree/master/mirrorstorm/charts/tree/master/charts/incubator/storm

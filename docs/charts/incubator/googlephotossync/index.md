@@ -8,6 +8,7 @@ Google Photos Sync downloads your Google Photos to the local file system. It wil
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/googlephotossync
 - https://github.com/truecharts/containers/tree/master/mirrorgooglephotossync/charts/tree/master/charts/incubator/googlephotossync
+- https://github.com/truecharts/containers/tree/master/mirrorgooglephotossync
 
 ## Available Documentation
 

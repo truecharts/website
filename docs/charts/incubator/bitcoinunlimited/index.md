@@ -8,6 +8,7 @@ The Bitcoin Unlimited project seeks to provide a voice to all stakeholders in th
 
 - https://github.com/truecharts/containers/tree/master/mirrorbitcoinunlimited/charts/tree/master/charts/incubator/bitcoinunlimited
 - https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoinunlimited
+- https://github.com/truecharts/containers/tree/master/mirrorbitcoinunlimited
 
 ## Available Documentation
 

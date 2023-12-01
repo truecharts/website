@@ -7,10 +7,11 @@ Docker Registry is used to store and distribute Docker images using HTTP API. Th
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrordockerregistry/charts/tree/master/charts/incubator/dockerregistry
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dockerregistry
 - https://github.com/distribution/distribution
 - https://registry.hub.docker.com/_/registry/
+- https://github.com/truecharts/containers/tree/master/mirrordockerregistry
+- https://github.com/truecharts/containers/tree/master/mirrordockerregistry/charts/tree/master/charts/incubator/dockerregistry
 
 ## Available Documentation
 

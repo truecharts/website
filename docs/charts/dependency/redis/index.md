@@ -10,6 +10,7 @@ Open source, advanced key-value store.
 - https://github.com/bitnami/bitnami-docker-redis
 - http://redis.io/
 - https://hub.docker.com/r/bitnami/redis/charts/tree/master/charts/dependency/redis
+- https://hub.docker.com/r/bitnami/redis
 
 ## Available Documentation
 
