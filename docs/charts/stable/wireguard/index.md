@@ -1,6 +1,6 @@
 # wireguard
 
-![Version: 5.0.9](https://img.shields.io/badge/Version-5.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.0.202109"](https://img.shields.io/badge/AppVersion-"1.0.202109"-informational?style=flat-square)
+![Version: 5.0.9](https://img.shields.io/badge/Version-5.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.20210914](https://img.shields.io/badge/AppVersion-1.0.20210914-informational?style=flat-square)
 
 WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
 
@@ -8,6 +8,7 @@ WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-o
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/wireguard
 - https://github.com/k8s-at-home/container-images/tree/main/apps/wireguard
+- https://ghcr.io/k8s-at-home/wireguard/charts/tree/master/charts/stable/wireguard
 
 ## Available Documentation
 

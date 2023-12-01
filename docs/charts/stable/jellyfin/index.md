@@ -6,6 +6,7 @@ Jellyfin is a Free Software Media System
 
 ## Chart Sources
 
+- https://hub.docker.com/r/jellyfin/jellyfin/charts/tree/master/charts/stable/jellyfin
 - https://github.com/truecharts/charts/tree/master/charts/stable/jellyfin
 - https://github.com/jellyfin/jellyfin
 

@@ -1,6 +1,6 @@
 # headphones
 
-![Version: 8.0.9](https://img.shields.io/badge/Version-8.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "58edc604"](https://img.shields.io/badge/AppVersion-"58edc604"-informational?style=flat-square)
+![Version: 8.0.9](https://img.shields.io/badge/Version-8.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: a78f38c1](https://img.shields.io/badge/AppVersion-a78f38c1-informational?style=flat-square)
 
 An automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent and Blackhole.
 
@@ -9,6 +9,7 @@ An automated music downloader for NZB and Torrent, written in Python. It support
 - https://github.com/truecharts/charts/tree/master/charts/stable/headphones
 - https://github.com/linuxserver/docker-headphones
 - https://github.com/rembo10/headphones
+- https://ghcr.io/linuxserver/headphones/charts/tree/master/charts/stable/headphones
 
 ## Available Documentation
 

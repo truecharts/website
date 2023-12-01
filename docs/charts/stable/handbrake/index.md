@@ -9,6 +9,7 @@ HandBrake is a tool for converting video from nearly any format to a selection o
 - https://github.com/truecharts/charts/tree/master/charts/stable/handbrake
 - https://github.com/jlesage/docker-handbrake
 - https://handbrake.fr/
+- https://hub.docker.com/r/jlesage/handbrake/charts/tree/master/charts/stable/handbrake
 
 ## Available Documentation
 

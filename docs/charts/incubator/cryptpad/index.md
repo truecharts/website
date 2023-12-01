@@ -1,6 +1,6 @@
 # cryptpad
 
-![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.5.0](https://img.shields.io/badge/AppVersion-5.5.0-informational?style=flat-square)
 
 CryptPad is the Zero Knowledge realtime collaborative editor.
 
@@ -8,6 +8,7 @@ CryptPad is the Zero Knowledge realtime collaborative editor.
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/cryptpad
 - https://cryptpad.fr/
+- https://hub.docker.com/r/cryptpad/cryptpad/charts/tree/master/charts/incubator/cryptpad
 
 ## Available Documentation
 

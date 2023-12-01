@@ -1,6 +1,6 @@
 # putty
 
-![Version: 5.0.12](https://img.shields.io/badge/Version-5.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.11.2](https://img.shields.io/badge/AppVersion-3.11.2-informational?style=flat-square)
+![Version: 5.0.12](https://img.shields.io/badge/Version-5.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2](https://img.shields.io/badge/AppVersion-23.11.2-informational?style=flat-square)
 
 PuTTY is a free and open-source terminal emulator, serial console and network file transfer application.
 
@@ -8,6 +8,7 @@ PuTTY is a free and open-source terminal emulator, serial console and network fi
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/putty
 - https://github.com/jlesage/docker-putty
+- https://hub.docker.com/r/jlesage/putty/charts/tree/master/charts/stable/putty
 
 ## Available Documentation
 

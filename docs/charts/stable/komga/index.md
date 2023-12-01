@@ -9,6 +9,7 @@ A comics/mangas server to serve/stream pages via API
 - https://github.com/truecharts/charts/tree/master/charts/stable/komga
 - https://komga.org/
 - https://github.com/gotson/komga
+- https://hub.docker.com/r/gotson/komga/charts/tree/master/charts/stable/komga
 
 ## Available Documentation
 

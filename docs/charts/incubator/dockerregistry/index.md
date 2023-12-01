@@ -5,6 +5,13 @@
 Docker Registry is used to store and distribute Docker images using HTTP API. This allows you host your own private Registry and store your images. Uses official Chart Registry image @ https://hub.Chart.com/_/registry/
 
 
+## Chart Sources
+
+- https://github.com/truecharts/containers/tree/master/mirrordockerregistry/charts/tree/master/charts/incubator/dockerregistry
+- https://github.com/truecharts/charts/tree/master/charts/incubator/dockerregistry
+- https://github.com/distribution/distribution
+- https://registry.hub.docker.com/_/registry/
+
 ## Available Documentation
 
 - [**Changelog**](CHANGELOG)

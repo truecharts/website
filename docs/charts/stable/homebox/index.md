@@ -1,6 +1,6 @@
 # homebox
 
-![Version: 3.0.12](https://img.shields.io/badge/Version-3.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.10.2"](https://img.shields.io/badge/AppVersion-"0.10.2"-informational?style=flat-square)
+![Version: 3.0.12](https://img.shields.io/badge/Version-3.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.10.2](https://img.shields.io/badge/AppVersion-0.10.2-informational?style=flat-square)
 
 Inventory and organization system built for the Home User.
 
@@ -8,6 +8,7 @@ Inventory and organization system built for the Home User.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/homebox
 - https://github.com/hay-kot/homebox
+- https://ghcr.io/hay-kot/homebox/charts/tree/master/charts/stable/homebox
 
 ## Available Documentation
 

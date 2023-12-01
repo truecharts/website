@@ -8,6 +8,7 @@ KitchenOwl is a smart self-hosted grocery list and recipe manager.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/kitchenowl
 - https://tombursch.github.io/kitchenowl
+- https://hub.docker.com/r/tombursch/kitchenowl-web/charts/tree/master/charts/stable/kitchenowl
 
 ## Available Documentation
 

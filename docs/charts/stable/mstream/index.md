@@ -9,6 +9,7 @@ A personal music streaming server
 - https://github.com/truecharts/charts/tree/master/charts/stable/mstream
 - https://github.com/linuxserver/docker-mstream
 - https://mstream.io/
+- https://ghcr.io/linuxserver/mstream/charts/tree/master/charts/stable/mstream
 
 ## Available Documentation
 

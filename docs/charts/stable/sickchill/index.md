@@ -9,6 +9,7 @@ An Automatic Video Library Manager for TV Shows
 - https://github.com/truecharts/charts/tree/master/charts/stable/sickchill
 - https://github.com/linuxserver/docker-sickchill
 - https://github.com/SickChill/SickChill
+- https://ghcr.io/linuxserver/sickchill/charts/tree/master/charts/stable/sickchill
 
 ## Available Documentation
 

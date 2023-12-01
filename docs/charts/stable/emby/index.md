@@ -1,6 +1,6 @@
 # emby
 
-![Version: 15.0.15](https://img.shields.io/badge/Version-15.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "4.7.14.0"](https://img.shields.io/badge/AppVersion-"4.7.14.0"-informational?style=flat-square)
+![Version: 15.0.15](https://img.shields.io/badge/Version-15.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.7.14.0](https://img.shields.io/badge/AppVersion-4.7.14.0-informational?style=flat-square)
 
 Emby Server is a home media server
 
@@ -8,6 +8,7 @@ Emby Server is a home media server
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/emby
 - https://github.com/linuxserver/docker-emby.git
+- https://ghcr.io/onedr0p/emby/charts/tree/master/charts/stable/emby
 
 ## Available Documentation
 

@@ -1,6 +1,6 @@
 # aria2
 
-![Version: 9.0.9](https://img.shields.io/badge/Version-9.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 9.0.9](https://img.shields.io/badge/Version-9.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 aria server for downloading web content
 
@@ -8,6 +8,7 @@ aria server for downloading web content
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/aria2
 - https://github.com/P3TERX/Aria2-Pro-Docker
+- https://hub.docker.com/r/p3terx/aria2-pro/charts/tree/master/charts/stable/aria2
 
 ## Available Documentation
 

@@ -1,6 +1,6 @@
 # youtransfer
 
-![Version: 4.0.9](https://img.shields.io/badge/Version-4.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 4.0.9](https://img.shields.io/badge/Version-4.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 YouTransfer is a simple but elegant self-hosted file transfer sharing solution.
 
@@ -8,6 +8,7 @@ YouTransfer is a simple but elegant self-hosted file transfer sharing solution.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/youtransfer
 - https://github.com/YouTransfer/YouTransfer
+- https://hub.docker.com/r/remie/youtransfer/charts/tree/master/charts/stable/youtransfer
 
 ## Available Documentation
 

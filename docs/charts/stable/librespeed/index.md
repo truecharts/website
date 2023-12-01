@@ -8,6 +8,7 @@ Librespeed is a HTML5 webpage to test upload and download speeds
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/librespeed
 - https://github.com/librespeed/speedtest
+- https://ghcr.io/linuxserver/librespeed/charts/tree/master/charts/stable/librespeed
 
 ## Available Documentation
 

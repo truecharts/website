@@ -1,13 +1,14 @@
 # mkvcleaver
 
-![Version: 5.0.12](https://img.shields.io/badge/Version-5.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.11.2](https://img.shields.io/badge/AppVersion-3.11.2-informational?style=flat-square)
+![Version: 5.0.12](https://img.shields.io/badge/Version-5.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2](https://img.shields.io/badge/AppVersion-23.11.2-informational?style=flat-square)
 
 MKVCleaver is a tool for batch extraction of data from MKV files
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/mkvcleaver
 - https://github.com/jlesage/docker-mkvcleaver
+- https://hub.docker.com/r/jlesage/mkvcleaver/charts/tree/master/charts/stable/mkvcleaver
+- https://github.com/truecharts/charts/tree/master/charts/stable/mkvcleaver
 
 ## Available Documentation
 

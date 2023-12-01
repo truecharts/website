@@ -8,6 +8,7 @@ An alternative private front-end to Reddit
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/libreddit
 - https://github.com/spikecodes/libreddit
+- https://hub.docker.com/r/libreddit/libreddit/charts/tree/master/charts/stable/libreddit
 
 ## Available Documentation
 

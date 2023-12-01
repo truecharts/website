@@ -1,6 +1,6 @@
 # tagspaces
 
-![Version: 0.0.12](https://img.shields.io/badge/Version-0.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.5.2"](https://img.shields.io/badge/AppVersion-"5.5.2"-informational?style=flat-square)
+![Version: 0.0.12](https://img.shields.io/badge/Version-0.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.5.2](https://img.shields.io/badge/AppVersion-5.5.2-informational?style=flat-square)
 
 TagSpaces is an offline, open source, document manager with tagging support.
 
@@ -8,6 +8,7 @@ TagSpaces is an offline, open source, document manager with tagging support.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/tagspaces
 - https://github.com/tagspaces/tagspaces
+- https://hub.docker.com/r/tagspaces/tagspaces-lite-web/charts/tree/master/charts/stable/tagspaces
 
 ## Available Documentation
 

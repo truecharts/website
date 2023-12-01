@@ -1,6 +1,6 @@
 # valheim
 
-![Version: 7.0.10](https://img.shields.io/badge/Version-7.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 7.0.10](https://img.shields.io/badge/Version-7.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Valheim dedicated gameserver with automatic update and world backup support
 
@@ -8,6 +8,7 @@ Valheim dedicated gameserver with automatic update and world backup support
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/valheim
 - https://github.com/lloesche/valheim-server-docker
+- https://ghcr.io/lloesche/valheim-server/charts/tree/master/charts/stable/valheim
 
 ## Available Documentation
 

@@ -6,8 +6,9 @@ HTPC/Homelab Services Organizer
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/organizr
 - https://github.com/causefx/Organizr
+- https://hub.docker.com/r/organizr/organizr/charts/tree/master/charts/stable/organizr
+- https://github.com/truecharts/charts/tree/master/charts/stable/organizr
 
 ## Available Documentation
 

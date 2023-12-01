@@ -1,6 +1,6 @@
 # pyload
 
-![Version: 10.0.9](https://img.shields.io/badge/Version-10.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5de90278"](https://img.shields.io/badge/AppVersion-"5de90278"-informational?style=flat-square)
+![Version: 10.0.9](https://img.shields.io/badge/Version-10.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 360b2295](https://img.shields.io/badge/AppVersion-360b2295-informational?style=flat-square)
 
 pyLoad is a Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
 
@@ -8,6 +8,7 @@ pyLoad is a Free and Open Source download manager written in Python and designed
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/pyload
 - https://github.com/pyload/pyload
+- https://ghcr.io/linuxserver/pyload/charts/tree/master/charts/stable/pyload
 
 ## Available Documentation
 

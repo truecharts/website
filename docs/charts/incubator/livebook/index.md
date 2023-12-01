@@ -1,8 +1,14 @@
 # livebook
 
-![Version: 2.0.11](https://img.shields.io/badge/Version-2.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 2.0.11](https://img.shields.io/badge/Version-2.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Livebook is a web application for writing interactive and collaborative code notebooks for Elixir
+
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/incubator/livebook
+- https://livebook.dev/
+- https://github.com/truecharts/containers/tree/master/mirrorlivebook/charts/tree/master/charts/incubator/livebook
 
 ## Available Documentation
 

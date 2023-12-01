@@ -9,6 +9,7 @@ Easy platform to combine all your social links
 - https://github.com/truecharts/charts/tree/master/charts/stable/littlelink
 - https://github.com/techno-tim/littlelink-server
 - https://github.com/sethcottle/littlelink
+- https://ghcr.io/techno-tim/littlelink-server/charts/tree/master/charts/stable/littlelink
 
 ## Available Documentation
 

@@ -1,6 +1,6 @@
 # solr
 
-![Version: 7.0.0](https://img.shields.io/badge/Version-7.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "9.4.0"](https://img.shields.io/badge/AppVersion-"9.4.0"-informational?style=flat-square)
+![Version: 7.0.0](https://img.shields.io/badge/Version-7.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.4.0](https://img.shields.io/badge/AppVersion-9.4.0-informational?style=flat-square)
 
 Apache Solr
 
@@ -8,6 +8,7 @@ Apache Solr
 
 - https://github.com/truecharts/charts/tree/master/charts/dependency/solr
 - https://github.com/apache/solr
+- https://hub.docker.com/r/bitnami/solr/charts/tree/master/charts/dependency/solr
 
 ## Available Documentation
 

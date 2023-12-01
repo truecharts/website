@@ -6,8 +6,9 @@ A discord bot that monitors your game server and tracks the live data of your ga
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/discordgsm
 - https://github.com/DiscordGSM/GameServerMonitor
+- https://hub.docker.com/r/discordgsm/discord-game-server-monitor/charts/tree/master/charts/stable/discordgsm
+- https://github.com/truecharts/charts/tree/master/charts/stable/discordgsm
 
 ## Available Documentation
 

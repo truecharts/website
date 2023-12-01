@@ -4,6 +4,13 @@
 
 SheetAble is an easy to use music sheet organiser for all the music enthusiasts out there.
 
+## Chart Sources
+
+- https://github.com/truecharts/charts/tree/master/charts/incubator/sheetable
+- https://sheetable.net/docs
+- https://github.com/SheetAble
+- https://github.com/truecharts/containers/tree/master/mirrorsheetable/charts/tree/master/charts/incubator/sheetable
+
 ## Available Documentation
 
 - [**Changelog**](CHANGELOG)

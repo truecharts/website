@@ -1,11 +1,12 @@
 # openhab
 
-![Version: 6.0.14](https://img.shields.io/badge/Version-6.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "4.0.4"](https://img.shields.io/badge/AppVersion-"4.0.4"-informational?style=flat-square)
+![Version: 6.0.14](https://img.shields.io/badge/Version-6.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.4](https://img.shields.io/badge/AppVersion-4.0.4-informational?style=flat-square)
 
 OpenHab is a home-automation application
 
 ## Chart Sources
 
+- https://hub.docker.com/r/openhab/openhab/charts/tree/master/charts/stable/openhab
 - https://github.com/truecharts/charts/tree/master/charts/stable/openhab
 
 ## Available Documentation

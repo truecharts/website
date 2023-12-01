@@ -9,6 +9,7 @@ Mylar is a automated Comic Book downloader
 - https://github.com/truecharts/charts/tree/master/charts/stable/mylar
 - https://github.com/mylar3/mylar3
 - https://github.com/linuxserver/docker-mylar3
+- https://hub.docker.com/r/linuxserver/mylar3/charts/tree/master/charts/stable/mylar
 
 ## Available Documentation
 

@@ -9,6 +9,7 @@ Mattermost is an open source platform for secure collaboration across the entire
 - https://github.com/truecharts/charts/tree/master/charts/stable/mattermost
 - https://github.com/mattermost/mattermost-server
 - https://github.com/mattermost/docker
+- https://hub.docker.com/r/mattermost/mattermost-enterprise-edition/charts/tree/master/charts/stable/mattermost
 
 ## Available Documentation
 

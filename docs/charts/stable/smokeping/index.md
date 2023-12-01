@@ -8,6 +8,7 @@ Keep track of your network latency.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/smokeping
 - https://oss.oetiker.ch/smokeping/
+- https://ghcr.io/linuxserver/smokeping/charts/tree/master/charts/stable/smokeping
 
 ## Available Documentation
 

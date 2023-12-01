@@ -8,6 +8,7 @@ Linkding is a simple bookmark service that you can host yourself. It's designed 
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/linkding
 - https://github.com/sissbruecker/linkding
+- https://hub.docker.com/r/sissbruecker/linkding/charts/tree/master/charts/stable/linkding
 
 ## Available Documentation
 

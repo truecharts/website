@@ -8,6 +8,7 @@ A PHP-based self-hosted URL shortener that can be used to serve shortened URLs u
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/shlink
 - https://github.com/shlinkio/shlink
+- https://hub.docker.com/r/shlinkio/shlink/charts/tree/master/charts/stable/shlink
 
 ## Available Documentation
 

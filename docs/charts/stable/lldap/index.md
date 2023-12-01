@@ -1,6 +1,6 @@
 # lldap
 
-![Version: 2.0.11](https://img.shields.io/badge/Version-2.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.5.0"](https://img.shields.io/badge/AppVersion-"0.5.0"-informational?style=flat-square)
+![Version: 2.0.11](https://img.shields.io/badge/Version-2.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0](https://img.shields.io/badge/AppVersion-0.5.0-informational?style=flat-square)
 
 Lightweight ldap server for authentication and user management
 
@@ -8,6 +8,7 @@ Lightweight ldap server for authentication and user management
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/lldap
 - https://github.com/nitnelave/lldap
+- https://hub.docker.com/r/nitnelave/lldap/charts/tree/master/charts/stable/lldap
 
 ## Available Documentation
 

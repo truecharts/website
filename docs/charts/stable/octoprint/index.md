@@ -1,6 +1,6 @@
 # octoprint
 
-![Version: 10.0.12](https://img.shields.io/badge/Version-10.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.9.3"](https://img.shields.io/badge/AppVersion-"1.9.3"-informational?style=flat-square)
+![Version: 10.0.12](https://img.shields.io/badge/Version-10.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.3](https://img.shields.io/badge/AppVersion-1.9.3-informational?style=flat-square)
 
 OctoPrint is the snappy web interface for your 3D printer
 
@@ -8,6 +8,7 @@ OctoPrint is the snappy web interface for your 3D printer
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/octoprint
 - https://github.com/OctoPrint/OctoPrint
+- https://hub.docker.com/r/octoprint/octoprint/charts/tree/master/charts/stable/octoprint
 
 ## Available Documentation
 

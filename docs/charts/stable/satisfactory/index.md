@@ -1,6 +1,6 @@
 # satisfactory
 
-![Version: 6.0.14](https://img.shields.io/badge/Version-6.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: v1.5.6](https://img.shields.io/badge/AppVersion-v1.5.6-informational?style=flat-square)
+![Version: 6.0.14](https://img.shields.io/badge/Version-6.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.6](https://img.shields.io/badge/AppVersion-1.5.6-informational?style=flat-square)
 
 Satisfactory Dedicated Server
 
@@ -8,6 +8,7 @@ Satisfactory Dedicated Server
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/satisfactory
 - https://github.com/wolveix/satisfactory-server
+- https://hub.docker.com/r/wolveix/satisfactory-server/charts/tree/master/charts/stable/satisfactory
 
 ## Available Documentation
 

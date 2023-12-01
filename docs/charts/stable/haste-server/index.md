@@ -1,6 +1,6 @@
 # haste-server
 
-![Version: 10.0.9](https://img.shields.io/badge/Version-10.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 10.0.9](https://img.shields.io/badge/Version-10.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Simple text sharing
 
@@ -9,6 +9,7 @@ Simple text sharing
 - https://github.com/truecharts/charts/tree/master/charts/stable/haste-server
 - https://github.com/seejohnrun/haste-server
 - https://github.com/k8s-at-home/container-images
+- https://ghcr.io/k8s-at-home/haste-server/charts/tree/master/charts/stable/haste-server
 
 ## Available Documentation
 

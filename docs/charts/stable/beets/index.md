@@ -6,6 +6,7 @@ A music library manager and not, for the most part, a music player.
 
 ## Chart Sources
 
+- https://ghcr.io/linuxserver/beets/charts/tree/master/charts/stable/beets
 - https://github.com/truecharts/charts/tree/master/charts/stable/beets
 - https://github.com/linuxserver/docker-beets
 - https://beets.io/

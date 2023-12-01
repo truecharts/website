@@ -9,6 +9,7 @@ Container management made easy
 - https://github.com/truecharts/charts/tree/master/charts/stable/portainer
 - https://docs.portainer.io/start/install-ce/server
 - https://docs.portainer.io/start/install/server
+- https://hub.docker.com/r/portainer/portainer-ce/charts/tree/master/charts/stable/portainer
 
 ## Available Documentation
 

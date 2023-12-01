@@ -1,11 +1,12 @@
 # cloudnative-pg
 
-![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.21.1"](https://img.shields.io/badge/AppVersion-"1.21.1"-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 CloudNativePG is a clustered postgresql database operator
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirroralpine/charts/tree/master/charts/operators/cloudnative-pg
 - https://github.com/truecharts/charts/tree/master/charts/operators/cloudnative-pg
 - https://github.com/cloudnative-pg
 - https://cloudnative-pg.io/

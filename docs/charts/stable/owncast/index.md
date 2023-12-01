@@ -6,9 +6,10 @@ Take control over your live stream video by running it yourself. Streaming + cha
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/owncast
 - https://owncast.online/
 - https://github.com/owncast/owncast
+- https://hub.docker.com/r/gabekangas/owncast/charts/tree/master/charts/stable/owncast
+- https://github.com/truecharts/charts/tree/master/charts/stable/owncast
 
 ## Available Documentation
 

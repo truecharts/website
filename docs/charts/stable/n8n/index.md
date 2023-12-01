@@ -9,6 +9,7 @@ n8n is an extendable workflow automation tool.
 - https://github.com/truecharts/charts/tree/master/charts/stable/n8n
 - https://docs.n8n.io/
 - https://github.com/n8n-io/n8n
+- https://hub.docker.com/r/n8nio/n8n/charts/tree/master/charts/stable/n8n
 
 ## Available Documentation
 

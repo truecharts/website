@@ -1,6 +1,6 @@
 # ring-mqtt
 
-![Version: 5.1.13](https://img.shields.io/badge/Version-5.1.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.6.3"](https://img.shields.io/badge/AppVersion-"5.6.3"-informational?style=flat-square)
+![Version: 5.1.13](https://img.shields.io/badge/Version-5.1.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.6.3](https://img.shields.io/badge/AppVersion-5.6.3-informational?style=flat-square)
 
 Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.
 
@@ -8,6 +8,7 @@ Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/ring-mqtt
 - https://github.com/tsightler/ring-mqtt
+- https://hub.docker.com/r/tsightler/ring-mqtt/charts/tree/master/charts/stable/ring-mqtt
 
 ## Available Documentation
 

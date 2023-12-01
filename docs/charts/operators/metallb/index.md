@@ -1,6 +1,6 @@
 # metallb
 
-![Version: 11.0.0](https://img.shields.io/badge/Version-11.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.13.12"](https://img.shields.io/badge/AppVersion-"0.13.12"-informational?style=flat-square)
+![Version: 11.0.0](https://img.shields.io/badge/Version-11.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A network load-balancer implementation for Kubernetes using standard routing protocols
 
@@ -9,6 +9,7 @@ A network load-balancer implementation for Kubernetes using standard routing pro
 - https://github.com/truecharts/charts/tree/master/charts/operators/metallb
 - https://github.com/metallb/metallb
 - https://metallb.universe.tf
+- https://github.com/truecharts/containers/tree/master/mirroralpine/charts/tree/master/charts/operators/metallb
 
 ## Available Documentation
 

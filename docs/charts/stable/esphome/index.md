@@ -8,6 +8,7 @@ ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configu
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/esphome
 - https://github.com/esphome/esphome
+- https://hub.docker.com/r/esphome/esphome/charts/tree/master/charts/stable/esphome
 
 ## Available Documentation
 

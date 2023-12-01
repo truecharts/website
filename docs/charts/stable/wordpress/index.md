@@ -8,6 +8,7 @@ The WordPress rich content management system can utilize plugins, widgets, and t
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/wordpress
 - https://www.wordpress.org
+- https://hub.docker.com/r/bitnami/wordpress/charts/tree/master/charts/stable/wordpress
 
 ## Available Documentation
 

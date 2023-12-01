@@ -11,6 +11,7 @@ Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien Lucas, 
 - http://blog.slucas.fr/en/oss/calibre-opds-php-server
 - https://github.com/orgs/linuxserver/packages/container/package/cops
 - https://github.com/linuxserver/docker-cops#readme
+- https://fleet.linuxserver.io/image?name=linuxserver/cops/charts/tree/master/charts/stable/cops
 
 ## Available Documentation
 

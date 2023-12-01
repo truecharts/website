@@ -1,6 +1,6 @@
 # strapi
 
-![Version: 10.0.18](https://img.shields.io/badge/Version-10.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "4.14.5"](https://img.shields.io/badge/AppVersion-"4.14.5"-informational?style=flat-square)
+![Version: 10.0.18](https://img.shields.io/badge/Version-10.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.15.4](https://img.shields.io/badge/AppVersion-4.15.4-informational?style=flat-square)
 
 Open-source headless CMS. JavaScript, fully customizable and developer-first.
 
@@ -9,6 +9,7 @@ Open-source headless CMS. JavaScript, fully customizable and developer-first.
 - https://github.com/truecharts/charts/tree/master/charts/stable/strapi
 - https://truecharts.org/charts/stable/strapi
 - https://github.com/naskio/docker-strapi
+- https://hub.docker.com/r/naskio/strapi/charts/tree/master/charts/stable/strapi
 
 ## Available Documentation
 

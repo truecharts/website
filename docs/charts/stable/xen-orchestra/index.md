@@ -7,6 +7,7 @@ Xen-Orchestra is a Web-UI for managing your existing XenServer infrastructure.
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/xen-orchestra
+- https://hub.docker.com/r/ronivay/xen-orchestra/charts/tree/master/charts/stable/xen-orchestra
 
 ## Available Documentation
 

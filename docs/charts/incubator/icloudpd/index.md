@@ -1,6 +1,6 @@
 # icloudpd
 
-![Version: 3.0.6](https://img.shields.io/badge/Version-3.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "latest"](https://img.shields.io/badge/AppVersion-"latest"-informational?style=flat-square)
+![Version: 3.0.6](https://img.shields.io/badge/Version-3.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 iCloudPD, syncs photos from iDevices to a single directory on TrueNAS.
 
@@ -8,6 +8,7 @@ iCloudPD, syncs photos from iDevices to a single directory on TrueNAS.
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/icloudpd
 - https://github.com/Womabre/-TrueNAS-docker-templates
+- https://github.com/truecharts/containers/tree/master/mirroricloudpd/charts/tree/master/charts/incubator/icloudpd
 
 ## Available Documentation
 

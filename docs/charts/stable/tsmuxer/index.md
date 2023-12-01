@@ -1,6 +1,6 @@
 # tsmuxer
 
-![Version: 5.0.10](https://img.shields.io/badge/Version-5.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.11.2](https://img.shields.io/badge/AppVersion-3.11.2-informational?style=flat-square)
+![Version: 5.0.10](https://img.shields.io/badge/Version-5.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2](https://img.shields.io/badge/AppVersion-23.11.2-informational?style=flat-square)
 
 tsMuxer is a Transport Stream muxer.
 
@@ -8,6 +8,7 @@ tsMuxer is a Transport Stream muxer.
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/tsmuxer
 - https://github.com/jlesage/docker-tsmuxer
+- https://hub.docker.com/r/jlesage/tsmuxer/charts/tree/master/charts/stable/tsmuxer
 
 ## Available Documentation
 

@@ -2,6 +2,7 @@
 
 
 
+
 ## [littlelink-10.0.45](https://github.com/truecharts/charts/compare/littlelink-10.0.44...littlelink-10.0.45) (2023-12-01)
 
 ### Chore
