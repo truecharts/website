@@ -6,9 +6,9 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 
 ## Chart Sources
 
+- https://ghcr.io/zadam/trilium
 - https://github.com/zadam/trilium
 - https://github.com/truecharts/charts/tree/master/charts/stable/trilium-notes
-- https://ghcr.io/zadam/trilium
 
 ## Available Documentation
 

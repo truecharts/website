@@ -6,9 +6,9 @@ Chart to run a monero full network node
 
 ## Chart Sources
 
-- https://github.com/kannix/monero-full-node
 - https://github.com/truecharts/charts/tree/master/charts/incubator/monero-node
 - https://github.com/truecharts/containers/tree/master/mirrormonero-node
+- https://github.com/kannix/monero-full-node
 
 ## Available Documentation
 

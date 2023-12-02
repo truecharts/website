@@ -6,10 +6,10 @@ A Helm chart for Kubernetes
 
 ## Chart Sources
 
-- https://github.com/linuxserver/docker-filezilla
-- https://filezilla-project.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/filezilla
 - https://github.com/truecharts/containers/tree/master/mirrorfilezilla
+- https://github.com/linuxserver/docker-filezilla
+- https://filezilla-project.org/
 
 ## Available Documentation
 

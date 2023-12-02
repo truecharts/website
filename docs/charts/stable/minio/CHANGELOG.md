@@ -7,6 +7,7 @@
 
 
 
+
 ## [minio-7.0.34](https://github.com/truecharts/charts/compare/minio-7.0.33...minio-7.0.34) (2023-11-24)
 
 ### Chore

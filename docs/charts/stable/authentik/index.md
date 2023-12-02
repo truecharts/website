@@ -6,9 +6,10 @@ Authentik is an open-source Identity Provider focused on flexibility and versati
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/authentik
 - https://github.com/goauthentik/authentik
 - https://goauthentik.io/docs/
+- https://github.com/truecharts/charts/tree/master/charts/stable/authentik
+- https://ghcr.io/goauthentik/server
 
 ## Available Documentation
 

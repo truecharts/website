@@ -6,9 +6,9 @@ Out of the box, RCON Web Admin can check users for high ping, VAC status, or fil
 
 ## Chart Sources
 
+- https://github.com/rcon-web-admin/rcon-web-admin
 - https://github.com/truecharts/charts/tree/master/charts/stable/rcon-webadmin
 - https://hub.docker.com/r/itzg/rcon
-- https://github.com/rcon-web-admin/rcon-web-admin
 
 ## Available Documentation
 

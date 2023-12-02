@@ -6,10 +6,10 @@ An automated music downloader for NZB and Torrent, written in Python. It support
 
 ## Chart Sources
 
-- https://github.com/linuxserver/docker-headphones
 - https://github.com/rembo10/headphones
 - https://github.com/truecharts/charts/tree/master/charts/stable/headphones
 - https://ghcr.io/linuxserver/headphones
+- https://github.com/linuxserver/docker-headphones
 
 ## Available Documentation
 

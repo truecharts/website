@@ -6,8 +6,8 @@ Mudislanders Template for mounting OpenRA's dedicated server by rmoriz [br][br]
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/openra
 - https://github.com/truecharts/containers/tree/master/mirroropenra
+- https://github.com/truecharts/charts/tree/master/charts/incubator/openra
 
 ## Available Documentation
 

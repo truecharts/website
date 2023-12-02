@@ -6,11 +6,11 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 
 ## Chart Sources
 
+- https://github.com/0xERR0R/blocky
+- https://github.com/Mozart409/blocky-frontend
 - https://github.com/truecharts/charts/tree/master/charts/enterprise/blocky
 - https://hub.docker.com/r/spx01/blocky
 - https://0xerr0r.github.io/blocky/
-- https://github.com/0xERR0R/blocky
-- https://github.com/Mozart409/blocky-frontend
 
 ## Available Documentation
 

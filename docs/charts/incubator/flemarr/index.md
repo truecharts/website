@@ -6,9 +6,9 @@ Flemmarr is a simple Python script that parses a configuration written in YAML a
 
 ## Chart Sources
 
-- https://github.com/Flemmarr/Flemmarr
 - https://github.com/truecharts/charts/tree/master/charts/incubator/flemarr
 - https://github.com/truecharts/containers/tree/master/mirrorflemmarr
+- https://github.com/Flemmarr/Flemmarr
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ A superlight rust written social server.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorvocechat-server
 - https://github.com/Privoce/vocechat-server-rust
 - https://github.com/truecharts/charts/tree/master/charts/incubator/vocechat-server
-- https://github.com/truecharts/containers/tree/master/mirrorvocechat-server
 
 ## Available Documentation
 

@@ -6,8 +6,8 @@ OpenProject is a web-based project management system for location-independent te
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/openproject
 - https://github.com/truecharts/containers/tree/master/mirroropenproject
+- https://github.com/truecharts/charts/tree/master/charts/incubator/openproject
 
 ## Available Documentation
 

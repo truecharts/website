@@ -6,9 +6,9 @@ A self-hosted file sharing platform and an alternative for WeTransfer.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorpingvin-share
 - https://github.com/stonith404/pingvin-share
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pingvin-share
-- https://github.com/truecharts/containers/tree/master/mirrorpingvin-share
 
 ## Available Documentation
 

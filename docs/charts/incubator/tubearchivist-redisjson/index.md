@@ -6,9 +6,9 @@ This is a dependancy Chart for the application "TubeArchivist"
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrortubearchivist-redisjson
 - https://github.com/RedisJSON/RedisJSON
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tubearchivist-redisjson
-- https://github.com/truecharts/containers/tree/master/mirrortubearchivist-redisjson
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ ROOT is a framework for data processing, born at CERN, at the heart of the resea
 
 ## Chart Sources
 
-- https://root.cern/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/root
 - https://github.com/truecharts/containers/tree/master/mirrorroot
+- https://root.cern/
 
 ## Available Documentation
 

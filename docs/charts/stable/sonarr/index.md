@@ -6,9 +6,9 @@ Smart PVR for newsgroup and bittorrent users
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/sonarr
 - https://ghcr.io/onedr0p/sonarr
 - https://github.com/Sonarr/Sonarr
-- https://github.com/truecharts/charts/tree/master/charts/stable/sonarr
 
 ## Available Documentation
 

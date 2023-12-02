@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install Alien Swarm 
 
 ## Chart Sources
 
+- https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/alienswarm
 - https://github.com/truecharts/containers/tree/master/mirroralienswarm
-- https://www.steampowered.com/
 
 ## Available Documentation
 

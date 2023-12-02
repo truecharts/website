@@ -6,10 +6,10 @@ An easy-to-use, multi-track audio editor and recorder
 
 ## Chart Sources
 
-- https://www.audacityteam.org/
-- https://github.com/truecharts/charts/tree/master/charts/stable/audacity
 - https://ghcr.io/linuxserver/audacity
 - https://github.com/linuxserver/docker-audacity
+- https://www.audacityteam.org/
+- https://github.com/truecharts/charts/tree/master/charts/stable/audacity
 
 ## Available Documentation
 

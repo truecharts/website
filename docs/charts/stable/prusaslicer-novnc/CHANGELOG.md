@@ -7,6 +7,7 @@
 
 
 
+
 ## [prusaslicer-novnc-5.0.25](https://github.com/truecharts/charts/compare/prusaslicer-novnc-5.0.24...prusaslicer-novnc-5.0.25) (2023-12-01)
 
 ### Chore

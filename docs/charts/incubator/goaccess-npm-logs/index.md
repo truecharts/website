@@ -6,9 +6,9 @@ GoAccess for Nginx Proxy Manager Logs
 
 ## Chart Sources
 
+- https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
 - https://github.com/truecharts/charts/tree/master/charts/incubator/goaccess-npm-logs
 - https://github.com/truecharts/containers/tree/master/mirrorgoaccess-npm-logs
-- https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
 
 ## Available Documentation
 

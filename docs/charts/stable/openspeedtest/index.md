@@ -6,9 +6,9 @@ HTML5 Network Speed Test Server. You can test download & upload speed from any d
 
 ## Chart Sources
 
-- https://hub.docker.com/r/openspeedtest/latest
 - https://github.com/openspeedtest/Speed-Test
 - https://github.com/truecharts/charts/tree/master/charts/stable/openspeedtest
+- https://hub.docker.com/r/openspeedtest/latest
 
 ## Available Documentation
 

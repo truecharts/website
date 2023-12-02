@@ -6,10 +6,10 @@ Grist is a modern relational spreadsheet. It combine the flexibility of a spread
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorgrist
 - https://github.com/gristlabs/grist-core
 - https://support.getgrist.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/grist
-- https://github.com/truecharts/containers/tree/master/mirrorgrist
 
 ## Available Documentation
 

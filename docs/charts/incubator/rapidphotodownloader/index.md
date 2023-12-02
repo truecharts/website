@@ -6,9 +6,9 @@ This Chart will download and install Rapid Photo Downloader.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorrapidphotodownloader
 - https://www.damonlynch.net/rapid/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rapidphotodownloader
-- https://github.com/truecharts/containers/tree/master/mirrorrapidphotodownloader
 
 ## Available Documentation
 

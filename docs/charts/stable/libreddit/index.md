@@ -6,9 +6,9 @@ An alternative private front-end to Reddit
 
 ## Chart Sources
 
+- https://hub.docker.com/r/libreddit/libreddit
 - https://github.com/spikecodes/libreddit
 - https://github.com/truecharts/charts/tree/master/charts/stable/libreddit
-- https://hub.docker.com/r/libreddit/libreddit
 
 ## Available Documentation
 

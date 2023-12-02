@@ -6,9 +6,9 @@ Kutt is a modern URL shortener with support for custom domains. Shorten URLs, ma
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/incubator/kutt
 - https://github.com/truecharts/containers/tree/master/mirrorkutt
 - https://github.com/thedevs-network/kutt
-- https://github.com/truecharts/charts/tree/master/charts/incubator/kutt
 
 ## Available Documentation
 

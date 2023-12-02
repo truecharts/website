@@ -6,9 +6,9 @@ Plex Media Server
 
 ## Chart Sources
 
+- https://github.com/k8s-at-home/container-images/pkgs/container/plex
 - https://github.com/truecharts/charts/tree/master/charts/stable/plex
 - https://ghcr.io/onedr0p/plex
-- https://github.com/k8s-at-home/container-images/pkgs/container/plex
 
 ## Available Documentation
 

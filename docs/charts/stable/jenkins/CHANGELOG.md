@@ -7,6 +7,7 @@
 
 
 
+
 ## [jenkins-4.1.17](https://github.com/truecharts/charts/compare/jenkins-4.0.17...jenkins-4.1.17) (2023-11-24)
 
 ### Chore

@@ -6,9 +6,9 @@ Linkwarden is a self-hosted, open-source collaborative bookmark manager to colle
 
 ## Chart Sources
 
+- https://ghcr.io/linkwarden/linkwarden
 - https://github.com/linkwarden/linkwarden
 - https://github.com/truecharts/charts/tree/master/charts/stable/linkwarden
-- https://ghcr.io/linkwarden/linkwarden
 
 ## Available Documentation
 

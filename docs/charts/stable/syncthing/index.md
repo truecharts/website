@@ -6,10 +6,10 @@ P2P file synchronization application
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/syncthing
 - https://hub.docker.com/r/syncthing/syncthing
 - https://syncthing.net/
 - https://github.com/syncthing/syncthing
-- https://github.com/truecharts/charts/tree/master/charts/stable/syncthing
 
 ## Available Documentation
 

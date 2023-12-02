@@ -6,10 +6,10 @@ Open source alternative front-end to YouTube.
 
 ## Chart Sources
 
-- https://github.com/iv-org/invidious
 - https://docs.invidious.io/installation/#docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/invidious
 - https://quay.io/invidious/invidious
+- https://github.com/iv-org/invidious
 
 ## Available Documentation
 

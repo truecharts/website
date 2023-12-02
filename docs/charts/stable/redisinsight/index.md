@@ -6,10 +6,10 @@ GUI for Redis.
 
 ## Chart Sources
 
-- https://redis.com/redis-enterprise/redis-insight/
-- https://github.com/RedisInsight/RedisInsight
 - https://github.com/truecharts/charts/tree/master/charts/stable/redisinsight
 - https://hub.docker.com/r/redislabs/redisinsight
+- https://redis.com/redis-enterprise/redis-insight/
+- https://github.com/RedisInsight/RedisInsight
 
 ## Available Documentation
 

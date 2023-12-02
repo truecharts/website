@@ -6,9 +6,9 @@ This Chart will download and install Quake III Server (You have to copy your .pk
 
 ## Chart Sources
 
-- https://www.idsoftware.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/quake3
 - https://github.com/truecharts/containers/tree/master/mirrorquake3
+- https://www.idsoftware.com/
 
 ## Available Documentation
 

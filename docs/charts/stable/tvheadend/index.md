@@ -6,9 +6,9 @@ TVheadend - a TV streaming server and digital video recorder
 
 ## Chart Sources
 
+- https://github.com/tvheadend/tvheadend
 - https://github.com/truecharts/charts/tree/master/charts/stable/tvheadend
 - https://ghcr.io/linuxserver/tvheadend
-- https://github.com/tvheadend/tvheadend
 
 ## Available Documentation
 

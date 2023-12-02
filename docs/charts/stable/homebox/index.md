@@ -6,9 +6,9 @@ Inventory and organization system built for the Home User.
 
 ## Chart Sources
 
-- https://github.com/hay-kot/homebox
 - https://github.com/truecharts/charts/tree/master/charts/stable/homebox
 - https://ghcr.io/hay-kot/homebox
+- https://github.com/hay-kot/homebox
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ Kubernetes-Reflector is a Kubernetes addon designed to monitor and reflect chang
 
 ## Chart Sources
 
+- https://hub.docker.com/r/emberstack/kubernetes-reflector
 - https://github.com/emberstack/kubernetes-reflector
 - https://github.com/truecharts/charts/tree/master/charts/enterprise/kubernetes-reflector
-- https://hub.docker.com/r/emberstack/kubernetes-reflector
 
 ## Available Documentation
 

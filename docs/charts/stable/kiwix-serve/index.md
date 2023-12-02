@@ -6,10 +6,10 @@ Kiwix enables you to have the whole Wikipedia at hand wherever you go!
 
 ## Chart Sources
 
-- https://www.kiwix.org/
 - https://github.com/kiwix/kiwix-tools/blob/master/docker/server
 - https://github.com/truecharts/charts/tree/master/charts/stable/kiwix-serve
 - https://ghcr.io/kiwix/kiwix-serve
+- https://www.kiwix.org/
 
 ## Available Documentation
 

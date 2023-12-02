@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install Craftopia an
 
 ## Chart Sources
 
-- https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/craftopia
 - https://github.com/truecharts/containers/tree/master/mirrorcraftopia
+- https://www.steampowered.com/
 
 ## Available Documentation
 

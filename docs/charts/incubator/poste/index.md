@@ -6,9 +6,9 @@ FREE version of Poste.io, full mail server solution. POP3, SMTP, IMAP, Spamassas
 
 ## Chart Sources
 
+- https://poste.io/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/poste
 - https://github.com/truecharts/containers/tree/master/mirrorposte
-- https://poste.io/
 
 ## Available Documentation
 

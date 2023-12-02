@@ -6,9 +6,9 @@ rmlint finds space waste and other broken things on your filesystem and offers t
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/rmlint
 - https://github.com/truecharts/containers/tree/master/mirrorrmlint
 - https://github.com/sahib/rmlint
+- https://github.com/truecharts/charts/tree/master/charts/incubator/rmlint
 
 ## Available Documentation
 

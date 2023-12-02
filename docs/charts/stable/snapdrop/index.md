@@ -6,9 +6,9 @@ Snapdrop A local file sharing in your browser. Inspired by Apple's Airdrop.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/linuxserver/snapdrop
 - https://github.com/linuxserver/docker-snapdrop
 - https://github.com/truecharts/charts/tree/master/charts/stable/snapdrop
-- https://hub.docker.com/r/linuxserver/snapdrop
 
 ## Available Documentation
 

@@ -7,6 +7,7 @@
 
 
 
+
 ## [soft-serve-3.0.16](https://github.com/truecharts/charts/compare/soft-serve-3.0.15...soft-serve-3.0.16) (2023-11-30)
 
 ### Chore
