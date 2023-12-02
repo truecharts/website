@@ -1,6 +1,6 @@
 # omada-controller
 
-![Version: 10.0.34](https://img.shields.io/badge/Version-10.0.34-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.12"](https://img.shields.io/badge/AppVersion-"5.12"-informational?style=flat-square)
+![Version: 10.0.35](https://img.shields.io/badge/Version-10.0.35-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "5.12"](https://img.shields.io/badge/AppVersion-"5.12"-informational?style=flat-square)
 
 Omada is a SDN tool for TP-Link Omada hardware
 
