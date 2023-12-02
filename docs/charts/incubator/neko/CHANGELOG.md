@@ -2,6 +2,22 @@
 
 
 
+## [neko-2.0.28](https://github.com/truecharts/charts/compare/neko-3.0.0...neko-2.0.28) (2023-12-02)
+
+### Chore
+
+- fix annotations again
+  - update annotations
+  - cleanup chart.yaml and add min-max scale version
+  - Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
+  
+  ### Fix
+
+- ensure all questions.yaml can be rendered ([#15612](https://github.com/truecharts/charts/issues/15612))
+  
+  
+
+
 
 
 ## [neko-3.0.0](https://github.com/truecharts/charts/compare/neko-2.0.27...neko-3.0.0) (2023-07-31)
