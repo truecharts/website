@@ -9,6 +9,7 @@
 
 
 
+
 ## [sickchill-7.0.27](https://github.com/truecharts/charts/compare/sickchill-7.0.26...sickchill-7.0.27) (2023-11-30)
 
 ### Chore

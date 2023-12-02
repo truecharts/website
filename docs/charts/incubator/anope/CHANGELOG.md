@@ -9,6 +9,7 @@
 
 
 
+
 ## [anope-2.0.10](https://github.com/truecharts/charts/compare/anope-3.0.0...anope-2.0.10) (2023-11-18)
 
 ### Chore

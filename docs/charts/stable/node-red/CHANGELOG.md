@@ -9,6 +9,7 @@
 
 
 
+
 ## [node-red-15.0.10](https://github.com/truecharts/charts/compare/node-red-15.0.9...node-red-15.0.10) (2023-12-01)
 
 ### Chore

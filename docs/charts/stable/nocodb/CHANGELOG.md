@@ -9,6 +9,7 @@
 
 
 
+
 ## [nocodb-9.0.13](https://github.com/truecharts/charts/compare/nocodb-9.0.12...nocodb-9.0.13) (2023-11-30)
 
 ### Chore

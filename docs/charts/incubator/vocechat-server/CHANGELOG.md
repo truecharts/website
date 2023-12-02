@@ -9,6 +9,7 @@
 
 
 
+
 ## [vocechat-server-0.0.7](https://github.com/truecharts/charts/compare/vocechat-server-0.0.6...vocechat-server-0.0.7) (2023-11-08)
 
 ### Chore

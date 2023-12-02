@@ -9,6 +9,7 @@
 
 
 
+
 ## [wizarr-3.0.11](https://github.com/truecharts/charts/compare/wizarr-3.0.10...wizarr-3.0.11) (2023-11-17)
 
 ### Feat
