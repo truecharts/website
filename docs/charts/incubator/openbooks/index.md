@@ -6,9 +6,8 @@ IRC Highway eBook Downloads.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/openbooks
 - https://github.com/evan-buss/openbooks
-- https://github.com/truecharts/containers/tree/master/mirroropenbooks/charts/tree/master/charts/incubator/openbooks
+- https://github.com/truecharts/charts/tree/master/charts/incubator/openbooks
 - https://github.com/truecharts/containers/tree/master/mirroropenbooks
 
 ## Available Documentation

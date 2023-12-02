@@ -7,9 +7,8 @@ A simple way to backup important files to Amazon S3 and Glacier.
 ## Chart Sources
 
 - https://registry.hub.docker.com/r/joch/s3backup/
-- https://github.com/truecharts/containers/tree/master/mirrors3backup/charts/tree/master/charts/incubator/s3backup
-- https://github.com/truecharts/containers/tree/master/mirrors3backup
 - https://github.com/truecharts/charts/tree/master/charts/incubator/s3backup
+- https://github.com/truecharts/containers/tree/master/mirrors3backup
 
 ## Available Documentation
 

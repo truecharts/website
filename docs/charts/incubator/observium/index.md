@@ -7,9 +7,8 @@ Observium is an autodiscovering network monitoring platform supporting a wide ra
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/observium
-- https://www.observium.org/
-- https://github.com/truecharts/containers/tree/master/mirrorobservium/charts/tree/master/charts/incubator/observium
 - https://github.com/truecharts/containers/tree/master/mirrorobservium
+- https://www.observium.org/
 
 ## Available Documentation
 

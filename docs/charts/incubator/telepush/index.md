@@ -6,10 +6,9 @@ A simple bot to translate JSON HTTP requests into Telegram push messages.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrortelepush
-- https://github.com/truecharts/containers/tree/master/mirrortelepush/charts/tree/master/charts/incubator/telepush
-- https://github.com/truecharts/charts/tree/master/charts/incubator/telepush
 - https://github.com/muety/telepush
+- https://github.com/truecharts/charts/tree/master/charts/incubator/telepush
+- https://github.com/truecharts/containers/tree/master/mirrortelepush
 
 ## Available Documentation
 

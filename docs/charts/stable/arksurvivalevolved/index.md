@@ -7,9 +7,8 @@ A custom SteamCMD chart that runs ArkSE.
 ## Chart Sources
 
 - https://github.com/ich777/docker-steamcmd-server/tree/arkse
-- https://hub.docker.com/r/ich777/steamcmd/charts/tree/master/charts/stable/arksurvivalevolved
-- https://hub.docker.com/r/ich777/steamcmd
 - https://github.com/truecharts/charts/tree/master/charts/stable/arksurvivalevolved
+- https://hub.docker.com/r/ich777/steamcmd
 
 ## Available Documentation
 

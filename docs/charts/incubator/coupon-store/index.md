@@ -7,9 +7,8 @@ A home for all your coupons and loyalty cards.
 ## Chart Sources
 
 - https://github.com/linuxserver/docker-airsonic
-- https://github.com/truecharts/containers/tree/master/mirrorcoupon-store/charts/tree/master/charts/incubator/coupon-store
-- https://github.com/truecharts/containers/tree/master/mirrorcoupon-store
 - https://github.com/truecharts/charts/tree/master/charts/incubator/coupon-store
+- https://github.com/truecharts/containers/tree/master/mirrorcoupon-store
 
 ## Available Documentation
 

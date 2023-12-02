@@ -6,9 +6,8 @@ With this Chart you can run RedM (Red Dead Redemption 2 MOD SERVER) it will auto
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/redm
 - https://redm.gg/
-- https://github.com/truecharts/containers/tree/master/mirrorredm/charts/tree/master/charts/incubator/redm
+- https://github.com/truecharts/charts/tree/master/charts/incubator/redm
 - https://github.com/truecharts/containers/tree/master/mirrorredm
 
 ## Available Documentation

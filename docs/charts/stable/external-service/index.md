@@ -7,7 +7,6 @@ Allow external services to be used like Apps.
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/external-service
-- https://hub.docker.com/_/alpine/charts/tree/master/charts/stable/external-service
 - https://hub.docker.com/_/alpine
 
 ## Available Documentation

@@ -6,10 +6,9 @@ AppDaemon is a loosely coupled, multi-threaded, sandboxed python execution envir
 
 ## Chart Sources
 
-- https://hub.docker.com/r/acockburn/appdaemon/charts/tree/master/charts/stable/appdaemon
-- https://hub.docker.com/r/acockburn/appdaemon
-- https://github.com/truecharts/charts/tree/master/charts/stable/appdaemon
 - https://github.com/AppDaemon/appdaemon
+- https://github.com/truecharts/charts/tree/master/charts/stable/appdaemon
+- https://hub.docker.com/r/acockburn/appdaemon
 
 ## Available Documentation
 

@@ -7,7 +7,6 @@ Android in Chart solution with noVNC supported and video recording. Work way bet
 ## Chart Sources
 
 - https://registry.hub.docker.com/r/ulisses1478/docker-android
-- https://github.com/truecharts/containers/tree/master/mirrorandroid-8-0/charts/tree/master/charts/incubator/android-8-0
 - https://github.com/truecharts/charts/tree/master/charts/incubator/android-8-0
 - https://github.com/truecharts/containers/tree/master/mirrorandroid-8-0
 

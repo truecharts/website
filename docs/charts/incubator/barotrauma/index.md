@@ -7,9 +7,8 @@ This Chart will download and install SteamCMD. It will also install Barotrauma a
 ## Chart Sources
 
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorbarotrauma/charts/tree/master/charts/incubator/barotrauma
-- https://github.com/truecharts/containers/tree/master/mirrorbarotrauma
 - https://github.com/truecharts/charts/tree/master/charts/incubator/barotrauma
+- https://github.com/truecharts/containers/tree/master/mirrorbarotrauma
 
 ## Available Documentation
 

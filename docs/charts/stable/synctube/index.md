@@ -6,9 +6,8 @@ Synchronized video viewing with chat and other features. Lightweight modern impl
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/synctube
 - https://github.com/RblSb/SyncTube
-- https://hub.docker.com/r/littlestache/synctube/charts/tree/master/charts/stable/synctube
+- https://github.com/truecharts/charts/tree/master/charts/stable/synctube
 - https://hub.docker.com/r/littlestache/synctube
 
 ## Available Documentation

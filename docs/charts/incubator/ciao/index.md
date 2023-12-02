@@ -6,9 +6,8 @@ ciao checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorciao/charts/tree/master/charts/incubator/ciao
-- https://github.com/truecharts/charts/tree/master/charts/incubator/ciao
 - https://brotandgames.com/ciao/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/ciao
 - https://github.com/truecharts/containers/tree/master/mirrorciao
 
 ## Available Documentation

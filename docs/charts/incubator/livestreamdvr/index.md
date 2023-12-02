@@ -6,10 +6,9 @@ An automatic twitch recorder.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorlivestreamdvr
-- https://github.com/truecharts/charts/tree/master/charts/incubator/livestreamdvr
 - https://github.com/MrBrax/LiveStreamDVR
-- https://github.com/truecharts/containers/tree/master/mirrorlivestreamdvr/charts/tree/master/charts/incubator/livestreamdvr
+- https://github.com/truecharts/charts/tree/master/charts/incubator/livestreamdvr
+- https://github.com/truecharts/containers/tree/master/mirrorlivestreamdvr
 
 ## Available Documentation
 

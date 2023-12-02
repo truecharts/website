@@ -6,9 +6,8 @@
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/notarius
 - https://github.com/agusalex/Notarius
-- https://github.com/truecharts/containers/tree/master/mirrornotarius/charts/tree/master/charts/incubator/notarius
+- https://github.com/truecharts/charts/tree/master/charts/incubator/notarius
 - https://github.com/truecharts/containers/tree/master/mirrornotarius
 
 ## Available Documentation

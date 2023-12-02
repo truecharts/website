@@ -7,8 +7,6 @@ Index and stream music using apache-musicindex and m3u playlists
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/apache-musicindex
-- http://hacks.slashdirt.org/sw/musicindex/
-- https://ghcr.io/k8s-at-home/apache-musicindex/charts/tree/master/charts/stable/apache-musicindex
 - https://ghcr.io/k8s-at-home/apache-musicindex
 
 ## Available Documentation

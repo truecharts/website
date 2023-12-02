@@ -6,10 +6,9 @@ A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ## Chart Sources
 
-- https://hub.docker.com/r/benbusby/whoogle-search
-- https://github.com/truecharts/charts/tree/master/charts/stable/whoogle
 - https://github.com/benbusby/whoogle-search
-- https://hub.docker.com/r/benbusby/whoogle-search/charts/tree/master/charts/stable/whoogle
+- https://github.com/truecharts/charts/tree/master/charts/stable/whoogle
+- https://hub.docker.com/r/benbusby/whoogle-search
 
 ## Available Documentation
 

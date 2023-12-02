@@ -6,9 +6,8 @@ Helps caregivers track sleep, feedings, diaper changes, tummy time and more to l
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/babybuddy
 - https://github.com/babybuddy/babybuddy
-- https://ghcr.io/linuxserver/babybuddy/charts/tree/master/charts/stable/babybuddy
+- https://github.com/truecharts/charts/tree/master/charts/stable/babybuddy
 - https://ghcr.io/linuxserver/babybuddy
 
 ## Available Documentation

@@ -7,10 +7,9 @@ Professional Photo Management with the Power of Open Source
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/digikam
+- https://ghcr.io/linuxserver/digikam
 - https://github.com/linuxserver/docker-digikam
 - https://www.digikam.org/
-- https://ghcr.io/linuxserver/digikam/charts/tree/master/charts/stable/digikam
-- https://ghcr.io/linuxserver/digikam
 
 ## Available Documentation
 

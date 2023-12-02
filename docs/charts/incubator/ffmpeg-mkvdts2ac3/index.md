@@ -6,10 +6,9 @@ A Chart Chart designed to watch a directory and encode media files.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorffmpeg-mkvdts2ac3
-- https://github.com/truecharts/charts/tree/master/charts/incubator/ffmpeg-mkvdts2ac3
 - https://registry.hub.docker.com/r/snoopy86/ffmpeg/
-- https://github.com/truecharts/containers/tree/master/mirrorffmpeg-mkvdts2ac3/charts/tree/master/charts/incubator/ffmpeg-mkvdts2ac3
+- https://github.com/truecharts/charts/tree/master/charts/incubator/ffmpeg-mkvdts2ac3
+- https://github.com/truecharts/containers/tree/master/mirrorffmpeg-mkvdts2ac3
 
 ## Available Documentation
 

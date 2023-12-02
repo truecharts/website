@@ -6,9 +6,8 @@ Trango self-hosted is a calling and file sharing solution that works over LAN (l
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrortrango/charts/tree/master/charts/incubator/trango
-- https://github.com/truecharts/charts/tree/master/charts/incubator/trango
 - https://trango.io/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/trango
 - https://github.com/truecharts/containers/tree/master/mirrortrango
 
 ## Available Documentation

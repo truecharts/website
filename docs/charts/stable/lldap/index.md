@@ -6,9 +6,8 @@ Lightweight ldap server for authentication and user management
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/lldap
 - https://github.com/nitnelave/lldap
-- https://hub.docker.com/r/nitnelave/lldap/charts/tree/master/charts/stable/lldap
+- https://github.com/truecharts/charts/tree/master/charts/stable/lldap
 - https://hub.docker.com/r/nitnelave/lldap
 
 ## Available Documentation

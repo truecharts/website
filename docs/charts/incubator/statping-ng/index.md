@@ -7,9 +7,8 @@ Status page for monitoring your websites and applications.
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/statping-ng
-- https://github.com/statping/statping
-- https://github.com/truecharts/containers/tree/master/mirrorstatping-ng/charts/tree/master/charts/incubator/statping-ng
 - https://github.com/truecharts/containers/tree/master/mirrorstatping-ng
+- https://github.com/statping/statping
 
 ## Available Documentation
 

@@ -6,10 +6,9 @@ Flame is self-hosted start page for your server. Easily manage your apps and boo
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorflame
-- https://github.com/truecharts/charts/tree/master/charts/incubator/flame
 - https://github.com/pawelmalak/flame
-- https://github.com/truecharts/containers/tree/master/mirrorflame/charts/tree/master/charts/incubator/flame
+- https://github.com/truecharts/charts/tree/master/charts/incubator/flame
+- https://github.com/truecharts/containers/tree/master/mirrorflame
 
 ## Available Documentation
 

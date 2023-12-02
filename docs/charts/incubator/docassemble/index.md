@@ -7,9 +7,8 @@ A free, open-source expert system for guided interviews and document assembly.
 ## Chart Sources
 
 - https://github.com/jhpyle/docassemble
-- https://github.com/truecharts/containers/tree/master/mirrordocassemble/charts/tree/master/charts/incubator/docassemble
-- https://github.com/truecharts/containers/tree/master/mirrordocassemble
 - https://github.com/truecharts/charts/tree/master/charts/incubator/docassemble
+- https://github.com/truecharts/containers/tree/master/mirrordocassemble
 
 ## Available Documentation
 

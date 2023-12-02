@@ -6,10 +6,9 @@ Headless Ubuntu/Xfce Charts with VNC/noVNC for diagramming, image editing and 2D
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/inkscape-desktop-g3
 - https://github.com/accetto/headless-drawing-g3/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/inkscape-desktop-g3
 - https://github.com/truecharts/containers/tree/master/mirrorinkscape-desktop-g3
-- https://github.com/truecharts/containers/tree/master/mirrorinkscape-desktop-g3/charts/tree/master/charts/incubator/inkscape-desktop-g3
 
 ## Available Documentation
 

@@ -6,9 +6,8 @@ gPodder is a simple, open source podcast client written in Python using GTK+. In
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/gpodder
 - https://gpodder.github.io/
-- https://github.com/truecharts/containers/tree/master/mirrorgpodder/charts/tree/master/charts/incubator/gpodder
+- https://github.com/truecharts/charts/tree/master/charts/incubator/gpodder
 - https://github.com/truecharts/containers/tree/master/mirrorgpodder
 
 ## Available Documentation

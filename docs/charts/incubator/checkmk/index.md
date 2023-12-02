@@ -6,9 +6,8 @@ Checkmk is a leading tool for Infrastructure and Application Monitoring. Simple 
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorcheck-mk-raw/charts/tree/master/charts/incubator/checkmk
-- https://github.com/truecharts/charts/tree/master/charts/incubator/checkmk
 - https://github.com/tribe29/checkmk
+- https://github.com/truecharts/charts/tree/master/charts/incubator/checkmk
 - https://github.com/truecharts/containers/tree/master/mirrorcheck-mk-raw
 
 ## Available Documentation

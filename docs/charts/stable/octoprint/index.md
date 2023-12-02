@@ -6,9 +6,8 @@ OctoPrint is the snappy web interface for your 3D printer
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/octoprint
 - https://github.com/OctoPrint/OctoPrint
-- https://hub.docker.com/r/octoprint/octoprint/charts/tree/master/charts/stable/octoprint
+- https://github.com/truecharts/charts/tree/master/charts/stable/octoprint
 - https://hub.docker.com/r/octoprint/octoprint
 
 ## Available Documentation

@@ -6,9 +6,8 @@ This Chart will download and install the version of OpenTTD that you enter in th
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/openttd
 - https://www.openttd.org/
-- https://github.com/truecharts/containers/tree/master/mirroropenttd/charts/tree/master/charts/incubator/openttd
+- https://github.com/truecharts/charts/tree/master/charts/incubator/openttd
 - https://github.com/truecharts/containers/tree/master/mirroropenttd
 
 ## Available Documentation

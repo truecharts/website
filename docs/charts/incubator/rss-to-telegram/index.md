@@ -6,10 +6,9 @@ A self-hosted telegram JS/TS bot that dumps posts from RSS feeds to a telegram c
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/rss-to-telegram
-- https://github.com/BoKKeR/RSS-to-Telegram-Bot
-- https://github.com/truecharts/containers/tree/master/mirrorrss-to-telegram/charts/tree/master/charts/incubator/rss-to-telegram
 - https://github.com/truecharts/containers/tree/master/mirrorrss-to-telegram
+- https://github.com/BoKKeR/RSS-to-Telegram-Bot
+- https://github.com/truecharts/charts/tree/master/charts/incubator/rss-to-telegram
 
 ## Available Documentation
 

@@ -6,9 +6,8 @@ This Chart will download and install SteamCMD. It will also install Citadel - Fo
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/citadel-forgedwithfire
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorcitadel-forgedwithfire/charts/tree/master/charts/incubator/citadel-forgedwithfire
+- https://github.com/truecharts/charts/tree/master/charts/incubator/citadel-forgedwithfire
 - https://github.com/truecharts/containers/tree/master/mirrorcitadel-forgedwithfire
 
 ## Available Documentation

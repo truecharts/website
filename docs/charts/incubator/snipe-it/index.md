@@ -7,10 +7,9 @@ Open source asset management
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/snipe-it
+- https://github.com/truecharts/containers/tree/master/mirrorsnipe-it
 - https://snipeitapp.com/
 - https://github.com/snipe/snipe-it
-- https://github.com/truecharts/containers/tree/master/mirrorsnipe-it/charts/tree/master/charts/incubator/snipe-it
-- https://github.com/truecharts/containers/tree/master/mirrorsnipe-it
 
 ## Available Documentation
 

@@ -6,10 +6,9 @@ Creates a simple webpage for Slack invite signups
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorslack-invite
-- https://github.com/truecharts/charts/tree/master/charts/incubator/slack-invite
 - httpss://github.com/ninthwalker/slack-invite
-- https://github.com/truecharts/containers/tree/master/mirrorslack-invite/charts/tree/master/charts/incubator/slack-invite
+- https://github.com/truecharts/charts/tree/master/charts/incubator/slack-invite
+- https://github.com/truecharts/containers/tree/master/mirrorslack-invite
 
 ## Available Documentation
 

@@ -6,7 +6,6 @@ Alternative Imgur front-end
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorrimgo/charts/tree/master/charts/incubator/rimgo
 - https://github.com/truecharts/containers/tree/master/mirrorrimgo
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rimgo
 

@@ -6,9 +6,8 @@ This Chart will download and install SteamCMD. It will also install Longvinter a
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/longvinter
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorlongvinter/charts/tree/master/charts/incubator/longvinter
+- https://github.com/truecharts/charts/tree/master/charts/incubator/longvinter
 - https://github.com/truecharts/containers/tree/master/mirrorlongvinter
 
 ## Available Documentation

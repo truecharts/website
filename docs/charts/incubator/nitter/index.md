@@ -6,9 +6,8 @@ A free and open source alternative Twitter front-end focused on privacy and perf
 
 ## Chart Sources
 
-- https://hub.docker.com/r/zedeus/nitter/charts/tree/master/charts/incubator/nitter
-- https://github.com/truecharts/charts/tree/master/charts/incubator/nitter
 - https://github.com/zedeus/nitter
+- https://github.com/truecharts/charts/tree/master/charts/incubator/nitter
 - https://hub.docker.com/r/zedeus/nitter
 
 ## Available Documentation

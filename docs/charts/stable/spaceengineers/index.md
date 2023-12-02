@@ -7,9 +7,8 @@ Space Engineers Dedicated Server.
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/spaceengineers
-- https://github.com/Devidian/docker-spaceengineers
-- https://hub.docker.com/r/devidian/spaceengineers/charts/tree/master/charts/stable/spaceengineers
 - https://hub.docker.com/r/devidian/spaceengineers
+- https://github.com/Devidian/docker-spaceengineers
 
 ## Available Documentation
 

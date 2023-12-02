@@ -7,9 +7,8 @@ This Chart is a full Debian Bullseye Xfce4 Desktop environment with a noVNC webG
 ## Chart Sources
 
 - https://www.debian.org/
-- https://github.com/truecharts/containers/tree/master/mirrordebian-bullseye/charts/tree/master/charts/incubator/debian-bullseye
-- https://github.com/truecharts/containers/tree/master/mirrordebian-bullseye
 - https://github.com/truecharts/charts/tree/master/charts/incubator/debian-bullseye
+- https://github.com/truecharts/containers/tree/master/mirrordebian-bullseye
 
 ## Available Documentation
 

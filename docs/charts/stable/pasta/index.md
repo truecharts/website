@@ -6,9 +6,8 @@ PASTA - Audio and Subtitle Track Changer for Plex
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/pasta
 - https://github.com/cglatot/pasta
-- https://hub.docker.com/r/cglatot/pasta/charts/tree/master/charts/stable/pasta
+- https://github.com/truecharts/charts/tree/master/charts/stable/pasta
 - https://hub.docker.com/r/cglatot/pasta
 
 ## Available Documentation

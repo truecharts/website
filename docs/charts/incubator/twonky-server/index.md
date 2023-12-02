@@ -6,10 +6,9 @@ TwonkyMedia server (TMS) is DLNA-compliant UPnP AV server software from PacketVi
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrortwonky-server
-- https://github.com/truecharts/charts/tree/master/charts/incubator/twonky-server
 - https://github.com/H2CK/twonkyserver
-- https://github.com/truecharts/containers/tree/master/mirrortwonky-server/charts/tree/master/charts/incubator/twonky-server
+- https://github.com/truecharts/charts/tree/master/charts/incubator/twonky-server
+- https://github.com/truecharts/containers/tree/master/mirrortwonky-server
 
 ## Available Documentation
 

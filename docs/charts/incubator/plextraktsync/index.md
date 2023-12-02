@@ -6,9 +6,8 @@ Two-way-sync between trakt.tv and Plex Media Server.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/plextraktsync
 - https://github.com/Taxel/PlexTraktSync
-- https://github.com/truecharts/containers/tree/master/mirrorplextraktsync/charts/tree/master/charts/incubator/plextraktsync
+- https://github.com/truecharts/charts/tree/master/charts/incubator/plextraktsync
 - https://github.com/truecharts/containers/tree/master/mirrorplextraktsync
 
 ## Available Documentation

@@ -7,7 +7,6 @@ A link dashboard that can be managed without any code.
 ## Chart Sources
 
 - https://github.com/jez500/bender
-- https://github.com/truecharts/containers/tree/master/mirrorbender/charts/tree/master/charts/incubator/bender
 - https://github.com/truecharts/charts/tree/master/charts/incubator/bender
 - https://github.com/truecharts/containers/tree/master/mirrorbender
 

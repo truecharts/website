@@ -6,11 +6,10 @@ home-assistant App for TrueNAS SCALE
 
 ## Chart Sources
 
-- https://github.com/cdr/code-server
-- https://hub.docker.com/r/homeassistant/home-assistant/charts/tree/master/charts/stable/home-assistant
 - https://hub.docker.com/r/homeassistant/home-assistant
-- https://github.com/truecharts/charts/tree/master/charts/stable/home-assistant
+- https://github.com/cdr/code-server
 - https://github.com/home-assistant/home-assistant
+- https://github.com/truecharts/charts/tree/master/charts/stable/home-assistant
 
 ## Available Documentation
 

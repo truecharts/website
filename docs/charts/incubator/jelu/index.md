@@ -6,10 +6,9 @@ Track what you have read, what you are reading and what you want to read.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorjelu
-- https://github.com/truecharts/charts/tree/master/charts/incubator/jelu
 - https://github.com/bayang/jelu
-- https://github.com/truecharts/containers/tree/master/mirrorjelu/charts/tree/master/charts/incubator/jelu
+- https://github.com/truecharts/charts/tree/master/charts/incubator/jelu
+- https://github.com/truecharts/containers/tree/master/mirrorjelu
 
 ## Available Documentation
 

@@ -8,9 +8,8 @@ An open source time-tracker with an interactive user experience and powerful rep
 
 - https://github.com/truecharts/containers/tree/master/mirrortimetagger
 - https://github.com/almarklein/timetagger
-- https://github.com/truecharts/containers/tree/master/mirrortimetagger/charts/tree/master/charts/incubator/timetagger
-- https://github.com/truecharts/charts/tree/master/charts/incubator/timetagger
 - https://timetagger.app
+- https://github.com/truecharts/charts/tree/master/charts/incubator/timetagger
 
 ## Available Documentation
 

@@ -7,7 +7,6 @@ Open source modular smart mirror platform.
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/magicmirror2
-- https://github.com/truecharts/containers/tree/master/mirrormagicmirror-2/charts/tree/master/charts/incubator/magicmirror2
 - https://github.com/truecharts/containers/tree/master/mirrormagicmirror-2
 
 ## Available Documentation

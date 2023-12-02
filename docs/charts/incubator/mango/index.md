@@ -8,9 +8,8 @@ Mango is a self-hosted manga server and reader. Its features include[br]
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mango
-- https://github.com/hkalexling/mango
-- https://github.com/truecharts/containers/tree/master/mirrormango/charts/tree/master/charts/incubator/mango
 - https://github.com/truecharts/containers/tree/master/mirrormango
+- https://github.com/hkalexling/mango
 
 ## Available Documentation
 

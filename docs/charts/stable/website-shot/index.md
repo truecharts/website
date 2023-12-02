@@ -7,7 +7,6 @@ Generate a full web-page screenshot with our service, that provides rich interfa
 ## Chart Sources
 
 - https://github.com/Flowko/website-shot
-- https://hub.docker.com/r/flowko1/website-shot/charts/tree/master/charts/stable/website-shot
 - https://github.com/truecharts/charts/tree/master/charts/stable/website-shot
 - https://hub.docker.com/r/flowko1/website-shot
 

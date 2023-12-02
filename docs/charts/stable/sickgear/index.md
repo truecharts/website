@@ -6,9 +6,8 @@ Provides management of TV shows and/or Anime, it detects new episodes, links dow
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/sickgear
 - https://github.com/SickGear/SickGear
-- https://hub.docker.com/r/sickgear/sickgear/charts/tree/master/charts/stable/sickgear
+- https://github.com/truecharts/charts/tree/master/charts/stable/sickgear
 - https://hub.docker.com/r/sickgear/sickgear
 
 ## Available Documentation

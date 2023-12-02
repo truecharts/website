@@ -6,10 +6,9 @@ Simple Chart that allows MQTT to be used to view data and push settings to the V
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorvenstar2mqtt/charts/tree/master/charts/incubator/venstar2mqtt
-- https://github.com/truecharts/containers/tree/master/mirrorvenstar2mqtt
-- https://github.com/truecharts/charts/tree/master/charts/incubator/venstar2mqtt
 - https://github.com/terafin/mqtt-venstar-bridge
+- https://github.com/truecharts/charts/tree/master/charts/incubator/venstar2mqtt
+- https://github.com/truecharts/containers/tree/master/mirrorvenstar2mqtt
 
 ## Available Documentation
 

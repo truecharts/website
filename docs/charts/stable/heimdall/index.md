@@ -6,10 +6,9 @@ An Application dashboard and launcher
 
 ## Chart Sources
 
-- https://hub.docker.com/r/linuxserver/heimdall/charts/tree/master/charts/stable/heimdall
+- https://github.com/linuxserver/Heimdall/
 - https://github.com/truecharts/charts/tree/master/charts/stable/heimdall
 - https://hub.docker.com/r/linuxserver/heimdall
-- https://github.com/linuxserver/Heimdall/
 
 ## Available Documentation
 

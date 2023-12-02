@@ -7,9 +7,8 @@ A modern web frontend making aria2 easier to use | Aria2 WebUI.
 ## Chart Sources
 
 - https://hub.docker.com/r/leonismoe/ariang
-- https://github.com/truecharts/charts/tree/master/charts/stable/ariang
 - https://github.com/leonismoe/docker-images
-- https://hub.docker.com/r/leonismoe/ariang/charts/tree/master/charts/stable/ariang
+- https://github.com/truecharts/charts/tree/master/charts/stable/ariang
 
 ## Available Documentation
 

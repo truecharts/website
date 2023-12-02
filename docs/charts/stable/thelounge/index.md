@@ -6,9 +6,8 @@ The Lounge, modern web IRC client designed for self-hosting
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/thelounge
 - https://github.com/thelounge/thelounge
-- https://hub.docker.com/r/thelounge/thelounge/charts/tree/master/charts/stable/thelounge
+- https://github.com/truecharts/charts/tree/master/charts/stable/thelounge
 - https://hub.docker.com/r/thelounge/thelounge
 
 ## Available Documentation

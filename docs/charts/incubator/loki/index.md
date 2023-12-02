@@ -7,9 +7,8 @@ Loki: like Prometheus, but for logs.
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/loki
-- https://github.com/grafana/loki
-- https://github.com/truecharts/containers/tree/master/mirrorloki/charts/tree/master/charts/incubator/loki
 - https://github.com/truecharts/containers/tree/master/mirrorloki
+- https://github.com/grafana/loki
 
 ## Available Documentation
 

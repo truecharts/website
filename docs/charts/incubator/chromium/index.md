@@ -6,10 +6,9 @@ Chromium is a free and open-source software project developed by the Google-spon
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorchromium/charts/tree/master/charts/incubator/chromium
-- https://github.com/truecharts/containers/tree/master/mirrorchromium
-- https://github.com/truecharts/charts/tree/master/charts/incubator/chromium
 - https://www.google.com/chrome/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/chromium
+- https://github.com/truecharts/containers/tree/master/mirrorchromium
 
 ## Available Documentation
 

@@ -6,9 +6,8 @@ Self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Tel
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/jackett2telegram
 - https://github.com/danimart1991/jackett2telegram
-- https://github.com/truecharts/containers/tree/master/mirrorjackett2telegram/charts/tree/master/charts/incubator/jackett2telegram
+- https://github.com/truecharts/charts/tree/master/charts/incubator/jackett2telegram
 - https://github.com/truecharts/containers/tree/master/mirrorjackett2telegram
 
 ## Available Documentation

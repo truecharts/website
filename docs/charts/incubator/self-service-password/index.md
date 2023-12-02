@@ -6,11 +6,10 @@ Self Service Password is a PHP application that allows users to change their pas
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorself-service-password/charts/tree/master/charts/incubator/self-service-password
-- https://github.com/truecharts/containers/tree/master/mirrorself-service-password
-- https://github.com/truecharts/charts/tree/master/charts/incubator/self-service-password
 - https://github.com/tiredofit/docker-self-service-password
 - https://self-service-password.readthedocs.io/en/latest
+- https://github.com/truecharts/charts/tree/master/charts/incubator/self-service-password
+- https://github.com/truecharts/containers/tree/master/mirrorself-service-password
 
 ## Available Documentation
 

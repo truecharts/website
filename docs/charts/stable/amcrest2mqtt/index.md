@@ -6,10 +6,9 @@ Expose all events from an Amcrest device to an MQTT broker
 
 ## Chart Sources
 
-- https://hub.docker.com/r/dchesterton/amcrest2mqtt
-- https://github.com/truecharts/charts/tree/master/charts/stable/amcrest2mqtt
 - https://github.com/dchesterton/amcrest2mqtt
-- https://hub.docker.com/r/dchesterton/amcrest2mqtt/charts/tree/master/charts/stable/amcrest2mqtt
+- https://github.com/truecharts/charts/tree/master/charts/stable/amcrest2mqtt
+- https://hub.docker.com/r/dchesterton/amcrest2mqtt
 
 ## Available Documentation
 

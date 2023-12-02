@@ -6,10 +6,9 @@ Server for Ferdi that you can re-use to run your own
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/ferdi-server
-- https://github.com/getferdi/server
-- https://hub.docker.com/r/getferdi/ferdi-server/charts/tree/master/charts/stable/ferdi-server
 - https://hub.docker.com/r/getferdi/ferdi-server
+- https://github.com/getferdi/server
+- https://github.com/truecharts/charts/tree/master/charts/stable/ferdi-server
 
 ## Available Documentation
 

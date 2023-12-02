@@ -6,10 +6,9 @@ Your self-hosted bookmark archive. Free and open source.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/linkace
 - https://www.linkace.org/docs/
 - https://github.com/linkace/linkace
-- https://github.com/truecharts/containers/tree/master/mirrorlinkace/charts/tree/master/charts/incubator/linkace
+- https://github.com/truecharts/charts/tree/master/charts/incubator/linkace
 - https://github.com/truecharts/containers/tree/master/mirrorlinkace
 
 ## Available Documentation

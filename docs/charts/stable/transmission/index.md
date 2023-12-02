@@ -6,10 +6,9 @@ fast, easy, and free BitTorrent client.
 
 ## Chart Sources
 
-- https://ghcr.io/onedr0p/transmission/charts/tree/master/charts/stable/transmission
-- https://ghcr.io/onedr0p/transmission
-- https://github.com/truecharts/charts/tree/master/charts/stable/transmission
 - https://github.com/transmission/transmission
+- https://github.com/truecharts/charts/tree/master/charts/stable/transmission
+- https://ghcr.io/onedr0p/transmission
 
 ## Available Documentation
 

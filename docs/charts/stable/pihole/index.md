@@ -6,12 +6,11 @@ DNS and Ad-filtering for your network
 
 ## Chart Sources
 
-- https://hub.docker.com/r/pihole/pihole/charts/tree/master/charts/stable/pihole
-- https://github.com/truecharts/charts/tree/master/charts/stable/pihole
-- https://hub.docker.com/r/pihole/pihole
 - https://pi-hole.net/
 - https://github.com/pi-hole
 - https://github.com/pi-hole/docker-pi-hole
+- https://github.com/truecharts/charts/tree/master/charts/stable/pihole
+- https://hub.docker.com/r/pihole/pihole
 
 ## Available Documentation
 

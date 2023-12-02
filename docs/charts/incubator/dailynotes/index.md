@@ -7,9 +7,8 @@ App for taking notes and tracking tasks on a daily basis.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/dailynotes
-- https://github.com/truecharts/containers/tree/master/mirrordailynotes/charts/tree/master/charts/incubator/dailynotes
 - https://github.com/truecharts/containers/tree/master/mirrordailynotes
+- https://github.com/truecharts/charts/tree/master/charts/incubator/dailynotes
 
 ## Available Documentation
 

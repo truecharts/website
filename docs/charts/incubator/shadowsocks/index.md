@@ -7,9 +7,8 @@ A secure SOCKS5 proxy. Shadowsocks is a free and open-source encryption protocol
 ## Chart Sources
 
 - https://github.com/shadowsocks/shadowsocks-libev/blob/master/docker/alpine/README.md
-- https://github.com/truecharts/containers/tree/master/mirrorshadowsocks/charts/tree/master/charts/incubator/shadowsocks
-- https://github.com/truecharts/containers/tree/master/mirrorshadowsocks
 - https://github.com/truecharts/charts/tree/master/charts/incubator/shadowsocks
+- https://github.com/truecharts/containers/tree/master/mirrorshadowsocks
 
 ## Available Documentation
 

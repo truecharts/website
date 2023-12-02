@@ -6,9 +6,8 @@ A Q&A platform software for teams at any scales.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/answer
 - https://github.com/answerdev/answer
-- https://github.com/truecharts/containers/tree/master/mirroranswer/charts/tree/master/charts/incubator/answer
+- https://github.com/truecharts/charts/tree/master/charts/incubator/answer
 - https://github.com/truecharts/containers/tree/master/mirroranswer
 
 ## Available Documentation

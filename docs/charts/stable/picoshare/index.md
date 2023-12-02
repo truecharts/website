@@ -7,9 +7,8 @@ PicoShare is a minimalist service that allows you to share files easily.
 ## Chart Sources
 
 - https://github.com/mtlynch/picoshare
-- https://hub.docker.com/r/mtlynch/picoshare/charts/tree/master/charts/stable/picoshare
-- https://hub.docker.com/r/mtlynch/picoshare
 - https://github.com/truecharts/charts/tree/master/charts/stable/picoshare
+- https://hub.docker.com/r/mtlynch/picoshare
 
 ## Available Documentation
 

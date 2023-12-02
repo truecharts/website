@@ -6,9 +6,8 @@ dash. (or dashdot) is a modern server dashboard, running on the latest tech, des
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/dashdot
 - https://github.com/MauriceNino/dashdot
-- https://hub.docker.com/r/mauricenino/dashdot/charts/tree/master/charts/stable/dashdot
+- https://github.com/truecharts/charts/tree/master/charts/stable/dashdot
 - https://hub.docker.com/r/mauricenino/dashdot
 
 ## Available Documentation

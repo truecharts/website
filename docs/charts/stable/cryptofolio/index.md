@@ -6,9 +6,8 @@ Track your cryptocurrency holdings/portfolio
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/cryptofolio
 - https://github.com/Xtrendence/cryptofolio
-- https://hub.docker.com/r/xtrendence/cryptofolio/charts/tree/master/charts/stable/cryptofolio
+- https://github.com/truecharts/charts/tree/master/charts/stable/cryptofolio
 - https://hub.docker.com/r/xtrendence/cryptofolio
 
 ## Available Documentation

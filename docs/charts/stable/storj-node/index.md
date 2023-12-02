@@ -6,11 +6,10 @@ Storj is an S3-compatible platform and suite of decentralized applications that 
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/storj-node
+- https://hub.docker.com/r/storjlabs/storagenode
 - https://github.com/storj/storj
 - https://docs.storj.io/node/
-- https://hub.docker.com/r/storjlabs/storagenode/charts/tree/master/charts/stable/storj-node
-- https://hub.docker.com/r/storjlabs/storagenode
-- https://github.com/truecharts/charts/tree/master/charts/stable/storj-node
 
 ## Available Documentation
 

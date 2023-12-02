@@ -4,6 +4,7 @@
 
 
 
+
 ## [searxng-4.0.78](https://github.com/truecharts/charts/compare/searxng-4.0.77...searxng-4.0.78) (2023-11-30)
 
 ### Chore

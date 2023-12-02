@@ -6,9 +6,8 @@ CTFd is a Capture The Flag framework focusing on ease of use and customizability
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/ctfd
 - https://github.com/CTFd/CTFd
-- https://github.com/truecharts/containers/tree/master/mirrorctfd/charts/tree/master/charts/incubator/ctfd
+- https://github.com/truecharts/charts/tree/master/charts/incubator/ctfd
 - https://github.com/truecharts/containers/tree/master/mirrorctfd
 
 ## Available Documentation

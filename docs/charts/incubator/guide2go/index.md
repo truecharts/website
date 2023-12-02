@@ -6,10 +6,9 @@ a xml grabber from schedule direct service
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorguide2go
-- https://github.com/truecharts/charts/tree/master/charts/incubator/guide2go
 - https://github.com/alturismo/guide2go
-- https://github.com/truecharts/containers/tree/master/mirrorguide2go/charts/tree/master/charts/incubator/guide2go
+- https://github.com/truecharts/charts/tree/master/charts/incubator/guide2go
+- https://github.com/truecharts/containers/tree/master/mirrorguide2go
 
 ## Available Documentation
 

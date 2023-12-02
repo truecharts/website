@@ -6,9 +6,9 @@ A fork of Radarr to work with Books & AudioBooks
 
 ## Chart Sources
 
-- https://readarr.com
-- https://ghcr.io/onedr0p/readarr-develop
 - https://github.com/truecharts/charts/tree/master/charts/stable/readarr
+- https://ghcr.io/onedr0p/readarr-develop
+- https://readarr.com
 - https://github.com/Readarr/Readarr
 
 ## Available Documentation

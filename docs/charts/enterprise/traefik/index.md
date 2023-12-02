@@ -6,12 +6,11 @@ Traefik is a flexible reverse proxy and Ingress Provider.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrortraefik/charts/tree/master/charts/enterprise/traefik
-- https://github.com/truecharts/charts/tree/master/charts/enterprise/traefik
+- https://github.com/truecharts/containers/tree/master/mirrortraefik
 - https://github.com/traefik/traefik
 - https://github.com/traefik/traefik-helm-chart
 - https://traefik.io/
-- https://github.com/truecharts/containers/tree/master/mirrortraefik
+- https://github.com/truecharts/charts/tree/master/charts/enterprise/traefik
 
 ## Available Documentation
 

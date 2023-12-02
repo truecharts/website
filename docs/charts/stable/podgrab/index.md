@@ -6,9 +6,8 @@ A self-hosted podcast manager to download episodes as soon as they become live.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/podgrab
 - https://github.com/akhilrex/podgrab
-- https://hub.docker.com/r/akhilrex/podgrab/charts/tree/master/charts/stable/podgrab
+- https://github.com/truecharts/charts/tree/master/charts/stable/podgrab
 - https://hub.docker.com/r/akhilrex/podgrab
 
 ## Available Documentation

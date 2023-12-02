@@ -6,9 +6,8 @@ This Chart will download and install SteamCMD. It will also install Necesse and 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/necesse
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrornecesse/charts/tree/master/charts/incubator/necesse
+- https://github.com/truecharts/charts/tree/master/charts/incubator/necesse
 - https://github.com/truecharts/containers/tree/master/mirrornecesse
 
 ## Available Documentation

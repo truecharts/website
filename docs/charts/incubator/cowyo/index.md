@@ -6,9 +6,8 @@ cowyo is a self-contained wiki server that makes jotting notes easy and fast. Th
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/cowyo
 - https://github.com/schollz/cowyo
-- https://github.com/truecharts/containers/tree/master/mirrorcowyo/charts/tree/master/charts/incubator/cowyo
+- https://github.com/truecharts/charts/tree/master/charts/incubator/cowyo
 - https://github.com/truecharts/containers/tree/master/mirrorcowyo
 
 ## Available Documentation

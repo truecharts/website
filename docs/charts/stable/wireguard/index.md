@@ -6,9 +6,8 @@ WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-o
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/wireguard
 - https://github.com/k8s-at-home/container-images/tree/main/apps/wireguard
-- https://ghcr.io/k8s-at-home/wireguard/charts/tree/master/charts/stable/wireguard
+- https://github.com/truecharts/charts/tree/master/charts/stable/wireguard
 - https://ghcr.io/k8s-at-home/wireguard
 
 ## Available Documentation

@@ -7,9 +7,8 @@ Docker Open Broadcaster Software (obs).
 ## Chart Sources
 
 - https://github.com/patrickstigler/docker-obs-ndi
-- https://hub.docker.com/r/patrickstigler/obs-ndi
-- https://hub.docker.com/r/patrickstigler/obs-ndi/charts/tree/master/charts/stable/obs-ndi
 - https://github.com/truecharts/charts/tree/master/charts/stable/obs-ndi
+- https://hub.docker.com/r/patrickstigler/obs-ndi
 
 ## Available Documentation
 

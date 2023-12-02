@@ -6,10 +6,9 @@ ModSecurity is an open source, cross platform Web Application Firewall (WAF) eng
 
 ## Chart Sources
 
-- https://hub.docker.com/r/owasp/modsecurity-crs
-- https://github.com/truecharts/charts/tree/master/charts/stable/modsecurity-crs
 - https://github.com/coreruleset/modsecurity-crs-docker
-- https://hub.docker.com/r/owasp/modsecurity-crs/charts/tree/master/charts/stable/modsecurity-crs
+- https://github.com/truecharts/charts/tree/master/charts/stable/modsecurity-crs
+- https://hub.docker.com/r/owasp/modsecurity-crs
 
 ## Available Documentation
 

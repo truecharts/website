@@ -6,10 +6,9 @@ A cross-platform, high-performance and asynchronous web server for static files-
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/static-web-server
 - https://github.com/static-web-server/static-web-server
 - https://static-web-server.net
-- https://ghcr.io/static-web-server/static-web-server/charts/tree/master/charts/stable/static-web-server
+- https://github.com/truecharts/charts/tree/master/charts/stable/static-web-server
 - https://ghcr.io/static-web-server/static-web-server
 
 ## Available Documentation

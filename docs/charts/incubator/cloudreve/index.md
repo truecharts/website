@@ -6,9 +6,8 @@ Self-hosted file management and sharing system, supports multiple storage provid
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/cloudreve
 - https://github.com/cloudreve/Cloudreve
-- https://github.com/truecharts/containers/tree/master/mirrorcloudreve/charts/tree/master/charts/incubator/cloudreve
+- https://github.com/truecharts/charts/tree/master/charts/incubator/cloudreve
 - https://github.com/truecharts/containers/tree/master/mirrorcloudreve
 
 ## Available Documentation

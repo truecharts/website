@@ -6,9 +6,8 @@ pixelserv-tls is a tiny bespoke HTTP/1.1 webserver with HTTPS and SNI support. I
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/pixelserv-tls
 - https://github.com/imTHAI/docker-pixelserv-tls
-- https://github.com/truecharts/containers/tree/master/mirrorpixelserv-tls/charts/tree/master/charts/incubator/pixelserv-tls
+- https://github.com/truecharts/charts/tree/master/charts/incubator/pixelserv-tls
 - https://github.com/truecharts/containers/tree/master/mirrorpixelserv-tls
 
 ## Available Documentation

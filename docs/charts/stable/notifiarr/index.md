@@ -7,7 +7,6 @@ This is the unified client for Notifiarr.com. The client enables content request
 ## Chart Sources
 
 - https://github.com/Notifiarr/notifiarr
-- https://hub.docker.com/r/golift/notifiarr/charts/tree/master/charts/stable/notifiarr
 - https://github.com/truecharts/charts/tree/master/charts/stable/notifiarr
 - https://hub.docker.com/r/golift/notifiarr
 

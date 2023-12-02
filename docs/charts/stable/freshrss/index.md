@@ -6,9 +6,8 @@ FreshRSS is a self-hosted RSS feed aggregator
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/freshrss
 - https://github.com/FreshRSS/FreshRSS
-- https://ghcr.io/linuxserver/freshrss/charts/tree/master/charts/stable/freshrss
+- https://github.com/truecharts/charts/tree/master/charts/stable/freshrss
 - https://ghcr.io/linuxserver/freshrss
 
 ## Available Documentation

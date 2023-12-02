@@ -6,10 +6,9 @@ A multi-platform media downloader that indexes and downloads content from your a
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/plexripper
-- https://github.com/PlexRipper/PlexRipper/
-- https://hub.docker.com/r/plexripper/plexripper/charts/tree/master/charts/stable/plexripper
 - https://hub.docker.com/r/plexripper/plexripper
+- https://github.com/PlexRipper/PlexRipper/
+- https://github.com/truecharts/charts/tree/master/charts/stable/plexripper
 
 ## Available Documentation
 

@@ -6,9 +6,8 @@ This simple Chart will update a namecheap dynamic dns domain. You must set an 'A
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/namecheap-ddns
 - https://github.com/EdwardChamberlain/namecheap_ddns
-- https://github.com/truecharts/containers/tree/master/mirrornamecheap-ddns/charts/tree/master/charts/incubator/namecheap-ddns
+- https://github.com/truecharts/charts/tree/master/charts/incubator/namecheap-ddns
 - https://github.com/truecharts/containers/tree/master/mirrornamecheap-ddns
 
 ## Available Documentation

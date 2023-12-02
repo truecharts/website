@@ -6,9 +6,8 @@ This Chart will download and install SteamCMD. It will also install Left4Dead an
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/left4dead
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorleft4dead/charts/tree/master/charts/incubator/left4dead
+- https://github.com/truecharts/charts/tree/master/charts/incubator/left4dead
 - https://github.com/truecharts/containers/tree/master/mirrorleft4dead
 
 ## Available Documentation

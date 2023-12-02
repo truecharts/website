@@ -6,11 +6,10 @@ Self hosted note taking, alternative to Notions. Look at Github for config
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrornotea
-- https://github.com/truecharts/charts/tree/master/charts/incubator/notea
 - https://github.com/diamkil/docker-notea
 - https://registry.hub.docker.com/r/diamkil/notea/
-- https://github.com/truecharts/containers/tree/master/mirrornotea/charts/tree/master/charts/incubator/notea
+- https://github.com/truecharts/charts/tree/master/charts/incubator/notea
+- https://github.com/truecharts/containers/tree/master/mirrornotea
 
 ## Available Documentation
 

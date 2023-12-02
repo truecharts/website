@@ -6,10 +6,9 @@ FileGator is a free, open-source, self-hosted web application for managing files
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/filegator
-- https://github.com/filegator/filegator
-- https://github.com/truecharts/containers/tree/master/mirrorfilegator/charts/tree/master/charts/incubator/filegator
 - https://github.com/truecharts/containers/tree/master/mirrorfilegator
+- https://github.com/filegator/filegator
+- https://github.com/truecharts/charts/tree/master/charts/incubator/filegator
 
 ## Available Documentation
 

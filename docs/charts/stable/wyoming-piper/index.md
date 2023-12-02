@@ -6,10 +6,9 @@ The Wyoming integration of piper
 
 ## Chart Sources
 
-- https://hub.docker.com/r/rhasspy/wyoming-piper/charts/tree/master/charts/stable/wyoming-piper
-- https://hub.docker.com/r/rhasspy/wyoming-piper
-- https://github.com/truecharts/charts/tree/master/charts/stable/wyoming-piper
 - https://github.com/home-assistant/addons/tree/master/piper
+- https://github.com/truecharts/charts/tree/master/charts/stable/wyoming-piper
+- https://hub.docker.com/r/rhasspy/wyoming-piper
 
 ## Available Documentation
 

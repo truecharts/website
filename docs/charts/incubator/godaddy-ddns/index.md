@@ -7,7 +7,6 @@ Chart to provide a DDNS service for godaddy domains. Uses the GoDaddy REST API t
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/godaddy-ddns
-- https://github.com/truecharts/containers/tree/master/mirrorgodaddy-ddns/charts/tree/master/charts/incubator/godaddy-ddns
 - https://github.com/truecharts/containers/tree/master/mirrorgodaddy-ddns
 
 ## Available Documentation

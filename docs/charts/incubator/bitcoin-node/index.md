@@ -6,9 +6,8 @@ Chart that runs the Bitcoin bitcoind node in a Chart for easy deployment.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoin-node
 - https://github.com/kylemanna/docker-bitcoind
-- https://github.com/truecharts/containers/tree/master/mirrorbitcoin-node/charts/tree/master/charts/incubator/bitcoin-node
+- https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoin-node
 - https://github.com/truecharts/containers/tree/master/mirrorbitcoin-node
 
 ## Available Documentation

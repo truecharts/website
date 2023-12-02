@@ -6,10 +6,8 @@ Adminer (formerly phpMinAdmin) is a full-featured database management tool writt
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/adminer
 - https://github.com/vrana/adminer
-- http://hub.docker.com/_/adminer/
-- https://hub.docker.com/_/adminer/charts/tree/master/charts/stable/adminer
+- https://github.com/truecharts/charts/tree/master/charts/stable/adminer
 - https://hub.docker.com/_/adminer
 
 ## Available Documentation

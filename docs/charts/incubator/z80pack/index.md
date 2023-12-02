@@ -7,11 +7,9 @@ Z80Pack is an emulator for emulating CP/M 1, CP/M 2, CP/M 3, and MP/M II on Linu
 
 ## Chart Sources
 
-- http://www.autometer.de/unix4fun/z80pack/index.html
-- https://registry.hub.docker.com/r/dlandon/z80pack/
-- https://github.com/truecharts/containers/tree/master/mirrorz80pack/charts/tree/master/charts/incubator/z80pack
-- https://github.com/truecharts/charts/tree/master/charts/incubator/z80pack
 - https://github.com/truecharts/containers/tree/master/mirrorz80pack
+- https://registry.hub.docker.com/r/dlandon/z80pack/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/z80pack
 
 ## Available Documentation
 

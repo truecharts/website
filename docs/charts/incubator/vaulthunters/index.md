@@ -6,9 +6,8 @@ Vault Hunters - 1.13.4 Modded Minecraft Server[br][br][b]Vault Hunters - 1.13.4[
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorvaulthunters/charts/tree/master/charts/incubator/vaulthunters
-- https://github.com/truecharts/charts/tree/master/charts/incubator/vaulthunters
 - https://vaulthunters.gg
+- https://github.com/truecharts/charts/tree/master/charts/incubator/vaulthunters
 - https://github.com/truecharts/containers/tree/master/mirrorvaulthunters
 
 ## Available Documentation

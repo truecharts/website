@@ -7,7 +7,6 @@ A Helm chart to deploy a Matrix homeserver stack into Kubernetes
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/synapse
-- https://github.com/truecharts/containers/tree/master/mirrorsynapse/charts/tree/master/charts/incubator/synapse
 - https://github.com/truecharts/containers/tree/master/mirrorsynapse
 
 ## Available Documentation

@@ -6,9 +6,8 @@ A Lidarr companion script to automatically download music for Lidarr.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/automatic-music-downloader
 - https://github.com/RandomNinjaAtk/docker-amd
-- https://hub.docker.com/r/randomninjaatk/amd/charts/tree/master/charts/stable/automatic-music-downloader
+- https://github.com/truecharts/charts/tree/master/charts/stable/automatic-music-downloader
 - https://hub.docker.com/r/randomninjaatk/amd
 
 ## Available Documentation

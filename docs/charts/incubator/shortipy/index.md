@@ -6,9 +6,8 @@ URL Shortener in python based on flask
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/shortipy
 - https://github.com/maschhoff/shortipy
-- https://github.com/truecharts/containers/tree/master/mirrorshortipy/charts/tree/master/charts/incubator/shortipy
+- https://github.com/truecharts/charts/tree/master/charts/incubator/shortipy
 - https://github.com/truecharts/containers/tree/master/mirrorshortipy
 
 ## Available Documentation

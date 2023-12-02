@@ -6,9 +6,8 @@ All your audiobooks in one place
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/openaudible
 - https://github.com/openaudible/openaudible_docker
-- https://github.com/truecharts/containers/tree/master/mirroropenaudible/charts/tree/master/charts/incubator/openaudible
+- https://github.com/truecharts/charts/tree/master/charts/incubator/openaudible
 - https://github.com/truecharts/containers/tree/master/mirroropenaudible
 
 ## Available Documentation

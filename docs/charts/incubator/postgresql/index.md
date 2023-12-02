@@ -6,10 +6,9 @@ PostgresSQL
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorpostgresql
-- https://github.com/truecharts/charts/tree/master/charts/incubator/postgresql
 - https://www.postgresql.org/
-- https://github.com/truecharts/containers/tree/master/mirrorpostgresql/charts/tree/master/charts/incubator/postgresql
+- https://github.com/truecharts/charts/tree/master/charts/incubator/postgresql
+- https://github.com/truecharts/containers/tree/master/mirrorpostgresql
 
 ## Available Documentation
 

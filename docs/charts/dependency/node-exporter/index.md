@@ -6,9 +6,8 @@ Prometheus exporter for hardware and OS metrics exposed by UNIX kernels, with pl
 
 ## Chart Sources
 
-- https://hub.docker.com/r/bitnami/node-exporter
 - https://github.com/truecharts/charts/tree/master/charts/dependency/node-exporter
-- https://hub.docker.com/r/bitnami/node-exporter/charts/tree/master/charts/dependency/node-exporter
+- https://hub.docker.com/r/bitnami/node-exporter
 
 ## Available Documentation
 

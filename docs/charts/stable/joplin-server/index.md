@@ -6,11 +6,10 @@ Allows you to sync any Joplin client.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/joplin/server/charts/tree/master/charts/stable/joplin-server
 - https://github.com/truecharts/charts/tree/master/charts/stable/joplin-server
+- https://hub.docker.com/r/joplin/server
 - https://github.com/laurent22/joplin/tree/dev/packages/server
 - https://github.com/laurent22/joplin
-- https://hub.docker.com/r/joplin/server
 
 ## Available Documentation
 

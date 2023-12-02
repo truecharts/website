@@ -6,10 +6,9 @@ Socials is a single-page website that stores all your social media and personal 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/socials
 - https://github.com/diamkil/socials
 - https://registry.hub.docker.com/r/diamkil/socials/
-- https://github.com/truecharts/containers/tree/master/mirrorsocials/charts/tree/master/charts/incubator/socials
+- https://github.com/truecharts/charts/tree/master/charts/incubator/socials
 - https://github.com/truecharts/containers/tree/master/mirrorsocials
 
 ## Available Documentation

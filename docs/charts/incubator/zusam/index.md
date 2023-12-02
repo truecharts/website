@@ -6,9 +6,8 @@ Zusam is a free and open-source way to self-host private forums for groups of fr
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorzusam/charts/tree/master/charts/incubator/zusam
-- https://github.com/truecharts/charts/tree/master/charts/incubator/zusam
 - https://github.com/zusam/zusam
+- https://github.com/truecharts/charts/tree/master/charts/incubator/zusam
 - https://github.com/truecharts/containers/tree/master/mirrorzusam
 
 ## Available Documentation

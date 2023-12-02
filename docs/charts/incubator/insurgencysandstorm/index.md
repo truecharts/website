@@ -6,10 +6,9 @@ This Chart will download and install SteamCMD. It will also install Insurgency S
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorinsurgencysandstorm/charts/tree/master/charts/incubator/insurgencysandstorm
-- https://github.com/truecharts/charts/tree/master/charts/incubator/insurgencysandstorm
-- https://www.steampowered.com/
 - https://github.com/truecharts/containers/tree/master/mirrorinsurgencysandstorm
+- https://www.steampowered.com/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/insurgencysandstorm
 
 ## Available Documentation
 

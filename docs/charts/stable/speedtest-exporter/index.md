@@ -6,9 +6,8 @@ Speedtest Exporter made in python using the official speedtest bin
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/speedtest-exporter
 - https://github.com/MiguelNdeCarvalho/speedtest-exporter/
-- https://ghcr.io/miguelndecarvalho/speedtest-exporter/charts/tree/master/charts/stable/speedtest-exporter
+- https://github.com/truecharts/charts/tree/master/charts/stable/speedtest-exporter
 - https://ghcr.io/miguelndecarvalho/speedtest-exporter
 
 ## Available Documentation

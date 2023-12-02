@@ -7,9 +7,8 @@ Usenet meta search
 ## Chart Sources
 
 - https://github.com/theotherp/nzbhydra2
-- https://ghcr.io/geek-cookbook/nzbhydra2/charts/tree/master/charts/stable/nzbhydra
-- https://ghcr.io/geek-cookbook/nzbhydra2
 - https://github.com/truecharts/charts/tree/master/charts/stable/nzbhydra
+- https://ghcr.io/geek-cookbook/nzbhydra2
 
 ## Available Documentation
 

@@ -6,9 +6,8 @@
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/barcodebuddy
 - https://github.com/Forceu/barcodebuddy
-- https://github.com/truecharts/containers/tree/master/mirrorbarcodebuddy/charts/tree/master/charts/incubator/barcodebuddy
+- https://github.com/truecharts/charts/tree/master/charts/incubator/barcodebuddy
 - https://github.com/truecharts/containers/tree/master/mirrorbarcodebuddy
 
 ## Available Documentation

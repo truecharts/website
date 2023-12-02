@@ -6,10 +6,9 @@ Apache Guacamole is a clientless remote desktop gateway.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/guacamole/guacamole
-- https://github.com/truecharts/charts/tree/master/charts/stable/guacamole
 - https://github.com/apache/guacamole-client
-- https://hub.docker.com/r/guacamole/guacamole/charts/tree/master/charts/stable/guacamole
+- https://github.com/truecharts/charts/tree/master/charts/stable/guacamole
+- https://hub.docker.com/r/guacamole/guacamole
 
 ## Available Documentation
 

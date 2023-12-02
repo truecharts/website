@@ -6,9 +6,8 @@ HumHub is a free social network software and framework built to give you the too
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorhumhub
 - https://github.com/truecharts/charts/tree/master/charts/incubator/humhub
-- https://github.com/truecharts/containers/tree/master/mirrorhumhub/charts/tree/master/charts/incubator/humhub
+- https://github.com/truecharts/containers/tree/master/mirrorhumhub
 
 ## Available Documentation
 

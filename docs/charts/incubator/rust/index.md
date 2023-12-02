@@ -7,9 +7,8 @@ This Chart will download and install SteamCMD. It will also install RUST and run
 ## Chart Sources
 
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorrust/charts/tree/master/charts/incubator/rust
-- https://github.com/truecharts/containers/tree/master/mirrorrust
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rust
+- https://github.com/truecharts/containers/tree/master/mirrorrust
 
 ## Available Documentation
 

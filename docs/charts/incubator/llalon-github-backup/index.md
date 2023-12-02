@@ -6,10 +6,9 @@ Automatically backup github repositories on schedule. Allows for custom configur
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorllalon-github-backup/charts/tree/master/charts/incubator/llalon-github-backup
 - https://github.com/truecharts/charts/tree/master/charts/incubator/llalon-github-backup
-- https://github.com/abusesa/github-backup
 - https://github.com/truecharts/containers/tree/master/mirrorllalon-github-backup
+- https://github.com/abusesa/github-backup
 
 ## Available Documentation
 

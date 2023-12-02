@@ -7,7 +7,6 @@ This Chart will download and install SteamCMD. It will also install V Rising and
 ## Chart Sources
 
 - https://steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorv-rising/charts/tree/master/charts/incubator/v-rising
 - https://github.com/truecharts/charts/tree/master/charts/incubator/v-rising
 - https://github.com/truecharts/containers/tree/master/mirrorv-rising
 

@@ -7,7 +7,6 @@ A web interface for MySQL and MariaDB.
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/phpmyadmin
-- https://github.com/truecharts/containers/tree/master/mirrorphpmyadmin/charts/tree/master/charts/incubator/phpmyadmin
 - https://github.com/truecharts/containers/tree/master/mirrorphpmyadmin
 
 ## Available Documentation

@@ -7,7 +7,6 @@ very sync is an easy-to-use multi-platform file synchronization software
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/verysync
-- https://hub.docker.com/r/jonnyan404/verysync/charts/tree/master/charts/stable/verysync
 - https://hub.docker.com/r/jonnyan404/verysync
 
 ## Available Documentation

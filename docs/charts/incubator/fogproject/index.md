@@ -6,10 +6,9 @@ FOG Project can capture, deploy, and manage Windows, Mac OSX, and various Linux 
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorfogproject/charts/tree/master/charts/incubator/fogproject
-- https://github.com/truecharts/containers/tree/master/mirrorfogproject
-- https://github.com/truecharts/charts/tree/master/charts/incubator/fogproject
 - https://github.com/redvex2460/fogproject
+- https://github.com/truecharts/charts/tree/master/charts/incubator/fogproject
+- https://github.com/truecharts/containers/tree/master/mirrorfogproject
 
 ## Available Documentation
 

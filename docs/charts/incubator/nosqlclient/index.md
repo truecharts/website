@@ -6,9 +6,8 @@ Cross-platform and self hosted, easy to use, intuitive mongodb management tool -
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/nosqlclient
 - https://github.com/nosqlclient/nosqlclient
-- https://github.com/truecharts/containers/tree/master/mirrornosqlclient/charts/tree/master/charts/incubator/nosqlclient
+- https://github.com/truecharts/charts/tree/master/charts/incubator/nosqlclient
 - https://github.com/truecharts/containers/tree/master/mirrornosqlclient
 
 ## Available Documentation

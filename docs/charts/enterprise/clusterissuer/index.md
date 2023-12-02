@@ -6,10 +6,9 @@ Certificate management for Kubernetes
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/enterprise/clusterissuer
-- https://cert-manager.io/
-- https://hub.docker.com/_/hello-world/charts/tree/master/charts/enterprise/clusterissuer
 - https://hub.docker.com/_/hello-world
+- https://cert-manager.io/
+- https://github.com/truecharts/charts/tree/master/charts/enterprise/clusterissuer
 
 ## Available Documentation
 

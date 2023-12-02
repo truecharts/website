@@ -8,7 +8,6 @@ Docker registry v2 command line client and repo listing generator with security 
 
 - https://github.com/genuinetools/reg
 - https://github.com/k8s-at-home/container-images/
-- https://hub.docker.com/_/registry/charts/tree/master/charts/stable/reg
 - https://github.com/truecharts/charts/tree/master/charts/stable/reg
 - https://hub.docker.com/_/registry
 

@@ -6,10 +6,9 @@ A Headless Steam chart.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorsteam-headless/charts/tree/master/charts/incubator/steam-headless
-- https://github.com/truecharts/containers/tree/master/mirrorsteam-headless
-- https://github.com/truecharts/charts/tree/master/charts/incubator/steam-headless
 - https://github.com/Steam-Headless/docker-steam-headless
+- https://github.com/truecharts/charts/tree/master/charts/incubator/steam-headless
+- https://github.com/truecharts/containers/tree/master/mirrorsteam-headless
 
 ## Available Documentation
 

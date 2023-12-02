@@ -6,9 +6,8 @@ Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/gravity
 - https://github.com/BeryJu/gravity
-- https://github.com/truecharts/containers/tree/master/mirrorgravity/charts/tree/master/charts/incubator/gravity
+- https://github.com/truecharts/charts/tree/master/charts/incubator/gravity
 - https://github.com/truecharts/containers/tree/master/mirrorgravity
 
 ## Available Documentation

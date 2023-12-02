@@ -6,10 +6,9 @@ A web-based dashboard application that gives you a neat and clean interface for 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/clarkson
 - https://github.com/linuxserver/Clarkson
+- https://github.com/truecharts/charts/tree/master/charts/stable/clarkson
 - https://ghcr.io/linuxserver/clarkson
-- https://ghcr.io/linuxserver/clarkson/charts/tree/master/charts/stable/clarkson
 
 ## Available Documentation
 

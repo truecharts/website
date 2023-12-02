@@ -6,9 +6,8 @@ Funkwhale is designed to make it easy to listen to music you like, and to discov
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/funkwhale
 - https://funkwhale.audio/
-- https://github.com/truecharts/containers/tree/master/mirrorfunkwhale/charts/tree/master/charts/incubator/funkwhale
+- https://github.com/truecharts/charts/tree/master/charts/incubator/funkwhale
 - https://github.com/truecharts/containers/tree/master/mirrorfunkwhale
 
 ## Available Documentation

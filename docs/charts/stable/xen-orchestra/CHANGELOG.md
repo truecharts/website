@@ -4,6 +4,7 @@
 
 
 
+
 ## [xen-orchestra-5.1.25](https://github.com/truecharts/charts/compare/xen-orchestra-5.1.24...xen-orchestra-5.1.25) (2023-11-25)
 
 ### Chore

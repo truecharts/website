@@ -7,7 +7,6 @@ Self-hosted streaming service for music, formerly known as HTTP Media Server.
 ## Chart Sources
 
 - https://github.com/ironsmile/euterpe
-- https://github.com/truecharts/containers/tree/master/mirroreuterpe/charts/tree/master/charts/incubator/euterpe
 - https://github.com/truecharts/charts/tree/master/charts/incubator/euterpe
 - https://github.com/truecharts/containers/tree/master/mirroreuterpe
 

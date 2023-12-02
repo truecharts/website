@@ -7,9 +7,8 @@ Drawio is free online diagram software.
 ## Chart Sources
 
 - https://github.com/jgraph/drawio
-- https://hub.docker.com/r/jgraph/drawio/charts/tree/master/charts/stable/drawio
-- https://hub.docker.com/r/jgraph/drawio
 - https://github.com/truecharts/charts/tree/master/charts/stable/drawio
+- https://hub.docker.com/r/jgraph/drawio
 
 ## Available Documentation
 

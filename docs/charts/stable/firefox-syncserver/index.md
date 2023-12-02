@@ -6,9 +6,8 @@ This is an all-in-one package for running a self-hosted Firefox Sync server.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/firefox-syncserver
 - https://moz-services-docs.readthedocs.io/en/latest/howtos/run-sync-1.5.html
-- https://ghcr.io/crazy-max/firefox-syncserver/charts/tree/master/charts/stable/firefox-syncserver
+- https://github.com/truecharts/charts/tree/master/charts/stable/firefox-syncserver
 - https://ghcr.io/crazy-max/firefox-syncserver
 
 ## Available Documentation

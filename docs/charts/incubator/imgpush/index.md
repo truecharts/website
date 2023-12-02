@@ -6,9 +6,8 @@ Minimalist Self-hosted Image Service for user submitted images in your app (e.g.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/imgpush
 - https://github.com/hauxir/imgpush
-- https://github.com/truecharts/containers/tree/master/mirrorimgpush/charts/tree/master/charts/incubator/imgpush
+- https://github.com/truecharts/charts/tree/master/charts/incubator/imgpush
 - https://github.com/truecharts/containers/tree/master/mirrorimgpush
 
 ## Available Documentation

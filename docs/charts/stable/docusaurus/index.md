@@ -7,9 +7,8 @@ Docusaurus makes it easy to maintain Open Source documentation websites.
 ## Chart Sources
 
 - https://github.com/awesometic/docker-docusaurus
-- https://hub.docker.com/r/awesometic/docusaurus/charts/tree/master/charts/stable/docusaurus
-- https://hub.docker.com/r/awesometic/docusaurus
 - https://github.com/truecharts/charts/tree/master/charts/stable/docusaurus
+- https://hub.docker.com/r/awesometic/docusaurus
 
 ## Available Documentation
 

@@ -6,10 +6,9 @@ Open source, self-hostable watched list
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorwatcharr/charts/tree/master/charts/stable/watcharr
-- https://github.com/truecharts/containers/tree/master/mirrorwatcharr
-- https://github.com/truecharts/charts/tree/master/charts/stable/watcharr
 - https://github.com/sbondCo/Watcharr
+- https://github.com/truecharts/charts/tree/master/charts/stable/watcharr
+- https://github.com/truecharts/containers/tree/master/mirrorwatcharr
 
 ## Available Documentation
 

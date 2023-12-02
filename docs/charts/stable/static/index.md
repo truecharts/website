@@ -7,10 +7,9 @@ A self-hosted static file serving app which does nothing more than just serve up
 ## Chart Sources
 
 - https://github.com/nicholaswilde/docker-static
-- https://ghcr.io/nicholaswilde/static
-- https://ghcr.io/nicholaswilde/static/charts/tree/master/charts/stable/static
-- https://github.com/truecharts/charts/tree/master/charts/stable/static
 - https://github.com/prologic/static
+- https://github.com/truecharts/charts/tree/master/charts/stable/static
+- https://ghcr.io/nicholaswilde/static
 
 ## Available Documentation
 

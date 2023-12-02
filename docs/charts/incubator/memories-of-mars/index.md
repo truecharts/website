@@ -6,9 +6,8 @@ This Chart will download and install SteamCMD. It will also install Memories of 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/memories-of-mars
 - https://memoriesofmars.com/
-- https://github.com/truecharts/containers/tree/master/mirrormemories-of-mars/charts/tree/master/charts/incubator/memories-of-mars
+- https://github.com/truecharts/charts/tree/master/charts/incubator/memories-of-mars
 - https://github.com/truecharts/containers/tree/master/mirrormemories-of-mars
 
 ## Available Documentation

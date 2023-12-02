@@ -6,10 +6,9 @@ Serviio is a freeware media server designed to let users stream music, video, or
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorserviio/charts/tree/master/charts/incubator/serviio
-- https://github.com/truecharts/containers/tree/master/mirrorserviio
-- https://github.com/truecharts/charts/tree/master/charts/incubator/serviio
 - https://serviio.org/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/serviio
+- https://github.com/truecharts/containers/tree/master/mirrorserviio
 
 ## Available Documentation
 

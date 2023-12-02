@@ -6,9 +6,8 @@ A custom SteamCMD chart that runs ECO.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/eco
 - https://github.com/ich777/docker-steamcmd-server/tree/eco
-- https://github.com/truecharts/containers/tree/master/mirroreco/charts/tree/master/charts/incubator/eco
+- https://github.com/truecharts/charts/tree/master/charts/incubator/eco
 - https://github.com/truecharts/containers/tree/master/mirroreco
 
 ## Available Documentation

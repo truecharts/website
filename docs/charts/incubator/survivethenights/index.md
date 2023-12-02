@@ -6,9 +6,8 @@ This Chart will download and install SteamCMD. It will also install Survive The 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/survivethenights
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorsurvivethenights/charts/tree/master/charts/incubator/survivethenights
+- https://github.com/truecharts/charts/tree/master/charts/incubator/survivethenights
 - https://github.com/truecharts/containers/tree/master/mirrorsurvivethenights
 
 ## Available Documentation

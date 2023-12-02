@@ -6,9 +6,8 @@ Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tag
 
 ## Chart Sources
 
-- https://hub.docker.com/r/traggo/server/charts/tree/master/charts/stable/traggo
-- https://github.com/truecharts/charts/tree/master/charts/stable/traggo
 - https://github.com/traggo/server
+- https://github.com/truecharts/charts/tree/master/charts/stable/traggo
 - https://hub.docker.com/r/traggo/server
 
 ## Available Documentation

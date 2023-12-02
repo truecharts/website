@@ -6,9 +6,8 @@ A remote control and remote scripting solution, built with .NET 5, Blazor, Signa
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/remotely
 - https://remotely.one/
-- https://github.com/truecharts/containers/tree/master/mirrorremotely/charts/tree/master/charts/incubator/remotely
+- https://github.com/truecharts/charts/tree/master/charts/incubator/remotely
 - https://github.com/truecharts/containers/tree/master/mirrorremotely
 
 ## Available Documentation

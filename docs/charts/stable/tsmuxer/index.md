@@ -6,9 +6,8 @@ tsMuxer is a Transport Stream muxer.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/tsmuxer
 - https://github.com/jlesage/docker-tsmuxer
-- https://hub.docker.com/r/jlesage/tsmuxer/charts/tree/master/charts/stable/tsmuxer
+- https://github.com/truecharts/charts/tree/master/charts/stable/tsmuxer
 - https://hub.docker.com/r/jlesage/tsmuxer
 
 ## Available Documentation

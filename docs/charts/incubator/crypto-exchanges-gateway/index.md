@@ -6,10 +6,9 @@ Your gateway to the world of crypto
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorcrypto-exchanges-gateway/charts/tree/master/charts/incubator/crypto-exchanges-gateway
-- https://github.com/truecharts/containers/tree/master/mirrorcrypto-exchanges-gateway
-- https://github.com/truecharts/charts/tree/master/charts/incubator/crypto-exchanges-gateway
 - https://github.com/aloysius-pgast/crypto-exchanges-gateway
+- https://github.com/truecharts/charts/tree/master/charts/incubator/crypto-exchanges-gateway
+- https://github.com/truecharts/containers/tree/master/mirrorcrypto-exchanges-gateway
 
 ## Available Documentation
 

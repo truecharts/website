@@ -9,7 +9,6 @@ This Chart will download and install SteamCMD. It will also install PostScriptum
 - https://github.com/truecharts/charts/tree/master/charts/incubator/postscriptum
 - https://github.com/truecharts/containers/tree/master/mirrorpostscriptum
 - https://www.steampowered.com/
-- https://github.com/truecharts/containers/tree/master/mirrorpostscriptum/charts/tree/master/charts/incubator/postscriptum
 
 ## Available Documentation
 

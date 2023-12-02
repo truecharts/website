@@ -4,6 +4,7 @@
 
 
 
+
 ## [xwiki-8.1.0](https://github.com/truecharts/charts/compare/xwiki-8.0.24...xwiki-8.1.0) (2023-11-30)
 
 ### Chore

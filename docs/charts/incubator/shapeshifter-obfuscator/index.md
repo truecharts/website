@@ -7,9 +7,8 @@ Shapeshifter-Obfuscator is a Chartized implementation of shapeshifter-dispatcher
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/shapeshifter-obfuscator
-- https://github.com/juchong/shapeshifter-docker
-- https://github.com/truecharts/containers/tree/master/mirrorshapeshifter-obfuscator/charts/tree/master/charts/incubator/shapeshifter-obfuscator
 - https://github.com/truecharts/containers/tree/master/mirrorshapeshifter-obfuscator
+- https://github.com/juchong/shapeshifter-docker
 
 ## Available Documentation
 

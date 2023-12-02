@@ -7,7 +7,6 @@ Runs a python script at a crontab defined interval that downloads/imports ics fi
 ## Chart Sources
 
 - https://github.com/Vilhjalmr26/import_ics
-- https://github.com/truecharts/containers/tree/master/mirrorimport-ics/charts/tree/master/charts/incubator/import-ics
 - https://github.com/truecharts/charts/tree/master/charts/incubator/import-ics
 - https://github.com/truecharts/containers/tree/master/mirrorimport-ics
 

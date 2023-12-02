@@ -6,9 +6,8 @@ A self-hosted blogging platform in which posts are written in markdown
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/hexo-blog
 - https://github.com/fletchto99/hexo-dev-docker
-- https://github.com/truecharts/containers/tree/master/mirrorhexo-blog/charts/tree/master/charts/incubator/hexo-blog
+- https://github.com/truecharts/charts/tree/master/charts/incubator/hexo-blog
 - https://github.com/truecharts/containers/tree/master/mirrorhexo-blog
 
 ## Available Documentation

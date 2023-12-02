@@ -6,10 +6,9 @@ Krusader is an advanced orthodox file manager for KDE and other desktops in the 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/krusader
-- https://krusader.org/
-- https://github.com/truecharts/containers/tree/master/mirrorkrusader/charts/tree/master/charts/incubator/krusader
 - https://github.com/truecharts/containers/tree/master/mirrorkrusader
+- https://krusader.org/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/krusader
 
 ## Available Documentation
 

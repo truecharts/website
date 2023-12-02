@@ -7,9 +7,8 @@ Dashy helps you organize your self-hosted services by making them accessible fro
 ## Chart Sources
 
 - https://github.com/Lissy93/dashy
-- https://hub.docker.com/r/lissy93/dashy/charts/tree/master/charts/stable/dashy
-- https://hub.docker.com/r/lissy93/dashy
 - https://github.com/truecharts/charts/tree/master/charts/stable/dashy
+- https://hub.docker.com/r/lissy93/dashy
 
 ## Available Documentation
 

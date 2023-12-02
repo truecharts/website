@@ -6,9 +6,8 @@ A fast, collaborative, knowledge base for your team built using React and Node.j
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/outline
 - https://github.com/outline/outline
-- https://hub.docker.com/r/outlinewiki/outline/charts/tree/master/charts/stable/outline
+- https://github.com/truecharts/charts/tree/master/charts/stable/outline
 - https://hub.docker.com/r/outlinewiki/outline
 
 ## Available Documentation

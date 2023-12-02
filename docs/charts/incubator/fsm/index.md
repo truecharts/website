@@ -7,9 +7,8 @@
 ## Chart Sources
 
 - https://registry.hub.docker.com/r/ofsm/ofsm
-- https://github.com/truecharts/containers/tree/master/mirrorfsm/charts/tree/master/charts/incubator/fsm
-- https://github.com/truecharts/containers/tree/master/mirrorfsm
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fsm
+- https://github.com/truecharts/containers/tree/master/mirrorfsm
 
 ## Available Documentation
 

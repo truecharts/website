@@ -7,7 +7,6 @@ PWM is a free and opensource password self-service application enabling end-user
 ## Chart Sources
 
 - https://github.com/pwm-project/pwm
-- https://github.com/truecharts/containers/tree/master/mirrorpwm/charts/tree/master/charts/incubator/pwm
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pwm
 - https://github.com/truecharts/containers/tree/master/mirrorpwm
 

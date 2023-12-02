@@ -6,10 +6,9 @@ A Fast, Simple, and Flexible, file-based Web-platform.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/grav
 - https://github.com/linuxserver/docker-grav
 - https://github.com/getgrav/grav/
-- https://ghcr.io/linuxserver/grav/charts/tree/master/charts/stable/grav
+- https://github.com/truecharts/charts/tree/master/charts/stable/grav
 - https://ghcr.io/linuxserver/grav
 
 ## Available Documentation

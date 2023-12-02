@@ -6,9 +6,8 @@ Advanced tool to create your own TrueCharts-based App
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/jackett
 - https://github.com/truecharts/charts/tree/master/charts/stable/custom-app
-- https://ghcr.io/linuxserver/jackett/charts/tree/master/charts/stable/custom-app
+- https://ghcr.io/linuxserver/jackett
 
 ## Available Documentation
 

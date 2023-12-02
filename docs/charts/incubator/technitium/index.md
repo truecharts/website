@@ -6,10 +6,9 @@ Technitium DNS Server is an open source authoritative as well as recursive DNS s
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/technitium
 - https://github.com/TechnitiumSoftware/DnsServer
 - https://technitium.com/
-- https://github.com/truecharts/containers/tree/master/mirrortechnitium/charts/tree/master/charts/incubator/technitium
+- https://github.com/truecharts/charts/tree/master/charts/incubator/technitium
 - https://github.com/truecharts/containers/tree/master/mirrortechnitium
 
 ## Available Documentation

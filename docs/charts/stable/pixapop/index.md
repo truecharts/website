@@ -6,10 +6,9 @@ An open-source single page application to view your photos in the easiest way po
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/pixapop
 - https://github.com/linuxserver/docker-pixapop
 - https://github.com/bierdok/pixapop
-- https://ghcr.io/linuxserver/pixapop/charts/tree/master/charts/stable/pixapop
+- https://github.com/truecharts/charts/tree/master/charts/stable/pixapop
 - https://ghcr.io/linuxserver/pixapop
 
 ## Available Documentation

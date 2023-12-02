@@ -6,9 +6,8 @@ FacturaScripts is an accounting, billing and CRM program with it you can manage 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/facturascripts
 - https://facturascripts.com/
-- https://github.com/truecharts/containers/tree/master/mirrorfacturascripts/charts/tree/master/charts/incubator/facturascripts
+- https://github.com/truecharts/charts/tree/master/charts/incubator/facturascripts
 - https://github.com/truecharts/containers/tree/master/mirrorfacturascripts
 
 ## Available Documentation

@@ -7,7 +7,6 @@ A simple null file http and https server
 ## Chart Sources
 
 - https://github.com/bmrzycki/nullserv
-- https://ghcr.io/k8s-at-home/nullserv/charts/tree/master/charts/stable/nullserv
 - https://github.com/truecharts/charts/tree/master/charts/stable/nullserv
 - https://ghcr.io/k8s-at-home/nullserv
 

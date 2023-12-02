@@ -6,9 +6,8 @@ ScPrime is a cryptocurrency project targeting public cloud services with a block
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/scprime
 - https://scpri.me
-- https://github.com/truecharts/containers/tree/master/mirrorscprime/charts/tree/master/charts/incubator/scprime
+- https://github.com/truecharts/charts/tree/master/charts/incubator/scprime
 - https://github.com/truecharts/containers/tree/master/mirrorscprime
 
 ## Available Documentation

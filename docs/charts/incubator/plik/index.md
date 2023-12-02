@@ -7,9 +7,8 @@ A scalable file uploading system with multiple backends.
 ## Chart Sources
 
 - https://github.com/root-gg/plik
-- https://github.com/truecharts/containers/tree/master/mirrorplik/charts/tree/master/charts/incubator/plik
-- https://github.com/truecharts/containers/tree/master/mirrorplik
 - https://github.com/truecharts/charts/tree/master/charts/incubator/plik
+- https://github.com/truecharts/containers/tree/master/mirrorplik
 
 ## Available Documentation
 

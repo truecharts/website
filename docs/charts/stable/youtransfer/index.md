@@ -6,10 +6,9 @@ YouTransfer is a simple but elegant self-hosted file transfer sharing solution.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/youtransfer
-- https://github.com/YouTransfer/YouTransfer
-- https://hub.docker.com/r/remie/youtransfer/charts/tree/master/charts/stable/youtransfer
 - https://hub.docker.com/r/remie/youtransfer
+- https://github.com/YouTransfer/YouTransfer
+- https://github.com/truecharts/charts/tree/master/charts/stable/youtransfer
 
 ## Available Documentation
 

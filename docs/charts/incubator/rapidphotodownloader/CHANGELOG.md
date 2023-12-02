@@ -4,6 +4,7 @@
 
 
 
+
 ## [rapidphotodownloader-2.0.11](https://github.com/truecharts/charts/compare/rapidphotodownloader-3.0.0...rapidphotodownloader-2.0.11) (2023-11-18)
 
 ### Chore

@@ -6,9 +6,8 @@ Private Windows Activation Server for development and testing
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/kms
 - https://github.com/Py-KMS-Organization/py-kms
-- https://hub.docker.com/r/pykmsorg/py-kms/charts/tree/master/charts/stable/kms
+- https://github.com/truecharts/charts/tree/master/charts/stable/kms
 - https://hub.docker.com/r/pykmsorg/py-kms
 
 ## Available Documentation

@@ -6,9 +6,8 @@ CryptPad is the Zero Knowledge realtime collaborative editor.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/cryptpad
 - https://cryptpad.fr/
-- https://hub.docker.com/r/cryptpad/cryptpad/charts/tree/master/charts/incubator/cryptpad
+- https://github.com/truecharts/charts/tree/master/charts/incubator/cryptpad
 - https://hub.docker.com/r/cryptpad/cryptpad
 
 ## Available Documentation

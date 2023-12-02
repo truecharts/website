@@ -6,9 +6,8 @@ This Chart will download and install SteamCMD. It will also install DayZ and run
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/dayz
 - https://www.bohemia.net/games/dayz
-- https://github.com/truecharts/containers/tree/master/mirrordayz/charts/tree/master/charts/incubator/dayz
+- https://github.com/truecharts/charts/tree/master/charts/incubator/dayz
 - https://github.com/truecharts/containers/tree/master/mirrordayz
 
 ## Available Documentation
