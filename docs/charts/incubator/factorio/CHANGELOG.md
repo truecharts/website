@@ -8,6 +8,7 @@
 
 
 
+
 ## [factorio-4.1.6](https://github.com/truecharts/charts/compare/factorio-4.1.5...factorio-4.1.6) (2023-11-08)
 
 ### Chore

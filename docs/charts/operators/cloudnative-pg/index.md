@@ -6,10 +6,10 @@ CloudNativePG is a clustered postgresql database operator
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirroralpine
 - https://github.com/cloudnative-pg
 - https://cloudnative-pg.io/
 - https://github.com/truecharts/charts/tree/master/charts/operators/cloudnative-pg
-- https://github.com/truecharts/containers/tree/master/mirroralpine
 
 ## Available Documentation
 

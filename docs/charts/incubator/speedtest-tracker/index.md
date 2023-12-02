@@ -6,9 +6,9 @@ A self-hosted internet performance tracking application that runs speedtest chec
 
 ## Chart Sources
 
+- https://github.com/alexjustesen/speedtest-tracker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/speedtest-tracker
 - https://github.com/truecharts/containers/tree/master/mirrorspeedtest-tracker
-- https://github.com/alexjustesen/speedtest-tracker
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ Search Engine Position Tracking App.
 
 ## Chart Sources
 
+- https://github.com/towfiqi/serpbear
 - https://github.com/truecharts/charts/tree/master/charts/incubator/serpbear
 - https://github.com/truecharts/containers/tree/master/mirrorserpbear
-- https://github.com/towfiqi/serpbear
 
 ## Available Documentation
 

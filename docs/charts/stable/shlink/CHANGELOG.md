@@ -8,6 +8,7 @@
 
 
 
+
 ## [shlink-9.1.0](https://github.com/truecharts/charts/compare/shlink-9.0.10...shlink-9.1.0) (2023-11-26)
 
 ### Chore

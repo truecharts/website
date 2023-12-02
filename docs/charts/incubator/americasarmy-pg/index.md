@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install America's Ar
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirroramericasarmy-pg
 - https://www.americasarmy.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/americasarmy-pg
-- https://github.com/truecharts/containers/tree/master/mirroramericasarmy-pg
 
 ## Available Documentation
 

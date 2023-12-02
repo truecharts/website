@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install Avorion and 
 
 ## Chart Sources
 
+- https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/avorion
 - https://github.com/truecharts/containers/tree/master/mirroravorion
-- https://www.steampowered.com/
 
 ## Available Documentation
 

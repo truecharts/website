@@ -7,9 +7,9 @@ Plex to AniList Sync.
 ## Chart Sources
 
 - https://github.com/RickDB/PlexAniSync/pkgs/container/plexanisync
+- https://github.com/RickDB/PlexAniSync
 - https://github.com/truecharts/charts/tree/master/charts/stable/plexanisync
 - https://ghcr.io/rickdb/plexanisync
-- https://github.com/RickDB/PlexAniSync
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ DNS Chart service for a steam cache.
 
 ## Chart Sources
 
+- https://github.com/lancachenet/lancache-dns
 - https://github.com/truecharts/charts/tree/master/charts/stable/lancache-dns
 - https://hub.docker.com/r/lancachenet/lancache-dns
-- https://github.com/lancachenet/lancache-dns
 
 ## Available Documentation
 

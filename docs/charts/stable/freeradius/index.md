@@ -6,9 +6,9 @@ OpenSource Radius implementation
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/freeradius
 - https://github.com/truecharts/containers/tree/master/mirrorfreeradius
 - https://freeradius.org/
+- https://github.com/truecharts/charts/tree/master/charts/stable/freeradius
 
 ## Available Documentation
 

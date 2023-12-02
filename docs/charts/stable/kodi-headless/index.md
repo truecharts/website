@@ -6,8 +6,8 @@ A headless install of kodi in a docker container.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/linuxserver/kodi-headless
 - https://github.com/truecharts/charts/tree/master/charts/stable/kodi-headless
+- https://hub.docker.com/r/linuxserver/kodi-headless
 
 ## Available Documentation
 

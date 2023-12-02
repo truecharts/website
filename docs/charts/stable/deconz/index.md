@@ -7,9 +7,9 @@ deCONZ is an easy to use control software, with which you can set up and control
 ## Chart Sources
 
 - https://github.com/marthoc/docker-deconz
+- https://github.com/dresden-elektronik/deconz-rest-plugin
 - https://github.com/truecharts/charts/tree/master/charts/stable/deconz
 - https://hub.docker.com/r/deconzcommunity/deconz
-- https://github.com/dresden-elektronik/deconz-rest-plugin
 
 ## Available Documentation
 

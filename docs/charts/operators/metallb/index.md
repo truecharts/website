@@ -6,10 +6,10 @@ A network load-balancer implementation for Kubernetes using standard routing pro
 
 ## Chart Sources
 
-- https://metallb.universe.tf
-- https://github.com/truecharts/charts/tree/master/charts/operators/metallb
 - https://github.com/truecharts/containers/tree/master/mirroralpine
+- https://metallb.universe.tf
 - https://github.com/metallb/metallb
+- https://github.com/truecharts/charts/tree/master/charts/operators/metallb
 
 ## Available Documentation
 

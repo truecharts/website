@@ -8,6 +8,7 @@
 
 
 
+
 ## [putty-5.0.12](https://github.com/truecharts/charts/compare/putty-5.0.11...putty-5.0.12) (2023-11-20)
 
 ### Fix

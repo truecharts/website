@@ -6,10 +6,10 @@ The OwnTracks Recorder is a lightweight program for storing and accessing locati
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorowntracks
 - https://github.com/owntracks/recorder
 - https://github.com/owntracks/docker-recorder
 - https://github.com/truecharts/charts/tree/master/charts/incubator/owntracks
+- https://github.com/truecharts/containers/tree/master/mirrorowntracks
 
 ## Available Documentation
 

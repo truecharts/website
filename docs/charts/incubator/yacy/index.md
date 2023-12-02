@@ -6,9 +6,9 @@ YaCy decentralized search engine (https://yacy.net)
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirroryacy
 - https://yacy.net/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/yacy
-- https://github.com/truecharts/containers/tree/master/mirroryacy
 
 ## Available Documentation
 

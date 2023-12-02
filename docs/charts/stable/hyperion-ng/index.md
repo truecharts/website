@@ -6,9 +6,9 @@ Hyperion is an opensource Bias or Ambient Lighting implementation
 
 ## Chart Sources
 
+- https://hub.docker.com/r/sirfragalot/hyperion.ng
 - https://github.com/hyperion-project/hyperion.ng
 - https://github.com/truecharts/charts/tree/master/charts/stable/hyperion-ng
-- https://hub.docker.com/r/sirfragalot/hyperion.ng
 
 ## Available Documentation
 

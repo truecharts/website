@@ -6,9 +6,9 @@ A monolithic lancache service capable of caching all CDNs in a single instance.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/lancachenet/monolithic
 - https://github.com/lancachenet/monolithic
 - https://github.com/truecharts/charts/tree/master/charts/stable/lancache-monolithic
-- https://hub.docker.com/r/lancachenet/monolithic
 
 ## Available Documentation
 

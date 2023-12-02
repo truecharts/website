@@ -6,11 +6,11 @@ Docspell is a personal document organizer.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/docspell
 - https://github.com/truecharts/containers/tree/master/mirrordocspell-server
 - https://github.com/eikek/docspell
 - https://docspell.org/docs/install/docker/
 - https://docspell.org/docs/configure/defaults/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/docspell
 
 ## Available Documentation
 

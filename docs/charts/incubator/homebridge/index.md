@@ -6,9 +6,9 @@ A lightweight NodeJS server that emulates the iOS HomeKit API
 
 ## Chart Sources
 
-- https://github.com/oznu/docker-homebridge
 - https://github.com/truecharts/charts/tree/master/charts/incubator/homebridge
 - https://github.com/truecharts/containers/tree/master/mirrorhomebridge
+- https://github.com/oznu/docker-homebridge
 - https://homebridge.io/
 
 ## Available Documentation

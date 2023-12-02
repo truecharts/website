@@ -6,9 +6,9 @@ Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/tsightler/ring-mqtt
 - https://github.com/tsightler/ring-mqtt
 - https://github.com/truecharts/charts/tree/master/charts/stable/ring-mqtt
-- https://hub.docker.com/r/tsightler/ring-mqtt
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ Snippet Box is a simple self-hosted app for organizing your code snippets.
 
 ## Chart Sources
 
+- https://github.com/pawelmalak/snippet-box
 - https://github.com/truecharts/charts/tree/master/charts/stable/snippet-box
 - https://hub.docker.com/r/pawelmalak/snippet-box
-- https://github.com/pawelmalak/snippet-box
 
 ## Available Documentation
 

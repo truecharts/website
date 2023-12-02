@@ -6,9 +6,9 @@ Open Source design and prototyping platform.
 
 ## Chart Sources
 
-- https://github.com/penpot/penpot
 - https://github.com/truecharts/charts/tree/master/charts/incubator/penpot
 - https://github.com/truecharts/containers/tree/master/mirrorpenpot-frontend
+- https://github.com/penpot/penpot
 
 ## Available Documentation
 

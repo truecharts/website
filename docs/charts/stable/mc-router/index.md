@@ -6,9 +6,9 @@ Lightweight multiplexer/proxy for Minecraft-Java servers.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/mc-router
 - https://hub.docker.com/r/itzg/mc-router
 - https://github.com/itzg/mc-router
+- https://github.com/truecharts/charts/tree/master/charts/stable/mc-router
 
 ## Available Documentation
 

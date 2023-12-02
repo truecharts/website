@@ -6,10 +6,10 @@ JFrog’s Artifactory open source project was created to speed up development cy
 
 ## Chart Sources
 
-- https://jfrog.com/
-- https://registry.hub.docker.com/r/docker.bintray.io/jfrog/artifactory-oss
 - https://github.com/truecharts/charts/tree/master/charts/incubator/artifactory-oss
 - https://github.com/truecharts/containers/tree/master/mirrorartifactory-oss
+- https://jfrog.com/
+- https://registry.hub.docker.com/r/docker.bintray.io/jfrog/artifactory-oss
 
 ## Available Documentation
 

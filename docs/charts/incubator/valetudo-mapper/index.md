@@ -6,9 +6,9 @@ Valetudo-RE companion service for generating PNG maps.
 
 ## Chart Sources
 
+- https://github.com/rand256/valetudo-mapper
 - https://github.com/truecharts/charts/tree/master/charts/incubator/valetudo-mapper
 - https://github.com/truecharts/containers/tree/master/mirrorvaletudo-mapper
-- https://github.com/rand256/valetudo-mapper
 
 ## Available Documentation
 

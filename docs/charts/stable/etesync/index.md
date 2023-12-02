@@ -6,11 +6,11 @@ Secure, end-to-end encrypted, and privacy respecting sync for your contacts, cal
 
 ## Chart Sources
 
-- https://github.com/etesync
-- https://github.com/truecharts/charts/tree/master/charts/stable/etesync
-- https://hub.docker.com/r/victorrds/etesync
 - https://github.com/victor-rds/docker-etebase
 - https://www.etesync.com/
+- https://github.com/truecharts/charts/tree/master/charts/stable/etesync
+- https://hub.docker.com/r/victorrds/etesync
+- https://github.com/etesync
 
 ## Available Documentation
 

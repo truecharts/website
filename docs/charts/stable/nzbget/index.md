@@ -6,9 +6,9 @@ NZBGet is a Usenet downloader client
 
 ## Chart Sources
 
-- https://nzbget.net/
 - https://github.com/truecharts/charts/tree/master/charts/stable/nzbget
 - https://ghcr.io/geek-cookbook/nzbget
+- https://nzbget.net/
 
 ## Available Documentation
 

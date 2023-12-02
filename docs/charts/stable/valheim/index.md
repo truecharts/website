@@ -6,9 +6,9 @@ Valheim dedicated gameserver with automatic update and world backup support
 
 ## Chart Sources
 
-- https://github.com/lloesche/valheim-server-docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/valheim
 - https://ghcr.io/lloesche/valheim-server
+- https://github.com/lloesche/valheim-server-docker
 
 ## Available Documentation
 

@@ -6,8 +6,8 @@ Like to maintain your own data? Automatically backup your github account to your
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorgithub-backup
 - https://github.com/truecharts/charts/tree/master/charts/incubator/github-backup
+- https://github.com/truecharts/containers/tree/master/mirrorgithub-backup
 
 ## Available Documentation
 

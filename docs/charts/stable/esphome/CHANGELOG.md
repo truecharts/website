@@ -8,6 +8,7 @@
 
 
 
+
 ## [esphome-15.0.28](https://github.com/truecharts/charts/compare/esphome-15.0.27...esphome-15.0.28) (2023-11-30)
 
 ### Chore

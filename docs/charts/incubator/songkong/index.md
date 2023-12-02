@@ -6,8 +6,8 @@ Official SongKong Chart repository, Identify your songs and add metadata and art
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorsongkong
 - https://github.com/truecharts/charts/tree/master/charts/incubator/songkong
+- https://github.com/truecharts/containers/tree/master/mirrorsongkong
 
 ## Available Documentation
 

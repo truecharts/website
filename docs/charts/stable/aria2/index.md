@@ -6,9 +6,9 @@ aria server for downloading web content
 
 ## Chart Sources
 
-- https://github.com/P3TERX/Aria2-Pro-Docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/aria2
 - https://hub.docker.com/r/p3terx/aria2-pro
+- https://github.com/P3TERX/Aria2-Pro-Docker
 
 ## Available Documentation
 

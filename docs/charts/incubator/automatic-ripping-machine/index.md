@@ -6,9 +6,9 @@ Automatic Ripping Machine (ARM) Scripts.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorautomatic-ripping-machine
 - https://github.com/automatic-ripping-machine/automatic-ripping-machine
 - https://github.com/truecharts/charts/tree/master/charts/incubator/automatic-ripping-machine
+- https://github.com/truecharts/containers/tree/master/mirrorautomatic-ripping-machine
 
 ## Available Documentation
 

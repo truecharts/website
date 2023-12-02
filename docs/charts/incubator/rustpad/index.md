@@ -6,9 +6,9 @@ Rustpad is an efficient and minimal open-source collaborative text editor based 
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorrustpad
 - https://github.com/ekzhang/rustpad
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rustpad
+- https://github.com/truecharts/containers/tree/master/mirrorrustpad
 
 ## Available Documentation
 

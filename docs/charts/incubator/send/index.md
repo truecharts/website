@@ -6,9 +6,9 @@ A fork of Mozilla's Firefox Send.Mozilla discontinued Send, this fork is a commu
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/incubator/send
 - https://github.com/truecharts/containers/tree/master/mirrorsend
 - https://gitlab.com/timvisee/send
-- https://github.com/truecharts/charts/tree/master/charts/incubator/send
 
 ## Available Documentation
 

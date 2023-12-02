@@ -6,8 +6,8 @@ Multi-arch tar1090 Chart for visualising ADSB data.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrortar1090
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tar1090
+- https://github.com/truecharts/containers/tree/master/mirrortar1090
 
 ## Available Documentation
 

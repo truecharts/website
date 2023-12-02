@@ -7,9 +7,9 @@ Chart Chart with Fast.com CLI sending data directly to MQTT Broker
 
 ## Chart Sources
 
-- https://github.com/simonjenny/fastcom-mqtt
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fastcom-mqtt
 - https://github.com/truecharts/containers/tree/master/mirrorfastcom-mqtt
+- https://github.com/simonjenny/fastcom-mqtt
 
 ## Available Documentation
 

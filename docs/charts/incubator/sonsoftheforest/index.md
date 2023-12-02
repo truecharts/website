@@ -6,9 +6,9 @@ A custom SteamCMD chart that runs Sons Of The Forest Server.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorsonsoftheforest
 - https://github.com/ich777/docker-steamcmd-server/tree/sonsoftheforest
 - https://github.com/truecharts/charts/tree/master/charts/incubator/sonsoftheforest
-- https://github.com/truecharts/containers/tree/master/mirrorsonsoftheforest
 
 ## Available Documentation
 

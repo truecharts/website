@@ -6,10 +6,10 @@ A real-time collaborative editor scalable to thousands of simultaneous real time
 
 ## Chart Sources
 
-- https://etherpad.org/
-- https://github.com/ether/etherpad-lite
 - https://github.com/truecharts/charts/tree/master/charts/stable/etherpad
 - https://ghcr.io/nicholaswilde/etherpad
+- https://etherpad.org/
+- https://github.com/ether/etherpad-lite
 
 ## Available Documentation
 

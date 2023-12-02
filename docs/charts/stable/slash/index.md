@@ -6,9 +6,9 @@ A bookmarking and link shortening service that enables easy saving and sharing o
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/slash
 - https://hub.docker.com/r/yourselfhosted/slash
 - https://github.com/boojack/slash
+- https://github.com/truecharts/charts/tree/master/charts/stable/slash
 
 ## Available Documentation
 

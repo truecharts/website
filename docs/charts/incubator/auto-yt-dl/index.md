@@ -6,9 +6,9 @@ auto-yt-dl is used to automatically download new Videos of specific YouTube Chan
 
 ## Chart Sources
 
-- https://github.com/xXGuhuXx/auto-yt-dl
 - https://github.com/truecharts/charts/tree/master/charts/incubator/auto-yt-dl
 - https://github.com/truecharts/containers/tree/master/mirrorauto-yt-dl
+- https://github.com/xXGuhuXx/auto-yt-dl
 
 ## Available Documentation
 

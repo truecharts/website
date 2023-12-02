@@ -6,9 +6,9 @@ Booksonic is a platform for accessing the audibooks you own wherever you are
 
 ## Chart Sources
 
-- https://github.com/popeen/Booksonic-Air
 - https://github.com/truecharts/charts/tree/master/charts/stable/booksonic-air
 - https://ghcr.io/linuxserver/booksonic-air
+- https://github.com/popeen/Booksonic-Air
 
 ## Available Documentation
 

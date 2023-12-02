@@ -6,9 +6,9 @@ a free and open-source web browser developed by the Mozilla Foundation and its s
 
 ## Chart Sources
 
+- https://ghcr.io/linuxserver/firefox
 - https://github.com/linuxserver/docker-firefox
 - https://github.com/truecharts/charts/tree/master/charts/stable/firefox
-- https://ghcr.io/linuxserver/firefox
 
 ## Available Documentation
 

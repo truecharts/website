@@ -6,8 +6,8 @@ CUPS printing server
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/cups-server
 - https://github.com/truecharts/containers/tree/master/mirrorcups-server
+- https://github.com/truecharts/charts/tree/master/charts/incubator/cups-server
 
 ## Available Documentation
 

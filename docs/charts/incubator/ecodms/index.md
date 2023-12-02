@@ -6,9 +6,9 @@ ecoDMS 18.09 (apu) Full Installation - Document Management System (DMS) - Audit-
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorecodms
 - https://www.ecodms.de/index.php/en/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ecodms
-- https://github.com/truecharts/containers/tree/master/mirrorecodms
 
 ## Available Documentation
 
