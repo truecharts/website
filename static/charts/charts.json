@@ -201,7 +201,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/autobrr",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/autobrr.png",
-                    "version": "5.0.12"
+                    "version": "5.1.0"
                 },
                 {
                     "name": "automatic-music-downloader",
@@ -609,7 +609,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/docker",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/docker.png",
-                    "version": "1.0.3"
+                    "version": "1.0.4"
                 },
                 {
                     "name": "docusaurus",
@@ -1145,7 +1145,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/invidious",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/invidious.png",
-                    "version": "6.0.22"
+                    "version": "6.0.23"
                 },
                 {
                     "name": "ipfs",
@@ -1385,7 +1385,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/libremdb",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/libremdb.png",
-                    "version": "3.0.312"
+                    "version": "3.0.314"
                 },
                 {
                     "name": "librespeed",
@@ -1425,7 +1425,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/littlelink",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/littlelink.png",
-                    "version": "10.0.44"
+                    "version": "10.0.45"
                 },
                 {
                     "name": "lldap",
@@ -1449,7 +1449,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/logitech-media-server",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/logitech-media-server.png",
-                    "version": "8.0.19"
+                    "version": "8.0.20"
                 },
                 {
                     "name": "makemkv",
@@ -1497,7 +1497,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mediainfo",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mediainfo.png",
-                    "version": "5.0.13"
+                    "version": "5.1.0"
                 },
                 {
                     "name": "medusa",
@@ -1529,7 +1529,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/metabase",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/metabase.png",
-                    "version": "0.0.17"
+                    "version": "0.0.18"
                 },
                 {
                     "name": "metube",
@@ -1649,7 +1649,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/mosquitto",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/mosquitto.png",
-                    "version": "11.0.15"
+                    "version": "11.0.16"
                 },
                 {
                     "name": "mstream",
@@ -1713,7 +1713,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/n8n",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/n8n.png",
-                    "version": "9.1.31"
+                    "version": "9.2.0"
                 },
                 {
                     "name": "nano-wallet",
@@ -1745,7 +1745,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/nextcloud",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png",
-                    "version": "22.2.10"
+                    "version": "22.2.12"
                 },
                 {
                     "name": "nextpvr",
@@ -2297,7 +2297,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rdesktop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rdesktop.png",
-                    "version": "5.0.154"
+                    "version": "5.0.155"
                 },
                 {
                     "name": "rdtclient",
@@ -2425,7 +2425,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/rsshub",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/rsshub.png",
-                    "version": "8.0.280"
+                    "version": "8.0.281"
                 },
                 {
                     "name": "rtorrent-rutorrent",
@@ -3033,7 +3033,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/webtop",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/webtop.png",
-                    "version": "6.0.190"
+                    "version": "6.0.191"
                 },
                 {
                     "name": "wekan",
@@ -3201,7 +3201,7 @@
                     "train": "stable",
                     "link": "https://truecharts.org/charts/stable/zwavejs2mqtt",
                     "icon": "https://truecharts.org/img/hotlink-ok/chart-icons/zwavejs2mqtt.png",
-                    "version": "16.2.0"
+                    "version": "16.2.1"
                 }
             ]
         },
