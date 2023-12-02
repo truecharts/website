@@ -6,9 +6,9 @@ ZeroTier network controller user interface in a Docker container
 
 ## Chart Sources
 
-- https://github.com/key-networks/ztncui-aio
 - https://github.com/truecharts/charts/tree/master/charts/stable/ztcuui-aio
 - https://hub.docker.com/r/keynetworks/ztncui
+- https://github.com/key-networks/ztncui-aio
 
 ## Available Documentation
 

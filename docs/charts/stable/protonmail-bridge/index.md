@@ -6,9 +6,9 @@ ProtonMail IMAP/SMTP Bridge to work on the network.
 
 ## Chart Sources
 
+- https://github.com/shenxn/protonmail-bridge-docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/protonmail-bridge
 - https://hub.docker.com/r/shenxn/protonmail-bridge
-- https://github.com/shenxn/protonmail-bridge-docker
 
 ## Available Documentation
 

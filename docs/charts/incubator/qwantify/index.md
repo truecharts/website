@@ -6,9 +6,9 @@ Play games with your friends right from the browser.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorqwantify
 - https://github.com/wanjohiryan/qwantify
 - https://github.com/truecharts/charts/tree/master/charts/incubator/qwantify
+- https://github.com/truecharts/containers/tree/master/mirrorqwantify
 
 ## Available Documentation
 

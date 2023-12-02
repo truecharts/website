@@ -6,9 +6,9 @@ FUSE file system for reading RAR archives.
 
 ## Chart Sources
 
-- https://ghcr.io/zimme/rar2fs
 - https://github.com/zimme/docker-rar2fs
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rar2fs
+- https://ghcr.io/zimme/rar2fs
 
 ## Available Documentation
 

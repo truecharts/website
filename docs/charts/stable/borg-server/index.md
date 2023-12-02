@@ -6,9 +6,9 @@ A borg Backup server
 
 ## Chart Sources
 
-- https://ghcr.io/anotherstranger/borg-server
 - https://github.com/AnotherStranger/docker-borg-backup
 - https://github.com/truecharts/charts/tree/master/charts/stable/borg-server
+- https://ghcr.io/anotherstranger/borg-server
 
 ## Available Documentation
 

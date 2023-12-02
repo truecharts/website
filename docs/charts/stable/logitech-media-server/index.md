@@ -6,9 +6,9 @@ Logitech Media Server is a platform for home/office audio streaming.
 
 ## Chart Sources
 
+- https://github.com/Logitech/slimserver
 - https://github.com/truecharts/charts/tree/master/charts/stable/logitech-media-server
 - https://hub.docker.com/r/lmscommunity/logitechmediaserver
-- https://github.com/Logitech/slimserver
 
 ## Available Documentation
 

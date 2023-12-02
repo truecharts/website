@@ -6,9 +6,9 @@ Reliable and Performant File Sync and Share Solution
 
 ## Chart Sources
 
-- https://hub.docker.com/r/seafileltd/seafile-mc
 - https://seafile.com
 - https://github.com/truecharts/charts/tree/master/charts/stable/seafile
+- https://hub.docker.com/r/seafileltd/seafile-mc
 
 ## Available Documentation
 

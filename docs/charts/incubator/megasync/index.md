@@ -6,9 +6,9 @@ MEGAsync can synchronize all of your devices with your MEGA account.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrormegasync
 - https://github.com/ich777/docker-megasync
 - https://github.com/truecharts/charts/tree/master/charts/incubator/megasync
-- https://github.com/truecharts/containers/tree/master/mirrormegasync
 
 ## Available Documentation
 

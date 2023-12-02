@@ -6,10 +6,10 @@ An Automatic Video Library Manager for TV Shows
 
 ## Chart Sources
 
-- https://github.com/linuxserver/docker-sickchill
-- https://github.com/SickChill/SickChill
 - https://github.com/truecharts/charts/tree/master/charts/stable/sickchill
 - https://ghcr.io/linuxserver/sickchill
+- https://github.com/linuxserver/docker-sickchill
+- https://github.com/SickChill/SickChill
 
 ## Available Documentation
 

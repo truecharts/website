@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install Counter-Stri
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorcssource
 - https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/cssource
-- https://github.com/truecharts/containers/tree/master/mirrorcssource
 
 ## Available Documentation
 

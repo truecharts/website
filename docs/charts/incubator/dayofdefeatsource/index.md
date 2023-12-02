@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install Day of Defea
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrordayofdefeatsource
 - https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dayofdefeatsource
+- https://github.com/truecharts/containers/tree/master/mirrordayofdefeatsource
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ This Chart will download and install Thunderbird in the preferred version and la
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorthunderbird
 - https://www.thunderbird.net/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/thunderbird
+- https://github.com/truecharts/containers/tree/master/mirrorthunderbird
 
 ## Available Documentation
 

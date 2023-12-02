@@ -6,9 +6,9 @@ Typecho is a PHP Blogging Platform.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrortypecho
 - https://github.com/typecho/typecho
 - https://github.com/truecharts/charts/tree/master/charts/incubator/typecho
+- https://github.com/truecharts/containers/tree/master/mirrortypecho
 
 ## Available Documentation
 

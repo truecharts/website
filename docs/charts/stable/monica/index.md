@@ -6,9 +6,9 @@ Monica is a great open source personal relationship management system.
 
 ## Chart Sources
 
+- https://github.com/monicahq/monica
 - https://github.com/truecharts/charts/tree/master/charts/stable/monica
 - https://hub.docker.com/_/monica
-- https://github.com/monicahq/monica
 
 ## Available Documentation
 

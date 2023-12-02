@@ -6,10 +6,10 @@ Automate Cloudflare DNS records for those with a dynamic IP.
 
 ## Chart Sources
 
+- https://github.com/hotio/cloudflareddns
+- https://hotio.dev/containers/cloudflareddns/
 - https://github.com/truecharts/charts/tree/master/charts/stable/cloudflareddns
 - https://ghcr.io/hotio/cloudflareddns
-- https://hotio.dev/containers/cloudflareddns/
-- https://github.com/hotio/cloudflareddns
 
 ## Available Documentation
 

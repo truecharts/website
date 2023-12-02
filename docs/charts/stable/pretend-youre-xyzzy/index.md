@@ -6,8 +6,8 @@ pretend-youre-xyzzy, a cards against humanity clone
 
 ## Chart Sources
 
-- https://github.com/emcniece/DockerYourXyzzy
 - https://github.com/ajanata/PretendYoureXyzzy
+- https://github.com/emcniece/DockerYourXyzzy
 - https://github.com/truecharts/charts/tree/master/charts/stable/pretend-youre-xyzzy
 - https://hub.docker.com/r/emcniece/dockeryourxyzzy
 

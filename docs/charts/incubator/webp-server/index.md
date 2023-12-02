@@ -6,9 +6,9 @@ This is a Server based on Golang, which allows you to serve WebP images on the f
 
 ## Chart Sources
 
+- https://github.com/webp-sh/webp_server_go
 - https://github.com/truecharts/charts/tree/master/charts/incubator/webp-server
 - https://github.com/truecharts/containers/tree/master/mirrorwebp-server
-- https://github.com/webp-sh/webp_server_go
 
 ## Available Documentation
 

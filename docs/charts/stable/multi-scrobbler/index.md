@@ -6,8 +6,8 @@ Track your music listening history from many sources and record to many scrobble
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrormulti-scrobbler
 - https://github.com/truecharts/charts/tree/master/charts/stable/multi-scrobbler
+- https://github.com/truecharts/containers/tree/master/mirrormulti-scrobbler
 
 ## Available Documentation
 

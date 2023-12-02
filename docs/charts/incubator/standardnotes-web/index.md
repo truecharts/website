@@ -6,9 +6,9 @@ A safe and private place for your life's work.
 
 ## Chart Sources
 
-- https://standardnotes.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/standardnotes-web
 - https://github.com/truecharts/containers/tree/master/mirrorstandardnotes-web
+- https://standardnotes.org/
 
 ## Available Documentation
 

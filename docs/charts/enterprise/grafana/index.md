@@ -6,10 +6,10 @@ Grafana is an open source, feature rich metrics dashboard and graph editor for G
 
 ## Chart Sources
 
+- https://github.com/bitnami/bitnami-docker-grafana
 - https://grafana.com/
 - https://github.com/truecharts/charts/tree/master/charts/enterprise/grafana
 - https://hub.docker.com/r/bitnami/grafana
-- https://github.com/bitnami/bitnami-docker-grafana
 
 ## Available Documentation
 

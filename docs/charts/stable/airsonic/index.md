@@ -6,9 +6,9 @@ Airsonic is a Free and Open Source community driven media server
 
 ## Chart Sources
 
-- https://github.com/k8s-at-home/charts/tree/master/charts/airsonic
 - https://github.com/airsonic/airsonic
 - https://github.com/linuxserver/docker-airsonic
+- https://github.com/k8s-at-home/charts/tree/master/charts/airsonic
 - https://github.com/truecharts/charts/tree/master/charts/stable/airsonic
 - https://ghcr.io/linuxserver/airsonic
 

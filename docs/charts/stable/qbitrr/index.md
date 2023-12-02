@@ -6,9 +6,9 @@ A simple script to monitor qBit and communicate with Radarr and Sonarr.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/feramance/qbitrr
 - https://github.com/Feramance/Qbitrr
 - https://github.com/truecharts/charts/tree/master/charts/stable/qbitrr
+- https://hub.docker.com/r/feramance/qbitrr
 
 ## Available Documentation
 

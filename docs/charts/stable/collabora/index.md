@@ -6,9 +6,9 @@ An awesome, Online Office suite image suitable for home use.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/collabora/code
 - https://github.com/CollaboraOnline/online
 - https://github.com/truecharts/charts/tree/master/charts/stable/collabora
+- https://hub.docker.com/r/collabora/code
 
 ## Available Documentation
 

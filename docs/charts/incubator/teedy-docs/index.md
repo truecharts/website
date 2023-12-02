@@ -6,9 +6,9 @@ Teedy is an open-source, lightweight document management system (DMS) for indivi
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorteedy-docs
 - https://github.com/sismics/docs
 - https://github.com/truecharts/charts/tree/master/charts/incubator/teedy-docs
+- https://github.com/truecharts/containers/tree/master/mirrorteedy-docs
 
 ## Available Documentation
 

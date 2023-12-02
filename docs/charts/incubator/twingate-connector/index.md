@@ -6,9 +6,9 @@ Twingate is remote access for the modern world.
 
 ## Chart Sources
 
-- https://www.twingate.com/docs/connector-deployment
 - https://github.com/truecharts/charts/tree/master/charts/incubator/twingate-connector
 - https://github.com/truecharts/containers/tree/master/mirrortwingate-connector
+- https://www.twingate.com/docs/connector-deployment
 
 ## Available Documentation
 

@@ -6,8 +6,8 @@ DVBLink need to enjoy your favorite channels and recordings within your home net
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrordvblink
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dvblink
+- https://github.com/truecharts/containers/tree/master/mirrordvblink
 
 ## Available Documentation
 

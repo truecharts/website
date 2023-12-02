@@ -6,10 +6,10 @@ A remote desktop client written in GTK
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/remmina
 - https://github.com/linuxserver/docker-remmina
 - https://remmina.org/
 - https://github.com/truecharts/charts/tree/master/charts/stable/remmina
+- https://ghcr.io/linuxserver/remmina
 
 ## Available Documentation
 

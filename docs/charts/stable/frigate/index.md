@@ -6,8 +6,8 @@ NVR With Realtime Object Detection for IP Cameras
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/frigate
 - https://github.com/blakeblackshear/frigate
+- https://github.com/truecharts/charts/tree/master/charts/stable/frigate
 - https://ghcr.io/blakeblackshear/frigate
 
 ## Available Documentation

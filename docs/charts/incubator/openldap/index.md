@@ -7,9 +7,9 @@ Community developed LDAP software
 ## Chart Sources
 
 - https://github.com/jp-gouin/helm-openldap
+- https://github.com/osixia/docker-openldap
 - https://github.com/truecharts/charts/tree/master/charts/incubator/openldap
 - https://github.com/truecharts/containers/tree/master/mirroropenldap
-- https://github.com/osixia/docker-openldap
 
 ## Available Documentation
 

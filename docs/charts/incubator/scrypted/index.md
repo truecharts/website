@@ -6,9 +6,9 @@ Scrypted is a high performance home video integration and automation platform.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorscrypted-thin
 - https://github.com/koush/scrypted
 - https://github.com/truecharts/charts/tree/master/charts/incubator/scrypted
-- https://github.com/truecharts/containers/tree/master/mirrorscrypted-thin
 
 ## Available Documentation
 

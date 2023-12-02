@@ -5,6 +5,7 @@
 
 
 
+
 ## [external-service-10.0.12](https://github.com/truecharts/charts/compare/external-service-10.0.11...external-service-10.0.12) (2023-12-01)
 
 ### Chore

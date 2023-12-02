@@ -6,9 +6,9 @@ WireGuard-based VPN server and egress firewall
 
 ## Chart Sources
 
-- https://hub.docker.com/r/firezone/firezone
 - https://github.com/firezone/firezone
 - https://github.com/truecharts/charts/tree/master/charts/stable/firezone
+- https://hub.docker.com/r/firezone/firezone
 
 ## Available Documentation
 

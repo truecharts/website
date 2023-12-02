@@ -7,8 +7,8 @@
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/cloudcommander
 - https://github.com/truecharts/containers/tree/master/mirrorcloudcommander
+- https://github.com/truecharts/charts/tree/master/charts/incubator/cloudcommander
 
 ## Available Documentation
 

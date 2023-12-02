@@ -6,9 +6,9 @@ A web client for Reddit
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrortroddit
 - https://github.com/burhan-syed/troddit
 - https://github.com/truecharts/charts/tree/master/charts/incubator/troddit
+- https://github.com/truecharts/containers/tree/master/mirrortroddit
 
 ## Available Documentation
 

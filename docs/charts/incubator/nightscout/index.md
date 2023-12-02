@@ -7,9 +7,9 @@ Allows the installation of Nightscout, a remote CGM monitoring system. It allows
 ## Chart Sources
 
 - https://github.com/nightscout/cgm-remote-monitor
+- https://registry.hub.docker.com/r/nightscout/cgm-remote-monitor-travis
 - https://github.com/truecharts/charts/tree/master/charts/incubator/nightscout
 - https://github.com/truecharts/containers/tree/master/mirrornightscout
-- https://registry.hub.docker.com/r/nightscout/cgm-remote-monitor-travis
 
 ## Available Documentation
 

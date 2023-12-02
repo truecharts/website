@@ -6,9 +6,9 @@ Technitium DNS Server is an open source tool that can be used for self hosting a
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorts-dnsserver
 - https://github.com/TechnitiumSoftware/DnsServer
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ts-dnsserver
+- https://github.com/truecharts/containers/tree/master/mirrorts-dnsserver
 
 ## Available Documentation
 

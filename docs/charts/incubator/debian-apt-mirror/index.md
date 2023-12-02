@@ -6,9 +6,9 @@ This Chart will run apt-mirror and Apache2. This allows you to create a local ap
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrordebian-apt-mirror
 - https://www.debian.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/debian-apt-mirror
+- https://github.com/truecharts/containers/tree/master/mirrordebian-apt-mirror
 
 ## Available Documentation
 

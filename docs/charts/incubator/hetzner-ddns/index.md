@@ -6,9 +6,9 @@ This Chart will allow you to use the Hetzner DNS Service (https://www.hetzner.co
 
 ## Chart Sources
 
-- https://github.com/kutzilla/docker-hetzner-ddns
 - https://github.com/truecharts/charts/tree/master/charts/incubator/hetzner-ddns
 - https://github.com/truecharts/containers/tree/master/mirrorhetzner-ddns
+- https://github.com/kutzilla/docker-hetzner-ddns
 
 ## Available Documentation
 

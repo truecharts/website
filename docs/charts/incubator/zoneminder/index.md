@@ -6,9 +6,9 @@ Zoneminder is the top Linux video camera security and surveillance solution.
 
 ## Chart Sources
 
+- https://zoneminder.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/zoneminder
 - https://github.com/truecharts/containers/tree/master/mirrorzoneminder
-- https://zoneminder.com/
 
 ## Available Documentation
 

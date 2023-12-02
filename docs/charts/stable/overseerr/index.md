@@ -6,9 +6,9 @@ Overseerr is a free and open source software application for managing requests f
 
 ## Chart Sources
 
+- https://github.com/sct/overseerr
 - https://github.com/truecharts/charts/tree/master/charts/stable/overseerr
 - https://ghcr.io/sct/overseerr
-- https://github.com/sct/overseerr
 
 ## Available Documentation
 

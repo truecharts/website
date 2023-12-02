@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install CoreKeeper a
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorcorekeeper
 - https://steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/corekeeper
+- https://github.com/truecharts/containers/tree/master/mirrorcorekeeper
 
 ## Available Documentation
 

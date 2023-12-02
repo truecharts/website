@@ -6,9 +6,9 @@ Gaps searches through your Plex Server or local folders for all movies, then que
 
 ## Chart Sources
 
-- https://hub.docker.com/r/housewrecker/gaps
 - https://github.com/JasonHHouse/gaps
 - https://github.com/truecharts/charts/tree/master/charts/stable/gaps
+- https://hub.docker.com/r/housewrecker/gaps
 
 ## Available Documentation
 

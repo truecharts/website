@@ -6,9 +6,9 @@ This Chart will download and install the preferred version of Xonotic.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorxonotic
 - https://www.xonotic.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/xonotic
-- https://github.com/truecharts/containers/tree/master/mirrorxonotic
 
 ## Available Documentation
 

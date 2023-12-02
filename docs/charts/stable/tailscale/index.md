@@ -6,9 +6,9 @@ Tailscale lets you connect your devices and users together in your own secure vi
 
 ## Chart Sources
 
-- https://hub.docker.com/r/tailscale/tailscale
 - https://github.com/tailscale/tailscale/blob/main/docs/k8s/run.sh
 - https://github.com/truecharts/charts/tree/master/charts/stable/tailscale
+- https://hub.docker.com/r/tailscale/tailscale
 
 ## Available Documentation
 

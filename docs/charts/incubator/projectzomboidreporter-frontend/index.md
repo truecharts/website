@@ -6,9 +6,9 @@ This is the frontend template used in the Project Zomboid Reporter. All visuals 
 
 ## Chart Sources
 
-- https://github.com/ChrisAshtear/Zomboid-Server-Stats-Reporter/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/projectzomboidreporter-frontend
 - https://github.com/truecharts/containers/tree/master/mirrorprojectzomboidreporter-frontend
+- https://github.com/ChrisAshtear/Zomboid-Server-Stats-Reporter/
 
 ## Available Documentation
 

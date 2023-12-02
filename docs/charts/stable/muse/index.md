@@ -6,9 +6,9 @@ A self-hosted midwestern Discord music bot that doesn't suck.
 
 ## Chart Sources
 
-- https://github.com/codetheweb/muse
 - https://github.com/truecharts/charts/tree/master/charts/stable/muse
 - https://hub.docker.com/r/codetheweb/muse
+- https://github.com/codetheweb/muse
 
 ## Available Documentation
 

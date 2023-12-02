@@ -6,10 +6,10 @@ Serial to Socket Redirector
 
 ## Chart Sources
 
-- https://hub.docker.com/r/tenstartups/ser2sock
 - https://github.com/nutechsoftware/ser2sock
 - https://github.com/tenstartups/ser2sock
 - https://github.com/truecharts/charts/tree/master/charts/stable/ser2sock
+- https://hub.docker.com/r/tenstartups/ser2sock
 
 ## Available Documentation
 

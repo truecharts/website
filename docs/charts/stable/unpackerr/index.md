@@ -6,9 +6,9 @@ This application runs as a daemon on your download host. It checks for completed
 
 ## Chart Sources
 
+- https://hub.docker.com/r/golift/unpackerr
 - https://github.com/davidnewhall/unpackerr
 - https://github.com/truecharts/charts/tree/master/charts/stable/unpackerr
-- https://hub.docker.com/r/golift/unpackerr
 
 ## Available Documentation
 

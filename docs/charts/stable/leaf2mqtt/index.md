@@ -6,10 +6,10 @@ Nissan Leaf connected services to MQTT adapter
 
 ## Chart Sources
 
-- https://ghcr.io/k8s-at-home/leaf2mqtt
 - https://github.com/mitsumaui/leaf2mqtt
 - https://github.com/k8s-at-home/container-images
 - https://github.com/truecharts/charts/tree/master/charts/stable/leaf2mqtt
+- https://ghcr.io/k8s-at-home/leaf2mqtt
 
 ## Available Documentation
 

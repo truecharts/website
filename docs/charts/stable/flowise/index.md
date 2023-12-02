@@ -6,9 +6,9 @@ Drag & drop UI to build your customized LLM flow.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/flowiseai/flowise
 - https://github.com/FlowiseAI/Flowise
 - https://github.com/truecharts/charts/tree/master/charts/stable/flowise
+- https://hub.docker.com/r/flowiseai/flowise
 
 ## Available Documentation
 

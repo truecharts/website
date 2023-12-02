@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install Hurtworld an
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorhurtworld
 - https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/hurtworld
+- https://github.com/truecharts/containers/tree/master/mirrorhurtworld
 
 ## Available Documentation
 

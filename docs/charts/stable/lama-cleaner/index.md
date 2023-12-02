@@ -6,9 +6,9 @@ Open-source inpainting tool powered by SOTA AI model.
 
 ## Chart Sources
 
-- https://github.com/Sanster/lama-cleaner
 - https://github.com/truecharts/charts/tree/master/charts/stable/lama-cleaner
 - https://hub.docker.com/r/cwq1913/lama-cleaner
+- https://github.com/Sanster/lama-cleaner
 
 ## Available Documentation
 

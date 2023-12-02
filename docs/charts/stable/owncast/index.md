@@ -8,8 +8,8 @@ Take control over your live stream video by running it yourself. Streaming + cha
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/owncast
 - https://hub.docker.com/r/gabekangas/owncast
-- https://github.com/owncast/owncast
 - https://owncast.online/
+- https://github.com/owncast/owncast
 
 ## Available Documentation
 

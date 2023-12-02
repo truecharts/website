@@ -6,9 +6,9 @@ Watches for .ts files made by Live TV recordings, convert them to a friendly for
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorpost-recording
 - https://github.com/chacawaca/docker-post-recording
 - https://github.com/truecharts/charts/tree/master/charts/incubator/post-recording
-- https://github.com/truecharts/containers/tree/master/mirrorpost-recording
 
 ## Available Documentation
 
