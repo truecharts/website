@@ -6,9 +6,9 @@ Free and easy binary newsreader
 
 ## Chart Sources
 
+- https://sabnzbd.org/
 - https://github.com/truecharts/charts/tree/master/charts/stable/sabnzbd
 - https://ghcr.io/onedr0p/sabnzbd
-- https://sabnzbd.org/
 
 ## Available Documentation
 

@@ -6,6 +6,7 @@
 
 
 
+
 ## [quake3-2.0.10](https://github.com/truecharts/charts/compare/quake3-3.0.0...quake3-2.0.10) (2023-11-18)
 
 ### Chore

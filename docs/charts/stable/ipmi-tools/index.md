@@ -6,9 +6,9 @@ A simple WebGUI Fan controller for IPMI.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/ipmi-tools
 - https://hub.docker.com/r/edchamberlain/ipmi-tools
 - https://github.com/EdwardChamberlain/IPMI-Fan-Controller
-- https://github.com/truecharts/charts/tree/master/charts/stable/ipmi-tools
 
 ## Available Documentation
 

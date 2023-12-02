@@ -8,8 +8,8 @@ deemix is a deezer downloader built from the ashes of Deezloader Remix.
 
 - https://gitlab.com/Bockiii/deemix-docker.git
 - https://git.freezerapp.xyz/RemixDev/deemix-py
-- https://github.com/truecharts/charts/tree/master/charts/stable/deemix
 - ""
+- https://github.com/truecharts/charts/tree/master/charts/stable/deemix
 
 ## Available Documentation
 

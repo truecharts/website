@@ -6,9 +6,9 @@ Chart with rTorrent and the Flood UI.
 
 ## Chart Sources
 
+- https://hotio.dev/containers/rflood
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rflood
 - https://github.com/truecharts/containers/tree/master/mirrorrflood
-- https://hotio.dev/containers/rflood
 
 ## Available Documentation
 

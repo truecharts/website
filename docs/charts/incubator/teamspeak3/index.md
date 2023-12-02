@@ -6,9 +6,9 @@ TeamSpeak is software for quality voice communication via the Internet.
 
 ## Chart Sources
 
-- https://www.teamspeak.com/en/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/teamspeak3
 - https://github.com/truecharts/containers/tree/master/mirrorteamspeak
+- https://www.teamspeak.com/en/
 
 ## Available Documentation
 

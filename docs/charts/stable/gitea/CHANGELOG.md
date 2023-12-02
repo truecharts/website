@@ -6,6 +6,7 @@
 
 
 
+
 ## [gitea-14.0.13](https://github.com/truecharts/charts/compare/gitea-14.0.12...gitea-14.0.13) (2023-11-26)
 
 ### Chore

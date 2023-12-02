@@ -6,9 +6,9 @@ Store securely encrypted backups on cloud storage services!
 
 ## Chart Sources
 
-- https://hub.docker.com/r/duplicati/duplicati
 - https://github.com/duplicati/duplicati
 - https://github.com/truecharts/charts/tree/master/charts/stable/duplicati
+- https://hub.docker.com/r/duplicati/duplicati
 
 ## Available Documentation
 

@@ -6,8 +6,8 @@ mproved Go Playground powered by Monaco Editor and React
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/go-playground
 - https://github.com/truecharts/containers/tree/master/mirrorgo-playground
+- https://github.com/truecharts/charts/tree/master/charts/incubator/go-playground
 
 ## Available Documentation
 

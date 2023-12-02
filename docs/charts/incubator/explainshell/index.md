@@ -6,9 +6,9 @@ Not everyone, especially people new to Linux and Unraid, know what a command tha
 
 ## Chart Sources
 
-- https://github.com/idank/explainshell
 - https://github.com/truecharts/charts/tree/master/charts/incubator/explainshell
 - https://github.com/truecharts/containers/tree/master/mirrorexplainshell
+- https://github.com/idank/explainshell
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ An organizer for your porn, written in Go
 
 ## Chart Sources
 
+- https://hub.docker.com/r/stashapp/stash
 - https://github.com/stashapp/stash
 - https://github.com/truecharts/charts/tree/master/charts/stable/stash
-- https://hub.docker.com/r/stashapp/stash
 
 ## Available Documentation
 

@@ -6,6 +6,7 @@
 
 
 
+
 ## [organizr-15.0.12](https://github.com/truecharts/charts/compare/organizr-15.0.11...organizr-15.0.12) (2023-11-30)
 
 ### Chore

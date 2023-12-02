@@ -6,10 +6,10 @@ An FTP automation tool that periodically scans given host locations for new file
 
 ## Chart Sources
 
-- https://github.com/linuxserver/docker-davos
 - https://github.com/linuxserver/davos/
 - https://github.com/truecharts/charts/tree/master/charts/stable/davos
 - https://ghcr.io/linuxserver/davos
+- https://github.com/linuxserver/docker-davos
 
 ## Available Documentation
 

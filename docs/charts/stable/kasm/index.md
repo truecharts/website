@@ -6,11 +6,11 @@ Kasm Workspaces is a streaming platform for delivering browser-based access to d
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/kasm
+- https://hub.docker.com/r/kasmweb/workspaces
 - https://www.kasmweb.com/
 - https://github.com/orgs/linuxserver/packages/container/package/kasm
 - https://github.com/linuxserver/docker-kasm#readme
-- https://github.com/truecharts/charts/tree/master/charts/stable/kasm
-- https://hub.docker.com/r/kasmweb/workspaces
 
 ## Available Documentation
 

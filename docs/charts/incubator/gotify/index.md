@@ -6,10 +6,10 @@ A simple server for sending and receiving messages.
 
 ## Chart Sources
 
-- https://gotify.net/
-- https://github.com/gotify/server
 - https://github.com/truecharts/charts/tree/master/charts/incubator/gotify
 - https://github.com/truecharts/containers/tree/master/mirrorgotify-server
+- https://gotify.net/
+- https://github.com/gotify/server
 
 ## Available Documentation
 

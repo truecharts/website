@@ -7,8 +7,8 @@ Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoinwalletgui
 - https://github.com/truecharts/containers/tree/master/mirrorbitcoinwalletgui
+- https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoinwalletgui
 
 ## Available Documentation
 

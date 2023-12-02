@@ -6,11 +6,11 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/dependency/mariadb
-- https://hub.docker.com/r/bitnami/mariadb
 - https://github.com/bitnami/bitnami-docker-mariadb
 - https://github.com/prometheus/mysqld_exporter
 - https://mariadb.org
+- https://github.com/truecharts/charts/tree/master/charts/dependency/mariadb
+- https://hub.docker.com/r/bitnami/mariadb
 
 ## Available Documentation
 

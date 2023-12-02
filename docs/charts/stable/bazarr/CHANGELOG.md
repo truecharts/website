@@ -6,6 +6,7 @@
 
 
 
+
 ## [bazarr-15.1.0](https://github.com/truecharts/charts/compare/bazarr-15.0.20...bazarr-15.1.0) (2023-11-30)
 
 ### Chore

@@ -6,9 +6,9 @@ farmOS is a web-based application for farm management, planning, and record keep
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/farmos
 - https://github.com/truecharts/containers/tree/master/mirrorfarmos
 - https://github.com/farmOS/farmOS
+- https://github.com/truecharts/charts/tree/master/charts/incubator/farmos
 
 ## Available Documentation
 

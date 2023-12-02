@@ -6,9 +6,9 @@ The Phoronix Test Suite is the most comprehensive testing and benchmarking platf
 
 ## Chart Sources
 
-- https://github.com/phoronix-test-suite/phoronix-test-suite
 - https://github.com/truecharts/charts/tree/master/charts/incubator/phoronix-test-suite
 - https://github.com/truecharts/containers/tree/master/mirrorphoronix-test-suite
+- https://github.com/phoronix-test-suite/phoronix-test-suite
 
 ## Available Documentation
 

@@ -6,10 +6,10 @@ A web app that allows you to create smart bookmarks, commands and aliases by poi
 
 ## Chart Sources
 
+- https://ghcr.io/nicholaswilde/golinks
 - https://github.com/prologic/golinks
 - https://github.com/nicholaswilde/docker-golinks
 - https://github.com/truecharts/charts/tree/master/charts/stable/golinks
-- https://ghcr.io/nicholaswilde/golinks
 
 ## Available Documentation
 

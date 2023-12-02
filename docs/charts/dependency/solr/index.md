@@ -6,9 +6,9 @@ Apache Solr
 
 ## Chart Sources
 
+- https://github.com/apache/solr
 - https://github.com/truecharts/charts/tree/master/charts/dependency/solr
 - https://hub.docker.com/r/bitnami/solr
-- https://github.com/apache/solr
 
 ## Available Documentation
 

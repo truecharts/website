@@ -7,9 +7,9 @@ Filebrowser provides a file managing interface within a specified directory
 ## Chart Sources
 
 - https://filebrowser.org/cli/filebrowser
+- https://github.com/filebrowser/filebrowser
 - https://github.com/truecharts/charts/tree/master/charts/stable/filebrowser
 - https://hub.docker.com/r/filebrowser/filebrowser
-- https://github.com/filebrowser/filebrowser
 
 ## Available Documentation
 

@@ -7,8 +7,8 @@ Fenrus is a home page / personal dashboard with smart apps.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorfenrus
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fenrus
+- https://github.com/truecharts/containers/tree/master/mirrorfenrus
 
 ## Available Documentation
 

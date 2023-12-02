@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install Pirates, Vik
 
 ## Chart Sources
 
+- https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pvk-ii
 - https://github.com/truecharts/containers/tree/master/mirrorpvk-ii
-- https://www.steampowered.com/
 
 ## Available Documentation
 

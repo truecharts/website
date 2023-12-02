@@ -6,9 +6,9 @@ an online collaborative whiteboard that allows many users to draw simultaneously
 
 ## Chart Sources
 
+- https://github.com/lovasoa/whitebophir
 - https://github.com/truecharts/charts/tree/master/charts/incubator/wbo
 - https://github.com/truecharts/containers/tree/master/mirrorwbo
-- https://github.com/lovasoa/whitebophir
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ MakeMKV is your one-click solution to convert video that you own into free and p
 
 ## Chart Sources
 
+- https://github.com/jlesage/docker-makemkv
 - https://github.com/truecharts/charts/tree/master/charts/stable/makemkv
 - https://hub.docker.com/r/jlesage/makemkv
-- https://github.com/jlesage/docker-makemkv
 
 ## Available Documentation
 

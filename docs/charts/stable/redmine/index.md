@@ -6,9 +6,9 @@ Redmine is a flexible project management web application written using Ruby on R
 
 ## Chart Sources
 
-- https://github.com/redmine/redmine
 - https://github.com/truecharts/charts/tree/master/charts/stable/redmine
 - https://hub.docker.com/_/redmine
+- https://github.com/redmine/redmine
 
 ## Available Documentation
 

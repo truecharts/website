@@ -6,9 +6,9 @@ A simple, self-hosted, encrypted Markdown note-taking app built with Vue 3, and 
 
 ## Chart Sources
 
-- https://github.com/muety/mininote
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mininote
 - https://github.com/truecharts/containers/tree/master/mirrormininote
+- https://github.com/muety/mininote
 
 ## Available Documentation
 

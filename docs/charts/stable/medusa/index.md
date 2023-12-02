@@ -6,10 +6,10 @@ An automatic Video Library Manager for TV Shows
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/medusa
-- https://ghcr.io/linuxserver/medusa
 - https://github.com/linuxserver/docker-medusa
 - https://pymedusa.com/
+- https://github.com/truecharts/charts/tree/master/charts/stable/medusa
+- https://ghcr.io/linuxserver/medusa
 
 ## Available Documentation
 

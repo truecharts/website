@@ -6,9 +6,9 @@ A free and open source Statistics App for Jellyfin.
 
 ## Chart Sources
 
+- https://github.com/CyferShepard/Jellystat
 - https://github.com/truecharts/charts/tree/master/charts/stable/jellystat
 - https://hub.docker.com/r/cyfershepard/jellystat
-- https://github.com/CyferShepard/Jellystat
 
 ## Available Documentation
 

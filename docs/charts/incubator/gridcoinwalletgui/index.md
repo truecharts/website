@@ -6,9 +6,9 @@ Running Boinc? Get some Gridcoins from your Boinc work!
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirrorgridcoinwalletgui
 - https://gridcoin.us/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/gridcoinwalletgui
-- https://github.com/truecharts/containers/tree/master/mirrorgridcoinwalletgui
 
 ## Available Documentation
 

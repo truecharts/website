@@ -6,9 +6,9 @@ NextPVR is a personal video recorder application, with the goal making it easy t
 
 ## Chart Sources
 
+- https://hub.docker.com/r/nextpvr/nextpvr_amd64
 - https://github.com/sub3/NextPVR/wiki/Install-Docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/nextpvr
-- https://hub.docker.com/r/nextpvr/nextpvr_amd64
 
 ## Available Documentation
 

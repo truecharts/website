@@ -6,9 +6,9 @@ Custom themes for your favorite apps!
 
 ## Chart Sources
 
-- https://github.com/gilbn/theme.park
 - https://github.com/truecharts/charts/tree/master/charts/stable/theme-park
 - https://ghcr.io/onedr0p/theme-park
+- https://github.com/gilbn/theme.park
 
 ## Available Documentation
 

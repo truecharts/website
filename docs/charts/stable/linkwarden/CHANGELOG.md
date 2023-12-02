@@ -6,6 +6,7 @@
 
 
 
+
 ## [linkwarden-1.1.0](https://github.com/truecharts/charts/compare/linkwarden-1.0.0...linkwarden-1.1.0) (2023-11-25)
 
 ### Chore

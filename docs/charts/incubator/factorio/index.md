@@ -6,9 +6,9 @@ A game in which you build and maintain factories.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/incubator/factorio
 - https://github.com/truecharts/containers/tree/master/mirrorfactorio
 - https://github.com/factoriotools/factorio-docker
-- https://github.com/truecharts/charts/tree/master/charts/incubator/factorio
 
 ## Available Documentation
 
