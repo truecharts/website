@@ -16,11 +16,11 @@ qBittorrent is a cross-platform free and open-source BitTorrent client
 
 - [**Helm Security**](container-security)
 
-- [**Default Username/Password**](credentials)
-
 - [**Helm Security**](helm-security)
 
 - [**Installation Guide**](installation)
+
+- [**Initial Password**](password)
 
 - [**Automatic Gluetun Port Forwarding**](port-forwarding)
 
