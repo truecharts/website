@@ -1,6 +1,6 @@
 # scrypted
 
-![Version: 1.0.7](https://img.shields.io/badge/Version-1.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.44.0](https://img.shields.io/badge/AppVersion-0.44.0-informational?style=flat-square)
+![Version: 1.0.8](https://img.shields.io/badge/Version-1.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.44.0](https://img.shields.io/badge/AppVersion-0.44.0-informational?style=flat-square)
 
 Scrypted is a high performance home video integration and automation platform.
 
@@ -12,7 +12,7 @@ Scrypted is a high performance home video integration and automation platform.
 
 ## Available Documentation
 
-- [****](CHANGELOG)
+- [**Changelog**](CHANGELOG)
 
 - [**Helm Security**](container-security)
 

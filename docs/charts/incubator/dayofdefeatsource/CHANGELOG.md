@@ -2,6 +2,15 @@
 
 
 
+## [dayofdefeatsource-2.0.11](https://github.com/truecharts/charts/compare/dayofdefeatsource-2.0.10...dayofdefeatsource-2.0.11) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [dayofdefeatsource-2.0.10](https://github.com/truecharts/charts/compare/dayofdefeatsource-3.0.0...dayofdefeatsource-2.0.10) (2023-12-02)
 
 ### Chore

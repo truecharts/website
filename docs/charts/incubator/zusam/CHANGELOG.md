@@ -2,6 +2,15 @@
 
 
 
+## [zusam-4.0.2](https://github.com/truecharts/charts/compare/zusam-4.0.1...zusam-4.0.2) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [zusam-4.0.1](https://github.com/truecharts/charts/compare/zusam-5.0.0...zusam-4.0.1) (2023-12-02)
 
 ### Chore

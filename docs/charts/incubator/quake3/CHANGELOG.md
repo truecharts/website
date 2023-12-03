@@ -2,6 +2,15 @@
 
 
 
+## [quake3-2.0.12](https://github.com/truecharts/charts/compare/quake3-2.0.11...quake3-2.0.12) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [quake3-2.0.11](https://github.com/truecharts/charts/compare/quake3-2.0.10...quake3-2.0.11) (2023-12-02)
 
 ### Chore

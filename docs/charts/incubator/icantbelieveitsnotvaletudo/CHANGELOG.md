@@ -2,6 +2,15 @@
 
 
 
+## [icantbelieveitsnotvaletudo-7.0.2](https://github.com/truecharts/charts/compare/icantbelieveitsnotvaletudo-7.0.1...icantbelieveitsnotvaletudo-7.0.2) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [icantbelieveitsnotvaletudo-7.0.1](https://github.com/truecharts/charts/compare/icantbelieveitsnotvaletudo-8.0.0...icantbelieveitsnotvaletudo-7.0.1) (2023-12-02)
 
 ### Chore

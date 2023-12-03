@@ -2,6 +2,18 @@
 
 
 
+## [alist-6.1.1](https://github.com/truecharts/charts/compare/alist-6.1.0...alist-6.1.1) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  - fix annotations again
+  - update annotations
+  - cleanup chart.yaml and add min-max scale version
+  
+  
+
+
 
 ## [alist-6.1.0](https://github.com/truecharts/charts/compare/alist-6.0.13...alist-6.1.0) (2023-11-25)
 

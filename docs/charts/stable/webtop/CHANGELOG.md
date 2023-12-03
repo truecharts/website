@@ -2,6 +2,16 @@
 
 
 
+## [webtop-6.0.192](https://github.com/truecharts/charts/compare/webtop-6.0.191...webtop-6.0.192) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  - update annotations
+  
+  
+
+
 ## [webtop-6.0.191](https://github.com/truecharts/charts/compare/webtop-6.0.190...webtop-6.0.191) (2023-12-01)
 
 ### Chore

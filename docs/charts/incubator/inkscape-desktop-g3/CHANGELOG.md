@@ -2,6 +2,15 @@
 
 
 
+## [inkscape-desktop-g3-2.0.14](https://github.com/truecharts/charts/compare/inkscape-desktop-g3-2.0.13...inkscape-desktop-g3-2.0.14) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [inkscape-desktop-g3-2.0.13](https://github.com/truecharts/charts/compare/inkscape-desktop-g3-3.0.0...inkscape-desktop-g3-2.0.13) (2023-12-02)
 
 ### Chore

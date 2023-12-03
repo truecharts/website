@@ -2,6 +2,15 @@
 
 
 
+## [wger-5.0.2](https://github.com/truecharts/charts/compare/wger-5.0.1...wger-5.0.2) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [wger-5.0.1](https://github.com/truecharts/charts/compare/wger-6.0.0...wger-5.0.1) (2023-12-02)
 
 ### Chore

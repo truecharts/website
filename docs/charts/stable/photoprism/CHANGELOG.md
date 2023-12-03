@@ -2,6 +2,15 @@
 
 
 
+## [photoprism-16.1.1](https://github.com/truecharts/charts/compare/photoprism-16.1.0...photoprism-16.1.1) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [photoprism-16.1.0](https://github.com/truecharts/charts/compare/photoprism-16.0.10...photoprism-16.1.0) (2023-12-02)
 
 ### Chore

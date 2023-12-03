@@ -1,6 +1,6 @@
 # anki-sync-server
 
-![Version: 3.0.6](https://img.shields.io/badge/Version-3.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.14](https://img.shields.io/badge/AppVersion-1.1.14-informational?style=flat-square)
+![Version: 3.0.7](https://img.shields.io/badge/Version-3.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.14](https://img.shields.io/badge/AppVersion-1.1.14-informational?style=flat-square)
 
 A cross-platform Anki sync server.
 
@@ -12,7 +12,7 @@ A cross-platform Anki sync server.
 
 ## Available Documentation
 
-- [****](CHANGELOG)
+- [**Changelog**](CHANGELOG)
 
 - [**Helm Security**](container-security)
 

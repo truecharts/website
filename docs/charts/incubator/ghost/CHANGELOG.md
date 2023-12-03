@@ -2,6 +2,15 @@
 
 
 
+## [ghost-6.0.61](https://github.com/truecharts/charts/compare/ghost-6.0.60...ghost-6.0.61) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [ghost-6.0.60](https://github.com/truecharts/charts/compare/ghost-7.0.0...ghost-6.0.60) (2023-12-02)
 
 ### Chore

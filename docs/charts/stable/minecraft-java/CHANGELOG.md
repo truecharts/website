@@ -2,6 +2,18 @@
 
 
 
+## [minecraft-java-5.1.3](https://github.com/truecharts/charts/compare/minecraft-java-5.1.2...minecraft-java-5.1.3) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  - fix annotations again
+  - update annotations
+  - cleanup chart.yaml and add min-max scale version
+  
+  
+
+
 ## [minecraft-java-5.1.2](https://github.com/truecharts/charts/compare/minecraft-java-5.1.1...minecraft-java-5.1.2) (2023-11-27)
 
 

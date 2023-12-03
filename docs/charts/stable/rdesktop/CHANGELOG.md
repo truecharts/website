@@ -2,6 +2,20 @@
 
 
 
+## [rdesktop-5.0.156](https://github.com/truecharts/charts/compare/rdesktop-5.0.155...rdesktop-5.0.156) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  - update annotations
+  - update container image lscr.io/linuxserver/rdesktop to arch-icewm[@85c65d2](https://github.com/85c65d2) ([#15576](https://github.com/truecharts/charts/issues/15576))
+  - update container image lscr.io/linuxserver/rdesktop to arch-xfce[@a18c50e](https://github.com/a18c50e) ([#15579](https://github.com/truecharts/charts/issues/15579))
+  - update container image lscr.io/linuxserver/rdesktop to arch-openbox[@dc53b9d](https://github.com/dc53b9d) ([#15578](https://github.com/truecharts/charts/issues/15578))
+  - update container image lscr.io/linuxserver/rdesktop to arch-mate[@54a0e93](https://github.com/54a0e93) ([#15577](https://github.com/truecharts/charts/issues/15577))
+  
+  
+
+
 ## [rdesktop-5.0.155](https://github.com/truecharts/charts/compare/rdesktop-5.0.154...rdesktop-5.0.155) (2023-12-01)
 
 ### Chore

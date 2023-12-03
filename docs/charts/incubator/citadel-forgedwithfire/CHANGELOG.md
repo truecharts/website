@@ -2,6 +2,15 @@
 
 
 
+## [citadel-forgedwithfire-2.0.11](https://github.com/truecharts/charts/compare/citadel-forgedwithfire-2.0.10...citadel-forgedwithfire-2.0.11) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [citadel-forgedwithfire-2.0.10](https://github.com/truecharts/charts/compare/citadel-forgedwithfire-3.0.0...citadel-forgedwithfire-2.0.10) (2023-12-02)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [neko-2.0.29](https://github.com/truecharts/charts/compare/neko-2.0.28...neko-2.0.29) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [neko-2.0.28](https://github.com/truecharts/charts/compare/neko-3.0.0...neko-2.0.28) (2023-12-02)
 
 ### Chore

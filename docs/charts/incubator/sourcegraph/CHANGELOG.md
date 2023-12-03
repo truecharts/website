@@ -2,6 +2,15 @@
 
 
 
+## [sourcegraph-2.0.20](https://github.com/truecharts/charts/compare/sourcegraph-2.0.19...sourcegraph-2.0.20) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [sourcegraph-2.0.19](https://github.com/truecharts/charts/compare/sourcegraph-3.0.0...sourcegraph-2.0.19) (2023-12-02)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [photo-stream-2.1.10](https://github.com/truecharts/charts/compare/photo-stream-2.1.9...photo-stream-2.1.10) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [photo-stream-2.1.9](https://github.com/truecharts/charts/compare/photo-stream-3.0.0...photo-stream-2.1.9) (2023-12-02)
 
 ### Chore

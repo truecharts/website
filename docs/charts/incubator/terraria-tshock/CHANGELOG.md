@@ -2,6 +2,15 @@
 
 
 
+## [terraria-tshock-3.0.4](https://github.com/truecharts/charts/compare/terraria-tshock-3.0.3...terraria-tshock-3.0.4) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [terraria-tshock-3.0.3](https://github.com/truecharts/charts/compare/terraria-tshock-4.0.0...terraria-tshock-3.0.3) (2023-12-02)
 
 ### Chore

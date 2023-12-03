@@ -2,6 +2,15 @@
 
 
 
+## [filegator-2.0.11](https://github.com/truecharts/charts/compare/filegator-2.0.10...filegator-2.0.11) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [filegator-2.0.10](https://github.com/truecharts/charts/compare/filegator-3.0.0...filegator-2.0.10) (2023-12-02)
 
 ### Chore

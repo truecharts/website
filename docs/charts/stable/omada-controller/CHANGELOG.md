@@ -2,6 +2,15 @@
 
 
 
+## [omada-controller-10.0.36](https://github.com/truecharts/charts/compare/omada-controller-10.0.35...omada-controller-10.0.36) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [omada-controller-10.0.35](https://github.com/truecharts/charts/compare/omada-controller-10.0.34...omada-controller-10.0.35) (2023-12-02)
 
 ### Chore

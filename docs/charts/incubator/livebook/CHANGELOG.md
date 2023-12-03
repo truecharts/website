@@ -2,6 +2,15 @@
 
 
 
+## [livebook-2.0.13](https://github.com/truecharts/charts/compare/livebook-2.0.12...livebook-2.0.13) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [livebook-2.0.12](https://github.com/truecharts/charts/compare/livebook-3.0.0...livebook-2.0.12) (2023-12-02)
 
 ### Chore

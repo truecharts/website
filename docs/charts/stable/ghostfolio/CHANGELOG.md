@@ -2,6 +2,15 @@
 
 
 
+## [ghostfolio-0.4.1](https://github.com/truecharts/charts/compare/ghostfolio-0.4.0...ghostfolio-0.4.1) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [ghostfolio-0.4.0](https://github.com/truecharts/charts/compare/ghostfolio-0.3.1...ghostfolio-0.4.0) (2023-12-02)
 
 ### Chore

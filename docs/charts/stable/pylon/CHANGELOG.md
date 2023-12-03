@@ -2,6 +2,18 @@
 
 
 
+## [pylon-6.0.21](https://github.com/truecharts/charts/compare/pylon-6.0.20...pylon-6.0.21) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  - fix annotations again
+  - update annotations
+  - cleanup chart.yaml and add min-max scale version
+  
+  
+
+
 
 ## [pylon-6.0.20](https://github.com/truecharts/charts/compare/pylon-6.0.19...pylon-6.0.20) (2023-11-22)
 

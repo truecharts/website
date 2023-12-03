@@ -2,6 +2,15 @@
 
 
 
+## [pgadmin-12.0.1](https://github.com/truecharts/charts/compare/pgadmin-12.0.0...pgadmin-12.0.1) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [pgadmin-12.0.0](https://github.com/truecharts/charts/compare/pgadmin-11.0.11...pgadmin-12.0.0) (2023-12-02)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [umami-3.0.25](https://github.com/truecharts/charts/compare/umami-3.0.24...umami-3.0.25) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [umami-3.0.24](https://github.com/truecharts/charts/compare/umami-4.0.0...umami-3.0.24) (2023-12-02)
 
 ### Chore

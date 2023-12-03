@@ -1,6 +1,6 @@
 # tasmobackup
 
-![Version: 3.0.4](https://img.shields.io/badge/Version-3.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.5](https://img.shields.io/badge/Version-3.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 backup all your tasmota devices in one place.
 
@@ -12,7 +12,7 @@ backup all your tasmota devices in one place.
 
 ## Available Documentation
 
-- [****](CHANGELOG)
+- [**Changelog**](CHANGELOG)
 
 - [**Helm Security**](container-security)
 

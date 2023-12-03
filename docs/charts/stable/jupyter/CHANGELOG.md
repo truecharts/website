@@ -2,6 +2,16 @@
 
 
 
+## [jupyter-5.0.49](https://github.com/truecharts/charts/compare/jupyter-5.0.48...jupyter-5.0.49) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  - update annotations
+  
+  
+
+
 ## [jupyter-5.0.48](https://github.com/truecharts/charts/compare/jupyter-5.0.47...jupyter-5.0.48) (2023-11-18)
 
 

@@ -1,6 +1,6 @@
 # rdtclient
 
-![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.49](https://img.shields.io/badge/AppVersion-2.0.49-informational?style=flat-square)
+![Version: 1.0.2](https://img.shields.io/badge/Version-1.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.0.49"](https://img.shields.io/badge/AppVersion-"2.0.49"-informational?style=flat-square)
 
 This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Premiumize.
 
@@ -8,7 +8,6 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/rdtclient
 - https://github.com/rogerfar/rdt-client
-- https://ghcr.io/rogerfar/rdtclient
 
 ## Available Documentation
 

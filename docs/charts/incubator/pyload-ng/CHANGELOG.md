@@ -2,6 +2,15 @@
 
 
 
+## [pyload-ng-2.0.24](https://github.com/truecharts/charts/compare/pyload-ng-2.0.23...pyload-ng-2.0.24) (2023-12-03)
+
+### Chore
+
+- bump everything to ensure catalog has latest versions
+  
+  
+
+
 ## [pyload-ng-2.0.23](https://github.com/truecharts/charts/compare/pyload-ng-2.0.22...pyload-ng-2.0.23) (2023-12-02)
 
 ### Chore
