@@ -2,6 +2,15 @@
 
 
 
+## [nextcloud-22.2.14](https://github.com/truecharts/charts/compare/nextcloud-22.2.13...nextcloud-22.2.14) (2023-12-04)
+
+### Chore
+
+- update container image clamav/clamav to 1.2.1[@c447f9c](https://github.com/c447f9c) ([#15715](https://github.com/truecharts/charts/issues/15715))
+  
+  
+
+
 ## [nextcloud-22.2.13](https://github.com/truecharts/charts/compare/nextcloud-22.2.12...nextcloud-22.2.13) (2023-12-03)
 
 ### Chore
