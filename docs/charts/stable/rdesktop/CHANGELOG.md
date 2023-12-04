@@ -2,6 +2,25 @@
 
 
 
+## [rdesktop-5.0.157](https://github.com/truecharts/charts/compare/rdesktop-5.0.156...rdesktop-5.0.157) (2023-12-04)
+
+### Chore
+
+- update container image lscr.io/linuxserver/rdesktop to latest[@3eb0980](https://github.com/3eb0980) ([#15668](https://github.com/truecharts/charts/issues/15668))
+  - update container image lscr.io/linuxserver/rdesktop to fedora-xfce[@4509b9a](https://github.com/4509b9a) ([#15667](https://github.com/truecharts/charts/issues/15667))
+  - update container image lscr.io/linuxserver/rdesktop to fedora-openbox[@c3fb37c](https://github.com/c3fb37c) ([#15666](https://github.com/truecharts/charts/issues/15666))
+  - update container image lscr.io/linuxserver/rdesktop to fedora-mate[@9d0aa73](https://github.com/9d0aa73) ([#15665](https://github.com/truecharts/charts/issues/15665))
+  - update container image lscr.io/linuxserver/rdesktop to fedora-icewm[@7298666](https://github.com/7298666) ([#15664](https://github.com/truecharts/charts/issues/15664))
+  - update container image lscr.io/linuxserver/rdesktop to fedora-i3[@8a038b9](https://github.com/8a038b9) ([#15663](https://github.com/truecharts/charts/issues/15663))
+  - update container image lscr.io/linuxserver/rdesktop to arch-kde[@79e2983](https://github.com/79e2983) ([#15590](https://github.com/truecharts/charts/issues/15590))
+  - update container image lscr.io/linuxserver/rdesktop to alpine-openbox[@d1007a3](https://github.com/d1007a3) ([#15662](https://github.com/truecharts/charts/issues/15662))
+  - update container image lscr.io/linuxserver/rdesktop to alpine-i3[@097d4f7](https://github.com/097d4f7) ([#15659](https://github.com/truecharts/charts/issues/15659))
+  - update container image lscr.io/linuxserver/rdesktop to alpine-mate[@934472b](https://github.com/934472b) ([#15661](https://github.com/truecharts/charts/issues/15661))
+  - update container image lscr.io/linuxserver/rdesktop to alpine-kde[@a3dbee2](https://github.com/a3dbee2) ([#15660](https://github.com/truecharts/charts/issues/15660))
+  
+  
+
+
 ## [rdesktop-5.0.156](https://github.com/truecharts/charts/compare/rdesktop-5.0.155...rdesktop-5.0.156) (2023-12-03)
 
 ### Chore
