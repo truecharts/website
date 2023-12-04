@@ -1,14 +1,14 @@
 # borg-server
 
-![Version: 1.0.2](https://img.shields.io/badge/Version-1.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.2](https://img.shields.io/badge/AppVersion-2.1.2-informational?style=flat-square)
+![Version: 1.0.3](https://img.shields.io/badge/Version-1.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.3](https://img.shields.io/badge/AppVersion-2.1.3-informational?style=flat-square)
 
 A borg Backup server
 
 ## Chart Sources
 
-- https://ghcr.io/anotherstranger/borg-server
 - https://github.com/AnotherStranger/docker-borg-backup
 - https://github.com/truecharts/charts/tree/master/charts/stable/borg-server
+- https://ghcr.io/anotherstranger/borg-server
 
 ## Available Documentation
 
