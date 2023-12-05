@@ -42,6 +42,16 @@
   
 
 
+## [jackett-16.0.6](https://github.com/truecharts/charts/compare/jackett-16.0.5...jackett-16.0.6) (2023-12-05)
+
+### Feat
+
+- add initial homepage integration gui ([#15767](https://github.com/truecharts/charts/issues/15767))
+  - add iscsi support to storage GUI ([#15765](https://github.com/truecharts/charts/issues/15765))
+  
+  
+
+
 ## [jackett-16.0.5](https://github.com/truecharts/charts/compare/jackett-16.0.4...jackett-16.0.5) (2023-12-03)
 
 ### Chore
