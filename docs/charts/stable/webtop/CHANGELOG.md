@@ -2,6 +2,15 @@
 
 
 
+## [webtop-6.0.193](https://github.com/truecharts/charts/compare/webtop-6.0.192...webtop-6.0.193) (2023-12-05)
+
+### Chore
+
+- update container image lscr.io/linuxserver/webtop to alpine-i3[@87a2025](https://github.com/87a2025) ([#15742](https://github.com/truecharts/charts/issues/15742))
+  
+  
+
+
 ## [webtop-6.0.192](https://github.com/truecharts/charts/compare/webtop-6.0.191...webtop-6.0.192) (2023-12-03)
 
 ### Chore
