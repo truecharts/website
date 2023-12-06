@@ -2,6 +2,11 @@
 
 
 
+## [noisedash-2.0.15](https://github.com/truecharts/charts/compare/noisedash-2.0.14...noisedash-2.0.15) (2023-12-06)
+
+
+
+
 ## [noisedash-2.0.14](https://github.com/truecharts/charts/compare/noisedash-2.0.13...noisedash-2.0.14) (2023-12-03)
 
 ### Chore

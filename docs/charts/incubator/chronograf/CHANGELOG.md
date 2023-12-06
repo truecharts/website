@@ -2,6 +2,11 @@
 
 
 
+## [chronograf-2.0.17](https://github.com/truecharts/charts/compare/chronograf-2.0.16...chronograf-2.0.17) (2023-12-06)
+
+
+
+
 ## [chronograf-2.0.16](https://github.com/truecharts/charts/compare/chronograf-2.0.15...chronograf-2.0.16) (2023-12-03)
 
 ### Chore

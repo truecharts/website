@@ -2,6 +2,11 @@
 
 
 
+## [namecheap-ddns-2.0.11](https://github.com/truecharts/charts/compare/namecheap-ddns-2.0.10...namecheap-ddns-2.0.11) (2023-12-06)
+
+
+
+
 ## [namecheap-ddns-2.0.10](https://github.com/truecharts/charts/compare/namecheap-ddns-2.0.9...namecheap-ddns-2.0.10) (2023-12-03)
 
 ### Chore

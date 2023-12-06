@@ -2,6 +2,11 @@
 
 
 
+## [neko-2.0.30](https://github.com/truecharts/charts/compare/neko-2.0.29...neko-2.0.30) (2023-12-06)
+
+
+
+
 ## [neko-2.0.29](https://github.com/truecharts/charts/compare/neko-2.0.28...neko-2.0.29) (2023-12-03)
 
 ### Chore

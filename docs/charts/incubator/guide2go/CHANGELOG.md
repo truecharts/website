@@ -2,6 +2,11 @@
 
 
 
+## [guide2go-2.0.13](https://github.com/truecharts/charts/compare/guide2go-2.0.12...guide2go-2.0.13) (2023-12-06)
+
+
+
+
 ## [guide2go-2.0.12](https://github.com/truecharts/charts/compare/guide2go-2.0.11...guide2go-2.0.12) (2023-12-03)
 
 ### Chore

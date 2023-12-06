@@ -2,6 +2,11 @@
 
 
 
+## [icantbelieveitsnotvaletudo-7.0.3](https://github.com/truecharts/charts/compare/icantbelieveitsnotvaletudo-7.0.2...icantbelieveitsnotvaletudo-7.0.3) (2023-12-06)
+
+
+
+
 ## [icantbelieveitsnotvaletudo-7.0.2](https://github.com/truecharts/charts/compare/icantbelieveitsnotvaletudo-7.0.1...icantbelieveitsnotvaletudo-7.0.2) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,11 @@
 
 
 
+## [cadquery-server-2.0.12](https://github.com/truecharts/charts/compare/cadquery-server-2.0.11...cadquery-server-2.0.12) (2023-12-06)
+
+
+
+
 ## [cadquery-server-2.0.11](https://github.com/truecharts/charts/compare/cadquery-server-2.0.10...cadquery-server-2.0.11) (2023-12-03)
 
 ### Chore
