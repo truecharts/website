@@ -7,6 +7,11 @@
 
 
 
+## [typecho-8.0.3](https://github.com/truecharts/charts/compare/typecho-8.0.2...typecho-8.0.3) (2023-12-06)
+
+
+
+
 ## [typecho-8.0.2](https://github.com/truecharts/charts/compare/typecho-8.0.1...typecho-8.0.2) (2023-12-03)
 
 ### Chore

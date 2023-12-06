@@ -20,6 +20,15 @@
   
 
 
+## [nextcloud-22.2.15](https://github.com/truecharts/charts/compare/nextcloud-22.2.14...nextcloud-22.2.15) (2023-12-06)
+
+### Chore
+
+- update container image tccr.io/truecharts/nextcloud-imaginary to v20230401[@6a227d1](https://github.com/6a227d1) ([#15790](https://github.com/truecharts/charts/issues/15790))
+  
+  
+
+
 ## [nextcloud-22.2.14](https://github.com/truecharts/charts/compare/nextcloud-22.2.13...nextcloud-22.2.14) (2023-12-04)
 
 ### Chore

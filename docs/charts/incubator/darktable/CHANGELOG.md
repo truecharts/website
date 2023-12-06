@@ -7,6 +7,11 @@
 
 
 
+## [darktable-6.0.3](https://github.com/truecharts/charts/compare/darktable-6.0.2...darktable-6.0.3) (2023-12-06)
+
+
+
+
 ## [darktable-6.0.2](https://github.com/truecharts/charts/compare/darktable-6.0.1...darktable-6.0.2) (2023-12-03)
 
 ### Chore

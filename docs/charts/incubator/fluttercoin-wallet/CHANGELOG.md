@@ -7,6 +7,11 @@
 
 
 
+## [fluttercoin-wallet-2.0.13](https://github.com/truecharts/charts/compare/fluttercoin-wallet-2.0.12...fluttercoin-wallet-2.0.13) (2023-12-06)
+
+
+
+
 ## [fluttercoin-wallet-2.0.12](https://github.com/truecharts/charts/compare/fluttercoin-wallet-2.0.11...fluttercoin-wallet-2.0.12) (2023-12-03)
 
 ### Chore

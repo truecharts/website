@@ -7,6 +7,11 @@
 
 
 
+## [rstudio-3.0.11](https://github.com/truecharts/charts/compare/rstudio-3.0.10...rstudio-3.0.11) (2023-12-06)
+
+
+
+
 ## [rstudio-3.0.10](https://github.com/truecharts/charts/compare/rstudio-3.0.9...rstudio-3.0.10) (2023-12-03)
 
 ### Chore

@@ -7,6 +7,11 @@
 
 
 
+## [quickshare-2.0.15](https://github.com/truecharts/charts/compare/quickshare-2.0.14...quickshare-2.0.15) (2023-12-06)
+
+
+
+
 ## [quickshare-2.0.14](https://github.com/truecharts/charts/compare/quickshare-2.0.13...quickshare-2.0.14) (2023-12-03)
 
 ### Chore

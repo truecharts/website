@@ -7,6 +7,11 @@
 
 
 
+## [cups-server-3.0.24](https://github.com/truecharts/charts/compare/cups-server-3.0.23...cups-server-3.0.24) (2023-12-06)
+
+
+
+
 ## [cups-server-3.0.23](https://github.com/truecharts/charts/compare/cups-server-3.0.22...cups-server-3.0.23) (2023-12-03)
 
 ### Chore

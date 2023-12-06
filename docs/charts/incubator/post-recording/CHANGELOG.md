@@ -7,6 +7,11 @@
 
 
 
+## [post-recording-2.0.12](https://github.com/truecharts/charts/compare/post-recording-2.0.11...post-recording-2.0.12) (2023-12-06)
+
+
+
+
 ## [post-recording-2.0.11](https://github.com/truecharts/charts/compare/post-recording-2.0.10...post-recording-2.0.11) (2023-12-03)
 
 ### Chore

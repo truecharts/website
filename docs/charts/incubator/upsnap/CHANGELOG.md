@@ -7,6 +7,11 @@
 
 
 
+## [upsnap-0.0.5](https://github.com/truecharts/charts/compare/upsnap-0.0.4...upsnap-0.0.5) (2023-12-06)
+
+
+
+
 ## [upsnap-0.0.4](https://github.com/truecharts/charts/compare/upsnap-0.0.3...upsnap-0.0.4) (2023-12-03)
 
 ### Chore
