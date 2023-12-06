@@ -12,6 +12,11 @@
 
 
 
+## [ghost-6.0.62](https://github.com/truecharts/charts/compare/ghost-6.0.61...ghost-6.0.62) (2023-12-06)
+
+
+
+
 ## [ghost-6.0.61](https://github.com/truecharts/charts/compare/ghost-6.0.60...ghost-6.0.61) (2023-12-03)
 
 ### Chore

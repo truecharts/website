@@ -12,6 +12,11 @@
 
 
 
+## [tar1090-2.0.18](https://github.com/truecharts/charts/compare/tar1090-2.0.17...tar1090-2.0.18) (2023-12-06)
+
+
+
+
 ## [tar1090-2.0.17](https://github.com/truecharts/charts/compare/tar1090-2.0.16...tar1090-2.0.17) (2023-12-03)
 
 ### Chore

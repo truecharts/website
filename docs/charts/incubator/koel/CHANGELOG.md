@@ -12,6 +12,11 @@
 
 
 
+## [koel-7.0.3](https://github.com/truecharts/charts/compare/koel-7.0.2...koel-7.0.3) (2023-12-06)
+
+
+
+
 ## [koel-7.0.2](https://github.com/truecharts/charts/compare/koel-7.0.1...koel-7.0.2) (2023-12-03)
 
 ### Chore

@@ -12,6 +12,11 @@
 
 
 
+## [netbox-3.0.42](https://github.com/truecharts/charts/compare/netbox-3.0.41...netbox-3.0.42) (2023-12-06)
+
+
+
+
 ## [netbox-3.0.41](https://github.com/truecharts/charts/compare/netbox-3.0.40...netbox-3.0.41) (2023-12-03)
 
 ### Chore

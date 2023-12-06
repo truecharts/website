@@ -12,6 +12,11 @@
 
 
 
+## [photo-stream-2.1.11](https://github.com/truecharts/charts/compare/photo-stream-2.1.10...photo-stream-2.1.11) (2023-12-06)
+
+
+
+
 ## [photo-stream-2.1.10](https://github.com/truecharts/charts/compare/photo-stream-2.1.9...photo-stream-2.1.10) (2023-12-03)
 
 ### Chore

@@ -12,6 +12,11 @@
 
 
 
+## [inventree-8.0.3](https://github.com/truecharts/charts/compare/inventree-8.0.2...inventree-8.0.3) (2023-12-06)
+
+
+
+
 ## [inventree-8.0.2](https://github.com/truecharts/charts/compare/inventree-8.0.1...inventree-8.0.2) (2023-12-03)
 
 ### Chore
