@@ -8,7 +8,7 @@ A superlight rust written social server.
 
 - https://github.com/Privoce/vocechat-server-rust
 - https://github.com/truecharts/charts/tree/master/charts/stable/vocechat-server
-- https://github.com/truecharts/containers/tree/master/mirrorvocechat-server
+- https://hub.docker.com/r/privoce/vocechat-server
 
 ## Available Documentation
 

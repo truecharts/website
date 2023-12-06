@@ -6,9 +6,9 @@ API Support for your favorite torrent trackers.
 
 ## Chart Sources
 
+- https://github.com/Jackett/Jackett
 - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
 - https://ghcr.io/linuxserver/jackett
-- https://github.com/Jackett/Jackett
 
 ## Available Documentation
 

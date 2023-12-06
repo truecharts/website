@@ -8,7 +8,7 @@ Cloud Database Manager (Official Chart)
 
 - https://github.com/dbeaver/cloudbeaver
 - https://github.com/truecharts/charts/tree/master/charts/incubator/cloudbeaver
-- https://github.com/truecharts/containers/tree/master/mirrorcloudbeaver
+- https://hub.docker.com/r/dbeaver/cloudbeaver
 
 ## Available Documentation
 
