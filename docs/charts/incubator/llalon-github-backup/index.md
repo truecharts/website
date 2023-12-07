@@ -1,6 +1,6 @@
 # llalon-github-backup
 
-![Version: 2.0.11](https://img.shields.io/badge/Version-2.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Automatically backup github repositories on schedule. Allows for custom configuration.
 
@@ -8,7 +8,7 @@ Automatically backup github repositories on schedule. Allows for custom configur
 
 - https://github.com/abusesa/github-backup
 - https://github.com/truecharts/charts/tree/master/charts/incubator/llalon-github-backup
-- https://github.com/truecharts/containers/tree/master/mirrorllalon-github-backup
+- https://hub.docker.com/r/llalon/github-backup
 
 ## Available Documentation
 

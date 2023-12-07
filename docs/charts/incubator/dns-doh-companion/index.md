@@ -1,6 +1,6 @@
 # dns-doh-companion
 
-![Version: 2.0.18](https://img.shields.io/badge/Version-2.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A very simple DNS server to connect to DNS-over-HTTPS service. This is similar to my other Pihole-with-DoH Chart, without Pihole.
 
@@ -8,7 +8,7 @@ A very simple DNS server to connect to DNS-over-HTTPS service. This is similar t
 
 - https://developers.cloudflare.com/1.1.1.1/dns-over-https/cloudflared-proxy/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dns-doh-companion
-- https://github.com/truecharts/containers/tree/master/mirrordns-doh-companion
+- https://hub.docker.com/r/testdasi/simple-dns-doh
 
 ## Available Documentation
 

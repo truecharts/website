@@ -1,6 +1,6 @@
 # umami
 
-![Version: 3.0.26](https://img.shields.io/badge/Version-3.0.26-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.40.0](https://img.shields.io/badge/AppVersion-1.40.0-informational?style=flat-square)
+![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.0](https://img.shields.io/badge/AppVersion-2.8.0-informational?style=flat-square)
 
 Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
@@ -8,7 +8,7 @@ Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 - https://github.com/umami-software/umami
 - https://github.com/truecharts/charts/tree/master/charts/incubator/umami
-- https://github.com/truecharts/containers/tree/master/mirrorumami
+- https://ghcr.io/umami-software/umami
 
 ## Available Documentation
 

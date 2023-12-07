@@ -1,6 +1,6 @@
 # terraria-tshock
 
-![Version: 3.0.5](https://img.shields.io/badge/Version-3.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: tshock](https://img.shields.io/badge/AppVersion-tshock-informational?style=flat-square)
+![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: tshock](https://img.shields.io/badge/AppVersion-tshock-informational?style=flat-square)
 
 SteamCMD Terraria and the TShock MOD.
 
@@ -8,7 +8,7 @@ SteamCMD Terraria and the TShock MOD.
 
 - https://tshock.co/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/terraria-tshock
-- https://github.com/truecharts/containers/tree/master/mirrorterraria-tshock
+- https://hub.docker.com/r/ich777/terrariaserver
 
 ## Available Documentation
 

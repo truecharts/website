@@ -1,6 +1,6 @@
 # archiveteam-warrior
 
-![Version: 2.0.16](https://img.shields.io/badge/Version-2.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 The Archive Team Warrior is a virtual archiving appliance. You can run it to help with the Archive Team archiving efforts. It will download sites and upload them to our archive—and it’s really easy to do!
 
@@ -8,7 +8,7 @@ The Archive Team Warrior is a virtual archiving appliance. You can run it to hel
 
 - https://wiki.archiveteam.org/index.php/ArchiveTeam_Warrior
 - https://github.com/truecharts/charts/tree/master/charts/incubator/archiveteam-warrior
-- https://github.com/truecharts/containers/tree/master/mirrorarchiveteam-warrior
+- ""
 
 ## Available Documentation
 

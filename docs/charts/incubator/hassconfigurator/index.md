@@ -1,6 +1,6 @@
 # hassconfigurator
 
-![Version: 2.0.13](https://img.shields.io/badge/Version-2.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: x86_64](https://img.shields.io/badge/AppVersion-x86_64-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: x86_64](https://img.shields.io/badge/AppVersion-x86_64-informational?style=flat-square)
 
 Home Assistant online configurator Chart from https://github.com/danielperna84/hass-configurator
 
@@ -8,7 +8,7 @@ Home Assistant online configurator Chart from https://github.com/danielperna84/h
 
 - https://github.com/danielperna84/hass-configurator
 - https://github.com/truecharts/charts/tree/master/charts/incubator/hassconfigurator
-- https://github.com/truecharts/containers/tree/master/mirrorhassconfigurator
+- https://hub.docker.com/r/causticlab/hass-configurator-docker
 
 ## Available Documentation
 

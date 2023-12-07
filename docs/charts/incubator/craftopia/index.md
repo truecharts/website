@@ -1,6 +1,6 @@
 # craftopia
 
-![Version: 2.0.12](https://img.shields.io/badge/Version-2.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: craftopia](https://img.shields.io/badge/AppVersion-craftopia-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Craftopia and run it.
 
@@ -8,7 +8,7 @@ This Chart will download and install SteamCMD. It will also install Craftopia an
 
 - https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/craftopia
-- https://github.com/truecharts/containers/tree/master/mirrorcraftopia
+- https://hub.docker.com/r/ich777/steamcmd
 
 ## Available Documentation
 

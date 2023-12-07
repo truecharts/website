@@ -1,12 +1,12 @@
 # inkscape-desktop-g3
 
-![Version: 2.0.15](https://img.shields.io/badge/Version-2.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Headless Ubuntu/Xfce Charts with VNC/noVNC for diagramming, image editing and 2D/3D drawing
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrorinkscape-desktop-g3
+- https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-inkscape-g3
 - https://github.com/accetto/headless-drawing-g3/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/inkscape-desktop-g3
 

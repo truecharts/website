@@ -1,6 +1,6 @@
 # prpdf
 
-![Version: 2.0.16](https://img.shields.io/badge/Version-2.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan with OCR. Merge etc.
 
@@ -8,7 +8,7 @@ This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan wi
 
 - https://github.com/maschhoff/prpdf
 - https://github.com/truecharts/charts/tree/master/charts/incubator/prpdf
-- https://github.com/truecharts/containers/tree/master/mirrorprpdf
+- https://hub.docker.com/r/knex666/prpdf
 
 ## Available Documentation
 

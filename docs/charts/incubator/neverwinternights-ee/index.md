@@ -1,6 +1,6 @@
 # neverwinternights-ee
 
-![Version: 2.0.12](https://img.shields.io/badge/Version-2.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This Chart will download and install Neverwinter Nights: Enhanced Edition and run it (by default this Chart has a MariaDB and Redis Server integrated).
 
@@ -8,7 +8,7 @@ This Chart will download and install Neverwinter Nights: Enhanced Edition and ru
 
 - https://www.beamdog.com/games/neverwinter-nights-enhanced/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/neverwinternights-ee
-- https://github.com/truecharts/containers/tree/master/mirrorneverwinternights-ee
+- https://hub.docker.com/r/ich777/nwnee-server
 
 ## Available Documentation
 

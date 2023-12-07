@@ -1,6 +1,6 @@
 # drone-runner
 
-![Version: 3.0.12](https://img.shields.io/badge/Version-3.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.0](https://img.shields.io/badge/AppVersion-1.0.0-informational?style=flat-square)
+![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.0](https://img.shields.io/badge/AppVersion-1.0.0-informational?style=flat-square)
 
 Drone by Harness™ is a modern Continuous Integration platform
 
@@ -8,7 +8,7 @@ Drone by Harness™ is a modern Continuous Integration platform
 
 - https://docs.drone.io
 - https://github.com/truecharts/charts/tree/master/charts/incubator/drone-runner
-- https://github.com/truecharts/containers/tree/master/mirrordrone-runner-kube
+- https://hub.docker.com/r/drone/drone-runner-kube
 
 ## Available Documentation
 

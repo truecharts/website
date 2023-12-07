@@ -1,6 +1,6 @@
 # kdenlive-vnc
 
-![Version: 2.0.12](https://img.shields.io/badge/Version-2.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
 
@@ -8,7 +8,7 @@ An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
 
 - https://github.com/JonathanTreffler/kdenlive-vnc-docker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/kdenlive-vnc
-- https://github.com/truecharts/containers/tree/master/mirrorkdenlive-vnc
+- https://hub.docker.com/r/tessypowder/docker-kdenlive
 
 ## Available Documentation
 

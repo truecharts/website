@@ -1,6 +1,6 @@
 # teedy-docs
 
-![Version: 2.0.14](https://img.shields.io/badge/Version-2.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Teedy is an open-source, lightweight document management system (DMS) for individuals and businesses.
 
@@ -8,7 +8,7 @@ Teedy is an open-source, lightweight document management system (DMS) for indivi
 
 - https://github.com/sismics/docs
 - https://github.com/truecharts/charts/tree/master/charts/incubator/teedy-docs
-- https://github.com/truecharts/containers/tree/master/mirrorteedy-docs
+- https://hub.docker.com/r/sismics/docs
 
 ## Available Documentation
 

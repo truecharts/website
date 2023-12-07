@@ -1,6 +1,6 @@
 # privatebin
 
-![Version: 3.0.33](https://img.shields.io/badge/Version-3.0.33-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.1](https://img.shields.io/badge/AppVersion-1.5.1-informational?style=flat-square)
+![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.0](https://img.shields.io/badge/AppVersion-1.6.0-informational?style=flat-square)
 
 PrivateBin is a minimalist, open source online pastebin where the server has zero knowledge of pasted data.
 
@@ -9,7 +9,7 @@ PrivateBin is a minimalist, open source online pastebin where the server has zer
 - https://privatebin.info/
 - https://github.com/PrivateBin/PrivateBin
 - https://github.com/truecharts/charts/tree/master/charts/incubator/privatebin
-- https://github.com/truecharts/containers/tree/master/mirrorprivatebin
+- https://hub.docker.com/r/privatebin/pdo
 
 ## Available Documentation
 

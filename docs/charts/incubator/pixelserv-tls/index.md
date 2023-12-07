@@ -1,6 +1,6 @@
 # pixelserv-tls
 
-![Version: 2.0.12](https://img.shields.io/badge/Version-2.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 pixelserv-tls is a tiny bespoke HTTP/1.1 webserver with HTTPS and SNI support. It acts on behalf of hundreds of thousands of advert/tracker servers and responds to all requests with nothing to speed up web browsing.
 
@@ -8,7 +8,7 @@ pixelserv-tls is a tiny bespoke HTTP/1.1 webserver with HTTPS and SNI support. I
 
 - https://github.com/imTHAI/docker-pixelserv-tls
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pixelserv-tls
-- https://github.com/truecharts/containers/tree/master/mirrorpixelserv-tls
+- https://hub.docker.com/r/imthai/pixelserv-tls
 
 ## Available Documentation
 

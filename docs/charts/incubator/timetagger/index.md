@@ -1,6 +1,6 @@
 # timetagger
 
-![Version: 2.0.17](https://img.shields.io/badge/Version-2.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.2.1](https://img.shields.io/badge/AppVersion-23.2.1-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2](https://img.shields.io/badge/AppVersion-23.11.2-informational?style=flat-square)
 
 An open source time-tracker with an interactive user experience and powerful reporting.
 
@@ -9,7 +9,7 @@ An open source time-tracker with an interactive user experience and powerful rep
 - https://timetagger.app
 - https://github.com/almarklein/timetagger
 - https://github.com/truecharts/charts/tree/master/charts/incubator/timetagger
-- https://github.com/truecharts/containers/tree/master/mirrortimetagger
+- https://ghcr.io/almarklein/timetagger
 
 ## Available Documentation
 

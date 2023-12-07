@@ -1,14 +1,14 @@
 # fistfuloffrags
 
-![Version: 2.0.12](https://img.shields.io/badge/Version-2.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: fistfuloffrags](https://img.shields.io/badge/AppVersion-fistfuloffrags-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Fistful of Frags and run it.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/ich777/steamcmd
 - https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fistfuloffrags
-- https://github.com/truecharts/containers/tree/master/mirrorfistfuloffrags
 
 ## Available Documentation
 

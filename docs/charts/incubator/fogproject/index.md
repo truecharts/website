@@ -1,6 +1,6 @@
 # fogproject
 
-![Version: 2.0.12](https://img.shields.io/badge/Version-2.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 FOG Project can capture, deploy, and manage Windows, Mac OSX, and various Linux distributions.
 
@@ -8,7 +8,7 @@ FOG Project can capture, deploy, and manage Windows, Mac OSX, and various Linux 
 
 - https://github.com/redvex2460/fogproject
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fogproject
-- https://github.com/truecharts/containers/tree/master/mirrorfogproject
+- https://hub.docker.com/r/redvex2460/fogproject
 
 ## Available Documentation
 

@@ -1,6 +1,6 @@
 # snowflake-proxy
 
-![Version: 0.0.15](https://img.shields.io/badge/Version-0.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.5.1](https://img.shields.io/badge/AppVersion-2.5.1-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.0](https://img.shields.io/badge/AppVersion-2.6.0-informational?style=flat-square)
 
 Snowflake's Proxy component to help users in the censored regions.
 
@@ -8,7 +8,7 @@ Snowflake's Proxy component to help users in the censored regions.
 
 - https://gitlab.torproject.org/tpo/anti-censorship/docker-snowflake-proxy
 - https://github.com/truecharts/charts/tree/master/charts/incubator/snowflake-proxy
-- https://github.com/truecharts/containers/tree/master/mirrorsnowflake-proxy
+- https://hub.docker.com/r/thetorproject/snowflake-proxy
 
 ## Available Documentation
 

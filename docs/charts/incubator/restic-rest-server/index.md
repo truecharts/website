@@ -1,6 +1,6 @@
 # restic-rest-server
 
-![Version: 2.0.14](https://img.shields.io/badge/Version-2.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.12.1](https://img.shields.io/badge/AppVersion-0.12.1-informational?style=flat-square)
 
 Rest Server is a high performance HTTP server that implements restic's REST backend API. It provides secure and efficient way to backup data remotely, using restic backup client via the rest: URL.
 
@@ -8,7 +8,7 @@ Rest Server is a high performance HTTP server that implements restic's REST back
 
 - https://github.com/restic/rest-server
 - https://github.com/truecharts/charts/tree/master/charts/incubator/restic-rest-server
-- https://github.com/truecharts/containers/tree/master/mirrorrestic-rest-server
+- https://hub.docker.com/r/restic/rest-server
 
 ## Available Documentation
 

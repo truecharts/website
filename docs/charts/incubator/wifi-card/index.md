@@ -1,14 +1,14 @@
 # wifi-card
 
-![Version: 2.0.18](https://img.shields.io/badge/Version-2.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Print a neat little card with your WiFi info and stick it on the fridge.
 
 ## Chart Sources
 
-- https://github.com/bndw/wifi-card
 - https://github.com/truecharts/charts/tree/master/charts/incubator/wifi-card
-- https://github.com/truecharts/containers/tree/master/mirrorwifi-card
+- https://hub.docker.com/r/bndw/wifi-card
+- https://github.com/bndw/wifi-card
 
 ## Available Documentation
 

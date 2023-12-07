@@ -1,13 +1,13 @@
 # pydio-cells
 
-![Version: 8.0.3](https://img.shields.io/badge/Version-8.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.6](https://img.shields.io/badge/AppVersion-4.0.6-informational?style=flat-square)
+![Version: 9.0.0](https://img.shields.io/badge/Version-9.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.1](https://img.shields.io/badge/AppVersion-4.3.1-informational?style=flat-square)
 
 Pydio-cells is the nextgen file sharing platform for organizations.
 
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pydio-cells
-- https://github.com/truecharts/containers/tree/master/mirrorpydio-cells
+- https://hub.docker.com/r/pydio/cells
 
 ## Available Documentation
 

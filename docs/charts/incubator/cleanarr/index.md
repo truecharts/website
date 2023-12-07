@@ -1,14 +1,14 @@
 # cleanarr
 
-![Version: 2.0.13](https://img.shields.io/badge/Version-2.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.4](https://img.shields.io/badge/AppVersion-2.1.4-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.5.0](https://img.shields.io/badge/AppVersion-2.5.0-informational?style=flat-square)
 
 A simple UI to help find and delete duplicate and sample files from your Plex server.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/selexin/cleanarr
 - https://github.com/se1exin/cleanarr
 - https://github.com/truecharts/charts/tree/master/charts/incubator/cleanarr
-- https://github.com/truecharts/containers/tree/master/mirrorcleanarr
 
 ## Available Documentation
 
