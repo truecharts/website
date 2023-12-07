@@ -28,7 +28,7 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 
 ## Getting started using Charts with your own Domain
 
-- Steps Above -> [Minimal Getting Started with SCALE](link)
+- Steps Above -> [Minimal Getting Started with SCALE](https://truecharts.org/manual/SCALE/guides/getting-started#minimal-getting-started-setup-with-scale)
 - Use Cloudflare for DNS and create API token -> [Guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to#configure-acme-issuer)
 - Add ClusterIssuer -> [Clusterissuer How-to](https://truecharts.org/charts/enterprise/clusterissuer/how-to)
 - Move TrueNAS Port to 81,444 -> [TrueNAS WebUI Instructions](https://truecharts.org/charts/enterprise/traefik/how-to#truenas-webui)
