@@ -1,4 +1,3 @@
-
 ---
 slug: "january-2024-changes-preview"
 title: "Exciting Changes on the Horizon: TrueCharts Updates coming in January 2024!"
