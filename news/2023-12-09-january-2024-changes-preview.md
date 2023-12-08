@@ -32,8 +32,12 @@ For users who haven't made modifications to their CloudNative-PG configuration, 
 ## Ingress Value Restructuring
 Certain changes to ingress values will be introduced. Detailed information about these changes will be published around the time of the release. We appreciate your patience and cooperation as we work to streamline and optimize our systems.
 
-# Stay Up-to-Date for a Smooth Upgrade
-To ensure a seamless transition to the next major step in TrueCharts, we strongly advise all users to ensure they are up-to-date before January 1, 2024. This proactive measure will pave the way for a smooth upgrade and unlock the full potential of the latest TrueCharts version.
+# Stay Up-to-Date for a Smoother Upgrade
+To ensure a seamless transition to the next major step in TrueCharts, we strongly advise all users to ensure they are up-to-date before January 1, 2024. This proactive measure should pave the way for a smooth upgrade and prevent reinstallation of certain charts.
+
+## Disclaimer
+
+**Important Warning**: While we work hard to ensure a smooth transition, we cannot guarantee it. Some users might have to reinstall some charts. However, we are confident that this will be an extremely small minority.
 
 The TrueCharts community has been a driving force behind our growth, and we're excited to embark on this journey with you. We appreciate your continued support and look forward to ushering in a new era of TrueCharts together.
 
