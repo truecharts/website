@@ -2,6 +2,15 @@
 
 
 
+## [meshcentral-12.0.0](https://github.com/truecharts/charts/compare/meshcentral-11.0.15...meshcentral-12.0.0) (2023-12-11)
+
+### Feat
+
+- Move to postgres **Breaking** ([#15954](https://github.com/truecharts/charts/issues/15954))
+  
+  
+
+
 ## [meshcentral-11.0.15](https://github.com/truecharts/charts/compare/meshcentral-11.0.14...meshcentral-11.0.15) (2023-12-03)
 
 ### Chore
