@@ -12,6 +12,11 @@
 
 
 
+## [csi-driver-smb-1.0.1](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.0...csi-driver-smb-1.0.1) (2023-12-12)
+
+
+
+
 ## [csi-driver-smb-1.0.0](https://github.com/truecharts/charts/compare/csi-driver-smb-0.1.1...csi-driver-smb-1.0.0) (2023-12-07)
 
 ### Chore

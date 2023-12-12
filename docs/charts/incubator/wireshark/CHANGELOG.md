@@ -20,6 +20,15 @@
   
 
 
+## [wireshark-6.0.1](https://github.com/truecharts/charts/compare/wireshark-5.0.3...wireshark-6.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [wireshark-5.0.3](https://github.com/truecharts/charts/compare/wireshark-5.0.2...wireshark-5.0.3) (2023-12-06)
 

@@ -20,6 +20,15 @@
   
 
 
+## [clipplex-1.0.1](https://github.com/truecharts/charts/compare/clipplex-0.0.9...clipplex-1.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [clipplex-0.0.9](https://github.com/truecharts/charts/compare/clipplex-0.0.8...clipplex-0.0.9) (2023-12-06)
 
