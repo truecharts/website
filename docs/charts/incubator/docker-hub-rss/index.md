@@ -6,9 +6,9 @@ RSS feed for Chart Hub images.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/incubator/docker-hub-rss
 - https://hub.docker.com/r/theconnman/docker-hub-rss
 - https://github.com/TheConnMan/docker-hub-rss
-- https://github.com/truecharts/charts/tree/master/charts/incubator/docker-hub-rss
 
 ## Available Documentation
 

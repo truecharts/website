@@ -8,9 +8,9 @@ A utility to "burn-in" a new disk, before adding it to your array has been reque
 
 - https://registry.hub.docker.com/r/binhex/arch-preclear/
 - https://github.com/binhex/documentation
+- https://forums.TrueNAS.net/topic/2732-preclear_disksh-a-new-utility-to-burn-in-and-pre-clear-disks-for-quick-add/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/preclear
 - https://hub.docker.com/r/binhex/arch-preclear
-- https://forums.TrueNAS.net/topic/2732-preclear_disksh-a-new-utility-to-burn-in-and-pre-clear-disks-for-quick-add/
 
 ## Available Documentation
 

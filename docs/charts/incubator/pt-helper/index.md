@@ -6,8 +6,8 @@ A tool that can automatically download free seeds and delete them after the free
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/pt-helper
 - https://hub.docker.com/r/crazyq/pt_helper
+- https://github.com/truecharts/charts/tree/master/charts/incubator/pt-helper
 
 ## Available Documentation
 

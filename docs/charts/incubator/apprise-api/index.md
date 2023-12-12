@@ -6,9 +6,9 @@ Push notifications that work with just about every platform!
 
 ## Chart Sources
 
+- https://hub.docker.com/r/caronc/apprise
 - https://github.com/caronc/apprise-api
 - https://github.com/truecharts/charts/tree/master/charts/incubator/apprise-api
-- https://hub.docker.com/r/caronc/apprise
 
 ## Available Documentation
 

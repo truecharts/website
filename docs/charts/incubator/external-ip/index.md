@@ -6,9 +6,9 @@ Gets external IP via DIG command ( OpenDNS , Cloudflare, google ) on a scheduled
 
 ## Chart Sources
 
+- https://hub.docker.com/r/xavierh/external-ip
 - https://github.com/xavier-hernandez/docker-external-ip
 - https://github.com/truecharts/charts/tree/master/charts/incubator/external-ip
-- https://hub.docker.com/r/xavierh/external-ip
 
 ## Available Documentation
 

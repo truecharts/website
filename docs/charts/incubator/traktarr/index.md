@@ -6,9 +6,9 @@ Script to add new series and movies to Sonarr/Radarr based on Trakt lists.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/eafxx/traktarr
 - https://github.com/l3uddz/traktarr
 - https://github.com/truecharts/charts/tree/master/charts/incubator/traktarr
+- https://hub.docker.com/r/eafxx/traktarr
 
 ## Available Documentation
 

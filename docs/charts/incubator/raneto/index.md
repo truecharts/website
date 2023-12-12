@@ -6,10 +6,10 @@ Raneto(http://raneto.com/) - is an open source Knowledgebase platform that uses 
 
 ## Chart Sources
 
-- https://fleet.linuxserver.io/image?name=linuxserver/raneto
 - https://github.com/orgs/linuxserver/packages/container/package/raneto
 - https://github.com/linuxserver/docker-raneto#readme
 - https://github.com/truecharts/charts/tree/master/charts/incubator/raneto
+- https://fleet.linuxserver.io/image?name=linuxserver/raneto
 
 ## Available Documentation
 

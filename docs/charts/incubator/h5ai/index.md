@@ -6,9 +6,9 @@ h5ai is a modern file indexer for HTTP web servers with focus on your files. Dir
 
 ## Chart Sources
 
-- https://hub.docker.com/r/awesometic/h5ai
 - https://github.com/awesometic/docker-h5ai
 - https://github.com/truecharts/charts/tree/master/charts/incubator/h5ai
+- https://hub.docker.com/r/awesometic/h5ai
 
 ## Available Documentation
 

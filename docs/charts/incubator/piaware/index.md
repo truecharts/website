@@ -6,9 +6,9 @@ Program for forwarding ADS-B data to FlightAware
 
 ## Chart Sources
 
+- https://github.com/flightaware/piaware
 - https://github.com/truecharts/charts/tree/master/charts/incubator/piaware
 - https://hub.docker.com/r/mikenye/piaware
-- https://github.com/flightaware/piaware
 
 ## Available Documentation
 

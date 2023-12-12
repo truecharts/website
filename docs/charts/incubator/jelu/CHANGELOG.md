@@ -11,6 +11,15 @@
   
 
 
+## [jelu-3.0.1](https://github.com/truecharts/charts/compare/jelu-2.0.19...jelu-3.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [jelu-2.0.19](https://github.com/truecharts/charts/compare/jelu-2.0.18...jelu-2.0.19) (2023-12-06)
 

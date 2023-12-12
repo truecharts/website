@@ -11,6 +11,15 @@
   
 
 
+## [fileshelter-3.0.1](https://github.com/truecharts/charts/compare/fileshelter-2.0.15...fileshelter-3.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [fileshelter-2.0.15](https://github.com/truecharts/charts/compare/fileshelter-2.0.14...fileshelter-2.0.15) (2023-12-06)
 

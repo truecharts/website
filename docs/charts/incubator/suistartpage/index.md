@@ -6,9 +6,9 @@ SUI Startpage is a simple and clean server start page or homepage that you can q
 
 ## Chart Sources
 
+- https://github.com/CorneliousJD/SUI-Startpage
 - https://github.com/truecharts/charts/tree/master/charts/incubator/suistartpage
 - https://hub.docker.com/r/corneliousjd/sui-startpage
-- https://github.com/CorneliousJD/SUI-Startpage
 
 ## Available Documentation
 

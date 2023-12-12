@@ -6,9 +6,9 @@ Mediaelch is a Tool to manage your movie and show libary regarding the metadata 
 
 ## Chart Sources
 
-- https://hub.docker.com/r/masonxx/mediaelch
 - https://github.com/Komet/MediaElch
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mediaelch
+- https://hub.docker.com/r/masonxx/mediaelch
 
 ## Available Documentation
 

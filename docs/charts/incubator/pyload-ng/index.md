@@ -6,11 +6,11 @@ pyLoad(https://pyload.net/) is a Free and Open Source download manager written i
 
 ## Chart Sources
 
-- https://fleet.linuxserver.io/image?name=linuxserver/pyload-ng
 - https://github.com/linuxserver/docker-pyload-ng#readme
 - https://pyload.net/
 - https://github.com/orgs/linuxserver/packages/container/package/pyload-ng
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pyload-ng
+- https://fleet.linuxserver.io/image?name=linuxserver/pyload-ng
 
 ## Available Documentation
 

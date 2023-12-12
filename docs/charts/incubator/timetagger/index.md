@@ -7,9 +7,9 @@ An open source time-tracker with an interactive user experience and powerful rep
 ## Chart Sources
 
 - https://github.com/almarklein/timetagger
+- https://timetagger.app
 - https://github.com/truecharts/charts/tree/master/charts/incubator/timetagger
 - https://ghcr.io/almarklein/timetagger
-- https://timetagger.app
 
 ## Available Documentation
 

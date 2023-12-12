@@ -6,9 +6,9 @@ RadarrSync Syncs two Radarr servers through web API. This is a modified version 
 
 ## Chart Sources
 
-- https://hub.docker.com/r/dmanius/radarrsync-docker
 - https://github.com/dairefinn/RadarrSync
 - https://github.com/truecharts/charts/tree/master/charts/incubator/radarrsync
+- https://hub.docker.com/r/dmanius/radarrsync-docker
 
 ## Available Documentation
 

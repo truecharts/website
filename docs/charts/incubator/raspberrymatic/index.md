@@ -6,10 +6,10 @@ A free and non-commercial open-source operating system alternative for running a
 
 ## Chart Sources
 
-- https://github.com/jens-maus/RaspberryMatic
 - https://github.com/jens-maus/RaspberryMatic/pkgs/container/raspberrymatic
 - https://github.com/truecharts/charts/tree/master/charts/incubator/raspberrymatic
 - https://ghcr.io/jens-maus/raspberrymatic
+- https://github.com/jens-maus/RaspberryMatic
 
 ## Available Documentation
 

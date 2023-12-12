@@ -6,9 +6,9 @@ Orbital Sync synchronizes multiple Pi-hole instances for high availability.
 
 ## Chart Sources
 
-- https://ghcr.io/mattwebbio/orbital-sync
 - https://github.com/mattwebbio/orbital-sync/pkgs/container/orbital-sync
 - https://github.com/truecharts/charts/tree/master/charts/incubator/orbital-sync
+- https://ghcr.io/mattwebbio/orbital-sync
 
 ## Available Documentation
 

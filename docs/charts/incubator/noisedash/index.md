@@ -6,9 +6,9 @@ Self-hosted web tool for generating ambient noises
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/incubator/noisedash
 - https://hub.docker.com/r/noisedash/noisedash
 - https://github.com/kaythomas0/noisedash
-- https://github.com/truecharts/charts/tree/master/charts/incubator/noisedash
 
 ## Available Documentation
 

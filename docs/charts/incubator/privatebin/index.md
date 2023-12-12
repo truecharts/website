@@ -6,10 +6,10 @@ PrivateBin is a minimalist, open source online pastebin where the server has zer
 
 ## Chart Sources
 
-- https://privatebin.info/
-- https://github.com/PrivateBin/PrivateBin
 - https://github.com/truecharts/charts/tree/master/charts/incubator/privatebin
 - https://hub.docker.com/r/privatebin/pdo
+- https://privatebin.info/
+- https://github.com/PrivateBin/PrivateBin
 
 ## Available Documentation
 

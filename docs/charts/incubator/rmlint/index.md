@@ -6,9 +6,9 @@ rmlint finds space waste and other broken things on your filesystem and offers t
 
 ## Chart Sources
 
-- https://hub.docker.com/r/bobbintb/docker-rmlint-unraid
 - https://github.com/sahib/rmlint
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rmlint
+- https://hub.docker.com/r/bobbintb/docker-rmlint-unraid
 
 ## Available Documentation
 

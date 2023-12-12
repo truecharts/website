@@ -6,9 +6,9 @@ Automatically backup github repositories on schedule. Allows for custom configur
 
 ## Chart Sources
 
+- https://hub.docker.com/r/llalon/github-backup
 - https://github.com/abusesa/github-backup
 - https://github.com/truecharts/charts/tree/master/charts/incubator/llalon-github-backup
-- https://hub.docker.com/r/llalon/github-backup
 
 ## Available Documentation
 

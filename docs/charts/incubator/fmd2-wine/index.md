@@ -6,9 +6,9 @@
 
 ## Chart Sources
 
+- https://github.com/Banh-Canh/docker-FMD2
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fmd2-wine
 - https://hub.docker.com/r/banhcanh/docker-fmd2
-- https://github.com/Banh-Canh/docker-FMD2
 
 ## Available Documentation
 

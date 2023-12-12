@@ -6,8 +6,8 @@ DVBLink need to enjoy your favorite channels and recordings within your home net
 
 ## Chart Sources
 
-- https://hub.docker.com/r/chvb/docker-dvblink
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dvblink
+- https://hub.docker.com/r/chvb/docker-dvblink
 
 ## Available Documentation
 

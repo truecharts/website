@@ -6,9 +6,9 @@ vlmcsd is a replacement for Microsoft's KMS server.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/mikolatero/vlmcsd
 - https://github.com/mikolatero/docker-vlmcsd
 - https://github.com/truecharts/charts/tree/master/charts/incubator/vlmcsd-kms-server
-- https://hub.docker.com/r/mikolatero/vlmcsd
 
 ## Available Documentation
 

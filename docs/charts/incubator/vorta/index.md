@@ -6,9 +6,9 @@ Vorta is a backup client for macOS and Linux desktops. It integrates the mighty 
 
 ## Chart Sources
 
+- https://github.com/borgbase/vorta-docker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/vorta
 - https://ghcr.io/borgbase/vorta-docker
-- https://github.com/borgbase/vorta-docker
 
 ## Available Documentation
 

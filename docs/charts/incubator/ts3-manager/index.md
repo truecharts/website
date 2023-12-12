@@ -6,9 +6,9 @@ A modern web interface for maintaining Teamspeak3 servers.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/joni1802/ts3-manager
 - https://github.com/joni1802/ts3-manager/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ts3-manager
+- https://hub.docker.com/r/joni1802/ts3-manager
 
 ## Available Documentation
 
