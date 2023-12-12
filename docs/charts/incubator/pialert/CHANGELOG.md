@@ -38,6 +38,15 @@
   
 
 
+## [pialert-3.0.1](https://github.com/truecharts/charts/compare/pialert-2.0.5...pialert-3.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [pialert-2.0.5](https://github.com/truecharts/charts/compare/pialert-2.0.4...pialert-2.0.5) (2023-12-06)
 

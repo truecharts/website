@@ -38,6 +38,15 @@
   
 
 
+## [dns-doh-companion-3.0.1](https://github.com/truecharts/charts/compare/dns-doh-companion-2.0.18...dns-doh-companion-3.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [dns-doh-companion-2.0.18](https://github.com/truecharts/charts/compare/dns-doh-companion-2.0.17...dns-doh-companion-2.0.18) (2023-12-06)
 
