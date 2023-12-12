@@ -1,6 +1,6 @@
 # jitsi
 
-![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable-8960](https://img.shields.io/badge/AppVersion-stable-8960-informational?style=flat-square)
+![Version: 3.0.1](https://img.shields.io/badge/Version-3.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable-8960](https://img.shields.io/badge/AppVersion-stable-8960-informational?style=flat-square)
 
 Jitsi is a set of open-source projects that allows you to easily build and deploy secure video conferencing solutions
 
