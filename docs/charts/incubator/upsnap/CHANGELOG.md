@@ -74,6 +74,15 @@
   
 
 
+## [upsnap-1.0.1](https://github.com/truecharts/charts/compare/upsnap-0.0.5...upsnap-1.0.1) (2023-12-13)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [upsnap-1.0.1](https://github.com/truecharts/charts/compare/upsnap-0.0.5...upsnap-1.0.1) (2023-12-12)
 
 ### Chore

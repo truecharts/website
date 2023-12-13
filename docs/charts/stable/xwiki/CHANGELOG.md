@@ -29,6 +29,15 @@
   
 
 
+## [xwiki-8.1.3](https://github.com/truecharts/charts/compare/xwiki-8.1.2...xwiki-8.1.3) (2023-12-13)
+
+### Chore
+
+- update container image xwiki to 15.10.0-postgres-tomcat[@554b5c6](https://github.com/554b5c6) ([#16033](https://github.com/truecharts/charts/issues/16033))
+  
+  
+
+
 ## [xwiki-8.1.2](https://github.com/truecharts/charts/compare/xwiki-8.1.1...xwiki-8.1.2) (2023-12-03)
 
 ### Chore
