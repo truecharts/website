@@ -6,9 +6,9 @@ An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
 
 ## Chart Sources
 
-- https://github.com/JonathanTreffler/kdenlive-vnc-docker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/kdenlive-vnc
 - https://hub.docker.com/r/tessypowder/docker-kdenlive
+- https://github.com/JonathanTreffler/kdenlive-vnc-docker
 
 ## Available Documentation
 

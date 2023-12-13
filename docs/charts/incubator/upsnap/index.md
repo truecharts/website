@@ -6,9 +6,9 @@ A simple wake on lan app written with SvelteKit, Go, PocketBase and nmap.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/upsnap
 - https://ghcr.io/seriousm4x/upsnap
 - https://github.com/seriousm4x/UpSnap
+- https://github.com/truecharts/charts/tree/master/charts/incubator/upsnap
 
 ## Available Documentation
 

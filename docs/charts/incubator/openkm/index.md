@@ -6,10 +6,10 @@ OpenKM integrates all essential documents management, collaboration and an advan
 
 ## Chart Sources
 
-- https://github.com/openkm/document-management-system
-- https://www.openkm.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/openkm
 - https://hub.docker.com/r/openkm/openkm-ce
+- https://github.com/openkm/document-management-system
+- https://www.openkm.com/
 
 ## Available Documentation
 

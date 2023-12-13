@@ -6,9 +6,9 @@ A chatbot that invites discord users to plex.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/piratify/invitarr
 - https://github.com/Sleepingpirates/Invitarr
 - https://github.com/truecharts/charts/tree/master/charts/incubator/invitarr
+- https://hub.docker.com/r/piratify/invitarr
 
 ## Available Documentation
 

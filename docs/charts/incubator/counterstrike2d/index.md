@@ -6,9 +6,9 @@ This Chart will download and install CounterStrike 2D.
 
 ## Chart Sources
 
-- https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/counterstrike2d
 - https://hub.docker.com/r/ich777/cs2dserver
+- https://www.steampowered.com/
 
 ## Available Documentation
 

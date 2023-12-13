@@ -6,9 +6,9 @@ Somfy Protect to MQTT
 
 ## Chart Sources
 
-- https://hub.docker.com/r/minims/somfyprotect2mqtt
 - https://github.com/Minims/SomfyProtect2MQTT
 - https://github.com/truecharts/charts/tree/master/charts/incubator/somfyprotect2mqtt
+- https://hub.docker.com/r/minims/somfyprotect2mqtt
 
 ## Available Documentation
 

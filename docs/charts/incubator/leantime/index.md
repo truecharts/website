@@ -6,9 +6,9 @@ Straightforward open source project management system to make your ideas reality
 
 ## Chart Sources
 
-- https://hub.docker.com/r/leantime/leantime
 - https://leantime.io/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/leantime
+- https://hub.docker.com/r/leantime/leantime
 
 ## Available Documentation
 

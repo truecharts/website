@@ -6,8 +6,8 @@ Conreq, a Content Requesting platform.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/conreq
 - https://hotio.dev/containers/conreq
+- https://github.com/truecharts/charts/tree/master/charts/incubator/conreq
 
 ## Available Documentation
 

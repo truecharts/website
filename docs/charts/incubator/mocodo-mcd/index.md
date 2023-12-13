@@ -6,9 +6,9 @@ Mocodo est un logiciel d'aide  l'enseignement et  la conception des bases de don
 
 ## Chart Sources
 
-- https://rawgit.com/laowantong/mocodo/master/doc/fr_refman.html#utiliser_mocodo_en_ligne_de_commande
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mocodo-mcd
 - https://hub.docker.com/r/olprog/mocodo
+- https://rawgit.com/laowantong/mocodo/master/doc/fr_refman.html#utiliser_mocodo_en_ligne_de_commande
 
 ## Available Documentation
 

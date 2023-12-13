@@ -6,9 +6,9 @@ Alpine-based Chart for Hastebin, the node.js paste service
 
 ## Chart Sources
 
+- https://hub.docker.com/r/flippinturt/hastebin
 - https://github.com/nzzane/haste-server
 - https://github.com/truecharts/charts/tree/master/charts/incubator/hastebin
-- https://hub.docker.com/r/flippinturt/hastebin
 
 ## Available Documentation
 

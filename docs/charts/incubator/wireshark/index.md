@@ -6,8 +6,8 @@ Wireshark is the worlds foremost and widely-used network protocol analyzer.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/wireshark
 - https://ghcr.io/linuxserver/wireshark
+- https://github.com/truecharts/charts/tree/master/charts/incubator/wireshark
 
 ## Available Documentation
 

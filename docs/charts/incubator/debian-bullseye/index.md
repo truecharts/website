@@ -6,9 +6,9 @@ This Chart is a full Debian Bullseye Xfce4 Desktop environment with a noVNC webG
 
 ## Chart Sources
 
+- https://hub.docker.com/r/ich777/debian-bullseye
 - https://www.debian.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/debian-bullseye
-- https://hub.docker.com/r/ich777/debian-bullseye
 
 ## Available Documentation
 

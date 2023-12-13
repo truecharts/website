@@ -6,9 +6,9 @@ Damselfly is a server-based Digital Asset Management system.  The goal of Damsel
 
 ## Chart Sources
 
+- https://github.com/Webreaper/Damselfly
 - https://github.com/truecharts/charts/tree/master/charts/incubator/damselfly
 - https://hub.docker.com/r/webreaper/damselfly
-- https://github.com/Webreaper/Damselfly
 
 ## Available Documentation
 

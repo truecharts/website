@@ -6,9 +6,9 @@ Livebook is a web application for writing interactive and collaborative code not
 
 ## Chart Sources
 
+- https://livebook.dev/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/livebook
 - https://hub.docker.com/r/livebook/livebook
-- https://livebook.dev/
 
 ## Available Documentation
 

@@ -6,8 +6,8 @@ Kerio Connect is Mail/Groupware like Microsoft Exchange, but running on Linux. M
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/kerio-connect
 - https://hub.docker.com/r/chvb/docker-kerio-connect
+- https://github.com/truecharts/charts/tree/master/charts/incubator/kerio-connect
 
 ## Available Documentation
 

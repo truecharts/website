@@ -6,9 +6,9 @@ Lemur manages TLS certificate creation. While not able to issue certificates its
 
 ## Chart Sources
 
-- https://hub.docker.com/r/halianelf/lemur
 - https://github.com/Netflix/lemur
 - https://github.com/truecharts/charts/tree/master/charts/incubator/lemur-cfssl
+- https://hub.docker.com/r/halianelf/lemur
 
 ## Available Documentation
 

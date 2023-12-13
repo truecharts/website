@@ -6,9 +6,9 @@ Shapeshifter-Obfuscator is a Chartized implementation of shapeshifter-dispatcher
 
 ## Chart Sources
 
+- https://hub.docker.com/r/juchong/shapeshifter-docker
 - https://github.com/juchong/shapeshifter-docker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/shapeshifter-obfuscator
-- https://hub.docker.com/r/juchong/shapeshifter-docker
 
 ## Available Documentation
 

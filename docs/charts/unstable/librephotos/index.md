@@ -7,7 +7,7 @@ A self-hosted open source photo management service.
 ## Chart Sources
 
 - https://github.com/LibrePhotos/librephotos
-- https://github.com/truecharts/charts/tree/master/charts/incubator/librephotos
+- https://github.com/truecharts/charts/tree/master/charts/unstable/librephotos
 - https://hub.docker.com/r/reallibrephotos/librephotos
 
 ## Available Documentation

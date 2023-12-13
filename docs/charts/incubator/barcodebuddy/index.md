@@ -6,9 +6,9 @@
 
 ## Chart Sources
 
+- https://hub.docker.com/r/f0rc3/barcodebuddy-docker
 - https://github.com/Forceu/barcodebuddy
 - https://github.com/truecharts/charts/tree/master/charts/incubator/barcodebuddy
-- https://hub.docker.com/r/f0rc3/barcodebuddy-docker
 
 ## Available Documentation
 

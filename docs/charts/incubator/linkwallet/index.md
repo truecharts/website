@@ -6,9 +6,9 @@ A self-hosted bookmark database with full-text page content search.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/tardisx/linkwallet
 - https://github.com/tardisx/linkwallet
 - https://github.com/truecharts/charts/tree/master/charts/incubator/linkwallet
+- https://hub.docker.com/r/tardisx/linkwallet
 
 ## Available Documentation
 

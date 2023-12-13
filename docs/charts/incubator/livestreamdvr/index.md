@@ -6,9 +6,9 @@ An automatic twitch recorder.
 
 ## Chart Sources
 
-- https://github.com/MrBrax/LiveStreamDVR
 - https://github.com/truecharts/charts/tree/master/charts/incubator/livestreamdvr
 - https://hub.docker.com/r/mrbrax/twitchautomator
+- https://github.com/MrBrax/LiveStreamDVR
 
 ## Available Documentation
 

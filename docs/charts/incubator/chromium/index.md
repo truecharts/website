@@ -6,9 +6,9 @@ Chromium is a free and open-source software project developed by the Google-spon
 
 ## Chart Sources
 
-- https://www.google.com/chrome/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/chromium
 - https://hub.docker.com/r/ich777/chrome
+- https://www.google.com/chrome/
 
 ## Available Documentation
 
