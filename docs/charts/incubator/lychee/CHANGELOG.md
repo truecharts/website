@@ -56,6 +56,15 @@
   
 
 
+## [lychee-18.0.1](https://github.com/truecharts/charts/compare/lychee-17.0.3...lychee-18.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [lychee-17.0.3](https://github.com/truecharts/charts/compare/lychee-17.0.2...lychee-17.0.3) (2023-12-06)
 

@@ -56,6 +56,15 @@
   
 
 
+## [pvk-ii-3.0.1](https://github.com/truecharts/charts/compare/pvk-ii-2.0.13...pvk-ii-3.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [pvk-ii-2.0.13](https://github.com/truecharts/charts/compare/pvk-ii-2.0.12...pvk-ii-2.0.13) (2023-12-06)
 
