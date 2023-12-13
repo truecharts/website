@@ -6,9 +6,9 @@ IPTV service providing streaming, playlist, search engine and epg.
 
 ## Chart Sources
 
+- https://github.com/vstavrinov/acestream-service
 - https://github.com/truecharts/charts/tree/master/charts/incubator/acestream
 - https://hub.docker.com/r/vstavrinov/acestream-service
-- https://github.com/vstavrinov/acestream-service
 
 ## Available Documentation
 

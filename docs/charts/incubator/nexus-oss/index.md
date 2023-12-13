@@ -6,8 +6,8 @@ Sonatype Nexus open source is a artifact repository manager
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/nexus-oss
 - https://hub.docker.com/r/sonatype/nexus3
+- https://github.com/truecharts/charts/tree/master/charts/incubator/nexus-oss
 
 ## Available Documentation
 

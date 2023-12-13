@@ -6,9 +6,9 @@ This is a dependancy Chart for the application "TubeArchivist"
 
 ## Chart Sources
 
-- https://github.com/elastic/elasticsearch
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tubearchivist-es
 - https://hub.docker.com/r/bbilly1/tubearchivist-es
+- https://github.com/elastic/elasticsearch
 
 ## Available Documentation
 

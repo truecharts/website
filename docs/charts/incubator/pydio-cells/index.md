@@ -6,8 +6,8 @@ Pydio-cells is the nextgen file sharing platform for organizations.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/pydio-cells
 - https://hub.docker.com/r/pydio/cells
+- https://github.com/truecharts/charts/tree/master/charts/incubator/pydio-cells
 
 ## Available Documentation
 

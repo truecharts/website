@@ -6,9 +6,9 @@ Ephemeral version requires no other database Chart! PasswordPusher or PWPush is 
 
 ## Chart Sources
 
-- https://github.com/pglombardo/PasswordPusher
 - https://github.com/truecharts/charts/tree/master/charts/incubator/passwordpusherephemeral
 - https://hub.docker.com/r/pglombardo/pwpush-ephemeral
+- https://github.com/pglombardo/PasswordPusher
 
 ## Available Documentation
 

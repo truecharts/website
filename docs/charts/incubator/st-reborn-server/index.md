@@ -6,9 +6,9 @@ Skyrim Together Reborn server files.
 
 ## Chart Sources
 
+- https://github.com/tiltedphoques/TiltedEvolution
 - https://github.com/truecharts/charts/tree/master/charts/incubator/st-reborn-server
 - https://hub.docker.com/r/tiltedphoques/st-reborn-server
-- https://github.com/tiltedphoques/TiltedEvolution
 
 ## Available Documentation
 

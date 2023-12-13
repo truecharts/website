@@ -6,8 +6,8 @@ HOOBS is a Homebridge stack with a interface that simplifies configuration and i
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/hoobs
 - https://hub.docker.com/r/hoobs/hoobs
+- https://github.com/truecharts/charts/tree/master/charts/incubator/hoobs
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ Monitoring your WIFI/LAN network and alerting of new (intruder or hacker) device
 
 ## Chart Sources
 
-- https://hub.docker.com/r/jokobsk/pi.alert
 - https://github.com/jokob-sk/Pi.Alert
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pialert
+- https://hub.docker.com/r/jokobsk/pi.alert
 
 ## Available Documentation
 

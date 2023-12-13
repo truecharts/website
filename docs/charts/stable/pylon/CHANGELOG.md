@@ -2,6 +2,15 @@
 
 
 
+## [pylon-6.0.23](https://github.com/truecharts/charts/compare/pylon-6.0.22...pylon-6.0.23) (2023-12-13)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/pylon to 2.10.0[@ab173d1](https://github.com/ab173d1) ([#15995](https://github.com/truecharts/charts/issues/15995))
+  
+  
+
+
 ## [pylon-6.0.23](https://github.com/truecharts/charts/compare/pylon-6.0.22...pylon-6.0.23) (2023-12-12)
 
 ### Chore

@@ -6,9 +6,9 @@ Mobile friendly tool for downloading videos from social media.
 
 ## Chart Sources
 
+- https://github.com/rroller/media-roller
 - https://github.com/truecharts/charts/tree/master/charts/incubator/media-roller
 - https://hub.docker.com/r/ronnieroller/media-roller
-- https://github.com/rroller/media-roller
 
 ## Available Documentation
 

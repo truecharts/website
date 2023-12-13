@@ -6,9 +6,9 @@ Clip your plex media to share.
 
 ## Chart Sources
 
-- https://github.com/jo-nike/clipplex
 - https://github.com/truecharts/charts/tree/master/charts/incubator/clipplex
 - https://hub.docker.com/r/jonnike/clipplex
+- https://github.com/jo-nike/clipplex
 
 ## Available Documentation
 

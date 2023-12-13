@@ -6,9 +6,9 @@ Drone by Harness™ is a modern Continuous Integration platform
 
 ## Chart Sources
 
-- https://hub.docker.com/r/drone/drone-runner-kube
 - https://docs.drone.io
 - https://github.com/truecharts/charts/tree/master/charts/incubator/drone-runner
+- https://hub.docker.com/r/drone/drone-runner-kube
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ FlutterCoin may be a coin with the tried and true algorithm of scrypt, but it's 
 
 ## Chart Sources
 
+- https://hub.docker.com/r/ich777/fluttercoin
 - https://fluttercoin.me/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fluttercoin-wallet
-- https://hub.docker.com/r/ich777/fluttercoin
 
 ## Available Documentation
 

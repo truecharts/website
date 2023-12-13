@@ -6,8 +6,8 @@ The Bitcoin Unlimited project seeks to provide a voice to all stakeholders in th
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoinunlimited
 - https://hub.docker.com/r/amacneil/bitcoinunlimited
+- https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoinunlimited
 
 ## Available Documentation
 

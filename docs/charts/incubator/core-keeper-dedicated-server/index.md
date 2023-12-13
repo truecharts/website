@@ -6,9 +6,9 @@ Chart file for the new Core Keeper dedicated server running from SteamCMD. (No a
 
 ## Chart Sources
 
+- https://github.com/escapingnetwork/core-keeper-dedicated/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/core-keeper-dedicated-server
 - https://hub.docker.com/r/escaping/core-keeper-dedicated
-- https://github.com/escapingnetwork/core-keeper-dedicated/
 
 ## Available Documentation
 

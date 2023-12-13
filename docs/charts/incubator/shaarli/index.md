@@ -6,9 +6,9 @@ The personal, minimalist, super-fast, database free, bookmarking service.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/shaarli/shaarli
 - https://github.com/shaarli/Shaarli
 - https://github.com/truecharts/charts/tree/master/charts/incubator/shaarli
-- https://hub.docker.com/r/shaarli/shaarli
 
 ## Available Documentation
 

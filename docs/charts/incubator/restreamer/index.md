@@ -6,9 +6,9 @@ Allows smart free video streaming in real time.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/incubator/restreamer
 - https://hub.docker.com/r/datarhei/restreamer
 - https://datarhei.github.io/restreamer/
-- https://github.com/truecharts/charts/tree/master/charts/incubator/restreamer
 
 ## Available Documentation
 

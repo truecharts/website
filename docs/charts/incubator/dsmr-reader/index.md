@@ -6,10 +6,10 @@ DSMR-protocol reader, telegram data storage and energy consumption visualizer.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/xirixiz/dsmr-reader-docker
 - https://github.com/dsmrreader/dsmr-reader
 - https://github.com/xirixiz/dsmr-reader-docker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dsmr-reader
+- https://hub.docker.com/r/xirixiz/dsmr-reader-docker
 
 ## Available Documentation
 

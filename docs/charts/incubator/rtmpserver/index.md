@@ -6,9 +6,9 @@ A video streaming server that supports RTMP, HLS, DASH out of the box.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/alqutami/rtmp-hls
 - https://github.com/TareqAlqutami/rtmp-hls-server
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rtmpserver
+- https://hub.docker.com/r/alqutami/rtmp-hls
 
 ## Available Documentation
 

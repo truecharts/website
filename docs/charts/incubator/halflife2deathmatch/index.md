@@ -6,9 +6,9 @@ This Chart will download and install SteamCMD. It will also install HalfLife2 De
 
 ## Chart Sources
 
+- https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/halflife2deathmatch
 - https://hub.docker.com/r/ich777/steamcmd
-- https://www.steampowered.com/
 
 ## Available Documentation
 

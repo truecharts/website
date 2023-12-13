@@ -6,9 +6,9 @@ All your audiobooks in one place
 
 ## Chart Sources
 
+- https://github.com/openaudible/openaudible_docker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/openaudible
 - https://hub.docker.com/r/openaudible/openaudible
-- https://github.com/openaudible/openaudible_docker
 
 ## Available Documentation
 

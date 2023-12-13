@@ -6,8 +6,8 @@ This is a Chart of Thunder downloader.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/caiguai/docker-xware
 - https://github.com/truecharts/charts/tree/master/charts/incubator/xware
+- https://hub.docker.com/r/caiguai/docker-xware
 
 ## Available Documentation
 
