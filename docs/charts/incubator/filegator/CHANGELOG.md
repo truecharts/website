@@ -74,6 +74,15 @@
   
 
 
+## [filegator-3.0.1](https://github.com/truecharts/charts/compare/filegator-2.0.12...filegator-3.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [filegator-2.0.12](https://github.com/truecharts/charts/compare/filegator-2.0.11...filegator-2.0.12) (2023-12-06)
 

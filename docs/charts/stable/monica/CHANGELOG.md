@@ -11,6 +11,15 @@
   
 
 
+## [monica-8.0.13](https://github.com/truecharts/charts/compare/monica-8.0.12...monica-8.0.13) (2023-12-13)
+
+### Chore
+
+- update container image monica to 4.0.0[@d6594b6](https://github.com/d6594b6) ([#16025](https://github.com/truecharts/charts/issues/16025))
+  
+  
+
+
 ## [monica-8.0.12](https://github.com/truecharts/charts/compare/monica-8.0.11...monica-8.0.12) (2023-12-03)
 
 ### Chore
