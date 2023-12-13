@@ -137,6 +137,15 @@
   
 
 
+## [appsmith-6.0.1](https://github.com/truecharts/charts/compare/appsmith-5.0.37...appsmith-6.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [appsmith-5.0.37](https://github.com/truecharts/charts/compare/appsmith-5.0.36...appsmith-5.0.37) (2023-12-06)
 

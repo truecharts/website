@@ -92,6 +92,15 @@
   
 
 
+## [jenkins-4.4.0](https://github.com/truecharts/charts/compare/jenkins-4.3.0...jenkins-4.4.0) (2023-12-13)
+
+### Chore
+
+- update container image jenkins/jenkins to v2.436-jdk17[@8d037d0](https://github.com/8d037d0) ([#16016](https://github.com/truecharts/charts/issues/16016))
+  
+  
+
+
 ## [jenkins-4.4.0](https://github.com/truecharts/charts/compare/jenkins-4.3.0...jenkins-4.4.0) (2023-12-12)
 
 ### Chore

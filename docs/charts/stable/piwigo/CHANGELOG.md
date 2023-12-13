@@ -74,6 +74,15 @@
   
 
 
+## [piwigo-8.0.1](https://github.com/truecharts/charts/compare/piwigo-8.0.0...piwigo-8.0.1) (2023-12-13)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/piwigo to 14.0.0[@0eb2a0a](https://github.com/0eb2a0a) ([#16022](https://github.com/truecharts/charts/issues/16022))
+  
+  
+
+
 ## [piwigo-8.0.0](https://github.com/truecharts/charts/compare/piwigo-7.0.22...piwigo-8.0.0) (2023-12-12)
 
 ### Chore

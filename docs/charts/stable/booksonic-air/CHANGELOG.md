@@ -2,6 +2,15 @@
 
 
 
+## [booksonic-air-10.0.25](https://github.com/truecharts/charts/compare/booksonic-air-10.0.24...booksonic-air-10.0.25) (2023-12-13)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/booksonic-air to 2201.1.0[@e665beb](https://github.com/e665beb) ([#16043](https://github.com/truecharts/charts/issues/16043))
+  
+  
+
+
 ## [booksonic-air-10.0.24](https://github.com/truecharts/charts/compare/booksonic-air-10.0.23...booksonic-air-10.0.24) (2023-12-06)
 
 ### Chore

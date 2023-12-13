@@ -11,6 +11,15 @@
   
 
 
+## [logitech-media-server-8.1.3](https://github.com/truecharts/charts/compare/logitech-media-server-8.1.2...logitech-media-server-8.1.3) (2023-12-13)
+
+### Chore
+
+- update container image lmscommunity/logitechmediaserver to stable[@4a5dc6c](https://github.com/4a5dc6c) ([#16036](https://github.com/truecharts/charts/issues/16036))
+  
+  
+
+
 ## [logitech-media-server-8.1.2](https://github.com/truecharts/charts/compare/logitech-media-server-8.1.1...logitech-media-server-8.1.2) (2023-12-07)
 
 ### Chore

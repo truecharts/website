@@ -92,6 +92,15 @@
   
 
 
+## [somfyprotect2mqtt-1.0.1](https://github.com/truecharts/charts/compare/somfyprotect2mqtt-0.0.5...somfyprotect2mqtt-1.0.1) (2023-12-13)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [somfyprotect2mqtt-1.0.1](https://github.com/truecharts/charts/compare/somfyprotect2mqtt-0.0.5...somfyprotect2mqtt-1.0.1) (2023-12-12)
 
 ### Chore
