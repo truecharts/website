@@ -20,6 +20,15 @@
   
 
 
+## [fmd2-wine-3.0.1](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.12...fmd2-wine-3.0.1) (2023-12-13)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [fmd2-wine-3.0.1](https://github.com/truecharts/charts/compare/fmd2-wine-2.0.12...fmd2-wine-3.0.1) (2023-12-12)
 
 ### Chore
