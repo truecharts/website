@@ -101,6 +101,15 @@
   
 
 
+## [fancyindex-4.0.1](https://github.com/truecharts/charts/compare/fancyindex-3.0.11...fancyindex-4.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [fancyindex-3.0.11](https://github.com/truecharts/charts/compare/fancyindex-3.0.10...fancyindex-3.0.11) (2023-12-06)
 

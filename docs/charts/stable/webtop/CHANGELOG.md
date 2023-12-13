@@ -20,6 +20,15 @@
   
 
 
+## [webtop-6.0.225](https://github.com/truecharts/charts/compare/webtop-6.0.219...webtop-6.0.225) (2023-12-13)
+
+### Chore
+
+- update webtop ([#16027](https://github.com/truecharts/charts/issues/16027))
+  
+  
+
+
 ## [webtop-6.0.219](https://github.com/truecharts/charts/compare/webtop-6.0.203...webtop-6.0.219) (2023-12-12)
 
 ### Chore
