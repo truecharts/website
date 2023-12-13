@@ -20,6 +20,15 @@
   
 
 
+## [debian-bullseye-3.0.1](https://github.com/truecharts/charts/compare/debian-bullseye-2.1.12...debian-bullseye-3.0.1) (2023-12-13)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [debian-bullseye-3.0.1](https://github.com/truecharts/charts/compare/debian-bullseye-2.1.12...debian-bullseye-3.0.1) (2023-12-12)
 
 ### Chore

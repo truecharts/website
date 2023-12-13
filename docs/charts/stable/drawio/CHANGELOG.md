@@ -83,6 +83,15 @@
   
 
 
+## [drawio-6.0.30](https://github.com/truecharts/charts/compare/drawio-6.0.29...drawio-6.0.30) (2023-12-13)
+
+### Chore
+
+- update container image jgraph/drawio to v22.1.8[@a330f59](https://github.com/a330f59) ([#16011](https://github.com/truecharts/charts/issues/16011))
+  
+  
+
+
 ## [drawio-6.0.30](https://github.com/truecharts/charts/compare/drawio-6.0.29...drawio-6.0.30) (2023-12-12)
 
 ### Chore
