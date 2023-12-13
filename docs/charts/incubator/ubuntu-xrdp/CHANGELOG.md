@@ -38,6 +38,15 @@
   
 
 
+## [ubuntu-xrdp-3.0.1](https://github.com/truecharts/charts/compare/ubuntu-xrdp-2.1.10...ubuntu-xrdp-3.0.1) (2023-12-13)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [ubuntu-xrdp-3.0.1](https://github.com/truecharts/charts/compare/ubuntu-xrdp-2.1.10...ubuntu-xrdp-3.0.1) (2023-12-12)
 
 ### Chore

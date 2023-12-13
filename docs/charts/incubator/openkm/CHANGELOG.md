@@ -38,6 +38,15 @@
   
 
 
+## [openkm-12.0.1](https://github.com/truecharts/charts/compare/openkm-11.0.3...openkm-12.0.1) (2023-12-13)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [openkm-12.0.1](https://github.com/truecharts/charts/compare/openkm-11.0.3...openkm-12.0.1) (2023-12-12)
 
 ### Chore

@@ -20,6 +20,15 @@
   
 
 
+## [calibre-11.1.38](https://github.com/truecharts/charts/compare/calibre-11.1.37...calibre-11.1.38) (2023-12-13)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/calibre to 7.1.0[@d843436](https://github.com/d843436) ([#16034](https://github.com/truecharts/charts/issues/16034))
+  
+  
+
+
 ## [calibre-11.1.37](https://github.com/truecharts/charts/compare/calibre-11.1.36...calibre-11.1.37) (2023-12-06)
 
 ### Chore

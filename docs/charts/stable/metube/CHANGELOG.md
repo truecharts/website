@@ -2,6 +2,15 @@
 
 
 
+## [metube-8.1.3](https://github.com/truecharts/charts/compare/metube-8.1.2...metube-8.1.3) (2023-12-13)
+
+### Chore
+
+- update container image alexta69/metube to v2023-12-13[@75a66a0](https://github.com/75a66a0) ([#16047](https://github.com/truecharts/charts/issues/16047))
+  
+  
+
+
 ## [metube-8.1.2](https://github.com/truecharts/charts/compare/metube-8.1.1...metube-8.1.2) (2023-12-12)
 
 ### Chore
