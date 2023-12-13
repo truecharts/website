@@ -27,6 +27,11 @@
 
 
 
+## [csi-driver-nfs-1.0.1](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.0...csi-driver-nfs-1.0.1) (2023-12-13)
+
+
+
+
 ## [csi-driver-nfs-1.0.1](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.0...csi-driver-nfs-1.0.1) (2023-12-12)
 
 

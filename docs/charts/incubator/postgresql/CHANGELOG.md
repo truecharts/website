@@ -52,6 +52,11 @@
 
 
 
+## [postgresql-15.0.1](https://github.com/truecharts/charts/compare/postgresql-15.0.0...postgresql-15.0.1) (2023-12-12)
+
+
+
+
 ## [postgresql-15.0.0](https://github.com/truecharts/charts/compare/postgresql-14.0.9...postgresql-15.0.0) (2023-12-07)
 
 ### Chore
