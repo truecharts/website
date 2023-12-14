@@ -83,6 +83,15 @@
   
 
 
+## [wallos-1.0.5](https://github.com/truecharts/charts/compare/wallos-1.0.4...wallos-1.0.5) (2023-12-14)
+
+### Chore
+
+- update container image docker.io/bellamy/wallos to latest[@188250c](https://github.com/188250c) ([#16021](https://github.com/truecharts/charts/issues/16021))
+  
+  
+
+
 ## [wallos-1.0.5](https://github.com/truecharts/charts/compare/wallos-1.0.4...wallos-1.0.5) (2023-12-13)
 
 ### Chore

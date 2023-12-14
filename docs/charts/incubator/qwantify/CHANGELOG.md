@@ -83,6 +83,15 @@
   
 
 
+## [qwantify-1.0.1](https://github.com/truecharts/charts/compare/qwantify-0.0.7...qwantify-1.0.1) (2023-12-14)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [qwantify-1.0.1](https://github.com/truecharts/charts/compare/qwantify-0.0.7...qwantify-1.0.1) (2023-12-13)
 
 ### Chore

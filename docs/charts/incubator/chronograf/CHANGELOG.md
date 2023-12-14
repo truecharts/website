@@ -38,6 +38,15 @@
   
 
 
+## [chronograf-3.0.1](https://github.com/truecharts/charts/compare/chronograf-2.0.17...chronograf-3.0.1) (2023-12-14)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [chronograf-3.0.1](https://github.com/truecharts/charts/compare/chronograf-2.0.17...chronograf-3.0.1) (2023-12-13)
 
 ### Chore
