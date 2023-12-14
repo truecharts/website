@@ -146,6 +146,15 @@
   
 
 
+## [sheetable-4.0.1](https://github.com/truecharts/charts/compare/sheetable-3.0.26...sheetable-4.0.1) (2023-12-13)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [sheetable-4.0.1](https://github.com/truecharts/charts/compare/sheetable-3.0.26...sheetable-4.0.1) (2023-12-12)
 
 ### Chore

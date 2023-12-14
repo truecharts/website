@@ -2,6 +2,15 @@
 
 
 
+## [kanboard-13.0.12](https://github.com/truecharts/charts/compare/kanboard-13.0.11...kanboard-13.0.12) (2023-12-14)
+
+### Chore
+
+- update container image kanboard/kanboard to v1.2.34[@63faa98](https://github.com/63faa98) ([#16067](https://github.com/truecharts/charts/issues/16067))
+  
+  
+
+
 ## [kanboard-13.0.11](https://github.com/truecharts/charts/compare/kanboard-13.0.10...kanboard-13.0.11) (2023-12-03)
 
 ### Chore

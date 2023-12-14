@@ -22,6 +22,11 @@
 
 
 
+## [awesome-ttrss-5.0.1](https://github.com/truecharts/charts/compare/awesome-ttrss-5.0.0...awesome-ttrss-5.0.1) (2023-12-14)
+
+
+
+
 ## [awesome-ttrss-5.0.1](https://github.com/truecharts/charts/compare/awesome-ttrss-5.0.0...awesome-ttrss-5.0.1) (2023-12-12)
 
 

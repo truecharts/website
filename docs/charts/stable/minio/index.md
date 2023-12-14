@@ -1,14 +1,14 @@
 # minio
 
-![Version: 7.1.4](https://img.shields.io/badge/Version-7.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.12.09](https://img.shields.io/badge/AppVersion-2023.12.09-informational?style=flat-square)
+![Version: 7.1.5](https://img.shields.io/badge/Version-7.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.12.13](https://img.shields.io/badge/AppVersion-2023.12.13-informational?style=flat-square)
 
 Minio is a self-hosted S3 storage server
 
 ## Chart Sources
 
-- https://github.com/minio/minio
 - https://github.com/truecharts/charts/tree/master/charts/stable/minio
 - https://hub.docker.com/r/minio/minio
+- https://github.com/minio/minio
 
 ## Available Documentation
 
