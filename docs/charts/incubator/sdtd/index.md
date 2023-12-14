@@ -6,9 +6,9 @@ This chart will download and install SteamCMD. It will also install 7 Days to Di
 
 ## Chart Sources
 
+- https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/sdtd
 - https://hub.docker.com/r/ich777/steamcmd
-- https://www.steampowered.com/
 
 ## Available Documentation
 

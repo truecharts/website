@@ -6,9 +6,9 @@ A fancy self-hosted monitoring tool
 
 ## Chart Sources
 
+- https://hub.docker.com/r/louislam/uptime-kuma
 - https://github.com/louislam/uptime-kuma
 - https://github.com/truecharts/charts/tree/master/charts/stable/uptime-kuma
-- https://hub.docker.com/r/louislam/uptime-kuma
 
 ## Available Documentation
 

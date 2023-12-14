@@ -6,9 +6,9 @@ Web-based IRC client in Go.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/khlieng/dispatch
 - https://github.com/khlieng/dispatch
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dispatch
-- https://hub.docker.com/r/khlieng/dispatch
 
 ## Available Documentation
 

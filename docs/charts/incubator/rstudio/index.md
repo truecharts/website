@@ -6,9 +6,9 @@ Integrated development environment for R, a programming language for statistical
 
 ## Chart Sources
 
+- https://hub.docker.com/r/rocker/rstudio
 - https://github.com/rocker-org/rocker-versioned2
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rstudio
-- https://hub.docker.com/r/rocker/rstudio
 
 ## Available Documentation
 

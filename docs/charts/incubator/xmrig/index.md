@@ -6,8 +6,8 @@ Chartised version of XMRig for CPU Mining. Helps turn your TrueNAS server into a
 
 ## Chart Sources
 
-- https://hub.docker.com/r/lnxd/xmrig
 - https://github.com/truecharts/charts/tree/master/charts/incubator/xmrig
+- https://hub.docker.com/r/lnxd/xmrig
 
 ## Available Documentation
 

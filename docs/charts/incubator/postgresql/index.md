@@ -6,9 +6,9 @@ PostgresSQL
 
 ## Chart Sources
 
-- https://www.postgresql.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/postgresql
 - https://hub.docker.com/r/bitnami/postgresql
+- https://www.postgresql.org/
 
 ## Available Documentation
 

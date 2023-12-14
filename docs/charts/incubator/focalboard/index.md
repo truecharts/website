@@ -6,11 +6,11 @@ Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asa
 
 ## Chart Sources
 
-- https://www.focalboard.com/
 - https://github.com/mattermost/focalboard
 - https://github.com/FlipEnergy/container-images/blob/main/focalboard
 - https://github.com/truecharts/charts/tree/master/charts/incubator/focalboard
 - https://hub.docker.com/r/mattermost/focalboard
+- https://www.focalboard.com/
 
 ## Available Documentation
 

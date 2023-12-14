@@ -6,9 +6,9 @@ a xml grabber from schedule direct service
 
 ## Chart Sources
 
+- https://hub.docker.com/r/alturismo/guide2go
 - https://github.com/alturismo/guide2go
 - https://github.com/truecharts/charts/tree/master/charts/incubator/guide2go
-- https://hub.docker.com/r/alturismo/guide2go
 
 ## Available Documentation
 

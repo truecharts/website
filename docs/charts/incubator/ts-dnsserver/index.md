@@ -6,9 +6,9 @@ Technitium DNS Server is an open source tool that can be used for self hosting a
 
 ## Chart Sources
 
+- https://hub.docker.com/r/roxedus/ts-dnsserver
 - https://github.com/TechnitiumSoftware/DnsServer
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ts-dnsserver
-- https://hub.docker.com/r/roxedus/ts-dnsserver
 
 ## Available Documentation
 

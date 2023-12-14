@@ -6,9 +6,9 @@ Urban Terror is a free multiplayer first person shooter developed by FrozenSand,
 
 ## Chart Sources
 
-- https://www.urbanterror.info/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/urban-terror
 - https://hub.docker.com/r/ich777/urbanterror
+- https://www.urbanterror.info/
 
 ## Available Documentation
 

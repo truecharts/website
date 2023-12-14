@@ -6,9 +6,9 @@ Proxy is in quotes because I couldn't think of a better name. There is nothing o
 
 ## Chart Sources
 
+- https://hub.docker.com/r/jmzsoftware/jmzhomelabproxy
 - https://github.com/JmzTaylor/homelab_proxy/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/jmzhomeproxy
-- https://hub.docker.com/r/jmzsoftware/jmzhomelabproxy
 
 ## Available Documentation
 

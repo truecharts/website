@@ -6,9 +6,9 @@ A simple UI to help find and delete duplicate and sample files from your Plex se
 
 ## Chart Sources
 
-- https://github.com/se1exin/cleanarr
 - https://github.com/truecharts/charts/tree/master/charts/incubator/cleanarr
 - https://hub.docker.com/r/selexin/cleanarr
+- https://github.com/se1exin/cleanarr
 
 ## Available Documentation
 

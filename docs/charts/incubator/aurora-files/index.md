@@ -6,9 +6,9 @@ Aurora Files is an open-source file storage platform for small teams and persona
 
 ## Chart Sources
 
-- https://github.com/afterlogic/docker-aurora-files
 - https://github.com/truecharts/charts/tree/master/charts/incubator/aurora-files
 - https://hub.docker.com/r/afterlogic/docker-aurora-files
+- https://github.com/afterlogic/docker-aurora-files
 
 ## Available Documentation
 

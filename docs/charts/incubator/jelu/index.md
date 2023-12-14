@@ -6,9 +6,9 @@ Track what you have read, what you are reading and what you want to read.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/wabayang/jelu
 - https://github.com/bayang/jelu
 - https://github.com/truecharts/charts/tree/master/charts/incubator/jelu
-- https://hub.docker.com/r/wabayang/jelu
 
 ## Available Documentation
 

@@ -7,9 +7,9 @@ Ghost is an open source, professional publishing platform built on a modern Node
 ## Chart Sources
 
 - https://ghost.org/docs/
+- https://github.com/TryGhost/Ghost
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ghost
 - https://hub.docker.com/_/ghost
-- https://github.com/TryGhost/Ghost
 
 ## Available Documentation
 

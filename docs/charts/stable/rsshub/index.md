@@ -6,10 +6,10 @@ RSSHub can generate RSS feeds from pretty much everything
 
 ## Chart Sources
 
+- https://hub.docker.com/r/diygod/rsshub
 - https://docs.rsshub.app/en/install/
 - https://github.com/DIYgod/RSSHub
 - https://github.com/truecharts/charts/tree/master/charts/stable/rsshub
-- https://hub.docker.com/r/diygod/rsshub
 
 ## Available Documentation
 
