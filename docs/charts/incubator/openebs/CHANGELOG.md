@@ -37,6 +37,11 @@
 
 
 
+## [openebs-1.0.1](https://github.com/truecharts/charts/compare/openebs-1.0.0...openebs-1.0.1) (2023-12-14)
+
+
+
+
 ## [openebs-1.0.1](https://github.com/truecharts/charts/compare/openebs-1.0.0...openebs-1.0.1) (2023-12-13)
 
 

@@ -65,6 +65,15 @@
   
 
 
+## [nocodb-9.0.15](https://github.com/truecharts/charts/compare/nocodb-9.0.14...nocodb-9.0.15) (2023-12-14)
+
+### Chore
+
+- update container image nocodb/nocodb to v0.202.10[@2a5f136](https://github.com/2a5f136) ([#16039](https://github.com/truecharts/charts/issues/16039))
+  
+  
+
+
 ## [nocodb-9.0.15](https://github.com/truecharts/charts/compare/nocodb-9.0.14...nocodb-9.0.15) (2023-12-13)
 
 ### Chore

@@ -65,6 +65,15 @@
   
 
 
+## [borg-server-1.1.0](https://github.com/truecharts/charts/compare/borg-server-1.0.4...borg-server-1.1.0) (2023-12-14)
+
+### Chore
+
+- update container image ghcr.io/anotherstranger/borg-server to v2.2.1[@cb6d584](https://github.com/cb6d584) ([#16041](https://github.com/truecharts/charts/issues/16041))
+  
+  
+
+
 ## [borg-server-1.1.0](https://github.com/truecharts/charts/compare/borg-server-1.0.4...borg-server-1.1.0) (2023-12-13)
 
 ### Chore

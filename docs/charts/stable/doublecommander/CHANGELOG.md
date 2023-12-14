@@ -47,6 +47,15 @@
   
 
 
+## [doublecommander-9.0.27](https://github.com/truecharts/charts/compare/doublecommander-9.0.26...doublecommander-9.0.27) (2023-12-14)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/doublecommander to latest[@b375e7a](https://github.com/b375e7a) ([#16053](https://github.com/truecharts/charts/issues/16053))
+  
+  
+
+
 ## [doublecommander-9.0.26](https://github.com/truecharts/charts/compare/doublecommander-9.0.25...doublecommander-9.0.26) (2023-12-07)
 
 ### Chore
