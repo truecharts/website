@@ -6,9 +6,9 @@ Status page for monitoring your websites and applications.
 
 ## Chart Sources
 
+- https://github.com/statping/statping
 - https://github.com/truecharts/charts/tree/master/charts/incubator/statping-ng
 - https://quay.io/statping-ng/statping-ng
-- https://github.com/statping/statping
 
 ## Available Documentation
 

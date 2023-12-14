@@ -7,8 +7,8 @@ A simple way to backup important files to Google Cloud Storage.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/google-cloud-storage-backup
 - https://hub.docker.com/r/vinid223/gcloud-storage-backup
+- https://github.com/truecharts/charts/tree/master/charts/incubator/google-cloud-storage-backup
 
 ## Available Documentation
 

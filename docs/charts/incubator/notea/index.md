@@ -6,10 +6,10 @@ Self hosted note taking, alternative to Notions. Look at Github for config
 
 ## Chart Sources
 
-- https://hub.docker.com/r/diamkil/notea
 - https://registry.hub.docker.com/r/diamkil/notea/
 - https://github.com/diamkil/docker-notea
 - https://github.com/truecharts/charts/tree/master/charts/incubator/notea
+- https://hub.docker.com/r/diamkil/notea
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ Selfhosted web manga reader.
 
 ## Chart Sources
 
-- https://github.com/faldez/tanoshi
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tanoshi
 - https://hub.docker.com/r/faldez/tanoshi
+- https://github.com/faldez/tanoshi
 
 ## Available Documentation
 

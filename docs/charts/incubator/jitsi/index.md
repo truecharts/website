@@ -6,10 +6,10 @@ Jitsi is a set of open-source projects that allows you to easily build and deplo
 
 ## Chart Sources
 
+- https://hub.docker.com/r/jitsi/web
 - https://jitsi.org
 - https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-start
 - https://github.com/truecharts/charts/tree/master/charts/incubator/jitsi
-- https://hub.docker.com/r/jitsi/web
 
 ## Available Documentation
 

@@ -47,6 +47,15 @@
   
 
 
+## [rsshub-8.0.294](https://github.com/truecharts/charts/compare/rsshub-8.0.293...rsshub-8.0.294) (2023-12-14)
+
+### Chore
+
+- update container image diygod/rsshub to latest[@83cc8aa](https://github.com/83cc8aa) ([#16042](https://github.com/truecharts/charts/issues/16042))
+  
+  
+
+
 ## [rsshub-8.0.294](https://github.com/truecharts/charts/compare/rsshub-8.0.293...rsshub-8.0.294) (2023-12-13)
 
 ### Chore

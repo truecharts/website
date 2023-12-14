@@ -6,9 +6,9 @@ Dynamic DNS for Amazon Route 53‎ on a time-based schedule
 
 ## Chart Sources
 
+- https://hub.docker.com/r/crazymax/ddns-route53
 - https://github.com/crazy-max/ddns-route53
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ddns-route53
-- https://hub.docker.com/r/crazymax/ddns-route53
 
 ## Available Documentation
 

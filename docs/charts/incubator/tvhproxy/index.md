@@ -6,8 +6,8 @@ TvhProxy is a small flask app to proxy requests between Plex Media Server and Tv
 
 ## Chart Sources
 
-- https://hub.docker.com/r/chvb/docker-tvhproxy
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tvhproxy
+- https://hub.docker.com/r/chvb/docker-tvhproxy
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ This is a Basic Vintage Story Server it will download and install Vintage Story 
 
 ## Chart Sources
 
-- https://www.vintagestory.at/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/vintage-story
 - https://hub.docker.com/r/ich777/vintagestory
+- https://www.vintagestory.at/
 
 ## Available Documentation
 

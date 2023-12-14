@@ -6,9 +6,9 @@ a xml grabber for enigma with open webif
 
 ## Chart Sources
 
-- https://hub.docker.com/r/alturismo/owi2plex
 - https://github.com/alturismo/owi2plex
 - https://github.com/truecharts/charts/tree/master/charts/incubator/owi2plex
+- https://hub.docker.com/r/alturismo/owi2plex
 
 ## Available Documentation
 

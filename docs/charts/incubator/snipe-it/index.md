@@ -6,10 +6,10 @@ Open source asset management
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/snipe-it
-- https://hub.docker.com/r/snipe/snipe-it
 - https://snipeitapp.com/
 - https://github.com/snipe/snipe-it
+- https://github.com/truecharts/charts/tree/master/charts/incubator/snipe-it
+- https://hub.docker.com/r/snipe/snipe-it
 
 ## Available Documentation
 

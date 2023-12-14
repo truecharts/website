@@ -11,6 +11,15 @@
   
 
 
+## [satisfactory-6.1.0](https://github.com/truecharts/charts/compare/satisfactory-6.0.15...satisfactory-6.1.0) (2023-12-14)
+
+### Chore
+
+- update container image wolveix/satisfactory-server to v1.6.0[@134d4af](https://github.com/134d4af) ([#16058](https://github.com/truecharts/charts/issues/16058))
+  
+  
+
+
 ## [satisfactory-6.0.15](https://github.com/truecharts/charts/compare/satisfactory-6.0.14...satisfactory-6.0.15) (2023-12-03)
 
 ### Chore

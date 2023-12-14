@@ -6,9 +6,9 @@ Creates a simple webpage for Slack invite signups
 
 ## Chart Sources
 
+- httpss://github.com/ninthwalker/slack-invite
 - https://github.com/truecharts/charts/tree/master/charts/incubator/slack-invite
 - https://hub.docker.com/r/ninthwalker/slack-invite
-- httpss://github.com/ninthwalker/slack-invite
 
 ## Available Documentation
 

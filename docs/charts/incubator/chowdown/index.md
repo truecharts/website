@@ -6,8 +6,8 @@ Simple recipes in Markdown format.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/chowdown
 - https://hub.docker.com/r/gregyankovoy/chowdown
+- https://github.com/truecharts/charts/tree/master/charts/incubator/chowdown
 
 ## Available Documentation
 

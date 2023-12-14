@@ -6,10 +6,10 @@ csi-driver-smb is a smb CSI driver for kubernetes
 
 ## Chart Sources
 
-- https://cert-manager.io/
-- https://github.com/cert-manager
 - https://github.com/truecharts/charts/tree/master/charts/incubator/csi-driver-smb
 - https://github.com/truecharts/containers/tree/master/mirroralpine
+- https://cert-manager.io/
+- https://github.com/cert-manager
 
 ## Available Documentation
 

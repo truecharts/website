@@ -6,9 +6,9 @@
 
 ## Chart Sources
 
-- https://github.com/advplyr/fotosho
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fotosho
 - https://hub.docker.com/r/advplyr/fotosho
+- https://github.com/advplyr/fotosho
 
 ## Available Documentation
 

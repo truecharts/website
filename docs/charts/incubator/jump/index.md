@@ -6,9 +6,9 @@ Jump is yet another self-hosted startpage for your server designed to be simple,
 
 ## Chart Sources
 
+- https://github.com/daledavies/jump
 - https://github.com/truecharts/charts/tree/master/charts/incubator/jump
 - https://hub.docker.com/r/daledavies/jump
-- https://github.com/daledavies/jump
 
 ## Available Documentation
 

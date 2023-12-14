@@ -6,9 +6,9 @@ Universal Media Server is a DLNA-compliant UPnP Media Server. It is capable of s
 
 ## Chart Sources
 
-- https://hub.docker.com/r/universalmediaserver/ums
 - https://www.universalmediaserver.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/universal-media-server
+- https://hub.docker.com/r/universalmediaserver/ums
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ Kitana exposes your Plex plugin interfaces "to the outside world". It does that 
 
 ## Chart Sources
 
+- https://hub.docker.com/r/pannal/kitana
 - https://github.com/pannal/Kitana
 - https://github.com/truecharts/charts/tree/master/charts/incubator/kitana
-- https://hub.docker.com/r/pannal/kitana
 
 ## Available Documentation
 

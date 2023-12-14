@@ -6,10 +6,10 @@ Self Service Password is a PHP application that allows users to change their pas
 
 ## Chart Sources
 
-- https://hub.docker.com/r/tiredofit/self-service-password
 - https://self-service-password.readthedocs.io/en/latest
 - https://github.com/tiredofit/docker-self-service-password
 - https://github.com/truecharts/charts/tree/master/charts/incubator/self-service-password
+- https://hub.docker.com/r/tiredofit/self-service-password
 
 ## Available Documentation
 

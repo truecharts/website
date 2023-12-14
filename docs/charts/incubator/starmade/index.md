@@ -6,9 +6,9 @@ This Chart will download and install a StarMade Dedicated Server. It will also i
 
 ## Chart Sources
 
+- https://www.star-made.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/starmade
 - https://hub.docker.com/r/ich777/starmade-server
-- https://www.star-made.org/
 
 ## Available Documentation
 

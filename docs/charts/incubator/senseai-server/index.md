@@ -6,9 +6,9 @@ A standalone, self-hosted, fast, free and Open Source Artificial Intelligence mi
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/senseai-server
 - https://hub.docker.com/r/codeproject/senseai-server
 - https://github.com/codeproject/CodeProject.SenseAI
+- https://github.com/truecharts/charts/tree/master/charts/incubator/senseai-server
 
 ## Available Documentation
 

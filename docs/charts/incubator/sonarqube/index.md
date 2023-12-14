@@ -6,9 +6,9 @@ SonarQube is an open source platform for continuous inspection of code quality.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/incubator/sonarqube
 - https://hub.docker.com/_/sonarqube
 - https://github.com/SonarSource/sonarqube
-- https://github.com/truecharts/charts/tree/master/charts/incubator/sonarqube
 
 ## Available Documentation
 

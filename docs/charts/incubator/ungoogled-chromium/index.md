@@ -6,9 +6,9 @@ Ungoogled-Chromium is a lightweight approach to removing Google web service depe
 
 ## Chart Sources
 
-- https://www.google.com/chrome/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ungoogled-chromium
 - https://hub.docker.com/r/ich777/ungoogled-chromium
+- https://www.google.com/chrome/
 
 ## Available Documentation
 

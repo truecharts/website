@@ -7,7 +7,7 @@ Recipes is a Django application to manage, tag and search recipes using either b
 ## Chart Sources
 
 - https://github.com/vabene1111/recipes
-- https://github.com/truecharts/charts/tree/master/charts/incubator/recipes
+- https://github.com/truecharts/charts/tree/master/charts/unstable/recipes
 - https://hub.docker.com/r/vabene1111/recipes
 
 ## Available Documentation

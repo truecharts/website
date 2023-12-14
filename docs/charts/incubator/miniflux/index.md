@@ -6,9 +6,9 @@ Miniflux is a minimalist and opinionated feed reader.
 
 ## Chart Sources
 
-- https://github.com/miniflux/v2
 - https://github.com/truecharts/charts/tree/master/charts/incubator/miniflux
 - https://hub.docker.com/r/miniflux/miniflux
+- https://github.com/miniflux/v2
 
 ## Available Documentation
 

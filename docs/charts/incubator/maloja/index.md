@@ -6,9 +6,9 @@ Self-hosted music scrobble database to create personal listening statistics and 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/maloja
 - https://hub.docker.com/r/krateng/maloja
 - https://maloja.krateng.ch/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/maloja
 
 ## Available Documentation
 
