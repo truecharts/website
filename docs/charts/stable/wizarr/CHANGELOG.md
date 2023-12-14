@@ -37,6 +37,11 @@
 
 
 
+## [wizarr-3.0.15](https://github.com/truecharts/charts/compare/wizarr-3.0.14...wizarr-3.0.15) (2023-12-13)
+
+
+
+
 ## [wizarr-3.0.14](https://github.com/truecharts/charts/compare/wizarr-3.0.13...wizarr-3.0.14) (2023-12-03)
 
 ### Chore
