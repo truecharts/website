@@ -74,6 +74,15 @@
   
 
 
+## [mstream-7.0.27](https://github.com/truecharts/charts/compare/mstream-7.0.26...mstream-7.0.27) (2023-12-14)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/mstream to 5.11.4[@f98fd47](https://github.com/f98fd47) ([#16035](https://github.com/truecharts/charts/issues/16035))
+  
+  
+
+
 ## [mstream-7.0.27](https://github.com/truecharts/charts/compare/mstream-7.0.26...mstream-7.0.27) (2023-12-13)
 
 ### Chore

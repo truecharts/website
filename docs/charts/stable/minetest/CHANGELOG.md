@@ -2,6 +2,15 @@
 
 
 
+## [minetest-5.1.1](https://github.com/truecharts/charts/compare/minetest-5.1.0...minetest-5.1.1) (2023-12-14)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/minetest to 5.8.0[@d796cfb](https://github.com/d796cfb) ([#16072](https://github.com/truecharts/charts/issues/16072))
+  
+  
+
+
 ## [minetest-5.1.0](https://github.com/truecharts/charts/compare/minetest-5.0.10...minetest-5.1.0) (2023-12-08)
 
 ### Chore
