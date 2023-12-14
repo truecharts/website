@@ -20,6 +20,15 @@
   
 
 
+## [icinga2-8.0.1](https://github.com/truecharts/charts/compare/icinga2-7.0.3...icinga2-8.0.1) (2023-12-14)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [icinga2-8.0.1](https://github.com/truecharts/charts/compare/icinga2-7.0.3...icinga2-8.0.1) (2023-12-12)
 
 ### Chore

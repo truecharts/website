@@ -97,6 +97,11 @@
 
 
 
+## [cloudbeaver-4.0.1](https://github.com/truecharts/charts/compare/cloudbeaver-4.0.0...cloudbeaver-4.0.1) (2023-12-12)
+
+
+
+
 ## [cloudbeaver-4.0.0](https://github.com/truecharts/charts/compare/cloudbeaver-2.0.19...cloudbeaver-4.0.0) (2023-12-07)
 
 ### Chore
