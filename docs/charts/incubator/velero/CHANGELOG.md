@@ -77,6 +77,11 @@
 
 
 
+## [velero-1.0.1](https://github.com/truecharts/charts/compare/velero-1.0.0...velero-1.0.1) (2023-12-13)
+
+
+
+
 ## [velero-1.0.1](https://github.com/truecharts/charts/compare/velero-1.0.0...velero-1.0.1) (2023-12-12)
 
 

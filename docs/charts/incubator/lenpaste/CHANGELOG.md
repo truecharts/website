@@ -182,6 +182,15 @@
   
 
 
+## [lenpaste-4.0.1](https://github.com/truecharts/charts/compare/lenpaste-3.0.25...lenpaste-4.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [lenpaste-3.0.25](https://github.com/truecharts/charts/compare/lenpaste-3.0.24...lenpaste-3.0.25) (2023-12-06)
 

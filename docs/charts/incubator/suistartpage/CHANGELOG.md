@@ -182,6 +182,15 @@
   
 
 
+## [suistartpage-3.0.1](https://github.com/truecharts/charts/compare/suistartpage-2.0.12...suistartpage-3.0.1) (2023-12-12)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 
 ## [suistartpage-2.0.12](https://github.com/truecharts/charts/compare/suistartpage-2.0.11...suistartpage-2.0.12) (2023-12-06)
 

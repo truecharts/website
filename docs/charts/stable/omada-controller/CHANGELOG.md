@@ -20,6 +20,15 @@
   
 
 
+## [omada-controller-10.1.5](https://github.com/truecharts/charts/compare/omada-controller-10.1.4...omada-controller-10.1.5) (2023-12-14)
+
+### Chore
+
+- update container image mbentley/omada-controller to 5.13[@baf0359](https://github.com/baf0359) ([#16054](https://github.com/truecharts/charts/issues/16054))
+  
+  
+
+
 ## [omada-controller-10.1.4](https://github.com/truecharts/charts/compare/omada-controller-10.1.3...omada-controller-10.1.4) (2023-12-12)
 
 ### Chore
