@@ -1,6 +1,6 @@
 # memories-of-mars
 
-![Version: 3.0.1](https://img.shields.io/badge/Version-3.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: memoriesofmars](https://img.shields.io/badge/AppVersion-memoriesofmars-informational?style=flat-square)
+![Version: 3.0.2](https://img.shields.io/badge/Version-3.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: memoriesofmars](https://img.shields.io/badge/AppVersion-memoriesofmars-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Memories of Mars and run it.
 
