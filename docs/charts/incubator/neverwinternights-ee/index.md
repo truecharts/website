@@ -6,9 +6,9 @@ This Chart will download and install Neverwinter Nights: Enhanced Edition and ru
 
 ## Chart Sources
 
+- https://www.beamdog.com/games/neverwinter-nights-enhanced/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/neverwinternights-ee
 - https://hub.docker.com/r/ich777/nwnee-server
-- https://www.beamdog.com/games/neverwinter-nights-enhanced/
 
 ## Available Documentation
 

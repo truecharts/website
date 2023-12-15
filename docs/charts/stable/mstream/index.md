@@ -7,9 +7,9 @@ A personal music streaming server
 ## Chart Sources
 
 - https://mstream.io/
+- https://github.com/linuxserver/docker-mstream
 - https://github.com/truecharts/charts/tree/master/charts/stable/mstream
 - https://ghcr.io/linuxserver/mstream
-- https://github.com/linuxserver/docker-mstream
 
 ## Available Documentation
 

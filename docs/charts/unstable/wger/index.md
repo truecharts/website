@@ -7,9 +7,9 @@ Workout Manager is a free, open source web application that helps you manage you
 ## Chart Sources
 
 - https://github.com/wger-project/wger
+- https://github.com/wger-project/docker
 - https://github.com/truecharts/charts/tree/master/charts/unstable/wger
 - https://hub.docker.com/r/wger/server
-- https://github.com/wger-project/docker
 
 ## Available Documentation
 

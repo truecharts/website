@@ -6,9 +6,9 @@ Headless Ubuntu/Xfce Charts with VNC/noVNC for diagramming, image editing and 2D
 
 ## Chart Sources
 
+- https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-blender-g3
 - https://github.com/accetto/headless-drawing-g3/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/blender-desktop-g3
-- https://hub.docker.com/r/accetto/ubuntu-vnc-xfce-blender-g3
 
 ## Available Documentation
 

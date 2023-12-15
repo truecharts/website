@@ -7,9 +7,9 @@ TubeSync is a PVR (personal video recorder) for YouTube. Or, like Sonarr but for
 ## Chart Sources
 
 - https://registry.hub.docker.com/r/ghcr.io/meeb/tubesync
+- https://github.com/meeb/tubesync
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tubesync
 - https://ghcr.io/meeb/tubesync
-- https://github.com/meeb/tubesync
 
 ## Available Documentation
 

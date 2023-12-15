@@ -2,6 +2,15 @@
 
 
 
+## [typecho-9.0.1](https://github.com/truecharts/charts/compare/typecho-8.0.3...typecho-9.0.1) (2023-12-15)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [typecho-9.0.1](https://github.com/truecharts/charts/compare/typecho-8.0.3...typecho-9.0.1) (2023-12-14)
 
 ### Chore

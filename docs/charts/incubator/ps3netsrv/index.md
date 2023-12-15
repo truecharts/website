@@ -6,9 +6,9 @@ Allows Multiman or Webman to play game backups.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/shawly/ps3netsrv
 - https://github.com/aldostools/webMAN-MOD/tree/master/_Projects_/ps3netsrv
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ps3netsrv
+- https://hub.docker.com/r/shawly/ps3netsrv
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ The gold standard in devops tools for running CI/CD pipelines.
 
 ## Chart Sources
 
+- https://github.com/jenkinsci/docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/jenkins
 - https://hub.docker.com/r/jenkins/jenkins
-- https://github.com/jenkinsci/docker
 
 ## Available Documentation
 

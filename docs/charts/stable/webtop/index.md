@@ -6,11 +6,11 @@ Webtop full desktop environments in officially supported flavors accessible via 
 
 ## Chart Sources
 
-- https://fleet.linuxserver.io/image?name=linuxserver/webtop
-- https://github.com/linuxserver/gclient
 - https://github.com/orgs/linuxserver/packages/container/package/webtop
 - https://github.com/linuxserver/docker-webtop#readme
 - https://github.com/truecharts/charts/tree/master/charts/stable/webtop
+- https://fleet.linuxserver.io/image?name=linuxserver/webtop
+- https://github.com/linuxserver/gclient
 
 ## Available Documentation
 

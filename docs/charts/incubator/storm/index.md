@@ -6,10 +6,10 @@ Introducing Storm
 
 ## Chart Sources
 
-- https://github.com/relvacode/storm/pkgs/container/storm
+- https://github.com/relvacode/storm
 - https://github.com/truecharts/charts/tree/master/charts/incubator/storm
 - https://ghcr.io/relvacode/storm
-- https://github.com/relvacode/storm
+- https://github.com/relvacode/storm/pkgs/container/storm
 
 ## Available Documentation
 

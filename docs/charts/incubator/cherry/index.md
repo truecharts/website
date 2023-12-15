@@ -6,10 +6,10 @@ An open source self-hosted bookmark service
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/cherry
-- https://hub.docker.com/r/haishanh/cherry
 - https://cherry.haishan.me/
 - https://github.com/haishanh/cherry
+- https://github.com/truecharts/charts/tree/master/charts/incubator/cherry
+- https://hub.docker.com/r/haishanh/cherry
 
 ## Available Documentation
 

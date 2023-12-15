@@ -6,9 +6,9 @@ Vertex
 
 ## Chart Sources
 
-- https://hub.docker.com/r/lswl/vertex
 - https://gitlab.lswl.in/lswl/vertex
 - https://github.com/truecharts/charts/tree/master/charts/incubator/vertex
+- https://hub.docker.com/r/lswl/vertex
 
 ## Available Documentation
 

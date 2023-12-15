@@ -6,8 +6,8 @@ Habridge emulates Philips Hue API to other home automation gateways such as an A
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/habridge
 - https://github.com/truecharts/charts/tree/master/charts/incubator/habridge
+- https://ghcr.io/linuxserver/habridge
 
 ## Available Documentation
 

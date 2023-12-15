@@ -6,9 +6,9 @@ Tonido Server allows you to access all your files on your computer from a web br
 
 ## Chart Sources
 
+- https://hub.docker.com/r/captinsano/tonido
 - https://registry.hub.docker.com/r/captinsano/tonido/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tonido
-- https://hub.docker.com/r/captinsano/tonido
 
 ## Available Documentation
 

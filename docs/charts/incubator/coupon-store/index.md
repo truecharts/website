@@ -6,9 +6,9 @@ A home for all your coupons and loyalty cards.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/metikular/coupon-store
 - https://github.com/linuxserver/docker-airsonic
 - https://github.com/truecharts/charts/tree/master/charts/incubator/coupon-store
+- https://hub.docker.com/r/metikular/coupon-store
 
 ## Available Documentation
 

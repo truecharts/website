@@ -6,9 +6,9 @@ Self Hosted, self contained New Year Countdown clock
 
 ## Chart Sources
 
-- https://github.com/modem7/Docker-NewYearCountdown
 - https://github.com/truecharts/charts/tree/master/charts/incubator/newyearcountdownclock
 - https://hub.docker.com/r/modem7/newyearcountdown
+- https://github.com/modem7/Docker-NewYearCountdown
 
 ## Available Documentation
 

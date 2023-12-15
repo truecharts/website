@@ -6,9 +6,9 @@ Money Balancer helps you to keep track of who paid for what and calculates your 
 
 ## Chart Sources
 
+- https://ghcr.io/dorianim/money-balancer
 - https://github.com/dorianim/money-balancer
 - https://github.com/truecharts/charts/tree/master/charts/incubator/money-balancer
-- https://ghcr.io/dorianim/money-balancer
 
 ## Available Documentation
 

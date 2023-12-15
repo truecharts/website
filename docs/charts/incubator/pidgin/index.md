@@ -6,8 +6,8 @@ Pidgin is a chat program which lets you log into accounts on multiple chat netwo
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/pidgin
 - https://ghcr.io/linuxserver/pidgin
+- https://github.com/truecharts/charts/tree/master/charts/incubator/pidgin
 
 ## Available Documentation
 

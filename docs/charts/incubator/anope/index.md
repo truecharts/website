@@ -6,9 +6,9 @@ Anope is a set of IRC Services designed for flexibility and ease of use.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/ich777/anope
 - https://thelounge.chat/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/anope
-- https://hub.docker.com/r/ich777/anope
 
 ## Available Documentation
 

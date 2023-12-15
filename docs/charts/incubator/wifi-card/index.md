@@ -6,9 +6,9 @@ Print a neat little card with your WiFi info and stick it on the fridge.
 
 ## Chart Sources
 
-- https://github.com/bndw/wifi-card
 - https://github.com/truecharts/charts/tree/master/charts/incubator/wifi-card
 - https://hub.docker.com/r/bndw/wifi-card
+- https://github.com/bndw/wifi-card
 
 ## Available Documentation
 

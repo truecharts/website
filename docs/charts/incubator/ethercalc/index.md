@@ -6,9 +6,9 @@ EtherCalc is a web spreadsheet.
 
 ## Chart Sources
 
+- https://github.com/audreyt/ethercalc
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ethercalc
 - https://hub.docker.com/r/audreyt/ethercalc
-- https://github.com/audreyt/ethercalc
 
 ## Available Documentation
 

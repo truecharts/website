@@ -6,9 +6,9 @@ Satisfactory Dedicated Server
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/satisfactory
 - https://hub.docker.com/r/wolveix/satisfactory-server
 - https://github.com/wolveix/satisfactory-server
-- https://github.com/truecharts/charts/tree/master/charts/stable/satisfactory
 
 ## Available Documentation
 
