@@ -11,6 +11,15 @@
   
 
 
+## [memcached-10.0.1](https://github.com/truecharts/charts/compare/memcached-10.0.0...memcached-10.0.1) (2023-12-15)
+
+### Chore
+
+- update container image bitnami/memcached to 1.6.22[@f7f5768](https://github.com/f7f5768) ([#16101](https://github.com/truecharts/charts/issues/16101))
+  
+  
+
+
 ## [memcached-10.0.0](https://github.com/truecharts/charts/compare/memcached-9.0.2...memcached-10.0.0) (2023-12-12)
 
 ### Chore

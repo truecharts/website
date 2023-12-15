@@ -2,6 +2,16 @@
 
 
 
+## [mattermost-9.1.2](https://github.com/truecharts/charts/compare/mattermost-9.1.0...mattermost-9.1.2) (2023-12-15)
+
+### Chore
+
+- update container image mattermost/mattermost-enterprise-edition to release-9.4[@902fc55](https://github.com/902fc55) ([#16103](https://github.com/truecharts/charts/issues/16103))
+  - update container image mattermost/mattermost-enterprise-edition to release-9.4[@ccba1e1](https://github.com/ccba1e1) ([#15998](https://github.com/truecharts/charts/issues/15998))
+  
+  
+
+
 ## [mattermost-9.1.1](https://github.com/truecharts/charts/compare/mattermost-9.1.0...mattermost-9.1.1) (2023-12-15)
 
 ### Chore

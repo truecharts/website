@@ -65,6 +65,15 @@
   
 
 
+## [zwavejs2mqtt-16.3.0](https://github.com/truecharts/charts/compare/zwavejs2mqtt-16.2.2...zwavejs2mqtt-16.3.0) (2023-12-15)
+
+### Chore
+
+- update container image zwavejs/zwave-js-ui to v9.6.0[@026a6d4](https://github.com/026a6d4) ([#16082](https://github.com/truecharts/charts/issues/16082))
+  
+  
+
+
 ## [zwavejs2mqtt-16.3.0](https://github.com/truecharts/charts/compare/zwavejs2mqtt-16.2.2...zwavejs2mqtt-16.3.0) (2023-12-14)
 
 ### Chore
