@@ -29,6 +29,15 @@
   
 
 
+## [wbo-5.0.1](https://github.com/truecharts/charts/compare/wbo-4.0.3...wbo-5.0.1) (2023-12-15)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [wbo-5.0.1](https://github.com/truecharts/charts/compare/wbo-4.0.3...wbo-5.0.1) (2023-12-14)
 
 ### Chore

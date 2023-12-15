@@ -11,6 +11,15 @@
   
 
 
+## [fluidd-6.1.0](https://github.com/truecharts/charts/compare/fluidd-6.0.17...fluidd-6.1.0) (2023-12-15)
+
+### Chore
+
+- update container image ghcr.io/fluidd-core/fluidd to v1.27.0[@b613a17](https://github.com/b613a17) ([#16080](https://github.com/truecharts/charts/issues/16080))
+  
+  
+
+
 ## [fluidd-6.0.17](https://github.com/truecharts/charts/compare/fluidd-6.0.16...fluidd-6.0.17) (2023-12-03)
 
 ### Chore
