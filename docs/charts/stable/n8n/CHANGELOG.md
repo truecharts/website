@@ -47,6 +47,15 @@
   
 
 
+## [n8n-9.4.0](https://github.com/truecharts/charts/compare/n8n-9.3.0...n8n-9.4.0) (2023-12-15)
+
+### Chore
+
+- update container image n8nio/n8n to v1.21.0[@cd31176](https://github.com/cd31176) ([#16051](https://github.com/truecharts/charts/issues/16051))
+  
+  
+
+
 ## [n8n-9.4.0](https://github.com/truecharts/charts/compare/n8n-9.3.0...n8n-9.4.0) (2023-12-14)
 
 ### Chore

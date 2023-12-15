@@ -2,6 +2,15 @@
 
 
 
+## [flexget-6.1.5](https://github.com/truecharts/charts/compare/flexget-6.1.4...flexget-6.1.5) (2023-12-15)
+
+### Chore
+
+- update container image wiserain/flexget to v3.10.6[@622694c](https://github.com/622694c) ([#16098](https://github.com/truecharts/charts/issues/16098))
+  
+  
+
+
 ## [flexget-6.1.4](https://github.com/truecharts/charts/compare/flexget-6.1.3...flexget-6.1.4) (2023-12-09)
 
 ### Chore
