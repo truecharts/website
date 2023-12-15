@@ -11,6 +11,15 @@
   
 
 
+## [flashpaper-5.0.1](https://github.com/truecharts/charts/compare/flashpaper-4.0.3...flashpaper-5.0.1) (2023-12-15)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [flashpaper-5.0.1](https://github.com/truecharts/charts/compare/flashpaper-4.0.3...flashpaper-5.0.1) (2023-12-14)
 
 ### Chore
