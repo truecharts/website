@@ -2,6 +2,16 @@
 
 
 
+## [minio-7.1.6](https://github.com/truecharts/charts/compare/minio-7.1.4...minio-7.1.6) (2023-12-15)
+
+### Chore
+
+- update container image minio/minio to vrelease.2023-12-14t18-51-57z[@62bffc2](https://github.com/62bffc2) ([#16086](https://github.com/truecharts/charts/issues/16086))
+  - update container image minio/minio to vrelease.2023-12-13t23-28-55z[@0a779ce](https://github.com/0a779ce) ([#16068](https://github.com/truecharts/charts/issues/16068))
+  
+  
+
+
 ## [minio-7.1.5](https://github.com/truecharts/charts/compare/minio-7.1.4...minio-7.1.5) (2023-12-14)
 
 ### Chore

@@ -11,6 +11,15 @@
   
 
 
+## [metabase-0.0.20](https://github.com/truecharts/charts/compare/metabase-0.0.19...metabase-0.0.20) (2023-12-15)
+
+### Chore
+
+- update container image metabase/metabase to v0.47.10[@74496da](https://github.com/74496da) ([#16085](https://github.com/truecharts/charts/issues/16085))
+  
+  
+
+
 ## [metabase-0.0.19](https://github.com/truecharts/charts/compare/metabase-0.0.18...metabase-0.0.19) (2023-12-03)
 
 ### Chore
