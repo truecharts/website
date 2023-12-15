@@ -29,6 +29,15 @@
   
 
 
+## [mariadb-11.0.1](https://github.com/truecharts/charts/compare/mariadb-11.0.0...mariadb-11.0.1) (2023-12-15)
+
+### Chore
+
+- update container image bitnami/mariadb to 11.1.3[@256bba8](https://github.com/256bba8) ([#16089](https://github.com/truecharts/charts/issues/16089))
+  
+  
+
+
 ## [mariadb-11.0.0](https://github.com/truecharts/charts/compare/mariadb-10.0.2...mariadb-11.0.0) (2023-12-12)
 
 ### Chore
