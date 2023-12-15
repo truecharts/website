@@ -38,6 +38,15 @@
   
 
 
+## [adguardhome-sync-4.0.1](https://github.com/truecharts/charts/compare/adguardhome-sync-3.0.3...adguardhome-sync-4.0.1) (2023-12-15)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [adguardhome-sync-4.0.1](https://github.com/truecharts/charts/compare/adguardhome-sync-3.0.3...adguardhome-sync-4.0.1) (2023-12-14)
 
 ### Chore

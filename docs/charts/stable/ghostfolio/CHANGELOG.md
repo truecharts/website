@@ -83,6 +83,15 @@
   
 
 
+## [ghostfolio-0.6.0](https://github.com/truecharts/charts/compare/ghostfolio-0.5.0...ghostfolio-0.6.0) (2023-12-14)
+
+### Chore
+
+- update container image ghostfolio/ghostfolio to v2.30.0[@c853b1c](https://github.com/c853b1c) ([#16030](https://github.com/truecharts/charts/issues/16030))
+  
+  
+
+
 ## [ghostfolio-0.6.0](https://github.com/truecharts/charts/compare/ghostfolio-0.5.0...ghostfolio-0.6.0) (2023-12-13)
 
 ### Chore

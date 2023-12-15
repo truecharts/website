@@ -128,6 +128,15 @@
   
 
 
+## [root-3.0.1](https://github.com/truecharts/charts/compare/root-2.0.11...root-3.0.1) (2023-12-14)
+
+### Chore
+
+- BREAKING CHANGE move to latest common ([#15841](https://github.com/truecharts/charts/issues/15841))
+  
+  
+
+
 ## [root-3.0.1](https://github.com/truecharts/charts/compare/root-2.0.11...root-3.0.1) (2023-12-12)
 
 ### Chore

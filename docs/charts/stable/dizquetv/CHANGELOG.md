@@ -42,6 +42,11 @@
 
 
 
+## [dizquetv-11.1.0](https://github.com/truecharts/charts/compare/dizquetv-11.0.12...dizquetv-11.1.0) (2023-12-14)
+
+
+
+
 ## [dizquetv-11.0.12](https://github.com/truecharts/charts/compare/dizquetv-11.0.11...dizquetv-11.0.12) (2023-12-03)
 
 ### Chore
