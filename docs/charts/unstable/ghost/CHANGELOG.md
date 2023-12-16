@@ -11,6 +11,15 @@
   
 
 
+## [ghost-7.0.2](https://github.com/truecharts/charts/compare/ghost-6.0.62...ghost-7.0.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [ghost-7.0.1](https://github.com/truecharts/charts/compare/ghost-6.0.62...ghost-7.0.1) (2023-12-14)
 
 

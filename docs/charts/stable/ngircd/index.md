@@ -1,6 +1,6 @@
 # ngircd
 
-![Version: 6.0.11](https://img.shields.io/badge/Version-6.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.11.21](https://img.shields.io/badge/AppVersion-2021.11.21-informational?style=flat-square)
+![Version: 6.0.12](https://img.shields.io/badge/Version-6.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.11.21](https://img.shields.io/badge/AppVersion-2021.11.21-informational?style=flat-square)
 
 Ngircd is a free, portable and lightweight Internet Relay Chat server for small or private networks.
 

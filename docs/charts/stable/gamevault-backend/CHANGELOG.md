@@ -2,6 +2,16 @@
 
 
 
+## [gamevault-backend-1.1.25](https://github.com/truecharts/charts/compare/gamevault-backend-1.1.23...gamevault-backend-1.1.25) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  - update helm general non-major ([#14784](https://github.com/truecharts/charts/issues/14784))
+  
+  
+
+
 ## [gamevault-backend-1.1.24](https://github.com/truecharts/charts/compare/gamevault-backend-1.1.23...gamevault-backend-1.1.24) (2023-12-16)
 
 ### Chore

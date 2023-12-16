@@ -1,6 +1,6 @@
 # pyload
 
-![Version: 10.0.11](https://img.shields.io/badge/Version-10.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 360b2295](https://img.shields.io/badge/AppVersion-360b2295-informational?style=flat-square)
+![Version: 10.0.12](https://img.shields.io/badge/Version-10.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 360b2295](https://img.shields.io/badge/AppVersion-360b2295-informational?style=flat-square)
 
 pyLoad is a Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
 

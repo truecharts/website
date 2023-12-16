@@ -2,6 +2,15 @@
 
 
 
+## [browserless-chrome-6.0.20](https://github.com/truecharts/charts/compare/browserless-chrome-6.0.19...browserless-chrome-6.0.20) (2023-12-16)
+
+### Chore
+
+- update helm general non-major ([#14784](https://github.com/truecharts/charts/issues/14784))
+  
+  
+
+
 ## [browserless-chrome-6.0.19](https://github.com/truecharts/charts/compare/browserless-chrome-6.0.18...browserless-chrome-6.0.19) (2023-12-03)
 
 ### Chore

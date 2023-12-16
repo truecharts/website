@@ -2,6 +2,16 @@
 
 
 
+## [invidious-6.0.28](https://github.com/truecharts/charts/compare/invidious-6.0.26...invidious-6.0.28) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  - update helm general non-major ([#14784](https://github.com/truecharts/charts/issues/14784))
+  
+  
+
+
 ## [invidious-6.0.27](https://github.com/truecharts/charts/compare/invidious-6.0.26...invidious-6.0.27) (2023-12-16)
 
 ### Chore
