@@ -38,6 +38,15 @@
   
 
 
+## [uptime-kuma-7.0.21](https://github.com/truecharts/charts/compare/uptime-kuma-7.0.20...uptime-kuma-7.0.21) (2023-12-16)
+
+### Chore
+
+- update container image louislam/uptime-kuma to v1.23.10[@f5737fc](https://github.com/f5737fc) ([#16012](https://github.com/truecharts/charts/issues/16012))
+  
+  
+
+
 ## [uptime-kuma-7.0.21](https://github.com/truecharts/charts/compare/uptime-kuma-7.0.20...uptime-kuma-7.0.21) (2023-12-14)
 
 ### Chore

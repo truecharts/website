@@ -38,6 +38,15 @@
   
 
 
+## [znc-6.0.20](https://github.com/truecharts/charts/compare/znc-6.0.19...znc-6.0.20) (2023-12-16)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/znc to 1.8.2[@178e529](https://github.com/178e529) ([#16091](https://github.com/truecharts/charts/issues/16091))
+  
+  
+
+
 ## [znc-6.0.20](https://github.com/truecharts/charts/compare/znc-6.0.19...znc-6.0.20) (2023-12-15)
 
 ### Chore

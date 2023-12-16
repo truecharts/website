@@ -20,6 +20,15 @@
   
 
 
+## [flaresolverr-10.0.21](https://github.com/truecharts/charts/compare/flaresolverr-10.0.20...flaresolverr-10.0.21) (2023-12-16)
+
+### Chore
+
+- update container image ghcr.io/flaresolverr/flaresolverr to v3.3.12[@aa83c92](https://github.com/aa83c92) ([#16132](https://github.com/truecharts/charts/issues/16132))
+  
+  
+
+
 ## [flaresolverr-10.0.20](https://github.com/truecharts/charts/compare/flaresolverr-10.0.19...flaresolverr-10.0.20) (2023-12-12)
 
 ### Chore

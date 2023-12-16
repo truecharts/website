@@ -38,6 +38,15 @@
   
 
 
+## [tailscale-5.2.0](https://github.com/truecharts/charts/compare/tailscale-5.1.19...tailscale-5.2.0) (2023-12-16)
+
+### Chore
+
+- update container image tailscale/tailscale to v1.56.0[@ed1f931](https://github.com/ed1f931) ([#16109](https://github.com/truecharts/charts/issues/16109))
+  
+  
+
+
 ## [tailscale-5.2.0](https://github.com/truecharts/charts/compare/tailscale-5.1.19...tailscale-5.2.0) (2023-12-15)
 
 ### Chore

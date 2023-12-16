@@ -2,6 +2,15 @@
 
 
 
+## [xen-orchestra-5.2.3](https://github.com/truecharts/charts/compare/xen-orchestra-5.2.2...xen-orchestra-5.2.3) (2023-12-16)
+
+### Chore
+
+- update container image ronivay/xen-orchestra to 5.129.0[@8267514](https://github.com/8267514) ([#16142](https://github.com/truecharts/charts/issues/16142))
+  
+  
+
+
 ## [xen-orchestra-5.2.2](https://github.com/truecharts/charts/compare/xen-orchestra-5.2.1...xen-orchestra-5.2.2) (2023-12-09)
 
 ### Chore
