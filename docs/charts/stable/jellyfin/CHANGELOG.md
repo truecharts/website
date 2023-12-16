@@ -2,6 +2,15 @@
 
 
 
+## [jellyfin-15.1.1](https://github.com/truecharts/charts/compare/jellyfin-15.1.0...jellyfin-15.1.1) (2023-12-16)
+
+### Chore
+
+- update container image docker.io/alpine/socat to 1.8.0.0[@af9a3db](https://github.com/af9a3db) ([#16139](https://github.com/truecharts/charts/issues/16139))
+  
+  
+
+
 ## [jellyfin-15.1.0](https://github.com/truecharts/charts/compare/jellyfin-15.0.31...jellyfin-15.1.0) (2023-12-09)
 
 ### Chore

@@ -11,6 +11,15 @@
   
 
 
+## [beets-8.0.29](https://github.com/truecharts/charts/compare/beets-8.0.28...beets-8.0.29) (2023-12-16)
+
+### Chore
+
+- update container image ghcr.io/linuxserver/beets to version-1.6.0[@6cba14e](https://github.com/6cba14e) ([#16121](https://github.com/truecharts/charts/issues/16121))
+  
+  
+
+
 ## [beets-8.0.28](https://github.com/truecharts/charts/compare/beets-8.0.27...beets-8.0.28) (2023-12-09)
 
 ### Chore
