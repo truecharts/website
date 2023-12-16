@@ -2,6 +2,15 @@
 
 
 
+## [firezone-0.2.15](https://github.com/truecharts/charts/compare/firezone-0.2.14...firezone-0.2.15) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [firezone-0.2.14](https://github.com/truecharts/charts/compare/firezone-0.2.13...firezone-0.2.14) (2023-12-03)
 
 ### Chore

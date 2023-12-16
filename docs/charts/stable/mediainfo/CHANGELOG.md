@@ -2,6 +2,15 @@
 
 
 
+## [mediainfo-5.1.2](https://github.com/truecharts/charts/compare/mediainfo-5.1.1...mediainfo-5.1.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [mediainfo-5.1.1](https://github.com/truecharts/charts/compare/mediainfo-5.1.0...mediainfo-5.1.1) (2023-12-03)
 
 ### Chore

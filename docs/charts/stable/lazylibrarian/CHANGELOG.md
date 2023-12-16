@@ -2,6 +2,15 @@
 
 
 
+## [lazylibrarian-15.0.37](https://github.com/truecharts/charts/compare/lazylibrarian-15.0.36...lazylibrarian-15.0.37) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [lazylibrarian-15.0.36](https://github.com/truecharts/charts/compare/lazylibrarian-15.0.35...lazylibrarian-15.0.36) (2023-12-10)
 
 ### Chore

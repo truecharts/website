@@ -2,6 +2,15 @@
 
 
 
+## [wekan-10.5.1](https://github.com/truecharts/charts/compare/wekan-10.5.0...wekan-10.5.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [wekan-10.5.0](https://github.com/truecharts/charts/compare/wekan-10.4.1...wekan-10.5.0) (2023-12-12)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [filebot-5.0.12](https://github.com/truecharts/charts/compare/filebot-5.0.11...filebot-5.0.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [filebot-5.0.11](https://github.com/truecharts/charts/compare/filebot-5.0.10...filebot-5.0.11) (2023-12-03)
 
 ### Chore

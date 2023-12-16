@@ -2,6 +2,15 @@
 
 
 
+## [homarr-7.0.4](https://github.com/truecharts/charts/compare/homarr-7.0.3...homarr-7.0.4) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [homarr-7.0.3](https://github.com/truecharts/charts/compare/homarr-7.0.2...homarr-7.0.3) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [firefox-7.0.22](https://github.com/truecharts/charts/compare/firefox-7.0.21...firefox-7.0.22) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [firefox-7.0.21](https://github.com/truecharts/charts/compare/firefox-7.0.20...firefox-7.0.21) (2023-12-03)
 
 ### Chore

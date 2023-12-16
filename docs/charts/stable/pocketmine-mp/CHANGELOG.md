@@ -2,6 +2,15 @@
 
 
 
+## [pocketmine-mp-0.0.5](https://github.com/truecharts/charts/compare/pocketmine-mp-0.0.4...pocketmine-mp-0.0.5) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [pocketmine-mp-0.0.4](https://github.com/truecharts/charts/compare/pocketmine-mp-0.0.3...pocketmine-mp-0.0.4) (2023-12-04)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [appdaemon-13.0.11](https://github.com/truecharts/charts/compare/appdaemon-13.0.10...appdaemon-13.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [appdaemon-13.0.10](https://github.com/truecharts/charts/compare/appdaemon-13.0.9...appdaemon-13.0.10) (2023-12-03)
 
 ### Chore

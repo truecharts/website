@@ -1,6 +1,6 @@
 # misskey
 
-![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.1](https://img.shields.io/badge/AppVersion-2023.11.1-informational?style=flat-square)
+![Version: 4.1.3](https://img.shields.io/badge/Version-4.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.1](https://img.shields.io/badge/AppVersion-2023.11.1-informational?style=flat-square)
 
 Open source decentralized social media platform that's free forever!
 
@@ -8,7 +8,7 @@ Open source decentralized social media platform that's free forever!
 
 - https://github.com/misskey-dev/misskey/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/misskey
-- https://github.com/truecharts/containers/tree/master/mirrormisskey
+- https://hub.docker.com/r/misskey/misskey
 
 ## Available Documentation
 

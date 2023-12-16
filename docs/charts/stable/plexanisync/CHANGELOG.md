@@ -2,6 +2,15 @@
 
 
 
+## [plexanisync-3.0.15](https://github.com/truecharts/charts/compare/plexanisync-3.0.14...plexanisync-3.0.15) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [plexanisync-3.0.14](https://github.com/truecharts/charts/compare/plexanisync-3.0.13...plexanisync-3.0.14) (2023-12-03)
 
 ### Chore

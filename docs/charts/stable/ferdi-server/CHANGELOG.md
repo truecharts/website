@@ -2,6 +2,15 @@
 
 
 
+## [ferdi-server-8.0.11](https://github.com/truecharts/charts/compare/ferdi-server-8.0.10...ferdi-server-8.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [ferdi-server-8.0.10](https://github.com/truecharts/charts/compare/ferdi-server-8.0.9...ferdi-server-8.0.10) (2023-12-03)
 
 ### Chore

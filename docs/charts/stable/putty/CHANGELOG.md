@@ -2,6 +2,15 @@
 
 
 
+## [putty-5.0.14](https://github.com/truecharts/charts/compare/putty-5.0.13...putty-5.0.14) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [putty-5.0.13](https://github.com/truecharts/charts/compare/putty-5.0.12...putty-5.0.13) (2023-12-03)
 
 ### Chore

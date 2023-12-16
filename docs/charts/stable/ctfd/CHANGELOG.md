@@ -2,6 +2,15 @@
 
 
 
+## [ctfd-0.1.1](https://github.com/truecharts/charts/compare/ctfd-0.1.0...ctfd-0.1.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [ctfd-0.1.0](https://github.com/truecharts/charts/compare/ctfd-0.0.9...ctfd-0.1.0) (2023-12-04)
 
 ### Chore

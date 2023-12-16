@@ -2,6 +2,15 @@
 
 
 
+## [spaceengineers-3.0.13](https://github.com/truecharts/charts/compare/spaceengineers-3.0.12...spaceengineers-3.0.13) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [spaceengineers-3.0.12](https://github.com/truecharts/charts/compare/spaceengineers-3.0.11...spaceengineers-3.0.12) (2023-12-03)
 
 ### Chore

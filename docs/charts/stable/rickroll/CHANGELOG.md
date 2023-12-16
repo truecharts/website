@@ -2,6 +2,15 @@
 
 
 
+## [rickroll-3.0.23](https://github.com/truecharts/charts/compare/rickroll-3.0.22...rickroll-3.0.23) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [rickroll-3.0.22](https://github.com/truecharts/charts/compare/rickroll-3.0.21...rickroll-3.0.22) (2023-12-04)
 
 ### Chore

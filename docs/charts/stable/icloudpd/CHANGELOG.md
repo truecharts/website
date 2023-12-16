@@ -2,6 +2,15 @@
 
 
 
+## [icloudpd-3.0.10](https://github.com/truecharts/charts/compare/icloudpd-3.0.9...icloudpd-3.0.10) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [icloudpd-3.0.9](https://github.com/truecharts/charts/compare/icloudpd-3.0.8...icloudpd-3.0.9) (2023-12-04)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [flowise-1.0.22](https://github.com/truecharts/charts/compare/flowise-1.0.21...flowise-1.0.22) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [flowise-1.0.21](https://github.com/truecharts/charts/compare/flowise-1.0.20...flowise-1.0.21) (2023-12-10)
 
 ### Chore

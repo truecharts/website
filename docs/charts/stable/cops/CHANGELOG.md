@@ -2,6 +2,15 @@
 
 
 
+## [cops-5.0.35](https://github.com/truecharts/charts/compare/cops-5.0.34...cops-5.0.35) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [cops-5.0.34](https://github.com/truecharts/charts/compare/cops-5.0.33...cops-5.0.34) (2023-12-09)
 
 ### Chore

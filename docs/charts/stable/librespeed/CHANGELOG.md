@@ -2,6 +2,15 @@
 
 
 
+## [librespeed-10.1.6](https://github.com/truecharts/charts/compare/librespeed-10.1.5...librespeed-10.1.6) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [librespeed-10.1.5](https://github.com/truecharts/charts/compare/librespeed-10.1.4...librespeed-10.1.5) (2023-12-10)
 
 ### Chore

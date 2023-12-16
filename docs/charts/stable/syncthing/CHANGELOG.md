@@ -2,6 +2,15 @@
 
 
 
+## [syncthing-15.1.2](https://github.com/truecharts/charts/compare/syncthing-15.1.1...syncthing-15.1.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [syncthing-15.1.1](https://github.com/truecharts/charts/compare/syncthing-15.1.0...syncthing-15.1.1) (2023-12-11)
 
 ### Chore

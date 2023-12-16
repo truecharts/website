@@ -2,6 +2,15 @@
 
 
 
+## [double-take-7.0.3](https://github.com/truecharts/charts/compare/double-take-7.0.2...double-take-7.0.3) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [double-take-7.0.2](https://github.com/truecharts/charts/compare/double-take-7.0.1...double-take-7.0.2) (2023-12-10)
 
 ### Chore

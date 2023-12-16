@@ -2,6 +2,15 @@
 
 
 
+## [nzbhydra-16.1.5](https://github.com/truecharts/charts/compare/nzbhydra-16.1.4...nzbhydra-16.1.5) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [nzbhydra-16.1.4](https://github.com/truecharts/charts/compare/nzbhydra-16.1.3...nzbhydra-16.1.4) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [multi-scrobbler-3.0.3](https://github.com/truecharts/charts/compare/multi-scrobbler-3.0.2...multi-scrobbler-3.0.3) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [multi-scrobbler-3.0.2](https://github.com/truecharts/charts/compare/multi-scrobbler-3.0.1...multi-scrobbler-3.0.2) (2023-12-03)
 
 ### Chore

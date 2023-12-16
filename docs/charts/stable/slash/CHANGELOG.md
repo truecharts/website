@@ -2,6 +2,15 @@
 
 
 
+## [slash-0.0.16](https://github.com/truecharts/charts/compare/slash-0.0.15...slash-0.0.16) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [slash-0.0.15](https://github.com/truecharts/charts/compare/slash-0.0.14...slash-0.0.15) (2023-12-03)
 
 ### Chore

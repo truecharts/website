@@ -2,6 +2,15 @@
 
 
 
+## [grocy-15.0.30](https://github.com/truecharts/charts/compare/grocy-15.0.29...grocy-15.0.30) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [grocy-15.0.29](https://github.com/truecharts/charts/compare/grocy-15.0.28...grocy-15.0.29) (2023-12-10)
 
 ### Chore

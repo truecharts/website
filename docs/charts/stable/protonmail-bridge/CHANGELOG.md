@@ -2,6 +2,15 @@
 
 
 
+## [protonmail-bridge-11.1.1](https://github.com/truecharts/charts/compare/protonmail-bridge-11.1.0...protonmail-bridge-11.1.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [protonmail-bridge-11.1.0](https://github.com/truecharts/charts/compare/protonmail-bridge-11.0.13...protonmail-bridge-11.1.0) (2023-12-07)
 
 ### Chore

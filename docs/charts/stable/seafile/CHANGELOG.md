@@ -2,6 +2,15 @@
 
 
 
+## [seafile-1.0.15](https://github.com/truecharts/charts/compare/seafile-1.0.14...seafile-1.0.15) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [seafile-1.0.14](https://github.com/truecharts/charts/compare/seafile-1.0.13...seafile-1.0.14) (2023-12-03)
 
 ### Chore

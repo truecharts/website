@@ -2,6 +2,15 @@
 
 
 
+## [deluge-15.0.12](https://github.com/truecharts/charts/compare/deluge-15.0.11...deluge-15.0.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [deluge-15.0.11](https://github.com/truecharts/charts/compare/deluge-15.0.10...deluge-15.0.11) (2023-12-03)
 
 ### Chore

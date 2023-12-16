@@ -2,6 +2,15 @@
 
 
 
+## [babybuddy-13.0.29](https://github.com/truecharts/charts/compare/babybuddy-13.0.28...babybuddy-13.0.29) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [babybuddy-13.0.28](https://github.com/truecharts/charts/compare/babybuddy-13.0.27...babybuddy-13.0.28) (2023-12-11)
 
 ### Chore

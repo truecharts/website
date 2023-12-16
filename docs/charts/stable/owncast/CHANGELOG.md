@@ -2,6 +2,15 @@
 
 
 
+## [owncast-10.0.12](https://github.com/truecharts/charts/compare/owncast-10.0.11...owncast-10.0.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [owncast-10.0.11](https://github.com/truecharts/charts/compare/owncast-10.0.10...owncast-10.0.11) (2023-12-03)
 
 ### Chore

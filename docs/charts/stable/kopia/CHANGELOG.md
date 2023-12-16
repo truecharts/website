@@ -2,6 +2,15 @@
 
 
 
+## [kopia-8.1.2](https://github.com/truecharts/charts/compare/kopia-8.1.1...kopia-8.1.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [kopia-8.1.1](https://github.com/truecharts/charts/compare/kopia-8.1.0...kopia-8.1.1) (2023-12-03)
 
 ### Chore

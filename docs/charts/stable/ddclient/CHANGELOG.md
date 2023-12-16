@@ -2,6 +2,15 @@
 
 
 
+## [ddclient-6.0.18](https://github.com/truecharts/charts/compare/ddclient-6.0.17...ddclient-6.0.18) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [ddclient-6.0.17](https://github.com/truecharts/charts/compare/ddclient-6.0.16...ddclient-6.0.17) (2023-12-12)
 
 ### Chore

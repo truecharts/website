@@ -2,6 +2,15 @@
 
 
 
+## [code-server-8.1.15](https://github.com/truecharts/charts/compare/code-server-8.1.14...code-server-8.1.15) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [code-server-8.1.14](https://github.com/truecharts/charts/compare/code-server-8.1.13...code-server-8.1.14) (2023-12-03)
 
 ### Chore

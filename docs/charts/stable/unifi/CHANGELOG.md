@@ -2,6 +2,15 @@
 
 
 
+## [unifi-17.0.4](https://github.com/truecharts/charts/compare/unifi-17.0.3...unifi-17.0.4) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [unifi-17.0.3](https://github.com/truecharts/charts/compare/unifi-17.0.2...unifi-17.0.3) (2023-12-03)
 
 ### Chore

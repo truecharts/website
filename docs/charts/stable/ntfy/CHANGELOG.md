@@ -2,6 +2,15 @@
 
 
 
+## [ntfy-6.1.2](https://github.com/truecharts/charts/compare/ntfy-6.1.1...ntfy-6.1.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [ntfy-6.1.1](https://github.com/truecharts/charts/compare/ntfy-6.1.0...ntfy-6.1.1) (2023-12-03)
 
 ### Chore

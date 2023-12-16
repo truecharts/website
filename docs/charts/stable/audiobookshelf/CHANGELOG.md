@@ -2,6 +2,15 @@
 
 
 
+## [audiobookshelf-6.1.2](https://github.com/truecharts/charts/compare/audiobookshelf-6.1.1...audiobookshelf-6.1.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [audiobookshelf-6.1.1](https://github.com/truecharts/charts/compare/audiobookshelf-6.1.0...audiobookshelf-6.1.1) (2023-12-03)
 
 ### Chore

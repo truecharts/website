@@ -2,6 +2,15 @@
 
 
 
+## [ser2sock-10.0.12](https://github.com/truecharts/charts/compare/ser2sock-10.0.11...ser2sock-10.0.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [ser2sock-10.0.11](https://github.com/truecharts/charts/compare/ser2sock-10.0.10...ser2sock-10.0.11) (2023-12-03)
 
 ### Chore

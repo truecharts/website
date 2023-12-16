@@ -2,6 +2,15 @@
 
 
 
+## [anonaddy-15.0.17](https://github.com/truecharts/charts/compare/anonaddy-15.0.16...anonaddy-15.0.17) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [anonaddy-15.0.16](https://github.com/truecharts/charts/compare/anonaddy-15.0.15...anonaddy-15.0.16) (2023-12-03)
 
 ### Chore

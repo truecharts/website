@@ -2,6 +2,15 @@
 
 
 
+## [transmission-17.0.18](https://github.com/truecharts/charts/compare/transmission-17.0.17...transmission-17.0.18) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [transmission-17.0.17](https://github.com/truecharts/charts/compare/transmission-17.0.16...transmission-17.0.17) (2023-12-09)
 
 ### Chore

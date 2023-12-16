@@ -2,6 +2,15 @@
 
 
 
+## [gamevault-backend-1.1.24](https://github.com/truecharts/charts/compare/gamevault-backend-1.1.23...gamevault-backend-1.1.24) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [gamevault-backend-1.1.23](https://github.com/truecharts/charts/compare/gamevault-backend-1.1.22...gamevault-backend-1.1.23) (2023-12-03)
 
 ### Chore

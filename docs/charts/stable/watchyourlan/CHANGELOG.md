@@ -2,6 +2,15 @@
 
 
 
+## [watchyourlan-5.1.8](https://github.com/truecharts/charts/compare/watchyourlan-5.1.7...watchyourlan-5.1.8) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [watchyourlan-5.1.7](https://github.com/truecharts/charts/compare/watchyourlan-5.1.6...watchyourlan-5.1.7) (2023-12-03)
 
 ### Chore

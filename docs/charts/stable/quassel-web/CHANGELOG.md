@@ -2,6 +2,15 @@
 
 
 
+## [quassel-web-6.0.11](https://github.com/truecharts/charts/compare/quassel-web-6.0.10...quassel-web-6.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [quassel-web-6.0.10](https://github.com/truecharts/charts/compare/quassel-web-6.0.9...quassel-web-6.0.10) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [hyperion-ng-10.0.11](https://github.com/truecharts/charts/compare/hyperion-ng-10.0.10...hyperion-ng-10.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [hyperion-ng-10.0.10](https://github.com/truecharts/charts/compare/hyperion-ng-10.0.9...hyperion-ng-10.0.10) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [discordgsm-4.0.14](https://github.com/truecharts/charts/compare/discordgsm-4.0.13...discordgsm-4.0.14) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [discordgsm-4.0.13](https://github.com/truecharts/charts/compare/discordgsm-4.0.12...discordgsm-4.0.13) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [zigbee2mqtt-8.0.16](https://github.com/truecharts/charts/compare/zigbee2mqtt-8.0.15...zigbee2mqtt-8.0.16) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [zigbee2mqtt-8.0.15](https://github.com/truecharts/charts/compare/zigbee2mqtt-8.0.14...zigbee2mqtt-8.0.15) (2023-12-03)
 
 ### Chore

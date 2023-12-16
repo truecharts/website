@@ -2,6 +2,15 @@
 
 
 
+## [nntp2nntp-6.0.11](https://github.com/truecharts/charts/compare/nntp2nntp-6.0.10...nntp2nntp-6.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [nntp2nntp-6.0.10](https://github.com/truecharts/charts/compare/nntp2nntp-6.0.9...nntp2nntp-6.0.10) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [fleet-8.0.13](https://github.com/truecharts/charts/compare/fleet-8.0.12...fleet-8.0.13) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [fleet-8.0.12](https://github.com/truecharts/charts/compare/fleet-8.0.11...fleet-8.0.12) (2023-12-08)
 
 ### Chore

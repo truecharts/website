@@ -2,6 +2,15 @@
 
 
 
+## [deconz-12.0.18](https://github.com/truecharts/charts/compare/deconz-12.0.17...deconz-12.0.18) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [deconz-12.0.17](https://github.com/truecharts/charts/compare/deconz-12.0.16...deconz-12.0.17) (2023-12-05)
 
 ### Chore

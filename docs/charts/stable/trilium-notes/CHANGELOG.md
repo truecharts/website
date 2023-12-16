@@ -2,6 +2,15 @@
 
 
 
+## [trilium-notes-9.1.4](https://github.com/truecharts/charts/compare/trilium-notes-9.1.3...trilium-notes-9.1.4) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [trilium-notes-9.1.3](https://github.com/truecharts/charts/compare/trilium-notes-9.1.2...trilium-notes-9.1.3) (2023-12-07)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [redisinsight-3.0.16](https://github.com/truecharts/charts/compare/redisinsight-3.0.15...redisinsight-3.0.16) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [redisinsight-3.0.15](https://github.com/truecharts/charts/compare/redisinsight-3.0.14...redisinsight-3.0.15) (2023-12-03)
 
 ### Chore

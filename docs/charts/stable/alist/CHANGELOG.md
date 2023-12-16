@@ -2,6 +2,15 @@
 
 
 
+## [alist-6.1.2](https://github.com/truecharts/charts/compare/alist-6.1.1...alist-6.1.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [alist-6.1.1](https://github.com/truecharts/charts/compare/alist-6.1.0...alist-6.1.1) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [thelounge-10.0.21](https://github.com/truecharts/charts/compare/thelounge-10.0.20...thelounge-10.0.21) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [thelounge-10.0.20](https://github.com/truecharts/charts/compare/thelounge-10.0.19...thelounge-10.0.20) (2023-12-03)
 
 ### Chore

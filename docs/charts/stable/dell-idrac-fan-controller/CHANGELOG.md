@@ -2,6 +2,15 @@
 
 
 
+## [dell-idrac-fan-controller-2.0.11](https://github.com/truecharts/charts/compare/dell-idrac-fan-controller-2.0.10...dell-idrac-fan-controller-2.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [dell-idrac-fan-controller-2.0.10](https://github.com/truecharts/charts/compare/dell-idrac-fan-controller-2.0.9...dell-idrac-fan-controller-2.0.10) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [mosdns-6.0.14](https://github.com/truecharts/charts/compare/mosdns-6.0.13...mosdns-6.0.14) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [mosdns-6.0.13](https://github.com/truecharts/charts/compare/mosdns-6.0.12...mosdns-6.0.13) (2023-12-03)
 
 ### Chore

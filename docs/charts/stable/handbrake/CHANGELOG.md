@@ -2,6 +2,15 @@
 
 
 
+## [handbrake-17.0.17](https://github.com/truecharts/charts/compare/handbrake-17.0.16...handbrake-17.0.17) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [handbrake-17.0.16](https://github.com/truecharts/charts/compare/handbrake-17.0.15...handbrake-17.0.16) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [searxng-4.0.85](https://github.com/truecharts/charts/compare/searxng-4.0.84...searxng-4.0.85) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [searxng-4.0.84](https://github.com/truecharts/charts/compare/searxng-4.0.83...searxng-4.0.84) (2023-12-11)
 
 ### Chore

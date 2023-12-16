@@ -2,6 +2,15 @@
 
 
 
+## [guacd-6.0.13](https://github.com/truecharts/charts/compare/guacd-6.0.12...guacd-6.0.13) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [guacd-6.0.12](https://github.com/truecharts/charts/compare/guacd-6.0.11...guacd-6.0.12) (2023-12-08)
 
 ### Chore

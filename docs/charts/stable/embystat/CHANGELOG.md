@@ -2,6 +2,15 @@
 
 
 
+## [embystat-6.0.16](https://github.com/truecharts/charts/compare/embystat-6.0.15...embystat-6.0.16) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [embystat-6.0.15](https://github.com/truecharts/charts/compare/embystat-6.0.14...embystat-6.0.15) (2023-12-03)
 
 ### Chore

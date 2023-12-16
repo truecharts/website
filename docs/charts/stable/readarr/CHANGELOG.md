@@ -2,6 +2,15 @@
 
 
 
+## [readarr-17.0.27](https://github.com/truecharts/charts/compare/readarr-17.0.26...readarr-17.0.27) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [readarr-17.0.26](https://github.com/truecharts/charts/compare/readarr-17.0.25...readarr-17.0.26) (2023-12-10)
 
 ### Chore

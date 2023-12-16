@@ -2,6 +2,15 @@
 
 
 
+## [plexripper-5.0.6](https://github.com/truecharts/charts/compare/plexripper-5.0.5...plexripper-5.0.6) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [plexripper-5.0.5](https://github.com/truecharts/charts/compare/plexripper-5.0.4...plexripper-5.0.5) (2023-12-03)
 
 ### Chore

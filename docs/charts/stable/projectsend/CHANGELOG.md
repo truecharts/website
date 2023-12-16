@@ -2,6 +2,15 @@
 
 
 
+## [projectsend-8.0.32](https://github.com/truecharts/charts/compare/projectsend-8.0.31...projectsend-8.0.32) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [projectsend-8.0.31](https://github.com/truecharts/charts/compare/projectsend-8.0.30...projectsend-8.0.31) (2023-12-12)
 
 ### Chore

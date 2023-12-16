@@ -2,6 +2,15 @@
 
 
 
+## [watcharr-1.1.2](https://github.com/truecharts/charts/compare/watcharr-1.1.1...watcharr-1.1.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [watcharr-1.1.1](https://github.com/truecharts/charts/compare/watcharr-1.1.0...watcharr-1.1.1) (2023-12-03)
 
 ### Chore

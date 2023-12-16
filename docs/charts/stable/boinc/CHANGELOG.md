@@ -2,6 +2,15 @@
 
 
 
+## [boinc-6.0.29](https://github.com/truecharts/charts/compare/boinc-6.0.28...boinc-6.0.29) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [boinc-6.0.28](https://github.com/truecharts/charts/compare/boinc-6.0.27...boinc-6.0.28) (2023-12-12)
 
 ### Chore

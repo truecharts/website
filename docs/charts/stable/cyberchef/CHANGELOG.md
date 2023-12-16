@@ -2,6 +2,15 @@
 
 
 
+## [cyberchef-6.0.45](https://github.com/truecharts/charts/compare/cyberchef-6.0.44...cyberchef-6.0.45) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [cyberchef-6.0.44](https://github.com/truecharts/charts/compare/cyberchef-6.0.43...cyberchef-6.0.44) (2023-12-03)
 
 ### Chore

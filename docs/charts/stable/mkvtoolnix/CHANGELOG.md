@@ -2,6 +2,15 @@
 
 
 
+## [mkvtoolnix-6.1.1](https://github.com/truecharts/charts/compare/mkvtoolnix-6.1.0...mkvtoolnix-6.1.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [mkvtoolnix-6.1.0](https://github.com/truecharts/charts/compare/mkvtoolnix-6.0.13...mkvtoolnix-6.1.0) (2023-12-09)
 
 ### Chore

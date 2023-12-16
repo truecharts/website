@@ -2,6 +2,15 @@
 
 
 
+## [portainer-5.0.23](https://github.com/truecharts/charts/compare/portainer-5.0.22...portainer-5.0.23) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [portainer-5.0.22](https://github.com/truecharts/charts/compare/portainer-5.0.20...portainer-5.0.22) (2023-12-08)
 
 ### Chore

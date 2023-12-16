@@ -2,6 +2,16 @@
 
 
 
+## [redmine-8.2.4](https://github.com/truecharts/charts/compare/redmine-8.2.2...redmine-8.2.4) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  - update container image redmine to 5.1.1[@e60b696](https://github.com/e60b696) ([#16141](https://github.com/truecharts/charts/issues/16141))
+  
+  
+
+
 ## [redmine-8.2.3](https://github.com/truecharts/charts/compare/redmine-8.2.2...redmine-8.2.3) (2023-12-16)
 
 ### Chore

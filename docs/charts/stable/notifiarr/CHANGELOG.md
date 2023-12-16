@@ -2,6 +2,15 @@
 
 
 
+## [notifiarr-1.0.13](https://github.com/truecharts/charts/compare/notifiarr-1.0.12...notifiarr-1.0.13) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [notifiarr-1.0.12](https://github.com/truecharts/charts/compare/notifiarr-1.0.11...notifiarr-1.0.12) (2023-12-08)
 
 ### Fix

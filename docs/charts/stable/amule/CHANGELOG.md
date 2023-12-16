@@ -2,6 +2,15 @@
 
 
 
+## [amule-4.0.11](https://github.com/truecharts/charts/compare/amule-4.0.10...amule-4.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [amule-4.0.10](https://github.com/truecharts/charts/compare/amule-4.0.9...amule-4.0.10) (2023-12-03)
 
 ### Chore

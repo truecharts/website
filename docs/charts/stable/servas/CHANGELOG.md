@@ -2,6 +2,15 @@
 
 
 
+## [servas-0.0.25](https://github.com/truecharts/charts/compare/servas-0.0.24...servas-0.0.25) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [servas-0.0.24](https://github.com/truecharts/charts/compare/servas-0.0.23...servas-0.0.24) (2023-12-03)
 
 ### Chore

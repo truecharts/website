@@ -2,6 +2,15 @@
 
 
 
+## [tdarr-6.2.1](https://github.com/truecharts/charts/compare/tdarr-6.2.0...tdarr-6.2.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [tdarr-6.2.0](https://github.com/truecharts/charts/compare/tdarr-6.1.1...tdarr-6.2.0) (2023-12-11)
 
 ### Chore

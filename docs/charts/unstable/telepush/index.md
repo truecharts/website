@@ -1,18 +1,18 @@
 # telepush
 
-![Version: 0.0.8](https://img.shields.io/badge/Version-0.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.1](https://img.shields.io/badge/AppVersion-4.1.1-informational?style=flat-square)
+![Version: 0.0.9](https://img.shields.io/badge/Version-0.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.1](https://img.shields.io/badge/AppVersion-4.1.1-informational?style=flat-square)
 
 A simple bot to translate JSON HTTP requests into Telegram push messages.
 
 ## Chart Sources
 
-- https://github.com/muety/telepush
 - https://github.com/truecharts/charts/tree/master/charts/incubator/telepush
 - https://github.com/truecharts/containers/tree/master/mirrortelepush
+- https://github.com/muety/telepush
 
 ## Available Documentation
 
-- [****](CHANGELOG)
+- [**Changelog**](CHANGELOG)
 
 - [**Helm Security**](container-security)
 

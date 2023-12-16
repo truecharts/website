@@ -2,6 +2,19 @@
 
 
 
+## [plex-14.1.5](https://github.com/truecharts/charts/compare/plex-14.1.4...plex-14.1.5) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  ### Docs
+
+- remove transcode section ([#15828](https://github.com/truecharts/charts/issues/15828))
+  
+  
+
+
 ## [plex-14.1.4](https://github.com/truecharts/charts/compare/plex-14.1.3...plex-14.1.4) (2023-12-06)
 
 ### Chore

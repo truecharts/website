@@ -2,6 +2,15 @@
 
 
 
+## [matomo-8.1.3](https://github.com/truecharts/charts/compare/matomo-8.1.2...matomo-8.1.3) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [matomo-8.1.2](https://github.com/truecharts/charts/compare/matomo-8.1.1...matomo-8.1.2) (2023-12-07)
 
 ### Chore

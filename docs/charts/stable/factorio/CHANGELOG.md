@@ -2,6 +2,15 @@
 
 
 
+## [factorio-4.1.10](https://github.com/truecharts/charts/compare/factorio-4.1.9...factorio-4.1.10) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [factorio-4.1.9](https://github.com/truecharts/charts/compare/factorio-4.1.8...factorio-4.1.9) (2023-12-04)
 
 ### Chore

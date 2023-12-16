@@ -2,6 +2,15 @@
 
 
 
+## [pwndrop-6.0.26](https://github.com/truecharts/charts/compare/pwndrop-6.0.25...pwndrop-6.0.26) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [pwndrop-6.0.25](https://github.com/truecharts/charts/compare/pwndrop-6.0.24...pwndrop-6.0.25) (2023-12-11)
 
 ### Chore

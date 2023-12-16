@@ -2,6 +2,15 @@
 
 
 
+## [calibre-web-15.0.17](https://github.com/truecharts/charts/compare/calibre-web-15.0.16...calibre-web-15.0.17) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [calibre-web-15.0.16](https://github.com/truecharts/charts/compare/calibre-web-15.0.15...calibre-web-15.0.16) (2023-12-10)
 
 ### Chore

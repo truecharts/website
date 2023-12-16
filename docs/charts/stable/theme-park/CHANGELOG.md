@@ -2,6 +2,15 @@
 
 
 
+## [theme-park-6.0.12](https://github.com/truecharts/charts/compare/theme-park-6.0.11...theme-park-6.0.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [theme-park-6.0.11](https://github.com/truecharts/charts/compare/theme-park-6.0.10...theme-park-6.0.11) (2023-12-03)
 
 ### Chore

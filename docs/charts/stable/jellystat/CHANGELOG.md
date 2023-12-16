@@ -2,6 +2,15 @@
 
 
 
+## [jellystat-0.0.17](https://github.com/truecharts/charts/compare/jellystat-0.0.16...jellystat-0.0.17) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [jellystat-0.0.16](https://github.com/truecharts/charts/compare/jellystat-0.0.15...jellystat-0.0.16) (2023-12-10)
 
 ### Chore

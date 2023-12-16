@@ -1,14 +1,14 @@
 # kms
 
-![Version: 15.0.10](https://img.shields.io/badge/Version-15.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: minimal](https://img.shields.io/badge/AppVersion-minimal-informational?style=flat-square)
+![Version: 15.0.11](https://img.shields.io/badge/Version-15.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: minimal](https://img.shields.io/badge/AppVersion-minimal-informational?style=flat-square)
 
 Private Windows Activation Server for development and testing
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/kms
 - https://hub.docker.com/r/pykmsorg/py-kms
 - https://github.com/Py-KMS-Organization/py-kms
+- https://github.com/truecharts/charts/tree/master/charts/stable/kms
 
 ## Available Documentation
 

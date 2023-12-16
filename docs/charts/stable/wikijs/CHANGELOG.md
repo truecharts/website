@@ -2,6 +2,15 @@
 
 
 
+## [wikijs-12.0.12](https://github.com/truecharts/charts/compare/wikijs-12.0.11...wikijs-12.0.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [wikijs-12.0.11](https://github.com/truecharts/charts/compare/wikijs-12.0.10...wikijs-12.0.11) (2023-12-03)
 
 ### Chore

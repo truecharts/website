@@ -2,6 +2,15 @@
 
 
 
+## [seedsync-4.0.12](https://github.com/truecharts/charts/compare/seedsync-4.0.11...seedsync-4.0.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [seedsync-4.0.11](https://github.com/truecharts/charts/compare/seedsync-4.0.10...seedsync-4.0.11) (2023-12-03)
 
 ### Chore

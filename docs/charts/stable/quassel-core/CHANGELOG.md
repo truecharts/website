@@ -2,6 +2,15 @@
 
 
 
+## [quassel-core-8.0.24](https://github.com/truecharts/charts/compare/quassel-core-8.0.23...quassel-core-8.0.24) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [quassel-core-8.0.23](https://github.com/truecharts/charts/compare/quassel-core-8.0.22...quassel-core-8.0.23) (2023-12-11)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [external-service-10.1.1](https://github.com/truecharts/charts/compare/external-service-10.1.0...external-service-10.1.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [external-service-10.1.0](https://github.com/truecharts/charts/compare/external-service-10.0.13...external-service-10.1.0) (2023-12-08)
 
 ### Chore

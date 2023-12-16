@@ -2,6 +2,15 @@
 
 
 
+## [kavita-6.0.17](https://github.com/truecharts/charts/compare/kavita-6.0.16...kavita-6.0.17) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [kavita-6.0.16](https://github.com/truecharts/charts/compare/kavita-6.0.15...kavita-6.0.16) (2023-12-12)
 
 ### Chore

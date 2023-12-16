@@ -2,6 +2,15 @@
 
 
 
+## [grav-8.0.31](https://github.com/truecharts/charts/compare/grav-8.0.30...grav-8.0.31) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [grav-8.0.30](https://github.com/truecharts/charts/compare/grav-8.0.29...grav-8.0.30) (2023-12-09)
 
 ### Chore

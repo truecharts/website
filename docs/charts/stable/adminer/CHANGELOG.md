@@ -2,6 +2,15 @@
 
 
 
+## [adminer-5.0.38](https://github.com/truecharts/charts/compare/adminer-5.0.37...adminer-5.0.38) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [adminer-5.0.37](https://github.com/truecharts/charts/compare/adminer-5.0.36...adminer-5.0.37) (2023-12-03)
 
 ### Chore

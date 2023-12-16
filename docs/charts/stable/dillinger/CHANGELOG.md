@@ -2,6 +2,15 @@
 
 
 
+## [dillinger-6.0.23](https://github.com/truecharts/charts/compare/dillinger-6.0.22...dillinger-6.0.23) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [dillinger-6.0.22](https://github.com/truecharts/charts/compare/dillinger-6.0.21...dillinger-6.0.22) (2023-12-09)
 
 ### Chore

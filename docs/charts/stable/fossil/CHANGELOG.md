@@ -2,6 +2,15 @@
 
 
 
+## [fossil-8.0.11](https://github.com/truecharts/charts/compare/fossil-8.0.10...fossil-8.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [fossil-8.0.10](https://github.com/truecharts/charts/compare/fossil-8.0.9...fossil-8.0.10) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [unmanic-7.0.12](https://github.com/truecharts/charts/compare/unmanic-7.0.11...unmanic-7.0.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [unmanic-7.0.11](https://github.com/truecharts/charts/compare/unmanic-7.0.10...unmanic-7.0.11) (2023-12-03)
 
 ### Chore

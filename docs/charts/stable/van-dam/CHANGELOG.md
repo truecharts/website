@@ -2,6 +2,15 @@
 
 
 
+## [van-dam-0.1.1](https://github.com/truecharts/charts/compare/van-dam-0.1.0...van-dam-0.1.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [van-dam-0.1.0](https://github.com/truecharts/charts/compare/van-dam-0.0.9...van-dam-0.1.0) (2023-12-04)
 
 ### Chore

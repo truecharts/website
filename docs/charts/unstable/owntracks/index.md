@@ -1,6 +1,6 @@
 # owntracks
 
-![Version: 1.0.2](https://img.shields.io/badge/Version-1.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.9.3](https://img.shields.io/badge/AppVersion-0.9.3-informational?style=flat-square)
+![Version: 1.0.3](https://img.shields.io/badge/Version-1.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.9.3](https://img.shields.io/badge/AppVersion-0.9.3-informational?style=flat-square)
 
 The OwnTracks Recorder is a lightweight program for storing and accessing location data published via MQTT (or HTTP) by the OwnTracks apps.
 
@@ -13,7 +13,7 @@ The OwnTracks Recorder is a lightweight program for storing and accessing locati
 
 ## Available Documentation
 
-- [****](CHANGELOG)
+- [**Changelog**](CHANGELOG)
 
 - [**Helm Security**](container-security)
 

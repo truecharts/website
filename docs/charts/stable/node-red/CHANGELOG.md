@@ -2,6 +2,15 @@
 
 
 
+## [node-red-15.0.14](https://github.com/truecharts/charts/compare/node-red-15.0.13...node-red-15.0.14) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [node-red-15.0.13](https://github.com/truecharts/charts/compare/node-red-15.0.12...node-red-15.0.13) (2023-12-08)
 
 ### Chore

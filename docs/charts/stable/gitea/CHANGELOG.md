@@ -2,6 +2,15 @@
 
 
 
+## [gitea-14.0.16](https://github.com/truecharts/charts/compare/gitea-14.0.15...gitea-14.0.16) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [gitea-14.0.15](https://github.com/truecharts/charts/compare/gitea-14.0.14...gitea-14.0.15) (2023-12-12)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [syslog-ng-6.1.12](https://github.com/truecharts/charts/compare/syslog-ng-6.1.11...syslog-ng-6.1.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [syslog-ng-6.1.11](https://github.com/truecharts/charts/compare/syslog-ng-6.1.10...syslog-ng-6.1.11) (2023-12-03)
 
 ### Chore

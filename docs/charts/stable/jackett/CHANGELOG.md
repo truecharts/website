@@ -2,6 +2,15 @@
 
 
 
+## [jackett-16.0.8](https://github.com/truecharts/charts/compare/jackett-16.0.7...jackett-16.0.8) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [jackett-16.0.7](https://github.com/truecharts/charts/compare/jackett-16.0.5...jackett-16.0.7) (2023-12-06)
 
 ### Feat

@@ -2,6 +2,15 @@
 
 
 
+## [shiori-13.0.13](https://github.com/truecharts/charts/compare/shiori-13.0.12...shiori-13.0.13) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [shiori-13.0.12](https://github.com/truecharts/charts/compare/shiori-13.0.11...shiori-13.0.12) (2023-12-03)
 
 ### Chore

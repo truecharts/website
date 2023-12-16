@@ -2,6 +2,15 @@
 
 
 
+## [haste-server-10.0.11](https://github.com/truecharts/charts/compare/haste-server-10.0.10...haste-server-10.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [haste-server-10.0.10](https://github.com/truecharts/charts/compare/haste-server-10.0.9...haste-server-10.0.10) (2023-12-03)
 
 ### Chore

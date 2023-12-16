@@ -2,6 +2,15 @@
 
 
 
+## [clusterissuer-4.2.12](https://github.com/truecharts/charts/compare/clusterissuer-4.2.11...clusterissuer-4.2.12) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [clusterissuer-4.2.11](https://github.com/truecharts/charts/compare/clusterissuer-4.2.10...clusterissuer-4.2.11) (2023-12-03)
 
 ### Chore

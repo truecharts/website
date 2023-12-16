@@ -2,6 +2,15 @@
 
 
 
+## [filestash-3.0.9](https://github.com/truecharts/charts/compare/filestash-3.0.8...filestash-3.0.9) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [filestash-3.0.8](https://github.com/truecharts/charts/compare/filestash-3.0.7...filestash-3.0.8) (2023-12-04)
 
 ### Chore

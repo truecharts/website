@@ -2,6 +2,15 @@
 
 
 
+## [kitchenowl-6.0.28](https://github.com/truecharts/charts/compare/kitchenowl-6.0.27...kitchenowl-6.0.28) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [kitchenowl-6.0.27](https://github.com/truecharts/charts/compare/kitchenowl-6.0.26...kitchenowl-6.0.27) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [truecommand-15.0.11](https://github.com/truecharts/charts/compare/truecommand-15.0.10...truecommand-15.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [truecommand-15.0.10](https://github.com/truecharts/charts/compare/truecommand-15.0.9...truecommand-15.0.10) (2023-12-03)
 
 ### Chore

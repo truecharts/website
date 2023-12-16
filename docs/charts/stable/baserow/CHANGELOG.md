@@ -2,6 +2,15 @@
 
 
 
+## [baserow-8.0.14](https://github.com/truecharts/charts/compare/baserow-8.0.13...baserow-8.0.14) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [baserow-8.0.13](https://github.com/truecharts/charts/compare/baserow-8.0.12...baserow-8.0.13) (2023-12-03)
 
 ### Chore

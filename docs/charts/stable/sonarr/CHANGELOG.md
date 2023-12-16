@@ -2,6 +2,15 @@
 
 
 
+## [sonarr-16.0.16](https://github.com/truecharts/charts/compare/sonarr-16.0.15...sonarr-16.0.16) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [sonarr-16.0.15](https://github.com/truecharts/charts/compare/sonarr-16.0.14...sonarr-16.0.15) (2023-12-09)
 
 ### Chore

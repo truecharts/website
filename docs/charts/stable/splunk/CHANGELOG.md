@@ -2,6 +2,15 @@
 
 
 
+## [splunk-4.1.3](https://github.com/truecharts/charts/compare/splunk-4.1.2...splunk-4.1.3) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [splunk-4.1.2](https://github.com/truecharts/charts/compare/splunk-4.1.1...splunk-4.1.2) (2023-12-03)
 
 ### Chore

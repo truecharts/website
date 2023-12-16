@@ -2,6 +2,15 @@
 
 
 
+## [clamav-7.0.17](https://github.com/truecharts/charts/compare/clamav-7.0.16...clamav-7.0.17) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [clamav-7.0.16](https://github.com/truecharts/charts/compare/clamav-7.0.15...clamav-7.0.16) (2023-12-11)
 
 ### Chore

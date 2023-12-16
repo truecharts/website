@@ -2,6 +2,15 @@
 
 
 
+## [redis-10.0.1](https://github.com/truecharts/charts/compare/redis-10.0.0...redis-10.0.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [redis-10.0.0](https://github.com/truecharts/charts/compare/redis-9.0.3...redis-10.0.0) (2023-12-12)
 
 ### Chore

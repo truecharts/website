@@ -2,6 +2,15 @@
 
 
 
+## [shlink-9.1.2](https://github.com/truecharts/charts/compare/shlink-9.1.1...shlink-9.1.2) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [shlink-9.1.1](https://github.com/truecharts/charts/compare/shlink-9.1.0...shlink-9.1.1) (2023-12-03)
 
 ### Chore

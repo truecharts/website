@@ -2,6 +2,15 @@
 
 
 
+## [unpackerr-10.0.11](https://github.com/truecharts/charts/compare/unpackerr-10.0.10...unpackerr-10.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [unpackerr-10.0.10](https://github.com/truecharts/charts/compare/unpackerr-10.0.9...unpackerr-10.0.10) (2023-12-03)
 
 ### Chore

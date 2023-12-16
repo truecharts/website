@@ -2,6 +2,15 @@
 
 
 
+## [tagspaces-0.0.14](https://github.com/truecharts/charts/compare/tagspaces-0.0.13...tagspaces-0.0.14) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [tagspaces-0.0.13](https://github.com/truecharts/charts/compare/tagspaces-0.0.12...tagspaces-0.0.13) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [linkding-6.1.17](https://github.com/truecharts/charts/compare/linkding-6.1.16...linkding-6.1.17) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [linkding-6.1.16](https://github.com/truecharts/charts/compare/linkding-6.1.15...linkding-6.1.16) (2023-12-09)
 
 ### Chore

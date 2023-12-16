@@ -2,6 +2,15 @@
 
 
 
+## [foldingathome-6.0.20](https://github.com/truecharts/charts/compare/foldingathome-6.0.19...foldingathome-6.0.20) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [foldingathome-6.0.19](https://github.com/truecharts/charts/compare/foldingathome-6.0.18...foldingathome-6.0.19) (2023-12-05)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [meshcentral-12.0.1](https://github.com/truecharts/charts/compare/meshcentral-12.0.0...meshcentral-12.0.1) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [meshcentral-12.0.0](https://github.com/truecharts/charts/compare/meshcentral-11.0.15...meshcentral-12.0.0) (2023-12-11)
 
 ### Feat

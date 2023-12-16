@@ -2,6 +2,15 @@
 
 
 
+## [qbitrr-0.0.29](https://github.com/truecharts/charts/compare/qbitrr-0.0.28...qbitrr-0.0.29) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [qbitrr-0.0.28](https://github.com/truecharts/charts/compare/qbitrr-0.0.27...qbitrr-0.0.28) (2023-12-03)
 
 ### Chore

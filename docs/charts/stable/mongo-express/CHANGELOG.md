@@ -2,6 +2,15 @@
 
 
 
+## [mongo-express-2.0.11](https://github.com/truecharts/charts/compare/mongo-express-2.0.10...mongo-express-2.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [mongo-express-2.0.10](https://github.com/truecharts/charts/compare/mongo-express-2.0.9...mongo-express-2.0.10) (2023-12-03)
 
 ### Chore

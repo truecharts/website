@@ -2,6 +2,15 @@
 
 
 
+## [plausible-5.0.14](https://github.com/truecharts/charts/compare/plausible-5.0.13...plausible-5.0.14) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [plausible-5.0.13](https://github.com/truecharts/charts/compare/plausible-5.0.12...plausible-5.0.13) (2023-12-03)
 
 ### Chore

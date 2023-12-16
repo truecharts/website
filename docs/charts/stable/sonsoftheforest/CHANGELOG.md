@@ -2,6 +2,15 @@
 
 
 
+## [sonsoftheforest-0.0.11](https://github.com/truecharts/charts/compare/sonsoftheforest-0.0.10...sonsoftheforest-0.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [sonsoftheforest-0.0.10](https://github.com/truecharts/charts/compare/sonsoftheforest-0.0.9...sonsoftheforest-0.0.10) (2023-12-03)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [mysql-workbench-6.0.28](https://github.com/truecharts/charts/compare/mysql-workbench-6.0.27...mysql-workbench-6.0.28) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [mysql-workbench-6.0.27](https://github.com/truecharts/charts/compare/mysql-workbench-6.0.26...mysql-workbench-6.0.27) (2023-12-09)
 
 ### Chore

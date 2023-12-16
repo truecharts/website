@@ -2,6 +2,15 @@
 
 
 
+## [wizarr-3.0.16](https://github.com/truecharts/charts/compare/wizarr-3.0.14...wizarr-3.0.16) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [wizarr-3.0.15](https://github.com/truecharts/charts/compare/wizarr-3.0.14...wizarr-3.0.15) (2023-12-16)
 
 

@@ -2,6 +2,15 @@
 
 
 
+## [mosquitto-11.0.18](https://github.com/truecharts/charts/compare/mosquitto-11.0.17...mosquitto-11.0.18) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [mosquitto-11.0.17](https://github.com/truecharts/charts/compare/mosquitto-11.0.16...mosquitto-11.0.17) (2023-12-03)
 
 ### Chore

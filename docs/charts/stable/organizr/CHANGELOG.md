@@ -2,6 +2,15 @@
 
 
 
+## [organizr-15.0.17](https://github.com/truecharts/charts/compare/organizr-15.0.16...organizr-15.0.17) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [organizr-15.0.16](https://github.com/truecharts/charts/compare/organizr-15.0.15...organizr-15.0.16) (2023-12-04)
 
 ### Chore

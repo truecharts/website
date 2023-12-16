@@ -2,6 +2,15 @@
 
 
 
+## [overseerr-10.0.11](https://github.com/truecharts/charts/compare/overseerr-10.0.10...overseerr-10.0.11) (2023-12-16)
+
+### Chore
+
+- fix move mistake and cleanup metadata
+  
+  
+
+
 ## [overseerr-10.0.10](https://github.com/truecharts/charts/compare/overseerr-10.0.9...overseerr-10.0.10) (2023-12-03)
 
 ### Chore
