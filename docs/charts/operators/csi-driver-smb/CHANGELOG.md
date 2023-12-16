@@ -2,6 +2,16 @@
 
 
 
+## [csi-driver-smb-1.0.5](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.4...csi-driver-smb-1.0.5) (2023-12-16)
+
+### Chore
+
+- update container image openebs/velero-plugin to v3.6.0 ([#16138](https://github.com/truecharts/charts/issues/16138))
+  - update container image velero/velero-plugin-for-aws to v1.8.2[@edfb144](https://github.com/edfb144) ([#16174](https://github.com/truecharts/charts/issues/16174))
+  
+  
+
+
 ## [csi-driver-smb-1.0.4](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.3...csi-driver-smb-1.0.4) (2023-12-16)
 
 ### Chore
