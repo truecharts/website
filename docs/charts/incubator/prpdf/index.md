@@ -6,9 +6,9 @@ This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan wi
 
 ## Chart Sources
 
+- https://github.com/maschhoff/prpdf
 - https://github.com/truecharts/charts/tree/master/charts/incubator/prpdf
 - https://hub.docker.com/r/knex666/prpdf
-- https://github.com/maschhoff/prpdf
 
 ## Available Documentation
 

@@ -7,9 +7,9 @@ Support the Bitcoin network by hosting your own node! This template provides a f
 
 ## Chart Sources
 
+- https://bitcoin.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoind
 - https://hub.docker.com/r/ofawx/bitcoind
-- https://bitcoin.org/
 
 ## Available Documentation
 

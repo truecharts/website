@@ -6,9 +6,9 @@ Photo Stream is a simpler home for your photos. Easy to use, self hosted, no tra
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/photo-stream
 - https://hub.docker.com/r/waschinski/photo-stream
 - https://github.com/waschinski/photo-stream
+- https://github.com/truecharts/charts/tree/master/charts/incubator/photo-stream
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ FOG Project can capture, deploy, and manage Windows, Mac OSX, and various Linux 
 
 ## Chart Sources
 
+- https://hub.docker.com/r/redvex2460/fogproject
 - https://github.com/redvex2460/fogproject
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fogproject
-- https://hub.docker.com/r/redvex2460/fogproject
 
 ## Available Documentation
 

@@ -6,9 +6,9 @@ ErsatzTV configuring and streaming custom live channels using your media library
 
 ## Chart Sources
 
+- https://hub.docker.com/r/jasongdove/ersatztv
 - https://github.com/jasongdove/ErsatzTV
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ersatztv
-- https://hub.docker.com/r/jasongdove/ersatztv
 
 ## Available Documentation
 

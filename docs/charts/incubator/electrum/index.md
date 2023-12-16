@@ -6,9 +6,9 @@ Electrum is a Bitcoin wallet focused on speed and simplicity, with low resource 
 
 ## Chart Sources
 
-- https://hub.docker.com/r/ich777/electrum
 - https://electrum.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/electrum
+- https://hub.docker.com/r/ich777/electrum
 
 ## Available Documentation
 

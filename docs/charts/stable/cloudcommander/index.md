@@ -7,8 +7,8 @@
 
 ## Chart Sources
 
-- https://hub.docker.com/r/coderaiser/cloudcmd
 - https://github.com/truecharts/charts/tree/master/charts/incubator/cloudcommander
+- https://hub.docker.com/r/coderaiser/cloudcmd
 
 ## Available Documentation
 

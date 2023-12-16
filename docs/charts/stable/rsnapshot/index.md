@@ -6,8 +6,8 @@ Rsnapshot is a filesystem snapshot utility based on rsync.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/rsnapshot
 - https://ghcr.io/linuxserver/rsnapshot
+- https://github.com/truecharts/charts/tree/master/charts/stable/rsnapshot
 
 ## Available Documentation
 

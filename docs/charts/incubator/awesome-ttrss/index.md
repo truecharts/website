@@ -6,9 +6,9 @@ Awesome TTRSS aims to provide a powerful Chartized all-in-one solution for Tiny 
 
 ## Chart Sources
 
+- https://github.com/HenryQW/Awesome-TTRSS
 - https://github.com/truecharts/charts/tree/master/charts/incubator/awesome-ttrss
 - https://hub.docker.com/r/wangqiru/ttrss
-- https://github.com/HenryQW/Awesome-TTRSS
 
 ## Available Documentation
 

@@ -7,9 +7,9 @@ Paperless-ngx is an application by Daniel Quinn and contributors that indexes yo
 ## Chart Sources
 
 - https://paperless-ngx.readthedocs.io/en/latest/
+- https://github.com/paperless-ngx/paperless-ngx
 - https://github.com/truecharts/charts/tree/master/charts/stable/paperless-ngx
 - https://ghcr.io/paperless-ngx/paperless-ngx
-- https://github.com/paperless-ngx/paperless-ngx
 
 ## Available Documentation
 

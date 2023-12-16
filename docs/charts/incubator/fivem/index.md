@@ -6,9 +6,9 @@ With this Chart you can run FiveM (GTA V MOD SERVER) it will automatically downl
 
 ## Chart Sources
 
+- https://fivem.net/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fivem
 - https://hub.docker.com/r/ich777/fivemserver
-- https://fivem.net/
 
 ## Available Documentation
 

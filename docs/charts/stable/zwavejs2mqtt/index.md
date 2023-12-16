@@ -6,9 +6,9 @@ Fully configurable Zwave to MQTT gateway and Control Panel using NodeJS and Vue
 
 ## Chart Sources
 
+- https://hub.docker.com/r/zwavejs/zwave-js-ui
 - https://github.com/zwave-js/zwavejs2mqtt
 - https://github.com/truecharts/charts/tree/master/charts/stable/zwavejs2mqtt
-- https://hub.docker.com/r/zwavejs/zwave-js-ui
 
 ## Available Documentation
 

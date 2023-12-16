@@ -6,8 +6,8 @@ Another web application bookmark dashboard, with fun features.[br][br][b][u][spa
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/dashmachine
 - https://hub.docker.com/r/rmountjoy/dashmachine
+- https://github.com/truecharts/charts/tree/master/charts/incubator/dashmachine
 
 ## Available Documentation
 

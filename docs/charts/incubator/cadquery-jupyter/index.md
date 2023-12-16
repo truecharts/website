@@ -6,9 +6,9 @@ CadQuery is an intuitive, easy-to-use Python module for building parametric 3D C
 
 ## Chart Sources
 
+- https://hub.docker.com/r/bwalter42/jupyter_cadquery
 - https://github.com/bernhard-42/jupyter-cadquery
 - https://github.com/truecharts/charts/tree/master/charts/incubator/cadquery-jupyter
-- https://hub.docker.com/r/bwalter42/jupyter_cadquery
 
 ## Available Documentation
 

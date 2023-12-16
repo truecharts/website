@@ -6,8 +6,8 @@ Sourcegraph Chart.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/sourcegraph
 - https://hub.docker.com/r/sourcegraph/server
+- https://github.com/truecharts/charts/tree/master/charts/incubator/sourcegraph
 
 ## Available Documentation
 

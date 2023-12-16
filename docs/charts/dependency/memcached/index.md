@@ -6,9 +6,9 @@ Memcached is a memory-backed database caching solution
 
 ## Chart Sources
 
-- https://github.com/bitnami/bitnami-docker-memcached
 - https://github.com/truecharts/charts/tree/master/charts/dependency/memcached
 - https://hub.docker.com/r/bitnami/memcached
+- https://github.com/bitnami/bitnami-docker-memcached
 
 ## Available Documentation
 

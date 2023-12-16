@@ -6,9 +6,9 @@ Business intelligence, dashboards, and data visualization tools
 
 ## Chart Sources
 
+- https://github.com/metabase/metabase
 - https://github.com/truecharts/charts/tree/master/charts/stable/metabase
 - https://hub.docker.com/r/metabase/metabase
-- https://github.com/metabase/metabase
 
 ## Available Documentation
 

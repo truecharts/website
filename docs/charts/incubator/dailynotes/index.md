@@ -7,8 +7,8 @@ App for taking notes and tracking tasks on a daily basis.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/m0ngr31/dailynotes
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dailynotes
+- https://hub.docker.com/r/m0ngr31/dailynotes
 
 ## Available Documentation
 

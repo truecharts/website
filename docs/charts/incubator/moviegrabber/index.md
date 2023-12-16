@@ -7,10 +7,10 @@ MovieGrabber is a fully automated way of downloading movie from usenet, it suppo
 ## Chart Sources
 
 - https://github.com/binhex/moviegrabber
-- https://github.com/truecharts/charts/tree/master/charts/incubator/moviegrabber
-- https://hub.docker.com/r/binhex/arch-moviegrabber
 - https://registry.hub.docker.com/r/binhex/arch-moviegrabber/
 - https://github.com/binhex/documentation
+- https://github.com/truecharts/charts/tree/master/charts/incubator/moviegrabber
+- https://hub.docker.com/r/binhex/arch-moviegrabber
 
 ## Available Documentation
 

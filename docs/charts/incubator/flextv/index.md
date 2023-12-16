@@ -7,9 +7,9 @@ A super-sexy voice interface for the Plex HTPC.
 ## Chart Sources
 
 - https://github.com/d8ahazard/FlexTV
+- https://registry.hub.docker.com/r/jcreynolds/flextv/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/flextv
 - https://hub.docker.com/r/jcreynolds/flextv
-- https://registry.hub.docker.com/r/jcreynolds/flextv/
 
 ## Available Documentation
 

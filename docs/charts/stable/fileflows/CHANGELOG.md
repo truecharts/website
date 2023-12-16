@@ -164,6 +164,15 @@
   
 
 
+## [fileflows-6.1.0](https://github.com/truecharts/charts/compare/fileflows-6.0.13...fileflows-6.1.0) (2023-12-14)
+
+### Chore
+
+- update container image revenz/fileflows to v23.12[@b6f4278](https://github.com/b6f4278) ([#16057](https://github.com/truecharts/charts/issues/16057))
+  
+  
+
+
 ## [fileflows-6.0.13](https://github.com/truecharts/charts/compare/fileflows-6.0.12...fileflows-6.0.13) (2023-12-03)
 
 ### Chore

@@ -182,6 +182,15 @@
   
 
 
+## [crafty-4-4.0.11](https://github.com/truecharts/charts/compare/crafty-4-4.0.10...crafty-4-4.0.11) (2023-12-14)
+
+### Chore
+
+- update container image registry.gitlab.com/crafty-controller/crafty-4 to v4.2.2[@559c46a](https://github.com/559c46a) ([#16040](https://github.com/truecharts/charts/issues/16040))
+  
+  
+
+
 ## [crafty-4-4.0.11](https://github.com/truecharts/charts/compare/crafty-4-4.0.10...crafty-4-4.0.11) (2023-12-13)
 
 ### Chore
