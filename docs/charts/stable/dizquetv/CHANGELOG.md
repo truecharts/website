@@ -12,6 +12,11 @@
 
 
 
+## [dizquetv-11.1.0](https://github.com/truecharts/charts/compare/dizquetv-11.0.12...dizquetv-11.1.0) (2023-12-16)
+
+
+
+
 ## [dizquetv-11.1.0](https://github.com/truecharts/charts/compare/dizquetv-11.0.12...dizquetv-11.1.0) (2023-12-14)
 
 

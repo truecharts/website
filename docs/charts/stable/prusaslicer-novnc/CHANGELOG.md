@@ -20,6 +20,15 @@
   
 
 
+## [prusaslicer-novnc-5.0.28](https://github.com/truecharts/charts/compare/prusaslicer-novnc-5.0.27...prusaslicer-novnc-5.0.28) (2023-12-16)
+
+### Chore
+
+- update container image mikeah/prusaslicer-novnc to latest[@d4fafb2](https://github.com/d4fafb2) ([#16093](https://github.com/truecharts/charts/issues/16093))
+  
+  
+
+
 ## [prusaslicer-novnc-5.0.28](https://github.com/truecharts/charts/compare/prusaslicer-novnc-5.0.27...prusaslicer-novnc-5.0.28) (2023-12-15)
 
 ### Chore

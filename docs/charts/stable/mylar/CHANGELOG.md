@@ -20,6 +20,15 @@
   
 
 
+## [mylar-10.0.29](https://github.com/truecharts/charts/compare/mylar-10.0.28...mylar-10.0.29) (2023-12-16)
+
+### Chore
+
+- update container image linuxserver/mylar3 to version-v0.7.6[@ae9c057](https://github.com/ae9c057) ([#16092](https://github.com/truecharts/charts/issues/16092))
+  
+  
+
+
 ## [mylar-10.0.29](https://github.com/truecharts/charts/compare/mylar-10.0.28...mylar-10.0.29) (2023-12-15)
 
 ### Chore

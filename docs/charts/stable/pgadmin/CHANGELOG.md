@@ -110,6 +110,15 @@
   
 
 
+## [pgadmin-12.1.0](https://github.com/truecharts/charts/compare/pgadmin-12.0.1...pgadmin-12.1.0) (2023-12-15)
+
+### Chore
+
+- update container image dpage/pgadmin4 to v8.1[@7938869](https://github.com/7938869) ([#16077](https://github.com/truecharts/charts/issues/16077))
+  
+  
+
+
 ## [pgadmin-12.1.0](https://github.com/truecharts/charts/compare/pgadmin-12.0.1...pgadmin-12.1.0) (2023-12-14)
 
 ### Chore
