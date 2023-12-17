@@ -2,6 +2,15 @@
 
 
 
+## [csi-driver-nfs-1.0.4](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.3...csi-driver-nfs-1.0.4) (2023-12-17)
+
+### Chore
+
+- update helm chart common to 16.2.7 by renovate ([#16207](https://github.com/truecharts/charts/issues/16207))
+  
+  
+
+
 ## [csi-driver-nfs-1.0.3](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.0...csi-driver-nfs-1.0.3) (2023-12-16)
 
 ### Chore

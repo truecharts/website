@@ -2,6 +2,15 @@
 
 
 
+## [ubuntu-xrdp-3.0.4](https://github.com/truecharts/charts/compare/ubuntu-xrdp-3.0.3...ubuntu-xrdp-3.0.4) (2023-12-17)
+
+### Chore
+
+- update helm chart common to 16.2.7 by renovate ([#16207](https://github.com/truecharts/charts/issues/16207))
+  
+  
+
+
 ## [ubuntu-xrdp-3.0.3](https://github.com/truecharts/charts/compare/ubuntu-xrdp-2.1.10...ubuntu-xrdp-3.0.3) (2023-12-16)
 
 ### Chore
