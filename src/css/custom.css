@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "ADAM-CG-PRO" !important;
-  src: url("/ADAM-CG\ PRO.woff") format("woff") !important;
+  src: url("/ADAM-CG-PRO.woff") format("woff") !important;
 }
 
 :root {
@@ -142,6 +142,7 @@ html {
   .footer__links {
     justify-content: left;
   }
+
   .social__icons__links {
     display: none !important;
   }
@@ -228,8 +229,7 @@ html {
 }
 
 .navbar {
-  border-bottom: var(--ifm-global-border-width) solid
-    var(--ifm-color-emphasis-200);
+  border-bottom: var(--ifm-global-border-width) solid var(--ifm-color-emphasis-200);
   padding-top: 0px !important;
   padding-bottom: 0px !important;
   height: auto;
@@ -237,9 +237,7 @@ html {
 
 .navbar__brand {
   align-self: flex-start;
-  margin: calc(-1 * var(--ifm-navbar-padding-vertical)) 0
-    calc(-1 * var(--ifm-navbar-padding-vertical))
-    calc(-1 * var(--ifm-navbar-padding-horizontal));
+  margin: calc(-1 * var(--ifm-navbar-padding-vertical)) 0 calc(-1 * var(--ifm-navbar-padding-vertical)) calc(-1 * var(--ifm-navbar-padding-horizontal));
 }
 
 .navbar__logo {
@@ -255,9 +253,11 @@ html {
     /* Because of absolutely placed search icon */
     padding-right: 28px;
   }
+
   .navbar {
     padding: 1.5rem !important;
   }
+
   .navbar__logo {
     margin-top: 0px !important;
   }
@@ -408,15 +408,19 @@ ul ul .table-of-contents__link {
 .core_libraries_video_light {
   display: flex;
 }
+
 .core_libraries_video_dark {
   display: none;
 }
+
 [data-theme="dark"] .core_libraries_video_dark {
   display: flex;
 }
+
 [data-theme="dark"] .core_libraries_video_light {
   display: none;
 }
+
 .custom__resrources__card {
   padding: 0px !important;
   position: relative !important;
@@ -441,7 +445,8 @@ a.navbar__item.navbar__link.navbar__link--active::before {
   width: 100% !important;
   background-color: var(--underline-navbar-item-color) !important;
   visibility: visible !important;
-  transform-origin: left; /* Start the animation from the left */
+  transform-origin: left;
+  /* Start the animation from the left */
   transition: transform 0.3s ease-out;
   transform: scaleX(1) !important;
 }
@@ -454,8 +459,10 @@ a.navbar__item.navbar__link::before {
   height: 3px;
   width: 100%;
   background-color: var(--underline-navbar-item-color) !important;
-  transform: scaleX(0); /* Hide the underline initially */
-  transform-origin: left; /* Start the animation from the left */
+  transform: scaleX(0);
+  /* Hide the underline initially */
+  transform-origin: left;
+  /* Start the animation from the left */
   transition: transform 0.3s ease-out;
 }
 
@@ -503,11 +510,13 @@ a.navbar__item.navbar__link:hover::before {
   text-align: center;
   margin: 8% 0;
 }
+
 .bounce {
   animation: bounce 2s infinite;
 }
 
 @keyframes bounce {
+
   0%,
   20%,
   50%,
@@ -515,9 +524,11 @@ a.navbar__item.navbar__link:hover::before {
   100% {
     transform: translateX(0);
   }
+
   40% {
     transform: translateX(-10px);
   }
+
   60% {
     transform: translateX(-5px);
   }
