@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "ADAM-CG-PRO" !important;
-  src: url("/static/ADAM-CG\ PRO.woff") format("woff") !important;
+  src: url("/ADAM-CG\ PRO.woff") format("woff") !important;
 }
 
 :root {
