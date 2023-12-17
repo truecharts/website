@@ -1,15 +1,15 @@
 # nextcloud
 
-![Version: 22.2.20](https://img.shields.io/badge/Version-22.2.20-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 27.1.4](https://img.shields.io/badge/AppVersion-27.1.4-informational?style=flat-square)
+![Version: 22.2.21](https://img.shields.io/badge/Version-22.2.21-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 27.1.4](https://img.shields.io/badge/AppVersion-27.1.4-informational?style=flat-square)
 
 A private cloud server that puts the control and security of your own data back into your hands.
 
 ## Chart Sources
 
-- https://github.com/truecharts/containers/tree/master/mirrornextcloud-imaginary
+- https://github.com/truecharts/charts/tree/master/charts/stable/nextcloud
+- https://hub.docker.com/r/clamav/clamav
 - https://github.com/nextcloud/docker
 - https://github.com/nextcloud/helm
-- https://github.com/truecharts/charts/tree/master/charts/stable/nextcloud
 
 ## Available Documentation
 
