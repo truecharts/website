@@ -6,8 +6,9 @@ A one-of-a-kind resume builder that keeps your privacy in mind.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/reactive-resume
 - https://github.com/reactive-resume/reactive-resume
+- https://github.com/truecharts/charts/tree/master/charts/unstable/reactive-resume
+- https://github.com/truecharts/containers/tree/master/mirrorreactive-resume-server
 
 ## Available Documentation
 
