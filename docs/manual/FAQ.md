@@ -104,7 +104,7 @@ Take backups beforehand with [HeavyScript](https://github.com/Heavybullets8/heav
 
 ## Does HeavyScript auto-update major changes?
 
-It depends on the flags you used. We recommend **NOT** using the `-U` flag, as this will update to major version changes.
+It depends on the flags you used. We recommend **NOT** using the `-a` flag, as this will update to major version changes.
 
 ## Do you offer support for breaking changes?
 
