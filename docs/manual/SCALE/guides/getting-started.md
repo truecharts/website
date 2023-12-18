@@ -26,20 +26,6 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 - Add catalog with the following trains: `stable`, `enterprise`, `operators` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
 - Add the following operators from the `operators` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager` -> [Operations Installation Guide](https://truecharts.org/manual/SCALE/guides/getting-started/#cnpg-and-prometheus-operators-installation-and-migration-guide-for-older-users)
 
-## Getting started using Charts with your own Domain
-
-- Steps Above -> [Minimal Getting Started with SCALE](/manual/SCALE/guides/getting-started#minimal-getting-started-setup-with-scale)
-- Use Cloudflare for DNS and create API token -> [Guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to#configure-acme-issuer)
-- Add ClusterIssuer -> [Clusterissuer How-to](https://truecharts.org/charts/enterprise/clusterissuer/how-to)
-- Move TrueNAS Port to 81,444 -> [TrueNAS WebUI Instructions](https://truecharts.org/charts/enterprise/traefik/how-to#truenas-webui)
-- Add Traefik -> [Traefik How-To](https://truecharts.org/charts/enterprise/traefik/how-to)
-- Add Blocky -> [Block Setup Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide)
-- Setup ingress on each Chart you want to expose ->[Configure Ingress using Clusterissuer certs](https://truecharts.org/charts/enterprise/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
-
-## Full TrueCharts Setup on TrueNAS SCALE
-
-- Everything below (includes the steps listed above and extras like [Heavyscript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript), [MetalLB](https://truecharts.org/manual/SCALE/guides/getting-started/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](https://truecharts.org/manual/SCALE/guides/getting-started/#authelia-installation))
-
 ## Adding TrueCharts
 
 To add TrueCharts to your SCALE installation:
@@ -61,6 +47,20 @@ Please view this video from the TrueNAS documentation website on adding [3rd par
 Please free to check out our [Introduction to TrueNAS SCALE](https://truecharts.org/manual/SCALE/guides/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
 
 :::
+
+## Getting started using Charts with your own Domain
+
+- Steps Above -> [Minimal Getting Started with SCALE](/manual/SCALE/guides/getting-started#minimal-getting-started-setup-with-scale)
+- Move TrueNAS Port to 81,444 -> [TrueNAS WebUI Instructions](https://truecharts.org/charts/enterprise/traefik/how-to#truenas-webui)
+- Add Traefik -> [Traefik How-To](https://truecharts.org/charts/enterprise/traefik/how-to)
+- Use Cloudflare for DNS and create API token -> [Guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to#configure-acme-issuer)
+- Add ClusterIssuer -> [Clusterissuer How-to](https://truecharts.org/charts/enterprise/clusterissuer/how-to)
+- Add Blocky -> [Block Setup Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide)
+- Setup ingress on each Chart you want to expose ->[Configure Ingress using Clusterissuer certs](https://truecharts.org/charts/enterprise/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
+
+## Full TrueCharts Setup on TrueNAS SCALE
+
+- Everything below (includes the steps listed above and extras like [Heavyscript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript), [MetalLB](https://truecharts.org/manual/SCALE/guides/getting-started/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](https://truecharts.org/manual/SCALE/guides/getting-started/#authelia-installation))
 
 ### TrueCharts Trains Overview
 
