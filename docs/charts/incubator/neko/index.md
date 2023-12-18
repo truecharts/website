@@ -1,13 +1,13 @@
 # neko
 
-![Version: 3.0.5](https://img.shields.io/badge/Version-3.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: neko](https://img.shields.io/badge/AppVersion-neko-informational?style=flat-square)
+![Version: 3.0.6](https://img.shields.io/badge/Version-3.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: neko](https://img.shields.io/badge/AppVersion-neko-informational?style=flat-square)
 
 A self hosted virtual browser that runs in Chart
 
 ## Chart Sources
 
-- https://hub.docker.com/r/m1k1o/neko
 - https://github.com/truecharts/charts/tree/master/charts/incubator/neko
+- https://hub.docker.com/r/m1k1o/neko
 
 ## Available Documentation
 
