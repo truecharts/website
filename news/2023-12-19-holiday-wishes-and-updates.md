@@ -16,7 +16,7 @@ To all the gaming enthusiasts, get ready for enhanced gaming experiences with ou
 As we continue to grow and improve, we kindly remind you that donations are always welcome. Your support fuels our passion and helps us maintain and develop even more exciting projects. Consider making a contribution this festive season!
 
 ## 🚨 Transition Notice: Ending support for TrueNAS SCALE Bluefin (22.12) 🚨
-Please note, we will be ending support for TrueNAS SCALE Bluefin 22.12.X on January 1st 2024 in our #support channels in Discord (we don't take bug reports on previous versions on GitHub). To continue receiving support in the New Year, we encourage users to upgrade their systems to TrueNAS SCALE Cobia (23.10), which released it's first update to 23.10.1 on December 19th 2023. We have a large community who can assist you through this important transition on our Discord with channels for #truenas-scale and #scale-apps.
+Please note, we will be ending support for TrueNAS SCALE Bluefin 22.12.X starting today on 19 December 2023. To continue receiving support and updates in the New Year, we encourage users to upgrade their systems to TrueNAS SCALE Cobia (23.10), which released it's first update to 23.10.1 on December 19th 2023. We have a large community who can assist you through this important transition on our Discord with channels for #truenas-scale and #scale-apps.
 
 ## Special Thanks
 We want to take a moment to appreciate those who have made our journey so fruitful and new contributors (both directly and indirectly) to bringing TrueCharts to more platforms:
