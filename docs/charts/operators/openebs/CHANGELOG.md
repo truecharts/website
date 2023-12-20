@@ -22,6 +22,16 @@
   
 
 
+## [openebs-1.1.0](https://github.com/truecharts/charts/compare/openebs-1.0.6...openebs-1.1.0) (2023-12-20)
+
+### Chore
+
+- update helm chart openebs to 3.10.0 by renovate ([#16316](https://github.com/truecharts/charts/issues/16316))
+  - update container image tccr.io/truecharts/alpine to latest[@51c4ca9](https://github.com/51c4ca9) by renovate ([#15476](https://github.com/truecharts/charts/issues/15476))
+  
+  
+
+
 ## [openebs-1.0.7](https://github.com/truecharts/charts/compare/openebs-1.0.6...openebs-1.0.7) (2023-12-20)
 
 ### Chore
