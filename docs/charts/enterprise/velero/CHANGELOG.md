@@ -2,6 +2,15 @@
 
 
 
+## [velero-2.0.2](https://github.com/truecharts/charts/compare/velero-2.0.1...velero-2.0.2) (2023-12-20)
+
+### Chore
+
+- update container image tccr.io/truecharts/alpine to latest[@51c4ca9](https://github.com/51c4ca9) by renovate ([#15476](https://github.com/truecharts/charts/issues/15476))
+  
+  
+
+
 ## [velero-2.0.1](https://github.com/truecharts/charts/compare/velero-2.0.0...velero-2.0.1) (2023-12-17)
 
 ### Chore
