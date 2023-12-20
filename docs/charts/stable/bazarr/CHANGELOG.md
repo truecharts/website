@@ -2,6 +2,11 @@
 
 
 
+## [bazarr-15.2.0](https://github.com/truecharts/charts/compare/bazarr-15.1.3...bazarr-15.2.0) (2023-12-20)
+
+
+
+
 ## [bazarr-15.1.3](https://github.com/truecharts/charts/compare/bazarr-15.1.1...bazarr-15.1.3) (2023-12-16)
 
 ### Chore
