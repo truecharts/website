@@ -2,6 +2,15 @@
 
 
 
+## [maloja-3.0.7](https://github.com/truecharts/charts/compare/maloja-3.0.6...maloja-3.0.7) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [maloja-3.0.6](https://github.com/truecharts/charts/compare/maloja-3.0.5...maloja-3.0.6) (2023-12-17)
 
 ### Chore

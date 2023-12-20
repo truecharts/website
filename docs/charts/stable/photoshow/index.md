@@ -1,15 +1,15 @@
 # photoshow
 
-![Version: 7.0.12](https://img.shields.io/badge/Version-7.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 48aabb98](https://img.shields.io/badge/AppVersion-48aabb98-informational?style=flat-square)
+![Version: 7.0.13](https://img.shields.io/badge/Version-7.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ersion-48aabb98@sha256:999c8760561b08a640378c19dd27ac4ab5aecee4aa964c195ee01de4e8845078](https://img.shields.io/badge/AppVersion-ersion-48aabb98@sha256:999c8760561b08a640378c19dd27ac4ab5aecee4aa964c195ee01de4e8845078-informational?style=flat-square)
 
 A gallery software at its easiest, it doesn't even require a database.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/photoshow
-- https://ghcr.io/linuxserver/photoshow
 - https://github.com/thibaud-rohmer/PhotoShow
 - https://github.com/linuxserver/docker-photoshow
+- https://github.com/truecharts/charts/tree/master/charts/stable/photoshow
+- https://ghcr.io/linuxserver/photoshow
 
 ## Available Documentation
 

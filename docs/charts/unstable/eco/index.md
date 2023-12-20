@@ -1,14 +1,14 @@
 # eco
 
-![Version: 3.1.9](https://img.shields.io/badge/Version-3.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.1.10](https://img.shields.io/badge/Version-3.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A custom SteamCMD chart that runs ECO.
 
 ## Chart Sources
 
+- https://github.com/truecharts/containers/tree/master/mirroreco
 - https://github.com/ich777/docker-steamcmd-server/tree/eco
 - https://github.com/truecharts/charts/tree/master/charts/incubator/eco
-- https://github.com/truecharts/containers/tree/master/mirroreco
 
 ## Available Documentation
 

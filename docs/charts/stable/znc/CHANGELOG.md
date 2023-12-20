@@ -2,6 +2,15 @@
 
 
 
+## [znc-6.0.23](https://github.com/truecharts/charts/compare/znc-6.0.22...znc-6.0.23) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [znc-6.0.22](https://github.com/truecharts/charts/compare/znc-6.0.19...znc-6.0.22) (2023-12-16)
 
 ### Chore

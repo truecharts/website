@@ -2,6 +2,15 @@
 
 
 
+## [rsshub-8.0.299](https://github.com/truecharts/charts/compare/rsshub-8.0.298...rsshub-8.0.299) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [rsshub-8.0.298](https://github.com/truecharts/charts/compare/rsshub-8.0.297...rsshub-8.0.298) (2023-12-18)
 
 ### Chore

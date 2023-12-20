@@ -1,14 +1,14 @@
 # metabase
 
-![Version: 0.1.2](https://img.shields.io/badge/Version-0.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.48.0](https://img.shields.io/badge/AppVersion-0.48.0-informational?style=flat-square)
+![Version: 0.1.3](https://img.shields.io/badge/Version-0.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.48.0@sha256:d11fdab40b919853713b1ad534dee28f4352f9015df5962fc7e7a428ddca9ccc](https://img.shields.io/badge/AppVersion-0.48.0@sha256:d11fdab40b919853713b1ad534dee28f4352f9015df5962fc7e7a428ddca9ccc-informational?style=flat-square)
 
 Business intelligence, dashboards, and data visualization tools
 
 ## Chart Sources
 
-- https://hub.docker.com/r/metabase/metabase
 - https://github.com/metabase/metabase
 - https://github.com/truecharts/charts/tree/master/charts/stable/metabase
+- https://hub.docker.com/r/metabase/metabase
 
 ## Available Documentation
 

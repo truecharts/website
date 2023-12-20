@@ -2,6 +2,15 @@
 
 
 
+## [kiwix-serve-5.1.14](https://github.com/truecharts/charts/compare/kiwix-serve-5.1.13...kiwix-serve-5.1.14) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [kiwix-serve-5.1.13](https://github.com/truecharts/charts/compare/kiwix-serve-5.1.11...kiwix-serve-5.1.13) (2023-12-16)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [rdesktop-5.0.206](https://github.com/truecharts/charts/compare/rdesktop-5.0.205...rdesktop-5.0.206) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [rdesktop-5.0.205](https://github.com/truecharts/charts/compare/rdesktop-5.0.188...rdesktop-5.0.205) (2023-12-18)
 
 ### Chore

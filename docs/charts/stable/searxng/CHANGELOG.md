@@ -2,6 +2,15 @@
 
 
 
+## [searxng-4.0.87](https://github.com/truecharts/charts/compare/searxng-4.0.86...searxng-4.0.87) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [searxng-4.0.86](https://github.com/truecharts/charts/compare/searxng-4.0.84...searxng-4.0.86) (2023-12-16)
 
 ### Chore

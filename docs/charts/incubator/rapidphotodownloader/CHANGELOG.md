@@ -2,6 +2,15 @@
 
 
 
+## [rapidphotodownloader-3.0.5](https://github.com/truecharts/charts/compare/rapidphotodownloader-3.0.4...rapidphotodownloader-3.0.5) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [rapidphotodownloader-3.0.4](https://github.com/truecharts/charts/compare/rapidphotodownloader-3.0.3...rapidphotodownloader-3.0.4) (2023-12-17)
 
 ### Chore

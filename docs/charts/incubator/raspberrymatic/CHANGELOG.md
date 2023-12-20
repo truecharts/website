@@ -2,6 +2,15 @@
 
 
 
+## [raspberrymatic-3.0.6](https://github.com/truecharts/charts/compare/raspberrymatic-3.0.5...raspberrymatic-3.0.6) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [raspberrymatic-3.0.5](https://github.com/truecharts/charts/compare/raspberrymatic-3.0.4...raspberrymatic-3.0.5) (2023-12-18)
 
 ### Chore

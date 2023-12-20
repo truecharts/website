@@ -1,6 +1,6 @@
 # impostor-server
 
-![Version: 5.0.17](https://img.shields.io/badge/Version-5.0.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.8.4](https://img.shields.io/badge/AppVersion-1.8.4-informational?style=flat-square)
+![Version: 5.0.18](https://img.shields.io/badge/Version-5.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.8.4@sha256:b01df7535ba5f39d01eb3c6620199d8bc6e3182d9c685307eb21001d7ad23273](https://img.shields.io/badge/AppVersion-1.8.4@sha256:b01df7535ba5f39d01eb3c6620199d8bc6e3182d9c685307eb21001d7ad23273-informational?style=flat-square)
 
 A private Among Us server
 

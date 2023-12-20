@@ -2,6 +2,15 @@
 
 
 
+## [ipfs-7.1.1](https://github.com/truecharts/charts/compare/ipfs-7.1.0...ipfs-7.1.1) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [ipfs-7.1.0](https://github.com/truecharts/charts/compare/ipfs-7.0.17...ipfs-7.1.0) (2023-12-16)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [grafana-9.0.47](https://github.com/truecharts/charts/compare/grafana-9.0.46...grafana-9.0.47) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [grafana-9.0.46](https://github.com/truecharts/charts/compare/grafana-9.0.44...grafana-9.0.46) (2023-12-16)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [openebs-1.1.1](https://github.com/truecharts/charts/compare/openebs-1.1.0...openebs-1.1.1) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [openebs-1.1.0](https://github.com/truecharts/charts/compare/openebs-1.0.6...openebs-1.1.0) (2023-12-20)
 
 ### Chore

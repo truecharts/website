@@ -2,6 +2,15 @@
 
 
 
+## [kubernetes-reflector-1.0.10](https://github.com/truecharts/charts/compare/kubernetes-reflector-1.0.9...kubernetes-reflector-1.0.10) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [kubernetes-reflector-1.0.9](https://github.com/truecharts/charts/compare/kubernetes-reflector-1.0.7...kubernetes-reflector-1.0.9) (2023-12-16)
 
 ### Chore

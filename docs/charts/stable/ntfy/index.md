@@ -1,6 +1,6 @@
 # ntfy
 
-![Version: 6.1.3](https://img.shields.io/badge/Version-6.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.0](https://img.shields.io/badge/AppVersion-2.8.0-informational?style=flat-square)
+![Version: 6.1.4](https://img.shields.io/badge/Version-6.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.0@sha256:b8f8fb9ee044524d2baa303e5cfab4b3275378acf0b746bd9ace370a3b631a07](https://img.shields.io/badge/AppVersion-2.8.0@sha256:b8f8fb9ee044524d2baa303e5cfab4b3275378acf0b746bd9ace370a3b631a07-informational?style=flat-square)
 
 ntfy is a simple HTTP-based pub-sub notification service. It allows you to send notifications to your phone or desktop via scripts from any computer.
 

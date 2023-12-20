@@ -2,6 +2,15 @@
 
 
 
+## [lanraragi-6.0.14](https://github.com/truecharts/charts/compare/lanraragi-6.0.13...lanraragi-6.0.14) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [lanraragi-6.0.13](https://github.com/truecharts/charts/compare/lanraragi-6.0.11...lanraragi-6.0.13) (2023-12-16)
 
 ### Chore

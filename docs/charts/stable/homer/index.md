@@ -1,14 +1,14 @@
 # homer
 
-![Version: 6.0.12](https://img.shields.io/badge/Version-6.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.10.1](https://img.shields.io/badge/AppVersion-23.10.1-informational?style=flat-square)
+![Version: 6.0.13](https://img.shields.io/badge/Version-6.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.10.1@sha256:f6dcbdd3e9c7d05262128b07aa4138bd4df09837f9a98632111913e9a5eb2283](https://img.shields.io/badge/AppVersion-23.10.1@sha256:f6dcbdd3e9c7d05262128b07aa4138bd4df09837f9a98632111913e9a5eb2283-informational?style=flat-square)
 
 A dead simple static homepage for your server to keep your services on hand.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/b4bz/homer
 - https://github.com/bastienwirtz/homer
 - https://github.com/truecharts/charts/tree/master/charts/stable/homer
+- https://hub.docker.com/r/b4bz/homer
 
 ## Available Documentation
 

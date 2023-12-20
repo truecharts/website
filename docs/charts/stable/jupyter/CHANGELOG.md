@@ -2,6 +2,15 @@
 
 
 
+## [jupyter-5.0.51](https://github.com/truecharts/charts/compare/jupyter-5.0.50...jupyter-5.0.51) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [jupyter-5.0.50](https://github.com/truecharts/charts/compare/jupyter-5.0.49...jupyter-5.0.50) (2023-12-16)
 
 ### Chore

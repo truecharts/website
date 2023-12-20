@@ -2,6 +2,15 @@
 
 
 
+## [dokuwiki-7.0.38](https://github.com/truecharts/charts/compare/dokuwiki-7.0.37...dokuwiki-7.0.38) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [dokuwiki-7.0.37](https://github.com/truecharts/charts/compare/dokuwiki-7.0.35...dokuwiki-7.0.37) (2023-12-16)
 
 ### Chore

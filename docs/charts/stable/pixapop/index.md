@@ -1,15 +1,15 @@
 # pixapop
 
-![Version: 7.0.12](https://img.shields.io/badge/Version-7.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.2"](https://img.shields.io/badge/AppVersion-"1.2"-informational?style=flat-square)
+![Version: 7.0.13](https://img.shields.io/badge/Version-7.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2-ls15@sha256:605ebc091fa14b4ba82ceadda7f35c186d514e649c97913605384027c2750f4f](https://img.shields.io/badge/AppVersion-1.2-ls15@sha256:605ebc091fa14b4ba82ceadda7f35c186d514e649c97913605384027c2750f4f-informational?style=flat-square)
 
 An open-source single page application to view your photos in the easiest way possible.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/pixapop
 - https://ghcr.io/linuxserver/pixapop
 - https://github.com/linuxserver/docker-pixapop
 - https://github.com/bierdok/pixapop
+- https://github.com/truecharts/charts/tree/master/charts/stable/pixapop
 
 ## Available Documentation
 

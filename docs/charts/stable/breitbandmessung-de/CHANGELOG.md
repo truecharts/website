@@ -2,6 +2,15 @@
 
 
 
+## [breitbandmessung-de-3.0.6](https://github.com/truecharts/charts/compare/breitbandmessung-de-3.0.5...breitbandmessung-de-3.0.6) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [breitbandmessung-de-3.0.5](https://github.com/truecharts/charts/compare/breitbandmessung-de-3.0.4...breitbandmessung-de-3.0.5) (2023-12-17)
 
 ### Chore

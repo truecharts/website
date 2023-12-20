@@ -1,6 +1,6 @@
 # photostructure
 
-![Version: 3.0.6](https://img.shields.io/badge/Version-3.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.0](https://img.shields.io/badge/AppVersion-2.1.0-informational?style=flat-square)
+![Version: 3.0.7](https://img.shields.io/badge/Version-3.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.0@sha256:0c75885bdbb8bd64826af1ad36c12b3533aa6317cfbad2be4c5205368014ad80](https://img.shields.io/badge/AppVersion-2.1.0@sha256:0c75885bdbb8bd64826af1ad36c12b3533aa6317cfbad2be4c5205368014ad80-informational?style=flat-square)
 
 PhotoStructure is your new home for all your photos and videos.
 

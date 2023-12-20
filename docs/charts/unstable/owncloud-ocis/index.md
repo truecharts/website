@@ -1,6 +1,6 @@
 # owncloud-ocis
 
-![Version: 11.0.21](https://img.shields.io/badge/Version-11.0.21-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.0](https://img.shields.io/badge/AppVersion-3.0.0-informational?style=flat-square)
+![Version: 11.0.22](https://img.shields.io/badge/Version-11.0.22-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.0@sha256:55264618b01bec8d712ec829caee909466634702d092c9e1f8e84adc47085a47](https://img.shields.io/badge/AppVersion-3.0.0@sha256:55264618b01bec8d712ec829caee909466634702d092c9e1f8e84adc47085a47-informational?style=flat-square)
 
 ownCloud Infinite Scale is a self-hosted file sync and share server.
 

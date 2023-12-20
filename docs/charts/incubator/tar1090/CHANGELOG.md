@@ -2,6 +2,15 @@
 
 
 
+## [tar1090-3.0.7](https://github.com/truecharts/charts/compare/tar1090-3.0.6...tar1090-3.0.7) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [tar1090-3.0.6](https://github.com/truecharts/charts/compare/tar1090-3.0.5...tar1090-3.0.6) (2023-12-18)
 
 ### Chore

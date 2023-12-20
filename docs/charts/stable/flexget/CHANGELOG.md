@@ -2,6 +2,15 @@
 
 
 
+## [flexget-6.1.9](https://github.com/truecharts/charts/compare/flexget-6.1.8...flexget-6.1.9) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [flexget-6.1.8](https://github.com/truecharts/charts/compare/flexget-6.1.4...flexget-6.1.8) (2023-12-16)
 
 ### Chore

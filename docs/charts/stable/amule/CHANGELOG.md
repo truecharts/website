@@ -2,6 +2,15 @@
 
 
 
+## [amule-4.0.13](https://github.com/truecharts/charts/compare/amule-4.0.12...amule-4.0.13) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [amule-4.0.12](https://github.com/truecharts/charts/compare/amule-4.0.10...amule-4.0.12) (2023-12-16)
 
 ### Chore

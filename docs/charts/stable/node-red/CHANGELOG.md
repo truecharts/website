@@ -2,6 +2,15 @@
 
 
 
+## [node-red-15.0.16](https://github.com/truecharts/charts/compare/node-red-15.0.15...node-red-15.0.16) (2023-12-20)
+
+### Chore
+
+- Bump everything to force min/max scale version update
+  
+  
+
+
 ## [node-red-15.0.15](https://github.com/truecharts/charts/compare/node-red-15.0.13...node-red-15.0.15) (2023-12-16)
 
 ### Chore
