@@ -1,6 +1,6 @@
 # duplicacy
 
-![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.7.2@sha256:425c5c9a0bd9efd8e84b6800eca5a73a4ceda479b116e05f7c06ea08ae8957ae](https://img.shields.io/badge/AppVersion-1.7.2@sha256:425c5c9a0bd9efd8e84b6800eca5a73a4ceda479b116e05f7c06ea08ae8957ae-informational?style=flat-square)
+![Version: 4.0.1](https://img.shields.io/badge/Version-4.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.7.2](https://img.shields.io/badge/AppVersion-1.7.2-informational?style=flat-square)
 
 A new generation cross-platform cloud backup tool.
 

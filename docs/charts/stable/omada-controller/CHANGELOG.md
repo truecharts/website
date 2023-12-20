@@ -2,6 +2,15 @@
 
 
 
+## [omada-controller-11.0.1](https://github.com/truecharts/charts/compare/omada-controller-11.0.0...omada-controller-11.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [omada-controller-11.0.0](https://github.com/truecharts/charts/compare/omada-controller-10.1.10...omada-controller-11.0.0) (2023-12-20)
 
 ### Chore

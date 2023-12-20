@@ -2,6 +2,15 @@
 
 
 
+## [dokuwiki-8.0.1](https://github.com/truecharts/charts/compare/dokuwiki-8.0.0...dokuwiki-8.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [dokuwiki-8.0.0](https://github.com/truecharts/charts/compare/dokuwiki-7.0.38...dokuwiki-8.0.0) (2023-12-20)
 
 ### Chore

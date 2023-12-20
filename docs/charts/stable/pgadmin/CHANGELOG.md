@@ -2,6 +2,15 @@
 
 
 
+## [pgadmin-13.0.1](https://github.com/truecharts/charts/compare/pgadmin-13.0.0...pgadmin-13.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [pgadmin-13.0.0](https://github.com/truecharts/charts/compare/pgadmin-12.1.3...pgadmin-13.0.0) (2023-12-20)
 
 ### Chore

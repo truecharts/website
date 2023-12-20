@@ -2,6 +2,15 @@
 
 
 
+## [neverwinternights-ee-3.0.7](https://github.com/truecharts/charts/compare/neverwinternights-ee-3.0.6...neverwinternights-ee-3.0.7) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [neverwinternights-ee-3.0.6](https://github.com/truecharts/charts/compare/neverwinternights-ee-3.0.5...neverwinternights-ee-3.0.6) (2023-12-20)
 
 ### Chore

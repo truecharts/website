@@ -2,6 +2,15 @@
 
 
 
+## [ubuntu-xrdp-3.0.6](https://github.com/truecharts/charts/compare/ubuntu-xrdp-3.0.5...ubuntu-xrdp-3.0.6) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [ubuntu-xrdp-3.0.5](https://github.com/truecharts/charts/compare/ubuntu-xrdp-3.0.4...ubuntu-xrdp-3.0.5) (2023-12-20)
 
 ### Chore

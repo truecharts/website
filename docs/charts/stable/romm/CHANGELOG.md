@@ -2,6 +2,15 @@
 
 
 
+## [romm-4.0.1](https://github.com/truecharts/charts/compare/romm-4.0.0...romm-4.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [romm-4.0.0](https://github.com/truecharts/charts/compare/romm-3.0.5...romm-4.0.0) (2023-12-20)
 
 ### Chore

@@ -2,6 +2,16 @@
 
 
 
+## [netbootxyz-1.0.1](https://github.com/truecharts/charts/compare/netbootxyz-0.1.4...netbootxyz-1.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  - update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 
 ## [netbootxyz-0.1.4](https://github.com/truecharts/charts/compare/netbootxyz-0.1.3...netbootxyz-0.1.4) (2023-12-20)
 

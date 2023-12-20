@@ -2,6 +2,15 @@
 
 
 
+## [farmos-3.0.8](https://github.com/truecharts/charts/compare/farmos-3.0.7...farmos-3.0.8) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [farmos-3.0.7](https://github.com/truecharts/charts/compare/farmos-3.0.6...farmos-3.0.7) (2023-12-20)
 
 ### Chore

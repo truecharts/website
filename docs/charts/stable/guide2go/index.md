@@ -1,14 +1,14 @@
 # guide2go
 
-![Version: 3.0.6](https://img.shields.io/badge/Version-3.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.7](https://img.shields.io/badge/Version-3.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 a xml grabber from schedule direct service
 
 ## Chart Sources
 
+- https://github.com/alturismo/guide2go
 - https://github.com/truecharts/charts/tree/master/charts/incubator/guide2go
 - https://hub.docker.com/r/alturismo/guide2go
-- https://github.com/alturismo/guide2go
 
 ## Available Documentation
 

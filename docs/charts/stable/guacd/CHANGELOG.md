@@ -2,6 +2,15 @@
 
 
 
+## [guacd-7.0.1](https://github.com/truecharts/charts/compare/guacd-7.0.0...guacd-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [guacd-7.0.0](https://github.com/truecharts/charts/compare/guacd-6.0.15...guacd-7.0.0) (2023-12-20)
 
 ### Chore

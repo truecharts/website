@@ -2,6 +2,15 @@
 
 
 
+## [qinglong-7.0.1](https://github.com/truecharts/charts/compare/qinglong-7.0.0...qinglong-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [qinglong-7.0.0](https://github.com/truecharts/charts/compare/qinglong-6.0.22...qinglong-7.0.0) (2023-12-20)
 
 ### Chore

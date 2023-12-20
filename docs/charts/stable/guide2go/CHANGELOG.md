@@ -2,6 +2,15 @@
 
 
 
+## [guide2go-3.0.7](https://github.com/truecharts/charts/compare/guide2go-3.0.6...guide2go-3.0.7) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [guide2go-3.0.6](https://github.com/truecharts/charts/compare/guide2go-3.0.5...guide2go-3.0.6) (2023-12-20)
 
 ### Chore

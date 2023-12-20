@@ -2,6 +2,15 @@
 
 
 
+## [transmission-18.0.1](https://github.com/truecharts/charts/compare/transmission-18.0.0...transmission-18.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [transmission-18.0.0](https://github.com/truecharts/charts/compare/transmission-17.0.20...transmission-18.0.0) (2023-12-20)
 
 ### Chore

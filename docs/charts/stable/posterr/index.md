@@ -1,14 +1,14 @@
 # posterr
 
-![Version: 6.0.0](https://img.shields.io/badge/Version-6.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.0.1](https://img.shields.io/badge/Version-6.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Media display for Plex, Sonarr and Radarr.
 
 ## Chart Sources
 
+- https://github.com/petersem/posterr
 - https://github.com/truecharts/charts/tree/master/charts/stable/posterr
 - https://hub.docker.com/r/petersem/posterr
-- https://github.com/petersem/posterr
 
 ## Available Documentation
 

@@ -2,6 +2,15 @@
 
 
 
+## [whisparr-7.0.1](https://github.com/truecharts/charts/compare/whisparr-7.0.0...whisparr-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [whisparr-7.0.0](https://github.com/truecharts/charts/compare/whisparr-6.1.5...whisparr-7.0.0) (2023-12-20)
 
 ### Chore

@@ -1,6 +1,6 @@
 # czkawka
 
-![Version: 6.0.0](https://img.shields.io/badge/Version-6.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2@sha256:226d304c31e006963f800eb9c918f216f0b244b7a24d4f4535d09290b97806b4](https://img.shields.io/badge/AppVersion-23.11.2@sha256:226d304c31e006963f800eb9c918f216f0b244b7a24d4f4535d09290b97806b4-informational?style=flat-square)
+![Version: 6.0.1](https://img.shields.io/badge/Version-6.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2](https://img.shields.io/badge/AppVersion-23.11.2-informational?style=flat-square)
 
 Czkawka is a simple, fast and free app to remove unnecessary files from your computer.
 

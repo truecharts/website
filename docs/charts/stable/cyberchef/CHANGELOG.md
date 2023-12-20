@@ -2,6 +2,15 @@
 
 
 
+## [cyberchef-7.0.1](https://github.com/truecharts/charts/compare/cyberchef-7.0.0...cyberchef-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [cyberchef-7.0.0](https://github.com/truecharts/charts/compare/cyberchef-6.0.47...cyberchef-7.0.0) (2023-12-20)
 
 ### Chore

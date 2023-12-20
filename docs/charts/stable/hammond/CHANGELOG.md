@@ -2,6 +2,15 @@
 
 
 
+## [hammond-7.0.1](https://github.com/truecharts/charts/compare/hammond-7.0.0...hammond-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [hammond-7.0.0](https://github.com/truecharts/charts/compare/hammond-6.0.13...hammond-7.0.0) (2023-12-20)
 
 ### Chore

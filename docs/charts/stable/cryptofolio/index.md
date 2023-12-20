@@ -1,6 +1,6 @@
 # cryptofolio
 
-![Version: 10.0.0](https://img.shields.io/badge/Version-10.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: .2.2.0@sha256:e6e6612bb94c877b5e31853c639761d09076180fe0a6c4fdb0fb91f73d9f480e](https://img.shields.io/badge/AppVersion-.2.2.0@sha256:e6e6612bb94c877b5e31853c639761d09076180fe0a6c4fdb0fb91f73d9f480e-informational?style=flat-square)
+![Version: 10.0.1](https://img.shields.io/badge/Version-10.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ""](https://img.shields.io/badge/AppVersion-""-informational?style=flat-square)
 
 Track your cryptocurrency holdings/portfolio
 

@@ -2,6 +2,15 @@
 
 
 
+## [prusaslicer-novnc-6.0.1](https://github.com/truecharts/charts/compare/prusaslicer-novnc-6.0.0...prusaslicer-novnc-6.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [prusaslicer-novnc-6.0.0](https://github.com/truecharts/charts/compare/prusaslicer-novnc-5.0.31...prusaslicer-novnc-6.0.0) (2023-12-20)
 
 ### Chore

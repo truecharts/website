@@ -2,6 +2,15 @@
 
 
 
+## [linkwarden-2.0.1](https://github.com/truecharts/charts/compare/linkwarden-2.0.0...linkwarden-2.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [linkwarden-2.0.0](https://github.com/truecharts/charts/compare/linkwarden-1.1.4...linkwarden-2.0.0) (2023-12-20)
 
 ### Chore

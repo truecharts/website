@@ -2,6 +2,15 @@
 
 
 
+## [fireflyiii-22.0.1](https://github.com/truecharts/charts/compare/fireflyiii-22.0.0...fireflyiii-22.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [fireflyiii-22.0.0](https://github.com/truecharts/charts/compare/fireflyiii-21.1.1...fireflyiii-22.0.0) (2023-12-20)
 
 ### Chore

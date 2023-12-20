@@ -2,6 +2,15 @@
 
 
 
+## [stackedit-3.0.7](https://github.com/truecharts/charts/compare/stackedit-3.0.6...stackedit-3.0.7) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [stackedit-3.0.6](https://github.com/truecharts/charts/compare/stackedit-3.0.5...stackedit-3.0.6) (2023-12-20)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [flood-11.0.1](https://github.com/truecharts/charts/compare/flood-11.0.0...flood-11.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [flood-11.0.0](https://github.com/truecharts/charts/compare/flood-10.0.13...flood-11.0.0) (2023-12-20)
 
 ### Chore

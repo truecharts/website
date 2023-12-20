@@ -2,6 +2,15 @@
 
 
 
+## [webgrabplus-7.0.1](https://github.com/truecharts/charts/compare/webgrabplus-7.0.0...webgrabplus-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [webgrabplus-7.0.0](https://github.com/truecharts/charts/compare/webgrabplus-6.0.30...webgrabplus-7.0.0) (2023-12-20)
 
 ### Chore

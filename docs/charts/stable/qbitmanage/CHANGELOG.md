@@ -2,6 +2,15 @@
 
 
 
+## [qbitmanage-6.0.1](https://github.com/truecharts/charts/compare/qbitmanage-6.0.0...qbitmanage-6.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [qbitmanage-6.0.0](https://github.com/truecharts/charts/compare/qbitmanage-5.0.16...qbitmanage-6.0.0) (2023-12-20)
 
 ### Chore

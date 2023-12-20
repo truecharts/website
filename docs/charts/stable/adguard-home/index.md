@@ -1,13 +1,13 @@
 # adguard-home
 
-![Version: 7.0.0](https://img.shields.io/badge/Version-7.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.107.43@sha256:4016a420451810959f782d3cbe04c620d83c3431cbb13ae27aabd2921db482a0](https://img.shields.io/badge/AppVersion-0.107.43@sha256:4016a420451810959f782d3cbe04c620d83c3431cbb13ae27aabd2921db482a0-informational?style=flat-square)
+![Version: 7.0.1](https://img.shields.io/badge/Version-7.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.107.43](https://img.shields.io/badge/AppVersion-0.107.43-informational?style=flat-square)
 
 Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/adguard/adguardhome
 - https://github.com/truecharts/charts/tree/master/charts/stable/adguard-home
+- https://hub.docker.com/r/adguard/adguardhome
 
 ## Available Documentation
 

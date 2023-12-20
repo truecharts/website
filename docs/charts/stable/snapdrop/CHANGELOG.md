@@ -2,6 +2,15 @@
 
 
 
+## [snapdrop-7.0.1](https://github.com/truecharts/charts/compare/snapdrop-7.0.0...snapdrop-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [snapdrop-7.0.0](https://github.com/truecharts/charts/compare/snapdrop-6.0.30...snapdrop-7.0.0) (2023-12-20)
 
 ### Chore

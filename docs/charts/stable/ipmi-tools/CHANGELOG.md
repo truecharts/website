@@ -2,6 +2,16 @@
 
 
 
+## [ipmi-tools-4.0.1](https://github.com/truecharts/charts/compare/ipmi-tools-3.0.15...ipmi-tools-4.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  - update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 
 ## [ipmi-tools-3.0.15](https://github.com/truecharts/charts/compare/ipmi-tools-3.0.14...ipmi-tools-3.0.15) (2023-12-20)
 

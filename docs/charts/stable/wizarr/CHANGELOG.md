@@ -2,6 +2,15 @@
 
 
 
+## [wizarr-4.0.1](https://github.com/truecharts/charts/compare/wizarr-4.0.0...wizarr-4.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [wizarr-4.0.0](https://github.com/truecharts/charts/compare/wizarr-3.0.18...wizarr-4.0.0) (2023-12-20)
 
 ### Chore

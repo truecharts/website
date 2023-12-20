@@ -2,6 +2,15 @@
 
 
 
+## [hedgedoc-10.0.1](https://github.com/truecharts/charts/compare/hedgedoc-10.0.0...hedgedoc-10.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [hedgedoc-10.0.0](https://github.com/truecharts/charts/compare/hedgedoc-9.0.24...hedgedoc-10.0.0) (2023-12-20)
 
 ### Chore

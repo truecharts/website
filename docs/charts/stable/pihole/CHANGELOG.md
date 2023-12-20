@@ -2,6 +2,15 @@
 
 
 
+## [pihole-12.0.1](https://github.com/truecharts/charts/compare/pihole-12.0.0...pihole-12.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [pihole-12.0.0](https://github.com/truecharts/charts/compare/pihole-11.1.12...pihole-12.0.0) (2023-12-20)
 
 ### Chore

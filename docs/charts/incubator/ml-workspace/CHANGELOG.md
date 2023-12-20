@@ -2,6 +2,15 @@
 
 
 
+## [ml-workspace-6.0.6](https://github.com/truecharts/charts/compare/ml-workspace-6.0.5...ml-workspace-6.0.6) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [ml-workspace-6.0.5](https://github.com/truecharts/charts/compare/ml-workspace-6.0.4...ml-workspace-6.0.5) (2023-12-20)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [znc-7.0.1](https://github.com/truecharts/charts/compare/znc-7.0.0...znc-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [znc-7.0.0](https://github.com/truecharts/charts/compare/znc-6.0.23...znc-7.0.0) (2023-12-20)
 
 ### Chore

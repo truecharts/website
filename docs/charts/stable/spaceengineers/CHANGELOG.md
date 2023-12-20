@@ -2,6 +2,15 @@
 
 
 
+## [spaceengineers-4.0.1](https://github.com/truecharts/charts/compare/spaceengineers-4.0.0...spaceengineers-4.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [spaceengineers-4.0.0](https://github.com/truecharts/charts/compare/spaceengineers-3.0.15...spaceengineers-4.0.0) (2023-12-20)
 
 ### Chore

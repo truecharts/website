@@ -2,6 +2,16 @@
 
 
 
+## [factorio-5.0.1](https://github.com/truecharts/charts/compare/factorio-4.1.12...factorio-5.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  - update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 
 ## [factorio-4.1.12](https://github.com/truecharts/charts/compare/factorio-4.1.11...factorio-4.1.12) (2023-12-20)
 

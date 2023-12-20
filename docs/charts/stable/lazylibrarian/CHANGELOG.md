@@ -2,6 +2,15 @@
 
 
 
+## [lazylibrarian-16.0.1](https://github.com/truecharts/charts/compare/lazylibrarian-16.0.0...lazylibrarian-16.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [lazylibrarian-16.0.0](https://github.com/truecharts/charts/compare/lazylibrarian-15.0.40...lazylibrarian-16.0.0) (2023-12-20)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [weblate-10.0.1](https://github.com/truecharts/charts/compare/weblate-10.0.0...weblate-10.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [weblate-10.0.0](https://github.com/truecharts/charts/compare/weblate-9.0.13...weblate-10.0.0) (2023-12-20)
 
 ### Chore

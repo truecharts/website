@@ -2,6 +2,15 @@
 
 
 
+## [guacamole-11.0.1](https://github.com/truecharts/charts/compare/guacamole-11.0.0...guacamole-11.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [guacamole-11.0.0](https://github.com/truecharts/charts/compare/guacamole-10.0.20...guacamole-11.0.0) (2023-12-20)
 
 ### Chore

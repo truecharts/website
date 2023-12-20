@@ -2,6 +2,15 @@
 
 
 
+## [urban-terror-3.0.7](https://github.com/truecharts/charts/compare/urban-terror-3.0.6...urban-terror-3.0.7) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [urban-terror-3.0.6](https://github.com/truecharts/charts/compare/urban-terror-3.0.5...urban-terror-3.0.6) (2023-12-20)
 
 ### Chore

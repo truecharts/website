@@ -2,6 +2,16 @@
 
 
 
+## [dashy-4.0.1](https://github.com/truecharts/charts/compare/dashy-3.0.36...dashy-4.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  - update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 
 ## [dashy-3.0.36](https://github.com/truecharts/charts/compare/dashy-3.0.35...dashy-3.0.36) (2023-12-20)
 

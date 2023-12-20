@@ -2,6 +2,15 @@
 
 
 
+## [invidious-7.0.1](https://github.com/truecharts/charts/compare/invidious-7.0.0...invidious-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [invidious-7.0.0](https://github.com/truecharts/charts/compare/invidious-6.0.29...invidious-7.0.0) (2023-12-20)
 
 ### Chore

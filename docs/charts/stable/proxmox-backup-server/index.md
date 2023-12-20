@@ -1,6 +1,6 @@
 # proxmox-backup-server
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.2@sha256:31e31c6bc27ca6e682eb2819ba69bec7d20bfa928e5642123e620f9be3277d3c](https://img.shields.io/badge/AppVersion-3.0.2@sha256:31e31c6bc27ca6e682eb2819ba69bec7d20bfa928e5642123e620f9be3277d3c-informational?style=flat-square)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.2](https://img.shields.io/badge/AppVersion-3.0.2-informational?style=flat-square)
 
 Container for proxmox backup server
 

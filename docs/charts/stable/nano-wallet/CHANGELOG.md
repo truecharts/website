@@ -2,6 +2,15 @@
 
 
 
+## [nano-wallet-7.0.1](https://github.com/truecharts/charts/compare/nano-wallet-7.0.0...nano-wallet-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [nano-wallet-7.0.0](https://github.com/truecharts/charts/compare/nano-wallet-6.0.13...nano-wallet-7.0.0) (2023-12-20)
 
 ### Chore

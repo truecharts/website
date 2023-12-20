@@ -1,6 +1,6 @@
 # shiori
 
-![Version: 14.0.0](https://img.shields.io/badge/Version-14.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.5@sha256:9dbcd5a88fb28a93ede08b01062e3580dd2ecb967509ef6a2df1f430708a34c0](https://img.shields.io/badge/AppVersion-1.5.5@sha256:9dbcd5a88fb28a93ede08b01062e3580dd2ecb967509ef6a2df1f430708a34c0-informational?style=flat-square)
+![Version: 14.0.1](https://img.shields.io/badge/Version-14.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.5](https://img.shields.io/badge/AppVersion-1.5.5-informational?style=flat-square)
 
 A simple bookmark manager built with Go.
 

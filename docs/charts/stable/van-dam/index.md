@@ -1,6 +1,6 @@
 # van-dam
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.54.0@sha256:75dc5bcc5ef367b86d6983f6942d7b4c0e23cf6154d367a8d6a01a81310505aa](https://img.shields.io/badge/AppVersion-0.54.0@sha256:75dc5bcc5ef367b86d6983f6942d7b4c0e23cf6154d367a8d6a01a81310505aa-informational?style=flat-square)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.54.0](https://img.shields.io/badge/AppVersion-0.54.0-informational?style=flat-square)
 
 A Digital Asset Manager (DAM), specifically designed for 3D print files.
 

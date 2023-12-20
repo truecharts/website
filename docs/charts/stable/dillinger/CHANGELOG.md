@@ -2,6 +2,15 @@
 
 
 
+## [dillinger-7.0.1](https://github.com/truecharts/charts/compare/dillinger-7.0.0...dillinger-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [dillinger-7.0.0](https://github.com/truecharts/charts/compare/dillinger-6.0.25...dillinger-7.0.0) (2023-12-20)
 
 ### Chore

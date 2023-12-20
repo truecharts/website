@@ -2,6 +2,15 @@
 
 
 
+## [blocky-10.0.1](https://github.com/truecharts/charts/compare/blocky-10.0.0...blocky-10.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [blocky-10.0.0](https://github.com/truecharts/charts/compare/blocky-9.1.1...blocky-10.0.0) (2023-12-20)
 
 ### Chore

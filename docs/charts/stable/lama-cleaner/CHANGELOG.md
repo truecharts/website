@@ -2,6 +2,15 @@
 
 
 
+## [lama-cleaner-4.0.1](https://github.com/truecharts/charts/compare/lama-cleaner-4.0.0...lama-cleaner-4.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [lama-cleaner-4.0.0](https://github.com/truecharts/charts/compare/lama-cleaner-3.0.14...lama-cleaner-4.0.0) (2023-12-20)
 
 ### Chore

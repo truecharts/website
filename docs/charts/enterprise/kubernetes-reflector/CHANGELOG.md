@@ -2,6 +2,15 @@
 
 
 
+## [kubernetes-reflector-2.0.1](https://github.com/truecharts/charts/compare/kubernetes-reflector-2.0.0...kubernetes-reflector-2.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [kubernetes-reflector-2.0.0](https://github.com/truecharts/charts/compare/kubernetes-reflector-1.0.10...kubernetes-reflector-2.0.0) (2023-12-20)
 
 ### Chore

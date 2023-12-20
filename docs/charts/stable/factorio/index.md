@@ -1,6 +1,6 @@
 # factorio
 
-![Version: 5.0.0](https://img.shields.io/badge/Version-5.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable@sha256:1554bb0a5ead1dacdfdffa7539d5d170d3f326aa82aad9f4d88f9e37f3e0ec85](https://img.shields.io/badge/AppVersion-stable@sha256:1554bb0a5ead1dacdfdffa7539d5d170d3f326aa82aad9f4d88f9e37f3e0ec85-informational?style=flat-square)
+![Version: 5.0.1](https://img.shields.io/badge/Version-5.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
 
 A game in which you build and maintain factories.
 

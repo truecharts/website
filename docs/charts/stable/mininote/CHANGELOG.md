@@ -2,6 +2,15 @@
 
 
 
+## [mininote-3.0.7](https://github.com/truecharts/charts/compare/mininote-3.0.6...mininote-3.0.7) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [mininote-3.0.6](https://github.com/truecharts/charts/compare/mininote-3.0.5...mininote-3.0.6) (2023-12-20)
 
 ### Chore

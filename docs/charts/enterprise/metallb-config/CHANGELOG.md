@@ -2,6 +2,15 @@
 
 
 
+## [metallb-config-4.0.1](https://github.com/truecharts/charts/compare/metallb-config-4.0.0...metallb-config-4.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [metallb-config-4.0.0](https://github.com/truecharts/charts/compare/metallb-config-3.0.15...metallb-config-4.0.0) (2023-12-20)
 
 ### Chore

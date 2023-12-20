@@ -1,6 +1,6 @@
 # megasync
 
-![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest@sha256:04d8c00afb09019389c7142a8cd67a724a6abc388d55c691a56b130f91a928d2](https://img.shields.io/badge/AppVersion-latest@sha256:04d8c00afb09019389c7142a8cd67a724a6abc388d55c691a56b130f91a928d2-informational?style=flat-square)
+![Version: 4.0.1](https://img.shields.io/badge/Version-4.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 MEGAsync can synchronize all of your devices with your MEGA account.
 

@@ -2,6 +2,15 @@
 
 
 
+## [microbin-3.0.6](https://github.com/truecharts/charts/compare/microbin-3.0.5...microbin-3.0.6) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [microbin-3.0.5](https://github.com/truecharts/charts/compare/microbin-3.0.4...microbin-3.0.5) (2023-12-20)
 
 ### Chore

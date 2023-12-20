@@ -2,6 +2,15 @@
 
 
 
+## [autoscan-6.0.1](https://github.com/truecharts/charts/compare/autoscan-6.0.0...autoscan-6.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [autoscan-6.0.0](https://github.com/truecharts/charts/compare/autoscan-5.0.29...autoscan-6.0.0) (2023-12-20)
 
 ### Chore

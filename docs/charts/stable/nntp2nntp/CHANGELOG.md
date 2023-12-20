@@ -2,6 +2,15 @@
 
 
 
+## [nntp2nntp-7.0.1](https://github.com/truecharts/charts/compare/nntp2nntp-7.0.0...nntp2nntp-7.0.1) (2023-12-20)
+
+### Chore
+
+- bump patch versions on all charts for new GUI release
+  
+  
+
+
 ## [nntp2nntp-7.0.0](https://github.com/truecharts/charts/compare/nntp2nntp-6.0.13...nntp2nntp-7.0.0) (2023-12-20)
 
 ### Chore
