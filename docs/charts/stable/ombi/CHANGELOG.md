@@ -2,6 +2,15 @@
 
 
 
+## [ombi-16.0.0](https://github.com/truecharts/charts/compare/ombi-15.0.18...ombi-16.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [ombi-15.0.18](https://github.com/truecharts/charts/compare/ombi-15.0.17...ombi-15.0.18) (2023-12-20)
 
 ### Chore

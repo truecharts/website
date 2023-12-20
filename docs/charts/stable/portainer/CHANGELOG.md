@@ -2,6 +2,15 @@
 
 
 
+## [portainer-6.0.0](https://github.com/truecharts/charts/compare/portainer-5.0.25...portainer-6.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [portainer-5.0.25](https://github.com/truecharts/charts/compare/portainer-5.0.24...portainer-5.0.25) (2023-12-20)
 
 ### Chore

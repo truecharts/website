@@ -1,6 +1,6 @@
 # homebox
 
-![Version: 3.0.16](https://img.shields.io/badge/Version-3.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.10.2@sha256:1419b6e22aa06ab307fe0ed6c68906484905484f73df02485ebe8d94760812b8](https://img.shields.io/badge/AppVersion-0.10.2@sha256:1419b6e22aa06ab307fe0ed6c68906484905484f73df02485ebe8d94760812b8-informational?style=flat-square)
+![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.10.2@sha256:1419b6e22aa06ab307fe0ed6c68906484905484f73df02485ebe8d94760812b8](https://img.shields.io/badge/AppVersion-0.10.2@sha256:1419b6e22aa06ab307fe0ed6c68906484905484f73df02485ebe8d94760812b8-informational?style=flat-square)
 
 Inventory and organization system built for the Home User.
 

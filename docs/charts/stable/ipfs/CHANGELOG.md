@@ -2,6 +2,15 @@
 
 
 
+## [ipfs-8.0.0](https://github.com/truecharts/charts/compare/ipfs-7.1.1...ipfs-8.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [ipfs-7.1.1](https://github.com/truecharts/charts/compare/ipfs-7.1.0...ipfs-7.1.1) (2023-12-20)
 
 ### Chore

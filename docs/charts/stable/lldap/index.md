@@ -1,6 +1,6 @@
 # lldap
 
-![Version: 2.0.15](https://img.shields.io/badge/Version-2.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0-debian@sha256:872610a32c9c2bc1392fbd934fa5a355d70b467b92032637ea017c5717c2f1bf](https://img.shields.io/badge/AppVersion-0.5.0-debian@sha256:872610a32c9c2bc1392fbd934fa5a355d70b467b92032637ea017c5717c2f1bf-informational?style=flat-square)
+![Version: 3.0.0](https://img.shields.io/badge/Version-3.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0-debian@sha256:872610a32c9c2bc1392fbd934fa5a355d70b467b92032637ea017c5717c2f1bf](https://img.shields.io/badge/AppVersion-0.5.0-debian@sha256:872610a32c9c2bc1392fbd934fa5a355d70b467b92032637ea017c5717c2f1bf-informational?style=flat-square)
 
 Lightweight ldap server for authentication and user management
 

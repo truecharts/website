@@ -2,6 +2,15 @@
 
 
 
+## [rdesktop-6.0.0](https://github.com/truecharts/charts/compare/rdesktop-5.0.206...rdesktop-6.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [rdesktop-5.0.206](https://github.com/truecharts/charts/compare/rdesktop-5.0.205...rdesktop-5.0.206) (2023-12-20)
 
 ### Chore

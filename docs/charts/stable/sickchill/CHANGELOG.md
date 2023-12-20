@@ -2,6 +2,15 @@
 
 
 
+## [sickchill-8.0.0](https://github.com/truecharts/charts/compare/sickchill-7.0.33...sickchill-8.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [sickchill-7.0.33](https://github.com/truecharts/charts/compare/sickchill-7.0.32...sickchill-7.0.33) (2023-12-20)
 
 ### Chore

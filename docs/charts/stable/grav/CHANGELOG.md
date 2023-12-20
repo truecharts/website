@@ -2,6 +2,15 @@
 
 
 
+## [grav-9.0.0](https://github.com/truecharts/charts/compare/grav-8.0.34...grav-9.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [grav-8.0.34](https://github.com/truecharts/charts/compare/grav-8.0.33...grav-8.0.34) (2023-12-20)
 
 ### Chore

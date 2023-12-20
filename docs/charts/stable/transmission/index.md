@@ -1,6 +1,6 @@
 # transmission
 
-![Version: 17.0.20](https://img.shields.io/badge/Version-17.0.20-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.4](https://img.shields.io/badge/AppVersion-4.0.4-informational?style=flat-square)
+![Version: 18.0.0](https://img.shields.io/badge/Version-18.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.4](https://img.shields.io/badge/AppVersion-4.0.4-informational?style=flat-square)
 
 fast, easy, and free BitTorrent client.
 

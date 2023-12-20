@@ -2,6 +2,15 @@
 
 
 
+## [home-assistant-21.0.0](https://github.com/truecharts/charts/compare/home-assistant-20.1.6...home-assistant-21.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [home-assistant-20.1.6](https://github.com/truecharts/charts/compare/home-assistant-20.1.5...home-assistant-20.1.6) (2023-12-20)
 
 ### Chore

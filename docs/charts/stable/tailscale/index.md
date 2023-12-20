@@ -1,6 +1,6 @@
 # tailscale
 
-![Version: 5.2.3](https://img.shields.io/badge/Version-5.2.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.56.0@sha256:ed1f9317d0bab2bc17f6eecc29401479b91c938df48c28b1bd3d3014eba9d013](https://img.shields.io/badge/AppVersion-1.56.0@sha256:ed1f9317d0bab2bc17f6eecc29401479b91c938df48c28b1bd3d3014eba9d013-informational?style=flat-square)
+![Version: 6.0.0](https://img.shields.io/badge/Version-6.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.56.0@sha256:ed1f9317d0bab2bc17f6eecc29401479b91c938df48c28b1bd3d3014eba9d013](https://img.shields.io/badge/AppVersion-1.56.0@sha256:ed1f9317d0bab2bc17f6eecc29401479b91c938df48c28b1bd3d3014eba9d013-informational?style=flat-square)
 
 Tailscale lets you connect your devices and users together in your own secure virtual private network
 

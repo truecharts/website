@@ -2,6 +2,15 @@
 
 
 
+## [blocky-10.0.0](https://github.com/truecharts/charts/compare/blocky-9.1.1...blocky-10.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [blocky-9.1.1](https://github.com/truecharts/charts/compare/blocky-9.1.0...blocky-9.1.1) (2023-12-20)
 
 ### Chore

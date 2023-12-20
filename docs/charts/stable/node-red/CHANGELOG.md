@@ -2,6 +2,15 @@
 
 
 
+## [node-red-16.0.0](https://github.com/truecharts/charts/compare/node-red-15.0.16...node-red-16.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [node-red-15.0.16](https://github.com/truecharts/charts/compare/node-red-15.0.15...node-red-15.0.16) (2023-12-20)
 
 ### Chore

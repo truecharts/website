@@ -1,6 +1,6 @@
 # filebot
 
-![Version: 5.0.14](https://img.shields.io/badge/Version-5.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2@sha256:8b382b2ac3cdb01158a67f7a3706f7716b1bf29cc398152842e66c402b161e7b](https://img.shields.io/badge/AppVersion-23.11.2@sha256:8b382b2ac3cdb01158a67f7a3706f7716b1bf29cc398152842e66c402b161e7b-informational?style=flat-square)
+![Version: 6.0.0](https://img.shields.io/badge/Version-6.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2@sha256:8b382b2ac3cdb01158a67f7a3706f7716b1bf29cc398152842e66c402b161e7b](https://img.shields.io/badge/AppVersion-23.11.2@sha256:8b382b2ac3cdb01158a67f7a3706f7716b1bf29cc398152842e66c402b161e7b-informational?style=flat-square)
 
 FileBot is the ultimate tool for organizing and renaming your movies, tv shows or anime, and music well as downloading subtitles and artwork. It's smart and just works.
 

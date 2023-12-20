@@ -2,6 +2,15 @@
 
 
 
+## [zigbee2mqtt-9.0.0](https://github.com/truecharts/charts/compare/zigbee2mqtt-8.0.18...zigbee2mqtt-9.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [zigbee2mqtt-8.0.18](https://github.com/truecharts/charts/compare/zigbee2mqtt-8.0.17...zigbee2mqtt-8.0.18) (2023-12-20)
 
 ### Chore

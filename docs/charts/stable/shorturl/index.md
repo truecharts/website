@@ -1,6 +1,6 @@
 # shorturl
 
-![Version: 7.0.13](https://img.shields.io/badge/Version-7.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.0@sha256:75fc450af5d2d07e5caebc6a01863a0aacdc15c1fbe57b3db46e3bd548226420](https://img.shields.io/badge/AppVersion-0.1.0@sha256:75fc450af5d2d07e5caebc6a01863a0aacdc15c1fbe57b3db46e3bd548226420-informational?style=flat-square)
+![Version: 8.0.0](https://img.shields.io/badge/Version-8.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.0@sha256:75fc450af5d2d07e5caebc6a01863a0aacdc15c1fbe57b3db46e3bd548226420](https://img.shields.io/badge/AppVersion-0.1.0@sha256:75fc450af5d2d07e5caebc6a01863a0aacdc15c1fbe57b3db46e3bd548226420-informational?style=flat-square)
 
 Self hosted web app for shortening urls (URL shortener)
 

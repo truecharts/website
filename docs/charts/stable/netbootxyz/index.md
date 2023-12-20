@@ -1,6 +1,6 @@
 # netbootxyz
 
-![Version: 0.1.4](https://img.shields.io/badge/Version-0.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6.7@sha256:5a02a07a856c8a5130d0fa1726a8f7f94724a55d7ddb5d4305a21fda28291d26](https://img.shields.io/badge/AppVersion-0.6.7@sha256:5a02a07a856c8a5130d0fa1726a8f7f94724a55d7ddb5d4305a21fda28291d26-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6.7@sha256:5a02a07a856c8a5130d0fa1726a8f7f94724a55d7ddb5d4305a21fda28291d26](https://img.shields.io/badge/AppVersion-0.6.7@sha256:5a02a07a856c8a5130d0fa1726a8f7f94724a55d7ddb5d4305a21fda28291d26-informational?style=flat-square)
 
 Your favorite operating systems in one place!
 

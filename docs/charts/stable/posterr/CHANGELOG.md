@@ -2,6 +2,15 @@
 
 
 
+## [posterr-6.0.0](https://github.com/truecharts/charts/compare/posterr-5.0.15...posterr-6.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [posterr-5.0.15](https://github.com/truecharts/charts/compare/posterr-5.0.14...posterr-5.0.15) (2023-12-20)
 
 ### Chore

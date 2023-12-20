@@ -2,6 +2,15 @@
 
 
 
+## [librespeed-11.0.0](https://github.com/truecharts/charts/compare/librespeed-10.1.9...librespeed-11.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [librespeed-10.1.9](https://github.com/truecharts/charts/compare/librespeed-10.1.8...librespeed-10.1.9) (2023-12-20)
 
 ### Chore

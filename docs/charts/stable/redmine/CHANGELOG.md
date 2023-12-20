@@ -2,6 +2,15 @@
 
 
 
+## [redmine-9.0.0](https://github.com/truecharts/charts/compare/redmine-8.2.6...redmine-9.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [redmine-8.2.6](https://github.com/truecharts/charts/compare/redmine-8.2.5...redmine-8.2.6) (2023-12-20)
 
 ### Chore

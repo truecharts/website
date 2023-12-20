@@ -2,6 +2,15 @@
 
 
 
+## [pihole-12.0.0](https://github.com/truecharts/charts/compare/pihole-11.1.12...pihole-12.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [pihole-11.1.12](https://github.com/truecharts/charts/compare/pihole-11.1.11...pihole-11.1.12) (2023-12-20)
 
 ### Chore

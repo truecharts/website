@@ -1,6 +1,6 @@
 # golinks
 
-![Version: 8.0.13](https://img.shields.io/badge/Version-8.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ersion-154c581@sha256:8e67b26324c5dc433210df8f2fb64317db3cbbe7db0b9e10c6e5bc3f3f7860e4](https://img.shields.io/badge/AppVersion-ersion-154c581@sha256:8e67b26324c5dc433210df8f2fb64317db3cbbe7db0b9e10c6e5bc3f3f7860e4-informational?style=flat-square)
+![Version: 9.0.0](https://img.shields.io/badge/Version-9.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ersion-154c581@sha256:8e67b26324c5dc433210df8f2fb64317db3cbbe7db0b9e10c6e5bc3f3f7860e4](https://img.shields.io/badge/AppVersion-ersion-154c581@sha256:8e67b26324c5dc433210df8f2fb64317db3cbbe7db0b9e10c6e5bc3f3f7860e4-informational?style=flat-square)
 
 A web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance.
 

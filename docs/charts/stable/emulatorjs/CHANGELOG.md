@@ -2,6 +2,15 @@
 
 
 
+## [emulatorjs-7.0.0](https://github.com/truecharts/charts/compare/emulatorjs-6.0.27...emulatorjs-7.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [emulatorjs-6.0.27](https://github.com/truecharts/charts/compare/emulatorjs-6.0.26...emulatorjs-6.0.27) (2023-12-20)
 
 ### Chore

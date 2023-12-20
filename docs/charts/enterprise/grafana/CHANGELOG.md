@@ -2,6 +2,15 @@
 
 
 
+## [grafana-10.0.0](https://github.com/truecharts/charts/compare/grafana-9.0.47...grafana-10.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [grafana-9.0.47](https://github.com/truecharts/charts/compare/grafana-9.0.46...grafana-9.0.47) (2023-12-20)
 
 ### Chore

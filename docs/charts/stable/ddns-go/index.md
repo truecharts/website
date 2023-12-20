@@ -1,6 +1,6 @@
 # ddns-go
 
-![Version: 6.0.18](https://img.shields.io/badge/Version-6.0.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.6.6@sha256:fe921843f1957be51c0bbaed0b7e21936a566c74789e85a5b46e3acd7e6cbb18](https://img.shields.io/badge/AppVersion-5.6.6@sha256:fe921843f1957be51c0bbaed0b7e21936a566c74789e85a5b46e3acd7e6cbb18-informational?style=flat-square)
+![Version: 7.0.0](https://img.shields.io/badge/Version-7.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.6.6@sha256:fe921843f1957be51c0bbaed0b7e21936a566c74789e85a5b46e3acd7e6cbb18](https://img.shields.io/badge/AppVersion-5.6.6@sha256:fe921843f1957be51c0bbaed0b7e21936a566c74789e85a5b46e3acd7e6cbb18-informational?style=flat-square)
 
 Automatically obtain your public network IPv4 or IPv6 address and resolve it to the corresponding domain name service
 

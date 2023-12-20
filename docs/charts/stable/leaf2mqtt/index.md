@@ -1,6 +1,6 @@
 # leaf2mqtt
 
-![Version: 8.0.13](https://img.shields.io/badge/Version-8.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6@sha256:aef098fe333c18f0efc31dca6256e2c0aa209befb6b339d948e62c0ee5877391](https://img.shields.io/badge/AppVersion-0.6@sha256:aef098fe333c18f0efc31dca6256e2c0aa209befb6b339d948e62c0ee5877391-informational?style=flat-square)
+![Version: 9.0.0](https://img.shields.io/badge/Version-9.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6@sha256:aef098fe333c18f0efc31dca6256e2c0aa209befb6b339d948e62c0ee5877391](https://img.shields.io/badge/AppVersion-0.6@sha256:aef098fe333c18f0efc31dca6256e2c0aa209befb6b339d948e62c0ee5877391-informational?style=flat-square)
 
 Nissan Leaf connected services to MQTT adapter
 

@@ -1,6 +1,6 @@
 # plex-meta-manager
 
-![Version: 3.0.8](https://img.shields.io/badge/Version-3.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.19.1@sha256:f9f0f35b772201e98be32370f93b2557fad3a5b381406165896186ab99ea1382](https://img.shields.io/badge/AppVersion-1.19.1@sha256:f9f0f35b772201e98be32370f93b2557fad3a5b381406165896186ab99ea1382-informational?style=flat-square)
+![Version: 4.0.0](https://img.shields.io/badge/Version-4.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.19.1@sha256:f9f0f35b772201e98be32370f93b2557fad3a5b381406165896186ab99ea1382](https://img.shields.io/badge/AppVersion-1.19.1@sha256:f9f0f35b772201e98be32370f93b2557fad3a5b381406165896186ab99ea1382-informational?style=flat-square)
 
 Python script to update metadata and automatically build collections.
 

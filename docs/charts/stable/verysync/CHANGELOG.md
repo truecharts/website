@@ -2,6 +2,15 @@
 
 
 
+## [verysync-7.0.0](https://github.com/truecharts/charts/compare/verysync-6.1.1...verysync-7.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [verysync-6.1.1](https://github.com/truecharts/charts/compare/verysync-6.1.0...verysync-6.1.1) (2023-12-20)
 
 ### Chore

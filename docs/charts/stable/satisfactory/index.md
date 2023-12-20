@@ -1,6 +1,6 @@
 # satisfactory
 
-![Version: 6.1.4](https://img.shields.io/badge/Version-6.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.1@sha256:2cf5d57ecb288dc35bbf675c97022851b7344ce0788ed5101b61767f9abafd6d](https://img.shields.io/badge/AppVersion-1.6.1@sha256:2cf5d57ecb288dc35bbf675c97022851b7344ce0788ed5101b61767f9abafd6d-informational?style=flat-square)
+![Version: 7.0.0](https://img.shields.io/badge/Version-7.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.1@sha256:2cf5d57ecb288dc35bbf675c97022851b7344ce0788ed5101b61767f9abafd6d](https://img.shields.io/badge/AppVersion-1.6.1@sha256:2cf5d57ecb288dc35bbf675c97022851b7344ce0788ed5101b61767f9abafd6d-informational?style=flat-square)
 
 Satisfactory Dedicated Server
 

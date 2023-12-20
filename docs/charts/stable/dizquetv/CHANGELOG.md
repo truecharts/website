@@ -2,6 +2,15 @@
 
 
 
+## [dizquetv-12.0.0](https://github.com/truecharts/charts/compare/dizquetv-11.1.2...dizquetv-12.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [dizquetv-11.1.2](https://github.com/truecharts/charts/compare/dizquetv-11.1.1...dizquetv-11.1.2) (2023-12-20)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [picoshare-7.0.0](https://github.com/truecharts/charts/compare/picoshare-6.0.17...picoshare-7.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [picoshare-6.0.17](https://github.com/truecharts/charts/compare/picoshare-6.0.16...picoshare-6.0.17) (2023-12-20)
 
 ### Chore

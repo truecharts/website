@@ -1,6 +1,6 @@
 # nzbget
 
-![Version: 15.0.15](https://img.shields.io/badge/Version-15.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "21.1"](https://img.shields.io/badge/AppVersion-"21.1"-informational?style=flat-square)
+![Version: 16.0.0](https://img.shields.io/badge/Version-16.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "21.1"](https://img.shields.io/badge/AppVersion-"21.1"-informational?style=flat-square)
 
 NZBGet is a Usenet downloader client
 

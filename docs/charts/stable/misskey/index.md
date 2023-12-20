@@ -1,6 +1,6 @@
 # misskey
 
-![Version: 4.1.5](https://img.shields.io/badge/Version-4.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.1](https://img.shields.io/badge/AppVersion-2023.11.1-informational?style=flat-square)
+![Version: 5.0.0](https://img.shields.io/badge/Version-5.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.1](https://img.shields.io/badge/AppVersion-2023.11.1-informational?style=flat-square)
 
 Open source decentralized social media platform that's free forever!
 

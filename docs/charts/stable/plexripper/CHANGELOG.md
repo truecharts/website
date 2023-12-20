@@ -2,6 +2,15 @@
 
 
 
+## [plexripper-6.0.0](https://github.com/truecharts/charts/compare/plexripper-5.0.8...plexripper-6.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [plexripper-5.0.8](https://github.com/truecharts/charts/compare/plexripper-5.0.7...plexripper-5.0.8) (2023-12-20)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [gonic-11.0.0](https://github.com/truecharts/charts/compare/gonic-10.1.5...gonic-11.0.0) (2023-12-20)
+
+### Chore
+
+- update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
+  
+  
+
+
 ## [gonic-10.1.5](https://github.com/truecharts/charts/compare/gonic-10.1.4...gonic-10.1.5) (2023-12-20)
 
 ### Chore
