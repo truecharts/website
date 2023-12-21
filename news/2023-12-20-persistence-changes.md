@@ -21,7 +21,7 @@ We highly suggest not updating to the new breaking changes until a few weeks hav
 **All Platforms**
 
 - We strongly advise upgrading ClusterIssuer, cert-manager, and Traefik before anything else.
-
+- Ingress: In some cases it might be prudent to disable ingress prior to update and enable it again afterwards.
 
 **Helm**
 
@@ -34,7 +34,6 @@ We highly suggest not updating to the new breaking changes until a few weeks hav
 **SCALE**
 
 - General: Anything using a statefullset (that includes things using statefullsets as a dependency) will need to be reinstalled.
-- Ingress: It might be prudent to disable ingress prior to update and enable it again afterwards.
 - Ingress: Most of the cert-manager settings have been moved to "integrations" and they are reset.
 - Ingress: All of the Traefik settings have been moved to "integrations" and they are reset.
 - Ingress: This means you likely will lose TLS and security middlewares after the update, until adapted.
