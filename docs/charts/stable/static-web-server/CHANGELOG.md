@@ -2,6 +2,15 @@
 
 
 
+## [static-web-server-2.0.2](https://github.com/truecharts/charts/compare/static-web-server-2.0.1...static-web-server-2.0.2) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [static-web-server-2.0.1](https://github.com/truecharts/charts/compare/static-web-server-2.0.0...static-web-server-2.0.1) (2023-12-20)
 
 ### Chore

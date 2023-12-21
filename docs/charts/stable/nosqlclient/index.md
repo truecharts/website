@@ -1,14 +1,14 @@
 # nosqlclient
 
-![Version: 3.0.7](https://img.shields.io/badge/Version-3.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.8](https://img.shields.io/badge/Version-3.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 
 ## Chart Sources
 
-- https://github.com/nosqlclient/nosqlclient
 - https://github.com/truecharts/charts/tree/master/charts/incubator/nosqlclient
 - https://hub.docker.com/r/mongoclient/mongoclient
+- https://github.com/nosqlclient/nosqlclient
 
 ## Available Documentation
 

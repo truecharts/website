@@ -2,6 +2,15 @@
 
 
 
+## [fastcom-mqtt-3.0.8](https://github.com/truecharts/charts/compare/fastcom-mqtt-3.0.7...fastcom-mqtt-3.0.8) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [fastcom-mqtt-3.0.7](https://github.com/truecharts/charts/compare/fastcom-mqtt-3.0.6...fastcom-mqtt-3.0.7) (2023-12-20)
 
 ### Chore

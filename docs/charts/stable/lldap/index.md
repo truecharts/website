@@ -1,14 +1,14 @@
 # lldap
 
-![Version: 3.0.1](https://img.shields.io/badge/Version-3.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0-debian](https://img.shields.io/badge/AppVersion-0.5.0-debian-informational?style=flat-square)
+![Version: 3.0.2](https://img.shields.io/badge/Version-3.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0-debian](https://img.shields.io/badge/AppVersion-0.5.0-debian-informational?style=flat-square)
 
 Lightweight ldap server for authentication and user management
 
 ## Chart Sources
 
+- https://github.com/nitnelave/lldap
 - https://github.com/truecharts/charts/tree/master/charts/stable/lldap
 - https://hub.docker.com/r/nitnelave/lldap
-- https://github.com/nitnelave/lldap
 
 ## Available Documentation
 

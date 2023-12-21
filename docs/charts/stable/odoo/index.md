@@ -1,14 +1,14 @@
 # odoo
 
-![Version: 15.0.1](https://img.shields.io/badge/Version-15.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "17.0"](https://img.shields.io/badge/AppVersion-"17.0"-informational?style=flat-square)
+![Version: 15.0.2](https://img.shields.io/badge/Version-15.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "17.0"](https://img.shields.io/badge/AppVersion-"17.0"-informational?style=flat-square)
 
 All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, Procurement, Point of Sale, MRP, Marketing, etc.
 
 ## Chart Sources
 
+- https://hub.docker.com/_/odoo
 - https://github.com/odoo/docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/odoo
-- https://hub.docker.com/_/odoo
 
 ## Available Documentation
 

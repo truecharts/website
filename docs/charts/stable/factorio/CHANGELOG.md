@@ -2,6 +2,15 @@
 
 
 
+## [factorio-5.0.2](https://github.com/truecharts/charts/compare/factorio-5.0.1...factorio-5.0.2) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [factorio-5.0.1](https://github.com/truecharts/charts/compare/factorio-4.1.12...factorio-5.0.1) (2023-12-20)
 
 ### Chore

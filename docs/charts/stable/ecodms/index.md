@@ -1,14 +1,14 @@
 # ecodms
 
-![Version: 3.0.7](https://img.shields.io/badge/Version-3.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.8](https://img.shields.io/badge/Version-3.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 ecoDMS 18.09 (apu) Full Installation - Document Management System (DMS) - Audit-compliant archive for scanning, archiving, managing and retrieving all data and documents.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/ecodms/allinone-18.09
 - https://www.ecodms.de/index.php/en/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ecodms
+- https://hub.docker.com/r/ecodms/allinone-18.09
 
 ## Available Documentation
 

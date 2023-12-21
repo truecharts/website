@@ -2,6 +2,15 @@
 
 
 
+## [zoneminder-3.0.8](https://github.com/truecharts/charts/compare/zoneminder-3.0.7...zoneminder-3.0.8) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [zoneminder-3.0.7](https://github.com/truecharts/charts/compare/zoneminder-3.0.6...zoneminder-3.0.7) (2023-12-20)
 
 ### Chore

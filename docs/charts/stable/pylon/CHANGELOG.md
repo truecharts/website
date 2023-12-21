@@ -2,6 +2,15 @@
 
 
 
+## [pylon-7.0.2](https://github.com/truecharts/charts/compare/pylon-7.0.1...pylon-7.0.2) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [pylon-7.0.1](https://github.com/truecharts/charts/compare/pylon-7.0.0...pylon-7.0.1) (2023-12-20)
 
 ### Chore

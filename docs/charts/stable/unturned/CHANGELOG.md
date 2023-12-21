@@ -2,6 +2,15 @@
 
 
 
+## [unturned-4.0.2](https://github.com/truecharts/charts/compare/unturned-4.0.1...unturned-4.0.2) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [unturned-4.0.1](https://github.com/truecharts/charts/compare/unturned-3.0.9...unturned-4.0.1) (2023-12-20)
 
 ### Chore

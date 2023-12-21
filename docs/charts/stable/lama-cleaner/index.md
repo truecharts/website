@@ -1,14 +1,14 @@
 # lama-cleaner
 
-![Version: 4.0.1](https://img.shields.io/badge/Version-4.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.33.0](https://img.shields.io/badge/AppVersion-0.33.0-informational?style=flat-square)
+![Version: 4.0.2](https://img.shields.io/badge/Version-4.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.33.0](https://img.shields.io/badge/AppVersion-0.33.0-informational?style=flat-square)
 
 Open-source inpainting tool powered by SOTA AI model.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/cwq1913/lama-cleaner
 - https://github.com/Sanster/lama-cleaner
 - https://github.com/truecharts/charts/tree/master/charts/stable/lama-cleaner
+- https://hub.docker.com/r/cwq1913/lama-cleaner
 
 ## Available Documentation
 

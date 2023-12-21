@@ -2,6 +2,15 @@
 
 
 
+## [debian-apt-mirror-3.0.8](https://github.com/truecharts/charts/compare/debian-apt-mirror-3.0.7...debian-apt-mirror-3.0.8) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [debian-apt-mirror-3.0.7](https://github.com/truecharts/charts/compare/debian-apt-mirror-3.0.6...debian-apt-mirror-3.0.7) (2023-12-20)
 
 ### Chore

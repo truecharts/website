@@ -2,6 +2,15 @@
 
 
 
+## [qbittorrent-17.0.2](https://github.com/truecharts/charts/compare/qbittorrent-17.0.1...qbittorrent-17.0.2) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [qbittorrent-17.0.1](https://github.com/truecharts/charts/compare/qbittorrent-17.0.0...qbittorrent-17.0.1) (2023-12-20)
 
 ### Chore

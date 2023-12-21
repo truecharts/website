@@ -2,6 +2,15 @@
 
 
 
+## [homebox-4.0.2](https://github.com/truecharts/charts/compare/homebox-4.0.1...homebox-4.0.2) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [homebox-4.0.1](https://github.com/truecharts/charts/compare/homebox-4.0.0...homebox-4.0.1) (2023-12-20)
 
 ### Chore

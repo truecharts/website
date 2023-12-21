@@ -2,6 +2,15 @@
 
 
 
+## [rss-bridge-7.0.2](https://github.com/truecharts/charts/compare/rss-bridge-7.0.1...rss-bridge-7.0.2) (2023-12-21)
+
+### Chore
+
+- update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
+  
+  
+
+
 ## [rss-bridge-7.0.1](https://github.com/truecharts/charts/compare/rss-bridge-7.0.0...rss-bridge-7.0.1) (2023-12-20)
 
 ### Chore
