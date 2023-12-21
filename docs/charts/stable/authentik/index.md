@@ -1,6 +1,6 @@
 # authentik
 
-![Version: 17.0.4](https://img.shields.io/badge/Version-17.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.10.4](https://img.shields.io/badge/AppVersion-2023.10.4-informational?style=flat-square)
+![Version: 17.0.5](https://img.shields.io/badge/Version-17.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.10.4](https://img.shields.io/badge/AppVersion-2023.10.4-informational?style=flat-square)
 
 Authentik is an open-source Identity Provider focused on flexibility and versatility.
 
