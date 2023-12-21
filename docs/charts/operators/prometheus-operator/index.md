@@ -1,6 +1,6 @@
 # prometheus-operator
 
-![Version: 2.0.1](https://img.shields.io/badge/Version-2.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.69.1@sha256:dc0ad671ec11e5a5b6032a7d36b9451b10f0848f7f0d7203b761de6a1b7c0e99](https://img.shields.io/badge/AppVersion-0.69.1@sha256:dc0ad671ec11e5a5b6032a7d36b9451b10f0848f7f0d7203b761de6a1b7c0e99-informational?style=flat-square)
+![Version: 2.0.2](https://img.shields.io/badge/Version-2.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.69.1](https://img.shields.io/badge/AppVersion-0.69.1-informational?style=flat-square)
 
 Prometheus Operator is an operator for prometheus
 
@@ -8,7 +8,7 @@ Prometheus Operator is an operator for prometheus
 
 - https://github.com/prometheus-operator
 - https://github.com/truecharts/charts/tree/master/charts/operators/prometheus-operator
-- https://github.com/truecharts/containers/tree/master/mirrorprometheus-config-reloader
+- https://github.com/truecharts/containers/tree/master/mirrorthanos
 
 ## Available Documentation
 
