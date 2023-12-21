@@ -22,8 +22,10 @@ We highly suggest not updating to the new breaking changes until a few weeks hav
 
 - We strongly advise upgrading ClusterIssuer, cert-manager, and Traefik before anything else.
 
+
 **Helm**
 
+- General: Anything using a statefullset (that includes things using statefullsets as a dependency) will need you to manually remove the statefullset before update
 - Ingress: Most of the certManager settings have been moved to "integrations".
 - Ingress: All of the Traefik settings have been moved to "integrations".
 - Ingress: It's advisable to apply the new structure from common values.yaml prior to upgrade: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
@@ -31,6 +33,7 @@ We highly suggest not updating to the new breaking changes until a few weeks hav
 
 **SCALE**
 
+- General: Anything using a statefullset (that includes things using statefullsets as a dependency) will need to be reinstalled.
 - Ingress: It might be prudent to disable ingress prior to update and enable it again afterwards.
 - Ingress: Most of the cert-manager settings have been moved to "integrations" and they are reset.
 - Ingress: All of the Traefik settings have been moved to "integrations" and they are reset.
