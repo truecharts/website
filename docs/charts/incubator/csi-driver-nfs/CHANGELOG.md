@@ -2,6 +2,15 @@
 
 
 
+## [csi-driver-nfs-1.0.8](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.7...csi-driver-nfs-1.0.8) (2023-12-21)
+
+### Fix
+
+- remove redundant velero crap from values.yaml
+  
+  
+
+
 ## [csi-driver-nfs-1.0.7](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.6...csi-driver-nfs-1.0.7) (2023-12-21)
 
 ### Chore
