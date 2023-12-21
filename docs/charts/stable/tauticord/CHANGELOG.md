@@ -2,6 +2,15 @@
 
 
 
+## [tauticord-1.0.4](https://github.com/truecharts/charts/compare/tauticord-1.0.3...tauticord-1.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [tauticord-1.0.3](https://github.com/truecharts/charts/compare/tauticord-1.0.2...tauticord-1.0.3) (2023-12-21)
 
 ### Chore

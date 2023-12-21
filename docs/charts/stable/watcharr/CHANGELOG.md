@@ -2,6 +2,15 @@
 
 
 
+## [watcharr-2.0.4](https://github.com/truecharts/charts/compare/watcharr-2.0.3...watcharr-2.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [watcharr-2.0.3](https://github.com/truecharts/charts/compare/watcharr-2.0.2...watcharr-2.0.3) (2023-12-21)
 
 ### Chore

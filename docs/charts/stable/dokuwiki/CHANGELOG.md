@@ -2,6 +2,15 @@
 
 
 
+## [dokuwiki-8.0.4](https://github.com/truecharts/charts/compare/dokuwiki-8.0.3...dokuwiki-8.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [dokuwiki-8.0.3](https://github.com/truecharts/charts/compare/dokuwiki-8.0.2...dokuwiki-8.0.3) (2023-12-21)
 
 ### Chore

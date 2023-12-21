@@ -2,6 +2,15 @@
 
 
 
+## [xonotic-3.0.10](https://github.com/truecharts/charts/compare/xonotic-3.0.9...xonotic-3.0.10) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [xonotic-3.0.9](https://github.com/truecharts/charts/compare/xonotic-3.0.8...xonotic-3.0.9) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [filebrowser-7.0.4](https://github.com/truecharts/charts/compare/filebrowser-7.0.3...filebrowser-7.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [filebrowser-7.0.3](https://github.com/truecharts/charts/compare/filebrowser-7.0.2...filebrowser-7.0.3) (2023-12-21)
 
 ### Chore

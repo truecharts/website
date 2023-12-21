@@ -1,6 +1,6 @@
 # libreoffice
 
-![Version: 6.0.7](https://img.shields.io/badge/Version-6.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.5.5](https://img.shields.io/badge/AppVersion-7.5.5-informational?style=flat-square)
+![Version: 6.0.8](https://img.shields.io/badge/Version-6.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.5.5](https://img.shields.io/badge/AppVersion-7.5.5-informational?style=flat-square)
 
 LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org.
 

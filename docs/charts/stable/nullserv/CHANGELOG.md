@@ -2,6 +2,15 @@
 
 
 
+## [nullserv-11.0.4](https://github.com/truecharts/charts/compare/nullserv-11.0.3...nullserv-11.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [nullserv-11.0.3](https://github.com/truecharts/charts/compare/nullserv-11.0.2...nullserv-11.0.3) (2023-12-21)
 
 ### Chore

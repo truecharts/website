@@ -2,6 +2,15 @@
 
 
 
+## [ml-workspace-6.0.8](https://github.com/truecharts/charts/compare/ml-workspace-6.0.7...ml-workspace-6.0.8) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [ml-workspace-6.0.7](https://github.com/truecharts/charts/compare/ml-workspace-6.0.6...ml-workspace-6.0.7) (2023-12-21)
 
 ### Chore

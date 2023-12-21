@@ -2,6 +2,15 @@
 
 
 
+## [csi-driver-nfs-1.0.9](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.8...csi-driver-nfs-1.0.9) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [csi-driver-nfs-1.0.8](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.7...csi-driver-nfs-1.0.8) (2023-12-21)
 
 ### Fix

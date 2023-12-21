@@ -2,6 +2,15 @@
 
 
 
+## [webgrabplus-7.0.4](https://github.com/truecharts/charts/compare/webgrabplus-7.0.3...webgrabplus-7.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [webgrabplus-7.0.3](https://github.com/truecharts/charts/compare/webgrabplus-7.0.2...webgrabplus-7.0.3) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [mongo-express-3.0.5](https://github.com/truecharts/charts/compare/mongo-express-3.0.4...mongo-express-3.0.5) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [mongo-express-3.0.4](https://github.com/truecharts/charts/compare/mongo-express-3.0.3...mongo-express-3.0.4) (2023-12-21)
 
 ### Chore

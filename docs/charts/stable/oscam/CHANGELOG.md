@@ -2,6 +2,15 @@
 
 
 
+## [oscam-11.0.4](https://github.com/truecharts/charts/compare/oscam-11.0.3...oscam-11.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [oscam-11.0.3](https://github.com/truecharts/charts/compare/oscam-11.0.2...oscam-11.0.3) (2023-12-21)
 
 ### Chore

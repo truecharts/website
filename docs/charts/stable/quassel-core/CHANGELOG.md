@@ -2,6 +2,15 @@
 
 
 
+## [quassel-core-9.0.4](https://github.com/truecharts/charts/compare/quassel-core-9.0.3...quassel-core-9.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [quassel-core-9.0.3](https://github.com/truecharts/charts/compare/quassel-core-9.0.2...quassel-core-9.0.3) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [sheetable-4.0.10](https://github.com/truecharts/charts/compare/sheetable-4.0.9...sheetable-4.0.10) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [sheetable-4.0.9](https://github.com/truecharts/charts/compare/sheetable-4.0.8...sheetable-4.0.9) (2023-12-21)
 
 ### Chore

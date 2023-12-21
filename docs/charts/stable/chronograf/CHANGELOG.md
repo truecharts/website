@@ -2,6 +2,15 @@
 
 
 
+## [chronograf-3.0.11](https://github.com/truecharts/charts/compare/chronograf-3.0.10...chronograf-3.0.11) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [chronograf-3.0.10](https://github.com/truecharts/charts/compare/chronograf-3.0.9...chronograf-3.0.10) (2023-12-21)
 
 ### Chore

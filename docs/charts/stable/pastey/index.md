@@ -1,6 +1,6 @@
 # pastey
 
-![Version: 4.0.4](https://img.shields.io/badge/Version-4.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.1](https://img.shields.io/badge/AppVersion-0.5.1-informational?style=flat-square)
+![Version: 4.0.5](https://img.shields.io/badge/Version-4.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.1](https://img.shields.io/badge/AppVersion-0.5.1-informational?style=flat-square)
 
 A lightweight, self-hosted paste platform.
 
@@ -8,7 +8,7 @@ A lightweight, self-hosted paste platform.
 
 - https://github.com/Cesura/pastey
 - https://github.com/truecharts/charts/tree/master/charts/stable/pastey
-- https://github.com/truecharts/containers/tree/master/mirrorpastey
+- https://github.com/truecharts/containers/tree/master/mirrorpastey-slim
 
 ## Available Documentation
 

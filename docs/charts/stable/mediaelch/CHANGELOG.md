@@ -2,6 +2,15 @@
 
 
 
+## [mediaelch-3.0.10](https://github.com/truecharts/charts/compare/mediaelch-3.0.9...mediaelch-3.0.10) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [mediaelch-3.0.9](https://github.com/truecharts/charts/compare/mediaelch-3.0.8...mediaelch-3.0.9) (2023-12-21)
 
 ### Chore

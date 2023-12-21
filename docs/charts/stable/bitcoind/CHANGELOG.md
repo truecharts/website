@@ -2,6 +2,15 @@
 
 
 
+## [bitcoind-3.0.11](https://github.com/truecharts/charts/compare/bitcoind-3.0.10...bitcoind-3.0.11) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [bitcoind-3.0.10](https://github.com/truecharts/charts/compare/bitcoind-3.0.9...bitcoind-3.0.10) (2023-12-21)
 
 ### Chore

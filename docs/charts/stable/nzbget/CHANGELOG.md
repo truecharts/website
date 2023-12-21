@@ -2,6 +2,15 @@
 
 
 
+## [nzbget-16.0.4](https://github.com/truecharts/charts/compare/nzbget-16.0.3...nzbget-16.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [nzbget-16.0.3](https://github.com/truecharts/charts/compare/nzbget-16.0.2...nzbget-16.0.3) (2023-12-21)
 
 ### Chore

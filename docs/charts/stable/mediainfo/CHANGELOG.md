@@ -2,6 +2,15 @@
 
 
 
+## [mediainfo-6.0.4](https://github.com/truecharts/charts/compare/mediainfo-6.0.3...mediainfo-6.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [mediainfo-6.0.3](https://github.com/truecharts/charts/compare/mediainfo-6.0.2...mediainfo-6.0.3) (2023-12-21)
 
 ### Chore

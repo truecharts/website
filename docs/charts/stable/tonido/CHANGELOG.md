@@ -2,6 +2,15 @@
 
 
 
+## [tonido-3.0.10](https://github.com/truecharts/charts/compare/tonido-3.0.9...tonido-3.0.10) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [tonido-3.0.9](https://github.com/truecharts/charts/compare/tonido-3.0.8...tonido-3.0.9) (2023-12-21)
 
 ### Chore

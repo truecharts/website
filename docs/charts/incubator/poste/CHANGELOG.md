@@ -2,6 +2,15 @@
 
 
 
+## [poste-3.0.8](https://github.com/truecharts/charts/compare/poste-3.0.7...poste-3.0.8) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [poste-3.0.7](https://github.com/truecharts/charts/compare/poste-3.0.6...poste-3.0.7) (2023-12-21)
 
 ### Chore

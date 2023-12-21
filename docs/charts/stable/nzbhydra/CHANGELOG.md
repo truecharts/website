@@ -2,6 +2,15 @@
 
 
 
+## [nzbhydra-17.0.4](https://github.com/truecharts/charts/compare/nzbhydra-17.0.3...nzbhydra-17.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [nzbhydra-17.0.3](https://github.com/truecharts/charts/compare/nzbhydra-17.0.2...nzbhydra-17.0.3) (2023-12-21)
 
 ### Chore

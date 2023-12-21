@@ -2,6 +2,15 @@
 
 
 
+## [plexripper-6.0.4](https://github.com/truecharts/charts/compare/plexripper-6.0.3...plexripper-6.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [plexripper-6.0.3](https://github.com/truecharts/charts/compare/plexripper-6.0.2...plexripper-6.0.3) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [icinga2-8.0.8](https://github.com/truecharts/charts/compare/icinga2-8.0.7...icinga2-8.0.8) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [icinga2-8.0.7](https://github.com/truecharts/charts/compare/icinga2-8.0.6...icinga2-8.0.7) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [csi-driver-smb-1.0.12](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.11...csi-driver-smb-1.0.12) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [csi-driver-smb-1.0.11](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.10...csi-driver-smb-1.0.11) (2023-12-21)
 
 ### Chore

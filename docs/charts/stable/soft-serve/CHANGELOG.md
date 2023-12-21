@@ -2,6 +2,15 @@
 
 
 
+## [soft-serve-4.0.4](https://github.com/truecharts/charts/compare/soft-serve-4.0.3...soft-serve-4.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [soft-serve-4.0.3](https://github.com/truecharts/charts/compare/soft-serve-4.0.2...soft-serve-4.0.3) (2023-12-21)
 
 ### Chore

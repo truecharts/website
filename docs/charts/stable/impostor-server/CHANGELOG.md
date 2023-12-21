@@ -2,6 +2,15 @@
 
 
 
+## [impostor-server-6.0.4](https://github.com/truecharts/charts/compare/impostor-server-6.0.3...impostor-server-6.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [impostor-server-6.0.3](https://github.com/truecharts/charts/compare/impostor-server-6.0.2...impostor-server-6.0.3) (2023-12-21)
 
 ### Chore

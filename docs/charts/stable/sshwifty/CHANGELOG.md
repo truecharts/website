@@ -2,6 +2,15 @@
 
 
 
+## [sshwifty-3.0.4](https://github.com/truecharts/charts/compare/sshwifty-3.0.3...sshwifty-3.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [sshwifty-3.0.3](https://github.com/truecharts/charts/compare/sshwifty-3.0.2...sshwifty-3.0.3) (2023-12-21)
 
 ### Chore

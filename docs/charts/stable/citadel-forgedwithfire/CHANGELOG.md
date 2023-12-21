@@ -2,6 +2,15 @@
 
 
 
+## [citadel-forgedwithfire-3.0.10](https://github.com/truecharts/charts/compare/citadel-forgedwithfire-3.0.9...citadel-forgedwithfire-3.0.10) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [citadel-forgedwithfire-3.0.9](https://github.com/truecharts/charts/compare/citadel-forgedwithfire-3.0.8...citadel-forgedwithfire-3.0.9) (2023-12-21)
 
 ### Chore

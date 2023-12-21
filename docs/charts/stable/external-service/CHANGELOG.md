@@ -2,6 +2,15 @@
 
 
 
+## [external-service-11.0.5](https://github.com/truecharts/charts/compare/external-service-11.0.4...external-service-11.0.5) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [external-service-11.0.4](https://github.com/truecharts/charts/compare/external-service-11.0.3...external-service-11.0.4) (2023-12-21)
 
 ### Chore

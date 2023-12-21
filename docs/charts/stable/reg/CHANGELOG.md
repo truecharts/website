@@ -2,6 +2,15 @@
 
 
 
+## [reg-11.0.4](https://github.com/truecharts/charts/compare/reg-11.0.3...reg-11.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [reg-11.0.3](https://github.com/truecharts/charts/compare/reg-11.0.2...reg-11.0.3) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [it-tools-2.0.4](https://github.com/truecharts/charts/compare/it-tools-2.0.3...it-tools-2.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [it-tools-2.0.3](https://github.com/truecharts/charts/compare/it-tools-2.0.2...it-tools-2.0.3) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [penpot-4.0.7](https://github.com/truecharts/charts/compare/penpot-4.0.6...penpot-4.0.7) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [penpot-4.0.6](https://github.com/truecharts/charts/compare/penpot-4.0.5...penpot-4.0.6) (2023-12-21)
 
 ### Chore

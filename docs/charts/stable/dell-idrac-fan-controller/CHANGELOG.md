@@ -2,6 +2,15 @@
 
 
 
+## [dell-idrac-fan-controller-3.0.4](https://github.com/truecharts/charts/compare/dell-idrac-fan-controller-3.0.3...dell-idrac-fan-controller-3.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [dell-idrac-fan-controller-3.0.3](https://github.com/truecharts/charts/compare/dell-idrac-fan-controller-3.0.2...dell-idrac-fan-controller-3.0.3) (2023-12-21)
 
 ### Chore

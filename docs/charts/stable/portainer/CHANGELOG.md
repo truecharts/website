@@ -2,6 +2,15 @@
 
 
 
+## [portainer-6.0.4](https://github.com/truecharts/charts/compare/portainer-6.0.3...portainer-6.0.4) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [portainer-6.0.3](https://github.com/truecharts/charts/compare/portainer-6.0.2...portainer-6.0.3) (2023-12-21)
 
 ### Chore

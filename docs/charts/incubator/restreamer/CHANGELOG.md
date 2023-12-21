@@ -2,6 +2,15 @@
 
 
 
+## [restreamer-3.0.8](https://github.com/truecharts/charts/compare/restreamer-3.0.7...restreamer-3.0.8) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [restreamer-3.0.7](https://github.com/truecharts/charts/compare/restreamer-3.0.6...restreamer-3.0.7) (2023-12-21)
 
 ### Chore

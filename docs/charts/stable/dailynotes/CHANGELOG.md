@@ -2,6 +2,15 @@
 
 
 
+## [dailynotes-3.0.10](https://github.com/truecharts/charts/compare/dailynotes-3.0.9...dailynotes-3.0.10) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [dailynotes-3.0.9](https://github.com/truecharts/charts/compare/dailynotes-3.0.8...dailynotes-3.0.9) (2023-12-21)
 
 ### Chore

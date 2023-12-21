@@ -2,6 +2,15 @@
 
 
 
+## [opengl-desktop-g3-3.0.11](https://github.com/truecharts/charts/compare/opengl-desktop-g3-3.0.10...opengl-desktop-g3-3.0.11) (2023-12-21)
+
+### Fix
+
+- bump to release middleware fix
+  
+  
+
+
 ## [opengl-desktop-g3-3.0.10](https://github.com/truecharts/charts/compare/opengl-desktop-g3-3.0.9...opengl-desktop-g3-3.0.10) (2023-12-21)
 
 ### Chore
