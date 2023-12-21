@@ -2,6 +2,15 @@
 
 
 
+## [domoticz-7.0.3](https://github.com/truecharts/charts/compare/domoticz-7.0.2...domoticz-7.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [domoticz-7.0.2](https://github.com/truecharts/charts/compare/domoticz-7.0.1...domoticz-7.0.2) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [tubesync-3.0.10](https://github.com/truecharts/charts/compare/tubesync-3.0.9...tubesync-3.0.10) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [tubesync-3.0.9](https://github.com/truecharts/charts/compare/tubesync-3.0.8...tubesync-3.0.9) (2023-12-21)
 
 ### Chore

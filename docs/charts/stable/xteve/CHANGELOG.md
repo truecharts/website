@@ -2,6 +2,15 @@
 
 
 
+## [xteve-11.0.3](https://github.com/truecharts/charts/compare/xteve-11.0.2...xteve-11.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [xteve-11.0.2](https://github.com/truecharts/charts/compare/xteve-11.0.1...xteve-11.0.2) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [satisfactory-7.0.3](https://github.com/truecharts/charts/compare/satisfactory-7.0.2...satisfactory-7.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [satisfactory-7.0.2](https://github.com/truecharts/charts/compare/satisfactory-7.0.1...satisfactory-7.0.2) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,19 @@
 
 
 
+## [openkm-12.0.7](https://github.com/truecharts/charts/compare/openkm-12.0.6...openkm-12.0.7) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  ### Fix
+
+- ensure the cnpg GUI is included on CNPG apps
+  
+  
+
+
 ## [openkm-12.0.6](https://github.com/truecharts/charts/compare/openkm-12.0.5...openkm-12.0.6) (2023-12-20)
 
 ### Chore

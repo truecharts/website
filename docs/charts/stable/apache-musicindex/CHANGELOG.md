@@ -2,6 +2,15 @@
 
 
 
+## [apache-musicindex-9.0.3](https://github.com/truecharts/charts/compare/apache-musicindex-9.0.2...apache-musicindex-9.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [apache-musicindex-9.0.2](https://github.com/truecharts/charts/compare/apache-musicindex-9.0.1...apache-musicindex-9.0.2) (2023-12-21)
 
 ### Chore

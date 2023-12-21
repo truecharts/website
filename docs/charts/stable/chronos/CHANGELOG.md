@@ -2,6 +2,15 @@
 
 
 
+## [chronos-6.0.3](https://github.com/truecharts/charts/compare/chronos-6.0.2...chronos-6.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [chronos-6.0.2](https://github.com/truecharts/charts/compare/chronos-6.0.1...chronos-6.0.2) (2023-12-21)
 
 ### Chore

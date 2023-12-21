@@ -2,6 +2,15 @@
 
 
 
+## [s3backup-3.0.9](https://github.com/truecharts/charts/compare/s3backup-3.0.8...s3backup-3.0.9) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [s3backup-3.0.8](https://github.com/truecharts/charts/compare/s3backup-3.0.7...s3backup-3.0.8) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [vocechat-server-1.0.7](https://github.com/truecharts/charts/compare/vocechat-server-1.0.6...vocechat-server-1.0.7) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [vocechat-server-1.0.6](https://github.com/truecharts/charts/compare/vocechat-server-1.0.5...vocechat-server-1.0.6) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [local-ai-7.0.3](https://github.com/truecharts/charts/compare/local-ai-7.0.2...local-ai-7.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [local-ai-7.0.2](https://github.com/truecharts/charts/compare/local-ai-7.0.1...local-ai-7.0.2) (2023-12-21)
 
 ### Chore

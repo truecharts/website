@@ -2,6 +2,15 @@
 
 
 
+## [cherry-3.0.7](https://github.com/truecharts/charts/compare/cherry-3.0.6...cherry-3.0.7) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [cherry-3.0.6](https://github.com/truecharts/charts/compare/cherry-3.0.5...cherry-3.0.6) (2023-12-20)
 
 ### Chore

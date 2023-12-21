@@ -2,6 +2,15 @@
 
 
 
+## [muximux-8.0.3](https://github.com/truecharts/charts/compare/muximux-8.0.2...muximux-8.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [muximux-8.0.2](https://github.com/truecharts/charts/compare/muximux-8.0.1...muximux-8.0.2) (2023-12-21)
 
 ### Chore

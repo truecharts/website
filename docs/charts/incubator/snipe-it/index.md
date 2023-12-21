@@ -1,15 +1,15 @@
 # snipe-it
 
-![Version: 9.0.6](https://img.shields.io/badge/Version-9.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.2.3](https://img.shields.io/badge/AppVersion-6.2.3-informational?style=flat-square)
+![Version: 9.0.7](https://img.shields.io/badge/Version-9.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.2.3](https://img.shields.io/badge/AppVersion-6.2.3-informational?style=flat-square)
 
 Open source asset management
 
 ## Chart Sources
 
-- https://hub.docker.com/r/snipe/snipe-it
-- https://github.com/snipe/snipe-it
 - https://snipeitapp.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/snipe-it
+- https://hub.docker.com/r/snipe/snipe-it
+- https://github.com/snipe/snipe-it
 
 ## Available Documentation
 

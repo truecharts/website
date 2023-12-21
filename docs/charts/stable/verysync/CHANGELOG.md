@@ -2,6 +2,15 @@
 
 
 
+## [verysync-7.0.3](https://github.com/truecharts/charts/compare/verysync-7.0.2...verysync-7.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [verysync-7.0.2](https://github.com/truecharts/charts/compare/verysync-7.0.1...verysync-7.0.2) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [multi-scrobbler-4.0.3](https://github.com/truecharts/charts/compare/multi-scrobbler-4.0.2...multi-scrobbler-4.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [multi-scrobbler-4.0.2](https://github.com/truecharts/charts/compare/multi-scrobbler-4.0.1...multi-scrobbler-4.0.2) (2023-12-21)
 
 ### Chore

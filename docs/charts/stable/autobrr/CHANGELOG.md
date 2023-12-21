@@ -2,6 +2,15 @@
 
 
 
+## [autobrr-6.0.3](https://github.com/truecharts/charts/compare/autobrr-6.0.2...autobrr-6.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [autobrr-6.0.2](https://github.com/truecharts/charts/compare/autobrr-6.0.1...autobrr-6.0.2) (2023-12-21)
 
 ### Chore

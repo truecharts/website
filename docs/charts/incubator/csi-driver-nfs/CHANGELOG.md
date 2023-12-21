@@ -2,6 +2,15 @@
 
 
 
+## [csi-driver-nfs-1.0.7](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.6...csi-driver-nfs-1.0.7) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [csi-driver-nfs-1.0.6](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.5...csi-driver-nfs-1.0.6) (2023-12-20)
 
 ### Chore

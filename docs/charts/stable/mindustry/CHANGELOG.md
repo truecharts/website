@@ -2,6 +2,15 @@
 
 
 
+## [mindustry-3.0.9](https://github.com/truecharts/charts/compare/mindustry-3.0.8...mindustry-3.0.9) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [mindustry-3.0.8](https://github.com/truecharts/charts/compare/mindustry-3.0.7...mindustry-3.0.8) (2023-12-21)
 
 ### Chore

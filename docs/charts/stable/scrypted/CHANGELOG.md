@@ -2,6 +2,15 @@
 
 
 
+## [scrypted-2.0.3](https://github.com/truecharts/charts/compare/scrypted-2.0.2...scrypted-2.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [scrypted-2.0.2](https://github.com/truecharts/charts/compare/scrypted-2.0.1...scrypted-2.0.2) (2023-12-21)
 
 ### Chore

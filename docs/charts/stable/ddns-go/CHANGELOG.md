@@ -2,6 +2,15 @@
 
 
 
+## [ddns-go-7.0.3](https://github.com/truecharts/charts/compare/ddns-go-7.0.2...ddns-go-7.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [ddns-go-7.0.2](https://github.com/truecharts/charts/compare/ddns-go-7.0.1...ddns-go-7.0.2) (2023-12-21)
 
 ### Chore

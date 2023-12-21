@@ -2,6 +2,15 @@
 
 
 
+## [syncthing-16.0.3](https://github.com/truecharts/charts/compare/syncthing-16.0.2...syncthing-16.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [syncthing-16.0.2](https://github.com/truecharts/charts/compare/syncthing-16.0.1...syncthing-16.0.2) (2023-12-21)
 
 ### Chore

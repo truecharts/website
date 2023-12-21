@@ -2,6 +2,15 @@
 
 
 
+## [wireguard-6.0.3](https://github.com/truecharts/charts/compare/wireguard-6.0.2...wireguard-6.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [wireguard-6.0.2](https://github.com/truecharts/charts/compare/wireguard-6.0.1...wireguard-6.0.2) (2023-12-21)
 
 ### Chore

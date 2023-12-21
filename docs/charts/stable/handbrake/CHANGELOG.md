@@ -2,6 +2,15 @@
 
 
 
+## [handbrake-18.0.3](https://github.com/truecharts/charts/compare/handbrake-18.0.2...handbrake-18.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [handbrake-18.0.2](https://github.com/truecharts/charts/compare/handbrake-18.0.1...handbrake-18.0.2) (2023-12-21)
 
 ### Chore

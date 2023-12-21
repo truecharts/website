@@ -2,6 +2,15 @@
 
 
 
+## [whoogle-8.0.3](https://github.com/truecharts/charts/compare/whoogle-8.0.2...whoogle-8.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [whoogle-8.0.2](https://github.com/truecharts/charts/compare/whoogle-8.0.1...whoogle-8.0.2) (2023-12-21)
 
 ### Chore

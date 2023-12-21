@@ -2,6 +2,15 @@
 
 
 
+## [ts-dnsserver-3.0.9](https://github.com/truecharts/charts/compare/ts-dnsserver-3.0.8...ts-dnsserver-3.0.9) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [ts-dnsserver-3.0.8](https://github.com/truecharts/charts/compare/ts-dnsserver-3.0.7...ts-dnsserver-3.0.8) (2023-12-21)
 
 ### Chore

@@ -2,6 +2,19 @@
 
 
 
+## [briefkasten-1.0.5](https://github.com/truecharts/charts/compare/briefkasten-0.0.19...briefkasten-1.0.5) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  - bump patch versions on all charts for new GUI release
+  - Bump everything to force min/max scale version update
+  - fix move mistake and cleanup metadata
+  - update helm chart common to 16.2.6 ([#15731](https://github.com/truecharts/charts/issues/15731))
+  
+  
+
+
 ## [briefkasten-1.0.4](https://github.com/truecharts/charts/compare/briefkasten-0.0.19...briefkasten-1.0.4) (2023-12-20)
 
 ### Chore

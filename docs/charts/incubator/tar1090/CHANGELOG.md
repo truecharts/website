@@ -2,6 +2,15 @@
 
 
 
+## [tar1090-3.0.9](https://github.com/truecharts/charts/compare/tar1090-3.0.8...tar1090-3.0.9) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [tar1090-3.0.8](https://github.com/truecharts/charts/compare/tar1090-3.0.7...tar1090-3.0.8) (2023-12-20)
 
 ### Chore

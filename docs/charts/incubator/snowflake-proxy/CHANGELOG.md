@@ -2,6 +2,15 @@
 
 
 
+## [snowflake-proxy-1.0.7](https://github.com/truecharts/charts/compare/snowflake-proxy-1.0.6...snowflake-proxy-1.0.7) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [snowflake-proxy-1.0.6](https://github.com/truecharts/charts/compare/snowflake-proxy-1.0.5...snowflake-proxy-1.0.6) (2023-12-20)
 
 ### Chore

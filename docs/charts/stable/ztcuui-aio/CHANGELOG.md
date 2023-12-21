@@ -2,6 +2,15 @@
 
 
 
+## [ztcuui-aio-5.1.1](https://github.com/truecharts/charts/compare/ztcuui-aio-5.1.0...ztcuui-aio-5.1.1) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [ztcuui-aio-5.1.0](https://github.com/truecharts/charts/compare/ztcuui-aio-5.0.17...ztcuui-aio-5.1.0) (2023-12-21)
 
 ### Chore

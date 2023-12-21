@@ -2,6 +2,15 @@
 
 
 
+## [unturned-4.0.3](https://github.com/truecharts/charts/compare/unturned-4.0.2...unturned-4.0.3) (2023-12-21)
+
+### Chore
+
+- bump everything to ensure patches are applied globally
+  
+  
+
+
 ## [unturned-4.0.2](https://github.com/truecharts/charts/compare/unturned-4.0.1...unturned-4.0.2) (2023-12-21)
 
 ### Chore
