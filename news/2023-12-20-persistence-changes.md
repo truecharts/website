@@ -25,7 +25,7 @@ We highly suggest not updating to the new breaking changes until a few weeks hav
 
 **Helm**
 
-- General: Anything using a statefullset (that includes things using statefullsets as a dependency) will need you to manually remove the statefullset before update
+- General: Anything using a statefullset with a VolumeClaimTemplate (that includes things using statefullsets as a dependency) will need you to manually remove either the statefullset dependency or its VCT before update
 - Ingress: Most of the certManager settings have been moved to "integrations".
 - Ingress: All of the Traefik settings have been moved to "integrations".
 - Ingress: It's advisable to apply the new structure from common values.yaml prior to upgrade: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
@@ -33,10 +33,8 @@ We highly suggest not updating to the new breaking changes until a few weeks hav
 
 **SCALE**
 
-- General: Anything using a statefullset (that includes things using statefullsets as a dependency) will need to be reinstalled.
+- General: Anything using a statefullset with a VolumeClaimTemplate (that includes things using statefullsets as a dependency) will need to be reinstalled.
 - Ingress: Most of the cert-manager settings have been moved to "integrations" and they are reset.
 - Ingress: All of the Traefik settings have been moved to "integrations" and they are reset.
 - Ingress: This means you likely will lose TLS and security middlewares after the update, until adapted.
-- CNPG: You might need to manually enter `256Gi` as storage size in the GUI
-- CNPG: Instance number and storage size have been moved and reset to defaults.
-- CNPG: The other features should not be touched during migration.
+- CNPG: If present in the old GUI, Instance number and storage size have been moved and reset to defaults.
