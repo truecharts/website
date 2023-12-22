@@ -2,6 +2,15 @@
 
 
 
+## [cyberchef-7.0.6](https://github.com/truecharts/charts/compare/cyberchef-7.0.5...cyberchef-7.0.6) (2023-12-22)
+
+### Chore
+
+- update helm general non-major by renovate ([#16359](https://github.com/truecharts/charts/issues/16359))
+  
+  
+
+
 ## [cyberchef-7.0.5](https://github.com/truecharts/charts/compare/cyberchef-7.0.4...cyberchef-7.0.5) (2023-12-22)
 
 ### Fix

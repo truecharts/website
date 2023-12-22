@@ -2,6 +2,15 @@
 
 
 
+## [flame-3.0.12](https://github.com/truecharts/charts/compare/flame-3.0.11...flame-3.0.12) (2023-12-22)
+
+### Chore
+
+- update helm general non-major by renovate ([#16359](https://github.com/truecharts/charts/issues/16359))
+  
+  
+
+
 ## [flame-3.0.11](https://github.com/truecharts/charts/compare/flame-3.0.10...flame-3.0.11) (2023-12-22)
 
 ### Fix

@@ -1,6 +1,6 @@
 # pvk-ii
 
-![Version: 3.0.11](https://img.shields.io/badge/Version-3.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: pvkii](https://img.shields.io/badge/AppVersion-pvkii-informational?style=flat-square)
+![Version: 3.0.12](https://img.shields.io/badge/Version-3.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: pvkii](https://img.shields.io/badge/AppVersion-pvkii-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Pirates, Vikings &amp; Knights 2 and run it.
 

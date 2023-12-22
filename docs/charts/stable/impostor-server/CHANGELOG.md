@@ -2,6 +2,15 @@
 
 
 
+## [impostor-server-6.0.6](https://github.com/truecharts/charts/compare/impostor-server-6.0.5...impostor-server-6.0.6) (2023-12-22)
+
+### Chore
+
+- update helm general non-major by renovate ([#16359](https://github.com/truecharts/charts/issues/16359))
+  
+  
+
+
 ## [impostor-server-6.0.5](https://github.com/truecharts/charts/compare/impostor-server-6.0.4...impostor-server-6.0.5) (2023-12-22)
 
 ### Fix

@@ -1,6 +1,6 @@
 # lidarr
 
-![Version: 18.0.5](https://img.shields.io/badge/Version-18.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.0.3856](https://img.shields.io/badge/AppVersion-2.1.0.3856-informational?style=flat-square)
+![Version: 18.0.6](https://img.shields.io/badge/Version-18.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.0.3856](https://img.shields.io/badge/AppVersion-2.1.0.3856-informational?style=flat-square)
 
 Looks and smells like Sonarr but made for music
 

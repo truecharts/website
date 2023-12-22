@@ -2,6 +2,15 @@
 
 
 
+## [csi-driver-smb-1.0.14](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.13...csi-driver-smb-1.0.14) (2023-12-22)
+
+### Chore
+
+- update helm general non-major by renovate ([#16359](https://github.com/truecharts/charts/issues/16359))
+  
+  
+
+
 ## [csi-driver-smb-1.0.13](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.12...csi-driver-smb-1.0.13) (2023-12-22)
 
 ### Fix

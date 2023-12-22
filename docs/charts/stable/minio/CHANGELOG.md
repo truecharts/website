@@ -2,6 +2,15 @@
 
 
 
+## [minio-8.0.7](https://github.com/truecharts/charts/compare/minio-8.0.6...minio-8.0.7) (2023-12-22)
+
+### Chore
+
+- update helm general non-major by renovate ([#16359](https://github.com/truecharts/charts/issues/16359))
+  
+  
+
+
 ## [minio-8.0.6](https://github.com/truecharts/charts/compare/minio-8.0.5...minio-8.0.6) (2023-12-22)
 
 ### Fix

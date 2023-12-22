@@ -2,6 +2,15 @@
 
 
 
+## [borg-server-2.0.6](https://github.com/truecharts/charts/compare/borg-server-2.0.5...borg-server-2.0.6) (2023-12-22)
+
+### Chore
+
+- update helm general non-major by renovate ([#16359](https://github.com/truecharts/charts/issues/16359))
+  
+  
+
+
 ## [borg-server-2.0.5](https://github.com/truecharts/charts/compare/borg-server-2.0.4...borg-server-2.0.5) (2023-12-22)
 
 ### Fix
