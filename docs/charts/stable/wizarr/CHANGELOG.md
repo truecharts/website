@@ -2,6 +2,15 @@
 
 
 
+## [wizarr-4.0.5](https://github.com/truecharts/charts/compare/wizarr-4.0.4...wizarr-4.0.5) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [wizarr-4.0.4](https://github.com/truecharts/charts/compare/wizarr-4.0.3...wizarr-4.0.4) (2023-12-21)
 
 ### Fix

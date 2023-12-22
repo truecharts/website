@@ -2,6 +2,15 @@
 
 
 
+## [valheim-8.0.5](https://github.com/truecharts/charts/compare/valheim-8.0.4...valheim-8.0.5) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [valheim-8.0.4](https://github.com/truecharts/charts/compare/valheim-8.0.3...valheim-8.0.4) (2023-12-21)
 
 ### Fix

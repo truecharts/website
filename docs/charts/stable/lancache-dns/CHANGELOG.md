@@ -2,6 +2,15 @@
 
 
 
+## [lancache-dns-6.0.5](https://github.com/truecharts/charts/compare/lancache-dns-6.0.4...lancache-dns-6.0.5) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [lancache-dns-6.0.4](https://github.com/truecharts/charts/compare/lancache-dns-6.0.3...lancache-dns-6.0.4) (2023-12-21)
 
 ### Fix

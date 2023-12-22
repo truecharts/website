@@ -2,6 +2,15 @@
 
 
 
+## [openebs-1.1.6](https://github.com/truecharts/charts/compare/openebs-1.1.5...openebs-1.1.6) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [openebs-1.1.5](https://github.com/truecharts/charts/compare/openebs-1.1.4...openebs-1.1.5) (2023-12-21)
 
 ### Fix

@@ -2,6 +2,15 @@
 
 
 
+## [openspeedtest-6.0.5](https://github.com/truecharts/charts/compare/openspeedtest-6.0.4...openspeedtest-6.0.5) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [openspeedtest-6.0.4](https://github.com/truecharts/charts/compare/openspeedtest-6.0.3...openspeedtest-6.0.4) (2023-12-21)
 
 ### Fix

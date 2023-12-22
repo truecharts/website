@@ -2,6 +2,15 @@
 
 
 
+## [cleanarr-3.0.9](https://github.com/truecharts/charts/compare/cleanarr-3.0.8...cleanarr-3.0.9) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [cleanarr-3.0.8](https://github.com/truecharts/charts/compare/cleanarr-3.0.7...cleanarr-3.0.8) (2023-12-21)
 
 ### Fix

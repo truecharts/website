@@ -2,6 +2,15 @@
 
 
 
+## [csi-driver-smb-1.0.13](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.12...csi-driver-smb-1.0.13) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [csi-driver-smb-1.0.12](https://github.com/truecharts/charts/compare/csi-driver-smb-1.0.11...csi-driver-smb-1.0.12) (2023-12-21)
 
 ### Fix

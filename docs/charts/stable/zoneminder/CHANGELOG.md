@@ -2,6 +2,15 @@
 
 
 
+## [zoneminder-3.0.11](https://github.com/truecharts/charts/compare/zoneminder-3.0.10...zoneminder-3.0.11) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [zoneminder-3.0.10](https://github.com/truecharts/charts/compare/zoneminder-3.0.9...zoneminder-3.0.10) (2023-12-21)
 
 ### Fix

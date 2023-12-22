@@ -2,6 +2,15 @@
 
 
 
+## [minecraft-java-6.0.5](https://github.com/truecharts/charts/compare/minecraft-java-6.0.4...minecraft-java-6.0.5) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [minecraft-java-6.0.4](https://github.com/truecharts/charts/compare/minecraft-java-6.0.3...minecraft-java-6.0.4) (2023-12-21)
 
 ### Fix

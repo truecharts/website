@@ -2,6 +2,15 @@
 
 
 
+## [euterpe-4.0.9](https://github.com/truecharts/charts/compare/euterpe-4.0.8...euterpe-4.0.9) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [euterpe-4.0.8](https://github.com/truecharts/charts/compare/euterpe-4.0.7...euterpe-4.0.8) (2023-12-21)
 
 ### Fix

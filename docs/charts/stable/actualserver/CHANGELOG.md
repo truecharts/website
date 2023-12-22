@@ -2,6 +2,15 @@
 
 
 
+## [actualserver-6.0.5](https://github.com/truecharts/charts/compare/actualserver-6.0.4...actualserver-6.0.5) (2023-12-22)
+
+### Fix
+
+- expose custom options for homepage integration
+  
+  
+
+
 ## [actualserver-6.0.4](https://github.com/truecharts/charts/compare/actualserver-6.0.3...actualserver-6.0.4) (2023-12-21)
 
 ### Fix

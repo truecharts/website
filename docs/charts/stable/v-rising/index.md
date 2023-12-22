@@ -1,6 +1,6 @@
 # v-rising
 
-![Version: 3.0.10](https://img.shields.io/badge/Version-3.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: rising](https://img.shields.io/badge/AppVersion-rising-informational?style=flat-square)
+![Version: 3.0.11](https://img.shields.io/badge/Version-3.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: rising](https://img.shields.io/badge/AppVersion-rising-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install V Rising and run it.
 
