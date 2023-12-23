@@ -14,7 +14,7 @@ A number of new storage options are being released. These are all optional and s
 
 Our Cloudnative-PG backend has been completely rewritten. This should provide more stability, but also carries the risk of introducing new bugs.
 
-### Migration Steps
+## Required Migration Steps
 
 We highly suggest not updating to the new breaking changes until a few weeks have passed. However, if you want to update, here are the instructions:
 
@@ -37,6 +37,7 @@ We highly suggest not updating to the new breaking changes until a few weeks hav
 - Ingress: All of the Traefik settings have been moved to "integrations" and they are reset.
 - Ingress: This means you likely will lose TLS and security middlewares after the update, until adapted.
 - CNPG: If present in the old GUI, Instance number and storage size have been moved and reset to defaults.
+- Traefik: After updating, you will need to check a checkbox at the bottom, with a warning confirmation, before you will be able to do any further updates or edits.
 
 ### Stateful Set Instructions
 
