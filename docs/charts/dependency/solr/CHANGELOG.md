@@ -2,6 +2,15 @@
 
 
 
+## [solr-8.0.14](https://github.com/truecharts/charts/compare/solr-8.0.13...solr-8.0.14) (2023-12-23)
+
+### Chore
+
+- update helm chart common to 16.2.17 by renovate ([#16372](https://github.com/truecharts/charts/issues/16372))
+  
+  
+
+
 ## [solr-8.0.13](https://github.com/truecharts/charts/compare/solr-8.0.12...solr-8.0.13) (2023-12-23)
 
 ### Chore
