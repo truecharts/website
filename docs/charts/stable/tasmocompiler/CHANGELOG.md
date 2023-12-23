@@ -2,6 +2,15 @@
 
 
 
+## [tasmocompiler-4.0.9](https://github.com/truecharts/charts/compare/tasmocompiler-4.0.8...tasmocompiler-4.0.9) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16373](https://github.com/truecharts/charts/issues/16373))
+  
+  
+
+
 ## [tasmocompiler-4.0.8](https://github.com/truecharts/charts/compare/tasmocompiler-4.0.7...tasmocompiler-4.0.8) (2023-12-23)
 
 ### Chore

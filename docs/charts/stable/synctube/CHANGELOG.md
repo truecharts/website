@@ -2,6 +2,15 @@
 
 
 
+## [synctube-5.0.9](https://github.com/truecharts/charts/compare/synctube-5.0.8...synctube-5.0.9) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16373](https://github.com/truecharts/charts/issues/16373))
+  
+  
+
+
 ## [synctube-5.0.8](https://github.com/truecharts/charts/compare/synctube-5.0.7...synctube-5.0.8) (2023-12-23)
 
 ### Chore

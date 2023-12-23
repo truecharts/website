@@ -2,6 +2,15 @@
 
 
 
+## [homepage-5.0.9](https://github.com/truecharts/charts/compare/homepage-5.0.8...homepage-5.0.9) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16373](https://github.com/truecharts/charts/issues/16373))
+  
+  
+
+
 ## [homepage-5.0.8](https://github.com/truecharts/charts/compare/homepage-5.0.7...homepage-5.0.8) (2023-12-23)
 
 ### Chore

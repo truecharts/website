@@ -1,6 +1,6 @@
 # postscriptum
 
-![Version: 3.0.14](https://img.shields.io/badge/Version-3.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: postscriptum](https://img.shields.io/badge/AppVersion-postscriptum-informational?style=flat-square)
+![Version: 3.0.15](https://img.shields.io/badge/Version-3.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: postscriptum](https://img.shields.io/badge/AppVersion-postscriptum-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install PostScriptum and run it.
 

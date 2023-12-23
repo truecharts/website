@@ -2,6 +2,15 @@
 
 
 
+## [pasta-6.0.9](https://github.com/truecharts/charts/compare/pasta-6.0.8...pasta-6.0.9) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16373](https://github.com/truecharts/charts/issues/16373))
+  
+  
+
+
 ## [pasta-6.0.8](https://github.com/truecharts/charts/compare/pasta-6.0.7...pasta-6.0.8) (2023-12-23)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [rickroll-4.0.9](https://github.com/truecharts/charts/compare/rickroll-4.0.8...rickroll-4.0.9) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16373](https://github.com/truecharts/charts/issues/16373))
+  
+  
+
+
 ## [rickroll-4.0.8](https://github.com/truecharts/charts/compare/rickroll-4.0.7...rickroll-4.0.8) (2023-12-23)
 
 ### Chore

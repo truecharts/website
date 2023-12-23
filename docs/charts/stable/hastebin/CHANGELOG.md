@@ -2,6 +2,15 @@
 
 
 
+## [hastebin-3.0.15](https://github.com/truecharts/charts/compare/hastebin-3.0.14...hastebin-3.0.15) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16373](https://github.com/truecharts/charts/issues/16373))
+  
+  
+
+
 ## [hastebin-3.0.14](https://github.com/truecharts/charts/compare/hastebin-3.0.13...hastebin-3.0.14) (2023-12-23)
 
 ### Chore
