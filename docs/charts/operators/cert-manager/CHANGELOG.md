@@ -2,6 +2,15 @@
 
 
 
+## [cert-manager-2.0.8](https://github.com/truecharts/charts/compare/cert-manager-2.0.7...cert-manager-2.0.8) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16369](https://github.com/truecharts/charts/issues/16369))
+  
+  
+
+
 ## [cert-manager-2.0.7](https://github.com/truecharts/charts/compare/cert-manager-2.0.6...cert-manager-2.0.7) (2023-12-23)
 
 ### Chore

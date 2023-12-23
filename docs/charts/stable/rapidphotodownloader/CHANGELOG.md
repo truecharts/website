@@ -2,6 +2,15 @@
 
 
 
+## [rapidphotodownloader-3.0.14](https://github.com/truecharts/charts/compare/rapidphotodownloader-3.0.13...rapidphotodownloader-3.0.14) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16369](https://github.com/truecharts/charts/issues/16369))
+  
+  
+
+
 ## [rapidphotodownloader-3.0.13](https://github.com/truecharts/charts/compare/rapidphotodownloader-3.0.12...rapidphotodownloader-3.0.13) (2023-12-23)
 
 ### Chore

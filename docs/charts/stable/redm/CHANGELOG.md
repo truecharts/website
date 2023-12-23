@@ -2,6 +2,15 @@
 
 
 
+## [redm-3.0.14](https://github.com/truecharts/charts/compare/redm-3.0.13...redm-3.0.14) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16369](https://github.com/truecharts/charts/issues/16369))
+  
+  
+
+
 ## [redm-3.0.13](https://github.com/truecharts/charts/compare/redm-3.0.12...redm-3.0.13) (2023-12-23)
 
 ### Chore

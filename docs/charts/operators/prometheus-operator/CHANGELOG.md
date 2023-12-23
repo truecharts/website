@@ -2,6 +2,15 @@
 
 
 
+## [prometheus-operator-2.0.9](https://github.com/truecharts/charts/compare/prometheus-operator-2.0.8...prometheus-operator-2.0.9) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16369](https://github.com/truecharts/charts/issues/16369))
+  
+  
+
+
 ## [prometheus-operator-2.0.8](https://github.com/truecharts/charts/compare/prometheus-operator-2.0.7...prometheus-operator-2.0.8) (2023-12-23)
 
 ### Chore

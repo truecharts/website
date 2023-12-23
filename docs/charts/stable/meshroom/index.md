@@ -1,6 +1,6 @@
 # meshroom
 
-![Version: 7.0.7](https://img.shields.io/badge/Version-7.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.1.0](https://img.shields.io/badge/AppVersion-2021.1.0-informational?style=flat-square)
+![Version: 7.0.8](https://img.shields.io/badge/Version-7.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.1.0](https://img.shields.io/badge/AppVersion-2021.1.0-informational?style=flat-square)
 
 Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision Photogrammetric Computer Vision framework.
 
