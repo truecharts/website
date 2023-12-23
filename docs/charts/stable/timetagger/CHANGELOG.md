@@ -2,6 +2,15 @@
 
 
 
+## [timetagger-3.0.14](https://github.com/truecharts/charts/compare/timetagger-3.0.13...timetagger-3.0.14) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16361](https://github.com/truecharts/charts/issues/16361))
+  
+  
+
+
 ## [timetagger-3.0.13](https://github.com/truecharts/charts/compare/timetagger-3.0.12...timetagger-3.0.13) (2023-12-22)
 
 ### Chore

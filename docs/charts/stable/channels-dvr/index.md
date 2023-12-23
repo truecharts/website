@@ -1,13 +1,13 @@
 # channels-dvr
 
-![Version: 4.0.6](https://img.shields.io/badge/Version-4.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.0.7](https://img.shields.io/badge/Version-4.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Channels DVR Server
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/channels-dvr
 - https://hub.docker.com/r/fancybits/channels-dvr
+- https://github.com/truecharts/charts/tree/master/charts/stable/channels-dvr
 
 ## Available Documentation
 

@@ -1,14 +1,14 @@
 # vlmcsd-kms-server
 
-![Version: 3.0.12](https://img.shields.io/badge/Version-3.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.13](https://img.shields.io/badge/Version-3.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 vlmcsd is a replacement for Microsoft's KMS server.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/mikolatero/vlmcsd
 - https://github.com/mikolatero/docker-vlmcsd
 - https://github.com/truecharts/charts/tree/master/charts/incubator/vlmcsd-kms-server
+- https://hub.docker.com/r/mikolatero/vlmcsd
 
 ## Available Documentation
 

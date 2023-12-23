@@ -2,6 +2,15 @@
 
 
 
+## [spaceengineers-4.0.7](https://github.com/truecharts/charts/compare/spaceengineers-4.0.6...spaceengineers-4.0.7) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16361](https://github.com/truecharts/charts/issues/16361))
+  
+  
+
+
 ## [spaceengineers-4.0.6](https://github.com/truecharts/charts/compare/spaceengineers-4.0.5...spaceengineers-4.0.6) (2023-12-22)
 
 ### Chore

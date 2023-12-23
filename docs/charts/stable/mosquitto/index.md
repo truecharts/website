@@ -1,14 +1,14 @@
 # mosquitto
 
-![Version: 12.0.7](https://img.shields.io/badge/Version-12.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.18](https://img.shields.io/badge/AppVersion-2.0.18-informational?style=flat-square)
+![Version: 12.0.8](https://img.shields.io/badge/Version-12.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.18](https://img.shields.io/badge/AppVersion-2.0.18-informational?style=flat-square)
 
 Eclipse Mosquitto - An open source MQTT broker
 
 ## Chart Sources
 
-- https://hub.docker.com/_/eclipse-mosquitto
 - https://github.com/eclipse/mosquitto
 - https://github.com/truecharts/charts/tree/master/charts/stable/mosquitto
+- https://hub.docker.com/_/eclipse-mosquitto
 
 ## Available Documentation
 

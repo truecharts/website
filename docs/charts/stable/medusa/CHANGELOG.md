@@ -2,6 +2,15 @@
 
 
 
+## [medusa-8.0.7](https://github.com/truecharts/charts/compare/medusa-8.0.6...medusa-8.0.7) (2023-12-23)
+
+### Chore
+
+- update helm general non-major by renovate ([#16361](https://github.com/truecharts/charts/issues/16361))
+  
+  
+
+
 ## [medusa-8.0.6](https://github.com/truecharts/charts/compare/medusa-8.0.5...medusa-8.0.6) (2023-12-22)
 
 ### Chore

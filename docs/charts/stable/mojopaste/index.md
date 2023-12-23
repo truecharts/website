@@ -1,14 +1,14 @@
 # mojopaste
 
-![Version: 3.0.12](https://img.shields.io/badge/Version-3.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.13](https://img.shields.io/badge/Version-3.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Mojopaste is a pastebin application. There's about one million of these out there, but if you have the need to run something internally at work or you just fancy having your own pastebin, this is your application.
 
 ## Chart Sources
 
+- https://github.com/jhthorsen/app-mojopaste
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mojopaste
 - https://hub.docker.com/r/jhthorsen/mojopaste
-- https://github.com/jhthorsen/app-mojopaste
 
 ## Available Documentation
 

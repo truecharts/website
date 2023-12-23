@@ -1,14 +1,14 @@
 # nzbget
 
-![Version: 16.0.6](https://img.shields.io/badge/Version-16.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "21.1"](https://img.shields.io/badge/AppVersion-"21.1"-informational?style=flat-square)
+![Version: 16.0.7](https://img.shields.io/badge/Version-16.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "21.1"](https://img.shields.io/badge/AppVersion-"21.1"-informational?style=flat-square)
 
 NZBGet is a Usenet downloader client
 
 ## Chart Sources
 
+- https://nzbget.net/
 - https://github.com/truecharts/charts/tree/master/charts/stable/nzbget
 - https://ghcr.io/geek-cookbook/nzbget
-- https://nzbget.net/
 
 ## Available Documentation
 

@@ -1,14 +1,14 @@
 # tvheadend
 
-![Version: 17.0.6](https://img.shields.io/badge/Version-17.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 17.0.7](https://img.shields.io/badge/Version-17.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 TVheadend - a TV streaming server and digital video recorder
 
 ## Chart Sources
 
+- https://github.com/tvheadend/tvheadend
 - https://github.com/truecharts/charts/tree/master/charts/stable/tvheadend
 - https://ghcr.io/linuxserver/tvheadend
-- https://github.com/tvheadend/tvheadend
 
 ## Available Documentation
 
