@@ -57,7 +57,7 @@ The setup of Traefik is relatively straight-forward. Most of the settings remain
     Change port `9443` to port `443`
 
 Continue to section 12, and select **Next**. Traefik will now be installed.
-After installation you can access the Traefik dashboard using your host IP address followed by `:9000`, or by simply clicking "Web Portal" on the application's entry under **Apps** > **Installed Applications**.
+After installation you can access the Traefik dashboard using your host IP address followed by `:9000/dashboard`, or by simply clicking "Open" on the application's entry under **Apps** > **Installed Applications**.
 
 ## Video Guide
 
