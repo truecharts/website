@@ -2,6 +2,15 @@
 
 
 
+## [openhab-7.0.10](https://github.com/truecharts/charts/compare/openhab-7.0.9...openhab-7.0.10) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16376](https://github.com/truecharts/charts/issues/16376))
+  
+  
+
+
 ## [openhab-7.0.9](https://github.com/truecharts/charts/compare/openhab-7.0.8...openhab-7.0.9) (2023-12-23)
 
 ### Chore

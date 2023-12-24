@@ -1,14 +1,14 @@
 # babybuddy
 
-![Version: 14.0.9](https://img.shields.io/badge/Version-14.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.2](https://img.shields.io/badge/AppVersion-2.1.2-informational?style=flat-square)
+![Version: 14.0.10](https://img.shields.io/badge/Version-14.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.2](https://img.shields.io/badge/AppVersion-2.1.2-informational?style=flat-square)
 
 Helps caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/babybuddy
 - https://github.com/babybuddy/babybuddy
 - https://github.com/truecharts/charts/tree/master/charts/stable/babybuddy
+- https://ghcr.io/linuxserver/babybuddy
 
 ## Available Documentation
 

@@ -2,6 +2,15 @@
 
 
 
+## [openebs-1.1.11](https://github.com/truecharts/charts/compare/openebs-1.1.10...openebs-1.1.11) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16376](https://github.com/truecharts/charts/issues/16376))
+  
+  
+
+
 ## [openebs-1.1.10](https://github.com/truecharts/charts/compare/openebs-1.1.9...openebs-1.1.10) (2023-12-23)
 
 ### Chore

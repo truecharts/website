@@ -1,16 +1,16 @@
 # blocky
 
-![Version: 10.0.10](https://img.shields.io/badge/Version-10.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.22"](https://img.shields.io/badge/AppVersion-"0.22"-informational?style=flat-square)
+![Version: 10.0.11](https://img.shields.io/badge/Version-10.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.22"](https://img.shields.io/badge/AppVersion-"0.22"-informational?style=flat-square)
 
 Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written in Go
 
 ## Chart Sources
 
+- https://0xerr0r.github.io/blocky/
 - https://github.com/truecharts/charts/tree/master/charts/enterprise/blocky
-- https://quay.io/oriedge/k8s_gateway
+- https://hub.docker.com/r/spx01/blocky
 - https://github.com/0xERR0R/blocky
 - https://github.com/Mozart409/blocky-frontend
-- https://0xerr0r.github.io/blocky/
 
 ## Available Documentation
 

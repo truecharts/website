@@ -1,6 +1,6 @@
 # s3backup
 
-![Version: 3.0.15](https://img.shields.io/badge/Version-3.0.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.0.16](https://img.shields.io/badge/Version-3.0.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A simple way to backup important files to Amazon S3 and Glacier.
 

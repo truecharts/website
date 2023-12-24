@@ -2,6 +2,15 @@
 
 
 
+## [opengl-desktop-g3-3.0.17](https://github.com/truecharts/charts/compare/opengl-desktop-g3-3.0.16...opengl-desktop-g3-3.0.17) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16376](https://github.com/truecharts/charts/issues/16376))
+  
+  
+
+
 ## [opengl-desktop-g3-3.0.16](https://github.com/truecharts/charts/compare/opengl-desktop-g3-3.0.15...opengl-desktop-g3-3.0.16) (2023-12-23)
 
 ### Chore

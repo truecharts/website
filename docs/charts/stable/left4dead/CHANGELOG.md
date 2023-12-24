@@ -2,6 +2,15 @@
 
 
 
+## [left4dead-3.0.16](https://github.com/truecharts/charts/compare/left4dead-3.0.15...left4dead-3.0.16) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16376](https://github.com/truecharts/charts/issues/16376))
+  
+  
+
+
 ## [left4dead-3.0.15](https://github.com/truecharts/charts/compare/left4dead-3.0.14...left4dead-3.0.15) (2023-12-23)
 
 ### Chore

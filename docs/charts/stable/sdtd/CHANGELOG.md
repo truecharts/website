@@ -2,6 +2,15 @@
 
 
 
+## [sdtd-5.0.16](https://github.com/truecharts/charts/compare/sdtd-5.0.15...sdtd-5.0.16) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16376](https://github.com/truecharts/charts/issues/16376))
+  
+  
+
+
 ## [sdtd-5.0.15](https://github.com/truecharts/charts/compare/sdtd-5.0.14...sdtd-5.0.15) (2023-12-23)
 
 ### Chore

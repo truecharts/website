@@ -2,6 +2,15 @@
 
 
 
+## [radicale-3.0.16](https://github.com/truecharts/charts/compare/radicale-3.0.15...radicale-3.0.16) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16376](https://github.com/truecharts/charts/issues/16376))
+  
+  
+
+
 ## [radicale-3.0.15](https://github.com/truecharts/charts/compare/radicale-3.0.14...radicale-3.0.15) (2023-12-23)
 
 ### Chore
