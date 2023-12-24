@@ -162,9 +162,11 @@ If your provider isn't supported by `Gluetun` then you can use a [custom provide
 
 To access the Gluetun logs do the following.
 
-1. Click the 3 dots on the app you are using with Gluetun.
+1. On the installed apps page, click the row for the app you are using with Gluetun.
 
-2. Select logs.
+2. In the Workloads pane on the right, click the "View Logs" icon (see image)
+
+![Gluteun VPN Log](img/Gluetun-vpn-log-icon.png)
 
 3. In the Containers dropdown select the log that ends with "-vpn".
 

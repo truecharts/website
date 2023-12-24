@@ -31,14 +31,15 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 To add TrueCharts to your SCALE installation:
 
  1. Go to **Apps** page from the top level SCALE menu
- 2. Select **Manage Catalogs** tab on the Apps page
- 3. Click **Add Catalog**
- 4. After reading the iXsystems notice, click **Continue** and enter the required information:
+ 2. Click **Discover Apps** button on the Apps page
+ 3. Click **Manage Catalogs** link on the Discover Apps page
+ 4. Click **Add Catalog**
+ 5. After reading the iXsystems notice, click **Continue** and enter the required information:
  Name: `truecharts`
  Repository: `https://github.com/truecharts/catalog`
  Preferred Trains: `enterprise`,`stable` and `operators` (type each one manually)
  Branch: `main`
- 5. Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
+ 6. Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
 Please view this video from the TrueNAS documentation website on adding [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog) if you need more info on the process.
 
