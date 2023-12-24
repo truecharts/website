@@ -2,6 +2,15 @@
 
 
 
+## [filezilla-9.0.11](https://github.com/truecharts/charts/compare/filezilla-9.0.10...filezilla-9.0.11) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16384](https://github.com/truecharts/charts/issues/16384))
+  
+  
+
+
 ## [filezilla-9.0.10](https://github.com/truecharts/charts/compare/filezilla-9.0.9...filezilla-9.0.10) (2023-12-24)
 
 ### Chore

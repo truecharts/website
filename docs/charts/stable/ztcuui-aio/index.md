@@ -1,6 +1,6 @@
 # ztcuui-aio
 
-![Version: 5.1.8](https://img.shields.io/badge/Version-5.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.5.2-r1](https://img.shields.io/badge/AppVersion-2023.5.2-r1-informational?style=flat-square)
+![Version: 5.1.9](https://img.shields.io/badge/Version-5.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.5.2-r1](https://img.shields.io/badge/AppVersion-2023.5.2-r1-informational?style=flat-square)
 
 ZeroTier network controller user interface in a Docker container
 

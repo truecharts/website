@@ -1,6 +1,6 @@
 # prometheus-operator
 
-![Version: 2.0.11](https://img.shields.io/badge/Version-2.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.69.1](https://img.shields.io/badge/AppVersion-0.69.1-informational?style=flat-square)
+![Version: 2.0.12](https://img.shields.io/badge/Version-2.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.69.1](https://img.shields.io/badge/AppVersion-0.69.1-informational?style=flat-square)
 
 Prometheus Operator is an operator for prometheus
 

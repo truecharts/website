@@ -2,6 +2,15 @@
 
 
 
+## [local-ai-7.0.11](https://github.com/truecharts/charts/compare/local-ai-7.0.10...local-ai-7.0.11) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16384](https://github.com/truecharts/charts/issues/16384))
+  
+  
+
+
 ## [local-ai-7.0.10](https://github.com/truecharts/charts/compare/local-ai-7.0.9...local-ai-7.0.10) (2023-12-24)
 
 ### Chore

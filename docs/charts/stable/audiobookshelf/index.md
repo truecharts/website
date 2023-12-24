@@ -1,6 +1,6 @@
 # audiobookshelf
 
-![Version: 7.0.10](https://img.shields.io/badge/Version-7.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.0](https://img.shields.io/badge/AppVersion-2.6.0-informational?style=flat-square)
+![Version: 7.0.11](https://img.shields.io/badge/Version-7.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.0](https://img.shields.io/badge/AppVersion-2.6.0-informational?style=flat-square)
 
 Audiobookshelf is a self-hosted audiobook server for managing and playing your audiobooks.
 

@@ -1,6 +1,6 @@
 # photoshow
 
-![Version: 8.0.10](https://img.shields.io/badge/Version-8.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ersion-48aabb98](https://img.shields.io/badge/AppVersion-ersion-48aabb98-informational?style=flat-square)
+![Version: 8.0.11](https://img.shields.io/badge/Version-8.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ersion-48aabb98](https://img.shields.io/badge/AppVersion-ersion-48aabb98-informational?style=flat-square)
 
 A gallery software at its easiest, it doesn't even require a database.
 

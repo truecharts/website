@@ -2,6 +2,15 @@
 
 
 
+## [preclear-3.0.17](https://github.com/truecharts/charts/compare/preclear-3.0.16...preclear-3.0.17) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16384](https://github.com/truecharts/charts/issues/16384))
+  
+  
+
+
 ## [preclear-3.0.16](https://github.com/truecharts/charts/compare/preclear-3.0.15...preclear-3.0.16) (2023-12-24)
 
 ### Chore

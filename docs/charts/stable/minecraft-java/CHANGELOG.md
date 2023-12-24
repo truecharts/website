@@ -2,6 +2,15 @@
 
 
 
+## [minecraft-java-6.0.11](https://github.com/truecharts/charts/compare/minecraft-java-6.0.10...minecraft-java-6.0.11) (2023-12-24)
+
+### Chore
+
+- update helm general non-major by renovate ([#16384](https://github.com/truecharts/charts/issues/16384))
+  
+  
+
+
 ## [minecraft-java-6.0.10](https://github.com/truecharts/charts/compare/minecraft-java-6.0.9...minecraft-java-6.0.10) (2023-12-24)
 
 ### Chore
