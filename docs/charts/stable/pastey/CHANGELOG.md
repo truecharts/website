@@ -2,6 +2,15 @@
 
 
 
+## [pastey-5.0.0](https://github.com/truecharts/charts/compare/pastey-4.0.12...pastey-5.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [pastey-4.0.12](https://github.com/truecharts/charts/compare/pastey-4.0.11...pastey-4.0.12) (2023-12-24)
 
 ### Chore

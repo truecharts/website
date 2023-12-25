@@ -2,6 +2,15 @@
 
 
 
+## [fluidd-8.0.0](https://github.com/truecharts/charts/compare/fluidd-7.0.12...fluidd-8.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [fluidd-7.0.12](https://github.com/truecharts/charts/compare/fluidd-7.0.11...fluidd-7.0.12) (2023-12-25)
 
 ### Chore

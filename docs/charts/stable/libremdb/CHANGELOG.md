@@ -2,6 +2,33 @@
 
 
 
+## [libremdb-5.0.1](https://github.com/truecharts/charts/compare/libremdb-5.0.0...libremdb-5.0.1) (2023-12-25)
+
+### Chore
+
+- update container image quay.io/pussthecatorg/libremdb to latest[@5d6a37e](https://github.com/5d6a37e) by renovate ([#16535](https://github.com/truecharts/charts/issues/16535))
+  
+  
+
+
+## [libremdb-5.0.0](https://github.com/truecharts/charts/compare/libremdb-4.0.13...libremdb-5.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
+## [libremdb-4.0.13](https://github.com/truecharts/charts/compare/libremdb-4.0.12...libremdb-4.0.13) (2023-12-25)
+
+### Chore
+
+- update container image quay.io/pussthecatorg/libremdb to latest[@531c2f3](https://github.com/531c2f3) by renovate ([#16445](https://github.com/truecharts/charts/issues/16445))
+  
+  
+
+
 ## [libremdb-4.0.12](https://github.com/truecharts/charts/compare/libremdb-4.0.11...libremdb-4.0.12) (2023-12-24)
 
 ### Chore

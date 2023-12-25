@@ -2,6 +2,24 @@
 
 
 
+## [external-service-12.0.1](https://github.com/truecharts/charts/compare/external-service-12.0.0...external-service-12.0.1) (2023-12-25)
+
+### Chore
+
+- use the templates on the UI ([#16541](https://github.com/truecharts/charts/issues/16541))
+  
+  
+
+
+## [external-service-12.0.0](https://github.com/truecharts/charts/compare/external-service-11.0.12...external-service-12.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [external-service-11.0.12](https://github.com/truecharts/charts/compare/external-service-11.0.11...external-service-11.0.12) (2023-12-24)
 
 ### Chore

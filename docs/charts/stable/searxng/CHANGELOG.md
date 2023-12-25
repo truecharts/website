@@ -2,6 +2,15 @@
 
 
 
+## [searxng-6.0.0](https://github.com/truecharts/charts/compare/searxng-5.0.13...searxng-6.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [searxng-5.0.13](https://github.com/truecharts/charts/compare/searxng-5.0.12...searxng-5.0.13) (2023-12-25)
 
 ### Chore

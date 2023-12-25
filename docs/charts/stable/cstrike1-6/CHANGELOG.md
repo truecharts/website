@@ -2,6 +2,15 @@
 
 
 
+## [cstrike1-6-4.0.0](https://github.com/truecharts/charts/compare/cstrike1-6-3.0.17...cstrike1-6-4.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [cstrike1-6-3.0.17](https://github.com/truecharts/charts/compare/cstrike1-6-3.0.16...cstrike1-6-3.0.17) (2023-12-24)
 
 ### Chore

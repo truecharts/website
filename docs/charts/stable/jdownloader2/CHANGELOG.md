@@ -2,6 +2,24 @@
 
 
 
+## [jdownloader2-14.0.1](https://github.com/truecharts/charts/compare/jdownloader2-14.0.0...jdownloader2-14.0.1) (2023-12-25)
+
+### Fix
+
+- homepage widget ([#16543](https://github.com/truecharts/charts/issues/16543))
+  
+  
+
+
+## [jdownloader2-14.0.0](https://github.com/truecharts/charts/compare/jdownloader2-13.0.11...jdownloader2-14.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [jdownloader2-13.0.11](https://github.com/truecharts/charts/compare/jdownloader2-13.0.10...jdownloader2-13.0.11) (2023-12-24)
 
 ### Chore

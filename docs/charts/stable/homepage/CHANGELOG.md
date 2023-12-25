@@ -2,6 +2,24 @@
 
 
 
+## [homepage-6.1.0](https://github.com/truecharts/charts/compare/homepage-6.0.0...homepage-6.1.0) (2023-12-25)
+
+### Feat
+
+- always enable kubernetes config ([#16537](https://github.com/truecharts/charts/issues/16537))
+  
+  
+
+
+## [homepage-6.0.0](https://github.com/truecharts/charts/compare/homepage-5.0.12...homepage-6.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [homepage-5.0.12](https://github.com/truecharts/charts/compare/homepage-5.0.11...homepage-5.0.12) (2023-12-24)
 
 ### Chore

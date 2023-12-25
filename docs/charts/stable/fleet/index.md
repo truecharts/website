@@ -1,6 +1,6 @@
 # fleet
 
-![Version: 9.0.12](https://img.shields.io/badge/Version-9.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.3](https://img.shields.io/badge/AppVersion-2.3.3-informational?style=flat-square)
+![Version: 10.0.0](https://img.shields.io/badge/Version-10.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.3](https://img.shields.io/badge/AppVersion-2.3.3-informational?style=flat-square)
 
 Fleet provides an online web interface which displays a set of maintained images from one or more owned repositories.
 
