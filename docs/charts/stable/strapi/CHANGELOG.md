@@ -2,6 +2,15 @@
 
 
 
+## [strapi-12.0.0](https://github.com/truecharts/charts/compare/strapi-11.1.4...strapi-12.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [strapi-11.1.4](https://github.com/truecharts/charts/compare/strapi-11.1.3...strapi-11.1.4) (2023-12-24)
 
 ### Chore

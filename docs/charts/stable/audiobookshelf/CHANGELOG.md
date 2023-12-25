@@ -2,6 +2,15 @@
 
 
 
+## [audiobookshelf-8.0.0](https://github.com/truecharts/charts/compare/audiobookshelf-7.1.0...audiobookshelf-8.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [audiobookshelf-7.1.0](https://github.com/truecharts/charts/compare/audiobookshelf-7.0.11...audiobookshelf-7.1.0) (2023-12-25)
 
 ### Chore

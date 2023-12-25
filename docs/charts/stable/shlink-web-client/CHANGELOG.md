@@ -2,6 +2,15 @@
 
 
 
+## [shlink-web-client-9.0.0](https://github.com/truecharts/charts/compare/shlink-web-client-8.0.11...shlink-web-client-9.0.0) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
+  
+  
+
+
 ## [shlink-web-client-8.0.11](https://github.com/truecharts/charts/compare/shlink-web-client-8.0.10...shlink-web-client-8.0.11) (2023-12-24)
 
 ### Chore

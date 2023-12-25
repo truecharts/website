@@ -1,6 +1,6 @@
 # metube
 
-![Version: 9.0.11](https://img.shields.io/badge/Version-9.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2023-12-13"](https://img.shields.io/badge/AppVersion-"2023-12-13"-informational?style=flat-square)
+![Version: 10.0.0](https://img.shields.io/badge/Version-10.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2023-12-13"](https://img.shields.io/badge/AppVersion-"2023-12-13"-informational?style=flat-square)
 
 Web GUI for youtube-dl.
 
