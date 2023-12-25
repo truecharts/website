@@ -2,6 +2,15 @@
 
 
 
+## [node-exporter-6.0.1](https://github.com/truecharts/charts/compare/node-exporter-6.0.0...node-exporter-6.0.1) (2023-12-25)
+
+### Chore
+
+- update helm chart common to 17.1.1 by renovate ([#16536](https://github.com/truecharts/charts/issues/16536))
+  
+  
+
+
 ## [node-exporter-6.0.0](https://github.com/truecharts/charts/compare/node-exporter-5.0.18...node-exporter-6.0.0) (2023-12-25)
 
 ### Chore
