@@ -1,14 +1,17 @@
 ---
 slug: "homepage-integration"
-title: "Introducing Homepage integration"
+title: "Introducing Homepage Integration"
 authors: [shadofall]
 ---
-We are happy to announce that we have completed adding the integration of Homepage in to our charts
 
-When you enable integrations for Homepage in your application deployment. and install Homepage. you can follow our guide [Homepage guide](https://truecharts.org/charts/stable/homepage/hp-integration/) to enable k8s support in homepage. with this you will be able to see your applications and their status in a customizable dashboard that you can organize and and arrange the applications using the code-server addon to edit the various yaml files
+We are delighted to announce the successful integration of Homepage into our charts.
 
-Don't forget to checkout the Homepage project site [Here](https://gethomepage.dev)
+To fully utilize this new feature, there are two initial steps that need to be performed: installing Homepage on your system and enabling integrations for Homepage in application deployments for the apps you want to show. Our comprehensive [Homepage Integration Guide](https://truecharts.org/charts/stable/homepage/hp-integration/) provides detailed instructions for both of these processes, ensuring a smooth setup.
 
-Here's a small example with a mix of manually defined and TrueCharts integration options for Homepage 
+Once these steps are completed, you can activate Kubernetes support in Homepage. This allows you to view your applications and their statuses on a customizable dashboard. Additionally, the code-server addon can be used to organize and arrange applications by editing various YAML files.
+
+Don't forget to check out the [Homepage project site](https://gethomepage.dev).
+
+Here's a small example showcasing a mix of manually defined options and TrueCharts integration features for Homepage:
 
 ![Homepage](img/image.png)
