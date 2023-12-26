@@ -11,6 +11,15 @@
   
 
 
+## [wekan-13.0.0](https://github.com/truecharts/charts/compare/wekan-12.0.0...wekan-13.0.0) (2023-12-26)
+
+### Chore
+
+- update helm general major by renovate (major) ([#16547](https://github.com/truecharts/charts/issues/16547))
+  
+  
+
+
 ## [wekan-12.0.0](https://github.com/truecharts/charts/compare/wekan-11.0.12...wekan-12.0.0) (2023-12-25)
 
 ### Chore

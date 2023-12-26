@@ -11,6 +11,15 @@
   
 
 
+## [prometheus-16.0.0](https://github.com/truecharts/charts/compare/prometheus-15.0.0...prometheus-16.0.0) (2023-12-26)
+
+### Chore
+
+- update helm general major by renovate (major) ([#16547](https://github.com/truecharts/charts/issues/16547))
+  
+  
+
+
 ## [prometheus-15.0.0](https://github.com/truecharts/charts/compare/prometheus-14.0.12...prometheus-15.0.0) (2023-12-25)
 
 ### Chore
