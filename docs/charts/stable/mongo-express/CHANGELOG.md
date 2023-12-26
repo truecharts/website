@@ -2,6 +2,15 @@
 
 
 
+## [mongo-express-5.0.1](https://github.com/truecharts/charts/compare/mongo-express-5.0.0...mongo-express-5.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [mongo-express-5.0.0](https://github.com/truecharts/charts/compare/mongo-express-4.0.0...mongo-express-5.0.0) (2023-12-26)
 
 ### Chore

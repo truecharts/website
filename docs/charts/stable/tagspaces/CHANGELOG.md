@@ -2,6 +2,15 @@
 
 
 
+## [tagspaces-2.0.1](https://github.com/truecharts/charts/compare/tagspaces-2.0.0...tagspaces-2.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [tagspaces-2.0.0](https://github.com/truecharts/charts/compare/tagspaces-1.0.11...tagspaces-2.0.0) (2023-12-25)
 
 ### Chore

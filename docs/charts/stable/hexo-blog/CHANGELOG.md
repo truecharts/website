@@ -2,6 +2,15 @@
 
 
 
+## [hexo-blog-4.0.1](https://github.com/truecharts/charts/compare/hexo-blog-4.0.0...hexo-blog-4.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [hexo-blog-4.0.0](https://github.com/truecharts/charts/compare/hexo-blog-3.0.17...hexo-blog-4.0.0) (2023-12-25)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [tailscale-7.0.1](https://github.com/truecharts/charts/compare/tailscale-7.0.0...tailscale-7.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [tailscale-7.0.0](https://github.com/truecharts/charts/compare/tailscale-6.0.12...tailscale-7.0.0) (2023-12-25)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [miniflux-13.0.1](https://github.com/truecharts/charts/compare/miniflux-13.0.0...miniflux-13.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [miniflux-13.0.0](https://github.com/truecharts/charts/compare/miniflux-12.0.20...miniflux-13.0.0) (2023-12-25)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [sftpgo-5.0.1](https://github.com/truecharts/charts/compare/sftpgo-5.0.0...sftpgo-5.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [sftpgo-5.0.0](https://github.com/truecharts/charts/compare/sftpgo-4.0.12...sftpgo-5.0.0) (2023-12-25)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [shoko-server-8.0.1](https://github.com/truecharts/charts/compare/shoko-server-8.0.0...shoko-server-8.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [shoko-server-8.0.0](https://github.com/truecharts/charts/compare/shoko-server-7.0.11...shoko-server-8.0.0) (2023-12-25)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [rsnapshot-8.0.1](https://github.com/truecharts/charts/compare/rsnapshot-8.0.0...rsnapshot-8.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [rsnapshot-8.0.0](https://github.com/truecharts/charts/compare/rsnapshot-7.0.11...rsnapshot-8.0.0) (2023-12-25)
 
 ### Chore

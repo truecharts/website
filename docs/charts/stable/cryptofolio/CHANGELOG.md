@@ -2,6 +2,15 @@
 
 
 
+## [cryptofolio-11.0.1](https://github.com/truecharts/charts/compare/cryptofolio-11.0.0...cryptofolio-11.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [cryptofolio-11.0.0](https://github.com/truecharts/charts/compare/cryptofolio-10.0.11...cryptofolio-11.0.0) (2023-12-25)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [wizarr-5.0.1](https://github.com/truecharts/charts/compare/wizarr-5.0.0...wizarr-5.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [wizarr-5.0.0](https://github.com/truecharts/charts/compare/wizarr-4.0.11...wizarr-5.0.0) (2023-12-25)
 
 ### Chore

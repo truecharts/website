@@ -2,6 +2,15 @@
 
 
 
+## [core-keeper-dedicated-server-4.0.1](https://github.com/truecharts/charts/compare/core-keeper-dedicated-server-4.0.0...core-keeper-dedicated-server-4.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [core-keeper-dedicated-server-4.0.0](https://github.com/truecharts/charts/compare/core-keeper-dedicated-server-3.0.17...core-keeper-dedicated-server-4.0.0) (2023-12-25)
 
 ### Chore

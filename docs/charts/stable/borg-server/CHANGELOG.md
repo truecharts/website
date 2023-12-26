@@ -2,6 +2,15 @@
 
 
 
+## [borg-server-3.0.1](https://github.com/truecharts/charts/compare/borg-server-3.0.0...borg-server-3.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [borg-server-3.0.0](https://github.com/truecharts/charts/compare/borg-server-2.0.11...borg-server-3.0.0) (2023-12-25)
 
 ### Chore

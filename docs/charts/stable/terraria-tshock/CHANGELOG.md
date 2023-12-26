@@ -2,6 +2,15 @@
 
 
 
+## [terraria-tshock-5.0.1](https://github.com/truecharts/charts/compare/terraria-tshock-5.0.0...terraria-tshock-5.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [terraria-tshock-5.0.0](https://github.com/truecharts/charts/compare/terraria-tshock-4.0.18...terraria-tshock-5.0.0) (2023-12-25)
 
 ### Chore

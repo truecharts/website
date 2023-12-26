@@ -2,6 +2,15 @@
 
 
 
+## [nexus-oss-4.0.1](https://github.com/truecharts/charts/compare/nexus-oss-4.0.0...nexus-oss-4.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [nexus-oss-4.0.0](https://github.com/truecharts/charts/compare/nexus-oss-3.1.13...nexus-oss-4.0.0) (2023-12-25)
 
 ### Chore

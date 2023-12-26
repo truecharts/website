@@ -2,6 +2,15 @@
 
 
 
+## [filestash-5.0.1](https://github.com/truecharts/charts/compare/filestash-5.0.0...filestash-5.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [filestash-5.0.0](https://github.com/truecharts/charts/compare/filestash-4.0.11...filestash-5.0.0) (2023-12-25)
 
 ### Chore

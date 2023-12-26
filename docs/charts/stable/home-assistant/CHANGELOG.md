@@ -2,6 +2,15 @@
 
 
 
+## [home-assistant-22.0.1](https://github.com/truecharts/charts/compare/home-assistant-22.0.0...home-assistant-22.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [home-assistant-22.0.0](https://github.com/truecharts/charts/compare/home-assistant-21.0.11...home-assistant-22.0.0) (2023-12-25)
 
 ### Chore

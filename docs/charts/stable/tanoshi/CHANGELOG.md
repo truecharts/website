@@ -2,6 +2,15 @@
 
 
 
+## [tanoshi-4.0.1](https://github.com/truecharts/charts/compare/tanoshi-4.0.0...tanoshi-4.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [tanoshi-4.0.0](https://github.com/truecharts/charts/compare/tanoshi-3.0.17...tanoshi-4.0.0) (2023-12-25)
 
 ### Chore

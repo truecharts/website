@@ -2,6 +2,15 @@
 
 
 
+## [restic-rest-server-4.0.1](https://github.com/truecharts/charts/compare/restic-rest-server-4.0.0...restic-rest-server-4.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [restic-rest-server-4.0.0](https://github.com/truecharts/charts/compare/restic-rest-server-3.0.17...restic-rest-server-4.0.0) (2023-12-25)
 
 ### Chore

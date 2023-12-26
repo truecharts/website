@@ -2,6 +2,15 @@
 
 
 
+## [muse-4.0.1](https://github.com/truecharts/charts/compare/muse-4.0.0...muse-4.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [muse-4.0.0](https://github.com/truecharts/charts/compare/muse-3.0.12...muse-4.0.0) (2023-12-25)
 
 ### Chore

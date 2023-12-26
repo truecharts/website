@@ -2,6 +2,15 @@
 
 
 
+## [unmanic-9.0.1](https://github.com/truecharts/charts/compare/unmanic-9.0.0...unmanic-9.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [unmanic-9.0.0](https://github.com/truecharts/charts/compare/unmanic-8.0.11...unmanic-9.0.0) (2023-12-25)
 
 ### Chore

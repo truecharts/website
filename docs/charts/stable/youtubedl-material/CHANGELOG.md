@@ -2,6 +2,15 @@
 
 
 
+## [youtubedl-material-9.0.1](https://github.com/truecharts/charts/compare/youtubedl-material-9.0.0...youtubedl-material-9.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [youtubedl-material-9.0.0](https://github.com/truecharts/charts/compare/youtubedl-material-8.0.0...youtubedl-material-9.0.0) (2023-12-26)
 
 ### Chore

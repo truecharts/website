@@ -2,6 +2,15 @@
 
 
 
+## [media-roller-4.0.1](https://github.com/truecharts/charts/compare/media-roller-4.0.0...media-roller-4.0.1) (2023-12-26)
+
+### Chore
+
+- update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
+  
+  
+
+
 ## [media-roller-4.0.0](https://github.com/truecharts/charts/compare/media-roller-3.0.17...media-roller-4.0.0) (2023-12-25)
 
 ### Chore
