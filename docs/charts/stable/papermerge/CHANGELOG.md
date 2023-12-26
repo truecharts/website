@@ -2,6 +2,15 @@
 
 
 
+## [papermerge-11.0.0](https://github.com/truecharts/charts/compare/papermerge-10.0.0...papermerge-11.0.0) (2023-12-26)
+
+### Chore
+
+- update helm general major by renovate (major) ([#16547](https://github.com/truecharts/charts/issues/16547))
+  
+  
+
+
 ## [papermerge-10.0.0](https://github.com/truecharts/charts/compare/papermerge-9.0.12...papermerge-10.0.0) (2023-12-25)
 
 ### Chore

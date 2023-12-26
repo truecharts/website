@@ -2,6 +2,15 @@
 
 
 
+## [authelia-22.0.0](https://github.com/truecharts/charts/compare/authelia-21.0.0...authelia-22.0.0) (2023-12-26)
+
+### Chore
+
+- update helm general major by renovate (major) ([#16547](https://github.com/truecharts/charts/issues/16547))
+  
+  
+
+
 ## [authelia-21.0.0](https://github.com/truecharts/charts/compare/authelia-20.0.14...authelia-21.0.0) (2023-12-25)
 
 ### Chore
