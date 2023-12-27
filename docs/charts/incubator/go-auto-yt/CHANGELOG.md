@@ -2,6 +2,15 @@
 
 
 
+## [go-auto-yt-3.0.10](https://github.com/truecharts/charts/compare/go-auto-yt-3.0.9...go-auto-yt-3.0.10) (2023-12-27)
+
+### Chore
+
+- remove references to UMASK in container env as it is handled in common library  ([#16565](https://github.com/truecharts/charts/issues/16565))
+  
+  
+
+
 ## [go-auto-yt-3.0.9](https://github.com/truecharts/charts/compare/go-auto-yt-3.0.8...go-auto-yt-3.0.9) (2023-12-22)
 
 ### Fix

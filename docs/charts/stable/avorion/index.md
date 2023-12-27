@@ -1,14 +1,14 @@
 # avorion
 
-![Version: 4.0.1](https://img.shields.io/badge/Version-4.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: avorion](https://img.shields.io/badge/AppVersion-avorion-informational?style=flat-square)
+![Version: 4.0.2](https://img.shields.io/badge/Version-4.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: avorion](https://img.shields.io/badge/AppVersion-avorion-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Avorion and run it.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/ich777/steamcmd
 - https://www.steampowered.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/avorion
-- https://hub.docker.com/r/ich777/steamcmd
 
 ## Available Documentation
 
