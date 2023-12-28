@@ -20,7 +20,7 @@ Appears in:
 
 ### clusterIP
 
-Custom Cluster IP
+Configure Cluster IP type
 
 - Key: `clusterIP`
 - Type: `string`

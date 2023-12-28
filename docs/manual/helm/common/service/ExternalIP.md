@@ -1,26 +1,171 @@
-# ExternalIP
+---
+title: ExternalIP
+---
 
-| Key                                                                  |   Type    | Required | Helm Template | Default | Description                                                |
-| :------------------------------------------------------------------- | :-------: | :------: | :-----------: | :-----: | :--------------------------------------------------------- |
-| service.[service-name].externalIP                                    | `string`  |    ✅    |      ✅       |         | Define External IP for headless service                    |
-| service.[service-name].useSlice                                      | `boolean` |    ✅    |      ❌       | `true`  | Define whether to use EndpointSlice or Endpoint            |
-| service.[service-name].addressType                                   | `string`  |    ❌    |      ✅       | `IPv4`  | Define the addressType for External IP                     |
-| service.[service-name].appProtocol                                   | `string`  |    ❌    |      ✅       |  `""`   | Define the appProtocol for External IP                     |
-| service.[service-name].sessionAffinity                               | `string`  |    ❌    |      ✅       |         | Define the session affinity (ClientIP, None)               |
-| service.[service-name].sessionAffinityConfig.clientIP.timeoutSeconds |   `int`   |    ❌    |      ✅       |         | Define the timeout for ClientIP session affinity (0-86400) |
-| service.[service-name].externalIPs                                   |  `list`   |    ❌    |      ❌       |         | Define externalIPs                                         |
-| service.[service-name].externalIPs.[externalIP]                      | `string`  |    ✅    |      ✅       |         | The external IP                                            |
-| service.[service-name].externalTrafficPolicy                         | `string`  |    ❌    |      ✅       |         | Define the external traffic policy (Cluster, Local)        |
+:::tip
+
+Prefix all keys below with `service.$name.`
+
+See available service keys [here](./index.md).
+
+:::
+
+## Keys
+
+Appears in:
+
+- `.Values.service.$name`
 
 ---
 
-Notes:
+### externalIP
 
-View common `keys` of `service` in [service Documentation](README.md).
+Configure External IP type
+
+- Key: `externalIP`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
 
 ---
 
-Examples:
+### useSlice
+
+Define whether to use EndpointSlice or Endpoint
+
+- Key: `useSlice`
+- Type: `bool`
+- Required: `❌`
+- tpl: `❌`
+- Default: `true`
+- Example
+
+```yaml
+useSlice: false
+```
+
+---
+
+### addressType
+
+Define the addressType for External IP
+
+- Key: `addressType`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `IPv4`
+- Valid Values:
+  - `IPv4`
+  - `IPv6`
+  - `FQDN`
+- Example
+
+```yaml
+addressType: IPv6
+```
+
+---
+
+### appProtocol
+
+Define the appProtocol for External IP
+
+- Key: `appProtocol`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+appProtocol: http
+```
+
+---
+
+### sessionAffinity
+
+Define the session affinity (ClientIP, None)
+
+- Key: `sessionAffinity`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Valid Values:
+  - `ClientIP`
+  - `None`
+- Example
+
+```yaml
+sessionAffinity: ClientIP
+```
+
+---
+
+### sessionAffinityConfig.clientIP.timeoutSeconds
+
+Define the timeout for ClientIP session affinity (0-86400)
+
+- Key: `sessionAffinityConfig.clientIP.timeoutSeconds`
+- Type: `int`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Valid Values:
+  - `0` - `86400`
+- Example
+
+```yaml
+sessionAffinityConfig:
+  clientIP:
+    timeoutSeconds: 86400
+```
+
+---
+
+### externalIPs
+
+Define externalIPs
+
+- Key: `externalIPs`
+- Type: `list` of `string`
+- Required: `❌`
+- tpl: `✅` (On entries only)
+- Default: `[]`
+- Example
+
+```yaml
+externalIPs:
+  - 1.2.3.4
+  - 5.6.7.8
+```
+
+---
+
+### externalTrafficPolicy
+
+Define the external traffic policy (Cluster, Local)
+
+- Key: `externalTrafficPolicy`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Valid Values:
+  - `Cluster`
+  - `Local`
+- Example
+
+```yaml
+externalTrafficPolicy: Cluster
+```
+
+---
+
+## Full Examples
 
 ```yaml
 service:
