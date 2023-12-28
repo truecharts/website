@@ -8,58 +8,63 @@ Replace references to `$name` with the actual name you want to use.
 
 :::
 
+Appears in:
+
+- `.Values.podDisruptionBudget`
+
 ## Naming scheme
 
 - `$FullName-$podDisruptionBudgetName` (release-name-chart-name-podDisruptionBudgetName)
 
 ---
 
-## Keys
-
-Appears in:
-
-- `.Values.podDisruptionBudget`
-
-### Notes
+## Notes
 
 At least 1 of [`minAvailable`, `maxUnavailable`] must be set.
 
 ---
 
-### podDisruptionBudget
+## `podDisruptionBudget`
 
 Create Pod Disruption Budget objects
 
-- Key: `podDisruptionBudget`
-- Type: `map`
-- Required: `❌`
-- tpl: `❌`
-- Default: `{}`
+|          |                       |
+| -------- | --------------------- |
+| Key      | `podDisruptionBudget` |
+| Type     | `map`                 |
+| Required | `❌`                  |
+| tpl      | `❌`                  |
+| Default  | `{}`                  |
 
 ---
 
-### podDisruptionBudget.$name
+### `podDisruptionBudget.$name`
 
 Define Pod Disruption Budget
 
-- Key: `podDisruptionBudget.$name`
-- Type: `map`
-- Required: `✅`
-- tpl: `❌`
-- Default: `{}`
+|          |                             |
+| -------- | --------------------------- |
+| Key      | `podDisruptionBudget.$name` |
+| Type     | `map`                       |
+| Required | `✅`                        |
+| tpl      | `❌`                        |
+| Default  | `{}`                        |
 
 ---
 
-### podDisruptionBudget.$name.enabled
+#### `podDisruptionBudget.$name.enabled`
 
 Enables or Disables the Pod Disruption Budget
 
-- Key: `podDisruptionBudget.$name.enabled`
-- Type: `bool`
-- Required: `✅`
-- tpl: `❌`
-- Default: `false`
-- Example
+|          |                                     |
+| -------- | ----------------------------------- |
+| Key      | `podDisruptionBudget.$name.enabled` |
+| Type     | `bool`                              |
+| Required | `✅`                                |
+| tpl      | `❌`                                |
+| Default  | `false`                             |
+
+Example
 
 ```yaml
 enabled: true
@@ -67,16 +72,19 @@ enabled: true
 
 ---
 
-### podDisruptionBudget.$name.namespace
+#### `podDisruptionBudget.$name.namespace`
 
 Define the namespace for this object
 
-- Key: `podDisruptionBudget.$name.namespace`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |                                       |
+| -------- | ------------------------------------- |
+| Key      | `podDisruptionBudget.$name.namespace` |
+| Type     | `string`                              |
+| Required | `❌`                                  |
+| tpl      | `✅`                                  |
+| Default  | `""`                                  |
+
+Example
 
 ```yaml
 namespace: some-namespace
@@ -84,16 +92,19 @@ namespace: some-namespace
 
 ---
 
-### podDisruptionBudget.$name.labels
+#### `podDisruptionBudget.$name.labels`
 
 Additional labels for Pod Disruption Budget
 
-- Key: `podDisruptionBudget.$name.labels`
-- Type: `map`
-- Required: `❌`
-- tpl: `✅ (On value only)`
-- Default: `{}`
-- Example
+|          |                                    |
+| -------- | ---------------------------------- |
+| Key      | `podDisruptionBudget.$name.labels` |
+| Type     | `map`                              |
+| Required | `❌`                               |
+| tpl      | `✅ (On value only)`               |
+| Default  | `{}`                               |
+
+Example
 
 ```yaml
 labels:
@@ -103,16 +114,19 @@ labels:
 
 ---
 
-### podDisruptionBudget.$name.annotations
+#### `podDisruptionBudget.$name.annotations`
 
 Additional annotations for Pod Disruption Budget
 
-- Key: `podDisruptionBudget.$name.annotations`
-- Type: `map`
-- Required: `❌`
-- tpl: `✅ (On value only)`
-- Default: `{}`
-- Example
+|          |                                         |
+| -------- | --------------------------------------- |
+| Key      | `podDisruptionBudget.$name.annotations` |
+| Type     | `map`                                   |
+| Required | `❌`                                    |
+| tpl      | `✅ (On value only)`                    |
+| Default  | `{}`                                    |
+
+Example
 
 ```yaml
 annotations:
@@ -122,16 +136,19 @@ annotations:
 
 ---
 
-### podDisruptionBudget.$name.minAvailable
+#### `podDisruptionBudget.$name.minAvailable`
 
 Define the minAvailable.
 
-- Key: `podDisruptionBudget.$name.minAvailable`
-- Type: `int` or `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |                                          |
+| -------- | ---------------------------------------- |
+| Key      | `podDisruptionBudget.$name.minAvailable` |
+| Type     | `int` or `string`                        |
+| Required | `❌`                                     |
+| tpl      | `✅`                                     |
+| Default  | `""`                                     |
+
+Example
 
 ```yaml
 minAvailable: 1
@@ -139,16 +156,19 @@ minAvailable: 1
 
 ---
 
-### podDisruptionBudget.$name.maxUnavailable
+#### `podDisruptionBudget.$name.maxUnavailable`
 
 Define the maxUnavailable.
 
-- Key: `podDisruptionBudget.$name.maxUnavailable`
-- Type: `int` or `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |                                            |
+| -------- | ------------------------------------------ |
+| Key      | `podDisruptionBudget.$name.maxUnavailable` |
+| Type     | `int` or `string`                          |
+| Required | `❌`                                       |
+| tpl      | `✅`                                       |
+| Default  | `""`                                       |
+
+Example
 
 ```yaml
 maxUnavailable: 1
@@ -156,19 +176,24 @@ maxUnavailable: 1
 
 ---
 
-### podDisruptionBudget.$name.unhealthyPodEvictionPolicy
+#### `podDisruptionBudget.$name.unhealthyPodEvictionPolicy`
 
 Define the unhealthyPodEvictionPolicy
 
-- Key: `podDisruptionBudget.$name.unhealthyPodEvictionPolicy`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `IfHealthyBudget`
-  - `AlwaysAllow`
-- Example
+|          |                                                        |
+| -------- | ------------------------------------------------------ |
+| Key      | `podDisruptionBudget.$name.unhealthyPodEvictionPolicy` |
+| Type     | `string`                                               |
+| Required | `❌`                                                   |
+| tpl      | `✅`                                                   |
+| Default  | `""`                                                   |
+
+Valid Values:
+
+- `IfHealthyBudget`
+- `AlwaysAllow`
+
+Example
 
 ```yaml
 unhealthyPodEvictionPolicy: IfHealthyBudget
