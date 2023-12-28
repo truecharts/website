@@ -60,21 +60,25 @@ export default function Love() {
             to="https://discord.gg/tVsPTHWTtr"
           >
             {/* https://icon-sets.iconify.design/akar-icons/discord-fill/ */}
-            <Icon icon="skill-icons:discord" className="align-middle m-2" />
+            <Icon
+              icon="skill-icons:discord"
+              className="align-middle mr-2 mb-1"
+            />
             Join Us On Discord
           </Link>
         </div>
       </div>
-      <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-[30px]">
+      <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-[120px] pt-10">
         <div
           className="!relative items-center justify-center flex flex-col wow animate__animated animate__fadeInLeft"
           data-wow-delay=".3s"
         >
-          <Lottie
-            options={clickAnimationOptions}
-            isClickToPauseDisabled={true}
-          />
-          <div className="overflow-hidden absolute lg:h-[400px] h-[400px] lg:w-[400px] w-[400px] bg-indigo-600/5 bottom-0 left-0 rotate-45 -z-1 rounded-3xl"></div>
+          <div className="overflow-hidden lg:h-[450px] h-[450px] lg:w-[450px] w-[450px] bg-indigo-600/5 bottom-0 left-0 rotate-45 -z-1 rounded-3xl">
+            <Lottie
+              options={clickAnimationOptions}
+              isClickToPauseDisabled={true}
+            />
+          </div>
         </div>
         <div
           className="lg:ml-8 wow animate__animated animate__fadeInRight"
@@ -123,17 +127,18 @@ export default function Love() {
         </div>
       </div>
 
-      <div className="md:mt-24 mt-16">
-        <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-[30px]">
+      <div className="md:mt-24 mt-16 p">
+        <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-[120px] pt-10">
           <div
             className="relative order-1 md:order-2 wow animate__animated animate__fadeInRight"
             data-wow-delay=".5s"
           >
-            <Lottie
-              options={systemAnimationOptions}
-              isClickToPauseDisabled={true}
-            />
-            <div className="overflow-hidden absolute lg:h-[400px] h-[400px] lg:w-[400px] w-[400px] bg-indigo-600/5 bottom-0 right-0 rotate-45 -z-1 rounded-3xl"></div>
+            <div className="overflow-hidden lg:h-[450px] h-[450px] lg:w-[450px] w-[450px] bg-indigo-600/5 bottom-0 right-0 rotate-45 -z-1 rounded-3xl">
+              <Lottie
+                options={systemAnimationOptions}
+                isClickToPauseDisabled={true}
+              />
+            </div>
           </div>
 
           <div
@@ -191,16 +196,17 @@ export default function Love() {
         </div>
       </div>
       <div className=" md:mt-24 mt-16">
-        <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-[30px]">
+        <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-[120px] pt-10">
           <div
             className="!relative items-center justify-center flex flex-col wow animate__animated animate__fadeInLeft"
             data-wow-delay=".3s"
           >
-            <Lottie
-              options={stabilityAnimationOptions}
-              isClickToPauseDisabled={true}
-            />
-            <div className="overflow-hidden absolute lg:h-[400px] h-[400px] lg:w-[400px] w-[400px] bg-indigo-600/5 bottom-0 left-0 rotate-45 -z-1 rounded-3xl"></div>
+            <div className="overflow-hidden lg:h-[450px] h-[450px] lg:w-[450px] w-[450px] bg-indigo-600/5 bottom-0 left-0 rotate-45 -z-1 rounded-3xl">
+              <Lottie
+                options={stabilityAnimationOptions}
+                isClickToPauseDisabled={true}
+              />
+            </div>
           </div>
 
           <div
