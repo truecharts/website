@@ -165,7 +165,9 @@ Define the unhealthyPodEvictionPolicy
 - Required: `❌`
 - tpl: `✅`
 - Default: `""`
-- Valid Values: `IfHealthyBudget`, `AlwaysAllow`
+- Valid Values:
+  - `IfHealthyBudget`
+  - `AlwaysAllow`
 - Example
 
 ```yaml

@@ -127,7 +127,9 @@ Define the type of the webhook.
 - Required: `✅`
 - tpl: `✅`
 - Default: `""`
-- Valid Values: `mutating`, `validating`
+- Valid Values:
+  - `mutating`
+  - `validating`
 - Example
 
 ```yaml
@@ -174,7 +176,9 @@ Define the failurePolicy for the webhook
 - Required: `❌`
 - tpl: `✅`
 - Default: `""`
-- Valid Values: `Ignore`, `Fail`
+- Valid Values:
+  - `Ignore`
+  - `Fail`
 - Example
 
 ```yaml
@@ -192,7 +196,9 @@ Define the matchPolicy for the webhook
 - Required: `❌`
 - tpl: `✅`
 - Default: `""`
-- Valid Values: `Exact`, `Equivalent`
+- Valid Values:
+  - `Exact`
+  - `Equivalent`
 - Example
 
 ```yaml
@@ -210,7 +216,9 @@ Define the sideEffects for the webhook
 - Required: `❌`
 - tpl: `✅`
 - Default: `""`
-- Valid Values: `None`, `NoneOnDryRun`
+- Valid Values:
+  - `None`
+  - `NoneOnDryRun`
 - Example
 
 ```yaml
@@ -228,7 +236,9 @@ Define the reinvocationPolicy for the webhook
 - Required: `❌`
 - tpl: `✅`
 - Default: `""`
-- Valid Values: `Never`, `IfNeeded`
+- Valid Values:
+  - `Never`
+  - `IfNeeded`
 - Example
 
 ```yaml
@@ -418,7 +428,10 @@ Define the scope of the rule for the webhook
 - Required: `❌`
 - tpl: `✅`
 - Default: `""`
-- Valid Values: `Cluster`, `Namespaced`, `*`
+- Valid Values:
+  - `Cluster`
+  - `Namespaced`
+  - `*`
 - Example
 
 ```yaml

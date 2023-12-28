@@ -322,7 +322,7 @@ targetSelector: some-container
 
 ---
 
-## Full Example
+## Full Examples
 
 Full examples can be found under each service type
 
