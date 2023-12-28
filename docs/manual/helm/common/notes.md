@@ -1,13 +1,6 @@
 # Notes
 
-| Key          |   Type   | Required | Helm Template |  Default  | Description                                              |
-| :----------- | :------: | :------: | :-----------: | :-------: | :------------------------------------------------------- |
-| notes        |  `dict`  |    ❌    |      ❌       | See below | Define values for NOTES.txt                              |
-| notes.header | `string` |    ❌    |      ✅       | See below | Define header                                            |
-| notes.custom | `string` |    ❌    |      ✅       | See below | Define custom message, this go between header and footer |
-| notes.footer | `string` |    ❌    |      ✅       | See below | Define footer                                            |
-
----
+## Keys
 
 Appears in:
 
@@ -15,24 +8,76 @@ Appears in:
 
 ---
 
-Default:
+### notes
+
+Define values for `NOTES.txt`
+
+- Key: `notes`
+- Type: `dict`
+- Required: `❌`
+- tpl: `❌`
+- Default:
 
 ```yaml
 notes:
-  header: |
-    # Welcome to SCALE
-    Thank you for installing <{{ .Chart.Name }}>.
-  custom: ""
-  footer: |
-    # Documentation
-    Documentation for this chart can be found at ...
-    # Bug reports
-    If you find a bug in this chart, please file an issue at ...
+  header: # See notes.header
+  custom: # See notes.custom
+  footer: # See notes.footer
 ```
 
 ---
 
-Examples:
+### notes.header
+
+Define header
+
+- Key: `notes.header`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default:
+
+```yaml
+header: |
+  # Welcome to SCALE
+  Thank you for installing <{{ .Chart.Name }}>.
+```
+
+---
+
+### notes.custom
+
+Define custom message, this go between header and footer
+
+- Key: `notes.custom`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+
+---
+
+### notes.footer
+
+Define footer
+
+- Key: `notes.footer`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default:
+
+```yaml
+footer: |
+  # Documentation
+  Documentation for this chart can be found at ...
+  # Bug reports
+  If you find a bug in this chart, please file an issue at ...
+```
+
+---
+
+## Examples:
 
 ```yaml
 notes:
