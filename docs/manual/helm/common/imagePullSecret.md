@@ -224,7 +224,7 @@ targetSelectAll: true
 Define the pod(s) to assign the secret
 
 - Key: `imagePullSecret.$name.targetSelector`
-- Type: `list`
+- Type: `list` of `string`
 - Required: `❌`
 - tpl: `❌`
 - Default: `[]`

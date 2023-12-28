@@ -22,7 +22,7 @@ Appears in:
 
 ### configmap
 
-Create ConfigMaps
+Create ConfigMap objects
 
 - Key: `configmap`
 - Type: `map`

@@ -28,7 +28,7 @@ At least 1 of [`minAvailable`, `maxUnavailable`] must be set.
 
 ### podDisruptionBudget
 
-Create Pod Disruption Budgets
+Create Pod Disruption Budget objects
 
 - Key: `podDisruptionBudget`
 - Type: `map`
