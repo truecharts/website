@@ -15,7 +15,7 @@ Appears in:
 Define values for `NOTES.txt`
 
 - Key: `notes`
-- Type: `dict`
+- Type: `map`
 - Required: `❌`
 - tpl: `❌`
 - Default:

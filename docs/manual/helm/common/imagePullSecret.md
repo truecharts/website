@@ -35,7 +35,7 @@ Appears in:
 Define image pull secrets
 
 - Key: `imagePullSecret`
-- Type: `dict`
+- Type: `map`
 - Required: `❌`
 - tpl: `❌`
 - Default: `{}`
@@ -47,7 +47,7 @@ Define image pull secrets
 Define image pull secret
 
 - Key: `imagePullSecret.$name`
-- Type: `dict`
+- Type: `map`
 - Required: `✅`
 - tpl: `❌`
 - Default: `{}`
@@ -59,11 +59,10 @@ Define image pull secret
 Enables or Disables the image pull secret
 
 - Key: `imagePullSecret.$name.enabled`
-- Type: `boolean`
+- Type: `bool`
 - Required: `✅`
 - tpl: `❌`
 - Default: `false`
-- Values: `true` or `false`
 - Example: `true`
 
 ---
@@ -90,7 +89,7 @@ namespace: `some-namespace`
 Additional labels for image pull secret
 
 - Key: `imagePullSecret.$name.labels`
-- Type: `dict`
+- Type: `map`
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `{}`
@@ -109,7 +108,7 @@ labels:
 Additional annotations for image pull secret
 
 - Key: `imagePullSecret.$name.annotations`
-- Type: `dict`
+- Type: `map`
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `{}`
@@ -128,7 +127,7 @@ annotations:
 Define the data of the image pull secret
 
 - Key: `imagePullSecret.$name.data`
-- Type: `dict`
+- Type: `map`
 - Required: `✅`
 - tpl: `❌`
 - Default: `{}`
@@ -161,7 +160,6 @@ Define the username of the image pull secret
 - Required: `✅`
 - tpl: `✅`
 - Default: `""`
-- Values: `string`
 - Example
 
 ```yaml
@@ -179,7 +177,6 @@ Define the password of the image pull secret
 - Required: `✅`
 - tpl: `✅`
 - Default: `""`
-- Values: `string`
 - Example
 
 ```yaml
@@ -197,7 +194,6 @@ Define the email of the image pull secret
 - Required: `✅`
 - tpl: `✅`
 - Default: `""`
-- Values: `string`
 - Example
 
 ```yaml
@@ -211,11 +207,10 @@ email: my_email@example.com
 Whether to assign the secret to all pods or not
 
 - Key: `imagePullSecret.$name.targetSelectAll`
-- Type: `boolean`
+- Type: `bool`
 - Required: `❌`
 - tpl: `❌`
 - Default: unset
-- Values: `true` or `false`
 - Example
 
 ```yaml

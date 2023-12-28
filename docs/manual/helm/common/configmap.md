@@ -25,7 +25,7 @@ Appears in:
 Create ConfigMaps
 
 - Key: `configmap`
-- Type: `dict`
+- Type: `map`
 - Required: `❌`
 - tpl: `❌`
 - Default: `{}`
@@ -37,7 +37,7 @@ Create ConfigMaps
 Define ConfigMap
 
 - Key: `configmap.$name`
-- Type: `dict`
+- Type: `map`
 - Required: `✅`
 - tpl: `❌`
 - Default: `{}`
@@ -53,7 +53,6 @@ Enables or Disables the ConfigMap
 - Required: `✅`
 - tpl: `❌`
 - Default: `false`
-- Values: `true` or `false`
 - Example
 
 ```yaml
@@ -84,7 +83,7 @@ namespace: some-namespace
 Additional labels for ConfigMap
 
 - Key: `configmap.$name.labels`
-- Type: `dict`
+- Type: `map`
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `{}`
@@ -103,7 +102,7 @@ labels:
 Additional annotations for ConfigMap
 
 - Key: `configmap.$name.annotations`
-- Type: `dict`
+- Type: `map`
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `{}`
@@ -122,7 +121,7 @@ annotations:
 Define the data of the ConfigMap
 
 - Key: `configmap.$name.data`
-- Type: `dict`
+- Type: `map`
 - Required: `✅`
 - tpl: `✅`
 - Default: `{}`
