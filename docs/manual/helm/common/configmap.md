@@ -2,6 +2,12 @@
 title: Configmap
 ---
 
+:::tip
+
+Replace references to `$name` with the actual name you want to use.
+
+:::
+
 ## Naming scheme
 
 - `$FullName-$ConfigmapName` (release-name-chart-name-configmap-name)
@@ -26,11 +32,11 @@ Create ConfigMaps
 
 ---
 
-### configmap.$ConfigmapName
+### configmap.$name
 
 Define ConfigMap
 
-- Key: `configmap.$ConfigmapName`
+- Key: `configmap.$name`
 - Type: `dict`
 - Required: `✅`
 - tpl: `❌`
@@ -38,64 +44,86 @@ Define ConfigMap
 
 ---
 
-### configmap.$ConfigmapName.enabled
+### configmap.$name.enabled
 
 Enables or Disables the ConfigMap
 
-- Key: `configmap.$ConfigmapName.enabled`
+- Key: `configmap.$name.enabled`
 - Type: `boolean`
 - Required: `✅`
 - tpl: `❌`
 - Default: `false`
 - Values: `true` or `false`
+- Example: `true`
 
 ---
 
-### configmap.$ConfigmapName.namespace
+### configmap.$name.namespace
 
 Define the namespace for this object
 
-- Key: `configmap.$ConfigmapName.namespace`
+- Key: `configmap.$name.namespace`
 - Type: `string`
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `""`
+- Example: `some-namespace`
 
 ---
 
-### configmap.$ConfigmapName.labels
+### configmap.$name.labels
 
 Additional labels for ConfigMap
 
-- Key: `configmap.$ConfigmapName.labels`
+- Key: `configmap.$name.labels`
 - Type: `dict`
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `{}`
+- Example
+
+```yaml
+labels:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
 
 ---
 
-### configmap.$ConfigmapName.annotations
+### configmap.$name.annotations
 
 Additional annotations for ConfigMap
 
-- Key: `configmap.$ConfigmapName.annotations`
+- Key: `configmap.$name.annotations`
 - Type: `dict`
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `{}`
+- Example
+
+```yaml
+annotations:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
 
 ---
 
-### configmap.$ConfigmapName.data
+### configmap.$name.data
 
 Define the data of the ConfigMap
 
-- Key: `configmap.$ConfigmapName.data`
+- Key: `configmap.$name.data`
 - Type: `dict`
 - Required: `✅`
 - tpl: `✅`
 - Default: `{}`
+- Example
+
+```yaml
+data:
+  key: value
+```
 
 ---
 
