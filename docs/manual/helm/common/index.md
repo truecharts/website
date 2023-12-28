@@ -1,4 +1,6 @@
-# Common Chart Documentation
+---
+title: Common Chart Documentation
+---
 
 ## Global and Defaults
 
@@ -288,10 +290,10 @@ For example, [Renovate](https://docs.renovatebot.com/modules/manager/helm-values
 
 Additional Documentation:
 
-- [workload](workload/README.md)
-- [container](container/README.md)
-- [service](service/README.md)
-- [persistence](persistence/README.md)
+- [workload](workload/index.md)
+- [container](container/index.md)
+- [service](service/index.md)
+- [persistence](persistence/index.md)
 - [configmap](configmap.md)
 - [secret](secret.md)
 - [imagePullSecret](imagePullSecret.md)

@@ -1,41 +1,280 @@
-# Image Pull Secret
-
-| Key                                                |   Type    | Required |   Helm Template    | Default | Description                                     |
-| :------------------------------------------------- | :-------: | :------: | :----------------: | :-----: | :---------------------------------------------- |
-| imagePullSecret                                    |  `dict`   |    ❌    |         ❌         |  `{}`   | Define the image pull secret as dicts           |
-| imagePullSecret.[pull-secret-name]                 |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds configMap definition                      |
-| imagePullSecret.[pull-secret-name].enabled         | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the image pull secret       |
-| imagePullSecret.[pull-secret-name].namespace       | `string`  |    ❌    |         ✅         |  `""`   | Define the namespace for this object            |
-| imagePullSecret.[pull-secret-name].labels          |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for image pull secret         |
-| imagePullSecret.[pull-secret-name].annotations     |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for image pull secret    |
-| imagePullSecret.[pull-secret-name].data            |  `dict`   |    ✅    |         ✅         |  `{}`   | Define the data of the image pull secret        |
-| imagePullSecret.[pull-secret-name].namespace       | `string`  |    ❌    |         ✅         |  `""`   | Define the namespace for this object            |
-| imagePullSecret.[pull-secret-name].data.registry   | `string`  |    ✅    |         ✅         |  `""`   | Define the registry of the image pull secret    |
-| imagePullSecret.[pull-secret-name].data.username   | `string`  |    ✅    |         ✅         |  `""`   | Define the username of the image pull secret    |
-| imagePullSecret.[pull-secret-name].data.password   | `string`  |    ✅    |         ✅         |  `""`   | Define the password of the image pull secret    |
-| imagePullSecret.[pull-secret-name].data.email      | `string`  |    ✅    |         ✅         |  `""`   | Define the email of the image pull secret       |
-| imagePullSecret.[pull-secret-name].targetSelectAll | `boolean` |    ❌    |         ❌         |         | Whether to assign the secret to all pods or not |
-| imagePullSecret.[pull-secret-name].targetSelector  |  `list`   |    ❌    |         ❌         |  `[]`   | Define the pod(s) to assign the secret          |
-
-> When `targetSelectAll` is `true`, it will assign the secret to all pods (`targetSelector` is ignored in this case)
-> When `targetSelector` is a list, each entry is a string with the pod name that will be assigned. Can have multiple entries
-> When `targetSelector` is a empty, it will assign the secret to the primary pod
-
 ---
+title: Image Pull Secret
+---
+
+:::tip
+
+Replace references to `$name` with the actual name you want to use.
+
+:::
 
 Appears in:
 
 - `.Values.imagePullSecret`
 
----
-
-Naming scheme:
+## Naming scheme
 
 - `$FullName-$ImagePullSecretName` (release-name-chart-name-imagePullSecretName)
 
 ---
 
-Examples:
+## Target Selector
+
+- `targetSelectAll` (boolean): Whether to assign the secret to all pods or not. `targetSelector` is ignored in this case
+- `targetSelector` (list): Define the pod(s) to assign the secret
+- `targetSelector` (empty): Assign the secret to the primary pod
+
+---
+
+## `imagePullSecret`
+
+Define image pull secrets
+
+|          |                   |
+| -------- | ----------------- |
+| Key      | `imagePullSecret` |
+| Type     | `map`             |
+| Required | `❌`              |
+| tpl      | `❌`              |
+| Default  | `{}`              |
+
+---
+
+### `imagePullSecret.$name`
+
+Define image pull secret
+
+|          |                         |
+| -------- | ----------------------- |
+| Key      | `imagePullSecret.$name` |
+| Type     | `map`                   |
+| Required | `✅`                    |
+| tpl      | `❌`                    |
+| Default  | `{}`                    |
+
+---
+
+#### `imagePullSecret.$name.enabled`
+
+Enables or Disables the image pull secret
+
+|          |                                 |
+| -------- | ------------------------------- |
+| Key      | `imagePullSecret.$name.enabled` |
+| Type     | `bool`                          |
+| Required | `✅`                            |
+| tpl      | `❌`                            |
+| Default  | `false`                         |
+
+Example
+
+```yaml
+enabled: true
+```
+
+---
+
+#### `imagePullSecret.$name.namespace`
+
+Define the namespace for this object
+
+|          |                                   |
+| -------- | --------------------------------- |
+| Key      | `imagePullSecret.$name.namespace` |
+| Type     | `string`                          |
+| Required | `❌`                              |
+| tpl      | `✅ (On value only)`              |
+| Default  | `""`                              |
+
+Example
+
+```yaml
+namespace: `some-namespace`
+```
+
+---
+
+#### `imagePullSecret.$name.labels`
+
+Additional labels for image pull secret
+
+|          |                                |
+| -------- | ------------------------------ |
+| Key      | `imagePullSecret.$name.labels` |
+| Type     | `map`                          |
+| Required | `❌`                           |
+| tpl      | `✅ (On value only)`           |
+| Default  | `{}`                           |
+
+Example
+
+```yaml
+labels:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
+
+---
+
+#### `imagePullSecret.$name.annotations`
+
+Additional annotations for image pull secret
+
+|          |                                     |
+| -------- | ----------------------------------- |
+| Key      | `imagePullSecret.$name.annotations` |
+| Type     | `map`                               |
+| Required | `❌`                                |
+| tpl      | `✅ (On value only)`                |
+| Default  | `{}`                                |
+
+Example
+
+```yaml
+annotations:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
+
+---
+
+#### `imagePullSecret.$name.targetSelectAll`
+
+Whether to assign the secret to all pods or not
+
+|          |                                         |
+| -------- | --------------------------------------- |
+| Key      | `imagePullSecret.$name.targetSelectAll` |
+| Type     | `bool`                                  |
+| Required | `❌`                                    |
+| tpl      | `❌`                                    |
+| Default  | unset                                   |
+
+Example
+
+```yaml
+targetSelectAll: true
+```
+
+---
+
+#### `imagePullSecret.$name.targetSelector`
+
+Define the pod(s) to assign the secret
+
+|          |                                        |
+| -------- | -------------------------------------- |
+| Key      | `imagePullSecret.$name.targetSelector` |
+| Type     | `list` of `string`                     |
+| Required | `❌`                                   |
+| tpl      | `❌`                                   |
+| Default  | `[]`                                   |
+
+Example
+
+```yaml
+targetSelector:
+  - workload-name1
+  - workload-name2
+```
+
+---
+
+#### `imagePullSecret.$name.data`
+
+Define the data of the image pull secret
+
+|          |                              |
+| -------- | ---------------------------- |
+| Key      | `imagePullSecret.$name.data` |
+| Type     | `map`                        |
+| Required | `✅`                         |
+| tpl      | `❌`                         |
+| Default  | `{}`                         |
+
+---
+
+##### `imagePullSecret.$name.data.registry`
+
+Define the registry of the image pull secret
+
+|          |                                       |
+| -------- | ------------------------------------- |
+| Key      | `imagePullSecret.$name.data.registry` |
+| Type     | `string`                              |
+| Required | `✅`                                  |
+| tpl      | `✅`                                  |
+| Default  | `""`                                  |
+
+Example
+
+```yaml
+registry: quay.io
+```
+
+---
+
+##### `imagePullSecret.$name.data.username`
+
+Define the username of the image pull secret
+
+|          |                                       |
+| -------- | ------------------------------------- |
+| Key      | `imagePullSecret.$name.data.username` |
+| Type     | `string`                              |
+| Required | `✅`                                  |
+| tpl      | `✅`                                  |
+| Default  | `""`                                  |
+
+Example
+
+```yaml
+username: my_user
+```
+
+---
+
+##### `imagePullSecret.$name.data.password`
+
+Define the password of the image pull secret
+
+|          |                                       |
+| -------- | ------------------------------------- |
+| Key      | `imagePullSecret.$name.data.password` |
+| Type     | `string`                              |
+| Required | `✅`                                  |
+| tpl      | `✅`                                  |
+| Default  | `""`                                  |
+
+Example
+
+```yaml
+password: my_pass
+```
+
+---
+
+##### `imagePullSecret.$name.data.email`
+
+Define the email of the image pull secret
+
+|          |                                    |
+| -------- | ---------------------------------- |
+| Key      | `imagePullSecret.$name.data.email` |
+| Type     | `string`                           |
+| Required | `✅`                               |
+| tpl      | `✅`                               |
+| Default  | `""`                               |
+
+Example
+
+```yaml
+email: my_email@example.com
+```
+
+---
+
+## Full Examples
 
 ```yaml
 imagePullSecret:

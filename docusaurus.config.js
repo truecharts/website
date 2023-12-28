@@ -1,9 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer').themes.github;
-const darkCodeTheme = require('prism-react-renderer').themes.dracula;
-const TerserPlugin = require('terser-webpack-plugin');
+const lightCodeTheme = require("prism-react-renderer").themes.github;
+const darkCodeTheme = require("prism-react-renderer").themes.dracula;
+const TerserPlugin = require("terser-webpack-plugin");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -35,7 +35,7 @@ const config = {
   markdown: {
     // By default we compile all files as MDX (allow JSX), but you can opt-in for CommonMark if you want
     // See https://github.com/facebook/docusaurus/pull/9097
-    format: 'detect', 
+    format: "detect",
 
     mdx1Compat: {
       // Allow html comments in MDX files like blog `<!-- truncate -->` markers
@@ -43,7 +43,7 @@ const config = {
       // Allow former admonition title syntax :::note Title instead of new syntax :::note[Title]
       admonitions: true,
       // Allow usage of unescaped {#headingId} syntax instead of \{#headingId}
-      headingIds: true
+      headingIds: true,
     },
 
     // Gives you opportunity to apply your own string processing before the MDX compilation
@@ -70,7 +70,7 @@ const config = {
           path: "news",
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: [require.resolve("./src/css/custom.css")],
         },
       }),
     ],
@@ -82,16 +82,16 @@ const config = {
     async function WebpackDocusaurusPlugin(context, options) {
       // ...
       return {
-        name: 'webpack-docusaurus-plugin',
+        name: "webpack-docusaurus-plugin",
         configureWebpack(config, isServer, utils) {
           const isCI = process.env.CI;
-		  
+
           // Disable cache in CI since it gets evicted too quickly from github actions limits
           // const cacheOptions = isCI ? { cache: false } : {};
 
           // Or compress the cache w/ gzip or brotli
-          const cacheOptions = isCI ? { cache: { compression: 'brotli' } } : {};
-        
+          const cacheOptions = isCI ? { cache: { compression: "brotli" } } : {};
+
           // Replace terser with esbuild minify, but only if terser would have been used
           // This still respects the --no-minify flag
           const minimizer = new TerserPlugin({
@@ -100,13 +100,13 @@ const config = {
           const minimizers = config.optimization.minimizer?.map((m) =>
             m instanceof TerserPlugin ? minimizer : m
           );
-        
+
           return {
-            mergeStrategy: { 'optimization.minimizer': 'replace' },
+            mergeStrategy: { "optimization.minimizer": "replace" },
             optimization: {
               minimizer: minimizers,
             },
-            ...cacheOptions
+            ...cacheOptions,
           };
         },
       };
@@ -127,6 +127,9 @@ const config = {
     ({
       googleAdsense: {
         dataAdClient: "ca-pub-9270569596814796",
+      },
+      tableOfContents: {
+        maxHeadingLevel: 5,
       },
       docs: {
         sidebar: {
@@ -161,18 +164,18 @@ const config = {
             type: "doc",
             docId: "manual/intro",
             position: "left",
-            label: "Docs"
+            label: "Docs",
           },
           {
             type: "doc",
             docId: "charts/description_list",
             position: "left",
-            label: "Charts"
+            label: "Charts",
           },
           {
             href: "https://truecharts.org/s/shop",
             label: "Merch/Store",
-            position: "left"
+            position: "left",
           },
         ],
       },
@@ -188,8 +191,8 @@ const config = {
               },
               {
                 label: "Support Policy",
-                href: "/manual/SUPPORT"
-              }
+                href: "/manual/SUPPORT",
+              },
             ],
           },
           {
@@ -271,7 +274,6 @@ const config = {
       },
     }),
   },
-  
 };
 
 module.exports = config;

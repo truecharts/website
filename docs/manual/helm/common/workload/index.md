@@ -1,4 +1,6 @@
-# Workload
+---
+title: Workload
+---
 
 | Key                                                                  |   Type    | Required |   Helm Template    |                             Default                             | Description                                                              |
 | :------------------------------------------------------------------- | :-------: | :------: | :----------------: | :-------------------------------------------------------------: | :----------------------------------------------------------------------- |
@@ -90,7 +92,7 @@ Naming scheme:
 
 > Additional keys, information and examples for `workload.[workload-name].podSpec.containers`.
 
-- [Container](../container/README.md)
+- [Container](../container/index.md)
 
 ---
 

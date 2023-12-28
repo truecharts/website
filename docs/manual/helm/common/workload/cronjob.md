@@ -19,7 +19,7 @@
 
 Notes:
 
-View common `keys` of `workload` in [workload Documentation](README.md).
+View common `keys` of `workload` in [workload Documentation](index.md).
 
 ---
 

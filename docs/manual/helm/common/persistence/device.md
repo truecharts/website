@@ -12,7 +12,7 @@
 
 Notes:
 
-View common `keys` of `persistence` in [persistence Documentation](README.md).
+View common `keys` of `persistence` in [persistence Documentation](index.md).
 
 ---
 

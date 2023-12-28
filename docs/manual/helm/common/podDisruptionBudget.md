@@ -1,36 +1,207 @@
-# PodDisruptionBudget
-
-| Key                                                       |       Type        | Required |   Helm Template    | Default | Description                                                                        |
-| :-------------------------------------------------------- | :---------------: | :------: | :----------------: | :-----: | :--------------------------------------------------------------------------------- |
-| podDisruptionBudget                                       |      `dict`       |    ❌    |         ❌         |  `{}`   | Define the PDBs as dicts                                                           |
-| podDisruptionBudget.[pdb-name]                            |      `dict`       |    ✅    |         ❌         |  `{}`   | Holds PDB definition                                                               |
-| podDisruptionBudget.[pdb-name].namespace                  |     `string`      |    ❌    |         ✅         |  `""`   | Define the namespace for this object                                               |
-| podDisruptionBudget.[pdb-name].enabled                    |     `boolean`     |    ✅    |         ❌         | `false` | Enables or Disables the PDB                                                        |
-| podDisruptionBudget.[pdb-name].labels                     |      `dict`       |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for PDB                                                          |
-| podDisruptionBudget.[pdb-name].annotations                |      `dict`       |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for PDB                                                     |
-| podDisruptionBudget.[pdb-name].minAvailable               | `int` or `string` |    ❌    |         ✅         |  `""`   | Define the minAvailable.                                                           |
-| podDisruptionBudget.[pdb-name].maxUnavailable             | `int` or `string` |    ❌    |         ✅         |  `""`   | Define the maxUnavailable.                                                         |
-| podDisruptionBudget.[pdb-name].unhealthyPodEvictionPolicy |     `string`      |    ❌    |         ✅         |  `""`   | Define the unhealthyPodEvictionPolicy. Valid values [IfHealthyBudget, AlwaysAllow] |
-
-Notes:
-
-> At least 1 of `minAvailable` or `maxUnavailable` must be set.
-
 ---
+title: Pod Disruption Budget
+---
+
+:::tip
+
+Replace references to `$name` with the actual name you want to use.
+
+:::
 
 Appears in:
 
 - `.Values.podDisruptionBudget`
 
----
-
-Naming scheme:
+## Naming scheme
 
 - `$FullName-$podDisruptionBudgetName` (release-name-chart-name-podDisruptionBudgetName)
 
 ---
 
-Examples:
+## Notes
+
+At least 1 of [`minAvailable`, `maxUnavailable`] must be set.
+
+---
+
+## `podDisruptionBudget`
+
+Create Pod Disruption Budget objects
+
+|          |                       |
+| -------- | --------------------- |
+| Key      | `podDisruptionBudget` |
+| Type     | `map`                 |
+| Required | `❌`                  |
+| tpl      | `❌`                  |
+| Default  | `{}`                  |
+
+---
+
+### `podDisruptionBudget.$name`
+
+Define Pod Disruption Budget
+
+|          |                             |
+| -------- | --------------------------- |
+| Key      | `podDisruptionBudget.$name` |
+| Type     | `map`                       |
+| Required | `✅`                        |
+| tpl      | `❌`                        |
+| Default  | `{}`                        |
+
+---
+
+#### `podDisruptionBudget.$name.enabled`
+
+Enables or Disables the Pod Disruption Budget
+
+|          |                                     |
+| -------- | ----------------------------------- |
+| Key      | `podDisruptionBudget.$name.enabled` |
+| Type     | `bool`                              |
+| Required | `✅`                                |
+| tpl      | `❌`                                |
+| Default  | `false`                             |
+
+Example
+
+```yaml
+enabled: true
+```
+
+---
+
+#### `podDisruptionBudget.$name.namespace`
+
+Define the namespace for this object
+
+|          |                                       |
+| -------- | ------------------------------------- |
+| Key      | `podDisruptionBudget.$name.namespace` |
+| Type     | `string`                              |
+| Required | `❌`                                  |
+| tpl      | `✅`                                  |
+| Default  | `""`                                  |
+
+Example
+
+```yaml
+namespace: some-namespace
+```
+
+---
+
+#### `podDisruptionBudget.$name.labels`
+
+Additional labels for Pod Disruption Budget
+
+|          |                                    |
+| -------- | ---------------------------------- |
+| Key      | `podDisruptionBudget.$name.labels` |
+| Type     | `map`                              |
+| Required | `❌`                               |
+| tpl      | `✅ (On value only)`               |
+| Default  | `{}`                               |
+
+Example
+
+```yaml
+labels:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
+
+---
+
+#### `podDisruptionBudget.$name.annotations`
+
+Additional annotations for Pod Disruption Budget
+
+|          |                                         |
+| -------- | --------------------------------------- |
+| Key      | `podDisruptionBudget.$name.annotations` |
+| Type     | `map`                                   |
+| Required | `❌`                                    |
+| tpl      | `✅ (On value only)`                    |
+| Default  | `{}`                                    |
+
+Example
+
+```yaml
+annotations:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
+
+---
+
+#### `podDisruptionBudget.$name.minAvailable`
+
+Define the minAvailable.
+
+|          |                                          |
+| -------- | ---------------------------------------- |
+| Key      | `podDisruptionBudget.$name.minAvailable` |
+| Type     | `int` or `string`                        |
+| Required | `❌`                                     |
+| tpl      | `✅`                                     |
+| Default  | `""`                                     |
+
+Example
+
+```yaml
+minAvailable: 1
+```
+
+---
+
+#### `podDisruptionBudget.$name.maxUnavailable`
+
+Define the maxUnavailable.
+
+|          |                                            |
+| -------- | ------------------------------------------ |
+| Key      | `podDisruptionBudget.$name.maxUnavailable` |
+| Type     | `int` or `string`                          |
+| Required | `❌`                                       |
+| tpl      | `✅`                                       |
+| Default  | `""`                                       |
+
+Example
+
+```yaml
+maxUnavailable: 1
+```
+
+---
+
+#### `podDisruptionBudget.$name.unhealthyPodEvictionPolicy`
+
+Define the unhealthyPodEvictionPolicy
+
+|          |                                                        |
+| -------- | ------------------------------------------------------ |
+| Key      | `podDisruptionBudget.$name.unhealthyPodEvictionPolicy` |
+| Type     | `string`                                               |
+| Required | `❌`                                                   |
+| tpl      | `✅`                                                   |
+| Default  | `""`                                                   |
+
+Valid Values:
+
+- `IfHealthyBudget`
+- `AlwaysAllow`
+
+Example
+
+```yaml
+unhealthyPodEvictionPolicy: IfHealthyBudget
+```
+
+---
+
+## Full Examples
 
 ```yaml
 podDisruptionBudget:
