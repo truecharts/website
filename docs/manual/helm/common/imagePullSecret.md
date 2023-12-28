@@ -77,7 +77,11 @@ Define the namespace for this object
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `""`
-- Example: `some-namespace`
+- Example
+
+```yaml
+namespace: `some-namespace`
+```
 
 ---
 
@@ -140,7 +144,11 @@ Define the registry of the image pull secret
 - Required: `✅`
 - tpl: `✅`
 - Default: `""`
-- Example: `quay.io`
+- Example
+
+```yaml
+registry: quay.io
+```
 
 ---
 
@@ -154,7 +162,11 @@ Define the username of the image pull secret
 - tpl: `✅`
 - Default: `""`
 - Values: `string`
-- Example: `my_user`
+- Example
+
+```yaml
+username: my_user
+```
 
 ---
 
@@ -168,7 +180,11 @@ Define the password of the image pull secret
 - tpl: `✅`
 - Default: `""`
 - Values: `string`
-- Example: `my_pass`
+- Example
+
+```yaml
+password: my_pass
+```
 
 ---
 
@@ -182,7 +198,11 @@ Define the email of the image pull secret
 - tpl: `✅`
 - Default: `""`
 - Values: `string`
-- Example: `my_email@example.com`
+- Example
+
+```yaml
+email: my_email@example.com
+```
 
 ---
 
@@ -196,7 +216,11 @@ Whether to assign the secret to all pods or not
 - tpl: `❌`
 - Default: unset
 - Values: `true` or `false`
-- Example: `true`
+- Example
+
+```yaml
+targetSelectAll: true
+```
 
 ---
 
@@ -219,7 +243,7 @@ targetSelector:
 
 ---
 
-Examples:
+## Full Examples
 
 ```yaml
 imagePullSecret:

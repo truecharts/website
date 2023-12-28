@@ -79,7 +79,7 @@ footer: |
 
 ---
 
-## Examples:
+## Full Examples
 
 ```yaml
 notes:

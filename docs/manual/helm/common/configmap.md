@@ -54,7 +54,11 @@ Enables or Disables the ConfigMap
 - tpl: `❌`
 - Default: `false`
 - Values: `true` or `false`
-- Example: `true`
+- Example
+
+```yaml
+enabled: true
+```
 
 ---
 
@@ -67,7 +71,11 @@ Define the namespace for this object
 - Required: `❌`
 - tpl: `✅ (On value only)`
 - Default: `""`
-- Example: `some-namespace`
+- Example
+
+```yaml
+namespace: some-namespace
+```
 
 ---
 
@@ -127,7 +135,7 @@ data:
 
 ---
 
-Examples:
+## Full Examples
 
 ```yaml
 configmap:
