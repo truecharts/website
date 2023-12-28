@@ -4,11 +4,11 @@
 @tailwind utilities;
 @tailwind components;
 
-@font-face {
+/* @font-face {
   font-family: "ADAM-CG-PRO" !important;
   src: url("/ADAM-CG-PRO.woff") format("woff") !important;
-}
-
+} */
+/*
 :root {
   --ifm-font-family-monospace: "ADAM-CG-PRO";
   --ifm-font-family-base: "ADAM-CG-PRO";
@@ -17,7 +17,7 @@
 *,
 html {
   font-family: "ADAM-CG-PRO" !important;
-}
+} */
 
 html {
   scroll-behavior: smooth;

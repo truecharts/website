@@ -14,6 +14,7 @@ const clickAnimationOptions = {
   animationData: clickAnimation,
   rendererSettings: {
     preserveAspectRatio: "xMidYMid slice",
+    speed: 0.5,
   },
 };
 const systemAnimationOptions = {
@@ -22,6 +23,7 @@ const systemAnimationOptions = {
   animationData: systemAnimation,
   rendererSettings: {
     preserveAspectRatio: "xMidYMid slice",
+    speed: 0.5,
   },
 };
 const stabilityAnimationOptions = {
@@ -30,6 +32,7 @@ const stabilityAnimationOptions = {
   animationData: stabilityAnimation,
   rendererSettings: {
     preserveAspectRatio: "xMidYMid slice",
+    speed: 0.5,
   },
 };
 
@@ -50,11 +53,15 @@ export default function Love() {
       <div className="container">
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/sponsor">
-          Sponsor TrueCharts
+            Sponsor TrueCharts
           </Link>
-          <Icon icon="uim:discord" className="align-middle" />
-          <Link className="button button--secondary button--lg" to="https://discord.gg/tVsPTHWTtr">
-          Join Us On Discord
+          <Link
+            className="button button--secondary button--lg"
+            to="https://discord.gg/tVsPTHWTtr"
+          >
+            {/* https://icon-sets.iconify.design/akar-icons/discord-fill/ */}
+            <Icon icon="skill-icons:discord" className="align-middle m-2" />
+            Join Us On Discord
           </Link>
         </div>
       </div>
@@ -67,9 +74,8 @@ export default function Love() {
             options={clickAnimationOptions}
             isClickToPauseDisabled={true}
           />
-          <div className="overflow-hidden absolute lg:h-[400px] h-[320px] lg:w-[400px] w-[320px] bg-indigo-600/5 bottom-0 left-0 rotate-45 -z-1 rounded-3xl"></div>
+          <div className="overflow-hidden absolute lg:h-[400px] h-[400px] lg:w-[400px] w-[400px] bg-indigo-600/5 bottom-0 left-0 rotate-45 -z-1 rounded-3xl"></div>
         </div>
-
         <div
           className="lg:ml-8 wow animate__animated animate__fadeInRight"
           data-wow-delay=".3s"
@@ -127,7 +133,7 @@ export default function Love() {
               options={systemAnimationOptions}
               isClickToPauseDisabled={true}
             />
-            <div className="overflow-hidden absolute lg:h-[400px] h-[320px] lg:w-[400px] w-[320px] bg-indigo-600/5 bottom-0 right-0 rotate-45 -z-1 rounded-3xl"></div>
+            <div className="overflow-hidden absolute lg:h-[400px] h-[400px] lg:w-[400px] w-[400px] bg-indigo-600/5 bottom-0 right-0 rotate-45 -z-1 rounded-3xl"></div>
           </div>
 
           <div
@@ -194,7 +200,7 @@ export default function Love() {
               options={stabilityAnimationOptions}
               isClickToPauseDisabled={true}
             />
-            <div className="overflow-hidden absolute lg:h-[400px] h-[320px] lg:w-[400px] w-[320px] bg-indigo-600/5 bottom-0 left-0 rotate-45 -z-1 rounded-3xl"></div>
+            <div className="overflow-hidden absolute lg:h-[400px] h-[400px] lg:w-[400px] w-[400px] bg-indigo-600/5 bottom-0 left-0 rotate-45 -z-1 rounded-3xl"></div>
           </div>
 
           <div

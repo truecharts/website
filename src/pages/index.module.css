@@ -5,7 +5,7 @@
 
 .heroBanner {
   background-repeat: no-repeat;
-  background-size-height: 100% auto;
+  background-size: 100% auto;
   background-attachment: fixed;
   background-position: center top;
   padding: 0 0;
@@ -27,6 +27,7 @@
     display: none;
   }
 }
+
 @media screen and (min-width: 1600px) {
   .headerSmall {
     display: none;
@@ -45,11 +46,13 @@
 .container {
   padding: 48px 64px;
 }
-.container > header > h1 {
+
+.container>header>h1 {
   font-weight: bolder !important;
   font-size: 3.2rem !important;
   line-height: 3rem;
 }
+
 .container p {
   width: 85%;
   font-size: 1.2rem;
@@ -90,6 +93,7 @@
   .animated_button {
     width: 100%;
   }
+
   .container p {
     width: 100%;
   }
@@ -100,25 +104,22 @@
   position: absolute;
   width: 500px;
   height: 500px;
-  background-image: conic-gradient(
-    transparent,
-    transparent,
-    transparent,
-    #326ee6
-  );
+  background-image: conic-gradient(transparent,
+      transparent,
+      transparent,
+      #326ee6);
   animation: animate 4s linear infinite;
 }
+
 .animated_button::after {
   content: "";
   position: absolute;
   width: 500px;
   height: 500px;
-  background-image: conic-gradient(
-    transparent,
-    transparent,
-    transparent,
-    #d400df
-  );
+  background-image: conic-gradient(transparent,
+      transparent,
+      transparent,
+      #d400df);
   animation: animate 4s linear infinite;
   animation-delay: -2s;
 }
@@ -127,6 +128,7 @@
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(360deg);
   }
@@ -166,6 +168,7 @@
   align-items: center;
   width: 100%;
 }
+
 .animated__lottie {
   width: 100%;
   padding: 0px 120px;

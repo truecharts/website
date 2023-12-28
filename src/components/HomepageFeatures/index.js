@@ -8,9 +8,10 @@ const FeatureList = [
     Svg: require("@site/static/img/easy-to-use-icon.svg").default,
     description: (
       <>
-        TrueCharts features a neatly organised catalog of Apps for TrueNAS SCALE.
+        TrueCharts features a neatly organised catalog of Apps for TrueNAS
+        SCALE.
       </>
-    )
+    ),
   },
   {
     title: "Consistent Ecosystem",
@@ -20,7 +21,7 @@ const FeatureList = [
         All TrueCharts Apps, are build upon the same solid foundation. All
         featuring the same deployment experience
       </>
-    )
+    ),
   },
   {
     title: "Stability",
@@ -30,8 +31,8 @@ const FeatureList = [
         TrueCharts has stability as a prime importance: What is running, should
         stay running.
       </>
-    )
-  }
+    ),
+  },
 ];
 
 function Feature({ Svg, title, description }) {
