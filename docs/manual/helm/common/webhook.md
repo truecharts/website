@@ -1,43 +1,20 @@
-# Webhook
+---
+title: Webhook
+---
 
-| Key                                                                                        |   Type    | Required |   Helm Template    | Default | Description                                                                                        |
-| :----------------------------------------------------------------------------------------- | :-------: | :------: | :----------------: | :-----: | :------------------------------------------------------------------------------------------------- |
-| webhook                                                                                    |  `dict`   |    ❌    |         ❌         |  `{}`   | Define the webhooks as dicts                                                                       |
-| webhook.[webhook-name]                                                                     |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds webhook definition                                                                           |
-| webhook.[webhook-name].enabled                                                             | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the webhook                                                                    |
-| webhook.[webhook-name].namespace                                                           | `string`  |    ❌    |         ✅         |  `""`   | Define the namespace for this object                                                               |
-| webhook.[webhook-name].labels                                                              |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for webhook                                                                      |
-| webhook.[webhook-name].annotations                                                         |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for webhook                                                                 |
-| webhook.[webhook-name].type                                                                | `string`  |    ✅    |         ✅         |  `""`   | Define the type of the webhook. [mutating, validating]                                             |
-| webhook.[webhook-name].webhooks                                                            |  `list`   |    ✅    |         ❌         |  `[]`   | Define the webhooks.                                                                               |
-| webhook.[webhook-name].webhooks.[webhook].name                                             | `string`  |    ✅    |         ✅         |  `""`   | Define the webhook name                                                                            |
-| webhook.[webhook-name].webhooks.[webhook].failurePolicy                                    | `string`  |    ❌    |         ✅         |  `""`   | Define the failurePolicy for the webhook [Ignore, Fail]                                            |
-| webhook.[webhook-name].webhooks.[webhook].matchPolicy                                      | `string`  |    ❌    |         ✅         |  `""`   | Define the matchPolicy for the webhook [Exact, Equivalent]                                         |
-| webhook.[webhook-name].webhooks.[webhook].sideEffects                                      | `string`  |    ❌    |         ✅         |  `""`   | Define the sideEffects for the webhook [None, NoneOnDryRun]                                        |
-| webhook.[webhook-name].webhooks.[webhook].reinvocationPolicy                               | `string`  |    ❌    |         ✅         |  `""`   | Define the reinvocationPolicy for the webhook [Never, IfNeeded]. Only on mutating webhook          |
-| webhook.[webhook-name].webhooks.[webhook].timeoutSeconds                                   |   `int`   |    ❌    |         ❌         |  `""`   | Define the timeoutSeconds for the webhook. Between 1 and 30                                        |
-| webhook.[webhook-name].webhooks.[webhook].admissionReviewVersions                          |  `list`   |    ✅    |         ❌         |  `[]`   | Define the admissionReviewVersions for the webhook                                                 |
-| webhook.[webhook-name].webhooks.[webhook].admissionReviewVersions.[admissionReviewVersion] | `string`  |    ✅    |         ✅         |  `""`   | Define the admissionReviewVersion item for the webhook                                             |
-| webhook.[webhook-name].webhooks.[webhook].clientConfig                                     |  `dict`   |    ✅    |         ❌         |  `{}`   | Define the clientConfig for the webhook                                                            |
-| webhook.[webhook-name].webhooks.[webhook].clientConfig.caBundle                            | `string`  |    ❌    |         ✅         |  `""`   | Define the caBundle in clientConfig for the webhook                                                |
-| webhook.[webhook-name].webhooks.[webhook].clientConfig.url                                 | `string`  |    ❌    |         ✅         |  `""`   | Define the url in clientConfig for the webhook, required if service is not defined in clientConfig |
-| webhook.[webhook-name].webhooks.[webhook].clientConfig.service                             |  `dict`   |    ❌    |         ❌         |  `{}`   | Define the service in clientConfig for the webhook, required if url is not defined in clientConfig |
-| webhook.[webhook-name].webhooks.[webhook].clientConfig.service.name                        | `string`  |    ✅    |         ✅         |  `""`   | Define the service name in clientConfig for the webhook                                            |
-| webhook.[webhook-name].webhooks.[webhook].clientConfig.service.namespace                   | `string`  |    ✅    |         ✅         |  `""`   | Define the service namespace in clientConfig for the webhook                                       |
-| webhook.[webhook-name].webhooks.[webhook].clientConfig.service.path                        | `string`  |    ❌    |         ✅         |  `""`   | Define the service path in clientConfig for the webhook                                            |
-| webhook.[webhook-name].webhooks.[webhook].clientConfig.service.port                        |   `int`   |    ❌    |         ✅         |  `""`   | Define the service port in clientConfig for the webhook                                            |
-| webhook.[webhook-name].webhooks.[webhook].rules                                            |  `list`   |    ✅    |         ❌         |  `[]`   | Define the rules for the webhook                                                                   |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].scope                               | `string`  |    ❌    |         ✅         |  `""`   | Define the scope of the rule for the webhook [Cluster, Namespaced, *]                              |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].apiGroups                           |  `list`   |    ✅    |         ❌         |  `[]`   | Define the apiGroups of the rule for the webhook                                                   |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].apiGroups.[apiGroup]                | `string`  |    ✅    |         ✅         |  `""`   | Define the apiGroup in apiGroups of the rule for the webhook                                       |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].apiVersions                         |  `list`   |    ✅    |         ❌         |  `[]`   | Define the apiVersions of the rule for the webhook                                                 |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].apiVersions.[apiVersion]            | `string`  |    ✅    |         ✅         |  `""`   | Define the apiVersion in apiVersions of the rule for the webhook                                   |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].operations                          |  `list`   |    ✅    |         ❌         |  `[]`   | Define the operations of the rule for the webhook                                                  |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].operations.[operation]              | `string`  |    ✅    |         ✅         |  `""`   | Define the operation in operations of the rule for the webhook                                     |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].resources                           |  `list`   |    ✅    |         ❌         |  `[]`   | Define the resources of the rule for the webhook                                                   |
-| webhook.[webhook-name].webhooks.[webhook].rules.[rule].resources.[resource]                | `string`  |    ✅    |         ✅         |  `""`   | Define the resource in resources of the rule for the webhook                                       |
+:::tip
+
+Replace references to `$name` with the actual name you want to use.
+
+:::
+
+## Naming scheme
+
+- `$FullName-$webhookName` (release-name-chart-name-webhookName)
 
 ---
+
+## Keys
 
 Appears in:
 
@@ -45,13 +22,488 @@ Appears in:
 
 ---
 
-Naming scheme:
+### webhook
 
-- `$FullName-$webhookName` (release-name-chart-name-webhookName)
+Create webhook objects
+
+- Key: `webhook`
+- Type: `map`
+- Required: `❌`
+- tpl: `❌`
+- Default: `{}`
 
 ---
 
-Examples:
+### webhook.$name
+
+Define webhook
+
+- Key: `webhook.$name`
+- Type: `map`
+- Required: `✅`
+- tpl: `❌`
+- Default: `{}`
+
+---
+
+### webhook.$name.enabled
+
+Enables or Disables the webhook
+
+- Key: `webhook.$name.enabled`
+- Type: `bool`
+- Required: `✅`
+- tpl: `❌`
+- Default: `false`
+- Example
+
+```yaml
+enabled: true
+```
+
+---
+
+### webhook.$name.namespace
+
+Define the namespace for this object
+
+- Key: `webhook.$name.namespace`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅ (On value only)`
+- Default: `""`
+- Example
+
+```yaml
+namespace: some-namespace
+```
+
+---
+
+### webhook.$name.labels
+
+Additional labels for webhook
+
+- Key: `webhook.$name.labels`
+- Type: `map`
+- Required: `❌`
+- tpl: `✅ (On value only)`
+- Default: `{}`
+- Example
+
+```yaml
+labels:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
+
+---
+
+### webhook.$name.annotations
+
+Additional annotations for webhook
+
+- Key: `webhook.$name.annotations`
+- Type: `map`
+- Required: `❌`
+- tpl: `✅ (On value only)`
+- Default: `{}`
+- Example
+
+```yaml
+annotations:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
+
+---
+
+### webhook.$name.type
+
+Define the type of the webhook.
+
+- Key: `webhook.$name.type`
+- Type: `string`
+- Required: `✅`
+- tpl: `✅`
+- Default: `""`
+- Valid Values: `mutating`, `validating`
+- Example
+
+```yaml
+type: mutating
+```
+
+---
+
+### webhook.$name.webhooks
+
+Define the webhooks.
+
+- Key: `webhook.$name.webhooks`
+- Type: `list` of `map`
+- Required: `✅`
+- tpl: `❌`
+- Default: `[]`
+
+---
+
+### webhook.$name.webhooks[].name
+
+Define the webhook name
+
+- Key: `webhook.$name.webhooks[].name`
+- Type: `string`
+- Required: `✅`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+name: webhook-name
+```
+
+---
+
+### webhook.$name.webhooks[].failurePolicy
+
+Define the failurePolicy for the webhook
+
+- Key: `webhook.$name.webhooks[].failurePolicy`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Valid Values: `Ignore`, `Fail`
+- Example
+
+```yaml
+failurePolicy: Fail
+```
+
+---
+
+### webhook.$name.webhooks[].matchPolicy
+
+Define the matchPolicy for the webhook
+
+- Key: `webhook.$name.webhooks[].matchPolicy`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Valid Values: `Exact`, `Equivalent`
+- Example
+
+```yaml
+matchPolicy: Exact
+```
+
+---
+
+### webhook.$name.webhooks[].sideEffects
+
+Define the sideEffects for the webhook
+
+- Key: `webhook.$name.webhooks[].sideEffects`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Valid Values: `None`, `NoneOnDryRun`
+- Example
+
+```yaml
+sideEffects: None
+```
+
+---
+
+### webhook.$name.webhooks[].reinvocationPolicy
+
+Define the reinvocationPolicy for the webhook
+
+- Key: `webhook.$name.webhooks[].reinvocationPolicy`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Valid Values: `Never`, `IfNeeded`
+- Example
+
+```yaml
+reinvocationPolicy: Never
+```
+
+---
+
+### webhook.$name.webhooks[].timeoutSeconds
+
+Define the timeoutSeconds for the webhook
+
+- Key: `webhook.$name.webhooks[].timeoutSeconds`
+- Type: `int`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+timeoutSeconds: 30
+```
+
+---
+
+### webhook.$name.webhooks[].admissionReviewVersions
+
+Define the admissionReviewVersions for the webhook
+
+- Key: `webhook.$name.webhooks[].admissionReviewVersions`
+- Type: `list` of `string`
+- Required: `✅`
+- tpl: `✅`
+- Default: `[]`
+- Example
+
+```yaml
+admissionReviewVersions:
+  - v1
+  - v1beta1
+```
+
+---
+
+### webhook.$name.webhooks[].clientConfig
+
+Define the clientConfig for the webhook
+
+- Key: `webhook.$name.webhooks[].clientConfig`
+- Type: `map`
+- Required: `✅`
+- tpl: `❌`
+- Default: `{}`
+
+---
+
+### webhook.$name.webhooks[].clientConfig.caBundle
+
+Define the caBundle in clientConfig for the webhook
+
+- Key: `webhook.$name.webhooks[].clientConfig.caBundle`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+caBundle: ""
+```
+
+### webhook.$name.webhooks[].clientConfig.url
+
+Define the url in clientConfig for the webhook, required if service is not defined in clientConfig
+
+- Key: `webhook.$name.webhooks[].clientConfig.url`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+url: ""
+```
+
+---
+
+### webhook.$name.webhooks[].clientConfig.service
+
+Define the service in clientConfig for the webhook, required if url is not defined in clientConfig
+
+- Key: `webhook.$name.webhooks[].clientConfig.service`
+- Type: `map`
+- Required: `❌`
+- tpl: `❌`
+- Default: `{}`
+
+---
+
+### webhook.$name.webhooks[].clientConfig.service.name
+
+Define the service name in clientConfig for the webhook
+
+- Key: `webhook.$name.webhooks[].clientConfig.service.name`
+- Type: `string`
+- Required: `✅`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+name: ""
+```
+
+---
+
+### webhook.$name.webhooks[].clientConfig.service.namespace
+
+Define the service namespace in clientConfig for the webhook
+
+- Key: `webhook.$name.webhooks[].clientConfig.service.namespace`
+- Type: `string`
+- Required: `✅`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+namespace: ""
+```
+
+---
+
+### webhook.$name.webhooks[].clientConfig.service.path
+
+Define the service path in clientConfig for the webhook
+
+- Key: `webhook.$name.webhooks[].clientConfig.service.path`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+path: ""
+```
+
+---
+
+### webhook.$name.webhooks[].clientConfig.service.port
+
+Define the service port in clientConfig for the webhook
+
+- Key: `webhook.$name.webhooks[].clientConfig.service.port`
+- Type: `int`
+- Required: `❌`
+- tpl: `✅`
+- Default: `0`
+- Example
+
+```yaml
+port: 443
+```
+
+---
+
+### webhook.$name.webhooks[].rules
+
+Define the rules for the webhook
+
+- Key: `webhook.$name.webhooks[].rules`
+- Type: `list` of `map`
+- Required: `✅`
+- tpl: `❌`
+- Default: `[]`
+
+---
+
+### webhook.$name.webhooks[].rules[].scope
+
+Define the scope of the rule for the webhook
+
+- Key: `webhook.$name.webhooks[].rules[].scope`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Valid Values: `Cluster`, `Namespaced`, `*`
+- Example
+
+```yaml
+scope: Cluster
+```
+
+---
+
+### webhook.$name.webhooks[].rules[].apiGroups
+
+Define the apiGroups of the rule for the webhook
+
+- Key: `webhook.$name.webhooks[].rules[].apiGroups`
+- Type: `list` of `string`
+- Required: `✅`
+- tpl: `❌`
+- Default: `[]`
+- Example
+
+```yaml
+apiGroups:
+  - ""
+  - "apps"
+```
+
+---
+
+### webhook.$name.webhooks[].rules[].apiVersions
+
+Define the apiVersions of the rule for the webhook
+
+- Key: `webhook.$name.webhooks[].rules[].apiVersions`
+- Type: `list` of `string`
+- Required: `✅`
+- tpl: `❌`
+- Default: `[]`
+- Example
+
+```yaml
+apiVersions:
+  - v1
+  - v1beta1
+```
+
+---
+
+### webhook.$name.webhooks[].rules[].operations
+
+Define the operations of the rule for the webhook
+
+- Key: `webhook.$name.webhooks[].rules[].operations`
+- Type: `list` of `string`
+- Required: `✅`
+- tpl: `❌`
+- Default: `[]`
+- Example
+
+```yaml
+operations:
+  - CREATE
+  - UPDATE
+```
+
+---
+
+### webhook.$name.webhooks[].rules[].resources
+
+Define the resources of the rule for the webhook
+
+- Key: `webhook.$name.webhooks[].rules[].resources`
+- Type: `list` of `string`
+- Required: `✅`
+- tpl: `❌`
+- Default: `[]`
+- Example
+
+```yaml
+resources:
+  - pods
+  - pods/status
+```
+
+---
+
+## Full Examples
 
 ```yaml
 webhook:

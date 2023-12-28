@@ -300,11 +300,11 @@ subjects:
 
 ---
 
-### rbac.$name.subjects.kind
+### rbac.$name.subjects[].kind
 
 Define the `kind` of `subjects` entry
 
-- Key: `rbac.$name.subjects.kind`
+- Key: `rbac.$name.subjects[].kind`
 - Type: `string`
 - Required: `✅`
 - tpl: `✅`
@@ -317,11 +317,11 @@ kind: my-kind
 
 ---
 
-### rbac.$name.subjects.name
+### rbac.$name.subjects[].name
 
 Define the `name` of `subjects` entry
 
-- Key: `rbac.$name.subjects.name`
+- Key: `rbac.$name.subjects[].name`
 - Type: `string`
 - Required: `✅`
 - tpl: `✅`
@@ -334,11 +334,11 @@ name: my-name
 
 ---
 
-### rbac.$name.subjects.apiGroup
+### rbac.$name.subjects[].apiGroup
 
 Define the `apiGroup` of `subjects` entry
 
-- Key: `rbac.$name.subjects.apiGroup`
+- Key: `rbac.$name.subjects[].apiGroup`
 - Type: `string`
 - Required: `✅`
 - tpl: `✅`
