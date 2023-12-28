@@ -69,7 +69,7 @@ workload:
 | initContainers.[container-name].enabled | `boolean` |    ✅    |      ✅       | `false` | Enables or Disables the initContainer                  |
 | initContainers.[container-name].type    | `string`  |    ✅    |      ✅       |  `{}`   | Define the type initContainer (init, install, upgrade) |
 
-> Supports all keys from [container](README.md)
+> Supports all keys from [container](index.md)
 > Does not use `primary` key, `lifecycle` key and `probes` key
 
 ---
