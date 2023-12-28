@@ -10,36 +10,39 @@ See available service keys [here](./index.md).
 
 :::
 
-## Keys
-
 Appears in:
 
 - `.Values.service.$name`
 
 ---
 
-### externalIP
+## `externalIP`
 
 Configure External IP type
 
-- Key: `externalIP`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
+|          |              |
+| -------- | ------------ |
+| Key      | `externalIP` |
+| Type     | `string`     |
+| Required | `❌`         |
+| tpl      | `✅`         |
+| Default  | `""`         |
 
 ---
 
-### useSlice
+## `useSlice`
 
 Define whether to use EndpointSlice or Endpoint
 
-- Key: `useSlice`
-- Type: `bool`
-- Required: `❌`
-- tpl: `❌`
-- Default: `true`
-- Example
+|          |            |
+| -------- | ---------- |
+| Key      | `useSlice` |
+| Type     | `bool`     |
+| Required | `❌`       |
+| tpl      | `❌`       |
+| Default  | `true`     |
+
+Example
 
 ```yaml
 useSlice: false
@@ -47,20 +50,25 @@ useSlice: false
 
 ---
 
-### addressType
+## `addressType`
 
 Define the addressType for External IP
 
-- Key: `addressType`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `IPv4`
-- Valid Values:
-  - `IPv4`
-  - `IPv6`
-  - `FQDN`
-- Example
+|          |               |
+| -------- | ------------- |
+| Key      | `addressType` |
+| Type     | `string`      |
+| Required | `❌`          |
+| tpl      | `✅`          |
+| Default  | `IPv4`        |
+
+Valid Values:
+
+- `IPv4`
+- `IPv6`
+- `FQDN`
+
+Example
 
 ```yaml
 addressType: IPv6
@@ -68,16 +76,19 @@ addressType: IPv6
 
 ---
 
-### appProtocol
+## `appProtocol`
 
 Define the appProtocol for External IP
 
-- Key: `appProtocol`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |               |
+| -------- | ------------- |
+| Key      | `appProtocol` |
+| Type     | `string`      |
+| Required | `❌`          |
+| tpl      | `✅`          |
+| Default  | `""`          |
+
+Example
 
 ```yaml
 appProtocol: http
@@ -85,19 +96,24 @@ appProtocol: http
 
 ---
 
-### sessionAffinity
+## `sessionAffinity`
 
 Define the session affinity (ClientIP, None)
 
-- Key: `sessionAffinity`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `ClientIP`
-  - `None`
-- Example
+|          |                   |
+| -------- | ----------------- |
+| Key      | `sessionAffinity` |
+| Type     | `string`          |
+| Required | `❌`              |
+| tpl      | `✅`              |
+| Default  | `""`              |
+
+Valid Values:
+
+- `ClientIP`
+- `None`
+
+Example
 
 ```yaml
 sessionAffinity: ClientIP
@@ -105,18 +121,23 @@ sessionAffinity: ClientIP
 
 ---
 
-### sessionAffinityConfig.clientIP.timeoutSeconds
+## `sessionAffinityConfig.clientIP.timeoutSeconds`
 
 Define the timeout for ClientIP session affinity (0-86400)
 
-- Key: `sessionAffinityConfig.clientIP.timeoutSeconds`
-- Type: `int`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `0` - `86400`
-- Example
+|          |                                                 |
+| -------- | ----------------------------------------------- |
+| Key      | `sessionAffinityConfig.clientIP.timeoutSeconds` |
+| Type     | `int`                                           |
+| Required | `❌`                                            |
+| tpl      | `✅`                                            |
+| Default  | `""`                                            |
+
+Valid Values:
+
+- `0` - `86400`
+
+Example
 
 ```yaml
 sessionAffinityConfig:
@@ -126,16 +147,19 @@ sessionAffinityConfig:
 
 ---
 
-### externalIPs
+## `externalIPs`
 
 Define externalIPs
 
-- Key: `externalIPs`
-- Type: `list` of `string`
-- Required: `❌`
-- tpl: `✅` (On entries only)
-- Default: `[]`
-- Example
+|          |                        |
+| -------- | ---------------------- |
+| Key      | `externalIPs`          |
+| Type     | `list` of `string`     |
+| Required | `❌`                   |
+| tpl      | `✅` (On entries only) |
+| Default  | `[]`                   |
+
+Example
 
 ```yaml
 externalIPs:
@@ -145,19 +169,24 @@ externalIPs:
 
 ---
 
-### externalTrafficPolicy
+## `externalTrafficPolicy`
 
 Define the external traffic policy (Cluster, Local)
 
-- Key: `externalTrafficPolicy`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `Cluster`
-  - `Local`
-- Example
+|          |                         |
+| -------- | ----------------------- |
+| Key      | `externalTrafficPolicy` |
+| Type     | `string`                |
+| Required | `❌`                    |
+| tpl      | `✅`                    |
+| Default  | `""`                    |
+
+Valid Values:
+
+- `Cluster`
+- `Local`
+
+Example
 
 ```yaml
 externalTrafficPolicy: Cluster

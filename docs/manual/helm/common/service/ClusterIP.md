@@ -10,24 +10,25 @@ See available service keys [here](./index.md).
 
 :::
 
-## Keys
-
 Appears in:
 
 - `.Values.service.$name`
 
 ---
 
-### clusterIP
+## `clusterIP`
 
 Configure Cluster IP type
 
-- Key: `clusterIP`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |             |
+| -------- | ----------- |
+| Key      | `clusterIP` |
+| Type     | `string`    |
+| Required | `❌`        |
+| tpl      | `✅`        |
+| Default  | `""`        |
+
+Example
 
 ```yaml
 clusterIP: 172.16.0.123
@@ -35,20 +36,25 @@ clusterIP: 172.16.0.123
 
 ---
 
-### ipFamilyPolicy
+## `ipFamilyPolicy`
 
 Define the ipFamilyPolicy (SingleStack, PreferDualStack, RequireDualStack)
 
-- Key: `ipFamilyPolicy`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `SingleStack`
-  - `PreferDualStack`
-  - `RequireDualStack`
-- Example
+|          |                  |
+| -------- | ---------------- |
+| Key      | `ipFamilyPolicy` |
+| Type     | `string`         |
+| Required | `❌`             |
+| tpl      | `✅`             |
+| Default  | `""`             |
+
+Valid Values:
+
+- `SingleStack`
+- `PreferDualStack`
+- `RequireDualStack`
+
+Example
 
 ```yaml
 ipFamilyPolicy: SingleStack
@@ -56,16 +62,19 @@ ipFamilyPolicy: SingleStack
 
 ---
 
-### ipFamilies
+## `ipFamilies`
 
 Define the ipFamilies
 
-- Key: `ipFamilies`
-- Type: `list` of `string`
-- Required: `❌`
-- tpl: `✅` (On entries only)
-- Default: `[]`
-- Example
+|          |                        |
+| -------- | ---------------------- |
+| Key      | `ipFamilies`           |
+| Type     | `list` of `string`     |
+| Required | `❌`                   |
+| tpl      | `✅` (On entries only) |
+| Default  | `[]`                   |
+
+Example
 
 ```yaml
 ipFamilies:
@@ -74,19 +83,24 @@ ipFamilies:
 
 ---
 
-### sessionAffinity
+## `sessionAffinity`
 
 Define the session affinity (ClientIP, None)
 
-- Key: `sessionAffinity`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `ClientIP`
-  - `None`
-- Example
+|          |                   |
+| -------- | ----------------- |
+| Key      | `sessionAffinity` |
+| Type     | `string`          |
+| Required | `❌`              |
+| tpl      | `✅`              |
+| Default  | `""`              |
+
+Valid Values:
+
+- `ClientIP`
+- `None`
+
+Example
 
 ```yaml
 sessionAffinity: ClientIP
@@ -94,18 +108,23 @@ sessionAffinity: ClientIP
 
 ---
 
-### sessionAffinityConfig.clientIP.timeoutSeconds
+## `sessionAffinityConfig.clientIP.timeoutSeconds`
 
 Define the timeout for ClientIP session affinity (0-86400)
 
-- Key: `sessionAffinityConfig.clientIP.timeoutSeconds`
-- Type: `int`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `0` - `86400`
-- Example
+|          |                                                 |
+| -------- | ----------------------------------------------- |
+| Key      | `sessionAffinityConfig.clientIP.timeoutSeconds` |
+| Type     | `int`                                           |
+| Required | `❌`                                            |
+| tpl      | `✅`                                            |
+| Default  | `""`                                            |
+
+Valid Values:
+
+- `0` - `86400`
+
+Example
 
 ```yaml
 sessionAffinityConfig:
@@ -115,16 +134,19 @@ sessionAffinityConfig:
 
 ---
 
-### externalIPs
+## `externalIPs`
 
 Define externalIPs
 
-- Key: `externalIPs`
-- Type: `list` of `string`
-- Required: `❌`
-- tpl: `✅` (On entries only)
-- Default: `[]`
-- Example
+|          |                        |
+| -------- | ---------------------- |
+| Key      | `externalIPs`          |
+| Type     | `list` of `string`     |
+| Required | `❌`                   |
+| tpl      | `✅` (On entries only) |
+| Default  | `[]`                   |
+
+Example
 
 ```yaml
 externalIPs:

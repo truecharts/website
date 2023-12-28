@@ -10,24 +10,25 @@ See available service keys [here](./index.md).
 
 :::
 
-## Keys
-
 Appears in:
 
 - `.Values.service.$name`
 
 ---
 
-### externalName
+## `externalName`
 
 Configure ExternalName type
 
-- Key: `externalName`
-- Type: `string`
-- Required: `✅`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |                |
+| -------- | -------------- |
+| Key      | `externalName` |
+| Type     | `string`       |
+| Required | `✅`           |
+| tpl      | `✅`           |
+| Default  | `""`           |
+
+Example
 
 ```yaml
 externalName: external-name
@@ -35,16 +36,19 @@ externalName: external-name
 
 ---
 
-### clusterIP
+## `clusterIP`
 
 Define the clusterIP for ExternalName
 
-- Key: `clusterIP`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |             |
+| -------- | ----------- |
+| Key      | `clusterIP` |
+| Type     | `string`    |
+| Required | `❌`        |
+| tpl      | `✅`        |
+| Default  | `""`        |
+
+Example
 
 ```yaml
 clusterIP: 172.16.0.123
@@ -52,18 +56,23 @@ clusterIP: 172.16.0.123
 
 ---
 
-### sessionAffinity
+## `sessionAffinity`
 
 Define the session affinity (ClientIP, None)
 
-- Key: `sessionAffinity`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `ClientIP`
-  - `None`
+|          |                   |
+| -------- | ----------------- |
+| Key      | `sessionAffinity` |
+| Type     | `string`          |
+| Required | `❌`              |
+| tpl      | `✅`              |
+| Default  | `""`              |
+
+Valid Values:
+
+- `ClientIP`
+- `None`
+
 Example
 
 ```yaml
@@ -72,18 +81,23 @@ sessionAffinity: ClientIP
 
 ---
 
-### sessionAffinityConfig.clientIP.timeoutSeconds
+## `sessionAffinityConfig.clientIP.timeoutSeconds`
 
 Define the timeout for ClientIP session affinity (0-86400)
 
-- Key: `sessionAffinityConfig.clientIP.timeoutSeconds`
-- Type: `int`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `0` - `86400`
-- Example
+|          |                                                 |
+| -------- | ----------------------------------------------- |
+| Key      | `sessionAffinityConfig.clientIP.timeoutSeconds` |
+| Type     | `int`                                           |
+| Required | `❌`                                            |
+| tpl      | `✅`                                            |
+| Default  | `""`                                            |
+
+Valid Values:
+
+- `0` - `86400`
+
+Example
 
 ```yaml
 sessionAffinityConfig:
@@ -93,16 +107,19 @@ sessionAffinityConfig:
 
 ---
 
-### externalIPs
+## `externalIPs`
 
 Define externalIPs
 
-- Key: `externalIPs`
-- Type: `list` of `string`
-- Required: `❌`
-- tpl: `✅` (On entries only)
-- Default: `[]`
-- Example
+|          |                        |
+| -------- | ---------------------- |
+| Key      | `externalIPs`          |
+| Type     | `list` of `string`     |
+| Required | `❌`                   |
+| tpl      | `✅` (On entries only) |
+| Default  | `[]`                   |
+
+Example
 
 ```yaml
 externalIPs:
@@ -112,19 +129,24 @@ externalIPs:
 
 ---
 
-### externalTrafficPolicy
+## `externalTrafficPolicy`
 
 Define the external traffic policy (Cluster, Local)
 
-- Key: `externalTrafficPolicy`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Valid Values:
-  - `Cluster`
-  - `Local`
-- Example
+|          |                         |
+| -------- | ----------------------- |
+| Key      | `externalTrafficPolicy` |
+| Type     | `string`                |
+| Required | `❌`                    |
+| tpl      | `✅`                    |
+| Default  | `""`                    |
+
+Valid Values:
+
+- `Cluster`
+- `Local`
+
+Example
 
 ```yaml
 externalTrafficPolicy: Cluster
