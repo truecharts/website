@@ -1,16 +1,12 @@
-# ConfigMap
-
-| Key                                    |   Type    | Required |   Helm Template    | Default | Description                          |
-| :------------------------------------- | :-------: | :------: | :----------------: | :-----: | :----------------------------------- |
-| configmap                              |  `dict`   |    ❌    |         ❌         |  `{}`   | Define the configMaps as dicts       |
-| configmap.[configmap-name]             |  `dict`   |    ✅    |         ❌         |  `{}`   | Holds configMap definition           |
-| configmap.[configmap-name].namespace   | `string`  |    ❌    |         ✅         |  `""`   | Define the namespace for this object |
-| configmap.[configmap-name].enabled     | `boolean` |    ✅    |         ❌         | `false` | Enables or Disables the configMap    |
-| configmap.[configmap-name].labels      |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for configmap      |
-| configmap.[configmap-name].annotations |  `dict`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for configmap |
-| configmap.[configmap-name].data        |  `dict`   |    ✅    |         ✅         |  `{}`   | Define the data of the configmap     |
-
 ---
+title: Configmap
+---
+
+## Naming scheme
+
+- `$FullName-$ConfigmapName` (release-name-chart-name-configmap-name)
+
+## Keys
 
 Appears in:
 
@@ -18,9 +14,88 @@ Appears in:
 
 ---
 
-Naming scheme:
+### configmap
 
-- `$FullName-$ConfigmapName` (release-name-chart-name-configmapName)
+Create ConfigMaps
+
+- Key: `configmap`
+- Type: `dict`
+- Required: `❌`
+- tpl: `❌`
+- Default: `{}`
+
+---
+
+### configmap.$ConfigmapName
+
+Define ConfigMap
+
+- Key: `configmap.$ConfigmapName`
+- Type: `dict`
+- Required: `✅`
+- tpl: `❌`
+- Default: `{}`
+
+---
+
+### configmap.$ConfigmapName.enabled
+
+Enables or Disables the ConfigMap
+
+- Key: `configmap.$ConfigmapName.enabled`
+- Type: `boolean`
+- Required: `✅`
+- tpl: `❌`
+- Default: `false`
+- Values: `true` or `false`
+
+---
+
+### configmap.$ConfigmapName.namespace
+
+Define the namespace for this object
+
+- Key: `configmap.$ConfigmapName.namespace`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅ (On value only)`
+- Default: `""`
+
+---
+
+### configmap.$ConfigmapName.labels
+
+Additional labels for ConfigMap
+
+- Key: `configmap.$ConfigmapName.labels`
+- Type: `dict`
+- Required: `❌`
+- tpl: `✅ (On value only)`
+- Default: `{}`
+
+---
+
+### configmap.$ConfigmapName.annotations
+
+Additional annotations for ConfigMap
+
+- Key: `configmap.$ConfigmapName.annotations`
+- Type: `dict`
+- Required: `❌`
+- tpl: `✅ (On value only)`
+- Default: `{}`
+
+---
+
+### configmap.$ConfigmapName.data
+
+Define the data of the ConfigMap
+
+- Key: `configmap.$ConfigmapName.data`
+- Type: `dict`
+- Required: `✅`
+- tpl: `✅`
+- Default: `{}`
 
 ---
 

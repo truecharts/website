@@ -1,4 +1,6 @@
-# Notes
+---
+title: Notes
+---
 
 ## Keys
 
