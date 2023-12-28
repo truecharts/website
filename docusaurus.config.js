@@ -128,6 +128,9 @@ const config = {
       googleAdsense: {
         dataAdClient: "ca-pub-9270569596814796",
       },
+      tableOfContents: {
+        maxHeadingLevel: 5,
+      },
       docs: {
         sidebar: {
           autoCollapseCategories: true,
