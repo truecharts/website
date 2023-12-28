@@ -2,42 +2,38 @@
 title: Notes
 ---
 
-## Keys
-
 Appears in:
 
 - `.Values.notes`
 
 ---
 
-### notes
+## `notes`
 
 Define values for `NOTES.txt`
 
-- Key: `notes`
-- Type: `map`
-- Required: `❌`
-- tpl: `❌`
-- Default:
-
-```yaml
-notes:
-  header: # See notes.header
-  custom: # See notes.custom
-  footer: # See notes.footer
-```
+|          |         |
+| -------- | ------- |
+| Key      | `notes` |
+| Type     | `map`   |
+| Required | `❌`    |
+| tpl      | `❌`    |
+| Default  | `{}`    |
 
 ---
 
-### notes.header
+### `notes.header`
 
 Define header
 
-- Key: `notes.header`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default:
+|          |                |
+| -------- | -------------- |
+| Key      | `notes.header` |
+| Type     | `string`       |
+| Required | `❌`           |
+| tpl      | `✅`           |
+
+Default:
 
 ```yaml
 header: |
@@ -47,27 +43,32 @@ header: |
 
 ---
 
-### notes.custom
+### `notes.custom`
 
 Define custom message, this go between header and footer
 
-- Key: `notes.custom`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
+|          |                |
+| -------- | -------------- |
+| Key      | `notes.custom` |
+| Type     | `string`       |
+| Required | `❌`           |
+| tpl      | `✅`           |
+| Default  | `""`           |
 
 ---
 
-### notes.footer
+### `notes.footer`
 
 Define footer
 
-- Key: `notes.footer`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default:
+|          |                |
+| -------- | -------------- |
+| Key      | `notes.footer` |
+| Type     | `string`       |
+| Required | `❌`           |
+| tpl      | `✅`           |
+
+Default:
 
 ```yaml
 footer: |

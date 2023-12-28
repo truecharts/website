@@ -12,48 +12,53 @@ Replace references to `$name` with the actual name you want to use.
 
 - `$FullName-$SecretName` (release-name-chart-name-secret-name)
 
-## Keys
-
 Appears in:
 
 - `.Values.secret`
 
 ---
 
-### secret
+## `secret`
 
 Create Secret objects
 
-- Key: `secret`
-- Type: `map`
-- Required: `❌`
-- tpl: `❌`
-- Default: `{}`
+|          |          |
+| -------- | -------- |
+| Key      | `secret` |
+| Type     | `map`    |
+| Required | `❌`     |
+| tpl      | `❌`     |
+| Default  | `{}`     |
 
 ---
 
-### secret.$name
+### `secret.$name`
 
 Define Secret
 
-- Key: `secret.$name`
-- Type: `map`
-- Required: `✅`
-- tpl: `❌`
-- Default: `{}`
+|          |                |
+| -------- | -------------- |
+| Key      | `secret.$name` |
+| Type     | `map`          |
+| Required | `✅`           |
+| tpl      | `❌`           |
+| Default  | `{}`           |
 
 ---
 
-### secret.$name.enabled
+#### `secret.$name.enabled`
 
 Enables or Disables the Secret
 
-- Key: `secret.$name.enabled`
-- Type: `bool`
-- Required: `✅`
-- tpl: `❌`
-- Default: `false`
-- Example
+|          |                        |
+| -------- | ---------------------- |
+| Key      | `secret.$name.enabled` |
+| Type     | `bool`                 |
+| Required | `✅`                   |
+| tpl      | `❌`                   |
+| Default  | `false`                |
+
+Example
 
 ```yaml
 enabled: true
@@ -61,16 +66,19 @@ enabled: true
 
 ---
 
-### secret.$name.namespace
+#### `secret.$name.namespace`
 
 Define the namespace for this object
 
-- Key: `secret.$name.namespace`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |                          |
+| -------- | ------------------------ |
+| Key      | `secret.$name.namespace` |
+| Type     | `string`                 |
+| Required | `❌`                     |
+| tpl      | `✅`                     |
+| Default  | `""`                     |
+
+Example
 
 ```yaml
 namespace: some-namespace
@@ -78,16 +86,19 @@ namespace: some-namespace
 
 ---
 
-### secret.$name.labels
+#### `secret.$name.labels`
 
 Additional labels for secret
 
-- Key: `secret.$name.labels`
-- Type: `map`
-- Required: `❌`
-- tpl: `✅ (On value only)`
-- Default: `{}`
-- Example
+|          |                       |
+| -------- | --------------------- |
+| Key      | `secret.$name.labels` |
+| Type     | `map`                 |
+| Required | `❌`                  |
+| tpl      | `✅ (On value only)`  |
+| Default  | `{}`                  |
+
+Example
 
 ```yaml
 labels:
@@ -97,16 +108,19 @@ labels:
 
 ---
 
-### secret.$name.annotations
+#### `secret.$name.annotations`
 
 Additional annotations for secret
 
-- Key: `secret.$name.annotations`
-- Type: `map`
-- Required: `❌`
-- tpl: `✅ (On value only)`
-- Default: `{}`
-- Example
+|          |                            |
+| -------- | -------------------------- |
+| Key      | `secret.$name.annotations` |
+| Type     | `map`                      |
+| Required | `❌`                       |
+| tpl      | `✅ (On value only)`       |
+| Default  | `{}`                       |
+
+Example
 
 ```yaml
 annotations:
@@ -116,16 +130,19 @@ annotations:
 
 ---
 
-### secret.$name.type
+#### `secret.$name.type`
 
 Define the type of the secret
 
-- Key: `secret.$name.type`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `Opaque`
-- Example
+|          |                     |
+| -------- | ------------------- |
+| Key      | `secret.$name.type` |
+| Type     | `string`            |
+| Required | `❌`                |
+| tpl      | `✅`                |
+| Default  | `Opaque`            |
+
+Example
 
 ```yaml
 type: some-custom-type
@@ -133,15 +150,17 @@ type: some-custom-type
 
 ---
 
-### secret.$name.data
+#### `secret.$name.data`
 
 Define the data of the secret
 
-- Key: `secret.$name.data`
-- Type: `map`
-- Required: `✅`
-- tpl: `✅`
-- Example
+|          |                     |
+| -------- | ------------------- |
+| Key      | `secret.$name.data` |
+| Type     | `map`               |
+| Required | `✅`                |
+| tpl      | `✅`                |
+| Example  |                     |
 
 ```yaml
 data:

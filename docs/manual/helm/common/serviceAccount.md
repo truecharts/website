@@ -8,6 +8,10 @@ Replace references to `$name` with the actual name you want to use.
 
 :::
 
+Appears in:
+
+- `.Values.serviceAccount`
+
 ## Naming scheme
 
 - Primary: `$FullName` (release-name-chart-name)
@@ -23,46 +27,47 @@ Replace references to `$name` with the actual name you want to use.
 
 ---
 
-## Keys
-
-Appears in:
-
-- `.Values.serviceAccount`
-
-### serviceAccount
+## `serviceAccount`
 
 Create serviceAccount objects
 
-- Key: `serviceAccount`
-- Type: `map`
-- Required: `❌`
-- tpl: `❌`
-- Default: `{}`
+|          |                  |
+| -------- | ---------------- |
+| Key      | `serviceAccount` |
+| Type     | `map`            |
+| Required | `❌`             |
+| tpl      | `❌`             |
+| Default  | `{}`             |
 
 ---
 
-### serviceAccount.$name
+### `serviceAccount.$name`
 
 Define serviceAccount
 
-- Key: `serviceAccount.$name`
-- Type: `map`
-- Required: `✅`
-- tpl: `❌`
-- Default: `{}`
+|          |                        |
+| -------- | ---------------------- |
+| Key      | `serviceAccount.$name` |
+| Type     | `map`                  |
+| Required | `✅`                   |
+| tpl      | `❌`                   |
+| Default  | `{}`                   |
 
 ---
 
-### serviceAccount.$name.enabled
+#### `serviceAccount.$name.enabled`
 
 Enables or Disables the serviceAccount
 
-- Key: `serviceAccount.$name.enabled`
-- Type: `bool`
-- Required: `✅`
-- tpl: `❌`
-- Default: `false`
-- Example
+|          |                                |
+| -------- | ------------------------------ |
+| Key      | `serviceAccount.$name.enabled` |
+| Type     | `bool`                         |
+| Required | `✅`                           |
+| tpl      | `❌`                           |
+| Default  | `false`                        |
+
+Example
 
 ```yaml
 enabled: true
@@ -70,16 +75,19 @@ enabled: true
 
 ---
 
-### serviceAccount.$name.primary
+#### `serviceAccount.$name.primary`
 
 Sets the serviceAccount as primary
 
-- Key: `serviceAccount.$name.primary`
-- Type: `bool`
-- Required: `❌`
-- tpl: `❌`
-- Default: `false`
-- Example
+|          |                                |
+| -------- | ------------------------------ |
+| Key      | `serviceAccount.$name.primary` |
+| Type     | `bool`                         |
+| Required | `❌`                           |
+| tpl      | `❌`                           |
+| Default  | `false`                        |
+
+Example
 
 ```yaml
 primary: true
@@ -87,16 +95,19 @@ primary: true
 
 ---
 
-### serviceAccount.$name.namespace
+#### `serviceAccount.$name.namespace`
 
 Define the namespace for this object
 
-- Key: `serviceAccount.$name.namespace`
-- Type: `string`
-- Required: `❌`
-- tpl: `✅`
-- Default: `""`
-- Example
+|          |                                  |
+| -------- | -------------------------------- |
+| Key      | `serviceAccount.$name.namespace` |
+| Type     | `string`                         |
+| Required | `❌`                             |
+| tpl      | `✅`                             |
+| Default  | `""`                             |
+
+Example
 
 ```yaml
 namespace: some-namespace
@@ -104,16 +115,19 @@ namespace: some-namespace
 
 ---
 
-### serviceAccount.$name.labels
+#### `serviceAccount.$name.labels`
 
 Additional labels for service account
 
-- Key: `serviceAccount.$name.labels`
-- Type: `map`
-- Required: `❌`
-- tpl: `✅ (On value only)`
-- Default: `{}`
-- Example
+|          |                               |
+| -------- | ----------------------------- |
+| Key      | `serviceAccount.$name.labels` |
+| Type     | `map`                         |
+| Required | `❌`                          |
+| tpl      | `✅ (On value only)`          |
+| Default  | `{}`                          |
+
+Example
 
 ```yaml
 labels:
@@ -123,16 +137,19 @@ labels:
 
 ---
 
-### serviceAccount.$name.annotations
+#### `serviceAccount.$name.annotations`
 
 Additional annotations for service account
 
-- Key: `serviceAccount.$name.annotations`
-- Type: `map`
-- Required: `❌`
-- tpl: `✅ (On value only)`
-- Default: `{}`
-- Example
+|          |                                    |
+| -------- | ---------------------------------- |
+| Key      | `serviceAccount.$name.annotations` |
+| Type     | `map`                              |
+| Required | `❌`                               |
+| tpl      | `✅ (On value only)`               |
+| Default  | `{}`                               |
+
+Example
 
 ```yaml
 annotations:
@@ -142,16 +159,19 @@ annotations:
 
 ---
 
-### serviceAccount.$name.targetSelectAll
+#### `serviceAccount.$name.targetSelectAll`
 
 Whether to assign the serviceAccount to all pods or not
 
-- Key: `serviceAccount.$name.targetSelectAll`
-- Type: `bool`
-- Required: `❌`
-- tpl: `❌`
-- Default: unset
-- Example
+|          |                                        |
+| -------- | -------------------------------------- |
+| Key      | `serviceAccount.$name.targetSelectAll` |
+| Type     | `bool`                                 |
+| Required | `❌`                                   |
+| tpl      | `❌`                                   |
+| Default  | unset                                  |
+
+Example
 
 ```yaml
 targetSelectAll: true
@@ -159,16 +179,19 @@ targetSelectAll: true
 
 ---
 
-### serviceAccount.$name.targetSelector
+#### `serviceAccount.$name.targetSelector`
 
 Define the pod(s) to assign the serviceAccount
 
-- Key: `serviceAccount.$name.targetSelector`
-- Type: `list` of `string`
-- Required: `❌`
-- tpl: `❌`
-- Default: `[]`
-- Example
+|          |                                       |
+| -------- | ------------------------------------- |
+| Key      | `serviceAccount.$name.targetSelector` |
+| Type     | `list` of `string`                    |
+| Required | `❌`                                  |
+| tpl      | `❌`                                  |
+| Default  | `[]`                                  |
+
+Example
 
 ```yaml
 targetSelector:
