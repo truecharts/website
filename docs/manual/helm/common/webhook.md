@@ -388,7 +388,7 @@ Define the service port in clientConfig for the webhook
 - Type: `int`
 - Required: `❌`
 - tpl: `✅`
-- Default: `0`
+- Default: unset
 - Example
 
 ```yaml
