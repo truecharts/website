@@ -1,15 +1,20 @@
 import React, { useState, useEffect } from "react";
-import {ViewOptions,countArrayLength,capitalizeWords,genTrainData} from './HelperUtil.js';
-import './searchbar.css';
-import chartsJson from '/static/charts/charts.json';
-import loadingViewSrc from '/img/loading-aesthetic.gif';
-import SearchBar from './SearchBar.js';
-import GridView from './GridView.js';
-import TableView from './TableView.js';
-import ListView from './ListView.js';
-import LoadingView from './LoadingView.js';
-import EmptyView from './EmptyView.js';
-import CheckboxList from './CheckboxList.js';
+import {
+  ViewOptions,
+  countArrayLength,
+  capitalizeWords,
+  genTrainData,
+} from "./HelperUtil.js";
+import "./searchbar.module.css";
+import chartsJson from "/static/charts/charts.json";
+import loadingViewSrc from "/img/loading-aesthetic.gif";
+import SearchBar from "./SearchBar.js";
+import GridView from "./GridView.js";
+import TableView from "./TableView.js";
+import ListView from "./ListView.js";
+import LoadingView from "./LoadingView.js";
+import EmptyView from "./EmptyView.js";
+import CheckboxList from "./CheckboxList.js";
 import { useLocation } from "react-router-dom";
 
 const ChartsOverView = () => {
@@ -41,7 +46,7 @@ const ChartsOverView = () => {
     }
   };
 
-  const handleSearch = event => {
+  const handleSearch = (event) => {
     const txtsearch = event.target.value.toLowerCase();
     setSearchTerm(txtsearch);
   };
@@ -51,101 +56,112 @@ const ChartsOverView = () => {
 
     let totalCount = json.totalCount;
     let trains = json.trains;
-    let listOfTrainsData = genTrainData(trains)
+    let listOfTrainsData = genTrainData(trains);
     setTrains(trains);
-    setTrainsData(listOfTrainsData)
+    setTrainsData(listOfTrainsData);
     setTotalCount(totalCount);
     setLoading(listOfTrainsData.length > 1 ? false : true);
 
     // Update active checkboxes based on fetched data
-    setActiveCheckboxes(listOfTrainsData.map(train => train.name));
+    setActiveCheckboxes(listOfTrainsData.map((train) => train.name));
   }, []);
 
   const filteredCharts = trains
-    .map(train => {
+    .map((train) => {
       return {
         name: train.name,
         count: train.count,
         charts: train.charts.filter(
-          chart =>
+          (chart) =>
             chart.name.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1 ||
-            chart.description.toLowerCase().indexOf(searchTerm.toLowerCase()) !== -1
-        )
+            chart.description
+              .toLowerCase()
+              .indexOf(searchTerm.toLowerCase()) !== -1
+        ),
       };
     })
-    .filter(train => train.charts.length > 0 && activeCheckboxes.includes(train.name));
-
-    const TrainsSection = ({ trains }) => {
-      return (
-        <ul>
-          {trains.map((train) => (
-            <li key={train.name}>
-              <a href={`#${capitalizeWords(train.name)}`}>{capitalizeWords(train.name)}</a>
-            </li>
-          ))}
-        </ul>
-      );
-    };
-
-    const CountSection = ({ filteredCharts, totalCount }) => {
-      return (
-        <p>
-          Total charts:{" "}
-          <strong>
-            {countArrayLength(filteredCharts) !== totalCount
-              ? `${countArrayLength(filteredCharts)} (${totalCount})`
-              : totalCount}
-          </strong>
-        </p>
-      );
-    };
-
-    return (
-      <div>
-        {loading ? (
-          <LoadingView src={loadingViewSrc} msg={loadingViewMsg} />
-        ) : (
-          <div>
-            <TrainsSection trains={trainsData} />
-            <div className="search-container">
-              <CheckboxList
-                checkboxData={trains}
-                handleChange={(checkbox) => handleChange(checkbox)}
-                activeCheckboxes={activeCheckboxes}
-              />
-              <SearchBar
-                placeHolder={searchBarPlaceHolder}
-                searchTerm={searchTerm}
-                handleSearch={handleSearch}
-                setSelectedOption={(i) => setView(ViewOptions[i].value)}
-                view={view}
-              />
-              <br />
-            </div>
-            {filteredCharts.length === 0 || filteredCharts.length === -1 ? (
-              <EmptyView title={emptyViewTitle} msg={emptyViewMsg} />
-            ) : (
-              filteredCharts.map((train) => {
-                switch (view) {
-                  case 1:
-                    return <GridView train={train} />;
-                  case 2:
-                    return <ListView train={train} />;
-                  default:
-                    return <TableView train={train} />;
-                }
-              })
-            )}
-
-            {countArrayLength(filteredCharts) === 0 || countArrayLength(filteredCharts) === -1 ? (
-              <br />
-            ) : (
-              <CountSection filteredCharts={filteredCharts} totalCount={totalCount} />
-            )}
-          </div>
-        )}
-      </div>
+    .filter(
+      (train) =>
+        train.charts.length > 0 && activeCheckboxes.includes(train.name)
     );
-}
+
+  const TrainsSection = ({ trains }) => {
+    return (
+      <ul>
+        {trains.map((train) => (
+          <li key={train.name}>
+            <a href={`#${capitalizeWords(train.name)}`}>
+              {capitalizeWords(train.name)}
+            </a>
+          </li>
+        ))}
+      </ul>
+    );
+  };
+
+  const CountSection = ({ filteredCharts, totalCount }) => {
+    return (
+      <p>
+        Total charts:{" "}
+        <strong>
+          {countArrayLength(filteredCharts) !== totalCount
+            ? `${countArrayLength(filteredCharts)} (${totalCount})`
+            : totalCount}
+        </strong>
+      </p>
+    );
+  };
+
+  return (
+    <div>
+      {loading ? (
+        <LoadingView src={loadingViewSrc} msg={loadingViewMsg} />
+      ) : (
+        <div>
+          <TrainsSection trains={trainsData} />
+          <div className="search-container">
+            <CheckboxList
+              checkboxData={trains}
+              handleChange={(checkbox) => handleChange(checkbox)}
+              activeCheckboxes={activeCheckboxes}
+            />
+            <SearchBar
+              placeHolder={searchBarPlaceHolder}
+              searchTerm={searchTerm}
+              handleSearch={handleSearch}
+              setSelectedOption={(i) => setView(ViewOptions[i].value)}
+              view={view}
+            />
+            <br />
+          </div>
+          {filteredCharts.length === 0 || filteredCharts.length === -1 ? (
+            <EmptyView title={emptyViewTitle} msg={emptyViewMsg} />
+          ) : (
+            filteredCharts.map((train) => {
+              switch (view) {
+                case 1:
+                  return <GridView train={train} />;
+                case 2:
+                  return <ListView train={train} />;
+                default:
+                  return <TableView train={train} />;
+              }
+            })
+          )}
+
+          {countArrayLength(filteredCharts) === 0 ||
+          countArrayLength(filteredCharts) === -1 ? (
+            <br />
+          ) : (
+            <CountSection
+              filteredCharts={filteredCharts}
+              totalCount={totalCount}
+            />
+          )}
+        </div>
+      )}
+    </div>
+  );
+};
 
 export default ChartsOverView;
