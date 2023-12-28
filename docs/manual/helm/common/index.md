@@ -1,4 +1,6 @@
-# Common Chart Documentation
+---
+title: Common Chart Documentation
+---
 
 ## Global and Defaults
 
