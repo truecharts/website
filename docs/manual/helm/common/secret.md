@@ -1,17 +1,18 @@
-# Secret
-
-| Key                              |   Type    | Required |   Helm Template    | Default  | Description                          |
-| :------------------------------- | :-------: | :------: | :----------------: | :------: | :----------------------------------- |
-| secret                           |  `dict`   |    ❌    |         ❌         |   `{}`   | Define the secret as dicts           |
-| secret.[secret-name]             |  `dict`   |    ✅    |         ❌         |   `{}`   | Holds secret definition              |
-| secret.[secret-name].namespace   | `string`  |    ❌    |         ✅         |   `""`   | Define the namespace for this object |
-| secret.[secret-name].enabled     | `boolean` |    ✅    |         ❌         | `false`  | Enables or Disables the secret       |
-| secret.[secret-name].labels      |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional labels for secret         |
-| secret.[secret-name].annotations |  `dict`   |    ❌    | ✅ (On value only) |   `{}`   | Additional annotations for secret    |
-| secret.[secret-name].type        | `string`  |    ❌    |         ✅         | `Opaque` | Custom secret type                   |
-| secret.[secret-name].data        |  `dict`   |    ✅    |         ✅         |   `{}`   | Define the data of the secret        |
-
 ---
+title: Secret
+---
+
+:::tip
+
+Replace references to `$name` with the actual name you want to use.
+
+:::
+
+## Naming scheme
+
+- `$FullName-$SecretName` (release-name-chart-name-secret-name)
+
+## Keys
 
 Appears in:
 
@@ -19,13 +20,137 @@ Appears in:
 
 ---
 
-Naming scheme:
+### secret
 
-- `$FullName-$SecretName` (release-name-chart-name-SecretName)
+Create Secret objects
+
+- Key: `secret`
+- Type: `map`
+- Required: `❌`
+- tpl: `❌`
+- Default: `{}`
 
 ---
 
-Examples:
+### secret.$name
+
+Define Secret
+
+- Key: `secret.$name`
+- Type: `map`
+- Required: `✅`
+- tpl: `❌`
+- Default: `{}`
+
+---
+
+### secret.$name.enabled
+
+Enables or Disables the Secret
+
+- Key: `secret.$name.enabled`
+- Type: `bool`
+- Required: `✅`
+- tpl: `❌`
+- Default: `false`
+- Example
+
+```yaml
+enabled: true
+```
+
+---
+
+### secret.$name.namespace
+
+Define the namespace for this object
+
+- Key: `secret.$name.namespace`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `""`
+- Example
+
+```yaml
+namespace: some-namespace
+```
+
+---
+
+### secret.$name.labels
+
+Additional labels for secret
+
+- Key: `secret.$name.labels`
+- Type: `map`
+- Required: `❌`
+- tpl: `✅ (On value only)`
+- Default: `{}`
+- Example
+
+```yaml
+labels:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
+
+---
+
+### secret.$name.annotations
+
+Additional annotations for secret
+
+- Key: `secret.$name.annotations`
+- Type: `map`
+- Required: `❌`
+- tpl: `✅ (On value only)`
+- Default: `{}`
+- Example
+
+```yaml
+annotations:
+  key: value
+  keytpl: "{{ .Values.some.value }}"
+```
+
+---
+
+### secret.$name.type
+
+Define the type of the secret
+
+- Key: `secret.$name.type`
+- Type: `string`
+- Required: `❌`
+- tpl: `✅`
+- Default: `Opaque`
+- Example
+
+```yaml
+type: some-custom-type
+```
+
+---
+
+### secret.$name.data
+
+Define the data of the secret
+
+- Key: `secret.$name.data`
+- Type: `map`
+- Required: `✅`
+- tpl: `✅`
+- Example
+
+```yaml
+data:
+  key: value
+```
+
+---
+
+## Full Examples
 
 ```yaml
 secret:
