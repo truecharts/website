@@ -1,19 +1,83 @@
-# hostPath
+---
+title: Host Path
+---
 
-| Key                                    |   Type   | Required | Helm Template | Default | Description             |
-| :------------------------------------- | :------: | :------: | :-----------: | :-----: | :---------------------- |
-| persistence.[volume-name].hostPath     | `string` |    ✅    |      ✅       |  `""`   | Define the hostPath     |
-| persistence.[volume-name].hostPathType | `string` |    ❌    |      ✅       |  `""`   | Define the hostPathType |
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.persistence.$name`
+
+:::tip
+
+- See available persistence keys [here](./index.md).
+- This options apply only when `type: hostPath`.
+
+:::
 
 ---
 
-Notes:
+## `hostPath`
 
-View common `keys` of `persistence` in [persistence Documentation](index.md).
+Define the hostPath
+
+|            |                              |
+| ---------- | ---------------------------- |
+| Key        | `persistence.$name.hostPath` |
+| Type       | `string`                     |
+| Required   | `✅`                         |
+| Helm `tpl` | `✅`                         |
+| Default    | `""`                         |
+
+Example
+
+```yaml
+persistence:
+  hostpath-vol:
+    hostPath: /path/to/host
+```
 
 ---
 
-Examples:
+## `hostPathType`
+
+Define the hostPathType
+
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `persistence.$name.hostPathType` |
+| Type       | `string`                         |
+| Required   | `❌`                             |
+| Helm `tpl` | `✅`                             |
+| Default    | `""`                             |
+
+Valid Values
+
+- `""`
+- `DirectoryOrCreate`
+- `Directory`
+- `FileOrCreate`
+- `File`
+- `Socket`
+- `CharDevice`
+- `BlockDevice`
+
+Example
+
+```yaml
+persistence:
+  hostpath-vol:
+    hostPathType: DirectoryOrCreate
+```
+
+---
+
+## Full Examples
 
 ```yaml
 persistence:
