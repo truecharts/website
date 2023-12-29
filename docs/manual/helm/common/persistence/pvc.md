@@ -237,6 +237,81 @@ persistence:
     storageClass: storage-class-name
 ```
 
+---
+
+## `dataSource`
+
+Define dataSource for the pvc
+
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `persistence.$name.dataSource` |
+| Type       | `map`                          |
+| Required   | ❌                             |
+| Helm `tpl` | ❌                             |
+| Default    | `{}`                           |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    dataSource: {}
+```
+
+---
+
+### `dataSource.kind`
+
+Define the kind of the dataSource
+
+|            |                                     |
+| ---------- | ----------------------------------- |
+| Key        | `persistence.$name.dataSource.kind` |
+| Type       | `string`                            |
+| Required   | ✅                                  |
+| Helm `tpl` | ❌                                  |
+| Default    | `""`                                |
+
+Valid Values
+
+- `PersistentVolumeClaim`
+- `VolumeSnapshot`
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    dataSource:
+      kind: "PersistentVolumeClaim"
+```
+
+---
+
+### `dataSource.name`
+
+Define the name of the dataSource
+
+|            |                                     |
+| ---------- | ----------------------------------- |
+| Key        | `persistence.$name.dataSource.name` |
+| Type       | `string`                            |
+| Required   | ✅                                  |
+| Helm `tpl` | ❌                                  |
+| Default    | `""`                                |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    dataSource:
+      name: "existingPVC"
+```
+
+---
+
 ## `volumeSnapshots`
 
 Define volumeSnapshots for the pvc
@@ -378,6 +453,9 @@ persistence:
       label1: value1
     annotations:
       annotation1: value1
+    dataSource:
+      kind: "PersistentVolumeClaim"
+      name: "existingPVC"
     accessModes: ReadWriteOnce
     volumeName: volume-name-backing-the-pvc
     existingClaim: existing-claim-name
