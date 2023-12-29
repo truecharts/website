@@ -8,8 +8,8 @@ This options should not need to be changed per chart.
 
 | Key                                                                |   Type    | Required |   Helm Template    |   Default   | Description                                                                    |
 | :----------------------------------------------------------------- | :-------: | :------: | :----------------: | :---------: | :----------------------------------------------------------------------------- |
-| .Values.global.labels                                              |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Labels that apply to all objects                                    |
-| .Values.global.annotations                                         |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Annotations that apply to all objects                               |
+| .Values.global.labels                                              |  `map`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Labels that apply to all objects                                    |
+| .Values.global.annotations                                         |  `map`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Annotations that apply to all objects                               |
 | .Values.global.namespace                                           | `string`  |    ❌    |         ✅         |    `""`     | Namespace to apply to all objects, also applies to chart deps                  |
 | .Values.global.minNodePort                                         |   `int`   |    ✅    |         ❌         |   `9000`    | Minimum Node Port Allowed                                                      |
 | .Values.global.createTCNamespace                                   | `boolean` |    ❌    |         ❌         |   `true`    | Whether to create tc-system namespace                                          |
@@ -17,16 +17,16 @@ This options should not need to be changed per chart.
 | .Values.fallbackDefaults.serviceProtocol                           | `string`  |    ✅    |         ❌         |    `tcp`    | Default service protocol when not defined in the service                       |
 | .Values.fallbackDefaults.serviceType                               | `string`  |    ✅    |         ❌         | `ClusterIP` | Default service type when not defined in the service                           |
 | .Values.fallbackDefaults.persistenceType                           | `string`  |    ✅    |         ❌         | `emptyDir`  | Default persistence type when not defined in the persistence                   |
-| .Values.fallbackDefaults.probeTimeouts                             |  `dict`   |    ✅    |         ❌         |  See below  | Default probe timeouts if not defined in the container                         |
-| .Values.fallbackDefaults.probeTimeouts.[probe]                     |  `dict`   |    ✅    |         ❌         |  See below  | Default probe timeouts if not defined in the container                         |
+| .Values.fallbackDefaults.probeTimeouts                             |  `map`   |    ✅    |         ❌         |  See below  | Default probe timeouts if not defined in the container                         |
+| .Values.fallbackDefaults.probeTimeouts.[probe]                     |  `map`   |    ✅    |         ❌         |  See below  | Default probe timeouts if not defined in the container                         |
 | .Values.fallbackDefaults.probeTimeouts.[probe].initialDelaySeconds |   `int`   |    ✅    |         ❌         |  See below  | Default initialDelaySeconds if not defined in the container                    |
 | .Values.fallbackDefaults.probeTimeouts.[probe].periodSeconds       |   `int`   |    ✅    |         ❌         |  See below  | Default periodSeconds if not defined in the container                          |
 | .Values.fallbackDefaults.probeTimeouts.[probe].timeoutSeconds      |   `int`   |    ✅    |         ❌         |  See below  | Default timeoutSeconds if not defined in the container                         |
 | .Values.fallbackDefaults.probeTimeouts.[probe].failureThreshold    |   `int`   |    ✅    |         ❌         |  See below  | Default failureThreshold if not defined in the container                       |
 | .Values.fallbackDefaults.probeTimeouts.[probe].successThreshold    |   `int`   |    ✅    |         ❌         |  See below  | Default successThreshold if not defined in the container                       |
-| .Values.operator                                                   |  `dict`   |    ❌    |         ❌         |  See below  | Contains specific settings for helm charts containing or using operators       |
+| .Values.operator                                                   |  `map`   |    ❌    |         ❌         |  See below  | Contains specific settings for helm charts containing or using operators       |
 | .Values.operator.register                                          | `boolean` |    ❌    |         ❌         |   `false`   | Adds a configmap in `tc-system` namespace to register the chart as an operator |
-| .Values.operator.verify                                            |  `dict`   |    ❌    |         ❌         |  See below  | Contains specific settings for verifying operators                             |
+| .Values.operator.verify                                            |  `map`   |    ❌    |         ❌         |  See below  | Contains specific settings for verifying operators                             |
 | .Values.operator.verify.enabled                                    | `boolean` |    ❌    |         ❌         |   `true`    | Enables or disables the verification of operators                              |
 | .Values.operator.verify.additionalOperators                        |  `list`   |    ❌    |         ❌         |    `[]`     | Additional operators to verify                                                 |
 | .Values.operator.verify.additionalOperators.[operator]             | `string`  |    ❌    |         ❌         |    `""`     | Operator to verify                                                             |
@@ -125,16 +125,16 @@ but still have the ability to override them on the pod/container level, in case 
 | :----------------------------------------------- | :-------: | :------: | :-----------: | :-------: | :--------------------------------------------------------------------- |
 | .Values.TZ                                       | `string`  |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                            |
 | .Values.namespace                                | `string`  |    ❌    |      ✅       |   `""`    | Namespace to apply to all objects, does not apply to chart deps        |
-| .Values.containerOptions                         |  `dict`   |    ✅    |      ❌       | See below | Container options that apply to all containers                         |
+| .Values.containerOptions                         |  `map`   |    ✅    |      ❌       | See below | Container options that apply to all containers                         |
 | .Values.containerOptions.NVIDIA_CAPS             |  `list`   |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)                     |
-| .Values.resources                                |  `dict`   |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.limits                         |  `dict`   |    ✅    |      ❌       | See below | Resources                                                              |
+| .Values.resources                                |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
+| .Values.resources.limits                         |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
 | .Values.resources.limits.cpu                     | `string`  |    ✅    |      ❌       | See below | Resources                                                              |
 | .Values.resources.limits.memory                  | `string`  |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.requests                       |  `dict`   |    ✅    |      ❌       | See below | Resources                                                              |
+| .Values.resources.requests                       |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
 | .Values.resources.requests.cpu                   | `string`  |    ✅    |      ❌       | See below | Resources                                                              |
 | .Values.resources.requests.memory                | `string`  |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.podOptions                               |  `dict`   |    ✅    |      ❌       | See below | Options that apply to all pods                                         |
+| .Values.podOptions                               |  `map`   |    ✅    |      ❌       | See below | Options that apply to all pods                                         |
 | .Values.podOptions.enableServiceLinks            | `boolean` |    ✅    |      ❌       | See below | enableServiceLinks                                                     |
 | .Values.podOptions.hostNetwork                   | `boolean` |    ✅    |      ❌       | See below | hostNetwork                                                            |
 | .Values.podOptions.hostPID                       | `boolean` |    ✅    |      ❌       | See below | hostPID                                                                |
@@ -195,8 +195,8 @@ but still have the ability to override them on the pod/container level, in case 
 
 | Key                                                        |   Type    | Required | Helm Template |  Default  | Description                              |
 | :--------------------------------------------------------- | :-------: | :------: | :-----------: | :-------: | :--------------------------------------- |
-| .Values.securityContext                                    |  `dict`   |    ✅    |      ❌       | See below | Security Context                         |
-| .Values.securityContext.container                          |  `dict`   |    ✅    |      ❌       | See below | Security Context for containers          |
+| .Values.securityContext                                    |  `map`   |    ✅    |      ❌       | See below | Security Context                         |
+| .Values.securityContext.container                          |  `map`   |    ✅    |      ❌       | See below | Security Context for containers          |
 | .Values.securityContext.container.PUID                     |   `int`   |    ✅    |      ❌       | See below | PUID (Only applied when running as root) |
 | .Values.securityContext.container.UMASK                    | `string`  |    ✅    |      ❌       | See below | UMASK                                    |
 | .Values.securityContext.container.runAsNonRoot             | `boolean` |    ✅    |      ❌       | See below |                                          |
@@ -205,13 +205,13 @@ but still have the ability to override them on the pod/container level, in case 
 | .Values.securityContext.container.readOnlyRootFilesystem   | `boolean` |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.allowPrivilegeEscalation | `boolean` |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.privileged               | `boolean` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile           |  `dict`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.seccompProfile           |  `map`   |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.seccompProfile.type      | `string`  |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.seccompProfile.profile   | `string`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities             |  `dict`   |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.capabilities             |  `map`   |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.capabilities.add         |  `list`   |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.capabilities.drop        |  `list`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod                                |  `dict`   |    ✅    |      ❌       | See below | Security Context for pods                |
+| .Values.securityContext.pod                                |  `map`   |    ✅    |      ❌       | See below | Security Context for pods                |
 | .Values.securityContext.pod.fsGroup                        |   `int`   |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.pod.fsGroupChangePolicy            | `string`  |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.pod.supplementalGroup              |  `list`   |    ✅    |      ❌       | See below |                                          |
@@ -255,7 +255,7 @@ securityContext:
 
 | Key                      |   Type   | Required | Helm Template |  Default  | Description       |
 | :----------------------- | :------: | :------: | :-----------: | :-------: | :---------------- |
-| .Values.image            |  `dict`  |    ✅    |      ❌       | See below | Image             |
+| .Values.image            |  `map`  |    ✅    |      ❌       | See below | Image             |
 | .Values.image.repository | `string` |    ✅    |      ❌       | See below | Image Repository  |
 | .Values.image.tag        | `string` |    ✅    |      ❌       | See below | Image Tag         |
 | .Values.image.pullPolicy | `string` |    ✅    |      ❌       | See below | Image Pull Policy |

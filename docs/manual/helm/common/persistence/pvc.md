@@ -27,7 +27,7 @@ Additional labels for persistence
 |            |                            |
 | ---------- | -------------------------- |
 | Key        | `persistence.$name.labels` |
-| Type       | `dict`                     |
+| Type       | `map`                     |
 | Required   | ❌                         |
 | Helm `tpl` | ✅ (On value only)         |
 | Default    | `{}`                       |
@@ -50,7 +50,7 @@ Additional annotations for persistence
 |            |                                 |
 | ---------- | ------------------------------- |
 | Key        | `persistence.$name.annotations` |
-| Type       | `dict`                          |
+| Type       | `map`                          |
 | Required   | ❌                              |
 | Helm `tpl` | ✅ (On value only)              |
 | Default    | `{}`                            |
@@ -306,7 +306,7 @@ Define the labels of the volumeSnapshot
 |            |                                              |
 | ---------- | -------------------------------------------- |
 | Key        | `persistence.$name.volumeSnapshots[].labels` |
-| Type       | `dict`                                       |
+| Type       | `map`                                       |
 | Required   | ❌                                           |
 | Helm `tpl` | ✅ (On value only)                           |
 | Default    | `{}`                                         |
@@ -328,7 +328,7 @@ Define the annotations of the volumeSnapshot
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `persistence.$name.volumeSnapshots[].annotations` |
-| Type       | `dict`                                            |
+| Type       | `map`                                            |
 | Required   | ❌                                                |
 | Helm `tpl` | ✅ (On value only)                                |
 | Default    | `{}`                                              |

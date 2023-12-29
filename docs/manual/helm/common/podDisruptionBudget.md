@@ -27,7 +27,9 @@ title: Pod Disruption Budget
 
 ## Notes
 
-At least 1 of [`minAvailable`, `maxUnavailable`] must be set.
+At least one of the following keys must be defined under `podDisruptionBudget.$name`:
+
+[`minAvailable`](#minavailable), [`maxUnavailable`](#maxunavailable)
 
 ---
 

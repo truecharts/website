@@ -5,7 +5,7 @@
 | workload.[workload-name].replicas                     |  `int`   |    ❌    |      ❌       |       `1`       | The number of replicas                                               |
 | workload.[workload-name].revisionHistoryLimit         |  `int`   |    ❌    |      ❌       |       `3`       | The number of history revisions                                      |
 | workload.[workload-name].strategy                     | `string` |    ❌    |      ❌       | `RollingUpdate` | Define the strategy of the workload (OnDelete, RollingUpdate)        |
-| workload.[workload-name].rollingUpdate                |  `dict`  |    ❌    |      ❌       |      `{}`       | Holds the rollingUpdate options, Only when strategy is RollingUpdate |
+| workload.[workload-name].rollingUpdate                |  `map`  |    ❌    |      ❌       |      `{}`       | Holds the rollingUpdate options, Only when strategy is RollingUpdate |
 | workload.[workload-name].rollingUpdate.maxUnavailable |  `int`   |    ❌    |      ❌       |                 | Define the maxUnavailable, Only when strategy is RollingUpdate       |
 | workload.[workload-name].rollingUpdate.partition      |  `int`   |    ❌    |      ❌       |                 | Define the partition, Only when strategy is RollingUpdate            |
 
