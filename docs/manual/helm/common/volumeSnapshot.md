@@ -28,7 +28,7 @@ Define a volume snapshot
 |            |                   |
 | ---------- | ----------------- |
 | Key        | `volumeSnapshots` |
-| Type       | `map`            |
+| Type       | `map`             |
 | Required   | ❌                |
 | Helm `tpl` | ❌                |
 | Default    | `{}`              |
@@ -48,7 +48,7 @@ Define a volume snapshot
 |            |                         |
 | ---------- | ----------------------- |
 | Key        | `volumeSnapshots.$name` |
-| Type       | `map`                  |
+| Type       | `map`                   |
 | Required   | ❌                      |
 | Helm `tpl` | ❌                      |
 | Default    | `{}`                    |
@@ -69,7 +69,7 @@ Define the labels of the volume snapshot
 |            |                                |
 | ---------- | ------------------------------ |
 | Key        | `volumeSnapshots.$name.labels` |
-| Type       | `map`                         |
+| Type       | `map`                          |
 | Required   | ❌                             |
 | Helm `tpl` | ✅ (On value only)             |
 | Default    | `{}`                           |
@@ -92,7 +92,7 @@ Define the annotations of the volume snapshot class
 |            |                                     |
 | ---------- | ----------------------------------- |
 | Key        | `volumeSnapshots.$name.annotations` |
-| Type       | `map`                              |
+| Type       | `map`                               |
 | Required   | ❌                                  |
 | Helm `tpl` | ✅ (On value only)                  |
 | Default    | `{}`                                |
@@ -137,7 +137,7 @@ Define the source of the volume snapshot
 |            |                                |
 | ---------- | ------------------------------ |
 | Key        | `volumeSnapshots.$name.source` |
-| Type       | `map`                         |
+| Type       | `map`                          |
 | Required   | ✅                             |
 | Helm `tpl` | ❌                             |
 | Default    | `{}`                           |
