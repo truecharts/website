@@ -89,7 +89,7 @@ Define the namespace for this object
 Example
 
 ```yaml
-namespace: `some-namespace`
+namespace: some-namespace
 ```
 
 ---
