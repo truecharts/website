@@ -1,19 +1,77 @@
-# emptyDir
+---
+title: EmptyDir
+---
 
-| Key                              |   Type   | Required | Helm Template | Default | Description                                |
-| :------------------------------- | :------: | :------: | :-----------: | :-----: | :----------------------------------------- |
-| persistence.[volume-name].size   | `string` |    ❌    |      ✅       |  `""`   | Define the sizeLimit of the emptyDir       |
-| persistence.[volume-name].medium | `string` |    ❌    |      ✅       |  `""`   | Define the medium of emptyDir (Memory, "") |
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.persistence.$name`
+
+:::tip
+
+- See available persistence keys [here](./index.md).
+- This options apply only when `type: emptyDir`.
+
+:::
 
 ---
 
-Notes:
+## `size`
 
-View common `keys` of `persistence` in [persistence Documentation](index.md).
+Define the sizeLimit of the emptyDir
+
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `persistence.$name.size` |
+| Type       | `string`                 |
+| Required   | ❌                       |
+| Helm `tpl` | ✅                       |
+| Default    | `""`                     |
+
+Example
+
+```yaml
+persistence:
+  emptyDir-vol:
+    size: 2Gi
+```
 
 ---
 
-Examples:
+## `medium`
+
+Define the medium of emptyDir (Memory, "")
+
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `persistence.$name.medium` |
+| Type       | `string`                   |
+| Required   | ❌                         |
+| Helm `tpl` | ✅                         |
+| Default    | `""`                       |
+
+Valid Values
+
+- `Memory`
+- `""`
+
+Example
+
+```yaml
+persistence:
+  emptyDir-vol:
+    medium: Memory
+```
+
+---
+
+## Full Examples
 
 ```yaml
 persistence:

@@ -2,7 +2,14 @@
 title: Notes
 ---
 
-Appears in:
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
 
 - `.Values.notes`
 
@@ -12,28 +19,34 @@ Appears in:
 
 Define values for `NOTES.txt`
 
-|          |         |
-| -------- | ------- |
-| Key      | `notes` |
-| Type     | `map`   |
-| Required | `❌`    |
-| tpl      | `❌`    |
-| Default  | `{}`    |
+|            |         |
+| ---------- | ------- |
+| Key        | `notes` |
+| Type       | `map`   |
+| Required   | ❌      |
+| Helm `tpl` | ❌      |
+| Default    | `{}`    |
+
+Example
+
+```yaml
+notes: {}
+```
 
 ---
 
-### `notes.header`
+### `header`
 
 Define header
 
-|          |                |
-| -------- | -------------- |
-| Key      | `notes.header` |
-| Type     | `string`       |
-| Required | `❌`           |
-| tpl      | `✅`           |
+|            |                |
+| ---------- | -------------- |
+| Key        | `notes.header` |
+| Type       | `string`       |
+| Required   | ❌             |
+| Helm `tpl` | ✅             |
 
-Default:
+Default
 
 ```yaml
 header: |
@@ -41,34 +54,48 @@ header: |
   Thank you for installing <{{ .Chart.Name }}>.
 ```
 
+Example
+
+```yaml
+notes:
+  header: ""
+```
+
 ---
 
-### `notes.custom`
+### `custom`
 
 Define custom message, this go between header and footer
 
-|          |                |
-| -------- | -------------- |
-| Key      | `notes.custom` |
-| Type     | `string`       |
-| Required | `❌`           |
-| tpl      | `✅`           |
-| Default  | `""`           |
+|            |                |
+| ---------- | -------------- |
+| Key        | `notes.custom` |
+| Type       | `string`       |
+| Required   | ❌             |
+| Helm `tpl` | ✅             |
+| Default    | `""`           |
+
+Example
+
+```yaml
+notes:
+  custom: ""
+```
 
 ---
 
-### `notes.footer`
+### `footer`
 
 Define footer
 
-|          |                |
-| -------- | -------------- |
-| Key      | `notes.footer` |
-| Type     | `string`       |
-| Required | `❌`           |
-| tpl      | `✅`           |
+|            |                |
+| ---------- | -------------- |
+| Key        | `notes.footer` |
+| Type       | `string`       |
+| Required   | ❌             |
+| Helm `tpl` | ✅             |
 
-Default:
+Default
 
 ```yaml
 footer: |
@@ -76,6 +103,13 @@ footer: |
   Documentation for this chart can be found at ...
   # Bug reports
   If you find a bug in this chart, please file an issue at ...
+```
+
+Example
+
+```yaml
+notes:
+  footer: ""
 ```
 
 ---

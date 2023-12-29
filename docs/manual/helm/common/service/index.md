@@ -2,13 +2,14 @@
 title: Service
 ---
 
-:::tip
+:::note
 
-Replace references to `$name` and `$port-name` with the actual name you want to use.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.service`
 
@@ -16,6 +17,12 @@ Appears in:
 
 - Primary: `$FullName` (release-name-chart-name)
 - Non-Primary: `$FullName-$ServiceName` (release-name-chart-name-ServiceName)
+
+:::tip
+
+Replace references to `$name` and `$port-name` with the actual name you want to use.
+
+:::
 
 ---
 
@@ -30,123 +37,144 @@ Appears in:
 
 Define service objects
 
-|          |           |
-| -------- | --------- |
-| Key      | `service` |
-| Type     | `map`     |
-| Required | `❌`      |
-| tpl      | `❌`      |
-| Default  | `{}`      |
+|            |           |
+| ---------- | --------- |
+| Key        | `service` |
+| Type       | `map`     |
+| Required   | ❌        |
+| Helm `tpl` | ❌        |
+| Default    | `{}`      |
+
+Example
+
+```yaml
+service: {}
+```
 
 ---
 
-### `service.$name`
+### `$name`
 
 Define service
 
-|          |                 |
-| -------- | --------------- |
-| Key      | `service.$name` |
-| Type     | `map`           |
-| Required | `✅`            |
-| tpl      | `❌`            |
-| Default  | `{}`            |
+|            |                 |
+| ---------- | --------------- |
+| Key        | `service.$name` |
+| Type       | `map`           |
+| Required   | ✅              |
+| Helm `tpl` | ❌              |
+| Default    | `{}`            |
+
+Example
+
+```yaml
+service:
+  service-name: {}
+```
 
 ---
 
-#### `service.$name.enabled`
+#### `enabled`
 
 Enables or Disables the service
 
-|          |                         |
-| -------- | ----------------------- |
-| Key      | `service.$name.enabled` |
-| Type     | `bool`                  |
-| Required | `✅`                    |
-| tpl      | `❌`                    |
-| Default  | `false`                 |
+|            |                         |
+| ---------- | ----------------------- |
+| Key        | `service.$name.enabled` |
+| Type       | `bool`                  |
+| Required   | ✅                      |
+| Helm `tpl` | ❌                      |
+| Default    | `false`                 |
 
 Example
 
 ```yaml
-enabled: true
+service:
+  service-name:
+    enabled: true
 ```
 
 ---
 
-#### `service.$name.namespace`
+#### `namespace`
 
 Define the namespace for this object
 
-|          |                           |
-| -------- | ------------------------- |
-| Key      | `service.$name.namespace` |
-| Type     | `string`                  |
-| Required | `❌`                      |
-| tpl      | `✅ (On value only)`      |
-| Default  | `""`                      |
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `service.$name.namespace` |
+| Type       | `string`                  |
+| Required   | ❌                        |
+| Helm `tpl` | ✅ (On value only)`       |
+| Default    | `""`                      |
 
 Example
 
 ```yaml
-namespace: some-namespace
+service:
+  service-name:
+    namespace: some-namespace
 ```
 
 ---
 
-#### `service.$name.labels`
+#### `labels`
 
 Additional labels for service
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `service.$name.labels` |
-| Type     | `map`                  |
-| Required | `❌`                   |
-| tpl      | `✅ (On value only)`   |
-| Default  | `{}`                   |
+|            |                        |
+| ---------- | ---------------------- |
+| Key        | `service.$name.labels` |
+| Type       | `map`                  |
+| Required   | ❌                     |
+| Helm `tpl` | ✅ (On value only)`    |
+| Default    | `{}`                   |
 
 Example
 
 ```yaml
-labels:
-  some-label: some-value
+service:
+  service-name:
+    labels:
+      some-label: some-value
 ```
 
 ---
 
-#### `service.$name.annotations`
+#### `annotations`
 
 Additional annotations for service
 
-|          |                             |
-| -------- | --------------------------- |
-| Key      | `service.$name.annotations` |
-| Type     | `map`                       |
-| Required | `❌`                        |
-| tpl      | `✅ (On value only)`        |
-| Default  | `{}`                        |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `service.$name.annotations` |
+| Type       | `map`                       |
+| Required   | ❌                          |
+| Helm `tpl` | ✅ (On value only)`         |
+| Default    | `{}`                        |
 
 Example
 
 ```yaml
-annotations:
-  some-annotation: some-value
+service:
+  service-name:
+    annotations:
+      some-annotation: some-value
 ```
 
 ---
 
-#### `service.$name.type`
+#### `type`
 
 Define the service type
 
-|          |                      |
-| -------- | -------------------- |
-| Key      | `service.$name.type` |
-| Type     | `string`             |
-| Required | `✅`                 |
-| tpl      | `✅`                 |
-| Default  | `ClusterIP`          |
+|            |                      |
+| ---------- | -------------------- |
+| Key        | `service.$name.type` |
+| Type       | `string`             |
+| Required   | ❌                   |
+| Helm `tpl` | ✅                   |
+| Default    | `ClusterIP`          |
 
 Valid Values:
 
@@ -159,215 +187,264 @@ Valid Values:
 Example
 
 ```yaml
-type: ClusterIP
+service:
+  service-name:
+    type: ClusterIP
 ```
 
 ---
 
-#### `service.$name.expandObjectName`
+#### `expandObjectName`
 
 Whether to expand the object name (based on the [naming scheme](#naming-scheme)) or not
 
-|          |                                  |
-| -------- | -------------------------------- |
-| Key      | `service.$name.expandObjectName` |
-| Type     | `bool`                           |
-| Required | `❌`                             |
-| tpl      | `❌`                             |
-| Default  | `true`                           |
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `service.$name.expandObjectName` |
+| Type       | `bool`                           |
+| Required   | ❌                               |
+| Helm `tpl` | ❌                               |
+| Default    | `true`                           |
 
 Example
 
 ```yaml
-expandObjectName: false
+service:
+  service-name:
+    expandObjectName: false
 ```
 
 ---
 
-#### `service.$name.publishNotReadyAddresses`
+#### `publishNotReadyAddresses`
 
 Define whether to publishNotReadyAddresses or not
 
-|          |                                          |
-| -------- | ---------------------------------------- |
-| Key      | `service.$name.publishNotReadyAddresses` |
-| Type     | `bool`                                   |
-| Required | `❌`                                     |
-| tpl      | `❌`                                     |
-| Default  | `false`                                  |
+|            |                                          |
+| ---------- | ---------------------------------------- |
+| Key        | `service.$name.publishNotReadyAddresses` |
+| Type       | `bool`                                   |
+| Required   | ❌                                       |
+| Helm `tpl` | ❌                                       |
+| Default    | `false`                                  |
 
 Example
 
 ```yaml
-publishNotReadyAddresses: true
+service:
+  service-name:
+    publishNotReadyAddresses: true
 ```
 
 ---
 
-#### `service.$name.targetSelector`
+#### `targetSelector`
 
 Define the pod to link the service, by default will use the primary pod
 
-|          |                                |
-| -------- | ------------------------------ |
-| Key      | `service.$name.targetSelector` |
-| Type     | `string`                       |
-| Required | `❌`                           |
-| tpl      | `❌`                           |
-| Default  | `""`                           |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `service.$name.targetSelector` |
+| Type       | `string`                       |
+| Required   | ❌                             |
+| Helm `tpl` | ❌                             |
+| Default    | `""`                           |
 
 Example
 
 ```yaml
-targetSelector: some-pod
+service:
+  service-name:
+    targetSelector: some-pod
 ```
 
 ---
 
-#### `service.$name.ports`
+#### `ports`
 
 Define the ports of the service
 
-|          |                       |
-| -------- | --------------------- |
-| Key      | `service.$name.ports` |
-| Type     | `map`                 |
-| Required | `✅`                  |
-| tpl      | `❌`                  |
-| Default  | `{}`                  |
+|            |                       |
+| ---------- | --------------------- |
+| Key        | `service.$name.ports` |
+| Type       | `map`                 |
+| Required   | ✅                    |
+| Helm `tpl` | ❌                    |
+| Default    | `{}`                  |
+
+Example
+
+```yaml
+service:
+  service-name:
+    ports: {}
+```
 
 ---
 
-##### `service.$name.ports.$port-name`
+##### `ports.$port-name`
 
 Define the port dict
 
-|          |                                  |
-| -------- | -------------------------------- |
-| Key      | `service.$name.ports.$port-name` |
-| Type     | `map`                            |
-| Required | `✅`                             |
-| tpl      | `❌`                             |
-| Default  | `{}`                             |
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `service.$name.ports.$port-name` |
+| Type       | `map`                            |
+| Required   | ✅                               |
+| Helm `tpl` | ❌                               |
+| Default    | `{}`                             |
+
+Example
+
+```yaml
+service:
+  service-name:
+    ports:
+      port-name: {}
+```
 
 ---
 
-###### `service.$name.ports.$port-name.port`
+###### `ports.$port-name.port`
 
 Define the port that will be exposed by the service
 
-|          |                                       |
-| -------- | ------------------------------------- |
-| Key      | `service.$name.ports.$port-name.port` |
-| Type     | `int`                                 |
-| Required | `✅`                                  |
-| tpl      | `✅`                                  |
-| Default  | unset                                 |
+|            |                                       |
+| ---------- | ------------------------------------- |
+| Key        | `service.$name.ports.$port-name.port` |
+| Type       | `int`                                 |
+| Required   | ✅                                    |
+| Helm `tpl` | ✅                                    |
+| Default    | unset                                 |
 
 Example
 
 ```yaml
-port: 80
+service:
+  service-name:
+    ports:
+      port-name:
+        port: 80
 ```
 
 ---
 
-###### `service.$name.ports.$port-name.targetPort`
+###### `ports.$port-name.targetPort`
 
 Define the target port (No named ports)
 
-|          |                                             |
-| -------- | ------------------------------------------- |
-| Key      | `service.$name.ports.$port-name.targetPort` |
-| Type     | `int`                                       |
-| Required | `✅`                                        |
-| tpl      | `✅`                                        |
-| Default  | (Defaults to `port` if not set)             |
+|            |                                             |
+| ---------- | ------------------------------------------- |
+| Key        | `service.$name.ports.$port-name.targetPort` |
+| Type       | `int`                                       |
+| Required   | ❌                                          |
+| Helm `tpl` | ✅                                          |
+| Default    | (Defaults to `port` if not set)             |
 
 Example
 
 ```yaml
-targetPort: 80
+service:
+  service-name:
+    ports:
+      port-name:
+        targetPort: 80
 ```
 
 ---
 
-###### `service.$name.ports.$port-name.protocol`
+###### `ports.$port-name.protocol`
 
 Define the port protocol Used by the container ports and probes, http and https are converted to tcp where needed
 
-|          |                                                  |
-| -------- | ------------------------------------------------ |
-| Key      | `service.$name.ports.$port-name.protocol`        |
-| Type     | `string`                                         |
-| Required | `❌`                                             |
-| tpl      | `✅`                                             |
-| Default  | `{{ .Values.fallbackDefaults.serviceProtocol }}` |
+|            |                                                  |
+| ---------- | ------------------------------------------------ |
+| Key        | `service.$name.ports.$port-name.protocol`        |
+| Type       | `string`                                         |
+| Required   | ❌                                               |
+| Helm `tpl` | ✅                                               |
+| Default    | `{{ .Values.fallbackDefaults.serviceProtocol }}` |
 
 Example
 
 ```yaml
-protocol: tcp
+service:
+  service-name:
+    ports:
+      port-name:
+        protocol: tcp
 ```
 
 ---
 
-###### `service.$name.ports.$port-name.nodePort`
+###### `ports.$port-name.nodePort`
 
 Define the node port
 
-|          |                                           |
-| -------- | ----------------------------------------- |
-| Key      | `service.$name.ports.$port-name.nodePort` |
-| Type     | `int`                                     |
-| Required | `❌`                                      |
-| tpl      | `✅`                                      |
-| Default  | unset                                     |
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Key        | `service.$name.ports.$port-name.nodePort` |
+| Type       | `int`                                     |
+| Required   | ❌                                        |
+| Helm `tpl` | ✅                                        |
+| Default    | unset                                     |
 
 Example
 
 ```yaml
-nodePort: 30000
+service:
+  service-name:
+    ports:
+      port-name:
+        nodePort: 30000
 ```
 
 ---
 
-##### `service.$name.ports.$port-name.hostPort`
+###### `ports.$port-name.hostPort`
 
 Define the hostPort, should be **avoided**, unless **ABSOLUTELY** necessary
 
-|          |                                           |
-| -------- | ----------------------------------------- |
-| Key      | `service.$name.ports.$port-name.hostPort` |
-| Type     | `int`                                     |
-| Required | `❌`                                      |
-| tpl      | `✅`                                      |
-| Default  | unset                                     |
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Key        | `service.$name.ports.$port-name.hostPort` |
+| Type       | `int`                                     |
+| Required   | ❌                                        |
+| Helm `tpl` | ✅                                        |
+| Default    | unset                                     |
 
 Example
 
 ```yaml
-hostPort: 30000
+service:
+  service-name:
+    ports:
+      port-name:
+        hostPort: 30000
 ```
 
 ---
 
-###### `service.$name.ports.$port-name.targetSelector`
+###### `ports.$port-name.targetSelector`
 
 Define the container to link this port (Must be on under the pod linked above)
 
-|          |                                                 |
-| -------- | ----------------------------------------------- |
-| Key      | `service.$name.ports.$port-name.targetSelector` |
-| Type     | `string`                                        |
-| Required | `❌`                                            |
-| tpl      | `✅`                                            |
-| Default  | unset                                           |
+|            |                                                 |
+| ---------- | ----------------------------------------------- |
+| Key        | `service.$name.ports.$port-name.targetSelector` |
+| Type       | `string`                                        |
+| Required   | ❌                                              |
+| Helm `tpl` | ✅                                              |
+| Default    | unset                                           |
 
 Example
 
 ```yaml
-targetSelector: some-container
+service:
+  service-name:
+    ports:
+      port-name:
+        targetSelector: some-container
 ```
 
 ---

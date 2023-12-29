@@ -1,24 +1,190 @@
-# configmap
+---
+title: Configmap
+---
 
-| Key                                        |   Type    | Required | Helm Template | Default | Description                                                          |
-| :----------------------------------------- | :-------: | :------: | :-----------: | :-----: | :------------------------------------------------------------------- |
-| persistence.[volume-name].objectName       | `string`  |    ✅    |      ✅       |  `""`   | Define the configmap volume name                                     |
-| persistence.[volume-name].expandObjectName | `boolean` |    ❌    |      ❌       | `true`  | Whether to expand (adding the fullname as prefix) the configmap name |
-| persistence.[volume-name].optional         | `boolean` |    ❌    |      ❌       | `false` | Whether the confimap should be required or not                       |
-| persistence.[volume-name].defaultMode      | `string`  |    ❌    |      ✅       |  `""`   | Define the defaultMode (must be a string in format of "0777")        |
-| persistence.[volume-name].items            |  `list`   |    ❌    |      ❌       |  `[]`   | Define a list of items for configmap                                 |
-| persistence.[volume-name].items.key        | `string`  |    ✅    |      ✅       |  `""`   | Define the key of the configmap                                      |
-| persistence.[volume-name].items.path       | `string`  |    ✅    |      ✅       |  `""`   | Define the path                                                      |
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.persistence.$name`
+
+:::tip
+
+- See available persistence keys [here](./index.md).
+- This options apply only when `type: configmap`.
+
+:::
 
 ---
 
-Notes:
+## `objectName`
 
-View common `keys` of `persistence` in [persistence Documentation](index.md).
+Define the configmap name.
+
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `persistence.$name.objectName` |
+| Type       | `string`                       |
+| Required   | ✅                             |
+| Helm `tpl` | ✅                             |
+| Default    | `""`                           |
+
+Example
+
+```yaml
+persistence:
+  configmap-vol:
+    objectName: configmap-name
+```
 
 ---
 
-Examples:
+## `expandObjectName`
+
+Whether to expand (adding the fullname as prefix) the configmap name.
+
+|            |                                      |
+| ---------- | ------------------------------------ |
+| Key        | `persistence.$name.expandObjectName` |
+| Type       | `boolean`                            |
+| Required   | ❌                                   |
+| Helm `tpl` | ❌                                   |
+| Default    | `true`                               |
+
+Example
+
+```yaml
+persistence:
+  configmap-vol:
+    expandObjectName: false
+```
+
+---
+
+## `optional`
+
+Whether the configmap should be required or not.
+
+|            |                              |
+| ---------- | ---------------------------- |
+| Key        | `persistence.$name.optional` |
+| Type       | `boolean`                    |
+| Required   | ❌                           |
+| Helm `tpl` | ❌                           |
+| Default    | `false`                      |
+
+Example
+
+```yaml
+persistence:
+  configmap-vol:
+    optional: false
+```
+
+---
+
+## `defaultMode`
+
+Define the defaultMode (must be a string in format of "0777").
+
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.defaultMode` |
+| Type       | `string`                        |
+| Required   | ❌                             |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
+
+Example
+
+```yaml
+persistence:
+  configmap-vol:
+    defaultMode: "0777"
+```
+
+---
+
+## `items`
+
+Define a list of items for configmap.
+
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `persistence.$name.items` |
+| Type       | `list`                    |
+| Required   | ❌                        |
+| Helm `tpl` | ❌                        |
+| Default    | `[]`                      |
+
+Example
+
+```yaml
+persistence:
+  configmap-vol:
+    items:
+      - key: key1
+        path: path1
+      - key: key2
+        path: path2
+```
+
+---
+
+### `items[].key`
+
+Define the key of the configmap.
+
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.items[].key` |
+| Type       | `string`                        |
+| Required   | ✅                              |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
+
+Example
+
+```yaml
+persistence:
+  configmap-vol:
+    items:
+      - key: key1
+        path: path1
+```
+
+---
+
+### `items[].path`
+
+Define the path.
+
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `persistence.$name.items[].path` |
+| Type       | `string`                         |
+| Required   | ✅                               |
+| Helm `tpl` | ✅                               |
+| Default    | `""`                             |
+
+Example
+
+```yaml
+persistence:
+  configmap-vol:
+    items:
+      - key: key1
+        path: path1
+```
+
+---
+
+## Full Examples
 
 ```yaml
 persistence:

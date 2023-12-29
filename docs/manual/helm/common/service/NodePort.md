@@ -2,19 +2,23 @@
 title: NodePort
 ---
 
-:::tip
+:::note
 
-Prefix all keys below with `service.$name.`
-
-Replace references to `$port-name` with the actual name you want to use.
-
-See available service keys [here](./index.md).
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.service.$name`
+
+:::tip
+
+- See available service keys [here](./index.md).
+- This options apply only when `type: NodePort`.
+
+:::
 
 ---
 
@@ -22,18 +26,20 @@ Appears in:
 
 Configure Cluster IP type
 
-|          |             |
-| -------- | ----------- |
-| Key      | `clusterIP` |
-| Type     | `string`    |
-| Required | `❌`        |
-| tpl      | `✅`        |
-| Default  | `""`        |
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `service.$name.clusterIP` |
+| Type       | `string`                  |
+| Required   | ❌                        |
+| Helm `tpl` | ✅                        |
+| Default    | `""`                      |
 
 Example
 
 ```yaml
-clusterIP: 172.16.0.123
+service:
+  some-service:
+    clusterIP: 172.16.0.123
 ```
 
 ---
@@ -42,13 +48,13 @@ clusterIP: 172.16.0.123
 
 Define the ipFamilyPolicy (SingleStack, PreferDualStack, RequireDualStack)
 
-|          |                  |
-| -------- | ---------------- |
-| Key      | `ipFamilyPolicy` |
-| Type     | `string`         |
-| Required | `❌`             |
-| tpl      | `✅`             |
-| Default  | `""`             |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `service.$name.ipFamilyPolicy` |
+| Type       | `string`                       |
+| Required   | ❌                             |
+| Helm `tpl` | ✅                             |
+| Default    | `""`                           |
 
 Valid Values:
 
@@ -59,7 +65,9 @@ Valid Values:
 Example
 
 ```yaml
-ipFamilyPolicy: SingleStack
+service:
+  some-service:
+    ipFamilyPolicy: SingleStack
 ```
 
 ---
@@ -68,19 +76,21 @@ ipFamilyPolicy: SingleStack
 
 Define the ipFamilies
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `ipFamilies`           |
-| Type     | `list` of `string`     |
-| Required | `❌`                   |
-| tpl      | `✅` (On entries only) |
-| Default  | `[]`                   |
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `service.$name.ipFamilies` |
+| Type       | `list` of `string`         |
+| Required   | ❌                         |
+| Helm `tpl` | ✅ (On entries only)       |
+| Default    | `[]`                       |
 
 Example
 
 ```yaml
-ipFamilies:
-  - IPv4
+service:
+  some-service:
+    ipFamilies:
+      - IPv4
 ```
 
 ---
@@ -89,13 +99,13 @@ ipFamilies:
 
 Define the session affinity (ClientIP, None)
 
-|          |                   |
-| -------- | ----------------- |
-| Key      | `sessionAffinity` |
-| Type     | `string`          |
-| Required | `❌`              |
-| tpl      | `✅`              |
-| Default  | `""`              |
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `service.$name.sessionAffinity` |
+| Type       | `string`                        |
+| Required   | ❌                              |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
 
 Valid Values:
 
@@ -105,7 +115,9 @@ Valid Values:
 Example
 
 ```yaml
-sessionAffinity: ClientIP
+service:
+  some-service:
+    sessionAffinity: ClientIP
 ```
 
 ---
@@ -114,13 +126,13 @@ sessionAffinity: ClientIP
 
 Define the timeout for ClientIP session affinity (0-86400)
 
-|          |                                                 |
-| -------- | ----------------------------------------------- |
-| Key      | `sessionAffinityConfig.clientIP.timeoutSeconds` |
-| Type     | `int`                                           |
-| Required | `❌`                                            |
-| tpl      | `✅`                                            |
-| Default  | `""`                                            |
+|            |                                                               |
+| ---------- | ------------------------------------------------------------- |
+| Key        | `service.$name.sessionAffinityConfig.clientIP.timeoutSeconds` |
+| Type       | `int`                                                         |
+| Required   | ❌                                                            |
+| Helm `tpl` | ✅                                                            |
+| Default    | `""`                                                          |
 
 Valid Values:
 
@@ -129,9 +141,11 @@ Valid Values:
 Example
 
 ```yaml
-sessionAffinityConfig:
-  clientIP:
-    timeoutSeconds: 86400
+service:
+  some-service:
+    sessionAffinityConfig:
+      clientIP:
+        timeoutSeconds: 86400
 ```
 
 ---
@@ -140,20 +154,22 @@ sessionAffinityConfig:
 
 Define externalIPs
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `externalIPs`          |
-| Type     | `list` of `string`     |
-| Required | `❌`                   |
-| tpl      | `✅` (On entries only) |
-| Default  | `[]`                   |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `service.$name.externalIPs` |
+| Type       | `list` of `string`          |
+| Required   | ❌                          |
+| Helm `tpl` | ✅ (On entries only)        |
+| Default    | `[]`                        |
 
 Example
 
 ```yaml
-externalIPs:
-  - 1.2.3.4
-  - 5.6.7.8
+service:
+  some-service:
+    externalIPs:
+      - 1.2.3.4
+      - 5.6.7.8
 ```
 
 ---
@@ -162,13 +178,13 @@ externalIPs:
 
 Define the external traffic policy (Cluster, Local)
 
-|          |                         |
-| -------- | ----------------------- |
-| Key      | `externalTrafficPolicy` |
-| Type     | `string`                |
-| Required | `❌`                    |
-| tpl      | `✅`                    |
-| Default  | `""`                    |
+|            |                                       |
+| ---------- | ------------------------------------- |
+| Key        | `service.$name.externalTrafficPolicy` |
+| Type       | `string`                              |
+| Required   | ❌                                    |
+| Helm `tpl` | ✅                                    |
+| Default    | `""`                                  |
 
 Valid Values:
 
@@ -178,7 +194,9 @@ Valid Values:
 Example
 
 ```yaml
-externalTrafficPolicy: Cluster
+service:
+  some-service:
+    externalTrafficPolicy: Cluster
 ```
 
 ---
@@ -187,18 +205,20 @@ externalTrafficPolicy: Cluster
 
 Define the node port that will be exposed on the node
 
-|          |                             |
-| -------- | --------------------------- |
-| Key      | `ports.$port-name.nodePort` |
-| Type     | `int`                       |
-| Required | `✅`                        |
-| tpl      | `✅`                        |
-| Default  | unset                       |
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Key        | `service.$name.ports.$port-name.nodePort` |
+| Type       | `int`                                     |
+| Required   | ✅                                        |
+| Helm `tpl` | ✅                                        |
+| Default    | unset                                     |
 
 Example
 
 ```yaml
-nodePort: 30080
+service:
+  some-service:
+    nodePort: 30080
 ```
 
 ---

@@ -2,13 +2,14 @@
 title: Service Account
 ---
 
-:::tip
+:::note
 
-Replace references to `$name` with the actual name you want to use.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.serviceAccount`
 
@@ -16,6 +17,12 @@ Appears in:
 
 - Primary: `$FullName` (release-name-chart-name)
 - Non-Primary: `$FullName-$ServiceAccountName` (release-name-chart-name-ServiceAccountName)
+
+:::tip
+
+- Replace references to `$name` with the actual name you want to use.
+
+:::
 
 ---
 
@@ -31,13 +38,19 @@ Appears in:
 
 Create serviceAccount objects
 
-|          |                  |
-| -------- | ---------------- |
-| Key      | `serviceAccount` |
-| Type     | `map`            |
-| Required | `❌`             |
-| tpl      | `❌`             |
-| Default  | `{}`             |
+|            |                  |
+| ---------- | ---------------- |
+| Key        | `serviceAccount` |
+| Type       | `map`            |
+| Required   | ❌               |
+| Helm `tpl` | ❌               |
+| Default    | `{}`             |
+
+Example
+
+```yaml
+serviceAccount: {}
+```
 
 ---
 
@@ -45,163 +58,182 @@ Create serviceAccount objects
 
 Define serviceAccount
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `serviceAccount.$name` |
-| Type     | `map`                  |
-| Required | `✅`                   |
-| tpl      | `❌`                   |
-| Default  | `{}`                   |
+|            |                        |
+| ---------- | ---------------------- |
+| Key        | `serviceAccount.$name` |
+| Type       | `map`                  |
+| Required   | ✅                     |
+| Helm `tpl` | ❌                     |
+| Default    | `{}`                   |
+
+Example
+
+```yaml
+serviceAccount:
+  sa-name: {}
+```
 
 ---
 
-#### `serviceAccount.$name.enabled`
+#### `enabled`
 
 Enables or Disables the serviceAccount
 
-|          |                                |
-| -------- | ------------------------------ |
-| Key      | `serviceAccount.$name.enabled` |
-| Type     | `bool`                         |
-| Required | `✅`                           |
-| tpl      | `❌`                           |
-| Default  | `false`                        |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `serviceAccount.$name.enabled` |
+| Type       | `bool`                         |
+| Required   | ✅                             |
+| Helm `tpl` | ❌                             |
+| Default    | `false`                        |
 
 Example
 
 ```yaml
-enabled: true
+serviceAccount:
+  sa-name:
+    enabled: true
 ```
 
 ---
 
-#### `serviceAccount.$name.primary`
+#### `primary`
 
 Sets the serviceAccount as primary
 
-|          |                                |
-| -------- | ------------------------------ |
-| Key      | `serviceAccount.$name.primary` |
-| Type     | `bool`                         |
-| Required | `❌`                           |
-| tpl      | `❌`                           |
-| Default  | `false`                        |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `serviceAccount.$name.primary` |
+| Type       | `bool`                         |
+| Required   | ❌                             |
+| Helm `tpl` | ❌                             |
+| Default    | `false`                        |
 
 Example
 
 ```yaml
-primary: true
+serviceAccount:
+  sa-name:
+    primary: true
 ```
 
 ---
 
-#### `serviceAccount.$name.namespace`
+#### `namespace`
 
 Define the namespace for this object
 
-|          |                                  |
-| -------- | -------------------------------- |
-| Key      | `serviceAccount.$name.namespace` |
-| Type     | `string`                         |
-| Required | `❌`                             |
-| tpl      | `✅`                             |
-| Default  | `""`                             |
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `serviceAccount.$name.namespace` |
+| Type       | `string`                         |
+| Required   | ❌                               |
+| Helm `tpl` | ✅                               |
+| Default    | `""`                             |
 
 Example
 
 ```yaml
-namespace: some-namespace
+serviceAccount:
+  sa-name:
+    namespace: some-namespace
 ```
 
 ---
 
-#### `serviceAccount.$name.labels`
+#### `labels`
 
 Additional labels for service account
 
-|          |                               |
-| -------- | ----------------------------- |
-| Key      | `serviceAccount.$name.labels` |
-| Type     | `map`                         |
-| Required | `❌`                          |
-| tpl      | `✅ (On value only)`          |
-| Default  | `{}`                          |
+|            |                               |
+| ---------- | ----------------------------- |
+| Key        | `serviceAccount.$name.labels` |
+| Type       | `map`                         |
+| Required   | ❌                            |
+| Helm `tpl` | ✅ (On value only)`           |
+| Default    | `{}`                          |
 
 Example
 
 ```yaml
-labels:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+serviceAccount:
+  sa-name:
+    labels:
+      key: value
 ```
 
 ---
 
-#### `serviceAccount.$name.annotations`
+#### `annotations`
 
 Additional annotations for service account
 
-|          |                                    |
-| -------- | ---------------------------------- |
-| Key      | `serviceAccount.$name.annotations` |
-| Type     | `map`                              |
-| Required | `❌`                               |
-| tpl      | `✅ (On value only)`               |
-| Default  | `{}`                               |
+|            |                                    |
+| ---------- | ---------------------------------- |
+| Key        | `serviceAccount.$name.annotations` |
+| Type       | `map`                              |
+| Required   | ❌                                 |
+| Helm `tpl` | ✅ (On value only)`                |
+| Default    | `{}`                               |
 
 Example
 
 ```yaml
-annotations:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+serviceAccount:
+  sa-name:
+    annotations:
+      key: value
 ```
 
 ---
 
-#### `serviceAccount.$name.targetSelectAll`
+#### `targetSelectAll`
 
 Whether to assign the serviceAccount to all pods or not
 
-|          |                                        |
-| -------- | -------------------------------------- |
-| Key      | `serviceAccount.$name.targetSelectAll` |
-| Type     | `bool`                                 |
-| Required | `❌`                                   |
-| tpl      | `❌`                                   |
-| Default  | unset                                  |
+|            |                                        |
+| ---------- | -------------------------------------- |
+| Key        | `serviceAccount.$name.targetSelectAll` |
+| Type       | `bool`                                 |
+| Required   | ❌                                     |
+| Helm `tpl` | ❌                                     |
+| Default    | unset                                  |
 
 Example
 
 ```yaml
-targetSelectAll: true
+serviceAccount:
+  sa-name:
+    targetSelectAll: true
 ```
 
 ---
 
-#### `serviceAccount.$name.targetSelector`
+#### `targetSelector`
 
 Define the pod(s) to assign the serviceAccount
 
-|          |                                       |
-| -------- | ------------------------------------- |
-| Key      | `serviceAccount.$name.targetSelector` |
-| Type     | `list` of `string`                    |
-| Required | `❌`                                  |
-| tpl      | `❌`                                  |
-| Default  | `[]`                                  |
+|            |                                       |
+| ---------- | ------------------------------------- |
+| Key        | `serviceAccount.$name.targetSelector` |
+| Type       | `list` of `string`                    |
+| Required   | ❌                                    |
+| Helm `tpl` | ❌                                    |
+| Default    | `[]`                                  |
 
 Example
 
 ```yaml
-targetSelector:
-  - workload-name1
-  - workload-name2
+serviceAccount:
+  sa-name:
+    targetSelector:
+      - workload-name1
+      - workload-name2
 ```
 
 ---
 
-Full Examples
+## Full Examples
 
 ```yaml
 serviceAccount:

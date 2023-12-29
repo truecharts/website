@@ -2,13 +2,14 @@
 title: Configmap
 ---
 
-:::tip
+:::note
 
-Replace references to `$name` with the actual name you want to use.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.configmap`
 
@@ -16,137 +17,162 @@ Appears in:
 
 - `$FullName-$ConfigmapName` (release-name-chart-name-configmap-name)
 
+:::tip
+
+- Replace references to `$name` with the actual name you want to use.
+
+:::
+
 ---
 
 ## `configmap`
 
-Create ConfigMap objects
+Create Configmap objects
 
-|          |             |
-| -------- | ----------- |
-| Key      | `configmap` |
-| Type     | `map`       |
-| Required | `❌`        |
-| tpl      | `❌`        |
-| Default  | `{}`        |
-
----
-
-### `configmap.$name`
-
-Define ConfigMap
-
-|          |                   |
-| -------- | ----------------- |
-| Key      | `configmap.$name` |
-| Type     | `map`             |
-| Required | `✅`              |
-| tpl      | `❌`              |
-| Default  | `{}`              |
-
----
-
-#### `configmap.$name.enabled`
-
-Enables or Disables the ConfigMap
-
-|          |                           |
-| -------- | ------------------------- |
-| Key      | `configmap.$name.enabled` |
-| Type     | `bool`                    |
-| Required | `✅`                      |
-| tpl      | `❌`                      |
-| Default  | `false`                   |
+|            |             |
+| ---------- | ----------- |
+| Key        | `configmap` |
+| Type       | `map`       |
+| Required   | ❌          |
+| Helm `tpl` | ❌          |
+| Default    | `{}`        |
 
 Example
 
 ```yaml
-enabled: true
+configmap: {}
 ```
 
 ---
 
-#### `configmap.$name.namespace`
+### `$name`
+
+Define Configmap
+
+|            |                   |
+| ---------- | ----------------- |
+| Key        | `configmap.$name` |
+| Type       | `map`             |
+| Required   | ✅                |
+| Helm `tpl` | ❌                |
+| Default    | `{}`              |
+
+Example
+
+```yaml
+configmap:
+  configmap-name: {}
+```
+
+---
+
+#### `enabled`
+
+Enables or Disables the Configmap
+
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `configmap.$name.enabled` |
+| Type       | `bool`                    |
+| Required   | ✅                        |
+| Helm `tpl` | ❌                        |
+| Default    | `false`                   |
+
+Example
+
+```yaml
+configmap:
+  configmap-name:
+    enabled: true
+```
+
+---
+
+#### `namespace`
 
 Define the namespace for this object
 
-|          |                             |
-| -------- | --------------------------- |
-| Key      | `configmap.$name.namespace` |
-| Type     | `string`                    |
-| Required | `❌`                        |
-| tpl      | `✅ (On value only)`        |
-| Default  | `""`                        |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `configmap.$name.namespace` |
+| Type       | `string`                    |
+| Required   | ❌                          |
+| Helm `tpl` | ✅                          |
+| Default    | `""`                        |
 
 Example
 
 ```yaml
-namespace: some-namespace
+configmap:
+  configmap-name:
+    namespace: some-namespace
 ```
 
 ---
 
-#### `configmap.$name.labels`
+#### `labels`
 
-Additional labels for ConfigMap
+Additional labels for configmap
 
-|          |                          |
-| -------- | ------------------------ |
-| Key      | `configmap.$name.labels` |
-| Type     | `map`                    |
-| Required | `❌`                     |
-| tpl      | `✅ (On value only)`     |
-| Default  | `{}`                     |
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `configmap.$name.labels` |
+| Type       | `map`                    |
+| Required   | ❌                       |
+| Helm `tpl` | ✅ (On value only)`      |
+| Default    | `{}`                     |
 
 Example
 
 ```yaml
-labels:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+configmap:
+  configmap-name:
+    labels:
+      key: value
 ```
 
 ---
 
-#### `configmap.$name.annotations`
+#### `annotations`
 
-Additional annotations for ConfigMap
+Additional annotations for configmap
 
-|          |                               |
-| -------- | ----------------------------- |
-| Key      | `configmap.$name.annotations` |
-| Type     | `map`                         |
-| Required | `❌`                          |
-| tpl      | `✅ (On value only)`          |
-| Default  | `{}`                          |
+|            |                               |
+| ---------- | ----------------------------- |
+| Key        | `configmap.$name.annotations` |
+| Type       | `map`                         |
+| Required   | ❌                            |
+| Helm `tpl` | ✅ (On value only)`           |
+| Default    | `{}`                          |
 
 Example
 
 ```yaml
-annotations:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+configmap:
+  configmap-name:
+    annotations:
+      key: value
 ```
 
 ---
 
-#### `configmap.$name.data`
+#### `data`
 
-Define the data of the ConfigMap
+Define the data of the configmap
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `configmap.$name.data` |
-| Type     | `map`                  |
-| Required | `✅`                   |
-| tpl      | `✅`                   |
-| Default  | `{ }`                  |
-
-Example
+|            |                        |
+| ---------- | ---------------------- |
+| Key        | `configmap.$name.data` |
+| Type       | `map`                  |
+| Required   | ✅                     |
+| Helm `tpl` | ✅                     |
+| Example    | `{}`                   |
 
 ```yaml
-data:
-  key: value
+configmap:
+  configmap-name:
+    data:
+      key: value
 ```
 
 ---

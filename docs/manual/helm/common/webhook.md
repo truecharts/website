@@ -2,19 +2,28 @@
 title: Webhook
 ---
 
-:::tip
+:::note
 
-Replace references to `$name` with the actual name you want to use.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+---
+
+## Appears in
 
 - `.Values.webhook`
 
 ## Naming scheme
 
-- `$FullName-$webhookName` (release-name-chart-name-webhookName)
+- `$FullName-$WebhookName` (release-name-chart-name-webhook-name)
+
+:::tip
+
+- Replace references to `$name` with the actual name you want to use.
+
+:::
 
 ---
 
@@ -22,125 +31,146 @@ Appears in:
 
 Create webhook objects
 
-|          |           |
-| -------- | --------- |
-| Key      | `webhook` |
-| Type     | `map`     |
-| Required | `❌`      |
-| tpl      | `❌`      |
-| Default  | `{}`      |
+|            |           |
+| ---------- | --------- |
+| Key        | `webhook` |
+| Type       | `map`     |
+| Required   | ❌        |
+| Helm `tpl` | ❌        |
+| Default    | `{}`      |
+
+Example
+
+```yaml
+webhook: {}
+```
 
 ---
 
-### `webhook.$name`
+### `$name`
 
-Define webhook
+Define a webhook object with the given name
 
-|          |                 |
-| -------- | --------------- |
-| Key      | `webhook.$name` |
-| Type     | `map`           |
-| Required | `✅`            |
-| tpl      | `❌`            |
-| Default  | `{}`            |
+|            |                 |
+| ---------- | --------------- |
+| Key        | `webhook.$name` |
+| Type       | `map`           |
+| Required   | ✅              |
+| Helm `tpl` | ❌              |
+| Default    | `{}`            |
+
+Example
+
+```yaml
+webhook:
+  webhook-name: {}
+```
 
 ---
 
-#### `webhook.$name.enabled`
+#### `enabled`
 
 Enables or Disables the webhook
 
-|          |                         |
-| -------- | ----------------------- |
-| Key      | `webhook.$name.enabled` |
-| Type     | `bool`                  |
-| Required | `✅`                    |
-| tpl      | `❌`                    |
-| Default  | `false`                 |
+|            |                         |
+| ---------- | ----------------------- |
+| Key        | `webhook.$name.enabled` |
+| Type       | `bool`                  |
+| Required   | ✅                      |
+| Helm `tpl` | ❌                      |
+| Default    | `false`                 |
 
 Example
 
 ```yaml
-enabled: true
+webhook:
+  webhook-name:
+    enabled: true
 ```
 
 ---
 
-#### `webhook.$name.namespace`
+#### `namespace`
 
 Define the namespace for this object
 
-|          |                           |
-| -------- | ------------------------- |
-| Key      | `webhook.$name.namespace` |
-| Type     | `string`                  |
-| Required | `❌`                      |
-| tpl      | `✅ (On value only)`      |
-| Default  | `""`                      |
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `webhook.$name.namespace` |
+| Type       | `string`                  |
+| Required   | ❌                        |
+| Helm `tpl` | ✅ (On value only)`       |
+| Default    | `""`                      |
 
 Example
 
 ```yaml
-namespace: some-namespace
+webhook:
+  webhook-name:
+    namespace: some-namespace
 ```
 
 ---
 
-#### `webhook.$name.labels`
+#### `labels`
 
 Additional labels for webhook
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `webhook.$name.labels` |
-| Type     | `map`                  |
-| Required | `❌`                   |
-| tpl      | `✅ (On value only)`   |
-| Default  | `{}`                   |
+|            |                        |
+| ---------- | ---------------------- |
+| Key        | `webhook.$name.labels` |
+| Type       | `map`                  |
+| Required   | ❌                     |
+| Helm `tpl` | ✅ (On value only)`    |
+| Default    | `{}`                   |
 
 Example
 
 ```yaml
-labels:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+webhook:
+  webhook-name:
+    labels:
+      key: value
+      keytpl: "{{ .Values.some.value }}"
 ```
 
 ---
 
-#### `webhook.$name.annotations`
+#### `annotations`
 
 Additional annotations for webhook
 
-|          |                             |
-| -------- | --------------------------- |
-| Key      | `webhook.$name.annotations` |
-| Type     | `map`                       |
-| Required | `❌`                        |
-| tpl      | `✅ (On value only)`        |
-| Default  | `{}`                        |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `webhook.$name.annotations` |
+| Type       | `map`                       |
+| Required   | ❌                          |
+| Helm `tpl` | ✅ (On value only)`         |
+| Default    | `{}`                        |
 
 Example
 
 ```yaml
-annotations:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+webhook:
+  webhook-name:
+    annotations:
+      key: value
+      keytpl: "{{ .Values.some.value }}"
 ```
 
 ---
 
-#### `webhook.$name.type`
+#### `type`
 
 Define the type of the webhook.
 
-|          |                      |
-| -------- | -------------------- |
-| Key      | `webhook.$name.type` |
-| Type     | `string`             |
-| Required | `✅`                 |
-| tpl      | `✅`                 |
-| Default  | `""`                 |
+|            |                      |
+| ---------- | -------------------- |
+| Key        | `webhook.$name.type` |
+| Type       | `string`             |
+| Required   | ✅                   |
+| Helm `tpl` | ✅                   |
+| Default    | `""`                 |
 
 Valid Values:
 
@@ -150,56 +180,69 @@ Valid Values:
 Example
 
 ```yaml
-type: mutating
+webhook:
+  webhook-name:
+    type: mutating
 ```
 
 ---
 
-#### `webhook.$name.webhooks`
+#### `webhooks`
 
 Define the webhooks.
 
-|          |                          |
-| -------- | ------------------------ |
-| Key      | `webhook.$name.webhooks` |
-| Type     | `list` of `map`          |
-| Required | `✅`                     |
-| tpl      | `❌`                     |
-| Default  | `[]`                     |
-
----
-
-##### `webhook.$name.webhooks[].name`
-
-Define the webhook name
-
-|          |                                 |
-| -------- | ------------------------------- |
-| Key      | `webhook.$name.webhooks[].name` |
-| Type     | `string`                        |
-| Required | `✅`                            |
-| tpl      | `✅`                            |
-| Default  | `""`                            |
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `webhook.$name.webhooks` |
+| Type       | `list` of `map`          |
+| Required   | ✅                       |
+| Helm `tpl` | ❌                       |
+| Default    | `[]`                     |
 
 Example
 
 ```yaml
-name: webhook-name
+webhook:
+  webhook-name:
+    webhooks: []
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].failurePolicy`
+##### `webhooks[].name`
+
+Define the webhook name
+
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `webhook.$name.webhooks[].name` |
+| Type       | `string`                        |
+| Required   | ✅                              |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
+
+Example
+
+```yaml
+webhook:
+  webhook-name:
+    webhooks:
+      - name: webhook-name
+```
+
+---
+
+##### `webhooks[].failurePolicy`
 
 Define the failurePolicy for the webhook
 
-|          |                                          |
-| -------- | ---------------------------------------- |
-| Key      | `webhook.$name.webhooks[].failurePolicy` |
-| Type     | `string`                                 |
-| Required | `❌`                                     |
-| tpl      | `✅`                                     |
-| Default  | `""`                                     |
+|            |                                          |
+| ---------- | ---------------------------------------- |
+| Key        | `webhook.$name.webhooks[].failurePolicy` |
+| Type       | `string`                                 |
+| Required   | ❌                                       |
+| Helm `tpl` | ✅                                       |
+| Default    | `""`                                     |
 
 Valid Values:
 
@@ -209,22 +252,25 @@ Valid Values:
 Example
 
 ```yaml
-failurePolicy: Fail
+webhook:
+  webhook-name:
+    webhooks:
+      - ailurePolicy: Fail
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].matchPolicy`
+##### `webhooks[].matchPolicy`
 
 Define the matchPolicy for the webhook
 
-|          |                                        |
-| -------- | -------------------------------------- |
-| Key      | `webhook.$name.webhooks[].matchPolicy` |
-| Type     | `string`                               |
-| Required | `❌`                                   |
-| tpl      | `✅`                                   |
-| Default  | `""`                                   |
+|            |                                        |
+| ---------- | -------------------------------------- |
+| Key        | `webhook.$name.webhooks[].matchPolicy` |
+| Type       | `string`                               |
+| Required   | ❌                                     |
+| Helm `tpl` | ✅                                     |
+| Default    | `""`                                   |
 
 Valid Values:
 
@@ -234,22 +280,25 @@ Valid Values:
 Example
 
 ```yaml
-matchPolicy: Exact
+webhook:
+  webhook-name:
+    webhooks:
+      - matchPolicy: Exact
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].sideEffects`
+##### `webhooks[].sideEffects`
 
 Define the sideEffects for the webhook
 
-|          |                                        |
-| -------- | -------------------------------------- |
-| Key      | `webhook.$name.webhooks[].sideEffects` |
-| Type     | `string`                               |
-| Required | `❌`                                   |
-| tpl      | `✅`                                   |
-| Default  | `""`                                   |
+|            |                                        |
+| ---------- | -------------------------------------- |
+| Key        | `webhook.$name.webhooks[].sideEffects` |
+| Type       | `string`                               |
+| Required   | ❌                                     |
+| Helm `tpl` | ✅                                     |
+| Default    | `""`                                   |
 
 Valid Values:
 
@@ -259,22 +308,25 @@ Valid Values:
 Example
 
 ```yaml
-sideEffects: None
+webhook:
+  webhook-name:
+    webhooks:
+      - sideEffects: None
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].reinvocationPolicy`
+##### `webhooks[].reinvocationPolicy`
 
 Define the reinvocationPolicy for the webhook
 
-|          |                                               |
-| -------- | --------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].reinvocationPolicy` |
-| Type     | `string`                                      |
-| Required | `❌`                                          |
-| tpl      | `✅`                                          |
-| Default  | `""`                                          |
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].reinvocationPolicy` |
+| Type       | `string`                                      |
+| Required   | ❌                                            |
+| Helm `tpl` | ✅                                            |
+| Default    | `""`                                          |
 
 Valid Values:
 
@@ -284,224 +336,280 @@ Valid Values:
 Example
 
 ```yaml
-reinvocationPolicy: Never
+webhook:
+  webhook-name:
+    webhooks:
+      - reinvocationPolicy: Never
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].timeoutSeconds`
+##### `webhooks[].timeoutSeconds`
 
 Define the timeoutSeconds for the webhook
 
-|          |                                           |
-| -------- | ----------------------------------------- |
-| Key      | `webhook.$name.webhooks[].timeoutSeconds` |
-| Type     | `int`                                     |
-| Required | `❌`                                      |
-| tpl      | `✅`                                      |
-| Default  | `""`                                      |
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Key        | `webhook.$name.webhooks[].timeoutSeconds` |
+| Type       | `int`                                     |
+| Required   | ❌                                        |
+| Helm `tpl` | ✅                                        |
+| Default    | `""`                                      |
 
 Example
 
 ```yaml
-timeoutSeconds: 30
+webhook:
+  webhook-name:
+    webhooks:
+      - timeoutSeconds: 30
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].admissionReviewVersions`
+##### `webhooks[].admissionReviewVersions`
 
 Define the admissionReviewVersions for the webhook
 
-|          |                                                    |
-| -------- | -------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].admissionReviewVersions` |
-| Type     | `list` of `string`                                 |
-| Required | `✅`                                               |
-| tpl      | `✅`                                               |
-| Default  | `[]`                                               |
+|            |                                                    |
+| ---------- | -------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].admissionReviewVersions` |
+| Type       | `list` of `string`                                 |
+| Required   | ✅                                                 |
+| Helm `tpl` | ✅                                                 |
+| Default    | `[]`                                               |
 
 Example
 
 ```yaml
-admissionReviewVersions:
-  - v1
-  - v1beta1
+webhook:
+  webhook-name:
+    webhooks:
+      - admissionReviewVersions:
+          - v1
+          - v1beta1
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].clientConfig`
+##### `webhooks[].clientConfig`
 
 Define the clientConfig for the webhook
 
-|          |                                         |
-| -------- | --------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig` |
-| Type     | `map`                                   |
-| Required | `✅`                                    |
-| tpl      | `❌`                                    |
-| Default  | `{}`                                    |
+|            |                                         |
+| ---------- | --------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig` |
+| Type       | `map`                                   |
+| Required   | ✅                                      |
+| Helm `tpl` | ❌                                      |
+| Default    | `{}`                                    |
 
 ---
 
-###### `webhook.$name.webhooks[].clientConfig.caBundle`
+###### `webhooks[].clientConfig.caBundle`
 
 Define the caBundle in clientConfig for the webhook
 
-|          |                                                  |
-| -------- | ------------------------------------------------ |
-| Key      | `webhook.$name.webhooks[].clientConfig.caBundle` |
-| Type     | `string`                                         |
-| Required | `❌`                                             |
-| tpl      | `✅`                                             |
-| Default  | `""`                                             |
+|            |                                                  |
+| ---------- | ------------------------------------------------ |
+| Key        | `webhook.$name.webhooks[].clientConfig.caBundle` |
+| Type       | `string`                                         |
+| Required   | ❌                                               |
+| Helm `tpl` | ✅                                               |
+| Default    | `""`                                             |
 
 Example
 
 ```yaml
-caBundle: ""
+webhook:
+  webhook-name:
+    webhooks:
+      - clientConfig:
+          caBundle: ""
 ```
 
-###### `webhook.$name.webhooks[].clientConfig.url`
+###### `webhooks[].clientConfig.url`
 
 Define the url in clientConfig for the webhook, required if service is not defined in clientConfig
 
-|          |                                             |
-| -------- | ------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.url` |
-| Type     | `string`                                    |
-| Required | `❌`                                        |
-| tpl      | `✅`                                        |
-| Default  | `""`                                        |
+|            |                                             |
+| ---------- | ------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.url` |
+| Type       | `string`                                    |
+| Required   | ❌                                          |
+| Helm `tpl` | ✅                                          |
+| Default    | `""`                                        |
 
 Example
 
 ```yaml
-url: ""
+webhook:
+  webhook-name:
+    webhooks:
+      - clientConfig:
+          url: ""
 ```
 
 ---
 
-###### `webhook.$name.webhooks[].clientConfig.service`
+###### `webhooks[].clientConfig.service`
 
 Define the service in clientConfig for the webhook, required if url is not defined in clientConfig
 
-|          |                                                 |
-| -------- | ----------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service` |
-| Type     | `map`                                           |
-| Required | `❌`                                            |
-| tpl      | `❌`                                            |
-| Default  | `{}`                                            |
+|            |                                                 |
+| ---------- | ----------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service` |
+| Type       | `map`                                           |
+| Required   | ❌                                              |
+| Helm `tpl` | ❌                                              |
+| Default    | `{}`                                            |
+
+Example
+
+```yaml
+webhook:
+  webhook-name:
+    webhooks:
+      - clientConfig:
+          service: {}
+```
 
 ---
 
-###### `webhook.$name.webhooks[].clientConfig.service.name`
+###### `webhooks[].clientConfig.service.name`
 
 Define the service name in clientConfig for the webhook
 
-|          |                                                      |
-| -------- | ---------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service.name` |
-| Type     | `string`                                             |
-| Required | `✅`                                                 |
-| tpl      | `✅`                                                 |
-| Default  | `""`                                                 |
+|            |                                                      |
+| ---------- | ---------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service.name` |
+| Type       | `string`                                             |
+| Required   | ✅                                                   |
+| Helm `tpl` | ✅                                                   |
+| Default    | `""`                                                 |
 
 Example
 
 ```yaml
-name: ""
+webhook:
+  webhook-name:
+    webhooks:
+      - clientConfig:
+          service:
+            name: ""
 ```
 
 ---
 
-###### `webhook.$name.webhooks[].clientConfig.service.namespace`
+###### `webhooks[].clientConfig.service.namespace`
 
 Define the service namespace in clientConfig for the webhook
 
-|          |                                                           |
-| -------- | --------------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service.namespace` |
-| Type     | `string`                                                  |
-| Required | `✅`                                                      |
-| tpl      | `✅`                                                      |
-| Default  | `""`                                                      |
+|            |                                                           |
+| ---------- | --------------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service.namespace` |
+| Type       | `string`                                                  |
+| Required   | ✅                                                        |
+| Helm `tpl` | ✅                                                        |
+| Default    | `""`                                                      |
 
 Example
 
 ```yaml
-namespace: ""
+webhook:
+  webhook-name:
+    webhooks:
+      - clientConfig:
+          service:
+            namespace: ""
 ```
 
 ---
 
-###### `webhook.$name.webhooks[].clientConfig.service.path`
+###### `webhooks[].clientConfig.service.path`
 
 Define the service path in clientConfig for the webhook
 
-|          |                                                      |
-| -------- | ---------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service.path` |
-| Type     | `string`                                             |
-| Required | `❌`                                                 |
-| tpl      | `✅`                                                 |
-| Default  | `""`                                                 |
+|            |                                                      |
+| ---------- | ---------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service.path` |
+| Type       | `string`                                             |
+| Required   | ❌                                                   |
+| Helm `tpl` | ✅                                                   |
+| Default    | `""`                                                 |
 
 Example
 
 ```yaml
-path: ""
+webhook:
+  webhook-name:
+    webhooks:
+      - clientConfig:
+          service:
+            path: ""
 ```
 
 ---
 
-###### `webhook.$name.webhooks[].clientConfig.service.port`
+###### `webhooks[].clientConfig.service.port`
 
 Define the service port in clientConfig for the webhook
 
-|          |                                                      |
-| -------- | ---------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service.port` |
-| Type     | `int`                                                |
-| Required | `❌`                                                 |
-| tpl      | `✅`                                                 |
-| Default  | unset                                                |
+|            |                                                      |
+| ---------- | ---------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service.port` |
+| Type       | `int`                                                |
+| Required   | ❌                                                   |
+| Helm `tpl` | ✅                                                   |
+| Default    | unset                                                |
 
 Example
 
 ```yaml
-port: 443
+webhook:
+  webhook-name:
+    webhooks:
+      - clientConfig:
+          service:
+            port: 443
 ```
 
 ---
 
-#### `webhook.$name.webhooks[].rules`
+#### `webhooks[].rules`
 
 Define the rules for the webhook
 
-|          |                                  |
-| -------- | -------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules` |
-| Type     | `list` of `map`                  |
-| Required | `✅`                             |
-| tpl      | `❌`                             |
-| Default  | `[]`                             |
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules` |
+| Type       | `list` of `map`                  |
+| Required   | ✅                               |
+| Helm `tpl` | ❌                               |
+| Default    | `[]`                             |
+
+Example
+
+```yaml
+webhook:
+  webhook-name:
+    webhooks:
+      - rules: []
+```
 
 ---
 
-##### `webhook.$name.webhooks[].rules[].scope`
+##### `webhooks[].rules[].scope`
 
 Define the scope of the rule for the webhook
 
-|          |                                          |
-| -------- | ---------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].scope` |
-| Type     | `string`                                 |
-| Required | `❌`                                     |
-| tpl      | `✅`                                     |
-| Default  | `""`                                     |
+|            |                                          |
+| ---------- | ---------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].scope` |
+| Type       | `string`                                 |
+| Required   | ❌                                       |
+| Helm `tpl` | ✅                                       |
+| Default    | `""`                                     |
 
 Valid Values:
 
@@ -512,95 +620,115 @@ Valid Values:
 Example
 
 ```yaml
-scope: Cluster
+webhook:
+  webhook-name:
+    webhooks:
+      - rules:
+          - scope: Cluster
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].rules[].apiGroups`
+##### `webhooks[].rules[].apiGroups`
 
 Define the apiGroups of the rule for the webhook
 
-|          |                                              |
-| -------- | -------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].apiGroups` |
-| Type     | `list` of `string`                           |
-| Required | `✅`                                         |
-| tpl      | `❌`                                         |
-| Default  | `[]`                                         |
+|            |                                              |
+| ---------- | -------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].apiGroups` |
+| Type       | `list` of `string`                           |
+| Required   | ✅                                           |
+| Helm `tpl` | ✅ (On entries only)                         |
+| Default    | `[]`                                         |
 
 Example
 
 ```yaml
-apiGroups:
-  - ""
-  - "apps"
+webhook:
+  webhook-name:
+    webhooks:
+      - rules:
+          - apiGroups:
+              - ""
+              - "apps"
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].rules[].apiVersions`
+##### `webhooks[].rules[].apiVersions`
 
 Define the apiVersions of the rule for the webhook
 
-|          |                                                |
-| -------- | ---------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].apiVersions` |
-| Type     | `list` of `string`                             |
-| Required | `✅`                                           |
-| tpl      | `❌`                                           |
-| Default  | `[]`                                           |
+|            |                                                |
+| ---------- | ---------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].apiVersions` |
+| Type       | `list` of `string`                             |
+| Required   | ✅                                             |
+| Helm `tpl` | ✅ (On entries only)                           |
+| Default    | `[]`                                           |
 
 Example
 
 ```yaml
-apiVersions:
-  - v1
-  - v1beta1
+webhook:
+  webhook-name:
+    webhooks:
+      - rules:
+          - apiGroups:
+              - v1
+              - v1beta1
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].rules[].operations`
+##### `webhooks[].rules[].operations`
 
 Define the operations of the rule for the webhook
 
-|          |                                               |
-| -------- | --------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].operations` |
-| Type     | `list` of `string`                            |
-| Required | `✅`                                          |
-| tpl      | `❌`                                          |
-| Default  | `[]`                                          |
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].operations` |
+| Type       | `list` of `string`                            |
+| Required   | ✅                                            |
+| Helm `tpl` | ✅ (On entries only)                          |
+| Default    | `[]`                                          |
 
 Example
 
 ```yaml
-operations:
-  - CREATE
-  - UPDATE
+webhook:
+  webhook-name:
+    webhooks:
+      - rules:
+          - operations:
+              - CREATE
+              - UPDATE
 ```
 
 ---
 
-##### `webhook.$name.webhooks[].rules[].resources`
+##### `webhooks[].rules[].resources`
 
 Define the resources of the rule for the webhook
 
-|          |                                              |
-| -------- | -------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].resources` |
-| Type     | `list` of `string`                           |
-| Required | `✅`                                         |
-| tpl      | `❌`                                         |
-| Default  | `[]`                                         |
+|            |                                              |
+| ---------- | -------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].resources` |
+| Type       | `list` of `string`                           |
+| Required   | ✅                                           |
+| Helm `tpl` | ✅ (On entries only)                         |
+| Default    | `[]`                                         |
 
 Example
 
 ```yaml
-resources:
-  - pods
-  - pods/status
+webhook:
+  webhook-name:
+    webhooks:
+      - rules:
+          - resources:
+              - pods
+              - pods/status
 ```
 
 ---

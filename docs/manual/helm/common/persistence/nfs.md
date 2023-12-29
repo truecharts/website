@@ -1,19 +1,72 @@
-# nfs
+---
+title: NFS
+---
 
-| Key                              |   Type   | Required | Helm Template | Default | Description                      |
-| :------------------------------- | :------: | :------: | :-----------: | :-----: | :------------------------------- |
-| persistence.[volume-name].path   | `string` |    ✅    |      ✅       |  `""`   | Define the nfs export share path |
-| persistence.[volume-name].server | `string` |    ✅    |      ✅       |  `""`   | Define the nfs server            |
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.persistence.$name`
+
+:::tip
+
+- See available persistence keys [here](./index.md).
+- This options apply only when `type: nfs`.
+
+:::
 
 ---
 
-Notes:
+## `path`
 
-View common `keys` of `persistence` in [persistence Documentation](index.md).
+Define the nfs export share path
+
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `persistence.$name.path` |
+| Type       | `string`                 |
+| Required   | ✅                       |
+| Helm `tpl` | ✅                       |
+| Default    | `""`                     |
+
+Example
+
+```yaml
+persistence:
+  nfs-vol:
+    path: /path/of/nfs/share
+```
 
 ---
 
-Examples:
+## `server`
+
+Define the nfs server
+
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `persistence.$name.server` |
+| Type       | `string`                   |
+| Required   | ✅                         |
+| Helm `tpl` | ✅                         |
+| Default    | `""`                       |
+
+Example
+
+```yaml
+persistence:
+  nfs-vol:
+    server: nfs-server
+```
+
+---
+
+## Full Examples
 
 ```yaml
 persistence:

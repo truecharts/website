@@ -4,7 +4,7 @@ Assume every key below has a prefix of `workload.[workload-name].podSpec.contain
 
 | Key                       |   Type   | Required | Helm Template | Default | Description                                         |
 | :------------------------ | :------: | :------: | :-----------: | :-----: | :-------------------------------------------------- |
-| termination               |  `dict`  |    ❌    |      ❌       |  `{}`   | Define termination for the container                |
+| termination               |  `map`  |    ❌    |      ❌       |  `{}`   | Define termination for the container                |
 | termination.messagePath   | `string` |    ❌    |      ✅       |  `""`   | Define termination message path for the container   |
 | termination.messagePolicy | `string` |    ❌    |      ✅       |  `""`   | Define termination message policy for the container |
 

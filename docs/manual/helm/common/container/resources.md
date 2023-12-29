@@ -4,11 +4,11 @@ Assume every key below has a prefix of `workload.[workload-name].podSpec.contain
 
 | Key                       |   Type   | Required | Helm Template |                          Default                           | Description                                  |
 | :------------------------ | :------: | :------: | :-----------: | :--------------------------------------------------------: | :------------------------------------------- |
-| resources                 |  `dict`  |    ✅    |      ❌       |         `{{ .Values.containerOptions.resources }}`         | Define resources for the container           |
-| resources.requests        |  `dict`  |    ✅    |      ❌       |    `{{ .Values.containerOptions.resources.requests }}`     | Define the requests for the container        |
+| resources                 |  `map`  |    ✅    |      ❌       |         `{{ .Values.containerOptions.resources }}`         | Define resources for the container           |
+| resources.requests        |  `map`  |    ✅    |      ❌       |    `{{ .Values.containerOptions.resources.requests }}`     | Define the requests for the container        |
 | resources.requests.cpu    | `string` |    ✅    |      ❌       |  `{{ .Values.containerOptions.resources.requests.cpu }}`   | Define the requests.cpu for the container    |
 | resources.requests.memory | `string` |    ✅    |      ❌       | `{{ .Values.containerOptions.resources.requests.memory }}` | Define the requests.memory for the container |
-| resources.limits          |  `dict`  |    ❌    |      ❌       |     `{{ .Values.containerOptions.resources.limits }}`      | Define the limits for the container          |
+| resources.limits          |  `map`  |    ❌    |      ❌       |     `{{ .Values.containerOptions.resources.limits }}`      | Define the limits for the container          |
 | resources.limits.cpu      | `string` |    ❌    |      ❌       |   `{{ .Values.containerOptions.resources.limits.cpu }}`    | Define the limits.cpu for the container      |
 | resources.limits.memory   | `string` |    ❌    |      ❌       |  `{{ .Values.containerOptions.resources.limits.memory }}`  | Define the limits.memory for the container   |
 

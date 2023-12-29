@@ -1,24 +1,190 @@
-# secret
+---
+title: Secret
+---
 
-| Key                                        |   Type    | Required | Helm Template | Default | Description                                                          |
-| :----------------------------------------- | :-------: | :------: | :-----------: | :-----: | :------------------------------------------------------------------- |
-| persistence.[volume-name].objectName       | `string`  |    ✅    |      ✅       |  `""`   | Define the secret volume name                                     |
-| persistence.[volume-name].expandObjectName | `boolean` |    ❌    |      ❌       | `true`  | Whether to expand (adding the fullname as prefix) the secret name |
-| persistence.[volume-name].optional         | `boolean` |    ❌    |      ❌       | `false` | Whether the secret should be required or not                       |
-| persistence.[volume-name].defaultMode      | `string`  |    ❌    |      ✅       |  `""`   | Define the defaultMode (must be a string in format of "0777")        |
-| persistence.[volume-name].items            |  `list`   |    ❌    |      ❌       |  `[]`   | Define a list of items for secret                                 |
-| persistence.[volume-name].items.key        | `string`  |    ✅    |      ✅       |  `""`   | Define the key of the secret                                      |
-| persistence.[volume-name].items.path       | `string`  |    ✅    |      ✅       |  `""`   | Define the path                                                      |
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.persistence.$name`
+
+:::tip
+
+- See available persistence keys [here](./index.md).
+- This options apply only when `type: secret`.
+
+:::
 
 ---
 
-Notes:
+## `objectName`
 
-View common `keys` of `persistence` in [persistence Documentation](index.md).
+Define the secret name.
+
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `persistence.$name.objectName` |
+| Type       | `string`                       |
+| Required   | ✅                             |
+| Helm `tpl` | ✅                             |
+| Default    | `""`                           |
+
+Example
+
+```yaml
+persistence:
+  secret-vol:
+    objectName: secret-name
+```
 
 ---
 
-Examples:
+## `expandObjectName`
+
+Whether to expand (adding the fullname as prefix) the secret name.
+
+|            |                                      |
+| ---------- | ------------------------------------ |
+| Key        | `persistence.$name.expandObjectName` |
+| Type       | `boolean`                            |
+| Required   | ❌                                   |
+| Helm `tpl` | ❌                                   |
+| Default    | `true`                               |
+
+Example
+
+```yaml
+persistence:
+  secret-vol:
+    expandObjectName: false
+```
+
+---
+
+## `optional`
+
+Whether the secret should be required or not.
+
+|            |                              |
+| ---------- | ---------------------------- |
+| Key        | `persistence.$name.optional` |
+| Type       | `boolean`                    |
+| Required   | ❌                           |
+| Helm `tpl` | ❌                           |
+| Default    | `false`                      |
+
+Example
+
+```yaml
+persistence:
+  secret-vol:
+    optional: false
+```
+
+---
+
+## `defaultMode`
+
+Define the defaultMode (must be a string in format of "0777").
+
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.defaultMode` |
+| Type       | `string`                        |
+| Required   | ❌                              |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
+
+Example
+
+```yaml
+persistence:
+  secret-vol:
+    defaultMode: "0777"
+```
+
+---
+
+## `items`
+
+Define a list of items for secret.
+
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `persistence.$name.items` |
+| Type       | `list`                    |
+| Required   | ❌                        |
+| Helm `tpl` | ❌                        |
+| Default    | `[]`                      |
+
+Example
+
+```yaml
+persistence:
+  secret-vol:
+    items:
+      - key: key1
+        path: path1
+      - key: key2
+        path: path2
+```
+
+---
+
+### `items.key`
+
+Define the key of the secret.
+
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.items[].key` |
+| Type       | `string`                        |
+| Required   | ✅                              |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
+
+Example
+
+```yaml
+persistence:
+  secret-vol:
+    items:
+      - key: key1
+        path: path1
+```
+
+---
+
+### `items.path`
+
+Define the path.
+
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `persistence.$name.items[].path` |
+| Type       | `string`                         |
+| Required   | ✅                               |
+| Helm `tpl` | ✅                               |
+| Default    | `""`                             |
+
+Example
+
+```yaml
+persistence:
+  secret-vol:
+    items:
+      - key: key1
+        path: path1
+```
+
+---
+
+## Full Examples
 
 ```yaml
 persistence:

@@ -1,34 +1,372 @@
-# pvc
+---
+title: PVC
+---
 
-| Key                                        |     Type      | Required |   Helm Template    |                        Default                         | Description                                                                                                                      |
-| :----------------------------------------- | :-----------: | :------: | :----------------: | :----------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------- |
-| persistence.[volume-name].labels           |    `dict`     |    ❌    | ✅ (On value only) |                          `{}`                          | Additional labels for persistence                                                                                                |
-| persistence.[volume-name].annotations      |    `dict`     |    ❌    | ✅ (On value only) |                          `{}`                          | Additional annotations for persistence                                                                                           |
-| persistence.[volume-name].namespace        |   `string`    |    ❌    |         ✅         |                          `""`                          | Define the namespace for this object                                                                                             |
-| persistence.[volume-name].retain           |   `boolean`   |    ❌    |         ❌         |   `{{ .Values.global.fallbackDefaults.pvcRetain }}`    | Define wether the to add helm annotation to retain resource on uninstall (Middleware should also retain it when deleting the NS) |
-| persistence.[volume-name].accessModes      | `string/list` |    ❌    |         ✅         | `{{ .Values.global.fallbackDefaults.pvcAccessModes }}` | Define the accessModes of the PVC, if it's single can be defined as a string, multiple as a list                                 |
-| persistence.[volume-name].volumeName       |   `string`    |    ❌    |         ✅         |                                                        | Define the volumeName of a PV, backing the claim                                                                                 |
-| persistence.[volume-name].existingClaim    |   `string`    |    ❌    |         ✅         |                                                        | Define an existing claim to use                                                                                                  |
-| persistence.[volume-name].storageClass     |   `string`    |    ❌    |         ✅         |                       See bellow                       | Define the storageClass to use                                                                                                   |
-| persistence.[volume-name].size             |   `string`    |    ❌    |         ✅         |    `{{ .Values.global.fallbackDefaults.pvcSize }}`     | Define the size of the PVC                                                                                                       |
+:::note
 
-> - If storageClass is defined on the `persistence`:
->   - "-" **->** returns `""`, which means requesting a PV without class
->   - "SCALE-ZFS" **->** returns the value set on `{{ .Values.global.ixChartContext.storageClassName }}`
->   - Else **->** return the original defined `storageClass`
-> - Else if we are in an **ixChartContext**, always return `{{ .Values.global.ixChartContext.storageClassName }}`.
-> - Else if there is a storageClass defined in `{{ .Values.fallbackDefaults.storageClass }}`, return this
-> - In any other case, return _nothing_ (which means requesting a PV without class)
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.persistence.$name`
+
+:::tip
+
+- See available persistence keys [here](./index.md).
+- This options apply only when `type: pvc`.
+
+:::
+
+## `labels`
+
+Additional labels for persistence
+
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `persistence.$name.labels` |
+| Type       | `map`                     |
+| Required   | ❌                         |
+| Helm `tpl` | ✅ (On value only)         |
+| Default    | `{}`                       |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    labels:
+      label1: value1
+```
 
 ---
 
-Notes:
+## `annotations`
 
-View common `keys` of `persistence` in [persistence Documentation](index.md).
+Additional annotations for persistence
+
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.annotations` |
+| Type       | `map`                          |
+| Required   | ❌                              |
+| Helm `tpl` | ✅ (On value only)              |
+| Default    | `{}`                            |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    annotations:
+      annotation1: value1
+```
 
 ---
 
-Examples:
+## `namespace`
+
+Define the namespace for this object
+
+|            |                               |
+| ---------- | ----------------------------- |
+| Key        | `persistence.$name.namespace` |
+| Type       | `string`                      |
+| Required   | ❌                            |
+| Helm `tpl` | ✅                            |
+| Default    | `""`                          |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    namespace: some-namespace
+```
+
+---
+
+## `retain`
+
+Define wether the to add helm annotation to retain resource on uninstall.
+This does not **guarantee** that the resource will be retained.
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `persistence.$name.retain`                        |
+| Type       | `boolean`                                         |
+| Required   | ❌                                                |
+| Helm `tpl` | ❌                                                |
+| Default    | `{{ .Values.global.fallbackDefaults.pvcRetain }}` |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    retain: true
+```
+
+---
+
+## `accessModes`
+
+Define the accessModes of the PVC, if it's single can be defined as a string, multiple as a list
+
+|            |                                                        |
+| ---------- | ------------------------------------------------------ |
+| Key        | `persistence.$name.accessModes`                        |
+| Type       | `string` or `list`                                     |
+| Required   | ❌                                                     |
+| Helm `tpl` | ✅                                                     |
+| Default    | `{{ .Values.global.fallbackDefaults.pvcAccessModes }}` |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    accessModes: ReadWriteOnce
+
+persistence:
+  pvc-vol:
+    accessModes:
+      - ReadWriteOnce
+      - ReadWriteMany
+```
+
+---
+
+## `volumeName`
+
+Define the volumeName of a PV, backing the claim
+
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `persistence.$name.volumeName` |
+| Type       | `string`                       |
+| Required   | ❌                             |
+| Helm `tpl` | ✅                             |
+| Default    | `""`                           |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    volumeName: volume-name-backing-the-pvc
+```
+
+---
+
+## `existingClaim`
+
+Define an existing claim to use
+
+|            |                                   |
+| ---------- | --------------------------------- |
+| Key        | `persistence.$name.existingClaim` |
+| Type       | `string`                          |
+| Required   | ❌                                |
+| Helm `tpl` | ✅                                |
+| Default    | `""`                              |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    existingClaim: existing-claim-name
+```
+
+---
+
+## `size`
+
+Define the size of the PVC
+
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `persistence.$name.size` |
+| Type       | `string`                 |
+| Required   | ❌                       |
+| Helm `tpl` | ✅                       |
+| Default    | `""`                     |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    size: 2Gi
+```
+
+---
+
+## `storageClass`
+
+Define the storageClass to use
+
+:::note How storageClass is resolved
+
+- If storageClass is defined on the `persistence`
+  - `-` **->** `""`, (which means requesting a PV without class)
+  - `SCALE-ZFS` **->** `{{ .Values.global.ixChartContext.storageClassName }}`
+  - Else **->** as is
+- Else if **ixChartContext (TrueNAS SCALE)**, **->** `{{ .Values.global.ixChartContext.storageClassName }}`.
+- Else if `{{ .Values.fallbackDefaults.storageClass }}`, **->** this
+- Else **->** _nothing_ (which means requesting a PV without class)
+
+:::
+
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `persistence.$name.storageClass` |
+| Type       | `string`                         |
+| Required   | ❌                               |
+| Helm `tpl` | ✅                               |
+| Default    | `""`                             |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    storageClass: storage-class-name
+```
+
+## `volumeSnapshots`
+
+Define volumeSnapshots for the pvc
+
+|            |                                     |
+| ---------- | ----------------------------------- |
+| Key        | `persistence.$name.volumeSnapshots` |
+| Type       | `list` of `map`                     |
+| Required   | ❌                                  |
+| Helm `tpl` | ❌                                  |
+| Default    | `[]`                                |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    volumeSnapshots: []
+```
+
+### `volumeSnapshots[].name`
+
+Define the name of the volumeSnapshot
+
+|            |                                            |
+| ---------- | ------------------------------------------ |
+| Key        | `persistence.$name.volumeSnapshots[].name` |
+| Type       | `string`                                   |
+| Required   | ❌                                         |
+| Helm `tpl` | ❌                                         |
+| Default    | `""`                                       |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    volumeSnapshots:
+      - name: example1
+```
+
+### `volumeSnapshots[].enabled`
+
+Define if the volumeSnapshot is enabled
+
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `persistence.$name.volumeSnapshots[].enabled` |
+| Type       | `boolean`                                     |
+| Required   | ❌                                            |
+| Helm `tpl` | ❌                                            |
+| Default    | `false`                                       |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    volumeSnapshots:
+      - enabled: true
+```
+
+### `volumeSnapshots[].labels`
+
+Define the labels of the volumeSnapshot
+
+|            |                                              |
+| ---------- | -------------------------------------------- |
+| Key        | `persistence.$name.volumeSnapshots[].labels` |
+| Type       | `map`                                       |
+| Required   | ❌                                           |
+| Helm `tpl` | ✅ (On value only)                           |
+| Default    | `{}`                                         |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    volumeSnapshots:
+      - labels:
+          label1: value1
+```
+
+### `volumeSnapshots[].annotations`
+
+Define the annotations of the volumeSnapshot
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `persistence.$name.volumeSnapshots[].annotations` |
+| Type       | `map`                                            |
+| Required   | ❌                                                |
+| Helm `tpl` | ✅ (On value only)                                |
+| Default    | `{}`                                              |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    volumeSnapshots:
+      - annotations:
+          annotation1: value1
+```
+
+### `volumeSnapshots[].volumeSnapshotClassName`
+
+Define the volumeSnapshotClassName of the volumeSnapshot
+
+|            |                                                               |
+| ---------- | ------------------------------------------------------------- |
+| Key        | `persistence.$name.volumeSnapshots[].volumeSnapshotClassName` |
+| Type       | `string`                                                      |
+| Required   | ❌                                                            |
+| Helm `tpl` | ❌                                                            |
+| Default    | `""`                                                          |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    volumeSnapshots:
+      - volumeSnapshotClassName: some-name
+```
+
+---
+
+## Full Examples
 
 ```yaml
 persistence:
@@ -45,6 +383,14 @@ persistence:
     existingClaim: existing-claim-name
     retain: true
     size: 2Gi
+    volumeSnapshots:
+      - name: example1
+        enabled: true
+        labels:
+          label1: value1
+        annotations:
+          annotation1: value1
+        volumeSnapshotClassName: some-name
     # targetSelectAll: true
     targetSelector:
       pod-name:

@@ -2,19 +2,26 @@
 title: Secret
 ---
 
-:::tip
+:::note
 
-Replace references to `$name` with the actual name you want to use.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
+
+## Appears in
+
+- `.Values.secret`
 
 ## Naming scheme
 
 - `$FullName-$SecretName` (release-name-chart-name-secret-name)
 
-Appears in:
+:::tip
 
-- `.Values.secret`
+- Replace references to `$name` with the actual name you want to use.
+
+:::
 
 ---
 
@@ -22,149 +29,172 @@ Appears in:
 
 Create Secret objects
 
-|          |          |
-| -------- | -------- |
-| Key      | `secret` |
-| Type     | `map`    |
-| Required | `❌`     |
-| tpl      | `❌`     |
-| Default  | `{}`     |
+|            |          |
+| ---------- | -------- |
+| Key        | `secret` |
+| Type       | `map`    |
+| Required   | ❌       |
+| Helm `tpl` | ❌       |
+| Default    | `{}`     |
+
+Example
+
+```yaml
+secret: {}
+```
 
 ---
 
-### `secret.$name`
+### `$name`
 
 Define Secret
 
-|          |                |
-| -------- | -------------- |
-| Key      | `secret.$name` |
-| Type     | `map`          |
-| Required | `✅`           |
-| tpl      | `❌`           |
-| Default  | `{}`           |
+|            |                |
+| ---------- | -------------- |
+| Key        | `secret.$name` |
+| Type       | `map`          |
+| Required   | ✅             |
+| Helm `tpl` | ❌             |
+| Default    | `{}`           |
+
+Example
+
+```yaml
+secret:
+  secret-name: {}
+```
 
 ---
 
-#### `secret.$name.enabled`
+#### `enabled`
 
 Enables or Disables the Secret
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `secret.$name.enabled` |
-| Type     | `bool`                 |
-| Required | `✅`                   |
-| tpl      | `❌`                   |
-| Default  | `false`                |
+|            |                        |
+| ---------- | ---------------------- |
+| Key        | `secret.$name.enabled` |
+| Type       | `bool`                 |
+| Required   | ✅                     |
+| Helm `tpl` | ❌                     |
+| Default    | `false`                |
 
 Example
 
 ```yaml
-enabled: true
+secret:
+  secret-name:
+    enabled: true
 ```
 
 ---
 
-#### `secret.$name.namespace`
+#### `namespace`
 
 Define the namespace for this object
 
-|          |                          |
-| -------- | ------------------------ |
-| Key      | `secret.$name.namespace` |
-| Type     | `string`                 |
-| Required | `❌`                     |
-| tpl      | `✅`                     |
-| Default  | `""`                     |
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `secret.$name.namespace` |
+| Type       | `string`                 |
+| Required   | ❌                       |
+| Helm `tpl` | ✅                       |
+| Default    | `""`                     |
 
 Example
 
 ```yaml
-namespace: some-namespace
+secret:
+  secret-name:
+    namespace: some-namespace
 ```
 
 ---
 
-#### `secret.$name.labels`
+#### `labels`
 
 Additional labels for secret
 
-|          |                       |
-| -------- | --------------------- |
-| Key      | `secret.$name.labels` |
-| Type     | `map`                 |
-| Required | `❌`                  |
-| tpl      | `✅ (On value only)`  |
-| Default  | `{}`                  |
+|            |                       |
+| ---------- | --------------------- |
+| Key        | `secret.$name.labels` |
+| Type       | `map`                 |
+| Required   | ❌                    |
+| Helm `tpl` | ✅ (On value only)`   |
+| Default    | `{}`                  |
 
 Example
 
 ```yaml
-labels:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+secret:
+  secret-name:
+    labels:
+      key: value
 ```
 
 ---
 
-#### `secret.$name.annotations`
+#### `annotations`
 
 Additional annotations for secret
 
-|          |                            |
-| -------- | -------------------------- |
-| Key      | `secret.$name.annotations` |
-| Type     | `map`                      |
-| Required | `❌`                       |
-| tpl      | `✅ (On value only)`       |
-| Default  | `{}`                       |
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `secret.$name.annotations` |
+| Type       | `map`                      |
+| Required   | ❌                         |
+| Helm `tpl` | ✅ (On value only)`        |
+| Default    | `{}`                       |
 
 Example
 
 ```yaml
-annotations:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+secret:
+  secret-name:
+    annotations:
+      key: value
 ```
 
 ---
 
-#### `secret.$name.type`
+#### `type`
 
 Define the type of the secret
 
-|          |                     |
-| -------- | ------------------- |
-| Key      | `secret.$name.type` |
-| Type     | `string`            |
-| Required | `❌`                |
-| tpl      | `✅`                |
-| Default  | `Opaque`            |
+|            |                     |
+| ---------- | ------------------- |
+| Key        | `secret.$name.type` |
+| Type       | `string`            |
+| Required   | ❌                  |
+| Helm `tpl` | ✅                  |
+| Default    | `Opaque`            |
 
 Example
 
 ```yaml
-type: some-custom-type
+secret:
+  secret-name:
+    type: some-custom-type
 ```
 
 ---
 
-#### `secret.$name.data`
+#### `data`
 
 Define the data of the secret
 
-|          |                     |
-| -------- | ------------------- |
-| Key      | `secret.$name.data` |
-| Type     | `map`               |
-| Required | `✅`                |
-| tpl      | `✅`                |
-| Example  |                     |
+|            |                     |
+| ---------- | ------------------- |
+| Key        | `secret.$name.data` |
+| Type       | `map`               |
+| Required   | ✅                  |
+| Helm `tpl` | ✅                  |
+| Example    | `{}`                |
 
 ```yaml
-data:
-  key: value
+secret:
+  secret-name:
+    data:
+      key: value
 ```
 
 ---
@@ -186,8 +216,8 @@ secret:
       key: value
 
   other-secret-name:
-    namespace: some-namespace
     enabled: true
+    namespace: some-namespace
     data:
       key: |
         multi line

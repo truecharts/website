@@ -4,7 +4,7 @@ Assume every key below has a prefix of `workload.[workload-name].podSpec.contain
 
 | Key                  |   Type   | Required | Helm Template |                   Default                    | Description                                                                   |
 | :------------------- | :------: | :------: | :-----------: | :------------------------------------------: | :---------------------------------------------------------------------------- |
-| fixedEnv             |  `dict`  |    ❌    |      ❌       |                     `{}`                     | Override fixed Envs for the container                                         |
+| fixedEnv             |  `map`  |    ❌    |      ❌       |                     `{}`                     | Override fixed Envs for the container                                         |
 | fixedEnv.TZ          | `string` |    ❌    |      ❌       |              `{{ .Values.TZ }}`              | Override default TZ for the container                                         |
 | fixedEnv.UMASK       | `string` |    ❌    |      ❌       |    `{{ .Values.securityContext.container.UMASK }}`    | Override the default UMASK for the container (Applies to UMASK and UMASK_SET) |
 | fixedEnv.PUID        | `string` |    ❌    |      ❌       |    `{{ .Values.securityContext.container.PUID }}`     | Override the default PUID for the container (Applies to PUID. USER_ID, UID)   |

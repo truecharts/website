@@ -6,7 +6,7 @@
 | scaleExternalInterface.targetSelectAll                 | `boolean` |               ❌                |      ❌       | `false` | Whether to add the annotation for this external interface to all workloads      |
 | scaleExternalInterface.targetSelector                  |  `list`   |               ❌                |      ❌       |  `[]`   | Which workloads to add the annotations                                          |
 | scaleExternalInterface.hostInterface                   | `string`  |               ✅                |      ❌       |  `""`   | Define the hostInterface, (options in GUI populated from Middleware references) |
-| scaleExternalInterface.ipam                            |  `dict`   |               ✅                |      ❌       |  `{}`   | Define the ipam                                                                 |
+| scaleExternalInterface.ipam                            |  `map`   |               ✅                |      ❌       |  `{}`   | Define the ipam                                                                 |
 | scaleExternalInterface.ipam.type                       | `string`  |               ✅                |      ❌       |  `""`   | Define the ipam type (dchp, static)                                             |
 | scaleExternalInterface.ipam.staticIPConfiguration      |  `list`   | ✅ (Only when static ipam type) |      ❌       |  `[]`   | Define static IP Configuration (Only with static ipam type)                     |
 | scaleExternalInterface.ipam.staticIPConfiguration.[IP] | `string`  |               ✅                |      ❌       |  `""`   | Define the static IP (Only with static ipam type)                               |
