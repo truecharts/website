@@ -30,8 +30,8 @@ Define the sizeLimit of the emptyDir
 | ---------- | ------------------------ |
 | Key        | `persistence.$name.size` |
 | Type       | `string`                 |
-| Required   | `❌`                     |
-| Helm `tpl` | `✅`                     |
+| Required   | ❌                       |
+| Helm `tpl` | ✅                       |
 | Default    | `""`                     |
 
 Example
@@ -52,8 +52,8 @@ Define the medium of emptyDir (Memory, "")
 | ---------- | -------------------------- |
 | Key        | `persistence.$name.medium` |
 | Type       | `string`                   |
-| Required   | `❌`                       |
-| Helm `tpl` | `✅`                       |
+| Required   | ❌                         |
+| Helm `tpl` | ✅                         |
 | Default    | `""`                       |
 
 Valid Values

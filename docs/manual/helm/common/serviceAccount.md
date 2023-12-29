@@ -42,8 +42,8 @@ Create serviceAccount objects
 | ---------- | ---------------- |
 | Key        | `serviceAccount` |
 | Type       | `map`            |
-| Required   | `❌`             |
-| Helm `tpl` | `❌`             |
+| Required   | ❌               |
+| Helm `tpl` | ❌               |
 | Default    | `{}`             |
 
 Example
@@ -62,8 +62,8 @@ Define serviceAccount
 | ---------- | ---------------------- |
 | Key        | `serviceAccount.$name` |
 | Type       | `map`                  |
-| Required   | `✅`                   |
-| Helm `tpl` | `❌`                   |
+| Required   | ✅                     |
+| Helm `tpl` | ❌                     |
 | Default    | `{}`                   |
 
 Example
@@ -83,8 +83,8 @@ Enables or Disables the serviceAccount
 | ---------- | ------------------------------ |
 | Key        | `serviceAccount.$name.enabled` |
 | Type       | `bool`                         |
-| Required   | `✅`                           |
-| Helm `tpl` | `❌`                           |
+| Required   | ✅                             |
+| Helm `tpl` | ❌                             |
 | Default    | `false`                        |
 
 Example
@@ -105,8 +105,8 @@ Sets the serviceAccount as primary
 | ---------- | ------------------------------ |
 | Key        | `serviceAccount.$name.primary` |
 | Type       | `bool`                         |
-| Required   | `❌`                           |
-| Helm `tpl` | `❌`                           |
+| Required   | ❌                             |
+| Helm `tpl` | ❌                             |
 | Default    | `false`                        |
 
 Example
@@ -127,8 +127,8 @@ Define the namespace for this object
 | ---------- | -------------------------------- |
 | Key        | `serviceAccount.$name.namespace` |
 | Type       | `string`                         |
-| Required   | `❌`                             |
-| Helm `tpl` | `✅`                             |
+| Required   | ❌                               |
+| Helm `tpl` | ✅                               |
 | Default    | `""`                             |
 
 Example
@@ -149,8 +149,8 @@ Additional labels for service account
 | ---------- | ----------------------------- |
 | Key        | `serviceAccount.$name.labels` |
 | Type       | `map`                         |
-| Required   | `❌`                          |
-| Helm `tpl` | `✅ (On value only)`          |
+| Required   | ❌                            |
+| Helm `tpl` | ✅ (On value only)`           |
 | Default    | `{}`                          |
 
 Example
@@ -172,8 +172,8 @@ Additional annotations for service account
 | ---------- | ---------------------------------- |
 | Key        | `serviceAccount.$name.annotations` |
 | Type       | `map`                              |
-| Required   | `❌`                               |
-| Helm `tpl` | `✅ (On value only)`               |
+| Required   | ❌                                 |
+| Helm `tpl` | ✅ (On value only)`                |
 | Default    | `{}`                               |
 
 Example
@@ -195,8 +195,8 @@ Whether to assign the serviceAccount to all pods or not
 | ---------- | -------------------------------------- |
 | Key        | `serviceAccount.$name.targetSelectAll` |
 | Type       | `bool`                                 |
-| Required   | `❌`                                   |
-| Helm `tpl` | `❌`                                   |
+| Required   | ❌                                     |
+| Helm `tpl` | ❌                                     |
 | Default    | unset                                  |
 
 Example
@@ -217,8 +217,8 @@ Define the pod(s) to assign the serviceAccount
 | ---------- | ------------------------------------- |
 | Key        | `serviceAccount.$name.targetSelector` |
 | Type       | `list` of `string`                    |
-| Required   | `❌`                                  |
-| Helm `tpl` | `❌`                                  |
+| Required   | ❌                                    |
+| Helm `tpl` | ❌                                    |
 | Default    | `[]`                                  |
 
 Example

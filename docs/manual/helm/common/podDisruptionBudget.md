@@ -39,8 +39,8 @@ Create Pod Disruption Budget objects
 | ---------- | --------------------- |
 | Key        | `podDisruptionBudget` |
 | Type       | `map`                 |
-| Required   | `❌`                  |
-| Helm `tpl` | `❌`                  |
+| Required   | ❌                    |
+| Helm `tpl` | ❌                    |
 | Default    | `{}`                  |
 
 Example
@@ -59,8 +59,8 @@ Define Pod Disruption Budget
 | ---------- | --------------------------- |
 | Key        | `podDisruptionBudget.$name` |
 | Type       | `map`                       |
-| Required   | `✅`                        |
-| Helm `tpl` | `❌`                        |
+| Required   | ✅                          |
+| Helm `tpl` | ❌                          |
 | Default    | `{}`                        |
 
 Example
@@ -80,8 +80,8 @@ Enables or Disables the Pod Disruption Budget
 | ---------- | ----------------------------------- |
 | Key        | `podDisruptionBudget.$name.enabled` |
 | Type       | `bool`                              |
-| Required   | `✅`                                |
-| Helm `tpl` | `❌`                                |
+| Required   | ✅                                  |
+| Helm `tpl` | ❌                                  |
 | Default    | `false`                             |
 
 Example
@@ -102,8 +102,8 @@ Define the namespace for this object
 | ---------- | ------------------------------------- |
 | Key        | `podDisruptionBudget.$name.namespace` |
 | Type       | `string`                              |
-| Required   | `❌`                                  |
-| Helm `tpl` | `✅`                                  |
+| Required   | ❌                                    |
+| Helm `tpl` | ✅                                    |
 | Default    | `""`                                  |
 
 Example
@@ -124,8 +124,8 @@ Additional labels for Pod Disruption Budget
 | ---------- | ---------------------------------- |
 | Key        | `podDisruptionBudget.$name.labels` |
 | Type       | `map`                              |
-| Required   | `❌`                               |
-| Helm `tpl` | `✅ (On value only)`               |
+| Required   | ❌                                 |
+| Helm `tpl` | ✅ (On value only)`                |
 | Default    | `{}`                               |
 
 Example
@@ -147,8 +147,8 @@ Additional annotations for Pod Disruption Budget
 | ---------- | --------------------------------------- |
 | Key        | `podDisruptionBudget.$name.annotations` |
 | Type       | `map`                                   |
-| Required   | `❌`                                    |
-| Helm `tpl` | `✅ (On value only)`                    |
+| Required   | ❌                                      |
+| Helm `tpl` | ✅ (On value only)`                     |
 | Default    | `{}`                                    |
 
 Example
@@ -170,8 +170,8 @@ Define the minAvailable.
 | ---------- | ---------------------------------------- |
 | Key        | `podDisruptionBudget.$name.minAvailable` |
 | Type       | `int` or `string`                        |
-| Required   | `❌`                                     |
-| Helm `tpl` | `✅`                                     |
+| Required   | ❌                                       |
+| Helm `tpl` | ✅                                       |
 | Default    | `""`                                     |
 
 Example
@@ -192,8 +192,8 @@ Define the maxUnavailable.
 | ---------- | ------------------------------------------ |
 | Key        | `podDisruptionBudget.$name.maxUnavailable` |
 | Type       | `int` or `string`                          |
-| Required   | `❌`                                       |
-| Helm `tpl` | `✅`                                       |
+| Required   | ❌                                         |
+| Helm `tpl` | ✅                                         |
 | Default    | `""`                                       |
 
 Example
@@ -214,8 +214,8 @@ Define the unhealthyPodEvictionPolicy
 | ---------- | ------------------------------------------------------ |
 | Key        | `podDisruptionBudget.$name.unhealthyPodEvictionPolicy` |
 | Type       | `string`                                               |
-| Required   | `❌`                                                   |
-| Helm `tpl` | `✅`                                                   |
+| Required   | ❌                                                     |
+| Helm `tpl` | ✅                                                     |
 | Default    | `""`                                                   |
 
 Valid Values:

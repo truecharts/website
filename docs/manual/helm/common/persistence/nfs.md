@@ -26,13 +26,13 @@ title: NFS
 
 Define the nfs export share path
 
-|            |                              |
-| ---------- | ---------------------------- |
-| Key        | `persistence.$name.path`     |
-| Type       | `string`                     |
-| Required   | `✅`                         |
-| Helm `tpl` | `✅`                         |
-| Default    | `""`                         |
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `persistence.$name.path` |
+| Type       | `string`                 |
+| Required   | ✅                       |
+| Helm `tpl` | ✅                       |
+| Default    | `""`                     |
 
 Example
 
@@ -48,13 +48,13 @@ persistence:
 
 Define the nfs server
 
-|            |                              |
-| ---------- | ---------------------------- |
-| Key        | `persistence.$name.server`   |
-| Type       | `string`                     |
-| Required   | `✅`                         |
-| Helm `tpl` | `✅`                         |
-| Default    | `""`                         |
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `persistence.$name.server` |
+| Type       | `string`                   |
+| Required   | ✅                         |
+| Helm `tpl` | ✅                         |
+| Default    | `""`                       |
 
 Example
 

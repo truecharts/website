@@ -41,8 +41,8 @@ Define image pull secrets
 | ---------- | ----------------- |
 | Key        | `imagePullSecret` |
 | Type       | `map`             |
-| Required   | `❌`              |
-| Helm `tpl` | `❌`              |
+| Required   | ❌                |
+| Helm `tpl` | ❌                |
 | Default    | `{}`              |
 
 Example
@@ -61,8 +61,8 @@ Define image pull secret
 | ---------- | ----------------------- |
 | Key        | `imagePullSecret.$name` |
 | Type       | `map`                   |
-| Required   | `✅`                    |
-| Helm `tpl` | `❌`                    |
+| Required   | ✅                      |
+| Helm `tpl` | ❌                      |
 | Default    | `{}`                    |
 
 Example
@@ -82,8 +82,8 @@ Enables or Disables the image pull secret
 | ---------- | ------------------------------- |
 | Key        | `imagePullSecret.$name.enabled` |
 | Type       | `bool`                          |
-| Required   | `✅`                            |
-| Helm `tpl` | `❌`                            |
+| Required   | ✅                              |
+| Helm `tpl` | ❌                              |
 | Default    | `false`                         |
 
 Example
@@ -104,8 +104,8 @@ Define the namespace for this object
 | ---------- | --------------------------------- |
 | Key        | `imagePullSecret.$name.namespace` |
 | Type       | `string`                          |
-| Required   | `❌`                              |
-| Helm `tpl` | `✅ (On value only)`              |
+| Required   | ❌                                |
+| Helm `tpl` | ✅ (On value only)`               |
 | Default    | `""`                              |
 
 Example
@@ -126,8 +126,8 @@ Additional labels for image pull secret
 | ---------- | ------------------------------ |
 | Key        | `imagePullSecret.$name.labels` |
 | Type       | `map`                          |
-| Required   | `❌`                           |
-| Helm `tpl` | `✅ (On value only)`           |
+| Required   | ❌                             |
+| Helm `tpl` | ✅ (On value only)`            |
 | Default    | `{}`                           |
 
 Example
@@ -149,8 +149,8 @@ Additional annotations for image pull secret
 | ---------- | ----------------------------------- |
 | Key        | `imagePullSecret.$name.annotations` |
 | Type       | `map`                               |
-| Required   | `❌`                                |
-| Helm `tpl` | `✅ (On value only)`                |
+| Required   | ❌                                  |
+| Helm `tpl` | ✅ (On value only)`                 |
 | Default    | `{}`                                |
 
 Example
@@ -172,8 +172,8 @@ Whether to assign the secret to all pods or not
 | ---------- | --------------------------------------- |
 | Key        | `imagePullSecret.$name.targetSelectAll` |
 | Type       | `bool`                                  |
-| Required   | `❌`                                    |
-| Helm `tpl` | `❌`                                    |
+| Required   | ❌                                      |
+| Helm `tpl` | ❌                                      |
 | Default    | unset                                   |
 
 Example
@@ -194,8 +194,8 @@ Define the pod(s) to assign the secret
 | ---------- | -------------------------------------- |
 | Key        | `imagePullSecret.$name.targetSelector` |
 | Type       | `list` of `string`                     |
-| Required   | `❌`                                   |
-| Helm `tpl` | `❌`                                   |
+| Required   | ❌                                     |
+| Helm `tpl` | ❌                                     |
 | Default    | `[]`                                   |
 
 Example
@@ -218,8 +218,8 @@ Define the data of the image pull secret
 | ---------- | ---------------------------- |
 | Key        | `imagePullSecret.$name.data` |
 | Type       | `map`                        |
-| Required   | `✅`                         |
-| Helm `tpl` | `❌`                         |
+| Required   | ✅                           |
+| Helm `tpl` | ❌                           |
 | Default    | `{}`                         |
 
 Example
@@ -240,8 +240,8 @@ Define the registry of the image pull secret
 | ---------- | ------------------------------------- |
 | Key        | `imagePullSecret.$name.data.registry` |
 | Type       | `string`                              |
-| Required   | `✅`                                  |
-| Helm `tpl` | `✅`                                  |
+| Required   | ✅                                    |
+| Helm `tpl` | ✅                                    |
 | Default    | `""`                                  |
 
 Example
@@ -263,8 +263,8 @@ Define the username of the image pull secret
 | ---------- | ------------------------------------- |
 | Key        | `imagePullSecret.$name.data.username` |
 | Type       | `string`                              |
-| Required   | `✅`                                  |
-| Helm `tpl` | `✅`                                  |
+| Required   | ✅                                    |
+| Helm `tpl` | ✅                                    |
 | Default    | `""`                                  |
 
 Example
@@ -286,8 +286,8 @@ Define the password of the image pull secret
 | ---------- | ------------------------------------- |
 | Key        | `imagePullSecret.$name.data.password` |
 | Type       | `string`                              |
-| Required   | `✅`                                  |
-| Helm `tpl` | `✅`                                  |
+| Required   | ✅                                    |
+| Helm `tpl` | ✅                                    |
 | Default    | `""`                                  |
 
 Example
@@ -309,8 +309,8 @@ Define the email of the image pull secret
 | ---------- | ---------------------------------- |
 | Key        | `imagePullSecret.$name.data.email` |
 | Type       | `string`                           |
-| Required   | `✅`                               |
-| Helm `tpl` | `✅`                               |
+| Required   | ✅                                 |
+| Helm `tpl` | ✅                                 |
 | Default    | `""`                               |
 
 Example

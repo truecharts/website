@@ -33,8 +33,8 @@ Create Secret objects
 | ---------- | -------- |
 | Key        | `secret` |
 | Type       | `map`    |
-| Required   | `❌`     |
-| Helm `tpl` | `❌`     |
+| Required   | ❌       |
+| Helm `tpl` | ❌       |
 | Default    | `{}`     |
 
 Example
@@ -53,8 +53,8 @@ Define Secret
 | ---------- | -------------- |
 | Key        | `secret.$name` |
 | Type       | `map`          |
-| Required   | `✅`           |
-| Helm `tpl` | `❌`           |
+| Required   | ✅             |
+| Helm `tpl` | ❌             |
 | Default    | `{}`           |
 
 Example
@@ -74,8 +74,8 @@ Enables or Disables the Secret
 | ---------- | ---------------------- |
 | Key        | `secret.$name.enabled` |
 | Type       | `bool`                 |
-| Required   | `✅`                   |
-| Helm `tpl` | `❌`                   |
+| Required   | ✅                     |
+| Helm `tpl` | ❌                     |
 | Default    | `false`                |
 
 Example
@@ -96,8 +96,8 @@ Define the namespace for this object
 | ---------- | ------------------------ |
 | Key        | `secret.$name.namespace` |
 | Type       | `string`                 |
-| Required   | `❌`                     |
-| Helm `tpl` | `✅`                     |
+| Required   | ❌                       |
+| Helm `tpl` | ✅                       |
 | Default    | `""`                     |
 
 Example
@@ -118,8 +118,8 @@ Additional labels for secret
 | ---------- | --------------------- |
 | Key        | `secret.$name.labels` |
 | Type       | `map`                 |
-| Required   | `❌`                  |
-| Helm `tpl` | `✅ (On value only)`  |
+| Required   | ❌                    |
+| Helm `tpl` | ✅ (On value only)`   |
 | Default    | `{}`                  |
 
 Example
@@ -141,8 +141,8 @@ Additional annotations for secret
 | ---------- | -------------------------- |
 | Key        | `secret.$name.annotations` |
 | Type       | `map`                      |
-| Required   | `❌`                       |
-| Helm `tpl` | `✅ (On value only)`       |
+| Required   | ❌                         |
+| Helm `tpl` | ✅ (On value only)`        |
 | Default    | `{}`                       |
 
 Example
@@ -164,8 +164,8 @@ Define the type of the secret
 | ---------- | ------------------- |
 | Key        | `secret.$name.type` |
 | Type       | `string`            |
-| Required   | `❌`                |
-| Helm `tpl` | `✅`                |
+| Required   | ❌                  |
+| Helm `tpl` | ✅                  |
 | Default    | `Opaque`            |
 
 Example
@@ -186,8 +186,8 @@ Define the data of the secret
 | ---------- | ------------------- |
 | Key        | `secret.$name.data` |
 | Type       | `map`               |
-| Required   | `✅`                |
-| Helm `tpl` | `✅`                |
+| Required   | ✅                  |
+| Helm `tpl` | ✅                  |
 | Example    | `{}`                |
 
 ```yaml

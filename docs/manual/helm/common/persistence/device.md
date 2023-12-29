@@ -38,8 +38,8 @@ Define the hostPath
 | ---------- | ---------------------------- |
 | Key        | `persistence.$name.hostPath` |
 | Type       | `string`                     |
-| Required   | `✅`                         |
-| Helm `tpl` | `✅`                         |
+| Required   | ✅                           |
+| Helm `tpl` | ✅                           |
 | Default    | `""`                         |
 
 Example
@@ -60,8 +60,8 @@ Define the hostPathType
 | ---------- | -------------------------------- |
 | Key        | `persistence.$name.hostPathType` |
 | Type       | `string`                         |
-| Required   | `❌`                             |
-| Helm `tpl` | `✅`                             |
+| Required   | ❌                               |
+| Helm `tpl` | ✅                               |
 | Default    | `""`                             |
 
 Example

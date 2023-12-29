@@ -30,8 +30,8 @@ Configure External IP type
 | ---------- | -------------------------- |
 | Key        | `service.$name.externalIP` |
 | Type       | `string`                   |
-| Required   | `✅`                       |
-| Helm `tpl` | `✅`                       |
+| Required   | ✅                         |
+| Helm `tpl` | ✅                         |
 | Default    | `""`                       |
 
 Example
@@ -52,8 +52,8 @@ Define whether to use `EndpointSlice` or `Endpoint`
 | ---------- | ------------------------ |
 | Key        | `service.$name.useSlice` |
 | Type       | `bool`                   |
-| Required   | `❌`                     |
-| Helm `tpl` | `❌`                     |
+| Required   | ❌                       |
+| Helm `tpl` | ❌                       |
 | Default    | `true`                   |
 
 Example
@@ -74,8 +74,8 @@ Define the addressType for External IP
 | ---------- | --------------------------- |
 | Key        | `service.$name.addressType` |
 | Type       | `string`                    |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅`                        |
+| Required   | ❌                          |
+| Helm `tpl` | ✅                          |
 | Default    | `IPv4`                      |
 
 Valid Values:
@@ -102,8 +102,8 @@ Define the appProtocol for External IP
 | ---------- | --------------------------- |
 | Key        | `service.$name.appProtocol` |
 | Type       | `string`                    |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅`                        |
+| Required   | ❌                          |
+| Helm `tpl` | ✅                          |
 | Default    | `""`                        |
 
 Example
@@ -124,8 +124,8 @@ Define the session affinity (ClientIP, None)
 | ---------- | ------------------------------- |
 | Key        | `service.$name.sessionAffinity` |
 | Type       | `string`                        |
-| Required   | `❌`                            |
-| Helm `tpl` | `✅`                            |
+| Required   | ❌                              |
+| Helm `tpl` | ✅                              |
 | Default    | `""`                            |
 
 Valid Values:
@@ -151,8 +151,8 @@ Define the timeout for ClientIP session affinity (0-86400)
 | ---------- | ------------------------------------------------------------- |
 | Key        | `service.$name.sessionAffinityConfig.clientIP.timeoutSeconds` |
 | Type       | `int`                                                         |
-| Required   | `❌`                                                          |
-| Helm `tpl` | `✅`                                                          |
+| Required   | ❌                                                            |
+| Helm `tpl` | ✅                                                            |
 | Default    | `""`                                                          |
 
 Valid Values:
@@ -179,8 +179,8 @@ Define externalIPs
 | ---------- | --------------------------- |
 | Key        | `service.$name.externalIPs` |
 | Type       | `list` of `string`          |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅` (On entries only)      |
+| Required   | ❌                          |
+| Helm `tpl` | ✅ (On entries only)        |
 | Default    | `[]`                        |
 
 Example
@@ -203,8 +203,8 @@ Define the external traffic policy (Cluster, Local)
 | ---------- | ------------------------------------- |
 | Key        | `service.$name.externalTrafficPolicy` |
 | Type       | `string`                              |
-| Required   | `❌`                                  |
-| Helm `tpl` | `✅`                                  |
+| Required   | ❌                                    |
+| Helm `tpl` | ✅                                    |
 | Default    | `""`                                  |
 
 Valid Values:

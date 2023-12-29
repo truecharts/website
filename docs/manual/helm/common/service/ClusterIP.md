@@ -30,8 +30,8 @@ Configure Cluster IP type
 | ---------- | ------------------------- |
 | Key        | `service.$name.clusterIP` |
 | Type       | `string`                  |
-| Required   | `❌`                      |
-| Helm `tpl` | `✅`                      |
+| Required   | ❌                        |
+| Helm `tpl` | ✅                        |
 | Default    | `""`                      |
 
 Example
@@ -52,8 +52,8 @@ Define the ipFamilyPolicy
 | ---------- | ------------------------------ |
 | Key        | `service.$name.ipFamilyPolicy` |
 | Type       | `string`                       |
-| Required   | `❌`                           |
-| Helm `tpl` | `✅`                           |
+| Required   | ❌                             |
+| Helm `tpl` | ✅                             |
 | Default    | `""`                           |
 
 Valid Values:
@@ -80,8 +80,8 @@ Define the ipFamilies
 | ---------- | -------------------------- |
 | Key        | `service.$name.ipFamilies` |
 | Type       | `list` of `string`         |
-| Required   | `❌`                       |
-| Helm `tpl` | `✅` (On entries only)     |
+| Required   | ❌                         |
+| Helm `tpl` | ✅ (On entries only)       |
 | Default    | `[]`                       |
 
 Example
@@ -103,8 +103,8 @@ Define the session affinity (ClientIP, None)
 | ---------- | ------------------------------- |
 | Key        | `service.$name.sessionAffinity` |
 | Type       | `string`                        |
-| Required   | `❌`                            |
-| Helm `tpl` | `✅`                            |
+| Required   | ❌                              |
+| Helm `tpl` | ✅                              |
 | Default    | `""`                            |
 
 Valid Values:
@@ -130,8 +130,8 @@ Define the timeout for ClientIP session affinity (0-86400)
 | ---------- | ------------------------------------------------------------- |
 | Key        | `service.$name.sessionAffinityConfig.clientIP.timeoutSeconds` |
 | Type       | `int`                                                         |
-| Required   | `❌`                                                          |
-| Helm `tpl` | `✅`                                                          |
+| Required   | ❌                                                            |
+| Helm `tpl` | ✅                                                            |
 | Default    | `""`                                                          |
 
 Valid Values:
@@ -158,8 +158,8 @@ Define externalIPs
 | ---------- | --------------------------- |
 | Key        | `service.$name.externalIPs` |
 | Type       | `list` of `string`          |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅` (On entries only)      |
+| Required   | ❌                          |
+| Helm `tpl` | ✅ (On entries only)        |
 | Default    | `[]`                        |
 
 Example

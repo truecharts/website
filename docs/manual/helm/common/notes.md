@@ -23,8 +23,8 @@ Define values for `NOTES.txt`
 | ---------- | ------- |
 | Key        | `notes` |
 | Type       | `map`   |
-| Required   | `❌`    |
-| Helm `tpl` | `❌`    |
+| Required   | ❌      |
+| Helm `tpl` | ❌      |
 | Default    | `{}`    |
 
 Example
@@ -43,8 +43,8 @@ Define header
 | ---------- | -------------- |
 | Key        | `notes.header` |
 | Type       | `string`       |
-| Required   | `❌`           |
-| Helm `tpl` | `✅`           |
+| Required   | ❌             |
+| Helm `tpl` | ✅             |
 
 Default
 
@@ -71,8 +71,8 @@ Define custom message, this go between header and footer
 | ---------- | -------------- |
 | Key        | `notes.custom` |
 | Type       | `string`       |
-| Required   | `❌`           |
-| Helm `tpl` | `✅`           |
+| Required   | ❌             |
+| Helm `tpl` | ✅             |
 | Default    | `""`           |
 
 Example
@@ -92,8 +92,8 @@ Define footer
 | ---------- | -------------- |
 | Key        | `notes.footer` |
 | Type       | `string`       |
-| Required   | `❌`           |
-| Helm `tpl` | `✅`           |
+| Required   | ❌             |
+| Helm `tpl` | ✅             |
 
 Default
 

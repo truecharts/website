@@ -39,8 +39,8 @@ Define persistence objects
 | ---------- | ------------- |
 | Key        | `persistence` |
 | Type       | `map`         |
-| Required   | `❌`          |
-| Helm `tpl` | `❌`          |
+| Required   | ❌            |
+| Helm `tpl` | ❌            |
 | Default    | `{}`          |
 
 Example
@@ -59,8 +59,8 @@ Define persistence
 | ---------- | ------------------- |
 | Key        | `persistence.$name` |
 | Type       | `map`               |
-| Required   | `✅`                |
-| Helm `tpl` | `❌`                |
+| Required   | ✅                  |
+| Helm `tpl` | ❌                  |
 | Default    | `{}`                |
 
 Example
@@ -80,8 +80,8 @@ Enables or Disables the persistence
 | ---------- | --------------------------- |
 | Key        | `persistence.$name.enabled` |
 | Type       | `bool`                      |
-| Required   | `✅`                        |
-| Helm `tpl` | `❌`                        |
+| Required   | ✅                          |
+| Helm `tpl` | ❌                          |
 | Default    | `false`                     |
 
 Example
@@ -102,8 +102,8 @@ Define the persistence type
 | ---------- | ------------------------------------------------ |
 | Key        | `persistence.$name.type`                         |
 | Type       | `string`                                         |
-| Required   | `❌`                                             |
-| Helm `tpl` | `❌`                                             |
+| Required   | ❌                                               |
+| Helm `tpl` | ❌                                               |
 | Default    | `{{ .Values.fallbackDefaults.persistenceType }}` |
 
 Valid Values:
@@ -137,8 +137,8 @@ Define the mountPath for the persistence, applies to all containers that are sel
 | ---------- | ----------------------------- |
 | Key        | `persistence.$name.mountPath` |
 | Type       | `string`                      |
-| Required   | `✅`                          |
-| Helm `tpl` | `✅`                          |
+| Required   | ✅                            |
+| Helm `tpl` | ✅                            |
 | Default    | `""`                          |
 
 Example
@@ -159,8 +159,8 @@ Define the mountPropagation for the persistence, applies to all containers that 
 | ---------- | ------------------------------------ |
 | Key        | `persistence.$name.mountPropagation` |
 | Type       | `string`                             |
-| Required   | `❌`                                 |
-| Helm `tpl` | `✅`                                 |
+| Required   | ❌                                   |
+| Helm `tpl` | ✅                                   |
 | Default    | `""`                                 |
 
 Valid Values:
@@ -187,8 +187,8 @@ Define the subPath for the persistence, applies to all containers that are selec
 | ---------- | --------------------------- |
 | Key        | `persistence.$name.subPath` |
 | Type       | `string`                    |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅`                        |
+| Required   | ❌                          |
+| Helm `tpl` | ✅                          |
 | Default    | `""`                        |
 
 Example
@@ -209,8 +209,8 @@ Define the readOnly for the persistence, applies to all containers that are sele
 | ---------- | ---------------------------- |
 | Key        | `persistence.$name.readOnly` |
 | Type       | `bool`                       |
-| Required   | `❌`                         |
-| Helm `tpl` | `❌`                         |
+| Required   | ❌                           |
+| Helm `tpl` | ❌                           |
 | Default    | `false`                      |
 
 Example
@@ -231,8 +231,8 @@ Define wether to define this volume to all workloads and mount it on all contain
 | ---------- | ----------------------------------------------------------- |
 | Key        | `persistence.$name.targetSelectAll`                         |
 | Type       | `bool`                                                      |
-| Required   | `❌`                                                        |
-| Helm `tpl` | `❌`                                                        |
+| Required   | ❌                                                          |
+| Helm `tpl` | ❌                                                          |
 | Default    | `{{ .Values.fallbackDefaults.persistenceTargetSelectAll }}` |
 
 Example
@@ -253,8 +253,8 @@ Define a map with pod and containers to mount
 | ---------- | ---------------------------------- |
 | Key        | `persistence.$name.targetSelector` |
 | Type       | `map`                              |
-| Required   | `❌`                               |
-| Helm `tpl` | `❌`                               |
+| Required   | ❌                                 |
+| Helm `tpl` | ❌                                 |
 | Default    | `{}`                               |
 
 Example
@@ -275,8 +275,8 @@ Define a map named after the pod to define the volume
 | ---------- | ------------------------------------------- |
 | Key        | `persistence.$name.targetSelector.$podName` |
 | Type       | `map`                                       |
-| Required   | `❌`                                        |
-| Helm `tpl` | `❌`                                        |
+| Required   | ❌                                          |
+| Helm `tpl` | ❌                                          |
 | Default    | `{}`                                        |
 
 Example
@@ -298,8 +298,8 @@ Define a map named after the container to mount the volume
 | ---------- | ---------------------------------------------------------- |
 | Key        | `persistence.$name.targetSelector.$podName.$containerName` |
 | Type       | `map`                                                      |
-| Required   | `❌`                                                       |
-| Helm `tpl` | `❌`                                                       |
+| Required   | ❌                                                         |
+| Helm `tpl` | ❌                                                         |
 | Default    | `{}`                                                       |
 
 Example
@@ -322,8 +322,8 @@ Define the mountPath for the container
 | ---------- | -------------------------------------------------------------------- |
 | Key        | `persistence.$name.targetSelector.$podName.$containerName.mountPath` |
 | Type       | `string`                                                             |
-| Required   | `❌`                                                                 |
-| Helm `tpl` | `✅`                                                                 |
+| Required   | ❌                                                                   |
+| Helm `tpl` | ✅                                                                   |
 | Default    | `$name.mountPath`                                                    |
 
 Example
@@ -347,8 +347,8 @@ Define the mountPropagation for the container
 | ---------- | --------------------------------------------------------------------------- |
 | Key        | `persistence.$name.targetSelector.$podName.$containerName.mountPropagation` |
 | Type       | `string`                                                                    |
-| Required   | `❌`                                                                        |
-| Helm `tpl` | `✅`                                                                        |
+| Required   | ❌                                                                          |
+| Helm `tpl` | ✅                                                                          |
 | Default    | `$name.mountPropagation`                                                    |
 
 Example
@@ -372,8 +372,8 @@ Define the subPath for the container
 | ---------- | ------------------------------------------------------------------ |
 | Key        | `persistence.$name.targetSelector.$podName.$containerName.subPath` |
 | Type       | `string`                                                           |
-| Required   | `❌`                                                               |
-| Helm `tpl` | `✅`                                                               |
+| Required   | ❌                                                                 |
+| Helm `tpl` | ✅                                                                 |
 | Default    | `$name.subPath`                                                    |
 
 Example
@@ -397,8 +397,8 @@ Define the readOnly for the container
 | ---------- | ------------------------------------------------------------------- |
 | Key        | `persistence.$name.targetSelector.$podName.$containerName.readOnly` |
 | Type       | `bool`                                                              |
-| Required   | `❌`                                                                |
-| Helm `tpl` | `❌`                                                                |
+| Required   | ❌                                                                  |
+| Helm `tpl` | ❌                                                                  |
 | Default    | `$name.readOnly`                                                    |
 
 Example

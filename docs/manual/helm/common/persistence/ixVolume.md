@@ -27,13 +27,13 @@ title: ixVolume
 
 Define the datasetName
 
-|            |                                        |
-| ---------- | -------------------------------------- |
-| Key        | `persistence.$name.datasetName`        |
-| Type       | `string`                               |
-| Required   | `✅`                                   |
-| Helm `tpl` | `✅`                                   |
-| Default    | `""`                                   |
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.datasetName` |
+| Type       | `string`                        |
+| Required   | ✅                              |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
 
 Example
 
@@ -49,13 +49,13 @@ persistence:
 
 Define the hostPathType
 
-|            |                                          |
-| ---------- | ---------------------------------------- |
-| Key        | `persistence.$name.hostPathType`         |
-| Type       | `string`                                 |
-| Required   | `❌`                                     |
-| Helm `tpl` | `✅`                                     |
-| Default    | `""`                                     |
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `persistence.$name.hostPathType` |
+| Type       | `string`                         |
+| Required   | ❌                               |
+| Helm `tpl` | ✅                               |
+| Default    | `""`                             |
 
 Valid Values
 

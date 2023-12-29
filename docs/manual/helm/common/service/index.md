@@ -41,8 +41,8 @@ Define service objects
 | ---------- | --------- |
 | Key        | `service` |
 | Type       | `map`     |
-| Required   | `❌`      |
-| Helm `tpl` | `❌`      |
+| Required   | ❌        |
+| Helm `tpl` | ❌        |
 | Default    | `{}`      |
 
 Example
@@ -61,8 +61,8 @@ Define service
 | ---------- | --------------- |
 | Key        | `service.$name` |
 | Type       | `map`           |
-| Required   | `✅`            |
-| Helm `tpl` | `❌`            |
+| Required   | ✅              |
+| Helm `tpl` | ❌              |
 | Default    | `{}`            |
 
 Example
@@ -82,8 +82,8 @@ Enables or Disables the service
 | ---------- | ----------------------- |
 | Key        | `service.$name.enabled` |
 | Type       | `bool`                  |
-| Required   | `✅`                    |
-| Helm `tpl` | `❌`                    |
+| Required   | ✅                      |
+| Helm `tpl` | ❌                      |
 | Default    | `false`                 |
 
 Example
@@ -104,8 +104,8 @@ Define the namespace for this object
 | ---------- | ------------------------- |
 | Key        | `service.$name.namespace` |
 | Type       | `string`                  |
-| Required   | `❌`                      |
-| Helm `tpl` | `✅ (On value only)`      |
+| Required   | ❌                        |
+| Helm `tpl` | ✅ (On value only)`       |
 | Default    | `""`                      |
 
 Example
@@ -126,8 +126,8 @@ Additional labels for service
 | ---------- | ---------------------- |
 | Key        | `service.$name.labels` |
 | Type       | `map`                  |
-| Required   | `❌`                   |
-| Helm `tpl` | `✅ (On value only)`   |
+| Required   | ❌                     |
+| Helm `tpl` | ✅ (On value only)`    |
 | Default    | `{}`                   |
 
 Example
@@ -149,8 +149,8 @@ Additional annotations for service
 | ---------- | --------------------------- |
 | Key        | `service.$name.annotations` |
 | Type       | `map`                       |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅ (On value only)`        |
+| Required   | ❌                          |
+| Helm `tpl` | ✅ (On value only)`         |
 | Default    | `{}`                        |
 
 Example
@@ -172,8 +172,8 @@ Define the service type
 | ---------- | -------------------- |
 | Key        | `service.$name.type` |
 | Type       | `string`             |
-| Required   | `❌`                 |
-| Helm `tpl` | `✅`                 |
+| Required   | ❌                   |
+| Helm `tpl` | ✅                   |
 | Default    | `ClusterIP`          |
 
 Valid Values:
@@ -202,8 +202,8 @@ Whether to expand the object name (based on the [naming scheme](#naming-scheme))
 | ---------- | -------------------------------- |
 | Key        | `service.$name.expandObjectName` |
 | Type       | `bool`                           |
-| Required   | `❌`                             |
-| Helm `tpl` | `❌`                             |
+| Required   | ❌                               |
+| Helm `tpl` | ❌                               |
 | Default    | `true`                           |
 
 Example
@@ -224,8 +224,8 @@ Define whether to publishNotReadyAddresses or not
 | ---------- | ---------------------------------------- |
 | Key        | `service.$name.publishNotReadyAddresses` |
 | Type       | `bool`                                   |
-| Required   | `❌`                                     |
-| Helm `tpl` | `❌`                                     |
+| Required   | ❌                                       |
+| Helm `tpl` | ❌                                       |
 | Default    | `false`                                  |
 
 Example
@@ -246,8 +246,8 @@ Define the pod to link the service, by default will use the primary pod
 | ---------- | ------------------------------ |
 | Key        | `service.$name.targetSelector` |
 | Type       | `string`                       |
-| Required   | `❌`                           |
-| Helm `tpl` | `❌`                           |
+| Required   | ❌                             |
+| Helm `tpl` | ❌                             |
 | Default    | `""`                           |
 
 Example
@@ -268,8 +268,8 @@ Define the ports of the service
 | ---------- | --------------------- |
 | Key        | `service.$name.ports` |
 | Type       | `map`                 |
-| Required   | `✅`                  |
-| Helm `tpl` | `❌`                  |
+| Required   | ✅                    |
+| Helm `tpl` | ❌                    |
 | Default    | `{}`                  |
 
 Example
@@ -290,8 +290,8 @@ Define the port dict
 | ---------- | -------------------------------- |
 | Key        | `service.$name.ports.$port-name` |
 | Type       | `map`                            |
-| Required   | `✅`                             |
-| Helm `tpl` | `❌`                             |
+| Required   | ✅                               |
+| Helm `tpl` | ❌                               |
 | Default    | `{}`                             |
 
 Example
@@ -313,8 +313,8 @@ Define the port that will be exposed by the service
 | ---------- | ------------------------------------- |
 | Key        | `service.$name.ports.$port-name.port` |
 | Type       | `int`                                 |
-| Required   | `✅`                                  |
-| Helm `tpl` | `✅`                                  |
+| Required   | ✅                                    |
+| Helm `tpl` | ✅                                    |
 | Default    | unset                                 |
 
 Example
@@ -337,8 +337,8 @@ Define the target port (No named ports)
 | ---------- | ------------------------------------------- |
 | Key        | `service.$name.ports.$port-name.targetPort` |
 | Type       | `int`                                       |
-| Required   | `❌`                                        |
-| Helm `tpl` | `✅`                                        |
+| Required   | ❌                                          |
+| Helm `tpl` | ✅                                          |
 | Default    | (Defaults to `port` if not set)             |
 
 Example
@@ -361,8 +361,8 @@ Define the port protocol Used by the container ports and probes, http and https 
 | ---------- | ------------------------------------------------ |
 | Key        | `service.$name.ports.$port-name.protocol`        |
 | Type       | `string`                                         |
-| Required   | `❌`                                             |
-| Helm `tpl` | `✅`                                             |
+| Required   | ❌                                               |
+| Helm `tpl` | ✅                                               |
 | Default    | `{{ .Values.fallbackDefaults.serviceProtocol }}` |
 
 Example
@@ -385,8 +385,8 @@ Define the node port
 | ---------- | ----------------------------------------- |
 | Key        | `service.$name.ports.$port-name.nodePort` |
 | Type       | `int`                                     |
-| Required   | `❌`                                      |
-| Helm `tpl` | `✅`                                      |
+| Required   | ❌                                        |
+| Helm `tpl` | ✅                                        |
 | Default    | unset                                     |
 
 Example
@@ -409,8 +409,8 @@ Define the hostPort, should be **avoided**, unless **ABSOLUTELY** necessary
 | ---------- | ----------------------------------------- |
 | Key        | `service.$name.ports.$port-name.hostPort` |
 | Type       | `int`                                     |
-| Required   | `❌`                                      |
-| Helm `tpl` | `✅`                                      |
+| Required   | ❌                                        |
+| Helm `tpl` | ✅                                        |
 | Default    | unset                                     |
 
 Example
@@ -433,8 +433,8 @@ Define the container to link this port (Must be on under the pod linked above)
 | ---------- | ----------------------------------------------- |
 | Key        | `service.$name.ports.$port-name.targetSelector` |
 | Type       | `string`                                        |
-| Required   | `❌`                                            |
-| Helm `tpl` | `✅`                                            |
+| Required   | ❌                                              |
+| Helm `tpl` | ✅                                              |
 | Default    | unset                                           |
 
 Example

@@ -33,8 +33,8 @@ Create Configmap objects
 | ---------- | ----------- |
 | Key        | `configmap` |
 | Type       | `map`       |
-| Required   | `❌`        |
-| Helm `tpl` | `❌`        |
+| Required   | ❌          |
+| Helm `tpl` | ❌          |
 | Default    | `{}`        |
 
 Example
@@ -53,8 +53,8 @@ Define Configmap
 | ---------- | ----------------- |
 | Key        | `configmap.$name` |
 | Type       | `map`             |
-| Required   | `✅`              |
-| Helm `tpl` | `❌`              |
+| Required   | ✅                |
+| Helm `tpl` | ❌                |
 | Default    | `{}`              |
 
 Example
@@ -74,8 +74,8 @@ Enables or Disables the Configmap
 | ---------- | ------------------------- |
 | Key        | `configmap.$name.enabled` |
 | Type       | `bool`                    |
-| Required   | `✅`                      |
-| Helm `tpl` | `❌`                      |
+| Required   | ✅                        |
+| Helm `tpl` | ❌                        |
 | Default    | `false`                   |
 
 Example
@@ -96,8 +96,8 @@ Define the namespace for this object
 | ---------- | --------------------------- |
 | Key        | `configmap.$name.namespace` |
 | Type       | `string`                    |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅`                        |
+| Required   | ❌                          |
+| Helm `tpl` | ✅                          |
 | Default    | `""`                        |
 
 Example
@@ -118,8 +118,8 @@ Additional labels for configmap
 | ---------- | ------------------------ |
 | Key        | `configmap.$name.labels` |
 | Type       | `map`                    |
-| Required   | `❌`                     |
-| Helm `tpl` | `✅ (On value only)`     |
+| Required   | ❌                       |
+| Helm `tpl` | ✅ (On value only)`      |
 | Default    | `{}`                     |
 
 Example
@@ -141,8 +141,8 @@ Additional annotations for configmap
 | ---------- | ----------------------------- |
 | Key        | `configmap.$name.annotations` |
 | Type       | `map`                         |
-| Required   | `❌`                          |
-| Helm `tpl` | `✅ (On value only)`          |
+| Required   | ❌                            |
+| Helm `tpl` | ✅ (On value only)`           |
 | Default    | `{}`                          |
 
 Example
@@ -164,8 +164,8 @@ Define the data of the configmap
 | ---------- | ---------------------- |
 | Key        | `configmap.$name.data` |
 | Type       | `map`                  |
-| Required   | `✅`                   |
-| Helm `tpl` | `✅`                   |
+| Required   | ✅                     |
+| Helm `tpl` | ✅                     |
 | Example    | `{}`                   |
 
 ```yaml

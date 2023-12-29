@@ -10,7 +10,7 @@ This options should not need to be changed per chart.
 | :----------------------------------------------------------------- | :-------: | :------: | :----------------: | :---------: | :----------------------------------------------------------------------------- |
 | .Values.global.labels                                              |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Labels that apply to all objects                                    |
 | .Values.global.annotations                                         |  `dict`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Annotations that apply to all objects                               |
-| .Values.global.namespace                                           | `string`  |    ❌    |         ✅         |    `""`     | Namespace to apply to all objects, also applies to chart deps                    |
+| .Values.global.namespace                                           | `string`  |    ❌    |         ✅         |    `""`     | Namespace to apply to all objects, also applies to chart deps                  |
 | .Values.global.minNodePort                                         |   `int`   |    ✅    |         ❌         |   `9000`    | Minimum Node Port Allowed                                                      |
 | .Values.global.createTCNamespace                                   | `boolean` |    ❌    |         ❌         |   `true`    | Whether to create tc-system namespace                                          |
 | .Values.fallbackDefaults.probeType                                 | `string`  |    ✅    |         ❌         |   `http`    | Default probe type when not defined in the container level                     |
@@ -124,7 +124,7 @@ but still have the ability to override them on the pod/container level, in case 
 | Key                                              |   Type    | Required | Helm Template |  Default  | Description                                                            |
 | :----------------------------------------------- | :-------: | :------: | :-----------: | :-------: | :--------------------------------------------------------------------- |
 | .Values.TZ                                       | `string`  |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                            |
-| .Values.namespace                                | `string`  |    ❌    |      ✅       |    `""`   | Namespace to apply to all objects, does not apply to chart deps        |
+| .Values.namespace                                | `string`  |    ❌    |      ✅       |   `""`    | Namespace to apply to all objects, does not apply to chart deps        |
 | .Values.containerOptions                         |  `dict`   |    ✅    |      ❌       | See below | Container options that apply to all containers                         |
 | .Values.containerOptions.NVIDIA_CAPS             |  `list`   |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)                     |
 | .Values.resources                                |  `dict`   |    ✅    |      ❌       | See below | Resources                                                              |
@@ -313,7 +313,7 @@ Notes:
 This applies across all the documentation:
 
 - Helm Template:
-  - `❌` means that the value is not templated
-  - `✅` means that the value is templated,
+  - ❌ means that the value is not templated
+  - ✅ means that the value is templated,
     for example instead of a hardcoded value, you can set it to `{{ .Values.some.value }}`.
     and it will be replaced by the value contained in `.Values.some.value` at the installation/upgrade time.

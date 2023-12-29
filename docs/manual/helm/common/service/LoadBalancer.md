@@ -30,8 +30,8 @@ Sets the shared key in `metallb.universe.tf/allow-shared-ip` **MetalLB** Annotat
 | ---------- | ------------------------- |
 | Key        | `service.$name.sharedKey` |
 | Type       | `string`                  |
-| Required   | `❌`                      |
-| Helm `tpl` | `✅`                      |
+| Required   | ❌                        |
+| Helm `tpl` | ✅                        |
 | Default    | `$FullName`               |
 
 Example
@@ -50,8 +50,8 @@ Define the load balancer IP, sets the `metallb.universe.tf/loadBalancerIPs` **Me
 | ---------- | ------------------------------ |
 | Key        | `service.$name.loadBalancerIP` |
 | Type       | `string`                       |
-| Required   | `❌`                           |
-| Helm `tpl` | `✅`                           |
+| Required   | ❌                             |
+| Helm `tpl` | ✅                             |
 | Default    | `""`                           |
 
 Example
@@ -70,8 +70,8 @@ Define the load balancer IPs, sets the `metallb.universe.tf/loadBalancerIPs` **M
 | ---------- | ------------------------------- |
 | Key        | `service.$name.loadBalancerIPs` |
 | Type       | `list` of `string`              |
-| Required   | `❌`                            |
-| Helm `tpl` | `✅` (On entries only)          |
+| Required   | ❌                              |
+| Helm `tpl` | ✅ (On entries only)            |
 | Default    | `[]`                            |
 
 Example
@@ -94,8 +94,8 @@ Configure Cluster IP type
 | ---------- | ------------------------- |
 | Key        | `service.$name.clusterIP` |
 | Type       | `string`                  |
-| Required   | `❌`                      |
-| Helm `tpl` | `✅`                      |
+| Required   | ❌                        |
+| Helm `tpl` | ✅                        |
 | Default    | `""`                      |
 
 Example
@@ -116,8 +116,8 @@ Define the ipFamilyPolicy (SingleStack, PreferDualStack, RequireDualStack)
 | ---------- | ------------------------------ |
 | Key        | `service.$name.ipFamilyPolicy` |
 | Type       | `string`                       |
-| Required   | `❌`                           |
-| Helm `tpl` | `✅`                           |
+| Required   | ❌                             |
+| Helm `tpl` | ✅                             |
 | Default    | `""`                           |
 
 Valid Values:
@@ -144,8 +144,8 @@ Define the ipFamilies
 | ---------- | -------------------------- |
 | Key        | `service.$name.ipFamilies` |
 | Type       | `list` of `string`         |
-| Required   | `❌`                       |
-| Helm `tpl` | `✅` (On entries only)     |
+| Required   | ❌                         |
+| Helm `tpl` | ✅ (On entries only)       |
 | Default    | `[]`                       |
 
 Example
@@ -167,8 +167,8 @@ Define the session affinity (ClientIP, None)
 | ---------- | ------------------------------- |
 | Key        | `service.$name.sessionAffinity` |
 | Type       | `string`                        |
-| Required   | `❌`                            |
-| Helm `tpl` | `✅`                            |
+| Required   | ❌                              |
+| Helm `tpl` | ✅                              |
 | Default    | `""`                            |
 
 Valid Values:
@@ -194,8 +194,8 @@ Define the timeout for ClientIP session affinity (0-86400)
 | ---------- | ------------------------------------------------------------- |
 | Key        | `service.$name.sessionAffinityConfig.clientIP.timeoutSeconds` |
 | Type       | `int`                                                         |
-| Required   | `❌`                                                          |
-| Helm `tpl` | `✅`                                                          |
+| Required   | ❌                                                            |
+| Helm `tpl` | ✅                                                            |
 | Default    | `""`                                                          |
 
 Valid Values:
@@ -222,8 +222,8 @@ Define externalIPs
 | ---------- | --------------------------- |
 | Key        | `service.$name.externalIPs` |
 | Type       | `list` of `string`          |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅` (On entries only)      |
+| Required   | ❌                          |
+| Helm `tpl` | ✅ (On entries only)        |
 | Default    | `[]`                        |
 
 Example
@@ -246,8 +246,8 @@ Define the external traffic policy (Cluster, Local)
 | ---------- | ------------------------------------- |
 | Key        | `service.$name.externalTrafficPolicy` |
 | Type       | `string`                              |
-| Required   | `❌`                                  |
-| Helm `tpl` | `✅`                                  |
+| Required   | ❌                                    |
+| Helm `tpl` | ✅                                    |
 | Default    | `""`                                  |
 
 Valid Values:
@@ -273,8 +273,8 @@ Define the load balancer source ranges
 | ---------- | ---------------------------------------- |
 | Key        | `service.$name.loadBalancerSourceRanges` |
 | Type       | `list` of `string`                       |
-| Required   | `❌`                                     |
-| Helm `tpl` | `✅` (On entries only)                   |
+| Required   | ❌                                       |
+| Helm `tpl` | ✅ (On entries only)                     |
 | Default    | `[]`                                     |
 
 Example

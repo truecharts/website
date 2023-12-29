@@ -42,8 +42,8 @@ Create rbac objects
 | ---------- | ------ |
 | Key        | `rbac` |
 | Type       | `map`  |
-| Required   | `❌`   |
-| Helm `tpl` | `❌`   |
+| Required   | ❌     |
+| Helm `tpl` | ❌     |
 | Default    | `{}`   |
 
 Example
@@ -62,8 +62,8 @@ Define rbac
 | ---------- | ------------ |
 | Key        | `rbac.$name` |
 | Type       | `map`        |
-| Required   | `✅`         |
-| Helm `tpl` | `❌`         |
+| Required   | ✅           |
+| Helm `tpl` | ❌           |
 | Default    | `{}`         |
 
 Example
@@ -83,8 +83,8 @@ Enables or Disables the rbac
 | ---------- | -------------------- |
 | Key        | `rbac.$name.enabled` |
 | Type       | `bool`               |
-| Required   | `✅`                 |
-| Helm `tpl` | `❌`                 |
+| Required   | ✅                   |
+| Helm `tpl` | ❌                   |
 | Default    | `false`              |
 
 Example
@@ -105,8 +105,8 @@ Sets the rbac as primary
 | ---------- | -------------------- |
 | Key        | `rbac.$name.primary` |
 | Type       | `bool`               |
-| Required   | `❌`                 |
-| Helm `tpl` | `❌`                 |
+| Required   | ❌                   |
+| Helm `tpl` | ❌                   |
 | Default    | `false`              |
 
 Example
@@ -127,8 +127,8 @@ Define the namespace for this object (Only when clusterWide is false)
 | ---------- | ---------------------- |
 | Key        | `rbac.$name.namespace` |
 | Type       | `string`               |
-| Required   | `❌`                   |
-| Helm `tpl` | `✅`                   |
+| Required   | ❌                     |
+| Helm `tpl` | ✅                     |
 | Default    | `""`                   |
 
 Example
@@ -149,8 +149,8 @@ Sets the rbac as cluster wide (ClusterRole, ClusterRoleBinding)
 | ---------- | ------------------------ |
 | Key        | `rbac.$name.clusterWide` |
 | Type       | `bool`                   |
-| Required   | `❌`                     |
-| Helm `tpl` | `❌`                     |
+| Required   | ❌                       |
+| Helm `tpl` | ❌                       |
 | Default    | `false`                  |
 
 Example
@@ -167,13 +167,13 @@ rbac:
 
 Additional labels for rbac
 
-|            |                      |
-| ---------- | -------------------- |
-| Key        | `rbac.$name.labels`  |
-| Type       | `map`                |
-| Required   | `❌`                 |
-| Helm `tpl` | `✅ (On value only)` |
-| Default    | `{}`                 |
+|            |                     |
+| ---------- | ------------------- |
+| Key        | `rbac.$name.labels` |
+| Type       | `map`               |
+| Required   | ❌                  |
+| Helm `tpl` | ✅ (On value only)` |
+| Default    | `{}`                |
 
 Example
 
@@ -194,8 +194,8 @@ Additional annotations for rbac
 | ---------- | ------------------------ |
 | Key        | `rbac.$name.annotations` |
 | Type       | `map`                    |
-| Required   | `❌`                     |
-| Helm `tpl` | `✅ (On value only)`     |
+| Required   | ❌                       |
+| Helm `tpl` | ✅ (On value only)`      |
 | Default    | `{}`                     |
 
 Example
@@ -217,8 +217,8 @@ Whether to assign all service accounts or not to the (Cluster)RoleBinding
 | ---------- | ------------------------------- |
 | Key        | `rbac.$name.allServiceAccounts` |
 | Type       | `bool`                          |
-| Required   | `❌`                            |
-| Helm `tpl` | `❌`                            |
+| Required   | ❌                              |
+| Helm `tpl` | ❌                              |
 | Default    | unset                           |
 
 Example
@@ -239,8 +239,8 @@ Define the service account(s) to assign the (Cluster)RoleBinding
 | ---------- | ---------------------------- |
 | Key        | `rbac.$name.serviceAccounts` |
 | Type       | `list`                       |
-| Required   | `❌`                         |
-| Helm `tpl` | `❌`                         |
+| Required   | ❌                           |
+| Helm `tpl` | ❌                           |
 | Default    | `[]`                         |
 
 Example
@@ -262,8 +262,8 @@ Define the `rules` for the (Cluster)Role
 | ---------- | ------------------ |
 | Key        | `rbac.$name.rules` |
 | Type       | `list`             |
-| Required   | `✅`               |
-| Helm `tpl` | `❌`               |
+| Required   | ✅                 |
+| Helm `tpl` | ❌                 |
 | Default    | `[]`               |
 
 Example
@@ -284,8 +284,8 @@ Define the `apiGroups` list for the `rules` for the (Cluster)Role
 | ---------- | ------------------------------ |
 | Key        | `rbac.$name.rules[].apiGroups` |
 | Type       | `list` of `string`             |
-| Required   | `✅`                           |
-| Helm `tpl` | `✅` (On entries only)         |
+| Required   | ✅                             |
+| Helm `tpl` | ✅ (On entries only)           |
 | Default    | `[]`                           |
 
 Example
@@ -309,8 +309,8 @@ Define the `resources` list for the `rules` for the (Cluster)Role
 | ---------- | ------------------------------ |
 | Key        | `rbac.$name.rules[].resources` |
 | Type       | `list` of `string`             |
-| Required   | `✅`                           |
-| Helm `tpl` | `✅` (On entries only)         |
+| Required   | ✅                             |
+| Helm `tpl` | ✅ (On entries only)           |
 | Default    | `[]`                           |
 
 Example
@@ -333,8 +333,8 @@ Define the `resourceNames` list for the `rules` for the (Cluster)Role
 | ---------- | ---------------------------------- |
 | Key        | `rbac.$name.rules[].resourceNames` |
 | Type       | `list` of `string`                 |
-| Required   | `❌`                               |
-| Helm `tpl` | `✅` (On entries only)             |
+| Required   | ❌                                 |
+| Helm `tpl` | ✅ (On entries only)               |
 | Default    | `[]`                               |
 
 Example
@@ -357,8 +357,8 @@ Define the `verbs` list for the `rules` for the (Cluster)Role
 | ---------- | -------------------------- |
 | Key        | `rbac.$name.rules[].verbs` |
 | Type       | `list` of `string`         |
-| Required   | `✅`                       |
-| Helm `tpl` | `✅` (On entries only)     |
+| Required   | ✅                         |
+| Helm `tpl` | ✅ (On entries only)       |
 | Default    | `[]`                       |
 
 Example
@@ -383,8 +383,8 @@ Define `subjects` for (Cluster)RoleBinding
 | ---------- | --------------------- |
 | Key        | `rbac.$name.subjects` |
 | Type       | `list` of `map`       |
-| Required   | `❌`                  |
-| Helm `tpl` | `❌`                  |
+| Required   | ❌                    |
+| Helm `tpl` | ❌                    |
 | Default    | `[]`                  |
 
 Example
@@ -406,8 +406,8 @@ Define the `kind` of `subjects` entry
 | ---------- | ---------------------------- |
 | Key        | `rbac.$name.subjects[].kind` |
 | Type       | `string`                     |
-| Required   | `✅`                         |
-| Helm `tpl` | `✅`                         |
+| Required   | ✅                           |
+| Helm `tpl` | ✅                           |
 | Default    | `""`                         |
 
 Example
@@ -429,8 +429,8 @@ Define the `name` of `subjects` entry
 | ---------- | ---------------------------- |
 | Key        | `rbac.$name.subjects[].name` |
 | Type       | `string`                     |
-| Required   | `✅`                         |
-| Helm `tpl` | `✅`                         |
+| Required   | ✅                           |
+| Helm `tpl` | ✅                           |
 | Default    | `""`                         |
 
 Example
@@ -452,8 +452,8 @@ Define the `apiGroup` of `subjects` entry
 | ---------- | -------------------------------- |
 | Key        | `rbac.$name.subjects[].apiGroup` |
 | Type       | `string`                         |
-| Required   | `✅`                             |
-| Helm `tpl` | `✅`                             |
+| Required   | ✅                               |
+| Helm `tpl` | ✅                               |
 | Default    | `""`                             |
 
 Example

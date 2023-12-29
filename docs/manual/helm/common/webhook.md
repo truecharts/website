@@ -35,8 +35,8 @@ Create webhook objects
 | ---------- | --------- |
 | Key        | `webhook` |
 | Type       | `map`     |
-| Required   | `❌`      |
-| Helm `tpl` | `❌`      |
+| Required   | ❌        |
+| Helm `tpl` | ❌        |
 | Default    | `{}`      |
 
 Example
@@ -55,8 +55,8 @@ Define a webhook object with the given name
 | ---------- | --------------- |
 | Key        | `webhook.$name` |
 | Type       | `map`           |
-| Required   | `✅`            |
-| Helm `tpl` | `❌`            |
+| Required   | ✅              |
+| Helm `tpl` | ❌              |
 | Default    | `{}`            |
 
 Example
@@ -76,8 +76,8 @@ Enables or Disables the webhook
 | ---------- | ----------------------- |
 | Key        | `webhook.$name.enabled` |
 | Type       | `bool`                  |
-| Required   | `✅`                    |
-| Helm `tpl` | `❌`                    |
+| Required   | ✅                      |
+| Helm `tpl` | ❌                      |
 | Default    | `false`                 |
 
 Example
@@ -98,8 +98,8 @@ Define the namespace for this object
 | ---------- | ------------------------- |
 | Key        | `webhook.$name.namespace` |
 | Type       | `string`                  |
-| Required   | `❌`                      |
-| Helm `tpl` | `✅ (On value only)`      |
+| Required   | ❌                        |
+| Helm `tpl` | ✅ (On value only)`       |
 | Default    | `""`                      |
 
 Example
@@ -120,8 +120,8 @@ Additional labels for webhook
 | ---------- | ---------------------- |
 | Key        | `webhook.$name.labels` |
 | Type       | `map`                  |
-| Required   | `❌`                   |
-| Helm `tpl` | `✅ (On value only)`   |
+| Required   | ❌                     |
+| Helm `tpl` | ✅ (On value only)`    |
 | Default    | `{}`                   |
 
 Example
@@ -144,8 +144,8 @@ Additional annotations for webhook
 | ---------- | --------------------------- |
 | Key        | `webhook.$name.annotations` |
 | Type       | `map`                       |
-| Required   | `❌`                        |
-| Helm `tpl` | `✅ (On value only)`        |
+| Required   | ❌                          |
+| Helm `tpl` | ✅ (On value only)`         |
 | Default    | `{}`                        |
 
 Example
@@ -168,8 +168,8 @@ Define the type of the webhook.
 | ---------- | -------------------- |
 | Key        | `webhook.$name.type` |
 | Type       | `string`             |
-| Required   | `✅`                 |
-| Helm `tpl` | `✅`                 |
+| Required   | ✅                   |
+| Helm `tpl` | ✅                   |
 | Default    | `""`                 |
 
 Valid Values:
@@ -195,8 +195,8 @@ Define the webhooks.
 | ---------- | ------------------------ |
 | Key        | `webhook.$name.webhooks` |
 | Type       | `list` of `map`          |
-| Required   | `✅`                     |
-| Helm `tpl` | `❌`                     |
+| Required   | ✅                       |
+| Helm `tpl` | ❌                       |
 | Default    | `[]`                     |
 
 Example
@@ -217,8 +217,8 @@ Define the webhook name
 | ---------- | ------------------------------- |
 | Key        | `webhook.$name.webhooks[].name` |
 | Type       | `string`                        |
-| Required   | `✅`                            |
-| Helm `tpl` | `✅`                            |
+| Required   | ✅                              |
+| Helm `tpl` | ✅                              |
 | Default    | `""`                            |
 
 Example
@@ -240,8 +240,8 @@ Define the failurePolicy for the webhook
 | ---------- | ---------------------------------------- |
 | Key        | `webhook.$name.webhooks[].failurePolicy` |
 | Type       | `string`                                 |
-| Required   | `❌`                                     |
-| Helm `tpl` | `✅`                                     |
+| Required   | ❌                                       |
+| Helm `tpl` | ✅                                       |
 | Default    | `""`                                     |
 
 Valid Values:
@@ -268,8 +268,8 @@ Define the matchPolicy for the webhook
 | ---------- | -------------------------------------- |
 | Key        | `webhook.$name.webhooks[].matchPolicy` |
 | Type       | `string`                               |
-| Required   | `❌`                                   |
-| Helm `tpl` | `✅`                                   |
+| Required   | ❌                                     |
+| Helm `tpl` | ✅                                     |
 | Default    | `""`                                   |
 
 Valid Values:
@@ -296,8 +296,8 @@ Define the sideEffects for the webhook
 | ---------- | -------------------------------------- |
 | Key        | `webhook.$name.webhooks[].sideEffects` |
 | Type       | `string`                               |
-| Required   | `❌`                                   |
-| Helm `tpl` | `✅`                                   |
+| Required   | ❌                                     |
+| Helm `tpl` | ✅                                     |
 | Default    | `""`                                   |
 
 Valid Values:
@@ -324,8 +324,8 @@ Define the reinvocationPolicy for the webhook
 | ---------- | --------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].reinvocationPolicy` |
 | Type       | `string`                                      |
-| Required   | `❌`                                          |
-| Helm `tpl` | `✅`                                          |
+| Required   | ❌                                            |
+| Helm `tpl` | ✅                                            |
 | Default    | `""`                                          |
 
 Valid Values:
@@ -352,8 +352,8 @@ Define the timeoutSeconds for the webhook
 | ---------- | ----------------------------------------- |
 | Key        | `webhook.$name.webhooks[].timeoutSeconds` |
 | Type       | `int`                                     |
-| Required   | `❌`                                      |
-| Helm `tpl` | `✅`                                      |
+| Required   | ❌                                        |
+| Helm `tpl` | ✅                                        |
 | Default    | `""`                                      |
 
 Example
@@ -375,8 +375,8 @@ Define the admissionReviewVersions for the webhook
 | ---------- | -------------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].admissionReviewVersions` |
 | Type       | `list` of `string`                                 |
-| Required   | `✅`                                               |
-| Helm `tpl` | `✅`                                               |
+| Required   | ✅                                                 |
+| Helm `tpl` | ✅                                                 |
 | Default    | `[]`                                               |
 
 Example
@@ -400,8 +400,8 @@ Define the clientConfig for the webhook
 | ---------- | --------------------------------------- |
 | Key        | `webhook.$name.webhooks[].clientConfig` |
 | Type       | `map`                                   |
-| Required   | `✅`                                    |
-| Helm `tpl` | `❌`                                    |
+| Required   | ✅                                      |
+| Helm `tpl` | ❌                                      |
 | Default    | `{}`                                    |
 
 ---
@@ -414,8 +414,8 @@ Define the caBundle in clientConfig for the webhook
 | ---------- | ------------------------------------------------ |
 | Key        | `webhook.$name.webhooks[].clientConfig.caBundle` |
 | Type       | `string`                                         |
-| Required   | `❌`                                             |
-| Helm `tpl` | `✅`                                             |
+| Required   | ❌                                               |
+| Helm `tpl` | ✅                                               |
 | Default    | `""`                                             |
 
 Example
@@ -436,8 +436,8 @@ Define the url in clientConfig for the webhook, required if service is not defin
 | ---------- | ------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].clientConfig.url` |
 | Type       | `string`                                    |
-| Required   | `❌`                                        |
-| Helm `tpl` | `✅`                                        |
+| Required   | ❌                                          |
+| Helm `tpl` | ✅                                          |
 | Default    | `""`                                        |
 
 Example
@@ -460,8 +460,8 @@ Define the service in clientConfig for the webhook, required if url is not defin
 | ---------- | ----------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].clientConfig.service` |
 | Type       | `map`                                           |
-| Required   | `❌`                                            |
-| Helm `tpl` | `❌`                                            |
+| Required   | ❌                                              |
+| Helm `tpl` | ❌                                              |
 | Default    | `{}`                                            |
 
 Example
@@ -484,8 +484,8 @@ Define the service name in clientConfig for the webhook
 | ---------- | ---------------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].clientConfig.service.name` |
 | Type       | `string`                                             |
-| Required   | `✅`                                                 |
-| Helm `tpl` | `✅`                                                 |
+| Required   | ✅                                                   |
+| Helm `tpl` | ✅                                                   |
 | Default    | `""`                                                 |
 
 Example
@@ -509,8 +509,8 @@ Define the service namespace in clientConfig for the webhook
 | ---------- | --------------------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].clientConfig.service.namespace` |
 | Type       | `string`                                                  |
-| Required   | `✅`                                                      |
-| Helm `tpl` | `✅`                                                      |
+| Required   | ✅                                                        |
+| Helm `tpl` | ✅                                                        |
 | Default    | `""`                                                      |
 
 Example
@@ -534,8 +534,8 @@ Define the service path in clientConfig for the webhook
 | ---------- | ---------------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].clientConfig.service.path` |
 | Type       | `string`                                             |
-| Required   | `❌`                                                 |
-| Helm `tpl` | `✅`                                                 |
+| Required   | ❌                                                   |
+| Helm `tpl` | ✅                                                   |
 | Default    | `""`                                                 |
 
 Example
@@ -559,8 +559,8 @@ Define the service port in clientConfig for the webhook
 | ---------- | ---------------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].clientConfig.service.port` |
 | Type       | `int`                                                |
-| Required   | `❌`                                                 |
-| Helm `tpl` | `✅`                                                 |
+| Required   | ❌                                                   |
+| Helm `tpl` | ✅                                                   |
 | Default    | unset                                                |
 
 Example
@@ -584,8 +584,8 @@ Define the rules for the webhook
 | ---------- | -------------------------------- |
 | Key        | `webhook.$name.webhooks[].rules` |
 | Type       | `list` of `map`                  |
-| Required   | `✅`                             |
-| Helm `tpl` | `❌`                             |
+| Required   | ✅                               |
+| Helm `tpl` | ❌                               |
 | Default    | `[]`                             |
 
 Example
@@ -607,8 +607,8 @@ Define the scope of the rule for the webhook
 | ---------- | ---------------------------------------- |
 | Key        | `webhook.$name.webhooks[].rules[].scope` |
 | Type       | `string`                                 |
-| Required   | `❌`                                     |
-| Helm `tpl` | `✅`                                     |
+| Required   | ❌                                       |
+| Helm `tpl` | ✅                                       |
 | Default    | `""`                                     |
 
 Valid Values:
@@ -637,8 +637,8 @@ Define the apiGroups of the rule for the webhook
 | ---------- | -------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].rules[].apiGroups` |
 | Type       | `list` of `string`                           |
-| Required   | `✅`                                         |
-| Helm `tpl` | `✅` (On entries only)                       |
+| Required   | ✅                                           |
+| Helm `tpl` | ✅ (On entries only)                         |
 | Default    | `[]`                                         |
 
 Example
@@ -663,8 +663,8 @@ Define the apiVersions of the rule for the webhook
 | ---------- | ---------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].rules[].apiVersions` |
 | Type       | `list` of `string`                             |
-| Required   | `✅`                                           |
-| Helm `tpl` | `✅` (On entries only)                         |
+| Required   | ✅                                             |
+| Helm `tpl` | ✅ (On entries only)                           |
 | Default    | `[]`                                           |
 
 Example
@@ -689,8 +689,8 @@ Define the operations of the rule for the webhook
 | ---------- | --------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].rules[].operations` |
 | Type       | `list` of `string`                            |
-| Required   | `✅`                                          |
-| Helm `tpl` | `✅` (On entries only)                        |
+| Required   | ✅                                            |
+| Helm `tpl` | ✅ (On entries only)                          |
 | Default    | `[]`                                          |
 
 Example
@@ -715,8 +715,8 @@ Define the resources of the rule for the webhook
 | ---------- | -------------------------------------------- |
 | Key        | `webhook.$name.webhooks[].rules[].resources` |
 | Type       | `list` of `string`                           |
-| Required   | `✅`                                         |
-| Helm `tpl` | `✅` (On entries only)                       |
+| Required   | ✅                                           |
+| Helm `tpl` | ✅ (On entries only)                         |
 | Default    | `[]`                                         |
 
 Example
