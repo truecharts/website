@@ -20,7 +20,7 @@ title: Service Account
 
 :::tip
 
-Replace references to `$name` with the actual name you want to use.
+- Replace references to `$name` with the actual name you want to use.
 
 :::
 
@@ -38,13 +38,13 @@ Replace references to `$name` with the actual name you want to use.
 
 Create serviceAccount objects
 
-|          |                  |
-| -------- | ---------------- |
-| Key      | `serviceAccount` |
-| Type     | `map`            |
-| Required | `❌`             |
-| tpl      | `❌`             |
-| Default  | `{}`             |
+|            |                  |
+| ---------- | ---------------- |
+| Key        | `serviceAccount` |
+| Type       | `map`            |
+| Required   | `❌`             |
+| Helm `tpl` | `❌`             |
+| Default    | `{}`             |
 
 Example
 
@@ -58,13 +58,13 @@ serviceAccount: {}
 
 Define serviceAccount
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `serviceAccount.$name` |
-| Type     | `map`                  |
-| Required | `✅`                   |
-| tpl      | `❌`                   |
-| Default  | `{}`                   |
+|            |                        |
+| ---------- | ---------------------- |
+| Key        | `serviceAccount.$name` |
+| Type       | `map`                  |
+| Required   | `✅`                   |
+| Helm `tpl` | `❌`                   |
+| Default    | `{}`                   |
 
 Example
 
@@ -79,13 +79,13 @@ serviceAccount:
 
 Enables or Disables the serviceAccount
 
-|          |                                |
-| -------- | ------------------------------ |
-| Key      | `serviceAccount.$name.enabled` |
-| Type     | `bool`                         |
-| Required | `✅`                           |
-| tpl      | `❌`                           |
-| Default  | `false`                        |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `serviceAccount.$name.enabled` |
+| Type       | `bool`                         |
+| Required   | `✅`                           |
+| Helm `tpl` | `❌`                           |
+| Default    | `false`                        |
 
 Example
 
@@ -101,13 +101,13 @@ serviceAccount:
 
 Sets the serviceAccount as primary
 
-|          |                                |
-| -------- | ------------------------------ |
-| Key      | `serviceAccount.$name.primary` |
-| Type     | `bool`                         |
-| Required | `❌`                           |
-| tpl      | `❌`                           |
-| Default  | `false`                        |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `serviceAccount.$name.primary` |
+| Type       | `bool`                         |
+| Required   | `❌`                           |
+| Helm `tpl` | `❌`                           |
+| Default    | `false`                        |
 
 Example
 
@@ -123,13 +123,13 @@ serviceAccount:
 
 Define the namespace for this object
 
-|          |                                  |
-| -------- | -------------------------------- |
-| Key      | `serviceAccount.$name.namespace` |
-| Type     | `string`                         |
-| Required | `❌`                             |
-| tpl      | `✅`                             |
-| Default  | `""`                             |
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `serviceAccount.$name.namespace` |
+| Type       | `string`                         |
+| Required   | `❌`                             |
+| Helm `tpl` | `✅`                             |
+| Default    | `""`                             |
 
 Example
 
@@ -145,13 +145,13 @@ serviceAccount:
 
 Additional labels for service account
 
-|          |                               |
-| -------- | ----------------------------- |
-| Key      | `serviceAccount.$name.labels` |
-| Type     | `map`                         |
-| Required | `❌`                          |
-| tpl      | `✅ (On value only)`          |
-| Default  | `{}`                          |
+|            |                               |
+| ---------- | ----------------------------- |
+| Key        | `serviceAccount.$name.labels` |
+| Type       | `map`                         |
+| Required   | `❌`                          |
+| Helm `tpl` | `✅ (On value only)`          |
+| Default    | `{}`                          |
 
 Example
 
@@ -168,13 +168,13 @@ serviceAccount:
 
 Additional annotations for service account
 
-|          |                                    |
-| -------- | ---------------------------------- |
-| Key      | `serviceAccount.$name.annotations` |
-| Type     | `map`                              |
-| Required | `❌`                               |
-| tpl      | `✅ (On value only)`               |
-| Default  | `{}`                               |
+|            |                                    |
+| ---------- | ---------------------------------- |
+| Key        | `serviceAccount.$name.annotations` |
+| Type       | `map`                              |
+| Required   | `❌`                               |
+| Helm `tpl` | `✅ (On value only)`               |
+| Default    | `{}`                               |
 
 Example
 
@@ -191,13 +191,13 @@ serviceAccount:
 
 Whether to assign the serviceAccount to all pods or not
 
-|          |                                        |
-| -------- | -------------------------------------- |
-| Key      | `serviceAccount.$name.targetSelectAll` |
-| Type     | `bool`                                 |
-| Required | `❌`                                   |
-| tpl      | `❌`                                   |
-| Default  | unset                                  |
+|            |                                        |
+| ---------- | -------------------------------------- |
+| Key        | `serviceAccount.$name.targetSelectAll` |
+| Type       | `bool`                                 |
+| Required   | `❌`                                   |
+| Helm `tpl` | `❌`                                   |
+| Default    | unset                                  |
 
 Example
 
@@ -213,13 +213,13 @@ serviceAccount:
 
 Define the pod(s) to assign the serviceAccount
 
-|          |                                       |
-| -------- | ------------------------------------- |
-| Key      | `serviceAccount.$name.targetSelector` |
-| Type     | `list` of `string`                    |
-| Required | `❌`                                  |
-| tpl      | `❌`                                  |
-| Default  | `[]`                                  |
+|            |                                       |
+| ---------- | ------------------------------------- |
+| Key        | `serviceAccount.$name.targetSelector` |
+| Type       | `list` of `string`                    |
+| Required   | `❌`                                  |
+| Helm `tpl` | `❌`                                  |
+| Default    | `[]`                                  |
 
 Example
 

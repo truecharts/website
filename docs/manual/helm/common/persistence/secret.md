@@ -4,7 +4,6 @@ title: Secret
 
 :::note
 
-- This options apply only when `type: secret`.
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
 
@@ -17,6 +16,7 @@ title: Secret
 :::tip
 
 - See available persistence keys [here](./index.md).
+- This options apply only when `type: secret`.
 
 :::
 
@@ -26,13 +26,13 @@ title: Secret
 
 Define the secret name.
 
-|          |                                |
-| -------- | ------------------------------ |
-| Key      | `persistence.$name.objectName` |
-| Type     | `string`                       |
-| Required | ✅                             |
-| tpl      | ✅                             |
-| Default  | `""`                           |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `persistence.$name.objectName` |
+| Type       | `string`                       |
+| Required   | ✅                             |
+| Helm `tpl` | ✅                             |
+| Default    | `""`                           |
 
 Example
 
@@ -48,13 +48,13 @@ persistence:
 
 Whether to expand (adding the fullname as prefix) the secret name.
 
-|          |                                      |
-| -------- | ------------------------------------ |
-| Key      | `persistence.$name.expandObjectName` |
-| Type     | `boolean`                            |
-| Required | ❌                                   |
-| tpl      | ❌                                   |
-| Default  | `true`                               |
+|            |                                      |
+| ---------- | ------------------------------------ |
+| Key        | `persistence.$name.expandObjectName` |
+| Type       | `boolean`                            |
+| Required   | ❌                                   |
+| Helm `tpl` | ❌                                   |
+| Default    | `true`                               |
 
 Example
 
@@ -70,13 +70,13 @@ persistence:
 
 Whether the secret should be required or not.
 
-|          |                              |
-| -------- | ---------------------------- |
-| Key      | `persistence.$name.optional` |
-| Type     | `boolean`                    |
-| Required | ❌                           |
-| tpl      | ❌                           |
-| Default  | `false`                      |
+|            |                              |
+| ---------- | ---------------------------- |
+| Key        | `persistence.$name.optional` |
+| Type       | `boolean`                    |
+| Required   | ❌                           |
+| Helm `tpl` | ❌                           |
+| Default    | `false`                      |
 
 Example
 
@@ -92,13 +92,13 @@ persistence:
 
 Define the defaultMode (must be a string in format of "0777").
 
-|          |                                 |
-| -------- | ------------------------------- |
-| Key      | `persistence.$name.defaultMode` |
-| Type     | `string`                        |
-| Required | ✅                              |
-| tpl      | ✅                              |
-| Default  | `""`                            |
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.defaultMode` |
+| Type       | `string`                        |
+| Required   | ✅                              |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
 
 Example
 
@@ -114,13 +114,13 @@ persistence:
 
 Define a list of items for secret.
 
-|          |                           |
-| -------- | ------------------------- |
-| Key      | `persistence.$name.items` |
-| Type     | `list`                    |
-| Required | ❌                        |
-| tpl      | ❌                        |
-| Default  | `[]`                      |
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `persistence.$name.items` |
+| Type       | `list`                    |
+| Required   | ❌                        |
+| Helm `tpl` | ❌                        |
+| Default    | `[]`                      |
 
 Example
 
@@ -140,13 +140,13 @@ persistence:
 
 Define the key of the secret.
 
-|          |                                 |
-| -------- | ------------------------------- |
-| Key      | `persistence.$name.items[].key` |
-| Type     | `string`                        |
-| Required | ✅                              |
-| tpl      | ✅                              |
-| Default  | `""`                            |
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.items[].key` |
+| Type       | `string`                        |
+| Required   | ✅                              |
+| Helm `tpl` | ✅                              |
+| Default    | `""`                            |
 
 Example
 
@@ -164,13 +164,13 @@ persistence:
 
 Define the path.
 
-|          |                                  |
-| -------- | -------------------------------- |
-| Key      | `persistence.$name.items[].path` |
-| Type     | `string`                         |
-| Required | ✅                               |
-| tpl      | ✅                               |
-| Default  | `""`                             |
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `persistence.$name.items[].path` |
+| Type       | `string`                         |
+| Required   | ✅                               |
+| Helm `tpl` | ✅                               |
+| Default    | `""`                             |
 
 Example
 

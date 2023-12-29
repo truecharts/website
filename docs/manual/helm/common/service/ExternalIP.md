@@ -2,17 +2,23 @@
 title: ExternalIP
 ---
 
-:::tip
+:::note
 
-Prefix all keys below with `service.$name.`
-
-See available service keys [here](./index.md).
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.service.$name`
+
+:::tip
+
+- See available service keys [here](./index.md).
+- This options apply only when `type: ExternalIP`.
+
+:::
 
 ---
 
@@ -20,32 +26,42 @@ Appears in:
 
 Configure External IP type
 
-|          |              |
-| -------- | ------------ |
-| Key      | `externalIP` |
-| Type     | `string`     |
-| Required | `❌`         |
-| tpl      | `✅`         |
-| Default  | `""`         |
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `service.$name.externalIP` |
+| Type       | `string`                   |
+| Required   | `❌`                       |
+| Helm `tpl` | `✅`                       |
+| Default    | `""`                       |
+
+Example
+
+```yaml
+service:
+  some-service:
+    externalIP: 1.2.3.4
+```
 
 ---
 
 ## `useSlice`
 
-Define whether to use EndpointSlice or Endpoint
+Define whether to use `EndpointSlice` or `Endpoint`
 
-|          |            |
-| -------- | ---------- |
-| Key      | `useSlice` |
-| Type     | `bool`     |
-| Required | `❌`       |
-| tpl      | `❌`       |
-| Default  | `true`     |
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `service.$name.useSlice` |
+| Type       | `bool`                   |
+| Required   | `❌`                     |
+| Helm `tpl` | `❌`                     |
+| Default    | `true`                   |
 
 Example
 
 ```yaml
-useSlice: false
+service:
+  some-service:
+    useSlice: false
 ```
 
 ---
@@ -54,13 +70,13 @@ useSlice: false
 
 Define the addressType for External IP
 
-|          |               |
-| -------- | ------------- |
-| Key      | `addressType` |
-| Type     | `string`      |
-| Required | `❌`          |
-| tpl      | `✅`          |
-| Default  | `IPv4`        |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `service.$name.addressType` |
+| Type       | `string`                    |
+| Required   | `❌`                        |
+| Helm `tpl` | `✅`                        |
+| Default    | `IPv4`                      |
 
 Valid Values:
 
@@ -71,7 +87,9 @@ Valid Values:
 Example
 
 ```yaml
-addressType: IPv6
+service:
+  some-service:
+    addressType: IPv6
 ```
 
 ---
@@ -80,18 +98,20 @@ addressType: IPv6
 
 Define the appProtocol for External IP
 
-|          |               |
-| -------- | ------------- |
-| Key      | `appProtocol` |
-| Type     | `string`      |
-| Required | `❌`          |
-| tpl      | `✅`          |
-| Default  | `""`          |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `service.$name.appProtocol` |
+| Type       | `string`                    |
+| Required   | `❌`                        |
+| Helm `tpl` | `✅`                        |
+| Default    | `""`                        |
 
 Example
 
 ```yaml
-appProtocol: http
+service:
+  some-service:
+    appProtocol: http
 ```
 
 ---
@@ -100,13 +120,13 @@ appProtocol: http
 
 Define the session affinity (ClientIP, None)
 
-|          |                   |
-| -------- | ----------------- |
-| Key      | `sessionAffinity` |
-| Type     | `string`          |
-| Required | `❌`              |
-| tpl      | `✅`              |
-| Default  | `""`              |
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `service.$name.sessionAffinity` |
+| Type       | `string`                        |
+| Required   | `❌`                            |
+| Helm `tpl` | `✅`                            |
+| Default    | `""`                            |
 
 Valid Values:
 
@@ -116,7 +136,9 @@ Valid Values:
 Example
 
 ```yaml
-sessionAffinity: ClientIP
+service:
+  some-service:
+    sessionAffinity: ClientIP
 ```
 
 ---
@@ -125,13 +147,13 @@ sessionAffinity: ClientIP
 
 Define the timeout for ClientIP session affinity (0-86400)
 
-|          |                                                 |
-| -------- | ----------------------------------------------- |
-| Key      | `sessionAffinityConfig.clientIP.timeoutSeconds` |
-| Type     | `int`                                           |
-| Required | `❌`                                            |
-| tpl      | `✅`                                            |
-| Default  | `""`                                            |
+|            |                                                               |
+| ---------- | ------------------------------------------------------------- |
+| Key        | `service.$name.sessionAffinityConfig.clientIP.timeoutSeconds` |
+| Type       | `int`                                                         |
+| Required   | `❌`                                                          |
+| Helm `tpl` | `✅`                                                          |
+| Default    | `""`                                                          |
 
 Valid Values:
 
@@ -140,9 +162,11 @@ Valid Values:
 Example
 
 ```yaml
-sessionAffinityConfig:
-  clientIP:
-    timeoutSeconds: 86400
+service:
+  some-service:
+    sessionAffinityConfig:
+      clientIP:
+        timeoutSeconds: 86400
 ```
 
 ---
@@ -151,20 +175,22 @@ sessionAffinityConfig:
 
 Define externalIPs
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `externalIPs`          |
-| Type     | `list` of `string`     |
-| Required | `❌`                   |
-| tpl      | `✅` (On entries only) |
-| Default  | `[]`                   |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `service.$name.externalIPs` |
+| Type       | `list` of `string`          |
+| Required   | `❌`                        |
+| Helm `tpl` | `✅` (On entries only)      |
+| Default    | `[]`                        |
 
 Example
 
 ```yaml
-externalIPs:
-  - 1.2.3.4
-  - 5.6.7.8
+service:
+  some-service:
+    externalIPs:
+      - 1.2.3.4
+      - 5.6.7.8
 ```
 
 ---
@@ -173,13 +199,13 @@ externalIPs:
 
 Define the external traffic policy (Cluster, Local)
 
-|          |                         |
-| -------- | ----------------------- |
-| Key      | `externalTrafficPolicy` |
-| Type     | `string`                |
-| Required | `❌`                    |
-| tpl      | `✅`                    |
-| Default  | `""`                    |
+|            |                                       |
+| ---------- | ------------------------------------- |
+| Key        | `service.$name.externalTrafficPolicy` |
+| Type       | `string`                              |
+| Required   | `❌`                                  |
+| Helm `tpl` | `✅`                                  |
+| Default    | `""`                                  |
 
 Valid Values:
 
@@ -189,7 +215,9 @@ Valid Values:
 Example
 
 ```yaml
-externalTrafficPolicy: Cluster
+service:
+  some-service:
+    externalTrafficPolicy: Cluster
 ```
 
 ---

@@ -31,13 +31,13 @@ title: Webhook
 
 Create webhook objects
 
-|          |           |
-| -------- | --------- |
-| Key      | `webhook` |
-| Type     | `map`     |
-| Required | `❌`      |
-| tpl      | `❌`      |
-| Default  | `{}`      |
+|            |           |
+| ---------- | --------- |
+| Key        | `webhook` |
+| Type       | `map`     |
+| Required   | `❌`      |
+| Helm `tpl` | `❌`      |
+| Default    | `{}`      |
 
 Example
 
@@ -47,17 +47,17 @@ webhook: {}
 
 ---
 
-### `webhook.$name`
+### `$name`
 
 Define a webhook object with the given name
 
-|          |                 |
-| -------- | --------------- |
-| Key      | `webhook.$name` |
-| Type     | `map`           |
-| Required | `✅`            |
-| tpl      | `❌`            |
-| Default  | `{}`            |
+|            |                 |
+| ---------- | --------------- |
+| Key        | `webhook.$name` |
+| Type       | `map`           |
+| Required   | `✅`            |
+| Helm `tpl` | `❌`            |
+| Default    | `{}`            |
 
 Example
 
@@ -72,13 +72,13 @@ webhook:
 
 Enables or Disables the webhook
 
-|          |                         |
-| -------- | ----------------------- |
-| Key      | `webhook.$name.enabled` |
-| Type     | `bool`                  |
-| Required | `✅`                    |
-| tpl      | `❌`                    |
-| Default  | `false`                 |
+|            |                         |
+| ---------- | ----------------------- |
+| Key        | `webhook.$name.enabled` |
+| Type       | `bool`                  |
+| Required   | `✅`                    |
+| Helm `tpl` | `❌`                    |
+| Default    | `false`                 |
 
 Example
 
@@ -94,13 +94,13 @@ webhook:
 
 Define the namespace for this object
 
-|          |                           |
-| -------- | ------------------------- |
-| Key      | `webhook.$name.namespace` |
-| Type     | `string`                  |
-| Required | `❌`                      |
-| tpl      | `✅ (On value only)`      |
-| Default  | `""`                      |
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `webhook.$name.namespace` |
+| Type       | `string`                  |
+| Required   | `❌`                      |
+| Helm `tpl` | `✅ (On value only)`      |
+| Default    | `""`                      |
 
 Example
 
@@ -116,13 +116,13 @@ webhook:
 
 Additional labels for webhook
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `webhook.$name.labels` |
-| Type     | `map`                  |
-| Required | `❌`                   |
-| tpl      | `✅ (On value only)`   |
-| Default  | `{}`                   |
+|            |                        |
+| ---------- | ---------------------- |
+| Key        | `webhook.$name.labels` |
+| Type       | `map`                  |
+| Required   | `❌`                   |
+| Helm `tpl` | `✅ (On value only)`   |
+| Default    | `{}`                   |
 
 Example
 
@@ -140,13 +140,13 @@ webhook:
 
 Additional annotations for webhook
 
-|          |                             |
-| -------- | --------------------------- |
-| Key      | `webhook.$name.annotations` |
-| Type     | `map`                       |
-| Required | `❌`                        |
-| tpl      | `✅ (On value only)`        |
-| Default  | `{}`                        |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `webhook.$name.annotations` |
+| Type       | `map`                       |
+| Required   | `❌`                        |
+| Helm `tpl` | `✅ (On value only)`        |
+| Default    | `{}`                        |
 
 Example
 
@@ -164,13 +164,13 @@ webhook:
 
 Define the type of the webhook.
 
-|          |                      |
-| -------- | -------------------- |
-| Key      | `webhook.$name.type` |
-| Type     | `string`             |
-| Required | `✅`                 |
-| tpl      | `✅`                 |
-| Default  | `""`                 |
+|            |                      |
+| ---------- | -------------------- |
+| Key        | `webhook.$name.type` |
+| Type       | `string`             |
+| Required   | `✅`                 |
+| Helm `tpl` | `✅`                 |
+| Default    | `""`                 |
 
 Valid Values:
 
@@ -191,13 +191,13 @@ webhook:
 
 Define the webhooks.
 
-|          |                          |
-| -------- | ------------------------ |
-| Key      | `webhook.$name.webhooks` |
-| Type     | `list` of `map`          |
-| Required | `✅`                     |
-| tpl      | `❌`                     |
-| Default  | `[]`                     |
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `webhook.$name.webhooks` |
+| Type       | `list` of `map`          |
+| Required   | `✅`                     |
+| Helm `tpl` | `❌`                     |
+| Default    | `[]`                     |
 
 Example
 
@@ -213,13 +213,13 @@ webhook:
 
 Define the webhook name
 
-|          |                                 |
-| -------- | ------------------------------- |
-| Key      | `webhook.$name.webhooks[].name` |
-| Type     | `string`                        |
-| Required | `✅`                            |
-| tpl      | `✅`                            |
-| Default  | `""`                            |
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `webhook.$name.webhooks[].name` |
+| Type       | `string`                        |
+| Required   | `✅`                            |
+| Helm `tpl` | `✅`                            |
+| Default    | `""`                            |
 
 Example
 
@@ -236,13 +236,13 @@ webhook:
 
 Define the failurePolicy for the webhook
 
-|          |                                          |
-| -------- | ---------------------------------------- |
-| Key      | `webhook.$name.webhooks[].failurePolicy` |
-| Type     | `string`                                 |
-| Required | `❌`                                     |
-| tpl      | `✅`                                     |
-| Default  | `""`                                     |
+|            |                                          |
+| ---------- | ---------------------------------------- |
+| Key        | `webhook.$name.webhooks[].failurePolicy` |
+| Type       | `string`                                 |
+| Required   | `❌`                                     |
+| Helm `tpl` | `✅`                                     |
+| Default    | `""`                                     |
 
 Valid Values:
 
@@ -264,13 +264,13 @@ webhook:
 
 Define the matchPolicy for the webhook
 
-|          |                                        |
-| -------- | -------------------------------------- |
-| Key      | `webhook.$name.webhooks[].matchPolicy` |
-| Type     | `string`                               |
-| Required | `❌`                                   |
-| tpl      | `✅`                                   |
-| Default  | `""`                                   |
+|            |                                        |
+| ---------- | -------------------------------------- |
+| Key        | `webhook.$name.webhooks[].matchPolicy` |
+| Type       | `string`                               |
+| Required   | `❌`                                   |
+| Helm `tpl` | `✅`                                   |
+| Default    | `""`                                   |
 
 Valid Values:
 
@@ -292,13 +292,13 @@ webhook:
 
 Define the sideEffects for the webhook
 
-|          |                                        |
-| -------- | -------------------------------------- |
-| Key      | `webhook.$name.webhooks[].sideEffects` |
-| Type     | `string`                               |
-| Required | `❌`                                   |
-| tpl      | `✅`                                   |
-| Default  | `""`                                   |
+|            |                                        |
+| ---------- | -------------------------------------- |
+| Key        | `webhook.$name.webhooks[].sideEffects` |
+| Type       | `string`                               |
+| Required   | `❌`                                   |
+| Helm `tpl` | `✅`                                   |
+| Default    | `""`                                   |
 
 Valid Values:
 
@@ -320,13 +320,13 @@ webhook:
 
 Define the reinvocationPolicy for the webhook
 
-|          |                                               |
-| -------- | --------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].reinvocationPolicy` |
-| Type     | `string`                                      |
-| Required | `❌`                                          |
-| tpl      | `✅`                                          |
-| Default  | `""`                                          |
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].reinvocationPolicy` |
+| Type       | `string`                                      |
+| Required   | `❌`                                          |
+| Helm `tpl` | `✅`                                          |
+| Default    | `""`                                          |
 
 Valid Values:
 
@@ -348,13 +348,13 @@ webhook:
 
 Define the timeoutSeconds for the webhook
 
-|          |                                           |
-| -------- | ----------------------------------------- |
-| Key      | `webhook.$name.webhooks[].timeoutSeconds` |
-| Type     | `int`                                     |
-| Required | `❌`                                      |
-| tpl      | `✅`                                      |
-| Default  | `""`                                      |
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Key        | `webhook.$name.webhooks[].timeoutSeconds` |
+| Type       | `int`                                     |
+| Required   | `❌`                                      |
+| Helm `tpl` | `✅`                                      |
+| Default    | `""`                                      |
 
 Example
 
@@ -371,13 +371,13 @@ webhook:
 
 Define the admissionReviewVersions for the webhook
 
-|          |                                                    |
-| -------- | -------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].admissionReviewVersions` |
-| Type     | `list` of `string`                                 |
-| Required | `✅`                                               |
-| tpl      | `✅`                                               |
-| Default  | `[]`                                               |
+|            |                                                    |
+| ---------- | -------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].admissionReviewVersions` |
+| Type       | `list` of `string`                                 |
+| Required   | `✅`                                               |
+| Helm `tpl` | `✅`                                               |
+| Default    | `[]`                                               |
 
 Example
 
@@ -396,13 +396,13 @@ webhook:
 
 Define the clientConfig for the webhook
 
-|          |                                         |
-| -------- | --------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig` |
-| Type     | `map`                                   |
-| Required | `✅`                                    |
-| tpl      | `❌`                                    |
-| Default  | `{}`                                    |
+|            |                                         |
+| ---------- | --------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig` |
+| Type       | `map`                                   |
+| Required   | `✅`                                    |
+| Helm `tpl` | `❌`                                    |
+| Default    | `{}`                                    |
 
 ---
 
@@ -410,13 +410,13 @@ Define the clientConfig for the webhook
 
 Define the caBundle in clientConfig for the webhook
 
-|          |                                                  |
-| -------- | ------------------------------------------------ |
-| Key      | `webhook.$name.webhooks[].clientConfig.caBundle` |
-| Type     | `string`                                         |
-| Required | `❌`                                             |
-| tpl      | `✅`                                             |
-| Default  | `""`                                             |
+|            |                                                  |
+| ---------- | ------------------------------------------------ |
+| Key        | `webhook.$name.webhooks[].clientConfig.caBundle` |
+| Type       | `string`                                         |
+| Required   | `❌`                                             |
+| Helm `tpl` | `✅`                                             |
+| Default    | `""`                                             |
 
 Example
 
@@ -432,13 +432,13 @@ webhook:
 
 Define the url in clientConfig for the webhook, required if service is not defined in clientConfig
 
-|          |                                             |
-| -------- | ------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.url` |
-| Type     | `string`                                    |
-| Required | `❌`                                        |
-| tpl      | `✅`                                        |
-| Default  | `""`                                        |
+|            |                                             |
+| ---------- | ------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.url` |
+| Type       | `string`                                    |
+| Required   | `❌`                                        |
+| Helm `tpl` | `✅`                                        |
+| Default    | `""`                                        |
 
 Example
 
@@ -456,13 +456,13 @@ webhook:
 
 Define the service in clientConfig for the webhook, required if url is not defined in clientConfig
 
-|          |                                                 |
-| -------- | ----------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service` |
-| Type     | `map`                                           |
-| Required | `❌`                                            |
-| tpl      | `❌`                                            |
-| Default  | `{}`                                            |
+|            |                                                 |
+| ---------- | ----------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service` |
+| Type       | `map`                                           |
+| Required   | `❌`                                            |
+| Helm `tpl` | `❌`                                            |
+| Default    | `{}`                                            |
 
 Example
 
@@ -480,13 +480,13 @@ webhook:
 
 Define the service name in clientConfig for the webhook
 
-|          |                                                      |
-| -------- | ---------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service.name` |
-| Type     | `string`                                             |
-| Required | `✅`                                                 |
-| tpl      | `✅`                                                 |
-| Default  | `""`                                                 |
+|            |                                                      |
+| ---------- | ---------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service.name` |
+| Type       | `string`                                             |
+| Required   | `✅`                                                 |
+| Helm `tpl` | `✅`                                                 |
+| Default    | `""`                                                 |
 
 Example
 
@@ -505,13 +505,13 @@ webhook:
 
 Define the service namespace in clientConfig for the webhook
 
-|          |                                                           |
-| -------- | --------------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service.namespace` |
-| Type     | `string`                                                  |
-| Required | `✅`                                                      |
-| tpl      | `✅`                                                      |
-| Default  | `""`                                                      |
+|            |                                                           |
+| ---------- | --------------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service.namespace` |
+| Type       | `string`                                                  |
+| Required   | `✅`                                                      |
+| Helm `tpl` | `✅`                                                      |
+| Default    | `""`                                                      |
 
 Example
 
@@ -530,13 +530,13 @@ webhook:
 
 Define the service path in clientConfig for the webhook
 
-|          |                                                      |
-| -------- | ---------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service.path` |
-| Type     | `string`                                             |
-| Required | `❌`                                                 |
-| tpl      | `✅`                                                 |
-| Default  | `""`                                                 |
+|            |                                                      |
+| ---------- | ---------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service.path` |
+| Type       | `string`                                             |
+| Required   | `❌`                                                 |
+| Helm `tpl` | `✅`                                                 |
+| Default    | `""`                                                 |
 
 Example
 
@@ -555,13 +555,13 @@ webhook:
 
 Define the service port in clientConfig for the webhook
 
-|          |                                                      |
-| -------- | ---------------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].clientConfig.service.port` |
-| Type     | `int`                                                |
-| Required | `❌`                                                 |
-| tpl      | `✅`                                                 |
-| Default  | unset                                                |
+|            |                                                      |
+| ---------- | ---------------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].clientConfig.service.port` |
+| Type       | `int`                                                |
+| Required   | `❌`                                                 |
+| Helm `tpl` | `✅`                                                 |
+| Default    | unset                                                |
 
 Example
 
@@ -580,13 +580,13 @@ webhook:
 
 Define the rules for the webhook
 
-|          |                                  |
-| -------- | -------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules` |
-| Type     | `list` of `map`                  |
-| Required | `✅`                             |
-| tpl      | `❌`                             |
-| Default  | `[]`                             |
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules` |
+| Type       | `list` of `map`                  |
+| Required   | `✅`                             |
+| Helm `tpl` | `❌`                             |
+| Default    | `[]`                             |
 
 Example
 
@@ -603,13 +603,13 @@ webhook:
 
 Define the scope of the rule for the webhook
 
-|          |                                          |
-| -------- | ---------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].scope` |
-| Type     | `string`                                 |
-| Required | `❌`                                     |
-| tpl      | `✅`                                     |
-| Default  | `""`                                     |
+|            |                                          |
+| ---------- | ---------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].scope` |
+| Type       | `string`                                 |
+| Required   | `❌`                                     |
+| Helm `tpl` | `✅`                                     |
+| Default    | `""`                                     |
 
 Valid Values:
 
@@ -633,13 +633,13 @@ webhook:
 
 Define the apiGroups of the rule for the webhook
 
-|          |                                              |
-| -------- | -------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].apiGroups` |
-| Type     | `list` of `string`                           |
-| Required | `✅`                                         |
-| tpl      | `❌`                                         |
-| Default  | `[]`                                         |
+|            |                                              |
+| ---------- | -------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].apiGroups` |
+| Type       | `list` of `string`                           |
+| Required   | `✅`                                         |
+| Helm `tpl` | `❌`                                         |
+| Default    | `[]`                                         |
 
 Example
 
@@ -659,13 +659,13 @@ webhook:
 
 Define the apiVersions of the rule for the webhook
 
-|          |                                                |
-| -------- | ---------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].apiVersions` |
-| Type     | `list` of `string`                             |
-| Required | `✅`                                           |
-| tpl      | `❌`                                           |
-| Default  | `[]`                                           |
+|            |                                                |
+| ---------- | ---------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].apiVersions` |
+| Type       | `list` of `string`                             |
+| Required   | `✅`                                           |
+| Helm `tpl` | `❌`                                           |
+| Default    | `[]`                                           |
 
 Example
 
@@ -685,13 +685,13 @@ webhook:
 
 Define the operations of the rule for the webhook
 
-|          |                                               |
-| -------- | --------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].operations` |
-| Type     | `list` of `string`                            |
-| Required | `✅`                                          |
-| tpl      | `❌`                                          |
-| Default  | `[]`                                          |
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].operations` |
+| Type       | `list` of `string`                            |
+| Required   | `✅`                                          |
+| Helm `tpl` | `❌`                                          |
+| Default    | `[]`                                          |
 
 Example
 
@@ -711,13 +711,13 @@ webhook:
 
 Define the resources of the rule for the webhook
 
-|          |                                              |
-| -------- | -------------------------------------------- |
-| Key      | `webhook.$name.webhooks[].rules[].resources` |
-| Type     | `list` of `string`                           |
-| Required | `✅`                                         |
-| tpl      | `❌`                                         |
-| Default  | `[]`                                         |
+|            |                                              |
+| ---------- | -------------------------------------------- |
+| Key        | `webhook.$name.webhooks[].rules[].resources` |
+| Type       | `list` of `string`                           |
+| Required   | `✅`                                         |
+| Helm `tpl` | `❌`                                         |
+| Default    | `[]`                                         |
 
 Example
 

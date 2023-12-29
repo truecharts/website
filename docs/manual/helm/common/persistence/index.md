@@ -2,19 +2,26 @@
 title: Persistence
 ---
 
-:::tip
+:::note
 
-Replace references to `$name`, `$podName`, `$containerName` with the actual name you want to use.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.persistence`
 
 ## Naming scheme
 
 - `$FullName-$PersistenceName` (release-name-chart-name-PersistenceName)
+
+:::tip
+
+- Replace references to `$name`, `$podName`, `$containerName` with the actual name you want to use.
+
+:::
 
 ---
 
@@ -28,61 +35,76 @@ Appears in:
 
 Define persistence objects
 
-|          |               |
-| -------- | ------------- |
-| Key      | `persistence` |
-| Type     | `map`         |
-| Required | `❌`          |
-| tpl      | `❌`          |
-| Default  | `{}`          |
-
----
-
-### `persistence.$name`
-
-Define persistence
-
-|          |                     |
-| -------- | ------------------- |
-| Key      | `persistence.$name` |
-| Type     | `map`               |
-| Required | `✅`                |
-| tpl      | `❌`                |
-| Default  | `{}`                |
-
----
-
-#### `persistence.$name.enabled`
-
-Enables or Disables the persistence
-
-|          |                             |
-| -------- | --------------------------- |
-| Key      | `persistence.$name.enabled` |
-| Type     | `bool`                      |
-| Required | `✅`                        |
-| tpl      | `❌`                        |
-| Default  | `false`                     |
+|            |               |
+| ---------- | ------------- |
+| Key        | `persistence` |
+| Type       | `map`         |
+| Required   | `❌`          |
+| Helm `tpl` | `❌`          |
+| Default    | `{}`          |
 
 Example
 
 ```yaml
-enabled: true
+persistence: {}
 ```
 
 ---
 
-#### `persistence.$name.type`
+### `$name`
+
+Define persistence
+
+|            |                     |
+| ---------- | ------------------- |
+| Key        | `persistence.$name` |
+| Type       | `map`               |
+| Required   | `✅`                |
+| Helm `tpl` | `❌`                |
+| Default    | `{}`                |
+
+Example
+
+```yaml
+persistence:
+  some-vol: {}
+```
+
+---
+
+#### `enabled`
+
+Enables or Disables the persistence
+
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `persistence.$name.enabled` |
+| Type       | `bool`                      |
+| Required   | `✅`                        |
+| Helm `tpl` | `❌`                        |
+| Default    | `false`                     |
+
+Example
+
+```yaml
+persistence:
+  some-vol:
+    enabled: true
+```
+
+---
+
+#### `type`
 
 Define the persistence type
 
-|          |                                                  |
-| -------- | ------------------------------------------------ |
-| Key      | `persistence.$name.type`                         |
-| Type     | `string`                                         |
-| Required | `❌`                                             |
-| tpl      | `❌`                                             |
-| Default  | `{{ .Values.fallbackDefaults.persistenceType }}` |
+|            |                                                  |
+| ---------- | ------------------------------------------------ |
+| Key        | `persistence.$name.type`                         |
+| Type       | `string`                                         |
+| Required   | `❌`                                             |
+| Helm `tpl` | `❌`                                             |
+| Default    | `{{ .Values.fallbackDefaults.persistenceType }}` |
 
 Valid Values:
 
@@ -100,42 +122,46 @@ Valid Values:
 Example
 
 ```yaml
-type: pvc
+persistence:
+  some-vol:
+    type: pvc
 ```
 
 ---
 
-#### `persistence.$name.mountPath`
+#### `mountPath`
 
 Define the mountPath for the persistence, applies to all containers that are selected
 
-|          |                               |
-| -------- | ----------------------------- |
-| Key      | `persistence.$name.mountPath` |
-| Type     | `string`                      |
-| Required | `❌`                          |
-| tpl      | `❌`                          |
-| Default  | `""`                          |
+|            |                               |
+| ---------- | ----------------------------- |
+| Key        | `persistence.$name.mountPath` |
+| Type       | `string`                      |
+| Required   | `❌`                          |
+| Helm `tpl` | `❌`                          |
+| Default    | `""`                          |
 
 Example
 
 ```yaml
-mountPath: /path
+persistence:
+  some-vol:
+    mountPath: /path
 ```
 
 ---
 
-#### `persistence.$name.mountPropagation`
+#### `mountPropagation`
 
 Define the mountPropagation for the persistence, applies to all containers that are selected
 
-|          |                                      |
-| -------- | ------------------------------------ |
-| Key      | `persistence.$name.mountPropagation` |
-| Type     | `string`                             |
-| Required | `❌`                                 |
-| tpl      | `❌`                                 |
-| Default  | `""`                                 |
+|            |                                      |
+| ---------- | ------------------------------------ |
+| Key        | `persistence.$name.mountPropagation` |
+| Type       | `string`                             |
+| Required   | `❌`                                 |
+| Helm `tpl` | `❌`                                 |
+| Default    | `""`                                 |
 
 Valid Values:
 
@@ -146,240 +172,245 @@ Valid Values:
 Example
 
 ```yaml
-mountPropagation: HostToContainer
+persistence:
+  some-vol:
+    mountPropagation: HostToContainer
 ```
 
 ---
 
-#### `persistence.$name.subPath`
+#### `subPath`
 
 Define the subPath for the persistence, applies to all containers that are selected
 
-|          |                             |
-| -------- | --------------------------- |
-| Key      | `persistence.$name.subPath` |
-| Type     | `string`                    |
-| Required | `❌`                        |
-| tpl      | `❌`                        |
-| Default  | `""`                        |
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `persistence.$name.subPath` |
+| Type       | `string`                    |
+| Required   | `❌`                        |
+| Helm `tpl` | `❌`                        |
+| Default    | `""`                        |
 
 Example
 
 ```yaml
-subPath: some-path
+persistence:
+  some-vol:
+    subPath: some-path
 ```
 
 ---
 
-#### `persistence.$name.readOnly`
+#### `readOnly`
 
 Define the readOnly for the persistence, applies to all containers that are selected
 
-|          |                              |
-| -------- | ---------------------------- |
-| Key      | `persistence.$name.readOnly` |
-| Type     | `bool`                       |
-| Required | `❌`                         |
-| tpl      | `❌`                         |
-| Default  | `false`                      |
+|            |                              |
+| ---------- | ---------------------------- |
+| Key        | `persistence.$name.readOnly` |
+| Type       | `bool`                       |
+| Required   | `❌`                         |
+| Helm `tpl` | `❌`                         |
+| Default    | `false`                      |
 
 Example
 
 ```yaml
-readOnly: true
+persistence:
+  some-vol:
+    readOnly: true
 ```
 
 ---
 
-#### `persistence.$name.targetSelectAll`
+#### `targetSelectAll`
 
 Define wether to define this volume to all workloads and mount it on all containers
 
-|          |                                                             |
-| -------- | ----------------------------------------------------------- |
-| Key      | `persistence.$name.targetSelectAll`                         |
-| Type     | `bool`                                                      |
-| Required | `❌`                                                        |
-| tpl      | `❌`                                                        |
-| Default  | `{{ .Values.fallbackDefaults.persistenceTargetSelectAll }}` |
+|            |                                                             |
+| ---------- | ----------------------------------------------------------- |
+| Key        | `persistence.$name.targetSelectAll`                         |
+| Type       | `bool`                                                      |
+| Required   | `❌`                                                        |
+| Helm `tpl` | `❌`                                                        |
+| Default    | `{{ .Values.fallbackDefaults.persistenceTargetSelectAll }}` |
 
 Example
 
 ```yaml
-targetSelectAll: true
+persistence:
+  some-vol:
+    targetSelectAll: true
 ```
 
 ---
 
-#### `persistence.$name.targetSelector`
+#### `targetSelector`
 
 Define a map with pod and containers to mount
 
-|          |                                    |
-| -------- | ---------------------------------- |
-| Key      | `persistence.$name.targetSelector` |
-| Type     | `map`                              |
-| Required | `❌`                               |
-| tpl      | `❌`                               |
-| Default  | `{}`                               |
+|            |                                    |
+| ---------- | ---------------------------------- |
+| Key        | `persistence.$name.targetSelector` |
+| Type       | `map`                              |
+| Required   | `❌`                               |
+| Helm `tpl` | `❌`                               |
+| Default    | `{}`                               |
 
 Example
 
 ```yaml
-targetSelector: {}
+persistence:
+  some-vol:
+    targetSelector: {}
 ```
 
 ---
 
-#### `persistence.$name.targetSelector.$podName`
+#### `targetSelector.$podName`
 
 Define a map named after the pod to define the volume
 
-|          |                                             |
-| -------- | ------------------------------------------- |
-| Key      | `persistence.$name.targetSelector.$podName` |
-| Type     | `map`                                       |
-| Required | `❌`                                        |
-| tpl      | `❌`                                        |
-| Default  | `{}`                                        |
+|            |                                             |
+| ---------- | ------------------------------------------- |
+| Key        | `persistence.$name.targetSelector.$podName` |
+| Type       | `map`                                       |
+| Required   | `❌`                                        |
+| Helm `tpl` | `❌`                                        |
+| Default    | `{}`                                        |
 
 Example
 
 ```yaml
-targetSelector:
-  my-pod: {}
+persistence:
+  some-vol:
+    targetSelector:
+      my-pod: {}
 ```
 
 ---
 
-#### `persistence.$name.targetSelector.$podName.$containerName`
+#### `targetSelector.$podName.$containerName`
 
 Define a map named after the container to mount the volume
 
-|          |                                                            |
-| -------- | ---------------------------------------------------------- |
-| Key      | `persistence.$name.targetSelector.$podName.$containerName` |
-| Type     | `map`                                                      |
-| Required | `❌`                                                       |
-| tpl      | `❌`                                                       |
-| Default  | `{}`                                                       |
+|            |                                                            |
+| ---------- | ---------------------------------------------------------- |
+| Key        | `persistence.$name.targetSelector.$podName.$containerName` |
+| Type       | `map`                                                      |
+| Required   | `❌`                                                       |
+| Helm `tpl` | `❌`                                                       |
+| Default    | `{}`                                                       |
 
 Example
 
 ```yaml
-targetSelector:
-  my-pod:
-    my-container: {}
+persistence:
+  some-vol:
+    targetSelector:
+      my-pod:
+        my-container: {}
 ```
 
 ---
 
-##### `persistence.$name.targetSelector.$podName.$containerName.mountPath`
+##### `targetSelector.$podName.$containerName.mountPath`
 
 Define the mountPath for the container
 
-|          |                                                                      |
-| -------- | -------------------------------------------------------------------- |
-| Key      | `persistence.$name.targetSelector.$podName.$containerName.mountPath` |
-| Type     | `string`                                                             |
-| Required | `❌`                                                                 |
-| tpl      | `❌`                                                                 |
-| Default  | `$name.mountPath`                                                    |
+|            |                                                                      |
+| ---------- | -------------------------------------------------------------------- |
+| Key        | `persistence.$name.targetSelector.$podName.$containerName.mountPath` |
+| Type       | `string`                                                             |
+| Required   | `❌`                                                                 |
+| Helm `tpl` | `❌`                                                                 |
+| Default    | `$name.mountPath`                                                    |
 
 Example
 
 ```yaml
-targetSelector:
-  my-pod:
-    my-container:
-      mountPath: /path
+persistence:
+  some-vol:
+    targetSelector:
+      my-pod:
+        my-container:
+          mountPath: /path
 ```
 
 ---
 
-##### `persistence.$name.targetSelector.$podName.$containerName.mountPropagation`
+##### `targetSelector.$podName.$containerName.mountPropagation`
 
 Define the mountPropagation for the container
 
-|          |                                                                             |
-| -------- | --------------------------------------------------------------------------- |
-| Key      | `persistence.$name.targetSelector.$podName.$containerName.mountPropagation` |
-| Type     | `string`                                                                    |
-| Required | `❌`                                                                        |
-| tpl      | `❌`                                                                        |
-| Default  | `$name.mountPropagation`                                                    |
+|            |                                                                             |
+| ---------- | --------------------------------------------------------------------------- |
+| Key        | `persistence.$name.targetSelector.$podName.$containerName.mountPropagation` |
+| Type       | `string`                                                                    |
+| Required   | `❌`                                                                        |
+| Helm `tpl` | `❌`                                                                        |
+| Default    | `$name.mountPropagation`                                                    |
 
 Example
 
 ```yaml
-targetSelector:
-  my-pod:
-    my-container:
-      mountPropagation: HostToContainer
+persistence:
+  some-vol:
+    targetSelector:
+      my-pod:
+        my-container:
+          mountPropagation: HostToContainer
 ```
 
 ---
 
-##### `persistence.$name.targetSelector.$podName.$containerName.subPath`
+##### `targetSelector.$podName.$containerName.subPath`
 
 Define the subPath for the container
 
-|          |                                                                    |
-| -------- | ------------------------------------------------------------------ |
-| Key      | `persistence.$name.targetSelector.$podName.$containerName.subPath` |
-| Type     | `string`                                                           |
-| Required | `❌`                                                               |
-| tpl      | `❌`                                                               |
-| Default  | `$name.subPath`                                                    |
+|            |                                                                    |
+| ---------- | ------------------------------------------------------------------ |
+| Key        | `persistence.$name.targetSelector.$podName.$containerName.subPath` |
+| Type       | `string`                                                           |
+| Required   | `❌`                                                               |
+| Helm `tpl` | `❌`                                                               |
+| Default    | `$name.subPath`                                                    |
 
 Example
 
 ```yaml
-targetSelector:
-  my-pod:
-    my-container:
-      subPath: some-path
+persistence:
+  some-vol:
+    targetSelector:
+      my-pod:
+        my-container:
+          subPath: some-path
 ```
 
 ---
 
-##### `persistence.$name.targetSelector.$podName.$containerName.readOnly`
+##### `targetSelector.$podName.$containerName.readOnly`
 
 Define the readOnly for the container
 
-|          |                                                                     |
-| -------- | ------------------------------------------------------------------- |
-| Key      | `persistence.$name.targetSelector.$podName.$containerName.readOnly` |
-| Type     | `bool`                                                              |
-| Required | `❌`                                                                |
-| tpl      | `❌`                                                                |
-| Default  | `$name.readOnly`                                                    |
+|            |                                                                     |
+| ---------- | ------------------------------------------------------------------- |
+| Key        | `persistence.$name.targetSelector.$podName.$containerName.readOnly` |
+| Type       | `bool`                                                              |
+| Required   | `❌`                                                                |
+| Helm `tpl` | `❌`                                                                |
+| Default    | `$name.readOnly`                                                    |
 
 Example
 
 ```yaml
-targetSelector:
-  my-pod:
-    my-container:
-      readOnly: true
+persistence:
+  some-vol:
+    targetSelector:
+      my-pod:
+        my-container:
+          readOnly: true
 ```
-
----
-
-## Full Examples
-
-Full examples can be found under each persistence type
-
-- [hostPath](hostPath.md)
-- [configmap](configmap.md)
-- [secret](secret.md)
-- [device](device.md)
-- [pvc](pvc.md)
-- [vct](vct.md)
-- [nfs](nfs.md)
-- [emptyDir](emptyDir.md)
-- [ixVolume](ixVolume.md)
-- [iscsi](iscsi.md)
 
 ---
 
@@ -427,3 +458,20 @@ persistence:
           mountPath: /other/path
           readOnly: false
 ```
+
+---
+
+## Full Examples
+
+Full examples can be found under each persistence type
+
+- [hostPath](hostPath.md)
+- [configmap](configmap.md)
+- [secret](secret.md)
+- [device](device.md)
+- [pvc](pvc.md)
+- [vct](vct.md)
+- [nfs](nfs.md)
+- [emptyDir](emptyDir.md)
+- [ixVolume](ixVolume.md)
+- [iscsi](iscsi.md)

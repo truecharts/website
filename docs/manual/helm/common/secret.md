@@ -19,7 +19,7 @@ title: Secret
 
 :::tip
 
-Replace references to `$name` with the actual name you want to use.
+- Replace references to `$name` with the actual name you want to use.
 
 :::
 
@@ -29,13 +29,13 @@ Replace references to `$name` with the actual name you want to use.
 
 Create Secret objects
 
-|          |          |
-| -------- | -------- |
-| Key      | `secret` |
-| Type     | `map`    |
-| Required | `❌`     |
-| tpl      | `❌`     |
-| Default  | `{}`     |
+|            |          |
+| ---------- | -------- |
+| Key        | `secret` |
+| Type       | `map`    |
+| Required   | `❌`     |
+| Helm `tpl` | `❌`     |
+| Default    | `{}`     |
 
 Example
 
@@ -45,17 +45,17 @@ secret: {}
 
 ---
 
-### `secret.$name`
+### `$name`
 
 Define Secret
 
-|          |                |
-| -------- | -------------- |
-| Key      | `secret.$name` |
-| Type     | `map`          |
-| Required | `✅`           |
-| tpl      | `❌`           |
-| Default  | `{}`           |
+|            |                |
+| ---------- | -------------- |
+| Key        | `secret.$name` |
+| Type       | `map`          |
+| Required   | `✅`           |
+| Helm `tpl` | `❌`           |
+| Default    | `{}`           |
 
 Example
 
@@ -70,13 +70,13 @@ secret:
 
 Enables or Disables the Secret
 
-|          |                        |
-| -------- | ---------------------- |
-| Key      | `secret.$name.enabled` |
-| Type     | `bool`                 |
-| Required | `✅`                   |
-| tpl      | `❌`                   |
-| Default  | `false`                |
+|            |                        |
+| ---------- | ---------------------- |
+| Key        | `secret.$name.enabled` |
+| Type       | `bool`                 |
+| Required   | `✅`                   |
+| Helm `tpl` | `❌`                   |
+| Default    | `false`                |
 
 Example
 
@@ -92,13 +92,13 @@ secret:
 
 Define the namespace for this object
 
-|          |                          |
-| -------- | ------------------------ |
-| Key      | `secret.$name.namespace` |
-| Type     | `string`                 |
-| Required | `❌`                     |
-| tpl      | `✅`                     |
-| Default  | `""`                     |
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `secret.$name.namespace` |
+| Type       | `string`                 |
+| Required   | `❌`                     |
+| Helm `tpl` | `✅`                     |
+| Default    | `""`                     |
 
 Example
 
@@ -114,13 +114,13 @@ secret:
 
 Additional labels for secret
 
-|          |                       |
-| -------- | --------------------- |
-| Key      | `secret.$name.labels` |
-| Type     | `map`                 |
-| Required | `❌`                  |
-| tpl      | `✅ (On value only)`  |
-| Default  | `{}`                  |
+|            |                       |
+| ---------- | --------------------- |
+| Key        | `secret.$name.labels` |
+| Type       | `map`                 |
+| Required   | `❌`                  |
+| Helm `tpl` | `✅ (On value only)`  |
+| Default    | `{}`                  |
 
 Example
 
@@ -137,13 +137,13 @@ secret:
 
 Additional annotations for secret
 
-|          |                            |
-| -------- | -------------------------- |
-| Key      | `secret.$name.annotations` |
-| Type     | `map`                      |
-| Required | `❌`                       |
-| tpl      | `✅ (On value only)`       |
-| Default  | `{}`                       |
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `secret.$name.annotations` |
+| Type       | `map`                      |
+| Required   | `❌`                       |
+| Helm `tpl` | `✅ (On value only)`       |
+| Default    | `{}`                       |
 
 Example
 
@@ -160,13 +160,13 @@ secret:
 
 Define the type of the secret
 
-|          |                     |
-| -------- | ------------------- |
-| Key      | `secret.$name.type` |
-| Type     | `string`            |
-| Required | `❌`                |
-| tpl      | `✅`                |
-| Default  | `Opaque`            |
+|            |                     |
+| ---------- | ------------------- |
+| Key        | `secret.$name.type` |
+| Type       | `string`            |
+| Required   | `❌`                |
+| Helm `tpl` | `✅`                |
+| Default    | `Opaque`            |
 
 Example
 
@@ -182,13 +182,13 @@ secret:
 
 Define the data of the secret
 
-|          |                     |
-| -------- | ------------------- |
-| Key      | `secret.$name.data` |
-| Type     | `map`               |
-| Required | `✅`                |
-| tpl      | `✅`                |
-| Example  | `{}`                |
+|            |                     |
+| ---------- | ------------------- |
+| Key        | `secret.$name.data` |
+| Type       | `map`               |
+| Required   | `✅`                |
+| Helm `tpl` | `✅`                |
+| Example    | `{}`                |
 
 ```yaml
 secret:

@@ -129,7 +129,7 @@ const config = {
         dataAdClient: "ca-pub-9270569596814796",
       },
       tableOfContents: {
-        maxHeadingLevel: 5,
+        maxHeadingLevel: 6,
       },
       docs: {
         sidebar: {
