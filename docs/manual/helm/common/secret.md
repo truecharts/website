@@ -2,19 +2,26 @@
 title: Secret
 ---
 
-:::tip
+:::note
 
-Replace references to `$name` with the actual name you want to use.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
+
+## Appears in
+
+- `.Values.secret`
 
 ## Naming scheme
 
 - `$FullName-$SecretName` (release-name-chart-name-secret-name)
 
-Appears in:
+:::tip
 
-- `.Values.secret`
+Replace references to `$name` with the actual name you want to use.
+
+:::
 
 ---
 
@@ -30,6 +37,12 @@ Create Secret objects
 | tpl      | `❌`     |
 | Default  | `{}`     |
 
+Example
+
+```yaml
+secret: {}
+```
+
 ---
 
 ### `secret.$name`
@@ -44,9 +57,16 @@ Define Secret
 | tpl      | `❌`           |
 | Default  | `{}`           |
 
+Example
+
+```yaml
+secret:
+  secret-name: {}
+```
+
 ---
 
-#### `secret.$name.enabled`
+#### `enabled`
 
 Enables or Disables the Secret
 
@@ -61,12 +81,14 @@ Enables or Disables the Secret
 Example
 
 ```yaml
-enabled: true
+secret:
+  secret-name:
+    enabled: true
 ```
 
 ---
 
-#### `secret.$name.namespace`
+#### `namespace`
 
 Define the namespace for this object
 
@@ -81,12 +103,14 @@ Define the namespace for this object
 Example
 
 ```yaml
-namespace: some-namespace
+secret:
+  secret-name:
+    namespace: some-namespace
 ```
 
 ---
 
-#### `secret.$name.labels`
+#### `labels`
 
 Additional labels for secret
 
@@ -101,14 +125,15 @@ Additional labels for secret
 Example
 
 ```yaml
-labels:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+secret:
+  secret-name:
+    labels:
+      key: value
 ```
 
 ---
 
-#### `secret.$name.annotations`
+#### `annotations`
 
 Additional annotations for secret
 
@@ -123,14 +148,15 @@ Additional annotations for secret
 Example
 
 ```yaml
-annotations:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+secret:
+  secret-name:
+    annotations:
+      key: value
 ```
 
 ---
 
-#### `secret.$name.type`
+#### `type`
 
 Define the type of the secret
 
@@ -145,12 +171,14 @@ Define the type of the secret
 Example
 
 ```yaml
-type: some-custom-type
+secret:
+  secret-name:
+    type: some-custom-type
 ```
 
 ---
 
-#### `secret.$name.data`
+#### `data`
 
 Define the data of the secret
 
@@ -160,11 +188,13 @@ Define the data of the secret
 | Type     | `map`               |
 | Required | `✅`                |
 | tpl      | `✅`                |
-| Example  |                     |
+| Example  | `{}`                |
 
 ```yaml
-data:
-  key: value
+secret:
+  secret-name:
+    data:
+      key: value
 ```
 
 ---
@@ -186,8 +216,8 @@ secret:
       key: value
 
   other-secret-name:
-    namespace: some-namespace
     enabled: true
+    namespace: some-namespace
     data:
       key: |
         multi line

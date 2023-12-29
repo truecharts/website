@@ -2,13 +2,14 @@
 title: Service Account
 ---
 
-:::tip
+:::note
 
-Replace references to `$name` with the actual name you want to use.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.serviceAccount`
 
@@ -16,6 +17,12 @@ Appears in:
 
 - Primary: `$FullName` (release-name-chart-name)
 - Non-Primary: `$FullName-$ServiceAccountName` (release-name-chart-name-ServiceAccountName)
+
+:::tip
+
+Replace references to `$name` with the actual name you want to use.
+
+:::
 
 ---
 
@@ -39,6 +46,12 @@ Create serviceAccount objects
 | tpl      | `❌`             |
 | Default  | `{}`             |
 
+Example
+
+```yaml
+serviceAccount: {}
+```
+
 ---
 
 ### `serviceAccount.$name`
@@ -53,9 +66,16 @@ Define serviceAccount
 | tpl      | `❌`                   |
 | Default  | `{}`                   |
 
+Example
+
+```yaml
+serviceAccount:
+  sa-name: {}
+```
+
 ---
 
-#### `serviceAccount.$name.enabled`
+#### `enabled`
 
 Enables or Disables the serviceAccount
 
@@ -70,12 +90,14 @@ Enables or Disables the serviceAccount
 Example
 
 ```yaml
-enabled: true
+serviceAccount:
+  sa-name:
+    enabled: true
 ```
 
 ---
 
-#### `serviceAccount.$name.primary`
+#### `primary`
 
 Sets the serviceAccount as primary
 
@@ -90,12 +112,14 @@ Sets the serviceAccount as primary
 Example
 
 ```yaml
-primary: true
+serviceAccount:
+  sa-name:
+    primary: true
 ```
 
 ---
 
-#### `serviceAccount.$name.namespace`
+#### `namespace`
 
 Define the namespace for this object
 
@@ -110,12 +134,14 @@ Define the namespace for this object
 Example
 
 ```yaml
-namespace: some-namespace
+serviceAccount:
+  sa-name:
+    namespace: some-namespace
 ```
 
 ---
 
-#### `serviceAccount.$name.labels`
+#### `labels`
 
 Additional labels for service account
 
@@ -130,14 +156,15 @@ Additional labels for service account
 Example
 
 ```yaml
-labels:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+serviceAccount:
+  sa-name:
+    labels:
+      key: value
 ```
 
 ---
 
-#### `serviceAccount.$name.annotations`
+#### `annotations`
 
 Additional annotations for service account
 
@@ -152,14 +179,15 @@ Additional annotations for service account
 Example
 
 ```yaml
-annotations:
-  key: value
-  keytpl: "{{ .Values.some.value }}"
+serviceAccount:
+  sa-name:
+    annotations:
+      key: value
 ```
 
 ---
 
-#### `serviceAccount.$name.targetSelectAll`
+#### `targetSelectAll`
 
 Whether to assign the serviceAccount to all pods or not
 
@@ -174,12 +202,14 @@ Whether to assign the serviceAccount to all pods or not
 Example
 
 ```yaml
-targetSelectAll: true
+serviceAccount:
+  sa-name:
+    targetSelectAll: true
 ```
 
 ---
 
-#### `serviceAccount.$name.targetSelector`
+#### `targetSelector`
 
 Define the pod(s) to assign the serviceAccount
 
@@ -194,14 +224,16 @@ Define the pod(s) to assign the serviceAccount
 Example
 
 ```yaml
-targetSelector:
-  - workload-name1
-  - workload-name2
+serviceAccount:
+  sa-name:
+    targetSelector:
+      - workload-name1
+      - workload-name2
 ```
 
 ---
 
-Full Examples
+## Full Examples
 
 ```yaml
 serviceAccount:
