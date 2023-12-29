@@ -1,5 +1,5 @@
 ---
-title: PVC
+title: VCT
 ---
 
 :::note
@@ -16,7 +16,7 @@ title: PVC
 :::tip
 
 - See available persistence keys [here](./index.md).
-- This options apply only when `type: pvc`.
+- This options apply only when `type: vct`.
 
 :::
 
@@ -36,7 +36,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     labels:
       label1: value1
 ```
@@ -59,7 +59,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     annotations:
       annotation1: value1
 ```
@@ -82,7 +82,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     namespace: some-namespace
 ```
 
@@ -105,7 +105,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     retain: true
 ```
 
@@ -127,11 +127,11 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     accessModes: ReadWriteOnce
 
 persistence:
-  pvc-vol:
+  vct-vol:
     accessModes:
       - ReadWriteOnce
       - ReadWriteMany
@@ -155,7 +155,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     volumeName: volume-name-backing-the-pvc
 ```
 
@@ -177,7 +177,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     existingClaim: existing-claim-name
 ```
 
@@ -193,13 +193,13 @@ Define the size of the PVC
 | Type       | `string`                                        |
 | Required   | ❌                                              |
 | Helm `tpl` | ✅                                              |
-| Default    | `{{ .Values.global.fallbackDefaults.pvcSize }}` |
+| Default    | `{{ .Values.global.fallbackDefaults.vctSize }}` |
 
 Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     size: 2Gi
 ```
 
@@ -233,7 +233,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     storageClass: storage-class-name
 ```
 
@@ -253,7 +253,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     volumeSnapshots: []
 ```
 
@@ -273,7 +273,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     volumeSnapshots:
       - name: example1
 ```
@@ -294,7 +294,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     volumeSnapshots:
       - enabled: true
 ```
@@ -315,7 +315,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     volumeSnapshots:
       - labels:
           label1: value1
@@ -337,7 +337,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     volumeSnapshots:
       - annotations:
           annotation1: value1
@@ -359,7 +359,7 @@ Example
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     volumeSnapshots:
       - volumeSnapshotClassName: some-name
 ```
@@ -370,9 +370,9 @@ persistence:
 
 ```yaml
 persistence:
-  pvc-vol:
+  vct-vol:
     enabled: true
-    type: pvc
+    type: vct
     namespace: some-namespace
     labels:
       label1: value1
@@ -391,7 +391,6 @@ persistence:
         annotations:
           annotation1: value1
         volumeSnapshotClassName: some-name
-    # targetSelectAll: true
     targetSelector:
       pod-name:
         container-name:
