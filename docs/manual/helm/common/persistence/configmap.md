@@ -96,7 +96,7 @@ Define the defaultMode (must be a string in format of "0777").
 | ---------- | ------------------------------- |
 | Key        | `persistence.$name.defaultMode` |
 | Type       | `string`                        |
-| Required   | ✅                              |
+| Required   | ❌                             |
 | Helm `tpl` | ✅                              |
 | Default    | `""`                            |
 

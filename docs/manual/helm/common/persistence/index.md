@@ -137,8 +137,8 @@ Define the mountPath for the persistence, applies to all containers that are sel
 | ---------- | ----------------------------- |
 | Key        | `persistence.$name.mountPath` |
 | Type       | `string`                      |
-| Required   | `❌`                          |
-| Helm `tpl` | `❌`                          |
+| Required   | `✅`                          |
+| Helm `tpl` | `✅`                          |
 | Default    | `""`                          |
 
 Example
@@ -160,7 +160,7 @@ Define the mountPropagation for the persistence, applies to all containers that 
 | Key        | `persistence.$name.mountPropagation` |
 | Type       | `string`                             |
 | Required   | `❌`                                 |
-| Helm `tpl` | `❌`                                 |
+| Helm `tpl` | `✅`                                 |
 | Default    | `""`                                 |
 
 Valid Values:
@@ -188,7 +188,7 @@ Define the subPath for the persistence, applies to all containers that are selec
 | Key        | `persistence.$name.subPath` |
 | Type       | `string`                    |
 | Required   | `❌`                        |
-| Helm `tpl` | `❌`                        |
+| Helm `tpl` | `✅`                        |
 | Default    | `""`                        |
 
 Example
@@ -323,7 +323,7 @@ Define the mountPath for the container
 | Key        | `persistence.$name.targetSelector.$podName.$containerName.mountPath` |
 | Type       | `string`                                                             |
 | Required   | `❌`                                                                 |
-| Helm `tpl` | `❌`                                                                 |
+| Helm `tpl` | `✅`                                                                 |
 | Default    | `$name.mountPath`                                                    |
 
 Example
@@ -348,7 +348,7 @@ Define the mountPropagation for the container
 | Key        | `persistence.$name.targetSelector.$podName.$containerName.mountPropagation` |
 | Type       | `string`                                                                    |
 | Required   | `❌`                                                                        |
-| Helm `tpl` | `❌`                                                                        |
+| Helm `tpl` | `✅`                                                                        |
 | Default    | `$name.mountPropagation`                                                    |
 
 Example
@@ -373,7 +373,7 @@ Define the subPath for the container
 | Key        | `persistence.$name.targetSelector.$podName.$containerName.subPath` |
 | Type       | `string`                                                           |
 | Required   | `❌`                                                               |
-| Helm `tpl` | `❌`                                                               |
+| Helm `tpl` | `✅`                                                               |
 | Default    | `$name.subPath`                                                    |
 
 Example
