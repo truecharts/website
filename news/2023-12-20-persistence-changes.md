@@ -16,11 +16,11 @@ Our Cloudnative-PG backend has been completely rewritten. This should provide mo
 
 ## Required Migration Steps
 
-We highly suggest not updating to the new breaking changes until a few weeks have passed. However, if you want to update, here are the instructions:
+If you want to update, here are the instructions:
 
 #### All Platforms
 
-- We strongly advise upgrading ClusterIssuer, cert-manager, and Traefik before anything else.
+- We strongly advise upgrading all charts and not just a select few as the new version of ClusterIssuer might not be fully compatible with charts on old versions.
 - Ingress: In some cases it might be prudent to disable ingress prior to update and enable it again afterwards.
 - Statefulsets: Be sure to remove any statefulsets made by TrueCharts Helm Charts before or after update. See instructions below.
 
