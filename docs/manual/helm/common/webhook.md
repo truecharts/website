@@ -638,7 +638,7 @@ Define the apiGroups of the rule for the webhook
 | Key        | `webhook.$name.webhooks[].rules[].apiGroups` |
 | Type       | `list` of `string`                           |
 | Required   | `✅`                                         |
-| Helm `tpl` | `❌`                                         |
+| Helm `tpl` | `✅` (On entries only)                       |
 | Default    | `[]`                                         |
 
 Example
@@ -664,7 +664,7 @@ Define the apiVersions of the rule for the webhook
 | Key        | `webhook.$name.webhooks[].rules[].apiVersions` |
 | Type       | `list` of `string`                             |
 | Required   | `✅`                                           |
-| Helm `tpl` | `❌`                                           |
+| Helm `tpl` | `✅` (On entries only)                         |
 | Default    | `[]`                                           |
 
 Example
@@ -690,7 +690,7 @@ Define the operations of the rule for the webhook
 | Key        | `webhook.$name.webhooks[].rules[].operations` |
 | Type       | `list` of `string`                            |
 | Required   | `✅`                                          |
-| Helm `tpl` | `❌`                                          |
+| Helm `tpl` | `✅` (On entries only)                        |
 | Default    | `[]`                                          |
 
 Example
@@ -716,7 +716,7 @@ Define the resources of the rule for the webhook
 | Key        | `webhook.$name.webhooks[].rules[].resources` |
 | Type       | `list` of `string`                           |
 | Required   | `✅`                                         |
-| Helm `tpl` | `❌`                                         |
+| Helm `tpl` | `✅` (On entries only)                       |
 | Default    | `[]`                                         |
 
 Example

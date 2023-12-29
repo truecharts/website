@@ -285,7 +285,7 @@ Define the `apiGroups` list for the `rules` for the (Cluster)Role
 | Key        | `rbac.$name.rules[].apiGroups` |
 | Type       | `list` of `string`             |
 | Required   | `✅`                           |
-| Helm `tpl` | `❌`                           |
+| Helm `tpl` | `✅` (On entries only)         |
 | Default    | `[]`                           |
 
 Example
@@ -310,7 +310,7 @@ Define the `resources` list for the `rules` for the (Cluster)Role
 | Key        | `rbac.$name.rules[].resources` |
 | Type       | `list` of `string`             |
 | Required   | `✅`                           |
-| Helm `tpl` | `❌`                           |
+| Helm `tpl` | `✅` (On entries only)         |
 | Default    | `[]`                           |
 
 Example
@@ -334,7 +334,7 @@ Define the `resourceNames` list for the `rules` for the (Cluster)Role
 | Key        | `rbac.$name.rules[].resourceNames` |
 | Type       | `list` of `string`                 |
 | Required   | `❌`                               |
-| Helm `tpl` | `❌`                               |
+| Helm `tpl` | `✅` (On entries only)             |
 | Default    | `[]`                               |
 
 Example
@@ -358,7 +358,7 @@ Define the `verbs` list for the `rules` for the (Cluster)Role
 | Key        | `rbac.$name.rules[].verbs` |
 | Type       | `list` of `string`         |
 | Required   | `✅`                       |
-| Helm `tpl` | `❌`                       |
+| Helm `tpl` | `✅` (On entries only)     |
 | Default    | `[]`                       |
 
 Example

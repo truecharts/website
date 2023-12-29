@@ -30,7 +30,7 @@ Configure External IP type
 | ---------- | -------------------------- |
 | Key        | `service.$name.externalIP` |
 | Type       | `string`                   |
-| Required   | `❌`                       |
+| Required   | `✅`                       |
 | Helm `tpl` | `✅`                       |
 | Default    | `""`                       |
 

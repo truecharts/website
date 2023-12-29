@@ -172,7 +172,7 @@ Define the service type
 | ---------- | -------------------- |
 | Key        | `service.$name.type` |
 | Type       | `string`             |
-| Required   | `✅`                 |
+| Required   | `❌`                 |
 | Helm `tpl` | `✅`                 |
 | Default    | `ClusterIP`          |
 
@@ -337,7 +337,7 @@ Define the target port (No named ports)
 | ---------- | ------------------------------------------- |
 | Key        | `service.$name.ports.$port-name.targetPort` |
 | Type       | `int`                                       |
-| Required   | `✅`                                        |
+| Required   | `❌`                                        |
 | Helm `tpl` | `✅`                                        |
 | Default    | (Defaults to `port` if not set)             |
 
