@@ -1,5 +1,5 @@
 ---
-title: PVC
+title: PVC / VCT
 ---
 
 :::note
@@ -16,9 +16,11 @@ title: PVC
 :::tip
 
 - See available persistence keys [here](./index.md).
-- This options apply only when `type: pvc`.
+- This options apply only when `type: pvc` or `type: vct`.
 
 :::
+
+---
 
 ## `labels`
 
@@ -27,7 +29,7 @@ Additional labels for persistence
 |            |                            |
 | ---------- | -------------------------- |
 | Key        | `persistence.$name.labels` |
-| Type       | `map`                     |
+| Type       | `map`                      |
 | Required   | ❌                         |
 | Helm `tpl` | ✅ (On value only)         |
 | Default    | `{}`                       |
@@ -50,7 +52,7 @@ Additional annotations for persistence
 |            |                                 |
 | ---------- | ------------------------------- |
 | Key        | `persistence.$name.annotations` |
-| Type       | `map`                          |
+| Type       | `map`                           |
 | Required   | ❌                              |
 | Helm `tpl` | ✅ (On value only)              |
 | Default    | `{}`                            |
@@ -187,13 +189,13 @@ persistence:
 
 Define the size of the PVC
 
-|            |                          |
-| ---------- | ------------------------ |
-| Key        | `persistence.$name.size` |
-| Type       | `string`                 |
-| Required   | ❌                       |
-| Helm `tpl` | ✅                       |
-| Default    | `""`                     |
+|            |                                                         |
+| ---------- | ------------------------------------------------------- |
+| Key        | `persistence.$name.size`                                |
+| Type       | `string`                                                |
+| Required   | ❌                                                      |
+| Helm `tpl` | ✅                                                      |
+| Default    | `{{ .Values.global.fallbackDefaults.pvcSize/vctSize }}` |
 
 Example
 
@@ -236,6 +238,199 @@ persistence:
   pvc-vol:
     storageClass: storage-class-name
 ```
+
+---
+
+## `dataSource`
+
+Define dataSource for the pvc
+
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `persistence.$name.dataSource` |
+| Type       | `map`                          |
+| Required   | ❌                             |
+| Helm `tpl` | ❌                             |
+| Default    | `{}`                           |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    dataSource: {}
+```
+
+---
+
+### `dataSource.kind`
+
+Define the kind of the dataSource
+
+|            |                                     |
+| ---------- | ----------------------------------- |
+| Key        | `persistence.$name.dataSource.kind` |
+| Type       | `string`                            |
+| Required   | ✅                                  |
+| Helm `tpl` | ❌                                  |
+| Default    | `""`                                |
+
+Valid Values
+
+- `PersistentVolumeClaim`
+- `VolumeSnapshot`
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    dataSource:
+      kind: "PersistentVolumeClaim"
+```
+
+---
+
+### `dataSource.name`
+
+Define the name of the dataSource
+
+|            |                                     |
+| ---------- | ----------------------------------- |
+| Key        | `persistence.$name.dataSource.name` |
+| Type       | `string`                            |
+| Required   | ✅                                  |
+| Helm `tpl` | ❌                                  |
+| Default    | `""`                                |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    dataSource:
+      name: "existingPVC"
+```
+
+---
+
+## `static`
+
+Define static provisioning for the pvc
+
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `persistence.$name.static` |
+| Type       | `map`                      |
+| Required   | ❌                         |
+| Helm `tpl` | ❌                         |
+| Default    | `{}`                       |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    static: {}
+```
+
+---
+
+### `static.mode`
+
+Define the mode of the static provisioning
+
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `persistence.$name.static.mode` |
+| Type       | `string`                        |
+| Required   | ✅                              |
+| Helm `tpl` | ❌                              |
+| Default    | `""`                            |
+
+Valid Values
+
+- [`nfs`](./static-nfs.md)
+- [`smb`](./static-smb.md)
+- [`custom`](./static-custom.md)
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    static:
+      mode: nfs
+```
+
+---
+
+## `mountOptions`
+
+Define mountOptions for the pvc.
+Available only for `static.mode: nfs|smb`
+
+|            |                                  |
+| ---------- | -------------------------------- |
+| Key        | `persistence.$name.mountOptions` |
+| Type       | `list` of `map`                  |
+| Required   | ❌                               |
+| Helm `tpl` | ❌                               |
+| Default    | `[]`                             |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    mountOptions: []
+```
+
+### `mountOptions[].key`
+
+Define the key of the mountOption
+
+|            |                                        |
+| ---------- | -------------------------------------- |
+| Key        | `persistence.$name.mountOptions[].key` |
+| Type       | `string`                               |
+| Required   | ✅                                     |
+| Helm `tpl` | ✅                                     |
+| Default    | `""`                                   |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    mountOptions:
+      - key: some-key
+```
+
+---
+
+### `mountOptions[].value`
+
+Define the value of the mountOption
+
+|            |                                          |
+| ---------- | ---------------------------------------- |
+| Key        | `persistence.$name.mountOptions[].value` |
+| Type       | `string`                                 |
+| Required   | ❌                                       |
+| Helm `tpl` | ✅                                       |
+| Default    | `""`                                     |
+
+Example
+
+```yaml
+persistence:
+  pvc-vol:
+    mountOptions:
+      - value: some-value
+```
+
+---
 
 ## `volumeSnapshots`
 
@@ -306,7 +501,7 @@ Define the labels of the volumeSnapshot
 |            |                                              |
 | ---------- | -------------------------------------------- |
 | Key        | `persistence.$name.volumeSnapshots[].labels` |
-| Type       | `map`                                       |
+| Type       | `map`                                        |
 | Required   | ❌                                           |
 | Helm `tpl` | ✅ (On value only)                           |
 | Default    | `{}`                                         |
@@ -328,7 +523,7 @@ Define the annotations of the volumeSnapshot
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `persistence.$name.volumeSnapshots[].annotations` |
-| Type       | `map`                                            |
+| Type       | `map`                                             |
 | Required   | ❌                                                |
 | Helm `tpl` | ✅ (On value only)                                |
 | Default    | `{}`                                              |
@@ -378,11 +573,23 @@ persistence:
       label1: value1
     annotations:
       annotation1: value1
+    dataSource:
+      kind: "PersistentVolumeClaim"
+      name: "existingPVC"
     accessModes: ReadWriteOnce
     volumeName: volume-name-backing-the-pvc
     existingClaim: existing-claim-name
     retain: true
     size: 2Gi
+    mountOptions:
+      - key: some-key
+        value: some-value
+    # static:
+    #   mode: custom
+    #   provisioner: provisioner
+    #   driver: driver
+    #   csi:
+    #     key: value
     volumeSnapshots:
       - name: example1
         enabled: true
