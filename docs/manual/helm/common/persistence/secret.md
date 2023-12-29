@@ -2,17 +2,23 @@
 title: Secret
 ---
 
-:::tip
+:::note
 
-Prefix all keys below with `persistence.$name.`
-
-See available persistence keys [here](./index.md).
+- This options apply only when `type: secret`.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.persistence.$name`
+
+:::tip
+
+- See available persistence keys [here](./index.md).
+
+:::
 
 ---
 
@@ -20,18 +26,20 @@ Appears in:
 
 Define the secret name.
 
-|          |              |
-| -------- | ------------ |
-| Key      | `objectName` |
-| Type     | `string`     |
-| Required | ✅           |
-| tpl      | ✅           |
-| Default  | `""`         |
+|          |                                |
+| -------- | ------------------------------ |
+| Key      | `persistence.$name.objectName` |
+| Type     | `string`                       |
+| Required | ✅                             |
+| tpl      | ✅                             |
+| Default  | `""`                           |
 
 Example
 
 ```yaml
-objectName: secret-name
+persistence:
+  secret-vol:
+    objectName: secret-name
 ```
 
 ---
@@ -40,18 +48,20 @@ objectName: secret-name
 
 Whether to expand (adding the fullname as prefix) the secret name.
 
-|          |                    |
-| -------- | ------------------ |
-| Key      | `expandObjectName` |
-| Type     | `boolean`          |
-| Required | ❌                 |
-| tpl      | ❌                 |
-| Default  | `true`             |
+|          |                                      |
+| -------- | ------------------------------------ |
+| Key      | `persistence.$name.expandObjectName` |
+| Type     | `boolean`                            |
+| Required | ❌                                   |
+| tpl      | ❌                                   |
+| Default  | `true`                               |
 
 Example
 
 ```yaml
-expandObjectName: false
+persistence:
+  secret-vol:
+    expandObjectName: false
 ```
 
 ---
@@ -60,18 +70,20 @@ expandObjectName: false
 
 Whether the secret should be required or not.
 
-|          |            |
-| -------- | ---------- |
-| Key      | `optional` |
-| Type     | `boolean`  |
-| Required | ❌         |
-| tpl      | ❌         |
-| Default  | `false`    |
+|          |                              |
+| -------- | ---------------------------- |
+| Key      | `persistence.$name.optional` |
+| Type     | `boolean`                    |
+| Required | ❌                           |
+| tpl      | ❌                           |
+| Default  | `false`                      |
 
 Example
 
 ```yaml
-optional: false
+persistence:
+  secret-vol:
+    optional: false
 ```
 
 ---
@@ -80,18 +92,20 @@ optional: false
 
 Define the defaultMode (must be a string in format of "0777").
 
-|          |               |
-| -------- | ------------- |
-| Key      | `defaultMode` |
-| Type     | `string`      |
-| Required | ✅            |
-| tpl      | ✅            |
-| Default  | `""`          |
+|          |                                 |
+| -------- | ------------------------------- |
+| Key      | `persistence.$name.defaultMode` |
+| Type     | `string`                        |
+| Required | ✅                              |
+| tpl      | ✅                              |
+| Default  | `""`                            |
 
 Example
 
 ```yaml
-defaultMode: "0777"
+persistence:
+  secret-vol:
+    defaultMode: "0777"
 ```
 
 ---
@@ -100,22 +114,24 @@ defaultMode: "0777"
 
 Define a list of items for secret.
 
-|          |         |
-| -------- | ------- |
-| Key      | `items` |
-| Type     | `list`  |
-| Required | ❌      |
-| tpl      | ❌      |
-| Default  | `[]`    |
+|          |                           |
+| -------- | ------------------------- |
+| Key      | `persistence.$name.items` |
+| Type     | `list`                    |
+| Required | ❌                        |
+| tpl      | ❌                        |
+| Default  | `[]`                      |
 
 Example
 
 ```yaml
-items:
-  - key: key1
-    path: path1
-  - key: key2
-    path: path2
+persistence:
+  secret-vol:
+    items:
+      - key: key1
+        path: path1
+      - key: key2
+        path: path2
 ```
 
 ---
@@ -124,18 +140,22 @@ items:
 
 Define the key of the secret.
 
-|          |          |
-| -------- | -------- |
-| Key      | `key`    |
-| Type     | `string` |
-| Required | ✅       |
-| tpl      | ✅       |
-| Default  | `""`     |
+|          |                                 |
+| -------- | ------------------------------- |
+| Key      | `persistence.$name.items[].key` |
+| Type     | `string`                        |
+| Required | ✅                              |
+| tpl      | ✅                              |
+| Default  | `""`                            |
 
 Example
 
 ```yaml
-key: key1
+persistence:
+  secret-vol:
+    items:
+      - key: key1
+        path: path1
 ```
 
 ---
@@ -144,18 +164,22 @@ key: key1
 
 Define the path.
 
-|          |          |
-| -------- | -------- |
-| Key      | `path`   |
-| Type     | `string` |
-| Required | ✅       |
-| tpl      | ✅       |
-| Default  | `""`     |
+|          |                                  |
+| -------- | -------------------------------- |
+| Key      | `persistence.$name.items[].path` |
+| Type     | `string`                         |
+| Required | ✅                               |
+| tpl      | ✅                               |
+| Default  | `""`                             |
 
 Example
 
 ```yaml
-path: path1
+persistence:
+  secret-vol:
+    items:
+      - key: key1
+        path: path1
 ```
 
 ---

@@ -2,17 +2,23 @@
 title: Configmap
 ---
 
-:::tip
+:::note
 
-Prefix all keys below with `persistence.$name.`
-
-See available persistence keys [here](./index.md).
+- This options apply only when `type: configmap`.
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
 :::
 
-Appears in:
+## Appears in
 
 - `.Values.persistence.$name`
+
+:::tip
+
+- See available persistence keys [here](./index.md).
+
+:::
 
 ---
 
@@ -20,18 +26,20 @@ Appears in:
 
 Define the configmap name.
 
-|          |              |
-| -------- | ------------ |
-| Key      | `objectName` |
-| Type     | `string`     |
-| Required | ✅           |
-| tpl      | ✅           |
-| Default  | `""`         |
+|          |                                |
+| -------- | ------------------------------ |
+| Key      | `persistence.$name.objectName` |
+| Type     | `string`                       |
+| Required | ✅                             |
+| tpl      | ✅                             |
+| Default  | `""`                           |
 
 Example
 
 ```yaml
-objectName: configmap-name
+persistence:
+  configmap-vol:
+    objectName: configmap-name
 ```
 
 ---
@@ -40,18 +48,20 @@ objectName: configmap-name
 
 Whether to expand (adding the fullname as prefix) the configmap name.
 
-|          |                    |
-| -------- | ------------------ |
-| Key      | `expandObjectName` |
-| Type     | `boolean`          |
-| Required | ❌                 |
-| tpl      | ❌                 |
-| Default  | `true`             |
+|          |                                      |
+| -------- | ------------------------------------ |
+| Key      | `persistence.$name.expandObjectName` |
+| Type     | `boolean`                            |
+| Required | ❌                                   |
+| tpl      | ❌                                   |
+| Default  | `true`                               |
 
 Example
 
 ```yaml
-expandObjectName: false
+persistence:
+  configmap-vol:
+    expandObjectName: false
 ```
 
 ---
@@ -60,18 +70,20 @@ expandObjectName: false
 
 Whether the configmap should be required or not.
 
-|          |            |
-| -------- | ---------- |
-| Key      | `optional` |
-| Type     | `boolean`  |
-| Required | ❌         |
-| tpl      | ❌         |
-| Default  | `false`    |
+|          |                              |
+| -------- | ---------------------------- |
+| Key      | `persistence.$name.optional` |
+| Type     | `boolean`                    |
+| Required | ❌                           |
+| tpl      | ❌                           |
+| Default  | `false`                      |
 
 Example
 
 ```yaml
-optional: false
+persistence:
+  configmap-vol:
+    optional: false
 ```
 
 ---
@@ -80,18 +92,20 @@ optional: false
 
 Define the defaultMode (must be a string in format of "0777").
 
-|          |               |
-| -------- | ------------- |
-| Key      | `defaultMode` |
-| Type     | `string`      |
-| Required | ✅            |
-| tpl      | ✅            |
-| Default  | `""`          |
+|          |                                 |
+| -------- | ------------------------------- |
+| Key      | `persistence.$name.defaultMode` |
+| Type     | `string`                        |
+| Required | ✅                              |
+| tpl      | ✅                              |
+| Default  | `""`                            |
 
 Example
 
 ```yaml
-defaultMode: "0777"
+persistence:
+  configmap-vol:
+    defaultMode: "0777"
 ```
 
 ---
@@ -100,62 +114,72 @@ defaultMode: "0777"
 
 Define a list of items for configmap.
 
-|          |         |
-| -------- | ------- |
-| Key      | `items` |
-| Type     | `list`  |
-| Required | ❌      |
-| tpl      | ❌      |
-| Default  | `[]`    |
+|          |                           |
+| -------- | ------------------------- |
+| Key      | `persistence.$name.items` |
+| Type     | `list`                    |
+| Required | ❌                        |
+| tpl      | ❌                        |
+| Default  | `[]`                      |
 
 Example
 
 ```yaml
-items:
-  - key: key1
-    path: path1
-  - key: key2
-    path: path2
+persistence:
+  configmap-vol:
+    items:
+      - key: key1
+        path: path1
+      - key: key2
+        path: path2
 ```
 
 ---
 
-### `items.key`
+### `items[].key`
 
 Define the key of the configmap.
 
-|          |          |
-| -------- | -------- |
-| Key      | `key`    |
-| Type     | `string` |
-| Required | ✅       |
-| tpl      | ✅       |
-| Default  | `""`     |
+|          |                                 |
+| -------- | ------------------------------- |
+| Key      | `persistence.$name.items[].key` |
+| Type     | `string`                        |
+| Required | ✅                              |
+| tpl      | ✅                              |
+| Default  | `""`                            |
 
 Example
 
 ```yaml
-key: key1
+persistence:
+  configmap-vol:
+    items:
+      - key: key1
+        path: path1
 ```
 
 ---
 
-### `items.path`
+### `items[].path`
 
 Define the path.
 
-|          |          |
-| -------- | -------- |
-| Key      | `path`   |
-| Type     | `string` |
-| Required | ✅       |
-| tpl      | ✅       |
-| Default  | `""`     |
+|          |                                  |
+| -------- | -------------------------------- |
+| Key      | `persistence.$name.items[].path` |
+| Type     | `string`                         |
+| Required | ✅                               |
+| tpl      | ✅                               |
+| Default  | `""`                             |
 
 Example
 
 ```yaml
-path: path1
+persistence:
+  configmap-vol:
+    items:
+      - key: key1
+        path: path1
 ```
 
 ---
