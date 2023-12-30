@@ -2,10 +2,10 @@
 
 | Key                                      |   Type    | Required |   Helm Template    | Default | Description                                   |
 | :--------------------------------------- | :-------: | :------: | :----------------: | :-----: | :-------------------------------------------- |
-| scaleCertificate                         |  `map`   |    ❌    |         ❌         |  `{}`   | Define the certificate as dicts               |
+| scaleCertificate                         |   `map`   |    ❌    |         ❌         |  `{}`   | Define the certificate as dicts               |
 | scaleCertificate.[cert-name].enabled     | `boolean` |    ✅    |         ❌         | `false` | Enables the certificate (The secret creation) |
-| scaleCertificate.[cert-name].labels      |  `map`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for secret                  |
-| scaleCertificate.[cert-name].annotations |  `map`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for secret             |
+| scaleCertificate.[cert-name].labels      |   `map`   |    ❌    | ✅ (On value only) |  `{}`   | Additional labels for secret                  |
+| scaleCertificate.[cert-name].annotations |   `map`   |    ❌    | ✅ (On value only) |  `{}`   | Additional annotations for secret             |
 | scaleCertificate.[cert-name].id          | `string`  |    ✅    |         ❌         |  `""`   | ID of the certificate in ixCertificates       |
 
 > A secret will be created with 2 keys in the data section: `tls.crt` and `tls.key`.
