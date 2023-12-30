@@ -99,7 +99,7 @@ Define the namespace for this object
 | Key        | `webhook.$name.namespace` |
 | Type       | `string`                  |
 | Required   | ❌                        |
-| Helm `tpl` | ✅ (On value only)`       |
+| Helm `tpl` | ✅ (On value only)        |
 | Default    | `""`                      |
 
 Example
@@ -121,7 +121,7 @@ Additional labels for webhook
 | Key        | `webhook.$name.labels` |
 | Type       | `map`                  |
 | Required   | ❌                     |
-| Helm `tpl` | ✅ (On value only)`    |
+| Helm `tpl` | ✅ (On value only)     |
 | Default    | `{}`                   |
 
 Example
@@ -145,7 +145,7 @@ Additional annotations for webhook
 | Key        | `webhook.$name.annotations` |
 | Type       | `map`                       |
 | Required   | ❌                          |
-| Helm `tpl` | ✅ (On value only)`         |
+| Helm `tpl` | ✅ (On value only)          |
 | Default    | `{}`                        |
 
 Example

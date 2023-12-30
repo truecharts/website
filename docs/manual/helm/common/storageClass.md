@@ -97,7 +97,7 @@ Additional labels for storage class
 | Key        | `storageClass.$name.labels` |
 | Type       | `map`                       |
 | Required   | ❌                          |
-| Helm `tpl` | ✅ (On value only)`         |
+| Helm `tpl` | ✅ (On value only)          |
 | Default    | `{}`                        |
 
 Example
@@ -120,7 +120,7 @@ Additional annotations for storage class
 | Key        | `storageClass.$name.annotations` |
 | Type       | `map`                            |
 | Required   | ❌                               |
-| Helm `tpl` | ✅ (On value only)`              |
+| Helm `tpl` | ✅ (On value only)               |
 | Default    | `{}`                             |
 
 Example
@@ -163,7 +163,7 @@ Define the parameters for this storage class
 | Key        | `storageClass.$name.parameters` |
 | Type       | `map`                           |
 | Required   | ❌                              |
-| Helm `tpl` | ✅ (On value only)`             |
+| Helm `tpl` | ✅ (On value only)              |
 | Default    | `{}`                            |
 
 Example

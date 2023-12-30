@@ -119,7 +119,7 @@ Additional labels for secret
 | Key        | `secret.$name.labels` |
 | Type       | `map`                 |
 | Required   | ❌                    |
-| Helm `tpl` | ✅ (On value only)`   |
+| Helm `tpl` | ✅ (On value only)    |
 | Default    | `{}`                  |
 
 Example
@@ -142,7 +142,7 @@ Additional annotations for secret
 | Key        | `secret.$name.annotations` |
 | Type       | `map`                      |
 | Required   | ❌                         |
-| Helm `tpl` | ✅ (On value only)`        |
+| Helm `tpl` | ✅ (On value only)         |
 | Default    | `{}`                       |
 
 Example

@@ -97,7 +97,7 @@ Define the namespace for this object
 | Key        | `priorityClass.$name.namespace` |
 | Type       | `string`                        |
 | Required   | ❌                              |
-| Helm `tpl` | ✅ (On value only)`             |
+| Helm `tpl` | ✅ (On value only)              |
 | Default    | `""`                            |
 
 Example
@@ -119,7 +119,7 @@ Additional labels for priority class
 | Key        | `priorityClass.$name.labels` |
 | Type       | `map`                        |
 | Required   | ❌                           |
-| Helm `tpl` | ✅ (On value only)`          |
+| Helm `tpl` | ✅ (On value only)           |
 | Default    | `{}`                         |
 
 Example
@@ -142,7 +142,7 @@ Additional annotations for priority class
 | Key        | `priorityClass.$name.annotations` |
 | Type       | `map`                             |
 | Required   | ❌                                |
-| Helm `tpl` | ✅ (On value only)`               |
+| Helm `tpl` | ✅ (On value only)                |
 | Default    | `{}`                              |
 
 Example

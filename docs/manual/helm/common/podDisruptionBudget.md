@@ -127,7 +127,7 @@ Additional labels for Pod Disruption Budget
 | Key        | `podDisruptionBudget.$name.labels` |
 | Type       | `map`                              |
 | Required   | ❌                                 |
-| Helm `tpl` | ✅ (On value only)`                |
+| Helm `tpl` | ✅ (On value only)                 |
 | Default    | `{}`                               |
 
 Example
@@ -150,7 +150,7 @@ Additional annotations for Pod Disruption Budget
 | Key        | `podDisruptionBudget.$name.annotations` |
 | Type       | `map`                                   |
 | Required   | ❌                                      |
-| Helm `tpl` | ✅ (On value only)`                     |
+| Helm `tpl` | ✅ (On value only)                      |
 | Default    | `{}`                                    |
 
 Example
