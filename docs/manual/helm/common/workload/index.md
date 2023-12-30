@@ -438,49 +438,434 @@ workload:
 
 ---
 
-| Key                                                                  |   Type   | Required |   Helm Template    |                            Default                             | Description                                                              |
-| :------------------------------------------------------------------- | :------: | :------: | :----------------: | :------------------------------------------------------------: | :----------------------------------------------------------------------- |
-| workload.[workload-name].podSpec.restartPolicy                       | `string` |    ❌    |         ✅         |       `{{ .Values.podOptions.restartPolicy }}` (Always)        | Pod's restartPolicy. (Always, Never, OnFailure)                          |
-| workload.[workload-name].podSpec.schedulerName                       | `string` |    ❌    |         ✅         |         `{{ .Values.podOptions.schedulerName }}` ("")          | Pod's schedulerName                                                      |
-| workload.[workload-name].podSpec.priorityClassName                   | `string` |    ❌    |         ✅         |       `{{ .Values.podOptions.priorityClassName }}` ("")        | Pod's priorityClassName                                                  |
-| workload.[workload-name].podSpec.hostname                            | `string` |    ❌    |         ✅         |                              `""`                              | Pod's hostname                                                           |
-| workload.[workload-name].podSpec.terminationGracePeriodSeconds       |  `int`   |    ❌    |         ✅         | `{{ .Values.podOptions.terminationGracePeriodSeconds }}` (120) | Pod's terminationGracePeriodSeconds                                      |
-| workload.[workload-name].podSpec.nodeSelector                        |  `map`   |    ❌    | ✅ (On value only) |          `{{ .Values.podOptions.nodeSelector }}` ({})          | Pod's nodeSelector                                                       |
-| workload.[workload-name].podSpec.hostAliases                         |  `list`  |    ❌    |         ❌         |                                                                | Pod's host aliases                                                       |
-| workload.[workload-name].podSpec.hostAliases.ip                      | `string` |    ❌    |         ✅         |                                                                | Value for `ip` in hosts aliases                                          |
-| workload.[workload-name].podSpec.hostAliases.hostnames               |  `list`  |    ❌    |         ❌         |                                                                | Hostnames for the `ip` in hosts aliases                                  |
-| workload.[workload-name].podSpec.hostAliases.hostnames.[host-name]   | `string` |    ❌    |         ✅         |                                                                | [Value] for `hostnames` for the `ip` in hosts aliases                    |
-| workload.[workload-name].podSpec.dnsPolicy                           | `string` |    ❌    |         ✅         |      `{{ .Values.podOptions.dnsPolicy }}` (ClusterFirst)       | Pod's DNS Policy (ClusterFirst, ClusterFirstWithHostNet, Default, None). |
-| workload.[workload-name].podSpec.dnsConfig                           |  `map`   |    ❌    |         ❌         |              `{{ .Values.podOptions.dnsConfig }}`              | Pod's DNS Config                                                         |
-| workload.[workload-name].podSpec.dnsConfig.nameservers               |  `list`  |    ❌    |         ✅         |                              `[]`                              | Pod's DNS Config - Nameservers (Max 3)                                   |
-| workload.[workload-name].podSpec.dnsConfig.nameservers.nameserver    | `string` |    ✅    |         ✅         |                              `""`                              | Pod's DNS Config - Nameserver                                            |
-| workload.[workload-name].podSpec.dnsConfig.searches                  |  `list`  |    ❌    |         ✅         |                              `[]`                              | Pod's DNS Config - Searches (Max 6)                                      |
-| workload.[workload-name].podSpec.dnsConfig.searches.[search]         | `string` |    ✅    |         ✅         |                              `""`                              | Pod's DNS Config - Search                                                |
-| workload.[workload-name].podSpec.dnsConfig.options                   |  `map`   |    ❌    |         ❌         |                        `{"ndots": "1"}`                        | Pod's DNS Config - Options                                               |
-| workload.[workload-name].podSpec.dnsConfig.options.name              | `string` |    ✅    |         ✅         |                              `""`                              | Pod's DNS Config - Option name                                           |
-| workload.[workload-name].podSpec.dnsConfig.options.value             | `string` |    ❌    |         ✅         |                              `""`                              | Pod's DNS Config - Option value                                          |
-| workload.[workload-name].podSpec.tolerations                         |  `list`  |    ❌    |         ❌         |          `{{ .Values.podOptions.tolerations }}` ([])           | Pod's Tolerations                                                        |
-| workload.[workload-name].podSpec.tolerations.operator                | `string` |    ✅    |         ✅         |                                                                | Toleration's `operator` (Equal, Exists)                                  |
-| workload.[workload-name].podSpec.tolerations.key                     | `string` |  ❌/✅   |         ✅         |                                                                | Toleration's `key`. Required only when `operator` = `Equal`              |
-| workload.[workload-name].podSpec.tolerations.value                   | `string` |  ❌/✅   |         ✅         |                                                                | Toleration's `value`. Required only when `operator` = `Equal`            |
-| workload.[workload-name].podSpec.tolerations.effect                  | `string` |    ❌    |         ✅         |                                                                | Toleration's `effect`.(NoExecute, NoSchedule, PreferNoSchedule)          |
-| workload.[workload-name].podSpec.tolerations.tolerationSeconds       |  `int`   |    ❌    |         ❌         |                                                                | Toleration's `tolerationSeconds`.                                        |
-| workload.[workload-name].podSpec.runtimeClassName                    | `string` |    ❌    |         ✅         |        `{{ .Values.podOptions.runtimeClassName }}` ("")        | Pod's runtimeClassName                                                   |
-| workload.[workload-name].podSpec.securityContext                     |  `map`   |    ❌    |         ❌         |              `{{ .Values.securityContext.pod }}`               | Pod's securityContext                                                    |
-| workload.[workload-name].podSpec.securityContext.fsGroup             |  `int`   |    ❌    |         ❌         |                             `568`                              | Pod's fsGroup                                                            |
-| workload.[workload-name].podSpec.securityContext.fsGroupChangePolicy | `string` |    ❌    |         ❌         |                        `OnRootMismatch`                        | Pod's fsGroupChangePolicy (Always, OnRootMismatch)                       |
-| workload.[workload-name].podSpec.securityContext.supplementalGroups  |  `list`  |    ❌    |         ❌         |                              `[]`                              | Pod's supplementalGroups (list of `int`)                                 |
-| workload.[workload-name].podSpec.securityContext.sysctls             |  `list`  |    ❌    |         ❌         |                              `[]`                              | Pod's sysctls                                                            |
-| workload.[workload-name].podSpec.securityContext.sysctls.name        | `string` |    ✅    |         ✅         |                              `""`                              | `name` of the sysctl                                                     |
-| workload.[workload-name].podSpec.securityContext.sysctls.value       | `string` |    ✅    |         ✅         |                              `""`                              | `value` of the sysctl                                                    |
-| workload.[workload-name].podSpec.containers                          |  `map`   |    ❌    |         ❌         |                              `{}`                              | Define container(s)                                                      |
-| workload.[workload-name].podSpec.initContainers                      |  `map`   |    ❌    |         ❌         |                              `{}`                              | Define initContainer(s)                                                  |
+##### `restartPolicy`
+
+Pod's restartPolicy
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `workload.$name.podSpec.restartPolicy`            |
+| Type       | `string`                                          |
+| Required   | ❌                                                |
+| Helm `tpl` | ✅                                                |
+| Default    | `{{ .Values.podOptions.restartPolicy }}` (Always) |
+
+Valid values
+
+- `Always`
+- `Never`
+- `OnFailure`
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      restartPolicy: OnFailure
+```
+
+---
+
+##### `schedulerName`
+
+Pod's schedulerName
+
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `workload.$name.podSpec.schedulerName`        |
+| Type       | `string`                                      |
+| Required   | ❌                                            |
+| Helm `tpl` | ✅                                            |
+| Default    | `{{ .Values.podOptions.schedulerName }}` ("") |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      schedulerName: some-scheduler
+```
+
+---
+
+##### `priorityClassName`
+
+Pod's priorityClassName
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `workload.$name.podSpec.priorityClassName`        |
+| Type       | `string`                                          |
+| Required   | ❌                                                |
+| Helm `tpl` | ✅                                                |
+| Default    | `{{ .Values.podOptions.priorityClassName }}` ("") |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      priorityClassName: some-priority-class-name
+```
+
+---
+
+##### `hostname`
+
+Pod's hostname
+
+|            |                                   |
+| ---------- | --------------------------------- |
+| Key        | `workload.$name.podSpec.hostname` |
+| Type       | `string`                          |
+| Required   | ❌                                |
+| Helm `tpl` | ✅                                |
+| Default    | `""`                              |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      hostname: some-hostname
+```
+
+---
+
+##### `terminationGracePeriodSeconds`
+
+Pod's terminationGracePeriodSeconds
+
+|            |                                                                |
+| ---------- | -------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.terminationGracePeriodSeconds`         |
+| Type       | `int`                                                          |
+| Required   | ❌                                                             |
+| Helm `tpl` | ✅                                                             |
+| Default    | `{{ .Values.podOptions.terminationGracePeriodSeconds }}` (120) |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      terminationGracePeriodSeconds: 100
+```
+
+---
+
+##### `nodeSelector`
+
+Pod's nodeSelector
+
+|            |                                              |
+| ---------- | -------------------------------------------- |
+| Key        | `workload.$name.podSpec.nodeSelector`        |
+| Type       | `map`                                        |
+| Required   | ❌                                           |
+| Helm `tpl` | ✅ (On value only)                           |
+| Default    | `{{ .Values.podOptions.nodeSelector }}` ({}) |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      nodeSelector:
+        disk_type: ssd
+```
+
+---
+
+##### `hostAliases`
+
+Pod's hostAliases
+
+|            |                                      |
+| ---------- | ------------------------------------ |
+| Key        | `workload.$name.podSpec.hostAliases` |
+| Type       | `list` of `map`                      |
+| Required   | ❌                                   |
+| Helm `tpl` | ❌                                   |
+| Default    | `[]`                                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      hostAliases: []
+```
+
+---
+
+###### `ip`
+
+Pod's hostAliases ip
+
+|            |                                         |
+| ---------- | --------------------------------------- |
+| Key        | `workload.$name.podSpec.hostAliases.ip` |
+| Type       | `string`                                |
+| Required   | ✅                                      |
+| Helm `tpl` | ✅                                      |
+| Default    | `""`                                    |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      hostAliases:
+        - ip: 1.2.3.4
+```
+
+---
+
+###### `hostnames`
+
+Pod's hostAliases hostnames
+
+|            |                                                |
+| ---------- | ---------------------------------------------- |
+| Key        | `workload.$name.podSpec.hostAliases.hostnames` |
+| Type       | `list` of `string`                             |
+| Required   | ✅                                             |
+| Helm `tpl` | ✅ (On each entry)                             |
+| Default    | `[]`                                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      hostAliases:
+        - ip: 1.2.3.4
+          hostnames:
+            - myserver.local
+            - storage.local
+```
+
+---
+
+###### `dnsPolicy`
+
+Pod's dnsPolicy
+
+:::note
+
+`dnsPolicy` is set automatically to `ClusterFirstWithHostNet` when `hostNetwork` is `true`
+
+:::
+
+|            |                                                     |
+| ---------- | --------------------------------------------------- |
+| Key        | `workload.$name.podSpec.dnsPolicy`                  |
+| Type       | `string`                                            |
+| Required   | ❌                                                  |
+| Helm `tpl` | ✅                                                  |
+| Default    | `{{ .Values.podOptions.dnsPolicy }}` (ClusterFirst) |
+
+Valid values
+
+- `None`
+- `Default`
+- `ClusterFirst`
+- `ClusterFirstWithHostNet`
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      dnsPolicy: ClusterFirst
+```
+
+---
+
+###### `dnsConfig`
+
+Pod's dnsConfig
+
+|            |                                      |
+| ---------- | ------------------------------------ |
+| Key        | `workload.$name.podSpec.dnsConfig`   |
+| Type       | `map`                                |
+| Required   | ❌                                   |
+| Helm `tpl` | ❌                                   |
+| Default    | `{{ .Values.podOptions.dnsConfig }}` |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      dnsConfig: {}
+```
+
+---
+
+###### `dnsConfig.nameservers`
+
+Pod's dnsConfig nameservers
+
+|            |                                                |
+| ---------- | ---------------------------------------------- |
+| Key        | `workload.$name.podSpec.dnsConfig.nameservers` |
+| Type       | `list` of `string`                             |
+| Required   | ❌                                             |
+| Helm `tpl` | ✅ (On each entry)                             |
+| Default    | `[]`                                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      dnsConfig:
+        nameservers:
+          - 1.1.1.1
+```
+
+---
+
+###### `dnsConfig.searches`
+
+Pod's dnsConfig searches
+
+|            |                                             |
+| ---------- | ------------------------------------------- |
+| Key        | `workload.$name.podSpec.dnsConfig.searches` |
+| Type       | `list` of `string`                          |
+| Required   | ❌                                          |
+| Helm `tpl` | ✅ (On each entry)                          |
+| Default    | `[]`                                        |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      dnsConfig:
+        searches:
+          - ns1.svc.cluster-domain.example
+```
+
+---
+
+###### `dnsConfig.options`
+
+Pod's dnsConfig options
+
+|            |                                            |
+| ---------- | ------------------------------------------ |
+| Key        | `workload.$name.podSpec.dnsConfig.options` |
+| Type       | `list` of `map`                            |
+| Required   | ❌                                         |
+| Helm `tpl` | ❌                                         |
+| Default    | `[{"ndots": "1"}]`                         |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      dnsConfig:
+        options: []
+```
+
+---
+
+###### `dnsConfig.options.name`
+
+Pod's dnsConfig options name
+
+|            |                                                 |
+| ---------- | ----------------------------------------------- |
+| Key        | `workload.$name.podSpec.dnsConfig.options.name` |
+| Type       | `string`                                        |
+| Required   | ✅                                              |
+| Helm `tpl` | ✅                                              |
+| Default    | `""`                                            |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      dnsConfig:
+        options:
+          - name: ndots
+            value: "1"
+```
+
+---
+
+###### `dnsConfig.options.value`
+
+Pod's dnsConfig options value
+
+|            |                                                  |
+| ---------- | ------------------------------------------------ |
+| Key        | `workload.$name.podSpec.dnsConfig.options.value` |
+| Type       | `string`                                         |
+| Required   | ❌                                               |
+| Helm `tpl` | ✅                                               |
+| Default    | `""`                                             |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      dnsConfig:
+        options:
+          - name: ndots
+            value: "1"
+```
+
+---
+
+| Key                                                                  |   Type   | Required | Helm Template |                     Default                      | Description                                                     |
+| :------------------------------------------------------------------- | :------: | :------: | :-----------: | :----------------------------------------------: | :-------------------------------------------------------------- |
+| workload.[workload-name].podSpec.tolerations                         |  `list`  |    ❌    |      ❌       |   `{{ .Values.podOptions.tolerations }}` ([])    | Pod's Tolerations                                               |
+| workload.[workload-name].podSpec.tolerations.operator                | `string` |    ✅    |      ✅       |                                                  | Toleration's `operator` (Equal, Exists)                         |
+| workload.[workload-name].podSpec.tolerations.key                     | `string` |  ❌/✅   |      ✅       |                                                  | Toleration's `key`. Required only when `operator` = `Equal`     |
+| workload.[workload-name].podSpec.tolerations.value                   | `string` |  ❌/✅   |      ✅       |                                                  | Toleration's `value`. Required only when `operator` = `Equal`   |
+| workload.[workload-name].podSpec.tolerations.effect                  | `string` |    ❌    |      ✅       |                                                  | Toleration's `effect`.(NoExecute, NoSchedule, PreferNoSchedule) |
+| workload.[workload-name].podSpec.tolerations.tolerationSeconds       |  `int`   |    ❌    |      ❌       |                                                  | Toleration's `tolerationSeconds`.                               |
+| workload.[workload-name].podSpec.runtimeClassName                    | `string` |    ❌    |      ✅       | `{{ .Values.podOptions.runtimeClassName }}` ("") | Pod's runtimeClassName                                          |
+| workload.[workload-name].podSpec.securityContext                     |  `map`   |    ❌    |      ❌       |       `{{ .Values.securityContext.pod }}`        | Pod's securityContext                                           |
+| workload.[workload-name].podSpec.securityContext.fsGroup             |  `int`   |    ❌    |      ❌       |                      `568`                       | Pod's fsGroup                                                   |
+| workload.[workload-name].podSpec.securityContext.fsGroupChangePolicy | `string` |    ❌    |      ❌       |                 `OnRootMismatch`                 | Pod's fsGroupChangePolicy (Always, OnRootMismatch)              |
+| workload.[workload-name].podSpec.securityContext.supplementalGroups  |  `list`  |    ❌    |      ❌       |                       `[]`                       | Pod's supplementalGroups (list of `int`)                        |
+| workload.[workload-name].podSpec.securityContext.sysctls             |  `list`  |    ❌    |      ❌       |                       `[]`                       | Pod's sysctls                                                   |
+| workload.[workload-name].podSpec.securityContext.sysctls.name        | `string` |    ✅    |      ✅       |                       `""`                       | `name` of the sysctl                                            |
+| workload.[workload-name].podSpec.securityContext.sysctls.value       | `string` |    ✅    |      ✅       |                       `""`                       | `value` of the sysctl                                           |
+| workload.[workload-name].podSpec.containers                          |  `map`   |    ❌    |      ❌       |                       `{}`                       | Define container(s)                                             |
+| workload.[workload-name].podSpec.initContainers                      |  `map`   |    ❌    |      ❌       |                       `{}`                       | Define initContainer(s)                                         |
 
 ---
 
 Notes
 
-> `dnsPolicy` is set automatically to `ClusterFirstWithHostNet` when `hostNetwork` is `true` > `runtimeClassName` will ignore any value set and use the `.Values.global.ixChartContext.nvidiaRuntimeClassName`,
+> `runtimeClassName` will ignore any value set and use the `.Values.global.ixChartContext.nvidiaRuntimeClassName`,
 > if a GPU is assigned to a container and Scale Middleware sets `.Values.global.ixChartContext.addNvidiaRuntimeClass` to `true`.
 > Note that it will only set the `runtimeClassName` on the pod that this container belongs to.
 > **sysctl** `net.ipv4.ip_unprivileged_port_start` will be automatically set to the lowest `targetPort` (or `port` if targetPort is not defined) number assigned to the pod.
