@@ -13,12 +13,6 @@ title: Volume Snapshot
 
 - `.Values.volumeSnapshots`
 
-## Notes
-
-At least one of the following keys must be defined under `volumeSnapshots.$name.source`:
-
-[`volumeSnapshotContentName`](#volumesnapshotcontentname), [`persistentVolumeClaimName`](#persistentvolumeclaimname)
-
 ---
 
 ## `volumeSnapshots`
@@ -133,6 +127,14 @@ volumeSnapshots:
 #### `source`
 
 Define the source of the volume snapshot
+
+:::note
+
+At least one of the following keys must be defined
+
+[`volumeSnapshotContentName`](#volumesnapshotcontentname), [`persistentVolumeClaimName`](#persistentvolumeclaimname)
+
+:::
 
 |            |                                |
 | ---------- | ------------------------------ |

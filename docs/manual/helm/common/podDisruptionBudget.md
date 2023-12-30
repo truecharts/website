@@ -25,14 +25,6 @@ title: Pod Disruption Budget
 
 ---
 
-## Notes
-
-At least one of the following keys must be defined under `podDisruptionBudget.$name`:
-
-[`minAvailable`](#minavailable), [`maxUnavailable`](#maxunavailable)
-
----
-
 ## `podDisruptionBudget`
 
 Create Pod Disruption Budget objects
@@ -56,6 +48,14 @@ podDisruptionBudget: {}
 ### `$name`
 
 Define Pod Disruption Budget
+
+:::note
+
+At least one of the following keys must be defined
+
+[`minAvailable`](#minavailable), [`maxUnavailable`](#maxunavailable)
+
+:::
 
 |            |                             |
 | ---------- | --------------------------- |
@@ -127,7 +127,7 @@ Additional labels for Pod Disruption Budget
 | Key        | `podDisruptionBudget.$name.labels` |
 | Type       | `map`                              |
 | Required   | ❌                                 |
-| Helm `tpl` | ✅ (On value only)`                |
+| Helm `tpl` | ✅ (On value only)                 |
 | Default    | `{}`                               |
 
 Example
@@ -150,7 +150,7 @@ Additional annotations for Pod Disruption Budget
 | Key        | `podDisruptionBudget.$name.annotations` |
 | Type       | `map`                                   |
 | Required   | ❌                                      |
-| Helm `tpl` | ✅ (On value only)`                     |
+| Helm `tpl` | ✅ (On value only)                      |
 | Default    | `{}`                                    |
 
 Example

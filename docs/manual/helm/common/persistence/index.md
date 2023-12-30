@@ -108,16 +108,16 @@ Define the persistence type
 
 Valid Values:
 
-- [`hostPath`](hostPath.md)
-- [`configmap`](configmap.md)
-- [`secret`](secret.md)
-- [`device`](device.md)
-- [`pvc`](pvc.md)
-- [`vct`](vct.md)
-- [`nfs`](nfs.md)
-- [`emptyDir`](emptyDir.md)
-- [`ixVolume`](ixVolume.md)
-- [`iscsi`](iscsi.md)
+- [`hostPath`](./hostPath.md)
+- [`configmap`](./configmap.md)
+- [`secret`](./secret.md)
+- [`device`](./device.md)
+- [`pvc`](./pvc-vct/index.md)
+- [`vct`](./pvc-vct/index.md)
+- [`nfs`](./nfs.md)
+- [`emptyDir`](./emptyDir.md)
+- [`ixVolume`](./ixVolume.md)
+- [`iscsi`](./iscsi.md)
 
 Example
 

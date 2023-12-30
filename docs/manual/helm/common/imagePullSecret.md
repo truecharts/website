@@ -105,7 +105,7 @@ Define the namespace for this object
 | Key        | `imagePullSecret.$name.namespace` |
 | Type       | `string`                          |
 | Required   | ❌                                |
-| Helm `tpl` | ✅ (On value only)`               |
+| Helm `tpl` | ✅ (On value only)                |
 | Default    | `""`                              |
 
 Example
@@ -127,7 +127,7 @@ Additional labels for image pull secret
 | Key        | `imagePullSecret.$name.labels` |
 | Type       | `map`                          |
 | Required   | ❌                             |
-| Helm `tpl` | ✅ (On value only)`            |
+| Helm `tpl` | ✅ (On value only)             |
 | Default    | `{}`                           |
 
 Example
@@ -150,7 +150,7 @@ Additional annotations for image pull secret
 | Key        | `imagePullSecret.$name.annotations` |
 | Type       | `map`                               |
 | Required   | ❌                                  |
-| Helm `tpl` | ✅ (On value only)`                 |
+| Helm `tpl` | ✅ (On value only)                  |
 | Default    | `{}`                                |
 
 Example

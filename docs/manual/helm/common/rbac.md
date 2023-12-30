@@ -172,7 +172,7 @@ Additional labels for rbac
 | Key        | `rbac.$name.labels` |
 | Type       | `map`               |
 | Required   | ❌                  |
-| Helm `tpl` | ✅ (On value only)` |
+| Helm `tpl` | ✅ (On value only)  |
 | Default    | `{}`                |
 
 Example
@@ -195,7 +195,7 @@ Additional annotations for rbac
 | Key        | `rbac.$name.annotations` |
 | Type       | `map`                    |
 | Required   | ❌                       |
-| Helm `tpl` | ✅ (On value only)`      |
+| Helm `tpl` | ✅ (On value only)       |
 | Default    | `{}`                     |
 
 Example
