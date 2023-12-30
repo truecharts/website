@@ -88,28 +88,6 @@ storageClass:
 
 ---
 
-#### `namespace`
-
-Define the namespace for this object
-
-|            |                                |
-| ---------- | ------------------------------ |
-| Key        | `storageClass.$name.namespace` |
-| Type       | `string`                       |
-| Required   | ❌                             |
-| Helm `tpl` | ✅ (On value only)`            |
-| Default    | `""`                           |
-
-Example
-
-```yaml
-storageClass:
-  storage-class-name:
-    namespace: some-namespace
-```
-
----
-
 #### `labels`
 
 Additional labels for storage class
