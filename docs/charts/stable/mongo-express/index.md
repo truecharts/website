@@ -1,14 +1,14 @@
 # mongo-express
 
-![Version: 5.0.2](https://img.shields.io/badge/Version-5.0.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.1.0](https://img.shields.io/badge/Version-5.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 mongo-express is a web-based MongoDB admin interface written in Node.js, Express.js, and Bootstrap3.
 
 ## Chart Sources
 
+- https://hub.docker.com/_/mongo-express
 - https://github.com/mongo-express/mongo-express
 - https://github.com/truecharts/charts/tree/master/charts/stable/mongo-express
-- https://hub.docker.com/_/mongo-express
 
 ## Available Documentation
 

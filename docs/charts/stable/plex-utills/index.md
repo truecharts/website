@@ -1,14 +1,14 @@
 # plex-utills
 
-![Version: 7.0.1](https://img.shields.io/badge/Version-7.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 7.1.0](https://img.shields.io/badge/Version-7.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A utility to help manage your library.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/jkirkcaldy/plex-utills
 - https://github.com/jkirkcaldy/plex-utills
 - https://github.com/truecharts/charts/tree/master/charts/stable/plex-utills
-- https://hub.docker.com/r/jkirkcaldy/plex-utills
 
 ## Available Documentation
 

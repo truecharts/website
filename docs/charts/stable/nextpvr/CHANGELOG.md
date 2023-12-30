@@ -2,6 +2,15 @@
 
 
 
+## [nextpvr-8.1.0](https://github.com/truecharts/charts/compare/nextpvr-8.0.1...nextpvr-8.1.0) (2023-12-30)
+
+### Chore
+
+- update helm general minor by renovate ([#16579](https://github.com/truecharts/charts/issues/16579))
+  
+  
+
+
 ## [nextpvr-8.0.1](https://github.com/truecharts/charts/compare/nextpvr-8.0.0...nextpvr-8.0.1) (2023-12-26)
 
 ### Chore

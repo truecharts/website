@@ -2,6 +2,15 @@
 
 
 
+## [blender-desktop-g3-4.1.0](https://github.com/truecharts/charts/compare/blender-desktop-g3-4.0.1...blender-desktop-g3-4.1.0) (2023-12-30)
+
+### Chore
+
+- update helm general minor by renovate ([#16579](https://github.com/truecharts/charts/issues/16579))
+  
+  
+
+
 ## [blender-desktop-g3-4.0.1](https://github.com/truecharts/charts/compare/blender-desktop-g3-4.0.0...blender-desktop-g3-4.0.1) (2023-12-26)
 
 ### Chore

@@ -2,6 +2,15 @@
 
 
 
+## [clarkson-11.1.0](https://github.com/truecharts/charts/compare/clarkson-11.0.2...clarkson-11.1.0) (2023-12-30)
+
+### Chore
+
+- update helm general minor by renovate ([#16579](https://github.com/truecharts/charts/issues/16579))
+  
+  
+
+
 ## [clarkson-11.0.2](https://github.com/truecharts/charts/compare/clarkson-11.0.1...clarkson-11.0.2) (2023-12-27)
 
 ### Chore

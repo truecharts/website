@@ -2,6 +2,15 @@
 
 
 
+## [authentik-19.1.0](https://github.com/truecharts/charts/compare/authentik-19.0.5...authentik-19.1.0) (2023-12-30)
+
+### Chore
+
+- update helm general minor by renovate ([#16579](https://github.com/truecharts/charts/issues/16579))
+  
+  
+
+
 ## [authentik-19.0.5](https://github.com/truecharts/charts/compare/authentik-19.0.4...authentik-19.0.5) (2023-12-27)
 
 ### Chore

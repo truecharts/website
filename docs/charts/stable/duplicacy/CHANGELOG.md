@@ -2,6 +2,15 @@
 
 
 
+## [duplicacy-5.1.0](https://github.com/truecharts/charts/compare/duplicacy-5.0.1...duplicacy-5.1.0) (2023-12-30)
+
+### Chore
+
+- update helm general minor by renovate ([#16579](https://github.com/truecharts/charts/issues/16579))
+  
+  
+
+
 ## [duplicacy-5.0.1](https://github.com/truecharts/charts/compare/duplicacy-5.0.0...duplicacy-5.0.1) (2023-12-26)
 
 ### Chore

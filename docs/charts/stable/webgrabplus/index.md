@@ -1,13 +1,13 @@
 # webgrabplus
 
-![Version: 8.0.1](https://img.shields.io/badge/Version-8.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.1.3](https://img.shields.io/badge/AppVersion-5.1.3-informational?style=flat-square)
+![Version: 8.1.0](https://img.shields.io/badge/Version-8.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.1.3](https://img.shields.io/badge/AppVersion-5.1.3-informational?style=flat-square)
 
 Webgrabplus is a multi-site incremental xmltv epg grabber.
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/webgrabplus
 - https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
+- https://ghcr.io/linuxserver/webgrabplus
 
 ## Available Documentation
 

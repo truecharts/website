@@ -2,6 +2,15 @@
 
 
 
+## [fivem-4.1.0](https://github.com/truecharts/charts/compare/fivem-4.0.1...fivem-4.1.0) (2023-12-30)
+
+### Chore
+
+- update helm general minor by renovate ([#16579](https://github.com/truecharts/charts/issues/16579))
+  
+  
+
+
 ## [fivem-4.0.1](https://github.com/truecharts/charts/compare/fivem-4.0.0...fivem-4.0.1) (2023-12-26)
 
 ### Chore

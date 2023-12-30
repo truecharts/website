@@ -2,6 +2,15 @@
 
 
 
+## [velero-3.1.0](https://github.com/truecharts/charts/compare/velero-3.0.5...velero-3.1.0) (2023-12-30)
+
+### Chore
+
+- update helm general minor by renovate ([#16579](https://github.com/truecharts/charts/issues/16579))
+  
+  
+
+
 ## [velero-3.0.5](https://github.com/truecharts/charts/compare/velero-3.0.4...velero-3.0.5) (2023-12-26)
 
 ### Chore
