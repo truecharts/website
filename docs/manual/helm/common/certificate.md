@@ -208,7 +208,9 @@ Define the certificate secret template for this certificate
 
 :::note
 
-At least one of [`labels`](#labels-1) or [`annotations`](#annotations-1) keys must be defined
+At least one of the following keys must be defined
+
+[`labels`](#labels-1), [`annotations`](#annotations-1)
 
 :::
 
