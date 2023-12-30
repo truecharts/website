@@ -150,7 +150,7 @@ Additional labels for service account
 | Key        | `serviceAccount.$name.labels` |
 | Type       | `map`                         |
 | Required   | ❌                            |
-| Helm `tpl` | ✅ (On value only)           |
+| Helm `tpl` | ✅ (On value only)            |
 | Default    | `{}`                          |
 
 Example
@@ -173,7 +173,7 @@ Additional annotations for service account
 | Key        | `serviceAccount.$name.annotations` |
 | Type       | `map`                              |
 | Required   | ❌                                 |
-| Helm `tpl` | ✅ (On value only)                |
+| Helm `tpl` | ✅ (On value only)                 |
 | Default    | `{}`                               |
 
 Example
