@@ -4,6 +4,23 @@ title: Changelog
 
 
 
+## [sonarr-19.0.6](https://github.com/truecharts/charts/compare/sonarr-19.0.0...sonarr-19.0.6) (2023-12-31)
+
+### Chore
+  
+- fix script
+- fix appVersion
+- bump
+- bump
+- bump
+
+### Fix
+  
+- fix auth ([#16697](https://github.com/truecharts/charts/issues/16697))title: Changelog
+---
+
+
+
 ## [sonarr-19.0.5](https://github.com/truecharts/charts/compare/sonarr-19.0.0...sonarr-19.0.5) (2023-12-31)
 
 ### Chore
