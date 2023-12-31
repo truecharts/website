@@ -4,6 +4,19 @@ title: Changelog
 
 
 
+## [sonarr-19.0.5](https://github.com/truecharts/charts/compare/sonarr-19.0.0...sonarr-19.0.5) (2023-12-31)
+
+### Chore
+  
+- fix script
+- fix appVersion
+- bump
+- bump
+- bumptitle: Changelog
+---
+
+
+
 ## [sonarr-19.0.0](https://github.com/truecharts/charts/compare/sonarr-18.1.0...sonarr-19.0.0) (2023-12-31)
 
 ### Chore
