@@ -1,10 +1,10 @@
-# Helm Security
+---
+title: Helm Security
+---
 
 ## Helm-Chart
 
 ##### Scan Results
 
-
-
-| No Misconfigurations found         |
-|:---------------------------------|
+| No Misconfigurations found |
+| :------------------------- |

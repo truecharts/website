@@ -2,6 +2,4 @@
 
 ##### Detected Containers
 
-
 ##### Scan Results
-
