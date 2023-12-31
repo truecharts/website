@@ -1,23 +1,165 @@
-# Job
+---
+title: Job
+---
 
-| Key                                              |   Type   | Required | Helm Template |   Default    | Description                                     |
-| :----------------------------------------------- | :------: | :------: | :-----------: | :----------: | :---------------------------------------------- |
-| workload.[workload-name].completionMode          | `string` |    ❌    |      ❌       | `NonIndexed` | Define the completionMode (Indexed, NonIndexed) |
-| workload.[workload-name].backoffLimit            |  `int`   |    ❌    |      ❌       |     `5`      | Define the backoffLimit                         |
-| workload.[workload-name].completions             |  `int`   |    ❌    |      ❌       |              | Define the completions                          |
-| workload.[workload-name].parallelism             |  `int`   |    ❌    |      ❌       |     `1`      | Define the parallelism                          |
-| workload.[workload-name].ttlSecondsAfterFinished |  `int`   |    ❌    |      ❌       |    `120`     | Define the ttlSecondsAfterFinished              |
-| workload.[workload-name].activeDeadlineSeconds   |  `int`   |    ❌    |      ❌       |              | Define the activeDeadlineSeconds                |
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Workload](./index.md) documentation for more information
+
+:::
+
+:::tip
+
+Replace references to `$name` with the actual name you want to use.
+
+:::
+
+## Appears in
+
+- `.Values.workload.$name`
 
 ---
 
-Notes:
+## `completionMode`
 
-View common `keys` of `workload` in [workload Documentation](index.md).
+Define the completionMode
+
+|            |                                 |
+| ---------- | ------------------------------- |
+| Key        | `workload.$name.completionMode` |
+| Type       | `string`                        |
+| Required   | ❌                              |
+| Helm `tpl` | ❌                              |
+| Default    | `NonIndexed`                    |
+
+Valid Values:
+
+- `Indexed`
+- `NonIndexed`
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    completionMode: Indexed
+```
 
 ---
 
-Examples:
+## `backoffLimit`
+
+Define the backoffLimit
+
+|            |                               |
+| ---------- | ----------------------------- |
+| Key        | `workload.$name.backoffLimit` |
+| Type       | `int`                         |
+| Required   | ❌                            |
+| Helm `tpl` | ❌                            |
+| Default    | `5`                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    backoffLimit: 5
+```
+
+---
+
+## `completions`
+
+Define the completions
+
+|            |                              |
+| ---------- | ---------------------------- |
+| Key        | `workload.$name.completions` |
+| Type       | `int`                        |
+| Required   | ❌                           |
+| Helm `tpl` | ❌                           |
+| Default    | unset                        |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    completions: 5
+```
+
+---
+
+## `parallelism`
+
+Define the parallelism
+
+|            |                              |
+| ---------- | ---------------------------- |
+| Key        | `workload.$name.parallelism` |
+| Type       | `int`                        |
+| Required   | ❌                           |
+| Helm `tpl` | ❌                           |
+| Default    | `1`                          |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    parallelism: 5
+```
+
+---
+
+## `ttlSecondsAfterFinished`
+
+Define the ttlSecondsAfterFinished
+
+|            |                                          |
+| ---------- | ---------------------------------------- |
+| Key        | `workload.$name.ttlSecondsAfterFinished` |
+| Type       | `int`                                    |
+| Required   | ❌                                       |
+| Helm `tpl` | ❌                                       |
+| Default    | `120`                                    |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    ttlSecondsAfterFinished: 100
+```
+
+---
+
+## `activeDeadlineSeconds`
+
+Define the activeDeadlineSeconds
+
+|            |                                        |
+| ---------- | -------------------------------------- |
+| Key        | `workload.$name.activeDeadlineSeconds` |
+| Type       | `int`                                  |
+| Required   | ❌                                     |
+| Helm `tpl` | ❌                                     |
+| Default    | unset                                  |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    activeDeadlineSeconds: 100
+```
+
+---
+
+## Full Examples
 
 ```yaml
 workload:

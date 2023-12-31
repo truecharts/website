@@ -1,25 +1,191 @@
-# Deployment
+---
+title: Deployment
+---
 
-| Key                                                   |   Type   | Required | Helm Template |                     Default                     | Description                                                          |
-| :---------------------------------------------------- | :------: | :------: | :-----------: | :---------------------------------------------: | :------------------------------------------------------------------- |
-| workload.[workload-name].replicas                     |  `int`   |    ❌    |      ❌       |                       `1`                       | The number of replicas                                               |
-| workload.[workload-name].revisionHistoryLimit         |  `int`   |    ❌    |      ❌       |                       `3`                       | The number of history revisions                                      |
-| workload.[workload-name].strategy                     | `string` |    ❌    |      ❌       |                   `Recreate`                    | Define the strategy of the workload (Recreate, RollingUpdate)        |
-| workload.[workload-name].rollingUpdate                |  `map`  |    ❌    |      ❌       |                      `{}`                       | Holds the rollingUpdate options, Only when strategy is RollingUpdate |
-| workload.[workload-name].rollingUpdate.maxUnavailable |  `int`   |    ❌    |      ❌       | `{{ .Values.fallbackDefaults.maxUnavailable }}` | Define the maxUnavailable, Only when strategy is RollingUpdate       |
-| workload.[workload-name].rollingUpdate.maxSurge       |  `int`   |    ❌    |      ❌       |    `{{ .Values.fallbackDefaults.maxSurge }}`    | Define the maxSurge, Only when strategy is RollingUpdate             |
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Workload](./index.md) documentation for more information
+
+:::
+
+:::tip
+
+Replace references to `$name` with the actual name you want to use.
+
+:::
+
+## Appears in
+
+- `.Values.workload.$name`
+
+## Notes
+
+Value of `workload.$name.podSpec.restartPolicy` can only be `Always` for this type of workload
 
 ---
 
-Notes:
+## `replicas`
 
-View common `keys` of `workload` in [workload Documentation](index.md).
+Define the number of replicas
 
-> Value of `workload.[workload-name].podSpec.restartPolicy` can only be `Always` for this type of workload
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `workload.$name.replicas` |
+| Type       | `int`                     |
+| Required   | ❌                        |
+| Helm `tpl` | ❌                        |
+| Default    | `1`                       |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    replicas: 1
+```
 
 ---
 
-Examples:
+## `revisionHistoryLimit`
+
+Define the number of history revisions
+
+|            |                                       |
+| ---------- | ------------------------------------- |
+| Key        | `workload.$name.revisionHistoryLimit` |
+| Type       | `int`                                 |
+| Required   | ❌                                    |
+| Helm `tpl` | ❌                                    |
+| Default    | `3`                                   |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    revisionHistoryLimit: 3
+```
+
+---
+
+## `strategy`
+
+Define the strategy of the workload
+
+|            |                           |
+| ---------- | ------------------------- |
+| Key        | `workload.$name.strategy` |
+| Type       | `string`                  |
+| Required   | ❌                        |
+| Helm `tpl` | ❌                        |
+| Default    | `Recreate`                |
+
+Valid Values:
+
+- `Recreate`
+- `RollingUpdate`
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    strategy: Recreate
+```
+
+---
+
+## `rollingUpdate`
+
+Define the rollingUpdate options
+
+:::note
+
+Can only be used when `workload.$name.strategy` is `RollingUpdate`
+
+:::
+
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `workload.$name.rollingUpdate` |
+| Type       | `map`                          |
+| Required   | ❌                             |
+| Helm `tpl` | ❌                             |
+| Default    | `{}`                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    rollingUpdate:
+      maxUnavailable: 1
+      maxSurge: 1
+```
+
+---
+
+## `rollingUpdate.maxUnavailable`
+
+Define the maxUnavailable
+
+:::note
+
+Can only be used when `workload.$name.strategy` is `RollingUpdate`
+
+:::
+
+|            |                                                 |
+| ---------- | ----------------------------------------------- |
+| Key        | `workload.$name.rollingUpdate.maxUnavailable`   |
+| Type       | `int`                                           |
+| Required   | ❌                                              |
+| Helm `tpl` | ❌                                              |
+| Default    | `{{ .Values.fallbackDefaults.maxUnavailable }}` |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    rollingUpdate:
+      maxUnavailable: 1
+```
+
+---
+
+## `rollingUpdate.maxSurge`
+
+Define the maxSurge
+
+:::note
+
+Can only be used when `workload.$name.strategy` is `RollingUpdate`
+
+:::
+
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Key        | `workload.$name.rollingUpdate.maxSurge`   |
+| Type       | `int`                                     |
+| Required   | ❌                                        |
+| Helm `tpl` | ❌                                        |
+| Default    | `{{ .Values.fallbackDefaults.maxSurge }}` |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    rollingUpdate:
+      maxSurge: 1
+```
+
+---
+
+## Full Examples
 
 ```yaml
 workload:
