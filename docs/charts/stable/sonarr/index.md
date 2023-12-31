@@ -14,17 +14,8 @@ Smart PVR for newsgroup and bittorrent users
 
 ## Available Documentation
 
-- [**Changelog
-- print titleChangelog
-- fix auth ([#16697](https://github.com/truecharts/charts/issues/16697))Changelog
-- fix auth ([#16697](https://github.com/truecharts/charts/issues/16697))Changelog
-- fix auth ([#16697](https://github.com/truecharts/charts/issues/16697))Changelog
-- bumpChangelog
-- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))Changelog**](./CHANGELOG.md)
-
 - [**Container Security**](./container-security.md)
 
 - [**Helm Security**](./helm-security.md)
 
-- [**Installation Notes**](./installation_notes.md)
-
+- [**Installation Notes**](installation_notes)

@@ -14,10 +14,6 @@ mongo-express is a web-based MongoDB admin interface written in Node.js, Express
 
 ## Available Documentation
 
-- [**Changelog
-- update container image docker.io/mongo-express to latest[@daa4a0d](https://github.com/daa4a0d) by renovate ([#16596](https://github.com/truecharts/charts/issues/16596))Changelog**](CHANGELOG)
-
 - [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

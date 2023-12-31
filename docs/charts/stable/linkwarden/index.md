@@ -14,10 +14,6 @@ Linkwarden is a self-hosted, open-source collaborative bookmark manager to colle
 
 ## Available Documentation
 
-- [**Changelog
-- update container image ghcr.io/linkwarden/linkwarden to v2.4.5[@0247ad1](https://github.com/0247ad1) by renovate ([#16677](https://github.com/truecharts/charts/issues/16677))Changelog**](CHANGELOG)
-
 - [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -15,10 +15,6 @@ A cross-platform, high-performance and asynchronous web server for static files-
 
 ## Available Documentation
 
-- [**Changelog
-- update container image ghcr.io/static-web-server/static-web-server to v2.24.2[@eb378ed](https://github.com/eb378ed) by renovate ([#16662](https://github.com/truecharts/charts/issues/16662))Changelog**](CHANGELOG)
-
 - [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

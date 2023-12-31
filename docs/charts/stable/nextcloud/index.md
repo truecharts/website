@@ -15,9 +15,6 @@ A private cloud server that puts the control and security of your own data back 
 
 ## Available Documentation
 
-- [**Changelog
-- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))Changelog**](CHANGELOG)
-
 - [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
@@ -25,4 +22,3 @@ A private cloud server that puts the control and security of your own data back 
 - [**Installation Notes**](installation-notes)
 
 - [**Nextcloud Migration Guide**](migration-guide)
-
