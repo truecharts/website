@@ -1,828 +1,551 @@
-# Changelog
-
-
+---
+title: Changelog
+---
 
 ## [authelia-22.1.0](https://github.com/truecharts/charts/compare/authelia-22.0.2...authelia-22.1.0) (2023-12-30)
 
 ### Chore
 
 - update helm general minor by renovate ([#16579](https://github.com/truecharts/charts/issues/16579))
-  
-  
-
 
 ## [authelia-22.0.2](https://github.com/truecharts/charts/compare/authelia-22.0.1...authelia-22.0.2) (2023-12-27)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16560](https://github.com/truecharts/charts/issues/16560))
-  
-  
-
 
 ## [authelia-22.0.1](https://github.com/truecharts/charts/compare/authelia-22.0.0...authelia-22.0.1) (2023-12-26)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16545](https://github.com/truecharts/charts/issues/16545))
-  
-  
-
 
 ## [authelia-22.0.0](https://github.com/truecharts/charts/compare/authelia-21.0.0...authelia-22.0.0) (2023-12-26)
 
 ### Chore
 
 - update helm general major by renovate (major) ([#16547](https://github.com/truecharts/charts/issues/16547))
-  
-  
-
 
 ## [authelia-22.0.0](https://github.com/truecharts/charts/compare/authelia-21.0.0...authelia-22.0.0) (2023-12-26)
 
 ### Chore
 
 - update helm general major by renovate (major) ([#16547](https://github.com/truecharts/charts/issues/16547))
-  
-  
-
 
 ## [authelia-21.0.0](https://github.com/truecharts/charts/compare/authelia-20.0.14...authelia-21.0.0) (2023-12-25)
 
 ### Chore
 
 - update helm chart common to 17.1.0 by renovate ([#16532](https://github.com/truecharts/charts/issues/16532))
-  
-  
-
 
 ## [authelia-20.0.14](https://github.com/truecharts/charts/compare/authelia-20.0.13...authelia-20.0.14) (2023-12-24)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16384](https://github.com/truecharts/charts/issues/16384))
-  
-  
-
 
 ## [authelia-20.0.13](https://github.com/truecharts/charts/compare/authelia-20.0.12...authelia-20.0.13) (2023-12-24)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16376](https://github.com/truecharts/charts/issues/16376))
-  
-  
-
 
 ## [authelia-20.0.12](https://github.com/truecharts/charts/compare/authelia-20.0.11...authelia-20.0.12) (2023-12-23)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16373](https://github.com/truecharts/charts/issues/16373))
-  
-  
-
 
 ## [authelia-20.0.11](https://github.com/truecharts/charts/compare/authelia-20.0.10...authelia-20.0.11) (2023-12-23)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16369](https://github.com/truecharts/charts/issues/16369))
-  
-  
-
 
 ## [authelia-20.0.10](https://github.com/truecharts/charts/compare/authelia-20.0.9...authelia-20.0.10) (2023-12-23)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16361](https://github.com/truecharts/charts/issues/16361))
-  
-  ### Fix
+
+### Fix
 
 - fix networks access control ([#16356](https://github.com/truecharts/charts/issues/16356))
-  
-  
-
 
 ## [authelia-20.0.9](https://github.com/truecharts/charts/compare/authelia-20.0.8...authelia-20.0.9) (2023-12-22)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16359](https://github.com/truecharts/charts/issues/16359))
-  
-  
-
 
 ## [authelia-20.0.8](https://github.com/truecharts/charts/compare/authelia-20.0.7...authelia-20.0.8) (2023-12-22)
 
 ### Fix
 
 - expose custom options for homepage integration
-  
-  
-
 
 ## [authelia-20.0.7](https://github.com/truecharts/charts/compare/authelia-20.0.6...authelia-20.0.7) (2023-12-21)
 
 ### Fix
 
 - bump to release middleware fix
-  
-  
-
 
 ## [authelia-20.0.6](https://github.com/truecharts/charts/compare/authelia-20.0.5...authelia-20.0.6) (2023-12-21)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16346](https://github.com/truecharts/charts/issues/16346))
-  
-  
-
 
 ## [authelia-20.0.5](https://github.com/truecharts/charts/compare/authelia-20.0.4...authelia-20.0.5) (2023-12-21)
 
 ### Chore
 
 - require ingress for certain charts
-  
-  
-
 
 ## [authelia-20.0.4](https://github.com/truecharts/charts/compare/authelia-20.0.3...authelia-20.0.4) (2023-12-21)
-
-
-
 
 ## [authelia-20.0.3](https://github.com/truecharts/charts/compare/authelia-20.0.2...authelia-20.0.3) (2023-12-21)
 
 ### Chore
 
 - bump everything to ensure patches are applied globally
-  
-  ### Fix
+
+### Fix
 
 - ensure the cnpg GUI is included on CNPG apps
-  
-  
-
 
 ## [authelia-20.0.2](https://github.com/truecharts/charts/compare/authelia-20.0.1...authelia-20.0.2) (2023-12-21)
 
 ### Chore
 
 - update helm general non-major by renovate ([#16341](https://github.com/truecharts/charts/issues/16341))
-  
-  
-
 
 ## [authelia-20.0.1](https://github.com/truecharts/charts/compare/authelia-20.0.0...authelia-20.0.1) (2023-12-20)
 
 ### Chore
 
 - bump patch versions on all charts for new GUI release
-  
-  
-
 
 ## [authelia-20.0.0](https://github.com/truecharts/charts/compare/authelia-19.0.17...authelia-20.0.0) (2023-12-20)
 
 ### Chore
 
 - update helm general major by renovate (major) ([#14631](https://github.com/truecharts/charts/issues/14631))
-  
-  
-
 
 ## [authelia-19.0.17](https://github.com/truecharts/charts/compare/authelia-19.0.16...authelia-19.0.17) (2023-12-20)
 
 ### Chore
 
 - Bump everything to force min/max scale version update
-  
-  
-
 
 ## [authelia-19.0.16](https://github.com/truecharts/charts/compare/authelia-19.0.14...authelia-19.0.16) (2023-12-16)
 
 ### Chore
 
 - fix move mistake and cleanup metadata
-  - update helm general non-major ([#14784](https://github.com/truecharts/charts/issues/14784))
-  
-  
-
+- update helm general non-major ([#14784](https://github.com/truecharts/charts/issues/14784))
 
 ## [authelia-19.0.16](https://github.com/truecharts/charts/compare/authelia-19.0.14...authelia-19.0.16) (2023-12-16)
 
 ### Chore
 
 - fix move mistake and cleanup metadata
-  - update helm general non-major ([#14784](https://github.com/truecharts/charts/issues/14784))
-  
-  
-
+- update helm general non-major ([#14784](https://github.com/truecharts/charts/issues/14784))
 
 ## [authelia-19.0.15](https://github.com/truecharts/charts/compare/authelia-19.0.14...authelia-19.0.15) (2023-12-16)
 
 ### Chore
 
 - fix move mistake and cleanup metadata
-  
-  
-
 
 ## [authelia-19.0.14](https://github.com/truecharts/charts/compare/authelia-19.0.13...authelia-19.0.14) (2023-12-03)
 
 ### Chore
 
 - bump everything to ensure catalog has latest versions
-  - fix annotations again
-  - update annotations
-  - cleanup chart.yaml and add min-max scale version
-  - lint files ([#15238](https://github.com/truecharts/charts/issues/15238))
-  
-  
-
-
-
-
-
-
-
-
-
+- fix annotations again
+- update annotations
+- cleanup chart.yaml and add min-max scale version
+- lint files ([#15238](https://github.com/truecharts/charts/issues/15238))
 
 ## [authelia-19.0.13](https://github.com/truecharts/charts/compare/authelia-19.0.12...authelia-19.0.13) (2023-11-17)
-
-
-
 
 ## [authelia-19.0.12](https://github.com/truecharts/charts/compare/authelia-19.0.11...authelia-19.0.12) (2023-11-10)
 
 ### Docs
 
 - add authelia rules page ([#14509](https://github.com/truecharts/charts/issues/14509))
-  
-  ### Feat
+
+### Feat
 
 - Update Authelia question tooltips and defaults ([#13487](https://github.com/truecharts/charts/issues/13487))
-  
-  
-
 
 ## [authelia-19.0.11](https://github.com/truecharts/charts/compare/authelia-19.0.10...authelia-19.0.11) (2023-11-09)
 
 ### Chore
 
 - update helm general non-major ([#14467](https://github.com/truecharts/charts/issues/14467))
-  
-  
-
 
 ## [authelia-19.0.10](https://github.com/truecharts/charts/compare/authelia-19.0.9...authelia-19.0.10) (2023-11-08)
 
 ### Chore
 
 - update helm general non-major ([#14465](https://github.com/truecharts/charts/issues/14465))
-  
-  
-
 
 ## [authelia-19.0.9](https://github.com/truecharts/charts/compare/authelia-19.0.8...authelia-19.0.9) (2023-11-08)
 
-
-
-
 ## [authelia-19.0.8](https://github.com/truecharts/charts/compare/authelia-19.0.7...authelia-19.0.8) (2023-11-08)
-
-
-
 
 ## [authelia-19.0.7](https://github.com/truecharts/charts/compare/authelia-19.0.6...authelia-19.0.7) (2023-11-08)
 
 ### Chore
 
 - update helm general non-major ([#14454](https://github.com/truecharts/charts/issues/14454))
-  
-  ### Fix
+
+### Fix
 
 - fix doc mistakes breaking rendering on docusaurus 3.0
-  
-  
-
 
 ## [authelia-19.0.6](https://github.com/truecharts/charts/compare/authelia-19.0.5...authelia-19.0.6) (2023-11-05)
 
 ### Chore
 
 - update helm general non-major ([#14365](https://github.com/truecharts/charts/issues/14365))
-  
-  
-
 
 ## [authelia-19.0.5](https://github.com/truecharts/charts/compare/authelia-19.0.4...authelia-19.0.5) (2023-11-03)
 
 ### Chore
 
 - update helm general non-major ([#14287](https://github.com/truecharts/charts/issues/14287))
-  
-  
-
 
 ## [authelia-19.0.4](https://github.com/truecharts/charts/compare/authelia-19.0.3...authelia-19.0.4) (2023-10-29)
 
 ### Chore
 
 - Fix typo in categories and make them singular ([#13693](https://github.com/truecharts/charts/issues/13693))
-  - update helm general non-major ([#14094](https://github.com/truecharts/charts/issues/14094))
-  
-  
-
+- update helm general non-major ([#14094](https://github.com/truecharts/charts/issues/14094))
 
 ## [authelia-19.0.3](https://github.com/truecharts/charts/compare/authelia-19.0.2...authelia-19.0.3) (2023-10-08)
 
 ### Chore
 
 - dont quote bools
-  
-  
-
 
 ## [authelia-19.0.2](https://github.com/truecharts/charts/compare/authelia-19.0.1...authelia-19.0.2) (2023-10-08)
 
 ### Chore
 
 - run precocmit ([#13387](https://github.com/truecharts/charts/issues/13387))
-  
-  ### Fix
+
+### Fix
 
 - handle input that might be transalted into objects/arrays ([#13319](https://github.com/truecharts/charts/issues/13319))
-  
-  
-
 
 ## [authelia-19.0.1](https://github.com/truecharts/charts/compare/authelia-19.0.0...authelia-19.0.1) (2023-10-07)
 
 ### Chore
 
 - update helm general non-major ([#13386](https://github.com/truecharts/charts/issues/13386))
-  
-  
-
 
 ## [authelia-19.0.0](https://github.com/truecharts/charts/compare/authelia-18.1.0...authelia-19.0.0) (2023-10-07)
 
 ### Chore
 
 - update helm general major (major) ([#11104](https://github.com/truecharts/charts/issues/11104))
-  
-  
-
 
 ## [authelia-18.1.0](https://github.com/truecharts/charts/compare/authelia-18.0.0...authelia-18.1.0) (2023-08-16)
 
 ### Feat
 
 - Add Password Policy ([#11109](https://github.com/truecharts/charts/issues/11109))
-  
-  
-
-
 
 ## [authelia-18.0.0](https://github.com/truecharts/charts/compare/authelia-17.0.2...authelia-18.0.0) (2023-07-31)
-
-
-
 
 ## [authelia-17.0.2](https://github.com/truecharts/charts/compare/authelia-17.0.1...authelia-17.0.2) (2023-07-30)
 
 ### Chore
 
 - update helm general non-major ([#11034](https://github.com/truecharts/charts/issues/11034))
-  
-  
-
 
 ## [authelia-17.0.1](https://github.com/truecharts/charts/compare/authelia-17.0.0...authelia-17.0.1) (2023-07-29)
 
 ### Chore
 
 - update helm general non-major ([#10955](https://github.com/truecharts/charts/issues/10955))
-  
-  
-
 
 ## [authelia-17.0.0](https://github.com/truecharts/charts/compare/authelia-16.0.0...authelia-17.0.0) (2023-07-25)
 
 ### Chore
 
 - update helm general major (major) ([#10722](https://github.com/truecharts/charts/issues/10722))
-  
-  
-
 
 ## [authelia-16.0.0](https://github.com/truecharts/charts/compare/authelia-15.1.31...authelia-16.0.0) (2023-07-19)
 
 ### Chore
 
 - update helm chart common to 13.2.0 ([#10555](https://github.com/truecharts/charts/issues/10555))
-  
-  
-
 
 ## [authelia-15.1.31](https://github.com/truecharts/charts/compare/authelia-15.1.30...authelia-15.1.31) (2023-07-01)
 
 ### Chore
 
 - update helm general non-major ([#10069](https://github.com/truecharts/charts/issues/10069))
-  
-  
-
 
 ## [authelia-15.1.30](https://github.com/truecharts/charts/compare/authelia-15.1.29...authelia-15.1.30) (2023-06-29)
 
 ### Fix
 
 - redirection URL require https ([#10026](https://github.com/truecharts/charts/issues/10026))
-  
-  
-
 
 ## [authelia-15.1.29](https://github.com/truecharts/charts/compare/authelia-15.1.28...authelia-15.1.29) (2023-06-17)
 
 ### Docs
 
 - Add extra section on middleware ([#9616](https://github.com/truecharts/charts/issues/9616))
-  
-  ### Fix
+
+### Fix
 
 - fix configmap ([#9724](https://github.com/truecharts/charts/issues/9724))
-  
-  
-
 
 ## [authelia-15.1.28](https://github.com/truecharts/charts/compare/authelia-15.1.27...authelia-15.1.28) (2023-06-13)
 
 ### Chore
 
 - update helm chart common to 12.14.2 ([#9599](https://github.com/truecharts/charts/issues/9599))
-  
-  ### Docs
+
+### Docs
 
 - Guide for Authelia+LLDAP+Traefik ([#9577](https://github.com/truecharts/charts/issues/9577))
-  
-  
-
 
 ## [authelia-15.1.27](https://github.com/truecharts/charts/compare/authelia-15.1.26...authelia-15.1.27) (2023-06-11)
 
 ### Chore
 
 - update helm general non-major ([#9558](https://github.com/truecharts/charts/issues/9558))
-  
-  
-
 
 ## [authelia-15.1.26](https://github.com/truecharts/charts/compare/authelia-15.1.25...authelia-15.1.26) (2023-06-07)
 
 ### Chore
 
 - update helm general non-major ([#9459](https://github.com/truecharts/charts/issues/9459))
-  
-  
-
 
 ## [authelia-15.1.25](https://github.com/truecharts/charts/compare/authelia-15.1.24...authelia-15.1.25) (2023-06-07)
 
 ### Chore
 
 - update helm general non-major ([#9457](https://github.com/truecharts/charts/issues/9457))
-  
-  
-
 
 ## [authelia-15.1.24](https://github.com/truecharts/charts/compare/authelia-15.1.23...authelia-15.1.24) (2023-06-07)
 
 ### Chore
 
 - update helm general non-major ([#9423](https://github.com/truecharts/charts/issues/9423))
-  
-  
-
 
 ## [authelia-15.1.23](https://github.com/truecharts/charts/compare/authelia-15.1.22...authelia-15.1.23) (2023-06-04)
 
 ### Chore
 
 - update helm general non-major ([#9393](https://github.com/truecharts/charts/issues/9393))
-  
-  ### Feat
+
+### Feat
 
 - hide advanced ingress options behind checbox ([#9203](https://github.com/truecharts/charts/issues/9203))
-  
-  
-
 
 ## [authelia-15.1.22](https://github.com/truecharts/charts/compare/authelia-15.1.21...authelia-15.1.22) (2023-05-27)
 
 ### Chore
 
 - update helm general non-major ([#9197](https://github.com/truecharts/charts/issues/9197))
-  
-  
-
 
 ## [authelia-15.1.21](https://github.com/truecharts/charts/compare/authelia-15.1.20...authelia-15.1.21) (2023-05-26)
 
 ### Chore
 
 - update helm general non-major ([#9156](https://github.com/truecharts/charts/issues/9156))
-  
-  
-
 
 ## [authelia-15.1.20](https://github.com/truecharts/charts/compare/authelia-15.1.19...authelia-15.1.20) (2023-05-24)
 
 ### Chore
 
 - update helm general non-major ([#9125](https://github.com/truecharts/charts/issues/9125))
-  
-  
-
 
 ## [authelia-15.1.19](https://github.com/truecharts/charts/compare/authelia-15.1.17...authelia-15.1.19) (2023-05-23)
 
 ### Chore
 
 - Improved lint speed ([#8809](https://github.com/truecharts/charts/issues/8809))
-  
-  
-
 
 ## [authelia-15.1.17](https://github.com/truecharts/charts/compare/authelia-15.1.16...authelia-15.1.17) (2023-05-22)
 
 ### Chore
 
 - update helm general non-major ([#9089](https://github.com/truecharts/charts/issues/9089))
-  
-  ### Fix
+
+### Fix
 
 - fix mistakes on questions.yaml
-  
-  
-
 
 ## [authelia-15.1.16](https://github.com/truecharts/charts/compare/authelia-15.1.15...authelia-15.1.16) (2023-05-16)
 
 ### Chore
 
 - update helm general non-major ([#8979](https://github.com/truecharts/charts/issues/8979))
-  
-  
-
 
 ## [authelia-15.1.15](https://github.com/truecharts/charts/compare/authelia-15.1.14...authelia-15.1.15) (2023-05-05)
 
 ### Chore
 
 - update helm general non-major ([#8782](https://github.com/truecharts/charts/issues/8782))
-  
-  
-
 
 ## [authelia-15.1.14](https://github.com/truecharts/charts/compare/authelia-15.1.13...authelia-15.1.14) (2023-05-05)
-
-
-
 
 ## [authelia-15.1.13](https://github.com/truecharts/charts/compare/authelia-15.1.12...authelia-15.1.13) (2023-05-03)
 
 ### Chore
 
 - update helm general non-major ([#8739](https://github.com/truecharts/charts/issues/8739))
-  
-  
-
 
 ## [authelia-15.1.12](https://github.com/truecharts/charts/compare/authelia-15.1.11...authelia-15.1.12) (2023-04-25)
 
 ### Chore
 
 - update helm general non-major ([#8153](https://github.com/truecharts/charts/issues/8153))
-  
-  
-
 
 ## [authelia-15.1.11](https://github.com/truecharts/charts/compare/authelia-15.1.10...authelia-15.1.11) (2023-04-25)
 
 ### Chore
 
 - update helm general non-major ([#8145](https://github.com/truecharts/charts/issues/8145))
-  
-  
-
 
 ## [authelia-15.1.10](https://github.com/truecharts/charts/compare/authelia-15.1.9...authelia-15.1.10) (2023-04-21)
-
-
-
 
 ## [authelia-15.1.9](https://github.com/truecharts/charts/compare/authelia-15.1.8...authelia-15.1.9) (2023-04-20)
 
 ### Chore
 
 - update helm general non-major ([#8087](https://github.com/truecharts/charts/issues/8087))
-  
-  
-
 
 ## [authelia-15.1.8](https://github.com/truecharts/charts/compare/authelia-15.1.7...authelia-15.1.8) (2023-04-16)
 
 ### Chore
 
 - update helm general non-major ([#8071](https://github.com/truecharts/charts/issues/8071))
-  
-  
-
 
 ## [authelia-15.1.7](https://github.com/truecharts/charts/compare/authelia-15.1.6...authelia-15.1.7) (2023-04-16)
 
 ### Chore
 
 - update helm general non-major ([#8061](https://github.com/truecharts/charts/issues/8061))
-  
-  
-
 
 ## [authelia-15.1.6](https://github.com/truecharts/charts/compare/authelia-15.1.5...authelia-15.1.6) (2023-04-15)
 
 ### Chore
 
 - update helm general non-major ([#7998](https://github.com/truecharts/charts/issues/7998))
-  
-  
-
 
 ## [authelia-15.1.5](https://github.com/truecharts/charts/compare/authelia-15.1.4...authelia-15.1.5) (2023-04-14)
-
-
-
 
 ## [authelia-15.1.4](https://github.com/truecharts/charts/compare/authelia-15.1.3...authelia-15.1.4) (2023-04-13)
 
 ### Chore
 
 - update helm general non-major ([#7966](https://github.com/truecharts/charts/issues/7966))
-  
-  
-
 
 ## [authelia-15.1.3](https://github.com/truecharts/charts/compare/authelia-15.1.2...authelia-15.1.3) (2023-04-11)
 
 ### Chore
 
 - update helm general non-major ([#7929](https://github.com/truecharts/charts/issues/7929))
-  
-  
-
 
 ## [authelia-15.1.2](https://github.com/truecharts/charts/compare/authelia-15.1.1...authelia-15.1.2) (2023-04-09)
 
 ### Chore
 
 - update helm general non-major ([#7907](https://github.com/truecharts/charts/issues/7907))
-  
-  
-
 
 ## [authelia-15.1.1](https://github.com/truecharts/charts/compare/authelia-15.1.0...authelia-15.1.1) (2023-04-05)
 
 ### Chore
 
 - bump common to 32 on enterprise charts
-  
-  
-
 
 ## [authelia-15.1.0](https://github.com/truecharts/charts/compare/authelia-15.0.13...authelia-15.1.0) (2023-03-22)
 
 ### Feat
 
 - allow for NTP failure by default ([#7824](https://github.com/truecharts/charts/issues/7824))
-  
-  
-
 
 ## [authelia-15.0.13](https://github.com/truecharts/charts/compare/authelia-15.0.12...authelia-15.0.13) (2023-03-19)
 
 ### Chore
 
 - bump common and deps on enterprise train ([#7819](https://github.com/truecharts/charts/issues/7819))
-  
-  
-
 
 ## [authelia-15.0.12](https://github.com/truecharts/charts/compare/authelia-15.0.11...authelia-15.0.12) (2023-03-09)
 
 ### Chore
 
 - bump dependencies and release 2 replica default
-  
-  ### Feat
+
+### Feat
 
 - replicas2 part 2
-  - run 2 replica's with rolling updates
-  
-  
-
+- run 2 replica's with rolling updates
 
 ## [authelia-15.0.11](https://github.com/truecharts/charts/compare/authelia-15.0.10...authelia-15.0.11) (2023-03-08)
-
-
-
 
 ## [authelia-15.0.10](https://github.com/truecharts/charts/compare/authelia-15.0.9...authelia-15.0.10) (2023-03-08)
 
 ### Fix
 
 - indent priv key ([#7770](https://github.com/truecharts/charts/issues/7770))
-  
-  
-
 
 ## [authelia-15.0.9](https://github.com/truecharts/charts/compare/authelia-15.0.8...authelia-15.0.9) (2023-03-08)
 
 ### Chore
 
 - cleanup secret a bit ([#7768](https://github.com/truecharts/charts/issues/7768))
-  
-  
-
 
 ## [authelia-15.0.8](https://github.com/truecharts/charts/compare/authelia-15.0.7...authelia-15.0.8) (2023-03-07)
 
 ### Fix
 
 - fix broken fetching of old values on authelia ([#7764](https://github.com/truecharts/charts/issues/7764))
-  
-  
-
 
 ## [authelia-15.0.7](https://github.com/truecharts/charts/compare/authelia-15.0.6...authelia-15.0.7) (2023-03-07)
 
 ### Fix
 
 - prevent encryption key resets
-  
-  
-
 
 ## [authelia-15.0.6](https://github.com/truecharts/charts/compare/authelia-15.0.5...authelia-15.0.6) (2023-03-07)
 
 ### Fix
 
 - misc fixes from common and prometheus storageclass patch ([#7762](https://github.com/truecharts/charts/issues/7762))
-  
-  
-
 
 ## [authelia-15.0.5](https://github.com/truecharts/charts/compare/authelia-15.0.4...authelia-15.0.5) (2023-03-06)
-
-
-
 
 ## [authelia-15.0.4](https://github.com/truecharts/charts/compare/authelia-15.0.3...authelia-15.0.4) (2023-03-06)
 
 ### Chore
 
 - bump common and dependencies ([#7751](https://github.com/truecharts/charts/issues/7751))
-  
-  
-
 
 ## [authelia-15.0.3](https://github.com/truecharts/charts/compare/authelia-15.0.1...authelia-15.0.3) (2023-03-06)
 
 ### Chore
 
 - bump common and dependencies ([#7749](https://github.com/truecharts/charts/issues/7749))
-  
-  
-
 
 ## [authelia-15.0.1](https://github.com/truecharts/charts/compare/authelia-15.0.0...authelia-15.0.1) (2023-03-05)
 
 ### Chore
 
 - bump common and enterprise train for stability ([#7747](https://github.com/truecharts/charts/issues/7747))
-  
-  ### Fix
+
+### Fix
 
 - bump common for release
-  
-  
-
 
 ## [authelia-15.0.0](https://github.com/truecharts/charts/compare/authelia-14.0.29...authelia-15.0.0) (2023-03-04)
-
