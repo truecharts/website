@@ -4,6 +4,16 @@ title: Changelog
 
 
 
+## [sonarr-19.0.12](https://github.com/truecharts/charts/compare/sonarr-19.0.10...sonarr-19.0.12) (2023-12-31)
+
+### Chore
+  
+- correct lists
+- fix titlestitle: Changelog
+---
+
+
+
 ## [sonarr-19.0.10](https://github.com/truecharts/charts/compare/sonarr-19.0.9...sonarr-19.0.10) (2023-12-31)
 
 ### Chore
