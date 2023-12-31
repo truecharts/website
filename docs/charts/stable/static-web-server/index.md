@@ -1,6 +1,8 @@
-# static-web-server
+---
+title: static-web-server
+---
 
-![Version: 3.1.0](https://img.shields.io/badge/Version-3.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.24.1](https://img.shields.io/badge/AppVersion-2.24.1-informational?style=flat-square)
+![Version: 3.1.1](https://img.shields.io/badge/Version-3.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.24.2](https://img.shields.io/badge/AppVersion-2.24.2-informational?style=flat-square)
 
 A cross-platform, high-performance and asynchronous web server for static files-serving.
 
@@ -13,9 +15,10 @@ A cross-platform, high-performance and asynchronous web server for static files-
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
+- [**Changelog
+- update container image ghcr.io/static-web-server/static-web-server to v2.24.2[@eb378ed](https://github.com/eb378ed) by renovate ([#16662](https://github.com/truecharts/charts/issues/16662))Changelog**](CHANGELOG)
 
-- [**Helm Security**](container-security)
+- [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

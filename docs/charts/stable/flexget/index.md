@@ -1,20 +1,23 @@
-# flexget
+---
+title: flexget
+---
 
-![Version: 8.1.0](https://img.shields.io/badge/Version-8.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.10.6](https://img.shields.io/badge/AppVersion-3.10.6-informational?style=flat-square)
+![Version: 8.2.0](https://img.shields.io/badge/Version-8.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.11.3](https://img.shields.io/badge/AppVersion-3.11.3-informational?style=flat-square)
 
 FlexGet is a multipurpose automation tool for all of your media
 
 ## Chart Sources
 
-- https://hub.docker.com/r/wiserain/flexget
 - https://github.com/wiserain/docker-flexget
 - https://github.com/truecharts/charts/tree/master/charts/stable/flexget
+- https://hub.docker.com/r/wiserain/flexget
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
+- [**Changelog
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))Changelog**](CHANGELOG)
 
-- [**Helm Security**](container-security)
+- [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

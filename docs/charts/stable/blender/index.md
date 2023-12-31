@@ -1,22 +1,25 @@
-# blender
+---
+title: blender
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.1](https://img.shields.io/badge/Version-4.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Blender(https://www.blender.org/) is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, virtual reality, and computer games. **This image does not support GPU rendering out of the box only accelerated workspace experience**
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/blender
-- https://fleet.linuxserver.io/image?name=linuxserver/blender
 - https://github.com/orgs/linuxserver/packages/container/package/blender
 - https://github.com/linuxserver/docker-blender#readme
 - https://www.blender.org/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/blender
+- https://fleet.linuxserver.io/image?name=linuxserver/blender
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
+- [**Changelog
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))Changelog**](CHANGELOG)
 
-- [**Helm Security**](container-security)
+- [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
 

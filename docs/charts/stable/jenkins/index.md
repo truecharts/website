@@ -1,6 +1,8 @@
-# jenkins
+---
+title: jenkins
+---
 
-![Version: 6.1.0](https://img.shields.io/badge/Version-6.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.437"](https://img.shields.io/badge/AppVersion-"2.437"-informational?style=flat-square)
+![Version: 6.2.0](https://img.shields.io/badge/Version-6.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "2.438"](https://img.shields.io/badge/AppVersion-"2.438"-informational?style=flat-square)
 
 The gold standard in devops tools for running CI/CD pipelines.
 
@@ -12,9 +14,10 @@ The gold standard in devops tools for running CI/CD pipelines.
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
+- [**Changelog
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))Changelog**](CHANGELOG)
 
-- [**Helm Security**](container-security)
+- [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
