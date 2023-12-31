@@ -1,20 +1,23 @@
-# mongo-express
+---
+title: mongo-express
+---
 
-![Version: 5.1.0](https://img.shields.io/badge/Version-5.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.1.1](https://img.shields.io/badge/Version-5.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 mongo-express is a web-based MongoDB admin interface written in Node.js, Express.js, and Bootstrap3.
 
 ## Chart Sources
 
-- https://hub.docker.com/_/mongo-express
 - https://github.com/mongo-express/mongo-express
 - https://github.com/truecharts/charts/tree/master/charts/stable/mongo-express
+- https://hub.docker.com/_/mongo-express
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
+- [**Changelog
+- update container image docker.io/mongo-express to latest[@daa4a0d](https://github.com/daa4a0d) by renovate ([#16596](https://github.com/truecharts/charts/issues/16596))Changelog**](CHANGELOG)
 
-- [**Helm Security**](container-security)
+- [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
