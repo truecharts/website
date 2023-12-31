@@ -17,4 +17,3 @@ This Chart will download and install the version of OpenTTD that you enter in th
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

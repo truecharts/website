@@ -19,4 +19,3 @@ SSHwifty is a SSH and Telnet connector made for the Web.
 - [**Disclaimer**](disclaimer)
 
 - [**Helm Security**](helm-security)
-

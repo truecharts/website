@@ -17,4 +17,3 @@ Creates a simple webpage for Slack invite signups
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

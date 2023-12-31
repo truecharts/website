@@ -18,4 +18,3 @@ Prometheus Exporter for the official uptimerobot CLI
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -20,4 +20,3 @@ Simple email relay server for kavita.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

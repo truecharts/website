@@ -17,4 +17,3 @@ BatNoter is a web application that allows users to store notes in their git repo
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

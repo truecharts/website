@@ -12,7 +12,7 @@ Kubernetes: `>=1.16.0-0`
 ## Dependencies
 
 | Repository | Name | Version |
-|------------|------|---------|
+| ---------- | ---- | ------- |
 
 ## Installing the Chart
 

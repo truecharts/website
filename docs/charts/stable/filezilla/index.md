@@ -18,4 +18,3 @@ A Helm chart for Kubernetes
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

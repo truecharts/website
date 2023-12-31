@@ -17,4 +17,3 @@ Anime cataloging program designed to automate the cataloging of your collection.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

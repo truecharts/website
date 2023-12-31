@@ -19,4 +19,3 @@ Eclipse Mosquitto - An open source MQTT broker
 - [**Helm Security**](helm-security)
 
 - [**Configure password authentication**](setup-guide)
-

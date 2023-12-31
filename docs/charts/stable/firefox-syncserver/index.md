@@ -17,4 +17,3 @@ This is an all-in-one package for running a self-hosted Firefox Sync server.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

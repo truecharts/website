@@ -18,4 +18,3 @@ Test your General Knowledge in different types of topics.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

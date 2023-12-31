@@ -19,4 +19,3 @@ A modern web frontend making aria2 easier to use | Aria2 WebUI.
 - [**Helm Security**](helm-security)
 
 - [**How To**](how-to)
-

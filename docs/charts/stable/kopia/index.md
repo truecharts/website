@@ -18,4 +18,3 @@ Kopia is a simple, cross-platform tool for managing encrypted backups in the clo
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

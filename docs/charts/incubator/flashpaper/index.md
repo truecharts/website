@@ -17,4 +17,3 @@ One-time encrypted password/secret sharing
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

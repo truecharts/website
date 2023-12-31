@@ -17,4 +17,3 @@ YaCy decentralized search engine (https://yacy.net)
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

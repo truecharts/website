@@ -15,4 +15,3 @@ Dedicated App for using Docker-Compose on TrueNAS SCALE
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

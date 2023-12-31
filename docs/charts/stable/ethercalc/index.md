@@ -17,4 +17,3 @@ EtherCalc is a web spreadsheet.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

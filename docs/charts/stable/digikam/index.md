@@ -18,4 +18,3 @@ Professional Photo Management with the Power of Open Source
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

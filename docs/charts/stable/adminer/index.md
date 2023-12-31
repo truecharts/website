@@ -17,4 +17,3 @@ Adminer (formerly phpMinAdmin) is a full-featured database management tool writt
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -18,4 +18,3 @@ A free and non-commercial open-source operating system alternative for running a
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -17,4 +17,3 @@ Open-source inpainting tool powered by SOTA AI model.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

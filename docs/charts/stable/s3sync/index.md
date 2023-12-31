@@ -17,4 +17,3 @@ This application backs up every folder mounted at `/data/` to a given AWS S3 pat
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

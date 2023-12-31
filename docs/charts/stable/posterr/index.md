@@ -19,4 +19,3 @@ Media display for Plex, Sonarr and Radarr.
 - [**Default Credentials**](default_credentials)
 
 - [**Helm Security**](helm-security)
-

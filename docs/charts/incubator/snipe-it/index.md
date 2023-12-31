@@ -20,4 +20,3 @@ Open source asset management
 - [**Helm Security**](helm-security)
 
 - [**Initial install**](installation_notes)
-

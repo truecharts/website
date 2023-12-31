@@ -17,4 +17,3 @@ A database-less note taking web app that utilizes a flat folder of markdown file
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

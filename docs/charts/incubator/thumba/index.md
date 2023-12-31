@@ -19,4 +19,3 @@ A self hosted Thumbnail generator/finder which creates thumbnails based on folde
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

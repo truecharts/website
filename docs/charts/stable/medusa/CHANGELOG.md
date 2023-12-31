@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [medusa-9.1.1](https://github.com/truecharts/charts/compare/medusa-9.1.0...medusa-9.1.1) (2023-12-31)
 
 ### Chore

@@ -16,4 +16,3 @@ TvhProxy is a small flask app to proxy requests between Plex Media Server and Tv
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

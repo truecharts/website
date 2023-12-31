@@ -23,4 +23,3 @@ Lightweight ldap server for authentication and user management
 - [**Helm Security**](helm-security)
 
 - [**Installation notes**](installation-notes)
-

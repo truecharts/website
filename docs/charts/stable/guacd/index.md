@@ -17,4 +17,3 @@ Guacd - Apache Guacamole is a clientless remote desktop gateway.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

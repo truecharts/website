@@ -18,4 +18,3 @@ Mattermost is an open source platform for secure collaboration across the entire
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

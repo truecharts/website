@@ -19,4 +19,3 @@ NetBox is the leading solution for modeling and documenting modern networks.
 - [**Default Credentials**](default-credentials)
 
 - [**Helm Security**](helm-security)
-

@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [wekan-13.2.0](https://github.com/truecharts/charts/compare/wekan-13.1.0...wekan-13.2.0) (2023-12-31)
 
 ### Chore

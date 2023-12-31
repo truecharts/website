@@ -16,4 +16,3 @@ A fork of Mozilla's Firefox Send.Mozilla discontinued Send, this fork is a commu
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

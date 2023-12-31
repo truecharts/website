@@ -19,4 +19,3 @@ Avidemux is a free video editor designed for simple cutting, filtering and encod
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

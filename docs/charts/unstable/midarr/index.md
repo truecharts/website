@@ -19,4 +19,3 @@ Midarr is a minimal lightweight media server for enjoying your media
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation-notes)
-

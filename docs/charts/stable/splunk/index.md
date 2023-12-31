@@ -17,4 +17,3 @@ This is a Chartfile for Splunk designed for OpenShift and TrueNAS based on Alpin
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

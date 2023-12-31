@@ -4,7 +4,6 @@
 
 Automated Movie Trailer Downloader :: AMTD is a Radarr Companion script to automatically download movie trailers for use in media applications
 
-
 ## Available Documentation
 
 - [**Changelog**](CHANGELOG)
@@ -12,4 +11,3 @@ Automated Movie Trailer Downloader :: AMTD is a Radarr Companion script to autom
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -17,4 +17,3 @@ Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FT
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

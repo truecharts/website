@@ -16,4 +16,3 @@ Control AndroidTV/FireTV devices through ADB from the Home Assistant Core Chart.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

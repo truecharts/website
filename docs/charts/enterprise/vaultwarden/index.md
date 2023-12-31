@@ -19,4 +19,3 @@ Unofficial Bitwarden compatible server written in Rust
 - [**Disabling the Admin Interface**](disable-admin-page-guide)
 
 - [**Helm Security**](helm-security)
-

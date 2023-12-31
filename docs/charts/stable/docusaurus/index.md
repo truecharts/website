@@ -19,4 +19,3 @@ Docusaurus makes it easy to maintain Open Source documentation websites.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

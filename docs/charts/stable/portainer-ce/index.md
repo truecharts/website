@@ -13,4 +13,3 @@ Container management made easy
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation-notes)
-

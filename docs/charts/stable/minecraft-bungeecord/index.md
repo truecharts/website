@@ -21,4 +21,3 @@ the front-end of a cluster of minecraft-java containers.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

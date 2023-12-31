@@ -17,4 +17,3 @@ A Lidarr companion script to automatically download music for Lidarr.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

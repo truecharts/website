@@ -19,4 +19,3 @@ A self-hosted internet performance tracking application that runs speedtest chec
 - [**Default Credentials**](credentials)
 
 - [**Helm Security**](helm-security)
-

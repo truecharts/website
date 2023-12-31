@@ -16,4 +16,3 @@ This is a simple Chart that will check if a domain name or IP address is pingabl
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

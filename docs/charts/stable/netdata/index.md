@@ -17,4 +17,3 @@ Netdata is high-fidelity infrastructure monitoring and troubleshooting.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

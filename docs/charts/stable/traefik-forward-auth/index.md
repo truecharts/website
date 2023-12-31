@@ -19,4 +19,3 @@ A minimal forward authentication service that provides OAuth/SSO login and authe
 - [**Helm Security**](helm-security)
 
 - [**traefik-forward-auth**](how-to)
-

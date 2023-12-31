@@ -18,4 +18,3 @@ The official Tachidesk Chart-Chart.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

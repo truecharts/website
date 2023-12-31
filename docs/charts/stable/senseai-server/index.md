@@ -17,4 +17,3 @@ A standalone, self-hosted, fast, free and Open Source Artificial Intelligence mi
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

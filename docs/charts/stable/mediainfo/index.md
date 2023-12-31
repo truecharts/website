@@ -19,4 +19,3 @@ MediaInfo is a convenient unified display of the most relevant technical and tag
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

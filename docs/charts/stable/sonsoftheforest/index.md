@@ -17,4 +17,3 @@ A custom SteamCMD chart that runs Sons Of The Forest Server.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

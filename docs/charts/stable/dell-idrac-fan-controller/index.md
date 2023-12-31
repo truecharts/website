@@ -19,4 +19,3 @@ Control your Dell PowerEdge fans via IPMI
 - [**Helm Security**](helm-security)
 
 - [**Dell iDrac Fan Controller Installation Notes**](install-notes)
-

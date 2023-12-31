@@ -19,4 +19,3 @@ FileBot is the ultimate tool for organizing and renaming your movies, tv shows o
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

@@ -17,4 +17,3 @@ farmOS is a web-based application for farm management, planning, and record keep
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

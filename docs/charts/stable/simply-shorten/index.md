@@ -19,4 +19,3 @@ A dead simple URL shortener.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

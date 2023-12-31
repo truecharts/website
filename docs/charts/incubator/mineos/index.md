@@ -19,4 +19,3 @@ MineOS is a server front-end to ease managing Minecraft administrative tasks.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

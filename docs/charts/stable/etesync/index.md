@@ -19,4 +19,3 @@ Secure, end-to-end encrypted, and privacy respecting sync for your contacts, cal
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

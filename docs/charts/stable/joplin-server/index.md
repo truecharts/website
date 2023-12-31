@@ -20,4 +20,3 @@ Allows you to sync any Joplin client.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

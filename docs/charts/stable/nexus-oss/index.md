@@ -16,4 +16,3 @@ Sonatype Nexus open source is a artifact repository manager
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

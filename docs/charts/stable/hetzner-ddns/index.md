@@ -17,4 +17,3 @@ This Chart will allow you to use the Hetzner DNS Service (https://www.hetzner.co
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

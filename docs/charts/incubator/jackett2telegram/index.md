@@ -17,4 +17,3 @@ Self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Tel
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

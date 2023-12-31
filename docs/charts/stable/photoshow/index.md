@@ -18,4 +18,3 @@ A gallery software at its easiest, it doesn't even require a database.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

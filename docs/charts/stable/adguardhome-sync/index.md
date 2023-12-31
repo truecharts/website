@@ -17,4 +17,3 @@ Synchronize AdGuardHome config to replica instances.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

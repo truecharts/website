@@ -17,4 +17,3 @@ This Chart will download and install Thunderbird in the preferred version and la
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -18,4 +18,3 @@ kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Pro
 - [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

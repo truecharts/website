@@ -17,4 +17,3 @@ Jellyseerr is a fork of Overseerr with support for Jellyfin and Emby. It can be 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

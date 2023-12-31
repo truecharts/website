@@ -17,4 +17,3 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

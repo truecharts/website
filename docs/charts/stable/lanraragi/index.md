@@ -20,4 +20,3 @@ Open source server for archival of comics/manga.
 - [**Default Password**](credentials)
 
 - [**Helm Security**](helm-security)
-

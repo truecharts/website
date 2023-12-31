@@ -19,4 +19,3 @@ Python script to update metadata and automatically build collections.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

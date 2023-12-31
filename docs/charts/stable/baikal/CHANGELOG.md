@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [baikal-4.2.1](https://github.com/truecharts/charts/compare/baikal-4.2.0...baikal-4.2.1) (2023-12-31)
 
 ### Chore
@@ -16,9 +14,6 @@ title: Changelog
 ### Feat
 
 - Add Skip chown command in startup script ([#16584](https://github.com/truecharts/charts/issues/16584))
-
-
-
 
 ## [baikal-4.1.0](https://github.com/truecharts/charts/compare/baikal-4.0.1...baikal-4.1.0) (2023-12-30)
 

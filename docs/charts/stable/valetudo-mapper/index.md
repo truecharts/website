@@ -17,4 +17,3 @@ Valetudo-RE companion service for generating PNG maps.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

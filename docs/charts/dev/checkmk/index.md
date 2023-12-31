@@ -17,4 +17,3 @@ Checkmk is a leading tool for Infrastructure and Application Monitoring. Simple 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -17,4 +17,3 @@ Electrum is a Bitcoin wallet focused on speed and simplicity, with low resource 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

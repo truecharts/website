@@ -19,4 +19,3 @@ Redmine is a flexible project management web application written using Ruby on R
 - [**How to install the custom theme with PVC storage**](custom-theme)
 
 - [**Helm Security**](helm-security)
-

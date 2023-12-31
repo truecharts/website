@@ -17,4 +17,3 @@ This is a dependancy Chart for the application "TubeArchivist"
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

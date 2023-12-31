@@ -19,4 +19,3 @@ A Discord bot that displays live data from Tautulli.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

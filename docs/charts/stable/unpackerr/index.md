@@ -17,4 +17,3 @@ This application runs as a daemon on your download host. It checks for completed
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -20,4 +20,3 @@ A command-line application that will automatically synchronize recommended setti
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

@@ -17,4 +17,3 @@ Self Hosted, self contained New Year Countdown clock
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -17,4 +17,3 @@ A Chart Chart designed to watch a directory and encode media files.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -19,4 +19,3 @@ Skyrim Together Reborn server files.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

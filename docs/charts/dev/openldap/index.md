@@ -18,4 +18,3 @@ Community developed LDAP software
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

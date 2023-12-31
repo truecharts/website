@@ -17,4 +17,3 @@ An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

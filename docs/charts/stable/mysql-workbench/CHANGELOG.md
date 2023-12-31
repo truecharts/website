@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [mysql-workbench-8.1.1](https://github.com/truecharts/charts/compare/mysql-workbench-8.1.0...mysql-workbench-8.1.1) (2023-12-31)
 
 ### Chore

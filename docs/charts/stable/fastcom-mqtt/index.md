@@ -4,7 +4,6 @@
 
 Chart Chart with Fast.com CLI sending data directly to MQTT Broker
 
-
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fastcom-mqtt
@@ -18,4 +17,3 @@ Chart Chart with Fast.com CLI sending data directly to MQTT Broker
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

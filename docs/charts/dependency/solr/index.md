@@ -17,4 +17,3 @@ Apache Solr
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

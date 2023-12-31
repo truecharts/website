@@ -17,4 +17,3 @@ A free and open source Statistics App for Jellyfin.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

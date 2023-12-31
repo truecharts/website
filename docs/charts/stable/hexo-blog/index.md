@@ -17,4 +17,3 @@ A self-hosted blogging platform in which posts are written in markdown
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

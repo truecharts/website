@@ -19,4 +19,3 @@ WireGuard-based VPN server and egress firewall
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

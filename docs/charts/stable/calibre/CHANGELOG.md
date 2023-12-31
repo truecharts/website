@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [calibre-13.1.1](https://github.com/truecharts/charts/compare/calibre-13.1.0...calibre-13.1.1) (2023-12-31)
 
 ### Chore

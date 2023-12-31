@@ -17,4 +17,3 @@ Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FT
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

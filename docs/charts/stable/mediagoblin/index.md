@@ -17,4 +17,3 @@ MediaGoblin is a free software media publishing platform that anyone can run. Yo
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

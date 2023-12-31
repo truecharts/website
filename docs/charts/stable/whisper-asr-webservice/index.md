@@ -19,4 +19,3 @@ Whisper is a general-purpose speech recognition model.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

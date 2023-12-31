@@ -17,4 +17,3 @@ PhotoPrismÂ® is a server-based application for browsing, organizing and sharin
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

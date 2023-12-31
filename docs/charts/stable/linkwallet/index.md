@@ -17,4 +17,3 @@ A self-hosted bookmark database with full-text page content search.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

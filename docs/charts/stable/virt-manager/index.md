@@ -16,4 +16,3 @@ The virt-manager application is a desktop user interface for managing virtual ma
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

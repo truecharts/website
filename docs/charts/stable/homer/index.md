@@ -17,4 +17,3 @@ A dead simple static homepage for your server to keep your services on hand.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

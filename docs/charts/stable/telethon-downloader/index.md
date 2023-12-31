@@ -17,4 +17,3 @@ This is a simple Chart that downloads files sent to a telegram bot up to 2000mb 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

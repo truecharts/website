@@ -18,4 +18,3 @@ A simple bookmark manager built with Go.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

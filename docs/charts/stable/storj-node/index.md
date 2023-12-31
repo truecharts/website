@@ -18,4 +18,3 @@ Storj is an S3-compatible platform and suite of decentralized applications that 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

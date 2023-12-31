@@ -17,4 +17,3 @@ Gets external IP via DIG command ( OpenDNS , Cloudflare, google ) on a scheduled
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

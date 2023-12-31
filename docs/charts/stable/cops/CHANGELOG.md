@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [cops-7.1.1](https://github.com/truecharts/charts/compare/cops-7.1.0...cops-7.1.1) (2023-12-31)
 
 ### Chore

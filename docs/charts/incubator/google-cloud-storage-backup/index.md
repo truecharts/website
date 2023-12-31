@@ -4,7 +4,6 @@
 
 A simple way to backup important files to Google Cloud Storage.
 
-
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/google-cloud-storage-backup
@@ -17,4 +16,3 @@ A simple way to backup important files to Google Cloud Storage.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

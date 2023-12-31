@@ -18,4 +18,3 @@ ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS prov
 - [**Helm Security**](helm-security)
 
 - [**External-DNS Setup Guide**](setup-guide)
-

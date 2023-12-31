@@ -23,4 +23,3 @@ Plex Media Server
 - [**Community Migration Guide**](migration_guide)
 
 - [**Input Validation**](validation)
-

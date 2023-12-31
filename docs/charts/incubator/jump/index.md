@@ -17,4 +17,3 @@ Jump is yet another self-hosted startpage for your server designed to be simple,
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

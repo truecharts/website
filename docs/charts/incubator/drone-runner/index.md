@@ -17,4 +17,3 @@ Drone by Harness™ is a modern Continuous Integration platform
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

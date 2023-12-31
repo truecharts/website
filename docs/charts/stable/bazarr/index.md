@@ -17,4 +17,3 @@ Bazarr is a companion application to Sonarr and Radarr. It manages and downloads
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

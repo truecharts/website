@@ -20,4 +20,3 @@ Filebrowser provides a file managing interface within a specified directory
 - [**Helm Security**](helm-security)
 
 - [**Installation notes**](installation_notes)
-

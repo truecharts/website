@@ -18,4 +18,3 @@ A knowledge base that works on local Markdown files.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -17,4 +17,3 @@ Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

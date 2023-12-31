@@ -17,4 +17,3 @@ FileShelter is a self-hosted software that allows you to easily share files over
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -19,4 +19,3 @@ NextPVR is a personal video recorder application, with the goal making it easy t
 - [**Default Username/Password**](credentials)
 
 - [**Helm Security**](helm-security)
-

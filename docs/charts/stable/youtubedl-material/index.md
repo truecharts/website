@@ -17,4 +17,3 @@ YoutubeDL-Material is a Material Design frontend for youtube-dl.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -18,4 +18,3 @@ Jitsi is a set of open-source projects that allows you to easily build and deplo
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

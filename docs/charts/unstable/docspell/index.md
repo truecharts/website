@@ -21,4 +21,3 @@ Docspell is a personal document organizer.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation-notes)
-

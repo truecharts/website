@@ -17,4 +17,3 @@ MEGAsync can synchronize all of your devices with your MEGA account.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

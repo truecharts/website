@@ -19,4 +19,3 @@ This is the unified client for Notifiarr.com. The client enables content request
 - [**Helm Security**](helm-security)
 
 - [**Setup Guide**](how-to)
-

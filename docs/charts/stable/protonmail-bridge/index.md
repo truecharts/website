@@ -19,4 +19,3 @@ ProtonMail IMAP/SMTP Bridge to work on the network.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

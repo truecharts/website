@@ -16,4 +16,3 @@ Autoscan replaces the default Plex and Emby behaviour for picking up file change
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

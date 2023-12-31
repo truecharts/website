@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [vintage-story-4.1.1](https://github.com/truecharts/charts/compare/vintage-story-4.1.0...vintage-story-4.1.1) (2023-12-31)
 
 ### Chore

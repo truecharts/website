@@ -17,4 +17,3 @@ Discord bot that provides metrics from a Discord server
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

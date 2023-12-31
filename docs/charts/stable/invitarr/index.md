@@ -19,4 +19,3 @@ A chatbot that invites discord users to plex.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

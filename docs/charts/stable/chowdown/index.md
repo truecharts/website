@@ -16,4 +16,3 @@ Simple recipes in Markdown format.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

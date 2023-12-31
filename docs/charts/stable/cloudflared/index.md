@@ -18,4 +18,3 @@ Client for Cloudflare Tunnel, a daemon that exposes private services through the
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

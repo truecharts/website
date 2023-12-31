@@ -19,4 +19,3 @@ A simple script to monitor qBit and communicate with Radarr and Sonarr.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation-notes)
-

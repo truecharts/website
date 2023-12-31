@@ -17,4 +17,3 @@ This is the frontend template used in the Project Zomboid Reporter. All visuals 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

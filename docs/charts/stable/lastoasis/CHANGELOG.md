@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [lastoasis-4.1.1](https://github.com/truecharts/charts/compare/lastoasis-4.1.0...lastoasis-4.1.1) (2023-12-31)
 
 ### Chore

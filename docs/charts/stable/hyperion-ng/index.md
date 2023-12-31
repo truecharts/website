@@ -17,4 +17,3 @@ Hyperion is an opensource Bias or Ambient Lighting implementation
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

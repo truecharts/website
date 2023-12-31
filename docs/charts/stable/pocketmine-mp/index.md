@@ -19,4 +19,3 @@ A server software for Minecraft Bedrock Edition in PHP.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

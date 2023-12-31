@@ -17,4 +17,3 @@ Kavita is a rocket fueled self-hosted digital library which supports a vast arra
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

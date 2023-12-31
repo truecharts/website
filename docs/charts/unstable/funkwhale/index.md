@@ -17,4 +17,3 @@ Funkwhale is designed to make it easy to listen to music you like, and to discov
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

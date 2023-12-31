@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [local-ai-8.7.0](https://github.com/truecharts/charts/compare/local-ai-8.1.0...local-ai-8.7.0) (2023-12-31)
 
 ### Chore

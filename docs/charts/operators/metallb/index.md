@@ -18,4 +18,3 @@ A network load-balancer implementation for Kubernetes using standard routing pro
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

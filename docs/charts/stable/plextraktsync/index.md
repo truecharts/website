@@ -17,4 +17,3 @@ Two-way-sync between trakt.tv and Plex Media Server.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

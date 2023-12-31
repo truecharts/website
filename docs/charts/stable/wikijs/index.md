@@ -18,4 +18,3 @@ Make documentation a joy to write using Wiki.js's beautiful and intuitive interf
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

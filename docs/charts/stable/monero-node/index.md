@@ -17,4 +17,3 @@ Chart to run a monero full network node
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

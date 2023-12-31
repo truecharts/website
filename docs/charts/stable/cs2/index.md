@@ -17,4 +17,3 @@ A custom SteamCMD chart that runs CS2.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

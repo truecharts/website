@@ -17,4 +17,3 @@ Fancyindex provides a lightweight nginx directory listing with theming support
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

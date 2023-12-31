@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [tar1090-4.1.1](https://github.com/truecharts/charts/compare/tar1090-4.1.0...tar1090-4.1.1) (2023-12-31)
 
 ### Chore

@@ -17,4 +17,3 @@ Unified UI and API for processing and training images for facial recognition
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

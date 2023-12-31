@@ -17,4 +17,3 @@ Web-based LDAP browser to manage your LDAP server
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

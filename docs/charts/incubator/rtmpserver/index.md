@@ -19,4 +19,3 @@ A video streaming server that supports RTMP, HLS, DASH out of the box.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

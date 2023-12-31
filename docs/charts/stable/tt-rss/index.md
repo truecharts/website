@@ -21,4 +21,3 @@ Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader an
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

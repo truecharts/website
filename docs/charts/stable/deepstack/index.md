@@ -20,4 +20,3 @@ DeepStack AI provides AI features including Face Recognition, Object Detection, 
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

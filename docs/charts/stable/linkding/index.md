@@ -17,4 +17,3 @@ Linkding is a simple bookmark service that you can host yourself. It's designed 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

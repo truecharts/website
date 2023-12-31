@@ -16,4 +16,3 @@ Lenpaste is a web service that allows you to share notes anonymously
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

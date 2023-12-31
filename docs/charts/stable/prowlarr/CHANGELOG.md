@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [prowlarr-14.1.2](https://github.com/truecharts/charts/compare/prowlarr-14.1.1...prowlarr-14.1.2) (2023-12-31)
 
 ### Chore
@@ -12,9 +10,6 @@ title: Changelog
 - lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))
 
 ## [prowlarr-14.1.1](https://github.com/truecharts/charts/compare/prowlarr-14.1.0...prowlarr-14.1.1) (2023-12-31)
-
-
-
 
 ## [prowlarr-14.1.0](https://github.com/truecharts/charts/compare/prowlarr-14.0.1...prowlarr-14.1.0) (2023-12-30)
 

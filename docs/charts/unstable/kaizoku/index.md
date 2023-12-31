@@ -17,4 +17,3 @@ A self-hosted manga downloader.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

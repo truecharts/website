@@ -17,4 +17,3 @@ This Chart will download and install CounterStrike 2D.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

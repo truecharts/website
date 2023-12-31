@@ -19,4 +19,3 @@ webNUT (UPS network monitoring web ui).
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

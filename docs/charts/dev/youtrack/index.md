@@ -19,4 +19,3 @@ YouTrack is a project management tool that can be adapted to your processes to h
 - [**Default Credentials**](default_credentials)
 
 - [**Helm Security**](helm-security)
-

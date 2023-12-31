@@ -17,4 +17,3 @@ Headless version of the YACReaderLibraryServer.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

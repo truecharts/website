@@ -15,4 +15,3 @@ Collabora Online Development Edition - an awesome, Online Office suite image sui
 - [**Installation Notes**](installation_notes)
 
 - [**Input Validation**](validation)
-

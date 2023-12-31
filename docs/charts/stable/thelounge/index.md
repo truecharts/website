@@ -17,4 +17,3 @@ The Lounge, modern web IRC client designed for self-hosting
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

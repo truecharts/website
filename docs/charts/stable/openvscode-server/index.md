@@ -16,4 +16,3 @@ Openvscode-server provides a version of VS Code that runs a server on a remote m
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

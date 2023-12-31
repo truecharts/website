@@ -17,4 +17,3 @@ A self-hosted open source photo management service.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

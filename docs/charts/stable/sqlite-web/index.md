@@ -17,4 +17,3 @@ sqlite-web is a web-based SQLite database browser written in Python.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

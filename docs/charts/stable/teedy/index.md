@@ -17,4 +17,3 @@ Teedy is an open source, lightweight document management system for individuals 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

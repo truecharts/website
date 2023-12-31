@@ -17,4 +17,3 @@ Enjoy Cura directly in your browser with this easy to use Chart
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

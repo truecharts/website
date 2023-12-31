@@ -21,4 +21,3 @@ Kasm Workspaces is a streaming platform for delivering browser-based access to d
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

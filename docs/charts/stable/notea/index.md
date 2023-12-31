@@ -18,4 +18,3 @@ Self hosted note taking, alternative to Notions. Look at Github for config
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

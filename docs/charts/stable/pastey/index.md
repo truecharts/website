@@ -17,4 +17,3 @@ A lightweight, self-hosted paste platform.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [tvheadend-18.1.1](https://github.com/truecharts/charts/compare/tvheadend-18.1.0...tvheadend-18.1.1) (2023-12-31)
 
 ### Chore

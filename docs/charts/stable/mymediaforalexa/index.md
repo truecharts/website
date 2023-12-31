@@ -19,4 +19,3 @@ This is the multi-platform Docker image for My Media for Alexa - https://www.mym
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

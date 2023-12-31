@@ -16,4 +16,3 @@ The Bitcoin Unlimited project seeks to provide a voice to all stakeholders in th
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

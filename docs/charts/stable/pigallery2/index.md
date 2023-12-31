@@ -17,4 +17,3 @@ Homepage: http://bpatrik.github.io/pigallery2/
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

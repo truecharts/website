@@ -19,4 +19,3 @@ Apt-Cacher NG is a caching proxy, specialized for package files from Linux distr
 - [**Helm Security**](helm-security)
 
 - [**How-To**](how-to)
-

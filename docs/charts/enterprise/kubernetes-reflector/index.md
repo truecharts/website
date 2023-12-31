@@ -17,4 +17,3 @@ Kubernetes-Reflector is a Kubernetes addon designed to monitor and reflect chang
 - [**Container Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

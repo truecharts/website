@@ -19,4 +19,3 @@ Reliable and Performant File Sync and Share Solution
 - [**Helm Security**](helm-security)
 
 - [**Seafile installation notes and guidelines**](install-notes)
-

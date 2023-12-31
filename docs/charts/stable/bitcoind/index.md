@@ -4,7 +4,6 @@
 
 Support the Bitcoin network by hosting your own node! This template provides a full Bitcoin Core node, built in a verifiably trustless way.
 
-
 ## Chart Sources
 
 - https://bitcoin.org/
@@ -18,4 +17,3 @@ Support the Bitcoin network by hosting your own node! This template provides a f
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

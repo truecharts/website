@@ -17,4 +17,3 @@ Kanboard is a free and open source Kanban project management software.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

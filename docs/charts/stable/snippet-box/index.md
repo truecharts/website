@@ -17,4 +17,3 @@ Snippet Box is a simple self-hosted app for organizing your code snippets.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

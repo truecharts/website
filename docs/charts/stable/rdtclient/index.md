@@ -17,4 +17,3 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

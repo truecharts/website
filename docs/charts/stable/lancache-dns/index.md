@@ -19,4 +19,3 @@ DNS Chart service for a steam cache.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

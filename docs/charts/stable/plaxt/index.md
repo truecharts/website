@@ -19,4 +19,3 @@ This Tools provides a way to keep your watched history synced FROM Plex Server T
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

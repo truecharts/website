@@ -17,4 +17,3 @@ Running Boinc? Get some Gridcoins from your Boinc work!
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

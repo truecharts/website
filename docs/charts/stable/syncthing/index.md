@@ -18,4 +18,3 @@ P2P file synchronization application
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

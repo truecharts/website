@@ -17,4 +17,3 @@ ownCloud Infinite Scale is a self-hosted file sync and share server.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

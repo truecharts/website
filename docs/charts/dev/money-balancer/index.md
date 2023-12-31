@@ -17,4 +17,3 @@ Money Balancer helps you to keep track of who paid for what and calculates your 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

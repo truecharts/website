@@ -17,4 +17,3 @@ Actual is a super fast privacy-focused app for managing your finances.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

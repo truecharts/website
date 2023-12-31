@@ -17,4 +17,3 @@ CTFd is a Capture The Flag framework focusing on ease of use and customizability
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

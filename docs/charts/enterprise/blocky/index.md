@@ -25,4 +25,3 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 - [**Installation notes**](installation-notes)
 
 - [**Blocky Setup Guide**](setup-guide)
-

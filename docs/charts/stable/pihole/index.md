@@ -21,4 +21,3 @@ DNS and Ad-filtering for your network
 - [**Helm Security**](helm-security)
 
 - [**Automatic Split DNS with PiHole**](split-dns)
-

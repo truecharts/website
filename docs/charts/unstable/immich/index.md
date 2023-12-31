@@ -12,11 +12,10 @@ High performance self-hosted photo and video backup solution.
 
 ## Available Documentation
 
-- [****](CHANGELOG)
+- [\*\*\*\*](CHANGELOG)
 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
 
 - [**Install Notes**](install_notes)
-

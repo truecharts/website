@@ -18,4 +18,3 @@ An open-source single page application to view your photos in the easiest way po
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -19,4 +19,3 @@ Valheim dedicated gameserver with automatic update and world backup support
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [booksonic-air-12.1.1](https://github.com/truecharts/charts/compare/booksonic-air-12.1.0...booksonic-air-12.1.1) (2023-12-31)
 
 ### Chore

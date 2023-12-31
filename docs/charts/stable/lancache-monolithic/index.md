@@ -19,4 +19,3 @@ A monolithic lancache service capable of caching all CDNs in a single instance.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

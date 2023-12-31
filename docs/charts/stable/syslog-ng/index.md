@@ -16,4 +16,3 @@ syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

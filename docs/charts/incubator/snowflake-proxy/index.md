@@ -17,4 +17,3 @@ Snowflake's Proxy component to help users in the censored regions.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

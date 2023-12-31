@@ -19,4 +19,3 @@ A self-hosted midwestern Discord music bot that doesn't suck.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

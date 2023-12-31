@@ -17,4 +17,3 @@ Chart that runs the Bitcoin bitcoind node in a Chart for easy deployment.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

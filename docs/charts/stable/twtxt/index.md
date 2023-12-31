@@ -18,4 +18,3 @@ A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

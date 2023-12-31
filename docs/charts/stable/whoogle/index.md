@@ -17,4 +17,3 @@ A self-hosted, ad-free, privacy-respecting metasearch engine
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

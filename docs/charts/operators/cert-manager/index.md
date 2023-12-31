@@ -18,4 +18,3 @@ Cert-Manager is a kubernetes-aware certificate manager
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

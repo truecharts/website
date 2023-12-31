@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [fireshare-5.1.1](https://github.com/truecharts/charts/compare/fireshare-5.1.0...fireshare-5.1.1) (2023-12-31)
 
 ### Chore

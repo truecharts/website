@@ -18,4 +18,3 @@ Ghost is an open source, professional publishing platform built on a modern Node
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

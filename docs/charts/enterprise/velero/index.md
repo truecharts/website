@@ -18,4 +18,3 @@ Velero is a kubernetes-native backup solution
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

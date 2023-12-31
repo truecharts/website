@@ -17,4 +17,3 @@ With this Chart you can run RedM (Red Dead Redemption 2 MOD SERVER) it will auto
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

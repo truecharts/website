@@ -17,4 +17,3 @@ Chronograf is InfluxData’s open source web application. Use Chronograf with th
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

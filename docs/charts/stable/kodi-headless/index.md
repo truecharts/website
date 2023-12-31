@@ -18,4 +18,3 @@ A headless install of kodi in a docker container.
 - [**Default credentials**](credentials)
 
 - [**Helm Security**](helm-security)
-

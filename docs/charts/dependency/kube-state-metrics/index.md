@@ -16,4 +16,3 @@ kube-state-metrics is a simple service that listens to the Kubernetes API server
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

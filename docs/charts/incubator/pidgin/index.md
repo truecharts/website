@@ -16,4 +16,3 @@ Pidgin is a chat program which lets you log into accounts on multiple chat netwo
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

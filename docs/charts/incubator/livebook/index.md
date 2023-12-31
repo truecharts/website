@@ -17,4 +17,3 @@ Livebook is a web application for writing interactive and collaborative code not
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

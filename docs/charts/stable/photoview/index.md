@@ -19,4 +19,3 @@ Photoview is a simple and user-friendly photo gallery.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

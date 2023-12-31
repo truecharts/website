@@ -17,4 +17,3 @@ A modern web interface for maintaining Teamspeak3 servers.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

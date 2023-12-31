@@ -17,4 +17,3 @@ Open source, self-hostable watched list
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

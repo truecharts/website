@@ -19,4 +19,3 @@ HTPC/Homelab Services Organizer
 - [**Organizr Forward Auth Setup Guide**](forward_auth)
 
 - [**Helm Security**](helm-security)
-

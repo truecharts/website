@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [lidarr-19.1.1](https://github.com/truecharts/charts/compare/lidarr-19.1.0...lidarr-19.1.1) (2023-12-31)
 
 ### Chore

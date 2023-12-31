@@ -17,4 +17,3 @@ Headless Ubuntu/Xfce Charts with VNC/noVNC for diagramming, image editing and 2D
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

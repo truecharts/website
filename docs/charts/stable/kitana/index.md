@@ -17,4 +17,3 @@ Kitana exposes your Plex plugin interfaces "to the outside world". It does that 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

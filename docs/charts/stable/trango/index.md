@@ -17,4 +17,3 @@ Trango self-hosted is a calling and file sharing solution that works over LAN (l
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

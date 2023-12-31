@@ -19,4 +19,3 @@ Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platfor
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

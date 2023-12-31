@@ -16,4 +16,3 @@ A Helm chart to deploy a Matrix homeserver stack into Kubernetes
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

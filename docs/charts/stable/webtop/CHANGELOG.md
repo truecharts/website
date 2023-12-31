@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [webtop-8.1.23](https://github.com/truecharts/charts/compare/webtop-8.1.0...webtop-8.1.23) (2023-12-31)
 
 ### Chore

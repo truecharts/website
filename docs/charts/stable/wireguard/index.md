@@ -19,4 +19,3 @@ WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-o
 - [**Helm Security**](helm-security)
 
 - [**How-To**](how-to)
-

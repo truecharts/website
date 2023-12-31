@@ -18,4 +18,3 @@ A self-hosted static file serving app which does nothing more than just serve up
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

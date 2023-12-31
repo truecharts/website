@@ -20,4 +20,3 @@ Spotweb is a decentralized usenet community based on the Spotnet protocol.
 - [**Helm Security**](helm-security)
 
 - [**Input Validation**](validation)
-

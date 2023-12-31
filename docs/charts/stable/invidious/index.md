@@ -20,4 +20,3 @@ Open source alternative front-end to YouTube.
 - [**Helm Security**](helm-security)
 
 - [**Input Validation**](validation)
-

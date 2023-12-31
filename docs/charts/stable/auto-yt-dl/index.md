@@ -17,4 +17,3 @@ auto-yt-dl is used to automatically download new Videos of specific YouTube Chan
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -19,4 +19,3 @@ MakeMKV is your one-click solution to convert video that you own into free and p
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

@@ -17,4 +17,3 @@ FlutterCoin may be a coin with the tried and true algorithm of scrypt, but it's 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

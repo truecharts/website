@@ -19,4 +19,3 @@ MeshCentral is a full computer management web site
 - [**Helm Security**](helm-security)
 
 - [**Installation instructions**](installation-instructions)
-

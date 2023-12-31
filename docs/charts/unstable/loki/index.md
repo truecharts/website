@@ -17,4 +17,3 @@ Loki: like Prometheus, but for logs.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

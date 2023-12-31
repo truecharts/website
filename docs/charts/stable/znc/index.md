@@ -16,4 +16,3 @@ Znc is an IRC network bouncer or BNC. It can detach the client from the actual I
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

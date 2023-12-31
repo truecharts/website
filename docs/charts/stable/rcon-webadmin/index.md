@@ -19,4 +19,3 @@ Out of the box, RCON Web Admin can check users for high ping, VAC status, or fil
 - [**Helm Security**](helm-security)
 
 - [**Installation Guide**](installation)
-

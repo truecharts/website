@@ -17,4 +17,3 @@ A tasty, self-hostable Git server for the command line.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

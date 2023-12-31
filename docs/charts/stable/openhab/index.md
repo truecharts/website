@@ -16,4 +16,3 @@ OpenHab is a home-automation application
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

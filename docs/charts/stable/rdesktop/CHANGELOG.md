@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [rdesktop-7.1.6](https://github.com/truecharts/charts/compare/rdesktop-7.1.0...rdesktop-7.1.6) (2023-12-31)
 
 ### Chore

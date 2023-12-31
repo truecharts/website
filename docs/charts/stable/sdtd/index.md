@@ -17,4 +17,3 @@ This chart will download and install SteamCMD. It will also install 7 Days to Di
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

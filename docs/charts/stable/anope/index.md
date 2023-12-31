@@ -17,4 +17,3 @@ Anope is a set of IRC Services designed for flexibility and ease of use.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

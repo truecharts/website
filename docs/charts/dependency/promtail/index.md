@@ -11,4 +11,3 @@ Promtail is an agent which ships the contents of local logs to a Loki instance
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

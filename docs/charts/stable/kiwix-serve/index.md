@@ -20,4 +20,3 @@ Kiwix enables you to have the whole Wikipedia at hand wherever you go!
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

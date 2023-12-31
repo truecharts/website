@@ -16,4 +16,3 @@ Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi v
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

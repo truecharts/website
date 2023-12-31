@@ -17,4 +17,3 @@ A self-hosted file sharing platform and an alternative for WeTransfer.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

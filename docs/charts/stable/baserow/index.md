@@ -17,4 +17,3 @@ Baserow is an open source no-code database tool and Airtable alternative.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

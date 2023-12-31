@@ -16,4 +16,3 @@ Quassel-web is a web client for Quassel.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -18,4 +18,3 @@ Chevereto is an image hosting software that allows you to create a beautiful and
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

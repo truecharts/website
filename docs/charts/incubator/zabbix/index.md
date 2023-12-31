@@ -16,4 +16,3 @@ Zabbix is an enterprise-class open source distributed monitoring solution.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

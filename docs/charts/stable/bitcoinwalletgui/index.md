@@ -4,7 +4,6 @@
 
 Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
 
-
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/bitcoinwalletgui
@@ -17,4 +16,3 @@ Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

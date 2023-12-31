@@ -17,4 +17,3 @@ A ReactJS-based progressive web application for Shlink.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

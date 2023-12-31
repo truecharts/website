@@ -17,4 +17,3 @@ IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [libremdb-6.1.1](https://github.com/truecharts/charts/compare/libremdb-6.1.0...libremdb-6.1.1) (2023-12-31)
 
 ### Chore

@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [flexget-8.2.0](https://github.com/truecharts/charts/compare/flexget-8.1.0...flexget-8.2.0) (2023-12-31)
 
 ### Chore

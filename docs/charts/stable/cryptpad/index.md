@@ -17,4 +17,3 @@ CryptPad is the Zero Knowledge realtime collaborative editor.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

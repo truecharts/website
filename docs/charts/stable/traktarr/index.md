@@ -17,4 +17,3 @@ Script to add new series and movies to Sonarr/Radarr based on Trakt lists.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

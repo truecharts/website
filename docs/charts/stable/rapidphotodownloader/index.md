@@ -17,4 +17,3 @@ This Chart will download and install Rapid Photo Downloader.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

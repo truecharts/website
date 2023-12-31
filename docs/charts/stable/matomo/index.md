@@ -18,4 +18,3 @@ Matomo is the leading Free/Libre open analytics platform
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

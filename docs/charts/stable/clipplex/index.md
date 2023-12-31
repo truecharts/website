@@ -19,4 +19,3 @@ Clip your plex media to share.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

@@ -18,4 +18,3 @@ An FTP automation tool that periodically scans given host locations for new file
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

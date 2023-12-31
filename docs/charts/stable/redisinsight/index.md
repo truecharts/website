@@ -20,4 +20,3 @@ GUI for Redis.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

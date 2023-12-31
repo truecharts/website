@@ -17,4 +17,3 @@ Generate a full web-page screenshot with our service, that provides rich interfa
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

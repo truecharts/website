@@ -18,4 +18,3 @@ A fast and minimal paste bin, written in Python using Quart.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

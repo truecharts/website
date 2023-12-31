@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [drawio-8.1.1](https://github.com/truecharts/charts/compare/drawio-8.1.0...drawio-8.1.1) (2023-12-31)
 
 ### Chore

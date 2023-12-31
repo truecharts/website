@@ -17,4 +17,3 @@ Mojopaste is a pastebin application. There's about one million of these out ther
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

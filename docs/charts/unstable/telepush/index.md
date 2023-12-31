@@ -17,4 +17,3 @@ A simple bot to translate JSON HTTP requests into Telegram push messages.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

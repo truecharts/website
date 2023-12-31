@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [ghostfolio-3.2.0](https://github.com/truecharts/charts/compare/ghostfolio-3.1.0...ghostfolio-3.2.0) (2023-12-31)
 
 ### Chore

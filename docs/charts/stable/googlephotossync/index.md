@@ -16,4 +16,3 @@ Google Photos Sync downloads your Google Photos to the local file system. It wil
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

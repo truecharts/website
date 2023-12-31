@@ -19,4 +19,3 @@ HexChat is an IRC client based on XChat, but unlike XChat it’s completely free
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

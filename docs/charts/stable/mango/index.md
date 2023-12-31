@@ -4,7 +4,6 @@
 
 Mango is a self-hosted manga server and reader. Its features include[br]
 
-
 ## Chart Sources
 
 - https://github.com/hkalexling/mango
@@ -18,4 +17,3 @@ Mango is a self-hosted manga server and reader. Its features include[br]
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -20,4 +20,3 @@ Open-source headless CMS. JavaScript, fully customizable and developer-first.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

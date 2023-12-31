@@ -17,4 +17,3 @@ A simple, high-reliability, distributed software configuration management system
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

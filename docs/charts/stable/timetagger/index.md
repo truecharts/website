@@ -18,4 +18,3 @@ An open source time-tracker with an interactive user experience and powerful rep
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -16,4 +16,3 @@ Open source modular smart mirror platform.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

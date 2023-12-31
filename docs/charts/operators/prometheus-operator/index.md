@@ -19,4 +19,3 @@ Prometheus Operator is an operator for prometheus
 - [**Helm Security**](helm-security)
 
 - [**Troubleshooting**](installation)
-

@@ -17,4 +17,3 @@ SeedSync is a tool to sync the files on a remote Linux server (like your seedbox
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

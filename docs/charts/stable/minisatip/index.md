@@ -16,4 +16,3 @@ Minisatip is a multi-threaded satip server version 1.2 that runs under Linux.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

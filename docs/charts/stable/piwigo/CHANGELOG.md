@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [piwigo-11.2.0](https://github.com/truecharts/charts/compare/piwigo-11.1.0...piwigo-11.2.0) (2023-12-31)
 
 ### Chore

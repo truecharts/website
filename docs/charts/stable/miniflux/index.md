@@ -21,4 +21,3 @@ Miniflux is a minimalist and opinionated feed reader.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

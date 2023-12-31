@@ -24,4 +24,3 @@ Authelia is a Single Sign-On Multi-Factor portal for web apps
 - [**Helm Security**](helm-security)
 
 - [**Input Validation**](validation)
-

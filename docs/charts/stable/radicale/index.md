@@ -19,4 +19,3 @@ Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (co
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

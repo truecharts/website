@@ -18,4 +18,3 @@ Raneto(http://raneto.com/) - is an open source Knowledgebase platform that uses 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

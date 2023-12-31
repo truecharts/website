@@ -17,4 +17,3 @@ FOG Project can capture, deploy, and manage Windows, Mac OSX, and various Linux 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

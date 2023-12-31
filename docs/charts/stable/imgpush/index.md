@@ -17,4 +17,3 @@ Minimalist Self-hosted Image Service for user submitted images in your app (e.g.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

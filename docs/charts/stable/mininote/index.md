@@ -17,4 +17,3 @@ A simple, self-hosted, encrypted Markdown note-taking app built with Vue 3, and 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

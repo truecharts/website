@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [paperless-ngx-6.2.0](https://github.com/truecharts/charts/compare/paperless-ngx-6.1.0...paperless-ngx-6.2.0) (2023-12-31)
 
 ### Chore

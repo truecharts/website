@@ -17,4 +17,3 @@ This Chart will download and install Quake III Server (You have to copy your .pk
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

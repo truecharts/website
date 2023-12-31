@@ -16,4 +16,3 @@ Chart to provide a DDNS service for godaddy domains. Uses the GoDaddy REST API t
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -18,4 +18,3 @@ A comics/mangas server to serve/stream pages via API
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

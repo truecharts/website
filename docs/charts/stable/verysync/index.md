@@ -16,4 +16,3 @@ very sync is an easy-to-use multi-platform file synchronization software
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

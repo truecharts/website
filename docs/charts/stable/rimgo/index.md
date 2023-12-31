@@ -16,4 +16,3 @@ Alternative Imgur front-end
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

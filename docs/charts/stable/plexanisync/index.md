@@ -18,4 +18,3 @@ Plex to AniList Sync.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

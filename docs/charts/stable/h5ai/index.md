@@ -17,4 +17,3 @@ h5ai is a modern file indexer for HTTP web servers with focus on your files. Dir
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

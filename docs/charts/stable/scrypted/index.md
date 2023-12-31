@@ -17,4 +17,3 @@ Scrypted is a high performance home video integration and automation platform.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

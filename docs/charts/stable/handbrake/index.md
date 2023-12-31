@@ -20,4 +20,3 @@ HandBrake is a tool for converting video from nearly any format to a selection o
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

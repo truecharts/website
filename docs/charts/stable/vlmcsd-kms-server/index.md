@@ -17,4 +17,3 @@ vlmcsd is a replacement for Microsoft's KMS server.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

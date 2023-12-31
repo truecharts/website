@@ -17,4 +17,3 @@ This is a Docker Chart for BTDEX based on jlesage/Chart-baseimage-gui Chart.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

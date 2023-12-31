@@ -4,7 +4,6 @@
 
 App for taking notes and tracking tasks on a daily basis.
 
-
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dailynotes
@@ -17,4 +16,3 @@ App for taking notes and tracking tasks on a daily basis.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -16,4 +16,3 @@ Quassel-core is a modern, cross-platform, distributed IRC client.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

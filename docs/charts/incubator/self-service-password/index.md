@@ -18,4 +18,3 @@ Self Service Password is a PHP application that allows users to change their pas
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

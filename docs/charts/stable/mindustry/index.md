@@ -17,4 +17,3 @@ This is a Basic Mindustry Server. It will download the preferred version of Mind
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

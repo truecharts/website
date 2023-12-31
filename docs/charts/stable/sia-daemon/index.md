@@ -18,4 +18,3 @@ Sia is a decentralized cloud storage platform that radically alters the landscap
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

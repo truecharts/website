@@ -17,4 +17,3 @@ Alternative front-end for Google Translate, serving as a Free and Open Source tr
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

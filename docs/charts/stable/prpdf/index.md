@@ -17,4 +17,3 @@ This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan wi
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

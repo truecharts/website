@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [homepage-6.3.1](https://github.com/truecharts/charts/compare/homepage-6.3.0...homepage-6.3.1) (2023-12-31)
 
 ### Chore

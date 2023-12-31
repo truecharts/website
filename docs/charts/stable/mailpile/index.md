@@ -17,4 +17,3 @@ Mailpile is software, an e-mail client. It runs on your desktop or laptop comput
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -17,4 +17,3 @@ A small flask based service to sync up Emby clients
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

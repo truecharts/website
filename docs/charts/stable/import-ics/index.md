@@ -17,4 +17,3 @@ Runs a python script at a crontab defined interval that downloads/imports ics fi
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [anonaddy-19.1.1](https://github.com/truecharts/charts/compare/anonaddy-19.1.0...anonaddy-19.1.1) (2023-12-31)
 
 ### Chore

@@ -17,4 +17,3 @@ gPodder is a simple, open source podcast client written in Python using GTK+. In
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

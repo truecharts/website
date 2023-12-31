@@ -19,4 +19,3 @@ Lightweight multiplexer/proxy for Minecraft-Java servers.
 - [**Helm Security**](helm-security)
 
 - [**Input Validation**](validation)
-

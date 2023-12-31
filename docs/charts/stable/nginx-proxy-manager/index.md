@@ -22,4 +22,3 @@ Managing Nginx proxy hosts with a simple, powerful interface.
 - [**Disclaimer**](disclaimer)
 
 - [**Helm Security**](helm-security)
-

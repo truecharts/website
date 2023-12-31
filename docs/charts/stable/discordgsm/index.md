@@ -19,4 +19,3 @@ A discord bot that monitors your game server and tracks the live data of your ga
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

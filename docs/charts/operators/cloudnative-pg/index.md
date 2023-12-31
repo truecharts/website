@@ -18,4 +18,3 @@ CloudNativePG is a clustered postgresql database operator
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

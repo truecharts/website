@@ -17,4 +17,3 @@ This webapp is a browser and desktop password manager compatible with KeePass da
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

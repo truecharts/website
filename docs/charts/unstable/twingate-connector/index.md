@@ -19,4 +19,3 @@ Twingate is remote access for the modern world.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

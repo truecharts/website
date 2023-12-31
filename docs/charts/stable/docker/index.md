@@ -16,4 +16,3 @@ Dedicated App for using Docker-in-Docker
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

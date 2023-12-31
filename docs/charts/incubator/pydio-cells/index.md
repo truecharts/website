@@ -16,4 +16,3 @@ Pydio-cells is the nextgen file sharing platform for organizations.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

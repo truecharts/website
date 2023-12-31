@@ -17,4 +17,3 @@ Proxy is in quotes because I couldn't think of a better name. There is nothing o
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

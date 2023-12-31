@@ -19,4 +19,3 @@ Automated language selection for Plex TV Shows.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

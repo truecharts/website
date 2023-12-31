@@ -19,4 +19,3 @@ NZBGet is a Usenet downloader client
 - [**Helm Security**](helm-security)
 
 - [**Installation Guide**](installation)
-

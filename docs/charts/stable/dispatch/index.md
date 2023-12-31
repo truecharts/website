@@ -17,4 +17,3 @@ Web-based IRC client in Go.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

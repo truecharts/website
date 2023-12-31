@@ -18,4 +18,3 @@ Grist is a modern relational spreadsheet. It combine the flexibility of a spread
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

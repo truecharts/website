@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [friendica-12.2.0](https://github.com/truecharts/charts/compare/friendica-12.1.0...friendica-12.2.0) (2023-12-31)
 
 ### Chore

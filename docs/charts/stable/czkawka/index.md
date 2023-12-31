@@ -20,4 +20,3 @@ Czkawka is a simple, fast and free app to remove unnecessary files from your com
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

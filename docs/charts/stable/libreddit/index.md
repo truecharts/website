@@ -17,4 +17,3 @@ An alternative private front-end to Reddit
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

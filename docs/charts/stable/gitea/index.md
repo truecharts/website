@@ -15,12 +15,11 @@ Self hosted GIT repositories
 
 ## Available Documentation
 
-- [**Changelog
-- minimum password length ([#16701](https://github.com/truecharts/charts/issues/16701))Changelog**](./CHANGELOG.md)
+- [\*\*Changelog
+- minimum password length ([#16701](https://github.com/truecharts/charts/issues/16701))Changelog\*\*](./CHANGELOG.md)
 
 - [**Container Security**](./container-security.md)
 
 - [**Helm Security**](./helm-security.md)
 
 - [**Input Validation**](./validation.md)
-

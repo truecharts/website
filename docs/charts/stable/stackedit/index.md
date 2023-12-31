@@ -17,4 +17,3 @@ StackEdits Markdown syntax highlighting is unique. The refined text formatting o
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

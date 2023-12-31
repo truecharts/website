@@ -19,4 +19,3 @@ Sync your Spotify and Deezer playlists to your Plex server.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

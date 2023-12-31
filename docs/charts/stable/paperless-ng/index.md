@@ -11,4 +11,3 @@ Paperless-ngx is an application by Daniel Quinn and contributors that indexes yo
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

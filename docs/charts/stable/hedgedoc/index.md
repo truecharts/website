@@ -16,4 +16,3 @@ HedgeDoc lets you create real-time collaborative markdown notes.
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

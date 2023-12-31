@@ -16,4 +16,3 @@ Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

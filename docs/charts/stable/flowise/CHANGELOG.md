@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [flowise-3.1.1](https://github.com/truecharts/charts/compare/flowise-3.1.0...flowise-3.1.1) (2023-12-31)
 
 ### Chore

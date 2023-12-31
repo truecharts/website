@@ -2,7 +2,7 @@
 
 ![Version: 8.1.0](https://img.shields.io/badge/Version-8.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.6.2](https://img.shields.io/badge/AppVersion-3.6.2-informational?style=flat-square)
 
-An *arr Request Bot for Discord
+An \*arr Request Bot for Discord
 
 ## Chart Sources
 
@@ -17,4 +17,3 @@ An *arr Request Bot for Discord
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

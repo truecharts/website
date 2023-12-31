@@ -19,4 +19,3 @@ Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.
 - [**Helm Security**](helm-security)
 
 - [**Installation Notes**](installation_notes)
-

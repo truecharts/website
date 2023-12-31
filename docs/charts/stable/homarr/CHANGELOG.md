@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-
-
 ## [homarr-9.1.1](https://github.com/truecharts/charts/compare/homarr-9.1.0...homarr-9.1.1) (2023-12-31)
 
 ### Chore

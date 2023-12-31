@@ -17,4 +17,3 @@ This Chart will download and install SteamCMD. It will also install Days of War 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

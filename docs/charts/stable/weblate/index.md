@@ -20,4 +20,3 @@ Weblate is a copylefted libre software web-based continuous localization system
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-

@@ -17,4 +17,3 @@ Rustpad is an efficient and minimal open-source collaborative text editor based 
 - [**Helm Security**](container-security)
 
 - [**Helm Security**](helm-security)
-
