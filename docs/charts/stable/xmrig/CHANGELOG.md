@@ -2,6 +2,15 @@
 
 
 
+## [xmrig-4.1.1](https://github.com/truecharts/charts/compare/xmrig-4.1.0...xmrig-4.1.1) (2023-12-31)
+
+### Fix
+
+- Remove extra env vars ([#16587](https://github.com/truecharts/charts/issues/16587))
+  
+  
+
+
 ## [xmrig-4.1.0](https://github.com/truecharts/charts/compare/xmrig-4.0.1...xmrig-4.1.0) (2023-12-30)
 
 ### Chore
