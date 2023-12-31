@@ -7,10 +7,9 @@ title: Changelog
 ## [monica-11.1.1](https://github.com/truecharts/charts/compare/monica-11.1.0...monica-11.1.1) (2023-12-31)
 
 ### Chore
-  
+
 - update container image monica to 4.0.0[@84f848d](https://github.com/84f848d) by renovate ([#16638](https://github.com/truecharts/charts/issues/16638))
-- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))title: Changelog
----
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))
 
 ## [monica-11.1.0](https://github.com/truecharts/charts/compare/monica-11.0.2...monica-11.1.0) (2023-12-30)
 
