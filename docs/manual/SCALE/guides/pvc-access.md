@@ -1,6 +1,7 @@
 ---
 sidebar_position: 16
 ---
+
 # Accessing PVC Data
 
 ## Where are my application files?
@@ -19,7 +20,6 @@ If you plan on mounting PVC storage more than just a couple of times this may be
 1. The script will list all of your PVC information for each application
 2. Safely shut down your application before mounting
 3. Mount your PVC to /mnt/temporary/STORAGE-NAME
-
 
 ### Manual Method - New User Guide
 
@@ -49,11 +49,11 @@ This can be confusing at first because many applications will have many differen
 - You'll see in this photo, Nextcloud has many different PVC's.
   - However, if you break it down by looking at the middle column, it's not too confusing.
   1. `data-nextcloud-redis-0`
-      - This is your Redis PVC
+     - This is your Redis PVC
   2. `db-nextcloud-postgresql-0`
-      - This is your PostgreSQL PVC
+     - This is your PostgreSQL PVC
   3. `nextcloud-data`
-      - This is your Data PVC
+     - This is your Data PVC
 
 4\. **After finding which PVC you would like to mount, copy the far right column (The Volume) that starts with pvc- into a notepad for use in the next command**
 
@@ -104,7 +104,7 @@ Example:
 zfs set mountpoint=legacy speed/ix-applications/releases/nextcloud/volumes/pvc-cd84394b-7812-43c3-a6d9-1a5693592cbe
 ```
 
-Afterwards, I always like to ```rmdir``` on the directory that was created when mounting
+Afterwards, I always like to `rmdir` on the directory that was created when mounting
 
 - In my case I would run:
 
@@ -114,7 +114,7 @@ rmdir /mnt/temporary/nextcloud-data
 
 - This just helps keep your temporary folder clean, and lets you know what is or is not currently mounted.
 
-- Do not worry, ```rmdir``` cannot delete mounted folders, or folders with contents in them.
+- Do not worry, `rmdir` cannot delete mounted folders, or folders with contents in them.
 
 ### Manual Method - Advanced User Guide
 

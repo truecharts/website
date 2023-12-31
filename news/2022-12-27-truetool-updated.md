@@ -3,6 +3,7 @@ slug: "truetool-updated"
 title: "TrueTool, Refreshed"
 authors: [ornias]
 ---
+
 We are excited to announce that we have completely reworked our "TrueTool" tool to improve its functionality and reliability.
 
 For those unfamiliar with TrueTool, it is a tool that helps users with bulk-updating of Apps and provides easy access to "hidden" features of TrueNAS SCALE, such as enabling "apt" and "helm" commands.

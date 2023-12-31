@@ -1,6 +1,6 @@
 # TrueNAS SCALE Date and Time Fix
 
-*Credit to TrueCharts team member [Xstar97](https://xstar97thenoob.com) for the guide originally found [here](https://docs.xstar97thenoob.com/docs/platforms/scale/networking/scale-date-time/). 
+\*Credit to TrueCharts team member [Xstar97](https://xstar97thenoob.com) for the guide originally found [here](https://docs.xstar97thenoob.com/docs/platforms/scale/networking/scale-date-time/).
 
 A guide on how to fix Scale's Date and time issues.
 

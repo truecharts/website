@@ -3,6 +3,7 @@ slug: "new-chartslist"
 title: "A new ChartsList"
 authors: [ornias]
 ---
+
 After a lot of work by @xstar and review by our staff, we've finally officially released our new fancy charts list.
 It's now easier than ever to search and provides all the basics at a single glance!
 Check it out here: https://truecharts.org/charts/description_list
@@ -15,6 +16,5 @@ https://github.com/Heavybullets8/heavy_script
 
 HeavyScript is now also featuring special fixes, to ensure TrueCharts SCALE Apps can be stopped if they cannot be stopped in the GUI.
 This comes in very handy when you want to mount your PVC volumes for maintenance, check it out!
-
 
 We hope that these changes makes it easier to use TrueCharts for everyone, even those that have not yet picket-out the Chart they want to use!

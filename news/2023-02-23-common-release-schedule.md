@@ -3,6 +3,7 @@ slug: "common-release-schedule"
 title: "New breaking common release"
 authors: [ornias]
 ---
+
 One of the core components of TrueCharts is our "common" chart, which serves as the basis on which all other charts are built.
 
 The common chart is a massive collection of thousands of lines of code that provide a wide range of features and optimizations for all apps running on the TrueCharts platform. From November of last year until now, the TrueCharts team has been working tirelessly to completely rewrite the common chart from scratch. They've also incorporated feedback from the community, including feature requests and bug reports, to ensure that the new common chart meets the needs of all users.
@@ -18,11 +19,11 @@ There is also an all-new PostgreSQL backend based on "CloudNative-PG," which sup
 
 In conclusion, the new common chart is a significant update that promises to deliver many improvements and optimizations to the TrueCharts platform. Users should take note of the deployment schedule and be prepared for some temporary inconveniences. However, the long-term benefits of the new common chart should far outweigh any short-term disruptions.
 
-
-**Summarised:*
+\*_Summarised:_
 
 March will be deployment month, which has the following consequences (until 01-04-2023):
-- In March, we will code freeze all container updates for 1 month 
+
+- In March, we will code freeze all container updates for 1 month
 - During March we will start deploying the new common in stages for the Enterprise, Dependency (except postgresql), Incubator and April trains and in that order.
 - During we will start deploying the new common to the stable train and postgresql dependency.
 - Users might have to reinstall certain apps
@@ -30,7 +31,6 @@ March will be deployment month, which has the following consequences (until 01-0
 - Postgresql Apps will automatically nuke their databases
 - Users will have to disable VPN before updating
 - Users will be explained that this is due to moving to a different database backend that allows us to implement the much wanted backup features and expose more postgresql settings in the GUI in the future
-
 
 A short example of some of the many improvements in the new common chart:
 
@@ -44,6 +44,3 @@ A short example of some of the many improvements in the new common chart:
 - A completely new certificate backend based on the industry standard "Cert-Manager".
 - Much more hardening of defaults, based on (now automated and required) security scans backed by Datree
 - Much expanded testing suite, counting hunderds of tests for thousands of features
-
-
-

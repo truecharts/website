@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 ---
+
 # System Requirements
 
 All the below recommendations assume the TrueNAS system in question is not used for anything other than running apps and storage.

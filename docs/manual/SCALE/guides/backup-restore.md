@@ -1,11 +1,12 @@
 ---
 sidebar_position: 15
 ---
+
 # Backup, Migrations and Restore
 
 :::caution Best Effort Policy
 
-This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation. 
+This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.
 This guide has been thoroughly tested with TrueNAS SCALE 22.12.2.
 
 :::
@@ -20,7 +21,7 @@ Please refer to the GitHub page for [HeavyScript](https://github.com/Heavybullet
 
 Our only officially supported system for "offsite" backups is ZFS replication. Offsite can be either another machine, a zfs formatted usb drive or other pool on the same system without any issues when it comes to the guides.
 
-However, whilst zfs replication CAN be done to an archive file, which can be saved in whatever way the user fancies, we do not provide official support for it. Using zfs replication in this manner exponentially increases the chance of complications. 
+However, whilst zfs replication CAN be done to an archive file, which can be saved in whatever way the user fancies, we do not provide official support for it. Using zfs replication in this manner exponentially increases the chance of complications.
 
 ## Backup
 
@@ -36,7 +37,7 @@ It automatically deletes excessive backups, which defaults to a max. of 14 backu
 heavyscript backup -c 31
 ```
 
->As mentioned above, all the commands and the various options for `HeavyScript` are available on the [HeavyScript GitHub](https://github.com/Heavybullets8/heavy_script) page
+> As mentioned above, all the commands and the various options for `HeavyScript` are available on the [HeavyScript GitHub](https://github.com/Heavybullets8/heavy_script) page
 
 ### Exporting Backups
 
@@ -53,7 +54,7 @@ These backups are saved under the same ix-applications dataset.
 
 It does not protect these against, for example, deletion of datasets or save them on an external system.
 
-We **highly** advise making both an internal backup (separate dataset on the same system) *and* an offsite backup.
+We **highly** advise making both an internal backup (separate dataset on the same system) _and_ an offsite backup.
 One could create a normal recursive(!) replication of the `ix-volumes` dataset using the SCALE GUI, with the following few special tricks by editing the replication after creation:
 
 To do so, setup the following replication task:
@@ -64,6 +65,7 @@ To do so, setup the following replication task:
 ```bash
 ix-applications-backup-HeavyScript_%Y_%m_%d_%H_%M_%S
 ```
+
 ```bash
 ix-applications-backup-system-update--%Y-%m-%d_%H:%M:%S
 ```
@@ -120,8 +122,8 @@ TBD
 
 ### Total System restore and Migration to new system
 
->Sometimes you either need to wipe your system, Migrate to a new system or restore a system completely.
-With the steps below, this is all very-much-possible.
+> Sometimes you either need to wipe your system, Migrate to a new system or restore a system completely.
+> With the steps below, this is all very-much-possible.
 
 :::caution Ensure a Clean system
 
@@ -132,9 +134,7 @@ With the steps below, this is all very-much-possible.
 
 :::
 
-
 1. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
-
 
 :::Important BlueFin Bug Fix
 
@@ -150,10 +150,9 @@ To prevent this error, run the following commands one-by-one, replacing POOL wit
 
 :::
 
-
 2. _Optional/untested_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
 
-3. Once the ZFS replication is complete, on the new or migrated system navigate to the __Apps__ tab in the Truenas Scale GUI. When prompted to select a pool, select the pool containing the `ix-applications` dataset.
+3. Once the ZFS replication is complete, on the new or migrated system navigate to the **Apps** tab in the Truenas Scale GUI. When prompted to select a pool, select the pool containing the `ix-applications` dataset.
 
 4. All you need to do now is restore the HeavyScript snapshot of your `ix-applications` dataset by following the [Reverting a running system](#reverting-a-running-system) guide above.
 
@@ -168,7 +167,9 @@ TBD
 In some/all cases PVC mountpoints are not correctly set to `legacy` after replication.
 HeavyScript has added scripting to fix this issue, however it does not seem to be a priority for iX-Systems to fix upstream.
 To fix this issue manually, run:
+
 >
+
 ```bash
-zfs set mountpoint=legacy "$(zfs list -t filesystem -r "$(cli -c 'app kubernetes config' | grep -E "pool\s\|" | awk -F '|' '{print $3}' | tr -d " \t\n\r")" -o name -H | grep "volumes/pvc")" 
+zfs set mountpoint=legacy "$(zfs list -t filesystem -r "$(cli -c 'app kubernetes config' | grep -E "pool\s\|" | awk -F '|' '{print $3}' | tr -d " \t\n\r")" -o name -H | grep "volumes/pvc")"
 ```

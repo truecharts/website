@@ -4,17 +4,17 @@ Assume every key below has a prefix of `workload.[workload-name].podSpec.contain
 
 | Key                                        |   Type    | Required |  Helm Template  | Default | Description                                                          |
 | :----------------------------------------- | :-------: | :------: | :-------------: | :-----: | :------------------------------------------------------------------- |
-| env                                        |  `map`   |    ❌    |       ❌        |  `{}`   | Define env(s) for the container                                      |
+| env                                        |   `map`   |    ❌    |       ❌        |  `{}`   | Define env(s) for the container                                      |
 | env.[key]                                  | `string`  |    ✅    | ✅ (Only value) |  `""`   | Define the env key/value                                             |
-| env.[key].configMapKeyRef                  |  `map`   |    ❌    |       ❌        |  `{}`   | Define variable from configMapKeyRef                                 |
+| env.[key].configMapKeyRef                  |   `map`   |    ❌    |       ❌        |  `{}`   | Define variable from configMapKeyRef                                 |
 | env.[key].configMapKeyRef.name             | `string`  |    ✅    |       ✅        |  `""`   | Define the configMap name                                            |
 | env.[key].configMapKeyRef.key              | `string`  |    ✅    |       ❌        |  `""`   | Define the configMap key                                             |
 | env.[key].configMapKeyRef.expandObjectName | `boolean` |    ❌    |       ❌        | `true`  | Whether to expand (adding the fullname as prefix) the configmap name |
-| env.[key].secretKeyRef                     |  `map`   |    ❌    |       ❌        |  `{}`   | Define secretKeyRef variable                                         |
+| env.[key].secretKeyRef                     |   `map`   |    ❌    |       ❌        |  `{}`   | Define secretKeyRef variable                                         |
 | env.[key].secretKeyRef.name                | `string`  |    ✅    |       ✅        |  `""`   | Define the secret name                                               |
 | env.[key].secretKeyRef.key                 | `string`  |    ✅    |       ❌        |  `""`   | Define the secret key                                                |
 | env.[key].secretKeyRef.expandObjectName    | `boolean` |    ❌    |       ❌        | `true`  | Whether to expand (adding the fullname as prefix) the secret name    |
-| env.[key].fieldRef                         |  `map`   |    ❌    |       ❌        |  `{}`   | Define fieldRef variable                                             |
+| env.[key].fieldRef                         |   `map`   |    ❌    |       ❌        |  `{}`   | Define fieldRef variable                                             |
 | env.[key].fieldRef.fieldPath               | `string`  |    ✅    |       ❌        |  `""`   | Define field path                                                    |
 | env.[key].fieldRef.apiVersion              | `string`  |    ❌    |       ❌        |  `""`   | Define apiVersion                                                    |
 

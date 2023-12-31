@@ -31,11 +31,8 @@ image:
   repository: jacobalberty/unifi
   tag: 6.0.45
   pullPolicy: IfNotPresent
-
-
 ##
 # Most other defaults are set in questions.yaml
 # For other options please refer to the wiki, default_values.yaml or the common library chart
 ##
-
 ```

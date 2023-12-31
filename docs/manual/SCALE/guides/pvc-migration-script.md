@@ -6,9 +6,9 @@ This guide uses the [HeavyBullets Migration Guide for PVCs](https://github.com/H
 
 ## Warnings
 
-**Note:** This will *not* be sufficient for apps that have a PostgreSQL database that were updated to the new CNPG common, Please see the more extensive guide for those apps. As well the script will exclude apps with database pods so those will have to be done manually or using our more extensive [PVC Migration Guide with Postgres support](https://truecharts.org/manual/SCALE/guides/migration-pvc/) guide.
+**Note:** This will _not_ be sufficient for apps that have a PostgreSQL database that were updated to the new CNPG common, Please see the more extensive guide for those apps. As well the script will exclude apps with database pods so those will have to be done manually or using our more extensive [PVC Migration Guide with Postgres support](https://truecharts.org/manual/SCALE/guides/migration-pvc/) guide.
 
-**Note:** Make sure you have a Heavyscript backup *and* a replication of this backup.
+**Note:** Make sure you have a Heavyscript backup _and_ a replication of this backup.
 
 :::warning
 
@@ -16,7 +16,7 @@ Really make sure you have a backup/replication ready in case something goes wron
 
 :::
 
-Anything that doesn't have a database *should* succeed. Here's an incomplete list of tested apps:
+Anything that doesn't have a database _should_ succeed. Here's an incomplete list of tested apps:
 
 `adguard-home`
 `audiobookshelf`
@@ -80,18 +80,20 @@ git clone https://github.com/Heavybullets8/TT-Migration.git
 bash migrate.sh
 ```
 
-3. Follow prompts 
+3.  Follow prompts
 
-    a. Choose Application (for example `filebrowser`)
-![Copy Config](img/Copy-App-Config.png)
+        a. Choose Application (for example `filebrowser`)
 
-    b. Once that's done press `x` and continue to the next screen and install the new Application
-![New App Install](img/New-App-Config.png)
+    ![Copy Config](img/Copy-App-Config.png)
 
-    c. Watch the app finish
-    ![New App Finish](img/New-App-Finish.png)
+        b. Once that's done press `x` and continue to the next screen and install the new Application
 
-4. Enjoy new app
+    ![New App Install](img/New-App-Config.png)
+
+        c. Watch the app finish
+        ![New App Finish](img/New-App-Finish.png)
+
+4.  Enjoy new app
 
 ### Note
 

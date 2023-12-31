@@ -4,7 +4,7 @@ Git, GitHub, and other tooling utilized by the TrueCharts repository can be inti
 
 Due to the massive breadth of these topics, this guide only cover what's necessary to make a basic change in order to remain as concise and digestible as possible. The concepts covered here will need to be explored in greater depth when making more complex changes. It's highly suggested that in the long run you better familiarize yourself with each aspect of Git that is touched on, but it's of course easier to learn more when you have something to get started with.
 
-With the above goal in mind, this example will walk you through adding documentation to an existing chart. The process of actually composing a helm chart is **not** covered here, though will you need to understand the following procedure if you are to later contribute chart code. 
+With the above goal in mind, this example will walk you through adding documentation to an existing chart. The process of actually composing a helm chart is **not** covered here, though will you need to understand the following procedure if you are to later contribute chart code.
 
 ## Guide
 
@@ -20,7 +20,7 @@ It's a good idea to familiarize yourself with the [Contribution Guidelines](http
 
 ### Create a Fork
 
-The first step to contributing is to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo)  the TrueCharts repository. A fork is like your own copy of the repository that can be modified without affecting the original. You only need to do this once, as the fork can be re-used for all changes you wish to make.
+The first step to contributing is to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the TrueCharts repository. A fork is like your own copy of the repository that can be modified without affecting the original. You only need to do this once, as the fork can be re-used for all changes you wish to make.
 
 To create a fork, navigate to the [truecharts/charts repository](https://github.com/truecharts/charts/fork) and press the Fork button in the upper-right corner.
 
@@ -28,16 +28,16 @@ To create a fork, navigate to the [truecharts/charts repository](https://github.
 
 On the following page, leave all of the default settings and click **Create Fork**. After a moment, you will presented with the main page of your fork, which is where you will first enact any changes that you wish to be added to the original repository.
 
-Note that in this situation the original repository is often referred to as the *upstream repository*, or simply *upstream*, whereas your fork of the repository is referred to as the *downstream repository* or *downstream*.
+Note that in this situation the original repository is often referred to as the _upstream repository_, or simply _upstream_, whereas your fork of the repository is referred to as the _downstream repository_ or _downstream_.
 
 ### The Git Workspace
 
 The traditional way to use Git is to install a copy of it on your system and work with it locally; however, in order to keep things simple and convenient we are going to use Codespaces, a feature of GitHub that allows you to work on the repository with a variety of editors directly from your browser. You can still use a traditional copy of Git if you'd like, and it's recommended to do so long term, but for now this guide will assume you're using Codespaces.
 
- 1. Click the green **Code** button on your fork's page
- 2. Switch to the **Codespaces** tab
- 3. Click the **Create Codespace on master** button
- 4. Wait until the codespace has been created (this can take some time due to the size of the repository)
+1.  Click the green **Code** button on your fork's page
+2.  Switch to the **Codespaces** tab
+3.  Click the **Create Codespace on master** button
+4.  Wait until the codespace has been created (this can take some time due to the size of the repository)
 
 Just like with the fork itself, you only need to make a codespace once.
 
@@ -130,6 +130,7 @@ If you are updating more than just documentation, you will also need to "bump" (
 :::
 
 ### Create a commit
+
 Commits in git are set of like changes encapsulated as a single node on a given branch. All changes within a git repository are not finalized until they are recorded via a commit. This allows one to easily view the history of a repository in sensible chunks and see step-by-step what changes were made to the repository over time.
 
 Exactly what changes should go into a single commit, and how many commits you should split a group of changes into is sometimes a grey area and subjective. Generally, you should try to make sure that each commit only contains changes to files that are **directly** related to one another. Don't include a change that alters a chart's icon within the same commit as a change that fixes a bug in the chart. For example, if you were making a functional change to a chart besides just documentation, you should probably bump the charts version in a separate commit.
@@ -164,8 +165,8 @@ Writing good commit messages for complex changes is an artform, but for very sim
 
 Your commit message contains two sections:
 
- - Summary
- - Body
+- Summary
+- Body
 
 The summary of the message is the first sentence of the commit and gives a brief overview of the changes. Try to keep it short.
 
@@ -177,7 +178,7 @@ The summary should be 72 characters or less **period**.
 
 :::
 
-The body of the message follows the summary and must be separated by two line-breaks (e.g. so that there's an empty line between them). Details about the commit are to be contained in the body, often with a rationale behind the changes. The *why* is just as important as the *what*; however, for very simple and largely self-explanatory commits like our example, a body isn't even necessary. 
+The body of the message follows the summary and must be separated by two line-breaks (e.g. so that there's an empty line between them). Details about the commit are to be contained in the body, often with a rationale behind the changes. The _why_ is just as important as the _what_; however, for very simple and largely self-explanatory commits like our example, a body isn't even necessary.
 
 A final note is that generally you want to write commit messages in the [present tense and imperative mood](https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/SubmittingPatches?h=v2.36.1#n181) (i.e. somewhat like you're stating a command). For this example, the following is a good commit message:
 
@@ -193,9 +194,9 @@ Once finished, save the file and then close its tab in the editor, this will com
 
 This step requires a brief explanation of how Git repositories are typical managed in this context. In this situation there are actually three copies of the same repository. The terms for these can vary, but generally there is:
 
- 1. (local) The copy of the repository on your local system where you are actually working. Here, this is slightly confusing since you're using GitHub Workspaces which is in the cloud, but it still must be thought of as a "local" system.
- 2. (origin/remote) The copy of your fork on GitHub itself. This is what you can see/browse when you go to your fork's URL in your browser.
- 3. (upstream) This is the original TrueCharts repository from which you initially created a fork.
+1.  (local) The copy of the repository on your local system where you are actually working. Here, this is slightly confusing since you're using GitHub Workspaces which is in the cloud, but it still must be thought of as a "local" system.
+2.  (origin/remote) The copy of your fork on GitHub itself. This is what you can see/browse when you go to your fork's URL in your browser.
+3.  (upstream) This is the original TrueCharts repository from which you initially created a fork.
 
 :::note
 
@@ -221,13 +222,13 @@ To do so, navigate to the main page of the upstream repository on [GitHub](https
 
 ![PR-example](/img/CE/3_PR.png)
 
- 1. Click the **Pull requests** tab at the top left of the repo.
- 2. Click the green **New pull request** button near the top left of the next page
- 3. Click the blue text that says **compare across forks** under the "Compare changes" heading
- 4. Leave the left side boxes on `truecharts/charts` and `master`
- 5. Set the right side `head repository` to your fork, i.e. `github_username/charts`
- 6. Set the right side `compare` to your topic branch, i.e. `librespeed_inst_notes`
- 7. Click the green **Create pull request** button
+1.  Click the **Pull requests** tab at the top left of the repo.
+2.  Click the green **New pull request** button near the top left of the next page
+3.  Click the blue text that says **compare across forks** under the "Compare changes" heading
+4.  Leave the left side boxes on `truecharts/charts` and `master`
+5.  Set the right side `head repository` to your fork, i.e. `github_username/charts`
+6.  Set the right side `compare` to your topic branch, i.e. `librespeed_inst_notes`
+7.  Click the green **Create pull request** button
 
 Here you will enter the title of the PR and fill details related to it. If your PR contains only one commit, the PR title should automatically have been set to that commit's summary, which is often a reasonable PR title. **Fill out the PR template in the details section as appropriate.**
 
@@ -239,7 +240,7 @@ Assuming all is well and your changes are deemed desirable, they will be reviewe
 
 #### Making changes
 
-If the project maintainers request changes, you must re-open your GitHub workspace (which will have a randomly generated goofy name) to make the changes. As a general rule of thumb in git, **do not alter existing commits and instead make alterations by creating new ones**; *however*, creating PRs via a topic branch is one of the exceptions in which not only is it appropriate to modify previous commits, but often preferred.
+If the project maintainers request changes, you must re-open your GitHub workspace (which will have a randomly generated goofy name) to make the changes. As a general rule of thumb in git, **do not alter existing commits and instead make alterations by creating new ones**; _however_, creating PRs via a topic branch is one of the exceptions in which not only is it appropriate to modify previous commits, but often preferred.
 
 Once back in your workspace, make the required changes to your documentation file and then stage them as before.
 
@@ -285,8 +286,8 @@ From here you can start work on your next PR.
 
 ---
 
- - Include tips for handling rebasing to account for upstream changes by maintainers
- - Include tips for handling merge-conflicts
- - Add more pictures
- - Note how to add images to documentation
- - Note how to add warning/note blocks
+- Include tips for handling rebasing to account for upstream changes by maintainers
+- Include tips for handling merge-conflicts
+- Add more pictures
+- Note how to add images to documentation
+- Note how to add warning/note blocks

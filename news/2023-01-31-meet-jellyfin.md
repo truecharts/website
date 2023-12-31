@@ -3,6 +3,7 @@ slug: "meet-jellyfin"
 title: "Meet Jellyfin, OpenSource Media Server"
 authors: [ornias]
 ---
+
 As Linus TechTips recently discovered, Jellyfin is a fantastic solution for watching your media from anywhere and our app makes it incredibly easy to install on TrueNAS SCALE.
 
 With the popularity of Jellyfin on the rise, iX-Systems has put together a great guide for setting it up on TrueNAS SCALE using our TrueCharts App. The guide provides step-by-step instructions for getting started with Jellyfin, making it simple for anyone to enjoy their media collection from anywhere. The guide can be found here: https://www.truenas.com/community/threads/how-to-get-started-with-jellyfin-on-truenas-scale.107433/

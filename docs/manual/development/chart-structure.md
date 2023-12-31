@@ -23,7 +23,7 @@ charts/<train>/<chart name>/SCALE/
   item.yaml                # Contains generic information about the App for the TrueNAS SCALE UI
 ```
 
-*See the upstream Helm chart [developer reference](https://helm.sh/docs/chart_template_guide/) for a complete walk through of developing charts.*
+_See the upstream Helm chart [developer reference](https://helm.sh/docs/chart_template_guide/) for a complete walk through of developing charts._
 
 To convert an upstream chart to take advantage of TrueNAS SCALE enhanced UX, first create an `item.yaml` file.
 This file among other catalog item information provides a list of categories that this chart fits into. This helps users navigate and filtering when browsing the catalog UI.
@@ -78,4 +78,4 @@ questions:
 ```
 
 The above will prompt the user with 2 text fields and a dropdown in the UI getting details for image configuration in a helm chart.
-[*Read more information about questions.yaml*](./questions-yaml)
+[_Read more information about questions.yaml_](./questions-yaml)

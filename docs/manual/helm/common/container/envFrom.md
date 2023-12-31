@@ -5,10 +5,10 @@ Assume every key below has a prefix of `workload.[workload-name].podSpec.contain
 | Key                                   |   Type    | Required | Helm Template | Default | Description                                                          |
 | :------------------------------------ | :-------: | :------: | :-----------: | :-----: | :------------------------------------------------------------------- |
 | envFrom                               |  `list`   |    ❌    |      ❌       |  `{}`   | Define envFrom for the container                                     |
-| envFrom.secretRef                     |  `map`   |    ✅    |      ❌       |  `{}`   | Define the secretRef                                                 |
+| envFrom.secretRef                     |   `map`   |    ✅    |      ❌       |  `{}`   | Define the secretRef                                                 |
 | envFrom.secretRef.name                | `string`  |    ✅    |      ✅       |  `""`   | Define the secret name                                               |
 | envFrom.secretRef.expandObjectName    | `boolean` |    ❌    |      ❌       | `true`  | Whether to expand (adding the fullname as prefix) the secret name    |
-| envFrom.configMapRef                  |  `map`   |    ✅    |      ❌       |  `{}`   | Define the configMapRef                                              |
+| envFrom.configMapRef                  |   `map`   |    ✅    |      ❌       |  `{}`   | Define the configMapRef                                              |
 | envFrom.configMapRef.name             | `string`  |    ✅    |      ✅       |  `""`   | Define the configmap name                                            |
 | envFrom.configMapRef.expandObjectName | `boolean` |    ❌    |      ❌       | `true`  | Whether to expand (adding the fullname as prefix) the configmap name |
 

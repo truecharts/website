@@ -4,13 +4,14 @@ Apps with a PostgreSQL database that were updated to the new CNPG common sometim
 
 :::caution Best Effort Policy
 
-This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation or if you suffer data loss as a result. 
+This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation or if you suffer data loss as a result.
 This guide has been tested with TrueNAS SCALE 22.12.4.2, Cobia beta, CNPG 1.20.2_2.0.3 and HomeAssistant 2023.10.3_20.0.12.
 
 :::
 
 ## Symptoms
-If you have rebooted and your Apps are hanging on _DEPLOYING_, check if you see pods in state _Completed_ or _TaintToleration_ and the apps main pod in state _Init_ with the 
+
+If you have rebooted and your Apps are hanging on _DEPLOYING_, check if you see pods in state _Completed_ or _TaintToleration_ and the apps main pod in state _Init_ with the
 command `k3s kubectl get all -n ix-<app-name> `.
 
 ```bash
@@ -36,50 +37,65 @@ pod/home-assistant-5867d984d9-vcp6x               0/1     Init:0/2    0         
 ```
 
 Logs from the cnpg-wait container in the main app pod show something like this:
+
 ```bash
 Testing database on url:  home-assistant-cnpg-main-rw
 home-assistant-cnpg-main-rw:5432 - no response
 ```
 
 ## Recovery Steps
-To recover your app, you need to first stop it ([do not click the _Stop_ button!](https://truecharts.org/manual/FAQ#how-do-i-stop-a-truecharts-app-truenas-scale-only)), delete the hanging pods and then restart the app. 
 
-1. Stopp the app either by checking "Stop All" in the app settings or with HeavyScript.  
+To recover your app, you need to first stop it ([do not click the _Stop_ button!](https://truecharts.org/manual/FAQ#how-do-i-stop-a-truecharts-app-truenas-scale-only)), delete the hanging pods and then restart the app.
+
+1. Stopp the app either by checking "Stop All" in the app settings or with HeavyScript.
+
 ```bash
 heavyscript app --stop <app-name>`
 ```
+
 2. Wait 2-3min
 3. Delete any still hanging pods with
+
 ```bash
-k3s kubectl delete pods -n ix-<app-name> <pod name>`  
+k3s kubectl delete pods -n ix-<app-name> <pod name>`
 e.g. k3s kubectl delete pods -n ix-home-assistant home-assistant-85865456d5-tc8h4
 ```
-4. Start the app either by unchecking "Stop All" in the app settings or with HeavyScript  
+
+4. Start the app either by unchecking "Stop All" in the app settings or with HeavyScript
+
 ```bash
 heavyscript app --start <app-name>
 ```
+
 5. If you unchecked "Stop All" you might have to click the Start Button on the GUI (Start is safe, Stop is NOT).  
    There also might be a task that gets stuck in TrueNAS under Jobs (top right). You can get rid of those by restarting TrueNAS GUI with
+
 ```bash
 systemctl restart middlewared
 ```
+
 6. Wait 2-3min
-7. Check that the app and all of its pods are running. In the third paragraph there should be no _deployment.apps_ with 0 _AVAILABLE_  
+7. Check that the app and all of its pods are running. In the third paragraph there should be no _deployment.apps_ with 0 _AVAILABLE_
+
 ```bash
-Example:  
-k3s kubectl get all -n ix-home-assistant`    
+Example:
+k3s kubectl get all -n ix-home-assistant`
 NAME                                          READY   UP-TO-DATE   AVAILABLE   AGE
 deployment.apps/home-assistant-cnpg-main-rw   0/0     0            0           14h
 deployment.apps/home-assistant                1/1     1            1           14h
 ```
+
 8. You can scale them up manually to 1 replica or if it's a cnpg-main-rw pod you might want 2 replicas
+
 ```bash
 k3s kubectl scale deploy <deployment.apps-name> -n ix-<app-name> --replicas=1
 e.g. k3s kubectl scale deploy home-assistant-cnpg-main-rw -n ix-home-assistant --replicas=2
 ```
 
 ## Safe Reboot
+
 You have recovered your apps but need to reboot again? There is a safe and faster way by unsetting the app pool before rebooting:
+
 1. Apps --> Settings --> Unset Pool
 2. Wait for apps to scale down. No installed apps will be shown, but they are not deleted.
 3. Reboot

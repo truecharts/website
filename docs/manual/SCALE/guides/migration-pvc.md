@@ -40,6 +40,7 @@ For apps installed with a different name, it will be `<app-name>-<default-name>`
 So for `vaultwarden` (the default name), it will be `vaultwarden`. But for the vaultwarden app that was installed with the name `testwarden`, it will be `testwarden-vaultwarden`.
 
 :::caution Replace the names in the angle brackets before executing commands
+
 ```bash
 k3s kubectl scale deploy <app-name>-<default-name> -n ix-<app-name> --replicas=0
 k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0
@@ -48,6 +49,7 @@ k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0
 :::
 
 :::caution Example commands for apps with name vaultwarden and testwarden
+
 ```bash
 k3s kubectl scale deploy testwarden-vaultwarden -n ix-testwarden --replicas=0
 k3s kubectl scale deploy vaultwarden -n ix-vaultwarden --replicas=0
@@ -176,7 +178,7 @@ Destroy the PVCs of the new app and replicate the PVC of the old app to the new 
 
 :::danger
 
-Make sure you're not mixing up the old app and the new app here. Destroy the *NEW* PVC. The old PVC contains your data.
+Make sure you're not mixing up the old app and the new app here. Destroy the _NEW_ PVC. The old PVC contains your data.
 
 :::
 
@@ -198,7 +200,7 @@ root@truenasvm[~]# k3s kubectl get pvc -n ix-vaultwarden
 NAME                          STATUS   VOLUME                                     CAPACITY   ACCESS MODES   STORAGECLASS                   AGE
 vaultwarden-data              Bound    pvc-33646e70-ccaa-464c-b315-64b24fcd9e83   256Gi      RWO            ix-storage-class-vaultwarden   4h27m
 db-vaultwarden-postgresql-0   Bound    pvc-5b3aa878-0b76-4022-8542-b82cd3fdcf71   999Gi      RWO            ix-storage-class-vaultwarden   4h27m
-root@truenasvm[~]# k3s kubectl get pvc -n ix-testwarden 
+root@truenasvm[~]# k3s kubectl get pvc -n ix-testwarden
 NAME                                     STATUS   VOLUME                                     CAPACITY   ACCESS MODES   STORAGECLASS                  AGE
 testwarden-vaultwarden-data              Bound    pvc-e56982a7-e2c7-4b98-b875-5612d92506fd   256Gi      RWO            ix-storage-class-testwarden   4h18m
 testwarden-vaultwarden-cnpg-main-1       Bound    pvc-bed595ad-74f1-4828-84c7-764693785630   256Gi      RWO            ix-storage-class-testwarden   4h18m

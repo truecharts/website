@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 ---
+
 # Getting Started with TrueCharts
 
 Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](https://truecharts.org/manual/SCALE/guides/scale-intro) page.
@@ -30,16 +31,16 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 
 To add TrueCharts to your SCALE installation:
 
- 1. Go to **Apps** page from the top level SCALE menu
- 2. Click **Discover Apps** button on the Apps page
- 3. Click **Manage Catalogs** link on the Discover Apps page
- 4. Click **Add Catalog**
- 5. After reading the iXsystems notice, click **Continue** and enter the required information:
- Name: `truecharts`
- Repository: `https://github.com/truecharts/catalog`
- Preferred Trains: `enterprise`,`stable` and `operators` (type each one manually)
- Branch: `main`
- 6. Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
+1.  Go to **Apps** page from the top level SCALE menu
+2.  Click **Discover Apps** button on the Apps page
+3.  Click **Manage Catalogs** link on the Discover Apps page
+4.  Click **Add Catalog**
+5.  After reading the iXsystems notice, click **Continue** and enter the required information:
+    Name: `truecharts`
+    Repository: `https://github.com/truecharts/catalog`
+    Preferred Trains: `enterprise`,`stable` and `operators` (type each one manually)
+    Branch: `main`
+6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
 Please view this video from the TrueNAS documentation website on adding [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog) if you need more info on the process.
 

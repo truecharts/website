@@ -57,7 +57,7 @@ Now we can enter the Env Vars
 
 The Killswitch entry uses the Network ID and CIDR. Please note the example above is 192.168.1.0/24. This is never your default gateway or router IP address. If you fill this entry out incorrectly Gluetun will fail to start and the application it is attached to will fail to start. In almost all situations the Network ID will end in a .0 (ie. 192.168.0.0, 10.0.0.0, 172.16.0.0) and the CIDR will be /24.
 
-  > Specifying the kubernetes subnet is not necessary as it is automatically excluded from the VPN tunnel
+> Specifying the kubernetes subnet is not necessary as it is automatically excluded from the VPN tunnel
 
 :::
 
@@ -154,7 +154,7 @@ Your indexer traffic will now be routed through the Gluetun HTTP proxy. Check th
 
 If your provider isn't supported by `Gluetun` then you can use a [custom provider](https://github.com/qdm12/gluetun/wiki/Custom-provider) and configure as below, for example here's a provider with `OpenVPN`
 
-  - Note: use `/gluetun/vpn.conf` for `OPENVPN_CUSTOM_CONFIG` and not the path specified inside the `VPN config file location` above
+- Note: use `/gluetun/vpn.conf` for `OPENVPN_CUSTOM_CONFIG` and not the path specified inside the `VPN config file location` above
 
 ![Custom Provider Example](img/CustomVPNprovider.png)
 

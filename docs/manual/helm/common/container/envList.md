@@ -2,11 +2,11 @@
 
 Assume every key below has a prefix of `workload.[workload-name].podSpec.containers.[container-name]`.
 
-| Key           |   Type   | Required | Helm Template | Default | Description                      |
-| :------------ | :------: | :------: | :-----------: | :-----: | :------------------------------- |
+| Key           |   Type   | Required | Helm Template | Default | Description                     |
+| :------------ | :------: | :------: | :-----------: | :-----: | :------------------------------ |
 | envList       |  `list`  |    ❌    |      ❌       |  `[]`   | Define env(s) for the container |
-| envList.name  | `string` |    ✅    |      ❌       |  `""`   | Define the env name              |
-| envList.value | `string` |    ❌    |      ✅       |  `""`   | Define the env value             |
+| envList.name  | `string` |    ✅    |      ❌       |  `""`   | Define the env name             |
+| envList.value | `string` |    ❌    |      ✅       |  `""`   | Define the env value            |
 
 > `envList` is used for the SCALE GUI for "Additional Environment Variables"
 > Environment variables defined in `envList` will be scanned for duplicate keys

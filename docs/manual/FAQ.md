@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 ---
+
 # F.A.Q. (Frequently Asked Questions)
 
 TrueCharts Frequently Asked Questions
@@ -31,7 +32,7 @@ You need to make sure permissions stay the same, or the app might not be able to
 
 ## Do we support ACLs for HostPath storage?
 
-While it is technically feasible to use Access Control Lists (ACLs) for host path storage in ***most*** Charts/Apps, we strongly advise against it. We are unable to provide individual guidance to every user for setting up their ACLs for each chart. Apart from a few exceptions, user 568 (apps) must have access to their host path storage.
+While it is technically feasible to use Access Control Lists (ACLs) for host path storage in **_most_** Charts/Apps, we strongly advise against it. We are unable to provide individual guidance to every user for setting up their ACLs for each chart. Apart from a few exceptions, user 568 (apps) must have access to their host path storage.
 
 ## Are there Ingress requirements for certain apps?
 
@@ -67,7 +68,7 @@ please refer to the upstream container sources we list on the website instead.
 ## My Chart application has had an upstream update, but the chart is not updated yet?
 
 It takes a few days for our automation tools to pick up updates, please sit tight.
-Please only report missed updates when 7 days have passed after the new *container(!)* has become available.
+Please only report missed updates when 7 days have passed after the new _container(!)_ has become available.
 
 ## Isn't there more documentation for a chart?
 
@@ -90,7 +91,7 @@ The exception to the above are more complex Kubernetes ecosystem changes e.g. Ku
 
 TrueCharts uses Semantic Versioning on the aspects of the chart that TrueCharts has changed.
 Some upstream **containers** use `latest` tags or poor versioning schemes so updates aren't always
- clear if they contain breaking changes. Be sure to check the **changelog** for each chart before updating.
+clear if they contain breaking changes. Be sure to check the **changelog** for each chart before updating.
 
 ## How do I tell that this update is a major and potentially breaking change?
 
@@ -140,18 +141,18 @@ This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced S
 
 - Option 1.
 
-  Validation *disabled*, with the caveat we will **not** provide support on things that involve storage.
+  Validation _disabled_, with the caveat we will **not** provide support on things that involve storage.
   If you have an issue with the app, the configuration screenshots must **not** have hostPath defined.
   Get it up and running, and then you add host paths and figure out your permissions yourself.
 
 - Option 2.
 
-  Validation *enabled*, ANY sharing service *disabled* for hostPaths that are used by Apps.
+  Validation _enabled_, ANY sharing service _disabled_ for hostPaths that are used by Apps.
   Full support included.
 
 - Option 3.
 
-  Validation *enabled*, ANY sharing service *enabled*.
+  Validation _enabled_, ANY sharing service _enabled_.
   You can mount paths on the host using the [NFS option on all TrueCharts apps](https://truecharts.org/manual/SCALE/guides/nfs-share).
   With the caveat that if any app stores SQLite db file in the NFS, It's a matter of time to have it corrupted
   and the NFS overhead.
@@ -175,14 +176,14 @@ For reasons why this is necessary please see [Known Issues](https://truecharts.o
 
 :::caution
 
-Do **NOT** hit the Stop Button ***UNLESS*** you are certain the App does not use [CloudNativePG (CNPG)](https://cloudnative-pg.io/).
+Do **NOT** hit the Stop Button **_UNLESS_** you are certain the App does not use [CloudNativePG (CNPG)](https://cloudnative-pg.io/).
 
 :::
 
 ### How Do I know if an App uses CNPG?
 
 Here's a list of Apps in the Stable and Enterprise trains that use CNPG (up to date as of 3rd May 2023):
-  
+
 `airsonic-advanced`
 `authelia`
 `authentik`
@@ -256,7 +257,7 @@ If the App does not use CNPG, you have several options to stop an App:
 - 1. Press the Stop button in the Scale GUI.
 
 - 2. Enter the following command in the Shell (replace `<app-name>` with the name of the App):
-```k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0```
+     `k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0`
 
 - 3. Use [HeavyScript](https://github.com/Heavybullets8/heavy_script).
 
@@ -269,7 +270,7 @@ DO NOT REBOOT
 :::
 
 To recover from the App being in an unstable state enter this command in the Shell to restart the middleware service:
-```sudo service middlewared restart``` OR ```sudo systemctl restart middlewared```
+`sudo service middlewared restart` OR `sudo systemctl restart middlewared`
 
 ### So, how do I stop an App that uses CNPG?
 
@@ -344,4 +345,3 @@ To remove the previous automatically installed operator run this in the system s
 ### Traefik
 
 This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [Enterprise TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts).
-

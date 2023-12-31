@@ -6,7 +6,7 @@ authors: [ornias]
 
 We're glad to finally announce the end of our code-freeze. Since a few days we've re-enabled our automatic updates and within a few weeks everything should balance out again automatically!
 
-At the same time, we've not completely finished porting *all* stable-train charts to the new common, 65 are still missing. But we've clearly label those updates as breaking in the changelog when they come in.
+At the same time, we've not completely finished porting _all_ stable-train charts to the new common, 65 are still missing. But we've clearly label those updates as breaking in the changelog when they come in.
 Most of those are charts that have more complications than anticipated, so need a little quality time with our maintainers which takes a while.
 
 ### Known Issues
@@ -31,7 +31,7 @@ The setting has also moved in the GUI.
 
 4. Deprecated certificate system and you
 
-With most Charts ported, we want to highlight the fact that the "TrueNAS SCALE (Deprecated)" certificate option, should *not* be used anymore.
+With most Charts ported, we want to highlight the fact that the "TrueNAS SCALE (Deprecated)" certificate option, should _not_ be used anymore.
 We cannot guarantee it's stability nor can do anything at-all to help out. It will also be removed as an option in the future, though that will be months rather than weeks.
 
 ### The future
@@ -47,4 +47,3 @@ All users of helm should be able to use the power of this advanced common-librar
 
 Check it out here: https://artifacthub.io/packages/helm/truecharts-library-charts/common
 And also check out the docs as always: https://truecharts.org/manual/helm/common/
-

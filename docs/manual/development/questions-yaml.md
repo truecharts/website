@@ -26,7 +26,7 @@ In this document we give you a short reference guide (ported from IX Official) w
 | schema.valid_chars          | string        | false    | regular expression for input chars validation.                                                                                                                                                                                                                                                  |
 | schema.subquestions         | []subquestion | false    | add an array of subquestions.                                                                                                                                                                                                                                                                   |
 | schema.show_if              | string        | false    | show current variable if condition specified is true, for example `show_if: [["workloadType", "=", "CronJob"]]`                                                                                                                                                                                 |
-| schema.show_subquestions_if | string        | false    | show subquestions if is true or equal to one of the options. for example `show_subquestion_if: "static"`. system will convert this to the filters format specified for `schema.show_if` automatically.                                                                                           |
+| schema.show_subquestions_if | string        | false    | show subquestions if is true or equal to one of the options. for example `show_subquestion_if: "static"`. system will convert this to the filters format specified for `schema.show_if` automatically.                                                                                          |
 | schema.attrs                | []variables   | false    | specified when `schema.type` is dictionary to declare attributes allowed in the dictionary.                                                                                                                                                                                                     |
 | schema.items                | []variables   | false    | specified when `schema.type` is list to declare attributes allowed in the list.                                                                                                                                                                                                                 |
 | schema.private              | bool          | false    | specified for declaring information sensitive fields.                                                                                                                                                                                                                                           |
@@ -126,117 +126,117 @@ They are called general options, because they affect the basic functionalities o
 \*`PUID`, `PGID`, `UMASK` are only included when they are needed.
 
 ```yaml
-  - variable: env
-    group: "Configuration"
-    label: "Image Environment"
-    schema:
-      additional_attrs: true
-      type: dict
-      attrs:
-        - variable: TZ
-          label: "Timezone"
-          schema:
-            type: string
-            default: "Etc/UTC"
-            $ref:
-        - "definitions/timezone"
-        - variable: PUID
-          label: "PUID"
-          description: "Sets the PUID env var for LinuxServer.io (compatible) containers"
-          schema:
-            type: int
-            default: 568
-        - variable: PGID
-          label: "PGID"
-          description: "Sets the PGID env var for LinuxServer.io (compatible) containers"
-          schema:
-            type: int
-            default: 568
-        - variable: UMASK
-          label: "UMASK"
-          description: "Sets the UMASK env var for LinuxServer.io (compatible) containers"
-          schema:
-            type: string
-            default: "002"
+- variable: env
+  group: "Configuration"
+  label: "Image Environment"
+  schema:
+    additional_attrs: true
+    type: dict
+    attrs:
+      - variable: TZ
+        label: "Timezone"
+        schema:
+          type: string
+          default: "Etc/UTC"
+          $ref:
+      - "definitions/timezone"
+      - variable: PUID
+        label: "PUID"
+        description: "Sets the PUID env var for LinuxServer.io (compatible) containers"
+        schema:
+          type: int
+          default: 568
+      - variable: PGID
+        label: "PGID"
+        description: "Sets the PGID env var for LinuxServer.io (compatible) containers"
+        schema:
+          type: int
+          default: 568
+      - variable: UMASK
+        label: "UMASK"
+        description: "Sets the UMASK env var for LinuxServer.io (compatible) containers"
+        schema:
+          type: string
+          default: "002"
 
-  # Configure Custom Environment Variables
-  - variable: environmentVariables
-    label: "Image environment"
-    group: "Configuration"
-    schema:
-      type: list
-      default: []
-      items:
-        - variable: environmentVariable
-          label: "Environment Variable"
-          schema:
-            type: dict
-            attrs:
-              - variable: name
-                label: "Name"
-                schema:
-                  type: string
-              - variable: value
-                label: "Value"
-                schema:
-                  type: string
+# Configure Custom Environment Variables
+- variable: environmentVariables
+  label: "Image environment"
+  group: "Configuration"
+  schema:
+    type: list
+    default: []
+    items:
+      - variable: environmentVariable
+        label: "Environment Variable"
+        schema:
+          type: dict
+          attrs:
+            - variable: name
+              label: "Name"
+              schema:
+                type: string
+            - variable: value
+              label: "Value"
+              schema:
+                type: string
 ```
 
 #### Security Context Configuration options
 
 ```yaml
-  # Enable privileged
-  - variable: securityContext
-    group: "Security"
-    label: "Security Context"
-    schema:
-      additional_attrs: true
-      type: dict
-      attrs:
-        - variable: privileged
-          label: "Enable privileged mode for Common-Chart based charts"
-          schema:
-            type: boolean
-            default: false
-  # Set Pod Security Policy
-  - variable: podSecurityContext
-    group: "Security"
-    label: "Pod Security Context"
-    schema:
-      additional_attrs: true
-      type: dict
-      attrs:
-        - variable: runAsNonRoot
-          label: "runAsNonRoot"
-          schema:
-            type: boolean
-            default: true
-        - variable: runAsUser
-          label: "runAsUser"
-          description: "The UserID of the user running the application"
-          schema:
-            type: int
-            default: 568
-        - variable: runAsGroup
-          label: "runAsGroup"
-          description: The groupID this App of the user running the application"
-          schema:
-            type: int
-            default: 568
-        - variable: fsGroup
-          label: "fsGroup"
-          description: "The group that should own ALL storage."
-          schema:
-            type: int
-            default: 568
-        - variable: fsGroupChangePolicy
-          label: "When should we take ownership?"
-          schema:
-            type: string
-            default: "OnRootMismatch"
-            enum:
-              - value: "OnRootMismatch"
-                description: "OnRootMismatch"
-              - value: "Always"
-                description: "Always"
+# Enable privileged
+- variable: securityContext
+  group: "Security"
+  label: "Security Context"
+  schema:
+    additional_attrs: true
+    type: dict
+    attrs:
+      - variable: privileged
+        label: "Enable privileged mode for Common-Chart based charts"
+        schema:
+          type: boolean
+          default: false
+# Set Pod Security Policy
+- variable: podSecurityContext
+  group: "Security"
+  label: "Pod Security Context"
+  schema:
+    additional_attrs: true
+    type: dict
+    attrs:
+      - variable: runAsNonRoot
+        label: "runAsNonRoot"
+        schema:
+          type: boolean
+          default: true
+      - variable: runAsUser
+        label: "runAsUser"
+        description: "The UserID of the user running the application"
+        schema:
+          type: int
+          default: 568
+      - variable: runAsGroup
+        label: "runAsGroup"
+        description: The groupID this App of the user running the application"
+        schema:
+          type: int
+          default: 568
+      - variable: fsGroup
+        label: "fsGroup"
+        description: "The group that should own ALL storage."
+        schema:
+          type: int
+          default: 568
+      - variable: fsGroupChangePolicy
+        label: "When should we take ownership?"
+        schema:
+          type: string
+          default: "OnRootMismatch"
+          enum:
+            - value: "OnRootMismatch"
+              description: "OnRootMismatch"
+            - value: "Always"
+              description: "Always"
 ```

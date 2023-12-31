@@ -44,12 +44,12 @@ There are also some additional (advanced) options available, these can be added 
 **host:**
 
 ```yaml
-        - variable: host
-          label: "override Host when using NodePort"
-          description: "Overrides the host setting when using NodePort. Example use case would be load balanced NodePorts."
-          schema:
-            hidden: true
-            editable: false
-            type: string
-            default: "test.com"
+- variable: host
+  label: "override Host when using NodePort"
+  description: "Overrides the host setting when using NodePort. Example use case would be load balanced NodePorts."
+  schema:
+    hidden: true
+    editable: false
+    type: string
+    default: "test.com"
 ```

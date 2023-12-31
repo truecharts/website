@@ -3,6 +3,7 @@ slug: "post-easter-stable-update"
 title: "Post Easter Stable Update"
 authors: [ornias]
 ---
+
 Hope everyone had an amazing easter, we know we had a busy one to say the least!
 
 We are excited to announce that we have completed porting the first 222 charts in our "stable" train to our new "common" library chart. This chart serves as the basis for all of our apps and charts, and we believe that it will provide a more stable and reliable foundation for all of our future work.

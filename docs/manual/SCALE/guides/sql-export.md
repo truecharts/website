@@ -26,7 +26,7 @@ echo "$namespaces" | while read ns secret; do
     else
         creds=$(k3s kubectl get secret/$secret --namespace "$ns" -o jsonpath='{.data.std}' | base64 -d)
     fi
-    
+
     # get username, password, addresspart, and port
     username=$(echo "$creds" | awk -F '//' '{print $2}' | awk -F ':' '{print $1}')
     password=$(echo "$creds" | awk -F ':' '{print $3}' | awk -F '@' '{print $1}')
@@ -49,4 +49,3 @@ In Truenas Scale, create a dataset that can house the script files. Put the `.sh
 cd /mnt/tank/scripts/databases
 chmod +x tcdbinfo.sh
 ```
-

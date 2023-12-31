@@ -7,18 +7,23 @@ authors: [jagrbombs]
 As the holiday season sparkles around us, we at [TrueCharts](https://truecharts.org) want to extend our warmest wishes for a Merry Christmas to our incredible community. This year has been a remarkable journey, and we couldn't have done it without you!
 
 ## 🚀 Major Milestone Achieved! 🚀
+
 We're thrilled to announce that we've successfully transitioned hundreds of our Charts from incubator to stable! This massive endeavor includes dozens of gameservers, ensuring more stability and fun for everyone.
 
 ## 🎮 Game On! 🎮
+
 To all the gaming enthusiasts, get ready for enhanced gaming experiences with our latest and more robust gameserver offerings.
 
 ## 🙏 Support Our Journey 🙏
+
 As we continue to grow and improve, we kindly remind you that donations are always welcome. Your support fuels our passion and helps us maintain and develop even more exciting projects. Consider making a contribution this festive season!
 
 ## 🚨 Transition Notice: Ending support for TrueNAS SCALE Bluefin (22.12) 🚨
+
 Please note, we will be ending support for TrueNAS SCALE Bluefin 22.12.X starting today on 19 December 2023. To continue receiving support and updates in the New Year, we encourage users to upgrade their systems to TrueNAS SCALE Cobia (23.10), which released it's first update to 23.10.1 on December 19th 2023. We have a large community who can assist you through this important transition on our Discord with channels for #truenas-scale and #scale-apps.
 
 ## Special Thanks
+
 We want to take a moment to appreciate those who have made our journey so fruitful and new contributors (both directly and indirectly) to bringing TrueCharts to more platforms:
 
 - **Our Staff:** For their unwavering dedication and hard work.

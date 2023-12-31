@@ -11,7 +11,6 @@ We're very glad to announce a new step in our project: Stability Tiers.
 Stability Tiers is a tier list of platforms supported by TrueCharts, ranked by how well we think our Charts function on each platform.
 Of course, all platforms get full access to community support, but we want to give realistic expectations on how many "snags" users can experience on the platform of their choice.
 
-
 **Improved First-Tier Helm Support**
 
 With the new tiers, we are also finally ready to announce that we've completed the required work to officially release our Normal Helm Charts as a first-tier supported platform.
@@ -19,7 +18,6 @@ This also means that our industry-leading community support is now available for
 
 We want to make clear that, just as with SCALE, not every setting we offer is going to work well with every Chart.
 Sadly, we have not documented this very well, if at all. In the future, we want to document the release state (Experimental or GA) clearly for each Helm option in the documentation.
-
 
 **TrueNAS SCALE and Its Tier**
 
@@ -30,7 +28,7 @@ At the same time, we've been working hard on hardening our pipelines by signing 
 This leads us to conclude that TrueNAS SCALE Apps are inherently less secure and professional than Helm Charts.
 
 All in all, and after long deliberation, this has led us to decide to move TrueNAS SCALE to a "Second Tier" platform, as we cannot fully guarantee the same stability and reliability that normal Helm offers.
-This, however, does *not* mean a decrease in development efforts. We're still planning to fully support the platform where we can and expand both the catalog and our feature set on there in the future.
+This, however, does _not_ mean a decrease in development efforts. We're still planning to fully support the platform where we can and expand both the catalog and our feature set on there in the future.
 
 What it does mean is that some features might be slightly less reliable due to poorly designed "middleware" that is part of TrueNAS SCALE, which we, sadly enough, cannot do much against.
 
@@ -46,7 +44,6 @@ For FluxCD, we hope to create a catalog of pre-made `helm-release+kustomize` fil
 Even better, we're working hard to automate the deployment of GitOps with Flux, Sops-Encryption, and even a dedicated operating system: Talos-OS!
 
 For Rancher, while you can already load our helm charts into Rancher and edit the YAML like any other Helm Chart, we are planning to add custom Rancher GUI elements to each and every published Helm chart. Just like with SCALE, but this time fully Kubernetes aware without complicated middleware!
-
 
 **The Tier List**
 

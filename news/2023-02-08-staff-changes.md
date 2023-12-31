@@ -3,6 +3,7 @@ slug: "staff-changes-feb-2023"
 title: "Februari 2023 Staff Changes"
 authors: [ornias]
 ---
+
 TrueCharts is proud to announce some exciting changes to our core team in light of our rapidly growing project. With the growing needs of our community, we have decided to switch positions for two of our team members, @JagrBombs (Steven) and @mintyCrackers.
 
 @mintyCrackers will now take on the role of Community Manager, where they will be responsible for fostering a positive and productive environment for our users. Meanwhile, @JagrBombs (Steven) will now serve as Head Moderator, bringing their technical expertise to the forefront of our moderation efforts.

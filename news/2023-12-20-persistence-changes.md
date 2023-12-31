@@ -46,7 +46,7 @@ We do not have many statefulsets in our catalog, so expect it to be mostly OpenL
 
 #### SCALE
 
-To check which have statefulsets: 
+To check which have statefulsets:
 k3s kubectl get statefulsets -A | grep "ix-"
 
 Then to delete the statefulset:
@@ -59,7 +59,7 @@ Once deleted you can attempt the update (or if you were already updated to lates
 
 #### Helm
 
-To check which have statefulsets: 
+To check which have statefulsets:
 kubectl get statefulsets -A
 
 Then to delete the statefulset:

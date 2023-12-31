@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 ---
+
 # Project Scope
 
 TrueCharts is a comprehensive project that focuses on providing Helm charts for applications to run on Kubernetes-based platforms. This documentation article aims to describe the project's scope, highlighting its key principles and areas of focus.
@@ -11,7 +12,7 @@ TrueCharts is committed to delivering high-quality Helm charts for Kubernetes-ba
 
 ### Key Principles
 
-1. Native Kubernetes Features: TrueCharts places a strong emphasis on utilizing the native features and capabilities offered by Kubernetes. This approach ensures compatibility with the Kubernetes ecosystem and enables seamless integration with existing Helm-based Kubernetes workflows. By focussing on the power of  Helm, TrueCharts provides charts that are familiar to Helm users and adheres to Helm and Kubernetes best practices.
+1. Native Kubernetes Features: TrueCharts places a strong emphasis on utilizing the native features and capabilities offered by Kubernetes. This approach ensures compatibility with the Kubernetes ecosystem and enables seamless integration with existing Helm-based Kubernetes workflows. By focussing on the power of Helm, TrueCharts provides charts that are familiar to Helm users and adheres to Helm and Kubernetes best practices.
 2. Avoidance of Platform-Specific Features: The project prefers not to rely on platform-specific feature sets that are unique to specific Kubernetes distributions or platforms such TrueNAS SCALE (i.e using cert-manager certificates instead of built-in certificates on TrueNAS SCALE). By avoiding these platform-specific features, TrueCharts charts maintain a higher degree of portability and can be used across different Kubernetes environments without modification. Users can expect a consistent experience regardless of their chosen Kubernetes platform.
 3. Holistic packaging of Helm Charts: Our charts aim to view application holistically, packing all parts (frontends, databases, tools) into a single helm chart. We also aim to ensure all our charts fit well within a single “truecharts ecosystem”. This means each chart will integrate everything and all the containers needed to run (better than a simple docker-compose) and will be ready for TrueCharts features such as ingress and certificate management from the get-go.
 

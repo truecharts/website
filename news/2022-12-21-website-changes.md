@@ -3,6 +3,7 @@ slug: "website-changes"
 title: "Website and Announcement Changes"
 authors: [ornias]
 ---
+
 Hello TrueCharts community!
 
 We wanted to share some updates with you regarding some changes we're making to how we communicate and present information on our website.
