@@ -75,7 +75,7 @@ Enables or Disables the Configmap
 | Key        | `configmap.$name.enabled` |
 | Type       | `bool`                    |
 | Required   | ✅                        |
-| Helm `tpl` | ❌                        |
+| Helm `tpl` | ✅                        |
 | Default    | `false`                   |
 
 Example

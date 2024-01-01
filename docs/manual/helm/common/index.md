@@ -12,7 +12,7 @@ This options should not need to be changed per chart.
 | .Values.global.annotations                                         |   `map`   |    ❌    | ✅ (On value only) |    `{}`     | Additional Annotations that apply to all objects                               |
 | .Values.global.namespace                                           | `string`  |    ❌    |         ✅         |    `""`     | Namespace to apply to all objects, also applies to chart deps                  |
 | .Values.global.minNodePort                                         |   `int`   |    ✅    |         ❌         |   `9000`    | Minimum Node Port Allowed                                                      |
-| .Values.global.createTCNamespace                                   | `boolean` |    ❌    |         ❌         |   `true`    | Whether to create tc-system namespace                                          |
+| .Values.global.createTCNamespace                                   | `bool` |    ❌    |         ❌         |   `true`    | Whether to create tc-system namespace                                          |
 | .Values.fallbackDefaults.probeType                                 | `string`  |    ✅    |         ❌         |   `http`    | Default probe type when not defined in the container level                     |
 | .Values.fallbackDefaults.serviceProtocol                           | `string`  |    ✅    |         ❌         |    `tcp`    | Default service protocol when not defined in the service                       |
 | .Values.fallbackDefaults.serviceType                               | `string`  |    ✅    |         ❌         | `ClusterIP` | Default service type when not defined in the service                           |
@@ -25,9 +25,9 @@ This options should not need to be changed per chart.
 | .Values.fallbackDefaults.probeTimeouts.[probe].failureThreshold    |   `int`   |    ✅    |         ❌         |  See below  | Default failureThreshold if not defined in the container                       |
 | .Values.fallbackDefaults.probeTimeouts.[probe].successThreshold    |   `int`   |    ✅    |         ❌         |  See below  | Default successThreshold if not defined in the container                       |
 | .Values.operator                                                   |   `map`   |    ❌    |         ❌         |  See below  | Contains specific settings for helm charts containing or using operators       |
-| .Values.operator.register                                          | `boolean` |    ❌    |         ❌         |   `false`   | Adds a configmap in `tc-system` namespace to register the chart as an operator |
+| .Values.operator.register                                          | `bool` |    ❌    |         ❌         |   `false`   | Adds a configmap in `tc-system` namespace to register the chart as an operator |
 | .Values.operator.verify                                            |   `map`   |    ❌    |         ❌         |  See below  | Contains specific settings for verifying operators                             |
-| .Values.operator.verify.enabled                                    | `boolean` |    ❌    |         ❌         |   `true`    | Enables or disables the verification of operators                              |
+| .Values.operator.verify.enabled                                    | `bool` |    ❌    |         ❌         |   `true`    | Enables or disables the verification of operators                              |
 | .Values.operator.verify.additionalOperators                        |  `list`   |    ❌    |         ❌         |    `[]`     | Additional operators to verify                                                 |
 | .Values.operator.verify.additionalOperators.[operator]             | `string`  |    ❌    |         ❌         |    `""`     | Operator to verify                                                             |
 | .Values.extraTpl                                                   |  `list`   |    ❌    |         ✅         |    `[]`     | Define kubernetes resources, 1 per list item, tpl will be resolved             |
@@ -135,19 +135,19 @@ but still have the ability to override them on the pod/container level, in case 
 | .Values.resources.requests.cpu                   | `string`  |    ✅    |      ❌       | See below | Resources                                                              |
 | .Values.resources.requests.memory                | `string`  |    ✅    |      ❌       | See below | Resources                                                              |
 | .Values.podOptions                               |   `map`   |    ✅    |      ❌       | See below | Options that apply to all pods                                         |
-| .Values.podOptions.enableServiceLinks            | `boolean` |    ✅    |      ❌       | See below | enableServiceLinks                                                     |
-| .Values.podOptions.hostNetwork                   | `boolean` |    ✅    |      ❌       | See below | hostNetwork                                                            |
-| .Values.podOptions.hostIPC                       | `boolean` |    ✅    |      ❌       | See below | hostIPC                                                                |
-| .Values.podOptions.hostPID                       | `boolean` |    ✅    |      ❌       | See below | hostPID                                                                |
-| .Values.podOptions.hostUsers                     | `boolean` |    ✅    |      ❌       | See below | hostUsers                                                              |
-| .Values.podOptions.shareProcessNamespace         | `boolean` |    ✅    |      ❌       | See below | shareProcessNamespace                                                  |
+| .Values.podOptions.enableServiceLinks            | `bool` |    ✅    |      ❌       | See below | enableServiceLinks                                                     |
+| .Values.podOptions.hostNetwork                   | `bool` |    ✅    |      ❌       | See below | hostNetwork                                                            |
+| .Values.podOptions.hostIPC                       | `bool` |    ✅    |      ❌       | See below | hostIPC                                                                |
+| .Values.podOptions.hostPID                       | `bool` |    ✅    |      ❌       | See below | hostPID                                                                |
+| .Values.podOptions.hostUsers                     | `bool` |    ✅    |      ❌       | See below | hostUsers                                                              |
+| .Values.podOptions.shareProcessNamespace         | `bool` |    ✅    |      ❌       | See below | shareProcessNamespace                                                  |
 | .Values.podOptions.restartPolicy                 | `string`  |    ✅    |      ❌       | See below | restartPolicy                                                          |
 | .Values.podOptions.dnsPolicy                     | `string`  |    ✅    |      ❌       | See below | dnsPolicy                                                              |
 | .Values.podOptions.dnsConfig                     |  `list`   |    ✅    |      ❌       | See below | dnsConfig                                                              |
 | .Values.podOptions.hostAliases                   |  `list`   |    ✅    |      ❌       | See below | hostAliases                                                            |
 | .Values.podOptions.tolerations                   |  `list`   |    ✅    |      ❌       | See below | tolerations                                                            |
 | .Values.podOptions.runtimeClassName              | `string`  |    ✅    |      ❌       | See below | runtimeClassName (value in ixChartContext will always take precedence) |
-| .Values.podOptions.automountServiceAccountToken  | `boolean` |    ✅    |      ❌       | See below | automountServiceAccountToken                                           |
+| .Values.podOptions.automountServiceAccountToken  | `bool` |    ✅    |      ❌       | See below | automountServiceAccountToken                                           |
 | .Values.podOptions.terminationGracePeriodSeconds |   `int`   |    ✅    |      ❌       | See below | terminationGracePeriodSeconds                                          |
 
 <!-- TODO: Improve descriptions -->
@@ -203,12 +203,12 @@ but still have the ability to override them on the pod/container level, in case 
 | .Values.securityContext.container                          |   `map`   |    ✅    |      ❌       | See below | Security Context for containers          |
 | .Values.securityContext.container.PUID                     |   `int`   |    ✅    |      ❌       | See below | PUID (Only applied when running as root) |
 | .Values.securityContext.container.UMASK                    | `string`  |    ✅    |      ❌       | See below | UMASK                                    |
-| .Values.securityContext.container.runAsNonRoot             | `boolean` |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.runAsNonRoot             | `bool` |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.runAsUser                |   `int`   |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.runAsGroup               |   `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.readOnlyRootFilesystem   | `boolean` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.allowPrivilegeEscalation | `boolean` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.privileged               | `boolean` |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.readOnlyRootFilesystem   | `bool` |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.allowPrivilegeEscalation | `bool` |    ✅    |      ❌       | See below |                                          |
+| .Values.securityContext.container.privileged               | `bool` |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.seccompProfile           |   `map`   |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.seccompProfile.type      | `string`  |    ✅    |      ❌       | See below |                                          |
 | .Values.securityContext.container.seccompProfile.profile   | `string`  |    ✅    |      ❌       | See below |                                          |

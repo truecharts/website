@@ -27,7 +27,7 @@ title: Image Pull Secret
 
 ## Target Selector
 
-- `targetSelectAll` (boolean): Whether to assign the secret to all pods or not. `targetSelector` is ignored in this case
+- `targetSelectAll` (bool): Whether to assign the secret to all pods or not. `targetSelector` is ignored in this case
 - `targetSelector` (list): Define the pod(s) to assign the secret
 - `targetSelector` (empty): Assign the secret to the primary pod
 
@@ -83,7 +83,7 @@ Enables or Disables the image pull secret
 | Key        | `imagePullSecret.$name.enabled` |
 | Type       | `bool`                          |
 | Required   | ✅                              |
-| Helm `tpl` | ❌                              |
+| Helm `tpl` | ✅                              |
 | Default    | `false`                         |
 
 Example

@@ -111,7 +111,7 @@ Enable volume snapshot
 | Key        | `volumeSnapshots.$name.enabled` |
 | Type       | `bool`                          |
 | Required   | ✅                              |
-| Helm `tpl` | ❌                              |
+| Helm `tpl` | ✅                              |
 | Default    | `false`                         |
 
 Example

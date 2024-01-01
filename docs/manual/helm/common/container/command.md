@@ -1,20 +1,39 @@
-# Command
+---
+title: Command
+---
 
-Assume every key below has a prefix of `workload.[workload-name].podSpec.containers.[container-name]`.
+:::note
 
-| Key     |     Type      | Required | Helm Template | Default | Description                                                 |
-| :------ | :-----------: | :------: | :-----------: | :-----: | :---------------------------------------------------------- |
-| command | `list/string` |    ❌    |      ✅       |  `[]`   | Define command(s). If it's single, can be defined as string |
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.workload.$name.podSpec.containers.$name`
+- `.Values.workload.$name.podSpec.initContainers.$name`
+- `.Values.workload.$name.podSpec.containers.$name.probes.liveness`
+- `.Values.workload.$name.podSpec.containers.$name.probes.readiness`
+- `.Values.workload.$name.podSpec.containers.$name.probes.startup`
 
 ---
 
-Appears in:
+## `command`
 
-- `.Values.workload.[workload-name].podSpec.containers.[container-name].command`
+Define command(s). If it's single, can be defined as string
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.command` |
+| Type       | `string` or `list` of `string`                    |
+| Required   | ❌                                                |
+| Helm `tpl` | ✅                                                |
+| Default    | `[]`                                              |
 
 ---
 
-Examples:
+## Full Examples
 
 ```yaml
 workload:

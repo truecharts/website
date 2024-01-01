@@ -28,7 +28,7 @@ title: Service Account
 
 ## Target Selector
 
-- `targetSelectAll` (boolean): Whether to assign the serviceAccount to all pods or not. `targetSelector` is ignored in this case
+- `targetSelectAll` (bool): Whether to assign the serviceAccount to all pods or not. `targetSelector` is ignored in this case
 - `targetSelector` (list): Define the pod(s) to assign the serviceAccount
 - `targetSelector` (empty): Assign the serviceAccount to the primary pod
 
@@ -84,7 +84,7 @@ Enables or Disables the serviceAccount
 | Key        | `serviceAccount.$name.enabled` |
 | Type       | `bool`                         |
 | Required   | ✅                             |
-| Helm `tpl` | ❌                             |
+| Helm `tpl` | ✅                             |
 | Default    | `false`                        |
 
 Example

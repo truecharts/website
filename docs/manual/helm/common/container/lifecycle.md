@@ -1,28 +1,284 @@
-# Lifecycle
+---
+title: Lifecycle
+---
 
-Assume every key below has a prefix of `workload.[workload-name].podSpec.containers.[container-name]`.
+:::note
 
-| Key                          |     Type      |     Required      |   Helm Template    | Default | Description                                                                               |
-| :--------------------------- | :-----------: | :---------------: | :----------------: | :-----: | :---------------------------------------------------------------------------------------- |
-| lifecycle                    |     `map`     |        ❌         |         ❌         |  `{}`   | Define lifecycle for the container                                                        |
-| lifecycle.preStop            |     `map`     |        ❌         |         ❌         |  `{}`   | Define preStop lifecycle                                                                  |
-| lifecycle.postStart          |     `map`     |        ❌         |         ❌         |  `{}`   | Define preStop lifecycle                                                                  |
-| lifecycle.[hook].type        |   `string`    |        ❌         |         ❌         |  `""`   | Define hook type (exec, http, https) (Used as a scheme in http(s) types)                  |
-| lifecycle.[hook].command     | `list/string` | ✅ (On exec type) |         ✅         |  `""`   | Define command(s). If it's single, can be defined as string (Only when exec type is used) |
-| lifecycle.[hook].port        |     `int`     | ✅ (On http type) |         ✅         |  `""`   | Define the port, (Only when http(s) type is used)                                         |
-| lifecycle.[hook].host        |   `string`    |        ❌         |         ✅         |         | Define the host, k8s defaults to POD IP (Only when http(s) type is used)                  |
-| lifecycle.[hook].path        |   `string`    |        ❌         |         ✅         |   `/`   | Define the path (Only when http(s) type is used)                                          |
-| lifecycle.[hook].httpHeaders |     `map`     |        ❌         | ✅ (On value only) |  `{}`   | Define the httpHeaders in key-value pairs (Only when http(s) type is used)                |
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.workload.$name.podSpec.containers.$name`
 
 ---
 
-Appears in:
+## `lifecycle`
 
-- `.Values.workload.[workload-name].podSpec.containers.[container-name].lifecycle`
+Define lifecycle for the container
+
+|            |                                                     |
+| ---------- | --------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.lifecycle` |
+| Type       | `map`                                               |
+| Required   | ❌                                                  |
+| Helm `tpl` | ❌                                                  |
+| Default    | `{}`                                                |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          lifecycle: {}
+```
 
 ---
 
-Examples:
+### `lifecycle.preStop`
+
+Define preStop lifecycle
+
+|            |                                                             |
+| ---------- | ----------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.lifecycle.preStop` |
+| Type       | `map`                                                       |
+| Required   | ❌                                                          |
+| Helm `tpl` | ❌                                                          |
+| Default    | `{}`                                                        |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          lifecycle:
+            preStop: {}
+```
+
+---
+
+### `lifecycle.postStart`
+
+Define preStop lifecycle
+
+|            |                                                               |
+| ---------- | ------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.lifecycle.postStart` |
+| Type       | `map`                                                         |
+| Required   | ❌                                                            |
+| Helm `tpl` | ❌                                                            |
+| Default    | `{}`                                                          |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          lifecycle:
+            postStart: {}
+```
+
+---
+
+#### `lifecycle.$hook.type`
+
+Define hook type
+
+|            |                                                                |
+| ---------- | -------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.lifecycle.$hook.type` |
+| Type       | `string`                                                       |
+| Required   | ❌                                                             |
+| Helm `tpl` | ❌                                                             |
+| Default    | `""`                                                           |
+
+Valid Values:
+
+- `exec`
+- `http`
+- `https`
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          lifecycle:
+            preStop:
+              type: exec
+```
+
+---
+
+#### `lifecycle.$hook.command`
+
+Define command(s)
+
+:::note
+
+- Only applies when `type: exec`
+- It is **required**
+
+:::
+
+See [Command](./command.md#command) for more information.
+
+---
+
+#### `lifecycle.$hook.port`
+
+Define the port
+
+:::note
+
+- Only applies when `type: http` or `type: https`
+- It is **required**
+
+:::
+
+|            |                                                                |
+| ---------- | -------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.lifecycle.$hook.port` |
+| Type       | `int`                                                          |
+| Required   | ✅                                                             |
+| Helm `tpl` | ✅                                                             |
+| Default    | `""`                                                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          lifecycle:
+            postStart:
+              type: http
+              port: 8080
+```
+
+---
+
+#### `lifecycle.$hook.host`
+
+Define the host
+
+:::note
+
+- Only applies when `type: http` or `type: https`
+
+:::
+
+|            |                                                                |
+| ---------- | -------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.lifecycle.$hook.host` |
+| Type       | `string`                                                       |
+| Required   | ❌                                                             |
+| Helm `tpl` | ✅                                                             |
+| Default    | `""`                                                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          lifecycle:
+            postStart:
+              type: http
+              port: 8080
+              host: localhost
+```
+
+---
+
+#### `lifecycle.$hook.path`
+
+Define the path
+
+:::note
+
+- Only applies when `type: http` or `type: https`
+
+:::
+
+|            |                                                                |
+| ---------- | -------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.lifecycle.$hook.path` |
+| Type       | `string`                                                       |
+| Required   | ❌                                                             |
+| Helm `tpl` | ✅                                                             |
+| Default    | `"/"`                                                          |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          lifecycle:
+            postStart:
+              type: http
+              port: 8080
+              host: localhost
+              path: /path
+```
+
+---
+
+#### `lifecycle.$hook.httpHeaders`
+
+Define the httpHeaders
+
+|            |                                                                       |
+| ---------- | --------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.lifecycle.$hook.httpHeaders` |
+| Type       | `map`                                                                 |
+| Required   | ❌                                                                    |
+| Helm `tpl` | ✅ (On value only)                                                    |
+| Default    | `{}`                                                                  |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          lifecycle:
+            postStart:
+              type: http
+              port: 8080
+              host: localhost
+              path: /path
+              httpHeaders:
+                key: value
+```
+
+---
+
+## Full Examples
 
 ```yaml
 workload:

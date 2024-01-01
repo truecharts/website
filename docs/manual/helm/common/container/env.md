@@ -1,38 +1,401 @@
-# Env
+---
+title: Env
+---
 
-Assume every key below has a prefix of `workload.[workload-name].podSpec.containers.[container-name]`.
+:::note
 
-| Key                                        |   Type    | Required |  Helm Template  | Default | Description                                                          |
-| :----------------------------------------- | :-------: | :------: | :-------------: | :-----: | :------------------------------------------------------------------- |
-| env                                        |   `map`   |    ❌    |       ❌        |  `{}`   | Define env(s) for the container                                      |
-| env.[key]                                  | `string`  |    ✅    | ✅ (Only value) |  `""`   | Define the env key/value                                             |
-| env.[key].configMapKeyRef                  |   `map`   |    ❌    |       ❌        |  `{}`   | Define variable from configMapKeyRef                                 |
-| env.[key].configMapKeyRef.name             | `string`  |    ✅    |       ✅        |  `""`   | Define the configMap name                                            |
-| env.[key].configMapKeyRef.key              | `string`  |    ✅    |       ❌        |  `""`   | Define the configMap key                                             |
-| env.[key].configMapKeyRef.expandObjectName | `boolean` |    ❌    |       ❌        | `true`  | Whether to expand (adding the fullname as prefix) the configmap name |
-| env.[key].secretKeyRef                     |   `map`   |    ❌    |       ❌        |  `{}`   | Define secretKeyRef variable                                         |
-| env.[key].secretKeyRef.name                | `string`  |    ✅    |       ✅        |  `""`   | Define the secret name                                               |
-| env.[key].secretKeyRef.key                 | `string`  |    ✅    |       ❌        |  `""`   | Define the secret key                                                |
-| env.[key].secretKeyRef.expandObjectName    | `boolean` |    ❌    |       ❌        | `true`  | Whether to expand (adding the fullname as prefix) the secret name    |
-| env.[key].fieldRef                         |   `map`   |    ❌    |       ❌        |  `{}`   | Define fieldRef variable                                             |
-| env.[key].fieldRef.fieldPath               | `string`  |    ✅    |       ❌        |  `""`   | Define field path                                                    |
-| env.[key].fieldRef.apiVersion              | `string`  |    ❌    |       ❌        |  `""`   | Define apiVersion                                                    |
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
-> Environment variables defined in `env` will be scanned for duplicate keys
-> between other secrets/configmaps/env/envList/fixedEnv and will throw an error if it finds any.
-> `secretKeyRef` and `configMapKeyRef` with `expandObjectName` set to `true` will also be validated that
-> the actual objects are defined and have the specified key.
-> `expandObjectName` should only be set to `false` if you want to consume a secret/configmap created outside of this chart
+:::
+
+:::tip
+
+Variable names will be scanned for duplicates across all
+[secrets](../secret.md), [configmaps](../configmap.md),
+[env](./env.md), [envList](./envList.md) and [fixedEnv](./fixedEnv.md)
+and will throw an error if it finds any.
+
+:::
+
+## Appears in
+
+- `.Values.workload.$name.podSpec.containers.$name`
+- `.Values.workload.$name.podSpec.initContainers.$name`
 
 ---
 
-Appears in:
+## `env`
 
-- `.Values.workload.[workload-name].podSpec.containers.[container-name].env`
+Define env(s) for the container
+
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env` |
+| Type       | `map`                                         |
+| Required   | ❌                                            |
+| Helm `tpl` | ✅ (Only value)                               |
+| Default    | `{}`                                          |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env: {}
+```
 
 ---
 
-Examples:
+### `env.$key`
+
+Define the env key
+
+|            |                                                    |
+| ---------- | -------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key` |
+| Type       | `string` or `map`                                  |
+| Required   | ✅                                                 |
+| Helm `tpl` | ✅ (Only on value, when it's a string)             |
+| Default    | `""`                                               |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME: ""
+```
+
+---
+
+#### `env.$key.configMapKeyRef`
+
+Define variable from configMapKeyRef
+
+|            |                                                                    |
+| ---------- | ------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.configMapKeyRef` |
+| Type       | `map`                                                              |
+| Required   | ❌                                                                 |
+| Helm `tpl` | ❌                                                                 |
+| Default    | `{}`                                                               |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              configMapKeyRef: {}
+```
+
+---
+
+##### `env.$key.configMapKeyRef.name`
+
+Define the configMap name
+
+:::note
+
+This will be automatically expanded to `fullname-secret-name`.
+You can opt out of this by setting [`expandObjectName`](#envkeyconfigmapkeyrefexpandobjectname) to `false`
+
+:::
+
+|            |                                                                         |
+| ---------- | ----------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.configMapKeyRef.name` |
+| Type       | `string`                                                                |
+| Required   | ✅                                                                      |
+| Helm `tpl` | ✅                                                                      |
+| Default    | `""`                                                                    |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              configMapKeyRef:
+                name: some-configmap-name
+```
+
+---
+
+##### `env.$key.configMapKeyRef.key`
+
+Define the configMap key
+
+|            |                                                                        |
+| ---------- | ---------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.configMapKeyRef.key` |
+| Type       | `string`                                                               |
+| Required   | ✅                                                                     |
+| Helm `tpl` | ❌                                                                     |
+| Default    | `""`                                                                   |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              configMapKeyRef:
+                key: some-configmap-key
+```
+
+---
+
+##### `env.$key.configMapKeyRef.expandObjectName`
+
+Whether to expand (adding the fullname as prefix) the configmap name
+
+|            |                                                                                     |
+| ---------- | ----------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.configMapKeyRef.expandObjectName` |
+| Type       | `bool`                                                                              |
+| Required   | ❌                                                                                  |
+| Helm `tpl` | ❌                                                                                  |
+| Default    | `true`                                                                              |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              configMapKeyRef:
+                expandObjectName: false
+```
+
+---
+
+#### `env.$key.secretKeyRef`
+
+Define variable from secretKeyRef
+
+|            |                                                                 |
+| ---------- | --------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.secretKeyRef` |
+| Type       | `map`                                                           |
+| Required   | ❌                                                              |
+| Helm `tpl` | ❌                                                              |
+| Default    | `{}`                                                            |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              secretKeyRef: {}
+```
+
+---
+
+##### `env.$key.secretKeyRef.name`
+
+Define the secret name
+
+:::note
+
+This will be automatically expanded to `fullname-secret-name`.
+You can opt out of this by setting [`expandObjectName`](#envkeysecretkeyrefexpandobjectname) to `false`
+
+:::
+
+|            |                                                                      |
+| ---------- | -------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.secretKeyRef.name` |
+| Type       | `string`                                                             |
+| Required   | ✅                                                                   |
+| Helm `tpl` | ✅                                                                   |
+| Default    | `""`                                                                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              secretKeyRef:
+                name: some-secret-name
+```
+
+---
+
+##### `env.$key.secretKeyRef.key`
+
+Define the secret key
+
+|            |                                                                     |
+| ---------- | ------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.secretKeyRef.key` |
+| Type       | `string`                                                            |
+| Required   | ✅                                                                  |
+| Helm `tpl` | ❌                                                                  |
+| Default    | `""`                                                                |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              secretKeyRef:
+                key: some-secret-key
+```
+
+---
+
+##### `env.$key.secretKeyRef.expandObjectName`
+
+Whether to expand (adding the fullname as prefix) the secret name
+
+|            |                                                                                  |
+| ---------- | -------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.secretKeyRef.expandObjectName` |
+| Type       | `bool`                                                                           |
+| Required   | ❌                                                                               |
+| Helm `tpl` | ❌                                                                               |
+| Default    | `true`                                                                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              secretKeyRef:
+                expandObjectName: false
+```
+
+---
+
+#### `env.$key.fieldRef`
+
+Define variable from fieldRef
+
+|            |                                                             |
+| ---------- | ----------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.fieldRef` |
+| Type       | `map`                                                       |
+| Required   | ❌                                                          |
+| Helm `tpl` | ❌                                                          |
+| Default    | `{}`                                                        |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              fieldRef: {}
+```
+
+---
+
+##### `env.$key.fieldRef.fieldPath`
+
+Define the field path
+
+|            |                                                                       |
+| ---------- | --------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.fieldRef.fieldPath` |
+| Type       | `string`                                                              |
+| Required   | ✅                                                                    |
+| Helm `tpl` | ❌                                                                    |
+| Default    | `""`                                                                  |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              fieldRef:
+                fieldPath: metadata.name
+```
+
+---
+
+##### `env.$key.fieldRef.apiVersion`
+
+Define the apiVersion
+
+|            |                                                                        |
+| ---------- | ---------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.env.$key.fieldRef.apiVersion` |
+| Type       | `string`                                                               |
+| Required   | ❌                                                                     |
+| Helm `tpl` | ❌                                                                     |
+| Default    | `""`                                                                   |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          env:
+            ENV_NAME:
+              fieldRef:
+                apiVersion: v1
+```
+
+---
+
+## Full Examples
 
 ```yaml
 workload:

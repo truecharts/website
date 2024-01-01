@@ -1,30 +1,223 @@
-# Env From
+---
+title: EnvFrom
+---
 
-Assume every key below has a prefix of `workload.[workload-name].podSpec.containers.[container-name]`.
+:::note
 
-| Key                                   |   Type    | Required | Helm Template | Default | Description                                                          |
-| :------------------------------------ | :-------: | :------: | :-----------: | :-----: | :------------------------------------------------------------------- |
-| envFrom                               |  `list`   |    ❌    |      ❌       |  `{}`   | Define envFrom for the container                                     |
-| envFrom.secretRef                     |   `map`   |    ✅    |      ❌       |  `{}`   | Define the secretRef                                                 |
-| envFrom.secretRef.name                | `string`  |    ✅    |      ✅       |  `""`   | Define the secret name                                               |
-| envFrom.secretRef.expandObjectName    | `boolean` |    ❌    |      ❌       | `true`  | Whether to expand (adding the fullname as prefix) the secret name    |
-| envFrom.configMapRef                  |   `map`   |    ✅    |      ❌       |  `{}`   | Define the configMapRef                                              |
-| envFrom.configMapRef.name             | `string`  |    ✅    |      ✅       |  `""`   | Define the configmap name                                            |
-| envFrom.configMapRef.expandObjectName | `boolean` |    ❌    |      ❌       | `true`  | Whether to expand (adding the fullname as prefix) the configmap name |
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
-> When the `expandObjectName` is `true`, it will also scan the contents of the secret/configmap
-> for duplicate keys between other secrets/configmaps/env/envList/fixedEnv and will throw an error if it finds any.
-> `expandObjectName` should only be set to `false` if you want to consume a secret/configmap created outside of this chart
+:::
+
+## Appears in
+
+- `.Values.workload.$name.podSpec.containers.$name`
+- `.Values.workload.$name.podSpec.initContainers.$name`
 
 ---
 
-Appears in:
+## `envFrom`
 
-- `.Values.workload.[workload-name].podSpec.containers.[container-name].envFrom`
+Define envFrom for the container
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.envFrom` |
+| Type       | `list` of `map`                                   |
+| Required   | ❌                                                |
+| Helm `tpl` | ❌                                                |
+| Default    | `[]`                                              |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          envFrom: []
+```
 
 ---
 
-Examples:
+### `envFrom.secretRef`
+
+Define the secretRef
+
+|            |                                                               |
+| ---------- | ------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.envFrom[].secretRef` |
+| Type       | `map`                                                         |
+| Required   | ❌                                                            |
+| Helm `tpl` | ❌                                                            |
+| Default    | `{}`                                                          |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          envFrom:
+            - secretRef: {}
+```
+
+---
+
+#### `envFrom.secretRef.name`
+
+Define the secret name
+
+:::note
+
+This will be automatically expanded to `fullname-secret-name`.
+You can opt out of this by setting [`expandObjectName`](#envfromsecretrefexpandobjectname) to `false`
+
+:::
+
+|            |                                                                    |
+| ---------- | ------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.envFrom[].secretRef.name` |
+| Type       | `string`                                                           |
+| Required   | ✅                                                                 |
+| Helm `tpl` | ✅                                                                 |
+| Default    | `""`                                                               |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          envFrom:
+            - secretRef:
+                name: secret-name
+```
+
+---
+
+#### `envFrom.secretRef.expandObjectName`
+
+Whether to expand (adding the fullname as prefix) the secret name
+
+|            |                                                                                |
+| ---------- | ------------------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.envFrom[].secretRef.expandObjectName` |
+| Type       | `bool`                                                                         |
+| Required   | ❌                                                                             |
+| Helm `tpl` | ❌                                                                             |
+| Default    | `true`                                                                         |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          envFrom:
+            - secretRef:
+                name: secret-name
+                expandObjectName: false
+```
+
+---
+
+### `envFrom.configMapRef`
+
+Define the configMapRef
+
+|            |                                                                  |
+| ---------- | ---------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.envFrom[].configMapRef` |
+| Type       | `map`                                                            |
+| Required   | ❌                                                               |
+| Helm `tpl` | ❌                                                               |
+| Default    | `{}`                                                             |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          envFrom:
+            - configMapRef: {}
+```
+
+---
+
+#### `envFrom.configMapRef.name`
+
+Define the configmap name
+
+:::note
+
+This will be automatically expanded to `fullname-configmap-name`.
+You can opt out of this by setting [`expandObjectName`](#envfromconfigmaprefexpandobjectname) to `false`
+
+:::
+
+|            |                                                                       |
+| ---------- | --------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.envFrom[].configMapRef.name` |
+| Type       | `string`                                                              |
+| Required   | ✅                                                                    |
+| Helm `tpl` | ✅                                                                    |
+| Default    | `""`                                                                  |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          envFrom:
+            - configMapRef:
+                name: configmap-name
+```
+
+---
+
+#### `envFrom.configMapRef.expandObjectName`
+
+Whether to expand (adding the fullname as prefix) the configmap name
+
+|            |                                                                                   |
+| ---------- | --------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.envFrom[].configMapRef.expandObjectName` |
+| Type       | `bool`                                                                            |
+| Required   | ❌                                                                                |
+| Helm `tpl` | ❌                                                                                |
+| Default    | `true`                                                                            |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          envFrom:
+            - configMapRef:
+                name: configmap-name
+                expandObjectName: false
+```
+
+---
+
+## Full Examples
 
 ```yaml
 workload:

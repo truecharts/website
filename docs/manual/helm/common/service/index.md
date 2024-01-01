@@ -83,7 +83,7 @@ Enables or Disables the service
 | Key        | `service.$name.enabled` |
 | Type       | `bool`                  |
 | Required   | ✅                      |
-| Helm `tpl` | ❌                      |
+| Helm `tpl` | ✅                      |
 | Default    | `false`                 |
 
 Example
@@ -203,7 +203,7 @@ Whether to expand the object name (based on the [naming scheme](#naming-scheme))
 | Key        | `service.$name.expandObjectName` |
 | Type       | `bool`                           |
 | Required   | ❌                               |
-| Helm `tpl` | ❌                               |
+| Helm `tpl` | ✅                               |
 | Default    | `true`                           |
 
 Example

@@ -98,7 +98,7 @@ This does not **guarantee** that the resource will be retained.
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `persistence.$name.retain`                        |
-| Type       | `boolean`                                         |
+| Type       | `bool`                                         |
 | Required   | ❌                                                |
 | Helm `tpl` | ❌                                                |
 | Default    | `{{ .Values.global.fallbackDefaults.pvcRetain }}` |
@@ -480,7 +480,7 @@ Define if the volumeSnapshot is enabled
 |            |                                               |
 | ---------- | --------------------------------------------- |
 | Key        | `persistence.$name.volumeSnapshots[].enabled` |
-| Type       | `boolean`                                     |
+| Type       | `bool`                                     |
 | Required   | ❌                                            |
 | Helm `tpl` | ❌                                            |
 | Default    | `false`                                       |

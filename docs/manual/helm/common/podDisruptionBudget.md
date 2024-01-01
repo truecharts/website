@@ -83,7 +83,7 @@ Enables or Disables the Pod Disruption Budget
 | Key        | `podDisruptionBudget.$name.enabled` |
 | Type       | `bool`                              |
 | Required   | ✅                                  |
-| Helm `tpl` | ❌                                  |
+| Helm `tpl` | ✅                                  |
 | Default    | `false`                             |
 
 Example

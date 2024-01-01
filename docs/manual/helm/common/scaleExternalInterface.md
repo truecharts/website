@@ -3,7 +3,7 @@
 | Key                                                    |   Type    |            Required             | Helm Template | Default | Description                                                                     |
 | :----------------------------------------------------- | :-------: | :-----------------------------: | :-----------: | :-----: | :------------------------------------------------------------------------------ |
 | scaleExternalInterface                                 |  `list`   |               ❌                |      ❌       |  `[]`   | Define the external interfaces as list                                          |
-| scaleExternalInterface.targetSelectAll                 | `boolean` |               ❌                |      ❌       | `false` | Whether to add the annotation for this external interface to all workloads      |
+| scaleExternalInterface.targetSelectAll                 | `bool` |               ❌                |      ❌       | `false` | Whether to add the annotation for this external interface to all workloads      |
 | scaleExternalInterface.targetSelector                  |  `list`   |               ❌                |      ❌       |  `[]`   | Which workloads to add the annotations                                          |
 | scaleExternalInterface.hostInterface                   | `string`  |               ✅                |      ❌       |  `""`   | Define the hostInterface, (options in GUI populated from Middleware references) |
 | scaleExternalInterface.ipam                            |   `map`   |               ✅                |      ❌       |  `{}`   | Define the ipam                                                                 |

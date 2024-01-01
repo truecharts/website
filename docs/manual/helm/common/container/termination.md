@@ -1,22 +1,98 @@
-# Termination
+---
+title: Termination
+---
 
-Assume every key below has a prefix of `workload.[workload-name].podSpec.containers.[container-name]`.
+:::note
 
-| Key                       |   Type   | Required | Helm Template | Default | Description                                         |
-| :------------------------ | :------: | :------: | :-----------: | :-----: | :-------------------------------------------------- |
-| termination               |  `map`   |    ❌    |      ❌       |  `{}`   | Define termination for the container                |
-| termination.messagePath   | `string` |    ❌    |      ✅       |  `""`   | Define termination message path for the container   |
-| termination.messagePolicy | `string` |    ❌    |      ✅       |  `""`   | Define termination message policy for the container |
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+## Appears in
+
+- `.Values.workload.$name.podSpec.containers.$name`
 
 ---
 
-Appears in:
+## `termination`
 
-- `.Values.workload.[workload-name].podSpec.containers.[container-name].termination`
+Define termination for the container
+
+|            |                                                       |
+| ---------- | ----------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.termination` |
+| Type       | `map`                                                 |
+| Required   | ❌                                                    |
+| Helm `tpl` | ❌                                                    |
+| Default    | `{}`                                                  |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          termination: {}
+```
 
 ---
 
-Examples:
+### `termination.messagePath`
+
+Define termination message path for the container
+
+|            |                                                                   |
+| ---------- | ----------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.termination.messagePath` |
+| Type       | `string`                                                          |
+| Required   | ❌                                                                |
+| Helm `tpl` | ✅                                                                |
+| Default    | `""`                                                              |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          termination:
+            messagePath: /dev/termination-log
+```
+
+---
+
+### `termination.messagePolicy`
+
+Define termination message policy for the container
+
+|            |                                                                     |
+| ---------- | ------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.termination.messagePolicy` |
+| Type       | `string`                                                            |
+| Required   | ❌                                                                  |
+| Helm `tpl` | ✅                                                                  |
+| Default    | `""`                                                                |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          termination:
+            messagePolicy: File
+```
+
+---
+
+## Full Examples
 
 ```yaml
 workload:

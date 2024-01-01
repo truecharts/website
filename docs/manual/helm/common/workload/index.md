@@ -76,7 +76,7 @@ Enable or disable workload
 | Key        | `workload.$name.enabled` |
 | Type       | `bool`                   |
 | Required   | ✅                       |
-| Helm `tpl` | ❌                       |
+| Helm `tpl` | ✅                       |
 | Default    | `false`                  |
 
 Example
