@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [lancache-monolithic-7.1.4](https://github.com/truecharts/charts/compare/lancache-monolithic-7.1.3...lancache-monolithic-7.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [lancache-monolithic-7.1.3](https://github.com/truecharts/charts/compare/lancache-monolithic-7.1.0...lancache-monolithic-7.1.3) (2024-01-01)
 
 ### Chore

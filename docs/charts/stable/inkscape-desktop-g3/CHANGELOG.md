@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [inkscape-desktop-g3-4.1.4](https://github.com/truecharts/charts/compare/inkscape-desktop-g3-4.1.3...inkscape-desktop-g3-4.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [inkscape-desktop-g3-4.1.3](https://github.com/truecharts/charts/compare/inkscape-desktop-g3-4.1.0...inkscape-desktop-g3-4.1.3) (2024-01-01)
 
 ### Chore

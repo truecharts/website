@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [cups-server-5.0.11](https://github.com/truecharts/charts/compare/cups-server-5.0.10...cups-server-5.0.11) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [cups-server-5.0.10](https://github.com/truecharts/charts/compare/cups-server-5.0.9...cups-server-5.0.10) (2024-01-01)
 
 ### Chore

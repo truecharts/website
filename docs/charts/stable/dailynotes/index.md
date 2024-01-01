@@ -2,15 +2,15 @@
 title: dailynotes
 ---
 
-![Version: 4.1.3](https://img.shields.io/badge/Version-4.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.4](https://img.shields.io/badge/Version-4.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 App for taking notes and tracking tasks on a daily basis.
 
 
 ## Chart Sources
 
-- https://hub.docker.com/r/m0ngr31/dailynotes
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dailynotes
+- https://hub.docker.com/r/m0ngr31/dailynotes
 
 ## Available Documentation
 

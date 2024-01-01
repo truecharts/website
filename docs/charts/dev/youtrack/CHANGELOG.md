@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [youtrack-3.0.11](https://github.com/truecharts/charts/compare/youtrack-3.0.10...youtrack-3.0.11) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [youtrack-3.0.10](https://github.com/truecharts/charts/compare/youtrack-3.0.9...youtrack-3.0.10) (2024-01-01)
 
 ### Chore

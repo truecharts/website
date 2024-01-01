@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [mongo-express-5.1.6](https://github.com/truecharts/charts/compare/mongo-express-5.1.5...mongo-express-5.1.6) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+
 ## [mongo-express-5.1.5](https://github.com/truecharts/charts/compare/mongo-express-5.1.4...mongo-express-5.1.5) (2024-01-01)
 
 ### Chore

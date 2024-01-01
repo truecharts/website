@@ -2,7 +2,7 @@
 title: heimdall
 ---
 
-![Version: 18.1.3](https://img.shields.io/badge/Version-18.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.5.7](https://img.shields.io/badge/AppVersion-2.5.7-informational?style=flat-square)
+![Version: 18.1.4](https://img.shields.io/badge/Version-18.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.5.7](https://img.shields.io/badge/AppVersion-2.5.7-informational?style=flat-square)
 
 An Application dashboard and launcher
 

@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [s3sync-4.1.4](https://github.com/truecharts/charts/compare/s3sync-4.1.3...s3sync-4.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [s3sync-4.1.3](https://github.com/truecharts/charts/compare/s3sync-4.1.0...s3sync-4.1.3) (2024-01-01)
 
 ### Chore

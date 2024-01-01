@@ -2,7 +2,7 @@
 title: unifi
 ---
 
-![Version: 19.1.3](https://img.shields.io/badge/Version-19.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.24](https://img.shields.io/badge/AppVersion-8.0.24-informational?style=flat-square)
+![Version: 19.1.4](https://img.shields.io/badge/Version-19.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.24](https://img.shields.io/badge/AppVersion-8.0.24-informational?style=flat-square)
 
 Ubiquiti Network's Unifi Controller
 

@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [audacity-11.1.4](https://github.com/truecharts/charts/compare/audacity-11.1.3...audacity-11.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [audacity-11.1.3](https://github.com/truecharts/charts/compare/audacity-11.1.0...audacity-11.1.3) (2024-01-01)
 
 ### Chore

@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [ddns-go-8.1.4](https://github.com/truecharts/charts/compare/ddns-go-8.1.3...ddns-go-8.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [ddns-go-8.1.3](https://github.com/truecharts/charts/compare/ddns-go-8.1.0...ddns-go-8.1.3) (2024-01-01)
 
 ### Chore

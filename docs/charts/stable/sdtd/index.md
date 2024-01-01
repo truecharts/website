@@ -2,7 +2,7 @@
 title: sdtd
 ---
 
-![Version: 6.1.3](https://img.shields.io/badge/Version-6.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7dtd](https://img.shields.io/badge/AppVersion-7dtd-informational?style=flat-square)
+![Version: 6.1.4](https://img.shields.io/badge/Version-6.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7dtd](https://img.shields.io/badge/AppVersion-7dtd-informational?style=flat-square)
 
 This chart will download and install SteamCMD. It will also install 7 Days to Die and run it.
 

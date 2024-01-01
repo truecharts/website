@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nitter-5.1.5](https://github.com/truecharts/charts/compare/nitter-5.1.4...nitter-5.1.5) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+
 ## [nitter-5.1.4](https://github.com/truecharts/charts/compare/nitter-5.1.3...nitter-5.1.4) (2024-01-01)
 
 ### Chore

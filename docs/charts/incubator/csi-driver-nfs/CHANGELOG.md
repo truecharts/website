@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [csi-driver-nfs-1.0.12](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.11...csi-driver-nfs-1.0.12) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+
 ## [csi-driver-nfs-1.0.11](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.10...csi-driver-nfs-1.0.11) (2024-01-01)
 
 ### Chore

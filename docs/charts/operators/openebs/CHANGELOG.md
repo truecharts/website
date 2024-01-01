@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [openebs-2.1.5](https://github.com/truecharts/charts/compare/openebs-2.1.4...openebs-2.1.5) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+
 ## [openebs-2.1.4](https://github.com/truecharts/charts/compare/openebs-2.1.3...openebs-2.1.4) (2024-01-01)
 
 ### Chore

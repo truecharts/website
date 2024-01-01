@@ -2,7 +2,7 @@
 title: traefik
 ---
 
-![Version: 25.1.3](https://img.shields.io/badge/Version-25.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.10.5](https://img.shields.io/badge/AppVersion-2.10.5-informational?style=flat-square)
+![Version: 25.1.4](https://img.shields.io/badge/Version-25.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.10.5](https://img.shields.io/badge/AppVersion-2.10.5-informational?style=flat-square)
 
 Traefik is a flexible reverse proxy and Ingress Provider.
 

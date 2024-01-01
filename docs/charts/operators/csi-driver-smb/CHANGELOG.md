@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [csi-driver-smb-2.1.5](https://github.com/truecharts/charts/compare/csi-driver-smb-2.1.4...csi-driver-smb-2.1.5) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+
 ## [csi-driver-smb-2.1.4](https://github.com/truecharts/charts/compare/csi-driver-smb-2.1.3...csi-driver-smb-2.1.4) (2024-01-01)
 
 ### Chore

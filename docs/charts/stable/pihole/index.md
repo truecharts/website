@@ -2,17 +2,17 @@
 title: pihole
 ---
 
-![Version: 13.1.3](https://img.shields.io/badge/Version-13.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.0](https://img.shields.io/badge/AppVersion-2023.11.0-informational?style=flat-square)
+![Version: 13.1.4](https://img.shields.io/badge/Version-13.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.0](https://img.shields.io/badge/AppVersion-2023.11.0-informational?style=flat-square)
 
 DNS and Ad-filtering for your network
 
 ## Chart Sources
 
-- https://pi-hole.net/
 - https://github.com/pi-hole
+- https://github.com/pi-hole/docker-pi-hole
 - https://github.com/truecharts/charts/tree/master/charts/stable/pihole
 - https://hub.docker.com/r/pihole/pihole
-- https://github.com/pi-hole/docker-pi-hole
+- https://pi-hole.net/
 
 ## Available Documentation
 

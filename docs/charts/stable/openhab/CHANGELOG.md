@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [openhab-8.1.4](https://github.com/truecharts/charts/compare/openhab-8.1.3...openhab-8.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [openhab-8.1.3](https://github.com/truecharts/charts/compare/openhab-8.1.0...openhab-8.1.3) (2024-01-01)
 
 ### Chore

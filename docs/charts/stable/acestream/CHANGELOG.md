@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [acestream-5.1.4](https://github.com/truecharts/charts/compare/acestream-5.1.3...acestream-5.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [acestream-5.1.3](https://github.com/truecharts/charts/compare/acestream-5.1.0...acestream-5.1.3) (2024-01-01)
 
 ### Chore

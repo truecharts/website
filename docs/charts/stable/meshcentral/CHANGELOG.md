@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [meshcentral-14.1.4](https://github.com/truecharts/charts/compare/meshcentral-14.1.3...meshcentral-14.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- increase common version for oci fixes
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+
 ## [meshcentral-14.1.3](https://github.com/truecharts/charts/compare/meshcentral-14.1.0...meshcentral-14.1.3) (2024-01-01)
 
 ### Chore
