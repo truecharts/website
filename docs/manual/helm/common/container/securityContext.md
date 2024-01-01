@@ -1,36 +1,392 @@
-# Security Context
+---
+title: Security Context
+---
 
-Assume every key below has a prefix of `workload.[workload-name].podSpec.containers.[container-name]`.
+:::note
 
-| Key                                      |   Type    |            Required            | Helm Template |                              Default                               | Description                                                                              |
-| :--------------------------------------- | :-------: | :----------------------------: | :-----------: | :----------------------------------------------------------------: | :--------------------------------------------------------------------------------------- |
-| securityContext                          |   `map`   |               ✅               |      ❌       |             `{{ .Values.securityContext.container }}`              | Define securityContext for the container                                                 |
-| securityContext.runAsUser                |   `int`   |               ✅               |      ❌       |        `{{ .Values.securityContext.container.runAsUser }}`         | Define the runAsUser for the container                                                   |
-| securityContext.runAsGroup               |   `int`   |               ✅               |      ❌       |        `{{ .Values.securityContext.container.runAsGroup }}`        | Define the runAsGroup for the container                                                  |
-| securityContext.readOnlyRootFilesystem   | `boolean` |               ✅               |      ❌       |  `{{ .Values.securityContext.container.readOnlyRootFilesystem }}`  | Define the readOnlyRootFilesystem for the container                                      |
-| securityContext.allowPrivilegeEscalation | `boolean` |               ✅               |      ❌       | `{{ .Values.securityContext.container.allowPrivilegeEscalation }}` | Define the allowPrivilegeEscalation for the container                                    |
-| securityContext.privileged               | `boolean` |               ✅               |      ❌       |        `{{ .Values.securityContext.container.privileged }}`        | Define the privileged for the container                                                  |
-| securityContext.runAsNonRoot             | `boolean` |               ✅               |      ❌       |       `{{ .Values.securityContext.container.runAsNonRoot }}`       | Define the runAsNonRoot for the container                                                |
-| securityContext.capabilities             |   `map`   |               ✅               |      ❌       |       `{{ .Values.securityContext.container.capabilities }}`       | Define the capabilities for the container                                                |
-| securityContext.capabilities.add         |  `list`   |               ✅               |      ❌       |     `{{ .Values.securityContext.container.capabilities.add }}`     | Define the capabilities.add for the container                                            |
-| securityContext.capabilities.drop        |  `list`   |               ✅               |      ❌       |    `{{ .Values.securityContext.container.capabilities.drop }}`     | Define the capabilities.drop for the container                                           |
-| securityContext.seccompProfile           |   `map`   |               ✅               |      ❌       |      `{{ .Values.securityContext.container.seccompProfile }}`      | Define the seccompProfile for the container                                              |
-| securityContext.seccompProfile.type      | `string`  |               ✅               |      ❌       |   `{{ .Values.securityContext.container.seccompProfile.type }}`    | Define the seccompProfile.type for the container (RuntimeDefault, Localhost, Unconfined) |
-| securityContext.seccompProfile.profile   | `string`  | ✅ (Only when Localhost type ) |      ❌       |  `{{ .Values.securityContext.container.seccompProfile.profile }}`  | Define the seccompProfile.profile for the container (Only when type is Localhost)        |
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
-> Each value that is not defined in the `securityContext` under the container level, it will get replaced with the value defined `.Values.securityContext.container`.
-> If a capability is defined in either `add` or `drop` on container level, it will **NOT** get merged
-> with the value(s) from the `.Values.securityContext.container.capabilities.[add/drop]`. But it will override them.
+:::
+
+## Appears in
+
+- `.Values.workload.$name.podSpec.containers.$name`
+- `.Values.workload.$name.podSpec.initContainers.$name`
 
 ---
 
-Appears in:
+## `securityContext`
 
-- `.Values.workload.[workload-name].podSpec.containers.[container-name].securityContext`
+Define securityContext for the container
+
+|            |                                                           |
+| ---------- | --------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext` |
+| Type       | `map`                                                     |
+| Required   | ✅                                                        |
+| Helm `tpl` | ❌                                                        |
+| Default    | `{{ .Values.securityContext.container }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext: {}
+```
 
 ---
 
-Examples:
+### `securityContext.runAsUser`
+
+Define the runAsUser for the container
+
+|            |                                                                     |
+| ---------- | ------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsUser` |
+| Type       | `int`                                                               |
+| Required   | ✅                                                                  |
+| Helm `tpl` | ❌                                                                  |
+| Default    | `{{ .Values.securityContext.container.runAsUser }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            runAsUser: 568
+```
+
+---
+
+### `securityContext.runAsGroup`
+
+Define the runAsGroup for the container
+
+|            |                                                                      |
+| ---------- | -------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsGroup` |
+| Type       | `int`                                                                |
+| Required   | ✅                                                                   |
+| Helm `tpl` | ❌                                                                   |
+| Default    | `{{ .Values.securityContext.container.runAsGroup }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            runAsGroup: 568
+```
+
+---
+
+### `securityContext.readOnlyRootFilesystem`
+
+Define the readOnlyRootFilesystem for the container
+
+|            |                                                                                  |
+| ---------- | -------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.readOnlyRootFilesystem` |
+| Type       | `bool`                                                                           |
+| Required   | ✅                                                                               |
+| Helm `tpl` | ❌                                                                               |
+| Default    | `{{ .Values.securityContext.container.readOnlyRootFilesystem }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            readOnlyRootFilesystem: true
+```
+
+---
+
+### `securityContext.allowPrivilegeEscalation`
+
+Define the allowPrivilegeEscalation for the container
+
+|            |                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.allowPrivilegeEscalation` |
+| Type       | `bool`                                                                             |
+| Required   | ✅                                                                                 |
+| Helm `tpl` | ❌                                                                                 |
+| Default    | `{{ .Values.securityContext.container.allowPrivilegeEscalation }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            allowPrivilegeEscalation: false
+```
+
+---
+
+### `securityContext.privileged`
+
+Define the privileged for the container
+
+|            |                                                                      |
+| ---------- | -------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.privileged` |
+| Type       | `bool`                                                               |
+| Required   | ✅                                                                   |
+| Helm `tpl` | ❌                                                                   |
+| Default    | `{{ .Values.securityContext.container.privileged }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            privileged: false
+```
+
+---
+
+### `securityContext.runAsNonRoot`
+
+Define the runAsNonRoot for the container
+
+|            |                                                                        |
+| ---------- | ---------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsNonRoot` |
+| Type       | `bool`                                                                 |
+| Required   | ✅                                                                     |
+| Helm `tpl` | ❌                                                                     |
+| Default    | `{{ .Values.securityContext.container.runAsNonRoot }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            runAsNonRoot: true
+```
+
+---
+
+### `securityContext.capabilities`
+
+Define the capabilities for the container
+
+:::note
+
+If at least one capability is defined in either [`add`](#securitycontextcapabilitiesadd) or [`drop`](#securitycontextcapabilitiesdrop)
+on container level, it will **NOT** get merged with the value(s) from the `.Values.securityContext.container.capabilities.[add/drop]`.
+But it will override them.
+
+:::
+
+:::tip
+
+When setting capabilities for containers, remember to **NOT** include `CAP_` prefix.
+For example, `CAP_NET_ADMIN` should be `NET_ADMIN`. This is not specific to this chart,
+but a general Kubernetes thing.
+
+:::
+
+|            |                                                                        |
+| ---------- | ---------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities` |
+| Type       | `map`                                                                  |
+| Required   | ✅                                                                     |
+| Helm `tpl` | ❌                                                                     |
+| Default    | `{{ .Values.securityContext.container.capabilities }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            capabilities: {}
+```
+
+---
+
+#### `securityContext.capabilities.add`
+
+Define the capabilities.add for the container
+
+|            |                                                                            |
+| ---------- | -------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities.add` |
+| Type       | `list` of `string`                                                         |
+| Required   | ✅                                                                         |
+| Helm `tpl` | ❌                                                                         |
+| Default    | `{{ .Values.securityContext.container.capabilities.add }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            capabilities:
+              add: []
+```
+
+---
+
+#### `securityContext.capabilities.drop`
+
+Define the capabilities.drop for the container
+
+|            |                                                                             |
+| ---------- | --------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities.drop` |
+| Type       | `list` of `string`                                                          |
+| Required   | ✅                                                                          |
+| Helm `tpl` | ❌                                                                          |
+| Default    | `{{ .Values.securityContext.container.capabilities.drop }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            capabilities:
+              drop: []
+```
+
+---
+
+### `securityContext.seccompProfile`
+
+Define the seccompProfile for the container
+
+|            |                                                                          |
+| ---------- | ------------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile` |
+| Type       | `map`                                                                    |
+| Required   | ✅                                                                       |
+| Helm `tpl` | ❌                                                                       |
+| Default    | `{{ .Values.securityContext.container.seccompProfile }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            seccompProfile: {}
+```
+
+---
+
+#### `securityContext.seccompProfile.type`
+
+Define the seccompProfile.type for the container
+
+|            |                                                                               |
+| ---------- | ----------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile.type` |
+| Type       | `string`                                                                      |
+| Required   | ✅                                                                            |
+| Helm `tpl` | ❌                                                                            |
+| Default    | `{{ .Values.securityContext.container.seccompProfile.type }}`                 |
+
+Valid Values:
+
+- `RuntimeDefault`
+- `Localhost`
+- `Unconfined`
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            seccompProfile:
+              type: Localhost
+```
+
+---
+
+#### `securityContext.seccompProfile.profile`
+
+Define the seccompProfile.profile for the container
+
+:::note
+
+Only **required** when `securityContext.seccompProfile.type` is `Localhost`.
+
+:::
+
+|            |                                                                                  |
+| ---------- | -------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile.profile` |
+| Type       | `string`                                                                         |
+| Required   | ✅                                                                               |
+| Helm `tpl` | ❌                                                                               |
+| Default    | `{{ .Values.securityContext.container.seccompProfile.profile }}`                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          securityContext:
+            seccompProfile:
+              type: Localhost
+              profile: path/to/profile.json
+```
+
+---
+
+## Full Examples
 
 ```yaml
 workload:
@@ -57,10 +413,3 @@ workload:
               drop:
                 - ALL
 ```
-
----
-
-Notes:
-
-When setting capabilities for containers, remember to **NOT** include `CAP_` prefix.
-For example, `CAP_NET_ADMIN` should be `NET_ADMIN`.

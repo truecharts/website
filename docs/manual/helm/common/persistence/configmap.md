@@ -51,7 +51,7 @@ Whether to expand (adding the fullname as prefix) the configmap name.
 |            |                                      |
 | ---------- | ------------------------------------ |
 | Key        | `persistence.$name.expandObjectName` |
-| Type       | `boolean`                            |
+| Type       | `bool`                            |
 | Required   | ❌                                   |
 | Helm `tpl` | ✅                                   |
 | Default    | `true`                               |
@@ -73,7 +73,7 @@ Whether the configmap should be required or not.
 |            |                              |
 | ---------- | ---------------------------- |
 | Key        | `persistence.$name.optional` |
-| Type       | `boolean`                    |
+| Type       | `bool`                    |
 | Required   | ❌                           |
 | Helm `tpl` | ❌                           |
 | Default    | `false`                      |

@@ -123,7 +123,7 @@ Enable or disable the probe
 |            |                                                                 |
 | ---------- | --------------------------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.probes.$probe.enabled` |
-| Type       | `boolean`                                                       |
+| Type       | `bool`                                                       |
 | Required   | ✅                                                              |
 | Helm `tpl` | ❌                                                              |
 | Default    | `true`                                                          |

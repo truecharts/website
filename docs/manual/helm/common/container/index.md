@@ -36,7 +36,7 @@ Define if the container is enabled or not
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.enabled` |
-| Type       | `boolean`                                         |
+| Type       | `bool`                                         |
 | Required   | ✅                                                |
 | Helm `tpl` | ✅                                                |
 | Default    | `false`                                           |
@@ -130,7 +130,7 @@ Does **not** apply to `initContainers`
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.primary` |
-| Type       | `boolean`                                         |
+| Type       | `bool`                                         |
 | Required   | ✅                                                |
 | Helm `tpl` | ❌                                                |
 | Default    | `false`                                           |
@@ -155,7 +155,7 @@ Define if the container should have stdin enabled or not
 |            |                                                 |
 | ---------- | ----------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.stdin` |
-| Type       | `boolean`                                       |
+| Type       | `bool`                                       |
 | Required   | ❌                                              |
 | Helm `tpl` | ❌                                              |
 | Default    | `false`                                         |
@@ -180,7 +180,7 @@ Define if the container should have tty enabled or not
 |            |                                               |
 | ---------- | --------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.tty` |
-| Type       | `boolean`                                     |
+| Type       | `bool`                                     |
 | Required   | ❌                                            |
 | Helm `tpl` | ❌                                            |
 | Default    | `false`                                       |

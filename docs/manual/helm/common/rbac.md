@@ -28,7 +28,7 @@ title: RBAC
 
 ## Target Selector
 
-- `allServiceAccounts` (boolean): Whether to assign all service accounts or not to the (Cluster)RoleBinding
+- `allServiceAccounts` (bool): Whether to assign all service accounts or not to the (Cluster)RoleBinding
 - `serviceAccounts` (list): Define the service account(s) to assign the (Cluster)RoleBinding
 - `serviceAccounts` (empty): Assign the primary service account to the primary rbac
 
