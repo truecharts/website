@@ -1,19 +1,19 @@
-# gaps
+---
+title: gaps
+---
 
-![Version: 17.1.0](https://img.shields.io/badge/Version-17.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.10.4](https://img.shields.io/badge/AppVersion-0.10.4-informational?style=flat-square)
+![Version: 17.1.2](https://img.shields.io/badge/Version-17.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.10.4](https://img.shields.io/badge/AppVersion-0.10.4-informational?style=flat-square)
 
 Gaps searches through your Plex Server or local folders for all movies, then queries for known movies in the same collection.
 
 ## Chart Sources
 
+- https://github.com/JasonHHouse/gaps
 - https://github.com/truecharts/charts/tree/master/charts/stable/gaps
 - https://hub.docker.com/r/housewrecker/gaps
-- https://github.com/JasonHHouse/gaps
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

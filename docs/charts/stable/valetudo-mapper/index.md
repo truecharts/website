@@ -1,6 +1,8 @@
-# valetudo-mapper
+---
+title: valetudo-mapper
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Valetudo-RE companion service for generating PNG maps.
 
@@ -12,8 +14,6 @@ Valetudo-RE companion service for generating PNG maps.
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

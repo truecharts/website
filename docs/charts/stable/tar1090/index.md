@@ -2,7 +2,7 @@
 title: tar1090
 ---
 
-![Version: 4.1.1](https://img.shields.io/badge/Version-4.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.3](https://img.shields.io/badge/Version-4.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Multi-arch tar1090 Chart for visualising ADSB data.
 
@@ -13,6 +13,6 @@ Multi-arch tar1090 Chart for visualising ADSB data.
 
 ## Available Documentation
 
-- [**Container Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

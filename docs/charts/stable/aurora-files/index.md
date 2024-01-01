@@ -1,6 +1,8 @@
-# aurora-files
+---
+title: aurora-files
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Aurora Files is an open-source file storage platform for small teams and personal users. Afterlogic Aurora Files image for Chart using Nginx, PHP-FPM 8.1, MySQL on Alpine Linux. Loosely based on khromov/alpine-nginx-php8 package.
 
@@ -12,8 +14,6 @@ Aurora Files is an open-source file storage platform for small teams and persona
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

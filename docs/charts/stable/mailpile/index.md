@@ -1,6 +1,8 @@
-# mailpile
+---
+title: mailpile
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Mailpile is software, an e-mail client. It runs on your desktop or laptop computer and you interact with it by using your web browser. The goal of Mailpile is to allow people to send e-mail in a more secure and private manner than before.
 
@@ -12,8 +14,6 @@ Mailpile is software, an e-mail client. It runs on your desktop or laptop comput
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

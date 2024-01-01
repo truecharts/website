@@ -1,6 +1,8 @@
-# wifi-card
+---
+title: wifi-card
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Print a neat little card with your WiFi info and stick it on the fridge.
 
@@ -12,8 +14,6 @@ Print a neat little card with your WiFi info and stick it on the fridge.
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

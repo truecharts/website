@@ -2,7 +2,7 @@
 title: piwigo
 ---
 
-![Version: 11.2.0](https://img.shields.io/badge/Version-11.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 14.1.0](https://img.shields.io/badge/AppVersion-14.1.0-informational?style=flat-square)
+![Version: 11.2.2](https://img.shields.io/badge/Version-11.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 14.1.0](https://img.shields.io/badge/AppVersion-14.1.0-informational?style=flat-square)
 
 A photo gallery software for the web.
 
@@ -14,8 +14,7 @@ A photo gallery software for the web.
 
 ## Available Documentation
 
-- [**Container Security**](container-security)
-
-- [**Helm Security**](helm-security)
-
-- [**Installation Notes**](installation_notes)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)
+- [**Installation Notes**](./installation_notes.md)

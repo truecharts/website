@@ -1,6 +1,8 @@
-# clusterissuer
+---
+title: clusterissuer
+---
 
-![Version: 6.1.0](https://img.shields.io/badge/Version-6.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.1.2](https://img.shields.io/badge/Version-6.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Certificate management for Kubernetes
 
@@ -12,14 +14,9 @@ Certificate management for Kubernetes
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Cluster Certificates Setup Guide**](cluster-certificates)
-
-- [**Container Security**](container-security)
-
-- [**Helm Security**](helm-security)
-
-- [**clusterissuer Setup Guide**](how-to)
-
-- [**Input Validation**](validation)
+- [**Changelog**](./CHANGELOG.md)
+- [**Cluster Certificates Setup Guide**](./cluster-certificates.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)
+- [**clusterissuer Setup Guide**](./how-to.md)
+- [**Input Validation**](./validation.md)

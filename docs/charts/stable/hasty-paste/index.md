@@ -1,20 +1,20 @@
-# hasty-paste
+---
+title: hasty-paste
+---
 
-![Version: 5.1.0](https://img.shields.io/badge/Version-5.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.0](https://img.shields.io/badge/AppVersion-1.9.0-informational?style=flat-square)
+![Version: 5.1.2](https://img.shields.io/badge/Version-5.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.0](https://img.shields.io/badge/AppVersion-1.9.0-informational?style=flat-square)
 
 A fast and minimal paste bin, written in Python using Quart.
 
 ## Chart Sources
 
-- https://github.com/enchant97/hasty-paste/blob/main/docs/install.md
 - https://github.com/enchant97/hasty-paste
+- https://github.com/enchant97/hasty-paste/blob/main/docs/install.md
 - https://github.com/truecharts/charts/tree/master/charts/incubator/hasty-paste
 - https://ghcr.io/enchant97/hasty-paste
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

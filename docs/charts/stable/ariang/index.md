@@ -1,21 +1,20 @@
-# ariang
+---
+title: ariang
+---
 
-![Version: 7.1.0](https://img.shields.io/badge/Version-7.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.6](https://img.shields.io/badge/AppVersion-1.3.6-informational?style=flat-square)
+![Version: 7.1.2](https://img.shields.io/badge/Version-7.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.3.6](https://img.shields.io/badge/AppVersion-1.3.6-informational?style=flat-square)
 
 A modern web frontend making aria2 easier to use | Aria2 WebUI.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/leonismoe/ariang
 - https://github.com/leonismoe/docker-images
 - https://github.com/truecharts/charts/tree/master/charts/stable/ariang
+- https://hub.docker.com/r/leonismoe/ariang
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
-
-- [**How To**](how-to)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)
+- [**How To**](./how-to.md)

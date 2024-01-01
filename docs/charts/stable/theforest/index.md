@@ -1,6 +1,8 @@
-# theforest
+---
+title: theforest
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: theforest](https://img.shields.io/badge/AppVersion-theforest-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: theforest](https://img.shields.io/badge/AppVersion-theforest-informational?style=flat-square)
 
 This Docker will download and install SteamCMD. It will also install The Forest and run it. SERVERNAME: 'The Forest Docker' SERVERPASSWORD: 'Chart' ADMINPASSWORD: 'adminChart' (you can change this in your SERVERFOLDER/config/config.cfg)
 
@@ -12,8 +14,6 @@ This Docker will download and install SteamCMD. It will also install The Forest 
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

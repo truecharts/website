@@ -1,6 +1,8 @@
-# pidgin
+---
+title: pidgin
+---
 
-![Version: 6.0.9](https://img.shields.io/badge/Version-6.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.14.12](https://img.shields.io/badge/AppVersion-2.14.12-informational?style=flat-square)
+![Version: 6.0.10](https://img.shields.io/badge/Version-6.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.14.12](https://img.shields.io/badge/AppVersion-2.14.12-informational?style=flat-square)
 
 Pidgin is a chat program which lets you log into accounts on multiple chat networks simultaneously.
 
@@ -11,8 +13,6 @@ Pidgin is a chat program which lets you log into accounts on multiple chat netwo
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

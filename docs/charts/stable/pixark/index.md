@@ -1,6 +1,8 @@
-# pixark
+---
+title: pixark
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: pixark](https://img.shields.io/badge/AppVersion-pixark-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: pixark](https://img.shields.io/badge/AppVersion-pixark-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install PIXARK and run it (a normal server startup of PIXARK can take a long time!).
 
@@ -12,8 +14,6 @@ This Chart will download and install SteamCMD. It will also install PIXARK and r
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

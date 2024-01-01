@@ -2,7 +2,7 @@
 title: rdesktop
 ---
 
-![Version: 7.1.6](https://img.shields.io/badge/Version-7.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 7.1.8](https://img.shields.io/badge/Version-7.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.
 
@@ -15,8 +15,7 @@ Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and 
 
 ## Available Documentation
 
-- [**Container Security**](container-security)
-
-- [**Default credentials**](credentials)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Default credentials**](./credentials.md)
+- [**Helm Security**](./helm-security.md)

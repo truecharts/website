@@ -1,6 +1,8 @@
-# speedtest-tracker
+---
+title: speedtest-tracker
+---
 
-![Version: 4.0.25](https://img.shields.io/badge/Version-4.0.25-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.0.26](https://img.shields.io/badge/Version-4.0.26-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 
@@ -12,10 +14,7 @@ A self-hosted internet performance tracking application that runs speedtest chec
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Default Credentials**](credentials)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Default Credentials**](./credentials.md)
+- [**Helm Security**](./helm-security.md)

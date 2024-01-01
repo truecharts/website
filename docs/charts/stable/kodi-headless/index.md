@@ -1,6 +1,8 @@
-# kodi-headless
+---
+title: kodi-headless
+---
 
-![Version: 8.1.0](https://img.shields.io/badge/Version-8.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "190"](https://img.shields.io/badge/AppVersion-"190"-informational?style=flat-square)
+![Version: 8.1.2](https://img.shields.io/badge/Version-8.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "190"](https://img.shields.io/badge/AppVersion-"190"-informational?style=flat-square)
 
 A headless install of kodi in a docker container.
 
@@ -11,10 +13,7 @@ A headless install of kodi in a docker container.
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Default credentials**](credentials)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Default credentials**](./credentials.md)
+- [**Helm Security**](./helm-security.md)

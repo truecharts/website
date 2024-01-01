@@ -1,20 +1,20 @@
-# quiz-game
+---
+title: quiz-game
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Test your General Knowledge in different types of topics.
 
 ## Chart Sources
 
-- https://registry.hub.docker.com/r/patrickstigler/quiz-game
 - https://github.com/ASKJR/quiz-game
+- https://registry.hub.docker.com/r/patrickstigler/quiz-game
 - https://github.com/truecharts/charts/tree/master/charts/incubator/quiz-game
 - https://hub.docker.com/r/patrickstigler/quiz-game
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

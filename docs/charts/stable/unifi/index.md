@@ -1,6 +1,8 @@
-# unifi
+---
+title: unifi
+---
 
-![Version: 19.1.0](https://img.shields.io/badge/Version-19.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.24](https://img.shields.io/badge/AppVersion-8.0.24-informational?style=flat-square)
+![Version: 19.1.2](https://img.shields.io/badge/Version-19.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.24](https://img.shields.io/badge/AppVersion-8.0.24-informational?style=flat-square)
 
 Ubiquiti Network's Unifi Controller
 
@@ -13,10 +15,7 @@ Ubiquiti Network's Unifi Controller
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
-
-- [**How-To**](how-to)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)
+- [**How-To**](./how-to.md)

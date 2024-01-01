@@ -1,20 +1,20 @@
-# filezilla
+---
+title: filezilla
+---
 
-![Version: 10.1.0](https://img.shields.io/badge/Version-10.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.59.0](https://img.shields.io/badge/AppVersion-3.59.0-informational?style=flat-square)
+![Version: 10.1.2](https://img.shields.io/badge/Version-10.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.59.0](https://img.shields.io/badge/AppVersion-3.59.0-informational?style=flat-square)
 
 A Helm chart for Kubernetes
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/filezilla
-- https://github.com/truecharts/containers/tree/master/mirrorfilezilla
 - https://github.com/linuxserver/docker-filezilla
 - https://filezilla-project.org/
+- https://github.com/truecharts/charts/tree/master/charts/incubator/filezilla
+- https://github.com/truecharts/containers/tree/master/mirrorfilezilla
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

@@ -1,6 +1,8 @@
-# tdarr
+---
+title: tdarr
+---
 
-![Version: 8.1.0](https://img.shields.io/badge/Version-8.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.17.01](https://img.shields.io/badge/AppVersion-2.17.01-informational?style=flat-square)
+![Version: 8.1.2](https://img.shields.io/badge/Version-8.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.17.01](https://img.shields.io/badge/AppVersion-2.17.01-informational?style=flat-square)
 
 Audio/Video library transcoding automation
 
@@ -12,8 +14,6 @@ Audio/Video library transcoding automation
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

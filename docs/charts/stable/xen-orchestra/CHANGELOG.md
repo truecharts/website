@@ -2,6 +2,21 @@
 title: Changelog
 ---
 
+
+
+## [xen-orchestra-7.2.2](https://github.com/truecharts/charts/compare/xen-orchestra-7.2.0...xen-orchestra-7.2.2) (2024-01-01)
+
+### Chore
+
+
+
+- bump all charts for OCI test push
+
+- move everything to consume OCI-hosted common-chart dependency
+
+- update container image common to v17.2.18[@085ba3c](https://github.com/085ba3c) by renovate ([#16732](https://github.com/truecharts/charts/issues/16732))
+
+- standardize ./img references ([#16704](https://github.com/truecharts/charts/issues/16704))
 ## [xen-orchestra-7.2.0](https://github.com/truecharts/charts/compare/xen-orchestra-7.1.0...xen-orchestra-7.2.0) (2023-12-31)
 
 ### Chore

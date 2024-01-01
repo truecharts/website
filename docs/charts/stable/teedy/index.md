@@ -1,6 +1,8 @@
-# teedy
+---
+title: teedy
+---
 
-![Version: 14.1.0](https://img.shields.io/badge/Version-14.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.11"](https://img.shields.io/badge/AppVersion-"1.11"-informational?style=flat-square)
+![Version: 14.1.2](https://img.shields.io/badge/Version-14.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "1.11"](https://img.shields.io/badge/AppVersion-"1.11"-informational?style=flat-square)
 
 Teedy is an open source, lightweight document management system for individuals and businesses.
 
@@ -12,8 +14,6 @@ Teedy is an open source, lightweight document management system for individuals 
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

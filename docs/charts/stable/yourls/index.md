@@ -2,17 +2,17 @@
 title: yourls
 ---
 
-![Version: 4.1.1](https://img.shields.io/badge/Version-4.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.3](https://img.shields.io/badge/Version-4.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener.
 
 ## Chart Sources
 
-- https://hub.docker.com/_/yourls
 - https://github.com/truecharts/charts/tree/master/charts/incubator/yourls
+- https://hub.docker.com/_/yourls
 
 ## Available Documentation
 
-- [**Container Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

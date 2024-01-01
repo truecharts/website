@@ -1,19 +1,19 @@
-# unmanic
+---
+title: unmanic
+---
 
-![Version: 9.1.0](https://img.shields.io/badge/Version-9.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.2.4](https://img.shields.io/badge/AppVersion-0.2.4-informational?style=flat-square)
+![Version: 9.1.2](https://img.shields.io/badge/Version-9.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.2.4](https://img.shields.io/badge/AppVersion-0.2.4-informational?style=flat-square)
 
 Unmanic is a simple tool for optimising your file library.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/josh5/unmanic
 - https://github.com/Unmanic/unmanic
 - https://github.com/truecharts/charts/tree/master/charts/stable/unmanic
+- https://hub.docker.com/r/josh5/unmanic
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

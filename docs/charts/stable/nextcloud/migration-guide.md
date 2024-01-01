@@ -22,14 +22,17 @@ If you have not already done so install PGAdmin and the [tcdbinfo.sh script](htt
 
 1. Run the tcdbinfo.sh script and take note of the connection info
 
-```bash
-bash tcdbinfo.sh
-```
+   ```bash
+   bash tcdbinfo.sh
+   ```
 
-![tcdbinfo-output](./img/tcdbinfo-output.png) 2. Add Nextcloud to PGAdmin using the connection info from previous step.
-![pgadmin-connection1](./img/pgadmin-connection1.png)
-![pgadmin-connection2](./img/pgadmin-connection2.png) 3. Backup Nextcloud database.
-![pgadmin-backup](./img/pgadmin-backup.png)
+   ![tcdbinfo-output](./img/tcdbinfo-output.png)
+
+2. Add Nextcloud to PGAdmin using the connection info from previous step.
+   ![pgadmin-connection1](./img/pgadmin-connection1.png)
+   ![pgadmin-connection2](./img/pgadmin-connection2.png)
+3. Backup Nextcloud database.
+   ![pgadmin-backup](./img/pgadmin-backup.png)
 
 ## Delete Nextcloud
 

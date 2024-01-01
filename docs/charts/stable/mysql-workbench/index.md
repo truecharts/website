@@ -2,7 +2,7 @@
 title: mysql-workbench
 ---
 
-![Version: 8.1.1](https://img.shields.io/badge/Version-8.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.34](https://img.shields.io/badge/AppVersion-8.0.34-informational?style=flat-square)
+![Version: 8.1.3](https://img.shields.io/badge/Version-8.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.34](https://img.shields.io/badge/AppVersion-8.0.34-informational?style=flat-square)
 
 MySQL Workbench is a unified visual tool for database architects, developers and DBAs.
 
@@ -13,6 +13,6 @@ MySQL Workbench is a unified visual tool for database architects, developers and
 
 ## Available Documentation
 
-- [**Container Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

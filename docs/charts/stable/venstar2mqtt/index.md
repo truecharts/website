@@ -1,8 +1,10 @@
-# venstar2mqtt
+---
+title: venstar2mqtt
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
-Simple Chart that allows MQTT to be used to view data and push settings to the Venstar Local API Thermostats. Local API needs to be enabled on the thermostat. No Web UI or appdata folder necessary.
+Simple Chart that allows MQTT to be used to view data and push settings to the Venstar Local API Thermostats.  Local API needs to be enabled on the thermostat.  No Web UI or appdata folder necessary.
 
 ## Chart Sources
 
@@ -12,8 +14,6 @@ Simple Chart that allows MQTT to be used to view data and push settings to the V
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

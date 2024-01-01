@@ -1,6 +1,8 @@
-# libreoffice
+---
+title: libreoffice
+---
 
-![Version: 6.0.9](https://img.shields.io/badge/Version-6.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.5.5](https://img.shields.io/badge/AppVersion-7.5.5-informational?style=flat-square)
+![Version: 6.0.10](https://img.shields.io/badge/Version-6.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.5.5](https://img.shields.io/badge/AppVersion-7.5.5-informational?style=flat-square)
 
 LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org.
 
@@ -11,8 +13,6 @@ LibreOffice is a free and powerful office suite, and a successor to OpenOffice.o
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

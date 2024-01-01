@@ -1,21 +1,20 @@
-# twingate-connector
+---
+title: twingate-connector
+---
 
-![Version: 0.0.11](https://img.shields.io/badge/Version-0.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.56.0](https://img.shields.io/badge/AppVersion-1.56.0-informational?style=flat-square)
+![Version: 0.0.12](https://img.shields.io/badge/Version-0.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.56.0](https://img.shields.io/badge/AppVersion-1.56.0-informational?style=flat-square)
 
 Twingate is remote access for the modern world.
 
 ## Chart Sources
 
-- https://www.twingate.com/docs/connector-deployment
 - https://github.com/truecharts/charts/tree/master/charts/incubator/twingate-connector
 - https://github.com/truecharts/containers/tree/master/mirrortwingate-connector
+- https://www.twingate.com/docs/connector-deployment
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
-
-- [**Installation Notes**](installation_notes)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)
+- [**Installation Notes**](./installation_notes.md)

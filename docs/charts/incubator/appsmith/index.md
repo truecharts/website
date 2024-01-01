@@ -1,19 +1,19 @@
-# appsmith
+---
+title: appsmith
+---
 
-![Version: 6.0.9](https://img.shields.io/badge/Version-6.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.50](https://img.shields.io/badge/AppVersion-1.9.50-informational?style=flat-square)
+![Version: 6.0.10](https://img.shields.io/badge/Version-6.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.50](https://img.shields.io/badge/AppVersion-1.9.50-informational?style=flat-square)
 
 Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop UI components to build pages, connect to any API, database or GraphQL source and write logic with JavaScript objects.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/appsmith/appsmith-ce
 - https://github.com/appsmithorg/appsmith
 - https://github.com/truecharts/charts/tree/master/charts/incubator/appsmith
-- https://hub.docker.com/r/appsmith/appsmith-ce
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

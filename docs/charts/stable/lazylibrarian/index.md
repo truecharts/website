@@ -2,19 +2,19 @@
 title: lazylibrarian
 ---
 
-![Version: 17.1.1](https://img.shields.io/badge/Version-17.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 17.1.3](https://img.shields.io/badge/Version-17.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Get all your books, like series with Sonarr...
 
 ## Chart Sources
 
-- https://gitlab.com/LazyLibrarian/LazyLibrarian.git
-- https://lazylibrarian.gitlab.io
 - https://github.com/truecharts/charts/tree/master/charts/stable/lazylibrarian
 - https://ghcr.io/linuxserver/lazylibrarian
+- https://gitlab.com/LazyLibrarian/LazyLibrarian.git
+- https://lazylibrarian.gitlab.io
 
 ## Available Documentation
 
-- [**Container Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

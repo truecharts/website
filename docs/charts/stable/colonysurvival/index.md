@@ -1,6 +1,8 @@
-# colonysurvival
+---
+title: colonysurvival
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: colonysurvival](https://img.shields.io/badge/AppVersion-colonysurvival-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: colonysurvival](https://img.shields.io/badge/AppVersion-colonysurvival-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Colony Survival and run it.
 
@@ -12,8 +14,6 @@ This Chart will download and install SteamCMD. It will also install Colony Survi
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

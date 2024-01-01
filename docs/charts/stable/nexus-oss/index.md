@@ -1,6 +1,8 @@
-# nexus-oss
+---
+title: nexus-oss
+---
 
-![Version: 4.1.0](https://img.shields.io/badge/Version-4.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.63.0](https://img.shields.io/badge/AppVersion-3.63.0-informational?style=flat-square)
+![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.63.0](https://img.shields.io/badge/AppVersion-3.63.0-informational?style=flat-square)
 
 Sonatype Nexus open source is a artifact repository manager
 
@@ -11,8 +13,6 @@ Sonatype Nexus open source is a artifact repository manager
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)

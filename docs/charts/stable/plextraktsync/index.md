@@ -1,6 +1,8 @@
-# plextraktsync
+---
+title: plextraktsync
+---
 
-![Version: 6.1.0](https://img.shields.io/badge/Version-6.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.27.11](https://img.shields.io/badge/AppVersion-0.27.11-informational?style=flat-square)
+![Version: 6.1.2](https://img.shields.io/badge/Version-6.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.27.11](https://img.shields.io/badge/AppVersion-0.27.11-informational?style=flat-square)
 
 Two-way-sync between trakt.tv and Plex Media Server.
 
@@ -12,8 +14,6 @@ Two-way-sync between trakt.tv and Plex Media Server.
 
 ## Available Documentation
 
-- [**Changelog**](CHANGELOG)
-
-- [**Helm Security**](container-security)
-
-- [**Helm Security**](helm-security)
+- [**Changelog**](./CHANGELOG.md)
+- [**Container Security**](./container-security.md)
+- [**Helm Security**](./helm-security.md)
