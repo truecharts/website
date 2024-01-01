@@ -1,50 +1,422 @@
 ---
-title: Container
+title: Containers / Init Containers
 ---
 
-Assume every key below has a prefix of `workload.[workload-name].podSpec`.
+:::note
 
-| Key                                       |   Type    | Required | Helm Template | Default | Description                       |
-| :---------------------------------------- | :-------: | :------: | :-----------: | :-----: | :-------------------------------- |
-| containers.[container-name]               |   `map`   |    ✅    |      ❌       |  `{}`   | Define the container as dict      |
-| containers.[container-name].enabled       | `boolean` |    ✅    |      ❌       | `false` | Enables or Disables the container |
-| containers.[container-name].imageSelector | `string`  |    ✅    |      ✅       | `image` | Defines the image dict to use     |
-| containers.[container-name].primary       | `boolean` |    ✅    |      ❌       | `false` | Sets the container as primary     |
-| containers.[container-name].stdin         | `boolean` |    ❌    |      ❌       | `false` | whether to enable stdin or not    |
-| containers.[container-name].tty           | `boolean` |    ❌    |      ❌       | `false` | whether to enable tty or not      |
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
 
----
+:::
 
-Appears in:
+## Appears in
 
-- `.Values.workload.[workload-name].podSpec.containers.[container-name]`
+- `.Values.workload.$name.podSpec.containers.$name`
+- `.Values.workload.$name.podSpec.initContainers.$name`
 
----
+:::tip
 
-Naming scheme:
+Replace references to `$name` with the actual name you want to use.
 
-- Primary: `$FullName` (release-name-chart-name)
-- Non-Primary: `$FullName-$ContainerName` (release-name-chart-name-container-name)
+:::
 
 ---
 
-More keys for `container` can be found below:
+## `enabled`
 
-- [command](command.md)
-- [args](args.md)
-- [termination](termination.md)
-- [lifecycle](lifecycle.md)
-- [probes](probes.md)
-- [resources](resources.md)
-- [securityContext](securityContext.md)
-- [envFrom](envFrom.md)
-- [fixedEnv](fixedEnv.md)
-- [env](env.md)
-- [envList](envList.md)
+Define if the container is enabled or not
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.enabled` |
+| Type       | `boolean`                                         |
+| Required   | ✅                                                |
+| Helm `tpl` | ❌                                                |
+| Default    | `false`                                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          enabled: true
+```
 
 ---
 
-Examples:
+## `type`
+
+Define the type of container
+
+:::note
+
+- Only applies to `initContainers`
+- Init containers for each type are executed in an alphabetical order based on their name.
+
+:::
+
+|            |                                                    |
+| ---------- | -------------------------------------------------- |
+| Key        | `workload.$name.podSpec.initContainers.$name.type` |
+| Type       | `string`                                           |
+| Required   | ✅                                                 |
+| Helm `tpl` | ✅                                                 |
+| Default    | `init`                                             |
+
+Valid Values:
+
+- `init` (Runs before the containers is started.)
+- `install` (Runs before the containers is started and only on install.)
+- `upgrade` (Runs before the containers is started and only on upgrade.)
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      initContainers:
+        container-name:
+          type: init
+```
+
+---
+
+## `imageSelector`
+
+Define the image `map` to use
+
+|            |                                                         |
+| ---------- | ------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.imageSelector` |
+| Type       | `string`                                                |
+| Required   | ✅                                                      |
+| Helm `tpl` | ✅                                                      |
+| Default    | `image`                                                 |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          imageSelector: image
+```
+
+---
+
+## `primary`
+
+Define if the container is primary or not
+
+:::note
+
+Does **not** apply to `initContainers`
+
+:::
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.primary` |
+| Type       | `boolean`                                         |
+| Required   | ✅                                                |
+| Helm `tpl` | ❌                                                |
+| Default    | `false`                                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          primary: true
+```
+
+---
+
+## `stdin`
+
+Define if the container should have stdin enabled or not
+
+|            |                                                 |
+| ---------- | ----------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.stdin` |
+| Type       | `boolean`                                       |
+| Required   | ❌                                              |
+| Helm `tpl` | ❌                                              |
+| Default    | `false`                                         |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          stdin: true
+```
+
+---
+
+## `tty`
+
+Define if the container should have tty enabled or not
+
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.tty` |
+| Type       | `boolean`                                     |
+| Required   | ❌                                            |
+| Helm `tpl` | ❌                                            |
+| Default    | `false`                                       |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          tty: true
+```
+
+---
+
+## `command`
+
+Define command(s). If it's single, can be defined as string
+
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.command` |
+| Type       | `string` or `list` of `string`                    |
+| Required   | ❌                                                |
+| Helm `tpl` | ✅                                                |
+| Default    | `[]`                                              |
+
+---
+
+## `args`
+
+Define arg(s). If it's single, can be defined as string
+
+|            |                                                |
+| ---------- | ---------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.args` |
+| Type       | `string` or `list` of `string`                 |
+| Required   | ❌                                             |
+| Helm `tpl` | ✅                                             |
+| Default    | `[]`                                           |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          args:
+            - arg1
+            - arg2
+# Or
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          args: arg
+```
+
+---
+
+## `extraArgs`
+
+Define extraArg(s).
+
+:::note
+
+Those are appended **after** the `args`.
+Useful for adding args after the ones defined by the chart.
+
+:::
+
+|            |                                                     |
+| ---------- | --------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.extraArgs` |
+| Type       | `string` or `list` of `string`                      |
+| Required   | ❌                                                  |
+| Helm `tpl` | ✅                                                  |
+| Default    | `[]`                                                |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          extraArgs:
+            - extraArg1
+            - extraArg2
+# Or
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          extraArgs: extraArg
+```
+
+---
+
+## `termination`
+
+|            |                                                       |
+| ---------- | ----------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.termination` |
+| Type       | `map`                                                 |
+| Required   | ❌                                                    |
+| Helm `tpl` | ❌                                                    |
+| Default    | `{}`                                                  |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          termination: {}
+```
+
+---
+
+## `termination.messagePath`
+
+|            |                                                                   |
+| ---------- | ----------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.termination.messagePath` |
+| Type       | `string`                                                          |
+| Required   | ❌                                                                |
+| Helm `tpl` | ✅                                                                |
+| Default    | `""`                                                              |
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          termination:
+            messagePath: /dev/termination-log
+```
+
+---
+
+## `termination.messagePolicy`
+
+|            |                                                                     |
+| ---------- | ------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.termination.messagePolicy` |
+| Type       | `string`                                                            |
+| Required   | ❌                                                                  |
+| Helm `tpl` | ✅                                                                  |
+| Default    | `""`                                                                |
+
+Valid Values:
+
+- `File`
+- `FallbackToLogsOnError`
+
+Example
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          termination:
+            messagePolicy: File
+```
+
+---
+
+## `lifecycle`
+
+:::note
+
+Does **not** apply to `initContainers`
+
+:::
+
+See [lifecycle](./lifecycle.md)
+
+---
+
+## `probes`
+
+:::note
+
+Does **not** apply to `initContainers`
+
+:::
+
+See [probes](./probes.md)
+
+---
+
+## `resources`
+
+See [resources](./resources.md)
+
+---
+
+## `securityContext`
+
+See [securityContext](./securityContext.md)
+
+---
+
+## `envFrom`
+
+See [envFrom](./envFrom.md)
+
+---
+
+## `fixedEnv`
+
+See [fixedEnv](./fixedEnv.md)
+
+---
+
+## `env`
+
+See [env](./env.md)
+
+---
+
+## `envList`
+
+See [envList](./envList.md)
+
+---
+
+## Full Examples
 
 ```yaml
 workload:
@@ -52,46 +424,20 @@ workload:
     enabled: true
     primary: true
     podSpec:
-      containers:
+      containers: # or initContainers
         container-name:
           enabled: true
           primary: true
           imageSelector: image
           stdin: true
           tty: true
-```
-
-## InitContainer
-
-| Key                                     |   Type    | Required | Helm Template | Default | Description                                            |
-| :-------------------------------------- | :-------: | :------: | :-----------: | :-----: | :----------------------------------------------------- |
-| initContainers.[container-name]         |   `map`   |    ✅    |      ❌       |  `{}`   | Define the initContainer as dict                       |
-| initContainers.[container-name].enabled | `boolean` |    ✅    |      ✅       | `false` | Enables or Disables the initContainer                  |
-| initContainers.[container-name].type    | `string`  |    ✅    |      ✅       |  `{}`   | Define the type initContainer (init, install, upgrade) |
-
-> Supports all keys from [container](index.md)
-> Does not use `primary` key, `lifecycle` key and `probes` key
-
----
-
-Notes:
-
-`init` type run before the containers is started.
-`install` type run before the containers is started and only on install.
-`upgrade` type run before the containers is started and only on upgrade.
-
----
-
-Examples:
-
-```yaml
-workload:
-  workload-name:
-    enabled: true
-    primary: true
-    podSpec:
-      initContainers:
-        container-name:
-          enabled: true
-          # ...
+          args:
+            - arg1
+            - arg2
+          command:
+            - command1
+            - command2
+          termination:
+            messagePath: /dev/termination-log
+            messagePolicy: File
 ```
