@@ -16,5 +16,3 @@ PrivateBin is a minimalist, open source online pastebin where the server has zer
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

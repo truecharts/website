@@ -2,7 +2,7 @@
 title: post-recording
 ---
 
-![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.3](https://img.shields.io/badge/Version-4.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Watches for .ts files made by Live TV recordings, convert them to a friendly format, extract .srt file, add chapters with comchap or remove them with comcut. Tested with Emby recordings.
 
@@ -15,5 +15,3 @@ Watches for .ts files made by Live TV recordings, convert them to a friendly for
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

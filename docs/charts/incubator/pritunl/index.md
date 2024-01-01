@@ -16,5 +16,3 @@ Run a Pritunl VPN Server [br][br]
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -15,5 +15,3 @@ A secure SOCKS5 proxy. Shadowsocks is a free and open-source encryption protocol
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

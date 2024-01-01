@@ -14,5 +14,3 @@ OpenProject is a web-based project management system for location-independent te
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -15,5 +15,3 @@ A free, open-source expert system for guided interviews and document assembly.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

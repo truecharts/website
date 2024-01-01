@@ -15,5 +15,3 @@ A simple wake on lan app written with SvelteKit, Go, PocketBase and nmap.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

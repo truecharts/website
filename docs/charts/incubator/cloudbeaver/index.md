@@ -15,5 +15,3 @@ Cloud Database Manager (Official Chart)
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -14,5 +14,3 @@ Darktable is an open source photography workflow application and raw developer.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

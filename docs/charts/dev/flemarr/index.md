@@ -15,6 +15,4 @@ Flemmarr is a simple Python script that parses a configuration written in YAML a
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)
 - [**Input Validation**](./validation.md)

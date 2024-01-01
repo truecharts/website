@@ -2,7 +2,7 @@
 title: odoo
 ---
 
-![Version: 16.1.2](https://img.shields.io/badge/Version-16.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "17.0"](https://img.shields.io/badge/AppVersion-"17.0"-informational?style=flat-square)
+![Version: 16.1.3](https://img.shields.io/badge/Version-16.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "17.0"](https://img.shields.io/badge/AppVersion-"17.0"-informational?style=flat-square)
 
 All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, Procurement, Point of Sale, MRP, Marketing, etc.
 
@@ -15,6 +15,4 @@ All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, P
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
 - [**Default credentials**](./credentials.md)
-- [**Helm Security**](./helm-security.md)

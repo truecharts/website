@@ -15,5 +15,3 @@ JFrog’s Artifactory open source project was created to speed up development cy
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

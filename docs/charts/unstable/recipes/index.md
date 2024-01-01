@@ -15,5 +15,3 @@ Recipes is a Django application to manage, tag and search recipes using either b
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

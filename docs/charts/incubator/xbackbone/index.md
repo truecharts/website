@@ -15,5 +15,3 @@ XBackBone is a simple, self-hosted, lightweight PHP file manager
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

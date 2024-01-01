@@ -15,5 +15,3 @@ Ferdi is a destkop app that helps you organize how you use your favourite apps b
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

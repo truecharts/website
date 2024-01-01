@@ -2,7 +2,7 @@
 title: dillinger
 ---
 
-![Version: 8.1.2](https://img.shields.io/badge/Version-8.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.39.1](https://img.shields.io/badge/AppVersion-3.39.1-informational?style=flat-square)
+![Version: 8.1.3](https://img.shields.io/badge/Version-8.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.39.1](https://img.shields.io/badge/AppVersion-3.39.1-informational?style=flat-square)
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
@@ -14,5 +14,3 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -2,7 +2,7 @@
 title: wordpress
 ---
 
-![Version: 6.1.2](https://img.shields.io/badge/Version-6.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.4.2](https://img.shields.io/badge/AppVersion-6.4.2-informational?style=flat-square)
+![Version: 6.1.3](https://img.shields.io/badge/Version-6.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.4.2](https://img.shields.io/badge/AppVersion-6.4.2-informational?style=flat-square)
 
 The WordPress rich content management system can utilize plugins, widgets, and themes.
 
@@ -15,5 +15,3 @@ The WordPress rich content management system can utilize plugins, widgets, and t
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -15,5 +15,3 @@ A one-of-a-kind resume builder that keeps your privacy in mind.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -2,7 +2,7 @@
 title: sshwifty
 ---
 
-![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.3](https://img.shields.io/badge/Version-4.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 SSHwifty is a SSH and Telnet connector made for the Web.
 
@@ -15,6 +15,4 @@ SSHwifty is a SSH and Telnet connector made for the Web.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
 - [**Disclaimer**](./disclaimer.md)
-- [**Helm Security**](./helm-security.md)

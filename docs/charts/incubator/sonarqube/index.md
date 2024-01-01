@@ -15,5 +15,3 @@ SonarQube is an open source platform for continuous inspection of code quality.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

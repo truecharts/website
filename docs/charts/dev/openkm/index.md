@@ -16,5 +16,3 @@ OpenKM integrates all essential documents management, collaboration and an advan
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

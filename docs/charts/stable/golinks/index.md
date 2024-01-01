@@ -2,7 +2,7 @@
 title: golinks
 ---
 
-![Version: 10.1.2](https://img.shields.io/badge/Version-10.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ersion-154c581](https://img.shields.io/badge/AppVersion-ersion-154c581-informational?style=flat-square)
+![Version: 10.1.3](https://img.shields.io/badge/Version-10.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ersion-154c581](https://img.shields.io/badge/AppVersion-ersion-154c581-informational?style=flat-square)
 
 A web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance.
 
@@ -16,5 +16,3 @@ A web app that allows you to create smart bookmarks, commands and aliases by poi
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -15,5 +15,3 @@ A simple way to backup important files to Google Cloud Storage.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

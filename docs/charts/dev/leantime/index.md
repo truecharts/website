@@ -15,5 +15,3 @@ Straightforward open source project management system to make your ideas reality
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

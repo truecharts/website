@@ -14,5 +14,3 @@ LibreOffice is a free and powerful office suite, and a successor to OpenOffice.o
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

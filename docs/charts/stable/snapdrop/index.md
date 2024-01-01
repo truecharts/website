@@ -2,7 +2,7 @@
 title: snapdrop
 ---
 
-![Version: 8.1.3](https://img.shields.io/badge/Version-8.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.1.4](https://img.shields.io/badge/Version-8.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Snapdrop A local file sharing in your browser. Inspired by Apple's Airdrop.
 
@@ -15,5 +15,3 @@ Snapdrop A local file sharing in your browser. Inspired by Apple's Airdrop.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -15,6 +15,4 @@ High performance self-hosted photo and video backup solution.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)
 - [**Install Notes**](./install_notes.md)

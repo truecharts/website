@@ -15,6 +15,4 @@ YouTrack is a project management tool that can be adapted to your processes to h
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
 - [**Default Credentials**](./default_credentials.md)
-- [**Helm Security**](./helm-security.md)

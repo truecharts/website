@@ -2,7 +2,7 @@
 title: calibre
 ---
 
-![Version: 13.1.3](https://img.shields.io/badge/Version-13.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.2.0](https://img.shields.io/badge/AppVersion-7.2.0-informational?style=flat-square)
+![Version: 13.1.4](https://img.shields.io/badge/Version-13.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.2.0](https://img.shields.io/badge/AppVersion-7.2.0-informational?style=flat-square)
 
 Calibre is a powerful and easy to use e-book manager.
 
@@ -15,5 +15,3 @@ Calibre is a powerful and easy to use e-book manager.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

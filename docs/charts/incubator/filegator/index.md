@@ -15,5 +15,3 @@ FileGator is a free, open-source, self-hosted web application for managing files
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

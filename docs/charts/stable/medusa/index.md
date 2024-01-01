@@ -2,7 +2,7 @@
 title: medusa
 ---
 
-![Version: 9.1.3](https://img.shields.io/badge/Version-9.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.19](https://img.shields.io/badge/AppVersion-1.0.19-informational?style=flat-square)
+![Version: 9.1.4](https://img.shields.io/badge/Version-9.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.19](https://img.shields.io/badge/AppVersion-1.0.19-informational?style=flat-square)
 
 An automatic Video Library Manager for TV Shows
 
@@ -16,5 +16,3 @@ An automatic Video Library Manager for TV Shows
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

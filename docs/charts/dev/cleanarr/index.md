@@ -15,5 +15,3 @@ A simple UI to help find and delete duplicate and sample files from your Plex se
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -15,5 +15,3 @@ A Web app to manage your 2FA accounts and generate their security codes.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

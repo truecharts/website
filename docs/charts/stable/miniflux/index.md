@@ -2,7 +2,7 @@
 title: miniflux
 ---
 
-![Version: 13.1.2](https://img.shields.io/badge/Version-13.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.51](https://img.shields.io/badge/AppVersion-2.0.51-informational?style=flat-square)
+![Version: 13.1.3](https://img.shields.io/badge/Version-13.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.51](https://img.shields.io/badge/AppVersion-2.0.51-informational?style=flat-square)
 
 Miniflux is a minimalist and opinionated feed reader.
 
@@ -15,7 +15,5 @@ Miniflux is a minimalist and opinionated feed reader.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
 - [**Default Username/Password**](./credentials.md)
-- [**Helm Security**](./helm-security.md)
 - [**Installation Notes**](./installation_notes.md)

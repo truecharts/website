@@ -15,5 +15,3 @@ pixelserv-tls is a tiny bespoke HTTP/1.1 webserver with HTTPS and SNI support. I
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

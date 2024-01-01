@@ -2,7 +2,7 @@
 title: lldap
 ---
 
-![Version: 4.1.2](https://img.shields.io/badge/Version-4.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0-debian](https://img.shields.io/badge/AppVersion-0.5.0-debian-informational?style=flat-square)
+![Version: 4.1.3](https://img.shields.io/badge/Version-4.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0-debian](https://img.shields.io/badge/AppVersion-0.5.0-debian-informational?style=flat-square)
 
 Lightweight ldap server for authentication and user management
 
@@ -17,6 +17,4 @@ Lightweight ldap server for authentication and user management
 - [**Changelog**](./CHANGELOG.md)
 - [**Authelia + LLDAP + Traefik ForwardAuth Setup guide**](./authelia-lldap-forwardauth.md)
 - [**Authelia Setup**](./authelia.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)
 - [**Installation notes**](./installation-notes.md)

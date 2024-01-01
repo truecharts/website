@@ -15,6 +15,4 @@ NetBox is the leading solution for modeling and documenting modern networks.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
 - [**Default Credentials**](./default-credentials.md)
-- [**Helm Security**](./helm-security.md)

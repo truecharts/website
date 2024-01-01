@@ -17,5 +17,3 @@ MovieGrabber is a fully automated way of downloading movie from usenet, it suppo
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

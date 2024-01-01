@@ -15,5 +15,3 @@ Vorta is a backup client for macOS and Linux desktops. It integrates the mighty 
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

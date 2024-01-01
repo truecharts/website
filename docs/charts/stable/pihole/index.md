@@ -2,7 +2,7 @@
 title: pihole
 ---
 
-![Version: 13.1.2](https://img.shields.io/badge/Version-13.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.0](https://img.shields.io/badge/AppVersion-2023.11.0-informational?style=flat-square)
+![Version: 13.1.3](https://img.shields.io/badge/Version-13.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.0](https://img.shields.io/badge/AppVersion-2023.11.0-informational?style=flat-square)
 
 DNS and Ad-filtering for your network
 
@@ -17,6 +17,4 @@ DNS and Ad-filtering for your network
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)
 - [**Automatic Split DNS with PiHole**](./split-dns.md)

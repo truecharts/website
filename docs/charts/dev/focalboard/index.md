@@ -17,5 +17,3 @@ Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asa
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

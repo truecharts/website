@@ -15,5 +15,3 @@ FREE version of Poste.io, full mail server solution. POP3, SMTP, IMAP, Spamassas
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

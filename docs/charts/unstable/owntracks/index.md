@@ -16,5 +16,3 @@ The OwnTracks Recorder is a lightweight program for storing and accessing locati
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

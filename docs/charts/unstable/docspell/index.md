@@ -17,6 +17,4 @@ Docspell is a personal document organizer.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)
 - [**Installation Notes**](./installation-notes.md)

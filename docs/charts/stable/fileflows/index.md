@@ -2,7 +2,7 @@
 title: fileflows
 ---
 
-![Version: 8.1.3](https://img.shields.io/badge/Version-8.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "23.12"](https://img.shields.io/badge/AppVersion-"23.12"-informational?style=flat-square)
+![Version: 8.1.4](https://img.shields.io/badge/Version-8.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "23.12"](https://img.shields.io/badge/AppVersion-"23.12"-informational?style=flat-square)
 
 An application that lets you automatically process files through a simple rule flow.
 
@@ -15,5 +15,3 @@ An application that lets you automatically process files through a simple rule f
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

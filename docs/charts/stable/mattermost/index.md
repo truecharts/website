@@ -2,7 +2,7 @@
 title: mattermost
 ---
 
-![Version: 11.1.2](https://img.shields.io/badge/Version-11.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "9.4"](https://img.shields.io/badge/AppVersion-"9.4"-informational?style=flat-square)
+![Version: 11.1.3](https://img.shields.io/badge/Version-11.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "9.4"](https://img.shields.io/badge/AppVersion-"9.4"-informational?style=flat-square)
 
 Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 
@@ -16,5 +16,3 @@ Mattermost is an open source platform for secure collaboration across the entire
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

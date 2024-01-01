@@ -15,5 +15,3 @@ Orbital Sync synchronizes multiple Pi-hole instances for high availability.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

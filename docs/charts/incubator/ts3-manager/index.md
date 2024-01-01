@@ -15,5 +15,3 @@ A modern web interface for maintaining Teamspeak3 servers.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

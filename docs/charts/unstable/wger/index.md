@@ -16,6 +16,4 @@ Workout Manager is a free, open source web application that helps you manage you
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
 - [**Default Username/Password**](./credentials.md)
-- [**Helm Security**](./helm-security.md)

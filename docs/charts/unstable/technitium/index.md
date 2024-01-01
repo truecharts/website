@@ -16,5 +16,3 @@ Technitium DNS Server is an open source authoritative as well as recursive DNS s
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

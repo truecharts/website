@@ -15,5 +15,3 @@ Self-hosted streaming service for music, formerly known as HTTP Media Server.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

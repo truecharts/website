@@ -15,5 +15,3 @@ A scalable file uploading system with multiple backends.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

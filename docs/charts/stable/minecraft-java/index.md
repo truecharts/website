@@ -2,7 +2,7 @@
 title: minecraft-java
 ---
 
-![Version: 7.1.2](https://img.shields.io/badge/Version-7.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.1](https://img.shields.io/badge/AppVersion-2023.11.1-informational?style=flat-square)
+![Version: 7.1.3](https://img.shields.io/badge/Version-7.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.1](https://img.shields.io/badge/AppVersion-2023.11.1-informational?style=flat-square)
 
 Minecraft Java Dedicated Server
 
@@ -16,5 +16,3 @@ Minecraft Java Dedicated Server
 
 - [**Changelog**](./CHANGELOG.md)
 - [**Minecraft Java Community Guide**](./community-guide.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -16,5 +16,3 @@ InvenTree is an open-source Inventory Management System which provides powerful 
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

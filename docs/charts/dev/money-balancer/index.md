@@ -15,5 +15,3 @@ Money Balancer helps you to keep track of who paid for what and calculates your 
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

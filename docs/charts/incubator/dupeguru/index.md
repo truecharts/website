@@ -15,6 +15,4 @@ dupeGuru is a tool to find duplicate files on your computer. It can scan either 
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)
 - [**Installation Notes**](./installation_notes.md)

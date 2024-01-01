@@ -39,6 +39,43 @@ title: Changelog
 - bump to release middleware fix
 
 - expose custom options for homepage integration
+
+
+## [owntracks-1.0.9](https://github.com/truecharts/charts/compare/owntracks-1.0.2...owntracks-1.0.9) (2024-01-01)
+
+### Chore
+
+
+
+- bump all charts for OCI test push
+
+- move everything to consume OCI-hosted common-chart dependency
+
+- bump everything to ensure patches are applied globally
+
+- bump patch versions on all charts for new GUI release
+
+- Bump everything to force min/max scale version update
+
+- fix move mistake and cleanup metadata
+
+- move new-common incubator stuff to stable ([#15646](https://github.com/truecharts/charts/issues/15646))
+
+- update helm chart common to 16.2.6 ([#15731](https://github.com/truecharts/charts/issues/15731))
+
+- standardize ./img references ([#16704](https://github.com/truecharts/charts/issues/16704))
+
+- remove 2 empty changelogs ([#16634](https://github.com/truecharts/charts/issues/16634))
+
+### Fix
+
+
+
+- correct mistaken common references
+
+- bump to release middleware fix
+
+- expose custom options for homepage integration
 ## [owntracks-1.0.8](https://github.com/truecharts/charts/compare/owntracks-1.0.2...owntracks-1.0.8) (2023-12-22)
 
 ### Chore

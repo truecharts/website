@@ -15,5 +15,3 @@ GoAutoYT makes it easy for you to automatically download videos from as many You
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

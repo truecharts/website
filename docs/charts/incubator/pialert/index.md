@@ -15,6 +15,4 @@ Monitoring your WIFI/LAN network and alerting of new (intruder or hacker) device
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)
 - [**Installation Notes**](./installation_notes.md)

@@ -15,5 +15,3 @@ Snowflake's Proxy component to help users in the censored regions.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

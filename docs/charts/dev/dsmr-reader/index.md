@@ -16,5 +16,3 @@ DSMR-protocol reader, telegram data storage and energy consumption visualizer.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -15,5 +15,3 @@ an online collaborative whiteboard that allows many users to draw simultaneously
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

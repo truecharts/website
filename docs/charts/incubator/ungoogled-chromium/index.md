@@ -15,5 +15,3 @@ Ungoogled-Chromium is a lightweight approach to removing Google web service depe
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

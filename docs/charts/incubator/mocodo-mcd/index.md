@@ -15,5 +15,3 @@ Mocodo est un logiciel d'aide  l'enseignement et  la conception des bases de don
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

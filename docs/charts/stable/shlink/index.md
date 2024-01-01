@@ -2,7 +2,7 @@
 title: shlink
 ---
 
-![Version: 12.1.3](https://img.shields.io/badge/Version-12.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.2](https://img.shields.io/badge/AppVersion-3.7.2-informational?style=flat-square)
+![Version: 12.1.4](https://img.shields.io/badge/Version-12.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.7.2](https://img.shields.io/badge/AppVersion-3.7.2-informational?style=flat-square)
 
 A PHP-based self-hosted URL shortener that can be used to serve shortened URLs under your own custom domain.
 
@@ -15,5 +15,3 @@ A PHP-based self-hosted URL shortener that can be used to serve shortened URLs u
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

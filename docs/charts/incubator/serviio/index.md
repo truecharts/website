@@ -15,5 +15,3 @@ Serviio is a freeware media server designed to let users stream music, video, or
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -15,5 +15,3 @@ ScPrime is a cryptocurrency project targeting public cloud services with a block
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

@@ -2,7 +2,7 @@
 title: minisatip
 ---
 
-![Version: 8.1.2](https://img.shields.io/badge/Version-8.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.12.01](https://img.shields.io/badge/AppVersion-2021.12.01-informational?style=flat-square)
+![Version: 8.1.3](https://img.shields.io/badge/Version-8.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.12.01](https://img.shields.io/badge/AppVersion-2021.12.01-informational?style=flat-square)
 
 Minisatip is a multi-threaded satip server version 1.2 that runs under Linux.
 
@@ -14,5 +14,3 @@ Minisatip is a multi-threaded satip server version 1.2 that runs under Linux.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)

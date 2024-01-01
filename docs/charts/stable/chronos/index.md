@@ -2,7 +2,7 @@
 title: chronos
 ---
 
-![Version: 7.1.2](https://img.shields.io/badge/Version-7.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.2"](https://img.shields.io/badge/AppVersion-"0.2"-informational?style=flat-square)
+![Version: 7.1.3](https://img.shields.io/badge/Version-7.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.2"](https://img.shields.io/badge/AppVersion-"0.2"-informational?style=flat-square)
 
 Chronos is a small container to run and schedule Python 3.7 scripts. You can create virtual enviroments, edit your scripts, install Pip dependencies, view execution logs, and debug your scripts, all from the sleek web UI.
 
@@ -15,5 +15,3 @@ Chronos is a small container to run and schedule Python 3.7 scripts. You can cre
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
-- [**Container Security**](./container-security.md)
-- [**Helm Security**](./helm-security.md)
