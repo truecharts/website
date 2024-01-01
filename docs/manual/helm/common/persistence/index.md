@@ -81,7 +81,7 @@ Enables or Disables the persistence
 | Key        | `persistence.$name.enabled` |
 | Type       | `bool`                      |
 | Required   | ✅                          |
-| Helm `tpl` | ❌                          |
+| Helm `tpl` | ✅                          |
 | Default    | `false`                     |
 
 Example

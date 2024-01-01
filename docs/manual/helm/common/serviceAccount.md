@@ -84,7 +84,7 @@ Enables or Disables the serviceAccount
 | Key        | `serviceAccount.$name.enabled` |
 | Type       | `bool`                         |
 | Required   | ✅                             |
-| Helm `tpl` | ❌                             |
+| Helm `tpl` | ✅                             |
 | Default    | `false`                        |
 
 Example

@@ -20,6 +20,13 @@ Replace references to `$name` with the actual name you want to use.
 
 :::
 
+## Notes
+
+Every option under `workload.$name.podSpec.containers.$name` is also
+available under `workload.$name.podSpec.initContainers.$name`.
+
+Unless otherwise noted.
+
 ---
 
 ## `enabled`
@@ -31,7 +38,7 @@ Define if the container is enabled or not
 | Key        | `workload.$name.podSpec.containers.$name.enabled` |
 | Type       | `boolean`                                         |
 | Required   | ✅                                                |
-| Helm `tpl` | ❌                                                |
+| Helm `tpl` | ✅                                                |
 | Default    | `false`                                           |
 
 Example

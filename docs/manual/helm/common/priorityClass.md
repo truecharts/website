@@ -75,7 +75,7 @@ Enables or Disables the priority class
 | Key        | `priorityClass.$name.enabled` |
 | Type       | `bool`                        |
 | Required   | ✅                            |
-| Helm `tpl` | ❌                            |
+| Helm `tpl` | ✅                            |
 | Default    | `false`                       |
 
 Example

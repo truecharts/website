@@ -111,7 +111,7 @@ Enable volume snapshot class
 | Key        | `volumeSnapshotClass.$name.enabled` |
 | Type       | `bool`                              |
 | Required   | ✅                                  |
-| Helm `tpl` | ❌                                  |
+| Helm `tpl` | ✅                                  |
 | Default    | `false`                             |
 
 Example

@@ -83,7 +83,7 @@ Enables or Disables the image pull secret
 | Key        | `imagePullSecret.$name.enabled` |
 | Type       | `bool`                          |
 | Required   | ✅                              |
-| Helm `tpl` | ❌                              |
+| Helm `tpl` | ✅                              |
 | Default    | `false`                         |
 
 Example

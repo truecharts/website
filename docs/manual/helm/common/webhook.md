@@ -77,7 +77,7 @@ Enables or Disables the webhook
 | Key        | `webhook.$name.enabled` |
 | Type       | `bool`                  |
 | Required   | ✅                      |
-| Helm `tpl` | ❌                      |
+| Helm `tpl` | ✅                      |
 | Default    | `false`                 |
 
 Example

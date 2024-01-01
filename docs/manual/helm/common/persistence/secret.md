@@ -53,7 +53,7 @@ Whether to expand (adding the fullname as prefix) the secret name.
 | Key        | `persistence.$name.expandObjectName` |
 | Type       | `boolean`                            |
 | Required   | ❌                                   |
-| Helm `tpl` | ❌                                   |
+| Helm `tpl` | ✅                                   |
 | Default    | `true`                               |
 
 Example
