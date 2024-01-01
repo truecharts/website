@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [cloudnative-pg-5.2.4](https://github.com/truecharts/charts/compare/cloudnative-pg-5.2.3...cloudnative-pg-5.2.4) (2024-01-01)
+
+### Chore
+
+
+
+- ensure everything is bumped into oci
+
+
 ## [cloudnative-pg-5.2.3](https://github.com/truecharts/charts/compare/cloudnative-pg-5.2.0...cloudnative-pg-5.2.3) (2024-01-01)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [openebs-2.1.4](https://github.com/truecharts/charts/compare/openebs-2.1.3...openebs-2.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- ensure everything is bumped into oci
+
+
 ## [openebs-2.1.3](https://github.com/truecharts/charts/compare/openebs-2.1.0...openebs-2.1.3) (2024-01-01)
 
 ### Chore

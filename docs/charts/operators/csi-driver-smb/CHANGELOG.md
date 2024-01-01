@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [csi-driver-smb-2.1.4](https://github.com/truecharts/charts/compare/csi-driver-smb-2.1.3...csi-driver-smb-2.1.4) (2024-01-01)
+
+### Chore
+
+
+
+- ensure everything is bumped into oci
+
+
 ## [csi-driver-smb-2.1.3](https://github.com/truecharts/charts/compare/csi-driver-smb-2.1.0...csi-driver-smb-2.1.3) (2024-01-01)
 
 ### Chore
