@@ -19,7 +19,7 @@ Assume every key below has a prefix of `workload.[workload-name].podSpec.contain
 Regex Match:
 
 - [CPU Regex match](https://regex101.com/r/D4HouI/1)
-- [Regex match](https://regex101.com/r/D4HouI/1
+- [Regex match](https://regex101.com/r/D4HouI/1)
 
 ---
 

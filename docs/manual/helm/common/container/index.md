@@ -193,166 +193,25 @@ workload:
 
 ## `command`
 
-Define command(s). If it's single, can be defined as string
-
-|            |                                                   |
-| ---------- | ------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.command` |
-| Type       | `string` or `list` of `string`                    |
-| Required   | ❌                                                |
-| Helm `tpl` | ✅                                                |
-| Default    | `[]`                                              |
+See [command](./command.md)
 
 ---
 
 ## `args`
 
-Define arg(s). If it's single, can be defined as string
-
-|            |                                                |
-| ---------- | ---------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.args` |
-| Type       | `string` or `list` of `string`                 |
-| Required   | ❌                                             |
-| Helm `tpl` | ✅                                             |
-| Default    | `[]`                                           |
-
-Example
-
-```yaml
-workload:
-  workload-name:
-    podSpec:
-      containers:
-        container-name:
-          args:
-            - arg1
-            - arg2
-# Or
-workload:
-  workload-name:
-    podSpec:
-      containers:
-        container-name:
-          args: arg
-```
+See [args](./args.md#args)
 
 ---
 
 ## `extraArgs`
 
-Define extraArg(s).
-
-:::note
-
-Those are appended **after** the `args`.
-Useful for adding args after the ones defined by the chart.
-
-:::
-
-|            |                                                     |
-| ---------- | --------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.extraArgs` |
-| Type       | `string` or `list` of `string`                      |
-| Required   | ❌                                                  |
-| Helm `tpl` | ✅                                                  |
-| Default    | `[]`                                                |
-
-Example
-
-```yaml
-workload:
-  workload-name:
-    podSpec:
-      containers:
-        container-name:
-          extraArgs:
-            - extraArg1
-            - extraArg2
-# Or
-workload:
-  workload-name:
-    podSpec:
-      containers:
-        container-name:
-          extraArgs: extraArg
-```
+See [extraArgs](./args.md#extraargs)
 
 ---
 
 ## `termination`
 
-|            |                                                       |
-| ---------- | ----------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.termination` |
-| Type       | `map`                                                 |
-| Required   | ❌                                                    |
-| Helm `tpl` | ❌                                                    |
-| Default    | `{}`                                                  |
-
-Example
-
-```yaml
-workload:
-  workload-name:
-    podSpec:
-      containers:
-        container-name:
-          termination: {}
-```
-
----
-
-## `termination.messagePath`
-
-|            |                                                                   |
-| ---------- | ----------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.termination.messagePath` |
-| Type       | `string`                                                          |
-| Required   | ❌                                                                |
-| Helm `tpl` | ✅                                                                |
-| Default    | `""`                                                              |
-
-Example
-
-```yaml
-workload:
-  workload-name:
-    podSpec:
-      containers:
-        container-name:
-          termination:
-            messagePath: /dev/termination-log
-```
-
----
-
-## `termination.messagePolicy`
-
-|            |                                                                     |
-| ---------- | ------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.termination.messagePolicy` |
-| Type       | `string`                                                            |
-| Required   | ❌                                                                  |
-| Helm `tpl` | ✅                                                                  |
-| Default    | `""`                                                                |
-
-Valid Values:
-
-- `File`
-- `FallbackToLogsOnError`
-
-Example
-
-```yaml
-workload:
-  workload-name:
-    podSpec:
-      containers:
-        container-name:
-          termination:
-            messagePolicy: File
-```
+See [termination](./termination.md)
 
 ---
 
@@ -424,20 +283,18 @@ workload:
     enabled: true
     primary: true
     podSpec:
-      containers: # or initContainers
+      containers:
         container-name:
           enabled: true
           primary: true
           imageSelector: image
           stdin: true
           tty: true
-          args:
-            - arg1
-            - arg2
-          command:
-            - command1
-            - command2
-          termination:
-            messagePath: /dev/termination-log
-            messagePolicy: File
+      initContainers:
+        init-container-name:
+          enabled: true
+          type: init
+          imageSelector: image
+          stdin: true
+          tty: true
 ```
