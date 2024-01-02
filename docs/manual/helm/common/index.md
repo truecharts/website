@@ -13,6 +13,18 @@ title: Common Chart Documentation
 
 - `.Values`
 
+## Notes
+
+This applies across all the documentation:
+
+- Helm `tpl`:
+  - ❌ means that the value is not templated
+  - ✅ means that the value is templated,
+    for example instead of a hardcoded value, you can set it to `{{ .Values.some.value }}`.
+    and it will be replaced by the value contained in `.Values.some.value` at the installation/upgrade time.
+
+---
+
 ## `global`
 
 Global values that apply to all charts
@@ -218,26 +230,50 @@ operator:
 
 ---
 
-## Full Examples
+## `podOptions`
+
+Options that apply to all pods
+
+:::note
+
+See more info about podOptions [here](./podOptions.md)
+
+:::
+
+|            |                                      |
+| ---------- | ------------------------------------ |
+| Key        | `podOptions`                         |
+| Type       | `map`                                |
+| Required   | ❌                                   |
+| Helm `tpl` | ❌                                   |
+| Default    | See [here](./podOptions.md#defaults) |
+
+Example
 
 ```yaml
-operator:
-  register: false
-  verify:
-    enabled: true
-    additionalOperators:
-      - operator1
-      - operator2
-extraTpl:
-  - |
-    apiVersion: v1
-    kind: Deployment
-    ...
+podOptions:
+  enableServiceLinks: false
+  hostNetwork: false
+  hostPID: false
+  hostUsers: false
+  hostIPC: false
+  shareProcessNamespace: false
+  restartPolicy: Always
+  dnsPolicy: ClusterFirst
+  dnsConfig:
+    options:
+      - name: ndots
+        value: "1"
+  hostAliases: []
+  tolerations: []
+  runtimeClassName: ""
+  automountServiceAccountToken: false
+  terminationGracePeriodSeconds: 120
 ```
 
-> TODO: Restructure from here and below
-
 ---
+
+> TODO: Restructure from here and below START
 
 ## Global Values that apply on pods/containers
 
@@ -245,34 +281,19 @@ All of the below values are applied on all pods/containers, but can be overridde
 This is so, you can have a single point to define the values from the scale UI,
 but still have the ability to override them on the pod/container level, in case you need to.
 
-| Key                                              |   Type   | Required | Helm Template |  Default  | Description                                                            |
-| :----------------------------------------------- | :------: | :------: | :-----------: | :-------: | :--------------------------------------------------------------------- |
-| .Values.TZ                                       | `string` |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                            |
-| .Values.namespace                                | `string` |    ❌    |      ✅       |   `""`    | Namespace to apply to all objects, does not apply to chart deps        |
-| .Values.containerOptions                         |  `map`   |    ✅    |      ❌       | See below | Container options that apply to all containers                         |
-| .Values.containerOptions.NVIDIA_CAPS             |  `list`  |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)                     |
-| .Values.resources                                |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.limits                         |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.limits.cpu                     | `string` |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.limits.memory                  | `string` |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.requests                       |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.requests.cpu                   | `string` |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.requests.memory                | `string` |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.podOptions                               |  `map`   |    ✅    |      ❌       | See below | Options that apply to all pods                                         |
-| .Values.podOptions.enableServiceLinks            |  `bool`  |    ✅    |      ❌       | See below | enableServiceLinks                                                     |
-| .Values.podOptions.hostNetwork                   |  `bool`  |    ✅    |      ❌       | See below | hostNetwork                                                            |
-| .Values.podOptions.hostIPC                       |  `bool`  |    ✅    |      ❌       | See below | hostIPC                                                                |
-| .Values.podOptions.hostPID                       |  `bool`  |    ✅    |      ❌       | See below | hostPID                                                                |
-| .Values.podOptions.hostUsers                     |  `bool`  |    ✅    |      ❌       | See below | hostUsers                                                              |
-| .Values.podOptions.shareProcessNamespace         |  `bool`  |    ✅    |      ❌       | See below | shareProcessNamespace                                                  |
-| .Values.podOptions.restartPolicy                 | `string` |    ✅    |      ❌       | See below | restartPolicy                                                          |
-| .Values.podOptions.dnsPolicy                     | `string` |    ✅    |      ❌       | See below | dnsPolicy                                                              |
-| .Values.podOptions.dnsConfig                     |  `list`  |    ✅    |      ❌       | See below | dnsConfig                                                              |
-| .Values.podOptions.hostAliases                   |  `list`  |    ✅    |      ❌       | See below | hostAliases                                                            |
-| .Values.podOptions.tolerations                   |  `list`  |    ✅    |      ❌       | See below | tolerations                                                            |
-| .Values.podOptions.runtimeClassName              | `string` |    ✅    |      ❌       | See below | runtimeClassName (value in ixChartContext will always take precedence) |
-| .Values.podOptions.automountServiceAccountToken  |  `bool`  |    ✅    |      ❌       | See below | automountServiceAccountToken                                           |
-| .Values.podOptions.terminationGracePeriodSeconds |  `int`   |    ✅    |      ❌       | See below | terminationGracePeriodSeconds                                          |
+| Key                                  |   Type   | Required | Helm Template |  Default  | Description                                                     |
+| :----------------------------------- | :------: | :------: | :-----------: | :-------: | :-------------------------------------------------------------- |
+| .Values.TZ                           | `string` |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                     |
+| .Values.namespace                    | `string` |    ❌    |      ✅       |   `""`    | Namespace to apply to all objects, does not apply to chart deps |
+| .Values.containerOptions             |  `map`   |    ✅    |      ❌       | See below | Container options that apply to all containers                  |
+| .Values.containerOptions.NVIDIA_CAPS |  `list`  |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)              |
+| .Values.resources                    |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.limits             |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.limits.cpu         | `string` |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.limits.memory      | `string` |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.requests           |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.requests.cpu       | `string` |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.requests.memory    | `string` |    ✅    |      ❌       | See below | Resources                                                       |
 
 <!-- TODO: Improve descriptions -->
 
@@ -293,24 +314,6 @@ resources:
   requests:
     cpu: 10m
     memory: 50Mi
-podOptions:
-  enableServiceLinks: false
-  hostNetwork: false
-  hostPID: false
-  hostUsers: false
-  hostIPC: false
-  shareProcessNamespace: false
-  restartPolicy: Always
-  dnsPolicy: ClusterFirst
-  dnsConfig:
-    options:
-      - name: ndots
-        value: "1"
-  hostAliases: []
-  tolerations: []
-  runtimeClassName: ""
-  automountServiceAccountToken: false
-  terminationGracePeriodSeconds: 120
 ```
 
 ---
@@ -377,22 +380,19 @@ securityContext:
     sysctls: []
 ```
 
+> TODO: Restructure from here and above END
+
 ---
 
 ## Images
 
-| Key                      |   Type   | Required | Helm Template |  Default  | Description       |
-| :----------------------- | :------: | :------: | :-----------: | :-------: | :---------------- |
-| .Values.image            |  `map`   |    ✅    |      ❌       | See below | Image             |
-| .Values.image.repository | `string` |    ✅    |      ❌       | See below | Image Repository  |
-| .Values.image.tag        | `string` |    ✅    |      ❌       | See below | Image Tag         |
-| .Values.image.pullPolicy | `string` |    ✅    |      ❌       | See below | Image Pull Policy |
+:::tip
 
-<!-- TODO: Improve descriptions -->
+Use [`imageSelector`](./container/index.md#imageselector) to select the image to use for a container.
 
----
+:::
 
-Defaults:
+Images are defined in the following format:
 
 ```yaml
 image:
@@ -401,47 +401,158 @@ image:
   pullPolicy: IfNotPresent
 ```
 
-You can define additional images using the following convention:
+For additional images, you can define them in the following format:
 
 ```yaml
-workerImage:
+nameImage:
   repository: ""
   tag: ""
   pullPolicy: IfNotPresent
 ```
 
+:::note
+
 There isn't anything special in the above format (`nameImage`), it's just a convention.
 It's also a format that some external tools can use for automatic image updates.
 For example, [Renovate](https://docs.renovatebot.com/modules/manager/helm-values/#additional-information)
 
----
-
-Additional Documentation:
-
-- [workload](workload/index.md)
-- [container](container/index.md)
-- [service](service/index.md)
-- [persistence](persistence/index.md)
-- [configmap](configmap.md)
-- [secret](secret.md)
-- [imagePullSecret](imagePullSecret.md)
-- [serviceAccount](serviceAccount.md)
-- [rbac](rbac.md)
-- [podDisruptionBudget](podDisruptionBudget.md)
-- [webhook](webhook.md)
-- [scaleGPU](scaleGPU.md)
-- [scaleCertificate](scaleCertificate.md)
-- [scaleExternalInterface](scaleExternalInterface.md)
-- [notes](notes.md)
+:::
 
 ---
 
-Notes:
+### `image`
 
-This applies across all the documentation:
+Defines the image details
 
-- Helm Template:
-  - ❌ means that the value is not templated
-  - ✅ means that the value is templated,
-    for example instead of a hardcoded value, you can set it to `{{ .Values.some.value }}`.
-    and it will be replaced by the value contained in `.Values.some.value` at the installation/upgrade time.
+|            |         |
+| ---------- | ------- |
+| Key        | `image` |
+| Type       | `map`   |
+| Required   | ✅      |
+| Helm `tpl` | ❌      |
+
+Default
+
+```yaml
+image:
+  repository: ""
+  tag: ""
+  pullPolicy: IfNotPresent
+```
+
+Example
+
+```yaml
+image:
+  repository: "myrepo"
+  tag: "latest"
+  pullPolicy: IfNotPresent
+```
+
+---
+
+### `image.repository`
+
+Defines the image repository
+
+|            |                    |
+| ---------- | ------------------ |
+| Key        | `image.repository` |
+| Type       | `string`           |
+| Required   | ✅                 |
+| Helm `tpl` | ❌                 |
+| Default    | `""`               |
+
+Example
+
+```yaml
+image:
+  repository: "myrepo"
+```
+
+---
+
+### `image.tag`
+
+Defines the image tag
+
+|            |             |
+| ---------- | ----------- |
+| Key        | `image.tag` |
+| Type       | `string`    |
+| Required   | ✅          |
+| Helm `tpl` | ❌          |
+| Default    | `""`        |
+
+Example
+
+```yaml
+image:
+  tag: "latest"
+```
+
+---
+
+### `image.pullPolicy`
+
+Defines the image pull policy
+
+|            |                    |
+| ---------- | ------------------ |
+| Key        | `image.pullPolicy` |
+| Type       | `string`           |
+| Required   | ✅                 |
+| Helm `tpl` | ❌                 |
+| Default    | `IfNotPresent`     |
+
+Example
+
+```yaml
+image:
+  pullPolicy: IfNotPresent
+```
+
+---
+
+## Additional Documentation
+
+- [certificate](./certificate.md)
+- [configmap](./configmap.md)
+- [container](./container/index.md)
+- [imagePullSecret](./imagePullSecret.md)
+- [notes](./notes.md)
+- [persistence](./persistence/index.md)
+- [podDisruptionBudget](./podDisruptionBudget.md)
+- [priorityClass](./priorityClass.md)
+- [rbac](./rbac.md)
+- [scaleCertificate](./scaleCertificate.md)
+- [scaleExternalInterface](./scaleExternalInterface.md)
+- [scaleGPU](./scaleGPU.md)
+- [secret](./secret.md)
+- [service](./service/index.md)
+- [serviceAccount](./serviceAccount.md)
+- [storageClass](./storageClass.md)
+- [volumeSnapshot](./volumeSnapshot.md)
+- [volumeSnapshotClass](./volumeSnapshotClass.md)
+- [webhook](./webhook.md)
+- [webhook](./webhook.md)
+- [workload](./workload/index.md)
+
+---
+
+## Full Examples
+
+```yaml
+operator:
+  register: false
+  verify:
+    enabled: true
+    additionalOperators:
+      - operator1
+      - operator2
+extraTpl:
+  - |
+    apiVersion: v1
+    kind: Deployment
+    ...
+```

@@ -142,6 +142,7 @@ words:
   - targetport
   - tccr
   - templating
+  - tolerations
   - topo
   - traefik
   - trivy
