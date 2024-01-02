@@ -2,16 +2,16 @@
 title: traefik
 ---
 
-![Version: 25.1.7](https://img.shields.io/badge/Version-25.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.10.5](https://img.shields.io/badge/AppVersion-2.10.5-informational?style=flat-square)
+![Version: 25.1.8](https://img.shields.io/badge/Version-25.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.10.7](https://img.shields.io/badge/AppVersion-2.10.7-informational?style=flat-square)
 
 Traefik is a flexible reverse proxy and Ingress Provider.
 
 ## Chart Sources
 
 - https://github.com/traefik/traefik-helm-chart
-- https://github.com/truecharts/charts/tree/master/charts/enterprise/traefik
 - https://traefik.io/
 - https://github.com/traefik/traefik
+- https://github.com/truecharts/charts/tree/master/charts/enterprise/traefik
 
 ## Available Documentation
 
