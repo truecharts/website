@@ -2,7 +2,7 @@
 title: cert-manager
 ---
 
-![Version: 3.1.6](https://img.shields.io/badge/Version-3.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.1.7](https://img.shields.io/badge/Version-3.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Cert-Manager is a kubernetes-aware certificate manager
 
