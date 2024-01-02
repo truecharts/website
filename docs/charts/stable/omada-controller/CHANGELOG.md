@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [omada-controller-12.1.5](https://github.com/truecharts/charts/compare/omada-controller-12.1.4...omada-controller-12.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [omada-controller-12.1.4](https://github.com/truecharts/charts/compare/omada-controller-12.1.3...omada-controller-12.1.4) (2024-01-01)
 
 ### Chore

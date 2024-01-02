@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [cherry-3.0.13](https://github.com/truecharts/charts/compare/cherry-3.0.12...cherry-3.0.13) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [cherry-3.0.12](https://github.com/truecharts/charts/compare/cherry-3.0.11...cherry-3.0.12) (2024-01-02)
 
 ### Chore

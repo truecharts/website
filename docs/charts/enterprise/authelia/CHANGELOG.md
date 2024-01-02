@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [authelia-22.1.7](https://github.com/truecharts/charts/compare/authelia-22.1.6...authelia-22.1.7) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [authelia-22.1.6](https://github.com/truecharts/charts/compare/authelia-22.1.5...authelia-22.1.6) (2024-01-02)
 
 ### Chore

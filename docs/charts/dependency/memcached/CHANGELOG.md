@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [memcached-11.1.6](https://github.com/truecharts/charts/compare/memcached-11.1.5...memcached-11.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [memcached-11.1.5](https://github.com/truecharts/charts/compare/memcached-11.1.4...memcached-11.1.5) (2024-01-02)
 
 ### Chore

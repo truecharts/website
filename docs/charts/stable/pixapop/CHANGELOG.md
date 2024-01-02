@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [pixapop-9.1.5](https://github.com/truecharts/charts/compare/pixapop-9.1.4...pixapop-9.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [pixapop-9.1.4](https://github.com/truecharts/charts/compare/pixapop-9.1.3...pixapop-9.1.4) (2024-01-01)
 
 ### Chore

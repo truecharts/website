@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [csi-driver-nfs-1.0.14](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.13...csi-driver-nfs-1.0.14) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [csi-driver-nfs-1.0.13](https://github.com/truecharts/charts/compare/csi-driver-nfs-1.0.12...csi-driver-nfs-1.0.13) (2024-01-02)
 
 ### Chore

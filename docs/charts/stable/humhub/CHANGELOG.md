@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [humhub-6.1.7](https://github.com/truecharts/charts/compare/humhub-6.1.6...humhub-6.1.7) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [humhub-6.1.6](https://github.com/truecharts/charts/compare/humhub-6.1.5...humhub-6.1.6) (2024-01-02)
 
 ### Chore

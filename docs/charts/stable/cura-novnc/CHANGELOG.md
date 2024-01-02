@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [cura-novnc-7.1.6](https://github.com/truecharts/charts/compare/cura-novnc-7.1.5...cura-novnc-7.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [cura-novnc-7.1.5](https://github.com/truecharts/charts/compare/cura-novnc-7.1.4...cura-novnc-7.1.5) (2024-01-02)
 
 ### Chore

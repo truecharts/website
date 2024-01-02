@@ -2,15 +2,15 @@
 title: jackett
 ---
 
-![Version: 18.1.4](https://img.shields.io/badge/Version-18.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.21.1155](https://img.shields.io/badge/AppVersion-0.21.1155-informational?style=flat-square)
+![Version: 18.1.5](https://img.shields.io/badge/Version-18.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.21.1155](https://img.shields.io/badge/AppVersion-0.21.1155-informational?style=flat-square)
 
 API Support for your favorite torrent trackers.
 
 ## Chart Sources
 
+- https://github.com/Jackett/Jackett
 - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
 - https://ghcr.io/linuxserver/jackett
-- https://github.com/Jackett/Jackett
 
 ## Available Documentation
 

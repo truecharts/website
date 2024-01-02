@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [projectsend-11.1.8](https://github.com/truecharts/charts/compare/projectsend-11.1.7...projectsend-11.1.8) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [projectsend-11.1.7](https://github.com/truecharts/charts/compare/projectsend-11.1.6...projectsend-11.1.7) (2024-01-02)
 
 ### Chore

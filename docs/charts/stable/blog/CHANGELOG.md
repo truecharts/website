@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [blog-10.1.6](https://github.com/truecharts/charts/compare/blog-10.1.5...blog-10.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [blog-10.1.5](https://github.com/truecharts/charts/compare/blog-10.1.4...blog-10.1.5) (2024-01-02)
 
 ### Chore

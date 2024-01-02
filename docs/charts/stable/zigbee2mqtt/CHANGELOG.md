@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [zigbee2mqtt-10.3.1](https://github.com/truecharts/charts/compare/zigbee2mqtt-10.3.0...zigbee2mqtt-10.3.1) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [zigbee2mqtt-10.3.0](https://github.com/truecharts/charts/compare/zigbee2mqtt-10.2.4...zigbee2mqtt-10.3.0) (2024-01-02)
 
 ### Chore

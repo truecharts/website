@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [cadquery-jupyter-3.0.13](https://github.com/truecharts/charts/compare/cadquery-jupyter-3.0.12...cadquery-jupyter-3.0.13) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [cadquery-jupyter-3.0.12](https://github.com/truecharts/charts/compare/cadquery-jupyter-3.0.11...cadquery-jupyter-3.0.12) (2024-01-02)
 
 ### Chore

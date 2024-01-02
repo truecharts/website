@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [zerotier-8.1.5](https://github.com/truecharts/charts/compare/zerotier-8.1.4...zerotier-8.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [zerotier-8.1.4](https://github.com/truecharts/charts/compare/zerotier-8.1.3...zerotier-8.1.4) (2024-01-01)
 
 ### Chore

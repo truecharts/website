@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [airsonic-advanced-12.1.6](https://github.com/truecharts/charts/compare/airsonic-advanced-12.1.5...airsonic-advanced-12.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [airsonic-advanced-12.1.5](https://github.com/truecharts/charts/compare/airsonic-advanced-12.1.4...airsonic-advanced-12.1.5) (2024-01-02)
 
 ### Chore

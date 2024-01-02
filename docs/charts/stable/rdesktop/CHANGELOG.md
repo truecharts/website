@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [rdesktop-7.1.22](https://github.com/truecharts/charts/compare/rdesktop-7.1.21...rdesktop-7.1.22) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [rdesktop-7.1.21](https://github.com/truecharts/charts/compare/rdesktop-7.1.10...rdesktop-7.1.21) (2024-01-02)
 
 ### Chore

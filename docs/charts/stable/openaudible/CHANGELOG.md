@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [openaudible-4.1.5](https://github.com/truecharts/charts/compare/openaudible-4.1.4...openaudible-4.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [openaudible-4.1.4](https://github.com/truecharts/charts/compare/openaudible-4.1.3...openaudible-4.1.4) (2024-01-01)
 
 ### Chore

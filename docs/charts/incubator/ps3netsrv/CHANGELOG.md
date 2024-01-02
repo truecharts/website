@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [ps3netsrv-3.0.13](https://github.com/truecharts/charts/compare/ps3netsrv-3.0.12...ps3netsrv-3.0.13) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [ps3netsrv-3.0.12](https://github.com/truecharts/charts/compare/ps3netsrv-3.0.11...ps3netsrv-3.0.12) (2024-01-02)
 
 ### Chore

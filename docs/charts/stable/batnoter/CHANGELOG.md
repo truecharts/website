@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [batnoter-4.1.6](https://github.com/truecharts/charts/compare/batnoter-4.1.5...batnoter-4.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [batnoter-4.1.5](https://github.com/truecharts/charts/compare/batnoter-4.1.4...batnoter-4.1.5) (2024-01-02)
 
 ### Chore

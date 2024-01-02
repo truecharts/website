@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [money-balancer-3.0.13](https://github.com/truecharts/charts/compare/money-balancer-3.0.12...money-balancer-3.0.13) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [money-balancer-3.0.12](https://github.com/truecharts/charts/compare/money-balancer-3.0.11...money-balancer-3.0.12) (2024-01-02)
 
 ### Chore

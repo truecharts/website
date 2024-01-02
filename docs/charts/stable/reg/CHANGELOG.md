@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [reg-12.1.5](https://github.com/truecharts/charts/compare/reg-12.1.4...reg-12.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [reg-12.1.4](https://github.com/truecharts/charts/compare/reg-12.1.3...reg-12.1.4) (2024-01-01)
 
 ### Chore

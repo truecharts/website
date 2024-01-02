@@ -4,6 +4,51 @@ title: Changelog
 
 
 
+## [owncloud-ocis-11.0.31](https://github.com/truecharts/charts/compare/owncloud-ocis-11.0.20...owncloud-ocis-11.0.31) (2024-01-02)
+
+### Chore
+
+
+
+- Bump everything to force min/max scale version update
+
+- move new-common incubator stuff to stable ([#15646](https://github.com/truecharts/charts/issues/15646))
+
+- increase common version for oci fixes
+
+- fix move mistake and cleanup metadata
+
+- bump all charts for OCI test push
+
+- move everything to consume OCI-hosted common-chart dependency
+
+- force bump to ensure up-to-date catalogs
+
+- bump everything to ensure patches are applied globally
+
+- bump patch versions on all charts for new GUI release
+
+- update helm chart common to 16.2.6 ([#15731](https://github.com/truecharts/charts/issues/15731))
+
+- standardize ./img references ([#16704](https://github.com/truecharts/charts/issues/16704))
+
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))
+
+- fix some refs ([#16749](https://github.com/truecharts/charts/issues/16749))
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+### Fix
+
+
+
+- correct mistaken common references
+
+- bump to release middleware fix
+
+- expose custom options for homepage integration
+
+
 ## [owncloud-ocis-11.0.30](https://github.com/truecharts/charts/compare/owncloud-ocis-11.0.20...owncloud-ocis-11.0.30) (2024-01-02)
 
 ### Chore

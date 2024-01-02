@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [clamav-9.1.6](https://github.com/truecharts/charts/compare/clamav-9.1.5...clamav-9.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [clamav-9.1.5](https://github.com/truecharts/charts/compare/clamav-9.1.4...clamav-9.1.5) (2024-01-02)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [typecho-9.0.13](https://github.com/truecharts/charts/compare/typecho-9.0.12...typecho-9.0.13) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [typecho-9.0.12](https://github.com/truecharts/charts/compare/typecho-9.0.11...typecho-9.0.12) (2024-01-02)
 
 ### Chore

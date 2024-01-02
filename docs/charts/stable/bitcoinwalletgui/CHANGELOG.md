@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [bitcoinwalletgui-4.1.6](https://github.com/truecharts/charts/compare/bitcoinwalletgui-4.1.5...bitcoinwalletgui-4.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [bitcoinwalletgui-4.1.5](https://github.com/truecharts/charts/compare/bitcoinwalletgui-4.1.4...bitcoinwalletgui-4.1.5) (2024-01-02)
 
 ### Chore

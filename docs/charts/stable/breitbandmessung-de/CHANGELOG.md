@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [breitbandmessung-de-4.1.6](https://github.com/truecharts/charts/compare/breitbandmessung-de-4.1.5...breitbandmessung-de-4.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [breitbandmessung-de-4.1.5](https://github.com/truecharts/charts/compare/breitbandmessung-de-4.1.4...breitbandmessung-de-4.1.5) (2024-01-02)
 
 ### Chore

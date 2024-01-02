@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [watcharr-3.1.7](https://github.com/truecharts/charts/compare/watcharr-3.1.6...watcharr-3.1.7) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [watcharr-3.1.6](https://github.com/truecharts/charts/compare/watcharr-3.1.4...watcharr-3.1.6) (2024-01-02)
 
 ### Chore

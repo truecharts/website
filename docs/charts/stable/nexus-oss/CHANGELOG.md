@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nexus-oss-4.1.5](https://github.com/truecharts/charts/compare/nexus-oss-4.1.4...nexus-oss-4.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [nexus-oss-4.1.4](https://github.com/truecharts/charts/compare/nexus-oss-4.1.3...nexus-oss-4.1.4) (2024-01-01)
 
 ### Chore

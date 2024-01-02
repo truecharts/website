@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [pasta-7.1.5](https://github.com/truecharts/charts/compare/pasta-7.1.4...pasta-7.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [pasta-7.1.4](https://github.com/truecharts/charts/compare/pasta-7.1.3...pasta-7.1.4) (2024-01-01)
 
 ### Chore

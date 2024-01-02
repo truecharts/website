@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [budge-8.1.6](https://github.com/truecharts/charts/compare/budge-8.1.5...budge-8.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [budge-8.1.5](https://github.com/truecharts/charts/compare/budge-8.1.4...budge-8.1.5) (2024-01-02)
 
 ### Chore

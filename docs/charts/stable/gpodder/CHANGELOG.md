@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [gpodder-4.1.5](https://github.com/truecharts/charts/compare/gpodder-4.1.4...gpodder-4.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [gpodder-4.1.4](https://github.com/truecharts/charts/compare/gpodder-4.1.3...gpodder-4.1.4) (2024-01-01)
 
 ### Chore

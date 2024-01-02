@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [xmrig-4.1.6](https://github.com/truecharts/charts/compare/xmrig-4.1.5...xmrig-4.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [xmrig-4.1.5](https://github.com/truecharts/charts/compare/xmrig-4.1.4...xmrig-4.1.5) (2024-01-01)
 
 ### Chore

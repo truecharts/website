@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [static-web-server-3.1.6](https://github.com/truecharts/charts/compare/static-web-server-3.1.5...static-web-server-3.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [static-web-server-3.1.5](https://github.com/truecharts/charts/compare/static-web-server-3.1.4...static-web-server-3.1.5) (2024-01-01)
 
 ### Chore

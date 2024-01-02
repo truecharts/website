@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [qbitrr-2.1.5](https://github.com/truecharts/charts/compare/qbitrr-2.1.4...qbitrr-2.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [qbitrr-2.1.4](https://github.com/truecharts/charts/compare/qbitrr-2.1.3...qbitrr-2.1.4) (2024-01-01)
 
 ### Chore

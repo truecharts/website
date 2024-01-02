@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [homepage-6.3.6](https://github.com/truecharts/charts/compare/homepage-6.3.5...homepage-6.3.6) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [homepage-6.3.5](https://github.com/truecharts/charts/compare/homepage-6.3.4...homepage-6.3.5) (2024-01-01)
 
 ### Chore

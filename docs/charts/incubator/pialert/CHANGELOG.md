@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [pialert-3.0.13](https://github.com/truecharts/charts/compare/pialert-3.0.12...pialert-3.0.13) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [pialert-3.0.12](https://github.com/truecharts/charts/compare/pialert-3.0.11...pialert-3.0.12) (2024-01-02)
 
 ### Chore

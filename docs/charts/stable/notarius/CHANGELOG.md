@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [notarius-4.1.5](https://github.com/truecharts/charts/compare/notarius-4.1.4...notarius-4.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [notarius-4.1.4](https://github.com/truecharts/charts/compare/notarius-4.1.3...notarius-4.1.4) (2024-01-01)
 
 ### Chore

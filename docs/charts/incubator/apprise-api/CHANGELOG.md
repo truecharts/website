@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [apprise-api-4.0.13](https://github.com/truecharts/charts/compare/apprise-api-4.0.12...apprise-api-4.0.13) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [apprise-api-4.0.12](https://github.com/truecharts/charts/compare/apprise-api-4.0.11...apprise-api-4.0.12) (2024-01-02)
 
 ### Chore

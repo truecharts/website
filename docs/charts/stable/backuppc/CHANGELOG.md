@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [backuppc-5.1.8](https://github.com/truecharts/charts/compare/backuppc-5.1.7...backuppc-5.1.8) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [backuppc-5.1.7](https://github.com/truecharts/charts/compare/backuppc-5.1.6...backuppc-5.1.7) (2024-01-02)
 
 ### Chore

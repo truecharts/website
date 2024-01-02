@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [invitarr-4.1.5](https://github.com/truecharts/charts/compare/invitarr-4.1.4...invitarr-4.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [invitarr-4.1.4](https://github.com/truecharts/charts/compare/invitarr-4.1.3...invitarr-4.1.4) (2024-01-01)
 
 ### Chore

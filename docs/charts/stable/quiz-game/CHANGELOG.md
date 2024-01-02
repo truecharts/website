@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [quiz-game-4.1.5](https://github.com/truecharts/charts/compare/quiz-game-4.1.4...quiz-game-4.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [quiz-game-4.1.4](https://github.com/truecharts/charts/compare/quiz-game-4.1.3...quiz-game-4.1.4) (2024-01-01)
 
 ### Chore

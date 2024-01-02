@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [quassel-core-10.1.5](https://github.com/truecharts/charts/compare/quassel-core-10.1.4...quassel-core-10.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [quassel-core-10.1.4](https://github.com/truecharts/charts/compare/quassel-core-10.1.3...quassel-core-10.1.4) (2024-01-01)
 
 ### Chore

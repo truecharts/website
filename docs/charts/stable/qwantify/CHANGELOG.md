@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [qwantify-2.1.5](https://github.com/truecharts/charts/compare/qwantify-2.1.4...qwantify-2.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [qwantify-2.1.4](https://github.com/truecharts/charts/compare/qwantify-2.1.3...qwantify-2.1.4) (2024-01-01)
 
 ### Chore

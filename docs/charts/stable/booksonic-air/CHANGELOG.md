@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [booksonic-air-12.1.7](https://github.com/truecharts/charts/compare/booksonic-air-12.1.6...booksonic-air-12.1.7) (2024-01-02)
+
+### Chore
+
+
+
+- force bump to ensure up-to-date catalogs
+
+
 ## [booksonic-air-12.1.6](https://github.com/truecharts/charts/compare/booksonic-air-12.1.5...booksonic-air-12.1.6) (2024-01-02)
 
 ### Chore
