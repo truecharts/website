@@ -232,7 +232,7 @@ operator:
 
 ## `podOptions`
 
-Options that apply to all pods
+Options that apply to all pods, unless overridden at the pod level
 
 :::note
 
@@ -273,40 +273,87 @@ podOptions:
 
 ---
 
-> TODO: Restructure from here and below START
+## `containerOptions`
 
-## Global Values that apply on pods/containers
+Options that apply to all containers, unless overridden at the container level
 
-All of the below values are applied on all pods/containers, but can be overridden on the pod/container level.
-This is so, you can have a single point to define the values from the scale UI,
-but still have the ability to override them on the pod/container level, in case you need to.
+:::note
 
-| Key                                  |   Type   | Required | Helm Template |  Default  | Description                                                     |
-| :----------------------------------- | :------: | :------: | :-----------: | :-------: | :-------------------------------------------------------------- |
-| .Values.TZ                           | `string` |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                     |
-| .Values.namespace                    | `string` |    ❌    |      ✅       |   `""`    | Namespace to apply to all objects, does not apply to chart deps |
-| .Values.containerOptions             |  `map`   |    ✅    |      ❌       | See below | Container options that apply to all containers                  |
-| .Values.containerOptions.NVIDIA_CAPS |  `list`  |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)              |
-| .Values.resources                    |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.limits             |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.limits.cpu         | `string` |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.limits.memory      | `string` |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.requests           |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.requests.cpu       | `string` |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.requests.memory    | `string` |    ✅    |      ❌       | See below | Resources                                                       |
+See more info about containerOptions [here](./containerOptions.md)
 
-<!-- TODO: Improve descriptions -->
+:::
 
----
+|            |                                            |
+| ---------- | ------------------------------------------ |
+| Key        | `containerOptions`                         |
+| Type       | `map`                                      |
+| Required   | ❌                                         |
+| Helm `tpl` | ❌                                         |
+| Default    | See [here](./containerOptions.md#defaults) |
 
-Defaults:
+Example
 
 ```yaml
-TZ: UTC
-namespace: ""
 containerOptions:
   NVIDIA_CAPS:
     - all
+```
+
+---
+
+## `TZ`
+
+Timezone that is used everywhere applicable, unless overridden at the container level
+
+|            |       |
+| ---------- | ----- |
+| Key        | `TZ`  |
+| Type       | `map` |
+| Required   | ✅    |
+| Helm `tpl` | ❌    |
+| Default    | `UTC` |
+
+Example
+
+```yaml
+TZ: UTC
+```
+
+---
+
+## `namespace`
+
+Namespace to apply to all objects, unless overridden at the object level
+
+:::note
+
+Does not apply to chart deps, use global.namespace for that
+
+:::
+
+---
+
+## `resources`
+
+Define resources for all containers, unless overridden at the container level
+
+:::note
+
+Resources apply to **EACH** container, not to the pod as a whole.
+
+:::
+
+|            |                                     |
+| ---------- | ----------------------------------- |
+| Key        | `resources`                         |
+| Type       | `map`                               |
+| Required   | ✅                                  |
+| Helm `tpl` | ❌                                  |
+| Default    | See [here](./resources.md#defaults) |
+
+Example
+
+```yaml
 resources:
   limits:
     cpu: 4000m
@@ -444,7 +491,7 @@ Example
 
 ```yaml
 image:
-  repository: "myrepo"
+  repository: "my-repo"
   tag: "latest"
   pullPolicy: IfNotPresent
 ```
@@ -467,7 +514,7 @@ Example
 
 ```yaml
 image:
-  repository: "myrepo"
+  repository: "my-repo"
 ```
 
 ---
