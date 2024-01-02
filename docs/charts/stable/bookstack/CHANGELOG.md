@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [bookstack-11.2.8](https://github.com/truecharts/charts/compare/bookstack-11.2.7...bookstack-11.2.8) (2024-01-02)
+
+### Chore
+
+
+
+- update helm general non-major by renovate ([#16820](https://github.com/truecharts/charts/issues/16820))
+
+
 ## [bookstack-11.2.7](https://github.com/truecharts/charts/compare/bookstack-11.2.6...bookstack-11.2.7) (2024-01-02)
 
 ### Chore

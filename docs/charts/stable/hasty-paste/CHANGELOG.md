@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [hasty-paste-5.1.8](https://github.com/truecharts/charts/compare/hasty-paste-5.1.7...hasty-paste-5.1.8) (2024-01-02)
+
+### Chore
+
+
+
+- update helm general non-major by renovate ([#16820](https://github.com/truecharts/charts/issues/16820))
+
+
 ## [hasty-paste-5.1.7](https://github.com/truecharts/charts/compare/hasty-paste-5.1.6...hasty-paste-5.1.7) (2024-01-02)
 
 ### Chore

@@ -2,7 +2,7 @@
 title: blocky
 ---
 
-![Version: 12.1.7](https://img.shields.io/badge/Version-12.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.22"](https://img.shields.io/badge/AppVersion-"0.22"-informational?style=flat-square)
+![Version: 12.1.8](https://img.shields.io/badge/Version-12.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "0.22"](https://img.shields.io/badge/AppVersion-"0.22"-informational?style=flat-square)
 
 Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written in Go
 
