@@ -230,26 +230,50 @@ operator:
 
 ---
 
-## Full Examples
+## `podOptions`
+
+Options that apply to all pods
+
+:::note
+
+See more info about podOptions [here](./podOptions.md)
+
+:::
+
+|            |                                      |
+| ---------- | ------------------------------------ |
+| Key        | `podOptions`                         |
+| Type       | `map`                                |
+| Required   | ❌                                   |
+| Helm `tpl` | ❌                                   |
+| Default    | See [here](./podOptions.md#defaults) |
+
+Example
 
 ```yaml
-operator:
-  register: false
-  verify:
-    enabled: true
-    additionalOperators:
-      - operator1
-      - operator2
-extraTpl:
-  - |
-    apiVersion: v1
-    kind: Deployment
-    ...
+podOptions:
+  enableServiceLinks: false
+  hostNetwork: false
+  hostPID: false
+  hostUsers: false
+  hostIPC: false
+  shareProcessNamespace: false
+  restartPolicy: Always
+  dnsPolicy: ClusterFirst
+  dnsConfig:
+    options:
+      - name: ndots
+        value: "1"
+  hostAliases: []
+  tolerations: []
+  runtimeClassName: ""
+  automountServiceAccountToken: false
+  terminationGracePeriodSeconds: 120
 ```
 
-> TODO: Restructure from here and below
-
 ---
+
+> TODO: Restructure from here and below START
 
 ## Global Values that apply on pods/containers
 
@@ -257,34 +281,19 @@ All of the below values are applied on all pods/containers, but can be overridde
 This is so, you can have a single point to define the values from the scale UI,
 but still have the ability to override them on the pod/container level, in case you need to.
 
-| Key                                              |   Type   | Required | Helm Template |  Default  | Description                                                            |
-| :----------------------------------------------- | :------: | :------: | :-----------: | :-------: | :--------------------------------------------------------------------- |
-| .Values.TZ                                       | `string` |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                            |
-| .Values.namespace                                | `string` |    ❌    |      ✅       |   `""`    | Namespace to apply to all objects, does not apply to chart deps        |
-| .Values.containerOptions                         |  `map`   |    ✅    |      ❌       | See below | Container options that apply to all containers                         |
-| .Values.containerOptions.NVIDIA_CAPS             |  `list`  |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)                     |
-| .Values.resources                                |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.limits                         |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.limits.cpu                     | `string` |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.limits.memory                  | `string` |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.requests                       |  `map`   |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.requests.cpu                   | `string` |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.resources.requests.memory                | `string` |    ✅    |      ❌       | See below | Resources                                                              |
-| .Values.podOptions                               |  `map`   |    ✅    |      ❌       | See below | Options that apply to all pods                                         |
-| .Values.podOptions.enableServiceLinks            |  `bool`  |    ✅    |      ❌       | See below | enableServiceLinks                                                     |
-| .Values.podOptions.hostNetwork                   |  `bool`  |    ✅    |      ❌       | See below | hostNetwork                                                            |
-| .Values.podOptions.hostIPC                       |  `bool`  |    ✅    |      ❌       | See below | hostIPC                                                                |
-| .Values.podOptions.hostPID                       |  `bool`  |    ✅    |      ❌       | See below | hostPID                                                                |
-| .Values.podOptions.hostUsers                     |  `bool`  |    ✅    |      ❌       | See below | hostUsers                                                              |
-| .Values.podOptions.shareProcessNamespace         |  `bool`  |    ✅    |      ❌       | See below | shareProcessNamespace                                                  |
-| .Values.podOptions.restartPolicy                 | `string` |    ✅    |      ❌       | See below | restartPolicy                                                          |
-| .Values.podOptions.dnsPolicy                     | `string` |    ✅    |      ❌       | See below | dnsPolicy                                                              |
-| .Values.podOptions.dnsConfig                     |  `list`  |    ✅    |      ❌       | See below | dnsConfig                                                              |
-| .Values.podOptions.hostAliases                   |  `list`  |    ✅    |      ❌       | See below | hostAliases                                                            |
-| .Values.podOptions.tolerations                   |  `list`  |    ✅    |      ❌       | See below | tolerations                                                            |
-| .Values.podOptions.runtimeClassName              | `string` |    ✅    |      ❌       | See below | runtimeClassName (value in ixChartContext will always take precedence) |
-| .Values.podOptions.automountServiceAccountToken  |  `bool`  |    ✅    |      ❌       | See below | automountServiceAccountToken                                           |
-| .Values.podOptions.terminationGracePeriodSeconds |  `int`   |    ✅    |      ❌       | See below | terminationGracePeriodSeconds                                          |
+| Key                                  |   Type   | Required | Helm Template |  Default  | Description                                                     |
+| :----------------------------------- | :------: | :------: | :-----------: | :-------: | :-------------------------------------------------------------- |
+| .Values.TZ                           | `string` |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                     |
+| .Values.namespace                    | `string` |    ❌    |      ✅       |   `""`    | Namespace to apply to all objects, does not apply to chart deps |
+| .Values.containerOptions             |  `map`   |    ✅    |      ❌       | See below | Container options that apply to all containers                  |
+| .Values.containerOptions.NVIDIA_CAPS |  `list`  |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)              |
+| .Values.resources                    |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.limits             |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.limits.cpu         | `string` |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.limits.memory      | `string` |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.requests           |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.requests.cpu       | `string` |    ✅    |      ❌       | See below | Resources                                                       |
+| .Values.resources.requests.memory    | `string` |    ✅    |      ❌       | See below | Resources                                                       |
 
 <!-- TODO: Improve descriptions -->
 
@@ -305,24 +314,6 @@ resources:
   requests:
     cpu: 10m
     memory: 50Mi
-podOptions:
-  enableServiceLinks: false
-  hostNetwork: false
-  hostPID: false
-  hostUsers: false
-  hostIPC: false
-  shareProcessNamespace: false
-  restartPolicy: Always
-  dnsPolicy: ClusterFirst
-  dnsConfig:
-    options:
-      - name: ndots
-        value: "1"
-  hostAliases: []
-  tolerations: []
-  runtimeClassName: ""
-  automountServiceAccountToken: false
-  terminationGracePeriodSeconds: 120
 ```
 
 ---
@@ -388,6 +379,8 @@ securityContext:
     supplementalGroups: []
     sysctls: []
 ```
+
+> TODO: Restructure from here and above END
 
 ---
 
@@ -546,3 +539,20 @@ image:
 - [workload](./workload/index.md)
 
 ---
+
+## Full Examples
+
+```yaml
+operator:
+  register: false
+  verify:
+    enabled: true
+    additionalOperators:
+      - operator1
+      - operator2
+extraTpl:
+  - |
+    apiVersion: v1
+    kind: Deployment
+    ...
+```
