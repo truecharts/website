@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [openebs-2.1.6](https://github.com/truecharts/charts/compare/openebs-2.1.5...openebs-2.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- fix some refs ([#16749](https://github.com/truecharts/charts/issues/16749))
+
+
 ## [openebs-2.1.5](https://github.com/truecharts/charts/compare/openebs-2.1.4...openebs-2.1.5) (2024-01-01)
 
 ### Chore

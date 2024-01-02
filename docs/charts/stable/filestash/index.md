@@ -2,7 +2,7 @@
 title: filestash
 ---
 
-![Version: 5.1.4](https://img.shields.io/badge/Version-5.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.1.6](https://img.shields.io/badge/Version-5.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A Dropbox-like file manager that let you manage your data anywhere it is located.
 
@@ -11,7 +11,7 @@ A Dropbox-like file manager that let you manage your data anywhere it is located
 - https://github.com/mickael-kerjean/filestash
 - https://www.filestash.app/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/filestash
-- https://github.com/truecharts/containers/tree/master/mirrorfilestash
+- https://hub.docker.com/r/machines/filestash
 
 ## Available Documentation
 

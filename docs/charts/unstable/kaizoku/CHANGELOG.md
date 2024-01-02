@@ -4,6 +4,57 @@ title: Changelog
 
 
 
+## [kaizoku-0.1.17](https://github.com/truecharts/charts/compare/kaizoku-0.1.7...kaizoku-0.1.17) (2024-01-02)
+
+### Chore
+
+
+
+- bump patch versions on all charts for new GUI release
+
+- move new-common incubator stuff to stable ([#15646](https://github.com/truecharts/charts/issues/15646))
+
+- bump all charts for OCI test push
+
+- fix move mistake and cleanup metadata
+
+- increase common version for oci fixes
+
+- bump everything to ensure patches are applied globally
+
+- move everything to consume OCI-hosted common-chart dependency
+
+- Bump everything to force min/max scale version update
+
+- update helm chart redis to 10.0.0 ([#16018](https://github.com/truecharts/charts/issues/16018))
+
+- update helm chart common to 14.5.0 ([#15704](https://github.com/truecharts/charts/issues/15704))
+
+- update helm chart redis to 10.0.1 ([#16184](https://github.com/truecharts/charts/issues/16184))
+
+- update helm chart common to 16.2.6 ([#15731](https://github.com/truecharts/charts/issues/15731))
+
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))
+
+- standardize ./img references ([#16704](https://github.com/truecharts/charts/issues/16704))
+
+- fix some refs ([#16749](https://github.com/truecharts/charts/issues/16749))
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+### Fix
+
+
+
+- correct mistaken common references
+
+- bump to release middleware fix
+
+- ensure the cnpg GUI is included on CNPG apps
+
+- expose custom options for homepage integration
+
+
 ## [kaizoku-0.1.15](https://github.com/truecharts/charts/compare/kaizoku-0.1.7...kaizoku-0.1.15) (2024-01-01)
 
 ### Chore

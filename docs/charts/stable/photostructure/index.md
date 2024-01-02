@@ -2,7 +2,7 @@
 title: photostructure
 ---
 
-![Version: 5.1.4](https://img.shields.io/badge/Version-5.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.0](https://img.shields.io/badge/AppVersion-2.1.0-informational?style=flat-square)
+![Version: 5.1.6](https://img.shields.io/badge/Version-5.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.0-alpha.7](https://img.shields.io/badge/AppVersion-2.1.0-alpha.7-informational?style=flat-square)
 
 PhotoStructure is your new home for all your photos and videos.
 
@@ -10,7 +10,7 @@ PhotoStructure is your new home for all your photos and videos.
 
 - https://github.com/photostructure/photostructure-for-servers
 - https://github.com/truecharts/charts/tree/master/charts/incubator/photostructure
-- https://github.com/truecharts/containers/tree/master/mirrorphotostructure
+- https://hub.docker.com/r/photostructure/server
 
 ## Available Documentation
 

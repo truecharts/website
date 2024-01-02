@@ -2,7 +2,7 @@
 title: factorio
 ---
 
-![Version: 6.1.4](https://img.shields.io/badge/Version-6.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
+![Version: 6.1.6](https://img.shields.io/badge/Version-6.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
 
 A game in which you build and maintain factories.
 
@@ -10,7 +10,7 @@ A game in which you build and maintain factories.
 
 - https://github.com/factoriotools/factorio-docker
 - https://github.com/truecharts/charts/tree/master/charts/incubator/factorio
-- https://github.com/truecharts/containers/tree/master/mirrorfactorio
+- https://hub.docker.com/r/factoriotools/factorio
 
 ## Available Documentation
 

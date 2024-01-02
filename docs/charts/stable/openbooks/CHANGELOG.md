@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [openbooks-3.1.6](https://github.com/truecharts/charts/compare/openbooks-3.1.4...openbooks-3.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- fix some refs ([#16749](https://github.com/truecharts/charts/issues/16749))
+
+
 ## [openbooks-3.1.4](https://github.com/truecharts/charts/compare/openbooks-3.1.3...openbooks-3.1.4) (2024-01-01)
 
 ### Chore

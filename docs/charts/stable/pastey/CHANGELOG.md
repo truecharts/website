@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [pastey-5.1.6](https://github.com/truecharts/charts/compare/pastey-5.1.4...pastey-5.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- fix some refs ([#16749](https://github.com/truecharts/charts/issues/16749))
+
+
 ## [pastey-5.1.4](https://github.com/truecharts/charts/compare/pastey-5.1.3...pastey-5.1.4) (2024-01-01)
 
 ### Chore
