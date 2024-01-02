@@ -98,13 +98,13 @@ persistence:
 
 Define the persistence type
 
-|            |                                                  |
-| ---------- | ------------------------------------------------ |
-| Key        | `persistence.$name.type`                         |
-| Type       | `string`                                         |
-| Required   | ❌                                               |
-| Helm `tpl` | ❌                                               |
-| Default    | `{{ .Values.fallbackDefaults.persistenceType }}` |
+|            |                                                            |
+| ---------- | ---------------------------------------------------------- |
+| Key        | `persistence.$name.type`                                   |
+| Type       | `string`                                                   |
+| Required   | ❌                                                         |
+| Helm `tpl` | ❌                                                         |
+| Default    | See default [here](../fallbackDefaults.md#persistencetype) |
 
 Valid Values:
 
@@ -227,13 +227,13 @@ persistence:
 
 Define wether to define this volume to all workloads and mount it on all containers
 
-|            |                                                             |
-| ---------- | ----------------------------------------------------------- |
-| Key        | `persistence.$name.targetSelectAll`                         |
-| Type       | `bool`                                                      |
-| Required   | ❌                                                          |
-| Helm `tpl` | ❌                                                          |
-| Default    | `{{ .Values.fallbackDefaults.persistenceTargetSelectAll }}` |
+|            |                                     |
+| ---------- | ----------------------------------- |
+| Key        | `persistence.$name.targetSelectAll` |
+| Type       | `bool`                              |
+| Required   | ❌                                  |
+| Helm `tpl` | ❌                                  |
+| Default    | `false`                             |
 
 Example
 
