@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [dispatch-4.1.5](https://github.com/truecharts/charts/compare/dispatch-4.1.4...dispatch-4.1.5) (2024-01-02)
+
+### Chore
+
+
+
+- bump common ([#16751](https://github.com/truecharts/charts/issues/16751))
+
+
 ## [dispatch-4.1.4](https://github.com/truecharts/charts/compare/dispatch-4.1.3...dispatch-4.1.4) (2024-01-01)
 
 ### Chore

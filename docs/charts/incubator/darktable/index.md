@@ -2,7 +2,7 @@
 title: darktable
 ---
 
-![Version: 7.0.11](https://img.shields.io/badge/Version-7.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.1](https://img.shields.io/badge/AppVersion-4.0.1-informational?style=flat-square)
+![Version: 7.0.12](https://img.shields.io/badge/Version-7.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.1](https://img.shields.io/badge/AppVersion-4.0.1-informational?style=flat-square)
 
 Darktable is an open source photography workflow application and raw developer.
 

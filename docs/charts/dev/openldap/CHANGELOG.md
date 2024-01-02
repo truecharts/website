@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [openldap-11.0.12](https://github.com/truecharts/charts/compare/openldap-11.0.11...openldap-11.0.12) (2024-01-02)
+
+### Chore
+
+
+
+- bump common ([#16751](https://github.com/truecharts/charts/issues/16751))
+
+
 ## [openldap-11.0.11](https://github.com/truecharts/charts/compare/openldap-11.0.10...openldap-11.0.11) (2024-01-01)
 
 ### Chore
