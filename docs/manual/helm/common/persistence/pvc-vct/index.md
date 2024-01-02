@@ -95,13 +95,13 @@ persistence:
 Define wether the to add helm annotation to retain resource on uninstall.
 This does not **guarantee** that the resource will be retained.
 
-|            |                                                   |
-| ---------- | ------------------------------------------------- |
-| Key        | `persistence.$name.retain`                        |
-| Type       | `bool`                                         |
-| Required   | ❌                                                |
-| Helm `tpl` | ❌                                                |
-| Default    | `{{ .Values.global.fallbackDefaults.pvcRetain }}` |
+|            |                                                         |
+| ---------- | ------------------------------------------------------- |
+| Key        | `persistence.$name.retain`                              |
+| Type       | `bool`                                                  |
+| Required   | ❌                                                      |
+| Helm `tpl` | ❌                                                      |
+| Default    | See default [here](../../fallbackDefaults.md#pvcretain) |
 
 Example
 
@@ -117,13 +117,13 @@ persistence:
 
 Define the accessModes of the PVC, if it's single can be defined as a string, multiple as a list
 
-|            |                                                        |
-| ---------- | ------------------------------------------------------ |
-| Key        | `persistence.$name.accessModes`                        |
-| Type       | `string` or `list`                                     |
-| Required   | ❌                                                     |
-| Helm `tpl` | ✅                                                     |
-| Default    | `{{ .Values.global.fallbackDefaults.pvcAccessModes }}` |
+|            |                                                           |
+| ---------- | --------------------------------------------------------- |
+| Key        | `persistence.$name.accessModes`                           |
+| Type       | `string` or `list`                                        |
+| Required   | ❌                                                        |
+| Helm `tpl` | ✅                                                        |
+| Default    | See default [here](../../fallbackDefaults.md#accessmodes) |
 
 Example
 
@@ -189,13 +189,13 @@ persistence:
 
 Define the size of the PVC
 
-|            |                                                         |
-| ---------- | ------------------------------------------------------- |
-| Key        | `persistence.$name.size`                                |
-| Type       | `string`                                                |
-| Required   | ❌                                                      |
-| Helm `tpl` | ✅                                                      |
-| Default    | `{{ .Values.global.fallbackDefaults.pvcSize/vctSize }}` |
+|            |                                                                                                           |
+| ---------- | --------------------------------------------------------------------------------------------------------- |
+| Key        | `persistence.$name.size`                                                                                  |
+| Type       | `string`                                                                                                  |
+| Required   | ❌                                                                                                        |
+| Helm `tpl` | ✅                                                                                                        |
+| Default    | See default [pvcSize](../../fallbackDefaults.md#pvcsize) and [vctSize](../../fallbackDefaults.md#vctsize) |
 
 Example
 
@@ -218,7 +218,7 @@ Define the storageClass to use
   - `SCALE-ZFS` **->** `{{ .Values.global.ixChartContext.storageClassName }}`
   - Else **->** as is
 - Else if **ixChartContext (TrueNAS SCALE)**, **->** `{{ .Values.global.ixChartContext.storageClassName }}`.
-- Else if `{{ .Values.fallbackDefaults.storageClass }}`, **->** this
+- Else if [fallback storageClass](../../fallbackDefaults.md#storageclass), **->** this
 - Else **->** _nothing_ (which means requesting a PV without class)
 
 :::
@@ -480,7 +480,7 @@ Define if the volumeSnapshot is enabled
 |            |                                               |
 | ---------- | --------------------------------------------- |
 | Key        | `persistence.$name.volumeSnapshots[].enabled` |
-| Type       | `bool`                                     |
+| Type       | `bool`                                        |
 | Required   | ❌                                            |
 | Helm `tpl` | ❌                                            |
 | Default    | `false`                                       |

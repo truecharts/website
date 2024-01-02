@@ -98,13 +98,20 @@ service:
 
 Define the port protocol Used by the container ports and probes, http and https are converted to tcp where needed
 
-|            |                                                  |
-| ---------- | ------------------------------------------------ |
-| Key        | `service.$name.ports.$port-name.protocol`        |
-| Type       | `string`                                         |
-| Required   | ❌                                               |
-| Helm `tpl` | ✅                                               |
-| Default    | `{{ .Values.fallbackDefaults.serviceProtocol }}` |
+|            |                                                            |
+| ---------- | ---------------------------------------------------------- |
+| Key        | `service.$name.ports.$port-name.protocol`                  |
+| Type       | `string`                                                   |
+| Required   | ❌                                                         |
+| Helm `tpl` | ✅                                                         |
+| Default    | See default [here](../fallbackDefaults.md#serviceprotocol) |
+
+Valid Values:
+
+- `tcp`
+- `udp`
+- `http`
+- `https`
 
 Example
 

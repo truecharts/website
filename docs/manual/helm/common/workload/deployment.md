@@ -137,13 +137,13 @@ Can only be used when `workload.$name.strategy` is `RollingUpdate`
 
 :::
 
-|            |                                                 |
-| ---------- | ----------------------------------------------- |
-| Key        | `workload.$name.rollingUpdate.maxUnavailable`   |
-| Type       | `int`                                           |
-| Required   | ❌                                              |
-| Helm `tpl` | ❌                                              |
-| Default    | `{{ .Values.fallbackDefaults.maxUnavailable }}` |
+|            |                                               |
+| ---------- | --------------------------------------------- |
+| Key        | `workload.$name.rollingUpdate.maxUnavailable` |
+| Type       | `int`                                         |
+| Required   | ❌                                            |
+| Helm `tpl` | ❌                                            |
+| Default    | unset                                         |
 
 Example
 
@@ -166,13 +166,13 @@ Can only be used when `workload.$name.strategy` is `RollingUpdate`
 
 :::
 
-|            |                                           |
-| ---------- | ----------------------------------------- |
-| Key        | `workload.$name.rollingUpdate.maxSurge`   |
-| Type       | `int`                                     |
-| Required   | ❌                                        |
-| Helm `tpl` | ❌                                        |
-| Default    | `{{ .Values.fallbackDefaults.maxSurge }}` |
+|            |                                         |
+| ---------- | --------------------------------------- |
+| Key        | `workload.$name.rollingUpdate.maxSurge` |
+| Type       | `int`                                   |
+| Required   | ❌                                      |
+| Helm `tpl` | ❌                                      |
+| Default    | unset                                   |
 
 Example
 

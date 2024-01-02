@@ -123,7 +123,7 @@ Enable or disable the probe
 |            |                                                                 |
 | ---------- | --------------------------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.probes.$probe.enabled` |
-| Type       | `bool`                                                       |
+| Type       | `bool`                                                          |
 | Required   | ✅                                                              |
 | Helm `tpl` | ❌                                                              |
 | Default    | `true`                                                          |
@@ -331,7 +331,7 @@ Define the initialDelaySeconds in seconds
 | Type       | `int`                                                                            |
 | Required   | ❌                                                                               |
 | Helm `tpl` | ❌                                                                               |
-| Default    | `{{ .Values.fallbackDefaults.probeTimeouts.$probe.initialDelaySeconds }}`        |
+| Default    | See defaults for each probe [here](../fallbackDefaults.md#probetimeouts)         |
 
 Example
 
@@ -359,7 +359,7 @@ Define the periodSeconds in seconds
 | Type       | `int`                                                                      |
 | Required   | ❌                                                                         |
 | Helm `tpl` | ❌                                                                         |
-| Default    | `{{ .Values.fallbackDefaults.probeTimeouts.$probe.periodSeconds }}`        |
+| Default    | See defaults for each probe [here](../fallbackDefaults.md#probetimeouts)   |
 
 Example
 
@@ -387,7 +387,7 @@ Define the timeoutSeconds in seconds
 | Type       | `int`                                                                       |
 | Required   | ❌                                                                          |
 | Helm `tpl` | ❌                                                                          |
-| Default    | `{{ .Values.fallbackDefaults.probeTimeouts.$probe.timeoutSeconds }}`        |
+| Default    | See defaults for each probe [here](../fallbackDefaults.md#probetimeouts)    |
 
 Example
 
@@ -415,7 +415,7 @@ Define the failureThreshold in seconds
 | Type       | `int`                                                                         |
 | Required   | ❌                                                                            |
 | Helm `tpl` | ❌                                                                            |
-| Default    | `{{ .Values.fallbackDefaults.probeTimeouts.$probe.failureThreshold }}`        |
+| Default    | See defaults for each probe [here](../fallbackDefaults.md#probetimeouts)      |
 
 Example
 
@@ -443,7 +443,7 @@ Define the successThreshold in seconds. `liveness` and `startup` must always be 
 | Type       | `int`                                                                         |
 | Required   | ❌                                                                            |
 | Helm `tpl` | ❌                                                                            |
-| Default    | `{{ .Values.fallbackDefaults.probeTimeouts.$probe.successThreshold }}`        |
+| Default    | See defaults for each probe [here](../fallbackDefaults.md#probetimeouts)      |
 
 Example
 
