@@ -13,6 +13,18 @@ title: Common Chart Documentation
 
 - `.Values`
 
+## Notes
+
+This applies across all the documentation:
+
+- Helm `tpl`:
+  - ❌ means that the value is not templated
+  - ✅ means that the value is templated,
+    for example instead of a hardcoded value, you can set it to `{{ .Values.some.value }}`.
+    and it will be replaced by the value contained in `.Values.some.value` at the installation/upgrade time.
+
+---
+
 ## `global`
 
 Global values that apply to all charts
@@ -381,18 +393,13 @@ securityContext:
 
 ## Images
 
-| Key                      |   Type   | Required | Helm Template |  Default  | Description       |
-| :----------------------- | :------: | :------: | :-----------: | :-------: | :---------------- |
-| .Values.image            |  `map`   |    ✅    |      ❌       | See below | Image             |
-| .Values.image.repository | `string` |    ✅    |      ❌       | See below | Image Repository  |
-| .Values.image.tag        | `string` |    ✅    |      ❌       | See below | Image Tag         |
-| .Values.image.pullPolicy | `string` |    ✅    |      ❌       | See below | Image Pull Policy |
+:::tip
 
-<!-- TODO: Improve descriptions -->
+Use [`imageSelector`](./container/index.md#imageselector) to select the image to use for a container.
 
----
+:::
 
-Defaults:
+Images are defined in the following format:
 
 ```yaml
 image:
@@ -401,47 +408,141 @@ image:
   pullPolicy: IfNotPresent
 ```
 
-You can define additional images using the following convention:
+For additional images, you can define them in the following format:
 
 ```yaml
-workerImage:
+nameImage:
   repository: ""
   tag: ""
   pullPolicy: IfNotPresent
 ```
 
+:::note
+
 There isn't anything special in the above format (`nameImage`), it's just a convention.
 It's also a format that some external tools can use for automatic image updates.
 For example, [Renovate](https://docs.renovatebot.com/modules/manager/helm-values/#additional-information)
 
----
-
-Additional Documentation:
-
-- [workload](workload/index.md)
-- [container](container/index.md)
-- [service](service/index.md)
-- [persistence](persistence/index.md)
-- [configmap](configmap.md)
-- [secret](secret.md)
-- [imagePullSecret](imagePullSecret.md)
-- [serviceAccount](serviceAccount.md)
-- [rbac](rbac.md)
-- [podDisruptionBudget](podDisruptionBudget.md)
-- [webhook](webhook.md)
-- [scaleGPU](scaleGPU.md)
-- [scaleCertificate](scaleCertificate.md)
-- [scaleExternalInterface](scaleExternalInterface.md)
-- [notes](notes.md)
+:::
 
 ---
 
-Notes:
+### `image`
 
-This applies across all the documentation:
+Defines the image details
 
-- Helm Template:
-  - ❌ means that the value is not templated
-  - ✅ means that the value is templated,
-    for example instead of a hardcoded value, you can set it to `{{ .Values.some.value }}`.
-    and it will be replaced by the value contained in `.Values.some.value` at the installation/upgrade time.
+|            |         |
+| ---------- | ------- |
+| Key        | `image` |
+| Type       | `map`   |
+| Required   | ✅      |
+| Helm `tpl` | ❌      |
+
+Default
+
+```yaml
+image:
+  repository: ""
+  tag: ""
+  pullPolicy: IfNotPresent
+```
+
+Example
+
+```yaml
+image:
+  repository: "myrepo"
+  tag: "latest"
+  pullPolicy: IfNotPresent
+```
+
+---
+
+### `image.repository`
+
+Defines the image repository
+
+|            |                    |
+| ---------- | ------------------ |
+| Key        | `image.repository` |
+| Type       | `string`           |
+| Required   | ✅                 |
+| Helm `tpl` | ❌                 |
+| Default    | `""`               |
+
+Example
+
+```yaml
+image:
+  repository: "myrepo"
+```
+
+---
+
+### `image.tag`
+
+Defines the image tag
+
+|            |             |
+| ---------- | ----------- |
+| Key        | `image.tag` |
+| Type       | `string`    |
+| Required   | ✅          |
+| Helm `tpl` | ❌          |
+| Default    | `""`        |
+
+Example
+
+```yaml
+image:
+  tag: "latest"
+```
+
+---
+
+### `image.pullPolicy`
+
+Defines the image pull policy
+
+|            |                    |
+| ---------- | ------------------ |
+| Key        | `image.pullPolicy` |
+| Type       | `string`           |
+| Required   | ✅                 |
+| Helm `tpl` | ❌                 |
+| Default    | `IfNotPresent`     |
+
+Example
+
+```yaml
+image:
+  pullPolicy: IfNotPresent
+```
+
+---
+
+## Additional Documentation
+
+- [certificate](./certificate.md)
+- [configmap](./configmap.md)
+- [container](./container/index.md)
+- [imagePullSecret](./imagePullSecret.md)
+- [notes](./notes.md)
+- [persistence](./persistence/index.md)
+- [podDisruptionBudget](./podDisruptionBudget.md)
+- [priorityClass](./priorityClass.md)
+- [rbac](./rbac.md)
+- [scaleCertificate](./scaleCertificate.md)
+- [scaleExternalInterface](./scaleExternalInterface.md)
+- [scaleGPU](./scaleGPU.md)
+- [secret](./secret.md)
+- [service](./service/index.md)
+- [serviceAccount](./serviceAccount.md)
+- [storageClass](./storageClass.md)
+- [volumeSnapshot](./volumeSnapshot.md)
+- [volumeSnapshotClass](./volumeSnapshotClass.md)
+- [webhook](./webhook.md)
+- [webhook](./webhook.md)
+- [workload](./workload/index.md)
+
+---
