@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [chevereto-11.1.6](https://github.com/truecharts/charts/compare/chevereto-11.1.5...chevereto-11.1.6) (2024-01-02)
+
+### Chore
+
+
+
+- update helm general non-major by renovate ([#16743](https://github.com/truecharts/charts/issues/16743))
+
+
 ## [chevereto-11.1.5](https://github.com/truecharts/charts/compare/chevereto-11.1.4...chevereto-11.1.5) (2024-01-01)
 
 ### Chore
