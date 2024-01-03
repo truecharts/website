@@ -1065,13 +1065,13 @@ workload:
 
 Pod's securityContext
 
-|            |                                                 |
-| ---------- | ----------------------------------------------- |
-| Key        | `workload.$name.podSpec.securityContext`        |
-| Type       | `map`                                           |
-| Required   | ❌                                              |
-| Helm `tpl` | ❌                                              |
-| Default    | `{{ .Values.securityContext.pod }}` (see below) |
+|            |                                                              |
+| ---------- | ------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.securityContext`                     |
+| Type       | `map`                                                        |
+| Required   | ❌                                                           |
+| Helm `tpl` | ❌                                                           |
+| Default    | See default [here](../securityContext.md#securitycontextpod) |
 
 Default
 
@@ -1105,7 +1105,7 @@ Pod's securityContext fsGroup
 | Type       | `int`                                             |
 | Required   | ❌                                                |
 | Helm `tpl` | ❌                                                |
-| Default    | `{{ .Values.securityContext.pod.fsGroup }}` (568) |
+| Default    | See default [here](../securityContext.md#fsgroup) |
 
 Example
 
@@ -1123,13 +1123,13 @@ workload:
 
 Pod's securityContext fsGroupChangePolicy
 
-|            |                                                                          |
-| ---------- | ------------------------------------------------------------------------ |
-| Key        | `workload.$name.podSpec.securityContext.fsGroupChangePolicy`             |
-| Type       | `string`                                                                 |
-| Required   | ❌                                                                       |
-| Helm `tpl` | ❌                                                                       |
-| Default    | `{{ .Values.securityContext.pod.fsGroupChangePolicy }}` (OnRootMismatch) |
+|            |                                                                                 |
+| ---------- | ------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.securityContext.fsGroupChangePolicy`                    |
+| Type       | `string`                                                                        |
+| Required   | ❌                                                                              |
+| Helm `tpl` | ❌                                                                              |
+| Default    | See default [here](../securityContext.md#securitycontextpodfsgroupchangepolicy) |
 
 Valid values
 
@@ -1158,7 +1158,7 @@ Pod's securityContext supplementalGroups
 | Type       | `list` of `int`                                              |
 | Required   | ❌                                                           |
 | Helm `tpl` | ❌                                                           |
-| Default    | `{{ .Values.securityContext.pod.supplementalGroups }}` (568) |
+| Default    | See default [here](../securityContext.md#supplementalgroups) |
 
 Example
 
@@ -1183,13 +1183,13 @@ to the pod. When hostNetwork is enabled the above **sysctl** option will not be 
 
 :::
 
-|            |                                                  |
-| ---------- | ------------------------------------------------ |
-| Key        | `workload.$name.podSpec.securityContext.sysctls` |
-| Type       | `list` of `map`                                  |
-| Required   | ❌                                               |
-| Helm `tpl` | ❌                                               |
-| Default    | `[]`                                             |
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `workload.$name.podSpec.securityContext.sysctls`  |
+| Type       | `list` of `map`                                   |
+| Required   | ❌                                                |
+| Helm `tpl` | ❌                                                |
+| Default    | See default [here](../securityContext.md#sysctls) |
 
 Example
 

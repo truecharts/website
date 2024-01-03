@@ -365,44 +365,28 @@ resources:
 
 ---
 
-## Global Security Context
+## `securityContext`
 
-All of the below values are applied on all pods/containers, but can be overridden on the pod/container level.
-This is so, you can have a single point to define the values from the scale UI,
-but still have the ability to override them on the pod/container level, in case you need to.
+Define security context for all containers and pods, unless overridden at the container/pod level
 
-| Key                                                        |   Type   | Required | Helm Template |  Default  | Description                              |
-| :--------------------------------------------------------- | :------: | :------: | :-----------: | :-------: | :--------------------------------------- |
-| .Values.securityContext                                    |  `map`   |    ✅    |      ❌       | See below | Security Context                         |
-| .Values.securityContext.container                          |  `map`   |    ✅    |      ❌       | See below | Security Context for containers          |
-| .Values.securityContext.container.PUID                     |  `int`   |    ✅    |      ❌       | See below | PUID (Only applied when running as root) |
-| .Values.securityContext.container.UMASK                    | `string` |    ✅    |      ❌       | See below | UMASK                                    |
-| .Values.securityContext.container.runAsNonRoot             |  `bool`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.runAsUser                |  `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.runAsGroup               |  `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.readOnlyRootFilesystem   |  `bool`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.allowPrivilegeEscalation |  `bool`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.privileged               |  `bool`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile           |  `map`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile.type      | `string` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile.profile   | `string` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities             |  `map`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities.add         |  `list`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities.drop        |  `list`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod                                |  `map`   |    ✅    |      ❌       | See below | Security Context for pods                |
-| .Values.securityContext.pod.fsGroup                        |  `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.fsGroupChangePolicy            | `string` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.supplementalGroup              |  `list`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.sysctls                        |  `list`  |    ✅    |      ❌       | See below |                                          |
+:::note
 
-<!-- TODO: Improve descriptions -->
+See more info about securityContext [here](./securityContext.md)
 
-Defaults:
+:::
+
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Key        | `securityContext`                         |
+| Type       | `map`                                     |
+| Required   | ✅                                        |
+| Helm `tpl` | ❌                                        |
+| Default    | See [here](./securityContext.md#defaults) |
+
+Example
 
 ```yaml
 securityContext:
-  # -- Container security context for all containers
-  # Can be overruled per container
   container:
     PUID: 568
     UMASK: "002"
@@ -418,16 +402,12 @@ securityContext:
       add: []
       drop:
         - ALL
-  # -- Pod security context for all pods
-  # Can be overruled per pod
   pod:
     fsGroup: 568
     fsGroupChangePolicy: OnRootMismatch
     supplementalGroups: []
     sysctls: []
 ```
-
-> TODO: Restructure from here and above END
 
 ---
 
