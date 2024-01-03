@@ -23,7 +23,7 @@ title: Resources
 
 ## `resources`
 
-Define resources for the container
+The resources that the container can use.
 
 |            |                                                     |
 | ---------- | --------------------------------------------------- |
@@ -31,7 +31,7 @@ Define resources for the container
 | Type       | `map`                                               |
 | Required   | ✅                                                  |
 | Helm `tpl` | ❌                                                  |
-| Default    | `{{ .Values.containerOptions.resources }}`          |
+| Default    | See [here](../resources.md#defaults)                |
 
 Example
 
@@ -48,7 +48,7 @@ workload:
 
 ### `resources.requests`
 
-Define the requests for the container
+The minimum amount of resources that the container needs.
 
 :::note
 
@@ -63,7 +63,7 @@ Which can lead pods to be evicted or not even scheduled when they reach their `l
 | Type       | `map`                                                        |
 | Required   | ✅                                                           |
 | Helm `tpl` | ❌                                                           |
-| Default    | `{{ .Values.containerOptions.resources.requests }}`          |
+| Default    | See [here](../resources.md#resourcesrequests)                |
 
 Example
 
@@ -81,7 +81,7 @@ workload:
 
 #### `resources.requests.cpu`
 
-Define the requests.cpu for the container
+The minimum amount of CPU that the container can use.
 
 |            |                                                                  |
 | ---------- | ---------------------------------------------------------------- |
@@ -89,7 +89,7 @@ Define the requests.cpu for the container
 | Type       | `string`                                                         |
 | Required   | ✅                                                               |
 | Helm `tpl` | ❌                                                               |
-| Default    | `{{ .Values.containerOptions.resources.requests.cpu }}`          |
+| Default    | See [here](../resources.md#resourcesrequestscpu)                 |
 
 Example
 
@@ -108,7 +108,7 @@ workload:
 
 #### `resources.requests.memory`
 
-Define the requests.memory for the container
+The minimum amount of memory that the container can use.
 
 |            |                                                                     |
 | ---------- | ------------------------------------------------------------------- |
@@ -116,7 +116,7 @@ Define the requests.memory for the container
 | Type       | `string`                                                            |
 | Required   | ✅                                                                  |
 | Helm `tpl` | ❌                                                                  |
-| Default    | `{{ .Values.containerOptions.resources.requests.memory }}`          |
+| Default    | See [here](../resources.md#resourcesrequestsmemory)                 |
 
 Example
 
@@ -135,7 +135,7 @@ workload:
 
 ### `resources.limits`
 
-Define the limits for the container
+The maximum amount of resources that the container can use.
 
 :::note
 
@@ -149,7 +149,7 @@ Limits are **optional**, can be set to "unlimited" by setting it's values (`cpu`
 | Type       | `map`                                                      |
 | Required   | ❌                                                         |
 | Helm `tpl` | ❌                                                         |
-| Default    | `{{ .Values.containerOptions.resources.limits }}`          |
+| Default    | See [here](../resources.md#resourceslimits)                |
 
 Example
 
@@ -167,7 +167,7 @@ workload:
 
 #### `resources.limits.cpu`
 
-Define the limits.cpu for the container
+The maximum amount of CPU that the container can use.
 
 |            |                                                                |
 | ---------- | -------------------------------------------------------------- |
@@ -175,7 +175,7 @@ Define the limits.cpu for the container
 | Type       | `string`                                                       |
 | Required   | ❌                                                             |
 | Helm `tpl` | ❌                                                             |
-| Default    | `{{ .Values.containerOptions.resources.limits.cpu }}`          |
+| Default    | See [here](../resources.md#resourceslimitscpu)                 |
 
 Example
 
@@ -194,7 +194,7 @@ workload:
 
 #### `resources.limits.memory`
 
-Define the limits.memory for the container
+The maximum amount of memory that the container can use.
 
 |            |                                                                   |
 | ---------- | ----------------------------------------------------------------- |
@@ -202,7 +202,7 @@ Define the limits.memory for the container
 | Type       | `string`                                                          |
 | Required   | ❌                                                                |
 | Helm `tpl` | ❌                                                                |
-| Default    | `{{ .Values.containerOptions.resources.limits.memory }}`          |
+| Default    | See [here](../resources.md#resourceslimitsmemory)                 |
 
 Example
 

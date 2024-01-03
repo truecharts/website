@@ -46,13 +46,13 @@ workload:
 
 Define the timezone
 
-|            |                           |
-| ---------- | ------------------------- |
-| Key        | `workload.$name.timezone` |
-| Type       | `string`                  |
-| Required   | ❌                        |
-| Helm `tpl` | ✅                        |
-| Default    | `{{ .Values.TZ }}`        |
+|            |                            |
+| ---------- | -------------------------- |
+| Key        | `workload.$name.timezone`  |
+| Type       | `string`                   |
+| Required   | ❌                         |
+| Helm `tpl` | ✅                         |
+| Default    | See [here](../index.md#tz) |
 
 Example
 

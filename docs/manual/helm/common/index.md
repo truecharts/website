@@ -232,7 +232,7 @@ operator:
 
 ## `podOptions`
 
-Options that apply to all pods
+Options that apply to all pods, unless overridden at the pod level
 
 :::note
 
@@ -273,40 +273,87 @@ podOptions:
 
 ---
 
-> TODO: Restructure from here and below START
+## `containerOptions`
 
-## Global Values that apply on pods/containers
+Options that apply to all containers, unless overridden at the container level
 
-All of the below values are applied on all pods/containers, but can be overridden on the pod/container level.
-This is so, you can have a single point to define the values from the scale UI,
-but still have the ability to override them on the pod/container level, in case you need to.
+:::note
 
-| Key                                  |   Type   | Required | Helm Template |  Default  | Description                                                     |
-| :----------------------------------- | :------: | :------: | :-----------: | :-------: | :-------------------------------------------------------------- |
-| .Values.TZ                           | `string` |    ✅    |      ❌       | See below | Timezone that is used everywhere applicable                     |
-| .Values.namespace                    | `string` |    ❌    |      ✅       |   `""`    | Namespace to apply to all objects, does not apply to chart deps |
-| .Values.containerOptions             |  `map`   |    ✅    |      ❌       | See below | Container options that apply to all containers                  |
-| .Values.containerOptions.NVIDIA_CAPS |  `list`  |    ✅    |      ❌       | See below | NVIDIA_CAPS (Only applied when scaleGPU is passed)              |
-| .Values.resources                    |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.limits             |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.limits.cpu         | `string` |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.limits.memory      | `string` |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.requests           |  `map`   |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.requests.cpu       | `string` |    ✅    |      ❌       | See below | Resources                                                       |
-| .Values.resources.requests.memory    | `string` |    ✅    |      ❌       | See below | Resources                                                       |
+See more info about containerOptions [here](./containerOptions.md)
 
-<!-- TODO: Improve descriptions -->
+:::
 
----
+|            |                                            |
+| ---------- | ------------------------------------------ |
+| Key        | `containerOptions`                         |
+| Type       | `map`                                      |
+| Required   | ❌                                         |
+| Helm `tpl` | ❌                                         |
+| Default    | See [here](./containerOptions.md#defaults) |
 
-Defaults:
+Example
 
 ```yaml
-TZ: UTC
-namespace: ""
 containerOptions:
   NVIDIA_CAPS:
     - all
+```
+
+---
+
+## `TZ`
+
+Timezone that is used everywhere applicable, unless overridden at the container level
+
+|            |       |
+| ---------- | ----- |
+| Key        | `TZ`  |
+| Type       | `map` |
+| Required   | ✅    |
+| Helm `tpl` | ❌    |
+| Default    | `UTC` |
+
+Example
+
+```yaml
+TZ: UTC
+```
+
+---
+
+## `namespace`
+
+Namespace to apply to all objects, unless overridden at the object level
+
+:::note
+
+Does not apply to chart deps, use global.namespace for that
+
+:::
+
+---
+
+## `resources`
+
+Define resources for all containers, unless overridden at the container level
+
+:::note
+
+Resources apply to **EACH** container, not to the pod as a whole.
+
+:::
+
+|            |                                     |
+| ---------- | ----------------------------------- |
+| Key        | `resources`                         |
+| Type       | `map`                               |
+| Required   | ✅                                  |
+| Helm `tpl` | ❌                                  |
+| Default    | See [here](./resources.md#defaults) |
+
+Example
+
+```yaml
 resources:
   limits:
     cpu: 4000m
@@ -318,44 +365,28 @@ resources:
 
 ---
 
-## Global Security Context
+## `securityContext`
 
-All of the below values are applied on all pods/containers, but can be overridden on the pod/container level.
-This is so, you can have a single point to define the values from the scale UI,
-but still have the ability to override them on the pod/container level, in case you need to.
+Define security context for all containers and pods, unless overridden at the container/pod level
 
-| Key                                                        |   Type   | Required | Helm Template |  Default  | Description                              |
-| :--------------------------------------------------------- | :------: | :------: | :-----------: | :-------: | :--------------------------------------- |
-| .Values.securityContext                                    |  `map`   |    ✅    |      ❌       | See below | Security Context                         |
-| .Values.securityContext.container                          |  `map`   |    ✅    |      ❌       | See below | Security Context for containers          |
-| .Values.securityContext.container.PUID                     |  `int`   |    ✅    |      ❌       | See below | PUID (Only applied when running as root) |
-| .Values.securityContext.container.UMASK                    | `string` |    ✅    |      ❌       | See below | UMASK                                    |
-| .Values.securityContext.container.runAsNonRoot             |  `bool`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.runAsUser                |  `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.runAsGroup               |  `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.readOnlyRootFilesystem   |  `bool`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.allowPrivilegeEscalation |  `bool`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.privileged               |  `bool`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile           |  `map`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile.type      | `string` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.seccompProfile.profile   | `string` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities             |  `map`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities.add         |  `list`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.container.capabilities.drop        |  `list`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod                                |  `map`   |    ✅    |      ❌       | See below | Security Context for pods                |
-| .Values.securityContext.pod.fsGroup                        |  `int`   |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.fsGroupChangePolicy            | `string` |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.supplementalGroup              |  `list`  |    ✅    |      ❌       | See below |                                          |
-| .Values.securityContext.pod.sysctls                        |  `list`  |    ✅    |      ❌       | See below |                                          |
+:::note
 
-<!-- TODO: Improve descriptions -->
+See more info about securityContext [here](./securityContext.md)
 
-Defaults:
+:::
+
+|            |                                           |
+| ---------- | ----------------------------------------- |
+| Key        | `securityContext`                         |
+| Type       | `map`                                     |
+| Required   | ✅                                        |
+| Helm `tpl` | ❌                                        |
+| Default    | See [here](./securityContext.md#defaults) |
+
+Example
 
 ```yaml
 securityContext:
-  # -- Container security context for all containers
-  # Can be overruled per container
   container:
     PUID: 568
     UMASK: "002"
@@ -371,16 +402,12 @@ securityContext:
       add: []
       drop:
         - ALL
-  # -- Pod security context for all pods
-  # Can be overruled per pod
   pod:
     fsGroup: 568
     fsGroupChangePolicy: OnRootMismatch
     supplementalGroups: []
     sysctls: []
 ```
-
-> TODO: Restructure from here and above END
 
 ---
 
@@ -444,7 +471,7 @@ Example
 
 ```yaml
 image:
-  repository: "myrepo"
+  repository: "my-repo"
   tag: "latest"
   pullPolicy: IfNotPresent
 ```
@@ -467,7 +494,7 @@ Example
 
 ```yaml
 image:
-  repository: "myrepo"
+  repository: "my-repo"
 ```
 
 ---
@@ -519,12 +546,14 @@ image:
 - [certificate](./certificate.md)
 - [configmap](./configmap.md)
 - [container](./container/index.md)
+- [containerOptions](./containerOptions.md)
 - [imagePullSecret](./imagePullSecret.md)
 - [notes](./notes.md)
 - [persistence](./persistence/index.md)
 - [podDisruptionBudget](./podDisruptionBudget.md)
 - [priorityClass](./priorityClass.md)
 - [rbac](./rbac.md)
+- [resources](./resources.md)
 - [scaleCertificate](./scaleCertificate.md)
 - [scaleExternalInterface](./scaleExternalInterface.md)
 - [scaleGPU](./scaleGPU.md)

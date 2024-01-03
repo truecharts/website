@@ -33,16 +33,17 @@ Override fixedEnv for the container
 
 By default it will set the following environment variables:
 
-- `TZ`: `{{ .Values.TZ }}` (or the value set in the container level under `fixedEnv`)
-- `UMASK`: `{{ .Values.securityContext.container.UMASK }}` (or the value set in the container level under `fixedEnv`)
-- `UMASK_SET`: `{{ .Values.securityContext.container.UMASK }}` (or the value set in the container level under `fixedEnv`)
-- `S6_READ_ONLY_ROOT`: `1` (Only when `readOnlyRootFilesystem` or `runAsNonRoot` is `true`)
-- `PUID`, `USER_ID`, `UID`: `{{ .Values.securityContext.container.PUID }}` (or the value set in the container level under `fixedEnv`)
-  - Only when `runAsUser` or `runAsGroup` is `0`
-- `PGID`, `GROUP_ID`, `GID`: To the `fsGroup` set for the pod (Either the default or the overridden value)
-  - Only when `runAsUser` or `runAsGroup` is `0`
-- `NVIDIA_DRIVER_CAPABILITIES`: `{{ .Values.containerOptions.NVIDIA_CAPS }}` (or the value set in the container level under `fixedEnv`)
-  - Only when `scaleGPU` is assigned to the container
+- `TZ`: [Default TZ](../index.md#tz) or [fixedEnv.TZ](#fixedenvtz)
+- `UMASK`: [Default UMASK](../securityContext.md#securitycontextcontainerumask) or [fixedEnv.UMASK](#fixedenvumask)
+- `UMASK_SET`: [Default UMASK](../securityContext.md#securitycontextcontainerumask) or [fixedEnv.UMASK](#fixedenvumask)
+- `S6_READ_ONLY_ROOT`: `1`
+  - Only when [`readOnlyRootFilesystem`](./securityContext.md#securitycontextreadonlyrootfilesystem) or [`runAsNonRoot`](./securityContext.md#securitycontextrunasnonroot) is `true`
+- `PUID`, `USER_ID`, `UID`: [Default PUID](../securityContext.md#securitycontextcontainerpuid) or [fixedEnv.PUID](#fixedenvpuid)
+  - Only when [`runAsUser`](./securityContext.md#securitycontextrunasuser) or [`runAsGroup`](../securityContext.md#securitycontextcontainerrunasgroup) is `0`
+- `PGID`, `GROUP_ID`, `GID`: Same as [`fsGroup`](../securityContext.md#securitycontextpodfsgroup)
+  - Only when [`runAsUser`](./securityContext.md#securitycontextrunasuser) or [`runAsGroup`](../securityContext.md#securitycontextcontainerrunasgroup) is `0`
+- `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](../containerOptions.md#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](#fixedenvnvidia_caps)
+  - Only when [`scaleGPU`](../scaleGPU.md) is assigned to the container
 
 :::
 
@@ -77,7 +78,7 @@ Override the timezone for the container
 | Type       | `string`                                              |
 | Required   | ❌                                                    |
 | Helm `tpl` | ❌                                                    |
-| Default    | `{{ .Values.TZ }}`                                    |
+| Default    | See [here](../index.md#tz)                            |
 
 Example
 
@@ -97,13 +98,13 @@ workload:
 
 Override the umask for the container
 
-|            |                                                          |
-| ---------- | -------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.fixedEnv.UMASK` |
-| Type       | `string`                                                 |
-| Required   | ❌                                                       |
-| Helm `tpl` | ❌                                                       |
-| Default    | `{{ .Values.securityContext.container.UMASK }}`          |
+|            |                                                                 |
+| ---------- | --------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.fixedEnv.UMASK`        |
+| Type       | `string`                                                        |
+| Required   | ❌                                                              |
+| Helm `tpl` | ❌                                                              |
+| Default    | See [here](../securityContext.md#securitycontextcontainerumask) |
 
 Example
 
@@ -123,13 +124,13 @@ workload:
 
 Override the PUID for the container
 
-|            |                                                         |
-| ---------- | ------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.fixedEnv.PUID` |
-| Type       | `string`                                                |
-| Required   | ❌                                                      |
-| Helm `tpl` | ❌                                                      |
-| Default    | `{{ .Values.securityContext.container.PUID }}`          |
+|            |                                                                |
+| ---------- | -------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.fixedEnv.PUID`        |
+| Type       | `string`                                                       |
+| Required   | ❌                                                             |
+| Helm `tpl` | ❌                                                             |
+| Default    | See [here](../securityContext.md#securitycontextcontainerpuid) |
 
 Example
 
@@ -155,7 +156,7 @@ Override the NVIDIA_CAPS for the container
 | Type       | `list`                                                         |
 | Required   | ❌                                                             |
 | Helm `tpl` | ❌                                                             |
-| Default    | `{{ .Values.securityContext.container.NVIDIA_CAPS }}`          |
+| Default    | See [here](../containerOptions.md#nvidia_caps)                 |
 
 Example
 
