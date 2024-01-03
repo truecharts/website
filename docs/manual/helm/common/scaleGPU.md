@@ -1,26 +1,130 @@
-# Scale GPU
-
-| Key                                                 |   Type   | Required | Helm Template | Default | Description                                   |
-| :-------------------------------------------------- | :------: | :------: | :-----------: | :-----: | :-------------------------------------------- |
-| scaleGPU                                            |  `list`  |    ❌    |      ❌       |  `[]`   | Define the external interfaces as list        |
-| scaleGPU.targetSelector                             |  `map`   |    ❌    |      ❌       |  `{}`   | Where to assign the GPU                       |
-| scaleGPU.targetSelector.[pod-name]                  |  `list`  |    ❌    |      ❌       |  `[]`   | The workload to select                        |
-| scaleGPU.targetSelector.[pod-name].[container-name] | `string` |    ✅    |      ❌       |  `""`   | The container to select                       |
-| scaleGPU.gpu                                        |  `map`   |    ✅    |      ❌       |  `{}`   | The GPU key value pair to define in resources |
-
-> When `targetSelector` is a dict, each entry is a list, containing the name(s) of the container(s) to assign the GPU
-> When `targetSelector` is a empty, it will assign the GPU to the primary pod/container
-> Selected pod's will get appended the group `44` in `supplementalGroups`. This is to allow rootless containers to access the GPU
-
+---
+title: Scale Certificate
 ---
 
-Appears in:
+:::note
+
+- Examples under each key are only to be used as a placement guide
+- See the [Full Examples](#full-examples) section for complete examples.
+
+:::
+
+:::warning
+
+This options are only available through GUI on TrueNAS SCALE
+
+:::
+
+## Appears in
 
 - `.Values.scaleGPU`
 
 ---
 
-Examples:
+## Target Selector
+
+- `targetSelector` (map): Assign the GPU to the selected container(s) in the selected pod(s)
+- `targetSelector` (empty): Assign the GPU to the primary container of the primary pod
+
+Selected pod's will get the group `44` appended in `supplementalGroups`. This is to allow rootless containers to access the GPU
+
+---
+
+## `scaleGPU`
+
+Create Scale GPU objects
+
+|            |                 |
+| ---------- | --------------- |
+| Key        | `scaleGPU`      |
+| Type       | `list` of `map` |
+| Required   | ❌              |
+| Helm `tpl` | ❌              |
+| Default    | `[]`            |
+
+Example
+
+```yaml
+scaleGPU: []
+```
+
+---
+
+### `scaleGPU[].gpu`
+
+The key value pair of the GPU to assign
+
+:::tip
+
+The key/value pair is injected by the TrueNAS SCALE UI.
+
+:::
+
+|            |                  |
+| ---------- | ---------------- |
+| Key        | `scaleGPU[].gpu` |
+| Type       | `map`            |
+| Required   | ✅               |
+| Helm `tpl` | ❌               |
+| Default    | `{}`             |
+
+Example
+
+```yaml
+scaleGPU:
+  - gpu:
+      nvidia.com/gpu: "1"
+```
+
+---
+
+#### `targetSelector`
+
+Define the pod(s) to assign the GPU
+
+|            |                             |
+| ---------- | --------------------------- |
+| Key        | `scaleGPU[].targetSelector` |
+| Type       | `map`                       |
+| Required   | ❌                          |
+| Helm `tpl` | ❌                          |
+| Default    | `{}`                        |
+
+Example
+
+```yaml
+scaleGPU:
+  - targetSelector:
+      workload-name:
+        - container-name
+```
+
+---
+
+#### `targetSelector.$name`
+
+Define the container(s) to assign the GPU
+
+|            |                                   |
+| ---------- | --------------------------------- |
+| Key        | `scaleGPU[].targetSelector.$name` |
+| Type       | `list` of `string`                |
+| Required   | ❌                                |
+| Helm `tpl` | ❌                                |
+| Default    | `[]`                              |
+
+Example
+
+```yaml
+scaleGPU:
+  - targetSelector:
+      workload-name:
+        - container-name
+```
+
+---
+
+## Full Examples
 
 ```yaml
 scaleGPU:
