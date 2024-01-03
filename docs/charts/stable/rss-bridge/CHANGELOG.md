@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [rss-bridge-8.1.6](https://github.com/truecharts/charts/compare/rss-bridge-8.1.5...rss-bridge-8.1.6) (2024-01-03)
+
+### Fix
+
+
+
+- disable varrun vol ([#16856](https://github.com/truecharts/charts/issues/16856))
+
+
 ## [rss-bridge-8.1.5](https://github.com/truecharts/charts/compare/rss-bridge-8.1.4...rss-bridge-8.1.5) (2024-01-02)
 
 ### Chore
