@@ -560,6 +560,7 @@ image:
 - [secret](./secret.md)
 - [service](./service/index.md)
 - [serviceAccount](./serviceAccount.md)
+- [securityContext](./securityContext.md)
 - [storageClass](./storageClass.md)
 - [volumeSnapshot](./volumeSnapshot.md)
 - [volumeSnapshotClass](./volumeSnapshotClass.md)
