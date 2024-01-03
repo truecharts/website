@@ -2,16 +2,16 @@
 title: lazylibrarian
 ---
 
-![Version: 17.1.6](https://img.shields.io/badge/Version-17.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 17.1.7](https://img.shields.io/badge/Version-17.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Get all your books, like series with Sonarr...
 
 ## Chart Sources
 
+- https://ghcr.io/linuxserver/lazylibrarian
 - https://gitlab.com/LazyLibrarian/LazyLibrarian.git
 - https://lazylibrarian.gitlab.io
 - https://github.com/truecharts/charts/tree/master/charts/stable/lazylibrarian
-- https://ghcr.io/linuxserver/lazylibrarian
 
 ## Available Documentation
 
