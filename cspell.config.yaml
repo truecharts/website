@@ -6,6 +6,7 @@ words:
   - ampproject
   - appname
   - Authelia
+  - automount
   - autoprefixer
   - backoff
   - backupname
@@ -85,6 +86,7 @@ words:
   - modelstore
   - mountpoint
   - Mullvad
+  - ndots
   - nextcloud
   - nobind
   - nodelib
@@ -119,6 +121,7 @@ words:
   - sabnzbd
   - scandir
   - schouten
+  - seccomp
   - selfsigned
   - service
   - serviceexpert
@@ -138,6 +141,7 @@ words:
   - svcname
   - svgr
   - syncthing
+  - sysctls
   - systemjs
   - targetport
   - tccr
