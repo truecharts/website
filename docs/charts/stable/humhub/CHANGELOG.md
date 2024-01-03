@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [humhub-6.2.0](https://github.com/truecharts/charts/compare/humhub-6.1.8...humhub-6.2.0) (2024-01-03)
+
+### Fix
+
+
+
+- split containers and fix bug ([#16858](https://github.com/truecharts/charts/issues/16858))
+
+
 ## [humhub-6.1.8](https://github.com/truecharts/charts/compare/humhub-6.1.7...humhub-6.1.8) (2024-01-02)
 
 ### Chore
