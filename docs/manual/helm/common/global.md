@@ -236,17 +236,9 @@ global:
 
 ### `traefik.enableFixedMiddlewares`
 
-Enable fixed middlewares for traefik
+See documentation [here](./ingress/traefik.md#enablefixedmiddlewares)
 
-|            |                                         |
-| ---------- | --------------------------------------- |
-| Key        | `global.traefik.enableFixedMiddlewares` |
-| Type       | `bool`                                  |
-| Required   | ❌                                      |
-| Helm `tpl` | ❌                                      |
-| Default    | `true`                                  |
-
-Example
+Default
 
 ```yaml
 global:
@@ -258,14 +250,7 @@ global:
 
 ### `traefik.fixedMiddlewares`
 
-Fixed middlewares for traefik
-
-|            |                                   |
-| ---------- | --------------------------------- |
-| Key        | `global.traefik.fixedMiddlewares` |
-| Type       | `list` of `map`                   |
-| Required   | ❌                                |
-| Helm `tpl` | ❌                                |
+See documentation [here](./ingress/traefik.md#fixedmiddlewares)
 
 Default
 
@@ -277,29 +262,11 @@ global:
         namespace: ""
 ```
 
-Example
-
-```yaml
-global:
-  traefik:
-    fixedMiddlewares:
-      - name: my-custom-middleware
-        namespace: my-namespace
-```
-
 ---
 
 #### `traefik.fixedMiddlewares[].name`
 
-Name of the middleware
-
-|            |                                          |
-| ---------- | ---------------------------------------- |
-| Key        | `global.traefik.fixedMiddlewares[].name` |
-| Type       | `string`                                 |
-| Required   | ❌                                       |
-| Helm `tpl` | ❌                                       |
-| Default    | `""`                                     |
+See documentation [here](./ingress/traefik.md#fixedmiddlewaresname)
 
 Example
 
@@ -314,22 +281,7 @@ global:
 
 #### `traefik.fixedMiddlewares[].namespace`
 
-Namespace of the middleware
-
-:::tip
-
-If not defined, helm will do a lookup and try to find the namespace of the middleware.
-If more than one namespaces are found, it will throw an error.
-
-:::
-
-|            |                                               |
-| ---------- | --------------------------------------------- |
-| Key        | `global.traefik.fixedMiddlewares[].namespace` |
-| Type       | `string`                                      |
-| Required   | ❌                                            |
-| Helm `tpl` | ❌                                            |
-| Default    | `""`                                          |
+See documentation [here](./ingress/traefik.md#fixedmiddlewaresnamespace)
 
 Example
 
