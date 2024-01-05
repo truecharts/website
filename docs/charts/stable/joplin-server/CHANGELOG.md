@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [joplin-server-16.2.0](https://github.com/truecharts/charts/compare/joplin-server-16.1.5...joplin-server-16.2.0) (2024-01-05)
+
+### Fix
+
+
+
+- update mailer sec variable name ([#16883](https://github.com/truecharts/charts/issues/16883))
+
+
 ## [joplin-server-16.1.5](https://github.com/truecharts/charts/compare/joplin-server-16.1.4...joplin-server-16.1.5) (2024-01-02)
 
 ### Chore
