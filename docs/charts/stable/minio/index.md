@@ -6,6 +6,12 @@ title: minio
 
 Minio is a self-hosted S3 storage server
 
+:::Caution
+
+When using a PVC the backup data will be stored on the dataset that holds the app data. If minio is used to store backup data to safe guard your application data it is recommended to configure it on a different zpool, this can be done with a hostpath.
+
+:::
+
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/minio
@@ -15,3 +21,4 @@ Minio is a self-hosted S3 storage server
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
+- [**Installation Notes**](./installation_notes.md)
