@@ -2,16 +2,16 @@
 title: komga
 ---
 
-![Version: 12.1.5](https://img.shields.io/badge/Version-12.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.9.2](https://img.shields.io/badge/AppVersion-1.9.2-informational?style=flat-square)
+![Version: 12.2.0](https://img.shields.io/badge/Version-12.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.0](https://img.shields.io/badge/AppVersion-1.10.0-informational?style=flat-square)
 
 A comics/mangas server to serve/stream pages via API
 
 ## Chart Sources
 
 - https://github.com/gotson/komga
-- https://komga.org/
 - https://github.com/truecharts/charts/tree/master/charts/stable/komga
 - https://hub.docker.com/r/gotson/komga
+- https://komga.org/
 
 ## Available Documentation
 
