@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [prometheus-16.2.2](https://github.com/truecharts/charts/compare/prometheus-16.2.1...prometheus-16.2.2) (2024-01-09)
+
+### Chore
+
+
+
+- update helm general non-major by renovate ([#17057](https://github.com/truecharts/charts/issues/17057))
+
+
 ## [prometheus-16.2.1](https://github.com/truecharts/charts/compare/prometheus-16.2.0...prometheus-16.2.1) (2024-01-07)
 
 ### Chore

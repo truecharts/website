@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [plausible-8.2.3](https://github.com/truecharts/charts/compare/plausible-8.2.2...plausible-8.2.3) (2024-01-09)
+
+### Chore
+
+
+
+- update helm general non-major by renovate ([#17057](https://github.com/truecharts/charts/issues/17057))
+
+
 ## [plausible-8.2.2](https://github.com/truecharts/charts/compare/plausible-8.2.1...plausible-8.2.2) (2024-01-02)
 
 ### Chore

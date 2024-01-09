@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [youtubedl-material-9.1.10](https://github.com/truecharts/charts/compare/youtubedl-material-9.1.9...youtubedl-material-9.1.10) (2024-01-09)
+
+### Chore
+
+
+
+- update helm general non-major by renovate ([#17057](https://github.com/truecharts/charts/issues/17057))
+
+
 ## [youtubedl-material-9.1.9](https://github.com/truecharts/charts/compare/youtubedl-material-9.1.8...youtubedl-material-9.1.9) (2024-01-02)
 
 ### Chore

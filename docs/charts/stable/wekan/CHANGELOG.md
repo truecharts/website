@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [wekan-13.3.1](https://github.com/truecharts/charts/compare/wekan-13.3.0...wekan-13.3.1) (2024-01-09)
+
+### Chore
+
+
+
+- update helm general non-major by renovate ([#17057](https://github.com/truecharts/charts/issues/17057))
+
+
 ## [wekan-13.3.0](https://github.com/truecharts/charts/compare/wekan-13.2.8...wekan-13.3.0) (2024-01-03)
 
 ### Chore
