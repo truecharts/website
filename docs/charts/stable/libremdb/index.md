@@ -2,14 +2,14 @@
 title: libremdb
 ---
 
-![Version: 6.1.14](https://img.shields.io/badge/Version-6.1.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.1.15](https://img.shields.io/badge/Version-6.1.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A free & open source IMDb front-end.
 
 ## Chart Sources
 
-- https://github.com/zyachel/libremdb
 - https://github.com/PussTheCat-org/docker-libremdb-quay
+- https://github.com/zyachel/libremdb
 - https://github.com/truecharts/charts/tree/master/charts/stable/libremdb
 - https://quay.io/pussthecatorg/libremdb
 
