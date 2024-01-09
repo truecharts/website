@@ -2,7 +2,7 @@
 title: redis
 ---
 
-![Version: 11.1.6](https://img.shields.io/badge/Version-11.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.2.3](https://img.shields.io/badge/AppVersion-7.2.3-informational?style=flat-square)
+![Version: 11.1.7](https://img.shields.io/badge/Version-11.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.2.3](https://img.shields.io/badge/AppVersion-7.2.3-informational?style=flat-square)
 
 Open source, advanced key-value store.
 

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [plextraktsync-6.2.1](https://github.com/truecharts/charts/compare/plextraktsync-6.2.0...plextraktsync-6.2.1) (2024-01-09)
+
+### Chore
+
+
+
+- update container image common to v17.2.22[@e7c9056](https://github.com/e7c9056) by renovate ([#16986](https://github.com/truecharts/charts/issues/16986))
+
+
 ## [plextraktsync-6.2.0](https://github.com/truecharts/charts/compare/plextraktsync-6.1.10...plextraktsync-6.2.0) (2024-01-08)
 
 ### Chore

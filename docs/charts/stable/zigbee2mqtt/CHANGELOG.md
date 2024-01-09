@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [zigbee2mqtt-10.3.3](https://github.com/truecharts/charts/compare/zigbee2mqtt-10.3.2...zigbee2mqtt-10.3.3) (2024-01-09)
+
+### Chore
+
+
+
+- update container image common to v17.2.22[@e7c9056](https://github.com/e7c9056) by renovate ([#16986](https://github.com/truecharts/charts/issues/16986))
+
+
 ## [zigbee2mqtt-10.3.2](https://github.com/truecharts/charts/compare/zigbee2mqtt-10.3.1...zigbee2mqtt-10.3.2) (2024-01-08)
 
 ### Chore

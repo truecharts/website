@@ -2,15 +2,15 @@
 title: ddns-go
 ---
 
-![Version: 8.1.7](https://img.shields.io/badge/Version-8.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.7.1](https://img.shields.io/badge/AppVersion-5.7.1-informational?style=flat-square)
+![Version: 8.1.8](https://img.shields.io/badge/Version-8.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.7.1](https://img.shields.io/badge/AppVersion-5.7.1-informational?style=flat-square)
 
 Automatically obtain your public network IPv4 or IPv6 address and resolve it to the corresponding domain name service
 
 ## Chart Sources
 
+- https://hub.docker.com/r/jeessy/ddns-go
 - https://github.com/jeessy2/ddns-go
 - https://github.com/truecharts/charts/tree/master/charts/stable/ddns-go
-- https://hub.docker.com/r/jeessy/ddns-go
 
 ## Available Documentation
 

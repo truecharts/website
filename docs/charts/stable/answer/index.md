@@ -2,15 +2,15 @@
 title: answer
 ---
 
-![Version: 2.1.8](https://img.shields.io/badge/Version-2.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.0](https://img.shields.io/badge/AppVersion-1.2.0-informational?style=flat-square)
+![Version: 2.1.9](https://img.shields.io/badge/Version-2.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.0](https://img.shields.io/badge/AppVersion-1.2.0-informational?style=flat-square)
 
 A Q&A platform software for teams at any scales.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/answerdev/answer
 - https://github.com/answerdev/answer
 - https://github.com/truecharts/charts/tree/master/charts/incubator/answer
+- https://hub.docker.com/r/answerdev/answer
 
 ## Available Documentation
 

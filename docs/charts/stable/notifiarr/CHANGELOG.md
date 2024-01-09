@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [notifiarr-3.1.6](https://github.com/truecharts/charts/compare/notifiarr-3.1.5...notifiarr-3.1.6) (2024-01-09)
+
+### Chore
+
+
+
+- update container image common to v17.2.22[@e7c9056](https://github.com/e7c9056) by renovate ([#16986](https://github.com/truecharts/charts/issues/16986))
+
+
 ## [notifiarr-3.1.5](https://github.com/truecharts/charts/compare/notifiarr-3.1.4...notifiarr-3.1.5) (2024-01-02)
 
 ### Chore

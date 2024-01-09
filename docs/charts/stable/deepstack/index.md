@@ -2,7 +2,7 @@
 title: deepstack
 ---
 
-![Version: 10.1.6](https://img.shields.io/badge/Version-10.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2022.01.1](https://img.shields.io/badge/AppVersion-2022.01.1-informational?style=flat-square)
+![Version: 10.1.7](https://img.shields.io/badge/Version-10.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2022.01.1](https://img.shields.io/badge/AppVersion-2022.01.1-informational?style=flat-square)
 
 DeepStack AI provides AI features including Face Recognition, Object Detection, Scene Recognition and custom AI Models
 

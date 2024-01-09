@@ -2,15 +2,15 @@
 title: avidemux
 ---
 
-![Version: 7.1.6](https://img.shields.io/badge/Version-7.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2](https://img.shields.io/badge/AppVersion-23.11.2-informational?style=flat-square)
+![Version: 7.1.7](https://img.shields.io/badge/Version-7.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.11.2](https://img.shields.io/badge/AppVersion-23.11.2-informational?style=flat-square)
 
 Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/jlesage/avidemux
 - https://github.com/jlesage/docker-avidemux
 - https://github.com/truecharts/charts/tree/master/charts/stable/avidemux
+- https://hub.docker.com/r/jlesage/avidemux
 
 ## Available Documentation
 

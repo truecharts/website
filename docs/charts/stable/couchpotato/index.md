@@ -2,14 +2,14 @@
 title: couchpotato
 ---
 
-![Version: 8.1.6](https://img.shields.io/badge/Version-8.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.1.7](https://img.shields.io/badge/Version-8.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Couchpotato is an automatic NZB and torrent downloader.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/couchpotato
 - https://ghcr.io/linuxserver/couchpotato
+- https://github.com/truecharts/charts/tree/master/charts/stable/couchpotato
 
 ## Available Documentation
 
