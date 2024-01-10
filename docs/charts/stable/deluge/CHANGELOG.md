@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [deluge-17.1.8](https://github.com/truecharts/charts/compare/deluge-17.1.7...deluge-17.1.8) (2024-01-10)
+
+
 ## [deluge-17.1.7](https://github.com/truecharts/charts/compare/deluge-17.1.6...deluge-17.1.7) (2024-01-09)
 
 ### Chore
