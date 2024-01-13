@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [satisfactory-8.1.7](https://github.com/truecharts/charts/compare/satisfactory-8.1.6...satisfactory-8.1.7) (2024-01-13)
+
+### Fix
+
+
+
+- fix wrong variable name for query port ([#17091](https://github.com/truecharts/charts/issues/17091))
+
+
 ## [satisfactory-8.1.6](https://github.com/truecharts/charts/compare/satisfactory-8.1.5...satisfactory-8.1.6) (2024-01-09)
 
 ### Chore
