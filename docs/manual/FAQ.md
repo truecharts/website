@@ -39,6 +39,8 @@ While it is technically feasible to use Access Control Lists (ACLs) for host pat
 Certain applications require ingress to work correctly for security reasons.
 Some examples are:
 
+- Authelia
+- Authentik
 - Vaultwarden
 - Nextcloud
 - Monica
@@ -131,13 +133,17 @@ The `stable` train refers to the stability of our chart, not the container itsel
 
 ## Why I can't use host path on both my apps and sharing services?
 
-TrueNAS Scale includes a safety check that makes sure apps and sharing services (SMB, NFS, etc) do not use the same data.
+TrueNAS Scale Bluefin (22.12) includes a safety check that makes sure apps and sharing services (SMB, NFS, etc) do not use the same data.
 This is done to avoid permissions issues, as there are a lot of apps that change permissions without giving the user a warning,
 or just plain do not work with ACL's.
 
 This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced Settings` -> `Enable Host Path Safety Checks`
 
+As of part of the SCALE Cobia (23.10) release, iX has removed host path validation.
+
 ## What are my options regarding Host Path Safety Checks and support?
+
+As of part of the SCALE Cobia (23.10) release, iX has removed host path validation.
 
 - Option 1.
 
@@ -211,6 +217,7 @@ Here's a list of Apps in the Stable and Enterprise trains that use CNPG (up to d
 `kanboard`
 `kutt`
 `librephotos`
+`linkwarden`
 `lychee`
 `mattermost`
 `mealie`
@@ -224,7 +231,6 @@ Here's a list of Apps in the Stable and Enterprise trains that use CNPG (up to d
 `outline`
 `paperless-ngx`
 `penpot`
-`pgadmin`
 `photoview`
 `postgresql`
 `quassel-core`
@@ -280,11 +286,11 @@ Use option ii above or use the Heavyscript `args` branch
 
 to stop:
 
-heavyscript app --stop APPNAME
+`heavyscript app --stop APPNAME`
 
 to start:
 
-heavyscript app --start APPNAME
+`heavyscript app --start APPNAME`
 
 :::note
 
