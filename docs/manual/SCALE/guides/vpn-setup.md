@@ -15,7 +15,7 @@ The guide below uses Mullvad and Windscribe as examples. You must visit the [Glu
 ## Prerequisites
 
 - Anything migrated to the new common chart that features `Gluetun`
-- Ideally a VPN provider supported by `Gluetun`, check the [Wiki](https://github.com/qdm12/gluetun/wiki) on the [Gluetun](https://github.com/qdm12/gluetun/) site for more info.
+- Ideally a VPN provider supported by `Gluetun`, check the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) for more info.
   There are custom providers but that is beyond the scope of this guide.
 
 ## Gluetun VPN Addon Setup
@@ -32,7 +32,7 @@ The guide below uses Mullvad and Windscribe as examples. You must visit the [Glu
 ![VPN Gluetun 2](img/Gluetun-VPN2.png)
 
 - All providers will generally need `VPN_SERVICE_PROVIDER` and `VPN_TYPE`, for me it's `Windscribe` and `openvpn` but I could easily choose `Wireguard`
-- Scroll to the [Gluetun Wiki](https://github.com/qdm12/gluetun/wiki) and find your specific provider and enter their info, eg [Windscribe Wiki Page](https://github.com/qdm12/gluetun/wiki/Windscribe)
+- Scroll to the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) and find your specific provider and enter their info, eg [Windscribe Wiki Page](https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/windscribe.md)
 
 ### Wireguard Example
 
@@ -71,7 +71,7 @@ The Killswitch entry uses the Network ID and CIDR. Please note the example above
   ![WG ENV Vars 3](img/Gluetun-VPN7.png)
 
 - `WIREGUARD_PRIVATE_KEY` is the private key from the `Mullvad` config file above
-- `FIREWALL_VPN_INPUT_PORTS` is the _port forward_ port, to forward a port with `Mullvad`, follow steps 2 and 3 from here: [Mullvad Port Forwarding](https://mullvad.net/en/help/port-forwarding-and-mullvad/)
+- `FIREWALL_VPN_INPUT_PORTS` is the _port forward_ port.
 - `WIREGUARD_ADDRESSES` is the `Mullvad` endpoint IP address, found in the `Mullvad` config file above
 
   ![WG ENV Vars 4](img/Gluetun-VPN8.png)
@@ -106,8 +106,8 @@ Gluetun offers HTTP (and Shadowsocks) proxy support. This is useful in scenarios
 Gluetun's default HTTP proxy port is `8888`. If you wish to change the port, then change it by adding the `HTTPPROXY_LISTENING_ADDRESS` environment variable.
 
 See Gluetun's website for more proxy configuration options (like setting a username/password):
-https://github.com/qdm12/gluetun/wiki/HTTP-proxy-options
-https://github.com/qdm12/gluetun/wiki/Shadowsocks-options
+https://github.com/qdm12/gluetun-wiki/blob/main/setup/options/http-proxy.md
+https://github.com/qdm12/gluetun-wiki/blob/main/setup/options/shadowsocks.md
 
 #### Step 2: Add a new service for the proxy
 
@@ -152,7 +152,7 @@ Your indexer traffic will now be routed through the Gluetun HTTP proxy. Check th
 
 ### Custom Provider Example
 
-If your provider isn't supported by `Gluetun` then you can use a [custom provider](https://github.com/qdm12/gluetun/wiki/Custom-provider) and configure as below, for example here's a provider with `OpenVPN`
+If your provider isn't supported by `Gluetun` then you can use a [custom provider](https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/custom.md) and configure as below, for example here's a provider with `OpenVPN`
 
 - Note: use `/gluetun/vpn.conf` for `OPENVPN_CUSTOM_CONFIG` and not the path specified inside the `VPN config file location` above
 
