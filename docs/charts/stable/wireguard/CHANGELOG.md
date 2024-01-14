@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [wireguard-7.1.6](https://github.com/truecharts/charts/compare/wireguard-7.1.5...wireguard-7.1.6) (2024-01-09)
 
 ### Chore

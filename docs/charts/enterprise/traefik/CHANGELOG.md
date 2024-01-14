@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [traefik-25.1.10](https://github.com/truecharts/charts/compare/traefik-25.1.9...traefik-25.1.10) (2024-01-09)
 
 ### Chore

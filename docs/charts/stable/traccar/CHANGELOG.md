@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [traccar-14.1.6](https://github.com/truecharts/charts/compare/traccar-14.1.5...traccar-14.1.6) (2024-01-09)
 
 ### Chore

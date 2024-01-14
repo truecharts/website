@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [outline-11.1.9](https://github.com/truecharts/charts/compare/outline-11.1.8...outline-11.1.9) (2024-01-09)
 
 ### Chore

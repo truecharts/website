@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [clickhouse-10.2.8](https://github.com/truecharts/charts/compare/clickhouse-10.2.7...clickhouse-10.2.8) (2024-01-09)
 
 ### Chore

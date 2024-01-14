@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [photostructure-6.0.1](https://github.com/truecharts/charts/compare/photostructure-6.0.0...photostructure-6.0.1) (2024-01-09)
 
 ### Chore

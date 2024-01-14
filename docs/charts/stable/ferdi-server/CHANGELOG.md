@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [ferdi-server-10.1.6](https://github.com/truecharts/charts/compare/ferdi-server-10.1.5...ferdi-server-10.1.6) (2024-01-09)
 
 ### Chore

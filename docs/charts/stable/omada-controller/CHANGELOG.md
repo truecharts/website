@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [omada-controller-13.0.0](https://github.com/truecharts/charts/compare/omada-controller-12.1.7...omada-controller-13.0.0) (2024-01-12)
 
 ### Major

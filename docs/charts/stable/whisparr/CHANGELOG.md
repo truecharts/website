@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [whisparr-8.1.8](https://github.com/truecharts/charts/compare/whisparr-8.1.7...whisparr-8.1.8) (2024-01-09)
 
 ### Chore

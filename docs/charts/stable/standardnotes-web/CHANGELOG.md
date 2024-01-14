@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [standardnotes-web-4.1.6](https://github.com/truecharts/charts/compare/standardnotes-web-4.1.5...standardnotes-web-4.1.6) (2024-01-09)
 
 ### Chore

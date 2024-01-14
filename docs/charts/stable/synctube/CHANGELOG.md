@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [synctube-6.1.6](https://github.com/truecharts/charts/compare/synctube-6.1.5...synctube-6.1.6) (2024-01-09)
 
 ### Chore

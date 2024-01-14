@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [vikunja-12.1.10](https://github.com/truecharts/charts/compare/vikunja-12.1.9...vikunja-12.1.10) (2024-01-13)
 
 ### Chore

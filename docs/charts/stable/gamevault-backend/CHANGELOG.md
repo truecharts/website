@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [gamevault-backend-4.1.7](https://github.com/truecharts/charts/compare/gamevault-backend-4.1.6...gamevault-backend-4.1.7) (2024-01-09)
 
 ### Chore

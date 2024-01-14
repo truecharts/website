@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [guacamole-12.1.6](https://github.com/truecharts/charts/compare/guacamole-12.1.5...guacamole-12.1.6) (2024-01-09)
 
 ### Chore

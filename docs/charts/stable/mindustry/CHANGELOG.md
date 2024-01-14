@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [mindustry-4.1.6](https://github.com/truecharts/charts/compare/mindustry-4.1.5...mindustry-4.1.6) (2024-01-09)
 
 ### Chore

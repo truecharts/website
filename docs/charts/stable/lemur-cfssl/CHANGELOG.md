@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [lemur-cfssl-4.1.6](https://github.com/truecharts/charts/compare/lemur-cfssl-4.1.5...lemur-cfssl-4.1.6) (2024-01-09)
 
 ### Chore

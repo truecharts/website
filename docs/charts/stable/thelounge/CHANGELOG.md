@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [thelounge-12.1.6](https://github.com/truecharts/charts/compare/thelounge-12.1.5...thelounge-12.1.6) (2024-01-09)
 
 ### Chore

@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [shlink-web-client-9.1.6](https://github.com/truecharts/charts/compare/shlink-web-client-9.1.5...shlink-web-client-9.1.6) (2024-01-09)
 
 ### Chore

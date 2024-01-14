@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [hurtworld-4.1.6](https://github.com/truecharts/charts/compare/hurtworld-4.1.5...hurtworld-4.1.6) (2024-01-09)
 
 ### Chore

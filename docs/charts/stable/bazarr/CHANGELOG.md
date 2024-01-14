@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [bazarr-17.1.10](https://github.com/truecharts/charts/compare/bazarr-17.1.9...bazarr-17.1.10) (2024-01-09)
 
 ### Chore

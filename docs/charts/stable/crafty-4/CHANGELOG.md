@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [crafty-4-6.1.7](https://github.com/truecharts/charts/compare/crafty-4-6.1.6...crafty-4-6.1.7) (2024-01-09)
 
 ### Chore

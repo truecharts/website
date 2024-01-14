@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [scrutiny-9.1.6](https://github.com/truecharts/charts/compare/scrutiny-9.1.5...scrutiny-9.1.6) (2024-01-09)
 
 ### Chore

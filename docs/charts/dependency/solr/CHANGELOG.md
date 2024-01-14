@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [solr-9.1.7](https://github.com/truecharts/charts/compare/solr-9.1.6...solr-9.1.7) (2024-01-09)
 
 ### Chore

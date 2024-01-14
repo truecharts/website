@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [webnut-7.1.6](https://github.com/truecharts/charts/compare/webnut-7.1.5...webnut-7.1.6) (2024-01-09)
 
 ### Chore

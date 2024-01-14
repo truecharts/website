@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [static-web-server-3.1.7](https://github.com/truecharts/charts/compare/static-web-server-3.1.6...static-web-server-3.1.7) (2024-01-09)
 
 ### Chore

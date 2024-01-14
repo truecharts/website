@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [bitcoinwalletgui-4.1.7](https://github.com/truecharts/charts/compare/bitcoinwalletgui-4.1.6...bitcoinwalletgui-4.1.7) (2024-01-09)
 
 ### Chore

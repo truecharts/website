@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [hastebin-4.1.6](https://github.com/truecharts/charts/compare/hastebin-4.1.5...hastebin-4.1.6) (2024-01-09)
 
 ### Chore

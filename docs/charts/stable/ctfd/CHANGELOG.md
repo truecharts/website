@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [ctfd-3.1.12](https://github.com/truecharts/charts/compare/ctfd-3.1.11...ctfd-3.1.12) (2024-01-09)
 
 ### Chore

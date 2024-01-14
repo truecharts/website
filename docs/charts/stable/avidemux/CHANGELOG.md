@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [avidemux-7.1.7](https://github.com/truecharts/charts/compare/avidemux-7.1.6...avidemux-7.1.7) (2024-01-09)
 
 ### Chore

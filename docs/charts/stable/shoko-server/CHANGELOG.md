@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [shoko-server-8.1.6](https://github.com/truecharts/charts/compare/shoko-server-8.1.5...shoko-server-8.1.6) (2024-01-09)
 
 ### Chore

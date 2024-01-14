@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [traggo-5.1.6](https://github.com/truecharts/charts/compare/traggo-5.1.5...traggo-5.1.6) (2024-01-09)
 
 ### Chore

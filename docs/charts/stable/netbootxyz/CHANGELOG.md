@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [netbootxyz-3.1.6](https://github.com/truecharts/charts/compare/netbootxyz-3.1.5...netbootxyz-3.1.6) (2024-01-09)
 
 ### Chore

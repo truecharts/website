@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [simply-shorten-7.1.6](https://github.com/truecharts/charts/compare/simply-shorten-7.1.5...simply-shorten-7.1.6) (2024-01-09)
 
 ### Chore

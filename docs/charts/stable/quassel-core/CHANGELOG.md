@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [quassel-core-10.1.7](https://github.com/truecharts/charts/compare/quassel-core-10.1.6...quassel-core-10.1.7) (2024-01-09)
 
 ### Chore
