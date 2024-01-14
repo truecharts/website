@@ -47,25 +47,37 @@ We do not have many statefulsets in our catalog, so expect it to be mostly OpenL
 #### SCALE
 
 To check which have statefulsets:
+```bash
 k3s kubectl get statefulsets -A | grep "ix-"
+```
 
 Then to delete the statefulset:
+```bash
 k3s kubectl delete statefulset STATEFULSETNAME -n ix-APPNAME
+```
 
 Example:
+```bash
 k3s kubectl delete statefulset blocky-redis -n ix-blocky
+```
 
 Once deleted you can attempt the update (or if you were already updated to latest versions, then edit and save without any changes)
 
 #### Helm
 
 To check which have statefulsets:
+```bash
 kubectl get statefulsets -A
+```
 
 Then to delete the statefulset:
+```bash
 kubectl delete statefulset STATEFULSETNAME -n APPNAME
+```
 
 Example:
+```bash
 kubectl delete statefulset blocky-redis -n blocky
+```
 
 Once deleted you can attempt the update (or if you were already updated to latest versions, then edit and save without any changes)
