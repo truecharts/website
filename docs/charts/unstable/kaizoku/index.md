@@ -8,9 +8,9 @@ A self-hosted manga downloader.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/kaizoku
 - https://ghcr.io/oae/kaizoku
 - https://github.com/oae/kaizoku
+- https://github.com/truecharts/charts/tree/master/charts/incubator/kaizoku
 
 ## Available Documentation
 

@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [piwigo-11.2.10](https://github.com/truecharts/charts/compare/piwigo-11.2.9...piwigo-11.2.10) (2024-01-09)
 
 ### Chore

@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [muximux-9.1.6](https://github.com/truecharts/charts/compare/muximux-9.1.5...muximux-9.1.6) (2024-01-09)
 
 ### Chore

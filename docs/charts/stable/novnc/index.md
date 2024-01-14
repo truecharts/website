@@ -8,9 +8,9 @@ The open source VNC client
 
 ## Chart Sources
 
-- https://novnc.com/
 - https://github.com/truecharts/charts/tree/master/charts/stable/novnc
 - https://ghcr.io/nicholaswilde/novnc
+- https://novnc.com/
 
 ## Available Documentation
 

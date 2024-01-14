@@ -8,9 +8,9 @@ FileShelter is a self-hosted software that allows you to easily share files over
 
 ## Chart Sources
 
-- https://hub.docker.com/r/epoupon/fileshelter
 - https://github.com/epoupon/fileshelter
 - https://github.com/truecharts/charts/tree/master/charts/incubator/fileshelter
+- https://hub.docker.com/r/epoupon/fileshelter
 
 ## Available Documentation
 

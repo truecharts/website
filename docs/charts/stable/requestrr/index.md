@@ -8,9 +8,9 @@ Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi v
 
 ## Chart Sources
 
-- https://github.com/thomst08/requestrr
 - https://github.com/truecharts/charts/tree/master/charts/stable/requestrr
 - https://hub.docker.com/r/thomst08/requestrr
+- https://github.com/thomst08/requestrr
 
 ## Available Documentation
 

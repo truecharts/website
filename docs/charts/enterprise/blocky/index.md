@@ -8,11 +8,11 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/enterprise/blocky
 - https://quay.io/oriedge/k8s_gateway
 - https://github.com/0xERR0R/blocky
 - https://github.com/Mozart409/blocky-frontend
 - https://0xerr0r.github.io/blocky/
+- https://github.com/truecharts/charts/tree/master/charts/enterprise/blocky
 
 ## Available Documentation
 

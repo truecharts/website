@@ -8,8 +8,8 @@ Minetest (server) is a near-infinite-world block sandbox game and a game engine.
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/minetest
 - https://github.com/truecharts/charts/tree/master/charts/stable/minetest
+- https://ghcr.io/linuxserver/minetest
 
 ## Available Documentation
 

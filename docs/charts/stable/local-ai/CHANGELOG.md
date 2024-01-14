@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [local-ai-8.14.1](https://github.com/truecharts/charts/compare/local-ai-8.14.0...local-ai-8.14.1) (2024-01-09)
 
 ### Chore

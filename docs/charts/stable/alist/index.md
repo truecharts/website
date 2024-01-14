@@ -8,9 +8,9 @@ Alist program that supports multiple storage, powered by Gin and React
 
 ## Chart Sources
 
-- https://github.com/Xhofe/alist
 - https://github.com/truecharts/charts/tree/master/charts/stable/alist
 - https://hub.docker.com/r/xhofe/alist
+- https://github.com/Xhofe/alist
 
 ## Available Documentation
 

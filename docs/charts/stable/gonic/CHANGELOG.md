@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [gonic-12.1.6](https://github.com/truecharts/charts/compare/gonic-12.1.5...gonic-12.1.6) (2024-01-09)
 
 ### Chore

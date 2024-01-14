@@ -9,8 +9,8 @@ Spotweb is a decentralized usenet community based on the Spotnet protocol.
 ## Chart Sources
 
 - https://hub.docker.com/r/jbaten/spotweb
-- https://github.com/spotweb/spotweb
 - https://github.com/joachimbaten/spotweb-docker
+- https://github.com/spotweb/spotweb
 - https://github.com/truecharts/charts/tree/master/charts/stable/spotweb
 
 ## Available Documentation

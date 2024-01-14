@@ -8,9 +8,9 @@ Looks and smells like Overseerr, does the opposite. Maintenance tool for the Ple
 
 ## Chart Sources
 
+- https://github.com/jorenn92/Maintainerr
 - https://github.com/truecharts/charts/tree/master/charts/incubator/maintainerr
 - https://hub.docker.com/r/jorenn92/maintainerr
-- https://github.com/jorenn92/Maintainerr
 
 ## Available Documentation
 

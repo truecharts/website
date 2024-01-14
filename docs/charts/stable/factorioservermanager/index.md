@@ -8,9 +8,9 @@ A tool for managing Factorio servers
 
 ## Chart Sources
 
+- https://hub.docker.com/r/ofsm/ofsm
 - https://github.com/OpenFactorioServerManager/factorio-server-manager
 - https://github.com/truecharts/charts/tree/master/charts/incubator/factorioservermanager
-- https://hub.docker.com/r/ofsm/ofsm
 
 ## Available Documentation
 

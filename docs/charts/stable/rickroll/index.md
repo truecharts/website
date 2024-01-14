@@ -8,9 +8,9 @@ Self-hosted Rick Roll chart.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/modem7/docker-rickroll
 - https://github.com/modem7/docker-rickroll
 - https://github.com/truecharts/charts/tree/master/charts/stable/rickroll
-- https://hub.docker.com/r/modem7/docker-rickroll
 
 ## Available Documentation
 

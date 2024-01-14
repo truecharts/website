@@ -8,8 +8,8 @@ A location-based pluggable DNS forwarder/splitter.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/mosdns
 - https://hub.docker.com/r/601096721/mosdns
+- https://github.com/truecharts/charts/tree/master/charts/stable/mosdns
 
 ## Available Documentation
 

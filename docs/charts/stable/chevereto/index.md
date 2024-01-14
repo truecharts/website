@@ -8,10 +8,10 @@ Chevereto is an image hosting software that allows you to create a beautiful and
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/chevereto
-- https://ghcr.io/rodber/chevereto-free
 - https://github.com/rodber/chevereto-free
 - https://chevereto-free.github.io/setup/system/environment.html#image-handling-variables
+- https://github.com/truecharts/charts/tree/master/charts/stable/chevereto
+- https://ghcr.io/rodber/chevereto-free
 
 ## Available Documentation
 

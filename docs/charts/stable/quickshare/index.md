@@ -8,9 +8,9 @@ Quick and simple file sharing between different devices.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/hexxa/quickshare
 - https://github.com/ihexxa/quickshare
 - https://github.com/truecharts/charts/tree/master/charts/incubator/quickshare
+- https://hub.docker.com/r/hexxa/quickshare
 
 ## Available Documentation
 

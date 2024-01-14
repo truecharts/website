@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [slash-2.1.6](https://github.com/truecharts/charts/compare/slash-2.1.5...slash-2.1.6) (2024-01-09)
 
 ### Chore

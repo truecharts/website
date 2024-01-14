@@ -8,9 +8,9 @@ This is a Docker Chart for BTDEX based on jlesage/Chart-baseimage-gui Chart.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/furritos/docker-btdex
 - https://btdex.trade/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/btdex
-- https://hub.docker.com/r/furritos/docker-btdex
 
 ## Available Documentation
 

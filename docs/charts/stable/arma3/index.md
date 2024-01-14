@@ -8,9 +8,9 @@ This Chart will download and install SteamCMD. It will also install ArmA III and
 
 ## Chart Sources
 
+- https://hub.docker.com/r/ich777/steamcmd
 - https://arma3.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/arma3
-- https://hub.docker.com/r/ich777/steamcmd
 
 ## Available Documentation
 

@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [observium-4.1.6](https://github.com/truecharts/charts/compare/observium-4.1.5...observium-4.1.6) (2024-01-09)
 
 ### Chore

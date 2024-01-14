@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [maloja-4.1.6](https://github.com/truecharts/charts/compare/maloja-4.1.5...maloja-4.1.6) (2024-01-09)
 
 ### Chore

@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [spotweb-11.1.6](https://github.com/truecharts/charts/compare/spotweb-11.1.5...spotweb-11.1.6) (2024-01-09)
 
 ### Chore

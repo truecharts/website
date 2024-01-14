@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [minisatip-8.1.6](https://github.com/truecharts/charts/compare/minisatip-8.1.5...minisatip-8.1.6) (2024-01-09)
 
 ### Chore

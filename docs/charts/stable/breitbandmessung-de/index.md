@@ -8,9 +8,9 @@ A script to enable customers of lazy ISPs to perform measurement campaigns of th
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/breitbandmessung-de
 - https://hub.docker.com/r/shneezin/breitbandmessung-node
 - https://github.com/shneezin/breitbandmessung-node
+- https://github.com/truecharts/charts/tree/master/charts/incubator/breitbandmessung-de
 
 ## Available Documentation
 

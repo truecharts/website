@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [sia-daemon-4.1.6](https://github.com/truecharts/charts/compare/sia-daemon-4.1.5...sia-daemon-4.1.6) (2024-01-09)
 
 ### Chore

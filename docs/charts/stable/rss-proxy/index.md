@@ -8,9 +8,9 @@ RSS-proxy 2+ allows you to do create an ATOM or JSON feed of almost static/dynam
 
 ## Chart Sources
 
+- https://github.com/damoeb/rss-proxy
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rss-proxy
 - https://hub.docker.com/r/damoeb/rss-proxy
-- https://github.com/damoeb/rss-proxy
 
 ## Available Documentation
 

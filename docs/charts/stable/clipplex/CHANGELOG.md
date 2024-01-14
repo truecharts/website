@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [clipplex-2.1.7](https://github.com/truecharts/charts/compare/clipplex-2.1.6...clipplex-2.1.7) (2024-01-09)
 
 ### Chore

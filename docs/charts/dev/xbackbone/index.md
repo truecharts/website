@@ -8,9 +8,9 @@ XBackBone is a simple, self-hosted, lightweight PHP file manager
 
 ## Chart Sources
 
-- https://github.com/SergiX44/XBackBone
 - https://github.com/truecharts/charts/tree/master/charts/incubator/xbackbone
 - https://hub.docker.com/r/pe46dro/xbackbone-docker
+- https://github.com/SergiX44/XBackBone
 
 ## Available Documentation
 

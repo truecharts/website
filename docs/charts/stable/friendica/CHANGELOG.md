@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [friendica-12.2.9](https://github.com/truecharts/charts/compare/friendica-12.2.8...friendica-12.2.9) (2024-01-09)
 
 ### Chore

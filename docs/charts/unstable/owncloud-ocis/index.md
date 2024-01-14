@@ -8,9 +8,9 @@ ownCloud Infinite Scale is a self-hosted file sync and share server.
 
 ## Chart Sources
 
-- https://owncloud.dev/ocis/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/owncloud-ocis
 - https://hub.docker.com/r/owncloud/ocis
+- https://owncloud.dev/ocis/
 
 ## Available Documentation
 

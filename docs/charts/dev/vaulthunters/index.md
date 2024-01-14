@@ -8,9 +8,9 @@ Vault Hunters - 1.13.4 Modded Minecraft Server[br][br][b]Vault Hunters - 1.13.4[
 
 ## Chart Sources
 
+- https://hub.docker.com/r/goobaroo/vaulthunters
 - https://vaulthunters.gg
 - https://github.com/truecharts/charts/tree/master/charts/incubator/vaulthunters
-- https://hub.docker.com/r/goobaroo/vaulthunters
 
 ## Available Documentation
 

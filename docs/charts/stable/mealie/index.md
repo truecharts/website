@@ -8,9 +8,9 @@ Mealie is a self hosted recipe manager and meal planner with a RestAPI backend
 
 ## Chart Sources
 
+- https://github.com/mealie-recipes/mealie
 - https://github.com/truecharts/charts/tree/master/charts/stable/mealie
 - https://ghcr.io/mealie-recipes/mealie
-- https://github.com/mealie-recipes/mealie
 
 ## Available Documentation
 

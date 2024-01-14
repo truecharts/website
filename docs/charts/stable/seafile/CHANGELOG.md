@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [seafile-4.1.9](https://github.com/truecharts/charts/compare/seafile-4.1.8...seafile-4.1.9) (2024-01-09)
 
 ### Chore

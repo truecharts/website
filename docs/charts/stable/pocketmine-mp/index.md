@@ -8,8 +8,8 @@ A server software for Minecraft Bedrock Edition in PHP.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/pocketmine-mp
 - https://github.com/pmmp/PocketMine-MP
+- https://github.com/truecharts/charts/tree/master/charts/incubator/pocketmine-mp
 
 ## Available Documentation
 

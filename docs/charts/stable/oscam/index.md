@@ -8,9 +8,9 @@ Open Source Conditional Access Module software
 
 ## Chart Sources
 
+- https://trac.streamboard.tv/oscam/browser/trunk
 - https://github.com/truecharts/charts/tree/master/charts/stable/oscam
 - https://ghcr.io/linuxserver/oscam
-- https://trac.streamboard.tv/oscam/browser/trunk
 
 ## Available Documentation
 

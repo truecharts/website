@@ -8,9 +8,9 @@ Cert-Manager is a kubernetes-aware certificate manager
 
 ## Chart Sources
 
-- https://github.com/cert-manager
 - https://cert-manager.io/
 - https://github.com/truecharts/charts/tree/master/charts/operators/cert-manager
+- https://github.com/cert-manager
 
 ## Available Documentation
 

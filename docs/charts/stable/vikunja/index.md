@@ -10,7 +10,7 @@ The to-do app to organize your life.
 
 - https://vikunja.io/docs
 - https://github.com/truecharts/charts/tree/master/charts/stable/vikunja
-- https://hub.docker.com/r/vikunja/api
+- https://hub.docker.com/r/vikunja/frontend
 
 ## Available Documentation
 

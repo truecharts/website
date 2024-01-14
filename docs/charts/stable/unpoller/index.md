@@ -8,9 +8,9 @@ Collect your UniFi controller data and report it to an InfluxDB instance, or exp
 
 ## Chart Sources
 
+- https://github.com/unifi-poller/unifi-poller
 - https://github.com/truecharts/charts/tree/master/charts/stable/unpoller
 - https://ghcr.io/unpoller/unpoller
-- https://github.com/unifi-poller/unifi-poller
 
 ## Available Documentation
 

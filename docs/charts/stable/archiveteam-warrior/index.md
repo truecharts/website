@@ -8,8 +8,8 @@ The Archive Team Warrior is a virtual archiving appliance. You can run it to hel
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/archiveteam-warrior
 - https://wiki.archiveteam.org/index.php/ArchiveTeam_Warrior
+- https://github.com/truecharts/charts/tree/master/charts/incubator/archiveteam-warrior
 
 ## Available Documentation
 

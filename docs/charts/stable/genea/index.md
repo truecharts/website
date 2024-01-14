@@ -8,9 +8,9 @@ Genea allows visually building and editing a family tree online. It consumes and
 
 ## Chart Sources
 
+- https://hub.docker.com/r/biggiesize/genea-app
 - https://github.com/genea-app/genea-app
 - https://github.com/truecharts/charts/tree/master/charts/incubator/genea
-- https://hub.docker.com/r/biggiesize/genea-app
 
 ## Available Documentation
 

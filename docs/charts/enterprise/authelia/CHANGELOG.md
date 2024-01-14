@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [authelia-22.2.1](https://github.com/truecharts/charts/compare/authelia-22.2.0...authelia-22.2.1) (2024-01-12)
 
 ### Authelia

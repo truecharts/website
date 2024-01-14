@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [cryptpad-6.1.7](https://github.com/truecharts/charts/compare/cryptpad-6.1.6...cryptpad-6.1.7) (2024-01-09)
 
 ### Chore

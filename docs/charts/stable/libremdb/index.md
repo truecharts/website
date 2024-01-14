@@ -9,9 +9,9 @@ A free & open source IMDb front-end.
 ## Chart Sources
 
 - https://github.com/PussTheCat-org/docker-libremdb-quay
-- https://github.com/zyachel/libremdb
 - https://github.com/truecharts/charts/tree/master/charts/stable/libremdb
 - https://quay.io/pussthecatorg/libremdb
+- https://github.com/zyachel/libremdb
 
 ## Available Documentation
 

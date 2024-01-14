@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [red-discordbot-4.1.7](https://github.com/truecharts/charts/compare/red-discordbot-4.1.6...red-discordbot-4.1.7) (2024-01-09)
 
 ### Chore

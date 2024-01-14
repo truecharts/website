@@ -8,9 +8,9 @@ pyLoad is a Free and Open Source download manager written in Python and designed
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/pyload
 - https://github.com/pyload/pyload
 - https://github.com/truecharts/charts/tree/master/charts/stable/pyload
+- https://ghcr.io/linuxserver/pyload
 
 ## Available Documentation
 

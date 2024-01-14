@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [ghostfolio-3.4.1](https://github.com/truecharts/charts/compare/ghostfolio-3.4.0...ghostfolio-3.4.1) (2024-01-09)
 
 ### Chore

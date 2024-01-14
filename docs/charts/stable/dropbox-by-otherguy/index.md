@@ -8,9 +8,9 @@ Dropbox client which syncs a local path with your cloud.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/otherguy/dropbox
 - https://github.com/otherguy/docker-dropbox
 - https://github.com/truecharts/charts/tree/master/charts/incubator/dropbox-by-otherguy
+- https://hub.docker.com/r/otherguy/dropbox
 
 ## Available Documentation
 

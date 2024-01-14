@@ -8,9 +8,9 @@ The newest Red-Discordbot in a convenient multi-arch Chart
 
 ## Chart Sources
 
+- https://hub.docker.com/r/phasecorex/red-discordbot
 - https://github.com/PhasecoreX/docker-red-discordbot
 - https://github.com/truecharts/charts/tree/master/charts/incubator/red-discordbot
-- https://hub.docker.com/r/phasecorex/red-discordbot
 
 ## Available Documentation
 

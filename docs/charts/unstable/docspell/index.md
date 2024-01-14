@@ -8,9 +8,9 @@ Docspell is a personal document organizer.
 
 ## Chart Sources
 
-- https://docspell.org/docs/configure/defaults/
 - https://github.com/eikek/docspell
 - https://docspell.org/docs/install/docker/
+- https://docspell.org/docs/configure/defaults/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/docspell
 - https://hub.docker.com/r/docspell/restserver
 

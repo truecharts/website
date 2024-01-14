@@ -8,9 +8,9 @@ pixelserv-tls is a tiny bespoke HTTP/1.1 webserver with HTTPS and SNI support. I
 
 ## Chart Sources
 
+- https://hub.docker.com/r/imthai/pixelserv-tls
 - https://github.com/imTHAI/docker-pixelserv-tls
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pixelserv-tls
-- https://hub.docker.com/r/imthai/pixelserv-tls
 
 ## Available Documentation
 

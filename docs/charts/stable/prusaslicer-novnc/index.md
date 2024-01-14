@@ -8,9 +8,9 @@ Enjoy Prusaslicer directly in your browser with this easy to use Chart Chart.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/mikeah/prusaslicer-novnc
 - https://www.prusa3d.com/prusaslicer/
 - https://github.com/truecharts/charts/tree/master/charts/stable/prusaslicer-novnc
-- https://hub.docker.com/r/mikeah/prusaslicer-novnc
 
 ## Available Documentation
 

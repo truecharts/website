@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [cyberchef-8.1.7](https://github.com/truecharts/charts/compare/cyberchef-8.1.6...cyberchef-8.1.7) (2024-01-09)
 
 ### Chore

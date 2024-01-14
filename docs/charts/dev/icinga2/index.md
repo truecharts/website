@@ -9,8 +9,8 @@ A monitoring system which checks the availability of your network resources, not
 ## Chart Sources
 
 - https://hub.docker.com/r/jordan/icinga2
-- https://icinga.com/
 - https://github.com/jjethwa/icinga2
+- https://icinga.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/icinga2
 
 ## Available Documentation

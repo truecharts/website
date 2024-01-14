@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [phpldapadmin-12.1.6](https://github.com/truecharts/charts/compare/phpldapadmin-12.1.5...phpldapadmin-12.1.6) (2024-01-09)
 
 ### Chore

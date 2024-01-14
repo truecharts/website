@@ -8,11 +8,11 @@ HexChat is an IRC client based on XChat, but unlike XChat it’s completely free
 
 ## Chart Sources
 
-- https://hexchat.github.io/
-- https://registry.hub.docker.com/r/binhex/arch-hexchat/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/hexchat
 - https://hub.docker.com/r/binhex/arch-hexchat
+- https://registry.hub.docker.com/r/binhex/arch-hexchat/
 - https://github.com/binhex/documentation
+- https://hexchat.github.io/
 
 ## Available Documentation
 

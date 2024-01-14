@@ -8,9 +8,9 @@ Netdata is high-fidelity infrastructure monitoring and troubleshooting.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/netdata/netdata
 - https://github.com/netdata
 - https://github.com/truecharts/charts/tree/master/charts/stable/netdata
-- https://hub.docker.com/r/netdata/netdata
 
 ## Available Documentation
 

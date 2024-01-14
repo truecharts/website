@@ -8,8 +8,8 @@ Couchpotato is an automatic NZB and torrent downloader.
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/couchpotato
 - https://github.com/truecharts/charts/tree/master/charts/stable/couchpotato
+- https://ghcr.io/linuxserver/couchpotato
 
 ## Available Documentation
 

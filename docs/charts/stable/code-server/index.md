@@ -8,9 +8,9 @@ Run VS Code on any machine anywhere and access it in the browser.
 
 ## Chart Sources
 
-- https://github.com/cdr/code-server
 - https://github.com/truecharts/charts/tree/master/charts/stable/code-server
 - https://hub.docker.com/r/codercom/code-server
+- https://github.com/cdr/code-server
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ Convos is the simplest way to use IRC and it is always online
 
 ## Chart Sources
 
+- https://hub.docker.com/r/convos/convos
 - https://convos.chat/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/convos
-- https://hub.docker.com/r/convos/convos
 
 ## Available Documentation
 

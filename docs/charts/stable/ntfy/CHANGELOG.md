@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [ntfy-8.1.6](https://github.com/truecharts/charts/compare/ntfy-8.1.5...ntfy-8.1.6) (2024-01-09)
 
 ### Chore

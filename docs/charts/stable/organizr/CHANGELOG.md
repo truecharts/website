@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [organizr-17.1.6](https://github.com/truecharts/charts/compare/organizr-17.1.5...organizr-17.1.6) (2024-01-09)
 
 ### Chore

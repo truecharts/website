@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [firefox-10.0.2](https://github.com/truecharts/charts/compare/firefox-10.0.1...firefox-10.0.2) (2024-01-09)
 
 ### Chore

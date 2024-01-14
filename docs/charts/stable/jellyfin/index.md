@@ -10,7 +10,7 @@ Jellyfin is a Free Software Media System
 
 - https://github.com/jellyfin/jellyfin
 - https://github.com/truecharts/charts/tree/master/charts/stable/jellyfin
-- https://hub.docker.com/r/jellyfin/jellyfin
+- https://hub.docker.com/r/alpine/socat
 
 ## Available Documentation
 

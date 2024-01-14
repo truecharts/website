@@ -8,8 +8,8 @@ Ngircd is a free, portable and lightweight Internet Relay Chat server for small 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/ngircd
 - https://ghcr.io/linuxserver/ngircd
+- https://github.com/truecharts/charts/tree/master/charts/stable/ngircd
 
 ## Available Documentation
 

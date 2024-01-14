@@ -8,10 +8,10 @@ Get up and running with large language models locally.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/ollama
-- https://ghcr.io/ollama-webui/ollama-webui
 - https://github.com/jmorganca/ollama
 - https://github.com/ollama-webui/ollama-webui
+- https://github.com/truecharts/charts/tree/master/charts/incubator/ollama
+- https://ghcr.io/ollama-webui/ollama-webui
 
 ## Available Documentation
 

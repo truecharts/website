@@ -8,8 +8,8 @@ Self hosted GIT repositories
 
 ## Chart Sources
 
-- https://github.com/go-gitea/gitea
 - https://gitea.com/gitea/helm-chart
+- https://github.com/go-gitea/gitea
 - https://github.com/truecharts/charts/tree/master/charts/stable/gitea
 - https://hub.docker.com/r/gitea/gitea
 

@@ -9,9 +9,9 @@ Run a Pritunl VPN Server [br][br]
 
 ## Chart Sources
 
-- https://pritunl.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pritunl
 - https://hub.docker.com/r/bashninja/docker-pritunl
+- https://pritunl.com/
 
 ## Available Documentation
 

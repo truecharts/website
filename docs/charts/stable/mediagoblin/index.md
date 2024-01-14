@@ -8,9 +8,9 @@ MediaGoblin is a free software media publishing platform that anyone can run. Yo
 
 ## Chart Sources
 
-- https://mediagoblin.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/mediagoblin
 - https://hub.docker.com/r/mtlynch/mediagoblin
+- https://mediagoblin.org/
 
 ## Available Documentation
 

@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [leantime-9.0.14](https://github.com/truecharts/charts/compare/leantime-9.0.13...leantime-9.0.14) (2024-01-03)
 
 ### Chore

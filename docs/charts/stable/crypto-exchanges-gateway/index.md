@@ -8,9 +8,9 @@ Your gateway to the world of crypto
 
 ## Chart Sources
 
-- https://hub.docker.com/r/apendergast/crypto-exchanges-gateway
 - https://github.com/aloysius-pgast/crypto-exchanges-gateway
 - https://github.com/truecharts/charts/tree/master/charts/incubator/crypto-exchanges-gateway
+- https://hub.docker.com/r/apendergast/crypto-exchanges-gateway
 
 ## Available Documentation
 

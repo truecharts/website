@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [pihole-14.0.0](https://github.com/truecharts/charts/compare/pihole-13.1.5...pihole-14.0.0) (2024-01-09)
 
 ### Chore

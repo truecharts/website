@@ -8,9 +8,9 @@ Open source, self-hostable watched list
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/stable/watcharr
 - https://ghcr.io/sbondco/watcharr
 - https://github.com/sbondCo/Watcharr
-- https://github.com/truecharts/charts/tree/master/charts/stable/watcharr
 
 ## Available Documentation
 

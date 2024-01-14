@@ -8,8 +8,8 @@ A free cross platform open source file manager with two panels side by side.
 
 ## Chart Sources
 
-- https://doublecmd.sourceforge.io/
 - https://github.com/linuxserver/docker-doublecommander
+- https://doublecmd.sourceforge.io/
 - https://github.com/truecharts/charts/tree/master/charts/stable/doublecommander
 - https://ghcr.io/linuxserver/doublecommander
 

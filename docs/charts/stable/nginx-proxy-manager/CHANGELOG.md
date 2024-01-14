@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [nginx-proxy-manager-8.1.10](https://github.com/truecharts/charts/compare/nginx-proxy-manager-8.1.9...nginx-proxy-manager-8.1.10) (2024-01-09)
 
 ### Chore

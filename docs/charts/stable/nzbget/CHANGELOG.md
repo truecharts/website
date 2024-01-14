@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [nzbget-18.0.0](https://github.com/truecharts/charts/compare/nzbget-17.1.6...nzbget-18.0.0) (2024-01-09)
 
 ### Chore

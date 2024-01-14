@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [scrypted-3.1.6](https://github.com/truecharts/charts/compare/scrypted-3.1.5...scrypted-3.1.6) (2024-01-09)
 
 ### Chore

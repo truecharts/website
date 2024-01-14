@@ -8,9 +8,9 @@ This is a dependancy Chart for the application "TubeArchivist"
 
 ## Chart Sources
 
+- https://github.com/RedisJSON/RedisJSON
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tubearchivist-redisjson
 - https://hub.docker.com/r/redislabs/rejson
-- https://github.com/RedisJSON/RedisJSON
 
 ## Available Documentation
 

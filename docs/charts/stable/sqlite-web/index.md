@@ -8,9 +8,9 @@ sqlite-web is a web-based SQLite database browser written in Python.
 
 ## Chart Sources
 
-- https://github.com/coleifer/sqlite-web
 - https://github.com/truecharts/charts/tree/master/charts/incubator/sqlite-web
 - https://hub.docker.com/r/coleifer/sqlite-web
+- https://github.com/coleifer/sqlite-web
 
 ## Available Documentation
 

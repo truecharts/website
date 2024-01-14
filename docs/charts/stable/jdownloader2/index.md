@@ -8,8 +8,8 @@ JDownloader is a free, open-source download management tool with a huge communit
 
 ## Chart Sources
 
-- https://jdownloader.org/
 - https://github.com/jlesage/docker-jdownloader-2
+- https://jdownloader.org/
 - https://github.com/truecharts/charts/tree/master/charts/stable/jdownloader2
 - https://hub.docker.com/r/jlesage/jdownloader-2
 

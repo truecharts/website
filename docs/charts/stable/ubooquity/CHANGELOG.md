@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [ubooquity-9.1.7](https://github.com/truecharts/charts/compare/ubooquity-9.1.6...ubooquity-9.1.7) (2024-01-09)
 
 ### Chore

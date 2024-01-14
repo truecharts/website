@@ -8,10 +8,10 @@ The OwnTracks Recorder is a lightweight program for storing and accessing locati
 
 ## Chart Sources
 
-- https://github.com/owntracks/docker-recorder
-- https://github.com/owntracks/recorder
-- https://github.com/truecharts/charts/tree/master/charts/incubator/owntracks
 - https://hub.docker.com/r/owntracks/recorder
+- https://github.com/owntracks/recorder
+- https://github.com/owntracks/docker-recorder
+- https://github.com/truecharts/charts/tree/master/charts/incubator/owntracks
 
 ## Available Documentation
 

@@ -9,8 +9,8 @@ Very simple WebDAV server based on Apache. You need a WebDAV client to transfer 
 ## Chart Sources
 
 - https://hub.docker.com/r/apachewebdav/apachewebdav
-- https://github.com/mgutt/docker-apachewebdav
 - https://httpd.apache.org/docs/2.4/mod/mod_dav.html
+- https://github.com/mgutt/docker-apachewebdav
 - https://github.com/truecharts/charts/tree/master/charts/incubator/apache-webdav
 
 ## Available Documentation

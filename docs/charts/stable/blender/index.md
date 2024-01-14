@@ -8,11 +8,11 @@ Blender(https://www.blender.org/) is a free and open-source 3D computer graphics
 
 ## Chart Sources
 
-- https://github.com/orgs/linuxserver/packages/container/package/blender
 - https://github.com/truecharts/charts/tree/master/charts/incubator/blender
 - https://fleet.linuxserver.io/image?name=linuxserver/blender
-- https://github.com/linuxserver/docker-blender#readme
 - https://www.blender.org/
+- https://github.com/orgs/linuxserver/packages/container/package/blender
+- https://github.com/linuxserver/docker-blender#readme
 
 ## Available Documentation
 

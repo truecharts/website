@@ -8,8 +8,9 @@ Chart with qBittorrent and the Flood UI.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/qflood
 - https://hotio.dev/containers/qflood
+- https://github.com/truecharts/charts/tree/master/charts/incubator/qflood
+- https://ghcr.io/hotio/qflood
 
 ## Available Documentation
 

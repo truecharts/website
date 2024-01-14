@@ -8,9 +8,9 @@ Minecraft Java Dedicated Server
 
 ## Chart Sources
 
-- https://github.com/itzg/docker-minecraft-server
 - https://github.com/truecharts/charts/tree/master/charts/stable/minecraft-java
 - https://hub.docker.com/r/itzg/minecraft-server
+- https://github.com/itzg/docker-minecraft-server
 
 ## Available Documentation
 

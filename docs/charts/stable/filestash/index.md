@@ -8,8 +8,8 @@ A Dropbox-like file manager that let you manage your data anywhere it is located
 
 ## Chart Sources
 
-- https://www.filestash.app/
 - https://github.com/mickael-kerjean/filestash
+- https://www.filestash.app/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/filestash
 - https://hub.docker.com/r/machines/filestash
 

@@ -8,9 +8,9 @@ Homepage: http://bpatrik.github.io/pigallery2/
 
 ## Chart Sources
 
-- https://github.com/bpatrik/pigallery2
 - https://github.com/truecharts/charts/tree/master/charts/incubator/pigallery2
 - https://hub.docker.com/r/bpatrik/pigallery2
+- https://github.com/bpatrik/pigallery2
 
 ## Available Documentation
 

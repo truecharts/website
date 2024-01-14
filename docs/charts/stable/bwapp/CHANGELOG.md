@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [bwapp-4.1.7](https://github.com/truecharts/charts/compare/bwapp-4.1.6...bwapp-4.1.7) (2024-01-09)
 
 ### Chore

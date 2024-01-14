@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [livebook-3.1.0](https://github.com/truecharts/charts/compare/livebook-3.0.13...livebook-3.1.0) (2024-01-05)
 
 ### Chore

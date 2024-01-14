@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [komga-12.2.1](https://github.com/truecharts/charts/compare/komga-12.2.0...komga-12.2.1) (2024-01-09)
 
 ### Chore

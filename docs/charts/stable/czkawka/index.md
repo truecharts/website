@@ -8,10 +8,10 @@ Czkawka is a simple, fast and free app to remove unnecessary files from your com
 
 ## Chart Sources
 
+- https://github.com/qarmin/czkawka
 - https://github.com/truecharts/charts/tree/master/charts/stable/czkawka
 - https://hub.docker.com/r/jlesage/czkawka
 - https://github.com/jlesage/docker-czkawka
-- https://github.com/qarmin/czkawka
 
 ## Available Documentation
 

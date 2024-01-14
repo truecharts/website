@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [home-assistant-23.0.3](https://github.com/truecharts/charts/compare/home-assistant-23.0.2...home-assistant-23.0.3) (2024-01-09)
 
 ### Chore

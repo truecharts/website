@@ -8,11 +8,11 @@ Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (co
 
 ## Chart Sources
 
-- https://radicale.org/
 - https://github.com/Kozea/Radicale
+- https://github.com/tomsquest/docker-radicale
+- https://radicale.org/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/radicale
 - https://hub.docker.com/r/tomsquest/docker-radicale
-- https://github.com/tomsquest/docker-radicale
 
 ## Available Documentation
 

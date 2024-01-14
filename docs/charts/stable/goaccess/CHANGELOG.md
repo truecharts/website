@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [goaccess-4.1.6](https://github.com/truecharts/charts/compare/goaccess-4.1.5...goaccess-4.1.6) (2024-01-09)
 
 ### Chore

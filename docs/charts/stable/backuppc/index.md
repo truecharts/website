@@ -8,10 +8,10 @@ A high-performance, enterprise-grade system for backing up Linux, Windows and ma
 
 ## Chart Sources
 
+- https://github.com/tiredofit/docker-backuppc
+- https://backuppc.github.io/backuppc/index.html
 - https://github.com/truecharts/charts/tree/master/charts/incubator/backuppc
 - https://hub.docker.com/r/tiredofit/backuppc
-- https://backuppc.github.io/backuppc/index.html
-- https://github.com/tiredofit/docker-backuppc
 
 ## Available Documentation
 

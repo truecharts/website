@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [unmanic-9.1.6](https://github.com/truecharts/charts/compare/unmanic-9.1.5...unmanic-9.1.6) (2024-01-09)
 
 ### Chore

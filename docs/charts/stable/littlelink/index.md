@@ -8,10 +8,10 @@ Easy platform to combine all your social links
 
 ## Chart Sources
 
-- https://github.com/techno-tim/littlelink-server
 - https://github.com/truecharts/charts/tree/master/charts/stable/littlelink
 - https://ghcr.io/techno-tim/littlelink-server
 - https://github.com/sethcottle/littlelink
+- https://github.com/techno-tim/littlelink-server
 
 ## Available Documentation
 

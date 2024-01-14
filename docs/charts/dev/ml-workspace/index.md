@@ -8,9 +8,9 @@ All-in-one web-based development environment for machine learning
 
 ## Chart Sources
 
-- https://github.com/ml-tooling/ml-workspace
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ml-workspace
 - https://hub.docker.com/r/mltooling/ml-workspace-light
+- https://github.com/ml-tooling/ml-workspace
 
 ## Available Documentation
 

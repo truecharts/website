@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [quassel-web-8.1.6](https://github.com/truecharts/charts/compare/quassel-web-8.1.5...quassel-web-8.1.6) (2024-01-09)
 
 ### Chore

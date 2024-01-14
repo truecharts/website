@@ -8,9 +8,9 @@ FacturaScripts is an accounting, billing and CRM program with it you can manage 
 
 ## Chart Sources
 
-- https://hub.docker.com/r/unraides/facturascripts
 - https://facturascripts.com/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/facturascripts
+- https://hub.docker.com/r/unraides/facturascripts
 
 ## Available Documentation
 

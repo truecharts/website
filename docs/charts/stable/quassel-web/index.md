@@ -8,8 +8,8 @@ Quassel-web is a web client for Quassel.
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/quassel-web
 - https://github.com/truecharts/charts/tree/master/charts/stable/quassel-web
+- https://ghcr.io/linuxserver/quassel-web
 
 ## Available Documentation
 

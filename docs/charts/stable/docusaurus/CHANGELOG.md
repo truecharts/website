@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [docusaurus-7.1.7](https://github.com/truecharts/charts/compare/docusaurus-7.1.6...docusaurus-7.1.7) (2024-01-09)
 
 ### Chore

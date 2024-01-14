@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [googlephotossync-4.2.2](https://github.com/truecharts/charts/compare/googlephotossync-4.2.1...googlephotossync-4.2.2) (2024-01-10)
 
 ### Chore

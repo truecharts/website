@@ -8,9 +8,9 @@ PuTTY is a free and open-source terminal emulator, serial console and network fi
 
 ## Chart Sources
 
-- https://hub.docker.com/r/jlesage/putty
 - https://github.com/jlesage/docker-putty
 - https://github.com/truecharts/charts/tree/master/charts/stable/putty
+- https://hub.docker.com/r/jlesage/putty
 
 ## Available Documentation
 

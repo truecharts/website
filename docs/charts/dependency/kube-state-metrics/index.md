@@ -8,8 +8,8 @@ kube-state-metrics is a simple service that listens to the Kubernetes API server
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/dependency/kube-state-metrics
 - https://hub.docker.com/r/bitnami/kube-state-metrics
+- https://github.com/truecharts/charts/tree/master/charts/dependency/kube-state-metrics
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ LXDE desktop ubuntu (use remote desktop client to connect)
 
 ## Chart Sources
 
+- https://registry.hub.docker.com/r/snoopy86/desktop-dockers/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ubuntu-xrdp
 - https://hub.docker.com/r/snoopy86/desktop-dockers
-- https://registry.hub.docker.com/r/snoopy86/desktop-dockers/
 
 ## Available Documentation
 

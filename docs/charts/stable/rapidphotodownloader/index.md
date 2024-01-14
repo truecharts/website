@@ -8,9 +8,9 @@ This Chart will download and install Rapid Photo Downloader.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/ich777/rapidphotodownloader
 - https://www.damonlynch.net/rapid/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/rapidphotodownloader
-- https://hub.docker.com/r/ich777/rapidphotodownloader
 
 ## Available Documentation
 

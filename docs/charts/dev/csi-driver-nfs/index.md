@@ -8,8 +8,8 @@ csi-driver-nfs is a nfs CSI driver for kubernetes
 
 ## Chart Sources
 
-- https://cert-manager.io/
 - https://github.com/cert-manager
+- https://cert-manager.io/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/csi-driver-nfs
 
 ## Available Documentation

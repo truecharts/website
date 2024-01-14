@@ -8,9 +8,9 @@ iSpy's Agent DVR, a standalone DVR service to manage IP cameras.
 
 ## Chart Sources
 
-- https://github.com/doitandbedone/ispyagentdvr-docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/ispy-agent-dvr
 - https://hub.docker.com/r/doitandbedone/ispyagentdvr
+- https://github.com/doitandbedone/ispyagentdvr-docker
 
 ## Available Documentation
 

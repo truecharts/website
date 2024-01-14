@@ -8,9 +8,9 @@ A Chart Chart designed to watch a directory and encode media files.
 
 ## Chart Sources
 
+- https://hub.docker.com/r/snoopy86/ffmpeg
 - https://registry.hub.docker.com/r/snoopy86/ffmpeg/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/ffmpeg-mkvdts2ac3
-- https://hub.docker.com/r/snoopy86/ffmpeg
 
 ## Available Documentation
 

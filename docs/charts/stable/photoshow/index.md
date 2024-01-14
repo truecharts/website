@@ -8,10 +8,10 @@ A gallery software at its easiest, it doesn't even require a database.
 
 ## Chart Sources
 
-- https://ghcr.io/linuxserver/photoshow
-- https://github.com/thibaud-rohmer/PhotoShow
 - https://github.com/linuxserver/docker-photoshow
+- https://github.com/thibaud-rohmer/PhotoShow
 - https://github.com/truecharts/charts/tree/master/charts/stable/photoshow
+- https://ghcr.io/linuxserver/photoshow
 
 ## Available Documentation
 

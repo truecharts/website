@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [metabase-2.1.7](https://github.com/truecharts/charts/compare/metabase-2.1.6...metabase-2.1.7) (2024-01-09)
 
 ### Chore

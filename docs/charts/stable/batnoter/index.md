@@ -8,9 +8,9 @@ BatNoter is a web application that allows users to store notes in their git repo
 
 ## Chart Sources
 
+- https://ghcr.io/batnoter/batnoter/batnoter-ui
 - https://github.com/batnoter/batnoter
 - https://github.com/truecharts/charts/tree/master/charts/incubator/batnoter
-- https://ghcr.io/batnoter/batnoter/batnoter-ui
 
 ## Available Documentation
 

@@ -9,7 +9,7 @@ Jupyter a web based IDE
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/jupyter
-- https://hub.docker.com/r/jupyter/pyspark-notebook
+- https://hub.docker.com/r/jupyter/minimal-notebook
 - https://github.com/jupyter/docker-stacks
 
 ## Available Documentation

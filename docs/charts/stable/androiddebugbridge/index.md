@@ -8,8 +8,8 @@ Control AndroidTV/FireTV devices through ADB from the Home Assistant Core Chart.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/barnybbb/adb-hass-androidtv
 - https://github.com/truecharts/charts/tree/master/charts/incubator/androiddebugbridge
+- https://hub.docker.com/r/barnybbb/adb-hass-androidtv
 
 ## Available Documentation
 

@@ -8,10 +8,10 @@ A complete web based IDE with terminal access
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/cloud9
-- https://ghcr.io/linuxserver/cloud9
 - https://github.com/c9/core
 - https://aws.amazon.com/cloud9/
+- https://github.com/truecharts/charts/tree/master/charts/stable/cloud9
+- https://ghcr.io/linuxserver/cloud9
 
 ## Available Documentation
 

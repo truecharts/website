@@ -8,8 +8,8 @@ A self hosted virtual browser that runs in Chart
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/neko
 - https://hub.docker.com/r/m1k1o/neko
+- https://github.com/truecharts/charts/tree/master/charts/incubator/neko
 
 ## Available Documentation
 

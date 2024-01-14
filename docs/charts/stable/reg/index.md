@@ -9,9 +9,9 @@ Docker registry v2 command line client and repo listing generator with security 
 ## Chart Sources
 
 - https://github.com/genuinetools/reg
+- https://github.com/k8s-at-home/container-images/
 - https://github.com/truecharts/charts/tree/master/charts/stable/reg
 - https://hub.docker.com/_/registry
-- https://github.com/k8s-at-home/container-images/
 
 ## Available Documentation
 

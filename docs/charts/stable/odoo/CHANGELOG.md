@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [odoo-16.1.7](https://github.com/truecharts/charts/compare/odoo-16.1.6...odoo-16.1.7) (2024-01-09)
 
 ### Chore

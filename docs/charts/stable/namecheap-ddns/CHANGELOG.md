@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [namecheap-ddns-4.1.6](https://github.com/truecharts/charts/compare/namecheap-ddns-4.1.5...namecheap-ddns-4.1.6) (2024-01-09)
 
 ### Chore

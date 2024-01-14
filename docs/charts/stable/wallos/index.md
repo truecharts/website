@@ -8,9 +8,9 @@ Wallos - Self Hosted Subscription tracker
 
 ## Chart Sources
 
+- https://github.com/ellite/Wallos
 - https://github.com/truecharts/charts/tree/master/charts/stable/wallos
 - https://hub.docker.com/r/bellamy/wallos
-- https://github.com/ellite/Wallos
 
 ## Available Documentation
 

@@ -8,10 +8,10 @@ A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no 
 
 ## Chart Sources
 
-- https://github.com/nicholaswilde/docker-twtxt
 - https://github.com/prologic/twtxt
 - https://github.com/truecharts/charts/tree/master/charts/stable/twtxt
 - https://ghcr.io/nicholaswilde/twtxt
+- https://github.com/nicholaswilde/docker-twtxt
 
 ## Available Documentation
 

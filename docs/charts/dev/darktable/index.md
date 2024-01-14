@@ -8,8 +8,8 @@ Darktable is an open source photography workflow application and raw developer.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/darktable
 - https://ghcr.io/linuxserver/darktable
+- https://github.com/truecharts/charts/tree/master/charts/incubator/darktable
 
 ## Available Documentation
 

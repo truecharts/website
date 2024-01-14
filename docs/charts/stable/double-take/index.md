@@ -8,9 +8,9 @@ Unified UI and API for processing and training images for facial recognition
 
 ## Chart Sources
 
-- https://github.com/jakowenko/double-take
 - https://github.com/truecharts/charts/tree/master/charts/stable/double-take
 - https://hub.docker.com/r/skrashevich/double-take
+- https://github.com/jakowenko/double-take
 
 ## Available Documentation
 

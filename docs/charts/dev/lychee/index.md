@@ -8,9 +8,9 @@ Lychee is a free photo-management tool, which runs on your server or web-space
 
 ## Chart Sources
 
+- https://hub.docker.com/r/lycheeorg/lychee-laravel
 - https://github.com/LycheeOrg/Lychee
 - https://github.com/truecharts/charts/tree/master/charts/incubator/lychee
-- https://hub.docker.com/r/lycheeorg/lychee-laravel
 
 ## Available Documentation
 

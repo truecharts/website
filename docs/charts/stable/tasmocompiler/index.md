@@ -8,9 +8,9 @@ TasmoCompiler is a simple web GUI which allows you to compile fantastic Tasmota 
 
 ## Chart Sources
 
-- https://github.com/benzino77/tasmocompiler
 - https://github.com/truecharts/charts/tree/master/charts/incubator/tasmocompiler
 - https://hub.docker.com/r/benzino77/tasmocompiler
+- https://github.com/benzino77/tasmocompiler
 
 ## Available Documentation
 

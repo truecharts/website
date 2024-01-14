@@ -8,9 +8,9 @@ Flame is self-hosted start page for your server. Easily manage your apps and boo
 
 ## Chart Sources
 
+- https://github.com/pawelmalak/flame
 - https://github.com/truecharts/charts/tree/master/charts/incubator/flame
 - https://hub.docker.com/r/pawelmalak/flame
-- https://github.com/pawelmalak/flame
 
 ## Available Documentation
 

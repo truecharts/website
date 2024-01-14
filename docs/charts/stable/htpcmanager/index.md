@@ -8,8 +8,8 @@ Htpcmanager is a front end for many htpc related applications.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/htpcmanager
 - https://ghcr.io/linuxserver/htpcmanager
+- https://github.com/truecharts/charts/tree/master/charts/stable/htpcmanager
 
 ## Available Documentation
 
