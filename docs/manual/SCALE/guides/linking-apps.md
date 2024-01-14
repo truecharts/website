@@ -44,9 +44,9 @@ Be aware: you'll only be able to reach ports published on the service they are p
 
 HeavyScript is a very useful command-line utility built to help simplify administration of TrueNAS Scale apps. One of it's many features is being able to list the internal DNS names and ports of your apps. If you are unsure of how names are "built" - then this is by far the easist and recommended way to be sure you are using the correct name.
 
-Firstly, install HeavyScript or update your current installation to at least version 2.0.0. Visit their GitHub repo to find out how: https://github.com/Heavybullets8/heavy_script
+Firstly, install HeavyScript or update your current installation to at least version 2.9.0. Visit their GitHub repo to find out how: https://github.com/Heavybullets8/heavy_script
 
-To list the DNS entries for your apps, open the TrueNAS Scale shell and use the command `heavyscript dns -a`
+To list the DNS entries for your apps, open the TrueNAS Scale shell and use the command `heavyscript dns` or `heavyscript dns APPNAME1 APPNAME2`
 
 ## Naming Examples
 
