@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [prusaslicer-novnc-7.1.10](https://github.com/truecharts/charts/compare/prusaslicer-novnc-7.1.9...prusaslicer-novnc-7.1.10) (2024-01-14)
+
+
 ## [prusaslicer-novnc-7.1.9](https://github.com/truecharts/charts/compare/prusaslicer-novnc-7.1.8...prusaslicer-novnc-7.1.9) (2024-01-14)
 
 ### Chore

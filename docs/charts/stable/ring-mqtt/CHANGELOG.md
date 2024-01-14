@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [ring-mqtt-7.1.7](https://github.com/truecharts/charts/compare/ring-mqtt-7.1.6...ring-mqtt-7.1.7) (2024-01-14)
+
+
 
 
 ## [ring-mqtt-7.1.6](https://github.com/truecharts/charts/compare/ring-mqtt-7.1.5...ring-mqtt-7.1.6) (2024-01-09)

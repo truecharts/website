@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [vertex-4.1.8](https://github.com/truecharts/charts/compare/vertex-4.1.7...vertex-4.1.8) (2024-01-14)
+
+
 
 
 ## [vertex-4.1.7](https://github.com/truecharts/charts/compare/vertex-4.1.6...vertex-4.1.7) (2024-01-09)

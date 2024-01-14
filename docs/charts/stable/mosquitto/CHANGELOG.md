@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [mosquitto-13.1.7](https://github.com/truecharts/charts/compare/mosquitto-13.1.6...mosquitto-13.1.7) (2024-01-14)
+
+
 
 
 ## [mosquitto-13.1.6](https://github.com/truecharts/charts/compare/mosquitto-13.1.5...mosquitto-13.1.6) (2024-01-09)

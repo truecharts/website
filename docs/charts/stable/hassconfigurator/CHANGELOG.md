@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [hassconfigurator-4.1.7](https://github.com/truecharts/charts/compare/hassconfigurator-4.1.6...hassconfigurator-4.1.7) (2024-01-14)
+
+
 
 
 ## [hassconfigurator-4.1.6](https://github.com/truecharts/charts/compare/hassconfigurator-4.1.5...hassconfigurator-4.1.6) (2024-01-09)

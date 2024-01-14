@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [venstar2mqtt-4.1.7](https://github.com/truecharts/charts/compare/venstar2mqtt-4.1.6...venstar2mqtt-4.1.7) (2024-01-14)
+
+
 
 
 ## [venstar2mqtt-4.1.6](https://github.com/truecharts/charts/compare/venstar2mqtt-4.1.5...venstar2mqtt-4.1.6) (2024-01-09)

@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [androiddebugbridge-4.1.8](https://github.com/truecharts/charts/compare/androiddebugbridge-4.1.7...androiddebugbridge-4.1.8) (2024-01-14)
+
+
 
 
 ## [androiddebugbridge-4.1.7](https://github.com/truecharts/charts/compare/androiddebugbridge-4.1.6...androiddebugbridge-4.1.7) (2024-01-09)

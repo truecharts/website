@@ -2,7 +2,7 @@
 title: somfyprotect2mqtt
 ---
 
-![Version: 1.0.13](https://img.shields.io/badge/Version-1.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.1](https://img.shields.io/badge/AppVersion-2023.11.1-informational?style=flat-square)
+![Version: 1.0.14](https://img.shields.io/badge/Version-1.0.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.11.1](https://img.shields.io/badge/AppVersion-2023.11.1-informational?style=flat-square)
 
 Somfy Protect to MQTT
 
@@ -14,3 +14,4 @@ Somfy Protect to MQTT
 
 ## Available Documentation
 
+- [**Changelog**](./CHANGELOG.md)

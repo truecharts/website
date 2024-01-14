@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [grocy-17.1.8](https://github.com/truecharts/charts/compare/grocy-17.1.7...grocy-17.1.8) (2024-01-14)
+
+
 
 
 ## [grocy-17.1.7](https://github.com/truecharts/charts/compare/grocy-17.1.6...grocy-17.1.7) (2024-01-09)
