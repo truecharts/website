@@ -50,12 +50,6 @@ k3s kubectl delete deployment.apps/cloudnative-pg --namespace ix-cloudnative-pg
 
 - Install `prometheus-operator` first, then go back and install the app you were trying to install.
 - If you see this error with prometheus-operator already installed, then delete and reinstall.
-- Enter the following command
-
-```bash
-k3s kubectl delete deployment.apps/prometheus-operator --namespace ix-prometheus-operator
-```
-
 - While deleting prometheus-operator, if you encounter the error:
 
 ```bash
