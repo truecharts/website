@@ -10,17 +10,10 @@ TrueCharts Frequently Asked Questions
 
 We recommend using PVC for `config` storage, as it provides an easy way to roll back your application in case of a failed update. Furthermore, we currently only offer active support for this storage option. You can still use host path for your `media` files.
 
-:::caution
-
-Using host path is **not** compatible with shares!
-
-:::
-
 :::tip
 
 To share data, create an `NFS` share and select `NFS Share` for the `Type of Storage` in the `Additional App Storage` settings.  
-You can create an `SMB` share on the same mount point if needed.  
-See [Why I can't use host path on both my apps and sharing services?](#why-i-cant-use-host-path-on-both-my-apps-and-sharing-services) for further details.
+You can create an `SMB` share on the same mount point if needed.
 
 :::
 
@@ -39,6 +32,8 @@ While it is technically feasible to use Access Control Lists (ACLs) for host pat
 Certain applications require ingress to work correctly for security reasons.
 Some examples are:
 
+- Authelia
+- Authentik
 - Vaultwarden
 - Nextcloud
 - Monica
@@ -129,34 +124,6 @@ Don't use `$` in your passwords, it won't work due to an upstream
 
 The `stable` train refers to the stability of our chart, not the container itself. However, if the container exhibits significant bugs or regularly introduces breaking changes, our chart may be reverted back to `incubator` until these issues are resolved.
 
-## Why I can't use host path on both my apps and sharing services?
-
-TrueNAS Scale includes a safety check that makes sure apps and sharing services (SMB, NFS, etc) do not use the same data.
-This is done to avoid permissions issues, as there are a lot of apps that change permissions without giving the user a warning,
-or just plain do not work with ACL's.
-
-This option is `opt out` and can be found in `Apps` -> `Settings` -> `Advanced Settings` -> `Enable Host Path Safety Checks`
-
-## What are my options regarding Host Path Safety Checks and support?
-
-- Option 1.
-
-  Validation _disabled_, with the caveat we will **not** provide support on things that involve storage.
-  If you have an issue with the app, the configuration screenshots must **not** have hostPath defined.
-  Get it up and running, and then you add host paths and figure out your permissions yourself.
-
-- Option 2.
-
-  Validation _enabled_, ANY sharing service _disabled_ for hostPaths that are used by Apps.
-  Full support included.
-
-- Option 3.
-
-  Validation _enabled_, ANY sharing service _enabled_.
-  You can mount paths on the host using the [NFS option on all TrueCharts apps](https://truecharts.org/manual/SCALE/guides/nfs-share).
-  With the caveat that if any app stores SQLite db file in the NFS, It's a matter of time to have it corrupted
-  and the NFS overhead.
-
 ## My app stays stopped even after clicking the start button multiple times.
 
 The following apps do not have active services running under an `ix` namespace, and as a result, they will always appear as "Stopped" in the SCALE UI:
@@ -211,6 +178,7 @@ Here's a list of Apps in the Stable and Enterprise trains that use CNPG (up to d
 `kanboard`
 `kutt`
 `librephotos`
+`linkwarden`
 `lychee`
 `mattermost`
 `mealie`
@@ -224,7 +192,6 @@ Here's a list of Apps in the Stable and Enterprise trains that use CNPG (up to d
 `outline`
 `paperless-ngx`
 `penpot`
-`pgadmin`
 `photoview`
 `postgresql`
 `quassel-core`
@@ -280,11 +247,11 @@ Use option ii above or use the Heavyscript `args` branch
 
 to stop:
 
-heavyscript app --stop APPNAME
+`heavyscript app --stop APPNAME`
 
 to start:
 
-heavyscript app --start APPNAME
+`heavyscript app --start APPNAME`
 
 :::note
 
