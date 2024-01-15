@@ -1,6 +1,6 @@
 ---
-sidebar_position: 17
 title: Common Errors and Solutions
+sidebar_position: 17
 ---
 
 ## General Errors
