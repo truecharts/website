@@ -20,6 +20,32 @@ Support Policy: https://truecharts.org/manual/SUPPORT
 
 ---
 
+### cannot patch "APPNAME-redis" with kind StatefulSet
+
+`[EFAULT] Failed to update App: Error: UPGRADE FAILED: cannot patch "APPNAME-redis" with kind StatefulSet: StatefulSet.apps "APPNAME-redis" is invalid: spec: Forbidden: updates to statefulset spec for fields other than 'replicas', 'ordinals', 'template', 'updateStrategy', 'persistentVolumeClaimRetentionPolicy' and 'minReadySeconds' are forbidden`
+
+Solution:
+
+To check which have statefulsets:
+
+```bash
+k3s kubectl get statefulsets -A | grep "ix-"
+```
+
+Then to delete the statefulset:
+
+```bash
+k3s kubectl delete statefulset STATEFULSETNAME -n ix-APPNAME
+```
+
+Example:
+
+```bash
+k3s kubectl delete statefulset nextcloud-redis -n ix-nextcloud
+```
+
+Once deleted you can attempt the update (or if you were already updated to latest versions, then edit and save without any changes)
+
 ## Operator-Related Errors
 
 ### service "cnpg-webhook-service" not found
@@ -35,6 +61,7 @@ k3s kubectl delete deployment.apps/cloudnative-pg --namespace ix-cloudnative-pg
 ```
 
 - Update `cloudnative-pg` to the latest version, or if you already on the latest version, edit `cloudnative-pg` and save/update it again without any changes.
+- If the app stays stopped, hit the start button in the UI for `cloudnative-pg`
 
 ### "monitoring.coreos.com/v1" ensure CRDs are installed first
 
@@ -63,6 +90,13 @@ Then install `prometheus-operator` again. It will fail on the first install atte
 `[EFAULT] Failed to install App: Error: INSTALLATION FAILED: rendered manifests contain a resource that already exists. Unable to continue with install: CustomResourceDefinition "certificaterequests.cert-manager.io" in namespace "" exists and cannot be imported into the current release: invalid ownership metadata; label validation error: missing key "app.kubernetes.io/managed-by": must be set to "Helm"; annotation validation error: missing key "meta.helm.sh/release-name": must be set to "cert-manager"; annotation validation error: missing key "meta.helm.sh/release-namespace": must be set to "ix-cert-manager"`
 
 Solution:
+The **cert-manager operator** is required for the use of cert-manager and clusterissuer to issue certificates for chart ingress.
+
+To remove the previous automatically installed operator run this in the system shell as **root**:
+
+```bash
+k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete4
+```
 
 https://truecharts.org/manual/FAQ#cert-manager
 
@@ -71,6 +105,27 @@ https://truecharts.org/manual/FAQ#cert-manager
 `[EFAULT] Failed to install App: Error: INSTALLATION FAILED: rendered manifests contain a resource that already exists. Unable to continue with install: CustomResourceDefinition "backups.postgresql.cnpg.io" in namespace "" exists and cannot be imported into the current release: invalid ownership metadata; label validation error: missing key "app.kubernetes.io/managed-by": must be set to "Helm"; annotation validation error: missing key "meta.helm.sh/release-name": must be set to "cloudnative-pg"; annotation validation error: missing key "meta.helm.sh/release-namespace": must be set to "ix-cloudnative-pg"`
 
 Solution:
+The **cloudnative-pg operator** is required for the use of any charts that utilize CloudNative Postgresql (CNPG).
+
+:::warning DATA LOSS
+
+The following command is destructive and will delete any existing CNPG databases.
+
+Run the following command in system shell as **root** to see if you have any current CNPG databases to migrate:
+
+```bash
+k3s kubectl get cluster -A
+```
+
+Follow [this guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+
+:::
+
+To remove the previous automatically installed operator run this in the system shell as **root**:
+
+```bash
+k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete2
+```
 
 https://truecharts.org/manual/FAQ#cloudnative-pg
 
@@ -79,6 +134,19 @@ https://truecharts.org/manual/FAQ#cloudnative-pg
 `[EFAULT] Failed to install App: Error: INSTALLATION FAILED: rendered manifests contain a resource that already exists. Unable to continue with install: CustomResourceDefinition "addresspools.metallb.io" in namespace "" exists and cannot be imported into the current release: invalid ownership metadata; label validation error: missing key "app.kubernetes.io/managed-by": must be set to "Helm"; annotation validation error: missing key "meta.helm.sh/release-name": must be set to "metallb"; annotation validation error: missing key "meta.helm.sh/release-namespace": must be set to "ix-metallb"`
 
 Solution:
+The **metallb operator** is required for the use of MetalLB to have each chart utilize a unique IP address.
+
+:::warning LOSS OF CONNECTIVITY
+
+Installing the MetalLB operator will prevent the use of the TrueNAS Scale integrated load balancer. Only install this operator if you intend to use MetalLB.
+
+:::
+
+To remove the previous automatically installed operator run this in the system shell as **root**:
+
+```bash
+k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete
+```
 
 https://truecharts.org/manual/FAQ#metallb
 
@@ -87,6 +155,13 @@ https://truecharts.org/manual/FAQ#metallb
 `[EFAULT] Failed to install chart release: Error: INSTALLATION FAILED: rendered manifests contain a resource that already exists. Unable to continue with install: CustomResourceDefinition "alertmanagerconfigs.monitoring.coreos.com" in namespace "" exists and cannot be imported into the current release: invalid ownership metadata; label validation error: missing key "app.kubernetes.io/managed-by": must be set to "Helm"; annotation validation error: missing key "meta.helm.sh/release-name": must be set to "prometheus-operator"; annotation validation error: missing key "meta.helm.sh/release-namespace": must be set to "ix-prometheus-operator"`
 
 Solution:
+The **prometheus-operator** is required for the use of Prometheus metrics and for any charts that utilize CloudNative Postgresql (CNPG).
+
+To remove the previous automatically installed operator run this in the system shell as **root**:
+
+```bash
+k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete3
+```
 
 https://truecharts.org/manual/FAQ#prometheus-operator
 
