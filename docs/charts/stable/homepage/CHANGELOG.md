@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [homepage-6.3.9](https://github.com/truecharts/charts/compare/homepage-6.3.8...homepage-6.3.9) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 ## [homepage-6.3.8](https://github.com/truecharts/charts/compare/homepage-6.3.7...homepage-6.3.8) (2024-01-21)
 
 ### Chore

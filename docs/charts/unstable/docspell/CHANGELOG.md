@@ -4,6 +4,53 @@ title: Changelog
 
 
 
+## [docspell-4.0.11](https://github.com/truecharts/charts/compare/docspell-3.0.29...docspell-4.0.11) (2024-01-21)
+
+### Chore
+
+
+
+- move everything to consume OCI-hosted common-chart dependency
+
+- increase common version for oci fixes
+
+- bump all charts for OCI test push
+
+- force bump to ensure up-to-date catalogs
+
+- bump everything to ensure patches are applied globally
+
+- bump patch versions on all charts for new GUI release
+
+- Bump everything to force min/max scale version update
+
+- bump common ([#16751](https://github.com/truecharts/charts/issues/16751))
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+- update helm chart solr to 8.0.1 ([#16185](https://github.com/truecharts/charts/issues/16185))
+
+- update helm chart solr to 8.0.0 ([#16019](https://github.com/truecharts/charts/issues/16019))
+
+- update helm chart common to 16.2.6 ([#15731](https://github.com/truecharts/charts/issues/15731))
+
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))
+
+- standardize ./img references ([#16704](https://github.com/truecharts/charts/issues/16704))
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+### Fix
+
+
+
+- correct mistaken common references
+
+- bump to release middleware fix
+
+- expose custom options for homepage integration
+
+
 ## [docspell-4.0.10](https://github.com/truecharts/charts/compare/docspell-3.0.29...docspell-4.0.10) (2024-01-14)
 
 ### Chore

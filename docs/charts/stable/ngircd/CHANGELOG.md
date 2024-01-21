@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [ngircd-8.1.7](https://github.com/truecharts/charts/compare/ngircd-8.1.6...ngircd-8.1.7) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 
 
 ## [ngircd-8.1.6](https://github.com/truecharts/charts/compare/ngircd-8.1.5...ngircd-8.1.6) (2024-01-09)

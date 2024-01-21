@@ -2,15 +2,15 @@
 title: piaware
 ---
 
-![Version: 11.1.6](https://img.shields.io/badge/Version-11.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: "9.0"](https://img.shields.io/badge/AppVersion-"9.0"-informational?style=flat-square)
+![Version: 11.1.7](https://img.shields.io/badge/Version-11.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.0.0](https://img.shields.io/badge/AppVersion-9.0.0-informational?style=flat-square)
 
 Program for forwarding ADS-B data to FlightAware
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/incubator/piaware
-- https://hub.docker.com/r/mikenye/piaware
 - https://github.com/flightaware/piaware
+- https://github.com/truecharts/charts/tree/master/charts/stable/piaware
+- https://hub.docker.com/r/mikenye/piaware
 
 ## Available Documentation
 

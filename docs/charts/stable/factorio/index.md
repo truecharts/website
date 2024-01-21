@@ -2,7 +2,7 @@
 title: factorio
 ---
 
-![Version: 6.1.12](https://img.shields.io/badge/Version-6.1.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
+![Version: 6.1.13](https://img.shields.io/badge/Version-6.1.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
 
 A game in which you build and maintain factories.
 

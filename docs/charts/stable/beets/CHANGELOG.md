@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [beets-10.1.11](https://github.com/truecharts/charts/compare/beets-10.1.10...beets-10.1.11) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 ## [beets-10.1.10](https://github.com/truecharts/charts/compare/beets-10.1.9...beets-10.1.10) (2024-01-21)
 
 ### Chore

@@ -4,6 +4,57 @@ title: Changelog
 
 
 
+## [netbox-4.0.13](https://github.com/truecharts/charts/compare/netbox-3.0.42...netbox-4.0.13) (2024-01-21)
+
+### Chore
+
+
+
+- Bump everything to force min/max scale version update
+
+- move everything to consume OCI-hosted common-chart dependency
+
+- fix move mistake and cleanup metadata
+
+- bump patch versions on all charts for new GUI release
+
+- bump all charts for OCI test push
+
+- bump everything to ensure patches are applied globally
+
+- force bump to ensure up-to-date catalogs
+
+- increase common version for oci fixes
+
+- bump common ([#16751](https://github.com/truecharts/charts/issues/16751))
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+- update helm chart redis to 10.0.1 ([#16184](https://github.com/truecharts/charts/issues/16184))
+
+- update ignored by renovate (patch) ([#16673](https://github.com/truecharts/charts/issues/16673))
+
+- update helm chart common to 16.2.6 ([#15731](https://github.com/truecharts/charts/issues/15731))
+
+- update helm chart redis to 10.0.0 ([#16018](https://github.com/truecharts/charts/issues/16018))
+
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))
+
+- standardize ./img references ([#16704](https://github.com/truecharts/charts/issues/16704))
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+### Fix
+
+
+
+- correct mistaken common references
+
+- bump to release middleware fix
+
+- expose custom options for homepage integration
+
+
 ## [netbox-4.0.12](https://github.com/truecharts/charts/compare/netbox-3.0.42...netbox-4.0.12) (2024-01-14)
 
 ### Chore

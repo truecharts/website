@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [overseerr-12.1.7](https://github.com/truecharts/charts/compare/overseerr-12.1.6...overseerr-12.1.7) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 
 
 ## [overseerr-12.1.6](https://github.com/truecharts/charts/compare/overseerr-12.1.5...overseerr-12.1.6) (2024-01-09)

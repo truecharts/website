@@ -2,15 +2,15 @@
 title: unmanic
 ---
 
-![Version: 9.1.6](https://img.shields.io/badge/Version-9.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.2.4](https://img.shields.io/badge/AppVersion-0.2.4-informational?style=flat-square)
+![Version: 9.1.7](https://img.shields.io/badge/Version-9.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.2.4](https://img.shields.io/badge/AppVersion-0.2.4-informational?style=flat-square)
 
 Unmanic is a simple tool for optimising your file library.
 
 ## Chart Sources
 
+- https://github.com/Unmanic/unmanic
 - https://github.com/truecharts/charts/tree/master/charts/stable/unmanic
 - https://hub.docker.com/r/josh5/unmanic
-- https://github.com/Unmanic/unmanic
 
 ## Available Documentation
 

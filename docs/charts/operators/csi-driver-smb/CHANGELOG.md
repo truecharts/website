@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [csi-driver-smb-2.2.1](https://github.com/truecharts/charts/compare/csi-driver-smb-2.2.0...csi-driver-smb-2.2.1) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 ## [csi-driver-smb-2.2.0](https://github.com/truecharts/charts/compare/csi-driver-smb-2.1.9...csi-driver-smb-2.2.0) (2024-01-19)
 
 ### Chore

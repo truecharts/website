@@ -2,7 +2,7 @@
 title: ombi
 ---
 
-![Version: 17.1.9](https://img.shields.io/badge/Version-17.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.43.11](https://img.shields.io/badge/AppVersion-4.43.11-informational?style=flat-square)
+![Version: 17.1.10](https://img.shields.io/badge/Version-17.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.43.11](https://img.shields.io/badge/AppVersion-4.43.11-informational?style=flat-square)
 
 Want a Movie or TV Show on Plex or Emby? Use Ombi!
 
@@ -10,6 +10,7 @@ Want a Movie or TV Show on Plex or Emby? Use Ombi!
 
 - https://github.com/tidusjar/Ombi
 - https://github.com/truecharts/charts/tree/master/charts/stable/ombi
+- https://github.com/truecharts/containers/tree/master/apps/ombi
 
 ## Available Documentation
 

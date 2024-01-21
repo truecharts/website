@@ -2,7 +2,7 @@
 title: kdenlive
 ---
 
-![Version: 4.1.8](https://img.shields.io/badge/Version-4.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.9](https://img.shields.io/badge/Version-4.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platform video editing program made by the KDE community. Feature rich and production ready.
 
@@ -11,7 +11,7 @@ Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platfor
 - https://github.com/linuxserver/docker-kdenlive#readme
 - https://kdenlive.org/
 - https://github.com/orgs/linuxserver/packages/container/package/kdenlive
-- https://github.com/truecharts/charts/tree/master/charts/incubator/kdenlive
+- https://github.com/truecharts/charts/tree/master/charts/stable/kdenlive
 - https://fleet.linuxserver.io/image?name=linuxserver/kdenlive
 
 ## Available Documentation

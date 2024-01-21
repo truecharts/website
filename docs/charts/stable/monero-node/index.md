@@ -2,15 +2,15 @@
 title: monero-node
 ---
 
-![Version: 4.1.6](https://img.shields.io/badge/Version-4.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.7](https://img.shields.io/badge/Version-4.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Chart to run a monero full network node
 
 ## Chart Sources
 
-- https://hub.docker.com/r/kannix/monero-full-node
 - https://github.com/kannix/monero-full-node
-- https://github.com/truecharts/charts/tree/master/charts/incubator/monero-node
+- https://github.com/truecharts/charts/tree/master/charts/stable/monero-node
+- https://hub.docker.com/r/kannix/monero-full-node
 
 ## Available Documentation
 

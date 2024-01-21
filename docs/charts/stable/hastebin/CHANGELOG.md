@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [hastebin-4.1.7](https://github.com/truecharts/charts/compare/hastebin-4.1.6...hastebin-4.1.7) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 
 
 ## [hastebin-4.1.6](https://github.com/truecharts/charts/compare/hastebin-4.1.5...hastebin-4.1.6) (2024-01-09)

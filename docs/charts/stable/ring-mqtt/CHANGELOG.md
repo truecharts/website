@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [ring-mqtt-7.1.8](https://github.com/truecharts/charts/compare/ring-mqtt-7.1.7...ring-mqtt-7.1.8) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 ## [ring-mqtt-7.1.7](https://github.com/truecharts/charts/compare/ring-mqtt-7.1.6...ring-mqtt-7.1.7) (2024-01-14)
 
 

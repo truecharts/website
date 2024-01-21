@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [pihole-14.0.1](https://github.com/truecharts/charts/compare/pihole-14.0.0...pihole-14.0.1) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 
 
 ## [pihole-14.0.0](https://github.com/truecharts/charts/compare/pihole-13.1.5...pihole-14.0.0) (2024-01-09)

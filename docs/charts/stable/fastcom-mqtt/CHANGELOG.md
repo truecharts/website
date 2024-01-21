@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [fastcom-mqtt-4.1.8](https://github.com/truecharts/charts/compare/fastcom-mqtt-4.1.7...fastcom-mqtt-4.1.8) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 ## [fastcom-mqtt-4.1.7](https://github.com/truecharts/charts/compare/fastcom-mqtt-4.1.6...fastcom-mqtt-4.1.7) (2024-01-14)
 
 

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nitter-5.1.10](https://github.com/truecharts/charts/compare/nitter-5.1.9...nitter-5.1.10) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 
 
 ## [nitter-5.1.9](https://github.com/truecharts/charts/compare/nitter-5.1.8...nitter-5.1.9) (2024-01-09)

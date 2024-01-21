@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [shlink-web-client-9.1.7](https://github.com/truecharts/charts/compare/shlink-web-client-9.1.6...shlink-web-client-9.1.7) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 
 
 ## [shlink-web-client-9.1.6](https://github.com/truecharts/charts/compare/shlink-web-client-9.1.5...shlink-web-client-9.1.6) (2024-01-09)

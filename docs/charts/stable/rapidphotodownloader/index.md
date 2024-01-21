@@ -2,15 +2,15 @@
 title: rapidphotodownloader
 ---
 
-![Version: 4.1.6](https://img.shields.io/badge/Version-4.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.7](https://img.shields.io/badge/Version-4.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This Chart will download and install Rapid Photo Downloader.
 
 ## Chart Sources
 
-- https://hub.docker.com/r/ich777/rapidphotodownloader
 - https://www.damonlynch.net/rapid/
-- https://github.com/truecharts/charts/tree/master/charts/incubator/rapidphotodownloader
+- https://github.com/truecharts/charts/tree/master/charts/stable/rapidphotodownloader
+- https://hub.docker.com/r/ich777/rapidphotodownloader
 
 ## Available Documentation
 

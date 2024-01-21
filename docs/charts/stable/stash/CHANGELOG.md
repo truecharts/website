@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [stash-14.2.9](https://github.com/truecharts/charts/compare/stash-14.2.8...stash-14.2.9) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 ## [stash-14.2.8](https://github.com/truecharts/charts/compare/stash-14.2.7...stash-14.2.8) (2024-01-15)
 
 ### Chore

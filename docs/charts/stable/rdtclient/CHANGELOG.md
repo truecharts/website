@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [rdtclient-3.1.10](https://github.com/truecharts/charts/compare/rdtclient-3.1.9...rdtclient-3.1.10) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 ## [rdtclient-3.1.9](https://github.com/truecharts/charts/compare/rdtclient-3.1.8...rdtclient-3.1.9) (2024-01-14)
 
 ### Chore

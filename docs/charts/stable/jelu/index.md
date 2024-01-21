@@ -2,14 +2,14 @@
 title: jelu
 ---
 
-![Version: 4.1.8](https://img.shields.io/badge/Version-4.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.9](https://img.shields.io/badge/Version-4.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Track what you have read, what you are reading and what you want to read.
 
 ## Chart Sources
 
 - https://github.com/bayang/jelu
-- https://github.com/truecharts/charts/tree/master/charts/incubator/jelu
+- https://github.com/truecharts/charts/tree/master/charts/stable/jelu
 - https://hub.docker.com/r/wabayang/jelu
 
 ## Available Documentation

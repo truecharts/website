@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nexus-oss-4.2.1](https://github.com/truecharts/charts/compare/nexus-oss-4.2.0...nexus-oss-4.2.1) (2024-01-21)
+
+### Chore
+
+
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+
 ## [nexus-oss-4.2.0](https://github.com/truecharts/charts/compare/nexus-oss-4.1.6...nexus-oss-4.2.0) (2024-01-14)
 
 ### Chore

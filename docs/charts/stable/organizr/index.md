@@ -2,15 +2,15 @@
 title: organizr
 ---
 
-![Version: 17.1.6](https://img.shields.io/badge/Version-17.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 17.1.7](https://img.shields.io/badge/Version-17.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 HTPC/Homelab Services Organizer
 
 ## Chart Sources
 
+- https://github.com/causefx/Organizr
 - https://github.com/truecharts/charts/tree/master/charts/stable/organizr
 - https://hub.docker.com/r/organizr/organizr
-- https://github.com/causefx/Organizr
 
 ## Available Documentation
 

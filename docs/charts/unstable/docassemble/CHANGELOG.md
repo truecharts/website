@@ -4,6 +4,59 @@ title: Changelog
 
 
 
+## [docassemble-0.0.21](https://github.com/truecharts/charts/compare/docassemble-0.0.9...docassemble-0.0.21) (2024-01-21)
+
+### Chore
+
+
+
+- Bump everything to force min/max scale version update
+
+- move everything to consume OCI-hosted common-chart dependency
+
+- move new-common incubator stuff to stable ([#15646](https://github.com/truecharts/charts/issues/15646))
+
+- fix move mistake and cleanup metadata
+
+- bump patch versions on all charts for new GUI release
+
+- bump all charts for OCI test push
+
+- bump everything to ensure patches are applied globally
+
+- force bump to ensure up-to-date catalogs
+
+- increase common version for oci fixes
+
+- update metadata in chart.yaml ([#17457](https://github.com/truecharts/charts/issues/17457))
+
+- update helm chart common to 16.2.6 ([#15731](https://github.com/truecharts/charts/issues/15731))
+
+- update ignored by renovate (patch) ([#16673](https://github.com/truecharts/charts/issues/16673))
+
+- update helm chart common to 14.5.0 ([#15704](https://github.com/truecharts/charts/issues/15704))
+
+- lints some docs, uses front-matter instead of # h1, and fix list items in changelog ([#16589](https://github.com/truecharts/charts/issues/16589))
+
+- standardize ./img references ([#16704](https://github.com/truecharts/charts/issues/16704))
+
+- fix some refs ([#16749](https://github.com/truecharts/charts/issues/16749))
+
+- remove non-existent template refs ([#16738](https://github.com/truecharts/charts/issues/16738))
+
+### Fix
+
+
+
+- correct mistaken common references
+
+- bump to release middleware fix
+
+- ensure the cnpg GUI is included on CNPG apps
+
+- expose custom options for homepage integration
+
+
 ## [docassemble-0.0.20](https://github.com/truecharts/charts/compare/docassemble-0.0.9...docassemble-0.0.20) (2024-01-14)
 
 ### Chore
