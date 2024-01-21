@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [csi-driver-smb-2.2.3](https://github.com/truecharts/charts/compare/csi-driver-smb-2.2.2...csi-driver-smb-2.2.3) (2024-01-21)
+
+### Chore
+
+
+
+- update container image tccr.io/tccr/alpine to latest[@14eaf3f](https://github.com/14eaf3f) by renovate ([#17470](https://github.com/truecharts/charts/issues/17470))
+
+
 ## [csi-driver-smb-2.2.2](https://github.com/truecharts/charts/compare/csi-driver-smb-2.2.1...csi-driver-smb-2.2.2) (2024-01-21)
 
 ### Chore

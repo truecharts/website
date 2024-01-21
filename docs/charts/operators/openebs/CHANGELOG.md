@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [openebs-2.1.12](https://github.com/truecharts/charts/compare/openebs-2.1.11...openebs-2.1.12) (2024-01-21)
+
+### Chore
+
+
+
+- update container image tccr.io/tccr/alpine to latest[@14eaf3f](https://github.com/14eaf3f) by renovate ([#17470](https://github.com/truecharts/charts/issues/17470))
+
+
 ## [openebs-2.1.11](https://github.com/truecharts/charts/compare/openebs-2.1.10...openebs-2.1.11) (2024-01-21)
 
 ### Chore
