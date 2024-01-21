@@ -2,15 +2,15 @@
 title: goaccess-npm-logs
 ---
 
-![Version: 4.1.6](https://img.shields.io/badge/Version-4.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.7](https://img.shields.io/badge/Version-4.1.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 GoAccess for Nginx Proxy Manager Logs
 
 ## Chart Sources
 
-- https://hub.docker.com/r/xavierh/goaccess-for-nginxproxymanager
 - https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
-- https://github.com/truecharts/charts/tree/master/charts/incubator/goaccess-npm-logs
+- https://github.com/truecharts/charts/tree/master/charts/stable/goaccess-npm-logs
+- https://hub.docker.com/r/xavierh/goaccess-for-nginxproxymanager
 
 ## Available Documentation
 
