@@ -2,7 +2,7 @@
 title: emby-sync
 ---
 
-![Version: 4.1.8](https://img.shields.io/badge/Version-4.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.9](https://img.shields.io/badge/Version-4.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A small flask based service to sync up Emby clients
 

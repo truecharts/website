@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [dashdot-7.3.1](https://github.com/truecharts/charts/compare/dashdot-7.3.0...dashdot-7.3.1) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.26[@24c98f7](https://github.com/24c98f7) by renovate ([#17409](https://github.com/truecharts/charts/issues/17409))
+
+
 ## [dashdot-7.3.0](https://github.com/truecharts/charts/compare/dashdot-7.2.4...dashdot-7.3.0) (2024-01-21)
 
 ### Chore

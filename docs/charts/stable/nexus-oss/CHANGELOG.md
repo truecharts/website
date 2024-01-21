@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nexus-oss-4.2.2](https://github.com/truecharts/charts/compare/nexus-oss-4.2.1...nexus-oss-4.2.2) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.26[@24c98f7](https://github.com/24c98f7) by renovate ([#17409](https://github.com/truecharts/charts/issues/17409))
+
+
 ## [nexus-oss-4.2.1](https://github.com/truecharts/charts/compare/nexus-oss-4.2.0...nexus-oss-4.2.1) (2024-01-21)
 
 ### Chore

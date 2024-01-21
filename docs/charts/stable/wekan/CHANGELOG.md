@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [wekan-13.3.3](https://github.com/truecharts/charts/compare/wekan-13.3.2...wekan-13.3.3) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.26[@24c98f7](https://github.com/24c98f7) by renovate ([#17409](https://github.com/truecharts/charts/issues/17409))
+
+
 ## [wekan-13.3.2](https://github.com/truecharts/charts/compare/wekan-13.3.1...wekan-13.3.2) (2024-01-21)
 
 ### Chore

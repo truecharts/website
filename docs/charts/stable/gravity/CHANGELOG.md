@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [gravity-2.2.3](https://github.com/truecharts/charts/compare/gravity-2.2.2...gravity-2.2.3) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.26[@24c98f7](https://github.com/24c98f7) by renovate ([#17409](https://github.com/truecharts/charts/issues/17409))
+
+
 ## [gravity-2.2.2](https://github.com/truecharts/charts/compare/gravity-2.2.1...gravity-2.2.2) (2024-01-21)
 
 ### Chore

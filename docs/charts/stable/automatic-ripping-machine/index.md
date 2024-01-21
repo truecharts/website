@@ -2,7 +2,7 @@
 title: automatic-ripping-machine
 ---
 
-![Version: 2.1.20](https://img.shields.io/badge/Version-2.1.20-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.69](https://img.shields.io/badge/AppVersion-2.6.69-informational?style=flat-square)
+![Version: 2.1.21](https://img.shields.io/badge/Version-2.1.21-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.69](https://img.shields.io/badge/AppVersion-2.6.69-informational?style=flat-square)
 
 Automatic Ripping Machine (ARM) Scripts.
 

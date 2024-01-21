@@ -2,7 +2,7 @@
 title: crafty-4
 ---
 
-![Version: 6.1.8](https://img.shields.io/badge/Version-6.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.2](https://img.shields.io/badge/AppVersion-4.2.2-informational?style=flat-square)
+![Version: 6.1.9](https://img.shields.io/badge/Version-6.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.2](https://img.shields.io/badge/AppVersion-4.2.2-informational?style=flat-square)
 
 Crafty Controller is a Minecraft Server Control Panel / Launcher.
 
