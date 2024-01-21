@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [photostructure-6.0.4](https://github.com/truecharts/charts/compare/photostructure-6.0.3...photostructure-6.0.4) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.28[@918b4c5](https://github.com/918b4c5) by renovate ([#17478](https://github.com/truecharts/charts/issues/17478))
+
+
 ## [photostructure-6.0.3](https://github.com/truecharts/charts/compare/photostructure-6.0.2...photostructure-6.0.3) (2024-01-21)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [deconz-14.1.11](https://github.com/truecharts/charts/compare/deconz-14.1.10...deconz-14.1.11) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.28[@918b4c5](https://github.com/918b4c5) by renovate ([#17478](https://github.com/truecharts/charts/issues/17478))
+
+
 ## [deconz-14.1.10](https://github.com/truecharts/charts/compare/deconz-14.1.9...deconz-14.1.10) (2024-01-21)
 
 ### Chore

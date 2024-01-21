@@ -2,7 +2,7 @@
 title: browserless-chrome
 ---
 
-![Version: 8.1.9](https://img.shields.io/badge/Version-8.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.60.2](https://img.shields.io/badge/AppVersion-1.60.2-informational?style=flat-square)
+![Version: 8.1.10](https://img.shields.io/badge/Version-8.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.60.2](https://img.shields.io/badge/AppVersion-1.60.2-informational?style=flat-square)
 
 Browserless is a web-service that allows for remote clients to connect, drive, and execute headless work
 

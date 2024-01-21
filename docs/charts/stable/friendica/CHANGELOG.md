@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [friendica-12.2.13](https://github.com/truecharts/charts/compare/friendica-12.2.12...friendica-12.2.13) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.28[@918b4c5](https://github.com/918b4c5) by renovate ([#17478](https://github.com/truecharts/charts/issues/17478))
+
+
 ## [friendica-12.2.12](https://github.com/truecharts/charts/compare/friendica-12.2.11...friendica-12.2.12) (2024-01-21)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [automatic-ripping-machine-2.1.22](https://github.com/truecharts/charts/compare/automatic-ripping-machine-2.1.21...automatic-ripping-machine-2.1.22) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.28[@918b4c5](https://github.com/918b4c5) by renovate ([#17478](https://github.com/truecharts/charts/issues/17478))
+
+
 ## [automatic-ripping-machine-2.1.21](https://github.com/truecharts/charts/compare/automatic-ripping-machine-2.1.20...automatic-ripping-machine-2.1.21) (2024-01-21)
 
 ### Chore

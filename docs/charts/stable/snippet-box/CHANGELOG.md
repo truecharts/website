@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [snippet-box-6.1.9](https://github.com/truecharts/charts/compare/snippet-box-6.1.8...snippet-box-6.1.9) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.28[@918b4c5](https://github.com/918b4c5) by renovate ([#17478](https://github.com/truecharts/charts/issues/17478))
+
+
 ## [snippet-box-6.1.8](https://github.com/truecharts/charts/compare/snippet-box-6.1.7...snippet-box-6.1.8) (2024-01-21)
 
 ### Chore

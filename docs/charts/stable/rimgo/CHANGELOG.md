@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [rimgo-5.1.25](https://github.com/truecharts/charts/compare/rimgo-5.1.24...rimgo-5.1.25) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.28[@918b4c5](https://github.com/918b4c5) by renovate ([#17478](https://github.com/truecharts/charts/issues/17478))
+
+
 ## [rimgo-5.1.24](https://github.com/truecharts/charts/compare/rimgo-5.1.23...rimgo-5.1.24) (2024-01-21)
 
 ### Chore

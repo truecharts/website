@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [filestash-5.1.12](https://github.com/truecharts/charts/compare/filestash-5.1.11...filestash-5.1.12) (2024-01-21)
+
+### Chore
+
+
+
+- update container image common to v17.2.28[@918b4c5](https://github.com/918b4c5) by renovate ([#17478](https://github.com/truecharts/charts/issues/17478))
+
+
 ## [filestash-5.1.11](https://github.com/truecharts/charts/compare/filestash-5.1.10...filestash-5.1.11) (2024-01-21)
 
 ### Chore

@@ -2,7 +2,7 @@
 title: apache-webdav
 ---
 
-![Version: 4.1.9](https://img.shields.io/badge/Version-4.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.1.10](https://img.shields.io/badge/Version-4.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Very simple WebDAV server based on Apache. You need a WebDAV client to transfer files. It does not include a WebUI to upload files through your browser.
 

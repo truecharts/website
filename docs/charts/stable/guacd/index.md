@@ -2,7 +2,7 @@
 title: guacd
 ---
 
-![Version: 8.1.8](https://img.shields.io/badge/Version-8.1.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.4](https://img.shields.io/badge/AppVersion-1.5.4-informational?style=flat-square)
+![Version: 8.1.9](https://img.shields.io/badge/Version-8.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.4](https://img.shields.io/badge/AppVersion-1.5.4-informational?style=flat-square)
 
 Guacd - Apache Guacamole is a clientless remote desktop gateway.
 
