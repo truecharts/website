@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [cs2-2.1.10](https://github.com/truecharts/charts/compare/cs2-2.1.8...cs2-2.1.10) (2024-01-21)
+
+
 
 
 ## [cs2-2.1.8](https://github.com/truecharts/charts/compare/cs2-2.1.7...cs2-2.1.8) (2024-01-09)
