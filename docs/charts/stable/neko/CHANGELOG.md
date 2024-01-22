@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [neko-4.1.79](https://github.com/truecharts/charts/compare/neko-4.1.69...neko-4.1.79) (2024-01-22)
+
+### Chore
+
+
+
+- update neko by renovate ([#17497](https://github.com/truecharts/charts/issues/17497))
+
+
 ## [neko-4.1.69](https://github.com/truecharts/charts/compare/neko-4.1.68...neko-4.1.69) (2024-01-21)
 
 ### Chore
