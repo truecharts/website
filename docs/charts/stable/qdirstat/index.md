@@ -2,7 +2,7 @@
 title: qdirstat
 ---
 
-![Version: 8.0.3](https://img.shields.io/badge/Version-8.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.01.1](https://img.shields.io/badge/AppVersion-24.01.1-informational?style=flat-square)
+![Version: 8.0.4](https://img.shields.io/badge/Version-8.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.01.1](https://img.shields.io/badge/AppVersion-24.01.1-informational?style=flat-square)
 
 QDirStat is a graphical application to show where your disk space has gone and to help you to clean it up.
 

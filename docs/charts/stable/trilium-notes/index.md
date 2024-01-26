@@ -2,7 +2,7 @@
 title: trilium-notes
 ---
 
-![Version: 11.1.11](https://img.shields.io/badge/Version-11.1.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.62.6](https://img.shields.io/badge/AppVersion-0.62.6-informational?style=flat-square)
+![Version: 11.1.12](https://img.shields.io/badge/Version-11.1.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.62.6](https://img.shields.io/badge/AppVersion-0.62.6-informational?style=flat-square)
 
 Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.
 

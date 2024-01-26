@@ -2,7 +2,7 @@
 title: pretend-youre-xyzzy
 ---
 
-![Version: 12.1.9](https://img.shields.io/badge/Version-12.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.0](https://img.shields.io/badge/AppVersion-4.0.0-informational?style=flat-square)
+![Version: 12.1.10](https://img.shields.io/badge/Version-12.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.0](https://img.shields.io/badge/AppVersion-4.0.0-informational?style=flat-square)
 
 pretend-youre-xyzzy, a cards against humanity clone
 

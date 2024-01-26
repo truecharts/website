@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [n8n-12.4.5](https://github.com/truecharts/charts/compare/n8n-12.4.4...n8n-12.4.5) (2024-01-26)
+
+### Chore
+
+
+
+- update container image common to v17.2.29[@d7c41a3](https://github.com/d7c41a3) by renovate ([#17545](https://github.com/truecharts/charts/issues/17545))
+
+
 ## [n8n-12.4.4](https://github.com/truecharts/charts/compare/n8n-12.4.3...n8n-12.4.4) (2024-01-22)
 
 ### Chore

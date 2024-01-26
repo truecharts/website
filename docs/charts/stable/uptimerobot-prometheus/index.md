@@ -2,7 +2,7 @@
 title: uptimerobot-prometheus
 ---
 
-![Version: 10.1.9](https://img.shields.io/badge/Version-10.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.1](https://img.shields.io/badge/AppVersion-0.0.1-informational?style=flat-square)
+![Version: 10.1.10](https://img.shields.io/badge/Version-10.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.1](https://img.shields.io/badge/AppVersion-0.0.1-informational?style=flat-square)
 
 Prometheus Exporter for the official uptimerobot CLI
 
