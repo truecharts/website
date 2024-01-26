@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [send-4.2.0](https://github.com/truecharts/charts/compare/send-4.1.10...send-4.2.0) (2024-01-26)
+
+
 ## [send-4.1.10](https://github.com/truecharts/charts/compare/send-4.1.9...send-4.1.10) (2024-01-26)
 
 ### Chore

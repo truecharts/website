@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [tt-rss-15.0.0](https://github.com/truecharts/charts/compare/tt-rss-14.1.10...tt-rss-15.0.0) (2024-01-26)
+
+
 ## [tt-rss-14.1.10](https://github.com/truecharts/charts/compare/tt-rss-14.1.9...tt-rss-14.1.10) (2024-01-26)
 
 ### Chore
