@@ -48,7 +48,6 @@ If shown, one may choose the `Service Type` for their application. Might be mult
 
 - `Service Port`:
   - This port exposes the container port on the service. This port is the `external` port to reach the application.
-  - To change the `interal` / Target Port or `Port Type` one must click on the `Show Advanced Settings` box.
 
 :::warning Show Expert Config
 

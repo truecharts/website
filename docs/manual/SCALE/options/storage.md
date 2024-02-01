@@ -12,12 +12,11 @@ Many applications will have certain options for storage to be configurable by th
   - Examples include `App Config Storage`, `App Data Storage`, etc.
 - Type of Storage:
 
-  - `PVC (simple)` - Default. See this [link](https://truecharts.org/manual/FAQ#why-pvc-is-recommended-over-hostpath).
-  - `Host Path (simple)`
-  - `emptyDir`
-  - `PVC`
+  - `PVC` - Default. See this [link](https://truecharts.org/manual/FAQ#why-pvc-is-recommended-over-hostpath).
   - `Host Path`
   - `NFS Share`
+  - `iSCSI Share`  
+  - `emptyDir`
 
 - Additional App Storage
   - Any additional storage can be added to the application in this section, one per `Mount Path` in the application, with the same types as above, however the `default` for this section is `hostPath (simple)`.
