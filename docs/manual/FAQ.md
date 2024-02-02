@@ -230,12 +230,6 @@ If the App does not use CNPG, you have several options to stop an App:
 
 ### What If I've already pressed the Stop button on an App that uses CNPG?
 
-:::danger
-
-DO NOT REBOOT
-
-:::
-
 To recover from the App being in an unstable state enter this command in the Shell to restart the middleware service:
 `sudo service middlewared restart` OR `sudo systemctl restart middlewared`
 

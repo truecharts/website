@@ -25,7 +25,7 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 ## Minimal Getting Started Setup with SCALE
 
 - Add catalog with the following trains: `stable`, `enterprise`, `operators` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
-- Add the following operators from the `operators` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager` -> [Operations Installation Guide](https://truecharts.org/manual/SCALE/guides/getting-started/#cnpg-and-prometheus-operators-installation-and-migration-guide-for-older-users)
+- Install the following operators from the `operators` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager`
 
 ## Adding TrueCharts
 
@@ -41,8 +41,6 @@ To add TrueCharts to your SCALE installation:
     Preferred Trains: `enterprise`,`stable` and `operators` (type each one manually)
     Branch: `main`
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
-
-Please view this video from the TrueNAS documentation website on adding [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog) if you need more info on the process.
 
 :::info Introduction to TrueNAS SCALE Guide
 
@@ -86,11 +84,11 @@ Once you've added the TrueCharts catalog, we also recommend installing [Heavyscr
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
 
-## CNPG/Prometheus Operators installation and migration guide for older users
+## CNPG/Prometheus Operators installation
 
 ![CNPG](img/icons/cnpg.png) ![Prometheus](img/icons/prometheus-operator.png)
 
-Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` operators first before attempting to install apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [News article](https://truecharts.org/news#prometheus) on removing the old built-in prometheus operator
+Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` operators first before attempting to install apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [FAQ entry](https://truecharts.org/manual/FAQ#operators) on removing the old built-in operators
 
 For new users just starting out with TrueNAS SCALE, you may simply install `cloudnative-pg` and `prometheus-operator` from the TrueCharts Community Catalog before continuing.
 
@@ -99,8 +97,6 @@ For new users just starting out with TrueNAS SCALE, you may simply install `clou
 ![Traefik](img/icons/traefik.png)
 
 `Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/enterprise/traefik/how-to) for basic instructions and a video as well.
-
-In exceptionally rare cases, if your Traefik install fails, you may need to run `k3s kubectl apply --server-side --force-conflicts -k https://github.com/truecharts/manifests/manifests` in shell as root before trying again.
 
 An optional but extra function enabled by Traefik and supported by many Truecharts Community Catalog apps like `Nextcloud`, is the ability to use a `middleware` to use your apps remotely. You can setup a basicAuth middleware using our guide [Add Traefik Basic Auth to Apps](https://truecharts.org/charts/enterprise/traefik/traefik-basicAuth-middleware/).
 

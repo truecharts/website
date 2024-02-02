@@ -5,7 +5,7 @@ Apps with a PostgreSQL database that were updated to the new CNPG common sometim
 :::caution Best Effort Policy
 
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation or if you suffer data loss as a result.
-This guide has been tested with TrueNAS SCALE 22.12.4.2, Cobia beta, CNPG 1.20.2_2.0.3 and HomeAssistant 2023.10.3_20.0.12.
+This guide has been tested with TrueNAS SCALE Bluefin 22.12.4.2, Cobia 23.10, CNPG 1.20.2_2.0.3 and HomeAssistant 2023.10.3_20.0.12.
 
 :::
 
@@ -47,7 +47,7 @@ home-assistant-cnpg-main-rw:5432 - no response
 
 To recover your app, you need to first stop it ([do not click the _Stop_ button!](https://truecharts.org/manual/FAQ#how-do-i-stop-a-truecharts-app-truenas-scale-only)), delete the hanging pods and then restart the app.
 
-1. Stopp the app either by checking "Stop All" in the app settings or with HeavyScript.
+1. Stop the app either by checking "Stop All" in the app settings or with HeavyScript.
 
 ```bash
 heavyscript app --stop <app-name>`
@@ -91,23 +91,6 @@ deployment.apps/home-assistant                1/1     1            1           1
 k3s kubectl scale deploy <deployment.apps-name> -n ix-<app-name> --replicas=1
 e.g. k3s kubectl scale deploy home-assistant-cnpg-main-rw -n ix-home-assistant --replicas=2
 ```
-
-## Safe Reboot
-
-You have recovered your apps but need to reboot again? There is a safe and faster way by unsetting the app pool before rebooting:
-
-1. Apps --> Settings --> Unset Pool
-2. Wait for apps to scale down. No installed apps will be shown, but they are not deleted.
-3. Reboot
-4. Apps --> Settings --> Choose Pool --> select your app pool
-5. Wait for apps to scale up
-
-:::note
-
-There is already an [issue](https://github.com/truecharts/charts/issues/12420) for this problem and the CNPG code is currently being reworked that should address this.
-Please do not create additional issues or +1 comments, the devs are aware of this.
-
-:::
 
 **Credit**
 
