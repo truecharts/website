@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [mealie-20.3.1](https://github.com/truecharts/charts/compare/mealie-20.3.0...mealie-20.3.1) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [mealie-20.3.0](https://github.com/truecharts/charts/compare/mealie-20.2.1...mealie-20.3.0) (2024-01-29)
 
 ### Chore

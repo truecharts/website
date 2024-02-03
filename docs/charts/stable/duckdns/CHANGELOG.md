@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [duckdns-8.1.17](https://github.com/truecharts/charts/compare/duckdns-8.1.16...duckdns-8.1.17) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [duckdns-8.1.16](https://github.com/truecharts/charts/compare/duckdns-8.1.15...duckdns-8.1.16) (2024-01-29)
 
 ### Chore

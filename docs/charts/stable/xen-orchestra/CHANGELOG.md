@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [xen-orchestra-7.3.1](https://github.com/truecharts/charts/compare/xen-orchestra-7.3.0...xen-orchestra-7.3.1) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [xen-orchestra-7.3.0](https://github.com/truecharts/charts/compare/xen-orchestra-7.2.14...xen-orchestra-7.3.0) (2024-02-03)
 
 ### Chore

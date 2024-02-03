@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [matomo-12.0.4](https://github.com/truecharts/charts/compare/matomo-12.0.3...matomo-12.0.4) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [matomo-12.0.3](https://github.com/truecharts/charts/compare/matomo-12.0.2...matomo-12.0.3) (2024-01-27)
 
 ### Chore

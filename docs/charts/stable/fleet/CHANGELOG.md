@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [fleet-11.1.19](https://github.com/truecharts/charts/compare/fleet-11.1.18...fleet-11.1.19) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [fleet-11.1.18](https://github.com/truecharts/charts/compare/fleet-11.1.17...fleet-11.1.18) (2024-01-29)
 
 ### Chore

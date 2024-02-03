@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [prometheus-16.4.3](https://github.com/truecharts/charts/compare/prometheus-16.4.2...prometheus-16.4.3) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [prometheus-16.4.2](https://github.com/truecharts/charts/compare/prometheus-16.4.1...prometheus-16.4.2) (2024-02-03)
 
 ### Chore

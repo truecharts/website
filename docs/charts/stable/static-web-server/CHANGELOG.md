@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [static-web-server-3.2.1](https://github.com/truecharts/charts/compare/static-web-server-3.2.0...static-web-server-3.2.1) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [static-web-server-3.2.0](https://github.com/truecharts/charts/compare/static-web-server-3.1.11...static-web-server-3.2.0) (2024-01-29)
 
 ### Chore

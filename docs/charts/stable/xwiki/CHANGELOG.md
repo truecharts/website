@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [xwiki-10.1.17](https://github.com/truecharts/charts/compare/xwiki-10.1.16...xwiki-10.1.17) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [xwiki-10.1.16](https://github.com/truecharts/charts/compare/xwiki-10.1.15...xwiki-10.1.16) (2024-01-29)
 
 ### Chore

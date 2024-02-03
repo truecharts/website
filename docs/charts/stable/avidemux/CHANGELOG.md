@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [avidemux-8.0.1](https://github.com/truecharts/charts/compare/avidemux-8.0.0...avidemux-8.0.1) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [avidemux-8.0.0](https://github.com/truecharts/charts/compare/avidemux-7.1.11...avidemux-8.0.0) (2024-01-29)
 
 ### Chore

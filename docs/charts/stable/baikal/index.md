@@ -2,7 +2,7 @@
 title: baikal
 ---
 
-![Version: 4.2.12](https://img.shields.io/badge/Version-4.2.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.9.4](https://img.shields.io/badge/AppVersion-0.9.4-informational?style=flat-square)
+![Version: 4.2.13](https://img.shields.io/badge/Version-4.2.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.9.4](https://img.shields.io/badge/AppVersion-0.9.4-informational?style=flat-square)
 
 Baikal is a lightweight CalDAV+CardDAV server
 

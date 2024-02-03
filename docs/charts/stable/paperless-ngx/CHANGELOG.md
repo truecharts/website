@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [paperless-ngx-6.4.8](https://github.com/truecharts/charts/compare/paperless-ngx-6.4.7...paperless-ngx-6.4.8) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [paperless-ngx-6.4.7](https://github.com/truecharts/charts/compare/paperless-ngx-6.4.6...paperless-ngx-6.4.7) (2024-01-29)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [jdownloader2-15.0.1](https://github.com/truecharts/charts/compare/jdownloader2-15.0.0...jdownloader2-15.0.1) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [jdownloader2-15.0.0](https://github.com/truecharts/charts/compare/jdownloader2-14.2.10...jdownloader2-15.0.0) (2024-01-29)
 
 ### Chore

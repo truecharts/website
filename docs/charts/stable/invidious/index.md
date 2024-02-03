@@ -2,7 +2,7 @@
 title: invidious
 ---
 
-![Version: 8.1.12](https://img.shields.io/badge/Version-8.1.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.1.13](https://img.shields.io/badge/Version-8.1.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Open source alternative front-end to YouTube.
 

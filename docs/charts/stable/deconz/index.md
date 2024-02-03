@@ -2,7 +2,7 @@
 title: deconz
 ---
 
-![Version: 14.1.12](https://img.shields.io/badge/Version-14.1.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.25.1](https://img.shields.io/badge/AppVersion-2.25.1-informational?style=flat-square)
+![Version: 14.1.13](https://img.shields.io/badge/Version-14.1.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.25.1](https://img.shields.io/badge/AppVersion-2.25.1-informational?style=flat-square)
 
 deCONZ is an easy to use control software, with which you can set up and control Zigbee networks of any size without further programming effort.
 

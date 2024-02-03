@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [local-ai-8.26.1](https://github.com/truecharts/charts/compare/local-ai-8.26.0...local-ai-8.26.1) (2024-02-03)
+
+### Chore
+
+
+
+- update container image common to v17.2.30[@19ad5ec](https://github.com/19ad5ec) by renovate ([#17804](https://github.com/truecharts/charts/issues/17804))
+
+
 ## [local-ai-8.26.0](https://github.com/truecharts/charts/compare/local-ai-8.25.0...local-ai-8.26.0) (2024-01-29)
 
 ### Chore
