@@ -1,6 +1,8 @@
-# HeavyScript+Velero+Minio TrueNAS Scale Cobia
+# Velero Backup and Restore
 
 This guide was written for TrueNAS Cobia 23.10.1 and HeavyScript v2.9.0.
+This is an EARLY prototype of a new backup method to-be-released before TrueNAS SCALE DragonFish 24.04 comes out.
+It should not be relied uppon for production or as a primary backup method.
 
 ## Minio Setup
 
