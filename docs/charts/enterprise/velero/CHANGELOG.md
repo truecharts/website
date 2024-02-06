@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [velero-3.2.3](https://github.com/truecharts/charts/compare/velero-3.2.2...velero-3.2.3) (2024-02-06)
+
+
 ## [velero-3.2.2](https://github.com/truecharts/charts/compare/velero-3.2.1...velero-3.2.2) (2024-02-06)
 
 ### Feat
