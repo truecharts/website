@@ -7,6 +7,7 @@ It should not be relied uppon for production or as a primary backup method.
 ## Minio Setup
 
 Use the TrueNAS IXSystems Minio chart.
+These instructions are for the Minio chart from the `charts` train, not the `enterprise` train.
 
 * Application Name
   - Application Name - minio
@@ -30,7 +31,7 @@ Name the bucket heavyscript-backup and click create bucket.
 
 ## Velero Setup
 
-Use the Velero chart from Truechart.
+Use the Velero chart from Truecharts.
 
 - Application Name
   - Application Name – velero
@@ -46,7 +47,7 @@ Use the Velero chart from Truechart.
       - Key – admin password
     - Region – minio
     - S3ForcePathStyle – true
-    - S3Url – http://192.168.0.2:30000 (Replace with your TrueNAS IP)
+    - S3Url – http://192.168.0.2:9000 (Replace with your TrueNAS IP)
   - Default Schedule disabled – checked
   - Ttl – 240h
   - storageLocation – default
@@ -59,8 +60,8 @@ Command to configure a backup of an app (example is Jellyfin) and create a sched
 
 ```
 export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
-velero backup create ix-jellyfin --include-namespaces=”ix-jellyfin” --csi-snapshot-timeout=20m
-velero schedule create ix-jellyfin --schedule=”0 0 * * *” --include-namespaces=”ix-jellyfin”
+velero schedule create ix-jellyfin --schedule="0 0 * * *" --include-namespaces="ix-jellyfin"
+velero backup create --from-schedule ix-jellyfin
 ```
 
 Double check that your backup is completed.
