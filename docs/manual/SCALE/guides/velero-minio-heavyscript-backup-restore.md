@@ -60,8 +60,8 @@ Command to configure a backup of an app (example is Jellyfin) and create a sched
 
 ```
 export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
-velero backup create ix-jellyfin --include-namespaces="ix-jellyfin" --csi-snapshot-timeout=20m
 velero schedule create ix-jellyfin --schedule="0 0 * * *" --include-namespaces="ix-jellyfin"
+velero backup create --from-schedule ix-jellyfin
 ```
 
 Double check that your backup is completed.
