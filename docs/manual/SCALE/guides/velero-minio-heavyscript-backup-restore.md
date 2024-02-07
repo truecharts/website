@@ -42,25 +42,27 @@ Use the Velero chart from Truecharts.
     - accessMode – ReadWrite
     - bucket – truenas-backup
     - Provider – **s3**
-    - Credential – **s3**
+    - Storage Location Credential – **s3**
       - Id – admin username
       - Key – admin password
-    - Region – minio
-    - S3ForcePathStyle – true
-    - S3Url – http://192.168.0.2:9000 (Replace with your TrueNAS IP)
-  - Default Schedule enabled – *unchecked*
+    - Storage Location Config
+      - Region – minio
+      - S3ForcePathStyle – true
+      - S3Url – http://192.168.0.2:9000 (Replace with your TrueNAS IP)
+
 
   - Volume Snapshot Locations – Add
     - Name – default
-    - accessMode – ReadWrite
-    - bucket – truenas-backup
-    - Provider – **s3**
-    - Credential – **s3**
+    - Provider – **openebs.io/zfspv-blockstore**
+    - Storage Location Credential – **s3**
       - Id – admin username
       - Key – admin password
-    - Region – minio
-    - S3ForcePathStyle – true
-    - S3Url – http://192.168.0.2:9000 (Replace with your TrueNAS IP)
+    - Storage Location Config
+      - Provider – **s3**
+      - bucket – truenas-backup
+      - Region – minio
+      - S3ForcePathStyle – true
+      - S3Url – http://192.168.0.2:9000 (Replace with your TrueNAS IP)
 
 ## Velero CLI Setup
 
