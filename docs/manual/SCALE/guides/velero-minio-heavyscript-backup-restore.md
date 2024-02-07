@@ -86,8 +86,12 @@ export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
 velero restore create --from-backup ix-jellyfin
 ```
 
+### Post Restore
+
 Velero gives us a command to check the status of our restoration. Let’s run that. We get all kinds of interesting info about the restore but importantly we see that the restore was successful and is completed.
 ![Velero Restore](img/velero-restore.png)
+
+To ensure the restore does not encounter weird issues in the future, we recommend using `edit` on the App in question and saving without changes, as soon as the restore is fully complected.
 
 Once the Phase: Completed (green text) appears, check the status from the TrueNAS webUI. Looks like the app is back up and running.
 ![Velero Complete](img/velero-complete.png)
