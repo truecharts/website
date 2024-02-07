@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [jackett-18.1.13](https://github.com/truecharts/charts/compare/jackett-18.1.12...jackett-18.1.13) (2024-02-07)
+
+
 ## [jackett-18.1.12](https://github.com/truecharts/charts/compare/jackett-18.1.11...jackett-18.1.12) (2024-02-06)
 
 ### Feat
