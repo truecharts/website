@@ -40,17 +40,29 @@ Use the Velero chart from Truecharts.
   - Backup Storage Locations – Add
     - Name – default
     - accessMode – ReadWrite
-    - bucket – heavyscript-backup
-    - Provider – **aws**
-    - Credential – **aws**
+    - bucket – truenas-backup
+    - Provider – **s3**
+    - Credential – **s3**
       - Id – admin username
       - Key – admin password
     - Region – minio
     - S3ForcePathStyle – true
     - S3Url – http://192.168.0.2:9000 (Replace with your TrueNAS IP)
-  - Default Schedule disabled – checked
-  - Ttl – 240h
-  - storageLocation – default
+  - Default Schedule enabled – *unchecked*
+
+  - Volume Snapshot Locations – Add
+    - Name – default
+    - accessMode – ReadWrite
+    - bucket – truenas-backup
+    - Provider – **s3**
+    - Credential – **s3**
+      - Id – admin username
+      - Key – admin password
+    - Region – minio
+    - S3ForcePathStyle – true
+    - S3Url – http://192.168.0.2:9000 (Replace with your TrueNAS IP)
+
+## Velero CLI Setup
 
 No GUI or UI to see here! Use HeavyScript to install Velero (Option 3, Option 4)
 
