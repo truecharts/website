@@ -64,7 +64,16 @@ Use the Velero chart from Truecharts.
 
 ## Velero CLI Setup
 
+The Velero CLI is used to trigger manual backups and restores.
 No GUI or UI to see here! Use HeavyScript to install Velero (Option 3, Option 4)
+
+## App Backup Schedule Setup
+
+On each App you want to backup-up, there is a "Backup Schedule" section.
+
+  - Backup Schedule – Add
+    - Name – *The Name you want to use for the backups of things app, must be unique*
+    - schedule - 0 0 * * *
 
 ## Backing Up
 
@@ -72,15 +81,14 @@ Command to configure a backup of an app (example is Jellyfin) and create a sched
 
 ```
 export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
-velero schedule create ix-jellyfin --schedule="0 0 * * *" --include-namespaces="ix-jellyfin"
-velero backup create --from-schedule ix-jellyfin
+velero backup create --from-schedule NameOfYourBackupSchedule
 ```
 
 Double check that your backup is completed.
 
 ```
 export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
-velero backup get ix-jellyfin
+velero backup get NameOfYourBackupSchedule
 ```
 
 Look for Status Completed in the output.
@@ -95,7 +103,7 @@ To restore:
 
 ```
 export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
-velero restore create --from-backup ix-jellyfin
+velero restore create --from-backup NameOfYourBackupSchedule
 ```
 
 ### Post Restore
