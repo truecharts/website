@@ -62,7 +62,7 @@ jobs:
             ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json', '**/npm-shrinkwrap.json', '**/yarn.lock', '**/pnpm-lock.yaml)') }}
             ${{ runner.os }}-docusaurus-
           
-      - uses: borales/actions-yarn@97ba8bebfe5b549bb7999261698a52a81fd62f1b # v4.2.0
+      - uses: borales/actions-yarn@3766bb1335b98fb13c60eaf358fe20811b730a88 # v5.0.0
         with:
           cmd: install --frozen-lockfile
         env:
@@ -70,7 +70,7 @@ jobs:
           DOCUSAURUS_SSR_CONCURRENCY: 4
           SKIP_HTML_MINIFICATION: true
         
-      - uses: borales/actions-yarn@97ba8bebfe5b549bb7999261698a52a81fd62f1b # v4.2.0
+      - uses: borales/actions-yarn@3766bb1335b98fb13c60eaf358fe20811b730a88 # v5.0.0
         with:
           cmd: build
         env: 
