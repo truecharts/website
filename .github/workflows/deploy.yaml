@@ -19,7 +19,7 @@ jobs:
       - name: Set Swap Space
         uses: pierotofy/set-swap-space@master
         with:
-          swap-size-gb: 12
+          swap-size-gb: 15
           
       - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       
@@ -66,16 +66,16 @@ jobs:
         with:
           cmd: install --frozen-lockfile
         env:
-          NODE_OPTIONS: "--max-old-space-size=15000"
-          DOCUSAURUS_SSR_CONCURRENCY: 3
+          NODE_OPTIONS: "--max-old-space-size=22000"
+          DOCUSAURUS_SSR_CONCURRENCY: 4
           SKIP_HTML_MINIFICATION: true
         
       - uses: borales/actions-yarn@97ba8bebfe5b549bb7999261698a52a81fd62f1b # v4.2.0
         with:
           cmd: build
         env: 
-          NODE_OPTIONS: "--max-old-space-size=15000"
-          DOCUSAURUS_SSR_CONCURRENCY: 3
+          NODE_OPTIONS: "--max-old-space-size=22000"
+          DOCUSAURUS_SSR_CONCURRENCY: 4
           SKIP_HTML_MINIFICATION: true
 
       - name: Publish to Cloudflare Pages
