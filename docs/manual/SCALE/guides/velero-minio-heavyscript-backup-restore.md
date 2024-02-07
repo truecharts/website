@@ -1,6 +1,7 @@
 # Velero Backup and Restore
 
 This guide was written for TrueNAS Cobia 23.10.1 and HeavyScript v2.9.0.
+
 This is an EARLY prototype of a new backup method to-be-released before TrueNAS SCALE DragonFish 24.04 comes out.
 It should not be relied uppon for production or as a primary backup method.
 
@@ -8,6 +9,7 @@ It should not be relied uppon for production or as a primary backup method.
 
 Use the TrueNAS IXSystems Minio chart.
 These instructions are for the Minio chart from the `charts` train, not the `enterprise` train.
+In a later revision of this guide we will replace this with an external hosted s3 solution
 
 * Application Name
   - Application Name - minio
@@ -50,7 +52,7 @@ Use the Velero chart from Truecharts.
       - S3ForcePathStyle – true
       - S3Url – http://192.168.0.2:9000 (Replace with your TrueNAS IP)
 
-
+**Volume Snapshot Location is not finished for now**
   - Volume Snapshot Locations – Add
     - Name – default
     - Provider – **openebs.io/zfspv-blockstore**
