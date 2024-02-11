@@ -30,3 +30,8 @@ Or a manual EU bank transfer:
 IBAN: NL05BUNQ2069001342
 BIC: BUNQNL2A
 
+#### IDEAL
+
+Or use the IDEAL payment system
+
+https://bunq.me/truecharts
