@@ -2,7 +2,7 @@
 title: solr
 ---
 
-![Version: 9.1.15](https://img.shields.io/badge/Version-9.1.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.4.1](https://img.shields.io/badge/AppVersion-9.4.1-informational?style=flat-square)
+![Version: 9.1.16](https://img.shields.io/badge/Version-9.1.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.4.1](https://img.shields.io/badge/AppVersion-9.4.1-informational?style=flat-square)
 
 Apache Solr
 
