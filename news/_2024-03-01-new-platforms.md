@@ -24,5 +24,5 @@ This expansion is about offering you more choices while maintaining the excellen
 But there is more, in addition to supporting KubeApps on Normal Kubernetes, we've also released KubeApps as a TrueNAS App.
 Allowing you to install everything in both Bitnami and TrueCharts Repositories, straight onto your TrueNAS Kubernetes system, using KubeApps!
 
-What's on the Horizon?
+## What's on the Horizon?
 The journey doesn't stop here! Throughout 2024, we're delving deeper into KubeApps, Rancher, and FluxCD. Additionally, we're committed to providing more comprehensive documentation for every Helm Chart and supported platform. Stay tuned for more updates as we continue growing together. 🌐✨
