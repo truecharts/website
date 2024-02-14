@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [tasmoadmin-6.2.9](https://github.com/truecharts/charts/compare/tasmoadmin-6.2.8...tasmoadmin-6.2.9) (2024-02-03)
 
 ### Chore
