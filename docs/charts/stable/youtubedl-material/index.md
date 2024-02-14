@@ -2,7 +2,7 @@
 title: youtubedl-material
 ---
 
-![Version: 9.1.16](https://img.shields.io/badge/Version-9.1.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.2](https://img.shields.io/badge/AppVersion-4.3.2-informational?style=flat-square)
+![Version: 9.1.17](https://img.shields.io/badge/Version-9.1.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.3.2](https://img.shields.io/badge/AppVersion-4.3.2-informational?style=flat-square)
 
 YoutubeDL-Material is a Material Design frontend for youtube-dl.
 

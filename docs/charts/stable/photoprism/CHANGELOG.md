@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [photoprism-19.1.16](https://github.com/truecharts/charts/compare/photoprism-19.1.15...photoprism-19.1.16) (2024-02-03)
 
 ### Chore
