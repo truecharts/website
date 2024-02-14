@@ -17,6 +17,10 @@ In this tier, we introduce KubeApps, Rancher, and FluxCD – like the cool cousi
 **Tier 3: TrueNAS SCALE Apps**
 The third tier introduces TrueNAS SCALE Apps, where a bit more abstraction comes into play. While we strive for the best, 100% stability isn't guaranteed due to the added layers. Expect some limitations, like fewer features, no direct YAML edits, and a few more bugs.
 
+**Not Supported (yet)**
+Currently we've one planned future addition: ArgoCD.
+But due to technical issues from ArgoCD, we cannot yet support it and it will **not** work reliably yet with TrueCharts Helm Charts either.
+
 ## The Expansion:
 This expansion is about offering you more choices while maintaining the excellence you expect from TrueCharts. It's about enriching your deployment experience with flexibility and reliability.
 
