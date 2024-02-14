@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [authelia-22.2.7](https://github.com/truecharts/charts/compare/authelia-22.2.6...authelia-22.2.7) (2024-02-03)
 
 ### Chore
