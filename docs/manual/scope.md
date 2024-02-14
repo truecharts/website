@@ -28,6 +28,30 @@ TrueCharts is committed to delivering high-quality Helm charts for Kubernetes-ba
 1. Opinionated Charts: TrueCharts Helm Charts are carefully constructed to ensure the least amount of user-errors and often limit features to what we think our ecosystem really needs. Not every option each chart or application may have access to will be enable to the end-user.
 2. Platform Support: TrueCharts builds its charts with certain tools and may not be able to support every distribution of Kubernetes or deployment pipeline, please check our website and/or support channels for supported platforms.
 
+## Trains
+
+TrueCharts contains multiple trains.
+Each has it's own meaning and limitations for support.
+
+### Stable Train Charts
+
+We provide direct support for getting `stable` train charts working on our [discord](https://discord.gg/tVsPTHWTtr) inside the **#support** channel.
+That includes installation and guidance on getting it working with defaults or basic settings (not advanced customizations or remote smb shares, etc).
+Bug reports aren't accepted on [discord](https://discord.gg/tVsPTHWTtr) so if you spot a bug (Charts in the stable train should work with mostly defaults configuration)
+please report them to our [github](https://github.com/truecharts/charts/issues/new/choose). Bug reports that state something doesn't work without supporting items may be closed.
+
+### Incubator Train Charts
+
+Our support policy for `incubator` train charts is different for those on the `stable` train. Those charts are work in progress,
+may break at anytime and we're still going through many of the charts from unRAID. We won't accept support tickets for `incubator` train
+charts on our [discord](https://discord.gg/tVsPTHWTtr). However, we have an **#incubator-chat** channel for these apps to help get them running and/or receive feedback.
+With enough positive feedback a chart can be promoted to `stable` train. Feedback about bugs is also accepted there which can be used to fix them.
+Assume anything in the `incubator` train is in beta and you're testing it. As well, anything installed in `incubator` will have to be REINSTALLED once it moves to the `stable` train.
+
+## Deployment Platform Support Policy
+
+Please check the support policy of your specific platform to verify which versions of your platform are actually supported by TrueCharts
+
 ## Conclusion
 
 TrueCharts is a project dedicated to delivering high-quality Helm charts for Kubernetes applications. By focusing on native Helm features, avoiding platform-specific functionality, and leveraging existing containers, TrueCharts provides users with reliable, portable, and user-friendly solutions. The projects commitment to compatibility, maintainability, and engagement with the Kubernetes community ensures a robust and valuable resource for Kubernetes developers and operators.
