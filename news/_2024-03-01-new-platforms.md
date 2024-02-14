@@ -11,13 +11,13 @@ Exciting news! TrueCharts is taking a leap forward by officially adding support 
 **Tier 1: Normal "Native" Helm Charts**
 Our versatile foundation! While not the origin, this tier serves as the baseline for Helm Chart functionality. All features work smoothly, and our team, particularly the developers, are well-versed in Helm.
 
-**Tier 2: Welcoming KubeApps, Rancher, and FluxCD**
+**Tier 2: Welcoming KubeApps and FluxCD**
 In this tier, we introduce KubeApps, Rancher, and FluxCD – like the cool cousins of Helm Charts. They come with optional GUI elements, and we're currently configuring KubeApps and Rancher via YAML through the web GUI, with plans for UI enhancements in 2024.
 
-**Tier 3: TrueNAS SCALE Apps**
+**Tier 3: TrueNAS SCALE Apps and Rancher**
 The third tier introduces TrueNAS SCALE Apps, where a bit more abstraction comes into play. While we strive for the best, 100% stability isn't guaranteed due to the added layers. Expect some limitations, like fewer features, no direct YAML edits, and a few more bugs.
 
-**Not Supported (yet)**
+**Not Supported (yet): ArgoCD**
 Currently we've one planned future addition: ArgoCD.
 But due to technical issues from ArgoCD, we cannot yet support it and it will **not** work reliably yet with TrueCharts Helm Charts either.
 
