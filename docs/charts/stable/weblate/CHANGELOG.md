@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [weblate-12.1.15](https://github.com/truecharts/charts/compare/weblate-12.1.14...weblate-12.1.15) (2024-02-03)
 
 ### Chore

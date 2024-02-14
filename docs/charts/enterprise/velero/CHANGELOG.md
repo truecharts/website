@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [velero-3.2.9](https://github.com/truecharts/charts/compare/velero-3.2.8...velero-3.2.9) (2024-02-12)
 
 ### Chore

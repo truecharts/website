@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [n8n-12.7.0](https://github.com/truecharts/charts/compare/n8n-12.6.1...n8n-12.7.0) (2024-02-12)
 
 ### Chore
