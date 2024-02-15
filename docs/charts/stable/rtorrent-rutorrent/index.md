@@ -12,6 +12,7 @@ rTorrent and ruTorrent chart.
 - https://truecharts.org/charts/stable/rtorrent-rutorrent
 - https://github.com/truecharts/charts/tree/master/charts/stable/rtorrent-rutorrent
 - https://ghcr.io/crazy-max/rtorrent-rutorrent
+- https://ghcr.io/thde/rtorrent_exporter
 
 ## Available Documentation
 
