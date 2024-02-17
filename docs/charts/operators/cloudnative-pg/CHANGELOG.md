@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [cloudnative-pg-5.2.16](https://github.com/truecharts/charts/compare/cloudnative-pg-5.2.15...cloudnative-pg-5.2.16) (2024-02-12)
 
 ### Chore

@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [hedgedoc-11.1.11](https://github.com/truecharts/charts/compare/hedgedoc-11.1.10...hedgedoc-11.1.11) (2024-02-03)
 
 ### Chore

@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [tonido-4.1.11](https://github.com/truecharts/charts/compare/tonido-4.1.10...tonido-4.1.11) (2024-02-03)
 
 ### Chore

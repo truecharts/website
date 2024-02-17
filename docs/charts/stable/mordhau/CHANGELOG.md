@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [mordhau-4.1.11](https://github.com/truecharts/charts/compare/mordhau-4.1.10...mordhau-4.1.11) (2024-02-03)
 
 ### Chore

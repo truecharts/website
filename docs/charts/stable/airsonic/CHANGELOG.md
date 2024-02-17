@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [airsonic-12.1.12](https://github.com/truecharts/charts/compare/airsonic-12.1.11...airsonic-12.1.12) (2024-02-03)
 
 ### Chore

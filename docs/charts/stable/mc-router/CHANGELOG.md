@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [mc-router-3.1.12](https://github.com/truecharts/charts/compare/mc-router-3.1.11...mc-router-3.1.12) (2024-02-05)
 
 ### Chore

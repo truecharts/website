@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [sonsoftheforest-2.1.14](https://github.com/truecharts/charts/compare/sonsoftheforest-2.1.13...sonsoftheforest-2.1.14) (2024-02-03)
 
 ### Chore

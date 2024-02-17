@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [babybuddy-15.2.9](https://github.com/truecharts/charts/compare/babybuddy-15.2.8...babybuddy-15.2.9) (2024-02-12)
 
 ### Chore

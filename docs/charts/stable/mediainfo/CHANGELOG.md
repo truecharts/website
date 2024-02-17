@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [mediainfo-8.1.0](https://github.com/truecharts/charts/compare/mediainfo-8.0.1...mediainfo-8.1.0) (2024-02-05)
 
 ### Chore

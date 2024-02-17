@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [authentik-19.2.10](https://github.com/truecharts/charts/compare/authentik-19.2.9...authentik-19.2.10) (2024-02-03)
 
 ### Chore

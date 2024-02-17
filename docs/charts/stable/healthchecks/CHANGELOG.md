@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [healthchecks-13.2.1](https://github.com/truecharts/charts/compare/healthchecks-13.2.0...healthchecks-13.2.1) (2024-02-12)
 
 ### Chore

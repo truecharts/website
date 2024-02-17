@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [cura-novnc-7.1.13](https://github.com/truecharts/charts/compare/cura-novnc-7.1.12...cura-novnc-7.1.13) (2024-02-03)
 
 ### Chore

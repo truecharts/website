@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [tvhproxy-4.1.11](https://github.com/truecharts/charts/compare/tvhproxy-4.1.10...tvhproxy-4.1.11) (2024-02-03)
 
 ### Chore

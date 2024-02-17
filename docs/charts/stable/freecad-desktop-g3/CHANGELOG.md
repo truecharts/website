@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [freecad-desktop-g3-4.1.12](https://github.com/truecharts/charts/compare/freecad-desktop-g3-4.1.11...freecad-desktop-g3-4.1.12) (2024-02-12)
 
 ### Chore

@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [kerio-connect-4.1.11](https://github.com/truecharts/charts/compare/kerio-connect-4.1.10...kerio-connect-4.1.11) (2024-02-03)
 
 ### Chore

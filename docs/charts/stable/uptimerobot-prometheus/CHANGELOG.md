@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [uptimerobot-prometheus-10.1.11](https://github.com/truecharts/charts/compare/uptimerobot-prometheus-10.1.10...uptimerobot-prometheus-10.1.11) (2024-02-03)
 
 ### Chore
