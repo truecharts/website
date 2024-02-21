@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [projectsend-11.1.19](https://github.com/truecharts/charts/compare/projectsend-11.1.18...projectsend-11.1.19) (2024-02-03)
 
 ### Chore

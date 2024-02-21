@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [prusaslicer-novnc-7.1.19](https://github.com/truecharts/charts/compare/prusaslicer-novnc-7.1.18...prusaslicer-novnc-7.1.19) (2024-02-12)
 
 ### Chore
