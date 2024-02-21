@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [chronograf-4.1.14](https://github.com/truecharts/charts/compare/chronograf-4.1.13...chronograf-4.1.14) (2024-02-05)
 
 ### Chore
