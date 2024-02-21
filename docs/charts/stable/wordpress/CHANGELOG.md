@@ -23,6 +23,7 @@ title: Changelog
 
 
 
+
 ## [wordpress-6.1.23](https://github.com/truecharts/charts/compare/wordpress-6.1.22...wordpress-6.1.23) (2024-02-12)
 
 ### Chore
