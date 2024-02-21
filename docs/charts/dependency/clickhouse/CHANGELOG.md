@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [clickhouse-11.0.0](https://github.com/truecharts/charts/compare/clickhouse-10.2.14...clickhouse-11.0.0) (2024-02-10)
 
 ### Chore

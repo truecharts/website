@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [minecraft-java-7.1.14](https://github.com/truecharts/charts/compare/minecraft-java-7.1.13...minecraft-java-7.1.14) (2024-02-05)
 
 ### Chore

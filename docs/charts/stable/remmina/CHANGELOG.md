@@ -14,6 +14,7 @@ title: Changelog
 
 
 
+
 ## [remmina-9.1.18](https://github.com/truecharts/charts/compare/remmina-9.1.17...remmina-9.1.18) (2024-02-12)
 
 ### Chore

@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [emulatorjs-8.2.13](https://github.com/truecharts/charts/compare/emulatorjs-8.2.12...emulatorjs-8.2.13) (2024-02-12)
 
 ### Chore

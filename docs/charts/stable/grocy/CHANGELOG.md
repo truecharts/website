@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [grocy-17.2.0](https://github.com/truecharts/charts/compare/grocy-17.1.16...grocy-17.2.0) (2024-02-12)
 
 ### Chore
