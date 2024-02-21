@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [czkawka-7.1.12](https://github.com/truecharts/charts/compare/czkawka-7.1.11...czkawka-7.1.12) (2024-02-03)
 
 ### Chore
