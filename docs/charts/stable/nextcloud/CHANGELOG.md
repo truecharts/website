@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [nextcloud-28.2.0](https://github.com/truecharts/charts/compare/nextcloud-28.1.46...nextcloud-28.2.0) (2024-02-14)
 
 ### Chore
