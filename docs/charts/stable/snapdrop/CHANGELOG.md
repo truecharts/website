@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [snapdrop-8.1.15](https://github.com/truecharts/charts/compare/snapdrop-8.1.14...snapdrop-8.1.15) (2024-02-12)
 
 ### Chore

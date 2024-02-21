@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [searxng-6.1.21](https://github.com/truecharts/charts/compare/searxng-6.1.20...searxng-6.1.21) (2024-02-12)
 
 ### Chore

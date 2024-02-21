@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [blender-4.1.19](https://github.com/truecharts/charts/compare/blender-4.1.18...blender-4.1.19) (2024-02-12)
 
 ### Chore
