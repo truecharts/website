@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [doublecommander-11.1.19](https://github.com/truecharts/charts/compare/doublecommander-11.1.18...doublecommander-11.1.19) (2024-02-12)
 
 ### Chore
