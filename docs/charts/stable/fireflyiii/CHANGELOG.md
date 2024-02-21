@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [fireflyiii-24.1.22](https://github.com/truecharts/charts/compare/fireflyiii-24.1.21...fireflyiii-24.1.22) (2024-02-12)
 
 ### Chore

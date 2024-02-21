@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [humhub-6.2.9](https://github.com/truecharts/charts/compare/humhub-6.2.8...humhub-6.2.9) (2024-02-03)
 
 ### Chore
