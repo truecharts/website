@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [homarr-9.1.14](https://github.com/truecharts/charts/compare/homarr-9.1.13...homarr-9.1.14) (2024-02-05)
 
 ### Chore

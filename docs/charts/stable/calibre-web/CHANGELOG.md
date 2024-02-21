@@ -12,6 +12,7 @@ title: Changelog
 
 
 
+
 ## [calibre-web-17.1.19](https://github.com/truecharts/charts/compare/calibre-web-17.1.18...calibre-web-17.1.19) (2024-02-12)
 
 ### Chore
