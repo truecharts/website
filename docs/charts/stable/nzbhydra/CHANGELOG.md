@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [nzbhydra-18.1.12](https://github.com/truecharts/charts/compare/nzbhydra-18.1.11...nzbhydra-18.1.12) (2024-02-03)
 
 ### Chore
