@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [navidrome-18.2.2](https://github.com/truecharts/charts/compare/navidrome-18.2.1...navidrome-18.2.2) (2024-02-03)
 
 ### Chore
