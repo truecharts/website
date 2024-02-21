@@ -20,6 +20,5 @@ A private cloud server that puts the control and security of your own data back 
 
 ## Available Documentation
 
-- [**Changelog**](./CHANGELOG.md)
 - [**Installation Notes**](./installation-notes.md)
 - [**Nextcloud Migration Guide**](./migration-guide.md)
