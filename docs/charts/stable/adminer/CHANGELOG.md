@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [adminer-7.1.14](https://github.com/truecharts/charts/compare/adminer-7.1.13...adminer-7.1.14) (2024-02-05)
 
 ### Chore
