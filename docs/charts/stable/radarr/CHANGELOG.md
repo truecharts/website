@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [radarr-19.1.12](https://github.com/truecharts/charts/compare/radarr-19.1.11...radarr-19.1.12) (2024-02-03)
 
 ### Chore

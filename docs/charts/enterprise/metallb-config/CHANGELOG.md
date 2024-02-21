@@ -14,6 +14,7 @@ title: Changelog
 
 
 
+
 ## [metallb-config-5.1.13](https://github.com/truecharts/charts/compare/metallb-config-5.1.12...metallb-config-5.1.13) (2024-02-03)
 
 ### Chore
