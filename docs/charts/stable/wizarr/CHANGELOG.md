@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [wizarr-5.1.12](https://github.com/truecharts/charts/compare/wizarr-5.1.11...wizarr-5.1.12) (2024-02-03)
 
 ### Chore

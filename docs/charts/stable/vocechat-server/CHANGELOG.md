@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [vocechat-server-2.1.12](https://github.com/truecharts/charts/compare/vocechat-server-2.1.11...vocechat-server-2.1.12) (2024-02-05)
 
 ### Chore

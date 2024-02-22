@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [matomo-12.0.8](https://github.com/truecharts/charts/compare/matomo-12.0.7...matomo-12.0.8) (2024-02-12)
 
 ### Chore

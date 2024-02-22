@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [filebot-7.1.11](https://github.com/truecharts/charts/compare/filebot-7.1.10...filebot-7.1.11) (2024-02-03)
 
 ### Chore

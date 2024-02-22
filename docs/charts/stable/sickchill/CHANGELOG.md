@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [sickchill-10.1.1](https://github.com/truecharts/charts/compare/sickchill-10.1.0...sickchill-10.1.1) (2024-02-12)
 
 ### Chore

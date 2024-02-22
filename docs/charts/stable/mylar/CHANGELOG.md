@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [mylar-12.1.18](https://github.com/truecharts/charts/compare/mylar-12.1.17...mylar-12.1.18) (2024-02-12)
 
 ### Chore

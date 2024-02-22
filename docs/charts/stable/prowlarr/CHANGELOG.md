@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [prowlarr-14.3.5](https://github.com/truecharts/charts/compare/prowlarr-14.3.4...prowlarr-14.3.5) (2024-02-12)
 
 ### Chore

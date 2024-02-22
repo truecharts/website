@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [nosqlclient-4.1.11](https://github.com/truecharts/charts/compare/nosqlclient-4.1.10...nosqlclient-4.1.11) (2024-02-03)
 
 ### Chore

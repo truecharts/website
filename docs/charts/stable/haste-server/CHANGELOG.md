@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [haste-server-12.1.11](https://github.com/truecharts/charts/compare/haste-server-12.1.10...haste-server-12.1.11) (2024-02-03)
 
 ### Chore

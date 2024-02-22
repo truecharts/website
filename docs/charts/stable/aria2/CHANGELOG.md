@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [aria2-11.1.12](https://github.com/truecharts/charts/compare/aria2-11.1.11...aria2-11.1.12) (2024-02-03)
 
 ### Chore

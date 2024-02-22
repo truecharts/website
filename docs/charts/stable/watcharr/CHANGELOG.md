@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [watcharr-3.5.0](https://github.com/truecharts/charts/compare/watcharr-3.4.0...watcharr-3.5.0) (2024-02-12)
 
 ### Chore

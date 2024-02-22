@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [digikam-10.1.12](https://github.com/truecharts/charts/compare/digikam-10.1.11...digikam-10.1.12) (2024-02-03)
 
 ### Chore

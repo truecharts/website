@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [nocodb-12.3.6](https://github.com/truecharts/charts/compare/nocodb-12.3.5...nocodb-12.3.6) (2024-02-03)
 
 ### Chore

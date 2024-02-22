@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [cryptofolio-11.1.12](https://github.com/truecharts/charts/compare/cryptofolio-11.1.11...cryptofolio-11.1.12) (2024-02-03)
 
 ### Chore

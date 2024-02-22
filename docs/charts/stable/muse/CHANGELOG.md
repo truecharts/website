@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [muse-4.2.5](https://github.com/truecharts/charts/compare/muse-4.2.4...muse-4.2.5) (2024-02-03)
 
 ### Chore

@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [sqlite-web-4.1.11](https://github.com/truecharts/charts/compare/sqlite-web-4.1.10...sqlite-web-4.1.11) (2024-02-03)
 
 ### Chore

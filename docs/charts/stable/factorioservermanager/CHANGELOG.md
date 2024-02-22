@@ -5,6 +5,7 @@ title: Changelog
 
 
 
+
 ## [factorioservermanager-4.1.12](https://github.com/truecharts/charts/compare/factorioservermanager-4.1.11...factorioservermanager-4.1.12) (2024-02-03)
 
 ### Chore
