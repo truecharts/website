@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [kube-state-metrics-6.1.21](https://github.com/truecharts/charts/compare/kube-state-metrics-6.1.20...kube-state-metrics-6.1.21) (2024-02-12)
 
 ### Chore
