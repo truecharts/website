@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [tailscale-7.2.0](https://github.com/truecharts/charts/compare/tailscale-7.1.11...tailscale-7.2.0) (2024-02-05)
 
 ### Chore
