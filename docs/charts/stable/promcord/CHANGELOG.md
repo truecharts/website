@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [promcord-10.1.12](https://github.com/truecharts/charts/compare/promcord-10.1.11...promcord-10.1.12) (2024-02-03)
 
 ### Chore

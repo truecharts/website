@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [frigate-12.1.11](https://github.com/truecharts/charts/compare/frigate-12.1.10...frigate-12.1.11) (2024-02-03)
 
 ### Chore

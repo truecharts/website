@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [vaultwarden-25.1.15](https://github.com/truecharts/charts/compare/vaultwarden-25.1.14...vaultwarden-25.1.15) (2024-02-03)
 
 ### Chore

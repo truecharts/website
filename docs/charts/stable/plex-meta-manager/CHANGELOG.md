@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [plex-meta-manager-5.2.6](https://github.com/truecharts/charts/compare/plex-meta-manager-5.2.5...plex-meta-manager-5.2.6) (2024-02-03)
 
 ### Chore

@@ -20,6 +20,7 @@ title: Changelog
 
 
 
+
 ## [heimdall-19.0.4](https://github.com/truecharts/charts/compare/heimdall-19.0.3...heimdall-19.0.4) (2024-02-12)
 
 ### Chore

@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [impostor-server-7.2.2](https://github.com/truecharts/charts/compare/impostor-server-7.2.1...impostor-server-7.2.2) (2024-02-03)
 
 ### Chore

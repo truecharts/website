@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [avidemux-8.0.1](https://github.com/truecharts/charts/compare/avidemux-8.0.0...avidemux-8.0.1) (2024-02-03)
 
 ### Chore

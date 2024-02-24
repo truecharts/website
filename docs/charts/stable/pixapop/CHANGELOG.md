@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [pixapop-9.1.11](https://github.com/truecharts/charts/compare/pixapop-9.1.10...pixapop-9.1.11) (2024-02-03)
 
 ### Chore

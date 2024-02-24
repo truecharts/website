@@ -16,6 +16,7 @@ title: Changelog
 
 
 
+
 ## [fluidd-8.2.0](https://github.com/truecharts/charts/compare/fluidd-8.1.11...fluidd-8.2.0) (2024-02-12)
 
 ### Chore

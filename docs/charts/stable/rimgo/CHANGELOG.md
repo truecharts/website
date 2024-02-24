@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [rimgo-5.1.36](https://github.com/truecharts/charts/compare/rimgo-5.1.35...rimgo-5.1.36) (2024-02-05)
 
 ### Chore

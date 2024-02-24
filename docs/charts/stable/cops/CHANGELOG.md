@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [cops-7.1.18](https://github.com/truecharts/charts/compare/cops-7.1.17...cops-7.1.18) (2024-02-12)
 
 ### Chore

@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [syslog-ng-8.2.1](https://github.com/truecharts/charts/compare/syslog-ng-8.2.0...syslog-ng-8.2.1) (2024-02-03)
 
 ### Chore

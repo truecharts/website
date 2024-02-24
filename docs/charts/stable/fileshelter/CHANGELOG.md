@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [fileshelter-5.0.5](https://github.com/truecharts/charts/compare/fileshelter-5.0.4...fileshelter-5.0.5) (2024-02-03)
 
 ### Chore

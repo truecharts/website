@@ -17,6 +17,7 @@ title: Changelog
 
 
 
+
 ## [serpbear-2.1.14](https://github.com/truecharts/charts/compare/serpbear-2.1.13...serpbear-2.1.14) (2024-02-12)
 
 ### Chore

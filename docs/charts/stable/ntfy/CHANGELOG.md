@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [ntfy-8.2.5](https://github.com/truecharts/charts/compare/ntfy-8.2.4...ntfy-8.2.5) (2024-02-03)
 
 ### Chore

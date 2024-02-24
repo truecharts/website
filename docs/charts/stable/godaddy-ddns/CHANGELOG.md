@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [godaddy-ddns-4.1.11](https://github.com/truecharts/charts/compare/godaddy-ddns-4.1.10...godaddy-ddns-4.1.11) (2024-02-03)
 
 ### Chore

@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [rdtclient-3.1.15](https://github.com/truecharts/charts/compare/rdtclient-3.1.14...rdtclient-3.1.15) (2024-02-03)
 
 ### Chore

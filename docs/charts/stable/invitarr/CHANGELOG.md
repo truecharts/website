@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [invitarr-4.1.12](https://github.com/truecharts/charts/compare/invitarr-4.1.11...invitarr-4.1.12) (2024-02-03)
 
 ### Chore

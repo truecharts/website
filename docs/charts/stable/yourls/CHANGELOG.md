@@ -17,6 +17,7 @@ title: Changelog
 
 
 
+
 ## [yourls-4.1.15](https://github.com/truecharts/charts/compare/yourls-4.1.14...yourls-4.1.15) (2024-02-05)
 
 ### Chore

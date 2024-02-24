@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [grafana-12.1.2](https://github.com/truecharts/charts/compare/grafana-12.1.1...grafana-12.1.2) (2024-02-12)
 
 ### Chore

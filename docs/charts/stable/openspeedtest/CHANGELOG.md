@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [openspeedtest-7.1.12](https://github.com/truecharts/charts/compare/openspeedtest-7.1.11...openspeedtest-7.1.12) (2024-02-03)
 
 ### Chore

@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [code-server-10.2.0](https://github.com/truecharts/charts/compare/code-server-10.1.13...code-server-10.2.0) (2024-02-12)
 
 ### Chore

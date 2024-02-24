@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [cs2-2.1.15](https://github.com/truecharts/charts/compare/cs2-2.1.14...cs2-2.1.15) (2024-02-03)
 
 ### Chore

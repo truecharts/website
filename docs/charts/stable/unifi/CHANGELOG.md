@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [unifi-19.1.13](https://github.com/truecharts/charts/compare/unifi-19.1.12...unifi-19.1.13) (2024-02-03)
 
 ### Chore

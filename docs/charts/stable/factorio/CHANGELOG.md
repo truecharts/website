@@ -21,6 +21,7 @@ title: Changelog
 
 
 
+
 ## [factorio-6.1.18](https://github.com/truecharts/charts/compare/factorio-6.1.17...factorio-6.1.18) (2024-02-05)
 
 ### Chore

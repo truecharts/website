@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [apt-cacher-ng-7.1.12](https://github.com/truecharts/charts/compare/apt-cacher-ng-7.1.11...apt-cacher-ng-7.1.12) (2024-02-03)
 
 ### Chore

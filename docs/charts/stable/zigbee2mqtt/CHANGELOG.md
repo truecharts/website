@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [zigbee2mqtt-10.4.3](https://github.com/truecharts/charts/compare/zigbee2mqtt-10.4.2...zigbee2mqtt-10.4.3) (2024-02-12)
 
 ### Chore
