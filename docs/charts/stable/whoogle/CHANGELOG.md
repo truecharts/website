@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [whoogle-9.1.11](https://github.com/truecharts/charts/compare/whoogle-9.1.10...whoogle-9.1.11) (2024-02-03)
 
 ### Chore

@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [slack-invite-4.1.11](https://github.com/truecharts/charts/compare/slack-invite-4.1.10...slack-invite-4.1.11) (2024-02-03)
 
 ### Chore

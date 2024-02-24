@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [etesync-8.1.15](https://github.com/truecharts/charts/compare/etesync-8.1.14...etesync-8.1.15) (2024-02-03)
 
 ### Chore

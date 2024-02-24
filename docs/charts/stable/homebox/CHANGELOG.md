@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [homebox-5.1.12](https://github.com/truecharts/charts/compare/homebox-5.1.11...homebox-5.1.12) (2024-02-03)
 
 ### Chore

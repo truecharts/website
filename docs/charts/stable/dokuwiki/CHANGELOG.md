@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [dokuwiki-9.1.18](https://github.com/truecharts/charts/compare/dokuwiki-9.1.17...dokuwiki-9.1.18) (2024-02-12)
 
 ### Chore

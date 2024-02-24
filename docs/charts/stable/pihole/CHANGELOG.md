@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [pihole-14.0.5](https://github.com/truecharts/charts/compare/pihole-14.0.4...pihole-14.0.5) (2024-02-03)
 
 ### Chore

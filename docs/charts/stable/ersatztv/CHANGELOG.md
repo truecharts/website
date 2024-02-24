@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [ersatztv-2.1.15](https://github.com/truecharts/charts/compare/ersatztv-2.1.12...ersatztv-2.1.15) (2024-02-05)
 
 ### Chore

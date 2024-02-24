@@ -20,6 +20,7 @@ title: Changelog
 
 
 
+
 ## [wallos-3.1.15](https://github.com/truecharts/charts/compare/wallos-3.1.14...wallos-3.1.15) (2024-02-12)
 
 ### Chore

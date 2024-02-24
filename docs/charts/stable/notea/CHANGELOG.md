@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [notea-4.1.11](https://github.com/truecharts/charts/compare/notea-4.1.10...notea-4.1.11) (2024-02-03)
 
 ### Chore

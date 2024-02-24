@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [fotosho-4.1.11](https://github.com/truecharts/charts/compare/fotosho-4.1.10...fotosho-4.1.11) (2024-02-03)
 
 ### Chore

@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [shapeshifter-obfuscator-4.1.11](https://github.com/truecharts/charts/compare/shapeshifter-obfuscator-4.1.10...shapeshifter-obfuscator-4.1.11) (2024-02-03)
 
 ### Chore

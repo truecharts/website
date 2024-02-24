@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [automatic-ripping-machine-2.1.34](https://github.com/truecharts/charts/compare/automatic-ripping-machine-2.1.33...automatic-ripping-machine-2.1.34) (2024-02-12)
 
 ### Chore

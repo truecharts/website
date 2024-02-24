@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [rstudio-5.1.14](https://github.com/truecharts/charts/compare/rstudio-5.1.13...rstudio-5.1.14) (2024-02-05)
 
 ### Chore

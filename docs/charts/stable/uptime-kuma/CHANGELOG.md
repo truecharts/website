@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [uptime-kuma-9.1.12](https://github.com/truecharts/charts/compare/uptime-kuma-9.1.11...uptime-kuma-9.1.12) (2024-02-03)
 
 ### Chore

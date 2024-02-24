@@ -12,6 +12,7 @@ title: Changelog
 
 
 
+
 ## [plausible-8.2.9](https://github.com/truecharts/charts/compare/plausible-8.2.8...plausible-8.2.9) (2024-02-03)
 
 ### Chore

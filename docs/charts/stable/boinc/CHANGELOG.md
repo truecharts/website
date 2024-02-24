@@ -19,6 +19,7 @@ title: Changelog
 
 
 
+
 ## [boinc-8.1.19](https://github.com/truecharts/charts/compare/boinc-8.1.18...boinc-8.1.19) (2024-02-12)
 
 ### Chore

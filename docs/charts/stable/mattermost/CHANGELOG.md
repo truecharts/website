@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [mattermost-11.2.5](https://github.com/truecharts/charts/compare/mattermost-11.2.4...mattermost-11.2.5) (2024-02-12)
 
 ### Chore

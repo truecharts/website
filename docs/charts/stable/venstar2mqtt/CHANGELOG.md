@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [venstar2mqtt-4.1.12](https://github.com/truecharts/charts/compare/venstar2mqtt-4.1.11...venstar2mqtt-4.1.12) (2024-02-03)
 
 ### Chore
