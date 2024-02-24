@@ -221,8 +221,8 @@ workload:
 
 #### `resources.limits.intel.com/i915`
 
-Has a Intel GPU added when available
-*Note that "intel.com/i915" is a single dict-name*
+An Intel GPU added when available
+*Note that `intel.com/i915` is a single key, don't get confused by the `.` or `/`*
 
 Default
 
@@ -241,8 +241,8 @@ workload:
 
 #### `resources.limits.nvidia.com/gpu`
 
-Has a NVIDIA GPU added when available
-*Note that "nvidia.com/gpu" is a single dict-name*
+An NVIDIA GPU added when available
+*Note that `nvidia.com/gpu` is a single key, don't get confused by the `.` or `/`*
 
 Default
 
@@ -261,8 +261,8 @@ workload:
 
 #### `resources.limits.amd.com/gpu`
 
-Has a AMD GPU added when available
-*Note that "amd.com/gpu" is a single dict-name*
+An AMD GPU added when available
+*Note that `amd.com/gpu` is a single key, don't get confused by the `.` or `/`*
 
 Default
 
@@ -276,8 +276,6 @@ workload:
             limits:
               amd.com/gpu: 1
 ```
-
-
 
 ---
 
