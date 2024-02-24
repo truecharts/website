@@ -70,6 +70,30 @@ resources:
 
 ---
 
+### `resources.requests."intel.com/i915"`
+
+See [Resources Requests GPU](./container/resources.md#resourceslimitsintelcomi915)
+
+Default: `not set`
+
+---
+
+#### `resources.limits."nvidia.com/gpu"`
+
+See [Resources Limits GPU](./container/resources.md#resourceslimitsnvidiacomgpu)
+
+Default: `not set`
+
+---
+
+#### `resources.limits."amd.com/gpu"`
+
+See [Resources Limits GPU](./container/resources.md#resourceslimitsamdcomgpu)
+
+Default: `not set`
+
+---
+
 ## `resources.requests`
 
 See [Resources Requests](./container/resources.md#resourcesrequests)
