@@ -24,3 +24,10 @@ In short this means you will have to specify the number of GPU's to assign to an
 (either AMD, NVIDIA or Intel).
 
 From an end-user perspective it's just moved to a slightly different place and instead of a drop-down you'll have to enter a number of GPU's to assign, `1` in most cases.
+
+## Pre-DragonFish Storage
+
+To make it easier to migrate to DragonFish, all users are adviced to set any-and-all references to "StorageClass" to `SCALE-ZFS` for any existing charts/apps.
+This ensures those charts/apps stay working after migrating to TrueNAS SCALE DragonFish in the future.
+
+If you do not do this, we cannot guarantee your data stays in tact when you move to DragonFish in the future.
