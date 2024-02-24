@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [dns-doh-companion-4.1.17](https://github.com/truecharts/charts/compare/dns-doh-companion-4.1.16...dns-doh-companion-4.1.17) (2024-02-12)
 
 ### Chore

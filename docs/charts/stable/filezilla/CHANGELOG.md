@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [filezilla-10.2.10](https://github.com/truecharts/charts/compare/filezilla-10.2.9...filezilla-10.2.10) (2024-02-12)
 
 ### Chore

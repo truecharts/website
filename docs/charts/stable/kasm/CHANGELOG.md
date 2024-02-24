@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [kasm-7.1.11](https://github.com/truecharts/charts/compare/kasm-7.1.10...kasm-7.1.11) (2024-02-03)
 
 ### Chore

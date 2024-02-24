@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [traefik-forward-auth-2.1.14](https://github.com/truecharts/charts/compare/traefik-forward-auth-2.1.13...traefik-forward-auth-2.1.14) (2024-02-03)
 
 ### Chore

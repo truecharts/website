@@ -13,6 +13,7 @@ title: Changelog
 
 
 
+
 ## [plextraktsync-6.2.13](https://github.com/truecharts/charts/compare/plextraktsync-6.2.12...plextraktsync-6.2.13) (2024-02-12)
 
 ### Chore

@@ -13,6 +13,7 @@ title: Changelog
 
 
 
+
 ## [metabase-2.1.15](https://github.com/truecharts/charts/compare/metabase-2.1.14...metabase-2.1.15) (2024-02-12)
 
 ### Chore

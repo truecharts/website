@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [xen-orchestra-7.4.0](https://github.com/truecharts/charts/compare/xen-orchestra-7.3.1...xen-orchestra-7.4.0) (2024-02-12)
 
 ### Chore

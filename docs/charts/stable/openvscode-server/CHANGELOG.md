@@ -7,6 +7,7 @@ title: Changelog
 
 
 
+
 ## [openvscode-server-8.2.0](https://github.com/truecharts/charts/compare/openvscode-server-8.1.16...openvscode-server-8.2.0) (2024-02-12)
 
 ### Chore

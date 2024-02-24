@@ -13,6 +13,7 @@ title: Changelog
 
 
 
+
 ## [ghostfolio-3.10.0](https://github.com/truecharts/charts/compare/ghostfolio-3.9.0...ghostfolio-3.10.0) (2024-02-12)
 
 ### Chore

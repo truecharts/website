@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [ariang-7.1.12](https://github.com/truecharts/charts/compare/ariang-7.1.11...ariang-7.1.12) (2024-02-03)
 
 ### Chore

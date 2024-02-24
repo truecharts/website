@@ -2,7 +2,7 @@
 title: archivebox
 ---
 
-![Version: 0.7.2](https://img.shields.io/badge/Version-0.7.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.4.9](https://img.shields.io/badge/AppVersion-2.4.9-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 ArchiveBox is an open-source, self-hosted internet archiving solution.
 
@@ -14,3 +14,4 @@ ArchiveBox is an open-source, self-hosted internet archiving solution.
 
 ## Available Documentation
 
+- [**Installation Guide**](./installation_guide.md)

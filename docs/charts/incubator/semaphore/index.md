@@ -2,7 +2,7 @@
 title: semaphore
 ---
 
-![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.9.45](https://img.shields.io/badge/AppVersion-2.9.45-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.9.45](https://img.shields.io/badge/AppVersion-2.9.45-informational?style=flat-square)
 
 Semaphore is a modern, open source alternative to Ansible Tower. It is a self-hosted web-based solution that allows you to create and manage Ansible projects, playbooks, and roles, while also providing a web interface for running and monitoring Ansible tasks.
 
@@ -10,7 +10,7 @@ Semaphore is a modern, open source alternative to Ansible Tower. It is a self-ho
 
 - https://github.com/ansible-semaphore/semaphore
 - https://github.com/truecharts/charts/tree/master/charts/incubator/semaphore
-- https://hub.docker.com/r/semaphoreui/semaphore/
+- https://hub.docker.com/r/semaphoreui/semaphore
 
 ## Available Documentation
 

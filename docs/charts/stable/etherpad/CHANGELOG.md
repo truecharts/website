@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [etherpad-15.1.12](https://github.com/truecharts/charts/compare/etherpad-15.1.11...etherpad-15.1.12) (2024-02-03)
 
 ### Chore

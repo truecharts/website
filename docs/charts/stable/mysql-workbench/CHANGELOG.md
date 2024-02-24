@@ -17,6 +17,7 @@ title: Changelog
 
 
 
+
 ## [mysql-workbench-8.1.18](https://github.com/truecharts/charts/compare/mysql-workbench-8.1.17...mysql-workbench-8.1.18) (2024-02-12)
 
 ### Chore
