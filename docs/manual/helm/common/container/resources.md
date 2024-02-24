@@ -219,10 +219,10 @@ workload:
 
 ---
 
-#### `resources.limits."intel.com/i915"`
+#### `resources.limits."gpu.intel.com/i915"`
 
 An Intel GPU added when available
-*Note that `intel.com/i915` is a single key, despite of the `.`*
+*Note that `gpu.intel.com/i915` is a single key, despite of the `.`*
 
 Default
 

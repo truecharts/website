@@ -70,7 +70,7 @@ resources:
 
 ---
 
-### `resources.requests."intel.com/i915"`
+### `resources.requests."gpu.intel.com/i915"`
 
 See [Resources Requests GPU](./container/resources.md#resourceslimitsintelcomi915)
 
