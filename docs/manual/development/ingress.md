@@ -111,12 +111,6 @@ We try to maintain as much of a standardized questions.yaml format as possible, 
                                   type: string
                                   default: ""
                                   required: true
-                        - variable: scaleCERT
-                          label: "Select TrueNAS SCALE Certificate"
-                          schema:
-                            type: int
-                            $ref:
-                              - "definitions/certificate"
 ```
 
 #### TCP Ingress

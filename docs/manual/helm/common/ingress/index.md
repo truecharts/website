@@ -574,37 +574,6 @@ ingress:
 
 ---
 
-##### `tls[].scaleCert`
-
-Define the scale certificate for this TLS
-
-:::note
-
-See [Scale Certificate](./scaleCertificate.md)
-
-:::
-
-|            |                                 |
-| ---------- | ------------------------------- |
-| Key        | `ingress.$name.tls[].scaleCert` |
-| Type       | `string`                        |
-| Required   | ❌                              |
-| Helm `tpl` | ❌                              |
-| Default    | `""`                            |
-
-Example
-
-```yaml
-ingress:
-  ingress-name:
-    tls:
-      - hosts:
-          - chart-example.local
-        scaleCert: "1"
-```
-
----
-
 ##### `tls[].clusterIssuer`
 
 Define the cluster issuer for this TLS
@@ -757,8 +726,6 @@ ingress:
         secretName: chart-example-tls
         # OR
         certificateIssuer: ""
-        # OR
-        scaleCert: ""
     integrations:
       certManager:
         enabled: false

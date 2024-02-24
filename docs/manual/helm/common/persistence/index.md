@@ -116,7 +116,6 @@ Valid Values:
 - [`vct`](./pvc-vct/index.md)
 - [`nfs`](./nfs.md)
 - [`emptyDir`](./emptyDir.md)
-- [`ixVolume`](./ixVolume.md)
 - [`iscsi`](./iscsi.md)
 
 Example
@@ -473,5 +472,4 @@ Full examples can be found under each persistence type
 - [vct](./pvc-vct/index.md)
 - [nfs](nfs.md)
 - [emptyDir](emptyDir.md)
-- [ixVolume](ixVolume.md)
 - [iscsi](iscsi.md)
