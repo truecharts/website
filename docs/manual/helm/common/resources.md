@@ -95,7 +95,7 @@ Default
 ```yaml
 resources:
   limits:
-    memory: 8Gi
+    nvidia.com/gpu: 1
 ```
 
 ---
@@ -110,7 +110,7 @@ Default
 ```yaml
 resources:
   limits:
-    memory: 8Gi
+    amd.com/gpu: 1
 ```
 
 
