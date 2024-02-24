@@ -557,7 +557,6 @@ image:
 - [resources](./resources.md)
 - [scaleCertificate](./scaleCertificate.md)
 - [scaleExternalInterface](./scaleExternalInterface.md)
-- [scaleGPU](./scaleGPU.md)
 - [secret](./secret.md)
 - [securityContext](./securityContext.md)
 - [service](./service/index.md)

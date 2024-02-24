@@ -43,7 +43,7 @@ By default it will set the following environment variables:
 - `PGID`, `GROUP_ID`, `GID`: Same as [`fsGroup`](../securityContext.md#securitycontextpodfsgroup)
   - Only when [`runAsUser`](./securityContext.md#securitycontextrunasuser) or [`runAsGroup`](../securityContext.md#securitycontextcontainerrunasgroup) is `0`
 - `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](../containerOptions.md#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](#fixedenvnvidia_caps)
-  - Only when [`scaleGPU`](../scaleGPU.md) is assigned to the container
+  - Only when `nvidia.com/gpu` is set to `> 0` under [`resources`](../container/resources.md)
 
 :::
 
