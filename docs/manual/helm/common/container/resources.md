@@ -219,6 +219,68 @@ workload:
 
 ---
 
+#### `resources.limits.intel.com/i915`
+
+Has a Intel GPU added when available
+*Note that "intel.com/i915" is a single dict-name*
+
+Default
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          resources:
+            limits:
+              intel.com/i915: 1
+```
+
+---
+
+#### `resources.limits.nvidia.com/gpu`
+
+Has a NVIDIA GPU added when available
+*Note that "nvidia.com/gpu" is a single dict-name*
+
+Default
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          resources:
+            limits:
+              nvidia.com/gpu: 1
+```
+
+---
+
+#### `resources.limits.amd.com/gpu`
+
+Has a AMD GPU added when available
+*Note that "amd.com/gpu" is a single dict-name*
+
+Default
+
+```yaml
+workload:
+  workload-name:
+    podSpec:
+      containers:
+        container-name:
+          resources:
+            limits:
+              amd.com/gpu: 1
+```
+
+
+
+---
+
 ## Full Examples
 
 ```yaml
