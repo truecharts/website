@@ -555,7 +555,6 @@ image:
 - [priorityClass](./priorityClass.md)
 - [rbac](./rbac.md)
 - [resources](./resources.md)
-- [scaleCertificate](./scaleCertificate.md)
 - [scaleExternalInterface](./scaleExternalInterface.md)
 - [secret](./secret.md)
 - [securityContext](./securityContext.md)
