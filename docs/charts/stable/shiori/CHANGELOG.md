@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [shiori-15.1.11](https://github.com/truecharts/charts/compare/shiori-15.1.10...shiori-15.1.11) (2024-02-03)
 
 ### Chore

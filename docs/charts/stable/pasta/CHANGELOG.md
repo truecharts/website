@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [pasta-7.1.11](https://github.com/truecharts/charts/compare/pasta-7.1.10...pasta-7.1.11) (2024-02-03)
 
 ### Chore

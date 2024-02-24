@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [v-rising-4.2.5](https://github.com/truecharts/charts/compare/v-rising-4.2.4...v-rising-4.2.5) (2024-02-03)
 
 ### Chore

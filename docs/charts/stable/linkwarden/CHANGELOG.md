@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [linkwarden-3.2.14](https://github.com/truecharts/charts/compare/linkwarden-3.2.13...linkwarden-3.2.14) (2024-02-03)
 
 ### Chore

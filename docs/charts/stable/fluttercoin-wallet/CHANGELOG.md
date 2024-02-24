@@ -6,6 +6,7 @@ title: Changelog
 
 
 
+
 ## [fluttercoin-wallet-4.1.12](https://github.com/truecharts/charts/compare/fluttercoin-wallet-4.1.11...fluttercoin-wallet-4.1.12) (2024-02-03)
 
 ### Chore
