@@ -31,3 +31,23 @@ To make it easier to migrate to DragonFish, all users are adviced to set any-and
 This ensures those charts/apps stay working after migrating to TrueNAS SCALE DragonFish in the future.
 
 If you do not do this, we cannot guarantee your data stays in tact when you move to DragonFish in the future.
+
+## Technical Common Changes
+
+These changes do not affect end-users of the charts/apps, but are breaking changes in the common library if used directly by DIY/experienced users building their own helm charts.
+
+### Removal of SCALE certificates support
+
+After removing SCALE Certificates support from our GUI setup, we've now also removed it from the common library chart
+
+### Removal of iXVolumes
+
+iXVolumes was the weird storage solution designed by iX-Systems that created hostPath mounted datasets, automatically.
+A bit like PVC, but without complying to any industry standards.
+
+We've never been using it, nor ever supported it in our charts.
+Hence we've decided to remove it from the common library chart as well.
+
+### Removal of SCALE GPU
+
+Besides the removal of SCALE GPU GUI, from the end-user GUI, it's also completely scrubbed from the common library-chart, as it is completely replaced.
