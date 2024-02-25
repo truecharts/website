@@ -2,15 +2,15 @@
 title: hammond
 ---
 
-![Version: 9.1.1](https://img.shields.io/badge/Version-9.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.0](https://img.shields.io/badge/AppVersion-1.0.0-informational?style=flat-square)
+![Version: 9.1.2](https://img.shields.io/badge/Version-9.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.24](https://img.shields.io/badge/AppVersion-0.0.24-informational?style=flat-square)
 
 A self-hosted vehicle expense tracking system with support for multiple users.
 
 ## Chart Sources
 
-- https://github.com/akhilrex/hammond
+- https://github.com/AlfHou/hammond
 - https://github.com/truecharts/charts/tree/master/charts/stable/hammond
-- https://hub.docker.com/r/akhilrex/hammond
+- https://github.com/alfhou/hammond/pkgs/container/hammond
 
 ## Available Documentation
 
