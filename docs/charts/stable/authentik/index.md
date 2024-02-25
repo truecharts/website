@@ -2,7 +2,7 @@
 title: authentik
 ---
 
-![Version: 24.1.1](https://img.shields.io/badge/Version-24.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.2.1](https://img.shields.io/badge/AppVersion-2024.2.1-informational?style=flat-square)
+![Version: 24.1.2](https://img.shields.io/badge/Version-24.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.2.1](https://img.shields.io/badge/AppVersion-2024.2.1-informational?style=flat-square)
 
 Authentik is an open-source Identity Provider focused on flexibility and versatility.
 
@@ -11,11 +11,11 @@ Authentik is an open-source Identity Provider focused on flexibility and versati
 - https://goauthentik.io/docs/
 - https://github.com/goauthentik/authentik
 - https://github.com/truecharts/charts/tree/master/charts/stable/authentik
-- https://ghcr.io/maxmind/geoipupdate
-- https://ghcr.io/goauthentik/radius
-- https://ghcr.io/goauthentik/server
 - https://ghcr.io/goauthentik/proxy
+- https://ghcr.io/goauthentik/server
+- https://ghcr.io/goauthentik/radius
 - https://ghcr.io/goauthentik/ldap
+- https://ghcr.io/maxmind/geoipupdate
 
 ## Available Documentation
 

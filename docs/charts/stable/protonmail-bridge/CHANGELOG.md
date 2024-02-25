@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [protonmail-bridge-13.2.6](https://github.com/truecharts/charts/compare/protonmail-bridge-13.2.5...protonmail-bridge-13.2.6) (2024-02-05)
 
 ### Chore

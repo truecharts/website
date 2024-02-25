@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [linkding-8.2.1](https://github.com/truecharts/charts/compare/linkding-8.2.0...linkding-8.2.1) (2024-02-03)
 
 ### Chore

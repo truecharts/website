@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [megasync-5.1.15](https://github.com/truecharts/charts/compare/megasync-5.1.14...megasync-5.1.15) (2024-02-03)
 
 ### Chore

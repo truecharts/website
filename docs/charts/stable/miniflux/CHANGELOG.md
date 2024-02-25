@@ -12,6 +12,7 @@ title: Changelog
 
 
 
+
 ## [miniflux-13.1.11](https://github.com/truecharts/charts/compare/miniflux-13.1.10...miniflux-13.1.11) (2024-02-03)
 
 ### Chore

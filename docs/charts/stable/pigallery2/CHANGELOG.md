@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [pigallery2-4.1.11](https://github.com/truecharts/charts/compare/pigallery2-4.1.10...pigallery2-4.1.11) (2024-02-03)
 
 ### Chore

@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [discordgsm-6.2.0](https://github.com/truecharts/charts/compare/discordgsm-6.1.12...discordgsm-6.2.0) (2024-02-12)
 
 ### Chore

@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [plex-auto-languages-7.1.11](https://github.com/truecharts/charts/compare/plex-auto-languages-7.1.10...plex-auto-languages-7.1.11) (2024-02-03)
 
 ### Chore

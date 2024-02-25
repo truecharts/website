@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [tauticord-2.5.0](https://github.com/truecharts/charts/compare/tauticord-2.4.1...tauticord-2.5.0) (2024-02-05)
 
 ### Chore

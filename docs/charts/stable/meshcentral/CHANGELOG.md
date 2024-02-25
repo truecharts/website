@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [meshcentral-14.1.14](https://github.com/truecharts/charts/compare/meshcentral-14.1.13...meshcentral-14.1.14) (2024-02-03)
 
 ### Chore

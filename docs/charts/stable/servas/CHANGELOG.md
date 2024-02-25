@@ -14,6 +14,7 @@ title: Changelog
 
 
 
+
 ## [servas-3.2.7](https://github.com/truecharts/charts/compare/servas-3.2.6...servas-3.2.7) (2024-02-03)
 
 ### Chore

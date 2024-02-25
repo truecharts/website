@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [adguardhome-sync-5.2.9](https://github.com/truecharts/charts/compare/adguardhome-sync-5.2.8...adguardhome-sync-5.2.9) (2024-02-12)
 
 ### Chore

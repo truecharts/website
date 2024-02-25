@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [ser2sock-12.1.11](https://github.com/truecharts/charts/compare/ser2sock-12.1.10...ser2sock-12.1.11) (2024-02-03)
 
 ### Chore

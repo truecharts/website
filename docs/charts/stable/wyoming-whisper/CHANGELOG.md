@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [wyoming-whisper-3.1.11](https://github.com/truecharts/charts/compare/wyoming-whisper-3.1.10...wyoming-whisper-3.1.11) (2024-02-03)
 
 ### Chore

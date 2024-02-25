@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [androiddebugbridge-4.1.13](https://github.com/truecharts/charts/compare/androiddebugbridge-4.1.12...androiddebugbridge-4.1.13) (2024-02-03)
 
 ### Chore

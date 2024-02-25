@@ -9,6 +9,7 @@ title: Changelog
 
 
 
+
 ## [watchyourlan-7.1.12](https://github.com/truecharts/charts/compare/watchyourlan-7.1.11...watchyourlan-7.1.12) (2024-02-03)
 
 ### Chore
