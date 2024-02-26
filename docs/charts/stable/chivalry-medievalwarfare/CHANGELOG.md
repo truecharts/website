@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [chivalry-medievalwarfare-4.1.12](https://github.com/truecharts/charts/compare/chivalry-medievalwarfare-4.1.11...chivalry-medievalwarfare-4.1.12) (2024-02-03)
 
 ### Chore

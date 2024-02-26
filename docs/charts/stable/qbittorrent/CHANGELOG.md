@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [qbittorrent-18.1.12](https://github.com/truecharts/charts/compare/qbittorrent-18.1.11...qbittorrent-18.1.12) (2024-02-03)
 
 ### Chore

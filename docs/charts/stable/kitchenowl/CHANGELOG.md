@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [kitchenowl-8.3.5](https://github.com/truecharts/charts/compare/kitchenowl-8.3.4...kitchenowl-8.3.5) (2024-02-03)
 
 ### Chore

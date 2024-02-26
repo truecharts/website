@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [trilium-notes-11.1.13](https://github.com/truecharts/charts/compare/trilium-notes-11.1.12...trilium-notes-11.1.13) (2024-02-03)
 
 ### Chore

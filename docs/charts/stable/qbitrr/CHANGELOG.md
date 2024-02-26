@@ -12,6 +12,7 @@ title: Changelog
 
 
 
+
 ## [qbitrr-3.3.1](https://github.com/truecharts/charts/compare/qbitrr-3.3.0...qbitrr-3.3.1) (2024-02-12)
 
 ### Chore

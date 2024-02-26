@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [mealie-20.4.0](https://github.com/truecharts/charts/compare/mealie-20.3.2...mealie-20.4.0) (2024-02-12)
 
 ### Chore

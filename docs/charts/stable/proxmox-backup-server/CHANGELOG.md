@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [proxmox-backup-server-2.2.6](https://github.com/truecharts/charts/compare/proxmox-backup-server-2.2.5...proxmox-backup-server-2.2.6) (2024-02-03)
 
 ### Chore

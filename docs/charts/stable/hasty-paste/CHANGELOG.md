@@ -17,6 +17,7 @@ title: Changelog
 
 
 
+
 ## [hasty-paste-5.1.15](https://github.com/truecharts/charts/compare/hasty-paste-5.1.14...hasty-paste-5.1.15) (2024-02-03)
 
 ### Chore

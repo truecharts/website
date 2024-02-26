@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [adguard-home-8.1.13](https://github.com/truecharts/charts/compare/adguard-home-8.1.12...adguard-home-8.1.13) (2024-02-12)
 
 ### Chore

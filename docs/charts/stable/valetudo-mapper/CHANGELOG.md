@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [valetudo-mapper-4.1.11](https://github.com/truecharts/charts/compare/valetudo-mapper-4.1.10...valetudo-mapper-4.1.11) (2024-02-03)
 
 ### Chore

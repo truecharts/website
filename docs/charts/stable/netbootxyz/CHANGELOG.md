@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [netbootxyz-3.1.11](https://github.com/truecharts/charts/compare/netbootxyz-3.1.10...netbootxyz-3.1.11) (2024-02-03)
 
 ### Chore

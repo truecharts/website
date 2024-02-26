@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [ring-mqtt-7.1.12](https://github.com/truecharts/charts/compare/ring-mqtt-7.1.11...ring-mqtt-7.1.12) (2024-02-03)
 
 ### Chore

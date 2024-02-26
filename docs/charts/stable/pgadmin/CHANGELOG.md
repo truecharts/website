@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [pgadmin-14.3.0](https://github.com/truecharts/charts/compare/pgadmin-14.2.5...pgadmin-14.3.0) (2024-02-12)
 
 ### Chore

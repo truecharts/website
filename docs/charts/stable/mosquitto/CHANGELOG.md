@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [mosquitto-13.1.13](https://github.com/truecharts/charts/compare/mosquitto-13.1.12...mosquitto-13.1.13) (2024-02-03)
 
 ### Chore

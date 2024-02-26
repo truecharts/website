@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [stackedit-4.1.11](https://github.com/truecharts/charts/compare/stackedit-4.1.10...stackedit-4.1.11) (2024-02-03)
 
 ### Chore

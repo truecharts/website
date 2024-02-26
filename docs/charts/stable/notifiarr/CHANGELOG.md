@@ -10,6 +10,7 @@ title: Changelog
 
 
 
+
 ## [notifiarr-3.1.11](https://github.com/truecharts/charts/compare/notifiarr-3.1.10...notifiarr-3.1.11) (2024-02-03)
 
 ### Chore
