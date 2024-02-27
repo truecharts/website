@@ -1,5 +1,5 @@
 ---
-slug: "future-of-apps"
+slug: "embrace-kubeapps"
 title: "Embrace KubeApps, Rancher, and FluxCD! 🚀"
 authors: [ornias]
 ---
