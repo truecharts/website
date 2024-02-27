@@ -21,7 +21,7 @@ The third tier introduces TrueNAS SCALE Apps, where a bit more abstraction comes
 Currently we've one planned future addition: ArgoCD.
 But due to technical issues from ArgoCD, we cannot yet support it and it will **not** work reliably yet with TrueCharts Helm Charts either.
 
-## The Expansion:
+## Behind the Expansion:
 This expansion is about offering you more choices while maintaining the excellence you expect from TrueCharts. It's about enriching your deployment experience with flexibility and reliability.
 
 ## There is more
