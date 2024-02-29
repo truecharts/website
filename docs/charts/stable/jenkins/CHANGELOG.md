@@ -13,6 +13,7 @@ title: Changelog
 
 
 
+
 ## [jenkins-6.8.0](https://github.com/truecharts/charts/compare/jenkins-6.7.1...jenkins-6.8.0) (2024-02-12)
 
 ### Chore

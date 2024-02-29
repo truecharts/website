@@ -2,7 +2,7 @@
 title: automatic-music-downloader
 ---
 
-![Version: 9.1.3](https://img.shields.io/badge/Version-9.1.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 9.2.0](https://img.shields.io/badge/Version-9.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A Lidarr companion script to automatically download music for Lidarr.
 

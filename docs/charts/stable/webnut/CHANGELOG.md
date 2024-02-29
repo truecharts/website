@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [webnut-7.1.11](https://github.com/truecharts/charts/compare/webnut-7.1.10...webnut-7.1.11) (2024-02-03)
 
 ### Chore

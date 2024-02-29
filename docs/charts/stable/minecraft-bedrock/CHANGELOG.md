@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [minecraft-bedrock-7.1.11](https://github.com/truecharts/charts/compare/minecraft-bedrock-7.1.10...minecraft-bedrock-7.1.11) (2024-02-03)
 
 ### Chore

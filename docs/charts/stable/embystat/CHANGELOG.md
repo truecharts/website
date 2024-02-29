@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [embystat-8.1.12](https://github.com/truecharts/charts/compare/embystat-8.1.11...embystat-8.1.12) (2024-02-03)
 
 ### Chore

@@ -13,6 +13,7 @@ title: Changelog
 
 
 
+
 ## [esphome-17.1.15](https://github.com/truecharts/charts/compare/esphome-17.1.14...esphome-17.1.15) (2024-02-03)
 
 ### Chore

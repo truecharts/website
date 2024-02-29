@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [stash-14.2.13](https://github.com/truecharts/charts/compare/stash-14.2.12...stash-14.2.13) (2024-02-03)
 
 ### Chore

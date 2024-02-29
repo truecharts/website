@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [blender-desktop-g3-4.1.13](https://github.com/truecharts/charts/compare/blender-desktop-g3-4.1.12...blender-desktop-g3-4.1.13) (2024-02-12)
 
 ### Chore

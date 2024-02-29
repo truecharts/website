@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [guacamole-12.1.11](https://github.com/truecharts/charts/compare/guacamole-12.1.10...guacamole-12.1.11) (2024-02-03)
 
 ### Chore

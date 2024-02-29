@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [aurora-files-4.1.12](https://github.com/truecharts/charts/compare/aurora-files-4.1.11...aurora-files-4.1.12) (2024-02-03)
 
 ### Chore

@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [ipmi-tools-5.1.11](https://github.com/truecharts/charts/compare/ipmi-tools-5.1.10...ipmi-tools-5.1.11) (2024-02-03)
 
 ### Chore

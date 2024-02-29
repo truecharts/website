@@ -26,6 +26,7 @@ title: Changelog
 
 
 
+
 ## [firefox-desktop-g3-4.1.13](https://github.com/truecharts/charts/compare/firefox-desktop-g3-4.1.12...firefox-desktop-g3-4.1.13) (2024-02-12)
 
 ### Chore

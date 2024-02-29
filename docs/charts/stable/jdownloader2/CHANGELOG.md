@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [jdownloader2-15.0.1](https://github.com/truecharts/charts/compare/jdownloader2-15.0.0...jdownloader2-15.0.1) (2024-02-03)
 
 ### Chore

@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [webp-server-4.1.13](https://github.com/truecharts/charts/compare/webp-server-4.1.12...webp-server-4.1.13) (2024-02-12)
 
 ### Chore

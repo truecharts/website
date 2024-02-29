@@ -15,6 +15,7 @@ title: Changelog
 
 
 
+
 ## [baserow-11.1.17](https://github.com/truecharts/charts/compare/baserow-11.1.16...baserow-11.1.17) (2024-02-05)
 
 ### Chore

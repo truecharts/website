@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [airsonic-advanced-12.1.12](https://github.com/truecharts/charts/compare/airsonic-advanced-12.1.11...airsonic-advanced-12.1.12) (2024-02-03)
 
 ### Chore

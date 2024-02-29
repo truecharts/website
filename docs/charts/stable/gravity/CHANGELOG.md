@@ -11,6 +11,7 @@ title: Changelog
 
 
 
+
 ## [gravity-2.2.6](https://github.com/truecharts/charts/compare/gravity-2.2.5...gravity-2.2.6) (2024-02-03)
 
 ### Chore

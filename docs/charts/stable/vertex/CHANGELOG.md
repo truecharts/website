@@ -22,6 +22,7 @@ title: Changelog
 
 
 
+
 ## [vertex-4.1.14](https://github.com/truecharts/charts/compare/vertex-4.1.13...vertex-4.1.14) (2024-02-05)
 
 ### Chore

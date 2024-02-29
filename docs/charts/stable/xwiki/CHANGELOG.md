@@ -13,6 +13,7 @@ title: Changelog
 
 
 
+
 ## [xwiki-11.0.0](https://github.com/truecharts/charts/compare/xwiki-10.1.18...xwiki-11.0.0) (2024-02-05)
 
 ### Chore
