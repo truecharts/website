@@ -31,7 +31,7 @@ jobs:
       - name: Cache docusaurus cache
         if: github.event_name != 'pull_request'
         id: cache-ds
-        uses: actions/cache@13aacd865c20de90d75de3b17ebe84f7a17d57d2 # v4
+        uses: actions/cache@ab5e6d0c87105b4c9c2047343972218f562e4319 # v4
         with:
           path: |
             node_modules/.cache
@@ -45,7 +45,7 @@ jobs:
             ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json', '**/npm-shrinkwrap.json', '**/yarn.lock', '**/pnpm-lock.yaml)') }}
             ${{ runner.os }}-docusaurus-
             
-      - uses: actions/cache/restore@13aacd865c20de90d75de3b17ebe84f7a17d57d2 # v4
+      - uses: actions/cache/restore@ab5e6d0c87105b4c9c2047343972218f562e4319 # v4
         if: github.event_name == 'pull_request'
         name: Read docusaurus cache
         id: cache-ds-read
