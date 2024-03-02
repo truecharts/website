@@ -14,27 +14,29 @@ Our adviced ingress controller would be Traefik.
 
 ## How-To setup
 
-To setup ingress add the following section to the values.yaml manually and adapt where needed:
+To setup ingress add the following minimal section to the values.yaml manually, update the required rows, and adapt where needed:
 
 ```
 ingress:
   main:
     enabled: true
     hosts:
-      -  host: chart-example.local
-          paths:
-            - path: /
-              pathType: Prefix
-              overrideService:
-                name: main
-                port: 80
+      - host: chart-example.local #Edit Required
+        paths:
+          - path: /
+            pathType: Prefix
+            overrideService:
+              name: main
+              port: 80 #Edit Required
     tls:
       - hosts:
-         - chart-example.local
-        secretName: chart-example-tls
+          - chart-example.local #Edit Required
+    integrations:
+      traefik:
+        enabled: true
 ```
 
-This can be expanded by adding "integrations" with cert-manager and/or homepage, for example:
+This can be expanded by adding "integrations" with cert-manager, traefik, and/or homepage, for example:
 
 ```
 ingress:
@@ -70,6 +72,19 @@ ingress:
           customkv:
             - key: some key
               value: some value
+      traefik:
+        enabled: true
+        entrypoints:
+          - websecure
+        enableFixedMiddlewares: true
+        forceTLS: true
+        allowCors: false
+        fixedMiddlewares:
+          - name: chain-basic
+            namespace: ""
+        middlewares:
+          - name: my-middleware
+            namespace: ""
 ```
 
 In somecases an ingress might already been partly defined.
