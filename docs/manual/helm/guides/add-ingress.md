@@ -43,16 +43,16 @@ ingress:
   main:
     enabled: true
     hosts:
-      -  host: chart-example.local
-          paths:
-            - path: /
-              pathType: Prefix
-              overrideService:
-                name: main
-                port: 80
+      - host: chart-example.local
+        paths:
+          - path: /
+            pathType: Prefix
+            overrideService:
+              name: main
+              port: 80
     tls:
       - hosts:
-         - chart-example.local
+          - chart-example.local
         secretName: chart-example-tls
     integrations:
       certManager:
