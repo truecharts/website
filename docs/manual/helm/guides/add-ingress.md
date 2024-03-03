@@ -14,43 +14,30 @@ Our adviced ingress controller would be Traefik.
 
 ## How-To setup
 
-To setup ingress add the following section to the values.yaml manually and adapt where needed:
+To setup ingress add the following minimal section to the values.yaml manually, update the required rows, and adapt where needed:
 
 ```
 ingress:
   main:
     enabled: true
     hosts:
-      -  host: chart-example.local
-          paths:
-            - path: /
-              pathType: Prefix
-              overrideService:
-                name: main
-                port: 80
+      - host: chart-example.local
     tls:
       - hosts:
          - chart-example.local
-        secretName: chart-example-tls
 ```
 
-This can be expanded by adding "integrations" with cert-manager and/or homepage, for example:
+This can be expanded by adding "integrations" with cert-manager, and/or homepage, for example:
 
 ```
 ingress:
   main:
     enabled: true
     hosts:
-      -  host: chart-example.local
-          paths:
-            - path: /
-              pathType: Prefix
-              overrideService:
-                name: main
-                port: 80
+      - host: chart-example.local
     tls:
       - hosts:
-         - chart-example.local
+          - chart-example.local
         secretName: chart-example-tls
     integrations:
       certManager:
