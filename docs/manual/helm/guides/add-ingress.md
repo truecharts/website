@@ -21,22 +21,13 @@ ingress:
   main:
     enabled: true
     hosts:
-      - host: chart-example.local #Edit Required
-        paths:
-          - path: /
-            pathType: Prefix
-            overrideService:
-              name: main
-              port: 80 #Edit Required
+      - host: chart-example.local
     tls:
       - hosts:
-          - chart-example.local #Edit Required
-    integrations:
-      traefik:
-        enabled: true
+         - chart-example.local
 ```
 
-This can be expanded by adding "integrations" with cert-manager, traefik, and/or homepage, for example:
+This can be expanded by adding "integrations" with cert-manager, and/or homepage, for example:
 
 ```
 ingress:
@@ -44,12 +35,6 @@ ingress:
     enabled: true
     hosts:
       - host: chart-example.local
-        paths:
-          - path: /
-            pathType: Prefix
-            overrideService:
-              name: main
-              port: 80
     tls:
       - hosts:
           - chart-example.local
@@ -72,19 +57,6 @@ ingress:
           customkv:
             - key: some key
               value: some value
-      traefik:
-        enabled: true
-        entrypoints:
-          - websecure
-        enableFixedMiddlewares: true
-        forceTLS: true
-        allowCors: false
-        fixedMiddlewares:
-          - name: chain-basic
-            namespace: ""
-        middlewares:
-          - name: my-middleware
-            namespace: ""
 ```
 
 In somecases an ingress might already been partly defined.
