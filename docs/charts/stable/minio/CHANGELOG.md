@@ -13,6 +13,7 @@ title: Changelog
 
 
 
+
 ## [minio-10.1.1](https://github.com/truecharts/charts/compare/minio-10.1.0...minio-10.1.1) (2024-02-12)
 
 ### Chore
