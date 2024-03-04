@@ -13,6 +13,7 @@ title: Changelog
 
 
 
+
 ## [flaresolverr-12.1.12](https://github.com/truecharts/charts/compare/flaresolverr-12.1.11...flaresolverr-12.1.12) (2024-02-03)
 
 ### Chore
