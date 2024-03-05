@@ -2,7 +2,7 @@
 title: beets
 ---
 
-![Version: 11.2.1](https://img.shields.io/badge/Version-11.2.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.0](https://img.shields.io/badge/AppVersion-1.6.0-informational?style=flat-square)
+![Version: 11.2.3](https://img.shields.io/badge/Version-11.2.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.0](https://img.shields.io/badge/AppVersion-1.6.0-informational?style=flat-square)
 
 A music library manager and not, for the most part, a music player.
 

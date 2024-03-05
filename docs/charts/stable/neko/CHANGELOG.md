@@ -4,6 +4,17 @@ title: Changelog
 
 
 
+## [neko-5.2.12](https://github.com/truecharts/charts/compare/neko-5.2.10...neko-5.2.12) (2024-03-05)
+
+### Chore
+
+
+
+- force rereleases
+
+- update container image common to v18.1.6[@904d84b](https://github.com/904d84b) by renovate ([#18835](https://github.com/truecharts/charts/issues/18835))
+
+
 
 
 

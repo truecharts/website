@@ -2,7 +2,7 @@
 title: cloudflareddns
 ---
 
-![Version: 9.2.1](https://img.shields.io/badge/Version-9.2.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 9.2.3](https://img.shields.io/badge/Version-9.2.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Automate Cloudflare DNS records for those with a dynamic IP.
 
