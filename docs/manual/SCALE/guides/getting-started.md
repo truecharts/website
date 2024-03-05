@@ -48,6 +48,18 @@ Please free to check out our [Introduction to TrueNAS SCALE](https://truecharts.
 
 :::
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9270569596814796"
+     data-ad-slot="1707785957"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Getting started using Charts with your own Domain
 
 - Steps Above -> [Minimal Getting Started with SCALE](/manual/SCALE/guides/getting-started#minimal-getting-started-setup-with-scale)
@@ -105,6 +117,19 @@ An optional but extra function enabled by Traefik and supported by many Truechar
 ![Cert-Manager](img/icons/cert-manager.png)
 
 TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to) before adding `Ingress` to your applications.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9270569596814796"
+     data-ad-slot="1707785957"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Blocky DNS provider for split-DNS installation and guide
 
