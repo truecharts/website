@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [slash-4.2.3](https://github.com/truecharts/charts/compare/slash-4.2.2...slash-4.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [slash-4.2.2](https://github.com/truecharts/charts/compare/slash-4.2.0...slash-4.2.2) (2024-03-05)
 
 ### Chore

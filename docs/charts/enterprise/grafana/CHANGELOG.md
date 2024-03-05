@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [grafana-14.2.3](https://github.com/truecharts/charts/compare/grafana-14.2.2...grafana-14.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [grafana-14.2.2](https://github.com/truecharts/charts/compare/grafana-14.2.0...grafana-14.2.2) (2024-03-05)
 
 ### Chore

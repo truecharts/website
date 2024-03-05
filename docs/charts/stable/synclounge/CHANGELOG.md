@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [synclounge-9.2.5](https://github.com/truecharts/charts/compare/synclounge-9.2.4...synclounge-9.2.5) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [synclounge-9.2.4](https://github.com/truecharts/charts/compare/synclounge-9.2.2...synclounge-9.2.4) (2024-03-05)
 
 ### Chore

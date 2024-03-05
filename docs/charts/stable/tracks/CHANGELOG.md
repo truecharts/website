@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [tracks-5.2.3](https://github.com/truecharts/charts/compare/tracks-5.2.2...tracks-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [tracks-5.2.2](https://github.com/truecharts/charts/compare/tracks-5.2.0...tracks-5.2.2) (2024-03-05)
 
 ### Chore

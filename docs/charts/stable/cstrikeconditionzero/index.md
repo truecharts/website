@@ -2,7 +2,7 @@
 title: cstrikeconditionzero
 ---
 
-![Version: 5.2.2](https://img.shields.io/badge/Version-5.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: cstrikeczero](https://img.shields.io/badge/AppVersion-cstrikeczero-informational?style=flat-square)
+![Version: 5.2.3](https://img.shields.io/badge/Version-5.2.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: cstrikeczero](https://img.shields.io/badge/AppVersion-cstrikeczero-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Counter-Strike Condition Zero and run it.
 

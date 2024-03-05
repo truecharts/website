@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nano-wallet-9.2.3](https://github.com/truecharts/charts/compare/nano-wallet-9.2.2...nano-wallet-9.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [nano-wallet-9.2.2](https://github.com/truecharts/charts/compare/nano-wallet-9.2.0...nano-wallet-9.2.2) (2024-03-05)
 
 ### Chore

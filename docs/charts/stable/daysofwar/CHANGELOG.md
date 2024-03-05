@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [daysofwar-5.2.3](https://github.com/truecharts/charts/compare/daysofwar-5.2.2...daysofwar-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [daysofwar-5.2.2](https://github.com/truecharts/charts/compare/daysofwar-5.2.0...daysofwar-5.2.2) (2024-03-05)
 
 ### Chore

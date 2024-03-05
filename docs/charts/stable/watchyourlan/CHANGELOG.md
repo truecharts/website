@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [watchyourlan-8.2.3](https://github.com/truecharts/charts/compare/watchyourlan-8.2.2...watchyourlan-8.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [watchyourlan-8.2.2](https://github.com/truecharts/charts/compare/watchyourlan-8.2.0...watchyourlan-8.2.2) (2024-03-05)
 
 ### Chore

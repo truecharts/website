@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [twonky-server-5.2.4](https://github.com/truecharts/charts/compare/twonky-server-5.2.3...twonky-server-5.2.4) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [twonky-server-5.2.3](https://github.com/truecharts/charts/compare/twonky-server-5.2.1...twonky-server-5.2.3) (2024-03-05)
 
 ### Chore

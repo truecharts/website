@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [xen-orchestra-8.3.3](https://github.com/truecharts/charts/compare/xen-orchestra-8.3.2...xen-orchestra-8.3.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [xen-orchestra-8.3.2](https://github.com/truecharts/charts/compare/xen-orchestra-8.3.0...xen-orchestra-8.3.2) (2024-03-05)
 
 ### Chore

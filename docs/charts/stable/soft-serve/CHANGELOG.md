@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [soft-serve-6.2.3](https://github.com/truecharts/charts/compare/soft-serve-6.2.2...soft-serve-6.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [soft-serve-6.2.2](https://github.com/truecharts/charts/compare/soft-serve-6.2.0...soft-serve-6.2.2) (2024-03-05)
 
 ### Chore

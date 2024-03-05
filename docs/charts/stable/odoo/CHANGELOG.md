@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [odoo-17.2.4](https://github.com/truecharts/charts/compare/odoo-17.2.3...odoo-17.2.4) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [odoo-17.2.3](https://github.com/truecharts/charts/compare/odoo-17.2.1...odoo-17.2.3) (2024-03-05)
 
 ### Chore

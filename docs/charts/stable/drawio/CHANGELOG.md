@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [drawio-11.0.3](https://github.com/truecharts/charts/compare/drawio-11.0.2...drawio-11.0.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [drawio-11.0.2](https://github.com/truecharts/charts/compare/drawio-11.0.0...drawio-11.0.2) (2024-03-05)
 
 ### Chore

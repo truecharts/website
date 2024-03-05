@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [czkawka-9.2.3](https://github.com/truecharts/charts/compare/czkawka-9.2.2...czkawka-9.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [czkawka-9.2.2](https://github.com/truecharts/charts/compare/czkawka-9.2.0...czkawka-9.2.2) (2024-03-05)
 
 ### Chore

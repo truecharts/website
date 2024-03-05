@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [trilium-notes-12.3.3](https://github.com/truecharts/charts/compare/trilium-notes-12.3.2...trilium-notes-12.3.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [trilium-notes-12.3.2](https://github.com/truecharts/charts/compare/trilium-notes-12.3.0...trilium-notes-12.3.2) (2024-03-05)
 
 ### Chore

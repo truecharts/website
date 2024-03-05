@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [kiwix-serve-8.2.3](https://github.com/truecharts/charts/compare/kiwix-serve-8.2.2...kiwix-serve-8.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [kiwix-serve-8.2.2](https://github.com/truecharts/charts/compare/kiwix-serve-8.2.0...kiwix-serve-8.2.2) (2024-03-05)
 
 ### Chore

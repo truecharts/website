@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [beets-11.2.4](https://github.com/truecharts/charts/compare/beets-11.2.3...beets-11.2.4) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [beets-11.2.3](https://github.com/truecharts/charts/compare/beets-11.2.1...beets-11.2.3) (2024-03-05)
 
 ### Chore

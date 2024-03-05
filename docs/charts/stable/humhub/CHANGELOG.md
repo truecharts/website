@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [humhub-7.6.3](https://github.com/truecharts/charts/compare/humhub-7.6.2...humhub-7.6.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [humhub-7.6.2](https://github.com/truecharts/charts/compare/humhub-7.6.0...humhub-7.6.2) (2024-03-05)
 
 ### Chore

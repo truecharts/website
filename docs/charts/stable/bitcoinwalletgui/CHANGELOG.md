@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [bitcoinwalletgui-5.2.3](https://github.com/truecharts/charts/compare/bitcoinwalletgui-5.2.2...bitcoinwalletgui-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [bitcoinwalletgui-5.2.2](https://github.com/truecharts/charts/compare/bitcoinwalletgui-5.2.0...bitcoinwalletgui-5.2.2) (2024-03-05)
 
 ### Chore

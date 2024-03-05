@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [neko-5.2.13](https://github.com/truecharts/charts/compare/neko-5.2.12...neko-5.2.13) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [neko-5.2.12](https://github.com/truecharts/charts/compare/neko-5.2.10...neko-5.2.12) (2024-03-05)
 
 ### Chore

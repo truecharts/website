@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [clipplex-3.2.3](https://github.com/truecharts/charts/compare/clipplex-3.2.2...clipplex-3.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [clipplex-3.2.2](https://github.com/truecharts/charts/compare/clipplex-3.2.0...clipplex-3.2.2) (2024-03-05)
 
 ### Chore

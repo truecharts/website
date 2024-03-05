@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [portainer-8.2.3](https://github.com/truecharts/charts/compare/portainer-8.2.2...portainer-8.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [portainer-8.2.2](https://github.com/truecharts/charts/compare/portainer-8.2.0...portainer-8.2.2) (2024-03-05)
 
 ### Chore

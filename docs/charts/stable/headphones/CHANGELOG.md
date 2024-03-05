@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [headphones-11.2.3](https://github.com/truecharts/charts/compare/headphones-11.2.2...headphones-11.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [headphones-11.2.2](https://github.com/truecharts/charts/compare/headphones-11.2.0...headphones-11.2.2) (2024-03-05)
 
 ### Chore

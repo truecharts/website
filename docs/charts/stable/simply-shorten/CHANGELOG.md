@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [simply-shorten-8.2.3](https://github.com/truecharts/charts/compare/simply-shorten-8.2.2...simply-shorten-8.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [simply-shorten-8.2.2](https://github.com/truecharts/charts/compare/simply-shorten-8.2.0...simply-shorten-8.2.2) (2024-03-05)
 
 ### Chore

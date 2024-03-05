@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [blog-11.2.3](https://github.com/truecharts/charts/compare/blog-11.2.2...blog-11.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [blog-11.2.2](https://github.com/truecharts/charts/compare/blog-11.2.0...blog-11.2.2) (2024-03-05)
 
 ### Chore

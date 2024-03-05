@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [traefik-forward-auth-3.2.3](https://github.com/truecharts/charts/compare/traefik-forward-auth-3.2.2...traefik-forward-auth-3.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [traefik-forward-auth-3.2.2](https://github.com/truecharts/charts/compare/traefik-forward-auth-3.2.0...traefik-forward-auth-3.2.2) (2024-03-05)
 
 ### Chore

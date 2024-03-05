@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [notifiarr-4.2.3](https://github.com/truecharts/charts/compare/notifiarr-4.2.2...notifiarr-4.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [notifiarr-4.2.2](https://github.com/truecharts/charts/compare/notifiarr-4.2.0...notifiarr-4.2.2) (2024-03-05)
 
 ### Chore

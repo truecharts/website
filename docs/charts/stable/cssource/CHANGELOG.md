@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [cssource-5.2.3](https://github.com/truecharts/charts/compare/cssource-5.2.2...cssource-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [cssource-5.2.2](https://github.com/truecharts/charts/compare/cssource-5.2.0...cssource-5.2.2) (2024-03-05)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [barcodebuddy-5.2.3](https://github.com/truecharts/charts/compare/barcodebuddy-5.2.2...barcodebuddy-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [barcodebuddy-5.2.2](https://github.com/truecharts/charts/compare/barcodebuddy-5.2.0...barcodebuddy-5.2.2) (2024-03-05)
 
 ### Chore

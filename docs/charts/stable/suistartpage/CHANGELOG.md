@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [suistartpage-5.2.3](https://github.com/truecharts/charts/compare/suistartpage-5.2.2...suistartpage-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [suistartpage-5.2.2](https://github.com/truecharts/charts/compare/suistartpage-5.2.0...suistartpage-5.2.2) (2024-03-05)
 
 ### Chore

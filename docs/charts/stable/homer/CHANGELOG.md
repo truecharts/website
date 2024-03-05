@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [homer-9.2.3](https://github.com/truecharts/charts/compare/homer-9.2.2...homer-9.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [homer-9.2.2](https://github.com/truecharts/charts/compare/homer-9.2.0...homer-9.2.2) (2024-03-05)
 
 ### Chore

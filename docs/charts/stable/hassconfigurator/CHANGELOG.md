@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [hassconfigurator-5.2.3](https://github.com/truecharts/charts/compare/hassconfigurator-5.2.2...hassconfigurator-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [hassconfigurator-5.2.2](https://github.com/truecharts/charts/compare/hassconfigurator-5.2.0...hassconfigurator-5.2.2) (2024-03-05)
 
 ### Chore

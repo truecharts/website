@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [proxmox-backup-server-3.2.3](https://github.com/truecharts/charts/compare/proxmox-backup-server-3.2.2...proxmox-backup-server-3.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [proxmox-backup-server-3.2.2](https://github.com/truecharts/charts/compare/proxmox-backup-server-3.2.0...proxmox-backup-server-3.2.2) (2024-03-05)
 
 ### Chore

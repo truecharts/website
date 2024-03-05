@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [impostor-server-8.2.3](https://github.com/truecharts/charts/compare/impostor-server-8.2.2...impostor-server-8.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [impostor-server-8.2.2](https://github.com/truecharts/charts/compare/impostor-server-8.2.0...impostor-server-8.2.2) (2024-03-05)
 
 ### Chore

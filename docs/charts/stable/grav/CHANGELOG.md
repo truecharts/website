@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [grav-11.2.4](https://github.com/truecharts/charts/compare/grav-11.2.3...grav-11.2.4) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [grav-11.2.3](https://github.com/truecharts/charts/compare/grav-11.2.1...grav-11.2.3) (2024-03-05)
 
 ### Chore

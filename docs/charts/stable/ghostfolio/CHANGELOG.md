@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [ghostfolio-4.4.3](https://github.com/truecharts/charts/compare/ghostfolio-4.4.2...ghostfolio-4.4.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [ghostfolio-4.4.2](https://github.com/truecharts/charts/compare/ghostfolio-4.4.0...ghostfolio-4.4.2) (2024-03-05)
 
 ### Chore

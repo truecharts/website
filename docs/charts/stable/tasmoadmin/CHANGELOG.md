@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [tasmoadmin-8.2.3](https://github.com/truecharts/charts/compare/tasmoadmin-8.2.2...tasmoadmin-8.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [tasmoadmin-8.2.2](https://github.com/truecharts/charts/compare/tasmoadmin-8.2.0...tasmoadmin-8.2.2) (2024-03-05)
 
 ### Chore

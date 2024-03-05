@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [minio-11.3.3](https://github.com/truecharts/charts/compare/minio-11.3.2...minio-11.3.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [minio-11.3.2](https://github.com/truecharts/charts/compare/minio-11.3.0...minio-11.3.2) (2024-03-05)
 
 ### Chore

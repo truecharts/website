@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [wekan-14.4.3](https://github.com/truecharts/charts/compare/wekan-14.4.2...wekan-14.4.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [wekan-14.4.2](https://github.com/truecharts/charts/compare/wekan-14.4.0...wekan-14.4.2) (2024-03-05)
 
 ### Chore

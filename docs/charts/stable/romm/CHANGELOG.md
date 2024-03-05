@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [romm-7.6.3](https://github.com/truecharts/charts/compare/romm-7.6.2...romm-7.6.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [romm-7.6.2](https://github.com/truecharts/charts/compare/romm-7.6.0...romm-7.6.2) (2024-03-05)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [deemix-10.2.3](https://github.com/truecharts/charts/compare/deemix-10.2.2...deemix-10.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [deemix-10.2.2](https://github.com/truecharts/charts/compare/deemix-10.2.0...deemix-10.2.2) (2024-03-05)
 
 ### Chore

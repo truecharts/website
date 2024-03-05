@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [shapeshifter-obfuscator-5.2.3](https://github.com/truecharts/charts/compare/shapeshifter-obfuscator-5.2.2...shapeshifter-obfuscator-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [shapeshifter-obfuscator-5.2.2](https://github.com/truecharts/charts/compare/shapeshifter-obfuscator-5.2.0...shapeshifter-obfuscator-5.2.2) (2024-03-05)
 
 ### Chore

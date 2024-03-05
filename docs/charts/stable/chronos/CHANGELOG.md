@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [chronos-8.2.3](https://github.com/truecharts/charts/compare/chronos-8.2.2...chronos-8.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [chronos-8.2.2](https://github.com/truecharts/charts/compare/chronos-8.2.0...chronos-8.2.2) (2024-03-05)
 
 ### Chore

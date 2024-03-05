@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [muse-5.3.3](https://github.com/truecharts/charts/compare/muse-5.3.2...muse-5.3.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [muse-5.3.2](https://github.com/truecharts/charts/compare/muse-5.3.0...muse-5.3.2) (2024-03-05)
 
 ### Chore

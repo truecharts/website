@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [kanboard-16.2.3](https://github.com/truecharts/charts/compare/kanboard-16.2.2...kanboard-16.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [kanboard-16.2.2](https://github.com/truecharts/charts/compare/kanboard-16.2.0...kanboard-16.2.2) (2024-03-05)
 
 ### Chore

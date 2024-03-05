@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [speedtest-exporter-10.3.4](https://github.com/truecharts/charts/compare/speedtest-exporter-10.3.3...speedtest-exporter-10.3.4) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [speedtest-exporter-10.3.3](https://github.com/truecharts/charts/compare/speedtest-exporter-10.3.1...speedtest-exporter-10.3.3) (2024-03-05)
 
 ### Chore

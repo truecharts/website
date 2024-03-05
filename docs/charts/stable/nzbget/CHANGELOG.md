@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nzbget-20.2.3](https://github.com/truecharts/charts/compare/nzbget-20.2.2...nzbget-20.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [nzbget-20.2.2](https://github.com/truecharts/charts/compare/nzbget-20.2.0...nzbget-20.2.2) (2024-03-05)
 
 ### Chore

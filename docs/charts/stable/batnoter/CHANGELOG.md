@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [batnoter-5.2.3](https://github.com/truecharts/charts/compare/batnoter-5.2.2...batnoter-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [batnoter-5.2.2](https://github.com/truecharts/charts/compare/batnoter-5.2.0...batnoter-5.2.2) (2024-03-05)
 
 ### Chore

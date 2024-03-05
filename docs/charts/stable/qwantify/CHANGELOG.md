@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [qwantify-3.2.3](https://github.com/truecharts/charts/compare/qwantify-3.2.2...qwantify-3.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [qwantify-3.2.2](https://github.com/truecharts/charts/compare/qwantify-3.2.0...qwantify-3.2.2) (2024-03-05)
 
 ### Chore

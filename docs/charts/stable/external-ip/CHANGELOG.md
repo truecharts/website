@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [external-ip-5.2.3](https://github.com/truecharts/charts/compare/external-ip-5.2.2...external-ip-5.2.3) (2024-03-05)
+
+### Chore
+
+
+
+- bump everything to force helm release again
+
+
 ## [external-ip-5.2.2](https://github.com/truecharts/charts/compare/external-ip-5.2.0...external-ip-5.2.2) (2024-03-05)
 
 ### Chore
