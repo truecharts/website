@@ -2,7 +2,7 @@
 title: docker
 ---
 
-![Version: 5.2.4](https://img.shields.io/badge/Version-5.2.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.0.3](https://img.shields.io/badge/AppVersion-25.0.3-informational?style=flat-square)
+![Version: 5.3.0](https://img.shields.io/badge/Version-5.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 25.0.3](https://img.shields.io/badge/AppVersion-25.0.3-informational?style=flat-square)
 
 Dedicated App for using Docker-in-Docker
 

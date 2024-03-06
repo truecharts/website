@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [plex-17.3.0](https://github.com/truecharts/charts/compare/plex-17.2.4...plex-17.3.0) (2024-03-06)
+
+### Chore
+
+
+
+- update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
+
+
 ## [plex-17.2.4](https://github.com/truecharts/charts/compare/plex-17.2.3...plex-17.2.4) (2024-03-05)
 
 ### Chore

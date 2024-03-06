@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [drawio-11.1.0](https://github.com/truecharts/charts/compare/drawio-11.0.3...drawio-11.1.0) (2024-03-06)
+
+### Chore
+
+
+
+- update container image common to v18.2.0[@9e8b7d4](https://github.com/9e8b7d4) by renovate ([#18943](https://github.com/truecharts/charts/issues/18943))
+
+
 ## [drawio-11.0.3](https://github.com/truecharts/charts/compare/drawio-11.0.2...drawio-11.0.3) (2024-03-05)
 
 ### Chore
