@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [freshrss-18.4.0](https://github.com/truecharts/charts/compare/freshrss-18.3.0...freshrss-18.4.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [freshrss-18.3.0](https://github.com/truecharts/charts/compare/freshrss-18.2.4...freshrss-18.3.0) (2024-03-06)
 
 ### Chore

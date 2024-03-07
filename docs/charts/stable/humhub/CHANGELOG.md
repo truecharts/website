@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [humhub-7.8.0](https://github.com/truecharts/charts/compare/humhub-7.7.0...humhub-7.8.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [humhub-7.7.0](https://github.com/truecharts/charts/compare/humhub-7.6.3...humhub-7.7.0) (2024-03-06)
 
 ### Chore

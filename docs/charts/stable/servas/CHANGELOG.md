@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [servas-4.6.0](https://github.com/truecharts/charts/compare/servas-4.5.0...servas-4.6.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [servas-4.5.0](https://github.com/truecharts/charts/compare/servas-4.4.3...servas-4.5.0) (2024-03-06)
 
 ### Chore

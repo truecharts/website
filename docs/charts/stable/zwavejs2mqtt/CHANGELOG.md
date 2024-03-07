@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [zwavejs2mqtt-19.4.0](https://github.com/truecharts/charts/compare/zwavejs2mqtt-19.3.0...zwavejs2mqtt-19.4.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [zwavejs2mqtt-19.3.0](https://github.com/truecharts/charts/compare/zwavejs2mqtt-19.2.4...zwavejs2mqtt-19.3.0) (2024-03-06)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [blocky-14.2.0](https://github.com/truecharts/charts/compare/blocky-14.1.1...blocky-14.2.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [blocky-14.1.1](https://github.com/truecharts/charts/compare/blocky-14.1.0...blocky-14.1.1) (2024-03-06)
 
 

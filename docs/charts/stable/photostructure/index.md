@@ -2,7 +2,7 @@
 title: photostructure
 ---
 
-![Version: 7.3.0](https://img.shields.io/badge/Version-7.3.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.12.0](https://img.shields.io/badge/AppVersion-2023.12.0-informational?style=flat-square)
+![Version: 7.4.0](https://img.shields.io/badge/Version-7.4.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2023.12.0](https://img.shields.io/badge/AppVersion-2023.12.0-informational?style=flat-square)
 
 PhotoStructure is your new home for all your photos and videos.
 

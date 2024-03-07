@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [retrobot-8.4.0](https://github.com/truecharts/charts/compare/retrobot-8.3.0...retrobot-8.4.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [retrobot-8.3.0](https://github.com/truecharts/charts/compare/retrobot-8.2.3...retrobot-8.3.0) (2024-03-06)
 
 ### Chore

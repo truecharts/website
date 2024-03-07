@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [traefik-26.6.0](https://github.com/truecharts/charts/compare/traefik-26.5.0...traefik-26.6.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [traefik-26.5.0](https://github.com/truecharts/charts/compare/traefik-26.4.15...traefik-26.5.0) (2024-03-06)
 
 ### Chore

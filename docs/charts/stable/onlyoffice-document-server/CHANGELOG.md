@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [onlyoffice-document-server-17.4.0](https://github.com/truecharts/charts/compare/onlyoffice-document-server-17.3.0...onlyoffice-document-server-17.4.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [onlyoffice-document-server-17.3.0](https://github.com/truecharts/charts/compare/onlyoffice-document-server-17.2.3...onlyoffice-document-server-17.3.0) (2024-03-06)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [sickgear-11.4.0](https://github.com/truecharts/charts/compare/sickgear-11.3.0...sickgear-11.4.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [sickgear-11.3.0](https://github.com/truecharts/charts/compare/sickgear-11.2.3...sickgear-11.3.0) (2024-03-06)
 
 ### Chore

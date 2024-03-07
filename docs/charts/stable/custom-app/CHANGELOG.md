@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [custom-app-12.4.0](https://github.com/truecharts/charts/compare/custom-app-12.3.0...custom-app-12.4.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [custom-app-12.3.0](https://github.com/truecharts/charts/compare/custom-app-12.2.3...custom-app-12.3.0) (2024-03-06)
 
 ### Chore

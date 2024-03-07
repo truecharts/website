@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [cops-8.5.0](https://github.com/truecharts/charts/compare/cops-8.4.0...cops-8.5.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [cops-8.4.0](https://github.com/truecharts/charts/compare/cops-8.3.4...cops-8.4.0) (2024-03-06)
 
 ### Chore

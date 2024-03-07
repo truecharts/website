@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [glauth-5.4.0](https://github.com/truecharts/charts/compare/glauth-5.3.0...glauth-5.4.0) (2024-03-07)
+
+### Chore
+
+
+
+- update container image common to v19.0.0[@eef2062](https://github.com/eef2062) by renovate ([#18956](https://github.com/truecharts/charts/issues/18956))
+
+
 ## [glauth-5.3.0](https://github.com/truecharts/charts/compare/glauth-5.2.3...glauth-5.3.0) (2024-03-06)
 
 ### Chore
