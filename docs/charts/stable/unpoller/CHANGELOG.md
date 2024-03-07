@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [unpoller-10.5.1](https://github.com/truecharts/charts/compare/unpoller-10.5.0...unpoller-10.5.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [unpoller-10.5.0](https://github.com/truecharts/charts/compare/unpoller-10.4.0...unpoller-10.5.0) (2024-03-07)
 
 ### Chore

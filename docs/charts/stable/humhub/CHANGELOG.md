@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [humhub-7.8.1](https://github.com/truecharts/charts/compare/humhub-7.8.0...humhub-7.8.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [humhub-7.8.0](https://github.com/truecharts/charts/compare/humhub-7.7.0...humhub-7.8.0) (2024-03-07)
 
 ### Chore

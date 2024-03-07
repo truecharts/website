@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [couchpotato-9.4.1](https://github.com/truecharts/charts/compare/couchpotato-9.4.0...couchpotato-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [couchpotato-9.4.0](https://github.com/truecharts/charts/compare/couchpotato-9.3.0...couchpotato-9.4.0) (2024-03-07)
 
 ### Chore

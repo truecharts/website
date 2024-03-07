@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [bazarr-19.2.1](https://github.com/truecharts/charts/compare/bazarr-19.2.0...bazarr-19.2.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [bazarr-19.2.0](https://github.com/truecharts/charts/compare/bazarr-19.1.0...bazarr-19.2.0) (2024-03-07)
 
 ### Chore

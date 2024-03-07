@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [storj-node-9.4.1](https://github.com/truecharts/charts/compare/storj-node-9.4.0...storj-node-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [storj-node-9.4.0](https://github.com/truecharts/charts/compare/storj-node-9.3.0...storj-node-9.4.0) (2024-03-07)
 
 ### Chore

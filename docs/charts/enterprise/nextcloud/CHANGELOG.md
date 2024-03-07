@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nextcloud-29.4.1](https://github.com/truecharts/charts/compare/nextcloud-29.4.0...nextcloud-29.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [nextcloud-29.4.0](https://github.com/truecharts/charts/compare/nextcloud-29.3.0...nextcloud-29.4.0) (2024-03-07)
 
 ### Chore

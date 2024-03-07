@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [webp-server-5.4.1](https://github.com/truecharts/charts/compare/webp-server-5.4.0...webp-server-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [webp-server-5.4.0](https://github.com/truecharts/charts/compare/webp-server-5.3.0...webp-server-5.4.0) (2024-03-07)
 
 ### Chore

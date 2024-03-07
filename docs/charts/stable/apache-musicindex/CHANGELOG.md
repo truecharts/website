@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [apache-musicindex-11.4.1](https://github.com/truecharts/charts/compare/apache-musicindex-11.4.0...apache-musicindex-11.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [apache-musicindex-11.4.0](https://github.com/truecharts/charts/compare/apache-musicindex-11.3.0...apache-musicindex-11.4.0) (2024-03-07)
 
 ### Chore

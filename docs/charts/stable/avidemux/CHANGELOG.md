@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [avidemux-9.4.1](https://github.com/truecharts/charts/compare/avidemux-9.4.0...avidemux-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [avidemux-9.4.0](https://github.com/truecharts/charts/compare/avidemux-9.3.0...avidemux-9.4.0) (2024-03-07)
 
 ### Chore

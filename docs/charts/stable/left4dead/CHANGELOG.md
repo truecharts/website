@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [left4dead-5.4.1](https://github.com/truecharts/charts/compare/left4dead-5.4.0...left4dead-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [left4dead-5.4.0](https://github.com/truecharts/charts/compare/left4dead-5.3.0...left4dead-5.4.0) (2024-03-07)
 
 ### Chore

@@ -2,7 +2,7 @@
 title: actualserver
 ---
 
-![Version: 10.5.0](https://img.shields.io/badge/Version-10.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.3.0](https://img.shields.io/badge/AppVersion-24.3.0-informational?style=flat-square)
+![Version: 10.5.1](https://img.shields.io/badge/Version-10.5.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.3.0](https://img.shields.io/badge/AppVersion-24.3.0-informational?style=flat-square)
 
 Actual is a super fast privacy-focused app for managing your finances.
 

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [linkwarden-4.4.1](https://github.com/truecharts/charts/compare/linkwarden-4.4.0...linkwarden-4.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [linkwarden-4.4.0](https://github.com/truecharts/charts/compare/linkwarden-4.3.0...linkwarden-4.4.0) (2024-03-07)
 
 ### Chore

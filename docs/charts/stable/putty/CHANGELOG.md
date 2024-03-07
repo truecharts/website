@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [putty-9.4.1](https://github.com/truecharts/charts/compare/putty-9.4.0...putty-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [putty-9.4.0](https://github.com/truecharts/charts/compare/putty-9.3.0...putty-9.4.0) (2024-03-07)
 
 ### Chore

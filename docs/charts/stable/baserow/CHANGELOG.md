@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [baserow-12.4.1](https://github.com/truecharts/charts/compare/baserow-12.4.0...baserow-12.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [baserow-12.4.0](https://github.com/truecharts/charts/compare/baserow-12.3.0...baserow-12.4.0) (2024-03-07)
 
 ### Chore

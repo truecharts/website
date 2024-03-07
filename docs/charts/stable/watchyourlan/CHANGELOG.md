@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [watchyourlan-8.4.1](https://github.com/truecharts/charts/compare/watchyourlan-8.4.0...watchyourlan-8.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [watchyourlan-8.4.0](https://github.com/truecharts/charts/compare/watchyourlan-8.3.0...watchyourlan-8.4.0) (2024-03-07)
 
 ### Chore

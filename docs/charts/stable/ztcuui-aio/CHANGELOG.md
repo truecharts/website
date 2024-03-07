@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [ztcuui-aio-8.4.1](https://github.com/truecharts/charts/compare/ztcuui-aio-8.4.0...ztcuui-aio-8.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [ztcuui-aio-8.4.0](https://github.com/truecharts/charts/compare/ztcuui-aio-8.3.0...ztcuui-aio-8.4.0) (2024-03-07)
 
 ### Chore

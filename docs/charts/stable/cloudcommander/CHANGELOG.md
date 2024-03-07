@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [cloudcommander-5.4.1](https://github.com/truecharts/charts/compare/cloudcommander-5.4.0...cloudcommander-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [cloudcommander-5.4.0](https://github.com/truecharts/charts/compare/cloudcommander-5.3.0...cloudcommander-5.4.0) (2024-03-07)
 
 ### Chore

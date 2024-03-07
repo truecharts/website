@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [sickgear-11.4.1](https://github.com/truecharts/charts/compare/sickgear-11.4.0...sickgear-11.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [sickgear-11.4.0](https://github.com/truecharts/charts/compare/sickgear-11.3.0...sickgear-11.4.0) (2024-03-07)
 
 ### Chore

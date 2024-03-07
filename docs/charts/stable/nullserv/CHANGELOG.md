@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [nullserv-13.4.1](https://github.com/truecharts/charts/compare/nullserv-13.4.0...nullserv-13.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [nullserv-13.4.0](https://github.com/truecharts/charts/compare/nullserv-13.3.0...nullserv-13.4.0) (2024-03-07)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [mysql-workbench-9.4.1](https://github.com/truecharts/charts/compare/mysql-workbench-9.4.0...mysql-workbench-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [mysql-workbench-9.4.0](https://github.com/truecharts/charts/compare/mysql-workbench-9.3.0...mysql-workbench-9.4.0) (2024-03-07)
 
 ### Chore

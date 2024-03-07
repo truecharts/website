@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [whisper-asr-webservice-4.4.1](https://github.com/truecharts/charts/compare/whisper-asr-webservice-4.4.0...whisper-asr-webservice-4.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [whisper-asr-webservice-4.4.0](https://github.com/truecharts/charts/compare/whisper-asr-webservice-4.3.0...whisper-asr-webservice-4.4.0) (2024-03-07)
 
 ### Chore

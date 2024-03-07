@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [baikal-5.4.1](https://github.com/truecharts/charts/compare/baikal-5.4.0...baikal-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [baikal-5.4.0](https://github.com/truecharts/charts/compare/baikal-5.3.0...baikal-5.4.0) (2024-03-07)
 
 ### Chore

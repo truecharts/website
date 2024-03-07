@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [mosquitto-14.4.1](https://github.com/truecharts/charts/compare/mosquitto-14.4.0...mosquitto-14.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [mosquitto-14.4.0](https://github.com/truecharts/charts/compare/mosquitto-14.3.0...mosquitto-14.4.0) (2024-03-07)
 
 ### Chore

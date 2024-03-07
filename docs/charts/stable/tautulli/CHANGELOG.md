@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [tautulli-18.4.1](https://github.com/truecharts/charts/compare/tautulli-18.4.0...tautulli-18.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [tautulli-18.4.0](https://github.com/truecharts/charts/compare/tautulli-18.3.0...tautulli-18.4.0) (2024-03-07)
 
 ### Chore

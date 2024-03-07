@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [metube-12.4.1](https://github.com/truecharts/charts/compare/metube-12.4.0...metube-12.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [metube-12.4.0](https://github.com/truecharts/charts/compare/metube-12.3.0...metube-12.4.0) (2024-03-07)
 
 ### Chore

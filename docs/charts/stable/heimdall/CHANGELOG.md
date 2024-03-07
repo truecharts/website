@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [heimdall-20.4.1](https://github.com/truecharts/charts/compare/heimdall-20.4.0...heimdall-20.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [heimdall-20.4.0](https://github.com/truecharts/charts/compare/heimdall-20.3.0...heimdall-20.4.0) (2024-03-07)
 
 ### Chore

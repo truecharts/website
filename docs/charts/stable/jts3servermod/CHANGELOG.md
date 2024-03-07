@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [jts3servermod-1.2.1](https://github.com/truecharts/charts/compare/jts3servermod-1.2.0...jts3servermod-1.2.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [jts3servermod-1.2.0](https://github.com/truecharts/charts/compare/jts3servermod-1.1.0...jts3servermod-1.2.0) (2024-03-07)
 
 ### Chore

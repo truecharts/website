@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [requestrr-10.4.1](https://github.com/truecharts/charts/compare/requestrr-10.4.0...requestrr-10.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [requestrr-10.4.0](https://github.com/truecharts/charts/compare/requestrr-10.3.0...requestrr-10.4.0) (2024-03-07)
 
 ### Chore

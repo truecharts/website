@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [apache-webdav-5.4.1](https://github.com/truecharts/charts/compare/apache-webdav-5.4.0...apache-webdav-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [apache-webdav-5.4.0](https://github.com/truecharts/charts/compare/apache-webdav-5.3.0...apache-webdav-5.4.0) (2024-03-07)
 
 ### Chore

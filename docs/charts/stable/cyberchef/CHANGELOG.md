@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [cyberchef-9.4.1](https://github.com/truecharts/charts/compare/cyberchef-9.4.0...cyberchef-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [cyberchef-9.4.0](https://github.com/truecharts/charts/compare/cyberchef-9.3.0...cyberchef-9.4.0) (2024-03-07)
 
 ### Chore

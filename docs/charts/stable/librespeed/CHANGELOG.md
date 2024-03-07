@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [librespeed-13.4.1](https://github.com/truecharts/charts/compare/librespeed-13.4.0...librespeed-13.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [librespeed-13.4.0](https://github.com/truecharts/charts/compare/librespeed-13.3.0...librespeed-13.4.0) (2024-03-07)
 
 ### Chore

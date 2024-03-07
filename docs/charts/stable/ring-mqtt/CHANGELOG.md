@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [ring-mqtt-8.4.1](https://github.com/truecharts/charts/compare/ring-mqtt-8.4.0...ring-mqtt-8.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [ring-mqtt-8.4.0](https://github.com/truecharts/charts/compare/ring-mqtt-8.3.0...ring-mqtt-8.4.0) (2024-03-07)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [plaxt-8.4.1](https://github.com/truecharts/charts/compare/plaxt-8.4.0...plaxt-8.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [plaxt-8.4.0](https://github.com/truecharts/charts/compare/plaxt-8.3.0...plaxt-8.4.0) (2024-03-07)
 
 ### Chore

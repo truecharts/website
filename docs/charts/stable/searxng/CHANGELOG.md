@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [searxng-7.4.1](https://github.com/truecharts/charts/compare/searxng-7.4.0...searxng-7.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [searxng-7.4.0](https://github.com/truecharts/charts/compare/searxng-7.3.0...searxng-7.4.0) (2024-03-07)
 
 ### Chore

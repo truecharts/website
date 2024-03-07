@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [crypto-exchanges-gateway-5.4.1](https://github.com/truecharts/charts/compare/crypto-exchanges-gateway-5.4.0...crypto-exchanges-gateway-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [crypto-exchanges-gateway-5.4.0](https://github.com/truecharts/charts/compare/crypto-exchanges-gateway-5.3.0...crypto-exchanges-gateway-5.4.0) (2024-03-07)
 
 ### Chore

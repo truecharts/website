@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [chivalry-medievalwarfare-5.4.1](https://github.com/truecharts/charts/compare/chivalry-medievalwarfare-5.4.0...chivalry-medievalwarfare-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [chivalry-medievalwarfare-5.4.0](https://github.com/truecharts/charts/compare/chivalry-medievalwarfare-5.3.0...chivalry-medievalwarfare-5.4.0) (2024-03-07)
 
 ### Chore

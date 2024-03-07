@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [automatic-music-downloader-9.4.1](https://github.com/truecharts/charts/compare/automatic-music-downloader-9.4.0...automatic-music-downloader-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [automatic-music-downloader-9.4.0](https://github.com/truecharts/charts/compare/automatic-music-downloader-9.3.0...automatic-music-downloader-9.4.0) (2024-03-07)
 
 ### Chore

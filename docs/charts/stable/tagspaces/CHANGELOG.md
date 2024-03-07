@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [tagspaces-3.4.1](https://github.com/truecharts/charts/compare/tagspaces-3.4.0...tagspaces-3.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [tagspaces-3.4.0](https://github.com/truecharts/charts/compare/tagspaces-3.3.0...tagspaces-3.4.0) (2024-03-07)
 
 ### Chore

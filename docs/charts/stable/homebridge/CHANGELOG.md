@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [homebridge-7.4.1](https://github.com/truecharts/charts/compare/homebridge-7.4.0...homebridge-7.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [homebridge-7.4.0](https://github.com/truecharts/charts/compare/homebridge-7.3.0...homebridge-7.4.0) (2024-03-07)
 
 ### Chore

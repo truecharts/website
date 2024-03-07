@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [gitea-18.7.1](https://github.com/truecharts/charts/compare/gitea-18.7.0...gitea-18.7.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [gitea-18.7.0](https://github.com/truecharts/charts/compare/gitea-18.6.0...gitea-18.7.0) (2024-03-07)
 
 ### Chore

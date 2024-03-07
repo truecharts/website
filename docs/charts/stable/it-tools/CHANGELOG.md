@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [it-tools-4.4.1](https://github.com/truecharts/charts/compare/it-tools-4.4.0...it-tools-4.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [it-tools-4.4.0](https://github.com/truecharts/charts/compare/it-tools-4.3.0...it-tools-4.4.0) (2024-03-07)
 
 ### Chore

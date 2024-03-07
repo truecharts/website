@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [dns-doh-companion-5.4.1](https://github.com/truecharts/charts/compare/dns-doh-companion-5.4.0...dns-doh-companion-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [dns-doh-companion-5.4.0](https://github.com/truecharts/charts/compare/dns-doh-companion-5.3.0...dns-doh-companion-5.4.0) (2024-03-07)
 
 ### Chore

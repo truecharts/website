@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [corekeeper-5.4.1](https://github.com/truecharts/charts/compare/corekeeper-5.4.0...corekeeper-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [corekeeper-5.4.0](https://github.com/truecharts/charts/compare/corekeeper-5.3.0...corekeeper-5.4.0) (2024-03-07)
 
 ### Chore

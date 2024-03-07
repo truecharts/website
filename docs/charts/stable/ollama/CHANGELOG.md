@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [ollama-4.0.1](https://github.com/truecharts/charts/compare/ollama-4.0.0...ollama-4.0.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [ollama-4.0.0](https://github.com/truecharts/charts/compare/ollama-3.1.5...ollama-4.0.0) (2024-03-07)
 
 ### Chore

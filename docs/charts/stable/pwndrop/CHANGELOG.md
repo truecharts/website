@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [pwndrop-9.4.1](https://github.com/truecharts/charts/compare/pwndrop-9.4.0...pwndrop-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [pwndrop-9.4.0](https://github.com/truecharts/charts/compare/pwndrop-9.3.0...pwndrop-9.4.0) (2024-03-07)
 
 ### Chore

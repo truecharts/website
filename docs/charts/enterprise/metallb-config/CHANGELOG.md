@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [metallb-config-6.4.1](https://github.com/truecharts/charts/compare/metallb-config-6.4.0...metallb-config-6.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [metallb-config-6.4.0](https://github.com/truecharts/charts/compare/metallb-config-6.3.0...metallb-config-6.4.0) (2024-03-07)
 
 ### Chore

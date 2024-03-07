@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [hassconfigurator-5.4.1](https://github.com/truecharts/charts/compare/hassconfigurator-5.4.0...hassconfigurator-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [hassconfigurator-5.4.0](https://github.com/truecharts/charts/compare/hassconfigurator-5.3.0...hassconfigurator-5.4.0) (2024-03-07)
 
 ### Chore

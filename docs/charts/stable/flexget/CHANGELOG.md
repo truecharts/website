@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [flexget-9.4.1](https://github.com/truecharts/charts/compare/flexget-9.4.0...flexget-9.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [flexget-9.4.0](https://github.com/truecharts/charts/compare/flexget-9.3.0...flexget-9.4.0) (2024-03-07)
 
 ### Chore

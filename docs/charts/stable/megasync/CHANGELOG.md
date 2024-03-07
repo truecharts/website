@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [megasync-6.4.1](https://github.com/truecharts/charts/compare/megasync-6.4.0...megasync-6.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [megasync-6.4.0](https://github.com/truecharts/charts/compare/megasync-6.3.0...megasync-6.4.0) (2024-03-07)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [twofauth-1.1.1](https://github.com/truecharts/charts/compare/twofauth-1.1.0...twofauth-1.1.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [twofauth-1.1.0](https://github.com/truecharts/charts/compare/twofauth-1.0.6...twofauth-1.1.0) (2024-03-07)
 
 ### Chore

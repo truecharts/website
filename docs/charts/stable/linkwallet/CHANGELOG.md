@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [linkwallet-5.4.1](https://github.com/truecharts/charts/compare/linkwallet-5.4.0...linkwallet-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [linkwallet-5.4.0](https://github.com/truecharts/charts/compare/linkwallet-5.3.0...linkwallet-5.4.0) (2024-03-07)
 
 ### Chore

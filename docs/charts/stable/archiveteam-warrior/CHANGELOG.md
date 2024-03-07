@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [archiveteam-warrior-5.4.1](https://github.com/truecharts/charts/compare/archiveteam-warrior-5.4.0...archiveteam-warrior-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [archiveteam-warrior-5.4.0](https://github.com/truecharts/charts/compare/archiveteam-warrior-5.3.0...archiveteam-warrior-5.4.0) (2024-03-07)
 
 ### Chore

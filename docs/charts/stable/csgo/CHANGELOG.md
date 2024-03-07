@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [csgo-5.4.1](https://github.com/truecharts/charts/compare/csgo-5.4.0...csgo-5.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [csgo-5.4.0](https://github.com/truecharts/charts/compare/csgo-5.3.0...csgo-5.4.0) (2024-03-07)
 
 ### Chore

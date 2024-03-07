@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [qbittorrent-19.4.1](https://github.com/truecharts/charts/compare/qbittorrent-19.4.0...qbittorrent-19.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [qbittorrent-19.4.0](https://github.com/truecharts/charts/compare/qbittorrent-19.3.0...qbittorrent-19.4.0) (2024-03-07)
 
 ### Chore

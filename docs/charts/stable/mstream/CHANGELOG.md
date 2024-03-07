@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [mstream-10.4.1](https://github.com/truecharts/charts/compare/mstream-10.4.0...mstream-10.4.1) (2024-03-07)
+
+### Chore
+
+
+
+- bump everything to trigger re-release
+
+
 ## [mstream-10.4.0](https://github.com/truecharts/charts/compare/mstream-10.3.0...mstream-10.4.0) (2024-03-07)
 
 ### Chore
