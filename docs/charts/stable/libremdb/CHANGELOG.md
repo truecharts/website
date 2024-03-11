@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [libremdb-7.5.0](https://github.com/truecharts/charts/compare/libremdb-7.4.5...libremdb-7.5.0) (2024-03-11)
+
+### Chore
+
+
+
+- update container image redis to v13.0.0[@eb8bd23](https://github.com/eb8bd23) by renovate ([#19146](https://github.com/truecharts/charts/issues/19146))
+
+
 ## [libremdb-7.4.5](https://github.com/truecharts/charts/compare/libremdb-7.4.4...libremdb-7.4.5) (2024-03-11)
 
 ### Chore

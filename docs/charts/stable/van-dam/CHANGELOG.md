@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [van-dam-4.5.0](https://github.com/truecharts/charts/compare/van-dam-4.4.1...van-dam-4.5.0) (2024-03-11)
+
+### Chore
+
+
+
+- update container image redis to v13.0.0[@eb8bd23](https://github.com/eb8bd23) by renovate ([#19146](https://github.com/truecharts/charts/issues/19146))
+
+
 ## [van-dam-4.4.1](https://github.com/truecharts/charts/compare/van-dam-4.4.0...van-dam-4.4.1) (2024-03-07)
 
 ### Chore

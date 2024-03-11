@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [humhub-7.9.0](https://github.com/truecharts/charts/compare/humhub-7.8.2...humhub-7.9.0) (2024-03-11)
+
+### Chore
+
+
+
+- update container image redis to v13.0.0[@eb8bd23](https://github.com/eb8bd23) by renovate ([#19146](https://github.com/truecharts/charts/issues/19146))
+
+
 ## [humhub-7.8.2](https://github.com/truecharts/charts/compare/humhub-7.8.1...humhub-7.8.2) (2024-03-11)
 
 ### Chore
