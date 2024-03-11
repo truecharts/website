@@ -2,7 +2,7 @@
 title: readarr
 ---
 
-![Version: 21.2.1](https://img.shields.io/badge/Version-21.2.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.3.18.2411](https://img.shields.io/badge/AppVersion-0.3.18.2411-informational?style=flat-square)
+![Version: 21.2.2](https://img.shields.io/badge/Version-21.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.3.19.2437](https://img.shields.io/badge/AppVersion-0.3.19.2437-informational?style=flat-square)
 
 A fork of Radarr to work with Books & AudioBooks
 
@@ -11,8 +11,8 @@ A fork of Radarr to work with Books & AudioBooks
 - https://readarr.com
 - https://github.com/Readarr/Readarr
 - https://github.com/truecharts/charts/tree/master/charts/stable/readarr
-- https://ghcr.io/onedr0p/readarr-develop
 - https://ghcr.io/onedr0p/exportarr
+- https://ghcr.io/onedr0p/readarr-develop
 
 ## Available Documentation
 
