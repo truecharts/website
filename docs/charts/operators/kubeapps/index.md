@@ -15,4 +15,3 @@ KubeApps is a Kubernetes-as-Apps solution
 
 ## Available Documentation
 
-- [**Changelog**](./CHANGELOG.md)
