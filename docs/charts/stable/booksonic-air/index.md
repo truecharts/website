@@ -2,7 +2,7 @@
 title: booksonic-air
 ---
 
-![Version: 13.4.1](https://img.shields.io/badge/Version-13.4.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2201.1.0](https://img.shields.io/badge/AppVersion-2201.1.0-informational?style=flat-square)
+![Version: 13.4.2](https://img.shields.io/badge/Version-13.4.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2201.1.0](https://img.shields.io/badge/AppVersion-2201.1.0-informational?style=flat-square)
 
 Booksonic is a platform for accessing the audibooks you own wherever you are
 
