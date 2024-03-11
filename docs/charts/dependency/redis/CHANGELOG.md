@@ -4,6 +4,9 @@ title: Changelog
 
 
 
+## [redis-13.0.0](https://github.com/truecharts/charts/compare/redis-12.4.1...redis-13.0.0) (2024-03-11)
+
+
 ## [redis-12.4.1](https://github.com/truecharts/charts/compare/redis-12.4.0...redis-12.4.1) (2024-03-07)
 
 ### Chore
