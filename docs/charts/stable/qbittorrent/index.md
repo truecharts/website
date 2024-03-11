@@ -2,7 +2,7 @@
 title: qbittorrent
 ---
 
-![Version: 19.4.1](https://img.shields.io/badge/Version-19.4.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.6.3](https://img.shields.io/badge/AppVersion-4.6.3-informational?style=flat-square)
+![Version: 19.5.0](https://img.shields.io/badge/Version-19.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.6.3](https://img.shields.io/badge/AppVersion-4.6.3-informational?style=flat-square)
 
 qBittorrent is a cross-platform free and open-source BitTorrent client
 
@@ -10,8 +10,8 @@ qBittorrent is a cross-platform free and open-source BitTorrent client
 
 - https://github.com/qbittorrent/qBittorrent
 - https://github.com/truecharts/charts/tree/master/charts/stable/qbittorrent
-- https://hub.docker.com/r/mjmeli/qbittorrent-port-forward-gluetun-server
 - https://ghcr.io/onedr0p/qbittorrent
+- https://hub.docker.com/r/mjmeli/qbittorrent-port-forward-gluetun-server
 
 ## Available Documentation
 

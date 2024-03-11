@@ -2,7 +2,7 @@
 title: shorturl
 ---
 
-![Version: 10.4.1](https://img.shields.io/badge/Version-10.4.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.0](https://img.shields.io/badge/AppVersion-0.1.0-informational?style=flat-square)
+![Version: 10.5.0](https://img.shields.io/badge/Version-10.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.0](https://img.shields.io/badge/AppVersion-0.1.0-informational?style=flat-square)
 
 Self hosted web app for shortening urls (URL shortener)
 

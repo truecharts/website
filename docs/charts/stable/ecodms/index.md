@@ -2,7 +2,7 @@
 title: ecodms
 ---
 
-![Version: 5.4.1](https://img.shields.io/badge/Version-5.4.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.5.0](https://img.shields.io/badge/Version-5.5.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 ecoDMS 18.09 (apu) Full Installation - Document Management System (DMS) - Audit-compliant archive for scanning, archiving, managing and retrieving all data and documents.
 
