@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [ollama-5.0.3](https://github.com/truecharts/charts/compare/ollama-5.0.2...ollama-5.0.3) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
+
+
 ## [ollama-5.0.2](https://github.com/truecharts/charts/compare/ollama-5.0.1...ollama-5.0.2) (2024-03-12)
 
 ### Chore

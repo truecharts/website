@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [jts3servermod-1.3.2](https://github.com/truecharts/charts/compare/jts3servermod-1.3.1...jts3servermod-1.3.2) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
+
+
 ## [jts3servermod-1.3.1](https://github.com/truecharts/charts/compare/jts3servermod-1.3.0...jts3servermod-1.3.1) (2024-03-12)
 
 ### Chore

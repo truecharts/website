@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [game-server-watcher-1.2.2](https://github.com/truecharts/charts/compare/game-server-watcher-1.2.1...game-server-watcher-1.2.2) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
+
+
 ## [game-server-watcher-1.2.1](https://github.com/truecharts/charts/compare/game-server-watcher-1.2.0...game-server-watcher-1.2.1) (2024-03-12)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [photoshow-10.5.2](https://github.com/truecharts/charts/compare/photoshow-10.5.1...photoshow-10.5.2) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.9[@caa8bac](https://github.com/caa8bac) by renovate ([#19179](https://github.com/truecharts/charts/issues/19179))
+
+
 ## [photoshow-10.5.1](https://github.com/truecharts/charts/compare/photoshow-10.5.0...photoshow-10.5.1) (2024-03-12)
 
 ### Chore
