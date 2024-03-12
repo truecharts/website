@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [observium-7.1.0](https://github.com/truecharts/charts/compare/observium-7.0.1...observium-7.1.0) (2024-03-12)
+
+### Chore
+
+
+
+- update container image mariadb to v13.5.0[@078f45a](https://github.com/078f45a) by renovate ([#19172](https://github.com/truecharts/charts/issues/19172))
+
+
 ## [observium-7.0.1](https://github.com/truecharts/charts/compare/observium-6.4.0...observium-7.0.1) (2024-03-11)
 
 ### Chore

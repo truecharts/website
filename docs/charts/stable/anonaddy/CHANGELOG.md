@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [anonaddy-20.10.0](https://github.com/truecharts/charts/compare/anonaddy-20.9.1...anonaddy-20.10.0) (2024-03-12)
+
+### Chore
+
+
+
+- update container image mariadb to v13.5.0[@078f45a](https://github.com/078f45a) by renovate ([#19172](https://github.com/truecharts/charts/issues/19172))
+
+
 ## [anonaddy-20.9.1](https://github.com/truecharts/charts/compare/anonaddy-20.9.0...anonaddy-20.9.1) (2024-03-12)
 
 ### Chore
