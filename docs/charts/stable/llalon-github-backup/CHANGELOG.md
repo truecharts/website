@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [llalon-github-backup-5.5.1](https://github.com/truecharts/charts/compare/llalon-github-backup-5.5.0...llalon-github-backup-5.5.1) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
+
+
 ## [llalon-github-backup-5.5.0](https://github.com/truecharts/charts/compare/llalon-github-backup-5.4.1...llalon-github-backup-5.5.0) (2024-03-11)
 
 ### Chore

@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [truenas-exporter-1.4.1](https://github.com/truecharts/charts/compare/truenas-exporter-1.4.0...truenas-exporter-1.4.1) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
+
+
 ## [truenas-exporter-1.4.0](https://github.com/truecharts/charts/compare/truenas-exporter-1.3.1...truenas-exporter-1.4.0) (2024-03-11)
 
 ### Chore

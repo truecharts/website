@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [romm-7.10.1](https://github.com/truecharts/charts/compare/romm-7.10.0...romm-7.10.1) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
+
+
 ## [romm-7.10.0](https://github.com/truecharts/charts/compare/romm-7.9.1...romm-7.10.0) (2024-03-12)
 
 ### Chore

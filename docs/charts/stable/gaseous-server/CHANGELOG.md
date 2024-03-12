@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [gaseous-server-1.4.1](https://github.com/truecharts/charts/compare/gaseous-server-1.4.0...gaseous-server-1.4.1) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
+
+
 ## [gaseous-server-1.4.0](https://github.com/truecharts/charts/compare/gaseous-server-1.3.0...gaseous-server-1.4.0) (2024-03-12)
 
 ### Chore

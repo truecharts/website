@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [webnut-8.5.1](https://github.com/truecharts/charts/compare/webnut-8.5.0...webnut-8.5.1) (2024-03-12)
+
+### Chore
+
+
+
+- update container image common to v20.0.8[@021a874](https://github.com/021a874) by renovate ([#19175](https://github.com/truecharts/charts/issues/19175))
+
+
 ## [webnut-8.5.0](https://github.com/truecharts/charts/compare/webnut-8.4.1...webnut-8.5.0) (2024-03-11)
 
 ### Chore
