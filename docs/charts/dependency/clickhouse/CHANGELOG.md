@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [clickhouse-12.6.3](https://github.com/truecharts/charts/compare/clickhouse-12.6.2...clickhouse-12.6.3) (2024-03-13)
+
+### Chore
+
+
+
+- add initial hooks to handle excluding common
+
+
 ## [clickhouse-12.6.2](https://github.com/truecharts/charts/compare/clickhouse-12.6.1...clickhouse-12.6.2) (2024-03-12)
 
 ### Chore
