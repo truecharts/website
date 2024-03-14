@@ -10,9 +10,9 @@ This is a pre-release guide, TrueNAS SCALE 24.04 DragonFish is explicitly **NOT*
 
 iX-Systems no longer maintains or supports any form of PVC-based storage for apps. This includes their own "legacy" storage backend. This means that when using the following SCALE features, you will lose some functionality:
 
-**SCALE Backup and Restore (unreleased feature through HeavyScript)**
+**SCALE Backup and Restore (unreleased feature available through HeavyScript)**
 
-*Will no longer back up storage at all.
+*Will no longer back up storage at all.*
 
 
 **SCALE Rollback**
@@ -25,7 +25,7 @@ iX-Systems no longer maintains or supports any form of PVC-based storage for app
 *You will no longer be able to migrate storage using the pool migration feature in SCALE.*
 
 
-The above issues exist both for our new in-house TrueCharts OpenEBS storage solution **and** for users using already installed apps using the legacy storage backend from iX-Systems.
+The above issues exist both for our new in-house TrueCharts OpenEBS storage solution **and** for users using already installed apps that use the legacy storage backend from iX-Systems.
 
 
 ## For existing Users and Apps
@@ -106,4 +106,4 @@ Future versions of TrueNAS SCALE **and** TrueCharts will remove support for lega
 
 ### Migrating to new storage
 
-We highly advise moving to the new storage backend for existing Apps as well. *At a later date we will update this with migration instructions as well*
+We highly advise moving to the new storage backend for existing Apps as well. *At a later date we will update this with migration instructions as well.*
