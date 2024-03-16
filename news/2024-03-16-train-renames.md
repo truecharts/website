@@ -26,6 +26,7 @@ You'll find both an automated script *and* a one-by-one version to deal with thi
 ## Experimental Support for TrueNAS SCALE 24.04 DragonFish
 
 In a bold move, we've added initial prototype support for TrueNAS SCALE 24.04 DragonFish. However, it's crucial to note that this support is still highly experimental. As such, we do not offer staff support or guarantee data integrity for the BETA or TC versions of TrueNAS SCALE 24.04 DragonFish.
+You can read more on the steps required for running TrueNAS SCALE 24.04 Dragonfish here: https://truecharts.org/manual/SCALE/guides/dragonfish-storage
 
 ## Our Successful Bounty Program
 
