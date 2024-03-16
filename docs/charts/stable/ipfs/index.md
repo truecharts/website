@@ -2,7 +2,7 @@
 title: ipfs
 ---
 
-![Version: 10.7.0](https://img.shields.io/badge/Version-10.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.27.0](https://img.shields.io/badge/AppVersion-0.27.0-informational?style=flat-square)
+![Version: 10.8.0](https://img.shields.io/badge/Version-10.8.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.27.0](https://img.shields.io/badge/AppVersion-0.27.0-informational?style=flat-square)
 
 IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.
 
