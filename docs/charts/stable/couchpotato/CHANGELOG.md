@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [couchpotato-9.6.0](https://github.com/truecharts/charts/compare/couchpotato-9.5.2...couchpotato-9.6.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+
+
 ## [couchpotato-9.5.2](https://github.com/truecharts/charts/compare/couchpotato-9.5.1...couchpotato-9.5.2) (2024-03-12)
 
 ### Chore

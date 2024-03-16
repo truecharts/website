@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [plex-playlist-sync-3.6.0](https://github.com/truecharts/charts/compare/plex-playlist-sync-3.5.2...plex-playlist-sync-3.6.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+
+
 ## [plex-playlist-sync-3.5.2](https://github.com/truecharts/charts/compare/plex-playlist-sync-3.5.1...plex-playlist-sync-3.5.2) (2024-03-12)
 
 ### Chore

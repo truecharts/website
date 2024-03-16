@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [firefox-12.2.0](https://github.com/truecharts/charts/compare/firefox-12.1.2...firefox-12.2.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+
+
 ## [firefox-12.1.2](https://github.com/truecharts/charts/compare/firefox-12.1.1...firefox-12.1.2) (2024-03-12)
 
 ### Chore

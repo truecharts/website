@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [fireshare-6.7.0](https://github.com/truecharts/charts/compare/fireshare-6.6.2...fireshare-6.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+
+
 ## [fireshare-6.6.2](https://github.com/truecharts/charts/compare/fireshare-6.6.1...fireshare-6.6.2) (2024-03-12)
 
 ### Chore

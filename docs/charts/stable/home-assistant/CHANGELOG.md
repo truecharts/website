@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [home-assistant-24.7.0](https://github.com/truecharts/charts/compare/home-assistant-24.6.2...home-assistant-24.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+
+
 ## [home-assistant-24.6.2](https://github.com/truecharts/charts/compare/home-assistant-24.6.1...home-assistant-24.6.2) (2024-03-12)
 
 ### Chore

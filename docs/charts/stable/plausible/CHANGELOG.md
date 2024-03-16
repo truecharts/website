@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [plausible-10.11.0](https://github.com/truecharts/charts/compare/plausible-10.10.3...plausible-10.11.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+
+
 ## [plausible-10.10.3](https://github.com/truecharts/charts/compare/plausible-10.10.2...plausible-10.10.3) (2024-03-13)
 
 ### Chore

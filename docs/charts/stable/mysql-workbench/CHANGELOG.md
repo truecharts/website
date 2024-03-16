@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [mysql-workbench-9.6.0](https://github.com/truecharts/charts/compare/mysql-workbench-9.5.2...mysql-workbench-9.6.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+
+
 ## [mysql-workbench-9.5.2](https://github.com/truecharts/charts/compare/mysql-workbench-9.5.1...mysql-workbench-9.5.2) (2024-03-12)
 
 ### Chore

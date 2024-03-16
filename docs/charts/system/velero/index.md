@@ -2,7 +2,7 @@
 title: velero
 ---
 
-![Version: 4.5.3](https://img.shields.io/badge/Version-4.5.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 4.6.0](https://img.shields.io/badge/Version-4.6.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Velero is a kubernetes-native backup solution
 

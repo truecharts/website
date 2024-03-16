@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [netbootxyz-4.6.0](https://github.com/truecharts/charts/compare/netbootxyz-4.5.2...netbootxyz-4.6.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.1.5[@dc867e0](https://github.com/dc867e0) by renovate ([#19210](https://github.com/truecharts/charts/issues/19210))
+
+
 ## [netbootxyz-4.5.2](https://github.com/truecharts/charts/compare/netbootxyz-4.5.1...netbootxyz-4.5.2) (2024-03-12)
 
 ### Chore
