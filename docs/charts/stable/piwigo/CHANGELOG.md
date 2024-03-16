@@ -4,6 +4,15 @@ title: Changelog
 
 
 
+## [piwigo-12.10.1](https://github.com/truecharts/charts/compare/piwigo-12.10.0...piwigo-12.10.1) (2024-03-16)
+
+### Chore
+
+
+
+- update container image mariadb to v13.5.4[@f572f3a](https://github.com/f572f3a) by renovate ([#19318](https://github.com/truecharts/charts/issues/19318))
+
+
 ## [piwigo-12.10.0](https://github.com/truecharts/charts/compare/piwigo-12.9.3...piwigo-12.10.0) (2024-03-16)
 
 ### Chore
