@@ -66,6 +66,6 @@ Please check the support policy of your specific platform to verify which versio
 
 ## Conclusion
 
-TrueCharts is a project dedicated to delivering high-quality Helm charts for Kubernetes applications. By focusing on native Helm features, avoiding platform-specific functionality, and leveraging existing containers, TrueCharts provides users with reliable, portable, and user-friendly solutions. The projects commitment to compatibility, maintainability, and engagement with the Kubernetes community ensures a robust and valuable resource for Kubernetes developers and operators.
+TrueCharts is a project dedicated to delivering high-quality Helm charts for Kubernetes applications. By focusing on native Helm features, avoiding platform-specific functionality, and leveraging existing containers, TrueCharts provides users with reliable, portable, and user-friendly solutions. The projects commitment to compatibility, maintainability, and engagement with the Kubernetes community ensures a robust and valuable resource for Kubernetes developers and system.
 
 For more information, please visit the TrueCharts website at https://truecharts.org or engage with the community through the provided communication channels.

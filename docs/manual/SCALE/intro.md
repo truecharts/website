@@ -5,7 +5,7 @@ sidebar_position: 1
 # Introduction
 
 SCALE Apps is a Helm-Charts-as-Apps tool.
-However, in contrast to more "enterprise-grade" solutions, like kubeapps, it's not build by Kubernets specialists and it does not offer complete freedom to deploy helm charts.
+However, in contrast to more "premium-grade" solutions, like kubeapps, it's not build by Kubernets specialists and it does not offer complete freedom to deploy helm charts.
 Nor can you manually edit Chart-Yaml files manually.
 
 This makes SCALE Apps a great tool for users running a TrueNAS SCALE NAS and running a few applications on it.

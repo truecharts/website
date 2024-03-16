@@ -8,7 +8,7 @@ It should not be relied uppon for production or as a primary backup method.
 ## Minio Setup
 
 Use the TrueNAS IXSystems Minio chart.
-These instructions are for the Minio chart from the `charts` train, not the `enterprise` train.
+These instructions are for the Minio chart from the `charts` train, not the `premium` train.
 In a later revision of this guide we will replace this with an external hosted s3 solution
 
 * Application Name

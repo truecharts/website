@@ -97,7 +97,7 @@ extraTpl:
 
 ## `operator`
 
-Contains specific settings for helm charts containing or using operators
+Contains specific settings for helm charts containing or using system
 
 |            |            |
 | ---------- | ---------- |
@@ -113,7 +113,7 @@ operator:
   register: false
   verify:
     enabled: true
-    additionalOperators: []
+    additionalsystem: []
 ```
 
 Example
@@ -123,7 +123,7 @@ operator:
   register: true
   verify:
     enabled: true
-    additionalOperators:
+    additionalsystem:
       - operator1
       - operator2
 ```
@@ -153,7 +153,7 @@ operator:
 
 ### `operator.verify`
 
-Contains specific settings for verifying operators
+Contains specific settings for verifying system
 
 |            |                   |
 | ---------- | ----------------- |
@@ -168,7 +168,7 @@ Default
 operator:
   verify:
     enabled: true
-    additionalOperators: []
+    additionalsystem: []
 ```
 
 Example
@@ -177,7 +177,7 @@ Example
 operator:
   verify:
     enabled: true
-    additionalOperators:
+    additionalsystem:
       - operator1
       - operator2
 ```
@@ -186,7 +186,7 @@ operator:
 
 #### `operator.verify.enabled`
 
-Enables or disables the verification of operators
+Enables or disables the verification of system
 
 |            |                           |
 | ---------- | ------------------------- |
@@ -206,13 +206,13 @@ operator:
 
 ---
 
-#### `operator.verify.additionalOperators`
+#### `operator.verify.additionalsystem`
 
-Additional operators to verify
+Additional system to verify
 
 |            |                                       |
 | ---------- | ------------------------------------- |
-| Key        | `operator.verify.additionalOperators` |
+| Key        | `operator.verify.additionalsystem` |
 | Type       | `list` of `string`                    |
 | Required   | ❌                                    |
 | Helm `tpl` | ❌                                    |
@@ -223,7 +223,7 @@ Example
 ```yaml
 operator:
   verify:
-    additionalOperators:
+    additionalsystem:
       - operator1
       - operator2
 ```
@@ -576,7 +576,7 @@ operator:
   register: false
   verify:
     enabled: true
-    additionalOperators:
+    additionalsystem:
       - operator1
       - operator2
 extraTpl:

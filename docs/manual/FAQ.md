@@ -174,7 +174,7 @@ Do **NOT** hit the Stop Button **_UNLESS_** you are certain the App does not use
 
 ### How Do I know if an App uses CNPG?
 
-Here's a list of Apps in the Stable and Enterprise trains that use CNPG (up to date as of 3rd May 2023):
+Here's a list of Apps in the Stable and premium trains that use CNPG (up to date as of 3rd May 2023):
 
 `airsonic-advanced`
 `authelia`
@@ -296,9 +296,9 @@ The application state in the web GUI will be `Started` since there is still a CN
 
 :::
 
-## Operators
+## system
 
-TrueCharts has always required operators for many charts to work. Prior to 01 July 2023 these operators were installed automatically and were not visible to the end user. TrueCharts now requires that these operators to be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [Operators TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old operators and can proceed with the installation from the operator train.
+TrueCharts has always required system for many charts to work. Prior to 01 July 2023 these system were installed automatically and were not visible to the end user. TrueCharts now requires that these system to be installed by the end user and the previous automatically installed system to be removed. These system are located on the [system TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old system and can proceed with the installation from the operator train.
 
 ### Prometheus-Operator
 
@@ -342,7 +342,7 @@ To remove the previous automatically installed operator run this in the system s
 
 ### Traefik
 
-This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [Enterprise TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts).
+This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [premium TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts).
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
      crossorigin="anonymous"></script>

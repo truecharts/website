@@ -62,14 +62,14 @@ Once you have completed updating your SCALE system to DragonFish, enter the foll
 Once you have completed the above steps, you need to install the `OpenEBS` app from the TrueCharts Operator train as below. This app contains our own version of PVC storage.
 
 - In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
-- Ensure you have `operators` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step
+- Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step
 
 ![Catalog Trains](img/Dragonfish-Storage5.png)
 
 
-- If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `operators` under the "Preferred Trains" dropdown list as below
+- If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
-![Operators List](img/Dragonfish-Storage5b.png)
+![system List](img/Dragonfish-Storage5b.png)
 
 It's important to set the `basePath` to the location you want to store the folders with the application data in them.
 

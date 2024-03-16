@@ -17,8 +17,8 @@ Currently the `Reverse Proxy` of choice for `TrueCharts` is `Traefik`. Enabling 
 - A working Internet connection that can reach github and truecharts.org from the host system.
 - A configured Apps pool, ensure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Adding TrueCharts to SCALE](/docs/manual/SCALE/guides/getting-started.md)
 - You've added the TrueCharts catalog from [Adding TrueCharts to SCALE](/docs/manual/SCALE/guides/getting-started.md)
-- clusterissuer is installed (**recommended** for new common Apps), see [Installing clusterissuer](/docs/charts/enterprise/clusterissuer/how-to.md)
-- Traefik is installed, see [Installing Traefik](/docs/charts/enterprise/traefik/how-to.md)
+- clusterissuer is installed (**recommended** for new common Apps), see [Installing clusterissuer](/docs/charts/premium/clusterissuer/how-to.md)
+- Traefik is installed, see [Installing Traefik](/docs/charts/premium/traefik/how-to.md)
 
 :::tip
 
@@ -66,7 +66,7 @@ To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager
 
 ### Advanced Settings
 
-- `Traefik Middlewares`: Any `Traefik` middlewares can be added here, see how to [Add Basic Auth to Apps](/docs/charts/enterprise/traefik/traefik-basicAuth-middleware.md) for an example of a Traefik middleware.
+- `Traefik Middlewares`: Any `Traefik` middlewares can be added here, see how to [Add Basic Auth to Apps](/docs/charts/premium/traefik/traefik-basicAuth-middleware.md) for an example of a Traefik middleware.
 
 - `Add Manual Custom Ingresses` (expert): Enables advanced custom Ingress settings that may be used by expert users.
 

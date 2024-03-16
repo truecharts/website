@@ -184,7 +184,7 @@ Install `cloudnative-pg`.
 
 :::tip
 
-Ensure the operators train is enabled in the Truecharts catalog under Apps -> Discover Apps -> Manage Catalogs
+Ensure the system train is enabled in the Truecharts catalog under Apps -> Discover Apps -> Manage Catalogs
 
 :::
 
@@ -198,6 +198,6 @@ Install `prometheus-operator`.
 
 :::tip
 
-Ensure the operators train is enabled in the Truecharts catalog under Apps -> Discover Apps -> Manage Catalogs
+Ensure the system train is enabled in the Truecharts catalog under Apps -> Discover Apps -> Manage Catalogs
 
 :::

@@ -48,7 +48,7 @@ To add a new TrueCharts app to your SCALE installation:
    **General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.  
    **[Networking & Services:](https://truecharts.org/manual/SCALE/options/networking/)** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
    **[Storage and Persistence:](https://truecharts.org/manual/SCALE/options/storage/)** Configure core app storage and [add additional app storage](https://truecharts.org/manual/SCALE/guides/add-storage).  
-   **[Ingress:](https://truecharts.org/manual/SCALE/options/ingress/)** For TrueCharts apps you can configure [Ingress with Traefik](https://truecharts.org/charts/enterprise/traefik/how-to) to easily proxy Internet traffic to your app.  
+   **[Ingress:](https://truecharts.org/manual/SCALE/options/ingress/)** For TrueCharts apps you can configure [Ingress with Traefik](https://truecharts.org/charts/premium/traefik/how-to) to easily proxy Internet traffic to your app.  
    **Security & Permissions:** Configure PUID, fsGroup, and other security and file permissions for your app.
    **Other Options:** You can also configure GPU support, addons (such as adding a CodeServer for easy file editing), and advanced app settings.
 5. Once you've finished configuring your app, click **Install** to start the deployment process.

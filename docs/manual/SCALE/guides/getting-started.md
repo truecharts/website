@@ -24,8 +24,8 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 
 ## Minimal Getting Started Setup with SCALE
 
-- Add catalog with the following trains: `stable`, `enterprise`, `operators` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
-- Install the following operators from the `operators` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager`
+- Add catalog with the following trains: `stable`, `premium`, `system` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
+- Install the following system from the `system` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager`
 
 ## Adding TrueCharts
 
@@ -38,7 +38,7 @@ To add TrueCharts to your SCALE installation:
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
     Name: `truecharts`
     Repository: `https://github.com/truecharts/catalog`
-    Preferred Trains: `enterprise`,`stable` and `operators` (type each one manually)
+    Preferred Trains: `premium`,`stable` and `system` (type each one manually)
     Branch: `main`
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
@@ -63,12 +63,12 @@ Please free to check out our [Introduction to TrueNAS SCALE](https://truecharts.
 ## Getting started using Charts with your own Domain
 
 - Steps Above -> [Minimal Getting Started with SCALE](/manual/SCALE/guides/getting-started#minimal-getting-started-setup-with-scale)
-- Move TrueNAS Port to 81,444 -> [TrueNAS WebUI Instructions](https://truecharts.org/charts/enterprise/traefik/how-to#truenas-webui)
-- Add Traefik -> [Traefik How-To](https://truecharts.org/charts/enterprise/traefik/how-to)
-- Use Cloudflare for DNS and create API token -> [Guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to#configure-acme-issuer)
-- Add ClusterIssuer -> [Clusterissuer How-to](https://truecharts.org/charts/enterprise/clusterissuer/how-to)
-- Add Blocky -> [Block Setup Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide)
-- Setup ingress on each Chart you want to expose ->[Configure Ingress using Clusterissuer certs](https://truecharts.org/charts/enterprise/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
+- Move TrueNAS Port to 81,444 -> [TrueNAS WebUI Instructions](https://truecharts.org/charts/premium/traefik/how-to#truenas-webui)
+- Add Traefik -> [Traefik How-To](https://truecharts.org/charts/premium/traefik/how-to)
+- Use Cloudflare for DNS and create API token -> [Guide](https://truecharts.org/charts/premium/clusterissuer/how-to#configure-acme-issuer)
+- Add ClusterIssuer -> [Clusterissuer How-to](https://truecharts.org/charts/premium/clusterissuer/how-to)
+- Add Blocky -> [Block Setup Guide](https://truecharts.org/charts/premium/blocky/setup-guide)
+- Setup ingress on each Chart you want to expose ->[Configure Ingress using Clusterissuer certs](https://truecharts.org/charts/premium/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
 
 ## Full TrueCharts Setup on TrueNAS SCALE
 
@@ -81,8 +81,8 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 - `stable` contains apps which have been thoroughly tested and expected to be stable and working. The `stable` version of an app is always the best available version.
 - `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch.
 - `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes.
-- `enterprise` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional use cases.
-- `operators` contains operators for certain apps and may be required for specific apps to function at all, recommended leaving this `enabled`
+- `premium` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional use cases.
+- `system` contains system for certain apps and may be required for specific apps to function at all, recommended leaving this `enabled`
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
@@ -94,13 +94,13 @@ Once you've added the TrueCharts catalog, we also recommend installing [Heavyscr
 
 ![metallb](img/icons/metallb.png)
 
-This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/enterprise/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
+This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
 
-## CNPG/Prometheus Operators installation
+## CNPG/Prometheus system installation
 
 ![CNPG](img/icons/cnpg.png) ![Prometheus](img/icons/prometheus-operator.png)
 
-Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` operators first before attempting to install apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [FAQ entry](https://truecharts.org/manual/FAQ#operators) on removing the old built-in operators
+Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` system first before attempting to install apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [FAQ entry](https://truecharts.org/manual/FAQ#system) on removing the old built-in system
 
 For new users just starting out with TrueNAS SCALE, you may simply install `cloudnative-pg` and `prometheus-operator` from the TrueCharts Community Catalog before continuing.
 
@@ -108,15 +108,15 @@ For new users just starting out with TrueNAS SCALE, you may simply install `clou
 
 ![Traefik](img/icons/traefik.png)
 
-`Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/enterprise/traefik/how-to) for basic instructions and a video as well.
+`Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/premium/traefik/how-to) for basic instructions and a video as well.
 
-An optional but extra function enabled by Traefik and supported by many Truecharts Community Catalog apps like `Nextcloud`, is the ability to use a `middleware` to use your apps remotely. You can setup a basicAuth middleware using our guide [Add Traefik Basic Auth to Apps](https://truecharts.org/charts/enterprise/traefik/traefik-basicAuth-middleware/).
+An optional but extra function enabled by Traefik and supported by many Truecharts Community Catalog apps like `Nextcloud`, is the ability to use a `middleware` to use your apps remotely. You can setup a basicAuth middleware using our guide [Add Traefik Basic Auth to Apps](https://truecharts.org/charts/premium/traefik/traefik-basicAuth-middleware/).
 
 ## Cert-Manager (operator) and Clusterissuer installation for certificate management
 
 ![Cert-Manager](img/icons/cert-manager.png)
 
-TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/enterprise/clusterissuer/how-to) before adding `Ingress` to your applications.
+TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/premium/clusterissuer/how-to) before adding `Ingress` to your applications.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
      crossorigin="anonymous"></script>
@@ -135,13 +135,13 @@ TrueCharts only supports the usage of `Cert-Manager` (both the operator portion 
 
 ![Blocky](img/icons/blocky.png)
 
-Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [BlockySetup-Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
+Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [BlockySetup-Guide](https://truecharts.org/charts/premium/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
 ## Authelia Installation
 
 ![Authelia](img/icons/authelia.png)
 
-Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/enterprise/authelia/Setup-Guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very strong password in your previous steps.
+Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/premium/authelia/Setup-Guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very strong password in your previous steps.
 
 ### Video Guide
 
