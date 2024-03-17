@@ -112,6 +112,15 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [podgrab-17.7.0](https://github.com/truecharts/charts/compare/podgrab-17.6.0...podgrab-17.7.0) (2024-03-16)
+
+### Chore
+
+
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [podgrab-17.6.0](https://github.com/truecharts/charts/compare/podgrab-17.5.2...podgrab-17.6.0) (2024-03-16)
 
 ### Chore
