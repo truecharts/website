@@ -8,13 +8,13 @@ Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE in
 
 ## Requirements
 
-- TrueCharts apps share computing resources with your system. Please review our [recommended system requirements](https://truecharts.org/manual/systemrequirements).
+- TrueCharts apps share computing resources with your system. Please review our [recommended system requirements](https://truecharts.org/manual/SCALE/systemrequirements/).
 - Your apps dataset needs to be large enough to store the containers, configuration files, snapshots, and other persistent volume (PVC) data. You can always configure [additional storage](https://truecharts.org/manual/SCALE/guides/add-storage) using HDD pools (e.g. downloads folder) for specific apps later.
 - Make sure your SCALE installation has a working storage pool that you'd like to use for TrueCharts. [Read more](https://www.truenas.com/docs/scale/scaletutorials/storage/) in the SCALE tutorial.
 - Make sure you have a working Internet connection and can reach `https://github.com`, `https://truecharts.org`, and `https://tccr.io` from the host system.
 - Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
 - You are signed into your TrueNAS SCALE WebUI as `root` or as a user that can execute commands with `root` permissions.
-- Your apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/) for your Apps.
+- Your apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/) for your Apps.
 
 :::info Quick start guides
 
@@ -25,22 +25,39 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 ## Minimal Getting Started Setup with SCALE
 
 - Add catalog with the following trains: `stable`, `premium`, `system` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
-- Install the following system from the `system` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager`
+- Install the following apps from the `system` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager`
 
 ## Adding TrueCharts
 
 To add TrueCharts to your SCALE installation:
 
 1.  Go to **Apps** page from the top level SCALE menu
+
+![Apps](img/Apps.png)
+
 2.  Click **Discover Apps** button on the Apps page
+
+![Discover Apps](img/Apps2.png)
+
 3.  Click **Manage Catalogs** link on the Discover Apps page
+
+![Manage Catalogs](img/Apps3.png)
+
 4.  Click **Add Catalog**
+
+![Add Catalog](img/Apps4.png)
+
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
     Name: `truecharts`
     Repository: `https://github.com/truecharts/catalog`
     Preferred Trains: `premium`,`stable` and `system` (type each one manually)
     Branch: `main`
+
+![Catalog Info](img/Apps5.png)
+
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
+
+Note: If you're having issues adding the Truecharts catalog to SCALE, you may need to check the "Force Create" button. This can sometimes occur on systems with slow internet connections or insufficient processing power.
 
 :::info Introduction to TrueNAS SCALE Guide
 
@@ -86,21 +103,21 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
-## Heavyscript
+## HeavyScript
 
-Once you've added the TrueCharts catalog, we also recommend installing [Heavyscript](https://github.com/Heavybullets8/heavy_script#how-to-install) and configuring it to run nightly with a [cron job](https://github.com/Heavybullets8/heavy_script#how-to-create-a-cron-job). It's a bash script for managing Truenas SCALE applications, automatically update applications, backup applications datasets, open a shell for containers, and many other features. Please visit the [Heavyscript GitHub Page](https://github.com/Heavybullets8/heavy_script) for more info.
+Once you've added the TrueCharts catalog, we also recommend installing [HeavyScript](https://github.com/Heavybullets8/heavy_script#how-to-install) and configuring it to run nightly with a [cron job](https://github.com/Heavybullets8/heavy_script#how-to-create-a-cron-job). HeavyScript is a bash script for managing TrueNAS SCALE applications, automatically updating those applications, backing up applications datasets, opening a shell for containers, and many other features. Please visit the [HeavyScript GitHub Page](https://github.com/Heavybullets8/heavy_script) for more info.
 
 ## MetalLB installation and disabling integrated LoadBalancer
 
 ![metallb](img/icons/metallb.png)
 
-This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info
+This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info.
 
 ## CNPG/Prometheus system installation
 
 ![CNPG](img/icons/cnpg.png) ![Prometheus](img/icons/prometheus-operator.png)
 
-Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` system first before attempting to install apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [FAQ entry](https://truecharts.org/manual/FAQ#system) on removing the old built-in system
+Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` system apps first before attempting to install any other apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [FAQ entry](https://truecharts.org/manual/FAQ#system) on removing the old built-in system
 
 For new users just starting out with TrueNAS SCALE, you may simply install `cloudnative-pg` and `prometheus-operator` from the TrueCharts Community Catalog before continuing.
 
@@ -116,7 +133,7 @@ An optional but extra function enabled by Traefik and supported by many Truechar
 
 ![Cert-Manager](img/icons/cert-manager.png)
 
-TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is `deprecated` and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/premium/clusterissuer/how-to) before adding `Ingress` to your applications.
+TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is deprecated and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/premium/clusterissuer/how-to) before adding `Ingress` to your applications.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
      crossorigin="anonymous"></script>
@@ -141,7 +158,7 @@ Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS pr
 
 ![Authelia](img/icons/authelia.png)
 
-Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the `preferred` solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up `Authelia`, along with `LLDAP` as a backend for `Authelia` and setting up the `forwardAuth` section of `Traefik` to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/premium/authelia/Setup-Guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very strong password in your previous steps.
+Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the preferred solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up Authelia, along with LLDAP as a backend for Authelia and setting up the `forwardAuth` section of Traefik to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/premium/authelia/Setup-Guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very strong password in your previous steps.
 
 ### Video Guide
 
