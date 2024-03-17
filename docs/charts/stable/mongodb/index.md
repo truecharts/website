@@ -10,7 +10,7 @@ Fast, reliable, scalable, and easy to use open-source no-sql database system.
 
 - https://www.mongodb.com
 - https://github.com/bitnami/bitnami-docker-mongodb
-- https://github.com/truecharts/charts/tree/master/charts/dependency/mongodb
+- https://github.com/truecharts/charts/tree/master/charts/stable/mongodb
 - https://hub.docker.com/r/bitnami/mongodb
 
 ## Available Documentation

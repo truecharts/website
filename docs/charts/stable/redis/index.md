@@ -9,7 +9,7 @@ Open source, advanced key-value store.
 ## Chart Sources
 
 - https://github.com/bitnami/bitnami-docker-redis
-- https://github.com/truecharts/charts/tree/master/charts/dependency/redis
+- https://github.com/truecharts/charts/tree/master/charts/stable/redis
 - https://hub.docker.com/r/bitnami/redis
 
 ## Available Documentation
