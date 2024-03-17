@@ -20,7 +20,7 @@ It's a good idea to familiarize yourself with the [Contribution Guidelines](http
 
 ### Create a Fork
 
-The first step to contributing is to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the TrueCharts repository. A fork is like your own copy of the repository that can be modified without affecting the original. You only need to do this once, as the fork can be re-used for all changes you wish to make.
+The first step to contributing is to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the TrueCharts repository. A fork is like your own copy of the repository that can be modified without affecting the original. You only need to do this once, as the fork can be re-used for all changes you wish to make.
 
 To create a fork, navigate to the [truecharts/charts repository](https://github.com/truecharts/charts/fork) and press the Fork button in the upper-right corner.
 

@@ -57,7 +57,7 @@ Technically, yes you can. But keep in mind this is out of our support scope.
 
 ## Do we support other proxies and Load Balancers in front of Traefik?
 
-Not supported for standard support channels. This includes cloudflare proxy.
+Not supported for standard support channels. This includes Cloudflare proxy.
 
 ## What is the meaning of Advanced/Expert Checkboxes (Networking, Storage, etc)?
 
@@ -75,11 +75,11 @@ please refer to the upstream container sources we list on the website instead.
 ## My Chart application has had an upstream update, but the chart is not updated yet?
 
 It takes a few days for our automation tools to pick up updates, please sit tight.
-Please only report missed updates when 7 days have passed after the new _container(!)_ has become available.
+Please only report missed updates via a [GitHub issue](https://github.com/truecharts/containers/issues/new/choose) when 7 days have passed after the new upstream_container(!)_ has become available.
 
 ## Isn't there more documentation for a chart?
 
-If it's not on our website or the discord, we (sadly) do not have documentation available.
+If it's not on our website or the Discord, we (sadly) do not have documentation available.
 There might be other sources for documentation however!
 If you'd like to create a guide for the website,
 please submit a PR as demonstrated in the [Contribution Example](https://truecharts.org/manual/development/contibuting-example/).
@@ -88,11 +88,11 @@ please submit a PR as demonstrated in the [Contribution Example](https://truecha
 
 There are two ways to do this:
 
-1. Submit an order for a chart request using the page on [Open Collective](https://opencollective.com/truecharts/contribute/order-a-chart-60271). More information can be found in the **#chart-requests** channel of our [discord](https://truecharts.org/s/discord) or by emailing orders@truecharts.org if you'd like to discuss further.
+1. Place a chart request bounty using the page on [Open Collective](https://opencollective.com/truecharts-bounties/contribute/request-chart-bounty-72004). Reach out to us on Discord or email orders@truecharts.org if you'd like to discuss further.
 
-2. Build the app yourself (or have someone you know build it for you) and request to have it added to the project via a github PR. You can check the **#development** channel of our [discord](https://truecharts.org/s/discord) and create a thread if you'd like information about this.
+2. Build the app yourself (or have someone build it for you) and request to have it added to the project via a Github PR. You can check the **#development** channel of our [Discord](https://truecharts.org/s/discord) and create a thread if you'd like information about this.
 
-The exception to the above are more complex Kubernetes ecosystem changes e.g. Kubernetes extensions, new metrics opens, databases, etc. You're still free to discuss these in the **#development** channel of our discord linked above.
+The exception to the above are more complex Kubernetes ecosystem changes e.g. Kubernetes extensions, new metrics opens, databases, etc. You're still free to discuss these in the **#development** channel of our Discord linked above.
 
 ## How do I know if there are Breaking Changes?
 
@@ -125,7 +125,7 @@ Take backups beforehand with [HeavyScript](https://github.com/Heavybullets8/heav
 
 ## Does HeavyScript auto-update major changes?
 
-It depends on the flags you used. We recommend **NOT** using the `-a` flag, as this will update to major version changes.
+It depends on the flags you used. We recommend **NOT** using the `-a` flag, as this will update to major version changes which may include breaking changes.
 
 ## Do you offer support for breaking changes?
 
@@ -174,7 +174,7 @@ Do **NOT** hit the Stop Button **_UNLESS_** you are certain the App does not use
 
 ### How Do I know if an App uses CNPG?
 
-Here's a list of Apps in the Stable and premium trains that use CNPG (up to date as of 3rd May 2023):
+Here's a list of Apps in the stable and premium trains that use CNPG (up to date as of 3rd May 2023):
 
 `airsonic-advanced`
 `authelia`
@@ -272,7 +272,7 @@ To recover from the App being in an unstable state enter this command in the She
 
 ### So, how do I stop an App that uses CNPG?
 
-**NEVER** use the Stop button!
+**NEVER** use the `Stop` button!
 
 Use option ii above or use the Heavyscript `args` branch
 
@@ -298,17 +298,17 @@ The application state in the web GUI will be `Started` since there is still a CN
 
 ## system
 
-TrueCharts has always required system for many charts to work. Prior to 01 July 2023 these system were installed automatically and were not visible to the end user. TrueCharts now requires that these system to be installed by the end user and the previous automatically installed system to be removed. These system are located on the [system TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old system and can proceed with the installation from the operator train.
+TrueCharts has always required system for many charts to work. Prior to 01 July 2023 these system prerequisites were installed automatically and were not visible to the end user. TrueCharts now requires that these system to be installed by the end user and the previous automatically installed system to be removed. These system are located on the [system TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old system prerequisites and can proceed with the installation from the operator train.
 
 ### Prometheus-Operator
 
-This operator is required for the use of Prometheus metrics and for any charts that utilize CloudNative Postgresql (CNPG).
+This operator is required for the use of Prometheus metrics and for any charts that utilize CloudNative PostgreSQL (CNPG).
 
 To remove the previous automatically installed operator run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete3`
 
 ### Cloudnative-PG
 
-This operator is required for the use of any charts that utilize CloudNative Postgresql (CNPG).
+This operator is required for the use of any charts that utilize CloudNative PostgreSQL (CNPG).
 
 :::warning DATA LOSS
 
