@@ -2,7 +2,7 @@
 title: minio-console
 ---
 
-![Version: 10.7.0](https://img.shields.io/badge/Version-10.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.30.0](https://img.shields.io/badge/AppVersion-0.30.0-informational?style=flat-square)
+![Version: 10.7.1](https://img.shields.io/badge/Version-10.7.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.30.0](https://img.shields.io/badge/AppVersion-0.30.0-informational?style=flat-square)
 
 A management console for minio server and operator
 

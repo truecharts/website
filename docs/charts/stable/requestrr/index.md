@@ -2,7 +2,7 @@
 title: requestrr
 ---
 
-![Version: 10.7.0](https://img.shields.io/badge/Version-10.7.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.6](https://img.shields.io/badge/AppVersion-2.1.6-informational?style=flat-square)
+![Version: 10.7.1](https://img.shields.io/badge/Version-10.7.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.6](https://img.shields.io/badge/AppVersion-2.1.6-informational?style=flat-square)
 
 Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.
 

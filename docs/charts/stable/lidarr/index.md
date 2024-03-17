@@ -2,7 +2,7 @@
 title: lidarr
 ---
 
-![Version: 21.5.2](https://img.shields.io/badge/Version-21.5.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.3.4098](https://img.shields.io/badge/AppVersion-2.2.3.4098-informational?style=flat-square)
+![Version: 21.5.3](https://img.shields.io/badge/Version-21.5.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.3.4098](https://img.shields.io/badge/AppVersion-2.2.3.4098-informational?style=flat-square)
 
 Looks and smells like Sonarr but made for music
 
