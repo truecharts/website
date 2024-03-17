@@ -15,12 +15,12 @@ Now that we're mostly done, we also need to report a few known issues with the n
 
 1. **DO NOT USE THE STOP BUTTON**
 
-The Stop button should **not** be used on any TrueNAS SCALE Apps that uses postgresql. It due to severe design mistakes by iXsystems, it will get into an endless loop and never finish. We're reported the issue to iXsystems and they are not interested in fixing this.
+The Stop button should **not** be used on any TrueNAS SCALE Apps that uses postgreSQL. Due to severe design mistakes by iXsystems, it will get into an endless loop and never finish. We're reported the issue to iXsystems and they are not interested in fixing this.
 
-2. Postgresql breaking on reboot
+2. PostgreSQL breaking on reboot
 
-We're seen some edgecases where the new database backend breaks after a reboot. Often after the STOP button was used, though we cannot trace the issue down back to the use of the stop button itself.
-These issues are reported to the folks over at CNPG and we've also thrown them an email to discuss weither we can fund them to fix these issues
+We've seen some edgecases where the new database backend breaks after a reboot. Often after the STOP button was used, though we cannot trace the issue down back to the use of the stop button itself.
+These issues are reported to the folks over at CNPG and we've also thrown them an email to discuss whether we can fund them to fix these issues.
 
 3. hostNetworking changes
 
@@ -45,5 +45,4 @@ At the same time we're going to work on ensuring all our SCALE specific tricks (
 To highlight this, we've asked Artifact hub, to highlight our Common-Library chart, as an "official" TrueCharts Helm chart.
 All users of helm should be able to use the power of this advanced common-library, to build the Helm Charts they please... Without even relying on TrueCharts to host their charts for them!
 
-Check it out here: https://artifacthub.io/packages/helm/truecharts-library-charts/common
-And also check out the docs as always: https://truecharts.org/manual/helm/common/
+Check it out [here](https://artifacthub.io/packages/helm/truecharts-library-charts/common) and also check out the [docs](https://truecharts.org/manual/helm/common/) as always.

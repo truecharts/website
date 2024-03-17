@@ -4,13 +4,13 @@ This guide will assist you in migrating to the new CNPG operator.
 
 ## Prerequisites
 
-1. Install PGAdmin form the TrueCharts Stable train.
+1. Install PGAdmin from the TrueCharts Stable train.
 
-2. Setup [tcdbinfo.sh script](https://truecharts.org/manual/SCALE/guides/sql-export#how-to-list-database-login-info-for-truecharts-apps)
+2. Setup the [tcdbinfo.sh script](https://truecharts.org/manual/SCALE/guides/sql-export#how-to-list-database-login-info-for-truecharts-apps)
 
-3. Add the Operator train to your TrueCharts Catalog
+3. Add the system train to your TrueCharts Catalog
 
-![cnpg-add-operator-train](./img/cnpg-add-operator-train.png)
+![cnpg-add-system-train](./img/Dragonfish-Storage5b.png)
 
 ## Acquire Database Credentials
 
@@ -56,7 +56,7 @@ k3s kubectl delete --grace-period 30 --v=4 -k https://github.com/truecharts/mani
 
 ## Install cloudnative-pg
 
-1. Install cloudnative-pg from the operator train, wait for it to go ACTIVE.
+1. Install cloudnative-pg from the system train, wait for it to go ACTIVE.
 
 ## Prepare CNPG Apps
 
