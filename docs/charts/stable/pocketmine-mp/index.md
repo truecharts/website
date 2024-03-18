@@ -10,7 +10,7 @@ A server software for Minecraft Bedrock Edition in PHP.
 
 - https://github.com/pmmp/PocketMine-MP
 - https://github.com/truecharts/charts/tree/master/charts/stable/pocketmine-mp
-- https://github.com/truecharts/containers/tree/master/apps/pocketmine-mp
+- https://ghcr.io/pmmp/pocketmine-mp
 
 ## Available Documentation
 
