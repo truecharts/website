@@ -12,11 +12,11 @@ A private cloud server that puts the control and security of your own data back 
 - https://github.com/nextcloud/helm
 - https://github.com/truecharts/charts/tree/master/charts/premium/nextcloud
 - https://github.com/truecharts/containers/tree/master/apps/nextcloud-push-notify
-- https://hub.docker.com/r/nginxinc/nginx-unprivileged
-- https://github.com/truecharts/containers/tree/master/apps/nextcloud-imaginary
 - https://hub.docker.com/r/collabora/code
-- https://github.com/truecharts/containers/tree/master/apps/nextcloud-fpm
+- https://github.com/truecharts/containers/tree/master/apps/nextcloud-imaginary
 - https://hub.docker.com/r/clamav/clamav
+- https://hub.docker.com/r/nginxinc/nginx-unprivileged
+- https://github.com/truecharts/containers/tree/master/apps/nextcloud-fpm
 
 ## Available Documentation
 
