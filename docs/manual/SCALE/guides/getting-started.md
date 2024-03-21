@@ -95,11 +95,11 @@ Please free to check out our [Introduction to TrueNAS SCALE](https://truecharts.
 
 TrueCharts has multiple "trains", or branches of apps which you can choose to install. Below is a summary of each train and its intended use.
 
-- `stable` contains apps which have been thoroughly tested and expected to be stable and working. The `stable` version of an app is always the best available version.
-- `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch.
-- `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes.
-- `premium` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional use cases.
-- `system` contains system for certain apps and may be required for specific apps to function at all, recommended leaving this `enabled`
+- `stable` contains apps which have been thoroughly tested and expected to be stable and working. The `stable` version of an app is always the best available version
+- `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch
+- `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes
+- `premium` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional use cases
+- `system` contains system for certain apps and may be required for specific apps to function at all, recommended leaving this `enabled`.
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
@@ -113,13 +113,17 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info.
 
-## CNPG/Prometheus system installation
+## Prometheus and CNPG system app installations
 
-![CNPG](img/icons/cnpg.png) ![Prometheus](img/icons/prometheus-operator.png)
+![Prometheus](img/icons/prometheus-operator.png) ![CNPG](img/icons/cnpg.png)
 
-Many of our popular apps for TrueNAS SCALE use CloudNativePG or CNPG for short and will require the `Cloudnative-PG Operator` and `Prometheus Operator` to be installed **PRIOR** to installing an app using CNPG. That's why if you are unsure if you're using any apps with CNPG we advise users to install the `cloudnative-pg`/`prometheus-operator` system apps first before attempting to install any other apps. If you are migrating from a different CNPG operator, please see the [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on installing the `cloudnative-pg` operator and migrating. As well, see this [FAQ entry](https://truecharts.org/manual/FAQ#system) on removing the old built-in system
+Many of the popular TrueCharts apps for TrueNAS SCALE rely on `Prometheus Operator` and `Cloudnative-PG Operator` to be installed **PRIOR** to installing another app that may rely on functionality these operators provide. If you're unsure if you're using any TrueCharts apps that require Prometheus or CNPG functionality, we advise you install these system apps first anyway before attempting to then install any other apps.
 
-For new users just starting out with TrueNAS SCALE, you may simply install `cloudnative-pg` and `prometheus-operator` from the TrueCharts Community Catalog before continuing.
+[Here](https://truecharts.org/manual/FAQ#how-do-i-know-if-an-app-uses-cnpg) is a list of apps that rely on CNPG functionality. If you intend to deploy any of these apps, you **must** install the `Cloudnative-PG Operator` app first as above.
+
+If you are migrating from a different CNPG operator, you can use our [CNPG Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) for steps on how to install the `Cloudnative-PG` operator and migrating to it. We also have [this](https://truecharts.org/manual/FAQ#operators) FAQ entry on removing the previous CNPG backend once migrated.
+
+For new users just starting out with TrueNAS SCALE, simply **first** install `Prometheus Operator` **followed by** `Cloudnative-PG Operator` from the TrueCharts Community Catalog before continuing.
 
 ## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
 

@@ -172,7 +172,7 @@ Do **NOT** hit the Stop Button **_UNLESS_** you are certain the App does not use
 
 :::
 
-### How Do I know if an App uses CNPG?
+### How do I know if an App uses CNPG?
 
 Here's a list of Apps in the stable and premium trains that use CNPG (up to date as of 3rd May 2023):
 
@@ -296,9 +296,9 @@ The application state in the web GUI will be `Started` since there is still a CN
 
 :::
 
-## system
+## Operators
 
-TrueCharts has always required system for many charts to work. Prior to 01 July 2023 these system prerequisites were installed automatically and were not visible to the end user. TrueCharts now requires that these system to be installed by the end user and the previous automatically installed system to be removed. These system are located on the [system TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old system prerequisites and can proceed with the installation from the operator train.
+TrueCharts has always required operators for many charts to work. Prior to 01 July 2023, these prerequisites were installed automatically and were not visible to the end user. TrueCharts now requires that these system be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [system TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old operator prerequisites installed and can proceed with the installation of the new ones from the operator train per our [Getting Started guide](https://truecharts.org/manual/SCALE/guides/getting-started#cnpgprometheus-system-installation).
 
 ### Prometheus-Operator
 
