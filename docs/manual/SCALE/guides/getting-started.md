@@ -25,21 +25,21 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 ## Minimal Getting Started Setup with SCALE
 
 - Add catalog with the following trains: `stable`, `premium`, `system` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
-- Install the following apps from the `system` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager`
+- Install the following apps from the `system` train with default settings: `Prometheus Operator` `Cloudnative-PG Operator` and `Cert-Manager`
 
 ## Adding TrueCharts
 
 To add TrueCharts to your SCALE installation:
 
-1.  Go to **Apps** page from the top level SCALE menu
+1.  Go to the **Apps** page from the top level SCALE menu
 
 ![Apps](img/Apps.png)
 
-2.  Click **Discover Apps** button on the Apps page
+2.  Click the **Discover Apps** button on the Apps page
 
 ![Discover Apps](img/Apps2.png)
 
-3.  Click **Manage Catalogs** link on the Discover Apps page
+3.  Click the **Manage Catalogs** link on the Discover Apps page
 
 ![Manage Catalogs](img/Apps3.png)
 
@@ -48,10 +48,10 @@ To add TrueCharts to your SCALE installation:
 ![Add Catalog](img/Apps4.png)
 
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
-    Name: `truecharts`
-    Repository: `https://github.com/truecharts/catalog`
-    Preferred Trains: `premium`,`stable` and `system` (type each one manually)
-    Branch: `main`
+- Name: `truecharts`
+- Repository: `https://github.com/truecharts/catalog`
+- Preferred Trains: `premium`,`stable` and `system` (type each one manually)
+- Branch: `main`
 
 ![Catalog Info](img/Apps5.png)
 
