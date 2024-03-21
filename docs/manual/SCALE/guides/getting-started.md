@@ -89,7 +89,7 @@ Please free to check out our [Introduction to TrueNAS SCALE](https://truecharts.
 
 ## Full TrueCharts Setup on TrueNAS SCALE
 
-- Everything below (includes the steps listed above and extras like [Heavyscript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript), [MetalLB](https://truecharts.org/manual/SCALE/guides/getting-started/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](https://truecharts.org/manual/SCALE/guides/getting-started/#authelia-installation))
+- Everything below (includes the steps listed above and extras like [HeavyScript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript), [MetalLB](https://truecharts.org/manual/SCALE/guides/getting-started/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](https://truecharts.org/manual/SCALE/guides/getting-started/#authelia-installation))
 
 ### TrueCharts Trains Overview
 
@@ -99,7 +99,7 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 - `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch
 - `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes
 - `premium` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional use cases
-- `system` contains system for certain apps and may be required for specific apps to function at all, recommended leaving this `enabled`.
+- `system` contains operators required for certain apps apps to function at all, recommended leaving this `enabled`.
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
