@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.1.1",
-    "postcss": "8.4.37",
+    "postcss": "8.4.38",
     "autoprefixer": "10.4.19",
     "tailwindcss": "3.4.1"
   },
