@@ -11,8 +11,8 @@ A fork of Radarr to work with Books & AudioBooks
 - https://readarr.com
 - https://github.com/Readarr/Readarr
 - https://github.com/truecharts/charts/tree/master/charts/stable/readarr
-- https://ghcr.io/onedr0p/readarr-develop
 - https://ghcr.io/onedr0p/exportarr
+- https://ghcr.io/onedr0p/readarr-develop
 
 ## Available Documentation
 
