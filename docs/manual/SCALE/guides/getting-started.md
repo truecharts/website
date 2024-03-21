@@ -117,7 +117,7 @@ This step may be optional but is recommended for advanced users and/or those who
 
 ![Prometheus](img/icons/prometheus-operator.png) ![CNPG](img/icons/cnpg.png)
 
-Many of the popular TrueCharts apps for TrueNAS SCALE rely on `Prometheus Operator` and `Cloudnative-PG Operator` to be installed **PRIOR** to installing another app that may on functionality these operators provide. If you're unsure if you're using any TrueCharts apps that require Prometheus or CNPG functionality, we advise you install these system apps first anyway before attempting to then install any other apps.
+Many of the popular TrueCharts apps for TrueNAS SCALE rely on `Prometheus Operator` and `Cloudnative-PG Operator` to be installed **PRIOR** to installing another app that may rely on functionality these operators provide. If you're unsure if you're using any TrueCharts apps that require Prometheus or CNPG functionality, we advise you install these system apps first anyway before attempting to then install any other apps.
 
 [Here](https://truecharts.org/manual/FAQ#how-do-i-know-if-an-app-uses-cnpg) is a list of apps that rely on CNPG functionality. If you intend to deploy any of these apps, you **must** install the `Cloudnative-PG Operator` app first as above.
 
