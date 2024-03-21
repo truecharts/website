@@ -25,21 +25,21 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 ## Minimal Getting Started Setup with SCALE
 
 - Add catalog with the following trains: `stable`, `premium`, `system` -> [Adding TrueCharts](https://truecharts.org/manual/SCALE/guides/getting-started/#adding-truecharts)
-- Install the following apps from the `system` train with default settings: `cloudnative-pg`, `prometheus-operator`, `cert-manager`
+- Install the following apps from the `system` train with default settings: `Prometheus Operator` `Cloudnative-PG Operator` and `Cert-Manager`
 
 ## Adding TrueCharts
 
 To add TrueCharts to your SCALE installation:
 
-1.  Go to **Apps** page from the top level SCALE menu
+1.  Go to the **Apps** page from the top level SCALE menu
 
 ![Apps](img/Apps.png)
 
-2.  Click **Discover Apps** button on the Apps page
+2.  Click the **Discover Apps** button on the Apps page
 
 ![Discover Apps](img/Apps2.png)
 
-3.  Click **Manage Catalogs** link on the Discover Apps page
+3.  Click the **Manage Catalogs** link on the Discover Apps page
 
 ![Manage Catalogs](img/Apps3.png)
 
@@ -48,10 +48,10 @@ To add TrueCharts to your SCALE installation:
 ![Add Catalog](img/Apps4.png)
 
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
-    Name: `truecharts`
-    Repository: `https://github.com/truecharts/catalog`
-    Preferred Trains: `premium`,`stable` and `system` (type each one manually)
-    Branch: `main`
+- Name: `truecharts`
+- Repository: `https://github.com/truecharts/catalog`
+- Preferred Trains: `premium`,`stable` and `system` (type each one manually)
+- Branch: `main`
 
 ![Catalog Info](img/Apps5.png)
 
@@ -89,7 +89,7 @@ Please free to check out our [Introduction to TrueNAS SCALE](https://truecharts.
 
 ## Full TrueCharts Setup on TrueNAS SCALE
 
-- Everything below (includes the steps listed above and extras like [Heavyscript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript), [MetalLB](https://truecharts.org/manual/SCALE/guides/getting-started/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](https://truecharts.org/manual/SCALE/guides/getting-started/#authelia-installation))
+- Everything below (includes the steps listed above and extras like [HeavyScript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript), [MetalLB](https://truecharts.org/manual/SCALE/guides/getting-started/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](https://truecharts.org/manual/SCALE/guides/getting-started/#authelia-installation))
 
 ### TrueCharts Trains Overview
 
@@ -99,7 +99,7 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 - `incubator` contains apps which are still in development and/or are not considered to be stable and working well enough to be moved into the `stable` branch
 - `dependency` contains apps that are mostly used as dependencies. This train is not supported, aside from bug fixes
 - `premium` contains apps for core TrueCharts features and, in the future, will be covered by additional support for professional use cases
-- `system` contains system for certain apps and may be required for specific apps to function at all, recommended leaving this `enabled`.
+- `system` contains operators required for certain apps apps to function at all, recommended leaving this `enabled`.
 
 [See here](https://truecharts.org/charts/description_list) for a list of all apps available for each TrueCharts trains.
 
