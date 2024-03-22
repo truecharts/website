@@ -34,8 +34,15 @@ The above issues exist both for our new in-house TrueCharts OpenEBS storage solu
 
 Once you have completed updating your SCALE system to DragonFish, enter the following command in the TrueNAS SCALE shell ensuring it's ran as root and as shown below:
 
-`k3s kubectl delete -f https://truecharts.org/openebsrem.yaml`
+`rm /mnt/tank/ix-applications/k3s/server/manifests/zfs-operator.yaml`
+*Replace `tank` in the command above with the name of your Apps-pool*
+
 and
+
+`k3s kubectl delete -f https://truecharts.org/openebsrem.yaml`
+
+and
+
 `k3s kubectl delete storageClass openebs-zfspv-default`
 
 Continue with the steps under "For new Users and Apps freshly installed on DragonFish"
