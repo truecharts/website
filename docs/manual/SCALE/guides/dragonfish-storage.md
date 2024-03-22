@@ -48,6 +48,10 @@ and
 
 Continue with the steps under "For new Users and Apps freshly installed on DragonFish"
 
+After installing the `OpenEBS` App, run the following:
+
+`sudo curl -s https://truecharts.org/openebsmv.sh | bash`
+
 ### For new Users and Apps freshly installed on DragonFish
 
 Once you have completed the above steps, you need to install the `OpenEBS` app from the TrueCharts Operator train as below. This app contains our own version of PVC storage.
