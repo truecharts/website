@@ -35,6 +35,7 @@ The above issues exist both for our new in-house TrueCharts OpenEBS storage solu
 Once you have completed updating your SCALE system to DragonFish, enter the following command in the TrueNAS SCALE shell ensuring it's ran as root and as shown below:
 
 `rm /mnt/tank/ix-applications/k3s/server/manifests/zfs-operator.yaml`
+
 *Replace `tank` in the command above with the name of your Apps-pool*
 
 and
