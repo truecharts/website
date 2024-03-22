@@ -21,7 +21,7 @@
     "@mdx-js/react": "3.0.1",
     "@saucelabs/theme-github-codeblock": "0.2.3",
     "@swc/core": "1.4.8",
-    "caniuse-lite": "1.0.30001599",
+    "caniuse-lite": "1.0.30001600",
     "clsx": "2.1.0",
     "@iconify/react": "4.1.1",
     "animate.css": "4.1.1",
