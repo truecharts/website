@@ -55,6 +55,7 @@ After installing the `OpenEBS` App, run the following:
 ### For new Users and Apps freshly installed on DragonFish
 
 Once you have completed the above steps, you need to install the `OpenEBS` app from the TrueCharts Operator train as below. This app contains our own version of PVC storage.
+**Existing users: Ensure to not the name of the app when installing**
 
 - In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
 - Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step
