@@ -15,13 +15,6 @@
 # not be available under the new namespace and ZFS Driver looks for all the resources
 # in the OPENEBS_NAMESPACE namespace passed as an env.
 
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: openebs
-
----
-
 # Create the CSI Driver object
 apiVersion: storage.k8s.io/v1
 kind: CSIDriver
