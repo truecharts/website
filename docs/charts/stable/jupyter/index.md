@@ -10,14 +10,14 @@ Jupyter a web based IDE
 
 - https://github.com/jupyter/docker-stacks
 - https://github.com/truecharts/charts/tree/master/charts/stable/jupyter
-- https://hub.docker.com/r/jupyter/base-notebook
 - https://hub.docker.com/r/jupyter/all-spark-notebook
-- https://hub.docker.com/r/jupyter/datascience-notebook
-- https://hub.docker.com/r/jupyter/minimal-notebook
-- https://hub.docker.com/r/jupyter/r-notebook
-- https://hub.docker.com/r/jupyter/scipy-notebook
+- https://hub.docker.com/r/jupyter/base-notebook
 - https://hub.docker.com/r/jupyter/pyspark-notebook
+- https://hub.docker.com/r/jupyter/datascience-notebook
 - https://hub.docker.com/r/jupyter/tensorflow-notebook
+- https://hub.docker.com/r/jupyter/r-notebook
+- https://hub.docker.com/r/jupyter/minimal-notebook
+- https://hub.docker.com/r/jupyter/scipy-notebook
 
 ## Available Documentation
 
