@@ -2,7 +2,7 @@
 title: palworld
 ---
 
-![Version: 2.7.1](https://img.shields.io/badge/Version-2.7.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: palworld](https://img.shields.io/badge/AppVersion-palworld-informational?style=flat-square)
+![Version: 2.7.2](https://img.shields.io/badge/Version-2.7.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: palworld](https://img.shields.io/badge/AppVersion-palworld-informational?style=flat-square)
 
 A custom SteamCMD chart that runs Palworld.
 

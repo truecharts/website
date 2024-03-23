@@ -2,7 +2,7 @@
 title: static
 ---
 
-![Version: 10.7.1](https://img.shields.io/badge/Version-10.7.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ee8a20c](https://img.shields.io/badge/AppVersion-ee8a20c-informational?style=flat-square)
+![Version: 10.7.2](https://img.shields.io/badge/Version-10.7.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: ee8a20c](https://img.shields.io/badge/AppVersion-ee8a20c-informational?style=flat-square)
 
 A self-hosted static file serving app which does nothing more than just serve up static files from a mounted volume.
 
