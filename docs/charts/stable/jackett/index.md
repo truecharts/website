@@ -9,8 +9,9 @@ API Support for your favorite torrent trackers.
 ## Chart Sources
 
 - https://github.com/Jackett/Jackett
-- https://github.com/truecharts/charts/tree/master/charts/stable/jackett
 - https://github.com/geek-cookbook/containers/pkgs/container/jackett
+- https://github.com/truecharts/charts/tree/master/charts/stable/jackett
+- https://ghcr.io/geek-cookbook/jackett
 
 ## Available Documentation
 
