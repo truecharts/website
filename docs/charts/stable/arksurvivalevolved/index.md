@@ -2,7 +2,7 @@
 title: arksurvivalevolved
 ---
 
-![Version: 7.7.2](https://img.shields.io/badge/Version-7.7.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: arkse](https://img.shields.io/badge/AppVersion-arkse-informational?style=flat-square)
+![Version: 7.7.3](https://img.shields.io/badge/Version-7.7.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: arkse](https://img.shields.io/badge/AppVersion-arkse-informational?style=flat-square)
 
 A custom SteamCMD chart that runs ArkSE.
 
