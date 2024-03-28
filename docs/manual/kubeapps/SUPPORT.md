@@ -3,7 +3,7 @@ title: Support Policy
 sidebar_position: 2
 ---
 
-## Via Kube Apps
+## Via KubeApps
 
 TrueCharts aims to always support the latest version of KubeApps.
 However, sometimes new versions of either KubeApps or TrueCharts introduces breaking changes.
