@@ -4,17 +4,15 @@ title: Adding Ingress
 
 ## What is ingress
 
-Ingress is a way to define "routes" from a domain name, through an "ingress controller", to the application running in a chart.
-Simply put: they specify reverse proxy configuration for as special reverse proxy called "ingress controller"
+Ingress is a way to define "routes" from a domain name, through an "ingress controller", to the application running in a chart. Simply put: they specify reverse proxy configuration for a special reverse proxy called "ingress controller".
 
-## Pre-requisits
+## Requirements
 
-Before setting-up ingress, we advice to have an ingress-controller already set-up.
-Our adviced ingress controller would be Traefik.
+Before setting up ingress, we advise you to have an ingress controller already set-up. Our recommended ingress controller would be (Traefik)[https://github.com/traefik/traefik].
 
-## How-To setup
+## How to Setup
 
-To setup ingress add the following minimal section to the values.yaml manually, update the required rows, and adapt where needed:
+To setup ingress, add the following minimal section to the values.yaml manually, updating the required rows and adapting where needed:
 
 ```
 ingress:
@@ -59,8 +57,7 @@ ingress:
               value: some value
 ```
 
-In somecases an ingress might already been partly defined.
-When that's the case, please merge above settings, with the already defined ingresses.
+In some cases, an ingress might already been partly defined. When that's the case, please merge the above settings with the already defined ingresses.
 
 ## More info:
 
