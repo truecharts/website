@@ -33,7 +33,7 @@ To add TrueCharts to your SCALE installation:
  Branch: `main`
  5. Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
-Please view this video from the TrueNAS documentation webiste on adding [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog) if you need more info on the process.
+Please view this video from the TrueNAS documentation website on adding [3rd party catalogs](https://www.truenas.com/docs/scale/scaleuireference/apps/appsscreensscale/#add-catalog) if you need more info on the process.
 
 :::info Introduction to TrueNAS SCALE Guide
 
@@ -79,7 +79,7 @@ TrueCharts only supports the usage of `clusterissuer` for certificate management
 
 <img src={require('./img/icons/blocky.png').default} alt="Example banner"  width="150" height="150" />
 
-Blocky is the preferred DNS solution for TrueCharts, it's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [BlockySetup-Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
+Blocky is the preferred DNS solution for TrueCharts, it's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [Blocky Setup-Guide](https://truecharts.org/charts/enterprise/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
 ## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
 
