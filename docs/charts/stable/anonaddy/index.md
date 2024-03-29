@@ -2,7 +2,7 @@
 title: anonaddy
 ---
 
-![Version: 20.15.6](https://img.shields.io/badge/Version-20.15.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.9](https://img.shields.io/badge/AppVersion-1.0.9-informational?style=flat-square)
+![Version: 20.16.0](https://img.shields.io/badge/Version-20.16.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.0](https://img.shields.io/badge/AppVersion-1.1.0-informational?style=flat-square)
 
 Protect your email from spam using disposable addresses.
 
