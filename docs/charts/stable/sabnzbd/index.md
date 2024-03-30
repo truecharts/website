@@ -10,8 +10,8 @@ Free and easy binary newsreader
 
 - https://sabnzbd.org/
 - https://github.com/truecharts/charts/tree/master/charts/stable/sabnzbd
-- https://ghcr.io/onedr0p/sabnzbd
 - https://ghcr.io/onedr0p/exportarr
+- https://ghcr.io/onedr0p/sabnzbd
 
 ## Available Documentation
 
