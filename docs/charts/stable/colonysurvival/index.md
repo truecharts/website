@@ -2,7 +2,7 @@
 title: colonysurvival
 ---
 
-![Version: 5.7.4](https://img.shields.io/badge/Version-5.7.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: colonysurial](https://img.shields.io/badge/AppVersion-colonysurial-informational?style=flat-square)
+![Version: 5.7.5](https://img.shields.io/badge/Version-5.7.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: colonysurial](https://img.shields.io/badge/AppVersion-colonysurial-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Colony Survival and run it.
 
