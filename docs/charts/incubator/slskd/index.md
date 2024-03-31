@@ -10,6 +10,7 @@ Slskd is a modern client-server application for the Soulseek file sharing networ
 
 - https://github.com/ansible-slskd/slskd
 - https://github.com/truecharts/charts/tree/master/charts/incubator/slskd
+- https://ghcr.io/slskd/slskd
 
 ## Available Documentation
 
