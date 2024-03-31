@@ -2,7 +2,7 @@
 title: tubearchivist-redisjson
 ---
 
-![Version: 5.7.5](https://img.shields.io/badge/Version-5.7.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.7.6](https://img.shields.io/badge/Version-5.7.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This is a dependancy Chart for the application "TubeArchivist"
 
