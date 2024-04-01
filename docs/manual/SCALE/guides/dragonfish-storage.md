@@ -67,6 +67,14 @@ Once you have completed the above steps, you need to install the `OpenEBS` app f
 
 ![system List](img/Dragonfish-Storage5b.png)
 
+Then install the `OpenEBS` chart
+
+![OpenEBS Icon](img/OpenEBS.png)
+
+Please ensure you've chosen a **Pool/Dataset** that's not inside `ix-applications` and do not include `/mnt/` in front of the pool/dataset, as shown below
+
+![OpenEBS Storage](img/OpenEBS-storage.png)
+
 It's important to set the `pool/dataset` to the dataset you want to store the folders with the application data in them.
 
 :::danger
@@ -74,7 +82,6 @@ It's important to set the `pool/dataset` to the dataset you want to store the fo
 When setting the `pool/dataset` as above, do **not** set the path to the existing ix-applications dataset
 
 :::
-
 
 ### Migrating to new storage
 
