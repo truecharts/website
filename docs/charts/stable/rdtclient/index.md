@@ -10,8 +10,8 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 
 - https://github.com/rogerfar/rdt-client
 - https://github.com/truecharts/charts/tree/master/charts/stable/rdtclient
-- https://ghcr.io/rogerfar/rdtclient
 - https://hub.docker.com/r/p3terx/aria2-pro
+- https://ghcr.io/rogerfar/rdtclient
 
 ## Available Documentation
 
