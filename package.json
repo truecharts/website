@@ -15,12 +15,12 @@
     "dev": "docusaurus start"
   },
   "dependencies": {
-    "@docusaurus/core": "3.1.1",
-    "@docusaurus/plugin-ideal-image": "3.1.1",
-    "@docusaurus/preset-classic": "3.1.1",
+    "@docusaurus/core": "3.2.0",
+    "@docusaurus/plugin-ideal-image": "3.2.0",
+    "@docusaurus/preset-classic": "3.2.0",
     "@mdx-js/react": "3.0.1",
     "@saucelabs/theme-github-codeblock": "0.2.3",
-    "@swc/core": "1.4.8",
+    "@swc/core": "1.4.11",
     "caniuse-lite": "1.0.30001605",
     "clsx": "2.1.0",
     "@iconify/react": "4.1.1",
@@ -39,10 +39,10 @@
     "wow.js": "1.2.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.1.1",
+    "@docusaurus/module-type-aliases": "3.2.0",
     "postcss": "8.4.38",
     "autoprefixer": "10.4.19",
-    "tailwindcss": "3.4.1"
+    "tailwindcss": "3.4.3"
   },
   "browserslist": {
     "production": [
