@@ -36,7 +36,7 @@ We also would like to point out, that iX-Systems, the creators of TrueNAS SCALE,
 This does affect the quality of the end-product.
 
 Hence for chart management our preference would be to use KubeApps instead:
-https://truecharts.org/manual/kube-apps
+https://truecharts.org/manual/kubeapps/intro
 
 ## How to Configure
 
