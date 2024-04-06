@@ -84,8 +84,8 @@ Please free to check out our [Introduction to TrueNAS SCALE](https://truecharts.
 - Add Traefik -> [Traefik How-To](https://truecharts.org/charts/premium/traefik/how-to)
 - Use Cloudflare for DNS and create API token -> [Guide](https://truecharts.org/charts/premium/clusterissuer/how-to#configure-acme-issuer)
 - Add ClusterIssuer -> [Clusterissuer How-to](https://truecharts.org/charts/premium/clusterissuer/how-to)
-- Add Blocky -> [Block Setup Guide](https://truecharts.org/charts/premium/blocky/setup-guide)
-- Setup ingress on each Chart you want to expose ->[Configure Ingress using Clusterissuer certs](https://truecharts.org/charts/premium/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
+- Add Blocky -> [Blocky Setup Guide](https://truecharts.org/charts/premium/blocky/setup-guide)
+- Setup ingress on each Chart you want to expose -> [Configure Ingress using Clusterissuer certs](https://truecharts.org/charts/premium/clusterissuer/how-to/#configure-ingress-using-clusterissuer)
 
 ## Full TrueCharts Setup on TrueNAS SCALE
 
@@ -156,7 +156,7 @@ TrueCharts only supports the usage of `Cert-Manager` (both the operator portion 
 
 ![Blocky](img/icons/blocky.png)
 
-Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [BlockySetup-Guide](https://truecharts.org/charts/premium/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
+Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [Blocky Setup-Guide](https://truecharts.org/charts/premium/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
 ## Authelia Installation
 
