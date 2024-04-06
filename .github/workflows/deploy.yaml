@@ -66,17 +66,19 @@ jobs:
         with:
           cmd: install --frozen-lockfile
         env:
-          NODE_OPTIONS: "--max-old-space-size=22000"
-          DOCUSAURUS_SSR_CONCURRENCY: 4
+          NODE_OPTIONS: "--max-old-space-size=23000"
+          DOCUSAURUS_SSR_CONCURRENCY: 3
           SKIP_HTML_MINIFICATION: true
+          DOCUSAURUS_PERF_LOGGER: true
         
       - uses: borales/actions-yarn@3766bb1335b98fb13c60eaf358fe20811b730a88 # v5.0.0
         with:
           cmd: build
         env: 
-          NODE_OPTIONS: "--max-old-space-size=22000"
-          DOCUSAURUS_SSR_CONCURRENCY: 4
+          NODE_OPTIONS: "--max-old-space-size=23000"
+          DOCUSAURUS_SSR_CONCURRENCY: 3
           SKIP_HTML_MINIFICATION: true
+          DOCUSAURUS_PERF_LOGGER: true
 
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
