@@ -9,8 +9,9 @@ One-time encrypted password/secret sharing
 ## Chart Sources
 
 - https://github.com/AndrewPaglusch/FlashPaper
-- https://github.com/truecharts/charts/tree/master/charts/incubator/flashpaper
 - https://github.com/andrewpaglusch/FlashPaper/pkgs/container/flashpaper
+- https://github.com/truecharts/charts/tree/master/charts/incubator/flashpaper
+- https://ghcr.io/andrewpaglusch/flashpaper
 
 ## Available Documentation
 
