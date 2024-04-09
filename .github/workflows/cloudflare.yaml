@@ -48,6 +48,6 @@ jobs:
           # So when this workflow is pushed to refs/heads/main, we set the branch to `main`/"production".
           branch: ${{ github.ref == 'refs/heads/main' && 'main' || github.head_ref }}
           # The project name in Cloudflare
-          projectName: chart-docs
+          projectName: chart-docs # TODO:
           directory: ./build
           wranglerVersion: "3"
