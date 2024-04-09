@@ -157,8 +157,8 @@ const config = {
                 href: "/manual/FAQ",
               },
               {
-                label: "Support Policy",
-                href: "/manual/SUPPORT",
+                label: "Project Scope",
+                href: "/manual/scope",
               },
             ],
           },
