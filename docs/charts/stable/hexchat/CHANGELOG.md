@@ -79,6 +79,31 @@ title: Changelog
 - update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
 
 
+## [hexchat-5.8.1](https://github.com/truecharts/charts/compare/hexchat-5.6.0...hexchat-5.8.1) (2024-04-09)
+
+### Chore
+
+
+
+- update container image binhex/arch-hexchat to latest[@12f4d03](https://github.com/12f4d03) by renovate ([#20056](https://github.com/truecharts/charts/issues/20056))
+
+- update container image common to v20.3.2[@0722ebb](https://github.com/0722ebb) by renovate ([#20334](https://github.com/truecharts/charts/issues/20334))
+
+- update container image binhex/arch-hexchat to latest[@6a546b5](https://github.com/6a546b5) by renovate ([#20043](https://github.com/truecharts/charts/issues/20043))
+
+- update container image common to v20.2.10[@6f99c97](https://github.com/6f99c97) by renovate ([#19876](https://github.com/truecharts/charts/issues/19876))
+
+- update container image common to v20.2.9[@10fd6c5](https://github.com/10fd6c5) by renovate ([#19817](https://github.com/truecharts/charts/issues/19817))
+
+- update container image common to v20.2.4[@f245f5c](https://github.com/f245f5c) by renovate ([#19731](https://github.com/truecharts/charts/issues/19731))
+
+- update container image common to v20.2.3[@06e462e](https://github.com/06e462e) by renovate ([#19673](https://github.com/truecharts/charts/issues/19673))
+
+- update container image common to v20.2.2[@f7d0b92](https://github.com/f7d0b92) by renovate ([#19432](https://github.com/truecharts/charts/issues/19432))
+
+- update container image common to v20.2.0[@91ade87](https://github.com/91ade87) by renovate ([#19361](https://github.com/truecharts/charts/issues/19361))
+
+
 ## [hexchat-5.8.1](https://github.com/truecharts/charts/compare/hexchat-5.6.0...hexchat-5.8.1) (2024-04-08)
 
 ### Chore
