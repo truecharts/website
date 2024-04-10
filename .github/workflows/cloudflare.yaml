@@ -10,8 +10,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
-      deployments: write
+      pull-requests: write
     name: ${{ github.ref == 'refs/heads/main' && '(Production)' || '(Preview)' }} Publish to Cloudflare Pages
     steps:
       - name: Comment deploy start
@@ -68,6 +67,7 @@ jobs:
           wranglerVersion: "3"
 
       - name: Comment deploy url
+        if: github.event_name != 'push'
         uses: mshick/add-pr-comment@v2
         with:
           message-id: cloudflare-deploy
