@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://charts.truecharts.org",
+  site: "https://test.truecharts.org",
   base: "/",
   output: "static",
   cacheDir: ".astro/cache",
