@@ -8,6 +8,7 @@ export default defineConfig({
   site: "https://test.truecharts.org",
   base: "/",
   output: "static",
+  outDir: "build",
   cacheDir: ".astro/cache",
   trailingSlash: "ignore",
   compressHTML: true,
