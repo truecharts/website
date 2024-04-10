@@ -19,12 +19,12 @@ jobs:
         with:
           message-id: cloudflare-deploy
           message: |
-            ### <span aria-hidden="true">🚧</span> Deploy Preview building...
+            ### 🚧 Deploy Preview building...
 
-            |  Name                                               | Link                                                                                |
-            |-----------------------------------------------------|-------------------------------------------------------------------------------------|
-            |<span aria-hidden="true">🔨</span> Latest commit     | ${{ github.sha }}                                                                   |
-            |<span aria-hidden="true">🔍</span> Latest deploy log | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}       |
+            |  Name               | Link                                                                          |
+            |---------------------|-------------------------------------------------------------------------------|
+            |🔨 Latest commit     | ${{ github.sha }}                                                             |
+            |🔍 Latest deploy log | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
             ---
 
       - name: Checkout
@@ -72,12 +72,12 @@ jobs:
         with:
           message-id: cloudflare-deploy
           message: |
-            ### <span aria-hidden="true">✅</span> Deploy Preview ready!
+            ### ✅ Deploy Preview ready!
 
-            |  Name                                                | Link                                                                                |
-            |------------------------------------------------------|-------------------------------------------------------------------------------------|
-            |<span aria-hidden="true">🔨</span> Latest commit      | ${{ github.sha }}                                                                   |
-            |<span aria-hidden="true">🔍</span> Latest deploy log  | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}       |
-            |<span aria-hidden="true">😎</span> Deploy Preview Url | [${{ steps.cloudflare.outputs.url }}](${{ steps.cloudflare.outputs.url }})          |
-            |<span aria-hidden="true">🌳</span> Environment        | ${{ steps.cloudflare.outputs.environment }}                                         |
+            |  Name                | Link                                                                          |
+            |----------------------|-------------------------------------------------------------------------------|
+            |🔨 Latest commit      | ${{ github.sha }}                                                             |
+            |🔍 Latest deploy log  | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
+            |😎 Deploy Preview Url | [${{ steps.cloudflare.outputs.url }}](${{ steps.cloudflare.outputs.url }})    |
+            |🌳 Environment        | ${{ steps.cloudflare.outputs.environment }}                                   |
             ---
