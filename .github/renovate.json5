@@ -1,0 +1,44 @@
+{
+  semanticCommits: "enabled",
+  extends: ["helpers:pinGitHubActionDigests"],
+  dependencyDashboard: true,
+  dependencyDashboardTitle: "Renovate Dashboard 🤖",
+  rebaseWhen: "conflicted",
+  prConcurrentLimit: 25,
+  timezone: "Europe/Amsterdam",
+  pinDigests: true,
+  automerge: true,
+  gitAuthor: "TrueCharts-Admin <bot@truecharts.org>",
+  extends: ["config:base", ":label(dependencies)"],
+  dependencyDashboardApproval: false,
+  lockFileMaintenance: {
+    enabled: true,
+  },
+  dependencyDashboard: true,
+  packageRules: [
+    {
+      matchManagers: ["github-actions"],
+      groupName: "Github-Actions Major",
+      automerge: false,
+      matchUpdateTypes: ["major"],
+    },
+    {
+      matchManagers: ["github-actions"],
+      groupName: "Github-Actions",
+      automerge: true,
+      matchUpdateTypes: ["minor", "patch", "digest"],
+    },
+    {
+      matchManagers: ["npm"],
+      groupName: "NPM Major",
+      updateTypes: ["major"],
+      automerge: false,
+    },
+    {
+      matchManagers: ["npm"],
+      groupName: "NPM",
+      updateTypes: ["patch", "minor", "pin", "digest"],
+      automerge: true,
+    },
+  ],
+}
