@@ -7,6 +7,7 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   site: "https://charts.truecharts.org",
   base: "/",
+  output: "static",
   cacheDir: ".astro/cache",
   trailingSlash: "ignore",
   compressHTML: true,
