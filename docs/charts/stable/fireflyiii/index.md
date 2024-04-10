@@ -2,7 +2,7 @@
 title: fireflyiii
 ---
 
-![Version: 25.10.4](https://img.shields.io/badge/Version-25.10.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.1.13](https://img.shields.io/badge/AppVersion-6.1.13-informational?style=flat-square)
+![Version: 25.10.5](https://img.shields.io/badge/Version-25.10.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.1.13](https://img.shields.io/badge/AppVersion-6.1.13-informational?style=flat-square)
 
 A free and open source personal finance manager
 

@@ -2,7 +2,7 @@
 title: vikunja
 ---
 
-![Version: 13.10.4](https://img.shields.io/badge/Version-13.10.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.22.1](https://img.shields.io/badge/AppVersion-0.22.1-informational?style=flat-square)
+![Version: 13.10.5](https://img.shields.io/badge/Version-13.10.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.22.1](https://img.shields.io/badge/AppVersion-0.22.1-informational?style=flat-square)
 
 The to-do app to organize your life.
 
