@@ -1,7 +1,8 @@
 ---
-slug: "persistence-changes"
+slug: "blog/persistence-changes"
 title: "Changes to Storage, Persistence, and PostgreSQL"
 authors: [ornias]
+date: 2023-12-20
 ---
 
 We're glad to announce that shortly we will release a big update to all our Apps. This will be a complex update that technically includes a few changes that might break some specific features for some users. While we do not foresee any data loss, it's imperative to back up your data.
@@ -47,16 +48,19 @@ We do not have many statefulsets in our catalog, so expect it to be mostly OpenL
 #### SCALE
 
 To check which have statefulsets:
+
 ```bash
 k3s kubectl get statefulsets -A | grep "ix-"
 ```
 
 Then to delete the statefulset:
+
 ```bash
 k3s kubectl delete statefulset STATEFULSETNAME -n ix-APPNAME
 ```
 
 Example:
+
 ```bash
 k3s kubectl delete statefulset blocky-redis -n ix-blocky
 ```
@@ -66,16 +70,19 @@ Once deleted you can attempt the update (or if you were already updated to lates
 #### Helm
 
 To check which have statefulsets:
+
 ```bash
 kubectl get statefulsets -A
 ```
 
 Then to delete the statefulset:
+
 ```bash
 kubectl delete statefulset STATEFULSETNAME -n APPNAME
 ```
 
 Example:
+
 ```bash
 kubectl delete statefulset blocky-redis -n blocky
 ```

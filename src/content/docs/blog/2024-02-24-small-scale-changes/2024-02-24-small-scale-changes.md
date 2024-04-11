@@ -1,7 +1,8 @@
 ---
-slug: "small-scale-changes"
+slug: "blog/small-scale-changes"
 title: "Small SCALE Changes"
 authors: [ornias]
+date: 2024-02-24
 ---
 
 There have been some minor changes to how some things are done on SCALE.

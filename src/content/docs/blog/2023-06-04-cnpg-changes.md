@@ -1,7 +1,8 @@
 ---
-slug: "cnpg-changes"
+slug: "blog/cnpg-changes"
 title: "New CloudNative-PG (CNPG) operator chart."
 authors: [ornias]
+date: 2023-06-04
 ---
 
 After building our own MetalLB operator chart, we've also now finished the work on building our own CloudNative-PG Chart.

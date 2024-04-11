@@ -1,7 +1,8 @@
 ---
-slug: "website-changes"
+slug: "blog/website-changes"
 title: "Website and Announcement Changes"
 authors: [ornias]
+date: 2022-12-21
 ---
 
 Hello TrueCharts community!

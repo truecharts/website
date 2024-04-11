@@ -1,7 +1,8 @@
 ---
-slug: "breaking-enterprise-changes"
+slug: "blog/breaking-enterprise-changes"
 title: "Breaking Changes: Enterprise"
 authors: [ornias]
+date: 2023-03-06
 ---
 
 As part of our March breaking change update of all our apps, we're glad to announce the first round of updates:

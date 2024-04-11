@@ -1,7 +1,8 @@
 ---
-slug: "ix-christmas"
+slug: "blog/ix-christmas"
 title: "Our Christmas with iXsystems"
 authors: [ornias]
+date: 2023-02-20
 ---
 
 At TrueCharts, we are grateful for the support of our partners, especially during the festive season. We were thrilled when iXsystems reached out to us during the holiday season to show their appreciation for the hard work and dedication of our staff to both the TrueNAS SCALE and TrueCharts projects in 2022.

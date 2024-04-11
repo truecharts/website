@@ -1,7 +1,8 @@
 ---
-slug: "helm-repo-back"
+slug: "blog/helm-repo-back"
 title: "Relaunched: Our Helm Repository"
 authors: [ornias]
+date: 2023-02-14
 ---
 
 We're is excited to announce that our native Helm Charts are back in action!

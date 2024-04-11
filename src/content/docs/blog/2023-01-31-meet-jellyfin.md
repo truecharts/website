@@ -1,7 +1,8 @@
 ---
-slug: "meet-jellyfin"
+slug: "blog/meet-jellyfin"
 title: "Meet Jellyfin, OpenSource Media Server"
 authors: [ornias]
+date: 2023-01-31
 ---
 
 As Linus TechTips recently discovered, Jellyfin is a fantastic solution for watching your media from anywhere and our app makes it incredibly easy to install on TrueNAS SCALE.

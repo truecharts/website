@@ -1,7 +1,8 @@
 ---
-slug: "post-easter-stable-update"
+slug: "blog/post-easter-stable-update"
 title: "Post Easter Stable Update"
 authors: [ornias]
+date: 2023-04-11
 ---
 
 Hope everyone had an amazing easter, we know we had a busy one to say the least!

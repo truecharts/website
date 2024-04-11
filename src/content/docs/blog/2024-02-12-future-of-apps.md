@@ -1,7 +1,8 @@
 ---
-slug: "future-of-apps"
+slug: "blog/future-of-apps"
 title: "The future of SCALE Apps"
 authors: [ornias]
+date: 2024-02-12
 ---
 
 In recent weeks, there has been considerable speculation regarding the future of TrueCharts Apps for TrueNAS SCALE, particularly following comments from iX-Systems staff that were interpreted as suggesting a potential shift away from Kubernetes.

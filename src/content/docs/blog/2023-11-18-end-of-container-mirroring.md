@@ -1,7 +1,8 @@
 ---
-slug: "the-end-of-container-mirroring"
+slug: "blog/the-end-of-container-mirroring"
 title: "The End of Container Mirroring"
 authors: [jagrbombs]
+date: 2023-11-18
 ---
 
 In the ever-evolving landscape of containerization and application deployment, TrueCharts has been at the forefront of providing users with streamlined and efficient Helm charts. As TrueCharts continues to prioritize user experience and development efficiency, a notable change is on the horizon – the decision to discontinue mirroring containers. We've highlighted below the main reasons for this change.

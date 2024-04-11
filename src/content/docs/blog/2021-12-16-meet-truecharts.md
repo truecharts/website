@@ -1,7 +1,8 @@
 ---
-slug: "meet-truecharts"
+slug: "blog/meet-truecharts"
 title: "Meet TrueCharts - the First App Store for TrueNAS SCALE"
 authors: [ornias]
+date: 2021-12-16
 ---
 
 Enterprise storage does not need to be rigid and difficult. TrueNAS SCALE is scale-out storage and hyperconverged infrastructure that is also flexible. Key to that flexibility is the inclusion of Kubernetes for deploying containerized (e.g. docker) applications. Kubernetes allows single containers or pods of containers to be easily deployed on a unified infrastructure. A growing assortment of these applications are now preconfigured for easy deployment using a TrueNAS-enhanced implementation of Helm Charts.
@@ -9,7 +10,7 @@ Enterprise storage does not need to be rigid and difficult. TrueNAS SCALE is sca
 Users and third parties can now build catalogs of application charts for deployment with the ease of an app store experience. These catalogs are like app stores for TrueNAS SCALE. iXsystems has been collaborating and sponsoring the team developing TrueCharts, the first and most comprehensive of these app stores. Best of all, the TrueCharts Apps are free and Open Source.
 TrueCharts offers a diverse set of easily-deployed applications for TrueNAS users, with more than 180 available apps to choose from. We’ve invited the TrueCharts team to write a guest blog to share the details.
 
-**TrueCharts**
+#### TrueCharts
 
 With streamlined Kubernetes support for its ”apps”, TrueNAS SCALE has made the big step of bringing Kubernetes to the masses while staying true to its Open Source philosophy by empowering the community to build their own apps and catalogs. This ability for users to pick their own favorite catalogs for apps has already proven to be popular. Meet TrueCharts, the first community apps catalog!
 

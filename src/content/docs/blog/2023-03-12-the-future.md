@@ -1,7 +1,8 @@
 ---
-slug: "the-future"
+slug: "blog/the-future"
 title: "The Future of TrueCharts"
 authors: [ornias]
+date: 2023-03-12
 ---
 
 Two and a half years ago, we started as nothing but a fork of the k8s-at-home project with added support for TrueNAS SCALE. But since then, we've grown quickly and surpassed k8s-at-home in many ways with our fresh custom-made common-chart.

@@ -1,7 +1,8 @@
 ---
-slug: "traefk-prometheus-moved"
+slug: "blog/traefik-prometheus-moved"
 title: "Traefik, Prometheus and Grafana moved to Enterprise Train"
 authors: [ornias]
+date: 2023-01-14
 ---
 
 We're started the process of moving some more of the core parts of TrueCharts to our Enterprise train. These Apps are important for most of our users and should get the priority treatment the Enterprise Train is known for.
