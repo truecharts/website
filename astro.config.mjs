@@ -27,7 +27,7 @@ export default defineConfig({
   experimental: {
     // TODO: Enable this after bug is fixed
     //  https://github.com/withastro/astro/issues/9353
-    contentCollectionCache: true,
+    contentCollectionCache: false,
   },
   integrations: [
     starlight({
@@ -48,7 +48,7 @@ export default defineConfig({
           recentPostCount: 25,
           authors: authors,
         }),
-        // starlightImageZoom(),
+        starlightImageZoom(),
         starlightLinksValidator({
           errorOnRelativeLinks: true,
         }),
