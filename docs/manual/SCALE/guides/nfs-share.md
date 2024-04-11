@@ -12,14 +12,14 @@ NFS Shares are meant to storing your file/media shares in case they need to be s
 
 In the main SCALE GUI, select the `Shares` item on the menu bar and you'll read this page.
 
-![Shares Main](img/Sharesmain.png)
+![Shares Main](./img/Sharesmain.png)
 
 Click on `Add` inside the `UNIX (NFS) Shares` section.
 
 - Select the dataset or folder that contains your media library, description is optional but helps, and then click `Save`
   choose the Save option.
 
-![Add NFS Share](img/AddNFSShare.png)
+![Add NFS Share](./img/AddNFSShare.png)
 
 - Repeat as necessary for different folders or datasets you wish to share, and make sure you note the paths of each `NFS Share`, as you will need to enter those later.
 
@@ -29,21 +29,21 @@ Next you're going to add `NFS Storage` to your applications. This can be in the 
 
 - Select `Add` next to `Additional Add Storage`
 
-![Additional Storage Add](img/BlankAddAppStorage.png)
+![Additional Storage Add](./img/BlankAddAppStorage.png)
 
 - Change to `NFS Share` in the `Type of Storage` dropdown
 
-![NFS Add Storage Blank](img/NFSAddAppStorageBlank.png)
+![NFS Add Storage Blank](./img/NFSAddAppStorageBlank.png)
 
 - Enter info for your `NFS Share` as below, for this example we'll use the `Downloads` share we created above.
   - The NFS Server can be `localhost` or your `SCALE IP`, I keep `SCALE IP`.
   - `Path on NFS Server` has to match your `NFS Shares` path, as above I had _mnt/Storage/Apps/Downloads/_
   - `Mount Path*` is the container path, I simply put `/downloads`
 
-![NFS Add Storage Filled](img/NFSAddAppStorageFilled.png)
+![NFS Add Storage Filled](./img/NFSAddAppStorageFilled.png)
 
 - Continue entering info as any regular app and click `Save`.
 
 And that's it, to verify depending on the app you can use the `App Shell` such as the example below or the GUI inside the web interface of your app.
 
-![App Shell Storage Added](img/AppShellStorageAdded.png)
+![App Shell Storage Added](./img/AppShellStorageAdded.png)

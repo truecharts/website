@@ -26,10 +26,10 @@ Click install
 After the install and deployment is complete, login with the admin user.
 
 Click Buckets and Create Bucket.
-![Minio Create Bucket Step 1](img/velero-minio-create-bucket.png)
+![Minio Create Bucket Step 1](./img/velero-minio-create-bucket.png)
 
 Name the bucket heavyscript-backup and click create bucket.
-![Minio Create Bucket Step 2](img/velero-minio-create-bucket-2.png)
+![Minio Create Bucket Step 2](./img/velero-minio-create-bucket-2.png)
 
 ## Velero Setup
 
@@ -96,12 +96,12 @@ velero backup get NameOfYourBackupSchedule
 ```
 
 Look for Status Completed in the output.
-![Velero Verify Backup](img/velero-backup-verify.png)
+![Velero Verify Backup](./img/velero-backup-verify.png)
 
 ## Test Disaster Recovery
 
 Now cause a simulated disaster of losing Jellyfin by deleting the app from the TrueNAS UI.
-![Create Disaster](img/velero-create-disaster.png)
+![Create Disaster](./img/velero-create-disaster.png)
 
 To restore:
 
@@ -113,9 +113,9 @@ velero restore create --from-backup NameOfYourBackupSchedule
 ### Post Restore
 
 Velero gives us a command to check the status of our restoration. Let’s run that. We get all kinds of interesting info about the restore but importantly we see that the restore was successful and is completed.
-![Velero Restore](img/velero-restore.png)
+![Velero Restore(./img/velero-restore.png)
 
 To ensure the restore does not encounter weird issues in the future, we recommend using `edit` on the App in question and saving without changes, as soon as the restore is fully complected.
 
 Once the Phase: Completed (green text) appears, check the status from the TrueNAS webUI. Looks like the app is back up and running.
-![Velero Complete](img/velero-complete.png)
+![Velero Complete](./img/velero-complete.png)

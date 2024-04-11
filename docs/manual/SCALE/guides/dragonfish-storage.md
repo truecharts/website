@@ -60,20 +60,20 @@ Once you have completed the above steps, you need to install the `OpenEBS` app f
 - In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
 - Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step
 
-![Catalog Trains](img/Dragonfish-Storage5.png)
+![Catalog Trains](./img/Dragonfish-Storage5.png)
 
 
 - If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
-![system List](img/Dragonfish-Storage5b.png)
+![system List](./img/Dragonfish-Storage5b.png)
 
 Then install the `OpenEBS` chart
 
-![OpenEBS Icon](img/OpenEBS.png)
+![OpenEBS Icon(./img/OpenEBS.png)
 
 Please ensure you've chosen a **Pool/Dataset** that's not inside `ix-applications` and do not include `/mnt/` in front of the pool/dataset, as shown below
 
-![OpenEBS Storage](img/OpenEBS-storage.png)
+![OpenEBS Storage](./img/OpenEBS-storage.png)
 
 It's important to set the `pool/dataset` to the dataset you want to store the folders with the application data in them.
 

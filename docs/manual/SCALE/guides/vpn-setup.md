@@ -23,13 +23,13 @@ The guide below uses Mullvad and Windscribe as examples. You must visit the [Glu
 - Install app as per usual and scroll down the to the `Addons` section
 - Click on `VPN` and select `Gluetun`
 
-![VPN Gluetun 1](img/Gluetun-VPN1.png)
+![VPN Gluetun 1](./img/Gluetun-VPN1.png)
 
 `Gluetun` works with Environment Variables so we need to configure them below. Enter your `VPN Provider` specific ones (see below)
 
 ### OpenVPN Example
 
-![VPN Gluetun 2](img/Gluetun-VPN2.png)
+![VPN Gluetun 2](./img/Gluetun-VPN2.png)
 
 - All providers will generally need `VPN_SERVICE_PROVIDER` and `VPN_TYPE`, for me it's `Windscribe` and `openvpn` but I could easily choose `Wireguard`
 - Scroll to the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) and find your specific provider and enter their info, eg [Windscribe Wiki Page](https://github.com/qdm12/gluetun-wiki/blob/main/setup/providers/windscribe.md)
@@ -40,7 +40,7 @@ I will demonstrate using `Mullvad` as the provider.
 
 - I pull my private key, endpoint port and Wireguard Addresses from a `Mullvad` wireguard config file.
 
-  ![Mullvad Config File](img/Gluetun-VPN4.png)
+  ![Mullvad Config File](./img/Gluetun-VPN4.png)
 
 - You can generate a new config file from the `Mullvad` website, here is the [Mullvad Config Generator](https://mullvad.net/en/account/#/wireguard-config/)
 
@@ -48,7 +48,7 @@ Now we can enter the Env Vars
 
 - Install app as per usual and scroll down the to the `Addons` section, click `Add` for each new environment variable
 
-  ![WG ENV Vars 1](img/Gluetun-VPN5.png)
+  ![WG ENV Vars 1](./img/Gluetun-VPN5.png)
 
 - Enable the killswitch by ticking `Enable Killswitch` box
 - Click `Add` for every subnet you would like to exclude from the VPN tunnel. I have added my local subnet.
@@ -63,32 +63,32 @@ The Killswitch entry uses the Network ID and CIDR. Please note the example above
 
 - VPN Config File Location is not necessary, we will be using environment variables instead, so leave it blank
 
-  ![WG ENV Vars 2](img/Gluetun-VPN6.png)
+  ![WG ENV Vars 2](./img/Gluetun-VPN6.png)
 
 - `VPN_TYPE` is `wireguard`
 - `VPN_SERVICE_PROVIDER` is `mullvad` in my case
 
-  ![WG ENV Vars 3](img/Gluetun-VPN7.png)
+  ![WG ENV Vars 3](./img/Gluetun-VPN7.png)
 
 - `WIREGUARD_PRIVATE_KEY` is the private key from the `Mullvad` config file above
 - `FIREWALL_VPN_INPUT_PORTS` is the _port forward_ port.
 - `WIREGUARD_ADDRESSES` is the `Mullvad` endpoint IP address, found in the `Mullvad` config file above
 
-  ![WG ENV Vars 4](img/Gluetun-VPN8.png)
+  ![WG ENV Vars 4](./img/Gluetun-VPN8.png)
 
 - `SERVER_CITIES` is the `Mullvad` server city, it should likely be in from the same city your config file is from, and should share the same city as your forwarded port.
   In my case, I am using the `Toronto` server city, and my forwarded port is from `Toronto`.
 - `VPN_ENDPOINT_PORT` is the `Mullvad` endpoint port, found in the `Mullvad` config file above
 - Basically same as above but needs the `VPN_TYPE` switched to `wireguard`, `WIREGUARD_PRIVATE_KEY` and `WIREGUARD_ADDRESSES`
 
-  ![VPN Gluetun 4](img/Gluetun-VPN4.png)
+  ![VPN Gluetun 4](./img/Gluetun-VPN4.png)
 
 ## Verify it works
 
 Easiest way to verify after it deploys (the app will fail if your credentials don't work) for me is using `qbittorrent` since the network page shows the interfaces
 can be shown quickly (or check the logs), the interface will be `tun0`.
 
-![VPN Gluetun 3](img/Gluetun-VPN3.png)
+![VPN Gluetun 3](./img/Gluetun-VPN3.png)
 
 ## Additional Gluetun Options
 
@@ -101,7 +101,7 @@ Gluetun offers HTTP (and Shadowsocks) proxy support. This is useful in scenarios
 - `HTTPPROXY`: `on`
 - `HTTPPROXY_LOG`: `on` (optional, but useful to verify initial setup)
 
-![VPN Gluetun Proxy Env Var](img/Gluetun-Proxy1.png)
+![VPN Gluetun Proxy Env Var](./img/Gluetun-Proxy1.png)
 
 Gluetun's default HTTP proxy port is `8888`. If you wish to change the port, then change it by adding the `HTTPPROXY_LISTENING_ADDRESS` environment variable.
 
@@ -122,7 +122,7 @@ On the same app where you configured the Gluetun VPN addon proxy environment var
    - Target and Container Port: `8888` (Gluetun default for HTTP proxy)
 3. Click Save
 
-![VPN Gluetun Proxy Manual Custom Service](img/Gluetun-Proxy2.png)
+![VPN Gluetun Proxy Manual Custom Service](./img/Gluetun-Proxy2.png)
 
 #### Step 3: Determine the proxy internal DNS name
 
@@ -144,7 +144,7 @@ If your app is named something different, you can look it up using
    - Username & Password: leave blank (unless you added those env variables).
    - Click Test to confirm connection, then Save.
 
-![VPN Gluetun Proxy Prowlarr Config](img/Gluetun-Proxy3.png)
+![VPN Gluetun Proxy Prowlarr Config](./img/Gluetun-Proxy3.png)
 
 If you added a `proxy` tag, make sure to also add that to the desired Indexers, under `Indexers -> Edit Indexer -> Tags`.
 
@@ -156,7 +156,7 @@ If your provider isn't supported by `Gluetun` then you can use a [custom provide
 
 - Note: use `/gluetun/vpn.conf` for `OPENVPN_CUSTOM_CONFIG` and not the path specified inside the `VPN config file location` above
 
-![Custom Provider Example](img/CustomVPNprovider.png)
+![Custom Provider Example(./img/CustomVPNprovider.png)
 
 ## Troubleshooting
 
@@ -166,8 +166,8 @@ To access the Gluetun logs do the following.
 
 2. In the Workloads pane on the right, click the "View Logs" icon (see image)
 
-![Gluteun VPN Log](img/Gluetun-vpn-log-icon.png)
+![Gluteun VPN Log(./img/Gluetun-vpn-log-icon.png)
 
 3. In the Containers dropdown select the log that ends with "-vpn".
 
-![Gluteun VPN Log](img/Gluetun-vpn-log.png)
+![Gluteun VPN Log(./img/Gluetun-vpn-log.png)

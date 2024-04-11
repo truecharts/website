@@ -13,6 +13,6 @@ Now Traefik will serve the TrueNAS Web GUI over HTTPS on truenas.example.com. En
 
 To check if you setup everything correctly, compare your settings to the settings in this screenshot:
 
-![Screenshot with External Service settings overview](img/truenas-web-gui-via-traefik-screenshot.png)
+![Screenshot with External Service settings overview](./img/truenas-web-gui-via-traefik-screenshot.png)
 
 Once your External Service is deployed, you can get this overview by choosing "Edit" from the External Service menu (three dots).

@@ -59,8 +59,8 @@ One could create a normal recursive(!) replication of the `ix-volumes` dataset u
 
 To do so, setup the following replication task:
 
-![rep2](img/Replication2.png)
-![rep3](img/Replication3.png)
+![rep2](./img/Replication2.png)
+![rep3](./img/Replication3.png)
 
 ```bash
 ix-applications-backup-HeavyScript_%Y_%m_%d_%H_%M_%S
@@ -77,15 +77,15 @@ However this is not part of this guide and we will assume you've done so yoursel
 
 To make which backups are present, one can use `HeavyScript` command and select the 3rd option.
 
-![HeavyScript-Main](img/HeavyScript-Main.png)
+![HeavyScript-Main](./img/HeavyScript-Main.png)
 
 Which results in
 
-![HeavyScript-Backup](img/HeavyScript-Backup.png)
+![HeavyScript-Backup](./img/HeavyScript-Backup.png)
 
 To list which backups are present select the 3rd option to get a list of backups.
 
-![HeavyScript-RestoreList](img/HeavyScript-Restore-List.png)
+![HeavyScript-RestoreList](./img/HeavyScript-Restore-List.png)
 
 ## Restore
 
@@ -111,7 +111,7 @@ To revert an existing system, the process is as follows:
 
 3. Choose Backup and answer the prompt
 
-![TrueTool-RestoreList](img/HeavyScript-Restore-List.png)
+![TrueTool-RestoreList](./img/HeavyScript-Restore-List.png)
 
 Please keep in mind this can take a LONG time, so be sure to wait a few hours before touching the system again.
 When done, a reboot might be adviseable

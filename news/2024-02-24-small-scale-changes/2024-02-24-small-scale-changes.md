@@ -22,7 +22,7 @@ One of the reasons why we've decided to do this, is the fact that the language u
 
 In short, this means you will have to specify the number of GPU's to assign to an App under `Resources and Devices` and then the `Resource Limits` section, with your specific GPU type (either AMD, NVIDIA or Intel) as below:
 
-![GPU](img/image.png)
+![GPU](./img/image.png)
 
 From an end-user perspective, the option has just moved to a slightly different place and instead of a drop-down you'll have to enter a number of GPU's to assign, `1` in most cases.
 
@@ -30,7 +30,7 @@ From an end-user perspective, the option has just moved to a slightly different 
 
 To make it easier to migrate to DragonFish, all users are adviced to set any-and-all references to "StorageClass" to `SCALE-ZFS` for any existing charts/apps. This option is found under the `Storage and Persistence` section as below:
 
-![SCALE-ZFS](img/image2.png)
+![SCALE-ZFS](./img/image2.png)
 
 This ensures those charts/apps stay working after migrating to TrueNAS SCALE DragonFish in the future.
 
