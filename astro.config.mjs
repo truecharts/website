@@ -70,13 +70,13 @@ export default defineConfig({
             directory: "reference",
           },
         },
-        {
-          label: "Charts",
-          collapsed: true,
-          autogenerate: {
-            directory: "charts",
-          },
-        },
+        // {
+        //   label: "Charts",
+        //   collapsed: true,
+        //   autogenerate: {
+        //     directory: "charts",
+        //   },
+        // },
       ],
     }),
     sitemap(),
