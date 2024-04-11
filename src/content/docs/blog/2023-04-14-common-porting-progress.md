@@ -39,10 +39,10 @@ Users can expect a Discord alternative either end of 2023 or somewhere in 2024.
 
 **Verbal Abuse**
 
-A much less okey subject is the fact multiple of our staff members have suffered verbal abuse of varying degrees. Some have even led to cases where platform (reddit, discord etc.) needed to step in to take action.
+A much less okay subject is the fact multiple of our staff members have suffered verbal abuse of varying degrees. Some have even led to cases where platform (reddit, discord etc.) needed to step in to take action.
 While sometimes a staff response might seem a tad blunt or not to your liking, some of the things we've seen are completely and utterly unacceptable. We've a head moderator, JagrBombs if you've _any_ issue with a staff member.
 
-We've taken steps to prevent needlessly exposing our staff to this. One of which is limiting our presence within certain communitie on an as-needed basis.
+We've taken steps to prevent needlessly exposing our staff to this. One of which is limiting our presence within certain communities on an as-needed basis.
 
 **Conclusion**
 
@@ -50,7 +50,7 @@ In the end we've gotten a lot of feedback on the new release. Understandably man
 It's important to note, that users on SCALE cannot update via the update button in almost all cases, so users do _not_ have to worry about magically losing data by using the update button for this release.
 
 Another topic we've seen mentioned was "but they say they are production ready", we want to be completely clear about this:
-TrueCharts is not production ready at this time. In the future, after a seperate announcement, _only_ our "Enterprise" train will be considered "production ready".
+TrueCharts is not production ready at this time. In the future, after a separate announcement, _only_ our "Enterprise" train will be considered "production ready".
 We want to highlight that this does not mean "stable" users can expect these breaking changes more often, as we don't plan to put another 700+ hours into the common chart any time soon. But it does mean, users should **NEVER** depend on our stable train for production, unless they do so on their own risk.
 
 We wish all our users the best in going through these migrations and our support staff is available on Discord if you need any help.

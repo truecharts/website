@@ -12,7 +12,7 @@ Check it out here: https://truecharts.org/charts/description_list
 At the same time, we've decided to remove/hide the list with default ports and paths.
 We feel that, in due time, this info should be added to our documentation on a per-application basis, on top of that it often lead to confusion as things like ports are not always as simple as they look in a spreadsheet.
 
-As a sidenote, we want to highlight the fact TrueTool is not developed anymore and the repository removed. We want to advice everyone to support @heavyBullets and use HeavyScript instead:
+As a side-note, we want to highlight the fact TrueTool is not developed anymore and the repository removed. We want to advice everyone to support @heavyBullets and use HeavyScript instead:
 https://github.com/Heavybullets8/heavy_script
 
 HeavyScript is now also featuring special fixes, to ensure TrueCharts SCALE Apps can be stopped if they cannot be stopped in the GUI.
