@@ -14,4 +14,4 @@ Don't forget to check out the [Homepage project site](https://gethomepage.dev).
 
 Here's a small example showcasing a mix of manually defined options and TrueCharts integration features for Homepage:
 
-![Homepage](img/image.png)
+![Homepage](./img/image.png)

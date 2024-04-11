@@ -40,7 +40,7 @@ It supports more forms of certificates, is faster to setup and is build by peopl
 
 Later this month, we'll release some guides for setting it up, but here's some screenshots:
 
-![Cert-Manager App](img/cert-manager.png)
+![Cert-Manager App](./img/cert-manager.png)
 
 ### Configurable Cloud Native Postgresql
 
@@ -52,7 +52,7 @@ They write code to ensure things like: updates, upscaling, downscaling and deplo
 The upside to this is that we can be certain your database deployments are designed by people that are specialised in the database you want to have deployed. It limits your risk of dataloss and our work of maintaining it.
 Simply put, your database deployments should be managed by a specialist in databases, not by NAS or Helm-Charts developers.
 
-![Postgresql Settings](img/postgresql.png)
+![Postgresql Settings](./img/postgresql.png)
 
 ## Enterprise Train and breaking changes
 

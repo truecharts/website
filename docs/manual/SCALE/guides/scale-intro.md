@@ -40,16 +40,16 @@ To add a new TrueCharts app to your SCALE installation:
 
 1. Click **Apps** from the SCALE menu
 
-![Apps](img/Apps.png)
+![Apps](./img/Apps.png)
 
 2. Go to **Discover Apps** at the top-right of the Apps page
 
-![Discover Apps](img/Apps2.png)
+![Discover Apps](./img/Apps2.png)
 
 
 3. Find the app you wish to install using the search bar (or by scrolling through the catalog), e.g. Homarr, and click the **Install** button.
 
-![Adding App](img/Apps6.png)
+![Adding App](./img/Apps6.png)
 
 4. [Configure your app](https://truecharts.org/manual/SCALE/options/) for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**.
    **[Application Name:](https://truecharts.org/manual/SCALE/options/application-name/)** Configure a custom name for your app and select a version to install.  
@@ -61,7 +61,7 @@ To add a new TrueCharts app to your SCALE installation:
    **Other Options:** You can also configure GPU support, addons (such as adding a CodeServer for easy file editing), and advanced app settings.
 5. Once you've finished configuring your app, click **Install** to start the deployment process.
 
-![Installing App](img/Apps7.png)
+![Installing App](./img/Apps7.png)
 
 Give your app a few minutes to deploy. You can check its status in the SCALE task manager at the top right of your GUI.
 

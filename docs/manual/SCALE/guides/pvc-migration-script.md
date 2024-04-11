@@ -84,14 +84,14 @@ bash migrate.sh
 
         a. Choose Application (for example `filebrowser`)
 
-    ![Copy Config](img/Copy-App-Config.png)
+    ![Copy Config](./img/Copy-App-Config.png)
 
         b. Once that's done press `x` and continue to the next screen and install the new Application
 
-    ![New App Install](img/New-App-Config.png)
+    ![New App Install](./img/New-App-Config.png)
 
         c. Watch the app finish
-        ![New App Finish](img/New-App-Finish.png)
+        ![New App Finish](./img/New-App-Finish.png)
 
 4.  Enjoy new app
 

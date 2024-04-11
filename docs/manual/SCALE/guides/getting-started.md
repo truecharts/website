@@ -33,19 +33,19 @@ To add TrueCharts to your SCALE installation:
 
 1.  Go to the **Apps** page from the top level SCALE menu
 
-![Apps](img/Apps.png)
+![Apps](./img/Apps.png)
 
 2.  Click the **Discover Apps** button on the Apps page
 
-![Discover Apps](img/Apps2.png)
+![Discover Apps](./img/Apps2.png)
 
 3.  Click the **Manage Catalogs** link on the Discover Apps page
 
-![Manage Catalogs](img/Apps3.png)
+![Manage Catalogs](./img/Apps3.png)
 
 4.  Click **Add Catalog**
 
-![Add Catalog](img/Apps4.png)
+![Add Catalog](./img/Apps4.png)
 
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
 - Name: `truecharts`
@@ -53,7 +53,7 @@ To add TrueCharts to your SCALE installation:
 - Preferred Trains: `premium`,`stable` and `system` (type each one manually)
 - Branch: `main`
 
-![Catalog Info](img/Apps5.png)
+![Catalog Info](./img/Apps5.png)
 
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
@@ -109,13 +109,13 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 ## MetalLB installation and disabling integrated LoadBalancer
 
-![metallb](img/icons/metallb.png)
+![metallb](./img/icons/metallb.png)
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](https://truecharts.org/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info.
 
 ## Prometheus and CNPG system app installations
 
-![Prometheus](img/icons/prometheus-operator.png) ![CNPG](img/icons/cnpg.png)
+![Prometheus](./img/icons/prometheus-operator.png) ![CNPG](./img/icons/cnpg.png)
 
 Many of the popular TrueCharts apps for TrueNAS SCALE rely on `Prometheus Operator` and `Cloudnative-PG Operator` to be installed **PRIOR** to installing another app that may rely on functionality these operators provide. If you're unsure if you're using any TrueCharts apps that require Prometheus or CNPG functionality, we advise you install these system apps first anyway before attempting to then install any other apps.
 
@@ -127,7 +127,7 @@ For new users just starting out with TrueNAS SCALE, simply **first** install `Pr
 
 ## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
 
-![Traefik](img/icons/traefik.png)
+![Traefik](./img/icons/traefik.png)
 
 `Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](https://truecharts.org/charts/premium/traefik/how-to) for basic instructions and a video as well.
 
@@ -135,7 +135,7 @@ An optional but extra function enabled by Traefik and supported by many Truechar
 
 ## Cert-Manager (operator) and Clusterissuer installation for certificate management
 
-![Cert-Manager](img/icons/cert-manager.png)
+![Cert-Manager](./img/icons/cert-manager.png)
 
 TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is deprecated and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](https://truecharts.org/charts/premium/clusterissuer/how-to) before adding `Ingress` to your applications.
 
@@ -154,13 +154,13 @@ TrueCharts only supports the usage of `Cert-Manager` (both the operator portion 
 
 ## Blocky DNS provider for split-DNS installation and guide
 
-![Blocky](img/icons/blocky.png)
+![Blocky(./img/icons/blocky.png)
 
 Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [Blocky Setup-Guide](https://truecharts.org/charts/premium/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
 ## Authelia Installation
 
-![Authelia](img/icons/authelia.png)
+![Authelia](./img/icons/authelia.png)
 
 Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the preferred solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up Authelia, along with LLDAP as a backend for Authelia and setting up the `forwardAuth` section of Traefik to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](https://truecharts.org/charts/premium/authelia/Setup-Guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very strong password in your previous steps.
 
