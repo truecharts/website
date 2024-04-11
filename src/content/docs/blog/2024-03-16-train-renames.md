@@ -10,7 +10,7 @@ We're back with some thrilling announcements that promise to enhance your experi
 ## Train Name Refresh: Introducing Premium and System Trains
 
 First off, we're thrilled to introduce our revamped train names: Premium Train and System Train. Say goodbye to the old names; these new labels better align with the quality and breadth of resources you'll find within.
-You'll find both an automated script _and_ a one-by-one version to deal with this name change for you, for both SCALE and Helm platforms, at the [bottom](https://truecharts.org/news#note-automated-migration-script-for-train-name-changes) of this article.
+You'll find both an automated script _and_ a one-by-one version to deal with this name change for you, for both SCALE and Helm platforms, at the [bottom](#note-automated-migration-script-for-train-name-changes) of this article.
 
 ### Enterprise out, Premium in
 
