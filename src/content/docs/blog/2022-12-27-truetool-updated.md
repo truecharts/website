@@ -9,7 +9,7 @@ We are excited to announce that we have completely reworked our "TrueTool" tool 
 
 For those unfamiliar with TrueTool, it is a tool that helps users with bulk-updating of Apps and provides easy access to "hidden" features of TrueNAS SCALE, such as enabling "apt" and "helm" commands.
 
-With the latest update, TrueTool now contains multiple hotpatches that fix migration and backup issues on TrueNAS SCALE 22.12 "bluefin". It also includes improvements for slower systems with lots of Apps, as well as the removal of colors that were not looking nice in email output.
+With the latest update, TrueTool now contains multiple hot-patches that fix migration and backup issues on TrueNAS SCALE 22.12 "bluefin". It also includes improvements for slower systems with lots of Apps, as well as the removal of colors that were not looking nice in email output.
 
 Many of these changes were made possible thanks to the HeavyScript project, which was started by former staff member "HeavyBullets" in 2022. The HeavyScript project has made numerous improvements to the original (then python-based) TrueTool code, and we have made sure to port as many of these changes back to TrueTool to ensure that all of our users can benefit from them.
 

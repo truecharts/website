@@ -1,6 +1,6 @@
 ---
 slug: "blog/staff-changes-feb-2023"
-title: "Februari 2023 Staff Changes"
+title: "February 2023 Staff Changes"
 authors: [ornias]
 date: 2023-02-08
 ---

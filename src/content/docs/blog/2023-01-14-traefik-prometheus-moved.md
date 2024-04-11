@@ -1,5 +1,5 @@
 ---
-slug: "blog/traefk-prometheus-moved"
+slug: "blog/traefik-prometheus-moved"
 title: "Traefik, Prometheus and Grafana moved to Enterprise Train"
 authors: [ornias]
 date: 2023-01-14
