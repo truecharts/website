@@ -2,7 +2,7 @@
 title: humhub
 ---
 
-![Version: 7.19.7](https://img.shields.io/badge/Version-7.19.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.15.4](https://img.shields.io/badge/AppVersion-1.15.4-informational?style=flat-square)
+![Version: 7.19.8](https://img.shields.io/badge/Version-7.19.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.15.4](https://img.shields.io/badge/AppVersion-1.15.4-informational?style=flat-square)
 
 A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 
