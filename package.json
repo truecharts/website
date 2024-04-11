@@ -3,10 +3,11 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
+    "dev": "export NODE_OPTIONS=--max-old-space-size=15360 && astro dev",
+    "dev-windows": "set NODE_OPTIONS=--max-old-space-size=15360 & astro dev",
+    "start": "export NODE_OPTIONS=--max-old-space-size=15360 && astro dev",
     "check": "astro check",
-    "build": "astro build",
+    "build": "export NODE_OPTIONS=--max-old-space-size=15360 && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -16,6 +17,8 @@
     "@astrojs/starlight": "0.21.5",
     "astro": "4.5.18",
     "sharp": "0.33.3",
+    "starlight-blog": "0.5.1",
+    "starlight-image-zoom": "0.2.0",
     "starlight-links-validator": "0.7.1",
     "typescript": "5.4.4"
   }
