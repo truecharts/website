@@ -1,7 +1,14 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+// https://github.com/HiDeoo/starlight-links-validator
 import starlightLinksValidator from "starlight-links-validator";
+// https://github.com/HiDeoo/starlight-image-zoom
+import starlightImageZoom from "starlight-image-zoom";
+// https://github.com/HiDeoo/starlight-blog
+import starlightBlog from "starlight-blog";
 import sitemap from "@astrojs/sitemap";
+// Configure global authors here
+import { authors } from "./src/content/docs/blog/authors";
 
 // https://astro.build/config
 export default defineConfig({
@@ -13,13 +20,14 @@ export default defineConfig({
   trailingSlash: "ignore",
   compressHTML: true,
   prefetch: true,
+  output: "static",
   build: {
     output: "directory",
   },
   experimental: {
     // TODO: Enable this after bug is fixed
     //  https://github.com/withastro/astro/issues/9353
-    contentCollectionCache: false,
+    contentCollectionCache: true,
   },
   integrations: [
     starlight({
@@ -32,10 +40,17 @@ export default defineConfig({
         baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
       },
       lastUpdated: true,
-      pagefind: false,
+      pagefind: true,
       plugins: [
+        starlightBlog({
+          title: "TrueCharts News",
+          postCount: 5,
+          recentPostCount: 25,
+          authors: authors,
+        }),
+        // starlightImageZoom(),
         starlightLinksValidator({
-          errorOnRelativeLinks: false,
+          errorOnRelativeLinks: true,
         }),
       ],
       sidebar: [
@@ -53,6 +68,13 @@ export default defineConfig({
           label: "Reference",
           autogenerate: {
             directory: "reference",
+          },
+        },
+        {
+          label: "Charts",
+          collapsed: true,
+          autogenerate: {
+            directory: "charts",
           },
         },
       ],
