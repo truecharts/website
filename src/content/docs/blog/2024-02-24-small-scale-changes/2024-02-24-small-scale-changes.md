@@ -1,8 +1,7 @@
 ---
-slug: "blog/small-scale-changes"
+slug: "small-scale-changes"
 title: "Small SCALE Changes"
 authors: [ornias]
-date: 2024-02-24
 ---
 
 There have been some minor changes to how some things are done on SCALE.
@@ -29,7 +28,7 @@ From an end-user perspective, the option has just moved to a slightly different 
 
 ## Pre-DragonFish Storage
 
-To make it easier to migrate to DragonFish, all users are advised to set any-and-all references to "StorageClass" to `SCALE-ZFS` for any existing charts/apps. This option is found under the `Storage and Persistence` section as below:
+To make it easier to migrate to DragonFish, all users are adviced to set any-and-all references to "StorageClass" to `SCALE-ZFS` for any existing charts/apps. This option is found under the `Storage and Persistence` section as below:
 
 ![SCALE-ZFS](./img/image2.png)
 

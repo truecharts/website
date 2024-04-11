@@ -1,8 +1,7 @@
 ---
-slug: "blog/january-2024-changes-preview"
+slug: "january-2024-changes-preview"
 title: "Exciting Changes on the Horizon in January!"
 authors: [jagrbombs]
-date: 2023-12-09
 ---
 
 As we bid farewell to 2023, we're thrilled to share a sneak peek into the future of TrueCharts. January 2024 will mark a significant milestone for us as we unveil a host of groundbreaking changes and new features that will elevate your experience with our charts.

@@ -1,10 +1,7 @@
 ---
-slug: "blog/introducing-tccr"
+slug: "introducing-tccr"
 title: "Introducing: TrueCharts Container Repository"
 authors: [ornias]
-date: 2022-01-24
-tags:
-  - registry
 ---
 
 The last year we’ve grown at an ever-increasing pace, doubling code and users every few months. Some issues could be fixed quickly and easily, while other issues were vastly more complex. One of those issues happened to be the convoluted mess of different container sources.

@@ -1,8 +1,7 @@
 ---
-slug: "blog/train-renames"
+slug: "train-renames"
 title: "Refreshed Train Names, Team Changes and DragonFish Support"
 authors: [ornias]
-date: 2024-03-16
 ---
 
 We're back with some thrilling announcements that promise to enhance your experience with our platform. From revamped train names to key team appointments and even experimental support for TrueNAS SCALE 24.04 DragonFish, there's a lot to unpack. Let's dive right in!
@@ -10,7 +9,7 @@ We're back with some thrilling announcements that promise to enhance your experi
 ## Train Name Refresh: Introducing Premium and System Trains
 
 First off, we're thrilled to introduce our revamped train names: Premium Train and System Train. Say goodbye to the old names; these new labels better align with the quality and breadth of resources you'll find within.
-You'll find both an automated script _and_ a one-by-one version to deal with this name change for you, for both SCALE and Helm platforms, at the [bottom](#note-automated-migration-script-for-train-name-changes) of this article.
+You'll find both an automated script *and* a one-by-one version to deal with this name change for you, for both SCALE and Helm platforms, at the [bottom](https://truecharts.org/news#note-automated-migration-script-for-train-name-changes) of this article.
 
 ### Enterprise out, Premium in
 
@@ -19,6 +18,7 @@ This change reflects the fact that this train no longer specifically targets ent
 ### Hello, Operator? No, this is System
 
 This name change reflects this train no longer just containing operators, but now also includes additional important system charts.
+
 
 ## Meet Our New Team Appointments
 
@@ -45,10 +45,10 @@ We're thrilled to share that our new bounty program has been incredibly successf
 While our bounty program has seen fantastic results, it's important to note that bounties do not replace donations. Our project relies on the continued support of our loyal donors to thrive. If you'd like to contribute to our cause, consider making a donation via our Open Collective page: [Donate to TrueCharts](https://opencollective.com/truecharts).
 
 ## Conclusion
-
 With these updates and additions, we're committed to providing you with an unparalleled experience on our platform. As always, your feedback is invaluable to us. Reach out with any questions or suggestions, and stay tuned for more exciting developments!
 
 Thank you for being part of the TrueCharts community.
+
 
 ## Note: Automated Migration Script for train name changes
 
@@ -57,7 +57,7 @@ Please be aware we do not give guarantees and this script may need adapting to y
 
 ### Helm Platform - Automated Migration Script
 
-_save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it_
+*save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it*
 
 ```bash
 #!/bin/bash
@@ -81,7 +81,7 @@ done
 
 ### SCALE Platform - Automated Migration Script
 
-_save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it_
+*save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it*
 
 ```bash
 #!/bin/bash
@@ -105,7 +105,7 @@ done
 
 ### Manual Migration Script
 
-_Use this script to manually migrate your existing SCALE apps to the new trains. Replace `blocky` with the app name in question and `premium` with the new train-name_.
+*Use this script to manually migrate your existing SCALE apps to the new trains. Replace `blocky` with the app name in question and `premium` with the new train-name*.
 
 ```bash
 k3s kubectl patch ns ix-blocky -p '{"metadata":{"labels":{"catalog_train":"premium"}}}'

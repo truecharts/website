@@ -1,19 +1,18 @@
 ---
-slug: "blog/2023-holiday-wishes-and-updates"
+slug: "2023-holiday-wishes-and-updates"
 title: "🎄 Merry Christmas / Happy Holidays from TrueCharts! 🎄"
 authors: [jagrbombs]
-date: 2023-12-19
 ---
 
 As the holiday season sparkles around us, we at [TrueCharts](https://truecharts.org) want to extend our warmest wishes for a Merry Christmas to our incredible community. This year has been a remarkable journey, and we couldn't have done it without you!
 
 ## 🚀 Major Milestone Achieved! 🚀
 
-We're thrilled to announce that we've successfully transitioned hundreds of our Charts from incubator to stable! This massive endeavor includes dozens of game servers, ensuring more stability and fun for everyone.
+We're thrilled to announce that we've successfully transitioned hundreds of our Charts from incubator to stable! This massive endeavor includes dozens of gameservers, ensuring more stability and fun for everyone.
 
 ## 🎮 Game On! 🎮
 
-To all the gaming enthusiasts, get ready for enhanced gaming experiences with our latest and more robust game server offerings.
+To all the gaming enthusiasts, get ready for enhanced gaming experiences with our latest and more robust gameserver offerings.
 
 ## 🙏 Support Our Journey 🙏
 

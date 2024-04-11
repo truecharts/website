@@ -1,8 +1,7 @@
 ---
-slug: "blog/homepage-integration"
+slug: "homepage-integration"
 title: "Introducing Homepage Integration"
 authors: [shadofall]
-date: 2023-12-25
 ---
 
 We are delighted to announce the successful integration of Homepage into our charts.

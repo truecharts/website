@@ -1,8 +1,7 @@
 ---
-slug: "blog/updates-recontinued"
+slug: "updates-recontinued"
 title: "Updates recontinued, common-migration mostly done"
 authors: [ornias]
-date: 2023-05-01
 ---
 
 We're glad to finally announce the end of our code-freeze. Since a few days we've re-enabled our automatic updates and within a few weeks everything should balance out again automatically!
@@ -20,7 +19,7 @@ The Stop button should **not** be used on any TrueNAS SCALE Apps that uses postg
 
 2. PostgreSQL breaking on reboot
 
-We've seen some edge cases where the new database backend breaks after a reboot. Often after the STOP button was used, though we cannot trace the issue down back to the use of the stop button itself.
+We've seen some edgecases where the new database backend breaks after a reboot. Often after the STOP button was used, though we cannot trace the issue down back to the use of the stop button itself.
 These issues are reported to the folks over at CNPG and we've also thrown them an email to discuss whether we can fund them to fix these issues.
 
 3. hostNetworking changes

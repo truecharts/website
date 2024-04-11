@@ -1,8 +1,7 @@
 ---
-slug: "blog/docker-compose"
+slug: "docker-compose"
 title: "Docker-Compose on TrueNAS SCALE using TrueCharts"
 authors: [ornias]
-date: 2022-03-06
 ---
 
 From the early stages of TrueNAS SCALE development, we’ve read many complaints about the fact docker-compose wasn’t supported by TrueNAS SCALE. It’s understandable, as it’s one of the most used docker deployment options for home users.
@@ -17,7 +16,7 @@ The TrueNAS SCALE community has figured out interesting ways to enable Docker-Co
 
 To solve this problem, we’ve decided to take matters into our own hands. We are glad to finally announce our solution:
 
-#### Docker-Compose Application for TrueNAS SCALE by TrueCharts
+**Docker-Compose Application for TrueNAS SCALE by TrueCharts**
 
 It’s designed from the ground up, to give users nearly the same experience as running Docker-Compose on the host system, and even contains some nice tweaks:
 

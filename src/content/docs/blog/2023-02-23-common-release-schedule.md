@@ -1,8 +1,7 @@
 ---
-slug: "blog/common-release-schedule"
+slug: "common-release-schedule"
 title: "New breaking common release"
 authors: [ornias]
-date: 2023-02-23
 ---
 
 One of the core components of TrueCharts is our "common" chart, which serves as the basis on which all other charts are built.
@@ -38,10 +37,10 @@ A short example of some of the many improvements in the new common chart:
 - A new VPN addon based on "Gluetun", which offers much more support for OpenVPN and Wireguard and is an actually maintained project (security etc.) It will replace the old "OpenVPN" and "WireGuard" options.
 - The option to (also) mount a config folder instead of just a configfile for OpenVPN.
 - The option to mount OpenVPN config directly in values.yaml, for native helm users
-- An All-New Postgresql backend based on "CloudNative-PG", supporting things like: Backup, High-Availability, Connection Pooling, Split RW/RO
+- An All-New Postgresql backend based on "CloudNative-PG", supporting things like: Backup, High-Availablity, Connection Pooling, Split RW/RO
 - Multi-Pod support, including potential future GUI compatibility.
 - Automatic detection for Env-var conflicts, if user entered custom env-vars conflict with pre-defined ones
-- Build-in support for Jobs and CronJobs, without customizations on a per-app basis.
+- Build-in support for Jobs and CronJobs, without customisations on a per-app basis.
 - A completely new certificate backend based on the industry standard "Cert-Manager".
 - Much more hardening of defaults, based on (now automated and required) security scans backed by Datree
-- Much expanded testing suite, counting hundreds of tests for thousands of features
+- Much expanded testing suite, counting hunderds of tests for thousands of features

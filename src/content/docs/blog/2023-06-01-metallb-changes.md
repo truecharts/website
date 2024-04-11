@@ -1,8 +1,7 @@
 ---
-slug: "blog/metallb-changes"
+slug: "metallb-changes"
 title: "New MetalLB chart and our own operator charts."
 authors: [ornias]
-date: 2023-06-01
 ---
 
 **Introdocution: Our own Operator Charts**
@@ -14,7 +13,7 @@ While this system guaranteed users where always running the latest operator vers
 - Loading manifests required a pre-install job, with full-cluster permissions. Which is also a security issue.
 - Mistakes in the manifests, directly affect all users regardless of version
 - It requires creating namespaces outside of the `ix-something` style, while not an issue that's something _somehow_ iX developers voiced annoyance with.
-- It lacks any configurability for users that need a customization
+- It lacks any configurability for users that need a customisation
 - It prevents users from using these operators outside of the TrueCharts scope on non-scale systems
 
 To fix all of these issues, we've had quite the challenge. First off we needed to figure out a way of preventing users from installing multiple instances of the same operator.
@@ -28,10 +27,10 @@ Luckily we've enough experienced Kubernetes developers that we're certain to pul
 **First chart: MetalLB**
 
 As a first example of our new logic, we're super happy to introduce our first self-build operator helm chart: MetalLB.
-It will be completely self-contained within it's own namespace, not load dynamic manifests from the web and doesn't contain risky security practices.
+It will be completely self-contained within it's own namespace, not load dyanamic manifests from the web and doesn't contain risky security practices.
 
 Obviously this chart, in the `operators` train, has a naming conflict with the old `metallb` chart in the `enterprise` train, so the later has been renamed to `metallb-config` requiring a reinstall.
-We want to point out that only the new `metallb-config` chart is compatible with the new self-build `metallb` operator.
+We want to point out that only the new `metallb-config` chart is compatbile with the new self-build `metallb` operator.
 
 We are very happy to also announce that the `metallb-config` chart, is fully compatible with our old **and** new ways of installing/managing metallb.
 However, new installs of the old way of handling metallb (without the chart from the `operators` train), will be actively disabled from now on.
