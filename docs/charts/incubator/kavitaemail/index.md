@@ -6,7 +6,6 @@ Simple email relay server for kavita.
 
 ## Chart Sources
 
-- https://truecharts.org/charts/incubator/kavitaemail
 - https://github.com/Kareadita/KavitaEmail
 - https://github.com/truecharts/charts/tree/master/charts/incubator/kavitaemail
 - https://github.com/truecharts/containers/tree/master/mirrorkavitaemail
