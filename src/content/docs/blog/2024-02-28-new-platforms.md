@@ -2,11 +2,12 @@
 slug: "blog/embrace-kubeapps"
 title: "Embrace KubeApps, Rancher, and FluxCD! 🚀"
 authors: [ornias]
+date: 2024-02-28
 ---
 
 Exciting news! TrueCharts is taking a leap forward by officially adding support for KubeApps, Rancher, and FluxCD to our deployment options. This expansion complements our existing support for Normal "Native" Helm Charts and TrueNAS SCALE Apps, offering you a broader range of choices for seamless application deployment.
 
-## A Quick Recap of the Tiers:
+## A Quick Recap of the Tiers
 
 **Tier 1: Normal "Native" Helm Charts**
 Our versatile foundation! While not the origin, this tier serves as the baseline for Helm Chart functionality. All features work smoothly, and our team, particularly the developers, are well-versed in Helm.
@@ -21,12 +22,15 @@ The third tier introduces TrueNAS SCALE Apps, where a bit more abstraction comes
 Currently we've one planned future addition: ArgoCD.
 But due to technical issues from ArgoCD, we cannot yet support it and it will **not** work reliably yet with TrueCharts Helm Charts either.
 
-## Behind the Expansion:
+## Behind the Expansion
+
 This expansion is about offering you more choices while maintaining the excellence you expect from TrueCharts. It's about enriching your deployment experience with flexibility and reliability.
 
 ## There is more
+
 But there is more, in addition to supporting KubeApps on Normal Kubernetes, we've also released KubeApps as a TrueNAS App.
 Allowing you to install everything in both Bitnami and TrueCharts Repositories, straight onto your TrueNAS Kubernetes system, using KubeApps!
 
 ## What's on the Horizon?
+
 The journey doesn't stop here! Throughout 2024, we're delving deeper into KubeApps, Rancher, and FluxCD. Additionally, we're committed to providing more comprehensive documentation for every Helm Chart and supported platform. Stay tuned for more updates as we continue growing together. 🌐✨

@@ -10,7 +10,7 @@ We're back with some thrilling announcements that promise to enhance your experi
 ## Train Name Refresh: Introducing Premium and System Trains
 
 First off, we're thrilled to introduce our revamped train names: Premium Train and System Train. Say goodbye to the old names; these new labels better align with the quality and breadth of resources you'll find within.
-You'll find both an automated script *and* a one-by-one version to deal with this name change for you, for both SCALE and Helm platforms, at the [bottom](https://truecharts.org/news#note-automated-migration-script-for-train-name-changes) of this article.
+You'll find both an automated script *and* a one-by-one version to deal with this name change for you, for both SCALE and Helm platforms, at the [bottom](#note-automated-migration-script-for-train-name-changes) of this article.
 
 ### Enterprise out, Premium in
 
@@ -45,10 +45,10 @@ We're thrilled to share that our new bounty program has been incredibly successf
 While our bounty program has seen fantastic results, it's important to note that bounties do not replace donations. Our project relies on the continued support of our loyal donors to thrive. If you'd like to contribute to our cause, consider making a donation via our Open Collective page: [Donate to TrueCharts](https://opencollective.com/truecharts).
 
 ## Conclusion
+
 With these updates and additions, we're committed to providing you with an unparalleled experience on our platform. As always, your feedback is invaluable to us. Reach out with any questions or suggestions, and stay tuned for more exciting developments!
 
 Thank you for being part of the TrueCharts community.
-
 
 ## Note: Automated Migration Script for train name changes
 
