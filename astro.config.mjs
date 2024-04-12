@@ -10,9 +10,10 @@ import sitemap from "@astrojs/sitemap";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
 
+const site = "https://test.truecharts.org";
 // https://astro.build/config
 export default defineConfig({
-  site: "https://test.truecharts.org",
+  site: site,
   base: "/",
   output: "static",
   outDir: "build",
@@ -34,7 +35,11 @@ export default defineConfig({
       title: "TrueCharts Charts",
       tagline: "Awesome Helm Charts",
       social: {
-        github: "https://github.com/truecharts/charts",
+        github: new URL("/s/git", site).href,
+        facebook: new URL("/s/fb", site).href,
+        "x.com": new URL("/s/twitter", site).href,
+        discord: new URL("/s/discord", site).href,
+        telegram: new URL("/s/tg", site).href,
       },
       editLink: {
         baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
