@@ -34,6 +34,10 @@ export default defineConfig({
     starlight({
       title: "TrueCharts Charts",
       tagline: "Awesome Helm Charts",
+      logo: {
+        src: './src/assets/with-text.svg',
+        replacesTitle: true,
+      },
       social: {
         github: new URL("/s/git", site).href,
         facebook: new URL("/s/fb", site).href,
@@ -46,6 +50,10 @@ export default defineConfig({
       },
       lastUpdated: true,
       pagefind: true,
+      components: {
+        // Override the default `SocialIcons` component.
+        Header: './src/components/CustomHeader.astro',
+      },
       plugins: [
         starlightBlog({
           title: "TrueCharts News",
