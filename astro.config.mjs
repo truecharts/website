@@ -116,28 +116,33 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Guides",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            {
-              label: "Example Guide",
-              link: "/guides/example/",
-            },
-          ],
-        },
-        {
-          label: "Reference",
+          label: "General",
+          collapsed: false,
           autogenerate: {
-            directory: "reference",
+            directory: "general",
           },
         },
-        // {
-        //   label: "Charts",
-        //   collapsed: true,
-        //   autogenerate: {
-        //     directory: "charts",
-        //   },
-        // },
+        {
+          label: "Platforms",
+          collapsed: true,
+          autogenerate: {
+            directory: "platforms",
+          },
+        },
+        {
+          label: "Development",
+          collapsed: true,
+          autogenerate: {
+            directory: "development",
+          },
+        },
+        {
+          label: "Charts",
+          collapsed: true,
+          autogenerate: {
+            directory: "charts",
+          },
+        },
       ],
     }),
     sitemap(),

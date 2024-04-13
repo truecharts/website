@@ -50,6 +50,7 @@ jobs:
           restore-keys: npm-
 
       - name: Setup node_modules Cache
+        id: modulescache
         uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4
         with:
           # Cache for npm and optimized images.
@@ -62,7 +63,7 @@ jobs:
           node-version-file: .nvmrc
 
       - name: Install Packages
-        if: steps.cache.outputs.cache-hit != 'true'
+        if: steps.modulescache.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: Check
