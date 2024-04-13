@@ -11,7 +11,7 @@ import sitemap from "@astrojs/sitemap";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
 // Use algolia for search
-import starlightDocSearch from '@astrojs/starlight-docsearch';
+import starlightDocSearch from "@astrojs/starlight-docsearch";
 
 const site = "https://test.truecharts.org";
 // https://astro.build/config
@@ -42,23 +42,24 @@ export default defineConfig({
       },
       head: [
         {
-          tag: 'script',
+          tag: "script",
           attrs: {
-            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796',
-            'crossorigin': 'anonymous',
+            src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796",
+            crossorigin: "anonymous",
             defer: true,
           },
         },
         {
-          tag: 'script',
+          tag: "script",
           attrs: {
-            src: 'https://www.googletagmanager.com/gtag/js?id=G-Q9NT692BZZ',
+            src: "https://www.googletagmanager.com/gtag/js?id=G-Q9NT692BZZ",
             defer: true,
           },
         },
         {
-          tag: 'script',
-          content: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q9NT692BZZ');",
+          tag: "script",
+          content:
+            "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q9NT692BZZ');",
         },
       ],
       social: {
@@ -75,14 +76,13 @@ export default defineConfig({
       lastUpdated: true,
       pagefind: true,
       components: {
-        // Override the default `SocialIcons` component.
         Header: "./src/components/CustomHeader.astro",
       },
       plugins: [
         starlightBlog({
           title: "TrueCharts News",
           postCount: 5,
-          recentPostCount: 25,
+          recentPostCount: 10,
           authors: authors,
         }),
         starlightImageZoom(),
@@ -91,58 +91,41 @@ export default defineConfig({
           errorOnFallbackPages: false,
         }),
         starlightDocSearch({
-          appId: 'M5JIEOBD9S',
-          apiKey: '996ff61cece86950829f65416b941711',
-          indexName: 'truecharts',
+          appId: "M5JIEOBD9S",
+          apiKey: "996ff61cece86950829f65416b941711",
+          indexName: "truecharts",
         }),
       ],
       // Set English as the default language for this site.
-      defaultLocale: 'root',
+      defaultLocale: "root",
       locales: {
         // English docs in `src/content/docs/en/`
-        root: {
-          label: 'English',
-          lang: 'en',
-        },
+        root: { label: "English", lang: "en" },
         // Simplified Chinese docs in `src/content/docs/zh-CN/`
-        'cn': {
-          label: '简体中文',
-          lang: 'zh-CN',
-        },
+        cn: { label: "简体中文", lang: "zh-CN" },
         // Russian docs in `src/content/docs/ru/`
-        ru: {
-          label: 'русский',
-          lang: 'ru-RU',
-        },
+        ru: { label: "русский", lang: "ru-RU" },
       },
       sidebar: [
         {
           label: "General",
           collapsed: false,
-          autogenerate: {
-            directory: "general",
-          },
+          autogenerate: { directory: "general" },
         },
         {
           label: "Platforms",
           collapsed: true,
-          autogenerate: {
-            directory: "platforms",
-          },
+          autogenerate: { directory: "platforms" },
         },
         {
           label: "Development",
           collapsed: true,
-          autogenerate: {
-            directory: "development",
-          },
+          autogenerate: { directory: "development" },
         },
         {
           label: "Charts",
           collapsed: true,
-          autogenerate: {
-            directory: "charts",
-          },
+          autogenerate: { directory: "charts" },
         },
       ],
     }),
