@@ -15,3 +15,4 @@ A Tiny Dashboard for Network UPS Tools.
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
+- [**Installation Notes**](./installation-notes.md)
