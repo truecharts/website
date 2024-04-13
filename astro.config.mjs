@@ -43,10 +43,21 @@ export default defineConfig({
         {
           tag: 'script',
           attrs: {
-            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.jsclient=ca-pub-9270569596814796',
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796',
             'crossorigin': 'anonymous',
             defer: true,
           },
+        },
+        {
+          tag: 'script',
+          attrs: {
+            src: 'https://www.googletagmanager.com/gtag/js?id=G-Q9NT692BZZ',
+            defer: true,
+          },
+        },
+        {
+          tag: 'script',
+          content: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q9NT692BZZ');",
         },
       ],
       social: {
