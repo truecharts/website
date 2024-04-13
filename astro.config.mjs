@@ -1,8 +1,9 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import tailwind from "@astrojs/tailwind";
+// TODO: Reenable once chart docs are also merged, due to broken internal links atm
 // https://github.com/HiDeoo/starlight-links-validator
-import starlightLinksValidator from "starlight-links-validator";
+// import starlightLinksValidator from "starlight-links-validator";
 // https://github.com/HiDeoo/starlight-image-zoom
 import starlightImageZoom from "starlight-image-zoom";
 // https://github.com/HiDeoo/starlight-blog
@@ -86,10 +87,11 @@ export default defineConfig({
           authors: authors,
         }),
         starlightImageZoom(),
-        starlightLinksValidator({
-          errorOnRelativeLinks: false,
-          errorOnFallbackPages: false,
-        }),
+        // TODO: Reenable once chart docs are also merged, due to broken internal links atm
+        // starlightLinksValidator({
+        //  errorOnRelativeLinks: false,
+        //  errorOnFallbackPages: false,
+        // }),
         starlightDocSearch({
           appId: "M5JIEOBD9S",
           apiKey: "996ff61cece86950829f65416b941711",
