@@ -16,14 +16,16 @@ const links: Array<Link> = [
 ];
 ---
 
-<div class="flex flex-row gap-5 mx-5 items-center justify-center">
+<div class="flex flex-row gap-5 ml-8 items-center justify-center">
   {
     links.map((link) => (
       <a
-        class="hover:scale-110 flex flex-row items-center gap-1 max-md:gap-0"
+        class="hover:scale-110 flex flex-row items-center gap-1 hover:border-b-4 border-tc-primary transition-all"
         href={link.href}
       >
-        <p class="font-bold text-lg max-md:text-xs">{link.name}</p>
+        <p class="font-bold text-lg max-lg:text-xs max-md:text-xs">
+          {link.name}
+        </p>
         {link.icon && <Icon class="w-5 h-5 max-md:hidden" name={link.icon} />}
       </a>
     ))
