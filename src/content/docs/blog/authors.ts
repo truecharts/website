@@ -38,4 +38,10 @@ export const authors: Record<string, StarlightBlogAuthor> = {
     url: "https://github.com/shadofall",
     picture: "https://avatars.githubusercontent.com/u/9327622?v=4",
   },
+  bitpushr: {
+    name: "bitpushr",
+    title: "Docs Maintainer",
+    url: "https://github.com/bitpushr",
+    picture: "https://avatars.githubusercontent.com/u/91350598?v=4",
+  },
 };
