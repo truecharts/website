@@ -39,6 +39,16 @@ export default defineConfig({
         src: "./src/assets/with-text.svg",
         replacesTitle: true,
       },
+      head: [
+        {
+          tag: 'script',
+          attrs: {
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.jsclient=ca-pub-9270569596814796',
+            'crossorigin': 'anonymous',
+            defer: true,
+          },
+        },
+      ],
       social: {
         github: new URL("/s/git", site).href,
         facebook: new URL("/s/fb", site).href,
