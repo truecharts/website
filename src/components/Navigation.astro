@@ -1,6 +1,31 @@
 ---
+import { Icon } from "@astrojs/starlight/components";
+import type { Icons } from "../../node_modules/@astrojs/starlight/components/Icons";
+
+type Link = {
+  name: string;
+  href: `/${string}` | `https://${string}`;
+  icon?: keyof typeof Icons;
+};
+
+// https://starlight.astro.build/guides/components/#all-icons
+const links: Array<Link> = [
+  { name: "Docs", href: "/docs", icon: "document" },
+  { name: "Blog", href: "/blog", icon: "open-book" },
+  { name: "Merch/Store", href: "/s/shop", icon: "external" },
+];
 ---
-<div class="nav-links">
-  <a href="/blog">News</a>
-  <a href="/docs">Docs</a>
+
+<div class="flex flex-row gap-5 mx-5 items-center justify-center">
+  {
+    links.map((link) => (
+      <a
+        class="hover:scale-110 flex flex-row items-center gap-1 max-md:gap-0"
+        href={link.href}
+      >
+        <p class="font-bold text-lg max-md:text-xs">{link.name}</p>
+        {link.icon && <Icon class="w-5 h-5 max-md:hidden" name={link.icon} />}
+      </a>
+    ))
+  }
 </div>

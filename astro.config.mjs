@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import tailwind from "@astrojs/tailwind";
 // https://github.com/HiDeoo/starlight-links-validator
 import starlightLinksValidator from "starlight-links-validator";
 // https://github.com/HiDeoo/starlight-image-zoom
@@ -35,7 +36,7 @@ export default defineConfig({
       title: "TrueCharts Charts",
       tagline: "Awesome Helm Charts",
       logo: {
-        src: './src/assets/with-text.svg',
+        src: "./src/assets/with-text.svg",
         replacesTitle: true,
       },
       social: {
@@ -44,6 +45,7 @@ export default defineConfig({
         "x.com": new URL("/s/twitter", site).href,
         discord: new URL("/s/discord", site).href,
         telegram: new URL("/s/tg", site).href,
+        openCollective: new URL("/s/oc", site).href,
       },
       editLink: {
         baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
@@ -52,7 +54,7 @@ export default defineConfig({
       pagefind: true,
       components: {
         // Override the default `SocialIcons` component.
-        Header: './src/components/CustomHeader.astro',
+        Header: "./src/components/CustomHeader.astro",
       },
       plugins: [
         starlightBlog({
@@ -93,5 +95,6 @@ export default defineConfig({
       ],
     }),
     sitemap(),
+    tailwind(),
   ],
 });
