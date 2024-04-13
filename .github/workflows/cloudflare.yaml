@@ -33,20 +33,36 @@ jobs:
           # This is needed for the "last updated" field to update correctly.
           fetch-depth: 0
 
-      - name: Setup Cache
+      - name: Setup astro Cache
         uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4
         with:
           # Cache for build and optimized images.
-          key: astro
+          key: astro-${{ hashFiles('package-lock.json') }}
           path: ./.astro
+          restore-keys: astro-
+
+      - name: Setup npm Cache
+        uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4
+        with:
+          # Cache for npm
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-
+
+      - name: Setup node_modules Cache
+        uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4
+        with:
+          # Cache for npm and optimized images.
+          path: ./node_modules
+          key: modules-${{ hashFiles('package-lock.json') }}
 
       - name: Setup Node
         uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4
         with:
           node-version-file: .nvmrc
-          cache: npm
 
       - name: Install Packages
+        if: steps.cache.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: Check
