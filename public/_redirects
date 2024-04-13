@@ -3,6 +3,7 @@
 /s/twitter https://twitter.com/useTrueCharts 308
 /s/fb https://www.facebook.com/truecharts 308
 /s/tg https://t.me/s/truecharts 308
+/s/oc https://opencollective.com/truecharts 308
 
 # sponsor
 /s/oc https://opencollective.com/truecharts 308
@@ -14,6 +15,6 @@
 /s/charts https://github.com/truecharts/charts 308
 /s/shop https://www.etsy.com/shop/TrueCharts 308
 
-# wildcard
-/s https://truecharts.org/sponsor 308
-/s/news https://truecharts.org/blog 308
+# truecharts
+/s /sponsor 308
+/s/news /blog 308
