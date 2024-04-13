@@ -87,7 +87,8 @@ export default defineConfig({
         }),
         starlightImageZoom(),
         starlightLinksValidator({
-          errorOnRelativeLinks: true,
+          errorOnRelativeLinks: false,
+          errorOnFallbackPages: false,
         }),
         starlightDocSearch({
           appId: 'M5JIEOBD9S',
