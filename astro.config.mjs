@@ -24,7 +24,6 @@ export default defineConfig({
   trailingSlash: "ignore",
   compressHTML: true,
   prefetch: true,
-  output: "static",
   build: {
     output: "directory",
   },
