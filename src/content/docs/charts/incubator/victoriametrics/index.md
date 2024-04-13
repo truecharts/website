@@ -15,3 +15,4 @@ Fast, cost-effective monitoring solution and time series database
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
+- [**Disclaimer**](./disclaimer.md)
