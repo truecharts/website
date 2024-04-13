@@ -10,6 +10,8 @@ import starlightBlog from "starlight-blog";
 import sitemap from "@astrojs/sitemap";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
+// Use algolia for search
+import starlightDocSearch from '@astrojs/starlight-docsearch';
 
 const site = "https://test.truecharts.org";
 // https://astro.build/config
@@ -87,6 +89,11 @@ export default defineConfig({
         starlightImageZoom(),
         starlightLinksValidator({
           errorOnRelativeLinks: true,
+        }),
+        starlightDocSearch({
+          appId: 'M5JIEOBD9S',
+          apiKey: '996ff61cece86950829f65416b941711',
+          indexName: 'truecharts',
         }),
       ],
       sidebar: [
