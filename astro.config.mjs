@@ -96,6 +96,25 @@ export default defineConfig({
           indexName: 'truecharts',
         }),
       ],
+      // Set English as the default language for this site.
+      defaultLocale: 'root',
+      locales: {
+        // English docs in `src/content/docs/en/`
+        root: {
+          label: 'English',
+          lang: 'en',
+        },
+        // Simplified Chinese docs in `src/content/docs/zh-CN/`
+        'cn': {
+          label: '简体中文',
+          lang: 'zh-CN',
+        },
+        // Russian docs in `src/content/docs/ru/`
+        ru: {
+          label: 'русский',
+          lang: 'ru-RU',
+        },
+      },
       sidebar: [
         {
           label: "Guides",
