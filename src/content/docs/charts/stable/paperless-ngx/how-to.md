@@ -131,5 +131,5 @@ starting point, as well as a recommended workflow a little further along on that
 
 ## Support
 
-- You can reach us using [Discord](/s/discord) for real-time feedback and support.
+- You can reach us using [Discord](https://discord.gg/tVsPTHWTtr) for real-time feedback and support.
 - If you found a bug in our chart, open a [GitHub issue](https://github.com/truecharts/apps/issues/new/choose).
