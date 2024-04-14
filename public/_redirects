@@ -17,4 +17,20 @@
 
 # truecharts
 /s /sponsor 308
-/s/news /blog 308
+/news /blog 308
+
+# big chart-changes
+/charts/operators /charts/system
+/charts/enterprise /charts/premium
+
+
+# old->new website
+/manual /general
+/manual/development /development
+/manual/helm /platforms/helm
+/manual/kubeapps /platforms/kubeapps
+/manual/fluxcd /platforms/fluxcd
+/manual/SCALE /platforms/SCALE
+/manual/rancher /platforms/rancher
+/manual/argocd /platforms/argocd
+
