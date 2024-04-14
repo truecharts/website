@@ -18,6 +18,8 @@
     "@astrojs/starlight-docsearch": "0.1.0",
     "@astrojs/tailwind": "5.1.0",
     "astro": "4.6.0",
+    "astro-integration-lottie": "0.2.3",
+    "lottie-web": "5.12.2",
     "sharp": "0.33.3",
     "starlight-blog": "0.5.1",
     "starlight-image-zoom": "0.2.0",

@@ -12,6 +12,8 @@ import starlightImageZoom from "starlight-image-zoom";
 import starlightBlog from "starlight-blog";
 // https://docs.astro.build/en/guides/integrations-guide/sitemap/
 import sitemap from "@astrojs/sitemap";
+// https://github.com/giuseppelt/astro-lottie
+import lottie from "astro-integration-lottie";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
 
@@ -83,6 +85,7 @@ export default defineConfig({
       pagefind: true,
       components: {
         Header: "./src/components/CustomHeader.astro",
+        Hero: "./src/components/CustomHero.astro",
       },
       plugins: [
         starlightBlog({
@@ -106,7 +109,7 @@ export default defineConfig({
         {
           label: "General",
           collapsed: false,
-          autogenerate: { directory: "general" },
+          autogenerate: { directory: "general", collapsed: true },
         },
         {
           label: "Platforms",
@@ -127,5 +130,6 @@ export default defineConfig({
     }),
     sitemap(),
     tailwind(),
+    lottie(),
   ],
 });

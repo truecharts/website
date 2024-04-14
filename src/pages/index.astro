@@ -3,7 +3,6 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import CardGrid from "../components/CardGrid.astro";
 import { Card } from "@astrojs/starlight/components";
 import { Icon } from "@astrojs/starlight/components";
-import svg from "../assets/without-text.svg";
 
 const listItemClass =
   "flex flex-row items-center gap-0 space-y-0 hover:scale-105 group";
@@ -19,7 +18,7 @@ const iconClass = "mr-2 group-hover:animate-ping";
     hero: {
       tagline: "Your Source for Awesome Helm-Charts!",
       image: {
-        file: svg,
+        html: "tc-animated",
       },
       actions: [
         {
@@ -43,7 +42,6 @@ const iconClass = "mr-2 group-hover:animate-ping";
   }}
 >
   <h2>About TrueCharts</h2>
-
   <CardGrid stagger>
     <Card title="Easy To Deploy" icon="pencil">
       With TrueCharts, users can quickly and easily deploy a wide range of apps
