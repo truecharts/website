@@ -10,7 +10,8 @@ A self-hosted data logger for your Tesla
 
 - https://github.com/teslamate-org/teslamate
 - https://docs.teslamate.org/docs/installation/docker
-- https://github.com/truecharts/charts/tree/master/charts/incubator/teslamate
+- https://github.com/truecharts/charts/tree/master/charts/incubator/TeslaMate
+- https://hub.docker.com/r/teslamate/teslamate
 
 ## Available Documentation
 
