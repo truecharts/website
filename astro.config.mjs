@@ -88,13 +88,13 @@ export default defineConfig({
         Hero: "./src/components/CustomHero.astro",
       },
       plugins: [
+        starlightImageZoom(),
         starlightBlog({
           title: "TrueCharts News",
           postCount: 5,
           recentPostCount: 10,
           authors: authors,
         }),
-        starlightImageZoom(),
         starlightLinksValidator({
           errorOnRelativeLinks: false,
           errorOnFallbackPages: false,
