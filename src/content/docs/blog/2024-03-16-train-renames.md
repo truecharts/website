@@ -79,6 +79,16 @@ done
 
 ```
 
+### SCALE Platform - Automated Bash Shell Migration Script
+
+*simply copy-paste this into the shell of your TrueNAS SCALE GUI*
+
+```bash
+
+curl -sSL https://raw.githubusercontent.com/xstar97/scale-scripts/main/scripts/patchTCTrains.sh | bash --
+
+```
+
 ### SCALE Platform - Automated Migration Script
 
 *save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it*
