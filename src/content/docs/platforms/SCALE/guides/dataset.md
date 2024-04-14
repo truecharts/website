@@ -1,8 +1,6 @@
 ---
-title: TrueNAS SCALE Dataset and Share Setup Guide
+title: Dataset and Share Setup Guide
 ---
-
-# Dataset and Share Setup Guide
 
 This guide provides the recommended setup for dataset permissions, shares and application data storage.
 
@@ -20,7 +18,7 @@ If your existing dataset shows `Edit ACL` then you need to `Strip ACL` before co
 
 ## SMB Access
 
-For SMB access you will need to create a user(s) that are members of the `apps` group and modify the default SMB settings. 
+For SMB access you will need to create a user(s) that are members of the `apps` group and modify the default SMB settings.
 
 ### SMB User
 

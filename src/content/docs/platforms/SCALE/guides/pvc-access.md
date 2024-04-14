@@ -4,8 +4,6 @@ sidebar:
   order: 16
 ---
 
-# Accessing PVC Data
-
 ## Where are my application files?
 
 - Your files are held within the container

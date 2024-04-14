@@ -2,8 +2,6 @@
 title: CNPG Migration Guide
 ---
 
-# CNPG Operator Migration Guide
-
 This guide will assist you in migrating to the new CNPG operator.
 
 ## Prerequisites

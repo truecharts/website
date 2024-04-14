@@ -1,7 +1,6 @@
 ---
-title: PCIe Device Passthrough to Apps on TrueNAS SCALE
+title: PCIe Device Passthrough to Apps
 ---
-# PCI(-E) Devices Passthrough
 
 To Passthrough your PCI(-E) cards you need to:
 

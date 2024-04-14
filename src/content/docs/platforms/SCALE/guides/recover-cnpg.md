@@ -1,8 +1,6 @@
 ---
-title: Recovering CNPG Apps after a TrueNAS SCALE Reboot
+title: Recovering CNPG Apps after Reboot
 ---
-
-# Recover CNPG App after Reboot
 
 Apps with a PostgreSQL database that were updated to the new CNPG common sometimes don't survive a reboot of TrueNAS Scale. The App then hangs on _DEPLOYING_ and pods are in state _Completed_ or _TaintToleration_.
 

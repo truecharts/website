@@ -2,8 +2,6 @@
 title: Storage
 ---
 
-# Storage
-
 This article serves as a development extension to the storage article available [here](https://wiki.truecharts.org/general/storage/)
 
 ## Storage and Common-Chart

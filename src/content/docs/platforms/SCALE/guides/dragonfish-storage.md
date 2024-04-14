@@ -1,8 +1,6 @@
 ---
-title: TrueNAS SCALE DragonFish Storage
+title: DragonFish Storage
 ---
-
-# Storage Configuration on SCALE 24.04 DragonFish
 
 :::caution DragonFish is not yet supported
 
@@ -16,21 +14,17 @@ iX-Systems no longer maintains or supports any form of PVC-based storage for app
 
 **SCALE Backup and Restore (unreleased feature available through HeavyScript)**
 
-*Will no longer back up storage at all.*
-
+_Will no longer back up storage at all._
 
 **SCALE Rollback**
 
-*You will no longer be able to roll back any storage.*
-
+_You will no longer be able to roll back any storage._
 
 **SCALE App pool migration**
 
-*You will no longer be able to migrate storage using the pool migration feature in SCALE.*
-
+_You will no longer be able to migrate storage using the pool migration feature in SCALE._
 
 The above issues exist both for our new in-house TrueCharts OpenEBS storage solution **and** for users using already installed apps that use the legacy storage backend from iX-Systems.
-
 
 ## For existing Users and Apps
 
@@ -40,7 +34,7 @@ Once you have completed updating your SCALE system to DragonFish, enter the foll
 
 `rm /mnt/tank/ix-applications/k3s/server/manifests/zfs-operator.yaml`
 
-*Replace `tank` in the command above with the name of your Apps-pool*
+_Replace `tank` in the command above with the name of your Apps-pool_
 
 and
 
@@ -66,7 +60,6 @@ Once you have completed the above steps, you need to install the `OpenEBS` app f
 
 ![Catalog Trains](./img/Dragonfish-Storage5.png)
 
-
 - If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
 ![system List](./img/Dragonfish-Storage5b.png)
@@ -89,5 +82,5 @@ When setting the `pool/dataset` as above, do **not** set the path to the existin
 
 ### Migrating to new storage
 
-We highly advise moving to the new storage backend for existing Apps as well. *At a later date we will update this with migration instructions as well.*
+We highly advise moving to the new storage backend for existing Apps as well. _At a later date we will update this with migration instructions as well._
 Until we have migration steps ready, existing apps will continue to work like normal.

@@ -1,10 +1,8 @@
 ---
-title: An Introduction to TrueNAS SCALE
+title: Introduction to TrueNAS SCALE
 sidebar:
   order: 2
 ---
-
-# Introduction to SCALE
 
 ## IMPORTANT: Must Read!
 

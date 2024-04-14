@@ -2,8 +2,6 @@
 title: Portal Button
 ---
 
-# Portal Button
-
 After installation almost every app should have a "portal" button. This button is an easy and streamlined way of entering the Applications after installation. However, one should be aware that it does not magically follow changes inside the application (for example: from http to https).
 
 ## questions.yaml example

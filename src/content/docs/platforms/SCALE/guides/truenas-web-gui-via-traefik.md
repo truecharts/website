@@ -1,7 +1,6 @@
 ---
 title: Accessing the TrueNAS SCALE Web GUI via Traefik
 ---
-# TrueNAS Web GUI via Traefik
 
 If you followed the instructions in [Installing Traefik](/charts/premium/traefik/how-to), your TrueNAS Web GUI will now be served on custom ports (port 81 and 444 in the video guide).
 

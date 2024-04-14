@@ -1,10 +1,8 @@
 ---
-title: TrueNAS SCALE Validation
+title: Input Validation
 sidebar:
   order: 4
 ---
-
-# Input Validation
 
 Validation makes sure that your input is in the desired format, so the application can parse it without problems.
 Below you can find more info about which fields have the mentioned validation and what formats are accepted.

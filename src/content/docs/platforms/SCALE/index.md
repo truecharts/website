@@ -4,8 +4,6 @@ sidebar:
   order: 1
 ---
 
-# Introduction
-
 SCALE Apps is a Helm-Charts-as-Apps tool.
 However, in contrast to more "premium-grade" solutions, like kubeapps, it's not built by Kubernetes specialists and it does not offer complete freedom to deploy helm charts.
 Nor can you manually edit Chart-Yaml files manually.

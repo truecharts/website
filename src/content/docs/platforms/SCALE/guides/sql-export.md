@@ -2,8 +2,6 @@
 title: PostgreSQL Database Exporting
 ---
 
-# Postgres Database Info
-
 The information below is to help with current or future migration of the Postgres databases on your SCALE system running TrueCharts apps.
 
 ## Prerequisites

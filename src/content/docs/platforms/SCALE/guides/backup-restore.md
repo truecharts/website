@@ -4,8 +4,6 @@ sidebar:
   order: 15
 ---
 
-# Backup, Migrations and Restore
-
 :::caution Best Effort Policy
 
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.

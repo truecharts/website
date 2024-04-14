@@ -2,8 +2,6 @@
 title: Useful Commands Cheatsheet
 ---
 
-# Command Cheatsheet
-
 These are some commands that are nice to keep track of:
 
 **give execute permissions to all sh files:**

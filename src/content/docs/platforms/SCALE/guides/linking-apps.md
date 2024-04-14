@@ -1,10 +1,8 @@
 ---
-title: Linking Apps Internally on TrueNAS SCALE
+title: Linking Apps Internally
 sidebar:
   order: 7
 ---
-
-# Linking Apps Internally
 
 You'll often need to connect individual apps to each other to exchange data, for example: Sonarr to SABnzbd to allow Sonarr to control downloads within SABnzbd.
 

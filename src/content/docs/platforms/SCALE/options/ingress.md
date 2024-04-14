@@ -4,8 +4,6 @@ sidebar:
   order: 7
 ---
 
-# Ingress
-
 Ingress (more commonly known as Reverse Proxy) settings can be configured here. This is how Kubernetes connects your Applications in containers to FQDNs (fully qualified domain names). If you choose to enable this you must have a Reverse Proxy installed and a DNS service to resolve the DNS name of the FQDN specified.
 
 :::caution Reverse Proxy support

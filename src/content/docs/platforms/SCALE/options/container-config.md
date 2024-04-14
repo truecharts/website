@@ -4,8 +4,6 @@ sidebar:
   order: 3
 ---
 
-# Container Configuration
-
 Every application has different values that may be required to run or have multiple options that the user may choose to enable/disable to change the behavior of the application. Most options should have a Tooltip (Circled Question Mark) to further describe said option.
 
 Some applications need configuration options set at the container level and some are specific to the application itself, therefore some apps may have both menus and some may have one or the other.

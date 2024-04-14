@@ -2,8 +2,6 @@
 title: Contribution Guidelines
 ---
 
-# Contribution Guidelines
-
 This project welcomes any and all input, but we need to have a few quality guidelines. These guidelines will be examplained here, in this document.
 
 ## GIT Guidelines

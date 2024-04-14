@@ -1,8 +1,6 @@
 ---
-title: Migrating Apps on TrueNAS SCALE
+title: Migrating Apps
 ---
-
-# App Migration Guide
 
 ## Goal
 

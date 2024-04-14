@@ -1,10 +1,8 @@
 ---
 sidebar:
   order: 5
-title: Frequently Asked Questions
+title: Frequently Asked Questions (FAQ)
 ---
-
-# F.A.Q. (Frequently Asked Questions)
 
 TrueCharts Frequently Asked Questions
 

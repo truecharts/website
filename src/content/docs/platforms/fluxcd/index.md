@@ -4,8 +4,6 @@ sidebar:
   order: 1
 ---
 
-# Introduction
-
 fluxcd is a so-called gitops tool.
 It allows users to define their cluster in a git repository and automatically syncs said configuration with the actual cluster
 
