@@ -2,8 +2,6 @@
 title: Values.yaml
 ---
 
-# Values.yaml Files
-
 Values.yaml files generally always contain configuration setting for Helm charts, TrueCharts is no different.
 However, we have multiple different values.yaml files, with different goals. Because TrueNAS SCALE just works slightly differently from standard Helm Charts
 

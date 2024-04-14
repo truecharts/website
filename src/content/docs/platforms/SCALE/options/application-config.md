@@ -4,8 +4,6 @@ sidebar:
   order: 4
 ---
 
-# Application Configuration
-
 Every application has different values that may be required to run or have multiple options that the user may choose to enable or disable to change the behavior of the application. Most options should have a Tooltip (Circled Question Mark) to further describe said option.
 
 ## `Application Configuration`

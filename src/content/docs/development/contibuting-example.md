@@ -2,8 +2,6 @@
 title: Contribution Guide
 ---
 
-# Contribution Guide
-
 Git, GitHub, and other tooling utilized by the TrueCharts repository can be intimating if you've never used them before. In order to encourage contributions from the community, this guide acts as a start-to-finish practical example of contributing content to TrueCharts, and incidentally a crash course in using Git.
 
 Due to the massive breadth of these topics, this guide only cover what's necessary to make a basic change in order to remain as concise and digestible as possible. The concepts covered here will need to be explored in greater depth when making more complex changes. It's highly suggested that in the long run you better familiarize yourself with each aspect of Git that is touched on, but it's of course easier to learn more when you have something to get started with.
@@ -107,7 +105,7 @@ The best way to get a sense of how you should compose your notes is to look at t
 
 For this example, we're placing the following into the notes file we just created:
 
-```
+```markdown
 # Librespeed Installation Notes
 
 ## General

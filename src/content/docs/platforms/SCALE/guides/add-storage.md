@@ -2,7 +2,6 @@
 title: Adding Storage
 ---
 
-# Adding Storage
 
 Apps in SCALE rely on several kinds of storage for core data:
 

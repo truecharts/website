@@ -4,7 +4,7 @@ sidebar:
   order: 13
 ---
 
-# Gluetun VPN Add-on Setup Guide
+## Gluetun VPN Add-on Setup Guide
 
 Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN addon
 

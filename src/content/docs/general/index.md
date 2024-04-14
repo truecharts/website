@@ -4,8 +4,6 @@ sidebar:
 title: Introduction
 ---
 
-# Introduction
-
 This manual contains general information on working with TrueCharts Charts.
 
 :::tip

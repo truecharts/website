@@ -2,8 +2,6 @@
 title: Questions.yaml
 ---
 
-# Questions.yaml
-
 Questions.yaml is the file which get rendered by TrueNAS to create the UI. When not creating new charts, most of what this project does is stitching together questions.yaml files to turn existing Helm Charts into Apps.
 
 ## Syntax

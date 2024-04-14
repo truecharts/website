@@ -1,10 +1,8 @@
 ---
-title: Getting Started with TrueCharts on TrueNAS SCALE
+title: Getting Started with TrueCharts
 sidebar:
   order: 2
 ---
-
-# Getting Started with TrueCharts
 
 Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](/platforms/scale/guides/scale-intro) page.
 

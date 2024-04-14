@@ -2,8 +2,6 @@
 title: Common Library Chart
 ---
 
-# Common Library Chart
-
 In Helm 3, their team introduced the concept of a [Library chart](https://helm.sh/docs/topics/library_charts/).
 
 > A library chart is a type of Helm chart that defines chart primitives or definitions which can be shared by Helm templates in other charts. This allows users to share snippets of code that can be re-used across charts, avoiding repetition and keeping charts DRY.

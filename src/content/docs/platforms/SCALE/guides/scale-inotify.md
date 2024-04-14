@@ -1,7 +1,6 @@
 ---
 title: Setting Inotify in TrueNAS SCALE
 ---
-# Setting Inotify in SCALE
 
 Setting the inotify settings in SCALE can help assist with some app deployment issues and performance problems.
 It should be noted this is not a magic fix all.

@@ -2,8 +2,6 @@
 title: Unit Tests
 ---
 
-# Unit tests
-
 We unit test our common library, while it isn't near complete coverage but it does offer some basic checks.
 
 ## Running the tests
