@@ -1,6 +1,7 @@
 ---
 title: Application Name
-sidebar_position: 1
+sidebar:
+  order: 1
 ---
 
 # Application Name

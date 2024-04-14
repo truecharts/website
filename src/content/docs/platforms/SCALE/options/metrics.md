@@ -1,6 +1,7 @@
 ---
 title: Metrics
-sidebar_position: 10
+sidebar:
+  order: 10
 ---
 
 # Prometheus Metrics

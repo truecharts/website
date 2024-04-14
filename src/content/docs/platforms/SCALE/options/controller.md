@@ -1,6 +1,7 @@
 ---
 title: Controller
-sidebar_position: 2
+sidebar:
+  order: 2
 ---
 
 # Controller

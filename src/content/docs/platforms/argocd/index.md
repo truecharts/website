@@ -1,6 +1,7 @@
 ---
 title: ArgoCD Introduction
-sidebar_position: 1
+sidebar:
+  order: 1
 ---
 
 # Introduction

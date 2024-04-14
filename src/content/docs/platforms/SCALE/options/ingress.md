@@ -1,6 +1,7 @@
 ---
 title: Ingress
-sidebar_position: 7
+sidebar:
+  order: 7
 ---
 
 # Ingress
@@ -16,10 +17,10 @@ Currently the `Reverse Proxy` of choice for `TrueCharts` is `Traefik`. Enabling 
 ## Requirements
 
 - A working Internet connection that can reach github and truecharts.org from the host system.
-- A configured Apps pool, ensure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Adding TrueCharts to SCALE](/docs/manual/SCALE/guides/getting-started.md)
-- You've added the TrueCharts catalog from [Adding TrueCharts to SCALE](/docs/manual/SCALE/guides/getting-started.md)
-- clusterissuer is installed (**recommended** for new common Apps), see [Installing clusterissuer](/docs/charts/premium/clusterissuer/how-to.md)
-- Traefik is installed, see [Installing Traefik](/docs/charts/premium/traefik/how-to.md)
+- A configured Apps pool, ensure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Adding TrueCharts to SCALE](/platforms/scale/guides/getting-started)
+- You've added the TrueCharts catalog from [Adding TrueCharts to SCALE](/platforms/scale/guides/getting-started)
+- clusterissuer is installed (**recommended** for new common Apps), see [Installing clusterissuer](/charts/premium/clusterissuer/how-to)
+- Traefik is installed, see [Installing Traefik](/charts/premium/traefik/how-to)
 
 :::tip
 
@@ -67,7 +68,7 @@ To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager
 
 ### Advanced Settings
 
-- `Traefik Middlewares`: Any `Traefik` middlewares can be added here, see how to [Add Basic Auth to Apps](/docs/charts/premium/traefik/traefik-basicAuth-middleware.md) for an example of a Traefik middleware.
+- `Traefik Middlewares`: Any `Traefik` middlewares can be added here, see how to [Add Basic Auth to Apps](/charts/premium/traefik/traefik-basicauth-middleware) for an example of a Traefik middleware.
 
 - `Add Manual Custom Ingresses` (expert): Enables advanced custom Ingress settings that may be used by expert users.
 
@@ -75,7 +76,7 @@ To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager
 
 :::note
 
-We recommend that in `Networking and Services` that the `Service Type` for the `Main Service` is configured as ClusterIP. See [Networking and Services](/docs/manual/SCALE/options/networking.md) for further details.
+We recommend that in `Networking and Services` that the `Service Type` for the `Main Service` is configured as ClusterIP. See [Networking and Services](/platforms/scale/options/networking) for further details.
 
 :::
 

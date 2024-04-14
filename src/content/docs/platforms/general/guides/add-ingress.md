@@ -59,9 +59,6 @@ ingress:
 
 In some cases, an ingress might already been partly defined. When that's the case, please merge the above settings with the already defined ingresses.
 
-## More info:
+## More info
 
-For more info, checkout the common-chart ingress options:
-
-https://truecharts.org/manual/helm/common/ingress/
-
+For more info, checkout the common-chart [ingress options](/general/common/ingress/)

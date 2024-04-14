@@ -1,6 +1,7 @@
 ---
 title: Support Policy
-sidebar_position: 2
+sidebar:
+  order: 2
 ---
 
 ## TrueCharts on ArgoCD

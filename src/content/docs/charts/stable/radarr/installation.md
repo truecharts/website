@@ -108,17 +108,17 @@ I set it to a sub directory of `/qbitvpn` though since `/qbitvpn/complete/movies
 
 #### Explanation
 
-??? Radarr "Explanation"
+:::tip[Radarr "Explanation"]
 
-    | Name                 | Value                                                | Reason                                                                                                                                                                                                    |
-    |------------------    |--------------------------------------------------    |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |
-    | Name                 | qbitvpn                                              | Doesn't matter what you call it, just call it something memorable                                                                                                                                         |
-    | Host                 | qbitvpn-qbittorrent.ix-qbitvpn.svc.cluster.local     | You will need to generate a different DNS name if your app name is not `qbitvpn` Generate a new name with [ Truecharts Guide ]( https://truecharts.org/manual/Quick-Start%20Guides/06-linking-apps/ )     |
-    | Port                 | 10095                                                | This is the default port, but if you changed it then its  [ the first port listed under networking for qbittorrent  ](https://heavysetup.info/applications/qbittorrent/installation/#networking )         |
-    | Username             | NULL                                                 | You can leave this empty if you followed  [WEBGUI guide](https://heavysetup.info/applications/qbittorrent/in-app/#webgui )                                                                                |
-    | Password             | NULL                                                 | You can leave this empty if you followed  [WEBGUI guide](https://heavysetup.info/applications/qbittorrent/in-app/#webgui )                                                                                |
-    | Category             | movies                                               | We want my completed torrents to be moved to a folder in `completed/movies` once their done                                                                                                                |
-    | Remove Completed     | False                                                | We do not want to delete my torrents before their done seeding                                                                                                                                             |
+| Name             | Value                                            | Reason                                                                                                                                                                                       |
+| ---------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name             | qbitvpn                                          | Doesn't matter what you call it, just call it something memorable                                                                                                                            |
+| Host             | qbitvpn-qbittorrent.ix-qbitvpn.svc.cluster.local | You will need to generate a different DNS name if your app name is not `qbitvpn` Generate a new name with [Truecharts Guide](/platforms/scale/guides/linking-apps/)                          |
+| Port             | 10095                                            | This is the default port, but if you changed it then its [the first port listed under networking for qbittorrent](https://heavysetup.info/applications/qbittorrent/installation/#networking) |
+| Username         | NULL                                             | You can leave this empty if you followed [WEBGUI guide](https://heavysetup.info/applications/qbittorrent/in-app/#webgui)                                                                     |
+| Password         | NULL                                             | You can leave this empty if you followed [WEBGUI guide](https://heavysetup.info/applications/qbittorrent/in-app/#webgui)                                                                     |
+| Category         | movies                                           | We want my completed torrents to be moved to a folder in `completed/movies` once their done                                                                                                  |
+| Remove Completed | False                                            | We do not want to delete my torrents before their done seeding                                                                                                                               |
 
 <br />
 
@@ -148,17 +148,17 @@ Its important to keep your mountpoints for each of the applications the same. Ot
 
 #### Explanation
 
-??? Radarr "Explanation"
+:::tip[Radarr "Explanation"]
 
-    | Name                 | Value                                  | Reason                                                                                                                                                                                                   |
-    |------------------    |------------------------------------    |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    |
-    | Name                 | NZBGet                                 | Doesn't matter what you call it, just call it something memorable                                                                                                                                        |
-    | Host                 | nzbget.ix-nzbget.svc.cluster.local     | You will need to generate a different DNS name if your app name is not `nzbget` Generate a new name with [ Truecharts Guide ]( https://truecharts.org/manual/Quick-Start%20Guides/06-linking-apps/ )     |
-    | Port                 | 6789                                   | This is the default port, but if you changed it then its  [ the only port listed under networking for NZBGet  ](https://heavysetup.info/applications/nzbget/installation/#networking )                   |
-    | Username             | nzbget                                 | Default is `nzbget` but its under your security settings in nzbget                                                                                                                                       |
-    | Password             | NULL                                   | This is whatever you set during the [NZBGet in app security](https://heavysetup.info/applications/nzbget/in-app/#security ) setup                                                                        |
-    | Category             | Movies                                 | We want my completed nzbs to be moved to a folder in `completed/Movies` once their done                                                                                                                   |
-    | Remove Completed     | True                                   | You can't seed nzbs, so there's no point in keeping them                                                                                                                                                 |
-    | Remove Failed        | True                                   | No reason to keep failed articles                                                                                                                                                                        |
+| Name             | Value                              | Reason                                                                                                                                                                            |
+| ---------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name             | NZBGet                             | Doesn't matter what you call it, just call it something memorable                                                                                                                 |
+| Host             | nzbget.ix-nzbget.svc.cluster.local | You will need to generate a different DNS name if your app name is not `nzbget` Generate a new name with [Truecharts Guide](/platforms/scale/guides/linking-apps/)                |
+| Port             | 6789                               | This is the default port, but if you changed it then its [the only port listed under networking for NZBGet](https://heavysetup.info/applications/nzbget/installation/#networking) |
+| Username         | nzbget                             | Default is `nzbget` but its under your security settings in nzbget                                                                                                                |
+| Password         | NULL                               | This is whatever you set during the [NZBGet in app security](https://heavysetup.info/applications/nzbget/in-app/#security) setup                                                  |
+| Category         | Movies                             | We want my completed nzbs to be moved to a folder in `completed/Movies` once their done                                                                                           |
+| Remove Completed | True                               | You can't seed nzbs, so there's no point in keeping them                                                                                                                          |
+| Remove Failed    | True                               | No reason to keep failed articles                                                                                                                                                 |
 
 <br />

@@ -51,7 +51,7 @@ The origin material for this guide is available on the [LLDAP Github](https://gi
 
 ## Support
 
-If you have any issues with following this guide, we can be reached using [Discord](https://discord.gg/tVsPTHWTtr) for real-time feedback and support.
+If you have any issues with following this guide, we can be reached using [Discord](/s/discord) for real-time feedback and support.
 
 ---
 

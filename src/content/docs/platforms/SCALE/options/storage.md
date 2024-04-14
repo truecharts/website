@@ -1,6 +1,7 @@
 ---
 title: Storage and Persistence
-sidebar_position: 6
+sidebar:
+  order: 6
 ---
 
 # Storage and Persistence
@@ -13,10 +14,10 @@ Many applications will have certain options for storage to be configurable by th
   - Examples include `App Config Storage`, `App Data Storage`, etc.
 - Type of Storage:
 
-  - `PVC` - Default. See this [link](https://truecharts.org/manual/FAQ#why-pvc-is-recommended-over-hostpath).
+  - `PVC` - Default. See this [link](/general/faq#why-pvc-is-recommended-over-hostpath).
   - `Host Path`
   - `NFS Share`
-  - `iSCSI Share`  
+  - `iSCSI Share`
   - `emptyDir`
 
 - Additional App Storage

@@ -1,6 +1,7 @@
 ---
 title: Rancher Support Policy
-sidebar_position: 2
+sidebar:
+  order: 2
 ---
 
 ## TrueCharts on Rancher
@@ -19,5 +20,4 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 ## Project Scope
 
-For more info on what to expect from TrueCharts Apps, be sure to also read the Project Scope documentation:
-https://truecharts.org/manual/scope
+For more info on what to expect from TrueCharts Apps, be sure to also read the [Project Scope documentation](/general/scope)

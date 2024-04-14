@@ -31,6 +31,6 @@ Create a new password right away and do not share your API key (or password) wit
 
 ## Support
 
-- You can also reach us using [Discord](https://discord.gg/tVsPTHWTtr) for real-time feedback and support
+- You can also reach us using [Discord](/s/discord) for real-time feedback and support
 - If you found a bug in our chart, open a Github [issue](https://github.com/truecharts/apps/issues/new/choose)
 - For further information on operating **Notifiarr** itself, start with their [Quick Start Guide](https://notifiarr.wiki/en/QuickStart).

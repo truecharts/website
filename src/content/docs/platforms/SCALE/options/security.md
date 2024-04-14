@@ -1,6 +1,7 @@
 ---
 title: Security and Permissions
-sidebar_position: 8
+sidebar:
+  order: 8
 ---
 
 # Security and Permissions

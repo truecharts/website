@@ -20,7 +20,7 @@ You will need a [GitHub](https://github.com/login) account if you don't already 
 
 :::
 
-It's a good idea to familiarize yourself with the [Contribution Guidelines](https://truecharts.org/manual/development/contributing) before/after reading this guide, but definitely before you actually make a pull request.
+It's a good idea to familiarize yourself with the [Contribution Guidelines](/development/contributing/) before/after reading this guide, but definitely before you actually make a pull request.
 
 ### Create a Fork
 

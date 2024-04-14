@@ -1,6 +1,7 @@
 ---
 title: TrueNAS SCALE Validation
-sidebar_position: 4
+sidebar:
+  order: 4
 ---
 
 # Input Validation

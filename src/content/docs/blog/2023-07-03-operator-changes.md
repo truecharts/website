@@ -15,7 +15,7 @@ If you have already installed the metallb, prometheus-operator, and cloudnative-
 
 ## Prerequisites
 
-Add the operator train to TrueCharts [as outlined here](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts)
+Add the operator train to TrueCharts [as outlined here](/platforms/scale/guides/getting-started#adding-truecharts)
 
 ## MetalLB
 
@@ -23,19 +23,19 @@ The MetalLB operator is only required for users of MetalLB, anyone who does not 
 
 1. Uninstall current metallb from Enterprise train.
 2. Run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete`
-3. Complete MetalLB installation [as outlined here](https://truecharts.org/charts/enterprise/metallb-config/setup-guide/)
+3. Complete MetalLB installation [as outlined here](/charts/premium/metallb-config/setup-guide/)
 
 ## Prometheus
 
 The Prometheus operator is required for the use of app metrics. Its installation is recommended.
 
 1. Run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete3`
-2. Install [prometheus-operator](https://truecharts.org/charts/operators/prometheus-operator/) from the operators train.
+2. Install [prometheus-operator](/charts/system/prometheus-operator/) from the operators train.
 
 ## CNPG
 
 The cloudnative-pg operator is required for any applications that utilize postgres. Its installation is recommended.
 
-1. Follow the [CNPG Operator Migration Guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide) to migrate to the new CNPG operator. Ensure you follow the guide carefully as data loss can occur with this migration if proper steps are not followed.
+1. Follow the [CNPG Operator Migration Guide](/platforms/scale/guides/cnpg-migration-guide) to migrate to the new CNPG operator. Ensure you follow the guide carefully as data loss can occur with this migration if proper steps are not followed.
 
-_If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](https://truecharts.org/s/discord) as normal._
+_If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](/s/discord) as normal._

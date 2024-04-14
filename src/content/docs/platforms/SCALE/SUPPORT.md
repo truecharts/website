@@ -1,6 +1,7 @@
 ---
 title: TrueNAS SCALE Support Policy
-sidebar_position: 2
+sidebar:
+  order: 2
 ---
 
 ## TrueCharts on TrueNAS SCALE
@@ -22,12 +23,11 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 ## Project Scope
 
-For more info on what to expect from TrueCharts Apps, be sure to also read the Project Scope documentation:
-https://truecharts.org/manual/scope
+For more info on what to expect from TrueCharts Apps, be sure to also read the [Project Scope documentation](/general/scope)
 
 ## Unsupported Features
 
-iX-Systems has built a rather crude middleware inbetween Apps and the Kubernetes cluster itself. Many of its features have severe design flaws, and they do not have the expertise in-house nor the intention to fix the codebase.
+iX-Systems has built a rather crude middleware in-between Apps and the Kubernetes cluster itself. Many of its features have severe design flaws, and they do not have the expertise in-house nor the intention to fix the codebase.
 
 For this reason we do not support a number of features on TrueNAS SCALE Apps and/or have alternative features implemented ourselves. This includes
 
@@ -36,7 +36,7 @@ For this reason we do not support a number of features on TrueNAS SCALE Apps and
 **DO NOT** use the iX-provided `Stop` button in the SCALE GUI. Its implementation is severely flawed and only works with Kubernetes objects designed by iX-Systems themselves, leaving your Apps open to being left in a limbo state.
 Instead of the Stop button, use either
 
-- The TrueCharts "Stop-All" feature available in the apps configuration/edit section or 
+- The TrueCharts "Stop-All" feature available in the apps configuration/edit section or
 
 - [HeavyScript](https://github.com/Heavybullets8/heavy_script) with the `-x appname` or `--stop appname` arguments.
 
@@ -69,14 +69,12 @@ Starting with DragonFish, iX-Systems is removing their support for using PVC sto
 
 Until this is ready, DragonFish is **NOT** supported.
 
-
 ### Backup and Restore
 
 iX-Systems has not officially released backup and restore, and SCALE Apps do not work with normal Kubernetes backup and restore tools like Velero, due to their achaic Kubernetes folder-structure-design.
 [HeavyScript](https://github.com/Heavybullets8/heavy_script) offers an alternative, but we cannot guarantee it works out-of-the-box, at all or with our Apps. But it's the best there is at the moment.
 
 Backup and Restore certainly does not work with CNPG, our PostgreSQL backend at all. Manual steps might be needed to restore systems containing databases.
-
 
 ### TrueNAS GPU Selectors
 
@@ -85,9 +83,8 @@ Kubernetes usually handles GPUs itself, the amount entered is just a request of 
 
 Instead we offer our own option, where you can enter the number of specific GPUs you want assigned under "Resources" in the "Limits" section
 
-
 :::warning Support Guidelines
 
-Our [Discord](https://discord.gg/tVsPTHWTtr) support (the ticketing system inside #support) is primarily limited to what is covered by our written guides. This includes installing, linking and editing apps. This doesn't mean the actual setup of the application. All #support tickets covered by the staff are done so on a **best effort** basis.
+Our [Discord](/s/discord) support (the ticketing system inside #support) is primarily limited to what is covered by our written guides. This includes installing, linking and editing apps. This doesn't mean the actual setup of the application. All #support tickets covered by the staff are done so on a **best effort** basis.
 
 :::

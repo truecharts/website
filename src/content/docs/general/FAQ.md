@@ -1,5 +1,6 @@
 ---
-sidebar_position: 5
+sidebar:
+  order: 5
 title: Frequently Asked Questions
 ---
 
@@ -13,7 +14,7 @@ We recommend using PVC for `config` storage, as it provides an easy way to roll 
 
 :::tip
 
-To share data, create an `NFS` share and select `NFS Share` for the `Type of Storage` in the `Additional App Storage` settings.  
+To share data, create an `NFS` share and select `NFS Share` for the `Type of Storage` in the `Additional App Storage` settings.
 You can create an `SMB` share on the same mount point if needed.
 
 :::
@@ -42,12 +43,14 @@ Some examples are:
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
      crossorigin="anonymous"></script>
+
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-9270569596814796"
      data-ad-slot="1707785957"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -76,14 +79,14 @@ please refer to the upstream container sources we list on the website instead.
 ## My Chart application has had an upstream update, but the chart is not updated yet?
 
 It takes a few days for our automation tools to pick up updates, please sit tight.
-Please only report missed updates via a [GitHub issue](https://github.com/truecharts/containers/issues/new/choose) when 7 days have passed after the new upstream_container(!)_ has become available.
+Please only report missed updates via a [GitHub issue](https://github.com/truecharts/containers/issues/new/choose) when 7 days have passed after the new upstream*container(!)* has become available.
 
 ## Isn't there more documentation for a chart?
 
 If it's not on our website or the Discord, we (sadly) do not have documentation available.
 There might be other sources for documentation however!
 If you'd like to create a guide for the website,
-please submit a PR as demonstrated in the [Contribution Example](https://truecharts.org/manual/development/contibuting-example/).
+please submit a PR as demonstrated in the [Contribution Example](/development/contibuting-example/).
 
 ## I would like another application to be added, how do I do this?
 
@@ -91,7 +94,7 @@ There are two ways to do this:
 
 1. Place a chart request bounty using the page on [Open Collective](https://opencollective.com/truecharts-bounties/contribute/request-chart-bounty-72004). Reach out to us on Discord or email orders@truecharts.org if you'd like to discuss further.
 
-2. Build the app yourself (or have someone build it for you) and request to have it added to the project via a Github PR. You can check the **#development** channel of our [Discord](https://truecharts.org/s/discord) and create a thread if you'd like information about this.
+2. Build the app yourself (or have someone build it for you) and request to have it added to the project via a Github PR. You can check the **#development** channel of our [Discord](/s/discord) and create a thread if you'd like information about this.
 
 The exception to the above are more complex Kubernetes ecosystem changes e.g. Kubernetes extensions, new metrics opens, databases, etc. You're still free to discuss these in the **#development** channel of our Discord linked above.
 
@@ -103,16 +106,17 @@ clear if they contain breaking changes. Be sure to check the **changelog** for e
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
      crossorigin="anonymous"></script>
+
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-9270569596814796"
      data-ad-slot="1707785957"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 ## How do I tell that this update is a major and potentially breaking change?
 
@@ -163,7 +167,7 @@ The following apps do not have active services running under an `ix` namespace, 
 
 :::note
 
-For reasons why this is necessary please see [Known Issues](https://truecharts.org/news/updates-recontinued#known-issues)
+For reasons why this is necessary please see [Known Issues](/blog/updates-recontinued#known-issues)
 
 :::
 
@@ -256,12 +260,14 @@ If the App does not use CNPG, you have several options to stop an App:
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
      crossorigin="anonymous"></script>
+
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-9270569596814796"
      data-ad-slot="1707785957"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -299,7 +305,7 @@ The application state in the web GUI will be `Started` since there is still a CN
 
 ## Operators
 
-TrueCharts has always required operators for many charts to work. Prior to 01 July 2023, these prerequisites were installed automatically and were not visible to the end user. TrueCharts now requires that these system be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [system TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old operator prerequisites installed and can proceed with the installation of the new ones from the operator train per our [Getting Started guide](https://truecharts.org/manual/SCALE/guides/getting-started#cnpgprometheus-system-installation).
+TrueCharts has always required operators for many charts to work. Prior to 01 July 2023, these prerequisites were installed automatically and were not visible to the end user. TrueCharts now requires that these system be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [system TrueCharts train](/platforms/scale/guides/getting-started#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old operator prerequisites installed and can proceed with the installation of the new ones from the operator train per our [Getting Started guide](/platforms/scale/guides/getting-started#prometheus-and-cnpg-system-app-installations).
 
 ### Prometheus-Operator
 
@@ -317,7 +323,7 @@ The following command is destructive and will delete any existing CNPG databases
 
 Run the following command in system shell as **root** to see if you have any current CNPG databases to migrate: `k3s kubectl get pods -A | grep cnpg`
 
-Follow [this guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+Follow [this guide](/platforms/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
 
 :::
 
@@ -343,16 +349,18 @@ To remove the previous automatically installed operator run this in the system s
 
 ### Traefik
 
-This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [premium TrueCharts train](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts).
+This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [premium TrueCharts train](/platforms/scale/guides/getting-started#adding-truecharts).
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
      crossorigin="anonymous"></script>
+
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-9270569596814796"
      data-ad-slot="1707785957"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>

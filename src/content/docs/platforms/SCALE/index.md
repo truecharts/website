@@ -1,6 +1,7 @@
 ---
 title: TrueNAS SCALE Introduction
-sidebar_position: 1
+sidebar:
+  order: 1
 ---
 
 # Introduction
@@ -31,14 +32,13 @@ SCALE Apps is a pretty limited solution.
 For normal home-lab use, TrueCharts SCALE Apps, likely would suffice just-fine.
 But for more advanced setups, it's not sufficient.
 
-It also adds significant layers "middleware" between the App GUI and kubernets/helm, which is prone to lead to niche issues that other deployment options do not face.
+It also adds significant layers "middleware" between the App GUI and kubernetes/helm, which is prone to lead to niche issues that other deployment options do not face.
 
 We also would like to point out, that iX-Systems, the creators of TrueNAS SCALE, do not have much kubernetes experience or specialised engineers available.
 This does affect the quality of the end-product.
 
-Hence for chart management our preference would be to use KubeApps instead:
-https://truecharts.org/manual/kubeapps/intro
+Hence for chart management our preference would be to use [KubeApps](/platforms/kubeapps/) instead.
 
 ## How to Configure
 
-This can be done following the SCALE Guides [here](https://truecharts.org/manual/SCALE/guides/scale-intro/)
+This can be done following the SCALE Guides [here](/platforms/scale/guides/scale-intro/)

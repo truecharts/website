@@ -1,6 +1,7 @@
 ---
 title: An Introduction to TrueNAS SCALE
-sidebar_position: 2
+sidebar:
+  order: 2
 ---
 
 # Introduction to SCALE
@@ -24,16 +25,16 @@ Anything related to TrueTool has been deprecated and is now replaced with [Heavy
 
 ## Installing Apps
 
-Once you've [added the TrueCharts Catalog](https://truecharts.org/manual/SCALE/guides/getting-started/#minimal-getting-started-setup-with-scale) to your SCALE installation, you can choose from [hundreds of apps](https://truecharts.org/charts/description_list) to install through the catalog user interface.
+Once you've [added the TrueCharts Catalog](/platforms/scale/guides/getting-started/#minimal-getting-started-setup-with-scale) to your SCALE installation, you can choose from [hundreds of apps](/charts/description-list) to install through the catalog user interface.
 
-- Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to choose a storage pool for your Apps. See our [system requirements](https://truecharts.org/manual/SCALE/systemrequirements/) page to ensure you're good to go.
+- Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to choose a storage pool for your Apps. See our [system requirements](/platforms/scale/systemrequirements/) page to ensure you're good to go.
 - After creating your Apps pool, you'll be able to add the 3rd party TrueCharts catalog.
 
 ### Requirements
 
-- Your SCALE Apps has the [TrueCharts catalog](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts) added and meets the minimum system requirements mentioned above
+- Your SCALE Apps has the [TrueCharts catalog](/platforms/scale/guides/getting-started#adding-truecharts) added and meets the minimum system requirements mentioned above
 - You have a working Internet connection and can reach GitHub and truecharts.org from the host system
-- If you plan to add additional app storage to your app, review important information about [app storage and host path validation](https://truecharts.org/manual/SCALE/guides/add-storage).
+- If you plan to add additional app storage to your app, review important information about [app storage and host path validation](/platforms/scale/guides/add-storage).
 
 ### Adding the App
 
@@ -47,17 +48,16 @@ To add a new TrueCharts app to your SCALE installation:
 
 ![Discover Apps](./img/Apps2.png)
 
-
 3. Find the app you wish to install using the search bar (or by scrolling through the catalog), e.g. Homarr, and click the **Install** button.
 
 ![Adding App](./img/Apps6.png)
 
-4. [Configure your app](https://truecharts.org/manual/SCALE/options/) for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**.
-   **[Application Name:](https://truecharts.org/manual/SCALE/options/application-name/)** Configure a custom name for your app and select a version to install.  
-   **General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.  
-   **[Networking & Services:](https://truecharts.org/manual/SCALE/options/networking/)** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
-   **[Storage and Persistence:](https://truecharts.org/manual/SCALE/options/storage/)** Configure core app storage and [add additional app storage](https://truecharts.org/manual/SCALE/guides/add-storage).  
-   **[Ingress:](https://truecharts.org/manual/SCALE/options/ingress/)** For TrueCharts apps you can configure [Ingress with Traefik](https://truecharts.org/charts/premium/traefik/how-to) to easily proxy Internet traffic to your app.  
+4. [Configure your app](/platforms/scale/options/) for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**.
+   **[Application Name:](/platforms/scale/options/application-name/)** Configure a custom name for your app and select a version to install.
+   **General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.
+   **[Networking & Services:](/platforms/scale/options/networking/)** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
+   **[Storage and Persistence:](/platforms/scale/options/storage/)** Configure core app storage and [add additional app storage](/platforms/scale/guides/add-storage).
+   **[Ingress:](/platforms/scale/options/ingress/)** For TrueCharts apps you can configure [Ingress with Traefik](/charts/premium/traefik/how-to) to easily proxy Internet traffic to your app.
    **Security & Permissions:** Configure PUID, fsGroup, and other security and file permissions for your app.
    **Other Options:** You can also configure GPU support, addons (such as adding a CodeServer for easy file editing), and advanced app settings.
 5. Once you've finished configuring your app, click **Install** to start the deployment process.
@@ -72,7 +72,7 @@ Give your app a few minutes to deploy. You can check its status in the SCALE tas
 
 ### Notes
 
-- You can view specific configuration information about your app in its app-specific page by searching for it in the [charts list](https://truecharts.org/charts/description_list), searching our guides, or by searching for threads about it on the TrueCharts Discord.
+- You can view specific configuration information about your app in its app-specific page by searching for it in the [charts list](/charts/description-list), searching our guides, or by searching for threads about it on the TrueCharts Discord.
 - If you see both an `incubator` and `stable` version of an app in the TrueCharts catalog, you should always use the `stable` version as it is the best maintained version.
 - Some apps are available in both the TrueCharts catalog and iXsystems default catalog. We recommend and only support the TrueCharts version of an app for access to features and capability alignment.
 - Once an app is thoroughly tested and known to be stable, it can be moved from the `incubator` train to the `stable` train. You can let the TrueCharts team know if a particular app appears to be working well enough to be moved to the `stable` train.
@@ -84,9 +84,9 @@ Editing Apps is possible since 21.08, although it has a slightly different GUI i
 ### Requirements
 
 - Make sure your storage-pool is created and working
-- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](https://truecharts.org/manual/SCALE/guides/getting-started#configuring-your-app-pool)
+- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](/platforms/scale/guides/getting-started)
 - Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
-- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts)
+- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/platforms/scale/guides/getting-started#adding-truecharts)
 - Make sure your App is installed and, preferably, working
 
 ### Editing the App
@@ -123,7 +123,7 @@ After the process popup disappears, it might take a few minutes to actually depl
 
 ### Upgrading the app using HeavyScript
 
-Alternatively, you can also use [HeavyScript](https://truecharts.org/manual/SCALE/guides/getting-started/#heavyscript) to update your apps and even configure it to do so automatically via a CRON job. Examples and instructions are found on the previously linked page and the HeavyScript Github, also linked on that page.
+Alternatively, you can also use [HeavyScript](/platforms/scale/guides/getting-started/#heavyscript) to update your apps and even configure it to do so automatically via a CRON job. Examples and instructions are found on the previously linked page and the HeavyScript Github, also linked on that page.
 
 ## Rollback an app
 
