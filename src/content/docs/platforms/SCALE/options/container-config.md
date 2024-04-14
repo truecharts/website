@@ -1,6 +1,7 @@
 ---
 title: Container Configuration
-sidebar_position: 3
+sidebar:
+  order: 3
 ---
 
 # Container Configuration

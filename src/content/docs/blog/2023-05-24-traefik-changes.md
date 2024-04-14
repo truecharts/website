@@ -5,11 +5,10 @@ authors: [ornias]
 date: 2023-05-24
 ---
 
-BLUF: Traefik (Stable) is Deprecated. Users need to add the Enterprise channel and install Traefik (Enterprise).
-https://truecharts.org/manual/SCALE/guides/getting-started#adding-truecharts
+BLUF: Traefik (Stable) is Deprecated. Users need to add the Enterprise channel and install Traefik.
+[See how to get started](/platforms/scale/guides/getting-started#adding-truecharts)
 
-The use of TrueNAS Scale Certificates is also deprecated and you must migrate to Clusterissuer (Enterprise).
-https://truecharts.org/charts/enterprise/clusterissuer/how-to
+The use of TrueNAS Scale Certificates is also deprecated and you must migrate to [Clusterissuer](/charts/premium/clusterissuer/how-to).
 (note: Clusterissuer replaced Cert-Manager)
 
 As some of you might've noticed, Traefik has been a bit outdated the last few weeks.
@@ -28,4 +27,4 @@ We also got the request from iX-systems staff a while ago to limit our use of no
 As we're working hard on building separate operator helm-charts, instead of handling it in the background.This work leads to a unrelated temporary issue, which has been created on purpose: CNPG will currently only be installed on new systems, if one of our "enterprise" charts is being installed.
 More news about this will be released later.
 
-_For any help, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](https://discord.gg/tVsPTHWTtr) as normal._
+_For any help, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](/s/discord) as normal._

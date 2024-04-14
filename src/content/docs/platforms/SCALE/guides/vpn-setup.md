@@ -1,6 +1,7 @@
 ---
 title: Setting up VPNs on TrueNAS SCALE
-sidebar_position: 13
+sidebar:
+  order: 13
 ---
 
 # Gluetun VPN Add-on Setup Guide

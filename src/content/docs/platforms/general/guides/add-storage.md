@@ -14,21 +14,16 @@ For PVC storage to function correctly, it's important to already have a storageC
 
 To setup persistence, add the following section to the values.yaml manually and adapt as needed:
 
-```
+```yaml
 persistence:
   config:
     enabled: true
     type: PVC
-	mountPath: /mystorage
+  mountPath: /mystorage
 ```
-
 
 In some cases an ingress might already been partly defined. That means you should append the information as you need it, but not touch, for example, the mountPath.
 
+## More info
 
-## More info:
-
-For more info, check out the common-chart persistence options:
-
-https://truecharts.org/manual/helm/common/persistence/
-
+For more info, check out the common-chart [persistence options](/general/common/persistence/)

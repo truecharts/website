@@ -1,6 +1,7 @@
 ---
 title: Backup, Migrations and Restoring
-sidebar_position: 15
+sidebar:
+  order: 15
 ---
 
 # Backup, Migrations and Restore

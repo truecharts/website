@@ -1,6 +1,7 @@
 ---
 title: Application Configuration
-sidebar_position: 4
+sidebar:
+  order: 4
 ---
 
 # Application Configuration

@@ -4,13 +4,13 @@ import starlight from "@astrojs/starlight";
 import starlightDocSearch from "@astrojs/starlight-docsearch";
 // Tailwind
 import tailwind from "@astrojs/tailwind";
-// TODO: Reenable once chart docs are also merged, due to broken internal links atm
 // https://github.com/HiDeoo/starlight-links-validator
-// import starlightLinksValidator from "starlight-links-validator";
+import starlightLinksValidator from "starlight-links-validator";
 // https://github.com/HiDeoo/starlight-image-zoom
 import starlightImageZoom from "starlight-image-zoom";
 // https://github.com/HiDeoo/starlight-blog
 import starlightBlog from "starlight-blog";
+// https://docs.astro.build/en/guides/integrations-guide/sitemap/
 import sitemap from "@astrojs/sitemap";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
@@ -74,6 +74,7 @@ export default defineConfig({
         discord: new URL("/s/discord", site).href,
         telegram: new URL("/s/tg", site).href,
         openCollective: new URL("/s/oc", site).href,
+        patreon: new URL("/s/patreon", site).href,
       },
       editLink: {
         baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
@@ -91,11 +92,10 @@ export default defineConfig({
           authors: authors,
         }),
         starlightImageZoom(),
-        // TODO: Reenable once chart docs are also merged, due to broken internal links atm
-        // starlightLinksValidator({
-        //   errorOnRelativeLinks: false,
-        //   errorOnFallbackPages: false,
-        // }),
+        starlightLinksValidator({
+          errorOnRelativeLinks: false,
+          errorOnFallbackPages: false,
+        }),
         starlightDocSearch({
           appId: "M5JIEOBD9S",
           apiKey: "996ff61cece86950829f65416b941711",

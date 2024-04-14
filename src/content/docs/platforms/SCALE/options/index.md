@@ -1,22 +1,21 @@
 ---
 title: App Install Configuration Options Index
-sidebar_position: 13
+sidebar:
+  order: 13
 ---
-
-# App Install Configuration Options
 
 This section will go through the sections that you will find when installing a TrueCharts application. Not all applications will have all of the sections named below. Please see the menu to advance to the specific section or click on the navigation buttons below.
 
-- [Application Name](https://truecharts.org/manual/SCALE/options/application-name)
-- [Controller](https://truecharts.org/manual/SCALE/options/controller)
-- [Container Configuration](https://truecharts.org/manual/SCALE/options/container-config)
-- [App Configuration](https://truecharts.org/manual/SCALE/options/application-config)
-- [Networking and Services](https://truecharts.org/manual/SCALE/options/networking)
-- [Storage and Persistence](https://truecharts.org/manual/SCALE/options/storage)
-- [Ingress](https://truecharts.org/manual/SCALE/options/ingress)
-- [Security and Permissions](https://truecharts.org/manual/SCALE/options/security)
-- [Resources and Devices](https://truecharts.org/manual/SCALE/options/resources-devices)
-- [Metrics](https://truecharts.org/manual/SCALE/options/metrics)
-- [Addons](https://truecharts.org/manual/SCALE/options/add-ons)
-- [Advanced](https://truecharts.org/manual/SCALE/options/advanced)
-- [Documentation](https://truecharts.org/manual/SCALE/options/documentation)
+- [Application Name](/platforms/scale/options/application-name)
+- [Controller](/platforms/scale/options/controller)
+- [Container Configuration](/platforms/scale/options/container-config)
+- [App Configuration](/platforms/scale/options/application-config)
+- [Networking and Services](/platforms/scale/options/networking)
+- [Storage and Persistence](/platforms/scale/options/storage)
+- [Ingress](/platforms/scale/options/ingress)
+- [Security and Permissions](/platforms/scale/options/security)
+- [Resources and Devices](/platforms/scale/options/resources-devices)
+- [Metrics](/platforms/scale/options/metrics)
+- [Addons](/platforms/scale/options/add-ons)
+- [Advanced](/platforms/scale/options/advanced)
+- [Documentation](/platforms/scale/options/documentation)

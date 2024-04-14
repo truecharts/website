@@ -1,6 +1,7 @@
 ---
 title: TrueNAS SCALE System Requirements
-sidebar_position: 3
+sidebar:
+  order: 3
 ---
 
 # System Requirements

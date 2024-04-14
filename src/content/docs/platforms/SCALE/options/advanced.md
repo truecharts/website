@@ -1,6 +1,7 @@
 ---
 title: Advanced
-sidebar_position: 12
+sidebar:
+  order: 12
 ---
 
 # Advanced

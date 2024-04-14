@@ -1,6 +1,7 @@
 ---
 title: Accessing App PVCs on TrueNAS SCALE
-sidebar_position: 16
+sidebar:
+  order: 16
 ---
 
 # Accessing PVC Data

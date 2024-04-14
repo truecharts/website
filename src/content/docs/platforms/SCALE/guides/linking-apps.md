@@ -1,6 +1,7 @@
 ---
 title: Linking Apps Internally on TrueNAS SCALE
-sidebar_position: 7
+sidebar:
+  order: 7
 ---
 
 # Linking Apps Internally

@@ -1,6 +1,7 @@
 ---
 title: General Helm Support Policy
-sidebar_position: 2
+sidebar:
+  order: 2
 ---
 
 ## TrueCharts on Helm
@@ -13,12 +14,11 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 ### Supported Versions of Helm
 
-| TrueNAS version    | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes                                                                                          |
-| ------------------ | -------- | ---------------------- | ------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
-| 3.11 and prior         | `master` | :white_check_mark:     | :x:                       | :x:                   |  |
-| 3.12 - 3.14            | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    |  |
+| TrueNAS version | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes |
+| --------------- | -------- | ---------------------- | ------------------------- | --------------------- | ----- |
+| 3.11 and prior  | `master` | :white_check_mark:     | :x:                       | :x:                   |       |
+| 3.12 - 3.14     | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    |       |
 
 ## Project Scope
 
-For more info on what to expect from TrueCharts Apps, be sure to also read the Project Scope documentation:
-https://truecharts.org/manual/scope
+For more info on what to expect from TrueCharts Apps, be sure to also read the [Project Scope documentation](/general/scope)

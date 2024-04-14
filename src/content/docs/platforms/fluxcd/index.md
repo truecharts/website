@@ -1,6 +1,7 @@
 ---
 title: FluxCD Introduction
-sidebar_position: 1
+sidebar:
+  order: 1
 ---
 
 # Introduction
@@ -21,14 +22,11 @@ This means that we expect it to work smoothly, all options being technically ava
 
 With Tier 2 options, you should not have to expect issues caused by the deployment option.
 
-
 ## How to Configure
 
 Configuration should be done "The Helm Way" via editing HelmRelease objects in the git repository.
 Values of which can be used like normal on helm.
 
-This can be done following the Helm Guides:
-https://truecharts.org/manual/helm/guides/
+This can be done following the [Helm Guides](/platforms/general/)
 
-and checking all the many options available in our Common Library Chart:
-https://truecharts.org/manual/helm/common/
+and checking all the many options available in our [Common Library Chart](/general/common/)

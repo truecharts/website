@@ -1,6 +1,7 @@
 ---
 title: Recovering CNPG Apps after a TrueNAS SCALE Reboot
 ---
+
 # Recover CNPG App after Reboot
 
 Apps with a PostgreSQL database that were updated to the new CNPG common sometimes don't survive a reboot of TrueNAS Scale. The App then hangs on _DEPLOYING_ and pods are in state _Completed_ or _TaintToleration_.
@@ -48,7 +49,7 @@ home-assistant-cnpg-main-rw:5432 - no response
 
 ## Recovery Steps
 
-To recover your app, you need to first stop it ([do not click the _Stop_ button!](https://truecharts.org/manual/FAQ#how-do-i-stop-a-truecharts-app-truenas-scale-only)), delete the hanging pods and then restart the app.
+To recover your app, you need to first stop it ([do not click the _Stop_ button!](/general/faq#how-do-i-stop-a-truecharts-app-truenas-scale-only)), delete the hanging pods and then restart the app.
 
 1. Stop the app either by checking "Stop All" in the app settings or with HeavyScript.
 
@@ -70,7 +71,7 @@ e.g. k3s kubectl delete pods -n ix-home-assistant home-assistant-85865456d5-tc8h
 heavyscript app --start <app-name>
 ```
 
-5. If you unchecked "Stop All" you might have to click the Start Button on the GUI (Start is safe, Stop is NOT).  
+5. If you unchecked "Stop All" you might have to click the Start Button on the GUI (Start is safe, Stop is NOT).
    There also might be a task that gets stuck in TrueNAS under Jobs (top right). You can get rid of those by restarting TrueNAS GUI with
 
 ```bash

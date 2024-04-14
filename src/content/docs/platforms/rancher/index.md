@@ -1,9 +1,8 @@
 ---
 title: Rancher Introduction
-sidebar_position: 1
+sidebar:
+  order: 1
 ---
-
-# Introduction
 
 Rancher is a Helm-Charts-as-Apps tool.
 Rancher, like KubeApps, is developed by industry experts that know how to handle Helm-Charts optimally and doesn't add needless technical complications.
@@ -25,15 +24,12 @@ Hence we would advice a "Tier 2" or "Tier 1" solution instead.
 
 ## Caveats
 
-Rancher is a pretty "heavy" solution. Hence for chart management our preference would be to use KubeApps instead:
-https://truecharts.org/manual/kube-apps
+Rancher is a pretty "heavy" solution. Hence for chart management our preference would be to use [KubeApps instead](/platforms/kubeapps)
 
 ## How to Configure
 
-At the moment we don't have (many) specialised GUI elements available on Rancher, so configuration should be done "The Helm Way" via editing the Chart Yaml in the GUI.
+At the moment we don't have (many) specialized GUI elements available on Rancher, so configuration should be done "The Helm Way" via editing the Chart Yaml in the GUI.
 
-This can be done following the Helm Guides:
-https://truecharts.org/manual/helm/guides/
+This can be done following the [Helm Guides](/platforms/general/)
 
-and checking all the many options available in our Common Library Chart:
-https://truecharts.org/manual/helm/common/
+and checking all the many options available in our [Common Library Chart](/general/common/)

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar:
+  order: 2
 title: Project Scope
 ---
-
 
 TrueCharts is a comprehensive project that focuses on providing Helm charts for applications to run on Kubernetes-based platforms. This documentation article aims to describe the project's scope, highlighting its key principles and areas of focus.
 
@@ -35,19 +35,21 @@ Each has it's own meaning and limitations for support.
 
 ### Stable Train Charts
 
-We provide direct support for getting `stable` train charts working on our [discord](https://discord.gg/tVsPTHWTtr) inside the **#support** channel.
+We provide direct support for getting `stable` train charts working on our [discord](/s/discord) inside the **#support** channel.
 That includes installation and guidance on getting it working with defaults or basic settings (not advanced customizations or remote smb shares, etc).
-Bug reports aren't accepted on [discord](https://discord.gg/tVsPTHWTtr) so if you spot a bug (Charts in the stable train should work with mostly defaults configuration)
+Bug reports aren't accepted on [discord](/s/discord) so if you spot a bug (Charts in the stable train should work with mostly defaults configuration)
 please report them to our [github](https://github.com/truecharts/charts/issues/new/choose). Bug reports that state something doesn't work without supporting items may be closed.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
      crossorigin="anonymous"></script>
+
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-9270569596814796"
      data-ad-slot="1707785957"></ins>
+
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -56,7 +58,7 @@ please report them to our [github](https://github.com/truecharts/charts/issues/n
 
 Our support policy for `incubator` train charts is different for those on the `stable` train. Those charts are work in progress,
 may break at anytime and we're still going through many of the charts from unRAID. We won't accept support tickets for `incubator` train
-charts on our [discord](https://discord.gg/tVsPTHWTtr). However, we have an **#incubator-chat** channel for these apps to help get them running and/or receive feedback.
+charts on our [discord](/s/discord). However, we have an **#incubator-chat** channel for these apps to help get them running and/or receive feedback.
 With enough positive feedback a chart can be promoted to `stable` train. Feedback about bugs is also accepted there which can be used to fix them.
 Assume anything in the `incubator` train is in beta and you're testing it. As well, anything installed in `incubator` will have to be REINSTALLED once it moves to the `stable` train.
 

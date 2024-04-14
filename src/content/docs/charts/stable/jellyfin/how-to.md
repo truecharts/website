@@ -96,6 +96,6 @@ Choose the media type (or as best as you can match it) and click the (+) sign be
 
 ## Support
 
-- You can also reach us using [Discord](https://discord.gg/tVsPTHWTtr) for real-time feedback and support
+- You can also reach us using [Discord](/s/discord) for real-time feedback and support
 - If you found a bug in our chart, open a Github [issue](https://github.com/truecharts/apps/issues/new/choose)
 - For further information on operating **Jellyfin** itself, start with their [Quick Start Guide](https://jellyfin.org/docs/general/quick-start).

@@ -44,4 +44,4 @@ Once the `basicAuth` is installed, please visit the `URL` that you configured th
 
 ## Support
 
-- If you need more help you can also reach us using [Discord](https://discord.gg/tVsPTHWTtr) for real-time feedback and support.
+- If you need more help you can also reach us using [Discord](/s/discord) for real-time feedback and support.

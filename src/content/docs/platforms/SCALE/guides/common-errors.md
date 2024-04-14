@@ -1,6 +1,7 @@
 ---
 title: Common Errors and Solutions on TrueNAS SCALE
-sidebar_position: 17
+sidebar:
+  order: 17
 ---
 
 ## General Errors
@@ -15,7 +16,7 @@ This error is due to old version of Helm. Helm > 3.9.4 is required.
 The solution:
 Upgrade to TrueNAS SCALE Cobia (23.10.x) or newer. System Settings -> Update -> Select Cobia from the dropdown. SCALE Bluefin and Angelfish releases are no longer supported.
 
-Support Policy: https://truecharts.org/manual/SCALE/SUPPORT/
+[See our Support Policy](/platforms/scale/support/)
 
 ---
 
@@ -51,6 +52,7 @@ Once deleted you can attempt the update (or if you were already updated to lates
 `[EFAULT] Failed to update App: Error: UPGRADE FAILED: cannot patch "APPNAME-cnpg-main" with kind Cluster: Internal error occurred: failed calling webhook "mcluster.cnpg.io": failed to call webhook: Post "https://cnpg-webhook-service.ix-cloudnative-pg.svc/mutate-postgresql-cnpg-io-v1-cluster?timeout=10s": service "cnpg-webhook-service" not found`
 
 The solution:
+
 - Enter the following command
 
 ```bash
@@ -65,6 +67,7 @@ k3s kubectl delete deployment.apps/cloudnative-pg --namespace ix-cloudnative-pg
 `[EFAULT] Failed to update App: Error: UPGRADE FAILED: unable to build kubernetes objects from current release manifest: resource mapping not found for name: "APPNAME" namespace: "ix-APPNAME" from "": no matches for kind "PodMonitor" in version "monitoring.coreos.com/v1" ensure CRDs are installed first`
 
 The solution:
+
 - Install `Prometheus-Operator` first, then go back and install the app you were trying to install
 - If you see this error with Prometheus-Operator already installed, delete it and reinstall
 - While deleting Prometheus-{o}perator, if you encounter the error:
@@ -94,7 +97,7 @@ To remove the previous automatically installed operator run this in the system s
 k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete4
 ```
 
-https://truecharts.org/manual/FAQ#cert-manager
+[See more here](/general/faq#cert-manager)
 
 #### backups.postgresql.cnpg.io
 
@@ -113,7 +116,7 @@ Run the following command in system shell as **root** to see if you have any cur
 k3s kubectl get cluster -A
 ```
 
-Follow [this guide](https://truecharts.org/manual/SCALE/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+Follow [this guide](/platforms/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
 
 :::
 
@@ -123,7 +126,7 @@ To remove the previous automatically installed operator run this in the system s
 k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete2
 ```
 
-https://truecharts.org/manual/FAQ#cloudnative-pg
+[See more here](/general/faq#cloudnative-pg)
 
 #### addresspools.metallb.io
 
@@ -144,7 +147,7 @@ To remove the previous automatically installed operator run this in the system s
 k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete
 ```
 
-https://truecharts.org/manual/FAQ#metallb
+[See more here](/general/faq#metallb)
 
 #### alertmanagerconfigs.monitoring.coreos.com
 
@@ -159,7 +162,7 @@ To remove the previous automatically installed operator run this in the system s
 k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete3
 ```
 
-https://truecharts.org/manual/FAQ#prometheus-operator
+[See more here](/general/faq#prometheus-operator)
 
 ### Operator [traefik] has to be installed first
 

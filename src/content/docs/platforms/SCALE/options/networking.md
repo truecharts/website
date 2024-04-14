@@ -1,6 +1,7 @@
 ---
 title: Networking and Services
-sidebar_position: 5
+sidebar:
+  order: 5
 ---
 
 # Networking and Services

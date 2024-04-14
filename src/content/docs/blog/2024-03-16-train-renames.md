@@ -10,7 +10,7 @@ We're back with some thrilling announcements that promise to enhance your experi
 ## Train Name Refresh: Introducing Premium and System Trains
 
 First off, we're thrilled to introduce our revamped train names: Premium Train and System Train. Say goodbye to the old names; these new labels better align with the quality and breadth of resources you'll find within.
-You'll find both an automated script *and* a one-by-one version to deal with this name change for you, for both SCALE and Helm platforms, at the [bottom](#note-automated-migration-script-for-train-name-changes) of this article.
+You'll find both an automated script _and_ a one-by-one version to deal with this name change for you, for both SCALE and Helm platforms, at the [bottom](#note-automated-migration-script-for-train-name-changes) of this article.
 
 ### Enterprise out, Premium in
 
@@ -34,7 +34,7 @@ This name change reflects this train no longer just containing operators, but no
 ## Experimental Support for TrueNAS SCALE 24.04 DragonFish
 
 In a bold move, we've added initial prototype support for TrueNAS SCALE 24.04 DragonFish. However, it's crucial to note that this support is still highly experimental. As such, we do not offer staff support or guarantee data integrity for the BETA or TC versions of TrueNAS SCALE 24.04 DragonFish.
-You can read more on the steps required for running TrueNAS SCALE 24.04 Dragonfish [here](https://truecharts.org/manual/SCALE/guides/dragonfish-storage).
+You can read more on the steps required for running TrueNAS SCALE 24.04 Dragonfish [here](/platforms/scale/guides/dragonfish-storage).
 
 ## Our Successful Bounty Program
 
@@ -57,7 +57,7 @@ Please be aware we do not give guarantees and this script may need adapting to y
 
 ### Helm Platform - Automated Migration Script
 
-*save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it*
+_save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it_
 
 ```bash
 #!/bin/bash
@@ -91,7 +91,7 @@ curl -sSL https://raw.githubusercontent.com/xstar97/scale-scripts/main/scripts/p
 
 ### SCALE Platform - Automated Migration Script
 
-*save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it*
+_save as nameupdate.sh and run `chmod +x nameupdate.sh` before running it_
 
 ```bash
 #!/bin/bash
@@ -115,7 +115,7 @@ done
 
 ### Manual Migration Script
 
-*Use this script to manually migrate your existing SCALE apps to the new trains. Replace `blocky` with the app name in question and `premium` with the new train-name*.
+_Use this script to manually migrate your existing SCALE apps to the new trains. Replace `blocky` with the app name in question and `premium` with the new train-name_.
 
 ```bash
 k3s kubectl patch ns ix-blocky -p '{"metadata":{"labels":{"catalog_train":"premium"}}}'
