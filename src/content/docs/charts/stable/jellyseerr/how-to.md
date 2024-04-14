@@ -45,7 +45,7 @@ from Deploying to Active - once it does, click the Open button to launch the **J
 
 ## Support
 
-- You can also reach us using [Discord](/s/discord) for real-time feedback and support
+- You can also reach us using [Discord](https://discord.gg/tVsPTHWTtr) for real-time feedback and support
 - If you found a bug in our chart, open a Github [issue](https://github.com/truecharts/apps/issues/new/choose)
 - For further information on **Jellyseerr** itself, start with their [Github](https://github.com/Fallenbagel/jellyseerr).
 - For further information on operating **Overseerr** itself, start with their [Documentation](https://docs.overseerr.dev/).
