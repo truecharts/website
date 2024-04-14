@@ -1,5 +1,8 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+// Algolia Search
+import starlightDocSearch from "@astrojs/starlight-docsearch";
+// Tailwind
 import tailwind from "@astrojs/tailwind";
 // TODO: Reenable once chart docs are also merged, due to broken internal links atm
 // https://github.com/HiDeoo/starlight-links-validator
@@ -11,8 +14,6 @@ import starlightBlog from "starlight-blog";
 import sitemap from "@astrojs/sitemap";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
-// Use algolia for search
-import starlightDocSearch from "@astrojs/starlight-docsearch";
 
 const site = "https://test.truecharts.org";
 // https://astro.build/config
@@ -63,6 +64,9 @@ export default defineConfig({
             "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q9NT692BZZ');",
         },
       ],
+      tableOfContents: {
+        maxHeadingLevel: 6,
+      },
       social: {
         github: new URL("/s/git", site).href,
         facebook: new URL("/s/fb", site).href,
@@ -89,8 +93,8 @@ export default defineConfig({
         starlightImageZoom(),
         // TODO: Reenable once chart docs are also merged, due to broken internal links atm
         // starlightLinksValidator({
-        //  errorOnRelativeLinks: false,
-        //  errorOnFallbackPages: false,
+        //   errorOnRelativeLinks: false,
+        //   errorOnFallbackPages: false,
         // }),
         starlightDocSearch({
           appId: "M5JIEOBD9S",

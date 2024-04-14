@@ -9,6 +9,10 @@
   - `date`
   - `authors` (The key in the `authors` object in `src/content/docs/blog/authors.ts`)
 
+## Supported Code Block Languages
+
+Check upstream [docs](https://github.com/shikijs/textmate-grammars-themes/blob/main/packages/tm-grammars/README.md#grammars)
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
