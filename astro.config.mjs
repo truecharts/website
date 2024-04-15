@@ -123,5 +123,5 @@ export default defineConfig({
       }
     }]
   }),
-  sitemap(), robotsTxt(), tailwind(), lottie(), preload()]
+  sitemap(), robotsTxt(), tailwind(), lottie()]
 });
