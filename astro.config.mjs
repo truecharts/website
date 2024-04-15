@@ -82,7 +82,7 @@ export default defineConfig({
         baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
       },
       lastUpdated: true,
-      pagefind: true,
+      //pagefind: true,
       components: {
         Header: "./src/components/CustomHeader.astro",
         Hero: "./src/components/CustomHero.astro",
