@@ -2,14 +2,15 @@
 import fs from "fs";
 
 let {
-    image,
 	name,
+    image,
+	profile,
     url = image,
     imgName = new URL(image).pathname.split("/").pop(),
     size = 50,
     alt = "Image could not be loaded",
     ...props
-}: Props = Astro.props;
+} = Astro.props;
 
 if (!imgName) {
     throw `[astro-preload] name not provided and cannot be extracted from the url ${image}.\nPlease, provide a name.`;
