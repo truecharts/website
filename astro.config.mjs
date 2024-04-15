@@ -131,8 +131,8 @@ export default defineConfig({
       HTML: true,
       CSS: true,
       JavaScript: true,
-      Image: false,
-      SVG: false,
+      Image: true,
+      SVG: true,
     }),
   sitemap(), robotsTxt(), tailwind(), lottie(), preload()]
 });
