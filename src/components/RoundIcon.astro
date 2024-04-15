@@ -1,10 +1,10 @@
 ---
-import { Image } from "astro-preload/components";
+import { ContributorImage } from "./ContributorImage";
 const { name, image, profile } = Astro.props;
 ---
 
 <li class="flex hover:scale-125 duration-300">
   <a href={profile}>
-    <Image url={image} class="rounded-full !h-8 !w-8 object-cover" alt={name}  />
+    <ContributorImage url={image} class="rounded-full !h-8 !w-8 object-cover" alt={name}  />
   </a>
 </li>
