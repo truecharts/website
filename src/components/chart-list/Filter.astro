@@ -1,5 +1,10 @@
 ---
-import { titleCase, normalizeTrainName, getTrains } from "./utils";
+import {
+  titleCase,
+  normalizeTrainName,
+  getTrains,
+  getChartCount,
+} from "./utils";
 ---
 
 <script>
@@ -112,7 +117,9 @@ import { titleCase, normalizeTrainName, getTrains } from "./utils";
   });
 </script>
 
-<p class="text-center text-xl font-bold">Start exploring...</p>
+<p class="text-center text-xl font-bold">
+  Start exploring among <span class="text-tc-primary">{getChartCount()}</span> Charts
+</p>
 <ul class="ml-5 list-none flex flex-row gap-5 items-center justify-center">
   <div class="flex flex-row flex-wrap gap-5 items-center justify-center">
     {

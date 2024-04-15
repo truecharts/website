@@ -23,3 +23,13 @@ export const getChartDescription = (chart: string) => {
     .map((t) => t.charts.filter((c) => c.name === chart)[0])
     .map((c) => c.description)[0];
 };
+
+export const getChartCountFromTrain = (train: string) => {
+  return getChartsFromTrain(train).length;
+};
+
+export const getChartCount = () => {
+  let count = 0;
+  getTrains().forEach((train) => (count += getChartCountFromTrain(train)));
+  return count;
+};
