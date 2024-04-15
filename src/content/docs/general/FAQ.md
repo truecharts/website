@@ -11,10 +11,8 @@ TrueCharts Frequently Asked Questions
 We recommend using PVC for `config` storage, as it provides an easy way to roll back your application in case of a failed update. Furthermore, we currently only offer active support for this storage option. You can still use host path for your `media` files.
 
 :::tip
-
 To share data, create an `NFS` share and select `NFS Share` for the `Type of Storage` in the `Additional App Storage` settings.
 You can create an `SMB` share on the same mount point if needed.
-
 :::
 
 ## How can I access data inside PVC?
@@ -242,9 +240,7 @@ Here's a list of Apps in the stable and premium trains that use CNPG (up to date
 `xwiki`
 
 :::tip
-
 You can also click the App and check the Container Images for references to either `tccr.io/truecharts/postgresql` or `ghcr.io/cloudnative-pg`.
-
 :::
 
 If the App does not use CNPG, you have several options to stop an App:
@@ -290,15 +286,11 @@ to start:
 `heavyscript app --start APPNAME`
 
 :::note
-
 The application state in the web GUI will be `Started` since there is still a CNPG deployment running.
-
 :::
 
 :::danger
-
 **NEVER EVER** try to stop any CNPG related pods.
-
 :::
 
 ## Operators
@@ -315,14 +307,12 @@ To remove the previous automatically installed operator run this in the system s
 
 This operator is required for the use of any charts that utilize CloudNative PostgreSQL (CNPG).
 
-:::warning DATA LOSS
-
+:::caution[DATA LOSS]
 The following command is destructive and will delete any existing CNPG databases.
 
 Run the following command in system shell as **root** to see if you have any current CNPG databases to migrate: `k3s kubectl get pods -A | grep cnpg`
 
 Follow [this guide](/platforms/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
-
 :::
 
 To remove the previous automatically installed operator run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete2`
@@ -337,10 +327,8 @@ To remove the previous automatically installed operator run this in the system s
 
 This operator is required for the use of MetalLB to have each chart utilize a unique IP address.
 
-:::warning LOSS OF CONNECTIVITY
-
+:::cautiom[LOSS OF CONNECTIVITY]
 Installing the MetalLB operator will prevent the use of the TrueNAS Scale integrated load balancer. Only install this operator if you intend to use MetalLB.
-
 :::
 
 To remove the previous automatically installed operator run this in the system shell as **root**: `k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/manifests/delete`

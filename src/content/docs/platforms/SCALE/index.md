@@ -12,9 +12,7 @@ This makes SCALE Apps a great tool for users running a TrueNAS SCALE NAS and run
 But makes it less optimal for Advanced users.
 
 :::tip
-
 Please, always remember to check the content specific to the chart.
-
 :::
 
 ## Tier

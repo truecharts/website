@@ -3,10 +3,8 @@ title: Certificate
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -18,9 +16,7 @@ title: Certificate
 - `$FullName-$CertificateName` (release-name-chart-name-certificateName)
 
 :::tip
-
 - Replace references to `$name` with the actual name you want to use.
-
 :::
 
 ---
@@ -207,11 +203,9 @@ certificate:
 Define the certificate secret template for this certificate
 
 :::note
-
 At least one of the following keys must be defined
 
 [`labels`](#labels-1), [`annotations`](#annotations-1)
-
 :::
 
 |            |                                               |

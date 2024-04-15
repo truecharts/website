@@ -3,10 +3,8 @@ title: Scale External Interface
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -18,9 +16,7 @@ title: Scale External Interface
 - `ix-$ReleaseName-$index` (ix-release-name-0)
 
 :::tip
-
 - Replace references to `$name`, `$podName`, `$containerName` with the actual name you want to use.
-
 :::
 
 ---
@@ -58,9 +54,7 @@ scaleExternalInterface: []
 Define the hostInterface
 
 :::note
-
 Host interface is injected from TrueNAS SCALE UI
-
 :::
 
 |            |                                        |
@@ -128,9 +122,7 @@ scaleExternalInterface:
 Define static IP Configuration
 
 :::note
-
 Only required when the `ipam.type: static`
-
 :::
 
 |            |                                                      |

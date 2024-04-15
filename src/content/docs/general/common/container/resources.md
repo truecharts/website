@@ -3,10 +3,8 @@ title: Resources
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -51,10 +49,8 @@ workload:
 The minimum amount of resources that the container needs.
 
 :::note
-
 Requests are **required**, because without it, kubernetes uses the `limits` as the `requests`.
 Which can lead pods to be evicted or not even scheduled when they reach their `limits`.
-
 :::
 
 |            |                                                              |
@@ -138,9 +134,7 @@ workload:
 The maximum amount of resources that the container can use.
 
 :::note
-
 Limits are **optional**, can be set to "unlimited" by setting it's values (`cpu` and `memory`) to `0`.
-
 :::
 
 |            |                                                            |

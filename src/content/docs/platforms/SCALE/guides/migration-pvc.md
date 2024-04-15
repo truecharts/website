@@ -41,40 +41,32 @@ For apps installed with a different name, it will be `<app-name>-<default-name>`
 
 So for `vaultwarden` (the default name), it will be `vaultwarden`. But for the vaultwarden app that was installed with the name `testwarden`, it will be `testwarden-vaultwarden`.
 
-:::caution Replace the names in the angle brackets before executing commands
-
+:::caution[Replace the names in the angle brackets before executing commands]
 ```bash
 k3s kubectl scale deploy <app-name>-<default-name> -n ix-<app-name> --replicas=0
 k3s kubectl scale deploy <app-name> -n ix-<app-name> --replicas=0
 ```
-
 :::
 
-:::caution Example commands for apps with name vaultwarden and testwarden
-
+:::caution[Example commands for apps with name vaultwarden and testwarden]
 ```bash
 k3s kubectl scale deploy testwarden-vaultwarden -n ix-testwarden --replicas=0
 k3s kubectl scale deploy vaultwarden -n ix-vaultwarden --replicas=0
 ```
-
 :::
 
 ## Postgresql databases
 
-:::info
-
+:::tip
 You can skip this section if the app in question doesn't have a Postgresql database
-
 :::
 
 If the app uses a Postgresql database, we need to make a backup and restore that backup to the new app's database. To access the database, the app must be running.
 
-:::note Requirements
-
+:::note[Requirements]
 Make sure you have `pgAdmin` installed, as we'll be using it to make a backup and to restore the database. It's a TrueCharts app from the stable train. You can install it with all default settings, and it will work.
 
 Also make sure you have the database info script (`tcdbinfo.sh`) available on your server. Check the [Postgres DB info and restore](/platforms/scale/guides/sql-export) for these files.
-
 :::
 
 ### Configure database connections in pgAdmin
@@ -112,10 +104,8 @@ On the 2nd tab page, select the first 3 options (`Pre-data`, `Data` and `Post-da
     <br/>
 If the app uses a MariaDB database, we need to make a backup and restore that backup to the new app's database.
 
-:::note Requirements
-
+:::note[Requirements]
 Make sure you have `adminer` installed, as we'll be using it to make a backup and to restore the database. It's a TrueCharts app from the stable train. You can install it with all default settings, and it will work.
-
 :::
 
 ### Configure database connections in adminer
@@ -179,9 +169,7 @@ A full PVC path looks something like this: `poolname/ix-applications/releases/ap
 Destroy the PVCs of the new app and replicate the PVC of the old app to the new location.
 
 :::danger
-
 Make sure you're not mixing up the old app and the new app here. Destroy the _NEW_ PVC. The old PVC contains your data.
-
 :::
 
 ```bash

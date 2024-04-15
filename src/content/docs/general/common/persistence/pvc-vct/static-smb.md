@@ -3,10 +3,8 @@ title: Static SMB
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -14,10 +12,8 @@ title: Static SMB
 - `.Values.persistence.$name.static`
 
 :::tip
-
 - See available persistence keys [here](./index.md).
 - This options apply only when `type: pvc` or `type: vct` and `mode: smb`.
-
 :::
 
 ---

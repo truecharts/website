@@ -3,10 +3,8 @@ title: Probes
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -183,10 +181,8 @@ workload:
 Define command(s)
 
 :::note
-
 - Only applies when `type: exec`
 - It is **required**
-
 :::
 
 See [Command](./command.md#command) for more information.
@@ -198,9 +194,7 @@ See [Command](./command.md#command) for more information.
 Define the port
 
 :::note
-
 - Only applies when `type: grpc/tcp/http/https`
-
 :::
 
 |            |                                                              |
@@ -231,9 +225,7 @@ workload:
 Define the path
 
 :::note
-
 - Only applies when `type: http/https`
-
 :::
 
 |            |                                                              |
@@ -264,9 +256,7 @@ workload:
 Define the httpHeaders
 
 :::note
-
 - Only applies when `type: http/https`
-
 :::
 
 |            |                                                                     |

@@ -12,9 +12,7 @@ KubeApps, like Rancher, is developed by industry experts that know how to handle
 Just like, for example, TrueNAS SCALE Apps, you can use KubeApps to install update and remove our charts via a GUI.
 
 :::tip
-
 Please always remember to check the content specific to the chart.
-
 :::
 
 ## Tier

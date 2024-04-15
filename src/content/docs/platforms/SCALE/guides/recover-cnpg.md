@@ -4,11 +4,9 @@ title: Recovering CNPG Apps after Reboot
 
 Apps with a PostgreSQL database that were updated to the new CNPG common sometimes don't survive a reboot of TrueNAS Scale. The App then hangs on _DEPLOYING_ and pods are in state _Completed_ or _TaintToleration_.
 
-:::caution Best Effort Policy
-
+:::caution[Best Effort Policy]
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation or if you suffer data loss as a result.
 This guide has been tested with TrueNAS SCALE Bluefin 22.12.4.2, Cobia 23.10, CNPG 1.20.2_2.0.3 and HomeAssistant 2023.10.3_20.0.12.
-
 :::
 
 ## Symptoms

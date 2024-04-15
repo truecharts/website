@@ -106,8 +106,7 @@ k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/man
 The solution:
 The **Cloudnative-PG operator** is required for the use of any charts that utilize CloudNative Postgresql (CNPG).
 
-:::warning DATA LOSS
-
+:::danger[DATA LOSS]
 The following command is destructive and will delete any existing CNPG databases.
 
 Run the following command in system shell as **root** to see if you have any current CNPG databases to migrate:
@@ -117,7 +116,6 @@ k3s kubectl get cluster -A
 ```
 
 Follow [this guide](/platforms/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
-
 :::
 
 To remove the previous automatically installed operator run this in the system shell as **root**:
@@ -135,10 +133,8 @@ k3s kubectl delete  --grace-period 30 --v=4 -k https://github.com/truecharts/man
 The solution:
 The **Metallb operator** is required for the use of MetalLB to have each chart utilize a unique IP address.
 
-:::warning LOSS OF CONNECTIVITY
-
+:::danger[LOSS OF CONNECTIVITY]
 Installing the MetalLB operator will prevent the use of the TrueNAS Scale integrated load balancer. Only install this operator if you intend to use MetalLB.
-
 :::
 
 To remove the previous automatically installed operator run this in the system shell as **root**:
@@ -180,9 +176,7 @@ The solution:
 Install `Cloudnative-PG`.
 
 :::tip
-
 Ensure the system train is enabled in the Truecharts catalog under Apps -> Discover Apps -> Manage Catalogs.
-
 :::
 
 ### Operator [Prometheus-operator] has to be installed first
@@ -193,9 +187,7 @@ The solution:
 Install `Prometheus-operator`.
 
 :::tip
-
 Ensure the system train is enabled in the Truecharts catalog under Apps -> Discover Apps -> Manage Catalogs.
-
 :::
 
 ### Can't upgrade between ghcr.io/cloudnative-pg/postgresql

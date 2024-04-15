@@ -3,10 +3,8 @@ title: Pod Disruption Budget
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -18,9 +16,7 @@ title: Pod Disruption Budget
 - `$FullName-$podDisruptionBudgetName` (release-name-chart-name-podDisruptionBudgetName)
 
 :::tip
-
 - Replace references to `$name` with the actual name you want to use.
-
 :::
 
 ---
@@ -50,11 +46,9 @@ podDisruptionBudget: {}
 Define Pod Disruption Budget
 
 :::note
-
 At least one of the following keys must be defined
 
 [`minAvailable`](#minavailable), [`maxUnavailable`](#maxunavailable)
-
 :::
 
 |            |                             |

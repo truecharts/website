@@ -3,10 +3,8 @@ title: Ingress
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -19,9 +17,7 @@ title: Ingress
 - Non-Primary: `$FullName-$IngressName` (release-name-chart-name-ingress-name)
 
 :::tip
-
 - Replace references to `$name` with the actual name you want to use.
-
 :::
 
 ---

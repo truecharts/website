@@ -3,10 +3,8 @@ title: Cert Manager Integration
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -14,9 +12,7 @@ title: Cert Manager Integration
 - `.Values.ingress.$name.integration.certManager`
 
 :::tip
-
 - Replace references to `$name` with the actual name you want to use.
-
 :::
 
 ---

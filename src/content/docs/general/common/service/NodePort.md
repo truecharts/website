@@ -3,11 +3,9 @@ title: NodePort
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
 - See the [Service](./index.md) documentation for more information
-
 :::
 
 ## Appears in
@@ -15,10 +13,8 @@ title: NodePort
 - `.Values.service.$name`
 
 :::tip
-
 - See available service keys [here](./index.md).
 - This options apply only when `type: NodePort`.
-
 :::
 
 ---

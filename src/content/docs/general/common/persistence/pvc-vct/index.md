@@ -3,10 +3,8 @@ title: PVC / VCT
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -14,10 +12,8 @@ title: PVC / VCT
 - `.Values.persistence.$name`
 
 :::tip
-
 - See available persistence keys [here](./index.md).
 - This options apply only when `type: pvc` or `type: vct`.
-
 :::
 
 ---
@@ -212,7 +208,6 @@ persistence:
 Define the storageClass to use
 
 :::note How storageClass is resolved
-
 - If storageClass is defined on the `persistence`
   - `-` **->** `""`, (which means requesting a PV without class)
   - `SCALE-ZFS` **->** `{{ .Values.global.ixChartContext.storageClassName }}`
@@ -220,7 +215,6 @@ Define the storageClass to use
 - Else if **ixChartContext (TrueNAS SCALE)**, **->** `{{ .Values.global.ixChartContext.storageClassName }}`.
 - Else if [fallback storageClass](../../fallbackDefaults.md#storageclass), **->** this
 - Else **->** _nothing_ (which means requesting a PV without class)
-
 :::
 
 |            |                                  |

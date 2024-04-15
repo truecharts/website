@@ -16,10 +16,8 @@ Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE in
 - You are signed into your TrueNAS SCALE WebUI as `root` or as a user that can execute commands with `root` permissions.
 - Your apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/) for your Apps.
 
-:::info Quick start guides
-
+:::tip[Quick start guides]
 Below are the tl;dr versions of the full setup for certain use cases, scroll down for short blurbs on each step and why they're recommended.
-
 :::
 
 ## Minimal Getting Started Setup with SCALE
@@ -60,10 +58,8 @@ To add TrueCharts to your SCALE installation:
 
 Note: If you're having issues adding the Truecharts catalog to SCALE, you may need to check the "Force Create" button. This can sometimes occur on systems with slow internet connections or insufficient processing power.
 
-:::info Introduction to TrueNAS SCALE Guide
-
+:::tip[Introduction to TrueNAS SCALE Guide]
 Please free to check out our [Introduction to TrueNAS SCALE](/platforms/scale/guides/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
-
 :::
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"

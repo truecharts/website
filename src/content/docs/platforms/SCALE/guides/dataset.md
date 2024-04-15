@@ -8,10 +8,8 @@ This guide provides the recommended setup for dataset permissions, shares and ap
 
 TrueCharts applications are designed to use the `apps` (568) user for data permissions. Configure your dataset permissions as shown below to allows applications access.
 
-:::info ACL
-
+:::tip[ACL]
 If your existing dataset shows `Edit ACL` then you need to `Strip ACL` before continuing.
-
 :::
 
 ![data-perms](./img/data-perms.png)
@@ -30,10 +28,8 @@ Create a user and assign it to the `apps` group under `Auxiliary Groups` as show
 
 Create an SMB Share as shown below. All settings should remain default.
 
-:::warning ACL
-
+:::caution[ACL]
 After saving SMB settings TrueNAS Scale will ask if you want to `Configure ACL`. Do **NOT** as this will overwrite the previously configured permissions. You can select `Cancel`, SMB Share will still be configured.
-
 :::
 
 ![share-smb](./img/share-smb-cobia.png)
@@ -76,10 +72,8 @@ Create an NFS Share which will be used for applications to access the dataset. C
 
 For most applications data access will be configured under `Additional App Storage`.
 
-:::caution APP CONFIG STORAGE
-
+:::caution[APP CONFIG STORAGE]
 NFS should **NOT** be used for `App Config Storage`. This should be left on the default of PVC.
-
 :::
 
 Configure `Additional App Storage` as shown below. In some applications data storage is part of the application configuration, in those cases you would still configure NFS but not need to setup a `Mount Path`.

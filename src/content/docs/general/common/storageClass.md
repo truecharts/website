@@ -3,10 +3,8 @@ title: Storage Class
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -18,9 +16,7 @@ title: Storage Class
 - `$FullName-$StorageClassName` (release-name-chart-name-storageClassName)
 
 :::tip
-
 - Replace references to `$name` with the actual name you want to use.
-
 :::
 
 ---

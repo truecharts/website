@@ -3,10 +3,8 @@ title: Security Context
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -202,19 +200,15 @@ workload:
 Define the capabilities for the container
 
 :::note
-
 If at least one capability is defined in either [`add`](#securitycontextcapabilitiesadd) or [`drop`](#securitycontextcapabilitiesdrop)
 on container level, it will **NOT** get merged with the value(s) from the `.Values.securityContext.container.capabilities.[add/drop]`.
 But it will override them.
-
 :::
 
 :::tip
-
 When setting capabilities for containers, remember to **NOT** include `CAP_` prefix.
 For example, `CAP_NET_ADMIN` should be `NET_ADMIN`. This is not specific to this chart,
 but a general Kubernetes thing.
-
 :::
 
 |            |                                                                        |
@@ -357,9 +351,7 @@ workload:
 Define the seccompProfile.profile for the container
 
 :::note
-
 Only **required** when `securityContext.seccompProfile.type` is `Localhost`.
-
 :::
 
 |            |                                                                                  |

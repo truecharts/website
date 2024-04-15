@@ -3,10 +3,8 @@ title: Global
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -356,10 +354,8 @@ global:
 Namespace of the middleware
 
 :::tip
-
 If not defined, helm will do a lookup and try to find the namespace of the middleware.
 If more than one namespaces are found, it will throw an error.
-
 :::
 
 |            |                                                   |

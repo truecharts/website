@@ -3,10 +3,8 @@ title: Persistence
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -18,9 +16,7 @@ title: Persistence
 - `$FullName-$PersistenceName` (release-name-chart-name-PersistenceName)
 
 :::tip
-
 - Replace references to `$name`, `$podName`, `$containerName` with the actual name you want to use.
-
 :::
 
 ---

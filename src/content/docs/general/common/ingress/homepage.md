@@ -3,10 +3,8 @@ title: Homepage Integration
 ---
 
 :::note
-
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-
 :::
 
 ## Appears in
@@ -14,9 +12,7 @@ title: Homepage Integration
 - `.Values.ingress.$name.integration.homepage`
 
 :::tip
-
 - Replace references to `$name` with the actual name you want to use.
-
 :::
 
 ---
@@ -50,9 +46,7 @@ ingress:
 Define the name for the application
 
 :::note
-
 Sets the `gethomepage.dev/name` annotation
-
 :::
 
 |            |                                            |
@@ -80,9 +74,7 @@ ingress:
 Define the description for the application
 
 :::note
-
 Sets the `gethomepage.dev/description` annotation
-
 :::
 
 |            |                                                   |
@@ -110,9 +102,7 @@ ingress:
 Define the group for the application
 
 :::note
-
-Sets the `gethomepage.dev/group` annotation
-
+Sets the `gethomepage.dev/group` annotatio
 :::
 
 |            |                                             |
@@ -140,9 +130,7 @@ ingress:
 Define the icon for the application
 
 :::note
-
 Sets the `gethomepage.dev/icon` annotation
-
 :::
 
 |            |                                            |
@@ -170,9 +158,7 @@ ingress:
 Define the href for the application
 
 :::note
-
 Sets the `gethomepage.dev/href` annotation
-
 :::
 
 |            |                                            |
@@ -200,9 +186,7 @@ ingress:
 Define the weight for the application
 
 :::note
-
 Sets the `gethomepage.dev/weight` annotation
-
 :::
 
 |            |                                              |
@@ -230,9 +214,7 @@ ingress:
 Define the pods to select
 
 :::note
-
 Sets the `gethomepage.dev/pod-selector` annotation
-
 :::
 
 |            |                                                   |
@@ -286,8 +268,8 @@ ingress:
 Define the type of the widget
 
 :::note
-
 Sets the `gethomepage.dev/widget.type` annotation
+:::
 
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
@@ -315,9 +297,7 @@ ingress:
 Define the url for the widget
 
 :::note
-
 Sets the `gethomepage.dev/widget.url` annotation
-
 :::
 
 |            |                                                  |
@@ -346,9 +326,7 @@ ingress:
 Define custom annotations for the widget
 
 :::note
-
 Sets the `gethomepage.dev/widget.$key` annotation
-
 :::
 
 |            |                                                     |
@@ -402,9 +380,7 @@ ingress:
 Define the key for the custom annotation
 
 :::note
-
 Sets the `gethomepage.dev/widget.$key` annotation
-
 :::
 
 |            |                                                             |
