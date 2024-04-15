@@ -25,8 +25,8 @@ if (process.env.NODE_ENV === "production" && !url.startsWith("/")) {
     try {
         const preloadDir = "public/preloaded/roundicon";
 		const preloadBuildDir = "build/preloaded/roundicon";
-        const path = `${preloadDir}/${imgName}`;
-		const buildPath  = `${preloadBuildDir}/${imgName}`;
+        const path = `${preloadDir}/${imgName}.jpg`;
+		const buildPath  = `${preloadBuildDir}/${imgName}.jpg`;
 
         if (!fs.existsSync(path)) {
             if (!fs.existsSync(preloadDir)){
@@ -59,7 +59,7 @@ if (process.env.NODE_ENV === "production" && !url.startsWith("/")) {
             );
         }
 
-        url = import.meta.env.BASE_URL + `preloaded/roundicon/${imgName}`;
+        url = import.meta.env.BASE_URL + `preloaded/roundicon/${imgName}.jpg`;
     } catch {
         console.log(
             `[astro-preload]: Failed to load image '${imgName}', fallback to using '${url}'`
