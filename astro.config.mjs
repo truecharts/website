@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config";
-import betterImageService from "astro-better-image-service";
 import preload from "astro-preload";
+import betterImageService from "astro-better-image-service";
 import playformCompress from "@playform/compress";
 import starlight from "@astrojs/starlight";
 // Algolia Search
