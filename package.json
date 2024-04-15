@@ -31,7 +31,7 @@
     "prism-react-renderer": "2.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-icons": "5.0.1",
+    "react-icons": "5.1.0",
     "react-lottie": "1.2.4",
     "swc-loader": "0.2.6",
     "feather-icons": "4.29.1",
