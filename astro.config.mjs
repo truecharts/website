@@ -1,4 +1,6 @@
 import { defineConfig } from "astro/config";
+import playformCompress from "@playform/compress";
+import preload from "astro-preload";
 import starlight from "@astrojs/starlight";
 // Algolia Search
 import starlightDocSearch from "@astrojs/starlight-docsearch";
@@ -18,8 +20,8 @@ import robotsTxt from "astro-robots-txt";
 import lottie from "astro-integration-lottie";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
-import playformCompress from "@playform/compress";
 const site = "https://truecharts.org";
+
 
 // https://astro.build/config
 export default defineConfig({
@@ -122,5 +124,5 @@ export default defineConfig({
         directory: "charts"
       }
     }]
-  }), sitemap(), robotsTxt(), tailwind(), lottie(), playformCompress()]
+  }), sitemap(), robotsTxt(), tailwind(), lottie(), playformCompress(), preload()]
 });
