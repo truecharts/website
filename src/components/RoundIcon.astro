@@ -1,16 +1,15 @@
 ---
 import fs from "fs";
-const { name, image, profile } = Astro.props;
 
 let {
     url = image,
-    name = new URL(image).pathname.split("/").pop(),
+    imgName = new URL(image).pathname.split("/").pop(),
     size = 50,
     alt = "Image could not be loaded",
     ...props
 }: Props = Astro.props;
 
-if (!name) {
+if (!imgName) {
     throw `[astro-preload] name not provided and cannot be extracted from the url ${image}.\nPlease, provide a name.`;
 }
 
@@ -23,8 +22,8 @@ if (process.env.NODE_ENV === "production" && !url.startsWith("/")) {
     try {
         const preloadDir = "public/preloaded/roundicon";
 		const preloadBuildDir = "build/preloaded/roundicon";
-        const path = `${preloadDir}/${name}`;
-		const buildPath  = `${preloadBuildDir}/${name}`;
+        const path = `${preloadDir}/${imgName}`;
+		const buildPath  = `${preloadBuildDir}/${imgName}`;
 
         if (!fs.existsSync(path)) {
             if (!fs.existsSync(preloadDir)){
@@ -38,7 +37,7 @@ if (process.env.NODE_ENV === "production" && !url.startsWith("/")) {
                 new Uint8Array(await blob.arrayBuffer())
             );
             console.log(
-                `[astro-preload]: Downloaded image ${name} into ${path}`
+                `[astro-preload]: Downloaded image ${imgName} into ${path}`
             );
         }
         if (!fs.existsSync(path)) {
@@ -53,14 +52,14 @@ if (process.env.NODE_ENV === "production" && !url.startsWith("/")) {
                 new Uint8Array(await blob.arrayBuffer())
             );
             console.log(
-                `[astro-preload]: Downloaded image ${name} into ${buildPath}`
+                `[astro-preload]: Downloaded image ${imgName} into ${buildPath}`
             );
         }
 
-        url = import.meta.env.BASE_URL + `preloaded/roundicon/${name}`;
+        url = import.meta.env.BASE_URL + `preloaded/roundicon/${imgName}`;
     } catch {
         console.log(
-            `[astro-preload]: Failed to load image '${name}', fallback to using '${url}'`
+            `[astro-preload]: Failed to load image '${imgName}', fallback to using '${url}'`
         );
     }
 }
