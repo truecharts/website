@@ -1,7 +1,4 @@
 import { defineConfig } from "astro/config";
-import preload from "astro-preload";
-import betterImageService from "astro-better-image-service";
-import playformCompress from "@playform/compress";
 import starlight from "@astrojs/starlight";
 // Algolia Search
 import starlightDocSearch from "@astrojs/starlight-docsearch";
@@ -126,13 +123,5 @@ export default defineConfig({
       }
     }]
   }),
-    betterImageService(),
-    (await import("@playform/compress")).default({
-      HTML: true,
-      CSS: true,
-      JavaScript: true,
-      Image: false,
-      SVG: false,
-    }),
-  sitemap(), robotsTxt(), tailwind(), lottie(), preload()]
+  sitemap(), robotsTxt(), tailwind(), lottie()]
 });
