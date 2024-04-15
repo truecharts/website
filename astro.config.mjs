@@ -1,5 +1,4 @@
 import { defineConfig } from "astro/config";
-import preload from "astro-preload";
 import starlight from "@astrojs/starlight";
 // Algolia Search
 import starlightDocSearch from "@astrojs/starlight-docsearch";
