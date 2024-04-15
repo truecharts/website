@@ -1,6 +1,7 @@
 name: Cloudflare Pages
 
-concurrency: cloudflare-build
+concurrency:
+  group: ${{ github.head_ref }}-cloudflare-build
 
 on:
   pull_request:
