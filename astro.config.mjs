@@ -127,7 +127,7 @@ export default defineConfig({
     }]
   }),
     betterImageService(),
-    astroCompress.default({
+    playformCompress.default({
       HTML: true,
       CSS: true,
       JavaScript: true,
