@@ -1,5 +1,7 @@
 name: Cloudflare Pages
 
+concurrency: cloudflare-build
+
 on:
   pull_request:
   push:
