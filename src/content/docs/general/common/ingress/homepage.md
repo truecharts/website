@@ -289,6 +289,8 @@ Define the type of the widget
 
 Sets the `gethomepage.dev/widget.type` annotation
 
+:::
+
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `ingress.$name.integrations.homepage.widget.type` |
