@@ -168,13 +168,13 @@ service:
 
 Define the service type
 
-|            |                                                                     |
-| ---------- | ------------------------------------------------------------------- |
-| Key        | `service.$name.type`                                                |
-| Type       | `string`                                                            |
-| Required   | ❌                                                                  |
-| Helm `tpl` | ✅                                                                  |
-| Default    | See default [here](/general/common/fallbackDefaults.md#servicetype) |
+|            |                                                                  |
+| ---------- | ---------------------------------------------------------------- |
+| Key        | `service.$name.type`                                             |
+| Type       | `string`                                                         |
+| Required   | ❌                                                               |
+| Helm `tpl` | ✅                                                               |
+| Default    | See default [here](/general/common/fallbackDefaults#servicetype) |
 
 Valid Values:
 

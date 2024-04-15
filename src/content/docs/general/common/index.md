@@ -35,13 +35,13 @@ See more info about global values [here](/general/common/global)
 
 :::
 
-|            |                                                |
-| ---------- | ---------------------------------------------- |
-| Key        | `global`                                       |
-| Type       | `map`                                          |
-| Required   | ❌                                             |
-| Helm `tpl` | ❌                                             |
-| Default    | See [here](/general/common/global.md#defaults) |
+|            |                                             |
+| ---------- | ------------------------------------------- |
+| Key        | `global`                                    |
+| Type       | `map`                                       |
+| Required   | ❌                                          |
+| Helm `tpl` | ❌                                          |
+| Default    | See [here](/general/common/global#defaults) |
 
 Example
 
@@ -61,13 +61,13 @@ The fallback defaults are used when a value is not defined in the chart.
 
 :::
 
-|            |                                                          |
-| ---------- | -------------------------------------------------------- |
-| Key        | `fallbackDefaults`                                       |
-| Type       | `map`                                                    |
-| Required   | ❌                                                       |
-| Helm `tpl` | ❌                                                       |
-| Default    | See [here](/general/common/fallbackDefaults.md#defaults) |
+|            |                                                       |
+| ---------- | ----------------------------------------------------- |
+| Key        | `fallbackDefaults`                                    |
+| Type       | `map`                                                 |
+| Required   | ❌                                                    |
+| Helm `tpl` | ❌                                                    |
+| Default    | See [here](/general/common/fallbackDefaults#defaults) |
 
 ---
 
@@ -240,13 +240,13 @@ See more info about podOptions [here](/general/common/podOptions)
 
 :::
 
-|            |                                                    |
-| ---------- | -------------------------------------------------- |
-| Key        | `podOptions`                                       |
-| Type       | `map`                                              |
-| Required   | ❌                                                 |
-| Helm `tpl` | ❌                                                 |
-| Default    | See [here](/general/common/podOptions.md#defaults) |
+|            |                                                 |
+| ---------- | ----------------------------------------------- |
+| Key        | `podOptions`                                    |
+| Type       | `map`                                           |
+| Required   | ❌                                              |
+| Helm `tpl` | ❌                                              |
+| Default    | See [here](/general/common/podOptions#defaults) |
 
 Example
 
@@ -283,13 +283,13 @@ See more info about containerOptions [here](/general/common/containerOptions)
 
 :::
 
-|            |                                                          |
-| ---------- | -------------------------------------------------------- |
-| Key        | `containerOptions`                                       |
-| Type       | `map`                                                    |
-| Required   | ❌                                                       |
-| Helm `tpl` | ❌                                                       |
-| Default    | See [here](/general/common/containerOptions.md#defaults) |
+|            |                                                       |
+| ---------- | ----------------------------------------------------- |
+| Key        | `containerOptions`                                    |
+| Type       | `map`                                                 |
+| Required   | ❌                                                    |
+| Helm `tpl` | ❌                                                    |
+| Default    | See [here](/general/common/containerOptions#defaults) |
 
 Example
 
@@ -343,13 +343,13 @@ Resources apply to **EACH** container, not to the pod as a whole.
 
 :::
 
-|            |                                                   |
-| ---------- | ------------------------------------------------- |
-| Key        | `resources`                                       |
-| Type       | `map`                                             |
-| Required   | ✅                                                |
-| Helm `tpl` | ❌                                                |
-| Default    | See [here](/general/common/resources.md#defaults) |
+|            |                                                |
+| ---------- | ---------------------------------------------- |
+| Key        | `resources`                                    |
+| Type       | `map`                                          |
+| Required   | ✅                                             |
+| Helm `tpl` | ❌                                             |
+| Default    | See [here](/general/common/resources#defaults) |
 
 Example
 
@@ -375,13 +375,13 @@ See more info about securityContext [here](/general/common/securityContext)
 
 :::
 
-|            |                                                         |
-| ---------- | ------------------------------------------------------- |
-| Key        | `securityContext`                                       |
-| Type       | `map`                                                   |
-| Required   | ✅                                                      |
-| Helm `tpl` | ❌                                                      |
-| Default    | See [here](/general/common/securityContext.md#defaults) |
+|            |                                                      |
+| ---------- | ---------------------------------------------------- |
+| Key        | `securityContext`                                    |
+| Type       | `map`                                                |
+| Required   | ✅                                                   |
+| Helm `tpl` | ❌                                                   |
+| Default    | See [here](/general/common/securityContext#defaults) |
 
 Example
 
@@ -415,7 +415,7 @@ securityContext:
 
 :::tip
 
-Use [`imageSelector`](/general/common/container/index.md#imageselector) to select the image to use for a container.
+Use [`imageSelector`](/general/common/container/index#imageselector) to select the image to use for a container.
 
 :::
 
@@ -550,7 +550,7 @@ image:
 - [imagePullSecret](/general/common/imagePullSecret)
 - [ingress](/general/common/ingress)
 - [notes](/general/common/notes)
-- [persistence](/general/common/persistence/index.md)ence/)
+- [persistence](/general/common/persistence/index)ence/)
 - [podDisruptionBudget](/general/common/podDisruptionBudget)
 - [priorityClass](/general/common/priorityClass)
 - [rbac](/general/common/rbac)

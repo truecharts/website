@@ -189,7 +189,7 @@ Define command(s)
 
 :::
 
-See [Command](/general/common/command.md#command) for more information.
+See [Command](/general/common/command#command) for more information.
 
 ---
 
@@ -325,13 +325,13 @@ workload:
 
 Define the initialDelaySeconds in seconds
 
-|            |                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.initialDelaySeconds`      |
-| Type       | `int`                                                                                 |
-| Required   | ❌                                                                                    |
-| Helm `tpl` | ❌                                                                                    |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults.md#probetimeouts) |
+|            |                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.initialDelaySeconds`   |
+| Type       | `int`                                                                              |
+| Required   | ❌                                                                                 |
+| Helm `tpl` | ❌                                                                                 |
+| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
 
 Example
 
@@ -353,13 +353,13 @@ workload:
 
 Define the periodSeconds in seconds
 
-|            |                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.periodSeconds`            |
-| Type       | `int`                                                                                 |
-| Required   | ❌                                                                                    |
-| Helm `tpl` | ❌                                                                                    |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults.md#probetimeouts) |
+|            |                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.periodSeconds`         |
+| Type       | `int`                                                                              |
+| Required   | ❌                                                                                 |
+| Helm `tpl` | ❌                                                                                 |
+| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
 
 Example
 
@@ -381,13 +381,13 @@ workload:
 
 Define the timeoutSeconds in seconds
 
-|            |                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.timeoutSeconds`           |
-| Type       | `int`                                                                                 |
-| Required   | ❌                                                                                    |
-| Helm `tpl` | ❌                                                                                    |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults.md#probetimeouts) |
+|            |                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.timeoutSeconds`        |
+| Type       | `int`                                                                              |
+| Required   | ❌                                                                                 |
+| Helm `tpl` | ❌                                                                                 |
+| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
 
 Example
 
@@ -409,13 +409,13 @@ workload:
 
 Define the failureThreshold in seconds
 
-|            |                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.failureThreshold`         |
-| Type       | `int`                                                                                 |
-| Required   | ❌                                                                                    |
-| Helm `tpl` | ❌                                                                                    |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults.md#probetimeouts) |
+|            |                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.failureThreshold`      |
+| Type       | `int`                                                                              |
+| Required   | ❌                                                                                 |
+| Helm `tpl` | ❌                                                                                 |
+| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
 
 Example
 
@@ -437,13 +437,13 @@ workload:
 
 Define the successThreshold in seconds. `liveness` and `startup` must always be 1
 
-|            |                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.successThreshold`         |
-| Type       | `int`                                                                                 |
-| Required   | ❌                                                                                    |
-| Helm `tpl` | ❌                                                                                    |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults.md#probetimeouts) |
+|            |                                                                                    |
+| ---------- | ---------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.probes.$probe.spec.successThreshold`      |
+| Type       | `int`                                                                              |
+| Required   | ❌                                                                                 |
+| Helm `tpl` | ❌                                                                                 |
+| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
 
 Example
 

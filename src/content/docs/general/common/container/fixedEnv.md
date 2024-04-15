@@ -12,7 +12,7 @@ title: FixedEnv
 :::tip
 
 Variable names will be scanned for duplicates across all
-[secrets](/general/common/secret.md), [configmaps](/general/common/configmap),
+[secrets](/general/common/secret), [configmaps](/general/common/configmap),
 [env](/general/common/env), [envList](/general/common/envList) and [fixedEnv](/general/common/fixedEnv)
 and will throw an error if it finds any.
 
@@ -33,16 +33,16 @@ Override fixedEnv for the container
 
 By default it will set the following environment variables:
 
-- `TZ`: [Default TZ](/general/common/index.md#tz) or [fixedEnv.TZ](#fixedenvtz)
-- `UMASK`: [Default UMASK](/general/common/securityContext.md#securitycontextcontainerumask) or [fixedEnv.UMASK](#fixedenvumask)
-- `UMASK_SET`: [Default UMASK](/general/common/securityContext.md#securitycontextcontainerumask) or [fixedEnv.UMASK](#fixedenvumask)
+- `TZ`: [Default TZ](/general/common/index#tz) or [fixedEnv.TZ](#fixedenvtz)
+- `UMASK`: [Default UMASK](/general/common/securityContext#securitycontextcontainerumask) or [fixedEnv.UMASK](#fixedenvumask)
+- `UMASK_SET`: [Default UMASK](/general/common/securityContext#securitycontextcontainerumask) or [fixedEnv.UMASK](#fixedenvumask)
 - `S6_READ_ONLY_ROOT`: `1`
-  - Only when [`readOnlyRootFilesystem`](/general/common/securityContext.md#securitycontextreadonlyrootfilesystem) or [`runAsNonRoot`](/general/common/securityContext.md#securitycontextrunasnonroot) is `true`
-- `PUID`, `USER_ID`, `UID`: [Default PUID](/general/common/securityContext.md#securitycontextcontainerpuid) or [fixedEnv.PUID](#fixedenvpuid)
-  - Only when [`runAsUser`](/general/common/securityContext.md#securitycontextrunasuser) or [`runAsGroup`](/general/common/securityContext.md#securitycontextcontainerrunasgroup) is `0`
-- `PGID`, `GROUP_ID`, `GID`: Same as [`fsGroup`](/general/common/securityContext.md#securitycontextpodfsgroup)
-  - Only when [`runAsUser`](/general/common/securityContext.md#securitycontextrunasuser) or [`runAsGroup`](/general/common/securityContext.md#securitycontextcontainerrunasgroup) is `0`
-- `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](/general/common/containerOptions.md#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](#fixedenvnvidia_caps)
+  - Only when [`readOnlyRootFilesystem`](/general/common/securityContext.md#securitycontextreadonlyrootfilesystem) or [`runAsNonRoot`](/general/common/securityContext#securitycontextrunasnonroot) is `true`
+- `PUID`, `USER_ID`, `UID`: [Default PUID](/general/common/securityContext#securitycontextcontainerpuid) or [fixedEnv.PUID](#fixedenvpuid)
+  - Only when [`runAsUser`](/general/common/securityContext.md#securitycontextrunasuser) or [`runAsGroup`](/general/common/securityContext#securitycontextcontainerrunasgroup) is `0`
+- `PGID`, `GROUP_ID`, `GID`: Same as [`fsGroup`](/general/common/securityContext#securitycontextpodfsgroup)
+  - Only when [`runAsUser`](/general/common/securityContext.md#securitycontextrunasuser) or [`runAsGroup`](/general/common/securityContext#securitycontextcontainerrunasgroup) is `0`
+- `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](/general/common/containerOptions#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](#fixedenvnvidia_caps)
   - Only when `nvidia.com/gpu` is set to `> 0` under [`resources`](/general/common/container/resources)
 
 :::
@@ -78,7 +78,7 @@ Override the timezone for the container
 | Type       | `string`                                              |
 | Required   | ❌                                                    |
 | Helm `tpl` | ❌                                                    |
-| Default    | See [here](/general/common/index.md#tz)               |
+| Default    | See [here](/general/common/index#tz)                  |
 
 Example
 
@@ -98,13 +98,13 @@ workload:
 
 Override the umask for the container
 
-|            |                                                                              |
-| ---------- | ---------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.fixedEnv.UMASK`                     |
-| Type       | `string`                                                                     |
-| Required   | ❌                                                                           |
-| Helm `tpl` | ❌                                                                           |
-| Default    | See [here](/general/common/securityContext.md#securitycontextcontainerumask) |
+|            |                                                                           |
+| ---------- | ------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.fixedEnv.UMASK`                  |
+| Type       | `string`                                                                  |
+| Required   | ❌                                                                        |
+| Helm `tpl` | ❌                                                                        |
+| Default    | See [here](/general/common/securityContext#securitycontextcontainerumask) |
 
 Example
 
@@ -124,13 +124,13 @@ workload:
 
 Override the PUID for the container
 
-|            |                                                                             |
-| ---------- | --------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.fixedEnv.PUID`                     |
-| Type       | `string`                                                                    |
-| Required   | ❌                                                                          |
-| Helm `tpl` | ❌                                                                          |
-| Default    | See [here](/general/common/securityContext.md#securitycontextcontainerpuid) |
+|            |                                                                          |
+| ---------- | ------------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.fixedEnv.PUID`                  |
+| Type       | `string`                                                                 |
+| Required   | ❌                                                                       |
+| Helm `tpl` | ❌                                                                       |
+| Default    | See [here](/general/common/securityContext#securitycontextcontainerpuid) |
 
 Example
 
@@ -156,7 +156,7 @@ Override the NVIDIA_CAPS for the container
 | Type       | `list`                                                         |
 | Required   | ❌                                                             |
 | Helm `tpl` | ❌                                                             |
-| Default    | See [here](/general/common/containerOptions.md#nvidia_caps)    |
+| Default    | See [here](/general/common/containerOptions#nvidia_caps)       |
 
 Example
 

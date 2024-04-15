@@ -98,13 +98,13 @@ persistence:
 
 Define the persistence type
 
-|            |                                                                         |
-| ---------- | ----------------------------------------------------------------------- |
-| Key        | `persistence.$name.type`                                                |
-| Type       | `string`                                                                |
-| Required   | ❌                                                                      |
-| Helm `tpl` | ❌                                                                      |
-| Default    | See default [here](/general/common/fallbackDefaults.md#persistencetype) |
+|            |                                                                      |
+| ---------- | -------------------------------------------------------------------- |
+| Key        | `persistence.$name.type`                                             |
+| Type       | `string`                                                             |
+| Required   | ❌                                                                   |
+| Helm `tpl` | ❌                                                                   |
+| Default    | See default [here](/general/common/fallbackDefaults#persistencetype) |
 
 Valid Values:
 

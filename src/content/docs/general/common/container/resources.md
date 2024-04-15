@@ -31,7 +31,7 @@ The resources that the container can use.
 | Type       | `map`                                               |
 | Required   | ✅                                                  |
 | Helm `tpl` | ❌                                                  |
-| Default    | See [here](/general/common/resources.md#defaults)   |
+| Default    | See [here](/general/common/resources#defaults)      |
 
 Example
 
@@ -63,7 +63,7 @@ Which can lead pods to be evicted or not even scheduled when they reach their `l
 | Type       | `map`                                                        |
 | Required   | ✅                                                           |
 | Helm `tpl` | ❌                                                           |
-| Default    | See [here](/general/common/resources.md#resourcesrequests)   |
+| Default    | See [here](/general/common/resources#resourcesrequests)      |
 
 Example
 
@@ -89,7 +89,7 @@ The minimum amount of CPU that the container can use.
 | Type       | `string`                                                         |
 | Required   | ✅                                                               |
 | Helm `tpl` | ❌                                                               |
-| Default    | See [here](/general/common/resources.md#resourcesrequestscpu)    |
+| Default    | See [here](/general/common/resources#resourcesrequestscpu)       |
 
 Example
 
@@ -116,7 +116,7 @@ The minimum amount of memory that the container can use.
 | Type       | `string`                                                            |
 | Required   | ✅                                                                  |
 | Helm `tpl` | ❌                                                                  |
-| Default    | See [here](/general/common/resources.md#resourcesrequestsmemory)    |
+| Default    | See [here](/general/common/resources#resourcesrequestsmemory)       |
 
 Example
 
@@ -149,7 +149,7 @@ Limits are **optional**, can be set to "unlimited" by setting it's values (`cpu`
 | Type       | `map`                                                      |
 | Required   | ❌                                                         |
 | Helm `tpl` | ❌                                                         |
-| Default    | See [here](/general/common/resources.md#resourceslimits)   |
+| Default    | See [here](/general/common/resources#resourceslimits)      |
 
 Example
 
@@ -175,7 +175,7 @@ The maximum amount of CPU that the container can use.
 | Type       | `string`                                                       |
 | Required   | ❌                                                             |
 | Helm `tpl` | ❌                                                             |
-| Default    | See [here](/general/common/resources.md#resourceslimitscpu)    |
+| Default    | See [here](/general/common/resources#resourceslimitscpu)       |
 
 Example
 
@@ -202,7 +202,7 @@ The maximum amount of memory that the container can use.
 | Type       | `string`                                                          |
 | Required   | ❌                                                                |
 | Helm `tpl` | ❌                                                                |
-| Default    | See [here](/general/common/resources.md#resourceslimitsmemory)    |
+| Default    | See [here](/general/common/resources#resourceslimitsmemory)       |
 
 Example
 

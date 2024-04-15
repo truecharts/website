@@ -61,15 +61,15 @@ Define the entrypoints for this traefik integration
 
 ## `enableFixedMiddlewares`
 
-Enable or disable the [fixedMiddlewares](/general/common/global.md#traefikfixedmiddlewares)
+Enable or disable the [fixedMiddlewares](/general/common/global#traefikfixedmiddlewares)
 
-|            |                                                                             |
-| ---------- | --------------------------------------------------------------------------- |
-| Key        | `ingress.$name.integrations.traefik.enableFixedMiddlewares`                 |
-| Type       | `bool`                                                                      |
-| Required   | ❌                                                                          |
-| Helm `tpl` | ❌                                                                          |
-| Default    | See default [here](/general/common/global.md#traefikenablefixedmiddlewares) |
+|            |                                                                          |
+| ---------- | ------------------------------------------------------------------------ |
+| Key        | `ingress.$name.integrations.traefik.enableFixedMiddlewares`              |
+| Type       | `bool`                                                                   |
+| Required   | ❌                                                                       |
+| Helm `tpl` | ❌                                                                       |
+| Default    | See default [here](/general/common/global#traefikenablefixedmiddlewares) |
 
 Example
 
@@ -123,8 +123,8 @@ Allow CORS on this ingress
 
 Relaxes some security settings to allow CORS requests.
 
-Specifically, it uses [these middlewares](/general/common/global.md#traefikallowcorsmiddlewares)
-instead of the [fixedMiddlewares](/general/common/global.md#traefikfixedmiddlewares)
+Specifically, it uses [these middlewares](/general/common/global#traefikallowcorsmiddlewares)
+instead of the [fixedMiddlewares](/general/common/global#traefikfixedmiddlewares)
 
 :::
 
@@ -152,13 +152,13 @@ ingress:
 
 Override the fixed middlewares for this traefik integration
 
-|            |                                                                       |
-| ---------- | --------------------------------------------------------------------- |
-| Key        | `ingress.$name.integrations.traefik.fixedMiddlewares`                 |
-| Type       | `list` of `map`                                                       |
-| Required   | ❌                                                                    |
-| Helm `tpl` | ❌                                                                    |
-| Default    | See default [here](/general/common/global.md#traefikfixedmiddlewares) |
+|            |                                                                    |
+| ---------- | ------------------------------------------------------------------ |
+| Key        | `ingress.$name.integrations.traefik.fixedMiddlewares`              |
+| Type       | `list` of `map`                                                    |
+| Required   | ❌                                                                 |
+| Helm `tpl` | ❌                                                                 |
+| Default    | See default [here](/general/common/global#traefikfixedmiddlewares) |
 
 Example
 

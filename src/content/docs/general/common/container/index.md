@@ -206,13 +206,13 @@ See [command](/general/common/command)
 
 ## `args`
 
-See [args](/general/common/args.md#args)
+See [args](/general/common/args#args)
 
 ---
 
 ## `extraArgs`
 
-See [extraArgs](/general/common/args.md#extraargs)
+See [extraArgs](/general/common/args#extraargs)
 
 ---
 
