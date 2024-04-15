@@ -1,47 +1,34 @@
-# Website
+# Chart Docs
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## Blog
 
-## Installation
+- To add new authors, add their username in the `authors.ts` file in `src/content/docs/blog/authors.ts`.
+- Blog Posts **must** have these fields in the `frontmatter`:
+  - `title`
+  - `slug` (must start with `blog/`)
+  - `date`
+  - `authors` (The key in the `authors` object in `src/content/docs/blog/authors.ts`)
 
-```bash
-$ yarn
-```
+## 🧞 Commands
 
-### Local Development
+All commands are run from the root of the project, from a terminal:
 
-```bash
-$ yarn start
-```
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
 
-### Build
+Images can be added to `src/assets/` and embedded in Markdown with a relative link.
 
-```bash
-$ yarn build
-```
+Static assets, like favicons, can be placed in the `public/` directory.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## 👀 Want to learn more?
 
-### Deployment
-
-Using SSH:
-
-```bash
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
-### Contributing
-
-> The docs in the website for [truecharts/charts](https://github.com/truecharts/charts) are built from the charts repo.
-> Please submit PR's for improvements to the docs at [truecharts/charts](https://github.com/truecharts/charts), as we cannot merge them here!
-> Thank you!
+Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build),
+or jump into the [Astro Discord server](https://astro.build/chat).
