@@ -43,7 +43,7 @@ if (process.env.NODE_ENV === "production" && !url.startsWith("/")) {
                 `[astro-preload]: Downloaded image ${imgName} into ${path}`
             );
         }
-        if (!fs.existsSync(path)) {
+        if (!fs.existsSync(buildPath)) {
             if (!fs.existsSync(preloadBuildDir)){
                 fs.mkdirSync(preloadBuildDir, { recursive: true });
             }
