@@ -127,7 +127,7 @@ export default defineConfig({
     }]
   }),
     betterImageService(),
-    playformCompress.default({
+    (await import("@playform/compress")).default({
       HTML: true,
       CSS: true,
       JavaScript: true,
