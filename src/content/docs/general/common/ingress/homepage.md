@@ -102,7 +102,7 @@ ingress:
 Define the group for the application
 
 :::note
-Sets the `gethomepage.dev/group` annotatio
+Sets the `gethomepage.dev/group` annotation
 :::
 
 |            |                                             |
