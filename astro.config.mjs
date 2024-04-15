@@ -12,6 +12,8 @@ import starlightImageZoom from "starlight-image-zoom";
 import starlightBlog from "starlight-blog";
 // https://docs.astro.build/en/guides/integrations-guide/sitemap/
 import sitemap from "@astrojs/sitemap";
+// https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme
+import robotsTxt from "astro-robots-txt";
 // https://github.com/giuseppelt/astro-lottie
 import lottie from "astro-integration-lottie";
 // Configure global authors here
@@ -82,7 +84,6 @@ export default defineConfig({
         baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
       },
       lastUpdated: true,
-      //pagefind: true,
       components: {
         Header: "./src/components/CustomHeader.astro",
         Hero: "./src/components/CustomHero.astro",
@@ -129,6 +130,7 @@ export default defineConfig({
       ],
     }),
     sitemap(),
+    robotsTxt(),
     tailwind(),
     lottie(),
   ],
