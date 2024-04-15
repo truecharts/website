@@ -3,7 +3,7 @@ import fs from "fs";
 const { name, image, profile } = Astro.props;
 
 let {
-    image,
+    url = image,
     name = new URL(image).pathname.split("/").pop(),
     size = 50,
     alt = "Image could not be loaded",
@@ -19,7 +19,7 @@ if (!props.width && !props.height) {
 }
 
 // Download only on production to avoid downloading multiple times
-if (process.env.NODE_ENV === "production" && !image.startsWith("/")) {
+if (process.env.NODE_ENV === "production" && !url.startsWith("/")) {
     try {
         const preloadDir = "public/preloaded/roundicon";
 		const preloadBuildDir = "build/preloaded/roundicon";
@@ -30,7 +30,7 @@ if (process.env.NODE_ENV === "production" && !image.startsWith("/")) {
             if (!fs.existsSync(preloadDir)){
                 fs.mkdirSync(preloadDir, { recursive: true });
             }
-            const response = await fetch(image);
+            const response = await fetch(url);
             const blob = await response.blob();
 
             fs.writeFileSync(
@@ -45,7 +45,7 @@ if (process.env.NODE_ENV === "production" && !image.startsWith("/")) {
             if (!fs.existsSync(preloadBuildDir)){
                 fs.mkdirSync(preloadBuildDir, { recursive: true });
             }
-            const response = await fetch(image);
+            const response = await fetch(url);
             const blob = await response.blob();
 
             fs.writeFileSync(
@@ -57,10 +57,10 @@ if (process.env.NODE_ENV === "production" && !image.startsWith("/")) {
             );
         }
 
-        image = import.meta.env.BASE_URL + `preloaded/roundicon/${name}`;
+        url = import.meta.env.BASE_URL + `preloaded/roundicon/${name}`;
     } catch {
         console.log(
-            `[astro-preload]: Failed to load image '${name}', fallback to using '${image}'`
+            `[astro-preload]: Failed to load image '${name}', fallback to using '${url}'`
         );
     }
 }
@@ -68,6 +68,6 @@ if (process.env.NODE_ENV === "production" && !image.startsWith("/")) {
 
 <li class="flex hover:scale-125 duration-300">
   <a href={profile}>
-    <img src={image} class="rounded-full !h-8 !w-8 object-cover" alt={name}  />
+    <img src={url} class="rounded-full !h-8 !w-8 object-cover" alt={name}  />
   </a>
 </li>
