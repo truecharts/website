@@ -9,9 +9,10 @@ A self-hosted image sharing platform built with Symfony and SvelteKit️.
 ## Chart Sources
 
 - https://github.com/andrii-kryvoviaz/slink
-- https://github.com/truecharts/charts/tree/master/charts/stab;e/slink
+- https://github.com/truecharts/charts/tree/master/charts/stable/slink
 - https://hub.docker.com/r/anirdev/slink
 
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
+- [**Slink Installation Notes**](./installation_notes.md)
