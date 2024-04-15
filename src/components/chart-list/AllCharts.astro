@@ -9,7 +9,7 @@ import {
 ---
 
 {
-  getTrains().map((t) => (
+  getTrains().map((t: string) => (
     <div id={`tc-content-${normalizeTrainName(t)}`} data-table-parent={t}>
       <h2 class="!text-2xl ml-5 !mt-10">
         <a href={`#${normalizeTrainName(t)}`}>
