@@ -2,7 +2,8 @@
 import type { Props } from "@astrojs/starlight/props";
 
 import LanguageSelect from "@astrojs/starlight/components/LanguageSelect.astro";
-import Search from "@astrojs/starlight/components/Search.astro";
+// Use the docsearch for algolia
+import Search from "@astrojs/starlight-docsearch/DocSearch.astro";
 import SiteTitle from "@astrojs/starlight/components/SiteTitle.astro";
 import SocialIcons from "@astrojs/starlight/components/SocialIcons.astro";
 import ThemeSelect from "@astrojs/starlight/components/ThemeSelect.astro";
@@ -16,7 +17,9 @@ import Navigation from "./Navigation.astro";
       <Navigation />
     </div>
   </div>
-  <div class="md:sl-flex right-group">
+  <div
+    class="max-md:w-auto max-md:content-center max-md:sl-flex max-lg:w-auto max-lg:content-center max-lg:sl-flex right-group place-self-end w-[27%] h-[100%]"
+  >
     <Search {...Astro.props} />
   </div>
   <div class="sl-hidden md:sl-flex right-group">

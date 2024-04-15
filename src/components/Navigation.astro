@@ -26,7 +26,9 @@ const links: Array<Link> = [
         <p class="font-bold text-lg max-lg:text-xs max-md:text-xs">
           {link.name}
         </p>
-        {link.icon && <Icon class="w-5 h-5 max-md:hidden" name={link.icon} />}
+        {link.icon && (
+          <Icon class="w-5 h-5 max-md:hidden max-lg:hidden" name={link.icon} />
+        )}
       </a>
     ))
   }
