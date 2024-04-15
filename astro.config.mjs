@@ -17,7 +17,7 @@ import lottie from "astro-integration-lottie";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
 
-const site = "https://test.truecharts.org";
+const site = "https://truecharts.org";
 // https://astro.build/config
 export default defineConfig({
   site: site,
