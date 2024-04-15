@@ -64,7 +64,7 @@ Define default probe type when not defined in the container level
 
 Valid Values:
 
-- See [Probe Types](./container/probes.md#probesprobetype)
+- See [Probe Types](/general/common/container/probes.md#probesprobetype)
 
 Example
 
@@ -89,7 +89,7 @@ Define default service protocol when not defined in the service
 
 Valid Values:
 
-- See [Service Protocols](./service/ports.md#protocol)
+- See [Service Protocols](/general/common/service/ports.md#protocol)
 
 Example
 
@@ -114,7 +114,7 @@ Define default service type when not defined in the service
 
 Valid Values:
 
-- See [Service Types](./service/index.md#type)
+- See [Service Types](/general/common/service/index.md#type)
 
 Example
 
@@ -160,7 +160,7 @@ Define default persistence type when not defined in the persistence
 
 Valid Values:
 
-- See [Persistence Types](./persistence/index.md#type)
+- See [Persistence Types](/general/common/persistence/index.md#type)
 
 Example
 

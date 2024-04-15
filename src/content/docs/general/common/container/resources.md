@@ -31,7 +31,7 @@ The resources that the container can use.
 | Type       | `map`                                               |
 | Required   | ✅                                                  |
 | Helm `tpl` | ❌                                                  |
-| Default    | See [here](../resources.md#defaults)                |
+| Default    | See [here](/general/common/resources.md#defaults)   |
 
 Example
 
@@ -63,7 +63,7 @@ Which can lead pods to be evicted or not even scheduled when they reach their `l
 | Type       | `map`                                                        |
 | Required   | ✅                                                           |
 | Helm `tpl` | ❌                                                           |
-| Default    | See [here](../resources.md#resourcesrequests)                |
+| Default    | See [here](/general/common/resources.md#resourcesrequests)   |
 
 Example
 
@@ -89,7 +89,7 @@ The minimum amount of CPU that the container can use.
 | Type       | `string`                                                         |
 | Required   | ✅                                                               |
 | Helm `tpl` | ❌                                                               |
-| Default    | See [here](../resources.md#resourcesrequestscpu)                 |
+| Default    | See [here](/general/common/resources.md#resourcesrequestscpu)    |
 
 Example
 
@@ -116,7 +116,7 @@ The minimum amount of memory that the container can use.
 | Type       | `string`                                                            |
 | Required   | ✅                                                                  |
 | Helm `tpl` | ❌                                                                  |
-| Default    | See [here](../resources.md#resourcesrequestsmemory)                 |
+| Default    | See [here](/general/common/resources.md#resourcesrequestsmemory)    |
 
 Example
 
@@ -149,7 +149,7 @@ Limits are **optional**, can be set to "unlimited" by setting it's values (`cpu`
 | Type       | `map`                                                      |
 | Required   | ❌                                                         |
 | Helm `tpl` | ❌                                                         |
-| Default    | See [here](../resources.md#resourceslimits)                |
+| Default    | See [here](/general/common/resources.md#resourceslimits)   |
 
 Example
 
@@ -175,7 +175,7 @@ The maximum amount of CPU that the container can use.
 | Type       | `string`                                                       |
 | Required   | ❌                                                             |
 | Helm `tpl` | ❌                                                             |
-| Default    | See [here](../resources.md#resourceslimitscpu)                 |
+| Default    | See [here](/general/common/resources.md#resourceslimitscpu)    |
 
 Example
 
@@ -202,7 +202,7 @@ The maximum amount of memory that the container can use.
 | Type       | `string`                                                          |
 | Required   | ❌                                                                |
 | Helm `tpl` | ❌                                                                |
-| Default    | See [here](../resources.md#resourceslimitsmemory)                 |
+| Default    | See [here](/general/common/resources.md#resourceslimitsmemory)    |
 
 Example
 
@@ -222,7 +222,7 @@ workload:
 #### `resources.limits."gpu.intel.com/i915"`
 
 An Intel GPU added when available
-*Note that `gpu.intel.com/i915` is a single key, despite of the `.`*
+_Note that `gpu.intel.com/i915` is a single key, despite of the `.`_
 
 Default
 
@@ -242,7 +242,7 @@ workload:
 #### `resources.limits."nvidia.com/gpu"`
 
 An NVIDIA GPU added when available
-*Note that `nvidia.com/gpu` is a single key, despite of the `.`*
+_Note that `nvidia.com/gpu` is a single key, despite of the `.`_
 
 Default
 
@@ -262,7 +262,7 @@ workload:
 #### `resources.limits."amd.com/gpu"`
 
 An AMD GPU added when available
-*Note that `amd.com/gpu` is a single key, despite of the `.`*
+_Note that `amd.com/gpu` is a single key, despite of the `.`_
 
 Default
 

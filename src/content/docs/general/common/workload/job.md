@@ -6,7 +6,7 @@ title: Job
 
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-- See the [Workload](./index.md) documentation for more information
+- See the [Workload](/general/common/) documentation for more information
 
 :::
 

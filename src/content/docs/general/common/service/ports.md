@@ -6,7 +6,7 @@ title: Ports
 
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-- See the [Service](./index.md) documentation for more information
+- See the [Service](/general/common/) documentation for more information
 
 :::
 
@@ -98,13 +98,13 @@ service:
 
 Define the port protocol Used by the container ports and probes, http and https are converted to tcp where needed
 
-|            |                                                            |
-| ---------- | ---------------------------------------------------------- |
-| Key        | `service.$name.ports.$port-name.protocol`                  |
-| Type       | `string`                                                   |
-| Required   | ❌                                                         |
-| Helm `tpl` | ✅                                                         |
-| Default    | See default [here](../fallbackDefaults.md#serviceprotocol) |
+|            |                                                                         |
+| ---------- | ----------------------------------------------------------------------- |
+| Key        | `service.$name.ports.$port-name.protocol`                               |
+| Type       | `string`                                                                |
+| Required   | ❌                                                                      |
+| Helm `tpl` | ✅                                                                      |
+| Default    | See default [here](/general/common/fallbackDefaults.md#serviceprotocol) |
 
 Valid Values:
 
@@ -175,8 +175,8 @@ service:
 
 Full examples can be found under each service type
 
-- [ClusterIP](ClusterIP.md)
-- [LoadBalancer](LoadBalancer.md)
-- [NodePort](NodePort.md)
-- [ExternalName](ExternalName.md)
-- [ExternalIP](ExternalIP.md)
+- [ClusterIP](ClusterIP)
+- [LoadBalancer](LoadBalancer)
+- [NodePort](NodePort)
+- [ExternalName](ExternalName)
+- [ExternalIP](ExternalIP)

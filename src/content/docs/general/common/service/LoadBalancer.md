@@ -6,7 +6,7 @@ title: LoadBalancer
 
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
-- See the [Service](./index.md) documentation for more information
+- See the [Service](/general/common/) documentation for more information
 
 :::
 
@@ -16,7 +16,7 @@ title: LoadBalancer
 
 :::tip
 
-- See available service keys [here](./index.md).
+- See available service keys [here](/general/common/).
 - This options apply only when `type: LoadBalancer`.
 
 :::

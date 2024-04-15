@@ -98,25 +98,25 @@ persistence:
 
 Define the persistence type
 
-|            |                                                            |
-| ---------- | ---------------------------------------------------------- |
-| Key        | `persistence.$name.type`                                   |
-| Type       | `string`                                                   |
-| Required   | ❌                                                         |
-| Helm `tpl` | ❌                                                         |
-| Default    | See default [here](../fallbackDefaults.md#persistencetype) |
+|            |                                                                         |
+| ---------- | ----------------------------------------------------------------------- |
+| Key        | `persistence.$name.type`                                                |
+| Type       | `string`                                                                |
+| Required   | ❌                                                                      |
+| Helm `tpl` | ❌                                                                      |
+| Default    | See default [here](/general/common/fallbackDefaults.md#persistencetype) |
 
 Valid Values:
 
-- [`hostPath`](./hostPath.md)
-- [`configmap`](./configmap.md)
-- [`secret`](./secret.md)
-- [`device`](./device.md)
-- [`pvc`](./pvc-vct/index.md)
-- [`vct`](./pvc-vct/index.md)
-- [`nfs`](./nfs.md)
-- [`emptyDir`](./emptyDir.md)
-- [`iscsi`](./iscsi.md)
+- [`hostPath`](/general/common/hostPath)
+- [`configmap`](/general/common/configmap)
+- [`secret`](/general/common/secret)
+- [`device`](/general/common/device)
+- [`pvc`](/general/common/pvc-vct/)
+- [`vct`](/general/common/pvc-vct/)
+- [`nfs`](/general/common/nfs)
+- [`emptyDir`](/general/common/emptyDir)
+- [`iscsi`](/general/common/iscsi)
 
 Example
 
@@ -464,12 +464,12 @@ persistence:
 
 Full examples can be found under each persistence type
 
-- [hostPath](hostPath.md)
-- [configmap](configmap.md)
-- [secret](secret.md)
-- [device](device.md)
-- [pvc](./pvc-vct/index.md)
-- [vct](./pvc-vct/index.md)
-- [nfs](nfs.md)
-- [emptyDir](emptyDir.md)
-- [iscsi](iscsi.md)
+- [hostPath](hostPath)
+- [configmap](configmap)
+- [secret](secret)
+- [device](device)
+- [pvc](/general/common/pvc-vct/)
+- [vct](/general/common/pvc-vct/)
+- [nfs](nfs)
+- [emptyDir](emptyDir)
+- [iscsi](iscsi)

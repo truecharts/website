@@ -20,13 +20,13 @@ title: Security Context
 
 Define securityContext for the container
 
-|            |                                                            |
-| ---------- | ---------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext`  |
-| Type       | `map`                                                      |
-| Required   | ✅                                                         |
-| Helm `tpl` | ❌                                                         |
-| Default    | See [here](../securityContext.md#securitycontextcontainer) |
+|            |                                                                         |
+| ---------- | ----------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext`               |
+| Type       | `map`                                                                   |
+| Required   | ✅                                                                      |
+| Helm `tpl` | ❌                                                                      |
+| Default    | See [here](/general/common/securityContext.md#securitycontextcontainer) |
 
 Example
 
@@ -45,13 +45,13 @@ workload:
 
 Define the runAsUser for the container
 
-|            |                                                                     |
-| ---------- | ------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsUser` |
-| Type       | `int`                                                               |
-| Required   | ✅                                                                  |
-| Helm `tpl` | ❌                                                                  |
-| Default    | See [here](../securityContext.md#securitycontextrunasuser)          |
+|            |                                                                         |
+| ---------- | ----------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsUser`     |
+| Type       | `int`                                                                   |
+| Required   | ✅                                                                      |
+| Helm `tpl` | ❌                                                                      |
+| Default    | See [here](/general/common/securityContext.md#securitycontextrunasuser) |
 
 Example
 
@@ -71,13 +71,13 @@ workload:
 
 Define the runAsGroup for the container
 
-|            |                                                                      |
-| ---------- | -------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsGroup` |
-| Type       | `int`                                                                |
-| Required   | ✅                                                                   |
-| Helm `tpl` | ❌                                                                   |
-| Default    | See [here](../securityContext.md#securitycontextrunasgroup)          |
+|            |                                                                          |
+| ---------- | ------------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsGroup`     |
+| Type       | `int`                                                                    |
+| Required   | ✅                                                                       |
+| Helm `tpl` | ❌                                                                       |
+| Default    | See [here](/general/common/securityContext.md#securitycontextrunasgroup) |
 
 Example
 
@@ -97,13 +97,13 @@ workload:
 
 Define the readOnlyRootFilesystem for the container
 
-|            |                                                                                  |
-| ---------- | -------------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.readOnlyRootFilesystem` |
-| Type       | `bool`                                                                           |
-| Required   | ✅                                                                               |
-| Helm `tpl` | ❌                                                                               |
-| Default    | See [here](../securityContext.md#securitycontextreadonlyrootfilesystem)          |
+|            |                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.readOnlyRootFilesystem`     |
+| Type       | `bool`                                                                               |
+| Required   | ✅                                                                                   |
+| Helm `tpl` | ❌                                                                                   |
+| Default    | See [here](/general/common/securityContext.md#securitycontextreadonlyrootfilesystem) |
 
 Example
 
@@ -123,13 +123,13 @@ workload:
 
 Define the allowPrivilegeEscalation for the container
 
-|            |                                                                                    |
-| ---------- | ---------------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.allowPrivilegeEscalation` |
-| Type       | `bool`                                                                             |
-| Required   | ✅                                                                                 |
-| Helm `tpl` | ❌                                                                                 |
-| Default    | See [here](../securityContext.md#securitycontextallowprivilegeescalation)          |
+|            |                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.allowPrivilegeEscalation`     |
+| Type       | `bool`                                                                                 |
+| Required   | ✅                                                                                     |
+| Helm `tpl` | ❌                                                                                     |
+| Default    | See [here](/general/common/securityContext.md#securitycontextallowprivilegeescalation) |
 
 Example
 
@@ -149,13 +149,13 @@ workload:
 
 Define the privileged for the container
 
-|            |                                                                      |
-| ---------- | -------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.privileged` |
-| Type       | `bool`                                                               |
-| Required   | ✅                                                                   |
-| Helm `tpl` | ❌                                                                   |
-| Default    | See [here](../securityContext.md#securitycontextprivileged)          |
+|            |                                                                          |
+| ---------- | ------------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.privileged`     |
+| Type       | `bool`                                                                   |
+| Required   | ✅                                                                       |
+| Helm `tpl` | ❌                                                                       |
+| Default    | See [here](/general/common/securityContext.md#securitycontextprivileged) |
 
 Example
 
@@ -175,13 +175,13 @@ workload:
 
 Define the runAsNonRoot for the container
 
-|            |                                                                        |
-| ---------- | ---------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsNonRoot` |
-| Type       | `bool`                                                                 |
-| Required   | ✅                                                                     |
-| Helm `tpl` | ❌                                                                     |
-| Default    | See [here](../securityContext.md#securitycontextrunasnonroot)          |
+|            |                                                                            |
+| ---------- | -------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.runAsNonRoot`     |
+| Type       | `bool`                                                                     |
+| Required   | ✅                                                                         |
+| Helm `tpl` | ❌                                                                         |
+| Default    | See [here](/general/common/securityContext.md#securitycontextrunasnonroot) |
 
 Example
 
@@ -217,13 +217,13 @@ but a general Kubernetes thing.
 
 :::
 
-|            |                                                                        |
-| ---------- | ---------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities` |
-| Type       | `map`                                                                  |
-| Required   | ✅                                                                     |
-| Helm `tpl` | ❌                                                                     |
-| Default    | See [here](../securityContext.md#securitycontextcapabilities)          |
+|            |                                                                            |
+| ---------- | -------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities`     |
+| Type       | `map`                                                                      |
+| Required   | ✅                                                                         |
+| Helm `tpl` | ❌                                                                         |
+| Default    | See [here](/general/common/securityContext.md#securitycontextcapabilities) |
 
 Example
 
@@ -243,13 +243,13 @@ workload:
 
 Define the capabilities.add for the container
 
-|            |                                                                            |
-| ---------- | -------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities.add` |
-| Type       | `list` of `string`                                                         |
-| Required   | ✅                                                                         |
-| Helm `tpl` | ❌                                                                         |
-| Default    | See [here](../securityContext.md#securitycontextcapabilitiesadd)           |
+|            |                                                                               |
+| ---------- | ----------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities.add`    |
+| Type       | `list` of `string`                                                            |
+| Required   | ✅                                                                            |
+| Helm `tpl` | ❌                                                                            |
+| Default    | See [here](/general/common/securityContext.md#securitycontextcapabilitiesadd) |
 
 Example
 
@@ -270,13 +270,13 @@ workload:
 
 Define the capabilities.drop for the container
 
-|            |                                                                             |
-| ---------- | --------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities.drop` |
-| Type       | `list` of `string`                                                          |
-| Required   | ✅                                                                          |
-| Helm `tpl` | ❌                                                                          |
-| Default    | See [here](../securityContext.md#securitycontextcapabilitiesdrop)           |
+|            |                                                                                |
+| ---------- | ------------------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.capabilities.drop`    |
+| Type       | `list` of `string`                                                             |
+| Required   | ✅                                                                             |
+| Helm `tpl` | ❌                                                                             |
+| Default    | See [here](/general/common/securityContext.md#securitycontextcapabilitiesdrop) |
 
 Example
 
@@ -297,13 +297,13 @@ workload:
 
 Define the seccompProfile for the container
 
-|            |                                                                          |
-| ---------- | ------------------------------------------------------------------------ |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile` |
-| Type       | `map`                                                                    |
-| Required   | ✅                                                                       |
-| Helm `tpl` | ❌                                                                       |
-| Default    | See [here](../securityContext.md#securitycontextseccompprofile)          |
+|            |                                                                              |
+| ---------- | ---------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile`     |
+| Type       | `map`                                                                        |
+| Required   | ✅                                                                           |
+| Helm `tpl` | ❌                                                                           |
+| Default    | See [here](/general/common/securityContext.md#securitycontextseccompprofile) |
 
 Example
 
@@ -323,13 +323,13 @@ workload:
 
 Define the seccompProfile.type for the container
 
-|            |                                                                               |
-| ---------- | ----------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile.type` |
-| Type       | `string`                                                                      |
-| Required   | ✅                                                                            |
-| Helm `tpl` | ❌                                                                            |
-| Default    | See [here](../securityContext.md#securitycontextseccompprofiletype)           |
+|            |                                                                                  |
+| ---------- | -------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile.type`    |
+| Type       | `string`                                                                         |
+| Required   | ✅                                                                               |
+| Helm `tpl` | ❌                                                                               |
+| Default    | See [here](/general/common/securityContext.md#securitycontextseccompprofiletype) |
 
 Valid Values:
 
@@ -362,13 +362,13 @@ Only **required** when `securityContext.seccompProfile.type` is `Localhost`.
 
 :::
 
-|            |                                                                                  |
-| ---------- | -------------------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile.profile` |
-| Type       | `string`                                                                         |
-| Required   | ✅                                                                               |
-| Helm `tpl` | ❌                                                                               |
-| Default    | See [here](../securityContext.md#securitycontextseccompprofileprofile)           |
+|            |                                                                                     |
+| ---------- | ----------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.containers.$name.securityContext.seccompProfile.profile`    |
+| Type       | `string`                                                                            |
+| Required   | ✅                                                                                  |
+| Helm `tpl` | ❌                                                                                  |
+| Default    | See [here](/general/common/securityContext.md#securitycontextseccompprofileprofile) |
 
 Example
 

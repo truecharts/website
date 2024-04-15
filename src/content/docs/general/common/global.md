@@ -236,7 +236,7 @@ global:
 
 ### `traefik.enableFixedMiddlewares`
 
-See documentation [here](./ingress/traefik.md#enablefixedmiddlewares)
+See documentation [here](/general/common/ingress/traefik.md#enablefixedmiddlewares)
 
 Default
 
@@ -250,7 +250,7 @@ global:
 
 ### `traefik.fixedMiddlewares`
 
-See documentation [here](./ingress/traefik.md#fixedmiddlewares)
+See documentation [here](/general/common/ingress/traefik.md#fixedmiddlewares)
 
 Default
 
@@ -266,7 +266,7 @@ global:
 
 #### `traefik.fixedMiddlewares[].name`
 
-See documentation [here](./ingress/traefik.md#fixedmiddlewaresname)
+See documentation [here](/general/common/ingress/traefik.md#fixedmiddlewaresname)
 
 Example
 
@@ -281,7 +281,7 @@ global:
 
 #### `traefik.fixedMiddlewares[].namespace`
 
-See documentation [here](./ingress/traefik.md#fixedmiddlewaresnamespace)
+See documentation [here](/general/common/ingress/traefik.md#fixedmiddlewaresnamespace)
 
 Example
 

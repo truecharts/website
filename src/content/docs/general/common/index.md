@@ -31,17 +31,17 @@ Global values that apply to all charts
 
 :::note
 
-See more info about global values [here](./global.md)
+See more info about global values [here](/general/common/global)
 
 :::
 
-|            |                                  |
-| ---------- | -------------------------------- |
-| Key        | `global`                         |
-| Type       | `map`                            |
-| Required   | ❌                               |
-| Helm `tpl` | ❌                               |
-| Default    | See [here](./global.md#defaults) |
+|            |                                                |
+| ---------- | ---------------------------------------------- |
+| Key        | `global`                                       |
+| Type       | `map`                                          |
+| Required   | ❌                                             |
+| Helm `tpl` | ❌                                             |
+| Default    | See [here](/general/common/global.md#defaults) |
 
 Example
 
@@ -57,17 +57,17 @@ The fallback defaults are used when a value is not defined in the chart.
 
 :::note
 
-- See more info about fallbackDefaults [here](./fallbackDefaults.md)
+- See more info about fallbackDefaults [here](/general/common/fallbackDefaults)
 
 :::
 
-|            |                                            |
-| ---------- | ------------------------------------------ |
-| Key        | `fallbackDefaults`                         |
-| Type       | `map`                                      |
-| Required   | ❌                                         |
-| Helm `tpl` | ❌                                         |
-| Default    | See [here](./fallbackDefaults.md#defaults) |
+|            |                                                          |
+| ---------- | -------------------------------------------------------- |
+| Key        | `fallbackDefaults`                                       |
+| Type       | `map`                                                    |
+| Required   | ❌                                                       |
+| Helm `tpl` | ❌                                                       |
+| Default    | See [here](/general/common/fallbackDefaults.md#defaults) |
 
 ---
 
@@ -210,13 +210,13 @@ operator:
 
 Additional system to verify
 
-|            |                                       |
-| ---------- | ------------------------------------- |
+|            |                                    |
+| ---------- | ---------------------------------- |
 | Key        | `operator.verify.additionalsystem` |
-| Type       | `list` of `string`                    |
-| Required   | ❌                                    |
-| Helm `tpl` | ❌                                    |
-| Default    | `[]`                                  |
+| Type       | `list` of `string`                 |
+| Required   | ❌                                 |
+| Helm `tpl` | ❌                                 |
+| Default    | `[]`                               |
 
 Example
 
@@ -236,17 +236,17 @@ Options that apply to all pods, unless overridden at the pod level
 
 :::note
 
-See more info about podOptions [here](./podOptions.md)
+See more info about podOptions [here](/general/common/podOptions)
 
 :::
 
-|            |                                      |
-| ---------- | ------------------------------------ |
-| Key        | `podOptions`                         |
-| Type       | `map`                                |
-| Required   | ❌                                   |
-| Helm `tpl` | ❌                                   |
-| Default    | See [here](./podOptions.md#defaults) |
+|            |                                                    |
+| ---------- | -------------------------------------------------- |
+| Key        | `podOptions`                                       |
+| Type       | `map`                                              |
+| Required   | ❌                                                 |
+| Helm `tpl` | ❌                                                 |
+| Default    | See [here](/general/common/podOptions.md#defaults) |
 
 Example
 
@@ -279,17 +279,17 @@ Options that apply to all containers, unless overridden at the container level
 
 :::note
 
-See more info about containerOptions [here](./containerOptions.md)
+See more info about containerOptions [here](/general/common/containerOptions)
 
 :::
 
-|            |                                            |
-| ---------- | ------------------------------------------ |
-| Key        | `containerOptions`                         |
-| Type       | `map`                                      |
-| Required   | ❌                                         |
-| Helm `tpl` | ❌                                         |
-| Default    | See [here](./containerOptions.md#defaults) |
+|            |                                                          |
+| ---------- | -------------------------------------------------------- |
+| Key        | `containerOptions`                                       |
+| Type       | `map`                                                    |
+| Required   | ❌                                                       |
+| Helm `tpl` | ❌                                                       |
+| Default    | See [here](/general/common/containerOptions.md#defaults) |
 
 Example
 
@@ -343,13 +343,13 @@ Resources apply to **EACH** container, not to the pod as a whole.
 
 :::
 
-|            |                                     |
-| ---------- | ----------------------------------- |
-| Key        | `resources`                         |
-| Type       | `map`                               |
-| Required   | ✅                                  |
-| Helm `tpl` | ❌                                  |
-| Default    | See [here](./resources.md#defaults) |
+|            |                                                   |
+| ---------- | ------------------------------------------------- |
+| Key        | `resources`                                       |
+| Type       | `map`                                             |
+| Required   | ✅                                                |
+| Helm `tpl` | ❌                                                |
+| Default    | See [here](/general/common/resources.md#defaults) |
 
 Example
 
@@ -371,17 +371,17 @@ Define security context for all containers and pods, unless overridden at the co
 
 :::note
 
-See more info about securityContext [here](./securityContext.md)
+See more info about securityContext [here](/general/common/securityContext)
 
 :::
 
-|            |                                           |
-| ---------- | ----------------------------------------- |
-| Key        | `securityContext`                         |
-| Type       | `map`                                     |
-| Required   | ✅                                        |
-| Helm `tpl` | ❌                                        |
-| Default    | See [here](./securityContext.md#defaults) |
+|            |                                                         |
+| ---------- | ------------------------------------------------------- |
+| Key        | `securityContext`                                       |
+| Type       | `map`                                                   |
+| Required   | ✅                                                      |
+| Helm `tpl` | ❌                                                      |
+| Default    | See [here](/general/common/securityContext.md#defaults) |
 
 Example
 
@@ -415,7 +415,7 @@ securityContext:
 
 :::tip
 
-Use [`imageSelector`](./container/index.md#imageselector) to select the image to use for a container.
+Use [`imageSelector`](/general/common/container/index.md#imageselector) to select the image to use for a container.
 
 :::
 
@@ -543,29 +543,29 @@ image:
 
 ## Additional Documentation
 
-- [certificate](./certificate.md)
-- [configmap](./configmap.md)
-- [container](./container/index.md)
-- [containerOptions](./containerOptions.md)
-- [imagePullSecret](./imagePullSecret.md)
-- [ingress](./ingress.md)
-- [notes](./notes.md)
-- [persistence](./persistence/index.md)
-- [podDisruptionBudget](./podDisruptionBudget.md)
-- [priorityClass](./priorityClass.md)
-- [rbac](./rbac.md)
-- [resources](./resources.md)
-- [scaleExternalInterface](./scaleExternalInterface.md)
-- [secret](./secret.md)
-- [securityContext](./securityContext.md)
-- [service](./service/index.md)
-- [serviceAccount](./serviceAccount.md)
-- [storageClass](./storageClass.md)
-- [volumeSnapshot](./volumeSnapshot.md)
-- [volumeSnapshotClass](./volumeSnapshotClass.md)
-- [webhook](./webhook.md)
-- [webhook](./webhook.md)
-- [workload](./workload/index.md)
+- [certificate](/general/common/certificate)
+- [configmap](/general/common/configmap)
+- [container](/general/common/container/)
+- [containerOptions](/general/common/containerOptions)
+- [imagePullSecret](/general/common/imagePullSecret)
+- [ingress](/general/common/ingress)
+- [notes](/general/common/notes)
+- [persistence](/general/common/persistence/index.md)ence/)
+- [podDisruptionBudget](/general/common/podDisruptionBudget)
+- [priorityClass](/general/common/priorityClass)
+- [rbac](/general/common/rbac)
+- [resources](/general/common/resources)
+- [scaleExternalInterface](/general/common/scaleExternalInterface)
+- [secret](/general/common/secret)
+- [securityContext](/general/common/securityContext)
+- [service](/general/common/service/)
+- [serviceAccount](/general/common/serviceAccount)
+- [storageClass](/general/common/storageClass)
+- [volumeSnapshot](/general/common/volumeSnapshot)
+- [volumeSnapshotClass](/general/common/volumeSnapshotClass)
+- [webhook](/general/common/webhook)
+- [webhook](/general/common/webhook)
+- [workload](/general/common/workload/)
 
 ---
 

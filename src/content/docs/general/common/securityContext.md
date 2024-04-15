@@ -45,7 +45,7 @@ securityContext:
 
 Defines the security context for the container. Can be overridden at container level.
 
-See [Container Security Context](./container/securityContext.md#securitycontext)
+See [Container Security Context](/general/common/container/securityContext.md#securitycontext)
 
 Default
 
@@ -72,7 +72,7 @@ securityContext:
 
 ### `securityContext.container.PUID`
 
-See [Container Fixed Env PUID](./container/fixedEnv.md#fixedenvpuid)
+See [Container Fixed Env PUID](/general/common/container/fixedEnv.md#fixedenvpuid)
 
 Default
 
@@ -86,7 +86,7 @@ securityContext:
 
 ### `securityContext.container.UMASK`
 
-See [Container Fixed Env UMASK](./container/fixedEnv.md#fixedenvumask)
+See [Container Fixed Env UMASK](/general/common/container/fixedEnv.md#fixedenvumask)
 
 Default
 
@@ -100,7 +100,7 @@ securityContext:
 
 ### `securityContext.container.runAsNonRoot`
 
-See [Container Run As Non Root](./container/securityContext.md#securitycontextrunasnonroot)
+See [Container Run As Non Root](/general/common/container/securityContext.md#securitycontextrunasnonroot)
 
 Default
 
@@ -114,7 +114,7 @@ securityContext:
 
 ### `securityContext.container.runAsUser`
 
-See [Container Run As User](./container/securityContext.md#securitycontextrunasuser)
+See [Container Run As User](/general/common/container/securityContext.md#securitycontextrunasuser)
 
 Default
 
@@ -128,7 +128,7 @@ securityContext:
 
 ### `securityContext.container.runAsGroup`
 
-See [Container Run As Group](./container/securityContext.md#securitycontextrunasgroup)
+See [Container Run As Group](/general/common/container/securityContext.md#securitycontextrunasgroup)
 
 Default
 
@@ -142,7 +142,7 @@ securityContext:
 
 ### `securityContext.container.readOnlyRootFilesystem`
 
-See [Container Read Only Root Filesystem](./container/securityContext.md#securitycontextreadonlyrootfilesystem)
+See [Container Read Only Root Filesystem](/general/common/container/securityContext.md#securitycontextreadonlyrootfilesystem)
 
 Default
 
@@ -156,7 +156,7 @@ securityContext:
 
 ### `securityContext.container.allowPrivilegeEscalation`
 
-See [Container Allow Privilege Escalation](./container/securityContext.md#securitycontextallowprivilegeescalation)
+See [Container Allow Privilege Escalation](/general/common/container/securityContext.md#securitycontextallowprivilegeescalation)
 
 Default
 
@@ -170,7 +170,7 @@ securityContext:
 
 ### `securityContext.container.privileged`
 
-See [Container Privileged](./container/securityContext.md#securitycontextprivileged)
+See [Container Privileged](/general/common/container/securityContext.md#securitycontextprivileged)
 
 Default
 
@@ -184,7 +184,7 @@ securityContext:
 
 ### `securityContext.container.seccompProfile`
 
-See [Container Seccomp Profile](./container/securityContext.md#securitycontextseccompprofile)
+See [Container Seccomp Profile](/general/common/container/securityContext.md#securitycontextseccompprofile)
 
 Default
 
@@ -199,7 +199,7 @@ securityContext:
 
 #### `securityContext.container.seccompProfile.type`
 
-See [Container Seccomp Profile Type](./container/securityContext.md#securitycontextseccompprofiletype)
+See [Container Seccomp Profile Type](/general/common/container/securityContext.md#securitycontextseccompprofiletype)
 
 Default
 
@@ -214,7 +214,7 @@ securityContext:
 
 #### `securityContext.container.seccompProfile.profile`
 
-See [Container Seccomp Profile Profile](./container/securityContext.md#securitycontextseccompprofileprofile)
+See [Container Seccomp Profile Profile](/general/common/container/securityContext.md#securitycontextseccompprofileprofile)
 
 Default
 
@@ -227,7 +227,7 @@ securityContext:
 
 ### `securityContext.container.capabilities`
 
-See [Container Capabilities](./container/securityContext.md#securitycontextcapabilities)
+See [Container Capabilities](/general/common/container/securityContext.md#securitycontextcapabilities)
 
 Default
 
@@ -242,7 +242,7 @@ securityContext:
 
 #### `securityContext.container.capabilities.add`
 
-See [Container Capabilities Add](./container/securityContext.md#securitycontextcapabilitiesadd)
+See [Container Capabilities Add](/general/common/container/securityContext.md#securitycontextcapabilitiesadd)
 
 Default
 
@@ -255,7 +255,7 @@ securityContext:
 
 #### `securityContext.container.capabilities.drop`
 
-See [Container Capabilities Drop](./container/securityContext.md#securitycontextcapabilitiesdrop)
+See [Container Capabilities Drop](/general/common/container/securityContext.md#securitycontextcapabilitiesdrop)
 
 Default
 
@@ -273,7 +273,7 @@ securityContext:
 
 Defines the security context for the pod. Can be overridden at pod level.
 
-See [Pod Security Context](./workload/index.md#securitycontext)
+See [Pod Security Context](/general/common/workload/index.md#securitycontext)
 
 Default
 
@@ -290,7 +290,7 @@ securityContext:
 
 ### `securityContext.pod.fsGroup`
 
-See [Pod FS Group](./workload/index.md#securitycontextfsgroup)
+See [Pod FS Group](/general/common/workload/index.md#securitycontextfsgroup)
 
 Default
 
@@ -304,7 +304,7 @@ securityContext:
 
 ### `securityContext.pod.fsGroupChangePolicy`
 
-See [Pod FS Group Change Policy](./workload/index.md#securitycontextfsgroupchangepolicy)
+See [Pod FS Group Change Policy](/general/common/workload/index.md#securitycontextfsgroupchangepolicy)
 
 Default
 
@@ -318,7 +318,7 @@ securityContext:
 
 ### `securityContext.pod.supplementalGroups`
 
-See [Pod Supplemental Groups](./workload/index.md#securitycontextsupplementalgroups)
+See [Pod Supplemental Groups](/general/common/workload/index.md#securitycontextsupplementalgroups)
 
 Default
 
@@ -332,7 +332,7 @@ securityContext:
 
 ### `securityContext.pod.sysctls`
 
-See [Pod Sysctls](./workload/index.md#securitycontextsysctls)
+See [Pod Sysctls](/general/common/workload/index.md#securitycontextsysctls)
 
 Default
 

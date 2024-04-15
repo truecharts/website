@@ -36,7 +36,7 @@ Define if the container is enabled or not
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.enabled` |
-| Type       | `bool`                                         |
+| Type       | `bool`                                            |
 | Required   | ✅                                                |
 | Helm `tpl` | ✅                                                |
 | Default    | `false`                                           |
@@ -130,7 +130,7 @@ Does **not** apply to `initContainers`
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.primary` |
-| Type       | `bool`                                         |
+| Type       | `bool`                                            |
 | Required   | ✅                                                |
 | Helm `tpl` | ❌                                                |
 | Default    | `false`                                           |
@@ -155,7 +155,7 @@ Define if the container should have stdin enabled or not
 |            |                                                 |
 | ---------- | ----------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.stdin` |
-| Type       | `bool`                                       |
+| Type       | `bool`                                          |
 | Required   | ❌                                              |
 | Helm `tpl` | ❌                                              |
 | Default    | `false`                                         |
@@ -180,7 +180,7 @@ Define if the container should have tty enabled or not
 |            |                                               |
 | ---------- | --------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.tty` |
-| Type       | `bool`                                     |
+| Type       | `bool`                                        |
 | Required   | ❌                                            |
 | Helm `tpl` | ❌                                            |
 | Default    | `false`                                       |
@@ -200,25 +200,25 @@ workload:
 
 ## `command`
 
-See [command](./command.md)
+See [command](/general/common/command)
 
 ---
 
 ## `args`
 
-See [args](./args.md#args)
+See [args](/general/common/args.md#args)
 
 ---
 
 ## `extraArgs`
 
-See [extraArgs](./args.md#extraargs)
+See [extraArgs](/general/common/args.md#extraargs)
 
 ---
 
 ## `termination`
 
-See [termination](./termination.md)
+See [termination](/general/common/termination)
 
 ---
 
@@ -230,7 +230,7 @@ Does **not** apply to `initContainers`
 
 :::
 
-See [lifecycle](./lifecycle.md)
+See [lifecycle](/general/common/lifecycle)
 
 ---
 
@@ -242,43 +242,43 @@ Does **not** apply to `initContainers`
 
 :::
 
-See [probes](./probes.md)
+See [probes](/general/common/probes)
 
 ---
 
 ## `resources`
 
-See [resources](./resources.md)
+See [resources](/general/common/resources)
 
 ---
 
 ## `securityContext`
 
-See [securityContext](./securityContext.md)
+See [securityContext](/general/common/securityContext)
 
 ---
 
 ## `envFrom`
 
-See [envFrom](./envFrom.md)
+See [envFrom](/general/common/envFrom)
 
 ---
 
 ## `fixedEnv`
 
-See [fixedEnv](./fixedEnv.md)
+See [fixedEnv](/general/common/fixedEnv)
 
 ---
 
 ## `env`
 
-See [env](./env.md)
+See [env](/general/common/env)
 
 ---
 
 ## `envList`
 
-See [envList](./envList.md)
+See [envList](/general/common/envList)
 
 ---
 

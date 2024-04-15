@@ -29,7 +29,7 @@ resources:
 
 ## `resources.limits`
 
-See [Resources Limits](./container/resources.md#resourceslimits)
+See [Resources Limits](/general/common/container/resources.md#resourceslimits)
 
 Default
 
@@ -44,7 +44,7 @@ resources:
 
 ### `resources.limits.cpu`
 
-See [Resources Limits CPU](./container/resources.md#resourceslimitscpu)
+See [Resources Limits CPU](/general/common/container/resources.md#resourceslimitscpu)
 
 Default
 
@@ -58,7 +58,7 @@ resources:
 
 ### `resources.limits.memory`
 
-See [Resources Limits Memory](./container/resources.md#resourceslimitsmemory)
+See [Resources Limits Memory](/general/common/container/resources.md#resourceslimitsmemory)
 
 Default
 
@@ -72,7 +72,7 @@ resources:
 
 ### `resources.requests."gpu.intel.com/i915"`
 
-See [Resources Requests GPU](./container/resources.md#resourceslimitsintelcomi915)
+See [Resources Requests GPU](/general/common/container/resources.md#resourceslimitsintelcomi915)
 
 Default: `not set`
 
@@ -80,7 +80,7 @@ Default: `not set`
 
 #### `resources.limits."nvidia.com/gpu"`
 
-See [Resources Limits GPU](./container/resources.md#resourceslimitsnvidiacomgpu)
+See [Resources Limits GPU](/general/common/container/resources.md#resourceslimitsnvidiacomgpu)
 
 Default: `not set`
 
@@ -88,7 +88,7 @@ Default: `not set`
 
 #### `resources.limits."amd.com/gpu"`
 
-See [Resources Limits GPU](./container/resources.md#resourceslimitsamdcomgpu)
+See [Resources Limits GPU](/general/common/container/resources.md#resourceslimitsamdcomgpu)
 
 Default: `not set`
 
@@ -96,7 +96,7 @@ Default: `not set`
 
 ## `resources.requests`
 
-See [Resources Requests](./container/resources.md#resourcesrequests)
+See [Resources Requests](/general/common/container/resources.md#resourcesrequests)
 
 Default
 
@@ -111,7 +111,7 @@ resources:
 
 ### `resources.requests.cpu`
 
-See [Resources Requests CPU](./container/resources.md#resourcesrequestscpu)
+See [Resources Requests CPU](/general/common/container/resources.md#resourcesrequestscpu)
 
 Default
 
@@ -125,7 +125,7 @@ resources:
 
 ### `resources.requests.memory`
 
-See [Resources Requests Memory](./container/resources.md#resourcesrequestsmemory)
+See [Resources Requests Memory](/general/common/container/resources.md#resourcesrequestsmemory)
 
 Default
 

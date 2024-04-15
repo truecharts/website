@@ -168,21 +168,21 @@ service:
 
 Define the service type
 
-|            |                                                        |
-| ---------- | ------------------------------------------------------ |
-| Key        | `service.$name.type`                                   |
-| Type       | `string`                                               |
-| Required   | ❌                                                     |
-| Helm `tpl` | ✅                                                     |
-| Default    | See default [here](../fallbackDefaults.md#servicetype) |
+|            |                                                                     |
+| ---------- | ------------------------------------------------------------------- |
+| Key        | `service.$name.type`                                                |
+| Type       | `string`                                                            |
+| Required   | ❌                                                                  |
+| Helm `tpl` | ✅                                                                  |
+| Default    | See default [here](/general/common/fallbackDefaults.md#servicetype) |
 
 Valid Values:
 
-- [`ClusterIP`](ClusterIP.md)
-- [`LoadBalancer`](LoadBalancer.md)
-- [`NodePort`](NodePort.md)
-- [`ExternalName`](ExternalName.md)
-- [`ExternalIP`](ExternalIP.md)
+- [`ClusterIP`](ClusterIP)
+- [`LoadBalancer`](LoadBalancer)
+- [`NodePort`](NodePort)
+- [`ExternalName`](ExternalName)
+- [`ExternalIP`](ExternalIP)
 
 Example
 
@@ -461,7 +461,7 @@ service:
 
 Define the ports of the service
 
-See [Ports](./ports.md)
+See [Ports](/general/common/ports)
 
 |            |                       |
 | ---------- | --------------------- |
@@ -485,8 +485,8 @@ service:
 
 Full examples can be found under each service type
 
-- [ClusterIP](ClusterIP.md)
-- [LoadBalancer](LoadBalancer.md)
-- [NodePort](NodePort.md)
-- [ExternalName](ExternalName.md)
-- [ExternalIP](ExternalIP.md)
+- [ClusterIP](ClusterIP)
+- [LoadBalancer](LoadBalancer)
+- [NodePort](NodePort)
+- [ExternalName](ExternalName)
+- [ExternalIP](ExternalIP)

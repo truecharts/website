@@ -15,7 +15,7 @@ title: Configmap
 
 :::tip
 
-- See available persistence keys [here](./index.md).
+- See available persistence keys [here](/general/common/).
 - This options apply only when `type: configmap`.
 
 :::
@@ -51,7 +51,7 @@ Whether to expand (adding the fullname as prefix) the configmap name.
 |            |                                      |
 | ---------- | ------------------------------------ |
 | Key        | `persistence.$name.expandObjectName` |
-| Type       | `bool`                            |
+| Type       | `bool`                               |
 | Required   | ❌                                   |
 | Helm `tpl` | ✅                                   |
 | Default    | `true`                               |
@@ -73,7 +73,7 @@ Whether the configmap should be required or not.
 |            |                              |
 | ---------- | ---------------------------- |
 | Key        | `persistence.$name.optional` |
-| Type       | `bool`                    |
+| Type       | `bool`                       |
 | Required   | ❌                           |
 | Helm `tpl` | ❌                           |
 | Default    | `false`                      |

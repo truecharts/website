@@ -12,8 +12,8 @@ title: Env
 :::tip
 
 Variable names will be scanned for duplicates across all
-[secrets](../secret.md), [configmaps](../configmap.md),
-[env](./env.md), [envList](./envList.md) and [fixedEnv](./fixedEnv.md)
+[secrets](/general/common/secret.md), [configmaps](/general/common/configmap),
+[env](./env.md), [envList](./envList.md) and [fixedEnv](/general/common/fixedEnv)
 and will throw an error if it finds any.
 
 :::
