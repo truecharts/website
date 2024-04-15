@@ -13,7 +13,7 @@ title: FixedEnv
 
 Variable names will be scanned for duplicates across all
 [secrets](/general/common/secret.md), [configmaps](/general/common/configmap),
-[env](./env.md), [envList](./envList.md) and [fixedEnv](/general/common/fixedEnv)
+[env](/general/common/env), [envList](/general/common/envList) and [fixedEnv](/general/common/fixedEnv)
 and will throw an error if it finds any.
 
 :::
@@ -37,11 +37,11 @@ By default it will set the following environment variables:
 - `UMASK`: [Default UMASK](/general/common/securityContext.md#securitycontextcontainerumask) or [fixedEnv.UMASK](#fixedenvumask)
 - `UMASK_SET`: [Default UMASK](/general/common/securityContext.md#securitycontextcontainerumask) or [fixedEnv.UMASK](#fixedenvumask)
 - `S6_READ_ONLY_ROOT`: `1`
-  - Only when [`readOnlyRootFilesystem`](./securityContext.md#securitycontextreadonlyrootfilesystem) or [`runAsNonRoot`](/general/common/securityContext.md#securitycontextrunasnonroot) is `true`
+  - Only when [`readOnlyRootFilesystem`](/general/common/securityContext.md#securitycontextreadonlyrootfilesystem) or [`runAsNonRoot`](/general/common/securityContext.md#securitycontextrunasnonroot) is `true`
 - `PUID`, `USER_ID`, `UID`: [Default PUID](/general/common/securityContext.md#securitycontextcontainerpuid) or [fixedEnv.PUID](#fixedenvpuid)
-  - Only when [`runAsUser`](./securityContext.md#securitycontextrunasuser) or [`runAsGroup`](/general/common/securityContext.md#securitycontextcontainerrunasgroup) is `0`
+  - Only when [`runAsUser`](/general/common/securityContext.md#securitycontextrunasuser) or [`runAsGroup`](/general/common/securityContext.md#securitycontextcontainerrunasgroup) is `0`
 - `PGID`, `GROUP_ID`, `GID`: Same as [`fsGroup`](/general/common/securityContext.md#securitycontextpodfsgroup)
-  - Only when [`runAsUser`](./securityContext.md#securitycontextrunasuser) or [`runAsGroup`](/general/common/securityContext.md#securitycontextcontainerrunasgroup) is `0`
+  - Only when [`runAsUser`](/general/common/securityContext.md#securitycontextrunasuser) or [`runAsGroup`](/general/common/securityContext.md#securitycontextcontainerrunasgroup) is `0`
 - `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](/general/common/containerOptions.md#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](#fixedenvnvidia_caps)
   - Only when `nvidia.com/gpu` is set to `> 0` under [`resources`](/general/common/container/resources)
 
