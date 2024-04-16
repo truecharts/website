@@ -315,7 +315,7 @@ To remove the previous automatically installed operator run this in the system s
 
 This operator is required for the use of any charts that utilize CloudNative PostgreSQL (CNPG).
 
-:::warning DATA LOSS
+:::caution[DATA LOSS]
 
 The following command is destructive and will delete any existing CNPG databases.
 
@@ -337,7 +337,7 @@ To remove the previous automatically installed operator run this in the system s
 
 This operator is required for the use of MetalLB to have each chart utilize a unique IP address.
 
-:::warning LOSS OF CONNECTIVITY
+:::caution[LOSS OF CONNECTIVITY]
 
 Installing the MetalLB operator will prevent the use of the TrueNAS Scale integrated load balancer. Only install this operator if you intend to use MetalLB.
 

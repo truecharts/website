@@ -8,7 +8,7 @@ sidebar:
 
 Basic setup of the TrueCharts [Gluetun](https://github.com/qdm12/gluetun/) VPN addon
 
-:::caution Unique VPN Environmental Variables
+:::caution[Unique VPN Environmental Variables]
 
 The guide below uses Mullvad and Windscribe as examples. You must visit the [Gluetun Wiki](https://github.com/qdm12/gluetun-wiki) and use the environmental variables listed for your VPN provider. Attempting to use the variables listed below will not work with any other providers and will cause Gluetun to fail during start up and the app it is attached to not to start.
 
@@ -55,7 +55,7 @@ Now we can enter the Env Vars
 - Enable the killswitch by ticking `Enable Killswitch` box
 - Click `Add` for every subnet you would like to exclude from the VPN tunnel. I have added my local subnet.
 
-:::caution Killswitch Entry
+:::caution[Killswitch Entry]
 
 The Killswitch entry uses the Network ID and CIDR. Please note the example above is 192.168.1.0/24. This is never your default gateway or router IP address. If you fill this entry out incorrectly Gluetun will fail to start and the application it is attached to will fail to start. In almost all situations the Network ID will end in a .0 (ie. 192.168.0.0, 10.0.0.0, 172.16.0.0) and the CIDR will be /24.
 

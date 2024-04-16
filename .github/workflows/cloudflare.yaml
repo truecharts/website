@@ -24,6 +24,7 @@ jobs:
     steps:
       - name: Comment deploy start
         if: github.event_name != 'push'
+        continue-on-error: true
         uses: mshick/add-pr-comment@v2
         with:
           message-id: cloudflare-deploy
@@ -114,6 +115,7 @@ jobs:
 
       - name: Publish to Cloudflare Pages
         id: cloudflare
+        continue-on-error: true
         uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -128,6 +130,7 @@ jobs:
 
       - name: Comment deploy url
         if: github.event_name != 'push'
+        continue-on-error: true
         uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
         with:
           message-id: cloudflare-deploy

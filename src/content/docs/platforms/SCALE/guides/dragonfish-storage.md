@@ -2,7 +2,7 @@
 title: DragonFish Storage
 ---
 
-:::caution DragonFish is not yet supported
+:::caution[DragonFish is not yet supported]
 
 This is a pre-release guide, TrueNAS SCALE 24.04 DragonFish is explicitly **NOT** yet supported by TrueCharts
 

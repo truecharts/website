@@ -6,7 +6,7 @@ sidebar:
 
 Ingress (more commonly known as Reverse Proxy) settings can be configured here. This is how Kubernetes connects your Applications in containers to FQDNs (fully qualified domain names). If you choose to enable this you must have a Reverse Proxy installed and a DNS service to resolve the DNS name of the FQDN specified.
 
-:::caution Reverse Proxy support
+:::caution[Reverse Proxy support]
 
 Currently the `Reverse Proxy` of choice for `TrueCharts` is `Traefik`. Enabling `Ingress` will configure settings for use with the `Traefik` application. Other reverse proxies may be used, however these settings will not affect them and there will be no support from the `TrueCharts` team.
 

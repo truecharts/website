@@ -130,10 +130,8 @@ workload:
 Define command(s)
 
 :::note
-
 - Only applies when `type: exec`
 - It is **required**
-
 :::
 
 See [Command](/general/common/container/command#command) for more information.
@@ -145,10 +143,8 @@ See [Command](/general/common/container/command#command) for more information.
 Define the port
 
 :::note
-
 - Only applies when `type: http` or `type: https`
 - It is **required**
-
 :::
 
 |            |                                                                |
@@ -180,9 +176,7 @@ workload:
 Define the host
 
 :::note
-
 - Only applies when `type: http` or `type: https`
-
 :::
 
 |            |                                                                |
@@ -215,9 +209,7 @@ workload:
 Define the path
 
 :::note
-
 - Only applies when `type: http` or `type: https`
-
 :::
 
 |            |                                                                |
