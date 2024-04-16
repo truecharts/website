@@ -4,15 +4,7 @@ import CardGrid from "../components/CardGrid.astro";
 import { Card } from "@astrojs/starlight/components";
 import { Icon } from "@astrojs/starlight/components";
 import { contributors as allContributors } from "../assets/contributors.json";
-import allSponsors from "../assets/sponsors.json";
 import RoundIcon from "../components/RoundIcon.astro";
-
-const sponsors = allSponsors.map((s) => ({
-  name: s.name,
-  image: s.image,
-  profile: s.profile,
-  github: s.github,
-}));
 
 const contributors = allContributors.map((c) => {
   const avatarFileName = c.avatar_url ? c.avatar_url.split('/').pop()?.split('?v')[0] : '';
@@ -24,7 +16,7 @@ const contributors = allContributors.map((c) => {
   }; 
 });
 
-const allPeople = [...contributors, ...sponsors];
+const allPeople = [...contributors];
 // Remove people with no image
 const filteredPople = allPeople.filter((p) => p.image !== null);
 const finalPeople = filteredPople.reduce(
