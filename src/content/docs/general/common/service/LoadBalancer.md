@@ -16,7 +16,7 @@ title: LoadBalancer
 
 :::tip
 
-- See available service keys [here](/general/common/).
+- See available service keys [here](/general/common/service).
 - This options apply only when `type: LoadBalancer`.
 
 :::
