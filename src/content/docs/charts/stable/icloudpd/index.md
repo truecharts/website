@@ -2,7 +2,7 @@
 title: icloudpd
 ---
 
-![Version: 6.8.4](https://img.shields.io/badge/Version-6.8.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.733](https://img.shields.io/badge/AppVersion-1.0.733-informational?style=flat-square)
+![Version: 6.8.6](https://img.shields.io/badge/Version-6.8.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.733](https://img.shields.io/badge/AppVersion-1.0.733-informational?style=flat-square)
 
 iCloudPD, syncs photos from iDevices to a single directory on TrueNAS.
 

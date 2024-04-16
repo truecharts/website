@@ -18,8 +18,11 @@ import robotsTxt from "astro-robots-txt";
 import lottie from "astro-integration-lottie";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
-
+import betterImageService from "astro-better-image-service";
+import playformCompress from "@playform/compress";
 const site = "https://truecharts.org";
+
+
 // https://astro.build/config
 export default defineConfig({
   site: site,
@@ -29,109 +32,109 @@ export default defineConfig({
   cacheDir: ".astro/cache",
   trailingSlash: "ignore",
   compressHTML: true,
-  prefetch: true,
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: "viewport"
+  },
   build: {
-    output: "directory",
+    output: "directory"
   },
   experimental: {
     // TODO: Enable this after bug is fixed
     //  https://github.com/withastro/astro/issues/9353
-    contentCollectionCache: false,
+    contentCollectionCache: false
   },
-  integrations: [
-    starlight({
-      title: "TrueCharts Charts",
-      tagline: "Awesome Helm Charts",
-      logo: {
-        src: "./src/assets/with-text.svg",
-        replacesTitle: true,
-      },
-      head: [
-        {
-          tag: "script",
-          attrs: {
-            src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796",
-            crossorigin: "anonymous",
-            defer: true,
-          },
-        },
-        {
-          tag: "script",
-          attrs: {
-            src: "https://www.googletagmanager.com/gtag/js?id=G-Q9NT692BZZ",
-            defer: true,
-          },
-        },
-        {
-          tag: "script",
-          content:
-            "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q9NT692BZZ');",
-        },
-      ],
-      tableOfContents: {
-        maxHeadingLevel: 6,
-      },
-      social: {
-        github: new URL("/s/git", site).href,
-        facebook: new URL("/s/fb", site).href,
-        "x.com": new URL("/s/twitter", site).href,
-        discord: new URL("/s/discord", site).href,
-        telegram: new URL("/s/tg", site).href,
-        openCollective: new URL("/s/oc", site).href,
-        patreon: new URL("/s/patreon", site).href,
-      },
-      editLink: {
-        baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
-      },
-      lastUpdated: true,
-      components: {
-        Header: "./src/components/CustomHeader.astro",
-        Hero: "./src/components/CustomHero.astro",
-      },
-      plugins: [
-        starlightImageZoom(),
-        starlightBlog({
-          title: "TrueCharts News",
-          postCount: 5,
-          recentPostCount: 10,
-          authors: authors,
-        }),
-        starlightLinksValidator({
-          errorOnRelativeLinks: false,
-          errorOnFallbackPages: false,
-        }),
-        starlightDocSearch({
-          appId: "M5JIEOBD9S",
-          apiKey: "996ff61cece86950829f65416b941711",
-          indexName: "truecharts",
-        }),
-      ],
-      sidebar: [
-        {
-          label: "General",
-          collapsed: false,
-          autogenerate: { directory: "general", collapsed: true },
-        },
-        {
-          label: "Platforms",
-          collapsed: true,
-          autogenerate: { directory: "platforms" },
-        },
-        {
-          label: "Development",
-          collapsed: true,
-          autogenerate: { directory: "development" },
-        },
-        {
-          label: "Charts",
-          collapsed: true,
-          autogenerate: { directory: "charts" },
-        },
-      ],
+  integrations: [starlight({
+    title: "TrueCharts Charts",
+    tagline: "Awesome Helm Charts",
+    logo: {
+      src: "./src/assets/with-text.svg",
+      replacesTitle: true
+    },
+    head: [{
+      tag: "script",
+      attrs: {
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796",
+        crossorigin: "anonymous",
+        defer: true
+      }
+    }, {
+      tag: "script",
+      attrs: {
+        src: "https://www.googletagmanager.com/gtag/js?id=G-Q9NT692BZZ",
+        defer: true
+      }
+    }, {
+      tag: "script",
+      content: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-Q9NT692BZZ');"
+    }],
+    tableOfContents: {
+      maxHeadingLevel: 6
+    },
+    social: {
+      github: "https://github.com/truecharts",
+      facebook: "https://www.facebook.com/truecharts",
+      "x.com": "https://twitter.com/useTrueCharts",
+      discord: "https://discord.gg/tVsPTHWTtr",
+      telegram: "https://t.me/s/truecharts",
+      openCollective: "https://opencollective.com/truecharts",
+      patreon: "https://patreon.com/truecharts"
+    },
+    editLink: {
+      baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs"
+    },
+    lastUpdated: true,
+    components: {
+      Header: "./src/components/CustomHeader.astro",
+      Hero: "./src/components/CustomHero.astro"
+    },
+    plugins: [starlightImageZoom(), starlightBlog({
+      title: "TrueCharts News",
+      postCount: 5,
+      recentPostCount: 10,
+      authors: authors
+    }), starlightLinksValidator({
+      errorOnRelativeLinks: false,
+      errorOnFallbackPages: false
+    }), starlightDocSearch({
+      appId: "M5JIEOBD9S",
+      apiKey: "996ff61cece86950829f65416b941711",
+      indexName: "truecharts"
+    })],
+    sidebar: [{
+      label: "General",
+      collapsed: false,
+      autogenerate: {
+        directory: "general",
+        collapsed: true
+      }
+    }, {
+      label: "Platforms",
+      collapsed: true,
+      autogenerate: {
+        directory: "platforms"
+      }
+    }, {
+      label: "Development",
+      collapsed: true,
+      autogenerate: {
+        directory: "development"
+      }
+    }, {
+      label: "Charts",
+      collapsed: true,
+      autogenerate: {
+        directory: "charts"
+      }
+    }]
+  }),
+    sitemap(), robotsTxt(), tailwind(), lottie(), betterImageService(),
+    (await import("@playform/compress")).default({
+      HTML: false,
+      CSS: true,
+      JavaScript: true,
+      Image: true,
+      SVG: true,
     }),
-    sitemap(),
-    robotsTxt(),
-    tailwind(),
-    lottie(),
-  ],
+  ]
 });

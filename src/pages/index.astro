@@ -4,24 +4,19 @@ import CardGrid from "../components/CardGrid.astro";
 import { Card } from "@astrojs/starlight/components";
 import { Icon } from "@astrojs/starlight/components";
 import { contributors as allContributors } from "../assets/contributors.json";
-import allSponsors from "../assets/sponsors.json";
 import RoundIcon from "../components/RoundIcon.astro";
 
-const sponsors = allSponsors.map((s) => ({
-  name: s.name,
-  image: s.image,
-  profile: s.profile,
-  github: s.github,
-}));
+const contributors = allContributors.map((c) => {
+  const avatarFileName = c.avatar_url ? c.avatar_url.split('/').pop()?.split('?v')[0] : '';
+  return {
+    name: c.name,
+    image: `/assets/contributors/${avatarFileName}.webp`,
+    profile: c.profile,
+    github: c.profile,
+  }; 
+});
 
-const contributors = allContributors.map((c) => ({
-  name: c.name,
-  image: c.avatar_url,
-  profile: c.profile,
-  github: c.profile,
-}));
-
-const allPeople = [...contributors, ...sponsors];
+const allPeople = [...contributors];
 // Remove people with no image
 const filteredPople = allPeople.filter((p) => p.image !== null);
 const finalPeople = filteredPople.reduce(
@@ -52,7 +47,7 @@ const iconClass = "mr-2 group-hover:animate-ping";
     template: "splash",
     banner: {
       content:
-        'TrueCharts and OpenSource can only exist with your continued <a class="underline" target="_blank" href="/s/oc">support</a>',
+        'TrueCharts and OpenSource can only exist with your continued <a class="underline" target="_blank" href="https://opencollective.com/truecharts">support</a>',
     },
     hero: {
       tagline: "Your Source for Awesome Helm-Charts!",
@@ -68,12 +63,12 @@ const iconClass = "mr-2 group-hover:animate-ping";
         },
         {
           text: "Sponsor TrueCharts",
-          link: "/s/oc",
+          link: "https://opencollective.com/truecharts",
           icon: "external",
         },
         {
           text: "Join us on Discord",
-          link: "/s/discord",
+          link: "https://discord.gg/tVsPTHWTtr",
           icon: "external",
         },
       ],
