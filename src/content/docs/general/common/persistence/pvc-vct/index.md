@@ -95,13 +95,13 @@ persistence:
 Define wether the to add helm annotation to retain resource on uninstall.
 This does not **guarantee** that the resource will be retained.
 
-|            |                                                                   |
-| ---------- | ----------------------------------------------------------------- |
-| Key        | `persistence.$name.retain`                                        |
-| Type       | `bool`                                                            |
-| Required   | ❌                                                                |
-| Helm `tpl` | ❌                                                                |
-| Default    | See default [here](/general/common/../fallbackDefaults#pvcretain) |
+|            |                                                                       |
+| ---------- | --------------------------------------------------------------------- |
+| Key        | `persistence.$name.retain`                                            |
+| Type       | `bool`                                                                |
+| Required   | ❌                                                                    |
+| Helm `tpl` | ❌                                                                    |
+| Default    | See default [here](/general/common/global/fallbackdefaults#pvcretain) |
 
 Example
 
@@ -117,13 +117,13 @@ persistence:
 
 Define the accessModes of the PVC, if it's single can be defined as a string, multiple as a list
 
-|            |                                                                     |
-| ---------- | ------------------------------------------------------------------- |
-| Key        | `persistence.$name.accessModes`                                     |
-| Type       | `string` or `list`                                                  |
-| Required   | ❌                                                                  |
-| Helm `tpl` | ✅                                                                  |
-| Default    | See default [here](/general/common/../fallbackDefaults#accessmodes) |
+|            |                                                                         |
+| ---------- | ----------------------------------------------------------------------- |
+| Key        | `persistence.$name.accessModes`                                         |
+| Type       | `string` or `list`                                                      |
+| Required   | ❌                                                                      |
+| Helm `tpl` | ✅                                                                      |
+| Default    | See default [here](/general/common/global/fallbackDefaults#accessmodes) |
 
 Example
 
@@ -189,13 +189,13 @@ persistence:
 
 Define the size of the PVC
 
-|            |                                                                                                                                   |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Key        | `persistence.$name.size`                                                                                                          |
-| Type       | `string`                                                                                                                          |
-| Required   | ❌                                                                                                                                |
-| Helm `tpl` | ✅                                                                                                                                |
-| Default    | See default [pvcSize](/general/common./../fallbackDefaults.md#pvcsize) and [vctSize](/general/common/../fallbackDefaults#vctsize) |
+|            |                                                                                                                                       |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Key        | `persistence.$name.size`                                                                                                              |
+| Type       | `string`                                                                                                                              |
+| Required   | ❌                                                                                                                                    |
+| Helm `tpl` | ✅                                                                                                                                    |
+| Default    | See default [pvcSize](/general/common./../fallbackDefaults.md#pvcsize) and [vctSize](/general/common/global/fallbackdefaults#vctsize) |
 
 Example
 
@@ -218,7 +218,7 @@ Define the storageClass to use
   - `SCALE-ZFS` **->** `{{ .Values.global.ixChartContext.storageClassName }}`
   - Else **->** as is
 - Else if **ixChartContext (TrueNAS SCALE)**, **->** `{{ .Values.global.ixChartContext.storageClassName }}`.
-- Else if [fallback storageClass](/general/common/../fallbackDefaults#storageclass), **->** this
+- Else if [fallback storageClass](/general/common/global/fallbackdefaults#storageclass), **->** this
 - Else **->** _nothing_ (which means requesting a PV without class)
 
 :::

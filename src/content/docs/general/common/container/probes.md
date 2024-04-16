@@ -331,7 +331,7 @@ Define the initialDelaySeconds in seconds
 | Type       | `int`                                                                              |
 | Required   | ❌                                                                                 |
 | Helm `tpl` | ❌                                                                                 |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
+| Default    | See defaults for each probe [here](/general/common/fallbackdefaults#probetimeouts) |
 
 Example
 
@@ -359,7 +359,7 @@ Define the periodSeconds in seconds
 | Type       | `int`                                                                              |
 | Required   | ❌                                                                                 |
 | Helm `tpl` | ❌                                                                                 |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
+| Default    | See defaults for each probe [here](/general/common/fallbackdefaults#probetimeouts) |
 
 Example
 
@@ -387,7 +387,7 @@ Define the timeoutSeconds in seconds
 | Type       | `int`                                                                              |
 | Required   | ❌                                                                                 |
 | Helm `tpl` | ❌                                                                                 |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
+| Default    | See defaults for each probe [here](/general/common/fallbackdefaults#probetimeouts) |
 
 Example
 
@@ -415,7 +415,7 @@ Define the failureThreshold in seconds
 | Type       | `int`                                                                              |
 | Required   | ❌                                                                                 |
 | Helm `tpl` | ❌                                                                                 |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
+| Default    | See defaults for each probe [here](/general/common/fallbackdefaults#probetimeouts) |
 
 Example
 
@@ -443,7 +443,7 @@ Define the successThreshold in seconds. `liveness` and `startup` must always be 
 | Type       | `int`                                                                              |
 | Required   | ❌                                                                                 |
 | Helm `tpl` | ❌                                                                                 |
-| Default    | See defaults for each probe [here](/general/common/fallbackDefaults#probetimeouts) |
+| Default    | See defaults for each probe [here](/general/common/fallbackdefaults#probetimeouts) |
 
 Example
 

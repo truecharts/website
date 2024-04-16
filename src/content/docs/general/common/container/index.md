@@ -254,7 +254,7 @@ See [resources](/general/common/resources)
 
 ## `securityContext`
 
-See [securityContext](/general/common/securityContext)
+See [securityContext](/general/common/securitycontext)
 
 ---
 

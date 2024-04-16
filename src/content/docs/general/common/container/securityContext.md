@@ -26,7 +26,7 @@ Define securityContext for the container
 | Type       | `map`                                                                |
 | Required   | ✅                                                                   |
 | Helm `tpl` | ❌                                                                   |
-| Default    | See [here](/general/common/securityContext#securitycontextcontainer) |
+| Default    | See [here](/general/common/securitycontext#securitycontextcontainer) |
 
 Example
 
@@ -51,7 +51,7 @@ Define the runAsUser for the container
 | Type       | `int`                                                                |
 | Required   | ✅                                                                   |
 | Helm `tpl` | ❌                                                                   |
-| Default    | See [here](/general/common/securityContext#securitycontextrunasuser) |
+| Default    | See [here](/general/common/securitycontext#securitycontextrunasuser) |
 
 Example
 
@@ -77,7 +77,7 @@ Define the runAsGroup for the container
 | Type       | `int`                                                                 |
 | Required   | ✅                                                                    |
 | Helm `tpl` | ❌                                                                    |
-| Default    | See [here](/general/common/securityContext#securitycontextrunasgroup) |
+| Default    | See [here](/general/common/securitycontext#securitycontextrunasgroup) |
 
 Example
 
@@ -103,7 +103,7 @@ Define the readOnlyRootFilesystem for the container
 | Type       | `bool`                                                                            |
 | Required   | ✅                                                                                |
 | Helm `tpl` | ❌                                                                                |
-| Default    | See [here](/general/common/securityContext#securitycontextreadonlyrootfilesystem) |
+| Default    | See [here](/general/common/securitycontext#securitycontextreadonlyrootfilesystem) |
 
 Example
 
@@ -129,7 +129,7 @@ Define the allowPrivilegeEscalation for the container
 | Type       | `bool`                                                                              |
 | Required   | ✅                                                                                  |
 | Helm `tpl` | ❌                                                                                  |
-| Default    | See [here](/general/common/securityContext#securitycontextallowprivilegeescalation) |
+| Default    | See [here](/general/common/securitycontext#securitycontextallowprivilegeescalation) |
 
 Example
 
@@ -155,7 +155,7 @@ Define the privileged for the container
 | Type       | `bool`                                                                |
 | Required   | ✅                                                                    |
 | Helm `tpl` | ❌                                                                    |
-| Default    | See [here](/general/common/securityContext#securitycontextprivileged) |
+| Default    | See [here](/general/common/securitycontext#securitycontextprivileged) |
 
 Example
 
@@ -181,7 +181,7 @@ Define the runAsNonRoot for the container
 | Type       | `bool`                                                                  |
 | Required   | ✅                                                                      |
 | Helm `tpl` | ❌                                                                      |
-| Default    | See [here](/general/common/securityContext#securitycontextrunasnonroot) |
+| Default    | See [here](/general/common/securitycontext#securitycontextrunasnonroot) |
 
 Example
 
@@ -223,7 +223,7 @@ but a general Kubernetes thing.
 | Type       | `map`                                                                   |
 | Required   | ✅                                                                      |
 | Helm `tpl` | ❌                                                                      |
-| Default    | See [here](/general/common/securityContext#securitycontextcapabilities) |
+| Default    | See [here](/general/common/securitycontext#securitycontextcapabilities) |
 
 Example
 
@@ -249,7 +249,7 @@ Define the capabilities.add for the container
 | Type       | `list` of `string`                                                         |
 | Required   | ✅                                                                         |
 | Helm `tpl` | ❌                                                                         |
-| Default    | See [here](/general/common/securityContext#securitycontextcapabilitiesadd) |
+| Default    | See [here](/general/common/securitycontext#securitycontextcapabilitiesadd) |
 
 Example
 
@@ -276,7 +276,7 @@ Define the capabilities.drop for the container
 | Type       | `list` of `string`                                                          |
 | Required   | ✅                                                                          |
 | Helm `tpl` | ❌                                                                          |
-| Default    | See [here](/general/common/securityContext#securitycontextcapabilitiesdrop) |
+| Default    | See [here](/general/common/securitycontext#securitycontextcapabilitiesdrop) |
 
 Example
 
@@ -303,7 +303,7 @@ Define the seccompProfile for the container
 | Type       | `map`                                                                     |
 | Required   | ✅                                                                        |
 | Helm `tpl` | ❌                                                                        |
-| Default    | See [here](/general/common/securityContext#securitycontextseccompprofile) |
+| Default    | See [here](/general/common/securitycontext#securitycontextseccompprofile) |
 
 Example
 
@@ -329,7 +329,7 @@ Define the seccompProfile.type for the container
 | Type       | `string`                                                                      |
 | Required   | ✅                                                                            |
 | Helm `tpl` | ❌                                                                            |
-| Default    | See [here](/general/common/securityContext#securitycontextseccompprofiletype) |
+| Default    | See [here](/general/common/securitycontext#securitycontextseccompprofiletype) |
 
 Valid Values:
 
@@ -368,7 +368,7 @@ Only **required** when `securityContext.seccompProfile.type` is `Localhost`.
 | Type       | `string`                                                                         |
 | Required   | ✅                                                                               |
 | Helm `tpl` | ❌                                                                               |
-| Default    | See [here](/general/common/securityContext#securitycontextseccompprofileprofile) |
+| Default    | See [here](/general/common/securitycontext#securitycontextseccompprofileprofile) |
 
 Example
 

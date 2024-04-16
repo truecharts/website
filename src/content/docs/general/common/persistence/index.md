@@ -104,7 +104,7 @@ Define the persistence type
 | Type       | `string`                                                             |
 | Required   | ❌                                                                   |
 | Helm `tpl` | ❌                                                                   |
-| Default    | See default [here](/general/common/fallbackDefaults#persistencetype) |
+| Default    | See default [here](/general/common/fallbackdefaults#persistencetype) |
 
 Valid Values:
 

@@ -46,13 +46,13 @@ workload:
 
 Define the timezone
 
-|            |                                      |
-| ---------- | ------------------------------------ |
-| Key        | `workload.$name.timezone`            |
-| Type       | `string`                             |
-| Required   | ❌                                   |
-| Helm `tpl` | ✅                                   |
-| Default    | See [here](/general/common/index#tz) |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `workload.$name.timezone`      |
+| Type       | `string`                       |
+| Required   | ❌                             |
+| Helm `tpl` | ✅                             |
+| Default    | See [here](/general/common#tz) |
 
 Example
 

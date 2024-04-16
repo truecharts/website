@@ -57,7 +57,7 @@ The fallback defaults are used when a value is not defined in the chart.
 
 :::note
 
-- See more info about fallbackDefaults [here](/general/common/fallbackDefaults)
+- See more info about fallbackDefaults [here](/general/common/fallbackdefaults)
 
 :::
 
@@ -67,7 +67,7 @@ The fallback defaults are used when a value is not defined in the chart.
 | Type       | `map`                                                 |
 | Required   | ❌                                                    |
 | Helm `tpl` | ❌                                                    |
-| Default    | See [here](/general/common/fallbackDefaults#defaults) |
+| Default    | See [here](/general/common/fallbackdefaults#defaults) |
 
 ---
 
@@ -236,7 +236,7 @@ Options that apply to all pods, unless overridden at the pod level
 
 :::note
 
-See more info about podOptions [here](/general/common/podOptions)
+See more info about podOptions [here](/general/common/podoptions)
 
 :::
 
@@ -246,7 +246,7 @@ See more info about podOptions [here](/general/common/podOptions)
 | Type       | `map`                                           |
 | Required   | ❌                                              |
 | Helm `tpl` | ❌                                              |
-| Default    | See [here](/general/common/podOptions#defaults) |
+| Default    | See [here](/general/common/podoptions#defaults) |
 
 Example
 
@@ -279,7 +279,7 @@ Options that apply to all containers, unless overridden at the container level
 
 :::note
 
-See more info about containerOptions [here](/general/common/containerOptions)
+See more info about containerOptions [here](/general/common/containeroptions)
 
 :::
 
@@ -289,7 +289,7 @@ See more info about containerOptions [here](/general/common/containerOptions)
 | Type       | `map`                                                 |
 | Required   | ❌                                                    |
 | Helm `tpl` | ❌                                                    |
-| Default    | See [here](/general/common/containerOptions#defaults) |
+| Default    | See [here](/general/common/containeroptions#defaults) |
 
 Example
 
@@ -371,7 +371,7 @@ Define security context for all containers and pods, unless overridden at the co
 
 :::note
 
-See more info about securityContext [here](/general/common/securityContext)
+See more info about securityContext [here](/general/common/securitycontext)
 
 :::
 
@@ -381,7 +381,7 @@ See more info about securityContext [here](/general/common/securityContext)
 | Type       | `map`                                                |
 | Required   | ✅                                                   |
 | Helm `tpl` | ❌                                                   |
-| Default    | See [here](/general/common/securityContext#defaults) |
+| Default    | See [here](/general/common/securitycontext#defaults) |
 
 Example
 
@@ -415,7 +415,7 @@ securityContext:
 
 :::tip
 
-Use [`imageSelector`](/general/common/container/index#imageselector) to select the image to use for a container.
+Use [`imageSelector`](/general/common/container#imageselector) to select the image to use for a container.
 
 :::
 
@@ -546,23 +546,23 @@ image:
 - [certificate](/general/common/certificate)
 - [configmap](/general/common/configmap)
 - [container](/general/common/container/)
-- [containerOptions](/general/common/containerOptions)
-- [imagePullSecret](/general/common/imagePullSecret)
+- [containerOptions](/general/common/containeroptions)
+- [imagePullSecret](/general/common/imagepullSecret)
 - [ingress](/general/common/ingress)
 - [notes](/general/common/notes)
-- [persistence](/general/common/persistence/index)ence/)
-- [podDisruptionBudget](/general/common/podDisruptionBudget)
-- [priorityClass](/general/common/priorityClass)
+- [persistence](/general/common/persistence/)
+- [podDisruptionBudget](/general/common/poddisruptionbudget)
+- [priorityClass](/general/common/priorityclass)
 - [rbac](/general/common/rbac)
 - [resources](/general/common/resources)
-- [scaleExternalInterface](/general/common/scaleExternalInterface)
+- [scaleExternalInterface](/general/common/scaleexternalinterface)
 - [secret](/general/common/secret)
-- [securityContext](/general/common/securityContext)
+- [securityContext](/general/common/securitycontext)
 - [service](/general/common/service/)
-- [serviceAccount](/general/common/serviceAccount)
-- [storageClass](/general/common/storageClass)
-- [volumeSnapshot](/general/common/volumeSnapshot)
-- [volumeSnapshotClass](/general/common/volumeSnapshotClass)
+- [serviceAccount](/general/common/serviceaccount)
+- [storageClass](/general/common/storageclass)
+- [volumeSnapshot](/general/common/volumesnapshot)
+- [volumeSnapshotClass](/general/common/volumesnapshotclass)
 - [webhook](/general/common/webhook)
 - [webhook](/general/common/webhook)
 - [workload](/general/common/workload/)

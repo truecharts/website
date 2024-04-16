@@ -114,7 +114,7 @@ Define default service type when not defined in the service
 
 Valid Values:
 
-- See [Service Types](/general/common/service/index#type)
+- See [Service Types](/general/common/service#type)
 
 Example
 
@@ -160,7 +160,7 @@ Define default persistence type when not defined in the persistence
 
 Valid Values:
 
-- See [Persistence Types](/general/common/persistence/index#type)
+- See [Persistence Types](/general/common/persistence#type)
 
 Example
 

@@ -46,7 +46,7 @@ podOptions:
 
 ## `enableServiceLinks`
 
-See [Enable Service Links](/general/common/workload/index#enableservicelinks)
+See [Enable Service Links](/general/common/workload#enableservicelinks)
 
 Default
 
@@ -59,7 +59,7 @@ podOptions:
 
 ## `hostNetwork`
 
-See [Host Network](/general/common/workload/index#hostnetwork)
+See [Host Network](/general/common/workload#hostnetwork)
 
 Default
 
@@ -72,7 +72,7 @@ podOptions:
 
 ## `hostPID`
 
-See [Host PID](/general/common/workload/index#hostpid)
+See [Host PID](/general/common/workload#hostpid)
 
 Default
 
@@ -85,7 +85,7 @@ podOptions:
 
 ## `hostIPC`
 
-See [Host IPC](/general/common/workload/index#hostipc)
+See [Host IPC](/general/common/workload#hostipc)
 
 Default
 
@@ -98,7 +98,7 @@ podOptions:
 
 ## `hostUsers`
 
-See [Host Users](/general/common/workload/index#hostusers)
+See [Host Users](/general/common/workload#hostusers)
 
 Default
 
@@ -111,7 +111,7 @@ podOptions:
 
 ## `shareProcessNamespace`
 
-See [Share Process Namespace](/general/common/workload/index#shareprocessnamespace)
+See [Share Process Namespace](/general/common/workload#shareprocessnamespace)
 
 Default
 
@@ -124,7 +124,7 @@ podOptions:
 
 ## `restartPolicy`
 
-See [Restart Policy](/general/common/workload/index#restartpolicy)
+See [Restart Policy](/general/common/workload#restartpolicy)
 
 Default
 
@@ -137,7 +137,7 @@ podOptions:
 
 ## `dnsPolicy`
 
-See [DNS Policy](/general/common/workload/index#dnspolicy)
+See [DNS Policy](/general/common/workload#dnspolicy)
 
 Default
 
@@ -150,7 +150,7 @@ podOptions:
 
 ## `dnsConfig`
 
-See [DNS Config](/general/common/workload/index#dnsconfig)
+See [DNS Config](/general/common/workload#dnsconfig)
 
 Default
 
@@ -166,7 +166,7 @@ podOptions:
 
 ## `hostAliases`
 
-See [Host Aliases](/general/common/workload/index#hostaliases)
+See [Host Aliases](/general/common/workload#hostaliases)
 
 Default
 
@@ -179,7 +179,7 @@ podOptions:
 
 ## `nodeSelector`
 
-See [Node Selector](/general/common/workload/index#nodeselector)
+See [Node Selector](/general/common/workload#nodeselector)
 
 Default
 
@@ -206,7 +206,7 @@ podOptions:
 
 ## `topologySpreadConstraints`
 
-See [Topology Spread Constraints](/general/common/workload/index#topologyspreadconstraints)
+See [Topology Spread Constraints](/general/common/workload#topologyspreadconstraints)
 
 Default
 
@@ -219,7 +219,7 @@ podOptions:
 
 ## `tolerations`
 
-See [Tolerations](/general/common/workload/index#tolerations)
+See [Tolerations](/general/common/workload#tolerations)
 
 Default
 
@@ -232,7 +232,7 @@ podOptions:
 
 ## `schedulerName`
 
-See [Scheduler Name](/general/common/workload/index#schedulername)
+See [Scheduler Name](/general/common/workload#schedulername)
 
 Default
 
@@ -245,7 +245,7 @@ podOptions:
 
 ## `priorityClassName`
 
-See [Priority Class Name](/general/common/workload/index#priorityclassname)
+See [Priority Class Name](/general/common/workload#priorityclassname)
 
 Default
 
@@ -258,7 +258,7 @@ podOptions:
 
 ## `runtimeClassName`
 
-See [Runtime Class Name](/general/common/workload/index#runtimeclassname)
+See [Runtime Class Name](/general/common/workload#runtimeclassname)
 
 Default
 
@@ -271,7 +271,7 @@ podOptions:
 
 ## `automountServiceAccountToken`
 
-See [Automount Service Account Token](/general/common/workload/index#automountserviceaccounttoken)
+See [Automount Service Account Token](/general/common/workload#automountserviceaccounttoken)
 
 Default
 
@@ -284,7 +284,7 @@ podOptions:
 
 ## `terminationGracePeriodSeconds`
 
-See [Termination Grace Period Seconds](/general/common/workload/index#terminationgraceperiodseconds)
+See [Termination Grace Period Seconds](/general/common/workload#terminationgraceperiodseconds)
 
 Default
 

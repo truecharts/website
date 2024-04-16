@@ -174,7 +174,7 @@ Define the service type
 | Type       | `string`                                                         |
 | Required   | ❌                                                               |
 | Helm `tpl` | ✅                                                               |
-| Default    | See default [here](/general/common/fallbackDefaults#servicetype) |
+| Default    | See default [here](/general/common/fallbackdefaults#servicetype) |
 
 Valid Values:
 

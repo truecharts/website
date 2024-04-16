@@ -104,7 +104,7 @@ Define the port protocol Used by the container ports and probes, http and https 
 | Type       | `string`                                                             |
 | Required   | ❌                                                                   |
 | Helm `tpl` | ✅                                                                   |
-| Default    | See default [here](/general/common/fallbackDefaults#serviceprotocol) |
+| Default    | See default [here](/general/common/fallbackdefaults#serviceprotocol) |
 
 Valid Values:
 

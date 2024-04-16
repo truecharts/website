@@ -6,6 +6,7 @@ words:
   - clusterissuer
   - CNPG
   - Collabora
+  - configmap
   - Dockerhub
   - downscaling
   - Dragonfish

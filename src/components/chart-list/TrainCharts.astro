@@ -1,4 +1,5 @@
 ---
+import { Image } from "astro:assets";
 import { getChartsFromTrain, normalizeTrainName } from "./utils";
 
 const { train } = Astro.props;
@@ -26,7 +27,13 @@ const { train } = Astro.props;
         <tr data-chart={c.name} data-train={normalizeTrainName(train)}>
           <td class="text-lg max-md:text-base font-normal text-balance max-md:text-center">
             <div class="flex flex-row max-md:flex-col gap-2 items-center justify-start">
-              <img class="w-5 h-5" src={c.icon} alt={c.name} />
+              <Image
+                class="w-5 h-5"
+                src={c.icon}
+                alt={c.name}
+                width={20}
+                height={20}
+              />
               <a href={c.link} target="_blank">
                 {c.name}
               </a>
