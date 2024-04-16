@@ -18,8 +18,8 @@ import robotsTxt from "astro-robots-txt";
 import lottie from "astro-integration-lottie";
 // Configure global authors here
 import { authors } from "./src/content/docs/blog/authors";
-import playformCompress from "@playform/compress";
 import betterImageService from "astro-better-image-service";
+import playformCompress from "@playform/compress";
 const site = "https://truecharts.org";
 
 
