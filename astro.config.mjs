@@ -131,10 +131,10 @@ export default defineConfig({
     betterImageService(),
     (await import("@playform/compress")).default({
       HTML: false,
-      CSS: false,
-      JavaScript: false,
+      CSS: true,
+      JavaScript: true,
       Image: true,
-      SVG: false,
+      SVG: true,
     }),
   sitemap(), robotsTxt(), tailwind(), lottie()]
 });
