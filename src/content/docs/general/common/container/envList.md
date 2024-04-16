@@ -13,7 +13,7 @@ title: EnvList
 
 Variable names will be scanned for duplicates across all
 [secrets](/general/common/secret), [configmaps](/general/common/configmap),
-[env](/general/common/env), [envList](/general/common/envList) and [fixedEnv](/general/common/fixedEnv)
+[env](/general/common/env), [envList](/general/common/envList) and [fixedEnv](/general/common/fixedenv)
 and will throw an error if it finds any.
 
 :::

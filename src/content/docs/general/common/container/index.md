@@ -266,7 +266,7 @@ See [envFrom](/general/common/envFrom)
 
 ## `fixedEnv`
 
-See [fixedEnv](/general/common/fixedEnv)
+See [fixedEnv](/general/common/fixedenv)
 
 ---
 
