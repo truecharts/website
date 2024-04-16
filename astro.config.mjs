@@ -72,13 +72,13 @@ export default defineConfig({
       maxHeadingLevel: 6
     },
     social: {
-      github: new URL("/s/git", site).href,
-      facebook: new URL("/s/fb", site).href,
-      "x.com": new URL("/s/twitter", site).href,
-      discord: new URL("/s/discord", site).href,
-      telegram: new URL("/s/tg", site).href,
-      openCollective: new URL("/s/oc", site).href,
-      patreon: new URL("/s/patreon", site).href
+      github: "https://github.com/truecharts",
+      facebook: "https://www.facebook.com/truecharts",
+      "x.com": "https://twitter.com/useTrueCharts",
+      discord: "https://discord.gg/tVsPTHWTtr",
+      telegram: "https://t.me/s/truecharts",
+      openCollective: "https://opencollective.com/truecharts",
+      patreon: "https://patreon.com/truecharts"
     },
     editLink: {
       baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs"
