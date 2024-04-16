@@ -58,10 +58,12 @@ Git can be interacted with with via the editor's UI, but we're going to use git 
 All Git commands begin with the word `git`. Note that any following lines shown in a code block with a `$` symbol are to be entered in the editor's terminal, unless otherwise stated.
 
 :::caution
+
 Do not actually enter the `$` or the space following it as the dollar sign is just there to mimic what you see in the terminal and remind you that this is a command to be entered there.
 :::
 
 :::note
+
 You can add the `--help` switch after any git command in order to view further information about said command.
 
     $ git commit --help
@@ -114,12 +116,14 @@ Don't forget to enable ingress if you want to access the speed test portal via a
 ```
 
 :::note
+
 These notes are just for demonstration purposes and obviously are not actually useful for TC users. Please make sure that the documentation you're adding is warranted and as helpful and well-written as possible.
 :::
 
 Once finished making your actual changes to the repository (be sure to save them, though Workspaces auto-saves quite frequently), we can now work on submitting them upstream.
 
 :::caution
+
 If you are updating more than just documentation, you will also need to "bump" (increase) the version of the chart, present in its `chart.yml` file.
 :::
 
@@ -165,6 +169,7 @@ Your commit message contains two sections:
 The summary of the message is the first sentence of the commit and gives a brief overview of the changes. Try to keep it short.
 
 :::caution
+
 A commit message should be 72 characters wide or less. In other words, use a line break every time you'd exceed that many characters.
 
 The summary should be 72 characters or less **period**.
@@ -191,6 +196,7 @@ This step requires a brief explanation of how Git repositories are typical manag
 3.  (upstream) This is the original TrueCharts repository from which you initially created a fork.
 
 :::note
+
 These terms are relative, and can mean different things in different contexts. For example, when the focus of a conversation in on TrueCharts itself. "Upstream repository" might refer to the repo for one of the projects that TrueCharts maintains charts for (e.g. plex, jellyfin, immich, etc.), or even TrueNAS itself.
 
 The associations listed here are specific to the context of the situation presented in this tutorial.
@@ -251,6 +257,7 @@ Forcing a push like this is known as "rewriting history" and is not something th
 Once your origin repository is updated the changes will also automatically be reflected within the pull request. Repeat this process as needed until the PR satisfies project maintainers.
 
 :::note
+
 Revising more than one commit is more complicated and out of the scope of this guide. Remember, you can always play things safe by just creating new commits with your edits instead of amending past ones.
 :::
 
