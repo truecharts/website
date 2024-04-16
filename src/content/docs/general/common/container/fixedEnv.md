@@ -38,11 +38,11 @@ By default it will set the following environment variables:
 - `UMASK_SET`: [Default UMASK](/general/common/securitycontext#securitycontextcontainerumask) or [fixedEnv.UMASK](/general/common/container/fixedenv#fixedenvumask)
 - `S6_READ_ONLY_ROOT`: `1`
   - Only when [`readOnlyRootFilesystem`](/general/common/container/securitycontext#securitycontextreadonlyrootfilesystem) or [`runAsNonRoot`](/general/common/container/securitycontext#securitycontextrunasnonroot) is `true`
-- `PUID`, `USER_ID`, `UID`: [Default PUID](/general/common/securitycontext#securitycontextcontainerpuid) or [fixedEnv.PUID](#fixedenvpuid)
-  - Only when [`runAsUser`](/general/common/securitycontext#securitycontextrunasuser) or [`runAsGroup`](/general/common/container/securitycontext#securitycontextcontainerrunasgroup) is `0`
+- `PUID`, `USER_ID`, `UID`: [Default PUID](/general/common/securitycontext#securitycontextcontainerpuid) or [fixedEnv.PUID](/general/common/container/fixedenv#fixedenvpuid)
+  - Only when [`runAsUser`](/general/common/securitycontext#securitycontextrunasuser) or [`runAsGroup`](/general/common/securitycontext#securitycontextcontainerrunasgroup) is `0`
 - `PGID`, `GROUP_ID`, `GID`: Same as [`fsGroup`](/general/common/container/securitycontext#securitycontextpodfsgroup)
-  - Only when [`runAsUser`](/general/common/securitycontext#securitycontextrunasuser) or [`runAsGroup`](/general/common/container/securitycontext#securitycontextcontainerrunasgroup) is `0`
-- `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](/general/common/containerOptions.md#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](/general/common/container/fixedenv#fixedenvnvidia_caps)
+  - Only when [`runAsUser`](/general/common/securitycontext#securitycontextrunasuser) or [`runAsGroup`](/general/common/securitycontext#securitycontextcontainerrunasgroup) is `0`
+- `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](/general/common/containeroptions#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](/general/common/container/fixedenv#fixedenvnvidia_caps)
   - Only when `nvidia.com/gpu` is set to `> 0` under [`resources`](/general/common/container/resources)
 
 :::
