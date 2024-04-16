@@ -128,7 +128,7 @@ export default defineConfig({
       }
     }]
   }),
-    betterImageService(),
+    sitemap(), robotsTxt(), tailwind(), lottie(), betterImageService(),
     (await import("@playform/compress")).default({
       HTML: false,
       CSS: true,
@@ -136,5 +136,5 @@ export default defineConfig({
       Image: true,
       SVG: true,
     }),
-  sitemap(), robotsTxt(), tailwind(), lottie()]
+  ]
 });
