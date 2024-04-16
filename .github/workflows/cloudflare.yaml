@@ -18,6 +18,7 @@ jobs:
     steps:
       - name: Comment deploy start
         if: github.event_name != 'push'
+        continue-on-error: true
         uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
         with:
           message-id: cloudflare-deploy
@@ -74,6 +75,7 @@ jobs:
 
       - name: Comment deploy url
         if: github.event_name != 'push'
+        continue-on-error: true
         uses: mshick/add-pr-comment@b8f338c590a895d50bcbfa6c5859251edc8952fc # v2
         with:
           message-id: cloudflare-deploy
