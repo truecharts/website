@@ -60,6 +60,7 @@ All Git commands begin with the word `git`. Note that any following lines shown 
 :::caution
 
 Do not actually enter the `$` or the space following it as the dollar sign is just there to mimic what you see in the terminal and remind you that this is a command to be entered there.
+
 :::
 
 :::note
@@ -69,6 +70,7 @@ You can add the `--help` switch after any git command in order to view further i
     $ git commit --help
 
 Be aware that the official Git manual is highly detailed and technical. If you're stuck on a particular part, it may be easier to get help elsewhere. As always Google is your friend.
+
 :::
 
 ### Create a Topic Branch
@@ -118,6 +120,7 @@ Don't forget to enable ingress if you want to access the speed test portal via a
 :::note
 
 These notes are just for demonstration purposes and obviously are not actually useful for TC users. Please make sure that the documentation you're adding is warranted and as helpful and well-written as possible.
+
 :::
 
 Once finished making your actual changes to the repository (be sure to save them, though Workspaces auto-saves quite frequently), we can now work on submitting them upstream.
@@ -125,6 +128,7 @@ Once finished making your actual changes to the repository (be sure to save them
 :::caution
 
 If you are updating more than just documentation, you will also need to "bump" (increase) the version of the chart, present in its `chart.yml` file.
+
 :::
 
 ### Create a commit
@@ -173,6 +177,7 @@ The summary of the message is the first sentence of the commit and gives a brief
 A commit message should be 72 characters wide or less. In other words, use a line break every time you'd exceed that many characters.
 
 The summary should be 72 characters or less **period**.
+
 :::
 
 The body of the message follows the summary and must be separated by two line-breaks (e.g. so that there's an empty line between them). Details about the commit are to be contained in the body, often with a rationale behind the changes. The _why_ is just as important as the _what_; however, for very simple and largely self-explanatory commits like our example, a body isn't even necessary.
@@ -200,6 +205,7 @@ This step requires a brief explanation of how Git repositories are typical manag
 These terms are relative, and can mean different things in different contexts. For example, when the focus of a conversation in on TrueCharts itself. "Upstream repository" might refer to the repo for one of the projects that TrueCharts maintains charts for (e.g. plex, jellyfin, immich, etc.), or even TrueNAS itself.
 
 The associations listed here are specific to the context of the situation presented in this tutorial.
+
 :::
 
 Right now the commit we've made is only in the local copy of the repository and we need to get it upstream, which first requires getting it to the origin. This is done with the `push` command, which updates the version of your current branch on the origin repository with new commits from the same branch in your local copy; however, in this case since the `librespeed_inst_notes` branch also currently only exists in our local repository we need to create the branch on the origin as well. Git provides a shortcut for pushing changes on a new branch to the remote repo in one step:
@@ -259,6 +265,7 @@ Once your origin repository is updated the changes will also automatically be re
 :::note
 
 Revising more than one commit is more complicated and out of the scope of this guide. Remember, you can always play things safe by just creating new commits with your edits instead of amending past ones.
+
 :::
 
 #### Future changes

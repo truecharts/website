@@ -55,8 +55,10 @@ workload:
 Define extraArg(s).
 
 :::note
+
 Those are appended **after** the `args`.
 Useful for adding args after the ones defined by the chart.
+
 :::
 
 |            |                                                     |
