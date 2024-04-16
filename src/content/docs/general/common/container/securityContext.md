@@ -203,7 +203,7 @@ Define the capabilities for the container
 
 :::note
 
-If at least one capability is defined in either [`add`](/general/common/securitycontext#securitycontextcontainercapabilitiesadd) or [`drop`](/general/common/securitycontext#securitycontextcontainercapabilitiesdrop)
+If at least one capability is defined in either [`add`](/general/common/container/securitycontext/#securitycontextcapabilitiesadd) or [`drop`](/general/common/container/securitycontext/#securitycontextcapabilitiesdrop)
 on container level, it will **NOT** get merged with the value(s) from the `.Values.securityContext.container.capabilities.[add/drop]`.
 But it will override them.
 
