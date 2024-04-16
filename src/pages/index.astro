@@ -15,7 +15,8 @@ const sponsors = allSponsors.map((s) => ({
 }));
 
 const contributors = allContributors.map((c) => {
-  const avatarFileName = c.avatar_url.split('/').pop();
+  let avatarFileName = c.avatar_url.split('/').pop();
+  avatarFileName = avatarFileName.split('?v')[0];
   return {
     name: c.name,
     image: `/assets/contributors/${avatarFileName}.webp`,
