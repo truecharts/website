@@ -350,9 +350,9 @@ Define the mode of the static provisioning
 
 Valid Values
 
-- [`nfs`](/general/common/static-nfs)
-- [`smb`](/general/common/static-smb)
-- [`custom`](/general/common/static-custom)
+- [`nfs`](/general/common/persistence/pvc-vct/static-nfs)
+- [`smb`](/general/common/persistence/pvc-vct/static-smb)
+- [`custom`](/general/common/persistence/pvc-vct/static-custom)
 
 Example
 
