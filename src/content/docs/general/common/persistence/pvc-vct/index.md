@@ -189,13 +189,13 @@ persistence:
 
 Define the size of the PVC
 
-|            |                                                                                                                                       |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Key        | `persistence.$name.size`                                                                                                              |
-| Type       | `string`                                                                                                                              |
-| Required   | ❌                                                                                                                                    |
-| Helm `tpl` | ✅                                                                                                                                    |
-| Default    | See default [pvcSize](/general/common./../fallbackDefaults.md#pvcsize) and [vctSize](/general/common/global/fallbackdefaults#vctsize) |
+|            |                                                                                                                         |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Key        | `persistence.$name.size`                                                                                                |
+| Type       | `string`                                                                                                                |
+| Required   | ❌                                                                                                                      |
+| Helm `tpl` | ✅                                                                                                                      |
+| Default    | See default [pvcSize](/general/common/fallbackdefaults#pvcsize) and [vctSize](/general/common/fallbackdefaults#vctsize) |
 
 Example
 
