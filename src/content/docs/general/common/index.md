@@ -210,13 +210,13 @@ operator:
 
 Additional system to verify
 
-|            |                                       |
-| ---------- | ------------------------------------- |
+|            |                                    |
+| ---------- | ---------------------------------- |
 | Key        | `operator.verify.additionalsystem` |
-| Type       | `list` of `string`                    |
-| Required   | ❌                                    |
-| Helm `tpl` | ❌                                    |
-| Default    | `[]`                                  |
+| Type       | `list` of `string`                 |
+| Required   | ❌                                 |
+| Helm `tpl` | ❌                                 |
+| Default    | `[]`                               |
 
 Example
 

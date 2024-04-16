@@ -222,7 +222,7 @@ workload:
 #### `resources.limits."gpu.intel.com/i915"`
 
 An Intel GPU added when available
-*Note that `gpu.intel.com/i915` is a single key, despite of the `.`*
+_Note that `gpu.intel.com/i915` is a single key, despite of the `.`_
 
 Default
 
@@ -242,7 +242,7 @@ workload:
 #### `resources.limits."nvidia.com/gpu"`
 
 An NVIDIA GPU added when available
-*Note that `nvidia.com/gpu` is a single key, despite of the `.`*
+_Note that `nvidia.com/gpu` is a single key, despite of the `.`_
 
 Default
 
@@ -262,7 +262,7 @@ workload:
 #### `resources.limits."amd.com/gpu"`
 
 An AMD GPU added when available
-*Note that `amd.com/gpu` is a single key, despite of the `.`*
+_Note that `amd.com/gpu` is a single key, despite of the `.`_
 
 Default
 

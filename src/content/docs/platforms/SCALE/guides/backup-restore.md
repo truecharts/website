@@ -4,7 +4,7 @@ sidebar:
   order: 15
 ---
 
-:::caution Best Effort Policy
+:::caution[Best Effort Policy]
 
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.
 This guide has been thoroughly tested with TrueNAS SCALE 22.12.2.
@@ -125,7 +125,7 @@ TBD
 > Sometimes you either need to wipe your system, Migrate to a new system or restore a system completely.
 > With the steps below, this is all very-much-possible.
 
-:::caution Ensure a Clean system
+:::caution[Ensure a Clean system]
 
 - Ensure a clean system, without Apps or configuration except the bare minimum network configuration
 - Do not choose an apps pool yet, or do ANYTHING with apps until step 3
@@ -136,7 +136,7 @@ TBD
 
 1. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
 
-:::Important BlueFin Bug Fix
+:::tip[BlueFin Bug Fix]
 
 With Bluefin, a UI bug has encountered preventing users to select the required new `force` option when selecting a pool
 This leads to an error warning for a "partially initialised pool"
