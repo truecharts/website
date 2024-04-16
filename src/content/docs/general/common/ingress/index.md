@@ -625,7 +625,7 @@ ingress:
 
 Define the cert-manager integration for this ingress
 
-See more details in [Cert Manager Integration](/general/common/certManager)
+See more details in [Cert Manager Integration](/general/common/ingress/certmanager)
 
 |            |                                          |
 | ---------- | ---------------------------------------- |
@@ -650,7 +650,7 @@ ingress:
 
 Define the traefik integration for this ingress
 
-See more details in [Traefik Integration](/general/common/traefik)
+See more details in [Traefik Integration](/general/common/ingress/traefik)
 
 |            |                                      |
 | ---------- | ------------------------------------ |
@@ -675,7 +675,7 @@ ingress:
 
 Define the homepage integration for this ingress
 
-See more details in [Homepage Integration](/general/common/homepage)
+See more details in [Homepage Integration](/general/common/ingress/homepage)
 
 |            |                                       |
 | ---------- | ------------------------------------- |

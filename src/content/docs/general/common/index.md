@@ -547,7 +547,7 @@ image:
 - [configmap](/general/common/configmap)
 - [container](/general/common/container/)
 - [containerOptions](/general/common/containeroptions)
-- [imagePullSecret](/general/common/imagepullSecret)
+- [imagePullSecret](/general/common/imagepullsecret)
 - [ingress](/general/common/ingress)
 - [notes](/general/common/notes)
 - [persistence](/general/common/persistence/)

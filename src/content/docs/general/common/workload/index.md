@@ -193,11 +193,11 @@ Define the kind of the workload
 
 Valid values
 
-- [`Deployment`](/general/common/deployment)
-- [`DaemonSet`](/general/common/daemonset)
-- [`StatefulSet`](/general/common/statefulset)
-- [`CronJob`](/general/common/cronjob)
-- [`Job`](/general/common/job)
+- [`Deployment`](/general/common/workload/deployment)
+- [`DaemonSet`](/general/common/workload/daemonset)
+- [`StatefulSet`](/general/common/workload/statefulset)
+- [`CronJob`](/general/common/workload/cronjob)
+- [`Job`](/general/common/workload/job)
 
 Example
 
@@ -1369,8 +1369,8 @@ workload:
 
 Full examples for each workload type can be found here
 
-- [`Deployment`](/general/common/deployment)
-- [`DaemonSet`](/general/common/daemonset)
-- [`StatefulSet`](/general/common/statefulset)
-- [`CronJob`](/general/common/cronjob)
-- [`Job`](/general/common/job)
+- [`Deployment`](/general/common/workload/deployment)
+- [`DaemonSet`](/general/common/workload/daemonset)
+- [`StatefulSet`](/general/common/workload/statefulset)
+- [`CronJob`](/general/common/workload/cronjob)
+- [`Job`](/general/common/workload/job)

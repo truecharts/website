@@ -108,15 +108,15 @@ Define the persistence type
 
 Valid Values:
 
-- [`hostPath`](/general/common/hostPath)
+- [`hostPath`](/general/common/persistence/hostpath)
 - [`configmap`](/general/common/configmap)
 - [`secret`](/general/common/secret)
-- [`device`](/general/common/device)
-- [`pvc`](/general/common/pvc-vct/)
-- [`vct`](/general/common/pvc-vct/)
-- [`nfs`](/general/common/nfs)
-- [`emptyDir`](/general/common/emptyDir)
-- [`iscsi`](/general/common/iscsi)
+- [`device`](/general/common/persistence/device)
+- [`pvc`](/general/common/persistence/pvc-vct)
+- [`vct`](/general/common/persistence/pvc-vct)
+- [`nfs`](/general/common/persistence/nfs)
+- [`emptyDir`](/general/common/persistence/emptydir)
+- [`iscsi`](/general/common/persistence/iscsi)
 
 Example
 
@@ -468,8 +468,8 @@ Full examples can be found under each persistence type
 - [configmap](configmap)
 - [secret](secret)
 - [device](device)
-- [pvc](/general/common/pvc-vct/)
-- [vct](/general/common/pvc-vct/)
+- [pvc](/general/common/persistence/pvc-vct)
+- [vct](/general/common/persistence/pvc-vct)
 - [nfs](nfs)
 - [emptyDir](emptyDir)
 - [iscsi](iscsi)

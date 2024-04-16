@@ -200,25 +200,25 @@ workload:
 
 ## `command`
 
-See [command](/general/common/command)
+See [command](/general/common/container/command)
 
 ---
 
 ## `args`
 
-See [args](/general/common/args#args)
+See [args](/general/common/container/args#args)
 
 ---
 
 ## `extraArgs`
 
-See [extraArgs](/general/common/args#extraargs)
+See [extraArgs](/general/common/container/args#extraargs)
 
 ---
 
 ## `termination`
 
-See [termination](/general/common/termination)
+See [termination](/general/common/container/termination)
 
 ---
 
@@ -230,7 +230,7 @@ Does **not** apply to `initContainers`
 
 :::
 
-See [lifecycle](/general/common/lifecycle)
+See [lifecycle](/general/common/container/lifecycle)
 
 ---
 
@@ -242,7 +242,7 @@ Does **not** apply to `initContainers`
 
 :::
 
-See [probes](/general/common/probes)
+See [probes](/general/common/container/probes)
 
 ---
 
@@ -260,25 +260,25 @@ See [securityContext](/general/common/securitycontext)
 
 ## `envFrom`
 
-See [envFrom](/general/common/envfrom)
+See [envFrom](/general/common/container/envfrom)
 
 ---
 
 ## `fixedEnv`
 
-See [fixedEnv](/general/common/fixedenv)
+See [fixedEnv](/general/common/container/fixedenv)
 
 ---
 
 ## `env`
 
-See [env](/general/common/env)
+See [env](/general/common/container/env)
 
 ---
 
 ## `envList`
 
-See [envList](/general/common/envlist)
+See [envList](/general/common/container/envlist)
 
 ---
 

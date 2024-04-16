@@ -136,7 +136,7 @@ Define command(s)
 
 :::
 
-See [Command](/general/common/command#command) for more information.
+See [Command](/general/common/container/command#command) for more information.
 
 ---
 

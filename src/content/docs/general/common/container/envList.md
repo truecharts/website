@@ -13,7 +13,7 @@ title: EnvList
 
 Variable names will be scanned for duplicates across all
 [secrets](/general/common/secret), [configmaps](/general/common/configmap),
-[env](/general/common/env), [envList](/general/common/envlist) and [fixedEnv](/general/common/fixedenv)
+[env](/general/common/container/env), [envList](/general/common/container/envlist) and [fixedEnv](/general/common/container/fixedenv)
 and will throw an error if it finds any.
 
 :::
@@ -32,7 +32,7 @@ Define env(s) for the container
 :::note
 
 - This is used for the SCALE GUI for "Additional Environment Variables"
-- For native helm charts, use [env](/general/common/env) instead.
+- For native helm charts, use [env](/general/common/container/env) instead.
 
 :::
 
