@@ -36,6 +36,31 @@ jobs:
           # This is needed for the "last updated" field to update correctly.
           fetch-depth: 0
 
+      - name: Prefetch contributor icons
+        shell: bash
+        run: |
+          #!/bin/bash
+          
+          # Loop through each contributor
+          while read -r contributor; do
+              avatar_url=$(echo "$contributor" | grep -oP '"avatar_url": "\K[^"]+')
+          
+              # Download the image
+              wget -q "$avatar_url" -O temp_avatar
+          
+              # Generate new filename with original extension
+              new_filename="src/assets/contributors/$(basename "$avatar_url" | cut -d '?' -f 1)"
+          	
+              echo "converting file: $avatar_url"
+              EXT=${FILE##*.} # file extension
+              QUALITY=85 # quality for the image
+              # convert the image using cwebp and output a file with the extension replaced as .webp
+              cwebp -q $QUALITY "temp_avatar" -o "${new_filename}.webp" &>/dev/null
+              rm temp_avatar
+          
+          done < src/assets/contributors.json
+
+
       - name: Setup astro Cache
         uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4
         with:
