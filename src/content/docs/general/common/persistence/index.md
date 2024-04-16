@@ -464,12 +464,12 @@ persistence:
 
 Full examples can be found under each persistence type
 
-- [hostPath](hostPath)
-- [configmap](configmap)
-- [secret](secret)
-- [device](device)
+- [hostPath](/general/common/persistence/hostPath)
+- [configmap](/general/common/persistence/configmap)
+- [secret](/general/common/persistence/secret)
+- [device](/general/common/persistence/device)
 - [pvc](/general/common/persistence/pvc-vct)
 - [vct](/general/common/persistence/pvc-vct)
-- [nfs](nfs)
-- [emptyDir](emptyDir)
-- [iscsi](iscsi)
+- [nfs](/general/common/persistence/nfs)
+- [emptyDir](/general/common/persistence/emptyDir)
+- [iscsi](/general/common/persistence/iscsi)
