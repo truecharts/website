@@ -3,7 +3,9 @@ title: DragonFish Storage
 ---
 
 :::caution[DragonFish is not yet supported]
+
 This is a pre-release guide, TrueNAS SCALE 24.04 DragonFish is explicitly **NOT** yet supported by TrueCharts
+
 :::
 
 ## Important Changes
@@ -73,7 +75,9 @@ Please ensure you've chosen a **Pool/Dataset** that's not inside `ix-application
 It's important to set the `pool/dataset` to the dataset you want to store the folders with the application data in them.
 
 :::danger
+
 When setting the `pool/dataset` as above, do **not** set the path to the existing ix-applications dataset
+
 :::
 
 ### Migrating to new storage

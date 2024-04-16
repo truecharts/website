@@ -3,8 +3,10 @@ title: Traefik Integration
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -12,7 +14,9 @@ title: Traefik Integration
 - `.Values.ingress.$name.integration.traefik`
 
 :::tip
+
 - Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ---
@@ -84,9 +88,11 @@ ingress:
 Force TLS on this ingress
 
 :::note
+
 Adds the `traefik.ingress.kubernetes.io/router.tls` annotation.
 
 It does that both with this set OR when [entrypoints](#entrypoints) include `websecure`
+
 :::
 
 |            |                                               |
@@ -114,10 +120,12 @@ ingress:
 Allow CORS on this ingress
 
 :::note
+
 Relaxes some security settings to allow CORS requests.
 
 Specifically, it uses [these middlewares](../global.md#traefikallowcorsmiddlewares)
 instead of the [fixedMiddlewares](../global.md#traefikfixedmiddlewares)
+
 :::
 
 |            |                                                |
@@ -197,8 +205,10 @@ ingress:
 The namespace of the middleware
 
 :::tip
+
 If not defined, helm will do a lookup and try to find the namespace of the middleware.
 If more than one namespaces are found, it will throw an error.
+
 :::
 
 |            |                                                                   |
@@ -280,8 +290,10 @@ ingress:
 The namespace of the middleware
 
 :::tip
+
 If not defined, helm will do a lookup and try to find the namespace of the middleware.
 If more than one namespaces are found, it will throw an error.
+
 :::
 
 |            |                                                              |

@@ -3,15 +3,19 @@ title: FixedEnv
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 :::tip
+
 Variable names will be scanned for duplicates across all
 [secrets](../secret.md), [configmaps](../configmap.md),
 [env](./env.md), [envList](./envList.md) and [fixedEnv](./fixedEnv.md)
 and will throw an error if it finds any.
+
 :::
 
 ## Appears in
@@ -26,6 +30,7 @@ and will throw an error if it finds any.
 Override fixedEnv for the container
 
 :::note
+
 By default it will set the following environment variables:
 
 - `TZ`: [Default TZ](../index.md#tz) or [fixedEnv.TZ](#fixedenvtz)
@@ -39,6 +44,7 @@ By default it will set the following environment variables:
   - Only when [`runAsUser`](./securityContext.md#securitycontextrunasuser) or [`runAsGroup`](../securityContext.md#securitycontextcontainerrunasgroup) is `0`
 - `NVIDIA_DRIVER_CAPABILITIES`: [Default NVIDIA_CAPS](../containerOptions.md#nvidia_caps) or [fixedEnv.NVIDIA_CAPS](#fixedenvnvidia_caps)
   - Only when `nvidia.com/gpu` is set to `> 0` under [`resources`](../container/resources.md)
+
 :::
 
 |            |                                                    |

@@ -5,8 +5,10 @@ sidebar:
 ---
 
 :::caution[Best Effort Policy]
+
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.
 This guide has been thoroughly tested with TrueNAS SCALE 22.12.2.
+
 :::
 
 ## Requirements
@@ -124,15 +126,18 @@ TBD
 > With the steps below, this is all very-much-possible.
 
 :::caution[Ensure a Clean system]
+
 - Ensure a clean system, without Apps or configuration except the bare minimum network configuration
 - Do not choose an apps pool yet, or do ANYTHING with apps until step 3
 - Please do not restore SCALE configuration from backup-file, before Apps pool replication is finished.
 - We've only tested this on non-encrypted `ix-applications` datasets, as encryption of `ix-applications` is officially not supported.
+
 :::
 
 1. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
 
 :::tip[BlueFin Bug Fix]
+
 With Bluefin, a UI bug has encountered preventing users to select the required new `force` option when selecting a pool
 This leads to an error warning for a "partially initialised pool"
 
@@ -142,6 +147,7 @@ To prevent this error, run the following commands one-by-one, replacing POOL wit
 `zfs create POOL/ix-applications/k3s/kubelet`
 `zfs create POOL/ix-applications/catalogs`
 `zfs set mountpoint=legacy POOL/ix-applications/k3s/kubelet`
+
 :::
 
 2. _Optional/untested_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.

@@ -3,8 +3,10 @@ title: Secret
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -12,8 +14,10 @@ title: Secret
 - `.Values.persistence.$name`
 
 :::tip
+
 - See available persistence keys [here](./index.md).
 - This options apply only when `type: secret`.
+
 :::
 
 ---
@@ -47,7 +51,7 @@ Whether to expand (adding the fullname as prefix) the secret name.
 |            |                                      |
 | ---------- | ------------------------------------ |
 | Key        | `persistence.$name.expandObjectName` |
-| Type       | `bool`                            |
+| Type       | `bool`                               |
 | Required   | ❌                                   |
 | Helm `tpl` | ✅                                   |
 | Default    | `true`                               |
@@ -69,7 +73,7 @@ Whether the secret should be required or not.
 |            |                              |
 | ---------- | ---------------------------- |
 | Key        | `persistence.$name.optional` |
-| Type       | `bool`                    |
+| Type       | `bool`                       |
 | Required   | ❌                           |
 | Helm `tpl` | ❌                           |
 | Default    | `false`                      |

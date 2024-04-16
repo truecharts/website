@@ -3,8 +3,10 @@ title: Service
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -17,7 +19,9 @@ title: Service
 - Non-Primary: `$FullName-$ServiceName` (release-name-chart-name-ServiceName)
 
 :::tip
+
 Replace references to `$name` and `$port-name` with the actual name you want to use.
+
 :::
 
 ---
@@ -381,7 +385,9 @@ service:
 Define the external traffic policy (Cluster, Local)
 
 :::warning
+
 Does **not** apply to `type` of `ClusterIP`
+
 :::
 
 |            |                                       |

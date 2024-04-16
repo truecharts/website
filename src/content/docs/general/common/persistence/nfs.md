@@ -3,8 +3,10 @@ title: NFS
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -12,8 +14,10 @@ title: NFS
 - `.Values.persistence.$name`
 
 :::tip
+
 - See available persistence keys [here](./index.md).
 - This options apply only when `type: nfs`.
+
 :::
 
 ---

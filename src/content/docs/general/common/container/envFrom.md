@@ -3,8 +3,10 @@ title: EnvFrom
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -70,8 +72,10 @@ workload:
 Define the secret name
 
 :::note
+
 This will be automatically expanded to `fullname-secret-name`.
 You can opt out of this by setting [`expandObjectName`](#envfromsecretrefexpandobjectname) to `false`
+
 :::
 
 |            |                                                                    |
@@ -156,8 +160,10 @@ workload:
 Define the configmap name
 
 :::note
+
 This will be automatically expanded to `fullname-configmap-name`.
 You can opt out of this by setting [`expandObjectName`](#envfromconfigmaprefexpandobjectname) to `false`
+
 :::
 
 |            |                                                                       |

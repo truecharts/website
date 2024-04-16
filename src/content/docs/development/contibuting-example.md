@@ -13,7 +13,9 @@ With the above goal in mind, this example will walk you through adding documenta
 ---
 
 :::note
+
 You will need a [GitHub](https://github.com/login) account if you don't already have one.
+
 :::
 
 It's a good idea to familiarize yourself with the [Contribution Guidelines](/development/contributing/) before/after reading this guide, but definitely before you actually make a pull request.

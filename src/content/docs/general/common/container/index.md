@@ -3,8 +3,10 @@ title: Containers / Init Containers
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -13,7 +15,9 @@ title: Containers / Init Containers
 - `.Values.workload.$name.podSpec.initContainers.$name`
 
 :::tip
+
 Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ## Notes
@@ -32,7 +36,7 @@ Define if the container is enabled or not
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.enabled` |
-| Type       | `bool`                                         |
+| Type       | `bool`                                            |
 | Required   | ✅                                                |
 | Helm `tpl` | ✅                                                |
 | Default    | `false`                                           |
@@ -55,8 +59,10 @@ workload:
 Define the type of container
 
 :::note
+
 - Only applies to `initContainers`
 - Init containers for each type are executed in an alphabetical order based on their name.
+
 :::
 
 |            |                                                    |
@@ -116,13 +122,15 @@ workload:
 Define if the container is primary or not
 
 :::note
+
 Does **not** apply to `initContainers`
+
 :::
 
 |            |                                                   |
 | ---------- | ------------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.primary` |
-| Type       | `bool`                                         |
+| Type       | `bool`                                            |
 | Required   | ✅                                                |
 | Helm `tpl` | ❌                                                |
 | Default    | `false`                                           |
@@ -147,7 +155,7 @@ Define if the container should have stdin enabled or not
 |            |                                                 |
 | ---------- | ----------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.stdin` |
-| Type       | `bool`                                       |
+| Type       | `bool`                                          |
 | Required   | ❌                                              |
 | Helm `tpl` | ❌                                              |
 | Default    | `false`                                         |
@@ -172,7 +180,7 @@ Define if the container should have tty enabled or not
 |            |                                               |
 | ---------- | --------------------------------------------- |
 | Key        | `workload.$name.podSpec.containers.$name.tty` |
-| Type       | `bool`                                     |
+| Type       | `bool`                                        |
 | Required   | ❌                                            |
 | Helm `tpl` | ❌                                            |
 | Default    | `false`                                       |
@@ -217,7 +225,9 @@ See [termination](./termination.md)
 ## `lifecycle`
 
 :::note
+
 Does **not** apply to `initContainers`
+
 :::
 
 See [lifecycle](./lifecycle.md)
@@ -227,7 +237,9 @@ See [lifecycle](./lifecycle.md)
 ## `probes`
 
 :::note
+
 Does **not** apply to `initContainers`
+
 :::
 
 See [probes](./probes.md)

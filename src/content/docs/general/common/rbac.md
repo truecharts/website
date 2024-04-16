@@ -3,8 +3,10 @@ title: RBAC
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -17,7 +19,9 @@ title: RBAC
 - Non-Primary: `$FullName-$RBACName` (release-name-chart-name-RBACName)
 
 :::tip
+
 - Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ---

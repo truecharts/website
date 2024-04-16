@@ -3,13 +3,17 @@ title: Deployment
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
 - See the [Workload](./index.md) documentation for more information
+
 :::
 
 :::tip
+
 Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ## Appears in
@@ -128,7 +132,9 @@ workload:
 Define the maxUnavailable
 
 :::note
+
 Can only be used when `workload.$name.strategy` is `RollingUpdate`
+
 :::
 
 |            |                                               |
@@ -155,7 +161,9 @@ workload:
 Define the maxSurge
 
 :::note
+
 Can only be used when `workload.$name.strategy` is `RollingUpdate`
+
 :::
 
 |            |                                         |

@@ -7,7 +7,9 @@ title: Introduction
 This manual contains general information on working with TrueCharts Charts.
 
 :::tip
+
 Please, always remember to check the content specific to the chart.
+
 :::
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"

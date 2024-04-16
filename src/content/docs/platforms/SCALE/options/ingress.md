@@ -7,7 +7,9 @@ sidebar:
 Ingress (more commonly known as Reverse Proxy) settings can be configured here. This is how Kubernetes connects your Applications in containers to FQDNs (fully qualified domain names). If you choose to enable this you must have a Reverse Proxy installed and a DNS service to resolve the DNS name of the FQDN specified.
 
 :::caution[Reverse Proxy support]
+
 Currently the `Reverse Proxy` of choice for `TrueCharts` is `Traefik`. Enabling `Ingress` will configure settings for use with the `Traefik` application. Other reverse proxies may be used, however these settings will not affect them and there will be no support from the `TrueCharts` team.
+
 :::
 
 ## Requirements
@@ -19,7 +21,9 @@ Currently the `Reverse Proxy` of choice for `TrueCharts` is `Traefik`. Enabling 
 - Traefik is installed, see [Installing Traefik](/charts/premium/traefik/how-to)
 
 :::tip
+
 Before enabling Ingress we recommend installing the App and ensure it's working first.
+
 :::
 
 ## Main Ingress
@@ -34,12 +38,16 @@ To configure Ingress follow this step by step guide:
   - `Path Type` (required): `Prefix` is entered by default.
 
 :::note
+
 By default the hosts list is empty. This is due to upstream design choices and is an issue that is yet to be resolved upstream.
 However, adding hosts (preferably just one) **is required** for an app to function with ingress enabled.
+
 :::
 
 :::caution
+
 Apps may not install and throw errors if you do not add a host and path.
+
 :::
 
 ### Certificate Settings
@@ -65,7 +73,9 @@ To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager
 ## Networking Main Service Type
 
 :::note
+
 We recommend that in `Networking and Services` that the `Service Type` for the `Main Service` is configured as ClusterIP. See [Networking and Services](/platforms/scale/options/networking) for further details.
+
 :::
 
 ![Main Service Type set to ClusterIP](./img/networking-services-service-type.png)

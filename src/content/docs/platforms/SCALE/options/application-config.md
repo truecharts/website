@@ -11,7 +11,9 @@ Every application has different values that may be required to run or have multi
 - May vary depending on the application being used, examples include default `username`, `password` or anything that may be required by the application.
 
 :::caution[Required Fields]
+
 Anything labeled required will need to be filled out in order to continue with the installation.
+
 :::
 
 ### `Expert Configuration`

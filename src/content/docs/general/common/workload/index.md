@@ -3,8 +3,10 @@ title: Workload
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -17,7 +19,9 @@ title: Workload
 - Non-Primary: `$FullName-$WorkloadName` (release-name-chart-name-workload-name)
 
 :::tip
+
 Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ---
@@ -672,7 +676,9 @@ workload:
 Pod's dnsPolicy
 
 :::note
+
 `dnsPolicy` is set automatically to `ClusterFirstWithHostNet` when `hostNetwork` is `true`
+
 :::
 
 |            |                                                |
@@ -907,7 +913,9 @@ workload:
 Pod's tolerations key
 
 :::note
+
 Required only when `operator` = `Equal`
+
 :::
 
 |            |                                          |
@@ -936,7 +944,9 @@ workload:
 Pod's tolerations value
 
 :::note
+
 Required only when `operator` = `Equal`
+
 :::
 
 |            |                                            |
@@ -1023,11 +1033,13 @@ workload:
 Pod's runtimeClassName
 
 :::note
+
 When under TrueNAS SCALE, `runtimeClassName` will ignore any value set and use
 the `.Values.global.ixChartContext.nvidiaRuntimeClassName`, only when a GPU is assigned
 to a container and Scale Middleware sets `.Values.global.ixChartContext.addNvidiaRuntimeClass` to `true`.
 
 > Note that it will only set the `runtimeClassName` on the pod that this container belongs to.
+
 :::
 
 |            |                                                       |
@@ -1164,9 +1176,11 @@ workload:
 ###### `securityContext.sysctls`
 
 :::note
+
 The **sysctl** `net.ipv4.ip_unprivileged_port_start` option will be automatically
 set to the lowest `targetPort` (or `port` if targetPort is not defined) number assigned
 to the pod. When hostNetwork is enabled the above **sysctl** option will not be added.
+
 :::
 
 |            |                                                   |

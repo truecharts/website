@@ -3,8 +3,10 @@ title: Priority Class
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -16,7 +18,9 @@ title: Priority Class
 - `$FullName-$PriorityClassName` (release-name-chart-name-priorityClassName)
 
 :::tip
+
 - Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ---

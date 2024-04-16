@@ -3,8 +3,10 @@ title: Common Chart Documentation
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -28,7 +30,9 @@ This applies across all the documentation:
 Global values that apply to all charts
 
 :::note
+
 See more info about global values [here](./global.md)
+
 :::
 
 |            |                                  |
@@ -52,7 +56,9 @@ global: {}
 The fallback defaults are used when a value is not defined in the chart.
 
 :::note
+
 - See more info about fallbackDefaults [here](./fallbackDefaults.md)
+
 :::
 
 |            |                                            |
@@ -204,13 +210,13 @@ operator:
 
 Additional system to verify
 
-|            |                                       |
-| ---------- | ------------------------------------- |
+|            |                                    |
+| ---------- | ---------------------------------- |
 | Key        | `operator.verify.additionalsystem` |
-| Type       | `list` of `string`                    |
-| Required   | ❌                                    |
-| Helm `tpl` | ❌                                    |
-| Default    | `[]`                                  |
+| Type       | `list` of `string`                 |
+| Required   | ❌                                 |
+| Helm `tpl` | ❌                                 |
+| Default    | `[]`                               |
 
 Example
 
@@ -229,7 +235,9 @@ operator:
 Options that apply to all pods, unless overridden at the pod level
 
 :::note
+
 See more info about podOptions [here](./podOptions.md)
+
 :::
 
 |            |                                      |
@@ -270,7 +278,9 @@ podOptions:
 Options that apply to all containers, unless overridden at the container level
 
 :::note
+
 See more info about containerOptions [here](./containerOptions.md)
+
 :::
 
 |            |                                            |
@@ -316,7 +326,9 @@ TZ: UTC
 Namespace to apply to all objects, unless overridden at the object level
 
 :::note
+
 Does not apply to chart deps, use global.namespace for that
+
 :::
 
 ---
@@ -326,7 +338,9 @@ Does not apply to chart deps, use global.namespace for that
 Define resources for all containers, unless overridden at the container level
 
 :::note
+
 Resources apply to **EACH** container, not to the pod as a whole.
+
 :::
 
 |            |                                     |
@@ -356,7 +370,9 @@ resources:
 Define security context for all containers and pods, unless overridden at the container/pod level
 
 :::note
+
 See more info about securityContext [here](./securityContext.md)
+
 :::
 
 |            |                                           |
@@ -398,7 +414,9 @@ securityContext:
 ## Images
 
 :::tip
+
 Use [`imageSelector`](./container/index.md#imageselector) to select the image to use for a container.
+
 :::
 
 Images are defined in the following format:
@@ -420,9 +438,11 @@ nameImage:
 ```
 
 :::note
+
 There isn't anything special in the above format (`nameImage`), it's just a convention.
 It's also a format that some external tools can use for automatic image updates.
 For example, [Renovate](https://docs.renovatebot.com/modules/manager/helm-values/#additional-information)
+
 :::
 
 ---

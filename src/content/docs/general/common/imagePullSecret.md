@@ -3,8 +3,10 @@ title: Image Pull Secret
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -16,7 +18,9 @@ title: Image Pull Secret
 - `$FullName-$ImagePullSecretName` (release-name-chart-name-imagePullSecretName)
 
 :::tip
+
 - Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ---

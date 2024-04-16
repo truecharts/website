@@ -3,8 +3,10 @@ title: Resources
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -49,8 +51,10 @@ workload:
 The minimum amount of resources that the container needs.
 
 :::note
+
 Requests are **required**, because without it, kubernetes uses the `limits` as the `requests`.
 Which can lead pods to be evicted or not even scheduled when they reach their `limits`.
+
 :::
 
 |            |                                                              |
@@ -134,7 +138,9 @@ workload:
 The maximum amount of resources that the container can use.
 
 :::note
+
 Limits are **optional**, can be set to "unlimited" by setting it's values (`cpu` and `memory`) to `0`.
+
 :::
 
 |            |                                                            |
@@ -216,7 +222,7 @@ workload:
 #### `resources.limits."gpu.intel.com/i915"`
 
 An Intel GPU added when available
-*Note that `gpu.intel.com/i915` is a single key, despite of the `.`*
+_Note that `gpu.intel.com/i915` is a single key, despite of the `.`_
 
 Default
 
@@ -236,7 +242,7 @@ workload:
 #### `resources.limits."nvidia.com/gpu"`
 
 An NVIDIA GPU added when available
-*Note that `nvidia.com/gpu` is a single key, despite of the `.`*
+_Note that `nvidia.com/gpu` is a single key, despite of the `.`_
 
 Default
 
@@ -256,7 +262,7 @@ workload:
 #### `resources.limits."amd.com/gpu"`
 
 An AMD GPU added when available
-*Note that `amd.com/gpu` is a single key, despite of the `.`*
+_Note that `amd.com/gpu` is a single key, despite of the `.`_
 
 Default
 

@@ -3,8 +3,10 @@ title: Service Account
 ---
 
 :::note
+
 - Examples under each key are only to be used as a placement guide
 - See the [Full Examples](#full-examples) section for complete examples.
+
 :::
 
 ## Appears in
@@ -17,7 +19,9 @@ title: Service Account
 - Non-Primary: `$FullName-$ServiceAccountName` (release-name-chart-name-ServiceAccountName)
 
 :::tip
+
 - Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ---
