@@ -115,6 +115,7 @@ jobs:
 
       - name: Publish to Cloudflare Pages
         id: cloudflare
+        continue-on-error: true
         uses: cloudflare/pages-action@f0a1cd58cd66095dee69bfa18fa5efd1dde93bca # v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
