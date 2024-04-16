@@ -18,10 +18,10 @@ const contributors = allContributors.map((c) => {
   const avatarFileName = c.avatar_url.split('/').pop();
   return {
     name: c.name,
-    image: `/src/assets/contributors/${avatarFileName}.webp`,
+    image: `/assets/contributors/${avatarFileName}.webp`,
     profile: c.profile,
     github: c.profile,
-  };
+  }; 
 });
 
 const allPeople = [...contributors, ...sponsors];

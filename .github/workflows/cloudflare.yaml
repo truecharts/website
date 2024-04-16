@@ -61,7 +61,7 @@ jobs:
           #    wget -q "$avatar_url" -O temp_avatar
           #
           #    # Generate new filename with original extension
-          #    new_filename="src/assets/contributors/$(basename "$avatar_url" | cut -d '?' -f 1)"
+          #    new_filename="public/assets/contributors/$(basename "$avatar_url" | cut -d '?' -f 1)"
           #	
           #    echo "converting file: $avatar_url"
           #    EXT=${FILE##*.} # file extension
