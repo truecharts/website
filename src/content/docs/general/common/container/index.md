@@ -278,7 +278,7 @@ See [env](/general/common/env)
 
 ## `envList`
 
-See [envList](/general/common/envList)
+See [envList](/general/common/envlist)
 
 ---
 
