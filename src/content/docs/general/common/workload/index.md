@@ -425,7 +425,7 @@ Pod's enableServiceLinks
 | Type       | `bool`                                                            |
 | Required   | ❌                                                                |
 | Helm `tpl` | ❌                                                                |
-| Default    | See default [here](/general/common/podoptions#enableServiceLinks) |
+| Default    | See default [here](/general/common/podoptions#enableservicelinks) |
 
 Example
 
@@ -1099,13 +1099,13 @@ workload:
 
 Pod's securityContext fsGroup
 
-|            |                                                             |
-| ---------- | ----------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.securityContext.fsGroup`            |
-| Type       | `int`                                                       |
-| Required   | ❌                                                          |
-| Helm `tpl` | ❌                                                          |
-| Default    | See default [here](/general/common/securitycontext#fsgroup) |
+|            |                                                                                |
+| ---------- | ------------------------------------------------------------------------------ |
+| Key        | `workload.$name.podSpec.securityContext.fsGroup`                               |
+| Type       | `int`                                                                          |
+| Required   | ❌                                                                             |
+| Helm `tpl` | ❌                                                                             |
+| Default    | See default [here](/general/common/securitycontext/#securitycontextpodfsgroup) |
 
 Example
 
@@ -1152,13 +1152,13 @@ workload:
 
 Pod's securityContext supplementalGroups
 
-|            |                                                                        |
-| ---------- | ---------------------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.securityContext.supplementalGroups`            |
-| Type       | `list` of `int`                                                        |
-| Required   | ❌                                                                     |
-| Helm `tpl` | ❌                                                                     |
-| Default    | See default [here](/general/common/securitycontext#supplementalgroups) |
+|            |                                                                                          |
+| ---------- | ---------------------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.securityContext.supplementalGroups`                              |
+| Type       | `list` of `int`                                                                          |
+| Required   | ❌                                                                                       |
+| Helm `tpl` | ❌                                                                                       |
+| Default    | See default [here](/general/common/securitycontext#securitycontextpodsupplementalgroups) |
 
 Example
 
@@ -1183,13 +1183,13 @@ to the pod. When hostNetwork is enabled the above **sysctl** option will not be 
 
 :::
 
-|            |                                                             |
-| ---------- | ----------------------------------------------------------- |
-| Key        | `workload.$name.podSpec.securityContext.sysctls`            |
-| Type       | `list` of `map`                                             |
-| Required   | ❌                                                          |
-| Helm `tpl` | ❌                                                          |
-| Default    | See default [here](/general/common/securitycontext#sysctls) |
+|            |                                                                               |
+| ---------- | ----------------------------------------------------------------------------- |
+| Key        | `workload.$name.podSpec.securityContext.sysctls`                              |
+| Type       | `list` of `map`                                                               |
+| Required   | ❌                                                                            |
+| Helm `tpl` | ❌                                                                            |
+| Default    | See default [here](/general/common/securitycontext#securitycontextpodsysctls) |
 
 Example
 
