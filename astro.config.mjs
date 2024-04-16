@@ -16,10 +16,10 @@ import sitemap from "@astrojs/sitemap";
 import robotsTxt from "astro-robots-txt";
 // https://github.com/giuseppelt/astro-lottie
 import lottie from "astro-integration-lottie";
-// Configure global authors here
-import { authors } from "./src/content/docs/blog/authors";
 import betterImageService from "astro-better-image-service";
 import playformCompress from "@playform/compress";
+// Configure global authors here
+import { authors } from "./src/content/docs/blog/authors";
 const site = "https://truecharts.org";
 
 // https://astro.build/config
