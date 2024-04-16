@@ -15,7 +15,7 @@ title: NFS
 
 :::tip
 
-- See available persistence keys [here](/general/common/).
+- See available persistence keys [here](/general/common/persistence).
 - This options apply only when `type: nfs`.
 
 :::
