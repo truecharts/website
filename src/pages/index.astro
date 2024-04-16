@@ -14,12 +14,15 @@ const sponsors = allSponsors.map((s) => ({
   github: s.github,
 }));
 
-const contributors = allContributors.map((c) => ({
-  name: c.name,
-  image: c.avatar_url,
-  profile: c.profile,
-  github: c.profile,
-}));
+const contributors = allContributors.map((c) => {
+  const avatarFileName = c.avatar_url.split('/').pop();
+  return {
+    name: c.name,
+    image: `/src/assets/contributors/${avatarFileName}.webp`,
+    profile: c.profile,
+    github: c.profile,
+  };
+});
 
 const allPeople = [...contributors, ...sponsors];
 // Remove people with no image
