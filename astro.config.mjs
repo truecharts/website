@@ -160,7 +160,7 @@ export default defineConfig({
     tailwind(),
     lottie(),
     betterImageService(),
-    (await import("@playform/compress")).default({
+    playformCompress({
       HTML: false,
       CSS: true,
       JavaScript: true,
