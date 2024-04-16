@@ -72,7 +72,7 @@ resources:
 
 ### `resources.requests."gpu.intel.com/i915"`
 
-See [Resources Requests GPU](/general/common/container/resources#resourceslimitsintelcomi915)
+See [Resources Requests GPU](/general/common/container/resources#resourceslimitsgpuintelcomi915)
 
 Default: `not set`
 

@@ -178,11 +178,11 @@ Define the service type
 
 Valid Values:
 
-- [`ClusterIP`](/general/common/service/ClusterIP)
-- [`LoadBalancer`](/general/common/service/LoadBalancer)
-- [`NodePort`](/general/common/service/NodePort)
-- [`ExternalName`](/general/common/service/ExternalName)
-- [`ExternalIP`](/general/common/service/ExternalIP)
+- [`ClusterIP`](/general/common/service/clusterip)
+- [`LoadBalancer`](/general/common/service/loadbalancer)
+- [`NodePort`](/general/common/service/nodeport)
+- [`ExternalName`](/general/common/service/externalname)
+- [`ExternalIP`](/general/common/service/externalip)
 
 Example
 
@@ -461,7 +461,7 @@ service:
 
 Define the ports of the service
 
-See [Ports](/general/common/ports)
+See [Ports](/general/common/service/ports)
 
 |            |                       |
 | ---------- | --------------------- |
@@ -485,8 +485,8 @@ service:
 
 Full examples can be found under each service type
 
-- [ClusterIP](/general/common/service/ClusterIP)
-- [LoadBalancer](/general/common/service/LoadBalancer)
-- [NodePort](/general/common/service/NodePort)
-- [ExternalName](/general/common/service/ExternalName)
-- [ExternalIP](/general/common/service/ExternalIP)
+- [ClusterIP](/general/common/service/clusterip)
+- [LoadBalancer](/general/common/service/loadbalancer)
+- [NodePort](/general/common/service/nodeport)
+- [ExternalName](/general/common/service/externalname)
+- [ExternalIP](/general/common/service/externalip)

@@ -123,7 +123,7 @@ Define the accessModes of the PVC, if it's single can be defined as a string, mu
 | Type       | `string` or `list`                                               |
 | Required   | ❌                                                               |
 | Helm `tpl` | ✅                                                               |
-| Default    | See default [here](/general/common/fallbackDefaults#accessmodes) |
+| Default    | See default [here](/general/common/fallbackdefaults#accessmodes) |
 
 Example
 

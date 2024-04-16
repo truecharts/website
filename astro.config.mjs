@@ -106,6 +106,18 @@ export default defineConfig({
         starlightLinksValidator({
           errorOnRelativeLinks: false,
           errorOnFallbackPages: false,
+          exclude: [
+            "/s/charts",
+            "/s/discord",
+            "/s/fb",
+            "/s/ghs",
+            "/s/git",
+            "/s/oc",
+            "/s/patreon",
+            "/s/shop",
+            "/s/tg",
+            "/s/twitter",
+          ],
         }),
         starlightDocSearch({
           appId: "M5JIEOBD9S",
