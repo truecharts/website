@@ -5,7 +5,7 @@ title: Service
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/service#full-examples) section for complete examples.
 
 :::
 
@@ -196,7 +196,7 @@ service:
 
 #### `expandObjectName`
 
-Whether to expand the object name (based on the [naming scheme](#naming-scheme)) or not
+Whether to expand the object name (based on the [naming scheme](/general/common/service#naming-scheme)) or not
 
 |            |                                  |
 | ---------- | -------------------------------- |

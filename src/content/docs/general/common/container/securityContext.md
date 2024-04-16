@@ -5,7 +5,7 @@ title: Security Context
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/container/securitycontext#full-examples) section for complete examples.
 
 :::
 
@@ -203,7 +203,7 @@ Define the capabilities for the container
 
 :::note
 
-If at least one capability is defined in either [`add`](#securitycontextcapabilitiesadd) or [`drop`](#securitycontextcapabilitiesdrop)
+If at least one capability is defined in either [`add`](/general/common/container/securitycontext#securitycontextcapabilitiesadd) or [`drop`](/general/common/container/securitycontext#securitycontextcapabilitiesdrop)
 on container level, it will **NOT** get merged with the value(s) from the `.Values.securityContext.container.capabilities.[add/drop]`.
 But it will override them.
 

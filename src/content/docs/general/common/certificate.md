@@ -5,7 +5,7 @@ title: Certificate
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/certificate#full-examples) section for complete examples.
 
 :::
 
@@ -210,7 +210,7 @@ Define the certificate secret template for this certificate
 
 At least one of the following keys must be defined
 
-[`labels`](#labels-1), [`annotations`](#annotations-1)
+[`labels`](/general/common/certificate#labels-1), [`annotations`](/general/common/certificate#annotations-1)
 
 :::
 

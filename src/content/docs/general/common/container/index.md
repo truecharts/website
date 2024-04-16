@@ -5,7 +5,7 @@ title: Containers / Init Containers
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/container#full-examples) section for complete examples.
 
 :::
 
@@ -260,7 +260,7 @@ See [securityContext](/general/common/securitycontext)
 
 ## `envFrom`
 
-See [envFrom](/general/common/envFrom)
+See [envFrom](/general/common/envfrom)
 
 ---
 

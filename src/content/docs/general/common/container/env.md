@@ -5,7 +5,7 @@ title: Env
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/container/env#full-examples) section for complete examples.
 
 :::
 
@@ -110,7 +110,7 @@ Define the configMap name
 :::note
 
 This will be automatically expanded to `fullname-secret-name`.
-You can opt out of this by setting [`expandObjectName`](#envkeyconfigmapkeyrefexpandobjectname) to `false`
+You can opt out of this by setting [`expandObjectName`](/general/common/container/env#envkeyconfigmapkeyrefexpandobjectname) to `false`
 
 :::
 
@@ -228,7 +228,7 @@ Define the secret name
 :::note
 
 This will be automatically expanded to `fullname-secret-name`.
-You can opt out of this by setting [`expandObjectName`](#envkeysecretkeyrefexpandobjectname) to `false`
+You can opt out of this by setting [`expandObjectName`](/general/common/container/env#envkeysecretkeyrefexpandobjectname) to `false`
 
 :::
 
