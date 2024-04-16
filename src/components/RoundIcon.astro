@@ -53,19 +53,21 @@ if (process.env.NODE_ENV === "production" && !url.startsWith("/")) {
     }
 
     url = import.meta.env.BASE_URL + `/assets/preloaded/roundicon/${imgName}.jpg`;
+	import preloadedImage from `../assets/preloaded/roundicon/${imgName}.jpg`;
   } catch {
     console.log(
       `[astro-preload]: Failed to load image '${imgName}', fallback to using '${url}'`
     );
   }
 }
+
 ---
 
 <li class="flex hover:scale-125 duration-300">
   <a href={profile}>
     <!-- On prod it width and height will be inferred from the imported image  -->
     <Image
-      src={url}
+      src={preloadedImage}
       class="rounded-full !h-8 !w-8 object-cover"
       alt={name}
       width={url?.width || props.width}
