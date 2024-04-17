@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import { getChartsFromTrain, normalizeTrainName } from "./utils";
+import { getChartImageUrl } from "../multi-icons/utils";
 
 const { train } = Astro.props;
 ---
@@ -29,7 +30,7 @@ const { train } = Astro.props;
             <div class="flex flex-row max-md:flex-col gap-2 items-center justify-start">
               <Image
                 class="w-5 h-5"
-                src={c.icon}
+                src={getChartImageUrl(c.name)}
                 alt={c.name}
                 width={20}
                 height={20}

@@ -2,11 +2,11 @@ import { contributors } from "../../assets/contributors.json";
 import { getChartsFromTrain, getTrains } from "../chart-list/utils";
 
 // Contributors
-const genImageName = (url: string) => {
+const genContribImageName = (url: string) => {
   return url.split("/").pop()?.split("?v")[0];
 };
-const genImageUrl = (name: string) => {
-  return `/assets/contributors/${genImageName(name)}.webp`;
+const genContribImageUrl = (name: string) => {
+  return `/assets/contributors/${genContribImageName(name)}.webp`;
 };
 
 export const getContributors = () => {
@@ -19,7 +19,7 @@ export const getContributors = () => {
     // if name is already in total, skip
     if (total.some((p) => p.name === person.name)) return total;
     // make sure the image name can be generated
-    if (!genImageName(person.avatar_url)) return total;
+    if (!genContribImageName(person.avatar_url)) return total;
 
     total.push(person);
     return total;
@@ -27,13 +27,13 @@ export const getContributors = () => {
 
   return filteredPeople.map((p) => ({
     id: p.name,
-    img: genImageUrl(p.avatar_url),
+    img: genContribImageUrl(p.avatar_url),
     url: p.profile,
   }));
 };
 
 // Charts
-const getImageUrl = (name: string) => {
+export const getChartImageUrl = (name: string) => {
   return `/img/hotlink-ok/chart-icons-small/${name}.webp`;
 };
 
@@ -42,7 +42,7 @@ export const getCharts = () => {
   const charts = trains.map((train) => getChartsFromTrain(train)).flat();
   return charts.map((c) => ({
     id: c.name,
-    img: getImageUrl(c.name),
+    img: getChartImageUrl(c.name),
     url: c.link,
   }));
 };
