@@ -7,6 +7,8 @@ title: Cobia to DragonFish Storage Migration
 Its imperative to execute **ALL** steps in this guide in one sitting.
 If you reboot or take any kind of time-off, we cannot guarantee your data and apps stay working
 
+It's also important to note that migration to Dragonfish **requires** reinstallation of all Apps. For which a automated solution is available in the guide as well.
+Please read this migration guide carefully, *before* upgrading to dragonfish.
 :::
 
 ## Important Changes
