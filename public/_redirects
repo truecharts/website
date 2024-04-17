@@ -20,17 +20,17 @@
 /blog /news 308
 
 # big chart-changes
-/charts/operators /charts/system
-/charts/enterprise /charts/premium
+/charts/operators /charts/system 308
+/charts/enterprise /charts/premium 308
 
 
 # old->new website
-/manual /general
-/manual/development /development
-/manual/helm /platforms/helm
-/manual/kubeapps /platforms/kubeapps
-/manual/fluxcd /platforms/fluxcd
-/manual/SCALE /platforms/SCALE
-/manual/rancher /platforms/rancher
-/manual/argocd /platforms/argocd
+/manual /general 308
+/manual/development /development 308
+/manual/helm /platforms/helm 308
+/manual/kubeapps /platforms/kubeapps 308
+/manual/fluxcd /platforms/fluxcd 308
+/manual/SCALE /platforms/scale 308
+/manual/rancher /platforms/rancher 308
+/manual/argocd /platforms/argocd 308
 
