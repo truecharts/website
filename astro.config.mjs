@@ -95,7 +95,8 @@ export default defineConfig({
         Hero: "./src/components/CustomHero.astro",
       },
       plugins: [
-        starlightImageZoom(),
+        // Disable for now, as it kinda breaks the news/blog
+        // starlightImageZoom(),
         starlightBlog({
           prefix: "news",
           title: "TrueCharts News",
