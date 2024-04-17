@@ -1,0 +1,18 @@
+---
+import RoundIcon from "./RoundIcon.astro";
+
+type Icon = {
+  id: string;
+  img: string;
+  url: string;
+};
+interface Props {
+  icons: Array<Icon>;
+}
+
+const { icons } = Astro.props;
+---
+
+<div class="mt-20 list-none flex-row flex flex-wrap justify-center gap-2 p-0">
+  {icons.map((icon) => <RoundIcon {...icon} />)}
+</div>

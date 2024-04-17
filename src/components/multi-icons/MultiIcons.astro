@@ -1,0 +1,28 @@
+---
+import { getContributors, getCharts } from "./utils";
+
+import Icons from "./Icons.astro";
+import Title from "./Title.astro";
+
+const people = getContributors();
+const charts = getCharts();
+---
+
+<!-- Contributors & Sponsors -->
+<div class="text-center">
+  <Title>
+    Over <span class="text-tc-primary">{people.length}</span> amazing
+    <span class="text-tc-primary">Contributors</span>
+    and <span class="text-tc-primary">Sponsors</span>
+  </Title>
+  <Icons icons={people} />
+</div>
+
+<!-- Charts -->
+<div class="text-center">
+  <Title>
+    Over <span class="text-tc-primary">{charts.length}</span> amazing
+    <span class="text-tc-primary">Charts</span>
+  </Title>
+  <Icons icons={charts} />
+</div>
