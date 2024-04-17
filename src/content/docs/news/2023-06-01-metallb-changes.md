@@ -3,6 +3,8 @@ slug: "news/metallb-changes"
 title: "New MetalLB chart and our own operator charts."
 authors: [ornias]
 date: 2023-06-01
+tags:
+  - "2023"
 ---
 
 **Introdocution: Our own Operator Charts**

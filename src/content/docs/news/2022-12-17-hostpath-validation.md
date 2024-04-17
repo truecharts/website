@@ -3,6 +3,8 @@ slug: "news/hostpath-validation"
 title: "TrueNAS SCALE 22.12: hostPath Validation"
 authors: [ornias]
 date: 2022-12-17
+tags:
+  - "2022"
 ---
 
 We are excited to finally be able to work with TrueNAS SCALE version 22.12 "BlueFin," however this version includes a new feature called "hostPath validation." This feature is designed to ensure the stability and security of TrueNAS SCALE systems by preventing the use of any datasets for apps where that dataset is also used for shares.

@@ -3,6 +3,8 @@ slug: "news/operator-changes"
 title: "Deprecating Old Operators"
 authors: [kqmaverick]
 date: 2023-07-03
+tags:
+  - "2023"
 ---
 
 As part of limiting our promise not to introduce breaking changes to the charts within our Enterprise train, we've ensured both the new and old way of dealing with "operators" were both supported.

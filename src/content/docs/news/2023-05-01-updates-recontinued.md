@@ -3,6 +3,8 @@ slug: "news/updates-recontinued"
 title: "Updates recontinued, common-migration mostly done"
 authors: [ornias]
 date: 2023-05-01
+tags:
+  - "2023"
 ---
 
 We're glad to finally announce the end of our code-freeze. Since a few days we've re-enabled our automatic updates and within a few weeks everything should balance out again automatically!

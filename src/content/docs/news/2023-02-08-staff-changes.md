@@ -3,6 +3,8 @@ slug: "news/staff-changes-feb-2023"
 title: "February 2023 Staff Changes"
 authors: [ornias]
 date: 2023-02-08
+tags:
+  - "2023"
 ---
 
 TrueCharts is proud to announce some exciting changes to our core team in light of our rapidly growing project. With the growing needs of our community, we have decided to switch positions for two of our team members, @JagrBombs (Steven) and @mintyCrackers.

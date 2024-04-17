@@ -3,6 +3,8 @@ slug: "news/cluster-wide-certificates"
 title: "Cluster-Wide Certificates"
 authors: [sdimovv]
 date: 2023-11-05
+tags:
+  - "2023"
 ---
 
 We are happy to announce that support for cluster-wide certificates is now available for Truecharts! You can now create a single certificate and use it throughout your cluster. We call these certificates "cluster certificates".

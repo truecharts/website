@@ -3,6 +3,8 @@ slug: "news/common-release-schedule"
 title: "New breaking common release"
 authors: [ornias]
 date: 2023-02-23
+tags:
+  - "2023"
 ---
 
 One of the core components of TrueCharts is our "common" chart, which serves as the basis on which all other charts are built.
