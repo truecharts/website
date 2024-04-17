@@ -39,19 +39,7 @@ Some examples are:
 - Monica
 - Recipes
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
-     crossorigin="anonymous"></script>
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9270569596814796"
-     data-ad-slot="1707785957"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## Can I use another Load Balancer in front of traefik?
 
@@ -102,19 +90,7 @@ TrueCharts uses Semantic Versioning on the aspects of the chart that TrueCharts 
 Some upstream **containers** use `latest` tags or poor versioning schemes so updates aren't always
 clear if they contain breaking changes. Be sure to check the **changelog** for each chart before updating.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
-     crossorigin="anonymous"></script>
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9270569596814796"
-     data-ad-slot="1707785957"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## How do I tell that this update is a major and potentially breaking change?
 
@@ -256,19 +232,7 @@ If the App does not use CNPG, you have several options to stop an App:
 
 - 3. Use [HeavyScript](https://github.com/Heavybullets8/heavy_script).
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
-     crossorigin="anonymous"></script>
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9270569596814796"
-     data-ad-slot="1707785957"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ### What If I've already pressed the Stop button on an App that uses CNPG?
 
@@ -349,16 +313,4 @@ To remove the previous automatically installed operator run this in the system s
 
 This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [premium TrueCharts train](/platforms/scale/guides/getting-started#adding-truecharts).
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
-     crossorigin="anonymous"></script>
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9270569596814796"
-     data-ad-slot="1707785957"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
