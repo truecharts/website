@@ -2,10 +2,8 @@
 title: TrueNAS SCALE Migrations
 ---
 
-This page serves as an index for any TrueNAS SCALE migration guides that might need be referenced.
+This page has a list of available migrations guides for TrueNAS SCALE
 
 ---
 
-## `Cobia to DragonFish`
-
-See [here](/platforms/scale/migrations/cobia-dragonfish)
+- [`Cobia to DragonFish`](/platforms/scale/migrations/cobia-dragonfish)
