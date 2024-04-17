@@ -2,9 +2,10 @@
 title: Cobia to DragonFish Storage Migration
 ---
 
-:::caution[DragonFish is not yet supported]
+:::caution[Execute all steps at once]
 
-This is a pre-release guide, TrueNAS SCALE 24.04 DragonFish is explicitly **NOT** yet supported by TrueCharts
+Its imperative to execute **ALL** steps in this guide in one sitting.
+If you reboot or take any kind of time-off, we cannot guarantee your data and apps stay working
 
 :::
 
@@ -52,5 +53,7 @@ After installing the `OpenEBS` app from the above guide, run the following and y
 
 ### Migrating to new storage
 
-We highly advise moving to the new storage backend for existing Apps as well. _At a later date we will update this with migration instructions as well._
-Until we have migration steps ready, existing apps will continue to work like normal.
+Sadly enough, we require re-installation of all Apps to be migrated to the new storage solution.
+
+However, thanks to the great collaboration with HeavyBullets, you can use his TT-Migration tool, to automate most of the installation process:
+https://github.com/Heavybullets8/TT-Migration
