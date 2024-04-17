@@ -126,37 +126,37 @@ export default defineConfig({
           indexName: "truecharts",
         }),
       ],
-      // sidebar: [
-      //   {
-      //     label: "General",
-      //     collapsed: false,
-      //     autogenerate: {
-      //       directory: "general",
-      //       collapsed: true,
-      //     },
-      //   },
-      //   {
-      //     label: "Platforms",
-      //     collapsed: true,
-      //     autogenerate: {
-      //       directory: "platforms",
-      //     },
-      //   },
-      //   {
-      //     label: "Development",
-      //     collapsed: true,
-      //     autogenerate: {
-      //       directory: "development",
-      //     },
-      //   },
-      //   {
-      //     label: "Charts",
-      //     collapsed: true,
-      //     autogenerate: {
-      //       directory: "charts",
-      //     },
-      //   },
-      // ],
+      sidebar: [
+        {
+          label: "General",
+          collapsed: false,
+          autogenerate: {
+            directory: "general",
+            collapsed: true,
+          },
+        },
+        {
+          label: "Platforms",
+          collapsed: true,
+          autogenerate: {
+            directory: "platforms",
+          },
+        },
+        {
+          label: "Development",
+          collapsed: true,
+          autogenerate: {
+            directory: "development",
+          },
+        },
+        {
+          label: "Charts",
+          collapsed: true,
+          autogenerate: {
+            directory: "charts",
+          },
+        },
+      ],
     }),
     sitemap(),
     robotsTxt(),
