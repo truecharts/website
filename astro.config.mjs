@@ -95,8 +95,6 @@ export default defineConfig({
         Hero: "./src/components/CustomHero.astro",
       },
       plugins: [
-        // Disable for now, as it kinda breaks the news/blog
-        // starlightImageZoom(),
         starlightBlog({
           prefix: "news",
           title: "TrueCharts News",
@@ -104,6 +102,8 @@ export default defineConfig({
           recentPostCount: 10,
           authors: authors,
         }),
+        // Do not put that before starlightBlog
+        // starlightImageZoom(),
         starlightLinksValidator({
           errorOnRelativeLinks: false,
           errorOnFallbackPages: false,
