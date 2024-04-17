@@ -46,7 +46,8 @@ jobs:
       - name: Install cwebp
         shell: bash
         run: |
-          sudo apt install webp
+          sudo apt-get update
+          sudo apt-get install webp -y
 
       - name: Prefetch contributor icons
         shell: bash
@@ -66,9 +67,9 @@ jobs:
           #	
           #    echo "converting file: $avatar_url"
           #    EXT=${FILE##*.} # file extension
-          #    QUALITY=85 # quality for the image
+          #    QUALITY=75 # quality for the image
           #    # convert the image using cwebp and output a file with the extension replaced as .webp
-          #    cwebp -q $QUALITY -resize 32 32 "temp_avatar" -o "${new_filename}.webp" &>/dev/null
+          #    cwebp -mt -m 6 -q $QUALITY -resize 32 32 "temp_avatar" -o "${new_filename}.webp" &>/dev/null
           #    rm temp_avatar
           #
           #done < src/assets/contributors.json
