@@ -90,7 +90,6 @@ export default defineConfig({
       editLink: {
         baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
       },
-      lastUpdated: true,
       components: {
         Header: "./src/components/CustomHeader.astro",
         Hero: "./src/components/CustomHero.astro",
