@@ -21,7 +21,7 @@ import betterImageService from "astro-better-image-service";
 // https://github.com/Playform/Compress
 import playformCompress from "@playform/compress";
 // Configure global authors here
-import { authors } from "./src/content/docs/blog/authors";
+import { authors } from "./src/content/docs/news/authors";
 const site = "https://truecharts.org";
 
 // https://astro.build/config
@@ -98,6 +98,7 @@ export default defineConfig({
       plugins: [
         starlightImageZoom(),
         starlightBlog({
+          prefix: "news",
           title: "TrueCharts News",
           postCount: 5,
           recentPostCount: 10,

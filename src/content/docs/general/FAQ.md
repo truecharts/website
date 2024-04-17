@@ -165,7 +165,7 @@ The following apps do not have active services running under an `ix` namespace, 
 
 :::note
 
-For reasons why this is necessary please see [Known Issues](/blog/updates-recontinued#known-issues)
+For reasons why this is necessary please see [Known Issues](/news/updates-recontinued#known-issues)
 
 :::
 

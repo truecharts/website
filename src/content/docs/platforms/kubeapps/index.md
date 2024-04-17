@@ -19,7 +19,7 @@ Please always remember to check the content specific to the chart.
 
 ## Tier
 
-KubeApps is what we call a "Tier 2" deployment option. More information on what this means is available [here](/blog/embrace-kubeapps/)
+KubeApps is what we call a "Tier 2" deployment option. More information on what this means is available [here](/news/embrace-kubeapps/)
 
 This means that we expect it to work smoothly, all options being technically available and we've enough staff available to help out with any required support. With Tier 2 options, you should not have to expect issues caused by the deployment option.
 

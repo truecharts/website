@@ -1,13 +1,13 @@
 # Chart Docs
 
-## Blog
+## News
 
-- To add new authors, add their username in the `authors.ts` file in `src/content/docs/blog/authors.ts`.
-- Blog Posts **must** have these fields in the `frontmatter`:
+- To add new authors, add their username in the `authors.ts` file in `src/content/docs/news/authors.ts`.
+- News Posts **must** have these fields in the `frontmatter`:
   - `title`
-  - `slug` (must start with `blog/`)
+  - `slug` (must start with `news/`)
   - `date`
-  - `authors` (The key in the `authors` object in `src/content/docs/blog/authors.ts`)
+  - `authors` (The key in the `authors` object in `src/content/docs/news/authors.ts`)
 
 ## Supported Code Block Languages
 
