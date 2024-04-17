@@ -102,7 +102,7 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 ## OpenEBS Setup
 
-![OpenEBS Icon](./img/OpenEBS.png)
+![OpenEBS Icon](./img/icons/openebs.png)
 
 As outlined [here](/platforms/scale/migrations/dragonfish-storage), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
 
