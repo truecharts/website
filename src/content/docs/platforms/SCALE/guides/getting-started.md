@@ -118,7 +118,7 @@ As outlined [here](/platforms/scale/migrations/dragonfish-storage), iX-Systems n
 
 4. Then install the `OpenEBS` chart
 
-![OpenEBS Icon](./img/icons/OpenEBS.png)
+![OpenEBS Icon](./img/icons/openebs.png)
 
 5. Please ensure you've chosen a **Pool/Dataset** that's **not** inside `ix-applications` and do not include `/mnt/` in front of the pool/dataset, as shown below
 
