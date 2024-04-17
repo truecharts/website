@@ -20,6 +20,6 @@ info@truecharts.org
 
 Yes, we have a discord server! :)
 
-Get your <a href="https://truecharts.org/s/discord">invite</a> today:
+Get your [invite](/s/discord) today:
 
 <iframe src="https://discord.com/widget?id=830763548678291466&theme=dark" width="350" height="500" allowtransparency="true" frameBorder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

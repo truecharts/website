@@ -5,15 +5,15 @@ title: EnvList
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/container/envlist#full-examples) section for complete examples.
 
 :::
 
 :::tip
 
 Variable names will be scanned for duplicates across all
-[secrets](../secret.md), [configmaps](../configmap.md),
-[env](./env.md), [envList](./envList.md) and [fixedEnv](./fixedEnv.md)
+[secrets](/general/common/secret), [configmaps](/general/common/configmap),
+[env](/general/common/container/env), [envList](/general/common/container/envlist) and [fixedEnv](/general/common/container/fixedenv)
 and will throw an error if it finds any.
 
 :::
@@ -32,7 +32,7 @@ Define env(s) for the container
 :::note
 
 - This is used for the SCALE GUI for "Additional Environment Variables"
-- For native helm charts, use [env](./env.md) instead.
+- For native helm charts, use [env](/general/common/container/env) instead.
 
 :::
 

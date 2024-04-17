@@ -5,7 +5,7 @@ title: Fallback Defaults
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/fallbackdefaults#full-examples) section for complete examples.
 
 :::
 
@@ -64,7 +64,7 @@ Define default probe type when not defined in the container level
 
 Valid Values:
 
-- See [Probe Types](./container/probes.md#probesprobetype)
+- See [Probe Types](/general/common/container/probes#probesprobetype)
 
 Example
 
@@ -89,7 +89,7 @@ Define default service protocol when not defined in the service
 
 Valid Values:
 
-- See [Service Protocols](./service/ports.md#protocol)
+- See [Service Protocols](/general/common/service/ports#protocol)
 
 Example
 
@@ -114,7 +114,7 @@ Define default service type when not defined in the service
 
 Valid Values:
 
-- See [Service Types](./service/index.md#type)
+- See [Service Types](/general/common/service#type)
 
 Example
 
@@ -160,7 +160,7 @@ Define default persistence type when not defined in the persistence
 
 Valid Values:
 
-- See [Persistence Types](./persistence/index.md#type)
+- See [Persistence Types](/general/common/persistence#type)
 
 Example
 

@@ -5,7 +5,7 @@ title: Pod Disruption Budget
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/poddisruptionbudget#full-examples) section for complete examples.
 
 :::
 
@@ -53,7 +53,7 @@ Define Pod Disruption Budget
 
 At least one of the following keys must be defined
 
-[`minAvailable`](#minavailable), [`maxUnavailable`](#maxunavailable)
+[`minAvailable`](/general/common/poddisruptionbudget#minavailable), [`maxUnavailable`](/general/common/poddisruptionbudget#maxunavailable)
 
 :::
 

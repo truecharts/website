@@ -5,8 +5,8 @@ title: CronJob
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
-- See the [Workload](./index.md) documentation for more information
+- See the [Full Examples](/general/common/workload/cronjob#full-examples) section for complete examples.
+- See the [Workload](/general/common/workload) documentation for more information
 
 :::
 
@@ -46,13 +46,13 @@ workload:
 
 Define the timezone
 
-|            |                            |
-| ---------- | -------------------------- |
-| Key        | `workload.$name.timezone`  |
-| Type       | `string`                   |
-| Required   | ❌                         |
-| Helm `tpl` | ✅                         |
-| Default    | See [here](../index.md#tz) |
+|            |                                |
+| ---------- | ------------------------------ |
+| Key        | `workload.$name.timezone`      |
+| Type       | `string`                       |
+| Required   | ❌                             |
+| Helm `tpl` | ✅                             |
+| Default    | See [here](/general/common#tz) |
 
 Example
 

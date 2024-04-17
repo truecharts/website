@@ -5,7 +5,7 @@ title: iSCSI
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/persistence/iscsi#full-examples) section for complete examples.
 
 :::
 
@@ -15,7 +15,7 @@ title: iSCSI
 
 :::tip
 
-- See available persistence keys [here](./index.md).
+- See available persistence keys [here](/general/common/persistence).
 - This options apply only when `type: iscsi`.
 
 :::

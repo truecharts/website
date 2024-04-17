@@ -5,7 +5,7 @@ title: Service
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/service#full-examples) section for complete examples.
 
 :::
 
@@ -168,21 +168,21 @@ service:
 
 Define the service type
 
-|            |                                                        |
-| ---------- | ------------------------------------------------------ |
-| Key        | `service.$name.type`                                   |
-| Type       | `string`                                               |
-| Required   | ❌                                                     |
-| Helm `tpl` | ✅                                                     |
-| Default    | See default [here](../fallbackDefaults.md#servicetype) |
+|            |                                                                  |
+| ---------- | ---------------------------------------------------------------- |
+| Key        | `service.$name.type`                                             |
+| Type       | `string`                                                         |
+| Required   | ❌                                                               |
+| Helm `tpl` | ✅                                                               |
+| Default    | See default [here](/general/common/fallbackdefaults#servicetype) |
 
 Valid Values:
 
-- [`ClusterIP`](ClusterIP.md)
-- [`LoadBalancer`](LoadBalancer.md)
-- [`NodePort`](NodePort.md)
-- [`ExternalName`](ExternalName.md)
-- [`ExternalIP`](ExternalIP.md)
+- [`ClusterIP`](/general/common/service/clusterip)
+- [`LoadBalancer`](/general/common/service/loadbalancer)
+- [`NodePort`](/general/common/service/nodeport)
+- [`ExternalName`](/general/common/service/externalname)
+- [`ExternalIP`](/general/common/service/externalip)
 
 Example
 
@@ -196,7 +196,7 @@ service:
 
 #### `expandObjectName`
 
-Whether to expand the object name (based on the [naming scheme](#naming-scheme)) or not
+Whether to expand the object name (based on the [naming scheme](/general/common/service#naming-scheme)) or not
 
 |            |                                  |
 | ---------- | -------------------------------- |
@@ -461,7 +461,7 @@ service:
 
 Define the ports of the service
 
-See [Ports](./ports.md)
+See [Ports](/general/common/service/ports)
 
 |            |                       |
 | ---------- | --------------------- |
@@ -485,8 +485,8 @@ service:
 
 Full examples can be found under each service type
 
-- [ClusterIP](ClusterIP.md)
-- [LoadBalancer](LoadBalancer.md)
-- [NodePort](NodePort.md)
-- [ExternalName](ExternalName.md)
-- [ExternalIP](ExternalIP.md)
+- [ClusterIP](/general/common/service/clusterip)
+- [LoadBalancer](/general/common/service/loadbalancer)
+- [NodePort](/general/common/service/nodeport)
+- [ExternalName](/general/common/service/externalname)
+- [ExternalIP](/general/common/service/externalip)

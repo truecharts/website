@@ -5,7 +5,7 @@ title: Persistence
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/persistence#full-examples) section for complete examples.
 
 :::
 
@@ -98,25 +98,25 @@ persistence:
 
 Define the persistence type
 
-|            |                                                            |
-| ---------- | ---------------------------------------------------------- |
-| Key        | `persistence.$name.type`                                   |
-| Type       | `string`                                                   |
-| Required   | ❌                                                         |
-| Helm `tpl` | ❌                                                         |
-| Default    | See default [here](../fallbackDefaults.md#persistencetype) |
+|            |                                                                      |
+| ---------- | -------------------------------------------------------------------- |
+| Key        | `persistence.$name.type`                                             |
+| Type       | `string`                                                             |
+| Required   | ❌                                                                   |
+| Helm `tpl` | ❌                                                                   |
+| Default    | See default [here](/general/common/fallbackdefaults#persistencetype) |
 
 Valid Values:
 
-- [`hostPath`](./hostPath.md)
-- [`configmap`](./configmap.md)
-- [`secret`](./secret.md)
-- [`device`](./device.md)
-- [`pvc`](./pvc-vct/index.md)
-- [`vct`](./pvc-vct/index.md)
-- [`nfs`](./nfs.md)
-- [`emptyDir`](./emptyDir.md)
-- [`iscsi`](./iscsi.md)
+- [`hostPath`](/general/common/persistence/hostpath)
+- [`configmap`](/general/common/configmap)
+- [`secret`](/general/common/secret)
+- [`device`](/general/common/persistence/device)
+- [`pvc`](/general/common/persistence/pvc-vct)
+- [`vct`](/general/common/persistence/pvc-vct)
+- [`nfs`](/general/common/persistence/nfs)
+- [`emptyDir`](/general/common/persistence/emptydir)
+- [`iscsi`](/general/common/persistence/iscsi)
 
 Example
 
@@ -464,12 +464,12 @@ persistence:
 
 Full examples can be found under each persistence type
 
-- [hostPath](hostPath.md)
-- [configmap](configmap.md)
-- [secret](secret.md)
-- [device](device.md)
-- [pvc](./pvc-vct/index.md)
-- [vct](./pvc-vct/index.md)
-- [nfs](nfs.md)
-- [emptyDir](emptyDir.md)
-- [iscsi](iscsi.md)
+- [hostPath](/general/common/persistence/hostpath)
+- [configmap](/general/common/persistence/configmap)
+- [secret](/general/common/persistence/secret)
+- [device](/general/common/persistence/device)
+- [pvc](/general/common/persistence/pvc-vct)
+- [vct](/general/common/persistence/pvc-vct)
+- [nfs](/general/common/persistence/nfs)
+- [emptyDir](/general/common/persistence/emptydir)
+- [iscsi](/general/common/persistence/iscsi)

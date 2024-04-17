@@ -5,7 +5,7 @@ title: Ingress
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/ingress#full-examples) section for complete examples.
 
 :::
 
@@ -625,7 +625,7 @@ ingress:
 
 Define the cert-manager integration for this ingress
 
-See more details in [Cert Manager Integration](./certManager.md)
+See more details in [Cert Manager Integration](/general/common/ingress/certmanager)
 
 |            |                                          |
 | ---------- | ---------------------------------------- |
@@ -650,7 +650,7 @@ ingress:
 
 Define the traefik integration for this ingress
 
-See more details in [Traefik Integration](./traefik.md)
+See more details in [Traefik Integration](/general/common/ingress/traefik)
 
 |            |                                      |
 | ---------- | ------------------------------------ |
@@ -675,7 +675,7 @@ ingress:
 
 Define the homepage integration for this ingress
 
-See more details in [Homepage Integration](./homepage.md)
+See more details in [Homepage Integration](/general/common/ingress/homepage)
 
 |            |                                       |
 | ---------- | ------------------------------------- |
