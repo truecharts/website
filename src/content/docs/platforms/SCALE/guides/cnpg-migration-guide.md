@@ -12,7 +12,7 @@ This guide will assist you in migrating to the new CNPG operator.
 
 3. Add the system train to your TrueCharts Catalog
 
-![cnpg-add-system-train](./img/Dragonfish-Storage5b.png)
+![cnpg-add-system-train](./img/cobia-dragonfish5b.png)
 
 ## Acquire Database Credentials
 

@@ -104,17 +104,17 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 ![OpenEBS Icon](./img/icons/openebs.png)
 
-As outlined [here](/platforms/scale/migrations/dragonfish-storage), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
+As outlined [here](/platforms/scale/migrations/cobia-dragonfish), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
 
 1. In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
 
 2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
 
-![Catalog Trains](./img/Dragonfish-Storage5.png)
+![Catalog Trains](./img/cobia-dragonfish5.png)
 
 3. If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
-![system List](./img/Dragonfish-Storage5b.png)
+![system List](./img/cobia-dragonfish5b.png)
 
 4. Then install the `OpenEBS` chart
 

@@ -28,7 +28,7 @@ export const authors: Record<string, StarlightBlogAuthor> = {
   },
   jagrbombs: {
     name: "Steven McElligott",
-    title: "Head Moderator and Docs Maintainer",
+    title: "Head Moderator",
     url: "https://github.com/stevenmcelligott",
     picture: "https://avatars.githubusercontent.com/u/89483932?v=4",
   },
