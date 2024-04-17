@@ -176,7 +176,7 @@ service:
 Full examples can be found under each service type
 
 - [ClusterIP](/general/common/service/clusterip)
-- [LoadBalancer](/general/common/service/loadnalancer)
+- [LoadBalancer](/general/common/service/loadbalancer)
 - [NodePort](/general/common/service/nodeport)
 - [ExternalName](/general/common/service/externalname)
 - [ExternalIP](/general/common/service/externalip)
