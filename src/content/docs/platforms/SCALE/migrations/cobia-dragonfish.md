@@ -15,15 +15,15 @@ Please read this migration guide carefully _before_ upgrading to DragonFish.
 
 iX-Systems no longer maintains or supports any form of PVC-based storage for apps. This includes their own "legacy" storage backend. This means that when using the following SCALE features, you will lose some functionality:
 
-**SCALE Backup and Restore (unreleased feature available through HeavyScript)**
+### SCALE Backup and Restore (unreleased feature available through HeavyScript)
 
 _Will no longer back up storage at all._
 
-**SCALE Rollback**
+### SCALE Rollback
 
 _You will no longer be able to roll back any storage._
 
-**SCALE App pool migration**
+### SCALE App pool migration
 
 _You will no longer be able to migrate storage using the pool migration feature in SCALE._
 
