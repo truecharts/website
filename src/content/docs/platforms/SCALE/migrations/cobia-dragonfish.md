@@ -4,11 +4,11 @@ title: Cobia to DragonFish Storage Migration
 
 :::caution[Execute all steps at once]
 
-Its imperative to execute **ALL** steps in this guide in one sitting.
-If you reboot or take any kind of time-off, we cannot guarantee your data and apps stay working
+It's imperative to execute **ALL** steps in this guide in one sitting. If you reboot or take any time away from this task, we cannot guarantee your data and apps stay working.
+Please only continue when you have time available to complete the migration.
 
-It's also important to note that migration to Dragonfish **requires** reinstallation of all Apps. For which a automated solution is available in the guide as well.
-Please read this migration guide carefully, *before* upgrading to dragonfish.
+It's also important to note that the migration to DragonFish **requires** reinstallation of all Apps. For which an automated solution is available in the guide as well.
+Please read this migration guide carefully *before* upgrading to DragonFish.
 :::
 
 ## Important Changes
@@ -53,9 +53,9 @@ After installing the `OpenEBS` app from the above guide, run the following and y
 
 `sudo curl -s https://truecharts.org/openebsmv.sh | bash`
 
-### Migrating to new storage
+### Migrating to New Storage
 
 Sadly enough, we require re-installation of all Apps to be migrated to the new storage solution.
 
-However, thanks to the great collaboration with HeavyBullets, you can use his TT-Migration tool, to automate most of the installation process:
+However, thanks to great collaboration with HeavyBullets, you can use his TT-Migration tool to automate most of the installation process:
 https://github.com/Heavybullets8/TT-Migration
