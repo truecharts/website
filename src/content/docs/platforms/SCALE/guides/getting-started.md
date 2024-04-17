@@ -110,11 +110,11 @@ As outlined [here](/platforms/scale/migrations/cobia-dragonfish), iX-Systems no 
 
 2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
 
-![Catalog Trains](./img/cobia-dragonfish5.png)
+![Catalog Trains](./img/Dragonfish-Storage5.png)
 
 3. If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
-![system List](./img/cobia-dragonfish5b.png)
+![system List](./img/Dragonfish-Storage5b.png)
 
 4. Then install the `OpenEBS` chart
 
