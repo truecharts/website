@@ -21,7 +21,7 @@ const links: Array<Link> = [
     links.map((link) => (
       <a
         class="hover:scale-110 flex flex-row items-center gap-1 hover:border-b-4 border-tc-primary transition-all"
-        href={link.href}
+        href={link.href} data-astro-prefetch="load"
       >
         <p class="font-bold text-lg max-lg:text-xs max-md:text-xs">
           {link.name}
