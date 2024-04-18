@@ -30,6 +30,8 @@
 /manual/intro /general/ 301
 /*/intro /:splat/ 301
 
+# Hack to cover old chart-icons for now
+/img/hotlink-ok/chart-icons/*.png /img/hotlink-ok/chart-icons/:splat.webp 301
 
 # old->new website
 /manual/* /general/:splat 301
