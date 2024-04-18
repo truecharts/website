@@ -23,6 +23,13 @@
 /charts/operators/* /charts/system/:splat 308
 /charts/enterprise/* /charts/premium/:splat 308
 
+# Cover for .md linknames
+/*.md /:splat 301
+
+# Cover for intro pages now being index
+/manual/intro /general/ 301
+/*/intro /:splat/ 301
+
 
 # old->new website
 /manual/* /general/:splat 301
