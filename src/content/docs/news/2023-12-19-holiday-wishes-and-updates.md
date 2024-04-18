@@ -3,6 +3,8 @@ slug: "news/2023-holiday-wishes-and-updates"
 title: "🎄 Merry Christmas / Happy Holidays from TrueCharts! 🎄"
 authors: [jagrbombs]
 date: 2023-12-19
+tags:
+  - "2023"
 ---
 
 As the holiday season sparkles around us, we at [TrueCharts](https://truecharts.org) want to extend our warmest wishes for a Merry Christmas to our incredible community. This year has been a remarkable journey, and we couldn't have done it without you!

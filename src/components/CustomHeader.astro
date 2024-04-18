@@ -8,8 +8,11 @@ import SiteTitle from "@astrojs/starlight/components/SiteTitle.astro";
 import SocialIcons from "@astrojs/starlight/components/SocialIcons.astro";
 import ThemeSelect from "@astrojs/starlight/components/ThemeSelect.astro";
 import Navigation from "./Navigation.astro";
+// Use the image zoom, can be rendered anywhere
+import ImageZoom from "starlight-image-zoom/components/ImageZoom.astro";
 ---
 
+<ImageZoom />
 <div class="header sl-flex">
   <div class="title-wrapper sl-flex">
     <SiteTitle {...Astro.props} />

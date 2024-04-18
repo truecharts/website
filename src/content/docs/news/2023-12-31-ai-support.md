@@ -3,6 +3,8 @@ slug: "news/AI-Support"
 title: "Introducing our AI bot: TrueAI"
 authors: [ornias]
 date: 2023-12-31
+tags:
+  - "2023"
 ---
 
 As 2023 comes to a close, we're excited to introduce TrueAI, our new support AI for TrueCharts, TrueNAS, and HeavyScript users. This is our way of stepping into 2024 with a focus on enhancing user support through technology.

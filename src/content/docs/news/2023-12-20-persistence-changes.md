@@ -3,6 +3,8 @@ slug: "news/persistence-changes"
 title: "Changes to Storage, Persistence, and PostgreSQL"
 authors: [ornias]
 date: 2023-12-20
+tags:
+  - "2023"
 ---
 
 We're glad to announce that shortly we will release a big update to all our Apps. This will be a complex update that technically includes a few changes that might break some specific features for some users. While we do not foresee any data loss, it's imperative to back up your data.

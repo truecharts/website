@@ -3,6 +3,8 @@ slug: "news/arr-revert"
 title: "*Arr revert"
 authors: [ornias]
 date: 2023-04-18
+tags:
+  - "2023"
 ---
 
 While most of our migration to new common worked out reasonably well, we've received many issues with regards to another change.

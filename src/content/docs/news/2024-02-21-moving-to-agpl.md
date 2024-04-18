@@ -3,6 +3,8 @@ slug: "news/2024-licensing-changes"
 title: "Exciting Licensing Changes"
 authors: [ornias]
 date: 2024-02-21
+tags:
+  - "2024"
 ---
 
 We've made some important updates regarding the licensing of our Chart Repository and associated Helm-charts. After careful consideration, we have made decisions that we believe will better align with the needs of our OpenSource user base and contribute to the continued growth of the TrueCharts ecosystem.

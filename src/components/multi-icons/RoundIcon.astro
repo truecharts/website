@@ -1,16 +1,15 @@
 ---
 import { Image } from "astro:assets";
 
-let { name, image, profile } = Astro.props;
+let { id, img, url } = Astro.props;
 ---
 
 <li class="flex hover:scale-125 duration-300">
-  <a href={profile}>
-    <!-- On prod it width and height will be inferred from the imported image  -->
+  <a href={url}>
     <Image
-      src={image}
+      src={img}
       class="rounded-full !h-8 !w-8 object-cover"
-      alt={name}
+      alt={id}
       width={32}
       height={32}
     />

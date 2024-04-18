@@ -3,6 +3,8 @@ slug: "news/common-porting-progress"
 title: "Common Porting Progress"
 authors: [ornias]
 date: 2023-04-14
+tags:
+  - "2023"
 ---
 
 We're close to releasing releasing the breaking port of another 50+ of our "Stable" train charts to the new common train. With this, we want to look back on a few things we've noticed with the initial release:

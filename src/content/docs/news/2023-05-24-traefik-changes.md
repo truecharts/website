@@ -3,6 +3,8 @@ slug: "news/traefik-changes"
 title: "Traefik Changes"
 authors: [ornias]
 date: 2023-05-24
+tags:
+  - "2023"
 ---
 
 BLUF: Traefik (Stable) is Deprecated. Users need to add the Enterprise channel and install Traefik.

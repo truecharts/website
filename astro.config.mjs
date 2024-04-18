@@ -90,13 +90,11 @@ export default defineConfig({
       editLink: {
         baseUrl: "https://github.com/truecharts/chart-docs/edit/main/docs",
       },
-      lastUpdated: true,
       components: {
         Header: "./src/components/CustomHeader.astro",
         Hero: "./src/components/CustomHero.astro",
       },
       plugins: [
-        starlightImageZoom(),
         starlightBlog({
           prefix: "news",
           title: "TrueCharts News",
@@ -104,6 +102,8 @@ export default defineConfig({
           recentPostCount: 10,
           authors: authors,
         }),
+        // Do not put that before starlightBlog
+        starlightImageZoom(),
         starlightLinksValidator({
           errorOnRelativeLinks: false,
           errorOnFallbackPages: false,

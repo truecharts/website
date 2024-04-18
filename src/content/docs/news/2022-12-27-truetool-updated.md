@@ -3,6 +3,8 @@ slug: "news/truetool-updated"
 title: "TrueTool, Refreshed"
 authors: [ornias]
 date: 2022-12-27
+tags:
+  - "2022"
 ---
 
 We are excited to announce that we have completely reworked our "TrueTool" tool to improve its functionality and reliability.

@@ -3,6 +3,8 @@ slug: "news/stability-tiers-and-helm"
 title: "Stability Tiers and Helm Support"
 authors: [ornias]
 date: 2023-11-11
+tags:
+  - "2023"
 ---
 
 We're very glad to announce a new step in our project: Stability Tiers.

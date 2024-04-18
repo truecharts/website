@@ -3,6 +3,8 @@ slug: "news/train-renames"
 title: "Refreshed Train Names, Team Changes and DragonFish Support"
 authors: [ornias]
 date: 2024-03-16
+tags:
+  - "2024"
 ---
 
 We're back with some thrilling announcements that promise to enhance your experience with our platform. From revamped train names to key team appointments and even experimental support for TrueNAS SCALE 24.04 DragonFish, there's a lot to unpack. Let's dive right in!

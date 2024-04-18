@@ -3,6 +3,8 @@ slug: "news/new-chartslist"
 title: "A new ChartsList"
 authors: [ornias]
 date: 2023-03-24
+tags:
+  - "2023"
 ---
 
 After a lot of work by @xstar and review by our staff, we've finally officially released our new fancy charts list.

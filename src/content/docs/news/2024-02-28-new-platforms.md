@@ -3,6 +3,8 @@ slug: "news/embrace-kubeapps"
 title: "Embrace KubeApps, Rancher, and FluxCD! 🚀"
 authors: [ornias]
 date: 2024-02-28
+tags:
+  - "2024"
 ---
 
 Exciting news! TrueCharts is taking a leap forward by officially adding support for KubeApps, Rancher, and FluxCD to our deployment options. This expansion complements our existing support for Normal "Native" Helm Charts and TrueNAS SCALE Apps, offering you a broader range of choices for seamless application deployment.
