@@ -12,7 +12,7 @@ This guide uses the [HeavyBullets Migration Guide for PVCs](https://github.com/H
 
 **Note:** Make sure you have a Heavyscript backup _and_ a replication of this backup.
 
-:::warning
+:::caution
 
 Really make sure you have a backup/replication ready in case something goes wrong or you delete a PVC too quickly
 
@@ -62,7 +62,7 @@ Anything that doesn't have a database _should_ succeed. Here's an incomplete lis
 `unpackerr`
 `uptime-kuma`
 
-:::warning Not Working
+:::caution[Not Working]
 
 This script does **not** work with Prometheus, so please follow our more extensive [PVC Migration Guide with Postgres support](/platforms/scale/guides/migration-pvc/) guide.
 

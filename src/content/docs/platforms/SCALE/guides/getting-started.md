@@ -16,7 +16,7 @@ Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE in
 - You are signed into your TrueNAS SCALE WebUI as `root` or as a user that can execute commands with `root` permissions.
 - Your apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/) for your Apps.
 
-:::info Quick start guides
+:::tip[Quick start guides]
 
 Below are the tl;dr versions of the full setup for certain use cases, scroll down for short blurbs on each step and why they're recommended.
 
@@ -58,27 +58,17 @@ To add TrueCharts to your SCALE installation:
 
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
-Note: If you're having issues adding the Truecharts catalog to SCALE, you may need to check the "Force Create" button. This can sometimes occur on systems with slow internet connections or insufficient processing power.
+:::note[Potential issue with adding catalog]
 
-:::info Introduction to TrueNAS SCALE Guide
+If you're having issues adding the TrueCharts catalog to SCALE, you may need to check the "Force Create" button. This can sometimes occur on systems with slow internet connections or insufficient processing power.
+
+:::
+
+:::tip[Introduction to TrueNAS SCALE Guide]
 
 Please free to check out our [Introduction to TrueNAS SCALE](/platforms/scale/guides/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
 
 :::
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
-     crossorigin="anonymous"></script>
-
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9270569596814796"
-     data-ad-slot="1707785957"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## Getting started using Charts with your own Domain
 
@@ -110,11 +100,43 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 
 Once you've added the TrueCharts catalog, we also recommend installing [HeavyScript](https://github.com/Heavybullets8/heavy_script#how-to-install) and configuring it to run nightly with a [cron job](https://github.com/Heavybullets8/heavy_script#how-to-create-a-cron-job). HeavyScript is a bash script for managing TrueNAS SCALE applications, automatically updating those applications, backing up applications datasets, opening a shell for containers, and many other features. Please visit the [HeavyScript GitHub Page](https://github.com/Heavybullets8/heavy_script) for more info.
 
+## OpenEBS Setup
+
+![OpenEBS Icon](./img/icons/openebs.png)
+
+As outlined [here](/platforms/scale/migrations/cobia-dragonfish), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
+
+1. In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
+
+2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
+
+![Catalog Trains](./img/Dragonfish-Storage5.png)
+
+3. If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
+
+![system List](./img/Dragonfish-Storage5b.png)
+
+4. Then install the `OpenEBS` chart
+
+![OpenEBS Icon](./img/icons/openebs.png)
+
+5. Please ensure you've chosen a **Pool/Dataset** that's **not** inside `ix-applications` and do not include `/mnt/` in front of the pool/dataset, as shown below
+
+![OpenEBS Storage](./img/OpenEBS-storage.png)
+
+:::danger
+
+When setting the `pool/dataset` as above, do **not** set the path to the existing ix-applications dataset
+
+:::
+
+It's important to set the `pool/dataset` to the dataset you want to store the folders with the application data in them.
+
 ## MetalLB installation and disabling integrated LoadBalancer
 
 ![metallb](./img/icons/metallb.png)
 
-This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated Loadbalancer. Please refer to that page for more info.
+This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated LoadBalancer. Please refer to that page for more info.
 
 ## Prometheus and CNPG system app installations
 
@@ -142,19 +164,7 @@ An optional but extra function enabled by Traefik and supported by many Truechar
 
 TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is deprecated and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](/charts/premium/clusterissuer/how-to) before adding `Ingress` to your applications.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9270569596814796"
-     crossorigin="anonymous"></script>
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-9270569596814796"
-     data-ad-slot="1707785957"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ## Blocky DNS provider for split-DNS installation and guide
 

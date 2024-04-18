@@ -1,17 +1,20 @@
 words:
   - astrojs
+  - automount
   - Bitnami
   - bitpushr
   - cloudnative
   - clusterissuer
   - CNPG
   - Collabora
+  - configmap
   - Dockerhub
   - downscaling
   - Dragonfish
   - frontmatter
   - heavyscript
   - hyperconverged
+  - iscsi
   - Jagr
   - jagrbombs
   - Jailman

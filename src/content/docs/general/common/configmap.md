@@ -5,7 +5,7 @@ title: Configmap
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/configmap#full-examples) section for complete examples.
 
 :::
 
@@ -18,9 +18,7 @@ title: Configmap
 - `$FullName-$ConfigmapName` (release-name-chart-name-configmap-name)
 
 :::tip
-
 - Replace references to `$name` with the actual name you want to use.
-
 :::
 
 ---

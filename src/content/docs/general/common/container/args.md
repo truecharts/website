@@ -5,7 +5,7 @@ title: Args
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/container/args#full-examples) section for complete examples.
 
 :::
 

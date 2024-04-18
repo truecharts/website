@@ -1,43 +1,9 @@
 ---
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import CardGrid from "../components/CardGrid.astro";
+import MultiIcons from "../components/multi-icons/MultiIcons.astro";
 import { Card } from "@astrojs/starlight/components";
 import { Icon } from "@astrojs/starlight/components";
-import { contributors as allContributors } from "../assets/contributors.json";
-import allSponsors from "../assets/sponsors.json";
-import RoundIcon from "../components/RoundIcon.astro";
-
-const sponsors = allSponsors.map((s) => ({
-  name: s.name,
-  image: s.image,
-  profile: s.profile,
-  github: s.github,
-}));
-
-const contributors = allContributors.map((c) => ({
-  name: c.name,
-  image: c.avatar_url,
-  profile: c.profile,
-  github: c.profile,
-}));
-
-const allPeople = [...contributors, ...sponsors];
-// Remove people with no image
-const filteredPople = allPeople.filter((p) => p.image !== null);
-const finalPeople = filteredPople.reduce(
-  (total, person) => {
-    // if github is already in total, skip
-    if (total.some((p) => p.github === person.github)) return total;
-    //  if profile is already in total, skip
-    if (total.some((p) => p.profile === person.profile)) return total;
-    // if name is already in total, skip
-    if (total.some((p) => p.name === person.name)) return total;
-
-    total.push(person);
-    return total;
-  },
-  [] as typeof filteredPople
-);
 
 const listItemClass =
   "flex flex-row items-center gap-0 space-y-0 hover:scale-110 duration-1000 group";
@@ -52,7 +18,7 @@ const iconClass = "mr-2 group-hover:animate-ping";
     template: "splash",
     banner: {
       content:
-        'TrueCharts and OpenSource can only exist with your continued <a class="underline" target="_blank" href="/s/oc">support</a>',
+        'TrueCharts and OpenSource can only exist with your continued <a class="underline" target="_blank" href="https://opencollective.com/truecharts">support</a>',
     },
     hero: {
       tagline: "Your Source for Awesome Helm-Charts!",
@@ -68,12 +34,12 @@ const iconClass = "mr-2 group-hover:animate-ping";
         },
         {
           text: "Sponsor TrueCharts",
-          link: "/s/oc",
+          link: "https://opencollective.com/truecharts",
           icon: "external",
         },
         {
           text: "Join us on Discord",
-          link: "/s/discord",
+          link: "https://discord.gg/tVsPTHWTtr",
           icon: "external",
         },
       ],
@@ -200,25 +166,5 @@ const iconClass = "mr-2 group-hover:animate-ping";
       </ul>
     </Card>
   </CardGrid>
-
-  {
-    contributors.length > 0 && (
-      <div class="text-center">
-        <div class="text-3xl max-md:text-2xl max-sm:text-xl text-balance font-extrabold !my-10 underline decoration-tc-primary underline-offset-8 decoration-4">
-          Over{" "}
-          <span class="text-tc-primary">
-            {/* Number might be lower than actual due to filtering */}
-            {finalPeople.length}
-          </span>{" "}
-          amazing <span class="text-tc-primary">Contributors</span> and{" "}
-          <span class="text-tc-primary">Sponsors</span>
-        </div>
-        <div class="mt-20 list-none flex-row flex flex-wrap justify-center gap-2 p-0">
-          {finalPeople.map((person) => (
-            <RoundIcon {...person} />
-          ))}
-        </div>
-      </div>
-    )
-  }
+  <MultiIcons />
 </StarlightPage>

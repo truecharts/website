@@ -30,7 +30,7 @@ The reason this is not needed in most Apps, is because we already have great opt
 
 Please refer to the documentation of individual Apps or the Support-Discussions section on github, if you think you might need this setting in your specific use case.
 
-:::info
+:::note
 
 "When using host networking, a port is linked to the pod. Sadly enough, those ports are NOT correctly freed when hostNetworking is disabled in the future". This is an upstream/kubernetes limitation that's being actively discussed [here](https://github.com/k3s-io/k3s/discussions/7382).
 
@@ -49,7 +49,7 @@ If shown, one may choose the `Service Type` for their application. Might be mult
 - `Service Port`:
   - This port exposes the container port on the service. This port is the `external` port to reach the application.
 
-:::warning Show Expert Config
+:::caution[Show Expert Config]
 
 Checking the `Show Expert Config` box enables one to change many expert or advanced options not described here. Enabling them may render you application unable to deploy and is advised for advanced Kubernetes users only.
 

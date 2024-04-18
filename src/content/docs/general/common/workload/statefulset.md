@@ -5,8 +5,8 @@ title: StatefulSet
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
-- See the [Workload](../index.md) documentation for more information
+- See the [Full Examples](/general/common/workload/statefulset#full-examples) section for complete examples.
+- See the [Workload](/general/common/workload) documentation for more information
 
 :::
 
@@ -187,7 +187,7 @@ workload:
 
 Notes:
 
-View common `keys` of `workload` in [workload Documentation](../index.md).
+View common `keys` of `workload` in [workload Documentation](/general/common/workload).
 
 > Value of `workload.[workload-name].podSpec.restartPolicy` can only be `Always` for this type of workload
 

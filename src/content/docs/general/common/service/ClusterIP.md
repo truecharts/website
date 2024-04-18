@@ -5,8 +5,8 @@ title: ClusterIP
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
-- See the [Service](./index.md) documentation for more information
+- See the [Full Examples](/general/common/service/clusterip#full-examples) section for complete examples.
+- See the [Service](/general/common/service) documentation for more information
 
 :::
 
@@ -16,7 +16,7 @@ title: ClusterIP
 
 :::tip
 
-- See available service keys [here](./index.md).
+- See available service keys [here](/general/common/service).
 - This options apply only when `type: ClusterIP`.
 
 :::

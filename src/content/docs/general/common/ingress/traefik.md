@@ -5,7 +5,7 @@ title: Traefik Integration
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/ingress/traefik#full-examples) section for complete examples.
 
 :::
 
@@ -61,15 +61,15 @@ Define the entrypoints for this traefik integration
 
 ## `enableFixedMiddlewares`
 
-Enable or disable the [fixedMiddlewares](../global.md#traefikfixedmiddlewares)
+Enable or disable the [fixedMiddlewares](/general/common/global#traefikfixedmiddlewares)
 
-|            |                                                                |
-| ---------- | -------------------------------------------------------------- |
-| Key        | `ingress.$name.integrations.traefik.enableFixedMiddlewares`    |
-| Type       | `bool`                                                         |
-| Required   | ❌                                                             |
-| Helm `tpl` | ❌                                                             |
-| Default    | See default [here](../global.md#traefikenablefixedmiddlewares) |
+|            |                                                                          |
+| ---------- | ------------------------------------------------------------------------ |
+| Key        | `ingress.$name.integrations.traefik.enableFixedMiddlewares`              |
+| Type       | `bool`                                                                   |
+| Required   | ❌                                                                       |
+| Helm `tpl` | ❌                                                                       |
+| Default    | See default [here](/general/common/global#traefikenablefixedmiddlewares) |
 
 Example
 
@@ -91,7 +91,7 @@ Force TLS on this ingress
 
 Adds the `traefik.ingress.kubernetes.io/router.tls` annotation.
 
-It does that both with this set OR when [entrypoints](#entrypoints) include `websecure`
+It does that both with this set OR when [entrypoints](/general/common/ingress/traefik#entrypoints) include `websecure`
 
 :::
 
@@ -123,8 +123,8 @@ Allow CORS on this ingress
 
 Relaxes some security settings to allow CORS requests.
 
-Specifically, it uses [these middlewares](../global.md#traefikallowcorsmiddlewares)
-instead of the [fixedMiddlewares](../global.md#traefikfixedmiddlewares)
+Specifically, it uses [these middlewares](/general/common/global#traefikallowcorsmiddlewares)
+instead of the [fixedMiddlewares](/general/common/global#traefikfixedmiddlewares)
 
 :::
 
@@ -152,13 +152,13 @@ ingress:
 
 Override the fixed middlewares for this traefik integration
 
-|            |                                                          |
-| ---------- | -------------------------------------------------------- |
-| Key        | `ingress.$name.integrations.traefik.fixedMiddlewares`    |
-| Type       | `list` of `map`                                          |
-| Required   | ❌                                                       |
-| Helm `tpl` | ❌                                                       |
-| Default    | See default [here](../global.md#traefikfixedmiddlewares) |
+|            |                                                                    |
+| ---------- | ------------------------------------------------------------------ |
+| Key        | `ingress.$name.integrations.traefik.fixedMiddlewares`              |
+| Type       | `list` of `map`                                                    |
+| Required   | ❌                                                                 |
+| Helm `tpl` | ❌                                                                 |
+| Default    | See default [here](/general/common/global#traefikfixedmiddlewares) |
 
 Example
 

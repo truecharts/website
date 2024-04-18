@@ -2,7 +2,7 @@
 title: adguardhome-sync
 ---
 
-![Version: 6.8.5](https://img.shields.io/badge/Version-6.8.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6.9](https://img.shields.io/badge/AppVersion-0.6.9-informational?style=flat-square)
+![Version: 6.8.7](https://img.shields.io/badge/Version-6.8.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.6.9](https://img.shields.io/badge/AppVersion-0.6.9-informational?style=flat-square)
 
 Synchronize AdGuardHome config to replica instances.
 

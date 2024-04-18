@@ -5,7 +5,7 @@ title: Global
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](#full-examples) section for complete examples.
+- See the [Full Examples](/general/common/global#full-examples) section for complete examples.
 
 :::
 
@@ -236,7 +236,7 @@ global:
 
 ### `traefik.enableFixedMiddlewares`
 
-See documentation [here](./ingress/traefik.md#enablefixedmiddlewares)
+See documentation [here](/general/common/ingress/traefik#enablefixedmiddlewares)
 
 Default
 
@@ -250,7 +250,7 @@ global:
 
 ### `traefik.fixedMiddlewares`
 
-See documentation [here](./ingress/traefik.md#fixedmiddlewares)
+See documentation [here](/general/common/ingress/traefik#fixedmiddlewares)
 
 Default
 
@@ -266,7 +266,7 @@ global:
 
 #### `traefik.fixedMiddlewares[].name`
 
-See documentation [here](./ingress/traefik.md#fixedmiddlewaresname)
+See documentation [here](/general/common/ingress/traefik#fixedmiddlewaresname)
 
 Example
 
@@ -281,7 +281,7 @@ global:
 
 #### `traefik.fixedMiddlewares[].namespace`
 
-See documentation [here](./ingress/traefik.md#fixedmiddlewaresnamespace)
+See documentation [here](/general/common/ingress/traefik#fixedmiddlewaresnamespace)
 
 Example
 
