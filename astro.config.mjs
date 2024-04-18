@@ -35,7 +35,7 @@ export default defineConfig({
   compressHTML: true,
   prefetch: {
     prefetchAll: true,
-    defaultStrategy: "load",
+    defaultStrategy: "hoover",
   },
   build: {
     output: "directory",
