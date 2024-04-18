@@ -5,7 +5,7 @@ let { id, img, url } = Astro.props;
 ---
 
 <li class="flex hover:scale-125 duration-300">
-  <a href={url} data-astro-prefetch="hover">
+  <a href={url}>
     <Image
       src={img}
       class="rounded-full !h-8 !w-8 object-cover"
