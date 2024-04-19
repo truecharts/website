@@ -4,6 +4,7 @@ import CardGrid from "../components/CardGrid.astro";
 import MultiIcons from "../components/multi-icons/MultiIcons.astro";
 import { Card } from "@astrojs/starlight/components";
 import { Icon } from "@astrojs/starlight/components";
+import { AnimatedHeroValue } from "../components/CustomHero.astro";
 
 const listItemClass =
   "flex flex-row items-center gap-0 space-y-0 hover:scale-110 duration-1000 group";
@@ -23,7 +24,7 @@ const iconClass = "mr-2 group-hover:animate-ping";
     hero: {
       tagline: "Your Source for Awesome Helm-Charts!",
       image: {
-        html: "tc-animated",
+        html: AnimatedHeroValue,
       },
       actions: [
         {

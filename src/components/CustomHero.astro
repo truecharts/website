@@ -9,7 +9,7 @@ const { title = data.title, tagline, image, actions = [] } = data.hero || {};
 
 // Magic Value to render animation
 // Set this value to `hero.image.html` in any frontmatter
-const magicValue = "tc-animated";
+export const AnimatedHeroValue = "tc-animated";
 
 const imageAttrs = {
   loading: "eager" as const,
@@ -50,14 +50,14 @@ if (image) {
     )
   }
   {
-    rawHtml && rawHtml === magicValue && (
-      <div class="hero-html">
+    rawHtml && rawHtml === AnimatedHeroValue && (
+      <div class="hero-html !w-52 !h-52 md:!w-72 md:!h-72 lg:!w-96 lg:!h-96">
         <LottieAnimation src="/logo-2024.json" autoplay="visible" />
       </div>
     )
   }
   {
-    rawHtml && rawHtml !== magicValue && (
+    rawHtml && rawHtml !== AnimatedHeroValue && (
       <div class="hero-html sl-flex" set:html={rawHtml} />
     )
   }
