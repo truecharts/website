@@ -15,4 +15,5 @@ Unofficial Bitwarden compatible server written in Rust
 ## Available Documentation
 
 - [**Changelog**](./CHANGELOG.md)
+- [**Changing Database Password**](./changingpassword.md)
 - [**Disabling the Admin Interface**](./disable-admin-page-guide.md)
