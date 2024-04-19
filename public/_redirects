@@ -17,20 +17,29 @@
 
 # truecharts
 /s /sponsor 308
-/blog /news 308
+/blog/* /news 308
 
 # big chart-changes
-/charts/operators /charts/system 308
-/charts/enterprise /charts/premium 308
+/charts/operators/* /charts/system/:splat 308
+/charts/enterprise/* /charts/premium/:splat 308
 
+# Cover for .md linknames
+/*.md /:splat 301
+
+# Cover for intro pages now being index
+/manual/intro /general/ 301
+/*/intro /:splat/ 301
+
+# Hack to cover old chart-icons for now
+/img/hotlink-ok/chart-icons/*.png /img/hotlink-ok/chart-icons/:splat.webp 301
 
 # old->new website
-/manual /general 308
-/manual/development /development 308
-/manual/helm /platforms/helm 308
-/manual/kubeapps /platforms/kubeapps 308
-/manual/fluxcd /platforms/fluxcd 308
-/manual/SCALE /platforms/scale 308
-/manual/rancher /platforms/rancher 308
-/manual/argocd /platforms/argocd 308
+/manual/* /general/:splat 301
+/manual/development/* /development/:splat 301
+/manual/helm/* /platforms/helm/:splat 301
+/manual/kubeapps/* /platforms/kubeapps/:splat 301
+/manual/fluxcd/* /platforms/fluxcd/:splat 301
+/manual/SCALE/* /platforms/scale/:splat 301
+/manual/rancher/* /platforms/rancher/:splat 301
+/manual/argocd/* /platforms/argocd/:splat 301
 

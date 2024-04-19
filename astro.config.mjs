@@ -34,8 +34,7 @@ export default defineConfig({
   trailingSlash: "ignore",
   compressHTML: true,
   prefetch: {
-    prefetchAll: true,
-    defaultStrategy: "load",
+    prefetchAll: true
   },
   build: {
     output: "directory",
