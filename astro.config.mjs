@@ -40,9 +40,9 @@ export default defineConfig({
     output: "directory",
   },
   experimental: {
-    // TODO: Enable this after bug is fixed
+    // TODO: Make sure this stays working
     //  https://github.com/withastro/astro/issues/9353
-    contentCollectionCache: false,
+    contentCollectionCache: true,
   },
   integrations: [
     starlight({
