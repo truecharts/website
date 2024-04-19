@@ -34,7 +34,9 @@
 /img/hotlink-ok/chart-icons/*.png /img/hotlink-ok/chart-icons/:splat.webp 301
 
 # old->new website
+/general/SCALE/guides/getting-started/ /platforms/scale/guides/getting-started/ 301
 /manual/* /general/:splat 301
+/general/SCALE/* /platforms/scale/:splat 301
 /manual/development/* /development/:splat 301
 /manual/helm/* /platforms/helm/:splat 301
 /manual/kubeapps/* /platforms/kubeapps/:splat 301
