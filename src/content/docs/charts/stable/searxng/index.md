@@ -2,7 +2,7 @@
 title: searxng
 ---
 
-![Version: 7.8.13](https://img.shields.io/badge/Version-7.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 7.8.14](https://img.shields.io/badge/Version-7.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Meta search engine which aggregates results from more than 70 search services.
 
