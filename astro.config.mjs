@@ -40,9 +40,9 @@ export default defineConfig({
     output: "directory",
   },
   experimental: {
-    // TODO: Make sure this stays working
+    // TODO: Enable this after bug is fixed
     //  https://github.com/withastro/astro/issues/9353
-    contentCollectionCache: true,
+    contentCollectionCache: false,
   },
   integrations: [
     starlight({
@@ -135,10 +135,26 @@ export default defineConfig({
           },
         },
         {
-          label: "Platforms",
+          label: "Helm",
           collapsed: true,
           autogenerate: {
-            directory: "platforms",
+            directory: "helm",
+          },
+        },
+
+        {
+          label: "FluxCD",
+          collapsed: true,
+          autogenerate: {
+            directory: "FluxCD",
+          },
+        },
+
+        {
+          label: "TrueNAS SCALE",
+          collapsed: true,
+          autogenerate: {
+            directory: "TrueNAS SCALE Apps",
           },
         },
         {
