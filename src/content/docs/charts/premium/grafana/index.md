@@ -11,8 +11,8 @@ Grafana is an open source, feature rich metrics dashboard and graph editor for G
 - https://grafana.com/
 - https://github.com/bitnami/bitnami-docker-grafana
 - https://github.com/truecharts/charts/tree/master/charts/premium/grafana
-- https://hub.docker.com/r/grafana/grafana
 - https://quay.io/kiwigrid/k8s-sidecar
+- https://hub.docker.com/r/grafana/grafana
 
 ## Available Documentation
 
