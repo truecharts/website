@@ -11,6 +11,22 @@ To installing whatever application you want from our Helm repository, we got you
 
 We even aim to provide thorough support throughout the years to keep people up-and-running with these clusters.
 
+## GOAT Parts
+
+For building a GOAT cluster we've decided to use the following components:
+
+- TrueCharts ClusterTool
+- FluxCD as GitOps toolgit
+- TalosOS as Operating System
+- MetalLM as a LoadBalancer
+- Celium for kubernetes networking
+- Cert-Manager for Certificate management
+- Traefik for Ingress
+- OpenEBS LocalPV for local storage
+- Cloudflare for managing DNS
+- A real Domain
+
+
 ## Why Kubernetes
 
 Kubernetes is *the* industry standard orchestration tool.
@@ -25,6 +41,8 @@ With kubernetes you describe what you want the cluster to do and all the intrica
 
 No, a cluster can be a single or multiple nodes or multiple racks or even multiple buildings.
 You can make it as simple as you want, but even a single VM can be a perfect cluster in-and-off-itself!
+
+Mater of factly we advice users to start-out with a single node cluster, because that means they won't have to bother with complicated storage solutions.
 
 
 ## Why FluxCD?
