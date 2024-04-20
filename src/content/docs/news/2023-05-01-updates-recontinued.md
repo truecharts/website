@@ -48,4 +48,4 @@ At the same time we're going to work on ensuring all our SCALE specific tricks (
 To highlight this, we've asked Artifact hub, to highlight our Common-Library chart, as an "official" TrueCharts Helm chart.
 All users of helm should be able to use the power of this advanced common-library, to build the Helm Charts they please... Without even relying on TrueCharts to host their charts for them!
 
-Check it out [here](https://artifacthub.io/packages/helm/truecharts-library-charts/common) and also check out the [docs](/general/common/) as always.
+Check it out [here](https://artifacthub.io/packages/helm/truecharts-library-charts/common) and also check out the [docs](/common/) as always.
