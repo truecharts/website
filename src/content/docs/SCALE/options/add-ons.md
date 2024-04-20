@@ -21,4 +21,4 @@ This section is all unchecked by default, checking each option will display the 
 
 ### `VPN`:
 
-This section has its own guide in our manual, so please refer to our [manual](/platforms/scale/guides/vpn-setup/) for a full description and guide to setup a VPN for your application.
+This section has its own guide in our manual, so please refer to our [manual](/scale/guides/vpn-setup/) for a full description and guide to setup a VPN for your application.

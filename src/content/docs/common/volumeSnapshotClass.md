@@ -5,7 +5,7 @@ title: Volume Snapshot Class
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/volumesnapshotclass#full-examples) section for complete examples.
+- See the [Full Examples](/common/volumesnapshotclass#full-examples) section for complete examples.
 
 :::
 

@@ -5,7 +5,7 @@ title: Cert Manager Integration
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/ingress/certmanager#full-examples) section for complete examples.
+- See the [Full Examples](/common/ingress/certmanager#full-examples) section for complete examples.
 
 :::
 

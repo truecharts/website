@@ -5,15 +5,15 @@ title: Env
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/container/env#full-examples) section for complete examples.
+- See the [Full Examples](/common/container/env#full-examples) section for complete examples.
 
 :::
 
 :::tip
 
 Variable names will be scanned for duplicates across all
-[secrets](/general/common/secret), [configmaps](/general/common/configmap),
-[env](/general/common/container/env), [envList](/general/common/container/envlist) and [fixedEnv](/general/common/container/fixedenv)
+[secrets](/common/secret), [configmaps](/common/configmap),
+[env](/common/container/env), [envList](/common/container/envlist) and [fixedEnv](/common/container/fixedenv)
 and will throw an error if it finds any.
 
 :::
@@ -110,7 +110,7 @@ Define the configMap name
 :::note
 
 This will be automatically expanded to `fullname-secret-name`.
-You can opt out of this by setting [`expandObjectName`](/general/common/container/env#envkeyconfigmapkeyrefexpandobjectname) to `false`
+You can opt out of this by setting [`expandObjectName`](/common/container/env#envkeyconfigmapkeyrefexpandobjectname) to `false`
 
 :::
 
@@ -228,7 +228,7 @@ Define the secret name
 :::note
 
 This will be automatically expanded to `fullname-secret-name`.
-You can opt out of this by setting [`expandObjectName`](/general/common/container/env#envkeysecretkeyrefexpandobjectname) to `false`
+You can opt out of this by setting [`expandObjectName`](/common/container/env#envkeysecretkeyrefexpandobjectname) to `false`
 
 :::
 

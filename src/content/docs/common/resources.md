@@ -5,7 +5,7 @@ title: Resources
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/resources#full-examples) section for complete examples.
+- See the [Full Examples](/common/resources#full-examples) section for complete examples.
 
 :::
 
@@ -29,7 +29,7 @@ resources:
 
 ## `resources.limits`
 
-See [Resources Limits](/general/common/container/resources#resourceslimits)
+See [Resources Limits](/common/container/resources#resourceslimits)
 
 Default
 
@@ -44,7 +44,7 @@ resources:
 
 ### `resources.limits.cpu`
 
-See [Resources Limits CPU](/general/common/container/resources#resourceslimitscpu)
+See [Resources Limits CPU](/common/container/resources#resourceslimitscpu)
 
 Default
 
@@ -58,7 +58,7 @@ resources:
 
 ### `resources.limits.memory`
 
-See [Resources Limits Memory](/general/common/container/resources#resourceslimitsmemory)
+See [Resources Limits Memory](/common/container/resources#resourceslimitsmemory)
 
 Default
 
@@ -72,7 +72,7 @@ resources:
 
 ### `resources.requests."gpu.intel.com/i915"`
 
-See [Resources Requests GPU](/general/common/container/resources#resourceslimitsgpuintelcomi915)
+See [Resources Requests GPU](/common/container/resources#resourceslimitsgpuintelcomi915)
 
 Default: `not set`
 
@@ -80,7 +80,7 @@ Default: `not set`
 
 #### `resources.limits."nvidia.com/gpu"`
 
-See [Resources Limits GPU](/general/common/container/resources#resourceslimitsnvidiacomgpu)
+See [Resources Limits GPU](/common/container/resources#resourceslimitsnvidiacomgpu)
 
 Default: `not set`
 
@@ -88,7 +88,7 @@ Default: `not set`
 
 #### `resources.limits."amd.com/gpu"`
 
-See [Resources Limits GPU](/general/common/container/resources#resourceslimitsamdcomgpu)
+See [Resources Limits GPU](/common/container/resources#resourceslimitsamdcomgpu)
 
 Default: `not set`
 
@@ -96,7 +96,7 @@ Default: `not set`
 
 ## `resources.requests`
 
-See [Resources Requests](/general/common/container/resources#resourcesrequests)
+See [Resources Requests](/common/container/resources#resourcesrequests)
 
 Default
 
@@ -111,7 +111,7 @@ resources:
 
 ### `resources.requests.cpu`
 
-See [Resources Requests CPU](/general/common/container/resources#resourcesrequestscpu)
+See [Resources Requests CPU](/common/container/resources#resourcesrequestscpu)
 
 Default
 
@@ -125,7 +125,7 @@ resources:
 
 ### `resources.requests.memory`
 
-See [Resources Requests Memory](/general/common/container/resources#resourcesrequestsmemory)
+See [Resources Requests Memory](/common/container/resources#resourcesrequestsmemory)
 
 Default
 

@@ -8,7 +8,7 @@ This guide will assist you in migrating to the new CNPG operator.
 
 1. Install PGAdmin from the TrueCharts Stable train.
 
-2. Setup the [tcdbinfo.sh script](/platforms/scale/guides/sql-export#how-to-list-database-login-info-for-truecharts-apps)
+2. Setup the [tcdbinfo.sh script](/scale/guides/sql-export#how-to-list-database-login-info-for-truecharts-apps)
 
 3. Add the system train to your TrueCharts Catalog
 

@@ -25,6 +25,6 @@ With Tier 2 options, you should not have to expect issues caused by the deployme
 Configuration should be done "The Helm Way" via editing HelmRelease objects in the git repository.
 Values of which can be used like normal on helm.
 
-This can be done following the [Helm Guides](/platforms/general/)
+This can be done following the [Helm Guides](/general/)
 
-and checking all the many options available in our [Common Library Chart](/general/common/)
+and checking all the many options available in our [Common Library Chart](/common/)

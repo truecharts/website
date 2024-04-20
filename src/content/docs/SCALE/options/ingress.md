@@ -15,8 +15,8 @@ Currently the `Reverse Proxy` of choice for `TrueCharts` is `Traefik`. Enabling 
 ## Requirements
 
 - A working Internet connection that can reach github and truecharts.org from the host system.
-- A configured Apps pool, ensure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Adding TrueCharts to SCALE](/platforms/scale/guides/getting-started)
-- You've added the TrueCharts catalog from [Adding TrueCharts to SCALE](/platforms/scale/guides/getting-started)
+- A configured Apps pool, ensure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Adding TrueCharts to SCALE](/scale/guides/getting-started)
+- You've added the TrueCharts catalog from [Adding TrueCharts to SCALE](/scale/guides/getting-started)
 - clusterissuer is installed (**recommended** for new common Apps), see [Installing clusterissuer](/charts/premium/clusterissuer/how-to)
 - Traefik is installed, see [Installing Traefik](/charts/premium/traefik/how-to)
 
@@ -74,7 +74,7 @@ To support multiple domains, use the `TLS-Settings` option. Ensure `Cert-Manager
 
 :::note
 
-We recommend that in `Networking and Services` that the `Service Type` for the `Main Service` is configured as ClusterIP. See [Networking and Services](/platforms/scale/options/networking) for further details.
+We recommend that in `Networking and Services` that the `Service Type` for the `Main Service` is configured as ClusterIP. See [Networking and Services](/scale/options/networking) for further details.
 
 :::
 

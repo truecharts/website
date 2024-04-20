@@ -52,7 +52,7 @@ To disable Host Path Safety Checks:
 2. Uncheck **Enable Host Path Safety Checks**
 3. Click **Save** and wait for your apps to re-deploy.
 
-Alternatively, you can add your additional app storage [using the NFS share option](/platforms/scale/guides/nfs-share) instead of hostpath without violating Host Path Safety Checks.
+Alternatively, you can add your additional app storage [using the NFS share option](/scale/guides/nfs-share) instead of hostpath without violating Host Path Safety Checks.
 
 **If you choose to disable your host path safety checks, we cannot provide support for any issues related to storage or permission.** When opening a TrueCharts support ticket related to storage issues, you must show that host path safety checks are still enabled in order for us to help.
 

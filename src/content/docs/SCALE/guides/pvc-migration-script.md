@@ -8,7 +8,7 @@ This guide uses the [HeavyBullets Migration Guide for PVCs](https://github.com/H
 
 ## Warnings
 
-**Note:** This will _not_ be sufficient for apps that have a PostgreSQL database that were updated to the new CNPG common, Please see the more extensive guide for those apps. As well the script will exclude apps with database pods so those will have to be done manually or using our more extensive [PVC Migration Guide with Postgres support](/platforms/scale/guides/migration-pvc/) guide.
+**Note:** This will _not_ be sufficient for apps that have a PostgreSQL database that were updated to the new CNPG common, Please see the more extensive guide for those apps. As well the script will exclude apps with database pods so those will have to be done manually or using our more extensive [PVC Migration Guide with Postgres support](/scale/guides/migration-pvc/) guide.
 
 **Note:** Make sure you have a Heavyscript backup _and_ a replication of this backup.
 
@@ -64,7 +64,7 @@ Anything that doesn't have a database _should_ succeed. Here's an incomplete lis
 
 :::caution[Not Working]
 
-This script does **not** work with Prometheus, so please follow our more extensive [PVC Migration Guide with Postgres support](/platforms/scale/guides/migration-pvc/) guide.
+This script does **not** work with Prometheus, so please follow our more extensive [PVC Migration Guide with Postgres support](/scale/guides/migration-pvc/) guide.
 
 :::
 

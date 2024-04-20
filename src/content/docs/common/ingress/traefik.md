@@ -5,7 +5,7 @@ title: Traefik Integration
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/ingress/traefik#full-examples) section for complete examples.
+- See the [Full Examples](/common/ingress/traefik#full-examples) section for complete examples.
 
 :::
 
@@ -61,7 +61,7 @@ Define the entrypoints for this traefik integration
 
 ## `enableFixedMiddlewares`
 
-Enable or disable the [fixedMiddlewares](/general/common/global#traefikfixedmiddlewares)
+Enable or disable the [fixedMiddlewares](/common/global#traefikfixedmiddlewares)
 
 |            |                                                                          |
 | ---------- | ------------------------------------------------------------------------ |
@@ -69,7 +69,7 @@ Enable or disable the [fixedMiddlewares](/general/common/global#traefikfixedmidd
 | Type       | `bool`                                                                   |
 | Required   | ❌                                                                       |
 | Helm `tpl` | ❌                                                                       |
-| Default    | See default [here](/general/common/global#traefikenablefixedmiddlewares) |
+| Default    | See default [here](/common/global#traefikenablefixedmiddlewares) |
 
 Example
 
@@ -91,7 +91,7 @@ Force TLS on this ingress
 
 Adds the `traefik.ingress.kubernetes.io/router.tls` annotation.
 
-It does that both with this set OR when [entrypoints](/general/common/ingress/traefik#entrypoints) include `websecure`
+It does that both with this set OR when [entrypoints](/common/ingress/traefik#entrypoints) include `websecure`
 
 :::
 
@@ -123,8 +123,8 @@ Allow CORS on this ingress
 
 Relaxes some security settings to allow CORS requests.
 
-Specifically, it uses [these middlewares](/general/common/global#traefikallowcorsmiddlewares)
-instead of the [fixedMiddlewares](/general/common/global#traefikfixedmiddlewares)
+Specifically, it uses [these middlewares](/common/global#traefikallowcorsmiddlewares)
+instead of the [fixedMiddlewares](/common/global#traefikfixedmiddlewares)
 
 :::
 
@@ -158,7 +158,7 @@ Override the fixed middlewares for this traefik integration
 | Type       | `list` of `map`                                                    |
 | Required   | ❌                                                                 |
 | Helm `tpl` | ❌                                                                 |
-| Default    | See default [here](/general/common/global#traefikfixedmiddlewares) |
+| Default    | See default [here](/common/global#traefikfixedmiddlewares) |
 
 Example
 

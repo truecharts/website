@@ -5,7 +5,7 @@ title: PVC / VCT
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/persistence/pvc-vct#full-examples) section for complete examples.
+- See the [Full Examples](/common/persistence/pvc-vct#full-examples) section for complete examples.
 
 :::
 
@@ -15,7 +15,7 @@ title: PVC / VCT
 
 :::tip
 
-- See available persistence keys [here](/general/common/persistence).
+- See available persistence keys [here](/common/persistence).
 - This options apply only when `type: pvc` or `type: vct`.
 
 :::
@@ -101,7 +101,7 @@ This does not **guarantee** that the resource will be retained.
 | Type       | `bool`                                                         |
 | Required   | ❌                                                             |
 | Helm `tpl` | ❌                                                             |
-| Default    | See default [here](/general/common/fallbackdefaults#pvcretain) |
+| Default    | See default [here](/common/fallbackdefaults#pvcretain) |
 
 Example
 
@@ -123,7 +123,7 @@ Define the accessModes of the PVC, if it's single can be defined as a string, mu
 | Type       | `string` or `list`                                               |
 | Required   | ❌                                                               |
 | Helm `tpl` | ✅                                                               |
-| Default    | See default [here](/general/common/fallbackdefaults#accessmodes) |
+| Default    | See default [here](/common/fallbackdefaults#accessmodes) |
 
 Example
 
@@ -195,7 +195,7 @@ Define the size of the PVC
 | Type       | `string`                                                                                                                |
 | Required   | ❌                                                                                                                      |
 | Helm `tpl` | ✅                                                                                                                      |
-| Default    | See default [pvcSize](/general/common/fallbackdefaults#pvcsize) and [vctSize](/general/common/fallbackdefaults#vctsize) |
+| Default    | See default [pvcSize](/common/fallbackdefaults#pvcsize) and [vctSize](/common/fallbackdefaults#vctsize) |
 
 Example
 
@@ -218,7 +218,7 @@ Define the storageClass to use
   - `SCALE-ZFS` **->** `{{ .Values.global.ixChartContext.storageClassName }}`
   - Else **->** as is
 - Else if **ixChartContext (TrueNAS SCALE)**, **->** `{{ .Values.global.ixChartContext.storageClassName }}`.
-- Else if [fallback storageClass](/general/common/fallbackdefaults#storageclass), **->** this
+- Else if [fallback storageClass](/common/fallbackdefaults#storageclass), **->** this
 - Else **->** _nothing_ (which means requesting a PV without class)
 
 :::
@@ -350,9 +350,9 @@ Define the mode of the static provisioning
 
 Valid Values
 
-- [`nfs`](/general/common/persistence/pvc-vct/static-nfs)
-- [`smb`](/general/common/persistence/pvc-vct/static-smb)
-- [`custom`](/general/common/persistence/pvc-vct/static-custom)
+- [`nfs`](/common/persistence/pvc-vct/static-nfs)
+- [`smb`](/common/persistence/pvc-vct/static-smb)
+- [`custom`](/common/persistence/pvc-vct/static-custom)
 
 Example
 

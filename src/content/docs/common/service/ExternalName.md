@@ -5,8 +5,8 @@ title: ExternalName
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/service/externalname#full-examples) section for complete examples.
-- See the [Service](/general/common/service) documentation for more information
+- See the [Full Examples](/common/service/externalname#full-examples) section for complete examples.
+- See the [Service](/common/service) documentation for more information
 
 :::
 
@@ -16,7 +16,7 @@ title: ExternalName
 
 :::tip
 
-- See available service keys [here](/general/common/service).
+- See available service keys [here](/common/service).
 - This options apply only when `type: ExternalName`.
 
 :::

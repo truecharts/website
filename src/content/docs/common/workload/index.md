@@ -5,7 +5,7 @@ title: Workload
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/workload#full-examples) section for complete examples.
+- See the [Full Examples](/common/workload#full-examples) section for complete examples.
 
 :::
 
@@ -193,11 +193,11 @@ Define the kind of the workload
 
 Valid values
 
-- [`Deployment`](/general/common/workload/deployment)
-- [`DaemonSet`](/general/common/workload/daemonset)
-- [`StatefulSet`](/general/common/workload/statefulset)
-- [`CronJob`](/general/common/workload/cronjob)
-- [`Job`](/general/common/workload/job)
+- [`Deployment`](/common/workload/deployment)
+- [`DaemonSet`](/common/workload/daemonset)
+- [`StatefulSet`](/common/workload/statefulset)
+- [`CronJob`](/common/workload/cronjob)
+- [`Job`](/common/workload/job)
 
 Example
 
@@ -289,7 +289,7 @@ Pod's automountServiceAccountToken
 | Type       | `bool`                                                                      |
 | Required   | ❌                                                                          |
 | Helm `tpl` | ❌                                                                          |
-| Default    | See default [here](/general/common/podoptions#automountserviceaccounttoken) |
+| Default    | See default [here](/common/podoptions#automountserviceaccounttoken) |
 
 Example
 
@@ -312,7 +312,7 @@ Bind pod to host's network
 | Type       | `bool`                                                     |
 | Required   | ❌                                                         |
 | Helm `tpl` | ❌                                                         |
-| Default    | See default [here](/general/common/podoptions#hostnetwork) |
+| Default    | See default [here](/common/podoptions#hostnetwork) |
 
 Example
 
@@ -333,7 +333,7 @@ Allow pod to access host's PID namespace
 | Type       | `bool`                                                 |
 | Required   | ❌                                                     |
 | Helm `tpl` | ❌                                                     |
-| Default    | See default [here](/general/common/podoptions#hostpid) |
+| Default    | See default [here](/common/podoptions#hostpid) |
 
 Example
 
@@ -356,7 +356,7 @@ Allow pod to access host's IPC namespace
 | Type       | `bool`                                                 |
 | Required   | ❌                                                     |
 | Helm `tpl` | ❌                                                     |
-| Default    | See default [here](/general/common/podoptions#hostipc) |
+| Default    | See default [here](/common/podoptions#hostipc) |
 
 Example
 
@@ -379,7 +379,7 @@ Allow pod to access host's users namespace
 | Type       | `bool`                                                   |
 | Required   | ❌                                                       |
 | Helm `tpl` | ❌                                                       |
-| Default    | See default [here](/general/common/podoptions#hostusers) |
+| Default    | See default [here](/common/podoptions#hostusers) |
 
 Example
 
@@ -402,7 +402,7 @@ Share Process Namespace with other containers in the pod
 | Type       | `bool`                                                               |
 | Required   | ❌                                                                   |
 | Helm `tpl` | ❌                                                                   |
-| Default    | See default [here](/general/common/podoptions#shareprocessnamespace) |
+| Default    | See default [here](/common/podoptions#shareprocessnamespace) |
 
 Example
 
@@ -425,7 +425,7 @@ Pod's enableServiceLinks
 | Type       | `bool`                                                            |
 | Required   | ❌                                                                |
 | Helm `tpl` | ❌                                                                |
-| Default    | See default [here](/general/common/podoptions#enableservicelinks) |
+| Default    | See default [here](/common/podoptions#enableservicelinks) |
 
 Example
 
@@ -448,7 +448,7 @@ Pod's restartPolicy
 | Type       | `string`                                                     |
 | Required   | ❌                                                           |
 | Helm `tpl` | ✅                                                           |
-| Default    | See default [here](/general/common/podoptions#restartpolicy) |
+| Default    | See default [here](/common/podoptions#restartpolicy) |
 
 Valid values
 
@@ -477,7 +477,7 @@ Pod's schedulerName
 | Type       | `string`                                                     |
 | Required   | ❌                                                           |
 | Helm `tpl` | ✅                                                           |
-| Default    | See default [here](/general/common/podoptions#schedulername) |
+| Default    | See default [here](/common/podoptions#schedulername) |
 
 Example
 
@@ -500,7 +500,7 @@ Pod's priorityClassName
 | Type       | `string`                                                         |
 | Required   | ❌                                                               |
 | Helm `tpl` | ✅                                                               |
-| Default    | See default [here](/general/common/podoptions#priorityclassname) |
+| Default    | See default [here](/common/podoptions#priorityclassname) |
 
 Example
 
@@ -546,7 +546,7 @@ Pod's terminationGracePeriodSeconds
 | Type       | `int`                                                                        |
 | Required   | ❌                                                                           |
 | Helm `tpl` | ✅                                                                           |
-| Default    | See default [here](/general/common/podoptions#terminationgraceperiodseconds) |
+| Default    | See default [here](/common/podoptions#terminationgraceperiodseconds) |
 
 Example
 
@@ -569,7 +569,7 @@ Pod's nodeSelector
 | Type       | `map`                                                       |
 | Required   | ❌                                                          |
 | Helm `tpl` | ✅ (On value only)                                          |
-| Default    | See default [here](/general/common/podoptions#nodeselector) |
+| Default    | See default [here](/common/podoptions#nodeselector) |
 
 Example
 
@@ -593,7 +593,7 @@ Pod's topologySpreadConstraints
 | Type       | `list` of `map`                                                          |
 | Required   | ❌                                                                       |
 | Helm `tpl` | ❌                                                                       |
-| Default    | See default [here](/general/common/podoptions#topologyspreadconstraints) |
+| Default    | See default [here](/common/podoptions#topologyspreadconstraints) |
 
 ---
 
@@ -607,7 +607,7 @@ Pod's hostAliases
 | Type       | `list` of `map`                                            |
 | Required   | ❌                                                         |
 | Helm `tpl` | ❌                                                         |
-| Default    | See default [here](/general/common/podoptions#hostaliases) |
+| Default    | See default [here](/common/podoptions#hostaliases) |
 
 Example
 
@@ -687,7 +687,7 @@ Pod's dnsPolicy
 | Type       | `string`                                                 |
 | Required   | ❌                                                       |
 | Helm `tpl` | ✅                                                       |
-| Default    | See default [here](/general/common/podoptions#dnspolicy) |
+| Default    | See default [here](/common/podoptions#dnspolicy) |
 
 Valid values
 
@@ -717,7 +717,7 @@ Pod's dnsConfig
 | Type       | `map`                                                    |
 | Required   | ❌                                                       |
 | Helm `tpl` | ❌                                                       |
-| Default    | See default [here](/general/common/podoptions#dnsconfig) |
+| Default    | See default [here](/common/podoptions#dnsconfig) |
 
 Example
 
@@ -866,7 +866,7 @@ Pod's tolerations
 | Type       | `list` of `map`                                            |
 | Required   | ❌                                                         |
 | Helm `tpl` | ❌                                                         |
-| Default    | See default [here](/general/common/podoptions#tolerations) |
+| Default    | See default [here](/common/podoptions#tolerations) |
 
 Example
 
@@ -1048,7 +1048,7 @@ to a container and Scale Middleware sets `.Values.global.ixChartContext.addNvidi
 | Type       | `string`                                                        |
 | Required   | ❌                                                              |
 | Helm `tpl` | ✅                                                              |
-| Default    | See default [here](/general/common/podoptions#runtimeclassname) |
+| Default    | See default [here](/common/podoptions#runtimeclassname) |
 
 Example
 
@@ -1071,7 +1071,7 @@ Pod's securityContext
 | Type       | `map`                                                                  |
 | Required   | ❌                                                                     |
 | Helm `tpl` | ❌                                                                     |
-| Default    | See default [here](/general/common/securitycontext#securitycontextpod) |
+| Default    | See default [here](/common/securitycontext#securitycontextpod) |
 
 Default
 
@@ -1105,7 +1105,7 @@ Pod's securityContext fsGroup
 | Type       | `int`                                                                          |
 | Required   | ❌                                                                             |
 | Helm `tpl` | ❌                                                                             |
-| Default    | See default [here](/general/common/securitycontext/#securitycontextpodfsgroup) |
+| Default    | See default [here](/common/securitycontext/#securitycontextpodfsgroup) |
 
 Example
 
@@ -1129,7 +1129,7 @@ Pod's securityContext fsGroupChangePolicy
 | Type       | `string`                                                                                  |
 | Required   | ❌                                                                                        |
 | Helm `tpl` | ❌                                                                                        |
-| Default    | See default [here](/general/common/securitycontext#securitycontextpodfsgroupchangepolicy) |
+| Default    | See default [here](/common/securitycontext#securitycontextpodfsgroupchangepolicy) |
 
 Valid values
 
@@ -1158,7 +1158,7 @@ Pod's securityContext supplementalGroups
 | Type       | `list` of `int`                                                                          |
 | Required   | ❌                                                                                       |
 | Helm `tpl` | ❌                                                                                       |
-| Default    | See default [here](/general/common/securitycontext#securitycontextpodsupplementalgroups) |
+| Default    | See default [here](/common/securitycontext#securitycontextpodsupplementalgroups) |
 
 Example
 
@@ -1189,7 +1189,7 @@ to the pod. When hostNetwork is enabled the above **sysctl** option will not be 
 | Type       | `list` of `map`                                                               |
 | Required   | ❌                                                                            |
 | Helm `tpl` | ❌                                                                            |
-| Default    | See default [here](/general/common/securitycontext#securitycontextpodsysctls) |
+| Default    | See default [here](/common/securitycontext#securitycontextpodsysctls) |
 
 Example
 
@@ -1259,7 +1259,7 @@ workload:
 
 Define container(s) for the workload
 
-See [Container](/general/common/container/) for more information
+See [Container](/common/container/) for more information
 
 |            |                             |
 | ---------- | --------------------------- |
@@ -1283,7 +1283,7 @@ workload:
 
 Define initContainer(s) for the workload
 
-See [Container](/general/common/container/) for more information
+See [Container](/common/container/) for more information
 
 |            |                                 |
 | ---------- | ------------------------------- |
@@ -1369,8 +1369,8 @@ workload:
 
 Full examples for each workload type can be found here
 
-- [`Deployment`](/general/common/workload/deployment)
-- [`DaemonSet`](/general/common/workload/daemonset)
-- [`StatefulSet`](/general/common/workload/statefulset)
-- [`CronJob`](/general/common/workload/cronjob)
-- [`Job`](/general/common/workload/job)
+- [`Deployment`](/common/workload/deployment)
+- [`DaemonSet`](/common/workload/daemonset)
+- [`StatefulSet`](/common/workload/statefulset)
+- [`CronJob`](/common/workload/cronjob)
+- [`Job`](/common/workload/job)

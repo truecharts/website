@@ -53,7 +53,7 @@ and
 k3s kubectl delete storageClass openebs-zfspv-default
 ```
 
-Continue with the OpenEBS section of our TrueNAS SCALE Getting Started [guide](/platforms/scale/guides/getting-started#openebs-setup) and once complete, continue as below.
+Continue with the OpenEBS section of our TrueNAS SCALE Getting Started [guide](/scale/guides/getting-started#openebs-setup) and once complete, continue as below.
 
 After installing the `OpenEBS` app from the above guide, run the following and you're done:
 

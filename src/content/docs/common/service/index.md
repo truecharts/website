@@ -5,7 +5,7 @@ title: Service
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/service#full-examples) section for complete examples.
+- See the [Full Examples](/common/service#full-examples) section for complete examples.
 
 :::
 
@@ -174,15 +174,15 @@ Define the service type
 | Type       | `string`                                                         |
 | Required   | ❌                                                               |
 | Helm `tpl` | ✅                                                               |
-| Default    | See default [here](/general/common/fallbackdefaults#servicetype) |
+| Default    | See default [here](/common/fallbackdefaults#servicetype) |
 
 Valid Values:
 
-- [`ClusterIP`](/general/common/service/clusterip)
-- [`LoadBalancer`](/general/common/service/loadbalancer)
-- [`NodePort`](/general/common/service/nodeport)
-- [`ExternalName`](/general/common/service/externalname)
-- [`ExternalIP`](/general/common/service/externalip)
+- [`ClusterIP`](/common/service/clusterip)
+- [`LoadBalancer`](/common/service/loadbalancer)
+- [`NodePort`](/common/service/nodeport)
+- [`ExternalName`](/common/service/externalname)
+- [`ExternalIP`](/common/service/externalip)
 
 Example
 
@@ -196,7 +196,7 @@ service:
 
 #### `expandObjectName`
 
-Whether to expand the object name (based on the [naming scheme](/general/common/service#naming-scheme)) or not
+Whether to expand the object name (based on the [naming scheme](/common/service#naming-scheme)) or not
 
 |            |                                  |
 | ---------- | -------------------------------- |
@@ -461,7 +461,7 @@ service:
 
 Define the ports of the service
 
-See [Ports](/general/common/service/ports)
+See [Ports](/common/service/ports)
 
 |            |                       |
 | ---------- | --------------------- |
@@ -485,8 +485,8 @@ service:
 
 Full examples can be found under each service type
 
-- [ClusterIP](/general/common/service/clusterip)
-- [LoadBalancer](/general/common/service/loadbalancer)
-- [NodePort](/general/common/service/nodeport)
-- [ExternalName](/general/common/service/externalname)
-- [ExternalIP](/general/common/service/externalip)
+- [ClusterIP](/common/service/clusterip)
+- [LoadBalancer](/common/service/loadbalancer)
+- [NodePort](/common/service/nodeport)
+- [ExternalName](/common/service/externalname)
+- [ExternalIP](/common/service/externalip)

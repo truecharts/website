@@ -5,7 +5,7 @@ title: Priority Class
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/priorityclass#full-examples) section for complete examples.
+- See the [Full Examples](/common/priorityclass#full-examples) section for complete examples.
 
 :::
 

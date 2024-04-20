@@ -26,4 +26,4 @@ In some cases an ingress might already been partly defined. That means you shoul
 
 ## More info
 
-For more info, check out the common-chart [persistence options](/general/common/persistence/)
+For more info, check out the common-chart [persistence options](/common/persistence/)

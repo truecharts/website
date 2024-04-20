@@ -5,7 +5,7 @@ title: Containers / Init Containers
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/container#full-examples) section for complete examples.
+- See the [Full Examples](/common/container#full-examples) section for complete examples.
 
 :::
 
@@ -200,25 +200,25 @@ workload:
 
 ## `command`
 
-See [command](/general/common/container/command)
+See [command](/common/container/command)
 
 ---
 
 ## `args`
 
-See [args](/general/common/container/args#args)
+See [args](/common/container/args#args)
 
 ---
 
 ## `extraArgs`
 
-See [extraArgs](/general/common/container/args#extraargs)
+See [extraArgs](/common/container/args#extraargs)
 
 ---
 
 ## `termination`
 
-See [termination](/general/common/container/termination)
+See [termination](/common/container/termination)
 
 ---
 
@@ -230,7 +230,7 @@ Does **not** apply to `initContainers`
 
 :::
 
-See [lifecycle](/general/common/container/lifecycle)
+See [lifecycle](/common/container/lifecycle)
 
 ---
 
@@ -242,43 +242,43 @@ Does **not** apply to `initContainers`
 
 :::
 
-See [probes](/general/common/container/probes)
+See [probes](/common/container/probes)
 
 ---
 
 ## `resources`
 
-See [resources](/general/common/resources)
+See [resources](/common/resources)
 
 ---
 
 ## `securityContext`
 
-See [securityContext](/general/common/securitycontext)
+See [securityContext](/common/securitycontext)
 
 ---
 
 ## `envFrom`
 
-See [envFrom](/general/common/container/envfrom)
+See [envFrom](/common/container/envfrom)
 
 ---
 
 ## `fixedEnv`
 
-See [fixedEnv](/general/common/container/fixedenv)
+See [fixedEnv](/common/container/fixedenv)
 
 ---
 
 ## `env`
 
-See [env](/general/common/container/env)
+See [env](/common/container/env)
 
 ---
 
 ## `envList`
 
-See [envList](/general/common/container/envlist)
+See [envList](/common/container/envlist)
 
 ---
 

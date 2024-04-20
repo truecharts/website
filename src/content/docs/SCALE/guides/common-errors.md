@@ -16,7 +16,7 @@ This error is due to old version of Helm. Helm > 3.9.4 is required.
 The solution:
 Upgrade to TrueNAS SCALE Cobia (23.10.x) or newer. System Settings -> Update -> Select Cobia from the dropdown. SCALE Bluefin and Angelfish releases are no longer supported.
 
-[See our Support Policy](/platforms/scale/support/)
+[See our Support Policy](/scale/support/)
 
 ---
 
@@ -116,7 +116,7 @@ Run the following command in system shell as **root** to see if you have any cur
 k3s kubectl get cluster -A
 ```
 
-Follow [this guide](/platforms/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+Follow [this guide](/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
 
 :::
 

@@ -5,7 +5,7 @@ title: Resources
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/container/resources#full-examples) section for complete examples.
+- See the [Full Examples](/common/container/resources#full-examples) section for complete examples.
 
 :::
 
@@ -31,7 +31,7 @@ The resources that the container can use.
 | Type       | `map`                                               |
 | Required   | ✅                                                  |
 | Helm `tpl` | ❌                                                  |
-| Default    | See [here](/general/common/resources#defaults)      |
+| Default    | See [here](/common/resources#defaults)      |
 
 Example
 
@@ -63,7 +63,7 @@ Which can lead pods to be evicted or not even scheduled when they reach their `l
 | Type       | `map`                                                        |
 | Required   | ✅                                                           |
 | Helm `tpl` | ❌                                                           |
-| Default    | See [here](/general/common/resources#resourcesrequests)      |
+| Default    | See [here](/common/resources#resourcesrequests)      |
 
 Example
 
@@ -89,7 +89,7 @@ The minimum amount of CPU that the container can use.
 | Type       | `string`                                                         |
 | Required   | ✅                                                               |
 | Helm `tpl` | ❌                                                               |
-| Default    | See [here](/general/common/resources#resourcesrequestscpu)       |
+| Default    | See [here](/common/resources#resourcesrequestscpu)       |
 
 Example
 
@@ -116,7 +116,7 @@ The minimum amount of memory that the container can use.
 | Type       | `string`                                                            |
 | Required   | ✅                                                                  |
 | Helm `tpl` | ❌                                                                  |
-| Default    | See [here](/general/common/resources#resourcesrequestsmemory)       |
+| Default    | See [here](/common/resources#resourcesrequestsmemory)       |
 
 Example
 
@@ -149,7 +149,7 @@ Limits are **optional**, can be set to "unlimited" by setting it's values (`cpu`
 | Type       | `map`                                                      |
 | Required   | ❌                                                         |
 | Helm `tpl` | ❌                                                         |
-| Default    | See [here](/general/common/resources#resourceslimits)      |
+| Default    | See [here](/common/resources#resourceslimits)      |
 
 Example
 
@@ -175,7 +175,7 @@ The maximum amount of CPU that the container can use.
 | Type       | `string`                                                       |
 | Required   | ❌                                                             |
 | Helm `tpl` | ❌                                                             |
-| Default    | See [here](/general/common/resources#resourceslimitscpu)       |
+| Default    | See [here](/common/resources#resourceslimitscpu)       |
 
 Example
 
@@ -202,7 +202,7 @@ The maximum amount of memory that the container can use.
 | Type       | `string`                                                          |
 | Required   | ❌                                                                |
 | Helm `tpl` | ❌                                                                |
-| Default    | See [here](/general/common/resources#resourceslimitsmemory)       |
+| Default    | See [here](/common/resources#resourceslimitsmemory)       |
 
 Example
 

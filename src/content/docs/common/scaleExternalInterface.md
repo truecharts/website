@@ -5,7 +5,7 @@ title: Scale External Interface
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/scaleexternalinterface#full-examples) section for complete examples.
+- See the [Full Examples](/common/scaleexternalinterface#full-examples) section for complete examples.
 
 :::
 

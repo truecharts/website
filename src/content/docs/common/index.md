@@ -31,7 +31,7 @@ Global values that apply to all charts
 
 :::note
 
-See more info about global values [here](/general/common/global)
+See more info about global values [here](/common/global)
 
 :::
 
@@ -41,7 +41,7 @@ See more info about global values [here](/general/common/global)
 | Type       | `map`                                       |
 | Required   | ❌                                          |
 | Helm `tpl` | ❌                                          |
-| Default    | See [here](/general/common/global#defaults) |
+| Default    | See [here](/common/global#defaults) |
 
 Example
 
@@ -57,7 +57,7 @@ The fallback defaults are used when a value is not defined in the chart.
 
 :::note
 
-- See more info about fallbackDefaults [here](/general/common/fallbackdefaults)
+- See more info about fallbackDefaults [here](/common/fallbackdefaults)
 
 :::
 
@@ -67,7 +67,7 @@ The fallback defaults are used when a value is not defined in the chart.
 | Type       | `map`                                                 |
 | Required   | ❌                                                    |
 | Helm `tpl` | ❌                                                    |
-| Default    | See [here](/general/common/fallbackdefaults#defaults) |
+| Default    | See [here](/common/fallbackdefaults#defaults) |
 
 ---
 
@@ -236,7 +236,7 @@ Options that apply to all pods, unless overridden at the pod level
 
 :::note
 
-See more info about podOptions [here](/general/common/podoptions)
+See more info about podOptions [here](/common/podoptions)
 
 :::
 
@@ -246,7 +246,7 @@ See more info about podOptions [here](/general/common/podoptions)
 | Type       | `map`                                           |
 | Required   | ❌                                              |
 | Helm `tpl` | ❌                                              |
-| Default    | See [here](/general/common/podoptions#defaults) |
+| Default    | See [here](/common/podoptions#defaults) |
 
 Example
 
@@ -279,7 +279,7 @@ Options that apply to all containers, unless overridden at the container level
 
 :::note
 
-See more info about containerOptions [here](/general/common/containeroptions)
+See more info about containerOptions [here](/common/containeroptions)
 
 :::
 
@@ -289,7 +289,7 @@ See more info about containerOptions [here](/general/common/containeroptions)
 | Type       | `map`                                                 |
 | Required   | ❌                                                    |
 | Helm `tpl` | ❌                                                    |
-| Default    | See [here](/general/common/containeroptions#defaults) |
+| Default    | See [here](/common/containeroptions#defaults) |
 
 Example
 
@@ -349,7 +349,7 @@ Resources apply to **EACH** container, not to the pod as a whole.
 | Type       | `map`                                          |
 | Required   | ✅                                             |
 | Helm `tpl` | ❌                                             |
-| Default    | See [here](/general/common/resources#defaults) |
+| Default    | See [here](/common/resources#defaults) |
 
 Example
 
@@ -371,7 +371,7 @@ Define security context for all containers and pods, unless overridden at the co
 
 :::note
 
-See more info about securityContext [here](/general/common/securitycontext)
+See more info about securityContext [here](/common/securitycontext)
 
 :::
 
@@ -381,7 +381,7 @@ See more info about securityContext [here](/general/common/securitycontext)
 | Type       | `map`                                                |
 | Required   | ✅                                                   |
 | Helm `tpl` | ❌                                                   |
-| Default    | See [here](/general/common/securitycontext#defaults) |
+| Default    | See [here](/common/securitycontext#defaults) |
 
 Example
 
@@ -415,7 +415,7 @@ securityContext:
 
 :::tip
 
-Use [`imageSelector`](/general/common/container#imageselector) to select the image to use for a container.
+Use [`imageSelector`](/common/container#imageselector) to select the image to use for a container.
 
 :::
 
@@ -543,29 +543,29 @@ image:
 
 ## Additional Documentation
 
-- [certificate](/general/common/certificate)
-- [configmap](/general/common/configmap)
-- [container](/general/common/container/)
-- [containerOptions](/general/common/containeroptions)
-- [imagePullSecret](/general/common/imagepullsecret)
-- [ingress](/general/common/ingress)
-- [notes](/general/common/notes)
-- [persistence](/general/common/persistence/)
-- [podDisruptionBudget](/general/common/poddisruptionbudget)
-- [priorityClass](/general/common/priorityclass)
-- [rbac](/general/common/rbac)
-- [resources](/general/common/resources)
-- [scaleExternalInterface](/general/common/scaleexternalinterface)
-- [secret](/general/common/secret)
-- [securityContext](/general/common/securitycontext)
-- [service](/general/common/service/)
-- [serviceAccount](/general/common/serviceaccount)
-- [storageClass](/general/common/storageclass)
-- [volumeSnapshot](/general/common/volumesnapshot)
-- [volumeSnapshotClass](/general/common/volumesnapshotclass)
-- [webhook](/general/common/webhook)
-- [webhook](/general/common/webhook)
-- [workload](/general/common/workload/)
+- [certificate](/common/certificate)
+- [configmap](/common/configmap)
+- [container](/common/container/)
+- [containerOptions](/common/containeroptions)
+- [imagePullSecret](/common/imagepullsecret)
+- [ingress](/common/ingress)
+- [notes](/common/notes)
+- [persistence](/common/persistence/)
+- [podDisruptionBudget](/common/poddisruptionbudget)
+- [priorityClass](/common/priorityclass)
+- [rbac](/common/rbac)
+- [resources](/common/resources)
+- [scaleExternalInterface](/common/scaleexternalinterface)
+- [secret](/common/secret)
+- [securityContext](/common/securitycontext)
+- [service](/common/service/)
+- [serviceAccount](/common/serviceaccount)
+- [storageClass](/common/storageclass)
+- [volumeSnapshot](/common/volumesnapshot)
+- [volumeSnapshotClass](/common/volumesnapshotclass)
+- [webhook](/common/webhook)
+- [webhook](/common/webhook)
+- [workload](/common/workload/)
 
 ---
 

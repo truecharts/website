@@ -5,7 +5,7 @@ title: Persistence
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/persistence#full-examples) section for complete examples.
+- See the [Full Examples](/common/persistence#full-examples) section for complete examples.
 
 :::
 
@@ -104,19 +104,19 @@ Define the persistence type
 | Type       | `string`                                                             |
 | Required   | ❌                                                                   |
 | Helm `tpl` | ❌                                                                   |
-| Default    | See default [here](/general/common/fallbackdefaults#persistencetype) |
+| Default    | See default [here](/common/fallbackdefaults#persistencetype) |
 
 Valid Values:
 
-- [`hostPath`](/general/common/persistence/hostpath)
-- [`configmap`](/general/common/configmap)
-- [`secret`](/general/common/secret)
-- [`device`](/general/common/persistence/device)
-- [`pvc`](/general/common/persistence/pvc-vct)
-- [`vct`](/general/common/persistence/pvc-vct)
-- [`nfs`](/general/common/persistence/nfs)
-- [`emptyDir`](/general/common/persistence/emptydir)
-- [`iscsi`](/general/common/persistence/iscsi)
+- [`hostPath`](/common/persistence/hostpath)
+- [`configmap`](/common/configmap)
+- [`secret`](/common/secret)
+- [`device`](/common/persistence/device)
+- [`pvc`](/common/persistence/pvc-vct)
+- [`vct`](/common/persistence/pvc-vct)
+- [`nfs`](/common/persistence/nfs)
+- [`emptyDir`](/common/persistence/emptydir)
+- [`iscsi`](/common/persistence/iscsi)
 
 Example
 
@@ -464,12 +464,12 @@ persistence:
 
 Full examples can be found under each persistence type
 
-- [hostPath](/general/common/persistence/hostpath)
-- [configmap](/general/common/persistence/configmap)
-- [secret](/general/common/persistence/secret)
-- [device](/general/common/persistence/device)
-- [pvc](/general/common/persistence/pvc-vct)
-- [vct](/general/common/persistence/pvc-vct)
-- [nfs](/general/common/persistence/nfs)
-- [emptyDir](/general/common/persistence/emptydir)
-- [iscsi](/general/common/persistence/iscsi)
+- [hostPath](/common/persistence/hostpath)
+- [configmap](/common/persistence/configmap)
+- [secret](/common/persistence/secret)
+- [device](/common/persistence/device)
+- [pvc](/common/persistence/pvc-vct)
+- [vct](/common/persistence/pvc-vct)
+- [nfs](/common/persistence/nfs)
+- [emptyDir](/common/persistence/emptydir)
+- [iscsi](/common/persistence/iscsi)

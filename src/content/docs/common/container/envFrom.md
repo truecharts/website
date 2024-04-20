@@ -5,7 +5,7 @@ title: EnvFrom
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/container/envfrom#full-examples) section for complete examples.
+- See the [Full Examples](/common/container/envfrom#full-examples) section for complete examples.
 
 :::
 
@@ -74,7 +74,7 @@ Define the secret name
 :::note
 
 This will be automatically expanded to `fullname-secret-name`.
-You can opt out of this by setting [`expandObjectName`](/general/common/container/envfrom#envfromsecretrefexpandobjectname) to `false`
+You can opt out of this by setting [`expandObjectName`](/common/container/envfrom#envfromsecretrefexpandobjectname) to `false`
 
 :::
 
@@ -162,7 +162,7 @@ Define the configmap name
 :::note
 
 This will be automatically expanded to `fullname-configmap-name`.
-You can opt out of this by setting [`expandObjectName`](/general/common/container/envfrom#envfromconfigmaprefexpandobjectname) to `false`
+You can opt out of this by setting [`expandObjectName`](/common/container/envfrom#envfromconfigmaprefexpandobjectname) to `false`
 
 :::
 

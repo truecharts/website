@@ -5,8 +5,8 @@ title: Deployment
 :::note
 
 - Examples under each key are only to be used as a placement guide
-- See the [Full Examples](/general/common/workload/deployment#full-examples) section for complete examples.
-- See the [Workload](/general/common/workload) documentation for more information
+- See the [Full Examples](/common/workload/deployment#full-examples) section for complete examples.
+- See the [Workload](/common/workload) documentation for more information
 
 :::
 

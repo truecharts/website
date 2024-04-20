@@ -8,7 +8,7 @@ Resources limits that have been defined by each application are in this section.
 
 ## `Resources and Devices`
 
-- `Resources Limits/Advanced Limit Resource Consumption`: Enables changing the allocation of resources such as CPU and RAM to the application. See [Input Validation](/platforms/scale/validation) for more information.
+- `Resources Limits/Advanced Limit Resource Consumption`: Enables changing the allocation of resources such as CPU and RAM to the application. See [Input Validation](/scale/validation) for more information.
   - `CPU` : Default is `4000m` for maximum and `10m` for minimum.
   - `RAM` : Default is `8 Gi` for maximum and `50 Mi` for minimum.
 - `Mount USB Devices`: Clicking `Add` enables the options below
