@@ -2,7 +2,7 @@
 title: gaseous-server
 ---
 
-![Version: 1.11.13](https://img.shields.io/badge/Version-1.11.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.7.3](https://img.shields.io/badge/AppVersion-1.7.3-informational?style=flat-square)
+![Version: 1.11.14](https://img.shields.io/badge/Version-1.11.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.7.3](https://img.shields.io/badge/AppVersion-1.7.3-informational?style=flat-square)
 
 A game ROM manager using multiple sources to identify and provide metadata.
 
