@@ -42,3 +42,7 @@ While this does not actually update the chart version, it does update the user s
 
 For more information, please see the Helm docs:
 https://helm.sh/docs/helm/helm_upgrade/
+
+## Using KubeApps
+
+KubeApps offers an easy-to-use GUI to just pick a chart from the list and enter/adapt the YAML, check it out!
