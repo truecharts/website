@@ -40,9 +40,7 @@ export default defineConfig({
     output: "directory",
   },
   experimental: {
-    // TODO: Enable this after bug is fixed
-    //  https://github.com/withastro/astro/issues/9353
-    contentCollectionCache: false,
+    contentCollectionCache: true,
   },
   integrations: [
     starlight({
@@ -135,7 +133,7 @@ export default defineConfig({
         },
         {
           label: "Common Chart Options",
-          collapsed: false,
+          collapsed: true,
           autogenerate: {
             directory: "common",
           },
