@@ -35,7 +35,7 @@ It also adds significant layers "middleware" between the App GUI and kubernetes/
 We also would like to point out, that iX-Systems, the creators of TrueNAS SCALE, do not have much kubernetes experience or specialised engineers available.
 This does affect the quality of the end-product.
 
-Hence for chart management our preference would be to use [KubeApps](/kubeapps/) instead.
+Hence for chart management our preference would be to use [FluxCD](/fluxcd/) instead.
 
 ## How to Configure
 

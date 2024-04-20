@@ -33,7 +33,7 @@ Override fixedEnv for the container
 
 By default it will set the following environment variables:
 
-- `TZ`: [Default TZ](/general/common#tz) or [fixedEnv.TZ](/common/container/fixedenv#fixedenvtz)
+- `TZ`: [Default TZ](/common#tz) or [fixedEnv.TZ](/common/container/fixedenv#fixedenvtz)
 - `UMASK`: [Default UMASK](/common/securitycontext#securitycontextcontainerumask) or [fixedEnv.UMASK](/common/container/fixedenv#fixedenvumask)
 - `UMASK_SET`: [Default UMASK](/common/securitycontext#securitycontextcontainerumask) or [fixedEnv.UMASK](/common/container/fixedenv#fixedenvumask)
 - `S6_READ_ONLY_ROOT`: `1`
@@ -78,7 +78,7 @@ Override the timezone for the container
 | Type       | `string`                                              |
 | Required   | ❌                                                    |
 | Helm `tpl` | ❌                                                    |
-| Default    | See [here](/general/common#tz)                        |
+| Default    | See [here](/common#tz)                        |
 
 Example
 
