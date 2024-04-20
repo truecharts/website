@@ -133,6 +133,14 @@ export default defineConfig({
             directory: "common",
           },
         },
+
+        {
+          label: "Project Be-Bird",
+          collapsed: false,
+          autogenerate: {
+            directory: "pbb",
+          },
+        },
         {
           label: "Helm",
           collapsed: true,
