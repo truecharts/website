@@ -131,7 +131,13 @@ export default defineConfig({
           collapsed: false,
           autogenerate: {
             directory: "general",
-            collapsed: true,
+          },
+        },
+        {
+          label: "Common Chart Options",
+          collapsed: false,
+          autogenerate: {
+            directory: "common",
           },
         },
         {
