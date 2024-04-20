@@ -2,7 +2,7 @@
 slug: "news/New-Website"
 title: "A New Dawn for TrueCharts: Now Powered by Starlight"
 authors: [bitpushr]
-date: 2024-04-22
+date: 2024-04-21
 tags:
   - "2024"
 ---
