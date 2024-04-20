@@ -41,3 +41,4 @@
 /platforms/helm/* /helm/:splat 301
 /platforms/fluxcd/* /fluxcd/:splat 301
 /platforms/SCALE/* /scale/:splat 301
+/manual/general/common/* /general/:splat 301
