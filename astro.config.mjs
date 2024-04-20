@@ -40,7 +40,7 @@ export default defineConfig({
     output: "directory",
   },
   experimental: {
-    contentCollectionCache: true,
+    contentCollectionCache: false,
   },
   integrations: [
     starlight({
