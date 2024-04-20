@@ -2,7 +2,7 @@
 title: organizr
 ---
 
-![Version: 18.8.6](https://img.shields.io/badge/Version-18.8.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 18.8.7](https://img.shields.io/badge/Version-18.8.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 HTPC/Homelab Services Organizer
 

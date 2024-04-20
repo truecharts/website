@@ -2,7 +2,7 @@
 title: plextraktsync
 ---
 
-![Version: 7.9.8](https://img.shields.io/badge/Version-7.9.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.29.14](https://img.shields.io/badge/AppVersion-0.29.14-informational?style=flat-square)
+![Version: 7.9.9](https://img.shields.io/badge/Version-7.9.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.29.14](https://img.shields.io/badge/AppVersion-0.29.14-informational?style=flat-square)
 
 Two-way-sync between trakt.tv and Plex Media Server.
 
