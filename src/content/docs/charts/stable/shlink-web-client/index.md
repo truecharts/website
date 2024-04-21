@@ -2,7 +2,7 @@
 title: shlink-web-client
 ---
 
-![Version: 10.8.9](https://img.shields.io/badge/Version-10.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.10.2](https://img.shields.io/badge/AppVersion-3.10.2-informational?style=flat-square)
+![Version: 10.8.10](https://img.shields.io/badge/Version-10.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.10.2](https://img.shields.io/badge/AppVersion-3.10.2-informational?style=flat-square)
 
 A ReactJS-based progressive web application for Shlink.
 
@@ -14,7 +14,6 @@ A ReactJS-based progressive web application for Shlink.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

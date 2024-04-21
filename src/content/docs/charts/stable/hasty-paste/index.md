@@ -2,7 +2,7 @@
 title: hasty-paste
 ---
 
-![Version: 6.10.15](https://img.shields.io/badge/Version-6.10.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.0](https://img.shields.io/badge/AppVersion-1.10.0-informational?style=flat-square)
+![Version: 6.10.16](https://img.shields.io/badge/Version-6.10.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.10.0](https://img.shields.io/badge/AppVersion-1.10.0-informational?style=flat-square)
 
 A fast and minimal paste bin, written in Python using Quart.
 
@@ -15,7 +15,6 @@ A fast and minimal paste bin, written in Python using Quart.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

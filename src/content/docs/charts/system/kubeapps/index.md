@@ -2,7 +2,7 @@
 title: kubeapps
 ---
 
-![Version: 2.10.11](https://img.shields.io/badge/Version-2.10.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.3](https://img.shields.io/badge/AppVersion-0.0.3-informational?style=flat-square)
+![Version: 2.10.12](https://img.shields.io/badge/Version-2.10.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.3](https://img.shields.io/badge/AppVersion-0.0.3-informational?style=flat-square)
 
 KubeApps is a Kubernetes-as-Apps solution
 
@@ -15,8 +15,6 @@ KubeApps is a Kubernetes-as-Apps solution
 
 ## Available Documentation
 
-- [**Changelog**](./md)
-- [**Getting a Login Token for KubeApps**](./md)
 
 ## Readme Content
 

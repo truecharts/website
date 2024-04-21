@@ -2,7 +2,7 @@
 title: docker-hub-rss
 ---
 
-![Version: 5.8.9](https://img.shields.io/badge/Version-5.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.10](https://img.shields.io/badge/Version-5.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 RSS feed for Chart Hub images.
 
@@ -14,7 +14,6 @@ RSS feed for Chart Hub images.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

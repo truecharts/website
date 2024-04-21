@@ -2,7 +2,7 @@
 title: channels-dvr
 ---
 
-![Version: 6.8.9](https://img.shields.io/badge/Version-6.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.8.10](https://img.shields.io/badge/Version-6.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Channels DVR Server
 
@@ -13,8 +13,6 @@ Channels DVR Server
 
 ## Available Documentation
 
-- [**Changelog**](./md)
-- [**Channels DVR Installation Notes**](./md)
 
 ## Readme Content
 

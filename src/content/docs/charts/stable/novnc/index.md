@@ -2,7 +2,7 @@
 title: novnc
 ---
 
-![Version: 10.8.9](https://img.shields.io/badge/Version-10.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.0](https://img.shields.io/badge/AppVersion-1.2.0-informational?style=flat-square)
+![Version: 10.8.10](https://img.shields.io/badge/Version-10.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.0](https://img.shields.io/badge/AppVersion-1.2.0-informational?style=flat-square)
 
 The open source VNC client
 
@@ -14,7 +14,6 @@ The open source VNC client
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

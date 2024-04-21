@@ -2,7 +2,7 @@
 title: quassel-web
 ---
 
-![Version: 9.8.9](https://img.shields.io/badge/Version-9.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.12.16](https://img.shields.io/badge/AppVersion-2021.12.16-informational?style=flat-square)
+![Version: 9.8.10](https://img.shields.io/badge/Version-9.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2021.12.16](https://img.shields.io/badge/AppVersion-2021.12.16-informational?style=flat-square)
 
 Quassel-web is a web client for Quassel.
 
@@ -13,7 +13,6 @@ Quassel-web is a web client for Quassel.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

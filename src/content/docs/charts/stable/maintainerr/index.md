@@ -2,7 +2,7 @@
 title: maintainerr
 ---
 
-![Version: 2.8.9](https://img.shields.io/badge/Version-2.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.3](https://img.shields.io/badge/AppVersion-2.0.3-informational?style=flat-square)
+![Version: 2.8.10](https://img.shields.io/badge/Version-2.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.3](https://img.shields.io/badge/AppVersion-2.0.3-informational?style=flat-square)
 
 Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem.
 
@@ -14,7 +14,6 @@ Looks and smells like Overseerr, does the opposite. Maintenance tool for the Ple
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

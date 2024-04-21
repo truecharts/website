@@ -2,7 +2,7 @@
 title: xmrig
 ---
 
-![Version: 6.8.9](https://img.shields.io/badge/Version-6.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.21.0](https://img.shields.io/badge/AppVersion-6.21.0-informational?style=flat-square)
+![Version: 6.8.10](https://img.shields.io/badge/Version-6.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.21.0](https://img.shields.io/badge/AppVersion-6.21.0-informational?style=flat-square)
 
 Chartised version of XMRig for CPU Mining. Helps turn your server into a Monero / cryptocurrency mining rig. Now optionally works with GPU algorithms as well.
 
@@ -13,7 +13,6 @@ Chartised version of XMRig for CPU Mining. Helps turn your server into a Monero 
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

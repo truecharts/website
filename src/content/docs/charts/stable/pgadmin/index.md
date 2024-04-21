@@ -2,7 +2,7 @@
 title: pgadmin
 ---
 
-![Version: 15.10.9](https://img.shields.io/badge/Version-15.10.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.5.0](https://img.shields.io/badge/AppVersion-8.5.0-informational?style=flat-square)
+![Version: 15.10.10](https://img.shields.io/badge/Version-15.10.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.5.0](https://img.shields.io/badge/AppVersion-8.5.0-informational?style=flat-square)
 
 Web-Based postgresql database management utility
 
@@ -14,7 +14,6 @@ Web-Based postgresql database management utility
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

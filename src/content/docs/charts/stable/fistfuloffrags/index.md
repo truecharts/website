@@ -2,7 +2,7 @@
 title: fistfuloffrags
 ---
 
-![Version: 5.8.9](https://img.shields.io/badge/Version-5.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: fistfuloffrags](https://img.shields.io/badge/AppVersion-fistfuloffrags-informational?style=flat-square)
+![Version: 5.8.10](https://img.shields.io/badge/Version-5.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: fistfuloffrags](https://img.shields.io/badge/AppVersion-fistfuloffrags-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Fistful of Frags and run it.
 
@@ -14,7 +14,6 @@ This Chart will download and install SteamCMD. It will also install Fistful of F
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

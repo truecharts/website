@@ -2,7 +2,7 @@
 title: nzbhydra
 ---
 
-![Version: 20.1.9](https://img.shields.io/badge/Version-20.1.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.0](https://img.shields.io/badge/AppVersion-6.0.0-informational?style=flat-square)
+![Version: 20.1.10](https://img.shields.io/badge/Version-20.1.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 6.0.0](https://img.shields.io/badge/AppVersion-6.0.0-informational?style=flat-square)
 
 Usenet meta search
 
@@ -14,7 +14,6 @@ Usenet meta search
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

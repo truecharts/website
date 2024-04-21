@@ -2,7 +2,7 @@
 title: plaxt
 ---
 
-![Version: 8.8.9](https://img.shields.io/badge/Version-8.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.8.10](https://img.shields.io/badge/Version-8.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This Tools provides a way to keep your watched history synced FROM Plex Server To Trakt.tv
 
@@ -14,8 +14,6 @@ This Tools provides a way to keep your watched history synced FROM Plex Server T
 
 ## Available Documentation
 
-- [**Changelog**](./md)
-- [**Installation Notes**](./md)
 
 ## Readme Content
 

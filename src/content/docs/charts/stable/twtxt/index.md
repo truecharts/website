@@ -2,7 +2,7 @@
 title: twtxt
 ---
 
-![Version: 10.8.9](https://img.shields.io/badge/Version-10.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.1](https://img.shields.io/badge/AppVersion-0.1.1-informational?style=flat-square)
+![Version: 10.8.10](https://img.shields.io/badge/Version-10.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.1](https://img.shields.io/badge/AppVersion-0.1.1-informational?style=flat-square)
 
 A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
 
@@ -15,7 +15,6 @@ A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no 
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

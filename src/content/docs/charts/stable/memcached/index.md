@@ -2,7 +2,7 @@
 title: memcached
 ---
 
-![Version: 12.9.9](https://img.shields.io/badge/Version-12.9.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.26](https://img.shields.io/badge/AppVersion-1.6.26-informational?style=flat-square)
+![Version: 12.9.10](https://img.shields.io/badge/Version-12.9.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.26](https://img.shields.io/badge/AppVersion-1.6.26-informational?style=flat-square)
 
 Memcached is a memory-backed database caching solution
 
@@ -14,7 +14,6 @@ Memcached is a memory-backed database caching solution
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

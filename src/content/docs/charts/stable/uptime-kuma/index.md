@@ -2,7 +2,7 @@
 title: uptime-kuma
 ---
 
-![Version: 10.8.10](https://img.shields.io/badge/Version-10.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.23.12](https://img.shields.io/badge/AppVersion-1.23.12-informational?style=flat-square)
+![Version: 10.8.11](https://img.shields.io/badge/Version-10.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.23.12](https://img.shields.io/badge/AppVersion-1.23.12-informational?style=flat-square)
 
 A fancy self-hosted monitoring tool
 
@@ -14,7 +14,6 @@ A fancy self-hosted monitoring tool
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

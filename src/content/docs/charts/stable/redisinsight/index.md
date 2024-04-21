@@ -2,7 +2,7 @@
 title: redisinsight
 ---
 
-![Version: 6.8.9](https://img.shields.io/badge/Version-6.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.14.0](https://img.shields.io/badge/AppVersion-1.14.0-informational?style=flat-square)
+![Version: 6.8.10](https://img.shields.io/badge/Version-6.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.14.0](https://img.shields.io/badge/AppVersion-1.14.0-informational?style=flat-square)
 
 GUI for Redis.
 
@@ -15,8 +15,6 @@ GUI for Redis.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
-- [**Installation Notes**](./md)
 
 ## Readme Content
 

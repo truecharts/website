@@ -2,7 +2,7 @@
 title: csi-driver-smb
 ---
 
-![Version: 3.8.10](https://img.shields.io/badge/Version-3.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 3.8.11](https://img.shields.io/badge/Version-3.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 csi-driver-smb is a smb CSI driver for kubernetes
 
@@ -15,7 +15,6 @@ csi-driver-smb is a smb CSI driver for kubernetes
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

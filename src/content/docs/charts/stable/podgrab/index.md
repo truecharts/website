@@ -2,7 +2,7 @@
 title: podgrab
 ---
 
-![Version: 17.8.9](https://img.shields.io/badge/Version-17.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.0](https://img.shields.io/badge/AppVersion-1.0.0-informational?style=flat-square)
+![Version: 17.8.10](https://img.shields.io/badge/Version-17.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.0](https://img.shields.io/badge/AppVersion-1.0.0-informational?style=flat-square)
 
 A self-hosted podcast manager to download episodes as soon as they become live.
 
@@ -14,7 +14,6 @@ A self-hosted podcast manager to download episodes as soon as they become live.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

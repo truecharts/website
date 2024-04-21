@@ -2,7 +2,7 @@
 title: nvidia-device-plugin
 ---
 
-![Version: 0.16.4](https://img.shields.io/badge/Version-0.16.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 0.16.5](https://img.shields.io/badge/Version-0.16.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 NVIDIA device plugin for Kubernetes
 
@@ -15,8 +15,6 @@ NVIDIA device plugin for Kubernetes
 
 ## Available Documentation
 
-- [**Changelog**](./md)
-- [**Nvidia Device Plugin Setup**](./md)
 
 ## Readme Content
 

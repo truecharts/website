@@ -2,7 +2,7 @@
 title: synctube
 ---
 
-![Version: 7.8.9](https://img.shields.io/badge/Version-7.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 7.8.10](https://img.shields.io/badge/Version-7.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Synchronized video viewing with chat and other features. Lightweight modern implementation and very easy way to run locally.
 
@@ -14,7 +14,6 @@ Synchronized video viewing with chat and other features. Lightweight modern impl
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 
