@@ -2,7 +2,7 @@
 title: prusaslicer-novnc
 ---
 
-![Version: 8.8.13](https://img.shields.io/badge/Version-8.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.8.14](https://img.shields.io/badge/Version-8.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Enjoy Prusaslicer directly in your browser with this easy to use Chart Chart.
 
@@ -14,6 +14,7 @@ Enjoy Prusaslicer directly in your browser with this easy to use Chart Chart.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

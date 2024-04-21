@@ -2,7 +2,7 @@
 title: solr
 ---
 
-![Version: 10.8.12](https://img.shields.io/badge/Version-10.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.5.0](https://img.shields.io/badge/AppVersion-9.5.0-informational?style=flat-square)
+![Version: 10.8.13](https://img.shields.io/badge/Version-10.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.5.0](https://img.shields.io/badge/AppVersion-9.5.0-informational?style=flat-square)
 
 Apache Solr
 
@@ -14,6 +14,7 @@ Apache Solr
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

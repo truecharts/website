@@ -2,7 +2,7 @@
 title: lldap
 ---
 
-![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0](https://img.shields.io/badge/AppVersion-0.5.0-informational?style=flat-square)
+![Version: 5.8.12](https://img.shields.io/badge/Version-5.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.5.0](https://img.shields.io/badge/AppVersion-0.5.0-informational?style=flat-square)
 
 Lightweight ldap server for authentication and user management
 
@@ -14,6 +14,10 @@ Lightweight ldap server for authentication and user management
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Authelia + LLDAP + Traefik ForwardAuth Setup guide**](./authelia-lldap-forwardauth)
+- [**Authelia Setup**](./authelia)
+- [**Installation notes**](./installation-notes)
 
 ## Readme Content
 

@@ -2,7 +2,7 @@
 title: clusterissuer
 ---
 
-![Version: 7.8.13](https://img.shields.io/badge/Version-7.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 7.8.14](https://img.shields.io/badge/Version-7.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Certificate management for Kubernetes
 
@@ -14,6 +14,10 @@ Certificate management for Kubernetes
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Cluster Certificates Setup Guide**](./cluster-certificates)
+- [**clusterissuer Setup Guide**](./how-to)
+- [**Input Validation**](./validation)
 
 ## Readme Content
 

@@ -2,7 +2,7 @@
 title: plex
 ---
 
-![Version: 17.8.15](https://img.shields.io/badge/Version-17.8.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.40.2.8395](https://img.shields.io/badge/AppVersion-1.40.2.8395-informational?style=flat-square)
+![Version: 17.8.16](https://img.shields.io/badge/Version-17.8.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.40.2.8395](https://img.shields.io/badge/AppVersion-1.40.2.8395-informational?style=flat-square)
 
 Plex Media Server
 
@@ -14,6 +14,10 @@ Plex Media Server
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Plex Installation Notes**](./installation_notes)
+- [**Community Migration Guide**](./migration_guide)
+- [**Input Validation**](./validation)
 
 ## Readme Content
 

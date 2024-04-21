@@ -2,7 +2,7 @@
 title: ersatztv
 ---
 
-![Version: 3.8.11](https://img.shields.io/badge/Version-3.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.6](https://img.shields.io/badge/AppVersion-0.8.6-informational?style=flat-square)
+![Version: 3.8.12](https://img.shields.io/badge/Version-3.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.6](https://img.shields.io/badge/AppVersion-0.8.6-informational?style=flat-square)
 
 ErsatzTV configuring and streaming custom live channels using your media library.
 
@@ -14,6 +14,7 @@ ErsatzTV configuring and streaming custom live channels using your media library
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

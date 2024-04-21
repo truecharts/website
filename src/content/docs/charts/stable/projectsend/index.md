@@ -2,7 +2,7 @@
 title: projectsend
 ---
 
-![Version: 12.15.18](https://img.shields.io/badge/Version-12.15.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 12.15.19](https://img.shields.io/badge/Version-12.15.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 ProjectSend is a self-hosted application that lets you upload files and assign them to specific clients that you create yourself.
 
@@ -14,6 +14,7 @@ ProjectSend is a self-hosted application that lets you upload files and assign t
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

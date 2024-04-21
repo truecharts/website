@@ -2,7 +2,7 @@
 title: nzbget
 ---
 
-![Version: 20.8.11](https://img.shields.io/badge/Version-20.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.0.0](https://img.shields.io/badge/AppVersion-23.0.0-informational?style=flat-square)
+![Version: 20.8.12](https://img.shields.io/badge/Version-20.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 23.0.0](https://img.shields.io/badge/AppVersion-23.0.0-informational?style=flat-square)
 
 NZBGet is a Usenet downloader client
 
@@ -14,6 +14,8 @@ NZBGet is a Usenet downloader client
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Guide**](./installation)
 
 ## Readme Content
 

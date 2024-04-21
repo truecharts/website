@@ -2,7 +2,7 @@
 title: prometheus-operator
 ---
 
-![Version: 6.10.12](https://img.shields.io/badge/Version-6.10.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.10.13](https://img.shields.io/badge/Version-6.10.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Prometheus Operator is an operator for prometheus
 
@@ -14,6 +14,8 @@ Prometheus Operator is an operator for prometheus
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Troubleshooting**](./installation)
 
 ## Readme Content
 

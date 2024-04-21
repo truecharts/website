@@ -2,7 +2,7 @@
 title: digikam
 ---
 
-![Version: 11.8.11](https://img.shields.io/badge/Version-11.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.8.0](https://img.shields.io/badge/AppVersion-7.8.0-informational?style=flat-square)
+![Version: 11.8.12](https://img.shields.io/badge/Version-11.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.8.0](https://img.shields.io/badge/AppVersion-7.8.0-informational?style=flat-square)
 
 Professional Photo Management with the Power of Open Source
 
@@ -15,6 +15,7 @@ Professional Photo Management with the Power of Open Source
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 
