@@ -2,7 +2,7 @@
 title: immich
 ---
 
-![Version: 14.16.6](https://img.shields.io/badge/Version-14.16.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.102.2](https://img.shields.io/badge/AppVersion-1.102.2-informational?style=flat-square)
+![Version: 14.16.10](https://img.shields.io/badge/Version-14.16.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.102.3](https://img.shields.io/badge/AppVersion-1.102.3-informational?style=flat-square)
 
 High performance self-hosted photo and video backup solution.
 
