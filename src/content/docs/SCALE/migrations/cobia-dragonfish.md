@@ -31,9 +31,16 @@ The above issues exist both for our new in-house TrueCharts OpenEBS storage solu
 
 ## For existing Users and Apps
 
+:::note[Ensure Apps are Updated]
+Prior to updating to TrueNAS SCALE DragonFish, please ensure all of your TrueCharts apps are fully up to date.
+
+:::
+
 ### Post Cobia-to-DragonFish Upgrade Steps
 
-Once you have completed updating your TrueNAS SCALE system to DragonFish, enter the following command in the TrueNAS SCALE shell ensuring it's ran as root and as shown below:
+Once you have completed updating your TrueNAS SCALE system to DragonFish, the first step is to wait at least 30 minutes after updating. This allows time for the update to finish and services to be started. Do not restart the system or otherwise interrupt its operation during this time.
+
+Once you've done this, enter the following command in the TrueNAS SCALE shell ensuring it's ran as root and as shown below:
 
 ```shell
 rm /mnt/tank/ix-applications/k3s/server/manifests/zfs-operator.yaml
@@ -53,7 +60,7 @@ and
 k3s kubectl delete storageClass openebs-zfspv-default
 ```
 
-Continue with the OpenEBS section of our TrueNAS SCALE Getting Started [guide](/scale/guides/getting-started#openebs-setup) and once complete, continue as below.
+Continue with the OpenEBS section of our TrueNAS SCALE Getting Started [guide](/scale/guides/getting-started#openebs-setup) and once complete, return here and continue as below.
 
 After installing the `OpenEBS` app from the above guide, run the following and you're done:
 
