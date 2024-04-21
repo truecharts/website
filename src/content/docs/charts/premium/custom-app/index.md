@@ -2,34 +2,34 @@
 title: custom-app
 ---
 
-![Version: 12.8.8](https://img.shields.io/badge/Version-12.8.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.21.1155](https://img.shields.io/badge/AppVersion-0.21.1155-informational?style=flat-square)
+![Version: 12.8.9](https://img.shields.io/badge/Version-12.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.21.1155](https://img.shields.io/badge/AppVersion-0.21.1155-informational?style=flat-square)
 
 Advanced tool to create your own TrueCharts-based Charts
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/custom-app
+- https://github.com/truecharts/charts/tree/master/charts/premium/custom-app
 - https://ghcr.io/linuxserver/jackett
 
 ## Available Documentation
 
-- [**Changelog**](./CHANGELOG.md)
+- [**Changelog**](./md)
 
 ## Readme Content
 
 
-## General Info
+### General Info
 
 TrueCharts can be installed as both _normal_ Helm Charts or as TrueNAS SCALE Apps.
 Both solutions are fully supported, but we heavily advice the use of normal Helm Charts where possible
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/stable/custom-app)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/premium/custom-app)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
-## Installation
+### Installation
 
-### Helm-Chart installation
+#### Helm-Chart installation
 
 To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
@@ -38,24 +38,24 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/helm/
 
 
-### TrueNAS SCALE Apps
+#### TrueNAS SCALE Apps
 
 For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale/guides/scale-intro).
 
-## Configuration Options
+### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
 
-## Chart Specific Guides and information
+### Chart Specific Guides and information
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/stable/custom-app
+https://truecharts.org/charts/premium/custom-app
 
-## Support
+### Support
 
 
 - See the [Website](https://truecharts.org)
@@ -64,7 +64,7 @@ https://truecharts.org/charts/stable/custom-app
 
 ---
 
-## Sponsor TrueCharts
+### Sponsor TrueCharts
 
 TrueCharts can only exist due to the incredible effort of our staff.
 Please consider making a [donation](https://truecharts.org/general/sponsor) or contributing back to the project any way you can!

@@ -2,7 +2,7 @@
 title: seafile
 ---
 
-![Version: 5.15.15](https://img.shields.io/badge/Version-5.15.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.0.8](https://img.shields.io/badge/AppVersion-11.0.8-informational?style=flat-square)
+![Version: 5.15.16](https://img.shields.io/badge/Version-5.15.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.0.8](https://img.shields.io/badge/AppVersion-11.0.8-informational?style=flat-square)
 
 Reliable and Performant File Sync and Share Solution
 
@@ -14,13 +14,13 @@ Reliable and Performant File Sync and Share Solution
 
 ## Available Documentation
 
-- [**Changelog**](./CHANGELOG.md)
-- [**Installation notes and guidelines**](./install-notes.md)
+- [**Changelog**](./md)
+- [**Installation notes and guidelines**](./md)
 
 ## Readme Content
 
 
-## General Info
+### General Info
 
 TrueCharts can be installed as both _normal_ Helm Charts or as TrueNAS SCALE Apps.
 Both solutions are fully supported, but we heavily advice the use of normal Helm Charts where possible
@@ -29,9 +29,9 @@ For more information about this Chart, please check the docs on the TrueCharts [
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
-## Installation
+### Installation
 
-### Helm-Chart installation
+#### Helm-Chart installation
 
 To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 
@@ -40,24 +40,24 @@ To install TrueCharts Helm charts using Helm, you can use our OCI Repository.
 For more information on how to install TrueCharts Helm charts, checkout the instructions on the website: https://truecharts.org/helm/
 
 
-### TrueNAS SCALE Apps
+#### TrueNAS SCALE Apps
 
 For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale/guides/scale-intro).
 
-## Configuration Options
+### Configuration Options
 
 To view the chart specific options, please view Values.yaml included in the chart.
 
 All our Charts use a shared "common" library chart that contains most of the templating and options.
 For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
 
-## Chart Specific Guides and information
+### Chart Specific Guides and information
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
 https://truecharts.org/charts/stable/seafile
 
-## Support
+### Support
 
 
 - See the [Website](https://truecharts.org)
@@ -66,7 +66,7 @@ https://truecharts.org/charts/stable/seafile
 
 ---
 
-## Sponsor TrueCharts
+### Sponsor TrueCharts
 
 TrueCharts can only exist due to the incredible effort of our staff.
 Please consider making a [donation](https://truecharts.org/general/sponsor) or contributing back to the project any way you can!
