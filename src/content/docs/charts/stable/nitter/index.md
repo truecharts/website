@@ -2,7 +2,7 @@
 title: nitter
 ---
 
-![Version: 6.10.16](https://img.shields.io/badge/Version-6.10.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.10.17](https://img.shields.io/badge/Version-6.10.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A free and open source alternative Twitter front-end focused on privacy and performance.
 
