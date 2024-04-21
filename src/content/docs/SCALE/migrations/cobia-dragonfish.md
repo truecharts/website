@@ -32,7 +32,7 @@ The above issues exist both for our new in-house TrueCharts OpenEBS storage solu
 ## For existing Users and Apps
 
 :::note[Ensure Apps are Updated]
-Prior to updating to TrueNAS SCALE DragonFish, please ensure all of your TrueCharts apps are fully up to date.
+Prior to updating to TrueNAS SCALE DragonFish, please ensure all of your TrueCharts apps are fully up to date and working correctly.
 
 :::
 
