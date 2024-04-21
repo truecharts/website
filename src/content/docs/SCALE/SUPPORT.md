@@ -17,7 +17,7 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 | TrueNAS Version    | Branch   | Supported With Updates | Accepting Support Tickets | Accepting Bug Reports | Notes                                                                                          |
 | ------------------ | -------- | ---------------------- | ------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
 | 22.12.4.2 or prior | `master` | :x:                    | :x:                       | :x:                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
-| 23.10.2            | `master` | :white_check_mark:     | :x:                       | :x:                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
+| 23.10.2            | `legacy_23.10` | :white_check_mark:     | :x:                       | :x:                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
 | 24.04.X            | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable release as of 23 April 2024                                                             |
 | Alpha/BETA/RC      | `master` | :white_check_mark:     | :x:                       | :white_check_mark:    | Please only submit bug reports during code-freeze                                              |
 | Nightly            | `master` | :white_check_mark:     | :x:                       | :x:                   |                                                                                                |
