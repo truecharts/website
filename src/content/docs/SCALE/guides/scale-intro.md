@@ -50,12 +50,12 @@ To add a new TrueCharts app to your SCALE installation:
 
 ![Adding App](./img/Apps6.png)
 
-4. [Configure your app](/scale/options/) for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**.
-   **[Application Name:](/scale/options/application-name/)** Configure a custom name for your app and select a version to install.
+4. Configure your app for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**.
+   **Application Name** Configure a custom name for your app and select a version to install.
    **General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.
-   **[Networking & Services:](/scale/options/networking/)** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
-   **[Storage and Persistence:](/scale/options/storage/)** Configure core app storage and [add additional app storage](/scale/guides/add-storage).
-   **[Ingress:](/scale/options/ingress/)** For TrueCharts apps you can configure [Ingress with Traefik](/charts/premium/traefik/how-to) to easily proxy Internet traffic to your app.
+   **Networking & Services:** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
+   **Storage and Persistence:** Configure core app storage and [add additional app storage](/scale/guides/add-storage).
+   **Ingress:** For TrueCharts apps you can configure [Ingress with Traefik](/charts/premium/traefik/how-to) to easily proxy Internet traffic to your app.
    **Security & Permissions:** Configure PUID, fsGroup, and other security and file permissions for your app.
    **Other Options:** You can also configure GPU support, addons (such as adding a CodeServer for easy file editing), and advanced app settings.
 5. Once you've finished configuring your app, click **Install** to start the deployment process.
