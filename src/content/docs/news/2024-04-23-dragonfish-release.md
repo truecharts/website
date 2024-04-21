@@ -60,8 +60,8 @@ We're committed to providing the best support and experience for our TrueCharts 
 
 If you find our documentation/guides helpful, want to join the ranks of the over 250 people helping buy us Coffee ☕ or just have a request for an app you'd like to see added to the TrueCharts catalogue of over [750+ existing](/charts/description-list), you can do this via our respective Open Collective pages here:
 
-[Request an app/chart bounty 💰](https://opencollective.com/truecharts-bounties/contribute/request-chart-bounty-72004)
-
 [One time or recurring Coffee donations 🫶](https://opencollective.com/truecharts)
+
+[Request an app/chart bounty 💰](https://opencollective.com/truecharts-bounties/contribute/request-chart-bounty-72004)
 
 Thank you for choosing TrueCharts, and here's to a future filled with innovation and collaboration. Happy charting!
