@@ -17,7 +17,7 @@ DragonFish is the latest update to the iX-Systems TrueNAS SCALE platform, and br
 
 ## TrueCharts and DragonFish: A Perfect Match 💞
 
-Going forward, TrueCharts wants to confirm that DragonFish is the ONLY supported version by TrueCharts from its release onwards. This allows us to focus our efforts on ensuring compatibility, stability, and optimal performance for TrueNAS SCALE DragonFish users into the future. This means that there are a couple of things to note, depending on which version of TrueNAS SCALE you're running.
+Going forward, TrueCharts wants to confirm that DragonFish is the ONLY supported SCALE version by TrueCharts from its release onwards. This allows us to focus our efforts on ensuring compatibility, stability, and optimal performance for TrueNAS SCALE DragonFish users into the future. This means that there are a couple of things to note, depending on which version of TrueNAS SCALE you're running.
 
 ### TrueNAS SCALE Cobia Users
 
