@@ -2,7 +2,7 @@
 title: wg-easy
 ---
 
-![Version: 12.2.11](https://img.shields.io/badge/Version-12.2.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 12.0.0](https://img.shields.io/badge/AppVersion-12.0.0-informational?style=flat-square)
+![Version: 12.2.12](https://img.shields.io/badge/Version-12.2.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 12.0.0](https://img.shields.io/badge/AppVersion-12.0.0-informational?style=flat-square)
 
 The easiest way to run WireGuard VPN + Web-based Admin UI.
 
@@ -14,6 +14,9 @@ The easiest way to run WireGuard VPN + Web-based Admin UI.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**WG-Easy Installation Notes**](./installation-notes)
+- [**How-To**](./setup-guide)
 
 ## Readme Content
 

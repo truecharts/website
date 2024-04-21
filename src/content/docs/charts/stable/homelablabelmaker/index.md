@@ -2,7 +2,7 @@
 title: homelablabelmaker
 ---
 
-![Version: 8.8.11](https://img.shields.io/badge/Version-8.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 8.8.12](https://img.shields.io/badge/Version-8.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 DIY tool to create and print labels for Dell Poweredge and HP Proliant drive caddies.
 
@@ -14,6 +14,7 @@ DIY tool to create and print labels for Dell Poweredge and HP Proliant drive cad
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

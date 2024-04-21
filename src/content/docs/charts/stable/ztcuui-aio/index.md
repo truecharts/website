@@ -2,7 +2,7 @@
 title: ztcuui-aio
 ---
 
-![Version: 8.8.11](https://img.shields.io/badge/Version-8.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.1.28](https://img.shields.io/badge/AppVersion-2024.1.28-informational?style=flat-square)
+![Version: 8.8.12](https://img.shields.io/badge/Version-8.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.1.28](https://img.shields.io/badge/AppVersion-2024.1.28-informational?style=flat-square)
 
 ZeroTier network controller user interface in a Docker container
 
@@ -14,6 +14,7 @@ ZeroTier network controller user interface in a Docker container
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

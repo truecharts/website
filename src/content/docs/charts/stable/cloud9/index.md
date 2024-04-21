@@ -2,7 +2,7 @@
 title: cloud9
 ---
 
-![Version: 11.8.11](https://img.shields.io/badge/Version-11.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.29.2](https://img.shields.io/badge/AppVersion-1.29.2-informational?style=flat-square)
+![Version: 11.8.12](https://img.shields.io/badge/Version-11.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.29.2](https://img.shields.io/badge/AppVersion-1.29.2-informational?style=flat-square)
 
 A complete web based IDE with terminal access
 
@@ -15,6 +15,7 @@ A complete web based IDE with terminal access
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

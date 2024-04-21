@@ -2,7 +2,7 @@
 title: pavlovvr
 ---
 
-![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: palor](https://img.shields.io/badge/AppVersion-palor-informational?style=flat-square)
+![Version: 5.8.12](https://img.shields.io/badge/Version-5.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: palor](https://img.shields.io/badge/AppVersion-palor-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Pavlov VR and run it.
 
@@ -14,6 +14,7 @@ This Chart will download and install SteamCMD. It will also install Pavlov VR an
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

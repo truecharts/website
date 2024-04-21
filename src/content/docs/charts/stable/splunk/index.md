@@ -2,7 +2,7 @@
 title: splunk
 ---
 
-![Version: 7.8.11](https://img.shields.io/badge/Version-7.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.2.1](https://img.shields.io/badge/AppVersion-9.2.1-informational?style=flat-square)
+![Version: 7.8.12](https://img.shields.io/badge/Version-7.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 9.2.1](https://img.shields.io/badge/AppVersion-9.2.1-informational?style=flat-square)
 
 This is a Chartfile for Splunk designed for OpenShift and TrueNAS based on Alpine Linux - https://www.splunk.com
 
@@ -14,6 +14,7 @@ This is a Chartfile for Splunk designed for OpenShift and TrueNAS based on Alpin
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -2,7 +2,7 @@
 title: guacamole
 ---
 
-![Version: 13.8.11](https://img.shields.io/badge/Version-13.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.5](https://img.shields.io/badge/AppVersion-1.5.5-informational?style=flat-square)
+![Version: 13.8.12](https://img.shields.io/badge/Version-13.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.5.5](https://img.shields.io/badge/AppVersion-1.5.5-informational?style=flat-square)
 
 Apache Guacamole is a clientless remote desktop gateway.
 
@@ -15,6 +15,7 @@ Apache Guacamole is a clientless remote desktop gateway.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

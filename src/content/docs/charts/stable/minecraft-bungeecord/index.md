@@ -2,7 +2,7 @@
 title: minecraft-bungeecord
 ---
 
-![Version: 8.8.11](https://img.shields.io/badge/Version-8.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2022.4.1](https://img.shields.io/badge/AppVersion-2022.4.1-informational?style=flat-square)
+![Version: 8.8.12](https://img.shields.io/badge/Version-8.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2022.4.1](https://img.shields.io/badge/AppVersion-2022.4.1-informational?style=flat-square)
 
 the front-end of a cluster of minecraft-java containers.
 
@@ -14,6 +14,9 @@ the front-end of a cluster of minecraft-java containers.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**How To**](./how-to)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

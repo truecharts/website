@@ -2,7 +2,7 @@
 title: tauticord
 ---
 
-![Version: 5.4.14](https://img.shields.io/badge/Version-5.4.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.3.4](https://img.shields.io/badge/AppVersion-5.3.4-informational?style=flat-square)
+![Version: 5.4.15](https://img.shields.io/badge/Version-5.4.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.3.4](https://img.shields.io/badge/AppVersion-5.3.4-informational?style=flat-square)
 
 A Discord bot that displays live data from Tautulli.
 
@@ -14,6 +14,8 @@ A Discord bot that displays live data from Tautulli.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

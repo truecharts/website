@@ -2,7 +2,7 @@
 title: resilio-sync
 ---
 
-![Version: 14.8.12](https://img.shields.io/badge/Version-14.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.7.3](https://img.shields.io/badge/AppVersion-2.7.3-informational?style=flat-square)
+![Version: 14.8.13](https://img.shields.io/badge/Version-14.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.7.3](https://img.shields.io/badge/AppVersion-2.7.3-informational?style=flat-square)
 
 Resilio Sync is a fast, reliable, and simple file sync and share solution, powered by P2P technology
 
@@ -14,6 +14,7 @@ Resilio Sync is a fast, reliable, and simple file sync and share solution, power
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

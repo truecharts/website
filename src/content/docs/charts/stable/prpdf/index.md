@@ -2,7 +2,7 @@
 title: prpdf
 ---
 
-![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.12](https://img.shields.io/badge/Version-5.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan with OCR. Merge etc.
 
@@ -14,6 +14,7 @@ This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan wi
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

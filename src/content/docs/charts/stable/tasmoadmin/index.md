@@ -2,7 +2,7 @@
 title: tasmoadmin
 ---
 
-![Version: 8.8.11](https://img.shields.io/badge/Version-8.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.2](https://img.shields.io/badge/AppVersion-4.0.2-informational?style=flat-square)
+![Version: 8.8.12](https://img.shields.io/badge/Version-8.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.0.2](https://img.shields.io/badge/AppVersion-4.0.2-informational?style=flat-square)
 
 A administrative platform for devices flashed with Tasmota.
 
@@ -14,6 +14,7 @@ A administrative platform for devices flashed with Tasmota.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

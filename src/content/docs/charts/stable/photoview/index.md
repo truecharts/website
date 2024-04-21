@@ -2,7 +2,7 @@
 title: photoview
 ---
 
-![Version: 13.8.11](https://img.shields.io/badge/Version-13.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.13](https://img.shields.io/badge/AppVersion-2.3.13-informational?style=flat-square)
+![Version: 13.8.12](https://img.shields.io/badge/Version-13.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.13](https://img.shields.io/badge/AppVersion-2.3.13-informational?style=flat-square)
 
 Photoview is a simple and user-friendly photo gallery.
 
@@ -14,6 +14,8 @@ Photoview is a simple and user-friendly photo gallery.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

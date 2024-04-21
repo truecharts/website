@@ -2,7 +2,7 @@
 title: external-ip
 ---
 
-![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.12](https://img.shields.io/badge/Version-5.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Gets external IP via DIG command ( OpenDNS , Cloudflare, google ) on a scheduled basis that can be customized. Also includes the ability to alert you via pushover if the IP changes.
 
@@ -14,6 +14,7 @@ Gets external IP via DIG command ( OpenDNS , Cloudflare, google ) on a scheduled
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

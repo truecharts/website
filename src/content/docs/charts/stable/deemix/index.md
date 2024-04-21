@@ -2,7 +2,7 @@
 title: deemix
 ---
 
-![Version: 10.8.11](https://img.shields.io/badge/Version-10.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 10.8.12](https://img.shields.io/badge/Version-10.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 deemix is a deezer downloader built from the ashes of Deezloader Remix.
 
@@ -14,6 +14,7 @@ deemix is a deezer downloader built from the ashes of Deezloader Remix.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

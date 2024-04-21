@@ -2,7 +2,7 @@
 title: bitmagnet
 ---
 
-![Version: 1.9.11](https://img.shields.io/badge/Version-1.9.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.7.14](https://img.shields.io/badge/AppVersion-0.7.14-informational?style=flat-square)
+![Version: 1.9.12](https://img.shields.io/badge/Version-1.9.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.7.14](https://img.shields.io/badge/AppVersion-0.7.14-informational?style=flat-square)
 
 A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 
@@ -15,6 +15,8 @@ A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent se
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Scale App Installation**](./installation_notes)
 
 ## Readme Content
 

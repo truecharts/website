@@ -2,7 +2,7 @@
 title: organizr
 ---
 
-![Version: 18.8.11](https://img.shields.io/badge/Version-18.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 18.8.12](https://img.shields.io/badge/Version-18.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 HTPC/Homelab Services Organizer
 
@@ -14,6 +14,8 @@ HTPC/Homelab Services Organizer
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Organizr Forward Auth Setup Guide**](./forward_auth)
 
 ## Readme Content
 

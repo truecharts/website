@@ -2,7 +2,7 @@
 title: remotely
 ---
 
-![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1380.0.0](https://img.shields.io/badge/AppVersion-1380.0.0-informational?style=flat-square)
+![Version: 5.8.12](https://img.shields.io/badge/Version-5.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1380.0.0](https://img.shields.io/badge/AppVersion-1380.0.0-informational?style=flat-square)
 
 A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
 
@@ -14,6 +14,7 @@ A remote control and remote scripting solution, built with .NET 5, Blazor, Signa
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

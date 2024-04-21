@@ -2,7 +2,7 @@
 title: plausible
 ---
 
-![Version: 10.17.18](https://img.shields.io/badge/Version-10.17.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.0](https://img.shields.io/badge/AppVersion-2.0.0-informational?style=flat-square)
+![Version: 10.17.19](https://img.shields.io/badge/Version-10.17.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.0](https://img.shields.io/badge/AppVersion-2.0.0-informational?style=flat-square)
 
 Plausible is lightweight and open source web analytics. No cookies and fully compliant with GDPR, CCPA and PECR.
 
@@ -17,6 +17,7 @@ Plausible is lightweight and open source web analytics. No cookies and fully com
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

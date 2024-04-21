@@ -2,7 +2,7 @@
 title: sdtd
 ---
 
-![Version: 7.8.11](https://img.shields.io/badge/Version-7.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7dtd](https://img.shields.io/badge/AppVersion-7dtd-informational?style=flat-square)
+![Version: 7.8.12](https://img.shields.io/badge/Version-7.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7dtd](https://img.shields.io/badge/AppVersion-7dtd-informational?style=flat-square)
 
 This chart will download and install SteamCMD. It will also install 7 Days to Die and run it.
 
@@ -14,6 +14,7 @@ This chart will download and install SteamCMD. It will also install 7 Days to Di
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

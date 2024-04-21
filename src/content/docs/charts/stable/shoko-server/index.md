@@ -2,7 +2,7 @@
 title: shoko-server
 ---
 
-![Version: 9.8.11](https://img.shields.io/badge/Version-9.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.2](https://img.shields.io/badge/AppVersion-4.2.2-informational?style=flat-square)
+![Version: 9.8.12](https://img.shields.io/badge/Version-9.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.2](https://img.shields.io/badge/AppVersion-4.2.2-informational?style=flat-square)
 
 Anime cataloging program designed to automate the cataloging of your collection.
 
@@ -14,6 +14,7 @@ Anime cataloging program designed to automate the cataloging of your collection.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -2,7 +2,7 @@
 title: firefox
 ---
 
-![Version: 13.1.12](https://img.shields.io/badge/Version-13.1.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 124.0.1](https://img.shields.io/badge/AppVersion-124.0.1-informational?style=flat-square)
+![Version: 13.1.13](https://img.shields.io/badge/Version-13.1.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 124.0.1](https://img.shields.io/badge/AppVersion-124.0.1-informational?style=flat-square)
 
 a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.
 
@@ -14,6 +14,7 @@ a free and open-source web browser developed by the Mozilla Foundation and its s
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 
