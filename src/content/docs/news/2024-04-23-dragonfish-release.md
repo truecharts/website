@@ -56,7 +56,7 @@ Don't miss out on any updates or announcements from the TrueCharts team. We enco
 
 ## Closing Out
 
-We're committed to providing the best support and experience for our TrueCharts users on TrueNAS SCALE DragonFish. The TrueCharts team would also like to thank those who have generously donated towards our project for their continued support 💙. You keep TrueCharts thriving and allow us to continue providing resources such as our [new and improved website](/news/new-website) to the community.
+We're committed to providing the best support and experience for our TrueCharts users on TrueNAS SCALE DragonFish. The TrueCharts team would also like to thank those who have generously donated towards our project for their continued support 💙. You keep TrueCharts thriving and allow us to continue providing resources such as our [new and improved website](https://truecharts.org/news/New-Website/) to the community.
 
 If you find our documentation/guides helpful, want to join the ranks of the over 250 people helping buy us Coffee ☕ or just have a request for an app you'd like to see added to the TrueCharts catalogue of over [750+ existing](/charts/description-list), you can do this via our respective Open Collective pages here:
 
