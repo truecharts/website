@@ -2,7 +2,7 @@
 title: assettocorsa
 ---
 
-![Version: 5.8.9](https://img.shields.io/badge/Version-5.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: assettocorsa](https://img.shields.io/badge/AppVersion-assettocorsa-informational?style=flat-square)
+![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: assettocorsa](https://img.shields.io/badge/AppVersion-assettocorsa-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install AssettoCorsa and run it.
 
@@ -14,7 +14,6 @@ This Chart will download and install SteamCMD. It will also install AssettoCorsa
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

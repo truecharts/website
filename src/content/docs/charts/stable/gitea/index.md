@@ -2,7 +2,7 @@
 title: gitea
 ---
 
-![Version: 18.16.17](https://img.shields.io/badge/Version-18.16.17-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.21.11](https://img.shields.io/badge/AppVersion-1.21.11-informational?style=flat-square)
+![Version: 18.16.19](https://img.shields.io/badge/Version-18.16.19-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.21.11](https://img.shields.io/badge/AppVersion-1.21.11-informational?style=flat-square)
 
 Self hosted GIT repositories
 
@@ -15,8 +15,6 @@ Self hosted GIT repositories
 
 ## Available Documentation
 
-- [**Changelog**](./md)
-- [**Input Validation**](./md)
 
 ## Readme Content
 

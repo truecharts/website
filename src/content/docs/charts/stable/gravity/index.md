@@ -2,7 +2,7 @@
 title: gravity
 ---
 
-![Version: 3.8.9](https://img.shields.io/badge/Version-3.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.1](https://img.shields.io/badge/AppVersion-0.8.1-informational?style=flat-square)
+![Version: 3.8.11](https://img.shields.io/badge/Version-3.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.1](https://img.shields.io/badge/AppVersion-0.8.1-informational?style=flat-square)
 
 Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
 
@@ -14,7 +14,6 @@ Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

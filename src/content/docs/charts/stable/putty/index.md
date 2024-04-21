@@ -2,7 +2,7 @@
 title: putty
 ---
 
-![Version: 9.9.5](https://img.shields.io/badge/Version-9.9.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.04.1](https://img.shields.io/badge/AppVersion-24.04.1-informational?style=flat-square)
+![Version: 9.9.7](https://img.shields.io/badge/Version-9.9.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.04.1](https://img.shields.io/badge/AppVersion-24.04.1-informational?style=flat-square)
 
 PuTTY is a free and open-source terminal emulator, serial console and network file transfer application.
 
@@ -14,8 +14,6 @@ PuTTY is a free and open-source terminal emulator, serial console and network fi
 
 ## Available Documentation
 
-- [**Changelog**](./md)
-- [**Installation Notes**](./md)
 
 ## Readme Content
 

@@ -2,7 +2,7 @@
 title: code-server
 ---
 
-![Version: 11.10.9](https://img.shields.io/badge/Version-11.10.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.23.1](https://img.shields.io/badge/AppVersion-4.23.1-informational?style=flat-square)
+![Version: 11.10.11](https://img.shields.io/badge/Version-11.10.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.23.1](https://img.shields.io/badge/AppVersion-4.23.1-informational?style=flat-square)
 
 Run VS Code on any machine anywhere and access it in the browser.
 
@@ -14,7 +14,6 @@ Run VS Code on any machine anywhere and access it in the browser.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

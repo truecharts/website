@@ -2,7 +2,7 @@
 title: sqlitebrowser
 ---
 
-![Version: 10.8.9](https://img.shields.io/badge/Version-10.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 18.04.1](https://img.shields.io/badge/AppVersion-18.04.1-informational?style=flat-square)
+![Version: 10.8.11](https://img.shields.io/badge/Version-10.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 18.04.1](https://img.shields.io/badge/AppVersion-18.04.1-informational?style=flat-square)
 
 A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite
 
@@ -15,7 +15,6 @@ A high quality, visual, open source tool to create, design, and edit database fi
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

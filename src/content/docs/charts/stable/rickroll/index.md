@@ -2,7 +2,7 @@
 title: rickroll
 ---
 
-![Version: 6.8.10](https://img.shields.io/badge/Version-6.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.8.12](https://img.shields.io/badge/Version-6.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Self-hosted Rick Roll chart.
 
@@ -14,7 +14,6 @@ Self-hosted Rick Roll chart.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

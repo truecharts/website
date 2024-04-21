@@ -2,7 +2,7 @@
 title: kms
 ---
 
-![Version: 18.8.9](https://img.shields.io/badge/Version-18.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: minimal](https://img.shields.io/badge/AppVersion-minimal-informational?style=flat-square)
+![Version: 18.8.11](https://img.shields.io/badge/Version-18.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: minimal](https://img.shields.io/badge/AppVersion-minimal-informational?style=flat-square)
 
 Private Windows Activation Server for development and testing
 
@@ -14,7 +14,6 @@ Private Windows Activation Server for development and testing
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

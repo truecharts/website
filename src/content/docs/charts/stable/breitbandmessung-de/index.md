@@ -2,7 +2,7 @@
 title: breitbandmessung-de
 ---
 
-![Version: 5.8.9](https://img.shields.io/badge/Version-5.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A script to enable customers of lazy ISPs to perform measurement campaigns of the connection speed as described here in an automated way.
 
@@ -14,7 +14,6 @@ A script to enable customers of lazy ISPs to perform measurement campaigns of th
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

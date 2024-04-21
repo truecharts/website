@@ -2,7 +2,7 @@
 title: whisparr
 ---
 
-![Version: 10.0.10](https://img.shields.io/badge/Version-10.0.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.0.545](https://img.shields.io/badge/AppVersion-3.0.0.545-informational?style=flat-square)
+![Version: 10.0.12](https://img.shields.io/badge/Version-10.0.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.0.545](https://img.shields.io/badge/AppVersion-3.0.0.545-informational?style=flat-square)
 
 An adult media thingy.
 
@@ -14,7 +14,6 @@ An adult media thingy.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

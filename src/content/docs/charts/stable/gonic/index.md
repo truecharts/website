@@ -2,7 +2,7 @@
 title: gonic
 ---
 
-![Version: 13.8.9](https://img.shields.io/badge/Version-13.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.4](https://img.shields.io/badge/AppVersion-0.16.4-informational?style=flat-square)
+![Version: 13.8.11](https://img.shields.io/badge/Version-13.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.16.4](https://img.shields.io/badge/AppVersion-0.16.4-informational?style=flat-square)
 
 Music streaming server / subsonic server API implementation
 
@@ -14,7 +14,6 @@ Music streaming server / subsonic server API implementation
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

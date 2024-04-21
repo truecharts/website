@@ -2,7 +2,7 @@
 title: sonsoftheforest
 ---
 
-![Version: 3.8.9](https://img.shields.io/badge/Version-3.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: sonsoftheforest](https://img.shields.io/badge/AppVersion-sonsoftheforest-informational?style=flat-square)
+![Version: 3.8.11](https://img.shields.io/badge/Version-3.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: sonsoftheforest](https://img.shields.io/badge/AppVersion-sonsoftheforest-informational?style=flat-square)
 
 A custom SteamCMD chart that runs Sons Of The Forest Server.
 
@@ -14,7 +14,6 @@ A custom SteamCMD chart that runs Sons Of The Forest Server.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

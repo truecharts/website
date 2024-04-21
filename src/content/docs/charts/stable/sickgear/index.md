@@ -2,7 +2,7 @@
 title: sickgear
 ---
 
-![Version: 11.8.9](https://img.shields.io/badge/Version-11.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 11.8.11](https://img.shields.io/badge/Version-11.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Provides management of TV shows and/or Anime, it detects new episodes, links downloader apps, and more
 
@@ -14,7 +14,6 @@ Provides management of TV shows and/or Anime, it detects new episodes, links dow
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

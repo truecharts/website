@@ -2,7 +2,7 @@
 title: obs-ndi
 ---
 
-![Version: 6.8.9](https://img.shields.io/badge/Version-6.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.8.11](https://img.shields.io/badge/Version-6.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Docker Open Broadcaster Software (obs).
 
@@ -14,7 +14,6 @@ Docker Open Broadcaster Software (obs).
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

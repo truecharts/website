@@ -2,7 +2,7 @@
 title: nosqlclient
 ---
 
-![Version: 5.8.9](https://img.shields.io/badge/Version-5.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 
@@ -14,7 +14,6 @@ Cross-platform and self hosted, easy to use, intuitive mongodb management tool -
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

@@ -2,7 +2,7 @@
 title: autobrr
 ---
 
-![Version: 8.11.3](https://img.shields.io/badge/Version-8.11.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.41.0](https://img.shields.io/badge/AppVersion-1.41.0-informational?style=flat-square)
+![Version: 8.11.5](https://img.shields.io/badge/Version-8.11.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.41.0](https://img.shields.io/badge/AppVersion-1.41.0-informational?style=flat-square)
 
 The modern download automation tool for torrents.
 
@@ -14,7 +14,6 @@ The modern download automation tool for torrents.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

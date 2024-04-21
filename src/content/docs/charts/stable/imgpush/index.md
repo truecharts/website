@@ -2,7 +2,7 @@
 title: imgpush
 ---
 
-![Version: 5.8.9](https://img.shields.io/badge/Version-5.8.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.11](https://img.shields.io/badge/Version-5.8.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Minimalist Self-hosted Image Service for user submitted images in your app (e.g. avatars).
 
@@ -14,7 +14,6 @@ Minimalist Self-hosted Image Service for user submitted images in your app (e.g.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

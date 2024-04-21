@@ -2,7 +2,7 @@
 title: dokuwiki
 ---
 
-![Version: 11.4.10](https://img.shields.io/badge/Version-11.4.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 20240206.1.0](https://img.shields.io/badge/AppVersion-20240206.1.0-informational?style=flat-square)
+![Version: 11.4.12](https://img.shields.io/badge/Version-11.4.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 20240206.1.0](https://img.shields.io/badge/AppVersion-20240206.1.0-informational?style=flat-square)
 
 Dokuwiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.
 
@@ -13,7 +13,6 @@ Dokuwiki is a simple to use and highly versatile Open Source wiki software that 
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 

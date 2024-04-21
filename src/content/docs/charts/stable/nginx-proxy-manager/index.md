@@ -2,7 +2,7 @@
 title: nginx-proxy-manager
 ---
 
-![Version: 9.15.16](https://img.shields.io/badge/Version-9.15.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.11.1](https://img.shields.io/badge/AppVersion-2.11.1-informational?style=flat-square)
+![Version: 9.15.18](https://img.shields.io/badge/Version-9.15.18-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.11.1](https://img.shields.io/badge/AppVersion-2.11.1-informational?style=flat-square)
 
 Managing Nginx proxy hosts with a simple, powerful interface.
 
@@ -15,9 +15,6 @@ Managing Nginx proxy hosts with a simple, powerful interface.
 
 ## Available Documentation
 
-- [**Changelog**](./md)
-- [**Default Username/Password**](./md)
-- [**Disclaimer**](./md)
 
 ## Readme Content
 

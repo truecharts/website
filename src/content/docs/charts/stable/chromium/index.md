@@ -2,7 +2,7 @@
 title: chromium
 ---
 
-![Version: 5.8.10](https://img.shields.io/badge/Version-5.8.10-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.12](https://img.shields.io/badge/Version-5.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 Chromium is a free and open-source software project developed by the Google-sponsored Chromium project.
 
@@ -14,7 +14,6 @@ Chromium is a free and open-source software project developed by the Google-spon
 
 ## Available Documentation
 
-- [**Changelog**](./md)
 
 ## Readme Content
 
