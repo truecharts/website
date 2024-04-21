@@ -74,3 +74,11 @@ Sadly enough, we require re-installation of all Apps to be migrated to the new s
 
 However, thanks to great collaboration with HeavyBullets, you can use his TT-Migration tool to automate most of the installation process:
 https://github.com/Heavybullets8/TT-Migration
+
+Running the below command in the TrueNAS SCALE shell will clone/download Heavy's TT-Migration repo to your SCALE system, enter the path for it and execute the migration script as root:
+
+```shell
+git clone https://github.com/Heavybullets8/TT-Migration.git && cd TT-Migration && sudo bash migrate.sh
+```
+
+If you want to see the steps that it performs, or if you'd like to perform the steps yourself manually using the guide, follow the instructions [here](https://github.com/Heavybullets8/TT-Migration?tab=readme-ov-file#guide).
