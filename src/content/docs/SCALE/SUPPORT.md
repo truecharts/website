@@ -16,11 +16,11 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 | TrueNAS Version    | Branch   | Supported With Updates | Accepting Support Tickets | Accepting Bug Reports | Notes                                                                                          |
 | ------------------ | -------- | ---------------------- | ------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
-| 22.12.4.2 or prior | `master` | ❌ | ❌ | ❌ | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/)                                                              |
-| 23.10.2            | `legacy_23.10` | ✅ | ❌ | ❌ | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/)                                                        |
-| 24.04.X            | `master` | ✅ | ✅ | ✅ | Stable release as of 23 April 2024                                                                                                                          |
-| Alpha/BETA/RC      | `master` | ✅ | ❌ | ✅ | Please only submit bug reports during code-freeze                                                                                                           |
-| Nightly            | `master` | ✅ | ❌ | ❌ |                                                                                                                                                             |
+| 22.12.4.2 or prior | `master` | ❌                    | ❌                        | ❌                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
+| 23.10.2            | `legacy_23.10` | ✅              | ❌                        | ❌                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
+| 24.04.X            | `master` | ✅                    | ✅                        | ✅                   | Stable release as of 23 April 2024                                                             |
+| Alpha/BETA/RC      | `master` | ✅                    | ❌                        | ✅                   | Please only submit bug reports during code-freeze                                              |
+| Nightly            | `master` | ✅                    | ❌                        | ❌                   |                                                                                                |
 
 ## Project Scope
 

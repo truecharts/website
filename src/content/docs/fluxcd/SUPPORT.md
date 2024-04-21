@@ -16,7 +16,7 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 | FluxCD version | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes |
 | -------------- | -------- | ---------------------- | ------------------------- | --------------------- | ----- |
-| 1.2.1 or prior | `master` | ✅     | ❌                       | ❌                   |       |
+| 1.2.1 or prior | `master` | ✅                    | ❌                        | ❌                   |       |
 
 ## Project Scope
 
