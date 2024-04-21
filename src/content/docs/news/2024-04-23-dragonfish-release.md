@@ -1,5 +1,5 @@
 ---
-slug: "news/SCALE-DragonFish"
+slug: "news/scale-dragonfish"
 title: "TrueNAS SCALE DragonFish Release and Support"
 authors: [bitpushr]
 date: 2024-04-23
