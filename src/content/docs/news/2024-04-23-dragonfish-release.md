@@ -21,7 +21,7 @@ Going forward, TrueCharts wants to confirm that DragonFish is the **ONLY** suppo
 
 ### TrueNAS SCALE Cobia Users
 
-For existing TrueNAS SCALE users remaining on Cobia until such time they update, we understand that migration takes time. Whilst DragonFish is the future, you can select a special branch of TrueCharts in TrueNAS SCALE's catalogue settings called `legacy_23.10` (instead of main). This is, however, unsupported by TrueCharts from the release of DragonFish onwards.
+For existing TrueNAS SCALE users remaining on Cobia until such time they update, we understand that migration takes time. Whilst DragonFish is the future, you can select a special branch of TrueCharts in TrueNAS SCALE's catalogue settings called `legacy_23.10` (instead of `main`). This is, however, not covered by TrueCharts support from the release of DragonFish onwards.
 
 ### Users Upgrading to TrueNAS SCALE DragonFish
 
