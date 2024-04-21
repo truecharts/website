@@ -16,8 +16,8 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 | TrueNAS version | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes |
 | --------------- | -------- | ---------------------- | ------------------------- | --------------------- | ----- |
-| 3.11 and prior  | `master` | :white_check_mark:     | :x:                       | :x:                   |       |
-| 3.12 - 3.14     | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    |       |
+| 3.11 and prior  | `master` | ✅                     | ❌                       | ❌                   |       |
+| 3.12 - 3.14     | `master` | ✅                     | ✅                       | ✅                   |       |
 
 ## Project Scope
 

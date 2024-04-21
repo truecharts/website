@@ -16,11 +16,11 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 | TrueNAS Version    | Branch   | Supported With Updates | Accepting Support Tickets | Accepting Bug Reports | Notes                                                                                          |
 | ------------------ | -------- | ---------------------- | ------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
-| 22.12.4.2 or prior | `master` | :x:                    | :x:                       | :x:                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
-| 23.10.2            | `legacy_23.10` | :white_check_mark:     | :x:                       | :x:                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
-| 24.04.X            | `master` | :white_check_mark:     | :white_check_mark:        | :white_check_mark:    | Stable release as of 23 April 2024                                                             |
-| Alpha/BETA/RC      | `master` | :white_check_mark:     | :x:                       | :white_check_mark:    | Please only submit bug reports during code-freeze                                              |
-| Nightly            | `master` | :white_check_mark:     | :x:                       | :x:                   |                                                                                                |
+| 22.12.4.2 or prior | `master` | ❌                    | ❌                        | ❌                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
+| 23.10.2            | `legacy_23.10` | ✅              | ❌                        | ❌                   | Update to 24.04.X supported version [TrueNAS SCALE](https://www.truenas.com/docs/scale/24.04/) |
+| 24.04.X            | `master` | ✅                    | ✅                        | ✅                   | Stable release as of 23 April 2024                                                             |
+| Alpha/BETA/RC      | `master` | ✅                    | ❌                        | ✅                   | Please only submit bug reports during code-freeze                                              |
+| Nightly            | `master` | ✅                    | ❌                        | ❌                   |                                                                                                |
 
 ## Project Scope
 
@@ -61,13 +61,13 @@ We instead rely on `Cert-Manager`, an industry-standard Kubernetes-aware certifi
 ### iX-Volumes
 
 iX-Volumes are a crudely designed "PVC-like" storage solution by iX-Systems, offloading behavior that should normally be handled by PVC storage controllers onto the host system.
-This is not a good way to deal with storage on Kubernetes and might unexpectingly lead to issues.
+This is not a good way to deal with storage on Kubernetes and might unexpectedly lead to issues.
 
 We use PVC storage, like normal with Kubernetes, instead.
 
 ### Backup and Restore
 
-iX-Systems has not officially released backup and restore, and SCALE Apps do not work with normal Kubernetes backup and restore tools like Velero, due to their achaic Kubernetes folder-structure-design.
+iX-Systems has not officially released backup and restore, and SCALE Apps do not work with normal Kubernetes backup and restore tools like Velero, due to their archaic Kubernetes folder-structure-design.
 [HeavyScript](https://github.com/Heavybullets8/heavy_script) offers an alternative, but we cannot guarantee it works out-of-the-box, at all or with our Apps. But it's the best there is at the moment.
 
 Backup and Restore certainly does not work with CNPG, our PostgreSQL backend at all. Manual steps might be needed to restore systems containing databases.
