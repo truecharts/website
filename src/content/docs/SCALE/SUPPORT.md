@@ -65,11 +65,6 @@ This is not a good way to deal with storage on Kubernetes and might unexpectingl
 
 We use PVC storage, like normal with Kubernetes, instead.
 
-**TrueNAS SCALE 24.04 "DragonFish" Note:**
-Starting with DragonFish, iX-Systems is removing their support for using PVC storage like normal. Instead, we will soon be rolling out our own PVC storage support for TrueNAS SCALE.
-
-Until this is ready, DragonFish is **NOT** supported.
-
 ### Backup and Restore
 
 iX-Systems has not officially released backup and restore, and SCALE Apps do not work with normal Kubernetes backup and restore tools like Velero, due to their achaic Kubernetes folder-structure-design.
@@ -84,7 +79,7 @@ Kubernetes usually handles GPUs itself, the amount entered is just a request of 
 
 Instead we offer our own option, where you can enter the number of specific GPUs you want assigned under "Resources" in the "Limits" section
 
-:::warning Support Guidelines
+:::caution[Support Guidelines]
 
 Our [Discord](/s/discord) support (the ticketing system inside #support) is primarily limited to what is covered by our written guides. This includes installing, linking and editing apps. This doesn't mean the actual setup of the application. All #support tickets covered by the staff are done so on a **best effort** basis.
 
