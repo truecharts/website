@@ -40,6 +40,9 @@ Prior to updating to TrueNAS SCALE DragonFish, please ensure all of your TrueCha
 
 Once you have completed updating your TrueNAS SCALE system to DragonFish, the first step is to wait at least 30 minutes after updating. This allows time for the update to finish and services to be started. Do not restart the system or otherwise interrupt its operation during this time.
 
+#### Cleaning up the System
+
+We now need to clean up some old cobia parts. We want to highlight you should be executing all parts of the guide and migration in one-go without reboots.
 Once you've done this, enter the following command in the TrueNAS SCALE shell ensuring it's ran as root and as shown below:
 
 ```shell
@@ -62,13 +65,7 @@ k3s kubectl delete storageClass openebs-zfspv-default
 
 Continue with the OpenEBS section of our TrueNAS SCALE Getting Started [guide](/scale/guides/getting-started#openebs-setup) and once complete, return here and continue as below.
 
-After installing the `OpenEBS` app from the above guide, run the following and you're done:
-
-```shell
-sudo curl -s https://truecharts.org/openebsmv.sh | bash
-```
-
-### Migrating to New Storage
+#### Migrating to New Storage
 
 Sadly enough, we require re-installation of all Apps to be migrated to the new storage solution.
 
