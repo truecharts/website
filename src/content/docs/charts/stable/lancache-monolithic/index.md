@@ -10,8 +10,8 @@ A monolithic lancache service capable of caching all CDNs in a single instance.
 
 - https://github.com/lancachenet/monolithic
 - https://github.com/truecharts/charts/tree/master/charts/stable/lancache-monolithic
-- https://hub.docker.com/r/ich777/lancache-prefill
 - https://hub.docker.com/r/lancachenet/monolithic
+- https://hub.docker.com/r/ich777/lancache-prefill
 
 ## Available Documentation
 
