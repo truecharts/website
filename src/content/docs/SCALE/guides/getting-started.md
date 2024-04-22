@@ -116,11 +116,13 @@ As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer mai
 
 ![system List](./img/Dragonfish-Storage5b.png)
 
-4. Then install the `OpenEBS` chart
+4. Create a dedicated, empty dataset outside of ix-applications. Please ensure you've chosen the **Pool/Dataset** that's **not** inside `ix-applications`
+
+5. Then install the `OpenEBS` chart
 
 ![OpenEBS Icon](./img/icons/openebs.png)
 
-5. Please ensure you've chosen a **Pool/Dataset** that's **not** inside `ix-applications` and do not include `/mnt/` in front of the pool/dataset, as shown below
+6. Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
 
 ![OpenEBS Storage](./img/OpenEBS-storage.png)
 
