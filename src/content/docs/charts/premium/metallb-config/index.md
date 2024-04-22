@@ -2,7 +2,7 @@
 title: metallb-config
 ---
 
-![Version: 6.8.14](https://img.shields.io/badge/Version-6.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.8.15](https://img.shields.io/badge/Version-6.8.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 A network load-balancer implementation for Kubernetes using standard routing protocols
 

@@ -2,7 +2,7 @@
 title: hammond
 ---
 
-![Version: 9.8.12](https://img.shields.io/badge/Version-9.8.12-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.24](https://img.shields.io/badge/AppVersion-0.0.24-informational?style=flat-square)
+![Version: 9.8.13](https://img.shields.io/badge/Version-9.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.0.24](https://img.shields.io/badge/AppVersion-0.0.24-informational?style=flat-square)
 
 A self-hosted vehicle expense tracking system with support for multiple users.
 
