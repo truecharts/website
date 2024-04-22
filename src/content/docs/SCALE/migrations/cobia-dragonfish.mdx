@@ -1,0 +1,74 @@
+---
+title: Cobia to DragonFish Storage Migration
+---
+
+:::caution[Execute all steps at once]
+
+It's imperative to execute **ALL** steps in this guide in one sitting. If you reboot or take any time away from this task, we cannot guarantee your data and apps stay working.
+Please only continue when you have time available to complete the migration.
+
+It's also important to note that the migration to DragonFish **requires** reinstallation of all Apps. For which an automated solution is available in the guide as well.
+Please read this migration guide carefully _before_ upgrading to DragonFish.
+:::
+
+## Important Changes
+
+iX-Systems no longer maintains or supports any form of PVC-based storage for apps. This includes their own "legacy" storage backend. This means that when using the following SCALE features, you will lose some functionality:
+
+- **SCALE Backup and Restore (unreleased feature available through HeavyScript)** - Will no longer back up PVC storage at all.
+
+- **SCALE App Rollback** - You will no longer be able to roll back any PVC storage
+
+- **SCALE App Pool Migration** - You will no longer be able to migrate PVC storage using the pool migration feature in SCALE.
+
+The above issues exist both for our new in-house TrueCharts OpenEBS storage solution **and** for users using already installed apps that use the legacy storage backend from iX-Systems.
+
+## For Existing Users and Apps
+
+:::note[Ensure apps are up-to-date on Cobia]
+Prior to updating to TrueNAS SCALE DragonFish, please ensure all of your TrueCharts apps are fully up-to-date and working correctly.
+
+:::
+
+### Post Cobia-to-DragonFish Upgrade Steps
+
+import { Steps } from '@astrojs/starlight/components';
+
+<Steps>
+
+1. Wait at least 30 minutes after Cobia-to-Dragonfish upgrade
+
+Once you have completed updating your TrueNAS SCALE system from Cobia to DragonFish, the first step is to **wait at least 30 minutes after updating and the SCALE WebUI becomes accessible**. This allows time for the update to finish and services to be started. Do not restart the system or otherwise interrupt its operation during this time.
+
+2. Clean up the System
+
+We now need to clean up some old Cobia objects. Enter the following command in the TrueNAS SCALE shell as root:
+
+_Replace `TANK` in the command with your pool name that contains the ix-applications dataset_
+
+```shell title="Remove Old OpenEBS"
+rm /mnt/TANK/ix-applications/k3s/server/manifests/zfs-operator.yaml && sudo k3s kubectl delete -f https://truecharts.org/openebsrem.yaml && sudo k3s kubectl delete storageClass openebs-zfspv-default
+```
+
+3. Create Dataset for PVCs and Install OpenEBS
+
+Continue with the OpenEBS setup section of our TrueNAS SCALE Getting Started [Guide](/scale/guides/getting-started#openebs-setup) and once complete, proceed to next step.
+
+4. Migrate Apps to New Storage using TT-Migration Script
+
+Thanks to great collaboration with HeavyBullets, the TT-Migration tool will automate most of the migration process for existing apps:
+https://github.com/Heavybullets8/TT-Migration
+
+- Existing apps with PVCs or databases should be reinstalled using the TT-Migration script.
+- System train apps (`cloudnative-pg`, `cert-manager`, etc.) **should _NOT_ be reinstalled**. You will see a warning in the script if you attempt to migrate a system train app.
+- Apps without PVC storage do _NOT_ need to be reinstalled. You will see a notice in the script if you attempt to migrate an app with no PVCs.
+
+Running the below command in the TrueNAS SCALE shell will (1) clone/download Heavy's TT-Migration repo to your SCALE system, (2) enter the path for it and (3) execute the migration script as root:
+
+```shell title="Install and Run TT-Migration"
+git clone https://github.com/Heavybullets8/TT-Migration.git && cd TT-Migration && sudo bash migrate.sh
+```
+
+If you want to see the steps that it performs, or if you'd like to perform the steps yourself manually using the guide, follow the instructions [here](https://github.com/Heavybullets8/TT-Migration?tab=readme-ov-file#guide).
+
+</Steps>
