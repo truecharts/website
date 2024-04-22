@@ -27,14 +27,20 @@ For existing TrueNAS SCALE users remaining on Cobia until such time they update,
 
 As we have already outlined in [previous](/scale/migrations/cobia-dragonfish) [communications](/scale/guides/getting-started#openebs-setup), DragonFish includes an important change to how TrueCharts apps function on the SCALE platform. This means that there are two ways you can proceed with using our apps on DragonFish. These are
 
+import { Steps } from '@astrojs/starlight/components';
+
+<Steps>
+
 1. Completely resetting the complete apps system by unsetting the Apps pool, removing the ix-applications dataset, and selecting the apps pool again, once your TrueNAS SCALE system is updated to DragonFish per our getting started [guide](/scale/guides/getting-started) for new users.
 
 2. Following our [migration process](/scale/migrations/cobia-dragonfish) for Cobia to DragonFish, developed in collaboration with and using tools/processes provided by [HeavyBullets](https://github.com/Heavybullets8/). Whilst this process is a manual one and is **REQUIRED** to be performed in one session/attempt, as noted on the page, it has been designed to be as smooth as possible after much internal testing and development from HeavyBullets. Thanks Heavy! ❤️
 
-:::note[Upgrade Process]
-Your existing apps won't immediately stop working should you upgrade to DragonFish without following the above. However, TrueCharts apps newly installed onto DragonFish post-upgrade will **NOT** work without following the above steps. Upgrading to DragonFish using methods outside our above-described guides automatically results in you being outside our [support scope](/scale/support).
+  :::note[Upgrade Process]
+  Your existing apps won't immediately stop working should you upgrade to DragonFish without following the above. However, TrueCharts apps newly installed onto DragonFish post-upgrade will **NOT** work without following the above steps. Upgrading to DragonFish using methods outside our above-described guides automatically results in you being outside our [support scope](/scale/support).
 
-:::
+  :::
+
+</steps>
 
 ### New TrueNAS SCALE DragonFish Users
 
