@@ -2,7 +2,7 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 // Algolia Search
 import starlightDocSearch from "@astrojs/starlight-docsearch";
-// Tailwind
+// https://starlight.astro.build/guides/css-and-tailwind/#tailwind-css
 import tailwind from "@astrojs/tailwind";
 // https://github.com/HiDeoo/starlight-links-validator
 import starlightLinksValidator from "starlight-links-validator";
@@ -34,7 +34,7 @@ export default defineConfig({
   trailingSlash: "ignore",
   compressHTML: true,
   prefetch: {
-    prefetchAll: true
+    prefetchAll: true,
   },
   build: {
     output: "directory",
@@ -45,6 +45,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "TrueCharts Charts",
+      customCss: ["./src/tailwind.css"],
       tagline: "Awesome Helm Charts",
       logo: {
         src: "./src/assets/with-text.svg",
@@ -145,7 +146,6 @@ export default defineConfig({
             directory: "helm",
           },
         },
-
         {
           label: "FluxCD",
           collapsed: true,
@@ -153,7 +153,6 @@ export default defineConfig({
             directory: "fluxcd",
           },
         },
-
         {
           label: "TrueNAS SCALE",
           collapsed: true,
@@ -179,7 +178,10 @@ export default defineConfig({
     }),
     sitemap(),
     robotsTxt(),
-    tailwind(),
+    tailwind({
+      // Disable the default base styles:
+      applyBaseStyles: false,
+    }),
     lottie(),
     betterImageService(),
     playformCompress({

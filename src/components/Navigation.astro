@@ -12,7 +12,11 @@ type Link = {
 const links: Array<Link> = [
   { name: "Docs", href: "/general/", icon: "document" },
   { name: "News", href: "/news/", icon: "open-book" },
-  { name: "Merch/Store", href: "https://www.etsy.com/shop/TrueCharts", icon: "external" },
+  {
+    name: "Merch/Store",
+    href: "https://www.etsy.com/shop/TrueCharts",
+    icon: "external",
+  },
 ];
 ---
 
@@ -20,14 +24,18 @@ const links: Array<Link> = [
   {
     links.map((link) => (
       <a
-        class="hover:scale-110 flex flex-row items-center gap-1 hover:border-b-4 border-tc-primary transition-all"
-        href={link.href} data-astro-prefetch="load"
+        class="link-no-deco hover:scale-110 flex flex-row items-center gap-1 hover:border-b-4 border-tc-primary transition-all"
+        href={link.href}
+        data-astro-prefetch="load"
       >
         <p class="font-bold text-lg max-lg:text-xs max-md:text-xs">
           {link.name}
         </p>
         {link.icon && (
-          <Icon class="w-5 h-5 max-md:hidden max-lg:hidden" name={link.icon} />
+          <Icon
+            class="w-5 h-5 max-md:hidden max-lg:hidden text-[var(--sl-color-gray-2)]"
+            name={link.icon}
+          />
         )}
       </a>
     ))
