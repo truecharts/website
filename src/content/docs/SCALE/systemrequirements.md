@@ -1,5 +1,5 @@
 ---
-title: TrueNAS SCALE System Requirements
+title: System Requirements
 sidebar:
   order: 3
 ---
