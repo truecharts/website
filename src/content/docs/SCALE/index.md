@@ -1,5 +1,5 @@
 ---
-title: TrueNAS SCALE Introduction
+title: Introduction
 sidebar:
   order: 1
 ---
