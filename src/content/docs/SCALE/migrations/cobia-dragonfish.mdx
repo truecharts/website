@@ -66,7 +66,7 @@ import { Steps } from '@astrojs/starlight/components';
     <ul>
         <li>Existing apps with PVCs or databases should be reinstalled using the TT-Migration script.</li>
         <li>System train apps (`cloudnative-pg`, `cert-manager`, etc.) **should _NOT_ be reinstalled**. You will see a warning in the script if you attempt to migrate a system train app.</li>
-        <li>Apps without PVC storage do _NOT_ need to be reinstalled. You will see a notice in the script if you attempt to migrate an app with no PVCs.</li>
+        <li>Apps without PVC storage do need to be reinstalled to remove every remnant of old storage backends. You will see a notice in the script if you attempt to migrate an app with no PVCs.</li>
     </ul>
 
     Running the below command in the TrueNAS SCALE shell will (1) clone/download Heavy's TT-Migration repo to your SCALE system, (2) enter the path for it and (3) execute the migration script as root:
