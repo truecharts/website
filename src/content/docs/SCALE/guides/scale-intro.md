@@ -23,14 +23,14 @@ Anything related to TrueTool has been deprecated and is now replaced with [Heavy
 
 ## Installing Apps
 
-Once you've [added the TrueCharts Catalog](/scale/guides/getting-started/#minimal-getting-started-setup-with-scale) to your SCALE installation, you can choose from [hundreds of apps](/charts/description-list) to install through the catalog user interface.
+Once you've [added the TrueCharts Catalog](/scale/#minimal-getting-started-setup-with-scale) to your SCALE installation, you can choose from [hundreds of apps](/charts/description-list) to install through the catalog user interface.
 
 - Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to choose a storage pool for your Apps. See our [system requirements](/scale/systemrequirements/) page to ensure you're good to go.
 - After creating your Apps pool, you'll be able to add the 3rd party TrueCharts catalog.
 
 ### Requirements
 
-- Your SCALE Apps has the [TrueCharts catalog](/scale/guides/getting-started#adding-truecharts) added and meets the minimum system requirements mentioned above
+- Your SCALE Apps has the [TrueCharts catalog](/scale#adding-truecharts) added and meets the minimum system requirements mentioned above
 - You have a working Internet connection and can reach GitHub and truecharts.org from the host system
 - If you plan to add additional app storage to your app, review important information about [app storage and host path validation](/scale/guides/add-storage).
 
@@ -82,9 +82,9 @@ Editing Apps is possible since 21.08, although it has a slightly different GUI i
 ### Requirements
 
 - Make sure your storage-pool is created and working
-- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](/scale/guides/getting-started)
+- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](/scale)
 - Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
-- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/scale/guides/getting-started#adding-truecharts)
+- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/scale#adding-truecharts)
 - Make sure your App is installed and, preferably, working
 
 ### Editing the App
@@ -121,7 +121,7 @@ After the process popup disappears, it might take a few minutes to actually depl
 
 ### Upgrading the app using HeavyScript
 
-Alternatively, you can also use [HeavyScript](/scale/guides/getting-started/#heavyscript) to update your apps and even configure it to do so automatically via a CRON job. Examples and instructions are found on the previously linked page and the HeavyScript Github, also linked on that page.
+Alternatively, you can also use [HeavyScript](/scale/#heavyscript) to update your apps and even configure it to do so automatically via a CRON job. Examples and instructions are found on the previously linked page and the HeavyScript Github, also linked on that page.
 
 ## Rollback an app
 
