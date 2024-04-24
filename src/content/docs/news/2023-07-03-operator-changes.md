@@ -17,7 +17,7 @@ If you have already installed the metallb, prometheus-operator, and cloudnative-
 
 ## Prerequisites
 
-Add the operator train to TrueCharts [as outlined here](/scale/guides/getting-started#adding-truecharts)
+Add the operator train to TrueCharts [as outlined here](/scale#adding-truecharts)
 
 ## MetalLB
 
