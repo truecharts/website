@@ -26,7 +26,7 @@ The above issues exist both for our new in-house TrueCharts OpenEBS storage solu
 
 :::note[Ensure apps are up-to-date on Cobia]
 
-Prior to updating to TrueNAS SCALE DragonFish, please ensure all of your TrueCharts apps are fully up-to-date, on correct train and working correctly.
+Prior to updating to TrueNAS SCALE DragonFish, please ensure that TrueNAS SCALE is updated to the latest version of Cobia (23.10.2), and that all of your TrueCharts apps are fully updated, on the correct trains and working correctly.
 
 :::
 
@@ -61,7 +61,7 @@ import { Steps } from "@astrojs/starlight/components";
 
     - Existing apps with PVCs or databases should be reinstalled using the TT-Migration script.
     - System train apps (`cloudnative-pg`, `cert-manager`, etc.) **should _NOT_ be reinstalled**. You will see a warning in the script if you attempt to migrate a system train app.
-    - Apps without PVC storage **do** still need to be reinstalled to remove every remnant of old storage backends. You will see a notice in the migration script if you attempt to migrate an app with no PVCs.
+    - Apps without PVC storage **do** still need to be reinstalled to remove every remnant of old storage backends. You may see a notice in the migration script if you attempt to migrate an app with no PVCs, if this is the case, continue with migrating the app (unless it's on the System train, per above)
 
     Running the below command in the TrueNAS SCALE shell will (1) clone/download Heavy's TT-Migration repo to your SCALE system, (2) enter the path for it and (3) execute the migration script as root:
 
@@ -72,3 +72,27 @@ import { Steps } from "@astrojs/starlight/components";
     If you want to see the steps that it performs, or if you'd like to perform the steps yourself manually using the guide, follow the instructions [here](https://github.com/Heavybullets8/TT-Migration?tab=readme-ov-file#guide).
 
 </Steps>
+
+:::tip
+
+After running the above command for the first time, there's no need to repeatedly clone/download the repo each time after. So after running it the first time, feel free to only run the below each time after:
+
+```shell title="Run TT-Migration"
+    cd TT-Migration && sudo bash migrate.sh
+    ```
+
+:::
+
+### Post Migration Steps
+
+Once you have completed the above, you are finished the migration process. Your apps datasets should now look something like this:
+
+![OpenEBS Apps](./img/openebs-datasets.png)
+
+Where you have a top-level dataset for everything related to apps (in the above image this is the "Apps" one), an "ix-applications" dataset which still retains non-PVC data for your apps and should **NOT** be deleted, and the dataset you created for OpenEBS use in an earlier part of this guide. In the above photo, this is the "pvcApps" dataset.
+
+Nested inside "pvcApps" (in the above example) will be the PVC folders for each of your apps that use PVC storage. Taking into account the above example layout, the OpenEBS operator apps' storage options will look like this (obviously adjust based on your naming and dataset layout):
+
+![OpenEBS Storage](./img/openebs-options.png)
+
+Feel free to let the system settle for 30 minutes after completing the process and then reboot it to ensure that app apps come back online correctly.
