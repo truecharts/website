@@ -39,9 +39,7 @@ We're thrilled with the improvements that Starlight has brought to our website t
 
 The TrueCharts team would also like to thank those who have generously donated towards our project for their continued support 💙. You keep TrueCharts thriving and allow us to continue providing resources such as our new and improved website to the community.
 
-If you find some use from our new website experience, want to join the ranks of the over 250 people helping buy us Coffee ☕ or just have a request for an app you'd like to see added to the TrueCharts catalogue of over [750+ existing](/charts/description-list), you can do this via our respective Open Collective pages here:
-
-[Request an app/chart bounty 💰](https://opencollective.com/truecharts-bounties/contribute/request-chart-bounty-72004)
+If you find some use from our new website experience or want to join the ranks of the over 250 people helping buy us Coffee ☕, you can do this via our Open Collective page here:
 
 [One time or recurring Coffee donations 🫶](https://opencollective.com/truecharts)
 
