@@ -34,6 +34,7 @@
 /manual/* /general/:splat 301
 /platforms/* /:splat 301
 /general/common/* /common/:splat 301
+/sponsor /general/sponsor/
 
 # guide redirects
 /scale/guides/getting-started/ /scale
