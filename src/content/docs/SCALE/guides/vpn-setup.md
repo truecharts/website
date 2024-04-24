@@ -158,7 +158,7 @@ If your provider isn't supported by `Gluetun` then you can use a [custom provide
 
 - Note: use `/gluetun/vpn.conf` for `OPENVPN_CUSTOM_CONFIG` and not the path specified inside the `VPN config file location` above
 
-![Custom Provider Example(./img/CustomVPNprovider.png)
+![Custom Provider Example](./img/CustomVPNprovider.png)
 
 ## Troubleshooting
 
@@ -168,8 +168,8 @@ To access the Gluetun logs do the following.
 
 2. In the Workloads pane on the right, click the "View Logs" icon (see image)
 
-![Gluteun VPN Log(./img/Gluetun-vpn-log-icon.png)
+![Gluteun VPN Log](./img/Gluetun-vpn-log-icon.png)
 
 3. In the Containers dropdown select the log that ends with "-vpn".
 
-![Gluteun VPN Log(./img/Gluetun-vpn-log.png)
+![Gluteun VPN Log](./img/Gluetun-vpn-log.png)

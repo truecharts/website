@@ -203,8 +203,4 @@ Ensure the system train is enabled in the Truecharts catalog under Apps -> Disco
 `[EFAULT] Failed to update App: Error: UPGRADE FAILED: cannot patch "APPNAME-cnpg-main" with kind Cluster: admission webhook "vcluster.cnpg.io" denied the request: Cluster.cluster.cnpg.io "APPNAME-cnpg-main" is invalid: spec.imageName: Invalid value: "ghcr.io/cloudnative-pg/postgresql:16.2": can't upgrade between ghcr.io/cloudnative-pg/postgresql:15.2 and ghcr.io/cloudnative-pg/postgresql:16.2`
 
 The solution:
-run this in the system shell as **root**, replacing `APPNAME` with the name of your CNPG-dependant app, e.g. home-assistant:
-
-```bash
-k3s kubectl patch configmap APPNAME-cnpg-main-pgversion -n ix-APPNAME -p '{"data": {"version": "15"}}'
-```
+In the Postgresql section of the app config, change `Postgres Version` from 16 to 15
