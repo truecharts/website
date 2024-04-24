@@ -54,6 +54,8 @@ import { Steps } from "@astrojs/starlight/components";
 
     Continue with the OpenEBS setup section of our TrueNAS SCALE Getting Started [Guide](/scale#openebs-setup) and once complete, proceed to next step.
 
+    **NOTE: The dataset you create for OpenEBS usage MUST reside on the same storage pool as the existing ix-applications dataset. Refer to the example apps dataset images at the [end](/scale/migrations/cobia-dragonfish/#post-migration-steps) of the guide.**
+
 4. Migrate Apps to New Storage using TT-Migration Script
 
     Thanks to great collaboration with HeavyBullets, the TT-Migration tool will automate most of the migration process for existing apps:
