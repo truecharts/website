@@ -38,7 +38,7 @@ Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE in
 - Make sure you have a working Internet connection and can reach `https://github.com`, `https://truecharts.org`, and `https://tccr.io` from the host system.
 - Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
 - You are signed into your TrueNAS SCALE WebUI as `root` or as a user that can execute commands with `root` permissions.
-- Your apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/) for your Apps.
+- Your apps pool and associated datasets must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to [choose a storage pool](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog) for your Apps.
 
 :::tip[Quick start guides]
 
@@ -54,6 +54,10 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 ## Adding TrueCharts
 
 To add TrueCharts to your SCALE installation:
+
+import { Steps } from "@astrojs/starlight/components";
+
+<Steps>
 
 1.  Go to the **Apps** page from the top level SCALE menu
 
@@ -81,6 +85,8 @@ To add TrueCharts to your SCALE installation:
 ![Catalog Info](./guides/img/Apps5.png)
 
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
+
+</Steps>
 
 :::note[Potential issue with adding catalog]
 
@@ -130,6 +136,10 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
 
+import { Steps } from "@astrojs/starlight/components";
+
+<Steps>
+
 1. In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
 
 2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
@@ -140,7 +150,7 @@ As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer mai
 
 ![system List](./guides/img/Dragonfish-Storage5b.png)
 
-4. Create a dedicated, empty dataset outside of ix-applications. Please ensure you've chosen the **Pool/Dataset** that's **not** inside `ix-applications`
+4. Create a dedicated, empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
 
 5. Then install the `OpenEBS` chart
 
@@ -149,6 +159,8 @@ As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer mai
 6. Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
 
 ![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
+
+</Steps>
 
 :::danger
 
@@ -190,8 +202,6 @@ An optional but extra function enabled by Traefik and supported by many Truechar
 
 TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is deprecated and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](/charts/premium/clusterissuer/how-to) before adding `Ingress` to your applications.
 
-
-
 ## Blocky DNS provider for split-DNS installation and guide
 
 ![Blocky](./guides/img/icons/blocky.png)
@@ -204,6 +214,6 @@ Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS pr
 
 Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the preferred solution to secure your TrueCharts apps when exposing them using `Traefik` as your ingress solution. We have a detailed guide that goes through setting up Authelia, along with LLDAP as a backend for Authelia and setting up the `forwardAuth` section of Traefik to handle the redirections and securing your apps. Please refer to the [Authelia Setup-Guide](/charts/premium/authelia/setup-guide) for more info. It is not strictly required, however you are otherwise encouraged to set a very strong password in your previous steps.
 
-### Video Guide
+### Outdated Video Guide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vomm8uvdCM0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
