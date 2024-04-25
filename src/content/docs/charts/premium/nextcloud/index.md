@@ -15,8 +15,8 @@ A private cloud server that puts the control and security of your own data back 
 - https://hub.docker.com/r/nginxinc/nginx-unprivileged
 - https://hub.docker.com/r/collabora/code
 - https://hub.docker.com/r/clamav/clamav
-- https://github.com/truecharts/containers/tree/master/apps/nextcloud-fpm
 - https://github.com/truecharts/containers/tree/master/apps/nextcloud-push-notify
+- https://github.com/truecharts/containers/tree/master/apps/nextcloud-fpm
 
 ## Available Documentation
 

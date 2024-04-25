@@ -11,8 +11,8 @@ Container management made easy
 - https://docs.portainer.io/start/install-ce/server
 - https://docs.portainer.io/start/install/server
 - https://github.com/truecharts/charts/tree/master/charts/stable/portainer
-- https://hub.docker.com/r/portainer/portainer-ce
 - https://hub.docker.com/r/portainer/portainer-ee
+- https://hub.docker.com/r/portainer/portainer-ce
 
 ## Available Documentation
 
