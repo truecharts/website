@@ -30,7 +30,7 @@ Once you've [added the TrueCharts Catalog](/scale/#minimal-getting-started-setup
 
 ### Requirements
 
-- Your SCALE Apps has the [TrueCharts catalog](/scale#adding-truecharts) added and meets the minimum system requirements mentioned above
+- Your SCALE Apps has the [TrueCharts catalog](/scale#adding-truecharts-to-scale) added and meets the minimum system requirements mentioned above
 - You have a working Internet connection and can reach GitHub and truecharts.org from the host system
 - If you plan to add additional app storage to your app, review important information about [app storage and host path validation](/scale/guides/add-storage).
 
@@ -84,7 +84,7 @@ Editing Apps is possible since 21.08, although it has a slightly different GUI i
 - Make sure your storage-pool is created and working
 - Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](/scale)
 - Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
-- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/scale#adding-truecharts)
+- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/scale#adding-truecharts-to-scale)
 - Make sure your App is installed and, preferably, working
 
 ### Editing the App
