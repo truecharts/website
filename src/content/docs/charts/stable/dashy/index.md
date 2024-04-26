@@ -2,7 +2,7 @@
 title: dashy
 ---
 
-![Version: 6.8.13](https://img.shields.io/badge/Version-6.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.2](https://img.shields.io/badge/AppVersion-2.1.2-informational?style=flat-square)
+![Version: 7.0.0](https://img.shields.io/badge/Version-7.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.0](https://img.shields.io/badge/AppVersion-3.0.0-informational?style=flat-square)
 
 Dashy helps you organize your self-hosted services by making them accessible from a single place
 
@@ -55,6 +55,13 @@ For the complete overview of all available options, please checkout the document
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
 https://truecharts.org/charts/stable/dashy
+
+### Upgrade to version 3.0.0
+
+From version 3.0.0, Dashy introduced some breaking changes. Some of them will not impact users such as the change from port 80 to 8080.
+However, from now on, the application expects a folder to be mounted instead of a file.
+
+More information about breaking changes can be found [here](https://github.com/Lissy93/dashy/releases/tag/3.0.0).
 
 ### Support
 
