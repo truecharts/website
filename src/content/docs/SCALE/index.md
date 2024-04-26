@@ -28,12 +28,12 @@ Hence for chart management our preference would be to use [FluxCD](/fluxcd/) ins
 
 ## How to Configure
 
-Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](/scale/scale-intro) page.
+Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](/scale/guides/scale-intro) page.
 
 ## Requirements
 
 - TrueCharts apps share computing resources with your system. Please review our [recommended system requirements](/scale/systemrequirements/).
-- Your apps dataset needs to be large enough to store the containers, configuration files, snapshots, and other persistent volume (PVC) data. You can always configure [additional storage](/scale/add-storage) using HDD pools (e.g. downloads folder) for specific apps later.
+- Your apps dataset needs to be large enough to store the containers, configuration files, snapshots, and other persistent volume (PVC) data. You can always configure [additional storage](/scale/guides/add-storage) using HDD pools (e.g. downloads folder) for specific apps later.
 - Make sure your SCALE installation has a working storage pool that you'd like to use for TrueCharts. [Read more](https://www.truenas.com/docs/scale/scaletutorials/storage/) in the SCALE tutorial.
 - Make sure you have a working Internet connection and can reach `https://github.com`, `https://truecharts.org`, and `https://tccr.io` from the host system.
 - Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
@@ -54,34 +54,34 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 
 ## Adding TrueCharts to SCALE
 
-import { Steps } from '@astrojs/starlight/components';
+import { Steps } from "@astrojs/starlight/components";
 
 <Steps>
 
 1.  Go to the **Apps** page from the top level SCALE menu
 
-    ![Apps](./guides/img/Apps.png)
+        ![Apps](./guides/img/Apps.png)
 
 2.  Click the **Discover Apps** button on the Apps page
 
-    ![Discover Apps](./guides/img/Apps2.png)
+        ![Discover Apps](./guides/img/Apps2.png)
 
 3.  Click the **Manage Catalogs** link on the Discover Apps page
 
-    ![Manage Catalogs](./guides/img/Apps3.png)
+        ![Manage Catalogs](./guides/img/Apps3.png)
 
 4.  Click **Add Catalog**
 
-    ![Add Catalog](./guides/img/Apps4.png)
+        ![Add Catalog](./guides/img/Apps4.png)
 
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
 
-    - Name: `truecharts`
-    - Repository: `https://github.com/truecharts/catalog`
-    - Preferred Trains: `premium`,`stable` and `system` (type each one manually)
-    - Branch: `main`
+        - Name: `truecharts`
+        - Repository: `https://github.com/truecharts/catalog`
+        - Preferred Trains: `premium`,`stable` and `system` (type each one manually)
+        - Branch: `main`
 
-    ![Catalog Info](./guides/img/Apps5.png)
+        ![Catalog Info](./guides/img/Apps5.png)
 
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
@@ -95,7 +95,7 @@ If you're having issues adding the TrueCharts catalog to SCALE, you may need to 
 
 :::tip[Introduction to TrueNAS SCALE Guide]
 
-Please free to check out our [Introduction to TrueNAS SCALE](/scale/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
+Please free to check out our [Introduction to TrueNAS SCALE](/scale/guides/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
 
 :::
 
@@ -141,31 +141,31 @@ As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer mai
 
 2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
 
-    ![Catalog Trains](./guides/img/Dragonfish-Storage5.png)
+        ![Catalog Trains](./guides/img/Dragonfish-Storage5.png)
 
 3. If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
-    ![system List](./guides/img/Dragonfish-Storage5b.png)
+        ![system List](./guides/img/Dragonfish-Storage5b.png)
 
 4. Create a dedicated, empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
 
 5. Then install the `OpenEBS` chart
 
-    ![OpenEBS Icon](./guides/img/icons/openebs.png)
+        ![OpenEBS Icon](./guides/img/icons/openebs.png)
 
 6. Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
 
-    ![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
-
-    :::danger
-
-    When setting the `pool/dataset` as above, do **not** set the path to the existing ix-applications dataset
-
-    :::
-
-    It's important to set the `pool/dataset` to the dataset you want to store the folders with the application data in them.
+        ![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
 
 </Steps>
+
+:::danger
+
+When setting the `pool/dataset` as above, do **not** set the path to the existing ix-applications dataset
+
+:::
+
+It's important to set the `pool/dataset` to the dataset you want to store the folders with the application data in them.
 
 ### MetalLB installation and disabling integrated LoadBalancer
 
@@ -181,7 +181,7 @@ Many of the popular TrueCharts apps for TrueNAS SCALE rely on `Prometheus Operat
 
 [Here](/general/faq#how-do-i-know-if-an-app-uses-cnpg) is a list of apps that rely on CNPG functionality. If you intend to deploy any of these apps, you **must** install the `Cloudnative-PG Operator` app first as above.
 
-If you are migrating from a different CNPG operator, you can use our [CNPG Migration Guide](/scale/cnpg-migration-guide) for steps on how to install the `Cloudnative-PG` operator and migrating to it. We also have [this](/general/faq#operators) FAQ entry on removing the previous CNPG backend once migrated.
+If you are migrating from a different CNPG operator, you can use our [CNPG Migration Guide](/scale/guides/cnpg-migration-guide) for steps on how to install the `Cloudnative-PG` operator and migrating to it. We also have [this](/general/faq#operators) FAQ entry on removing the previous CNPG backend once migrated.
 
 For new users just starting out with TrueNAS SCALE, simply **first** install `Prometheus Operator` **followed by** `Cloudnative-PG Operator` from the TrueCharts Community Catalog before continuing.
 
