@@ -2,7 +2,7 @@
 title: owi2plex
 ---
 
-![Version: 5.8.13](https://img.shields.io/badge/Version-5.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.14](https://img.shields.io/badge/Version-5.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 a xml grabber for enigma with open webif
 

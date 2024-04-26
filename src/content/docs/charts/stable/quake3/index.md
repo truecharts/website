@@ -2,7 +2,7 @@
 title: quake3
 ---
 
-![Version: 5.8.13](https://img.shields.io/badge/Version-5.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 5.8.14](https://img.shields.io/badge/Version-5.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 This Chart will download and install Quake III Server (You have to copy your .pk3 files from your game directory to your server).
 

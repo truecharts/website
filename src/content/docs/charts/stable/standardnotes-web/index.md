@@ -2,7 +2,7 @@
 title: standardnotes-web
 ---
 
-![Version: 5.8.13](https://img.shields.io/badge/Version-5.8.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
+![Version: 5.8.14](https://img.shields.io/badge/Version-5.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stable](https://img.shields.io/badge/AppVersion-stable-informational?style=flat-square)
 
 A safe and private place for your life's work.
 
