@@ -54,10 +54,6 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 
 ## Adding TrueCharts to SCALE
 
-import { Steps } from "@astrojs/starlight/components";
-
-<Steps>
-
 1.  Go to the **Apps** page from the top level SCALE menu
 
 ![Apps](./guides/img/Apps.png)
@@ -84,8 +80,6 @@ import { Steps } from "@astrojs/starlight/components";
 ![Catalog Info](./guides/img/Apps5.png)
 
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
-
-</Steps>
 
 :::note[Potential issue with adding catalog]
 
@@ -135,8 +129,11 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
 
+<<<<<<< HEAD
+=======
 <Steps>
 
+>>>>>>> 15cf04461ba08aff5eedc2d096fd436c81f18407
 1. In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
 
 2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
@@ -156,8 +153,6 @@ As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer mai
 6. Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
 
 ![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
-
-</Steps>
 
 :::danger
 
