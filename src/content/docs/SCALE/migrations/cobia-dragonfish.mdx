@@ -87,7 +87,7 @@ After running the above command for the first time, there's no need to repeatedl
 
 ### Post Migration Steps
 
-Once you have completed the above, you are finished the migration process. Your apps datasets should now look something like this:
+Once you have completed the above, you are finished the migration process and are back to business as usual. Your apps datasets should now look something like this:
 
 ![OpenEBS Apps](./img/openebs-datasets.png)
 
@@ -97,7 +97,7 @@ Nested inside "pvcApps" (in the above example) will be the PVC folders for each 
 
 ![OpenEBS Storage](./img/openebs-options.png)
 
-Feel free to let the system settle for 30 minutes after completing the process and then reboot it to ensure that app apps come back online correctly. Note that the OpenEBS operator now handles all PVC storage functionality for your installed apps, and should not be removed.
+Feel free to let the system settle for 30 minutes after completing the process and then reboot it to ensure that app apps come back online correctly. **Note that the OpenEBS operator now handles all PVC storage functionality for your installed apps, and should NOT be removed.**
 
 ## Known Issues with Migrations
 
@@ -109,10 +109,10 @@ Sometimes, things don't go as smoothly as they should. These are tips to help wi
 
 2. If this fails, note the name of the failed app(s) and continue migrating all others
 
-3. [Unset](https://www.truenas.com/docs/scale/scaleuireference/apps/#unset-pool) your apps pool
+3. Once you've completed migrated the rest of your apps, [unset](https://www.truenas.com/docs/scale/scaleuireference/apps/#unset-pool) your apps pool
 
 4. Try deleting all failed app datasets
 
-5. [Re-set](https://www.truenas.com/docs/scale/scaleuireference/apps/#settings) apps pool
+5. [Re-set](https://www.truenas.com/docs/scale/scaleuireference/apps/#settings) your apps pool
 
-6. Re-run migration script with --skip appended for all failed apps
+6. Re-run the migration script with --skip appended for all failed apps
