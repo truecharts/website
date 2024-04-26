@@ -2,7 +2,7 @@
 title: sabnzbd
 ---
 
-![Version: 19.6.15](https://img.shields.io/badge/Version-19.6.15-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.3](https://img.shields.io/badge/AppVersion-4.2.3-informational?style=flat-square)
+![Version: 19.6.16](https://img.shields.io/badge/Version-19.6.16-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.3](https://img.shields.io/badge/AppVersion-4.2.3-informational?style=flat-square)
 
 Free and easy binary newsreader
 
