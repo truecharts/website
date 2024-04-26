@@ -98,3 +98,27 @@ Nested inside "pvcApps" (in the above example) will be the PVC folders for each 
 ![OpenEBS Storage](./img/openebs-options.png)
 
 Feel free to let the system settle for 30 minutes after completing the process and then reboot it to ensure that app apps come back online correctly. Note that the OpenEBS operator now handles all PVC storage functionality for your installed apps, and should not be removed.
+
+## Known Issues with Migrations
+
+Sometimes, things don't go as smoothly as they should. These are tips to help with any known issues identified as part of the migration process.
+
+### "Dataset Busy" error when following the migration process/script
+
+import { Steps } from "@astrojs/starlight/components";
+
+<Steps>
+
+1. Try to delete the dataset
+
+2. If this fails, note the name of the failed app(s) and continue migrating all others
+
+3. [Unset](https://www.truenas.com/docs/scale/scaleuireference/apps/#unset-pool) your apps pool
+
+4. Try deleting all failed app datasets
+
+5. [Re-set](https://www.truenas.com/docs/scale/scaleuireference/apps/#settings) apps pool
+
+6. Re-run migration script with --skip appended for all failed apps
+
+</Steps>
