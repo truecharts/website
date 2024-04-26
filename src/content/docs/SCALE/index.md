@@ -51,7 +51,7 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 - Add catalog with the following trains: `stable`, `premium`, `system` -> [Adding TrueCharts](/scale/#adding-truecharts)
 - Install the following apps from the `system` train with default settings: `OpenEBS` `Prometheus Operator` `Cloudnative-PG Operator` and `Cert-Manager`
 
-## Adding TrueCharts to SCALE
+## Adding TrueCharts
 
 To add TrueCharts to your SCALE installation:
 
