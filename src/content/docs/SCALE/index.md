@@ -54,38 +54,34 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 
 ## Adding TrueCharts
 
-import { Steps } from "@astrojs/starlight/components";
-
-<Steps>
+To add TrueCharts to your SCALE installation:
 
 1.  Go to the **Apps** page from the top level SCALE menu
 
-        ![Apps](./guides/img/Apps.png)
+![Apps](./img/Apps.png)
 
 2.  Click the **Discover Apps** button on the Apps page
 
-        ![Discover Apps](./guides/img/Apps2.png)
+![Discover Apps](./img/Apps2.png)
 
 3.  Click the **Manage Catalogs** link on the Discover Apps page
 
-        ![Manage Catalogs](./guides/img/Apps3.png)
+![Manage Catalogs](./img/Apps3.png)
 
 4.  Click **Add Catalog**
 
-        ![Add Catalog](./guides/img/Apps4.png)
+![Add Catalog](./img/Apps4.png)
 
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
 
-        - Name: `truecharts`
-        - Repository: `https://github.com/truecharts/catalog`
-        - Preferred Trains: `premium`,`stable` and `system` (type each one manually)
-        - Branch: `main`
+- Name: `truecharts`
+- Repository: `https://github.com/truecharts/catalog`
+- Preferred Trains: `premium`,`stable` and `system` (type each one manually)
+- Branch: `main`
 
-        ![Catalog Info](./guides/img/Apps5.png)
+![Catalog Info](./img/Apps5.png)
 
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
-
-</Steps>
 
 :::note[Potential issue with adding catalog]
 
@@ -131,33 +127,30 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 ### OpenEBS Setup
 
-![OpenEBS Icon](./guides/img/icons/openebs.png)
+![OpenEBS Icon](./img/icons/openebs.png)
 
 As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
-
-<Steps>
 
 1. In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
 
 2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
 
-        ![Catalog Trains](./guides/img/Dragonfish-Storage5.png)
+![Catalog Trains](./img/Dragonfish-Storage5.png)
 
 3. If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
-        ![system List](./guides/img/Dragonfish-Storage5b.png)
+![system List](./img/Dragonfish-Storage5b.png)
 
-4. Create a dedicated, empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
+4. Create a dedicated, empty dataset outside of ix-applications. Please ensure you've chosen the **Pool/Dataset** that's **not** inside `ix-applications`
 
 5. Then install the `OpenEBS` chart
 
-        ![OpenEBS Icon](./guides/img/icons/openebs.png)
+![OpenEBS Icon](./img/icons/openebs.png)
 
 6. Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
 
-        ![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
+![OpenEBS Storage](./img/OpenEBS-storage.png)
 
-</Steps>
 
 :::danger
 
