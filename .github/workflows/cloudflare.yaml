@@ -29,7 +29,7 @@ jobs:
         with:
           message-id: cloudflare-deploy
           message: |
-            ### 🚧 Deploy Preview building...
+            ### 🚧 Deployment for ${{ (github.event_name == 'push' && github.ref == 'refs/heads/main') && '(Production)' || '(Preview)' }} is building...
 
             |  Name               | Link                                                                          |
             |---------------------|-------------------------------------------------------------------------------|
@@ -136,7 +136,7 @@ jobs:
         with:
           message-id: cloudflare-deploy
           message: |
-            ### ✅ Deploy Preview ready!
+            ### ✅ Deployment for ${{ (github.event_name == 'push' && github.ref == 'refs/heads/main') && '(Production)' || '(Preview)' }} is ready!
 
             |  Name                | Link                                                                          |
             |----------------------|-------------------------------------------------------------------------------|
