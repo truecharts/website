@@ -58,19 +58,19 @@ To add TrueCharts to your SCALE installation:
 
 1.  Go to the **Apps** page from the top level SCALE menu
 
-![Apps](./img/Apps.png)
+![Apps](./guides/img/Apps.png)
 
 2.  Click the **Discover Apps** button on the Apps page
 
-![Discover Apps](./img/Apps2.png)
+![Discover Apps](./guides/img/Apps2.png)
 
 3.  Click the **Manage Catalogs** link on the Discover Apps page
 
-![Manage Catalogs](./img/Apps3.png)
+![Manage Catalogs](./guides/img/Apps3.png)
 
 4.  Click **Add Catalog**
 
-![Add Catalog](./img/Apps4.png)
+![Add Catalog](./guides/img/Apps4.png)
 
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
 
@@ -79,7 +79,7 @@ To add TrueCharts to your SCALE installation:
 - Preferred Trains: `premium`,`stable` and `system` (type each one manually)
 - Branch: `main`
 
-![Catalog Info](./img/Apps5.png)
+![Catalog Info](./guides/img/Apps5.png)
 
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
@@ -127,7 +127,7 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 ### OpenEBS Setup
 
-![OpenEBS Icon](./img/icons/openebs.png)
+![OpenEBS Icon](./guides/img/icons/openebs.png)
 
 As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
 
@@ -135,21 +135,21 @@ As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer mai
 
 2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
 
-![Catalog Trains](./img/Dragonfish-Storage5.png)
+![Catalog Trains](./guides/img/Dragonfish-Storage5.png)
 
 3. If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
-![system List](./img/Dragonfish-Storage5b.png)
+![system List](./guides/img/Dragonfish-Storage5b.png)
 
 4. Create a dedicated, empty dataset outside of ix-applications. Please ensure you've chosen the **Pool/Dataset** that's **not** inside `ix-applications`
 
 5. Then install the `OpenEBS` chart
 
-![OpenEBS Icon](./img/icons/openebs.png)
+![OpenEBS Icon](./guides/img/icons/openebs.png)
 
 6. Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
 
-![OpenEBS Storage](./img/OpenEBS-storage.png)
+![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
 
 
 :::danger
