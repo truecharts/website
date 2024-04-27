@@ -105,13 +105,17 @@ Sometimes, things don't go as smoothly as they should. These are tips to help wi
 
 ### "Dataset Busy" error when following the migration process/script
 
-1. Try to delete the dataset
+1. Try to delete the dataset using ZFS destroy. Replace "apps" in the below example with the name of the pool your ix-application dataset resides on, and "calibre" with the name of the app you're removing in the below example to suit
+
+    ```shell title="ZFS Destroy"
+        zfs destroy -r  "TANK/ix-applications/releases/APPNAME"
+        ```
 
 2. If this fails, note the name of the failed app(s) and continue migrating all others
 
 3. [Unset](https://www.truenas.com/docs/scale/scaleuireference/apps/#unset-pool) your apps pool
 
-4. Try deleting all failed app datasets
+4. Try deleting all failed app datasets using ZFS destroy and the above command
 
 5. [Re-set](https://www.truenas.com/docs/scale/scaleuireference/apps/#settings) apps pool
 
