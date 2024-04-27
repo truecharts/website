@@ -4,7 +4,7 @@ concurrency:
   group: ${{ github.head_ref }}-cloudflare-build
 
 on:
-  pull_request_target:
+  pull_request:
   push:
     branches:
       - main
@@ -20,14 +20,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
-    name: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/main') && '(Production)' || '(Preview)' }} Publish to Cloudflare Pages
+    name: ${{ github.ref == 'refs/heads/main' && '(Production)' || '(Preview)' }} Publish to Cloudflare Pages
     steps:
-      - name: Output context information
-        run: |
-          echo "Event Name: ${{ github.event_name }}"
-          echo "Ref: ${{ github.ref }}"
-          echo "Head Ref: ${{ github.head_ref }}"
-          echo "Merge Commit Sha: ${{ github.event.pull_request.merge_commit_sha }}"
       - name: Comment deploy start
         if: github.event_name != 'push'
         continue-on-error: true
@@ -35,7 +29,7 @@ jobs:
         with:
           message-id: cloudflare-deploy
           message: |
-            ### 🚧 Deployment for ${{ (github.event_name == 'push' && github.ref == 'refs/heads/main') && '(Production)' || '(Preview)' }} is building...
+            ### 🚧 Deploy Preview building...
 
             |  Name               | Link                                                                          |
             |---------------------|-------------------------------------------------------------------------------|
@@ -129,7 +123,7 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           # By default Cloudflare marks `main` as the "production" branch.
           # So when this workflow is pushed to refs/heads/main, we set the branch to `main`/"production".
-          branch: ${{ (github.event_name == 'push' && github.ref == 'refs/heads/main') && 'main' || github.head_ref }}
+          branch: ${{ github.ref == 'refs/heads/main' && 'main' || github.head_ref }}
           # The project name in Cloudflare
           projectName: website
           directory: ./build
@@ -142,7 +136,7 @@ jobs:
         with:
           message-id: cloudflare-deploy
           message: |
-            ### ✅ Deployment for ${{ (github.event_name == 'push' && github.ref == 'refs/heads/main') && '(Production)' || '(Preview)' }} is ready!
+            ### ✅ Deploy Preview ready!
 
             |  Name                | Link                                                                          |
             |----------------------|-------------------------------------------------------------------------------|
