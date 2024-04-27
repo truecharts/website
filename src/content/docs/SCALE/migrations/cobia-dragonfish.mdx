@@ -125,6 +125,14 @@ Try the following in these EXACT steps, deviation of any kind can result in data
 
 2. If Step 1 fails, note the name of the failed app(s) and continue migrating ALL remaining apps.
 
+:::danger[Complete Migration First]
+
+You **MUST** complete or start the migration of all apps before continuing. If you do not the migration of any remaining apps not yet completed will no longer be possible. 
+
+**YOU HAV BEEN WARNED**
+
+:::
+
 3. After all apps are migrated, [unset](https://www.truenas.com/docs/scale/scaleuireference/apps/#unset-pool) the apps pool. TrueNAS SCALE GUI -> Applications -> Settings -> Unset Pool
 
 4. Go through your list of failed apps and delete them one by one, for example: `zfs destroy -r "TANK/ix-applications/releases/APPNAME"`
