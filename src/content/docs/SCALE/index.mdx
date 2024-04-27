@@ -48,12 +48,11 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 
 ## Minimal Getting Started Setup with SCALE
 
+- Complete the above requirements
 - Add catalog with the following trains: `stable`, `premium`, `system` -> [Adding TrueCharts](/scale/#adding-truecharts)
 - Install the following apps from the `system` train with default settings: `OpenEBS` `Prometheus Operator` `Cloudnative-PG Operator` and `Cert-Manager`
 
 ## Adding TrueCharts
-
-To add TrueCharts to your SCALE installation:
 
 import { Steps } from "@astrojs/starlight/components";
 
@@ -61,28 +60,28 @@ import { Steps } from "@astrojs/starlight/components";
 
 1.  Go to the **Apps** page from the top level SCALE menu
 
-![Apps](./guides/img/Apps.png)
+        ![Apps](./guides/img/Apps.png)
 
 2.  Click the **Discover Apps** button on the Apps page
 
-![Discover Apps](./guides/img/Apps2.png)
+        ![Discover Apps](./guides/img/Apps2.png)
 
 3.  Click the **Manage Catalogs** link on the Discover Apps page
 
-![Manage Catalogs](./guides/img/Apps3.png)
+        ![Manage Catalogs](./guides/img/Apps3.png)
 
 4.  Click **Add Catalog**
 
-![Add Catalog](./guides/img/Apps4.png)
+        ![Add Catalog](./guides/img/Apps4.png)
 
 5.  After reading the iXsystems notice, click **Continue** and enter the required information:
 
-- Name: `truecharts`
-- Repository: `https://github.com/truecharts/catalog`
-- Preferred Trains: `premium`,`stable` and `system` (type each one manually)
-- Branch: `main`
+        - Name: `truecharts`
+        - Repository: `https://github.com/truecharts/catalog`
+        - Preferred Trains: `premium`,`stable` and `system` (type each one manually)
+        - Branch: `main`
 
-![Catalog Info](./guides/img/Apps5.png)
+        ![Catalog Info](./guides/img/Apps5.png)
 
 6.  Click **Save** and allow SCALE to refresh its catalog with TrueCharts (this may take a few minutes)
 
@@ -126,17 +125,15 @@ TrueCharts has multiple "trains", or branches of apps which you can choose to in
 
 [See here](/charts/description-list) for a list of all apps available for each TrueCharts trains.
 
-## HeavyScript
+### HeavyScript
 
 Once you've added the TrueCharts catalog, we also recommend installing [HeavyScript](https://github.com/Heavybullets8/heavy_script#how-to-install) and configuring it to run nightly with a [cron job](https://github.com/Heavybullets8/heavy_script#how-to-create-a-cron-job). HeavyScript is a bash script for managing TrueNAS SCALE applications, automatically updating those applications, backing up applications datasets, opening a shell for containers, and many other features. Please visit the [HeavyScript GitHub Page](https://github.com/Heavybullets8/heavy_script) for more info.
 
-## OpenEBS Setup
+### OpenEBS Setup
 
 ![OpenEBS Icon](./guides/img/icons/openebs.png)
 
 As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
-
-import { Steps } from "@astrojs/starlight/components";
 
 <Steps>
 
@@ -144,21 +141,21 @@ import { Steps } from "@astrojs/starlight/components";
 
 2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
 
-![Catalog Trains](./guides/img/Dragonfish-Storage5.png)
+        ![Catalog Trains](./guides/img/Dragonfish-Storage5.png)
 
 3. If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
-![system List](./guides/img/Dragonfish-Storage5b.png)
+        ![system List](./guides/img/Dragonfish-Storage5b.png)
 
 4. Create a dedicated, empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
 
 5. Then install the `OpenEBS` chart
 
-![OpenEBS Icon](./guides/img/icons/openebs.png)
+        ![OpenEBS Icon](./guides/img/icons/openebs.png)
 
 6. Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
 
-![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
+        ![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
 
 </Steps>
 
@@ -170,13 +167,13 @@ When setting the `pool/dataset` as above, do **not** set the path to the existin
 
 It's important to set the `pool/dataset` to the dataset you want to store the folders with the application data in them.
 
-## MetalLB installation and disabling integrated LoadBalancer
+### MetalLB installation and disabling integrated LoadBalancer
 
 ![metallb](./guides/img/icons/metallb.png)
 
 This step may be optional but is recommended for advanced users and/or those who which to assign specific IPs to their SCALE applications. We have a full guide explaining the setups on the [MetalLB-Config Setup Guide](/charts/premium/metallb-config/setup-guide) page on how to setup MetalLB and disable the integrated LoadBalancer. Please refer to that page for more info.
 
-## Prometheus and CNPG system app installations
+### Prometheus and CNPG system app installations
 
 ![Prometheus](./guides/img/icons/prometheus-operator.png) ![CNPG](./guides/img/icons/cnpg.png)
 
@@ -188,7 +185,7 @@ If you are migrating from a different CNPG operator, you can use our [CNPG Migra
 
 For new users just starting out with TrueNAS SCALE, simply **first** install `Prometheus Operator` **followed by** `Cloudnative-PG Operator` from the TrueCharts Community Catalog before continuing.
 
-## Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
+### Traefik installation for Ingress / Reverse-Proxy support with TrueCharts Apps
 
 ![Traefik](./guides/img/icons/traefik.png)
 
@@ -196,19 +193,19 @@ For new users just starting out with TrueNAS SCALE, simply **first** install `Pr
 
 An optional but extra function enabled by Traefik and supported by many Truecharts Community Catalog apps like `Nextcloud`, is the ability to use a `middleware` to use your apps remotely. You can setup a basicAuth middleware using our guide [Add Traefik Basic Auth to Apps](/charts/premium/traefik/traefik-basicauth-middleware/).
 
-## Cert-Manager (operator) and Clusterissuer installation for certificate management
+### Cert-Manager (operator) and Clusterissuer installation for certificate management
 
 ![Cert-Manager](./guides/img/icons/cert-manager.png)
 
 TrueCharts only supports the usage of `Cert-Manager` (both the operator portion and the main `clusterissuer`) for certificate management inside apps for TrueNAS SCALE. The usage of TrueNAS SCALE certificates through the GUI is deprecated and may cease to function in future updates. We highly recommend setting up `clusterissuer` using our [clusterissuer setup-guide](/charts/premium/clusterissuer/how-to) before adding `Ingress` to your applications.
 
-## Blocky DNS provider for split-DNS installation and guide
+### Blocky DNS provider for split-DNS installation and guide
 
 ![Blocky](./guides/img/icons/blocky.png)
 
 Blocky is the optional, but preferred DNS solution for TrueCharts. It's a DNS proxy, DNS enhancer and ad-blocker which supports "split-DNS" through `K8S-Gateway` and is highly-available. The [Blocky Setup-Guide](/charts/premium/blocky/setup-guide) will cover basic setup options which will get you up and running and is not all inclusive.
 
-## Authelia Installation
+### Authelia Installation
 
 ![Authelia](./guides/img/icons/authelia.png)
 
