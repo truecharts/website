@@ -105,18 +105,22 @@ Sometimes, things don't go as smoothly as they should. These are tips to help wi
 
 ### "Dataset Busy" error when following the migration process/script
 
-1. Try to delete the dataset using ZFS destroy. Replace "apps" in the below example with the name of the pool your ix-application dataset resides on, and "calibre" with the name of the app you're removing in the below example to suit
+Try the following in these EXACT steps, deviation of any kind can result in data loss:
+
+1. Try to delete the dataset using the command `zfs destroy -r "TANK/ix-applications/releases/APPNAME"`
 
     ```shell title="ZFS Destroy"
         zfs destroy -r  "TANK/ix-applications/releases/APPNAME"
         ```
 
-2. If this fails, note the name of the failed app(s) and continue migrating all others
+2. If Step 1 fails, note the name of the failed app(s) and continue migrating ALL remaining apps.
 
-3. [Unset](https://www.truenas.com/docs/scale/scaleuireference/apps/#unset-pool) your apps pool
+3. After all apps are migrated, [unset](https://www.truenas.com/docs/scale/scaleuireference/apps/#unset-pool) the apps pool. TrueNAS SCALE GUI -> Applications -> Settings -> Unset Pool
 
-4. Try deleting all failed app datasets using ZFS destroy and the above command
+4. Go through your list of failed apps and delete them one by one, for example: `zfs destroy -r "TANK/ix-applications/releases/APPNAME"`
 
-5. [Re-set](https://www.truenas.com/docs/scale/scaleuireference/apps/#settings) apps pool
+5. After all failed apps datasets are deleted, [re-set](https://www.truenas.com/docs/scale/scaleuireference/apps/#settings) the apps pool the apps pool. TrueNAS SCALE GUI -> Applications -> Settings -> Set Pool
 
-6. Re-run migration script with --skip appended for all failed apps
+6. Re-run the script with `--skip` flag for all failed apps.
+
+It is very important to attempt all migrations **before** unsetting the applications pool. Unsetting the applications pool, or restarting with applications mid-migration, can result in data loss.
