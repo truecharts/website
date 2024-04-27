@@ -26,7 +26,8 @@ jobs:
         run: |
           echo "Event Name: ${{ github.event_name }}"
           echo "Ref: ${{ github.ref }}"
-          echo "Head Ref: ${{ github.head_ref }}"    
+          echo "Head Ref: ${{ github.head_ref }}"
+          echo "Merge Commit Sha: ${{ github.event.pull_request.merge_commit_sha }}"
       - name: Comment deploy start
         if: github.event_name != 'push'
         continue-on-error: true
