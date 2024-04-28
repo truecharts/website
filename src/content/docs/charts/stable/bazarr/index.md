@@ -10,8 +10,8 @@ Bazarr is a companion application to Sonarr and Radarr. It manages and downloads
 
 - https://github.com/morpheus65535/bazarr
 - https://github.com/truecharts/charts/tree/master/charts/stable/bazarr
-- https://ghcr.io/onedr0p/bazarr
 - https://ghcr.io/onedr0p/exportarr
+- https://ghcr.io/onedr0p/bazarr
 
 ## Available Documentation
 
