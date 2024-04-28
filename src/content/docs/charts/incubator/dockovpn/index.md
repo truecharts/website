@@ -15,6 +15,7 @@ DNS and Ad-filtering for your network
 ## Available Documentation
 
 - [**Changelog**](./changelog)
+- [**Setup Guide**](./setup-guide)
 
 ## Readme Content
 
