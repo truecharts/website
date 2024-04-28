@@ -54,7 +54,11 @@ import { Steps } from "@astrojs/starlight/components";
 
     Continue with the OpenEBS setup section of our TrueNAS SCALE Getting Started [Guide](/scale#openebs-setup) and once complete, proceed to next step.
 
-    **NOTE: The dataset you create for OpenEBS usage MUST reside on the same storage pool as the existing ix-applications dataset. Refer to the example apps dataset images at the [end](/scale/migrations/cobia-dragonfish/#post-migration-steps) of the guide.**
+    :::warning[Dataset Location]
+    
+    **The dataset you create for OpenEBS usage MUST reside on the same storage pool as the existing ix-applications dataset. Refer to the example apps dataset images at the [end](/scale/migrations/cobia-dragonfish/#post-migration-steps) of the guide.**
+
+    :::
 
 4. Migrate Apps to New Storage using TT-Migration Script
 
@@ -64,6 +68,12 @@ import { Steps } from "@astrojs/starlight/components";
     - Existing apps with PVCs or databases should be reinstalled using the TT-Migration script.
     - System train apps (`cloudnative-pg`, `cert-manager`, etc.) **should _NOT_ be reinstalled**. Apps from all other trains **should** be migrated. You will see a warning in the script if you attempt to migrate a **system** train app.
     - Apps without PVC storage **do** still need to be reinstalled to remove every remnant of old storage backends. You may see a notice in the migration script if you attempt to migrate an app with no PVCs, if this is the case, continue with migrating the app (unless it's on the System train, per above)
+
+    :::danger[Systems Train Apps]
+
+    **NEVER** attempt to delete or reinstall system train apps without direction from the support team. Doing so may result in data loss.
+
+    :::
 
     Running the below command in the TrueNAS SCALE shell will (1) clone/download Heavy's TT-Migration repo to your SCALE system, (2) enter the path for it and (3) execute the migration script as root:
 
@@ -114,6 +124,14 @@ Try the following in these EXACT steps, deviation of any kind can result in data
         ```
 
 2. If Step 1 fails, note the name of the failed app(s) and continue migrating ALL remaining apps.
+
+:::danger[Complete Migration First]
+
+You **MUST** complete or start the migration of all apps before continuing. If you do not, the migration of any remaining apps not yet completed will no longer be possible. 
+
+**YOU HAVE BEEN WARNED**
+
+:::
 
 3. After all apps are migrated, [unset](https://www.truenas.com/docs/scale/scaleuireference/apps/#unset-pool) the apps pool. TrueNAS SCALE GUI -> Applications -> Settings -> Unset Pool
 
