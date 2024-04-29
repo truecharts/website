@@ -2,7 +2,7 @@
 title: volsync
 ---
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.9.1](https://img.shields.io/badge/AppVersion-0.9.1-informational?style=flat-square)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.9.1](https://img.shields.io/badge/AppVersion-0.9.1-informational?style=flat-square)
 
 volsync is a storage backup and synchronisation tool.
 
@@ -12,8 +12,8 @@ volsync is a storage backup and synchronisation tool.
 - https://github.com/volsync/volsync-helm-chart
 - https://volsync.readthedocs.io/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/volsync
-- https://quay.io/backube/volsync
 - https://quay.io/brancz/kube-rbac-proxy
+- https://quay.io/backube/volsync
 
 ## Available Documentation
 
