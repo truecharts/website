@@ -2,7 +2,7 @@
 title: dayz
 ---
 
-![Version: 5.8.14](https://img.shields.io/badge/Version-5.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: dayz](https://img.shields.io/badge/AppVersion-dayz-informational?style=flat-square)
+![Version: 6.0.0](https://img.shields.io/badge/Version-6.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: dayz](https://img.shields.io/badge/AppVersion-dayz-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install DayZ and run it.
 

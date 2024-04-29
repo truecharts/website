@@ -4,6 +4,7 @@ title: Changelog
 
 
 
+
 ## [speedtest-tracker-1.11.10](https://github.com/truecharts/charts/compare/speedtest-tracker-1.6.0...speedtest-tracker-1.11.10) (2024-04-26)
 
 ### Chore

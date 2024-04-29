@@ -2,7 +2,7 @@
 title: rtorrent-rutorrent
 ---
 
-![Version: 4.8.14](https://img.shields.io/badge/Version-4.8.14-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.9](https://img.shields.io/badge/AppVersion-4.2.9-informational?style=flat-square)
+![Version: 5.0.0](https://img.shields.io/badge/Version-5.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.9](https://img.shields.io/badge/AppVersion-4.2.9-informational?style=flat-square)
 
 rTorrent and ruTorrent chart.
 
@@ -11,8 +11,8 @@ rTorrent and ruTorrent chart.
 - https://github.com/crazy-max/docker-rtorrent-rutorrent
 - https://truecharts.org/charts/stable/rtorrent-rutorrent
 - https://github.com/truecharts/charts/tree/master/charts/stable/rtorrent-rutorrent
-- https://ghcr.io/thde/rtorrent_exporter
 - https://ghcr.io/crazy-max/rtorrent-rutorrent
+- https://ghcr.io/thde/rtorrent_exporter
 
 ## Available Documentation
 
