@@ -8,6 +8,7 @@ title: Changelog
 
 
 
+
 ## [flashpaper-1.1.18](https://github.com/truecharts/charts/compare/flashpaper-5.0.14...flashpaper-1.1.18) (2024-04-26)
 
 ### Chore
