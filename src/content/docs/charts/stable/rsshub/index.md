@@ -11,8 +11,8 @@ RSSHub can generate RSS feeds from pretty much everything
 - https://docs.rsshub.app/en/install/
 - https://github.com/DIYgod/RSSHub
 - https://github.com/truecharts/charts/tree/master/charts/stable/rsshub
-- https://hub.docker.com/r/browserless/chrome
 - https://hub.docker.com/r/diygod/rsshub
+- https://hub.docker.com/r/browserless/chrome
 
 ## Available Documentation
 

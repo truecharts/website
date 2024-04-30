@@ -12,8 +12,8 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 - https://0xerr0r.github.io/blocky/
 - https://github.com/0xERR0R/blocky
 - https://github.com/truecharts/charts/tree/master/charts/premium/blocky
-- https://hub.docker.com/r/spx01/blocky
 - https://quay.io/oriedge/k8s_gateway
+- https://hub.docker.com/r/spx01/blocky
 
 ## Available Documentation
 
