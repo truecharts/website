@@ -2,7 +2,7 @@
 title: snapshot-controller
 ---
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.0.1](https://img.shields.io/badge/AppVersion-7.0.1-informational?style=flat-square)
 
 Deploys a Snapshot Controller in a cluster. Snapshot Controllers are often bundled with the Kubernetes distribution,
 this chart is meant for cases where it is not.
@@ -14,9 +14,8 @@ Also deploys the Snapshot Validation Webhook and configures your cluster to vali
 
 - https://github.com/snapshot-controller/snapshot-controller
 - https://github.com/snapshot-controller/snapshot-controller-helm-chart
-- https://github.com/truecharts/charts/tree/master/charts/system/snapshot-controller
-- https://github.com/truecharts/containers/tree/master/apps/scratch
 - https://github.com/kubernetes-csi/external-snapshotter/
+- https://github.com/truecharts/charts/tree/master/charts/system/snapshot-controller
 
 ## Available Documentation
 
@@ -30,7 +29,7 @@ Also deploys the Snapshot Validation Webhook and configures your cluster to vali
 TrueCharts can be installed as both _normal_ Helm Charts or as TrueNAS SCALE Apps.
 Both solutions are fully supported, but we heavily advice the use of normal Helm Charts where possible
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/system/volumesnapshots)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/system/snapshot-controller)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
@@ -60,7 +59,7 @@ For the complete overview of all available options, please checkout the document
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/system/volumesnapshots
+https://truecharts.org/charts/system/snapshot-controller
 
 ### Support
 
