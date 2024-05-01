@@ -2,7 +2,7 @@
 title: snapshot-controller
 ---
 
-![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.0.1](https://img.shields.io/badge/AppVersion-7.0.1-informational?style=flat-square)
+![Version: 1.0.1](https://img.shields.io/badge/Version-1.0.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.0.1](https://img.shields.io/badge/AppVersion-7.0.1-informational?style=flat-square)
 
 Deploys a Snapshot Controller in a cluster. Snapshot Controllers are often bundled with the Kubernetes distribution,
 this chart is meant for cases where it is not.

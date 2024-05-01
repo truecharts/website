@@ -2,7 +2,7 @@
 title: jenkins
 ---
 
-![Version: 8.0.3](https://img.shields.io/badge/Version-8.0.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.455.0](https://img.shields.io/badge/AppVersion-2.455.0-informational?style=flat-square)
+![Version: 8.0.4](https://img.shields.io/badge/Version-8.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.455.0](https://img.shields.io/badge/AppVersion-2.455.0-informational?style=flat-square)
 
 The gold standard in devops tools for running CI/CD pipelines.
 
