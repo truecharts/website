@@ -2,7 +2,7 @@
 title: nextcloud
 ---
 
-![Version: 30.0.4](https://img.shields.io/badge/Version-30.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 28.0.4](https://img.shields.io/badge/AppVersion-28.0.4-informational?style=flat-square)
+![Version: 30.0.7](https://img.shields.io/badge/Version-30.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 29.0.0](https://img.shields.io/badge/AppVersion-29.0.0-informational?style=flat-square)
 
 A private cloud server that puts the control and security of your own data back into your hands.
 
@@ -21,6 +21,7 @@ A private cloud server that puts the control and security of your own data back 
 ## Available Documentation
 
 - [**Changelog**](./changelog)
+- [**Nextcloud Backup, Restore and Migration Guide**](./backup-restore-migrate-guide)
 - [**Changing Database Password**](./changingpassword)
 - [**Installation Notes**](./installation-notes)
 - [**NextCloud Support Policy**](./support)
