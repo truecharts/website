@@ -10,8 +10,8 @@ Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader an
 
 - https://git.tt-rss.org/fox/tt-rss
 - https://github.com/truecharts/charts/tree/master/charts/stable/tt-rss
-- https://hub.docker.com/r/cthulhoo/ttrss-web-nginx
 - https://hub.docker.com/r/cthulhoo/ttrss-fpm-pgsql-static
+- https://hub.docker.com/r/cthulhoo/ttrss-web-nginx
 
 ## Available Documentation
 
