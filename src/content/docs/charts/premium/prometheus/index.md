@@ -11,9 +11,9 @@ kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Pro
 - https://github.com/prometheus-community/helm-charts
 - https://github.com/prometheus-operator/kube-prometheus
 - https://github.com/truecharts/charts/tree/master/charts/premium/prometheus
+- https://hub.docker.com/r/bitnami/prometheus
 - https://quay.io/thanos/thanos
 - https://hub.docker.com/r/bitnami/alertmanager
-- https://hub.docker.com/r/bitnami/prometheus
 
 ## Available Documentation
 
