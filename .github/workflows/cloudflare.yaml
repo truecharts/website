@@ -37,6 +37,11 @@ jobs:
             |🔍 Latest deploy log | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
             ---
 
+      - name: Set Swap Space
+        uses: pierotofy/set-swap-space@master
+        with:
+          swap-size-gb: 15
+
       - name: Checkout
         uses: actions/checkout@0ad4b8fadaa221de15dcec353f45205ec38ea70b # v4
         with:
@@ -103,16 +108,24 @@ jobs:
         uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4
         with:
           node-version-file: .nvmrc
+        env:
+          NODE_OPTIONS: "--max-old-space-size=22000"
 
       - name: Install Packages
         if: steps.modulescache.outputs.cache-hit != 'true'
         run: npm ci
+        env:
+          NODE_OPTIONS: "--max-old-space-size=22000"
 
       - name: Check
         run: npm run check
+        env:
+          NODE_OPTIONS: "--max-old-space-size=22000"
 
       - name: Build
         run: npm run build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=22000"
 
       - name: Publish to Cloudflare Pages
         id: cloudflare
