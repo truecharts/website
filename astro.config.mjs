@@ -1,7 +1,5 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-// Algolia Search
-import starlightDocSearch from "@astrojs/starlight-docsearch";
 // https://starlight.astro.build/guides/css-and-tailwind/#tailwind-css
 import tailwind from "@astrojs/tailwind";
 // https://github.com/HiDeoo/starlight-links-validator
@@ -47,6 +45,7 @@ export default defineConfig({
       title: "TrueCharts Charts",
       customCss: ["./src/tailwind.css"],
       tagline: "Awesome Helm Charts",
+      pagefind: true,
       logo: {
         src: "./src/assets/with-text.svg",
         replacesTitle: true,
@@ -117,11 +116,6 @@ export default defineConfig({
             "/s/tg",
             "/s/twitter",
           ],
-        }),
-        starlightDocSearch({
-          appId: "M5JIEOBD9S",
-          apiKey: "996ff61cece86950829f65416b941711",
-          indexName: "truecharts",
         }),
       ],
       sidebar: [
