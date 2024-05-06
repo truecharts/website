@@ -3,11 +3,11 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "export NODE_OPTIONS=--max-old-space-size=15360 && astro dev",
-    "dev-windows": "set NODE_OPTIONS=--max-old-space-size=15360 & astro dev",
-    "start": "export NODE_OPTIONS=--max-old-space-size=15360 && astro dev",
+    "dev": "export NODE_OPTIONS=--max-old-space-size=23000 && astro dev",
+    "dev-windows": "set NODE_OPTIONS=--max-old-space-size=23000 & astro dev",
+    "start": "export NODE_OPTIONS=--max-old-space-size=23000 && astro dev",
     "check": "astro check",
-    "build": "export NODE_OPTIONS=--max-old-space-size=15360 && astro build",
+    "build": "export NODE_OPTIONS=--max-old-space-size=23000 && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
