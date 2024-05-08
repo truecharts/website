@@ -1,5 +1,5 @@
 ---
-title: Advanced: Postgresql Export/Import
+title: 'Postgresql Export/Import'
 ---
 
 This guide will assist you in migrating to the new CNPG operator.
