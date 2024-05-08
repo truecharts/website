@@ -7,154 +7,105 @@ sidebar:
 :::caution[Best Effort Policy]
 
 This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.
-This guide has been thoroughly tested with TrueNAS SCALE 22.12.2.
+This guide has been thoroughly tested with TrueNAS SCALE 22.12.0
 
 :::
+
+:::caution[WIP]
+
+We're completely reworking the way we handle backups, moving away from platform-specific solution to a "one size fits everyone" system using VolSync and CNPG backups.
+We're also made aware that the old guide will not work on TrueNAS SCALE 24.04.1 DragonFish
+
+:::
+
 
 ## Requirements
 
-This guide makes use of our command-line tool, called `HeavyScript` and assumes you've already created backups using the BASH HeavyScript.
+### System Apps
+
+We expect users to have fully followed the quick-start guide and hence have installed *all* operators listed there
+
+### HeavyScript
+
+This guide makes use of the command-line tool, called `HeavyScript` and assumes you've already created backups using the BASH HeavyScript.
 
 Please refer to the GitHub page for [HeavyScript](https://github.com/Heavybullets8/heavy_script) to follow the commands and instructions below.
 
-### ZFS replication
+### S3 Backup Provider
 
-Our only officially supported system for "offsite" backups is ZFS replication. Offsite can be either another machine, a zfs formatted usb drive or other pool on the same system without any issues when it comes to the guides.
+Our only officially supported system for "offsite" backups is S3(-compatible) storage. Offsite can be either another machine with minio or a S3 Storage provider like BackBlaze or AWS.
+Currently our only officially supported backup provider is BackBlaze. But we're looking forward to expand this list in the future.
 
-However, whilst zfs replication CAN be done to an archive file, which can be saved in whatever way the user fancies, we do not provide official support for it. Using zfs replication in this manner exponentially increases the chance of complications.
 
 ## Backup
 
-If you haven't created a manual backup yet using `HeavyScript` one must be created before any of the following steps below.
+### General configuration
 
-```bash
-heavyscript backup
-```
+- Enter your S3 credentials under `credentials`
 
-It automatically deletes excessive backups, which defaults to a max. of 14 backups. To increase this, to 31 for example, use:
+### Exporting App Configuration
 
-```bash
-heavyscript backup -c 31
-```
+To be done.
+This section will contain information to export your App configuration so it can be imported later
 
-> As mentioned above, all the commands and the various options for `HeavyScript` are available on the [HeavyScript GitHub](https://github.com/Heavybullets8/heavy_script) page
+### PVC Backups
 
-### Exporting Backups
+PVC data can be quite-easily backed to S3 storage, by using our integrated `VolSync` support.
 
-:::caution Replication
+For each App, Destination (automatic restore) *has to be* set on creation of the App:
+- Add `VolSync` to each persistence object you want synced
+- Add the name you gave to the S3 credentials under `credentials`
+- Enable `source` (backup) and/or `destination` (automatic restore)
+- confirm the data is writhen to your s3 server after 5 minutes
 
-The instructions below are designed to showcase the specific replication paremeters required for fail-safe replication of the `ix-applications` dataset. It does not intend to cover everything related to replication on TrueNAS SCALE.
+*you do not have to manually create the bucket beforehand, although this can be adviced to ensure the bucket-name is available beforehand*
 
-Please setup your ZFS replication in accordance with the TrueNAS Documentation, your off-site backup provider and/or the form of replication (local vs offsite) you want to do.
+### CNPG Database Backups
 
-:::
+CNPG-backed postgresql databases, have their own S3 Backup system.
+Luckily enough we integrated it in such a way, that they can safely share a bucket with the PVC backups.
 
-The above creates only a backup of the kubernetes objects and a snapshot of the `PVC` and `ix_volume` storage.
-These backups are saved under the same ix-applications dataset.
-
-It does not protect these against, for example, deletion of datasets or save them on an external system.
-
-We **highly** advise making both an internal backup (separate dataset on the same system) _and_ an offsite backup.
-One could create a normal recursive(!) replication of the `ix-volumes` dataset using the SCALE GUI, with the following few special tricks by editing the replication after creation:
-
-To do so, setup the following replication task:
-
-![rep2](./img/Replication2.png)
-![rep3](./img/Replication3.png)
-
-```bash
-ix-applications-backup-HeavyScript_%Y_%m_%d_%H_%M_%S
-```
-
-```bash
-ix-applications-backup-system-update--%Y-%m-%d_%H:%M:%S
-```
-
-It's also important to ensure you keep regular config backups of the SCALE system itself, preferably right after the Apps backup above).
-However this is not part of this guide and we will assume you've done so yourself.
-
-### Checking Backups
-
-To make which backups are present, one can use `HeavyScript` command and select the 3rd option.
-
-![HeavyScript-Main](./img/HeavyScript-Main.png)
-
-Which results in
-
-![HeavyScript-Backup](./img/HeavyScript-Backup.png)
-
-To list which backups are present select the 3rd option to get a list of backups.
-
-![HeavyScript-RestoreList](./img/HeavyScript-Restore-List.png)
+For each App:
+- Add CNPG backups to each database you want backed up
+- Add the name you gave to the S3 credentials under `credentials`
+- confirm the data is writhen to your s3 server after 5 minutes
+- We advice to set the `mode` to `restore`, this at should prevent the app to start with an empty database on restore.
 
 ## Restore
 
-One of the most important parts of backups is to ensure they can be restored.
-There are two scenario's for a restore:
+### Importing App Configuration
 
-1. Reverting a working system
+To be done.
+This section will contain information to import your App configuration so you do not have to manually recreate it
 
-2. Total System Restore
+### Recreating an App
 
-### Reverting a running system
+When you've no exported app configuration, you can remake the app while also restoring your PVC and CNPG backups as follows:
+- Ensure the app name matches the name of the app previously backed-up
+- Enter the same S3 credentials under `credentials`
+- Preferably ensure all other configuration options are setup precisely the same.
 
-Reverting a running system is rather trivial. But there are a few caveats:
+### PVC data restoration
 
-- This will reinitialize the kubernetes node, which means all kubernetes objects that are not deployed using the Apps system will get reverted
-- You CANNOT revert a single Apps
+PVC data restoration will happen automatically before the app will start.
+Please be aware this can take a while depending on the size of the backup
 
-To revert an existing system, the process is as follows:
+### CNPG Database Restore
 
-1. List your current backups using `HeavyScript`
+Before CNPG will correctly restore the database, the following modifications need to be done after recreating or importing the app configuration:
 
-2. Select option 3 `Backup Options` and then option 3 `Restore Backup`
-
-3. Choose Backup and answer the prompt
-
-![TrueTool-RestoreList](./img/HeavyScript-Restore-List.png)
-
-Please keep in mind this can take a LONG time, so be sure to wait a few hours before touching the system again.
-When done, a reboot might be adviseable
-
-### Postgresql Database Restore
-
-TBD
+- Ensure you setup CNPG backups as well as restore like it was previously
+- Ensure `mode` to `recovery`
+- set `revision` on your restore to match the previous `revision` setting on your backup setting
+- Increase the `revision` on your backup setting by 1 (or set to 1 if previously empty)
 
 ### Total System restore and Migration to new system
 
-> Sometimes you either need to wipe your system, Migrate to a new system or restore a system completely.
-> With the steps below, this is all very-much-possible.
+When on a completely new system, you can easily restore using the above steps giving the following caveats:
 
-:::caution[Ensure a Clean system]
-
-- Ensure a clean system, without Apps or configuration except the bare minimum network configuration
-- Do not choose an apps pool yet, or do ANYTHING with apps until step 3
-- Please do not restore SCALE configuration from backup-file, before Apps pool replication is finished.
-- We've only tested this on non-encrypted `ix-applications` datasets, as encryption of `ix-applications` is officially not supported.
-
-:::
-
-1. Using ZFS replication, move back the previously backed-up `ix-applications` dataset to the disk that will contain the future Apps Pool. This was covered in the [Exporting Backups](#exporting-backups) section.
-
-:::tip[BlueFin Bug Fix]
-
-With Bluefin, a UI bug has encountered preventing users to select the required new `force` option when selecting a pool
-This leads to an error warning for a "partially initialised pool"
-
-To prevent this error, run the following commands one-by-one, replacing POOL with the name of your Apps Pool:
-`zfs create POOL/ix-applications/docker`
-`zfs create POOL/ix-applications/k3s`
-`zfs create POOL/ix-applications/k3s/kubelet`
-`zfs create POOL/ix-applications/catalogs`
-`zfs set mountpoint=legacy POOL/ix-applications/k3s/kubelet`
-
-:::
-
-2. _Optional/untested_: When the SCALE system itself is also wiped, ensure to restore it using a SCALE config export **first**.
-
-3. Once the ZFS replication is complete, on the new or migrated system navigate to the **Apps** tab in the Truenas Scale GUI. When prompted to select a pool, select the pool containing the `ix-applications` dataset.
-
-4. All you need to do now is restore the HeavyScript snapshot of your `ix-applications` dataset by following the [Reverting a running system](#reverting-a-running-system) guide above.
+- On a non-SCALE system, the PVC backend needs to support snapshots
+- The Apps need to be called PRECISELY the same, preferably using previously exported config
+- If you've any non-PVC storage attached, be sure that this is still available or Apps wont start
 
 ## Video Guide
 
@@ -165,7 +116,6 @@ TBD
 ### PVC mountpoints on replication
 
 In some/all cases PVC mountpoints are not correctly set to `legacy` after replication.
-HeavyScript has added scripting to fix this issue, however it does not seem to be a priority for iX-Systems to fix upstream.
 To fix this issue manually, run:
 
 >

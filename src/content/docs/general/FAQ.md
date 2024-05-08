@@ -39,7 +39,41 @@ Some examples are:
 - Monica
 - Recipes
 
+## Inotify Issues
 
+Linux, including TrueNAS SCALE, has a limited count of "open" or "read" files, that you might need to increase as follows:
+
+### Set Inotify on TrueNAS Scale
+
+system settings > advanced Settings > sysctl section.
+
+It should be noted that adjusting these values will slightly increase ram usage.
+
+Good values to start with would be:
+
+- `fs.inotify.max_user_watches = 524288`
+- `fs.inotify.max_user_instances = 512`
+
+## Date-Time Issues
+
+Any modern operating system, can have issues with time and date synchronization.
+However, accurate date time is absolutely crucial for a lot of applications, HTTPS/TLS, backup and synchornisation of databases
+
+Fortunately you can often easily check this on Linux using:
+
+```bash
+date
+```
+
+If the time/date does match then proceed to run the following commands:
+
+```bash
+sudo systemctl stop ntp && sudo ntpd -gq && sudo systemctl start ntp && date
+```
+
+The command will stop ntp, sync the clock with ntp server, start the ntp service and print date afterwards.
+
+*If the output of the "date" command matches the current local time for your system, then the time issue is resolved. However, if the output does not match, repeat the above steps until the system clock is properly synchronized.*
 
 ## Can I use another Load Balancer in front of traefik?
 
