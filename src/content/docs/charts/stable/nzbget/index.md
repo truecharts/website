@@ -15,7 +15,7 @@ NZBGet is a Usenet downloader client
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**Installation Guide**](./installation)
+- [****](./installation)
 
 ## Readme Content
 

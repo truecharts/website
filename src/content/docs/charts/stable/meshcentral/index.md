@@ -15,7 +15,7 @@ MeshCentral is a full computer management web site
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**Installation instructions**](./installation-instructions)
+- [****](./installation-instructions)
 
 ## Readme Content
 

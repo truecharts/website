@@ -15,7 +15,7 @@ Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FT
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**SFTPGo Plugins**](./plugins)
+- [****](./plugins)
 
 ## Readme Content
 

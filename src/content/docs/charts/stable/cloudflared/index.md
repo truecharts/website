@@ -14,7 +14,7 @@ Client for Cloudflare Tunnel, a daemon that exposes private services through the
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**Installation Notes**](./installation_notes)
+- [****](./installation_notes)
 
 ## Readme Content
 

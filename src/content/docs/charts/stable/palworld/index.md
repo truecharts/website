@@ -16,9 +16,9 @@ A custom SteamCMD chart that runs Palworld.
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**PalWorld Installation Notes**](./installation_notes)
-- [**PalWorld RCON Notes**](./rcon_notes)
-- [**Input Validation**](./validation)
+- [****](./installation_notes)
+- [****](./rcon_notes)
+- [****](./validation)
 
 ## Readme Content
 

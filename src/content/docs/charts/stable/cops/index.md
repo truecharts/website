@@ -6,7 +6,6 @@ title: cops
 
 Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien Lucas, stands for Calibre OPDS (and HTML) Php Server.
 
-
 ## Chart Sources
 
 - https://github.com/orgs/linuxserver/packages/container/package/cops

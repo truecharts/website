@@ -9,7 +9,6 @@ this chart is meant for cases where it is not.
 Also deploys the Snapshot Validation Webhook and configures your cluster to validate every `VolumeSnapshot` and
 `VolumeSnapshotContent` resource by sending it to the webhook.
 
-
 ## Chart Sources
 
 - https://github.com/snapshot-controller/snapshot-controller

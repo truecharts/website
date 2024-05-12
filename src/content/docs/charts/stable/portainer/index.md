@@ -17,7 +17,7 @@ Container management made easy
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**Installation Notes**](./installation-notes)
+- [****](./installation-notes)
 
 ## Readme Content
 

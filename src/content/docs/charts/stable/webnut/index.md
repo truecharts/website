@@ -15,7 +15,7 @@ webNUT (UPS network monitoring web ui).
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**Installation Notes**](./installation_notes)
+- [****](./installation_notes)
 
 ## Readme Content
 

@@ -19,7 +19,7 @@ Traefik is a flexible reverse proxy and Ingress Provider.
 - [**Authelia + LLDAP + Traefik ForwardAuth Setup guide**](./authelia-lldap-forwardauth)
 - [**Changelog**](./changelog)
 - [**Adding or Removing Headers**](./custom-header-middlewares)
-- [**Installing Traefik**](./how-to)
+- [****](./how-to)
 - [**Redirect Regex**](./redirect-regex-middleware)
 - [**Theme Park**](./theme-park-middleware)
 - [**Add Traefik Basic Auth to Apps**](./traefik-basicauth-middleware)

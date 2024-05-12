@@ -16,7 +16,7 @@ A network load-balancer implementation for Kubernetes using standard routing pro
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**MetalLB Basic Setup**](./setup-guide)
+- [****](./setup-guide)
 
 ## Readme Content
 

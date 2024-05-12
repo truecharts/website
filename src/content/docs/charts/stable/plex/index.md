@@ -16,8 +16,8 @@ Plex Media Server
 
 - [**Changelog**](./changelog)
 - [**Plex Installation Notes**](./installation_notes)
-- [**Community Migration Guide**](./migration_guide)
-- [**Input Validation**](./validation)
+- [****](./migration_guide)
+- [****](./validation)
 
 ## Readme Content
 

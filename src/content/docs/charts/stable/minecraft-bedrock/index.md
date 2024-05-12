@@ -15,7 +15,7 @@ Minecraft Bedrock Dedicated Server
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**How To**](./how-to)
+- [****](./how-to)
 
 ## Readme Content
 

@@ -6,7 +6,6 @@ title: fastcom-mqtt
 
 Chart Chart with Fast.com CLI sending data directly to MQTT Broker
 
-
 ## Chart Sources
 
 - https://github.com/simonjenny/fastcom-mqtt

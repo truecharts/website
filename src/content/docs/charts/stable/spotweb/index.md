@@ -16,7 +16,7 @@ Spotweb is a decentralized usenet community based on the Spotnet protocol.
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**Input Validation**](./validation)
+- [****](./validation)
 
 ## Readme Content
 

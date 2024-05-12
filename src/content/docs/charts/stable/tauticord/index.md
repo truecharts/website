@@ -15,7 +15,7 @@ A Discord bot that displays live data from Tautulli.
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [**Installation Notes**](./installation_notes)
+- [****](./installation_notes)
 
 ## Readme Content
 
