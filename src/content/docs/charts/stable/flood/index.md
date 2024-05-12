@@ -1,4 +1,5 @@
 ---
+title: flood
 ---
 
 ![Version: 14.0.5](https://img.shields.io/badge/Version-14.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.8.2](https://img.shields.io/badge/AppVersion-4.8.2-informational?style=flat-square)
@@ -13,6 +14,7 @@ Flood is a monitoring service for various torrent clients
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

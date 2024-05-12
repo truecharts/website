@@ -1,4 +1,5 @@
 ---
+title: socials
 ---
 
 ![Version: 6.0.4](https://img.shields.io/badge/Version-6.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: main](https://img.shields.io/badge/AppVersion-main-informational?style=flat-square)
@@ -14,6 +15,7 @@ Socials is a single-page website that stores all your social media and personal 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

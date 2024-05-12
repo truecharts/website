@@ -1,4 +1,5 @@
 ---
+title: semaphore
 ---
 
 ![Version: 2.0.5](https://img.shields.io/badge/Version-2.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.9.75](https://img.shields.io/badge/AppVersion-2.9.75-informational?style=flat-square)
@@ -13,6 +14,7 @@ Semaphore is a modern, open source alternative to Ansible Tower. It is a self-ho
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

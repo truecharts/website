@@ -1,4 +1,5 @@
 ---
+title: mordhau
 ---
 
 ![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: mordhau](https://img.shields.io/badge/AppVersion-mordhau-informational?style=flat-square)
@@ -13,6 +14,7 @@ This Docker will download and install SteamCMD. It will also install Mordhau and
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

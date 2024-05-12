@@ -1,4 +1,5 @@
 ---
+title: custom-app
 ---
 
 ![Version: 13.0.4](https://img.shields.io/badge/Version-13.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.21.1155](https://img.shields.io/badge/AppVersion-0.21.1155-informational?style=flat-square)
@@ -12,6 +13,7 @@ Advanced tool to create your own TrueCharts-based Charts
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

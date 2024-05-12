@@ -1,4 +1,5 @@
 ---
+title: proxmox-backup-server
 ---
 
 ![Version: 4.0.5](https://img.shields.io/badge/Version-4.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.1.2](https://img.shields.io/badge/AppVersion-3.1.2-informational?style=flat-square)
@@ -12,6 +13,8 @@ Container for proxmox backup server
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation notes**](./installation_notes)
 
 ## Readme Content
 

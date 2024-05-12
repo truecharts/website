@@ -1,4 +1,5 @@
 ---
+title: chevereto
 ---
 
 ![Version: 13.1.0](https://img.shields.io/badge/Version-13.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.6.2](https://img.shields.io/badge/AppVersion-1.6.2-informational?style=flat-square)
@@ -14,6 +15,7 @@ Chevereto is an image hosting software that allows you to create a beautiful and
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

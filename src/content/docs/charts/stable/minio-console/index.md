@@ -1,4 +1,5 @@
 ---
+title: minio-console
 ---
 
 ![Version: 11.0.5](https://img.shields.io/badge/Version-11.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.30.0](https://img.shields.io/badge/AppVersion-0.30.0-informational?style=flat-square)
@@ -13,6 +14,7 @@ A management console for minio server and operator
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,4 +1,5 @@
 ---
+title: mediaelch
 ---
 
 ![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,6 +14,7 @@ Mediaelch is a Tool to manage your movie and show libary regarding the metadata 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

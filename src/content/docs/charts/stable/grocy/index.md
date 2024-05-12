@@ -1,4 +1,5 @@
 ---
+title: grocy
 ---
 
 ![Version: 19.0.6](https://img.shields.io/badge/Version-19.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.0](https://img.shields.io/badge/AppVersion-4.2.0-informational?style=flat-square)
@@ -13,6 +14,7 @@ ERP beyond your fridge - grocy is a web-based self-hosted groceries & household 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

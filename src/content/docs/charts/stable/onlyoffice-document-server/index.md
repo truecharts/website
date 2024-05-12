@@ -1,4 +1,5 @@
 ---
+title: onlyoffice-document-server
 ---
 
 ![Version: 18.1.0](https://img.shields.io/badge/Version-18.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.1](https://img.shields.io/badge/AppVersion-8.0.1-informational?style=flat-square)
@@ -14,6 +15,7 @@ ONLYOFFICE Document Server is an online office suite comprising viewers and edit
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

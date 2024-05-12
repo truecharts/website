@@ -1,4 +1,5 @@
 ---
+title: paperless-ngx
 ---
 
 ![Version: 8.2.4](https://img.shields.io/badge/Version-8.2.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.8.3](https://img.shields.io/badge/AppVersion-2.8.3-informational?style=flat-square)
@@ -14,6 +15,8 @@ Paperless-ngx is an application by Daniel Quinn and contributors that indexes yo
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Setup Guide**](./how-to)
 
 ## Readme Content
 

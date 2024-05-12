@@ -1,4 +1,5 @@
 ---
+title: healthchecks
 ---
 
 ![Version: 15.0.6](https://img.shields.io/badge/Version-15.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.3.20240506](https://img.shields.io/badge/AppVersion-3.3.20240506-informational?style=flat-square)
@@ -13,6 +14,7 @@ Healthchecks is a cron job monitoring service. It listens for HTTP requests and 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

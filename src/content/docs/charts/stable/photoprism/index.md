@@ -1,4 +1,5 @@
 ---
+title: photoprism
 ---
 
 ![Version: 22.1.0](https://img.shields.io/badge/Version-22.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 240420.0.0](https://img.shields.io/badge/AppVersion-240420.0.0-informational?style=flat-square)
@@ -13,6 +14,7 @@ PhotoPrism® is a server-based application for browsing, organizing and sharing 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

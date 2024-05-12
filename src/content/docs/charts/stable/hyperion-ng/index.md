@@ -1,4 +1,5 @@
 ---
+title: hyperion-ng
 ---
 
 ![Version: 14.0.5](https://img.shields.io/badge/Version-14.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.16](https://img.shields.io/badge/AppVersion-2.0.16-informational?style=flat-square)
@@ -13,6 +14,7 @@ Hyperion is an opensource Bias or Ambient Lighting implementation
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

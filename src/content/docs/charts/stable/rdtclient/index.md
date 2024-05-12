@@ -1,4 +1,5 @@
 ---
+title: rdtclient
 ---
 
 ![Version: 5.0.5](https://img.shields.io/badge/Version-5.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.78](https://img.shields.io/badge/AppVersion-2.0.78-informational?style=flat-square)
@@ -14,6 +15,7 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

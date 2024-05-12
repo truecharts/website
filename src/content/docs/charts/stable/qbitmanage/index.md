@@ -1,4 +1,5 @@
 ---
+title: qbitmanage
 ---
 
 ![Version: 9.0.5](https://img.shields.io/badge/Version-9.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.1.3](https://img.shields.io/badge/AppVersion-4.1.3-informational?style=flat-square)
@@ -13,6 +14,7 @@ This tool will help manage tedious tasks in qBittorrent and automate them. Tag, 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

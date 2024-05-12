@@ -1,4 +1,5 @@
 ---
+title: browserless-chrome
 ---
 
 ![Version: 10.0.5](https://img.shields.io/badge/Version-10.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.61.1](https://img.shields.io/badge/AppVersion-1.61.1-informational?style=flat-square)
@@ -13,6 +14,7 @@ Browserless is a web-service that allows for remote clients to connect, drive, a
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

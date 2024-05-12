@@ -1,4 +1,5 @@
 ---
+title: misskey
 ---
 
 ![Version: 9.1.0](https://img.shields.io/badge/Version-9.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.3.1](https://img.shields.io/badge/AppVersion-2024.3.1-informational?style=flat-square)
@@ -13,6 +14,7 @@ Open source decentralized social media platform that's free forever!
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

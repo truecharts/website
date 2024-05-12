@@ -1,4 +1,5 @@
 ---
+title: dashy
 ---
 
 ![Version: 8.0.9](https://img.shields.io/badge/Version-8.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.0.1](https://img.shields.io/badge/AppVersion-3.0.1-informational?style=flat-square)
@@ -13,6 +14,7 @@ Dashy helps you organize your self-hosted services by making them accessible fro
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

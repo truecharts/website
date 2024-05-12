@@ -1,4 +1,5 @@
 ---
+title: joplin-server
 ---
 
 ![Version: 18.0.4](https://img.shields.io/badge/Version-18.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.14.2](https://img.shields.io/badge/AppVersion-2.14.2-informational?style=flat-square)
@@ -14,6 +15,8 @@ Allows you to sync any Joplin client.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

@@ -1,4 +1,5 @@
 ---
+title: foldingathome
 ---
 
 ![Version: 10.0.6](https://img.shields.io/badge/Version-10.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.6.21](https://img.shields.io/badge/AppVersion-7.6.21-informational?style=flat-square)
@@ -12,6 +13,7 @@ Folding@home is a distributed computing project for simulating protein dynamics,
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

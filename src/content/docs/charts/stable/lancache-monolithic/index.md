@@ -1,4 +1,5 @@
 ---
+title: lancache-monolithic
 ---
 
 ![Version: 9.0.5](https://img.shields.io/badge/Version-9.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -14,6 +15,8 @@ A monolithic lancache service capable of caching all CDNs in a single instance.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

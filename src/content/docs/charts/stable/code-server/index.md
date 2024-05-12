@@ -1,4 +1,5 @@
 ---
+title: code-server
 ---
 
 ![Version: 12.1.0](https://img.shields.io/badge/Version-12.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.89.0](https://img.shields.io/badge/AppVersion-4.89.0-informational?style=flat-square)
@@ -13,6 +14,7 @@ Run VS Code on any machine anywhere and access it in the browser.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,4 +1,5 @@
 ---
+title: cryptpad
 ---
 
 ![Version: 8.0.5](https://img.shields.io/badge/Version-8.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.5.0](https://img.shields.io/badge/AppVersion-5.5.0-informational?style=flat-square)
@@ -13,6 +14,7 @@ CryptPad is the Zero Knowledge realtime collaborative editor.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

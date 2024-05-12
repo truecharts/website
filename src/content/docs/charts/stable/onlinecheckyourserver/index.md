@@ -1,4 +1,5 @@
 ---
+title: onlinecheckyourserver
 ---
 
 ![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -12,6 +13,7 @@ This is a simple Chart that will check if a domain name or IP address is pingabl
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

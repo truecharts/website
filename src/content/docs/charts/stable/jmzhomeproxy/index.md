@@ -1,4 +1,5 @@
 ---
+title: jmzhomeproxy
 ---
 
 ![Version: 6.0.4](https://img.shields.io/badge/Version-6.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,6 +14,7 @@ Proxy is in quotes because I couldn't think of a better name. There is nothing o
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

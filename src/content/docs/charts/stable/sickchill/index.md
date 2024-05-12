@@ -1,4 +1,5 @@
 ---
+title: sickchill
 ---
 
 ![Version: 12.0.6](https://img.shields.io/badge/Version-12.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.3.1](https://img.shields.io/badge/AppVersion-2024.3.1-informational?style=flat-square)
@@ -14,6 +15,7 @@ An Automatic Video Library Manager for TV Shows
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

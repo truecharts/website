@@ -1,4 +1,5 @@
 ---
+title: arksurvivalevolved
 ---
 
 ![Version: 8.0.5](https://img.shields.io/badge/Version-8.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: arkse](https://img.shields.io/badge/AppVersion-arkse-informational?style=flat-square)
@@ -13,6 +14,8 @@ A custom SteamCMD chart that runs ArkSE.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Community Guide**](./community_guide)
 
 ## Readme Content
 

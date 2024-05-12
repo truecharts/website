@@ -1,4 +1,5 @@
 ---
+title: apache-webdav
 ---
 
 ![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -14,6 +15,7 @@ Very simple WebDAV server based on Apache. You need a WebDAV client to transfer 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

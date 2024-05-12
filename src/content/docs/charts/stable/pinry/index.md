@@ -1,4 +1,5 @@
 ---
+title: pinry
 ---
 
 ![Version: 10.0.5](https://img.shields.io/badge/Version-10.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.1.12](https://img.shields.io/badge/AppVersion-2.1.12-informational?style=flat-square)
@@ -13,6 +14,7 @@ The open-source core of Pinry, a tiling image board system for people who want t
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 
