@@ -16,7 +16,7 @@ A monolithic lancache service capable of caching all CDNs in a single instance.
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./installation_notes)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

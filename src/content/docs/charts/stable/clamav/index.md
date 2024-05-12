@@ -16,7 +16,7 @@ ClamAV is an open source antivirus engine for detecting trojans, viruses, malwar
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./how-to)
+- [**How-To**](./how-to)
 
 ## Readme Content
 

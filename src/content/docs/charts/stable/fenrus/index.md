@@ -6,6 +6,7 @@ title: fenrus
 
 Fenrus is a home page / personal dashboard with smart apps.   
 
+
 ## Chart Sources
 
 - https://github.com/truecharts/charts/tree/master/charts/stable/fenrus

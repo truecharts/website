@@ -15,7 +15,7 @@ game library manager focused in retro gaming
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./installation_notes)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

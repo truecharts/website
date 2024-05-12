@@ -16,7 +16,7 @@ High performance self-hosted photo and video backup solution.
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./install_notes)
+- [**Install Notes**](./install_notes)
 
 ## Readme Content
 

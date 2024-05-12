@@ -17,7 +17,7 @@ DNS and Ad-filtering for your network
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./split-dns)
+- [**Automatic Split DNS with PiHole**](./split-dns)
 
 ## Readme Content
 

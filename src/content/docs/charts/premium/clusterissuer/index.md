@@ -15,9 +15,9 @@ Certificate management for Kubernetes
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./cluster-certificates)
+- [**Cluster Certificates Setup Guide**](./cluster-certificates)
 - [**clusterissuer Setup Guide**](./how-to)
-- [****](./validation)
+- [**Input Validation**](./validation)
 
 ## Readme Content
 

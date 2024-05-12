@@ -15,7 +15,7 @@ Minio is a self-hosted S3 storage server
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./installation_notes)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 
