@@ -6,7 +6,6 @@ title: dockerregistry
 
 Docker Registry is used to store and distribute Docker images using HTTP API. This allows you host your own private Registry and store your images. Uses official Chart Registry image @ https://hub.Chart.com/_/registry/
 
-
 ## Chart Sources
 
 - https://registry.hub.docker.com/_/registry/
