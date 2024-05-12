@@ -1,4 +1,5 @@
 ---
+title: scrutiny
 ---
 
 ![Version: 11.0.4](https://img.shields.io/badge/Version-11.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.1](https://img.shields.io/badge/AppVersion-0.8.1-informational?style=flat-square)
@@ -12,6 +13,7 @@ Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

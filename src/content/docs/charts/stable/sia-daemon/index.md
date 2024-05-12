@@ -1,4 +1,5 @@
 ---
+title: sia-daemon
 ---
 
 ![Version: 6.0.4](https://img.shields.io/badge/Version-6.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
@@ -14,6 +15,7 @@ Sia is a decentralized cloud storage platform that radically alters the landscap
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

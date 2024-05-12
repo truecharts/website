@@ -1,4 +1,5 @@
 ---
+title: redmine
 ---
 
 ![Version: 12.0.4](https://img.shields.io/badge/Version-12.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.1.2](https://img.shields.io/badge/AppVersion-5.1.2-informational?style=flat-square)
@@ -13,6 +14,8 @@ Redmine is a flexible project management web application written using Ruby on R
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Custom theme for Redmine**](./custom-theme)
 
 ## Readme Content
 

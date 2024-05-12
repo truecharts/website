@@ -1,4 +1,5 @@
 ---
+title: airsonic-advanced
 ---
 
 ![Version: 14.0.5](https://img.shields.io/badge/Version-14.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: edge-latest](https://img.shields.io/badge/AppVersion-edge-latest-informational?style=flat-square)
@@ -13,6 +14,7 @@ Airsonic is a Free and Open Source community driven media server
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

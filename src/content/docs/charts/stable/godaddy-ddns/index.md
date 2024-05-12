@@ -1,4 +1,5 @@
 ---
+title: godaddy-ddns
 ---
 
 ![Version: 6.0.4](https://img.shields.io/badge/Version-6.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -12,6 +13,7 @@ Chart to provide a DDNS service for godaddy domains. Uses the GoDaddy REST API t
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

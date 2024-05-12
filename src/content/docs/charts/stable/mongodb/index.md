@@ -1,4 +1,5 @@
 ---
+title: mongodb
 ---
 
 ![Version: 13.0.6](https://img.shields.io/badge/Version-13.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 7.0.9](https://img.shields.io/badge/AppVersion-7.0.9-informational?style=flat-square)
@@ -14,6 +15,7 @@ Fast, reliable, scalable, and easy to use open-source no-sql database system.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,4 +1,5 @@
 ---
+title: owncast
 ---
 
 ![Version: 14.0.5](https://img.shields.io/badge/Version-14.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.1.3](https://img.shields.io/badge/AppVersion-0.1.3-informational?style=flat-square)
@@ -14,6 +15,7 @@ Take control over your live stream video by running it yourself. Streaming + cha
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

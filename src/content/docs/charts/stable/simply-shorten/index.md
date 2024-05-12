@@ -1,4 +1,5 @@
 ---
+title: simply-shorten
 ---
 
 ![Version: 9.0.4](https://img.shields.io/badge/Version-9.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.1.0](https://img.shields.io/badge/AppVersion-1.1.0-informational?style=flat-square)
@@ -13,6 +14,8 @@ A dead simple URL shortener.
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

@@ -1,4 +1,5 @@
 ---
+title: tsn-ranksystem
 ---
 
 ![Version: 2.1.0](https://img.shields.io/badge/Version-2.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -15,6 +16,8 @@ TS-N Ranksystem is a TeamSpeak 3 bot that allows you to assign ranks to users ba
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Default credentials**](./credentials)
 
 ## Readme Content
 

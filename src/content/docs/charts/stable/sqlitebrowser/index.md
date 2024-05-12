@@ -1,4 +1,5 @@
 ---
+title: sqlitebrowser
 ---
 
 ![Version: 11.0.4](https://img.shields.io/badge/Version-11.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 18.04.1](https://img.shields.io/badge/AppVersion-18.04.1-informational?style=flat-square)
@@ -14,6 +15,7 @@ A high quality, visual, open source tool to create, design, and edit database fi
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

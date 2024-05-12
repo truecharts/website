@@ -1,4 +1,5 @@
 ---
+title: projectsend
 ---
 
 ![Version: 13.1.1](https://img.shields.io/badge/Version-13.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,6 +14,7 @@ ProjectSend is a self-hosted application that lets you upload files and assign t
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

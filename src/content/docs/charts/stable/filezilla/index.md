@@ -1,4 +1,5 @@
 ---
+title: filezilla
 ---
 
 ![Version: 12.0.7](https://img.shields.io/badge/Version-12.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.66.4](https://img.shields.io/badge/AppVersion-3.66.4-informational?style=flat-square)
@@ -14,6 +15,7 @@ A Helm chart for Kubernetes
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

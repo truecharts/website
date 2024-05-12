@@ -1,4 +1,5 @@
 ---
+title: valheim
 ---
 
 ![Version: 11.0.5](https://img.shields.io/badge/Version-11.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,6 +14,8 @@ Valheim dedicated gameserver with automatic update and world backup support
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

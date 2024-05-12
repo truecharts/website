@@ -1,4 +1,5 @@
 ---
+title: modsecurity-crs
 ---
 
 ![Version: 4.0.5](https://img.shields.io/badge/Version-4.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.3.4](https://img.shields.io/badge/AppVersion-3.3.4-informational?style=flat-square)
@@ -13,6 +14,8 @@ ModSecurity is an open source, cross platform Web Application Firewall (WAF) eng
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

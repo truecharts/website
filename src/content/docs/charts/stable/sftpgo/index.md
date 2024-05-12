@@ -1,4 +1,5 @@
 ---
+title: sftpgo
 ---
 
 ![Version: 7.0.4](https://img.shields.io/badge/Version-7.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.5.6](https://img.shields.io/badge/AppVersion-2.5.6-informational?style=flat-square)
@@ -13,6 +14,8 @@ Fully featured and highly configurable SFTP server with optional HTTP/S, FTP, FT
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**SFTPGo Plugins**](./plugins)
 
 ## Readme Content
 

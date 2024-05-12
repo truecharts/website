@@ -1,4 +1,5 @@
 ---
+title: codeproject-ai-server
 ---
 
 ![Version: 3.0.5](https://img.shields.io/badge/Version-3.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.5.1](https://img.shields.io/badge/AppVersion-2.5.1-informational?style=flat-square)
@@ -13,6 +14,7 @@ A standalone, self-hosted, fast, free and Open Source Artificial Intelligence mi
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

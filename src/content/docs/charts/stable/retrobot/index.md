@@ -1,4 +1,5 @@
 ---
+title: retrobot
 ---
 
 ![Version: 9.0.4](https://img.shields.io/badge/Version-9.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,6 +14,7 @@ A discord bot that allows you to play old nintendo games with your friends over 
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

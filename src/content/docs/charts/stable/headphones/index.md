@@ -1,4 +1,5 @@
 ---
+title: headphones
 ---
 
 ![Version: 12.0.4](https://img.shields.io/badge/Version-12.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: a78f38c1](https://img.shields.io/badge/AppVersion-a78f38c1-informational?style=flat-square)
@@ -14,6 +15,7 @@ An automated music downloader for NZB and Torrent, written in Python. It support
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

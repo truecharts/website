@@ -1,4 +1,5 @@
 ---
+title: plausible
 ---
 
 ![Version: 11.2.0](https://img.shields.io/badge/Version-11.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.0](https://img.shields.io/badge/AppVersion-2.0.0-informational?style=flat-square)
@@ -16,6 +17,7 @@ Plausible is lightweight and open source web analytics. No cookies and fully com
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

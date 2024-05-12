@@ -1,4 +1,5 @@
 ---
+title: pvk-ii
 ---
 
 ![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: pkii](https://img.shields.io/badge/AppVersion-pkii-informational?style=flat-square)
@@ -13,6 +14,7 @@ This Chart will download and install SteamCMD. It will also install Pirates, Vik
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

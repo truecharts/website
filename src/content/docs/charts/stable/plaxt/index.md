@@ -1,4 +1,5 @@
 ---
+title: plaxt
 ---
 
 ![Version: 9.0.5](https://img.shields.io/badge/Version-9.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,6 +14,8 @@ This Tools provides a way to keep your watched history synced FROM Plex Server T
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

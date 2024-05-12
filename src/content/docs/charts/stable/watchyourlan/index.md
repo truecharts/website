@@ -1,4 +1,5 @@
 ---
+title: watchyourlan
 ---
 
 ![Version: 9.0.4](https://img.shields.io/badge/Version-9.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.6](https://img.shields.io/badge/AppVersion-1.0.6-informational?style=flat-square)
@@ -13,6 +14,7 @@ Lightweight network IP scanner with web GUI
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

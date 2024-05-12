@@ -1,4 +1,5 @@
 ---
+title: universal-media-server
 ---
 
 ![Version: 6.0.6](https://img.shields.io/badge/Version-6.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,6 +14,7 @@ Universal Media Server is a DLNA-compliant UPnP Media Server. It is capable of s
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 

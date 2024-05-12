@@ -1,4 +1,5 @@
 ---
+title: cstrikeconditionzero
 ---
 
 ![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: cstrikeczero](https://img.shields.io/badge/AppVersion-cstrikeczero-informational?style=flat-square)
@@ -13,6 +14,7 @@ This Chart will download and install SteamCMD. It will also install Counter-Stri
 
 ## Available Documentation
 
+- [**Changelog**](./changelog)
 
 ## Readme Content
 
