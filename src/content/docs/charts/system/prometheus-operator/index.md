@@ -15,7 +15,7 @@ Prometheus Operator is an operator for prometheus
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./installation)
+- [**Troubleshooting**](./installation)
 
 ## Readme Content
 

@@ -15,7 +15,7 @@ A custom SteamCMD chart that runs ArkSE.
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./community_guide)
+- [**Community Guide**](./community_guide)
 
 ## Readme Content
 

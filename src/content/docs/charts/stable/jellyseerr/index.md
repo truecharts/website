@@ -15,7 +15,7 @@ Jellyseerr is a fork of Overseerr with support for Jellyfin and Emby. It can be 
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./how-to)
+- [**Setup Guide**](./how-to)
 
 ## Readme Content
 

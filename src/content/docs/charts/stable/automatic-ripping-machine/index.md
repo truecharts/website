@@ -16,7 +16,7 @@ Automatic Ripping Machine (ARM) Scripts.
 
 - [**Changelog**](./changelog)
 - [**Default Credentials**](./default_credentials)
-- [****](./installation_notes)
+- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

@@ -15,7 +15,7 @@ NextPVR is a personal video recorder application, with the goal making it easy t
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./credentials)
+- [**Default Username/Password**](./credentials)
 
 ## Readme Content
 

@@ -16,7 +16,7 @@ A fork of Sonarr to work with movies à la Couchpotato
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./installation)
+- [**Installation Guide**](./installation)
 
 ## Readme Content
 

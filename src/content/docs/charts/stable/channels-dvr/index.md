@@ -14,7 +14,7 @@ Channels DVR Server
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./installation_notes)
+- [**Channels DVR Installation Notes**](./installation_notes)
 
 ## Readme Content
 

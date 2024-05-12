@@ -15,7 +15,7 @@ Lightweight multiplexer/proxy for Minecraft-Java servers.
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./validation)
+- [**Input Validation**](./validation)
 
 ## Readme Content
 

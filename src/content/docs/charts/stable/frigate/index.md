@@ -15,7 +15,7 @@ NVR With Realtime Object Detection for IP Cameras
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./installation-instructions)
+- [**Installation instructions**](./installation-instructions)
 
 ## Readme Content
 

@@ -17,7 +17,7 @@ Lightweight ldap server for authentication and user management
 - [**Changelog**](./changelog)
 - [**Authelia + LLDAP + Traefik ForwardAuth Setup guide**](./authelia-lldap-forwardauth)
 - [**Authelia Setup**](./authelia)
-- [****](./installation-notes)
+- [**Installation notes**](./installation-notes)
 
 ## Readme Content
 

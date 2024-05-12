@@ -22,8 +22,8 @@ A private cloud server that puts the control and security of your own data back 
 
 - [**Changelog**](./changelog)
 - [**Nextcloud Backup, Restore and Migration Guide**](./backup-restore-migrate-guide)
-- [****](./changingpassword)
-- [****](./installation-notes)
+- [**Changing Database Password**](./changingpassword)
+- [**Installation Notes**](./installation-notes)
 - [**NextCloud Support Policy**](./support)
 
 ## Readme Content

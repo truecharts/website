@@ -15,7 +15,7 @@ A highly customizable homepage
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./hp-integration)
+- [**Homepage TrueCharts Integration Guide**](./hp-integration)
 
 ## Readme Content
 

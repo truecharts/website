@@ -16,7 +16,7 @@ Ubiquiti Network's Unifi Controller
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./how-to)
+- [**How-To**](./how-to)
 
 ## Readme Content
 

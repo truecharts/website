@@ -16,7 +16,7 @@ Open source alternative front-end to YouTube.
 ## Available Documentation
 
 - [**Changelog**](./changelog)
-- [****](./validation)
+- [**Input Validation**](./validation)
 
 ## Readme Content
 
