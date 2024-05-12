@@ -1,5 +1,4 @@
 ---
-title: homepage
 ---
 
 ![Version: 8.0.5](https://img.shields.io/badge/Version-8.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.8.13](https://img.shields.io/badge/AppVersion-0.8.13-informational?style=flat-square)
@@ -14,8 +13,6 @@ A highly customizable homepage
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**Homepage TrueCharts Integration Guide**](./hp-integration)
 
 ## Readme Content
 

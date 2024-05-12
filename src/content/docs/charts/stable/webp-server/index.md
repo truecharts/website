@@ -1,5 +1,4 @@
 ---
-title: webp-server
 ---
 
 ![Version: 6.0.4](https://img.shields.io/badge/Version-6.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -14,7 +13,6 @@ This is a Server based on Golang, which allows you to serve WebP images on the f
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: mstream
 ---
 
 ![Version: 11.1.2](https://img.shields.io/badge/Version-11.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.12.2](https://img.shields.io/badge/AppVersion-5.12.2-informational?style=flat-square)
@@ -15,7 +14,6 @@ A personal music streaming server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

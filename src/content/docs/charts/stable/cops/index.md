@@ -1,11 +1,9 @@
 ---
-title: cops
 ---
 
 ![Version: 9.1.0](https://img.shields.io/badge/Version-9.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.6.1](https://img.shields.io/badge/AppVersion-2.6.1-informational?style=flat-square)
 
 Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien Lucas, stands for Calibre OPDS (and HTML) Php Server.
-
 
 ## Chart Sources
 
@@ -16,7 +14,6 @@ Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien Lucas, 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

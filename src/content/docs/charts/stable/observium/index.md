@@ -1,5 +1,4 @@
 ---
-title: observium
 ---
 
 ![Version: 8.1.0](https://img.shields.io/badge/Version-8.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 20240305.0.0](https://img.shields.io/badge/AppVersion-20240305.0.0-informational?style=flat-square)
@@ -15,7 +14,6 @@ Observium is an autodiscovering network monitoring platform supporting a wide ra
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

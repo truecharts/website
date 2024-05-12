@@ -1,5 +1,4 @@
 ---
-title: tvhproxy
 ---
 
 ![Version: 6.0.4](https://img.shields.io/badge/Version-6.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,7 +12,6 @@ TvhProxy is a small flask app to proxy requests between Plex Media Server and Tv
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

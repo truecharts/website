@@ -1,5 +1,4 @@
 ---
-title: palworld
 ---
 
 ![Version: 3.0.5](https://img.shields.io/badge/Version-3.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: palworld](https://img.shields.io/badge/AppVersion-palworld-informational?style=flat-square)
@@ -15,10 +14,6 @@ A custom SteamCMD chart that runs Palworld.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**PalWorld Installation Notes**](./installation_notes)
-- [**PalWorld RCON Notes**](./rcon_notes)
-- [**Input Validation**](./validation)
 
 ## Readme Content
 

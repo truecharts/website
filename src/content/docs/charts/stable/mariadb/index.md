@@ -1,5 +1,4 @@
 ---
-title: mariadb
 ---
 
 ![Version: 14.0.6](https://img.shields.io/badge/Version-14.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 11.3.2](https://img.shields.io/badge/AppVersion-11.3.2-informational?style=flat-square)
@@ -16,7 +15,6 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

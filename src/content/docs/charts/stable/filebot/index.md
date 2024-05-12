@@ -1,5 +1,4 @@
 ---
-title: filebot
 ---
 
 ![Version: 10.1.0](https://img.shields.io/badge/Version-10.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.05.1](https://img.shields.io/badge/AppVersion-24.05.1-informational?style=flat-square)
@@ -14,8 +13,6 @@ FileBot is the ultimate tool for organizing and renaming your movies, tv shows o
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

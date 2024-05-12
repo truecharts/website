@@ -1,5 +1,4 @@
 ---
-title: cloudflareddns
 ---
 
 ![Version: 10.0.6](https://img.shields.io/badge/Version-10.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -15,9 +14,6 @@ Automate Cloudflare DNS records for those with a dynamic IP.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**How-To**](./setup-guide)
-- [**Input Validation**](./validation)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: it-tools
 ---
 
 ![Version: 6.0.0](https://img.shields.io/badge/Version-6.0.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.5.10](https://img.shields.io/badge/AppVersion-2024.5.10-informational?style=flat-square)
@@ -14,7 +13,6 @@ Useful tools for developer and people working in IT.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

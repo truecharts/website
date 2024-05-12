@@ -1,5 +1,4 @@
 ---
-title: double-take
 ---
 
 ![Version: 11.0.5](https://img.shields.io/badge/Version-11.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.13.11](https://img.shields.io/badge/AppVersion-1.13.11-informational?style=flat-square)
@@ -14,7 +13,6 @@ Unified UI and API for processing and training images for facial recognition
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

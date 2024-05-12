@@ -1,5 +1,4 @@
 ---
-title: arma3exilemod
 ---
 
 ![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: arma3exilemod](https://img.shields.io/badge/AppVersion-arma3exilemod-informational?style=flat-square)
@@ -13,7 +12,6 @@ This Chart will download and install SteamCMD. It will also install ArmA III inc
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

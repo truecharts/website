@@ -1,5 +1,4 @@
 ---
-title: plextraktsync
 ---
 
 ![Version: 8.1.4](https://img.shields.io/badge/Version-8.1.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.30.6](https://img.shields.io/badge/AppVersion-0.30.6-informational?style=flat-square)
@@ -14,7 +13,6 @@ Two-way-sync between trakt.tv and Plex Media Server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

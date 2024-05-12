@@ -1,5 +1,4 @@
 ---
-title: embystat
 ---
 
 ![Version: 10.0.5](https://img.shields.io/badge/Version-10.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.2.0](https://img.shields.io/badge/AppVersion-0.2.0-informational?style=flat-square)
@@ -13,7 +12,6 @@ Embystat is a personal web server that can calculate all kinds of statistics fro
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

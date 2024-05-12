@@ -1,5 +1,4 @@
 ---
-title: mysql-workbench
 ---
 
 ![Version: 10.0.7](https://img.shields.io/badge/Version-10.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 8.0.36](https://img.shields.io/badge/AppVersion-8.0.36-informational?style=flat-square)
@@ -13,7 +12,6 @@ MySQL Workbench is a unified visual tool for database architects, developers and
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

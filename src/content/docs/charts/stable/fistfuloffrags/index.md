@@ -1,5 +1,4 @@
 ---
-title: fistfuloffrags
 ---
 
 ![Version: 6.0.4](https://img.shields.io/badge/Version-6.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: fistfuloffrags](https://img.shields.io/badge/AppVersion-fistfuloffrags-informational?style=flat-square)
@@ -14,7 +13,6 @@ This Chart will download and install SteamCMD. It will also install Fistful of F
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

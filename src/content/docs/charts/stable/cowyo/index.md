@@ -1,5 +1,4 @@
 ---
-title: cowyo
 ---
 
 ![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -14,7 +13,6 @@ cowyo is a self-contained wiki server that makes jotting notes easy and fast. Th
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: airdcpp-webclient
 ---
 
 ![Version: 11.0.5](https://img.shields.io/badge/Version-11.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.12.1](https://img.shields.io/badge/AppVersion-2.12.1-informational?style=flat-square)
@@ -15,7 +14,6 @@ AirDC++ Web Client is a locally installed application, which is designed for fle
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

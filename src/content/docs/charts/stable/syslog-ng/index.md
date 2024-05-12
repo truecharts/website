@@ -1,5 +1,4 @@
 ---
-title: syslog-ng
 ---
 
 ![Version: 10.0.4](https://img.shields.io/badge/Version-10.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.7.1](https://img.shields.io/badge/AppVersion-4.7.1-informational?style=flat-square)
@@ -13,7 +12,6 @@ syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

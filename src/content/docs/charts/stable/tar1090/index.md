@@ -1,5 +1,4 @@
 ---
-title: tar1090
 ---
 
 ![Version: 6.0.11](https://img.shields.io/badge/Version-6.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -13,7 +12,6 @@ Multi-arch tar1090 Chart for visualising ADSB data.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

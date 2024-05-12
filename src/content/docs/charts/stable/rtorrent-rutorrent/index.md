@@ -1,5 +1,4 @@
 ---
-title: rtorrent-rutorrent
 ---
 
 ![Version: 5.0.4](https://img.shields.io/badge/Version-5.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.2.9](https://img.shields.io/badge/AppVersion-4.2.9-informational?style=flat-square)
@@ -16,7 +15,6 @@ rTorrent and ruTorrent chart.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: davos
 ---
 
 ![Version: 13.0.7](https://img.shields.io/badge/Version-13.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.2.2](https://img.shields.io/badge/AppVersion-2.2.2-informational?style=flat-square)
@@ -15,7 +14,6 @@ An FTP automation tool that periodically scans given host locations for new file
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

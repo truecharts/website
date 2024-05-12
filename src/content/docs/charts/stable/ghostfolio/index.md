@@ -1,5 +1,4 @@
 ---
-title: ghostfolio
 ---
 
 ![Version: 5.4.0](https://img.shields.io/badge/Version-5.4.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.81.0](https://img.shields.io/badge/AppVersion-2.81.0-informational?style=flat-square)
@@ -15,7 +14,6 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

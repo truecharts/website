@@ -1,5 +1,4 @@
 ---
-title: deconz
 ---
 
 ![Version: 16.0.5](https://img.shields.io/badge/Version-16.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.26.3](https://img.shields.io/badge/AppVersion-2.26.3-informational?style=flat-square)
@@ -15,7 +14,6 @@ deCONZ is an easy to use control software, with which you can set up and control
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: tt-rss
 ---
 
 ![Version: 17.0.7](https://img.shields.io/badge/Version-17.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -15,8 +14,6 @@ Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader an
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**TT-RSS Installation Notes**](./installation_notes)
 
 ## Readme Content
 

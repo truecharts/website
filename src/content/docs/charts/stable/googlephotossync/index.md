@@ -1,5 +1,4 @@
 ---
-title: googlephotossync
 ---
 
 ![Version: 7.0.4](https://img.shields.io/badge/Version-7.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 3.2.1](https://img.shields.io/badge/AppVersion-3.2.1-informational?style=flat-square)
@@ -13,7 +12,6 @@ Google Photos Sync downloads your Google Photos to the local file system. It wil
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

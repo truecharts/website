@@ -1,5 +1,4 @@
 ---
-title: lidarr
 ---
 
 ![Version: 22.1.0](https://img.shields.io/badge/Version-22.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.3.2.4183](https://img.shields.io/badge/AppVersion-2.3.2.4183-informational?style=flat-square)
@@ -15,7 +14,6 @@ Looks and smells like Sonarr but made for music
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

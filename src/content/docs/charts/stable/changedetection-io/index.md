@@ -1,5 +1,4 @@
 ---
-title: changedetection-io
 ---
 
 ![Version: 3.0.6](https://img.shields.io/badge/Version-3.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.45.22](https://img.shields.io/badge/AppVersion-0.45.22-informational?style=flat-square)
@@ -15,7 +14,6 @@ The best and simplest free open source website change detection, website watcher
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

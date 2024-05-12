@@ -1,5 +1,4 @@
 ---
-title: rdesktop
 ---
 
 ![Version: 9.0.45](https://img.shields.io/badge/Version-9.0.45-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
@@ -15,8 +14,6 @@ Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**Default credentials**](./credentials)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: traefik
 ---
 
 ![Version: 27.0.9](https://img.shields.io/badge/Version-27.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.11.2](https://img.shields.io/badge/AppVersion-2.11.2-informational?style=flat-square)
@@ -16,13 +15,6 @@ Traefik is a flexible reverse proxy and Ingress Provider.
 
 ## Available Documentation
 
-- [**Authelia + LLDAP + Traefik ForwardAuth Setup guide**](./authelia-lldap-forwardauth)
-- [**Changelog**](./changelog)
-- [**Adding or Removing Headers**](./custom-header-middlewares)
-- [**Installing Traefik**](./how-to)
-- [**Redirect Regex**](./redirect-regex-middleware)
-- [**Theme Park**](./theme-park-middleware)
-- [**Add Traefik Basic Auth to Apps**](./traefik-basicauth-middleware)
 
 ## Readme Content
 

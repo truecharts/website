@@ -1,5 +1,4 @@
 ---
-title: readarr
 ---
 
 ![Version: 22.0.6](https://img.shields.io/badge/Version-22.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.3.26.2526](https://img.shields.io/badge/AppVersion-0.3.26.2526-informational?style=flat-square)
@@ -16,7 +15,6 @@ A fork of Radarr to work with Books & AudioBooks
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

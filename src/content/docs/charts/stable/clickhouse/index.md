@@ -1,5 +1,4 @@
 ---
-title: clickhouse
 ---
 
 ![Version: 13.1.0](https://img.shields.io/badge/Version-13.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.4.1.2088](https://img.shields.io/badge/AppVersion-24.4.1.2088-informational?style=flat-square)
@@ -14,7 +13,6 @@ ClickHouse is a column-oriented database management system (DBMS) for online ana
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: timetagger
 ---
 
 ![Version: 7.0.5](https://img.shields.io/badge/Version-7.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.4.1](https://img.shields.io/badge/AppVersion-24.4.1-informational?style=flat-square)
@@ -15,8 +14,6 @@ An open source time-tracker with an interactive user experience and powerful rep
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**Credential Generation Basic Auth**](./install)
 
 ## Readme Content
 

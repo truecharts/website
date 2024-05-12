@@ -1,5 +1,4 @@
 ---
-title: mkvcleaver
 ---
 
 ![Version: 10.0.5](https://img.shields.io/badge/Version-10.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.02.1](https://img.shields.io/badge/AppVersion-24.02.1-informational?style=flat-square)
@@ -14,8 +13,6 @@ MKVCleaver is a tool for batch extraction of data from MKV files
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**Installation Notes**](./installation_notes)
 
 ## Readme Content
 

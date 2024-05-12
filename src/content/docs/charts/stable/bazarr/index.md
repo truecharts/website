@@ -1,5 +1,4 @@
 ---
-title: bazarr
 ---
 
 ![Version: 20.0.6](https://img.shields.io/badge/Version-20.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.4.2](https://img.shields.io/badge/AppVersion-1.4.2-informational?style=flat-square)
@@ -15,7 +14,6 @@ Bazarr is a companion application to Sonarr and Radarr. It manages and downloads
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

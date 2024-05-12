@@ -1,5 +1,4 @@
 ---
-title: esphome
 ---
 
 ![Version: 20.0.6](https://img.shields.io/badge/Version-20.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2024.4.2](https://img.shields.io/badge/AppVersion-2024.4.2-informational?style=flat-square)
@@ -14,7 +13,6 @@ ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configu
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: prometheus
 ---
 
 ![Version: 18.2.1](https://img.shields.io/badge/Version-18.2.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.52.0](https://img.shields.io/badge/AppVersion-2.52.0-informational?style=flat-square)
@@ -17,7 +16,6 @@ kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Pro
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

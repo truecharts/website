@@ -1,5 +1,4 @@
 ---
-title: maintainerr
 ---
 
 ![Version: 3.0.5](https://img.shields.io/badge/Version-3.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.3](https://img.shields.io/badge/AppVersion-2.0.3-informational?style=flat-square)
@@ -14,7 +13,6 @@ Looks and smells like Overseerr, does the opposite. Maintenance tool for the Ple
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

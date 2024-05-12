@@ -1,5 +1,4 @@
 ---
-title: grafana
 ---
 
 ![Version: 15.0.5](https://img.shields.io/badge/Version-15.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 10.4.2](https://img.shields.io/badge/AppVersion-10.4.2-informational?style=flat-square)
@@ -16,7 +15,6 @@ Grafana is an open source, feature rich metrics dashboard and graph editor for G
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

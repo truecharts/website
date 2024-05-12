@@ -1,5 +1,4 @@
 ---
-title: fireshare
 ---
 
 ![Version: 7.0.5](https://img.shields.io/badge/Version-7.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.2.20](https://img.shields.io/badge/AppVersion-1.2.20-informational?style=flat-square)
@@ -14,7 +13,6 @@ Share your game clips, videos, or other media via unique links.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

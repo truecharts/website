@@ -1,5 +1,4 @@
 ---
-title: halflife2deathmatch
 ---
 
 ![Version: 6.0.4](https://img.shields.io/badge/Version-6.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: hl2dm](https://img.shields.io/badge/AppVersion-hl2dm-informational?style=flat-square)
@@ -14,7 +13,6 @@ This Chart will download and install SteamCMD. It will also install HalfLife2 De
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

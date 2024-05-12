@@ -1,5 +1,4 @@
 ---
-title: plex
 ---
 
 ![Version: 18.0.7](https://img.shields.io/badge/Version-18.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.40.2.8395](https://img.shields.io/badge/AppVersion-1.40.2.8395-informational?style=flat-square)
@@ -14,10 +13,6 @@ Plex Media Server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**Plex Installation Notes**](./installation_notes)
-- [**Community Migration Guide**](./migration_guide)
-- [**Input Validation**](./validation)
 
 ## Readme Content
 

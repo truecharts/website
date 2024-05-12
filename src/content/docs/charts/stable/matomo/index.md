@@ -1,5 +1,4 @@
 ---
-title: matomo
 ---
 
 ![Version: 14.1.1](https://img.shields.io/badge/Version-14.1.1-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 5.0.3](https://img.shields.io/badge/AppVersion-5.0.3-informational?style=flat-square)
@@ -15,7 +14,6 @@ Matomo is the leading Free/Libre open analytics platform
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -1,5 +1,4 @@
 ---
-title: authelia
 ---
 
 ![Version: 24.1.0](https://img.shields.io/badge/Version-24.1.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 4.38.8](https://img.shields.io/badge/AppVersion-4.38.8-informational?style=flat-square)
@@ -15,10 +14,6 @@ Authelia is a Single Sign-On Multi-Factor portal for web apps
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
-- [**Authelia + LLDAP + Traefik ForwardAuth Setup guide**](./setup-guide)
-- [**Authelia Rules**](./authelia-rules)
-- [**Input Validation**](./validation)
 
 ## Readme Content
 

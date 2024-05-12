@@ -1,5 +1,4 @@
 ---
-title: unpoller
 ---
 
 ![Version: 11.0.4](https://img.shields.io/badge/Version-11.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.11.2](https://img.shields.io/badge/AppVersion-2.11.2-informational?style=flat-square)
@@ -14,7 +13,6 @@ Collect your UniFi controller data and report it to an InfluxDB instance, or exp
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 
