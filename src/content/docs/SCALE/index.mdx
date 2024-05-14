@@ -48,9 +48,18 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 
 ## Minimal Getting Started Setup with SCALE
 
-- Complete the above requirements
-- Add catalog with the following trains: `stable`, `premium`, `system` -> [Adding TrueCharts](/scale/#adding-truecharts)
-- Install the following apps from the `system` train with default settings: `OpenEBS` `Prometheus Operator` `Cloudnative-PG Operator` and `Cert-Manager`
+- Ensure you have completed the above requirements
+- Add the TrueCharts catalog with the following trains: `stable`, `premium`, `system` -> [Adding TrueCharts](/scale/#adding-truecharts) selected
+- Install the following apps from the `system` train with **default** settings: `OpenEBS`, `Prometheus Operator` and `Cert-Manager`
+
+Optionally, you can also install the below apps if you want functionality that they provide:
+
+- Install `Cloudnative-PG Operator` if you plan to use any [apps that rely on CNPG functionality](/general/faq#how-do-i-know-if-an-app-uses-cnpg)
+- Install `VolumeSnapshots` and `VolSync` **after* doing the above steps if you want [backup and restore functionality](/scale/guides/backup-restore) made available for your apps' PVCs
+- Install `MetalLB` if you're an advanced user or want to assign specific IP addresses to your SCALE apps. See [here](/scale/#metallb-installation-and-disabling-integrated-loadbalancer)
+- Install `Traefik` if you want [ingress or reverse-proxy](/scale/#traefik-installation-for-ingress--reverse-proxy-support-with-truecharts-apps) support with our apps
+- Install `Authelia` if you want to add a [single-sign-on or multi-factor-authentication portal](/scale/authelia-installation) to your apps through integration with `Traefik`
+- Install `Blocky` if you want to take advantage of our [preferred DNS solution](/scale/#blocky-dns-provider-for-split-dns-installation-and-guide) to allow for DNS proxy, enhancer and ad-blocking functions with your apps.
 
 ## Adding TrueCharts
 
@@ -133,7 +142,7 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 ![OpenEBS Icon](./guides/img/icons/openebs.png)
 
-As outlined [here](/scale/migrations/cobia-dragonfish), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
+As outlined [here](/scale/migrations/cobia-dragonfish/#important-changes), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
 
 <Steps>
 
@@ -189,7 +198,7 @@ For new users just starting out with TrueNAS SCALE, simply **first** install `Pr
 
 ![Traefik](./guides/img/icons/traefik.png)
 
-`Traefik`, our `ingress` or `reverse-proxy` solution of choice, is integrated into all our apps in order to make it as easy as possible to secure your Apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](/charts/premium/traefik/how-to) for basic instructions and a video as well.
+`Traefik` is our "ingress" or "reverse-proxy" solution of choice and is integrated into all our apps in order to make it as easy as possible to secure your apps. To support this, we supply a separate Traefik "ingress" app, which has been pre-configured to provide secure and fast connections. Please check the `Traefik` [How-To](/charts/premium/traefik/how-to) for basic instructions and a video as well.
 
 An optional but extra function enabled by Traefik and supported by many Truecharts Community Catalog apps like `Nextcloud`, is the ability to use a `middleware` to use your apps remotely. You can setup a basicAuth middleware using our guide [Add Traefik Basic Auth to Apps](/charts/premium/traefik/traefik-basicauth-middleware/).
 
