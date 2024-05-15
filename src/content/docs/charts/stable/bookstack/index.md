@@ -2,7 +2,7 @@
 title: bookstack
 ---
 
-![Version: 14.2.2](https://img.shields.io/badge/Version-14.2.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.05.20240513](https://img.shields.io/badge/AppVersion-24.05.20240513-informational?style=flat-square)
+![Version: 14.2.3](https://img.shields.io/badge/Version-14.2.3-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 24.05.20240513](https://img.shields.io/badge/AppVersion-24.05.20240513-informational?style=flat-square)
 
 A simple, self-hosted, easy-to-use platform for organising and storing information.
 
