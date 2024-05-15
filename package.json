@@ -18,7 +18,7 @@
     "@astrojs/starlight-tailwind": "2.0.2",
     "@astrojs/tailwind": "5.1.0",
     "@playform/compress": "0.0.4",
-    "astro": "4.8.3",
+    "astro": "4.8.4",
     "astro-better-image-service": "1.0.19",
     "astro-integration-lottie": "0.2.3",
     "astro-robots-txt": "1.0.0",
