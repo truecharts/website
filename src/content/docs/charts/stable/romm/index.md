@@ -10,7 +10,7 @@ game library manager focused in retro gaming
 
 - https://github.com/zurdi15/romm
 - https://github.com/truecharts/charts/tree/master/charts/stable/romm
-- https://ghcr.io/zurdi15/romm
+- https://ghcr.io/rommapp/romm
 
 ## Available Documentation
 
