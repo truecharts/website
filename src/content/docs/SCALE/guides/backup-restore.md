@@ -11,6 +11,11 @@ We're also making it known that the old guide will not work on TrueNAS SCALE 24.
 
 :::
 
+:::caution[Best Effort Policy]
+
+This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.
+
+:::
 
 ## Requirements
 
