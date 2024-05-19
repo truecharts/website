@@ -22,9 +22,21 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 | Alpha/BETA/RC      | `master` | ✅                    | ❌                        | ✅                   | Please only submit bug reports during code-freeze                                              |
 | Nightly            | `master` | ✅                    | ❌                        | ❌                   |                                                                                                |
 
+:::tip
+
+Set aside time for a maintenance window or simple check-in for your SCALE system every week, month or quarter as this can go a long way to helping prevent lengthy amounts of time needing to be spent bringing a SCALE system up to date. Tools such as [HeavyScript](/scale/#heavyscript) can be used to automate app updates to varying degrees, leaving required maintenance only needing to be done on SCALE itself. SCALE *usually* has two major version releases each year, so at a minimum ensuring you're prepared for those will help.
+
+:::
+
 ## Project Scope
 
-For more info on what to expect from TrueCharts Apps, be sure to also read the [Project Scope documentation](/general/scope)
+For more info on what to expect from TrueCharts Apps, be sure to also read the [Project Scope documentation](/general/scope).
+
+:::caution[Support Guidelines]
+
+Our [Discord](/s/discord) support (the ticketing system inside #support) is primarily limited to what is covered by our written guides. This includes installing, linking and editing apps. This doesn't mean the actual setup of the application. All #support tickets covered by the staff are done so on a **best effort** basis.
+
+:::
 
 ## Unsupported Features
 
@@ -78,9 +90,3 @@ The GPU selectors have weirdly worded options, confusing many users and heavily 
 Kubernetes usually handles GPUs itself, the amount entered is just a request of how many GPUs the applications/container wants assigned and Kubernetes can handle the rest.
 
 Instead we offer our own option, where you can enter the number of specific GPUs you want assigned under "Resources" in the "Limits" section
-
-:::caution[Support Guidelines]
-
-Our [Discord](/s/discord) support (the ticketing system inside #support) is primarily limited to what is covered by our written guides. This includes installing, linking and editing apps. This doesn't mean the actual setup of the application. All #support tickets covered by the staff are done so on a **best effort** basis.
-
-:::
