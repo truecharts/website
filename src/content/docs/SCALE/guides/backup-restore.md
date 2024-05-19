@@ -23,17 +23,12 @@ We're also making it known that the old guide will not work on TrueNAS SCALE 24.
 
 ### System Apps
 
-We expect users to have fully followed the SCALE quick-start [guide](/scale) and hence have installed *all* [operators](/scale/#minimal-getting-started-setup-with-scale) from the `system` train as listed there. This includes `VolumeSnapshots` and `VolSync`, the latter of which depends on `Prometheus-Operator` and `VolumeSnapshots`, so ensure you have installed those first prior to installing VolSync.
+We expect users to have fully followed the SCALE quick-start [guide](/scale) and hence have installed *all* [operators](/scale/#minimal-getting-started-setup-with-scale) from the `system` train as listed there. This includes `VolSync`, the latter of which depends on `Prometheus-Operator`, so ensure you have installed this first prior to installing VolSync.
 
-### HeavyScript
-
-This guide makes use of the command-line tool called `HeavyScript` and assumes you're already familiar with creating backups using the BASH HeavyScript functions from the Scale command-line.
-
-Please refer to the GitHub page for [HeavyScript](https://github.com/Heavybullets8/heavy_script) to follow the commands and instructions below.
 
 ### S3 Backup Provider
 
-Our only officially supported system for "offsite" backups is S3(-compatible) storage. Offsite can be either another machine with minio or a S3 Storage provider like [BackBlaze](https://www.backblaze.com/) or [AWS](https://aws.amazon.com/s3/pricing/). Currently our only officially supported backup provider is BackBlaze, but we're looking forward to expanding this list in the future.
+Our only officially supported system for "offsite" backups is S3(-compatible) storage. Offsite can be either another machine with minio or a S3 Storage provider like [BackBlaze](https://www.backblaze.com/) or [AWS](https://aws.amazon.com/s3/pricing/). Currently our only officially supported backup provider is [BackBlaze](https://www.backblaze.com/), but we're looking forward to expanding this list in the future.
 
 
 ## Backup
@@ -51,7 +46,7 @@ To be done. This section will contain information to export your App configurati
 
 PVC data can be easily backed-up to S3 storage by using our integrated `VolSync` support.
 
-For each App, Destination (automatic restore) *must* set on creation of the App by doing the following:
+For each individual App, Destination (automatic restore) *must* set on creation of the App by doing the following:
 
 - Add `VolSync` to each persistence object you want synced
 - Add the name you gave to the S3 credentials under the `credentials` section of VolumeSnapshots
@@ -109,13 +104,3 @@ When on a completely new system, you can easily restore using the above steps wi
 ## Video Guide
 
 TBD
-
-## Developer Notes
-
-### PVC mountpoints on Replication
-
-In some/all cases, PVC mountpoints are not correctly set to `legacy` after replication. To fix this issue manually, run:
-
-```bash
-zfs set mountpoint=legacy "$(zfs list -t filesystem -r "$(cli -c 'app kubernetes config' | grep -E "pool\s\|" | awk -F '|' '{print $3}' | tr -d " \t\n\r")" -o name -H | grep "volumes/pvc")"
-```
