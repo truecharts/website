@@ -14,7 +14,7 @@ This guide has been tested with TrueNAS SCALE Bluefin 22.12.4.2, Cobia 23.10, CN
 ## Symptoms
 
 If you have rebooted and your Apps are hanging on _DEPLOYING_, check if you see pods in state _Completed_ or _TaintToleration_ and the apps main pod in state _Init_ with the
-command `k3s kubectl get all -n ix-<app-name> `.
+command `k3s kubectl get all -n ix-<app-name>`.
 
 ```bash
 Examples:
@@ -49,34 +49,35 @@ home-assistant-cnpg-main-rw:5432 - no response
 
 To recover your app, you need to first stop it ([do not click the _Stop_ button!](/general/faq#how-do-i-stop-a-truecharts-app-truenas-scale-only)), delete the hanging pods and then restart the app.
 
-1. Stop the app either by checking "Stop All" in the app settings or with HeavyScript.
+1. Stop the app either by checking "Stop All" in the app settings or with HeavyScript via the SCALE GUI Shell as below
 
 ```bash
 heavyscript app --stop <app-name>`
 ```
 
 2. Wait 2-3min
-3. Delete any still hanging pods with
+
+3. Delete any still hanging pods with the below command
 
 ```bash
 k3s kubectl delete pods -n ix-<app-name> <pod name>`
 e.g. k3s kubectl delete pods -n ix-home-assistant home-assistant-85865456d5-tc8h4
 ```
 
-4. Start the app either by unchecking "Stop All" in the app settings or with HeavyScript
+4. Start the app either by unchecking "Stop All" in the app settings or with HeavyScript as below
 
 ```bash
 heavyscript app --start <app-name>
 ```
 
-5. If you unchecked "Stop All" you might have to click the Start Button on the GUI (Start is safe, Stop is NOT).
-   There also might be a task that gets stuck in TrueNAS under Jobs (top right). You can get rid of those by restarting TrueNAS GUI with
+5. If you unchecked "Stop All" you might have to click the `Start` button on the GUI (Start is safe, Stop is NOT). There also might be a task that gets stuck in TrueNAS under Jobs (top right). You can get rid of those by restarting the TrueNAS GUI with the below command
 
 ```bash
 systemctl restart middlewared
 ```
 
-6. Wait 2-3min
+6. Wait 2-3 minutes
+
 7. Check that the app and all of its pods are running. In the third paragraph there should be no _deployment.apps_ with 0 _AVAILABLE_
 
 ```bash
