@@ -2,7 +2,7 @@
 title: twonky-server
 ---
 
-![Version: 6.0.7](https://img.shields.io/badge/Version-6.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 6.0.8](https://img.shields.io/badge/Version-6.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 TwonkyMedia server (TMS) is DLNA-compliant UPnP AV server software from PacketVideo. TwonkyMedia server can be used to share and stream media to most UPnP AV or DLNA-compliant clients, in addition to non-UPnP devices through the HTML, RSS, and JSON supported front ends.
 
