@@ -4,13 +4,6 @@ sidebar:
   order: 15
 ---
 
-:::caution[Best Effort Policy]
-
-This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.
-This guide has been thoroughly tested with TrueNAS SCALE 22.12.0
-
-:::
-
 :::caution[WIP]
 
 We're completely reworking the way we handle backups, moving away from platform-specific solutions to a "one size fits everyone" system using VolSync and CNPG backups.
@@ -18,6 +11,11 @@ We're also making it known that the old guide will not work on TrueNAS SCALE 24.
 
 :::
 
+:::caution[Best Effort Policy]
+
+This guide has been written with the best efforts of the staff and tested as best possible. We are not responsible if it doesn't work for every scenario or user situation.
+
+:::
 
 ## Requirements
 
@@ -28,15 +26,65 @@ We expect users to have fully followed the SCALE quick-start [guide](/scale) and
 
 ### S3 Backup Provider
 
-Our only officially supported system for "offsite" backups is S3(-compatible) storage. Offsite can be either another machine with minio or a S3 Storage provider like [BackBlaze](https://www.backblaze.com/) or [AWS](https://aws.amazon.com/s3/pricing/). Currently our only officially supported backup provider is [BackBlaze](https://www.backblaze.com/), but we're looking forward to expanding this list in the future.
-
+Our only officially supported system for "offsite" backups is S3(-compatible) storage. Offsite can be either another machine with minio or a S3 Storage provider like [BackBlaze](https://www.backblaze.com/) or [AWS](https://aws.amazon.com/s3/pricing/). Currently our only officially supported backup providers are [Cloudflare](https://www.cloudflare.com/de-de/developer-platform/r2/) and [BackBlaze](https://www.backblaze.com/), but we're looking forward to expanding this list in the future.
+Both Cloudflare and BackBlaze provide a free plan with 10GB of storage included.
 
 ## Backup
 
+### Obtaining S3 credentials
+
+#### Cloudflare
+
+- Login into your cloudflare account and go to the R2 section seen below:
+  ![S3 Cloudflare 1](./img/s3_cloudflare_1.png)
+- You might need to agree to the Terms for the R2 Storage
+- Click on "Manage R2 API Token" as highlighted in the picture below.
+  ![S3 Cloudflare 2](./img/s3_cloudflare_2.png)
+
+- Click on "Create API token" in the top right corner. Name it to your liking.
+- Give "Admin Read & Write" Permissions and click on "Create API token" in the bottom right
+- It now shows you an screenshot with your S3 Credentials like this:
+![S3 Cloudflare 3](./img/s3_cloudflare_3.png)
+
+:::caution[Credentials]
+
+Note down your Credentials as they are only shown once!
+
+:::
+
+##### Cloudflare Credentials assignment for Scale
+- Access Key ID -> accessKey
+- Secret Access Key -> secretKey
+- endpoint, default -> url
+
+#### Backblaze 
+- Create new Application Key:
+  ![S3 Backblaze 1](./img/s3_backblaze_1.png)
+- Allow access to all buckets aswell as "Read and Write Access" and give it a meaningful name.
+![S3 Backblaze 2](./img/s3_backblaze_2.png)
+- Note down the shown credentials
+  ![S3 Backblaze 3](./img/s3_backblaze_3.png)
+:::caution[Credentials]
+
+Note down your Credentials as they are only shown once!
+
+:::
+
+##### Backblate Credentials assignment for Scale
+- keyID -> accessKey
+- applicationKey -> secretKey 
+
+
 ### General Configuration Steps
 
-- Enter your S3 credentials under `credentials`
-- TBA
+:::caution[Credentials]
+
+Do not add the credentials inside the VolSync Chart. This wont work and they need to be added to each chart individually.
+
+:::
+
+- Enter your S3 credentials under `credentials` in each app you want to backup/restore.
+  ![S3 Credentials](./img/s3_scale_credentials.png)
 
 ### Exporting App Configuration
 
@@ -48,7 +96,8 @@ PVC data can be easily backed-up to S3 storage by using our integrated `VolSync`
 
 For each individual App, Destination (automatic restore) *must* set on creation of the App by doing the following:
 
-- Add `VolSync` to each persistence object you want synced
+- Add `VolSync` to each persistence object you want synced. Like this
+  ![S3 Scale VolSync ](./img/s3_scale_pvc_backup.png)
 - Add the name you gave to the S3 credentials under the `credentials` section of VolumeSnapshots
 - Enable `source` (backup) and/or `destination` (automatic restore)
 - Confirm the data is being sent to your S3 host after ~5 minutes
@@ -61,10 +110,11 @@ CNPG-backed PostgreSQL databases have their own S3 Backup system. We have integr
 
 For each App:
 
-- Add CNPG backups to each database you want backed up
+- Add CNPG backups to each database you want backed up like shown below.
 - Add the name you gave to the S3 credentials under the `credentials` section
 - Confirm the data is being sent to your S3 host after ~5 minutes
 - We advise you to set the "mode" to `restore`, this at should prevent the app starting with an empty database on restore.
+  ![S3 Scale CNPG ](./img/s3_scale_cnpg_backup.png)
 
 ## Restore
 
