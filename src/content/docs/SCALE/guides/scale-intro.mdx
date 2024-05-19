@@ -6,8 +6,7 @@ sidebar:
 
 ## IMPORTANT: Must Read!
 
-All guides under this section are made for TrueNAS SCALE.
-We do **NOT** control anything made by iX-Systems, no matter how great or shitty it is. More specifically, we have no control **AT ALL** over the following:
+All guides under this section are made for TrueNAS SCALE. We do **NOT** control anything made by iX-Systems, no matter how good or bad it is. More specifically, we have no control **AT ALL** over the following:
 
 - Adding/Creating certificates
 - Backup functions
@@ -30,39 +29,57 @@ Once you've [added the TrueCharts Catalog](/scale/#minimal-getting-started-setup
 
 ### Requirements
 
-- Your SCALE Apps has the [TrueCharts catalog](/scale#adding-truecharts) added and meets the minimum system requirements mentioned above
-- You have a working Internet connection and can reach GitHub and truecharts.org from the host system
-- If you plan to add additional app storage to your app, review important information about [app storage and host path validation](/scale/guides/add-storage).
+See here our SCALE Getting Started [guide](/scale#requirements).
+
+:::tip[Additional App Storage]
+
+If you plan to add additional app storage to your app, review important information about [app storage and host path validation](/scale/guides/add-storage).
+
+:::
 
 ### Adding the App
 
 To add a new TrueCharts app to your SCALE installation:
 
-1. Click **Apps** from the SCALE menu
+import { Steps } from "@astrojs/starlight/components";
 
-![Apps](./img/Apps.png)
+<Steps>
 
-2. Go to **Discover Apps** at the top-right of the Apps page
+1.  Click **Apps** from the SCALE menu
 
-![Discover Apps](./img/Apps2.png)
+        ![Apps](./img/Apps.png)
 
-3. Find the app you wish to install using the search bar (or by scrolling through the catalog), e.g. Homarr, and click the **Install** button.
+2.  Go to **Discover Apps** at the top-right of the Apps page
 
-![Adding App](./img/Apps6.png)
+        ![Discover Apps](./img/Apps2.png)
 
-4. Configure your app for each section depending on your desired settings out the necessary information to configure your app for each section and click **Next**.
-   **Application Name** Configure a custom name for your app and select a version to install.
-   **General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.
-   **Networking & Services:** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
-   **Storage and Persistence:** Configure core app storage and [add additional app storage](/scale/guides/add-storage).
-   **Ingress:** For TrueCharts apps you can configure [Ingress with Traefik](/charts/premium/traefik/how-to) to easily proxy Internet traffic to your app.
-   **Security & Permissions:** Configure PUID, fsGroup, and other security and file permissions for your app.
-   **Other Options:** You can also configure GPU support, addons (such as adding a CodeServer for easy file editing), and advanced app settings.
-5. Once you've finished configuring your app, click **Install** to start the deployment process.
+3.  Find the app you wish to install using the search bar (or by scrolling through the catalog), e.g Homarr, and click the **Install** button.
 
-![Installing App](./img/Apps7.png)
+        ![Adding App](./img/Apps6.png)
+
+4.  In each section, configure your app depending on your desired settings and click **Next**. See below for example options you can configure.
+
+5.  Once you've finished configuring your app, click **Install** to start the deployment process.
+
+        ![Installing App](./img/Apps7.png)
+
+</Steps>
+
+:::note
 
 Give your app a few minutes to deploy. You can check its status in the SCALE task manager at the top right of your GUI.
+
+:::
+
+### Example App Configuration Options
+
+- **Application Name** Configure a custom name for your app and select a version to install.
+- **General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.
+- **Networking & Services:** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
+- **Storage and Persistence:** Configure core app storage and [add additional app storage](/scale/guides/add-storage).
+- **Ingress:** For TrueCharts apps you can configure [Ingress with Traefik](/charts/premium/traefik/how-to) to easily proxy Internet traffic to your app.
+- **Security & Permissions:** Configure PUID, fsGroup, and other security and file permissions for your app.
+- **Other Options:** You can also configure GPU support, addons (such as adding a CodeServer for easy file editing), and advanced app settings.
 
 ### Video Guide
 
@@ -77,26 +94,25 @@ Give your app a few minutes to deploy. You can check its status in the SCALE tas
 
 ## Editing Apps
 
-Editing Apps is possible since 21.08, although it has a slightly different GUI it exposes the same setting as installing an App.
+Editing Apps has a slightly different GUI however it exposes the same settings as when installing an App.
 
 ### Requirements
 
 - Make sure your storage-pool is created and working
 - Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](/scale)
-- Make sure you have a working internet connection and can reach github and truecharts.org from the host system.
+- Make sure you have a working internet connection and can reach github and truecharts.org from the host system
 - Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/scale#adding-truecharts)
-- Make sure your App is installed and, preferably, working
+- Make sure your App is installed and, preferably, working.
 
 ### Editing the App
 
-- Go to the `Apps` page of the SCALE GUI
-- Select your desired app to edit from the list of installed apps
-- Select the `Edit` button
-- Change any settings you want to change
-- Submit your changes.
+1. Go to the `Apps` page of the SCALE GUI
+2. Select your desired app to edit from the list of installed apps
+3. Select the `Edit` button
+4. Change any settings you want to change
+5. Submit your changes.
 
-The App will then go through a process of submitting your changes. If the process fails, your changes will not be submitted and the edit will be reverted.
-Once the process popup disappears, it might take a few minutes to actually deploy your new changes, due to some things that happen in the background.
+The App will then go through a process of submitting your changes. If the process fails, your changes will not be submitted and the edit will be reverted. Once the process popup disappears, it might take a few minutes to actually re-deploy the app with your new changes due to some things that happen in the background.
 
 ### Video Guide
 
@@ -110,18 +126,17 @@ Once the process popup disappears, it might take a few minutes to actually deplo
 
 ### Upgrading the app using the SCALE GUI
 
-- Go to the `Apps` page of the SCALE GUI
-- Make sure your App reports that an Upgrade is available on the App Card
-- Make note of the current version, you might want to revert to this version in the future
-- Select `Upgrade` or `Update`
-- Confirm you want to upgrade, checking the changelog for any potential issues such as breaking changes.
+1. Go to the `Apps` page of the SCALE GUI
+2. Make sure your App reports that an Upgrade is available on the App Card
+3. Make note of the current version, you might want to revert to this version in the future
+4. Select `Upgrade` or `Update`
+5. Confirm you want to upgrade, checking the changelog for any potential issues such as breaking changes.
 
-The App will then go through a process of backing up(!) and upgrading. If the process fails, your changes will not be submitted and the edit will be reverted.
-After the process popup disappears, it might take a few minutes to actually deploy your newly upgraded app, due to some things that happen in the background.
+The App will then go through a process of backing up(!) and upgrading. If the process fails, your changes will not be submitted and the edit will be reverted. After the process popup disappears, it might take a few minutes to actually re-deploy your newly upgraded app, due to some things that happen in the background.
 
 ### Upgrading the app using HeavyScript
 
-Alternatively, you can also use [HeavyScript](/scale/#heavyscript) to update your apps and even configure it to do so automatically via a CRON job. Examples and instructions are found on the previously linked page and the HeavyScript Github, also linked on that page.
+Alternatively, you can also use [HeavyScript](/scale/#heavyscript) to update your apps and even configure it to do so automatically via a CRON job. Examples and instructions are found on the linked page and the HeavyScript Github, also linked on that page.
 
 ## Rollback an app
 
