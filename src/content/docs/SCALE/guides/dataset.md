@@ -32,7 +32,7 @@ Create an SMB Share as shown below. All settings should remain default.
 
 :::caution[ACL]
 
-After saving SMB settings TrueNAS Scale will ask if you want to `Configure ACL`. Do **NOT** as this will overwrite the previously configured permissions. You can select `Cancel`, SMB Share will still be configured.
+After saving SMB settings TrueNAS Scale will ask if you want to `Configure ACL`. Do **NOT** as this will overwrite the previously configured permissions. You can select `Cancel`, the SMB Share will still be configured.
 
 :::
 
@@ -42,9 +42,7 @@ After saving SMB settings TrueNAS Scale will ask if you want to `Configure ACL`.
 
 With the release of Cobia the `Auxiliary Parameters` has been removed from the WebUI. The below will guide you through the use of API calls and the system shell to add the correct parameters.
 
-Open System Shell
-
-Enter the following command:
+Open the SCALE System GUI Shell and enter the following command:
 
 ```bash
 midclt call sharing.smb.query | jq
