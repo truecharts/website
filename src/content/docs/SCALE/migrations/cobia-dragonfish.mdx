@@ -24,9 +24,23 @@ The above issues exist both for our new in-house TrueCharts OpenEBS storage solu
 
 ## For Existing Users and Apps
 
-:::note[Ensure apps are up-to-date on Cobia]
+### Pre Cobia-to-DragonFish Upgrade Steps
 
-Prior to updating to TrueNAS SCALE DragonFish, please ensure that TrueNAS SCALE is updated to the latest version of Cobia (23.10.2), and that all of your TrueCharts apps are fully updated, on the correct trains and running or otherwise working correctly.
+<Steps>
+
+1. Ensure apps are up-to-date on Cobia
+
+    Prior to updating to TrueNAS SCALE DragonFish, please ensure that TrueNAS SCALE is updated to the latest version of Cobia (23.10.2), and that all of your TrueCharts apps are fully updated, on the correct trains and running or otherwise working correctly.
+
+2. Create a backup using HeavyScript
+
+    For details on installing and creating a backup with HeavyScript, please see the [HeavyScript GitHub Repo.](https://github.com/Heavybullets8/heavy_script)
+
+</Steps>
+
+:::note[Upgrade to Dragonfish]
+    
+    Update as usual through TrueNAS' System Settings > Update page.
 
 :::
 
@@ -112,6 +126,41 @@ Feel free to let the system settle for 30 minutes after completing the process a
 ## Known Issues with Migrations
 
 Sometimes, things don't go as smoothly as they should. These are tips to help with any known issues identified as part of the migration process.
+
+### CNPG database cannot be restored via the migration script
+
+For instances where an application's database cannot be restored, the script will prompt you to select a backup (created with HeavyScript) instead. This guide assumes HeavyScript has been installed under the current user's home directory.
+
+1. Navigate to HeavyScript's backup folder for the selected application and list database dumps.
+
+    ```shell title="Check for Backups"
+    cd ~/heavy_script/database_dumps/APPNAME && ls
+    ```
+
+2. Copy the latest database dump to the migration dataset created by the migration script.
+
+    ```shell title="Copy Database"
+    cp APPNAME_TIMESTAMP.sql.gz /mnt/TANK/migration/APPNAME/backup/
+    ```
+
+3. Rerun the migration process and select the backup.
+
+    ```shell title="Rerun Migration"
+    sudo bash migrate.sh --skip
+    ```
+
+    ``` title="Use the backup copied in the previous step"
+    Select your original app name:
+    1) APPNAME
+    Enter the number associated with the app: 1
+    You have chosen TANK/migration/APPNAME
+
+    Since a CNPG pod was found, the script can attempt to automatically create a database dump. Note that this requires the CNPG pod to have the ability to run successfully. If you have a recent CNPG database dump from another source (e.g., HeavyScript), you can provide that instead.
+    The default action is to have the script attempt to create a database dump, and should always be used unless your CNPG pod is problematic.
+
+    Would you like to provide your own database dump file? [y/N]
+    y
+    ```
 
 ### "Dataset Busy" error when following the migration process/script
 
