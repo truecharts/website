@@ -2,7 +2,7 @@
 title: observium
 ---
 
-![Version: 8.1.5](https://img.shields.io/badge/Version-8.1.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 20240305.0.0](https://img.shields.io/badge/AppVersion-20240305.0.0-informational?style=flat-square)
+![Version: 8.1.6](https://img.shields.io/badge/Version-8.1.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 20240305.0.0](https://img.shields.io/badge/AppVersion-20240305.0.0-informational?style=flat-square)
 
 Observium is an autodiscovering network monitoring platform supporting a wide range of hardware platforms and operating systems.[br][br]
 
