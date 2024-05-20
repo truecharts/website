@@ -2,7 +2,7 @@
 title: stationeers
 ---
 
-![Version: 6.0.5](https://img.shields.io/badge/Version-6.0.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stationeers](https://img.shields.io/badge/AppVersion-stationeers-informational?style=flat-square)
+![Version: 6.0.6](https://img.shields.io/badge/Version-6.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: stationeers](https://img.shields.io/badge/AppVersion-stationeers-informational?style=flat-square)
 
 This Chart will download and install SteamCMD. It will also install Stationeers and run it.
 
