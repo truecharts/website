@@ -55,11 +55,11 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 Optionally, you can also install the below apps if you want functionality that they provide:
 
 - Install `Cloudnative-PG Operator` if you plan to use any [apps that rely on CNPG functionality](/general/faq#how-do-i-know-if-an-app-uses-cnpg)
-- Install `VolumeSnapshots` and `VolSync` **after* doing the above steps if you want [backup and restore functionality](/scale/guides/backup-restore) made available for your apps' PVCs
 - Install `MetalLB` if you're an advanced user or want to assign specific IP addresses to your SCALE apps. See [here](/scale/#metallb-installation-and-disabling-integrated-loadbalancer)
 - Install `Traefik` if you want [ingress or reverse-proxy](/scale/#traefik-installation-for-ingress--reverse-proxy-support-with-truecharts-apps) support with our apps
 - Install `Authelia` if you want to add a [single-sign-on or multi-factor-authentication portal](/scale/#authelia-installation) to your apps through integration with `Traefik`
-- Install `Blocky` if you want to take advantage of our [preferred DNS solution](/scale/#blocky-dns-provider-for-split-dns-installation-and-guide) to allow for DNS proxy, enhancer and ad-blocking functions with your apps.
+- Install `Blocky` if you want to take advantage of our [preferred DNS solution](/scale/#blocky-dns-provider-for-split-dns-installation-and-guide) to allow for DNS proxy, enhancer and ad-blocking functions with your apps
+- ~~Install  `VolSync` **after** doing the above steps if you want [backup and restore functionality](/scale/guides/backup-restore) made available for your apps' PVCs. Then, in the options for OpenEBS which you installed earlier, check the [checkboxes](./img/volumesnapshotclass.png) for `enabled` and `isDefault` under the "volumeSnapshotClass" section.~~
 
 ## Adding TrueCharts
 
