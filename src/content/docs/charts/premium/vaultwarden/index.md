@@ -10,6 +10,7 @@ Unofficial Bitwarden compatible server written in Rust
 
 - https://github.com/dani-garcia/vaultwarden
 - https://github.com/truecharts/charts/tree/master/charts/premium/vaultwarden
+- https://ghcr.io/timshel/vaultwarden
 - https://hub.docker.com/r/vaultwarden/server
 
 ## Available Documentation
