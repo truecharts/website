@@ -104,6 +104,9 @@ jobs:
         with:
           node-version-file: .nvmrc
 
+      - name: Nuke Changelog
+        run: find . -name "CHANGELOG.md" -type f -exec rm -f {} +
+
       - name: Install Packages
         if: steps.modulescache.outputs.cache-hit != 'true'
         run: npm ci
