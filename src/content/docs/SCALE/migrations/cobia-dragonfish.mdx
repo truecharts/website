@@ -30,7 +30,7 @@ The above issues exist both for our new in-house TrueCharts OpenEBS storage solu
 
 1. Ensure apps are up-to-date on Cobia
 
-    Prior to updating to TrueNAS SCALE DragonFish, please ensure that TrueNAS SCALE is updated to the latest version of Cobia (23.10.2), and that all of your TrueCharts apps are fully updated, on the correct trains and running or otherwise working correctly.
+    Prior to updating to TrueNAS SCALE DragonFish, please ensure that TrueNAS SCALE is updated to the latest version of Cobia (23.10.2), and that all of your TrueCharts apps are fully updated, on the [correct trains]((/news/train-renames) and running or otherwise working correctly.
 
 2. Create a backup using HeavyScript
 
@@ -40,7 +40,7 @@ The above issues exist both for our new in-house TrueCharts OpenEBS storage solu
 
 :::note[Upgrade to Dragonfish]
     
-    Update as usual through TrueNAS' System Settings > Update page.
+    Update to DragonFish as usual through TrueNAS' System Settings > Update page.
 
 :::
 
@@ -143,7 +143,7 @@ For instances where an application's database cannot be restored, the script wil
     cp APPNAME_TIMESTAMP.sql.gz /mnt/TANK/migration/APPNAME/backup/
     ```
 
-3. Rerun the migration process and select the backup.
+3. Re-run the migration process and select the backup.
 
     ```shell title="Rerun Migration"
     sudo bash migrate.sh --skip
