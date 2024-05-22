@@ -11,7 +11,7 @@ volsync is a storage backup and synchronisation tool.
 - https://github.com/volsync/volsync
 - https://github.com/volsync/volsync-helm-chart
 - https://volsync.readthedocs.io/
-- https://github.com/truecharts/charts/tree/master/charts/incubator/volsync
+- https://github.com/truecharts/charts/tree/master/charts/system/volsync
 - https://quay.io/brancz/kube-rbac-proxy
 - https://quay.io/backube/volsync
 
@@ -27,7 +27,7 @@ volsync is a storage backup and synchronisation tool.
 TrueCharts can be installed as both _normal_ Helm Charts or as TrueNAS SCALE Apps.
 Both solutions are fully supported, but we heavily advice the use of normal Helm Charts where possible
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/incubator/volsync)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/system/volsync)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
@@ -57,7 +57,7 @@ For the complete overview of all available options, please checkout the document
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/incubator/volsync
+https://truecharts.org/charts/system/volsync
 
 ### Support
 

@@ -3,13 +3,18 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "export NODE_OPTIONS=--max-old-space-size=32000 && astro dev",
-    "dev-windows": "set NODE_OPTIONS=--max-old-space-size=32000 & astro dev",
-    "start": "export NODE_OPTIONS=--max-old-space-size=32000 && astro dev",
-    "check": "astro check",
-    "build": "export NODE_OPTIONS=--max-old-space-size=32000 && astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "dev": "export NODE_OPTIONS=--max-old-space-size=22000 && find . -name 'CHANGELOG.md' -type f -exec rm -f {} + && astro dev",
+    "start": "export NODE_OPTIONS=--max-old-space-size=22000 && find . -name 'CHANGELOG.md' -type f -exec rm -f {} +  && astro dev",
+    "check": "export NODE_OPTIONS=--max-old-space-size=22000 && find . -name 'CHANGELOG.md' -type f -exec rm -f {} + && astro check",
+    "build": "export NODE_OPTIONS=--max-old-space-size=22000 && find . -name 'CHANGELOG.md' -type f -exec rm -f {} +  && astro build",
+    "preview": "export NODE_OPTIONS=--max-old-space-size=22000 && find . -name 'CHANGELOG.md' -type f -exec rm -f {} + && astro preview",
+    "astro": "export NODE_OPTIONS=--max-old-space-size=22000 && find . -name 'CHANGELOG.md' -type f -exec rm -f {} + && astro",
+    "dev-windows": "set NODE_OPTIONS=--max-old-space-size=22000 && astro dev",
+    "start-windows": "set NODE_OPTIONS=--max-old-space-size=22000 && astro dev",
+    "check-windows": "set NODE_OPTIONS=--max-old-space-size=22000 && astro check",
+    "build-windows": "set NODE_OPTIONS=--max-old-space-size=22000 && astro build",
+    "preview-windows": "set NODE_OPTIONS=--max-old-space-size=22000 && astro preview",
+    "astro-windows": "set NODE_OPTIONS=--max-old-space-size=22000 && astro"
   },
   "dependencies": {
     "@astrojs/check": "0.7.0",

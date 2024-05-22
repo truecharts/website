@@ -17,7 +17,7 @@ defaults:
 
 jobs:
   publish:
-    runs-on: ubuntu-latest
+    runs-on: actions-runner-large
     permissions:
       pull-requests: write
     name: ${{ github.ref == 'refs/heads/main' && '(Production)' || '(Preview)' }} Publish to Cloudflare Pages
@@ -37,22 +37,8 @@ jobs:
             |🔍 Latest deploy log | https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }} |
             ---
 
-      - name: Maximize build space
-        uses: AdityaGarg8/remove-unwanted-software@e2a42bc9a15f8414a9078f38b702de2a2976733d # v3
-        with:
-          remove-android: 'true'
-          remove-dotnet: 'true'
-          remove-haskell: 'true'
-          remove-codeql: 'true'
-          
-
-      - name: Set Swap Space
-        uses: pierotofy/set-swap-space@master
-        with:
-          swap-size-gb: 20
-
       - name: Checkout
-        uses: actions/checkout@0ad4b8fadaa221de15dcec353f45205ec38ea70b # v4
+        uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4
         with:
           # This is needed for the "last updated" field to update correctly.
           fetch-depth: 1
@@ -117,6 +103,9 @@ jobs:
         uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4
         with:
           node-version-file: .nvmrc
+
+      - name: Nuke Changelog
+        run: find . -name "CHANGELOG.md" -type f -exec rm -f {} +
 
       - name: Install Packages
         if: steps.modulescache.outputs.cache-hit != 'true'
