@@ -74,6 +74,28 @@ Note down your Credentials as they are only shown once!
 - keyID -> accessKey
 - applicationKey -> secretKey 
 
+#### Storj 
+- Go to Access Keys of your storj project
+- Create new access key, give it a name, and select S3 Credential
+- Select Advanced to only give access to a specific bucket (optional). Otherwise, select Full Access.
+  ![S3 Storj 1](./img/s3_storj_1.png)
+- Select all permissions (maybe it will work with just read and write)
+- Select the bucket where you want to store the backups
+- Select No Expiration
+- click Create Access
+  ![S3 Storj 1](./img/s3_storj_1.png)
+:::caution[Credentials]
+
+Note down your Credentials as they are only shown once!
+
+:::
+
+##### Storj Credentials assignment for Scale
+- storj Access Key -> accessKey
+- storj Secret Key -> secretKey 
+- https://gateway.storjshare.io/ -> url
+
+
 
 ### General Configuration Steps
 
