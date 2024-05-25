@@ -16,7 +16,10 @@ AirDC++ Web Client is a locally installed application, which is designed for fle
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ SUI Startpage is a simple and clean server start page or homepage that you can q
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

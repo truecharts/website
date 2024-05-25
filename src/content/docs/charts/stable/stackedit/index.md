@@ -15,7 +15,10 @@ StackEdits Markdown syntax highlighting is unique. The refined text formatting o
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ Allows the installation of Nightscout, a remote CGM monitoring system. It allows
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Emby Server is a home media server
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

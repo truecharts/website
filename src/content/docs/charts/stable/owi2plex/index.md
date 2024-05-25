@@ -15,7 +15,10 @@ a xml grabber for enigma with open webif
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -14,7 +14,10 @@ A location-based pluggable DNS forwarder/splitter.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

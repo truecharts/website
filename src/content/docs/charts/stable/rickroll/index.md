@@ -15,7 +15,10 @@ Self-hosted Rick Roll chart.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ Lightweight self-hosted facebook-styled PHP blog.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

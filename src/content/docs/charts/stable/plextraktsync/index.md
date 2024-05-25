@@ -15,7 +15,10 @@ Two-way-sync between trakt.tv and Plex Media Server.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

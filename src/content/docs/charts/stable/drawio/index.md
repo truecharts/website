@@ -15,7 +15,10 @@ Drawio is free online diagram software.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

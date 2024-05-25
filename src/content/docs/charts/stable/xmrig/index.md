@@ -14,7 +14,10 @@ Chartised version of XMRig for CPU Mining. Helps turn your server into a Monero 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

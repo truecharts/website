@@ -17,7 +17,10 @@ Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and 
 
 - [**Default credentials**](./credentials)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

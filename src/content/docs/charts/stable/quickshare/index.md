@@ -15,7 +15,10 @@ Quick and simple file sharing between different devices.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

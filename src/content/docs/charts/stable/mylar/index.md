@@ -16,7 +16,10 @@ Mylar is a automated Comic Book downloader
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

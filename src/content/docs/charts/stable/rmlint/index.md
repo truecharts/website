@@ -15,7 +15,10 @@ rmlint finds space waste and other broken things on your filesystem and offers t
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

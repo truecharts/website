@@ -15,7 +15,10 @@ Running Boinc? Get some Gridcoins from your Boinc work!
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

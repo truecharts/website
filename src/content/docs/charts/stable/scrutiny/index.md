@@ -14,7 +14,10 @@ Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

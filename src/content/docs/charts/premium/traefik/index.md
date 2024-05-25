@@ -23,7 +23,10 @@ Traefik is a flexible reverse proxy and Ingress Provider.
 - [**Theme Park**](./theme-park-middleware)
 - [**Add Traefik Basic Auth to Apps**](./traefik-basicauth-middleware)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ This is an all-in-one package for running a self-hosted Firefox Sync server.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

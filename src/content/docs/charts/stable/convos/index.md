@@ -15,7 +15,10 @@ Convos is the simplest way to use IRC and it is always online
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

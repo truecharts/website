@@ -15,7 +15,10 @@ Server for Ferdi that you can re-use to run your own
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -14,7 +14,10 @@ Fenrus is a home page / personal dashboard with smart apps.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

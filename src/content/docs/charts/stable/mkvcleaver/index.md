@@ -16,7 +16,10 @@ MKVCleaver is a tool for batch extraction of data from MKV files
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

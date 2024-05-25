@@ -14,7 +14,10 @@ The IYUU automatic seeding tool can automatically seed most PT sites in China, s
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

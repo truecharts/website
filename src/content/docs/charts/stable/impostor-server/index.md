@@ -14,7 +14,10 @@ A private Among Us server
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ ERP beyond your fridge - grocy is a web-based self-hosted groceries & household 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

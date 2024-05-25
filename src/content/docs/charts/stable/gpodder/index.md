@@ -15,7 +15,10 @@ gPodder is a simple, open source podcast client written in Python using GTK+. In
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

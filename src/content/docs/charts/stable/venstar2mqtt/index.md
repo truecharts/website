@@ -15,7 +15,10 @@ Simple Chart that allows MQTT to be used to view data and push settings to the V
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ Valheim dedicated gameserver with automatic update and world backup support
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Discord bot that provides metrics from a Discord server
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

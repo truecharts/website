@@ -14,7 +14,10 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

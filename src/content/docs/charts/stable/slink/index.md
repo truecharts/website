@@ -16,7 +16,10 @@ A self-hosted image sharing platform built with Symfony and SvelteKit️.
 
 - [**Slink Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

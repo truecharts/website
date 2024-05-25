@@ -14,7 +14,10 @@ Bitcoin wallet with GUI over VNC and NoVNC.&#xD;
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

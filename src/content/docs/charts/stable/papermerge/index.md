@@ -15,7 +15,10 @@ Papermerge is an open source document management system (DMS) primarily designed
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

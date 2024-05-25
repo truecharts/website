@@ -15,7 +15,10 @@ FileShelter is a self-hosted software that allows you to easily share files over
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

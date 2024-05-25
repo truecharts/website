@@ -16,7 +16,10 @@ A photo gallery software for the web.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -18,7 +18,10 @@ volsync is a storage backup and synchronisation tool.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Open source, advanced key-value store.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ A self-hosted midwestern Discord music bot that doesn't suck.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

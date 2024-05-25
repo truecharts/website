@@ -15,7 +15,10 @@ MEGAsync can synchronize all of your devices with your MEGA account.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

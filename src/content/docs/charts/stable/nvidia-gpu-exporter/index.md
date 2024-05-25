@@ -15,7 +15,10 @@ Prometheus exporter for Nvidia GPU's using nvidia-smi binary to gather metrics.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

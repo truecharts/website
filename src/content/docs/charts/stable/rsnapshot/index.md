@@ -14,7 +14,10 @@ Rsnapshot is a filesystem snapshot utility based on rsync.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

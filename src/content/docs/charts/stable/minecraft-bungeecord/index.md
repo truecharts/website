@@ -17,7 +17,10 @@ the front-end of a cluster of minecraft-java containers.
 - [**How To**](./how-to)
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

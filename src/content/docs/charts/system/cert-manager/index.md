@@ -16,7 +16,10 @@ Cert-Manager is a kubernetes-aware certificate manager
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

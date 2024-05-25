@@ -15,7 +15,10 @@ fast, easy, and free BitTorrent client.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

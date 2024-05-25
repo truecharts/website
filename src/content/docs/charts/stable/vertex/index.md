@@ -15,7 +15,10 @@ Vertex
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ A Headless Steam chart.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

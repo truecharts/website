@@ -15,7 +15,10 @@ A fancy self-hosted monitoring tool
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

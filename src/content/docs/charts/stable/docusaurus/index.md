@@ -16,7 +16,10 @@ Docusaurus makes it easy to maintain Open Source documentation websites.
 
 - [**How-To**](./how-to)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

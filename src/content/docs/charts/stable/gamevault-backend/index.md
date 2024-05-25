@@ -15,7 +15,10 @@ the self-hosted gaming platform for alternatively obtained games.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

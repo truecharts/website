@@ -15,7 +15,10 @@ Open-source inpainting tool powered by SOTA AI model.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

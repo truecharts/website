@@ -18,7 +18,10 @@ Lightweight ldap server for authentication and user management
 - [**Authelia Setup**](./authelia)
 - [**Installation notes**](./installation-notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

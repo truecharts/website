@@ -15,7 +15,10 @@ A link dashboard that can be managed without any code.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ IPTV service providing streaming, playlist, search engine and epg.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

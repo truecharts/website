@@ -18,7 +18,10 @@ Plex Media Server
 - [**Community Migration Guide**](./migration_guide)
 - [**Input Validation**](./validation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

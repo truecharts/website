@@ -16,7 +16,10 @@ A Helm chart for Kubernetes
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ CryptPad is the Zero Knowledge realtime collaborative editor.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

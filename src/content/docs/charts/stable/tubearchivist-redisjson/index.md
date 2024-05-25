@@ -15,7 +15,10 @@ This is a dependancy Chart for the application "TubeArchivist"
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

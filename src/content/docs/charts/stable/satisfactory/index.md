@@ -15,7 +15,10 @@ Satisfactory Dedicated Server
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

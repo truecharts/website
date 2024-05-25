@@ -15,7 +15,10 @@ This Chart will download and install SteamCMD. It will also install Memories of 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

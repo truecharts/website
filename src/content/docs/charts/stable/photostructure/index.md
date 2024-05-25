@@ -15,7 +15,10 @@ PhotoStructure is your new home for all your photos and videos.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

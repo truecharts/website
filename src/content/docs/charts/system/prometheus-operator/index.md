@@ -16,7 +16,10 @@ Prometheus Operator is an operator for prometheus
 
 - [**Troubleshooting**](./installation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

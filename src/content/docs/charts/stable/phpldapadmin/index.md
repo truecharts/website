@@ -15,7 +15,10 @@ Web-based LDAP browser to manage your LDAP server
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

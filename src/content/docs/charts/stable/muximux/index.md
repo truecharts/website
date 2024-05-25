@@ -16,7 +16,10 @@ A lightweight portal to view & manage your HTPC apps without having to run anyth
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

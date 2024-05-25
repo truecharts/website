@@ -16,7 +16,10 @@ Avidemux is a free video editor designed for simple cutting, filtering and encod
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

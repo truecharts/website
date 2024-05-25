@@ -15,7 +15,10 @@ Autoscan replaces the default Plex and Emby behaviour for picking up file change
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

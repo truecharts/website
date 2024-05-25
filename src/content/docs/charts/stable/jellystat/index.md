@@ -15,7 +15,10 @@ A free and open source Statistics App for Jellyfin.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

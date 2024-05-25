@@ -15,7 +15,10 @@ IRC Highway eBook Downloads.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ Plex to AniList Sync.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

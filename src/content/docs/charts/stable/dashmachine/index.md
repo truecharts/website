@@ -14,7 +14,10 @@ Another web application bookmark dashboard, with fun features.[br][br][b][u][spa
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

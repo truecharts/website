@@ -14,7 +14,10 @@ OpenHab is a home-automation application
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

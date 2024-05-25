@@ -18,7 +18,10 @@ JTS3ServerMod by Stefan1200
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ The WordPress rich content management system can utilize plugins, widgets, and t
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

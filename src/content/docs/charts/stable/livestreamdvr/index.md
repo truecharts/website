@@ -15,7 +15,10 @@ An automatic twitch recorder.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

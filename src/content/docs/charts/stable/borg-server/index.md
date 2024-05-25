@@ -15,7 +15,10 @@ A borg Backup server
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Chart with rTorrent and the Flood UI.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

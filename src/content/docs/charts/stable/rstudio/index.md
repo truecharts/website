@@ -15,7 +15,10 @@ Integrated development environment for R, a programming language for statistical
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

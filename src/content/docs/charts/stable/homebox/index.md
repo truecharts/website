@@ -15,7 +15,10 @@ Inventory and organization system built for the Home User.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

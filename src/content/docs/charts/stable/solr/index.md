@@ -15,7 +15,10 @@ Apache Solr
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

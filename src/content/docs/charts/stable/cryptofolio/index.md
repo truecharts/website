@@ -15,7 +15,10 @@ Track your cryptocurrency holdings/portfolio
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

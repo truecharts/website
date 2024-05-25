@@ -17,7 +17,10 @@ Filebrowser provides a file managing interface within a specified directory
 
 - [**Installation notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

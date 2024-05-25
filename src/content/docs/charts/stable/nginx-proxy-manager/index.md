@@ -18,7 +18,10 @@ Managing Nginx proxy hosts with a simple, powerful interface.
 - [**Default Username/Password**](./credentials)
 - [**Disclaimer**](./disclaimer)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

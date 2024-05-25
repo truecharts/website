@@ -17,7 +17,10 @@ Grafana is an open source, feature rich metrics dashboard and graph editor for G
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

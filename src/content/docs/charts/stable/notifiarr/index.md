@@ -16,7 +16,10 @@ This is the unified client for Notifiarr.com. The client enables content request
 
 - [**Setup Guide**](./how-to)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

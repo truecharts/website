@@ -16,7 +16,10 @@ Python script to update metadata and automatically build collections.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

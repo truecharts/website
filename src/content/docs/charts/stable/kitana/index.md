@@ -15,7 +15,10 @@ Kitana exposes your Plex plugin interfaces "to the outside world". It does that 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

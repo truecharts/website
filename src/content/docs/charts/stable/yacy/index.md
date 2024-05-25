@@ -15,7 +15,10 @@ YaCy decentralized search engine (https://yacy.net)
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

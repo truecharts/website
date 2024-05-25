@@ -15,7 +15,10 @@ The personal, minimalist, super-fast, database free, bookmarking service.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

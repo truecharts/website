@@ -15,7 +15,10 @@ A web-based dashboard application that gives you a neat and clean interface for 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

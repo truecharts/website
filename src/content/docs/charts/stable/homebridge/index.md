@@ -16,7 +16,10 @@ A lightweight NodeJS server that emulates the iOS HomeKit API
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

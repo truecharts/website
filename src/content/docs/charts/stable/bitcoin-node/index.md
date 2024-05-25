@@ -15,7 +15,10 @@ Chart that runs the Bitcoin bitcoind node in a Chart for easy deployment.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

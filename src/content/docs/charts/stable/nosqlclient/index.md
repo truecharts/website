@@ -15,7 +15,10 @@ Cross-platform and self hosted, easy to use, intuitive mongodb management tool -
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

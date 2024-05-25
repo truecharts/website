@@ -24,7 +24,10 @@ A self hosted virtual browser that runs in Chart
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

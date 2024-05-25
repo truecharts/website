@@ -16,7 +16,10 @@ Minecraft Bedrock Dedicated Server
 
 - [**How To**](./how-to)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ SteamCMD Terraria and the TShock MOD.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

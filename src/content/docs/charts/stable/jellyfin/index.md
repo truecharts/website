@@ -17,7 +17,10 @@ Jellyfin is a Free Software Media System
 
 - [**Setup Guide**](./how-to)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

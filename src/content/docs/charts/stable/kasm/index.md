@@ -18,7 +18,10 @@ Kasm Workspaces is a streaming platform for delivering browser-based access to d
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

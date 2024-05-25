@@ -15,7 +15,10 @@ A tasty, self-hostable Git server for the command line.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

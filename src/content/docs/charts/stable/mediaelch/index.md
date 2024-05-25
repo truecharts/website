@@ -15,7 +15,10 @@ Mediaelch is a Tool to manage your movie and show libary regarding the metadata 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

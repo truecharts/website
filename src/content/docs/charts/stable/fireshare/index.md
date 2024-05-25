@@ -15,7 +15,10 @@ Share your game clips, videos, or other media via unique links.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

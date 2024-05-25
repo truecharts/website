@@ -16,7 +16,10 @@ Get all your books, like series with Sonarr...
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

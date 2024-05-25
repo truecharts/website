@@ -18,7 +18,10 @@ Automate Cloudflare DNS records for those with a dynamic IP.
 - [**How-To**](./setup-guide)
 - [**Input Validation**](./validation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

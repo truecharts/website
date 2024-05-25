@@ -16,7 +16,10 @@ A high quality, visual, open source tool to create, design, and edit database fi
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

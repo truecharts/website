@@ -14,7 +14,10 @@ Pylon is a web based integrated development environment.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

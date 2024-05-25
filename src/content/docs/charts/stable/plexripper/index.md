@@ -15,7 +15,10 @@ A multi-platform media downloader that indexes and downloads content from your a
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

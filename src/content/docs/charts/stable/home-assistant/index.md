@@ -17,7 +17,10 @@ home-assistant App for TrueNAS SCALE
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

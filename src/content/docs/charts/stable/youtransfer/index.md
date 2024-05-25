@@ -15,7 +15,10 @@ YouTransfer is a simple but elegant self-hosted file transfer sharing solution.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

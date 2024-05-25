@@ -16,7 +16,10 @@ tsMuxer is a Transport Stream muxer.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

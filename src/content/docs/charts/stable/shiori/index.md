@@ -16,7 +16,10 @@ A simple bookmark manager built with Go.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

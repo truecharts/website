@@ -15,7 +15,10 @@ cowyo is a self-contained wiki server that makes jotting notes easy and fast. Th
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

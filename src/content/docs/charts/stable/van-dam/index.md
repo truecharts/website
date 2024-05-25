@@ -15,7 +15,10 @@ A Digital Asset Manager (DAM), specifically designed for 3D print files.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

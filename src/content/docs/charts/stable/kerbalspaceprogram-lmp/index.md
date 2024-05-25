@@ -15,7 +15,10 @@ This Chart will download and run Luna Multiplayer for Kerbal Space Program (KSP)
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ A ReactJS-based progressive web application for Shlink.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

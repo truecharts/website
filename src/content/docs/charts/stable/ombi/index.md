@@ -15,7 +15,10 @@ Want a Movie or TV Show on Plex or Emby? Use Ombi!
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

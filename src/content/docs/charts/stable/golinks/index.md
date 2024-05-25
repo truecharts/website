@@ -16,7 +16,10 @@ A web app that allows you to create smart bookmarks, commands and aliases by poi
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

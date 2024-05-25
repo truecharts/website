@@ -15,7 +15,10 @@ Your favorite operating systems in one place!
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

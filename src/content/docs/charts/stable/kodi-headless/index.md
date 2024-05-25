@@ -15,7 +15,10 @@ A headless install of kodi in a docker container.
 
 - [**Default credentials**](./credentials)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

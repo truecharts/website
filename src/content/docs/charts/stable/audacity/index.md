@@ -16,7 +16,10 @@ An easy-to-use, multi-track audio editor and recorder
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

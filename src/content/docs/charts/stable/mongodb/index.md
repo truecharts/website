@@ -16,7 +16,10 @@ Fast, reliable, scalable, and easy to use open-source no-sql database system.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ h5ai is a modern file indexer for HTTP web servers with focus on your files. Dir
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

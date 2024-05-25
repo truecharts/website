@@ -15,7 +15,10 @@ Traccar is an open source GPS tracking system.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

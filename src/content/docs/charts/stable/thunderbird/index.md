@@ -15,7 +15,10 @@ This Chart will download and install Thunderbird in the preferred version and la
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

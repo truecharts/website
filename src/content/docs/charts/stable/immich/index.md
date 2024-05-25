@@ -17,7 +17,10 @@ High performance self-hosted photo and video backup solution.
 
 - [**Install Notes**](./install_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

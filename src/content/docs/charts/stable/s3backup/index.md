@@ -15,7 +15,10 @@ A simple way to backup important files to Amazon S3 and Glacier.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

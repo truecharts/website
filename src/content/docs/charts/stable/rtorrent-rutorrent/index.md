@@ -17,7 +17,10 @@ rTorrent and ruTorrent chart.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

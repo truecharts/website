@@ -16,7 +16,10 @@ Apache Guacamole is a clientless remote desktop gateway.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

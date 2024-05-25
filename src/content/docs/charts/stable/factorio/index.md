@@ -15,7 +15,10 @@ A game in which you build and maintain factories.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ A server software for Minecraft Bedrock Edition in PHP.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

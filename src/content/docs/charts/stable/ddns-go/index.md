@@ -15,7 +15,10 @@ Automatically obtain your public network IPv4 or IPv6 address and resolve it to 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

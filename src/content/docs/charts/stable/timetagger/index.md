@@ -17,7 +17,10 @@ An open source time-tracker with an interactive user experience and powerful rep
 
 - [**Credential Generation Basic Auth**](./install)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

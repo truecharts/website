@@ -16,7 +16,10 @@ The Wyoming integration of openWakeWord
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

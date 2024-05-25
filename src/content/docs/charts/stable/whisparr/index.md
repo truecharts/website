@@ -15,7 +15,10 @@ An adult media thingy.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

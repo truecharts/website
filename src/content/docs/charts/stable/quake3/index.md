@@ -15,7 +15,10 @@ This Chart will download and install Quake III Server (You have to copy your .pk
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

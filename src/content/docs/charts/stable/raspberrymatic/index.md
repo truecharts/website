@@ -16,7 +16,10 @@ A free and non-commercial open-source operating system alternative for running a
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

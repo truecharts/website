@@ -19,7 +19,10 @@ Also deploys the Snapshot Validation Webhook and configures your cluster to vali
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

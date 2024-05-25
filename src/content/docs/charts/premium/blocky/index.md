@@ -2,7 +2,7 @@
 title: blocky
 ---
 
-![Version: 15.1.2](https://img.shields.io/badge/Version-15.1.2-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.23.0](https://img.shields.io/badge/AppVersion-0.23.0-informational?style=flat-square)
+![Version: 15.2.0](https://img.shields.io/badge/Version-15.2.0-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 0.24.0](https://img.shields.io/badge/AppVersion-0.24.0-informational?style=flat-square)
 
 Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written in Go
 
@@ -12,8 +12,8 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 - https://0xerr0r.github.io/blocky/
 - https://github.com/0xERR0R/blocky
 - https://github.com/truecharts/charts/tree/master/charts/premium/blocky
-- https://quay.io/oriedge/k8s_gateway
 - https://hub.docker.com/r/spx01/blocky
+- https://quay.io/oriedge/k8s_gateway
 
 ## Available Documentation
 
@@ -21,7 +21,10 @@ Blocky is a DNS proxy, DNS enhancer and ad-blocker for the local network written
 - [**Installation notes**](./installation-notes)
 - [**Blocky Setup Guide**](./setup-guide)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info
@@ -46,14 +49,7 @@ For more information on how to install TrueCharts Helm charts, checkout the inst
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale/guides/scale-intro).
-
-### Configuration Options
-
-To view the chart specific options, please view Values.yaml included in the chart.
-
-All our Charts use a shared "common" library chart that contains most of the templating and options.
-For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
 
 ### Chart Specific Guides and information
 
@@ -61,8 +57,20 @@ All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
 https://truecharts.org/charts/premium/blocky
 
-### Support
+### Configuration Options
 
+Please note: For TrueNAS SCALE, only options available in the GUI are supported.
+Hence most of these docs do not apply to TrueNAS SCALE
+
+To view the chart specific options, please view Values.yaml included in the chart.
+The most recent version of which, is available here: https://github.com/truecharts/charts/charts/premium/blocky/values.yaml
+
+All our Charts use a shared "common" library chart that contains most of the templating and options.
+For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+
+For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
+
+### Support
 
 - See the [Website](https://truecharts.org)
 - Check our [Discord](https://discord.gg/tVsPTHWTtr)

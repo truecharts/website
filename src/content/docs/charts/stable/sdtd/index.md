@@ -15,7 +15,10 @@ This chart will download and install SteamCMD. It will also install 7 Days to Di
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

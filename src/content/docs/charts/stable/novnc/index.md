@@ -15,7 +15,10 @@ The open source VNC client
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

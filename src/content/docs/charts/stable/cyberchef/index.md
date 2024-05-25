@@ -14,7 +14,10 @@ CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

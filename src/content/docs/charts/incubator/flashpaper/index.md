@@ -16,7 +16,10 @@ One-time encrypted password/secret sharing
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

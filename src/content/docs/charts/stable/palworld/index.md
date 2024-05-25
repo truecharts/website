@@ -19,7 +19,10 @@ A custom SteamCMD chart that runs Palworld.
 - [**PalWorld RCON Notes**](./rcon_notes)
 - [**Input Validation**](./validation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

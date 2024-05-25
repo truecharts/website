@@ -17,7 +17,10 @@ HandBrake is a tool for converting video from nearly any format to a selection o
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

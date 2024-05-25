@@ -17,7 +17,10 @@ Automatic Ripping Machine (ARM) Scripts.
 - [**Default Credentials**](./default_credentials)
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

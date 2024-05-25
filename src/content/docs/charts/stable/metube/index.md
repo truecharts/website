@@ -15,7 +15,10 @@ Web GUI for youtube-dl.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

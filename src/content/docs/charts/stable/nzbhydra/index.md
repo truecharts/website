@@ -15,7 +15,10 @@ Usenet meta search
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

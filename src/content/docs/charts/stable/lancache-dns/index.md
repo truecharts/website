@@ -16,7 +16,10 @@ DNS Chart service for a steam cache.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

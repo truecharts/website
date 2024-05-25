@@ -15,7 +15,10 @@ An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Calibre-Web is a web app providing a clean interface for browsing, reading and d
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

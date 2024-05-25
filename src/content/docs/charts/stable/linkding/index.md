@@ -15,7 +15,10 @@ Linkding is a simple bookmark service that you can host yourself. It's designed 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

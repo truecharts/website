@@ -16,7 +16,10 @@ Ghostfolio is a privacy-first, open source dashboard for your personal finances.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ n8n is an extendable workflow automation tool.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

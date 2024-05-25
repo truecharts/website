@@ -25,7 +25,10 @@ A private cloud server that puts the control and security of your own data back 
 - [**Installation Notes**](./installation-notes)
 - [**NextCloud Support Policy**](./support)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

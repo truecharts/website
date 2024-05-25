@@ -15,7 +15,10 @@ This Chart will download and install a StarMade Dedicated Server. It will also i
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

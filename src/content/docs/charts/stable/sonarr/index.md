@@ -17,7 +17,10 @@ Smart PVR for newsgroup and bittorrent users
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ A Lidarr companion script to automatically download music for Lidarr.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

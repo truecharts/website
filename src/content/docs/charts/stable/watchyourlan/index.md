@@ -15,7 +15,10 @@ Lightweight network IP scanner with web GUI
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ A fast and minimal paste bin, written in Python using Quart.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

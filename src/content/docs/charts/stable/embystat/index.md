@@ -14,7 +14,10 @@ Embystat is a personal web server that can calculate all kinds of statistics fro
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

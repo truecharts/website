@@ -15,7 +15,10 @@ Homepage: http://bpatrik.github.io/pigallery2/
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

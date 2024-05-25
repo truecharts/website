@@ -15,7 +15,10 @@ IPFS is a global, versioned, peer-to-peer Interplanetary Filesystem.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

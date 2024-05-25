@@ -14,7 +14,10 @@ Simple recipes in Markdown format.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

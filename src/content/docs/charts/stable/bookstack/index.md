@@ -15,7 +15,10 @@ A simple, self-hosted, easy-to-use platform for organising and storing informati
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

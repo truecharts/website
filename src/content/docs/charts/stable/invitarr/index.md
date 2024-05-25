@@ -16,7 +16,10 @@ A chatbot that invites discord users to plex.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

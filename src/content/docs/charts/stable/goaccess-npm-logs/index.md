@@ -15,7 +15,10 @@ GoAccess for Nginx Proxy Manager Logs
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

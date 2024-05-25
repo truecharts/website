@@ -15,7 +15,10 @@ Open-source ChatGPT experience for LLMs, embedders, and vector databases.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ Reliable and Performant File Sync and Share Solution
 
 - [**Installation notes and guidelines**](./install-notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

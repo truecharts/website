@@ -15,7 +15,10 @@ backup all your tasmota devices in one place.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

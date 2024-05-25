@@ -15,7 +15,10 @@ FlutterCoin may be a coin with the tried and true algorithm of scrypt, but it's 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

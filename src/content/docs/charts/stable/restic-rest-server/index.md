@@ -15,7 +15,10 @@ Rest Server is a high performance HTTP server that implements restic's REST back
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

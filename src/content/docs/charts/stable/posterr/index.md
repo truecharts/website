@@ -16,7 +16,10 @@ Media display for Plex, Sonarr and Radarr.
 
 - [**Default Credentials**](./default_credentials)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

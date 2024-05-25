@@ -14,7 +14,10 @@ Folding@home is a distributed computing project for simulating protein dynamics,
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

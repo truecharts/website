@@ -17,7 +17,10 @@ A fork of Sonarr to work with movies à la Couchpotato
 
 - [**Installation Guide**](./installation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

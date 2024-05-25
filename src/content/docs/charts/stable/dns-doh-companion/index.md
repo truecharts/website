@@ -15,7 +15,10 @@ A very simple DNS server to connect to DNS-over-HTTPS service. This is similar t
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

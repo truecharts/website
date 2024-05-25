@@ -18,7 +18,10 @@ DNS and Ad-filtering for your network
 
 - [**Automatic Split DNS with PiHole**](./split-dns)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

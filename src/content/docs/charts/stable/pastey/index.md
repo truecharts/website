@@ -15,7 +15,10 @@ A lightweight, self-hosted paste platform.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

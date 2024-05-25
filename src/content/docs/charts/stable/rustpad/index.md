@@ -15,7 +15,10 @@ Rustpad is an efficient and minimal open-source collaborative text editor based 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

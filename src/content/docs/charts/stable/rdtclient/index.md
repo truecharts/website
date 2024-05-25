@@ -16,7 +16,10 @@ This is a web interface to manage your torrents on Real-Debrid, AllDebrid or Pre
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

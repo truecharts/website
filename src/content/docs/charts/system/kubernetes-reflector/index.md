@@ -15,7 +15,10 @@ Kubernetes-Reflector is a Kubernetes addon designed to monitor and reflect chang
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

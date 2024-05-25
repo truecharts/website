@@ -15,7 +15,10 @@ Provides management of TV shows and/or Anime, it detects new episodes, links dow
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

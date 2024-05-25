@@ -15,7 +15,10 @@ This webapp is a browser and desktop password manager compatible with KeePass da
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

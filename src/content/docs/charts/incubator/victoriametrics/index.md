@@ -16,7 +16,10 @@ Fast, cost-effective monitoring solution and time series database
 
 - [**Disclaimer**](./disclaimer)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-o
 
 - [**How-To**](./how-to)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

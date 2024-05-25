@@ -17,7 +17,10 @@ Minecraft Java Dedicated Server
 
 - [**Minecraft Java Community Guide**](./community-guide)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

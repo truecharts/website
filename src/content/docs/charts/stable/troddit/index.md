@@ -15,7 +15,10 @@ A web client for Reddit
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

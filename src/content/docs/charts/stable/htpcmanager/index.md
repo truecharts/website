@@ -14,7 +14,10 @@ Htpcmanager is a front end for many htpc related applications.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

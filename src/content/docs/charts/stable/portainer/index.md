@@ -18,7 +18,10 @@ Container management made easy
 
 - [**Installation Notes**](./installation-notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

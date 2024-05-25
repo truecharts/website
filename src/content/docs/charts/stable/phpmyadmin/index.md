@@ -14,7 +14,10 @@ A web interface for MySQL and MariaDB.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

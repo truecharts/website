@@ -15,7 +15,10 @@ Magical shell history.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -14,7 +14,10 @@ Ngircd is a free, portable and lightweight Internet Relay Chat server for small 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Selfhosted web manga reader.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

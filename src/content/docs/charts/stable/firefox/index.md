@@ -15,7 +15,10 @@ a free and open-source web browser developed by the Mozilla Foundation and its s
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

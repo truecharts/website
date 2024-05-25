@@ -18,7 +18,10 @@ kube-prometheus-stack collects Kubernetes manifests, Grafana dashboards, and Pro
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

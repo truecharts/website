@@ -16,7 +16,10 @@ Photoview is a simple and user-friendly photo gallery.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ The modern download automation tool for torrents.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

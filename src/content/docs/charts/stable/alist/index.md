@@ -15,7 +15,10 @@ Alist program that supports multiple storage, powered by Gin and React
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

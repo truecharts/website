@@ -15,7 +15,10 @@ Tandoor Recipes is a Django application to manage, tag and search recipes using 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

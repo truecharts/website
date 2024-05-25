@@ -16,7 +16,10 @@ Self-hosted file management and sharing system, supports multiple storage provid
 
 - [**Important Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

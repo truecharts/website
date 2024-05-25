@@ -16,7 +16,10 @@ Lightweight multiplexer/proxy for Minecraft-Java servers.
 
 - [**Input Validation**](./validation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

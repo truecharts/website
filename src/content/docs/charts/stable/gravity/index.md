@@ -15,7 +15,10 @@ Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

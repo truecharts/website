@@ -15,7 +15,10 @@ Self Hosted, self contained New Year Countdown clock
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

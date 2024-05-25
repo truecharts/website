@@ -15,7 +15,10 @@ aMule is an eMule-like client for the eDonkey and Kademlia networks.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Anime cataloging program designed to automate the cataloging of your collection.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

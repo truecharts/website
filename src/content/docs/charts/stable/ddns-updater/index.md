@@ -16,7 +16,10 @@ Light container updating DNS A and/or AAAA records periodically for multiple DNS
 
 - [**How To**](./how-to)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

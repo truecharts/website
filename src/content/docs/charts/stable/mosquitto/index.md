@@ -16,7 +16,10 @@ Eclipse Mosquitto - An open source MQTT broker
 
 - [**Configure password authentication**](./setup-guide)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info
