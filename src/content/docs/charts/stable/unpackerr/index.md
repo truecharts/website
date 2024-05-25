@@ -15,7 +15,10 @@ This application runs as a daemon on your download host. It checks for completed
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

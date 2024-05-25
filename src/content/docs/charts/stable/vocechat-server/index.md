@@ -15,7 +15,10 @@ A superlight rust written social server.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

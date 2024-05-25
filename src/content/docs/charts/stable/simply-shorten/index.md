@@ -16,7 +16,10 @@ A dead simple URL shortener.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

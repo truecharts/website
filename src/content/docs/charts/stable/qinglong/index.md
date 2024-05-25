@@ -14,7 +14,10 @@ A timed task management panel that supports typescript, javaScript, python3, and
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

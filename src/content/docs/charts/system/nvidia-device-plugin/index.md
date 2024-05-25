@@ -17,7 +17,10 @@ NVIDIA device plugin for Kubernetes
 
 - [**Nvidia Device Plugin Setup**](./installation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ A free and open source alternative Twitter front-end focused on privacy and perf
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

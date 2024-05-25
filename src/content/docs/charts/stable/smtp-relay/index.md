@@ -15,7 +15,10 @@ A SMTP service for relaying emails.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

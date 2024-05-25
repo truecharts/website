@@ -15,7 +15,10 @@ ProjectSend is a self-hosted application that lets you upload files and assign t
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

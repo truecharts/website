@@ -16,7 +16,10 @@ MediaInfo is a convenient unified display of the most relevant technical and tag
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

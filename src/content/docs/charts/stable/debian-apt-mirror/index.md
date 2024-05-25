@@ -15,7 +15,10 @@ This Chart will run apt-mirror and Apache2. This allows you to create a local ap
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

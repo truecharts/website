@@ -15,7 +15,10 @@ Channels DVR Server
 
 - [**Channels DVR Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

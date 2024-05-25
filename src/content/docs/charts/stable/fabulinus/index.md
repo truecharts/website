@@ -16,7 +16,10 @@ Fabulinus is the server component of the TitanML Takeoff server.
 
 - [**Fabulinus Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

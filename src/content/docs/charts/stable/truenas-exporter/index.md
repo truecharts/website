@@ -16,7 +16,10 @@ A metrics exporter for TrueNAS
 
 - [**Connecting TrueNAS SCALE**](./setup)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

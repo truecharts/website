@@ -15,7 +15,10 @@ Aurora Files is an open-source file storage platform for small teams and persona
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

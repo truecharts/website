@@ -15,7 +15,10 @@ A tool for managing Factorio servers
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

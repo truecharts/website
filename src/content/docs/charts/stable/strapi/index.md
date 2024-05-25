@@ -17,7 +17,10 @@ Open-source headless CMS. JavaScript, fully customizable and developer-first.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

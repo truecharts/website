@@ -16,7 +16,10 @@ Free and easy binary newsreader
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

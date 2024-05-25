@@ -15,7 +15,10 @@ the AI-native open-source embedding database.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, P
 
 - [**Default credentials**](./credentials)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

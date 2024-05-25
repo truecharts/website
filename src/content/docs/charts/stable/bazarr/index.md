@@ -16,7 +16,10 @@ Bazarr is a companion application to Sonarr and Radarr. It manages and downloads
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

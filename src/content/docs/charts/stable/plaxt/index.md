@@ -16,7 +16,10 @@ This Tools provides a way to keep your watched history synced FROM Plex Server T
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

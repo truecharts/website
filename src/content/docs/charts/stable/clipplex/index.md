@@ -16,7 +16,10 @@ Clip your plex media to share.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

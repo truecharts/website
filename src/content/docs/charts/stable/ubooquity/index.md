@@ -14,7 +14,10 @@ Ubooquity is a free, lightweight and easy-to-use home server for your comics and
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

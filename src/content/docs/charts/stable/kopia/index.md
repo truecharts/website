@@ -16,7 +16,10 @@ Kopia is a simple, cross-platform tool for managing encrypted backups in the clo
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

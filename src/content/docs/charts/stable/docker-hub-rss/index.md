@@ -15,7 +15,10 @@ RSS feed for Chart Hub images.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

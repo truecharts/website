@@ -16,7 +16,10 @@ HTPC/Homelab Services Organizer
 
 - [**Organizr Forward Auth Setup Guide**](./forward_auth)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

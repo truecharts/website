@@ -16,7 +16,10 @@ A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

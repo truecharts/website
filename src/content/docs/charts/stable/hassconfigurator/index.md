@@ -15,7 +15,10 @@ Home Assistant online configurator Chart from https://github.com/danielperna84/h
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

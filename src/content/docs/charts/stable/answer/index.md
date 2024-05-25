@@ -15,7 +15,10 @@ A Q&A platform software for teams at any scales.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

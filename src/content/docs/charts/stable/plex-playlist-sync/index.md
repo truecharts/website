@@ -16,7 +16,10 @@ Sync your Spotify and Deezer playlists to your Plex server.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

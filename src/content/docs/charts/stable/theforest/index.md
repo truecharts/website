@@ -15,7 +15,10 @@ This Docker will download and install SteamCMD. It will also install The Forest 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

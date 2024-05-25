@@ -17,7 +17,10 @@ A free and open source personal finance manager
 - [**Important Notes**](./installation_notes)
 - [**Input Validation**](./validation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

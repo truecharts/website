@@ -15,7 +15,10 @@ Scrypted is a high performance home video integration and automation platform.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

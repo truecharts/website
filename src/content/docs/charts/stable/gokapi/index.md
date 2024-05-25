@@ -15,7 +15,10 @@ Gokapi is a lightweight server to share files, which expire after a set amount o
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -14,7 +14,10 @@ Dedicated App for using Docker-in-Docker
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Prometheus exporter for SMART using smartctl binary to gather metrics.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

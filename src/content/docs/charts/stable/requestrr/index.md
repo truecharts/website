@@ -15,7 +15,10 @@ Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi v
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

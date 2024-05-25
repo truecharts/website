@@ -15,7 +15,10 @@ Snapdrop A local file sharing in your browser. Inspired by Apple's Airdrop.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

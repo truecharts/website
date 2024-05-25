@@ -16,7 +16,10 @@ Nissan Leaf connected services to MQTT adapter
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

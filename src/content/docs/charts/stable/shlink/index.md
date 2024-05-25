@@ -15,7 +15,10 @@ A PHP-based self-hosted URL shortener that can be used to serve shortened URLs u
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ This Chart will download and install Neverwinter Nights: Enhanced Edition and ru
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

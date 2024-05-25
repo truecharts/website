@@ -15,7 +15,10 @@ A cross-platform Anki sync server.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

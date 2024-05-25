@@ -15,7 +15,10 @@ A simple, high-reliability, distributed software configuration management system
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

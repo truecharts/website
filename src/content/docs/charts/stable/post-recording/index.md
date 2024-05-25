@@ -15,7 +15,10 @@ Watches for .ts files made by Live TV recordings, convert them to a friendly for
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

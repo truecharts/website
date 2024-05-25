@@ -16,7 +16,10 @@ A remote desktop client written in GTK
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

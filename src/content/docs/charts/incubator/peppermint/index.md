@@ -15,7 +15,10 @@ An open source ticket management & help desk solution.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

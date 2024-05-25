@@ -15,7 +15,10 @@ Linkwarden is a self-hosted, open-source collaborative bookmark manager to colle
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

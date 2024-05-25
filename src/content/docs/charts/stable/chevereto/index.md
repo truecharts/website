@@ -16,7 +16,10 @@ Chevereto is an image hosting software that allows you to create a beautiful and
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

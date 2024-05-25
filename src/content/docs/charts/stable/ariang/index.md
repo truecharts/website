@@ -16,7 +16,10 @@ A modern web frontend making aria2 easier to use | Aria2 WebUI.
 
 - [**How To**](./how-to)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

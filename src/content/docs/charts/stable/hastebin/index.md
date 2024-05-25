@@ -15,7 +15,10 @@ Alpine-based Chart for Hastebin, the node.js paste service
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

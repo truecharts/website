@@ -16,7 +16,10 @@ A personal music streaming server
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

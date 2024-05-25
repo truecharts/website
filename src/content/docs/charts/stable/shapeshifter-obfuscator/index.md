@@ -15,7 +15,10 @@ Shapeshifter-Obfuscator is a Chartized implementation of shapeshifter-dispatcher
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

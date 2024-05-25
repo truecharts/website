@@ -15,7 +15,10 @@ Docker Open Broadcaster Software (obs).
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

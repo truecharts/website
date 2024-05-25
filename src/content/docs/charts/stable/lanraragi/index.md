@@ -17,7 +17,10 @@ Open source server for archival of comics/manga.
 
 - [**Default Password**](./credentials)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

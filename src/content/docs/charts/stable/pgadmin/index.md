@@ -15,7 +15,10 @@ Web-Based postgresql database management utility
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

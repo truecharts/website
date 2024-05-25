@@ -14,7 +14,10 @@ Quassel-web is a web client for Quassel.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

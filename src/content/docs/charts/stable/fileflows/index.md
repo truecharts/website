@@ -15,7 +15,10 @@ An application that lets you automatically process files through a simple rule f
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

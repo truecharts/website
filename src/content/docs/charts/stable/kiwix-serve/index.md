@@ -17,7 +17,10 @@ Kiwix enables you to have the whole Wikipedia at hand wherever you go!
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

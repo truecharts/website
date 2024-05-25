@@ -16,7 +16,10 @@ Cops(http://blog.slucas.fr/en/oss/calibre-opds-php-server) by Sébastien Lucas, 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

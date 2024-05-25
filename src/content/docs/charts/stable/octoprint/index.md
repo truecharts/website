@@ -15,7 +15,10 @@ OctoPrint is the snappy web interface for your 3D printer
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

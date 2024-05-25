@@ -14,7 +14,10 @@ A tool that can automatically download free seeds and delete them after the free
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -17,7 +17,10 @@ Open source alternative front-end to YouTube.
 
 - [**Input Validation**](./validation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

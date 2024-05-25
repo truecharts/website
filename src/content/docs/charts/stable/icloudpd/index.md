@@ -14,7 +14,10 @@ iCloudPD, syncs photos from iDevices to a single directory on TrueNAS.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

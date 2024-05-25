@@ -16,7 +16,10 @@ WeKan - Open Source kanban
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ A self-hosted blogging platform in which posts are written in markdown
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

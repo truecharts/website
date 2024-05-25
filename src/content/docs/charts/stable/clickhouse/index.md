@@ -15,7 +15,10 @@ ClickHouse is a column-oriented database management system (DBMS) for online ana
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

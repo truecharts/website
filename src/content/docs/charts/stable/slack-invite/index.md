@@ -15,7 +15,10 @@ Creates a simple webpage for Slack invite signups
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

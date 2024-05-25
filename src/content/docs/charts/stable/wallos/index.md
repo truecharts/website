@@ -15,7 +15,10 @@ Wallos - Self Hosted Subscription tracker
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

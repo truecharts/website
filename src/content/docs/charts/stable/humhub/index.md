@@ -15,7 +15,10 @@ A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Commento++ is a free, open source, fast & lightweight comments box that you can 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

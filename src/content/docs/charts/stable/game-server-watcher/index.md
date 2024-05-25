@@ -16,7 +16,10 @@ A simple discord/telegram/slack bot to monitor your game servers and players in 
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

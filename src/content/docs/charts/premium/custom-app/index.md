@@ -14,7 +14,10 @@ Advanced tool to create your own TrueCharts-based Charts
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ A custom SteamCMD chart that runs ArkSE.
 
 - [**Community Guide**](./community_guide)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

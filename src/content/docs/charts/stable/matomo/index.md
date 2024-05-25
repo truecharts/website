@@ -16,7 +16,10 @@ Matomo is the leading Free/Libre open analytics platform
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

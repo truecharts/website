@@ -14,7 +14,10 @@ Alternative Imgur front-end
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

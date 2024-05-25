@@ -16,7 +16,10 @@ Skyrim Together Reborn server files.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

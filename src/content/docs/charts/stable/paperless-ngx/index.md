@@ -17,7 +17,10 @@ Paperless-ngx is an application by Daniel Quinn and contributors that indexes yo
 
 - [**Setup Guide**](./how-to)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ A highly customizable homepage
 
 - [**Homepage TrueCharts Integration Guide**](./hp-integration)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

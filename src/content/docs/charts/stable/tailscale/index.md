@@ -16,7 +16,10 @@ Tailscale lets you connect your devices and users together in your own secure vi
 
 - [**How-To**](./how-to-guide)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

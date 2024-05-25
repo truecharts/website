@@ -15,7 +15,10 @@ A custom SteamCMD chart that runs CS2.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

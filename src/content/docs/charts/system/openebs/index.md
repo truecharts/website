@@ -16,7 +16,10 @@ OpenEBS is a umbrella chart for multiple container storage provisioners
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

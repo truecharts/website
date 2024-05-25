@@ -15,7 +15,10 @@ This tool will help manage tedious tasks in qBittorrent and automate them. Tag, 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

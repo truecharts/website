@@ -14,7 +14,10 @@ Official SongKong Chart repository, Identify your songs and add metadata and art
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Xen-Orchestra is a Web-UI for managing your existing XenServer infrastructure.
 
 - [**Default credentials**](./credentials)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

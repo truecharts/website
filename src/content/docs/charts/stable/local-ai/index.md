@@ -15,7 +15,10 @@ Self-hosted, community-driven, local OpenAI-compatible API.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

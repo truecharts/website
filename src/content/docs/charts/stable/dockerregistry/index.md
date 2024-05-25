@@ -16,7 +16,10 @@ Docker Registry is used to store and distribute Docker images using HTTP API. Th
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

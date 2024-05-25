@@ -16,7 +16,10 @@ A Tiny Dashboard for Network UPS Tools.
 
 - [**Installation Notes**](./installation-notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ RSS-proxy 2+ allows you to do create an ATOM or JSON feed of almost static/dynam
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

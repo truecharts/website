@@ -15,7 +15,10 @@ Web-based IRC client in Go.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

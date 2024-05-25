@@ -15,7 +15,10 @@ Play games with your friends right from the browser.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

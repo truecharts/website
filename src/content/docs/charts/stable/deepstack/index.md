@@ -17,7 +17,10 @@ DeepStack AI provides AI features including Face Recognition, Object Detection, 
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ MediaGoblin is a free software media publishing platform that anyone can run. Yo
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

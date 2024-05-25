@@ -16,7 +16,10 @@ A self-hosted data logger for your Tesla
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

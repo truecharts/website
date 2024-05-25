@@ -15,7 +15,10 @@ An organizer for your porn, written in Go
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

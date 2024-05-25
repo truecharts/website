@@ -16,7 +16,10 @@ A complete web based IDE with terminal access
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

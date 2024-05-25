@@ -16,7 +16,10 @@ FileBot is the ultimate tool for organizing and renaming your movies, tv shows o
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ Make documentation a joy to write using Wiki.js's beautiful and intuitive interf
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

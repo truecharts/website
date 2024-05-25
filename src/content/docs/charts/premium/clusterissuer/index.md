@@ -18,7 +18,10 @@ Certificate management for Kubernetes
 - [**clusterissuer Setup Guide**](./how-to)
 - [**Input Validation**](./validation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

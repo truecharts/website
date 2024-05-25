@@ -16,7 +16,10 @@ Simple text sharing
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

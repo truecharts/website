@@ -15,7 +15,10 @@ PASTA - Audio and Subtitle Track Changer for Plex
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

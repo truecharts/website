@@ -15,7 +15,10 @@ An awesome, Online Office suite image suitable for home use.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

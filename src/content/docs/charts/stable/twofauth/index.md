@@ -15,7 +15,10 @@ A Web app to manage your 2FA accounts and generate their security codes.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

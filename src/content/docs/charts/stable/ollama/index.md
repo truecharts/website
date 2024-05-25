@@ -18,7 +18,10 @@ Get up and running with large language models locally.
 
 - [**Default credentials**](./credentials)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

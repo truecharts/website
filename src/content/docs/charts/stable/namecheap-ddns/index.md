@@ -15,7 +15,10 @@ This simple Chart will update a namecheap dynamic dns domain. You must set an 'A
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ An Application dashboard and launcher
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

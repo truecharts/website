@@ -15,7 +15,10 @@ An alternative private front-end to Reddit
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ dash. (or dashdot) is a modern server dashboard, running on the latest tech, des
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

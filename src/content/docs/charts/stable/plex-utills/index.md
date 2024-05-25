@@ -15,7 +15,10 @@ A utility to help manage your library.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

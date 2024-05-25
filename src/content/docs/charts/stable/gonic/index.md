@@ -15,7 +15,10 @@ Music streaming server / subsonic server API implementation
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Open source, self-hostable watched list
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

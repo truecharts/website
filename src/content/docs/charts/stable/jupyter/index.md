@@ -22,7 +22,10 @@ Jupyter a web based IDE
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

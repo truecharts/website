@@ -15,7 +15,10 @@ bWAPP, or a buggy web application, is a free and open source deliberately insecu
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

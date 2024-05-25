@@ -15,7 +15,10 @@ Android in Chart solution with noVNC supported and video recording. Work way bet
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

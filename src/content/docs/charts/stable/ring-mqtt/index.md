@@ -16,7 +16,10 @@ Interact with Ring Inc products (cameras/alarms/smart lighting) via MQTT.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

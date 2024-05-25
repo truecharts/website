@@ -15,7 +15,10 @@ Search Engine Position Tracking App.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

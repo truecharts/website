@@ -16,7 +16,10 @@ A comics/mangas server to serve/stream pages via API
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

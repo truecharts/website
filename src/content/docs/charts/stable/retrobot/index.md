@@ -15,7 +15,10 @@ A discord bot that allows you to play old nintendo games with your friends over 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

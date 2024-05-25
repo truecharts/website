@@ -14,7 +14,10 @@ This is a Basic STUN & TURN server that was mainly created for Nextcloud Talk.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

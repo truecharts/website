@@ -14,7 +14,10 @@ This Chart will download and install SteamCMD. It will also install ArmA III inc
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Semaphore is a modern, open source alternative to Ansible Tower. It is a self-ho
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

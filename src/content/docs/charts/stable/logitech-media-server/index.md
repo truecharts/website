@@ -15,7 +15,10 @@ Logitech Media Server is a platform for home/office audio streaming.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

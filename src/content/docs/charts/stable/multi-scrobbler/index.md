@@ -14,7 +14,10 @@ Track your music listening history from many sources and record to many scrobble
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

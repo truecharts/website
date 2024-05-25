@@ -15,7 +15,10 @@ Proxy is in quotes because I couldn't think of a better name. There is nothing o
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

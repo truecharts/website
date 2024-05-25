@@ -15,7 +15,10 @@ Business intelligence, dashboards, and data visualization tools
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

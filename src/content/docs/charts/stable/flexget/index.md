@@ -15,7 +15,10 @@ FlexGet is a multipurpose automation tool for all of your media
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

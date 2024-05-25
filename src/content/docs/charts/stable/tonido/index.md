@@ -15,7 +15,10 @@ Tonido Server allows you to access all your files on your computer from a web br
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

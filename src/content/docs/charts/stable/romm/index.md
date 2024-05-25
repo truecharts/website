@@ -16,7 +16,10 @@ game library manager focused in retro gaming
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

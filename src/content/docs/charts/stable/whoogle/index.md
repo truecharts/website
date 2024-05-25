@@ -15,7 +15,10 @@ A self-hosted, ad-free, privacy-respecting metasearch engine
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

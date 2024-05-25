@@ -15,7 +15,10 @@ TinyMediaManager is a full featured media manager to organize and clean up your 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

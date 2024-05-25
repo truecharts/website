@@ -16,7 +16,10 @@ An automatic Video Library Manager for TV Shows
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

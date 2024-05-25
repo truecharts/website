@@ -15,7 +15,10 @@ Open source DocuSign alternative. Create, fill, and sign digital documents.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

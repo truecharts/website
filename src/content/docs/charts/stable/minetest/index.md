@@ -14,7 +14,10 @@ Minetest (server) is a near-infinite-world block sandbox game and a game engine.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

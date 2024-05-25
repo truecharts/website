@@ -15,7 +15,10 @@ Chart with qBittorrent and the Flood UI.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

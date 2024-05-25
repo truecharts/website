@@ -15,7 +15,10 @@ Chronograf is InfluxData’s open source web application. Use Chronograf with th
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

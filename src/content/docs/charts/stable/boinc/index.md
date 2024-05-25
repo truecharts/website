@@ -14,7 +14,10 @@ BOINC is a platform for high-throughput computing on a large scale (thousands or
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

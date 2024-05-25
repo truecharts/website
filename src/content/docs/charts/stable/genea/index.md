@@ -15,7 +15,10 @@ Genea allows visually building and editing a family tree online. It consumes and
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

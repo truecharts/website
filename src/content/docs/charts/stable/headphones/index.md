@@ -16,7 +16,10 @@ An automated music downloader for NZB and Torrent, written in Python. It support
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

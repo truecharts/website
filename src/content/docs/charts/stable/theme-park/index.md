@@ -15,7 +15,10 @@ Custom themes for your favorite apps!
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

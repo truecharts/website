@@ -18,7 +18,10 @@ Webtop full desktop environments in officially supported flavors accessible via 
 
 - [**Default credentials**](./credentials)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

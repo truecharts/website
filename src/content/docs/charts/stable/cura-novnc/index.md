@@ -15,7 +15,10 @@ Enjoy Cura directly in your browser with this easy to use Chart
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

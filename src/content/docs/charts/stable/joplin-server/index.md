@@ -17,7 +17,10 @@ Allows you to sync any Joplin client.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

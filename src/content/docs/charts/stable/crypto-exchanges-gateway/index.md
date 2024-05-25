@@ -15,7 +15,10 @@ Your gateway to the world of crypto
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

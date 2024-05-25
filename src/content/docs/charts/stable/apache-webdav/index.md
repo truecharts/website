@@ -16,7 +16,10 @@ Very simple WebDAV server based on Apache. You need a WebDAV client to transfer 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

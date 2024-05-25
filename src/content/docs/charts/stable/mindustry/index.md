@@ -15,7 +15,10 @@ This is a Basic Mindustry Server. It will download the preferred version of Mind
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

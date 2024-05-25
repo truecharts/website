@@ -16,7 +16,10 @@ SheetAble is an easy to use music sheet organiser for all the music enthusiasts 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

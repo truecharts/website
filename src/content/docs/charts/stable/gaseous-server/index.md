@@ -15,7 +15,10 @@ A game ROM manager using multiple sources to identify and provide metadata.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

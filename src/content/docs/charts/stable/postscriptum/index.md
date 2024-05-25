@@ -15,7 +15,10 @@ This Chart will download and install SteamCMD. It will also install PostScriptum
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

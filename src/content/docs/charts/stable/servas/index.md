@@ -15,7 +15,10 @@ A self-hosted bookmark management tool.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

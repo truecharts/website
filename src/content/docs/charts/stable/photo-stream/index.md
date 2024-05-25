@@ -15,7 +15,10 @@ Photo Stream is a simpler home for your photos. Easy to use, self hosted, no tra
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

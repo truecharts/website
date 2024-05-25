@@ -15,7 +15,10 @@ Flame is self-hosted start page for your server. Easily manage your apps and boo
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

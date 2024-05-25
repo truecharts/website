@@ -15,7 +15,10 @@ The Lounge, modern web IRC client designed for self-hosting
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

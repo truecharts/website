@@ -15,7 +15,10 @@ ErsatzTV configuring and streaming custom live channels using your media library
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

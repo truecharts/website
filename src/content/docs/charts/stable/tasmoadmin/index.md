@@ -15,7 +15,10 @@ A administrative platform for devices flashed with Tasmota.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

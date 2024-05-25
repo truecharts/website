@@ -17,7 +17,10 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

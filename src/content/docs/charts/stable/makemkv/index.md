@@ -16,7 +16,10 @@ MakeMKV is your one-click solution to convert video that you own into free and p
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

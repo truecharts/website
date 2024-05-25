@@ -15,7 +15,10 @@ A simple, self-hosted, encrypted Markdown note-taking app built with Vue 3, and 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

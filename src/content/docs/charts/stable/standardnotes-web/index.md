@@ -15,7 +15,10 @@ A safe and private place for your life's work.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

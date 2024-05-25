@@ -19,7 +19,10 @@ Authelia is a Single Sign-On Multi-Factor portal for web apps
 - [**Authelia Rules**](./authelia-rules)
 - [**Input Validation**](./validation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ PWM is a free and opensource password self-service application enabling end-user
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

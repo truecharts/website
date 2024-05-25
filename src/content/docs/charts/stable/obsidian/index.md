@@ -16,7 +16,10 @@ A knowledge base that works on local Markdown files.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

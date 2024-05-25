@@ -14,7 +14,10 @@ The Bitcoin Unlimited project seeks to provide a voice to all stakeholders in th
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

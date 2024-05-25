@@ -15,7 +15,10 @@ A Python based monitoring and tracking tool for Plex Media Server
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

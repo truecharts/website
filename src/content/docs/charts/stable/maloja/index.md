@@ -15,7 +15,10 @@ Self-hosted music scrobble database to create personal listening statistics and 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ P2P file synchronization application
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

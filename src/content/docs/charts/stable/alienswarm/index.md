@@ -15,7 +15,10 @@ This Chart will download and install SteamCMD. It will also install Alien Swarm 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

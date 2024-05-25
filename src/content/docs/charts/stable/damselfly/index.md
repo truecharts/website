@@ -15,7 +15,10 @@ Damselfly is a server-based Digital Asset Management system.  The goal of Damsel
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

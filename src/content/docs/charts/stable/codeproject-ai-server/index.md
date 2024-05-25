@@ -15,7 +15,10 @@ A standalone, self-hosted, fast, free and Open Source Artificial Intelligence mi
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ A automatic user invitation system for Plex.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

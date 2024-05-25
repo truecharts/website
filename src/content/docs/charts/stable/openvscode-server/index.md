@@ -14,7 +14,10 @@ Openvscode-server provides a version of VS Code that runs a server on a remote m
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ Easy platform to combine all your social links
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

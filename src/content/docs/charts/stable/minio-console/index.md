@@ -15,7 +15,10 @@ A management console for minio server and operator
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

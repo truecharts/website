@@ -15,7 +15,10 @@ sd-webui-docker Chart
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

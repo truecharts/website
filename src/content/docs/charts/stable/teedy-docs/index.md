@@ -15,7 +15,10 @@ Teedy is an open-source, lightweight document management system (DMS) for indivi
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

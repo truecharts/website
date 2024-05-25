@@ -15,7 +15,10 @@ Protect your email from spam using disposable addresses.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

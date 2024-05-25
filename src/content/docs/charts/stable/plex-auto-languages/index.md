@@ -16,7 +16,10 @@ Automated language selection for Plex TV Shows.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -17,7 +17,10 @@ Traefik-CRDs contains the CRD's for Traefik
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -16,7 +16,10 @@ A Modern Deluge Interface.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

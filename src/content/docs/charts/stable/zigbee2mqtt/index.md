@@ -16,7 +16,10 @@ Bridges events and allows you to control your Zigbee devices via MQTT
 
 - [**Installation Guide**](./installation)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

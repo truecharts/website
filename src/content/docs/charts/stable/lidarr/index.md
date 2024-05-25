@@ -16,7 +16,10 @@ Looks and smells like Sonarr but made for music
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -14,7 +14,10 @@ HedgeDoc lets you create real-time collaborative markdown notes.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

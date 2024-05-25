@@ -16,7 +16,10 @@ Whisper is a general-purpose speech recognition model.
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

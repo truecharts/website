@@ -15,7 +15,10 @@ This is a simple Chart that downloads files sent to a telegram bot up to 2000mb 
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

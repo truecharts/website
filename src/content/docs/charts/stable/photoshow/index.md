@@ -16,7 +16,10 @@ A gallery software at its easiest, it doesn't even require a database.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ This Chart will download and install SteamCMD. It will also install PIXARK and r
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

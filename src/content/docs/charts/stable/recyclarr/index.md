@@ -17,7 +17,10 @@ A command-line application that will automatically synchronize recommended setti
 
 - [**Installation Notes**](./installation_notes)
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info

@@ -15,7 +15,10 @@ Valetudo-RE companion service for generating PNG maps.
 ## Available Documentation
 
 
-## Readme Content
+
+---
+
+## Readme
 
 
 ### General Info
