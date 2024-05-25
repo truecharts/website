@@ -18,7 +18,9 @@ title: credentials
 - `$FullName-$credentialsName` (release-name-chart-name-credentials-name)
 
 :::tip
+
 - Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ---
@@ -27,13 +29,13 @@ title: credentials
 
 Create credentials objects
 
-|            |             |
-| ---------- | ----------- |
+|            |               |
+| ---------- | ------------- |
 | Key        | `credentials` |
-| Type       | `map`       |
-| Required   | ❌          |
-| Helm `tpl` | ❌          |
-| Default    | `{}`        |
+| Type       | `map`         |
+| Required   | ❌            |
+| Helm `tpl` | ❌            |
+| Default    | `{}`          |
 
 Example
 
@@ -47,13 +49,13 @@ credentials: {}
 
 Define credentials
 
-|            |                   |
-| ---------- | ----------------- |
+|            |                     |
+| ---------- | ------------------- |
 | Key        | `credentials.$name` |
-| Type       | `map`             |
-| Required   | ✅                |
-| Helm `tpl` | ❌                |
-| Default    | `{}`              |
+| Type       | `map`               |
+| Required   | ✅                  |
+| Helm `tpl` | ❌                  |
+| Default    | `{}`                |
 
 Example
 
@@ -68,13 +70,13 @@ credentials:
 
 Define the type of the credentials
 
-|            |                        |
-| ---------- | ---------------------- |
+|            |                          |
+| ---------- | ------------------------ |
 | Key        | `credentials.$name.type` |
-| Type       | `string`                  |
-| Required   | ✅                     |
-| Helm `tpl` | ❌                     |
-| Example    | `s3`                   |
+| Type       | `string`                 |
+| Required   | ✅                       |
+| Helm `tpl` | ❌                       |
+| Example    | `s3`                     |
 
 ```yaml
 credentials:
@@ -88,13 +90,13 @@ credentials:
 
 Define the url of the credentials
 
-|            |                        |
-| ---------- | ---------------------- |
-| Key        | `credentials.$name.url` |
-| Type       | `string`                  |
-| Required   | ✅                     |
-| Helm `tpl` | ❌                     |
-| Example    | `https://mys3server.com`                   |
+|            |                          |
+| ---------- | ------------------------ |
+| Key        | `credentials.$name.url`  |
+| Type       | `string`                 |
+| Required   | ✅                       |
+| Helm `tpl` | ❌                       |
+| Example    | `https://mys3server.com` |
 
 ```yaml
 credentials:
@@ -108,13 +110,13 @@ credentials:
 
 Define the optional path-override of the credentials
 
-|            |                        |
-| ---------- | ---------------------- |
+|            |                          |
+| ---------- | ------------------------ |
 | Key        | `credentials.$name.path` |
-| Type       | `string`                  |
-| Required   | ❌                     |
-| Helm `tpl` | ❌                     |
-| Example    | `/somecustompath`                   |
+| Type       | `string`                 |
+| Required   | ❌                       |
+| Helm `tpl` | ❌                       |
+| Example    | `/somecustompath`        |
 
 ```yaml
 credentials:
@@ -128,13 +130,13 @@ credentials:
 
 Define the bucket of the credentials
 
-|            |                        |
-| ---------- | ---------------------- |
+|            |                            |
+| ---------- | -------------------------- |
 | Key        | `credentials.$name.bucket` |
-| Type       | `string`                  |
-| Required   | ✅                     |
-| Helm `tpl` | ❌                     |
-| Example    | `mybucket`                   |
+| Type       | `string`                   |
+| Required   | ✅                         |
+| Helm `tpl` | ❌                         |
+| Example    | `mybucket`                 |
 
 ```yaml
 credentials:
@@ -148,13 +150,13 @@ credentials:
 
 Define the accessKey of the credentials
 
-|            |                        |
-| ---------- | ---------------------- |
+|            |                               |
+| ---------- | ----------------------------- |
 | Key        | `credentials.$name.accessKey` |
-| Type       | `string`                  |
-| Required   | ✅                     |
-| Helm `tpl` | ❌                     |
-| Example    | `mysecretaccesskey`                   |
+| Type       | `string`                      |
+| Required   | ✅                            |
+| Helm `tpl` | ❌                            |
+| Example    | `mysecretaccesskey`           |
 
 ```yaml
 credentials:
@@ -168,13 +170,13 @@ credentials:
 
 Define the secretKey of the credentials
 
-|            |                        |
-| ---------- | ---------------------- |
+|            |                               |
+| ---------- | ----------------------------- |
 | Key        | `credentials.$name.secretKey` |
-| Type       | `string`                  |
-| Required   | ✅                     |
-| Helm `tpl` | ❌                     |
-| Example    | `mysecretkey`                   |
+| Type       | `string`                      |
+| Required   | ✅                            |
+| Helm `tpl` | ❌                            |
+| Example    | `mysecretkey`                 |
 
 ```yaml
 credentials:
@@ -188,13 +190,13 @@ credentials:
 
 Define the encryption key of the credentials when needed
 
-|            |                        |
-| ---------- | ---------------------- |
+|            |                             |
+| ---------- | --------------------------- |
 | Key        | `credentials.$name.encrKey` |
-| Type       | `string`                  |
-| Required   | ✅                     |
-| Helm `tpl` | ❌                     |
-| Example    | `myencryptionkey`                   |
+| Type       | `string`                    |
+| Required   | ✅                          |
+| Helm `tpl` | ❌                          |
+| Example    | `myencryptionkey`           |
 
 ```yaml
 credentials:
