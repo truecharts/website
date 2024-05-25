@@ -43,12 +43,6 @@ jobs:
           # This is needed for the "last updated" field to update correctly.
           fetch-depth: 1
 
-      - name: Install cwebp
-        shell: bash
-        run: |
-          sudo apt-get update
-          sudo apt-get install webp -y
-
       - name: Prefetch contributor icons
         shell: bash
         run: |
