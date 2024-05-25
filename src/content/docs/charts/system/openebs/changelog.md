@@ -1,0 +1,448 @@
+---
+title: Changelog
+pagefind: false
+---
+
+## 6.0.1 - (Train: system)
+
+- Update Chart.yaml ([3a21b79617f1e4eebfcec50393a6725633c2db8f](https://github.com/truecharts/charts/commit/3a21b79617f1e4eebfcec50393a6725633c2db8f)) - [@Kjeld Schouten] (2024-05-19)
+
+## 6.0.0 - (Train: system)
+
+- chore!(openEBS): BREAKING CHANGE disable pvc encryption by default ([a16c3ebad0c2c458dfb39d92e36371dfc0b44050](https://github.com/truecharts/charts/commit/a16c3ebad0c2c458dfb39d92e36371dfc0b44050)) - [@Kjeld Schouten] (2024-05-04)
+
+## 5.1.2 - (Train: system)
+
+- Update Chart.yaml ([8ce328a0e285a4c5f73c4c0080674f537678bdb0](https://github.com/truecharts/charts/commit/8ce328a0e285a4c5f73c4c0080674f537678bdb0)) - [@Kjeld Schouten] (2024-05-02)
+
+## 5.1.1 - (Train: system)
+
+- chore: bump common to release improved checks on volsync and cnpg (#21454) ([afc5e7eafa19a1b65a13d021fedf7510b485bd13](https://github.com/truecharts/charts/commit/afc5e7eafa19a1b65a13d021fedf7510b485bd13)) - [@Kjeld Schouten] (2024-05-01)
+
+## 5.1.0 - (Train: system)
+
+- feat(OpenEBS): Add ZFS SnapshotClass (#21449) ([9a758f2ee45b64da3e667ffbe1079b25e6e7a4fc](https://github.com/truecharts/charts/commit/9a758f2ee45b64da3e667ffbe1079b25e6e7a4fc)) - [@Kjeld Schouten] (2024-04-30)
+
+## 5.0.3 - (Train: system)
+
+- chore: bump common ([9abc20d845b02c347dddd0a6c2f13af10aad3a22](https://github.com/truecharts/charts/commit/9abc20d845b02c347dddd0a6c2f13af10aad3a22)) - [@Kjeld Schouten] (2024-04-29)
+
+## 5.0.2 - (Train: system)
+
+- fix: fixup all chart volsync/credentials settings ([20f2fe834207c83906a9a505cce8c45aee76d2ed](https://github.com/truecharts/charts/commit/20f2fe834207c83906a9a505cce8c45aee76d2ed)) - [@Kjeld Schouten] (2024-04-29)
+
+## 5.0.1 - (Train: system)
+
+- fix: adapt for common cnpg/volsync pathing changes (#21445) ([c3c0b3bc461923373054d678abb33e1426bb213f](https://github.com/truecharts/charts/commit/c3c0b3bc461923373054d678abb33e1426bb213f)) - [@Kjeld Schouten] (2024-04-29)
+
+## 5.0.0 - (Train: system)
+
+- feat: Add VolSync support and move CNPG backup credentials on SCALE (#21443) ([02e10381acd4056399f58c8c160610c9c6c79743](https://github.com/truecharts/charts/commit/02e10381acd4056399f58c8c160610c9c6c79743)) - [@Kjeld Schouten] (2024-04-29)
+
+## 4.4.3 - (Train: system)
+
+- chore(deps): update ignored by renovate (patch) (#21171) ([427ba6aa3b87a4e068919c234c71227ef34d5ea6](https://github.com/truecharts/charts/commit/427ba6aa3b87a4e068919c234c71227ef34d5ea6)) - [@TrueCharts Bot] (2024-04-26)
+
+## 4.4.2 - (Train: system)
+
+- chore(openebs): push (temporary) hotfix for questions blocking update ([06b61ec2994bf763b0020c8b388236c2fe9204eb](https://github.com/truecharts/charts/commit/06b61ec2994bf763b0020c8b388236c2fe9204eb)) - [@Kjeld Schouten] (2024-04-26)
+
+## 4.4.1 - (Train: system)
+
+- Update Chart.yaml ([ea4548989bb7e1181b4ddb4a05c090a38d5db590](https://github.com/truecharts/charts/commit/ea4548989bb7e1181b4ddb4a05c090a38d5db590)) - [@Kjeld Schouten] (2024-04-25)
+
+## 4.3.12 - (Train: system)
+
+- feat(openebs): poolname input validation (#21277) ([e5e6b9728df48cb0ed7fc80538ecc382cb157030](https://github.com/truecharts/charts/commit/e5e6b9728df48cb0ed7fc80538ecc382cb157030)) - [@ksimm1] (2024-04-24)
+
+## 4.3.11 - (Train: system)
+
+- Update Chart.yaml ([082da3907060122e2cebb3407215d0e363c86ce3](https://github.com/truecharts/charts/commit/082da3907060122e2cebb3407215d0e363c86ce3)) - [@Kjeld Schouten] (2024-04-22)
+
+## 4.3.10 - (Train: system)
+
+- chore: bump everything to release new doc pages ([b4f0331ba851a4cd2f92289a1026f50684dc291d](https://github.com/truecharts/charts/commit/b4f0331ba851a4cd2f92289a1026f50684dc291d)) - [@Kjeld Schouten] (2024-04-21)
+
+## 4.3.9 - (Train: system)
+
+- chore: update groups html (#21121) ([b5036ed2aab9d010274c7ce81064fbfe52328865](https://github.com/truecharts/charts/commit/b5036ed2aab9d010274c7ce81064fbfe52328865)) - [@Kjeld Schouten] (2024-04-21)
+
+## 4.3.8 - (Train: system)
+
+- chore: bump charts to release new docs to fix broken links ([2e05d3ccd87b00109f963c13817e3447bd123563](https://github.com/truecharts/charts/commit/2e05d3ccd87b00109f963c13817e3447bd123563)) - [@Kjeld Schouten] (2024-04-21)
+
+## 4.3.7 - (Train: system)
+
+- chore: bump everything to regenerate readme&#39;s and site index ([c850d0cfb31f34e07152f112b972241d1781debc](https://github.com/truecharts/charts/commit/c850d0cfb31f34e07152f112b972241d1781debc)) - [@Kjeld Schouten] (2024-04-21)
+
+## 4.3.6 - (Train: system)
+
+- Chore: rework SCALE catagories/groups to match helm and remove deprecated charts (#21111) ([a66fd3357bcce17e7f21716949d7e5513b189061](https://github.com/truecharts/charts/commit/a66fd3357bcce17e7f21716949d7e5513b189061)) - [@Kjeld Schouten] (2024-04-21)
+
+## 4.3.4 - (Train: system)
+
+- chore(deps): update ignored updates to v20.3.11@dae6129 by renovate (#21059) ([f7ba60c8ffac54cfed0b66b3789b09184ff21e61](https://github.com/truecharts/charts/commit/f7ba60c8ffac54cfed0b66b3789b09184ff21e61)) - [@TrueCharts Bot] (2024-04-20)
+
+## 4.3.3 - (Train: system)
+
+- chore(deps): update ignored updates to v20.3.10@c2f262c by renovate (#21034) ([aefa5aabc6e45d11fe9ac0d8c4c6c05307a4fc1f](https://github.com/truecharts/charts/commit/aefa5aabc6e45d11fe9ac0d8c4c6c05307a4fc1f)) - [@TrueCharts Bot] (2024-04-20)
+
+## 4.3.2 - (Train: system)
+
+- Update Chart.yaml ([6d0613b57ff12e1c9da9af081d760a4ee0bc69a7](https://github.com/truecharts/charts/commit/6d0613b57ff12e1c9da9af081d760a4ee0bc69a7)) - [@Kjeld Schouten] (2024-04-18)
+
+## 4.3.1 - (Train: system)
+
+- Update Chart.yaml ([d3572632bb874d38143e57daaa93fad54ced6784](https://github.com/truecharts/charts/commit/d3572632bb874d38143e57daaa93fad54ced6784)) - [@Kjeld Schouten] (2024-04-18)
+
+## 4.3.0 - (Train: system)
+
+- chore(deps): update helm general minor by renovate (#20924) ([7e34abd306d3b9559f0661c79abc616bd8198e3b](https://github.com/truecharts/charts/commit/7e34abd306d3b9559f0661c79abc616bd8198e3b)) - [@TrueCharts Bot] (2024-04-18)
+
+## 4.2.5 - (Train: system)
+
+- chore(deps): update ignored updates to v20.3.9@370bb36 by renovate (#20917) ([50346c40728d7ac37094ec83a8036465aa4423de](https://github.com/truecharts/charts/commit/50346c40728d7ac37094ec83a8036465aa4423de)) - [@TrueCharts Bot] (2024-04-18)
+
+## 4.2.4 - (Train: system)
+
+- chore(openebs): revert and ignore for now ([e38373cbe89f9256c48d1fc986162ca07fae8e8e](https://github.com/truecharts/charts/commit/e38373cbe89f9256c48d1fc986162ca07fae8e8e)) - [@Stavros Kois] (2024-04-16)
+
+## 4.2.3 - (Train: system)
+
+- chore: bump charts to ensure new icons are released ([9828a1ef02a808a8855e6e17cf4b601a21a315f5](https://github.com/truecharts/charts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5)) - [@Kjeld Schouten] (2024-04-16)
+
+## 4.2.2 - (Train: system)
+
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) ([4413ae4d1cdd32a9d5f70d57f0c01e429ee90298](https://github.com/truecharts/charts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298)) - [@TrueCharts Bot] (2024-04-16)
+
+## 4.2.1 - (Train: system)
+
+- Webp icons2 (#20851) ([8b489f48bb8f4f6a01050a08ad544323375bce74](https://github.com/truecharts/charts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74)) - [@Kjeld Schouten] (2024-04-16)
+
+## 4.2.0 - (Train: system)
+
+- chore(deps): update helm general minor by renovate (#20849) ([6e284cce58d46003e627ce5afaeb7664d46d7b56](https://github.com/truecharts/charts/commit/6e284cce58d46003e627ce5afaeb7664d46d7b56)) - [@TrueCharts Bot] (2024-04-16)
+
+## 4.1.4 - (Train: system)
+
+- chore(deps): update container image common to v20.3.6@27edfed by renovate (#20599) ([6c807c1f9707d9fd751d71cbfed29469368880e2](https://github.com/truecharts/charts/commit/6c807c1f9707d9fd751d71cbfed29469368880e2)) - [@TrueCharts Bot] (2024-04-11)
+
+## 4.1.3 - (Train: system)
+
+- chore(deps): update container image common to v20.3.5@aedd88a by renovate (#20535) ([8ee51f80fa1423648d265a7431c80ca57d1792e2](https://github.com/truecharts/charts/commit/8ee51f80fa1423648d265a7431c80ca57d1792e2)) - [@TrueCharts Bot] (2024-04-10)
+
+## 4.1.2 - (Train: system)
+
+- chore(deps): update container image common to v20.3.4@d7e1b23 by renovate (#20527) ([5a02b410bdf32fa819a1cf8f7d277c11e7446b6e](https://github.com/truecharts/charts/commit/5a02b410bdf32fa819a1cf8f7d277c11e7446b6e)) - [@TrueCharts Bot] (2024-04-10)
+
+## 4.1.1 - (Train: system)
+
+- chore(deps): update container image common to v20.3.3@3876ba5 by renovate (#20478) ([204bb166ae637d01f18147c76523017cd428d1ed](https://github.com/truecharts/charts/commit/204bb166ae637d01f18147c76523017cd428d1ed)) - [@TrueCharts Bot] (2024-04-09)
+
+## 4.1.0 - (Train: system)
+
+- chore(deps): update container image common to v20.3.2@0722ebb by renovate (#20334) ([36a83081e8a2a0f9c0a7d36ae5398e55264c1798](https://github.com/truecharts/charts/commit/36a83081e8a2a0f9c0a7d36ae5398e55264c1798)) - [@TrueCharts Bot] (2024-04-08)
+
+## 4.0.6 - (Train: system)
+
+- chore(deps): update container image common to v20.2.10@6f99c97 by renovate (#19876) ([80c956e5bfc574f179ba2bb0bcd9bda044fd1bce](https://github.com/truecharts/charts/commit/80c956e5bfc574f179ba2bb0bcd9bda044fd1bce)) - [@TrueCharts Bot] (2024-03-30)
+
+## 4.0.5 - (Train: system)
+
+- Update Chart.yaml ([d7ce872b59a0add9d9a6c0aa77735853b5101945](https://github.com/truecharts/charts/commit/d7ce872b59a0add9d9a6c0aa77735853b5101945)) - [@Kjeld Schouten] (2024-03-27)
+
+## 4.0.4 - (Train: system)
+
+- Update Chart.yaml ([653e37569b8a5f638c8845907c9cfba384978ee4](https://github.com/truecharts/charts/commit/653e37569b8a5f638c8845907c9cfba384978ee4)) - [@Kjeld Schouten] (2024-03-27)
+
+## 4.0.3 - (Train: system)
+
+- Update Chart.yaml ([8e8580bf7c8f15ece0fe341886259affbbb89fd8](https://github.com/truecharts/charts/commit/8e8580bf7c8f15ece0fe341886259affbbb89fd8)) - [@Kjeld Schouten] (2024-03-27)
+
+## 4.0.2 - (Train: system)
+
+- chore(deps): update container image common to v20.2.9@10fd6c5 by renovate (#19817) ([604ffe1d5fb655bc1b4140413af6e6102dba73f0](https://github.com/truecharts/charts/commit/604ffe1d5fb655bc1b4140413af6e6102dba73f0)) - [@TrueCharts Bot] (2024-03-27)
+
+## 4.0.1 - (Train: system)
+
+- chore: ensure release is pushed ([a18ac06a691f5a7b58130ffe6ae091311dd97a46](https://github.com/truecharts/charts/commit/a18ac06a691f5a7b58130ffe6ae091311dd97a46)) - [@Kjeld Schouten] (2024-03-26)
+
+## 4.0.0 - (Train: system)
+
+- feat(openebs): BREAKING CHANGE make it an umbrella chart with multiple upstream dependencies (#19813) ([9ddfa525a6701bd26af8873c74de653b5d5d5cc1](https://github.com/truecharts/charts/commit/9ddfa525a6701bd26af8873c74de653b5d5d5cc1)) - [@Kjeld Schouten] (2024-03-26)
+
+## 3.7.5 - (Train: system)
+
+- chore(deps): update container image common to v20.2.4@f245f5c by renovate (#19731) ([3e362efda831d306fba75fd39ea764f689da95d8](https://github.com/truecharts/charts/commit/3e362efda831d306fba75fd39ea764f689da95d8)) - [@TrueCharts Bot] (2024-03-25)
+
+## 3.7.4 - (Train: system)
+
+- chore(deps): update container image common to v20.2.3@06e462e by renovate (#19673) ([042c249a9c3c7f8c7f921cf9ad7185e5293f9c73](https://github.com/truecharts/charts/commit/042c249a9c3c7f8c7f921cf9ad7185e5293f9c73)) - [@TrueCharts Bot] (2024-03-23)
+
+## 3.7.3 - (Train: system)
+
+- Update Chart.yaml ([ea6a397235b661fdb640082b98a818549db73932](https://github.com/truecharts/charts/commit/ea6a397235b661fdb640082b98a818549db73932)) - [@Kjeld Schouten] (2024-03-21)
+
+## 3.7.2 - (Train: system)
+
+- feat(openebs): BREAKING CHANGE (on scale) use zfs backend instead of localpath on scale (#19548) ([7d5d5b4dc4bf184d1b21c3fcbb7d6c33bba7de6d](https://github.com/truecharts/charts/commit/7d5d5b4dc4bf184d1b21c3fcbb7d6c33bba7de6d)) - [@Kjeld Schouten] (2024-03-20)
+
+## 3.7.1 - (Train: system)
+
+- chore(deps): update container image common to v20.2.2@f7d0b92 by renovate (#19432) ([b92ece325c4290d441d2fd9125c48345b45e9de5](https://github.com/truecharts/charts/commit/b92ece325c4290d441d2fd9125c48345b45e9de5)) - [@TrueCharts Bot] (2024-03-17)
+
+## 3.7.0 - (Train: system)
+
+- chore(deps): update container image common to v20.2.0@91ade87 by renovate (#19361) ([0c57a739be4013a451f86177c8e6e345b1887f8c](https://github.com/truecharts/charts/commit/0c57a739be4013a451f86177c8e6e345b1887f8c)) - [@TrueCharts Bot] (2024-03-16)
+
+## 3.6.0 - (Train: system)
+
+- chore(deps): update container image common to v20.1.5@dc867e0 by renovate (#19210) ([9b4385581f29e8b61fa23b5fbf2628116f02623f](https://github.com/truecharts/charts/commit/9b4385581f29e8b61fa23b5fbf2628116f02623f)) - [@TrueCharts Bot] (2024-03-16)
+
+## 3.5.4 - (Train: system)
+
+- chore(operator-train): rename `operator`-train to `system`-train ([a2655cf77a00ab933500299a0df7be204eb36fb2](https://github.com/truecharts/charts/commit/a2655cf77a00ab933500299a0df7be204eb36fb2)) - [@Kjeld Schouten] (2024-03-16)
+
+## 3.5.3 - (Train: operators)
+
+- feat(openebs/scale): Add GUI to set default storageclass location and disable device-based storageClass (#19191) ([3366c9d4c69fc8c3424f7f026bcf8735bc61e1a7](https://github.com/truecharts/charts/commit/3366c9d4c69fc8c3424f7f026bcf8735bc61e1a7)) - [@Kjeld Schouten] (2024-03-13)
+
+## 3.5.2 - (Train: operators)
+
+- chore(deps): update container image common to v20.0.9@caa8bac by renovate (#19179) ([b23990fe3601dd7bbd251d08f784a46500009c8d](https://github.com/truecharts/charts/commit/b23990fe3601dd7bbd251d08f784a46500009c8d)) - [@TrueCharts Bot] (2024-03-12)
+
+## 3.5.1 - (Train: operators)
+
+- chore(deps): update container image common to v20.0.8@021a874 by renovate (#19175) ([71b73628f79c554a337b09b6f3ceb130bac9ea2d](https://github.com/truecharts/charts/commit/71b73628f79c554a337b09b6f3ceb130bac9ea2d)) - [@TrueCharts Bot] (2024-03-12)
+
+## 3.5.0 - (Train: operators)
+
+- chore(deps): update container image common to v20.0.6@5f6c753 by renovate (#19131) ([bbaf6b82d1486d23f349f39907d4014e6bc5cdfd](https://github.com/truecharts/charts/commit/bbaf6b82d1486d23f349f39907d4014e6bc5cdfd)) - [@TrueCharts Bot] (2024-03-11)
+
+## 3.4.1 - (Train: operators)
+
+- chore: bump everything to trigger re-release ([36efb364247b25ab89f4241a27c57212d0cbbe28](https://github.com/truecharts/charts/commit/36efb364247b25ab89f4241a27c57212d0cbbe28)) - [@Kjeld Schouten] (2024-03-07)
+
+## 3.4.0 - (Train: operators)
+
+- chore(deps): update container image common to v19.0.0@eef2062 by renovate (#18956) ([1c234b646320f47edbe817927247acadf10e6f41](https://github.com/truecharts/charts/commit/1c234b646320f47edbe817927247acadf10e6f41)) - [@TrueCharts Bot] (2024-03-07)
+
+## 3.3.0 - (Train: operators)
+
+- chore(deps): update container image common to v18.2.0@9e8b7d4 by renovate (#18943) ([8653b9d3eb60d15ae41bce99ab686bf2992f17e2](https://github.com/truecharts/charts/commit/8653b9d3eb60d15ae41bce99ab686bf2992f17e2)) - [@TrueCharts Bot] (2024-03-06)
+
+## 3.2.3 - (Train: operators)
+
+- chore: bump everything to force helm release again ([f75398d0a2245d5cc44cb790017a89067b58df56](https://github.com/truecharts/charts/commit/f75398d0a2245d5cc44cb790017a89067b58df56)) - [@Kjeld Schouten] (2024-03-05)
+
+## 3.2.2 - (Train: operators)
+
+- chore: force rereleases ([5bde36f1f7e5a732ddba58fa7b4299e2bcdb2562](https://github.com/truecharts/charts/commit/5bde36f1f7e5a732ddba58fa7b4299e2bcdb2562)) - [@Kjeld Schouten] (2024-03-05)
+
+## 3.2.1 - (Train: operators)
+
+- chore(deps): update container image common to v18.1.6@904d84b by renovate (#18835) ([322a76d62881c16f2f27bad55174d71e51a07197](https://github.com/truecharts/charts/commit/322a76d62881c16f2f27bad55174d71e51a07197)) - [@TrueCharts Bot] (2024-03-05)
+
+## 3.2.0 - (Train: operators)
+
+- chore(deps): update container image common to v18.1.2@2239145 by renovate (#18726) ([22611907f8355285dc65a5fa31e2917e5fd76e71](https://github.com/truecharts/charts/commit/22611907f8355285dc65a5fa31e2917e5fd76e71)) - [@TrueCharts Bot] (2024-02-29)
+
+## 3.1.3 - (Train: operators)
+
+- chore(deps): update container image common to v18.0.3@3f3170c by renovate (#18664) ([eb6ece6923050f017bf8fa56d3bbce1ca6644d2e](https://github.com/truecharts/charts/commit/eb6ece6923050f017bf8fa56d3bbce1ca6644d2e)) - [@TrueCharts Bot] (2024-02-26)
+
+## 3.1.2 - (Train: operators)
+
+- chore: bump everything to fix intel gpu issues ([242d2b35a87b467e503011e010eaef4b5ae48a98](https://github.com/truecharts/charts/commit/242d2b35a87b467e503011e010eaef4b5ae48a98)) - [@Kjeld Schouten] (2024-02-25)
+
+## 3.1.1 - (Train: operators)
+
+- chore(deps): update container image common to v18.0.2@f8f7e1f by renovate (#18550) ([2685cdfcaa1efce05bbdf1f63926a182d8bfaf0b](https://github.com/truecharts/charts/commit/2685cdfcaa1efce05bbdf1f63926a182d8bfaf0b)) - [@TrueCharts Bot] (2024-02-24)
+
+## 3.1.0 - (Train: operators)
+
+- chore(deps): update container image common to v18.0.1@f7c035f by renovate (#18506) ([c6472b278f8c4ec59a57e2f8d960b24b9aee1672](https://github.com/truecharts/charts/commit/c6472b278f8c4ec59a57e2f8d960b24b9aee1672)) - [@TrueCharts Bot] (2024-02-24)
+
+## 3.0.0 - (Train: operators)
+
+- chore: BREAKING CHANGE remove SCALE-GPU GUI support in favor of custom-GPU GUI ([e2ec0b02c6202c43cc19f4c4ad047025985ebb51](https://github.com/truecharts/charts/commit/e2ec0b02c6202c43cc19f4c4ad047025985ebb51)) - [@Kjeld Schouten] (2024-02-24)
+
+## 2.3.0 - (Train: operators)
+
+- chore(deps): update container image common to v17.5.0@c10ebfb by renovate (#18408) ([a2db01abe5f3ef5b6a48983ae0bf10155ba69e88](https://github.com/truecharts/charts/commit/a2db01abe5f3ef5b6a48983ae0bf10155ba69e88)) - [@TrueCharts Bot] (2024-02-22)
+
+## 2.2.1 - (Train: operators)
+
+- Update Chart.yaml ([8e2d41841cdfdf266b760f544439ac0f63c14020](https://github.com/truecharts/charts/commit/8e2d41841cdfdf266b760f544439ac0f63c14020)) - [@Kjeld Schouten] (2024-02-21)
+
+## 2.2.0 - (Train: operators)
+
+- chore(deps): update container image common to v17.4.2@faeebbc by renovate (#18175) ([32af56cd0b1122ce2b5aaff24ebe0ecc68767005](https://github.com/truecharts/charts/commit/32af56cd0b1122ce2b5aaff24ebe0ecc68767005)) - [@TrueCharts Bot] (2024-02-17)
+
+## 2.1.16 - (Train: operators)
+
+- chore(deps): update container image tccr.io/tccr/alpine to latest@ade0065 by renovate (#18108) ([c9834e5443401ba2fcf6cd62e4da617f44c153be](https://github.com/truecharts/charts/commit/c9834e5443401ba2fcf6cd62e4da617f44c153be)) - [@TrueCharts Bot] (2024-02-12)
+
+## 2.1.15 - (Train: operators)
+
+- chore(deps): update container image common to v17.2.30@19ad5ec by renovate (#17804) ([dcec5bf3c2e6cda3ea3545eeb778b32a223ec840](https://github.com/truecharts/charts/commit/dcec5bf3c2e6cda3ea3545eeb778b32a223ec840)) - [@TrueCharts Bot] (2024-02-03)
+
+## 2.1.14 - (Train: operators)
+
+- chore(deps): update container image common to v17.2.29@d7c41a3 by renovate (#17545) ([a4b8c8cf64d65bef88b26b6e88b5cdfbbc6ea91a](https://github.com/truecharts/charts/commit/a4b8c8cf64d65bef88b26b6e88b5cdfbbc6ea91a)) - [@TrueCharts Bot] (2024-01-26)
+
+## 2.1.13 - (Train: operators)
+
+- chore(deps): update container image common to v17.2.28@918b4c5 by renovate (#17478) ([720070abccc3b50f73818d6fead48dc298458953](https://github.com/truecharts/charts/commit/720070abccc3b50f73818d6fead48dc298458953)) - [@TrueCharts Bot] (2024-01-21)
+
+## 2.1.12 - (Train: operators)
+
+- chore(deps): update container image tccr.io/tccr/alpine to latest@14eaf3f by renovate (#17470) ([a73b106ca6f2b4b52106f2fa58330492f8855e01](https://github.com/truecharts/charts/commit/a73b106ca6f2b4b52106f2fa58330492f8855e01)) - [@TrueCharts Bot] (2024-01-21)
+
+## 2.1.11 - (Train: operators)
+
+- chore(deps): update container image common to v17.2.26@24c98f7 by renovate (#17409) ([1dde1f362472fc4f63021211c29e6eb39b70a290](https://github.com/truecharts/charts/commit/1dde1f362472fc4f63021211c29e6eb39b70a290)) - [@TrueCharts Bot] (2024-01-21)
+
+## 2.1.10 - (Train: operators)
+
+- chore(apps): update metadata in chart.yaml (#17457) ([aff301426cb11e42435fca5408f8e4f77c5dabfa](https://github.com/truecharts/charts/commit/aff301426cb11e42435fca5408f8e4f77c5dabfa)) - [@Stavros Kois] (2024-01-21)
+
+## 2.1.9 - (Train: operators)
+
+- chore(deps): update container image common to v17.2.22@e7c9056 by renovate (#16986) ([a793703e32434623569f91711ab1ea1f63bf2d40](https://github.com/truecharts/charts/commit/a793703e32434623569f91711ab1ea1f63bf2d40)) - [@TrueCharts Bot] (2024-01-09)
+
+## 2.1.8 - (Train: operators)
+
+- chore: force bump to ensure up-to-date catalogs ([ebb11dbbe928bdd990dc3d936c9f93a2585e64f7](https://github.com/truecharts/charts/commit/ebb11dbbe928bdd990dc3d936c9f93a2585e64f7)) - [@Kjeld Schouten] (2024-01-02)
+
+## 2.1.7 - (Train: operators)
+
+- chore(deps): update container image tccr.io/tccr/alpine to latest@12e0f84 by renovate (#16791) ([46490539758a7ea9ebb5bffcc5e2343e4fc38c45](https://github.com/truecharts/charts/commit/46490539758a7ea9ebb5bffcc5e2343e4fc38c45)) - [@TrueCharts Bot] (2024-01-02)
+
+## 2.1.6 - (Train: operators)
+
+- chore(images): fix some refs (#16749) ([b118ccf6d9cbdfda696f9e9e9dc7a8972275e6e1](https://github.com/truecharts/charts/commit/b118ccf6d9cbdfda696f9e9e9dc7a8972275e6e1)) - [@Stavros Kois] (2024-01-02)
+
+## 2.1.5 - (Train: operators)
+
+- chore: increase common version for oci fixes ([64339bd4b46a8c078998338c425990a29272e24c](https://github.com/truecharts/charts/commit/64339bd4b46a8c078998338c425990a29272e24c)) - [@Kjeld Schouten] (2024-01-01)
+
+## 2.1.4 - (Train: operators)
+
+- chore: ensure everything is bumped into oci ([7e212caaddd7d5a4a57ad0c28b112382a30bc110](https://github.com/truecharts/charts/commit/7e212caaddd7d5a4a57ad0c28b112382a30bc110)) - [@Kjeld Schouten] (2024-01-01)
+
+## 2.1.3 - (Train: operators)
+
+- chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) ([026bebde2d90a467a43b46a6b889eca2cb01cf3f](https://github.com/truecharts/charts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f)) - [@TrueCharts Bot] (2024-01-01)
+
+## 2.1.2 - (Train: operators)
+
+- chore: bump all charts for OCI test push ([aee418953ae3e5a2d1d3c50c3ae9171c46f38299](https://github.com/truecharts/charts/commit/aee418953ae3e5a2d1d3c50c3ae9171c46f38299)) - [@Kjeld Schouten] (2024-01-01)
+
+## 2.1.1 - (Train: operators)
+
+- chore(deps): update container image common to v17.2.18@085ba3c by renovate (#16732) ([f368d57f8516611c68434ae2422343f85b41c3f5](https://github.com/truecharts/charts/commit/f368d57f8516611c68434ae2422343f85b41c3f5)) - [@TrueCharts Bot] (2024-01-01)
+
+## 2.1.0 - (Train: operators)
+
+- chore(deps): update helm general minor by renovate (#16579) ([9eddcd99d3acbcf55a2f3e67b046a8f288d56a59](https://github.com/truecharts/charts/commit/9eddcd99d3acbcf55a2f3e67b046a8f288d56a59)) - [@TrueCharts Bot] (2023-12-30)
+
+## 2.0.1 - (Train: operators)
+
+- chore(deps): update helm general non-major by renovate (#16545) ([2fde8d4e5c7f55ddfa64a87f6c72fcdf2e8aefc8](https://github.com/truecharts/charts/commit/2fde8d4e5c7f55ddfa64a87f6c72fcdf2e8aefc8)) - [@TrueCharts Bot] (2023-12-26)
+
+## 2.0.0 - (Train: operators)
+
+- chore(deps): update helm chart common to 17.1.0 by renovate (#16532) ([6a2ea11999998d8c6ef0958d90d646e16b3ef2b4](https://github.com/truecharts/charts/commit/6a2ea11999998d8c6ef0958d90d646e16b3ef2b4)) - [@TrueCharts Bot] (2023-12-25)
+
+## 1.1.12 - (Train: operators)
+
+- chore(deps): update helm general non-major by renovate (#16384) ([702b146d1298893a4b2eb42add01a88a4ee68399](https://github.com/truecharts/charts/commit/702b146d1298893a4b2eb42add01a88a4ee68399)) - [@TrueCharts Bot] (2023-12-24)
+
+## 1.1.11 - (Train: operators)
+
+- chore(deps): update helm general non-major by renovate (#16376) ([af2c9bee81ea666b0c04d4b6ebe96f8300e768b5](https://github.com/truecharts/charts/commit/af2c9bee81ea666b0c04d4b6ebe96f8300e768b5)) - [@TrueCharts Bot] (2023-12-24)
+
+## 1.1.10 - (Train: operators)
+
+- chore(deps): update helm general non-major by renovate (#16373) ([7a9e19fed7c652d0c551364c185e6c86dc4fa8fd](https://github.com/truecharts/charts/commit/7a9e19fed7c652d0c551364c185e6c86dc4fa8fd)) - [@TrueCharts Bot] (2023-12-23)
+
+## 1.1.9 - (Train: operators)
+
+- chore(deps): update helm general non-major by renovate (#16369) ([712d4258469fde93cf79fe40a7e2510996830acc](https://github.com/truecharts/charts/commit/712d4258469fde93cf79fe40a7e2510996830acc)) - [@TrueCharts Bot] (2023-12-23)
+
+## 1.1.8 - (Train: operators)
+
+- chore(deps): update helm general non-major by renovate (#16361) ([93a7988815d5f843324f7f9e8d48abce4c8364f9](https://github.com/truecharts/charts/commit/93a7988815d5f843324f7f9e8d48abce4c8364f9)) - [@TrueCharts Bot] (2023-12-23)
+
+## 1.1.7 - (Train: operators)
+
+- chore(deps): update helm general non-major by renovate (#16359) ([38ea5f1c8efa592831d96f232695bf2732d954f9](https://github.com/truecharts/charts/commit/38ea5f1c8efa592831d96f232695bf2732d954f9)) - [@TrueCharts Bot] (2023-12-22)
+
+## 1.1.6 - (Train: operators)
+
+- fix(ingress): expose custom options for homepage integration ([257c24ed26145a94e987013c0f4e4002d2fca17c](https://github.com/truecharts/charts/commit/257c24ed26145a94e987013c0f4e4002d2fca17c)) - [@Kjeld Schouten] (2023-12-22)
+
+## 1.1.5 - (Train: operators)
+
+- fix: bump to release middleware fix ([b3058e799e191e67a993df88a98703b592f90d52](https://github.com/truecharts/charts/commit/b3058e799e191e67a993df88a98703b592f90d52)) - [@Kjeld Schouten] (2023-12-21)
+
+## 1.1.4 - (Train: operators)
+
+- chore: bump everything to ensure patches are applied globally ([fd610994c16b629ce53928fbff879d3247ecf749](https://github.com/truecharts/charts/commit/fd610994c16b629ce53928fbff879d3247ecf749)) - [@Kjeld Schouten] (2023-12-21)
+
+## 1.1.3 - (Train: operators)
+
+- chore(deps): update helm general non-major by renovate (#16341) ([8d456c3bcf4adac0e20be866cac1586ff99c5c9e](https://github.com/truecharts/charts/commit/8d456c3bcf4adac0e20be866cac1586ff99c5c9e)) - [@TrueCharts Bot] (2023-12-21)
+
+## 1.1.2 - (Train: operators)
+
+- chore: bump patch versions on all charts for new GUI release ([5385fd4cbeffe8b2fc93c13351c14ed05545aeb9](https://github.com/truecharts/charts/commit/5385fd4cbeffe8b2fc93c13351c14ed05545aeb9)) - [@Kjeld Schouten] (2023-12-20)
+
+## 1.1.1 - (Train: operators)
+
+- chore: Bump everything to force min/max scale version update ([3f74856193b35679c25ba809b3e7d4164b67e23d](https://github.com/truecharts/charts/commit/3f74856193b35679c25ba809b3e7d4164b67e23d)) - [@Kjeld Schouten] (2023-12-20)
+
+## 1.1.0 - (Train: operators)
+
+- chore(deps): update helm chart openebs to 3.10.0 by renovate (#16316) ([1ba0e1943bfd57ba803c4274d6434ac0d8633b66](https://github.com/truecharts/charts/commit/1ba0e1943bfd57ba803c4274d6434ac0d8633b66)) - [@TrueCharts Bot] (2023-12-20)
+
+## 1.0.7 - (Train: operators)
+
+- chore(deps): update container image tccr.io/truecharts/alpine to latest@51c4ca9 by renovate (#15476) ([1f439ebe16efb9f29e10af98488dcf46b2bccec6](https://github.com/truecharts/charts/commit/1f439ebe16efb9f29e10af98488dcf46b2bccec6)) - [@TrueCharts Bot] (2023-12-20)
+
+## 1.0.6 - (Train: operators)
+
+- chore(deps): update helm chart common to 16.2.7 by renovate (#16207) ([298fc6ba4b24ea7eda09523f30da4ff6588ce0a8](https://github.com/truecharts/charts/commit/298fc6ba4b24ea7eda09523f30da4ff6588ce0a8)) - [@TrueCharts Bot] (2023-12-17)
+
+## 1.0.5 - (Train: operators)
+
+- chore(deps): update container image openebs/velero-plugin to v3.6.0 (#16138) ([32e2561e33081e3c4b002e2f408b4accffc60814](https://github.com/truecharts/charts/commit/32e2561e33081e3c4b002e2f408b4accffc60814)) - [@TrueCharts Bot] (2023-12-16)
+
+## 1.0.4 - (Train: operators)
+
+- chore(deps): update container image velero/velero-plugin-for-csi to v0.6.2@f0a6f54 (#16175) ([3dd9eef800a5d828acdbaee03d558929cda1af81](https://github.com/truecharts/charts/commit/3dd9eef800a5d828acdbaee03d558929cda1af81)) - [@TrueCharts Bot] (2023-12-16)
+
+## 1.0.3 - (Train: operators)
+
+- chore: fix move mistake and cleanup metadata ([b3cff36b48269ec8406aa5e4f66949a05aaca33f](https://github.com/truecharts/charts/commit/b3cff36b48269ec8406aa5e4f66949a05aaca33f)) - [@Kjeld Schouten] (2023-12-16)
+
+## 1.0.2 - (Train: incubator)
+
+- chore(incubator): make things work with new common part 3 (#15994) ([11272a44560a0dfae03522a8a914403e76349665](https://github.com/truecharts/charts/commit/11272a44560a0dfae03522a8a914403e76349665)) - [@Kjeld Schouten] (2023-12-15)
+
+## 1.0.1 - (Train: incubator)
+
+- Incubator testing (#15844) ([1dd63997c4d4a75b4da174421b494de5893debc4](https://github.com/truecharts/charts/commit/1dd63997c4d4a75b4da174421b494de5893debc4)) - [@Kjeld Schouten] (2023-12-12)
+
+## 1.0.0 - (Train: incubator)
+
+- chore(incubator): BREAKING CHANGE move to latest common (#15841) ([23a23f516a81a12d6f9d6d8b532954b00a4b2523](https://github.com/truecharts/charts/commit/23a23f516a81a12d6f9d6d8b532954b00a4b2523)) - [@Kjeld Schouten] (2023-12-07)
+
+## 0.0.2 - (Train: incubator)
+
+- chore(incubator) bump and change values.yaml for incubator apps. (#15779) ([560db30ab989adbeee8759a99366eeafe69fd1a1](https://github.com/truecharts/charts/commit/560db30ab989adbeee8759a99366eeafe69fd1a1)) - [@Xstar97TheNoob] (2023-12-06)
+
+## 0.0.1 - (Train: incubator)
+
+- feat(openebs): add openebs chart (#15777) ([f696f5b1022469f3e67df1d9b1c5d9a64ce30f93](https://github.com/truecharts/charts/commit/f696f5b1022469f3e67df1d9b1c5d9a64ce30f93)) - [@Kjeld Schouten] (2023-12-05)

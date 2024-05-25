@@ -1,0 +1,88 @@
+---
+title: Changelog
+pagefind: false
+---
+
+## 1.0.4 - (Train: system)
+
+- chore: bump common to release improved checks on volsync and cnpg (#21454) ([afc5e7eafa19a1b65a13d021fedf7510b485bd13](https://github.com/truecharts/charts/commit/afc5e7eafa19a1b65a13d021fedf7510b485bd13)) - [@Kjeld Schouten] (2024-05-01)
+
+## 1.0.3 - (Train: system)
+
+- chore: bump common ([9abc20d845b02c347dddd0a6c2f13af10aad3a22](https://github.com/truecharts/charts/commit/9abc20d845b02c347dddd0a6c2f13af10aad3a22)) - [@Kjeld Schouten] (2024-04-29)
+
+## 1.0.2 - (Train: system)
+
+- fix: fixup all chart volsync/credentials settings ([20f2fe834207c83906a9a505cce8c45aee76d2ed](https://github.com/truecharts/charts/commit/20f2fe834207c83906a9a505cce8c45aee76d2ed)) - [@Kjeld Schouten] (2024-04-29)
+
+## 1.0.1 - (Train: system)
+
+- fix: adapt for common cnpg/volsync pathing changes (#21445) ([c3c0b3bc461923373054d678abb33e1426bb213f](https://github.com/truecharts/charts/commit/c3c0b3bc461923373054d678abb33e1426bb213f)) - [@Kjeld Schouten] (2024-04-29)
+
+## 1.0.0 - (Train: system)
+
+- feat: Add VolSync support and move CNPG backup credentials on SCALE (#21443) ([02e10381acd4056399f58c8c160610c9c6c79743](https://github.com/truecharts/charts/commit/02e10381acd4056399f58c8c160610c9c6c79743)) - [@Kjeld Schouten] (2024-04-29)
+
+## 0.16.9 - (Train: system)
+
+- chore(deps): update container image common to v20.3.12@3303278 by renovate (#21384) ([57fbb5341b78bd213370d2fa2bae2e0c7489eeef](https://github.com/truecharts/charts/commit/57fbb5341b78bd213370d2fa2bae2e0c7489eeef)) - [@TrueCharts Bot] (2024-04-26)
+
+## 0.16.8 - (Train: system)
+
+- fix(scale-gui): replace serviceexpert with externalinterfaces/networking-group in the SCALE GUI (#21154) ([d45f7fe497521d6032fde9792256356ae849019f](https://github.com/truecharts/charts/commit/d45f7fe497521d6032fde9792256356ae849019f)) - [@Kjeld Schouten] (2024-04-22)
+
+## 0.16.7 - (Train: system)
+
+- chore: bump everything to release new doc pages ([b4f0331ba851a4cd2f92289a1026f50684dc291d](https://github.com/truecharts/charts/commit/b4f0331ba851a4cd2f92289a1026f50684dc291d)) - [@Kjeld Schouten] (2024-04-21)
+
+## 0.16.6 - (Train: system)
+
+- chore: update groups html (#21121) ([b5036ed2aab9d010274c7ce81064fbfe52328865](https://github.com/truecharts/charts/commit/b5036ed2aab9d010274c7ce81064fbfe52328865)) - [@Kjeld Schouten] (2024-04-21)
+
+## 0.16.5 - (Train: system)
+
+- chore: bump charts to release new docs to fix broken links ([2e05d3ccd87b00109f963c13817e3447bd123563](https://github.com/truecharts/charts/commit/2e05d3ccd87b00109f963c13817e3447bd123563)) - [@Kjeld Schouten] (2024-04-21)
+
+## 0.16.4 - (Train: system)
+
+- chore: bump everything to regenerate readme&#39;s and site index ([c850d0cfb31f34e07152f112b972241d1781debc](https://github.com/truecharts/charts/commit/c850d0cfb31f34e07152f112b972241d1781debc)) - [@Kjeld Schouten] (2024-04-21)
+
+## 0.16.3 - (Train: system)
+
+- Chore: rework SCALE catagories/groups to match helm and remove deprecated charts (#21111) ([a66fd3357bcce17e7f21716949d7e5513b189061](https://github.com/truecharts/charts/commit/a66fd3357bcce17e7f21716949d7e5513b189061)) - [@Kjeld Schouten] (2024-04-21)
+
+## 0.16.1 - (Train: system)
+
+- chore(deps): update container image common to v20.3.11@dae6129 by renovate (#20875) ([53e2bed79fb73bb5e6334edafb90af207aa3fb35](https://github.com/truecharts/charts/commit/53e2bed79fb73bb5e6334edafb90af207aa3fb35)) - [@TrueCharts Bot] (2024-04-20)
+
+## 0.16.0 - (Train: system)
+
+- chore(deps): update helm general minor by renovate (#20924) ([7e34abd306d3b9559f0661c79abc616bd8198e3b](https://github.com/truecharts/charts/commit/7e34abd306d3b9559f0661c79abc616bd8198e3b)) - [@TrueCharts Bot] (2024-04-18)
+
+## 0.15.5 - (Train: system)
+
+- chore: bump charts to ensure new icons are released ([9828a1ef02a808a8855e6e17cf4b601a21a315f5](https://github.com/truecharts/charts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5)) - [@Kjeld Schouten] (2024-04-16)
+
+## 0.15.4 - (Train: system)
+
+- Webp icons2 (#20851) ([8b489f48bb8f4f6a01050a08ad544323375bce74](https://github.com/truecharts/charts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74)) - [@Kjeld Schouten] (2024-04-16)
+
+## 0.15.3 - (Train: system)
+
+- chore(deps): update container image common to v20.3.6@27edfed by renovate (#20599) ([6c807c1f9707d9fd751d71cbfed29469368880e2](https://github.com/truecharts/charts/commit/6c807c1f9707d9fd751d71cbfed29469368880e2)) - [@TrueCharts Bot] (2024-04-11)
+
+## 0.15.2 - (Train: system)
+
+- chore(deps): update container image common to v20.3.5@aedd88a by renovate (#20535) ([8ee51f80fa1423648d265a7431c80ca57d1792e2](https://github.com/truecharts/charts/commit/8ee51f80fa1423648d265a7431c80ca57d1792e2)) - [@TrueCharts Bot] (2024-04-10)
+
+## 0.15.1 - (Train: system)
+
+- chore(deps): update container image common to v20.3.4@d7e1b23 by renovate (#20527) ([5a02b410bdf32fa819a1cf8f7d277c11e7446b6e](https://github.com/truecharts/charts/commit/5a02b410bdf32fa819a1cf8f7d277c11e7446b6e)) - [@TrueCharts Bot] (2024-04-10)
+
+## 0.15.0 - (Train: system)
+
+- chore(deps): update container image common to v20.3.3@3876ba5 by renovate (#20489) ([0a185f01c23a0fc28662fcdca698d3a1d6cd81ba](https://github.com/truecharts/charts/commit/0a185f01c23a0fc28662fcdca698d3a1d6cd81ba)) - [@TrueCharts Bot] (2024-04-09)
+
+## 0.14.5 - (Train: system)
+
+- feat(nvidia-device-plugin): add nvidia-device-plugin (#20132) ([52deaaac46c1949872ee0cf904e307384f8ee391](https://github.com/truecharts/charts/commit/52deaaac46c1949872ee0cf904e307384f8ee391)) - [@ばか雪] (2024-04-09)
