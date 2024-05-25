@@ -14,7 +14,6 @@ TagSpaces is an offline, open source, document manager with tagging support.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Disclaimer**](./disclaimer)
 
 ## Readme Content

@@ -14,7 +14,6 @@ Open source, self-hostable watched list
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

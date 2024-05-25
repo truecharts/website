@@ -15,7 +15,6 @@ Simple text sharing
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ TVheadend - a TV streaming server and digital video recorder
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

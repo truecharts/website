@@ -14,7 +14,6 @@ A custom SteamCMD chart that runs Sons Of The Forest Server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

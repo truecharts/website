@@ -14,7 +14,6 @@ Universal Media Server is a DLNA-compliant UPnP Media Server. It is capable of s
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ A discord bot that monitors your game server and tracks the live data of your ga
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

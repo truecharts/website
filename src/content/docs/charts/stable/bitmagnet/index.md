@@ -15,7 +15,6 @@ A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent se
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Scale App Installation**](./installation_notes)
 
 ## Readme Content

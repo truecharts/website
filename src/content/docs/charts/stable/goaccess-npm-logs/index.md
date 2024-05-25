@@ -14,7 +14,6 @@ GoAccess for Nginx Proxy Manager Logs
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

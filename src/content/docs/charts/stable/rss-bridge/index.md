@@ -14,7 +14,6 @@ RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for website
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

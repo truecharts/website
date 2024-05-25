@@ -14,7 +14,6 @@ Flood is a monitoring service for various torrent clients
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

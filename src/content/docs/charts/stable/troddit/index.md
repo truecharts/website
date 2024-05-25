@@ -14,7 +14,6 @@ A web client for Reddit
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

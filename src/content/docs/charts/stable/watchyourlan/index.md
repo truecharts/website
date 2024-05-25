@@ -14,7 +14,6 @@ Lightweight network IP scanner with web GUI
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

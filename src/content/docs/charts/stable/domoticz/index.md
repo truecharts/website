@@ -13,7 +13,6 @@ Domoticz is a Home Automation System that lets you monitor and configure various
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

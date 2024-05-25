@@ -14,7 +14,6 @@ Apache Solr
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

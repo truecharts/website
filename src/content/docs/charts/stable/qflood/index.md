@@ -14,7 +14,6 @@ Chart with qBittorrent and the Flood UI.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Program for forwarding ADS-B data to FlightAware
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

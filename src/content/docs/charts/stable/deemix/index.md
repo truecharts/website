@@ -14,7 +14,6 @@ deemix is a deezer downloader built from the ashes of Deezloader Remix.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

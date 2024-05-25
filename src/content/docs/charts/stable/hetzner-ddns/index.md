@@ -14,7 +14,6 @@ This Chart will allow you to use the Hetzner DNS Service (https://www.hetzner.co
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

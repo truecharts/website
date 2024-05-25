@@ -14,7 +14,6 @@ farmOS is a web-based application for farm management, planning, and record keep
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

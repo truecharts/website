@@ -14,7 +14,6 @@ QDirStat is a graphical application to show where your disk space has gone and t
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

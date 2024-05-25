@@ -14,7 +14,6 @@ Snippet Box is a simple self-hosted app for organizing your code snippets.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

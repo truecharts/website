@@ -16,7 +16,6 @@ Secure, end-to-end encrypted, and privacy respecting sync for your contacts, cal
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

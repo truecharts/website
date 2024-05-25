@@ -13,7 +13,6 @@ Dokuwiki is a simple to use and highly versatile Open Source wiki software that 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ A SMTP service for relaying emails.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

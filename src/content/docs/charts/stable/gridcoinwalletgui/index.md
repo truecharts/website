@@ -14,7 +14,6 @@ Running Boinc? Get some Gridcoins from your Boinc work!
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

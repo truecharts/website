@@ -14,7 +14,6 @@ Automatically backup github repositories on schedule. Allows for custom configur
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

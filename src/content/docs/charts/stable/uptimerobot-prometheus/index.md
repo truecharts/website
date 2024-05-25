@@ -15,7 +15,6 @@ Prometheus Exporter for the official uptimerobot CLI
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

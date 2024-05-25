@@ -15,7 +15,6 @@ A comics/mangas server to serve/stream pages via API
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

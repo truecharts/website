@@ -14,7 +14,6 @@ Python script to update metadata and automatically build collections.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

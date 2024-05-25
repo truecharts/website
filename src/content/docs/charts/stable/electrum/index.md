@@ -14,7 +14,6 @@ Electrum is a Bitcoin wallet focused on speed and simplicity, with low resource 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

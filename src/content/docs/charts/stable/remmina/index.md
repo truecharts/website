@@ -15,7 +15,6 @@ A remote desktop client written in GTK
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -11,12 +11,11 @@ Get up and running with large language models locally.
 - https://github.com/ollama/ollama
 - https://github.com/open-webui/open-webui
 - https://github.com/truecharts/charts/tree/master/charts/stable/ollama
-- https://hub.docker.com/r/ollama/ollama
 - https://ghcr.io/open-webui/open-webui
+- https://hub.docker.com/r/ollama/ollama
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default credentials**](./credentials)
 
 ## Readme Content

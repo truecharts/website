@@ -13,7 +13,6 @@ The easiest way to run WireGuard VPN + Web-based Admin UI.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**WG-Easy Installation Notes**](./installation-notes)
 - [**How-To**](./setup-guide)
 

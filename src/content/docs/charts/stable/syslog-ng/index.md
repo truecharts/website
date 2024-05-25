@@ -13,7 +13,6 @@ syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Track your cryptocurrency holdings/portfolio
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ A very simple DNS server to connect to DNS-over-HTTPS service. This is similar t
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

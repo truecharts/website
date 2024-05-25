@@ -14,7 +14,6 @@ IRC Highway eBook Downloads.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

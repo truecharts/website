@@ -15,7 +15,6 @@ Make documentation a joy to write using Wiki.js's beautiful and intuitive interf
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

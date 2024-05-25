@@ -14,7 +14,6 @@ SSHwifty is a SSH and Telnet connector made for the Web.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Disclaimer**](./disclaimer)
 
 ## Readme Content

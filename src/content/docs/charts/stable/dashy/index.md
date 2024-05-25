@@ -14,7 +14,6 @@ Dashy helps you organize your self-hosted services by making them accessible fro
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

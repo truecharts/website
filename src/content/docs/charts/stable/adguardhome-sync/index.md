@@ -14,7 +14,6 @@ Synchronize AdGuardHome config to replica instances.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Browserless is a web-service that allows for remote clients to connect, drive, a
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -16,7 +16,6 @@ HexChat is an IRC client based on XChat, but unlike XChat it’s completely free
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

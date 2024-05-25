@@ -14,7 +14,6 @@ A ReactJS-based progressive web application for Shlink.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

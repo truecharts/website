@@ -14,7 +14,6 @@ PuTTY is a free and open-source terminal emulator, serial console and network fi
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

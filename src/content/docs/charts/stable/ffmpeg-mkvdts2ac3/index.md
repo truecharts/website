@@ -14,7 +14,6 @@ A Chart Chart designed to watch a directory and encode media files.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ DIY tool to create and print labels for Dell Poweredge and HP Proliant drive cad
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

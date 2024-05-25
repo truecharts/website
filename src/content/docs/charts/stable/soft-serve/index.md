@@ -14,7 +14,6 @@ A tasty, self-hostable Git server for the command line.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

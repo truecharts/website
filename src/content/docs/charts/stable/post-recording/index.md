@@ -14,7 +14,6 @@ Watches for .ts files made by Live TV recordings, convert them to a friendly for
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

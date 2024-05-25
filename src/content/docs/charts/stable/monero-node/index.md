@@ -14,7 +14,6 @@ Chart to run a monero full network node
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

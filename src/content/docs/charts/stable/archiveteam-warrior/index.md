@@ -13,7 +13,6 @@ The Archive Team Warrior is a virtual archiving appliance. You can run it to hel
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

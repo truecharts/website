@@ -14,7 +14,6 @@ Hyperion is an opensource Bias or Ambient Lighting implementation
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -13,7 +13,6 @@ Official SongKong Chart repository, Identify your songs and add metadata and art
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

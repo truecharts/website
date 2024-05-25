@@ -13,7 +13,6 @@ Tracks is a web-based todo application to help you implement the GTD methodology
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

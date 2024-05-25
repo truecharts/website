@@ -14,7 +14,6 @@ A dead simple URL shortener.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

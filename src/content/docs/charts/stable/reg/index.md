@@ -15,7 +15,6 @@ Docker registry v2 command line client and repo listing generator with security 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

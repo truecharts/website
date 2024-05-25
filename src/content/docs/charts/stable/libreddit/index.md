@@ -14,7 +14,6 @@ An alternative private front-end to Reddit
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

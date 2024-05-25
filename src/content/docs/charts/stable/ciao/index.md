@@ -14,7 +14,6 @@ ciao checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

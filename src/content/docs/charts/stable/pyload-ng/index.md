@@ -16,7 +16,6 @@ pyLoad(https://pyload.net/) is a Free and Open Source download manager written i
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

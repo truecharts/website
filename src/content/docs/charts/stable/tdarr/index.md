@@ -14,7 +14,6 @@ Audio/Video library transcoding automation
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

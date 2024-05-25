@@ -15,7 +15,6 @@ An FTP automation tool that periodically scans given host locations for new file
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

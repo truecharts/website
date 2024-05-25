@@ -14,7 +14,6 @@ title: fmd2-wine
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

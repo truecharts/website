@@ -13,7 +13,6 @@ title: cloudcommander
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

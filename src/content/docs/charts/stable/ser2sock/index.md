@@ -15,7 +15,6 @@ Serial to Socket Redirector
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -13,7 +13,6 @@ A location-based pluggable DNS forwarder/splitter.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

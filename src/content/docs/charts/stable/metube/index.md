@@ -14,7 +14,6 @@ Web GUI for youtube-dl.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

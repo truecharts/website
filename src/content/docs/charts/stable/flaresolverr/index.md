@@ -14,7 +14,6 @@ FlareSolverr is a proxy server to bypass Cloudflare protection
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

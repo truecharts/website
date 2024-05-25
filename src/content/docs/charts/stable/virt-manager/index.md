@@ -13,7 +13,6 @@ The virt-manager application is a desktop user interface for managing virtual ma
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

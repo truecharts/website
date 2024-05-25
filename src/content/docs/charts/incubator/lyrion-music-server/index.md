@@ -14,7 +14,6 @@ Lyrion Music Server is a platform for home/office audio streaming.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

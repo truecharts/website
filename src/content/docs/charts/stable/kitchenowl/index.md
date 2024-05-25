@@ -15,7 +15,6 @@ KitchenOwl is a smart self-hosted grocery list and recipe manager.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

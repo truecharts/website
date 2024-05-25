@@ -14,7 +14,6 @@ Self-hosted Rick Roll chart.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

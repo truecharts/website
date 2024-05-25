@@ -14,7 +14,6 @@ A metrics exporter for TrueNAS
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Connecting TrueNAS SCALE**](./setup)
 
 ## Readme Content

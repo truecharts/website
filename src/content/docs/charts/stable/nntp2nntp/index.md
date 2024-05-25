@@ -13,7 +13,6 @@ Nntp2nntp proxy allow you to use your NNTP Account from multiple systems, each w
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

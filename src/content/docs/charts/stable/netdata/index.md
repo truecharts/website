@@ -14,7 +14,6 @@ Netdata is high-fidelity infrastructure monitoring and troubleshooting.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

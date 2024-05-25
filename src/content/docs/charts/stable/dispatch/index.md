@@ -14,7 +14,6 @@ Web-based IRC client in Go.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

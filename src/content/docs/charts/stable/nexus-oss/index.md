@@ -13,7 +13,6 @@ Sonatype Nexus open source is a artifact repository manager
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

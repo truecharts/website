@@ -14,7 +14,6 @@ Trilium Notes is a hierarchical note taking application with focus on building l
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ The gold standard in devops tools for running CI/CD pipelines.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

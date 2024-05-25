@@ -14,7 +14,6 @@ Deluge App for TrueNAS SCALE
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ An automatic twitch recorder.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

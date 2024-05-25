@@ -15,7 +15,6 @@ The official Tachidesk Chart-Chart.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

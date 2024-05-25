@@ -13,7 +13,6 @@ Google Photos Sync downloads your Google Photos to the local file system. It wil
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

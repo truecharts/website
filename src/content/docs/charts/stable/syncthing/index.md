@@ -15,7 +15,6 @@ P2P file synchronization application
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

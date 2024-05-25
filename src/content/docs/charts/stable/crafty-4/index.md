@@ -14,7 +14,6 @@ Crafty Controller is a Minecraft Server Control Panel / Launcher.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default Credentials**](./credentials)
 
 ## Readme Content

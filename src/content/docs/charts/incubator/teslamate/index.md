@@ -2,7 +2,7 @@
 title: teslamate
 ---
 
-![Version: 1.0.4](https://img.shields.io/badge/Version-1.0.4-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.28.5](https://img.shields.io/badge/AppVersion-1.28.5-informational?style=flat-square)
+![Version: 1.0.6](https://img.shields.io/badge/Version-1.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.29.1](https://img.shields.io/badge/AppVersion-1.29.1-informational?style=flat-square)
 
 A self-hosted data logger for your Tesla
 
@@ -10,12 +10,11 @@ A self-hosted data logger for your Tesla
 
 - https://github.com/teslamate-org/teslamate
 - https://docs.teslamate.org/docs/installation/docker
-- https://github.com/truecharts/charts/tree/master/charts/incubator/TeslaMate
+- https://github.com/truecharts/charts/tree/master/charts/incubator/teslamate
 - https://hub.docker.com/r/teslamate/teslamate
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 
@@ -25,7 +24,7 @@ A self-hosted data logger for your Tesla
 TrueCharts can be installed as both _normal_ Helm Charts or as TrueNAS SCALE Apps.
 Both solutions are fully supported, but we heavily advice the use of normal Helm Charts where possible
 
-For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/incubator/TeslaMate)
+For more information about this Chart, please check the docs on the TrueCharts [website](https://truecharts.org/charts/incubator/teslamate)
 
 **This chart is not maintained by the upstream project and any issues with the chart should be raised [here](https://github.com/truecharts/charts/issues/new/choose)**
 
@@ -55,7 +54,7 @@ For the complete overview of all available options, please checkout the document
 
 All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
-https://truecharts.org/charts/incubator/TeslaMate
+https://truecharts.org/charts/incubator/teslamate
 
 ### Support
 

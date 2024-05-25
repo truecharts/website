@@ -14,7 +14,6 @@ Docker Open Broadcaster Software (obs).
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

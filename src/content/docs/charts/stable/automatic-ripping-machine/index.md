@@ -14,7 +14,6 @@ Automatic Ripping Machine (ARM) Scripts.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default Credentials**](./default_credentials)
 - [**Installation Notes**](./installation_notes)
 

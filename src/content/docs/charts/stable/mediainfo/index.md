@@ -14,7 +14,6 @@ MediaInfo is a convenient unified display of the most relevant technical and tag
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

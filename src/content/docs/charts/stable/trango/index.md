@@ -14,7 +14,6 @@ Trango self-hosted is a calling and file sharing solution that works over LAN (l
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

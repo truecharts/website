@@ -14,7 +14,6 @@ Adminer (formerly phpMinAdmin) is a full-featured database management tool writt
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

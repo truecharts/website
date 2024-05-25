@@ -14,7 +14,6 @@ An awesome, Online Office suite image suitable for home use.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

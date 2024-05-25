@@ -14,7 +14,6 @@ Dynamic DNS for Amazon Route 53‎ on a time-based schedule
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

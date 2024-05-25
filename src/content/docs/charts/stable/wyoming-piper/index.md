@@ -14,7 +14,6 @@ The Wyoming integration of piper
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

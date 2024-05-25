@@ -14,7 +14,6 @@ A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

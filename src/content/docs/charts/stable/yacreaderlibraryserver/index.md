@@ -14,7 +14,6 @@ Headless version of the YACReaderLibraryServer.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

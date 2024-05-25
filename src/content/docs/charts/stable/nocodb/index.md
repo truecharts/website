@@ -14,7 +14,6 @@ Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadshe
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

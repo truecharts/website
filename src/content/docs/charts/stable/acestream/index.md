@@ -14,7 +14,6 @@ IPTV service providing streaming, playlist, search engine and epg.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

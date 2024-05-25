@@ -14,7 +14,6 @@ Monica is a great open source personal relationship management system.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

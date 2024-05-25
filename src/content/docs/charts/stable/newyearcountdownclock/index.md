@@ -14,7 +14,6 @@ Self Hosted, self contained New Year Countdown clock
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

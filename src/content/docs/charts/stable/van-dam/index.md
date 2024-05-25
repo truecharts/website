@@ -14,7 +14,6 @@ A Digital Asset Manager (DAM), specifically designed for 3D print files.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

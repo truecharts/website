@@ -14,7 +14,6 @@ Headless Ubuntu/Xfce Charts with VNC/noVNC for diagramming, image editing and 2D
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

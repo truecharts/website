@@ -14,7 +14,6 @@ Redmine is a flexible project management web application written using Ruby on R
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Custom theme for Redmine**](./custom-theme)
 
 ## Readme Content

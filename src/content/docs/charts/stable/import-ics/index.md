@@ -14,7 +14,6 @@ Runs a python script at a crontab defined interval that downloads/imports ics fi
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

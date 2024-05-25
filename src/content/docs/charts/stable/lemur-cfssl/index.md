@@ -14,7 +14,6 @@ Lemur manages TLS certificate creation. While not able to issue certificates its
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

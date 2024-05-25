@@ -14,7 +14,6 @@ Open Source Conditional Access Module software
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -13,7 +13,6 @@ Like to maintain your own data? Automatically backup your github account to your
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

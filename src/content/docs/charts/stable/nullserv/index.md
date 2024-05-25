@@ -14,7 +14,6 @@ A simple null file http and https server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

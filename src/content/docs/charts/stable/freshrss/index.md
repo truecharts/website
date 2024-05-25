@@ -14,7 +14,6 @@ FreshRSS is a self-hosted RSS feed aggregator
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

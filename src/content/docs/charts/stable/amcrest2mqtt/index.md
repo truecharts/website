@@ -14,7 +14,6 @@ Expose all events from an Amcrest device to an MQTT broker
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

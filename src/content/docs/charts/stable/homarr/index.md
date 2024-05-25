@@ -14,7 +14,6 @@ Homarr is a simple and lightweight homepage for your server, that helps you easi
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

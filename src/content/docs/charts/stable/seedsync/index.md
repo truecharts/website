@@ -14,7 +14,6 @@ SeedSync is a tool to sync the files on a remote Linux server (like your seedbox
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

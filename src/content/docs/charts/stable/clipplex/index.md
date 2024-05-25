@@ -14,7 +14,6 @@ Clip your plex media to share.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

@@ -13,7 +13,6 @@ Quassel-web is a web client for Quassel.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

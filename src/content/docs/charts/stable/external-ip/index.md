@@ -14,7 +14,6 @@ Gets external IP via DIG command ( OpenDNS , Cloudflare, google ) on a scheduled
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

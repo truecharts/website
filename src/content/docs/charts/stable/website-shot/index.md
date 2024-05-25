@@ -14,7 +14,6 @@ Generate a full web-page screenshot with our service, that provides rich interfa
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

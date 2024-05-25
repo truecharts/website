@@ -14,7 +14,6 @@ A Tiny Dashboard for Network UPS Tools.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation-notes)
 
 ## Readme Content

@@ -13,7 +13,6 @@ A web interface for MySQL and MariaDB.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

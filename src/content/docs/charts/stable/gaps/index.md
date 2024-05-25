@@ -14,7 +14,6 @@ Gaps searches through your Plex Server or local folders for all movies, then que
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

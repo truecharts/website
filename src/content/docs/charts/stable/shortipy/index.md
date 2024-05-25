@@ -14,7 +14,6 @@ URL Shortener in python based on flask
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

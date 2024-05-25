@@ -15,7 +15,6 @@ A simple bookmark manager built with Go.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

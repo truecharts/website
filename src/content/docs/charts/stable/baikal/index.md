@@ -14,7 +14,6 @@ Baikal is a lightweight CalDAV+CardDAV server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

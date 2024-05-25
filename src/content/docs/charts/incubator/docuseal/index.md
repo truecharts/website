@@ -14,7 +14,6 @@ Open source DocuSign alternative. Create, fill, and sign digital documents.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ An organizer for your porn, written in Go
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

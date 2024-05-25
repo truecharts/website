@@ -15,7 +15,6 @@ Get all your books, like series with Sonarr...
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ ArchiveBox is an open-source, self-hosted internet archiving solution.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Guide**](./installation_guide)
 
 ## Readme Content

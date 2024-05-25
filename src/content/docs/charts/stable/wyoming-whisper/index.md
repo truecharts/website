@@ -14,7 +14,6 @@ The Wyoming integration of whisper
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

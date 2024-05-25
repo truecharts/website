@@ -14,7 +14,6 @@ Docusaurus makes it easy to maintain Open Source documentation websites.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**How-To**](./how-to)
 
 ## Readme Content

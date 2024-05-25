@@ -13,7 +13,6 @@ Another web application bookmark dashboard, with fun features.[br][br][b][u][spa
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

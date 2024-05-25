@@ -14,7 +14,6 @@ Server for Ferdi that you can re-use to run your own
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -16,7 +16,6 @@ TS-N Ranksystem is a TeamSpeak 3 bot that allows you to assign ranks to users ba
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default credentials**](./credentials)
 
 ## Readme Content

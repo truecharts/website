@@ -14,7 +14,6 @@ A custom SteamCMD chart that runs CS2.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

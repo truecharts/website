@@ -15,7 +15,6 @@ Plex to AniList Sync.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

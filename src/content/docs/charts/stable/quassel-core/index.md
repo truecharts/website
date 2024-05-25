@@ -13,7 +13,6 @@ Quassel-core is a modern, cross-platform, distributed IRC client.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ MetaTube downloads video from YouTube and can add metadata from a specified meta
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

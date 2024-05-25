@@ -13,7 +13,6 @@ Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

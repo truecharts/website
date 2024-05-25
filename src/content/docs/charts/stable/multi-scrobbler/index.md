@@ -13,7 +13,6 @@ Track your music listening history from many sources and record to many scrobble
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

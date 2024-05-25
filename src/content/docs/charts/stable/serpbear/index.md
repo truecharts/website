@@ -14,7 +14,6 @@ Search Engine Position Tracking App.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Vertex
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

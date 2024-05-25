@@ -14,7 +14,6 @@ OpenSource Radius implementation
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

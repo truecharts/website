@@ -14,7 +14,6 @@ Eclipse Mosquitto - An open source MQTT broker
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Configure password authentication**](./setup-guide)
 
 ## Readme Content

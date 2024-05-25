@@ -14,7 +14,6 @@ Keep track of your network latency.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

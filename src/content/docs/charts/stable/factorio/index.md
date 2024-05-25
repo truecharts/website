@@ -14,7 +14,6 @@ A game in which you build and maintain factories.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

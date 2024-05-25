@@ -14,7 +14,6 @@ A cross-platform Anki sync server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

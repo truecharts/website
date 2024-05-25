@@ -14,7 +14,6 @@ Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVis
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Notes**](./installation_notes)
 
 ## Readme Content

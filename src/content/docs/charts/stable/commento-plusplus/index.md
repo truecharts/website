@@ -14,7 +14,6 @@ Commento++ is a free, open source, fast & lightweight comments box that you can 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

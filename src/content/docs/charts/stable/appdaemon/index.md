@@ -14,7 +14,6 @@ AppDaemon is a loosely coupled, multi-threaded, sandboxed python execution envir
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Guide**](./installation_guide)
 - [**Input Validation**](./validation)
 

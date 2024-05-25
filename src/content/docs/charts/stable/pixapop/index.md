@@ -15,7 +15,6 @@ An open-source single page application to view your photos in the easiest way po
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

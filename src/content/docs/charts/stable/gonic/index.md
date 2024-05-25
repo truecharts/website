@@ -14,7 +14,6 @@ Music streaming server / subsonic server API implementation
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

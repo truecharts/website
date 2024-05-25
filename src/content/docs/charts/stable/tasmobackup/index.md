@@ -14,7 +14,6 @@ backup all your tasmota devices in one place.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -15,7 +15,6 @@ A free & open source IMDb front-end.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

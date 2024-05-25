@@ -14,7 +14,6 @@ This is a Chartfile for Splunk designed for OpenShift and TrueNAS based on Alpin
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

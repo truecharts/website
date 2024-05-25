@@ -14,7 +14,6 @@ A self-hosted podcast manager to download episodes as soon as they become live.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

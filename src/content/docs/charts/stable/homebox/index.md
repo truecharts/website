@@ -14,7 +14,6 @@ Inventory and organization system built for the Home User.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

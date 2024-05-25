@@ -14,7 +14,6 @@ A Grafana remote image renderer that handles rendering panels &amp; dashboards t
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -15,7 +15,6 @@ One-time encrypted password/secret sharing
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

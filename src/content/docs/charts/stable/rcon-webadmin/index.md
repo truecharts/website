@@ -14,7 +14,6 @@ Out of the box, RCON Web Admin can check users for high ping, VAC status, or fil
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Guide**](./installation)
 
 ## Readme Content

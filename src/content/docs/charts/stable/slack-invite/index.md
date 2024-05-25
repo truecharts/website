@@ -14,7 +14,6 @@ Creates a simple webpage for Slack invite signups
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

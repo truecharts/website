@@ -14,7 +14,6 @@ iSpy's Agent DVR, a standalone DVR service to manage IP cameras.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

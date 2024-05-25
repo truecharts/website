@@ -14,7 +14,6 @@ Minimalist Self-hosted Image Service for user submitted images in your app (e.g.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -15,7 +15,6 @@ Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default credentials**](./credentials)
 
 ## Readme Content

@@ -14,7 +14,6 @@ EtherCalc is a web spreadsheet.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

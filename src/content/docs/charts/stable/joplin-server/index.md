@@ -15,7 +15,6 @@ Allows you to sync any Joplin client.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

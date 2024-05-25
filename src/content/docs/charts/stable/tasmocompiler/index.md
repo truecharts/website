@@ -14,7 +14,6 @@ TasmoCompiler is a simple web GUI which allows you to compile fantastic Tasmota 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

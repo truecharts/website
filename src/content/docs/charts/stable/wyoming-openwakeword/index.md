@@ -15,7 +15,6 @@ The Wyoming integration of openWakeWord
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

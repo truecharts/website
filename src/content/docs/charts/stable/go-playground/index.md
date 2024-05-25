@@ -13,7 +13,6 @@ mproved Go Playground powered by Monaco Editor and React
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

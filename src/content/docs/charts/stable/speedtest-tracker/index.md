@@ -15,7 +15,6 @@ Speedtest Tracker is a self-hosted internet performance tracking application tha
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default credentials**](./credentials)
 
 ## Readme Content

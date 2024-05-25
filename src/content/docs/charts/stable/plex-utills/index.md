@@ -14,7 +14,6 @@ A utility to help manage your library.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

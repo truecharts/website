@@ -14,7 +14,6 @@ ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configu
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

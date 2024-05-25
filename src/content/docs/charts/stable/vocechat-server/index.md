@@ -14,7 +14,6 @@ A superlight rust written social server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

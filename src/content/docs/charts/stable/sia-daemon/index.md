@@ -15,7 +15,6 @@ Sia is a decentralized cloud storage platform that radically alters the landscap
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

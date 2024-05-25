@@ -14,7 +14,6 @@ Web-Based postgresql database management utility
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -15,7 +15,6 @@ A knowledge base that works on local Markdown files.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

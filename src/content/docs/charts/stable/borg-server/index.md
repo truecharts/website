@@ -14,7 +14,6 @@ A borg Backup server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

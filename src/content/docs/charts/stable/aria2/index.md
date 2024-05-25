@@ -14,7 +14,6 @@ aria server for downloading web content
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

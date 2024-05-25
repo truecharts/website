@@ -14,7 +14,6 @@ Teedy is an open source, lightweight document management system for individuals 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

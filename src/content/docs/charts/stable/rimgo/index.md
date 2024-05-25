@@ -13,7 +13,6 @@ Alternative Imgur front-end
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

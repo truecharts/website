@@ -13,7 +13,6 @@ Simple recipes in Markdown format.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

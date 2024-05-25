@@ -13,7 +13,6 @@ Container for proxmox backup server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation notes**](./installation_notes)
 
 ## Readme Content

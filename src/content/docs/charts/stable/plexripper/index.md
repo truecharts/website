@@ -14,7 +14,6 @@ A multi-platform media downloader that indexes and downloads content from your a
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

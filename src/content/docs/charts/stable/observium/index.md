@@ -15,7 +15,6 @@ Observium is an autodiscovering network monitoring platform supporting a wide ra
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

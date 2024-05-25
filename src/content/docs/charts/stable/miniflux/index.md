@@ -14,7 +14,6 @@ Miniflux is a minimalist and opinionated feed reader.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default Username/Password**](./credentials)
 - [**Installation Notes**](./installation_notes)
 

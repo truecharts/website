@@ -14,7 +14,6 @@ This webapp is a browser and desktop password manager compatible with KeePass da
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

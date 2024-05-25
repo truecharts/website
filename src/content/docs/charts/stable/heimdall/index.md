@@ -14,7 +14,6 @@ An Application dashboard and launcher
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

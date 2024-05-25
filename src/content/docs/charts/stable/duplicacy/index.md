@@ -14,7 +14,6 @@ A new generation cross-platform cloud backup tool.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

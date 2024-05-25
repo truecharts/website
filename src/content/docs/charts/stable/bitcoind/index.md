@@ -14,7 +14,6 @@ Support the Bitcoin network by hosting your own node! This template provides a f
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

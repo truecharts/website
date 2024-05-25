@@ -14,7 +14,6 @@ A standalone, self-hosted, fast, free and Open Source Artificial Intelligence mi
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

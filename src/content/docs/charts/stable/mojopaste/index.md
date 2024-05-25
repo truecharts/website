@@ -14,7 +14,6 @@ Mojopaste is a pastebin application. There's about one million of these out ther
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

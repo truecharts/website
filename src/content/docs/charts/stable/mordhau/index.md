@@ -14,7 +14,6 @@ This Docker will download and install SteamCMD. It will also install Mordhau and
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

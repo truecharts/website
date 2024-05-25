@@ -14,7 +14,6 @@ a xml grabber from schedule direct service
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

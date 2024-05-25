@@ -15,7 +15,6 @@ A Helm chart for Kubernetes
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

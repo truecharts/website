@@ -14,7 +14,6 @@ Helps caregivers track sleep, feedings, diaper changes, tummy time and more to l
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

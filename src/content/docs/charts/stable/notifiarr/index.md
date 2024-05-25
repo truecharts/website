@@ -14,7 +14,6 @@ This is the unified client for Notifiarr.com. The client enables content request
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Setup Guide**](./how-to)
 
 ## Readme Content

@@ -14,7 +14,6 @@ An application that lets you automatically process files through a simple rule f
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

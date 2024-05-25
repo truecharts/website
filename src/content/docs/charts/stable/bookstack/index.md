@@ -14,7 +14,6 @@ A simple, self-hosted, easy-to-use platform for organising and storing informati
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

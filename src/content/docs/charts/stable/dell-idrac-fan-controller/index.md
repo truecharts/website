@@ -14,7 +14,6 @@ Control your Dell PowerEdge fans via IPMI
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Dell iDrac Fan Controller Installation Notes**](./install-notes)
 
 ## Readme Content

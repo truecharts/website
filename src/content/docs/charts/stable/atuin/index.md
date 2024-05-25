@@ -14,7 +14,6 @@ Magical shell history.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

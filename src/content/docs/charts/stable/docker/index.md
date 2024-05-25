@@ -13,7 +13,6 @@ Dedicated App for using Docker-in-Docker
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

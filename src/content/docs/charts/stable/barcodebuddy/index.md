@@ -14,7 +14,6 @@ title: barcodebuddy
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -13,7 +13,6 @@ Znc is an IRC network bouncer or BNC. It can detach the client from the actual I
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

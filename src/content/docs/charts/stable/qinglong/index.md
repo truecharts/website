@@ -13,7 +13,6 @@ A timed task management panel that supports typescript, javaScript, python3, and
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

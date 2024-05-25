@@ -14,7 +14,6 @@ vlmcsd is a replacement for Microsoft's KMS server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

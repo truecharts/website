@@ -14,7 +14,6 @@ sd-webui-docker Chart
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

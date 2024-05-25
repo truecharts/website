@@ -13,7 +13,6 @@ The Bitcoin Unlimited project seeks to provide a voice to all stakeholders in th
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

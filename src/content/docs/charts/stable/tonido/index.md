@@ -14,7 +14,6 @@ Tonido Server allows you to access all your files on your computer from a web br
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

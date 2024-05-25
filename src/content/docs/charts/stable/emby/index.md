@@ -14,7 +14,6 @@ Emby Server is a home media server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

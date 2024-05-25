@@ -14,7 +14,6 @@ Media display for Plex, Sonarr and Radarr.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default Credentials**](./default_credentials)
 
 ## Readme Content

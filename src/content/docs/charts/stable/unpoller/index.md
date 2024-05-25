@@ -14,7 +14,6 @@ Collect your UniFi controller data and report it to an InfluxDB instance, or exp
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

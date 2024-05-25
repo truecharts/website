@@ -14,7 +14,6 @@ Kitana exposes your Plex plugin interfaces "to the outside world". It does that 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

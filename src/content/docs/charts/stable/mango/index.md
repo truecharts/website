@@ -14,7 +14,6 @@ Mango is a self-hosted manga server and reader. Its features include[br]
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

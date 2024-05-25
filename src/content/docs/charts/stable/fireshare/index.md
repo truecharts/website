@@ -14,7 +14,6 @@ Share your game clips, videos, or other media via unique links.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

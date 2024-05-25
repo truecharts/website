@@ -13,7 +13,6 @@ Pwndrop is a self-deployable file hosting service for sending out red teaming pa
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

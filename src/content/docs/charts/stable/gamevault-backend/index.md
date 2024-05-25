@@ -14,7 +14,6 @@ the self-hosted gaming platform for alternatively obtained games.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

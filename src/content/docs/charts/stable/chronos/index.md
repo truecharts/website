@@ -14,7 +14,6 @@ Chronos is a small container to run and schedule Python 3.7 scripts. You can cre
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

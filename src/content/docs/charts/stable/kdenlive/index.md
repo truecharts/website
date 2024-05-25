@@ -16,7 +16,6 @@ Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platfor
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ With this Chart you can run RedM (Red Dead Redemption 2 MOD SERVER) it will auto
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

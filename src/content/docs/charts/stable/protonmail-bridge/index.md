@@ -14,7 +14,6 @@ ProtonMail IMAP/SMTP Bridge to work on the network.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

@@ -14,7 +14,6 @@ auto-yt-dl is used to automatically download new Videos of specific YouTube Chan
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

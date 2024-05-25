@@ -14,7 +14,6 @@ Useful tools for developer and people working in IT.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

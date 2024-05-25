@@ -13,7 +13,6 @@ Fenrus is a home page / personal dashboard with smart apps.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

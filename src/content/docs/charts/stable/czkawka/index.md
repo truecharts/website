@@ -15,7 +15,6 @@ Czkawka is a simple, fast and free app to remove unnecessary files from your com
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

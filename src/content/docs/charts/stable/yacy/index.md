@@ -14,7 +14,6 @@ YaCy decentralized search engine (https://yacy.net)
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

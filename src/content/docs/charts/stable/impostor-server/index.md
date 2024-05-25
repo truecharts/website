@@ -13,7 +13,6 @@ A private Among Us server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

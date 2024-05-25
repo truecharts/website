@@ -14,7 +14,6 @@ dash. (or dashdot) is a modern server dashboard, running on the latest tech, des
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

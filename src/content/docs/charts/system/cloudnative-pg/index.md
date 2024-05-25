@@ -15,7 +15,6 @@ CloudNativePG is a clustered postgresql database operator
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

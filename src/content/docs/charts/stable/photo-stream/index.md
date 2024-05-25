@@ -14,7 +14,6 @@ Photo Stream is a simpler home for your photos. Easy to use, self hosted, no tra
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

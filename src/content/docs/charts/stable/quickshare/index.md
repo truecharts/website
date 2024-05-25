@@ -14,7 +14,6 @@ Quick and simple file sharing between different devices.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

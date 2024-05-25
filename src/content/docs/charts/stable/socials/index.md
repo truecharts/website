@@ -15,7 +15,6 @@ Socials is a single-page website that stores all your social media and personal 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

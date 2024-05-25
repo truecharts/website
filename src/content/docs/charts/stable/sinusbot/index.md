@@ -14,7 +14,6 @@ SinusBot is a MusicBot that will let you listen to music together with your frie
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

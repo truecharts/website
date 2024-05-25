@@ -14,7 +14,6 @@ A simple, self-hosted, encrypted Markdown note-taking app built with Vue 3, and 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

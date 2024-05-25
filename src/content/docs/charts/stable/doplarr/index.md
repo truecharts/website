@@ -14,7 +14,6 @@ An *arr Request Bot for Discord
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

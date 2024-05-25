@@ -13,7 +13,6 @@ GoAccess is an open source real-time web log analyzer and interactive viewer tha
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ PhotoStructure is your new home for all your photos and videos.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

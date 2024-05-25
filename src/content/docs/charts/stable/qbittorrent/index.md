@@ -15,7 +15,6 @@ qBittorrent is a cross-platform free and open-source BitTorrent client
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Guide**](./installation)
 - [**Initial Password**](./password)
 - [**Automatic Gluetun Port Forwarding**](./port-forwarding)

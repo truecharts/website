@@ -13,7 +13,6 @@ This is a simple Chart that will check if a domain name or IP address is pingabl
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

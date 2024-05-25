@@ -14,7 +14,6 @@ A simple script to monitor qBit and communicate with Radarr and Sonarr.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation-notes)
 
 ## Readme Content

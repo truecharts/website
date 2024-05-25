@@ -14,7 +14,6 @@ YoutubeDL-Material is a Material Design frontend for youtube-dl.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

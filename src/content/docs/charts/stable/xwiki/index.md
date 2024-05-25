@@ -14,7 +14,6 @@ XWiki is a free wiki software platform written in Java with a design emphasis on
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

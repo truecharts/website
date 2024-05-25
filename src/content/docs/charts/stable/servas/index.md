@@ -14,7 +14,6 @@ A self-hosted bookmark management tool.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

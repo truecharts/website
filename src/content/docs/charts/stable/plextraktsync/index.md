@@ -14,7 +14,6 @@ Two-way-sync between trakt.tv and Plex Media Server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

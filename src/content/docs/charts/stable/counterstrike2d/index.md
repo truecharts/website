@@ -14,7 +14,6 @@ This Chart will download and install CounterStrike 2D.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

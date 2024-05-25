@@ -13,7 +13,6 @@ Channels DVR Server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Channels DVR Installation Notes**](./installation_notes)
 
 ## Readme Content

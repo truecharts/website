@@ -14,7 +14,6 @@ A remote control and remote scripting solution, built with .NET 5, Blazor, Signa
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

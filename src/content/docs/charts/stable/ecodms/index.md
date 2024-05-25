@@ -14,7 +14,6 @@ ecoDMS 18.09 (apu) Full Installation - Document Management System (DMS) - Audit-
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

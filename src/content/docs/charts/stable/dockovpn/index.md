@@ -14,7 +14,6 @@ Out of the box stateless VPN server docker image which starts in just a few seco
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Setup Guide**](./setup-guide)
 
 ## Readme Content

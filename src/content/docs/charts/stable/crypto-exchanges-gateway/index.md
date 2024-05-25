@@ -14,7 +14,6 @@ Your gateway to the world of crypto
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

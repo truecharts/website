@@ -15,7 +15,6 @@ WeKan - Open Source kanban
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

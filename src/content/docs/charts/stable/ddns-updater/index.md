@@ -14,7 +14,6 @@ Light container updating DNS A and/or AAAA records periodically for multiple DNS
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**How To**](./how-to)
 
 ## Readme Content

@@ -16,7 +16,6 @@ Webtop full desktop environments in officially supported flavors accessible via 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default credentials**](./credentials)
 
 ## Readme Content

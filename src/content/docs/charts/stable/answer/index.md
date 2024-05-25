@@ -14,7 +14,6 @@ A Q&A platform software for teams at any scales.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

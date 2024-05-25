@@ -14,7 +14,6 @@ Speedtest Exporter made in python using the official speedtest bin
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ BatNoter is a web application that allows users to store notes in their git repo
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

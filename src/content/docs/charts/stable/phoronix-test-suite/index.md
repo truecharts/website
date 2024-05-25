@@ -14,7 +14,6 @@ The Phoronix Test Suite is the most comprehensive testing and benchmarking platf
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

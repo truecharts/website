@@ -15,7 +15,6 @@ A fast and minimal paste bin, written in Python using Quart.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

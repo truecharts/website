@@ -14,7 +14,6 @@ PicoShare is a minimalist service that allows you to share files easily.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

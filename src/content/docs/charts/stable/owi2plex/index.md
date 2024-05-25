@@ -14,7 +14,6 @@ a xml grabber for enigma with open webif
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

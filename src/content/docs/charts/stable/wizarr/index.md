@@ -14,7 +14,6 @@ A automatic user invitation system for Plex.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -13,7 +13,6 @@ Kerio Connect is Mail/Groupware like Microsoft Exchange, but running on Linux. M
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

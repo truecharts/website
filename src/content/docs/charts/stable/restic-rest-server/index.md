@@ -14,7 +14,6 @@ Rest Server is a high performance HTTP server that implements restic's REST back
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

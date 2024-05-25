@@ -14,7 +14,6 @@ Usenet meta search
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ The open source VNC client
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Open source, advanced key-value store.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

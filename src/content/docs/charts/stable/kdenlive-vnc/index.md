@@ -14,7 +14,6 @@ An instance of kdenlive accessible through vnc and noVnc (=Web Interface)
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

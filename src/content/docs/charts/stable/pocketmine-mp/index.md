@@ -14,7 +14,6 @@ A server software for Minecraft Bedrock Edition in PHP.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

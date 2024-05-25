@@ -14,7 +14,6 @@ Apt-Cacher NG is a caching proxy, specialized for package files from Linux distr
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**How-To**](./how-to)
 
 ## Readme Content

@@ -14,7 +14,6 @@ Automatically obtain your public network IPv4 or IPv6 address and resolve it to 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

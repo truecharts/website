@@ -14,7 +14,6 @@ Unturned SteamCMD
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

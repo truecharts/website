@@ -14,7 +14,6 @@ Your favorite operating systems in one place!
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

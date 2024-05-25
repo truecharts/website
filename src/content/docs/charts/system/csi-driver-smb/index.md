@@ -15,7 +15,6 @@ csi-driver-smb is a smb CSI driver for kubernetes
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

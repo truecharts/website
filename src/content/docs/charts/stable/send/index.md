@@ -13,7 +13,6 @@ A fork of Mozilla's Firefox Send.Mozilla discontinued Send, this fork is a commu
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

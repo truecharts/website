@@ -14,7 +14,6 @@ Space Engineers Dedicated Server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

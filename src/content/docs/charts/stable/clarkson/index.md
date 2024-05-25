@@ -14,7 +14,6 @@ A web-based dashboard application that gives you a neat and clean interface for 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

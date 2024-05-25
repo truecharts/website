@@ -16,7 +16,6 @@ Traefik-CRDs contains the CRD's for Traefik
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

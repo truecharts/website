@@ -17,7 +17,6 @@ Plausible is lightweight and open source web analytics. No cookies and fully com
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

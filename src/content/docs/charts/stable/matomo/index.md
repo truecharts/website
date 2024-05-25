@@ -15,7 +15,6 @@ Matomo is the leading Free/Libre open analytics platform
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

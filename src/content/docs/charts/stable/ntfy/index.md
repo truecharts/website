@@ -14,7 +14,6 @@ ntfy is a simple HTTP-based pub-sub notification service. It allows you to send 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -15,7 +15,6 @@ Easy platform to combine all your social links
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

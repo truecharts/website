@@ -14,7 +14,6 @@ The personal, minimalist, super-fast, database free, bookmarking service.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

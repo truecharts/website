@@ -14,7 +14,6 @@ This is a Basic Vintage Story Server it will download and install Vintage Story 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

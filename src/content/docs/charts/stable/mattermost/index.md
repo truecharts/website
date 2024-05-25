@@ -15,7 +15,6 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

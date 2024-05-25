@@ -13,7 +13,6 @@ Couchpotato is an automatic NZB and torrent downloader.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

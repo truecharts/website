@@ -15,7 +15,6 @@ Storj is an S3-compatible platform and suite of decentralized applications that 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

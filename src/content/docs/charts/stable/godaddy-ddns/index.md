@@ -13,7 +13,6 @@ Chart to provide a DDNS service for godaddy domains. Uses the GoDaddy REST API t
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

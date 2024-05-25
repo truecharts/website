@@ -15,7 +15,6 @@ A gallery software at its easiest, it doesn't even require a database.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

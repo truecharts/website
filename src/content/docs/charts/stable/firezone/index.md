@@ -14,7 +14,6 @@ WireGuard-based VPN server and egress firewall
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

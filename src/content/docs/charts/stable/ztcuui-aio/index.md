@@ -14,7 +14,6 @@ ZeroTier network controller user interface in a Docker container
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

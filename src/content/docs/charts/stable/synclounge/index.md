@@ -13,7 +13,6 @@ Synclounge is a third party tool that allows you to watch Plex in sync with your
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

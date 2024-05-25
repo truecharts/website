@@ -13,7 +13,6 @@ This is a Chart of Thunder downloader.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

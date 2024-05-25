@@ -14,7 +14,6 @@ Enjoy Cura directly in your browser with this easy to use Chart
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

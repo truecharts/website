@@ -14,7 +14,6 @@ Chromium is a free and open-source software project developed by the Google-spon
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -15,7 +15,6 @@ A super-sexy voice interface for the Plex HTPC.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

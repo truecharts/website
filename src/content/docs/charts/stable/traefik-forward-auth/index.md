@@ -14,7 +14,6 @@ A minimal forward authentication service that provides OAuth/SSO login and authe
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**traefik-forward-auth**](./how-to)
 
 ## Readme Content

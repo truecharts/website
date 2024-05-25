@@ -13,7 +13,6 @@ Sourcegraph Chart.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

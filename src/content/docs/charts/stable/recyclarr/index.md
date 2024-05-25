@@ -15,7 +15,6 @@ A command-line application that will automatically synchronize recommended setti
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

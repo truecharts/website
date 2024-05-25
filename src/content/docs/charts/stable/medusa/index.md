@@ -15,7 +15,6 @@ An automatic Video Library Manager for TV Shows
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

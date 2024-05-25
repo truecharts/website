@@ -14,7 +14,6 @@ With this Chart you can run FiveM (GTA V MOD SERVER) it will automatically downl
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

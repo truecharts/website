@@ -14,7 +14,6 @@ PhotoPrism® is a server-based application for browsing, organizing and sharing 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

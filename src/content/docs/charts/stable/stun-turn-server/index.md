@@ -13,7 +13,6 @@ This is a Basic STUN & TURN server that was mainly created for Nextcloud Talk.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

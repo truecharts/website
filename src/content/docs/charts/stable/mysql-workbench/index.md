@@ -13,7 +13,6 @@ MySQL Workbench is a unified visual tool for database architects, developers and
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -15,7 +15,6 @@ A cross-platform, high-performance and asynchronous web server for static files-
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

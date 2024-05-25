@@ -14,7 +14,6 @@ A Headless Steam chart.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

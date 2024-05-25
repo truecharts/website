@@ -14,7 +14,6 @@ A self-hosted blogging platform in which posts are written in markdown
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

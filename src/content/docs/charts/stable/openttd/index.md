@@ -14,7 +14,6 @@ This Chart will download and install the version of OpenTTD that you enter in th
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

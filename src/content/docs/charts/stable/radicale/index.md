@@ -16,7 +16,6 @@ Radicale is a small but powerful CalDAV (calendars, to-do lists) and CardDAV (co
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

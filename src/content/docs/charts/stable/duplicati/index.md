@@ -14,7 +14,6 @@ Store securely encrypted backups on cloud storage services!
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Ingress**](./ingress)
 
 ## Readme Content

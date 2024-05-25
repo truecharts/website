@@ -14,7 +14,6 @@ Provides management of TV shows and/or Anime, it detects new episodes, links dow
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

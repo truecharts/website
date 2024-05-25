@@ -14,7 +14,6 @@ Synchronized video viewing with chat and other features. Lightweight modern impl
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

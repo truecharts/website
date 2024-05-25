@@ -13,7 +13,6 @@ Index and stream music using apache-musicindex and m3u playlists
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

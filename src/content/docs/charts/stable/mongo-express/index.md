@@ -14,7 +14,6 @@ mongo-express is a web-based MongoDB admin interface written in Node.js, Express
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

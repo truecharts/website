@@ -14,7 +14,6 @@ Dropbox client which syncs a local path with your cloud.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

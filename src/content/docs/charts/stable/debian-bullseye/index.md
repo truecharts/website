@@ -14,7 +14,6 @@ This Chart is a full Debian Bullseye Xfce4 Desktop environment with a noVNC webG
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

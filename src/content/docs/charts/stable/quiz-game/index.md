@@ -15,7 +15,6 @@ Test your General Knowledge in different types of topics.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

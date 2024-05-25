@@ -15,7 +15,6 @@ ONLYOFFICE Document Server is an online office suite comprising viewers and edit
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

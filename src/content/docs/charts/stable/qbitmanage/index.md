@@ -14,7 +14,6 @@ This tool will help manage tedious tasks in qBittorrent and automate them. Tag, 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

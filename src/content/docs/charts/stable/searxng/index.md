@@ -14,7 +14,6 @@ Meta search engine which aggregates results from more than 70 search services.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

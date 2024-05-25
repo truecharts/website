@@ -13,7 +13,6 @@ Advanced tool to create your own TrueCharts-based Charts
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

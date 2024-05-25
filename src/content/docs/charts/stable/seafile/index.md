@@ -14,7 +14,6 @@ Reliable and Performant File Sync and Share Solution
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation notes and guidelines**](./install-notes)
 
 ## Readme Content

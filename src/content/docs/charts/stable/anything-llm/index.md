@@ -14,7 +14,6 @@ Open-source ChatGPT experience for LLMs, embedders, and vector databases.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -15,7 +15,6 @@ A web app that allows you to create smart bookmarks, commands and aliases by poi
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

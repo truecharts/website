@@ -14,7 +14,6 @@ the front-end of a cluster of minecraft-java containers.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**How To**](./how-to)
 - [**Installation Notes**](./installation_notes)
 

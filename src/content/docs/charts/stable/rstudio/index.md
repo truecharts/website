@@ -14,7 +14,6 @@ Integrated development environment for R, a programming language for statistical
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tag
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

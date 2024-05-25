@@ -15,7 +15,6 @@ The best and simplest free open source website change detection, website watcher
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

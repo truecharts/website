@@ -14,7 +14,6 @@ A simple WebGUI Fan controller for IPMI.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

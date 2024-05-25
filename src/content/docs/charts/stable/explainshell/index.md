@@ -14,7 +14,6 @@ Not everyone, especially people new to Linux and Unraid, know what a command tha
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

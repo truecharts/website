@@ -16,7 +16,6 @@ Fast, reliable, scalable, and easy to use open-source relational database system
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

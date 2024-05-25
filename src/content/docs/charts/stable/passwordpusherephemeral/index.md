@@ -14,7 +14,6 @@ Ephemeral version requires no other database Chart! PasswordPusher or PWPush is 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

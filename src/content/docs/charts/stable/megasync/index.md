@@ -14,7 +14,6 @@ MEGAsync can synchronize all of your devices with your MEGA account.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

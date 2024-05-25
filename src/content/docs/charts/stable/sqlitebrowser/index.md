@@ -15,7 +15,6 @@ A high quality, visual, open source tool to create, design, and edit database fi
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

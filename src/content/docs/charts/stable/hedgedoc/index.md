@@ -13,7 +13,6 @@ HedgeDoc lets you create real-time collaborative markdown notes.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

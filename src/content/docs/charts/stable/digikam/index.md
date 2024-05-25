@@ -15,7 +15,6 @@ Professional Photo Management with the Power of Open Source
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ A management console for minio server and operator
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ A lightweight, self-hosted paste platform.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

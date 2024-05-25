@@ -14,7 +14,6 @@ DNS Chart service for a steam cache.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

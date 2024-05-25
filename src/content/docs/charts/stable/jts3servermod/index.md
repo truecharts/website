@@ -16,7 +16,6 @@ JTS3ServerMod by Stefan1200
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

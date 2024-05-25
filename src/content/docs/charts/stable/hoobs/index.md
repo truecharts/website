@@ -13,7 +13,6 @@ HOOBS is a Homebridge stack with a interface that simplifies configuration and i
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

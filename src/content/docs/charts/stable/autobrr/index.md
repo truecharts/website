@@ -14,7 +14,6 @@ The modern download automation tool for torrents.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

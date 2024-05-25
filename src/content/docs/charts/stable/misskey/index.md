@@ -14,7 +14,6 @@ Open source decentralized social media platform that's free forever!
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

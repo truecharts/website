@@ -15,7 +15,6 @@ Self hosted web app for shortening urls (URL shortener)
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

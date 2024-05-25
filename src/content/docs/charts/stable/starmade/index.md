@@ -14,7 +14,6 @@ This Chart will download and install a StarMade Dedicated Server. It will also i
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Slskd is a modern client-server application for the Soulseek file sharing networ
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

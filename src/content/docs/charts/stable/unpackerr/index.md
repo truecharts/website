@@ -14,7 +14,6 @@ This application runs as a daemon on your download host. It checks for completed
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

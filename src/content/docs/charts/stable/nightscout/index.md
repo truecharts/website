@@ -15,7 +15,6 @@ Allows the installation of Nightscout, a remote CGM monitoring system. It allows
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ HTML5 Network Speed Test Server. You can test download & upload speed from any d
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

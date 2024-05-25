@@ -15,7 +15,6 @@ Authelia is a Single Sign-On Multi-Factor portal for web apps
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Authelia + LLDAP + Traefik ForwardAuth Setup guide**](./setup-guide)
 - [**Authelia Rules**](./authelia-rules)
 - [**Input Validation**](./validation)

@@ -15,7 +15,6 @@ Self hosted note taking, alternative to Notions. Look at Github for config
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

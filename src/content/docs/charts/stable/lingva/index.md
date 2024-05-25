@@ -14,7 +14,6 @@ Alternative front-end for Google Translate, serving as a Free and Open Source tr
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

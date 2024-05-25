@@ -15,7 +15,6 @@ A Modern Deluge Interface.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

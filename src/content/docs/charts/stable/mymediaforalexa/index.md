@@ -14,7 +14,6 @@ This is the multi-platform Docker image for My Media for Alexa - https://www.mym
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

@@ -14,7 +14,6 @@ fast, easy, and free BitTorrent client.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

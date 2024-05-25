@@ -14,7 +14,6 @@ A Lidarr companion script to automatically download music for Lidarr.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Business intelligence, dashboards, and data visualization tools
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

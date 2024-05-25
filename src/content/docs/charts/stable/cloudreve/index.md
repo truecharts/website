@@ -14,7 +14,6 @@ Self-hosted file management and sharing system, supports multiple storage provid
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Important Notes**](./installation_notes)
 
 ## Readme Content

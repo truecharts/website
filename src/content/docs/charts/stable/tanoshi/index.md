@@ -14,7 +14,6 @@ Selfhosted web manga reader.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

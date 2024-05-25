@@ -15,7 +15,6 @@ A Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Discord bot that provides metrics from a Discord server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

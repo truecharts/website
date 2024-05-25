@@ -13,7 +13,6 @@ ZeroTier is a smart programmable Ethernet switch for planet Earth
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**How-To**](./how-to-guide)
 
 ## Readme Content

@@ -14,7 +14,6 @@ Welcome to the free social web
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

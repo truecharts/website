@@ -14,7 +14,6 @@ A administrative platform for devices flashed with Tasmota.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

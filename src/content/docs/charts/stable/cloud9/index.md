@@ -15,7 +15,6 @@ A complete web based IDE with terminal access
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

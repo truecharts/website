@@ -13,7 +13,6 @@ OpenHab is a home-automation application
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

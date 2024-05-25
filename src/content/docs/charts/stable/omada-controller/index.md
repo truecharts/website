@@ -14,7 +14,6 @@ Omada is a SDN tool for TP-Link Omada hardware
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

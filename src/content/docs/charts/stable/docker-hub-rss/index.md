@@ -14,7 +14,6 @@ RSS feed for Chart Hub images.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

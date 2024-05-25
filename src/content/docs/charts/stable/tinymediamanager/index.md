@@ -14,7 +14,6 @@ TinyMediaManager is a full featured media manager to organize and clean up your 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

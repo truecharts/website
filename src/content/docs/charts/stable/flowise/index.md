@@ -14,7 +14,6 @@ Drag & drop UI to build your customized LLM flow.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

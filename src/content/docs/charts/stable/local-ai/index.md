@@ -14,7 +14,6 @@ Self-hosted, community-driven, local OpenAI-compatible API.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

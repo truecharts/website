@@ -15,7 +15,6 @@ JDownloader is a free, open-source download management tool with a huge communit
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

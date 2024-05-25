@@ -14,7 +14,6 @@ Resilio Sync is a fast, reliable, and simple file sync and share solution, power
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -13,7 +13,6 @@ Nano-wallet is a digital payment protocol designed to be accessible and lightwei
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

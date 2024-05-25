@@ -15,7 +15,6 @@ MKVToolNix is a set of tools to create, alter and inspect Matroska files.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ A self-hosted telegram JS/TS bot that dumps posts from RSS feeds to a telegram c
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

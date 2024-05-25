@@ -14,7 +14,6 @@ A fancy self-hosted monitoring tool
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

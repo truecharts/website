@@ -13,7 +13,6 @@ ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS prov
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**External-DNS Setup Guide**](./setup-guide)
 
 ## Readme Content

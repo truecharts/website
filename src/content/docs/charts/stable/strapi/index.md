@@ -15,7 +15,6 @@ Open-source headless CMS. JavaScript, fully customizable and developer-first.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

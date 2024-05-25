@@ -15,7 +15,6 @@ Lightweight self-hosted facebook-styled PHP blog.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

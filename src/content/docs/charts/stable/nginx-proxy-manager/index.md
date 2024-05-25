@@ -15,7 +15,6 @@ Managing Nginx proxy hosts with a simple, powerful interface.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default Username/Password**](./credentials)
 - [**Disclaimer**](./disclaimer)
 

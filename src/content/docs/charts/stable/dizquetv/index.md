@@ -14,7 +14,6 @@ Create live TV channel streams from media on your Plex servers.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

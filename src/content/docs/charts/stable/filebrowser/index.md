@@ -15,7 +15,6 @@ Filebrowser provides a file managing interface within a specified directory
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation notes**](./installation_notes)
 
 ## Readme Content

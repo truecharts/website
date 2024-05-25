@@ -14,7 +14,6 @@ ErsatzTV configuring and streaming custom live channels using your media library
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

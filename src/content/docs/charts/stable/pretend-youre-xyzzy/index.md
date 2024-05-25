@@ -15,7 +15,6 @@ pretend-youre-xyzzy, a cards against humanity clone
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

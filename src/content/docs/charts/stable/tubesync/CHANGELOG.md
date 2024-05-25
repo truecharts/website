@@ -1,7 +1,3 @@
----
-title: Changelog
-pagefind: false
----
 
 
 

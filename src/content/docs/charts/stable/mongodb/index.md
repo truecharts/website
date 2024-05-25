@@ -15,7 +15,6 @@ Fast, reliable, scalable, and easy to use open-source no-sql database system.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

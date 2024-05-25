@@ -14,7 +14,6 @@ Sync your Spotify and Deezer playlists to your Plex server.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

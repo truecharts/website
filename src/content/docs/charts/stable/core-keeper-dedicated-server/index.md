@@ -14,7 +14,6 @@ Chart file for the new Core Keeper dedicated server running from SteamCMD. (No a
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

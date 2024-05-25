@@ -14,7 +14,6 @@ A simple, high-reliability, distributed software configuration management system
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

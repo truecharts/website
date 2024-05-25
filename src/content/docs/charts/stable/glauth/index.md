@@ -14,7 +14,6 @@ GLAuth is a secure, easy-to-use, LDAP server with configurable backends.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

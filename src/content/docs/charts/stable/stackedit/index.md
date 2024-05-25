@@ -14,7 +14,6 @@ StackEdits Markdown syntax highlighting is unique. The refined text formatting o
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

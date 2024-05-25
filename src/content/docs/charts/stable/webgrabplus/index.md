@@ -13,7 +13,6 @@ Webgrabplus is a multi-site incremental xmltv epg grabber.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

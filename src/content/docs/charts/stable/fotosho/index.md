@@ -14,7 +14,6 @@ title: fotosho
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

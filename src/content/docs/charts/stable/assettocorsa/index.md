@@ -14,7 +14,6 @@ This Chart will download and install SteamCMD. It will also install AssettoCorsa
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

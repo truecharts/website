@@ -14,7 +14,6 @@ A script to enable customers of lazy ISPs to perform measurement campaigns of th
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

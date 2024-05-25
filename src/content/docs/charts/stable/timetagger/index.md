@@ -15,7 +15,6 @@ An open source time-tracker with an interactive user experience and powerful rep
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Credential Generation Basic Auth**](./install)
 
 ## Readme Content

@@ -14,7 +14,6 @@ All your audiobooks in one place
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Krusader is an advanced orthodox file manager for KDE and other desktops in the 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

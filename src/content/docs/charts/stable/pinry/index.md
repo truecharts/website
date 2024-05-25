@@ -14,7 +14,6 @@ The open-source core of Pinry, a tiling image board system for people who want t
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ An adult media thingy.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

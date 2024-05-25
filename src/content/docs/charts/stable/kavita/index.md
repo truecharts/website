@@ -14,7 +14,6 @@ Kavita is a rocket fueled self-hosted digital library which supports a vast arra
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

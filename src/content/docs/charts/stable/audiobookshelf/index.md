@@ -14,7 +14,6 @@ Audiobookshelf is a self-hosted audiobook server for managing and playing your a
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

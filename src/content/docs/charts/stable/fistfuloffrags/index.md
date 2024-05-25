@@ -14,7 +14,6 @@ This Chart will download and install SteamCMD. It will also install Fistful of F
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ A self-hosted midwestern Discord music bot that doesn't suck.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

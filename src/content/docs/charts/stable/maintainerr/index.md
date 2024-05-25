@@ -14,7 +14,6 @@ Looks and smells like Overseerr, does the opposite. Maintenance tool for the Ple
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

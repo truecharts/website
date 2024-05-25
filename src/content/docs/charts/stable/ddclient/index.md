@@ -13,7 +13,6 @@ Ddclient is a Perl client used to update dynamic DNS entries for accounts on Dyn
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

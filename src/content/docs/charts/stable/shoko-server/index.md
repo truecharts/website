@@ -14,7 +14,6 @@ Anime cataloging program designed to automate the cataloging of your collection.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

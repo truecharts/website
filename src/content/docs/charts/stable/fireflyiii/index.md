@@ -14,7 +14,6 @@ A free and open source personal finance manager
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Important Notes**](./installation_notes)
 - [**Input Validation**](./validation)
 

@@ -14,7 +14,6 @@ This is a dependancy Chart for the application "TubeArchivist"
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

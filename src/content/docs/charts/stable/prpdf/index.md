@@ -14,7 +14,6 @@ This tool is for Preview and Rename scanned PDF-Documents. Rulebased autoscan wi
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

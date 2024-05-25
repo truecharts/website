@@ -14,7 +14,6 @@ TwonkyMedia server (TMS) is DLNA-compliant UPnP AV server software from PacketVi
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

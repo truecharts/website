@@ -14,7 +14,6 @@ CTFd is a Capture The Flag framework focusing on ease of use and customizability
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

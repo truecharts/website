@@ -14,7 +14,6 @@ An open source ticket management & help desk solution.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

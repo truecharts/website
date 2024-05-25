@@ -14,7 +14,6 @@ HTPC/Homelab Services Organizer
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Organizr Forward Auth Setup Guide**](./forward_auth)
 
 ## Readme Content

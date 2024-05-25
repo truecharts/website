@@ -14,7 +14,6 @@ Homepage: http://bpatrik.github.io/pigallery2/
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

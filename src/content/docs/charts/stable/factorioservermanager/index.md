@@ -14,7 +14,6 @@ A tool for managing Factorio servers
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

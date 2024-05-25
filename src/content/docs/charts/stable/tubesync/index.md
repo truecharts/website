@@ -15,7 +15,6 @@ TubeSync is a PVR (personal video recorder) for YouTube. Or, like Sonarr but for
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

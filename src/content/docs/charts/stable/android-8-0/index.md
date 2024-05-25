@@ -14,7 +14,6 @@ Android in Chart solution with noVNC supported and video recording. Work way bet
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

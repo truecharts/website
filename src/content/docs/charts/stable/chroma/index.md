@@ -14,7 +14,6 @@ the AI-native open-source embedding database.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ A safe and private place for your life's work.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

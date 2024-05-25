@@ -15,7 +15,6 @@ A lightweight portal to view & manage your HTPC apps without having to run anyth
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

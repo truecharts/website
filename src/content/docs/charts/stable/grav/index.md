@@ -15,7 +15,6 @@ A Fast, Simple, and Flexible, file-based Web-platform.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

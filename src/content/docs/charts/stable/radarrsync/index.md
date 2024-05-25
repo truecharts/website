@@ -14,7 +14,6 @@ RadarrSync Syncs two Radarr servers through web API. This is a modified version 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

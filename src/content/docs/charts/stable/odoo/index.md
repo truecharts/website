@@ -14,7 +14,6 @@ All-in-one business software. Beautiful. Easy-to-use. CRM, Accounting, PM, HR, P
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default credentials**](./credentials)
 
 ## Readme Content

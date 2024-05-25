@@ -15,7 +15,6 @@ A personal music streaming server
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

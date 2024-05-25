@@ -14,7 +14,6 @@ Protect your email from spam using disposable addresses.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

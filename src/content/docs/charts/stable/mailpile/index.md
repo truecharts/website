@@ -14,7 +14,6 @@ Mailpile is software, an e-mail client. It runs on your desktop or laptop comput
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

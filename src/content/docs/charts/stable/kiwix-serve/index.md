@@ -15,7 +15,6 @@ Kiwix enables you to have the whole Wikipedia at hand wherever you go!
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

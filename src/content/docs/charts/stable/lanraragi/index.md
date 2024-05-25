@@ -15,7 +15,6 @@ Open source server for archival of comics/manga.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Default Password**](./credentials)
 
 ## Readme Content

@@ -14,7 +14,6 @@ Custom themes for your favorite apps!
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

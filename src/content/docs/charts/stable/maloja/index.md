@@ -14,7 +14,6 @@ Self-hosted music scrobble database to create personal listening statistics and 
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

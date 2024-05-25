@@ -14,7 +14,6 @@ Automated language selection for Plex TV Shows.
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 - [**Installation Notes**](./installation_notes)
 
 ## Readme Content

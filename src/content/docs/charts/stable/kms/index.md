@@ -14,7 +14,6 @@ Private Windows Activation Server for development and testing
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 

@@ -14,7 +14,6 @@ Wallos - Self Hosted Subscription tracker
 
 ## Available Documentation
 
-- [**Changelog**](./changelog)
 
 ## Readme Content
 
