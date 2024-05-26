@@ -10,16 +10,16 @@ A self hosted virtual browser that runs in Chart
 
 - https://github.com/m1k1o/neko
 - https://github.com/truecharts/charts/tree/master/charts/stable/neko
-- https://ghcr.io/m1k1o/neko/brave
+- https://ghcr.io/m1k1o/neko/microsoft-edge
+- https://ghcr.io/m1k1o/neko/firefox
 - https://ghcr.io/m1k1o/neko/vivaldi
 - https://ghcr.io/m1k1o/neko/remmina
 - https://ghcr.io/m1k1o/neko/tor-browser
 - https://ghcr.io/m1k1o/neko/vlc
+- https://ghcr.io/m1k1o/neko/brave
 - https://ghcr.io/m1k1o/neko/xfce
 - https://ghcr.io/m1k1o/neko/chromium
-- https://ghcr.io/m1k1o/neko/microsoft-edge
 - https://ghcr.io/m1k1o/neko/google-chrome
-- https://ghcr.io/m1k1o/neko/firefox
 
 ## Available Documentation
 
@@ -52,14 +52,7 @@ For more information on how to install TrueCharts Helm charts, checkout the inst
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale/guides/scale-intro).
-
-### Configuration Options
-
-To view the chart specific options, please view Values.yaml included in the chart.
-
-All our Charts use a shared "common" library chart that contains most of the templating and options.
-For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
 
 ### Chart Specific Guides and information
 
@@ -67,8 +60,20 @@ All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
 https://truecharts.org/charts/stable/neko
 
-### Support
+### Configuration Options
 
+Please note: For TrueNAS SCALE, only options available in the GUI are supported.
+Hence most of these docs do not apply to TrueNAS SCALE
+
+To view the chart specific options, please view Values.yaml included in the chart.
+The most recent version of which, is available here: https://github.com/truecharts/charts/charts/stable/neko/values.yaml
+
+All our Charts use a shared "common" library chart that contains most of the templating and options.
+For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+
+For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
+
+### Support
 
 - See the [Website](https://truecharts.org)
 - Check our [Discord](https://discord.gg/tVsPTHWTtr)
