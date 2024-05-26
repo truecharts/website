@@ -74,6 +74,12 @@ To be done. This section will contain information to export your App configurati
 
 ## Restoration Configuration
 
+:::note[SCALE Restore Functionality]
+
+As mentioned in our news post, this new restore functionality isn't yet functional on TrueNAS SCALE due to an upstream bug with OpenEBS. We've submitted a bug report and will update this page once resolved.
+
+:::
+
 ### Recreating an App
 
 When you've no exported app configuration, you can remake the app while also restoring your PVC and CNPG backups using the steps as follows:
