@@ -115,13 +115,21 @@ Once you have completed the above, you are finished the migration process. Your 
 
 ![OpenEBS Apps](./img/openebs-datasets.png)
 
-Where you have a top-level dataset for everything related to apps (in the above image this is the "Apps" one), an "ix-applications" dataset which still retains non-PVC data for your apps and should **NOT** be deleted, and the dataset you created for OpenEBS use in an earlier part of this guide. In the above photo, this is the "pvcApps" dataset.
+Where you have a top-level dataset for everything related to apps (in the above image this is the "Apps" one), an "ix-applications" dataset which still retains non-PVC data for your apps and should **NOT** be deleted, and the dataset you created for OpenEBS use in an earlier part of this guide or when fresh installing SCALE and following our getting started [guide](/scale/). In the above photo, this is the "pvcApps" dataset.
 
 Nested inside "pvcApps" (in the above example) will be the PVC folders for each of your apps that use PVC storage. Taking into account the above example layout, the OpenEBS operator apps' storage options will look like this (obviously adjust based on your naming and dataset layout):
 
 ![OpenEBS Storage](./img/openebs-options.png)
 
-Feel free to let the system settle for 30 minutes after completing the process and then reboot it to ensure that app apps come back online correctly. Note that the OpenEBS operator now handles all PVC storage functionality for your installed apps, and should not be removed.
+As you can see, I have 1 app using PVC storage, managed by OpenEBS, and whose data resides in the "pvc-7f970..." folder nested under pvcApps. You will have one of these nested folders for each app you have installed that uses PVC storage for application or config data.
+
+Feel free to let the system settle for 30 minutes after completing the process and then reboot it to ensure that app apps come back online correctly.
+
+:::note[OpenEBS]
+    
+    The OpenEBS operator now handles all PVC storage functionality for your installed apps, and should **NOT** be removed.
+
+:::
 
 ## Known Issues with Migrations
 
