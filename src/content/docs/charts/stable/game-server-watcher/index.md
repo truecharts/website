@@ -8,9 +8,9 @@ A simple discord/telegram/slack bot to monitor your game servers and players in 
 
 ## Chart Sources
 
+- https://ghcr.io/a-sync/game-server-watcher
 - https://github.com/a-sync/game-server-watcher
 - https://github.com/truecharts/charts/tree/master/charts/stable/game-server-watcher
-- https://ghcr.io/a-sync/game-server-watcher
 
 ## Available Documentation
 

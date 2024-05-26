@@ -8,9 +8,9 @@ A SMTP service for relaying emails.
 
 ## Chart Sources
 
+- https://ghcr.io/ix-ai/smtp
 - https://github.com/ix-ai/smtp
 - https://github.com/truecharts/charts/tree/master/charts/stable/smtp-relay
-- https://ghcr.io/ix-ai/smtp
 
 ## Available Documentation
 

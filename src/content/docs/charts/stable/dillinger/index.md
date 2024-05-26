@@ -8,8 +8,8 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/dillinger
 - https://ghcr.io/linuxserver/dillinger
+- https://github.com/truecharts/charts/tree/master/charts/stable/dillinger
 
 ## Available Documentation
 

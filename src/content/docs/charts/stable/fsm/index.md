@@ -8,9 +8,9 @@ No description provide.
 
 ## Chart Sources
 
-- https://registry.hub.docker.com/r/ofsm/ofsm
 - https://github.com/truecharts/charts/tree/master/charts/stable/fsm
 - https://hub.docker.com/r/ofsm/ofsm
+- https://registry.hub.docker.com/r/ofsm/ofsm
 
 ## Available Documentation
 

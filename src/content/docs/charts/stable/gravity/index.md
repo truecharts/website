@@ -8,9 +8,9 @@ Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd.
 
 ## Chart Sources
 
+- https://ghcr.io/beryju/gravity
 - https://github.com/BeryJu/gravity
 - https://github.com/truecharts/charts/tree/master/charts/stable/gravity
-- https://ghcr.io/beryju/gravity
 
 ## Available Documentation
 

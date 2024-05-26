@@ -8,9 +8,9 @@ A administrative platform for devices flashed with Tasmota.
 
 ## Chart Sources
 
+- https://ghcr.io/tasmoadmin/tasmoadmin
 - https://github.com/TasmoAdmin/TasmoAdmin
 - https://github.com/truecharts/charts/tree/master/charts/stable/tasmoadmin
-- https://ghcr.io/tasmoadmin/tasmoadmin
 
 ## Available Documentation
 

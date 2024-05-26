@@ -8,9 +8,9 @@ This Chart will download and install Thunderbird in the preferred version and la
 
 ## Chart Sources
 
-- https://www.thunderbird.net/
 - https://github.com/truecharts/charts/tree/master/charts/stable/thunderbird
 - https://hub.docker.com/r/ich777/thunderbird
+- https://www.thunderbird.net/
 
 ## Available Documentation
 

@@ -8,8 +8,8 @@ BOINC is a platform for high-throughput computing on a large scale (thousands or
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/boinc
 - https://ghcr.io/linuxserver/boinc
+- https://github.com/truecharts/charts/tree/master/charts/stable/boinc
 
 ## Available Documentation
 

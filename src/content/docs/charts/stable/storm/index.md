@@ -8,10 +8,10 @@ A Modern Deluge Interface.
 
 ## Chart Sources
 
-- https://github.com/relvacode/storm/pkgs/container/storm
-- https://github.com/relvacode/storm
-- https://github.com/truecharts/charts/tree/master/charts/stable/storm
 - https://ghcr.io/relvacode/storm
+- https://github.com/relvacode/storm
+- https://github.com/relvacode/storm/pkgs/container/storm
+- https://github.com/truecharts/charts/tree/master/charts/stable/storm
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ sd-webui-docker Chart
 
 ## Chart Sources
 
+- https://ghcr.io/neggles/sd-webui-docker
 - https://github.com/ahmetoner/sd-webui-docker/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/sd-webui-docker
-- https://ghcr.io/neggles/sd-webui-docker
 
 ## Available Documentation
 

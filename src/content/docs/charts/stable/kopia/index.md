@@ -9,9 +9,9 @@ Kopia is a simple, cross-platform tool for managing encrypted backups in the clo
 ## Chart Sources
 
 - https://github.com/kopia/kopia
-- https://kopia.io/docs/installation/#docker-images
 - https://github.com/truecharts/charts/tree/master/charts/stable/kopia
 - https://hub.docker.com/r/kopia/kopia
+- https://kopia.io/docs/installation/#docker-images
 
 ## Available Documentation
 

@@ -9,9 +9,9 @@ A music library manager and not, for the most part, a music player.
 ## Chart Sources
 
 - https://beets.io/
+- https://ghcr.io/linuxserver/beets
 - https://github.com/linuxserver/docker-beets
 - https://github.com/truecharts/charts/tree/master/charts/stable/beets
-- https://ghcr.io/linuxserver/beets
 
 ## Available Documentation
 

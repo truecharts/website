@@ -8,8 +8,8 @@ A free and open source alternative Twitter front-end focused on privacy and perf
 
 ## Chart Sources
 
-- https://github.com/zedeus/nitter
 - https://github.com/truecharts/charts/tree/master/charts/stable/nitter
+- https://github.com/zedeus/nitter
 - https://hub.docker.com/r/zedeus/nitter
 
 ## Available Documentation

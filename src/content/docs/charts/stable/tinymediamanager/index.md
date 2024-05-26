@@ -8,8 +8,8 @@ TinyMediaManager is a full featured media manager to organize and clean up your 
 
 ## Chart Sources
 
-- https://gitlab.com/tinyMediaManager/tinyMediaManager
 - https://github.com/truecharts/charts/tree/master/charts/stable/tinymediamanager
+- https://gitlab.com/tinyMediaManager/tinyMediaManager
 - https://hub.docker.com/r/tinymediamanager/tinymediamanager
 
 ## Available Documentation

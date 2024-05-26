@@ -8,10 +8,10 @@ A custom SteamCMD chart that runs Palworld.
 
 ## Chart Sources
 
+- https://ghcr.io/ich777/steamcmd
 - https://github.com/ich777/docker-steamcmd-server/tree/palworld
 - https://github.com/truecharts/charts/tree/master/charts/stable/palworld
 - https://hub.docker.com/r/outdead/rcon
-- https://ghcr.io/ich777/steamcmd
 
 ## Available Documentation
 

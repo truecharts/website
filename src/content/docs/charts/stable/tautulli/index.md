@@ -8,9 +8,9 @@ A Python based monitoring and tracking tool for Plex Media Server
 
 ## Chart Sources
 
+- https://ghcr.io/onedr0p/tautulli
 - https://github.com/Tautulli/Tautulli
 - https://github.com/truecharts/charts/tree/master/charts/stable/tautulli
-- https://ghcr.io/onedr0p/tautulli
 
 ## Available Documentation
 

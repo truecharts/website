@@ -8,8 +8,8 @@ GLAuth is a secure, easy-to-use, LDAP server with configurable backends.
 
 ## Chart Sources
 
-- https://glauth.github.io
 - https://github.com/truecharts/charts/tree/master/charts/stable/glauth
+- https://glauth.github.io
 - https://hub.docker.com/r/glauth/glauth
 
 ## Available Documentation

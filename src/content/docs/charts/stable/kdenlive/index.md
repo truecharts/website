@@ -8,11 +8,11 @@ Kdenlive(https://kdenlive.org/) is a powerful free and open source cross-platfor
 
 ## Chart Sources
 
+- https://fleet.linuxserver.io/image?name=linuxserver/kdenlive
 - https://github.com/linuxserver/docker-kdenlive#readme
-- https://kdenlive.org/
 - https://github.com/orgs/linuxserver/packages/container/package/kdenlive
 - https://github.com/truecharts/charts/tree/master/charts/stable/kdenlive
-- https://fleet.linuxserver.io/image?name=linuxserver/kdenlive
+- https://kdenlive.org/
 
 ## Available Documentation
 

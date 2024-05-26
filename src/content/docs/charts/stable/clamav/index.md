@@ -8,8 +8,8 @@ ClamAV is an open source antivirus engine for detecting trojans, viruses, malwar
 
 ## Chart Sources
 
-- https://github.com/Cisco-Talos/clamav
 - https://docs.clamav.net/
+- https://github.com/Cisco-Talos/clamav
 - https://github.com/truecharts/charts/tree/master/charts/stable/clamav
 - https://hub.docker.com/r/clamav/clamav
 

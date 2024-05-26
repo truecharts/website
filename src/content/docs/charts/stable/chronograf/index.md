@@ -8,9 +8,9 @@ Chronograf is InfluxData’s open source web application. Use Chronograf with th
 
 ## Chart Sources
 
-- https://www.influxdata.com/time-series-platform/chronograf/
 - https://github.com/truecharts/charts/tree/master/charts/stable/chronograf
 - https://hub.docker.com/_/chronograf
+- https://www.influxdata.com/time-series-platform/chronograf/
 
 ## Available Documentation
 

@@ -8,10 +8,10 @@ WeKan - Open Source kanban
 
 ## Chart Sources
 
-- https://wekan.github.io/
-- https://github.com/wekan/wekan
 - https://github.com/truecharts/charts/tree/master/charts/stable/wekan
+- https://github.com/wekan/wekan
 - https://hub.docker.com/r/wekanteam/wekan
+- https://wekan.github.io/
 
 ## Available Documentation
 

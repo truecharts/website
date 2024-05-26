@@ -8,8 +8,8 @@ Pylon is a web based integrated development environment.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/pylon
 - https://ghcr.io/linuxserver/pylon
+- https://github.com/truecharts/charts/tree/master/charts/stable/pylon
 
 ## Available Documentation
 

@@ -8,8 +8,8 @@ Nano-wallet is a digital payment protocol designed to be accessible and lightwei
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/nano-wallet
 - https://ghcr.io/linuxserver/nano-wallet
+- https://github.com/truecharts/charts/tree/master/charts/stable/nano-wallet
 
 ## Available Documentation
 

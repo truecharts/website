@@ -8,14 +8,14 @@ Authentik is an open-source Identity Provider focused on flexibility and versati
 
 ## Chart Sources
 
-- https://goauthentik.io/docs/
+- https://ghcr.io/goauthentik/ldap
+- https://ghcr.io/goauthentik/proxy
+- https://ghcr.io/goauthentik/radius
+- https://ghcr.io/goauthentik/server
+- https://ghcr.io/maxmind/geoipupdate
 - https://github.com/goauthentik/authentik
 - https://github.com/truecharts/charts/tree/master/charts/stable/authentik
-- https://ghcr.io/goauthentik/radius
-- https://ghcr.io/goauthentik/proxy
-- https://ghcr.io/goauthentik/server
-- https://ghcr.io/goauthentik/ldap
-- https://ghcr.io/maxmind/geoipupdate
+- https://goauthentik.io/docs/
 
 ## Available Documentation
 

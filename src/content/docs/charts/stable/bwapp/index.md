@@ -8,9 +8,9 @@ bWAPP, or a buggy web application, is a free and open source deliberately insecu
 
 ## Chart Sources
 
-- https://sourceforge.net/projects/bwapp/
 - https://github.com/truecharts/charts/tree/master/charts/stable/bwapp
 - https://hub.docker.com/r/raesene/bwapp
+- https://sourceforge.net/projects/bwapp/
 
 ## Available Documentation
 

@@ -8,10 +8,10 @@ Simple text sharing
 
 ## Chart Sources
 
-- https://github.com/seejohnrun/haste-server
-- https://github.com/k8s-at-home/container-images
-- https://github.com/truecharts/charts/tree/master/charts/stable/haste-server
 - https://ghcr.io/k8s-at-home/haste-server
+- https://github.com/k8s-at-home/container-images
+- https://github.com/seejohnrun/haste-server
+- https://github.com/truecharts/charts/tree/master/charts/stable/haste-server
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ ERP beyond your fridge - grocy is a web-based self-hosted groceries & household 
 
 ## Chart Sources
 
+- https://ghcr.io/linuxserver/grocy
 - https://github.com/grocy/grocy
 - https://github.com/truecharts/charts/tree/master/charts/stable/grocy
-- https://ghcr.io/linuxserver/grocy
 
 ## Available Documentation
 

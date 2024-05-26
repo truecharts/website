@@ -8,10 +8,10 @@ Sia is a decentralized cloud storage platform that radically alters the landscap
 
 ## Chart Sources
 
-- https://github.com/siafoundation/siad
-- https://github.com/SiaFoundation/siad/pkgs/container/siad
-- https://github.com/truecharts/charts/tree/master/charts/stable/sia-daemon
 - https://ghcr.io/siafoundation/siad
+- https://github.com/SiaFoundation/siad/pkgs/container/siad
+- https://github.com/siafoundation/siad
+- https://github.com/truecharts/charts/tree/master/charts/stable/sia-daemon
 
 ## Available Documentation
 

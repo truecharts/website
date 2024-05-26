@@ -8,9 +8,9 @@ Autoscan replaces the default Plex and Emby behaviour for picking up file change
 
 ## Chart Sources
 
-- https://hotio.dev/containers/autoscan
-- https://github.com/truecharts/charts/tree/master/charts/stable/autoscan
 - https://ghcr.io/hotio/autoscan
+- https://github.com/truecharts/charts/tree/master/charts/stable/autoscan
+- https://hotio.dev/containers/autoscan
 
 ## Available Documentation
 

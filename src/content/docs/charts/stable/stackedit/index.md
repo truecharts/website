@@ -8,9 +8,9 @@ StackEdits Markdown syntax highlighting is unique. The refined text formatting o
 
 ## Chart Sources
 
-- https://stackedit.io/
 - https://github.com/truecharts/charts/tree/master/charts/stable/stackedit
 - https://hub.docker.com/r/qmcgaw/stackedit
+- https://stackedit.io/
 
 ## Available Documentation
 

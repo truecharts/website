@@ -8,10 +8,10 @@ Speedtest Tracker is a self-hosted internet performance tracking application tha
 
 ## Chart Sources
 
+- https://ghcr.io/linuxserver/speedtest-tracker
 - https://github.com/alexjustesen/speedtest-tracker
 - https://github.com/linuxserver/docker-speedtest-tracker
 - https://github.com/truecharts/charts/tree/master/charts/stable/speedtest-tracker
-- https://ghcr.io/linuxserver/speedtest-tracker
 
 ## Available Documentation
 

@@ -8,8 +8,8 @@ Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/endlessh
 - https://ghcr.io/linuxserver/endlessh
+- https://github.com/truecharts/charts/tree/master/charts/stable/endlessh
 
 ## Available Documentation
 

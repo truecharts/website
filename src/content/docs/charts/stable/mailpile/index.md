@@ -8,9 +8,9 @@ Mailpile is software, an e-mail client. It runs on your desktop or laptop comput
 
 ## Chart Sources
 
-- https://www.mailpile.is/
 - https://github.com/truecharts/charts/tree/master/charts/stable/mailpile
 - https://hub.docker.com/r/rroemhild/mailpile
+- https://www.mailpile.is/
 
 ## Available Documentation
 

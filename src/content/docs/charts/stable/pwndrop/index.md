@@ -8,8 +8,8 @@ Pwndrop is a self-deployable file hosting service for sending out red teaming pa
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/pwndrop
 - https://ghcr.io/linuxserver/pwndrop
+- https://github.com/truecharts/charts/tree/master/charts/stable/pwndrop
 
 ## Available Documentation
 

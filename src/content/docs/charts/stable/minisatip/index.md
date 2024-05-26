@@ -8,8 +8,8 @@ Minisatip is a multi-threaded satip server version 1.2 that runs under Linux.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/minisatip
 - https://ghcr.io/linuxserver/minisatip
+- https://github.com/truecharts/charts/tree/master/charts/stable/minisatip
 
 ## Available Documentation
 

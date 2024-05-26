@@ -8,9 +8,9 @@ A new generation cross-platform cloud backup tool.
 
 ## Chart Sources
 
-- https://hotio.dev/containers/duplicacy
-- https://github.com/truecharts/charts/tree/master/charts/stable/duplicacy
 - https://ghcr.io/hotio/duplicacy
+- https://github.com/truecharts/charts/tree/master/charts/stable/duplicacy
+- https://hotio.dev/containers/duplicacy
 
 ## Available Documentation
 

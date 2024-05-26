@@ -8,9 +8,9 @@ Two-way-sync between trakt.tv and Plex Media Server.
 
 ## Chart Sources
 
+- https://ghcr.io/taxel/plextraktsync
 - https://github.com/Taxel/PlexTraktSync
 - https://github.com/truecharts/charts/tree/master/charts/stable/plextraktsync
-- https://ghcr.io/taxel/plextraktsync
 
 ## Available Documentation
 

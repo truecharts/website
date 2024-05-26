@@ -8,9 +8,9 @@ This Chart will download and install the preferred version of Xonotic.
 
 ## Chart Sources
 
-- https://www.xonotic.org/
 - https://github.com/truecharts/charts/tree/master/charts/stable/xonotic
 - https://hub.docker.com/r/ich777/xonotic
+- https://www.xonotic.org/
 
 ## Available Documentation
 

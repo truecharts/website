@@ -8,9 +8,9 @@ This Chart will download and install SteamCMD. It will also install Memories of 
 
 ## Chart Sources
 
-- https://memoriesofmars.com/
 - https://github.com/truecharts/charts/tree/master/charts/stable/memories-of-mars
 - https://hub.docker.com/r/ich777/steamcmd
+- https://memoriesofmars.com/
 
 ## Available Documentation
 

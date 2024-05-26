@@ -8,9 +8,9 @@ A Discord bot that displays live data from Tautulli.
 
 ## Chart Sources
 
+- https://ghcr.io/nwithan8/tauticord
 - https://github.com/nwithan8/tauticord
 - https://github.com/truecharts/charts/tree/master/charts/stable/tauticord
-- https://ghcr.io/nwithan8/tauticord
 
 ## Available Documentation
 

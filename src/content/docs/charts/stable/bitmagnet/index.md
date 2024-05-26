@@ -9,9 +9,9 @@ A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent se
 ## Chart Sources
 
 - https://bitmagnet.io
+- https://ghcr.io/bitmagnet-io/bitmagnet
 - https://github.com/bitmagnet-io/bitmagnet
 - https://github.com/truecharts/charts/tree/master/charts/stable/bitmagnet
-- https://ghcr.io/bitmagnet-io/bitmagnet
 
 ## Available Documentation
 

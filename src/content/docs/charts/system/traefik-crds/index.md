@@ -10,9 +10,9 @@ Traefik-CRDs contains the CRD's for Traefik
 
 - https://github.com/traefik/traefik
 - https://github.com/traefik/traefik-helm-chart
-- https://traefik.io/
 - https://github.com/truecharts/charts/tree/master/charts/system/traefik-crds
 - https://github.com/truecharts/containers/tree/master/apps/scratch
+- https://traefik.io/
 
 ## Available Documentation
 

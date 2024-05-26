@@ -8,10 +8,10 @@ A self-hosted vehicle expense tracking system with support for multiple users.
 
 ## Chart Sources
 
+- https://ghcr.io/alfhou/hammond
 - https://github.com/AlfHou/hammond
 - https://github.com/alfhou/hammond/pkgs/container/hammond
 - https://github.com/truecharts/charts/tree/master/charts/stable/hammond
-- https://ghcr.io/alfhou/hammond
 
 ## Available Documentation
 

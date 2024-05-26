@@ -8,10 +8,10 @@ Ubiquiti Network's Unifi Controller
 
 ## Chart Sources
 
-- https://unifi-network.ui.com
+- https://ghcr.io/goofball222/unifi
 - https://github.com/jacobalberty/unifi-docker
 - https://github.com/truecharts/charts/tree/master/charts/stable/unifi
-- https://ghcr.io/goofball222/unifi
+- https://unifi-network.ui.com
 
 ## Available Documentation
 

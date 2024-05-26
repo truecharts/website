@@ -8,8 +8,8 @@ FlexGet is a multipurpose automation tool for all of your media
 
 ## Chart Sources
 
-- https://github.com/wiserain/docker-flexget
 - https://github.com/truecharts/charts/tree/master/charts/stable/flexget
+- https://github.com/wiserain/docker-flexget
 - https://hub.docker.com/r/wiserain/flexget
 
 ## Available Documentation
