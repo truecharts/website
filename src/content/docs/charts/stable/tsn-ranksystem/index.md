@@ -9,10 +9,10 @@ TS-N Ranksystem is a TeamSpeak 3 bot that allows you to assign ranks to users ba
 ## Chart Sources
 
 - https://github.com/JohannesBauer97/tsn-ranksystem-webserver
-- https://ts-ranksystem.com/
 - https://github.com/Newcomer1989/TSN-Ranksystem
 - https://github.com/truecharts/charts/tree/master/charts/stable/tsn-ranksystem
 - https://hub.docker.com/r/serverlein/tsn-ranksystem-webserver
+- https://ts-ranksystem.com/
 
 ## Available Documentation
 

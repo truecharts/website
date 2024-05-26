@@ -9,8 +9,8 @@ A simple, high-reliability, distributed software configuration management system
 ## Chart Sources
 
 - https://fossil-scm.org/
-- https://github.com/truecharts/charts/tree/master/charts/stable/fossil
 - https://ghcr.io/nicholaswilde/fossil
+- https://github.com/truecharts/charts/tree/master/charts/stable/fossil
 
 ## Available Documentation
 

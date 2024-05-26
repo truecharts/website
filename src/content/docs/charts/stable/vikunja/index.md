@@ -8,11 +8,11 @@ The to-do app to organize your life.
 
 ## Chart Sources
 
-- https://vikunja.io/docs
 - https://github.com/truecharts/charts/tree/master/charts/stable/vikunja
 - https://hub.docker.com/_/nginx
-- https://hub.docker.com/r/vikunja/frontend
 - https://hub.docker.com/r/vikunja/api
+- https://hub.docker.com/r/vikunja/frontend
+- https://vikunja.io/docs
 
 ## Available Documentation
 

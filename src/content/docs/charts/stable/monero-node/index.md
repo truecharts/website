@@ -8,9 +8,9 @@ Chart to run a monero full network node
 
 ## Chart Sources
 
+- https://ghcr.io/sethforprivacy/simple-monerod
 - https://github.com/kannix/monero-full-node
 - https://github.com/truecharts/charts/tree/master/charts/stable/monero-node
-- https://ghcr.io/sethforprivacy/simple-monerod
 
 ## Available Documentation
 

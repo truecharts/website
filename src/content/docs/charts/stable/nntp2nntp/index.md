@@ -8,8 +8,8 @@ Nntp2nntp proxy allow you to use your NNTP Account from multiple systems, each w
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/nntp2nntp
 - https://ghcr.io/linuxserver/nntp2nntp
+- https://github.com/truecharts/charts/tree/master/charts/stable/nntp2nntp
 
 ## Available Documentation
 

@@ -8,10 +8,10 @@ The best and simplest free open source website change detection, website watcher
 
 ## Chart Sources
 
-- https://github.com/dgtlmoon/changedetection.io/tree/master
 - https://changedetection.io/
-- https://github.com/truecharts/charts/tree/master/charts/stable/changedetection-io
 - https://ghcr.io/dgtlmoon/changedetection.io
+- https://github.com/dgtlmoon/changedetection.io/tree/master
+- https://github.com/truecharts/charts/tree/master/charts/stable/changedetection-io
 
 ## Available Documentation
 

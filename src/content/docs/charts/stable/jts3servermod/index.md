@@ -8,11 +8,11 @@ JTS3ServerMod by Stefan1200
 
 ## Chart Sources
 
-- https://github.com/galexrt/container-jts3servermod
-- https://www.stefan1200.de/forum/index.php?PHPSESSID=r0m44032akt9jk7903ru9ejv2f&topic=2.0
-- https://www.stefan1200.de/documentation/jts3servermod/readme.html
-- https://github.com/truecharts/charts/tree/master/charts/stable/jts3servermod
 - https://ghcr.io/galexrt/jts3servermod
+- https://github.com/galexrt/container-jts3servermod
+- https://github.com/truecharts/charts/tree/master/charts/stable/jts3servermod
+- https://www.stefan1200.de/documentation/jts3servermod/readme.html
+- https://www.stefan1200.de/forum/index.php?PHPSESSID=r0m44032akt9jk7903ru9ejv2f&topic=2.0
 
 ## Available Documentation
 

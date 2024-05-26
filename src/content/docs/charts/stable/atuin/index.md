@@ -8,9 +8,9 @@ Magical shell history.
 
 ## Chart Sources
 
+- https://ghcr.io/atuinsh/atuin
 - https://github.com/atuinsh/atuin
 - https://github.com/truecharts/charts/tree/master/charts/stable/atuin
-- https://ghcr.io/atuinsh/atuin
 
 ## Available Documentation
 

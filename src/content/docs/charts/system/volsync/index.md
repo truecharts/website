@@ -8,12 +8,12 @@ volsync is a storage backup and synchronisation tool.
 
 ## Chart Sources
 
+- https://github.com/truecharts/charts/tree/master/charts/system/volsync
 - https://github.com/volsync/volsync
 - https://github.com/volsync/volsync-helm-chart
-- https://volsync.readthedocs.io/
-- https://github.com/truecharts/charts/tree/master/charts/system/volsync
-- https://quay.io/brancz/kube-rbac-proxy
 - https://quay.io/backube/volsync
+- https://quay.io/brancz/kube-rbac-proxy
+- https://volsync.readthedocs.io/
 
 ## Available Documentation
 

@@ -8,8 +8,8 @@ Emulatorjs - In browser web based emulation portable to nearly any device for ma
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/emulatorjs
 - https://ghcr.io/linuxserver/emulatorjs
+- https://github.com/truecharts/charts/tree/master/charts/stable/emulatorjs
 
 ## Available Documentation
 

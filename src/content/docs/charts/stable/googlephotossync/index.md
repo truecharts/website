@@ -8,8 +8,8 @@ Google Photos Sync downloads your Google Photos to the local file system. It wil
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/googlephotossync
 - https://ghcr.io/gilesknap/gphotos-sync
+- https://github.com/truecharts/charts/tree/master/charts/stable/googlephotossync
 
 ## Available Documentation
 

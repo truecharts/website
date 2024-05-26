@@ -9,9 +9,9 @@ KubeApps is a Kubernetes-as-Apps solution
 ## Chart Sources
 
 - https://cert-manager.io/
+- https://ghcr.io/xstar97/my-proxy-service
 - https://github.com/cert-manager
 - https://github.com/truecharts/charts/tree/master/charts/system/kubeapps
-- https://ghcr.io/xstar97/my-proxy-service
 
 ## Available Documentation
 

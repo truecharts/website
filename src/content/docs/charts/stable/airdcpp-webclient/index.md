@@ -8,8 +8,8 @@ AirDC++ Web Client is a locally installed application, which is designed for fle
 
 ## Chart Sources
 
-- https://github.com/airdcpp-web/airdcpp-webclient
 - https://airdcpp-web.github.io/
+- https://github.com/airdcpp-web/airdcpp-webclient
 - https://github.com/truecharts/charts/tree/master/charts/stable/airdcpp-webclient
 - https://hub.docker.com/r/gangefors/airdcpp-webclient
 

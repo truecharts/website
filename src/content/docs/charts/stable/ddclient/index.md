@@ -8,8 +8,8 @@ Ddclient is a Perl client used to update dynamic DNS entries for accounts on Dyn
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/ddclient
 - https://ghcr.io/linuxserver/ddclient
+- https://github.com/truecharts/charts/tree/master/charts/stable/ddclient
 
 ## Available Documentation
 

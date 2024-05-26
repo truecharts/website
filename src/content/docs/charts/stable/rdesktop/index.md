@@ -8,10 +8,10 @@ Full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and 
 
 ## Chart Sources
 
-- https://github.com/orgs/linuxserver/packages/container/package/rdesktop
-- https://github.com/linuxserver/docker-rdesktop#readme
-- https://github.com/truecharts/charts/tree/master/charts/stable/rdesktop
 - https://fleet.linuxserver.io/image?name=linuxserver/rdesktop
+- https://github.com/linuxserver/docker-rdesktop#readme
+- https://github.com/orgs/linuxserver/packages/container/package/rdesktop
+- https://github.com/truecharts/charts/tree/master/charts/stable/rdesktop
 
 ## Available Documentation
 

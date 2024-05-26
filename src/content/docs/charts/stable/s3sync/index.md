@@ -8,8 +8,8 @@ This application backs up every folder mounted at `/data/` to a given AWS S3 pat
 
 ## Chart Sources
 
-- https://github.com/what-name/docker-s3sync
 - https://github.com/truecharts/charts/tree/master/charts/stable/s3sync
+- https://github.com/what-name/docker-s3sync
 - https://hub.docker.com/r/whatname/docker-s3sync
 
 ## Available Documentation

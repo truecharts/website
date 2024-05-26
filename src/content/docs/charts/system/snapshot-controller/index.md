@@ -11,9 +11,9 @@ Also deploys the Snapshot Validation Webhook and configures your cluster to vali
 
 ## Chart Sources
 
+- https://github.com/kubernetes-csi/external-snapshotter/
 - https://github.com/snapshot-controller/snapshot-controller
 - https://github.com/snapshot-controller/snapshot-controller-helm-chart
-- https://github.com/kubernetes-csi/external-snapshotter/
 - https://github.com/truecharts/charts/tree/master/charts/system/snapshot-controller
 
 ## Available Documentation

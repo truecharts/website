@@ -8,9 +8,9 @@ A server software for Minecraft Bedrock Edition in PHP.
 
 ## Chart Sources
 
+- https://ghcr.io/pmmp/pocketmine-mp
 - https://github.com/pmmp/PocketMine-MP
 - https://github.com/truecharts/charts/tree/master/charts/stable/pocketmine-mp
-- https://ghcr.io/pmmp/pocketmine-mp
 
 ## Available Documentation
 

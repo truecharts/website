@@ -8,10 +8,10 @@ home-assistant App for TrueNAS SCALE
 
 ## Chart Sources
 
-- https://www.wisemapping.com/
 - https://bitbucket.org/wisemapping/wisemapping-open-source/src/develop/
 - https://github.com/truecharts/charts/tree/master/charts/incubator/wisemapping
 - https://hub.docker.com/r/wisemapping/wisemapping
+- https://www.wisemapping.com/
 
 ## Available Documentation
 

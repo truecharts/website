@@ -8,8 +8,8 @@ Tandoor Recipes is a Django application to manage, tag and search recipes using 
 
 ## Chart Sources
 
-- https://github.com/vabene1111/recipes
 - https://github.com/truecharts/charts/tree/master/charts/stable/tandoor-recipes
+- https://github.com/vabene1111/recipes
 - https://hub.docker.com/r/vabene1111/recipes
 
 ## Available Documentation

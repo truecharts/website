@@ -8,8 +8,8 @@ Embystat is a personal web server that can calculate all kinds of statistics fro
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/embystat
 - https://ghcr.io/linuxserver/embystat
+- https://github.com/truecharts/charts/tree/master/charts/stable/embystat
 
 ## Available Documentation
 

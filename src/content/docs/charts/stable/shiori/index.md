@@ -8,10 +8,10 @@ A simple bookmark manager built with Go.
 
 ## Chart Sources
 
-- https://github.com/go-shiori/shiori/pkgs/container/shiori
-- https://github.com/go-shiori/shiori
-- https://github.com/truecharts/charts/tree/master/charts/stable/shiori
 - https://ghcr.io/go-shiori/shiori
+- https://github.com/go-shiori/shiori
+- https://github.com/go-shiori/shiori/pkgs/container/shiori
+- https://github.com/truecharts/charts/tree/master/charts/stable/shiori
 
 ## Available Documentation
 

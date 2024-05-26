@@ -8,8 +8,8 @@ OpenEBS is a umbrella chart for multiple container storage provisioners
 
 ## Chart Sources
 
-- https://github.com/cert-manager
 - https://cert-manager.io/
+- https://github.com/cert-manager
 - https://github.com/truecharts/charts/tree/master/charts/system/openebs
 - https://github.com/truecharts/containers/tree/master/apps/scratch
 

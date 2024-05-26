@@ -8,10 +8,10 @@ The official Tachidesk Chart-Chart.
 
 ## Chart Sources
 
-- https://github.com/suwayomi/docker-tachidesk
-- https://github.com/Suwayomi/Tachidesk-Server
-- https://github.com/truecharts/charts/tree/master/charts/stable/tachidesk-docker
 - https://ghcr.io/suwayomi/tachidesk
+- https://github.com/Suwayomi/Tachidesk-Server
+- https://github.com/suwayomi/docker-tachidesk
+- https://github.com/truecharts/charts/tree/master/charts/stable/tachidesk-docker
 
 ## Available Documentation
 

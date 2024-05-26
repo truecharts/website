@@ -8,8 +8,8 @@ Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health 
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/scrutiny
 - https://ghcr.io/analogj/scrutiny
+- https://github.com/truecharts/charts/tree/master/charts/stable/scrutiny
 
 ## Available Documentation
 

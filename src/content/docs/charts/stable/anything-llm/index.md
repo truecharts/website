@@ -8,9 +8,9 @@ Open-source ChatGPT experience for LLMs, embedders, and vector databases.
 
 ## Chart Sources
 
+- https://ghcr.io/mintplex-labs/anything-llm
 - https://github.com/Mintplex-Labs/anything-llm
 - https://github.com/truecharts/charts/tree/master/charts/stable/anything-llm
-- https://ghcr.io/mintplex-labs/anything-llm
 
 ## Available Documentation
 

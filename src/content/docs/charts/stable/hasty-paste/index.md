@@ -8,10 +8,10 @@ A fast and minimal paste bin, written in Python using Quart.
 
 ## Chart Sources
 
+- https://ghcr.io/enchant97/hasty-paste
 - https://github.com/enchant97/hasty-paste
 - https://github.com/enchant97/hasty-paste/blob/main/docs/install.md
 - https://github.com/truecharts/charts/tree/master/charts/stable/hasty-paste
-- https://ghcr.io/enchant97/hasty-paste
 
 ## Available Documentation
 

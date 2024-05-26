@@ -8,8 +8,8 @@ A dead simple URL shortener.
 
 ## Chart Sources
 
-- https://gitlab.com/draganczukp/simply-shorten
 - https://github.com/truecharts/charts/tree/master/charts/stable/simply-shorten
+- https://gitlab.com/draganczukp/simply-shorten
 - https://hub.docker.com/r/draganczukp/simply-shorten
 
 ## Available Documentation

@@ -8,8 +8,8 @@ Vertex
 
 ## Chart Sources
 
-- https://gitlab.lswl.in/lswl/vertex
 - https://github.com/truecharts/charts/tree/master/charts/stable/vertex
+- https://gitlab.lswl.in/lswl/vertex
 - https://hub.docker.com/r/lswl/vertex
 
 ## Available Documentation

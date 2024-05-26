@@ -8,9 +8,9 @@ A Digital Asset Manager (DAM), specifically designed for 3D print files.
 
 ## Chart Sources
 
+- https://ghcr.io/floppy/van_dam
 - https://github.com/Floppy/van_dam
 - https://github.com/truecharts/charts/tree/master/charts/stable/van-dam
-- https://ghcr.io/floppy/van_dam
 
 ## Available Documentation
 

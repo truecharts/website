@@ -8,8 +8,8 @@ Duckdns is a free service which will point a DNS (sub domains of duckdns.org) to
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/duckdns
 - https://ghcr.io/linuxserver/duckdns
+- https://github.com/truecharts/charts/tree/master/charts/stable/duckdns
 
 ## Available Documentation
 

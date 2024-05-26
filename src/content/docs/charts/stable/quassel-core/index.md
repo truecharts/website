@@ -8,8 +8,8 @@ Quassel-core is a modern, cross-platform, distributed IRC client.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/quassel-core
 - https://ghcr.io/linuxserver/quassel-core
+- https://github.com/truecharts/charts/tree/master/charts/stable/quassel-core
 
 ## Available Documentation
 

@@ -9,9 +9,9 @@ SheetAble is an easy to use music sheet organiser for all the music enthusiasts 
 ## Chart Sources
 
 - https://github.com/SheetAble
-- https://sheetable.net/docs
 - https://github.com/truecharts/charts/tree/master/charts/stable/sheetable
 - https://hub.docker.com/r/vallezw/sheetable
+- https://sheetable.net/docs
 
 ## Available Documentation
 

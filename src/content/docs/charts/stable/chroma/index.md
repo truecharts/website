@@ -8,9 +8,9 @@ the AI-native open-source embedding database.
 
 ## Chart Sources
 
+- https://ghcr.io/chroma-core/chroma
 - https://github.com/chroma-core/chroma
 - https://github.com/truecharts/charts/tree/master/charts/stable/chroma
-- https://ghcr.io/chroma-core/chroma
 
 ## Available Documentation
 

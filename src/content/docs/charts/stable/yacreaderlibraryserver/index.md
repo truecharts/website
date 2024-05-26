@@ -8,9 +8,9 @@ Headless version of the YACReaderLibraryServer.
 
 ## Chart Sources
 
-- https://www.yacreader.com
 - https://github.com/truecharts/charts/tree/master/charts/stable/yacreaderlibraryserver
 - https://hub.docker.com/r/xthursdayx/yacreaderlibrary-server-docker
+- https://www.yacreader.com
 
 ## Available Documentation
 

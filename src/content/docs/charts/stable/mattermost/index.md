@@ -8,8 +8,8 @@ Mattermost is an open source platform for secure collaboration across the entire
 
 ## Chart Sources
 
-- https://github.com/mattermost/mattermost-server
 - https://github.com/mattermost/docker
+- https://github.com/mattermost/mattermost-server
 - https://github.com/truecharts/charts/tree/master/charts/stable/mattermost
 - https://hub.docker.com/r/mattermost/mattermost-enterprise-edition
 

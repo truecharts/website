@@ -8,8 +8,8 @@ Webgrabplus is a multi-site incremental xmltv epg grabber.
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
 - https://ghcr.io/linuxserver/webgrabplus
+- https://github.com/truecharts/charts/tree/master/charts/stable/webgrabplus
 
 ## Available Documentation
 

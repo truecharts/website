@@ -8,9 +8,9 @@ This is the multi-platform Docker image for My Media for Alexa - https://www.mym
 
 ## Chart Sources
 
-- https://www.mymediaalexa.com/home/docker#dockerhub
 - https://github.com/truecharts/charts/tree/master/charts/stable/mymediaforalexa
 - https://hub.docker.com/r/bizmodeller/mymediaforalexa
+- https://www.mymediaalexa.com/home/docker#dockerhub
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ This Chart will download and install SteamCMD. It will also install PIXARK and r
 
 ## Chart Sources
 
-- https://pixark.snail.com/
 - https://github.com/truecharts/charts/tree/master/charts/stable/pixark
 - https://hub.docker.com/r/ich777/steamcmd
+- https://pixark.snail.com/
 
 ## Available Documentation
 

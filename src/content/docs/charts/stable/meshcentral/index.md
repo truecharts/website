@@ -8,9 +8,9 @@ MeshCentral is a full computer management web site
 
 ## Chart Sources
 
+- https://ghcr.io/ylianst/meshcentral
 - https://github.com/Ylianst/MeshCentral
 - https://github.com/truecharts/charts/tree/master/charts/stable/meshcentral
-- https://ghcr.io/ylianst/meshcentral
 
 ## Available Documentation
 

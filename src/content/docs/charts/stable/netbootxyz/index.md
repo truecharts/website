@@ -8,9 +8,9 @@ Your favorite operating systems in one place!
 
 ## Chart Sources
 
+- https://ghcr.io/netbootxyz/netbootxyz
 - https://github.com/netbootxyz/netboot.xyz
 - https://github.com/truecharts/charts/tree/master/charts/stable/netbootxyz
-- https://ghcr.io/netbootxyz/netbootxyz
 
 ## Available Documentation
 

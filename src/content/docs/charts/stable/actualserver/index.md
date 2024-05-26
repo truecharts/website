@@ -8,9 +8,9 @@ Actual is a super fast privacy-focused app for managing your finances.
 
 ## Chart Sources
 
+- https://ghcr.io/actualbudget/actual-server
 - https://github.com/Kippenhof/docker-templates
 - https://github.com/truecharts/charts/tree/master/charts/stable/actualserver
-- https://ghcr.io/actualbudget/actual-server
 
 ## Available Documentation
 

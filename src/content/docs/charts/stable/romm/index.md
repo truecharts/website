@@ -8,9 +8,9 @@ game library manager focused in retro gaming
 
 ## Chart Sources
 
-- https://github.com/zurdi15/romm
-- https://github.com/truecharts/charts/tree/master/charts/stable/romm
 - https://ghcr.io/rommapp/romm
+- https://github.com/truecharts/charts/tree/master/charts/stable/romm
+- https://github.com/zurdi15/romm
 
 ## Available Documentation
 

@@ -8,9 +8,9 @@ CTFd is a Capture The Flag framework focusing on ease of use and customizability
 
 ## Chart Sources
 
+- https://ghcr.io/ctfd/ctfd
 - https://github.com/CTFd/CTFd
 - https://github.com/truecharts/charts/tree/master/charts/stable/ctfd
-- https://ghcr.io/ctfd/ctfd
 
 ## Available Documentation
 

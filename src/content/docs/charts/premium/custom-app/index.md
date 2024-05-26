@@ -8,8 +8,8 @@ Advanced tool to create your own TrueCharts-based Charts
 
 ## Chart Sources
 
-- https://github.com/truecharts/charts/tree/master/charts/premium/custom-app
 - https://ghcr.io/linuxserver/jackett
+- https://github.com/truecharts/charts/tree/master/charts/premium/custom-app
 
 ## Available Documentation
 

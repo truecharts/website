@@ -8,8 +8,8 @@ GoAccess for Nginx Proxy Manager Logs
 
 ## Chart Sources
 
-- https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
 - https://github.com/truecharts/charts/tree/master/charts/stable/goaccess-npm-logs
+- https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager
 - https://hub.docker.com/r/xavierh/goaccess-for-nginxproxymanager
 
 ## Available Documentation
