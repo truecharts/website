@@ -47,7 +47,7 @@ TrueCharts is a multi-platform project that builds Helm charts with multiple dow
 
 ### Caveats
 
-Currently, this new restore functionality isn't yet functional on TrueNAS SCALE due to an upstream bug with OpenEBS. We've submitted a bug report and will update the docs page linked below once this is resolved. For users of our apps/charts on other Helm platforms, this does not apply, so backup and restore functionality should work fine.
+Currently, this new restore functionality isn't yet functional on TrueNAS SCALE due to an [upstream bug](https://github.com/openebs/zfs-localpv/issues/536) with OpenEBS. We've submitted a bug report and will update the docs page linked below once this is resolved. For users of our apps/charts on other Helm platforms, this does not apply, so backup and restore functionality should work fine.
 
 ### Documentation and Instructions
 
