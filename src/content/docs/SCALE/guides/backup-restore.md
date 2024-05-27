@@ -76,7 +76,7 @@ To be done. This section will contain information to export your App configurati
 
 :::note[SCALE Restore Functionality]
 
-As mentioned in our news post, this new restore functionality isn't yet functional on TrueNAS SCALE due to an upstream bug with OpenEBS. We've submitted a bug report and will update this page once resolved.
+As mentioned in our news post, this new restore functionality isn't yet functional on TrueNAS SCALE due to an [upstream bug](https://github.com/openebs/zfs-localpv/issues/536) with OpenEBS. We've submitted a bug report and will update this page once resolved.
 
 :::
 
