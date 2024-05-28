@@ -2,7 +2,7 @@
 title: aria2
 ---
 
-![Version: 13.0.7](https://img.shields.io/badge/Version-13.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
+![Version: 13.0.8](https://img.shields.io/badge/Version-13.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: latest](https://img.shields.io/badge/AppVersion-latest-informational?style=flat-square)
 
 aria server for downloading web content
 

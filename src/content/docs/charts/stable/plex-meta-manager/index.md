@@ -2,7 +2,7 @@
 title: plex-meta-manager
 ---
 
-![Version: 7.0.8](https://img.shields.io/badge/Version-7.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.21.0](https://img.shields.io/badge/AppVersion-1.21.0-informational?style=flat-square)
+![Version: 7.0.9](https://img.shields.io/badge/Version-7.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.21.0](https://img.shields.io/badge/AppVersion-1.21.0-informational?style=flat-square)
 
 Python script to update metadata and automatically build collections.
 
