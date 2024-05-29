@@ -1,13 +1,13 @@
 ---
-slug: "news/app-backups-and-restores"
-title: "Enhanced App Backup and Restore Solutions"
+slug: "news/chart-backups-and-restores"
+title: "Enhanced Chart Backup and Restore Solutions"
 authors: [bitpushr]
 date: 2024-05-29
 tags:
   - "2024"
 ---
 
-## Enhancing App Backups and Restores for TrueCharts Users
+## Enhancing Backups and Restores for TrueCharts Users
 
 Today, we are pleased to announce new solutions for backing up and restoring of TrueCharts CNPG and application/chart data. We hope you enjoy!
 
@@ -37,7 +37,7 @@ Key features of VolSync include
 
 - Effortless restoring of PVC containers to a prior state when an app is (re)installed
 
-- Management on a per-app basis from an apps' TrueNAS SCALE GUI or other interface
+- Management on a per-app basis from an apps' TrueNAS SCALE GUI, Helm or other any interface
 
 By integrating VolSync, TrueCharts users achieve a higher level of data resilience, making it easier than ever to safeguard or recover an application/charts' data.
 
@@ -47,7 +47,7 @@ TrueCharts is a multi-platform project that builds Helm charts with multiple dow
 
 ### Caveats
 
-Currently, this new restore functionality isn't yet functional on TrueNAS SCALE due to an [upstream bug](https://github.com/openebs/zfs-localpv/issues/536) with OpenEBS. We've submitted a bug report and will update the docs page linked below once this is resolved. For users of our apps/charts on other Helm platforms, this does not apply, so backup and restore functionality should work fine.
+Currently, this new restore functionality isn't yet functional on TrueNAS SCALE due to an [upstream bug](https://github.com/openebs/zfs-localpv/issues/536) with OpenEBS. We've submitted a bug report and will update the docs page linked below once this is resolved. For users of our charts on other Helm platforms, this does not apply, so backup and restore functionality should work fine.
 
 ### Documentation and Instructions
 
