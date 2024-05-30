@@ -1,7 +1,7 @@
 ---
 slug: "news/scale-deprecation"
 title: "Deprecation of TrueNAS SCALE Apps"
-authors: [Ornias]
+authors: [ornias]
 date: 2024-05-30
 tags:
   - "2024"
