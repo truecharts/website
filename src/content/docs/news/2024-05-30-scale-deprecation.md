@@ -13,7 +13,7 @@ From integrations with popular kubernetes tools, to our VPN addon and even our l
 The last few years we've spend hunderds of hours pushing the boundries of what is possible with Helm charts **and we will continue to do so**.
 
 While we fully agree that iX should offer the option to use docker-compose besides the Kubernetes-based "custom-app"s, the way this sun-setting without deprecation has been handled, is not acceptable to us.
-It goes against every fiber of our being,  to collaborate on moving our loved platforms forward.
+It goes against every fiber of our being, as we prefer to collaborate on moving our loved platforms forward.
 
 We view that both Kubernetes and Docker-Compose have a place, with that place not being mutally exclusive. Sadly enough, iX-Systems does not share that view.
 Its a loss-loss situation, where SCALE users will have to trade the loss of TrueCharts, with the Option of copying-in their own compose files.
@@ -25,7 +25,7 @@ A situation that, from our point of view, isn't, and has never been, needed. But
 
 As always, we're committed 100% to our users and **will** help them find solutions.
 
-Currently we're exploring multiple strategies by which you will be able to keep using our Trusted TrueCharts Apps, even combined with your current TrueNAS SCALE Storage.
+Currently we're exploring multiple strategies by which you will be able to keep using our Trusted TrueCharts Charts, even combined with your current TrueNAS SCALE Storage.
 We've learned a lot from our smooth DragonFish migration last month and we're fully confident we can offer an experience that statisfies our users!
 
 Our timeframe is to have an initial BETA for migration going before 01-07-2024, after which we want to polish and automate the process as much as possible based on user feedback.
@@ -36,8 +36,8 @@ Our timeframe is to have an initial BETA for migration going before 01-07-2024, 
 Our goodbyes for TrueCharts on SCALE Apps are bitter-sweet:
 While we have had a great time working with some people over at iX-Systems, we also don't see eye-to-eye on many things.
 
-We shall *always* stand with our users. Which means we also will focus on the way forward from now on, in which TrueNAS SCALE Apps will not be featured.
+We shall *always* stand with our users. Which means we also will focus on the way forward from now on, in which TrueNAS SCALE Apps will not be featured and instead focus on our other supported platforms and migration options.
 
-We want to thank the TrueNAS community for their constant feedback during the years that TrueCharts on SCALE Apps lasted.
+We want to thank the TrueNAS community for their constant feedback during the years that TrueCharts as SCALE Apps lasted.
 We specifically want to thank Waqar Ahmed for the many hours spend polishing the original Apps system and Morgan Littlewood for his continued vision of what TrueNAS SCALE could be.
 
