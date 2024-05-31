@@ -14,7 +14,7 @@ We've recently completely reworked the way we handle backups, moving away from p
 
 ### System Apps
 
-As this is a SCALE-specific guide, we expect users to have fully followed the SCALE quick-start [guide](/scale) and hence have installed *all* [operators](/scale/#minimal-getting-started-setup-with-scale) from the `system` train as listed there. This includes `VolSync`, which depends on `Prometheus-Operator`, so ensure you have installed `Prometheus-Operator` prior to installing `VolSync`.
+As this is a SCALE-specific guide, we expect users to have fully followed the SCALE quick-start [guide](/deprecated/scale) and hence have installed _all_ [operators](/deprecated/scale/#minimal-getting-started-setup-with-scale) from the `system` train as listed there. This includes `VolSync`, which depends on `Prometheus-Operator`, so ensure you have installed `Prometheus-Operator` prior to installing `VolSync`.
 
 ### S3 Provider Setup
 
@@ -34,7 +34,7 @@ Enter your S3 credentials under the `credentials` section in each app you want t
 
 ### PVC Backups
 
-PVC data can be easily backed up to S3 storage by using our integrated VolSync support. For each individual app, the `VolSync Destination (Restore)` option *must* set on creation of the app by doing the following:
+PVC data can be easily backed up to S3 storage by using our integrated VolSync support. For each individual app, the `VolSync Destination (Restore)` option _must_ set on creation of the app by doing the following:
 
 1. Add `VolSync` to each persistence object you want synced as below
 

@@ -151,7 +151,7 @@ export default defineConfig({
           label: "TrueNAS SCALE",
           collapsed: true,
           autogenerate: {
-            directory: "SCALE",
+            directory: "deprecated/SCALE",
           },
         },
         {

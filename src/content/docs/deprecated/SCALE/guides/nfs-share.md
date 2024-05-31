@@ -2,7 +2,7 @@
 title: NFS Shares with Apps on TrueNAS SCALE
 ---
 
-With the changes to TrueNAS SCALE 22.12 concerning HostPath validation (read our [news](/news/hostpath-validation) or our [adding storage](/scale/guides/add-storage) pages to learn more) the one way to add media storage is to mount NFS Shares to your TrueCharts applications. This process involves two parts, and this guide will demonstrate each step to create NFS Shares in SCALE and then add them in the `Storage` section of TrueCharts apps.
+With the changes to TrueNAS SCALE 22.12 concerning HostPath validation (read our [news](/news/hostpath-validation) or our [adding storage](/deprecated/scale/guides/add-storage) pages to learn more) the one way to add media storage is to mount NFS Shares to your TrueCharts applications. This process involves two parts, and this guide will demonstrate each step to create NFS Shares in SCALE and then add them in the `Storage` section of TrueCharts apps.
 
 Additionally, you can use NFS shares and SMB shares on the same dataset, but only NFS shares are mounted by TrueCharts applications.
 

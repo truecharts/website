@@ -22,18 +22,18 @@ Anything related to TrueTool has been deprecated and is now replaced with [Heavy
 
 ## Installing Apps
 
-Once you've [added the TrueCharts Catalog](/scale/#minimal-getting-started-setup-with-scale) to your SCALE installation, you can choose from [hundreds of apps](/charts/description-list) to install through the catalog user interface.
+Once you've [added the TrueCharts Catalog](/deprecated/scale/#minimal-getting-started-setup-with-scale) to your SCALE installation, you can choose from [hundreds of apps](/charts/description-list) to install through the catalog user interface.
 
-- Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to choose a storage pool for your Apps. See our [system requirements](/scale/systemrequirements/) page to ensure you're good to go.
+- Your Apps pool must be configured before adding TrueCharts. When opening the Apps menu item on SCALE for the first time, you'll be prompted to choose a storage pool for your Apps. See our [system requirements](/deprecated/scale/systemrequirements/) page to ensure you're good to go.
 - After creating your Apps pool, you'll be able to add the 3rd party TrueCharts catalog.
 
 ### Requirements
 
-See here our SCALE Getting Started [guide](/scale#requirements).
+See here our SCALE Getting Started [guide](/deprecated/scale#requirements).
 
 :::tip[Additional App Storage]
 
-If you plan to add additional app storage to your app, review important information about [app storage and host path validation](/scale/guides/add-storage).
+If you plan to add additional app storage to your app, review important information about [app storage and host path validation](/deprecated/scale/guides/add-storage).
 
 :::
 
@@ -76,14 +76,22 @@ Give your app a few minutes to deploy. You can check its status in the SCALE tas
 - **Application Name** Configure a custom name for your app and select a version to install.
 - **General Settings:** Choose the number of replicas, preferred timezone, and add custom environmental variables.
 - **Networking & Services:** Choose how you'd like to expose your app from the k3s network to your local network and the Internet.
-- **Storage and Persistence:** Configure core app storage and [add additional app storage](/scale/guides/add-storage).
+- **Storage and Persistence:** Configure core app storage and [add additional app storage](/deprecated/scale/guides/add-storage).
 - **Ingress:** For TrueCharts apps you can configure [Ingress with Traefik](/charts/premium/traefik/how-to) to easily proxy Internet traffic to your app.
 - **Security & Permissions:** Configure PUID, fsGroup, and other security and file permissions for your app.
 - **Other Options:** You can also configure GPU support, addons (such as adding a CodeServer for easy file editing), and advanced app settings.
 
 ### Video Guide
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9UDUMFiaXBM" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/9UDUMFiaXBM"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
 
 ### Notes
 
@@ -99,9 +107,9 @@ Editing Apps has a slightly different GUI however it exposes the same settings a
 ### Requirements
 
 - Make sure your storage-pool is created and working
-- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](/scale)
+- Make sure you selected your storage-pool when you first opened the "Apps" interface, if not please refer to [Configuring your Apps Pool](/deprecated/scale)
 - Make sure you have a working internet connection and can reach github and truecharts.org from the host system
-- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/scale#adding-truecharts)
+- Make sure you already added the TrueCharts catalog from [Adding TrueCharts to SCALE](/deprecated/scale#adding-truecharts)
 - Make sure your App is installed and, preferably, working.
 
 ### Editing the App
@@ -116,7 +124,15 @@ The App will then go through a process of submitting your changes. If the proces
 
 ### Video Guide
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UyqM798Arbo" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/UyqM798Arbo"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
 
 ### Notes
 
@@ -136,7 +152,7 @@ The App will then go through a process of backing up(!) and upgrading. If the pr
 
 ### Upgrading the app using HeavyScript
 
-Alternatively, you can also use [HeavyScript](/scale/#heavyscript) to update your apps and even configure it to do so automatically via a CRON job. Examples and instructions are found on the linked page and the HeavyScript Github, also linked on that page.
+Alternatively, you can also use [HeavyScript](/deprecated/scale/#heavyscript) to update your apps and even configure it to do so automatically via a CRON job. Examples and instructions are found on the linked page and the HeavyScript Github, also linked on that page.
 
 ## Rollback an app
 
@@ -195,4 +211,12 @@ Wait a few moments for the process to happen in the background.
 
 ### Video Guide
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ONbMhQJPQwc" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/ONbMhQJPQwc"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>
