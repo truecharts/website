@@ -37,3 +37,4 @@
 
 # guide redirects
 /scale/guides/getting-started/ /deprecated/scale
+/scale /deprecated/scale
