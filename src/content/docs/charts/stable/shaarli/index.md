@@ -2,7 +2,7 @@
 title: shaarli
 ---
 
-![Version: 6.0.6](https://img.shields.io/badge/Version-6.0.6-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
+![Version: 6.0.8](https://img.shields.io/badge/Version-6.0.8-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: master](https://img.shields.io/badge/AppVersion-master-informational?style=flat-square)
 
 The personal, minimalist, super-fast, database free, bookmarking service.
 
@@ -43,14 +43,7 @@ For more information on how to install TrueCharts Helm charts, checkout the inst
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale/guides/scale-intro).
-
-### Configuration Options
-
-To view the chart specific options, please view Values.yaml included in the chart.
-
-All our Charts use a shared "common" library chart that contains most of the templating and options.
-For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
 
 ### Chart Specific Guides and information
 
@@ -58,8 +51,20 @@ All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
 https://truecharts.org/charts/stable/shaarli
 
-### Support
+### Configuration Options
 
+Please note: For TrueNAS SCALE, only options available in the GUI are supported.
+Hence most of these docs do not apply to TrueNAS SCALE
+
+To view the chart specific options, please view Values.yaml included in the chart.
+The most recent version of which, is available here: https://github.com/truecharts/charts/charts/stable/shaarli/values.yaml
+
+All our Charts use a shared "common" library chart that contains most of the templating and options.
+For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+
+For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
+
+### Support
 
 - See the [Website](https://truecharts.org)
 - Check our [Discord](https://discord.gg/tVsPTHWTtr)

@@ -2,18 +2,18 @@
 title: plausible
 ---
 
-![Version: 11.2.5](https://img.shields.io/badge/Version-11.2.5-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.0](https://img.shields.io/badge/AppVersion-2.0.0-informational?style=flat-square)
+![Version: 11.2.9](https://img.shields.io/badge/Version-11.2.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.0.0](https://img.shields.io/badge/AppVersion-2.0.0-informational?style=flat-square)
 
 Plausible is lightweight and open source web analytics. No cookies and fully compliant with GDPR, CCPA and PECR.
 
 ## Chart Sources
 
-- https://plausible.io/docs/self-hosting
 - https://github.com/plausible/analytics
 - https://github.com/plausible/hosting
-- https://plausible.io/
 - https://github.com/truecharts/charts/tree/master/charts/stable/plausible
 - https://hub.docker.com/r/plausible/analytics
+- https://plausible.io/
+- https://plausible.io/docs/self-hosting
 
 ## Available Documentation
 
@@ -46,14 +46,7 @@ For more information on how to install TrueCharts Helm charts, checkout the inst
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale/guides/scale-intro).
-
-### Configuration Options
-
-To view the chart specific options, please view Values.yaml included in the chart.
-
-All our Charts use a shared "common" library chart that contains most of the templating and options.
-For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
 
 ### Chart Specific Guides and information
 
@@ -61,8 +54,20 @@ All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
 https://truecharts.org/charts/stable/plausible
 
-### Support
+### Configuration Options
 
+Please note: For TrueNAS SCALE, only options available in the GUI are supported.
+Hence most of these docs do not apply to TrueNAS SCALE
+
+To view the chart specific options, please view Values.yaml included in the chart.
+The most recent version of which, is available here: https://github.com/truecharts/charts/charts/stable/plausible/values.yaml
+
+All our Charts use a shared "common" library chart that contains most of the templating and options.
+For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+
+For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
+
+### Support
 
 - See the [Website](https://truecharts.org)
 - Check our [Discord](https://discord.gg/tVsPTHWTtr)

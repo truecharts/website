@@ -2,16 +2,16 @@
 title: grav
 ---
 
-![Version: 12.0.11](https://img.shields.io/badge/Version-12.0.11-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.7.46](https://img.shields.io/badge/AppVersion-1.7.46-informational?style=flat-square)
+![Version: 12.0.13](https://img.shields.io/badge/Version-12.0.13-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.7.46](https://img.shields.io/badge/AppVersion-1.7.46-informational?style=flat-square)
 
 A Fast, Simple, and Flexible, file-based Web-platform.
 
 ## Chart Sources
 
+- https://ghcr.io/linuxserver/grav
 - https://github.com/getgrav/grav/
 - https://github.com/linuxserver/docker-grav
 - https://github.com/truecharts/charts/tree/master/charts/stable/grav
-- https://ghcr.io/linuxserver/grav
 
 ## Available Documentation
 

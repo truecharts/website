@@ -2,14 +2,14 @@
 title: airdcpp-webclient
 ---
 
-![Version: 11.0.7](https://img.shields.io/badge/Version-11.0.7-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.12.1](https://img.shields.io/badge/AppVersion-2.12.1-informational?style=flat-square)
+![Version: 11.0.9](https://img.shields.io/badge/Version-11.0.9-informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 2.12.1](https://img.shields.io/badge/AppVersion-2.12.1-informational?style=flat-square)
 
 AirDC++ Web Client is a locally installed application, which is designed for flexible sharing of files or directories within groups of people in a local network or over internet.
 
 ## Chart Sources
 
-- https://github.com/airdcpp-web/airdcpp-webclient
 - https://airdcpp-web.github.io/
+- https://github.com/airdcpp-web/airdcpp-webclient
 - https://github.com/truecharts/charts/tree/master/charts/stable/airdcpp-webclient
 - https://hub.docker.com/r/gangefors/airdcpp-webclient
 
@@ -44,14 +44,7 @@ For more information on how to install TrueCharts Helm charts, checkout the inst
 
 #### TrueNAS SCALE Apps
 
-For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale/guides/scale-intro).
-
-### Configuration Options
-
-To view the chart specific options, please view Values.yaml included in the chart.
-
-All our Charts use a shared "common" library chart that contains most of the templating and options.
-For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+For more information on how to use TrueCharts as TrueNAS SCALE Apps, please checkout the [quick-start guides for TrueNAS SCALE](https://truecharts.org/scale).
 
 ### Chart Specific Guides and information
 
@@ -59,8 +52,20 @@ All our charts have dedicated documentation pages.
 The documentation for this chart can be found here:
 https://truecharts.org/charts/stable/airdcpp-webclient
 
-### Support
+### Configuration Options
 
+Please note: For TrueNAS SCALE, only options available in the GUI are supported.
+Hence most of these docs do not apply to TrueNAS SCALE
+
+To view the chart specific options, please view Values.yaml included in the chart.
+The most recent version of which, is available here: https://github.com/truecharts/charts/charts/stable/airdcpp-webclient/values.yaml
+
+All our Charts use a shared "common" library chart that contains most of the templating and options.
+For the complete overview of all available options, please checkout the documentation for them on the website: https://truecharts.org/common/
+
+For information about the common chart and all defaults included with it, please review its values.yaml file available here: https://github.com/truecharts/library-charts/blob/main/library/common/values.yaml
+
+### Support
 
 - See the [Website](https://truecharts.org)
 - Check our [Discord](https://discord.gg/tVsPTHWTtr)
