@@ -29,7 +29,6 @@
 # Cover for intro pages now being index
 /*/intro /:splat/ 301
 
-
 # old->new website
 /manual/* /general/:splat 301
 /platforms/* /:splat 301
@@ -37,4 +36,4 @@
 /sponsor /general/sponsor/
 
 # guide redirects
-/scale/guides/getting-started/ /scale
+/scale/guides/getting-started/ /deprecated/scale

@@ -103,7 +103,7 @@ import { Steps } from "@astrojs/starlight/components";
 
 After running the above command for the first time, there's no need to repeatedly clone/download the repo each time after. So after running it the first time, feel free to only run the below each time after:
 
-````shell title="Run TT-Migration"
+    ```shell title="Run TT-Migration"
     cd TT-Migration && sudo bash migrate.sh
     ```
 
@@ -141,34 +141,34 @@ For instances where an application's database cannot be restored, the script wil
 
 1. Navigate to HeavyScript's backup folder for the selected application and list database dumps.
 
-    ```shell title="Check for Backups"
-    cd ~/heavy_script/database_dumps/APPNAME && ls
-    ```
+   ```shell title="Check for Backups"
+   cd ~/heavy_script/database_dumps/APPNAME && ls
+   ```
 
 2. Copy the latest database dump to the migration dataset created by the migration script.
 
-    ```shell title="Copy Database"
-    cp APPNAME_TIMESTAMP.sql.gz /mnt/TANK/migration/APPNAME/backup/
-    ```
+   ```shell title="Copy Database"
+   cp APPNAME_TIMESTAMP.sql.gz /mnt/TANK/migration/APPNAME/backup/
+   ```
 
 3. Re-run the migration process and select the backup.
 
-    ```shell title="Rerun Migration"
-    sudo bash migrate.sh --skip
-    ```
+   ```shell title="Rerun Migration"
+   sudo bash migrate.sh --skip
+   ```
 
-    ```txt title="Use the backup copied in the previous step"
-    Select your original app name:
-    1) APPNAME
-    Enter the number associated with the app: 1
-    You have chosen TANK/migration/APPNAME
+   ```txt title="Use the backup copied in the previous step"
+   Select your original app name:
+   1) APPNAME
+   Enter the number associated with the app: 1
+   You have chosen TANK/migration/APPNAME
 
-    Since a CNPG pod was found, the script can attempt to automatically create a database dump. Note that this requires the CNPG pod to have the ability to run successfully. If you have a recent CNPG database dump from another source (e.g., HeavyScript), you can provide that instead.
-    The default action is to have the script attempt to create a database dump, and should always be used unless your CNPG pod is problematic.
+   Since a CNPG pod was found, the script can attempt to automatically create a database dump. Note that this requires the CNPG pod to have the ability to run successfully. If you have a recent CNPG database dump from another source (e.g., HeavyScript), you can provide that instead.
+   The default action is to have the script attempt to create a database dump, and should always be used unless your CNPG pod is problematic.
 
-    Would you like to provide your own database dump file? [y/N]
-    y
-    ```
+   Would you like to provide your own database dump file? [y/N]
+   y
+   ```
 
 ### "Dataset Busy" error when following the migration process/script
 
@@ -176,9 +176,11 @@ Try the following in these EXACT steps, deviation of any kind can result in data
 
 1. Try to delete the dataset using the command `zfs destroy -r "TANK/ix-applications/releases/APPNAME"`
 
-    ```shell title="ZFS Destroy"
-        zfs destroy -r  "TANK/ix-applications/releases/APPNAME"
-        ```
+   ````shell title="ZFS Destroy"
+       zfs destroy -r  "TANK/ix-applications/releases/APPNAME"
+       ```
+
+   ````
 
 2. If Step 1 fails, note the name of the failed app(s) and continue migrating ALL remaining apps.
 
@@ -199,4 +201,7 @@ You **MUST** complete or start the migration of all apps before continuing. If y
 6. Re-run the script with `--skip` flag for all failed apps.
 
 It is very important to attempt all migrations **before** unsetting the applications pool. Unsetting the applications pool, or restarting with applications mid-migration, can result in data loss.
-````
+
+```
+
+```
