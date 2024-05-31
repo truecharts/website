@@ -11,16 +11,7 @@ However, we have multiple different values.yaml files, with different goals. Bec
 
 This file contains the default config when running the App using stock helm (not SCALE). It also gets used for the testing suite.
 
-### ix_values.yaml
-
-This file contains config values that are not included in questions.yaml, but should be copied into the resulting configuration anyway. It's mostly used to ensure setting can be changed by the maintainer with every update, such as versions, which is not possible when setting things as defaults inside questions.yaml
-
-This file is, however, not very well checked by validation and CI. Use it when you absolutely have to.
-
-One important setting in ix_values.yaml is the optional setting: `startAsRoot: true`
-This setting is a compatibility toggle for containers that need to be started by root, often these containers use PUID and PGID to deescalate (lower) away from root but require it to start.
-
-A minimal example ix_values.yaml would be:
+A minimal example values.yaml would be:
 
 ```yaml
 ##
@@ -33,8 +24,5 @@ image:
   repository: jacobalberty/unifi
   tag: 6.0.45
   pullPolicy: IfNotPresent
-##
-# Most other defaults are set in questions.yaml
-# For other options please refer to the wiki, default_values.yaml or the common library chart
-##
+
 ```
