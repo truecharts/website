@@ -8,7 +8,7 @@ on:
   push:
     branches:
       - main
-      
+
 # Use `bash --noprofile --norc -exo pipefail` by default for all `run` steps in this workflow:
 # https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#defaultsrun
 defaults:
@@ -47,7 +47,7 @@ jobs:
         shell: bash
         run: |
           #!/bin/bash
-          
+
           ## Loop through each contributor
           ## TODO: reenable later
           #while read -r contributor; do
@@ -58,7 +58,7 @@ jobs:
           #
           #    # Generate new filename with original extension
           #    new_filename="public/assets/contributors/$(basename "$avatar_url" | cut -d '?' -f 1)"
-          #	
+          #
           #    echo "converting file: $avatar_url"
           #    EXT=${FILE##*.} # file extension
           #    QUALITY=75 # quality for the image
@@ -67,7 +67,6 @@ jobs:
           #    rm temp_avatar
           #
           #done < src/assets/contributors.json
-
 
       - name: Setup astro Cache
         uses: actions/cache@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4
@@ -97,9 +96,6 @@ jobs:
         uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4
         with:
           node-version-file: .nvmrc
-
-      - name: Nuke Changelog
-        run: find . -name "CHANGELOG.md" -type f -exec rm -f {} +
 
       - name: Install Packages
         if: steps.modulescache.outputs.cache-hit != 'true'
