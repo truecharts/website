@@ -43,7 +43,7 @@ By integrating VolSync, TrueCharts users achieve a higher level of data resilien
 
 ### Expanding Backups and Restores on Helm
 
-TrueCharts is a multi-platform project that builds Helm charts with multiple downstream targets, including TrueNAS SCALE among others. As such, we've also published the above CNPG and VolSync guides to the Helm platform [section](/helm/) of our docs. This allows TrueCharts users running Helm directly to also integrate these new features.
+TrueCharts is a multi-platform project that builds Helm charts with multiple downstream targets, including TrueNAS SCALE among others. As such, we've also published the above CNPG and VolSync guides to the Helm platform [section](/general/support-policy/) of our docs. This allows TrueCharts users running Helm directly to also integrate these new features.
 
 ### Caveats
 
