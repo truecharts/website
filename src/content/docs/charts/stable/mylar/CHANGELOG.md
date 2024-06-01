@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 14.0.15 • [Train: stable]
+
+- chore(deps): update container image common to v23.0.11@11fa61c by renovate (#22748) • [`3869f37`](https://github.com/truecharts/charts/commit/3869f379478fd10fb35dd1314c76b46112f4449b) • [@TrueCharts Bot] (2024-06-01)
+
 ## 14.0.14 • [Train: stable]
 
 - chore(deps): update container image linuxserver/mylar3 to version-v0.8.0@e70dbdb by renovate (#22680) • [`174006d`](https://github.com/truecharts/charts/commit/174006db02058fdb2e05577778f1a7286afff094) • [@TrueCharts Bot] (2024-06-01)

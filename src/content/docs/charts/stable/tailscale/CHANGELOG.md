@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.1.7 • [Train: stable]
+
+- chore(deps): update container image common to v23.0.11@11fa61c by renovate (#22748) • [`3869f37`](https://github.com/truecharts/charts/commit/3869f379478fd10fb35dd1314c76b46112f4449b) • [@TrueCharts Bot] (2024-06-01)
+
 ## 9.1.6 • [Train: stable]
 
 - chore(deps): update container image tailscale/tailscale to v1.66.4@8c80cf9 by renovate (#22711) • [`975fda4`](https://github.com/truecharts/charts/commit/975fda4a91094fb1ee18284e7d5ffac52cdbb9db) • [@TrueCharts Bot] (2024-06-01)

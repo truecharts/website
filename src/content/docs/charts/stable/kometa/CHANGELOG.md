@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 2.0.8 • [Train: stable]
+
+- chore(deps): update container image common to v23.0.11@11fa61c by renovate (#22748) • [`3869f37`](https://github.com/truecharts/charts/commit/3869f379478fd10fb35dd1314c76b46112f4449b) • [@TrueCharts Bot] (2024-06-01)
+
 ## 2.0.7 • [Train: stable]
 
 - chore(deps): update container image kometateam/kometa to v2.0.2@2f4515f by renovate (#22714) • [`765eced`](https://github.com/truecharts/charts/commit/765eced29588c7db254b8ee9d57c4f127925e985) • [@TrueCharts Bot] (2024-06-01)

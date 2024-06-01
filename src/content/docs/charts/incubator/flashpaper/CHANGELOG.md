@@ -188,6 +188,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix(flashpaper) code cleanup &#43; move to stable (#5504) • [`5e402bd`](https://github.com/truecharts/charts/commit/5e402bd56d03b011fec60176a06e22bce0f245ab) • [@Xstar97] (2022-12-18)
 
+## 2.0.15 • [Train: incubator]
+
+- chore(deps): update container image common to v23.0.11@11fa61c by renovate (#22748) • [`3869f37`](https://github.com/truecharts/charts/commit/3869f379478fd10fb35dd1314c76b46112f4449b) • [@TrueCharts Bot] (2024-06-01)
+
 ## 2.0.14 • [Train: incubator]
 
 - chore(deps): update container image ghcr.io/andrewpaglusch/flashpaper to latest@86fba18 by renovate (#22721) • [`69032b7`](https://github.com/truecharts/charts/commit/69032b73f5a231635d7ace01bf5f12e4712dab58) • [@TrueCharts Bot] (2024-06-01)
