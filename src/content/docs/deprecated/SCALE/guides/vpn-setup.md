@@ -108,8 +108,9 @@ Gluetun offers HTTP (and Shadowsocks) proxy support. This is useful in scenarios
 Gluetun's default HTTP proxy port is `8888`. If you wish to change the port, then change it by adding the `HTTPPROXY_LISTENING_ADDRESS` environment variable.
 
 See Gluetun's website for more proxy configuration options (like setting a username/password):
-https://github.com/qdm12/gluetun-wiki/blob/main/setup/options/http-proxy.md
-https://github.com/qdm12/gluetun-wiki/blob/main/setup/options/shadowsocks.md
+
+- [http-proxy](https://github.com/qdm12/gluetun-wiki/blob/main/setup/options/http-proxy.md)
+- [shadowsocks](https://github.com/qdm12/gluetun-wiki/blob/main/setup/options/shadowsocks.md)
 
 #### Step 2: Add a new service for the proxy
 

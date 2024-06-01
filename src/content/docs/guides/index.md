@@ -11,24 +11,22 @@ Afterwards run this command to install it directly from our OCI repository:
 
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME`
 
-*Where "CHARTNAME" is the name of the chart you want to add and "mychart" is the name you want it to have on your system*
-
+_Where "CHARTNAME" is the name of the chart you want to add and "mychart" is the name you want it to have on your system_
 
 We would highly suggest your write your customisations and user specific options in your own `values.yaml` file.
 After which you can install the chart with your user specific settings using:
 
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME -f values.yaml`
 
-*where `values.yaml` can be replaced with a path of your choice*
+_where `values.yaml` can be replaced with a path of your choice_
 
 We would also advice users to specifiy seperate namespaces for deployed charts using:
 
 `helm install mychart oci://tccr.io/truecharts/CHARTNAME -f values.yaml -n NAMESPACE`
 
-*where `NAMESPACE` is the namespace you want to deploy to*
+_where `NAMESPACE` is the namespace you want to deploy to_
 
-For more information, please see the Helm docs:
-https://helm.sh/docs/helm/helm_install/
+For more information, please see the [Helm install docs](https://helm.sh/docs/helm/helm_install/)
 
 ## Upgrading charts
 
@@ -37,8 +35,7 @@ While this does not actually update the chart version, it does update the user s
 
 `helm upgrade oci://tccr.io/truecharts/CHARTNAME -f values.yaml -n NAMESPACE`
 
-For more information, please see the Helm docs:
-https://helm.sh/docs/helm/helm_upgrade/
+For more information, please see the [Helm upgrade docs](https://helm.sh/docs/helm/helm_upgrade/)
 
 ## Using KubeApps
 

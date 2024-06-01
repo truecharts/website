@@ -18,7 +18,9 @@ title: Configmap
 - `$FullName-$ConfigmapName` (release-name-chart-name-configmap-name)
 
 :::tip
+
 - Replace references to `$name` with the actual name you want to use.
+
 :::
 
 ---

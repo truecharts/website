@@ -45,7 +45,7 @@ NODE            NAMESPACE   TYPE              ID            VERSION   NAME      
 192.168.2.104   runtime     ExtensionStatus   modules.dep   1         modules.dep                6.1.82-talos
 ```
 
-## Create NVIDIA runtime class:
+## Create NVIDIA runtime class
 
 You will need to add this runtime class to pods you wish to add GPU resources to.
 

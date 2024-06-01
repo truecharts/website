@@ -18,7 +18,7 @@ In the ever-evolving landscape of containerization and application deployment, T
 - **Faster and More Efficient Processing**:
   Our current automated testing, takes a lot of processing time. Part of this is separated testing and releasing of the the container mirror. By removing the container mirror, we can lower the amount of tests run separately by 20%, significantly increasing the speed at which we can follow upstream releases of new versions.
 
-## As well, we would like to highlight these two important aspects of this transition below:
+## As well, we would like to highlight these two important aspects of this transition below
 
 - **DockerHub Rate Limits**:
   In a world where some container registries are subject to rate limits, this change does mean users might hit rate-limits when pulling certain containers. Especially those from dockerhub. If this is the case, please contact the container creator and request they use a different container registry.
@@ -29,6 +29,6 @@ In the ever-evolving landscape of containerization and application deployment, T
 - **Seamless and Non-Breaking Change:**
   TrueCharts is committed to making this transition as seamless as possible. Users can expect a non-disruptive experience, with no breaking changes to their current deployments. TrueCharts will provide comprehensive support to guide users through the transition, ensuring that the shift away from mirroring is a smooth and hassle-free process.
 
-## Conclusion:
+## Conclusion
 
 As TrueCharts takes this strategic step towards discontinuing container mirroring, the focus remains on user experience, transparency, and efficient development. By embracing this change, TrueCharts aims to provide users with an even more robust platform for deploying applications on Kubernetes. As the containerization landscape continues to evolve, TrueCharts remains dedicated to simplifying the deployment process and empowering users with the tools they need for success.

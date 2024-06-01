@@ -19,9 +19,9 @@ To reach the automatically generated password, select the tt-rss app in TrueNAS'
 
 ## Configuring path and URL
 
-TT-RSS has defaults which expect it to be installed and reachable at a url ending in `/tt-rss/` (e.g. https://rss.me.com/tt-rss/). This SCALE app comes with adjusted defaults that eliminate this ending portion (e.g. https://rss.me.com/).
+TT-RSS has defaults which expect it to be installed and reachable at a url ending in `/tt-rss/` (e.g. <https://rss.me.com/tt-rss/>). This SCALE app comes with adjusted defaults that eliminate this ending portion (e.g. <https://rss.me.com/>).
 
-If an advanced user wishes to alter the app path, use the _App Web Root Path_ and _App Base Path_ fields to do so. Read more here: https://tt-rss.org/wiki/InstallationNotes#how-do-i-make-it-run-without-tt-rss-in-the-url-i.e.-at-website-root
+If an advanced user wishes to alter the app path, use the _App Web Root Path_ and _App Base Path_ fields to do so. Read more here: <https://tt-rss.org/wiki/InstallationNotes#how-do-i-make-it-run-without-tt-rss-in-the-url-i.e.-at-website-root>
 
 ### Install to subdomain with traefik + ingress
 

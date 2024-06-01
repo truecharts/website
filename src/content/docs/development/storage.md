@@ -9,8 +9,6 @@ This article serves as a development extension to the storage article available 
 For all these storage solutions we require the common-chart to be added to the App.
 The Common-Chart handles both the connection/addition of storage to the container and spinning up special k8s jobs to fix the permissions if requested for the Custom storage.
 
-
-
 ### Unlimited Custom Storage Mounts
 
 We support presenting the user with a "Do it yourself" style list, in which the user can add unlimited paths on the host system to mount.

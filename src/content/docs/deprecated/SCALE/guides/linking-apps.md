@@ -38,13 +38,16 @@ As well as the above naming, replace `$SVCNAME` with the name of the service you
 
 - `$NAME-$APPNAME-$SVCNAME.ix-$NAME.svc.cluster.local`
 
-Be aware: you'll only be able to reach ports published on the service they are published to - see the Multiple Services example below for a demonstration of this.
+Be aware: you'll only be able to reach ports published on the service they are published to - see the Multiple Services example below for a
+demonstration of this.
 
 ## List Internal Domain Names using HeavyScript
 
-HeavyScript is a very useful command-line utility built to help simplify administration of TrueNAS Scale apps. One of it's many features is being able to list the internal DNS names and ports of your apps. If you are unsure of how names are "built" - then this is by far the easist and recommended way to be sure you are using the correct name.
+HeavyScript is a very useful command-line utility built to help simplify administration of TrueNAS Scale apps. One of it's many features is being able
+to list the internal DNS names and ports of your apps. If you are unsure of how names are "built" - then this is by far the easiest and recommended way
+to be sure you are using the correct name.
 
-Firstly, install HeavyScript or update your current installation to at least version 2.9.0. Visit their GitHub repo to find out how: https://github.com/Heavybullets8/heavy_script
+Firstly, install HeavyScript or update your current installation to at least version 2.9.0. Visit their [GitHub repo to find out how](https://github.com/Heavybullets8/heavy_script)
 
 To list the DNS entries for your apps, open the TrueNAS Scale shell and use the command `heavyscript dns` or `heavyscript dns APPNAME1 APPNAME2`
 
@@ -77,7 +80,8 @@ Then, it's extra services - one for metrics, and one for tcp
 - `traefik-metrics.ix-traefik.svc.cluster.local`
 - `traefik-tcp.ix-traefik.svc.cluster.local`
 
-When you install an app with multiple services, you'll be able to see which ports are published to which service - if you aren't sure of this from the installation/edit view then HeavyScript will also show these.
+When you install an app with multiple services, you'll be able to see which ports are published to which service - if you aren't sure of this from the
+installation/edit view then HeavyScript will also show these.
 
 This is a HeavyScript output for Traefik, showing it's services and the published ports
 
@@ -85,7 +89,8 @@ This is a HeavyScript output for Traefik, showing it's services and the publishe
 - `traefik-metrics.ix-traefik.svc.cluster.local                9180/TCP`
 - `traefik-tcp.ix-traefik.svc.cluster.local                    80/TCP,443/TCP`
 
-So, if you wanted to reach the metrics port, you should use `traefik-metrics.ix-traefik.svc.cluster.local` as the name as that port would not be available on other services.
+So, if you wanted to reach the metrics port, you should use `traefik-metrics.ix-traefik.svc.cluster.local` as the name as that port would not be
+available on other services.
 
 ## Video Guide
 

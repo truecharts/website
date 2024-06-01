@@ -2,7 +2,7 @@
 title: Setting Up an S3 Storage Provider
 ---
 
-The below outlines how to setup an S3 storage provider for use with TrueCharts. 
+The below outlines how to setup an S3 storage provider for use with TrueCharts.
 
 ## S3 Backup Providers
 
@@ -42,8 +42,7 @@ Note down these credentials as they are only shown to you once!
 - Secret Access Key -> secretKey
 - endpoint, default -> url
 
-
-### Backblaze 
+### Backblaze
 
 1. Create a new Application Key as below
   ![S3 Backblaze 1](./img/s3_backblaze_1.png)
@@ -61,11 +60,12 @@ Note down these credentials as they are only shown to you once!
 :::
 
 #### Backblaze credentials assignment
+
 - keyID -> accessKey
-- applicationKey -> secretKey 
+- applicationKey -> secretKey
 
+### Storj
 
-### Storj 
 - Go to Access Keys of your storj project
 - Create new access key, give it a name, and select S3 Credential
 - Select Advanced to only give access to a specific bucket (optional). Otherwise, select Full Access.
@@ -75,6 +75,7 @@ Note down these credentials as they are only shown to you once!
 - Select No Expiration
 - click Create Access
   ![S3 Storj 1](./img/s3_storj_1.png)
+
 :::caution[Credentials]
 
 Note down your Credentials as they are only shown once!
@@ -82,6 +83,7 @@ Note down your Credentials as they are only shown once!
 :::
 
 #### Storj Credentials assignment
+
 - storj Access Key -> accessKey
-- storj Secret Key -> secretKey 
+- storj Secret Key -> secretKey
 - https://gateway.storjshare.io/ -> url

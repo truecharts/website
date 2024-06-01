@@ -40,8 +40,6 @@ That includes installation and guidance on getting it working with defaults or b
 Bug reports aren't accepted on [discord](/s/discord) so if you spot a bug (Charts in the stable train should work with mostly defaults configuration)
 please report them to our [github](https://github.com/truecharts/charts/issues/new/choose). Bug reports that state something doesn't work without supporting items may be closed.
 
-
-
 ### Incubator Train Charts
 
 Our support policy for `incubator` train charts is different for those on the `stable` train. Those charts are work in progress,

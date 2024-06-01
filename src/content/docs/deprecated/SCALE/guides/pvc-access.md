@@ -118,21 +118,25 @@ rmdir /mnt/temporary/nextcloud-data
 
 ### Manual Method - Advanced User Guide
 
+:::warning
+
 **ALWAYS MAKE SURE THE APP IS STOPPED WHILE MOUNTING THE PVC**
 
-#### To get the PVCNAME:
+:::
+
+#### To get the PVCNAME
 
 ```bash
 k3s kubectl get pvc -n ix-APPNAME
 ```
 
-#### To get the PVCPATH:
+#### To get the PVCPATH
 
 ```bash
 zfs list | grep legacy | grep APPNAME
 ```
 
-#### If you want to mount the PVC content:
+#### If you want to mount the PVC content
 
 ```bash
 zfs set mountpoint=/temporary PVCPATH
@@ -140,7 +144,7 @@ zfs set mountpoint=/temporary PVCPATH
 
 Your PVC will be mounted under `/mnt/temporary`
 
-#### and when you're done editing:
+#### and when you're done editing
 
 ```bash
 zfs set mountpoint=legacy PVCPATH

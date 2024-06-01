@@ -16,4 +16,3 @@ charts/<train>/<chart name>/
 ```
 
 _See the upstream Helm chart [developer reference](https://helm.sh/docs/chart_template_guide/) for a complete walk through of developing charts._
-
