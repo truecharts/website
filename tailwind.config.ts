@@ -1,6 +1,5 @@
 import type { Config } from "tailwindcss";
 import starlightPlugin from "@astrojs/starlight-tailwind";
-import plugin from "tailwindcss";
 
 // https://starlight.astro.build/guides/css-and-tailwind/#tailwind-css
 // Those are the default from starlight generator
