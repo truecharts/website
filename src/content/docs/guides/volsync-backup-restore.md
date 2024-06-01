@@ -12,7 +12,7 @@ The below is a work in progress
 
 ### S3 Provider Setup
 
-See [here](/general/guides/s3-setup) for instructions on how to setup an S3 storage provider for use. Once this is done, return here and continue with the below.
+See [here](/guides/s3-setup) for instructions on how to setup an S3 storage provider for use. Once this is done, return here and continue with the below.
 
 ### Adding Credentials
 
@@ -20,7 +20,7 @@ You can add the credentials by copy-pasting the [Full Examples](/common/credenti
 
 ## PVC Backups
 
-PVC data can be easily backed up to S3 storage by using our integrated VolSync support. For each individual app, the `VolSync Destination (Restore)` option *must* set on creation of the app by doing the following:
+PVC data can be easily backed up to S3 storage by using our integrated VolSync support. For each individual app, the `VolSync Destination (Restore)` option _must_ set on creation of the app by doing the following:
 
 1. Add `VolSync` to each persistence object you want synced as below
 

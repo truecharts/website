@@ -1,0 +1,51 @@
+---
+title: DragonFish to TalosOS Kubernetes Migration
+---
+
+:::caution[WORK IN PROGRESS]
+
+This guide is not done yet, please don't use unless you want to test and append the guide
+
+:::
+
+## Important Changes
+
+With upcomming "Electric Eel" version of TrueNAS SCALE, iX-Systems has decided to completely gut the kubernetes backend and screw over its community.
+However, we got you covered so you can safely keep running your TrueCharts Charts... On "TalosOS", A dedicated unmutable kubernetes OS that has been rock-solid for years!
+
+We'll be using a TalosOS VM on TrueNAS SCALE, but any solid hypervisor would suffice.
+As a storage backend, we will be using Democratic CSI to automatically use your already-existing TrueNAS storage server to store all your data.
+
+There are multiple steps to this process:
+
+- Preparing your network
+- Creating the VM
+- Installing Talos OS
+- Bootstrapping a basic cluster
+- Migrating your SCALE Apps to TalosOS
+
+## Preparing your network
+
+### Creating a bridge
+
+For communication with the TrueNAS host system, it's important that you create a "bridge" network interface first
+
+
+## Creating the VM
+
+### Creating the storage zvol
+
+### Downloading the TalosOS ISO
+
+### Creating the Virtual machine
+
+## Installing Talos OS
+
+## Bootstrapping a basic cluster
+## Migating your SCALE Apps to TalosOS
+
+### Exporting your Apps
+
+### Modifying your exports
+
+### Importing your Charts

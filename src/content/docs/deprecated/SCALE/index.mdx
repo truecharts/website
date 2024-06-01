@@ -35,12 +35,12 @@ Hence for chart management our preference would be to use [FluxCD](/fluxcd/) ins
 
 ## How to Configure
 
-Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](/scale/guides/scale-intro) page.
+Below you'll find recommended steps to go from a blank or fresh TrueNAS SCALE installation to using TrueCharts with the best possible experience and performance as determined by the TrueCharts team. It does not replace the application specific guides and/or specific guides on certain subjects (PVCs, VPN, linking apps, etc) either, so please continue to check the app specific documentation and the TrueNAS SCALE specific guides we've provided on this website. If more info is needed about `TrueNAS SCALE` please check out our [introduction to SCALE](/deprecated/scale/guides/scale-intro) page.
 
 ## Requirements
 
-- TrueCharts apps share computing resources with your system. Please review our [recommended system requirements](/scale/systemrequirements/).
-- Your apps dataset needs to be large enough to store the containers, configuration files, snapshots, and other persistent volume (PVC) data. You can always configure [additional storage](/scale/guides/add-storage) using HDD pools (e.g. downloads folder) for specific apps later.
+- TrueCharts apps share computing resources with your system. Please review our [recommended system requirements](/deprecated/scale/systemrequirements/).
+- Your apps dataset needs to be large enough to store the containers, configuration files, snapshots, and other persistent volume (PVC) data. You can always configure [additional storage](/deprecated/scale/guides/add-storage) using HDD pools (e.g. downloads folder) for specific apps later.
 - Make sure your SCALE installation has a working storage pool that you'd like to use for TrueCharts. [Read more](https://www.truenas.com/docs/scale/scaletutorials/storage/) in the SCALE tutorial.
 - Make sure you have a working Internet connection and can reach `https://github.com`, `https://truecharts.org`, and `https://tccr.io` from the host system.
 - Ensure your system time is up to date and you've chosen your preferred timezone in your [SCALE settings](https://www.truenas.com/docs/scale/scaleuireference/systemsettings/generalsettingsscreens/#localization). Apps you install will default to this timezone.
@@ -56,17 +56,17 @@ Below are the tl;dr versions of the full setup for certain use cases, scroll dow
 ## Minimal Getting Started Setup with SCALE
 
 - Ensure you have completed the above requirements
-- Add the TrueCharts catalog with the following trains selected: `stable`, `premium`, `system` -> [Adding TrueCharts](/scale/#adding-truecharts)
+- Add the TrueCharts catalog with the following trains selected: `stable`, `premium`, `system` -> [Adding TrueCharts](/deprecated/scale/#adding-truecharts)
 - Install the following apps from the `system` train with **default** settings: `OpenEBS`, `Prometheus Operator` and `Cert-Manager`
 
 Optionally, you can also install the below apps if you want functionality that they provide:
 
 - Install `Cloudnative-PG Operator` if you plan to use any [apps that rely on CNPG functionality](/general/faq#how-do-i-know-if-an-app-uses-cnpg)
-- Install `MetalLB` if you're an advanced user or want to assign specific IP addresses to your SCALE apps. See [here](/scale/#metallb-installation-and-disabling-integrated-loadbalancer)
-- Install `Traefik` if you want [ingress or reverse-proxy](/scale/#traefik-installation-for-ingress--reverse-proxy-support-with-truecharts-apps) support with our apps
-- Install `Authelia` if you want to add a [single-sign-on or multi-factor-authentication portal](/scale/#authelia-installation) to your apps through integration with `Traefik`
-- Install `Blocky` if you want to take advantage of our [preferred DNS solution](/scale/#blocky-dns-provider-for-split-dns-installation-and-guide) to allow for DNS proxy, enhancer and ad-blocking functions with your apps
-- ~~Install  `VolSync` **after** doing the above steps if you want [backup and restore functionality](/scale/guides/backup-restore) made available for your apps' PVCs. Then, in the options for OpenEBS which you installed earlier, check the [checkboxes](./img/volumesnapshotclass.png) for `enabled` and `isDefault` under the "volumeSnapshotClass" section.~~
+- Install `MetalLB` if you're an advanced user or want to assign specific IP addresses to your SCALE apps. See [here](/deprecated/scale/#metallb-installation-and-disabling-integrated-loadbalancer)
+- Install `Traefik` if you want [ingress or reverse-proxy](/deprecated/scale/#traefik-installation-for-ingress--reverse-proxy-support-with-truecharts-apps) support with our apps
+- Install `Authelia` if you want to add a [single-sign-on or multi-factor-authentication portal](/deprecated/scale/#authelia-installation) to your apps through integration with `Traefik`
+- Install `Blocky` if you want to take advantage of our [preferred DNS solution](/deprecated/scale/#blocky-dns-provider-for-split-dns-installation-and-guide) to allow for DNS proxy, enhancer and ad-blocking functions with your apps
+- ~~Install `VolSync` **after** doing the above steps if you want [backup and restore functionality](/deprecated/scale/guides/backup-restore) made available for your apps' PVCs. Then, in the options for OpenEBS which you installed earlier, check the [checkboxes](./img/volumesnapshotclass.png) for `enabled` and `isDefault` under the "volumeSnapshotClass" section.~~
 
 ## Adding TrueCharts
 
@@ -111,13 +111,13 @@ If you're having issues adding the TrueCharts catalog to SCALE, you may need to 
 
 :::tip[Introduction to TrueNAS SCALE Guide]
 
-Please free to check out our [Introduction to TrueNAS SCALE](/scale/guides/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
+Please free to check out our [Introduction to TrueNAS SCALE](/deprecated/scale/guides/scale-intro) guide on some specific information on installing, editing, rollbacks and CLI commands for use with apps on TrueNAS SCALE.
 
 :::
 
 ## Getting started using Charts with your own Domain
 
-- Steps Above -> [Minimal Getting Started with SCALE](/scale#minimal-getting-started-setup-with-scale)
+- Steps Above -> [Minimal Getting Started with SCALE](/deprecated/scale#minimal-getting-started-setup-with-scale)
 - Move TrueNAS Port to 81,444 -> [TrueNAS WebUI Instructions](/charts/premium/traefik/how-to#truenas-webui)
 - Add Traefik -> [Traefik How-To](/charts/premium/traefik/how-to)
 - Use Cloudflare for DNS and create API token -> [Guide](/charts/premium/clusterissuer/how-to#configure-acme-issuer)
@@ -127,7 +127,7 @@ Please free to check out our [Introduction to TrueNAS SCALE](/scale/guides/scale
 
 ## Full TrueCharts Setup on TrueNAS SCALE
 
-- Everything below (includes the steps listed above and extras like [HeavyScript](/scale/#heavyscript), [MetalLB](/scale/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](/scale/#authelia-installation))
+- Everything below (includes the steps listed above and extras like [HeavyScript](/deprecated/scale/#heavyscript), [MetalLB](/deprecated/scale/#metallb-installation-and-disabling-integrated-loadbalancer) and [Authelia](/deprecated/scale/#authelia-installation))
 
 ### TrueCharts Trains Overview
 
@@ -149,27 +149,27 @@ Once you've added the TrueCharts catalog, we also recommend installing [HeavyScr
 
 ![OpenEBS Icon](./guides/img/icons/openebs.png)
 
-As outlined [here](/scale/migrations/cobia-dragonfish/#important-changes), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
+As outlined [here](/deprecated/scale/migrations/cobia-dragonfish/#important-changes), iX-Systems no longer maintains or supports any form of PVC-based storage for apps. For this reason, TrueCharts provides our own OpenEBS storage solution for you to use with our apps. This means you need to install the `OpenEBS` app from the TrueCharts system train as below.
 
 <Steps>
 
-1. In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
+1.  In the SCALE GUI, go to Apps -> Discover Apps -> Manage Catalogs
 
-2. Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
+2.  Ensure you have `system` in the list of Preferred Trains in the TRUECHARTS row as below. If so, skip the next step and proceed to step 4
 
         ![Catalog Trains](./guides/img/Dragonfish-Storage5.png)
 
-3. If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
+3.  If you don't already, you can add it by selecting the TRUECHARTS row and selecting the `Edit` button and selecting `system` under the "Preferred Trains" dropdown list as below
 
         ![system List](./guides/img/Dragonfish-Storage5b.png)
 
-4. Create a dedicated, empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
+4.  Create a dedicated, empty dataset on the apps pool you [created above](https://www.truenas.com/docs/scale/scaleuireference/apps/#choose-a-pool-for-apps-dialog), outside of ix-applications. Please ensure you've chosen the dataset that's **not** inside `ix-applications`. An example "apps" **pool** layout could look like [this](/deprecated/scale/migrations/cobia-dragonfish/#post-migration-steps) where you have a top-level "apps" dataset with "ix-applications" (non-PVC app data) and "pvcApps" (OpenEBS PVC app storage) nested under.
 
-5. Then install the `OpenEBS` chart
+5.  Then install the `OpenEBS` chart
 
         ![OpenEBS Icon](./guides/img/icons/openebs.png)
 
-6. Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
+6.  Enter the name of the pool and dataset you created earlier in `pool/dataset` format and do not include `/mnt/` in front of the pool/dataset, as shown below
 
         ![OpenEBS Storage](./guides/img/OpenEBS-storage.png)
 
@@ -197,7 +197,7 @@ Many of the popular TrueCharts apps for TrueNAS SCALE rely on `Prometheus Operat
 
 [Here](/general/faq#how-do-i-know-if-an-app-uses-cnpg) is a list of apps that rely on CNPG functionality. If you intend to deploy any of these apps, you **must** install the `Cloudnative-PG Operator` app first as above.
 
-If you are migrating from a different CNPG operator, you can use our [CNPG Migration Guide](/development/scale/cnpg-migration-guide) for steps on how to install the `Cloudnative-PG` operator and migrating to it. We also have [this](/general/faq#operators) FAQ entry on removing the previous CNPG backend once migrated.
+If you are migrating from a different CNPG operator, you can use our [CNPG Migration Guide](/deprecated/scale/guides/cnpg-migration-guide) for steps on how to install the `Cloudnative-PG` operator and migrating to it. We also have [this](/general/faq#operators) FAQ entry on removing the previous CNPG backend once migrated.
 
 For new users just starting out with TrueNAS SCALE, simply **first** install `Prometheus Operator` **followed by** `Cloudnative-PG Operator` from the TrueCharts Community Catalog before continuing.
 
@@ -229,4 +229,12 @@ Authelia is a Single Sign-On Multi-Factor portal for web apps, and is the prefer
 
 ### Outdated Video Guide
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vomm8uvdCM0" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/Vomm8uvdCM0"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+></iframe>

@@ -65,7 +65,7 @@ sudo systemctl stop ntp && sudo ntpd -gq && sudo systemctl start ntp && date
 
 The command will stop NTP, sync the clock with NTP server, start the NTP service and print the date afterwards.
 
-*If the output of the "date" command matches the current local time for your system, then the time issue is resolved. However, if the output does not match, repeat the above steps until the system clock is properly synchronized.*
+_If the output of the "date" command matches the current local time for your system, then the time issue is resolved. However, if the output does not match, repeat the above steps until the system clock is properly synchronized._
 
 ## Can I use another Load Balancer in front of Traefik?
 
@@ -89,7 +89,7 @@ We use upstream containers. If the password is not on our website, please refer 
 
 ## My Chart application has had an upstream update, but the Chart is not updated yet?
 
-It can sometimes take a few days for our automation tools to pick up updates, please sit tight. Please only report missed updates via a [GitHub issue](https://github.com/truecharts/containers/issues/new/choose) when 7 days have passed *after the new upstream*container* has become available.
+It can sometimes take a few days for our automation tools to pick up updates, please sit tight. Please only report missed updates via a [GitHub issue](https://github.com/truecharts/containers/issues/new/choose) when 7 days have passed *after the new upstream*container\* has become available.
 
 ## Isn't there more documentation for a chart?
 
@@ -292,7 +292,7 @@ The application state in the web GUI will be `Started` since there is still a CN
 
 ## Operators
 
-TrueCharts has always required operators for many charts to work. Prior to 01 July 2023, these prerequisites were installed automatically and were not visible to the end user. TrueCharts now requires that these system be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [system TrueCharts train](/scale#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old operator prerequisites installed and can proceed with the installation of the new ones from the operator train per our [Getting Started guide](/scale#prometheus-and-cnpg-system-app-installations).
+TrueCharts has always required operators for many charts to work. Prior to 01 July 2023, these prerequisites were installed automatically and were not visible to the end user. TrueCharts now requires that these system be installed by the end user and the previous automatically installed operators to be removed. These operators are located on the [system TrueCharts train](/deprecated/scale#adding-truecharts). Any users who just started the use of TrueCharts after 01 July 2023 will not have the old operator prerequisites installed and can proceed with the installation of the new ones from the operator train per our [Getting Started guide](/deprecated/scale#prometheus-and-cnpg-system-app-installations).
 
 ### Prometheus-Operator
 
@@ -310,7 +310,7 @@ The following command is destructive and will delete any existing CNPG databases
 
 Run the following command in system shell as **root** to see if you have any current CNPG databases to migrate: `k3s kubectl get pods -A | grep cnpg`
 
-Follow [this guide](/development/scale/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+Follow [this guide](/deprecated/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
 
 :::
 
@@ -336,8 +336,7 @@ To remove the previous automatically installed operator run this in the system s
 
 ### Traefik
 
-This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [premium TrueCharts train](/scale#adding-truecharts).
-
+This operator is required for the use of ingress to access apps using a fully qualified domain name (FQDN). This is also the chart for the Traefik dashboard and is located on the [premium TrueCharts train](/deprecated/scale#adding-truecharts).
 
 ## General Errors
 
@@ -349,7 +348,7 @@ The issue: This error is due to old version of Helm. Helm > 3.9.4 is required.
 
 The solution: Upgrade to TrueNAS SCALE Cobia (23.10.x) or newer. System Settings -> Update -> Select Cobia from the dropdown. SCALE Bluefin and Angelfish releases are no longer supported.
 
-[See our Support Policy](/scale/support/)
+[See our Support Policy](/deprecated/scale/support/)
 
 ---
 
@@ -446,7 +445,7 @@ Run the following command in system shell as **root** to see if you have any cur
 k3s kubectl get cluster -A
 ```
 
-Follow [this guide](/development/scale/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+Follow [this guide](/deprecated/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
 
 :::
 

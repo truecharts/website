@@ -11,5 +11,3 @@ This manual contains general information on working with TrueCharts Charts.
 Please, always remember to check the content specific to the chart.
 
 :::
-
-

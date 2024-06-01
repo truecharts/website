@@ -1,7 +1,5 @@
 ---
-title: FluxCD Introduction
-sidebar:
-  order: 1
+title: FluxCD Support Policy
 ---
 
 fluxcd is a so-called gitops tool.
@@ -20,6 +18,24 @@ This means that we expect it to work smoothly, all options being technically ava
 
 With Tier 2 options, you should not have to expect issues caused by the deployment option.
 
+## TrueCharts on FluxCD
+
+TrueCharts aims to always support the latest version of FluxCD.
+However, sometimes new versions of either TrueNAS or TrueCharts introduces breaking changes.
+This document highlights which versions of TrueCharts (or rather branches), support which versions of FluxCD.
+
+We also document which versions of TrueNAS will receive TrueCharts updates and for which versions we are accepting bug reports.
+
+### Supported Versions of FluxCD
+
+| FluxCD version | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes |
+| -------------- | -------- | ---------------------- | ------------------------- | --------------------- | ----- |
+| 1.2.1 or prior | `master` | ✅                     | ❌                        | ❌                    |       |
+
+## Project Scope
+
+For more info on what to expect from TrueCharts Apps, be sure to also read the [Project Scope documentation](/general/scope)
+
 ## How to Configure
 
 Configuration should be done "The Helm Way" via editing HelmRelease objects in the git repository.
@@ -31,7 +47,7 @@ and checking all the many options available in our [Common Library Chart](/commo
 
 ### Example Helm-Release object
 
-```
+```yaml
 ---
 # yaml-language-server: $schema=https://kubernetes-schemas.zinn.ca/helm.toolkit.fluxcd.io/helmrelease_v2beta1.json
 apiVersion: helm.toolkit.fluxcd.io/v2beta2
@@ -80,5 +96,4 @@ spec:
             paths:
               - path: /
                 pathType: Prefix
-
 ```

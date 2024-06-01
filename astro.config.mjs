@@ -134,13 +134,6 @@ export default defineConfig({
           },
         },
         {
-          label: "Helm",
-          collapsed: true,
-          autogenerate: {
-            directory: "helm",
-          },
-        },
-        {
           label: "FluxCD",
           collapsed: true,
           autogenerate: {
@@ -151,7 +144,7 @@ export default defineConfig({
           label: "TrueNAS SCALE",
           collapsed: true,
           autogenerate: {
-            directory: "SCALE",
+            directory: "deprecated/SCALE",
           },
         },
         {

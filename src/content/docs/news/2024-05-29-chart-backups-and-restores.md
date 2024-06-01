@@ -43,7 +43,7 @@ By integrating VolSync, TrueCharts users achieve a higher level of data resilien
 
 ### Expanding Backups and Restores on Helm
 
-TrueCharts is a multi-platform project that builds Helm charts with multiple downstream targets, including TrueNAS SCALE among others. As such, we've also published the above CNPG and VolSync guides to the Helm platform [section](/helm/) of our docs. This allows TrueCharts users running Helm directly to also integrate these new features.
+TrueCharts is a multi-platform project that builds Helm charts with multiple downstream targets, including TrueNAS SCALE among others. As such, we've also published the above CNPG and VolSync guides to the Helm platform [section](/general/support-policy/) of our docs. This allows TrueCharts users running Helm directly to also integrate these new features.
 
 ### Caveats
 
@@ -51,7 +51,7 @@ Currently, this new restore functionality isn't yet functional on TrueNAS SCALE 
 
 ### Documentation and Instructions
 
-You can find our initial guides and documentation for how to take advantage of the above exciting new solutions for SCALE [here](/scale/guides/backup-restore), and in the Helm section linked above. Please note that these pages will evolve and be updated in the near future, especially once functionality on SCALE is *restored*, and we welcome discussion in our [Discord](https://discord.gg/tVsPTHWTtr) [channel](https://discord.com/channels/830763548678291466/1234481318499323956).
+You can find our initial guides and documentation for how to take advantage of the above exciting new solutions for SCALE [here](/deprecated/scale/guides/backup-restore), and in the Helm section linked above. Please note that these pages will evolve and be updated in the near future, especially once functionality on SCALE is _restored_, and we welcome discussion in our [Discord](https://discord.gg/tVsPTHWTtr) [channel](https://discord.com/channels/830763548678291466/1234481318499323956).
 
 ## Closing Out
 
