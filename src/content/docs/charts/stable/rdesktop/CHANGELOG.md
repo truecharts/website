@@ -35,8 +35,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.0.100 • [Train: stable]
 
-- Commit daily changes • [`529340b`](https://github.com/truecharts/charts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/truecharts/charts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/truecharts/charts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - chore(deps): update rdesktop by renovate (#22392) • [`b38bfa4`](https://github.com/truecharts/charts/commit/b38bfa4922149d783b7c1a0c0c5ec972fcb35053) • [@TrueCharts Bot] (2024-05-25)
 
 ## 9.0.94 • [Train: stable]
@@ -54,8 +54,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 9.0.74 • [Train: stable]
 
-- Commit daily changes • [`d6461e6`](https://github.com/truecharts/charts/commit/d6461e680534b9567ba2938f4af8cf8d9b059cd1) • [@TrueCharts-Bot] (2024-05-18)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-i3@d88cba2 by renovate (#22193) • [`4bdbb42`](https://github.com/truecharts/charts/commit/4bdbb420834cff148474733348409a143f71c533) • [@TrueCharts Bot] (2024-05-18)
+- Commit daily changes • [`d6461e6`](https://github.com/truecharts/charts/commit/d6461e680534b9567ba2938f4af8cf8d9b059cd1) • [@TrueCharts-Bot] (2024-05-18)
 
 ## 9.0.73 • [Train: stable]
 
@@ -84,8 +84,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 9.0.33 • [Train: stable]
 
 - Commit daily changes • [`410bacb`](https://github.com/truecharts/charts/commit/410bacb1c125e67432259a71529f46c58054e4ef) • [@TrueCharts-Bot] (2024-05-07)
-- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/truecharts/charts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 - chore(deps): update rdesktop by renovate (#21680) • [`f78fb8a`](https://github.com/truecharts/charts/commit/f78fb8a337ecaba5d79eec82a7bbdf7eb07edc35) • [@TrueCharts Bot] (2024-05-06)
+- chore(docs): exclude changelog from pagefind (#21693) • [`f91c384`](https://github.com/truecharts/charts/commit/f91c384060835b0cff91205b8ee00de36b10d689) • [@Stavros Kois] (2024-05-06)
 
 ## 9.0.28 • [Train: stable]
 
@@ -172,8 +172,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 8.8.36 • [Train: stable]
 
-- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/truecharts/charts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 - Webp icons2 (#20851) • [`8b489f4`](https://github.com/truecharts/charts/commit/8b489f48bb8f4f6a01050a08ad544323375bce74) • [@Kjeld Schouten] (2024-04-16)
+- chore(deps): update container image common to v20.3.7@8cf9fc9 by renovate (#20819) • [`4413ae4`](https://github.com/truecharts/charts/commit/4413ae4d1cdd32a9d5f70d57f0c01e429ee90298) • [@TrueCharts Bot] (2024-04-16)
 
 ## 8.8.35 • [Train: stable]
 
@@ -515,10 +515,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.1.6 • [Train: stable]
 
-- Commit daily changes • [`92663fd`](https://github.com/truecharts/charts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
 - chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/truecharts/charts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
-- chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/truecharts/charts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
+- Commit daily changes • [`92663fd`](https://github.com/truecharts/charts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
 - chore(deps): update rdesktop by renovate (#16648) • [`4beb59f`](https://github.com/truecharts/charts/commit/4beb59ffadda7327641b785568ce9020d010e823) • [@TrueCharts Bot] (2023-12-31)
+- chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/truecharts/charts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
 
 ## 7.1.0 • [Train: stable]
 
@@ -596,8 +596,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.0.0 • [Train: stable]
 
-- Commit daily changes • [`1b4ce58`](https://github.com/truecharts/charts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 - chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/truecharts/charts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
+- Commit daily changes • [`1b4ce58`](https://github.com/truecharts/charts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
 
 ## 5.0.206 • [Train: stable]
 
@@ -629,19 +629,19 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.157 • [Train: stable]
 
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-icewm@7298666 (#15664) • [`d6f5e3a`](https://github.com/truecharts/charts/commit/d6f5e3af4c14742f38efee8534a58d74ce90fe08) • [@TrueCharts Bot] (2023-12-04)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-openbox@c57b073 (#15670) • [`2f773ab`](https://github.com/truecharts/charts/commit/2f773abf6960ed16f119ae5c730a7a9fa87db926) • [@TrueCharts Bot] (2023-12-04)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-openbox@c3fb37c (#15666) • [`38f1c12`](https://github.com/truecharts/charts/commit/38f1c12bf1d2a360d2f43b6e16f78a6fcc188ee7) • [@TrueCharts Bot] (2023-12-04)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-mate@934472b (#15661) • [`4e2e779`](https://github.com/truecharts/charts/commit/4e2e779b8d88d2c2a5fa881415e57a8654ef6ce6) • [@TrueCharts Bot] (2023-12-04)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-i3@8a038b9 (#15663) • [`59225c6`](https://github.com/truecharts/charts/commit/59225c6009ca7d9b7d2b6bfddb60730dccb191e0) • [@TrueCharts Bot] (2023-12-04)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-i3@097d4f7 (#15659) • [`7019a45`](https://github.com/truecharts/charts/commit/7019a45f7769f0fe9aace2bb5480fd2eeea52bc6) • [@TrueCharts Bot] (2023-12-04)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-kde@a3dbee2 (#15660) • [`25d06f1`](https://github.com/truecharts/charts/commit/25d06f12d7fc19800f7e0f7d5f1824f685f033cb) • [@TrueCharts Bot] (2023-12-04)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-openbox@c3fb37c (#15666) • [`38f1c12`](https://github.com/truecharts/charts/commit/38f1c12bf1d2a360d2f43b6e16f78a6fcc188ee7) • [@TrueCharts Bot] (2023-12-04)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-openbox@d1007a3 (#15662) • [`5b0bc87`](https://github.com/truecharts/charts/commit/5b0bc87d15fd0e5ee06cbd0fff662d0e74253798) • [@TrueCharts Bot] (2023-12-04)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-kde@79e2983 (#15590) • [`ce205bf`](https://github.com/truecharts/charts/commit/ce205bfc4bd1500d70beafaabccc3336747a3778) • [@TrueCharts Bot] (2023-12-04)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-icewm@7298666 (#15664) • [`d6f5e3a`](https://github.com/truecharts/charts/commit/d6f5e3af4c14742f38efee8534a58d74ce90fe08) • [@TrueCharts Bot] (2023-12-04)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to latest@3eb0980 (#15668) • [`006f5a7`](https://github.com/truecharts/charts/commit/006f5a7062f272caf158473b0467c5ddb2f9fa7c) • [@TrueCharts Bot] (2023-12-04)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-xfce@4509b9a (#15667) • [`0853de8`](https://github.com/truecharts/charts/commit/0853de8f5848484914684bfcd7f7c16aaa734e31) • [@TrueCharts Bot] (2023-12-04)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-mate@9d0aa73 (#15665) • [`144774d`](https://github.com/truecharts/charts/commit/144774d38667b195512325f0f591434bc5e231a6) • [@TrueCharts Bot] (2023-12-04)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-icewm@5b4958a (#15669) • [`1a086a5`](https://github.com/truecharts/charts/commit/1a086a59ee2754062de7974b4810e7a529726443) • [@TrueCharts Bot] (2023-12-04)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-kde@a3dbee2 (#15660) • [`25d06f1`](https://github.com/truecharts/charts/commit/25d06f12d7fc19800f7e0f7d5f1824f685f033cb) • [@TrueCharts Bot] (2023-12-04)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-i3@097d4f7 (#15659) • [`7019a45`](https://github.com/truecharts/charts/commit/7019a45f7769f0fe9aace2bb5480fd2eeea52bc6) • [@TrueCharts Bot] (2023-12-04)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-kde@79e2983 (#15590) • [`ce205bf`](https://github.com/truecharts/charts/commit/ce205bfc4bd1500d70beafaabccc3336747a3778) • [@TrueCharts Bot] (2023-12-04)
 
 ## 5.0.156 • [Train: stable]
 
@@ -650,11 +650,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 5.0.155 • [Train: stable]
 
 - chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-mate@54a0e93 (#15577) • [`b3f62f3`](https://github.com/truecharts/charts/commit/b3f62f35c3722666b754fe67d7c2dcda80683792) • [@TrueCharts Bot] (2023-12-01)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-openbox@dc53b9d (#15578) • [`03666a1`](https://github.com/truecharts/charts/commit/03666a1f9dfa8bed9b4b63d73f2e6fed467d5871) • [@TrueCharts Bot] (2023-12-01)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-xfce@a18c50e (#15579) • [`3e56755`](https://github.com/truecharts/charts/commit/3e5675594ecb71d63800bb8128dd185976f17b5e) • [@TrueCharts Bot] (2023-12-01)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-i3@fbdad59 (#15575) • [`9e64a22`](https://github.com/truecharts/charts/commit/9e64a222c24a9c26eabb4796806583e6f7c494ab) • [@TrueCharts Bot] (2023-12-01)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-icewm@85c65d2 (#15576) • [`9fe28a5`](https://github.com/truecharts/charts/commit/9fe28a54a65cf647081d33a4a2b3d08a1e7fdbed) • [@TrueCharts Bot] (2023-12-01)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-mate@54a0e93 (#15577) • [`b3f62f3`](https://github.com/truecharts/charts/commit/b3f62f35c3722666b754fe67d7c2dcda80683792) • [@TrueCharts Bot] (2023-12-01)
 
 ## 5.0.154 • [Train: stable]
 
@@ -665,24 +665,24 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.153 • [Train: stable]
 
-- Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-kde@c1b1a4a (#15406) • [`fa569c7`](https://github.com/truecharts/charts/commit/fa569c7ee5613e393a35bc272f50eae6cfa38fb7) • [@TrueCharts Bot] (2023-11-27)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-i3@05dc0af (#15411) • [`42094f1`](https://github.com/truecharts/charts/commit/42094f15d8590ad2384884ffeb9faad8ff211eb3) • [@TrueCharts Bot] (2023-11-27)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-icewm@7c707ef (#15412) • [`75ff6bb`](https://github.com/truecharts/charts/commit/75ff6bbf0ed62ed4614f69dc125fb469df6f21d1) • [@TrueCharts Bot] (2023-11-27)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to latest@315b902 (#15410) • [`be1cd0a`](https://github.com/truecharts/charts/commit/be1cd0a5be4fb3a0206bcae5edfc00a58d5b1357) • [@TrueCharts Bot] (2023-11-27)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-openbox@8fc3a10 (#15403) • [`cb8308d`](https://github.com/truecharts/charts/commit/cb8308d42d9da8e44033a7b3ccfa716b6743c934) • [@TrueCharts Bot] (2023-11-27)
-- Commit daily changes • [`e014f09`](https://github.com/truecharts/charts/commit/e014f09d47c2074054f040db4d4425589c2486ae) • [@TrueCharts-Bot] (2023-11-27)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-mate@cb22cb9 (#15402) • [`c453b8d`](https://github.com/truecharts/charts/commit/c453b8da85d29267834123078d598a83c57704bb) • [@TrueCharts Bot] (2023-11-27)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-icewm@d1d4d27 (#15405) • [`718540d`](https://github.com/truecharts/charts/commit/718540d3a6d9ee4c914ea08485c07b9df6317d5a) • [@TrueCharts Bot] (2023-11-27)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-icewm@7c707ef (#15412) • [`75ff6bb`](https://github.com/truecharts/charts/commit/75ff6bbf0ed62ed4614f69dc125fb469df6f21d1) • [@TrueCharts Bot] (2023-11-27)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-kde@ff32070 (#15401) • [`7c69fd8`](https://github.com/truecharts/charts/commit/7c69fd810c82ce097334d37025b6f884defde46d) • [@TrueCharts Bot] (2023-11-27)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-mate@64710fb (#15407) • [`b3815cf`](https://github.com/truecharts/charts/commit/b3815cf885233edc7db613021d3d203a7d4da2a7) • [@TrueCharts Bot] (2023-11-27)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-kde@8a80f86 (#15413) • [`b84e98c`](https://github.com/truecharts/charts/commit/b84e98c021ce9bdd26f379393a250871e09a8528) • [@TrueCharts Bot] (2023-11-27)
+- Commit daily changes • [`e014f09`](https://github.com/truecharts/charts/commit/e014f09d47c2074054f040db4d4425589c2486ae) • [@TrueCharts-Bot] (2023-11-27)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-openbox@8fc3a10 (#15403) • [`cb8308d`](https://github.com/truecharts/charts/commit/cb8308d42d9da8e44033a7b3ccfa716b6743c934) • [@TrueCharts Bot] (2023-11-27)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-i3@05dc0af (#15411) • [`42094f1`](https://github.com/truecharts/charts/commit/42094f15d8590ad2384884ffeb9faad8ff211eb3) • [@TrueCharts Bot] (2023-11-27)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-openbox@52644ee (#15408) • [`840de7e`](https://github.com/truecharts/charts/commit/840de7e94466b65df4a8f504eb0ab32b31e74156) • [@TrueCharts Bot] (2023-11-27)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to latest@315b902 (#15410) • [`be1cd0a`](https://github.com/truecharts/charts/commit/be1cd0a5be4fb3a0206bcae5edfc00a58d5b1357) • [@TrueCharts Bot] (2023-11-27)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-xfce@a4c39a9 (#15409) • [`be2219b`](https://github.com/truecharts/charts/commit/be2219b01051f0b2d27332dc62f98ffb97b6d234) • [@TrueCharts Bot] (2023-11-27)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-i3@e06c68e (#15404) • [`e735ab3`](https://github.com/truecharts/charts/commit/e735ab3cd6e03e8cc2c7a07d94144c8c4e3cd917) • [@TrueCharts Bot] (2023-11-27)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-mate@cb22cb9 (#15402) • [`c453b8d`](https://github.com/truecharts/charts/commit/c453b8da85d29267834123078d598a83c57704bb) • [@TrueCharts Bot] (2023-11-27)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-icewm@466f9db (#15400) • [`1136961`](https://github.com/truecharts/charts/commit/113696177e4de2b099e67842cebc08d735c8f02a) • [@TrueCharts Bot] (2023-11-27)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to alpine-i3@f0867c5 (#15399) • [`1658195`](https://github.com/truecharts/charts/commit/1658195207da51da312ba28997e91f479891acc1) • [@TrueCharts Bot] (2023-11-27)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-openbox@52644ee (#15408) • [`840de7e`](https://github.com/truecharts/charts/commit/840de7e94466b65df4a8f504eb0ab32b31e74156) • [@TrueCharts Bot] (2023-11-27)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-mate@64710fb (#15407) • [`b3815cf`](https://github.com/truecharts/charts/commit/b3815cf885233edc7db613021d3d203a7d4da2a7) • [@TrueCharts Bot] (2023-11-27)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to fedora-i3@e06c68e (#15404) • [`e735ab3`](https://github.com/truecharts/charts/commit/e735ab3cd6e03e8cc2c7a07d94144c8c4e3cd917) • [@TrueCharts Bot] (2023-11-27)
 
 ## 5.0.152 • [Train: stable]
 
@@ -691,43 +691,43 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.0.151 • [Train: stable]
 
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-mate@96fc9e3 (#15334) • [`beac602`](https://github.com/truecharts/charts/commit/beac602c710bc726de7e310a571a11b2643f5588) • [@TrueCharts Bot] (2023-11-24)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-kde@f7c5965 (#15333) • [`03d6a87`](https://github.com/truecharts/charts/commit/03d6a87cd3d0ba97425a0a60a38ef5c48ed3abff) • [@TrueCharts Bot] (2023-11-24)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-openbox@c20f359 (#15335) • [`224591d`](https://github.com/truecharts/charts/commit/224591db490345b301ab56caf629b8ca4eaaf5e3) • [@TrueCharts Bot] (2023-11-24)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-icewm@2dc84a9 (#15332) • [`3dffc25`](https://github.com/truecharts/charts/commit/3dffc259853d36ad8adaed351019a39f4a4e1eb1) • [@TrueCharts Bot] (2023-11-24)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-i3@7a0b2ce (#15331) • [`4533652`](https://github.com/truecharts/charts/commit/4533652f784b45360c8566ccfb2d25cd11951e41) • [@TrueCharts Bot] (2023-11-24)
 - Commit daily changes • [`bbbde0c`](https://github.com/truecharts/charts/commit/bbbde0cf1bb3d7f05d3c13fc25449135a7b377fc) • [@TrueCharts-Bot] (2023-11-24)
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-mate@96fc9e3 (#15334) • [`beac602`](https://github.com/truecharts/charts/commit/beac602c710bc726de7e310a571a11b2643f5588) • [@TrueCharts Bot] (2023-11-24)
 
 ## 5.0.150 • [Train: stable]
 
+- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-openbox@2423a68 (#15175) • [`b870f2b`](https://github.com/truecharts/charts/commit/b870f2b09856233a2d1ae12651ef67c0d57cb95a) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-i3@2bfcbbc (#15171) • [`1cfcb7c`](https://github.com/truecharts/charts/commit/1cfcb7c063625b9358e39a38cd89ba0b01ee5aa3) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-icewm@f11590c (#15172) • [`2e19731`](https://github.com/truecharts/charts/commit/2e197313c7e58a37b04dc051a2c3e95cbbf9b5c6) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-mate@3c57b8a (#15174) • [`8124577`](https://github.com/truecharts/charts/commit/8124577cddba6e52f62ef351e590377f051f06d6) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-kde@a5361f5 (#15173) • [`89e54be`](https://github.com/truecharts/charts/commit/89e54be24659cecc5a6fc229cec98831f72547b3) • [@TrueCharts Bot] (2023-11-21)
 - chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-xfce@28d7d76 (#15176) • [`90de264`](https://github.com/truecharts/charts/commit/90de2643f9d8e1ab453e55da8426c0959c900163) • [@TrueCharts Bot] (2023-11-21)
 - Commit daily changes • [`b4b772b`](https://github.com/truecharts/charts/commit/b4b772b288ab3556785792408245a839ee943d78) • [@TrueCharts-Bot] (2023-11-21)
-- chore(deps): update container image lscr.io/linuxserver/rdesktop to arch-openbox@2423a68 (#15175) • [`b870f2b`](https://github.com/truecharts/charts/commit/b870f2b09856233a2d1ae12651ef67c0d57cb95a) • [@TrueCharts Bot] (2023-11-21)
 
 ## 5.0.149 • [Train: stable]
 
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-xfce (#15132) • [`bcb9832`](https://github.com/truecharts/charts/commit/bcb983214fead7a8e48a3d69c403ba6a25769a5b) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-mate (#15130) • [`d3bd812`](https://github.com/truecharts/charts/commit/d3bd8126c3497aa6b07b3ecf941abe4a91b5109b) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to alpine-kde (#15124) • [`02a9d08`](https://github.com/truecharts/charts/commit/02a9d08904196aee6794be2dbf195905b5bd2402) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-icewm (#15135) • [`04e3684`](https://github.com/truecharts/charts/commit/04e36840558bbaadebd8fce48513a03b792a1689) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to alpine-openbox (#15126) • [`39cf8d4`](https://github.com/truecharts/charts/commit/39cf8d40fcb9fc0efefe6706c41032cbb9048912) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-mate (#15137) • [`3db73b8`](https://github.com/truecharts/charts/commit/3db73b8d38b37df25b830367475e995a0173c587) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to alpine-icewm (#15123) • [`414f933`](https://github.com/truecharts/charts/commit/414f933b1b50c3e071430cb95619f275a41e8899) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-kde (#15136) • [`92259a5`](https://github.com/truecharts/charts/commit/92259a5ebeb3957954999a4c15a7bc7da4583fd9) • [@TrueCharts Bot] (2023-11-20)
 - fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-i3 (#15127) • [`46d7392`](https://github.com/truecharts/charts/commit/46d73922bfe39eb44c3728e5b573bf063a2c0d5c) • [@TrueCharts Bot] (2023-11-20)
 - fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-xfce (#15139) • [`5360932`](https://github.com/truecharts/charts/commit/5360932895b6121c28bda1cdcfe3b06d012cdc78) • [@TrueCharts Bot] (2023-11-20)
 - fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-openbox (#15138) • [`6550571`](https://github.com/truecharts/charts/commit/6550571f1181efc131c0ea59b9c1669e172f214e) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to alpine-icewm (#15123) • [`414f933`](https://github.com/truecharts/charts/commit/414f933b1b50c3e071430cb95619f275a41e8899) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-icewm (#15135) • [`04e3684`](https://github.com/truecharts/charts/commit/04e36840558bbaadebd8fce48513a03b792a1689) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-mate (#15137) • [`3db73b8`](https://github.com/truecharts/charts/commit/3db73b8d38b37df25b830367475e995a0173c587) • [@TrueCharts Bot] (2023-11-20)
 - fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-kde (#15129) • [`65ac15d`](https://github.com/truecharts/charts/commit/65ac15da3fbd050a0578abbc1dcf6095ff9f43f7) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-kde (#15136) • [`92259a5`](https://github.com/truecharts/charts/commit/92259a5ebeb3957954999a4c15a7bc7da4583fd9) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-i3 (#15134) • [`94d8d90`](https://github.com/truecharts/charts/commit/94d8d904b7942561bc959fb783bbee9210682bab) • [@TrueCharts Bot] (2023-11-20)
 - fix(deps): update container image lscr.io/linuxserver/rdesktop to alpine-mate (#15125) • [`a84510f`](https://github.com/truecharts/charts/commit/a84510fd39afce402e1536f99278482d17560686) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-icewm (#15128) • [`072ceac`](https://github.com/truecharts/charts/commit/072ceac3c63c392bc55d60370cd5c5bb0efcc98f) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-xfce (#15132) • [`bcb9832`](https://github.com/truecharts/charts/commit/bcb983214fead7a8e48a3d69c403ba6a25769a5b) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to alpine-kde (#15124) • [`02a9d08`](https://github.com/truecharts/charts/commit/02a9d08904196aee6794be2dbf195905b5bd2402) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-mate (#15130) • [`d3bd812`](https://github.com/truecharts/charts/commit/d3bd8126c3497aa6b07b3ecf941abe4a91b5109b) • [@TrueCharts Bot] (2023-11-20)
 - fix(deps): update container image lscr.io/linuxserver/rdesktop to latest (#15133) • [`1dbbc4a`](https://github.com/truecharts/charts/commit/1dbbc4a3cdce39eff5df50c488e23a209f3eae11) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to alpine-openbox (#15126) • [`39cf8d4`](https://github.com/truecharts/charts/commit/39cf8d40fcb9fc0efefe6706c41032cbb9048912) • [@TrueCharts Bot] (2023-11-20)
 - fix(deps): update container image lscr.io/linuxserver/rdesktop to alpine-i3 (#15122) • [`460ee9a`](https://github.com/truecharts/charts/commit/460ee9ab4fa80cc2e8a48dce57b2cc8fbb4695f6) • [@TrueCharts Bot] (2023-11-20)
 - fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-openbox (#15131) • [`7428d9d`](https://github.com/truecharts/charts/commit/7428d9d2ce6a0537fc42810551f4533b3b9bb50d) • [@TrueCharts Bot] (2023-11-20)
-- fix(deps): update container image lscr.io/linuxserver/rdesktop to ubuntu-i3 (#15134) • [`94d8d90`](https://github.com/truecharts/charts/commit/94d8d904b7942561bc959fb783bbee9210682bab) • [@TrueCharts Bot] (2023-11-20)
+- fix(deps): update container image lscr.io/linuxserver/rdesktop to fedora-icewm (#15128) • [`072ceac`](https://github.com/truecharts/charts/commit/072ceac3c63c392bc55d60370cd5c5bb0efcc98f) • [@TrueCharts Bot] (2023-11-20)
 
 ## 5.0.148 • [Train: stable]
 
@@ -1965,8 +1965,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.0.22 • [Train: stable]
 
 - Commit daily changes • [`94c00b8`](https://github.com/truecharts/charts/commit/94c00b8c6fb66a5bb068f18fb26cd62297f35359) • [@TrueCharts-Bot] (2023-03-24)
-- adapt workload and container questions for all apps • [`3c47107`](https://github.com/truecharts/charts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - update security context questions • [`893b55d`](https://github.com/truecharts/charts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
+- adapt workload and container questions for all apps • [`3c47107`](https://github.com/truecharts/charts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - Commit daily changes • [`f106c6a`](https://github.com/truecharts/charts/commit/f106c6af5e0a30a972aac1c02dc40ba954253a17) • [@TrueCharts-Bot] (2023-02-13)
 - Commit daily changes • [`d1ab0c9`](https://github.com/truecharts/charts/commit/d1ab0c97ae147a4b63645044e03a4198b7a17b87) • [@TrueCharts-Bot] (2023-02-11)
 - fix(all): ensure new helm deps repo is used in latest releases as well. • [`2c1eebf`](https://github.com/truecharts/charts/commit/2c1eebf59facff4d54ca7e66854427084c5a3a1d) • [@Kjeld Schouten-Lebbing] (2023-02-10)
@@ -1985,24 +1985,24 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.19 • [Train: stable]
 
-- chore(deps): update rdesktop • [`ace7cc8`](https://github.com/truecharts/charts/commit/ace7cc825be4b4ab573fb6eab1e68281d2d55f89) • [@TrueCharts-Admin] (2023-02-03)
 - Commit daily changes • [`848e517`](https://github.com/truecharts/charts/commit/848e5175c3efbf8fc3e273b0a03dad67053a4205) • [@TrueCharts-Bot] (2023-02-03)
-- Revert &#34;Commit daily changes&#34; • [`b92fcb2`](https://github.com/truecharts/charts/commit/b92fcb20b141c1d5f30a1c83604f6e887827804c) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - Revert &#34;Commit daily changes&#34; • [`0dbc251`](https://github.com/truecharts/charts/commit/0dbc251a0676e1781aaffccc1e06f135a5bfba89) • [@Kjeld Schouten-Lebbing] (2023-02-03)
-- Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/truecharts/charts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- chore(deps): update rdesktop • [`ace7cc8`](https://github.com/truecharts/charts/commit/ace7cc825be4b4ab573fb6eab1e68281d2d55f89) • [@TrueCharts-Admin] (2023-02-03)
 - Commit daily changes • [`35f77ed`](https://github.com/truecharts/charts/commit/35f77ed72d81a81a31e9d92d67f39a220022c450) • [@TrueCharts-Bot] (2023-02-03)
 - Commit daily changes • [`2a8f5c5`](https://github.com/truecharts/charts/commit/2a8f5c58e44ce967263ab487d2e68d4cb839e51c) • [@TrueCharts-Bot] (2023-02-03)
-- Commit daily changes • [`56a1c7c`](https://github.com/truecharts/charts/commit/56a1c7cc70fcb186ee4c6456ec18aa1b356cb9de) • [@TrueCharts-Bot] (2023-02-03)
-- Commit daily changes • [`e2381cc`](https://github.com/truecharts/charts/commit/e2381cc157718e0f86de8c8ca9507a7983f59223) • [@TrueCharts-Bot] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/truecharts/charts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - Commit daily changes • [`208c291`](https://github.com/truecharts/charts/commit/208c2919fec945cc14276a229222915ae0ec50b4) • [@TrueCharts-Bot] (2023-02-03)
-- Commit daily changes • [`adda47b`](https://github.com/truecharts/charts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
+- Commit daily changes • [`56a1c7c`](https://github.com/truecharts/charts/commit/56a1c7cc70fcb186ee4c6456ec18aa1b356cb9de) • [@TrueCharts-Bot] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`b92fcb2`](https://github.com/truecharts/charts/commit/b92fcb20b141c1d5f30a1c83604f6e887827804c) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- Commit daily changes • [`e2381cc`](https://github.com/truecharts/charts/commit/e2381cc157718e0f86de8c8ca9507a7983f59223) • [@TrueCharts-Bot] (2023-02-03)
 - Commit daily changes • [`ed743f6`](https://github.com/truecharts/charts/commit/ed743f6c5c2534c39143d6f822d19bb47913ecd2) • [@TrueCharts-Bot] (2023-02-01)
-- Commit daily changes • [`dfff570`](https://github.com/truecharts/charts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
-- Commit daily changes • [`ed66075`](https://github.com/truecharts/charts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
-- Commit daily changes • [`3f63d20`](https://github.com/truecharts/charts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`adda47b`](https://github.com/truecharts/charts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
 - Commit daily changes • [`0fb22dd`](https://github.com/truecharts/charts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
-- Commit bumped Chart Version • [`aa57d00`](https://github.com/truecharts/charts/commit/aa57d00c8fd22e461d05cf13e5b96eb70f411d6f) • [@TrueCharts-Bot] (2023-01-24)
+- Commit daily changes • [`ed66075`](https://github.com/truecharts/charts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`dfff570`](https://github.com/truecharts/charts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
+- Commit daily changes • [`3f63d20`](https://github.com/truecharts/charts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
 - Merge pull request #6687 from truecharts/renovate/rdesktop • [`3beb423`](https://github.com/truecharts/charts/commit/3beb4237d370821d49db0c31f7d15529cf6c42df) • [@TrueCharts Bot] (2023-01-24)
+- Commit bumped Chart Version • [`aa57d00`](https://github.com/truecharts/charts/commit/aa57d00c8fd22e461d05cf13e5b96eb70f411d6f) • [@TrueCharts-Bot] (2023-01-24)
 
 ## 3.0.18 • [Train: stable]
 
@@ -2019,203 +2019,203 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 3.0.16 • [Train: stable]
 
 - chore(deps): update rdesktop • [`7cb612c`](https://github.com/truecharts/charts/commit/7cb612c67fb17b083a0323a833f7221fa5384f8b) • [@TrueCharts-Admin] (2023-01-15)
-- Merge pull request #6367 from truecharts/renovate/rdesktop • [`3abf32c`](https://github.com/truecharts/charts/commit/3abf32c85b24c7bbbabc2b29d49024f120f77cf9) • [@TrueCharts Bot] (2023-01-14)
 - Commit bumped Chart Version • [`65ae073`](https://github.com/truecharts/charts/commit/65ae073b5d0ee6aa035cc61b4adc0c3206e6ea10) • [@TrueCharts-Bot] (2023-01-14)
+- Merge pull request #6367 from truecharts/renovate/rdesktop • [`3abf32c`](https://github.com/truecharts/charts/commit/3abf32c85b24c7bbbabc2b29d49024f120f77cf9) • [@TrueCharts Bot] (2023-01-14)
 
 ## 3.0.15 • [Train: stable]
 
 - chore(deps): update rdesktop • [`9ac2629`](https://github.com/truecharts/charts/commit/9ac2629d9c37a56e97c2acb6134da1d1433e2da9) • [@TrueCharts-Admin] (2023-01-14)
-- Merge pull request #6306 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-i3-latest • [`d190e2a`](https://github.com/truecharts/charts/commit/d190e2a4d8182406fd442f5b7e5e0047986a0f69) • [@TrueCharts Bot] (2023-01-12)
-- Merge pull request #6309 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-mate-latest • [`414bd0b`](https://github.com/truecharts/charts/commit/414bd0b5eb53ea3818e1a529e792aff0ad657be1) • [@TrueCharts Bot] (2023-01-12)
-- Commit bumped Chart Version • [`5134e31`](https://github.com/truecharts/charts/commit/5134e3135f5c5bccd46da46a14f49441a6906106) • [@TrueCharts-Bot] (2023-01-12)
-- Commit bumped Chart Version • [`5df5535`](https://github.com/truecharts/charts/commit/5df55359c11f8dd8c33d1f82bbdc44cec6ad219f) • [@TrueCharts-Bot] (2023-01-12)
-- Commit bumped Chart Version • [`5fd5042`](https://github.com/truecharts/charts/commit/5fd5042cfb268b549177ee03cc87526058c59ada) • [@TrueCharts-Bot] (2023-01-12)
-- Merge pull request #6308 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-kde-latest • [`dcb8ad1`](https://github.com/truecharts/charts/commit/dcb8ad1e5db70fe0e5a3bc21266b225a979c7d6e) • [@TrueCharts Bot] (2023-01-12)
-- Merge pull request #6310 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-openbox-latest • [`3bb2d52`](https://github.com/truecharts/charts/commit/3bb2d52ee2c71ea42285bcc6ea6c6cd03a0a4d79) • [@TrueCharts Bot] (2023-01-12)
-- Commit bumped Chart Version • [`239beb0`](https://github.com/truecharts/charts/commit/239beb0b617bb52c8b5c21acf84b4043171de486) • [@TrueCharts-Bot] (2023-01-12)
-- Commit bumped Chart Version • [`61a52a3`](https://github.com/truecharts/charts/commit/61a52a362029876795d204b40e31e74bee427408) • [@TrueCharts-Bot] (2023-01-12)
-- Commit bumped Chart Version • [`8324eae`](https://github.com/truecharts/charts/commit/8324eae693c6de25eda162aa27f45d2ef4e5d86f) • [@TrueCharts-Bot] (2023-01-12)
-- Commit bumped Chart Version • [`14adcb6`](https://github.com/truecharts/charts/commit/14adcb6c28a52e0e5566e1299ad871234a9a85f1) • [@TrueCharts-Bot] (2023-01-12)
 - Merge pull request #6307 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-icewm-latest • [`127d30c`](https://github.com/truecharts/charts/commit/127d30cc6830f468380e5de20f4f9332a00ac377) • [@TrueCharts Bot] (2023-01-12)
+- Commit bumped Chart Version • [`5134e31`](https://github.com/truecharts/charts/commit/5134e3135f5c5bccd46da46a14f49441a6906106) • [@TrueCharts-Bot] (2023-01-12)
 - Merge pull request #6305 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-xfce-latest • [`8849614`](https://github.com/truecharts/charts/commit/884961418e5cca241adb9706ab3cd03cf9b2865a) • [@TrueCharts Bot] (2023-01-12)
+- Commit bumped Chart Version • [`5df5535`](https://github.com/truecharts/charts/commit/5df55359c11f8dd8c33d1f82bbdc44cec6ad219f) • [@TrueCharts-Bot] (2023-01-12)
+- Merge pull request #6306 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-i3-latest • [`d190e2a`](https://github.com/truecharts/charts/commit/d190e2a4d8182406fd442f5b7e5e0047986a0f69) • [@TrueCharts Bot] (2023-01-12)
+- Commit bumped Chart Version • [`14adcb6`](https://github.com/truecharts/charts/commit/14adcb6c28a52e0e5566e1299ad871234a9a85f1) • [@TrueCharts-Bot] (2023-01-12)
+- Merge pull request #6309 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-mate-latest • [`414bd0b`](https://github.com/truecharts/charts/commit/414bd0b5eb53ea3818e1a529e792aff0ad657be1) • [@TrueCharts Bot] (2023-01-12)
+- Commit bumped Chart Version • [`8324eae`](https://github.com/truecharts/charts/commit/8324eae693c6de25eda162aa27f45d2ef4e5d86f) • [@TrueCharts-Bot] (2023-01-12)
+- Commit bumped Chart Version • [`61a52a3`](https://github.com/truecharts/charts/commit/61a52a362029876795d204b40e31e74bee427408) • [@TrueCharts-Bot] (2023-01-12)
 - Merge pull request #6311 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-xfce-latest • [`9e22681`](https://github.com/truecharts/charts/commit/9e226814a57f128590de170d2032ebb60cb06f24) • [@TrueCharts Bot] (2023-01-12)
+- Merge pull request #6308 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-kde-latest • [`dcb8ad1`](https://github.com/truecharts/charts/commit/dcb8ad1e5db70fe0e5a3bc21266b225a979c7d6e) • [@TrueCharts Bot] (2023-01-12)
+- Commit bumped Chart Version • [`239beb0`](https://github.com/truecharts/charts/commit/239beb0b617bb52c8b5c21acf84b4043171de486) • [@TrueCharts-Bot] (2023-01-12)
+- Merge pull request #6310 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-openbox-latest • [`3bb2d52`](https://github.com/truecharts/charts/commit/3bb2d52ee2c71ea42285bcc6ea6c6cd03a0a4d79) • [@TrueCharts Bot] (2023-01-12)
+- Commit bumped Chart Version • [`5fd5042`](https://github.com/truecharts/charts/commit/5fd5042cfb268b549177ee03cc87526058c59ada) • [@TrueCharts-Bot] (2023-01-12)
 
 ## 3.0.14 • [Train: stable]
 
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-kde to latest • [`e528345`](https://github.com/truecharts/charts/commit/e5283456cca59114290db800a72782e9ac75bd55) • [@TrueCharts-Admin] (2023-01-12)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest • [`8a1038e`](https://github.com/truecharts/charts/commit/8a1038e220bd2f0659611c1577e7bab3c379f392) • [@TrueCharts-Admin] (2023-01-12)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-openbox to latest • [`1a0af63`](https://github.com/truecharts/charts/commit/1a0af6363ec5a499dbe19aa284f34b1c018f3718) • [@TrueCharts-Admin] (2023-01-12)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-mate to latest • [`1c0fff3`](https://github.com/truecharts/charts/commit/1c0fff3ec1ce77fcc2942d9da2ffb2fbfdb24f1f) • [@TrueCharts-Admin] (2023-01-12)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-icewm to latest • [`4eff84b`](https://github.com/truecharts/charts/commit/4eff84b24fc1890763f6a0039a22e3f7e5a40766) • [@TrueCharts-Admin] (2023-01-12)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest • [`8a1038e`](https://github.com/truecharts/charts/commit/8a1038e220bd2f0659611c1577e7bab3c379f392) • [@TrueCharts-Admin] (2023-01-12)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-xfce to latest • [`ce4f2e7`](https://github.com/truecharts/charts/commit/ce4f2e76fa7a726ec57aaea72c1a088c82a42466) • [@TrueCharts-Admin] (2023-01-12)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-openbox to latest • [`1a0af63`](https://github.com/truecharts/charts/commit/1a0af6363ec5a499dbe19aa284f34b1c018f3718) • [@TrueCharts-Admin] (2023-01-12)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-i3 to latest • [`67d9a7f`](https://github.com/truecharts/charts/commit/67d9a7f06b2fe774c03d02aed2903b1958aec6a5) • [@TrueCharts-Admin] (2023-01-12)
+- Merge pull request #6147 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-i3-latest • [`1301601`](https://github.com/truecharts/charts/commit/1301601ee7b55ce02d58ebe5ef3b69f582da2fad) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`286fec4`](https://github.com/truecharts/charts/commit/286fec409564d2463ebd6582db2c335d763f23f0) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6150 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-mate-latest • [`10bbbd8`](https://github.com/truecharts/charts/commit/10bbbd8324a98c674dc08666e6a785575fe25c23) • [@TrueCharts Bot] (2023-01-07)
 - Commit bumped Chart Version • [`41d782f`](https://github.com/truecharts/charts/commit/41d782f181b8d2cbd2fba4fec5af51424f2c7bbe) • [@TrueCharts-Bot] (2023-01-07)
 - Commit bumped Chart Version • [`ffa2a4c`](https://github.com/truecharts/charts/commit/ffa2a4cc83276f44e9b4dc0625ce1ba7bb1469b0) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`5543325`](https://github.com/truecharts/charts/commit/5543325a58d7c69ee5048a795a5f483483e13c4e) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`5f74f73`](https://github.com/truecharts/charts/commit/5f74f73ab5c1bc7a033f6e14ba3a9ce76939a5b3) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6148 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-icewm-latest • [`8141a3a`](https://github.com/truecharts/charts/commit/8141a3ae1e8620dc6680210e9088d89d53aa0948) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6150 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-mate-latest • [`10bbbd8`](https://github.com/truecharts/charts/commit/10bbbd8324a98c674dc08666e6a785575fe25c23) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6147 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-i3-latest • [`1301601`](https://github.com/truecharts/charts/commit/1301601ee7b55ce02d58ebe5ef3b69f582da2fad) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6151 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-openbox-latest • [`52637a0`](https://github.com/truecharts/charts/commit/52637a053c9bccfcce1cda70d1efdbc6c6f703e6) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`286fec4`](https://github.com/truecharts/charts/commit/286fec409564d2463ebd6582db2c335d763f23f0) • [@TrueCharts-Bot] (2023-01-07)
 - Merge pull request #6149 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-kde-latest • [`d84e2cb`](https://github.com/truecharts/charts/commit/d84e2cb3acc2c26181227033a9fe3436bc10ddc3) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`5f74f73`](https://github.com/truecharts/charts/commit/5f74f73ab5c1bc7a033f6e14ba3a9ce76939a5b3) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6151 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-openbox-latest • [`52637a0`](https://github.com/truecharts/charts/commit/52637a053c9bccfcce1cda70d1efdbc6c6f703e6) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`5543325`](https://github.com/truecharts/charts/commit/5543325a58d7c69ee5048a795a5f483483e13c4e) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6148 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-icewm-latest • [`8141a3a`](https://github.com/truecharts/charts/commit/8141a3ae1e8620dc6680210e9088d89d53aa0948) • [@TrueCharts Bot] (2023-01-07)
 
 ## 3.0.13 • [Train: stable]
 
-- Merge pull request #6095 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-i3-latest • [`51609df`](https://github.com/truecharts/charts/commit/51609df0fed031873403885331d6b31129818e5d) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6100 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-xfce-latest • [`5e8ffcf`](https://github.com/truecharts/charts/commit/5e8ffcf51038e33d5bef9ddfefd38a7c7dfa8e4b) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6091 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-kde-latest • [`fe75bf8`](https://github.com/truecharts/charts/commit/fe75bf888fe5ab22f4f1a24fc66565859646e439) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`14a3cba`](https://github.com/truecharts/charts/commit/14a3cbad605d44b39388915a5c03cb26b9dc73cf) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`21f7d71`](https://github.com/truecharts/charts/commit/21f7d71507596f1661b7629d7d07a633ed1adead) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6086 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-kde-latest • [`2cf2f3f`](https://github.com/truecharts/charts/commit/2cf2f3fac54e04a78dbc24dedfddde004f2ac2d3) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`4572330`](https://github.com/truecharts/charts/commit/4572330f1fda390167a564a7c12f2c450c1d033d) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`4ab9227`](https://github.com/truecharts/charts/commit/4ab922765d5259097bfc7caf61b1eb45e1f9f97b) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`af96ac4`](https://github.com/truecharts/charts/commit/af96ac4d7f02a6bb74320c1eb28e896198a1d2d6) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6094 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-xfce-latest • [`d93d195`](https://github.com/truecharts/charts/commit/d93d1953fd0c1355fce052cbaeb2201e4b516598) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`fdd41ba`](https://github.com/truecharts/charts/commit/fdd41ba9e9776a7cdce0bdb4896c213aae136dbe) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6099 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-openbox-latest • [`0b3dd59`](https://github.com/truecharts/charts/commit/0b3dd594808c5e4ed76d66954349fd529060f120) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`1648095`](https://github.com/truecharts/charts/commit/164809525f8853bd196aa8f5a703b9136798aa8b) • [@TrueCharts-Bot] (2023-01-07)
-- Commit bumped Chart Version • [`ff4335c`](https://github.com/truecharts/charts/commit/ff4335c46e38bc77b64a3724f9d906b4af732f35) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6092 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-mate-latest • [`153447c`](https://github.com/truecharts/charts/commit/153447c9c9013151cbb82a914fd06c8c8c4451aa) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`fee49a4`](https://github.com/truecharts/charts/commit/fee49a443d4983f8dfb25ff1db511f1b7240af21) • [@TrueCharts-Bot] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-openbox to latest • [`61b614e`](https://github.com/truecharts/charts/commit/61b614e27b2df9c6408b6a214a1d4d66c556b9ed) • [@TrueCharts-Admin] (2023-01-07)
-- Commit bumped Chart Version • [`a8a8f47`](https://github.com/truecharts/charts/commit/a8a8f479d2c264c94196a09b114b2d2e093928af) • [@TrueCharts-Bot] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-mate to latest • [`483aa1c`](https://github.com/truecharts/charts/commit/483aa1cb60797d45ba3dc993d693dde50e075494) • [@TrueCharts-Admin] (2023-01-07)
-- Merge pull request #6085 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-icewm-latest • [`4d38884`](https://github.com/truecharts/charts/commit/4d38884f5d43558be1bee64ed81da4eb5685e000) • [@TrueCharts Bot] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-i3 to latest • [`f1b9102`](https://github.com/truecharts/charts/commit/f1b9102ebd977dbc6ea314c5cb96d6e910e92ee6) • [@TrueCharts-Admin] (2023-01-07)
-- Commit bumped Chart Version • [`3cb054e`](https://github.com/truecharts/charts/commit/3cb054e56a60c19936bebed396d81114c3f68fd9) • [@TrueCharts-Bot] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-kde to latest • [`aa2b327`](https://github.com/truecharts/charts/commit/aa2b32783c962554fd4927976a6a94d5c07ef1e1) • [@TrueCharts-Admin] (2023-01-07)
-- Merge pull request #6083 from truecharts/renovate/tccr.io-truecharts-rdesktop-latest • [`3ffb7a4`](https://github.com/truecharts/charts/commit/3ffb7a45a601980faf2b8fe6bb0e32a2d28bf2f8) • [@TrueCharts Bot] (2023-01-07)
 - Commit bumped Chart Version • [`5dcca0f`](https://github.com/truecharts/charts/commit/5dcca0f26810b328019c1de64d201bcd85d26a82) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6096 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-icewm-latest • [`77081c5`](https://github.com/truecharts/charts/commit/77081c53d5051b819da444c7693336c5f89df487) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6098 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-mate-latest • [`ca319e7`](https://github.com/truecharts/charts/commit/ca319e7cd73cc283f2ff1df22751d44e3f9a84eb) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`051e638`](https://github.com/truecharts/charts/commit/051e6389bc5b17bda98f1646042bd3e0423032c7) • [@TrueCharts-Bot] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-icewm to latest • [`09c27b8`](https://github.com/truecharts/charts/commit/09c27b8573c8d6d1c8ac3fae665a21eeef6f0394) • [@TrueCharts-Admin] (2023-01-07)
-- Merge pull request #6088 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-openbox-latest • [`b439c24`](https://github.com/truecharts/charts/commit/b439c2450f7b46a6497b473f1845a10141412e45) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6093 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-openbox-latest • [`d4e1950`](https://github.com/truecharts/charts/commit/d4e1950e52bec01392f55d0812116c963acca021) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6087 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-mate-latest • [`eb7ca16`](https://github.com/truecharts/charts/commit/eb7ca164bfb0286c85a5e19b6dae00b9c2562e4f) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`2083e47`](https://github.com/truecharts/charts/commit/2083e4779f4b2fe366920b7a7519e46a03b60bb5) • [@TrueCharts-Bot] (2023-01-07)
 - Merge pull request #6084 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-i3-latest • [`88fc902`](https://github.com/truecharts/charts/commit/88fc902129fd00656f05e3c667de0dbf96cc0126) • [@TrueCharts Bot] (2023-01-07)
-- Merge pull request #6090 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-icewm-latest • [`70ac83b`](https://github.com/truecharts/charts/commit/70ac83bd16adfcc52c3252c8b0c0ae0a20c55c26) • [@TrueCharts Bot] (2023-01-07)
 - Commit bumped Chart Version • [`9935f70`](https://github.com/truecharts/charts/commit/9935f70a384784bc501c4ad29691489032656e80) • [@TrueCharts-Bot] (2023-01-07)
 - Commit bumped Chart Version • [`9eaa42a`](https://github.com/truecharts/charts/commit/9eaa42a94bb2bcc24a91874a56b30cb672cab8ad) • [@TrueCharts-Bot] (2023-01-07)
-- Merge pull request #6097 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-kde-latest • [`cbd9e86`](https://github.com/truecharts/charts/commit/cbd9e8663d6e7eca475f174950cb442e625e7c1c) • [@TrueCharts Bot] (2023-01-07)
-- Commit bumped Chart Version • [`e0d7cd2`](https://github.com/truecharts/charts/commit/e0d7cd2eb2ee84ed64f6b5df720396493aa397f0) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`af96ac4`](https://github.com/truecharts/charts/commit/af96ac4d7f02a6bb74320c1eb28e896198a1d2d6) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6098 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-mate-latest • [`ca319e7`](https://github.com/truecharts/charts/commit/ca319e7cd73cc283f2ff1df22751d44e3f9a84eb) • [@TrueCharts Bot] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-i3 to latest • [`f1b9102`](https://github.com/truecharts/charts/commit/f1b9102ebd977dbc6ea314c5cb96d6e910e92ee6) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-icewm to latest • [`09c27b8`](https://github.com/truecharts/charts/commit/09c27b8573c8d6d1c8ac3fae665a21eeef6f0394) • [@TrueCharts-Admin] (2023-01-07)
 - Merge pull request #6089 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-i3-latest • [`2da9125`](https://github.com/truecharts/charts/commit/2da91259de4e7d6f131b954219636904e5248c11) • [@TrueCharts Bot] (2023-01-07)
 - Commit bumped Chart Version • [`46fe41e`](https://github.com/truecharts/charts/commit/46fe41e0e7a2fd0ac5a3b54b6996bca5513573c5) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6096 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-icewm-latest • [`77081c5`](https://github.com/truecharts/charts/commit/77081c53d5051b819da444c7693336c5f89df487) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6091 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-kde-latest • [`fe75bf8`](https://github.com/truecharts/charts/commit/fe75bf888fe5ab22f4f1a24fc66565859646e439) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`051e638`](https://github.com/truecharts/charts/commit/051e6389bc5b17bda98f1646042bd3e0423032c7) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`2083e47`](https://github.com/truecharts/charts/commit/2083e4779f4b2fe366920b7a7519e46a03b60bb5) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6088 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-openbox-latest • [`b439c24`](https://github.com/truecharts/charts/commit/b439c2450f7b46a6497b473f1845a10141412e45) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6099 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-openbox-latest • [`0b3dd59`](https://github.com/truecharts/charts/commit/0b3dd594808c5e4ed76d66954349fd529060f120) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`21f7d71`](https://github.com/truecharts/charts/commit/21f7d71507596f1661b7629d7d07a633ed1adead) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6086 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-kde-latest • [`2cf2f3f`](https://github.com/truecharts/charts/commit/2cf2f3fac54e04a78dbc24dedfddde004f2ac2d3) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`3cb054e`](https://github.com/truecharts/charts/commit/3cb054e56a60c19936bebed396d81114c3f68fd9) • [@TrueCharts-Bot] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-mate to latest • [`483aa1c`](https://github.com/truecharts/charts/commit/483aa1cb60797d45ba3dc993d693dde50e075494) • [@TrueCharts-Admin] (2023-01-07)
+- Merge pull request #6093 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-openbox-latest • [`d4e1950`](https://github.com/truecharts/charts/commit/d4e1950e52bec01392f55d0812116c963acca021) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6087 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-mate-latest • [`eb7ca16`](https://github.com/truecharts/charts/commit/eb7ca164bfb0286c85a5e19b6dae00b9c2562e4f) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6092 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-mate-latest • [`153447c`](https://github.com/truecharts/charts/commit/153447c9c9013151cbb82a914fd06c8c8c4451aa) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`4ab9227`](https://github.com/truecharts/charts/commit/4ab922765d5259097bfc7caf61b1eb45e1f9f97b) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`a8a8f47`](https://github.com/truecharts/charts/commit/a8a8f479d2c264c94196a09b114b2d2e093928af) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6097 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-kde-latest • [`cbd9e86`](https://github.com/truecharts/charts/commit/cbd9e8663d6e7eca475f174950cb442e625e7c1c) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`fdd41ba`](https://github.com/truecharts/charts/commit/fdd41ba9e9776a7cdce0bdb4896c213aae136dbe) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`ff4335c`](https://github.com/truecharts/charts/commit/ff4335c46e38bc77b64a3724f9d906b4af732f35) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`4572330`](https://github.com/truecharts/charts/commit/4572330f1fda390167a564a7c12f2c450c1d033d) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6094 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-xfce-latest • [`d93d195`](https://github.com/truecharts/charts/commit/d93d1953fd0c1355fce052cbaeb2201e4b516598) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`1648095`](https://github.com/truecharts/charts/commit/164809525f8853bd196aa8f5a703b9136798aa8b) • [@TrueCharts-Bot] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-kde to latest • [`aa2b327`](https://github.com/truecharts/charts/commit/aa2b32783c962554fd4927976a6a94d5c07ef1e1) • [@TrueCharts-Admin] (2023-01-07)
+- Commit bumped Chart Version • [`14a3cba`](https://github.com/truecharts/charts/commit/14a3cbad605d44b39388915a5c03cb26b9dc73cf) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6085 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-icewm-latest • [`4d38884`](https://github.com/truecharts/charts/commit/4d38884f5d43558be1bee64ed81da4eb5685e000) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6095 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-i3-latest • [`51609df`](https://github.com/truecharts/charts/commit/51609df0fed031873403885331d6b31129818e5d) • [@TrueCharts Bot] (2023-01-07)
+- Merge pull request #6100 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-xfce-latest • [`5e8ffcf`](https://github.com/truecharts/charts/commit/5e8ffcf51038e33d5bef9ddfefd38a7c7dfa8e4b) • [@TrueCharts Bot] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-openbox to latest • [`61b614e`](https://github.com/truecharts/charts/commit/61b614e27b2df9c6408b6a214a1d4d66c556b9ed) • [@TrueCharts-Admin] (2023-01-07)
+- Merge pull request #6090 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-icewm-latest • [`70ac83b`](https://github.com/truecharts/charts/commit/70ac83bd16adfcc52c3252c8b0c0ae0a20c55c26) • [@TrueCharts Bot] (2023-01-07)
+- Commit bumped Chart Version • [`e0d7cd2`](https://github.com/truecharts/charts/commit/e0d7cd2eb2ee84ed64f6b5df720396493aa397f0) • [@TrueCharts-Bot] (2023-01-07)
+- Commit bumped Chart Version • [`fee49a4`](https://github.com/truecharts/charts/commit/fee49a443d4983f8dfb25ff1db511f1b7240af21) • [@TrueCharts-Bot] (2023-01-07)
+- Merge pull request #6083 from truecharts/renovate/tccr.io-truecharts-rdesktop-latest • [`3ffb7a4`](https://github.com/truecharts/charts/commit/3ffb7a45a601980faf2b8fe6bb0e32a2d28bf2f8) • [@TrueCharts Bot] (2023-01-07)
 
 ## 3.0.12 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-i3 to latest • [`bbb8e20`](https://github.com/truecharts/charts/commit/bbb8e209941d02add009e94304de6b79eaafdb4f) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-mate to latest • [`e54e1df`](https://github.com/truecharts/charts/commit/e54e1df0490a77d3d0933d631e607417713939d1) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-kde to latest • [`cc46831`](https://github.com/truecharts/charts/commit/cc46831e253b13ed19a441d6d8f28ffd1b80494a) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-openbox to latest • [`c8941e0`](https://github.com/truecharts/charts/commit/c8941e00f102c3d36bd15d92830f40026b90b650) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-mate to latest • [`ee78db4`](https://github.com/truecharts/charts/commit/ee78db40aaca217a74a609e78b70983d23ab4c5f) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest • [`25e75fd`](https://github.com/truecharts/charts/commit/25e75fd88369aa6f47b80aae7666474de6f03adc) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-kde to latest • [`3df836b`](https://github.com/truecharts/charts/commit/3df836b20650690d38faedf3d35f53d4849ac29b) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop to latest • [`4185d2c`](https://github.com/truecharts/charts/commit/4185d2cc69c1c7604a4b9c0ca4d3bacf053b5120) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-openbox to latest • [`800d0f7`](https://github.com/truecharts/charts/commit/800d0f766a7521e3e6028a97f958a7da6a6592e6) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-xfce to latest • [`9f4cd8f`](https://github.com/truecharts/charts/commit/9f4cd8f08f6c914d0834d67952dc03da2a54331c) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-icewm to latest • [`9857594`](https://github.com/truecharts/charts/commit/9857594154eba391a3974a5380806bb71fb78597) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-kde to latest • [`41784ab`](https://github.com/truecharts/charts/commit/41784ab13e315d0cb7d263bde21a882362e2953a) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-arch-openbox to latest • [`379895c`](https://github.com/truecharts/charts/commit/379895ceb0023669e8e2c73c34d36aea0dc653ad) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-i3 to latest • [`6a8dc80`](https://github.com/truecharts/charts/commit/6a8dc808aa228cbff00e6cca48d9d788e2d9c4ea) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-icewm to latest • [`9857594`](https://github.com/truecharts/charts/commit/9857594154eba391a3974a5380806bb71fb78597) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-arch-icewm to latest • [`477faba`](https://github.com/truecharts/charts/commit/477faba18a7deb21408361a13c741c1cbd32af3b) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-mate to latest • [`06b3a81`](https://github.com/truecharts/charts/commit/06b3a8114b2d5ff8393cfc83483fb3e3c2fac274) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-i3 to latest • [`6a8dc80`](https://github.com/truecharts/charts/commit/6a8dc808aa228cbff00e6cca48d9d788e2d9c4ea) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-openbox to latest • [`c8941e0`](https://github.com/truecharts/charts/commit/c8941e00f102c3d36bd15d92830f40026b90b650) • [@TrueCharts-Admin] (2023-01-07)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-i3 to latest • [`c961a3a`](https://github.com/truecharts/charts/commit/c961a3ab52b780cf126249270c87ac4f88b3fe78) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest • [`25e75fd`](https://github.com/truecharts/charts/commit/25e75fd88369aa6f47b80aae7666474de6f03adc) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop to latest • [`4185d2c`](https://github.com/truecharts/charts/commit/4185d2cc69c1c7604a4b9c0ca4d3bacf053b5120) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-icewm to latest • [`d8e463a`](https://github.com/truecharts/charts/commit/d8e463aa9af76b47d534a8658af12e9a71b0eca8) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-mate to latest • [`e54e1df`](https://github.com/truecharts/charts/commit/e54e1df0490a77d3d0933d631e607417713939d1) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-openbox to latest • [`800d0f7`](https://github.com/truecharts/charts/commit/800d0f766a7521e3e6028a97f958a7da6a6592e6) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-xfce to latest • [`9f4cd8f`](https://github.com/truecharts/charts/commit/9f4cd8f08f6c914d0834d67952dc03da2a54331c) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-kde to latest • [`cc46831`](https://github.com/truecharts/charts/commit/cc46831e253b13ed19a441d6d8f28ffd1b80494a) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-i3 to latest • [`bbb8e20`](https://github.com/truecharts/charts/commit/bbb8e209941d02add009e94304de6b79eaafdb4f) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-i3 to latest • [`c961a3a`](https://github.com/truecharts/charts/commit/c961a3ab52b780cf126249270c87ac4f88b3fe78) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-kde to latest • [`3df836b`](https://github.com/truecharts/charts/commit/3df836b20650690d38faedf3d35f53d4849ac29b) • [@TrueCharts-Admin] (2023-01-07)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-kde to latest • [`41784ab`](https://github.com/truecharts/charts/commit/41784ab13e315d0cb7d263bde21a882362e2953a) • [@TrueCharts-Admin] (2023-01-07)
 - chore(deps): update helm general non-major (#5856) • [`a9910a4`](https://github.com/truecharts/charts/commit/a9910a47b28520db47f2c41fa3cf59811147c1c7) • [@TrueCharts Bot] (2022-12-27)
 
 ## 3.0.11 • [Train: stable]
 
-- Merge pull request #5832 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-mate-latest • [`8a23eda`](https://github.com/truecharts/charts/commit/8a23eda3b7fa9647364b0cf564e3391c99a15b13) • [@TrueCharts Bot] (2022-12-26)
-- Commit bumped Chart Version • [`9b196cf`](https://github.com/truecharts/charts/commit/9b196cfa7f9d8a6b0887be3273749f28aa2e1bf1) • [@TrueCharts-Bot] (2022-12-26)
-- Commit bumped Chart Version • [`b304d9f`](https://github.com/truecharts/charts/commit/b304d9f0a81e6ac7719bfa8d4c702ee6a6d9bdee) • [@TrueCharts-Bot] (2022-12-26)
-- Commit bumped Chart Version • [`c783e70`](https://github.com/truecharts/charts/commit/c783e70d76d718c718a1dba4d5cefacce6e1e5fa) • [@TrueCharts-Bot] (2022-12-26)
 - Commit daily changes • [`d478e84`](https://github.com/truecharts/charts/commit/d478e848ceecae24ece77717cb807e86b330b95a) • [@TrueCharts-Bot] (2022-12-26)
-- chore(deps): update helm general non-major (#5839) • [`3a29755`](https://github.com/truecharts/charts/commit/3a29755f395e41b8dee8c6f2802243869346e7ea) • [@TrueCharts Bot] (2022-12-26)
 - Merge pull request #5834 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-xfce-latest • [`5c5186d`](https://github.com/truecharts/charts/commit/5c5186d1e2d057f6deccdc757f6639632065ca71) • [@TrueCharts Bot] (2022-12-26)
 - Merge pull request #5833 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-openbox-latest • [`81230c4`](https://github.com/truecharts/charts/commit/81230c4b8a29a84bc9b3846e4735527c6ba272ab) • [@TrueCharts Bot] (2022-12-26)
-- Commit bumped Chart Version • [`6cb6d07`](https://github.com/truecharts/charts/commit/6cb6d07d15259e9d36c11d9045920b4288be895f) • [@TrueCharts-Bot] (2022-12-26)
 - Commit daily changes • [`927ca59`](https://github.com/truecharts/charts/commit/927ca5989df40c942f283bbf39d8b61c5e6505c9) • [@TrueCharts-Bot] (2022-12-26)
 - Merge pull request #5831 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-icewm-latest • [`af92834`](https://github.com/truecharts/charts/commit/af92834ad4dc656d0e72e583852d836a03972a9e) • [@TrueCharts Bot] (2022-12-26)
+- Commit bumped Chart Version • [`b304d9f`](https://github.com/truecharts/charts/commit/b304d9f0a81e6ac7719bfa8d4c702ee6a6d9bdee) • [@TrueCharts-Bot] (2022-12-26)
+- Commit bumped Chart Version • [`c783e70`](https://github.com/truecharts/charts/commit/c783e70d76d718c718a1dba4d5cefacce6e1e5fa) • [@TrueCharts-Bot] (2022-12-26)
+- chore(deps): update helm general non-major (#5839) • [`3a29755`](https://github.com/truecharts/charts/commit/3a29755f395e41b8dee8c6f2802243869346e7ea) • [@TrueCharts Bot] (2022-12-26)
+- Commit bumped Chart Version • [`6cb6d07`](https://github.com/truecharts/charts/commit/6cb6d07d15259e9d36c11d9045920b4288be895f) • [@TrueCharts-Bot] (2022-12-26)
+- Merge pull request #5832 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-mate-latest • [`8a23eda`](https://github.com/truecharts/charts/commit/8a23eda3b7fa9647364b0cf564e3391c99a15b13) • [@TrueCharts Bot] (2022-12-26)
+- Commit bumped Chart Version • [`9b196cf`](https://github.com/truecharts/charts/commit/9b196cfa7f9d8a6b0887be3273749f28aa2e1bf1) • [@TrueCharts-Bot] (2022-12-26)
 
 ## 3.0.10 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-xfce to latest • [`dedc5ae`](https://github.com/truecharts/charts/commit/dedc5ae37d2d3f6143ea337f6c3377cf6f8b463e) • [@TrueCharts-Admin] (2022-12-26)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-mate to latest • [`66d8c19`](https://github.com/truecharts/charts/commit/66d8c195e69458b716edb6dc9be268ccc1f641eb) • [@TrueCharts-Admin] (2022-12-26)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-icewm to latest • [`6e52339`](https://github.com/truecharts/charts/commit/6e52339cdc95c6f444948b1b0aa8e0cae6519cee) • [@TrueCharts-Admin] (2022-12-26)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-openbox to latest • [`dd58e02`](https://github.com/truecharts/charts/commit/dd58e02bc5ed0042b6ed7ec9ab179435c0841ecb) • [@TrueCharts-Admin] (2022-12-26)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-xfce to latest • [`dedc5ae`](https://github.com/truecharts/charts/commit/dedc5ae37d2d3f6143ea337f6c3377cf6f8b463e) • [@TrueCharts-Admin] (2022-12-26)
 - chore(deps): update helm general non-major • [`7b7271a`](https://github.com/truecharts/charts/commit/7b7271a5b0e1b6ada76f38ce2fb7d289df5e3891) • [@TrueCharts-Admin] (2022-12-25)
 
 ## 3.0.9 • [Train: stable]
 
-- Merge pull request #5797 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-i3-latest • [`109476a`](https://github.com/truecharts/charts/commit/109476a3e855fceb25b96d1b66ccfdc841d200c4) • [@TrueCharts Bot] (2022-12-25)
-- Commit bumped Chart Version • [`7144a9b`](https://github.com/truecharts/charts/commit/7144a9b94c7f438055241f5bdd7aaf9378c499fd) • [@TrueCharts-Bot] (2022-12-25)
-- Merge pull request #5798 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-icewm-latest • [`454659e`](https://github.com/truecharts/charts/commit/454659e4bbfe5f0f20e44608aa14363668d6a76c) • [@TrueCharts Bot] (2022-12-25)
 - Merge pull request #5796 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-xfce-latest • [`556b790`](https://github.com/truecharts/charts/commit/556b79025bf5e832d248d4454865b192f88d1eb0) • [@TrueCharts Bot] (2022-12-25)
-- Commit bumped Chart Version • [`bba9ec0`](https://github.com/truecharts/charts/commit/bba9ec072da5acc76754214b0d395b72ae1a0a91) • [@TrueCharts-Bot] (2022-12-25)
-- Merge pull request #5794 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-mate-latest • [`dace194`](https://github.com/truecharts/charts/commit/dace194339502e3f239ae645ed3dea2d73f15ac6) • [@TrueCharts Bot] (2022-12-25)
+- Commit bumped Chart Version • [`7144a9b`](https://github.com/truecharts/charts/commit/7144a9b94c7f438055241f5bdd7aaf9378c499fd) • [@TrueCharts-Bot] (2022-12-25)
+- Commit bumped Chart Version • [`75483c0`](https://github.com/truecharts/charts/commit/75483c0f30a4c8ad179436dbc6668990c64a43eb) • [@TrueCharts-Bot] (2022-12-25)
 - Merge pull request #5791 from truecharts/renovate/tccr.io-truecharts-rdesktop-latest • [`fd2e18f`](https://github.com/truecharts/charts/commit/fd2e18fd382a90bfd7580062c7cee61ddd56d4bc) • [@TrueCharts Bot] (2022-12-25)
 - Merge pull request #5795 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-openbox-latest • [`fe8d777`](https://github.com/truecharts/charts/commit/fe8d7770c8e9549dad235a474ab2dd007fb06a82) • [@TrueCharts Bot] (2022-12-25)
-- Merge pull request #5792 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-mate-latest • [`67c8467`](https://github.com/truecharts/charts/commit/67c84674d75c2c1499d1fe49dcec7ad8c00f7cf1) • [@TrueCharts Bot] (2022-12-25)
-- Commit bumped Chart Version • [`75483c0`](https://github.com/truecharts/charts/commit/75483c0f30a4c8ad179436dbc6668990c64a43eb) • [@TrueCharts-Bot] (2022-12-25)
-- Commit bumped Chart Version • [`c01f077`](https://github.com/truecharts/charts/commit/c01f0776753dcf3e6b43087202c77c6451101d0c) • [@TrueCharts-Bot] (2022-12-25)
-- Commit bumped Chart Version • [`cd3e748`](https://github.com/truecharts/charts/commit/cd3e7486b78e118104c57a01bc9fdd67bd654546) • [@TrueCharts-Bot] (2022-12-25)
 - Merge pull request #5793 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-openbox-latest • [`04fcf54`](https://github.com/truecharts/charts/commit/04fcf54c5fa77562f6149960a23f7e7cb6569961) • [@TrueCharts Bot] (2022-12-25)
+- Merge pull request #5797 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-i3-latest • [`109476a`](https://github.com/truecharts/charts/commit/109476a3e855fceb25b96d1b66ccfdc841d200c4) • [@TrueCharts Bot] (2022-12-25)
+- Merge pull request #5798 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-icewm-latest • [`454659e`](https://github.com/truecharts/charts/commit/454659e4bbfe5f0f20e44608aa14363668d6a76c) • [@TrueCharts Bot] (2022-12-25)
 - Commit bumped Chart Version • [`0bc3142`](https://github.com/truecharts/charts/commit/0bc31425ac9d84e212618afbec5000d11ab65b80) • [@TrueCharts-Bot] (2022-12-25)
 - Commit bumped Chart Version • [`3a29698`](https://github.com/truecharts/charts/commit/3a29698852e7ae9eb11ed8bc8f2057e658486356) • [@TrueCharts-Bot] (2022-12-25)
+- Merge pull request #5792 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-mate-latest • [`67c8467`](https://github.com/truecharts/charts/commit/67c84674d75c2c1499d1fe49dcec7ad8c00f7cf1) • [@TrueCharts Bot] (2022-12-25)
 - Commit bumped Chart Version • [`42260b4`](https://github.com/truecharts/charts/commit/42260b441302b486d70b1caa35d973558e8eba53) • [@TrueCharts-Bot] (2022-12-25)
 - Commit bumped Chart Version • [`6cc3a0f`](https://github.com/truecharts/charts/commit/6cc3a0f536697cb9743b81b2243cdb099012c4f8) • [@TrueCharts-Bot] (2022-12-25)
 - Merge pull request #5799 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-kde-latest • [`ac75d12`](https://github.com/truecharts/charts/commit/ac75d12275840bf1dbdefede1dbc67fc6054910a) • [@TrueCharts Bot] (2022-12-25)
+- Merge pull request #5794 from truecharts/renovate/tccr.io-truecharts-rdesktop-fedora-mate-latest • [`dace194`](https://github.com/truecharts/charts/commit/dace194339502e3f239ae645ed3dea2d73f15ac6) • [@TrueCharts Bot] (2022-12-25)
+- Commit bumped Chart Version • [`bba9ec0`](https://github.com/truecharts/charts/commit/bba9ec072da5acc76754214b0d395b72ae1a0a91) • [@TrueCharts-Bot] (2022-12-25)
+- Commit bumped Chart Version • [`c01f077`](https://github.com/truecharts/charts/commit/c01f0776753dcf3e6b43087202c77c6451101d0c) • [@TrueCharts-Bot] (2022-12-25)
+- Commit bumped Chart Version • [`cd3e748`](https://github.com/truecharts/charts/commit/cd3e7486b78e118104c57a01bc9fdd67bd654546) • [@TrueCharts-Bot] (2022-12-25)
 
 ## 3.0.8 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/rdesktop to latest • [`7aa79d3`](https://github.com/truecharts/charts/commit/7aa79d3a7b01b1f250a729c8fa603423b4f1f849) • [@TrueCharts-Admin] (2022-12-25)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest • [`20b8c8d`](https://github.com/truecharts/charts/commit/20b8c8dcc29016ce317ed366a14b6037a7b2f070) • [@TrueCharts-Admin] (2022-12-25)
-- Merge pull request #5751 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-i3-latest • [`814202c`](https://github.com/truecharts/charts/commit/814202c1ce4330f033942eefb845d9c69e18eed9) • [@TrueCharts Bot] (2022-12-25)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-openbox to latest • [`eb515e5`](https://github.com/truecharts/charts/commit/eb515e5d96716f6ace96792ebbdfc4e5b8cf375b) • [@TrueCharts-Admin] (2022-12-25)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-icewm to latest • [`007effb`](https://github.com/truecharts/charts/commit/007effbbebc8603e3c8c36bac9caf8c07d9feb69) • [@TrueCharts-Admin] (2022-12-25)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-mate to latest • [`561a51a`](https://github.com/truecharts/charts/commit/561a51ad03cf54e587d2916d6447eeddd1472f27) • [@TrueCharts-Admin] (2022-12-25)
-- Merge pull request #5754 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-kde-latest • [`7ec60df`](https://github.com/truecharts/charts/commit/7ec60df18542b6ffcddd4ea4d51bc3c00aa4e99d) • [@TrueCharts Bot] (2022-12-25)
 - Merge pull request #5752 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-icewm-latest • [`b6c94e3`](https://github.com/truecharts/charts/commit/b6c94e31139d8b987ffaba49ee20e14e6b1c2570) • [@TrueCharts Bot] (2022-12-25)
+- Merge pull request #5750 from truecharts/renovate/tccr.io-truecharts-rdesktop-latest • [`c05acdf`](https://github.com/truecharts/charts/commit/c05acdfde4667a16b70d8b8bdea86fcba9e4fc3c) • [@TrueCharts Bot] (2022-12-25)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest • [`20b8c8d`](https://github.com/truecharts/charts/commit/20b8c8dcc29016ce317ed366a14b6037a7b2f070) • [@TrueCharts-Admin] (2022-12-25)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-mate to latest • [`561a51a`](https://github.com/truecharts/charts/commit/561a51ad03cf54e587d2916d6447eeddd1472f27) • [@TrueCharts-Admin] (2022-12-25)
+- chore(deps): update container image tccr.io/truecharts/rdesktop to latest • [`7aa79d3`](https://github.com/truecharts/charts/commit/7aa79d3a7b01b1f250a729c8fa603423b4f1f849) • [@TrueCharts-Admin] (2022-12-25)
+- Merge pull request #5751 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-i3-latest • [`814202c`](https://github.com/truecharts/charts/commit/814202c1ce4330f033942eefb845d9c69e18eed9) • [@TrueCharts Bot] (2022-12-25)
+- Merge pull request #5753 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-kde-latest • [`d30a2b4`](https://github.com/truecharts/charts/commit/d30a2b4b55dd5c8e3afad13a6fd4b3818691dcd1) • [@TrueCharts Bot] (2022-12-25)
+- Merge pull request #5754 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-kde-latest • [`7ec60df`](https://github.com/truecharts/charts/commit/7ec60df18542b6ffcddd4ea4d51bc3c00aa4e99d) • [@TrueCharts Bot] (2022-12-25)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-mate to latest • [`f28e859`](https://github.com/truecharts/charts/commit/f28e8596695f50eedb000ad36b8aa3bc47f203a3) • [@TrueCharts-Admin] (2022-12-25)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-i3 to latest • [`5c993e0`](https://github.com/truecharts/charts/commit/5c993e0f431c3468f01ffeadb2cbd6577393cf49) • [@TrueCharts-Admin] (2022-12-25)
-- Merge pull request #5753 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-kde-latest • [`d30a2b4`](https://github.com/truecharts/charts/commit/d30a2b4b55dd5c8e3afad13a6fd4b3818691dcd1) • [@TrueCharts Bot] (2022-12-25)
-- Merge pull request #5750 from truecharts/renovate/tccr.io-truecharts-rdesktop-latest • [`c05acdf`](https://github.com/truecharts/charts/commit/c05acdfde4667a16b70d8b8bdea86fcba9e4fc3c) • [@TrueCharts Bot] (2022-12-25)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-icewm to latest • [`007effb`](https://github.com/truecharts/charts/commit/007effbbebc8603e3c8c36bac9caf8c07d9feb69) • [@TrueCharts-Admin] (2022-12-25)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-openbox to latest • [`eb515e5`](https://github.com/truecharts/charts/commit/eb515e5d96716f6ace96792ebbdfc4e5b8cf375b) • [@TrueCharts-Admin] (2022-12-25)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-openbox to latest • [`d7fdf87`](https://github.com/truecharts/charts/commit/d7fdf8753dcdb9b9e4d11610f9706f4e5892f8f3) • [@TrueCharts-Admin] (2022-12-25)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-ubuntu-kde to latest • [`a62585c`](https://github.com/truecharts/charts/commit/a62585c83212f4fd6c30e3ed45d74971d2b1cdbe) • [@TrueCharts-Admin] (2022-12-25)
+- Commit bumped Chart Version • [`fdbb35f`](https://github.com/truecharts/charts/commit/fdbb35f005c316e035d63e357ef4785a727e49f2) • [@TrueCharts-Bot] (2022-12-24)
 - Commit bumped Chart Version • [`11ff994`](https://github.com/truecharts/charts/commit/11ff994865cf0357cb6d2d8ea83da2556b5a0591) • [@TrueCharts-Bot] (2022-12-24)
 - Commit bumped Chart Version • [`a753645`](https://github.com/truecharts/charts/commit/a753645482c3a2df5265cd472bd40ec72fde3d8a) • [@TrueCharts-Bot] (2022-12-24)
-- Commit bumped Chart Version • [`fdbb35f`](https://github.com/truecharts/charts/commit/fdbb35f005c316e035d63e357ef4785a727e49f2) • [@TrueCharts-Bot] (2022-12-24)
 - Commit bumped Chart Version • [`078ed15`](https://github.com/truecharts/charts/commit/078ed15718072c2d46b182e125608e87c6cbc14a) • [@TrueCharts-Bot] (2022-12-24)
 - Commit bumped Chart Version • [`96d4927`](https://github.com/truecharts/charts/commit/96d492765e3b689dda34615e9bac8a1d8e5b0baa) • [@TrueCharts-Bot] (2022-12-24)
 
 ## 3.0.7 • [Train: stable]
 
-- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-i3 to latest • [`09ba536`](https://github.com/truecharts/charts/commit/09ba536feab3da5ca2919acb8ef0d5f29a8d080b) • [@TrueCharts-Admin] (2022-12-24)
 - Merge pull request #5662 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-openbox-latest • [`3385136`](https://github.com/truecharts/charts/commit/33851367d3a6c5c4ba5867f37cfe054649616d10) • [@TrueCharts Bot] (2022-12-24)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-icewm to latest • [`c971437`](https://github.com/truecharts/charts/commit/c9714372eca4cd69d37bcd6f4be5cd9aa2818429) • [@TrueCharts-Admin] (2022-12-24)
+- Merge pull request #5660 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-icewm-latest • [`ed91911`](https://github.com/truecharts/charts/commit/ed9191119a6be1d32425c00c40f84476b7cc9b4e) • [@TrueCharts Bot] (2022-12-24)
+- Merge pull request #5661 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-mate-latest • [`1c24f0a`](https://github.com/truecharts/charts/commit/1c24f0a972af36e5eb1a4b6b9eb722e9f5638cda) • [@TrueCharts Bot] (2022-12-24)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-kde to latest • [`ceee594`](https://github.com/truecharts/charts/commit/ceee594822618581e23f8587b2d907eba0c4ca6a) • [@TrueCharts-Admin] (2022-12-24)
+- Commit bumped Chart Version • [`dc8da6b`](https://github.com/truecharts/charts/commit/dc8da6b907cb9d7560fbb9e37a0e34cd0ea0a2a8) • [@TrueCharts-Bot] (2022-12-24)
+- Commit bumped Chart Version • [`87e829f`](https://github.com/truecharts/charts/commit/87e829f82372fea5432c625db7434daaa63931c6) • [@TrueCharts-Bot] (2022-12-24)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-i3 to latest • [`09ba536`](https://github.com/truecharts/charts/commit/09ba536feab3da5ca2919acb8ef0d5f29a8d080b) • [@TrueCharts-Admin] (2022-12-24)
+- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-kde to latest • [`31160c6`](https://github.com/truecharts/charts/commit/31160c6746e9949e8a631148c49b552a9e3abbce) • [@TrueCharts-Admin] (2022-12-24)
 - Merge pull request #5663 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-xfce-latest • [`49e2919`](https://github.com/truecharts/charts/commit/49e2919614ff812c73d866f90808ea81da503a6c) • [@TrueCharts Bot] (2022-12-24)
-- Commit bumped Chart Version • [`a233e06`](https://github.com/truecharts/charts/commit/a233e06e169959844c7b6600bef879eac71eb473) • [@TrueCharts-Bot] (2022-12-24)
+- Merge pull request #5659 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-i3-latest • [`ae8cb4f`](https://github.com/truecharts/charts/commit/ae8cb4f0f8ff0151a9ba30b230949542d0c99d10) • [@TrueCharts Bot] (2022-12-24)
 - Commit bumped Chart Version • [`cc62daf`](https://github.com/truecharts/charts/commit/cc62dafb3edb6d947df9275cffab6eb3eed16791) • [@TrueCharts-Bot] (2022-12-24)
 - Commit bumped Chart Version • [`8339dbf`](https://github.com/truecharts/charts/commit/8339dbfc3cac4f320736728fc5b401c2eb4c1cd5) • [@TrueCharts-Bot] (2022-12-24)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-icewm to latest • [`c971437`](https://github.com/truecharts/charts/commit/c9714372eca4cd69d37bcd6f4be5cd9aa2818429) • [@TrueCharts-Admin] (2022-12-24)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-kde to latest • [`ceee594`](https://github.com/truecharts/charts/commit/ceee594822618581e23f8587b2d907eba0c4ca6a) • [@TrueCharts-Admin] (2022-12-24)
-- Merge pull request #5661 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-mate-latest • [`1c24f0a`](https://github.com/truecharts/charts/commit/1c24f0a972af36e5eb1a4b6b9eb722e9f5638cda) • [@TrueCharts Bot] (2022-12-24)
+- Commit bumped Chart Version • [`a233e06`](https://github.com/truecharts/charts/commit/a233e06e169959844c7b6600bef879eac71eb473) • [@TrueCharts-Bot] (2022-12-24)
 - chore(deps): update container image tccr.io/truecharts/rdesktop to latest • [`ac31316`](https://github.com/truecharts/charts/commit/ac313167a6504f8e2b3bc2f73d1e0dedbdb102f0) • [@TrueCharts-Admin] (2022-12-24)
-- Merge pull request #5659 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-i3-latest • [`ae8cb4f`](https://github.com/truecharts/charts/commit/ae8cb4f0f8ff0151a9ba30b230949542d0c99d10) • [@TrueCharts Bot] (2022-12-24)
-- Commit bumped Chart Version • [`dc8da6b`](https://github.com/truecharts/charts/commit/dc8da6b907cb9d7560fbb9e37a0e34cd0ea0a2a8) • [@TrueCharts-Bot] (2022-12-24)
-- Merge pull request #5660 from truecharts/renovate/tccr.io-truecharts-rdesktop-arch-icewm-latest • [`ed91911`](https://github.com/truecharts/charts/commit/ed9191119a6be1d32425c00c40f84476b7cc9b4e) • [@TrueCharts Bot] (2022-12-24)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-kde to latest • [`31160c6`](https://github.com/truecharts/charts/commit/31160c6746e9949e8a631148c49b552a9e3abbce) • [@TrueCharts-Admin] (2022-12-24)
-- Commit bumped Chart Version • [`87e829f`](https://github.com/truecharts/charts/commit/87e829f82372fea5432c625db7434daaa63931c6) • [@TrueCharts-Bot] (2022-12-24)
 
 ## 3.0.6 • [Train: stable]
 
+- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-openbox to latest • [`6ae32fc`](https://github.com/truecharts/charts/commit/6ae32fccfdafd31101f55087d92b48a480547776) • [@TrueCharts-Admin] (2022-12-24)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-arch-icewm to latest • [`96c6e62`](https://github.com/truecharts/charts/commit/96c6e62df6d46130d64d1637012f485b115280a1) • [@TrueCharts-Admin] (2022-12-24)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-arch-mate to latest • [`99659e5`](https://github.com/truecharts/charts/commit/99659e55a3706d40d3bcfdb89465af3f03a08fd5) • [@TrueCharts-Admin] (2022-12-24)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-arch-i3 to latest • [`d9af4c0`](https://github.com/truecharts/charts/commit/d9af4c0a0e39f5ef6ce292943f84d6b7b6435806) • [@TrueCharts-Admin] (2022-12-24)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-arch-xfce to latest • [`1f2af58`](https://github.com/truecharts/charts/commit/1f2af58e4783768c4c86c1190c5b522eecef15c2) • [@TrueCharts-Admin] (2022-12-24)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-arch-openbox to latest • [`6ae32fc`](https://github.com/truecharts/charts/commit/6ae32fccfdafd31101f55087d92b48a480547776) • [@TrueCharts-Admin] (2022-12-24)
 - Commit bumped Chart Version • [`39c50fe`](https://github.com/truecharts/charts/commit/39c50fefd0cce4f6c6696a41f3b62b2c28732fcf) • [@TrueCharts-Bot] (2022-12-19)
 - chore(deps): update helm general non-major • [`6485adc`](https://github.com/truecharts/charts/commit/6485adc96ab6dfb4c81b36735337a526d05322eb) • [@TrueCharts-Admin] (2022-12-19)
 
@@ -2230,21 +2230,21 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.4 • [Train: stable]
 
+- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest • [`433973d`](https://github.com/truecharts/charts/commit/433973d12b3ff2cdd1aa93f77ba0ad218db25ab0) • [@TrueCharts-Admin] (2022-12-18)
 - Commit bumped Chart Version • [`84ac927`](https://github.com/truecharts/charts/commit/84ac92780cbf2bff4e713a5b28f7d016fd47824b) • [@TrueCharts-Bot] (2022-12-18)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-icewm to latest • [`af41a2e`](https://github.com/truecharts/charts/commit/af41a2e983b46958e978ea71b9978b0d7bbc0782) • [@TrueCharts-Admin] (2022-12-18)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-kde to latest • [`b8fdee8`](https://github.com/truecharts/charts/commit/b8fdee8079c7430fd3f377582137515bdbed8fd5) • [@TrueCharts-Admin] (2022-12-18)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-i3 to latest • [`b9c7e72`](https://github.com/truecharts/charts/commit/b9c7e72767513cde12647d345d77373e03d4d704) • [@TrueCharts-Admin] (2022-12-18)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-openbox to latest • [`f4cb5db`](https://github.com/truecharts/charts/commit/f4cb5dbe691dd1accd7877e3cd0c32fd1af22894) • [@TrueCharts-Admin] (2022-12-18)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-mate to latest • [`18a5a3f`](https://github.com/truecharts/charts/commit/18a5a3ff70828a7b549fc3bd171efb2b804781a5) • [@TrueCharts-Admin] (2022-12-18)
-- chore(deps): update container image tccr.io/truecharts/rdesktop-fedora-xfce to latest • [`433973d`](https://github.com/truecharts/charts/commit/433973d12b3ff2cdd1aa93f77ba0ad218db25ab0) • [@TrueCharts-Admin] (2022-12-18)
 
 ## 3.0.3 • [Train: stable]
 
-- Merge pull request #5485 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-mate-latest • [`2cee282`](https://github.com/truecharts/charts/commit/2cee282b1ffe467e2a144c0d9fca22d5ebdbe1a4) • [@TrueCharts Bot] (2022-12-18)
 - Merge pull request #5486 from truecharts/renovate/tccr.io-truecharts-rdesktop-ubuntu-xfce-latest • [`7b4f2ef`](https://github.com/truecharts/charts/commit/7b4f2ef579afe71eb7a418c0004e6a225c73c299) • [@TrueCharts Bot] (2022-12-18)
 - chore(deps): update container image tccr.io/truecharts/rdesktop-alpine-openbox to latest • [`ff1855c`](https://github.com/truecharts/charts/commit/ff1855c44ac539a7255da442d35912d03ba11e53) • [@TrueCharts-Admin] (2022-12-18)
-- Commit bumped Chart Version • [`39315ff`](https://github.com/truecharts/charts/commit/39315ff34148b2b379fcb119449839d8c94152e5) • [@TrueCharts-Bot] (2022-12-17)
+- Merge pull request #5485 from truecharts/renovate/tccr.io-truecharts-rdesktop-alpine-mate-latest • [`2cee282`](https://github.com/truecharts/charts/commit/2cee282b1ffe467e2a144c0d9fca22d5ebdbe1a4) • [@TrueCharts Bot] (2022-12-18)
 - Commit bumped Chart Version • [`7ae27dc`](https://github.com/truecharts/charts/commit/7ae27dc70c5501b89422ccb7772a605afa663d41) • [@TrueCharts-Bot] (2022-12-17)
+- Commit bumped Chart Version • [`39315ff`](https://github.com/truecharts/charts/commit/39315ff34148b2b379fcb119449839d8c94152e5) • [@TrueCharts-Bot] (2022-12-17)
 
 ## 3.0.2 • [Train: stable]
 
@@ -2318,9 +2318,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - fix(apps): remove references to targetPort • [`800312b`](https://github.com/truecharts/charts/commit/800312b29574d87c6591fa5590b8028da3e6d5b9) • [@Kjeld Schouten-Lebbing] (2022-11-11)
 - fix(apps): remove removed includes • [`f4fb894`](https://github.com/truecharts/charts/commit/f4fb8943e1f46b3ba2f705aac6792ad3bc1337d2) • [@Kjeld Schouten-Lebbing] (2022-11-11)
+- chore: Auto-update chart README [skip ci] • [`ba9389e`](https://github.com/truecharts/charts/commit/ba9389e4da8aa4bab028f912000dbd4e975f99fb) • [@truecharts-bot] (2022-11-10)
 - fix(apps): change container config label • [`16f46e1`](https://github.com/truecharts/charts/commit/16f46e1db86182b9402b9c4a132884a0b10378a1) • [@Kjeld Schouten-Lebbing] (2022-11-10)
 - chore(apps): Major Change to GUI • [`2ef737f`](https://github.com/truecharts/charts/commit/2ef737f7d3d8fbb7a1ffe46456963004f37d9f45) • [@Kjeld Schouten-Lebbing] (2022-11-10)
-- chore: Auto-update chart README [skip ci] • [`ba9389e`](https://github.com/truecharts/charts/commit/ba9389e4da8aa4bab028f912000dbd4e975f99fb) • [@truecharts-bot] (2022-11-10)
 
 ## 0.0.50 • [Train: incubator]
 
@@ -2329,10 +2329,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.49 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#4342) • [`ec3d563`](https://github.com/truecharts/charts/commit/ec3d56395c3202bfad45c19266686bf4c5315f01) • [@TrueCharts Bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`3180582`](https://github.com/truecharts/charts/commit/31805828c6aed71e55a911fb3aef5b5c9916ad3b) • [@truecharts-bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`6053fd9`](https://github.com/truecharts/charts/commit/6053fd928080c895ac04de0d8509550c46a04ace) • [@truecharts-bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`9ba8308`](https://github.com/truecharts/charts/commit/9ba8308ab3a3d7ea99da57d1b0054292e4d08753) • [@truecharts-bot] (2022-11-08)
+- chore(deps): update helm general non-major (#4342) • [`ec3d563`](https://github.com/truecharts/charts/commit/ec3d56395c3202bfad45c19266686bf4c5315f01) • [@TrueCharts Bot] (2022-11-08)
 
 ## 0.0.48 • [Train: incubator]
 
@@ -2362,8 +2362,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.43 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#4218) • [`91bc0a7`](https://github.com/truecharts/charts/commit/91bc0a7611b04c9d02832bd2d70f52aba0664705) • [@TrueCharts Bot] (2022-10-28)
 - chore: Auto-update chart README [skip ci] • [`143dfc6`](https://github.com/truecharts/charts/commit/143dfc630e66e20007b66d51eb08439f73cf79bb) • [@truecharts-bot] (2022-10-28)
+- chore(deps): update docker general non-major (#4218) • [`91bc0a7`](https://github.com/truecharts/charts/commit/91bc0a7611b04c9d02832bd2d70f52aba0664705) • [@TrueCharts Bot] (2022-10-28)
 
 ## 0.0.42 • [Train: incubator]
 
@@ -2387,14 +2387,14 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.38 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#4071) • [`d0b19f4`](https://github.com/truecharts/charts/commit/d0b19f499332d2ce51f80580871fb36165f0e641) • [@TrueCharts Bot] (2022-10-12)
 - chore: Auto-update chart README [skip ci] • [`e87e8f8`](https://github.com/truecharts/charts/commit/e87e8f8eece9cb8850c08370035183405a5b40be) • [@truecharts-bot] (2022-10-12)
+- chore(deps): update helm general non-major (#4071) • [`d0b19f4`](https://github.com/truecharts/charts/commit/d0b19f499332d2ce51f80580871fb36165f0e641) • [@TrueCharts Bot] (2022-10-12)
 
 ## 0.0.37 • [Train: incubator]
 
 - chore: Auto-update chart README [skip ci] • [`952fa74`](https://github.com/truecharts/charts/commit/952fa7491ebe18849e10bbb428b574e5e8b12a08) • [@truecharts-bot] (2022-10-08)
-- chore: Auto-update chart README [skip ci] • [`9783dd2`](https://github.com/truecharts/charts/commit/9783dd2bb730cfa98f23579c7b75a615124e89bd) • [@truecharts-bot] (2022-10-07)
 - chore(deps): update helm general non-major • [`6761b13`](https://github.com/truecharts/charts/commit/6761b1362d6f9b8d21406c65617445a990e32cce) • [@TrueCharts-Admin] (2022-10-07)
+- chore: Auto-update chart README [skip ci] • [`9783dd2`](https://github.com/truecharts/charts/commit/9783dd2bb730cfa98f23579c7b75a615124e89bd) • [@truecharts-bot] (2022-10-07)
 
 ## 0.0.36 • [Train: incubator]
 
@@ -2420,8 +2420,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.31 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#3881) • [`63021f6`](https://github.com/truecharts/charts/commit/63021f6f2784c1cd5927867cfb5171d3498fd3e8) • [@TrueCharts Bot] (2022-09-25)
 - chore: Auto-update chart README [skip ci] • [`36c5a71`](https://github.com/truecharts/charts/commit/36c5a714e1a6bdeab1876681523a19a038f1841c) • [@truecharts-bot] (2022-09-25)
+- chore(deps): update docker general non-major (#3881) • [`63021f6`](https://github.com/truecharts/charts/commit/63021f6f2784c1cd5927867cfb5171d3498fd3e8) • [@TrueCharts Bot] (2022-09-25)
 
 ## 0.0.30 • [Train: incubator]
 
@@ -2429,11 +2429,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore: Auto-update chart README [skip ci] • [`dea0e08`](https://github.com/truecharts/charts/commit/dea0e08738b4722f1c8b4af51115d835d1dd24b8) • [@truecharts-bot] (2022-09-22)
 - chore: Auto-update chart README [skip ci] • [`27eaf3c`](https://github.com/truecharts/charts/commit/27eaf3cd8ebf915df61e1b78ae62f925d0d0d33d) • [@truecharts-bot] (2022-09-21)
 - chore: Auto-update chart README [skip ci] • [`f2be506`](https://github.com/truecharts/charts/commit/f2be506cef39683b2cdcae6850e015c7d1b5d018) • [@truecharts-bot] (2022-09-21)
-- chore: Auto-update chart README [skip ci] • [`f71bda7`](https://github.com/truecharts/charts/commit/f71bda701953f94e4e49e480471dcd61d0239b12) • [@truecharts-bot] (2022-09-20)
 - chore: Auto-update chart README [skip ci] • [`938dfbd`](https://github.com/truecharts/charts/commit/938dfbd29feaa716fa140abb8588b35664dfaf0f) • [@truecharts-bot] (2022-09-20)
+- chore: Auto-update chart README [skip ci] • [`f71bda7`](https://github.com/truecharts/charts/commit/f71bda701953f94e4e49e480471dcd61d0239b12) • [@truecharts-bot] (2022-09-20)
+- chore(deps): update docker general non-major (#3790) • [`8229f1a`](https://github.com/truecharts/charts/commit/8229f1a5e5e94ace42b820b6b8dc384aa02d6005) • [@TrueCharts Bot] (2022-09-19)
 - chore: Auto-update chart README [skip ci] • [`12ff3ca`](https://github.com/truecharts/charts/commit/12ff3cab54c3d6512d0515fee70998e70495a789) • [@truecharts-bot] (2022-09-19)
 - chore: Auto-update chart README [skip ci] • [`2528ca8`](https://github.com/truecharts/charts/commit/2528ca86e9ced34b9abe332e63a613ce113528c7) • [@truecharts-bot] (2022-09-19)
-- chore(deps): update docker general non-major (#3790) • [`8229f1a`](https://github.com/truecharts/charts/commit/8229f1a5e5e94ace42b820b6b8dc384aa02d6005) • [@TrueCharts Bot] (2022-09-19)
 
 ## 0.0.29 • [Train: incubator]
 
@@ -2441,8 +2441,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore: Auto-update chart README [skip ci] • [`01fe431`](https://github.com/truecharts/charts/commit/01fe431239b9a649e55e5b38ddcc262d22b88cda) • [@truecharts-bot] (2022-09-18)
 - chore: Auto-update chart README [skip ci] • [`24bcac5`](https://github.com/truecharts/charts/commit/24bcac5826fd241c1240dbbc1493c3333c427faf) • [@truecharts-bot] (2022-09-18)
 - chore(Apps): refactor Services SCALE GUI • [`7be0dcb`](https://github.com/truecharts/charts/commit/7be0dcbe6d5d235f67c6b69a361d1ca2d1abb677) • [@Kjeld Schouten-Lebbing] (2022-09-17)
-- chore: Auto-update chart README [skip ci] • [`c99b62f`](https://github.com/truecharts/charts/commit/c99b62f699113e678af5efdfa633e298f9f55ae6) • [@truecharts-bot] (2022-09-16)
 - chore: Auto-update chart README [skip ci] • [`4a7979b`](https://github.com/truecharts/charts/commit/4a7979b1bd9f1a5263c7f991fe61d7c0a85a04b8) • [@truecharts-bot] (2022-09-16)
+- chore: Auto-update chart README [skip ci] • [`c99b62f`](https://github.com/truecharts/charts/commit/c99b62f699113e678af5efdfa633e298f9f55ae6) • [@truecharts-bot] (2022-09-16)
 - chore(deps): update helm general non-major (#3767) • [`48e5471`](https://github.com/truecharts/charts/commit/48e5471458985ee1f873de03ebeb17415eea5575) • [@TrueCharts Bot] (2022-09-15)
 - chore: Auto-update chart README [skip ci] • [`682efa1`](https://github.com/truecharts/charts/commit/682efa11c4aed3ea9e4b4fd7b409c43e40cb9407) • [@truecharts-bot] (2022-09-15)
 
@@ -2452,11 +2452,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore: Auto-update chart README [skip ci] • [`1f5fd55`](https://github.com/truecharts/charts/commit/1f5fd55364403c857ea7094f8c16ad416a67a5a2) • [@truecharts-bot] (2022-09-12)
 - chore: Auto-update chart README [skip ci] • [`9a821da`](https://github.com/truecharts/charts/commit/9a821da90ba5b47f62e6eec71124f3aa56181d41) • [@truecharts-bot] (2022-09-12)
 - chore: Auto-update chart README [skip ci] • [`cf36c34`](https://github.com/truecharts/charts/commit/cf36c344afd33480c1f37325996fe0c2039dd44e) • [@truecharts-bot] (2022-09-12)
-- chore: Auto-update chart README [skip ci] • [`5ac2a97`](https://github.com/truecharts/charts/commit/5ac2a97847c332e170723527708a74d52153b457) • [@truecharts-bot] (2022-09-11)
-- chore: Auto-update chart README [skip ci] • [`44a77cd`](https://github.com/truecharts/charts/commit/44a77cd0ddf59c2a29e472b72ee068832e5aee8d) • [@truecharts-bot] (2022-09-11)
-- chore(deps): update docker general non-major (#3736) • [`4dc32a9`](https://github.com/truecharts/charts/commit/4dc32a9142d92bed95853065bf7ef56e9bf4ba5f) • [@TrueCharts Bot] (2022-09-11)
 - chore(deps): update helm general non-major (#3711) • [`845ea2d`](https://github.com/truecharts/charts/commit/845ea2d896360075af8c1b78e2421931b22aa31b) • [@TrueCharts Bot] (2022-09-11)
 - chore: Auto-update chart README [skip ci] • [`a23c49a`](https://github.com/truecharts/charts/commit/a23c49adc9ca593586f8a4b6f23d202cbba351ce) • [@truecharts-bot] (2022-09-11)
+- chore: Auto-update chart README [skip ci] • [`44a77cd`](https://github.com/truecharts/charts/commit/44a77cd0ddf59c2a29e472b72ee068832e5aee8d) • [@truecharts-bot] (2022-09-11)
+- chore(deps): update docker general non-major (#3736) • [`4dc32a9`](https://github.com/truecharts/charts/commit/4dc32a9142d92bed95853065bf7ef56e9bf4ba5f) • [@TrueCharts Bot] (2022-09-11)
+- chore: Auto-update chart README [skip ci] • [`5ac2a97`](https://github.com/truecharts/charts/commit/5ac2a97847c332e170723527708a74d52153b457) • [@truecharts-bot] (2022-09-11)
 
 ## 0.0.27 • [Train: incubator]
 
@@ -2491,8 +2491,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.20 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`abeacde`](https://github.com/truecharts/charts/commit/abeacde87e77734c7cb15b9c3eaf6abdc9d19568) • [@truecharts-bot] (2022-08-21)
 - chore(deps): update docker general non-major docker tags (#3523) • [`e2536c9`](https://github.com/truecharts/charts/commit/e2536c9a4565abf91ff9684f0fac39a75b82bf79) • [@TrueCharts Bot] (2022-08-21)
+- chore: Auto-update chart README [skip ci] • [`abeacde`](https://github.com/truecharts/charts/commit/abeacde87e77734c7cb15b9c3eaf6abdc9d19568) • [@truecharts-bot] (2022-08-21)
 
 ## 0.0.19 • [Train: incubator]
 
@@ -2523,9 +2523,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.14 • [Train: incubator]
 
+- chore: Auto-update chart README [skip ci] • [`80ef023`](https://github.com/truecharts/charts/commit/80ef02312bb72c092162318261a699904ed89d4a) • [@truecharts-bot] (2022-07-26)
 - chore(deps): update helm general non-major helm releases (#3302) • [`54e805a`](https://github.com/truecharts/charts/commit/54e805ab4d77ef20d2d0c1dd77d3f2d9c80e4094) • [@TrueCharts Bot] (2022-07-26)
 - chore(apps): update home links (#3291) • [`714090a`](https://github.com/truecharts/charts/commit/714090aa6e3881bd932c1acabd322435cdd2f4fd) • [@Stavros Kois] (2022-07-26)
-- chore: Auto-update chart README [skip ci] • [`80ef023`](https://github.com/truecharts/charts/commit/80ef02312bb72c092162318261a699904ed89d4a) • [@truecharts-bot] (2022-07-26)
 
 ## 0.0.13 • [Train: incubator]
 
@@ -2536,9 +2536,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Chore(apps): add fake digest to new incubator Apps to fetch digests • [`ef296cb`](https://github.com/truecharts/charts/commit/ef296cb0ecfcf469e039a9700af150e7555ec839) • [@Kjeld Schouten-Lebbing] (2022-07-25)
 - chore: Auto-update chart README [skip ci] • [`8358b36`](https://github.com/truecharts/charts/commit/8358b360f54c73f65c1ef36dbc458aa80c6f5c29) • [@truecharts-bot] (2022-07-24)
-- chore: Auto-update chart README [skip ci] • [`d550776`](https://github.com/truecharts/charts/commit/d550776924860b5a1037f0ef3f23237eacc846e7) • [@truecharts-bot] (2022-07-23)
 - chore: Auto-update chart README [skip ci] • [`f3fb628`](https://github.com/truecharts/charts/commit/f3fb628bbdc4c357543efc71ebe432666e8ce956) • [@truecharts-bot] (2022-07-23)
 - chore(deps): update helm general non-major helm releases (#3280) • [`f9940cb`](https://github.com/truecharts/charts/commit/f9940cb96a06bbc33feab33c47429761c9afe900) • [@TrueCharts Bot] (2022-07-23)
+- chore: Auto-update chart README [skip ci] • [`d550776`](https://github.com/truecharts/charts/commit/d550776924860b5a1037f0ef3f23237eacc846e7) • [@truecharts-bot] (2022-07-23)
 
 ## 0.0.11 • [Train: incubator]
 
@@ -2547,7 +2547,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.10 • [Train: dev]
 
-- chore(incubator): Move Dev to incubator and some cleanup • [`2c06051`](https://github.com/truecharts/charts/commit/2c06051625cb75b04eea2d14bbf01696ff6047b7) • [@Kjeld Schouten-Lebbing] (2022-07-22)
-- chore: Auto-update chart README [skip ci] • [`80c3b3d`](https://github.com/truecharts/charts/commit/80c3b3d3268f704f5ed617b67b556326a6644fdb) • [@truecharts-bot] (2022-07-22)
 - chore: Auto-update chart README [skip ci] • [`b3518ae`](https://github.com/truecharts/charts/commit/b3518ae60ff95888dba5d68902a868b68f7ae32d) • [@truecharts-bot] (2022-07-22)
 - Unraid Bulk Checks (#3235) • [`d33f952`](https://github.com/truecharts/charts/commit/d33f952798a81ee01881233f8cf63f3d97584998) • [@Kjeld Schouten-Lebbing] (2022-07-22)
+- chore(incubator): Move Dev to incubator and some cleanup • [`2c06051`](https://github.com/truecharts/charts/commit/2c06051625cb75b04eea2d14bbf01696ff6047b7) • [@Kjeld Schouten-Lebbing] (2022-07-22)
+- chore: Auto-update chart README [skip ci] • [`80c3b3d`](https://github.com/truecharts/charts/commit/80c3b3d3268f704f5ed617b67b556326a6644fdb) • [@truecharts-bot] (2022-07-22)
