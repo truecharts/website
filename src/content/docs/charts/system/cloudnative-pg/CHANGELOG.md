@@ -23,8 +23,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 7.0.4 • [Train: system]
 
-- Update common.yaml • [`c1b4808`](https://github.com/truecharts/charts/commit/c1b4808364a82a2c8155bc9c1c30d9df02864c2f) • [@Kjeld Schouten] (2024-05-19)
 - Chore: remove credentials from CNPG chart • [`3c1c2b2`](https://github.com/truecharts/charts/commit/3c1c2b2f886186249340cb784bfccc5663ecb602) • [@Kjeld Schouten] (2024-05-19)
+- Update common.yaml • [`c1b4808`](https://github.com/truecharts/charts/commit/c1b4808364a82a2c8155bc9c1c30d9df02864c2f) • [@Kjeld Schouten] (2024-05-19)
 - Commit daily changes • [`17d5f88`](https://github.com/truecharts/charts/commit/17d5f886bfd21d2f7e021feee2657a89a9869488) • [@TrueCharts-Bot] (2024-05-02)
 - chore: bump common to release improved checks on volsync and cnpg (#21454) • [`afc5e7e`](https://github.com/truecharts/charts/commit/afc5e7eafa19a1b65a13d021fedf7510b485bd13) • [@Kjeld Schouten] (2024-05-01)
 
@@ -51,8 +51,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.10.2 • [Train: system]
 
-- Revert &#34;chore(deps): update helm chart cloudnative-pg to 0.21.0 by renovate (#21431)&#34; • [`c1073cc`](https://github.com/truecharts/charts/commit/c1073cce20a094bcf81064d3231dec755f9044e3) • [@Kjeld Schouten] (2024-04-27)
 - chore(cnpg): bump correctly • [`8f7441e`](https://github.com/truecharts/charts/commit/8f7441ea61557d2b727071904cec6811eea4b4be) • [@Kjeld Schouten] (2024-04-27)
+- Revert &#34;chore(deps): update helm chart cloudnative-pg to 0.21.0 by renovate (#21431)&#34; • [`c1073cc`](https://github.com/truecharts/charts/commit/c1073cce20a094bcf81064d3231dec755f9044e3) • [@Kjeld Schouten] (2024-04-27)
 
 ## 6.10.1 • [Train: system]
 
@@ -206,9 +206,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.2.1 • [Train: operators]
 
+- Commit daily changes • [`97ded71`](https://github.com/truecharts/charts/commit/97ded71eb672b4811c6a365dde0700aa75114775) • [@TrueCharts-Bot] (2024-02-27)
 - fix: correct grafana dashboard label • [`3ba0990`](https://github.com/truecharts/charts/commit/3ba099011a4bd5574334ea38360dd2743001c34b) • [@Kjeld Schouten] (2024-02-27)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`923ad8a`](https://github.com/truecharts/charts/commit/923ad8a08266672b7f753922f4cd8479e57eb980) • [@Kjeld Schouten] (2024-02-27)
-- Commit daily changes • [`97ded71`](https://github.com/truecharts/charts/commit/97ded71eb672b4811c6a365dde0700aa75114775) • [@TrueCharts-Bot] (2024-02-27)
 
 ## 6.2.0 • [Train: operators]
 
@@ -252,8 +252,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.2.16 • [Train: operators]
 
-- Commit daily changes • [`294fe34`](https://github.com/truecharts/charts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`74dcc8c`](https://github.com/truecharts/charts/commit/74dcc8cfc99a39f74e7976566f414e744f345596) • [@Kjeld Schouten] (2024-02-13)
+- Commit daily changes • [`294fe34`](https://github.com/truecharts/charts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - chore(deps): update container image tccr.io/tccr/alpine to latest@ade0065 by renovate (#18108) • [`c9834e5`](https://github.com/truecharts/charts/commit/c9834e5443401ba2fcf6cd62e4da617f44c153be) • [@TrueCharts Bot] (2024-02-12)
 
 ## 5.2.15 • [Train: operators]
@@ -431,13 +431,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`9edb8f3`](https://github.com/truecharts/charts/commit/9edb8f34a2c42615d9769c78aab806ed32594375) • [@TrueCharts-Bot] (2023-12-09)
 - Commit daily changes • [`fbb0226`](https://github.com/truecharts/charts/commit/fbb022673bbeefc08112d0876393978319b52f4d) • [@TrueCharts-Bot] (2023-12-07)
 - Commit daily changes • [`394da26`](https://github.com/truecharts/charts/commit/394da26ab82f36b5b0e312037f4e8245b006fef5) • [@TrueCharts-Bot] (2023-12-06)
-- Commit daily changes • [`a39b2b8`](https://github.com/truecharts/charts/commit/a39b2b8d1969c1135816d0dce4bf233918fb3010) • [@TrueCharts-Bot] (2023-12-03)
 - Commit daily changes • [`c5c271c`](https://github.com/truecharts/charts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
+- Commit daily changes • [`a39b2b8`](https://github.com/truecharts/charts/commit/a39b2b8d1969c1135816d0dce4bf233918fb3010) • [@TrueCharts-Bot] (2023-12-03)
 - Commit daily changes • [`a0cab80`](https://github.com/truecharts/charts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`57a03f8`](https://github.com/truecharts/charts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`4029aea`](https://github.com/truecharts/charts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
-- chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
 - chore: fix annotations again • [`968da8e`](https://github.com/truecharts/charts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
+- chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/truecharts/charts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/truecharts/charts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
 - Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
