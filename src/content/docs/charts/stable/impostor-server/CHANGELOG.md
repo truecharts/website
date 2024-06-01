@@ -11,6 +11,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 :::
 
+## 9.0.12 • [Train: stable]
+
+- chore(deps): update container image aeonlucid/impostor to v1.9.2@fe45e4c by renovate (#22747) • [`0e4d737`](https://github.com/truecharts/charts/commit/0e4d73758a2841a557e3e8f97dab02a85e21c83c) • [@TrueCharts Bot] (2024-06-01)
+
 ## 9.0.11 • [Train: stable]
 
 - Commit daily changes • [`ca008eb`](https://github.com/truecharts/charts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
