@@ -50,7 +50,7 @@ Default
 
 ```yaml
 header: |
-  # Welcome to SCALE
+  # Welcome to TrueCharts!
   Thank you for installing <{{ .Chart.Name }}>.
 ```
 
