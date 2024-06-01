@@ -18,7 +18,6 @@ This means that we expect it to work smoothly, all options being technically ava
 
 With Tier 2 options, you should not have to expect issues caused by the deployment option.
 
-
 ## TrueCharts on FluxCD
 
 TrueCharts aims to always support the latest version of FluxCD.
@@ -31,12 +30,11 @@ We also document which versions of TrueNAS will receive TrueCharts updates and f
 
 | FluxCD version | Branch   | Supported with updates | Accepting Support tickets | Accepting Bug Reports | Notes |
 | -------------- | -------- | ---------------------- | ------------------------- | --------------------- | ----- |
-| 1.2.1 or prior | `master` | ✅                    | ❌                        | ❌                   |       |
+| 1.2.1 or prior | `master` | ✅                     | ❌                        | ❌                    |       |
 
 ## Project Scope
 
 For more info on what to expect from TrueCharts Apps, be sure to also read the [Project Scope documentation](/general/scope)
-
 
 ## How to Configure
 
@@ -49,7 +47,7 @@ and checking all the many options available in our [Common Library Chart](/commo
 
 ### Example Helm-Release object
 
-```
+```yaml
 ---
 # yaml-language-server: $schema=https://kubernetes-schemas.zinn.ca/helm.toolkit.fluxcd.io/helmrelease_v2beta1.json
 apiVersion: helm.toolkit.fluxcd.io/v2beta2
@@ -98,5 +96,4 @@ spec:
             paths:
               - path: /
                 pathType: Prefix
-
 ```

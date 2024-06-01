@@ -134,13 +134,6 @@ export default defineConfig({
           },
         },
         {
-          label: "Helm",
-          collapsed: true,
-          autogenerate: {
-            directory: "helm",
-          },
-        },
-        {
           label: "FluxCD",
           collapsed: true,
           autogenerate: {
