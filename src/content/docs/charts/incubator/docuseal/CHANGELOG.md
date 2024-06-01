@@ -13,8 +13,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.8 • [Train: incubator]
 
-- trigger • [`c21ba75`](https://github.com/truecharts/charts/commit/c21ba75ec7e323913b24c9b8d7484b31a4dae498) • [@Stavros kois] (2024-06-01)
 - Commit daily changes • [`ca008eb`](https://github.com/truecharts/charts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
+- trigger • [`c21ba75`](https://github.com/truecharts/charts/commit/c21ba75ec7e323913b24c9b8d7484b31a4dae498) • [@Stavros kois] (2024-06-01)
 
 ## 1.0.7 • [Train: incubator]
 

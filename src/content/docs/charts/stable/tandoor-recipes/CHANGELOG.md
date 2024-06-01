@@ -90,9 +90,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 16.8.7 • [Train: stable]
 
-- Commit daily changes • [`26af685`](https://github.com/truecharts/charts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
-- Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/truecharts/charts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
 - Commit daily changes • [`3bbe620`](https://github.com/truecharts/charts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
+- Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/truecharts/charts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
+- Commit daily changes • [`26af685`](https://github.com/truecharts/charts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/truecharts/charts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 16.8.6 • [Train: stable]
@@ -312,5 +312,5 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 14.0.0 • [Train: incubator]
 
-- fix(tandoor-recipes): change to new common and move to incubator (#16864) • [`e0f7445`](https://github.com/truecharts/charts/commit/e0f744500394f457e9d7850aa19823e11f020b11) • [@ZasX] (2024-01-04)
 - chore: move all incubator to dev • [`ce92332`](https://github.com/truecharts/charts/commit/ce92332e6980fcbd48138b35a9723351005fc29a) • [@Kjeld Schouten] (2024-01-04)
+- fix(tandoor-recipes): change to new common and move to incubator (#16864) • [`e0f7445`](https://github.com/truecharts/charts/commit/e0f744500394f457e9d7850aa19823e11f020b11) • [@ZasX] (2024-01-04)
