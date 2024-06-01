@@ -31,7 +31,7 @@ Define env(s) for the container
 
 :::note
 
-- This is used for the SCALE GUI for "Additional Environment Variables"
+- This should not be used unless you have instructions from the maintainer to do so.
 - For native helm charts, use [env](/common/container/env) instead.
 
 :::
