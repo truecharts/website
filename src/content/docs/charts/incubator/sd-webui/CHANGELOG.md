@@ -18,8 +18,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.6 • [Train: incubator]
 
 - Commit daily changes • [`ca008eb`](https://github.com/truecharts/charts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@6e0740a by renovate (#22679) • [`31f31a8`](https://github.com/truecharts/charts/commit/31f31a8db8e4dfad0091698e4d034c7ed07edd53) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/truecharts/charts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
+- chore(deps): update container image ghcr.io/neggles/sd-webui-docker to latest@6e0740a by renovate (#22679) • [`31f31a8`](https://github.com/truecharts/charts/commit/31f31a8db8e4dfad0091698e4d034c7ed07edd53) • [@TrueCharts Bot] (2024-05-31)
 
 ## 1.0.5 • [Train: incubator]
 

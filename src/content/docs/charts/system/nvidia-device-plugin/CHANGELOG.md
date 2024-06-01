@@ -16,8 +16,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`ca008eb`](https://github.com/truecharts/charts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
 - chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/truecharts/charts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/truecharts/charts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
-- Commit daily changes • [`529340b`](https://github.com/truecharts/charts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`e50357a`](https://github.com/truecharts/charts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/truecharts/charts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`17d5f88`](https://github.com/truecharts/charts/commit/17d5f886bfd21d2f7e021feee2657a89a9869488) • [@TrueCharts-Bot] (2024-05-02)
 - chore: bump common to release improved checks on volsync and cnpg (#21454) • [`afc5e7e`](https://github.com/truecharts/charts/commit/afc5e7eafa19a1b65a13d021fedf7510b485bd13) • [@Kjeld Schouten] (2024-05-01)
 

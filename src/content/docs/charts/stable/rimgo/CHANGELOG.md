@@ -18,8 +18,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 7.0.36 • [Train: stable]
 
 - Commit daily changes • [`ca008eb`](https://github.com/truecharts/charts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@99e7235 by renovate (#22658) • [`19f7318`](https://github.com/truecharts/charts/commit/19f7318438dd0c2ae8d3081be7df0564d0ad1f7c) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/truecharts/charts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
+- chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@99e7235 by renovate (#22658) • [`19f7318`](https://github.com/truecharts/charts/commit/19f7318438dd0c2ae8d3081be7df0564d0ad1f7c) • [@TrueCharts Bot] (2024-05-31)
 
 ## 7.0.35 • [Train: stable]
 
@@ -194,8 +194,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.8.55 • [Train: stable]
 
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/truecharts/charts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
 - chore(deps): update container image quay.io/pussthecatorg/rimgo to latest@7d2ccb5 by renovate (#21409) • [`ed09438`](https://github.com/truecharts/charts/commit/ed094383bf6615b09ab7a0ee1d0d84e08d5254b2) • [@TrueCharts Bot] (2024-04-27)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`4093da1`](https://github.com/truecharts/charts/commit/4093da14198218d1cc87512febb19aae2d1e9e5c) • [@Kjeld Schouten] (2024-04-27)
 
 ## 6.8.54 • [Train: stable]
 
@@ -828,8 +828,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 5.1.3 • [Train: stable]
 
-- chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/truecharts/charts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
 - chore(deps): update container image common to v17.2.19@4ebb688 by renovate (#16733) • [`026bebd`](https://github.com/truecharts/charts/commit/026bebde2d90a467a43b46a6b889eca2cb01cf3f) • [@TrueCharts Bot] (2024-01-01)
+- chore(questions): remove non-existent template refs (#16738) • [`1e0dbf1`](https://github.com/truecharts/charts/commit/1e0dbf15e95afae40c7b3a47b2d38e0562323270) • [@Stavros Kois] (2024-01-01)
 
 ## 5.1.2 • [Train: stable]
 
@@ -925,15 +925,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.3 • [Train: stable]
 
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/truecharts/charts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
 - Commit daily changes • [`836a202`](https://github.com/truecharts/charts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
-- Commit daily changes • [`b9f4cca`](https://github.com/truecharts/charts/commit/b9f4ccaee6a5612110484ca4e8e91c6ede3465c8) • [@TrueCharts-Bot] (2023-12-12)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/truecharts/charts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
 - Commit daily changes • [`3ac7442`](https://github.com/truecharts/charts/commit/3ac7442c25a2d0d2648f9de45f218f95fec3d062) • [@TrueCharts-Bot] (2023-12-12)
+- Commit daily changes • [`b9f4cca`](https://github.com/truecharts/charts/commit/b9f4ccaee6a5612110484ca4e8e91c6ede3465c8) • [@TrueCharts-Bot] (2023-12-12)
 - Commit daily changes • [`84eca1f`](https://github.com/truecharts/charts/commit/84eca1fd32b6dd0181feeca73f43ba861d2459b2) • [@TrueCharts-Bot] (2023-12-11)
 - Commit daily changes • [`c43b045`](https://github.com/truecharts/charts/commit/c43b0458e73c91b2a55e3592670299e068729950) • [@TrueCharts-Bot] (2023-12-10)
-- chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/truecharts/charts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
-- Commit daily changes • [`c5c271c`](https://github.com/truecharts/charts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
 - Commit daily changes • [`1805e0a`](https://github.com/truecharts/charts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
+- Commit daily changes • [`c5c271c`](https://github.com/truecharts/charts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
+- chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/truecharts/charts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 
 ## 3.0.2 • [Train: incubator]
 
@@ -942,15 +942,15 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.0.1 • [Train: incubator]
 
-- Commit daily changes • [`4029aea`](https://github.com/truecharts/charts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
-- Commit daily changes • [`57a03f8`](https://github.com/truecharts/charts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- Commit daily changes • [`4029aea`](https://github.com/truecharts/charts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
 - chore: fix annotations again • [`968da8e`](https://github.com/truecharts/charts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`a0cab80`](https://github.com/truecharts/charts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
+- Commit daily changes • [`57a03f8`](https://github.com/truecharts/charts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/truecharts/charts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/truecharts/charts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
-- Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - chore(ci): lint files (#15238) • [`f1ee39b`](https://github.com/truecharts/charts/commit/f1ee39bac0cd6da5bdb64b2275250dfb8c9ba110) • [@Stavros Kois] (2023-11-22)
 - fix(images): update container image tccr.io/truecharts/rimgo to latest (#14984) • [`495ecac`](https://github.com/truecharts/charts/commit/495ecacbb3a6a99fc380a387a9e57d45548949d4) • [@TrueCharts Bot] (2023-11-18)
 
@@ -966,8 +966,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - fix: fix mistakes on questions.yaml • [`8cb036a`](https://github.com/truecharts/charts/commit/8cb036ac171e8787140d492d724f5a55e8321073) • [@Kjeld Schouten-Lebbing] (2023-05-22)
 - fix(incubator): fix indentation (#8536) • [`1259a29`](https://github.com/truecharts/charts/commit/1259a29e6097220dfc086853343e7a76ecd8ae8a) • [@Stavros Kois] (2023-04-30)
 - Commit daily changes • [`94c00b8`](https://github.com/truecharts/charts/commit/94c00b8c6fb66a5bb068f18fb26cd62297f35359) • [@TrueCharts-Bot] (2023-03-24)
-- adapt workload and container questions for all apps • [`3c47107`](https://github.com/truecharts/charts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - update security context questions • [`893b55d`](https://github.com/truecharts/charts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
+- adapt workload and container questions for all apps • [`3c47107`](https://github.com/truecharts/charts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - Merge pull request #7704 from truecharts/renovate/tccr.io-truecharts-rimgo-latest • [`e7e4a5b`](https://github.com/truecharts/charts/commit/e7e4a5b2aa83c95556fb51a43358083956122242) • [@TrueCharts Bot] (2023-02-27)
 - Commit bumped Chart Version • [`1346a73`](https://github.com/truecharts/charts/commit/1346a73fcc6ae2daf067150b09c7aee444d0e2e3) • [@TrueCharts-Bot] (2023-02-27)
 
@@ -999,21 +999,21 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.0.18 • [Train: incubator]
 
 - Revert &#34;Commit daily changes&#34; • [`0dbc251`](https://github.com/truecharts/charts/commit/0dbc251a0676e1781aaffccc1e06f135a5bfba89) • [@Kjeld Schouten-Lebbing] (2023-02-03)
-- Commit daily changes • [`35f77ed`](https://github.com/truecharts/charts/commit/35f77ed72d81a81a31e9d92d67f39a220022c450) • [@TrueCharts-Bot] (2023-02-03)
-- Revert &#34;Commit daily changes&#34; • [`b92fcb2`](https://github.com/truecharts/charts/commit/b92fcb20b141c1d5f30a1c83604f6e887827804c) • [@Kjeld Schouten-Lebbing] (2023-02-03)
-- Commit daily changes • [`848e517`](https://github.com/truecharts/charts/commit/848e5175c3efbf8fc3e273b0a03dad67053a4205) • [@TrueCharts-Bot] (2023-02-03)
-- Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/truecharts/charts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
 - Commit daily changes • [`2a8f5c5`](https://github.com/truecharts/charts/commit/2a8f5c58e44ce967263ab487d2e68d4cb839e51c) • [@TrueCharts-Bot] (2023-02-03)
-- chore(deps): update container image tccr.io/truecharts/rimgo to latest • [`c560f16`](https://github.com/truecharts/charts/commit/c560f1683a79c56dc4cb3d30d65c903e72bdd2dd) • [@TrueCharts-Admin] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`b92fcb2`](https://github.com/truecharts/charts/commit/b92fcb20b141c1d5f30a1c83604f6e887827804c) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- Revert &#34;Commit daily changes&#34; • [`110ae61`](https://github.com/truecharts/charts/commit/110ae6125b24f4a5def05781696141f3ff44ed12) • [@Kjeld Schouten-Lebbing] (2023-02-03)
+- Commit daily changes • [`35f77ed`](https://github.com/truecharts/charts/commit/35f77ed72d81a81a31e9d92d67f39a220022c450) • [@TrueCharts-Bot] (2023-02-03)
 - Commit daily changes • [`208c291`](https://github.com/truecharts/charts/commit/208c2919fec945cc14276a229222915ae0ec50b4) • [@TrueCharts-Bot] (2023-02-03)
-- Commit daily changes • [`adda47b`](https://github.com/truecharts/charts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
+- Commit daily changes • [`848e517`](https://github.com/truecharts/charts/commit/848e5175c3efbf8fc3e273b0a03dad67053a4205) • [@TrueCharts-Bot] (2023-02-03)
+- chore(deps): update container image tccr.io/truecharts/rimgo to latest • [`c560f16`](https://github.com/truecharts/charts/commit/c560f1683a79c56dc4cb3d30d65c903e72bdd2dd) • [@TrueCharts-Admin] (2023-02-03)
 - Commit daily changes • [`ed743f6`](https://github.com/truecharts/charts/commit/ed743f6c5c2534c39143d6f822d19bb47913ecd2) • [@TrueCharts-Bot] (2023-02-01)
+- Commit daily changes • [`adda47b`](https://github.com/truecharts/charts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
 - Commit daily changes • [`0fb22dd`](https://github.com/truecharts/charts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
-- Commit daily changes • [`ed66075`](https://github.com/truecharts/charts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`dfff570`](https://github.com/truecharts/charts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`3f63d20`](https://github.com/truecharts/charts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
-- Commit bumped Chart Version • [`e95a501`](https://github.com/truecharts/charts/commit/e95a50171beb7cc1ee6ed86b593f767c73886cb9) • [@TrueCharts-Bot] (2023-01-24)
+- Commit daily changes • [`ed66075`](https://github.com/truecharts/charts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
 - Merge pull request #6661 from truecharts/renovate/tccr.io-truecharts-rimgo-latest • [`1532123`](https://github.com/truecharts/charts/commit/15321239f7572a71ad513f2b0160cdc90762e8e4) • [@TrueCharts Bot] (2023-01-24)
+- Commit bumped Chart Version • [`e95a501`](https://github.com/truecharts/charts/commit/e95a50171beb7cc1ee6ed86b593f767c73886cb9) • [@TrueCharts-Bot] (2023-01-24)
 
 ## 2.0.17 • [Train: incubator]
 
@@ -1024,8 +1024,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 2.0.16 • [Train: incubator]
 
 - chore(deps): update container image tccr.io/truecharts/rimgo to latest • [`9c97f13`](https://github.com/truecharts/charts/commit/9c97f134e7f960961f89fcf1f4039f01abc003b1) • [@TrueCharts-Admin] (2023-01-18)
-- Merge pull request #6313 from truecharts/renovate/tccr.io-truecharts-rimgo-latest • [`fc3cde9`](https://github.com/truecharts/charts/commit/fc3cde9c600641516351dc59cd34609621d26ada) • [@TrueCharts Bot] (2023-01-12)
 - Commit bumped Chart Version • [`5349a22`](https://github.com/truecharts/charts/commit/5349a223009bfc9221e539edd57913af9a74689d) • [@TrueCharts-Bot] (2023-01-12)
+- Merge pull request #6313 from truecharts/renovate/tccr.io-truecharts-rimgo-latest • [`fc3cde9`](https://github.com/truecharts/charts/commit/fc3cde9c600641516351dc59cd34609621d26ada) • [@TrueCharts Bot] (2023-01-12)
 
 ## 2.0.15 • [Train: incubator]
 
@@ -1075,8 +1075,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.6 • [Train: incubator]
 
-- Merge pull request #4953 from truecharts/renovate/tccr.io-truecharts-rimgo-latest • [`5be7548`](https://github.com/truecharts/charts/commit/5be75483012c79f24d6cbe80f91fbf9e31bcca4a) • [@TrueCharts Bot] (2022-11-29)
 - Commit bumped Chart Version • [`1a42c46`](https://github.com/truecharts/charts/commit/1a42c463f094e68a6e30e098e231ef4621143a04) • [@TrueCharts-Bot] (2022-11-29)
+- Merge pull request #4953 from truecharts/renovate/tccr.io-truecharts-rimgo-latest • [`5be7548`](https://github.com/truecharts/charts/commit/5be75483012c79f24d6cbe80f91fbf9e31bcca4a) • [@TrueCharts Bot] (2022-11-29)
 
 ## 2.0.5 • [Train: incubator]
 
@@ -1159,10 +1159,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.106 • [Train: incubator]
 
+- chore: Auto-update chart README [skip ci] • [`6053fd9`](https://github.com/truecharts/charts/commit/6053fd928080c895ac04de0d8509550c46a04ace) • [@truecharts-bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`9ba8308`](https://github.com/truecharts/charts/commit/9ba8308ab3a3d7ea99da57d1b0054292e4d08753) • [@truecharts-bot] (2022-11-08)
 - chore(deps): update helm general non-major (#4342) • [`ec3d563`](https://github.com/truecharts/charts/commit/ec3d56395c3202bfad45c19266686bf4c5315f01) • [@TrueCharts Bot] (2022-11-08)
 - chore: Auto-update chart README [skip ci] • [`3180582`](https://github.com/truecharts/charts/commit/31805828c6aed71e55a911fb3aef5b5c9916ad3b) • [@truecharts-bot] (2022-11-08)
-- chore: Auto-update chart README [skip ci] • [`6053fd9`](https://github.com/truecharts/charts/commit/6053fd928080c895ac04de0d8509550c46a04ace) • [@truecharts-bot] (2022-11-08)
 
 ## 0.0.105 • [Train: incubator]
 
@@ -1176,8 +1176,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.103 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`e5bdcae`](https://github.com/truecharts/charts/commit/e5bdcaea0fe5ba99bbf73e66030894594ecd9754) • [@truecharts-bot] (2022-11-06)
 - chore(deps): update helm general non-major (#4317) • [`2275750`](https://github.com/truecharts/charts/commit/227575098c2c6bfa994215eb2f9d4eedbdde2192) • [@TrueCharts Bot] (2022-11-06)
+- chore: Auto-update chart README [skip ci] • [`e5bdcae`](https://github.com/truecharts/charts/commit/e5bdcaea0fe5ba99bbf73e66030894594ecd9754) • [@truecharts-bot] (2022-11-06)
 
 ## 0.0.102 • [Train: incubator]
 
@@ -1217,13 +1217,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.95 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`074aaa7`](https://github.com/truecharts/charts/commit/074aaa72f01c14ce1d603d6bceff7b8b8d5a63f9) • [@truecharts-bot] (2022-10-31)
 - chore(deps): update docker general non-major (#4249) • [`f8c10a1`](https://github.com/truecharts/charts/commit/f8c10a1fb3fcb8f2a151561abd1e5c3761da997d) • [@TrueCharts Bot] (2022-10-31)
+- chore: Auto-update chart README [skip ci] • [`074aaa7`](https://github.com/truecharts/charts/commit/074aaa72f01c14ce1d603d6bceff7b8b8d5a63f9) • [@truecharts-bot] (2022-10-31)
 
 ## 0.0.94 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#4238) • [`d645fc2`](https://github.com/truecharts/charts/commit/d645fc2909544da1ecf041e3e7914486d31e18f2) • [@TrueCharts Bot] (2022-10-30)
 - chore: Auto-update chart README [skip ci] • [`4b4fc72`](https://github.com/truecharts/charts/commit/4b4fc72e5a0d2da95c866038a5d00c9d1bdf4c03) • [@truecharts-bot] (2022-10-30)
+- chore(deps): update docker general non-major (#4238) • [`d645fc2`](https://github.com/truecharts/charts/commit/d645fc2909544da1ecf041e3e7914486d31e18f2) • [@TrueCharts Bot] (2022-10-30)
 
 ## 0.0.93 • [Train: incubator]
 
@@ -1243,8 +1243,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.90 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`9b0f318`](https://github.com/truecharts/charts/commit/9b0f318a8cd85d22a8cd5e4986dda0702a8ca3fb) • [@truecharts-bot] (2022-10-26)
 - chore(deps): update docker general non-major (#4189) • [`e3b5269`](https://github.com/truecharts/charts/commit/e3b5269604871a2b60e4507318ec07822d59ea5f) • [@TrueCharts Bot] (2022-10-26)
+- chore: Auto-update chart README [skip ci] • [`9b0f318`](https://github.com/truecharts/charts/commit/9b0f318a8cd85d22a8cd5e4986dda0702a8ca3fb) • [@truecharts-bot] (2022-10-26)
 
 ## 0.0.89 • [Train: incubator]
 
@@ -1258,8 +1258,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.87 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`4caa699`](https://github.com/truecharts/charts/commit/4caa69981012ece04aca59b99e69af2e628f1ef1) • [@truecharts-bot] (2022-10-24)
 - chore(deps): update docker general non-major (#4171) • [`819eb3b`](https://github.com/truecharts/charts/commit/819eb3b7b16d4e6096f45c28685ec64908b29d5c) • [@TrueCharts Bot] (2022-10-24)
+- chore: Auto-update chart README [skip ci] • [`4caa699`](https://github.com/truecharts/charts/commit/4caa69981012ece04aca59b99e69af2e628f1ef1) • [@truecharts-bot] (2022-10-24)
 
 ## 0.0.86 • [Train: incubator]
 
@@ -1268,13 +1268,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.85 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#4139) • [`fe38c5e`](https://github.com/truecharts/charts/commit/fe38c5e074604feb3cb8831be96c69ff53c71f94) • [@TrueCharts Bot] (2022-10-21)
 - chore: Auto-update chart README [skip ci] • [`9928580`](https://github.com/truecharts/charts/commit/99285803ca51af65ad786c4430ccb021bf7111a8) • [@truecharts-bot] (2022-10-21)
+- chore(deps): update docker general non-major (#4139) • [`fe38c5e`](https://github.com/truecharts/charts/commit/fe38c5e074604feb3cb8831be96c69ff53c71f94) • [@TrueCharts Bot] (2022-10-21)
 
 ## 0.0.84 • [Train: incubator]
 
-- chore(deps): update helm general non-major (#4122) • [`f9b94b9`](https://github.com/truecharts/charts/commit/f9b94b9665e41e1c7b61be68e2a9fbdd75fe60d6) • [@TrueCharts Bot] (2022-10-19)
 - chore: Auto-update chart README [skip ci] • [`1d2e896`](https://github.com/truecharts/charts/commit/1d2e896809ccc1ef5849bec134329a01c5b31141) • [@truecharts-bot] (2022-10-19)
+- chore(deps): update helm general non-major (#4122) • [`f9b94b9`](https://github.com/truecharts/charts/commit/f9b94b9665e41e1c7b61be68e2a9fbdd75fe60d6) • [@TrueCharts Bot] (2022-10-19)
 
 ## 0.0.83 • [Train: incubator]
 
@@ -1283,8 +1283,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.82 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`5f5f5f2`](https://github.com/truecharts/charts/commit/5f5f5f2fbdefa0cdc654f095ce2172462f4364b3) • [@truecharts-bot] (2022-10-16)
 - chore(deps): update docker general non-major (#4108) • [`bf74ab3`](https://github.com/truecharts/charts/commit/bf74ab3b3a9ee291362817c8a442f8a3bc4a6812) • [@TrueCharts Bot] (2022-10-16)
+- chore: Auto-update chart README [skip ci] • [`5f5f5f2`](https://github.com/truecharts/charts/commit/5f5f5f2fbdefa0cdc654f095ce2172462f4364b3) • [@truecharts-bot] (2022-10-16)
 
 ## 0.0.81 • [Train: incubator]
 
@@ -1293,24 +1293,24 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.80 • [Train: incubator]
 
-- chore(deps): update docker general non-major • [`aaf6498`](https://github.com/truecharts/charts/commit/aaf6498e584da3ee8b1edf67c93aa4b4b76e1800) • [@TrueCharts-Admin] (2022-10-15)
 - chore(deps): update docker general non-major (#4084) • [`ef2f489`](https://github.com/truecharts/charts/commit/ef2f489611b5750ca4b2da69a99760d0b6d1ffab) • [@TrueCharts Bot] (2022-10-15)
 - chore: Auto-update chart README [skip ci] • [`7612d13`](https://github.com/truecharts/charts/commit/7612d13f9428a936e2d02305d2d04fca6323dc58) • [@truecharts-bot] (2022-10-15)
+- chore(deps): update docker general non-major • [`aaf6498`](https://github.com/truecharts/charts/commit/aaf6498e584da3ee8b1edf67c93aa4b4b76e1800) • [@TrueCharts-Admin] (2022-10-15)
 
 ## 0.0.79 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`e87e8f8`](https://github.com/truecharts/charts/commit/e87e8f8eece9cb8850c08370035183405a5b40be) • [@truecharts-bot] (2022-10-12)
 - chore(deps): update helm general non-major (#4071) • [`d0b19f4`](https://github.com/truecharts/charts/commit/d0b19f499332d2ce51f80580871fb36165f0e641) • [@TrueCharts Bot] (2022-10-12)
+- chore: Auto-update chart README [skip ci] • [`e87e8f8`](https://github.com/truecharts/charts/commit/e87e8f8eece9cb8850c08370035183405a5b40be) • [@truecharts-bot] (2022-10-12)
 
 ## 0.0.78 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#4070) • [`96921b1`](https://github.com/truecharts/charts/commit/96921b16e5749d068cbf6c5e5b5ab578f060c004) • [@TrueCharts Bot] (2022-10-11)
 - chore: Auto-update chart README [skip ci] • [`d5e2f15`](https://github.com/truecharts/charts/commit/d5e2f150fd5d50151ef731b5f790716e07cc3350) • [@truecharts-bot] (2022-10-11)
+- chore(deps): update docker general non-major (#4070) • [`96921b1`](https://github.com/truecharts/charts/commit/96921b16e5749d068cbf6c5e5b5ab578f060c004) • [@TrueCharts Bot] (2022-10-11)
 
 ## 0.0.77 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#4049) • [`42614ba`](https://github.com/truecharts/charts/commit/42614bad5e67cce4d19c0c1fb41c4bbf67be7586) • [@TrueCharts Bot] (2022-10-10)
 - chore: Auto-update chart README [skip ci] • [`01f79b1`](https://github.com/truecharts/charts/commit/01f79b1fcb53d74660e0415baf96526a1701c80c) • [@truecharts-bot] (2022-10-10)
+- chore(deps): update docker general non-major (#4049) • [`42614ba`](https://github.com/truecharts/charts/commit/42614bad5e67cce4d19c0c1fb41c4bbf67be7586) • [@TrueCharts Bot] (2022-10-10)
 
 ## 0.0.76 • [Train: incubator]
 
@@ -1331,8 +1331,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.73 • [Train: incubator]
 
 - chore(deps): update docker general non-major • [`a1bf9ef`](https://github.com/truecharts/charts/commit/a1bf9efe33f26f3b155faa815e22ac0d9cf5ac35) • [@TrueCharts-Admin] (2022-10-07)
-- Merge branch &#39;renovate/helm-general-non-major&#39; • [`4983f98`](https://github.com/truecharts/charts/commit/4983f98ea8c3789c1373889db5b6727df9dc4339) • [@Kjeld Schouten-Lebbing] (2022-10-06)
 - chore: Auto-update chart README [skip ci] • [`4cb54af`](https://github.com/truecharts/charts/commit/4cb54af1ba8d56067960772c50bfa2e053216683) • [@truecharts-bot] (2022-10-06)
+- Merge branch &#39;renovate/helm-general-non-major&#39; • [`4983f98`](https://github.com/truecharts/charts/commit/4983f98ea8c3789c1373889db5b6727df9dc4339) • [@Kjeld Schouten-Lebbing] (2022-10-06)
 - chore(deps): update helm general non-major • [`5e88a86`](https://github.com/truecharts/charts/commit/5e88a86bff586d09fb8a6a913dc0c788e7d3bf95) • [@TrueCharts-Admin] (2022-10-05)
 
 ## 0.0.72 • [Train: incubator]
@@ -1352,8 +1352,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.69 • [Train: incubator]
 
-- chore(apps): split addons in smaller templates (#3979) • [`f961cff`](https://github.com/truecharts/charts/commit/f961cff8141558b36adcca87008bfe63e3950ab7) • [@Stavros Kois] (2022-10-02)
 - chore(deps): update docker general non-major • [`b173238`](https://github.com/truecharts/charts/commit/b173238863423a720a2175d9056ab8c0d9ba90ce) • [@TrueCharts-Admin] (2022-10-02)
+- chore(apps): split addons in smaller templates (#3979) • [`f961cff`](https://github.com/truecharts/charts/commit/f961cff8141558b36adcca87008bfe63e3950ab7) • [@Stavros Kois] (2022-10-02)
 - chore: Auto-update chart README [skip ci] • [`c3e6178`](https://github.com/truecharts/charts/commit/c3e617856daf0e3555abfc9d279ab59886df42e4) • [@truecharts-bot] (2022-10-01)
 - chore(deps): update docker general non-major (#3975) • [`e1cbd7c`](https://github.com/truecharts/charts/commit/e1cbd7c0cb4d951cc1b2446236f24f4bc69194dd) • [@TrueCharts Bot] (2022-10-01)
 
@@ -1364,9 +1364,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.67 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`d182fa2`](https://github.com/truecharts/charts/commit/d182fa2a679144807796a12a6e43a4527c3ffdb0) • [@truecharts-bot] (2022-09-29)
 - chore(deps): update docker general non-major (#3953) • [`10145a1`](https://github.com/truecharts/charts/commit/10145a18799ebabea5b8d9b539433cbdff0b15cc) • [@TrueCharts Bot] (2022-09-29)
 - chore: Auto-update chart README [skip ci] • [`3be727a`](https://github.com/truecharts/charts/commit/3be727ac114c5d1a55700691ed8a91badb0ec3f0) • [@truecharts-bot] (2022-09-29)
+- chore: Auto-update chart README [skip ci] • [`d182fa2`](https://github.com/truecharts/charts/commit/d182fa2a679144807796a12a6e43a4527c3ffdb0) • [@truecharts-bot] (2022-09-29)
 
 ## 0.0.66 • [Train: incubator]
 
@@ -1375,9 +1375,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.65 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#3920) • [`8c6c2c2`](https://github.com/truecharts/charts/commit/8c6c2c2d73c3d0a41512b406aa9a5287b6f1e564) • [@TrueCharts Bot] (2022-09-27)
 - chore: Auto-update chart README [skip ci] • [`2d56d50`](https://github.com/truecharts/charts/commit/2d56d5068994bb6e38f91697996011aeaabcdd78) • [@truecharts-bot] (2022-09-27)
 - chore(deps): update helm general non-major (#3918) • [`76c168c`](https://github.com/truecharts/charts/commit/76c168c11d21c97f7dd9ebd0261ddc7a8f158ef5) • [@TrueCharts Bot] (2022-09-27)
+- chore(deps): update docker general non-major (#3920) • [`8c6c2c2`](https://github.com/truecharts/charts/commit/8c6c2c2d73c3d0a41512b406aa9a5287b6f1e564) • [@TrueCharts Bot] (2022-09-27)
 
 ## 0.0.64 • [Train: incubator]
 
@@ -1386,8 +1386,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.63 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`6053186`](https://github.com/truecharts/charts/commit/60531868921f9735f782d7a5e5af0a1a3e6d1291) • [@truecharts-bot] (2022-09-25)
 - chore(deps): update helm general non-major (#3898) • [`cb5a369`](https://github.com/truecharts/charts/commit/cb5a369c9690db68402b06d06125a2e5bb1ce490) • [@TrueCharts Bot] (2022-09-25)
+- chore: Auto-update chart README [skip ci] • [`6053186`](https://github.com/truecharts/charts/commit/60531868921f9735f782d7a5e5af0a1a3e6d1291) • [@truecharts-bot] (2022-09-25)
 
 ## 0.0.62 • [Train: incubator]
 
@@ -1401,8 +1401,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.60 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#3850) • [`1daf654`](https://github.com/truecharts/charts/commit/1daf654677a5a5d303abfbe6e03d95195b3c002e) • [@TrueCharts Bot] (2022-09-23)
 - chore: Auto-update chart README [skip ci] • [`df5227b`](https://github.com/truecharts/charts/commit/df5227ba9927089752f9f305845a271912f78d07) • [@truecharts-bot] (2022-09-23)
+- chore(deps): update docker general non-major (#3850) • [`1daf654`](https://github.com/truecharts/charts/commit/1daf654677a5a5d303abfbe6e03d95195b3c002e) • [@TrueCharts Bot] (2022-09-23)
 
 ## 0.0.59 • [Train: incubator]
 
@@ -1416,8 +1416,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.57 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`27eaf3c`](https://github.com/truecharts/charts/commit/27eaf3cd8ebf915df61e1b78ae62f925d0d0d33d) • [@truecharts-bot] (2022-09-21)
 - chore: Auto-update chart README [skip ci] • [`f2be506`](https://github.com/truecharts/charts/commit/f2be506cef39683b2cdcae6850e015c7d1b5d018) • [@truecharts-bot] (2022-09-21)
+- chore: Auto-update chart README [skip ci] • [`27eaf3c`](https://github.com/truecharts/charts/commit/27eaf3cd8ebf915df61e1b78ae62f925d0d0d33d) • [@truecharts-bot] (2022-09-21)
 - chore(deps): update docker general non-major (#3818) • [`517b365`](https://github.com/truecharts/charts/commit/517b36567c9ce053dd5f4f94aceb3d002b399b19) • [@TrueCharts Bot] (2022-09-20)
 - chore: Auto-update chart README [skip ci] • [`f71bda7`](https://github.com/truecharts/charts/commit/f71bda701953f94e4e49e480471dcd61d0239b12) • [@truecharts-bot] (2022-09-20)
 
@@ -1436,9 +1436,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(Apps): refactor Services SCALE GUI • [`7be0dcb`](https://github.com/truecharts/charts/commit/7be0dcbe6d5d235f67c6b69a361d1ca2d1abb677) • [@Kjeld Schouten-Lebbing] (2022-09-17)
 - chore: Auto-update chart README [skip ci] • [`4a7979b`](https://github.com/truecharts/charts/commit/4a7979b1bd9f1a5263c7f991fe61d7c0a85a04b8) • [@truecharts-bot] (2022-09-16)
 - chore: Auto-update chart README [skip ci] • [`c99b62f`](https://github.com/truecharts/charts/commit/c99b62f699113e678af5efdfa633e298f9f55ae6) • [@truecharts-bot] (2022-09-16)
+- chore(deps): update docker general non-major (#3772) • [`f0757f0`](https://github.com/truecharts/charts/commit/f0757f0e2c8bc8effa6294b0ae37949caf041f77) • [@TrueCharts Bot] (2022-09-15)
 - chore(deps): update helm general non-major (#3767) • [`48e5471`](https://github.com/truecharts/charts/commit/48e5471458985ee1f873de03ebeb17415eea5575) • [@TrueCharts Bot] (2022-09-15)
 - chore: Auto-update chart README [skip ci] • [`682efa1`](https://github.com/truecharts/charts/commit/682efa11c4aed3ea9e4b4fd7b409c43e40cb9407) • [@truecharts-bot] (2022-09-15)
-- chore(deps): update docker general non-major (#3772) • [`f0757f0`](https://github.com/truecharts/charts/commit/f0757f0e2c8bc8effa6294b0ae37949caf041f77) • [@TrueCharts Bot] (2022-09-15)
 
 ## 0.0.54 • [Train: incubator]
 
@@ -1455,21 +1455,21 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.52 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`a23c49a`](https://github.com/truecharts/charts/commit/a23c49adc9ca593586f8a4b6f23d202cbba351ce) • [@truecharts-bot] (2022-09-11)
 - chore: Auto-update chart README [skip ci] • [`44a77cd`](https://github.com/truecharts/charts/commit/44a77cd0ddf59c2a29e472b72ee068832e5aee8d) • [@truecharts-bot] (2022-09-11)
 - chore(deps): update docker general non-major (#3736) • [`4dc32a9`](https://github.com/truecharts/charts/commit/4dc32a9142d92bed95853065bf7ef56e9bf4ba5f) • [@TrueCharts Bot] (2022-09-11)
 - chore: Auto-update chart README [skip ci] • [`5ac2a97`](https://github.com/truecharts/charts/commit/5ac2a97847c332e170723527708a74d52153b457) • [@truecharts-bot] (2022-09-11)
 - chore(deps): update helm general non-major (#3711) • [`845ea2d`](https://github.com/truecharts/charts/commit/845ea2d896360075af8c1b78e2421931b22aa31b) • [@TrueCharts Bot] (2022-09-11)
+- chore: Auto-update chart README [skip ci] • [`a23c49a`](https://github.com/truecharts/charts/commit/a23c49adc9ca593586f8a4b6f23d202cbba351ce) • [@truecharts-bot] (2022-09-11)
 
 ## 0.0.51 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#3727) • [`ea7f789`](https://github.com/truecharts/charts/commit/ea7f789975328fa2b234403f924706c4cb57b81b) • [@TrueCharts Bot] (2022-09-10)
 - chore: Auto-update chart README [skip ci] • [`88413ad`](https://github.com/truecharts/charts/commit/88413ad80a4fdff69f8fb697448c570c961f3022) • [@truecharts-bot] (2022-09-10)
+- chore(deps): update docker general non-major (#3727) • [`ea7f789`](https://github.com/truecharts/charts/commit/ea7f789975328fa2b234403f924706c4cb57b81b) • [@TrueCharts Bot] (2022-09-10)
 
 ## 0.0.50 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`9f560d7`](https://github.com/truecharts/charts/commit/9f560d7e603fa1fcf59f58d9794229b673710046) • [@truecharts-bot] (2022-09-07)
 - chore: Auto-update chart README [skip ci] • [`3a74564`](https://github.com/truecharts/charts/commit/3a74564c161a3ab8a3a0f89ced8b707efffb3e2c) • [@truecharts-bot] (2022-09-07)
+- chore: Auto-update chart README [skip ci] • [`9f560d7`](https://github.com/truecharts/charts/commit/9f560d7e603fa1fcf59f58d9794229b673710046) • [@truecharts-bot] (2022-09-07)
 - chore(deps): update docker general non-major (#3710) • [`ca1ab59`](https://github.com/truecharts/charts/commit/ca1ab59a6afb2291a6ea650c953182020942053a) • [@TrueCharts Bot] (2022-09-06)
 
 ## 0.0.49 • [Train: incubator]
@@ -1490,8 +1490,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.46 • [Train: incubator]
 
-- chore(deps): update docker general non-major (#3649) • [`0323528`](https://github.com/truecharts/charts/commit/03235287c8cf6de20d0cd4826dd2dced06f34b7d) • [@TrueCharts Bot] (2022-09-01)
 - chore: Auto-update chart README [skip ci] • [`6d2ac64`](https://github.com/truecharts/charts/commit/6d2ac64f01ff45f5ffab6baff62f0ba5145b0e90) • [@truecharts-bot] (2022-09-01)
+- chore(deps): update docker general non-major (#3649) • [`0323528`](https://github.com/truecharts/charts/commit/03235287c8cf6de20d0cd4826dd2dced06f34b7d) • [@TrueCharts Bot] (2022-09-01)
 
 ## 0.0.45 • [Train: incubator]
 
@@ -1500,8 +1500,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.44 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`bf8dc14`](https://github.com/truecharts/charts/commit/bf8dc14eb16d267b4406bd36fcd6c8a70f0b01f2) • [@truecharts-bot] (2022-08-31)
 - chore(deps): update helm general non-major (#3639) • [`9627a97`](https://github.com/truecharts/charts/commit/9627a97001b2ecb41800fa1c95d38d55e68f259a) • [@TrueCharts Bot] (2022-08-31)
+- chore: Auto-update chart README [skip ci] • [`bf8dc14`](https://github.com/truecharts/charts/commit/bf8dc14eb16d267b4406bd36fcd6c8a70f0b01f2) • [@truecharts-bot] (2022-08-31)
 
 ## 0.0.43 • [Train: incubator]
 
@@ -1549,8 +1549,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.33 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`a1fa0a5`](https://github.com/truecharts/charts/commit/a1fa0a5bbe024bde2c9a4f8b0ba5001d40f59553) • [@truecharts-bot] (2022-08-24)
 - chore(deps): update docker general non-major (#3552) • [`e44eb95`](https://github.com/truecharts/charts/commit/e44eb9524b5adf50f38d2fbb90f21435e2c8a532) • [@TrueCharts Bot] (2022-08-24)
+- chore: Auto-update chart README [skip ci] • [`a1fa0a5`](https://github.com/truecharts/charts/commit/a1fa0a5bbe024bde2c9a4f8b0ba5001d40f59553) • [@truecharts-bot] (2022-08-24)
 
 ## 0.0.32 • [Train: incubator]
 
@@ -1559,8 +1559,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.31 • [Train: incubator]
 
-- chore(deps): update docker general non-major docker tags (#3544) • [`6146b43`](https://github.com/truecharts/charts/commit/6146b4368ea8422e3b6766594e93fabb96cec457) • [@TrueCharts Bot] (2022-08-23)
 - chore: Auto-update chart README [skip ci] • [`ed97837`](https://github.com/truecharts/charts/commit/ed978370b685cf7abcd9151f224b49d87a6d5901) • [@truecharts-bot] (2022-08-23)
+- chore(deps): update docker general non-major docker tags (#3544) • [`6146b43`](https://github.com/truecharts/charts/commit/6146b4368ea8422e3b6766594e93fabb96cec457) • [@TrueCharts Bot] (2022-08-23)
 
 ## 0.0.30 • [Train: incubator]
 
@@ -1574,13 +1574,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.28 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`847ef1f`](https://github.com/truecharts/charts/commit/847ef1f3b91fd8f2916494cf6f2cc3eb4b3b776e) • [@truecharts-bot] (2022-08-19)
 - chore(deps): update docker general non-major docker tags (#3512) • [`8ff1c4b`](https://github.com/truecharts/charts/commit/8ff1c4bac8ae6c6cd10e3f1681ac1f84bfa6d305) • [@TrueCharts Bot] (2022-08-19)
+- chore: Auto-update chart README [skip ci] • [`847ef1f`](https://github.com/truecharts/charts/commit/847ef1f3b91fd8f2916494cf6f2cc3eb4b3b776e) • [@truecharts-bot] (2022-08-19)
 
 ## 0.0.27 • [Train: incubator]
 
-- chore: Auto-update chart README [skip ci] • [`e7ad5da`](https://github.com/truecharts/charts/commit/e7ad5da84ce526ed2ad71bf817d71d39b7f1e7d2) • [@truecharts-bot] (2022-08-18)
 - chore(deps): update docker general non-major (#3503) • [`9125a76`](https://github.com/truecharts/charts/commit/9125a76065e500b0e0b9e10b2e207a4a59c66d6d) • [@TrueCharts Bot] (2022-08-18)
+- chore: Auto-update chart README [skip ci] • [`e7ad5da`](https://github.com/truecharts/charts/commit/e7ad5da84ce526ed2ad71bf817d71d39b7f1e7d2) • [@truecharts-bot] (2022-08-18)
 
 ## 0.0.26 • [Train: incubator]
 
@@ -1604,8 +1604,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.22 • [Train: incubator]
 
-- fix(templates): move extraArgs from .Values.controller to .Values (#3447) • [`16fbffb`](https://github.com/truecharts/charts/commit/16fbffb9619eabdcd61815fb4ba05befd3b3a445) • [@Stavros Kois] (2022-08-12)
 - chore(charts): add documentation checkbox/section to all SCALE Apps • [`c5b2f8f`](https://github.com/truecharts/charts/commit/c5b2f8f13fed522864da2b29417f5875eca79216) • [@Kjeld Schouten-Lebbing] (2022-08-12)
+- fix(templates): move extraArgs from .Values.controller to .Values (#3447) • [`16fbffb`](https://github.com/truecharts/charts/commit/16fbffb9619eabdcd61815fb4ba05befd3b3a445) • [@Stavros Kois] (2022-08-12)
 - chore: Auto-update chart README [skip ci] • [`81c25be`](https://github.com/truecharts/charts/commit/81c25be9bcbb203d972ae241d435e9c02fb31b99) • [@truecharts-bot] (2022-08-10)
 - chore(deps): update docker general non-major (#3421) • [`ca2970f`](https://github.com/truecharts/charts/commit/ca2970fc0170553f661dea359eede66ff08488ed) • [@TrueCharts Bot] (2022-08-10)
 
@@ -1632,8 +1632,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 0.0.17 • [Train: incubator]
 
 - chore(deps): update docker general non-major • [`94b4fe3`](https://github.com/truecharts/charts/commit/94b4fe389cbc2d52a8d860b5b996a2897364a681) • [@TrueCharts-Bot] (2022-07-30)
-- chore: Auto-update chart README [skip ci] • [`5640486`](https://github.com/truecharts/charts/commit/56404863a2117fbe31bfd7c5c6cfb492354ffcb6) • [@truecharts-bot] (2022-07-29)
 - chore(deps): update docker general non-major (#3339) • [`d054c50`](https://github.com/truecharts/charts/commit/d054c5069dff36ed04de370181ec58263aa8e889) • [@TrueCharts Bot] (2022-07-29)
+- chore: Auto-update chart README [skip ci] • [`5640486`](https://github.com/truecharts/charts/commit/56404863a2117fbe31bfd7c5c6cfb492354ffcb6) • [@truecharts-bot] (2022-07-29)
 
 ## 0.0.16 • [Train: incubator]
 
@@ -1647,10 +1647,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.14 • [Train: incubator]
 
+- chore(deps): update helm general non-major helm releases (#3302) • [`54e805a`](https://github.com/truecharts/charts/commit/54e805ab4d77ef20d2d0c1dd77d3f2d9c80e4094) • [@TrueCharts Bot] (2022-07-26)
 - chore(apps): update home links (#3291) • [`714090a`](https://github.com/truecharts/charts/commit/714090aa6e3881bd932c1acabd322435cdd2f4fd) • [@Stavros Kois] (2022-07-26)
 - chore: Auto-update chart README [skip ci] • [`80ef023`](https://github.com/truecharts/charts/commit/80ef02312bb72c092162318261a699904ed89d4a) • [@truecharts-bot] (2022-07-26)
 - chore(deps): update docker general non-major (#3301) • [`b7bc2f1`](https://github.com/truecharts/charts/commit/b7bc2f1b377df374c47fee2cf45032b1dee835e3) • [@TrueCharts Bot] (2022-07-26)
-- chore(deps): update helm general non-major helm releases (#3302) • [`54e805a`](https://github.com/truecharts/charts/commit/54e805ab4d77ef20d2d0c1dd77d3f2d9c80e4094) • [@TrueCharts Bot] (2022-07-26)
 
 ## 0.0.13 • [Train: incubator]
 
@@ -1661,9 +1661,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Chore(apps): add fake digest to new incubator Apps to fetch digests • [`ef296cb`](https://github.com/truecharts/charts/commit/ef296cb0ecfcf469e039a9700af150e7555ec839) • [@Kjeld Schouten-Lebbing] (2022-07-25)
 - chore: Auto-update chart README [skip ci] • [`8358b36`](https://github.com/truecharts/charts/commit/8358b360f54c73f65c1ef36dbc458aa80c6f5c29) • [@truecharts-bot] (2022-07-24)
+- chore(deps): update helm general non-major helm releases (#3280) • [`f9940cb`](https://github.com/truecharts/charts/commit/f9940cb96a06bbc33feab33c47429761c9afe900) • [@TrueCharts Bot] (2022-07-23)
 - chore: Auto-update chart README [skip ci] • [`d550776`](https://github.com/truecharts/charts/commit/d550776924860b5a1037f0ef3f23237eacc846e7) • [@truecharts-bot] (2022-07-23)
 - chore: Auto-update chart README [skip ci] • [`f3fb628`](https://github.com/truecharts/charts/commit/f3fb628bbdc4c357543efc71ebe432666e8ce956) • [@truecharts-bot] (2022-07-23)
-- chore(deps): update helm general non-major helm releases (#3280) • [`f9940cb`](https://github.com/truecharts/charts/commit/f9940cb96a06bbc33feab33c47429761c9afe900) • [@TrueCharts Bot] (2022-07-23)
 
 ## 0.0.11 • [Train: incubator]
 
@@ -1672,7 +1672,7 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.10 • [Train: dev]
 
-- chore(incubator): Move Dev to incubator and some cleanup • [`2c06051`](https://github.com/truecharts/charts/commit/2c06051625cb75b04eea2d14bbf01696ff6047b7) • [@Kjeld Schouten-Lebbing] (2022-07-22)
-- chore: Auto-update chart README [skip ci] • [`80c3b3d`](https://github.com/truecharts/charts/commit/80c3b3d3268f704f5ed617b67b556326a6644fdb) • [@truecharts-bot] (2022-07-22)
 - chore: Auto-update chart README [skip ci] • [`b3518ae`](https://github.com/truecharts/charts/commit/b3518ae60ff95888dba5d68902a868b68f7ae32d) • [@truecharts-bot] (2022-07-22)
 - Unraid Bulk Checks (#3235) • [`d33f952`](https://github.com/truecharts/charts/commit/d33f952798a81ee01881233f8cf63f3d97584998) • [@Kjeld Schouten-Lebbing] (2022-07-22)
+- chore(incubator): Move Dev to incubator and some cleanup • [`2c06051`](https://github.com/truecharts/charts/commit/2c06051625cb75b04eea2d14bbf01696ff6047b7) • [@Kjeld Schouten-Lebbing] (2022-07-22)
+- chore: Auto-update chart README [skip ci] • [`80c3b3d`](https://github.com/truecharts/charts/commit/80c3b3d3268f704f5ed617b67b556326a6644fdb) • [@truecharts-bot] (2022-07-22)

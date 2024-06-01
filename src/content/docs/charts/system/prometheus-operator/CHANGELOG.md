@@ -14,8 +14,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 7.1.0 • [Train: system]
 
 - Commit daily changes • [`ca008eb`](https://github.com/truecharts/charts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/truecharts/charts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/truecharts/charts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
+- chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/truecharts/charts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
 - chore(deps): update ignored by renovate (major) (#21660) • [`49d4258`](https://github.com/truecharts/charts/commit/49d425876349e302ad2a94fccc2cd098d78337ff) • [@TrueCharts Bot] (2024-05-30)
 
 ## 7.0.4 • [Train: system]
@@ -90,10 +90,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 6.10.4 • [Train: system]
 
+- chore(docs): make links relative • [`5ba71e6`](https://github.com/truecharts/charts/commit/5ba71e6ec30b5defcdb5340f0776cc6362db5511) • [@Stavros Kois] (2024-04-14)
 - chore(docs): fix links • [`5e61880`](https://github.com/truecharts/charts/commit/5e61880d54edc4a44c27c0baa628e1ce38b3cf4e) • [@Stavros Kois] (2024-04-14)
 - chore(docs): Fix broken links for Starlight (#20737) • [`f8affcc`](https://github.com/truecharts/charts/commit/f8affccb717a62183d56eace9a6897ec7a0bebba) • [@StevenMcElligott] (2024-04-14)
 - chore(docs): fix some mroe • [`fe741b8`](https://github.com/truecharts/charts/commit/fe741b8951cf690e012fd705bfb82fbd46cfc581) • [@Stavros Kois] (2024-04-14)
-- chore(docs): make links relative • [`5ba71e6`](https://github.com/truecharts/charts/commit/5ba71e6ec30b5defcdb5340f0776cc6362db5511) • [@Stavros Kois] (2024-04-14)
 - chore(deps): update container image common to v20.3.6@27edfed by renovate (#20599) • [`6c807c1`](https://github.com/truecharts/charts/commit/6c807c1f9707d9fd751d71cbfed29469368880e2) • [@TrueCharts Bot] (2024-04-11)
 
 ## 6.10.3 • [Train: system]
@@ -243,8 +243,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 4.5.7 • [Train: operators]
 
-- Commit daily changes • [`294fe34`](https://github.com/truecharts/charts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`74dcc8c`](https://github.com/truecharts/charts/commit/74dcc8cfc99a39f74e7976566f414e744f345596) • [@Kjeld Schouten] (2024-02-13)
+- Commit daily changes • [`294fe34`](https://github.com/truecharts/charts/commit/294fe34b4648403217b29c57ff7c9b9ff0b4f653) • [@TrueCharts-Bot] (2024-02-13)
 - chore(deps): update container image tccr.io/tccr/alpine to latest@ade0065 by renovate (#18108) • [`c9834e5`](https://github.com/truecharts/charts/commit/c9834e5443401ba2fcf6cd62e4da617f44c153be) • [@TrueCharts Bot] (2024-02-12)
 
 ## 4.5.6 • [Train: operators]
@@ -406,8 +406,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 2.0.0 • [Train: operators]
 
-- chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/truecharts/charts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
 - Commit daily changes • [`1b4ce58`](https://github.com/truecharts/charts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
+- chore(deps): update helm general major by renovate (major) (#14631) • [`49e418b`](https://github.com/truecharts/charts/commit/49e418b48889cb85206afcb8bcc4edef31a6303e) • [@TrueCharts Bot] (2023-12-20)
 
 ## 1.0.18 • [Train: operators]
 
@@ -429,8 +429,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/truecharts/charts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/truecharts/charts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
-- Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
 - Update Chart.yaml • [`1b8a805`](https://github.com/truecharts/charts/commit/1b8a805238b7bda78269a43e968987a1e8404d7f) • [@Kjeld Schouten] (2023-11-25)
 
 ## 1.0.15 • [Train: operators]
@@ -439,8 +439,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.14 • [Train: operators]
 
-- Update _mutatingwebhookconfiguration.tpl • [`0aadff5`](https://github.com/truecharts/charts/commit/0aadff5c712cc253550f17e5529a2c6206d68171) • [@Kjeld Schouten] (2023-11-25)
 - Update _validatingwebhookconfiguration.tpl • [`affeb3a`](https://github.com/truecharts/charts/commit/affeb3a52004d04f05dccc805c33dc31374906bb) • [@Kjeld Schouten] (2023-11-25)
+- Update _mutatingwebhookconfiguration.tpl • [`0aadff5`](https://github.com/truecharts/charts/commit/0aadff5c712cc253550f17e5529a2c6206d68171) • [@Kjeld Schouten] (2023-11-25)
 - chore(deps): update container image tccr.io/truecharts/prometheus-operator to v0.69.1 (#14503) • [`1ab4b5a`](https://github.com/truecharts/charts/commit/1ab4b5abe04b50eeee08c09283cdc31f51493131) • [@TrueCharts Bot] (2023-11-10)
 - chore(deps): update container image tccr.io/truecharts/prometheus-config-reloader to v0.69.1 (#14499) • [`a860c33`](https://github.com/truecharts/charts/commit/a860c339b9b6e50c41e98916569b6f038adfbf9f) • [@TrueCharts Bot] (2023-11-10)
 
@@ -458,8 +458,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.10 • [Train: operators]
 
-- chore(deps): update container image tccr.io/truecharts/prometheus-operator to v0.69.0 (#14398) • [`82dcbbb`](https://github.com/truecharts/charts/commit/82dcbbbc44fbb461228b62915466ad5202f4c878) • [@TrueCharts Bot] (2023-11-07)
 - chore(deps): update container image tccr.io/truecharts/prometheus-config-reloader to v0.69.0 (#14396) • [`6053dd4`](https://github.com/truecharts/charts/commit/6053dd457cf274164fbdf028cf1e7582b11d5fea) • [@TrueCharts Bot] (2023-11-07)
+- chore(deps): update container image tccr.io/truecharts/prometheus-operator to v0.69.0 (#14398) • [`82dcbbb`](https://github.com/truecharts/charts/commit/82dcbbbc44fbb461228b62915466ad5202f4c878) • [@TrueCharts Bot] (2023-11-07)
 
 ## 1.0.9 • [Train: operators]
 

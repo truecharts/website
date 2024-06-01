@@ -245,8 +245,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.13 • [Train: stable]
 
-- Commit daily changes • [`eac17c7`](https://github.com/truecharts/charts/commit/eac17c7bfdbdb4b9c8533909040a6b1d28315261) • [@TrueCharts-Bot] (2024-02-17)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`07c3b1c`](https://github.com/truecharts/charts/commit/07c3b1c5990ce846f3334a5bd35e2f290541f800) • [@Kjeld Schouten] (2024-02-17)
+- Commit daily changes • [`eac17c7`](https://github.com/truecharts/charts/commit/eac17c7bfdbdb4b9c8533909040a6b1d28315261) • [@TrueCharts-Bot] (2024-02-17)
 - Commit daily changes • [`69f7e1f`](https://github.com/truecharts/charts/commit/69f7e1f275ae4d83f2c8913ff7f547811f8cff58) • [@TrueCharts-Bot] (2024-02-16)
 - Commit daily changes • [`b685bef`](https://github.com/truecharts/charts/commit/b685bef5ebbb5647a1192058a44fedb7ac6d5536) • [@TrueCharts-Bot] (2024-02-15)
 - chore(deps): Adding exporter for rutorrent (#17768) • [`a59b2b4`](https://github.com/truecharts/charts/commit/a59b2b433bf1b43f1dd36e8424034965ff61d5da) • [@Ac1dburn] (2024-02-14)
@@ -312,8 +312,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.1.0 • [Train: stable]
 
-- chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/truecharts/charts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`92663fd`](https://github.com/truecharts/charts/commit/92663fd20508f148c3750c79de3f37f44530a18a) • [@TrueCharts-Bot] (2024-01-01)
+- chore: move everything to consume OCI-hosted common-chart dependency • [`0eae972`](https://github.com/truecharts/charts/commit/0eae972794d2fe164dc298993e899508639d2f2b) • [@Kjeld Schouten] (2024-01-01)
 - Commit daily changes • [`bf535bc`](https://github.com/truecharts/charts/commit/bf535bc529cd11f520ea04d08751f4b3083b8c91) • [@TrueCharts-Bot] (2023-12-31)
 - chore(docs): lints some docs, uses front-matter instead of # h1, and fix list items in changelog (#16589) • [`12b5c56`](https://github.com/truecharts/charts/commit/12b5c56b241e801486c6cedab0b783949449048e) • [@Stavros Kois] (2023-12-31)
 - chore(docs): standardize ./img references (#16704) • [`6986224`](https://github.com/truecharts/charts/commit/698622495ce0dccf9f0dbbb324d5df196d3eba3c) • [@Stavros Kois] (2023-12-31)
@@ -420,8 +420,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - Commit daily changes • [`fbb0226`](https://github.com/truecharts/charts/commit/fbb022673bbeefc08112d0876393978319b52f4d) • [@TrueCharts-Bot] (2023-12-07)
 - Commit daily changes • [`6686772`](https://github.com/truecharts/charts/commit/66867723d6f7ca59116678fea7c0618ab458e467) • [@TrueCharts-Bot] (2023-12-05)
 - Commit daily changes • [`72316cb`](https://github.com/truecharts/charts/commit/72316cbc6557d2b59e70739b7421907813f4ec85) • [@TrueCharts-Bot] (2023-12-04)
-- chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/truecharts/charts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`c5c271c`](https://github.com/truecharts/charts/commit/c5c271cb7efffb1c7200f9e6818a445658fa3890) • [@TrueCharts-Bot] (2023-12-03)
+- chore: bump everything to ensure catalog has latest versions • [`02d153a`](https://github.com/truecharts/charts/commit/02d153a62c739dabc92491b0f64739ad8db2c94d) • [@Kjeld Schouten] (2023-12-03)
 - Commit daily changes • [`1805e0a`](https://github.com/truecharts/charts/commit/1805e0a25ab55f07e62bdd17caefe9246ef198c2) • [@TrueCharts-Bot] (2023-12-03)
 
 ## 1.0.0 • [Train: stable]
@@ -429,16 +429,16 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore: fix annotations again • [`968da8e`](https://github.com/truecharts/charts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`57a03f8`](https://github.com/truecharts/charts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`4029aea`](https://github.com/truecharts/charts/commit/4029aea090973758ef3c4f7952ae41c2cf78bcb0) • [@TrueCharts-Bot] (2023-12-02)
-- Commit daily changes • [`a0cab80`](https://github.com/truecharts/charts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
 - chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- Commit daily changes • [`a0cab80`](https://github.com/truecharts/charts/commit/a0cab8013532aa7e3751411c7a16cc020866fa8d) • [@TrueCharts-Bot] (2023-12-02)
 - Commit daily changes • [`e75af59`](https://github.com/truecharts/charts/commit/e75af597d02003f3848de446c0b2f0c9dc4c10a1) • [@TrueCharts-Bot] (2023-12-01)
-- Commit daily changes • [`0ff1727`](https://github.com/truecharts/charts/commit/0ff17274f8124aafe40e52b292d8cf65c2e6da0c) • [@TrueCharts-Bot] (2023-11-30)
-- Commit daily changes • [`501680e`](https://github.com/truecharts/charts/commit/501680e43c5d8268bd1eff1cb2dd5ea20012a205) • [@TrueCharts-Bot] (2023-11-30)
 - Commit daily changes • [`17dedb7`](https://github.com/truecharts/charts/commit/17dedb7c333f68a7bf1c922eed54fafdfe28ea4c) • [@TrueCharts-Bot] (2023-11-30)
+- Commit daily changes • [`501680e`](https://github.com/truecharts/charts/commit/501680e43c5d8268bd1eff1cb2dd5ea20012a205) • [@TrueCharts-Bot] (2023-11-30)
+- Commit daily changes • [`0ff1727`](https://github.com/truecharts/charts/commit/0ff17274f8124aafe40e52b292d8cf65c2e6da0c) • [@TrueCharts-Bot] (2023-11-30)
 - Commit daily changes • [`f0ef8c0`](https://github.com/truecharts/charts/commit/f0ef8c05ccb381d85cc0d5eb910a869fbb164527) • [@TrueCharts-Bot] (2023-11-29)
-- Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
-- Commit daily changes • [`3fab41f`](https://github.com/truecharts/charts/commit/3fab41f7a192404c061a8db8398e3e45f59e5a19) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`01b0183`](https://github.com/truecharts/charts/commit/01b018378c6c815a594f899743acf38f07d682ec) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`3fab41f`](https://github.com/truecharts/charts/commit/3fab41f7a192404c061a8db8398e3e45f59e5a19) • [@TrueCharts-Bot] (2023-11-28)
+- Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`3c71f33`](https://github.com/truecharts/charts/commit/3c71f33be8b7323571e960711c76a6a3c0e75960) • [@TrueCharts-Bot] (2023-11-27)
 - Commit daily changes • [`4ff2452`](https://github.com/truecharts/charts/commit/4ff2452842e5eb4f799a001aa510fc0e7ec77217) • [@TrueCharts-Bot] (2023-11-23)
