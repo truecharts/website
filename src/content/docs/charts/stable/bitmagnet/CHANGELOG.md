@@ -248,8 +248,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.0 • [Train: incubator]
 
-- chore(bitmagnet): move to stable • [`2d2d889`](https://github.com/truecharts/charts/commit/2d2d8894a512cc2cdd56f52de4294a00ad588456) • [@Kjeld Schouten] (2024-02-24)
 - chore: BREAKING CHANGE remove SCALE-GPU GUI support in favor of custom-GPU GUI • [`e2ec0b0`](https://github.com/truecharts/charts/commit/e2ec0b02c6202c43cc19f4c4ad047025985ebb51) • [@Kjeld Schouten] (2024-02-24)
+- chore(bitmagnet): move to stable • [`2d2d889`](https://github.com/truecharts/charts/commit/2d2d8894a512cc2cdd56f52de4294a00ad588456) • [@Kjeld Schouten] (2024-02-24)
 
 ## 0.0.1 • [Train: incubator]
 
