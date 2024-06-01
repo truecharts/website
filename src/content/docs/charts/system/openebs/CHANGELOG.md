@@ -14,10 +14,10 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 6.0.1 • [Train: system]
 
 - Commit daily changes • [`ca008eb`](https://github.com/truecharts/charts/commit/ca008eb2afe01c75e63679218a2f8514f756d67e) • [@TrueCharts-Bot] (2024-06-01)
-- Commit daily changes • [`4357b53`](https://github.com/truecharts/charts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
 - chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/truecharts/charts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
-- Commit daily changes • [`529340b`](https://github.com/truecharts/charts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`4357b53`](https://github.com/truecharts/charts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
 - Commit daily changes • [`e50357a`](https://github.com/truecharts/charts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`529340b`](https://github.com/truecharts/charts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
 - Update Chart.yaml • [`3a21b79`](https://github.com/truecharts/charts/commit/3a21b79617f1e4eebfcec50393a6725633c2db8f) • [@Kjeld Schouten] (2024-05-19)
 
 ## 6.0.0 • [Train: system]
@@ -219,8 +219,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.7.2 • [Train: system]
 
-- Commit daily changes • [`bc5977a`](https://github.com/truecharts/charts/commit/bc5977a50d9d8f47b634840e827c6582cd00c9b2) • [@TrueCharts-Bot] (2024-03-21)
 - Update questions.yaml • [`72f131a`](https://github.com/truecharts/charts/commit/72f131ae34f585fedc04f6944728297c03c2cc50) • [@Kjeld Schouten] (2024-03-21)
+- Commit daily changes • [`bc5977a`](https://github.com/truecharts/charts/commit/bc5977a50d9d8f47b634840e827c6582cd00c9b2) • [@TrueCharts-Bot] (2024-03-21)
 - feat(openebs): BREAKING CHANGE (on scale) use zfs backend instead of localpath on scale (#19548) • [`7d5d5b4`](https://github.com/truecharts/charts/commit/7d5d5b4dc4bf184d1b21c3fcbb7d6c33bba7de6d) • [@Kjeld Schouten] (2024-03-20)
 
 ## 3.7.1 • [Train: system]
@@ -510,13 +510,13 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.1 • [Train: incubator]
 
 - Commit daily changes • [`a75ade9`](https://github.com/truecharts/charts/commit/a75ade9cecec94cdb45441704c760cdb51054a57) • [@TrueCharts-Bot] (2023-12-15)
-- Commit daily changes • [`836a202`](https://github.com/truecharts/charts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
 - Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/truecharts/charts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
 - Commit daily changes • [`58ebe44`](https://github.com/truecharts/charts/commit/58ebe44c1035f18876fd999e45680d1f22c3c3a6) • [@TrueCharts-Bot] (2023-12-14)
-- Commit daily changes • [`61f5b6a`](https://github.com/truecharts/charts/commit/61f5b6aca3c0616c3df63b283edf75da2834fe7a) • [@TrueCharts-Bot] (2023-12-13)
+- Commit daily changes • [`836a202`](https://github.com/truecharts/charts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
 - Commit daily changes • [`0389064`](https://github.com/truecharts/charts/commit/0389064d4964c10ef3297a94d24d3120e8e7dece) • [@TrueCharts-Bot] (2023-12-13)
-- Commit daily changes • [`8600090`](https://github.com/truecharts/charts/commit/86000902696d589d56ec162ac605e9a079eba969) • [@TrueCharts-Bot] (2023-12-12)
+- Commit daily changes • [`61f5b6a`](https://github.com/truecharts/charts/commit/61f5b6aca3c0616c3df63b283edf75da2834fe7a) • [@TrueCharts-Bot] (2023-12-13)
 - Incubator testing (#15844) • [`1dd6399`](https://github.com/truecharts/charts/commit/1dd63997c4d4a75b4da174421b494de5893debc4) • [@Kjeld Schouten] (2023-12-12)
+- Commit daily changes • [`8600090`](https://github.com/truecharts/charts/commit/86000902696d589d56ec162ac605e9a079eba969) • [@TrueCharts-Bot] (2023-12-12)
 
 ## 1.0.0 • [Train: incubator]
 
