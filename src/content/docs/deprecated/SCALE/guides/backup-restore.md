@@ -18,7 +18,7 @@ As this is a SCALE-specific guide, we expect users to have fully followed the SC
 
 ### S3 Provider Setup
 
-See [here](/general/guides/s3-setup) for instructions on how to setup an S3 storage provider for use. Once this is done, return here and continue with the below.
+See [here](/guides/s3-setup) for instructions on how to setup an S3 storage provider for use. Once this is done, return here and continue with the below.
 
 ## Backup Configuration
 

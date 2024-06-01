@@ -38,6 +38,6 @@ The Prometheus operator is required for the use of app metrics. Its installation
 
 The cloudnative-pg operator is required for any applications that utilize postgres. Its installation is recommended.
 
-1. Follow the [CNPG Operator Migration Guide](/development/scale/cnpg-migration-guide) to migrate to the new CNPG operator. Ensure you follow the guide carefully as data loss can occur with this migration if proper steps are not followed.
+1. Follow the [CNPG Operator Migration Guide](/deprecated/scale/guides/cnpg-migration-guide) to migrate to the new CNPG operator. Ensure you follow the guide carefully as data loss can occur with this migration if proper steps are not followed.
 
 _If you run into additional issues, please file a ticket with our dedicated support staff via the **#support** channel of our [discord](/s/discord) as normal._

@@ -310,7 +310,7 @@ The following command is destructive and will delete any existing CNPG databases
 
 Run the following command in system shell as **root** to see if you have any current CNPG databases to migrate: `k3s kubectl get pods -A | grep cnpg`
 
-Follow [this guide](/development/scale/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+Follow [this guide](/deprecated/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
 
 :::
 
@@ -445,7 +445,7 @@ Run the following command in system shell as **root** to see if you have any cur
 k3s kubectl get cluster -A
 ```
 
-Follow [this guide](/development/scale/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
+Follow [this guide](/deprecated/scale/guides/cnpg-migration-guide/) to safely migrate any existing CNPG databases.
 
 :::
 
