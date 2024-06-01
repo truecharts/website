@@ -90,9 +90,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 3.8.6 • [Train: stable]
 
+- Commit daily changes • [`3bbe620`](https://github.com/truecharts/charts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - Commit daily changes • [`26af685`](https://github.com/truecharts/charts/commit/26af68565949440123d8ba215a7e8544ec455067) • [@TrueCharts-Bot] (2024-04-17)
 - Revert &#34;Commit daily changes&#34; • [`328900e`](https://github.com/truecharts/charts/commit/328900e43814c8ec97a259f5124b503dcad3dd34) • [@Kjeld Schouten] (2024-04-17)
-- Commit daily changes • [`3bbe620`](https://github.com/truecharts/charts/commit/3bbe62084f52c024e50a48f42438dd8a595bda0e) • [@TrueCharts-Bot] (2024-04-17)
 - chore: bump charts to ensure new icons are released • [`9828a1e`](https://github.com/truecharts/charts/commit/9828a1ef02a808a8855e6e17cf4b601a21a315f5) • [@Kjeld Schouten] (2024-04-16)
 
 ## 3.8.5 • [Train: stable]
@@ -366,8 +366,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.8 • [Train: incubator]
 
-- chore: Bump everything to force min/max scale version update • [`3f74856`](https://github.com/truecharts/charts/commit/3f74856193b35679c25ba809b3e7d4164b67e23d) • [@Kjeld Schouten] (2023-12-20)
 - Commit daily changes • [`1b4ce58`](https://github.com/truecharts/charts/commit/1b4ce58b07af1529cb62f6554febbdc1f797ddb6) • [@TrueCharts-Bot] (2023-12-20)
+- chore: Bump everything to force min/max scale version update • [`3f74856`](https://github.com/truecharts/charts/commit/3f74856193b35679c25ba809b3e7d4164b67e23d) • [@Kjeld Schouten] (2023-12-20)
 
 ## 1.0.7 • [Train: incubator]
 
@@ -387,8 +387,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.1 • [Train: incubator]
 
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/truecharts/charts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
 - Commit daily changes • [`836a202`](https://github.com/truecharts/charts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/truecharts/charts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
 - Commit daily changes • [`0389064`](https://github.com/truecharts/charts/commit/0389064d4964c10ef3297a94d24d3120e8e7dece) • [@TrueCharts-Bot] (2023-12-13)
 - Incubator testing (#15844) • [`1dd6399`](https://github.com/truecharts/charts/commit/1dd63997c4d4a75b4da174421b494de5893debc4) • [@Kjeld Schouten] (2023-12-12)
 
@@ -414,9 +414,9 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 0.0.6 • [Train: incubator]
 
-- chore: fix annotations again • [`968da8e`](https://github.com/truecharts/charts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
-- chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
 - Commit daily changes • [`57a03f8`](https://github.com/truecharts/charts/commit/57a03f87318553c6d549bb9ae286dcd3cb3d8d5e) • [@TrueCharts-Bot] (2023-12-02)
+- chore: update annotations • [`5e194fb`](https://github.com/truecharts/charts/commit/5e194fb0bb5e2db19f02aac9cfd3cf32f28694f2) • [@Kjeld Schouten] (2023-12-02)
+- chore: fix annotations again • [`968da8e`](https://github.com/truecharts/charts/commit/968da8ed456fb6015744404b9cd21b832b0f9b38) • [@Kjeld Schouten] (2023-12-02)
 - chore: cleanup chart.yaml and add min-max scale version • [`286f68a`](https://github.com/truecharts/charts/commit/286f68aed0da4d274bcd7e7266934adee6667c6c) • [@Kjeld Schouten] (2023-11-30)
 - Commit daily changes • [`0027f37`](https://github.com/truecharts/charts/commit/0027f3756f8bc222b262970613f7465d746b0548) • [@TrueCharts-Bot] (2023-11-28)
 - Commit daily changes • [`d1c2213`](https://github.com/truecharts/charts/commit/d1c22138f95fdb77ed67ed1702ac71741ce17f1b) • [@TrueCharts-Bot] (2023-11-28)
@@ -425,16 +425,16 @@ If you need more than 2 scrolls to find your current version, please consider up
 - feat: hide advanced ingress options behind checbox (#9203) • [`de12a7e`](https://github.com/truecharts/charts/commit/de12a7e49a8e934cf5f9b53e11ac4e44bed1fcfc) • [@Kjeld Schouten] (2023-05-28)
 - fix: fix mistakes on questions.yaml • [`8cb036a`](https://github.com/truecharts/charts/commit/8cb036ac171e8787140d492d724f5a55e8321073) • [@Kjeld Schouten-Lebbing] (2023-05-22)
 - Commit daily changes • [`94c00b8`](https://github.com/truecharts/charts/commit/94c00b8c6fb66a5bb068f18fb26cd62297f35359) • [@TrueCharts-Bot] (2023-03-24)
-- update security context questions • [`893b55d`](https://github.com/truecharts/charts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - adapt workload and container questions for all apps • [`3c47107`](https://github.com/truecharts/charts/commit/3c471071cc485e386195989e12a1c45af51d67ac) • [@Kjeld Schouten-Lebbing] (2023-03-01)
+- update security context questions • [`893b55d`](https://github.com/truecharts/charts/commit/893b55dc56a6a658d921b59ec48696c23cb21926) • [@Kjeld Schouten-Lebbing] (2023-03-01)
 - Merge pull request #7514 from truecharts/renovate/patch-ersatztv • [`e8402da`](https://github.com/truecharts/charts/commit/e8402da5cece4c811097b70c552ea80b359325dd) • [@TrueCharts Bot] (2023-02-23)
 - Commit bumped Chart Version • [`dbb78d7`](https://github.com/truecharts/charts/commit/dbb78d7aceb413f7862829657684ed8478d74cb8) • [@TrueCharts-Bot] (2023-02-23)
 
 ## 0.0.5 • [Train: incubator]
 
 - chore(deps): update container image tccr.io/truecharts/ersatztv-vaapi to v0.7.4 • [`9e7fa1d`](https://github.com/truecharts/charts/commit/9e7fa1db8f6a8f27d753c0ff6203701fd31a1c4c) • [@TrueCharts-Admin] (2023-02-23)
-- Merge pull request #7211 from truecharts/renovate/patch-ersatztv • [`b16d94a`](https://github.com/truecharts/charts/commit/b16d94a808642d64098a1218b8f1dbe079f8e7bc) • [@TrueCharts Bot] (2023-02-13)
 - Commit bumped Chart Version • [`513ffb0`](https://github.com/truecharts/charts/commit/513ffb0c627a865570b455235febf364a1d0e5ff) • [@TrueCharts-Bot] (2023-02-13)
+- Merge pull request #7211 from truecharts/renovate/patch-ersatztv • [`b16d94a`](https://github.com/truecharts/charts/commit/b16d94a808642d64098a1218b8f1dbe079f8e7bc) • [@TrueCharts Bot] (2023-02-13)
 
 ## 0.0.4 • [Train: incubator]
 
@@ -454,11 +454,11 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 - Commit daily changes • [`ed743f6`](https://github.com/truecharts/charts/commit/ed743f6c5c2534c39143d6f822d19bb47913ecd2) • [@TrueCharts-Bot] (2023-02-01)
 - Commit daily changes • [`adda47b`](https://github.com/truecharts/charts/commit/adda47bb6418f0deda603b30b02d21c6978f93a0) • [@TrueCharts-Bot] (2023-02-01)
+- Commit daily changes • [`dfff570`](https://github.com/truecharts/charts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`ed66075`](https://github.com/truecharts/charts/commit/ed660759772ba0148d1e6de709596011b2ceee63) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`0fb22dd`](https://github.com/truecharts/charts/commit/0fb22dd1e2a9fe895502d16547469e94a3d706c9) • [@TrueCharts-Bot] (2023-01-31)
 - Commit daily changes • [`3f63d20`](https://github.com/truecharts/charts/commit/3f63d20af933f7fb1f1dc555ed585f475a4eb92f) • [@TrueCharts-Bot] (2023-01-31)
 - Merge pull request #6772 from truecharts/renovate/patch-ersatztv • [`b11ce09`](https://github.com/truecharts/charts/commit/b11ce097a5bebd1d2191c6297719c67b0d124326) • [@TrueCharts Bot] (2023-01-31)
-- Commit daily changes • [`dfff570`](https://github.com/truecharts/charts/commit/dfff570b9c1a46b2b8a4178626c6b4299be83e22) • [@TrueCharts-Bot] (2023-01-31)
 - Commit bumped Chart Version • [`ff0d827`](https://github.com/truecharts/charts/commit/ff0d827f88848ea438042dff1f936d3652a11324) • [@TrueCharts-Bot] (2023-01-30)
 
 ## 0.0.1 • [Train: incubator]

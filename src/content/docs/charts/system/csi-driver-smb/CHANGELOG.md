@@ -17,8 +17,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 - chore(deps): update ignored by renovate (patch) (#21659) • [`3a07b9f`](https://github.com/truecharts/charts/commit/3a07b9f9794a4debbd6ede53e3e0095060c8c9a2) • [@TrueCharts Bot] (2024-05-31)
 - Commit daily changes • [`4357b53`](https://github.com/truecharts/charts/commit/4357b533a97aa77ffa16998ce8b568336e3892a9) • [@TrueCharts-Bot] (2024-05-31)
 - chore(deps): lock file maintenance helm system by renovate (#21663) • [`ce99999`](https://github.com/truecharts/charts/commit/ce999995345c0d473eaad6045a60777dd30feab1) • [@TrueCharts Bot] (2024-05-30)
-- Commit daily changes • [`e50357a`](https://github.com/truecharts/charts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`529340b`](https://github.com/truecharts/charts/commit/529340b7575e8cd6d00d2499271dc62e58a8d18d) • [@TrueCharts-Bot] (2024-05-26)
+- Commit daily changes • [`e50357a`](https://github.com/truecharts/charts/commit/e50357a154422a397a11141869f0973293102e49) • [@TrueCharts-Bot] (2024-05-26)
 - Commit daily changes • [`17d5f88`](https://github.com/truecharts/charts/commit/17d5f886bfd21d2f7e021feee2657a89a9869488) • [@TrueCharts-Bot] (2024-05-02)
 - chore: bump common to release improved checks on volsync and cnpg (#21454) • [`afc5e7e`](https://github.com/truecharts/charts/commit/afc5e7eafa19a1b65a13d021fedf7510b485bd13) • [@Kjeld Schouten] (2024-05-01)
 
@@ -369,8 +369,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.7 • [Train: operators]
 
-- Commit daily changes • [`dc6307d`](https://github.com/truecharts/charts/commit/dc6307df6c586eed5b74689504a8739be7854768) • [@TrueCharts-Bot] (2023-12-20)
 - chore(deps): update container image tccr.io/truecharts/alpine to latest@51c4ca9 by renovate (#15476) • [`1f439eb`](https://github.com/truecharts/charts/commit/1f439ebe16efb9f29e10af98488dcf46b2bccec6) • [@TrueCharts Bot] (2023-12-20)
+- Commit daily changes • [`dc6307d`](https://github.com/truecharts/charts/commit/dc6307df6c586eed5b74689504a8739be7854768) • [@TrueCharts-Bot] (2023-12-20)
 
 ## 1.0.6 • [Train: operators]
 
@@ -385,8 +385,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 
 ## 1.0.4 • [Train: operators]
 
-- chore(deps): update container image velero/velero-plugin-for-csi to v0.6.2@f0a6f54 (#16175) • [`3dd9eef`](https://github.com/truecharts/charts/commit/3dd9eef800a5d828acdbaee03d558929cda1af81) • [@TrueCharts Bot] (2023-12-16)
 - chore(deps): update container image velero/velero-plugin-for-aws to v1.8.2@edfb144 (#16174) • [`3f2ca80`](https://github.com/truecharts/charts/commit/3f2ca80018300ef1173ab7c66b2f41db1fd583d4) • [@TrueCharts Bot] (2023-12-16)
+- chore(deps): update container image velero/velero-plugin-for-csi to v0.6.2@f0a6f54 (#16175) • [`3dd9eef`](https://github.com/truecharts/charts/commit/3dd9eef800a5d828acdbaee03d558929cda1af81) • [@TrueCharts Bot] (2023-12-16)
 
 ## 1.0.3 • [Train: operators]
 
@@ -400,8 +400,8 @@ If you need more than 2 scrolls to find your current version, please consider up
 ## 1.0.1 • [Train: incubator]
 
 - Commit daily changes • [`a75ade9`](https://github.com/truecharts/charts/commit/a75ade9cecec94cdb45441704c760cdb51054a57) • [@TrueCharts-Bot] (2023-12-15)
-- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/truecharts/charts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
 - Commit daily changes • [`836a202`](https://github.com/truecharts/charts/commit/836a202222e70213ddd12fcecb0b4a74bfa88631) • [@TrueCharts-Bot] (2023-12-14)
+- Merge branch &#39;master&#39; of github.com:truecharts/charts • [`d85f6a7`](https://github.com/truecharts/charts/commit/d85f6a76ea5ed62e71514fc874b4b8b1e6c73230) • [@Kjeld Schouten] (2023-12-14)
 - Commit daily changes • [`0389064`](https://github.com/truecharts/charts/commit/0389064d4964c10ef3297a94d24d3120e8e7dece) • [@TrueCharts-Bot] (2023-12-13)
 - Incubator testing (#15844) • [`1dd6399`](https://github.com/truecharts/charts/commit/1dd63997c4d4a75b4da174421b494de5893debc4) • [@Kjeld Schouten] (2023-12-12)
 - Commit daily changes • [`8600090`](https://github.com/truecharts/charts/commit/86000902696d589d56ec162ac605e9a079eba969) • [@TrueCharts-Bot] (2023-12-12)
